@@ -2,7 +2,7 @@ name: Deploy to Firebase Hosting (seadice-research)
 on:
   push:
     branches: [main]
-    paths: ["public/**", "firebase.json"]
+    paths: ["sites/**", "firebase.json"]
 jobs:
   deploy:
     runs-on: ubuntu-latest
