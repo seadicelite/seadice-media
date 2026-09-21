@@ -120,7 +120,7 @@ def build(slug, preview=None):
 
   <div class="about"><strong>このメディアについて</strong><br>{about} 写真は <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a> の自由ライセンス素材で、各記事に撮影者とライセンスを表示しています。</div>
 </main>
-<footer><p><a href="https://seadice.win/">SEADICE</a> | <a href="https://seadice.win/apps/">アプリ一覧</a> | &copy; SEADICE</p></footer>
+<footer><p><a href="/about/">このメディアについて</a> | <a href="/sources/">出典と検証の方法</a> | <a href="/disclaimer/">免責事項</a> | <a href="https://seadice.win/">SEADICE</a> | &copy; SEADICE</p></footer>
 </body>
 </html>
 '''
@@ -131,10 +131,12 @@ def build(slug, preview=None):
         return print("preview:", outdir / "index.html")
     sm = ROOT / cfg["path"] / "sitemap.xml"
     s = sm.read_text() if sm.exists() else '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n</urlset>\n'
-    urls = [url] + [f"{url}{p['slug']}/" for p in posts]
+    urls = [url] + [f"{url}{p['slug']}/" for p in posts] + [f"{url}{x}/" for x in ("about", "sources", "disclaimer")]
     add = "".join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{posts[0]["date"] if posts else ""}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.7</priority>\n  </url>\n' for u in urls if f"<loc>{u}</loc>" not in s)
     sm.write_text(s.replace("</urlset>", add + "</urlset>") if add else s)
-    print(f"built {cfg['path']}index.html ({len(posts)} posts)")
+    import seo
+    n, pages = seo.apply(cfg, posts, images)
+    print(f"built {cfg['path']}index.html ({len(posts)} posts), seo-patched {n} articles, {len(pages)} trust pages")
 
 
 if __name__ == "__main__":
