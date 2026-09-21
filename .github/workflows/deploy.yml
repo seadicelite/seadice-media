@@ -1,4 +1,4 @@
-name: Deploy to Firebase Hosting (seadice-research)
+name: Deploy media sites to Firebase Hosting
 on:
   push:
     branches: [main]
