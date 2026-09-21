@@ -5,6 +5,7 @@
 import html, json, sys
 from pathlib import Path
 
+
 ROOT = Path(__file__).resolve().parent.parent
 ICONS = {  # カテゴリ用アイコン(24x24 path)
     "moon": "M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z",
@@ -59,9 +60,10 @@ def card(p, cats, images, types):
 CSS = """*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}:root{--bg:%(bg)s;--card:%(card)s;--accent:%(accent)s;--accent2:%(accent2)s;--border:%(border)s;--text:%(text)s;--muted:%(muted)s;--link:%(link)s}html{scroll-behavior:smooth}body{background:var(--bg);color:var(--text);font-family:-apple-system,'Helvetica Neue',sans-serif;line-height:1.7;-webkit-text-size-adjust:100%%}nav.top{position:fixed;top:0;left:0;right:0;z-index:100;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);background:color-mix(in srgb,var(--bg) 82%%,transparent);border-bottom:1px solid var(--border);padding:0 20px;height:56px;display:flex;align-items:center;justify-content:space-between}.nav-logo{font-size:15px;font-weight:800;letter-spacing:.15em;background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;text-decoration:none}nav.top a.r{font-size:13px;color:var(--muted);text-decoration:none;letter-spacing:.08em}main{max-width:960px;margin:0 auto;padding:88px 20px 64px}.hero{padding:24px 0 28px}h1{font-size:clamp(28px,7vw,46px);font-weight:800;letter-spacing:.06em;line-height:1.15;background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}.tagline{font-size:15px;color:var(--muted);margin-top:8px;letter-spacing:.04em}.lead{font-size:15px;color:var(--text);opacity:.85;margin-top:14px;max-width:620px}.chips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 40px}.chip{display:inline-flex;align-items:center;gap:6px;font-size:13px;color:var(--text);text-decoration:none;border:1px solid var(--border);background:var(--card);border-radius:999px;padding:7px 14px}.chip svg{width:15px;height:15px;fill:var(--c)}.chip:hover{border-color:var(--c)}h2.sec{font-size:14px;letter-spacing:.14em;color:var(--muted);margin:0 0 14px}h2.cat{display:flex;align-items:center;gap:8px;font-size:18px;margin:44px 0 14px;padding-left:12px;border-left:4px solid var(--c)}h2.cat svg{width:20px;height:20px;fill:var(--c)}.grid{display:grid;gap:16px;grid-template-columns:1fr}@media(min-width:620px){.grid{grid-template-columns:1fr 1fr}}@media(min-width:900px){.grid{grid-template-columns:1fr 1fr 1fr}}.card{display:flex;flex-direction:column;background:var(--card);border:1px solid var(--border);border-radius:14px;overflow:hidden;text-decoration:none;color:var(--text);transition:border-color .15s,transform .15s}.card:hover{border-color:var(--accent);transform:translateY(-2px)}.th{position:relative;overflow:hidden;aspect-ratio:16/8;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,color-mix(in srgb,var(--c) 38%%,var(--bg)),color-mix(in srgb,var(--c) 10%%,var(--bg)))}.th img{position:absolute;inset:0;width:100%%;height:100%%;object-fit:cover}.th svg{width:44px;height:44px;fill:var(--c);opacity:.95}.cb{padding:14px 16px 16px}.tag{display:inline-block;font-size:11px;letter-spacing:.06em;color:var(--c);border:1px solid var(--c);border-radius:4px;padding:1px 8px}.ty{display:inline-block;font-size:11px;letter-spacing:.06em;color:var(--bg);background:var(--accent);border-radius:4px;padding:1px 8px;margin-left:6px}.card .t{font-size:16px;font-weight:700;line-height:1.5;margin:8px 0 6px}.card .d{font-size:13px;color:var(--muted);line-height:1.65}.card time{display:block;font-size:11px;color:var(--muted);margin-top:10px}.empty{grid-column:1/-1;background:var(--card);border:1px dashed var(--border);border-radius:12px;padding:20px;font-size:14px;color:var(--muted)}.adslot{margin:40px 0;min-height:250px;background:var(--card);border:1px dashed var(--border);border-radius:12px;display:none}.about{margin-top:56px;padding:22px;background:var(--card);border:1px solid var(--border);border-radius:16px;font-size:14px;color:var(--text);opacity:.92}.about strong{color:var(--accent)}.about a{color:var(--link)}footer{border-top:1px solid var(--border);padding:24px;text-align:center;font-size:12px;color:var(--muted)}footer a{color:var(--muted);margin:0 6px}"""
 
 
-def build(slug):
+def build(slug, preview=None):
     cfg = json.loads((ROOT / f"media/{slug}.json").read_text())
-    posts = json.loads((ROOT / f"media/{slug}-posts.json").read_text())
+    pf = ROOT / (f"media/{slug}-posts.sample.json" if preview else f"media/{slug}-posts.json")
+    posts = json.loads(pf.read_text())
     ip = ROOT / f"media/{slug}-images.json"
     images = json.loads(ip.read_text()) if ip.exists() else {}
     theme = {**DEFAULT_THEME, **cfg.get("theme", {})}
@@ -78,6 +80,13 @@ def build(slug):
         items = [p for p in posts if p["category"] == n]
         body = "".join(card(p, cats, images, types) for p in items) or '<p class="empty">記事を準備中です。</p>'
         secs += f'<section id="c-{v["id"]}"><h2 class="cat" style="--c:{v["color"]}"><svg viewBox="0 0 24 24"><path d="{v["icon"]}"/></svg>{html.escape(n)}</h2><div class="grid">{body}</div></section>'
+    mag = cfg.get("layout") == "magazine"
+    ticker_html = ""
+    if mag:
+        import magazine
+        ticker_html, body_html = magazine.render(cfg, posts, cats, images, types, img_url, card)
+        extra_css = magazine.EXTRA_CSS
+        secs_html = secs.replace('<section id="c-', '<section style="margin-top:8px" id="c-')
     ttl = f"{name} | {cfg.get('titleSuffix', '')}".rstrip(" |")
     desc = html.escape(cfg.get("description", ""), quote=True)
     ld = json.dumps({"@context": "https://schema.org", "@graph": [
@@ -98,25 +107,16 @@ def build(slug):
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <script type="application/ld+json">{ld}</script>
-<style>{CSS % theme}</style>
+<style>{CSS % theme}{extra_css if mag else ""}</style>
 </head>
 <body>
 <nav class="top">
   <a href="https://seadice.win/" class="nav-logo">SEADICE</a>
   <a href="/" class="r">{html.escape(name)}</a>
 </nav>
-<main>
-  <div class="hero">
-    <h1>{html.escape(name)}</h1>
-    <p class="tagline">{html.escape(tagline)}</p>
-    <p class="lead">{html.escape(lead)}</p>
-  </div>
-  <div class="chips" aria-label="カテゴリ">{chips}</div>
-
-  <h2 class="sec">LATEST</h2>
-  <div class="grid">{latest}</div>
-
-  {secs}
+{ticker_html}<main{' class="mag"' if mag else ''}>
+  {'' if mag else f'<div class="hero"><h1>{html.escape(name)}</h1><p class="tagline">{html.escape(tagline)}</p><p class="lead">{html.escape(lead)}</p></div><div class="chips" aria-label="カテゴリ">{chips}</div><h2 class="sec">LATEST</h2><div class="grid">{latest}</div>'}
+  {body_html + secs_html if mag else secs}
 
   <div class="about"><strong>このメディアについて</strong><br>{about} 写真は <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a> の自由ライセンス素材で、各記事に撮影者とライセンスを表示しています。</div>
 </main>
@@ -124,8 +124,11 @@ def build(slug):
 </body>
 </html>
 '''
-    (ROOT / cfg["path"]).mkdir(parents=True, exist_ok=True)
-    (ROOT / cfg["path"] / "index.html").write_text(out)
+    outdir = Path(preview) if preview else ROOT / cfg["path"]
+    outdir.mkdir(parents=True, exist_ok=True)
+    (outdir / "index.html").write_text(out)
+    if preview:
+        return print("preview:", outdir / "index.html")
     sm = ROOT / cfg["path"] / "sitemap.xml"
     s = sm.read_text() if sm.exists() else '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n</urlset>\n'
     urls = [url] + [f"{url}{p['slug']}/" for p in posts]
@@ -135,4 +138,5 @@ def build(slug):
 
 
 if __name__ == "__main__":
-    build(sys.argv[1] if len(sys.argv) > 1 else "research")
+    a = sys.argv[1:]
+    build(a[0] if a else "research", a[a.index("--preview") + 1] if "--preview" in a else None)

@@ -1,0 +1,122 @@
+[
+ {
+  "slug": "sample-1",
+  "category": "脈あり・好意のサイン",
+  "type": "guide",
+  "date": "2026-09-21",
+  "title": "脈ありのサインは本当にある？好意が行動に表れる研究を整理",
+  "summary": "好意は、視線・距離・返信のどこに表れるのか。研究で裏づけのあるサインだけ。",
+  "featured": true,
+  "rank": 1
+ },
+ {
+  "slug": "sample-2",
+  "category": "仕草・ボディランゲージ",
+  "type": "news",
+  "date": "2026-09-21",
+  "title": "仕草で嘘は見抜けない？正確さは偶然に近いという研究",
+  "summary": "嘘を見抜ける確率は約54%。それでも読める仕草はあるのか。",
+  "featured": false,
+  "rank": 2
+ },
+ {
+  "slug": "sample-3",
+  "category": "相性と結婚",
+  "type": "guide",
+  "date": "2026-09-21",
+  "title": "結婚前に確認したい、長続きする夫婦の共通点",
+  "summary": "喧嘩のしかたと価値観。研究が示した3つの分かれ目。",
+  "featured": false,
+  "rank": 3
+ },
+ {
+  "slug": "sample-4",
+  "category": "危険な相手のサイン",
+  "type": "guide",
+  "date": "2026-09-20",
+  "title": "ガスライティングを受けている人が、最初に気づくサイン",
+  "summary": "「あなたの勘違い」と言われ続けるとき。見抜き方と身を守る一歩。",
+  "featured": false,
+  "rank": 4
+ },
+ {
+  "slug": "sample-5",
+  "category": "脈あり・好意のサイン",
+  "type": "news",
+  "date": "2026-09-20",
+  "title": "目が合う回数と好意の関係を調べた新しい研究",
+  "summary": "視線の長さは好意を表すのか。実験の結果と限界。",
+  "featured": false,
+  "rank": 5
+ },
+ {
+  "slug": "sample-6",
+  "category": "駆け引きと心理",
+  "type": "news",
+  "date": "2026-09-20",
+  "title": "既読スルーが気になる人の心理、研究が示す3つの背景",
+  "summary": "返信の間隔に意味はあるのか。研究で読む。",
+  "featured": false,
+  "rank": null
+ },
+ {
+  "slug": "sample-7",
+  "category": "仕草・ボディランゲージ",
+  "type": "term",
+  "date": "2026-09-19",
+  "title": "愛着スタイルとは何か：安定型・不安型・回避型を解説",
+  "summary": "恋愛の相性を語るときによく出る言葉を、やさしく。",
+  "featured": false,
+  "rank": null
+ },
+ {
+  "slug": "sample-8",
+  "category": "危険な相手のサイン",
+  "type": "term",
+  "date": "2026-09-19",
+  "title": "ラブボミングとは：初期に過剰な好意を示す行動の研究",
+  "summary": "支配的な関係の入り口として研究されている行動。",
+  "featured": false,
+  "rank": null
+ },
+ {
+  "slug": "sample-9",
+  "category": "別れと復縁",
+  "type": "guide",
+  "date": "2026-09-19",
+  "title": "別れたあと、立ち直るまでにかかる期間の研究",
+  "summary": "「3か月で忘れる」は本当か。研究が示した回復の目安。",
+  "featured": false,
+  "rank": null
+ },
+ {
+  "slug": "sample-10",
+  "category": "駆け引きと心理",
+  "type": "weekly",
+  "date": "2026-09-18",
+  "title": "今週の研究まとめ：返信、視線、そして結婚の分かれ目",
+  "summary": "今週の速報から、注目の3本をまとめて。",
+  "featured": false,
+  "rank": null
+ },
+ {
+  "slug": "sample-11",
+  "category": "相性と結婚",
+  "type": "news",
+  "date": "2026-09-18",
+  "title": "「相性診断」は当たるのか：性格の類似と満足度の研究",
+  "summary": "似ているほうがうまくいくのか、補い合うのがよいのか。",
+  "featured": false,
+  "rank": null
+ },
+ {
+  "slug": "sample-12",
+  "category": "危険な相手のサイン",
+  "type": "guide",
+  "date": "2026-09-18",
+  "title": "モラハラをする人に共通する行動パターンの研究",
+  "summary": "診断ではなく、行動から見抜く。相談先も紹介。",
+  "featured": false,
+  "rank": null
+ }
+]
