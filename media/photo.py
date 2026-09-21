@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parent.parent
 UA = "SEADICE-media/1.0 (https://seadice.win; hi@seadice.win)"
 OK_LIC = re.compile(r"^(CC0|CC BY(?!-N)(?!.*\bN[CD]\b)|CC BY-SA(?!.*\bN[CD]\b)|Public domain|PD)", re.I)
 # 記事に不向きな種類の画像と、センシティブな内容（人物の露出・病院・事故・死・武器など）を題名と説明文から除外する
-BAD_TITLE = re.compile(r"\b(map|logo|flag|diagram|chart|coat of arms|screenshot|scan|poster|stamp|illustration|"
+BAD_TITLE = re.compile(r"\b(map|logo|flag|diagram|chart|coat of arms|screenshot|scan|poster|stamp|illustration|statue|sculpture|"
                        r"nude|naked|nudity|topless|erotic|sex\w*|bikini|lingerie|underwear|fetish|porn\w*|"
                        r"patient|hospital|intensive care|surgery|wound|injur\w*|corpse|dead|death|funeral|autopsy|"
                        r"war|weapon|gun|blood|accident|crash|disaster|victim|suicide|drug\w*|child abuse)\b", re.I)
@@ -20,6 +20,14 @@ FIG = re.compile(r'<figure class="hero">.*?</figure>\s*', re.S)
 
 def strip(t):
     return html.unescape(re.sub(r"<[^>]+>", "", t or "")).strip()
+
+
+def clean_artist(a):
+    """作者欄がURLだけのとき（Pixabay等）は、ユーザー名を取り出して読める表記にする。"""
+    if a.startswith("http"):
+        name = re.sub(r"-\d+$", "", a.rstrip("/").split("/")[-1])
+        return (name + (" (Pixabay)" if "pixabay" in a else ""))[:80]
+    return a[:80] or "Unknown"
 
 
 def search(query):
@@ -65,7 +73,7 @@ def main(media, slug, query, flag=""):
     ratio = ii["thumbheight"] / ii["thumbwidth"]
     i = {"file": p["title"], "src": t1024, "src640": t640, "w": 960, "h": round(960 * ratio),
          "alt": (strip(m.get("ImageDescription", {}).get("value")) or query)[:140],
-         "artist": strip(m.get("Artist", {}).get("value"))[:80] or "Unknown", "license": lic,
+         "artist": clean_artist(strip(m.get("Artist", {}).get("value"))), "license": lic,
          "licenseUrl": m.get("LicenseUrl", {}).get("value", ""), "page": ii["descriptionurl"]}
     images[slug] = i
     ip.write_text(json.dumps(images, ensure_ascii=False, indent=1))

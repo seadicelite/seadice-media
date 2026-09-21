@@ -1,1 +1,30 @@
-[]
+[
+ {
+  "slug": "love-signals-flirting-research",
+  "category": "脈あり・好意のサイン",
+  "type": "guide",
+  "date": "2026-09-21",
+  "title": "脈ありサインは当てになる？スピードデートの研究が示した「好意の読み違い」",
+  "summary": "人は相手の好意をどれほど読み違えるのか。スピードデートの研究から、確かめ方を整理。",
+  "featured": true,
+  "rank": 1
+ },
+ {
+  "slug": "body-language-lie-detection-accuracy",
+  "category": "仕草・ボディランゲージ",
+  "type": "guide",
+  "date": "2026-09-21",
+  "title": "仕草で嘘は見抜ける？206の研究が示した正解率は、約54%",
+  "summary": "視線や仕草で嘘はわかるのか。メタ分析が示した限界と、代わりにできること。",
+  "rank": 2
+ },
+ {
+  "slug": "marriage-compatibility-research",
+  "category": "相性と結婚",
+  "type": "guide",
+  "date": "2026-09-21",
+  "title": "結婚前に確認したいこと：長続きする関係を予測する研究",
+  "summary": "43の研究が示した、関係の満足度を予測する要素と、話し合っておきたい3つのこと。",
+  "rank": 3
+ }
+]

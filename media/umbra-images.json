@@ -1,1 +1,38 @@
-{}
+{
+ "love-signals-flirting-research": {
+  "file": "File:Cake and coffee.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cake_and_coffee.jpg/960px-Cake_and_coffee.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cake_and_coffee.jpg/500px-Cake_and_coffee.jpg",
+  "w": 960,
+  "h": 708,
+  "alt": "On the picture, we can see one chocolate cake with a small pretzel on top and two coffee cups with latte art (one heart and one flower with ",
+  "artist": "TGar21",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cake_and_coffee.jpg"
+ },
+ "marriage-compatibility-research": {
+  "file": "File:Placing a wedding ring.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Placing_a_wedding_ring.jpg/960px-Placing_a_wedding_ring.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Placing_a_wedding_ring.jpg/500px-Placing_a_wedding_ring.jpg",
+  "w": 960,
+  "h": 808,
+  "alt": "Placing a wedding ring.",
+  "artist": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Placing_a_wedding_ring.jpg"
+ },
+ "body-language-lie-detection-accuracy": {
+  "file": "File:Handshake-2056021.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Handshake-2056021.jpg/960px-Handshake-2056021.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Handshake-2056021.jpg/500px-Handshake-2056021.jpg",
+  "w": 960,
+  "h": 864,
+  "alt": "Anbieten der Hand für einen Handschlag",
+  "artist": "TeroVesalainen (Pixabay)",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Handshake-2056021.jpg"
+ }
+}
