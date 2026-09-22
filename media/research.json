@@ -18,7 +18,7 @@
   "template": ".claude/commands/research-template.html",
   "rulesFrom": ".claude/commands/research.md",
   "relatedApps": "p/released-apps.json から悩みに近いものを選ぶ。無ければ記事のアプリ案のみ",
-  "postsPerRun": 3,
+  "postsPerRun": 1,
   "topicQueue": [
     "先延ばしは意志の弱さではなく感情の問題という研究",
     "2分ルールは本当に効くか、習慣形成の日数の研究",

@@ -87,7 +87,7 @@
   ],
   "template": ".claude/commands/umbra-template.html",
   "rulesFrom": ".claude/commands/umbra.md",
-  "postsPerRun": 3,
+  "postsPerRun": 1,
   "topicQueue": [
     "喧嘩のしかたで関係が続くか決まるという研究",
     "愛着スタイルと恋愛の相性の研究",
