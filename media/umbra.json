@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "publish": "draft",
+  "publish": "auto",
   "slug": "umbra",
   "name": "UMBRA",
   "path": "sites/umbra/",
