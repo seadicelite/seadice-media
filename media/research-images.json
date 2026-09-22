@@ -22,5 +22,17 @@
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Window_Nap_(Unsplash).jpg"
+ },
+ "caffeine-hours-before-bed": {
+  "file": "File:Dot's Diner Jefferson Parish Coffee Cup Clock.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dot%27s_Diner_Jefferson_Parish_Coffee_Cup_Clock.jpg/960px-Dot%27s_Diner_Jefferson_Parish_Coffee_Cup_Clock.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dot%27s_Diner_Jefferson_Parish_Coffee_Cup_Clock.jpg/500px-Dot%27s_Diner_Jefferson_Parish_Coffee_Cup_Clock.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "Dot's Diner, Jefferson Parish, Louisiana\nwww.dotsdiner.com/ordereze/default.aspx",
+  "artist": "Steve Snodgrass",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dot%27s_Diner_Jefferson_Parish_Coffee_Cup_Clock.jpg"
  }
 }
