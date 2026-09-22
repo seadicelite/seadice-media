@@ -18,7 +18,7 @@
   "template": ".claude/commands/research-template.html",
   "rulesFrom": ".claude/commands/research.md",
   "relatedApps": "p/released-apps.json から悩みに近いものを選ぶ。無ければ記事のアプリ案のみ",
-  "postsPerRun": 1,
+  "postsPerRun": 3,
   "topicQueue": [
     "カフェインは何時間前まで？睡眠への影響の研究",
     "先延ばしは意志の弱さではなく感情の問題という研究",

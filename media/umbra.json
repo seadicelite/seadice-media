@@ -87,7 +87,7 @@
   ],
   "template": ".claude/commands/umbra-template.html",
   "rulesFrom": ".claude/commands/umbra.md",
-  "postsPerRun": 1,
+  "postsPerRun": 3,
   "topicQueue": [
     "脈ありのサインは本当にある？好意が行動に表れる研究",
     "仕草で嘘は見抜けるのか、研究が示す正確さ",
