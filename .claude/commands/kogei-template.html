@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{TITLE}} | KOGEI</title>
+<meta name="description" content="{{DESCRIPTION_120字以内・質問形+結論}}">
+<link rel="canonical" href="https://kogei.seadice.win/{{SLUG}}/">
+<meta property="og:title" content="{{TITLE}} | KOGEI">
+<meta property="og:description" content="{{DESCRIPTION}}">
+<meta property="og:url" content="https://kogei.seadice.win/{{SLUG}}/">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"{{TITLE}}","datePublished":"{{YYYY-MM-DD}}","dateModified":"{{YYYY-MM-DD}}","author":{"@type":"Organization","name":"SEADICE"},"publisher":{"@type":"Organization","name":"SEADICE","url":"https://seadice.win"},"url":"https://kogei.seadice.win/{{SLUG}}/","citation":["{{出典URL1}}","{{出典URL2}}"]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"{{質問}}","acceptedAnswer":{"@type":"Answer","text":"{{回答}}"}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"HOME","item":"https://seadice.win/"},{"@type":"ListItem","position":2,"name":"KOGEI","item":"https://kogei.seadice.win/"},{"@type":"ListItem","position":3,"name":"{{TITLE}}","item":"https://kogei.seadice.win/{{SLUG}}/"}]}]}</script>
+<style>*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}:root{--bg:#0D0D0B;--card:#17140F;--accent:#C1440E;--accent2:#2E7D6B;--border:#2B2620;--text:#EDE7DD;--muted:#9C9284}body{background:var(--bg);color:var(--text);font-family:-apple-system,'Helvetica Neue',sans-serif;line-height:1.8;-webkit-text-size-adjust:100%}nav{position:fixed;top:0;left:0;right:0;z-index:100;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);background:rgba(13,13,11,.8);border-bottom:1px solid var(--border);padding:0 20px;height:56px;display:flex;align-items:center;justify-content:space-between}.nav-logo{font-size:15px;font-weight:800;letter-spacing:.15em;background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;text-decoration:none}nav a.r{font-size:13px;color:var(--muted);text-decoration:none}article{max-width:680px;margin:0 auto;padding:88px 20px 72px}.breadcrumb{font-size:12px;color:var(--muted);margin-bottom:20px}.breadcrumb a{color:var(--muted);text-decoration:none}.tag{display:inline-block;font-size:11px;letter-spacing:.1em;color:var(--accent);border:1px solid var(--accent);border-radius:4px;padding:2px 8px;margin-bottom:14px}h1{font-size:clamp(26px,6vw,38px);font-weight:800;line-height:1.3;margin-bottom:14px}.meta{font-size:12px;color:var(--muted);margin-bottom:24px}.ai-badge{display:flex;align-items:flex-start;gap:10px;background:rgba(193,68,14,.08);border:1px solid rgba(193,68,14,.35);border-radius:12px;padding:12px 16px;margin-bottom:28px;font-size:12px;color:#c9c2b6;line-height:1.6}.ai-badge strong{color:var(--accent);font-weight:800;white-space:nowrap}.lead{font-size:17px;line-height:1.9;color:var(--text);margin-bottom:28px}.summary{background:linear-gradient(135deg,rgba(193,68,14,.10),rgba(46,125,107,.10));border:1px solid rgba(193,68,14,.3);border-radius:16px;padding:20px 22px;margin:0 0 36px}.summary h2{font-size:13px;letter-spacing:.14em;color:var(--accent);margin:0 0 10px}.summary ol{padding-left:22px}.summary li{font-size:15px;margin:8px 0;color:var(--text);line-height:1.7}h2.sec{font-size:22px;font-weight:800;margin:52px 0 6px;line-height:1.4}h2.sec .n{display:block;font-size:12px;letter-spacing:.16em;color:var(--accent);margin-bottom:4px}.answer{font-size:15px;color:#cbc4b8;margin:8px 0 18px;padding-left:14px;border-left:3px solid var(--accent)}p.t{margin:14px 0;font-size:16px;color:#cbc4b8}.body strong{color:var(--text)}.body a{color:#7fc7b0}.study{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:18px 20px;margin:14px 0}.study .who{font-size:12px;color:var(--muted);margin-bottom:6px}.study .find{font-size:16px;font-weight:700;line-height:1.6;margin-bottom:8px}.study .cond{font-size:13px;color:var(--muted);line-height:1.7}.study .ref{font-size:11px;color:var(--accent);margin-left:4px}.step{display:flex;gap:14px;background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;margin:12px 0}.step .num{flex:0 0 32px;height:32px;border-radius:50%;background:var(--accent);color:#0D0D0B;font-weight:800;display:flex;align-items:center;justify-content:center;font-size:15px}.step .ttl{font-weight:700;font-size:16px;margin-bottom:2px}.step .dsc{font-size:14px;color:#cbc4b8;line-height:1.7}.note{background:rgba(46,125,107,.08);border:1px solid rgba(46,125,107,.25);border-radius:12px;padding:14px 18px;margin:18px 0;font-size:14px;color:#c9c2b6}details{background:var(--card);border:1px solid var(--border);border-radius:12px;margin:10px 0}summary{cursor:pointer;padding:14px 18px;font-weight:700;font-size:15px;list-style:none}summary::-webkit-details-marker{display:none}summary::before{content:"Q. ";color:var(--accent)}details p{padding:0 18px 16px;font-size:14px;color:#cbc4b8;line-height:1.8}.idea{background:linear-gradient(135deg,rgba(193,68,14,.13),rgba(46,125,107,.12));border:1px solid var(--accent);border-radius:18px;padding:24px 22px;margin:20px 0}.idea .lb{font-size:12px;letter-spacing:.16em;color:var(--accent);margin-bottom:6px}.idea .nm{font-size:22px;font-weight:800;line-height:1.35;margin-bottom:6px}.idea .ba{font-size:14px;color:var(--muted);margin-bottom:14px}.idea ul{padding-left:20px}.idea li{font-size:15px;margin:8px 0;color:var(--text);line-height:1.7}.idea .ask{margin-top:16px;font-size:13px;color:var(--muted)}.idea .ask a{color:#7fc7b0}.related{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 20px;margin:14px 0}.related a{color:var(--text);text-decoration:none;font-weight:700}.related p{font-size:13px;color:var(--muted);margin-top:4px}.sources{margin-top:56px;padding-top:24px;border-top:1px solid var(--border)}.sources h2{font-size:14px;margin:0 0 12px;color:var(--muted);letter-spacing:.1em}.sources li{font-size:12px;color:var(--muted);margin:8px 0;line-height:1.7}.sources a{color:#7fc7b0;word-break:break-all}footer{border-top:1px solid var(--border);padding:24px;text-align:center;font-size:12px;color:var(--muted)}footer a{color:var(--muted)}</style>
+</head>
+<body>
+<nav>
+  <a href="https://seadice.win/" class="nav-logo">SEADICE</a>
+  <a href="/" class="r">KOGEI</a>
+</nav>
+<article>
+  <p class="breadcrumb"><a href="https://seadice.win/">HOME</a> / <a href="/">KOGEI</a> / {{TITLE}}</p>
+  <span class="tag">{{カテゴリ名}}</span>
+  <h1>{{TITLE}}</h1>
+  <p class="meta"><time datetime="{{YYYY-MM-DD}}">{{YYYY-MM-DD}}</time> · 約{{N}}分で読めます</p>
+
+  <div class="ai-badge"><strong>AIによる調査</strong><span>産地組合・自治体・研究機関・報道機関の公開資料をAI（Claude）が調べ、内容を確認して整理しました。特定の工房・商品を宣伝するものではありません。出典は末尾にあります。</span></div>
+
+  <div class="body">
+    <!-- 導入: 「へえ」と思わせる意外な事実・数字から。2〜4文 -->
+    <p class="lead">{{導入}}</p>
+
+    <div class="summary">
+      <h2>3行でわかる</h2>
+      <ol>
+        <li>{{結論1}}</li>
+        <li>{{結論2}}</li>
+        <li>{{結論3}}</li>
+      </ol>
+    </div>
+
+    <h2 class="sec"><span class="n">01</span>この工芸は何か（技術の正体）</h2>
+    <p class="answer">{{120字以内の結論}}</p>
+    <p class="t">{{説明。専門用語は初出で必ず平易に言い換える}}</p>
+
+    <h2 class="sec"><span class="n">02</span>産地とその歴史</h2>
+    <p class="answer">{{120字以内の結論}}</p>
+    <p class="t">{{産地・創業時期・最盛期と現在の比較など}}</p>
+
+    <h2 class="sec"><span class="n">03</span>技術を、生活の言葉で</h2>
+    <p class="answer">{{120字以内の結論}}</p>
+    <!-- 一次資料の主張1件につき1枚。[1]は出典番号 -->
+    <div class="study">
+      <p class="who">{{産地組合・自治体・研究機関の資料}}（{{年}}）<span class="ref">[1]</span></p>
+      <p class="find">{{何を報告しているか。平易に}}</p>
+      <p class="cond">補足: {{1文}}</p>
+    </div>
+
+    <h2 class="sec"><span class="n">04</span>後継者問題とテクノロジーとの交差点</h2>
+    <p class="answer">{{120字以内の結論}}</p>
+    <div class="step"><div class="num">1</div><div><p class="ttl">{{技術との接点1（3Dプリンタ/EC/デジタル記録/海外展開等）}}</p><p class="dsc">{{1〜2文。一次資料ベース}}</p></div></div>
+    <div class="step"><div class="num">2</div><div><p class="ttl">{{技術との接点2}}</p><p class="dsc">{{1〜2文}}</p></div></div>
+
+    <h2 class="sec"><span class="n">05</span>関連する工芸</h2>
+    <p class="answer">{{セットで理解すると分かりやすい相手}}</p>
+    <div class="related"><a href="/{{関連記事スラッグ}}/">{{関連記事タイトル}}</a><p>{{関連する理由を1文}}</p></div>
+
+    <h2 class="sec"><span class="n">06</span>この工芸から考えた、こんなアプリ</h2>
+    <p class="answer">{{この工芸に向いたアプリの姿を一言で}}</p>
+    <div class="idea">
+      <p class="lb">APP IDEA</p>
+      <p class="nm">{{仮のアプリ名・キャッチ}}</p>
+      <p class="ba">{{Before}} → {{After}}</p>
+      <ul>
+        <li>{{工芸に基づく機能1（読者が「あったら楽しい・助かる」と感じる書き方）}}</li>
+        <li>{{機能2}}</li>
+        <li>{{機能3}}</li>
+      </ul>
+      <p class="ask">こんなアプリがあったら使いたいですか？ 感想やほしい機能は <a href="https://seadice.win/#feedback">トップページのCHAT</a> から教えてください。</p>
+    </div>
+    <!-- アプリ作成後は .idea を、実在するアプリへの案内（/apps/{appId}/）に差し替える -->
+
+    <h2 class="sec"><span class="n">07</span>よくある質問</h2>
+    <details><summary>{{質問}}</summary><p>{{回答}}</p></details>
+
+    <div class="sources">
+      <h2>出典</h2>
+      <ol>
+        <li>{{発行者 (年). 資料タイトル. 掲載元. <a href="{{URL}}" target="_blank" rel="noopener">{{URL}}</a>}}</li>
+      </ol>
+    </div>
+  </div>
+</article>
+<footer><p><a href="/">KOGEI</a> &nbsp;|&nbsp; &copy; SEADICE</p></footer>
+</body>
+</html>
