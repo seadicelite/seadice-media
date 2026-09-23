@@ -82,5 +82,17 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Store_Electronic_Systems_S-tag_Electronic_Shelf_Label_IC1b.jpg"
+ },
+ "future-self-saving": {
+  "file": "File:Piggy-bank-968302.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Piggy-bank-968302.jpg/960px-Piggy-bank-968302.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Piggy-bank-968302.jpg/500px-Piggy-bank-968302.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Simple piggy-bank based on a marmelade glas.",
+  "artist": "stevepb",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Piggy-bank-968302.jpg"
  }
 }
