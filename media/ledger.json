@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "publish": "draft",
+  "publish": "auto",
   "slug": "ledger",
   "name": "LEDGER",
   "path": "sites/ledger/",
