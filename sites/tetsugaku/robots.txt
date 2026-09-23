@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tetsugaku.seadice.win/sitemap.xml
