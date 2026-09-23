@@ -58,7 +58,7 @@ def render(cfg, posts, cats, images, types, img_url, card):
         im = images.get(feat["slug"])
         bg = f'<img src="{img_url(im, 960, 540)}" alt="{E(im["alt"], quote=True)}" width="960" height="540"><span class="sh"></span>' if im else f'<svg class="bg" viewBox="0 0 24 24"><path d="{c["icon"]}"/></svg><span class="sh"></span>'
         others = [p for p in posts if p is not feat][:4]
-        side = "".join(f'<a class="srow" href="/{p["slug"]}/">{tag(p)}<p class="t">{E(p["title"])}</p><time datetime="{p["date"]}">{p["date"]}</time></a>' for p in others)
+        side = "".join(f'<a class="srow" href="/{p["slug"]}/">{tag(p)}<p class="t">{E(p["title"])}</p></a>' for p in others)
         hero = (f'<div class="mhero"><a class="feat" style="--c:{c["color"]}" href="/{feat["slug"]}/">{bg}<div class="in">{tag(feat)}'
                 f'<h2>{E(feat["title"])}</h2><p>{E(feat["summary"])}</p></div></a><div class="side"><h3>LATEST</h3>{side}</div></div>')
 
