@@ -11,6 +11,24 @@ def style():
     return re.search(r"<style>.*?</style>", t, re.S).group(0)
 
 
+def _hero(a):
+    """カテゴリ名から画像プール(umbra-images.json)を引いてヒーロー画像のHTMLを返す。見つからない場合は例外を投げる(画像なしで記事を出さないため)。"""
+    cfg = json.loads((ROOT / "media/umbra.json").read_text())
+    cat = next((c for c in cfg["categories"] if c["name"] == a["category"]), None)
+    if cat is None:
+        raise ValueError(f"umbra.json に category '{a['category']}' が見つかりません")
+    images = json.loads((ROOT / "media/umbra-images.json").read_text())
+    img = images.get(f"c-{cat['id']}")
+    if img is None:
+        raise ValueError(f"umbra-images.json に c-{cat['id']} の画像が登録されていません。画像なしで記事を公開しないでください。")
+    return (
+        f'<figure class="hero"><img fetchpriority="high" decoding="async" src="{img["src"]}" '
+        f'width="{img["w"]}" height="{img["h"]}" alt="{E(img["alt"], quote=True)}">'
+        f'<figcaption>Photo: {E(img["artist"])} / <a href="{img["licenseUrl"]}" target="_blank" rel="noopener">{E(img["license"])}</a> / '
+        f'<a href="{img["page"]}" target="_blank" rel="noopener">Wikimedia Commons</a></figcaption></figure>'
+    )
+
+
 def make(a):
     """a: dict(slug,title,desc,category,color,date,minutes,lead,summary[3],secs[list],studies[list],steps[list],tips,idea{},faq[list],sources[list])"""
     url = f"https://umbra.seadice.win/{a['slug']}/"
@@ -42,6 +60,7 @@ def make(a):
             f'<p class="ask">こんなアプリがあったら使いたいですか？ 感想やほしい機能は <a href="https://seadice.win/#feedback">SEADICEのトップページ</a> から教えてください。</p></div>'),
         sec(6, "よくある質問", a["faq_answer"], faq),
     ])
+    hero = _hero(a)
     return f'''<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -68,6 +87,8 @@ def make(a):
   <span class="tag" style="color:{a["color"]};border-color:{a["color"]}">{E(a["category"])}</span>
   <h1>{E(a["title"])}</h1>
   <p class="meta"><time datetime="{a["date"]}">{a["date"]}</time> · 約{a["minutes"]}分で読めます</p>
+
+  {hero}
 
   <div class="ai-badge"><strong>AIによる調査</strong><span>公開されている研究論文をAI（Claude）が調べ、内容を確認して整理しました。特定の人を診断・判定するものではありません。出典は末尾にあります。</span></div>
 

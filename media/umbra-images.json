@@ -1,50 +1,54 @@
 {
- "love-signals-flirting-research": {
-  "file": "File:Cake and coffee.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cake_and_coffee.jpg/960px-Cake_and_coffee.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cake_and_coffee.jpg/500px-Cake_and_coffee.jpg",
-  "w": 960,
-  "h": 708,
-  "alt": "On the picture, we can see one chocolate cake with a small pretzel on top and two coffee cups with latte art (one heart and one flower with ",
+ "_comment": "カテゴリ単位の画像プール。記事ごとにWikimedia検索はしない。ここに無いカテゴリはカードにアイコンのみ表示する。画像本体は sites/umbra/img/ にローカル保存済み。",
+ "c-signs": {
+  "src": "/img/signs.jpg",
+  "w": 500,
+  "h": 369,
+  "alt": "チョコレートケーキとハートのラテアートが入ったコーヒー2杯",
   "artist": "TGar21",
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Cake_and_coffee.jpg"
  },
- "marriage-compatibility-research": {
-  "file": "File:Placing a wedding ring.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Placing_a_wedding_ring.jpg/960px-Placing_a_wedding_ring.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Placing_a_wedding_ring.jpg/500px-Placing_a_wedding_ring.jpg",
-  "w": 960,
-  "h": 808,
-  "alt": "Placing a wedding ring.",
-  "artist": "Petar Milošević",
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "page": "https://commons.wikimedia.org/wiki/File:Placing_a_wedding_ring.jpg"
- },
- "body-language-lie-detection-accuracy": {
-  "file": "File:Handshake-2056021.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Handshake-2056021.jpg/960px-Handshake-2056021.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Handshake-2056021.jpg/500px-Handshake-2056021.jpg",
-  "w": 960,
-  "h": 864,
-  "alt": "Anbieten der Hand für einen Handschlag",
+ "c-gesture": {
+  "src": "/img/gesture.jpg",
+  "w": 500,
+  "h": 449,
+  "alt": "握手を交わす手元のクローズアップ",
   "artist": "TeroVesalainen (Pixabay)",
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Handshake-2056021.jpg"
  },
- "line-reply-speed-research": {
-  "file": "File:Radmi K30 正面照.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Radmi_K30_%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg/960px-Radmi_K30_%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Radmi_K30_%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg/500px-Radmi_K30_%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg",
-  "w": 960,
-  "h": 640,
-  "alt": "​Radmi K30 正面照，北辰三角洲小米之家拍摄",
+ "c-marriage": {
+  "src": "/img/marriage.jpg",
+  "w": 500,
+  "h": 421,
+  "alt": "結婚指輪をはめる手元",
+  "artist": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Placing_a_wedding_ring.jpg"
+ },
+ "c-redflag": {
+  "src": "/img/redflag.jpg",
+  "w": 500,
+  "h": 375,
+  "alt": "工事現場に張られた黄色い注意喚起テープ",
+  "artist": "Tewy",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Caution_Tape.jpg"
+ },
+ "c-game": {
+  "src": "/img/game.jpg",
+  "w": 500,
+  "h": 333,
+  "alt": "スマートフォンの正面写真",
   "artist": "蓝芷怡",
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Radmi_K30_%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg"
- }
+ },
+ "c-breakup": null
 }
