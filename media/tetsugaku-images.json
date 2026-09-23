@@ -70,5 +70,17 @@
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Bust_(28266663336).jpg"
+ },
+ "trolley-problem-thought-experiment": {
+  "file": "File:Diamond crossing at Walpole, May 2017.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Diamond_crossing_at_Walpole%2C_May_2017.JPG/960px-Diamond_crossing_at_Walpole%2C_May_2017.JPG",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Diamond_crossing_at_Walpole%2C_May_2017.JPG/500px-Diamond_crossing_at_Walpole%2C_May_2017.JPG",
+  "w": 960,
+  "h": 720,
+  "alt": "Diamond crossing between the Framingham Secondary (left-right) and Franklin Branch at Walpole Union Station in May 2017",
+  "artist": "Pi.1415926535",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Diamond_crossing_at_Walpole,_May_2017.JPG"
  }
 }

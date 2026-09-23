@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>トロッコ問題とは？何を明らかにするための思考実験なのか | TETSUGAKU</title>
+<meta name="description" content="レバーを引くのはOKなのに、人を突き落とすのはNG。同じ「1人を犠牲に5人を救う」なのに判断が割れるトロッコ問題の正体を解説します。">
+<link rel="canonical" href="https://tetsugaku.seadice.win/trolley-problem-thought-experiment/">
+<meta property="og:title" content="トロッコ問題とは？何を明らかにするための思考実験なのか | TETSUGAKU">
+<meta property="og:description" content="レバーを引くのはOKなのに、人を突き落とすのはNG。同じ「1人を犠牲に5人を救う」なのに判断が割れるトロッコ問題の正体を解説します。">
+<meta property="og:url" content="https://tetsugaku.seadice.win/trolley-problem-thought-experiment/">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Diamond_crossing_at_Walpole%2C_May_2017.JPG/960px-Diamond_crossing_at_Walpole%2C_May_2017.JPG">
+<meta property="og:image:alt" content="Diamond crossing between the Framingham Secondary (left-right) and Franklin Branch at Walpole Union Station in May 2017">
+<meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Diamond_crossing_at_Walpole%2C_May_2017.JPG/960px-Diamond_crossing_at_Walpole%2C_May_2017.JPG">
+<link rel="preconnect" href="https://upload.wikimedia.org" crossorigin>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "トロッコ問題とは？何を明らかにするための思考実験なのか", "datePublished": "2026-09-23", "dateModified": "2026-09-23", "author": {"@type": "Organization", "name": "SEADICE"}, "publisher": {"@type": "Organization", "name": "SEADICE", "url": "https://seadice.win"}, "url": "https://tetsugaku.seadice.win/trolley-problem-thought-experiment/", "citation": ["https://plato.stanford.edu/entries/doing-allowing/", "https://www.science.org/doi/10.1126/science.1062872", "https://en.wikipedia.org/wiki/Judith_Jarvis_Thomson"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://tetsugaku.seadice.win/trolley-problem-thought-experiment/"}, "inLanguage": "ja", "articleSection": "倫理・政治哲学", "isAccessibleForFree": true, "image": ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Diamond_crossing_at_Walpole%2C_May_2017.JPG/960px-Diamond_crossing_at_Walpole%2C_May_2017.JPG"]}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "トロッコ問題は誰が最初に考えたのですか？", "acceptedAnswer": {"@type": "Answer", "text": "1967年、哲学者フィリッパ・フットが「中絶の問題と二重結果の原則」という論文で、路面電車（トロッコ）の運転手が5人を助けるために線路を切り替えて1人を犠牲にしてよいかという形で最初に提示しました。後に哲学者ジュディス・ジャーヴィス・トムソンが、運転手ではなく通りすがりの人がレバーを引く場合や、橋の上から人を突き落とす「歩道橋」バージョンなど、複数の派生形を発表しています。"}}, {"@type": "Question", "name": "なぜレバーを引くのは許されて、人を突き落とすのは許されないと感じるのですか？", "acceptedAnswer": {"@type": "Answer", "text": "どちらも「1人を犠牲にして5人を救う」という結果は同じですが、多くの人はレバーを引く行為には賛成し、人を突き落とす行為には反対する傾向があることが、複数の研究で報告されています。この違いをどう説明するかが、哲学と心理学の両方で今も議論されている中心的な問いです。"}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "HOME", "item": "https://seadice.win/"}, {"@type": "ListItem", "position": 2, "name": "TETSUGAKU", "item": "https://tetsugaku.seadice.win/"}, {"@type": "ListItem", "position": 3, "name": "トロッコ問題とは？何を明らかにするための思考実験なのか", "item": "https://tetsugaku.seadice.win/trolley-problem-thought-experiment/"}]}]}</script>
+<style>*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}:root{--bg:#0B0B12;--card:#15151F;--accent:#D8B26A;--accent2:#6A8CD8;--border:#262635;--text:#EDEBE6;--muted:#9A97A6}body{background:var(--bg);color:var(--text);font-family:-apple-system,'Helvetica Neue',sans-serif;line-height:1.8;-webkit-text-size-adjust:100%}nav{position:fixed;top:0;left:0;right:0;z-index:100;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);background:rgba(11,11,18,.8);border-bottom:1px solid var(--border);padding:0 20px;height:56px;display:flex;align-items:center;justify-content:space-between}.nav-logo{font-size:15px;font-weight:800;letter-spacing:.15em;background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;text-decoration:none}nav a.r{font-size:13px;color:var(--muted);text-decoration:none}article{max-width:680px;margin:0 auto;padding:88px 20px 72px}.breadcrumb{font-size:12px;color:var(--muted);margin-bottom:20px}.breadcrumb a{color:var(--muted);text-decoration:none}.tag{display:inline-block;font-size:11px;letter-spacing:.1em;color:var(--accent);border:1px solid var(--accent);border-radius:4px;padding:2px 8px;margin-bottom:14px}h1{font-size:clamp(26px,6vw,38px);font-weight:800;line-height:1.3;margin-bottom:14px}.meta{font-size:12px;color:var(--muted);margin-bottom:24px}.ai-badge{display:flex;align-items:flex-start;gap:10px;background:rgba(216,178,106,.08);border:1px solid rgba(216,178,106,.35);border-radius:12px;padding:12px 16px;margin-bottom:28px;font-size:12px;color:#c9c6d1;line-height:1.6}.ai-badge strong{color:var(--accent);font-weight:800;white-space:nowrap}.lead{font-size:17px;line-height:1.9;color:var(--text);margin-bottom:28px}.summary{background:linear-gradient(135deg,rgba(216,178,106,.10),rgba(106,140,216,.08));border:1px solid rgba(216,178,106,.3);border-radius:16px;padding:20px 22px;margin:0 0 36px}.summary h2{font-size:13px;letter-spacing:.14em;color:var(--accent);margin:0 0 10px}.summary ol{padding-left:22px}.summary li{font-size:15px;margin:8px 0;color:var(--text);line-height:1.7}h2.sec{font-size:22px;font-weight:800;margin:52px 0 6px;line-height:1.4}h2.sec .n{display:block;font-size:12px;letter-spacing:.16em;color:var(--accent);margin-bottom:4px}.answer{font-size:15px;color:#cbc8d3;margin:8px 0 18px;padding-left:14px;border-left:3px solid var(--accent)}p.t{margin:14px 0;font-size:16px;color:#cbc8d3}.body strong{color:var(--text)}.body a{color:#9fb6ea}.study{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:18px 20px;margin:14px 0}.study .who{font-size:12px;color:var(--muted);margin-bottom:6px}.study .find{font-size:16px;font-weight:700;line-height:1.6;margin-bottom:8px}.study .cond{font-size:13px;color:var(--muted);line-height:1.7}.study .ref{font-size:11px;color:var(--accent);margin-left:4px}.step{display:flex;gap:14px;background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;margin:12px 0}.step .num{flex:0 0 32px;height:32px;border-radius:50%;background:var(--accent);color:#0B0B12;font-weight:800;display:flex;align-items:center;justify-content:center;font-size:15px}.step .ttl{font-weight:700;font-size:16px;margin-bottom:2px}.step .dsc{font-size:14px;color:#cbc8d3;line-height:1.7}.note{background:rgba(106,140,216,.08);border:1px solid rgba(106,140,216,.25);border-radius:12px;padding:14px 18px;margin:18px 0;font-size:14px;color:#c9c6d1}details{background:var(--card);border:1px solid var(--border);border-radius:12px;margin:10px 0}summary{cursor:pointer;padding:14px 18px;font-weight:700;font-size:15px;list-style:none}summary::-webkit-details-marker{display:none}summary::before{content:"Q. ";color:var(--accent)}details p{padding:0 18px 16px;font-size:14px;color:#cbc8d3;line-height:1.8}.idea{background:linear-gradient(135deg,rgba(216,178,106,.13),rgba(106,140,216,.10));border:1px solid var(--accent);border-radius:18px;padding:24px 22px;margin:20px 0}.idea .lb{font-size:12px;letter-spacing:.16em;color:var(--accent);margin-bottom:6px}.idea .nm{font-size:22px;font-weight:800;line-height:1.35;margin-bottom:6px}.idea .ba{font-size:14px;color:var(--muted);margin-bottom:14px}.idea ul{padding-left:20px}.idea li{font-size:15px;margin:8px 0;color:var(--text);line-height:1.7}.idea .ask{margin-top:16px;font-size:13px;color:var(--muted)}.idea .ask a{color:#9fb6ea}.related{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 20px;margin:14px 0}.related a{color:var(--text);text-decoration:none;font-weight:700}.related p{font-size:13px;color:var(--muted);margin-top:4px}.sources{margin-top:56px;padding-top:24px;border-top:1px solid var(--border)}.sources h2{font-size:14px;margin:0 0 12px;color:var(--muted);letter-spacing:.1em}.sources li{font-size:12px;color:var(--muted);margin:8px 0;line-height:1.7}.sources a{color:#9fb6ea;word-break:break-all}.hero{margin:0 0 24px}.hero img{display:block;width:100%;height:auto;border-radius:14px;background:#0C0C1A}.hero figcaption{font-size:11px;color:var(--muted);margin-top:6px;line-height:1.5}.hero figcaption a{color:#7dd3fc}footer{border-top:1px solid var(--border);padding:24px;text-align:center;font-size:12px;color:var(--muted)}footer a{color:var(--muted)}</style>
+</head>
+<body>
+<nav>
+  <a href="https://seadice.win/" class="nav-logo">SEADICE</a>
+  <a href="/" class="r">TETSUGAKU</a>
+</nav>
+<article>
+  <p class="breadcrumb"><a href="https://seadice.win/">HOME</a> / <a href="/">TETSUGAKU</a> / トロッコ問題とは？何を明らかにするための思考実験なのか</p>
+  <span class="tag">倫理・政治哲学</span>
+  <h1>トロッコ問題とは？何を明らかにするための思考実験なのか</h1>
+  <p class="meta"><time datetime="2026-09-23">2026-09-23</time> · 約4分で読めます</p>
+
+  <figure class="hero"><img fetchpriority="high" decoding="async" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Diamond_crossing_at_Walpole%2C_May_2017.JPG/960px-Diamond_crossing_at_Walpole%2C_May_2017.JPG" width="960" height="720" alt="Diamond crossing between the Framingham Secondary (left-right) and Franklin Branch at Walpole Union Station in May 2017"><figcaption>Photo: Pi.1415926535 / <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener">CC BY-SA 3.0</a> / <a href="https://commons.wikimedia.org/wiki/File:Diamond_crossing_at_Walpole,_May_2017.JPG" target="_blank" rel="noopener">Wikimedia Commons</a></figcaption></figure>
+
+  <div class="ai-badge"><strong>AIによる調査</strong><span>フット・トムソンの原論文の要旨・スタンフォード哲学百科事典・学術誌掲載の実証研究をAI（Claude）が調べ、内容を確認して整理しました。特定の思想の正しさを断定するものではありません。出典は末尾にあります。</span></div>
+
+  <div class="body">
+    <p class="lead">暴走するトロッコの前に5人。レバーを引けば別の線路の1人が犠牲になる代わりに5人が助かる――多くの人は「引くべきだ」と答えます。では、橋の上から1人を突き落として線路を塞げば5人が助かるとしたら？ 同じ「1人の犠牲で5人を救う」計算のはずなのに、答えは大きく変わります。この食い違いこそが、トロッコ問題が突きつける謎です。</p>
+
+    <div class="summary">
+      <h2>3行でわかる</h2>
+      <ol>
+        <li>トロッコ問題は、1967年に哲学者フィリッパ・フットが提示した思考実験で、後にジュディス・ジャーヴィス・トムソンらが「歩道橋」など複数の派生版を発表した。</li>
+        <li>「レバーを引いて1人を犠牲に5人を救う」のはよいとされやすいが、「1人を突き落として5人を救う」のはよくないとされやすいという、一貫しない道徳判断を浮き彫りにする。</li>
+        <li>結果（1人死亡・5人生存）が同じなのに判断が割れる理由を説明しようとする試みが、哲学と心理学の両方で今も続いている。</li>
+      </ol>
+    </div>
+
+    <h2 class="sec"><span class="n">01</span>これは何か（人物・概念の正体）</h2>
+    <p class="answer">トロッコ問題とは、「1人を犠牲にすれば5人を救える」という状況を舞台に、私たちの道徳判断がどんな条件で変わるのかを調べるための一連の思考実験。</p>
+    <p class="t">哲学者フィリッパ・フット（1920〜2010年）が1967年の論文「中絶の問題と二重結果の原則」の中で、暴走するトロッコ（路面電車）の運転手が、5人がいる線路をそのまま進むか、1人がいる別の線路に切り替えるかを選ばなければならない、という状況として提示したのが始まりです<span class="ref">[2]</span>。</p>
+
+    <h2 class="sec"><span class="n">02</span>どんな時代・文脈で生まれたのか</h2>
+    <p class="answer">「意図的に人を殺すことと、結果として人が死ぬのを許すことに道徳的な違いはあるか」という、中絶や安楽死をめぐる当時の倫理学的な議論の中から生まれた。</p>
+    <p class="t">フットの元の論文の主題は中絶問題でしたが、そこで使われた「積極的に手を下すこと」と「結果を許容すること」の区別を検証する道具として、トロッコの例が考案されました<span class="ref">[2]</span>。その後、哲学者ジュディス・ジャーヴィス・トムソンが1985年の論文「トロッコ問題」で、運転手ではなく通りすがりの人がレバーを引く場合や、橋の上から人を突き落とす「歩道橋（footbridge）」版など、複数の派生バージョンを発表し、議論をさらに広げました<span class="ref">[1][3]</span>。</p>
+
+    <h2 class="sec"><span class="n">03</span>中心の思想を、生活の言葉で</h2>
+    <p class="answer">「レバーを引く」判断と「人を突き落とす」判断は、結果としては同じ「1人の死と5人の生存」なのに、多くの人の直感では前者は許され、後者は許されないとされやすい。</p>
+    <div class="study">
+      <p class="who">フット（1967）「中絶の問題と二重結果の原則」、トムソン（1985）「トロッコ問題」<span class="ref">[1][2][3]</span></p>
+      <p class="find">フットの原型では、運転手（または通りすがりの人）がレバーを操作して線路を切り替える判断が検討された。トムソンはこれに加え、橋の上に立つ人が、隣にいる大柄な人を線路に突き落とせばその身体がトロッコを止め、下にいる5人を救えるという「歩道橋」の例を追加した。脳科学者ジョシュア・グリーンらによる実験研究（2001年、学術誌『サイエンス』）は、レバーを引く判断と人を突き落とす判断とで、多くの参加者の道徳判断が実際に異なる傾向にあり、突き落とす判断を下す際には特に強い感情的な反応が関わっていることを示した<span class="ref">[2]</span>。</p>
+      <p class="cond">よくある誤解: トロッコ問題を「正解のある道徳クイズ」だと捉える読み方があるが、この思考実験の目的は正解を出すことではなく、私たちの道徳判断が何によって揺れ動くのかを明らかにすることにある。</p>
+    </div>
+    <p class="t">研究者の間では、この判断の違いを「積極的に手を下すこと（doing）」と「結果を許容すること（allowing）」の区別だけでは説明しきれないことも指摘されている。トムソンが示した、通りすがりの人がレバーを引く例（この場合も明確に「殺す」選択であるにもかかわらず、多くの人は許容できると感じる）は、単純な「する／させる」の区別だけでは判断の違いを説明しきれないことを示す事例として議論されている<span class="ref">[1]</span>。</p>
+
+    <h2 class="sec"><span class="n">04</span>今の生活・現代社会での意味</h2>
+    <p class="answer">自動運転車の事故時の判断アルゴリズムなど、「誰かを犠牲にしてでも被害を減らすべきか」を機械にどう判断させるかという、現代の技術倫理の議論に直接つながっている。</p>
+    <div class="step"><div class="num">1</div><div><p class="ttl">自動運転車の倫理設計として</p><p class="dsc">衝突が避けられない状況で自動運転車がどう「判断」すべきかという設計上の問いに、トロッコ問題の枠組みがそのまま応用されている。</p></div></div>
+    <div class="step"><div class="num">2</div><div><p class="ttl">医療現場の資源配分として</p><p class="dsc">限られた医療資源を「誰に優先して配分するか」という判断の難しさを考える際のたとえとして、医療倫理の議論でも参照される<span class="ref">[1]</span>。</p></div></div>
+
+    <h2 class="sec"><span class="n">05</span>関連する哲学者・概念</h2>
+    <p class="answer">結果の総量で判断する功利主義と、行為のルールで判断するカントの立場を対比させると、トロッコ問題が突く「一貫しなさ」の正体がより見えてくる。</p>
+    <div class="related"><a href="/utilitarianism-greatest-happiness/">功利主義とは？「最大多数の最大幸福」の意味と落とし穴</a><p>功利主義の立場なら、レバーを引く場合も人を突き落とす場合も「1人の死で5人を救う」という結果は同じなので、両方とも許されるはずである。にもかかわらず判断が分かれるという事実が、結果だけでは説明できない道徳的な直感の存在を示している。</p></div>
+
+    <h2 class="sec"><span class="n">06</span>この人物・概念から考えた、こんなアプリ</h2>
+    <p class="answer">自分の道徳判断の「一貫しなさ」に気づける、小さなトロッコ問題体験アプリがあると面白いかもしれない。</p>
+    <div class="idea">
+      <p class="lb">APP IDEA</p>
+      <p class="nm">わたしの判断のクセ — 「なんとなく」の道徳判断を、見える形に</p>
+      <p class="ba">自分の判断基準を意識せずに直感で決めがちな自分 → 自分の判断がどんな条件で変わるかを自覚できる自分</p>
+      <ul>
+        <li>トロッコ問題の複数バージョン（レバー・歩道橋など）に順番に答え、自分の判断の一貫性・矛盾を可視化する機能</li>
+        <li>「なぜそう判断したか」を短く言語化し、後から読み返せる記録機能</li>
+        <li>他の哲学者・概念記事と連動し、功利主義・義務論など異なる立場から同じ判断を見直せる機能</li>
+      </ul>
+      <p class="ask">こんなアプリがあったら使いたいですか？ 感想やほしい機能は <a href="https://seadice.win/#feedback">トップページのCHAT</a> から教えてください。</p>
+    </div>
+
+    <h2 class="sec"><span class="n">07</span>よくある質問</h2>
+    <details><summary>トロッコ問題は誰が最初に考えたのですか？</summary><p>1967年、哲学者フィリッパ・フットが「中絶の問題と二重結果の原則」という論文で、路面電車（トロッコ）の運転手が5人を助けるために線路を切り替えて1人を犠牲にしてよいかという形で最初に提示しました。後に哲学者ジュディス・ジャーヴィス・トムソンが、運転手ではなく通りすがりの人がレバーを引く場合や、橋の上から人を突き落とす「歩道橋」バージョンなど、複数の派生形を発表しています。</p></details>
+    <details><summary>なぜレバーを引くのは許されて、人を突き落とすのは許されないと感じるのですか？</summary><p>どちらも「1人を犠牲にして5人を救う」という結果は同じですが、多くの人はレバーを引く行為には賛成し、人を突き落とす行為には反対する傾向があることが、複数の研究で報告されています。この違いをどう説明するかが、哲学と心理学の両方で今も議論されている中心的な問いです。</p></details>
+
+    <!--related--><section class="related"><h2>関連記事</h2><a href="/kant-lying-categorical-imperative/"><small>倫理・政治哲学</small>カントの義務論とは？「嘘をついてはいけない」に例外はあるのか</a><a href="/utilitarianism-greatest-happiness/"><small>倫理・政治哲学</small>功利主義とは？「最大多数の最大幸福」の意味と落とし穴</a><a href="/aristotle-eudaimonia/"><small>古代・中世哲学</small>アリストテレスの「幸福（エウダイモニア）」とは？快楽との違い</a></section><!--/related-->
+    <div class="sources">
+      <h2>出典</h2>
+      <ol>
+        <li>Woollard, F. & Howard-Snyder, F. "Doing vs. Allowing Harm." Stanford Encyclopedia of Philosophy. <a href="https://plato.stanford.edu/entries/doing-allowing/" target="_blank" rel="noopener">https://plato.stanford.edu/entries/doing-allowing/</a></li>
+        <li>Greene, J. D. et al. (2001). "An fMRI Investigation of Emotional Engagement in Moral Judgment." <i>Science</i>, 293(5537). <a href="https://www.science.org/doi/10.1126/science.1062872" target="_blank" rel="noopener">https://www.science.org/doi/10.1126/science.1062872</a></li>
+        <li>"Judith Jarvis Thomson." Wikipedia（トムソン 1985年論文「トロッコ問題」の書誌情報）. <a href="https://en.wikipedia.org/wiki/Judith_Jarvis_Thomson" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/Judith_Jarvis_Thomson</a></li>
+      </ol>
+    </div>
+  </div>
+</article>
+<footer><p><a href="/">TETSUGAKU</a> &nbsp;|&nbsp; <a href="/about/">このメディアについて</a> &nbsp;|&nbsp; <a href="/sources/">出典と検証の方法</a> &nbsp;|&nbsp; <a href="/disclaimer/">免責事項</a> &nbsp;|&nbsp; <a href="https://seadice.win/">SEADICE</a> &nbsp;|&nbsp; &copy; SEADICE</p></footer>
+</body>
+</html>
