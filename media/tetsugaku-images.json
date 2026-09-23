@@ -70,5 +70,29 @@
   "license": "CC BY-SA 3.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:Diamond_crossing_at_Walpole,_May_2017.JPG"
+ },
+ "utilitarianism-greatest-happiness": {
+  "file": "File:Jeremy Bentham by Henry William Pickersgill (cropped).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Jeremy_Bentham_by_Henry_William_Pickersgill_%28cropped%29.jpg/960px-Jeremy_Bentham_by_Henry_William_Pickersgill_%28cropped%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Jeremy_Bentham_by_Henry_William_Pickersgill_%28cropped%29.jpg/500px-Jeremy_Bentham_by_Henry_William_Pickersgill_%28cropped%29.jpg",
+  "w": 960,
+  "h": 877,
+  "alt": "jeremy bentham portrait",
+  "artist": "Henry William Pickersgill",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Jeremy_Bentham_by_Henry_William_Pickersgill_(cropped).jpg"
+ },
+ "descartes-cogito": {
+  "file": "File:René Descartes 1644 Specimina philosophiae 173.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ren%C3%A9_Descartes_1644_Specimina_philosophiae_173.jpg/960px-Ren%C3%A9_Descartes_1644_Specimina_philosophiae_173.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ren%C3%A9_Descartes_1644_Specimina_philosophiae_173.jpg/500px-Ren%C3%A9_Descartes_1644_Specimina_philosophiae_173.jpg",
+  "w": 960,
+  "h": 684,
+  "alt": "Page 173 of Renati Des Cartes Specimina philosophiae, sev Dissertatio de methodo recte regendae rationis & veritatis in scientiis investigan",
+  "artist": "René Descartes",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Ren%C3%A9_Descartes_1644_Specimina_philosophiae_173.jpg"
  }
 }

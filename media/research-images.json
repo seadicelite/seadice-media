@@ -58,5 +58,41 @@
   "license": "CC BY-SA 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Walking_trail_closed,_Thornielee_Forest_-_geograph.org.uk_-_7876246.jpg"
+ },
+ "morning-light-wake-up": {
+  "file": "File:Before sunrise from my bedroom window (13658114934).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Before_sunrise_from_my_bedroom_window_%2813658114934%29.jpg/960px-Before_sunrise_from_my_bedroom_window_%2813658114934%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Before_sunrise_from_my_bedroom_window_%2813658114934%29.jpg/500px-Before_sunrise_from_my_bedroom_window_%2813658114934%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "before sunrise from my bedroom window",
+  "artist": "Murray Foubister",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Before_sunrise_from_my_bedroom_window_(13658114934).jpg"
+ },
+ "short-exercise-mood-boost": {
+  "file": "File:Jogger in morning mist 7th Brigade Park Chermside P1060534.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jogger_in_morning_mist_7th_Brigade_Park_Chermside_P1060534.jpg/960px-Jogger_in_morning_mist_7th_Brigade_Park_Chermside_P1060534.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jogger_in_morning_mist_7th_Brigade_Park_Chermside_P1060534.jpg/500px-Jogger_in_morning_mist_7th_Brigade_Park_Chermside_P1060534.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "The open spaces and extensive cycleways of 7th Brigade Park make it a good venue for organised and casual running.",
+  "artist": "John Robert McPherson",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Jogger_in_morning_mist_7th_Brigade_Park_Chermside_P1060534.jpg"
+ },
+ "focus-microbreaks-pomodoro": {
+  "file": "File:3 Hourglasses Wellcome L0011331.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/3_Hourglasses_Wellcome_L0011331.jpg/960px-3_Hourglasses_Wellcome_L0011331.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/3_Hourglasses_Wellcome_L0011331.jpg/500px-3_Hourglasses_Wellcome_L0011331.jpg",
+  "w": 960,
+  "h": 712,
+  "alt": "3 Hourglasses\n\nWellcome Images",
+  "artist": "Unknown",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:3_Hourglasses_Wellcome_L0011331.jpg"
  }
 }

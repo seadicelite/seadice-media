@@ -1,38 +1,122 @@
 {
-    "kutaniyaki-five-colors-ec": {
-        "file": "File:Plate (AM 1985.425-2).jpg",
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Plate_%28AM_1985.425-2%29.jpg/960px-Plate_%28AM_1985.425-2%29.jpg",
-        "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Plate_%28AM_1985.425-2%29.jpg/500px-Plate_%28AM_1985.425-2%29.jpg",
-        "w": 960,
-        "h": 720,
-        "alt": "Plate white body with hand painted and transfer decorated blossom and bird pattern. Gold rim with blue and white flowers against black and g",
-        "artist": "Kutani, Ko (old)",
-        "license": "CC BY 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Plate_(AM_1985.425-2).jpg"
-    },
-    "edokiriko-overseas-ec": {
-        "file": "File:Edokiriko sold in Kanagawa - Sept 2024.jpeg",
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Edokiriko_sold_in_Kanagawa_-_Sept_2024.jpeg/960px-Edokiriko_sold_in_Kanagawa_-_Sept_2024.jpeg",
-        "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Edokiriko_sold_in_Kanagawa_-_Sept_2024.jpeg/500px-Edokiriko_sold_in_Kanagawa_-_Sept_2024.jpeg",
-        "w": 960,
-        "h": 720,
-        "alt": "江戸切子（えどきりこ、edokiriko）",
-        "artist": "Nesnad",
-        "license": "CC BY 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Edokiriko_sold_in_Kanagawa_-_Sept_2024.jpeg"
-    },
-    "aritayaki-3dprint-400years": {
-        "file": "File:Dish with Landscape Design, c. 1620-1630, Arita, hard-paste porcelain with underglaze cobalt - Gardiner Museum, Toronto - DSC00372.JPG",
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dish_with_Landscape_Design%2C_c._1620-1630%2C_Arita%2C_hard-paste_porcelain_with_underglaze_cobalt_-_Gardiner_Museum%2C_Toronto_-_DSC00372.JPG/960px-Dish_with_Landscape_Design%2C_c._1620-1630%2C_Arita%2C_hard-paste_porcelain_with_underglaze_cobalt_-_Gardiner_Museum%2C_Toronto_-_DSC00372.JPG",
-        "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dish_with_Landscape_Design%2C_c._1620-1630%2C_Arita%2C_hard-paste_porcelain_with_underglaze_cobalt_-_Gardiner_Museum%2C_Toronto_-_DSC00372.JPG/500px-Dish_with_Landscape_Design%2C_c._1620-1630%2C_Arita%2C_hard-paste_porcelain_with_underglaze_cobalt_-_Gardiner_Museum%2C_Toronto_-_DSC00372.JPG",
-        "w": 960,
-        "h": 937,
-        "alt": "Exhibit in the Gardiner Museum, Toronto, Ontario, Canada. This artwork is in the public domain because the artist died more than 70 years ag",
-        "artist": "Daderot",
-        "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "page": "https://commons.wikimedia.org/wiki/File:Dish_with_Landscape_Design,_c._1620-1630,_Arita,_hard-paste_porcelain_with_underglaze_cobalt_-_Gardiner_Museum,_Toronto_-_DSC00372.JPG"
-    }
+ "kutaniyaki-five-colors-ec": {
+  "file": "File:Plate (AM 1985.425-2).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Plate_%28AM_1985.425-2%29.jpg/960px-Plate_%28AM_1985.425-2%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Plate_%28AM_1985.425-2%29.jpg/500px-Plate_%28AM_1985.425-2%29.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Plate white body with hand painted and transfer decorated blossom and bird pattern. Gold rim with blue and white flowers against black and g",
+  "artist": "Kutani, Ko (old)",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Plate_(AM_1985.425-2).jpg"
+ },
+ "edokiriko-overseas-ec": {
+  "file": "File:Edokiriko sold in Kanagawa - Sept 2024.jpeg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Edokiriko_sold_in_Kanagawa_-_Sept_2024.jpeg/960px-Edokiriko_sold_in_Kanagawa_-_Sept_2024.jpeg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Edokiriko_sold_in_Kanagawa_-_Sept_2024.jpeg/500px-Edokiriko_sold_in_Kanagawa_-_Sept_2024.jpeg",
+  "w": 960,
+  "h": 720,
+  "alt": "江戸切子（えどきりこ、edokiriko）",
+  "artist": "Nesnad",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Edokiriko_sold_in_Kanagawa_-_Sept_2024.jpeg"
+ },
+ "aritayaki-3dprint-400years": {
+  "file": "File:Dish with Landscape Design, c. 1620-1630, Arita, hard-paste porcelain with underglaze cobalt - Gardiner Museum, Toronto - DSC00372.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dish_with_Landscape_Design%2C_c._1620-1630%2C_Arita%2C_hard-paste_porcelain_with_underglaze_cobalt_-_Gardiner_Museum%2C_Toronto_-_DSC00372.JPG/960px-Dish_with_Landscape_Design%2C_c._1620-1630%2C_Arita%2C_hard-paste_porcelain_with_underglaze_cobalt_-_Gardiner_Museum%2C_Toronto_-_DSC00372.JPG",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dish_with_Landscape_Design%2C_c._1620-1630%2C_Arita%2C_hard-paste_porcelain_with_underglaze_cobalt_-_Gardiner_Museum%2C_Toronto_-_DSC00372.JPG/500px-Dish_with_Landscape_Design%2C_c._1620-1630%2C_Arita%2C_hard-paste_porcelain_with_underglaze_cobalt_-_Gardiner_Museum%2C_Toronto_-_DSC00372.JPG",
+  "w": 960,
+  "h": 937,
+  "alt": "Exhibit in the Gardiner Museum, Toronto, Ontario, Canada. This artwork is in the public domain because the artist died more than 70 years ag",
+  "artist": "Daderot",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Dish_with_Landscape_Design,_c._1620-1630,_Arita,_hard-paste_porcelain_with_underglaze_cobalt_-_Gardiner_Museum,_Toronto_-_DSC00372.JPG"
+ },
+ "bizenyaki-yakishime-ec": {
+  "file": "File:Bizen-yaki Traditional Pottery Center Bizen Okayama pref Japan06s5.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bizen-yaki_Traditional_Pottery_Center_Bizen_Okayama_pref_Japan06s5.jpg/960px-Bizen-yaki_Traditional_Pottery_Center_Bizen_Okayama_pref_Japan06s5.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bizen-yaki_Traditional_Pottery_Center_Bizen_Okayama_pref_Japan06s5.jpg/500px-Bizen-yaki_Traditional_Pottery_Center_Bizen_Okayama_pref_Japan06s5.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Bizen-yaki_Traditional_Pottery_Center in Imbe, Bizen, Okayama prefecture, Japan",
+  "artist": "663highland",
+  "license": "CC BY 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Bizen-yaki_Traditional_Pottery_Center_Bizen_Okayama_pref_Japan06s5.jpg"
+ },
+ "echizen-washi-unesco-art": {
+  "file": "File:折鶴 WUXGA.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%E6%8A%98%E9%B6%B4_WUXGA.jpg/960px-%E6%8A%98%E9%B6%B4_WUXGA.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%E6%8A%98%E9%B6%B4_WUXGA.jpg/500px-%E6%8A%98%E9%B6%B4_WUXGA.jpg",
+  "w": 960,
+  "h": 600,
+  "alt": "Cranes made by Origami (Washi paper). The height is 35mm.",
+  "artist": "Laitche",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:%E6%8A%98%E9%B6%B4_WUXGA.jpg"
+ },
+ "edosashimono-craftsmen-decline": {
+  "file": "File:Sashimono joinery - The Craft of Carpentry, Japan House London 2025-05-12.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sashimono_joinery_-_The_Craft_of_Carpentry%2C_Japan_House_London_2025-05-12.jpg/960px-Sashimono_joinery_-_The_Craft_of_Carpentry%2C_Japan_House_London_2025-05-12.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sashimono_joinery_-_The_Craft_of_Carpentry%2C_Japan_House_London_2025-05-12.jpg/500px-Sashimono_joinery_-_The_Craft_of_Carpentry%2C_Japan_House_London_2025-05-12.jpg",
+  "w": 960,
+  "h": 723,
+  "alt": "Sashimono joinery",
+  "artist": "Andy Li",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Sashimono_joinery_-_The_Craft_of_Carpentry,_Japan_House_London_2025-05-12.jpg"
+ },
+ "kurume-kasuri-succession-intern": {
+  "file": "File:Kasuri detail 1.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kasuri_detail_1.jpg/960px-Kasuri_detail_1.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kasuri_detail_1.jpg/500px-Kasuri_detail_1.jpg",
+  "w": 960,
+  "h": 706,
+  "alt": "Detail of a Kasuri-woven Tsumugi silk fabric",
+  "artist": "Madame",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kasuri_detail_1.jpg"
+ },
+ "nishijin-ori-digital-archive": {
+  "file": "File:Silk 西陣帯（丹後産）未染色.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Silk_%E8%A5%BF%E9%99%A3%E5%B8%AF%EF%BC%88%E4%B8%B9%E5%BE%8C%E7%94%A3%EF%BC%89%E6%9C%AA%E6%9F%93%E8%89%B2.jpg/960px-Silk_%E8%A5%BF%E9%99%A3%E5%B8%AF%EF%BC%88%E4%B8%B9%E5%BE%8C%E7%94%A3%EF%BC%89%E6%9C%AA%E6%9F%93%E8%89%B2.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Silk_%E8%A5%BF%E9%99%A3%E5%B8%AF%EF%BC%88%E4%B8%B9%E5%BE%8C%E7%94%A3%EF%BC%89%E6%9C%AA%E6%9F%93%E8%89%B2.jpg/500px-Silk_%E8%A5%BF%E9%99%A3%E5%B8%AF%EF%BC%88%E4%B8%B9%E5%BE%8C%E7%94%A3%EF%BC%89%E6%9C%AA%E6%9F%93%E8%89%B2.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "昭和40~50年代に丹後地方で製織された染色していない西陣帯の織物。帯の裏地に使用されていた。",
+  "artist": "漱石の猫",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Silk_%E8%A5%BF%E9%99%A3%E5%B8%AF%EF%BC%88%E4%B8%B9%E5%BE%8C%E7%94%A3%EF%BC%89%E6%9C%AA%E6%9F%93%E8%89%B2.jpg"
+ },
+ "wajimanuri-craft-technology": {
+  "file": "File:Japanese rice in Wajima-nuri lacquerware.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Japanese_rice_in_Wajima-nuri_lacquerware.jpg/960px-Japanese_rice_in_Wajima-nuri_lacquerware.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Japanese_rice_in_Wajima-nuri_lacquerware.jpg/500px-Japanese_rice_in_Wajima-nuri_lacquerware.jpg",
+  "w": 960,
+  "h": 768,
+  "alt": "1 gō of cooked Japanese rice served in a Wajima-nuri lacquer rice bowl: . It is hitomebore rice grown by my father in Daitō, Ichinoseki, Iwa",
+  "artist": "yuuki ゆうき(金野裕希)",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Japanese_rice_in_Wajima-nuri_lacquerware.jpg"
+ },
+ "nanbu-tekki-export-france": {
+  "file": "File:Nambu Tetsubin.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nambu_Tetsubin.jpg/960px-Nambu_Tetsubin.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nambu_Tetsubin.jpg/500px-Nambu_Tetsubin.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Nanbu Tekki",
+  "artist": "Misakubo",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Nambu_Tetsubin.jpg"
+ }
 }
