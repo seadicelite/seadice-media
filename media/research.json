@@ -5,6 +5,9 @@
   "name": "SEADICE RESEARCH",
   "path": "sites/research/",
   "url": "https://research.seadice.win/",
+  "extraNav": [
+    { "label": "LEDGER（お金の心理学）", "path": "https://seadice-ledger.web.app/" }
+  ],
   "reader": "その悩みを実際に抱えて検索してきた一般の人",
   "tone": "やさしい・責めない・煽らない。断定より『研究ではこうだった』",
   "categories": [

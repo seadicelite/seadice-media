@@ -132,7 +132,7 @@ def build(slug, preview=None):
     sm = ROOT / cfg["path"] / "sitemap.xml"
     s = sm.read_text() if sm.exists() else '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n</urlset>\n'
     urls = ([url] + [f"{url}{p['slug']}/" for p in posts] + [f"{url}{x}/" for x in ("about", "sources", "disclaimer")]
-             + [url.rstrip("/") + n["path"] for n in cfg.get("extraNav", [])])
+             + [url.rstrip("/") + n["path"] for n in cfg.get("extraNav", []) if not n["path"].startswith("http")])
     add = "".join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{posts[0]["date"] if posts else ""}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.7</priority>\n  </url>\n' for u in urls if f"<loc>{u}</loc>" not in s)
     sm.write_text(s.replace("</urlset>", add + "</urlset>") if add else s)
     import seo
