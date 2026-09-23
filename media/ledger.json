@@ -89,5 +89,9 @@
     "少額投資への心理的ハードルはなぜ高いのか",
     "お金を使うと幸せになる使い方の研究"
   ],
-  "layout": "magazine"
+  "layout": "magazine",
+  "extraNav": [
+    { "label": "用語集", "path": "/glossary/" },
+    { "label": "ダイジェスト", "path": "/digest/" }
+  ]
 }
