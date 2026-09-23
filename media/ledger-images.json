@@ -22,5 +22,17 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Wallet_and_money_20170827.jpg"
+ },
+ "automatic-saving-works": {
+  "file": "File:19th century money box.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/19th_century_money_box.jpg/960px-19th_century_money_box.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/19th_century_money_box.jpg/500px-19th_century_money_box.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "19th century Dutch money box",
+  "artist": "Prolete",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:19th_century_money_box.jpg"
  }
 }
