@@ -70,5 +70,17 @@
   "license": "Public domain",
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Fact_or_fiction,_What_do_you_know_about_your_commissary_benefit%3F_150326-A-ZW947-001.jpg"
+ },
+ "sale-price-anchoring": {
+  "file": "File:Store Electronic Systems S-tag Electronic Shelf Label IC1b.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Store_Electronic_Systems_S-tag_Electronic_Shelf_Label_IC1b.jpg/960px-Store_Electronic_Systems_S-tag_Electronic_Shelf_Label_IC1b.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Store_Electronic_Systems_S-tag_Electronic_Shelf_Label_IC1b.jpg/500px-Store_Electronic_Systems_S-tag_Electronic_Shelf_Label_IC1b.jpg",
+  "w": 960,
+  "h": 829,
+  "alt": "Store Electronic Systems S-tag Electronic Shelf Label",
+  "artist": "Fdzevbez55",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Store_Electronic_Systems_S-tag_Electronic_Shelf_Label_IC1b.jpg"
  }
 }
