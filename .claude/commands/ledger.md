@@ -33,8 +33,9 @@ description: LEDGER（お金の使い方を行動経済学で読み解くメデ�
 
 `publish` が `draft` の間は、media.md の draft 手順（ブランチ＋PR）に従い、main へは直接 push しない。
 
-## 写真のルール（カテゴリ単位のプール運用。記事ごとの検索はしない）
+## 写真のルール
 
-- 画像は記事ごとに探さない。`media/ledger-images.json` にカテゴリ単位（`c-impulse`/`c-saving`/`c-subscription`/`c-budgeting`/`c-anxiety`/`c-happiness`）で1枚ずつ登録するプールを使い回す。画像本体は `sites/ledger/img/` にローカル保存する。
-- プールに画像が無いカテゴリで最初の記事を作るときだけ、CC0/CC BY-SA等の再配布可能な画像（お金・財布・レシート・電卓等、人物が写らないもの）を1枚探して `sites/ledger/img/` に保存し、`media/ledger-images.json` に追記する。見つからない場合は写真なしで公開してよい（カテゴリのアイコンが代わりに表示される）。
-- 既存カテゴリの画像を記事ごとに差し替える必要はない。使い回しでよい。
+- `media.md` 手順5のとおり `python3 media/photo.py ledger {記事slug} "<検索語>"` を実行する（Wikimedia Commonsから取得、`media/ledger-images.json` に記事slugごとに登録される）。
+- **候補が見つからない（`skip: 候補なし`）場合は、検索語を変えて2〜3回まで再検索してよい**（`--replace` フラグを付けて `python3 media/photo.py ledger {記事slug} "<別の検索語>" --replace` を実行）。同じ画像がトップページのカードに何度も並ぶのを避けるため、既存記事で使用済みの画像（`media/ledger-images.json` の他エントリ）との使い回しは最終手段にする。
+- 取得できた画像は、著者名（artist）が壊れた文字列になっていないか、極端な縦横比（バナー状など）になっていないか目視確認する。おかしい場合は不採用にして別の検索語で取り直す。
+- 2〜3回試しても見つからない場合は、他記事で未使用の画像があればそれを流用し、それも無ければ写真なしで公開してよい（カテゴリのアイコンが代わりに表示される）。
