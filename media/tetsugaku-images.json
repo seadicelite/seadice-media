@@ -94,5 +94,17 @@
   "license": "Public domain",
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Ren%C3%A9_Descartes_1644_Specimina_philosophiae_173.jpg"
+ },
+ "kant-lying-categorical-imperative": {
+  "file": "File:Königsberg Cathedral in Kaliningrad, night-2004.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/K%C3%B6nigsberg_Cathedral_in_Kaliningrad%2C_night-2004.jpg/960px-K%C3%B6nigsberg_Cathedral_in_Kaliningrad%2C_night-2004.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/K%C3%B6nigsberg_Cathedral_in_Kaliningrad%2C_night-2004.jpg/500px-K%C3%B6nigsberg_Cathedral_in_Kaliningrad%2C_night-2004.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Кафедральный собор Калининграда.",
+  "artist": "Dennis Myts",
+  "license": "CC BY-SA 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6nigsberg_Cathedral_in_Kaliningrad,_night-2004.jpg"
  }
 }

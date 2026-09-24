@@ -94,5 +94,29 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:3_Hourglasses_Wellcome_L0011331.jpg"
+ },
+ "habit-formation-two-minute-rule": {
+  "file": "File:From the stairs to the stars (potw2509a).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/From_the_stairs_to_the_stars_%28potw2509a%29.jpg/960px-From_the_stairs_to_the_stars_%28potw2509a%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/From_the_stairs_to_the_stars_%28potw2509a%29.jpg/500px-From_the_stairs_to_the_stars_%28potw2509a%29.jpg",
+  "w": 960,
+  "h": 629,
+  "alt": "Apart from actually going to space, you probably won’t feel much closer to the stars than at the top of the staircase at ESO’s Paranal Obser",
+  "artist": "F. Millour/ESO",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:From_the_stairs_to_the_stars_(potw2509a).jpg"
+ },
+ "bedtime-todo-list-sleep": {
+  "file": "File:Fountain pen writing (literacy).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fountain_pen_writing_%28literacy%29.jpg/960px-Fountain_pen_writing_%28literacy%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fountain_pen_writing_%28literacy%29.jpg/500px-Fountain_pen_writing_%28literacy%29.jpg",
+  "w": 960,
+  "h": 704,
+  "alt": "Writing in Russian cyrillic script with a fountain pen. The #6 \"Iridium Point Germany\" nib is an affordable modern OEM nib of Asian origin. ",
+  "artist": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fountain_pen_writing_(literacy).jpg"
  }
 }
