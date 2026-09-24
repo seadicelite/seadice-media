@@ -50,7 +50,7 @@ def main(media, slug, query, flag=""):
         text = FIG.sub("", text)
     elif slug in images or 'class="hero"' in text:
         return print("skip: 既に写真あり")
-    used = {i.get("file") for i in images.values()}
+    used = {i.get("file") for i in images.values() if isinstance(i, dict)}
     try:
         pick = None
         for p in search(query):
