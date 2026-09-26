@@ -167,15 +167,16 @@
   "page": "https://commons.wikimedia.org/wiki/File:Placing_a_wedding_ring.jpg"
  },
  "moral-harassment-behavior-patterns-research": {
-  "src": "/img/redflag.jpg",
-  "src640": "/img/redflag.jpg",
-  "w": 500,
-  "h": 375,
-  "alt": "工事現場に張られた黄色い注意喚起テープ",
-  "artist": "Tewy",
+  "file": "File:Power Lines (178579725).jpeg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Power_Lines_%28178579725%29.jpeg/960px-Power_Lines_%28178579725%29.jpeg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Power_Lines_%28178579725%29.jpeg/500px-Power_Lines_%28178579725%29.jpeg",
+  "w": 960,
+  "h": 640,
+  "alt": "500px provided description: This heavy steel tower supporting power lines looks so ominous against the background of dark, cloudy sky. [#tow",
+  "artist": "Peter Balcerzak",
   "license": "CC BY-SA 3.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-  "page": "https://commons.wikimedia.org/wiki/File:Caution_Tape.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Power_Lines_(178579725).jpeg"
  },
  "duchenne-smile-genuine-fake-research": {
   "file": "File:Comedy and Tragedy Mask ornamentation on Suisun Harbor Theater.jpg",

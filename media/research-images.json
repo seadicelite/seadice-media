@@ -118,5 +118,42 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Fountain_pen_writing_(literacy).jpg"
+ },
+ "spacing-effect-review-timing": {
+  "file": "File:Desk with notebook pens and glasses.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Desk_with_notebook_pens_and_glasses.jpg/960px-Desk_with_notebook_pens_and_glasses.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Desk_with_notebook_pens_and_glasses.jpg/500px-Desk_with_notebook_pens_and_glasses.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "A person is studying at home during the evening. A notebook lies open on the desk with several pens. Reading glasses rest on the notebook, i",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk_with_notebook_pens_and_glasses.jpg"
+ },
+ "phone-presence-attention-brain-drain": {
+  "file": "File:Woman sitting in cafe enjoying coffee and using smartphone while laptop rests on table.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Woman_sitting_in_cafe_enjoying_coffee_and_using_smartphone_while_laptop_rests_on_table.jpg/960px-Woman_sitting_in_cafe_enjoying_coffee_and_using_smartphone_while_laptop_rests_on_table.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Woman_sitting_in_cafe_enjoying_coffee_and_using_smartphone_while_laptop_rests_on_table.jpg/500px-Woman_sitting_in_cafe_enjoying_coffee_and_using_smartphone_while_laptop_rests_on_table.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "A woman sits in a cafe at a table with a laptop and a plate of snacks. She holds a coffee cup with one hand and uses her smartphone with the",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_sitting_in_cafe_enjoying_coffee_and_using_smartphone_while_laptop_rests_on_table.jpg"
+ },
+ "self-compassion-recovery-speed": {
+  "file": "https://live.staticflickr.com/65535/52436339925_7a802fd8e9_b.jpg",
+  "src": "https://live.staticflickr.com/65535/52436339925_7a802fd8e9_b.jpg",
+  "src640": "https://live.staticflickr.com/65535/52436339925_7a802fd8e9_b.jpg",
+  "w": 1024,
+  "h": 675,
+  "alt": "therapy in the woods - a fallen tree trunk with 'I forgive myself' carved into it",
+  "artist": "marneejill",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "page": "https://www.flickr.com/photos/7675787@N06/52436339925",
+  "source_label": "Flickr"
  }
 }
