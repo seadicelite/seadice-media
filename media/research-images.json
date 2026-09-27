@@ -155,5 +155,31 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
   "page": "https://www.flickr.com/photos/7675787@N06/52436339925",
   "source_label": "Flickr"
+ },
+ "cold-shower-mood-boost": {
+  "file": "File:Water drops on clear plastic shower curtain.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Water_drops_on_clear_plastic_shower_curtain.jpg/960px-Water_drops_on_clear_plastic_shower_curtain.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Water_drops_on_clear_plastic_shower_curtain.jpg/500px-Water_drops_on_clear_plastic_shower_curtain.jpg",
+  "w": 960,
+  "h": 938,
+  "alt": "Water drops on clear plastic shower curtain",
+  "artist": "FuriousYogi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Water_drops_on_clear_plastic_shower_curtain.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "background-music-studying-focus": {
+  "file": "File:Desk-music-headphones-earphones (24243083451).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Desk-music-headphones-earphones_%2824243083451%29.jpg/960px-Desk-music-headphones-earphones_%2824243083451%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Desk-music-headphones-earphones_%2824243083451%29.jpg/500px-Desk-music-headphones-earphones_%2824243083451%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "desk-music-headphones-earphones",
+  "artist": "www.Pixel.la Free Stock Photos",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk-music-headphones-earphones_(24243083451).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

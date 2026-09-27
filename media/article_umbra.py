@@ -86,7 +86,7 @@ def make(a):
   <p class="breadcrumb"><a href="/">UMBRA</a> / {E(a["short"])}</p>
   <span class="tag" style="color:{a["color"]};border-color:{a["color"]}">{E(a["category"])}</span>
   <h1>{E(a["title"])}</h1>
-  <p class="meta"><time datetime="{a["date"]}">{a["date"]}</time> · 約{a["minutes"]}分で読めます</p>
+  <p class="meta">約{a["minutes"]}分で読めます</p>
 
   {hero}
 

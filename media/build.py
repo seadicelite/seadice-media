@@ -2,7 +2,8 @@
 """media/{slug}-posts.json から一覧ページ(sites/{slug}/index.html)とsitemapを再生成する。
 使い方: python3 media/build.py <slug>   （設定は media/{slug}.json の theme / categories / types）
 記事を追加するときは posts.json の先頭に1件足してから実行する。JS不使用。"""
-import html, json, sys
+import html, json, random, sys
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 
@@ -69,7 +70,11 @@ def build(slug, preview=None):
     theme = {**DEFAULT_THEME, **cfg.get("theme", {})}
     cats = cats_of(cfg)
     types = {t["id"]: t["label"] for t in cfg.get("types", [])}
-    posts = sorted(posts, key=lambda p: p["date"], reverse=True)
+    latest_date = max((p["date"] for p in posts), default="")
+    # 日付は表に出さず、日本時間の日付をシードに表示順を毎日入れ替える（古い記事にも順番に光が当たる）
+    seed = datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d")
+    posts = sorted(posts, key=lambda p: p["slug"])
+    random.Random(f"{slug}:{seed}").shuffle(posts)
     name, url = cfg["name"], cfg["url"]
     tagline = cfg.get("tagline", "")
     lead = cfg.get("lead", "")
@@ -124,7 +129,7 @@ def build(slug, preview=None):
   <a href="/" class="r">{html.escape(name)}</a>
 </nav>
 {ticker_html}<main{' class="mag"' if mag else ''}>
-  {'' if mag else f'<div class="hero"><h1>{html.escape(name)}</h1><p class="tagline">{html.escape(tagline)}</p><p class="lead">{html.escape(lead)}</p></div><div class="chips" aria-label="カテゴリ">{chips}</div><h2 class="sec">LATEST</h2><div class="grid">{latest}</div>'}
+  {'' if mag else f'<div class="hero"><h1>{html.escape(name)}</h1><p class="tagline">{html.escape(tagline)}</p><p class="lead">{html.escape(lead)}</p></div><div class="chips" aria-label="カテゴリ">{chips}</div><h2 class="sec">PICK UP</h2><div class="grid">{latest}</div>'}
   {body_html + secs_html if mag else secs}
   {trust_html}
   <div class="about"><strong>このメディアについて</strong><br>{about} 写真は <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a> の自由ライセンス素材で、各記事に撮影者とライセンスを表示しています。</div>
@@ -142,7 +147,7 @@ def build(slug, preview=None):
     s = sm.read_text() if sm.exists() else '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n</urlset>\n'
     urls = ([url] + [f"{url}{p['slug']}/" for p in posts] + [f"{url}{x}/" for x in ("about", "sources", "disclaimer")]
              + [url.rstrip("/") + n["path"] for n in cfg.get("extraNav", []) if not n["path"].startswith("http")])
-    add = "".join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{posts[0]["date"] if posts else ""}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.7</priority>\n  </url>\n' for u in urls if f"<loc>{u}</loc>" not in s)
+    add = "".join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{latest_date}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.7</priority>\n  </url>\n' for u in urls if f"<loc>{u}</loc>" not in s)
     sm.write_text(s.replace("</urlset>", add + "</urlset>") if add else s)
     import seo
     n, pages = seo.apply(cfg, posts, images)

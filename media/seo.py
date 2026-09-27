@@ -27,10 +27,9 @@ def footer_html(cfg):
 
 def related_block(p, posts):
     others = [q for q in posts if q["slug"] != p["slug"]]
-    others.sort(key=lambda q: (q["category"] != p["category"], q.get("type") != p.get("type"), q["date"]), reverse=False)
     same = [q for q in others if q["category"] == p["category"]]
     rest = [q for q in others if q["category"] != p["category"]]
-    pick = (sorted(same, key=lambda q: q["date"], reverse=True) + sorted(rest, key=lambda q: q["date"], reverse=True))[:3]
+    pick = (same + rest)[:3]  # posts は build.py が日替わりでシャッフル済み。関連記事も毎日入れ替わる
     if not pick:
         return "<!--related--><!--/related-->"
     items = "".join(f'<a href="/{q["slug"]}/"><small>{E(q["category"])}</small>{E(q["title"])}</a>' for q in pick)
