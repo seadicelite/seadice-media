@@ -1,14 +1,18 @@
 name: Deploy media sites to Firebase Hosting
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 15 * * *" # 毎日0:00(JST)。日付シードで表示順を入れ替えるため毎日ビルドし直す
   push:
     branches: [main]
-    paths: ["sites/**", "firebase.json"]
+    paths: ["sites/**", "media/**", "firebase.json"]
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Rebuild index pages (daily rotation)
+        run: for s in research umbra ledger kogei tetsugaku; do python3 media/build.py "$s"; done
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}

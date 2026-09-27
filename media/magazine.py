@@ -47,8 +47,8 @@ def render(cfg, posts, cats, images, types, img_url, card):
 
     # ティッカー(速報を優先、なければ新着)
     tick_src = [p for p in posts if p.get("type") == "news"] or posts
-    ticker = "".join(f'<a href="/{p["slug"]}/"><b>{E(p["date"][5:].replace("-", "/"))}</b>{E(p["title"])}</a>' for p in tick_src[:10])
-    ticker_html = f'<div class="ticker"><span class="lb">NEWS</span><div class="tr"><div class="tk">{ticker}</div></div></div>' if ticker else ""
+    ticker = "".join(f'<a href="/{p["slug"]}/">{E(p["title"])}</a>' for p in tick_src[:10])
+    ticker_html = f'<div class="ticker"><span class="lb">PICK UP</span><div class="tr"><div class="tk">{ticker}</div></div></div>' if ticker else ""
 
     # ヒーロー
     feat = next((p for p in posts if p.get("featured")), posts[0] if posts else None)
@@ -60,7 +60,7 @@ def render(cfg, posts, cats, images, types, img_url, card):
         others = [p for p in posts if p is not feat][:4]
         side = "".join(f'<a class="srow" href="/{p["slug"]}/">{tag(p)}<p class="t">{E(p["title"])}</p></a>' for p in others)
         hero = (f'<div class="mhero"><a class="feat" style="--c:{c["color"]}" href="/{feat["slug"]}/">{bg}<div class="in">{tag(feat)}'
-                f'<h2>{E(feat["title"])}</h2><p>{E(feat["summary"])}</p></div></a><div class="side"><h3>LATEST</h3>{side}</div></div>')
+                f'<h2>{E(feat["title"])}</h2><p>{E(feat["summary"])}</p></div></a><div class="side"><h3>PICK UP</h3>{side}</div></div>')
 
     # カテゴリタイル
     tiles = ""
@@ -74,7 +74,7 @@ def render(cfg, posts, cats, images, types, img_url, card):
     ranked = sorted([p for p in posts if p.get("rank")], key=lambda p: p["rank"])[:5] or posts[:5]
     rank = "".join(f'<li><div><a href="/{p["slug"]}/">{E(p["title"])}</a><small>{E(p["category"])}</small></div></li>' for p in ranked)
     news = [p for p in posts if p.get("type") == "news"][:8]
-    nrows = "".join(f'<a class="nrow" style="--c:{cat(p)["color"]}" href="/{p["slug"]}/"><time datetime="{p["date"]}">{p["date"][5:].replace("-", "/")}</time><span class="t">{E(p["title"])}<span class="c">{E(p["category"])}</span></span></a>' for p in news)
+    nrows = "".join(f'<a class="nrow" style="--c:{cat(p)["color"]}" href="/{p["slug"]}/"><span class="t">{E(p["title"])}<span class="c">{E(p["category"])}</span></span></a>' for p in news)
     two = (f'<div class="two"><section><div class="sechead"><h2>研究速報</h2><span>NEWS</span></div>{nrows or "<p class=empty>準備中です。</p>"}</section>'
            f'<section><div class="sechead"><h2>人気ランキング</h2><span>TOP 5</span></div><ol class="rank">{rank}</ol></section></div>')
 
