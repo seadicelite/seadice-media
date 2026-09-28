@@ -201,5 +201,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Oh..._-_Flickr_-_Space_Butterfly.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "on-again-off-again-reconciliation-research": {
+  "file": "File:Entrance in Torp shopping mall, Uddevalla.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Entrance_in_Torp_shopping_mall%2C_Uddevalla.jpg/960px-Entrance_in_Torp_shopping_mall%2C_Uddevalla.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Entrance_in_Torp_shopping_mall%2C_Uddevalla.jpg/500px-Entrance_in_Torp_shopping_mall%2C_Uddevalla.jpg",
+  "w": 960,
+  "h": 656,
+  "alt": "People using the revolving doors of the entrance to Torp shopping mall, Uddevalla Municipality, Sweden.",
+  "artist": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Entrance_in_Torp_shopping_mall,_Uddevalla.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
