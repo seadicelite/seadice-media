@@ -106,5 +106,18 @@
   "license": "CC BY-SA 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Diary_of_Harriet_Louisa_Browne,_1855_(15325246875).jpg"
+ },
+ "specific-saving-goal-works": {
+  "file": "File:Dartboard with darts.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dartboard_with_darts.jpg/960px-Dartboard_with_darts.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dartboard_with_darts.jpg/500px-Dartboard_with_darts.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Tikkoja heitettynä tikkatauluun.",
+  "artist": "Santeri Viinamäki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dartboard_with_darts.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
