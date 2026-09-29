@@ -15,7 +15,10 @@ argument-hint: <slug 例: research> [--draft] [トピック]
 4. 記事を `postsPerRun` 本作る（確認不要）。出典を確認できないトピックは捨てて次へ。
 5. 配線と写真（スクリプトで行う。一覧やsitemapを手で編集しない）:
    - `media/{slug}-posts.json` の先頭に `{"slug","category"(設定のcategoriesから),"date","title","summary"(60字前後)}` を1件追加する。
-   - 写真（キー不要）: `python3 media/photo.py {slug} {記事slug} "<英語の検索語 2〜4語>"` を1回だけ実行する。検索語は「物・場所・道具」に寄せる（例: "bedroom bed pillow"。"person" 等の人物語は避ける）。Wikimedia Commonsを優先し、候補が無ければOpenverse（Flickr Commons等）に自動フォールバックする（呼び出しは1回のまま）。自由ライセンスのJPEGだけを採用し、センシティブな内容は自動除外され、撮影者・ライセンスが記事に自動表示される。候補なし・失敗時は写真なしで続行してよい。リトライ・複数回検索は禁止。
+   - **写真は必須（キー不要）。写真なしで公開しない。** `python3 media/photo.py {slug} {記事slug} "<英語の検索語 2〜4語>"` を実行する。検索語は「物・場所・道具」に寄せる（例: "bedroom bed pillow"。"person" 等の人物語は避ける）。Wikimedia Commonsを優先し、候補が無ければOpenverse（Flickr Commons等）に自動フォールバックする。
+     - 1回目の検索語（記事固有のキーワード）で候補が無い場合は、**検索語を変えて再検索してよい**（最大3回まで）。1回目より抽象度を上げ、記事のカテゴリ名やテーマの核となる名詞（例: "sleep bedroom", "notebook desk", "clock time"）に寄せていく。
+     - 3回試しても見つからない場合は、`--openverse` を付けて最後にもう一度試す（Commonsに無い題材でもOpenverseなら見つかることが多い）。
+     - それでも見つからない場合だけ、写真なしでの公開を許可する（実務上ほぼ発生しない想定）。採用した画像は文字入りのポスター画像や記事内容と無関係なものでないか目視相当の確認をする（altテキスト・タイトルで違和感が無いか確認する）。
    - `python3 media/build.py {slug}` で一覧ページとsitemapを再生成する。
 6. **公開前の自己検査（人の目が無い前提。1つでも落ちたらその記事は公開せず破棄して次のトピックへ）**:
    - 記事内の全出典URLを WebFetch し直し、記事の数値・主張が出典本文に書かれていることを1件ずつ照合した。

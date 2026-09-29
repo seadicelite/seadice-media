@@ -86,6 +86,17 @@ def pick_openverse(query, used):
     return None
 
 
+def _is_real_image(url):
+    """OpenverseはFlickr等の外部URLをそのまま返すため、リンク切れ・エラーページを弾く。先頭バイトでJPEG/PNG/WebPか確認する。"""
+    try:
+        r = urllib.request.Request(url, headers={"User-Agent": UA})
+        with urllib.request.urlopen(r, timeout=15) as resp:
+            head = resp.read(16)
+        return head.startswith(b"\xff\xd8") or head.startswith(b"\x89PNG") or head[8:12] == b"WEBP"
+    except Exception:  # noqa: BLE001
+        return False
+
+
 def main(media, slug, query, flag=""):
     cfg = json.loads((ROOT / f"media/{media}.json").read_text())
     art = ROOT / cfg["path"] / slug / "index.html"
@@ -111,6 +122,8 @@ def main(media, slug, query, flag=""):
             print("skip: Openverse API 失敗", e)
     if not i:
         return print("skip: 候補なし")
+    if not _is_real_image(i["src"]):
+        return print("skip: 画像URLが実体を返さない（壊れたリンク）", i["src"])
     i["alt"] = i["alt"][:140]
     images[slug] = i
     ip.write_text(json.dumps(images, ensure_ascii=False, indent=1))

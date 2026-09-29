@@ -181,5 +181,57 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Desk-music-headphones-earphones_(24243083451).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "phone-notifications-off-focus": {
+  "file": "File:Smartphone (screen off).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Smartphone_%28screen_off%29.jpg/960px-Smartphone_%28screen_off%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Smartphone_%28screen_off%29.jpg/500px-Smartphone_%28screen_off%29.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Android Smartphones (screen off)",
+  "artist": "彭嘉傑",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Smartphone_(screen_off).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "weekend-catchup-sleep-debt": {
+  "file": "File:The use of Nightstand.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_use_of_Nightstand.jpg/960px-The_use_of_Nightstand.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_use_of_Nightstand.jpg/500px-The_use_of_Nightstand.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "A nightstand, alternatively night table, bedside table or bedside cabinet, is a small table or cabinet designed to stand beside a bed or els",
+  "artist": "Brad Coy",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:The_use_of_Nightstand.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "perfectionism-procrastination-research": {
+  "file": "File:Laptop with many charts on screen on cluttered desk.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Laptop_with_many_charts_on_screen_on_cluttered_desk.jpg/960px-Laptop_with_many_charts_on_screen_on_cluttered_desk.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Laptop_with_many_charts_on_screen_on_cluttered_desk.jpg/500px-Laptop_with_many_charts_on_screen_on_cluttered_desk.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "A laptop (MacBook) open on a cluttered desk, displaying a screen with many charts on it. The background has a wall with many papers pinned t",
+  "artist": "rawpixel",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Laptop_with_many_charts_on_screen_on_cluttered_desk.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "gratitude-journal-happiness-effect-size": {
+  "file": "https://live.staticflickr.com/1496/25297861613_74ddba331b_b.jpg",
+  "src": "https://live.staticflickr.com/1496/25297861613_74ddba331b_b.jpg",
+  "src640": "https://live.staticflickr.com/1496/25297861613_74ddba331b_b.jpg",
+  "w": 1024,
+  "h": 697,
+  "alt": "NS-00319 - Terence Bay Lighthouse",
+  "artist": "archer10 (Dennis)",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "page": "https://www.flickr.com/photos/22490717@N02/25297861613",
+  "source_label": "Flickr"
  }
 }
