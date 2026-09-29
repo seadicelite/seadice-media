@@ -11,7 +11,16 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 E = html.escape
 LD = re.compile(r'(<script type="application/ld\+json">)(.*?)(</script>)', re.S)
-RELATED_CSS = ".related{margin-top:56px;padding-top:24px;border-top:1px solid var(--border)}.related h2{font-size:14px;margin:0 0 12px;color:var(--muted);letter-spacing:.1em}.related a{display:block;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 16px;margin:10px 0;text-decoration:none;color:var(--text);font-size:15px;font-weight:700;line-height:1.5}.related a:hover{border-color:var(--accent)}.related small{display:block;font-size:11px;color:var(--accent);font-weight:400;margin-bottom:2px}"
+RELATED_CSS = (".related{margin-top:56px;padding-top:24px;border-top:1px solid var(--border)}.related h2{font-size:14px;margin:0 0 12px;color:var(--muted);letter-spacing:.1em}"
+               ".related a{display:flex;gap:12px;align-items:center;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:10px;margin:10px 0;text-decoration:none;color:var(--text)}.related a:hover{border-color:var(--accent)}"
+               ".related .rt{flex:0 0 72px;width:72px;height:72px;border-radius:8px;overflow:hidden;background:var(--border)}.related .rt img{display:block;width:100%;height:100%;object-fit:cover}"
+               ".related .rb{min-width:0}.related small{display:block;font-size:11px;color:var(--accent);font-weight:400;margin-bottom:2px}.related .rb p{font-size:15px;font-weight:700;line-height:1.4;margin:0}")
+
+
+def _img_url(i, w=200, h=200):
+    if "src" in i:
+        return i["src640"] if w <= 640 else i["src"]
+    return f"{i['raw']}&w={w}&h={h}&fit=crop&q=70&fm=webp"
 
 
 def article_style(cfg):
@@ -25,14 +34,19 @@ def footer_html(cfg):
             f'&nbsp;|&nbsp; <a href="/disclaimer/">免責事項</a> &nbsp;|&nbsp; <a href="https://seadice.win/">SEADICE</a> &nbsp;|&nbsp; &copy; SEADICE</p></footer>')
 
 
-def related_block(p, posts):
+def related_block(p, posts, images):
     others = [q for q in posts if q["slug"] != p["slug"]]
     same = [q for q in others if q["category"] == p["category"]]
     rest = [q for q in others if q["category"] != p["category"]]
     pick = (same + rest)[:3]  # posts は build.py が日替わりでシャッフル済み。関連記事も毎日入れ替わる
     if not pick:
         return "<!--related--><!--/related-->"
-    items = "".join(f'<a href="/{q["slug"]}/"><small>{E(q["category"])}</small>{E(q["title"])}</a>' for q in pick)
+    def item(q):
+        img = images.get(q["slug"])
+        thumb = f'<img src="{_img_url(img)}" alt="" loading="lazy">' if img else ""
+        return (f'<a href="/{q["slug"]}/"><span class="rt">{thumb}</span>'
+                f'<span class="rb"><small>{E(q["category"])}</small><p>{E(q["title"])}</p></span></a>')
+    items = "".join(item(q) for q in pick)
     return f'<!--related--><section class="related"><h2>関連記事</h2>{items}</section><!--/related-->'
 
 
@@ -77,9 +91,12 @@ def patch_article(cfg, p, posts, images):
     # --- ヒーロー画像の優先読み込み
     s = re.sub(r'(<figure class="hero"><img )(?!fetchpriority)', r'\1fetchpriority="high" decoding="async" ', s)
     # --- 関連記事
-    if ".related{" not in s:
+    old_related_css = ".related{margin-top:56px;padding-top:24px;border-top:1px solid var(--border)}.related h2{font-size:14px;margin:0 0 12px;color:var(--muted);letter-spacing:.1em}.related a{display:block;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 16px;margin:10px 0;text-decoration:none;color:var(--text);font-size:15px;font-weight:700;line-height:1.5}.related a:hover{border-color:var(--accent)}.related small{display:block;font-size:11px;color:var(--accent);font-weight:400;margin-bottom:2px}"
+    if old_related_css in s:
+        s = s.replace(old_related_css, RELATED_CSS, 1)
+    elif ".related .rt{" not in s:
         s = s.replace("footer{border-top", RELATED_CSS + "footer{border-top", 1)
-    blk = related_block(p, posts)
+    blk = related_block(p, posts, images)
     if "<!--related-->" in s:
         s = re.sub(r"<!--related-->.*?<!--/related-->", lambda m: blk, s, flags=re.S)
     else:
