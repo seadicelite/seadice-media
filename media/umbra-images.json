@@ -214,5 +214,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Entrance_in_Torp_shopping_mall,_Uddevalla.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "conversation-synchrony-compatibility-research": {
+  "file": "File:Coffee in Montreal (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coffee_in_Montreal_%28Unsplash%29.jpg/960px-Coffee_in_Montreal_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coffee_in_Montreal_%28Unsplash%29.jpg/500px-Coffee_in_Montreal_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Kitsuné Café, Montreal, Canada",
+  "artist": "Luke Chesser lukechesser",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Coffee_in_Montreal_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
