@@ -17,7 +17,9 @@ BAD_TITLE = re.compile(r"\b(map|logo|flag|diagram|chart|coat of arms|screenshot|
                        r"nude|naked|nudity|topless|erotic|sex\w*|bikini|lingerie|underwear|fetish|porn\w*|"
                        r"patient|hospital|intensive care|surgery|wound|injur\w*|corpse|dead|death|funeral|autopsy|"
                        r"war|weapon|gun|blood|accident|crash|disaster|victim|suicide|drug\w*|child abuse)\b", re.I)
-CSS = ".hero{margin:0 0 24px}.hero img{display:block;width:100%;height:auto;border-radius:14px;background:#0C0C1A}.hero figcaption{font-size:11px;color:var(--muted);margin-top:6px;line-height:1.5}.hero figcaption a{color:#7dd3fc}"
+CSS = (".hero{margin:0 0 24px}.hero img{display:block;width:100%;height:auto;border-radius:14px;background:#0C0C1A}"
+       ".hero figcaption{font-size:11px;color:var(--muted);margin-top:6px;line-height:1.5;padding:0 20px}.hero figcaption a{color:#7dd3fc}"
+       "@media(max-width:640px){.hero{margin-left:-20px;margin-right:-20px}.hero img{border-radius:0}.hero figcaption{padding:0 20px}}")
 FIG = re.compile(r'<figure class="hero">.*?</figure>\s*', re.S)
 
 
