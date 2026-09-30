@@ -233,5 +233,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
   "page": "https://www.flickr.com/photos/22490717@N02/25297861613",
   "source_label": "Flickr"
+ },
+ "goal-sharing-achievement-research": {
+  "file": "File:Business agreement handshake at coffee shop.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Business_agreement_handshake_at_coffee_shop.jpg/960px-Business_agreement_handshake_at_coffee_shop.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Business_agreement_handshake_at_coffee_shop.jpg/500px-Business_agreement_handshake_at_coffee_shop.jpg",
+  "w": 960,
+  "h": 642,
+  "alt": "Business agreement handshake at coffee shop",
+  "artist": "rawpixel.com",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Business_agreement_handshake_at_coffee_shop.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
