@@ -45,7 +45,7 @@ def cats_of(cfg):
             i, col, ic = LEGACY[c]
             out[c] = {"id": i, "color": col, "icon": ICONS[ic]}
         else:
-            out[c["name"]] = {"id": c["id"], "color": c["color"], "icon": ICONS.get(c.get("icon", "dot"), ICONS["dot"])}
+            out[c["name"]] = {"id": c["id"], "color": c["color"], "icon": ICONS.get(c.get("icon", "dot"), ICONS["dot"]), "desc": c.get("desc", "")}
     return out
 
 
@@ -88,7 +88,7 @@ def build(slug, preview=None):
     name, url = cfg["name"], cfg["url"]
     tagline = cfg.get("tagline", "")
     lead = cfg.get("lead", "")
-    chips = "".join(f'<a class="chip" href="#c-{v["id"]}" style="--c:{v["color"]}"><svg viewBox="0 0 24 24"><path d="{v["icon"]}"/></svg>{html.escape(n)}</a>' for n, v in cats.items())
+    chips = "".join(f'<a class="chip" href="/category/{v["id"]}/" style="--c:{v["color"]}"><svg viewBox="0 0 24 24"><path d="{v["icon"]}"/></svg>{html.escape(n)}</a>' for n, v in cats.items())
     latest = "".join(card(p, cats, images, types) for p in posts[:12]) or '<p class="empty">記事を準備中です。</p>'
     secs = ""
     for n, v in cats.items():
@@ -160,9 +160,71 @@ def build(slug, preview=None):
              + [url.rstrip("/") + n["path"] for n in cfg.get("extraNav", []) if not n["path"].startswith("http")])
     add = "".join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{latest_date}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.7</priority>\n  </url>\n' for u in urls if f"<loc>{u}</loc>" not in s)
     sm.write_text(s.replace("</urlset>", add + "</urlset>") if add else s)
+    cat_urls = build_category_pages(cfg, posts, cats, images, types, theme, name, url)
+    add2 = "".join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{latest_date}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.6</priority>\n  </url>\n' for u in cat_urls if f"<loc>{u}</loc>" not in s)
+    if add2:
+        cur = sm.read_text()
+        sm.write_text(cur.replace("</urlset>", add2 + "</urlset>"))
     import seo
     n, pages = seo.apply(cfg, posts, images, favicon_tag(name, theme))
-    print(f"built {cfg['path']}index.html ({len(posts)} posts), seo-patched {n} articles, {len(pages)} trust pages")
+    print(f"built {cfg['path']}index.html ({len(posts)} posts), seo-patched {n} articles, {len(pages)} trust pages, {len(cat_urls)} category hubs")
+
+
+def build_category_pages(cfg, posts, cats, images, types, theme, name, url):
+    """カテゴリごとに独立URL(/category/{id}/)のハブページを作る。カテゴリ名での検索に個別評価を受けられるようにする。"""
+    urls = []
+    for n, v in cats.items():
+        items = [p for p in posts if p["category"] == n]
+        if not items:
+            continue
+        cdesc = v.get("desc", "")
+        body = "".join(card(p, cats, images, types) for p in items)
+        ttl = f"{n} | {name}"
+        desc = html.escape(cdesc or f"{name}の「{n}」カテゴリの記事一覧。", quote=True)
+        curl = f"{url}category/{v['id']}/"
+        ld = json.dumps({"@context": "https://schema.org", "@graph": [
+            {"@type": "CollectionPage", "name": ttl, "url": curl, "description": cdesc,
+             "publisher": {"@type": "Organization", "name": "SEADICE", "url": "https://seadice.win"}},
+            {"@type": "BreadcrumbList", "itemListElement": [
+                {"@type": "ListItem", "position": 1, "name": "HOME", "item": "https://seadice.win/"},
+                {"@type": "ListItem", "position": 2, "name": name, "item": url},
+                {"@type": "ListItem", "position": 3, "name": n, "item": curl}]}]}, ensure_ascii=False)
+        out = f'''<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{html.escape(ttl)}</title>
+<meta name="description" content="{desc}">
+<link rel="canonical" href="{curl}">
+<meta property="og:title" content="{html.escape(ttl, quote=True)}">
+<meta property="og:description" content="{desc}">
+<meta property="og:url" content="{curl}">
+<meta property="og:type" content="website">
+<meta name="robots" content="index,follow">
+{favicon_tag(name, theme)}
+<script type="application/ld+json">{ld}</script>
+<style>{CSS % theme}</style>
+</head>
+<body>
+<nav class="top">
+  <a href="https://seadice.win/" class="nav-logo">SEADICE</a>
+  <a href="/" class="r">{html.escape(name)}</a>
+</nav>
+<main>
+  <p style="font-size:12px;color:var(--muted);margin:0 0 16px"><a href="https://seadice.win/" style="color:var(--muted)">HOME</a> / <a href="/" style="color:var(--muted)">{html.escape(name)}</a> / {html.escape(n)}</p>
+  <div class="hero"><h1>{html.escape(n)}</h1><p class="lead">{html.escape(cdesc)}</p></div>
+  <div class="grid">{body}</div>
+</main>
+<footer><p><a href="/about/">このメディアについて</a> | <a href="/sources/">出典と検証の方法</a> | <a href="/disclaimer/">免責事項</a> | <a href="https://seadice.win/">SEADICE</a> | &copy; SEADICE</p></footer>
+</body>
+</html>
+'''
+        outdir = ROOT / cfg["path"] / "category" / v["id"]
+        outdir.mkdir(parents=True, exist_ok=True)
+        (outdir / "index.html").write_text(out)
+        urls.append(curl)
+    return urls
 
 
 if __name__ == "__main__":

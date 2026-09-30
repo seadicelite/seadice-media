@@ -67,7 +67,7 @@ def render(cfg, posts, cats, images, types, img_url, card):
     for n, v in cats.items():
         cnt = sum(1 for p in posts if p["category"] == n)
         desc = next((c.get("desc", "") for c in cfg["categories"] if isinstance(c, dict) and c["name"] == n), "")
-        tiles += (f'<a class="tile" href="#c-{v["id"]}" style="--c:{v["color"]}"><svg viewBox="0 0 24 24"><path d="{v["icon"]}"/></svg>'
+        tiles += (f'<a class="tile" href="/category/{v["id"]}/" style="--c:{v["color"]}"><svg viewBox="0 0 24 24"><path d="{v["icon"]}"/></svg>'
                   f'<b>{E(n)}</b><span>{E(desc)}</span><i>{cnt}本</i></a>')
 
     # ランキング + 速報

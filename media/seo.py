@@ -142,9 +142,10 @@ def patch_article(cfg, p, posts, images, favicon=""):
         s = re.sub(r"<!--prevnext-->.*?<!--/prevnext-->", lambda m: pn, s, flags=re.S)
     else:
         s = s.replace('<div class="sources">', pn + '\n    <div class="sources">', 1)
-    # --- カテゴリタグをトップページの該当セクションへのリンクにする
+    # --- カテゴリタグをカテゴリ専用ハブページへのリンクにする（独立URLでSEO評価を受けられるように）
     cid = cat_id(cfg, p["category"])
-    s = re.sub(r'<span class="tag"( style="[^"]*")?>([^<]*)</span>', rf'<a class="tag"\1 href="/#c-{cid}">\2</a>', s, count=1)
+    s = re.sub(r'<span class="tag"( style="[^"]*")?>([^<]*)</span>', rf'<a class="tag"\1 href="/category/{cid}/">\2</a>', s, count=1)
+    s = re.sub(r'(<a class="tag"(?: style="[^"]*")?) href="/#c-[a-z]+"', rf'\1 href="/category/{cid}/"', s, count=1)
     if 'a.tag{text-decoration:none}' not in s:
         s = s.replace("footer{border-top", "a.tag{text-decoration:none}" + "footer{border-top", 1)
     # --- フッター
