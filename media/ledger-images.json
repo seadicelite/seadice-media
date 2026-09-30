@@ -171,5 +171,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:2025_MINI_Cooper.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "money-values-family-differences-research": {
+  "file": "https://live.staticflickr.com/65535/51718657547_48ce09fdaf_b.jpg",
+  "src": "https://live.staticflickr.com/65535/51718657547_48ce09fdaf_b.jpg",
+  "src640": "https://live.staticflickr.com/65535/51718657547_48ce09fdaf_b.jpg",
+  "w": 1024,
+  "h": 683,
+  "alt": "Savings",
+  "artist": "raisin_raisin",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "page": "https://www.flickr.com/photos/194550014@N08/51718657547",
+  "source_label": "Flickr"
  }
 }
