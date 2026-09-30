@@ -216,5 +216,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Coffee_in_Montreal_(Unsplash).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "silence-during-dates-liking-research": {
+  "file": "File:Coffee shop (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Coffee_shop_%28Unsplash%29.jpg/960px-Coffee_shop_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Coffee_shop_%28Unsplash%29.jpg/500px-Coffee_shop_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Cater Yang 2017",
+  "artist": "Cater Yang rugeli",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Coffee_shop_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
