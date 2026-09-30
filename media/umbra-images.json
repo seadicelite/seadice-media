@@ -489,5 +489,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:DSC_7583_A_dim_empty_room_with_a_glossy_marble_counter_in_the_foreground_and_sunlight_streaming_through_open_windows_to_a_green_landscape_beyond.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "story-view-avoidance-interest-concealment-research": {
+  "file": "https://cdn.stocksnap.io/img-thumbs/960w/ILQA1VXXOJ.jpg",
+  "src": "https://cdn.stocksnap.io/img-thumbs/960w/ILQA1VXXOJ.jpg",
+  "src640": "https://cdn.stocksnap.io/img-thumbs/960w/ILQA1VXXOJ.jpg",
+  "w": 6016,
+  "h": 4016,
+  "alt": "Top Workspace",
+  "artist": "Top Down Tech",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "page": "https://stocksnap.io/photo/top-workspace-ILQA1VXXOJ",
+  "source_label": "Stocksnap"
  }
 }
