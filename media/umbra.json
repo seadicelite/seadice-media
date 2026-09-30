@@ -88,8 +88,6 @@
   "template": ".claude/commands/umbra-template.html",
   "rulesFrom": ".claude/commands/umbra.md",
   "postsPerRun": 1,
-  "topicQueue": [
-    "結婚満足度はU字カーブを描くのか、年数と満足度の関係を調べた研究"
-  ],
+  "topicQueue": [],
   "layout": "magazine"
 }
