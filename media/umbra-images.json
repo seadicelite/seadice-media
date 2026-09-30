@@ -307,5 +307,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Bench_image.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "hard-to-get-scarcity-attraction-research": {
+  "file": "File:Santorin (GR), Fira -- 2017 -- 2598.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Santorin_%28GR%29%2C_Fira_--_2017_--_2598.jpg/960px-Santorin_%28GR%29%2C_Fira_--_2017_--_2598.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Santorin_%28GR%29%2C_Fira_--_2017_--_2598.jpg/500px-Santorin_%28GR%29%2C_Fira_--_2017_--_2598.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Table and chairs in Fira, Santorini, Greece",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Santorin_(GR),_Fira_--_2017_--_2598.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
