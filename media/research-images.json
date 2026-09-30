@@ -259,5 +259,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Bench_and_trees_(1245397989).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "reading-aloud-memory-production-effect": {
+  "file": "File:Man sitting on a bench reading a book, Palácio das Galveias, Lisbon, Portugal julesvernex2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Man_sitting_on_a_bench_reading_a_book%2C_Pal%C3%A1cio_das_Galveias%2C_Lisbon%2C_Portugal_julesvernex2.jpg/960px-Man_sitting_on_a_bench_reading_a_book%2C_Pal%C3%A1cio_das_Galveias%2C_Lisbon%2C_Portugal_julesvernex2.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Man_sitting_on_a_bench_reading_a_book%2C_Pal%C3%A1cio_das_Galveias%2C_Lisbon%2C_Portugal_julesvernex2.jpg/500px-Man_sitting_on_a_bench_reading_a_book%2C_Pal%C3%A1cio_das_Galveias%2C_Lisbon%2C_Portugal_julesvernex2.jpg",
+  "w": 960,
+  "h": 684,
+  "alt": "Man sitting on a bench reading a book, Palácio das Galveias, Lisbon, Portugal",
+  "artist": "Jules Verne Times Two",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Man_sitting_on_a_bench_reading_a_book,_Pal%C3%A1cio_das_Galveias,_Lisbon,_Portugal_julesvernex2.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
