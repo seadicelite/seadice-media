@@ -89,7 +89,6 @@
   "rulesFrom": ".claude/commands/umbra.md",
   "postsPerRun": 1,
   "topicQueue": [
-    "ユーモアのセンスが合う相手ほど長続きするのか、笑いと相性の心理学研究",
     "結婚満足度はU字カーブを描くのか、年数と満足度の関係を調べた研究"
   ],
   "layout": "magazine"
