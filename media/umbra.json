@@ -88,8 +88,6 @@
   "template": ".claude/commands/umbra-template.html",
   "rulesFrom": ".claude/commands/umbra.md",
   "postsPerRun": 1,
-  "topicQueue": [
-    "連絡頻度が減るのは冷めたサインか、調査データと心理学研究で読み解く"
-  ],
+  "topicQueue": [],
   "layout": "magazine"
 }
