@@ -320,5 +320,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Santorin_(GR),_Fira_--_2017_--_2598.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ex-partner-social-media-checking-research": {
+  "file": "https://live.staticflickr.com/65535/54366512372_53f33ff492_b.jpg",
+  "src": "https://live.staticflickr.com/65535/54366512372_53f33ff492_b.jpg",
+  "src640": "https://live.staticflickr.com/65535/54366512372_53f33ff492_b.jpg",
+  "w": 1024,
+  "h": 683,
+  "alt": "Smartphone in Hand",
+  "artist": "ccnull.de Bilddatenbank",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "page": "https://www.flickr.com/photos/115225894@N07/54366512372",
+  "source_label": "Flickr"
  }
 }
