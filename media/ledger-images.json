@@ -132,5 +132,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Colorful-plastic-chicken-piggy-bank-indonesia.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "social-comparison-spending": {
+  "file": "File:Mobile payment 02.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Mobile_payment_02.JPG/960px-Mobile_payment_02.JPG",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Mobile_payment_02.JPG/500px-Mobile_payment_02.JPG",
+  "w": 960,
+  "h": 643,
+  "alt": "Mobile payment terminal, in Fornebu, Norway. Operated by NFC technology. Telenor.",
+  "artist": "HLundgaard",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Mobile_payment_02.JPG",
+  "source_label": "Wikimedia Commons"
  }
 }
