@@ -246,5 +246,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Business_agreement_handshake_at_coffee_shop.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "nature-time-stress-reduction": {
+  "file": "File:Bench and trees (1245397989).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bench_and_trees_%281245397989%29.jpg/960px-Bench_and_trees_%281245397989%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bench_and_trees_%281245397989%29.jpg/500px-Bench_and_trees_%281245397989%29.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "i like to think of the bench failing apart when the trunk grows fat.",
+  "artist": "Anthony Easton from Montreal, canada",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bench_and_trees_(1245397989).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
