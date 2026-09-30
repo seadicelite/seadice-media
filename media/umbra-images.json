@@ -281,5 +281,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Coffee_shop_(Unsplash).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "mere-exposure-effect-romantic-attraction": {
+  "file": "File:Gfp-lecture-hall.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Gfp-lecture-hall.jpg/960px-Gfp-lecture-hall.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Gfp-lecture-hall.jpg/500px-Gfp-lecture-hall.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "; Rooms of places I've been, lived, rented, etc. Random interior pictures.\nLecture hall with many seats",
+  "artist": "Yinan Chen",
+  "license": "Public Domain",
+  "licenseUrl": "https://web.archive.org/web/20230926203737/https://creativecommons.org/licenses/publicdomain/",
+  "page": "https://commons.wikimedia.org/wiki/File:Gfp-lecture-hall.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
