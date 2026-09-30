@@ -2,7 +2,7 @@
 """media/{slug}-posts.json から一覧ページ(sites/{slug}/index.html)とsitemapを再生成する。
 使い方: python3 media/build.py <slug>   （設定は media/{slug}.json の theme / categories / types）
 記事を追加するときは posts.json の先頭に1件足してから実行する。JS不使用。"""
-import html, json, random, sys
+import base64, html, json, random, sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -21,6 +21,16 @@ ICONS = {  # カテゴリ用アイコン(24x24 path)
     "link": "M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1 1.4 1.4 1-1a2 2 0 1 1 2.8 2.8l-3 3a2 2 0 0 1-2.8 0zm4-4a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1-1.4-1.4-1 1a2 2 0 1 1-2.8-2.8l3-3a2 2 0 0 1 2.8 0z",
     "dot": "M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20z",
 }
+def favicon_tag(name, theme):
+    """外部リクエスト無しのSVGファビコン(丸背景+頭文字)をdata URIで返す。"""
+    letter = html.escape(name.replace("SEADICE ", "").strip()[:1] or "S")
+    svg = (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">'
+           f'<circle cx="32" cy="32" r="32" fill="{theme["accent"]}"/>'
+           f'<text x="32" y="44" font-size="34" font-family="-apple-system,Arial,sans-serif" font-weight="800" text-anchor="middle" fill="{theme["bg"]}">{letter}</text></svg>')
+    b64 = base64.b64encode(svg.encode()).decode()
+    return f'<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,{b64}">'
+
+
 DEFAULT_THEME = {"bg": "#05050C", "card": "#0C0C1A", "accent": "#00FFD1", "accent2": "#38BDF8", "border": "#1a1a2e",
                  "text": "#e2e8f0", "muted": "#8592a6", "link": "#7dd3fc"}
 LEGACY = {  # 旧形式(カテゴリ名だけ)の既定
@@ -120,6 +130,7 @@ def build(slug, preview=None):
 <meta property="og:url" content="{url}">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
+{favicon_tag(name, theme)}
 <script type="application/ld+json">{ld}</script>
 <style>{CSS % theme}{extra_css if mag else ""}</style>
 </head>
@@ -150,7 +161,7 @@ def build(slug, preview=None):
     add = "".join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{latest_date}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.7</priority>\n  </url>\n' for u in urls if f"<loc>{u}</loc>" not in s)
     sm.write_text(s.replace("</urlset>", add + "</urlset>") if add else s)
     import seo
-    n, pages = seo.apply(cfg, posts, images)
+    n, pages = seo.apply(cfg, posts, images, favicon_tag(name, theme))
     print(f"built {cfg['path']}index.html ({len(posts)} posts), seo-patched {n} articles, {len(pages)} trust pages")
 
 

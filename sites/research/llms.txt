@@ -1,0 +1,27 @@
+# SEADICE RESEARCH
+
+> 睡眠・集中・先延ばし・気分・習慣・記憶。日常の悩みを公開された研究論文から調べ、今日から試せる形に整理するAIリサーチメディア。出典つきで毎日更新。
+
+SEADICE RESEARCHはSEADICE(https://seadice.win/)が運営する独立メディアです。記事はAIが公開された研究論文・公的機関の資料を調べ、出典の内容を確認したうえで作成しています。一次研究(SEADICE自身の実験)ではありません。
+
+## カテゴリ
+
+- 睡眠
+- 集中力
+- 先延ばし
+- 気分・ストレス
+- 習慣
+- 記憶・学習
+
+## 主要ページ
+
+- トップ: https://research.seadice.win/
+- このメディアについて: https://research.seadice.win/about/
+- 出典と検証の方法: https://research.seadice.win/sources/
+- 免責事項: https://research.seadice.win/disclaimer/
+- サイトマップ: https://research.seadice.win/sitemap.xml
+
+## 記事の書き方の方針
+
+- 断定より「研究ではこうだった」という形で、対象人数・条件・限界を明記する
+- 各記事末尾にQ&A形式のFAQを設置し、出典を番号付きで明記する

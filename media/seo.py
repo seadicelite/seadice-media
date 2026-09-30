@@ -79,7 +79,7 @@ def related_block(p, posts, images):
     return f'<!--related--><section class="related"><h2>関連記事</h2>{items}</section><!--/related-->'
 
 
-def patch_article(cfg, p, posts, images):
+def patch_article(cfg, p, posts, images, favicon=""):
     f = ROOT / cfg["path"] / p["slug"] / "index.html"
     if not f.exists():
         return False
@@ -87,6 +87,10 @@ def patch_article(cfg, p, posts, images):
     url = f'{cfg["url"]}{p["slug"]}/'
     img = images.get(p["slug"])
     src = img.get("src") if img else None
+    # --- favicon(既存があれば入れ替え、無ければ追加)
+    if favicon:
+        s = re.sub(r'<link rel="icon"[^>]*>\n?', "", s)
+        s = re.sub(r'(<meta name="twitter:card"[^>]*>\n)', lambda m: m.group(1) + favicon + "\n", s, count=1) if favicon not in s else s
     # --- head: 重複を除いて入れ直す
     for pat in (r'<meta property="og:image"[^>]*>\n?', r'<meta name="twitter:image"[^>]*>\n?', r'<meta name="robots"[^>]*>\n?',
                 r'<link rel="preconnect" href="https://upload\.wikimedia\.org"[^>]*>\n?', r'<meta property="og:image:alt"[^>]*>\n?'):
@@ -171,7 +175,7 @@ PAGES = {
 }
 
 
-def write_pages(cfg):
+def write_pages(cfg, favicon=""):
     st = article_style(cfg)
     concept = cfg.get("concept", "")
     concept_short = cfg.get("tagline", "")
@@ -204,6 +208,7 @@ def write_pages(cfg):
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <meta name="robots" content="index,follow">
+{favicon}
 <script type="application/ld+json">{ld}</script>
 {st}
 </head>
@@ -228,7 +233,35 @@ def write_pages(cfg):
     return urls
 
 
-def apply(cfg, posts, images):
-    n = sum(1 for p in posts if patch_article(cfg, p, posts, images))
-    pages = write_pages(cfg)
+def write_llms(cfg):
+    """AI検索エンジン向けにサイト構造を伝える llms.txt を生成する(独立メディアサイトの標準)。"""
+    name, url = cfg["name"], cfg["url"]
+    cats = cfg.get("categories", [])
+    def cat_line(c):
+        if isinstance(c, dict):
+            return f"- {c['name']}: {c.get('desc', '')}"
+        return f"- {c}"
+    lines = [
+        f"# {name}", "",
+        f"> {cfg.get('description', cfg.get('concept', ''))}", "",
+        f"{name}はSEADICE(https://seadice.win/)が運営する独立メディアです。記事はAIが公開された研究論文・公的機関の資料を調べ、出典の内容を確認したうえで作成しています。一次研究(SEADICE自身の実験)ではありません。", "",
+        "## カテゴリ", "",
+        *[cat_line(c) for c in cats], "",
+        "## 主要ページ", "",
+        f"- トップ: {url}",
+        f"- このメディアについて: {url}about/",
+        f"- 出典と検証の方法: {url}sources/",
+        f"- 免責事項: {url}disclaimer/",
+        f"- サイトマップ: {url}sitemap.xml", "",
+        "## 記事の書き方の方針", "",
+        "- 断定より「研究ではこうだった」という形で、対象人数・条件・限界を明記する",
+        "- 各記事末尾にQ&A形式のFAQを設置し、出典を番号付きで明記する",
+    ]
+    (ROOT / cfg["path"] / "llms.txt").write_text("\n".join(lines) + "\n")
+
+
+def apply(cfg, posts, images, favicon=""):
+    n = sum(1 for p in posts if patch_article(cfg, p, posts, images, favicon))
+    pages = write_pages(cfg, favicon)
+    write_llms(cfg)
     return n, pages
