@@ -17,10 +17,39 @@ RELATED_CSS = (".related{margin-top:56px;padding-top:24px;border-top:1px solid v
                ".related .rb{min-width:0}.related small{display:block;font-size:11px;color:var(--accent);font-weight:400;margin-bottom:2px}.related .rb p{font-size:15px;font-weight:700;line-height:1.4;margin:0}")
 
 
+PREVNEXT_CSS = (".prevnext{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:24px}"
+                ".prevnext a{display:block;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 14px;text-decoration:none;color:var(--text)}.prevnext a:hover{border-color:var(--accent)}"
+                ".prevnext small{display:block;font-size:11px;color:var(--accent);margin-bottom:4px}"
+                ".prevnext p{font-size:13px;font-weight:700;line-height:1.4;margin:0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}"
+                "@media(max-width:480px){.prevnext{grid-template-columns:1fr}}")
+
+LEGACY_CAT_ID = {"睡眠": "sleep", "集中力": "focus", "先延ばし": "delay", "気分・ストレス": "mood", "習慣": "habit", "記憶・学習": "memory"}
+
+
 def _img_url(i, w=200, h=200):
     if "src" in i:
         return i["src640"] if w <= 640 else i["src"]
     return f"{i['raw']}&w={w}&h={h}&fit=crop&q=70&fm=webp"
+
+
+def cat_id(cfg, name):
+    for c in cfg.get("categories", []):
+        if isinstance(c, dict) and c.get("name") == name:
+            return c["id"]
+    return LEGACY_CAT_ID.get(name, "x")
+
+
+def prevnext_block(p, posts):
+    if len(posts) < 2:
+        return "<!--prevnext--><!--/prevnext-->"
+    idx = next((i for i, q in enumerate(posts) if q["slug"] == p["slug"]), None)
+    if idx is None:
+        return "<!--prevnext--><!--/prevnext-->"
+    prev_p = posts[idx - 1] if idx > 0 else posts[-1]
+    next_p = posts[idx + 1] if idx < len(posts) - 1 else posts[0]
+    def link(q, label):
+        return f'<a href="/{q["slug"]}/"><small>{label}</small><p>{E(q["title"])}</p></a>'
+    return f'<!--prevnext--><nav class="prevnext">{link(prev_p, "前の記事")}{link(next_p, "次の記事")}</nav><!--/prevnext-->'
 
 
 def article_style(cfg):
@@ -101,6 +130,19 @@ def patch_article(cfg, p, posts, images):
         s = re.sub(r"<!--related-->.*?<!--/related-->", lambda m: blk, s, flags=re.S)
     else:
         s = s.replace('<div class="sources">', blk + '\n    <div class="sources">', 1)
+    # --- 前後の記事ナビ
+    if ".prevnext{" not in s:
+        s = s.replace("footer{border-top", PREVNEXT_CSS + "footer{border-top", 1)
+    pn = prevnext_block(p, posts)
+    if "<!--prevnext-->" in s:
+        s = re.sub(r"<!--prevnext-->.*?<!--/prevnext-->", lambda m: pn, s, flags=re.S)
+    else:
+        s = s.replace('<div class="sources">', pn + '\n    <div class="sources">', 1)
+    # --- カテゴリタグをトップページの該当セクションへのリンクにする
+    cid = cat_id(cfg, p["category"])
+    s = re.sub(r'<span class="tag"( style="[^"]*")?>([^<]*)</span>', rf'<a class="tag"\1 href="/#c-{cid}">\2</a>', s, count=1)
+    if 'a.tag{text-decoration:none}' not in s:
+        s = s.replace("footer{border-top", "a.tag{text-decoration:none}" + "footer{border-top", 1)
     # --- フッター
     s = re.sub(r"<footer>.*?</footer>", lambda m: footer_html(cfg), s, count=1, flags=re.S)
     f.write_text(s)
