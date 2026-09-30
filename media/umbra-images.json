@@ -463,5 +463,18 @@
   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
   "page": "https://stocksnap.io/photo/winter-park-DKWLOMJCKJ",
   "source_label": "Stocksnap"
+ },
+ "reconciliation-success-rate-research": {
+  "file": "https://live.staticflickr.com/65535/53095547313_18d7c494d9_b.jpg",
+  "src": "https://live.staticflickr.com/65535/53095547313_18d7c494d9_b.jpg",
+  "src640": "https://live.staticflickr.com/65535/53095547313_18d7c494d9_b.jpg",
+  "w": 1024,
+  "h": 683,
+  "alt": "Over the Dam",
+  "artist": "aparlette",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "page": "https://www.flickr.com/photos/9297241@N02/53095547313",
+  "source_label": "Flickr"
  }
 }
