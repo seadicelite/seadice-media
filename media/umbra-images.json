@@ -528,5 +528,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Padlock_with_chain.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "stonewalling-conflict-withdrawal-warning-sign": {
+  "file": "File:Erster Stock, Terrasse, Szemlőhegystrasse 27B, 2026 Szemlőhegy.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Erster_Stock%2C_Terrasse%2C_Szeml%C5%91hegystrasse_27B%2C_2026_Szeml%C5%91hegy.jpg/960px-Erster_Stock%2C_Terrasse%2C_Szeml%C5%91hegystrasse_27B%2C_2026_Szeml%C5%91hegy.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Erster_Stock%2C_Terrasse%2C_Szeml%C5%91hegystrasse_27B%2C_2026_Szeml%C5%91hegy.jpg/500px-Erster_Stock%2C_Terrasse%2C_Szeml%C5%91hegystrasse_27B%2C_2026_Szeml%C5%91hegy.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Historicist villa with Art Nouveau elements. Planned by Marcell Komor. Built to Ferenc Wilhelm mathematician and accountant. Builder: Béla L",
+  "artist": "Globetrotter19",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Erster_Stock,_Terrasse,_Szeml%C5%91hegystrasse_27B,_2026_Szeml%C5%91hegy.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
