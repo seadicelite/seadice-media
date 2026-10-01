@@ -32,6 +32,7 @@
   - 3-2 ニューロンはどうやって情報を伝えるのか。電気信号の仕組み: https://shinri.seadice.win/course/how-neurons-communicate/
   - 3-3 脳の部位とそれぞれのはたらき。記憶と感情を例に: https://shinri.seadice.win/course/brain-regions-and-roles/
   - 3-4 脳の働きをどうやって調べるのか。損傷と分離脳の研究から: https://shinri.seadice.win/course/how-to-study-the-brain/
+  - 3-5 脳は経験で変わるのか。神経可塑性とは何か: https://shinri.seadice.win/course/brain-plasticity/
 - 第4章 意識と睡眠: 意識とは何か。睡眠と夢の研究。（準備中）
 - 第5章 感覚と知覚: 目や耳から入った情報を、脳はどう解釈するか。（準備中）
 - 第6章 学習: 条件づけと、経験から学ぶ仕組み。（準備中）
