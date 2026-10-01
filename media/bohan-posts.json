@@ -1,5 +1,21 @@
 [
  {
+  "slug": "street-lighting-crime-research",
+  "category": "夜道・つきまとい",
+  "type": "guide",
+  "date": "2026-10-01",
+  "title": "街灯を明るくすると犯罪は減るのか。照明と犯罪の研究",
+  "summary": "街灯を増やした団地で夜の屋外犯罪が36%以上減少。明かりは「見られる」以上の効果を持つようです。"
+ },
+ {
+  "slug": "broken-windows-theory-evidence",
+  "category": "防犯の心理学",
+  "type": "guide",
+  "date": "2026-10-01",
+  "title": "割れ窓理論は本当か。小さな乱れと犯罪の関係を研究で検証",
+  "summary": "落書きやゴミは違反を呼ぶ。効果があったのは取り締まりより、地域で場所をきれいにする取り組みでした。"
+ },
+ {
   "slug": "burglar-target-selection-5-minutes",
   "category": "空き巣・侵入窃盗",
   "type": "guide",

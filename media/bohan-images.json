@@ -11,5 +11,31 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Door_lock.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "broken-windows-theory-evidence": {
+  "file": "File:Window inside an abandoned military building in Fort de la Chartreuse, Liege, Belgium (DSCF3349-hdr).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Window_inside_an_abandoned_military_building_in_Fort_de_la_Chartreuse%2C_Liege%2C_Belgium_%28DSCF3349-hdr%29.jpg/960px-Window_inside_an_abandoned_military_building_in_Fort_de_la_Chartreuse%2C_Liege%2C_Belgium_%28DSCF3349-hdr%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Window_inside_an_abandoned_military_building_in_Fort_de_la_Chartreuse%2C_Liege%2C_Belgium_%28DSCF3349-hdr%29.jpg/500px-Window_inside_an_abandoned_military_building_in_Fort_de_la_Chartreuse%2C_Liege%2C_Belgium_%28DSCF3349-hdr%29.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "Window inside an abandoned military building in Fort de la Chartreuse, Liege, Belgium (DSCF3349-hdr)",
+  "artist": "Trougnouf",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Window_inside_an_abandoned_military_building_in_Fort_de_la_Chartreuse,_Liege,_Belgium_(DSCF3349-hdr).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "street-lighting-crime-research": {
+  "file": "File:Esztergom by night 01 - Simor János utca.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg/960px-Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg/500px-Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg",
+  "w": 960,
+  "h": 650,
+  "alt": "Night in Esztergom, Hungary - Simor János street during its reconstrucion.",
+  "artist": "Pudelek",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
