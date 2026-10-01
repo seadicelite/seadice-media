@@ -154,5 +154,44 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:House_on_suburban_street_in_Sunshine,_Victoria.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "why-burglary-declined-security": {
+  "file": "File:Illuminated Residence at Night.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Illuminated_Residence_at_Night.jpg/960px-Illuminated_Residence_at_Night.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Illuminated_Residence_at_Night.jpg/500px-Illuminated_Residence_at_Night.jpg",
+  "w": 960,
+  "h": 712,
+  "alt": "This image showcases a two-story residential house captured during the night, glowing with warm interior light. The architecture features a ",
+  "artist": "QueenCityCebu",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Illuminated_Residence_at_Night.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "safe-school-route-environment": {
+  "file": "File:Private residential road off Bellevue Avenue in Newport.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Private_residential_road_off_Bellevue_Avenue_in_Newport.jpg/960px-Private_residential_road_off_Bellevue_Avenue_in_Newport.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Private_residential_road_off_Bellevue_Avenue_in_Newport.jpg/500px-Private_residential_road_off_Bellevue_Avenue_in_Newport.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "The photo depicts a residential driveway entrance during the daytime. The entrance is marked by a stone pillar on the left with the house nu",
+  "artist": "ZeLonewolf",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Private_residential_road_off_Bellevue_Avenue_in_Newport.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "fear-of-crime-vs-statistics": {
+  "file": "File:DSC 8420 Evening stroll along a palmlined beachfront promenade with people walking street vendors and city buildings in the distance.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg/960px-DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg/500px-DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "This photo depicts a lively beach scene with a group of people walking down a sidewalk near the ocean. There are several individuals in the ",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
