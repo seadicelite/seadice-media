@@ -24,6 +24,7 @@
 - 第2章 心理学の研究法: 実験・調査・観察。研究結果の読み方と、研究倫理。
   - 2-1 なぜ心理学は研究法を学ぶのか。直感と実証のちがい: https://shinri.seadice.win/course/why-research-methods/
   - 2-2 実験・調査・観察は何が違うのか。心理学の3つの研究法: https://shinri.seadice.win/course/experiment-survey-observation/
+  - 2-3 相関と因果はどう違うのか。「関連がある」と「原因である」の差: https://shinri.seadice.win/course/correlation-and-causation/
 - 第3章 脳と心: 神経の仕組みと、脳の働き。（準備中）
 - 第4章 意識と睡眠: 意識とは何か。睡眠と夢の研究。（準備中）
 - 第5章 感覚と知覚: 目や耳から入った情報を、脳はどう解釈するか。（準備中）
