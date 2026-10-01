@@ -11,9 +11,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 E = html.escape
-UPDATED = "2026-10-01"
 CFG = json.loads((ROOT / "media/shinri.json").read_text())
 COURSE = json.loads((ROOT / "media/shinri-course.json").read_text())
+# サイト全体の更新日 = 最新レッスンの日付（レッスンごとの日付は lesson["date"]）
+UPDATED = max([l.get("date", "2026-10-01") for c in COURSE["chapters"] for l in c["lessons"]] + [CFG.get("updated", "2026-10-01")])
 TERMS = json.loads((ROOT / "media/shinri-glossary.json").read_text())
 NAME, URL = CFG["name"], CFG["url"]
 OUT = ROOT / CFG["path"]
@@ -213,7 +214,7 @@ def lesson(ci, li):
     chlist = "".join(f'<li><a href="/course/{x["id"]}/"{CUR if x["id"] == l["id"] else ""}><span class="no">{ch["no"]}-{j+1}</span>{E(x["short"])}</a></li>' for j, x in enumerate(ch["lessons"]))
     body = f'''<span class="kicker">第{ch["no"]}章 {E(ch["title"])} ・ レッスン{no}</span>
 <h1>{E(l["title"])}</h1>
-<p class="updated">読む時間の目安: 10分 ・ 更新日 {UPDATED}</p>
+<p class="updated">読む時間の目安: 10分 ・ 公開日 {l.get("date", UPDATED)}</p>
 <div class="box"><p class="bt">このレッスンの学習目標</p><ul>{"".join(f"<li>{E(g)}</li>" for g in l["goals"])}</ul></div>
 <div class="box key"><p class="bt">要点</p><ol>{"".join(f"<li>{E(s)}</li>" for s in l["summary"])}</ol></div>
 {secs}
@@ -230,7 +231,7 @@ def lesson(ci, li):
     url = lurl(l)
     graph = [
         {"@type": ["Article", "LearningResource"], "headline": l["title"], "description": l["description"], "url": url, "inLanguage": "ja",
-         "mainEntityOfPage": {"@type": "WebPage", "@id": url}, "datePublished": UPDATED, "dateModified": UPDATED,
+         "mainEntityOfPage": {"@type": "WebPage", "@id": url}, "datePublished": l.get("date", UPDATED), "dateModified": l.get("modified", l.get("date", UPDATED)),
          "author": {"@type": "Organization", "name": f"{NAME}編集部"}, "publisher": PUBLISHER, "isAccessibleForFree": True,
          "learningResourceType": "Lesson", "educationalLevel": "初級", "timeRequired": "PT10M",
          "teaches": [t["ja"] for t in l["terms"]], "isPartOf": {"@id": CURL + "#course"},
