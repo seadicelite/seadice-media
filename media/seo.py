@@ -187,7 +187,7 @@ def write_pages(cfg, favicon=""):
     urls = []
     for slug, (title, desc, builder) in PAGES.items():
         ctx = {"name": cfg["name"], "concept_short": concept_short}
-        secs = builder(cfg)
+        secs = (cfg.get("pageSections") or {}).get(slug) or builder(cfg)  # cfgでメディア固有の文面に上書きできる
         body = "".join(
             f'<h2 class="sec"><span class="n">{i+1:02d}</span>{E(h)}</h2>' + "".join(f'<p class="t">{(x.format(**ctx) if "{" in x else x)}</p>' for x in ps)
             for i, (h, ps) in enumerate(secs))
