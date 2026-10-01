@@ -285,5 +285,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Stopwatch,_1810201155,_ako.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "short-meditation-focus-recovery": {
+  "file": "File:Portland Japanese gardens zen garden.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Portland_Japanese_gardens_zen_garden.jpg/960px-Portland_Japanese_gardens_zen_garden.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Portland_Japanese_gardens_zen_garden.jpg/500px-Portland_Japanese_gardens_zen_garden.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Dry zen garden at Portland Japanese Garden",
+  "artist": "Laurascudder",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_gardens_zen_garden.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
