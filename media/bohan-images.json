@@ -63,5 +63,31 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:WB_CR_218_School_crosswalk_dashcam.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "auto-lock-apartment-burglary": {
+  "file": "File:Dr.-von-Daller-Straße 24 (Freising).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29.jpg/960px-Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29.jpg/500px-Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "apartment building at Dr.-von-Daller-Straße 24 in Freising-Neustift (Upper Bavaria, Germany)",
+  "artist": "ZoraSilv",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Dr.-von-Daller-Stra%C3%9Fe_24_(Freising).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "cctv-crime-prevention-research": {
+  "file": "File:CCTV is watching you - geograph.org.uk - 4394886.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg/960px-CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg/500px-CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "CCTV is watching you",
+  "artist": "James Allan",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

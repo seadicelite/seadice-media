@@ -1,5 +1,21 @@
 [
  {
+  "slug": "cctv-crime-prevention-research",
+  "category": "防犯の心理学",
+  "type": "guide",
+  "date": "2026-10-01",
+  "title": "防犯カメラは犯罪を減らすのか。40年分の研究が示す効果と限界",
+  "summary": "防犯カメラの効果は確かだが控えめ。駐車場で最も効き、他の対策と組み合わせると大きくなります。"
+ },
+ {
+  "slug": "auto-lock-apartment-burglary",
+  "category": "一人暮らしの防犯",
+  "type": "guide",
+  "date": "2026-10-01",
+  "title": "オートロックのマンションは本当に安全か。共同住宅の侵入統計",
+  "summary": "4階建以上のマンションでも、侵入の1位は鍵のかけ忘れ。部屋のドアと窓が最後の守りです。"
+ },
+ {
   "slug": "child-stranger-approach-after-school",
   "category": "子どもの安全",
   "type": "guide",
