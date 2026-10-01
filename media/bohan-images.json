@@ -1,1 +1,15 @@
-{}
+{
+ "burglar-target-selection-5-minutes": {
+  "file": "File:Door lock.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Door_lock.jpg/960px-Door_lock.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Door_lock.jpg/500px-Door_lock.jpg",
+  "w": 960,
+  "h": 739,
+  "alt": "Front door of a house with typical door furniture: a letter box, door knocker, a latch and two locks",
+  "artist": "Dave&Lynne Slater from Cumbria, United kingdom",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Door_lock.jpg",
+  "source_label": "Wikimedia Commons"
+ }
+}
