@@ -193,5 +193,44 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "window-glass-breaking-burglary": {
+  "file": "File:MapleSt HouseDetails Hall Window Latch Carrollton New Orleans.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/MapleSt_HouseDetails_Hall_Window_Latch_Carrollton_New_Orleans.jpg/960px-MapleSt_HouseDetails_Hall_Window_Latch_Carrollton_New_Orleans.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/MapleSt_HouseDetails_Hall_Window_Latch_Carrollton_New_Orleans.jpg/500px-MapleSt_HouseDetails_Hall_Window_Latch_Carrollton_New_Orleans.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "detail in house in the Carrollton Historic District, New Orleans",
+  "artist": "Infrogmation",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:MapleSt_HouseDetails_Hall_Window_Latch_Carrollton_New_Orleans.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "home-invasion-robbery-at-home": {
+  "file": "File:Intercom in Massy.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Intercom_in_Massy.jpg/960px-Intercom_in_Massy.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Intercom_in_Massy.jpg/500px-Intercom_in_Massy.jpg",
+  "w": 960,
+  "h": 813,
+  "alt": "Cement glue texture in France",
+  "artist": "Lionel Allorge",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Intercom_in_Massy.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "vacation-empty-home-burglary": {
+  "file": "File:Letterboxes Ocotillo Wells 2013.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Letterboxes_Ocotillo_Wells_2013.jpg/960px-Letterboxes_Ocotillo_Wells_2013.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Letterboxes_Ocotillo_Wells_2013.jpg/500px-Letterboxes_Ocotillo_Wells_2013.jpg",
+  "w": 960,
+  "h": 636,
+  "alt": "Letterboxes at Ocotillo Wells, CA, USA.",
+  "artist": "Tuxyso",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Letterboxes_Ocotillo_Wells_2013.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
