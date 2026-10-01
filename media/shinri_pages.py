@@ -139,7 +139,7 @@ SITES = [
     ("J-STAGE「心理学研究」", "https://www.jstage.jst.go.jp/browse/jjpsy/", "日本心理学会（J-STAGEで公開）", "論文を読んでみたい人",
      "日本心理学会の学術誌。1926年からの論文が掲載され、多くを無料で読める。"),
     ("OpenStax「Psychology 2e」", "https://openstax.org/details/books/psychology-2e", "OpenStax（米ライス大学）", "英語で体系的に学びたい人",
-     "大学の心理学入門の教科書を、オープンライセンス（CC BY 4.0）で無料公開。英語。"),
+     "大学の心理学入門の教科書を、オープンライセンス（CC BY-NC-SA 4.0）で無料公開。英語。"),
 ]
 
 GUIDE_FAQ = [
