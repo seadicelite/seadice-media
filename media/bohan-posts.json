@@ -1,5 +1,29 @@
 [
  {
+  "slug": "car-break-in-unlocked-visible-items",
+  "category": "自転車・車の盗難",
+  "type": "guide",
+  "date": "2026-10-01",
+  "title": "車上ねらいはなぜ起きるのか。無施錠と「見える貴重品」の統計",
+  "summary": "車上ねらいの73.5%は無施錠。鍵をかけ、車内に物を見せないことが最も確実な対策です。"
+ },
+ {
+  "slug": "crime-displacement-diffusion-benefits",
+  "category": "防犯の心理学",
+  "type": "guide",
+  "date": "2026-10-01",
+  "title": "防犯しても犯罪はよそへ移るだけ？ 犯罪の転移と「効果の広がり」の研究",
+  "summary": "犯罪が移ったのは観察の26%、周りでも減ったのは27%。守ると周りまで守られる傾向があります。"
+ },
+ {
+  "slug": "stalking-acquaintance-consultation",
+  "category": "夜道・つきまとい",
+  "type": "guide",
+  "date": "2026-10-01",
+  "title": "つきまといは誰から始まるのか。被害の統計と、早めに相談する理由",
+  "summary": "つきまといの加害者は元交際相手が最多。記録を残し、早めに人に話すことが身を守る第一歩です。"
+ },
+ {
   "slug": "repeat-burglary-victimization",
   "category": "空き巣・侵入窃盗",
   "type": "guide",
