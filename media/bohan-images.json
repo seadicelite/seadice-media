@@ -89,5 +89,31 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "neighbors-collective-efficacy-crime": {
+  "file": "File:Residential houses in Shimo-igusa Suginami Tokyo with taped windows affected by Typhoon Hagibis 20191012 085458.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Residential_houses_in_Shimo-igusa_Suginami_Tokyo_with_taped_windows_affected_by_Typhoon_Hagibis_20191012_085458.jpg/960px-Residential_houses_in_Shimo-igusa_Suginami_Tokyo_with_taped_windows_affected_by_Typhoon_Hagibis_20191012_085458.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Residential_houses_in_Shimo-igusa_Suginami_Tokyo_with_taped_windows_affected_by_Typhoon_Hagibis_20191012_085458.jpg/500px-Residential_houses_in_Shimo-igusa_Suginami_Tokyo_with_taped_windows_affected_by_Typhoon_Hagibis_20191012_085458.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Residential houses with taped windows affected by typhoon Hagibis, photoed in Shimo-Igusa, Suginami, Tokyo, Japan.",
+  "artist": "Theodore Xu",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Residential_houses_in_Shimo-igusa_Suginami_Tokyo_with_taped_windows_affected_by_Typhoon_Hagibis_20191012_085458.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "repeat-burglary-victimization": {
+  "file": "File:Door laying on the floor with broken glass and boarded up windows in an abandoned house in Doel, Belgium (DSCF3795).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Door_laying_on_the_floor_with_broken_glass_and_boarded_up_windows_in_an_abandoned_house_in_Doel%2C_Belgium_%28DSCF3795%29.jpg/960px-Door_laying_on_the_floor_with_broken_glass_and_boarded_up_windows_in_an_abandoned_house_in_Doel%2C_Belgium_%28DSCF3795%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Door_laying_on_the_floor_with_broken_glass_and_boarded_up_windows_in_an_abandoned_house_in_Doel%2C_Belgium_%28DSCF3795%29.jpg/500px-Door_laying_on_the_floor_with_broken_glass_and_boarded_up_windows_in_an_abandoned_house_in_Doel%2C_Belgium_%28DSCF3795%29.jpg",
+  "w": 960,
+  "h": 891,
+  "alt": "Door laying on the floor with broken glass and boarded up windows in an abandoned house in Doel, Belgium",
+  "artist": "Trougnouf",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Door_laying_on_the_floor_with_broken_glass_and_boarded_up_windows_in_an_abandoned_house_in_Doel,_Belgium_(DSCF3795).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

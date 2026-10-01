@@ -1,5 +1,21 @@
 [
  {
+  "slug": "repeat-burglary-victimization",
+  "category": "空き巣・侵入窃盗",
+  "type": "guide",
+  "date": "2026-10-01",
+  "title": "一度入られた家はまた狙われるのか。空き巣の再被害の研究",
+  "summary": "再被害は最初の1か月に平均の6.4倍。危険は近所にも広がるので、被害直後の対策が大切です。"
+ },
+ {
+  "slug": "neighbors-collective-efficacy-crime",
+  "category": "防犯の心理学",
+  "type": "guide",
+  "date": "2026-10-01",
+  "title": "近所づきあいは防犯になるのか。「集合的効力感」の研究",
+  "summary": "侵入者は近所の目を嫌う。住民のつながりが強い地域ほど犯罪が少ないことが研究で示されています。"
+ },
+ {
   "slug": "cctv-crime-prevention-research",
   "category": "防犯の心理学",
   "type": "guide",
