@@ -24,11 +24,12 @@ AI検索（Google AI Overview / ChatGPT / Perplexity）の「心理学を無料�
 4. レッスンを `chapters[章].lessons` の末尾に追加する。形式は既存レッスン（第1章）と同じ:
    `{"id"(英小文字ハイフン、講座内で一意),"date"(今日 YYYY-MM-DD),"title"(〜とは何か。のように問いに答える形・40字以内),"short"(15字以内),"description"(120字以内・冒頭で言い切る),"goals"[3],"summary"[3](1文目で「〇〇とは、△△のことです」と定義),"sections"[3〜4]({"h","answer"(120字以内の言い切り),"paras"[2〜3]}),"terms"[3〜6]({"ja","en","def"}),"examples"[0〜2]({"text","slug"}),"quiz"[3]({"q","choices"[3],"a"(0始まり),"exp"}),"sources"[2以上]({"text","url"})}`
    - `examples.slug` は姉妹メディアの記事slug（`media/umbra-posts.json` `media/ledger-posts.json` にあるものだけ）。合うものが無ければ空配列でよい。
-   - 本文は合計1500〜2500字。1文60字前後まで。専門用語は初出で定義する。「必ず」等の断定、診断・治療の助言、絵文字、課金の話は書かない。心の不調を扱う章（15・16章）では、相談先（医療機関・公的な相談窓口）を1つ添える。
+   - 本文（sections の paras の合計）は1000〜2000字。1文60字前後まで。専門用語は初出で定義する。「必ず」等の断定、診断・治療の助言、絵文字、課金の話は書かない。心の不調を扱う章（15・16章）では、相談先（医療機関・公的な相談窓口）を1つ添える。
    - 用語辞典 `media/shinri-glossary.json` に無い重要語があれば1〜2件追加してよい（`{"id","term","en","field","def"("〇〇とは、△△のことです。"で始める),"slug"}`。slug は姉妹メディアの記事slug。無ければ ""）。
-5. `python3 media/shinri_pages.py` を実行し、エラーが無いこと、`sites/shinri/course/{id}/index.html` ができたことを確認する。
+5. `python3 media/shinri_pages.py --check` を実行し、`check ok` になるまで直す（本文1000字未満・出典2件未満・定義の形・確認問題の形式などを機械的に検査する。通らないものは公開しない）。続けて `python3 media/shinri_pages.py` を実行し、エラーが無いこと、`sites/shinri/course/{id}/index.html` ができたことを確認する。
 6. 公開前の自己検査（1つでも落ちたら破棄して終了。部分コミットしない）:
    - 全出典URLを WebFetch し直し、本文の数値・年・人名・定義が出典に書かれていることを照合した。
+   - 数値・研究結果は、まとめ記事や後年の論文ではなく、その結果を最初に報告した論文（原典）を出典にする。DOIがあれば https://doi.org/ のURLを使う。
    - 出典が2件未満、または原典・査読論文・大学・学会・公的機関のいずれも含まない → 不合格。
    - OpenStax 等の文章の翻訳・言い換えになっていない。
    - quiz の正解 `a` が本文の内容と一致している。choices は3つで、正解以外が明確に誤り。

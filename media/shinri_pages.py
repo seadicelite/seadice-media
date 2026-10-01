@@ -143,6 +143,38 @@ def faq_ld(faq):
     return {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faq]}
 
 
+def body_len(l):
+    return sum(len(x) for sec in l["sections"] for x in sec["paras"])
+
+
+def read_min(l):
+    """日本語の黙読はおよそ毎分500字。要点・キーワード・確認問題の時間も足す。"""
+    return max(3, round(body_len(l) / 500) + 2)
+
+
+def check():
+    """公開前の機械チェック。1つでも落ちたら終了コード1（ルーティンはこれが通らないと公開しない）。"""
+    errs, ids = [], set()
+    for ch in COURSE["chapters"]:
+        for l in ch["lessons"]:
+            tag = f'{ch["no"]}:{l.get("id")}'
+            if l["id"] in ids: errs.append(f"{tag} id重複")
+            ids.add(l["id"])
+            for k in ("date", "title", "short", "description", "goals", "summary", "sections", "terms", "quiz", "sources"):
+                if not l.get(k): errs.append(f"{tag} {k}が空")
+            if body_len(l) < 1000: errs.append(f"{tag} 本文{body_len(l)}字（1000字以上必要）")
+            if len(l.get("sources", [])) < 2: errs.append(f"{tag} 出典が2件未満")
+            if "とは" not in (l.get("summary") or [""])[0]: errs.append(f"{tag} 要点1文目が「〇〇とは」の定義になっていない")
+            for i, q in enumerate(l.get("quiz", [])):
+                if len(q["choices"]) != 3 or not 0 <= q["a"] < 3: errs.append(f"{tag} 確認問題{i+1}の形式")
+            for e in l.get("examples", []):
+                if e["slug"] not in ARTICLES: errs.append(f'{tag} examplesの記事slugが存在しない: {e["slug"]}')
+            if "{{" in json.dumps(l, ensure_ascii=False): errs.append(f"{tag} プレースホルダが残っている")
+    for t in TERMS:
+        if "とは" not in t["def"].split("。")[0]: errs.append(f'用語 {t["id"]} の定義の1文目が「〇〇とは」になっていない')
+    return errs
+
+
 def lurl(l):
     return f"{CURL}{l['id']}/"
 
@@ -214,7 +246,7 @@ def lesson(ci, li):
     chlist = "".join(f'<li><a href="/course/{x["id"]}/"{CUR if x["id"] == l["id"] else ""}><span class="no">{ch["no"]}-{j+1}</span>{E(x["short"])}</a></li>' for j, x in enumerate(ch["lessons"]))
     body = f'''<span class="kicker">第{ch["no"]}章 {E(ch["title"])} ・ レッスン{no}</span>
 <h1>{E(l["title"])}</h1>
-<p class="updated">読む時間の目安: 10分 ・ 公開日 {l.get("date", UPDATED)}</p>
+<p class="updated">読む時間の目安: {read_min(l)}分 ・ 公開日 {l.get("date", UPDATED)}</p>
 <div class="box"><p class="bt">このレッスンの学習目標</p><ul>{"".join(f"<li>{E(g)}</li>" for g in l["goals"])}</ul></div>
 <div class="box key"><p class="bt">要点</p><ol>{"".join(f"<li>{E(s)}</li>" for s in l["summary"])}</ol></div>
 {secs}
@@ -233,7 +265,7 @@ def lesson(ci, li):
         {"@type": ["Article", "LearningResource"], "headline": l["title"], "description": l["description"], "url": url, "inLanguage": "ja",
          "mainEntityOfPage": {"@type": "WebPage", "@id": url}, "datePublished": l.get("date", UPDATED), "dateModified": l.get("modified", l.get("date", UPDATED)),
          "author": {"@type": "Organization", "name": f"{NAME}編集部"}, "publisher": PUBLISHER, "isAccessibleForFree": True,
-         "learningResourceType": "Lesson", "educationalLevel": "初級", "timeRequired": "PT10M",
+         "learningResourceType": "Lesson", "educationalLevel": "初級", "timeRequired": f"PT{read_min(l)}M",
          "teaches": [t["ja"] for t in l["terms"]], "isPartOf": {"@id": CURL + "#course"},
          "position": idx + 1, "citation": [s["url"] for s in l["sources"]]},
         {"@type": "DefinedTermSet", "name": f'{l["short"]}のキーワード', "hasDefinedTerm": [
@@ -429,6 +461,11 @@ def extras(urls):
 
 
 if __name__ == "__main__":
+    import sys
+    if "--check" in sys.argv:
+        errs = check()
+        print("\n".join(errs) if errs else f"check ok ({N_LESSONS} lessons, {len(TERMS)} terms)")
+        sys.exit(1 if errs else 0)
     OUT.mkdir(parents=True, exist_ok=True)
     urls = [home(), course_index()]
     for ci, ch in enumerate(COURSE["chapters"]):
