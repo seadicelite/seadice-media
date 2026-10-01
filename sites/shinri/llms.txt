@@ -26,6 +26,7 @@
   - 2-2 実験・調査・観察は何が違うのか。心理学の3つの研究法: https://shinri.seadice.win/course/experiment-survey-observation/
   - 2-3 相関と因果はどう違うのか。「関連がある」と「原因である」の差: https://shinri.seadice.win/course/correlation-and-causation/
   - 2-4 研究結果はどう読むのか。平均・ばらつき・効果の大きさ: https://shinri.seadice.win/course/reading-research-results/
+  - 2-5 研究倫理とは何か。参加者を守るための3つの原則: https://shinri.seadice.win/course/research-ethics/
 - 第3章 脳と心: 神経の仕組みと、脳の働き。（準備中）
 - 第4章 意識と睡眠: 意識とは何か。睡眠と夢の研究。（準備中）
 - 第5章 感覚と知覚: 目や耳から入った情報を、脳はどう解釈するか。（準備中）
