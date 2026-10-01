@@ -298,5 +298,18 @@
   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
   "page": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_gardens_zen_garden.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "fake-smile-mood-facial-feedback": {
+  "file": "File:Entrada Theatro Circo (2).JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Entrada_Theatro_Circo_%282%29.JPG/960px-Entrada_Theatro_Circo_%282%29.JPG",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Entrada_Theatro_Circo_%282%29.JPG/500px-Entrada_Theatro_Circo_%282%29.JPG",
+  "w": 960,
+  "h": 638,
+  "alt": "Interior of Theatro Circo, Braga, Portugal.",
+  "artist": "Joseolgon",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Entrada_Theatro_Circo_(2).JPG",
+  "source_label": "Wikimedia Commons"
  }
 }
