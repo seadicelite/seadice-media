@@ -1,0 +1,28 @@
+# 日常の心理学
+
+> 日常の心理学は、心理学を無料で独学できるサイトです。初心者が学ぶ順番のガイド、おすすめの無料学習サイト、一文の定義でわかる心理学用語辞典を掲載しています。
+
+日常の心理学はSEADICE(https://seadice.win/)が運営する、心理学を無料で独学できるサイトです。
+用語の定義は「〇〇とは、△△のことです。」の一文で示し、詳しい研究の解説（出典つき）は姉妹メディアの記事にリンクしています。
+
+## 主要ページ
+
+- トップ: https://shinri.seadice.win/
+- 心理学の学び方（無料で学べるおすすめサイトと学ぶ順番）: https://shinri.seadice.win/guide/
+- 心理学用語辞典（25語）: https://shinri.seadice.win/glossary/
+- このサイトについて: https://shinri.seadice.win/about/
+- 出典と検証の方法: https://shinri.seadice.win/sources/
+- 免責事項: https://shinri.seadice.win/disclaimer/
+
+## 用語辞典の分野
+
+- 恋愛・人間関係
+- 危険な相手を見抜く
+- しぐさ・表情
+- お金の心理学（行動経済学）
+
+## 姉妹メディア（詳しい解説記事）
+
+- しぐさと本音: https://umbra.seadice.win/
+- お金と心理: https://ledger.seadice.win/
+- SEADICE RESEARCH: https://research.seadice.win/

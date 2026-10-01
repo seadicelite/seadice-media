@@ -257,6 +257,7 @@ def write_llms(cfg):
         f"- このメディアについて: {url}about/",
         f"- 出典と検証の方法: {url}sources/",
         f"- 免責事項: {url}disclaimer/",
+        *[f"- {n['label']}: {url.rstrip('/')}{n['path']}" for n in cfg.get("extraNav", []) if not n["path"].startswith("http")],
         f"- サイトマップ: {url}sitemap.xml", "",
         "## 記事の書き方の方針", "",
         "- 断定より「研究ではこうだった」という形で、対象人数・条件・限界を明記する",
