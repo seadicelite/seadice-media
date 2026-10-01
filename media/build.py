@@ -167,7 +167,10 @@ def build(slug, preview=None):
     urls = ([url] + [f"{url}{p['slug']}/" for p in posts] + [f"{url}{x}/" for x in ("about", "sources", "disclaimer")]
              + [url.rstrip("/") + n["path"] for n in cfg.get("extraNav", []) if not n["path"].startswith("http")])
     add = "".join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{latest_date}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.7</priority>\n  </url>\n' for u in urls if f"<loc>{u}</loc>" not in s)
-    sm.write_text(s.replace("</urlset>", add + "</urlset>") if add else s)
+    s = s.replace("</urlset>", add + "</urlset>") if add else s
+    # 空のlastmod（記事0本の時期に作られた行）は無効なので、最新の記事日付（なければ今日）で埋める
+    s = s.replace("<lastmod></lastmod>", f"<lastmod>{latest_date or seed}</lastmod>")
+    sm.write_text(s)
     cat_urls = build_category_pages(cfg, posts, cats, images, types, theme, name, url)
     add2 = "".join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{latest_date}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.6</priority>\n  </url>\n' for u in cat_urls if f"<loc>{u}</loc>" not in s)
     if add2:
