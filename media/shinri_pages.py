@@ -68,6 +68,8 @@ details{background:var(--paper);border:1px solid var(--line);border-radius:14px;
 .quiz ol{padding-left:22px;margin:6px 0 10px}.quiz li{margin:4px 0}.quiz details details{border-style:dashed;margin:10px 0 0}.quiz details details summary{font-size:14px;color:var(--accent);padding:10px 14px}.quiz .ans{color:var(--ok);font-weight:700}
 .pn{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:40px 0 0}.pn a{display:block;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:12px 16px;text-decoration:none;color:var(--text);font-size:14px;line-height:1.5}.pn a:hover{border-color:var(--accent)}.pn small{display:block;font-size:12px;color:var(--accent);font-weight:700}.pn .nx{text-align:right;grid-column:2}
 @media(max-width:520px){.pn{grid-template-columns:1fr}.pn .nx{grid-column:1}}
+.final{margin:48px 0 0;background:var(--paper);border:2px solid var(--accent);border-radius:20px;padding:22px 20px 10px}.final h2{margin:0 0 10px;padding:0}.final .fk{font-size:13px;font-weight:800;color:var(--accent);letter-spacing:.12em;margin:0 0 4px}.final details{background:var(--bg)}
+.done{margin:24px 0 0;background:var(--soft);border-radius:20px;padding:22px 20px}.done .dt{font-size:20px;font-weight:800;margin:0}.done .dd{font-size:15px;color:var(--sub);margin:6px 0 0}.done details{background:var(--paper)}
 .src{margin-top:48px;padding-top:18px;border-top:1px solid var(--line)}.src h2{font-size:15px;margin:0 0 8px;color:var(--muted)}.src li{font-size:13px;color:var(--muted);margin:6px 0 6px 20px;line-height:1.7;word-break:break-word}.src a{color:var(--muted)}
 .ex li{margin:6px 0}.ex small{color:var(--muted)}
 footer.site{border-top:1px solid var(--line);padding:28px 16px;text-align:center;font-size:13px;color:var(--muted);line-height:2.2}footer.site a{color:var(--muted);margin:0 8px;text-decoration:none}footer.site a:hover{text-decoration:underline}
@@ -235,14 +237,6 @@ def lesson(ci, li):
         f'</ol><details><summary>答えを見る</summary><p><span class="ans">正解: {q["a"]+1}. {E(q["choices"][q["a"]])}</span><br>{E(q["exp"])}</p></details></div></details>'
         for i, q in enumerate(l["quiz"]))
     srcs = "".join(f'<li><a href="{s["url"]}" target="_blank" rel="noopener">{E(s["text"])}</a></li>' for s in l["sources"])
-    pn = '<nav class="pn" aria-label="前後のレッスン">'
-    if prev_l:
-        pn += f'<a href="/course/{prev_l["id"]}/"><small>前のレッスン</small>{E(prev_l["short"])}</a>'
-    if next_l:
-        pn += f'<a class="nx" href="/course/{next_l["id"]}/"><small>次のレッスン</small>{E(next_l["short"])}</a>'
-    else:
-        pn += '<a class="nx" href="/course/"><small>講座の目次へ</small>次の章は準備中です</a>'
-    pn += "</nav>"
     chlist = "".join(f'<li><a href="/course/{x["id"]}/"{CUR if x["id"] == l["id"] else ""}><span class="no">{ch["no"]}-{j+1}</span>{E(x["short"])}</a></li>' for j, x in enumerate(ch["lessons"]))
     body = f'''<span class="kicker">第{ch["no"]}章 {E(ch["title"])} ・ レッスン{no}</span>
 <h1>{E(l["title"])}</h1>
@@ -254,12 +248,17 @@ def lesson(ci, li):
 <p class="answer">このレッスンで覚えておきたい用語です。英語名も一緒に覚えると、海外の教科書や論文が読みやすくなります。</p>
 {terms}
 {f'<h2><span class="n">EXAMPLES</span>身近な例で深める</h2><p class="answer">このレッスンの内容を、日常の疑問にあてはめた研究解説記事です。</p><ul class="ex">{exs}</ul>' if exs else ''}
-<h2><span class="n">QUIZ</span>確認問題</h2>
-<p class="answer">答えを見る前に、自分で選んでみましょう。</p>
-<div class="quiz">{quiz}</div>
 <div class="src"><h2>出典</h2><ol>{srcs}</ol></div>
-{pn}
-<div class="box" style="margin-top:28px"><p class="bt">第{ch["no"]}章 {E(ch["title"])}</p><ol class="lessons">{chlist}</ol><p style="margin:10px 0 0;font-size:14px"><a href="/course/">講座の目次（全{N_CH}章）へ</a></p></div>'''
+<section class="final" aria-labelledby="quiz-h">
+<p class="fk">LESSON {no} の仕上げ</p>
+<h2 id="quiz-h">確認クイズ（全{len(l["quiz"])}問）</h2>
+<p class="answer">学んだ内容を確かめましょう。答えを見る前に、自分で選んでみてください。</p>
+<div class="quiz">{quiz}</div>
+</section>
+<div class="done"><p class="dt">レッスン{no}はここまでです</p><p class="dd">クイズで迷った問題があれば、その見出しの本文を読み直してから次に進みましょう。</p>
+<div class="btns" style="margin:14px 0 0">{f'<a class="btn" href="/course/{next_l["id"]}/">次のレッスン: {E(next_l["short"])}</a>' if next_l else '<a class="btn" href="/course/">講座の目次へ（次の章は準備中です）</a>'}{f'<a class="btn sub" href="/course/{prev_l["id"]}/">前のレッスン</a>' if prev_l else ''}</div>
+<details style="margin-top:16px"><summary>第{ch["no"]}章 {E(ch["title"])} のレッスン一覧</summary><div><ol class="lessons">{chlist}</ol><p style="margin:10px 0 0;font-size:14px"><a href="/course/">講座の目次（全{N_CH}章）へ</a></p></div></details>
+</div>'''
     url = lurl(l)
     graph = [
         {"@type": ["Article", "LearningResource"], "headline": l["title"], "description": l["description"], "url": url, "inLanguage": "ja",
