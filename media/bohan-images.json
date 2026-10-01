@@ -37,5 +37,31 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "bicycle-theft-unlocked-statistics": {
+  "file": "File:Bike locked to post and ring on sidewalk, King Street, Toronto.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bike_locked_to_post_and_ring_on_sidewalk%2C_King_Street%2C_Toronto.jpg/960px-Bike_locked_to_post_and_ring_on_sidewalk%2C_King_Street%2C_Toronto.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bike_locked_to_post_and_ring_on_sidewalk%2C_King_Street%2C_Toronto.jpg/500px-Bike_locked_to_post_and_ring_on_sidewalk%2C_King_Street%2C_Toronto.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "bike parking on sidewalk",
+  "artist": "Herb van den Dool",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bike_locked_to_post_and_ring_on_sidewalk,_King_Street,_Toronto.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "child-stranger-approach-after-school": {
+  "file": "File:WB CR 218 School crosswalk dashcam.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WB_CR_218_School_crosswalk_dashcam.jpg/960px-WB_CR_218_School_crosswalk_dashcam.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WB_CR_218_School_crosswalk_dashcam.jpg/500px-WB_CR_218_School_crosswalk_dashcam.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "WB CR 218 School crosswalk, Clay County, Florida",
+  "artist": "Michael Rivera",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:WB_CR_218_School_crosswalk_dashcam.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

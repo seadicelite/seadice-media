@@ -1,5 +1,21 @@
 [
  {
+  "slug": "child-stranger-approach-after-school",
+  "category": "子どもの安全",
+  "type": "guide",
+  "date": "2026-10-01",
+  "title": "子どもへの声かけはいつ・どこで起きるのか。下校時間の統計と、身につく防犯練習",
+  "summary": "声かけの約半数は15〜17時台の下校中。動画より、親と体で練習する方が身につきます。"
+ },
+ {
+  "slug": "bicycle-theft-unlocked-statistics",
+  "category": "自転車・車の盗難",
+  "type": "guide",
+  "date": "2026-10-01",
+  "title": "自転車盗難の多くは無施錠。盗まれにくい止め方と鍵の研究",
+  "summary": "自転車盗難の65.5%は無施錠。鍵をかけ、決められた駐輪場に止めるだけで盗まれにくくなります。"
+ },
+ {
   "slug": "street-lighting-crime-research",
   "category": "夜道・つきまとい",
   "type": "guide",
