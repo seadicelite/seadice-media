@@ -35,7 +35,8 @@
     ]
   ],
   "enabled": false,
-  "note": "独学サイト。記事エンジン(/media)の対象外。ページは python3 media/shinri_pages.py で生成する（用語は media/shinri-glossary.json に追加）",
+  "note": "独学サイト。記事エンジン(/media)の対象外。ページは python3 media/shinri_pages.py で生成する（用語は media/shinri-glossary.json に追加）。live を true にすると、姉妹メディア(umbra/ledger)の対応記事に用語辞典・講座へのリンクが入る（独自ドメインが動いてから true にする）",
   "lead": "日常の心理学は、心理学を無料で独学できるサイトです。大学1年生の「心理学概論」と同じ流れで学べる全16章の無料講座と、一文の定義でわかる心理学用語辞典を用意しています。登録は不要です。",
-  "titleSuffix": "心理学を無料で独学できるサイト"
+  "titleSuffix": "心理学を無料で独学できるサイト",
+  "live": false
 }

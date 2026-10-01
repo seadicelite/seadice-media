@@ -79,6 +79,21 @@ def related_block(p, posts, images):
     return f'<!--related--><section class="related"><h2>関連記事</h2>{items}</section><!--/related-->'
 
 
+def shinri_block(slug):
+    sc = ROOT / "media/shinri.json"
+    gl = ROOT / "media/shinri-glossary.json"
+    if not (sc.exists() and gl.exists()):
+        return "<!--shinri--><!--/shinri-->"
+    cfg = json.loads(sc.read_text())
+    terms = [t for t in json.loads(gl.read_text()) if t.get("slug") == slug]
+    if not cfg.get("live") or not terms:
+        return "<!--shinri--><!--/shinri-->"
+    u = cfg["url"]
+    links = "、".join(f'<a href="{u}glossary/#{t["id"]}">{E(t["term"])}</a>' for t in terms)
+    return (f'<!--shinri--><div class="note"><strong>この記事の心理学用語:</strong> {links}（{E(cfg["name"])}の心理学用語辞典）<br>'
+            f'心理学を基礎から学ぶなら、無料講座「<a href="{u}course/">ゼロから学ぶ心理学入門</a>」へ。</div><!--/shinri-->')
+
+
 def patch_article(cfg, p, posts, images, favicon=""):
     f = ROOT / cfg["path"] / p["slug"] / "index.html"
     if not f.exists():
@@ -152,6 +167,12 @@ def patch_article(cfg, p, posts, images, favicon=""):
     s = re.sub(r'font-size:1[01](?:\.\d+)?px', 'font-size:12px', s)
     if "a:focus-visible" not in s:
         s = s.replace("footer{border-top", "a:focus-visible,summary:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}" + "footer{border-top", 1)
+    # --- 独学サイト「日常の心理学」への送客（用語辞典に対応する用語がある記事だけ。media/shinri.json の live が true のときだけ出す）
+    blk = shinri_block(p["slug"])
+    if "<!--shinri-->" in s:
+        s = re.sub(r"<!--shinri-->.*?<!--/shinri-->", lambda m: blk, s, flags=re.S)
+    elif blk != "<!--shinri--><!--/shinri-->":
+        s = s.replace("<!--related-->", blk + "\n    <!--related-->", 1)
     # --- フッター
     s = re.sub(r"<footer>.*?</footer>", lambda m: footer_html(cfg), s, count=1, flags=re.S)
     f.write_text(s)
