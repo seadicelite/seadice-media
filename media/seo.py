@@ -14,12 +14,12 @@ LD = re.compile(r'(<script type="application/ld\+json">)(.*?)(</script>)', re.S)
 RELATED_CSS = (".related{margin-top:56px;padding-top:24px;border-top:1px solid var(--border)}.related h2{font-size:14px;margin:0 0 12px;color:var(--muted);letter-spacing:.1em}"
                ".related a{display:flex;gap:12px;align-items:center;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:10px;margin:10px 0;text-decoration:none;color:var(--text)}.related a:hover{border-color:var(--accent)}"
                ".related .rt{flex:0 0 72px;width:72px;height:72px;border-radius:8px;overflow:hidden;background:var(--border)}.related .rt img{display:block;width:100%;height:100%;object-fit:cover}"
-               ".related .rb{min-width:0}.related small{display:block;font-size:11px;color:var(--accent);font-weight:400;margin-bottom:2px}.related .rb p{font-size:15px;font-weight:700;line-height:1.4;margin:0}")
+               ".related .rb{min-width:0}.related small{display:block;font-size:12px;color:var(--accent);font-weight:400;margin-bottom:2px}.related .rb p{font-size:15px;font-weight:700;line-height:1.4;margin:0}")
 
 
 PREVNEXT_CSS = (".prevnext{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:24px}"
                 ".prevnext a{display:block;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 14px;text-decoration:none;color:var(--text)}.prevnext a:hover{border-color:var(--accent)}"
-                ".prevnext small{display:block;font-size:11px;color:var(--accent);margin-bottom:4px}"
+                ".prevnext small{display:block;font-size:12px;color:var(--accent);margin-bottom:4px}"
                 ".prevnext p{font-size:13px;font-weight:700;line-height:1.4;margin:0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}"
                 "@media(max-width:480px){.prevnext{grid-template-columns:1fr}}")
 
@@ -124,7 +124,7 @@ def patch_article(cfg, p, posts, images, favicon=""):
     # --- ヒーロー画像の優先読み込み
     s = re.sub(r'(<figure class="hero"><img )(?!fetchpriority)', r'\1fetchpriority="high" decoding="async" ', s)
     # --- 関連記事
-    old_related_css = ".related{margin-top:56px;padding-top:24px;border-top:1px solid var(--border)}.related h2{font-size:14px;margin:0 0 12px;color:var(--muted);letter-spacing:.1em}.related a{display:block;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 16px;margin:10px 0;text-decoration:none;color:var(--text);font-size:15px;font-weight:700;line-height:1.5}.related a:hover{border-color:var(--accent)}.related small{display:block;font-size:11px;color:var(--accent);font-weight:400;margin-bottom:2px}"
+    old_related_css = ".related{margin-top:56px;padding-top:24px;border-top:1px solid var(--border)}.related h2{font-size:14px;margin:0 0 12px;color:var(--muted);letter-spacing:.1em}.related a{display:block;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 16px;margin:10px 0;text-decoration:none;color:var(--text);font-size:15px;font-weight:700;line-height:1.5}.related a:hover{border-color:var(--accent)}.related small{display:block;font-size:12px;color:var(--accent);font-weight:400;margin-bottom:2px}"
     if old_related_css in s:
         s = s.replace(old_related_css, RELATED_CSS, 1)
     elif ".related .rt{" not in s:
@@ -148,6 +148,10 @@ def patch_article(cfg, p, posts, images, favicon=""):
     s = re.sub(r'(<a class="tag"(?: style="[^"]*")?) href="/#c-[a-z]+"', rf'\1 href="/category/{cid}/"', s, count=1)
     if 'a.tag{text-decoration:none}' not in s:
         s = s.replace("footer{border-top", "a.tag{text-decoration:none}" + "footer{border-top", 1)
+    # --- アクセシビリティ: 12px未満の文字をなくし、キーボード操作時のフォーカス表示を付ける
+    s = re.sub(r'font-size:1[01](?:\.\d+)?px', 'font-size:12px', s)
+    if "a:focus-visible" not in s:
+        s = s.replace("footer{border-top", "a:focus-visible,summary:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}" + "footer{border-top", 1)
     # --- フッター
     s = re.sub(r"<footer>.*?</footer>", lambda m: footer_html(cfg), s, count=1, flags=re.S)
     f.write_text(s)
