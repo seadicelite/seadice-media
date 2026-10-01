@@ -515,5 +515,18 @@
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:CORT_moving_van_Ypsilanti_Township_Michigan.JPG",
   "source_label": "Wikimedia Commons"
+ },
+ "financial-infidelity-warning-signs-research": {
+  "file": "File:Padlock with chain.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Padlock_with_chain.jpg/960px-Padlock_with_chain.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Padlock_with_chain.jpg/500px-Padlock_with_chain.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "A photo of a padlock with a chain attached on it",
+  "artist": "Lacz02",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Padlock_with_chain.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
