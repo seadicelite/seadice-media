@@ -2,7 +2,7 @@
   "enabled": true,
   "publish": "auto",
   "slug": "ledger",
-  "name": "LEDGER",
+  "name": "お金と心理",
   "path": "sites/ledger/",
   "url": "https://ledger.seadice.win/",
   "concept": "なぜお金を使いすぎるのか、なぜ貯金が続かないのかを、行動経済学の研究から検証する。節約を強制せず『なぜそうなるか』を先に示し、今日からできる小さな工夫につなげる",

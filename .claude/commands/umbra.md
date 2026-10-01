@@ -1,10 +1,10 @@
 ---
-description: UMBRA（人を操る心理を見抜くメディア）の記事ルール。/media umbra から参照される
+description: しぐさと本音（人を操る心理を見抜くメディア）の記事ルール。/media umbra から参照される
 ---
 
-# UMBRA の記事ルール
+# しぐさと本音 の記事ルール
 
-基本は `.claude/commands/research.md` の「読者」「鉄則（信頼性）」「手順」に従う。テンプレートは `.claude/commands/umbra-template.html`。以下は UMBRA 固有の追加・上書きルール。
+基本は `.claude/commands/research.md` の「読者」「鉄則（信頼性）」「手順」に従う。テンプレートは `.claude/commands/umbra-template.html`。以下は しぐさと本音 固有の追加・上書きルール。
 
 ## 立ち位置（最重要）
 

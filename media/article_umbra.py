@@ -1,4 +1,4 @@
-"""UMBRA の記事HTMLを組み立てる共通関数（guide種類）。テンプレートの<style>を再利用し、記事ごとの内容だけを差し込む。"""
+"""しぐさと本音 の記事HTMLを組み立てる共通関数（guide種類）。テンプレートの<style>を再利用し、記事ごとの内容だけを差し込む。"""
 import html, json, re
 from pathlib import Path
 
@@ -40,7 +40,7 @@ def make(a):
          "url": url, "citation": cites},
         {"@type": "FAQPage", "mainEntity": faq_ld},
         {"@type": "BreadcrumbList", "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "UMBRA", "item": "https://umbra.seadice.win/"},
+            {"@type": "ListItem", "position": 1, "name": "しぐさと本音", "item": "https://umbra.seadice.win/"},
             {"@type": "ListItem", "position": 2, "name": a["title"], "item": url}]}]}, ensure_ascii=False)
     d = E(a["desc"], quote=True)
     studies = "".join(f'<div class="study"><p class="who">{E(s["who"])}<span class="ref">[{s["ref"]}]</span></p><p class="find">{s["find"]}</p><p class="cond">{s["cond"]}</p></div>' for s in a["studies"])
@@ -66,10 +66,10 @@ def make(a):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{E(a["title"])} | UMBRA</title>
+<title>{E(a["title"])} | しぐさと本音</title>
 <meta name="description" content="{d}">
 <link rel="canonical" href="{url}">
-<meta property="og:title" content="{E(a["title"], quote=True)} | UMBRA">
+<meta property="og:title" content="{E(a["title"], quote=True)} | しぐさと本音">
 <meta property="og:description" content="{d}">
 <meta property="og:url" content="{url}">
 <meta property="og:type" content="article">
@@ -80,10 +80,10 @@ def make(a):
 <body>
 <nav>
   <a href="https://seadice.win/" class="nav-logo">SEADICE</a>
-  <a href="/" class="r">UMBRA</a>
+  <a href="/" class="r">しぐさと本音</a>
 </nav>
 <article>
-  <p class="breadcrumb"><a href="/">UMBRA</a> / {E(a["short"])}</p>
+  <p class="breadcrumb"><a href="/">しぐさと本音</a> / {E(a["short"])}</p>
   <span class="tag" style="color:{a["color"]};border-color:{a["color"]}">{E(a["category"])}</span>
   <h1>{E(a["title"])}</h1>
   <p class="meta">約{a["minutes"]}分で読めます</p>
@@ -107,7 +107,7 @@ def make(a):
     </div>
   </div>
 </article>
-<footer><p><a href="/">UMBRA</a> &nbsp;|&nbsp; <a href="https://seadice.win/">SEADICE</a> &nbsp;|&nbsp; &copy; SEADICE</p></footer>
+<footer><p><a href="/">しぐさと本音</a> &nbsp;|&nbsp; <a href="https://seadice.win/">SEADICE</a> &nbsp;|&nbsp; &copy; SEADICE</p></footer>
 </body>
 </html>
 '''

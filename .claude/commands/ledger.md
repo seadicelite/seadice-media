@@ -1,10 +1,10 @@
 ---
-description: LEDGER（お金の使い方を行動経済学で読み解くメディア）の記事ルール。/media ledger から参照される
+description: お金と心理（お金の使い方を行動経済学で読み解くメディア）の記事ルール。/media ledger から参照される
 ---
 
-# LEDGER の記事ルール
+# お金と心理 の記事ルール
 
-基本は `.claude/commands/research.md` の「読者」「鉄則（信頼性）」「手順」に従う。テンプレートは `.claude/commands/ledger-template.html`。以下は LEDGER 固有の追加・上書きルール。
+基本は `.claude/commands/research.md` の「読者」「鉄則（信頼性）」「手順」に従う。テンプレートは `.claude/commands/ledger-template.html`。以下は お金と心理 固有の追加・上書きルール。
 
 ## 立ち位置（最重要）
 
