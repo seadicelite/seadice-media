@@ -1,27 +1,218 @@
 [
- {"id":"mere-exposure","term":"単純接触効果","en":"Mere Exposure Effect","field":"恋愛・人間関係","def":"単純接触効果とは、ある対象に繰り返し接するだけで、その対象への好感度が高まる現象のことです。1968年に社会心理学者ザイアンス（Robert Zajonc）が実験で示しました。","slug":"mere-exposure-effect-romantic-attraction"},
- {"id":"attachment-style","term":"愛着スタイル","en":"Attachment Style","field":"恋愛・人間関係","def":"愛着スタイルとは、人が親しい相手との関係の中で、どのように安心感を得ようとするかの傾向のことです。乳幼児と養育者の結びつきを説明する愛着理論から生まれ、1987年のHazanとShaverの研究以降、大人の恋愛関係にもあてはめて研究されています。","slug":"attachment-style-relationship-compatibility"},
- {"id":"similarity-attraction","term":"類似性-魅力仮説","en":"Similarity-Attraction Hypothesis","field":"恋愛・人間関係","def":"類似性-魅力仮説とは、態度や価値観が自分と似ている相手ほど魅力を感じやすい、という考え方のことです。社会心理学者バーン（Donn Byrne）らの実験研究で知られています。","slug":"similarity-attraction-compatibility-research"},
- {"id":"hard-to-get","term":"希少性と「手に入りにくさ」","en":"Scarcity / Playing Hard to Get","field":"恋愛・人間関係","def":"希少性の効果とは、手に入りにくいものほど価値が高く感じられる心理のことです。恋愛では、簡単には手に入らない相手ほど魅力的に見えるのかどうかとして研究されてきました。","slug":"hard-to-get-scarcity-attraction-research"},
- {"id":"destiny-belief","term":"運命信念と成長信念","en":"Destiny Belief / Growth Belief","field":"恋愛・人間関係","def":"運命信念とは、相性の良い相手は最初から決まっていると考える恋愛観のことです。関係は努力で育つと考える成長信念と対比され、心理学者Knee（1998）が整理しました。","slug":"destiny-belief-relationship-satisfaction-research"},
- {"id":"positive-illusions","term":"ポジティブ・イリュージョン","en":"Positive Illusions","field":"恋愛・人間関係","def":"ポジティブ・イリュージョンとは、パートナーを、本人の自己評価よりも好意的に見る傾向のことです。Murray・Holmes・Griffin（1996）の研究で、関係の満足度との関連が報告されました。","slug":"love-is-blind-idealization-research"},
- {"id":"synchrony","term":"対人同期","en":"Interpersonal Synchrony","field":"恋愛・人間関係","def":"対人同期とは、会話中の動きや話すリズムが、相手と自然にそろう現象のことです。相性や親しさとの関係が研究されています。","slug":"conversation-synchrony-compatibility-research"},
- {"id":"gaslighting","term":"ガスライティング","en":"Gaslighting","field":"危険な相手を見抜く","def":"ガスライティングとは、相手の記憶や知覚、判断を繰り返し否定し、自分の感覚を疑わせることで相手を支配しようとする心理的虐待のことです。1944年の映画『ガス燈』が語源です。","slug":"gaslighting-early-warning-signs"},
- {"id":"love-bombing","term":"ラブボミング","en":"Love Bombing","field":"危険な相手を見抜く","def":"ラブボミングとは、関係の初期に過剰な愛情表現や贈り物、連絡で相手を急速に取り込もうとする行動のことです。のちの支配的な関係の前ぶれになりうるものとして研究されています。","slug":"love-bombing-warning-signs-research"},
- {"id":"moral-harassment","term":"モラルハラスメント","en":"Moral Harassment","field":"危険な相手を見抜く","def":"モラルハラスメントとは、言葉や態度によって相手を傷つけ続ける精神的な暴力のことです。フランスの精神科医イルゴイエンヌ（Marie-France Hirigoyen）が提唱した言葉です。","slug":"moral-harassment-behavior-patterns-research"},
- {"id":"financial-infidelity","term":"経済的不誠実","en":"Financial Infidelity","field":"危険な相手を見抜く","def":"経済的不誠実とは、パートナーに借金や出費、口座などお金に関することを隠したり偽ったりすることです。","slug":"financial-infidelity-warning-signs-research"},
- {"id":"duchenne-smile","term":"デュシェンヌ・スマイル","en":"Duchenne Smile","field":"しぐさ・表情","def":"デュシェンヌ・スマイルとは、口元だけでなく目の周りの筋肉（眼輪筋）も動く笑顔のことです。19世紀の神経学者デュシェンヌの観察にちなみ、心理学者エクマンらが名づけました。","slug":"fake-smile-duchenne-detection-research"},
- {"id":"anchoring","term":"アンカリング効果","en":"Anchoring Effect","field":"お金の心理学（行動経済学）","def":"アンカリング効果とは、最初に示された数字（アンカー）に、その後の判断が引きずられる現象のことです。TverskyとKahneman（1974）が報告しました。","slug":"sale-price-anchoring"},
- {"id":"pain-of-paying","term":"支払いの痛み","en":"Pain of Paying","field":"お金の心理学（行動経済学）","def":"支払いの痛みとは、お金を支払うときに感じる心理的な抵抗感のことです。現金のように支払いと残高の減少が同時に見えるほど強く、クレジットカードのように切り離されているほど弱くなります。","slug":"cashless-spending"},
- {"id":"endowment-effect","term":"保有効果","en":"Endowment Effect","field":"お金の心理学（行動経済学）","def":"保有効果とは、自分が持っているものを、持っていないときより高く評価してしまう心理のことです。Kahneman・Knetsch・Thaler（1990）のマグカップ実験では、売り手の希望額が買い手の希望額の約2倍になりました。","slug":"subscription-cant-cancel"},
- {"id":"status-quo-bias","term":"現状維持バイアス","en":"Status Quo Bias","field":"お金の心理学（行動経済学）","def":"現状維持バイアスとは、変化よりも今の状態を維持することを選びやすい心理のことです。サブスクの解約のように手続きが必要な選択より、何もしなくてよい継続が選ばれやすくなります。","slug":"subscription-review-procrastination-status-quo-bias"},
- {"id":"default-effect","term":"デフォルト効果","en":"Default Effect","field":"お金の心理学（行動経済学）","def":"デフォルト効果とは、あらかじめ設定された選択肢（デフォルト）が、そのまま選ばれやすくなる現象のことです。MadrianとSheaの401(k)自動加入の研究では、デフォルトを「加入」に変えただけで加入率が2倍以上になりました。","slug":"automatic-saving-works"},
- {"id":"hedonic-adaptation","term":"快楽順応","en":"Hedonic Adaptation","field":"お金の心理学（行動経済学）","def":"快楽順応とは、良い変化にも悪い変化にも時間がたつと慣れ、幸福感が元の水準に戻っていく傾向のことです。収入が増えても満足が長続きしない理由の一つとされています。","slug":"income-increase-savings-hedonic-adaptation"},
- {"id":"ostrich-effect","term":"ダチョウ効果","en":"Ostrich Effect","field":"お金の心理学（行動経済学）","def":"ダチョウ効果とは、悪い知らせかもしれない情報を見ないように避ける傾向のことです。相場が下がっているときに投資家が口座を確認しなくなる現象として報告されました。","slug":"money-talk-avoidance-ostrich-effect-research"},
- {"id":"social-comparison","term":"社会的比較","en":"Social Comparison","field":"お金の心理学（行動経済学）","def":"社会的比較とは、自分の能力や状況を、他人と比べて評価しようとする心の働きのことです。社会心理学者フェスティンガー（1954）が理論化しました。","slug":"social-comparison-spending"},
- {"id":"present-bias","term":"現在バイアス","en":"Present Bias","field":"お金の心理学（行動経済学）","def":"現在バイアスとは、将来の大きな利益よりも、目の前の小さな利益を優先してしまう傾向のことです。リボ払いや先延ばしの背景として研究されています。","slug":"revolving-payment-anchoring-bias"},
- {"id":"future-self","term":"未来の自分との連続性","en":"Future Self-Continuity","field":"お金の心理学（行動経済学）","def":"未来の自分との連続性とは、将来の自分を、今の自分とつながった同じ人としてどれだけ感じられるかの度合いのことです。心理学者ハーシュフィールド（Hal Hershfield）らが貯蓄行動との関係を研究しています。","slug":"future-self-saving"},
- {"id":"mental-accounting","term":"心の会計（メンタル・アカウンティング）","en":"Mental Accounting","field":"お金の心理学（行動経済学）","def":"心の会計とは、お金を出どころや使い道ごとに頭の中で別々の「口座」に分けて扱う傾向のことです。行動経済学者セイラー（Richard Thaler）が提唱しました。","slug":"payday-spending-spike"},
- {"id":"expressive-writing","term":"表現的ライティング","en":"Expressive Writing","field":"お金の心理学（行動経済学）","def":"表現的ライティングとは、悩みや感情を短い時間で書き出す方法のことです。心理学者ペネベーカー（James Pennebaker）が心身への影響を研究しました。","slug":"write-down-money-worries"},
- {"id":"money-scripts","term":"マネースクリプト","en":"Money Scripts","field":"お金の心理学（行動経済学）","def":"マネースクリプトとは、子どもの頃の経験などから身につく、お金についての無意識の思い込みのことです。Klontzらが研究しています。","slug":"money-values-family-differences-research"}
+  {
+    "id": "mere-exposure",
+    "term": "単純接触効果",
+    "en": "Mere Exposure Effect",
+    "field": "恋愛・人間関係",
+    "def": "単純接触効果とは、ある対象に繰り返し接するだけで、その対象への好感度が高まる現象のことです。1968年に社会心理学者ザイアンス（Robert Zajonc）が実験で示しました。",
+    "slug": "mere-exposure-effect-romantic-attraction"
+  },
+  {
+    "id": "attachment-style",
+    "term": "愛着スタイル",
+    "en": "Attachment Style",
+    "field": "恋愛・人間関係",
+    "def": "愛着スタイルとは、人が親しい相手との関係の中で、どのように安心感を得ようとするかの傾向のことです。乳幼児と養育者の結びつきを説明する愛着理論から生まれ、1987年のHazanとShaverの研究以降、大人の恋愛関係にもあてはめて研究されています。",
+    "slug": "attachment-style-relationship-compatibility"
+  },
+  {
+    "id": "similarity-attraction",
+    "term": "類似性-魅力仮説",
+    "en": "Similarity-Attraction Hypothesis",
+    "field": "恋愛・人間関係",
+    "def": "類似性-魅力仮説とは、態度や価値観が自分と似ている相手ほど魅力を感じやすい、という考え方のことです。社会心理学者バーン（Donn Byrne）らの実験研究で知られています。",
+    "slug": "similarity-attraction-compatibility-research"
+  },
+  {
+    "id": "hard-to-get",
+    "term": "希少性と「手に入りにくさ」",
+    "en": "Scarcity / Playing Hard to Get",
+    "field": "恋愛・人間関係",
+    "def": "希少性の効果とは、手に入りにくいものほど価値が高く感じられる心理のことです。恋愛では、簡単には手に入らない相手ほど魅力的に見えるのかどうかとして研究されてきました。",
+    "slug": "hard-to-get-scarcity-attraction-research"
+  },
+  {
+    "id": "destiny-belief",
+    "term": "運命信念と成長信念",
+    "en": "Destiny Belief / Growth Belief",
+    "field": "恋愛・人間関係",
+    "def": "運命信念とは、相性の良い相手は最初から決まっていると考える恋愛観のことです。関係は努力で育つと考える成長信念と対比され、心理学者Knee（1998）が整理しました。",
+    "slug": "destiny-belief-relationship-satisfaction-research"
+  },
+  {
+    "id": "positive-illusions",
+    "term": "ポジティブ・イリュージョン",
+    "en": "Positive Illusions",
+    "field": "恋愛・人間関係",
+    "def": "ポジティブ・イリュージョンとは、パートナーを、本人の自己評価よりも好意的に見る傾向のことです。Murray・Holmes・Griffin（1996）の研究で、関係の満足度との関連が報告されました。",
+    "slug": "love-is-blind-idealization-research"
+  },
+  {
+    "id": "synchrony",
+    "term": "対人同期",
+    "en": "Interpersonal Synchrony",
+    "field": "恋愛・人間関係",
+    "def": "対人同期とは、会話中の動きや話すリズムが、相手と自然にそろう現象のことです。相性や親しさとの関係が研究されています。",
+    "slug": "conversation-synchrony-compatibility-research"
+  },
+  {
+    "id": "gaslighting",
+    "term": "ガスライティング",
+    "en": "Gaslighting",
+    "field": "危険な相手を見抜く",
+    "def": "ガスライティングとは、相手の記憶や知覚、判断を繰り返し否定し、自分の感覚を疑わせることで相手を支配しようとする心理的虐待のことです。1944年の映画『ガス燈』が語源です。",
+    "slug": "gaslighting-early-warning-signs"
+  },
+  {
+    "id": "love-bombing",
+    "term": "ラブボミング",
+    "en": "Love Bombing",
+    "field": "危険な相手を見抜く",
+    "def": "ラブボミングとは、関係の初期に過剰な愛情表現や贈り物、連絡で相手を急速に取り込もうとする行動のことです。のちの支配的な関係の前ぶれになりうるものとして研究されています。",
+    "slug": "love-bombing-warning-signs-research"
+  },
+  {
+    "id": "moral-harassment",
+    "term": "モラルハラスメント",
+    "en": "Moral Harassment",
+    "field": "危険な相手を見抜く",
+    "def": "モラルハラスメントとは、言葉や態度によって相手を傷つけ続ける精神的な暴力のことです。フランスの精神科医イルゴイエンヌ（Marie-France Hirigoyen）が提唱した言葉です。",
+    "slug": "moral-harassment-behavior-patterns-research"
+  },
+  {
+    "id": "financial-infidelity",
+    "term": "経済的不誠実",
+    "en": "Financial Infidelity",
+    "field": "危険な相手を見抜く",
+    "def": "経済的不誠実とは、パートナーに借金や出費、口座などお金に関することを隠したり偽ったりすることです。",
+    "slug": "financial-infidelity-warning-signs-research"
+  },
+  {
+    "id": "duchenne-smile",
+    "term": "デュシェンヌ・スマイル",
+    "en": "Duchenne Smile",
+    "field": "しぐさ・表情",
+    "def": "デュシェンヌ・スマイルとは、口元だけでなく目の周りの筋肉（眼輪筋）も動く笑顔のことです。19世紀の神経学者デュシェンヌの観察にちなみ、心理学者エクマンらが名づけました。",
+    "slug": "fake-smile-duchenne-detection-research"
+  },
+  {
+    "id": "anchoring",
+    "term": "アンカリング効果",
+    "en": "Anchoring Effect",
+    "field": "お金の心理学（行動経済学）",
+    "def": "アンカリング効果とは、最初に示された数字（アンカー）に、その後の判断が引きずられる現象のことです。TverskyとKahneman（1974）が報告しました。",
+    "slug": "sale-price-anchoring"
+  },
+  {
+    "id": "pain-of-paying",
+    "term": "支払いの痛み",
+    "en": "Pain of Paying",
+    "field": "お金の心理学（行動経済学）",
+    "def": "支払いの痛みとは、お金を支払うときに感じる心理的な抵抗感のことです。現金のように支払いと残高の減少が同時に見えるほど強く、クレジットカードのように切り離されているほど弱くなります。",
+    "slug": "cashless-spending"
+  },
+  {
+    "id": "endowment-effect",
+    "term": "保有効果",
+    "en": "Endowment Effect",
+    "field": "お金の心理学（行動経済学）",
+    "def": "保有効果とは、自分が持っているものを、持っていないときより高く評価してしまう心理のことです。Kahneman・Knetsch・Thaler（1990）のマグカップ実験では、売り手の希望額が買い手の希望額の約2倍になりました。",
+    "slug": "subscription-cant-cancel"
+  },
+  {
+    "id": "status-quo-bias",
+    "term": "現状維持バイアス",
+    "en": "Status Quo Bias",
+    "field": "お金の心理学（行動経済学）",
+    "def": "現状維持バイアスとは、変化よりも今の状態を維持することを選びやすい心理のことです。サブスクの解約のように手続きが必要な選択より、何もしなくてよい継続が選ばれやすくなります。",
+    "slug": "subscription-review-procrastination-status-quo-bias"
+  },
+  {
+    "id": "default-effect",
+    "term": "デフォルト効果",
+    "en": "Default Effect",
+    "field": "お金の心理学（行動経済学）",
+    "def": "デフォルト効果とは、あらかじめ設定された選択肢（デフォルト）が、そのまま選ばれやすくなる現象のことです。MadrianとSheaの401(k)自動加入の研究では、デフォルトを「加入」に変えただけで加入率が2倍以上になりました。",
+    "slug": "automatic-saving-works"
+  },
+  {
+    "id": "hedonic-adaptation",
+    "term": "快楽順応",
+    "en": "Hedonic Adaptation",
+    "field": "お金の心理学（行動経済学）",
+    "def": "快楽順応とは、良い変化にも悪い変化にも時間がたつと慣れ、幸福感が元の水準に戻っていく傾向のことです。収入が増えても満足が長続きしない理由の一つとされています。",
+    "slug": "income-increase-savings-hedonic-adaptation"
+  },
+  {
+    "id": "ostrich-effect",
+    "term": "ダチョウ効果",
+    "en": "Ostrich Effect",
+    "field": "お金の心理学（行動経済学）",
+    "def": "ダチョウ効果とは、悪い知らせかもしれない情報を見ないように避ける傾向のことです。相場が下がっているときに投資家が口座を確認しなくなる現象として報告されました。",
+    "slug": "money-talk-avoidance-ostrich-effect-research"
+  },
+  {
+    "id": "social-comparison",
+    "term": "社会的比較",
+    "en": "Social Comparison",
+    "field": "お金の心理学（行動経済学）",
+    "def": "社会的比較とは、自分の能力や状況を、他人と比べて評価しようとする心の働きのことです。社会心理学者フェスティンガー（1954）が理論化しました。",
+    "slug": "social-comparison-spending"
+  },
+  {
+    "id": "present-bias",
+    "term": "現在バイアス",
+    "en": "Present Bias",
+    "field": "お金の心理学（行動経済学）",
+    "def": "現在バイアスとは、将来の大きな利益よりも、目の前の小さな利益を優先してしまう傾向のことです。リボ払いや先延ばしの背景として研究されています。",
+    "slug": "revolving-payment-anchoring-bias"
+  },
+  {
+    "id": "future-self",
+    "term": "未来の自分との連続性",
+    "en": "Future Self-Continuity",
+    "field": "お金の心理学（行動経済学）",
+    "def": "未来の自分との連続性とは、将来の自分を、今の自分とつながった同じ人としてどれだけ感じられるかの度合いのことです。心理学者ハーシュフィールド（Hal Hershfield）らが貯蓄行動との関係を研究しています。",
+    "slug": "future-self-saving"
+  },
+  {
+    "id": "mental-accounting",
+    "term": "心の会計（メンタル・アカウンティング）",
+    "en": "Mental Accounting",
+    "field": "お金の心理学（行動経済学）",
+    "def": "心の会計とは、お金を出どころや使い道ごとに頭の中で別々の「口座」に分けて扱う傾向のことです。行動経済学者セイラー（Richard Thaler）が提唱しました。",
+    "slug": "payday-spending-spike"
+  },
+  {
+    "id": "expressive-writing",
+    "term": "表現的ライティング",
+    "en": "Expressive Writing",
+    "field": "お金の心理学（行動経済学）",
+    "def": "表現的ライティングとは、悩みや感情を短い時間で書き出す方法のことです。心理学者ペネベーカー（James Pennebaker）が心身への影響を研究しました。",
+    "slug": "write-down-money-worries"
+  },
+  {
+    "id": "money-scripts",
+    "term": "マネースクリプト",
+    "en": "Money Scripts",
+    "field": "お金の心理学（行動経済学）",
+    "def": "マネースクリプトとは、子どもの頃の経験などから身につく、お金についての無意識の思い込みのことです。Klontzらが研究しています。",
+    "slug": "money-values-family-differences-research"
+  },
+  {
+    "id": "confirmation-bias",
+    "term": "確証バイアス",
+    "en": "Confirmation Bias",
+    "field": "心理学研究法",
+    "def": "確証バイアスとは、自分の考えや仮説に合う情報ばかりを集めたり、都合よく解釈したりする心の働きのことです。心理学者ニッカーソンが1998年にまとめた研究で広く知られるようになりました。",
+    "slug": ""
+  },
+  {
+    "id": "reproducibility",
+    "term": "再現性",
+    "en": "Reproducibility",
+    "field": "心理学研究法",
+    "def": "再現性とは、同じ手順で研究を繰り返したとき、同じ結果がどれだけ得られるかの度合いのことです。2015年の大規模な追試プロジェクトで、心理学の再現性の課題が明らかになりました。",
+    "slug": ""
+  }
 ]
