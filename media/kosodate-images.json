@@ -102,5 +102,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Easy_picture_books_for_children.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "coding-education-future-benefit": {
+  "file": "File:Laptop and a mug (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Laptop_and_a_mug_%28Unsplash%29.jpg/960px-Laptop_and_a_mug_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Laptop_and_a_mug_%28Unsplash%29.jpg/500px-Laptop_and_a_mug_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 636,
+  "alt": "Ryan Riggins 2017-02-24",
+  "artist": "Ryan Riggins ryan_riggins",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Laptop_and_a_mug_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
