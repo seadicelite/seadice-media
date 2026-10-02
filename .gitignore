@@ -71,3 +71,6 @@ node_modules/
 # Python bytecode cache
 __pycache__/
 *.pyc
+
+# Claude Code agent worktrees (transient, harness-managed)
+.claude/worktrees/
