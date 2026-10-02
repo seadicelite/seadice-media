@@ -1,5 +1,13 @@
 [
  {
+  "slug": "ai-smart-toy-voice-privacy",
+  "category": "安全・プライバシー",
+  "type": "guide",
+  "date": "2026-10-02",
+  "title": "AI搭載の知育おもちゃ・スピーカーが子どもの声を録音している。プライバシーリスクは？研究でわかっていること",
+  "summary": "調査したスマートトイ11製品すべてが個人情報を収集しており、9製品は第三者とデータを共有していました。"
+ },
+ {
   "slug": "no-career-dream-elementary-school",
   "category": "AI時代の進路・将来",
   "type": "guide",
