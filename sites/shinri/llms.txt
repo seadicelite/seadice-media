@@ -105,6 +105,7 @@
 - 第16章 心理療法と支援: 認知行動療法など、心の支援の方法。
   - 16-1 心理療法にはどんな立場があるのか: https://shinri.seadice.win/course/therapy-orientations/
   - 16-2 認知行動療法(CBT)とは何か: https://shinri.seadice.win/course/cognitive-behavioral-therapy/
+  - 16-3 心の不調に薬物療法はどう使われるのか: https://shinri.seadice.win/course/pharmacotherapy/
 
 ## 姉妹メディア（詳しい研究解説の記事）
 
