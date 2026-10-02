@@ -446,5 +446,21 @@
   "field": "研究法",
   "def": "効果量とは、2つの条件のあいだの差の大きさを、測定単位に関係なく表すための統計的な指標のことです。",
   "slug": ""
+ },
+ {
+  "id": "transformational-leadership",
+  "term": "変革型リーダーシップ",
+  "en": "Transformational leadership",
+  "field": "産業・組織心理学",
+  "def": "変革型リーダーシップとは、リーダーが部下を励まし、期待以上の成果を引き出すような関わり方のことです。",
+  "slug": ""
+ },
+ {
+  "id": "trait-theory-leadership",
+  "term": "特性論(リーダーシップ)",
+  "en": "Trait theory of leadership",
+  "field": "産業・組織心理学",
+  "def": "特性論とは、自信・決断力・誠実さ・知性といった個人の特性を持つ人ほど、効果的なリーダーになりやすいという考え方のことです。",
+  "slug": ""
  }
 ]
