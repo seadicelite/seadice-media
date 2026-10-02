@@ -77,9 +77,7 @@
   "rulesFrom": ".claude/commands/ledger.md",
   "relatedApps": "p/released-apps.json から悩みに近いものを選ぶ。無ければ記事のアプリ案のみ",
   "postsPerRun": 1,
-  "topicQueue": [
-    "友人や家族にお金を貸すと関係が壊れると分かっていてもやめられない理由"
-  ],
+  "topicQueue": [],
   "layout": "magazine",
   "extraNav": [
     {

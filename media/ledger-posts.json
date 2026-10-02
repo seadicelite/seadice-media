@@ -1,5 +1,21 @@
 [
   {
+    "slug": "money-worry-mental-health",
+    "category": "お金の不安",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "お金の不安は、心の健康にどれくらい影響するのか。家計のストレスとうつの研究",
+    "summary": "お金のストレスが大きいほど、うつになりやすい傾向が多くの研究で見られた。ひとりで抱え込まず、相談できる場所を持つことが大切。"
+  },
+  {
+    "slug": "lending-money-friends-family",
+    "category": "お金の不安",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "友人や家族とのお金の貸し借りが、関係をぎくしゃくさせるのはなぜか",
+    "summary": "身内からの借金は頼りやすい反面、関係や信用を損なう不安が大きい。関係を守るために、あえて高い借金を選ぶ人もいた。"
+  },
+  {
     "slug": "tightwad-pain-of-paying",
     "category": "家計管理",
     "type": "guide",

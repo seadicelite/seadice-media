@@ -574,5 +574,31 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Model_1925_Kenworth_Collectible_Piggy_Bank_front_view_2.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "lending-money-friends-family": {
+  "file": "File:Euro coins in hand.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Euro_coins_in_hand.jpg/960px-Euro_coins_in_hand.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Euro_coins_in_hand.jpg/500px-Euro_coins_in_hand.jpg",
+  "w": 960,
+  "h": 721,
+  "alt": "Euro coins in hand.",
+  "artist": "Santeri Viinamäki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Euro_coins_in_hand.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "money-worry-mental-health": {
+  "file": "File:Ring-billed gull landing on table at Parc Jean-Drapeau.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ring-billed_gull_landing_on_table_at_Parc_Jean-Drapeau.jpg/960px-Ring-billed_gull_landing_on_table_at_Parc_Jean-Drapeau.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ring-billed_gull_landing_on_table_at_Parc_Jean-Drapeau.jpg/500px-Ring-billed_gull_landing_on_table_at_Parc_Jean-Drapeau.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "Ring-billed gull landing on table at Parc Jean Drapeau",
+  "artist": "Mathieu Landretti",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ring-billed_gull_landing_on_table_at_Parc_Jean-Drapeau.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
