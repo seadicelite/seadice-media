@@ -1,5 +1,21 @@
 [
  {
+  "id": "interpersonal-attraction",
+  "term": "対人魅力",
+  "en": "Interpersonal attraction",
+  "field": "恋愛・人間関係",
+  "def": "対人魅力とは、他者に対して抱く好意的な感情や、関わりを持ちたいと思う気持ちのことです。恋愛感情に限らず、友人関係や職場の人間関係にもあてはまります。",
+  "slug": ""
+ },
+ {
+  "id": "propinquity-effect",
+  "term": "近接性効果",
+  "en": "Propinquity effect",
+  "field": "恋愛・人間関係",
+  "def": "近接性効果とは、物理的に近くにいる相手ほど、好意を持ちやすく、友人関係を築きやすくなる傾向のことです。1950年代の社会心理学の住宅研究以来、繰り返し確認されています。",
+  "slug": ""
+ },
+ {
   "id": "mere-exposure",
   "term": "単純接触効果",
   "en": "Mere Exposure Effect",
