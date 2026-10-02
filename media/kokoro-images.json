@@ -401,5 +401,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Coffee-iphone-laptop-notebook_(24030510540).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "hiding-ai-use-work": {
+  "file": "File:Private 20081125 007.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Private_20081125_007.jpg/960px-Private_20081125_007.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Private_20081125_007.jpg/500px-Private_20081125_007.jpg",
+  "w": 960,
+  "h": 882,
+  "alt": "窓辺の植物と、ノートパソコンが置かれた仕事机",
+  "artist": "W.",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Private_20081125_007.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
