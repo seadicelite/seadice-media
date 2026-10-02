@@ -206,5 +206,18 @@
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "digital-detox-effect": {
+  "file": "File:Lothar Path - Black Forest National Park - bench 01.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg/960px-Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg/500px-Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Bench, Lothar Path, Black Forest National Park, Baden-Württemberg, Germany.",
+  "artist": "H. Zell",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
