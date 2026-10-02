@@ -271,5 +271,18 @@
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Nintendo-Super-Game-Boy-JP-2.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ai-book-report-homework-help": {
+  "file": "File:Reading books in a library with child.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Reading_books_in_a_library_with_child.jpg/960px-Reading_books_in_a_library_with_child.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Reading_books_in_a_library_with_child.jpg/500px-Reading_books_in_a_library_with_child.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "Reading books in a library with child",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Reading_books_in_a_library_with_child.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
