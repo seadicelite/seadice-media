@@ -440,5 +440,31 @@
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Jozef_israels_children_playing_with_a_toy_wagon105142).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "academic-acceleration-gifted-children-wellbeing": {
+  "file": "File:Bookwheel in Jagiellonian University Museum Krakow.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bookwheel_in_Jagiellonian_University_Museum_Krakow.jpg/960px-Bookwheel_in_Jagiellonian_University_Museum_Krakow.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bookwheel_in_Jagiellonian_University_Museum_Krakow.jpg/500px-Bookwheel_in_Jagiellonian_University_Museum_Krakow.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "A bookwheel with space for six large books to lie open.",
+  "artist": "Bassschlüssel",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bookwheel_in_Jagiellonian_University_Museum_Krakow.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "online-gaming-strangers-chat-risk": {
+  "file": "File:Xbox-360-Wireless-Controller-White.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Xbox-360-Wireless-Controller-White.jpg/960px-Xbox-360-Wireless-Controller-White.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Xbox-360-Wireless-Controller-White.jpg/500px-Xbox-360-Wireless-Controller-White.jpg",
+  "w": 960,
+  "h": 875,
+  "alt": "The standard white wireless controller for the Xbox 360 gaming system.  The controller runs off two AA batteries or a rechargeable battery p",
+  "artist": "Evan-Amos",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Xbox-360-Wireless-Controller-White.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
