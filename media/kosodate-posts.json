@@ -1,378 +1,386 @@
 [
- {
-  "slug": "highly-sensitive-child-parenting-research",
-  "category": "心と親子関係",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "人一倍敏感な子（HSC）・繊細な子への接し方。研究でわかっていること",
-  "summary": "音や人混みに疲れやすい敏感な子への接し方。関わり方で変わる影響について研究データで紹介します。"
- },
- {
-  "slug": "cyberbullying-children-parent-awareness",
-  "category": "安全・プライバシー",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どものサイバーいじめ、親はどう気づく？対策は研究でわかっていること",
-  "summary": "SNSやゲームのチャットでのトラブルは親から見えにくいもの。気づく手がかりと家庭でできる対策を研究データで紹介します。"
- },
- {
-  "slug": "children-quitting-activities-research",
-  "category": "AI時代の進路・将来",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "習い事をすぐ辞める。続けないと将来の役に立たない？研究でわかっていること",
-  "summary": "習い事やスポーツをすぐ辞める子に将来困るか不安な親へ。継続と将来の関連を研究データで紹介します。"
- },
- {
-  "slug": "nursery-separation-anxiety-how-long",
-  "category": "心と親子関係",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "保育園の登園しぶり・分離不安はいつまで続く？研究でわかっていること",
-  "summary": "毎朝泣いて離れない登園しぶりはいつまで続くのか、研究でわかっている経過の目安と家庭でできることを紹介します。"
- },
- {
-  "slug": "tantrum-coping-children-research",
-  "category": "心と親子関係",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どもの癇癪（かんしゃく）への対応。研究でわかっていること",
-  "summary": "スーパーで寝転がって泣き叫ぶ子どもの癇癪はいつまで続く？頻度・持続時間の研究と、家庭でできる関わり方を紹介します。"
- },
- {
-  "slug": "screen-time-adhd-symptoms-risk",
-  "category": "スマホ・スクリーンタイム",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "長時間のスクリーンタイムとADHD症状のリスク。研究でわかっていること",
-  "summary": "台湾24,200組・中国41,494人の大規模調査で関連がみられ、原因と結果の向きはまだわかっていません。"
- },
- {
-  "slug": "toddler-screen-stop-crying-self-regulation",
-  "category": "スマホ・スクリーンタイム",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "3歳の子が動画を見ないと泣く。自分で止める力はいつ育つ？研究でわかっていること",
-  "summary": "動画で気持ちを落ち着かせる頻度が多い家庭ほど、やめさせたときに感情が激しくなりやすい関連があります。"
- },
- {
-  "slug": "ai-answers-memory-retention",
-  "category": "考える力・学び",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "AIに答えを聞くと、覚える力はどう変わる？記憶の研究でわかっていること",
-  "summary": "「あとで確認できる」と思うだけで、自分の頭で覚えようとする働きが弱まる実験結果があります。"
- },
- {
-  "slug": "social-media-cognitive-performance-decline",
-  "category": "考える力・学び",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "SNSの時間が増えると、読み書きや記憶力はどう変わる？数年間追跡した調査でわかったこと",
-  "summary": "9〜10歳の子を2年間追跡した調査で、SNSを使う時間が増えた子ほどテストの点数が低い関連がありました。"
- },
- {
-  "slug": "generative-ai-family-involvement",
-  "category": "AIの使わせ方",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どものAI利用、家庭でどう関わるとうまくいく？研究でわかっていること",
-  "summary": "ルールで縛るより、親自身がAIを理解し信頼できていることの方が関連していた調査があります。"
- },
- {
-  "slug": "school-tablet-app-child-data-privacy",
-  "category": "安全・プライバシー",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "学校のタブレット・教育アプリ、子どもの個人情報は守られている？研究でわかっていること",
-  "summary": "学校のタブレットや教育アプリは子どもの個人情報を守れている？研究データと海外の事例から考えます。"
- },
- {
-  "slug": "online-gaming-strangers-chat-risk",
-  "category": "安全・プライバシー",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どもがオンラインゲームで知らない人とチャットしている。危険性と対策は？研究でわかっていること",
-  "summary": "オンラインゲームのチャットで子どもが知らない人とやり取り。危険性と対策を研究データで紹介します。"
- },
- {
-  "slug": "academic-acceleration-gifted-children-wellbeing",
-  "category": "AI時代の進路・将来",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "飛び級・ギフテッド教育は子どもにとって心配な選択？研究でわかっていること",
-  "summary": "飛び級やギフテッド教育は心配な選択か迷う親もいます。先取り学習と心の健康の関連を研究データで紹介します。"
- },
- {
-  "slug": "children-lying-development-age",
-  "category": "心と親子関係",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どもが嘘をつくようになった。何歳からどんな嘘？研究でわかっていること",
-  "summary": "子どもが嘘をつき始めると、発達に問題があるのではと心配になる親もいます。研究データで紹介します。"
- },
- {
-  "slug": "father-involvement-child-development",
-  "category": "心と親子関係",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "父親の育児参加は子どもの発達にどう影響する？研究でわかっていること",
-  "summary": "父親の育児参加は子どもの社会性の発達やけがの予防と関連。研究でわかっていることを紹介します。"
- },
- {
-  "slug": "ai-tutor-adaptive-learning-effect",
-  "category": "AIの使わせ方",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "AIの個別学習・AIチューターは本当に成績が上がる？研究でわかっていること",
-  "summary": "K-12の28研究のメタ分析では効果はおおむね前向きでしたが、AIの種類によって効果の大きさは異なっていました。"
- },
- {
-  "slug": "screen-time-language-development-toddler",
-  "category": "スマホ・スクリーンタイム",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "乳幼児のスマホ・動画の時間、言葉の発達に影響する？研究でわかっていること",
-  "summary": "スクリーン時間全体は言語スキルの低さと関連していましたが、教育的な内容や親子で一緒に見ることは逆の関連を示しました。"
- },
- {
-  "slug": "fast-paced-video-fantasy-executive-function",
-  "category": "考える力・学び",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "テンポの速い動画を見ると、子どもの集中力は落ちる？最新研究でわかったこと",
-  "summary": "動画の再生テンポより、現実にありえない内容(ファンタジー)を見た直後の方が、実行機能のテスト成績が下がる関連がありました。"
- },
- {
-  "slug": "screen-time-myopia-eyesight",
-  "category": "スマホ・スクリーンタイム",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どものスマホ・動画の時間、近視とどう関係する？研究でわかっていること",
-  "summary": "近くで見る時間が長い子は近視のオッズが高く、1日1〜2時間以上の屋外活動が近視を防ぐ方向に働くと研究でわかっています。"
- },
- {
-  "slug": "smartphone-first-age-ownership-risk",
-  "category": "スマホ・スクリーンタイム",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どものスマホ、自分の1台は何歳から？研究でわかったリスク",
-  "summary": "12歳でスマホを持っていた子は、抑うつ・肥満・睡眠不足・過食症状などとの関連が複数の大規模研究で示されています。"
- },
- {
-  "slug": "ai-smart-toy-voice-privacy",
-  "category": "安全・プライバシー",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "AI搭載の知育おもちゃ・スピーカーが子どもの声を録音している。プライバシーリスクは？研究でわかっていること",
-  "summary": "調査したスマートトイ11製品すべてが個人情報を収集しており、9製品は第三者とデータを共有していました。"
- },
- {
-  "slug": "no-career-dream-elementary-school",
-  "category": "AI時代の進路・将来",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どもに将来の夢がない。小学生で「なりたい職業」が決まっていなくても心配いらない理由",
-  "summary": "小学生の将来の夢は数年で大きく変わりやすく、3年間で約6割が完全に入れ替わったという追跡調査があります。"
- },
- {
-  "slug": "big-fish-little-pond-effect-class-rank",
-  "category": "AI時代の進路・将来",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "中学受験でクラスの順位が気になる。「井の中の蛙効果」とは？研究でわかっていること",
-  "summary": "周囲の学力が高いほど自己概念は下がりやすいとメタ分析で示されていますが、社会性の悪化までは言い切れません。"
- },
- {
-  "slug": "sibling-differential-treatment-fairness",
-  "category": "心と親子関係",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "下の子ばかり構ってしまう。きょうだいへの接し方の違いは子どもの心に影響する？研究でわかっていること",
-  "summary": "接し方の差そのものより、子どもが不公平だと強く感じるかどうかが影響すると大規模メタ分析などで示されています。"
- },
- {
-  "slug": "adolescent-parent-conversation-decline",
-  "category": "心と親子関係",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "思春期に入って子どもと会話が減った。心配しなくていい理由を研究で見る",
-  "summary": "思春期の会話減少や対立の増加は複数の縦断研究で確認されていますが、一時的な変動が大きく関わり方次第で支えられます。"
- },
- {
-  "slug": "ai-book-report-homework-help",
-  "category": "AIの使わせ方",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "AIに読書感想文・自由研究を手伝わせるのはずるい？文科省の方針と家庭でのルール",
-  "summary": "AIの生成物をそのまま提出するのは文科省の指針で不適切とされますが、一部活用まで禁止はしていません。"
- },
- {
-  "slug": "gaming-disorder-children-research",
-  "category": "スマホ・スクリーンタイム",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どものゲームがやめられない。「ゲーム障害」について研究でわかっていること",
-  "summary": "障害と呼べるのはごく一部で、プレイ時間の長さではなく生活への支障が12か月続くかが目安です。"
- },
- {
-  "slug": "ai-translation-english-learning",
-  "category": "考える力・学び",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "AI翻訳があれば英語学習はもう不要？語学学習と思考力の研究でわかっていること",
-  "summary": "AI翻訳と語学学習の関係はまだ研究が少なく、バイリンガルの思考力への効果も意見が分かれています。"
- },
- {
-  "slug": "youtube-more-please-how-to-say-no",
-  "category": "スマホ・スクリーンタイム",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どもの「YouTubeをもっと見たい」を上手に断るには？研究でわかった声かけ",
-  "summary": "気持ちを一度認めてから終わりを伝える声かけのほうが、対立を減らしやすいと研究でわかっています。"
- },
- {
-  "slug": "toddler-tablet-learning-app-effect",
-  "category": "考える力・学び",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "幼児のタブレット学習アプリに効果はあるのか？乳幼児期の研究でわかっていること",
-  "summary": "2〜3歳は「見るだけ」が学びやすく、5〜6歳は10分の練習でテストの点が上がった研究があります。"
- },
- {
-  "slug": "ai-chatbot-conversations-children-risk",
-  "category": "安全・プライバシー",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どもがAIチャットで何を話しているか知っていますか？研究でわかった使われ方とリスク",
-  "summary": "子どものAIチャット利用は宿題中心ですが、年齢が低いほど暴力的・性的な内容も一定割合あるとわかりました。"
- },
- {
-  "slug": "parental-expectations-pressure-children-motivation",
-  "category": "AI時代の進路・将来",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どもに期待をかけすぎると逆効果？将来への意欲とプレッシャーの研究",
-  "summary": "親の期待を感じ取ることは子どもの意欲と関連する一方、先回りした関わりは学業の燃え尽きと関連していました。"
- },
- {
-  "slug": "sibling-comparison-self-esteem",
-  "category": "心と親子関係",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "きょうだいを比較すると自己肯定感は下がる？研究でわかっていること",
-  "summary": "きょうだいへの差をつけた関わりは、自己肯定感の低下やきょうだい関係の悪化と関連があるとわかっています。"
- },
- {
-  "slug": "location-tracking-app-trust",
-  "category": "安全・プライバシー",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どもの見守りアプリ、位置情報の共有で信頼関係は壊れる？研究でわかっていること",
-  "summary": "米国では3〜7割の家庭が利用。信頼している相手との限定的な共有は受け入れられやすいとわかっています。"
- },
- {
-  "slug": "creativity-training-ai-era",
-  "category": "AI時代の進路・将来",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "AI時代に伸ばしたい「創造力」は本当に鍛えられる？研究でわかっていること",
-  "summary": "創造性トレーニングの効果は、発表バイアスを調整すると小さくなりました。生成AIは個人の評価を上げる一方、作品を似通わせます。"
- },
- {
-  "slug": "family-screen-time-rules-research",
-  "category": "スマホ・スクリーンタイム",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どものスマホルールの作り方。研究でわかっている効果的な決め方",
-  "summary": "具体的なルールを決めて守らせた家庭は、1年後に推奨時間を守れている確率が約4倍高くなっていました。"
- },
- {
-  "slug": "parent-smartphone-technoference-children",
-  "category": "心と親子関係",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "親のスマホ使用は子どもに影響する？「テクノフェアレンス」の研究でわかっていること",
-  "summary": "親が気を取られて関わりが減る「テクノフェアレンス」と子どもの問題行動には小さな関連が。使用量自体との関連は一定していません。"
- },
- {
-  "slug": "coding-education-future-benefit",
-  "category": "考える力・学び",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "プログラミング教育は将来の役に立つ？研究でわかっていること",
-  "summary": "プログラミング自体の力や一部の思考力は伸びますが、学校の成績や将来役立つかの直接的な証拠はまだ限られています。"
- },
- {
-  "slug": "ai-voice-reading-vs-human",
-  "category": "考える力・学び",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "絵本の読み聞かせ、AIの声でも人と同じ効果がある？研究でわかっていること",
-  "summary": "問いかけ機能のあるAI・電子絵本の読み聞かせは、理解や言葉の学びで人の読み聞かせに近い効果を示す研究があります。"
- },
- {
-  "slug": "inflated-praise-self-esteem",
-  "category": "心と親子関係",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どもを褒めすぎると自己肯定感が下がる？研究でわかった褒め方の分かれ道",
-  "summary": "自己肯定感が低い子ほど大げさな褒め言葉を受けやすく、それが挑戦を避ける方向に働くとわかっています。"
- },
- {
-  "slug": "sharenting-sns-photo-risk",
-  "category": "安全・プライバシー",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どもの写真をSNSに載せるリスクは？シェアレンティングの研究でわかっていること",
-  "summary": "投稿する親の7割以上がプライバシー侵害になりうると感じながらも、本人の同意を十分に取れていません。"
- },
- {
-  "slug": "non-cognitive-skills-kids",
-  "category": "AI時代の進路・将来",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "AI時代に伸ばしたい子どもの力は何？研究でわかった「非認知能力」の中身",
-  "summary": "最も確かな根拠があるのは自己制御。やり抜く力や成長マインドセットの教材効果は小さめでした。"
- },
- {
-  "slug": "ai-companion-loneliness",
-  "category": "心と親子関係",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どもがAIを友達みたいに話し相手にしている。依存や孤独は心配ない？",
-  "summary": "子ども対象の研究はまだ少なく、孤独が和らぐ報告も深まる懸念も両方あるのが実情です。"
- },
- {
-  "slug": "bedtime-screen-sleep",
-  "category": "スマホ・スクリーンタイム",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "寝る前のスマホ・動画は子どもの睡眠にどう影響する？研究でわかっていること",
-  "summary": "就寝前のスクリーン利用は睡眠時間を縮め、寝つきを遅らせる関連が複数の研究で確認されています。"
- },
- {
-  "slug": "kids-screen-time-hours",
-  "category": "スマホ・スクリーンタイム",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どものスマホ・動画は何時間まで？年齢別の目安をWHOと研究で整理",
-  "summary": "2〜4歳は1日1時間まで、1歳以下はなし（WHO）。小学生以上は寝る前に使わないことが大切です。"
- },
- {
-  "slug": "homework-ai-thinking-skills",
-  "category": "考える力・学び",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "宿題にAIを使わせると考える力は落ちる？研究でわかった使い方の分かれ道",
-  "summary": "答えを写す使い方は成績が下がり、ヒントとして使うと下がりにくい。分かれ道は使い方です。"
- },
- {
-  "slug": "ai-age-for-kids",
-  "category": "AIの使わせ方",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "子どもにAIは何歳から？研究と公的ガイドラインで整理",
-  "summary": "ユネスコの目安は13歳から。それより前は親と一緒に使うのが研究から見た安心な形です。"
- }
+  {
+    "slug": "ai-exam-prep-high-school",
+    "category": "AIの使わせ方",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "高校生の受験勉強、AIをどこまで使っていい？研究でわかっていること",
+    "summary": "約1,000人の高校生実験で、AIの使い方次第で学力への影響が真逆になることがわかりました。"
+  },
+  {
+    "slug": "highly-sensitive-child-parenting-research",
+    "category": "心と親子関係",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "人一倍敏感な子（HSC）・繊細な子への接し方。研究でわかっていること",
+    "summary": "音や人混みに疲れやすい敏感な子への接し方。関わり方で変わる影響について研究データで紹介します。"
+  },
+  {
+    "slug": "cyberbullying-children-parent-awareness",
+    "category": "安全・プライバシー",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どものサイバーいじめ、親はどう気づく？対策は研究でわかっていること",
+    "summary": "SNSやゲームのチャットでのトラブルは親から見えにくいもの。気づく手がかりと家庭でできる対策を研究データで紹介します。"
+  },
+  {
+    "slug": "children-quitting-activities-research",
+    "category": "AI時代の進路・将来",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "習い事をすぐ辞める。続けないと将来の役に立たない？研究でわかっていること",
+    "summary": "習い事やスポーツをすぐ辞める子に将来困るか不安な親へ。継続と将来の関連を研究データで紹介します。"
+  },
+  {
+    "slug": "nursery-separation-anxiety-how-long",
+    "category": "心と親子関係",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "保育園の登園しぶり・分離不安はいつまで続く？研究でわかっていること",
+    "summary": "毎朝泣いて離れない登園しぶりはいつまで続くのか、研究でわかっている経過の目安と家庭でできることを紹介します。"
+  },
+  {
+    "slug": "tantrum-coping-children-research",
+    "category": "心と親子関係",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どもの癇癪（かんしゃく）への対応。研究でわかっていること",
+    "summary": "スーパーで寝転がって泣き叫ぶ子どもの癇癪はいつまで続く？頻度・持続時間の研究と、家庭でできる関わり方を紹介します。"
+  },
+  {
+    "slug": "screen-time-adhd-symptoms-risk",
+    "category": "スマホ・スクリーンタイム",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "長時間のスクリーンタイムとADHD症状のリスク。研究でわかっていること",
+    "summary": "台湾24,200組・中国41,494人の大規模調査で関連がみられ、原因と結果の向きはまだわかっていません。"
+  },
+  {
+    "slug": "toddler-screen-stop-crying-self-regulation",
+    "category": "スマホ・スクリーンタイム",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "3歳の子が動画を見ないと泣く。自分で止める力はいつ育つ？研究でわかっていること",
+    "summary": "動画で気持ちを落ち着かせる頻度が多い家庭ほど、やめさせたときに感情が激しくなりやすい関連があります。"
+  },
+  {
+    "slug": "ai-answers-memory-retention",
+    "category": "考える力・学び",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "AIに答えを聞くと、覚える力はどう変わる？記憶の研究でわかっていること",
+    "summary": "「あとで確認できる」と思うだけで、自分の頭で覚えようとする働きが弱まる実験結果があります。"
+  },
+  {
+    "slug": "social-media-cognitive-performance-decline",
+    "category": "考える力・学び",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "SNSの時間が増えると、読み書きや記憶力はどう変わる？数年間追跡した調査でわかったこと",
+    "summary": "9〜10歳の子を2年間追跡した調査で、SNSを使う時間が増えた子ほどテストの点数が低い関連がありました。"
+  },
+  {
+    "slug": "generative-ai-family-involvement",
+    "category": "AIの使わせ方",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どものAI利用、家庭でどう関わるとうまくいく？研究でわかっていること",
+    "summary": "ルールで縛るより、親自身がAIを理解し信頼できていることの方が関連していた調査があります。"
+  },
+  {
+    "slug": "school-tablet-app-child-data-privacy",
+    "category": "安全・プライバシー",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "学校のタブレット・教育アプリ、子どもの個人情報は守られている？研究でわかっていること",
+    "summary": "学校のタブレットや教育アプリは子どもの個人情報を守れている？研究データと海外の事例から考えます。"
+  },
+  {
+    "slug": "online-gaming-strangers-chat-risk",
+    "category": "安全・プライバシー",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どもがオンラインゲームで知らない人とチャットしている。危険性と対策は？研究でわかっていること",
+    "summary": "オンラインゲームのチャットで子どもが知らない人とやり取り。危険性と対策を研究データで紹介します。"
+  },
+  {
+    "slug": "academic-acceleration-gifted-children-wellbeing",
+    "category": "AI時代の進路・将来",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "飛び級・ギフテッド教育は子どもにとって心配な選択？研究でわかっていること",
+    "summary": "飛び級やギフテッド教育は心配な選択か迷う親もいます。先取り学習と心の健康の関連を研究データで紹介します。"
+  },
+  {
+    "slug": "children-lying-development-age",
+    "category": "心と親子関係",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どもが嘘をつくようになった。何歳からどんな嘘？研究でわかっていること",
+    "summary": "子どもが嘘をつき始めると、発達に問題があるのではと心配になる親もいます。研究データで紹介します。"
+  },
+  {
+    "slug": "father-involvement-child-development",
+    "category": "心と親子関係",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "父親の育児参加は子どもの発達にどう影響する？研究でわかっていること",
+    "summary": "父親の育児参加は子どもの社会性の発達やけがの予防と関連。研究でわかっていることを紹介します。"
+  },
+  {
+    "slug": "ai-tutor-adaptive-learning-effect",
+    "category": "AIの使わせ方",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "AIの個別学習・AIチューターは本当に成績が上がる？研究でわかっていること",
+    "summary": "K-12の28研究のメタ分析では効果はおおむね前向きでしたが、AIの種類によって効果の大きさは異なっていました。"
+  },
+  {
+    "slug": "screen-time-language-development-toddler",
+    "category": "スマホ・スクリーンタイム",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "乳幼児のスマホ・動画の時間、言葉の発達に影響する？研究でわかっていること",
+    "summary": "スクリーン時間全体は言語スキルの低さと関連していましたが、教育的な内容や親子で一緒に見ることは逆の関連を示しました。"
+  },
+  {
+    "slug": "fast-paced-video-fantasy-executive-function",
+    "category": "考える力・学び",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "テンポの速い動画を見ると、子どもの集中力は落ちる？最新研究でわかったこと",
+    "summary": "動画の再生テンポより、現実にありえない内容(ファンタジー)を見た直後の方が、実行機能のテスト成績が下がる関連がありました。"
+  },
+  {
+    "slug": "screen-time-myopia-eyesight",
+    "category": "スマホ・スクリーンタイム",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どものスマホ・動画の時間、近視とどう関係する？研究でわかっていること",
+    "summary": "近くで見る時間が長い子は近視のオッズが高く、1日1〜2時間以上の屋外活動が近視を防ぐ方向に働くと研究でわかっています。"
+  },
+  {
+    "slug": "smartphone-first-age-ownership-risk",
+    "category": "スマホ・スクリーンタイム",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どものスマホ、自分の1台は何歳から？研究でわかったリスク",
+    "summary": "12歳でスマホを持っていた子は、抑うつ・肥満・睡眠不足・過食症状などとの関連が複数の大規模研究で示されています。"
+  },
+  {
+    "slug": "ai-smart-toy-voice-privacy",
+    "category": "安全・プライバシー",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "AI搭載の知育おもちゃ・スピーカーが子どもの声を録音している。プライバシーリスクは？研究でわかっていること",
+    "summary": "調査したスマートトイ11製品すべてが個人情報を収集しており、9製品は第三者とデータを共有していました。"
+  },
+  {
+    "slug": "no-career-dream-elementary-school",
+    "category": "AI時代の進路・将来",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どもに将来の夢がない。小学生で「なりたい職業」が決まっていなくても心配いらない理由",
+    "summary": "小学生の将来の夢は数年で大きく変わりやすく、3年間で約6割が完全に入れ替わったという追跡調査があります。"
+  },
+  {
+    "slug": "big-fish-little-pond-effect-class-rank",
+    "category": "AI時代の進路・将来",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "中学受験でクラスの順位が気になる。「井の中の蛙効果」とは？研究でわかっていること",
+    "summary": "周囲の学力が高いほど自己概念は下がりやすいとメタ分析で示されていますが、社会性の悪化までは言い切れません。"
+  },
+  {
+    "slug": "sibling-differential-treatment-fairness",
+    "category": "心と親子関係",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "下の子ばかり構ってしまう。きょうだいへの接し方の違いは子どもの心に影響する？研究でわかっていること",
+    "summary": "接し方の差そのものより、子どもが不公平だと強く感じるかどうかが影響すると大規模メタ分析などで示されています。"
+  },
+  {
+    "slug": "adolescent-parent-conversation-decline",
+    "category": "心と親子関係",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "思春期に入って子どもと会話が減った。心配しなくていい理由を研究で見る",
+    "summary": "思春期の会話減少や対立の増加は複数の縦断研究で確認されていますが、一時的な変動が大きく関わり方次第で支えられます。"
+  },
+  {
+    "slug": "ai-book-report-homework-help",
+    "category": "AIの使わせ方",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "AIに読書感想文・自由研究を手伝わせるのはずるい？文科省の方針と家庭でのルール",
+    "summary": "AIの生成物をそのまま提出するのは文科省の指針で不適切とされますが、一部活用まで禁止はしていません。"
+  },
+  {
+    "slug": "gaming-disorder-children-research",
+    "category": "スマホ・スクリーンタイム",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どものゲームがやめられない。「ゲーム障害」について研究でわかっていること",
+    "summary": "障害と呼べるのはごく一部で、プレイ時間の長さではなく生活への支障が12か月続くかが目安です。"
+  },
+  {
+    "slug": "ai-translation-english-learning",
+    "category": "考える力・学び",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "AI翻訳があれば英語学習はもう不要？語学学習と思考力の研究でわかっていること",
+    "summary": "AI翻訳と語学学習の関係はまだ研究が少なく、バイリンガルの思考力への効果も意見が分かれています。"
+  },
+  {
+    "slug": "youtube-more-please-how-to-say-no",
+    "category": "スマホ・スクリーンタイム",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どもの「YouTubeをもっと見たい」を上手に断るには？研究でわかった声かけ",
+    "summary": "気持ちを一度認めてから終わりを伝える声かけのほうが、対立を減らしやすいと研究でわかっています。"
+  },
+  {
+    "slug": "toddler-tablet-learning-app-effect",
+    "category": "考える力・学び",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "幼児のタブレット学習アプリに効果はあるのか？乳幼児期の研究でわかっていること",
+    "summary": "2〜3歳は「見るだけ」が学びやすく、5〜6歳は10分の練習でテストの点が上がった研究があります。"
+  },
+  {
+    "slug": "ai-chatbot-conversations-children-risk",
+    "category": "安全・プライバシー",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どもがAIチャットで何を話しているか知っていますか？研究でわかった使われ方とリスク",
+    "summary": "子どものAIチャット利用は宿題中心ですが、年齢が低いほど暴力的・性的な内容も一定割合あるとわかりました。"
+  },
+  {
+    "slug": "parental-expectations-pressure-children-motivation",
+    "category": "AI時代の進路・将来",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どもに期待をかけすぎると逆効果？将来への意欲とプレッシャーの研究",
+    "summary": "親の期待を感じ取ることは子どもの意欲と関連する一方、先回りした関わりは学業の燃え尽きと関連していました。"
+  },
+  {
+    "slug": "sibling-comparison-self-esteem",
+    "category": "心と親子関係",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "きょうだいを比較すると自己肯定感は下がる？研究でわかっていること",
+    "summary": "きょうだいへの差をつけた関わりは、自己肯定感の低下やきょうだい関係の悪化と関連があるとわかっています。"
+  },
+  {
+    "slug": "location-tracking-app-trust",
+    "category": "安全・プライバシー",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どもの見守りアプリ、位置情報の共有で信頼関係は壊れる？研究でわかっていること",
+    "summary": "米国では3〜7割の家庭が利用。信頼している相手との限定的な共有は受け入れられやすいとわかっています。"
+  },
+  {
+    "slug": "creativity-training-ai-era",
+    "category": "AI時代の進路・将来",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "AI時代に伸ばしたい「創造力」は本当に鍛えられる？研究でわかっていること",
+    "summary": "創造性トレーニングの効果は、発表バイアスを調整すると小さくなりました。生成AIは個人の評価を上げる一方、作品を似通わせます。"
+  },
+  {
+    "slug": "family-screen-time-rules-research",
+    "category": "スマホ・スクリーンタイム",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どものスマホルールの作り方。研究でわかっている効果的な決め方",
+    "summary": "具体的なルールを決めて守らせた家庭は、1年後に推奨時間を守れている確率が約4倍高くなっていました。"
+  },
+  {
+    "slug": "parent-smartphone-technoference-children",
+    "category": "心と親子関係",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "親のスマホ使用は子どもに影響する？「テクノフェアレンス」の研究でわかっていること",
+    "summary": "親が気を取られて関わりが減る「テクノフェアレンス」と子どもの問題行動には小さな関連が。使用量自体との関連は一定していません。"
+  },
+  {
+    "slug": "coding-education-future-benefit",
+    "category": "考える力・学び",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "プログラミング教育は将来の役に立つ？研究でわかっていること",
+    "summary": "プログラミング自体の力や一部の思考力は伸びますが、学校の成績や将来役立つかの直接的な証拠はまだ限られています。"
+  },
+  {
+    "slug": "ai-voice-reading-vs-human",
+    "category": "考える力・学び",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "絵本の読み聞かせ、AIの声でも人と同じ効果がある？研究でわかっていること",
+    "summary": "問いかけ機能のあるAI・電子絵本の読み聞かせは、理解や言葉の学びで人の読み聞かせに近い効果を示す研究があります。"
+  },
+  {
+    "slug": "inflated-praise-self-esteem",
+    "category": "心と親子関係",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どもを褒めすぎると自己肯定感が下がる？研究でわかった褒め方の分かれ道",
+    "summary": "自己肯定感が低い子ほど大げさな褒め言葉を受けやすく、それが挑戦を避ける方向に働くとわかっています。"
+  },
+  {
+    "slug": "sharenting-sns-photo-risk",
+    "category": "安全・プライバシー",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どもの写真をSNSに載せるリスクは？シェアレンティングの研究でわかっていること",
+    "summary": "投稿する親の7割以上がプライバシー侵害になりうると感じながらも、本人の同意を十分に取れていません。"
+  },
+  {
+    "slug": "non-cognitive-skills-kids",
+    "category": "AI時代の進路・将来",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "AI時代に伸ばしたい子どもの力は何？研究でわかった「非認知能力」の中身",
+    "summary": "最も確かな根拠があるのは自己制御。やり抜く力や成長マインドセットの教材効果は小さめでした。"
+  },
+  {
+    "slug": "ai-companion-loneliness",
+    "category": "心と親子関係",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どもがAIを友達みたいに話し相手にしている。依存や孤独は心配ない？",
+    "summary": "子ども対象の研究はまだ少なく、孤独が和らぐ報告も深まる懸念も両方あるのが実情です。"
+  },
+  {
+    "slug": "bedtime-screen-sleep",
+    "category": "スマホ・スクリーンタイム",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "寝る前のスマホ・動画は子どもの睡眠にどう影響する？研究でわかっていること",
+    "summary": "就寝前のスクリーン利用は睡眠時間を縮め、寝つきを遅らせる関連が複数の研究で確認されています。"
+  },
+  {
+    "slug": "kids-screen-time-hours",
+    "category": "スマホ・スクリーンタイム",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どものスマホ・動画は何時間まで？年齢別の目安をWHOと研究で整理",
+    "summary": "2〜4歳は1日1時間まで、1歳以下はなし（WHO）。小学生以上は寝る前に使わないことが大切です。"
+  },
+  {
+    "slug": "homework-ai-thinking-skills",
+    "category": "考える力・学び",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "宿題にAIを使わせると考える力は落ちる？研究でわかった使い方の分かれ道",
+    "summary": "答えを写す使い方は成績が下がり、ヒントとして使うと下がりにくい。分かれ道は使い方です。"
+  },
+  {
+    "slug": "ai-age-for-kids",
+    "category": "AIの使わせ方",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "子どもにAIは何歳から？研究と公的ガイドラインで整理",
+    "summary": "ユネスコの目安は13歳から。それより前は親と一緒に使うのが研究から見た安心な形です。"
+  }
 ]
