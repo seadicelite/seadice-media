@@ -521,14 +521,10 @@
       {
        "text": "Open Science Collaboration (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716.",
        "url": "https://doi.org/10.1126/science.aac4716"
-      },
-      {
-       "text": "Stevens, J. R. (2017). Replicability and Reproducibility in Comparative Psychology. Frontiers in Psychology, 8:862.",
-       "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00862/full"
       }
      ],
      "date": "2026-10-01",
-     "modified": "2026-10-01"
+     "modified": "2026-10-02"
     },
     {
      "id": "experiment-survey-observation",
@@ -690,7 +686,7 @@
        "answer": "2つの変数に相関が見られても、両方に影響する別の要因（交絡変数）が背景にある場合があります。",
        "paras": [
         "2つの変数AとBに相関が見られても、Aが直接Bの原因だとは限りません。AとBの両方に影響を与える、別の変数Cが背景にある場合があるからです。この変数Cを、交絡変数（第三の変数）と呼びます。",
-        "よく紹介される例が、コーヒーをよく飲む人ほど、あるがんになりやすいという関連です。2008年の研究法についての論文は、この関連の背景に、喫煙という交絡変数があることを紹介しています。喫煙者はコーヒーを多く飲む傾向があり、喫煙そのものががんの原因になっているため、コーヒーを飲むこと自体が原因とは言えません。",
+        "よく紹介される例が、アイスクリームの売り上げが多い時期ほど、サメに襲われる事故が多いという関連です。2025年に学術誌Frontiers in Psychologyに発表された、心理学入門での教え方を扱う論文は、この関連の背景に気温という交絡変数があることを紹介しています。気温が上がると、人はアイスクリームを買い、海で泳ぐ人も増えます。泳ぐ人が増えれば、サメに襲われる事故も増えるため、アイスクリームを食べること自体が事故の原因ではありません。",
         "心理学の調査でも、同じ注意が必要です。「ある行動」と「ある心の状態」に相関が見られても、年齢や家庭の状況など、共通する別の要因が影響している可能性を考える必要があります。"
        ]
       },
@@ -748,14 +744,14 @@
        "exp": "相関係数は-1から+1の範囲をとり、0に近いほど関係が弱いことを示します。"
       },
       {
-       "q": "コーヒーを飲むこととがんのなりやすさに見られた関連の背景にあった交絡変数は何ですか。",
+       "q": "アイスクリームの売り上げとサメに襲われる事故の件数に見られた関連の背景にあった交絡変数は何ですか。",
        "choices": [
-        "喫煙",
-        "運動不足",
-        "睡眠時間"
+        "気温",
+        "曜日",
+        "降水量"
        ],
        "a": 0,
-       "exp": "喫煙が、コーヒーを飲む習慣とがんの両方に影響する交絡変数でした。"
+       "exp": "気温が上がると、アイスクリームを買う人も海で泳ぐ人も増えるため、気温がこの関連の背景にある交絡変数です。"
       },
       {
        "q": "スクリーンタイムとうつの症状の関連を調べた研究について、正しい説明はどれですか。",
@@ -774,12 +770,12 @@
        "url": "https://doi.org/10.1186/s12889-024-20102-x"
       },
       {
-       "text": "Vavken, P., Culen, G., & Dorotka, R. (2008). Management of Confounding in Controlled Orthopaedic Trials: A Cross-sectional Study. Clinical Orthopaedics and Related Research, 466(4), 985-989.",
-       "url": "https://doi.org/10.1007/s11999-007-0098-y"
+       "text": "Stevens, C., Witkow, M. R., & Isbell, J. (2025). Improving the teaching of \"correlation does not equal causation\" in Introductory Psychology. Frontiers in Psychology, 16, 1645518.",
+       "url": "https://doi.org/10.3389/fpsyg.2025.1645518"
       }
      ],
      "date": "2026-10-01",
-     "modified": "2026-10-01"
+     "modified": "2026-10-02"
     },
     {
      "id": "reading-research-results",
@@ -811,7 +807,7 @@
        "answer": "効果量とは、2つのグループの違いなどを、ばらつきの大きさを基準にして表した数値です。d=0.2・0.5・0.8が、それぞれ小・中・大の目安です。",
        "paras": [
         "「統計的に有意」という言葉は、その違いが偶然では起こりにくいという意味です。しかし、違いが偶然でなくても、その違いがどれくらい大きいかまではわかりません。違いの大きさを表す数値を、効果量と呼びます。",
-        "よく使われる効果量がCohenのdです。2020年の神経科学分野の論文でも紹介されているとおり、d=0.2は小さい効果、d=0.5は中程度の効果、d=0.8は大きい効果の目安とされています。",
+        "よく使われる効果量がCohenのdです。心理学者コーエンは1992年の論文で、d=0.2を小さい効果、d=0.5を中程度の効果、d=0.8を大きい効果の目安として示しました。",
         "効果量を見ると、「差はあるが小さい」のか「大きな差がある」のかを区別できます。ニュースなどでは、統計的に有意という言葉だけが強調され、効果量の大きさが省略されがちです。"
        ]
       },
@@ -890,12 +886,12 @@
        "url": "https://doi.org/10.1371/journal.pone.0216588"
       },
       {
-       "text": "Tursic, A., Eck, J., Lührs, M., Linden, D. E. J., & Goebel, R. (2020). A systematic review of fMRI neurofeedback reporting and effects in clinical populations. NeuroImage: Clinical, 28, 102496.",
-       "url": "https://doi.org/10.1016/j.nicl.2020.102496"
+       "text": "Cohen, J. (1992). A power primer. Psychological Bulletin, 112(1), 155-159.",
+       "url": "https://doi.org/10.1037/0033-2909.112.1.155"
       }
      ],
      "date": "2026-10-01",
-     "modified": "2026-10-01"
+     "modified": "2026-10-02"
     },
     {
      "id": "research-ethics",
@@ -1007,16 +1003,16 @@
      ],
      "sources": [
       {
-       "text": "Nagai, H., Nakazawa, E., & Akabayashi, A. (2022). The creation of the Belmont Report and its effect on ethical principles: a historical study. Monash Bioethics Review, 40(2), 157-170.",
-       "url": "https://doi.org/10.1007/s40592-022-00165-5"
+       "text": "National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research (1979). The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research. U.S. Department of Health, Education, and Welfare.",
+       "url": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html"
       },
       {
-       "text": "Adashi, E. Y., Walters, L. B., & Menikoff, J. (2018). The Belmont Report at 40: Reckoning With Time. American Journal of Public Health, 108(10), 1345-1348.",
-       "url": "https://doi.org/10.2105/AJPH.2018.304580"
+       "text": "Nagai, H., Nakazawa, E., & Akabayashi, A. (2022). The creation of the Belmont Report and its effect on ethical principles: a historical study. Monash Bioethics Review, 40(2), 157-170.",
+       "url": "https://doi.org/10.1007/s40592-022-00165-5"
       }
      ],
      "date": "2026-10-01",
-     "modified": "2026-10-01"
+     "modified": "2026-10-02"
     }
    ],
    "plan": [
