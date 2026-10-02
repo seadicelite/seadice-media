@@ -16,6 +16,8 @@ COURSE = json.loads((ROOT / "media/shinri-course.json").read_text())
 # サイト全体の更新日 = 最新レッスンの日付（レッスンごとの日付は lesson["date"]）
 UPDATED = max([l.get("date", "2026-10-01") for c in COURSE["chapters"] for l in c["lessons"]] + [CFG.get("updated", "2026-10-01")])
 TERMS = json.loads((ROOT / "media/shinri-glossary.json").read_text())
+_gp = ROOT / "media/shinri-guides.json"
+GUIDES = json.loads(_gp.read_text()) if _gp.exists() else []  # 独学Q&A(kind=qa)と分野入門(kind=field)
 NAME, URL = CFG["name"], CFG["url"]
 OUT = ROOT / CFG["path"]
 PUBLISHER = {"@type": "Organization", "name": "SEADICE", "url": "https://seadice.win"}
@@ -180,6 +182,16 @@ def check():
             for e in l.get("examples", []):
                 if e["slug"] not in ARTICLES: errs.append(f'{tag} examplesの記事slugが存在しない: {e["slug"]}')
             if "{{" in json.dumps(l, ensure_ascii=False): errs.append(f"{tag} プレースホルダが残っている")
+    gids = set()
+    for g in GUIDES:
+        tag = f'guide {g.get("id")}'
+        if g["id"] in gids: errs.append(f"{tag} id重複")
+        gids.add(g["id"])
+        if g.get("kind") not in ("qa", "field"): errs.append(f"{tag} kindはqaかfield")
+        for k in ("title", "lead", "sections", "sources", "date"):
+            if not g.get(k): errs.append(f"{tag} {k}が空")
+        if sum(len(x) for sec in g.get("sections", []) for x in sec["paras"]) < 800: errs.append(f"{tag} 本文800字未満")
+        if g.get("kind") == "field" and not g.get("chapters"): errs.append(f"{tag} 分野ページにchaptersが無い")
     for t in TERMS:
         if t.get("detail") and not rich(t): errs.append(f'用語 {t["id"]} は detail があるが、個別ページの条件（detail400字以上・sources・faq）を満たしていない')
         if "とは" not in t["def"].split("。")[0]: errs.append(f'用語 {t["id"]} の定義の1文目が「〇〇とは」になっていない')
@@ -408,6 +420,7 @@ def guide():
 {fr("感情・表情の研究", "表情やしぐさに、感情がどう表れるか", '<a href="/glossary/#duchenne-smile">デュシェンヌ・スマイル</a>')}
 {fr("臨床心理学", "心の不調の理解と支援", f'診断や治療は専門家の領域です。{E(NAME)}では、<a href="/glossary/#gaslighting">ガスライティング</a>のように、身を守るための知識に限って扱います。')}
 </tbody></table>
+{guide_lists()}
 <h2><span class="n">04</span>よくある質問</h2>
 {faq_html(gfaq)}'''
     graph = [
@@ -421,6 +434,46 @@ def guide():
     return write("guide/", f"心理学を無料で学べるおすすめサイトと、初心者が学ぶ順番【2026年版】| {NAME}",
                  f"心理学を無料で独学できるおすすめサイト（{NAME}の無料講座、日本心理学会の講義動画、Asuka Academy、J-STAGE、OpenStax）と、初心者が挫折しない学ぶ順番をまとめました。",
                  body, graph, trail=[("心理学の学び方", url)], current="/guide/")
+
+
+def guide_page(g):
+    url = f'{URL}guide/{g["id"]}/'
+    chs = [c for c in COURSE["chapters"] if c["no"] in g.get("chapters", [])]
+    secs = "".join(f'<h2><span class="n">{i+1:02d}</span>{E(x["h"])}</h2><p class="answer">{E(x["answer"])}</p>' + "".join(f"<p>{E(p)}</p>" for p in x["paras"]) for i, x in enumerate(g["sections"]))
+    course = ""
+    if chs:
+        course = (f'<h2><span class="n">COURSE</span>講座で学ぶ</h2><p class="answer">無料講座「{E(COURSE["title"])}」の次の章で、順番に学べます。</p><div class="grid">'
+                  + "".join(f'<div class="card"><small>第{c["no"]}章</small><b>{E(c["title"])}</b><ol class="lessons">' + "".join(f'<li><a href="/course/{l["id"]}/"><span class="no">{c["no"]}-{i+1}</span>{E(l["short"])}</a></li>' for i, l in enumerate(c["lessons"])) + "</ol></div>" for c in chs) + "</div>")
+    kt = [t for t in TERMS if t["id"] in g.get("terms", [])]
+    terms = ('<h2><span class="n">KEYWORDS</span>関連する用語</h2><div class="chips">' + "".join(f'<a href="/glossary/{t["id"]}/">{E(t["term"])}</a>' if rich(t) else f'<a href="/glossary/#{t["id"]}">{E(t["term"])}</a>' for t in kt) + "</div>") if kt else ""
+    faq = [(q["q"], q["a"]) for q in g.get("faq", [])]
+    kicker = "心理学の分野" if g["kind"] == "field" else "心理学の独学Q&A"
+    body = f'''<span class="kicker">{kicker}</span>
+<h1>{E(g["title"])}</h1>
+<p class="updated">更新日 {g.get("date", UPDATED)}</p>
+<p class="lead">{E(g["lead"])}</p>
+{secs}{course}{terms}
+{f'<h2><span class="n">FAQ</span>よくある質問</h2>{faq_html(faq)}' if faq else ""}
+<div class="src"><h2>出典</h2><ol>{"".join(f'<li><a href="{x["url"]}" target="_blank" rel="noopener">{E(x["text"])}</a></li>' for x in g["sources"])}</ol></div>
+<div class="box key" style="margin-top:28px"><p class="bt">次に読む</p><p style="margin:0"><a href="/guide/">心理学の学び方（おすすめサイトと学ぶ順番）</a> ・ <a href="/course/">無料講座の目次</a> ・ <a href="/glossary/">心理学用語辞典</a></p></div>'''
+    graph = [{"@type": "Article", "headline": g["title"], "description": g["lead"], "url": url, "inLanguage": "ja",
+              "datePublished": g.get("date", UPDATED), "dateModified": g.get("modified", g.get("date", UPDATED)), "mainEntityOfPage": {"@type": "WebPage", "@id": url},
+              "author": {"@type": "Organization", "name": f"{NAME}編集部"}, "publisher": PUBLISHER, "citation": [x["url"] for x in g["sources"]]}]
+    if faq:
+        graph.append(faq_ld(faq))
+    return write(f'guide/{g["id"]}/', f'{g["title"]} | {NAME}', g["lead"][:120], body, graph,
+                 trail=[("心理学の学び方", f"{URL}guide/"), (g["title"], url)], current="/guide/")
+
+
+def guide_lists():
+    out = ""
+    for kind, h, a in (("qa", "心理学の独学Q&A", "心理学を独学するときによくある疑問に、1ページずつ答えています。"),
+                       ("field", "分野別の入門", "心理学の主な分野ごとに、何がわかる分野か、講座のどの章で学べるかをまとめています。")):
+        gs = [g for g in GUIDES if g["kind"] == kind]
+        if gs:
+            out += f'<h2 id="{kind}"><span class="n">{"QA" if kind == "qa" else "FIELDS"}</span>{h}</h2><p class="answer">{a}</p><div class="grid">' + "".join(
+                f'<a class="card" href="/guide/{g["id"]}/"><b>{E(g["title"])}</b><span>{E(g["lead"][:70])}…</span></a>' for g in gs) + "</div>"
+    return out
 
 
 # ---------------- トップ ----------------
@@ -523,7 +576,7 @@ if __name__ == "__main__":
     for ci, ch in enumerate(COURSE["chapters"]):
         for li in range(len(ch["lessons"])):
             urls.append(lesson(ci, li))
-    urls += [guide(), glossary()] + [term_page(t) for t in TERMS if rich(t)]
+    urls += [guide(), glossary()] + [term_page(t) for t in TERMS if rich(t)] + [guide_page(g) for g in GUIDES]
     urls += trust_pages()
     extras(urls)
     print(f"built {CFG['path']} ({N_LESSONS} lessons, {len(TERMS)} terms, {len(urls)} pages)")
