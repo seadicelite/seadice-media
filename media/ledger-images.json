@@ -249,5 +249,57 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:ZNAP_Kreditkartenetui_mit_Geldklammer_und_M%C3%BCnzfach_(Slimpuro)_01.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "points-reward-overspending": {
+  "file": "File:Cup of coffee surrounded by beans.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cup_of_coffee_surrounded_by_beans.jpg/960px-Cup_of_coffee_surrounded_by_beans.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cup_of_coffee_surrounded_by_beans.jpg/500px-Cup_of_coffee_surrounded_by_beans.jpg",
+  "w": 960,
+  "h": 679,
+  "alt": "A cup of coffee surrounded by coffee beans",
+  "artist": "Zacharias Korsalka from Vienna, Austria",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Cup_of_coffee_surrounded_by_beans.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "money-worry-scarcity-bandwidth": {
+  "file": "File:Empty tank empty wallet.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Empty_tank_empty_wallet.jpg/960px-Empty_tank_empty_wallet.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Empty_tank_empty_wallet.jpg/500px-Empty_tank_empty_wallet.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "empty tank empty wallet",
+  "artist": "BigBruiser",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Empty_tank_empty_wallet.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "gacha-loot-box-spending": {
+  "file": "File:Capsule toy machine 20211229 142535.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Capsule_toy_machine_20211229_142535.jpg/960px-Capsule_toy_machine_20211229_142535.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Capsule_toy_machine_20211229_142535.jpg/500px-Capsule_toy_machine_20211229_142535.jpg",
+  "w": 960,
+  "h": 541,
+  "alt": "Capsule toy machines in Chiba prefecture, Japan.",
+  "artist": "Ka23 13",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Capsule_toy_machine_20211229_142535.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "materialism-wellbeing-research": {
+  "file": "File:Empty shopping carts lined up in a grocery store waiting for customers to begin their shopping tasks.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Empty_shopping_carts_lined_up_in_a_grocery_store_waiting_for_customers_to_begin_their_shopping_tasks.jpg/960px-Empty_shopping_carts_lined_up_in_a_grocery_store_waiting_for_customers_to_begin_their_shopping_tasks.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Empty_shopping_carts_lined_up_in_a_grocery_store_waiting_for_customers_to_begin_their_shopping_tasks.jpg/500px-Empty_shopping_carts_lined_up_in_a_grocery_store_waiting_for_customers_to_begin_their_shopping_tasks.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "A row of empty shopping carts is neatly arranged in a grocery store. The carts feature a locking mechanism and display a numerical keypad, r",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Empty_shopping_carts_lined_up_in_a_grocery_store_waiting_for_customers_to_begin_their_shopping_tasks.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
