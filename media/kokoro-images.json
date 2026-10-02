@@ -349,5 +349,31 @@
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Morning_Breakfast_Lake_Andes_National_Wildlife_Refuge_South_Dakota_(54119305650).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ai-writing-not-mine": {
+  "file": "File:Writing with a fountain pen (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Writing_with_a_fountain_pen_%28Unsplash%29.jpg/960px-Writing_with_a_fountain_pen_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Writing_with_a_fountain_pen_%28Unsplash%29.jpg/500px-Writing_with_a_fountain_pen_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 721,
+  "alt": "万年筆で紙に文字を書くところ",
+  "artist": "Aaron Burden aaronburden",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Writing_with_a_fountain_pen_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "sns-appearance-comparison": {
+  "file": "File:Balthasar van der Ast - Vase of Flowers by a Window - WGA01048.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Balthasar_van_der_Ast_-_Vase_of_Flowers_by_a_Window_-_WGA01048.jpg/960px-Balthasar_van_der_Ast_-_Vase_of_Flowers_by_a_Window_-_WGA01048.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Balthasar_van_der_Ast_-_Vase_of_Flowers_by_a_Window_-_WGA01048.jpg/500px-Balthasar_van_der_Ast_-_Vase_of_Flowers_by_a_Window_-_WGA01048.jpg",
+  "w": 960,
+  "h": 683,
+  "alt": "窓辺に飾られた花瓶の花の絵（17世紀の静物画）",
+  "artist": "Balthasar van der Ast",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Balthasar_van_der_Ast_-_Vase_of_Flowers_by_a_Window_-_WGA01048.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
