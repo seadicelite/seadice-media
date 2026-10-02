@@ -141,5 +141,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Minimalistic_workspace_with_tablet.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "inflated-praise-self-esteem": {
+  "file": "File:Child drawing age 3 crayon on paper.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Child_drawing_age_3_crayon_on_paper.jpg/960px-Child_drawing_age_3_crayon_on_paper.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Child_drawing_age_3_crayon_on_paper.jpg/500px-Child_drawing_age_3_crayon_on_paper.jpg",
+  "w": 960,
+  "h": 679,
+  "alt": "A childs drawing, crayon on paper, child was 3 years old",
+  "artist": "My daughter Teresa",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Child_drawing_age_3_crayon_on_paper.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
