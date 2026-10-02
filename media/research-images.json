@@ -480,5 +480,44 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Fountain_pen_writing_(literacy)_(cropped).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "alcohol-before-bed-sleep": {
+  "file": "File:Wine Night (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wine_Night_%28Unsplash%29.jpg/960px-Wine_Night_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wine_Night_%28Unsplash%29.jpg/500px-Wine_Night_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Chris Montgomery 2017",
+  "artist": "Chris Montgomery cwmonty",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Wine_Night_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "slow-breathing-stress-research": {
+  "file": "File:A Calm Rainy Morning in Late Autumn at Browne Lake Provincial Park.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/A_Calm_Rainy_Morning_in_Late_Autumn_at_Browne_Lake_Provincial_Park.JPG/960px-A_Calm_Rainy_Morning_in_Late_Autumn_at_Browne_Lake_Provincial_Park.JPG",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/A_Calm_Rainy_Morning_in_Late_Autumn_at_Browne_Lake_Provincial_Park.JPG/500px-A_Calm_Rainy_Morning_in_Late_Autumn_at_Browne_Lake_Provincial_Park.JPG",
+  "w": 960,
+  "h": 720,
+  "alt": "A Calm Rainy Morning in Late Autumn at Browne Lake Provincial Park",
+  "artist": "Extemporalist",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:A_Calm_Rainy_Morning_in_Late_Autumn_at_Browne_Lake_Provincial_Park.JPG",
+  "source_label": "Wikimedia Commons"
+ },
+ "crying-mood-relief-research": {
+  "file": "File:Four versions of a floodlight through rain on a window.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Four_versions_of_a_floodlight_through_rain_on_a_window.jpg/960px-Four_versions_of_a_floodlight_through_rain_on_a_window.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Four_versions_of_a_floodlight_through_rain_on_a_window.jpg/500px-Four_versions_of_a_floodlight_through_rain_on_a_window.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "A composition of four photos of a halogen floodlight far away as seen through heavy rain hammering on and pouring down a double-glazed windo",
+  "artist": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Four_versions_of_a_floodlight_through_rain_on_a_window.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
