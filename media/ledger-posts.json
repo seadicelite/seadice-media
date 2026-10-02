@@ -1,5 +1,21 @@
 [
   {
+    "slug": "payment-reminders-attention",
+    "category": "家計管理",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "お知らせやリマインダーで、お金の失敗は減るのか。「注意」の研究",
+    "summary": "支払いリマインダーで延滞手数料は14%減ったが、残高不足の手数料が9%増える副作用もあった。注意を向ける先は一度に一つになりがち。"
+  },
+  {
+    "slug": "salary-comparison-satisfaction",
+    "category": "お金と幸福度",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "同僚の給料を知ると、満足度は下がるのか。収入の「順位」と幸福感の研究",
+    "summary": "同僚の給料を知ると、平均より低い人だけ満足度が下がり、高い人の満足度は上がらなかった。幸福感は収入の額より「順位」と結びついていた。"
+  },
+  {
     "slug": "financial-education-effect",
     "category": "家計管理",
     "type": "guide",

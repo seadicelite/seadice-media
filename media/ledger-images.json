@@ -496,5 +496,31 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:IBM_Thinkpad_R51.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "salary-comparison-satisfaction": {
+  "file": "File:Inbox trays.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Inbox_trays.jpg/960px-Inbox_trays.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Inbox_trays.jpg/500px-Inbox_trays.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Three filled inbox trays",
+  "artist": "Khairil Yusof",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Inbox_trays.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "payment-reminders-attention": {
+  "file": "File:Blackview A60 Smartphone Android mobile phone and folio case.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg/960px-Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg/500px-Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Blackview A60 Andoid Go mobile phone smartphone cell phone in a dedicated folio case cover with magnetic clip.Mobile device view: Wikimedia ",
+  "artist": "Acabashi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
