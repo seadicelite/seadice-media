@@ -323,5 +323,31 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Mug_of_Coffee_on_a_Wooden_Table_(26804116318).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "video-meeting-fatigue": {
+  "file": "File:Laptop and lamp on table (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Laptop_and_lamp_on_table_%28Unsplash%29.jpg/960px-Laptop_and_lamp_on_table_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Laptop_and_lamp_on_table_%28Unsplash%29.jpg/500px-Laptop_and_lamp_on_table_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "窓辺の机に置かれたノートパソコンとライト",
+  "artist": "Tatiana Lapina veila",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Laptop_and_lamp_on_table_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "bad-news-scrolling": {
+  "file": "File:Morning Breakfast Lake Andes National Wildlife Refuge South Dakota (54119305650).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Morning_Breakfast_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854119305650%29.jpg/960px-Morning_Breakfast_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854119305650%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Morning_Breakfast_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854119305650%29.jpg/500px-Morning_Breakfast_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854119305650%29.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "朝もやの湖を泳ぐ水鳥",
+  "artist": "USFWS Mountain Prairie",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Morning_Breakfast_Lake_Andes_National_Wildlife_Refuge_South_Dakota_(54119305650).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
