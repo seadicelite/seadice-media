@@ -1,5 +1,29 @@
 [
  {
+  "slug": "ai-chatbot-conversations-children-risk",
+  "category": "安全・プライバシー",
+  "type": "guide",
+  "date": "2026-10-02",
+  "title": "子どもがAIチャットで何を話しているか知っていますか？研究でわかった使われ方とリスク",
+  "summary": "子どものAIチャット利用は宿題中心ですが、年齢が低いほど暴力的・性的な内容も一定割合あるとわかりました。"
+ },
+ {
+  "slug": "parental-expectations-pressure-children-motivation",
+  "category": "AI時代の進路・将来",
+  "type": "guide",
+  "date": "2026-10-02",
+  "title": "子どもに期待をかけすぎると逆効果？将来への意欲とプレッシャーの研究",
+  "summary": "親の期待を感じ取ることは子どもの意欲と関連する一方、先回りした関わりは学業の燃え尽きと関連していました。"
+ },
+ {
+  "slug": "sibling-comparison-self-esteem",
+  "category": "心と親子関係",
+  "type": "guide",
+  "date": "2026-10-02",
+  "title": "きょうだいを比較すると自己肯定感は下がる？研究でわかっていること",
+  "summary": "きょうだいへの差をつけた関わりは、自己肯定感の低下やきょうだい関係の悪化と関連があるとわかっています。"
+ },
+ {
   "slug": "location-tracking-app-trust",
   "category": "安全・プライバシー",
   "type": "guide",
