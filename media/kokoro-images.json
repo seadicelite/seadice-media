@@ -141,5 +141,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Comet_Tsuchinshan%E2%80%93ATLAS,_in_the_night_sky_over_Tuntorp_3.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "remote-work-loneliness": {
+  "file": "File:Porcelain teapot on windowsill (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Porcelain_teapot_on_windowsill_%28Unsplash%29.jpg/960px-Porcelain_teapot_on_windowsill_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Porcelain_teapot_on_windowsill_%28Unsplash%29.jpg/500px-Porcelain_teapot_on_windowsill_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 612,
+  "alt": "Smith Orr Homestead, Orrville, United States",
+  "artist": "Nathan Fertig nathanfertig",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Porcelain_teapot_on_windowsill_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
