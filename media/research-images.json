@@ -558,5 +558,31 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:W%C3%BCrfelzucker_--_2018_--_3564.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "chewing-gum-focus-research": {
+  "file": "File:Chewing Gum on Berlin Wall (3).JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Chewing_Gum_on_Berlin_Wall_%283%29.JPG/960px-Chewing_Gum_on_Berlin_Wall_%283%29.JPG",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Chewing_Gum_on_Berlin_Wall_%283%29.JPG/500px-Chewing_Gum_on_Berlin_Wall_%283%29.JPG",
+  "w": 960,
+  "h": 640,
+  "alt": "Pattern on the stucked Chewing Gum on Berlin Wall.",
+  "artist": "Nasir Khan Saikat",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chewing_Gum_on_Berlin_Wall_(3).JPG",
+  "source_label": "Wikimedia Commons"
+ },
+ "daily-steps-how-many-research": {
+  "file": "File:Niepołomickie Błonia Park, walking path, Niepołomice, Poland.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Niepo%C5%82omickie_B%C5%82onia_Park%2C_walking_path%2C_Niepo%C5%82omice%2C_Poland.jpg/960px-Niepo%C5%82omickie_B%C5%82onia_Park%2C_walking_path%2C_Niepo%C5%82omice%2C_Poland.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Niepo%C5%82omickie_B%C5%82onia_Park%2C_walking_path%2C_Niepo%C5%82omice%2C_Poland.jpg/500px-Niepo%C5%82omickie_B%C5%82onia_Park%2C_walking_path%2C_Niepo%C5%82omice%2C_Poland.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "Niepołomickie Błonia Park, walking path, Niepołomice, Poland",
+  "artist": "Igor123121",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Niepo%C5%82omickie_B%C5%82onia_Park,_walking_path,_Niepo%C5%82omice,_Poland.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
