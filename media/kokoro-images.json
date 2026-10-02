@@ -258,5 +258,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:Tea_for_two.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "screen-work-breaks": {
+  "file": "File:Desk of a Police sergeant in Munich, Germany.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Desk_of_a_Police_sergeant_in_Munich%2C_Germany.jpg/960px-Desk_of_a_Police_sergeant_in_Munich%2C_Germany.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Desk_of_a_Police_sergeant_in_Munich%2C_Germany.jpg/500px-Desk_of_a_Police_sergeant_in_Munich%2C_Germany.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Desk of a Police sergeant in Munich, Germany",
+  "artist": "User:Mattes",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk_of_a_Police_sergeant_in_Munich,_Germany.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
