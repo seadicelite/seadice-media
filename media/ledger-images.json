@@ -418,5 +418,44 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Verpackung_(34).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "installment-bnpl-spending": {
+  "file": "File:Desk calendar 2022 July 11 - 03-53PM.jpeg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Desk_calendar_2022_July_11_-_03-53PM.jpeg/960px-Desk_calendar_2022_July_11_-_03-53PM.jpeg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Desk_calendar_2022_July_11_-_03-53PM.jpeg/500px-Desk_calendar_2022_July_11_-_03-53PM.jpeg",
+  "w": 960,
+  "h": 720,
+  "alt": "Calendar (カレンダー)",
+  "artist": "Nesnad",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk_calendar_2022_July_11_-_03-53PM.jpeg",
+  "source_label": "Wikimedia Commons"
+ },
+ "self-reward-licensing": {
+  "file": "File:Piece of chocolate cake on a white plate decorated with chocolate sauce.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg/960px-Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg/500px-Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg",
+  "w": 960,
+  "h": 653,
+  "alt": "Piece of chocolate cake, sprinkled with cocoa powder, on a white plate decorated with chocolate sauce.",
+  "artist": "Daria YakovlevaMinor edits made by Subsidiary account",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "coupon-transaction-utility": {
+  "file": "File:Aisle in L Intermarche supermarket in Quebec City.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aisle_in_L_Intermarche_supermarket_in_Quebec_City.jpg/960px-Aisle_in_L_Intermarche_supermarket_in_Quebec_City.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aisle_in_L_Intermarche_supermarket_in_Quebec_City.jpg/500px-Aisle_in_L_Intermarche_supermarket_in_Quebec_City.jpg",
+  "w": 960,
+  "h": 596,
+  "alt": "An aisle of the Intermarché supermarket, jars and bottles of preserves on the shelves to the left and the refrigerated cases of cured meat a",
+  "artist": "Wilfredor",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Aisle_in_L_Intermarche_supermarket_in_Quebec_City.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
