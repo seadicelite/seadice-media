@@ -492,5 +492,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:A_Calm_Rainy_Morning_in_Late_Autumn_at_Browne_Lake_Provincial_Park.JPG",
   "source_label": "Wikimedia Commons"
+ },
+ "rest-guilt": {
+  "file": "File:Contre-jour photograph of a wooden hut behind a tree with a hammock at sunrise in Si Phan Don Laos.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Contre-jour_photograph_of_a_wooden_hut_behind_a_tree_with_a_hammock_at_sunrise_in_Si_Phan_Don_Laos.jpg/960px-Contre-jour_photograph_of_a_wooden_hut_behind_a_tree_with_a_hammock_at_sunrise_in_Si_Phan_Don_Laos.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Contre-jour_photograph_of_a_wooden_hut_behind_a_tree_with_a_hammock_at_sunrise_in_Si_Phan_Don_Laos.jpg/500px-Contre-jour_photograph_of_a_wooden_hut_behind_a_tree_with_a_hammock_at_sunrise_in_Si_Phan_Don_Laos.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "朝日の中の木とハンモックのある小屋",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Contre-jour_photograph_of_a_wooden_hut_behind_a_tree_with_a_hammock_at_sunrise_in_Si_Phan_Don_Laos.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
