@@ -167,5 +167,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Broken_Crayons_(221013349).jpeg",
   "source_label": "Wikimedia Commons"
+ },
+ "location-tracking-app-trust": {
+  "file": "File:It is my LIFE (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/It_is_my_LIFE_%28Unsplash%29.jpg/960px-It_is_my_LIFE_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/It_is_my_LIFE_%28Unsplash%29.jpg/500px-It_is_my_LIFE_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 599,
+  "alt": "Dresden, Germany",
+  "artist": "Igor Miske igorm",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:It_is_my_LIFE_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
