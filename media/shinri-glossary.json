@@ -1,5 +1,21 @@
 [
  {
+  "id": "source-credibility-effect",
+  "term": "情報源の信頼性効果",
+  "en": "Source credibility effect",
+  "field": "社会心理学",
+  "def": "情報源の信頼性効果とは、信頼できる人物や機関からのメッセージほど、説得の効果が高くなる傾向のことです。ただし、この効果は時間とともに小さくなっていくことが研究で示されています。",
+  "slug": ""
+ },
+ {
+  "id": "illusory-truth-effect",
+  "term": "真実性効果",
+  "en": "Illusory truth effect",
+  "field": "社会心理学",
+  "def": "真実性効果とは、同じ情報に繰り返し接するほど、その情報を真実だと感じやすくなる現象のことです。",
+  "slug": ""
+ },
+ {
   "id": "interpersonal-attraction",
   "term": "対人魅力",
   "en": "Interpersonal attraction",
