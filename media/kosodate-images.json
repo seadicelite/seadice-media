@@ -310,5 +310,31 @@
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Children_playing_soccer.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "no-career-dream-elementary-school": {
+  "file": "File:Box of crayons IMG 0009.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Box_of_crayons_IMG_0009.jpg/960px-Box_of_crayons_IMG_0009.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Box_of_crayons_IMG_0009.jpg/500px-Box_of_crayons_IMG_0009.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Box of crayons",
+  "artist": "Collin Anderson",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Box_of_crayons_IMG_0009.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "big-fish-little-pond-effect-class-rank": {
+  "file": "File:Public bookcase Großrinderfeld (Großrinderfeld).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Public_bookcase_Gro%C3%9Frinderfeld_%28Gro%C3%9Frinderfeld%29.jpg/960px-Public_bookcase_Gro%C3%9Frinderfeld_%28Gro%C3%9Frinderfeld%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Public_bookcase_Gro%C3%9Frinderfeld_%28Gro%C3%9Frinderfeld%29.jpg/500px-Public_bookcase_Gro%C3%9Frinderfeld_%28Gro%C3%9Frinderfeld%29.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Öffentlicher Bücherschrank Großrinderfeld (Großrinderfeld)",
+  "artist": "Triplec85",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Public_bookcase_Gro%C3%9Frinderfeld_(Gro%C3%9Frinderfeld).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
