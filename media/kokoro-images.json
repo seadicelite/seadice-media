@@ -11,5 +11,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:DFC_2281_Two_small_potted_cacti_with_rounded_clustered_forms_sit_side_by_side_on_a_windowsill_a_calm_seaside_view_blurred_in_the_background.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "chatgpt-thinking-ability": {
+  "file": "File:A notebook.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/960px-A_notebook.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/500px-A_notebook.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "A notebook with a pencil on a probable wooden table",
+  "artist": "Jan Kahánek",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:A_notebook.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

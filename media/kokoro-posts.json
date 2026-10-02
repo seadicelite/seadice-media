@@ -1,5 +1,13 @@
 [
  {
+  "slug": "chatgpt-thinking-ability",
+  "category": "考える力・集中",
+  "type": "guide",
+  "date": "2026-10-02",
+  "title": "ChatGPTを使うと考える力が落ちる？差が出たのは「頼り方」だった",
+  "summary": "答えを丸ごと任せるとAIなしの成績が下がり、ヒントに使う形では下がりませんでした。頼り方の工夫を紹介します。"
+ },
+ {
   "slug": "ai-job-loss-anxiety",
   "category": "仕事とAIの不安",
   "type": "guide",
