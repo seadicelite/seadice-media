@@ -414,5 +414,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:Private_20081125_007.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "phone-memory-forgetful": {
+  "file": "File:Woman studies at a desk with a laptop notebook and drink in a bright room.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg/960px-Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg/500px-Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "ノートに書き込みながら机で作業する人の手元",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
