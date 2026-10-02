@@ -1,5 +1,21 @@
 [
  {
+  "slug": "ai-companion-loneliness",
+  "category": "心と親子関係",
+  "type": "guide",
+  "date": "2026-10-02",
+  "title": "子どもがAIを友達みたいに話し相手にしている。依存や孤独は心配ない？",
+  "summary": "子ども対象の研究はまだ少なく、孤独が和らぐ報告も深まる懸念も両方あるのが実情です。"
+ },
+ {
+  "slug": "bedtime-screen-sleep",
+  "category": "スマホ・スクリーンタイム",
+  "type": "guide",
+  "date": "2026-10-02",
+  "title": "寝る前のスマホ・動画は子どもの睡眠にどう影響する？研究でわかっていること",
+  "summary": "就寝前のスクリーン利用は睡眠時間を縮め、寝つきを遅らせる関連が複数の研究で確認されています。"
+ },
+ {
   "slug": "kids-screen-time-hours",
   "category": "スマホ・スクリーンタイム",
   "type": "guide",
