@@ -61,7 +61,8 @@
   - 8-3 長期記憶の種類。意味記憶・エピソード記憶・手続き記憶: https://shinri.seadice.win/course/long-term-memory-types-semantic-episodic-procedural/
   - 8-4 忘却はなぜ起こるか。エビングハウスの忘却曲線: https://shinri.seadice.win/course/forgetting-ebbinghaus-curve/
   - 8-5 記憶はどのように歪むか。目撃証言と誤情報効果: https://shinri.seadice.win/course/memory-distortion-eyewitness-misinformation-effect/
-- 第9章 発達: 子どもから大人、高齢期までの心の変化。愛着。（準備中）
+- 第9章 発達: 子どもから大人、高齢期までの心の変化。愛着。
+  - 9-1 発達心理学は何を研究する学問か: https://shinri.seadice.win/course/development-sensitive-periods/
 - 第10章 感情と動機づけ: 感情はどこから来るか。やる気の仕組み。（準備中）
 - 第11章 パーソナリティ: 性格はどう測れるか。性格診断との違い。（準備中）
 - 第12章 社会心理学: 好意、説得、同調、偏見。人と人の間で起きること。（準備中）
