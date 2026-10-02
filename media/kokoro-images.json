@@ -440,5 +440,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Smartphone_and_coffee_(Unsplash).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ai-feels-human": {
+  "file": "File:Turn table on windowsill (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Turn_table_on_windowsill_%28Unsplash%29.jpg/960px-Turn_table_on_windowsill_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Turn_table_on_windowsill_%28Unsplash%29.jpg/500px-Turn_table_on_windowsill_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "窓辺に置かれたレコードプレーヤーと花",
+  "artist": "Emma Frances Logan emmafranceslogan",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Turn_table_on_windowsill_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
