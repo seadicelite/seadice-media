@@ -324,5 +324,57 @@
   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
   "page": "https://commons.wikimedia.org/wiki/File:Axenda.JPG",
   "source_label": "Wikimedia Commons"
+ },
+ "bedtime-reading-paper-book-sleep": {
+  "file": "File:Books in stack with lamps (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Books_in_stack_with_lamps_%28Unsplash%29.jpg/960px-Books_in_stack_with_lamps_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Books_in_stack_with_lamps_%28Unsplash%29.jpg/500px-Books_in_stack_with_lamps_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "chuttersnap 2016-12-18",
+  "artist": "chuttersnap chuttersnap",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Books_in_stack_with_lamps_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "multitasking-focus-cost-research": {
+  "file": "File:Coffee-desk-laptop-notebook (24244320481).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coffee-desk-laptop-notebook_%2824244320481%29.jpg/960px-Coffee-desk-laptop-notebook_%2824244320481%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coffee-desk-laptop-notebook_%2824244320481%29.jpg/500px-Coffee-desk-laptop-notebook_%2824244320481%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "coffee-desk-laptop-notebook",
+  "artist": "www.Pixel.la Free Stock Photos",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Coffee-desk-laptop-notebook_(24244320481).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "expressive-writing-mood-research": {
+  "file": "File:Notebook with pen, August, 2019.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Notebook_with_pen%2C_August%2C_2019.jpg/960px-Notebook_with_pen%2C_August%2C_2019.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Notebook_with_pen%2C_August%2C_2019.jpg/500px-Notebook_with_pen%2C_August%2C_2019.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Notebook with pen, August, 2019",
+  "artist": "Phil Slattery",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Notebook_with_pen,_August,_2019.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "if-then-planning-habit-research": {
+  "file": "File:Sticky Notes 2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sticky_Notes_2.jpg/960px-Sticky_Notes_2.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sticky_Notes_2.jpg/500px-Sticky_Notes_2.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "Sticky notes on the wall",
+  "artist": "ProjectManhattan",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sticky_Notes_2.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
