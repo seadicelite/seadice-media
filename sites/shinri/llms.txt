@@ -53,6 +53,7 @@
 - 第7章 思考と知能: 判断のくせ（バイアス）、問題解決、知能。
   - 7-1 思考とは何か。概念と問題解決の仕組み: https://shinri.seadice.win/course/thinking-concepts-and-problem-solving/
   - 7-2 ヒューリスティックとは何か。カーネマンとトヴェルスキーの発見: https://shinri.seadice.win/course/heuristics-kahneman-tversky-discovery/
+  - 7-3 認知バイアスとは何か。判断を誤らせる代表的なバイアス: https://shinri.seadice.win/course/cognitive-biases-that-distort-judgment/
 - 第8章 記憶: 覚える・保つ・思い出す仕組みと、記憶違い。（準備中）
 - 第9章 発達: 子どもから大人、高齢期までの心の変化。愛着。（準備中）
 - 第10章 感情と動機づけ: 感情はどこから来るか。やる気の仕組み。（準備中）
