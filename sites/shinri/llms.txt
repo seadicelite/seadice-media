@@ -64,6 +64,7 @@
 - 第9章 発達: 子どもから大人、高齢期までの心の変化。愛着。
   - 9-1 発達心理学は何を研究する学問か: https://shinri.seadice.win/course/development-sensitive-periods/
   - 9-2 子どもの思考はどう育つのか。ピアジェの発達段階説: https://shinri.seadice.win/course/piaget-cognitive-development-stages/
+  - 9-3 愛着とは何か: https://shinri.seadice.win/course/attachment-theory-bowlby-ainsworth/
 - 第10章 感情と動機づけ: 感情はどこから来るか。やる気の仕組み。（準備中）
 - 第11章 パーソナリティ: 性格はどう測れるか。性格診断との違い。（準備中）
 - 第12章 社会心理学: 好意、説得、同調、偏見。人と人の間で起きること。（準備中）
