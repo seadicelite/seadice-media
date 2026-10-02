@@ -38,6 +38,7 @@
   - 4-2 睡眠にはどんな段階があるのか。レム睡眠とノンレム睡眠とは: https://shinri.seadice.win/course/stages-of-sleep/
   - 4-3 なぜ人は眠るのか。記憶と脳の老廃物から考える: https://shinri.seadice.win/course/why-do-we-sleep/
   - 4-4 夢はなぜ見るのか。夢の内容と感情処理から考える: https://shinri.seadice.win/course/why-do-we-dream/
+  - 4-5 睡眠不足は心と体に何をするのか。慢性的な影響とは: https://shinri.seadice.win/course/effects-of-sleep-deprivation/
 - 第5章 感覚と知覚: 目や耳から入った情報を、脳はどう解釈するか。（準備中）
 - 第6章 学習: 条件づけと、経験から学ぶ仕組み。（準備中）
 - 第7章 思考と知能: 判断のくせ（バイアス）、問題解決、知能。（準備中）
