@@ -427,5 +427,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "sns-likes-checking": {
+  "file": "File:Smartphone and coffee (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Smartphone_and_coffee_%28Unsplash%29.jpg/960px-Smartphone_and_coffee_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Smartphone_and_coffee_%28Unsplash%29.jpg/500px-Smartphone_and_coffee_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のテーブルでスマホを見る人の手元とコーヒー",
+  "artist": "Maliha Mannan maliha",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Smartphone_and_coffee_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
