@@ -1,5 +1,21 @@
 [
   {
+    "slug": "minimalism-wellbeing-research",
+    "category": "お金と幸福度",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "物を減らすと幸せになれるのか。ミニマリズムと「自発的な簡素さ」の研究",
+    "summary": "自分の意思で消費を減らす暮らしは、幸福感の高さと結びついていた。ただし多くは相関の研究で、無理に減らすことを勧めるものではない。"
+  },
+  {
+    "slug": "time-over-money-happiness",
+    "category": "お金と幸福度",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "お金より時間を大切にする人の方が幸せなのか。「時間かお金か」の研究",
+    "summary": "多くの人はお金を選ぶが、時間を選んだ人の方が幸福感が高かった。お金で時間を買った人も、物を買った人より幸せを感じていた。"
+  },
+  {
     "slug": "payment-reminders-attention",
     "category": "家計管理",
     "type": "guide",
