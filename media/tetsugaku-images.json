@@ -418,5 +418,57 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "foucault-panopticon": {
+  "file": "File:Presidio Modelo.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Presidio_Modelo.JPG/960px-Presidio_Modelo.JPG",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Presidio_Modelo.JPG/500px-Presidio_Modelo.JPG",
+  "w": 960,
+  "h": 643,
+  "alt": "The prison \"Presidio Modelo\" on the island Isla de la Juventud (Cuba) where Fidel Castro was held prisoner in 1953. Picture taken by Friman,",
+  "artist": "Friman",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Presidio_Modelo.JPG",
+  "source_label": "Wikimedia Commons"
+ },
+ "searle-chinese-room": {
+  "file": "File:Xuan Brushes for Chinese Brush painting and calligraphy.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Xuan_Brushes_for_Chinese_Brush_painting_and_calligraphy.jpg/960px-Xuan_Brushes_for_Chinese_Brush_painting_and_calligraphy.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Xuan_Brushes_for_Chinese_Brush_painting_and_calligraphy.jpg/500px-Xuan_Brushes_for_Chinese_Brush_painting_and_calligraphy.jpg",
+  "w": 960,
+  "h": 670,
+  "alt": "What is a Xuan Brush?\nBrushes in use at studio of Wang Hui\nXuan brushes (宣笔 Xuān bǐ) are one of the most famous Chinese brush types used for",
+  "artist": "ink stone",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Xuan_Brushes_for_Chinese_Brush_painting_and_calligraphy.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "popper-falsifiability": {
+  "file": "File:Black-necked swan (Cygnus melancoryphus) Santiago.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Black-necked_swan_%28Cygnus_melancoryphus%29_Santiago.jpg/960px-Black-necked_swan_%28Cygnus_melancoryphus%29_Santiago.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Black-necked_swan_%28Cygnus_melancoryphus%29_Santiago.jpg/500px-Black-necked_swan_%28Cygnus_melancoryphus%29_Santiago.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Black-necked swan (Cygnus melancoryphus), Parque Bicentenario, Santiago, Chile",
+  "artist": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Black-necked_swan_(Cygnus_melancoryphus)_Santiago.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "kuhn-paradigm-shift": {
+  "file": "File:In Claudii Ptolemaei Geographiacae Enarrationis Libri octo. MET DP327807.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/In_Claudii_Ptolemaei_Geographiacae_Enarrationis_Libri_octo._MET_DP327807.jpg/960px-In_Claudii_Ptolemaei_Geographiacae_Enarrationis_Libri_octo._MET_DP327807.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/In_Claudii_Ptolemaei_Geographiacae_Enarrationis_Libri_octo._MET_DP327807.jpg/500px-In_Claudii_Ptolemaei_Geographiacae_Enarrationis_Libri_octo._MET_DP327807.jpg",
+  "w": 960,
+  "h": 721,
+  "alt": "Book; Books",
+  "artist": "Albrecht Dürer",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:In_Claudii_Ptolemaei_Geographiacae_Enarrationis_Libri_octo._MET_DP327807.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
