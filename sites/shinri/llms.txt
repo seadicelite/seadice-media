@@ -42,6 +42,7 @@
 - 第5章 感覚と知覚: 目や耳から入った情報を、脳はどう解釈するか。
   - 5-1 感覚と知覚はどう違うのか。情報が心に届くまでの2段階: https://shinri.seadice.win/course/sensation-vs-perception/
   - 5-2 目はどうやって光を「見る」に変えるのか。視覚のしくみ: https://shinri.seadice.win/course/how-the-eye-sees/
+  - 5-3 バラバラな情報を、脳はどうまとめるのか。知覚の体制化: https://shinri.seadice.win/course/gestalt-perceptual-organization/
 - 第6章 学習: 条件づけと、経験から学ぶ仕組み。（準備中）
 - 第7章 思考と知能: 判断のくせ（バイアス）、問題解決、知能。（準備中）
 - 第8章 記憶: 覚える・保つ・思い出す仕組みと、記憶違い。（準備中）
