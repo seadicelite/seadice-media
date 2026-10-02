@@ -93,6 +93,7 @@
 - 第14章 ストレスと健康: ストレスの仕組みと、うまく付き合う方法。
   - 14-1 ストレスとは何か。ストレッサーとストレス反応: https://shinri.seadice.win/course/what-is-stress/
   - 14-2 ストレスに体はどう反応するのか。セリエの汎適応症候群: https://shinri.seadice.win/course/general-adaptation-syndrome/
+  - 14-3 ストレスの感じ方はなぜ人によって違うのか。認知的評価とコーピング: https://shinri.seadice.win/course/cognitive-appraisal-and-coping/
 - 第15章 心の不調を理解する: 心の不調はどう理解されているか（診断は専門家の領域）。（準備中）
 - 第16章 心理療法と支援: 認知行動療法など、心の支援の方法。（準備中）
 

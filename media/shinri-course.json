@@ -7644,6 +7644,138 @@
        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1197275/"
       }
      ]
+    },
+    {
+     "id": "cognitive-appraisal-and-coping",
+     "date": "2026-10-02",
+     "title": "ストレスの感じ方はなぜ人によって違うのか。認知的評価とコーピング",
+     "short": "認知的評価とコーピングとは",
+     "description": "ストレスの強さは、出来事そのものではなく、その出来事をどう評価するかによって変わります。ラザルスとフォルクマンの理論から、一次評価・二次評価と、対処行動(コーピング)の種類を確認します。",
+     "goals": [
+      "認知的評価(一次評価・二次評価)とは何かを、ラザルスとフォルクマンの理論にもとづいて説明できる",
+      "一次評価における「脅威」「害」「挑戦」の違いを、具体例とともに説明できる",
+      "問題焦点型コーピングと感情焦点型コーピングの違いを、具体例とともに説明できる"
+     ],
+     "summary": [
+      "認知的評価とは、ストレッサーをどう受け止めるかという、心理的な評価の過程のことです。",
+      "同じ出来事でも、一次評価で「脅威」と感じるか「挑戦」と感じるかによって、体の反応は変わります。",
+      "ストレスへの対処(コーピング)には、問題そのものに働きかける方法と、感情を和らげる方法があります。"
+     ],
+     "sections": [
+      {
+       "h": "同じ出来事でも、ストレスの感じ方は人によって違う",
+       "answer": "ストレスの強さは、出来事そのものではなく、その出来事をどう評価するかによって変わります。",
+       "paras": [
+        "これまでのレッスンでは、ストレッサーに対する体の反応を見てきました。しかし、同じストレッサーを経験しても、人によってストレスの感じ方は大きく異なります。この違いを説明するのが、認知的評価(cognitive appraisal)という考え方です。これは、心理学者ラザルス(Richard Lazarus)とフォルクマン(Susan Folkman)が提唱しました。",
+        "2021年にFrontiers in Psychology誌に、オバリウス(Obbarius)らの論文が発表されました。この論文は、この理論を次のように説明しています。ストレッサーに出会うと、人はまず、そのストレッサーが自分にとってどれほど重要かを評価します。これを一次評価(primary appraisal)と呼びます。",
+        "続いて、人は、そのストレッサーに対処するための自分の資源(能力や支援)がどれだけあるかを評価します。これを二次評価(secondary appraisal)と呼びます。この2つの評価の組み合わせによって、感じるストレスの大きさが決まります。"
+       ]
+      },
+      {
+       "h": "一次評価。その出来事は、脅威か、害か、挑戦か",
+       "answer": "一次評価では、出来事が「脅威」「害」「挑戦」のどれにあたるかが評価されます。",
+       "paras": [
+        "2022年にSupportive Care in Cancer誌に、ポレンバ-ハブロス(Poręba-Chabros)らの論文が発表されました。この論文によると、ラザルスとフォルクマンの理論では、一次評価によって、出来事は3つのいずれかに分類されます。",
+        "1つ目は「害(harm)」です。これは自分や自分の社会的な評価に、すでに損害が生じている状態を指します。2018年にHeart & Lung誌に発表された、アルフラニ(Alhurani)らの論文が、これを「自分や社会的な評価への損害」と説明しています。",
+        "2つ目は「脅威(threat)」で、これからの苦痛が予想される状態です。3つ目は「挑戦(challenge)」です。同じ論文によると、これは「得るものや成長の機会」になる状態を指します。同じ出来事でも、これをどう分類するかは人によって異なります。"
+       ]
+      },
+      {
+       "h": "資源が足りないと感じると、脅威反応が起こる",
+       "answer": "対処する資源が足りないと感じると「脅威」、十分だと感じると「挑戦」として評価され、体の反応も変わります。",
+       "paras": [
+        "出来事を脅威と感じるか、挑戦と感じるかは、何によって決まるのでしょうか。2019年にFrontiers in Psychology誌に、ポーター(Porter)とグールカシアン(Goolkasian)の論文が発表されました。この論文は、この問いを実験で検討しています。",
+        "同論文によると、対処するための資源が、出来事の要求に対して不十分だと感じられたとき、その出来事は脅威として評価されます。反対に、資源が十分だと感じられたときは、挑戦として評価されます。",
+        "さらに同論文は、この評価の違いが、体の反応の違いにもつながることを示しています。脅威と評価されたときは血圧が上がりましたが、挑戦と評価されたときは血圧に変化がありませんでした。同じ出来事でも、評価が違えば、体の反応も違うということです。"
+       ]
+      },
+      {
+       "h": "ストレスへの対処法。問題焦点型コーピングと感情焦点型コーピング",
+       "answer": "コーピングには、問題そのものに働きかける問題焦点型と、感情を和らげる感情焦点型があります。",
+       "paras": [
+        "二次評価のあと、人は実際に、ストレッサーに対処する行動を取ります。この対処行動は、コーピング(coping)と呼ばれます。2020年にFrontiers in Psychology誌に、デ・ラ・フエンテ(de la Fuente)らの論文が発表されました。この論文は、コーピングを大きく2つに分けて説明しています。",
+        "1つ目は、問題焦点型コーピングです。同論文によると、これは「ストレスの原因や、重すぎる要求そのものに働きかける」対処法です。たとえば、締め切りに追われているなら、計画を立て直すといった行動が当てはまります。",
+        "2つ目は、感情焦点型コーピングです。これは「ネガティブな感情の状態を小さくしようとする」対処法です。たとえば、気分転換をしたり、友人に話を聞いてもらったりすることが当てはまります。どちらの対処法を選ぶかも、一次評価・二次評価の結果によって変わってきます。次のレッスンでは、このようなストレスが、体にどのような影響を与えるのかを見ていきます。"
+       ]
+      }
+     ],
+     "terms": [
+      {
+       "ja": "認知的評価",
+       "en": "Cognitive appraisal",
+       "def": "認知的評価とは、ストレッサーをどう受け止めるかという、心理的な評価の過程のことです。一次評価と二次評価からなります。"
+      },
+      {
+       "ja": "一次評価",
+       "en": "Primary appraisal",
+       "def": "一次評価とは、出来事が自分にとって「脅威」「害」「挑戦」のどれにあたるかを評価する、認知的評価の最初の段階のことです。"
+      },
+      {
+       "ja": "二次評価",
+       "en": "Secondary appraisal",
+       "def": "二次評価とは、ストレッサーに対処するための自分の資源がどれだけあるかを評価する、認知的評価の段階のことです。"
+      },
+      {
+       "ja": "コーピング",
+       "en": "Coping",
+       "def": "コーピングとは、ストレッサーに対処するためにとる行動のことです。問題焦点型と感情焦点型に分けられます。"
+      }
+     ],
+     "examples": [],
+     "quiz": [
+      {
+       "q": "ラザルスとフォルクマンの理論で、ストレッサーに対処するための自分の資源を評価する段階を何と呼びますか。",
+       "choices": [
+        "二次評価",
+        "一次評価",
+        "汎適応症候群"
+       ],
+       "a": 0,
+       "exp": "オバリウスらの論文によると、ストレッサーに対処するための資源を評価する段階は、二次評価と呼ばれます。出来事の重要性を評価する一次評価とは異なります。"
+      },
+      {
+       "q": "ポレンバ-ハブロスらの論文で、一次評価における3つの分類に含まれないものはどれですか。",
+       "choices": [
+        "回避",
+        "脅威",
+        "挑戦"
+       ],
+       "a": 0,
+       "exp": "一次評価における3つの分類は、害・脅威・挑戦です。回避は含まれません。"
+      },
+      {
+       "q": "ポーターとグールカシアンの実験によると、出来事が「脅威」と評価されたときに起こる変化はどれですか。",
+       "choices": [
+        "血圧が上がる",
+        "血圧に変化がない",
+        "必ず問題焦点型コーピングを選ぶ"
+       ],
+       "a": 0,
+       "exp": "同論文によると、資源が不十分だと感じられ、出来事が脅威として評価されたときには、血圧が上がりました。挑戦として評価されたときには、血圧に変化がありませんでした。"
+      }
+     ],
+     "sources": [
+      {
+       "text": "Obbarius, N., Fischer, F., Liegl, G., Obbarius, A., & Rose, M. (2021). A Modified Version of the Transactional Stress Concept According to Lazarus and Folkman Was Confirmed in a Psychosomatic Inpatient Sample. Frontiers in Psychology, 12, 584333.",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7973375"
+      },
+      {
+       "text": "Poręba-Chabros, A., Kolańska-Stronka, M., Mamcarz, P., & Mamcarz, I. (2022). Cognitive Appraisal of the Disease and Stress Level in Lung Cancer Patients. The Mediating Role of Coping Styles. Supportive Care in Cancer, 30(6), 4797-4806.",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9046371"
+      },
+      {
+       "text": "Alhurani, A. S., Dekker, R., Ahmad, M., et al. (2018). Stress, Cognitive Appraisal, Coping, and Event Free Survival in Patients with Heart Failure. Heart & Lung, 47(3), 205-210.",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5924439"
+      },
+      {
+       "text": "Porter, A. M., & Goolkasian, P. (2019). Video Games and Stress: How Stress Appraisals and Game Content Affect Cardiovascular and Emotion Outcomes. Frontiers in Psychology, 10, 967.",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6524699/"
+      },
+      {
+       "text": "de la Fuente, J., Amate, J., González-Torres, M. C., Artuch, R., García-Torrecillas, J. M., & Fadda, S. (2020). Effects of Levels of Self-Regulation and Regulatory Teaching on Strategies for Coping With Academic Stress in Undergraduate Students. Frontiers in Psychology, 11, 22.",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7005059/"
+      }
+     ]
     }
    ],
    "claimedAt": "2026-10-02T10:22:02Z",
