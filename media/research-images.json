@@ -376,5 +376,70 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:Sticky_Notes_2.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "testing-effect-retrieval-practice": {
+  "file": "File:Studying for a Biochemistry exam - Flickr - brewbooks.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Studying_for_a_Biochemistry_exam_-_Flickr_-_brewbooks.jpg/960px-Studying_for_a_Biochemistry_exam_-_Flickr_-_brewbooks.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Studying_for_a_Biochemistry_exam_-_Flickr_-_brewbooks.jpg/500px-Studying_for_a_Biochemistry_exam_-_Flickr_-_brewbooks.jpg",
+  "w": 960,
+  "h": 945,
+  "alt": "I haven't been very active on Flickr because school has been my main focus. This is my preparation for an exam in biochemistry. I use an old",
+  "artist": "brewbooks from near Seattle, USA",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Studying_for_a_Biochemistry_exam_-_Flickr_-_brewbooks.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "anger-write-and-discard-paper": {
+  "file": "File:Crumpled olive green paper.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Crumpled_olive_green_paper.jpg/960px-Crumpled_olive_green_paper.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Crumpled_olive_green_paper.jpg/500px-Crumpled_olive_green_paper.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "This is a photo of crumpled or wrinkled olive green colored paper.",
+  "artist": "Photos Public Domain",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Crumpled_olive_green_paper.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "aroma-rosemary-focus-research": {
+  "file": "File:P1090247(4x3)-Rosmarinus officinalis (41960388224).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/P1090247%284x3%29-Rosmarinus_officinalis_%2841960388224%29.jpg/960px-P1090247%284x3%29-Rosmarinus_officinalis_%2841960388224%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/P1090247%284x3%29-Rosmarinus_officinalis_%2841960388224%29.jpg/500px-P1090247%284x3%29-Rosmarinus_officinalis_%2841960388224%29.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Romeero (Rosmarinus officinalis). ¡Huele de maravilla!",
+  "artist": "Miguel Angel Masegosa Martínez",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:P1090247(4x3)-Rosmarinus_officinalis_(41960388224).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "sleep-regularity-same-time-research": {
+  "file": "File:Classic alarm clock 20180513.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Classic_alarm_clock_20180513.jpg/960px-Classic_alarm_clock_20180513.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Classic_alarm_clock_20180513.jpg/500px-Classic_alarm_clock_20180513.jpg",
+  "w": 960,
+  "h": 719,
+  "alt": "Classic mechanical alarm clock.",
+  "artist": "Santeri Viinamäki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Classic_alarm_clock_20180513.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "procrastination-genetics-change-research": {
+  "file": "File:Hourglasses.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hourglasses.jpg/960px-Hourglasses.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hourglasses.jpg/500px-Hourglasses.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Hourglasses on a bookshelf. Ones is half yellow tinted, containing yellow sand. The second has grey sand with transparent glass. Modern deco",
+  "artist": "Aaaatu",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hourglasses.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

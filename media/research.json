@@ -25,13 +25,7 @@
   "rulesFrom": ".claude/commands/research.md",
   "relatedApps": "p/released-apps.json から悩みに近いものを選ぶ。無ければ記事のアプリ案のみ",
   "postsPerRun": 1,
-  "topicQueue": [
-    "テスト形式で復習すると記憶に残りやすいのか",
-    "怒りを紙に書いて捨てると気持ちは収まるのか",
-    "香りを嗅ぐと集中力は上がるのか",
-    "毎日同じ時刻に寝ると睡眠の質は上がるのか",
-    "先延ばしぐせは生まれつき決まっているのか"
-  ],
+  "topicQueue": [],
   "concept": "脳科学×悩み解決。睡眠・集中・先延ばし・気分・習慣の悩みを、公開された研究から調べて今日から試せる形にする",
   "tagline": "Curious about your life, scientifically.",
   "lead": "睡眠、集中、先延ばし、気分、習慣、記憶。日常の悩みを公開された研究から調べ、今日から試せる形にします。",
