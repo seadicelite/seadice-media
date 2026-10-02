@@ -522,5 +522,57 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Double_gameboard_-_Game_of_Twenty_and_Senet_Game,_wood_-_Museo_Egizio_(Turin)_S_8451_01_p08.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "mencius-human-nature-good": {
+  "file": "File:Well built old stone bridge - geograph.org.uk - 6879287.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Well_built_old_stone_bridge_-_geograph.org.uk_-_6879287.jpg/960px-Well_built_old_stone_bridge_-_geograph.org.uk_-_6879287.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Well_built_old_stone_bridge_-_geograph.org.uk_-_6879287.jpg/500px-Well_built_old_stone_bridge_-_geograph.org.uk_-_6879287.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Well built old stone bridge",
+  "artist": "don cload",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Well_built_old_stone_bridge_-_geograph.org.uk_-_6879287.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "wang-yangming-knowledge-action": {
+  "file": "File:Bamboo grove (phyllostachys viridiglaucescens) in the Botanical Garden of the University of Vienna in Vienna, Austria-stems PNr°1051.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bamboo_grove_%28phyllostachys_viridiglaucescens%29_in_the_Botanical_Garden_of_the_University_of_Vienna_in_Vienna%2C_Austria-stems_PNr%C2%B01051.jpg/960px-Bamboo_grove_%28phyllostachys_viridiglaucescens%29_in_the_Botanical_Garden_of_the_University_of_Vienna_in_Vienna%2C_Austria-stems_PNr%C2%B01051.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bamboo_grove_%28phyllostachys_viridiglaucescens%29_in_the_Botanical_Garden_of_the_University_of_Vienna_in_Vienna%2C_Austria-stems_PNr%C2%B01051.jpg/500px-Bamboo_grove_%28phyllostachys_viridiglaucescens%29_in_the_Botanical_Garden_of_the_University_of_Vienna_in_Vienna%2C_Austria-stems_PNr%C2%B01051.jpg",
+  "w": 960,
+  "h": 600,
+  "alt": "Bamboo stems of the bamboo grove in the Botanical Garden of the University of Vienna in Vienna, Austria. The bamboo grove consits of the spe",
+  "artist": "D-Kuru",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bamboo_grove_(phyllostachys_viridiglaucescens)_in_the_Botanical_Garden_of_the_University_of_Vienna_in_Vienna,_Austria-stems_PNr%C2%B01051.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "nagarjuna-emptiness": {
+  "file": "File:Sacred Lotus in a Pond 2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sacred_Lotus_in_a_Pond_2.jpg/960px-Sacred_Lotus_in_a_Pond_2.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sacred_Lotus_in_a_Pond_2.jpg/500px-Sacred_Lotus_in_a_Pond_2.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Sacred Lotus in a Pond in Shanghai, China",
+  "artist": "Daftation",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sacred_Lotus_in_a_Pond_2.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "zhuangzi-butterfly-dream": {
+  "file": "File:Old World swallowtail (Papilio machaon gorganus) underside Hungary.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Old_World_swallowtail_%28Papilio_machaon_gorganus%29_underside_Hungary.jpg/960px-Old_World_swallowtail_%28Papilio_machaon_gorganus%29_underside_Hungary.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Old_World_swallowtail_%28Papilio_machaon_gorganus%29_underside_Hungary.jpg/500px-Old_World_swallowtail_%28Papilio_machaon_gorganus%29_underside_Hungary.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Old World swallowtail (Papilio machaon gorganus), near Apaj, Hungary",
+  "artist": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Old_World_swallowtail_(Papilio_machaon_gorganus)_underside_Hungary.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
