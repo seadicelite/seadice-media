@@ -684,5 +684,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Albany_carousel_(1909)_by_Dentzel_Carousel_Company,_at_Albany_Historic_Carousel_and_Museum,_Oregon_(2022-02-05_11.28.16_by_Kirt_Edblom_@_Flickr_51880292496).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "partner-phone-checking-surveillance-research": {
+  "file": "File:Mobile phone spam Vi.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mobile_phone_spam_Vi.jpg/960px-Mobile_phone_spam_Vi.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mobile_phone_spam_Vi.jpg/500px-Mobile_phone_spam_Vi.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Mobile phone spam in Viet Nam",
+  "artist": "Phó Nháy",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Mobile_phone_spam_Vi.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
