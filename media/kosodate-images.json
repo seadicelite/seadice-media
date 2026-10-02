@@ -414,5 +414,18 @@
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:USVI_IMG_5204_-_Minimalist_desk_with_a_wooden_lamp_stand_a_notebook_pencils_in_a_cup_and_a_small_black_device.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "father-involvement-child-development": {
+  "file": "File:Tadoussac - Playground slide.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tadoussac_-_Playground_slide.jpg/960px-Tadoussac_-_Playground_slide.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tadoussac_-_Playground_slide.jpg/500px-Tadoussac_-_Playground_slide.jpg",
+  "w": 960,
+  "h": 636,
+  "alt": "Playground slide - Tadoussac, Quebec",
+  "artist": "Selbymay",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tadoussac_-_Playground_slide.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
