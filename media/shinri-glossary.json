@@ -1,5 +1,21 @@
 [
  {
+  "id": "prosocial-behavior",
+  "term": "向社会的行動",
+  "en": "Prosocial behavior",
+  "field": "社会心理学",
+  "def": "向社会的行動とは、他者の利益になるような自発的な行動のことです。困っている人を助けることや、寄付をすることなどが当てはまります。",
+  "slug": "donation-identifiable-victim"
+ },
+ {
+  "id": "bystander-effect",
+  "term": "傍観者効果",
+  "en": "Bystander effect",
+  "field": "社会心理学",
+  "def": "傍観者効果とは、緊急事態に周囲にいる人の数が多いほど、個人が助ける行動を取らなくなる現象のことです。",
+  "slug": ""
+ },
+ {
   "id": "prejudice",
   "term": "偏見",
   "en": "Prejudice",
