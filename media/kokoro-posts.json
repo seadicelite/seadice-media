@@ -1,5 +1,13 @@
 [
  {
+  "slug": "ai-always-agrees",
+  "category": "AIとの付き合い方",
+  "type": "guide",
+  "date": "2026-10-03",
+  "title": "AIに相談すると何でも肯定されて、逆に不安になる。11のAIは人より49%多く相談者の行動を肯定していた",
+  "summary": "AIは人より49%多く相談者の行動を肯定していました。1回の会話でも判断に影響が出た実験と、肯定されすぎない相談のしかたを紹介します。"
+ },
+ {
   "slug": "phone-left-at-home-anxiety",
   "category": "AI疲れ・情報疲れ",
   "type": "guide",

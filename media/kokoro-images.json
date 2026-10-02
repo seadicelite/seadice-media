@@ -531,5 +531,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Copped_Hall_tea_table_mock-up_display,_Epping,_Essex,_England.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ai-always-agrees": {
+  "file": "File:Reading materials on a desk with glasses a pen and an apple nearby.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Reading_materials_on_a_desk_with_glasses_a_pen_and_an_apple_nearby.jpg/960px-Reading_materials_on_a_desk_with_glasses_a_pen_and_an_apple_nearby.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Reading_materials_on_a_desk_with_glasses_a_pen_and_an_apple_nearby.jpg/500px-Reading_materials_on_a_desk_with_glasses_a_pen_and_an_apple_nearby.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "机の上のノートとペン、眼鏡",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Reading_materials_on_a_desk_with_glasses_a_pen_and_an_apple_nearby.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
