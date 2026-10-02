@@ -58,6 +58,7 @@
 - 第8章 記憶: 覚える・保つ・思い出す仕組みと、記憶違い。
   - 8-1 記憶とは何か。符号化・貯蔵・検索の3段階: https://shinri.seadice.win/course/memory-encoding-storage-retrieval/
   - 8-2 短期記憶とワーキングメモリの仕組み: https://shinri.seadice.win/course/short-term-memory-and-working-memory/
+  - 8-3 長期記憶の種類。意味記憶・エピソード記憶・手続き記憶: https://shinri.seadice.win/course/long-term-memory-types-semantic-episodic-procedural/
 - 第9章 発達: 子どもから大人、高齢期までの心の変化。愛着。（準備中）
 - 第10章 感情と動機づけ: 感情はどこから来るか。やる気の仕組み。（準備中）
 - 第11章 パーソナリティ: 性格はどう測れるか。性格診断との違い。（準備中）
