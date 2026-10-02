@@ -635,5 +635,31 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Eminence_Redcoat_Red_Fang_Guitar_Speaker_12%22_50W_pair_-_front.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "tablet-developmental-disability-learning-support": {
+  "file": "File:Children's books (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Children%27s_books_%28Unsplash%29.jpg/960px-Children%27s_books_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Children%27s_books_%28Unsplash%29.jpg/500px-Children%27s_books_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Robyn Budlender 2016-07-20",
+  "artist": "Robyn Budlender robzy_m",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Children%27s_books_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "tablet-vs-tv-self-control": {
+  "file": "File:Reception lounge at Amantaka luxury Resort & Hotel at blue hour in Luang Prabang Laos.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Reception_lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg/960px-Reception_lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Reception_lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg/500px-Reception_lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Reception lounge at Amantaka luxury resort and hotel at blue hour in Luang Prabang, Laos, with couch and a candle lantern on the low table. ",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Reception_lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
