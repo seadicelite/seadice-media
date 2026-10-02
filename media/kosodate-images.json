@@ -63,5 +63,31 @@
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Frances_Benjamin_Johnston_seated_at_a_desk_in_her_studio-office,_with_adverstising_posters_on_the_walls,_including_the_Chap_Book,_Harper%27s,_and_Lippincott%27s_magazines_LCCN2017645690.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "non-cognitive-skills-kids": {
+  "file": "File:Child engages in colorful building activity.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Child_engages_in_colorful_building_activity.jpg/960px-Child_engages_in_colorful_building_activity.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Child_engages_in_colorful_building_activity.jpg/500px-Child_engages_in_colorful_building_activity.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "Young child plays with a variety of wooden building blocks, stacking and arranging them on a table filled with educational toys and games, s",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Child_engages_in_colorful_building_activity.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "sharenting-sns-photo-risk": {
+  "file": "File:Smartphone photographer (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Smartphone_photographer_%28Unsplash%29.jpg/960px-Smartphone_photographer_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Smartphone_photographer_%28Unsplash%29.jpg/500px-Smartphone_photographer_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "James Sutton 2017-02-12",
+  "artist": "James Sutton jamessutton_photography",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Smartphone_photographer_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

@@ -1,5 +1,21 @@
 [
  {
+  "slug": "sharenting-sns-photo-risk",
+  "category": "安全・プライバシー",
+  "type": "guide",
+  "date": "2026-10-02",
+  "title": "子どもの写真をSNSに載せるリスクは？シェアレンティングの研究でわかっていること",
+  "summary": "投稿する親の7割以上がプライバシー侵害になりうると感じながらも、本人の同意を十分に取れていません。"
+ },
+ {
+  "slug": "non-cognitive-skills-kids",
+  "category": "AI時代の進路・将来",
+  "type": "guide",
+  "date": "2026-10-02",
+  "title": "AI時代に伸ばしたい子どもの力は何？研究でわかった「非認知能力」の中身",
+  "summary": "最も確かな根拠があるのは自己制御。やり抜く力や成長マインドセットの教材効果は小さめでした。"
+ },
+ {
   "slug": "ai-companion-loneliness",
   "category": "心と親子関係",
   "type": "guide",
