@@ -441,5 +441,44 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Hourglasses.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "snooze-alarm-research": {
+  "file": "File:Sunlit Chamber with Antique Charm in Sintra (54924590605).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sunlit_Chamber_with_Antique_Charm_in_Sintra_%2854924590605%29.jpg/960px-Sunlit_Chamber_with_Antique_Charm_in_Sintra_%2854924590605%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sunlit_Chamber_with_Antique_Charm_in_Sintra_%2854924590605%29.jpg/500px-Sunlit_Chamber_with_Antique_Charm_in_Sintra_%2854924590605%29.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Warm morning light spills through gauzy curtains, softening every detail of this intimate room in Sintra and giving it the feel of a lived-i",
+  "artist": "Dale Cruse - 10M views from San Francisco, CA, USA",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunlit_Chamber_with_Antique_Charm_in_Sintra_(54924590605).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "evening-exercise-sleep-research": {
+  "file": "File:Mizuno Wave Ibuki 2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mizuno_Wave_Ibuki_2.jpg/960px-Mizuno_Wave_Ibuki_2.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mizuno_Wave_Ibuki_2.jpg/500px-Mizuno_Wave_Ibuki_2.jpg",
+  "w": 960,
+  "h": 695,
+  "alt": "Mizuno Wave Ibuki 2, men's trail running shoes. Olympus Hi-Res photo (Tripod mode)",
+  "artist": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Mizuno_Wave_Ibuki_2.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "handwriting-vs-typing-memory": {
+  "file": "File:Fountain pen writing (literacy) (cropped).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Fountain_pen_writing_%28literacy%29_%28cropped%29.jpg/960px-Fountain_pen_writing_%28literacy%29_%28cropped%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Fountain_pen_writing_%28literacy%29_%28cropped%29.jpg/500px-Fountain_pen_writing_%28literacy%29_%28cropped%29.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "Writing in Russian cyrillic script with a fountain pen. The #6 \"Iridium Point Germany\" nib is an affordable modern OEM nib of Asian origin. ",
+  "artist": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fountain_pen_writing_(literacy)_(cropped).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
