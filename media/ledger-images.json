@@ -379,5 +379,44 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Donation_box_of_the_Merkas_Yeshivot_Bnei_Akiva_B%27Israel.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "envelope-partition-saving": {
+  "file": "File:Newone - square fancy tracing paper envelope 02.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Newone_-_square_fancy_tracing_paper_envelope_02.jpg/960px-Newone_-_square_fancy_tracing_paper_envelope_02.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Newone_-_square_fancy_tracing_paper_envelope_02.jpg/500px-Newone_-_square_fancy_tracing_paper_envelope_02.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Phong bì hình vuông làm từ giấy can mỹ thuật",
+  "artist": "Newone",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Newone_-_square_fancy_tracing_paper_envelope_02.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "left-digit-price-980": {
+  "file": "File:Price Building illuminated at night in Quebec City.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Price_Building_illuminated_at_night_in_Quebec_City.jpg/960px-Price_Building_illuminated_at_night_in_Quebec_City.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Price_Building_illuminated_at_night_in_Quebec_City.jpg/500px-Price_Building_illuminated_at_night_in_Quebec_City.jpg",
+  "w": 960,
+  "h": 624,
+  "alt": "The Price Building illuminated at night in Quebec City.",
+  "artist": "Wilfredor",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Price_Building_illuminated_at_night_in_Quebec_City.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "free-shipping-zero-price": {
+  "file": "File:Verpackung (34).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Verpackung_%2834%29.jpg/960px-Verpackung_%2834%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Verpackung_%2834%29.jpg/500px-Verpackung_%2834%29.jpg",
+  "w": 960,
+  "h": 679,
+  "alt": "Verpackungsmaterialien: Karton",
+  "artist": "Bradsills",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Verpackung_(34).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
