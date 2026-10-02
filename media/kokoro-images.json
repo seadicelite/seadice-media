@@ -375,5 +375,18 @@
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Balthasar_van_der_Ast_-_Vase_of_Flowers_by_a_Window_-_WGA01048.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "multitasking-focus": {
+  "file": "File:Laptop on desk book stacks (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Laptop_on_desk_book_stacks_%28Unsplash%29.jpg/960px-Laptop_on_desk_book_stacks_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Laptop_on_desk_book_stacks_%28Unsplash%29.jpg/500px-Laptop_on_desk_book_stacks_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "本が積まれた机とノートパソコン",
+  "artist": "freddie marriage fredmarriage",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Laptop_on_desk_book_stacks_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
