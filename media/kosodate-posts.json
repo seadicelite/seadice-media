@@ -1,5 +1,13 @@
 [
  {
+  "slug": "generative-ai-family-involvement",
+  "category": "AIの使わせ方",
+  "type": "guide",
+  "date": "2026-10-02",
+  "title": "子どものAI利用、家庭でどう関わるとうまくいく？研究でわかっていること",
+  "summary": "ルールで縛るより、親自身がAIを理解し信頼できていることの方が関連していた調査があります。"
+ },
+ {
   "slug": "school-tablet-app-child-data-privacy",
   "category": "安全・プライバシー",
   "type": "guide",

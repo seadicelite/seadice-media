@@ -479,5 +479,70 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Computer_Lab_of_MIST.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "generative-ai-family-involvement": {
+  "file": "File:Doctor working at a desk using a computer mouse and keyboard in a medical office setting.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg/960px-Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg/500px-Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "A person is seated at a desk in a medical office. They are using a computer mouse with one hand and typing on a keyboard with the other hand",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "ai-answers-memory-retention": {
+  "file": "File:Woman writing on a notebook with a pen.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Woman_writing_on_a_notebook_with_a_pen.jpg/960px-Woman_writing_on_a_notebook_with_a_pen.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Woman_writing_on_a_notebook_with_a_pen.jpg/500px-Woman_writing_on_a_notebook_with_a_pen.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Woman writing on a notebook with a pen",
+  "artist": "Kristin Hardwick",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_writing_on_a_notebook_with_a_pen.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "screen-time-adhd-symptoms-risk": {
+  "file": "File:A young child with long hair explores artistic activities at a vibrant table filled with drawing materials.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/A_young_child_with_long_hair_explores_artistic_activities_at_a_vibrant_table_filled_with_drawing_materials.jpg/960px-A_young_child_with_long_hair_explores_artistic_activities_at_a_vibrant_table_filled_with_drawing_materials.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/A_young_child_with_long_hair_explores_artistic_activities_at_a_vibrant_table_filled_with_drawing_materials.jpg/500px-A_young_child_with_long_hair_explores_artistic_activities_at_a_vibrant_table_filled_with_drawing_materials.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "A young child with long hair explores artistic activities at a vibrant table filled with drawing materials. Natural light streams through th",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_young_child_with_long_hair_explores_artistic_activities_at_a_vibrant_table_filled_with_drawing_materials.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "social-media-cognitive-performance-decline": {
+  "file": "File:Woman watching her phone on a bus.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Woman_watching_her_phone_on_a_bus.jpg/960px-Woman_watching_her_phone_on_a_bus.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Woman_watching_her_phone_on_a_bus.jpg/500px-Woman_watching_her_phone_on_a_bus.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "A young woman relaxing and watching her phone  on the bus between Hallinden and Lysekil, Lysekil Municipality, Sweden. She sits on a seat re",
+  "artist": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_watching_her_phone_on_a_bus.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "toddler-screen-stop-crying-self-regulation": {
+  "file": "File:Child engaged in drawing activity with colorful crayons at a wooden table.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Child_engaged_in_drawing_activity_with_colorful_crayons_at_a_wooden_table.jpg/960px-Child_engaged_in_drawing_activity_with_colorful_crayons_at_a_wooden_table.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Child_engaged_in_drawing_activity_with_colorful_crayons_at_a_wooden_table.jpg/500px-Child_engaged_in_drawing_activity_with_colorful_crayons_at_a_wooden_table.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "Child engaged in drawing activity with colorful crayons at a wooden table",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Child_engaged_in_drawing_activity_with_colorful_crayons_at_a_wooden_table.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
