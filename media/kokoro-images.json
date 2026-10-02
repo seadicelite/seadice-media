@@ -453,5 +453,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Turn_table_on_windowsill_(Unsplash).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "phantom-phone-vibration": {
+  "file": "File:Wireless Mobile Phone Charger Closed.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wireless_Mobile_Phone_Charger_Closed.jpg/960px-Wireless_Mobile_Phone_Charger_Closed.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wireless_Mobile_Phone_Charger_Closed.jpg/500px-Wireless_Mobile_Phone_Charger_Closed.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "コーヒーテーブルに置かれたスマートフォンのワイヤレス充電器",
+  "artist": "Ominae",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Wireless_Mobile_Phone_Charger_Closed.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
