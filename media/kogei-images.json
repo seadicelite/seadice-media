@@ -118,5 +118,57 @@
   "license": "CC BY-SA 3.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:Nambu_Tetsubin.jpg"
+ },
+ "shigarakiyaki-tanuki-brand": {
+  "file": "File:Shigaraki ware Tanuki statues in Tokyo.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Shigaraki_ware_Tanuki_statues_in_Tokyo.jpg/960px-Shigaraki_ware_Tanuki_statues_in_Tokyo.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Shigaraki_ware_Tanuki_statues_in_Tokyo.jpg/500px-Shigaraki_ware_Tanuki_statues_in_Tokyo.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Shigaraki ware Tanuki statues in Tokyo",
+  "artist": "Sahaib",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Shigaraki_ware_Tanuki_statues_in_Tokyo.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "kyoyuzen-production-decline-digital": {
+  "file": "File:WLA vanda Black Kimono with trees.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WLA_vanda_Black_Kimono_with_trees.jpg/960px-WLA_vanda_Black_Kimono_with_trees.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WLA_vanda_Black_Kimono_with_trees.jpg/500px-WLA_vanda_Black_Kimono_with_trees.jpg",
+  "w": 960,
+  "h": 721,
+  "alt": "(Left)\nKimono\nJapan\n1800-50\nMonochrome figured silk (rinzu) with tie-dye (shibori) and embroidery\nWidth 137 cm x height 185.5 cm\nMuseum no. ",
+  "artist": "Wikipedia Loves Art participant \"Opal_Art_Seekers_4\"",
+  "license": "CC BY 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:WLA_vanda_Black_Kimono_with_trees.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "sakai-uchihamono-chef-knives": {
+  "file": "File:Japan kitchen utility or slicing Knife.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Japan_kitchen_utility_or_slicing_Knife.jpg/960px-Japan_kitchen_utility_or_slicing_Knife.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Japan_kitchen_utility_or_slicing_Knife.jpg/500px-Japan_kitchen_utility_or_slicing_Knife.jpg",
+  "w": 960,
+  "h": 534,
+  "alt": "A kitchen utility knife, 26 cm  long with a 15 cm blade.  The knife has been ground down over time from something much larger.  The carbon s",
+  "artist": "Simon Speed",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Japan_kitchen_utility_or_slicing_Knife.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "hakataori-kenjo-pattern": {
+  "file": "File:Complicated hand-loom for silk weaving, Kanchipuram, Tamil Nadu.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Complicated_hand-loom_for_silk_weaving%2C_Kanchipuram%2C_Tamil_Nadu.jpg/960px-Complicated_hand-loom_for_silk_weaving%2C_Kanchipuram%2C_Tamil_Nadu.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Complicated_hand-loom_for_silk_weaving%2C_Kanchipuram%2C_Tamil_Nadu.jpg/500px-Complicated_hand-loom_for_silk_weaving%2C_Kanchipuram%2C_Tamil_Nadu.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "The complicated yet elegant pattern and string pulling system of a hand-loom to make fine silk saris. Each card defines which threads get pu",
+  "artist": "McKay Savage",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Complicated_hand-loom_for_silk_weaving,_Kanchipuram,_Tamil_Nadu.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
