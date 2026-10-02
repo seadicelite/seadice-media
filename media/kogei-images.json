@@ -170,5 +170,57 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Complicated_hand-loom_for_silk_weaving,_Kanchipuram,_Tamil_Nadu.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "kanazawa-haku-gold-leaf": {
+  "file": "File:Yasuekinpakukogeikan003.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Yasuekinpakukogeikan003.jpg/960px-Yasuekinpakukogeikan003.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Yasuekinpakukogeikan003.jpg/500px-Yasuekinpakukogeikan003.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "安江金箔工芸館",
+  "artist": "金沢市",
+  "license": "CC BY 2.1 jp",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.1/jp/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Yasuekinpakukogeikan003.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "yamanaka-shikki-modern-lacquerware": {
+  "file": "File:Lacquer Bowl (17171188424).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lacquer_Bowl_%2817171188424%29.jpg/960px-Lacquer_Bowl_%2817171188424%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lacquer_Bowl_%2817171188424%29.jpg/500px-Lacquer_Bowl_%2817171188424%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Sinan Shipwreck Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at WorldHistoryPics.com.",
+  "artist": "Gary Todd from Xinzheng, China",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Lacquer_Bowl_(17171188424).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "odate-magewappa-akita-cedar": {
+  "file": "File:Sugi plantation along the Yoneshiro River, Akita Pref, Japan.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sugi_plantation_along_the_Yoneshiro_River%2C_Akita_Pref%2C_Japan.jpg/960px-Sugi_plantation_along_the_Yoneshiro_River%2C_Akita_Pref%2C_Japan.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sugi_plantation_along_the_Yoneshiro_River%2C_Akita_Pref%2C_Japan.jpg/500px-Sugi_plantation_along_the_Yoneshiro_River%2C_Akita_Pref%2C_Japan.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "米代川沿いにある秋田杉の人工林（秋田県能代市）",
+  "artist": "掬茶",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sugi_plantation_along_the_Yoneshiro_River,_Akita_Pref,_Japan.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "koshu-inden-deer-leather-lacquer": {
+  "file": "File:Inside a Leather Workshop.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Inside_a_Leather_Workshop.jpg/960px-Inside_a_Leather_Workshop.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Inside_a_Leather_Workshop.jpg/500px-Inside_a_Leather_Workshop.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "An Egyptian artisan practicing traditional leathercraft in his workshop. This heritage craft produces bags, belts, and wallets using techniq",
+  "artist": "AmiraAdel93",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Inside_a_Leather_Workshop.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
