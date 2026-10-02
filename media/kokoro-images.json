@@ -544,5 +544,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Reading_materials_on_a_desk_with_glasses_a_pen_and_an_apple_nearby.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "double-speed-video": {
+  "file": "File:Film Reel on an IMAX 15 70 mm Film Projector.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Film_Reel_on_an_IMAX_15_70_mm_Film_Projector.jpg/960px-Film_Reel_on_an_IMAX_15_70_mm_Film_Projector.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Film_Reel_on_an_IMAX_15_70_mm_Film_Projector.jpg/500px-Film_Reel_on_an_IMAX_15_70_mm_Film_Projector.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "映写機にかけられたフィルムのリール",
+  "artist": "DiscoA340",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Film_Reel_on_an_IMAX_15_70_mm_Film_Projector.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
