@@ -574,5 +574,57 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Old_World_swallowtail_(Papilio_machaon_gorganus)_underside_Hungary.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "nozick-experience-machine": {
+  "file": "File:Virtual reality headset.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Virtual_reality_headset.jpg/960px-Virtual_reality_headset.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Virtual_reality_headset.jpg/500px-Virtual_reality_headset.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "image of an oculus rift headset",
+  "artist": "FloppaIngénieur",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Virtual_reality_headset.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "xunzi-human-nature-bad": {
+  "file": "File:Whetstone Knife Sharpening, 2015-(01).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Whetstone_Knife_Sharpening%2C_2015-%2801%29.jpg/960px-Whetstone_Knife_Sharpening%2C_2015-%2801%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Whetstone_Knife_Sharpening%2C_2015-%2801%29.jpg/500px-Whetstone_Knife_Sharpening%2C_2015-%2801%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Schärfen eines Kochmessers mittels eines Messerschärfers, hier einem Japanischen Wasserstein.",
+  "artist": "Didriks",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Whetstone_Knife_Sharpening,_2015-(01).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "moral-luck": {
+  "file": "File:Four-leaf clovers.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Four-leaf_clovers.jpg/960px-Four-leaf_clovers.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Four-leaf_clovers.jpg/500px-Four-leaf_clovers.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "Dried four-leaf clovers (one five-leafed)",
+  "artist": "Olga Aleksandra",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Four-leaf_clovers.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "marx-alienated-labour": {
+  "file": "File:Photograph of a traditional sugarcane crusher nearby a parking-lot situated close to Gurdwara Mehdiana Sahib, Mehdiana, Ludhiana district, Punjab, India, 9 April 2023 01.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Photograph_of_a_traditional_sugarcane_crusher_nearby_a_parking-lot_situated_close_to_Gurdwara_Mehdiana_Sahib%2C_Mehdiana%2C_Ludhiana_district%2C_Punjab%2C_India%2C_9_April_2023_01.jpg/960px-thumbnail.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Photograph_of_a_traditional_sugarcane_crusher_nearby_a_parking-lot_situated_close_to_Gurdwara_Mehdiana_Sahib%2C_Mehdiana%2C_Ludhiana_district%2C_Punjab%2C_India%2C_9_April_2023_01.jpg/500px-thumbnail.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Photograph of a traditional sugarcane crusher nearby a parking-lot situated close to Gurdwara Mehdiana Sahib, Mehdiana, Ludhiana district, P",
+  "artist": "MaplesyrupSushi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Photograph_of_a_traditional_sugarcane_crusher_nearby_a_parking-lot_situated_close_to_Gurdwara_Mehdiana_Sahib,_Mehdiana,_Ludhiana_district,_Punjab,_India,_9_April_2023_01.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
