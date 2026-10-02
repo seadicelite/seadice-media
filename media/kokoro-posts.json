@@ -1,5 +1,13 @@
 [
  {
+  "slug": "trusting-ai-answers",
+  "category": "AIとの付き合い方",
+  "type": "guide",
+  "date": "2026-10-03",
+  "title": "AIの答えをつい信じてしまう。専門家にも起きる「自動化バイアス」と、確かめ方のコツ",
+  "summary": "機械の判断を信じすぎる傾向は専門家の実験でも見られました。「AIも間違える」と意識し、確かめる場所を絞る工夫を紹介。"
+ },
+ {
   "slug": "chat-reply-pressure",
   "category": "仕事とAIの不安",
   "type": "guide",
