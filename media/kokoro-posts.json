@@ -1,5 +1,13 @@
 [
  {
+  "slug": "notifications-focus",
+  "category": "AI疲れ・情報疲れ",
+  "type": "guide",
+  "date": "2026-10-02",
+  "title": "通知が気になって集中できない。オフにした1日で、疲れと仕事ぶりはどう変わった？",
+  "summary": "通知をできるだけオフにして1日働くと、中断が減って疲れが軽くなりました。通知の整え方を紹介します。"
+ },
+ {
   "slug": "sns-comparison-reduce",
   "category": "比べて落ち込む",
   "type": "guide",
