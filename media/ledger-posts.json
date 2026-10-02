@@ -1,5 +1,29 @@
 [
   {
+    "slug": "sunk-cost-mottainai",
+    "category": "サブスク・固定費",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "「もったいない」から、やめられないのはなぜか。サンクコストとジム会費の研究",
+    "summary": "すでに払ったお金に判断が引っ張られる効果ははっきり確認された。ジム会員は1回払いより高い会費を払い続けていた。"
+  },
+  {
+    "slug": "choice-overload-shopping",
+    "category": "お金と幸福度",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "選択肢が多すぎると、なぜ選べなくなるのか。「選択のパラドックス」の研究",
+    "summary": "6種類のジャムの方が24種類より売れた有名な実験がある一方、50実験の分析では平均するとほぼ効果なし。迷いやすい条件を知るのが大切。"
+  },
+  {
+    "slug": "couples-money-conflict-research",
+    "category": "家計管理",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "お金のことでパートナーと揉めやすいのはなぜか。夫婦の口論と共同口座の研究",
+    "summary": "お金の口論は回数こそ多くないが、長引いて解決しにくく、離婚を最も強く予測していた。共同口座で関係の質が保たれた実験もある。"
+  },
+  {
     "slug": "materialism-wellbeing-research",
     "category": "お金と幸福度",
     "type": "guide",

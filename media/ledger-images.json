@@ -301,5 +301,44 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Empty_shopping_carts_lined_up_in_a_grocery_store_waiting_for_customers_to_begin_their_shopping_tasks.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "couples-money-conflict-research": {
+  "file": "File:Paul Cézanne - A Table Corner (Un coin de table) - BF711 - Barnes Foundation.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Paul_C%C3%A9zanne_-_A_Table_Corner_%28Un_coin_de_table%29_-_BF711_-_Barnes_Foundation.jpg/960px-Paul_C%C3%A9zanne_-_A_Table_Corner_%28Un_coin_de_table%29_-_BF711_-_Barnes_Foundation.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Paul_C%C3%A9zanne_-_A_Table_Corner_%28Un_coin_de_table%29_-_BF711_-_Barnes_Foundation.jpg/500px-Paul_C%C3%A9zanne_-_A_Table_Corner_%28Un_coin_de_table%29_-_BF711_-_Barnes_Foundation.jpg",
+  "w": 960,
+  "h": 797,
+  "alt": "two coins table",
+  "artist": "Paul Cézanne",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne_-_A_Table_Corner_(Un_coin_de_table)_-_BF711_-_Barnes_Foundation.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "choice-overload-shopping": {
+  "file": "https://live.staticflickr.com/118/295410768_3d709ab783_b.jpg",
+  "src": "https://live.staticflickr.com/118/295410768_3d709ab783_b.jpg",
+  "src640": "https://live.staticflickr.com/118/295410768_3d709ab783_b.jpg",
+  "w": 1024,
+  "h": 768,
+  "alt": "Honey for Sale",
+  "artist": "ccarlstead",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "page": "https://www.flickr.com/photos/27087959@N00/295410768",
+  "source_label": "Flickr"
+ },
+ "sunk-cost-mottainai": {
+  "file": "File:Colorful pile of dumbbells at the gym 2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Colorful_pile_of_dumbbells_at_the_gym_2.jpg/960px-Colorful_pile_of_dumbbells_at_the_gym_2.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Colorful_pile_of_dumbbells_at_the_gym_2.jpg/500px-Colorful_pile_of_dumbbells_at_the_gym_2.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Hybla Valley, Virginia",
+  "artist": "Ser Amantio di Nicolao",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Colorful_pile_of_dumbbells_at_the_gym_2.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
