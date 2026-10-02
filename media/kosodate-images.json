@@ -219,5 +219,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:The_Physician%27s_Handbook_under_UV_light_Wellcome_L0046712.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "toddler-tablet-learning-app-effect": {
+  "file": "File:Tablet computer.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tablet_computer.jpg/960px-Tablet_computer.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tablet_computer.jpg/500px-Tablet_computer.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Tablet computer",
+  "artist": "KK IN HK",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tablet_computer.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
