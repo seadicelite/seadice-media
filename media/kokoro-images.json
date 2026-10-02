@@ -24,5 +24,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:A_notebook.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "sns-comparison-reduce": {
+  "file": "File:Lake Seliger. Ostashkov. View of Voroniy Island.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Lake_Seliger._Ostashkov._View_of_Voroniy_Island.jpg/960px-Lake_Seliger._Ostashkov._View_of_Voroniy_Island.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Lake_Seliger._Ostashkov._View_of_Voroniy_Island.jpg/500px-Lake_Seliger._Ostashkov._View_of_Voroniy_Island.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "Seliger: Ostashkovsky district, Tver region",
+  "artist": "Александр Байдуков",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lake_Seliger._Ostashkov._View_of_Voroniy_Island.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
