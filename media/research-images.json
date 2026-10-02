@@ -311,5 +311,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:Entrada_Theatro_Circo_(2).JPG",
   "source_label": "Wikimedia Commons"
+ },
+ "habit-tracking-boosts-continuation": {
+  "file": "File:Axenda.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Axenda.JPG/960px-Axenda.JPG",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Axenda.JPG/500px-Axenda.JPG",
+  "w": 960,
+  "h": 710,
+  "alt": "Axenda en galego",
+  "artist": "PepedoCouto",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Axenda.JPG",
+  "source_label": "Wikimedia Commons"
  }
 }
