@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "publish": "auto",
   "slug": "kosodate",
   "name": "子育てデータ",
