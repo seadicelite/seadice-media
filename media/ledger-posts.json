@@ -1,5 +1,21 @@
 [
   {
+    "slug": "tightwad-pain-of-paying",
+    "category": "家計管理",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "お金を使うのがつらすぎる「節約しすぎ」の心理。「支払いの痛み」の個人差の研究",
+    "summary": "支払うときの心の痛みには個人差があり、使うのがつらすぎて必要な物まで我慢する人が約4人に1人いた。節約しすぎもお金の悩みの一つ。"
+  },
+  {
+    "slug": "debt-repayment-small-victories",
+    "category": "お金の不安",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "借金は小さい額から返すべきか、金利の高いものから返すべきか。「小さな勝利」の研究",
+    "summary": "損得では金利の高い借金から返すのが正解だが、件数を減らす「小さな勝利」がやる気を保ち、完済しやすくしていた。両方を組み合わせるのが現実的。"
+  },
+  {
     "slug": "minimalism-wellbeing-research",
     "category": "お金と幸福度",
     "type": "guide",
