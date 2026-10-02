@@ -77,12 +77,7 @@
   "rulesFrom": ".claude/commands/tetsugaku.md",
   "relatedApps": "p/released-apps.json から近いジャンル（自己啓発・内省・習慣系）を選ぶ。無ければ記事のアプリ案のみ",
   "postsPerRun": 1,
-  "topicQueue": [
-    "禅における「悟り」は目的なのか、それとも通過点なのか",
-    "デカルトの心身二元論、心と体はどう関係しているのか",
-    "アーレントの「悪の陳腐さ」、凡庸な人がなぜ悪に加担するのか",
-    "ロックの「タブラ・ラサ」、人は白紙の状態で生まれるのか"
-  ],
+  "topicQueue": [],
   "layout": "magazine",
   "trust": [
     [

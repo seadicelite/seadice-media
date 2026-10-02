@@ -1,5 +1,37 @@
 [
   {
+    "slug": "zen-satori-practice",
+    "category": "東洋思想",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "禅の「悟り」は目的なのか？ 道元が説いた「修行と悟りは一つ」",
+    "summary": "道元は、修行と悟りは「二つではない」と説いた。坐禅は悟りへの手段ではなく、悟りそのものの現れだという考え。"
+  },
+  {
+    "slug": "descartes-mind-body-dualism",
+    "category": "近代哲学",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "デカルトの心身二元論とは？ 心と体は別物なのか",
+    "summary": "心は「考えるもの」、体は「広がりを持つもの」。別々の実体だとすると、心はどうやって体を動かすのかという難問が残る。"
+  },
+  {
+    "slug": "locke-tabula-rasa",
+    "category": "近代哲学",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "ロックの「タブラ・ラサ」とは？ 人は白紙の状態で生まれるのか",
+    "summary": "心は生まれたときは白い紙のようなもの。すべての観念は感覚と反省という経験から来る、とロックは考えた。"
+  },
+  {
+    "slug": "arendt-banality-of-evil",
+    "category": "現代思想",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "アーレントの「悪の陳腐さ」とは？ 普通の人が巨大な悪に加担する理由",
+    "summary": "アイヒマンは怪物ではなく、考えることのできない普通の人だった。悪の陳腐さとは、悪行の軽さではなく、行為者の動機の浅さを指す。"
+  },
+  {
     "slug": "wittgenstein-language-games",
     "category": "現代思想",
     "type": "guide",

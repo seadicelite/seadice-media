@@ -210,5 +210,57 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:2023-04-30_15_35_24_Storm_water_runoff_washing_away_Kanzan_Cherry_petals_along_Delaware_Avenue_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "descartes-mind-body-dualism": {
+  "file": "File:Frans Hals. Portret van René Descartes, GD015534.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Frans_Hals._Portret_van_Ren%C3%A9_Descartes%2C_GD015534.jpg/960px-Frans_Hals._Portret_van_Ren%C3%A9_Descartes%2C_GD015534.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Frans_Hals._Portret_van_Ren%C3%A9_Descartes%2C_GD015534.jpg/500px-Frans_Hals._Portret_van_Ren%C3%A9_Descartes%2C_GD015534.jpg",
+  "w": 960,
+  "h": 814,
+  "alt": "TitleFrans Hals. Portret van René DescartesContributorFrans HalsSeriesEuroPhot. Art histor",
+  "artist": "Frans Hals",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Frans_Hals._Portret_van_Ren%C3%A9_Descartes,_GD015534.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "zen-satori-practice": {
+  "file": "File:Raked gravel as flowing water, Japanese garden at Kew - geograph.org.uk - 2711289.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Raked_gravel_as_flowing_water%2C_Japanese_garden_at_Kew_-_geograph.org.uk_-_2711289.jpg/960px-Raked_gravel_as_flowing_water%2C_Japanese_garden_at_Kew_-_geograph.org.uk_-_2711289.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Raked_gravel_as_flowing_water%2C_Japanese_garden_at_Kew_-_geograph.org.uk_-_2711289.jpg/500px-Raked_gravel_as_flowing_water%2C_Japanese_garden_at_Kew_-_geograph.org.uk_-_2711289.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Raked gravel as flowing water, Japanese garden at Kew",
+  "artist": "David Hawgood",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Raked_gravel_as_flowing_water,_Japanese_garden_at_Kew_-_geograph.org.uk_-_2711289.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "arendt-banality-of-evil": {
+  "file": "File:Old accoustic guitar and typewriter on the desk.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Old_accoustic_guitar_and_typewriter_on_the_desk.jpg/960px-Old_accoustic_guitar_and_typewriter_on_the_desk.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Old_accoustic_guitar_and_typewriter_on_the_desk.jpg/500px-Old_accoustic_guitar_and_typewriter_on_the_desk.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "Old accoustic guitar and typewriter on the desk.",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Old_accoustic_guitar_and_typewriter_on_the_desk.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "locke-tabula-rasa": {
+  "file": "File:John Locke memorial stone.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/John_Locke_memorial_stone.jpg/960px-John_Locke_memorial_stone.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/John_Locke_memorial_stone.jpg/500px-John_Locke_memorial_stone.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "The memorial stone of John Locke in Christ Church, Oxford.",
+  "artist": "Nathanael Shelley",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:John_Locke_memorial_stone.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
