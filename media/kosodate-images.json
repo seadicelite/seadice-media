@@ -89,5 +89,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Smartphone_photographer_(Unsplash).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ai-voice-reading-vs-human": {
+  "file": "File:Easy picture books for children.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Easy_picture_books_for_children.jpg/960px-Easy_picture_books_for_children.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Easy_picture_books_for_children.jpg/500px-Easy_picture_books_for_children.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Easy picture books for children inside the MDPLS Hispanic Branch in Miami, FL",
+  "artist": "EmerioJoelMendez",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Easy_picture_books_for_children.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
