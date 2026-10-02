@@ -1,5 +1,21 @@
 [
  {
+  "id": "conformity",
+  "term": "同調",
+  "en": "Conformity",
+  "field": "社会心理学",
+  "def": "同調とは、周囲の意見や行動に合わせて、自分の判断や行動を変えることです。1950年代のアッシュによる線分判断の実験以来、繰り返し研究されています。",
+  "slug": ""
+ },
+ {
+  "id": "obedience",
+  "term": "服従",
+  "en": "Obedience",
+  "field": "社会心理学",
+  "def": "服従とは、権威を持つ人からの指示にしたがって、行動を変えることです。1960年代のミルグラムによる実験以来、どのような条件で強まるかが研究されています。",
+  "slug": ""
+ },
+ {
   "id": "source-credibility-effect",
   "term": "情報源の信頼性効果",
   "en": "Source credibility effect",
