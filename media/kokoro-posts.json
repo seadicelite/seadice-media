@@ -1,5 +1,13 @@
 [
  {
+  "slug": "information-overload-tired",
+  "category": "AI疲れ・情報疲れ",
+  "type": "guide",
+  "date": "2026-10-03",
+  "title": "情報が多すぎて疲れる。AIのニュースを追いきれないときの、情報の減らし方",
+  "summary": "情報が多すぎると感じる人ほど、SNS疲れが強い関連がありました。届く情報を選んで減らす工夫を紹介します。"
+ },
+ {
   "slug": "ai-cant-keep-up",
   "category": "仕事とAIの不安",
   "type": "guide",
