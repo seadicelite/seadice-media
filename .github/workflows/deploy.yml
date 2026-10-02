@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Rebuild index pages (daily rotation)
-        run: for s in research umbra ledger kogei tetsugaku bohan; do python3 media/build.py "$s"; done; python3 media/shinri_pages.py
+        run: for s in research umbra ledger kogei tetsugaku bohan kosodate; do python3 media/build.py "$s"; done; python3 media/shinri_pages.py
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
