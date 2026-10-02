@@ -128,5 +128,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Wireless_Mobile_Phone_Charger_Closed.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "family-screen-time-rules-research": {
+  "file": "File:Minimalistic workspace with tablet.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Minimalistic_workspace_with_tablet.jpg/960px-Minimalistic_workspace_with_tablet.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Minimalistic_workspace_with_tablet.jpg/500px-Minimalistic_workspace_with_tablet.jpg",
+  "w": 960,
+  "h": 657,
+  "alt": "Wacom graphic tablet (\"One by Wacom\"), pink mouse and a keyboard on a wooden desk,",
+  "artist": "Spnq",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Minimalistic_workspace_with_tablet.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
