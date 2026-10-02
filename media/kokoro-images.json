@@ -245,5 +245,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Autumn_still_life_with_ceramic_cups.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "partner-phone-phubbing": {
+  "file": "File:Tea for two.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Tea_for_two.jpg/960px-Tea_for_two.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Tea_for_two.jpg/500px-Tea_for_two.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Black tea and chocolate cake",
+  "artist": "Nicubunu",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tea_for_two.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
