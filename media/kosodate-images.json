@@ -466,5 +466,18 @@
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Xbox-360-Wireless-Controller-White.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "school-tablet-app-child-data-privacy": {
+  "file": "File:Computer Lab of MIST.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Computer_Lab_of_MIST.jpg/960px-Computer_Lab_of_MIST.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Computer_Lab_of_MIST.jpg/500px-Computer_Lab_of_MIST.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Computer Software Lab of Mangrove Institute",
+  "artist": "Bodimist",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Computer_Lab_of_MIST.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
