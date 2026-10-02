@@ -145,6 +145,14 @@ def faq_ld(faq):
     return {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faq]}
 
 
+# 心の不調を扱う章（course.json の chapters[].care が true）の全レッスンに出す相談先。番号は厚生労働省「まもろうよ こころ」で確認（2026-10-02）
+CARE = ('<div class="box note"><p class="bt">つらいときの相談先</p>'
+        '<p style="margin:0 0 8px">この講座は心理学の知識を学ぶためのもので、診断や治療の代わりにはなりません。気分の落ち込みや強い不安が続いてつらいときは、医療機関や、次のような公的な相談窓口に相談できます。</p><ul>'
+        '<li>こころの健康相談統一ダイヤル <a href="tel:0570064556">0570-064-556</a>（都道府県・政令指定都市の公的な相談機関につながります。受付時間は地域によって異なります）</li>'
+        '<li>よりそいホットライン <a href="tel:0120279338">0120-279-338</a>（24時間）</li></ul>'
+        '<p style="margin:8px 0 0;font-size:13px">出典: <a href="https://www.mhlw.go.jp/mamorouyokokoro/soudan/tel/" target="_blank" rel="noopener">厚生労働省「まもろうよ こころ」電話相談</a></p></div>')
+
+
 def body_len(l):
     return sum(len(x) for sec in l["sections"] for x in sec["paras"])
 
@@ -173,6 +181,7 @@ def check():
                 if e["slug"] not in ARTICLES: errs.append(f'{tag} examplesの記事slugが存在しない: {e["slug"]}')
             if "{{" in json.dumps(l, ensure_ascii=False): errs.append(f"{tag} プレースホルダが残っている")
     for t in TERMS:
+        if t.get("detail") and not rich(t): errs.append(f'用語 {t["id"]} は detail があるが、個別ページの条件（detail400字以上・sources・faq）を満たしていない')
         if "とは" not in t["def"].split("。")[0]: errs.append(f'用語 {t["id"]} の定義の1文目が「〇〇とは」になっていない')
     return errs
 
@@ -243,6 +252,7 @@ def lesson(ci, li):
 <p class="updated">読む時間の目安: {read_min(l)}分 ・ 公開日 {l.get("date", UPDATED)}</p>
 <div class="box"><p class="bt">このレッスンの学習目標</p><ul>{"".join(f"<li>{E(g)}</li>" for g in l["goals"])}</ul></div>
 <div class="box key"><p class="bt">要点</p><ol>{"".join(f"<li>{E(s)}</li>" for s in l["summary"])}</ol></div>
+{CARE if ch.get("care") else ""}
 {secs}
 <h2><span class="n">KEYWORDS</span>キーワード（日本語・英語）</h2>
 <p class="answer">このレッスンで覚えておきたい用語です。英語名も一緒に覚えると、海外の教科書や論文が読みやすくなります。</p>
@@ -287,14 +297,57 @@ def glossary():
         for t in (t for t in TERMS if t["field"] == f):
             a = ARTICLES.get(t.get("slug"))
             more = f'<a class="more" href="{a[0]}">解説記事: {E(a[1])}（{E(a[2])}）</a>' if a else ""
-            body += f'<div class="term" id="{t["id"]}"><span class="tt">{E(t["term"])}</span><span class="en">{E(t["en"])}</span><p>{E(t["def"])}</p>{more}</div>'
+            name = f'<a href="/glossary/{t["id"]}/">{E(t["term"])}</a>' if rich(t) else E(t["term"])
+            body += f'<div class="term" id="{t["id"]}"><span class="tt">{name}</span><span class="en">{E(t["en"])}</span><p>{E(t["def"])}</p>{more}</div>'
     body += f'<div class="box key" style="margin-top:36px"><p class="bt">心理学を基礎から学ぶなら</p><p style="margin:0">用語の背景にある心理学の全体像は、無料講座「<a href="/course/">{E(COURSE["title"])}</a>」で順番に学べます。</p></div>'
     graph = [{"@type": "DefinedTermSet", "@id": url, "name": "心理学用語辞典", "url": url, "inLanguage": "ja", "dateModified": UPDATED, "publisher": PUBLISHER,
               "hasDefinedTerm": [{"@type": "DefinedTerm", "@id": f'{url}#{t["id"]}', "name": t["term"], "alternateName": t["en"],
-                                  "description": t["def"], "url": f'{url}#{t["id"]}', "inDefinedTermSet": url} for t in TERMS]}]
+                                  "description": t["def"], "url": f'{url}{t["id"]}/' if rich(t) else f'{url}#{t["id"]}', "inDefinedTermSet": url} for t in TERMS]}]
     return write("glossary/", f"心理学用語辞典（{len(TERMS)}語をやさしく解説）| {NAME}",
                  f"単純接触効果、愛着スタイル、アンカリング効果、ガスライティングなど、日常で役立つ心理学用語{len(TERMS)}語を一文の定義でやさしく解説。出典つきの解説記事にリンクしています。",
                  body, graph, trail=[("心理学用語辞典", url)], current="/glossary/")
+
+
+def rich(t):
+    """個別ページを出せるだけの中身がある用語か（薄いページは作らない）。"""
+    return len("".join(t.get("detail", []))) >= 400 and t.get("sources") and t.get("faq")
+
+
+def term_lessons(t):
+    """この用語をキーワードに含むレッスン（講座で詳しく学べる場所）。"""
+    key = t["term"].split("（")[0]
+    return [(ch, l) for ch, l in LESSONS if any(key in k["ja"] or k["ja"] in key for k in l["terms"])]
+
+
+def term_page(t):
+    url = f'{URL}glossary/{t["id"]}/'
+    key = t["term"].split("（")[0]
+    a = ARTICLES.get(t.get("slug"))
+    ls = term_lessons(t)
+    rel = [x for x in TERMS if x["field"] == t["field"] and x["id"] != t["id"]][:6]
+    faq = [(q["q"], q["a"]) for q in t["faq"]]
+    body = f'''<span class="kicker">{E(t["field"])}</span>
+<h1>{E(key)}とは</h1>
+<p class="updated">英語: {E(t["en"])} ・ 更新日 {t.get("date", UPDATED)}</p>
+<p class="lead">{E(t["def"])}</p>
+<h2><span class="n">01</span>{E(key)}をくわしく</h2>
+{"".join(f"<p>{E(x)}</p>" for x in t["detail"])}
+{f'<h2><span class="n">02</span>身近な例</h2><p class="answer">{E(t["example"])}</p>' if t.get("example") else ""}
+{f'<h2><span class="n">03</span>講座で学ぶ</h2><p class="answer">{E(key)}は、無料講座「{E(COURSE["title"])}」の次のレッスンで詳しく学べます。</p><ol class="lessons">' + "".join(f'<li><a href="/course/{l["id"]}/"><span class="no">第{ch["no"]}章</span>{E(l["title"])}</a></li>' for ch, l in ls) + "</ol>" if ls else ""}
+{f'<h2><span class="n">RESEARCH</span>研究の解説記事</h2><p><a href="{a[0]}">{E(a[1])}</a>（{E(a[2])}）</p>' if a else ""}
+<h2><span class="n">FAQ</span>よくある質問</h2>
+{faq_html(faq)}
+{'<h2><span class="n">RELATED</span>同じ分野の用語</h2><div class="chips">' + "".join(f'<a href="/glossary/{x["id"]}/">{E(x["term"])}</a>' if rich(x) else f'<a href="/glossary/#{x["id"]}">{E(x["term"])}</a>' for x in rel) + "</div>" if rel else ""}
+<div class="src"><h2>出典</h2><ol>{"".join(f'<li><a href="{x["url"]}" target="_blank" rel="noopener">{E(x["text"])}</a></li>' for x in t["sources"])}</ol></div>
+<p style="margin-top:28px"><a href="/glossary/">心理学用語辞典の一覧へ（{len(TERMS)}語）</a></p>'''
+    graph = [{"@type": "DefinedTerm", "@id": url, "name": key, "alternateName": t["en"], "description": t["def"], "url": url,
+              "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "心理学用語辞典", "url": f"{URL}glossary/"}},
+             {"@type": "Article", "headline": f"{key}とは", "description": t["def"], "url": url, "inLanguage": "ja",
+              "datePublished": t.get("date", UPDATED), "dateModified": t.get("date", UPDATED), "mainEntityOfPage": {"@type": "WebPage", "@id": url},
+              "author": {"@type": "Organization", "name": f"{NAME}編集部"}, "publisher": PUBLISHER, "citation": [x["url"] for x in t["sources"]]},
+             faq_ld(faq)]
+    return write(f'glossary/{t["id"]}/', f'{key}とは？意味と例をやさしく解説 | {NAME}', t["def"][:120], body, graph,
+                 trail=[("心理学用語辞典", f"{URL}glossary/"), (f"{key}とは", url)], current="/glossary/")
 
 
 # ---------------- 学び方ガイド ----------------
@@ -470,7 +523,7 @@ if __name__ == "__main__":
     for ci, ch in enumerate(COURSE["chapters"]):
         for li in range(len(ch["lessons"])):
             urls.append(lesson(ci, li))
-    urls += [guide(), glossary()]
+    urls += [guide(), glossary()] + [term_page(t) for t in TERMS if rich(t)]
     urls += trust_pages()
     extras(urls)
     print(f"built {CFG['path']} ({N_LESSONS} lessons, {len(TERMS)} terms, {len(urls)} pages)")
