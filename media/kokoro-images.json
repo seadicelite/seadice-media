@@ -154,5 +154,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Porcelain_teapot_on_windowsill_(Unsplash).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "impostor-feelings": {
+  "file": "File:Morning mist over Lake Matheson with Mount Tasman and Mount Cook behind.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Morning_mist_over_Lake_Matheson_with_Mount_Tasman_and_Mount_Cook_behind.jpg/960px-Morning_mist_over_Lake_Matheson_with_Mount_Tasman_and_Mount_Cook_behind.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Morning_mist_over_Lake_Matheson_with_Mount_Tasman_and_Mount_Cook_behind.jpg/500px-Morning_mist_over_Lake_Matheson_with_Mount_Tasman_and_Mount_Cook_behind.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Morning mist over calm Lake Matheson with Mount Tasman and Aoraki / Mount Cook behind",
+  "artist": "Pseudopanax at English Wikipedia",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Morning_mist_over_Lake_Matheson_with_Mount_Tasman_and_Mount_Cook_behind.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
