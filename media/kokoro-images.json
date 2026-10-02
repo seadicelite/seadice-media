@@ -63,5 +63,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:A_Golden_teapot_and_iron_plate_with_table_wares_in_Lung_Dim_Sum.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ai-chat-loneliness": {
+  "file": "File:New Bavaria Park (Autumn 2017) 1.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/New_Bavaria_Park_%28Autumn_2017%29_1.jpg/960px-New_Bavaria_Park_%28Autumn_2017%29_1.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/New_Bavaria_Park_%28Autumn_2017%29_1.jpg/500px-New_Bavaria_Park_%28Autumn_2017%29_1.jpg",
+  "w": 960,
+  "h": 623,
+  "alt": "New Bavaria Park in Kharkiv (autumn 2017)",
+  "artist": "Lystopad",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:New_Bavaria_Park_(Autumn_2017)_1.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

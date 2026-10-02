@@ -1,5 +1,13 @@
 [
  {
+  "slug": "ai-chat-loneliness",
+  "category": "人とのつながり",
+  "type": "guide",
+  "date": "2026-10-03",
+  "title": "AIと話すと孤独はまぎれる？研究でわかったことと、人とのつながりの残し方",
+  "summary": "会話型AIと4週間話した大学生で、孤独感が少し下がりました。ただし研究はまだ少なく、AIにできない支えもあります。"
+ },
+ {
   "slug": "ai-chatbot-worries",
   "category": "AIとの付き合い方",
   "type": "guide",
