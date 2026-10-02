@@ -77,6 +77,7 @@
   - 11-1 パーソナリティとは何か。特性の一貫性と変化: https://shinri.seadice.win/course/what-is-personality-trait-consistency/
   - 11-2 特性論とビッグファイブ。性格を5つの特性で捉える: https://shinri.seadice.win/course/trait-theory-big-five/
   - 11-3 パーソナリティはどう測るか。質問紙法と信頼性・妥当性: https://shinri.seadice.win/course/measuring-personality-reliability-validity/
+  - 11-4 MBTIや血液型性格判断はなぜ心理学的に支持されていないのか: https://shinri.seadice.win/course/mbti-blood-type-personality-not-supported/
 - 第12章 社会心理学: 好意、説得、同調、偏見。人と人の間で起きること。（準備中）
 - 第13章 仕事と組織の心理学: 職場のやる気、リーダーシップ、チーム。（準備中）
 - 第14章 ストレスと健康: ストレスの仕組みと、うまく付き合う方法。（準備中）
