@@ -470,5 +470,57 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:In_Claudii_Ptolemaei_Geographiacae_Enarrationis_Libri_octo._MET_DP327807.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "nagel-what-is-it-like-to-be-a-bat": {
+  "file": "File:California leaf-nosed bat is flying at night (31167324927).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/California_leaf-nosed_bat_is_flying_at_night_%2831167324927%29.jpg/960px-California_leaf-nosed_bat_is_flying_at_night_%2831167324927%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/California_leaf-nosed_bat_is_flying_at_night_%2831167324927%29.jpg/500px-California_leaf-nosed_bat_is_flying_at_night_%2831167324927%29.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "The California Leaf-nosed Bat (Macrotus californicus) flying at night, Copper Mountains, Cabeza Prieta National Wildlife Refuge, Arizona. Th",
+  "artist": "mypubliclands",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:California_leaf-nosed_bat_is_flying_at_night_(31167324927).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "leibniz-best-possible-world": {
+  "file": "File:Aerial image of the Herrenhausen Gardens.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/960px-Aerial_image_of_the_Herrenhausen_Gardens.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/500px-Aerial_image_of_the_Herrenhausen_Gardens.jpg",
+  "w": 960,
+  "h": 663,
+  "alt": "Aerial image of the Herrenhausen Gardens: the Great Garden in front of and the Berggarten behind the Schloss Herrenhausen",
+  "artist": "Carsten Steger",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Herrenhausen_Gardens.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "schopenhauer-will-pessimism": {
+  "file": "File:Dark clouds over Towers of Channelside, Tampa, FL.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Dark_clouds_over_Towers_of_Channelside%2C_Tampa%2C_FL.jpg/960px-Dark_clouds_over_Towers_of_Channelside%2C_Tampa%2C_FL.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Dark_clouds_over_Towers_of_Channelside%2C_Tampa%2C_FL.jpg/500px-Dark_clouds_over_Towers_of_Channelside%2C_Tampa%2C_FL.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "An approaching dark storm cloud covers the sky above an aquarium in Tampa, Florida, USA.",
+  "artist": "MrSwagger21",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dark_clouds_over_Towers_of_Channelside,_Tampa,_FL.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "pascal-wager": {
+  "file": "File:Double gameboard - Game of Twenty and Senet Game, wood - Museo Egizio (Turin) S 8451 01 p08.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Double_gameboard_-_Game_of_Twenty_and_Senet_Game%2C_wood_-_Museo_Egizio_%28Turin%29_S_8451_01_p08.jpg/960px-Double_gameboard_-_Game_of_Twenty_and_Senet_Game%2C_wood_-_Museo_Egizio_%28Turin%29_S_8451_01_p08.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Double_gameboard_-_Game_of_Twenty_and_Senet_Game%2C_wood_-_Museo_Egizio_%28Turin%29_S_8451_01_p08.jpg/500px-Double_gameboard_-_Game_of_Twenty_and_Senet_Game%2C_wood_-_Museo_Egizio_%28Turin%29_S_8451_01_p08.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "The senet, a game board complete with a small drawer for gaming pieces and astragals (small bones used as dice), is a luxury object that is ",
+  "artist": "Unknown",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Double_gameboard_-_Game_of_Twenty_and_Senet_Game,_wood_-_Museo_Egizio_(Turin)_S_8451_01_p08.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
