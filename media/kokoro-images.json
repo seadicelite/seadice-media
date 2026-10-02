@@ -557,5 +557,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Film_Reel_on_an_IMAX_15_70_mm_Film_Projector.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "telework-monitoring-stress": {
+  "file": "File:Orkide i finstua mot vest.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Orkide_i_finstua_mot_vest.jpg/960px-Orkide_i_finstua_mot_vest.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Orkide_i_finstua_mot_vest.jpg/500px-Orkide_i_finstua_mot_vest.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "窓辺に置かれた鉢植えの白いラン",
+  "artist": "Øyvind Holmstad",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Orkide_i_finstua_mot_vest.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
