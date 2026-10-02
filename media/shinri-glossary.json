@@ -430,5 +430,21 @@
   "field": "産業・組織心理学",
   "def": "職務満足とは、自分の仕事や仕事での経験を評価した結果として生じる、心地よい感情の状態のことです。",
   "slug": "salary-comparison-satisfaction"
+ },
+ {
+  "id": "goal-setting-theory",
+  "term": "目標設定理論",
+  "en": "Goal-Setting Theory",
+  "field": "産業・組織心理学",
+  "def": "目標設定理論とは、具体的で難しい目標を設定することが、曖昧な目標よりも成果と意欲を高めるという理論のことです。",
+  "slug": "specific-saving-goal-works"
+ },
+ {
+  "id": "effect-size",
+  "term": "効果量",
+  "en": "Effect size",
+  "field": "研究法",
+  "def": "効果量とは、2つの条件のあいだの差の大きさを、測定単位に関係なく表すための統計的な指標のことです。",
+  "slug": ""
  }
 ]
