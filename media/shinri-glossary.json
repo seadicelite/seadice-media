@@ -406,5 +406,21 @@
   "field": "パーソナリティ",
   "def": "ビッグファイブ（五因子モデル）とは、神経症傾向・外向性・開放性・協調性・勤勉性という5つの特性で、人のパーソナリティを捉える考え方のことです。",
   "slug": ""
+ },
+ {
+  "id": "io-psychology",
+  "term": "産業・組織心理学",
+  "en": "Work and Organizational Psychology (I-O Psychology)",
+  "field": "産業・組織心理学",
+  "def": "産業・組織心理学とは、仕事の現場における人の心と行動を、科学的な方法で研究する心理学の一分野のことです。",
+  "slug": ""
+ },
+ {
+  "id": "industrial-psychology",
+  "term": "産業心理学",
+  "en": "Industrial psychology",
+  "field": "産業・組織心理学",
+  "def": "産業心理学とは、生産・分配・消費など、仕事に関わる場面での人間の行動を研究する学問のことです。",
+  "slug": ""
  }
 ]
