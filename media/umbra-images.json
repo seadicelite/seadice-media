@@ -541,5 +541,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Erster_Stock,_Terrasse,_Szeml%C5%91hegystrasse_27B,_2026_Szeml%C5%91hegy.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ghosting-psychological-impact-research": {
+  "file": "File:Foggy glass unsplash 4.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Foggy_glass_unsplash_4.jpg/960px-Foggy_glass_unsplash_4.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Foggy_glass_unsplash_4.jpg/500px-Foggy_glass_unsplash_4.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Foggy glass",
+  "artist": "Osman Rana",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Foggy_glass_unsplash_4.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
