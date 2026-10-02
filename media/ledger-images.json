@@ -457,5 +457,44 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Aisle_in_L_Intermarche_supermarket_in_Quebec_City.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "money-priming-replication": {
+  "file": "File:Stack of 360 banknotes of 50'000 kips (Laos).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stack_of_360_banknotes_of_50%27000_kips_%28Laos%29.jpg/960px-Stack_of_360_banknotes_of_50%27000_kips_%28Laos%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stack_of_360_banknotes_of_50%27000_kips_%28Laos%29.jpg/500px-Stack_of_360_banknotes_of_50%27000_kips_%28Laos%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Stack of 360 new banknotes of 50'000 kips, on a black background. 18 millions LAK (Laotian kip, currency from Laos) in total.",
+  "artist": "Basile Morin",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Stack_of_360_banknotes_of_50%27000_kips_(Laos).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "loss-aversion-money": {
+  "file": "File:Balance scale IMGP9755.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Balance_scale_IMGP9755.jpg/960px-Balance_scale_IMGP9755.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Balance_scale_IMGP9755.jpg/500px-Balance_scale_IMGP9755.jpg",
+  "w": 960,
+  "h": 645,
+  "alt": "Old two pan balance",
+  "artist": "Nikodem Nijaki",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Balance_scale_IMGP9755.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "financial-education-effect": {
+  "file": "File:IBM Thinkpad R51.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/IBM_Thinkpad_R51.jpg/960px-IBM_Thinkpad_R51.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/IBM_Thinkpad_R51.jpg/500px-IBM_Thinkpad_R51.jpg",
+  "w": 960,
+  "h": 892,
+  "alt": "IBM Thinkpad R51. The logos shown in this picture are copyright.",
+  "artist": "André Karwath aka Aka",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:IBM_Thinkpad_R51.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
