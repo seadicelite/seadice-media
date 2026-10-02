@@ -427,5 +427,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:Tadoussac_-_Playground_slide.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "children-lying-development-age": {
+  "file": "File:Jozef israels children playing with a toy wagon105142).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Jozef_israels_children_playing_with_a_toy_wagon105142%29.jpg/960px-Jozef_israels_children_playing_with_a_toy_wagon105142%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Jozef_israels_children_playing_with_a_toy_wagon105142%29.jpg/500px-Jozef_israels_children_playing_with_a_toy_wagon105142%29.jpg",
+  "w": 960,
+  "h": 611,
+  "alt": "children playing toy",
+  "artist": "Jozef Israëls",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Jozef_israels_children_playing_with_a_toy_wagon105142).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
