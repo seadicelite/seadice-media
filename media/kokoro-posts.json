@@ -1,5 +1,13 @@
 [
  {
+  "slug": "walking-mood",
+  "category": "AI疲れ・情報疲れ",
+  "type": "guide",
+  "date": "2026-10-03",
+  "title": "散歩すると気分は軽くなる？1時間ごとに5分歩いた実験と、9万人分の歩数の研究",
+  "summary": "1時間ごとの5分歩きで夕方の疲れが減った実験と、歩数と気分の落ち込みの研究から、無理のない歩き方を整理。"
+ },
+ {
   "slug": "trusting-ai-answers",
   "category": "AIとの付き合い方",
   "type": "guide",

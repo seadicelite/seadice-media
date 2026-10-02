@@ -297,5 +297,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Cianorte_desktop_(Unsplash).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "walking-mood": {
+  "file": "File:Forest path through yellow autumn leaves in Tuntorp 1.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Forest_path_through_yellow_autumn_leaves_in_Tuntorp_1.jpg/960px-Forest_path_through_yellow_autumn_leaves_in_Tuntorp_1.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Forest_path_through_yellow_autumn_leaves_in_Tuntorp_1.jpg/500px-Forest_path_through_yellow_autumn_leaves_in_Tuntorp_1.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Fog over towers at Preemraff oil refinery and the Trommekilen part of Brofjorden in Lahälla, Lysekil Municipality, Sweden.",
+  "artist": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Forest_path_through_yellow_autumn_leaves_in_Tuntorp_1.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
