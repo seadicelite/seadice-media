@@ -219,5 +219,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "afraid-to-ask-for-help": {
+  "file": "File:Person writing in a notebook while sitting at a desk.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Person_writing_in_a_notebook_while_sitting_at_a_desk.jpg/960px-Person_writing_in_a_notebook_while_sitting_at_a_desk.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Person_writing_in_a_notebook_while_sitting_at_a_desk.jpg/500px-Person_writing_in_a_notebook_while_sitting_at_a_desk.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "A person is seated at a desk with a laptop open in front. They hold a pen in one hand and flip through a notebook with notes. A glass of wat",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Person_writing_in_a_notebook_while_sitting_at_a_desk.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
