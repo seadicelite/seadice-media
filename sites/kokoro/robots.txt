@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kokoro.seadice.win/sitemap.xml
