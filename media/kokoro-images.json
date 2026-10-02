@@ -466,5 +466,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Wireless_Mobile_Phone_Charger_Closed.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "cant-read-books-anymore": {
+  "file": "File:Open book with apples placed on a wooden table in a bright indoor setting.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Open_book_with_apples_placed_on_a_wooden_table_in_a_bright_indoor_setting.jpg/960px-Open_book_with_apples_placed_on_a_wooden_table_in_a_bright_indoor_setting.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Open_book_with_apples_placed_on_a_wooden_table_in_a_bright_indoor_setting.jpg/500px-Open_book_with_apples_placed_on_a_wooden_table_in_a_bright_indoor_setting.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "木のテーブルに置かれた開いた本とりんご",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Open_book_with_apples_placed_on_a_wooden_table_in_a_bright_indoor_setting.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
