@@ -115,5 +115,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Laptop_and_a_mug_(Unsplash).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "parent-smartphone-technoference-children": {
+  "file": "File:Wireless Mobile Phone Charger Closed.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wireless_Mobile_Phone_Charger_Closed.jpg/960px-Wireless_Mobile_Phone_Charger_Closed.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wireless_Mobile_Phone_Charger_Closed.jpg/500px-Wireless_Mobile_Phone_Charger_Closed.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "A wireless mobile phone charger on a coffee long table.",
+  "artist": "Ominae",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Wireless_Mobile_Phone_Charger_Closed.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
