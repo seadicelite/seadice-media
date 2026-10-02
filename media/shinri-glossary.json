@@ -422,5 +422,13 @@
   "field": "産業・組織心理学",
   "def": "産業心理学とは、生産・分配・消費など、仕事に関わる場面での人間の行動を研究する学問のことです。",
   "slug": ""
+ },
+ {
+  "id": "job-satisfaction",
+  "term": "職務満足",
+  "en": "Job satisfaction",
+  "field": "産業・組織心理学",
+  "def": "職務満足とは、自分の仕事や仕事での経験を評価した結果として生じる、心地よい感情の状態のことです。",
+  "slug": "salary-comparison-satisfaction"
  }
 ]
