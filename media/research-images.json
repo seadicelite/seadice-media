@@ -519,5 +519,44 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Four_versions_of_a_floodlight_through_rain_on_a_window.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "desk-clutter-focus-research": {
+  "file": "https://live.staticflickr.com/65535/54537172958_dc4e9ba90c_b.jpg",
+  "src": "https://live.staticflickr.com/65535/54537172958_dc4e9ba90c_b.jpg",
+  "src640": "https://live.staticflickr.com/65535/54537172958_dc4e9ba90c_b.jpg",
+  "w": 1024,
+  "h": 684,
+  "alt": "Planning healthy meals with fresh fruits and vegetables at a bright workspace in the afternoon",
+  "artist": "nenadstojkovicart",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "page": "https://www.flickr.com/photos/202846129@N03/54537172958",
+  "source_label": "Flickr"
+ },
+ "upright-posture-mood-research": {
+  "file": "File:Office chair (4444288246).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Office_chair_%284444288246%29.jpg/960px-Office_chair_%284444288246%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Office_chair_%284444288246%29.jpg/500px-Office_chair_%284444288246%29.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "This image was an idea I had for a Flickr <a href=\"https://www.flickr.com/photos/leehaywood/4438996958/\">guessing game</a>.",
+  "artist": "Lee Haywood from Wollaton, Nottingham, England",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Office_chair_(4444288246).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "sugar-focus-willpower-research": {
+  "file": "File:Würfelzucker -- 2018 -- 3564.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/W%C3%BCrfelzucker_--_2018_--_3564.jpg/960px-W%C3%BCrfelzucker_--_2018_--_3564.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/W%C3%BCrfelzucker_--_2018_--_3564.jpg/500px-W%C3%BCrfelzucker_--_2018_--_3564.jpg",
+  "w": 960,
+  "h": 600,
+  "alt": "Sugar cubes",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:W%C3%BCrfelzucker_--_2018_--_3564.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
