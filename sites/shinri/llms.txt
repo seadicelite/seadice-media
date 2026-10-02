@@ -48,6 +48,7 @@
   - 6-1 学習とは何か。古典的条件づけとパブロフの実験: https://shinri.seadice.win/course/what-is-classical-conditioning-pavlov/
   - 6-2 オペラント条件づけとは何か。スキナーの実験: https://shinri.seadice.win/course/operant-conditioning-skinner-experiment/
   - 6-3 強化と罰の違い。行動を増やす仕組みと減らす仕組み: https://shinri.seadice.win/course/reinforcement-and-punishment-difference/
+  - 6-4 観察学習とは何か。バンデューラのモデリング実験: https://shinri.seadice.win/course/observational-learning-bandura-modeling/
 - 第7章 思考と知能: 判断のくせ（バイアス）、問題解決、知能。（準備中）
 - 第8章 記憶: 覚える・保つ・思い出す仕組みと、記憶違い。（準備中）
 - 第9章 発達: 子どもから大人、高齢期までの心の変化。愛着。（準備中）
