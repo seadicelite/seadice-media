@@ -6,6 +6,10 @@ description: こころとAI（AI時代の心の負担を研究データで考え
 
 基本は `.claude/commands/research.md` の「読者」「鉄則（信頼性）」「手順」に従う。テンプレートは `.claude/commands/kokoro-template.html`。以下はこころとAI固有の追加・上書きルール。
 
+## URL
+
+公開URLは `https://mentalai.seadice.win/`（内部のslugは kokoro のまま）。記事の canonical・og:url・JSON-LD・パンくずに `kokoro.seadice.win` が残っていたら `mentalai.seadice.win` に直す（2026-10-03にURL変更）。
+
 ## 立ち位置（最重要）
 
 **読者の疲れや不安に、研究データから結論を先に答える。** 「AIについていけない」「仕事を奪われそうで不安」のような、読者が実際に検索する言葉をタイトルにし、冒頭で結論を言い切る（言い切れない場合は「研究ではまだ結論が出ていない」と言い切る）。

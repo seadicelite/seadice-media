@@ -15,11 +15,11 @@
 
 ## 主要ページ
 
-- トップ: https://kokoro.seadice.win/
-- このメディアについて: https://kokoro.seadice.win/about/
-- 出典と検証の方法: https://kokoro.seadice.win/sources/
-- 免責事項: https://kokoro.seadice.win/disclaimer/
-- サイトマップ: https://kokoro.seadice.win/sitemap.xml
+- トップ: https://mentalai.seadice.win/
+- このメディアについて: https://mentalai.seadice.win/about/
+- 出典と検証の方法: https://mentalai.seadice.win/sources/
+- 免責事項: https://mentalai.seadice.win/disclaimer/
+- サイトマップ: https://mentalai.seadice.win/sitemap.xml
 
 ## 記事の書き方の方針
 

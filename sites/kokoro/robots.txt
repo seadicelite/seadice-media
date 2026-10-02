@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kokoro.seadice.win/sitemap.xml
+Sitemap: https://mentalai.seadice.win/sitemap.xml
