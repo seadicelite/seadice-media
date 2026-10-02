@@ -366,5 +366,57 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Old_Victorian_Gas_Lamp,_Barking_-_geograph.org.uk_-_3265642.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "camus-absurd-sisyphus": {
+  "file": "File:Sisyphus Stones 1.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sisyphus_Stones_1.jpg/960px-Sisyphus_Stones_1.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sisyphus_Stones_1.jpg/500px-Sisyphus_Stones_1.jpg",
+  "w": 960,
+  "h": 326,
+  "alt": "The Sisyphus Stones in Fort Washington Park of Upper Manhattan, New York City, are created by Albanian-American artist Uliks Gryka from ston",
+  "artist": "Beyond My Ken",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sisyphus_Stones_1.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "kierkegaard-three-stages": {
+  "file": "File:Peter Hansen - Street scene with children from Enghaveplads, Copenhagen.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Peter_Hansen_-_Street_scene_with_children_from_Enghaveplads%2C_Copenhagen.jpg/960px-Peter_Hansen_-_Street_scene_with_children_from_Enghaveplads%2C_Copenhagen.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Peter_Hansen_-_Street_scene_with_children_from_Enghaveplads%2C_Copenhagen.jpg/500px-Peter_Hansen_-_Street_scene_with_children_from_Enghaveplads%2C_Copenhagen.jpg",
+  "w": 960,
+  "h": 754,
+  "alt": "Copenhagen old street 19th century",
+  "artist": "Peter Hansen",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Peter_Hansen_-_Street_scene_with_children_from_Enghaveplads,_Copenhagen.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "husserl-phenomenology-epoche": {
+  "file": "File:Cup of coffee on café table.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cup_of_coffee_on_caf%C3%A9_table.jpg/960px-Cup_of_coffee_on_caf%C3%A9_table.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cup_of_coffee_on_caf%C3%A9_table.jpg/500px-Cup_of_coffee_on_caf%C3%A9_table.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Cup of coffee on café table",
+  "artist": "Ssu",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cup_of_coffee_on_caf%C3%A9_table.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "beauvoir-becomes-a-woman": {
+  "file": "File:Writing in a notebook with a feather pen while enjoying coffee at a desk surrounded by flowers.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg/960px-Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg/500px-Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "A person is writing in a blank notebook with a feather pen at a desk. A cup of coffee sits nearby, alongside a bouquet of colorful flowers, ",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
