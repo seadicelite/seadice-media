@@ -50,5 +50,18 @@
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:USVI_IMG_5204_-_Minimalist_desk_with_a_wooden_lamp_stand_a_notebook_pencils_in_a_cup_and_a_small_black_device.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ai-chatbot-worries": {
+  "file": "File:A Golden teapot and iron plate with table wares in Lung Dim Sum.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/A_Golden_teapot_and_iron_plate_with_table_wares_in_Lung_Dim_Sum.jpg/960px-A_Golden_teapot_and_iron_plate_with_table_wares_in_Lung_Dim_Sum.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/A_Golden_teapot_and_iron_plate_with_table_wares_in_Lung_Dim_Sum.jpg/500px-A_Golden_teapot_and_iron_plate_with_table_wares_in_Lung_Dim_Sum.jpg",
+  "w": 960,
+  "h": 721,
+  "alt": "A Golden Teapot and Iron bowls, with some table wares and bowls and cup at Lung Dim Sum at Wan Chai, Hong Kong",
+  "artist": "Peachyeung316",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_Golden_teapot_and_iron_plate_with_table_wares_in_Lung_Dim_Sum.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
