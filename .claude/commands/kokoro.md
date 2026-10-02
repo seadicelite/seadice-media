@@ -1,10 +1,10 @@
 ---
-description: こころとAI（AI時代の心の負担を研究データで考えるメディア）の記事ルール。/media kokoro から参照される
+description: AI時代のメンタルヘルス（AI時代の心の負担を研究データで考えるメディア）の記事ルール。/media kokoro から参照される
 ---
 
-# こころとAI の記事ルール
+# AI時代のメンタルヘルス の記事ルール
 
-基本は `.claude/commands/research.md` の「読者」「鉄則（信頼性）」「手順」に従う。テンプレートは `.claude/commands/kokoro-template.html`。以下はこころとAI固有の追加・上書きルール。
+基本は `.claude/commands/research.md` の「読者」「鉄則（信頼性）」「手順」に従う。テンプレートは `.claude/commands/kokoro-template.html`。以下はAI時代のメンタルヘルス固有の追加・上書きルール。
 
 ## URL
 
