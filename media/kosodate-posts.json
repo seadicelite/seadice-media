@@ -1,5 +1,21 @@
 [
  {
+  "slug": "kids-screen-time-hours",
+  "category": "スマホ・スクリーンタイム",
+  "type": "guide",
+  "date": "2026-10-02",
+  "title": "子どものスマホ・動画は何時間まで？年齢別の目安をWHOと研究で整理",
+  "summary": "2〜4歳は1日1時間まで、1歳以下はなし（WHO）。小学生以上は寝る前に使わないことが大切です。"
+ },
+ {
+  "slug": "homework-ai-thinking-skills",
+  "category": "考える力・学び",
+  "type": "guide",
+  "date": "2026-10-02",
+  "title": "宿題にAIを使わせると考える力は落ちる？研究でわかった使い方の分かれ道",
+  "summary": "答えを写す使い方は成績が下がり、ヒントとして使うと下がりにくい。分かれ道は使い方です。"
+ },
+ {
   "slug": "ai-age-for-kids",
   "category": "AIの使わせ方",
   "type": "guide",
