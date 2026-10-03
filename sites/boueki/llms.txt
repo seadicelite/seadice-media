@@ -3,7 +3,7 @@
 > ゼロから学ぶ貿易実務は、貿易の仕事を無料で学べる学習サイトです。貿易実務検定C級の範囲をカバーする全14章の無料講座、貿易用語辞典、確認問題と模擬試験を掲載。登録不要。
 
 ゼロから学ぶ貿易実務はSEADICE(https://seadice.win/)が運営する、貿易実務を無料で学べる学習サイトです。登録不要・無料。
-貿易実務検定C級の範囲をカバーする無料講座「ゼロから学ぶ貿易実務入門」（全14章）と、貿易用語辞典（13語）を掲載しています。
+貿易実務検定C級の範囲をカバーする無料講座「ゼロから学ぶ貿易実務入門」（全14章）と、貿易用語辞典（20語）を掲載しています。
 本文は税関・ジェトロ・ICCなどの一次情報をもとに日本語で独自に書いており、各ページに出典があります。
 
 ## 主要ページ
@@ -22,7 +22,11 @@
   - 1-3 輸出はどんな順番で進むのか。契約から代金回収まで: https://boueki.seadice.win/course/export-flow-overview/
   - 1-4 輸入の流れを全体で見る。発注から国内引き取りまで: https://boueki.seadice.win/course/import-flow-overview/
   - 1-5 数字で見る日本の貿易。主な輸出入品と相手国: https://boueki.seadice.win/course/japan-trade-in-numbers/
-- 第2章 貿易のルールと法律: 外為法・輸出入規制・国際ルール。（準備中）
+- 第2章 貿易のルールと法律: 外為法・輸出入規制・国際ルール。
+  - 2-1 外為法とは。輸出入を規制するしくみ: https://boueki.seadice.win/course/foreign-exchange-and-trade-act/
+  - 2-2 安全保障貿易管理。リスト規制とキャッチオール規制: https://boueki.seadice.win/course/security-export-control/
+  - 2-3 WTOとEPA・FTA。関税が下がるしくみ: https://boueki.seadice.win/course/wto-epa-fta/
+  - 2-4 ウィーン売買条約。国際売買契約の共通ルール: https://boueki.seadice.win/course/vienna-sales-convention-cisg/
 - 第3章 取引先探しと売買契約: 引合いから契約成立までと契約書の中身。（準備中）
 - 第4章 インコタームズ2020: 費用と危険の分かれ目を決める11の取引条件。（準備中）
 - 第5章 代金決済と貿易金融: 送金・取立・信用状の違いと流れ。（準備中）
