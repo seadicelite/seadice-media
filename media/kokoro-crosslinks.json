@@ -1,0 +1,68 @@
+{
+ "bedtime-phone-sleep": [
+  [
+   "kosodate",
+   "bedtime-screen-sleep"
+  ]
+ ],
+ "revenge-bedtime-procrastination": [
+  [
+   "kosodate",
+   "bedtime-screen-sleep"
+  ]
+ ],
+ "partner-phone-phubbing": [
+  [
+   "kosodate",
+   "parent-smartphone-technoference-children"
+  ]
+ ],
+ "chatgpt-thinking-ability": [
+  [
+   "kosodate",
+   "homework-ai-thinking-skills"
+  ]
+ ],
+ "phone-memory-forgetful": [
+  [
+   "kosodate",
+   "ai-answers-memory-retention"
+  ]
+ ],
+ "ai-chat-loneliness": [
+  [
+   "kosodate",
+   "ai-companion-loneliness"
+  ]
+ ],
+ "ai-chatbot-worries": [
+  [
+   "kosodate",
+   "ai-chatbot-conversations-children-risk"
+  ]
+ ],
+ "multitasking-focus": [
+  [
+   "kosodate",
+   "homework-media-multitasking"
+  ]
+ ],
+ "comparison-self-criticism": [
+  [
+   "kosodate",
+   "sibling-comparison-self-esteem"
+  ]
+ ],
+ "ai-feels-human": [
+  [
+   "kosodate",
+   "ai-voice-assistant-child-trust"
+  ]
+ ],
+ "short-video-cant-stop": [
+  [
+   "kosodate",
+   "social-media-cognitive-performance-decline"
+  ]
+ ]
+}

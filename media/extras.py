@@ -197,11 +197,40 @@ def top_links(cfg):
     f.write_text(t)
 
 
+def crosslinks(cfg):
+    """media/{slug}-crosslinks.json: {記事slug: [[他メディアslug, 記事slug], ...]} を記事末の「ほかのメディアの関連記事」に出す。"""
+    m = _load(cfg["slug"], "crosslinks")
+    if not m:
+        return 0
+    import re
+    n = 0
+    for slug, refs in m.items():
+        f = ROOT / cfg["path"] / slug / "index.html"
+        if not f.exists():
+            continue
+        items = ""
+        for ms, s in refs:
+            oc = json.loads((ROOT / f"media/{ms}.json").read_text())
+            op = {p["slug"]: p for p in json.loads((ROOT / f"media/{ms}-posts.json").read_text())}
+            if s not in op:
+                continue
+            items += f'<a href="{oc["url"]}{s}/" target="_blank" rel="noopener"><span class="rb"><small>{E(oc["name"])}</small><p>{E(op[s]["title"])}</p></span></a>'
+        t = re.sub(r"<!--xlinks-->.*?<!--/xlinks-->", "", f.read_text(), flags=re.S)
+        if items:
+            block = f'<!--xlinks--><section class="related"><h2>ほかのメディアの関連記事</h2>{items}</section><!--/xlinks-->'
+            k = "<!--/related-->"
+            t = t.replace(k, k + block, 1) if k in t else t.replace("</article>", block + "</article>", 1)
+            n += 1
+        f.write_text(t)
+    return n
+
+
 def apply(cfg, posts, cats, images, types, theme, favicon, css, card):
     urls = guides(cfg, posts, cats, images, types, theme, favicon, css, card)
     urls += glossary(cfg, posts, theme, favicon, css)
     urls += pages(cfg, theme, favicon, css)
     n = badges(cfg)
+    crosslinks(cfg)
     top_links(cfg)
     if urls:
         sm = ROOT / cfg["path"] / "sitemap.xml"

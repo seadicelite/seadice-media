@@ -1,0 +1,28 @@
+{
+ "child-home-alone-safety-rules": [
+  [
+   "kosodate",
+   "smartphone-first-age-ownership-risk"
+  ],
+  [
+   "kosodate",
+   "location-tracking-app-trust"
+  ]
+ ],
+ "child-stranger-approach-after-school": [
+  [
+   "kosodate",
+   "online-gaming-strangers-chat-risk"
+  ],
+  [
+   "kosodate",
+   "sharenting-sns-photo-risk"
+  ]
+ ],
+ "safe-school-route-environment": [
+  [
+   "kosodate",
+   "location-tracking-app-trust"
+  ]
+ ]
+}
