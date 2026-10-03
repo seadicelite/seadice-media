@@ -185,6 +185,13 @@ def top_links(cfg):
     t = f.read_text()
     nav = '<nav class="gnav" aria-label="ガイド" style="margin:4px 0 24px">' + "".join(f'<a href="{p}">{E(l)}</a>' for l, p in links) + "</nav>"
     k = "</div>"
+    m = t.find("<!--mastend-->")  # mastheadHtml を使うメディアは、このマーカーの直後に置く
+    if m >= 0:
+        t = t[:m] + nav + t[m:]
+        if ".gnav{" not in t:
+            t = t.replace("</style>", EXTRA_CSS + "</style>", 1)
+        f.write_text(t)
+        return
     i = t.find('<div class="maghead">')
     if i < 0:
         i = t.find('<div class="hero">')
