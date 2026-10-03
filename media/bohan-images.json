@@ -440,5 +440,57 @@
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Unidentified_rowhouse_-_DPLA_-_a07afca63d101a2a929886f7e8a455a5.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "crypto-transfer-scam-signs": {
+  "file": "File:Bitcoin BTC Golden coins 8K wallpaper.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin_BTC_Golden_coins_8K_wallpaper.jpg/960px-Bitcoin_BTC_Golden_coins_8K_wallpaper.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin_BTC_Golden_coins_8K_wallpaper.jpg/500px-Bitcoin_BTC_Golden_coins_8K_wallpaper.jpg",
+  "w": 960,
+  "h": 320,
+  "alt": "Creative Bitcoin BTC crypto currency golden coins ultra high Definition 8K wallpaper.",
+  "artist": "Satheesh Sankaran",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_Golden_coins_8K_wallpaper.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "ai-written-phishing-email": {
+  "file": "File:Camera zoom burst on a Microsoft computer keyboard in Tuntorp 8.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Camera_zoom_burst_on_a_Microsoft_computer_keyboard_in_Tuntorp_8.jpg/960px-Camera_zoom_burst_on_a_Microsoft_computer_keyboard_in_Tuntorp_8.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Camera_zoom_burst_on_a_Microsoft_computer_keyboard_in_Tuntorp_8.jpg/500px-Camera_zoom_burst_on_a_Microsoft_computer_keyboard_in_Tuntorp_8.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Camera zoom burst, centering on the letter \"U\", on a black Microsoft Wired 600 computer keyboard with Swedish language characters. This is o",
+  "artist": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Camera_zoom_burst_on_a_Microsoft_computer_keyboard_in_Tuntorp_8.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "qr-code-phishing-sticker": {
+  "file": "File:Mobile Payment.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mobile_Payment.jpg/960px-Mobile_Payment.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mobile_Payment.jpg/500px-Mobile_Payment.jpg",
+  "w": 960,
+  "h": 716,
+  "alt": "Ein Zahlungsvorgang mittels Smartphone und der VeroPay-App. Dabei wird ein am Display dargestellter EAN-Barcode mit dem Kassenscanner abgele",
+  "artist": "Richard Tanzer Fotografie / VeroPay",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Mobile_Payment.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "fake-shopping-site-checklist": {
+  "file": "File:Credit card terminal in Laos.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Credit_card_terminal_in_Laos.jpg/960px-Credit_card_terminal_in_Laos.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Credit_card_terminal_in_Laos.jpg/500px-Credit_card_terminal_in_Laos.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "Processing credit card terminal with a visa card inserted, in Laos. Picture made by the focus stacking technique from 4 images (Helicon focu",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Credit_card_terminal_in_Laos.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
