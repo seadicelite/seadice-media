@@ -3,7 +3,7 @@
 > ゼロから学ぶ貿易実務は、貿易の仕事を無料で学べる学習サイトです。貿易実務検定C級の範囲をカバーする全14章の無料講座、貿易用語辞典、確認問題と模擬試験を掲載。登録不要。
 
 ゼロから学ぶ貿易実務はSEADICE(https://seadice.win/)が運営する、貿易実務を無料で学べる学習サイトです。登録不要・無料。
-貿易実務検定C級の範囲をカバーする無料講座「ゼロから学ぶ貿易実務入門」（全14章）と、貿易用語辞典（51語）を掲載しています。
+貿易実務検定C級の範囲をカバーする無料講座「ゼロから学ぶ貿易実務入門」（全14章）と、貿易用語辞典（59語）を掲載しています。
 本文は税関・ジェトロ・ICCなどの一次情報をもとに日本語で独自に書いており、各ページに出典があります。
 
 ## 主要ページ
@@ -48,7 +48,11 @@
   - 6-1 外国為替相場の読み方。TTS・TTB・仲値: https://boueki.seadice.win/course/reading-exchange-rates-tts-ttb/
   - 6-2 為替リスクとは。円高・円安が貿易に与える影響: https://boueki.seadice.win/course/exchange-rate-risk-strong-weak-yen/
   - 6-3 為替予約で為替リスクを避ける。先物相場と使い方: https://boueki.seadice.win/course/forward-exchange-contract/
-- 第7章 海上輸送: コンテナ輸送と船荷証券。（準備中）
+- 第7章 海上輸送: コンテナ輸送と船荷証券。
+  - 7-1 定期船と不定期船、コンテナ船のしくみ: https://boueki.seadice.win/course/liner-tramp-and-container-ships/
+  - 7-2 FCLとLCL。コンテナ貨物の流れ（CY・CFS）: https://boueki.seadice.win/course/fcl-lcl-cy-cfs-container-flow/
+  - 7-3 船荷証券（B/L）とは。有価証券としての性質: https://boueki.seadice.win/course/bill-of-lading-negotiable-document/
+  - 7-4 海上運賃とサーチャージ。基本運賃と割増料金のしくみ: https://boueki.seadice.win/course/ocean-freight-and-surcharges/
 - 第8章 航空輸送と複合輸送: 航空貨物とフォワーダーの役割。（準備中）
 - 第9章 貨物保険と貿易保険: 貨物の損害と取引リスクへの備え。（準備中）
 - 第10章 通関と関税: 輸出入申告の流れと関税のしくみ。（準備中）

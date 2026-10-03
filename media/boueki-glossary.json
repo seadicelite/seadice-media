@@ -355,5 +355,61 @@
   "en": "Forward exchange contract",
   "field": "外国為替",
   "def": "為替予約とは、将来に外貨を受け払いするときの為替レートを、いま銀行と決めておく取引のことです。原則として取り消せません。"
+ },
+ {
+  "id": "liner",
+  "term": "定期船",
+  "en": "Liner",
+  "field": "運送",
+  "def": "定期船とは、決まった航路と公表したスケジュールに沿って運航し、多くの荷主の貨物をまとめて運ぶ船のことです。大半はコンテナ船です。"
+ },
+ {
+  "id": "tramp",
+  "term": "不定期船",
+  "en": "Tramp",
+  "field": "運送",
+  "def": "不定期船とは、鉱石・穀物・原油などの大口貨物を、荷主の依頼に合わせて運ぶ船のことです。荷主は用船契約を結んで船を借ります。"
+ },
+ {
+  "id": "booking",
+  "term": "船腹予約（ブッキング）",
+  "en": "Booking",
+  "field": "運送",
+  "def": "船腹予約（ブッキング）とは、船会社に船のスペースを申し込むことです。船会社が承諾すると運送契約が成立します。"
+ },
+ {
+  "id": "fcl-lcl",
+  "term": "FCL・LCL",
+  "en": "Full Container Load / Less than Container Load",
+  "field": "運送",
+  "def": "FCL・LCLとは、コンテナ貨物の区分のことです。FCLは1つの荷主でコンテナ1本を満たす貨物、LCLはほかの荷主の貨物とまとめて運ぶ小口貨物です。"
+ },
+ {
+  "id": "cy-cfs",
+  "term": "CY・CFS",
+  "en": "Container Yard / Container Freight Station",
+  "field": "運送",
+  "def": "CY・CFSとは、コンテナターミナルの施設のことです。CYはコンテナの受け渡しと保管をする場所、CFSは小口貨物をコンテナに詰めたり取り出したりする施設です。"
+ },
+ {
+  "id": "sea-waybill",
+  "term": "海上運送状（Sea Waybill）",
+  "en": "Sea Waybill",
+  "field": "運送",
+  "def": "海上運送状（Sea Waybill）とは、船会社が発行する運送書類のうち、有価証券ではないもののことです。荷受人であることを確認できれば原本なしで貨物を引き取れます。"
+ },
+ {
+  "id": "baf-caf",
+  "term": "BAF・CAF",
+  "en": "Bunker Adjustment Factor / Currency Adjustment Factor",
+  "field": "運送",
+  "def": "BAF・CAFとは、海上運賃の割増料金（サーチャージ）のことです。BAFは燃料価格、CAFは為替相場の変動に合わせて調整されます。"
+ },
+ {
+  "id": "thc",
+  "term": "THC",
+  "en": "Terminal Handling Charge",
+  "field": "運送",
+  "def": "THCとは、コンテナターミナル内でのコンテナの取扱料金のことです。原則として積み地と揚げ地の両方で船会社が徴収します。"
  }
 ]
