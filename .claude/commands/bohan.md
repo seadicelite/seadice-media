@@ -1,10 +1,10 @@
 ---
-description: BOHAN（身近な犯罪を研究と統計で読み解く、何も売らない防犯メディア）の記事ルール。/media bohan から参照される
+description: 防犯（bohan、身近な犯罪を研究と統計で読み解く、何も売らない防犯メディア）の記事ルール。/media bohan から参照される
 ---
 
-# BOHAN の記事ルール
+# 防犯 の記事ルール
 
-基本は `.claude/commands/research.md` の「読者」「鉄則（信頼性）」「手順」に従う。テンプレートは `.claude/commands/bohan-template.html`。以下は BOHAN 固有の追加・上書きルール。
+基本は `.claude/commands/research.md` の「読者」「鉄則（信頼性）」「手順」に従う。テンプレートは `.claude/commands/bohan-template.html`。以下は 防犯 固有の追加・上書きルール。
 
 ## 立ち位置（最重要）
 
