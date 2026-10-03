@@ -202,5 +202,9 @@
  {
   "slug": "ai-decision-dependence",
   "date": "2026-10-03"
+ },
+ {
+  "slug": "meeting-replay-regret",
+  "date": "2026-10-04"
  }
 ]
