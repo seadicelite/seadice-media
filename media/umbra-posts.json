@@ -1,5 +1,47 @@
 [
   {
+    "slug": "body-orientation-feet-direction-interest-research",
+    "category": "仕草・ボディランゲージ",
+    "date": "2026-10-03",
+    "title": "体や足先の向きは関心のサインか。研究でわかった「体の向き」と好意の関係",
+    "summary": "体や足先の向きは注意の向き先を示す手がかりにはなるが、好意との関連は弱い。距離や席の影響が大きいことを研究から検証する。"
+  },
+  {
+    "slug": "personal-space-distance-intimacy-research",
+    "category": "仕草・ボディランゲージ",
+    "date": "2026-10-03",
+    "title": "座る距離・立つ距離で親密さはわかるのか。パーソナルスペースと好意の研究",
+    "summary": "心地よい距離は他人135cm・親しい人32cm。距離は親密さを映すが、性別・年齢・不安でも変わる"
+  },
+  {
+    "slug": "touch-affection-signal-research",
+    "category": "仕草・ボディランゲージ",
+    "date": "2026-10-03",
+    "title": "さりげなく触れてくるのは好意のサインか。タッチと好意・関係の研究",
+    "summary": "触れてよい範囲は親しさに比例。でも触れる量は性格や文化で変わり、恋愛感情の証拠にはならない。同意のないタッチはNG"
+  },
+  {
+    "slug": "pupil-dilation-attraction-research",
+    "category": "仕草・ボディランゲージ",
+    "date": "2026-10-03",
+    "title": "好きな人を見ると瞳孔は開くのか。瞳孔と好意・魅力の研究でわかったこと",
+    "summary": "関心で瞳孔は広がるが、明るさや緊張でも変わる。会話中の相手の瞳から好意は判定できない理由を研究で整理"
+  },
+  {
+    "slug": "microexpression-true-feelings-research",
+    "category": "仕草・ボディランゲージ",
+    "date": "2026-10-03",
+    "title": "一瞬の表情「微表情」で本音は読めるのか。マイクロエクスプレッションの研究",
+    "summary": "微表情は全表情の2%しか出ず、訓練しても嘘を見抜く精度は上がらなかった。読める範囲と限界を研究から検証"
+  },
+  {
+    "slug": "self-touch-face-hair-nervousness-research",
+    "category": "仕草・ボディランゲージ",
+    "date": "2026-10-03",
+    "title": "髪や顔をよく触るのは緊張のサインか。自己接触（self-touch）としぐさの研究",
+    "summary": "顔に触れるのは1時間に平均23回。緊張や負荷で増えるが、嘘や好意の証拠にはならないと研究から検証"
+  },
+  {
     "slug": "age-gap-marriage-satisfaction-research",
     "category": "相性と結婚",
     "type": "guide",

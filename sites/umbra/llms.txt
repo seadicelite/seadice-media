@@ -41,9 +41,15 @@
 - [見た目だけで人を見抜けるのか。第一印象の正確さと落とし穴の研究](https://umbra.seadice.win/appearance-first-impression-accuracy-research/): 数秒の映像で当たる性格特性と、0.1秒の信頼感が実際の信頼性とズレる仕組みを研究から確認した。
 - [腕組みは拒絶のサインか？研究でわかった、姿勢と心理の意外な関係](https://umbra.seadice.win/arm-crossing-posture-psychology-research/): 腕組みは服従的な心理と関連する一方、粘り強さを高める効果も。研究でわかっている姿勢と心理の関係を整理。
 - [仕草で嘘は見抜ける？206の研究が示した正解率は、約54%](https://umbra.seadice.win/body-language-lie-detection-accuracy/): 視線や仕草で嘘はわかるのか。メタ分析が示した限界と、代わりにできること。
+- [体や足先の向きは関心のサインか。研究でわかった「体の向き」と好意の関係](https://umbra.seadice.win/body-orientation-feet-direction-interest-research/): 体や足先の向きは注意の向き先を示す手がかりにはなるが、好意との関連は弱い。距離や席の影響が大きいことを研究から検証する。
 - [しぐさが似てくるのは好意のサインか。「カメレオン効果」の研究でわかったこと](https://umbra.seadice.win/chameleon-effect-mimicry-liking-research/): 好意があるとしぐさは似てきやすい。ただし、わざと真似をして好かれる効果は再現されないこともあった。
 - [目が合う回数は「好き」のサインか？心理学研究でわかった視線と恋愛感情の関係](https://umbra.seadice.win/eye-contact-gaze-attraction-research/): アイコンタクトと好意の関係を実験データから検証。自分の記憶は当てにならない。
 - [作り笑いと本物の笑顔は見分けられるか。研究でわかった正解率と、見抜くコツ](https://umbra.seadice.win/fake-smile-duchenne-detection-research/): 73人の実験では見た目だけの判定は五分五分に近い正答率。目じりのシワより口の動きに注目する方が有効という結果も。
+- [一瞬の表情「微表情」で本音は読めるのか。マイクロエクスプレッションの研究](https://umbra.seadice.win/microexpression-true-feelings-research/): 微表情は全表情の2%しか出ず、訓練しても嘘を見抜く精度は上がらなかった。読める範囲と限界を研究から検証
+- [座る距離・立つ距離で親密さはわかるのか。パーソナルスペースと好意の研究](https://umbra.seadice.win/personal-space-distance-intimacy-research/): 心地よい距離は他人135cm・親しい人32cm。距離は親密さを映すが、性別・年齢・不安でも変わる
+- [好きな人を見ると瞳孔は開くのか。瞳孔と好意・魅力の研究でわかったこと](https://umbra.seadice.win/pupil-dilation-attraction-research/): 関心で瞳孔は広がるが、明るさや緊張でも変わる。会話中の相手の瞳から好意は判定できない理由を研究で整理
+- [髪や顔をよく触るのは緊張のサインか。自己接触（self-touch）としぐさの研究](https://umbra.seadice.win/self-touch-face-hair-nervousness-research/): 顔に触れるのは1時間に平均23回。緊張や負荷で増えるが、嘘や好意の証拠にはならないと研究から検証
+- [さりげなく触れてくるのは好意のサインか。タッチと好意・関係の研究](https://umbra.seadice.win/touch-affection-signal-research/): 触れてよい範囲は親しさに比例。でも触れる量は性格や文化で変わり、恋愛感情の証拠にはならない。同意のないタッチはNG
 
 ### 相性と結婚
 
