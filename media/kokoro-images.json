@@ -635,5 +635,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Art_supplies_in_a_table.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ai-disagrees-self-doubt": {
+  "file": "File:Floor with shadow of window and plant, Linneanum, Uppsala, Sweden julesvernex2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Floor_with_shadow_of_window_and_plant%2C_Linneanum%2C_Uppsala%2C_Sweden_julesvernex2.jpg/960px-Floor_with_shadow_of_window_and_plant%2C_Linneanum%2C_Uppsala%2C_Sweden_julesvernex2.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Floor_with_shadow_of_window_and_plant%2C_Linneanum%2C_Uppsala%2C_Sweden_julesvernex2.jpg/500px-Floor_with_shadow_of_window_and_plant%2C_Linneanum%2C_Uppsala%2C_Sweden_julesvernex2.jpg",
+  "w": 960,
+  "h": 602,
+  "alt": "Floor with shadow of window and plant, Linneanum, Uppsala, Sweden",
+  "artist": "Jules Verne Times Two",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Floor_with_shadow_of_window_and_plant,_Linneanum,_Uppsala,_Sweden_julesvernex2.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

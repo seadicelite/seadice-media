@@ -1,5 +1,13 @@
 [
  {
+  "slug": "ai-disagrees-self-doubt",
+  "category": "AIとの付き合い方",
+  "type": "guide",
+  "date": "2026-10-03",
+  "title": "AIと意見が違うと、自分が間違っている気がする。実験では、AIに反対されると約3割で答えを変えていた",
+  "summary": "AIの答えと違うと不安になるのは多くの人に共通。人よりAIの反対で答えを変えやすく、難しい問題ほど頼りやすい。違ったときの確かめ方も。"
+ },
+ {
   "slug": "ai-art-drawing-confidence",
   "category": "比べて落ち込む",
   "type": "guide",
