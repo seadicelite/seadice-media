@@ -41,7 +41,7 @@
 - [見た目だけで人を見抜けるのか。第一印象の正確さと落とし穴の研究](https://umbra.seadice.win/appearance-first-impression-accuracy-research/): 数秒の映像で当たる性格特性と、0.1秒の信頼感が実際の信頼性とズレる仕組みを研究から確認した。
 - [腕組みは拒絶のサインか？研究でわかった、姿勢と心理の意外な関係](https://umbra.seadice.win/arm-crossing-posture-psychology-research/): 腕組みは服従的な心理と関連する一方、粘り強さを高める効果も。研究でわかっている姿勢と心理の関係を整理。
 - [まばたきが増えるのは緊張や嘘のサインか。まばたきの研究でわかったこと](https://umbra.seadice.win/blink-rate-nervousness-lying-research/): まばたきは会話中に増え集中で減る。嘘の実験では嘘をつく間にむしろ減っていた
-- [しぐさで嘘は見抜ける？206の研究が示した正解率は、約54%](https://umbra.seadice.win/body-language-lie-detection-accuracy/): 視線やしぐさで嘘はわかるのか。メタ分析が示した限界と、代わりにできること。
+- [しぐさで嘘は見抜ける？206本の研究文献が示した正解率は、約54%](https://umbra.seadice.win/body-language-lie-detection-accuracy/): 視線やしぐさで嘘はわかるのか。メタ分析が示した限界と、代わりにできること。
 - [体や足先の向きは関心のサインか。研究でわかった「体の向き」と好意の関係](https://umbra.seadice.win/body-orientation-feet-direction-interest-research/): 体や足先の向きは注意の向き先を示す手がかりにはなるが、好意との関連は弱い。距離や席の影響が大きいことを研究から検証する。
 - [しぐさが似てくるのは好意のサインか。「カメレオン効果」の研究でわかったこと](https://umbra.seadice.win/chameleon-effect-mimicry-liking-research/): 好意があるとしぐさは似てきやすい。ただし、わざと真似をして好かれる効果は再現されないこともあった。
 - [目が合う回数は「好き」のサインか？心理学研究でわかった視線と恋愛感情の関係](https://umbra.seadice.win/eye-contact-gaze-attraction-research/): アイコンタクトと好意の関係を実験データから検証。自分の記憶は当てにならない。
@@ -117,7 +117,6 @@
 - このメディアについて: https://umbra.seadice.win/about/
 - 出典と検証の方法: https://umbra.seadice.win/sources/
 - 免責事項: https://umbra.seadice.win/disclaimer/
-- しぐさから引く: https://umbra.seadice.win/guide/
-- しぐさ索引・4択クイズ: https://umbra.seadice.win/shigusa/
+- しぐさ索引・クイズ: https://umbra.seadice.win/shigusa/
 - 用語集: https://umbra.seadice.win/glossary/
 - サイトマップ: https://umbra.seadice.win/sitemap.xml

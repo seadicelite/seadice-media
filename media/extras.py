@@ -101,7 +101,8 @@ def guides(cfg, posts, cats, images, types, theme, favicon, css, card):
         body = (f'  <div class="hero"><h1>{E(x["title"])}</h1></div>\n  <p class="xlead">{E(x["lead"])}</p>\n'
                 f'  <nav class="gnav" aria-label="{E(g["title"])}">{cur_nav}</nav>\n'
                 + (f'  <div class="points"><h2>まず知っておきたいこと</h2><ul>{pts}</ul></div>\n' if pts else "")
-                + f'  <div class="grid">{_cards(x["slugs"], posts, cats, images, types, card)}</div>')
+                + f'  <div class="grid">{_cards(x["slugs"], posts, cats, images, types, card)}</div>'
+                + (f'\n  <p class="xlead" style="margin-top:28px"><a href="{g["cta"]["href"]}" style="color:var(--link);font-weight:700">{E(g["cta"]["label"])}</a></p>' if g.get("cta") else ""))
         by = {p["slug"]: p for p in posts}
         graph = [{"@type": "CollectionPage", "name": x["title"], "url": cfg["url"] + rel, "description": x["lead"],
                   "mainEntity": {"@type": "ItemList", "itemListElement": [
@@ -111,6 +112,8 @@ def guides(cfg, posts, cats, images, types, theme, favicon, css, card):
                           [(g["title"], cfg["url"] + "guide/"), (x["label"], cfg["url"] + rel)]))
     items = "".join(f'<a class="card" href="/guide/{x["id"]}/"><div class="cb"><p class="t">{E(x["title"])}</p><p class="d">{E(x["lead"][:80])}…</p></div></a>' for x in g["items"])
     body = f'  <div class="hero"><h1>{E(g["title"])}</h1></div>\n  <p class="xlead">{E(g["lead"])}</p>\n  <div class="grid">{items}</div>'
+    if g.get("cta"):
+        body += f'\n  <p class="xlead" style="margin-top:28px"><a href="{g["cta"]["href"]}" style="color:var(--link);font-weight:700">{E(g["cta"]["label"])}</a></p>'
     urls.append(_page(cfg, theme, favicon, css, "guide/", f'{g["title"]} | {cfg["name"]}', g["lead"][:120], body,
                       [{"@type": "CollectionPage", "name": g["title"], "url": cfg["url"] + "guide/", "description": g["lead"]}],
                       [(g["title"], cfg["url"] + "guide/")]))

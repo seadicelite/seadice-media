@@ -12,6 +12,10 @@ import json
 import re
 from pathlib import Path
 
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from umbra_shigusa_ill import svg  # noqa: E402
+
 E = html.escape
 ROOT = str(Path(__file__).resolve().parent.parent) + "/"
 URL = "https://umbra.seadice.win/shigusa/"
@@ -45,7 +49,7 @@ def th(slug):
 
 
 def item(x):
-    img, cr = th(x["slug"])
+    img, cr = (svg(x["id"]), "") if svg(x["id"]) else th(x["slug"])
     ev = f'根拠：出典{nsrc(x["slug"])}件' + (f'・{EV[x["evidence"]]}' if x.get("evidence") in EV else "")
     return (f'<li class="sg{" hasth" if img else ""}" id="{x["id"]}" data-p="{E(x["part"])}" data-t="{" ".join(x.get("tags", []))}" data-k="{E(x["gesture"] + x["belief"] + x["text"])}">{img}<div class="sgx">'
             f'<p class="sg-h"><span class="sg-part">{E(x["part"])}</span><span class="lv lv-{x["level"]}">{LV[x["level"]]}</span></p>'
@@ -57,6 +61,9 @@ def item(x):
 items = "".join(item(x) for x in D)
 chips = '<button type="button" class="chip on" data-f="" aria-pressed="true">すべて</button>' + "".join(f'<button type="button" class="chip" data-f="{E(p)}" aria-pressed="false">{E(p)}</button>' for p in parts)
 pchips = '<button type="button" class="pchip on" data-g="" aria-pressed="true">指定しない</button>' + "".join(f'<button type="button" class="pchip" data-g="{x["id"]}" aria-pressed="false">{E(x["label"])}</button>' for x in PUR)
+GUIDE_PART = {"eyes": "目・視線", "face": "表情", "hands": "手・触れる", "posture": "姿勢・距離", "motion": "体の動き", "voice": "声・会話"}
+_guides = json.load(open(ROOT + "media/umbra-guides.json"))["items"]
+partleads = "".join(f'<div class="plead pp" data-pp="{E(GUIDE_PART[g["id"]])}" hidden><p class="pph">{E(GUIDE_PART[g["id"]])}について、まず知っておきたいこと</p><ul>' + "".join(f"<li>{E(p)}</li>" for p in g.get("points", [])) + "</ul></div>" for g in _guides if g["id"] in GUIDE_PART)
 pleads = "".join(f'<p class="plead" data-g="{x["id"]}" hidden>{E(x["lead"])}</p>' for x in PUR)
 qdata = json.dumps([{"q": x["q"], "c": x["c"], "e": x["e"], "u": f'/{x["slug"]}/', "t": posts[x["slug"]]["title"]} for x in Q], ensure_ascii=False).replace("</", "<\\/")
 faq = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
@@ -76,6 +83,7 @@ body = f"""<p>気になったしぐさから、研究でわかっていること
 {pleads}
 <p class="flabel">体の部位から</p>
 <div class="fchips">{chips}</div>
+{partleads}
 <label class="sr" for="q">しぐさを検索</label><input id="q" type="search" placeholder="例：目、腕、触る、声" autocomplete="off">
 <p id="cnt" class="note" aria-live="polite"></p>
 <ul class="sgl" id="list">{items}</ul>
@@ -100,8 +108,8 @@ var q=document.getElementById('q'),cnt=document.getElementById('cnt'),f='',g='',
 function filt(){{var s=q.value.trim(),n=0;li.forEach(function(e){{var ok=(!f||e.dataset.p===f)&&(!g||(' '+e.dataset.t+' ').indexOf(' '+g+' ')>=0)&&(!s||e.dataset.k.indexOf(s)>=0||e.textContent.indexOf(s)>=0);e.hidden=!ok;if(ok)n++}});cnt.textContent=n?n+'件':'見つかりませんでした。条件を変えてみてください。'}}
 q.oninput=filt;
 function grp(sel,key,set){{each(sel,function(b){{b.onclick=function(){{set(b.dataset[key]);each(sel,function(x){{x.classList.toggle('on',x===b);x.setAttribute('aria-pressed',x===b)}});filt()}}}})}}
-grp('.chip','f',function(v){{f=v}});
-grp('.pchip','g',function(v){{g=v;each('.plead',function(p){{p.hidden=p.dataset.g!==v}})}});
+grp('.chip','f',function(v){{f=v;each('.pp',function(p){{p.hidden=p.dataset.pp!==v}})}});
+grp('.pchip','g',function(v){{g=v;each('.plead[data-g]',function(p){{p.hidden=p.dataset.g!==v}})}});
 var box=document.getElementById('quiz'),order,i,score;
 function start(){{started=true;order=sh(Q).slice(0,10);i=0;score=0;show()}}
 function choices(x,root,done){{var ch=sh(x.c);root.innerHTML=ch.map(function(c){{return '<button type="button" class="qb">'+esc(c)+'</button>'}}).join('');
@@ -150,6 +158,9 @@ css = (".tabs{display:flex;gap:8px;margin:20px 0 4px;border-bottom:1px solid var
  ".qb:disabled{cursor:default;opacity:.75}.qb.right{opacity:1;border-color:#7FD6A4;color:#7FD6A4;font-weight:700}.qb.wrong{opacity:1;border-color:#F08A8A;color:#F08A8A}"
  ".qr .res{font-weight:800;font-size:16px;margin:16px 0 4px}.qr a{color:var(--link)}"
  ".nx{font:inherit;font-size:15px;font-weight:700;background:var(--accent);color:#1a1020;border:0;border-radius:10px;padding:12px 20px;margin-top:12px;cursor:pointer}.nx.sub{background:none;color:var(--accent);border:1px solid var(--accent)}"
+ ".ill{width:96px;height:96px;flex:none;border-radius:10px;background:var(--bg);border:1px solid var(--border);color:var(--accent);display:flex;align-items:center;justify-content:center}.ill svg{width:72px;height:72px}"
+ "@media(max-width:480px){.ill{width:72px;height:72px}.ill svg{width:54px;height:54px}}"
+ ".pp ul{margin:4px 0 0 18px!important;padding:0}.pp li{font-size:14px!important;line-height:1.75!important;margin:4px 0!important}.pph{font-size:13px!important;font-weight:700;margin:0!important;color:var(--accent2)}"
  ".flabel{font-size:13px!important;color:var(--muted);margin:14px 0 6px!important}"
  ".pchip{font:inherit;font-size:14px;background:var(--card);color:var(--text);border:1px solid var(--border);border-radius:10px;padding:8px 14px;cursor:pointer}.pchip.on{border-color:var(--accent2);color:var(--accent2)}"
  ".plead{font-size:14px!important;line-height:1.8!important;background:var(--card);border-left:3px solid var(--accent2);border-radius:6px;padding:10px 14px;margin:4px 0 8px!important}"
