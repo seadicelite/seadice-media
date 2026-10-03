@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "email-password-leak-check",
+    "category": "個人情報の流出",
+    "type": "guide",
+    "date": "2026-10-03",
+    "title": "自分のメールアドレスやパスワードは漏れている？無料で確かめる方法と、漏れていたときにすること",
+    "summary": "iPhone・Google・Have I Been Pwnedで無料で確かめる手順と、漏れていたときに最初にすること。"
+  }
+]
