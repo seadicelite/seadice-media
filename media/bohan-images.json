@@ -492,5 +492,57 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Credit_card_terminal_in_Laos.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "sns-photo-location-home": {
+  "file": "File:Window and door on weathered garage wall.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Window_and_door_on_weathered_garage_wall.jpg/960px-Window_and_door_on_weathered_garage_wall.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Window_and_door_on_weathered_garage_wall.jpg/500px-Window_and_door_on_weathered_garage_wall.jpg",
+  "w": 960,
+  "h": 693,
+  "alt": "A window and door on the wall of an old garage outside Walden, NY, USA",
+  "artist": "Daniel Case",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Window_and_door_on_weathered_garage_wall.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "password-reuse-risk": {
+  "file": "File:Solex 99 30 padlock with keys (DSCF2659).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Solex_99_30_padlock_with_keys_%28DSCF2659%29.jpg/960px-Solex_99_30_padlock_with_keys_%28DSCF2659%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Solex_99_30_padlock_with_keys_%28DSCF2659%29.jpg/500px-Solex_99_30_padlock_with_keys_%28DSCF2659%29.jpg",
+  "w": 960,
+  "h": 874,
+  "alt": "Solex 99 30 lock with keys (DSCF2659)",
+  "artist": "Trougnouf",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Solex_99_30_padlock_with_keys_(DSCF2659).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "child-sns-grooming-victims": {
+  "file": "File:HP Elite X3.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/HP_Elite_X3.jpg/960px-HP_Elite_X3.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/HP_Elite_X3.jpg/500px-HP_Elite_X3.jpg",
+  "w": 960,
+  "h": 717,
+  "alt": "Este es el HP Elite X3, el teléfono más potente con Windows 10 y el sucesor del convertible HP Elite X2.",
+  "artist": "Languaeditor",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:HP_Elite_X3.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "older-adults-fraud-psychology": {
+  "file": "File:FeAp 92-1a - handset-4975.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FeAp_92-1a_-_handset-4975.jpg/960px-FeAp_92-1a_-_handset-4975.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FeAp_92-1a_-_handset-4975.jpg/500px-FeAp_92-1a_-_handset-4975.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "FeAp 92-1a - handset",
+  "artist": "Raimond Spekking",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:FeAp_92-1a_-_handset-4975.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
