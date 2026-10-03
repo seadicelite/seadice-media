@@ -1,5 +1,53 @@
 [
   {
+    "slug": "delivery-sms-smishing-check",
+    "category": "詐欺メッセージ",
+    "type": "guide",
+    "date": "2026-10-03",
+    "title": "宅配の不在通知SMSは本物？スミッシングの見分け方とURLを開かずに確かめる手順",
+    "summary": "偽SMSを受け取った人の64.1%が宅配業者を装うものと回答。URLを開かずに本物か確かめる手順。"
+  },
+  {
+    "slug": "celebrity-investment-ad-scam-check",
+    "category": "偽サイト・偽レビュー",
+    "type": "guide",
+    "date": "2026-10-03",
+    "title": "有名人が勧める投資広告は本物？SNS型投資詐欺の作られ方と確かめ方",
+    "summary": "2025年の被害は1,288億円。著名人の偽広告の特徴と、金融庁の登録業者検索で確かめる方法。"
+  },
+  {
+    "slug": "deepfake-video-human-detection",
+    "category": "なりすまし・ディープフェイク",
+    "type": "guide",
+    "date": "2026-10-03",
+    "title": "ディープフェイク動画を人は見抜けるのか。研究でわかった見抜く力の限界と確かめ方",
+    "summary": "人の正答率は約55%で偶然並み。見た目ではなく発信元・元映像・AIラベルで確かめる。"
+  },
+  {
+    "slug": "photo-location-data-check",
+    "category": "SNSから特定される",
+    "type": "guide",
+    "date": "2026-10-03",
+    "title": "スマホの写真に残る位置情報。自分の写真から何がわかるか確かめて消す手順",
+    "summary": "自分の写真に撮影地の位置情報が残っていないか確かめ、iPhone・Androidの標準機能で外す手順。"
+  },
+  {
+    "slug": "fake-online-shop-check",
+    "category": "偽サイト・偽レビュー",
+    "type": "guide",
+    "date": "2026-10-03",
+    "title": "その通販サイトは本物？偽ショップを注文前に見抜く5つのチェック",
+    "summary": "偽ショップはURL・会社概要・支払い方法で多くを見抜ける。注文前の5つのチェックと被害時の対処。"
+  },
+  {
+    "slug": "ai-voice-family-call-check",
+    "category": "なりすまし・ディープフェイク",
+    "type": "guide",
+    "date": "2026-10-03",
+    "title": "家族の声でお金を頼む電話が来た。AI音声のなりすましを確かめる手順",
+    "summary": "研究では人はAIの声を見抜けなかった。一度切って登録済みの番号にかけ直し、合言葉で確かめる。"
+  },
+  {
     "slug": "email-password-leak-check",
     "category": "個人情報の流出",
     "type": "guide",

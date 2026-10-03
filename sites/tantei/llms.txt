@@ -25,9 +25,27 @@
 
 ## 記事一覧
 
+### なりすまし・ディープフェイク
+
+- [家族の声でお金を頼む電話が来た。AI音声のなりすましを確かめる手順](https://tantei.seadice.win/ai-voice-family-call-check/): 研究では人はAIの声を見抜けなかった。一度切って登録済みの番号にかけ直し、合言葉で確かめる。
+- [ディープフェイク動画を人は見抜けるのか。研究でわかった見抜く力の限界と確かめ方](https://tantei.seadice.win/deepfake-video-human-detection/): 人の正答率は約55%で偶然並み。見た目ではなく発信元・元映像・AIラベルで確かめる。
+
+### 偽サイト・偽レビュー
+
+- [有名人が勧める投資広告は本物？SNS型投資詐欺の作られ方と確かめ方](https://tantei.seadice.win/celebrity-investment-ad-scam-check/): 2025年の被害は1,288億円。著名人の偽広告の特徴と、金融庁の登録業者検索で確かめる方法。
+- [その通販サイトは本物？偽ショップを注文前に見抜く5つのチェック](https://tantei.seadice.win/fake-online-shop-check/): 偽ショップはURL・会社概要・支払い方法で多くを見抜ける。注文前の5つのチェックと被害時の対処。
+
+### SNSから特定される
+
+- [スマホの写真に残る位置情報。自分の写真から何がわかるか確かめて消す手順](https://tantei.seadice.win/photo-location-data-check/): 自分の写真に撮影地の位置情報が残っていないか確かめ、iPhone・Androidの標準機能で外す手順。
+
 ### 個人情報の流出
 
 - [自分のメールアドレスやパスワードは漏れている？無料で確かめる方法と、漏れていたときにすること](https://tantei.seadice.win/email-password-leak-check/): iPhone・Google・Have I Been Pwnedで無料で確かめる手順と、漏れていたときに最初にすること。
+
+### 詐欺メッセージ
+
+- [宅配の不在通知SMSは本物？スミッシングの見分け方とURLを開かずに確かめる手順](https://tantei.seadice.win/delivery-sms-smishing-check/): 偽SMSを受け取った人の64.1%が宅配業者を装うものと回答。URLを開かずに本物か確かめる手順。
 
 ## 主要ページ
 

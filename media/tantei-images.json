@@ -11,5 +11,83 @@
   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
   "page": "https://www.rawpixel.com/image/5908216/image-background-public-domain-laptop",
   "source_label": "Rawpixel"
+ },
+ "fake-online-shop-check": {
+  "file": "File:Ecommerce Shopping Cart Abandonment Concept.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ecommerce_Shopping_Cart_Abandonment_Concept.jpg/960px-Ecommerce_Shopping_Cart_Abandonment_Concept.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ecommerce_Shopping_Cart_Abandonment_Concept.jpg/500px-Ecommerce_Shopping_Cart_Abandonment_Concept.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "An image of a miniature shopping cart on its side with pennies spilling out of it, representing an abandoned ecommerce cart. The shopping tr",
+  "artist": "Zuko.io Images",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ecommerce_Shopping_Cart_Abandonment_Concept.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "deepfake-video-human-detection": {
+  "file": "File:Blick durch Lupe (48016132496).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Blick_durch_Lupe_%2848016132496%29.jpg/960px-Blick_durch_Lupe_%2848016132496%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Blick_durch_Lupe_%2848016132496%29.jpg/500px-Blick_durch_Lupe_%2848016132496%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Wikipedia under magnifying glass",
+  "artist": "Tim Reckmann from Hamm, Deutschland",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blick_durch_Lupe_(48016132496).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "ai-voice-family-call-check": {
+  "file": "File:Grey rotary dial telephone.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Grey_rotary_dial_telephone.jpg/960px-Grey_rotary_dial_telephone.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Grey_rotary_dial_telephone.jpg/500px-Grey_rotary_dial_telephone.jpg",
+  "w": 960,
+  "h": 686,
+  "alt": "Teléfono fijo de sobremesa de color gris, equipado con disco de marcación rotatorio y auricular conectado mediante cable en espiral",
+  "artist": "Wilfredor",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Grey_rotary_dial_telephone.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "photo-location-data-check": {
+  "file": "File:IPhone camera.jpeg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/IPhone_camera.jpeg/960px-IPhone_camera.jpeg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/IPhone_camera.jpeg/500px-IPhone_camera.jpeg",
+  "w": 960,
+  "h": 540,
+  "alt": "Apple iPhone",
+  "artist": "IPHONE MAX",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:IPhone_camera.jpeg",
+  "source_label": "Wikimedia Commons"
+ },
+ "celebrity-investment-ad-scam-check": {
+  "file": "File:UK Stock Market - Investing in the United Kingdom.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/UK_Stock_Market_-_Investing_in_the_United_Kingdom.jpg/960px-UK_Stock_Market_-_Investing_in_the_United_Kingdom.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/UK_Stock_Market_-_Investing_in_the_United_Kingdom.jpg/500px-UK_Stock_Market_-_Investing_in_the_United_Kingdom.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "This image of the UK stock market shows a Union Jack alongside an array of stock market data and charts for investors thinking about investi",
+  "artist": "forextime.com",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:UK_Stock_Market_-_Investing_in_the_United_Kingdom.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "delivery-sms-smishing-check": {
+  "file": "File:Parcel package boxes in Ozolnieki.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Parcel_package_boxes_in_Ozolnieki.jpg/960px-Parcel_package_boxes_in_Ozolnieki.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Parcel_package_boxes_in_Ozolnieki.jpg/500px-Parcel_package_boxes_in_Ozolnieki.jpg",
+  "w": 960,
+  "h": 723,
+  "alt": "Parcel package boxes in Ozolnieki",
+  "artist": "Андрей Романенко",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Parcel_package_boxes_in_Ozolnieki.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
