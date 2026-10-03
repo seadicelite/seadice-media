@@ -648,5 +648,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Moscow_-_2026_-_Tverskaya_Street_on_a_hot_summer_day.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ai-era-scam-checklist": {
+  "file": "https://live.staticflickr.com/65535/55457118369_89ac17d821_b.jpg",
+  "src": "https://live.staticflickr.com/65535/55457118369_89ac17d821_b.jpg",
+  "src640": "https://live.staticflickr.com/65535/55457118369_89ac17d821_b.jpg",
+  "w": 1024,
+  "h": 683,
+  "alt": "2218507020",
+  "artist": "Alachua County",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "page": "https://www.flickr.com/photos/66143513@N03/55457118369",
+  "source_label": "Flickr"
  }
 }
