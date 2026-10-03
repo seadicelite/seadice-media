@@ -62,6 +62,12 @@ table{width:100%;border-collapse:collapse;margin:16px 0;font-size:15px;backgroun
 .term{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:12px 0}.term .tt{font-size:17px;font-weight:800;line-height:1.5}.term .en{font-size:13px;color:var(--muted);font-weight:600;margin-left:6px}.term p{margin:6px 0 0;font-size:15px;color:var(--sub)}.term .more{display:inline-block;margin-top:8px;font-size:14px}
 details{background:var(--paper);border:1px solid var(--line);border-radius:14px;margin:12px 0;padding:0}summary{cursor:pointer;padding:14px 18px;font-weight:700;font-size:16px;line-height:1.6}details>div,details>p{padding:0 18px 16px;font-size:15px;color:var(--sub)}
 .quiz ol{padding-left:22px;margin:6px 0 10px}.quiz li{margin:4px 0}.quiz details details{border-style:dashed;margin:10px 0 0}.quiz details details summary{font-size:14px;color:var(--accent);padding:10px 14px}.quiz .ans{color:var(--ok);font-weight:700}
+.qz{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:12px 0}.qz .qq{font-weight:700;margin:0 0 10px;line-height:1.7}.qz .src-l{font-size:12px;color:var(--muted);font-weight:600;display:block;margin-bottom:2px}
+.qz .chs{display:grid;gap:8px}.qz button{font:inherit;font-size:15px;text-align:left;line-height:1.6;color:var(--text);background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px 14px;cursor:pointer}.qz button:hover:not(:disabled){border-color:var(--accent)}.qz button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.qz button:disabled{cursor:default}.qz button.ok{border:2px solid var(--ok);background:color-mix(in srgb,var(--ok) 12%,var(--paper))}.qz button.ng{border:2px solid #C2410C;background:color-mix(in srgb,#C2410C 10%,var(--paper))}
+.qz .res{font-weight:800;margin:10px 0 0}.qz .res.ok{color:var(--ok)}.qz .res.ng{color:#C2410C}.qz details{margin:10px 0 0;border-style:dashed}.qz details summary{font-size:14px;color:var(--accent);padding:10px 14px}.qz details p{padding:0 14px 12px;margin:0;font-size:15px;color:var(--sub)}
+.score{font-size:17px;font-weight:800;margin:16px 0 0}.score:empty{display:none}.score ul{font-size:15px;font-weight:400;margin:8px 0 0 20px}
+.review{background:var(--soft);border-radius:16px;padding:18px 20px;margin:20px 0}.review .bt{font-size:15px;font-weight:800;color:var(--accent);letter-spacing:.06em;margin:0 0 4px}.review>p{font-size:14px;color:var(--sub);margin:0 0 6px}
 .pn{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:40px 0 0}.pn a{display:block;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:12px 16px;text-decoration:none;color:var(--text);font-size:14px;line-height:1.5}.pn a:hover{border-color:var(--accent)}.pn small{display:block;font-size:12px;color:var(--accent);font-weight:700}.pn .nx{text-align:right;grid-column:2}
 @media(max-width:520px){.pn{grid-template-columns:1fr}.pn .nx{grid-column:1}}
 .final{margin:48px 0 0;background:var(--paper);border:2px solid var(--accent);border-radius:20px;padding:22px 20px 10px}.final h2{margin:0 0 10px;padding:0}.final .fk{font-size:13px;font-weight:800;color:var(--accent);letter-spacing:.12em;margin:0 0 4px}.final details{background:var(--bg)}
@@ -82,6 +88,41 @@ def favicon():
 FAV = favicon()
 CUR = ' aria-current="page"'
 NAV = [("/course/", "講座"), ("/glossary/", "用語辞典")]
+
+
+QUIZ_JS = """document.querySelectorAll('.quiz').forEach(function(z){var qs=z.querySelectorAll('.qz'),n=0,ok=0,miss={};
+qs.forEach(function(q){var bs=q.querySelectorAll('button'),a=+q.dataset.a;bs.forEach(function(b,i){b.addEventListener('click',function(){if(q.dataset.done)return;q.dataset.done=1;n++;
+var r=q.querySelector('.res');if(i===a){ok++;r.textContent='正解です';r.className='res ok'}else{miss[q.dataset.h]=q.dataset.t;r.textContent='不正解です（正解は '+(a+1)+'）';r.className='res ng'}
+bs.forEach(function(x,j){x.disabled=true;if(j===a)x.classList.add('ok');else if(j===i)x.classList.add('ng')});var d=q.querySelector('details');d.open=true;d.querySelector('summary').textContent='解説';
+if(n===qs.length){var s=z.querySelector('.score'),k=Object.keys(miss).sort(function(x,y){return miss[x]<miss[y]?-1:1}),h=qs.length+'問中'+ok+'問正解。';
+if(!k.length)h+='全問正解です。';else if(z.dataset.mode==='test')h+='次のレッスンを読み直しましょう。<ul>'+k.map(function(u){return '<li><a href="'+u+'">'+miss[u]+'</a></li>'}).join('')+'</ul>';else h+='間違えた問題は、本文を読み直してから次に進みましょう。';s.innerHTML=h}})})})});"""
+
+
+def quiz_html(items, mode="lesson"):
+    """items: [(問題, レッスン番号, レッスンURL)]。タップで採点（JS）。JSなしでも「答えを見る」で答えを確認できる。"""
+    out = ""
+    for i, (q, no, href) in enumerate(items):
+        chs = "".join(f'<button type="button">{j+1}. {E(c)}</button>' for j, c in enumerate(q["choices"]))
+        tag = f'<span class="src-l">レッスン{no}から</span>' if mode != "lesson" else ""
+        out += (f'<div class="qz" data-a="{q["a"]}" data-h="{href}" data-t="レッスン{no}を読み直す">{tag}<p class="qq">Q{i+1}. {E(q["q"])}</p>'
+                f'<div class="chs">{chs}</div><p class="res" aria-live="polite"></p>'
+                f'<details><summary>答えを見る</summary><p><span class="ans">正解: {q["a"]+1}. {E(q["choices"][q["a"]])}</span><br>{E(q["exp"])}</p></details></div>')
+    return f'<div class="quiz" data-mode="{mode}">{out}<div class="score" aria-live="polite"></div></div>'
+
+
+def lesson_no(l):
+    for ch in COURSE["chapters"]:
+        for i, x in enumerate(ch["lessons"]):
+            if x["id"] == l["id"]:
+                return f'{ch["no"]}-{i+1}'
+
+
+def complete(ch):
+    return ch["lessons"] and len(ch["lessons"]) >= len(ch.get("plan", []))
+
+
+def test_path(ch):
+    return f'course/{ch["id"]}-test/'
 
 
 def crumbs(trail):
@@ -123,6 +164,7 @@ def write(path, full_title, desc, body, graph, trail=(), og_type="article", curr
 <main{' class="wide"' if wide else ''}>
 {bc}{body}
 </main>
+{'<script>' + QUIZ_JS + '</script>' if 'class="quiz"' in body else ''}
 <footer class="site"><p><a href="/course/">ゼロから学ぶ貿易実務入門</a><a href="/glossary/">貿易用語辞典</a><br><a href="/about/">このサイトについて</a><a href="/sources/">出典と検証の方法</a><a href="/disclaimer/">免責事項</a><a href="mailto:hi@seadice.win">お問い合わせ</a><br><a href="https://seadice.win/">運営: SEADICE</a></p></footer>
 </body>
 </html>
@@ -202,7 +244,7 @@ def chapter_list(current=None):
     for c in COURSE["chapters"]:
         if c["lessons"]:
             items = "".join(f'<li><a href="/course/{l["id"]}/"{CUR if current == l["id"] else ""}><span class="no">{c["no"]}-{i+1}</span>{E(l["short"])}</a></li>' for i, l in enumerate(c["lessons"]))
-            out += f'<div class="card" id="ch{c["no"]}"><small>第{c["no"]}章</small><b>{E(c["title"])}</b><span>{E(c["desc"])}</span><ol class="lessons">{items}</ol></div>'
+            out += f'<div class="card" id="ch{c["no"]}"><small>第{c["no"]}章</small><b>{E(c["title"])}</b><span>{E(c["desc"])}</span><ol class="lessons">{items}</ol>' + (f'<p style="margin:10px 0 0;font-size:14px;font-weight:700"><a href="/{test_path(c)}">第{c["no"]}章のまとめテスト（{sum(len(x["quiz"]) for x in c["lessons"])}問）</a></p>' if complete(c) else '') + '</div>'
         else:
             out += f'<div class="card soon" id="ch{c["no"]}"><small>第{c["no"]}章</small><b>{E(c["title"])}</b><span>{E(c["desc"])}</span><span class="st">準備中</span></div>'
     return out
@@ -216,7 +258,7 @@ def course_index():
 <p class="lead">{E(COURSE["title"])}は、貿易の仕事の全体像をゼロから学べる無料のオンライン講座です。貿易実務検定C級の出題範囲をカバーしています。登録は不要で、1レッスン10分ほどで読めます。</p>
 {f'<div class="btns"><a class="btn" href="/course/{first["id"]}/">第1章から学びはじめる</a><a class="btn sub" href="/glossary/">用語辞典を見る</a></div>' if first else ''}
 <div class="box key"><p class="bt">この講座の特徴</p><ul>
-<li>1レッスンは「学習目標 → 要点 → 本文 → キーワード（日本語・英語） → 確認問題 → 出典」の順に進みます。</li>
+<li>1レッスンは「前回の復習 → 学習目標 → 要点 → 本文 → キーワード（日本語・英語） → 確認クイズ」の順に進みます。読んだ直後にクイズで思い出し、章の最後のまとめテストで仕上げます。</li>
 <li>本文は、税関・ジェトロ・国際商業会議所（ICC）などの一次情報をもとに書いています。各レッスンの末尾に出典があります。</li>
 <li>確認問題はすべてオリジナルです。過去問や市販の問題集の問題は使っていません。最後の章で模擬試験に挑戦できます。</li>
 </ul></div>
@@ -239,15 +281,18 @@ def lesson(ci, li):
     secs = "".join(f'<h2><span class="n">{i+1:02d}</span>{E(s["h"])}</h2><p class="answer">{E(s["answer"])}</p>' + "".join(f"<p>{E(p)}</p>" for p in s["paras"]) for i, s in enumerate(l["sections"]))
     terms = "".join(f'<div class="term"><span class="tt">{E(t["ja"])}</span><span class="en">{E(t["en"])}</span><p>{E(t["def"])}</p></div>' for t in l["terms"])
     exs = "".join(f'<li><a href="{ARTICLES[e["slug"]][0]}">{E(e["text"])}</a> <small>（{E(ARTICLES[e["slug"]][2])}）</small></li>' for e in l.get("examples", []) if e["slug"] in ARTICLES)
-    quiz = "".join(
-        f'<details open><summary>Q{i+1}. {E(q["q"])}</summary><div><ol>' + "".join(f"<li>{E(c)}</li>" for c in q["choices"]) +
-        f'</ol><details><summary>答えを見る</summary><p><span class="ans">正解: {q["a"]+1}. {E(q["choices"][q["a"]])}</span><br>{E(q["exp"])}</p></details></div></details>'
-        for i, q in enumerate(l["quiz"]))
+    quiz = quiz_html([(q, no, lurl(l).replace(URL, "/")) for q in l["quiz"]])
+    # 前回の復習: 直前のレッスンと、3つ前のレッスンから1問ずつ（間隔をあけて思い出すと定着しやすい）
+    rv = [(LESSONS[k][1], LESSONS[k][1]["quiz"][idx % len(LESSONS[k][1]["quiz"])]) for k in (idx - 1, idx - 3) if k >= 0]
+    review = (f'<div class="review"><p class="bt">前回の復習（1分）</p><p>本文に入る前に、前のレッスンの内容を思い出してみましょう。</p>'
+              + quiz_html([(q, lesson_no(x), lurl(x).replace(URL, "/")) for x, q in rv], mode="review") + '</div>') if rv else ""
+    last = li == len(ch["lessons"]) - 1 and complete(ch)
     srcs = "".join(f'<li><a href="{s["url"]}" target="_blank" rel="noopener">{E(s["text"])}</a></li>' for s in l["sources"])
     chlist = "".join(f'<li><a href="/course/{x["id"]}/"{CUR if x["id"] == l["id"] else ""}><span class="no">{ch["no"]}-{j+1}</span>{E(x["short"])}</a></li>' for j, x in enumerate(ch["lessons"]))
     body = f'''<span class="kicker">第{ch["no"]}章 {E(ch["title"])} ・ レッスン{no}</span>
 <h1>{E(l["title"])}</h1>
 <p class="updated">読む時間の目安: {read_min(l)}分 ・ 公開日 {l.get("date", UPDATED)}</p>
+{review}
 <div class="box"><p class="bt">このレッスンの学習目標</p><ul>{"".join(f"<li>{E(g)}</li>" for g in l["goals"])}</ul></div>
 <div class="box key"><p class="bt">要点</p><ol>{"".join(f"<li>{E(s)}</li>" for s in l["summary"])}</ol></div>
 {secs}
@@ -259,11 +304,11 @@ def lesson(ci, li):
 <section class="final" aria-labelledby="quiz-h">
 <p class="fk">LESSON {no} の仕上げ</p>
 <h2 id="quiz-h">確認クイズ（全{len(l["quiz"])}問）</h2>
-<p class="answer">学んだ内容を確かめましょう。答えを見る前に、自分で選んでみてください。</p>
+<p class="answer">読んだ直後に思い出すと、記憶に残りやすくなります。選択肢をタップして答えてください。</p>
 <div class="quiz">{quiz}</div>
 </section>
 <div class="done"><p class="dt">レッスン{no}はここまでです</p><p class="dd">クイズで迷った問題があれば、その見出しの本文を読み直してから次に進みましょう。</p>
-<div class="btns" style="margin:14px 0 0">{f'<a class="btn" href="/course/{next_l["id"]}/">次のレッスン: {E(next_l["short"])}</a>' if next_l else '<a class="btn" href="/course/">講座の目次へ（次の章は準備中です）</a>'}{f'<a class="btn sub" href="/course/{prev_l["id"]}/">前のレッスン</a>' if prev_l else ''}</div>
+<div class="btns" style="margin:14px 0 0">{f'<a class="btn" href="/{test_path(ch)}">第{ch["no"]}章のまとめテストに挑戦</a>' if last else ''}{f'<a class="btn{" sub" if last else ""}" href="/course/{next_l["id"]}/">次のレッスン: {E(next_l["short"])}</a>' if next_l else '<a class="btn" href="/course/">講座の目次へ（次の章は準備中です）</a>'}{f'<a class="btn sub" href="/course/{prev_l["id"]}/">前のレッスン</a>' if prev_l else ''}</div>
 <details style="margin-top:16px"><summary>第{ch["no"]}章 {E(ch["title"])} のレッスン一覧</summary><div><ol class="lessons">{chlist}</ol><p style="margin:10px 0 0;font-size:14px"><a href="/course/">講座の目次（全{N_CH}章）へ</a></p></div></details>
 </div>'''
     url = lurl(l)
@@ -280,6 +325,28 @@ def lesson(ci, li):
     ]
     return write(f'course/{l["id"]}/', f'{l["title"]}｜貿易実務入門 {no} | {NAME}', l["description"], body, graph,
                  trail=[("講座", CURL), (f'第{ch["no"]}章 {ch["title"]}', CURL), (l["short"], url)], current="/course/")
+
+
+def chapter_test(ch):
+    """章のまとめテスト。各レッスンの問題を、レッスンが交互になるように並べる。"""
+    ls = ch["lessons"]
+    items = [(l["quiz"][k], f'{ch["no"]}-{i+1}', lurl(l).replace(URL, "/")) for k in range(max(len(l["quiz"]) for l in ls)) for i, l in enumerate(ls) if k < len(l["quiz"])]
+    url = f"{URL}{test_path(ch)}"
+    title = f'第{ch["no"]}章 {ch["title"]} まとめテスト'
+    nxt = next((c for c in COURSE["chapters"] if c["no"] == ch["no"] + 1 and c["lessons"]), None)
+    body = f'''<span class="kicker">第{ch["no"]}章のまとめ</span>
+<h1>{E(title)}（全{len(items)}問）</h1>
+<p class="updated">対象: レッスン{ch["no"]}-1〜{ch["no"]}-{len(ls)} ・ 目安 {max(3, len(items) // 2)}分</p>
+<p class="lead">第{ch["no"]}章「{E(ch["title"])}」で学んだ内容を、まとめて確かめるテストです。レッスンが混ざった順番で出題します。最後に、間違えた問題のレッスンへのリンクが出ます。</p>
+{quiz_html(items, mode="test")}
+<div class="done"><p class="dt">第{ch["no"]}章はここまでです</p><p class="dd">間違えた問題は、表示されたレッスンを読み直してから、もう一度このテストに挑戦しましょう。</p>
+<div class="btns" style="margin:14px 0 0">{f'<a class="btn" href="/course/{nxt["lessons"][0]["id"]}/">第{nxt["no"]}章へ進む: {E(nxt["title"])}</a>' if nxt else '<a class="btn" href="/course/">講座の目次へ</a>'}<a class="btn sub" href="/course/#ch{ch["no"]}">第{ch["no"]}章のレッスン一覧</a></div></div>'''
+    graph = [{"@type": "Quiz", "name": title, "url": url, "inLanguage": "ja", "educationalLevel": "初級", "isAccessibleForFree": True,
+              "about": ch["title"], "isPartOf": {"@id": CURL + "#course"}, "publisher": PUBLISHER,
+              "hasPart": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["choices"][q["a"]]}} for q, _, _ in items]}]
+    return write(test_path(ch), f'{title}（全{len(items)}問）| {NAME}',
+                 f'第{ch["no"]}章「{ch["title"]}」の確認問題{len(items)}問。タップで答えて、間違えた問題のレッスンを読み直せます。無料・登録不要。', body, graph,
+                 trail=[("講座", CURL), (f'第{ch["no"]}章 {ch["title"]}', CURL), ("まとめテスト", url)], current="/course/")
 
 
 # ---------------- 用語辞典 ----------------
@@ -443,6 +510,8 @@ if __name__ == "__main__":
     for ci, ch in enumerate(COURSE["chapters"]):
         for li in range(len(ch["lessons"])):
             urls.append(lesson(ci, li))
+        if complete(ch):
+            urls.append(chapter_test(ch))
     urls += [glossary()] + [term_page(t) for t in TERMS if rich(t)]
     urls += trust_pages()
     extras(urls)
