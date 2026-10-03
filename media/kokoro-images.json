@@ -661,5 +661,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Fork_in_the_path_up_.Lad_Law_-_geograph.org.uk_-_8373118.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "meeting-replay-regret": {
+  "file": "File:Quiet meeting room (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Quiet_meeting_room_%28Unsplash%29.jpg/960px-Quiet_meeting_room_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Quiet_meeting_room_%28Unsplash%29.jpg/500px-Quiet_meeting_room_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "1751 Rue Richardson, Montréal, Canada",
+  "artist": "Breather breather",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Quiet_meeting_room_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
