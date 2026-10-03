@@ -1,7 +1,7 @@
 [
   {
     "slug": "body-orientation-feet-direction-interest-research",
-    "category": "仕草・ボディランゲージ",
+    "category": "しぐさ・ボディランゲージ",
     "type": "guide",
     "date": "2026-10-03",
     "title": "体や足先の向きは関心のサインか。研究でわかった「体の向き」と好意の関係",
@@ -9,7 +9,7 @@
   },
   {
     "slug": "personal-space-distance-intimacy-research",
-    "category": "仕草・ボディランゲージ",
+    "category": "しぐさ・ボディランゲージ",
     "type": "guide",
     "date": "2026-10-03",
     "title": "座る距離・立つ距離で親密さはわかるのか。パーソナルスペースと好意の研究",
@@ -17,7 +17,7 @@
   },
   {
     "slug": "touch-affection-signal-research",
-    "category": "仕草・ボディランゲージ",
+    "category": "しぐさ・ボディランゲージ",
     "type": "guide",
     "date": "2026-10-03",
     "title": "さりげなく触れてくるのは好意のサインか。タッチと好意・関係の研究",
@@ -25,7 +25,7 @@
   },
   {
     "slug": "pupil-dilation-attraction-research",
-    "category": "仕草・ボディランゲージ",
+    "category": "しぐさ・ボディランゲージ",
     "type": "guide",
     "date": "2026-10-03",
     "title": "好きな人を見ると瞳孔は開くのか。瞳孔と好意・魅力の研究でわかったこと",
@@ -33,7 +33,7 @@
   },
   {
     "slug": "microexpression-true-feelings-research",
-    "category": "仕草・ボディランゲージ",
+    "category": "しぐさ・ボディランゲージ",
     "type": "guide",
     "date": "2026-10-03",
     "title": "一瞬の表情「微表情」で本音は読めるのか。マイクロエクスプレッションの研究",
@@ -41,7 +41,7 @@
   },
   {
     "slug": "self-touch-face-hair-nervousness-research",
-    "category": "仕草・ボディランゲージ",
+    "category": "しぐさ・ボディランゲージ",
     "type": "guide",
     "date": "2026-10-03",
     "title": "髪や顔をよく触るのは緊張のサインか。自己接触（self-touch）としぐさの研究",
@@ -137,7 +137,7 @@
   },
   {
     "slug": "chameleon-effect-mimicry-liking-research",
-    "category": "仕草・ボディランゲージ",
+    "category": "しぐさ・ボディランゲージ",
     "type": "guide",
     "date": "2026-10-02",
     "title": "しぐさが似てくるのは好意のサインか。「カメレオン効果」の研究でわかったこと",
@@ -249,7 +249,7 @@
   },
   {
     "slug": "appearance-first-impression-accuracy-research",
-    "category": "仕草・ボディランゲージ",
+    "category": "しぐさ・ボディランゲージ",
     "type": "guide",
     "date": "2026-09-30",
     "title": "見た目だけで人を見抜けるのか。第一印象の正確さと落とし穴の研究",
@@ -377,7 +377,7 @@
   },
   {
     "slug": "fake-smile-duchenne-detection-research",
-    "category": "仕草・ボディランゲージ",
+    "category": "しぐさ・ボディランゲージ",
     "type": "guide",
     "date": "2026-09-26",
     "title": "作り笑いと本物の笑顔は見分けられるか。研究でわかった正解率と、見抜くコツ",
@@ -393,7 +393,7 @@
   },
   {
     "slug": "arm-crossing-posture-psychology-research",
-    "category": "仕草・ボディランゲージ",
+    "category": "しぐさ・ボディランゲージ",
     "type": "guide",
     "date": "2026-09-23",
     "title": "腕組みは拒絶のサインか？研究でわかった、姿勢と心理の意外な関係",
@@ -433,7 +433,7 @@
   },
   {
     "slug": "eye-contact-gaze-attraction-research",
-    "category": "仕草・ボディランゲージ",
+    "category": "しぐさ・ボディランゲージ",
     "type": "guide",
     "date": "2026-09-22",
     "title": "目が合う回数は「好き」のサインか？心理学研究でわかった視線と恋愛感情の関係",
@@ -459,11 +459,11 @@
   },
   {
     "slug": "body-language-lie-detection-accuracy",
-    "category": "仕草・ボディランゲージ",
+    "category": "しぐさ・ボディランゲージ",
     "type": "guide",
     "date": "2026-09-21",
-    "title": "仕草で嘘は見抜ける？206の研究が示した正解率は、約54%",
-    "summary": "視線や仕草で嘘はわかるのか。メタ分析が示した限界と、代わりにできること。",
+    "title": "しぐさで嘘は見抜ける？206の研究が示した正解率は、約54%",
+    "summary": "視線やしぐさで嘘はわかるのか。メタ分析が示した限界と、代わりにできること。",
     "rank": 2
   },
   {

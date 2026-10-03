@@ -90,7 +90,7 @@ def render(cfg, posts, cats, images, types, img_url, card):
     default_trust = [
         ("AIが出典を確認して作成", "公開されている研究論文・公的機関の資料をAIが調べ、内容を照合しています。"),
         ("診断ではありません", "特定の人を診断・判定するものではありません。深刻な被害や不調は専門機関へ。"),
-        ("断定しません", "仕草や行動は「研究ではこうだった」と精度や限界を添えて紹介します。"),
+        ("断定しません", "しぐさや行動は「研究ではこうだった」と精度や限界を添えて紹介します。"),
     ]
     trust_items = cfg.get("trust") or default_trust  # cfgでメディア固有の文言に上書きできる(未指定なら既存の文言のまま)
     trust = "<div class=\"trust\">" + "".join(f'<div><b>{E(t)}</b>{E(d)}</div>' for t, d in trust_items) + "</div>"
