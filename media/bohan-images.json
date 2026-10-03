@@ -544,5 +544,57 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:FeAp_92-1a_-_handset-4975.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "vehicle-motorcycle-theft-immobilizer": {
+  "file": "File:Toulouse-motorcycle.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Toulouse-motorcycle.jpg/960px-Toulouse-motorcycle.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Toulouse-motorcycle.jpg/500px-Toulouse-motorcycle.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "A brightly painted motorcycle with various patterns on different parts of the bike, parked on a street in Toulouse, France in front of a red",
+  "artist": "Sskling",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Toulouse-motorcycle.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "door-to-door-inspection-scam": {
+  "file": "File:ABB installation contactor (German - Installationsschütz) 240V 24A installed in fuse box in Germany.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ABB_installation_contactor_%28German_-_Installationssch%C3%BCtz%29_240V_24A_installed_in_fuse_box_in_Germany.jpg/960px-ABB_installation_contactor_%28German_-_Installationssch%C3%BCtz%29_240V_24A_installed_in_fuse_box_in_Germany.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ABB_installation_contactor_%28German_-_Installationssch%C3%BCtz%29_240V_24A_installed_in_fuse_box_in_Germany.jpg/500px-ABB_installation_contactor_%28German_-_Installationssch%C3%BCtz%29_240V_24A_installed_in_fuse_box_in_Germany.jpg",
+  "w": 960,
+  "h": 712,
+  "alt": "ABB installation contactor (German - Installationsschütz) 240V 24A installed in fuse box in Germany. Such a device is typically installed on",
+  "artist": "Pittigrilli",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:ABB_installation_contactor_(German_-_Installationssch%C3%BCtz)_240V_24A_installed_in_fuse_box_in_Germany.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "living-alone-women-home-safety": {
+  "file": "File:Door chain.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Door_chain.JPG/960px-Door_chain.JPG",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Door_chain.JPG/500px-Door_chain.JPG",
+  "w": 960,
+  "h": 649,
+  "alt": "Door chain",
+  "artist": "Santeri Viinamäki",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Door_chain.JPG",
+  "source_label": "Wikimedia Commons"
+ },
+ "moving-new-home-security": {
+  "file": "File:Close-up of the key with house keychain.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Close-up_of_the_key_with_house_keychain.jpg/960px-Close-up_of_the_key_with_house_keychain.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Close-up_of_the_key_with_house_keychain.jpg/500px-Close-up_of_the_key_with_house_keychain.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "A key with a house design hangs in a door lock. The setting is a bright indoor area, possibly a hallway or entryway. This scene shows the st",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Close-up_of_the_key_with_house_keychain.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

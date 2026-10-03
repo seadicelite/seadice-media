@@ -30,6 +30,7 @@ BOHANはSEADICE(https://seadice.win/)が運営する、無料・広告なしの�
 
 - [空き巣はどんな家を狙うのか。下見のポイントと「5分」の研究](https://bohan.seadice.win/burglar-target-selection-5-minutes/): 空き巣が下見で見るのは留守か・入りやすいか・逃げやすいか。家の豊かさより近さと入りやすさが決め手でした。
 - [在宅中でも押し入る侵入強盗。増える手口と、家でできる備え](https://bohan.seadice.win/home-invasion-robbery-at-home/): 住宅を狙う侵入強盗は令和7年に13.2%増。在宅中の施錠と、すぐに開けない習慣が基本です。
+- [引っ越し直後は狙われやすい？ 新居で最初の1週間にやっておきたい防犯](https://bohan.seadice.win/moving-new-home-security/): 住む人が入れ替わった住宅は犯罪の被害を受けやすい。共同住宅の侵入では合かぎが12.9〜24.6%。新居では鍵の扱いを確かめ、窓とドアの施錠を習慣にする。
 - [一度入られた家はまた狙われるのか。空き巣の再被害の研究](https://bohan.seadice.win/repeat-burglary-victimization/): 再被害は最初の1か月に平均の6.4倍。危険は近所にも広がるので、被害直後の対策が大切です。
 - [留守中の空き巣を防ぐ旅行前チェック。留守を見抜く手口と対策](https://bohan.seadice.win/vacation-empty-home-burglary/): 侵入者が留守を確かめる方法の最多はインターホン。旅行前に留守のサインを消しましょう。
 - [空き巣はなぜ減ったのか。防犯設備の普及と「取り残される家」の研究](https://bohan.seadice.win/why-burglary-declined-security/): 空き巣の減少は鍵と照明の普及のおかげ。対策のない家は逆に狙われやすくなっていました。
@@ -51,11 +52,13 @@ BOHANはSEADICE(https://seadice.win/)が運営する、無料・広告なしの�
 ### 一人暮らしの防犯
 
 - [オートロックのマンションは本当に安全か。共同住宅の侵入統計](https://bohan.seadice.win/auto-lock-apartment-burglary/): 4階建以上のマンションでも、侵入の1位は鍵のかけ忘れ。部屋のドアと窓が最後の守りです。
+- [性被害の4割は住まいで起きている。一人暮らしの女性が部屋選びと帰宅時にできること](https://bohan.seadice.win/living-alone-women-home-safety/): 東京では不同意性交等の約4割が住宅で起きていた。オートロックや高層階でも施錠し、玄関を開ける前に周りを確かめる。部屋選びでは出入りのしにくさを見る。
 
 ### 自転車・車の盗難
 
 - [自転車盗難の多くは無施錠。盗まれにくい止め方と鍵の研究](https://bohan.seadice.win/bicycle-theft-unlocked-statistics/): 自転車盗難の65.5%は無施錠。鍵をかけ、決められた駐輪場に止めるだけで盗まれにくくなります。
 - [車上ねらいはなぜ起きるのか。無施錠と「見える貴重品」の統計](https://bohan.seadice.win/car-break-in-unlocked-visible-items/): 車上ねらいの73.5%は無施錠。鍵をかけ、車内に物を見せないことが最も確実な対策です。
+- [オートバイ盗が1年で25%増。車とバイクの盗難の3割は「キーあり」だった](https://bohan.seadice.win/vehicle-motorcycle-theft-immobilizer/): 2025年、オートバイ盗は1万4,552件で25%増、自動車盗は6,386件。東京では約3割がキーを付けたまま。キーを抜く、ロックを重ねることで狙われにくくなる。
 
 ### 防犯の心理学
 
@@ -63,6 +66,7 @@ BOHANはSEADICE(https://seadice.win/)が運営する、無料・広告なしの�
 - [防犯カメラは犯罪を減らすのか。40年分の研究が示す効果と限界](https://bohan.seadice.win/cctv-crime-prevention-research/): 防犯カメラの効果は確かだが控えめ。駐車場で最も効き、他の対策と組み合わせると大きくなります。
 - [防犯しても犯罪はよそへ移るだけ？ 犯罪の転移と「効果の広がり」の研究](https://bohan.seadice.win/crime-displacement-diffusion-benefits/): 犯罪が移ったのは観察の26%、周りでも減ったのは27%。守ると周りまで守られる傾向があります。
 - [犯罪は街のごく一部に集中する。「ホットスポット」の研究と、危ない場所の見分け方](https://bohan.seadice.win/crime-hot-spots-concentration/): 犯罪は街のごく一部の場所に集中する。そこに絞った対策は犯罪を減らし、効果は周りにも広がりやすい。漠然と怖がるより、危ない場所を知って避ける。
+- [「点検に来ました」は本当か。分電盤の点検商法の相談が1年で5倍に増えた理由と断り方](https://bohan.seadice.win/door-to-door-inspection-scam/): 分電盤の点検商法の相談は2025年度に6,545件で前年度の約5倍。8割超が70歳以上。突然の点検には「家族に相談してから」と答え、その場で契約しない。
 - [治安は悪くなった？ 体感治安と統計のずれ、不安を減らす方法](https://bohan.seadice.win/fear-of-crime-vs-statistics/): 刑法犯はピークから大きく減ったのに、6割が悪化を実感。不安は具体的な対策に変えられます。
 - [近所づきあいは防犯になるのか。「集合的効力感」の研究](https://bohan.seadice.win/neighbors-collective-efficacy-crime/): 侵入者は近所の目を嫌う。住民のつながりが強い地域ほど犯罪が少ないことが研究で示されています。
 - [なぜ高齢者は詐欺の被害にあいやすいのか。研究でわかった7つの要因と家族ができること](https://bohan.seadice.win/older-adults-fraud-psychology/): 2025年、特殊詐欺の被害の51.3%が65歳以上。孤立や詐欺の知識不足などが要因とされる。責めるより、日ごろの会話と「お金の話は相談する」約束で守る。
