@@ -1,0 +1,273 @@
+[
+  {
+    "id": "microexpression",
+    "term": "微表情（マイクロエクスプレッション）",
+    "en": "Microexpression",
+    "def": "0.04〜0.2秒ほどで消える一瞬の表情。隠した本音が漏れるサインと言われてきましたが、研究では出ること自体がまれで、見分ける訓練をしても嘘を見抜く精度は上がりませんでした。",
+    "slugs": [
+      "microexpression-true-feelings-research"
+    ]
+  },
+  {
+    "id": "duchenne-smile",
+    "term": "デュシェンヌ・スマイル",
+    "en": "Duchenne smile",
+    "def": "目の周りの筋肉（眼輪筋）が縮み、目じりにシワが寄る笑顔。本物の笑顔の証とされてきましたが、見た目だけで本物か作り笑いかを見分けるのは難しいことがわかっています。",
+    "slugs": [
+      "fake-smile-duchenne-detection-research"
+    ]
+  },
+  {
+    "id": "eyebrow-flash",
+    "term": "アイブロウフラッシュ",
+    "en": "Eyebrow flash",
+    "def": "眉を一瞬上げて下ろす表情の動き。笑顔と一緒に出やすい「関わってよい」という合図ですが、同意や話の強調、聞き返しにも使われ、恋愛感情の証拠にはなりません。",
+    "slugs": [
+      "eyebrow-flash-attraction-research"
+    ]
+  },
+  {
+    "id": "self-touch",
+    "term": "自己接触",
+    "en": "Self-touch",
+    "def": "髪や顔、口元などを自分で触る、意識しないまま出る動き。緊張や頭の負荷が高まると増えやすいものの、誰にでもよくある動作で、嘘や好意の手がかりにはなりません。",
+    "slugs": [
+      "self-touch-face-hair-nervousness-research"
+    ]
+  },
+  {
+    "id": "fidgeting",
+    "term": "フィジェッティング（そわそわ動作）",
+    "en": "Fidgeting",
+    "def": "貧乏ゆすり、ペン回し、指で机をたたくなど、意識しないまま出る小さな動き。退屈や集中切れで増えることが研究で示されています。",
+    "slugs": [
+      "leg-jiggling-fidgeting-anxiety-research"
+    ]
+  },
+  {
+    "id": "gaze-aversion",
+    "term": "視線回避",
+    "en": "Gaze aversion",
+    "def": "相手の目を見ずに話すこと。考えるため、緊張を和らげるため、文化の習慣に従うためなど理由は複数あり、嘘や好き嫌いの証拠にはなりません。",
+    "slugs": [
+      "gaze-avoidance-social-anxiety-research",
+      "eye-contact-gaze-attraction-research"
+    ]
+  },
+  {
+    "id": "pupillary-response",
+    "term": "瞳孔反応",
+    "en": "Pupillary response",
+    "def": "瞳孔は関心・興奮・集中・不安など「心が動いた」ときに広がり、明るさでも大きく変わります。そのため、会話中の相手の瞳孔から好意だけを読み取ることはできません。",
+    "slugs": [
+      "pupil-dilation-attraction-research"
+    ]
+  },
+  {
+    "id": "chameleon-effect",
+    "term": "カメレオン効果",
+    "en": "Chameleon effect",
+    "def": "相手の姿勢やしぐさ、表情を無意識に真似してしまう現象。好意があると起きやすい一方、わざと真似をして好かれる効果は再現されないことがあります。",
+    "slugs": [
+      "chameleon-effect-mimicry-liking-research"
+    ]
+  },
+  {
+    "id": "synchrony",
+    "term": "同期（シンクロニー）",
+    "en": "Interpersonal synchrony",
+    "def": "話すテンポや身振り、発汗などの体の反応まで、会話する二人のタイミングが自然にそろっていく現象。同期が高いペアほど、その場の好意が高い傾向が報告されています。",
+    "slugs": [
+      "conversation-synchrony-compatibility-research"
+    ]
+  },
+  {
+    "id": "backchannel",
+    "term": "バックチャネル（相づち）",
+    "en": "Backchannel",
+    "def": "話し手が話している間に、聞き手が返すうなずきや「うん」「へえ」などの短い反応。聞いているという合図ですが、中身を理解していることとは別です。",
+    "slugs": [
+      "nodding-backchannel-listening-likeability-research"
+    ]
+  },
+  {
+    "id": "personal-space",
+    "term": "パーソナルスペース",
+    "en": "Personal space",
+    "def": "他人に入られると不快に感じる、自分の周りの見えない空間。関係が近いほど狭くなりますが、性別・年齢・不安などでも変わります。",
+    "slugs": [
+      "personal-space-distance-intimacy-research"
+    ]
+  },
+  {
+    "id": "body-torque",
+    "term": "ボディ・トルク",
+    "en": "Body torque",
+    "def": "上半身と下半身が別々の方向を向いた、体のねじれた姿勢。腰から下の向きが主な関心の基準になり、顔や上半身だけの向きは一時的な関わりとして扱われやすいとされます。",
+    "slugs": [
+      "body-orientation-feet-direction-interest-research"
+    ]
+  },
+  {
+    "id": "approach-avoidance",
+    "term": "接近・回避",
+    "en": "Approach–avoidance",
+    "def": "人は快いものに近づき、不快なものから離れる傾向があるという考え方。身を乗り出す、後ろに反るといった姿勢の変化は、この傾向が体に表れたものと考えられています。",
+    "slugs": [
+      "forward-lean-posture-approach-avoidance-research"
+    ]
+  },
+  {
+    "id": "power-pose",
+    "term": "パワーポーズ",
+    "en": "Power pose",
+    "def": "両手を腰に当てて胸を張るなど、体を大きく広げる姿勢。短時間とるだけでホルモンや行動まで変わるという有名な結果は、大規模な再現実験で確かめられませんでした。",
+    "slugs": [
+      "power-pose-confidence-replication-research"
+    ]
+  },
+  {
+    "id": "mere-exposure",
+    "term": "単純接触効果",
+    "en": "Mere exposure effect",
+    "def": "直接話さなくても、同じ相手を繰り返し見るだけで好意的な評価が上がる現象。最初の印象が中立か、ややよい場合に働きやすいとされます。",
+    "slugs": [
+      "mere-exposure-effect-romantic-attraction"
+    ]
+  },
+  {
+    "id": "liking-gap",
+    "term": "好意のギャップ",
+    "en": "Liking gap",
+    "def": "会話のあと、相手が自分をどれくらい好きかを実際より低く見積もってしまう傾向。初対面の会話から数か月の追跡まで、状況が違っても一貫して見られています。",
+    "slugs": [
+      "silence-during-dates-liking-research"
+    ]
+  },
+  {
+    "id": "attachment-style",
+    "term": "愛着スタイル",
+    "en": "Attachment style",
+    "def": "人との近さや距離のとり方の土台になる傾向。「追いかけると逃げられる」といった恋愛の繰り返しのパターンは、二人の愛着スタイルの組み合わせで説明できると報告されています。",
+    "slugs": [
+      "attachment-style-relationship-compatibility"
+    ]
+  },
+  {
+    "id": "responsiveness",
+    "term": "応答性",
+    "en": "Responsiveness",
+    "def": "相手が自分を理解し、気にかけ、認めてくれていると感じられること。長続きする関係を支える土台の1つと考えられています。",
+    "slugs": [
+      "partner-responsiveness-research"
+    ]
+  },
+  {
+    "id": "implicit-theories",
+    "term": "暗黙の関係理論",
+    "en": "Implicit theories of relationships",
+    "def": "恋愛や結婚についての無意識の思い込み。相性は最初から決まっているとする「運命思考」と、関係は対話や工夫で育てるものとする「成長思考」があります。",
+    "slugs": [
+      "destiny-belief-relationship-satisfaction-research"
+    ]
+  },
+  {
+    "id": "idealization",
+    "term": "理想化（バラ色の眼鏡）",
+    "en": "Positive illusions",
+    "def": "相手の欠点に気づいた上で、その重要性を小さく、長所を大きく評価する見方。相手を理想化している人ほど、関係の満足感や信頼が高いことが確認されています。",
+    "slugs": [
+      "love-is-blind-idealization-research"
+    ]
+  },
+  {
+    "id": "cohabitation-effect",
+    "term": "同棲効果",
+    "en": "Cohabitation effect",
+    "def": "結婚前に同棲したカップルほど結婚後の離婚率が高いという現象。1990年代以降、欧米の研究で繰り返し報告されてきました。",
+    "slugs": [
+      "premarital-cohabitation-divorce-risk-research"
+    ]
+  },
+  {
+    "id": "stonewalling",
+    "term": "ストーンウォーリング",
+    "en": "Stonewalling",
+    "def": "喧嘩中に黙り込み、反応しなくなる行動。「石壁のように閉ざす」の意味で、心理学者ゴットマンが名付けました。",
+    "slugs": [
+      "stonewalling-conflict-withdrawal-warning-sign"
+    ]
+  },
+  {
+    "id": "flooding",
+    "term": "情動の氾濫",
+    "en": "Flooding",
+    "def": "心拍数が1分間に100を超えるほど感情が高ぶり、言葉で冷静に対応する余裕を失ってしまう状態。この状態で黙り込むのがストーンウォーリングです。",
+    "slugs": [
+      "stonewalling-conflict-withdrawal-warning-sign"
+    ]
+  },
+  {
+    "id": "silent-treatment",
+    "term": "サイレントトリートメント",
+    "en": "Silent treatment",
+    "def": "相手を罰したり、コントロールしたりする意図を持って無視・冷遇すること。黙り込む点はストーンウォーリングと似ていますが、意図が違います。",
+    "slugs": [
+      "stonewalling-conflict-withdrawal-warning-sign"
+    ]
+  },
+  {
+    "id": "gaslighting",
+    "term": "ガスライティング",
+    "en": "Gaslighting",
+    "def": "相手の記憶や認識を混乱させ、自分の感覚のほうを疑わせてしまう状況。力関係に差がある親密な関係のなかで起きる現象として研究されています。",
+    "slugs": [
+      "gaslighting-early-warning-signs"
+    ]
+  },
+  {
+    "id": "love-bombing",
+    "term": "ラブボミング",
+    "en": "Love bombing",
+    "def": "短期間に大量の連絡や贈り物、称賛、「運命の人」といった言葉を重ねる行動。強い好意自体は自然な場合も多いものの、支配的な関係の始まりのパターンとして語られることがあります。",
+    "slugs": [
+      "love-bombing-warning-signs-research"
+    ]
+  },
+  {
+    "id": "trauma-bonding",
+    "term": "トラウマボンディング",
+    "en": "Traumatic bonding",
+    "def": "暴力や支配を受けている人が、その相手に強い愛着を持ってしまう状態。ひどい扱いと優しさが交互に来る関係で起きやすいと考えられています。",
+    "slugs": [
+      "trauma-bonding-why-hard-to-leave-research"
+    ]
+  },
+  {
+    "id": "ghosting",
+    "term": "ゴースティング",
+    "en": "Ghosting",
+    "def": "説明なしに、相手との連絡を一方的にすべて断つこと。理由がわからず、自分で結末をつけられないことが、つらさの中心にあるとされます。",
+    "slugs": [
+      "ghosting-psychological-effects-research"
+    ]
+  },
+  {
+    "id": "financial-infidelity",
+    "term": "経済的不誠実",
+    "en": "Financial infidelity",
+    "def": "パートナーにお金の使い道や借金を隠す行動。口座やクレジットカードの存在を隠す、買い物の金額を少なく伝えるといった行動が含まれます。",
+    "slugs": [
+      "financial-infidelity-warning-signs-research"
+    ]
+  },
+  {
+    "id": "cyber-control",
+    "term": "サイバーコントロール",
+    "en": "Cyber control",
+    "def": "相手の同意なくSNSやスマホを確認するなど、デジタル機器で相手を監視・管理すること。不安からたまに確認したくなることとは、別の問題として扱われています。",
+    "slugs": [
+      "partner-phone-checking-surveillance-research"
+    ]
+  }
+]

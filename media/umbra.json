@@ -114,6 +114,10 @@
     {
       "label": "しぐさ索引・4択クイズ",
       "path": "/shigusa/"
+    },
+    {
+      "label": "用語集",
+      "path": "/glossary/"
     }
   ],
   "mastheadHtml": "<div class=\"um-mast\"><div class=\"um-orb\" aria-hidden=\"true\"></div><p class=\"um-en\">Read the unspoken.</p><h1>しぐさと<br>本音</h1><p class=\"um-tag\">その人の本音を、研究で見抜く。</p><p class=\"um-lead\">%LEAD%</p><div class=\"um-pills\"><span class=\"um-pill\"><b>%POSTS%</b>本の記事</span><a class=\"um-pill\" href=\"/guide/\">しぐさから引く</a><a class=\"um-pill\" href=\"/shigusa/\">しぐさ索引・4択クイズ</a></div></div>",
