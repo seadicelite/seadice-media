@@ -310,5 +310,44 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Payphone_in_%C5%8Cmori_Station_3.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "tech-support-scam-popup": {
+  "file": "File:Backlit keyboard.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Backlit_keyboard.jpg/960px-Backlit_keyboard.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Backlit_keyboard.jpg/500px-Backlit_keyboard.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "A backlit laptop computer keyboard. Most fingers are on the \"home\" keys for touch-typing; the 'U' key is being pressed.",
+  "artist": "Colin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Backlit_keyboard.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "international-call-block-scam": {
+  "file": "File:66a3aDTMFpad.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/66a3aDTMFpad.jpg/960px-66a3aDTMFpad.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/66a3aDTMFpad.jpg/500px-66a3aDTMFpad.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Picture of Western Electric model 66A3A DTMF (\"Touch Tone\") keypad showing additional feature buttons for the Autovon system marked 'FO' 'F'",
+  "artist": "Lexlexlex",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:66a3aDTMFpad.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "romance-scam-matching-app": {
+  "file": "File:My Paper Heart (2204658123).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/My_Paper_Heart_%282204658123%29.jpg/960px-My_Paper_Heart_%282204658123%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/My_Paper_Heart_%282204658123%29.jpg/500px-My_Paper_Heart_%282204658123%29.jpg",
+  "w": 960,
+  "h": 610,
+  "alt": "Please Just Don't Play With Me!",
+  "artist": "Diogo Rodrigues Gonçalves from São Bernardo do Campo, Brasil",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:My_Paper_Heart_(2204658123).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
