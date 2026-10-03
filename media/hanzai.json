@@ -1,0 +1,197 @@
+{
+  "enabled": true,
+  "publish": "auto",
+  "slug": "hanzai",
+  "name": "犯罪と心理",
+  "path": "sites/hanzai/",
+  "url": "https://hanzai.seadice.win/",
+  "concept": "人はなぜ罪を犯すのか、なぜ目撃証言は間違うのか、なぜ無実の人が自白してしまうのか。犯罪をめぐる人の心の仕組みを、犯罪心理学・社会心理学・法と心理学の研究と公的統計から、専門用語なしで読み解く。実在の事件を興味本位で扱わず、手口の詳細は書かない。防犯の対策は姉妹メディア「防犯」に任せる",
+  "reader": "ドラマやニュースで犯罪の心理に興味を持った人、心理学を学びたい学生、裁判員に選ばれる可能性がある一般の人",
+  "tone": "知的で落ち着いた語り口。好奇心に応えるが煽らない。犯罪者を美化せず、被害者の尊厳を守る。断定より『研究ではこうだった』",
+  "tagline": "Why do people do what they do? 罪と心の仕組みを、研究で読み解く。",
+  "lead": "人はなぜ罪を犯すのか。目撃者の記憶はなぜ書き換わるのか。無実の人はなぜ自白してしまうのか。ドラマやニュースの裏にある人の心の仕組みを、犯罪心理学の研究と公的な統計から、専門用語なしで読み解きます。",
+  "titleSuffix": "犯罪をめぐる人の心を研究で読み解く",
+  "description": "人はなぜ罪を犯すのか、目撃証言はなぜ間違うのか、虚偽自白はなぜ起きるのか。犯罪心理学・法と心理学の研究と公的統計をもとに、犯罪をめぐる人の心の仕組みを専門用語なしで解説するAIリサーチメディア。出典つき。",
+  "about": "記事はAIが公開された研究論文や法務省・警察庁などの公的機関の資料を調べ、出典の内容を確認して作成しています。実在の事件を興味本位で扱わず、犯罪の手口の詳細は書きません。",
+  "theme": {
+    "bg": "#0E1016",
+    "card": "#161922",
+    "accent": "#D2485F",
+    "accent2": "#C9A86A",
+    "border": "#272B36",
+    "text": "#E8E4DC",
+    "muted": "#9A97A6",
+    "link": "#EFB0BB"
+  },
+  "categories": [
+    {
+      "name": "なぜ人は罪を犯すのか",
+      "id": "why",
+      "color": "#D2485F",
+      "icon": "target",
+      "desc": "動機、衝動性、環境、機会。人を犯罪に向かわせる要因を研究から見る"
+    },
+    {
+      "name": "記憶と目撃証言",
+      "id": "memory",
+      "color": "#C9A86A",
+      "icon": "eye",
+      "desc": "目撃者の記憶はなぜ変わるのか。証言と記憶の心理学"
+    },
+    {
+      "name": "取り調べと冤罪",
+      "id": "justice",
+      "color": "#7FA7D9",
+      "icon": "book",
+      "desc": "虚偽自白、確証バイアス、裁判の判断。司法の場で働く心の癖"
+    },
+    {
+      "name": "パーソナリティと犯罪",
+      "id": "personality",
+      "color": "#A88BD8",
+      "icon": "mask",
+      "desc": "サイコパスやダークトライアドの研究。俗説と実際の違い"
+    },
+    {
+      "name": "集団と同調",
+      "id": "group",
+      "color": "#5FB39A",
+      "icon": "link",
+      "desc": "傍観者効果、服従、群集心理。集団の中で人はどう変わるか"
+    },
+    {
+      "name": "刑罰と更生",
+      "id": "rehab",
+      "color": "#D98A4F",
+      "icon": "repeat",
+      "desc": "罰は犯罪を減らすのか。再犯と立ち直りの研究"
+    }
+  ],
+  "types": [
+    {
+      "id": "guide",
+      "label": "深掘り"
+    }
+  ],
+  "template": ".claude/commands/hanzai-template.html",
+  "rulesFrom": ".claude/commands/hanzai.md",
+  "relatedApps": "立ち上げ期はアプリ送客なし。関連アプリ欄は入れない",
+  "postsPerRun": 1,
+  "topicQueue": [
+    "傍観者効果は本当か。キティ・ジェノヴィーズ事件の再検証と、その後の研究",
+    "目撃証言はなぜ間違うのか。言葉ひとつで記憶が変わる「事後情報効果」",
+    "無実の人はなぜ自白するのか。虚偽自白の研究とDNA鑑定でわかった冤罪",
+    "サイコパスは本当に多いのか。有病率の研究と、ドラマのイメージとの違い",
+    "罰を重くすれば犯罪は減るのか。厳罰化と抑止効果の研究",
+    "ミルグラムの服従実験は何を示したのか。追試と再検証",
+    "若者はなぜ非行に走り、なぜやめるのか。年齢と犯罪の曲線",
+    "顔写真の並べ方で犯人選びが変わる。面割りの心理学",
+    "刑務所を出た人の再犯を減らすものは何か。仕事と住まいの研究",
+    "人はなぜ「悪い人」を見た目で判断してしまうのか。外見と有罪判断の研究",
+    "ゲームやメディアの暴力は犯罪を増やすのか。メタ分析の論争",
+    "スタンフォード監獄実験の再検証。役割が人を変えるは本当か"
+  ],
+  "layout": "magazine",
+  "trust": [
+    [
+      "研究と公的統計が根拠",
+      "犯罪心理学などの研究と公的統計を、AIが原典と照合して書いています。"
+    ],
+    [
+      "興味本位で扱わない",
+      "実在の事件を面白おかしく扱わず、手口の詳細は書きません。被害者の尊厳を守ります。"
+    ],
+    [
+      "身を守る方法は「防犯」へ",
+      "具体的な防犯対策は、姉妹メディア「防犯」で扱っています。"
+    ]
+  ],
+  "pageSections": {
+    "about": [
+      [
+        "運営",
+        [
+          "{name} は、アプリスタジオ SEADICE（シーダイス）が運営するメディアです。",
+          "{concept_short}"
+        ]
+      ],
+      [
+        "記事の作り方",
+        [
+          "記事は、AI（Claude）が公開されている研究論文や、法務省・警察庁など公的機関の統計・資料を調べ、内容を確認して整理し、作成しています。SEADICE が独自に実験や調査をしたものではありません。",
+          "AI が作成した記事は、公開前に、出典の照合など決められた検査を通ったものだけを掲載します。検査を通らなかった記事は公開しません。"
+        ]
+      ],
+      [
+        "編集方針",
+        [
+          "記事の軸は「人の心がどう働いているか」と「研究で何がわかっていて、何がわかっていないか」です。",
+          "確認できた出典だけを書きます。確認できなかった数値や主張は書きません。研究の対象や限界を、できるだけ添えて紹介します。"
+        ]
+      ],
+      [
+        "お問い合わせ",
+        [
+          "記事の誤りのご指摘や、ご意見は <a href=\"mailto:hi@seadice.win\">hi@seadice.win</a> までご連絡ください。"
+        ]
+      ]
+    ],
+    "sources": [
+      [
+        "使う出典",
+        [
+          "査読のある学術論文（犯罪心理学・社会心理学・法と心理学など）、メタ分析・システマティックレビュー、警察庁・法務省などの公的統計や、大学・公的機関の資料を使います。業者や業界団体による調査や、報道だけを根拠にした記述は使いません。",
+          "各記事の末尾に、著者、発行年、タイトル、掲載誌、リンクを載せています。"
+        ]
+      ],
+      [
+        "検証の方法",
+        [
+          "1. 論文の原典（要旨や本文）や公的資料を開き、記事に書く数値と主張が、原典に書かれていることを1件ずつ照合します。",
+          "2. 原典が開けない場合は、別の信頼できる情報源で確認できた内容だけを使います。",
+          "3. 確認できなかった数値や主張は、記事から削除します。"
+        ]
+      ],
+      [
+        "写真",
+        [
+          "記事の写真は、Wikimedia Commons の、自由に利用できるライセンス（パブリックドメイン、CC0、CC BY、CC BY-SA）の素材を使い、撮影者とライセンスを各記事に表示しています。"
+        ]
+      ],
+      [
+        "訂正について",
+        [
+          "誤りがあれば、確認のうえ修正し、記事の日付を更新します。ご指摘は hi@seadice.win までお願いします。"
+        ]
+      ]
+    ],
+    "disclaimer": [
+      [
+        "情報の性質",
+        [
+          "{name}の記事は、公開された研究と統計をもとにした犯罪をめぐる心理学の一般的な情報であり、専門家による個別の助言や、特定の事件・人物についての判断の代わりになるものではありません。",
+          "研究の結果は、対象となった集団や地域についての傾向であり、すべての人や場所に当てはまるとは限りません。"
+        ]
+      ],
+      [
+        "緊急時と相談先",
+        [
+          "身の危険を感じたとき、事件・事故が起きたときは、迷わず110番に通報してください。つきまといなど緊急ではない相談は、警察相談専用電話（#9110）や最寄りの警察署に相談できます。"
+        ]
+      ],
+      [
+        "特定の人物・地域について",
+        [
+          "記事の内容を使って、特定の人物や地域を犯罪と結びつけたり、決めつけたりすることは、お勧めしません。"
+        ]
+      ],
+      [
+        "責任の範囲",
+        [
+          "記事の内容には、正確を期していますが、その完全性や、特定の目的への適合性を保証するものではありません。記事を参考にした行動の結果について、当メディアは責任を負いません。"
+        ]
+      ]
+    ]
+  },
+  "extraCss": "body{background-image:radial-gradient(ellipse at top,rgba(210,72,95,.08),transparent 55%),linear-gradient(rgba(255,255,255,.018) 1px,transparent 1px);background-size:100% 100%,100% 34px}h1,.maghead h1,h2.cat,.card .t,.mhero .t,.feat .t,.tile .t,.rank .t,.mini .t,.about h2{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif}h1,.maghead h1{background:none;-webkit-text-fill-color:var(--text);color:var(--text);letter-spacing:.08em}.maghead h1::before,.hero h1::before{content:\"CASE FILES\";display:block;font-family:ui-monospace,Menlo,monospace;font-size:12px;letter-spacing:.3em;color:var(--accent);-webkit-text-fill-color:var(--accent);margin-bottom:10px}.nav-logo{font-family:ui-monospace,Menlo,monospace;font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:var(--muted);color:var(--muted)}nav.top a.r{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",serif;font-size:15px;font-weight:700;color:var(--text);letter-spacing:.12em}.tag,.ty,.card time,h2.sec,.sechead,.lb,.tk{font-family:ui-monospace,Menlo,monospace}.card,.tile,.feat,.mhero,.trust div,.about,.faq details,.chip,.empty{border-radius:4px}.chip{border-radius:2px}.tag{border-radius:2px}.card .th img,.tile img,.feat img,.mhero img{filter:saturate(.8) contrast(1.05)}h2.cat{border-left-width:3px}.trust b{font-family:ui-monospace,Menlo,monospace;letter-spacing:.06em}.tiles b,.tile b,.rank b,.sechead h2,.sh h2{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif}"
+}

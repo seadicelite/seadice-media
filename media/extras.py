@@ -41,7 +41,7 @@ def _page(cfg, theme, favicon, css, rel, title, desc, body, graph, trail, extra_
 <meta name="robots" content="index,follow">
 {favicon}
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
-<style>{css}{EXTRA_CSS}{extra_css}</style>
+<style>{css}{EXTRA_CSS}{extra_css}{cfg.get("extraCss", "")}</style>
 </head>
 <body>
 <nav class="top">

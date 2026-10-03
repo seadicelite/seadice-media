@@ -136,7 +136,7 @@ def build(slug, preview=None):
 <meta name="twitter:card" content="summary">
 {favicon_tag(name, theme)}
 <script type="application/ld+json">{ld}</script>
-<style>{CSS % theme}{extra_css if mag else ""}</style>
+<style>{CSS % theme}{extra_css if mag else ""}{cfg.get("extraCss", "")}</style>
 </head>
 <body>
 <nav class="top">
@@ -158,7 +158,7 @@ def build(slug, preview=None):
     outdir.mkdir(parents=True, exist_ok=True)
     (outdir / "index.html").write_text(out)
     nf = (f'<!DOCTYPE html>\n<html lang="ja">\n<head>\n<meta charset="UTF-8">\n<meta name="viewport" content="width=device-width,initial-scale=1">\n'
-          f'<title>ページが見つかりません | {html.escape(name)}</title>\n<meta name="robots" content="noindex">\n{favicon_tag(name, theme)}\n<style>{CSS % theme}</style>\n</head>\n<body>\n'
+          f'<title>ページが見つかりません | {html.escape(name)}</title>\n<meta name="robots" content="noindex">\n{favicon_tag(name, theme)}\n<style>{CSS % theme}{cfg.get("extraCss", "")}</style>\n</head>\n<body>\n'
           f'<nav class="top"><a href="https://seadice.win/" class="nav-logo">SEADICE</a><a href="/" class="r">{html.escape(name)}</a></nav>\n'
           f'<main><div class="hero"><h1>ページが見つかりません</h1><p class="lead">お探しのページは移動したか、削除された可能性があります。</p></div>'
           f'<div class="chips" aria-label="カテゴリ"><a class="chip" style="--c:var(--accent)" href="/">{html.escape(name)} のトップへ</a>'
@@ -223,7 +223,7 @@ def build_category_pages(cfg, posts, cats, images, types, theme, name, url):
 <meta name="robots" content="index,follow">
 {favicon_tag(name, theme)}
 <script type="application/ld+json">{ld}</script>
-<style>{CSS % theme}</style>
+<style>{CSS % theme}{cfg.get("extraCss", "")}</style>
 </head>
 <body>
 <nav class="top">
