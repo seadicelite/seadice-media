@@ -674,5 +674,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_woman_using_computer_laptop_and_a_smartphone_on_wooden_table_(40640189245).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "homework-media-multitasking": {
+  "file": "File:Deichman Bjørvika, Oslo - 53131654106.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Deichman_Bj%C3%B8rvika%2C_Oslo_-_53131654106.jpg/960px-Deichman_Bj%C3%B8rvika%2C_Oslo_-_53131654106.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Deichman_Bj%C3%B8rvika%2C_Oslo_-_53131654106.jpg/500px-Deichman_Bj%C3%B8rvika%2C_Oslo_-_53131654106.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Photo of the interior of  Deichman Bjørvika, the main library of Oslo Public Library (Deichman) located between the Central Station and the ",
+  "artist": "charlotte henard",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Deichman_Bj%C3%B8rvika,_Oslo_-_53131654106.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
