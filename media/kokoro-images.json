@@ -570,5 +570,44 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Orkide_i_finstua_mot_vest.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "revenge-bedtime-procrastination": {
+  "file": "File:The use of Nightstand.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_use_of_Nightstand.jpg/960px-The_use_of_Nightstand.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_use_of_Nightstand.jpg/500px-The_use_of_Nightstand.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ランプと時計、グラスが置かれた夜のベッドサイドテーブル",
+  "artist": "Brad Coy",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:The_use_of_Nightstand.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "ai-summary-only-reading": {
+  "file": "File:Purple reading glasses are placed on an open book showcasing detailed definitions and text.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg/960px-Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg/500px-Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "開いた本の上に置かれた読書用の眼鏡",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "remote-work-no-voice": {
+  "file": "File:Middle-aged woman working on laptop while holding smartphone at a wooden table.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Middle-aged_woman_working_on_laptop_while_holding_smartphone_at_a_wooden_table.jpg/960px-Middle-aged_woman_working_on_laptop_while_holding_smartphone_at_a_wooden_table.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Middle-aged_woman_working_on_laptop_while_holding_smartphone_at_a_wooden_table.jpg/500px-Middle-aged_woman_working_on_laptop_while_holding_smartphone_at_a_wooden_table.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "木のテーブルでノートパソコンを打ちながらスマートフォンを持つ手元",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Middle-aged_woman_working_on_laptop_while_holding_smartphone_at_a_wooden_table.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
