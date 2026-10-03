@@ -710,5 +710,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Wilted_flowers_on_Friedhof_Obermenzing_01.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "relationship-effort-decline-mate-retention-research": {
+  "file": "File:Engaged couple linking fingers (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Engaged_couple_linking_fingers_%28Unsplash%29.jpg/960px-Engaged_couple_linking_fingers_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Engaged_couple_linking_fingers_%28Unsplash%29.jpg/500px-Engaged_couple_linking_fingers_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Loma Amarilla Ecological Park, Santiago de Surco, Peru",
+  "artist": "Paul García Fotografía paulgarciafotografia",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Engaged_couple_linking_fingers_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
