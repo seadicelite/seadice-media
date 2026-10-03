@@ -388,5 +388,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:02023_fishing_hook_(Clark),_Radusz_around_7800_BC_%E2%80%94_5400_BC.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ai-fake-sexual-image-children": {
+  "file": "File:Today's a work day.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Today%27s_a_work_day.jpg/960px-Today%27s_a_work_day.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Today%27s_a_work_day.jpg/500px-Today%27s_a_work_day.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Desks and chairs",
+  "artist": "Mercedes Steph",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Today%27s_a_work_day.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
