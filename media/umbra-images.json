@@ -710,5 +710,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Wilted_flowers_on_Friedhof_Obermenzing_01.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "age-gap-marriage-satisfaction-research": {
+  "file": "File:Autumn Forest Path with Tall Trees.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Autumn_Forest_Path_with_Tall_Trees.jpg/960px-Autumn_Forest_Path_with_Tall_Trees.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Autumn_Forest_Path_with_Tall_Trees.jpg/500px-Autumn_Forest_Path_with_Tall_Trees.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Autumn Forest Path with Tall Trees",
+  "artist": "Vovogov90",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Autumn_Forest_Path_with_Tall_Trees.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
