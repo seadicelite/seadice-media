@@ -1,162 +1,194 @@
 [
- {
-  "slug": "child-home-alone-safety-rules",
-  "category": "子どもの安全",
-  "type": "guide",
-  "date": "2026-10-03",
-  "title": "子どもの留守番は何歳から安全か。研究でわかる目安と、電話・玄関のルール",
-  "summary": "大人が「安全」と考える年齢は平均13歳。年齢より、電話や玄関への対応ルールが実際の備えになります。"
- },
- {
-  "slug": "night-darkness-robbery-risk",
-  "category": "夜道・つきまとい",
-  "type": "guide",
-  "date": "2026-10-02",
-  "title": "夜道でひったくりに遭うリスクはなぜ上がるのか。暗さの研究と、今日からできる歩き方",
-  "summary": "暗くなると対人強盗は約1.87倍に。明るい道を選ぶなど、研究に基づく歩き方を紹介します。"
- },
- {
-  "slug": "vacation-empty-home-burglary",
-  "category": "空き巣・侵入窃盗",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "留守中の空き巣を防ぐ旅行前チェック。留守を見抜く手口と対策",
-  "summary": "侵入者が留守を確かめる方法の最多はインターホン。旅行前に留守のサインを消しましょう。"
- },
- {
-  "slug": "window-glass-breaking-burglary",
-  "category": "空き巣・侵入窃盗",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "窓から入られないために。ガラス破りの手口と、時間をかけさせる工夫",
-  "summary": "一戸建ての侵入口1位は窓、手口1位はガラス破り。窓に時間をかけさせる工夫が対策の中心です。"
- },
- {
-  "slug": "home-invasion-robbery-at-home",
-  "category": "空き巣・侵入窃盗",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "在宅中でも押し入る侵入強盗。増える手口と、家でできる備え",
-  "summary": "住宅を狙う侵入強盗は令和7年に13.2%増。在宅中の施錠と、すぐに開けない習慣が基本です。"
- },
- {
-  "slug": "fear-of-crime-vs-statistics",
-  "category": "防犯の心理学",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "治安は悪くなった？ 体感治安と統計のずれ、不安を減らす方法",
-  "summary": "刑法犯はピークから大きく減ったのに、6割が悪化を実感。不安は具体的な対策に変えられます。"
- },
- {
-  "slug": "safe-school-route-environment",
-  "category": "子どもの安全",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "犯罪が起きにくい通学路とは。見通し・人の目・手入れの研究",
-  "summary": "声かけの74.2%は道路上。見通し・人の目・手入れがそろった道を親子で確かめましょう。"
- },
- {
-  "slug": "why-burglary-declined-security",
-  "category": "空き巣・侵入窃盗",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "空き巣はなぜ減ったのか。防犯設備の普及と「取り残される家」の研究",
-  "summary": "空き巣の減少は鍵と照明の普及のおかげ。対策のない家は逆に狙われやすくなっていました。"
- },
- {
-  "slug": "car-break-in-unlocked-visible-items",
-  "category": "自転車・車の盗難",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "車上ねらいはなぜ起きるのか。無施錠と「見える貴重品」の統計",
-  "summary": "車上ねらいの73.5%は無施錠。鍵をかけ、車内に物を見せないことが最も確実な対策です。"
- },
- {
-  "slug": "crime-displacement-diffusion-benefits",
-  "category": "防犯の心理学",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "防犯しても犯罪はよそへ移るだけ？ 犯罪の転移と「効果の広がり」の研究",
-  "summary": "犯罪が移ったのは観察の26%、周りでも減ったのは27%。守ると周りまで守られる傾向があります。"
- },
- {
-  "slug": "stalking-acquaintance-consultation",
-  "category": "夜道・つきまとい",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "つきまといは誰から始まるのか。被害の統計と、早めに相談する理由",
-  "summary": "つきまといの加害者は元交際相手が最多。記録を残し、早めに人に話すことが身を守る第一歩です。"
- },
- {
-  "slug": "repeat-burglary-victimization",
-  "category": "空き巣・侵入窃盗",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "一度入られた家はまた狙われるのか。空き巣の再被害の研究",
-  "summary": "再被害は最初の1か月に平均の6.4倍。危険は近所にも広がるので、被害直後の対策が大切です。"
- },
- {
-  "slug": "neighbors-collective-efficacy-crime",
-  "category": "防犯の心理学",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "近所づきあいは防犯になるのか。「集合的効力感」の研究",
-  "summary": "侵入者は近所の目を嫌う。住民のつながりが強い地域ほど犯罪が少ないことが研究で示されています。"
- },
- {
-  "slug": "cctv-crime-prevention-research",
-  "category": "防犯の心理学",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "防犯カメラは犯罪を減らすのか。40年分の研究が示す効果と限界",
-  "summary": "防犯カメラの効果は確かだが控えめ。駐車場で最も効き、他の対策と組み合わせると大きくなります。"
- },
- {
-  "slug": "auto-lock-apartment-burglary",
-  "category": "一人暮らしの防犯",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "オートロックのマンションは本当に安全か。共同住宅の侵入統計",
-  "summary": "4階建以上のマンションでも、侵入の1位は鍵のかけ忘れ。部屋のドアと窓が最後の守りです。"
- },
- {
-  "slug": "child-stranger-approach-after-school",
-  "category": "子どもの安全",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "子どもへの声かけはいつ・どこで起きるのか。下校時間の統計と、身につく防犯練習",
-  "summary": "声かけの約半数は15〜17時台の下校中。動画より、親と体で練習する方が身につきます。"
- },
- {
-  "slug": "bicycle-theft-unlocked-statistics",
-  "category": "自転車・車の盗難",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "自転車盗難の多くは無施錠。盗まれにくい止め方と鍵の研究",
-  "summary": "自転車盗難の65.5%は無施錠。鍵をかけ、決められた駐輪場に止めるだけで盗まれにくくなります。"
- },
- {
-  "slug": "street-lighting-crime-research",
-  "category": "夜道・つきまとい",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "街灯を明るくすると犯罪は減るのか。照明と犯罪の研究",
-  "summary": "街灯を増やした団地で夜の屋外犯罪が36%以上減少。明かりは「見られる」以上の効果を持つようです。"
- },
- {
-  "slug": "broken-windows-theory-evidence",
-  "category": "防犯の心理学",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "割れ窓理論は本当か。小さな乱れと犯罪の関係を研究で検証",
-  "summary": "落書きやゴミは違反を呼ぶ。効果があったのは取り締まりより、地域で場所をきれいにする取り組みでした。"
- },
- {
-  "slug": "burglar-target-selection-5-minutes",
-  "category": "空き巣・侵入窃盗",
-  "type": "guide",
-  "date": "2026-10-01",
-  "title": "空き巣はどんな家を狙うのか。下見のポイントと「5分」の研究",
-  "summary": "空き巣が下見で見るのは留守か・入りやすいか・逃げやすいか。家の豊かさより近さと入りやすさが決め手でした。"
- }
+  {
+    "slug": "sns-investment-scam-line",
+    "category": "AI時代の防犯",
+    "type": "guide",
+    "date": "2026-10-03",
+    "title": "SNSの投資話はなぜ「LINEに移動」するのか。1,288億円のSNS型投資詐欺の入り口と出口",
+    "summary": "2025年のSNS型投資詐欺は9,523件・1,288億円。きっかけは広告とDMが約8割、やりとりはLINEが9割以上。「LINEに移って」は警戒のサイン。"
+  },
+  {
+    "slug": "fake-police-call-scam",
+    "category": "AI時代の防犯",
+    "type": "guide",
+    "date": "2026-10-03",
+    "title": "「警察です」の電話は疑っていい。ニセ警察詐欺が急増した理由と、だまされる心の流れ",
+    "summary": "2025年のニセ警察詐欺は11,014件・1,005億円で特殊詐欺の約4割。20代・30代の被害も多い。警察がお金を求めることはないと覚えておく。"
+  },
+  {
+    "slug": "deepfake-video-celebrity-ad",
+    "category": "AI時代の防犯",
+    "type": "guide",
+    "date": "2026-10-03",
+    "title": "本物そっくりの動画を、人は見抜けない。ディープフェイクと「見たから信じる」の落とし穴",
+    "summary": "人はディープフェイクを見抜けないのに、見抜けると思い込む。AIの顔は本物より信頼されやすい。動画は「本人の証拠」にしない。"
+  },
+  {
+    "slug": "ai-voice-clone-family-scam",
+    "category": "AI時代の防犯",
+    "type": "guide",
+    "date": "2026-10-03",
+    "title": "家族の声でも本物とは限らない。AI音声のなりすまし詐欺と「合言葉」の備え",
+    "summary": "AIで作った偽物の声を見抜けたのは73%。練習してもほとんど上達しない。声ではなく、かけ直しと合言葉で確かめるのが確実。"
+  },
+  {
+    "slug": "child-home-alone-safety-rules",
+    "category": "子どもの安全",
+    "type": "guide",
+    "date": "2026-10-03",
+    "title": "子どもの留守番は何歳から安全か。研究でわかる目安と、電話・玄関のルール",
+    "summary": "大人が「安全」と考える年齢は平均13歳。年齢より、電話や玄関への対応ルールが実際の備えになります。"
+  },
+  {
+    "slug": "night-darkness-robbery-risk",
+    "category": "夜道・つきまとい",
+    "type": "guide",
+    "date": "2026-10-02",
+    "title": "夜道でひったくりに遭うリスクはなぜ上がるのか。暗さの研究と、今日からできる歩き方",
+    "summary": "暗くなると対人強盗は約1.87倍に。明るい道を選ぶなど、研究に基づく歩き方を紹介します。"
+  },
+  {
+    "slug": "vacation-empty-home-burglary",
+    "category": "空き巣・侵入窃盗",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "留守中の空き巣を防ぐ旅行前チェック。留守を見抜く手口と対策",
+    "summary": "侵入者が留守を確かめる方法の最多はインターホン。旅行前に留守のサインを消しましょう。"
+  },
+  {
+    "slug": "window-glass-breaking-burglary",
+    "category": "空き巣・侵入窃盗",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "窓から入られないために。ガラス破りの手口と、時間をかけさせる工夫",
+    "summary": "一戸建ての侵入口1位は窓、手口1位はガラス破り。窓に時間をかけさせる工夫が対策の中心です。"
+  },
+  {
+    "slug": "home-invasion-robbery-at-home",
+    "category": "空き巣・侵入窃盗",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "在宅中でも押し入る侵入強盗。増える手口と、家でできる備え",
+    "summary": "住宅を狙う侵入強盗は令和7年に13.2%増。在宅中の施錠と、すぐに開けない習慣が基本です。"
+  },
+  {
+    "slug": "fear-of-crime-vs-statistics",
+    "category": "防犯の心理学",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "治安は悪くなった？ 体感治安と統計のずれ、不安を減らす方法",
+    "summary": "刑法犯はピークから大きく減ったのに、6割が悪化を実感。不安は具体的な対策に変えられます。"
+  },
+  {
+    "slug": "safe-school-route-environment",
+    "category": "子どもの安全",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "犯罪が起きにくい通学路とは。見通し・人の目・手入れの研究",
+    "summary": "声かけの74.2%は道路上。見通し・人の目・手入れがそろった道を親子で確かめましょう。"
+  },
+  {
+    "slug": "why-burglary-declined-security",
+    "category": "空き巣・侵入窃盗",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "空き巣はなぜ減ったのか。防犯設備の普及と「取り残される家」の研究",
+    "summary": "空き巣の減少は鍵と照明の普及のおかげ。対策のない家は逆に狙われやすくなっていました。"
+  },
+  {
+    "slug": "car-break-in-unlocked-visible-items",
+    "category": "自転車・車の盗難",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "車上ねらいはなぜ起きるのか。無施錠と「見える貴重品」の統計",
+    "summary": "車上ねらいの73.5%は無施錠。鍵をかけ、車内に物を見せないことが最も確実な対策です。"
+  },
+  {
+    "slug": "crime-displacement-diffusion-benefits",
+    "category": "防犯の心理学",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "防犯しても犯罪はよそへ移るだけ？ 犯罪の転移と「効果の広がり」の研究",
+    "summary": "犯罪が移ったのは観察の26%、周りでも減ったのは27%。守ると周りまで守られる傾向があります。"
+  },
+  {
+    "slug": "stalking-acquaintance-consultation",
+    "category": "夜道・つきまとい",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "つきまといは誰から始まるのか。被害の統計と、早めに相談する理由",
+    "summary": "つきまといの加害者は元交際相手が最多。記録を残し、早めに人に話すことが身を守る第一歩です。"
+  },
+  {
+    "slug": "repeat-burglary-victimization",
+    "category": "空き巣・侵入窃盗",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "一度入られた家はまた狙われるのか。空き巣の再被害の研究",
+    "summary": "再被害は最初の1か月に平均の6.4倍。危険は近所にも広がるので、被害直後の対策が大切です。"
+  },
+  {
+    "slug": "neighbors-collective-efficacy-crime",
+    "category": "防犯の心理学",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "近所づきあいは防犯になるのか。「集合的効力感」の研究",
+    "summary": "侵入者は近所の目を嫌う。住民のつながりが強い地域ほど犯罪が少ないことが研究で示されています。"
+  },
+  {
+    "slug": "cctv-crime-prevention-research",
+    "category": "防犯の心理学",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "防犯カメラは犯罪を減らすのか。40年分の研究が示す効果と限界",
+    "summary": "防犯カメラの効果は確かだが控えめ。駐車場で最も効き、他の対策と組み合わせると大きくなります。"
+  },
+  {
+    "slug": "auto-lock-apartment-burglary",
+    "category": "一人暮らしの防犯",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "オートロックのマンションは本当に安全か。共同住宅の侵入統計",
+    "summary": "4階建以上のマンションでも、侵入の1位は鍵のかけ忘れ。部屋のドアと窓が最後の守りです。"
+  },
+  {
+    "slug": "child-stranger-approach-after-school",
+    "category": "子どもの安全",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "子どもへの声かけはいつ・どこで起きるのか。下校時間の統計と、身につく防犯練習",
+    "summary": "声かけの約半数は15〜17時台の下校中。動画より、親と体で練習する方が身につきます。"
+  },
+  {
+    "slug": "bicycle-theft-unlocked-statistics",
+    "category": "自転車・車の盗難",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "自転車盗難の多くは無施錠。盗まれにくい止め方と鍵の研究",
+    "summary": "自転車盗難の65.5%は無施錠。鍵をかけ、決められた駐輪場に止めるだけで盗まれにくくなります。"
+  },
+  {
+    "slug": "street-lighting-crime-research",
+    "category": "夜道・つきまとい",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "街灯を明るくすると犯罪は減るのか。照明と犯罪の研究",
+    "summary": "街灯を増やした団地で夜の屋外犯罪が36%以上減少。明かりは「見られる」以上の効果を持つようです。"
+  },
+  {
+    "slug": "broken-windows-theory-evidence",
+    "category": "防犯の心理学",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "割れ窓理論は本当か。小さな乱れと犯罪の関係を研究で検証",
+    "summary": "落書きやゴミは違反を呼ぶ。効果があったのは取り締まりより、地域で場所をきれいにする取り組みでした。"
+  },
+  {
+    "slug": "burglar-target-selection-5-minutes",
+    "category": "空き巣・侵入窃盗",
+    "type": "guide",
+    "date": "2026-10-01",
+    "title": "空き巣はどんな家を狙うのか。下見のポイントと「5分」の研究",
+    "summary": "空き巣が下見で見るのは留守か・入りやすいか・逃げやすいか。家の豊かさより近さと入りやすさが決め手でした。"
+  }
 ]

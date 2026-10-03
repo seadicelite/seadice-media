@@ -258,5 +258,57 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Cape_Town_(ZA),_Wale_Street_--_2024_--_3536.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "deepfake-video-celebrity-ad": {
+  "file": "File:Code on computer monitor (Unsplash).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/960px-Code_on_computer_monitor_%28Unsplash%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/500px-Code_on_computer_monitor_%28Unsplash%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Markus Spiske 2017-02-14",
+  "artist": "Markus Spiske markusspiske",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Code_on_computer_monitor_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "ai-voice-clone-family-scam": {
+  "file": "File:Grey rotary dial telephone.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Grey_rotary_dial_telephone.jpg/960px-Grey_rotary_dial_telephone.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Grey_rotary_dial_telephone.jpg/500px-Grey_rotary_dial_telephone.jpg",
+  "w": 960,
+  "h": 686,
+  "alt": "Teléfono fijo de sobremesa de color gris, equipado con disco de marcación rotatorio y auricular conectado mediante cable en espiral",
+  "artist": "Wilfredor",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Grey_rotary_dial_telephone.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "sns-investment-scam-line": {
+  "file": "File:Colored pen and smartphone on a table (Unsplash 36nRvt6EP2I).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg/960px-Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg/500px-Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Gabriel Santiago 2015-05-28",
+  "artist": "Gabriel Santiago gabrielssantiago",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Colored_pen_and_smartphone_on_a_table_(Unsplash_36nRvt6EP2I).jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "fake-police-call-scam": {
+  "file": "File:Payphone in Ōmori Station 3.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Payphone_in_%C5%8Cmori_Station_3.jpg/960px-Payphone_in_%C5%8Cmori_Station_3.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Payphone_in_%C5%8Cmori_Station_3.jpg/500px-Payphone_in_%C5%8Cmori_Station_3.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Payphone in Ōmori Station (railway station in Ōta, Tokyo, Japan)",
+  "artist": "Syced",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Payphone_in_%C5%8Cmori_Station_3.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
