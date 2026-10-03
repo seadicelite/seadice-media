@@ -435,7 +435,43 @@
     "en": "Attachment Style",
     "field": "恋愛・人間関係",
     "def": "愛着スタイルとは、人が親しい相手との関係の中で、どのように安心感を得ようとするかの傾向のことです。乳幼児と養育者の結びつきを説明する愛着理論から生まれ、1987年のHazanとShaverの研究以降、大人の恋愛関係にもあてはめて研究されています。",
-    "slug": "attachment-style-relationship-compatibility"
+    "slug": "attachment-style-relationship-compatibility",
+    "date": "2026-10-03",
+    "detail": [
+      "心理学者ハザン(Cindy Hazan)とシェイヴァー(Phillip Shaver)は1987年の論文で、乳幼児期の愛着理論を大人の恋愛関係に広げ、恋愛パートナーとの結びつきも「安全基地」として働くと提唱しました。その後の研究では、「相手に見捨てられることへの不安」と「親密さへの回避」という2つの軸から、安定型・執着型・恐れ回避型・拒絡型(無視型)に分ける整理がよく使われています。",
+      "2008年にディネロ(Dinero)らが発表した追跡調査では、10代の家族間のやりとりの質(温かさや相手への敏感さ)と、その後の恋愛関係での愛着の安定性との関連を調べました。その結果、25歳時点での家族との相互作用の質は25歳時点の愛着の安定性を予測し、25歳時点の恋愛関係での相互作用は27歳時点の愛着の安定性を予測しましたが、逆に25歳時点の愛着の安定性が27歳時点の恋愛関係での相互作用を予測する関係は見られませんでした。",
+      "愛着スタイルは、恋愛関係の中での感じ方の違いにも関わります。2010年にマラッツィーティ(Marazziti)らが成人100人を対象に行った調査では、安定型61人・執着型22人・恐れ回避型9人・拒絡型8人という分布が見られ、執着型は安定型に比べて、嫉妬にまつわる強迫的な考えや対人関係への過敏さ、relationshipを失うことへの恐れが強い傾向が示されました。",
+      "愛着スタイルは「一生変わらない性格」ではなく、新しい関係や経験の積み重ねによって変化しうるものだと考えられています。安定型だからといって常に満足度の高い関係になるとは限らず、相手との組み合わせや状況によっても結果は変わります。"
+    ],
+    "example": "初対面の人とすぐに親密になるのが怖い、相手の愛情をいつも疑ってしまう、相手が少し距離を置くだけで不安になる——こうした恋愛での感じ方のパターンは、愛着スタイルの違いで説明されることがあります。",
+    "faq": [
+      {
+        "q": "愛着スタイルとは何ですか？",
+        "a": "愛着スタイルとは、人が親しい相手との関係の中で、どのように安心感を得ようとするかの傾向のことです。乳幼児と養育者の結びつきを説明する愛着理論から生まれ、1987年のHazanとShaverの研究以降、大人の恋愛関係にもあてはめて研究されています。"
+      },
+      {
+        "q": "愛着スタイルは何種類ありますか？",
+        "a": "研究では「相手に見捨てられる不安」と「親密さへの回避」という2つの軸から、安定型・執着型・恐れ回避型・拒絡型(無視型)の4つに分類されることが多いです。"
+      },
+      {
+        "q": "愛着スタイルは変えられますか？",
+        "a": "固定された性格ではなく、新しい関係や経験の積み重ねによって変化する可能性があるとされています。ただし、短期間で大きく変わるとは限りません。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Hazan, C., & Shaver, P. (1987). Romantic love conceptualized as an attachment process. Journal of Personality and Social Psychology, 52(3), 511-524.（背景・古典）",
+        "url": "https://doi.org/10.1037/0022-3514.52.3.511"
+      },
+      {
+        "text": "Dinero, R. E., Conger, R. D., Shaver, P. R., Widaman, K. F., & Larsen-Rife, D. (2008). Influence of family of origin and adult romantic partners on romantic attachment security. Journal of Family Psychology, 22(4), 622-632.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2689376/"
+      },
+      {
+        "text": "Marazziti, D., Consoli, G., Albanese, F., Laquidara, E., Baroni, S., & Catena Dell'Osso, M. (2010). Romantic attachment and subtypes/dimensions of jealousy. Clinical Practice and Epidemiology in Mental Health, 6, 53-58.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2936010/"
+      }
+    ]
   },
   {
     "id": "similarity-attraction",
@@ -443,7 +479,43 @@
     "en": "Similarity-Attraction Hypothesis",
     "field": "恋愛・人間関係",
     "def": "類似性-魅力仮説とは、態度や価値観が自分と似ている相手ほど魅力を感じやすい、という考え方のことです。社会心理学者バーン（Donn Byrne）らの実験研究で知られています。",
-    "slug": "similarity-attraction-compatibility-research"
+    "slug": "similarity-attraction-compatibility-research",
+    "date": "2026-10-03",
+    "detail": [
+      "社会心理学者バーン(Donn Byrne)は1961年、態度や価値観が似ている人ほど好意的に評価されやすいことを実験で示し、この現象は類似性-魅力仮説(similarity-attraction hypothesis)と呼ばれるようになりました。",
+      "2020年にフィリップ=ミュラー(Philipp-Muller)らがFrontiers in Psychology誌に発表した研究では、態度の類似性と好意的な感情的魅力との間に強い関連(r=0.46)が見られました。さらに、その話題への態度の「強さ」が高い人ほど、似ている相手と「親しくなりたい」という気持ちが強まる傾向が示されました。",
+      "類似性は友情の形成にも関わっています。2018年にパーキンソン(Parkinson)らがNature Communications誌に発表した研究では、42人の脳活動を比較し、861組のペアを分析したところ、実際に友人関係にある二人は、社会的に遠い関係の人同士よりも、動画を見ているときの脳の反応パターンが有意に似ていました。神経反応の類似度が1標準偏差高いと、友人関係である可能性は約47%高くなると報告されています。",
+      "ただし、似ていること自体が魅力を生むとは限りません。後の研究では、相手が自分と似ていると「思っていること(知覚された類似性)」の方が、客観的に実際に似ているかどうかよりも、魅力との関連が強いことも指摘されています。似た相手なら誰とでも仲良くなれるわけではなく、他の要因との組み合わせで結果が変わる点にも注意が必要です。"
+    ],
+    "example": "初めて会った人と出身地や好きな音楽が同じだと分かると、一気に親近感が増すことがあります。SNSで「趣味が同じ人」をフォローしたくなるのも、類似性-魅力仮説で説明できる現象です。",
+    "faq": [
+      {
+        "q": "類似性-魅力仮説とは何ですか？",
+        "a": "類似性-魅力仮説とは、態度や価値観が自分と似ている相手ほど魅力を感じやすい、という考え方のことです。社会心理学者バーン（Donn Byrne）らの実験研究で知られています。"
+      },
+      {
+        "q": "類似性-魅力仮説とホモフィリー(同類結合)の違いは？",
+        "a": "類似性-魅力仮説は心理学の言葉で、似た相手に魅力を感じるという心の働きを指します。社会学で使われる「ホモフィリー」は、実際の人間関係のネットワークの中で似た人同士がつながりやすいという現象を指し、着目する対象が少し異なります。"
+      },
+      {
+        "q": "似ているほど必ず好きになるのですか？",
+        "a": "いいえ。実際に似ていることよりも「似ていると感じること」の影響の方が大きいとされ、似ているだけで関係がうまくいくとは限りません。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Byrne, D. (1961). Interpersonal attraction and attitude similarity. Journal of Abnormal and Social Psychology, 62(3), 713-715.（背景・古典）",
+        "url": "https://doi.org/10.1037/h0044721"
+      },
+      {
+        "text": "Philipp-Muller, A., Wallace, L. E., Sawicki, V., Patton, K. M., & Wegener, D. T. (2020). Understanding when similarity-induced affective attraction predicts willingness to affiliate: An attitude strength perspective. Frontiers in Psychology, 11, 02199.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7431687"
+      },
+      {
+        "text": "Parkinson, C., Kleinbaum, A. M., & Wheatley, T. (2018). Similar neural responses predict friendship. Nature Communications, 9, 332.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5790806/"
+      }
+    ]
   },
   {
     "id": "hard-to-get",
@@ -467,7 +539,43 @@
     "en": "Positive Illusions",
     "field": "恋愛・人間関係",
     "def": "ポジティブ・イリュージョンとは、パートナーを、本人の自己評価よりも好意的に見る傾向のことです。Murray・Holmes・Griffin（1996）の研究で、関係の満足度との関連が報告されました。",
-    "slug": "love-is-blind-idealization-research"
+    "slug": "love-is-blind-idealization-research",
+    "date": "2026-10-03",
+    "detail": [
+      "心理学者マレー(Sandra Murray)・ホームズ(John Holmes)・グリフィン(Dale Griffin)は1996年の研究で、恋人や配偶者を、相手自身の自己評価よりも好意的に見る傾向を報告し、これをポジティブ・イリュージョンと呼びました。",
+      "2011年にマレーらがPsychological Science誌に発表した追跡調査では、新婚夫婦を3年間追跡した結果、結婚当初にパートナーを高く理想化していた人たちは、その後の結婚満足度がほとんど下がりませんでした。一方、理想化の程度が低かった人たちの満足度は大きく下がりました。この差は、パートナー自身の実際の適応の良さや好感度を考慮しても見られました。",
+      "2019年にソン(Song)らがFrontiers in Human Neuroscience誌にまとめたレビューでは、ポジティブ・イリュージョンのレベルが高いほど、関係が終わるリスクが低く、満足度が高く、葛藤や疑いが少ないという関連が、これまでの研究から確認されていると紹介されています。信頼や親密さの持続とも関連するとされています。",
+      "一方で、理想化が常に良い結果につながるとは限りません。相手の欠点を完全に無視するわけではなく、ある程度の「ズレ」を許容しながらも相手を肯定的に捉えるバランスが関わっているとみられ、現実と大きくかけ離れた思い込みが長期的にどう影響するかについては、今も研究が続けられています。"
+    ],
+    "example": "周りから見ると欠点も多い相手なのに、本人は「うちのパートナーは本当に優しくて素敵な人」と感じている——こうした少し甘めの見方が、むしろ関係の満足度を保つことにつながっている場合があります。",
+    "faq": [
+      {
+        "q": "ポジティブ・イリュージョンとは何ですか？",
+        "a": "ポジティブ・イリュージョンとは、パートナーを、本人の自己評価よりも好意的に見る傾向のことです。Murray・Holmes・Griffin（1996）の研究で、関係の満足度との関連が報告されました。"
+      },
+      {
+        "q": "ポジティブ・イリュージョンは「思い込み」で危険ではないですか？",
+        "a": "極端な思い込みが常に良いとは限りませんが、適度にパートナーを好意的に見ることは、関係の満足度の維持に役立つ可能性があるとされています。"
+      },
+      {
+        "q": "ポジティブ・イリュージョンは本当に関係の満足度を高めるのですか？",
+        "a": "新婚夫婦を3年間追跡した研究では、結婚当初に強く理想化していた人ほど、その後の満足度の低下が見られませんでした。ただし、これは一つの研究結果であり、すべてのケースに当てはまるとは限りません。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Murray, S. L., Holmes, J. G., & Griffin, D. W. (1996). The benefits of positive illusions: Idealization and the construction of satisfaction in close relationships. Journal of Personality and Social Psychology, 71(6), 1155-1180.（背景・古典）",
+        "url": "https://doi.org/10.1037/0022-3514.71.6.1155"
+      },
+      {
+        "text": "Murray, S. L., Griffin, D. W., Derrick, J. L., Harris, B., Aloni, M., & Leder, S. (2011). Tempting fate or inviting happiness? Unrealistic idealization prevents the decline of marital satisfaction. Psychological Science, 22(5), 619-626.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4094166"
+      },
+      {
+        "text": "Song, H., Zhang, Y., Zuo, L., Chen, X., Cao, G., d'Oleire Uquillas, F., & Zhang, X. (2019). Improving relationships by elevating positive illusion and the underlying psychological and neural mechanisms. Frontiers in Human Neuroscience, 13, 526.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6336892/"
+      }
+    ]
   },
   {
     "id": "synchrony",
@@ -475,7 +583,43 @@
     "en": "Interpersonal Synchrony",
     "field": "恋愛・人間関係",
     "def": "対人同期とは、会話中の動きや話すリズムが、相手と自然にそろう現象のことです。相性や親しさとの関係が研究されています。",
-    "slug": "conversation-synchrony-compatibility-research"
+    "slug": "conversation-synchrony-compatibility-research",
+    "date": "2026-10-03",
+    "detail": [
+      "対人同期(interpersonal synchrony)とは、会話や共同作業の中で、動きや話すリズム、生理的な反応などが、相手と自然にそろっていく現象です。1999年にシャートランド(Tanya Chartrand)とバージ(John Bargh)が報告した「カメレオン効果」——人が意識せずに、話している相手の姿勢や身振りをまねてしまう現象——は、対人同期を扱った代表的な研究のひとつです。",
+      "2016年にレンニュング(Rennung)とゴリツ(Göritz)がまとめたメタ分析では、1988年から2015年までに行われた60件の実験データを統合し、対人同期が協力行動や好意的な態度につながる効果を調べました。その結果、対人同期には中程度の効果(Hedges' g=0.48、95%信頼区間0.39〜0.56)があり、態度・行動の両方で、他者を助けるような反応が増えることが確認されました。",
+      "2021年にギフォード(Gifford)らがまとめたレビューでは、対人同期によって前向きな感情や親密さが高まるだけでなく、脳活動やホルモンの同期(例えばカップル間でのコルチゾールの変動の同期)も報告されていると紹介されています。実験で、実験者と動きのリズムをそろえてタップした参加者は、相手への好感度を高く評価したことも示されています。",
+      "対人同期の効果は、無意識に起こる場合も、意図的にタイミングを合わせる場合もあります。研究では、実験者が結果を知らない状態で測定する「盲検化」がされているかどうかで効果の大きさが変わることも分かっており、相性の良さを測る万能な指標というよりも、関係の中で起こる一つの現象として理解する必要があります。"
+    ],
+    "example": "仲の良い友人と話していると、いつの間にか座り方や相手の相づちのタイミングが似てくることがあります。初対面でもテンポが自然に合う相手には、親しみを感じやすいこともあります。",
+    "faq": [
+      {
+        "q": "対人同期とは何ですか？",
+        "a": "対人同期とは、会話中の動きや話すリズムが、相手と自然にそろう現象のことです。相性や親しさとの関係が研究されています。"
+      },
+      {
+        "q": "対人同期があると相性が良いということですか？",
+        "a": "対人同期は好意や協力行動と関連することが報告されていますが、それだけで相性の良さが決まるわけではなく、関係の一側面を示す現象として理解されています。"
+      },
+      {
+        "q": "対人同期は意識してつくれますか？",
+        "a": "実験では、相手の動きのリズムに意図的に合わせることで好感度が上がった例も報告されています。ただし、不自然に合わせようとすると逆効果になる可能性もあります。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Chartrand, T. L., & Bargh, J. A. (1999). The chameleon effect: The perception-behavior link and social interaction. Journal of Personality and Social Psychology, 76(6), 893-910.（背景・古典）",
+        "url": "https://doi.org/10.1037/0022-3514.76.6.893"
+      },
+      {
+        "text": "Rennung, M., & Göritz, A. S. (2016). Prosocial consequences of interpersonal synchrony: A meta-analysis. Zeitschrift für Psychologie, 224(3), 168-189.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5137339/"
+      },
+      {
+        "text": "Gifford, A., Marmelat, V., & Beadle, J. N. (2021). A narrative review examining the utility of interpersonal synchrony for the caregiver-care recipient relationship in Alzheimer's disease and related dementias. Frontiers in Psychology, 12, 653468.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8137821/"
+      }
+    ]
   },
   {
     "id": "gaslighting",
@@ -483,7 +627,43 @@
     "en": "Gaslighting",
     "field": "危険な相手を見抜く",
     "def": "ガスライティングとは、相手の記憶や知覚、判断を繰り返し否定し、自分の感覚を疑わせることで相手を支配しようとする心理的虐待のことです。1944年の映画『ガス燈』が語源です。",
-    "slug": "gaslighting-early-warning-signs"
+    "slug": "gaslighting-early-warning-signs",
+    "date": "2026-10-03",
+    "detail": [
+      "ガスライティングという呼び名は、1944年の映画『ガス燈』で、夫が様々な手段で妻に「自分がおかしいのではないか」と思わせていく描写から来ています。学術的には、1981年にカレフ(Calef)とワインシェル(Weinshel)が、精神分析の立場からこの操作のパターンを論じた論文を発表しています。",
+      "2024年にベッロマーレ(Bellomare)らが発表した研究では、ガスライティングを「相手の感覚・思考・行動・感情・自己認識・現実検討力を変化させ、支配することを目的とした操作的な行動」と定義し、やり方を3つのタイプに整理しました。過剰な賞賛やお世辞で丸め込む「グラマー型」、支援や励ましを装って裏から支配する「良い人型」、きつい批判や否定で直接攻撃する「威嚇型」です。研究では、分離不安の強さや無責任さ、気の散りやすさといった特徴が、いずれのタイプにも関わるリスク要因として見られました。",
+      "ガスライティングは恋愛関係だけでなく、職場でも研究されています。2023年にククレジャ(Kukreja)とパンデー(Pandey)がFrontiers in Psychology誌に発表した研究では、職場でのガスライティングを「立場が上の人が、部下の訴えを取り合わず過小評価する行動」と定義し、「過小評価(trivialization)」と「精神的苦痛(affliction)」の2つの要素からなる尺度を作成しました。職場での役割の衝突(板挟みの状態)が、ガスライティングを受ける経験を増やし、それが仕事の満足度の低下につながることも示されました。",
+      "ガスライティングという言葉は近年SNSなどで広く使われるようになった一方、研究者の間でも定義や測り方が研究分野ごとに異なっており、理論的な整理がまだ追いついていない部分があると指摘されています。相手に少し指摘されただけで「ガスライティングされた」と感じるケースと、長期間にわたり現実の捉え方そのものを歪められるケースを区別して考える必要があります。"
+    ],
+    "example": "「そんなこと言ってない」「あなたの勘違いでしょ」と繰り返し否定され続けるうちに、自分の記憶や感じ方の方が間違っているのではないかと思うようになってしまう——これがガスライティングの典型的な経過です。",
+    "faq": [
+      {
+        "q": "ガスライティングとは何ですか？",
+        "a": "ガスライティングとは、相手の記憶や知覚、判断を繰り返し否定し、自分の感覚を疑わせることで相手を支配しようとする心理的虐待のことです。1944年の映画『ガス燈』が語源です。"
+      },
+      {
+        "q": "ガスライティングとモラルハラスメントの違いは？",
+        "a": "モラルハラスメントは、言葉や態度で相手を傷つけ続ける精神的な暴力全般を指す、より広い言葉です。ガスライティングはその中でも、相手の記憶や現実の受け取り方そのものを疑わせ、自分の感覚を信じられなくさせる操作に焦点を当てた言葉です。"
+      },
+      {
+        "q": "ガスライティングは恋愛関係だけで起こるのですか？",
+        "a": "いいえ。近年の研究では、職場での上司と部下の関係でも「職場のガスライティング」として研究が進められています。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Calef, V., & Weinshel, E. M. (1981). Some clinical consequences of introjection: Gaslighting. The Psychoanalytic Quarterly, 50(1), 44-66.（背景・古典）",
+        "url": "https://doi.org/10.1080/21674086.1981.11926942"
+      },
+      {
+        "text": "Bellomare, M., Genova, V. G., & Miano, P. (2024). Gaslighting exposure during emerging adulthood: Personality traits and vulnerability paths. International Journal of Psychological Research, 17(2).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11456334/"
+      },
+      {
+        "text": "Kukreja, P., & Pandey, J. (2023). Workplace gaslighting: Conceptualization, development, and validation of a scale. Frontiers in Psychology, 14, 1099485.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10097938/"
+      }
+    ]
   },
   {
     "id": "love-bombing",
@@ -515,7 +695,43 @@
     "en": "Duchenne Smile",
     "field": "しぐさ・表情",
     "def": "デュシェンヌ・スマイルとは、口元だけでなく目の周りの筋肉（眼輪筋）も動く笑顔のことです。19世紀の神経学者デュシェンヌの観察にちなみ、心理学者エクマンらが名づけました。",
-    "slug": "fake-smile-duchenne-detection-research"
+    "slug": "fake-smile-duchenne-detection-research",
+    "date": "2026-10-03",
+    "detail": [
+      "笑顔の研究で使われる「デュシェンヌ・スマイル」という名前は、19世紀フランスの神経学者デュシェンヌ・ド・ブローニュが、頬を上げる大頬骨筋だけでなく、目の周りの眼輪筋も収縮する笑顔に気づいたことにちなみます。1982年、心理学者エクマン(Paul Ekman)とフリーセン(Wallace Friesen)はこの観察を引き継ぎ、意識して目の周りの筋肉(AU6)を動かせる人は10%未満だと推定し、作り笑いと見分ける手がかりとして整理しました。",
+      "2011年にマネラ(Manera)らがFrontiers in Psychology誌に発表した研究では、この「本物の笑顔」を見分ける能力の個人差が、注意力や視線の向け方、自閉的な傾向の強さではほとんど説明できないことが示されました。視線の動きのパターンに違いは見られたものの、見分ける成績そのものとの関連は統計的に有意ではありませんでした。",
+      "2021年にエトコフ(Etcoff)らが発表した研究では、目尻のしわ用のボツリヌス毒素治療を受けた人の、治療前(デュシェンヌ・スマイルが出せる状態)と治療後(眼輪筋が動きにくい状態)の笑顔を比較しました。その結果、治療前の笑顔の方が「自然」「誠実」「強い」「幸せそう」と評価されました。治療後は見た目の年齢が約1歳若く見積もられましたが、魅力的だとは評価されませんでした。",
+      "これらの研究から、目元の動きが伴う笑顔は、本物の感情や協力的な意図を伝える手がかりになっていると考えられています。ただし、デュシェンヌ・スマイルが常に「本当の喜び」だけを意味するとは限らず、意図的に作られる場合もあると指摘されており、笑顔の種類だけで相手の気持ちを完全に判断することはできません。"
+    ],
+    "example": "サプライズでプレゼントをもらった瞬間の笑顔と、カメラの前で「はい、チーズ」と作る笑顔を比べると、前者は目元にもしわが寄り、後者は口元だけが上がることが多いです。これがデュシェンヌ・スマイルの違いです。",
+    "faq": [
+      {
+        "q": "デュシェンヌ・スマイルとは何ですか？",
+        "a": "デュシェンヌ・スマイルとは、口元だけでなく目の周りの筋肉（眼輪筋）も動く笑顔のことです。19世紀の神経学者デュシェンヌの観察にちなみ、心理学者エクマンらが名づけました。"
+      },
+      {
+        "q": "デュシェンヌ・スマイルがあれば必ず本物の笑顔ですか？",
+        "a": "必ずそうとは限りません。目元の動きを伴う笑顔は作られることもあると指摘されており、デュシェンヌ・スマイルだけで感情を完全に判断することはできません。"
+      },
+      {
+        "q": "デュシェンヌ・スマイルは自分で作れますか？",
+        "a": "研究では、意識して目の周りの眼輪筋を動かせる人は10%未満と推定されています。多くの人にとって、意図的に再現するのは難しい動きです。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Ekman, P., & Friesen, W. V. (1982). Felt, false, and miserable smiles. Journal of Nonverbal Behavior, 6, 238-252.（背景・古典）",
+        "url": "https://doi.org/10.1007/BF00987191"
+      },
+      {
+        "text": "Manera, V., Del Giudice, M., Grandi, E., & Colle, L. (2011). Individual differences in the recognition of enjoyment smiles: No role for perceptual-attentional factors and autistic-like traits. Frontiers in Psychology, 2, 143.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3134888"
+      },
+      {
+        "text": "Etcoff, N., Stock, S., Krumhuber, E. G., & Reed, L. I. (2021). A novel test of the Duchenne marker: Smiles after botulinum toxin treatment for crow's feet wrinkles. Frontiers in Psychology, 11, 612654.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7835207"
+      }
+    ]
   },
   {
     "id": "anchoring",
@@ -523,7 +739,43 @@
     "en": "Anchoring Effect",
     "field": "お金の心理学（行動経済学）",
     "def": "アンカリング効果とは、最初に示された数字（アンカー）に、その後の判断が引きずられる現象のことです。TverskyとKahneman（1974）が報告しました。",
-    "slug": "sale-price-anchoring"
+    "slug": "sale-price-anchoring",
+    "date": "2026-10-03",
+    "detail": [
+      "心理学者トベルスキー(Amos Tversky)とカーネマン(Daniel Kahneman)は1974年の研究で、参加者にルーレットのような装置を回させ、65か10のどちらかの数字で止まるようにしたうえで、「国連加盟国のうちアフリカの国の割合は、その数字より多いか少ないか」を尋ねました。その後、実際の割合を推定してもらうと、65を見た人たちの推定値の中央値は45%、10を見た人たちは25%となり、直前に見ただけの無関係な数字に、その後の判断が引きずられることが示されました。",
+      "2021年にオヌキ(Onuki)らがFrontiers in Psychology誌に発表した研究では、この実験を改めて検証し、65のアンカーで推定値の中央値が45%、10のアンカーで25%という同様の結果が報告されました。この研究では、単なる数字だけでなく、意味的な関連性がある刺激でもアンカリング効果が起こるかどうかも調べられています。",
+      "2022年にゾン(Zong)とグオ(Guo)がFrontiers in Psychology誌に発表した実験では、240人の参加者に、VRグラスや体組成計などの商品の価格を判断してもらいました。実際の価格の約2倍の数字を見せた「高いアンカー」条件と、約半分の数字を見せた「低いアンカー」条件を比べると、高いアンカーを見たグループの方が、その後の価格評価も高くなる傾向が確認されました。この効果には、性格や知識・スキル、認知的な欲求の強さなども影響していました。",
+      "アンカリング効果は、くじやルーレットのように自分の判断と無関係だと分かっている数字でも起こる点が特徴です。値段交渉や不動産の価格表示など、日常の様々な場面で利用されている一方、「最初に示された数字をうのみにしない」よう注意を促すことが対策として挙げられています。"
+    ],
+    "example": "値札に「通常価格15,000円→今だけ5,000円」と書かれていると、5,000円という値段が単体で示されるよりも「お得」に感じやすくなります。これも、最初に見た15,000円がアンカーとして働くためだと考えられます。",
+    "faq": [
+      {
+        "q": "アンカリング効果とは何ですか？",
+        "a": "アンカリング効果とは、最初に示された数字（アンカー）に、その後の判断が引きずられる現象のことです。TverskyとKahneman（1974）が報告しました。"
+      },
+      {
+        "q": "アンカリング効果は数字以外でも起こりますか？",
+        "a": "研究では、単純な数字だけでなく、意味的に関連する情報が示された場合にもアンカリング効果が起こることが示されています。"
+      },
+      {
+        "q": "アンカリング効果を避ける方法はありますか？",
+        "a": "最初に示された数字が今回の判断と無関係だと意識したり、他の情報源と比べたりすることが対策として挙げられていますが、研究では無関係だと分かっていてもアンカリング効果が起こることが示されています。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124-1131.（背景・古典）",
+        "url": "https://doi.org/10.1126/science.185.4157.1124"
+      },
+      {
+        "text": "Onuki, Y., Honda, H., & Ueda, K. (2021). What stimuli are necessary for anchoring effects to occur? Frontiers in Psychology, 12, 659484.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8006283/"
+      },
+      {
+        "text": "Zong, Y., & Guo, X. (2022). An experimental study on anchoring effect of consumers' price judgment based on consumers' experiencing scenes. Frontiers in Psychology, 13, 794135.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8860899/"
+      }
+    ]
   },
   {
     "id": "pain-of-paying",
@@ -539,7 +791,43 @@
     "en": "Endowment Effect",
     "field": "お金の心理学（行動経済学）",
     "def": "保有効果とは、自分が持っているものを、持っていないときより高く評価してしまう心理のことです。Kahneman・Knetsch・Thaler（1990）のマグカップ実験では、売り手の希望額が買い手の希望額の約2倍になりました。",
-    "slug": "subscription-cant-cancel"
+    "slug": "subscription-cant-cancel",
+    "date": "2026-10-03",
+    "detail": [
+      "保有効果は、行動経済学者セイラー(Richard Thaler)が1980年に提唱し、1990年にカーネマン(Daniel Kahneman)・クネッチ(Jack Knetsch)・セイラーが行ったマグカップを使った実験で広く知られるようになった考え方です。自分が既に持っているものを手放すときに要求する価格(売値)が、同じものを新たに手に入れるために払ってもよいと思う価格(買値)よりも高くなる現象を指します。",
+      "2009年にデ・マルティーノ(De Martino)らがThe Journal of Neuroscience誌に発表したfMRI研究では、参加者に2〜36ポンドの期待値を持つくじを使って「売り手」と「買い手」の役を体験してもらいました。その結果、売り手として提示した最低売却価格は、買い手として提示した最高購入価格よりも統計的に有意に高くなりました(p<0.0001)。さらに、腹側線条体という脳の部位の活動が、価格が基準点からどれだけ離れているかを追跡し、保有効果の大きさとも関連していることが分かりました。",
+      "同じ2009年にクリザロ(Clithero)とスミス(Smith)がFrontiers in Human Neuroscience誌にまとめたレビューでは、こうした保有効果の背景にある脳の仕組みについて、眼窩前頭皮質が買値と売値それぞれの価値を内側・外側で分けて処理していることや、尾状核が買値・売値の両方を符号化していること、個人差の大きさに腹側線条体の活動が関連していることが紹介されています。",
+      "保有効果は、損失を避けたいという「損失回避」の心の働きで説明されることが多いですが、近年の研究では、単に「自分のもの」だと感じること自体が評価を高めている可能性も指摘されており、損失回避だけでは説明しきれない部分もあるとされています。"
+    ],
+    "example": "長年使っている自分のマグカップを、お店で売っている同じ新品のマグカップより高く評価してしまう——これが保有効果です。手放すときだけ、急に惜しくなるのです。",
+    "faq": [
+      {
+        "q": "保有効果とは何ですか？",
+        "a": "保有効果とは、自分が持っているものを、持っていないときより高く評価してしまう心理のことです。Kahneman・Knetsch・Thaler（1990）のマグカップ実験では、売り手の希望額が買い手の希望額の約2倍になりました。"
+      },
+      {
+        "q": "保有効果は損失回避と同じことですか？",
+        "a": "深く関連していますが、同じではありません。損失回避(手放す痛みの方が、得る喜びより大きいという考え方)で説明されることが多い一方、近年の研究では「自分のものだと感じること」自体が評価を高めている可能性も指摘されています。"
+      },
+      {
+        "q": "保有効果は誰にでも起こりますか？",
+        "a": "多くの実験で確認されていますが、効果の大きさには個人差があり、脳の活動(腹側線条体など)の個人差と関連していることが報告されています。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Kahneman, D., Knetsch, J. L., & Thaler, R. H. (1990). Experimental tests of the endowment effect and the Coase theorem. Journal of Political Economy, 98(6), 1325-1348.（背景・古典）",
+        "url": "https://doi.org/10.1086/261737"
+      },
+      {
+        "text": "De Martino, B., Kumaran, D., Holt, B., & Dolan, R. J. (2009). The neurobiology of reference-dependent value computation. The Journal of Neuroscience, 29(12), 3833-3842.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2722101"
+      },
+      {
+        "text": "Clithero, J. A., & Smith, D. V. (2009). Reference and preference: How does the brain scale subjective value? Frontiers in Human Neuroscience.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2715285"
+      }
+    ]
   },
   {
     "id": "status-quo-bias",
@@ -563,7 +851,43 @@
     "en": "Hedonic Adaptation",
     "field": "お金の心理学（行動経済学）",
     "def": "快楽順応とは、良い変化にも悪い変化にも時間がたつと慣れ、幸福感が元の水準に戻っていく傾向のことです。収入が増えても満足が長続きしない理由の一つとされています。",
-    "slug": "income-increase-savings-hedonic-adaptation"
+    "slug": "income-increase-savings-hedonic-adaptation",
+    "date": "2026-10-03",
+    "detail": [
+      "快楽順応は、良いことも悪いことも時間が経つと慣れてしまい、幸福感が元の水準に戻っていくという考え方で、「幸福のセットポイント理論」とも関わりの深いテーマです。人は遺伝や性格で決まる幸福の基準値を持ち、出来事があってもやがてそこに戻っていく、という見方です。",
+      "2003年にイースタリン(Easterlin)がProceedings of the National Academy of Sciences誌に発表した論文では、セットポイント理論を社会調査データから検討し、順応の程度は分野によって異なると報告されました。特に経済的な領域(収入など)では順応がほぼ完全に起こる一方、健康状態や婚姻状況については「不完全な順応」、つまり元の水準に戻りきらない変化が見られると論じています。",
+      "2014年にアヌシッチ(Anusic)らがSocial Indicators Research誌に発表した、スイスの大規模な追跡調査では、結婚・出産・死別・失業・障害という出来事の前後で生活満足度がどう変わるかを調べました。結婚や出産では、出来事の年に満足度が一時的に上がり、その後は下がっていく傾向が見られましたが、死別や失業、障害については、年齢などの変化を考慮しても、長期的に満足度が下がったままの状態が続くことが示されました。",
+      "快楽順応は「お金や成功で幸せは長続きしない」という話でよく引用されますが、研究が示すのは「順応の程度は出来事の種類によって異なる」という、より限定的な内容です。経済的な変化には比較的早く順応する一方、死別や障害のような出来事には順応しきらないことがある、という点に注意が必要です。"
+    ],
+    "example": "欲しかった給料アップを叶えても、数ヶ月経つとその生活水準が「当たり前」になり、以前ほどの喜びを感じなくなる——これが快楽順応の一例です。",
+    "faq": [
+      {
+        "q": "快楽順応とは何ですか？",
+        "a": "快楽順応とは、良い変化にも悪い変化にも時間がたつと慣れ、幸福感が元の水準に戻っていく傾向のことです。収入が増えても満足が長続きしない理由の一つとされています。"
+      },
+      {
+        "q": "快楽順応はどんな出来事にも当てはまるのですか？",
+        "a": "いいえ。研究では、収入などの経済的な変化には比較的よく順応する一方、死別や障害のような出来事には長期的に順応しきらない場合があることが示されています。"
+      },
+      {
+        "q": "快楽順応は悪いことなのですか？",
+        "a": "一概には言えません。悪い出来事からの回復を助ける面もありますが、良い出来事の喜びが長続きしない原因にもなるとされています。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Brickman, P., Coates, D., & Janoff-Bulman, R. (1978). Lottery winners and accident victims: Is happiness relative? Journal of Personality and Social Psychology, 36(8), 917-927.（背景・古典）",
+        "url": "https://doi.org/10.1037/0022-3514.36.8.917"
+      },
+      {
+        "text": "Easterlin, R. A. (2003). Explaining happiness. Proceedings of the National Academy of Sciences, 100(19), 11176-11183.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC196947"
+      },
+      {
+        "text": "Anusic, I., Yap, S. C. Y., & Lucas, R. E. (2014). Testing set-point theory in a Swiss national sample: Reaction and adaptation to major life events. Social Indicators Research, 119(3), 1265-1288.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4235657"
+      }
+    ]
   },
   {
     "id": "ostrich-effect",
@@ -579,7 +903,43 @@
     "en": "Social Comparison",
     "field": "お金の心理学（行動経済学）",
     "def": "社会的比較とは、自分の能力や状況を、他人と比べて評価しようとする心の働きのことです。社会心理学者フェスティンガー（1954）が理論化しました。",
-    "slug": "social-comparison-spending"
+    "slug": "social-comparison-spending",
+    "date": "2026-10-03",
+    "detail": [
+      "社会心理学者フェスティンガー(Leon Festinger)は1954年、人は自分の能力や意見を正確に評価したいという欲求を持ち、そのために他者と比較する、という社会的比較理論を発表しました。",
+      "2014年にケディア(Kedia)らがNeuroReport誌に発表したレビューでは、他者と自分を比べる場面で、脳の報酬に関わる部位(腹側線条体)が、自分が得たものの絶対的な量ではなく、他者と比べてどうだったかという相対的な結果に応じて反応することが紹介されています。自分より恵まれない人と比べる「下方比較」は、自分の状況の深刻さを和らげる働きがあるとされています。",
+      "同じ2014年にスウェンシオニス(Swencionis)とフィスク(Fiske)がNeuropsychologia誌に発表したレビューでは、自分より優れた人と比べる「上方比較」は痛みに関わる脳の部位を、自分より劣った人と比べる「下方比較」は報酬に関わる部位を、それぞれ活性化させる傾向があることが紹介されています。また、こうした比較に伴う嫉妬や、相手の不幸を喜ぶ感情が、その後の他者への親切や攻撃的な態度を予測する可能性も指摘されています。",
+      "社会的比較は、SNSで他人の生活を目にする機会が増えた現代では特に注目されているテーマです。ただし、比較が常に気分を悪くするわけではなく、どのような相手と、どのような目的で比較するかによって、結果は大きく変わるとされています。"
+    ],
+    "example": "SNSで友人の旅行先の写真を見て落ち込んだり、逆に自分より大変そうな人の話を聞いて「まだ自分は恵まれている」と感じたりするのは、どちらも社会的比較の一例です。",
+    "faq": [
+      {
+        "q": "社会的比較とは何ですか？",
+        "a": "社会的比較とは、自分の能力や状況を、他人と比べて評価しようとする心の働きのことです。社会心理学者フェスティンガー（1954）が理論化しました。"
+      },
+      {
+        "q": "上方比較と下方比較の違いは？",
+        "a": "上方比較は自分より優れた人と比べることで、劣等感や嫉妬につながりやすいとされます。下方比較は自分より恵まれない人と比べることで、一時的に自分の状況を良く感じやすくなるとされますが、不安や罪悪感を感じさせる場合もあると指摘されています。"
+      },
+      {
+        "q": "社会的比較は悪いことですか？",
+        "a": "比較そのものが悪いわけではありません。何のために、誰と比較するかによって、心への影響は大きく変わるとされています。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Festinger, L. (1954). A theory of social comparison processes. Human Relations, 7(2), 117-140.（背景・古典）",
+        "url": "https://doi.org/10.1177/001872675400700202"
+      },
+      {
+        "text": "Kedia, G., Mussweiler, T., & Linden, D. E. J. (2014). Brain mechanisms of social comparison and their influence on the reward system. NeuroReport, 25(16), 1255-1265.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4222713/"
+      },
+      {
+        "text": "Swencionis, J. K., & Fiske, S. T. (2014). How social neuroscience can inform theories of social comparison. Neuropsychologia, 56, 140-151.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4934127"
+      }
+    ]
   },
   {
     "id": "present-bias",
