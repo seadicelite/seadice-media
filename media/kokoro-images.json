@@ -609,5 +609,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Middle-aged_woman_working_on_laptop_while_holding_smartphone_at_a_wooden_table.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "workplace-ai-rollout-stress": {
+  "file": "File:Doctor working at a desk using a computer mouse and keyboard in a medical office setting.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg/960px-Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg/500px-Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "白い机でマウスとキーボードを使って作業する手元",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
