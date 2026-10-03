@@ -118,6 +118,10 @@ def patch_article(cfg, p, posts, images, favicon=""):
     else:
         s = re.sub(r'<meta name="twitter:card" content="[^"]*">', '<meta name="twitter:card" content="summary">', s)
     s = re.sub(r'(<meta name="twitter:card"[^>]*>\n)', lambda m: m.group(1) + add, s, count=1)
+    # --- メディア固有の記事デザイン(cfg の articleCss)を後から差し込む。過去記事にも効く
+    s = re.sub(r'<style id="theme">.*?</style>\n?', "", s, flags=re.S)
+    if cfg.get("articleCss"):
+        s = s.replace("</head>", f'<style id="theme">{cfg["articleCss"]}</style>\n</head>', 1)
     # --- 構造化データ(Article を強化)
     def fix_ld(m):
         try:
@@ -202,7 +206,7 @@ PAGES = {
 
 
 def write_pages(cfg, favicon=""):
-    st = article_style(cfg)
+    st = article_style(cfg) + (f'<style id="theme">{cfg["articleCss"]}</style>' if cfg.get("articleCss") else "")
     concept = cfg.get("concept", "")
     concept_short = cfg.get("tagline", "")
     urls = []
