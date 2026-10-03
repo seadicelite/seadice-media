@@ -401,5 +401,44 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Today%27s_a_work_day.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "watching-eyes-sign-crime": {
+  "file": "File:Colorful metal bicycle parking rack in Lysekil 2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg/960px-Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg/500px-Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "A colorful metal bicycle parking rack at Valbogatan in autumn, Lysekil, Sweden.",
+  "artist": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "crime-hot-spots-concentration": {
+  "file": "File:Québec city at night, view from Lévis city.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Qu%C3%A9bec_city_at_night%2C_view_from_L%C3%A9vis_city.jpg/960px-Qu%C3%A9bec_city_at_night%2C_view_from_L%C3%A9vis_city.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Qu%C3%A9bec_city_at_night%2C_view_from_L%C3%A9vis_city.jpg/500px-Qu%C3%A9bec_city_at_night%2C_view_from_L%C3%A9vis_city.jpg",
+  "w": 960,
+  "h": 630,
+  "alt": "Québec city at night, view from Lévis city",
+  "artist": "Wilfredor",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Qu%C3%A9bec_city_at_night,_view_from_L%C3%A9vis_city.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "vacant-land-restoration-crime": {
+  "file": "File:Unidentified rowhouse - DPLA - a07afca63d101a2a929886f7e8a455a5.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unidentified_rowhouse_-_DPLA_-_a07afca63d101a2a929886f7e8a455a5.jpg/960px-Unidentified_rowhouse_-_DPLA_-_a07afca63d101a2a929886f7e8a455a5.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unidentified_rowhouse_-_DPLA_-_a07afca63d101a2a929886f7e8a455a5.jpg/500px-Unidentified_rowhouse_-_DPLA_-_a07afca63d101a2a929886f7e8a455a5.jpg",
+  "w": 960,
+  "h": 643,
+  "alt": "An unidentified two-story brick row house. At this point in time, the building is abandoned and some of the windows are broken. The empty lo",
+  "artist": "David E. Lucas",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Unidentified_rowhouse_-_DPLA_-_a07afca63d101a2a929886f7e8a455a5.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

@@ -61,8 +61,11 @@ BOHANはSEADICE(https://seadice.win/)が運営する、無料・広告なしの�
 - [割れ窓理論は本当か。小さな乱れと犯罪の関係を研究で検証](https://bohan.seadice.win/broken-windows-theory-evidence/): 落書きやゴミは違反を呼ぶ。効果があったのは取り締まりより、地域で場所をきれいにする取り組みでした。
 - [防犯カメラは犯罪を減らすのか。40年分の研究が示す効果と限界](https://bohan.seadice.win/cctv-crime-prevention-research/): 防犯カメラの効果は確かだが控えめ。駐車場で最も効き、他の対策と組み合わせると大きくなります。
 - [防犯しても犯罪はよそへ移るだけ？ 犯罪の転移と「効果の広がり」の研究](https://bohan.seadice.win/crime-displacement-diffusion-benefits/): 犯罪が移ったのは観察の26%、周りでも減ったのは27%。守ると周りまで守られる傾向があります。
+- [犯罪は街のごく一部に集中する。「ホットスポット」の研究と、危ない場所の見分け方](https://bohan.seadice.win/crime-hot-spots-concentration/): 犯罪は街のごく一部の場所に集中する。そこに絞った対策は犯罪を減らし、効果は周りにも広がりやすい。漠然と怖がるより、危ない場所を知って避ける。
 - [治安は悪くなった？ 体感治安と統計のずれ、不安を減らす方法](https://bohan.seadice.win/fear-of-crime-vs-statistics/): 刑法犯はピークから大きく減ったのに、6割が悪化を実感。不安は具体的な対策に変えられます。
 - [近所づきあいは防犯になるのか。「集合的効力感」の研究](https://bohan.seadice.win/neighbors-collective-efficacy-crime/): 侵入者は近所の目を嫌う。住民のつながりが強い地域ほど犯罪が少ないことが研究で示されています。
+- [空き地を片づけると犯罪は減るのか。空き家900万戸の日本で知りたい研究](https://bohan.seadice.win/vacant-land-restoration-crime/): 荒れた空き地を片づけると、貧困地域で銃犯罪が29%、侵入盗が22%減った。日本の空き家は900万戸と過去最多。手入れされた場所は犯罪を遠ざける。
+- [「見られている」だけで盗みは減るのか。目の絵の看板で自転車盗難が62%減った研究](https://bohan.seadice.win/watching-eyes-sign-crime/): 目の絵と言葉の看板を掲げた駐輪場で、自転車盗難は62%減った。ただし看板のない場所では増えた。「人の目を感じさせる」ことが防犯の基本。
 
 ### AI時代の防犯
 
