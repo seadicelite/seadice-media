@@ -1,5 +1,13 @@
 [
  {
+  "slug": "ai-art-drawing-confidence",
+  "category": "比べて落ち込む",
+  "type": "guide",
+  "date": "2026-10-03",
+  "title": "AIの絵と比べて、自分の絵に自信がなくなる。同じ絵でも「人が描いた」と知ると評価は高くなっていた",
+  "summary": "同じ絵でも「人が描いた」と知ると評価は高かった。AIと比べて落ち込むときの、比べ方と描き続け方を研究から整理"
+ },
+ {
   "slug": "workplace-ai-rollout-stress",
   "category": "仕事とAIの不安",
   "type": "guide",

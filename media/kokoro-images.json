@@ -622,5 +622,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ai-art-drawing-confidence": {
+  "file": "File:Art supplies in a table.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Art_supplies_in_a_table.jpg/960px-Art_supplies_in_a_table.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Art_supplies_in_a_table.jpg/500px-Art_supplies_in_a_table.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上に並んだ色鉛筆やペン、絵の具などの画材",
+  "artist": "mycurrency.com",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Art_supplies_in_a_table.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
