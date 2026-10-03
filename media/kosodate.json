@@ -219,6 +219,14 @@
       "path": "/guide/"
     },
     {
+      "label": "親がやるといいこと",
+      "path": "/dos/"
+    },
+    {
+      "label": "させない方がいいこと",
+      "path": "/avoid/"
+    },
+    {
       "label": "ルール表（印刷用）",
       "path": "/rules/"
     },
