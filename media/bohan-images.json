@@ -596,5 +596,57 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Close-up_of_the_key_with_house_keychain.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "neighborhood-watch-patrol-effect": {
+  "file": "File:Franklin Sidewalk - residential area.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Franklin_Sidewalk_-_residential_area.jpg/960px-Franklin_Sidewalk_-_residential_area.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Franklin_Sidewalk_-_residential_area.jpg/500px-Franklin_Sidewalk_-_residential_area.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "The sidewalk between Franklin and Arma, Crawford County, Kansas, said to be the longest between two communities in the United States at 1.7 ",
+  "artist": "Ser Amantio di Nicolao",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Franklin_Sidewalk_-_residential_area.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "burglary-seasonal-year-end-myth": {
+  "file": "File:Snow-covered park at night in Quebec City.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Snow-covered_park_at_night_in_Quebec_City.jpg/960px-Snow-covered_park_at_night_in_Quebec_City.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Snow-covered_park_at_night_in_Quebec_City.jpg/500px-Snow-covered_park_at_night_in_Quebec_City.jpg",
+  "w": 960,
+  "h": 595,
+  "alt": "A park after heavy snow at night, an empty bench and a lit lamppost throwing a pool of light across the untouched snow, the windows of the h",
+  "artist": "Wilfredor",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Snow-covered_park_at_night_in_Quebec_City.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "snatch-theft-statistics-prevention": {
+  "file": "https://live.staticflickr.com/65535/54553912080_cf95be8b7a_b.jpg",
+  "src": "https://live.staticflickr.com/65535/54553912080_cf95be8b7a_b.jpg",
+  "src640": "https://live.staticflickr.com/65535/54553912080_cf95be8b7a_b.jpg",
+  "w": 1024,
+  "h": 683,
+  "alt": "DSCF0556: a group of purses hanging from a ceiling",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "page": "https://www.flickr.com/photos/194424926@N05/54553912080",
+  "source_label": "Flickr"
+ },
+ "heat-temperature-crime-research": {
+  "file": "File:Moscow - 2026 - Tverskaya Street on a hot summer day.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Moscow_-_2026_-_Tverskaya_Street_on_a_hot_summer_day.jpg/960px-Moscow_-_2026_-_Tverskaya_Street_on_a_hot_summer_day.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Moscow_-_2026_-_Tverskaya_Street_on_a_hot_summer_day.jpg/500px-Moscow_-_2026_-_Tverskaya_Street_on_a_hot_summer_day.jpg",
+  "w": 960,
+  "h": 664,
+  "alt": "Москва. Тверская улица жарким летним днём.",
+  "artist": "Юрий Д.К.",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Moscow_-_2026_-_Tverskaya_Street_on_a_hot_summer_day.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

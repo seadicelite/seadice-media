@@ -29,6 +29,7 @@ BOHANはSEADICE(https://seadice.win/)が運営する、無料・広告なしの�
 ### 空き巣・侵入窃盗
 
 - [空き巣はどんな家を狙うのか。下見のポイントと「5分」の研究](https://bohan.seadice.win/burglar-target-selection-5-minutes/): 空き巣が下見で見るのは留守か・入りやすいか・逃げやすいか。家の豊かさより近さと入りやすさが決め手でした。
+- [「年末年始は空き巣が増える」は本当か。東京4年分の月別データで確かめた](https://bohan.seadice.win/burglary-seasonal-year-end-myth/): 東京の4年分のデータでは、12月の侵入窃盗は年間の8.8%で、平均の8.3%とほぼ同じ。年末だけ警戒するより、一年中の施錠と長期不在の備えが大切。
 - [在宅中でも押し入る侵入強盗。増える手口と、家でできる備え](https://bohan.seadice.win/home-invasion-robbery-at-home/): 住宅を狙う侵入強盗は令和7年に13.2%増。在宅中の施錠と、すぐに開けない習慣が基本です。
 - [引っ越し直後は狙われやすい？ 新居で最初の1週間にやっておきたい防犯](https://bohan.seadice.win/moving-new-home-security/): 住む人が入れ替わった住宅は犯罪の被害を受けやすい。共同住宅の侵入では合かぎが12.9〜24.6%。新居では鍵の扱いを確かめ、窓とドアの施錠を習慣にする。
 - [一度入られた家はまた狙われるのか。空き巣の再被害の研究](https://bohan.seadice.win/repeat-burglary-victimization/): 再被害は最初の1か月に平均の6.4倍。危険は近所にも広がるので、被害直後の対策が大切です。
@@ -39,6 +40,7 @@ BOHANはSEADICE(https://seadice.win/)が運営する、無料・広告なしの�
 ### 夜道・つきまとい
 
 - [夜道でひったくりに遭うリスクはなぜ上がるのか。暗さの研究と、今日からできる歩き方](https://bohan.seadice.win/night-darkness-robbery-risk/): 暗くなると対人強盗は約1.87倍に。明るい道を選ぶなど、研究に基づく歩き方を紹介します。
+- [ひったくりはピーク時の約110分の1に。それでも年479件、被害の6割は女性](https://bohan.seadice.win/snatch-theft-statistics-prevention/): ひったくりは2002年の5万2,919件から2025年の479件まで減った。被害の6割は女性。バッグは車道と反対側に持ち、前かごにはカバーを付ける。
 - [つきまといは誰から始まるのか。被害の統計と、早めに相談する理由](https://bohan.seadice.win/stalking-acquaintance-consultation/): つきまといの加害者は元交際相手が最多。記録を残し、早めに人に話すことが身を守る第一歩です。
 - [街灯を明るくすると犯罪は減るのか。照明と犯罪の研究](https://bohan.seadice.win/street-lighting-crime-research/): 街灯を増やした団地で夜の屋外犯罪が36%以上減少。明かりは「見られる」以上の効果を持つようです。
 
@@ -68,6 +70,8 @@ BOHANはSEADICE(https://seadice.win/)が運営する、無料・広告なしの�
 - [犯罪は街のごく一部に集中する。「ホットスポット」の研究と、危ない場所の見分け方](https://bohan.seadice.win/crime-hot-spots-concentration/): 犯罪は街のごく一部の場所に集中する。そこに絞った対策は犯罪を減らし、効果は周りにも広がりやすい。漠然と怖がるより、危ない場所を知って避ける。
 - [「点検に来ました」は本当か。分電盤の点検商法の相談が1年で5倍に増えた理由と断り方](https://bohan.seadice.win/door-to-door-inspection-scam/): 分電盤の点検商法の相談は2025年度に6,545件で前年度の約5倍。8割超が70歳以上。突然の点検には「家族に相談してから」と答え、その場で契約しない。
 - [治安は悪くなった？ 体感治安と統計のずれ、不安を減らす方法](https://bohan.seadice.win/fear-of-crime-vs-statistics/): 刑法犯はピークから大きく減ったのに、6割が悪化を実感。不安は具体的な対策に変えられます。
+- [暑い日は犯罪が増えるのか。気温10℃上昇で暴力犯罪が9%増えた研究](https://bohan.seadice.win/heat-temperature-crime-research/): 気温が10℃上がると暴力犯罪のリスクは9%高まった（83研究のメタ分析）。暑い日はいら立ちが争いにつながりやすい。窓の開けっぱなしにも注意する。
+- [地域の見守り・防犯パトロールに効果はあるのか。犯罪16〜26%減の研究と、参加者が減る現実](https://bohan.seadice.win/neighborhood-watch-patrol-effect/): 地域の見守り活動は犯罪を16〜26%減らす可能性がある。日本の防犯ボランティアは221万人で減少中。散歩や買い物のついでの「ながら見守り」なら続けやすい。
 - [近所づきあいは防犯になるのか。「集合的効力感」の研究](https://bohan.seadice.win/neighbors-collective-efficacy-crime/): 侵入者は近所の目を嫌う。住民のつながりが強い地域ほど犯罪が少ないことが研究で示されています。
 - [なぜ高齢者は詐欺の被害にあいやすいのか。研究でわかった7つの要因と家族ができること](https://bohan.seadice.win/older-adults-fraud-psychology/): 2025年、特殊詐欺の被害の51.3%が65歳以上。孤立や詐欺の知識不足などが要因とされる。責めるより、日ごろの会話と「お金の話は相談する」約束で守る。
 - [空き地を片づけると犯罪は減るのか。空き家900万戸の日本で知りたい研究](https://bohan.seadice.win/vacant-land-restoration-crime/): 荒れた空き地を片づけると、貧困地域で銃犯罪が29%、侵入盗が22%減った。日本の空き家は900万戸と過去最多。手入れされた場所は犯罪を遠ざける。
