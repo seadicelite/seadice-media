@@ -12,7 +12,13 @@
         "「よく目が合った」という自分の記憶は当てになりにくいことが、実験で示されています。",
         "視線やしぐさから嘘を見抜ける確率は、206の研究をまとめると平均で約54%でした。"
       ],
-      "slugs": ["eye-contact-gaze-attraction-research", "pupil-dilation-attraction-research", "body-language-lie-detection-accuracy"]
+      "slugs": [
+        "eye-contact-gaze-attraction-research",
+        "pupil-dilation-attraction-research",
+        "body-language-lie-detection-accuracy",
+        "blink-rate-nervousness-lying-research",
+        "gaze-avoidance-social-anxiety-research"
+      ]
     },
     {
       "id": "face",
@@ -24,7 +30,12 @@
         "一瞬だけ出る「微表情」は表情全体の2%ほどで、訓練しても嘘を見抜く精度は上がりませんでした。",
         "数秒の映像で当たりやすい性格特性がある一方、顔から感じる信頼感は実際の信頼性とずれることがあります。"
       ],
-      "slugs": ["fake-smile-duchenne-detection-research", "microexpression-true-feelings-research", "appearance-first-impression-accuracy-research"]
+      "slugs": [
+        "fake-smile-duchenne-detection-research",
+        "microexpression-true-feelings-research",
+        "appearance-first-impression-accuracy-research",
+        "eyebrow-flash-attraction-research"
+      ]
     },
     {
       "id": "hands",
@@ -36,7 +47,11 @@
         "触れてよい体の範囲は親しさに比例しますが、触れる量は性格や文化で変わり、恋愛感情の証拠にはなりません。",
         "腕組みは「拒絶」とは限らず、粘り強さを高める効果を示した研究もあります。"
       ],
-      "slugs": ["self-touch-face-hair-nervousness-research", "touch-affection-signal-research", "arm-crossing-posture-psychology-research"]
+      "slugs": [
+        "self-touch-face-hair-nervousness-research",
+        "touch-affection-signal-research",
+        "arm-crossing-posture-psychology-research"
+      ]
     },
     {
       "id": "posture",
@@ -48,7 +63,27 @@
         "心地よい距離は、他人なら平均135cm、親しい人なら32cmほど。ただし性別・年齢・不安でも変わります。",
         "好意があるとしぐさは似てきやすい一方、わざと真似をして好かれる効果は再現されないこともありました。"
       ],
-      "slugs": ["body-orientation-feet-direction-interest-research", "personal-space-distance-intimacy-research", "chameleon-effect-mimicry-liking-research"]
+      "slugs": [
+        "body-orientation-feet-direction-interest-research",
+        "personal-space-distance-intimacy-research",
+        "chameleon-effect-mimicry-liking-research",
+        "power-pose-confidence-replication-research",
+        "forward-lean-posture-approach-avoidance-research"
+      ]
+    },
+    {
+      "id": "motion",
+      "label": "体の動き",
+      "title": "首や足など、体の動きから本音は読めるのか",
+      "lead": "首をかしげる、貧乏ゆすりをする。体のちょっとした動きについて、研究でわかっていることをまとめました。",
+      "points": [
+        "頭の傾きは顔の見え方を変え、印象を動かします。ただし首をかしげる動作を好意と結びつけた研究は見当たりません。",
+        "貧乏ゆすりなどのそわそわした動作は、退屈や集中切れで増えることが示されています。嘘との差は見られませんでした。"
+      ],
+      "slugs": [
+        "leg-jiggling-fidgeting-anxiety-research",
+        "head-tilt-impression-research"
+      ]
     },
     {
       "id": "voice",
@@ -60,7 +95,13 @@
         "話すテンポや体の動きが自然に重なる「同期」が高いほど、好意が高い傾向が複数の研究で示されています。",
         "相手の好意は読み違えやすいので、しぐさで推測するより、行動を重ねて確かめる方が確実です。"
       ],
-      "slugs": ["voice-pitch-attraction-research", "conversation-synchrony-compatibility-research", "silence-during-dates-liking-research", "love-signals-flirting-research"]
+      "slugs": [
+        "voice-pitch-attraction-research",
+        "conversation-synchrony-compatibility-research",
+        "silence-during-dates-liking-research",
+        "love-signals-flirting-research",
+        "nodding-backchannel-listening-likeability-research"
+      ]
     }
   ]
 }
