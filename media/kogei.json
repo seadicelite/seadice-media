@@ -1,7 +1,8 @@
 {
   "enabled": true,
   "publish": "auto",
-  "slug": "kogei", "siteType": "article",
+  "slug": "kogei",
+  "siteType": "article",
   "name": "工芸",
   "path": "sites/kogei/",
   "url": "https://kogei.seadice.win/",
@@ -14,14 +15,14 @@
   "description": "輪島塗、九谷焼、西陣織、江戸切子。日本の伝統工芸の技術・歴史・後継者問題と、3Dプリンタ・EC・デジタル記録など技術との交差点をレポートするメディア。出典つき。",
   "about": "記事はAIが産地組合・自治体・研究機関・報道機関の公開資料を調べ、内容を確認して作成しています。特定の工房・商品を宣伝したり、価値を断定するものではありません。",
   "theme": {
-    "bg": "#0D0D0B",
-    "card": "#17140F",
-    "accent": "#C1440E",
-    "accent2": "#2E7D6B",
-    "border": "#2B2620",
-    "text": "#EDE7DD",
-    "muted": "#9C9284",
-    "link": "#7FC7B0"
+    "bg": "#0E1A2B",
+    "card": "#15243A",
+    "accent": "#D0532E",
+    "accent2": "#C9A86A",
+    "border": "#2A3B56",
+    "text": "#EFE8DA",
+    "muted": "#A3A9B5",
+    "link": "#E7B9A6"
   },
   "categories": [
     {
@@ -102,5 +103,8 @@
       "数値は出典つき",
       "職人数・生産額・創業年などの数値は、一次資料か報道で確認できたものだけを書いています。"
     ]
-  ]
+  ],
+  "mastheadHtml": "<div class=\"kg-mast\"><div class=\"kg-in\"><h1 class=\"kg-v\">工芸</h1><div class=\"kg-txt\"><p class=\"kg-kick\">Craft meets technology</p><p class=\"kg-tag\">伝統の技と、新しい技術が出会う場所。</p><p class=\"kg-lead\">%LEAD%</p><p class=\"kg-count\"><span>記事</span><b>%POSTS%</b><span>分野</span><b>%CATS%</b></p></div><div class=\"kg-seal\" aria-hidden=\"true\"><span>工</span><span>芸</span></div></div></div>",
+  "extraCss": "body{background:var(--bg)} .nav-logo{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:var(--muted);color:var(--muted)} nav.top a.r,nav a.r{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-weight:700;font-size:16px;color:var(--text);letter-spacing:.3em} .kg-mast{margin:0 0 30px;border:1px solid var(--border);position:relative;overflow:hidden;background:linear-gradient(180deg,rgba(14,26,43,.2),rgba(14,26,43,.95) 75%),var(--bg);} .kg-mast::before{content:\"\";position:absolute;inset:0;background-image:radial-gradient(circle at 50% 100%,transparent 0 10px,rgba(239,232,218,.07) 10px 12px,transparent 12px 17px,rgba(239,232,218,.07) 17px 19px,transparent 19px 24px,rgba(239,232,218,.07) 24px 26px,transparent 26px),radial-gradient(circle at 50% 100%,transparent 0 10px,rgba(239,232,218,.07) 10px 12px,transparent 12px 17px,rgba(239,232,218,.07) 17px 19px,transparent 19px 24px,rgba(239,232,218,.07) 24px 26px,transparent 26px);background-size:52px 26px;background-position:0 0,26px 13px;pointer-events:none} .kg-in{position:relative;display:flex;gap:28px;align-items:flex-start;padding:32px 30px 30px} .kg-v{writing-mode:vertical-rl;font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:clamp(84px,17vw,150px);font-weight:700;line-height:1;letter-spacing:.12em;background:none;-webkit-text-fill-color:var(--text);color:var(--text);border-left:2px solid var(--accent);padding-left:14px} .kg-txt{flex:1;padding-top:6px} .kg-kick{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;font-size:12px;letter-spacing:.34em;text-transform:uppercase;color:var(--accent2)} .kg-tag{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:clamp(20px,3.6vw,28px);font-weight:700;color:var(--text);margin-top:14px;line-height:1.5} .kg-lead{font-size:14.5px;color:var(--muted);margin-top:12px;max-width:520px;line-height:1.9} .kg-count{margin-top:22px;display:flex;align-items:baseline;gap:10px;font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;color:var(--muted);font-size:14px} .kg-count b{font-size:34px;color:var(--text);margin-right:14px} .kg-seal{flex:0 0 auto;width:68px;height:68px;background:var(--accent);color:#FBF3E8;display:grid;grid-template-columns:1fr;place-items:center;font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:22px;font-weight:700;line-height:1;padding:6px 0;border-radius:6px;transform:rotate(4deg);box-shadow:inset 0 0 0 3px rgba(251,243,232,.35);opacity:.92} @media(max-width:640px){.kg-in{padding:24px 18px}.kg-seal{display:none}.kg-v{font-size:84px}} .chips .chip{border-radius:0;border-top:3px solid var(--c);font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} h2.cat,.card .t,.feat h2,.sechead h2,.tile b{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} h2.cat{border-left:none;padding-left:0;gap:12px}h2.cat::after{content:\"\";flex:1;height:1px;background:var(--border)} .card,.feat,.about,.faq details,.empty,.trust div{border-radius:2px}.tag{border-radius:0} .card{background:linear-gradient(180deg,var(--card),#122036)}.card:hover{border-color:var(--accent2)} .trust div{border-top:2px solid var(--accent)}",
+  "articleCss": ":root{--bg:#0E1A2B;--card:#15243A;--border:#2A3B56;--text:#EFE8DA;--muted:#A3A9B5;--accent:#D0532E;--accent2:#C9A86A} body{background:var(--bg)} nav a.r{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-weight:700;color:var(--text);letter-spacing:.3em} h1{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;letter-spacing:.03em;line-height:1.5} article{counter-reset:k}h2.sec{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;counter-increment:k} h2.sec .n{font-size:0;letter-spacing:0}h2.sec .n::before{content:\"其の\" counter(k,cjk-decimal);font-size:13px;letter-spacing:.24em;font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;color:var(--accent)} .summary{border-radius:2px;border:1px solid var(--border);border-top:3px solid var(--accent);background:var(--card)} .summary h2{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;letter-spacing:.2em} .answer{border-left:2px solid var(--accent2);font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} .study,.step,.note,details,.idea,.stat{border-radius:2px} .tag{border-radius:0;font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif}.ai-badge{border-radius:2px} .hero img{border-radius:2px}"
 }
