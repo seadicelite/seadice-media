@@ -183,7 +183,10 @@ def build(slug, preview=None):
         sm.write_text(cur.replace("</urlset>", add2 + "</urlset>"))
     import seo
     n, pages = seo.apply(cfg, posts, images, favicon_tag(name, theme))
-    print(f"built {cfg['path']}index.html ({len(posts)} posts), seo-patched {n} articles, {len(pages)} trust pages, {len(cat_urls)} category hubs")
+    import extras  # まとめページ・用語集・固定ページ・照合済み表示(設定ファイルがあるメディアだけ)
+    xn, xb = extras.apply(cfg, posts, cats, images, types, theme, favicon_tag(name, theme), CSS % theme, card)
+    print(f"built {cfg['path']}index.html ({len(posts)} posts), seo-patched {n} articles, {len(pages)} trust pages, {len(cat_urls)} category hubs"
+          + (f", {xn} extra pages, {xb} verified badges" if xn or xb else ""))
 
 
 def build_category_pages(cfg, posts, cats, images, types, theme, name, url):

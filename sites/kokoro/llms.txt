@@ -19,6 +19,8 @@ AI時代のメンタルヘルスはSEADICE(https://seadice.win/)が運営する�
 - このメディアについて: https://mentalai.seadice.win/about/
 - 出典と検証の方法: https://mentalai.seadice.win/sources/
 - 免責事項: https://mentalai.seadice.win/disclaimer/
+- 悩み別ガイド: https://mentalai.seadice.win/guide/
+- 用語集: https://mentalai.seadice.win/glossary/
 - サイトマップ: https://mentalai.seadice.win/sitemap.xml
 
 ## 記事の書き方の方針

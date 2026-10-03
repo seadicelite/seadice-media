@@ -1,0 +1,140 @@
+{
+ "title": "悩み別ガイド",
+ "lead": "いま一番気になっている悩みから、関係する記事をまとめて読めます。",
+ "items": [
+  {
+   "id": "sleep-rest",
+   "label": "眠れない・休めない",
+   "title": "眠れない・休めないときに読むガイド",
+   "lead": "寝る前のスマホがやめられない、休日も仕事のことを考えてしまう、休むことに罪悪感がある。そんな「休めなさ」について、研究でわかっていることをまとめました。",
+   "points": [
+    "寝る前のスマホを短い時間でもやめると、寝つきが変わったという実験があります。",
+    "休日に仕事から心を離すこと（心理的距離）は、疲れからの回復と関わっていることが研究で示されています。",
+    "眠れない状態が2週間以上続くときは、医療機関や相談窓口に相談できます。"
+   ],
+   "slugs": [
+    "bedtime-phone-sleep",
+    "revenge-bedtime-procrastination",
+    "weekend-work-thoughts",
+    "rest-guilt",
+    "bad-news-scrolling",
+    "walking-mood",
+    "screen-work-breaks"
+   ]
+  },
+  {
+   "id": "work-ai",
+   "label": "仕事とAIが不安",
+   "title": "仕事とAIが不安なときに読むガイド",
+   "lead": "AIに仕事を奪われそう、AIについていけない、AIを使いこなす同僚と比べて焦る。仕事とAIをめぐる不安について、研究でわかっていることをまとめました。",
+   "points": [
+    "AIについていけない焦りは、テクノストレスとして研究されてきました。追いかける範囲を自分で決めることが手がかりになります。",
+    "AIの使い方しだいで、仕事のやりがいの感じ方が変わることを示す研究があります。",
+    "疲れやつらさは、他人と比べるくせや「自分で決められない感じ」とも関わっていたという研究があります。"
+   ],
+   "slugs": [
+    "ai-job-loss-anxiety",
+    "ai-cant-keep-up",
+    "ai-coworker-comparison",
+    "workplace-ai-rollout-stress",
+    "ai-work-motivation",
+    "hiding-ai-use-work",
+    "ai-writing-not-mine",
+    "impostor-feelings",
+    "chat-reply-pressure",
+    "telework-monitoring-stress"
+   ]
+  },
+  {
+   "id": "focus",
+   "label": "集中できない",
+   "title": "集中できない・頭が疲れるときに読むガイド",
+   "lead": "通知が気になる、ながら作業で頭に残らない、本や長い文章が読めなくなった。集中や情報疲れについて、研究でわかっていることをまとめました。",
+   "points": [
+    "通知を1日オフにすると、中断が減って疲れが軽くなった実験があります。スマホを近くに置くことの影響は小さく、研究によって結果が分かれています。",
+    "2つのことを同時にすると、どちらかの質が下がりやすいことがわかっています。",
+    "AIの要約や倍速視聴は時間を節約できる一方、身につく量が少し減ることを示す研究があります。"
+   ],
+   "slugs": [
+    "notifications-focus",
+    "phone-nearby-focus",
+    "multitasking-focus",
+    "short-video-cant-stop",
+    "cant-read-books-anymore",
+    "double-speed-video",
+    "information-overload-tired",
+    "video-meeting-fatigue",
+    "screen-work-breaks",
+    "ai-summary-only-reading",
+    "chatgpt-thinking-ability",
+    "phone-memory-forgetful"
+   ]
+  },
+  {
+   "id": "comparison",
+   "label": "比べて落ち込む",
+   "title": "人やAIと比べて落ち込むときに読むガイド",
+   "lead": "SNSで他人と比べてしまう、AIの作品と比べて自信がなくなる、自分の実力じゃない気がする。比べて落ち込む気持ちについて、研究でわかっていることをまとめました。",
+   "points": [
+    "SNSは、完全にやめるより見る量を減らすだけでも、気持ちが楽になったという実験があります。",
+    "自分を責めるより「自分への思いやり（セルフ・コンパッション）」を向けるほうが、立ち直りやすいことが研究で示されています。",
+    "同じ作品でも「人が作った」と知ると評価が上がるなど、比べ方には思い込みも入っています。"
+   ],
+   "slugs": [
+    "sns-comparison-reduce",
+    "sns-appearance-comparison",
+    "sns-likes-checking",
+    "sns-left-behind",
+    "comparison-self-criticism",
+    "ai-art-drawing-confidence",
+    "ai-coworker-comparison",
+    "ai-disagrees-self-doubt",
+    "impostor-feelings"
+   ]
+  },
+  {
+   "id": "lonely",
+   "label": "ひとりがつらい",
+   "title": "ひとりがつらい・話す相手がいないときに読むガイド",
+   "lead": "在宅勤務で誰とも話さない、昔の友達に連絡しづらい、グループで自分だけ反応がない。孤独やつながりについて、研究でわかっていることをまとめました。",
+   "points": [
+    "やりとりの回数より、気持ちが通うかどうかが孤独と関わっていました。文字より声のほうがつながった感じが強かったという研究もあります。",
+    "連絡や頼みごとをためらう気持ちは強くなりがちですが、相手は思ったより快く受け止めていたという研究があります。",
+    "AIとの会話で孤独がまぎれることもありますが、人とのつながりを残す工夫も大切です。"
+   ],
+   "slugs": [
+    "no-one-to-talk-today",
+    "remote-work-loneliness",
+    "remote-work-no-voice",
+    "old-friend-reach-out",
+    "afraid-to-ask-for-help",
+    "group-chat-left-out",
+    "partner-phone-phubbing",
+    "ai-chat-loneliness"
+   ]
+  },
+  {
+   "id": "ai-distance",
+   "label": "AIとの距離感",
+   "title": "AIとの距離感に迷ったときに読むガイド",
+   "lead": "AIに悩みを相談していいのか、AIの答えをつい信じてしまう、AIに気持ちがあるように感じる。AIとの付き合い方について、研究でわかっていることをまとめました。",
+   "points": [
+    "AIは相談者に同意しやすい傾向があることが研究で示されています。大事な判断は、人や別の情報でも確かめましょう。",
+    "AIの答えを信じすぎてしまう「自動化バイアス」は、専門家にも起きることがわかっています。",
+    "AIへの相談は役に立つ場面もありますが、つらさが強いときは人や専門の窓口に頼ってください。"
+   ],
+   "slugs": [
+    "ai-chatbot-worries",
+    "ai-always-agrees",
+    "trusting-ai-answers",
+    "ai-feels-human",
+    "ai-disagrees-self-doubt",
+    "ai-chat-loneliness",
+    "chatgpt-thinking-ability",
+    "digital-detox-effect",
+    "phone-left-at-home-anxiety",
+    "phantom-phone-vibration"
+   ]
+  }
+ ]
+}

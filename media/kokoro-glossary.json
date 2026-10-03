@@ -1,0 +1,161 @@
+[
+ {
+  "id": "technostress",
+  "term": "テクノストレス",
+  "en": "Technostress",
+  "def": "パソコンやスマホ、AIなどの新しい技術に適応しようとして感じるストレスのこと。変化の速さについていけない焦りや、常につながっている疲れなどを含みます。",
+  "slugs": [
+   "ai-cant-keep-up",
+   "workplace-ai-rollout-stress"
+  ]
+ },
+ {
+  "id": "cognitive-offloading",
+  "term": "認知的オフロード",
+  "en": "Cognitive offloading",
+  "def": "覚えることや考えることを、メモやスマホ、AIなどの外の道具に任せること。便利な一方で、自分で覚えたり考えたりする機会が減ることもあります。",
+  "slugs": [
+   "chatgpt-thinking-ability",
+   "phone-memory-forgetful",
+   "ai-summary-only-reading"
+  ]
+ },
+ {
+  "id": "automation-bias",
+  "term": "自動化バイアス",
+  "en": "Automation bias",
+  "def": "機械やAIが出した答えを、確かめずに信じすぎてしまう傾向のこと。専門家にも起きることが知られています。",
+  "slugs": [
+   "trusting-ai-answers"
+  ]
+ },
+ {
+  "id": "sycophancy",
+  "term": "AIの迎合",
+  "en": "Sycophancy",
+  "def": "AIが、相手の意見や行動に必要以上に同意したり、肯定したりする傾向のこと。相談相手として使うときに注意が必要とされています。",
+  "slugs": [
+   "ai-always-agrees",
+   "ai-chatbot-worries"
+  ]
+ },
+ {
+  "id": "information-overload",
+  "term": "情報過多",
+  "en": "Information overload",
+  "def": "受け取る情報の量が、処理できる量を超えてしまう状態。判断がしにくくなったり、疲れを感じやすくなったりします。",
+  "slugs": [
+   "information-overload-tired",
+   "bad-news-scrolling"
+  ]
+ },
+ {
+  "id": "doomscrolling",
+  "term": "ドゥームスクローリング",
+  "en": "Doomscrolling",
+  "def": "暗いニュースや不安になる情報を、やめられずに見続けてしまうこと。",
+  "slugs": [
+   "bad-news-scrolling"
+  ]
+ },
+ {
+  "id": "nomophobia",
+  "term": "ノモフォビア",
+  "en": "Nomophobia",
+  "def": "スマホが手元にない、使えないときに強い不安を感じること。「ノー・モバイル・フォン・フォビア」を縮めた言葉で、正式な診断名ではありません。",
+  "slugs": [
+   "phone-left-at-home-anxiety"
+  ]
+ },
+ {
+  "id": "phantom-vibration",
+  "term": "ファントム・バイブレーション",
+  "en": "Phantom vibration",
+  "def": "スマホが振動していないのに、振動したように感じること。多くの人が経験する、よくある感覚の錯覚です。",
+  "slugs": [
+   "phantom-phone-vibration"
+  ]
+ },
+ {
+  "id": "phubbing",
+  "term": "ファビング",
+  "en": "Phubbing",
+  "def": "目の前の相手と一緒にいるのに、スマホばかり見てしまうこと。「フォン（電話）」と「スナビング（無視する）」を合わせた言葉です。",
+  "slugs": [
+   "partner-phone-phubbing"
+  ]
+ },
+ {
+  "id": "revenge-bedtime",
+  "term": "リベンジ夜更かし",
+  "en": "Revenge bedtime procrastination",
+  "def": "昼間に自分の時間がなかった反動で、寝る時間を削ってまでスマホや趣味の時間を取ってしまうこと。",
+  "slugs": [
+   "revenge-bedtime-procrastination",
+   "bedtime-phone-sleep"
+  ]
+ },
+ {
+  "id": "social-comparison",
+  "term": "社会的比較",
+  "en": "Social comparison",
+  "def": "自分の能力や見た目、暮らしぶりを、他人と比べて評価すること。自分より上と比べると落ち込みやすくなることがあります。",
+  "slugs": [
+   "sns-comparison-reduce",
+   "sns-appearance-comparison",
+   "ai-coworker-comparison"
+  ]
+ },
+ {
+  "id": "self-compassion",
+  "term": "セルフ・コンパッション",
+  "en": "Self-compassion",
+  "def": "失敗したときやつらいときに、自分を責めるのではなく、友人に接するように思いやりを向けること。",
+  "slugs": [
+   "comparison-self-criticism"
+  ]
+ },
+ {
+  "id": "impostor",
+  "term": "インポスター感情",
+  "en": "Impostor feelings",
+  "def": "成果を出しているのに「自分の実力ではない」「いつか見抜かれる」と感じてしまうこと。病気の名前ではなく、多くの人が感じる気持ちとして研究されています。",
+  "slugs": [
+   "impostor-feelings"
+  ]
+ },
+ {
+  "id": "psychological-detachment",
+  "term": "心理的距離（サイコロジカル・ディタッチメント）",
+  "en": "Psychological detachment",
+  "def": "休みの時間に、仕事のことを考えず、心を仕事から離せている状態のこと。疲れからの回復と関わっていることが研究されています。",
+  "slugs": [
+   "weekend-work-thoughts",
+   "rest-guilt"
+  ]
+ },
+ {
+  "id": "digital-detox",
+  "term": "デジタルデトックス",
+  "en": "Digital detox",
+  "def": "スマホやSNSなどのデジタル機器から、一定の期間離れること。",
+  "slugs": [
+   "digital-detox-effect",
+   "sns-left-behind"
+  ]
+ },
+ {
+  "id": "meta-analysis",
+  "term": "メタ分析",
+  "en": "Meta-analysis",
+  "def": "同じテーマを調べた複数の研究の結果を、統計の方法でまとめて分析すること。1つの研究より、全体としての傾向をつかみやすくなります。",
+  "slugs": []
+ },
+ {
+  "id": "correlation",
+  "term": "相関と因果",
+  "en": "Correlation and causation",
+  "def": "「Aが多い人ほどBも多い」という関係（相関）があっても、AがBの原因（因果）とは限らないこと。ほかの理由が両方に関わっている場合もあります。このメディアでは、相関しか示されていないものは「関連があった」と書いています。",
+  "slugs": []
+ }
+]

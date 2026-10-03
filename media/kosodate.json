@@ -212,5 +212,19 @@
         ]
       ]
     ]
-  }
+  },
+  "extraNav": [
+    {
+      "label": "年齢別ガイド",
+      "path": "/guide/"
+    },
+    {
+      "label": "ルール表（印刷用）",
+      "path": "/rules/"
+    },
+    {
+      "label": "用語集",
+      "path": "/glossary/"
+    }
+  ]
 }

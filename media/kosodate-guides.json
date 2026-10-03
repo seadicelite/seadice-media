@@ -1,0 +1,102 @@
+{
+ "title": "年齢別ガイド",
+ "lead": "子どもの年齢ごとに、AI・スマホ・学び・心の育ちについての記事をまとめました。気になる年齢から読んでください。",
+ "items": [
+  {
+   "id": "age-0-2",
+   "label": "0〜2歳",
+   "title": "0〜2歳の子育てとスマホ・動画：年齢別ガイド",
+   "lead": "0〜2歳は、言葉や心の土台が育つ時期です。動画を見せる時間の目安、AIの声での読み聞かせ、登園しぶりやかんしゃくへの向き合い方など、この時期によくある疑問への答えを研究からまとめました。",
+   "points": [
+    "WHOは、1歳以下には画面を見せないこと、2歳からは1日1時間までを目安にすることを勧めています。",
+    "米国小児科学会は、時間の長さだけでなく、親子で一緒に見ることや、外遊びなどほかの大切な時間を確保することを重視しています。",
+    "登園しぶりやかんしゃくは、多くの子に見られる発達の一部です。年齢とともに変わっていくことが研究でわかっています。"
+   ],
+   "slugs": [
+    "kids-screen-time-hours",
+    "screen-time-language-development-toddler",
+    "toddler-tablet-learning-app-effect",
+    "ai-voice-reading-vs-human",
+    "parent-smartphone-technoference-children",
+    "nursery-separation-anxiety-how-long",
+    "tantrum-coping-children-research",
+    "bedtime-screen-sleep",
+    "father-involvement-child-development"
+   ]
+  },
+  {
+   "id": "age-3-5",
+   "label": "3〜5歳",
+   "title": "3〜5歳の子育てとAI・動画：年齢別ガイド",
+   "lead": "3〜5歳は、動画やAIスピーカーに自分から触れ始め、「もっと見たい」「やめたくない」が増える時期です。動画のやめ方、自分を抑える力の育ち方、AIの理解のしかたなどを研究からまとめました。",
+   "points": [
+    "2〜4歳の画面時間は、WHOの目安で1日1時間まで（少ないほどよい）です。",
+    "動画をやめるときの泣き方は、動画で気持ちを落ち着かせる習慣の多さや、ふだんおもちゃで夢中になって遊べるかどうかと関わっていたという研究があります。",
+    "幼い子ほどAIを人のように感じやすいため、AIスピーカーやAIのおもちゃは大人と一緒に使うのが安心です。"
+   ],
+   "slugs": [
+    "toddler-screen-stop-crying-self-regulation",
+    "youtube-more-please-how-to-say-no",
+    "tablet-vs-tv-self-control",
+    "fast-paced-video-fantasy-executive-function",
+    "ai-voice-assistant-child-trust",
+    "ai-smart-toy-voice-privacy",
+    "ai-age-for-kids",
+    "children-lying-development-age",
+    "inflated-praise-self-esteem",
+    "tantrum-coping-children-research"
+   ]
+  },
+  {
+   "id": "elementary",
+   "label": "小学生",
+   "title": "小学生の子育てとAI・スマホ：年齢別ガイド",
+   "lead": "小学生になると、宿題・ゲーム・初めてのスマホなど、家庭でルールを決める場面が一気に増えます。宿題でのAIの使わせ方、スマホは何歳からか、ゲームとの付き合い方などを研究からまとめました。",
+   "points": [
+    "宿題でのAIは、答えを写すより、ヒントとして使うほうが学びを減らしにくいことが研究で示されています。",
+    "スマホやゲームは、時間だけでなく「寝る前に使わない」「具体的なルールを家族で決める」ことが大切だとわかっています。",
+    "将来の夢や習い事は、この時期に変わるのが普通です。決まっていなくても心配しすぎる必要はありません。"
+   ],
+   "slugs": [
+    "homework-ai-thinking-skills",
+    "ai-book-report-homework-help",
+    "homework-media-multitasking",
+    "smartphone-first-age-ownership-risk",
+    "family-screen-time-rules-research",
+    "gaming-disorder-children-research",
+    "online-gaming-strangers-chat-risk",
+    "screen-time-myopia-eyesight",
+    "ai-tutor-adaptive-learning-effect",
+    "coding-education-future-benefit",
+    "children-quitting-activities-research",
+    "no-career-dream-elementary-school",
+    "sibling-comparison-self-esteem",
+    "school-tablet-app-child-data-privacy"
+   ]
+  },
+  {
+   "id": "teens",
+   "label": "中高生",
+   "title": "中高生の子育てとAI・SNS：年齢別ガイド",
+   "lead": "中高生は、自分のスマホやSNS、受験勉強でのAIなど、親の目が届きにくくなる時期です。反抗期のスマホ制限、会話が減ったときの考え方、ネットいじめやAIチャットのリスクを研究からまとめました。",
+   "points": [
+    "思春期に親との会話が減るのは、よくある発達の変化です。関係が壊れたとは限りません。",
+    "年齢が上がるほど、一方的な制限より、対話を通じた関わりの方が効果的になる可能性が研究で示されています。",
+    "受験勉強でのAIは、答えを任せきりにせず、自分で考えたあとの確認に使うのが基本です。"
+   ],
+   "slugs": [
+    "junior-high-smartphone-rules-rebellion",
+    "adolescent-parent-conversation-decline",
+    "ai-exam-prep-high-school",
+    "social-media-cognitive-performance-decline",
+    "cyberbullying-children-parent-awareness",
+    "ai-chatbot-conversations-children-risk",
+    "ai-companion-loneliness",
+    "location-tracking-app-trust",
+    "big-fish-little-pond-effect-class-rank",
+    "parental-expectations-pressure-children-motivation",
+    "ai-translation-english-learning"
+   ]
+  }
+ ]
+}
