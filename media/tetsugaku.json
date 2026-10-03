@@ -2,7 +2,7 @@
   "enabled": true,
   "publish": "auto",
   "slug": "tetsugaku",
-  "name": "TETSUGAKU",
+  "name": "哲学",
   "path": "sites/tetsugaku/",
   "url": "https://tetsugaku.seadice.win/",
   "concept": "哲学者・概念・学派を、専門用語を経由せず今の生活の言葉で解説する入門百科。「知ってるつもり」を「他人に説明できる」に変える",
