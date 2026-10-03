@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
       - name: Rebuild index pages (daily rotation)
         run: for s in research umbra ledger kogei tetsugaku bohan kosodate kokoro; do python3 media/build.py "$s"; done; python3 media/shinri_pages.py
       - uses: FirebaseExtended/action-hosting-deploy@v0
@@ -19,3 +21,6 @@ jobs:
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_SEADICEWEB }}
           channelId: live
           projectId: seadiceweb
+      - name: Notify IndexNow (Bing etc.) of updated articles
+        if: github.event_name == 'push'
+        run: python3 media/indexnow.py $(git diff --name-only HEAD~1 HEAD) || true

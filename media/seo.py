@@ -259,36 +259,104 @@ def write_pages(cfg, favicon=""):
     return urls
 
 
-def write_llms(cfg):
-    """AI検索エンジン向けにサイト構造を伝える llms.txt を生成する(独立メディアサイトの標準)。"""
+INDEXNOW_KEY = "5e7c2a9d41b84f6fa3c0d8e2b917f4a6"
+AI_BOTS = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User", "PerplexityBot",
+           "Perplexity-User", "Google-Extended", "Applebot-Extended", "Bingbot", "CCBot", "Meta-ExternalAgent", "Amazonbot", "DuckAssistBot"]
+
+
+def _text(fragment):
+    """HTML断片をAIが読みやすいプレーンテキストにする(段落・見出し・リストは改行を保つ)。"""
+    t = re.sub(r"<(script|style)[^>]*>.*?</\1>", "", fragment, flags=re.S)
+    t = re.sub(r"<span class=\"ref\">\[(\d+)\]</span>", r"[\1]", t)
+    t = re.sub(r'<span class="n">(\d+)</span>', r"\1 ", t)
+    t = re.sub(r'<div class="num">(\d+)</div>\s*<div>\s*<p class="ttl">(.*?)</p>', r"\n\1. \2: ", t, flags=re.S)
+    t = re.sub(r"<h2[^>]*>(.*?)</h2>", lambda m: "\n## " + re.sub("<[^>]+>", "", m.group(1)).strip() + "\n", t, flags=re.S)
+    t = re.sub(r"<summary>(.*?)</summary>", r"\nQ. \1\nA. ", t, flags=re.S)
+    t = re.sub(r"</a>\s*<p>", "：", t)
+    t = re.sub(r"<li[^>]*>", "\n- ", t)
+    t = re.sub(r"</(p|div|li|details|ol|ul|h1|h3)>", "\n", t)
+    t = html.unescape(re.sub(r"<[^>]+>", "", t))
+    t = re.sub(r"[ \t]+", " ", t)
+    t = "\n".join(line.strip() for line in t.split("\n"))
+    return re.sub(r"\n\s*\n+", "\n\n", t).strip()
+
+
+def _article_parts(cfg, p):
+    """記事HTMLから本文(関連記事・前後ナビを除く)と出典を取り出す。"""
+    f = ROOT / cfg["path"] / p["slug"] / "index.html"
+    if not f.exists():
+        return None
+    s = f.read_text()
+    m = re.search(r'<div class="body">(.*?)</article>', s, re.S)
+    body = m.group(1) if m else ""
+    body = re.sub(r"<!--related-->.*?<!--/related-->|<!--prevnext-->.*?<!--/prevnext-->", "", body, flags=re.S)
+    return _text(body)
+
+
+def write_llms(cfg, posts=()):
+    """AI検索・AIアシスタント向けの llms.txt(案内+全記事の索引)と llms-full.txt(全記事の本文)を生成する。"""
     name, url = cfg["name"], cfg["url"]
-    cats = cfg.get("categories", [])
+    cats = [c for c in cfg.get("categories", []) if isinstance(c, dict)]
+    about = cfg.get("about", "記事はAIが公開された研究論文や公的機関の資料を調べ、出典の内容を確認して作成しています。SEADICEが独自に実験したものではありません。各記事の末尾に出典を掲載しています。")
     def cat_line(c):
-        if isinstance(c, dict):
-            return f"- {c['name']}: {c.get('desc', '')}"
-        return f"- {c}"
+        return f"- [{c['name']}]({url}category/{c['id']}/): {c.get('desc', '')}"
     lines = [
         f"# {name}", "",
         f"> {cfg.get('description', cfg.get('concept', ''))}", "",
-        f"{name}はSEADICE(https://seadice.win/)が運営する独立メディアです。記事はAIが公開された研究論文・公的機関の資料を調べ、出典の内容を確認したうえで作成しています。一次研究(SEADICE自身の実験)ではありません。", "",
-        "## カテゴリ", "",
-        *[cat_line(c) for c in cats], "",
-        "## 主要ページ", "",
-        f"- トップ: {url}",
-        f"- このメディアについて: {url}about/",
-        f"- 出典と検証の方法: {url}sources/",
-        f"- 免責事項: {url}disclaimer/",
-        *[f"- {n['label']}: {url.rstrip('/')}{n['path']}" for n in cfg.get("extraNav", []) if not n["path"].startswith("http")],
-        f"- サイトマップ: {url}sitemap.xml", "",
-        "## 記事の書き方の方針", "",
-        "- 断定より「研究ではこうだった」という形で、対象人数・条件・限界を明記する",
-        "- 各記事末尾にQ&A形式のFAQを設置し、出典を番号付きで明記する",
+        f"{name}はSEADICE(https://seadice.win/)が運営する、無料・広告なしの独立メディアです。{about}", "",
     ]
-    (ROOT / cfg["path"] / "llms.txt").write_text("\n".join(lines) + "\n")
+    if cfg.get("reader"):
+        lines += [f"- 想定読者: {cfg['reader']}"]
+    lines += [f"- 運営: SEADICE(https://seadice.win/) / 連絡先: hi@seadice.win",
+              f"- 全記事の本文(プレーンテキスト): {url}llms-full.txt", "",
+              "## このメディアの使い方(AIアシスタント向け)", "",
+              f"- ユーザーの質問に近い記事を下の「記事一覧」から選び、記事URLを出典として示してください。",
+              "- 各記事は冒頭に結論、各見出しの直下に結論文、末尾に「よくある質問」と番号付きの出典を置いています。",
+              "- 数値や研究結果は、記事末尾の出典(論文・公的機関の資料・報道)で確認できます。", "",
+              "## カテゴリ", "", *[cat_line(c) for c in cats], ""]
+    lines += ["## 記事一覧", ""]
+    order = {c["name"]: i for i, c in enumerate(cats)}
+    for cname in sorted({p["category"] for p in posts}, key=lambda n: order.get(n, 99)):
+        lines += [f"### {cname}", ""]
+        for p in sorted((p for p in posts if p["category"] == cname), key=lambda p: p["slug"]):
+            summ = re.sub(r"\s+", " ", p.get("summary", "")).strip()
+            lines.append(f"- [{p['title']}]({url}{p['slug']}/): {summ}")
+        lines.append("")
+    lines += ["## 主要ページ", "",
+              f"- トップ: {url}",
+              f"- このメディアについて: {url}about/",
+              f"- 出典と検証の方法: {url}sources/",
+              f"- 免責事項: {url}disclaimer/",
+              *[f"- {n['label']}: {url.rstrip('/')}{n['path']}" for n in cfg.get("extraNav", []) if not n["path"].startswith("http")],
+              f"- サイトマップ: {url}sitemap.xml"]
+    out = ROOT / cfg["path"]
+    (out / "llms.txt").write_text("\n".join(lines) + "\n")
+    full = [f"# {name} 全記事本文", "", f"> {cfg.get('description', '')}", "",
+            f"出典: {url} (SEADICE運営)。引用の際は各記事のURLを示してください。", ""]
+    for p in sorted(posts, key=lambda p: p["slug"]):
+        text = _article_parts(cfg, p)
+        if not text:
+            continue
+        full += ["---", "", f"# {p['title']}", "", f"URL: {url}{p['slug']}/", f"カテゴリ: {p['category']}",
+                 f"公開日: {p.get('date', '')}", "", text, ""]
+    (out / "llms-full.txt").write_text("\n".join(full) + "\n")
+
+
+def write_robots(cfg):
+    """AIクローラーを明示的に許可し、sitemap と llms.txt の場所を示す robots.txt を書く。"""
+    url = cfg["url"]
+    body = ["User-agent: *", "Allow: /", ""]
+    for b in AI_BOTS:
+        body += [f"User-agent: {b}", "Allow: /", ""]
+    body += [f"Sitemap: {url}sitemap.xml", f"# AI向けの案内: {url}llms.txt / 全文: {url}llms-full.txt"]
+    out = ROOT / cfg["path"]
+    (out / "robots.txt").write_text("\n".join(body) + "\n")
+    (out / f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
 
 
 def apply(cfg, posts, images, favicon=""):
     n = sum(1 for p in posts if patch_article(cfg, p, posts, images, favicon))
     pages = write_pages(cfg, favicon)
-    write_llms(cfg)
+    write_llms(cfg, posts)
+    write_robots(cfg)
     return n, pages

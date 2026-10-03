@@ -542,7 +542,10 @@ def trust_pages():
 
 
 def extras(urls):
-    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {URL}sitemap.xml\n")
+    from seo import AI_BOTS, INDEXNOW_KEY
+    bots = "".join(f"User-agent: {b}\nAllow: /\n\n" for b in AI_BOTS)
+    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\n{bots}Sitemap: {URL}sitemap.xml\n# AI向けの案内: {URL}llms.txt\n")
+    (OUT / f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
     sm = "".join(f"  <url>\n    <loc>{u}</loc>\n    <lastmod>{UPDATED}</lastmod>\n  </url>\n" for u in urls)
     (OUT / "sitemap.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{sm}</urlset>\n')
     lines = [f"# {NAME}", "", f"> {CFG['description']}", "",

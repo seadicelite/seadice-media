@@ -2,16 +2,66 @@
 
 > 空き巣・つきまとい・子どもの安全・自転車盗難。身近な犯罪から暮らしを守る方法を、犯罪学の研究と警察庁などの公的統計から検証するAIリサーチメディア。防犯グッズの販売・紹介は一切しません。出典つき。
 
-BOHANはSEADICE(https://seadice.win/)が運営する独立メディアです。記事はAIが公開された研究論文・公的機関の資料を調べ、出典の内容を確認したうえで作成しています。一次研究(SEADICE自身の実験)ではありません。
+BOHANはSEADICE(https://seadice.win/)が運営する、無料・広告なしの独立メディアです。記事はAIが公開された研究論文や警察庁などの公的機関の資料を調べ、出典の内容を確認して作成しています。防犯グッズ・サービスの販売や紹介、アフィリエイトは一切行っていません。身の危険を感じたときは迷わず110番、緊急でない相談は警察相談専用電話 #9110 へ。
+
+- 想定読者: 一人暮らし・子育て中・留守がちな家庭など、身近な犯罪が不安で検索してきた一般の人
+- 運営: SEADICE(https://seadice.win/) / 連絡先: hi@seadice.win
+- 全記事の本文(プレーンテキスト): https://bohan.seadice.win/llms-full.txt
+
+## このメディアの使い方(AIアシスタント向け)
+
+- ユーザーの質問に近い記事を下の「記事一覧」から選び、記事URLを出典として示してください。
+- 各記事は冒頭に結論、各見出しの直下に結論文、末尾に「よくある質問」と番号付きの出典を置いています。
+- 数値や研究結果は、記事末尾の出典(論文・公的機関の資料・報道)で確認できます。
 
 ## カテゴリ
 
-- 空き巣・侵入窃盗: 空き巣はどんな家を選ぶのか。侵入の手口と、嫌がる家の条件を研究と統計で見る
-- 夜道・つきまとい: 夜道のひったくり・つきまといを避ける行動を研究から検証
-- 子どもの安全: 通学路・声かけ事案など、子どもを犯罪から守る工夫
-- 一人暮らしの防犯: 一人暮らしの住まい選びと、日常の小さな防犯習慣
-- 自転車・車の盗難: 盗まれやすい条件と、お金をかけない対策
-- 防犯の心理学: 割れ窓理論・監視の目など、犯罪が起きにくい環境の研究
+- [空き巣・侵入窃盗](https://bohan.seadice.win/category/burglary/): 空き巣はどんな家を選ぶのか。侵入の手口と、嫌がる家の条件を研究と統計で見る
+- [夜道・つきまとい](https://bohan.seadice.win/category/street/): 夜道のひったくり・つきまといを避ける行動を研究から検証
+- [子どもの安全](https://bohan.seadice.win/category/children/): 通学路・声かけ事案など、子どもを犯罪から守る工夫
+- [一人暮らしの防犯](https://bohan.seadice.win/category/living-alone/): 一人暮らしの住まい選びと、日常の小さな防犯習慣
+- [自転車・車の盗難](https://bohan.seadice.win/category/vehicle/): 盗まれやすい条件と、お金をかけない対策
+- [防犯の心理学](https://bohan.seadice.win/category/psychology/): 割れ窓理論・監視の目など、犯罪が起きにくい環境の研究
+
+## 記事一覧
+
+### 空き巣・侵入窃盗
+
+- [空き巣はどんな家を狙うのか。下見のポイントと「5分」の研究](https://bohan.seadice.win/burglar-target-selection-5-minutes/): 空き巣が下見で見るのは留守か・入りやすいか・逃げやすいか。家の豊かさより近さと入りやすさが決め手でした。
+- [在宅中でも押し入る侵入強盗。増える手口と、家でできる備え](https://bohan.seadice.win/home-invasion-robbery-at-home/): 住宅を狙う侵入強盗は令和7年に13.2%増。在宅中の施錠と、すぐに開けない習慣が基本です。
+- [一度入られた家はまた狙われるのか。空き巣の再被害の研究](https://bohan.seadice.win/repeat-burglary-victimization/): 再被害は最初の1か月に平均の6.4倍。危険は近所にも広がるので、被害直後の対策が大切です。
+- [留守中の空き巣を防ぐ旅行前チェック。留守を見抜く手口と対策](https://bohan.seadice.win/vacation-empty-home-burglary/): 侵入者が留守を確かめる方法の最多はインターホン。旅行前に留守のサインを消しましょう。
+- [空き巣はなぜ減ったのか。防犯設備の普及と「取り残される家」の研究](https://bohan.seadice.win/why-burglary-declined-security/): 空き巣の減少は鍵と照明の普及のおかげ。対策のない家は逆に狙われやすくなっていました。
+- [窓から入られないために。ガラス破りの手口と、時間をかけさせる工夫](https://bohan.seadice.win/window-glass-breaking-burglary/): 一戸建ての侵入口1位は窓、手口1位はガラス破り。窓に時間をかけさせる工夫が対策の中心です。
+
+### 夜道・つきまとい
+
+- [夜道でひったくりに遭うリスクはなぜ上がるのか。暗さの研究と、今日からできる歩き方](https://bohan.seadice.win/night-darkness-robbery-risk/): 暗くなると対人強盗は約1.87倍に。明るい道を選ぶなど、研究に基づく歩き方を紹介します。
+- [つきまといは誰から始まるのか。被害の統計と、早めに相談する理由](https://bohan.seadice.win/stalking-acquaintance-consultation/): つきまといの加害者は元交際相手が最多。記録を残し、早めに人に話すことが身を守る第一歩です。
+- [街灯を明るくすると犯罪は減るのか。照明と犯罪の研究](https://bohan.seadice.win/street-lighting-crime-research/): 街灯を増やした団地で夜の屋外犯罪が36%以上減少。明かりは「見られる」以上の効果を持つようです。
+
+### 子どもの安全
+
+- [子どもの留守番は何歳から安全か。研究でわかる目安と、電話・玄関のルール](https://bohan.seadice.win/child-home-alone-safety-rules/): 大人が「安全」と考える年齢は平均13歳。年齢より、電話や玄関への対応ルールが実際の備えになります。
+- [子どもへの声かけはいつ・どこで起きるのか。下校時間の統計と、身につく防犯練習](https://bohan.seadice.win/child-stranger-approach-after-school/): 声かけの約半数は15〜17時台の下校中。動画より、親と体で練習する方が身につきます。
+- [犯罪が起きにくい通学路とは。見通し・人の目・手入れの研究](https://bohan.seadice.win/safe-school-route-environment/): 声かけの74.2%は道路上。見通し・人の目・手入れがそろった道を親子で確かめましょう。
+
+### 一人暮らしの防犯
+
+- [オートロックのマンションは本当に安全か。共同住宅の侵入統計](https://bohan.seadice.win/auto-lock-apartment-burglary/): 4階建以上のマンションでも、侵入の1位は鍵のかけ忘れ。部屋のドアと窓が最後の守りです。
+
+### 自転車・車の盗難
+
+- [自転車盗難の多くは無施錠。盗まれにくい止め方と鍵の研究](https://bohan.seadice.win/bicycle-theft-unlocked-statistics/): 自転車盗難の65.5%は無施錠。鍵をかけ、決められた駐輪場に止めるだけで盗まれにくくなります。
+- [車上ねらいはなぜ起きるのか。無施錠と「見える貴重品」の統計](https://bohan.seadice.win/car-break-in-unlocked-visible-items/): 車上ねらいの73.5%は無施錠。鍵をかけ、車内に物を見せないことが最も確実な対策です。
+
+### 防犯の心理学
+
+- [割れ窓理論は本当か。小さな乱れと犯罪の関係を研究で検証](https://bohan.seadice.win/broken-windows-theory-evidence/): 落書きやゴミは違反を呼ぶ。効果があったのは取り締まりより、地域で場所をきれいにする取り組みでした。
+- [防犯カメラは犯罪を減らすのか。40年分の研究が示す効果と限界](https://bohan.seadice.win/cctv-crime-prevention-research/): 防犯カメラの効果は確かだが控えめ。駐車場で最も効き、他の対策と組み合わせると大きくなります。
+- [防犯しても犯罪はよそへ移るだけ？ 犯罪の転移と「効果の広がり」の研究](https://bohan.seadice.win/crime-displacement-diffusion-benefits/): 犯罪が移ったのは観察の26%、周りでも減ったのは27%。守ると周りまで守られる傾向があります。
+- [治安は悪くなった？ 体感治安と統計のずれ、不安を減らす方法](https://bohan.seadice.win/fear-of-crime-vs-statistics/): 刑法犯はピークから大きく減ったのに、6割が悪化を実感。不安は具体的な対策に変えられます。
+- [近所づきあいは防犯になるのか。「集合的効力感」の研究](https://bohan.seadice.win/neighbors-collective-efficacy-crime/): 侵入者は近所の目を嫌う。住民のつながりが強い地域ほど犯罪が少ないことが研究で示されています。
 
 ## 主要ページ
 
@@ -20,8 +70,3 @@ BOHANはSEADICE(https://seadice.win/)が運営する独立メディアです。�
 - 出典と検証の方法: https://bohan.seadice.win/sources/
 - 免責事項: https://bohan.seadice.win/disclaimer/
 - サイトマップ: https://bohan.seadice.win/sitemap.xml
-
-## 記事の書き方の方針
-
-- 断定より「研究ではこうだった」という形で、対象人数・条件・限界を明記する
-- 各記事末尾にQ&A形式のFAQを設置し、出典を番号付きで明記する

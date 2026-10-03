@@ -2,16 +2,99 @@
 
 > 子どもにAIは何歳から？宿題に使わせていい？スマホは何時間まで？AI時代の子育ての疑問に、研究論文と公的機関のデータ・指針から結論を先に答えるメディア。商品の紹介はしません。出典つき。
 
-子育てデータはSEADICE(https://seadice.win/)が運営する独立メディアです。記事はAIが公開された研究論文・公的機関の資料を調べ、出典の内容を確認したうえで作成しています。一次研究(SEADICE自身の実験)ではありません。
+子育てデータはSEADICE(https://seadice.win/)が運営する、無料・広告なしの独立メディアです。記事はAIが公開された研究論文や、WHO・米国小児科学会・文部科学省など公的機関のデータと指針を調べ、出典の内容を確認して作成しています。SEADICEが独自に実験や調査をしたものではありません。商品・教材・サービスの紹介はしていません。
+
+- 想定読者: AIやスマホが当たり前になった時代に、子どもとの付き合わせ方や育て方に迷い、根拠のある答えを検索してきた0〜18歳の子どもを持つ親
+- 運営: SEADICE(https://seadice.win/) / 連絡先: hi@seadice.win
+- 全記事の本文(プレーンテキスト): https://kosodate.seadice.win/llms-full.txt
+
+## このメディアの使い方(AIアシスタント向け)
+
+- ユーザーの質問に近い記事を下の「記事一覧」から選び、記事URLを出典として示してください。
+- 各記事は冒頭に結論、各見出しの直下に結論文、末尾に「よくある質問」と番号付きの出典を置いています。
+- 数値や研究結果は、記事末尾の出典(論文・公的機関の資料・報道)で確認できます。
 
 ## カテゴリ
 
-- AIの使わせ方: 何歳から、何に、どのルールで。子どもとAIの付き合わせ方を研究と公的指針から考える
-- 考える力・学び: AIに頼ると考える力は落ちるのか。学び方と思考力の研究
-- スマホ・スクリーンタイム: スマホ・動画・ゲームの時間と、睡眠・発達・学力の関係をデータで見る
-- 心と親子関係: AIの話し相手、自己肯定感、親子の会話。心の育ちに関する研究
-- AI時代の進路・将来: なくならない仕事、伸ばしたい力、習い事。将来に向けた選択を根拠から考える
-- 安全・プライバシー: 子どもの写真・個人情報・ディープフェイク。ネットとAIの危険から守る工夫
+- [AIの使わせ方](https://kosodate.seadice.win/category/ai-use/): 何歳から、何に、どのルールで。子どもとAIの付き合わせ方を研究と公的指針から考える
+- [考える力・学び](https://kosodate.seadice.win/category/learning/): AIに頼ると考える力は落ちるのか。学び方と思考力の研究
+- [スマホ・スクリーンタイム](https://kosodate.seadice.win/category/screen/): スマホ・動画・ゲームの時間と、睡眠・発達・学力の関係をデータで見る
+- [心と親子関係](https://kosodate.seadice.win/category/heart/): AIの話し相手、自己肯定感、親子の会話。心の育ちに関する研究
+- [AI時代の進路・将来](https://kosodate.seadice.win/category/future/): なくならない仕事、伸ばしたい力、習い事。将来に向けた選択を根拠から考える
+- [安全・プライバシー](https://kosodate.seadice.win/category/safety/): 子どもの写真・個人情報・ディープフェイク。ネットとAIの危険から守る工夫
+
+## 記事一覧
+
+### AIの使わせ方
+
+- [子どもにAIは何歳から？研究と公的ガイドラインで整理](https://kosodate.seadice.win/ai-age-for-kids/): ユネスコの目安は13歳から。それより前は親と一緒に使うのが研究から見た安心な形です。
+- [AIに読書感想文・自由研究を手伝わせるのはずるい？文科省の方針と家庭でのルール](https://kosodate.seadice.win/ai-book-report-homework-help/): AIの生成物をそのまま提出するのは文科省の指針で不適切とされますが、一部活用まで禁止はしていません。
+- [高校生の受験勉強、AIをどこまで使っていい？答えを聞くかヒントにするかの差](https://kosodate.seadice.win/ai-exam-prep-high-school/): 約1,000人の高校生実験で、AIの使い方次第で学力への影響が真逆になることがわかりました。
+- [AIの個別学習・AIチューターで本当に成績は上がる？](https://kosodate.seadice.win/ai-tutor-adaptive-learning-effect/): K-12の28研究のメタ分析では効果はおおむね前向きでしたが、AIの種類によって効果の大きさは異なっていました。
+- [幼い子がAIスピーカーに話しかけている。子どもはAIをどう理解している？](https://kosodate.seadice.win/ai-voice-assistant-child-trust/): 子どもはAIが生きていないと理解する一方、先生や友達よりAIを信じやすい傾向もあると研究でわかりました。
+- [子どものAI利用、家庭でどう関わるとうまくいく？](https://kosodate.seadice.win/generative-ai-family-involvement/): 親自身のAIへの理解と信頼が、家庭でAIを取り入れる意向と関連していた調査があります。
+
+### 考える力・学び
+
+- [AIに答えを聞くと、覚える力はどう変わる？記憶の研究から](https://kosodate.seadice.win/ai-answers-memory-retention/): 「あとで確認できる」と思うだけで、自分の頭で覚えようとする働きが弱まる実験結果があります。
+- [AI翻訳があれば英語学習はもう不要？](https://kosodate.seadice.win/ai-translation-english-learning/): AI翻訳と語学学習の関係はまだ研究が少なく、バイリンガルの思考力への効果も意見が分かれています。
+- [絵本の読み聞かせ、AIの声でも人と同じ効果がある？](https://kosodate.seadice.win/ai-voice-reading-vs-human/): 問いかけ機能のあるAI・電子絵本の読み聞かせは、理解や言葉の学びで人の読み聞かせに近い効果を示す研究があります。
+- [プログラミング教育は将来の役に立つ？](https://kosodate.seadice.win/coding-education-future-benefit/): プログラミング自体の力や一部の思考力は伸びますが、学校の成績や将来役立つかの直接的な証拠はまだ限られています。
+- [テンポの速い動画を見ると、子どもの集中力は落ちる？](https://kosodate.seadice.win/fast-paced-video-fantasy-executive-function/): 動画の再生テンポより、現実にありえない内容(ファンタジー)を見た直後の方が、実行機能のテスト成績が下がる関連がありました。
+- [宿題にAIを使わせると考える力は落ちる？研究でわかった使い方の分かれ道](https://kosodate.seadice.win/homework-ai-thinking-skills/): 答えを写す使い方は成績が下がり、ヒントとして使うと下がりにくい。分かれ道は使い方です。
+- [宿題中に動画やスマホを見る「ながら勉強」、学力への影響は？研究で確認](https://kosodate.seadice.win/homework-media-multitasking/): 宿題をしながら動画やスマホを見る「ながら勉強」。学力への影響を研究データから確認し、家庭でできる工夫を紹介します。
+- [SNSの時間が増えると、読み書きや記憶力はどう変わる？数年間追跡した調査でわかったこと](https://kosodate.seadice.win/social-media-cognitive-performance-decline/): 9〜10歳の子を2年間追跡した調査で、SNSを使う時間が増えた子ほどテストの点数が低い関連がありました。
+- [発達が気になる子に、タブレットは学びの助けになる？](https://kosodate.seadice.win/tablet-developmental-disability-learning-support/): 言葉の理解などに良い効果が報告される一方、エビデンスはまだ限定的と研究でわかりました。
+- [タブレットとテレビ、自分を抑える力への影響は同じ？受け身の視聴との違い](https://kosodate.seadice.win/tablet-vs-tv-self-control/): 画面の種類より、受け身か自分で操作するかの違いが関係している可能性があると研究でわかりました。
+- [幼児のタブレット学習アプリに効果はある？](https://kosodate.seadice.win/toddler-tablet-learning-app-effect/): 2〜3歳は「見るだけ」の方がテストの成績が良く、5〜6歳は10分の練習でテストの点が上がった研究があります。
+
+### スマホ・スクリーンタイム
+
+- [寝る前のスマホ・動画は子どもの睡眠にどう影響する？](https://kosodate.seadice.win/bedtime-screen-sleep/): 就寝前のスクリーン利用は睡眠時間を縮め、寝つきを遅らせる関連が複数の研究で確認されています。
+- [子どものスマホルールの作り方。研究でわかっている効果的な決め方](https://kosodate.seadice.win/family-screen-time-rules-research/): 具体的なルールを決めて守らせる関わりが多い家庭は、1年後に推奨時間（1日1時間以内）を守れる見込み（オッズ）が約4倍高くなっていました。
+- [子どものゲームがやめられない。「ゲーム障害」とはどんな状態？](https://kosodate.seadice.win/gaming-disorder-children-research/): 障害と呼べるのはごく一部で、プレイ時間の長さではなく生活への支障が12か月続くかが目安です。
+- [中学生の反抗期、スマホ制限にどう向き合う？一方的なルールが逆効果になりやすい理由](https://kosodate.seadice.win/junior-high-smartphone-rules-rebellion/): 年齢が上がるほど一方的な制限が逆効果になりやすいと、複数の研究でわかってきました。
+- [子どものスマホ・動画は何時間まで？年齢別の目安をWHOと研究で整理](https://kosodate.seadice.win/kids-screen-time-hours/): 2〜4歳は1日1時間まで、1歳以下はなし（WHO）。小学生以上は寝る前に使わないことが大切です。
+- [長時間のスクリーンタイムはADHD症状と関係ある？](https://kosodate.seadice.win/screen-time-adhd-symptoms-risk/): 台湾24,200組・中国41,494人の大規模調査で関連がみられ、原因と結果の向きはまだわかっていません。
+- [乳幼児のスマホ・動画の時間、言葉の発達に影響する？](https://kosodate.seadice.win/screen-time-language-development-toddler/): スクリーン時間全体は言語スキルの低さと関連していましたが、教育的な内容や親子で一緒に見ることは逆の関連を示しました。
+- [子どものスマホ・動画の時間と近視の関係。目を守るためにできること](https://kosodate.seadice.win/screen-time-myopia-eyesight/): 近くで見る時間が長い子は近視のオッズが高く、1日1〜2時間以上の屋外活動が近視を防ぐ方向に働くと研究でわかっています。
+- [子どものスマホ、自分の1台は何歳から？研究でわかったリスク](https://kosodate.seadice.win/smartphone-first-age-ownership-risk/): 12歳でスマホを持っていた子は、抑うつ・肥満・睡眠不足・過食症状などとの関連が複数の大規模研究で示されています。
+- [3歳の子が動画を見ないと泣く。自分で止める力はいつ育つ？](https://kosodate.seadice.win/toddler-screen-stop-crying-self-regulation/): 動画で気持ちを落ち着かせる頻度が多い家庭ほど、やめさせたときに感情が激しくなりやすい関連があります。
+- [子どもの「YouTubeをもっと見たい」を上手に断るには？研究でわかった声かけ](https://kosodate.seadice.win/youtube-more-please-how-to-say-no/): 気持ちを一度認めてから終わりを伝える声かけのほうが、対立を減らしやすいと研究でわかっています。
+
+### 心と親子関係
+
+- [思春期に入って子どもと会話が減った。心配しなくていい理由を研究で見る](https://kosodate.seadice.win/adolescent-parent-conversation-decline/): 思春期の会話減少や対立の増加は複数の縦断研究で確認されていますが、一時的な変動が大きく関わり方次第で支えられます。
+- [子どもがAIを友達みたいに話し相手にしている。依存や孤独は心配ない？](https://kosodate.seadice.win/ai-companion-loneliness/): 子ども対象の研究はまだ少なく、孤独が和らぐ報告も深まる懸念も両方あるのが実情です。
+- [子どもが嘘をつくようになった。何歳からどんな嘘をつく？](https://kosodate.seadice.win/children-lying-development-age/): 子どもが嘘をつき始めると、発達に問題があるのではと心配になる親もいます。研究データで紹介します。
+- [父親の育児参加は子どもの発達にどう影響する？](https://kosodate.seadice.win/father-involvement-child-development/): 父親の育児参加は子どもの社会性の発達やけがの予防と関連。研究でわかっていることを紹介します。
+- [人一倍敏感な子（HSC）・繊細な子への接し方。気質の研究から考える](https://kosodate.seadice.win/highly-sensitive-child-parenting-research/): 音や人混みに疲れやすい敏感な子への接し方。関わり方で変わる影響について研究データで紹介します。
+- [子どもを褒めすぎると自己肯定感が下がる？研究でわかった褒め方の分かれ道](https://kosodate.seadice.win/inflated-praise-self-esteem/): 自己肯定感が低い子ほど大げさな褒め言葉を受けやすく、それが挑戦を避ける方向に働くとわかっています。
+- [保育園の登園しぶり・分離不安はいつまで続く？](https://kosodate.seadice.win/nursery-separation-anxiety-how-long/): 毎朝泣いて離れない登園しぶりはいつまで続くのか、研究でわかっている経過の目安と家庭でできることを紹介します。
+- [親のスマホ使用は子どもに影響する？「テクノフェアレンス」とは](https://kosodate.seadice.win/parent-smartphone-technoference-children/): 親が気を取られて関わりが減る「テクノフェアレンス」と子どもの問題行動には小さな関連が。使用量自体との関連は一定していません。
+- [きょうだいを比較すると自己肯定感は下がる？](https://kosodate.seadice.win/sibling-comparison-self-esteem/): きょうだいへの差をつけた関わりは、問題行動やきょうだい関係の悪化と関連し、自己肯定感がやや低い傾向とも関連していました。
+- [下の子ばかり構ってしまう。きょうだいへの接し方の違いは子どもの心に影響する？](https://kosodate.seadice.win/sibling-differential-treatment-fairness/): 接し方の差そのものより、子どもが不公平だと強く感じるかどうかが影響すると大規模メタ分析などで示されています。
+- [子どもの癇癪（かんしゃく）への対応。年齢による変化と関わり方のコツ](https://kosodate.seadice.win/tantrum-coping-children-research/): スーパーで寝転がって泣き叫ぶ子どもの癇癪はいつまで続く？頻度・持続時間の研究と、家庭でできる関わり方を紹介します。
+
+### AI時代の進路・将来
+
+- [飛び級・ギフテッド教育は子どもにとって心配な選択？35年の追跡研究から](https://kosodate.seadice.win/academic-acceleration-gifted-children-wellbeing/): 飛び級やギフテッド教育は心配な選択か迷う親もいます。先取り学習と心の健康の関連を研究データで紹介します。
+- [中学受験でクラスの順位が気になる。「井の中の蛙効果」とは？](https://kosodate.seadice.win/big-fish-little-pond-effect-class-rank/): 周囲の学力が高いほど自己概念は下がりやすいとメタ分析で示されていますが、社会性の悪化までは言い切れません。
+- [習い事をすぐ辞める。続けないと将来の役に立たない？](https://kosodate.seadice.win/children-quitting-activities-research/): 習い事やスポーツをすぐ辞める子に将来困るか不安な親へ。継続と将来の関連を研究データで紹介します。
+- [AI時代に伸ばしたい「創造力」は鍛えられる？偏りを除くと効果は小さめだった](https://kosodate.seadice.win/creativity-training-ai-era/): 創造性トレーニングの効果は、発表バイアスを調整すると小さくなりました。生成AIは個人の評価を上げる一方、作品を似通わせます。
+- [子どもに将来の夢がない。小学生で「なりたい職業」が決まっていなくても心配いらない理由](https://kosodate.seadice.win/no-career-dream-elementary-school/): 小学生の将来の夢は数年で大きく変わりやすく、2年の間に約6割が夢を少なくとも1つ変えていたという追跡調査があります。
+- [AI時代に伸ばしたい子どもの力は何？研究でわかった「非認知能力」の中身](https://kosodate.seadice.win/non-cognitive-skills-kids/): 最も確かな根拠があるのは自己制御。やり抜く力や成長マインドセットの教材効果は小さめでした。
+- [子どもに期待をかけすぎると逆効果？将来への意欲とプレッシャーの研究](https://kosodate.seadice.win/parental-expectations-pressure-children-motivation/): 親の期待を感じ取ることは子どもの意欲と関連する一方、先回りした関わりは学業の燃え尽きと関連していました。
+
+### 安全・プライバシー
+
+- [子どもがAIチャットで何を話しているか知っていますか？研究でわかった使われ方とリスク](https://kosodate.seadice.win/ai-chatbot-conversations-children-risk/): 子どものAIチャット利用は宿題中心ですが、年齢が低いほど暴力的・性的な内容も一定割合あるとわかりました。
+- [AI搭載の知育おもちゃ・スピーカーが子どもの声を録音している。プライバシーのリスクは？](https://kosodate.seadice.win/ai-smart-toy-voice-privacy/): 調査したスマートトイ11製品すべてが個人情報を収集しており、9製品は第三者とデータを共有していました。
+- [子どものサイバーいじめ、親はどう気づく？サインと家庭でできる対策](https://kosodate.seadice.win/cyberbullying-children-parent-awareness/): SNSやゲームのチャットでのトラブルは親から見えにくいもの。気づく手がかりと家庭でできる対策を研究データで紹介します。
+- [子どもの見守りアプリ、位置情報の共有で信頼関係は壊れる？](https://kosodate.seadice.win/location-tracking-app-trust/): 米国などの調査では3〜7割の家庭が利用。信頼している相手との限定的な共有は受け入れられやすいとわかっています。
+- [子どもがオンラインゲームで知らない人とチャットしている。危険性と対策は？](https://kosodate.seadice.win/online-gaming-strangers-chat-risk/): オンラインゲームのチャットで子どもが知らない人とやり取り。危険性と対策を研究データで紹介します。
+- [学校のタブレット・教育アプリ、子どもの個人情報は守られている？](https://kosodate.seadice.win/school-tablet-app-child-data-privacy/): 学校のタブレットや教育アプリは子どもの個人情報を守れている？研究データと海外の事例から考えます。
+- [子どもの写真をSNSに載せるリスクは？「シェアレンティング」の注意点](https://kosodate.seadice.win/sharenting-sns-photo-risk/): 調査に答えた親の7割以上がプライバシー侵害になりうると感じている一方、子ども本人の同意を十分に取れていない現状があります。
 
 ## 主要ページ
 
@@ -23,8 +106,3 @@
 - ルール表（印刷用）: https://kosodate.seadice.win/rules/
 - 用語集: https://kosodate.seadice.win/glossary/
 - サイトマップ: https://kosodate.seadice.win/sitemap.xml
-
-## 記事の書き方の方針
-
-- 断定より「研究ではこうだった」という形で、対象人数・条件・限界を明記する
-- 各記事末尾にQ&A形式のFAQを設置し、出典を番号付きで明記する
