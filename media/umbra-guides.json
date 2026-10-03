@@ -1,0 +1,66 @@
+{
+  "title": "仕草から引く",
+  "lead": "目、表情、手、姿勢、声。気になった仕草から、関係する記事をまとめて読めます。どの仕草も、1つだけで本音は決まりません。読めることと、当てにならないことを分けて整理しました。",
+  "items": [
+    {
+      "id": "eyes",
+      "label": "目・視線",
+      "title": "目・視線から本音は読めるのか",
+      "lead": "よく目が合う、目をそらす、瞳が大きく見える。視線と瞳について、研究でわかっていることをまとめました。",
+      "points": [
+        "関心を持つと瞳孔は広がりますが、明るさや緊張でも変わるため、会話中に見て好意を判定することはできません。",
+        "「よく目が合った」という自分の記憶は当てになりにくいことが、実験で示されています。",
+        "視線や仕草から嘘を見抜ける確率は、206の研究をまとめると平均で約54%でした。"
+      ],
+      "slugs": ["eye-contact-gaze-attraction-research", "pupil-dilation-attraction-research", "body-language-lie-detection-accuracy"]
+    },
+    {
+      "id": "face",
+      "label": "表情・笑顔",
+      "title": "表情・笑顔から本音は読めるのか",
+      "lead": "作り笑いかどうか、一瞬だけ出た表情、第一印象。顔から読み取れることと、その限界をまとめました。",
+      "points": [
+        "作り笑いと本物の笑顔を見た目だけで見分けた実験では、正解率は五分五分に近い結果でした。",
+        "一瞬だけ出る「微表情」は表情全体の2%ほどで、訓練しても嘘を見抜く精度は上がりませんでした。",
+        "数秒の映像で当たりやすい性格特性がある一方、顔から感じる信頼感は実際の信頼性とずれることがあります。"
+      ],
+      "slugs": ["fake-smile-duchenne-detection-research", "microexpression-true-feelings-research", "appearance-first-impression-accuracy-research"]
+    },
+    {
+      "id": "hands",
+      "label": "手・触れる",
+      "title": "手の動き・触れ方から本音は読めるのか",
+      "lead": "髪や顔を触る、腕を組む、さりげなく触れてくる。手の動きについて、研究でわかっていることをまとめました。",
+      "points": [
+        "人は1時間に平均23回ほど顔に触れます。緊張や負荷で増えますが、嘘や好意の証拠にはなりません。",
+        "触れてよい体の範囲は親しさに比例しますが、触れる量は性格や文化で変わり、恋愛感情の証拠にはなりません。",
+        "腕組みは「拒絶」とは限らず、粘り強さを高める効果を示した研究もあります。"
+      ],
+      "slugs": ["self-touch-face-hair-nervousness-research", "touch-affection-signal-research", "arm-crossing-posture-psychology-research"]
+    },
+    {
+      "id": "posture",
+      "label": "姿勢・距離・体の向き",
+      "title": "姿勢・距離・体の向きから本音は読めるのか",
+      "lead": "体がこちらを向いている、近くに座る、しぐさが似てくる。体全体の動きについて、研究でわかっていることをまとめました。",
+      "points": [
+        "体や足先の向きは、注意がどこに向いているかの手がかりにはなりますが、好意との関連は弱いとされています。",
+        "心地よい距離は、他人なら平均135cm、親しい人なら32cmほど。ただし性別・年齢・不安でも変わります。",
+        "好意があるとしぐさは似てきやすい一方、わざと真似をして好かれる効果は再現されないこともありました。"
+      ],
+      "slugs": ["body-orientation-feet-direction-interest-research", "personal-space-distance-intimacy-research", "chameleon-effect-mimicry-liking-research"]
+    },
+    {
+      "id": "voice",
+      "label": "声・会話",
+      "title": "声・会話のテンポから本音は読めるのか",
+      "lead": "声の高さが変わる、会話のテンポが合う、沈黙が続く。声と会話について、研究でわかっていることをまとめました。",
+      "points": [
+        "気になる相手と話すと声の高さは変わりやすいものの、高くなるか低くなるかは研究や状況で違います。",
+        "話すテンポや体の動きが自然に重なる「同期」が高いほど、好意が高い傾向が複数の研究で示されています。",
+        "相手の好意は読み違えやすいので、仕草で推測するより、行動を重ねて確かめる方が確実です。"
+      ],
+      "slugs": ["voice-pitch-attraction-research", "conversation-synchrony-compatibility-research", "silence-during-dates-liking-research", "love-signals-flirting-research"]
+    }
+  ]
+}
