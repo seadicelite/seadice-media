@@ -1433,7 +1433,43 @@
     "en": "Money Scripts",
     "field": "お金の心理学（行動経済学）",
     "def": "マネースクリプトとは、子どもの頃の経験などから身につく、お金についての無意識の思い込みのことです。Klontzらが研究しています。",
-    "slug": "money-values-family-differences-research"
+    "slug": "money-values-family-differences-research",
+    "date": "2026-10-03",
+    "detail": [
+      "心理学者のブラッド・クロンツ(Brad Klontz)らは2011年の論文で、人がお金について抱く無意識の思い込みを「マネースクリプト」と呼び、Klontz Money Script Inventoryという質問紙で測定しました。この思い込みは、子どもの頃の家庭環境や経験の中で、本人が意識しないまま形成されると考えられています。",
+      "2020年にFrontiers in Psychologyに掲載された研究では、クロンツらの枠組みにもとづき、マネースクリプトは「お金を避ける」「お金を崇拝する」「お金で地位を示す」「お金を警戒する」という4つの傾向に分けられるとされています。たとえば「お金を崇拝する」傾向が強い人は、お金さえあれば多くの問題が解決すると考えやすいとされます。",
+      "2024年にBehavioral Sciencesに掲載された研究でも、マネースクリプトは子どもの頃から無意識のうちに形成される思い込みとして説明され、慎重・浪費・回避・ため込みといった傾向に分けて、金銭管理の行動を調べる手がかりとして使われています。",
+      "一方で、マネースクリプトは自己報告式の質問紙で測定するため、本人が気づいていない思い込みをどこまで正確に捉えられているかという限界も指摘されています。"
+    ],
+    "example": "節約を重視する家庭で育った人が、十分な収入があっても「お金を使うのは悪いこと」と感じてしまうのは、マネースクリプトの一例として説明されることがあります。",
+    "faq": [
+      {
+        "q": "マネースクリプトとは何ですか？",
+        "a": "マネースクリプトとは、子どもの頃の経験などから身につく、お金についての無意識の思い込みのことです。心理学者のクロンツらが研究しています。"
+      },
+      {
+        "q": "マネースクリプトは生まれつき決まっているのですか？",
+        "a": "研究では、子どもの頃の家庭環境や経験を通じて無意識のうちに形成されると考えられています。生まれつきではなく、経験によって身につくものだとされています。"
+      },
+      {
+        "q": "マネースクリプトにはどんな種類がありますか？",
+        "a": "代表的な研究では、お金を避ける、お金を崇拝する、お金で地位を示す、お金を警戒するという4つの傾向に分けられています。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Klontz, B., Britt, S. L., Mentzer, J., & Klontz, T. (2011). Money beliefs and financial behaviors: Development of the Klontz Money Script Inventory. Journal of Financial Therapy, 2(1), 1-22.",
+        "url": "https://doi.org/10.4148/jft.v2i1.451"
+      },
+      {
+        "text": "Nadeem, M. A., Qamar, M. A. J., Nazir, M. S., Ahmad, I., Timoshin, A., & Shehzad, K. (2020). How investors' attitudes shape stock market participation in the presence of financial self-efficacy. Frontiers in Psychology, 11, 553351.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7642217/"
+      },
+      {
+        "text": "Langabeer, J. R., Vega, F. R., Cardenas-Turanzas, M., et al. (2024). How financial beliefs and behaviors influence the financial health of individuals struggling with opioid use disorder. Behavioral Sciences, 14(5), 394.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11117791/"
+      }
+    ]
   },
   {
     "id": "confirmation-bias",
@@ -1521,7 +1557,39 @@
     "en": "Independent Variable",
     "field": "心理学研究法",
     "def": "独立変数とは、実験で研究者が意図的に変える条件のことです。独立変数の影響を受けて変化するかどうかを測る結果は、従属変数と呼ばれます。",
-    "slug": ""
+    "slug": "",
+    "date": "2026-10-03",
+    "detail": [
+      "実験や調査を計画するとき、研究者はまず「何を変化させ、何を測るか」を決めます。このとき研究者が意図的に変える条件や要因を独立変数と呼びます。たとえば薬の効果を調べる実験では、「薬を飲んだかどうか」が独立変数になります。",
+      "インドの医学誌に掲載されたアンドレードの解説(2021年)では、独立変数は「値が他の変数に影響を与える変数」と説明され、年齢や性別、喫煙の有無などが例として挙げられています。実験では多くの場合、研究者がこの独立変数の条件を複数用意し、参加者をどの条件に割り当てるかを決めます。",
+      "スポーツ医学の研究デザインを解説した2010年の論文では、研究の方法の章でまず独立変数(操作する条件)を決め、その後に従属変数(測定する結果)を名付けるという順序が勧められています。",
+      "誤解されやすい点として、独立変数と従属変数は変数そのものに固定された分類ではありません。ある研究で結果として扱われる変数が、別の研究では原因として扱う独立変数になることもあります。たとえば喫煙の有無は多くの研究で独立変数として扱われますが、喫煙を始めるかどうか自体を調べる研究では従属変数になります。"
+    ],
+    "example": "ダイエット法の効果を調べる実験で、「どの食事法を試したか」が独立変数になります。",
+    "faq": [
+      {
+        "q": "独立変数とは何ですか？",
+        "a": "独立変数とは、実験で研究者が意図的に変える条件のことです。"
+      },
+      {
+        "q": "独立変数と従属変数の違いは何ですか？",
+        "a": "独立変数は研究者が操作する原因側の条件で、従属変数はその影響を受けて変化するかどうかを測る結果側の変数です。"
+      },
+      {
+        "q": "ある研究の独立変数が、別の研究では従属変数になることはありますか？",
+        "a": "あります。独立変数・従属変数は、その研究で何を原因・何を結果として扱うかという位置づけによって決まるため、同じ変数の扱いが研究によって変わることがあります。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Andrade, C. (2021). A student's guide to the classification and operationalization of variables in the conceptualization and design of a clinical study: Part 1. Indian Journal of Psychological Medicine, 43(2), 177-179.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8313451/"
+      },
+      {
+        "text": "Knight, K. L. (2010). Study/experimental/research design: Much more than statistics. Journal of Athletic Training, 45(1), 98-100.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2808761/"
+      }
+    ]
   },
   {
     "id": "dependent-variable",
@@ -1529,7 +1597,39 @@
     "en": "Dependent Variable",
     "field": "心理学研究法",
     "def": "従属変数とは、実験で独立変数の影響を受けて変化するかどうかを測る結果のことです。研究者が操作する条件は独立変数と呼ばれます。",
-    "slug": ""
+    "slug": "",
+    "date": "2026-10-03",
+    "detail": [
+      "従属変数は、研究者が操作した独立変数の影響を受けて変化するかどうかを確かめるために測定する、結果側の変数です。実験の多くは「独立変数を変えたときに従属変数がどう変わるか」を確かめることを目的としています。",
+      "インドの医学誌に掲載されたアンドレードの解説(2021年)では、従属変数は「値が他の変数の影響を受ける変数」と定義され、たとえば心筋梗塞のリスクは、年齢や性別、生活習慣など複数の独立変数の影響を受ける従属変数として扱われると説明されています。",
+      "スポーツ医学の研究デザインを解説した2010年の論文では、従属変数は「測定変数」や「結果変数」とも呼ばれ、研究の方法の章で独立変数とあわせて名前を明記することが勧められています。",
+      "従属変数は1つの研究で複数設定されることもあります。たとえば新しい指導法の効果を調べる研究で、成績だけでなく満足度や継続率もあわせて従属変数とすることで、効果を多面的に確認できます。"
+    ],
+    "example": "新しい勉強法の効果を調べる研究で、「テストの点数」が従属変数になります。",
+    "faq": [
+      {
+        "q": "従属変数とは何ですか？",
+        "a": "従属変数とは、実験で独立変数の影響を受けて変化するかどうかを測る結果のことです。"
+      },
+      {
+        "q": "従属変数と独立変数の違いは何ですか？",
+        "a": "従属変数は独立変数の影響を受けて変化するかどうかを測る結果側の変数で、独立変数は研究者が操作する原因側の条件です。"
+      },
+      {
+        "q": "1つの研究で従属変数は1つだけですか？",
+        "a": "いいえ。研究によっては、複数の従属変数を設定して、効果を多面的に確認することがあります。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Andrade, C. (2021). A student's guide to the classification and operationalization of variables in the conceptualization and design of a clinical study: Part 1. Indian Journal of Psychological Medicine, 43(2), 177-179.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8313451/"
+      },
+      {
+        "text": "Knight, K. L. (2010). Study/experimental/research design: Much more than statistics. Journal of Athletic Training, 45(1), 98-100.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2808761/"
+      }
+    ]
   },
   {
     "id": "classical-conditioning",
@@ -2037,7 +2137,39 @@
     "en": "Job satisfaction",
     "field": "産業・組織心理学",
     "def": "職務満足とは、自分の仕事や仕事での経験を評価した結果として生じる、心地よい感情の状態のことです。",
-    "slug": "salary-comparison-satisfaction"
+    "slug": "salary-comparison-satisfaction",
+    "date": "2026-10-03",
+    "detail": [
+      "職務満足という考え方を体系化したのは、組織心理学者のエドウィン・ロック(Edwin A. Locke)です。ロックは1976年の論文で、職務満足を「自分の仕事や仕事での経験を評価した結果として生じる、心地よい、または前向きな情緒的状態」と定義しました。",
+      "2020年にFrontiers in Psychologyに掲載された研究では、ロックの定義を引用し、職務満足を「自分の仕事に対する情緒的な態度」としたうえで、仕事に対して何を求めるか(基本的な欲求)と、実際にその欲求がどれだけ満たされているかの一致度が、職務満足を左右するとされています。",
+      "医療機関の職務満足を扱った2012年のインドの研究でも、職務満足は「仕事において自分の価値観が実現されていると感じることから生まれる、心地よい情緒的状態」と説明され、賃金や昇進、同僚との関係など複数の側面に対する満足・不満の集まりとして捉えられています。",
+      "職務満足は離職の意向や組織への一体感とも関連づけて研究されていますが、これはあくまで本人の評価であり、仕事の客観的な条件の良さをそのまま表すわけではない点に注意が必要です。"
+    ],
+    "example": "給料には満足していても、上司との関係に不満がある場合、職務満足は仕事の側面ごとに分けて考える必要があります。",
+    "faq": [
+      {
+        "q": "職務満足とは何ですか？",
+        "a": "職務満足とは、自分の仕事や仕事での経験を評価した結果として生じる、心地よい感情の状態のことです。"
+      },
+      {
+        "q": "職務満足と給料の高さは同じことですか？",
+        "a": "いいえ。職務満足は給料だけでなく、仕事内容や昇進、同僚との関係など複数の側面への評価が合わさった、本人の情緒的な状態です。給料が高くても他の側面に不満があれば職務満足は下がることがあります。"
+      },
+      {
+        "q": "職務満足が高いとどうなりますか？",
+        "a": "研究では、職務満足が高い人ほど離職の意向が低い傾向があるとされています。ただし、これは関連を示したものであり、必ずそうなるとは限りません。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Dörendahl, J., Niepel, C., & Greiff, S. (2020). Actually getting some satisfaction on the job: Need-supply fit of fundamental motives at work. Frontiers in Psychology, 11, 1740.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7437360/"
+      },
+      {
+        "text": "Bhatnagar, K., & Srivastava, K. (2012). Job satisfaction in health-care organizations. Industrial Psychiatry Journal, 21(1), 75-78.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3678186/"
+      }
+    ]
   },
   {
     "id": "goal-setting-theory",
@@ -2045,7 +2177,43 @@
     "en": "Goal-Setting Theory",
     "field": "産業・組織心理学",
     "def": "目標設定理論とは、具体的で難しい目標を設定することが、曖昧な目標よりも成果と意欲を高めるという理論のことです。",
-    "slug": "specific-saving-goal-works"
+    "slug": "specific-saving-goal-works",
+    "date": "2026-10-03",
+    "detail": [
+      "目標設定理論は、産業・組織心理学者のエドウィン・ロックが1960年代に提唱し、ロックとゲイリー・レイサム(Gary Latham)が1990年の著作でまとめた理論です。2021年にPLOS ONEに掲載された研究では「ロックは1967年に目標設定理論を初めて提唱した」とされ、その後ロックとレイサムは、さまざまな業種・職種を対象にした実証研究を重ね、明確で難しい目標が仕事の成果を高めることを確認したと説明されています。",
+      "語学学習における目標理論を整理した2023年のレビューでは、目標設定理論はロックとレイサム(1990年)によって職場における課題への意欲づけを中心に示されたとされ、目標の特徴として「具体性と目標への関与」、そして「難しさ」の2点が挙げられています。",
+      "このレビューでは、目標の難しさが達成度とほぼ比例して高まる傾向があるとされ、挑戦的な目標が人の努力を引き出すと説明されています。また、目標に向けた努力の結果として得られるフィードバックが、学習や行動を続ける意欲を支える要素としても位置づけられています。",
+      "一方で、目標設定の効果は本人がその目標に納得して関与していることが前提になるとされ、単に難しい目標を課すだけでは同じ効果が得られるとは限らない点に注意が必要です。"
+    ],
+    "example": "「もっと頑張る」ではなく「来月までに売上を10%増やす」のように具体的で挑戦的な目標を立てると、成果や意欲が高まりやすいとされています。",
+    "faq": [
+      {
+        "q": "目標設定理論とは何ですか？",
+        "a": "目標設定理論とは、具体的で難しい目標を設定することが、曖昧な目標よりも成果と意欲を高めるという理論のことです。"
+      },
+      {
+        "q": "目標設定理論と単なる「目標を持つこと」の違いは何ですか？",
+        "a": "目標設定理論が重視するのは、目標が具体的で、ある程度難しく、本人がその目標に納得して関与していることです。曖昧な目標や、本人が受け入れていない目標では、同じ効果は期待しにくいとされています。"
+      },
+      {
+        "q": "難しい目標ほど成果が上がるのは本当ですか？",
+        "a": "研究では、目標の難しさと達成度にはおおむね比例関係があるとされていますが、これは目標への関与が前提になっており、単に難易度を上げるだけで効果が出るわけではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Locke, E. A. (1968). Toward a theory of task motivation and incentives. Organizational Behavior and Human Performance, 3(2), 157-189.（原典・背景。DOIの実在はdoi.orgのリダイレクトで確認）",
+        "url": "https://doi.org/10.1016/0030-5073(68)90004-4"
+      },
+      {
+        "text": "Cheng, X. (2023). Looking through goal theories in language learning: A review on goal setting and achievement goal theory. Frontiers in Psychology, 13, 1035223.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9849896/"
+      },
+      {
+        "text": "Pervaiz, S., Li, G., & He, Q. (2021). The mechanism of goal-setting participation's impact on employees' proactive behavior, moderated mediation role of power distance. PLoS One, 16(12), e0260625.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8673634/"
+      }
+    ]
   },
   {
     "id": "effect-size",
@@ -2053,7 +2221,39 @@
     "en": "Effect size",
     "field": "研究法",
     "def": "効果量とは、2つの条件のあいだの差の大きさを、測定単位に関係なく表すための統計的な指標のことです。",
-    "slug": ""
+    "slug": "",
+    "date": "2026-10-03",
+    "detail": [
+      "効果量という考え方を広めたのは、統計学者のジェイコブ・コーエン(Jacob Cohen)です。コーエンは1988年の著書で、2つの群の平均値の差を標準偏差で割って標準化した指標(コーエンのd)を提案し、d=0.2を小さい効果、0.5を中程度、0.8を大きい効果とする目安を示しました。",
+      "2015年にRestorative Dentistry & Endodonticsに掲載された統計解説では、効果量は「比較する群の間の差を単純に数値化したもの、つまり実際の効果」と説明され、p値だけでは効果の大きさが分からない点を補う指標として紹介されています。",
+      "2012年にJournal of Graduate Medical Educationに掲載された解説でも、p値は「効果があるかどうか」を示すだけで「効果の大きさ」は示さないとされ、サンプルサイズが十分大きければ、わずかな差でも統計的に有意になってしまうことが指摘されています。",
+      "そのため、研究結果を正しく読み取るには、統計的に有意かどうか(p値)と、その差が実用的に意味のある大きさかどうか(効果量)の両方を確認する必要があるとされています。小さい効果量でも、サンプルサイズが大きければ「有意差あり」と報告されることがある点は、誤解されやすいポイントです。"
+    ],
+    "example": "新しい勉強法で平均点が1点上がったという結果でも、人数が多ければ「統計的に有意」になることがあります。効果量を見ることで、その差が実際にどれくらい意味のある大きさなのかを判断しやすくなります。",
+    "faq": [
+      {
+        "q": "効果量とは何ですか？",
+        "a": "効果量とは、2つの条件のあいだの差の大きさを、測定単位に関係なく表すための統計的な指標のことです。"
+      },
+      {
+        "q": "効果量とp値の違いは何ですか？",
+        "a": "p値は差が偶然によるものではなさそうかを示す指標で、効果量は差そのものの大きさを表す指標です。サンプルサイズが大きいと、わずかな差でもp値は有意になりやすいため、両方を確認する必要があります。"
+      },
+      {
+        "q": "効果量が大きいほど良い研究ということですか？",
+        "a": "必ずしもそうとは言えません。効果量は差の大きさを示す指標であり、研究の質の高さそのものを表すものではありません。測定方法や対象者の選び方など、他の要素も合わせて判断する必要があります。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Kim, H. Y. (2015). Statistical notes for clinical researchers: effect size. Restorative Dentistry & Endodontics, 40(4), 328-331.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4650530/"
+      },
+      {
+        "text": "Sullivan, G. M., & Feinn, R. (2012). Using effect size-or why the P value is not enough. Journal of Graduate Medical Education, 4(3), 279-282.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3444174/"
+      }
+    ]
   },
   {
     "id": "transformational-leadership",
@@ -2061,7 +2261,39 @@
     "en": "Transformational leadership",
     "field": "産業・組織心理学",
     "def": "変革型リーダーシップとは、リーダーが部下を励まし、期待以上の成果を引き出すような関わり方のことです。",
-    "slug": ""
+    "slug": "",
+    "date": "2026-10-03",
+    "detail": [
+      "変革型リーダーシップという概念は、政治学者のジェームズ・マクレガー・バーンズ(James MacGregor Burns)が1978年の著書でリーダーシップのひとつの形として示し、その後、心理学者のバーナード・バス(Bernard M. Bass)が1985年の著書で組織の文脈にあてはめて体系化しました。",
+      "看護師を対象にした2014年の研究では、バスらの整理にもとづき、変革型リーダーシップは「理想的な影響力」「鼓舞する動機づけ」「知的刺激」「個別配慮」という4つの要素に分けられるとされています。「理想的な影響力」はリーダーが部下から信頼・尊敬される存在になること、「鼓舞する動機づけ」は将来への前向きな見通しを示すこと、「知的刺激」は創造性や工夫を促すこと、「個別配慮」は部下一人ひとりに関心を向けることを指すとされます。",
+      "2024年にFrontiers in Psychologyに掲載された研究では、変革型リーダーシップは部下の個人的な目的と組織の目的を結びつけることで、部下が自分自身の期待を超える水準の働きを示すようになると説明されています。",
+      "この研究で使われるフルレンジ・リーダーシップ・モデルという枠組みでは、変革型リーダーシップは「放任型」「取引型(条件に応じて対応する型)」と並ぶ3つのスタイルのひとつとして位置づけられており、状況によって他のスタイルと組み合わせて使われることもあるとされています。"
+    ],
+    "example": "新しいプロジェクトの意義を熱意をもって語り、メンバー一人ひとりの強みに合わせて声をかけるリーダーは、変革型リーダーシップの例として説明されることがあります。",
+    "faq": [
+      {
+        "q": "変革型リーダーシップとは何ですか？",
+        "a": "変革型リーダーシップとは、リーダーが部下を励まし、期待以上の成果を引き出すような関わり方のことです。"
+      },
+      {
+        "q": "変革型リーダーシップと取引型リーダーシップの違いは何ですか？",
+        "a": "取引型リーダーシップは、成果に応じて報酬や評価を与えるという条件のやり取りを中心にした関わり方です。これに対し変革型リーダーシップは、部下を励まし、将来への前向きな見通しを示すことで、期待以上の成果を引き出そうとする関わり方です。"
+      },
+      {
+        "q": "変革型リーダーシップの要素にはどんなものがありますか？",
+        "a": "代表的な整理では、理想的な影響力、鼓舞する動機づけ、知的刺激、個別配慮という4つの要素に分けられています。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Hayati, D., Charkhabi, M., & Naami, A. (2014). The relationship between transformational leadership and work engagement in governmental hospitals nurses: a survey study. SpringerPlus, 3, 25.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3895439/"
+      },
+      {
+        "text": "Garzón-Lasso, F., Serrano-Malebrán, J., Arenas-Arango, S., & Molina, C. (2024). Full range leadership style and its effect on effectiveness, employee satisfaction, and extra effort: an empirical study. Frontiers in Psychology, 15, 1380935.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11307206/"
+      }
+    ]
   },
   {
     "id": "trait-theory-leadership",
@@ -2165,7 +2397,39 @@
     "en": "Avoidant coping",
     "field": "健康心理学",
     "def": "回避型コーピングとは、ストレスの原因となる問題や感情から距離を置こうとする対処法のことです。絶望感や反復思考などが含まれます。",
-    "slug": ""
+    "slug": "",
+    "date": "2026-10-03",
+    "detail": [
+      "心理学者のリチャード・ラザルス(Richard Lazarus)とスーザン・フォークマン(Susan Folkman)は1984年の著書で、ストレスへの対処(コーピング)を、問題そのものを解決しようとする「問題対処型」と、感情を落ち着けようとする「情動対処型」の2つに大きく分けました。回避型コーピングは、このうち情動対処型に含まれる対処法のひとつとされています。",
+      "2019年にFrontiers in Psychologyに掲載されたコーピングの統合モデルの論文では、回避型コーピングについて「問題について考えないようにする(代わりの活動に取り組むなど)」「問題を解決する努力を減らす」「課題を後回しにする」「目標をあきらめる」といった行動が含まれるとされています。関連する概念として、願望的思考や問題から逃げる・避けるための行動を含む「逃避・回避」コーピングも挙げられています。",
+      "小児の機能性消化管障害を扱った2008年の論説では、回避型の対処をとる子どもは、痛みへの対処が不十分で、人との関わりからも距離を置く傾向があり、自分の状態を深刻に、自分を無力に感じやすいとされ、結果としてうつ的な症状や生活機能の低下につながりやすいと報告されています。",
+      "回避型コーピングは、短期的には不快な感情を和らげる面もありますが、長期的には問題の解決を遅らせたり、人との関わりから遠ざかることで学校や社会生活への適応に影響しうる点が、複数の研究で指摘されています。"
+    ],
+    "example": "試験前にSNSを見続けて勉強から気をそらしてしまうのは、回避型コーピングの一例として説明されることがあります。",
+    "faq": [
+      {
+        "q": "回避型コーピングとは何ですか？",
+        "a": "回避型コーピングとは、ストレスの原因となる問題や感情から距離を置こうとする対処法のことです。"
+      },
+      {
+        "q": "回避型コーピングと問題解決型コーピングの違いは何ですか？",
+        "a": "問題解決型コーピングは、問題そのものを解決しようとする対処法です。これに対し回避型コーピングは、問題や、それに伴う感情そのものから距離を置こうとする対処法です。"
+      },
+      {
+        "q": "回避型コーピングは良くない対処法なのですか？",
+        "a": "短期的には不快な感情を和らげる面もありますが、長期的には問題の解決を遅らせたり、人との関わりから遠ざかることで生活への適応に影響しうることが、複数の研究で指摘されています。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Stanisławski, K. (2019). The coping circumplex model: An integrative model of the structure of coping with stress. Frontiers in Psychology, 10, 694.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6476932/"
+      },
+      {
+        "text": "Walker, L. S. (2008). Psychological factors in the development and natural history of functional gastrointestinal disorders. Journal of Pediatric Gastroenterology and Nutrition, 47(5), 687-688.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3122963/"
+      }
+    ]
   },
   {
     "id": "positive-reappraisal",
@@ -2181,7 +2445,43 @@
     "en": "Mindfulness",
     "field": "健康心理学",
     "def": "マインドフルネスとは、今の瞬間の経験に、評価を加えずに注意を向ける心のありかたのことです。",
-    "slug": ""
+    "slug": "",
+    "date": "2026-10-03",
+    "detail": [
+      "マインドフルネスのもとになる考え方は、仏教の瞑想の伝統に由来します。分子生物学者のジョン・カバットジン(Jon Kabat-Zinn)は、1979年にマインドフルネス・ストレス低減法(MBSR)という8週間のプログラムを開発し、宗教的な色合いを薄めた形で西洋の医療の場に取り入れました。",
+      "カバットジンによる有名な定義は「意図的に、今この瞬間に、評価を加えずに注意を向けること」です。2013年にJournal of the American Association of Nurse Practitionersに掲載された解説でも、マインドフルネスは「好奇心を持ち、オープンな態度で、評価を加えずに今の瞬間に注意を向けること」と説明されています。",
+      "MBSRは、2時間半のセッションを8回と、1日がかりの集中練習日を組み合わせたプログラムで、呼吸法の瞑想やヨガの姿勢、ボディスキャン(体の感覚を順番に意識する練習)などから構成されます。元々は慢性疼痛のある患者を対象に、ストレスを減らす目的で開発されました。",
+      "その後、マインドフルネスを取り入れた手法は、うつ病の再発予防や物質使用障害の治療など、さまざまな臨床の場面に広がっています。ただし、2009年の論説では、マインドフルネスという言葉が多くの文脈で使われるようになった結果、本来の意味が薄れてしまう懸念も指摘されています。"
+    ],
+    "example": "食事をしながらスマートフォンを見るのではなく、味や香りに注意を向けて食べることは、マインドフルネスの練習の一例として紹介されることがあります。",
+    "faq": [
+      {
+        "q": "マインドフルネスとは何ですか？",
+        "a": "マインドフルネスとは、今の瞬間の経験に、評価を加えずに注意を向ける心のありかたのことです。"
+      },
+      {
+        "q": "マインドフルネスと瞑想は同じものですか？",
+        "a": "瞑想はマインドフルネスを育てるための練習方法のひとつですが、マインドフルネス自体は「今の瞬間に評価を加えずに注意を向ける」という心のありかたを指す、より広い概念です。"
+      },
+      {
+        "q": "マインドフルネスには効果があるのですか？",
+        "a": "うつ病の再発予防や慢性疼痛へのプログラムなど、臨床の場面で研究が重ねられていますが、言葉が広く使われるようになった分、本来の意味とずれた使われ方をされているという指摘もあります。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Kabat-Zinn, J. (1982). An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation: Theoretical considerations and preliminary results. General Hospital Psychiatry, 4(1), 33-47.（原典・背景。DOIの実在はdoi.orgのリダイレクトで確認）",
+        "url": "https://doi.org/10.1016/0163-8343(82)90026-3"
+      },
+      {
+        "text": "Robins, J. L., Kiken, L., Holt, M., & McCain, N. L. (2013). Mindfulness: An effective coaching tool for improving physical and mental health. Journal of the American Association of Nurse Practitioners, 26(9), 511-518.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4029868/"
+      },
+      {
+        "text": "Marcus, M. T., & Zgierska, A. (2009). Mindfulness-based therapies for substance use disorders: Part 1 (Editorial). Substance Abuse, 30(4), 263.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2818765/"
+      }
+    ]
   },
   {
     "id": "mental-disorder",
@@ -2189,7 +2489,39 @@
     "en": "Mental disorder",
     "field": "臨床心理学",
     "def": "精神疾患とは、認知・感情・行動における臨床的に意味のある乱れで、心の働きの機能不全を反映した状態のことです。",
-    "slug": ""
+    "slug": "",
+    "date": "2026-10-03",
+    "detail": [
+      "精神疾患の定義は、アメリカ精神医学会が作成する診断基準DSM(精神疾患の診断・統計マニュアル)の版が改訂されるたびに見直されてきました。2018年にFrontiers in Psychiatryに掲載された論文によると、DSM-5は精神疾患を「認知、感情の調節、または行動における臨床的に意味のある乱れで、心の働きの基盤となる心理学的、生物学的、または発達上の過程における機能不全を反映した症候群」と定義しています。",
+      "この定義には除外規定もあります。たとえば、親しい人を失ったときなど、ストレスの原因となる出来事に対する、文化的に理解できる範囲の反応は、精神疾患にはあたらないとされています。",
+      "2010年にPsychological Medicineに掲載された論文では、DSM-IVからDSM-5への改訂にあたり、「臨床的に意味のある」という表現の位置づけを整理したり、診断の妥当性(予後や治療反応との関連など)を基準に加えることが議論されたと報告されています。",
+      "2018年の論文では、この定義が「機能不全」を中心的な基準にしていることが、本来は精神疾患とは言えない個人差や社会的な問題まで「疾患」として扱ってしまう危険につながりうると指摘されており、定義の線引きは現在も議論が続いています。"
+    ],
+    "example": "大切な人を亡くした直後の深い悲しみは、文化的に理解できる範囲の反応であれば、それだけで精神疾患とはされません。",
+    "faq": [
+      {
+        "q": "精神疾患とは何ですか？",
+        "a": "精神疾患とは、認知・感情・行動における臨床的に意味のある乱れで、心の働きの機能不全を反映した状態のことです。"
+      },
+      {
+        "q": "つらい気持ちになることと精神疾患は同じですか？",
+        "a": "いいえ。ストレスの原因となる出来事に対する、文化的に理解できる範囲の反応は精神疾患にはあたりません。精神疾患は、認知・感情・行動の機能不全を反映した、臨床的に意味のある乱れを指します。"
+      },
+      {
+        "q": "精神疾患の定義は変わることがあるのですか？",
+        "a": "あります。診断基準であるDSMは版の改訂ごとに定義の文言が見直されており、どこまでを機能不全とみなすかという線引きは現在も議論されています。"
+      }
+    ],
+    "sources": [
+      {
+        "text": "Telles-Correia, D., Saraiva, S., & Gonçalves, J. (2018). Mental disorder-the need for an accurate definition. Frontiers in Psychiatry, 9, 64.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5857571/"
+      },
+      {
+        "text": "Stein, D. J., Phillips, K. A., Bolton, D., Fulford, K. W. M., Sadler, J. Z., & Kendler, K. S. (2010). What is a mental/psychiatric disorder? From DSM-IV to DSM-5. Psychological Medicine, 40(11), 1759-1765.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3101504/"
+      }
+    ]
   },
   {
     "id": "psychodynamic-approach",
