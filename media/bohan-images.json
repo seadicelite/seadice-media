@@ -349,5 +349,44 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:My_Paper_Heart_(2204658123).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "yami-baito-recruitment-signs": {
+  "file": "File:Empty city - Flickr - Stiller Beobachter.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Empty_city_-_Flickr_-_Stiller_Beobachter.jpg/960px-Empty_city_-_Flickr_-_Stiller_Beobachter.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Empty_city_-_Flickr_-_Stiller_Beobachter.jpg/500px-Empty_city_-_Flickr_-_Stiller_Beobachter.jpg",
+  "w": 960,
+  "h": 724,
+  "alt": "Empty Ansbach",
+  "artist": "Stiller Beobachter from Ansbach, Germany",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Empty_city_-_Flickr_-_Stiller_Beobachter.jpg",
+  "source_label": "Wikimedia Commons"
+ },
+ "two-factor-passkey-account": {
+  "file": "https://cdn.stocksnap.io/img-thumbs/960w/QJJSNYH0UH.jpg",
+  "src": "https://cdn.stocksnap.io/img-thumbs/960w/QJJSNYH0UH.jpg",
+  "src640": "https://cdn.stocksnap.io/img-thumbs/960w/QJJSNYH0UH.jpg",
+  "w": 4302,
+  "h": 2868,
+  "alt": "Padlock City",
+  "artist": "Tricia Gray",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "page": "https://stocksnap.io/photo/padlock-city-QJJSNYH0UH",
+  "source_label": "Stocksnap"
+ },
+ "phishing-mail-sms-2025": {
+  "file": "File:02023 fishing hook (Clark), Radusz around 7800 BC — 5400 BC.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/02023_fishing_hook_%28Clark%29%2C_Radusz_around_7800_BC_%E2%80%94_5400_BC.jpg/960px-02023_fishing_hook_%28Clark%29%2C_Radusz_around_7800_BC_%E2%80%94_5400_BC.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/02023_fishing_hook_%28Clark%29%2C_Radusz_around_7800_BC_%E2%80%94_5400_BC.jpg/500px-02023_fishing_hook_%28Clark%29%2C_Radusz_around_7800_BC_%E2%80%94_5400_BC.jpg",
+  "w": 960,
+  "h": 413,
+  "alt": "mns/a/22060 The sharp end of the lower part of the hook is a characteristic feature of products of this type for the Middle and Late Mesolit",
+  "artist": "Unknown author",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:02023_fishing_hook_(Clark),_Radusz_around_7800_BC_%E2%80%94_5400_BC.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
