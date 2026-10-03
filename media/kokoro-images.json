@@ -648,5 +648,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Floor_with_shadow_of_window_and_plant,_Linneanum,_Uppsala,_Sweden_julesvernex2.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ai-decision-dependence": {
+  "file": "File:Fork in the path up .Lad Law - geograph.org.uk - 8373118.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Fork_in_the_path_up_.Lad_Law_-_geograph.org.uk_-_8373118.jpg/960px-Fork_in_the_path_up_.Lad_Law_-_geograph.org.uk_-_8373118.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Fork_in_the_path_up_.Lad_Law_-_geograph.org.uk_-_8373118.jpg/500px-Fork_in_the_path_up_.Lad_Law_-_geograph.org.uk_-_8373118.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Fork in the path up .Lad Law",
+  "artist": "Humphrey Bolton",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fork_in_the_path_up_.Lad_Law_-_geograph.org.uk_-_8373118.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
