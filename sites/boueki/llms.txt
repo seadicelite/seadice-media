@@ -3,7 +3,7 @@
 > ゼロから学ぶ貿易実務は、貿易の仕事を無料で学べる学習サイトです。貿易実務検定C級の範囲をカバーする全14章の無料講座、貿易用語辞典、確認問題と模擬試験を掲載。登録不要。
 
 ゼロから学ぶ貿易実務はSEADICE(https://seadice.win/)が運営する、貿易実務を無料で学べる学習サイトです。登録不要・無料。
-貿易実務検定C級の範囲をカバーする無料講座「ゼロから学ぶ貿易実務入門」（全14章）と、貿易用語辞典（28語）を掲載しています。
+貿易実務検定C級の範囲をカバーする無料講座「ゼロから学ぶ貿易実務入門」（全14章）と、貿易用語辞典（37語）を掲載しています。
 本文は税関・ジェトロ・ICCなどの一次情報をもとに日本語で独自に書いており、各ページに出典があります。
 
 ## 主要ページ
@@ -32,7 +32,12 @@
   - 3-2 引合い・オファー・カウンターオファー。契約が成立するまで: https://boueki.seadice.win/course/inquiry-offer-counter-offer/
   - 3-3 売買契約書に書くこと。品質・数量・価格・納期・決済: https://boueki.seadice.win/course/sales-contract-basic-terms/
   - 3-4 一般取引条件（裏面約款）と不可抗力条項: https://boueki.seadice.win/course/general-terms-and-force-majeure/
-- 第4章 インコタームズ2020: 費用と危険の分かれ目を決める11の取引条件。（準備中）
+- 第4章 インコタームズ2020: 費用と危険の分かれ目を決める11の取引条件。
+  - 4-1 インコタームズとは。費用と危険の移転点: https://boueki.seadice.win/course/what-are-incoterms/
+  - 4-2 FOB・CFR・CIF。船を使う取引条件: https://boueki.seadice.win/course/fob-cfr-cif-sea-rules/
+  - 4-3 EXW・FCA・CPT・CIP。あらゆる輸送手段に使える条件: https://boueki.seadice.win/course/exw-fca-cpt-cip/
+  - 4-4 DAP・DPU・DDP。仕向地で引き渡す条件: https://boueki.seadice.win/course/dap-dpu-ddp-delivered-rules/
+  - 4-5 取引条件の選び方とよくある誤解: https://boueki.seadice.win/course/choosing-incoterms-and-common-mistakes/
 - 第5章 代金決済と貿易金融: 送金・取立・信用状の違いと流れ。（準備中）
 - 第6章 外国為替: 為替相場の読み方と為替リスク対策。（準備中）
 - 第7章 海上輸送: コンテナ輸送と船荷証券。（準備中）
