@@ -1,7 +1,7 @@
 {
  "enabled": true,
  "publish": "auto",
- "slug": "tantei",
+ "slug": "tantei", "siteType": "article",
  "name": "デジタル探偵",
  "path": "sites/tantei/",
  "url": "https://tantei.seadice.win/",

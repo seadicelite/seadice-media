@@ -145,7 +145,7 @@ def pages(cfg, theme, favicon, css):
         rel = p["path"].strip("/") + "/"
         body = f'  <div class="hero"><h1>{E(p["title"])}</h1></div>\n  <div class="xbody">{p["body"]}</div>'
         graph = [{"@type": "WebPage", "name": p["title"], "url": cfg["url"] + rel, "description": p["desc"],
-                  "dateModified": p.get("date"), "publisher": {"@type": "Organization", "name": "SEADICE", "url": "https://seadice.win"}}]
+                  "dateModified": p.get("date"), "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}}]
         urls.append(_page(cfg, theme, favicon, css, rel, f'{p["title"]} | {cfg["name"]}', p["desc"], body, graph,
                           [(p["title"], cfg["url"] + rel)], p.get("css", "")))
     return urls

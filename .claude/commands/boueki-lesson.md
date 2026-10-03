@@ -6,7 +6,7 @@ argument-hint: [本数(既定1)]
 # /boueki-lesson — 貿易実務講座のレッスンを追加する
 
 対象: `media/boueki-course.json`（講座データ）。ページは `python3 media/boueki_pages.py` が生成する。HTMLを手で編集しない。
-全メディア共通の読みやすさ基準として `.claude/commands/quality.md` も読む（文の長さ・言い切り・絵文字禁止など。写真の項目はこのサイトには適用しない）。
+品質基準として `docs/quality/base.md` と `docs/quality/course.md` も読む（学習サイト向け。写真は不要）。
 
 ## なぜ手元で実行するのか（最重要）
 

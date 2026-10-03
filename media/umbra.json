@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "publish": "auto",
-  "slug": "umbra",
+  "slug": "umbra", "siteType": "article",
   "name": "しぐさと本音",
   "path": "sites/umbra/",
   "url": "https://umbra.seadice.win/",

@@ -217,7 +217,7 @@ def write_pages(cfg, favicon=""):
         ld = json.dumps({"@context": "https://schema.org", "@graph": [
             {"@type": "AboutPage" if slug == "about" else "WebPage", "name": ttl, "url": url, "inLanguage": "ja",
              "isPartOf": {"@type": "WebSite", "name": cfg["name"], "url": cfg["url"]},
-             "publisher": {"@type": "Organization", "name": "SEADICE", "url": "https://seadice.win"}},
+             "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}},
             {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": cfg["name"], "item": cfg["url"]},
                                                           {"@type": "ListItem", "position": 2, "name": title, "item": url}]}]}, ensure_ascii=False)
         page = f'''<!DOCTYPE html>

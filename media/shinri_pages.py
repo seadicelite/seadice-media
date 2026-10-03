@@ -20,7 +20,7 @@ _gp = ROOT / "media/shinri-guides.json"
 GUIDES = json.loads(_gp.read_text()) if _gp.exists() else []  # 独学Q&A(kind=qa)と分野入門(kind=field)
 NAME, URL = CFG["name"], CFG["url"]
 OUT = ROOT / CFG["path"]
-PUBLISHER = {"@type": "Organization", "name": "SEADICE", "url": "https://seadice.win"}
+PUBLISHER = {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}
 CURL = f"{URL}course/"
 
 # 姉妹メディア（詳しい研究解説の記事はこちらにある）

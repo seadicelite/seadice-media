@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "publish": "auto",
-  "slug": "kosodate",
+  "slug": "kosodate", "siteType": "article",
   "name": "子育てデータ",
   "path": "sites/kosodate/",
   "url": "https://kosodate.seadice.win/",

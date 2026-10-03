@@ -20,7 +20,7 @@ _gp = ROOT / "media/boueki-guides.json"
 GUIDES = json.loads(_gp.read_text()) if _gp.exists() else []  # 独学Q&A(kind=qa)と分野入門(kind=field)
 NAME, URL = CFG["name"], CFG["url"]
 OUT = ROOT / CFG["path"]
-PUBLISHER = {"@type": "Organization", "name": "SEADICE", "url": "https://seadice.win"}
+PUBLISHER = {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}
 CURL = f"{URL}course/"
 
 ARTICLES = {}  # 姉妹メディアの記事（今は無し）

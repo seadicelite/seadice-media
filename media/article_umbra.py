@@ -36,7 +36,7 @@ def make(a):
     faq_ld = [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": ans}} for q, ans in a["faq"]]
     ld = json.dumps({"@context": "https://schema.org", "@graph": [
         {"@type": "Article", "headline": a["title"], "datePublished": a["date"], "dateModified": a["date"],
-         "author": {"@type": "Organization", "name": "SEADICE"}, "publisher": {"@type": "Organization", "name": "SEADICE", "url": "https://seadice.win"},
+         "author": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}, "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"},
          "url": url, "citation": cites},
         {"@type": "FAQPage", "mainEntity": faq_ld},
         {"@type": "BreadcrumbList", "itemListElement": [

@@ -10,19 +10,19 @@ argument-hint: <slug 例: research> [--draft] [トピック]
 ## 手順
 
 1. `media/{slug}.json` を読む。無ければ中止して報告。
-2. 設定の `rulesFrom` を読み、その「読者」「鉄則（信頼性）」「手順1〜6」を、設定の `name` `path` `url` `categories` `template` に置き換えて **そのまま適用** する（ルールはここに複製しない。修正は rulesFrom 側で一元管理）。あわせて `.claude/commands/quality.md`（全メディア共通の読みやすさ・見た目の基準。ジャンルを問わず適用）も読む。
+2. 設定の `rulesFrom` を読み、その「読者」「鉄則（信頼性）」「手順1〜6」を、設定の `name` `path` `url` `categories` `template` に置き換えて **そのまま適用** する（ルールはここに複製しない。修正は rulesFrom 側で一元管理）。あわせて品質基準 `docs/quality/base.md` と、設定の `siteType` に対応する `docs/quality/{siteType}.md`（無ければ `article.md`）を読む。
 3. トピックが未指定なら `topicQueue` の先頭から、`path` 配下の既存記事と被らないものを選ぶ。使ったトピックは `topicQueue` から削除して json を保存する。キューが3件以下になったら、既存記事と設定の `concept` から新トピックを10件補充する。
 4. 記事を `postsPerRun` 本作る（確認不要）。出典を確認できないトピックは捨てて次へ。
 5. 配線と写真（スクリプトで行う。一覧やsitemapを手で編集しない）:
    - `media/{slug}-posts.json` の先頭に `{"slug","category"(設定のcategoriesから),"date","title","summary"(60字前後)}` を1件追加する。
-   - **写真は必須（キー不要）。写真なしで公開しない。** 手順・リトライの基準は `quality.md`「画像は必須」を参照。`python3 media/photo.py {slug} {記事slug} "<英語の検索語 2〜4語>"`（検索語は「物・場所・道具」に寄せる。"person" 等の人物語は避ける）。
+   - **写真は必須（キー不要）。写真なしで公開しない。** 手順・リトライの基準は `docs/quality/article.md`「画像は必須」を参照。`python3 media/photo.py {slug} {記事slug} "<英語の検索語 2〜4語>"`（検索語は「物・場所・道具」に寄せる。"person" 等の人物語は避ける）。
    - `python3 media/build.py {slug}` で一覧ページとsitemapを再生成する。
 6. **公開前の自己検査（人の目が無い前提。1つでも落ちたらその記事は公開せず破棄して次のトピックへ）**:
    - 記事内の全出典URLを WebFetch し直し、記事の数値・主張が出典本文に書かれていることを1件ずつ照合した。
    - 「私たちの研究で」等の一次研究表現、断定・医療行為の助言、絵文字、開発側事情（課金・価格）が無い。
    - 出典が3件未満、または査読論文・メタ分析・レビュー・公的機関のいずれも含まない場合は不合格。
    - 本文800字未満、h2直下の結論欠落、プレースホルダ（`{{`）残りが無い。
-   - `quality.md`の基準（余白・カードの構造・1文の長さ・FAQの初期表示）を満たしているか、テンプレートから外れていないか確認する。
+   - `docs/quality/` の基準（余白・カードの構造・1文の長さ・FAQの初期表示・公開前チェック）を満たしているか、テンプレートから外れていないか確認する。
    - 既存記事と題材・結論が実質同じでない。
    - 出典の一次ページが開けない（403等）場合は、Europe PMC API（`https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:{doi}&resultType=core&format=json`）や大学・機関の公式発表など、第二の情報源で確認できた数値だけを使う。確認できなかった数値・主張は記事から削る（検索結果のスニペットだけを根拠にしない）。
 7. 公開:
@@ -34,4 +34,4 @@ argument-hint: <slug 例: research> [--draft] [トピック]
 
 ## 新しいメディアを増やすとき
 
-`media/{新slug}.json` を `research.json` と同じ形で作るだけ。`template` `rulesFrom` は共有してよい（見た目やルールを変えたいときだけ別ファイルにする）。新しいテンプレート(`{新slug}-template.html`)を作る場合は、`quality.md`の余白・カード構造・画像必須のルールを土台にする（ジャンルが変わっても読みやすさの基準は共通）。
+`media/{新slug}.json` を `research.json` と同じ形で作るだけ（`siteType` を必ず書く）。`template` `rulesFrom` は共有してよい（見た目やルールを変えたいときだけ別ファイルにする）。新しいテンプレート(`{新slug}-template.html`)を作る場合は、`docs/quality/base.md` と該当する種類のファイルを土台にする（ジャンルが変わっても読みやすさの基準は共通）。

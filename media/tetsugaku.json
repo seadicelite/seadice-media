@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "publish": "auto",
-  "slug": "tetsugaku",
+  "slug": "tetsugaku", "siteType": "article",
   "name": "哲学",
   "path": "sites/tetsugaku/",
   "url": "https://tetsugaku.seadice.win/",

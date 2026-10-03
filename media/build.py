@@ -105,8 +105,8 @@ def build(slug, preview=None):
     ttl = f"{name} | {cfg.get('titleSuffix', '')}".rstrip(" |")
     desc = html.escape(cfg.get("description", ""), quote=True)
     ld = json.dumps({"@context": "https://schema.org", "@graph": [
-        {"@type": "WebSite", "@id": url + "#website", "name": name, "url": url, "description": cfg.get("description", ""), "inLanguage": "ja", "publisher": {"@type": "Organization", "name": "SEADICE", "url": "https://seadice.win"}},
-        {"@type": "CollectionPage", "name": name, "url": url, "description": cfg.get("description", ""), "isPartOf": {"@id": url + "#website"}, "dateModified": max((p["date"] for p in posts), default=None), "publisher": {"@type": "Organization", "name": "SEADICE", "url": "https://seadice.win"}},
+        {"@type": "WebSite", "@id": url + "#website", "name": name, "url": url, "description": cfg.get("description", ""), "inLanguage": "ja", "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}},
+        {"@type": "CollectionPage", "name": name, "url": url, "description": cfg.get("description", ""), "isPartOf": {"@id": url + "#website"}, "dateModified": max((p["date"] for p in posts), default=None), "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}},
         {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": name, "item": url}]}]
         + ([{"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in cfg["faq"]]}] if cfg.get("faq") else [])}, ensure_ascii=False)
     # 設定にfaqがあればトップにQ&Aを表示する（AI検索が引用しやすい「質問→言い切りの答え」）
@@ -203,7 +203,7 @@ def build_category_pages(cfg, posts, cats, images, types, theme, name, url):
         curl = f"{url}category/{v['id']}/"
         ld = json.dumps({"@context": "https://schema.org", "@graph": [
             {"@type": "CollectionPage", "name": ttl, "url": curl, "description": cdesc,
-             "publisher": {"@type": "Organization", "name": "SEADICE", "url": "https://seadice.win"}},
+             "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}},
             {"@type": "BreadcrumbList", "itemListElement": [
                 {"@type": "ListItem", "position": 1, "name": "HOME", "item": "https://seadice.win/"},
                 {"@type": "ListItem", "position": 2, "name": name, "item": url},
