@@ -662,5 +662,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Commuters_Platform_9_Roma_Street_Railway_Station_Brisbane_P1400747.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "indoor-plants-focus-concentration-research": {
+  "file": "File:Nature - Natura (14294118049).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nature_-_Natura_%2814294118049%29.jpg/960px-Nature_-_Natura_%2814294118049%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nature_-_Natura_%2814294118049%29.jpg/500px-Nature_-_Natura_%2814294118049%29.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Can I use this photo? Read <a href=\"https://www.flickr.com/people/fotokoci\">here</a> for more informations.",
+  "artist": "fotokoci",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Nature_-_Natura_(14294118049).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
