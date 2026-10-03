@@ -639,5 +639,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Stack_Mould_for_Copper_Coins_02.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "small-change-invisible-spending": {
+  "file": "File:Loose coins and pot (FindID 229208).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Loose_coins_and_pot_%28FindID_229208%29.jpg/960px-Loose_coins_and_pot_%28FindID_229208%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Loose_coins_and_pot_%28FindID_229208%29.jpg/500px-Loose_coins_and_pot_%28FindID_229208%29.jpg",
+  "w": 960,
+  "h": 652,
+  "alt": "Roman copper alloy radiate coin hoard, c 7,000 coins contained in a greyware storage jar.\nThe coins range in date from AD 230s-290s, a time ",
+  "artist": "The British Museum, Ian Richardson, 2010-12-06 12:06:26",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Loose_coins_and_pot_(FindID_229208).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
