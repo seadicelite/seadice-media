@@ -1,5 +1,14 @@
 [
   {
+    "id": "sigh-resetter",
+    "term": "ため息のリセッター仮説",
+    "en": "Respiratory resetter hypothesis",
+    "def": "ため息が、乱れた呼吸のリズムを元に戻す「リセット」の役割を持つという仮説。研究では、ため息の直前に呼吸が不規則になり、直後にリズムが整うことが確認されています。",
+    "slugs": [
+      "sighing-meaning-research"
+    ]
+  },
+  {
     "id": "microexpression",
     "term": "微表情（マイクロエクスプレッション）",
     "en": "Microexpression",
