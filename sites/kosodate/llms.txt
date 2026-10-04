@@ -30,6 +30,7 @@
 - [子どもにAIは何歳から？研究と公的ガイドラインで整理](https://kosodate.seadice.win/ai-age-for-kids/): ユネスコの目安は13歳から。それより前は親と一緒に使うのが研究から見た安心な形です。
 - [AIに読書感想文・自由研究を手伝わせるのはずるい？文科省の方針と家庭でのルール](https://kosodate.seadice.win/ai-book-report-homework-help/): AIの生成物をそのまま提出するのは文科省の指針で不適切とされますが、一部活用まで禁止はしていません。
 - [高校生の受験勉強、AIをどこまで使っていい？答えを聞くかヒントにするかの差](https://kosodate.seadice.win/ai-exam-prep-high-school/): 約1,000人の高校生実験で、AIの使い方次第で学力への影響が真逆になることがわかりました。
+- [AIを使える子と使えない子で、学力の差は広がる？分かれ目は「使い方」と周りの関わり](https://kosodate.seadice.win/ai-literacy-gap-academic-achievement/): 差を分けたのはAIを使えるかより使い方。答えを聞くだけではAIなしの成績が下がり、AIを使う力は親や学校の関わりと関連していた。
 - [AIの個別学習・AIチューターで本当に成績は上がる？](https://kosodate.seadice.win/ai-tutor-adaptive-learning-effect/): K-12の28研究のメタ分析では効果はおおむね前向きでしたが、AIの種類によって効果の大きさは異なっていました。
 - [幼い子がAIスピーカーに話しかけている。子どもはAIをどう理解している？](https://kosodate.seadice.win/ai-voice-assistant-child-trust/): 子どもはAIが生きていないと理解する一方、先生や友達よりAIを信じやすい傾向もあると研究でわかりました。
 - [子どものAI利用、家庭でどう関わるとうまくいく？](https://kosodate.seadice.win/generative-ai-family-involvement/): 親自身のAIへの理解と信頼が、家庭でAIを取り入れる意向と関連していた調査があります。
