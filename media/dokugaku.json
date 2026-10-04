@@ -123,5 +123,6 @@
       "label": "用語集",
       "path": "/glossary/"
     }
-  ]
+  ],
+  "a11yFix": true
 }

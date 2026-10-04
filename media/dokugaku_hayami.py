@@ -50,6 +50,7 @@ body = f"""<p>よく言われる勉強法を、研究で「効く」「条件し
 <ul class="legend"><li><span class="lv lv-a">効く</span>{LV_NOTE["a"]}</li><li><span class="lv lv-b">条件しだい</span>{LV_NOTE["b"]}</li><li><span class="lv lv-c">当てにならない</span>{LV_NOTE["c"]}</li></ul>
 <p class="flabel">悩みから</p><div class="fchips">{chips}</div>
 <p class="flabel">判定から</p><div class="fchips">{lchips}</div>
+<h2>勉強法の一覧</h2>
 <p id="cnt" class="note" aria-live="polite"></p>
 <ul class="hyl">{"".join(item(x) for x in D)}</ul>
 <h2>このページについて</h2>
