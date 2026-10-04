@@ -3,7 +3,7 @@
 > ゼロから学ぶ貿易実務は、貿易の仕事を無料で学べる学習サイトです。貿易実務検定C級の範囲をカバーする全14章の無料講座、貿易用語辞典、確認問題と模擬試験を掲載。登録不要。
 
 ゼロから学ぶ貿易実務はSEADICE(https://seadice.win/)が運営する、貿易実務を無料で学べる学習サイトです。登録不要・無料。
-貿易実務検定C級の範囲をカバーする無料講座「ゼロから学ぶ貿易実務入門」（全14章）と、貿易用語辞典（105語）を掲載しています。
+貿易実務検定C級の範囲をカバーする無料講座「ゼロから学ぶ貿易実務入門」（全14章）と、貿易用語辞典（112語）を掲載しています。
 本文は税関・ジェトロ・ICCなどの一次情報をもとに日本語で独自に書いており、各ページに出典があります。
 
 ## 主要ページ
@@ -73,8 +73,14 @@
   - 11-1 インボイスとパッキングリスト。役割と記載事項: https://boueki.seadice.win/course/commercial-invoice-and-packing-list/
   - 11-2 船積書類一式。銀行に出す書類と確認ポイント: https://boueki.seadice.win/course/shipping-documents-for-banks/
   - 11-3 貿易手続きの電子化。NACCSとe-B/L: https://boueki.seadice.win/course/naccs-and-electronic-bill-of-lading/
-- 第12章 クレームとトラブル対応: クレームの種類と紛争の解決方法。（準備中）
-- 第13章 貿易実務英語: 商業英単語と英文の読み方。（準備中）
+- 第12章 クレームとトラブル対応: クレームの種類と紛争の解決方法。
+  - 12-1 貿易クレーム・運送クレーム・保険クレームの違い: https://boueki.seadice.win/course/trade-transport-insurance-claims/
+  - 12-2 紛争の解決方法。和解・調停・仲裁: https://boueki.seadice.win/course/dispute-resolution-settlement-mediation-arbitration/
+- 第13章 貿易実務英語: 商業英単語と英文の読み方。
+  - 13-1 必ず出る商業英単語・略語。L/C・B/L・ETAを読む: https://boueki.seadice.win/course/trade-english-key-words-and-abbreviations/
+  - 13-2 英文の売買契約書を読む。構成とshall・mayの意味: https://boueki.seadice.win/course/reading-english-sales-contracts/
+  - 13-3 英文の信用状を読む。MT700の項目と定番フレーズ: https://boueki.seadice.win/course/reading-english-letter-of-credit/
+  - 13-4 取引のやりとり（コレスポンデンス）の定型表現: https://boueki.seadice.win/course/trade-correspondence-phrases/
 - 第14章 総まとめと模擬試験: 全範囲の復習と模擬試験。（準備中）
 
 ## 運営
