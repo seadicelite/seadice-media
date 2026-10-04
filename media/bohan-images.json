@@ -1,8 +1,8 @@
 {
  "burglar-target-selection-5-minutes": {
   "file": "File:Door lock.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Door_lock.jpg/960px-Door_lock.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Door_lock.jpg/500px-Door_lock.jpg",
+  "src": "https://bohan.seadice.win/img/burglar-target-selection-5-minutes.webp",
+  "src640": "https://bohan.seadice.win/img/burglar-target-selection-5-minutes-sm.webp",
   "w": 960,
   "h": 739,
   "alt": "Front door of a house with typical door furniture: a letter box, door knocker, a latch and two locks",
@@ -10,12 +10,16 @@
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Door_lock.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Door_lock.jpg/960px-Door_lock.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Door_lock.jpg/500px-Door_lock.jpg",
+  "og": "https://bohan.seadice.win/img/burglar-target-selection-5-minutes-og.jpg",
+  "local": true
  },
  "broken-windows-theory-evidence": {
   "file": "File:Window inside an abandoned military building in Fort de la Chartreuse, Liege, Belgium (DSCF3349-hdr).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Window_inside_an_abandoned_military_building_in_Fort_de_la_Chartreuse%2C_Liege%2C_Belgium_%28DSCF3349-hdr%29.jpg/960px-Window_inside_an_abandoned_military_building_in_Fort_de_la_Chartreuse%2C_Liege%2C_Belgium_%28DSCF3349-hdr%29.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Window_inside_an_abandoned_military_building_in_Fort_de_la_Chartreuse%2C_Liege%2C_Belgium_%28DSCF3349-hdr%29.jpg/500px-Window_inside_an_abandoned_military_building_in_Fort_de_la_Chartreuse%2C_Liege%2C_Belgium_%28DSCF3349-hdr%29.jpg",
+  "src": "https://bohan.seadice.win/img/broken-windows-theory-evidence.webp",
+  "src640": "https://bohan.seadice.win/img/broken-windows-theory-evidence-sm.webp",
   "w": 960,
   "h": 641,
   "alt": "Window inside an abandoned military building in Fort de la Chartreuse, Liege, Belgium (DSCF3349-hdr)",
@@ -23,12 +27,16 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Window_inside_an_abandoned_military_building_in_Fort_de_la_Chartreuse,_Liege,_Belgium_(DSCF3349-hdr).jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Window_inside_an_abandoned_military_building_in_Fort_de_la_Chartreuse%2C_Liege%2C_Belgium_%28DSCF3349-hdr%29.jpg/960px-Window_inside_an_abandoned_military_building_in_Fort_de_la_Chartreuse%2C_Liege%2C_Belgium_%28DSCF3349-hdr%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Window_inside_an_abandoned_military_building_in_Fort_de_la_Chartreuse%2C_Liege%2C_Belgium_%28DSCF3349-hdr%29.jpg/500px-Window_inside_an_abandoned_military_building_in_Fort_de_la_Chartreuse%2C_Liege%2C_Belgium_%28DSCF3349-hdr%29.jpg",
+  "og": "https://bohan.seadice.win/img/broken-windows-theory-evidence-og.jpg",
+  "local": true
  },
  "street-lighting-crime-research": {
   "file": "File:Esztergom by night 01 - Simor János utca.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg/960px-Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg/500px-Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg",
+  "src": "https://bohan.seadice.win/img/street-lighting-crime-research.webp",
+  "src640": "https://bohan.seadice.win/img/street-lighting-crime-research-sm.webp",
   "w": 960,
   "h": 650,
   "alt": "Night in Esztergom, Hungary - Simor János street during its reconstrucion.",
@@ -36,12 +44,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg/960px-Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg/500px-Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg",
+  "og": "https://bohan.seadice.win/img/street-lighting-crime-research-og.jpg",
+  "local": true
  },
  "bicycle-theft-unlocked-statistics": {
   "file": "File:Bike locked to post and ring on sidewalk, King Street, Toronto.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bike_locked_to_post_and_ring_on_sidewalk%2C_King_Street%2C_Toronto.jpg/960px-Bike_locked_to_post_and_ring_on_sidewalk%2C_King_Street%2C_Toronto.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bike_locked_to_post_and_ring_on_sidewalk%2C_King_Street%2C_Toronto.jpg/500px-Bike_locked_to_post_and_ring_on_sidewalk%2C_King_Street%2C_Toronto.jpg",
+  "src": "https://bohan.seadice.win/img/bicycle-theft-unlocked-statistics.webp",
+  "src640": "https://bohan.seadice.win/img/bicycle-theft-unlocked-statistics-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "bike parking on sidewalk",
@@ -49,12 +61,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Bike_locked_to_post_and_ring_on_sidewalk,_King_Street,_Toronto.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bike_locked_to_post_and_ring_on_sidewalk%2C_King_Street%2C_Toronto.jpg/960px-Bike_locked_to_post_and_ring_on_sidewalk%2C_King_Street%2C_Toronto.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bike_locked_to_post_and_ring_on_sidewalk%2C_King_Street%2C_Toronto.jpg/500px-Bike_locked_to_post_and_ring_on_sidewalk%2C_King_Street%2C_Toronto.jpg",
+  "og": "https://bohan.seadice.win/img/bicycle-theft-unlocked-statistics-og.jpg",
+  "local": true
  },
  "child-stranger-approach-after-school": {
   "file": "File:WB CR 218 School crosswalk dashcam.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WB_CR_218_School_crosswalk_dashcam.jpg/960px-WB_CR_218_School_crosswalk_dashcam.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WB_CR_218_School_crosswalk_dashcam.jpg/500px-WB_CR_218_School_crosswalk_dashcam.jpg",
+  "src": "https://bohan.seadice.win/img/child-stranger-approach-after-school.webp",
+  "src640": "https://bohan.seadice.win/img/child-stranger-approach-after-school-sm.webp",
   "w": 960,
   "h": 540,
   "alt": "WB CR 218 School crosswalk, Clay County, Florida",
@@ -62,12 +78,16 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:WB_CR_218_School_crosswalk_dashcam.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WB_CR_218_School_crosswalk_dashcam.jpg/960px-WB_CR_218_School_crosswalk_dashcam.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WB_CR_218_School_crosswalk_dashcam.jpg/500px-WB_CR_218_School_crosswalk_dashcam.jpg",
+  "og": "https://bohan.seadice.win/img/child-stranger-approach-after-school-og.jpg",
+  "local": true
  },
  "auto-lock-apartment-burglary": {
   "file": "File:Dr.-von-Daller-Straße 24 (Freising).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29.jpg/960px-Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29.jpg/500px-Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29.jpg",
+  "src": "https://bohan.seadice.win/img/auto-lock-apartment-burglary.webp",
+  "src640": "https://bohan.seadice.win/img/auto-lock-apartment-burglary-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "apartment building at Dr.-von-Daller-Straße 24 in Freising-Neustift (Upper Bavaria, Germany)",
@@ -75,12 +95,16 @@
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Dr.-von-Daller-Stra%C3%9Fe_24_(Freising).jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29.jpg/960px-Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29.jpg/500px-Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29.jpg",
+  "og": "https://bohan.seadice.win/img/auto-lock-apartment-burglary-og.jpg",
+  "local": true
  },
  "cctv-crime-prevention-research": {
   "file": "File:CCTV is watching you - geograph.org.uk - 4394886.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg/960px-CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg/500px-CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg",
+  "src": "https://bohan.seadice.win/img/cctv-crime-prevention-research.webp",
+  "src640": "https://bohan.seadice.win/img/cctv-crime-prevention-research-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "CCTV is watching you",
@@ -88,12 +112,16 @@
   "license": "CC BY-SA 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg/960px-CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg/500px-CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg",
+  "og": "https://bohan.seadice.win/img/cctv-crime-prevention-research-og.jpg",
+  "local": true
  },
  "neighbors-collective-efficacy-crime": {
   "file": "File:Residential houses in Shimo-igusa Suginami Tokyo with taped windows affected by Typhoon Hagibis 20191012 085458.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Residential_houses_in_Shimo-igusa_Suginami_Tokyo_with_taped_windows_affected_by_Typhoon_Hagibis_20191012_085458.jpg/960px-Residential_houses_in_Shimo-igusa_Suginami_Tokyo_with_taped_windows_affected_by_Typhoon_Hagibis_20191012_085458.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Residential_houses_in_Shimo-igusa_Suginami_Tokyo_with_taped_windows_affected_by_Typhoon_Hagibis_20191012_085458.jpg/500px-Residential_houses_in_Shimo-igusa_Suginami_Tokyo_with_taped_windows_affected_by_Typhoon_Hagibis_20191012_085458.jpg",
+  "src": "https://bohan.seadice.win/img/neighbors-collective-efficacy-crime.webp",
+  "src640": "https://bohan.seadice.win/img/neighbors-collective-efficacy-crime-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "Residential houses with taped windows affected by typhoon Hagibis, photoed in Shimo-Igusa, Suginami, Tokyo, Japan.",
@@ -101,12 +129,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Residential_houses_in_Shimo-igusa_Suginami_Tokyo_with_taped_windows_affected_by_Typhoon_Hagibis_20191012_085458.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Residential_houses_in_Shimo-igusa_Suginami_Tokyo_with_taped_windows_affected_by_Typhoon_Hagibis_20191012_085458.jpg/960px-Residential_houses_in_Shimo-igusa_Suginami_Tokyo_with_taped_windows_affected_by_Typhoon_Hagibis_20191012_085458.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Residential_houses_in_Shimo-igusa_Suginami_Tokyo_with_taped_windows_affected_by_Typhoon_Hagibis_20191012_085458.jpg/500px-Residential_houses_in_Shimo-igusa_Suginami_Tokyo_with_taped_windows_affected_by_Typhoon_Hagibis_20191012_085458.jpg",
+  "og": "https://bohan.seadice.win/img/neighbors-collective-efficacy-crime-og.jpg",
+  "local": true
  },
  "repeat-burglary-victimization": {
   "file": "File:Door laying on the floor with broken glass and boarded up windows in an abandoned house in Doel, Belgium (DSCF3795).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Door_laying_on_the_floor_with_broken_glass_and_boarded_up_windows_in_an_abandoned_house_in_Doel%2C_Belgium_%28DSCF3795%29.jpg/960px-Door_laying_on_the_floor_with_broken_glass_and_boarded_up_windows_in_an_abandoned_house_in_Doel%2C_Belgium_%28DSCF3795%29.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Door_laying_on_the_floor_with_broken_glass_and_boarded_up_windows_in_an_abandoned_house_in_Doel%2C_Belgium_%28DSCF3795%29.jpg/500px-Door_laying_on_the_floor_with_broken_glass_and_boarded_up_windows_in_an_abandoned_house_in_Doel%2C_Belgium_%28DSCF3795%29.jpg",
+  "src": "https://bohan.seadice.win/img/repeat-burglary-victimization.webp",
+  "src640": "https://bohan.seadice.win/img/repeat-burglary-victimization-sm.webp",
   "w": 960,
   "h": 891,
   "alt": "Door laying on the floor with broken glass and boarded up windows in an abandoned house in Doel, Belgium",
@@ -114,12 +146,16 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Door_laying_on_the_floor_with_broken_glass_and_boarded_up_windows_in_an_abandoned_house_in_Doel,_Belgium_(DSCF3795).jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Door_laying_on_the_floor_with_broken_glass_and_boarded_up_windows_in_an_abandoned_house_in_Doel%2C_Belgium_%28DSCF3795%29.jpg/960px-Door_laying_on_the_floor_with_broken_glass_and_boarded_up_windows_in_an_abandoned_house_in_Doel%2C_Belgium_%28DSCF3795%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Door_laying_on_the_floor_with_broken_glass_and_boarded_up_windows_in_an_abandoned_house_in_Doel%2C_Belgium_%28DSCF3795%29.jpg/500px-Door_laying_on_the_floor_with_broken_glass_and_boarded_up_windows_in_an_abandoned_house_in_Doel%2C_Belgium_%28DSCF3795%29.jpg",
+  "og": "https://bohan.seadice.win/img/repeat-burglary-victimization-og.jpg",
+  "local": true
  },
  "stalking-acquaintance-consultation": {
   "file": "File:Pedestrian path on Panglima Besar Sudirman Street.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pedestrian_path_on_Panglima_Besar_Sudirman_Street.jpg/960px-Pedestrian_path_on_Panglima_Besar_Sudirman_Street.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pedestrian_path_on_Panglima_Besar_Sudirman_Street.jpg/500px-Pedestrian_path_on_Panglima_Besar_Sudirman_Street.jpg",
+  "src": "https://bohan.seadice.win/img/stalking-acquaintance-consultation.webp",
+  "src640": "https://bohan.seadice.win/img/stalking-acquaintance-consultation-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "Pedestrian path located right on the edge of the main road of Ngawi city",
@@ -127,12 +163,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Pedestrian_path_on_Panglima_Besar_Sudirman_Street.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pedestrian_path_on_Panglima_Besar_Sudirman_Street.jpg/960px-Pedestrian_path_on_Panglima_Besar_Sudirman_Street.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pedestrian_path_on_Panglima_Besar_Sudirman_Street.jpg/500px-Pedestrian_path_on_Panglima_Besar_Sudirman_Street.jpg",
+  "og": "https://bohan.seadice.win/img/stalking-acquaintance-consultation-og.jpg",
+  "local": true
  },
  "car-break-in-unlocked-visible-items": {
   "file": "File:Parking lot 20220501 234627.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Parking_lot_20220501_234627.jpg/960px-Parking_lot_20220501_234627.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Parking_lot_20220501_234627.jpg/500px-Parking_lot_20220501_234627.jpg",
+  "src": "https://bohan.seadice.win/img/car-break-in-unlocked-visible-items.webp",
+  "src640": "https://bohan.seadice.win/img/car-break-in-unlocked-visible-items-sm.webp",
   "w": 960,
   "h": 540,
   "alt": "Parking lot at night",
@@ -140,12 +180,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Parking_lot_20220501_234627.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Parking_lot_20220501_234627.jpg/960px-Parking_lot_20220501_234627.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Parking_lot_20220501_234627.jpg/500px-Parking_lot_20220501_234627.jpg",
+  "og": "https://bohan.seadice.win/img/car-break-in-unlocked-visible-items-og.jpg",
+  "local": true
  },
  "crime-displacement-diffusion-benefits": {
   "file": "File:House on suburban street in Sunshine, Victoria.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/House_on_suburban_street_in_Sunshine%2C_Victoria.jpg/960px-House_on_suburban_street_in_Sunshine%2C_Victoria.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/House_on_suburban_street_in_Sunshine%2C_Victoria.jpg/500px-House_on_suburban_street_in_Sunshine%2C_Victoria.jpg",
+  "src": "https://bohan.seadice.win/img/crime-displacement-diffusion-benefits.webp",
+  "src640": "https://bohan.seadice.win/img/crime-displacement-diffusion-benefits-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "House on suburban street in Sunshine, Victoria",
@@ -153,12 +197,16 @@
   "license": "CC BY-SA 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:House_on_suburban_street_in_Sunshine,_Victoria.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/House_on_suburban_street_in_Sunshine%2C_Victoria.jpg/960px-House_on_suburban_street_in_Sunshine%2C_Victoria.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/House_on_suburban_street_in_Sunshine%2C_Victoria.jpg/500px-House_on_suburban_street_in_Sunshine%2C_Victoria.jpg",
+  "og": "https://bohan.seadice.win/img/crime-displacement-diffusion-benefits-og.jpg",
+  "local": true
  },
  "why-burglary-declined-security": {
   "file": "File:Illuminated Residence at Night.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Illuminated_Residence_at_Night.jpg/960px-Illuminated_Residence_at_Night.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Illuminated_Residence_at_Night.jpg/500px-Illuminated_Residence_at_Night.jpg",
+  "src": "https://bohan.seadice.win/img/why-burglary-declined-security.webp",
+  "src640": "https://bohan.seadice.win/img/why-burglary-declined-security-sm.webp",
   "w": 960,
   "h": 712,
   "alt": "This image showcases a two-story residential house captured during the night, glowing with warm interior light. The architecture features a ",
@@ -166,12 +214,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Illuminated_Residence_at_Night.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Illuminated_Residence_at_Night.jpg/960px-Illuminated_Residence_at_Night.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Illuminated_Residence_at_Night.jpg/500px-Illuminated_Residence_at_Night.jpg",
+  "og": "https://bohan.seadice.win/img/why-burglary-declined-security-og.jpg",
+  "local": true
  },
  "safe-school-route-environment": {
   "file": "File:Private residential road off Bellevue Avenue in Newport.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Private_residential_road_off_Bellevue_Avenue_in_Newport.jpg/960px-Private_residential_road_off_Bellevue_Avenue_in_Newport.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Private_residential_road_off_Bellevue_Avenue_in_Newport.jpg/500px-Private_residential_road_off_Bellevue_Avenue_in_Newport.jpg",
+  "src": "https://bohan.seadice.win/img/safe-school-route-environment.webp",
+  "src640": "https://bohan.seadice.win/img/safe-school-route-environment-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "The photo depicts a residential driveway entrance during the daytime. The entrance is marked by a stone pillar on the left with the house nu",
@@ -179,12 +231,16 @@
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Private_residential_road_off_Bellevue_Avenue_in_Newport.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Private_residential_road_off_Bellevue_Avenue_in_Newport.jpg/960px-Private_residential_road_off_Bellevue_Avenue_in_Newport.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Private_residential_road_off_Bellevue_Avenue_in_Newport.jpg/500px-Private_residential_road_off_Bellevue_Avenue_in_Newport.jpg",
+  "og": "https://bohan.seadice.win/img/safe-school-route-environment-og.jpg",
+  "local": true
  },
  "fear-of-crime-vs-statistics": {
   "file": "File:DSC 8420 Evening stroll along a palmlined beachfront promenade with people walking street vendors and city buildings in the distance.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg/960px-DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg/500px-DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg",
+  "src": "https://bohan.seadice.win/img/fear-of-crime-vs-statistics.webp",
+  "src640": "https://bohan.seadice.win/img/fear-of-crime-vs-statistics-sm.webp",
   "w": 960,
   "h": 639,
   "alt": "This photo depicts a lively beach scene with a group of people walking down a sidewalk near the ocean. There are several individuals in the ",
@@ -192,12 +248,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg/960px-DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg/500px-DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg",
+  "og": "https://bohan.seadice.win/img/fear-of-crime-vs-statistics-og.jpg",
+  "local": true
  },
  "window-glass-breaking-burglary": {
   "file": "File:MapleSt HouseDetails Hall Window Latch Carrollton New Orleans.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/MapleSt_HouseDetails_Hall_Window_Latch_Carrollton_New_Orleans.jpg/960px-MapleSt_HouseDetails_Hall_Window_Latch_Carrollton_New_Orleans.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/MapleSt_HouseDetails_Hall_Window_Latch_Carrollton_New_Orleans.jpg/500px-MapleSt_HouseDetails_Hall_Window_Latch_Carrollton_New_Orleans.jpg",
+  "src": "https://bohan.seadice.win/img/window-glass-breaking-burglary.webp",
+  "src640": "https://bohan.seadice.win/img/window-glass-breaking-burglary-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "detail in house in the Carrollton Historic District, New Orleans",
@@ -205,12 +265,16 @@
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:MapleSt_HouseDetails_Hall_Window_Latch_Carrollton_New_Orleans.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/MapleSt_HouseDetails_Hall_Window_Latch_Carrollton_New_Orleans.jpg/960px-MapleSt_HouseDetails_Hall_Window_Latch_Carrollton_New_Orleans.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/MapleSt_HouseDetails_Hall_Window_Latch_Carrollton_New_Orleans.jpg/500px-MapleSt_HouseDetails_Hall_Window_Latch_Carrollton_New_Orleans.jpg",
+  "og": "https://bohan.seadice.win/img/window-glass-breaking-burglary-og.jpg",
+  "local": true
  },
  "home-invasion-robbery-at-home": {
   "file": "File:Intercom in Massy.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Intercom_in_Massy.jpg/960px-Intercom_in_Massy.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Intercom_in_Massy.jpg/500px-Intercom_in_Massy.jpg",
+  "src": "https://bohan.seadice.win/img/home-invasion-robbery-at-home.webp",
+  "src640": "https://bohan.seadice.win/img/home-invasion-robbery-at-home-sm.webp",
   "w": 960,
   "h": 813,
   "alt": "Cement glue texture in France",
@@ -218,12 +282,16 @@
   "license": "CC BY-SA 3.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:Intercom_in_Massy.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Intercom_in_Massy.jpg/960px-Intercom_in_Massy.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Intercom_in_Massy.jpg/500px-Intercom_in_Massy.jpg",
+  "og": "https://bohan.seadice.win/img/home-invasion-robbery-at-home-og.jpg",
+  "local": true
  },
  "vacation-empty-home-burglary": {
   "file": "File:Letterboxes Ocotillo Wells 2013.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Letterboxes_Ocotillo_Wells_2013.jpg/960px-Letterboxes_Ocotillo_Wells_2013.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Letterboxes_Ocotillo_Wells_2013.jpg/500px-Letterboxes_Ocotillo_Wells_2013.jpg",
+  "src": "https://bohan.seadice.win/img/vacation-empty-home-burglary.webp",
+  "src640": "https://bohan.seadice.win/img/vacation-empty-home-burglary-sm.webp",
   "w": 960,
   "h": 636,
   "alt": "Letterboxes at Ocotillo Wells, CA, USA.",
@@ -231,12 +299,16 @@
   "license": "CC BY-SA 3.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:Letterboxes_Ocotillo_Wells_2013.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Letterboxes_Ocotillo_Wells_2013.jpg/960px-Letterboxes_Ocotillo_Wells_2013.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Letterboxes_Ocotillo_Wells_2013.jpg/500px-Letterboxes_Ocotillo_Wells_2013.jpg",
+  "og": "https://bohan.seadice.win/img/vacation-empty-home-burglary-og.jpg",
+  "local": true
  },
  "night-darkness-robbery-risk": {
   "file": "File:DSCF1036 Empty city street at night with streaks of headlights and glowing streetlights lining the road.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/DSCF1036_Empty_city_street_at_night_with_streaks_of_headlights_and_glowing_streetlights_lining_the_road.jpg/960px-DSCF1036_Empty_city_street_at_night_with_streaks_of_headlights_and_glowing_streetlights_lining_the_road.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/DSCF1036_Empty_city_street_at_night_with_streaks_of_headlights_and_glowing_streetlights_lining_the_road.jpg/500px-DSCF1036_Empty_city_street_at_night_with_streaks_of_headlights_and_glowing_streetlights_lining_the_road.jpg",
+  "src": "https://bohan.seadice.win/img/night-darkness-robbery-risk.webp",
+  "src640": "https://bohan.seadice.win/img/night-darkness-robbery-risk-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "This photo shows a nighttime street scene with a long-exposure effect capturing the streaks of light from passing vehicles on what appears t",
@@ -244,12 +316,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:DSCF1036_Empty_city_street_at_night_with_streaks_of_headlights_and_glowing_streetlights_lining_the_road.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/DSCF1036_Empty_city_street_at_night_with_streaks_of_headlights_and_glowing_streetlights_lining_the_road.jpg/960px-DSCF1036_Empty_city_street_at_night_with_streaks_of_headlights_and_glowing_streetlights_lining_the_road.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/DSCF1036_Empty_city_street_at_night_with_streaks_of_headlights_and_glowing_streetlights_lining_the_road.jpg/500px-DSCF1036_Empty_city_street_at_night_with_streaks_of_headlights_and_glowing_streetlights_lining_the_road.jpg",
+  "og": "https://bohan.seadice.win/img/night-darkness-robbery-risk-og.jpg",
+  "local": true
  },
  "child-home-alone-safety-rules": {
   "file": "File:Cape Town (ZA), Wale Street -- 2024 -- 3536.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cape_Town_%28ZA%29%2C_Wale_Street_--_2024_--_3536.jpg/960px-Cape_Town_%28ZA%29%2C_Wale_Street_--_2024_--_3536.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cape_Town_%28ZA%29%2C_Wale_Street_--_2024_--_3536.jpg/500px-Cape_Town_%28ZA%29%2C_Wale_Street_--_2024_--_3536.jpg",
+  "src": "https://bohan.seadice.win/img/child-home-alone-safety-rules.webp",
+  "src640": "https://bohan.seadice.win/img/child-home-alone-safety-rules-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "Colorful houses in Wale Street, Cape Town, Western Cape, South AfricaBo-Kaap is a historic neighborhood above the center of Cape Town. It wa",
@@ -257,12 +333,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Cape_Town_(ZA),_Wale_Street_--_2024_--_3536.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cape_Town_%28ZA%29%2C_Wale_Street_--_2024_--_3536.jpg/960px-Cape_Town_%28ZA%29%2C_Wale_Street_--_2024_--_3536.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cape_Town_%28ZA%29%2C_Wale_Street_--_2024_--_3536.jpg/500px-Cape_Town_%28ZA%29%2C_Wale_Street_--_2024_--_3536.jpg",
+  "og": "https://bohan.seadice.win/img/child-home-alone-safety-rules-og.jpg",
+  "local": true
  },
  "deepfake-video-celebrity-ad": {
   "file": "File:Code on computer monitor (Unsplash).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/960px-Code_on_computer_monitor_%28Unsplash%29.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/500px-Code_on_computer_monitor_%28Unsplash%29.jpg",
+  "src": "https://bohan.seadice.win/img/deepfake-video-celebrity-ad.webp",
+  "src640": "https://bohan.seadice.win/img/deepfake-video-celebrity-ad-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "Markus Spiske 2017-02-14",
@@ -270,12 +350,16 @@
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Code_on_computer_monitor_(Unsplash).jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/960px-Code_on_computer_monitor_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/500px-Code_on_computer_monitor_%28Unsplash%29.jpg",
+  "og": "https://bohan.seadice.win/img/deepfake-video-celebrity-ad-og.jpg",
+  "local": true
  },
  "ai-voice-clone-family-scam": {
   "file": "File:Grey rotary dial telephone.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Grey_rotary_dial_telephone.jpg/960px-Grey_rotary_dial_telephone.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Grey_rotary_dial_telephone.jpg/500px-Grey_rotary_dial_telephone.jpg",
+  "src": "https://bohan.seadice.win/img/ai-voice-clone-family-scam.webp",
+  "src640": "https://bohan.seadice.win/img/ai-voice-clone-family-scam-sm.webp",
   "w": 960,
   "h": 686,
   "alt": "Teléfono fijo de sobremesa de color gris, equipado con disco de marcación rotatorio y auricular conectado mediante cable en espiral",
@@ -283,12 +367,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Grey_rotary_dial_telephone.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Grey_rotary_dial_telephone.jpg/960px-Grey_rotary_dial_telephone.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Grey_rotary_dial_telephone.jpg/500px-Grey_rotary_dial_telephone.jpg",
+  "og": "https://bohan.seadice.win/img/ai-voice-clone-family-scam-og.jpg",
+  "local": true
  },
  "sns-investment-scam-line": {
   "file": "File:Colored pen and smartphone on a table (Unsplash 36nRvt6EP2I).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg/960px-Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg/500px-Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg",
+  "src": "https://bohan.seadice.win/img/sns-investment-scam-line.webp",
+  "src640": "https://bohan.seadice.win/img/sns-investment-scam-line-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "Gabriel Santiago 2015-05-28",
@@ -296,12 +384,16 @@
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Colored_pen_and_smartphone_on_a_table_(Unsplash_36nRvt6EP2I).jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg/960px-Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg/500px-Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg",
+  "og": "https://bohan.seadice.win/img/sns-investment-scam-line-og.jpg",
+  "local": true
  },
  "fake-police-call-scam": {
   "file": "File:Payphone in Ōmori Station 3.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Payphone_in_%C5%8Cmori_Station_3.jpg/960px-Payphone_in_%C5%8Cmori_Station_3.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Payphone_in_%C5%8Cmori_Station_3.jpg/500px-Payphone_in_%C5%8Cmori_Station_3.jpg",
+  "src": "https://bohan.seadice.win/img/fake-police-call-scam.webp",
+  "src640": "https://bohan.seadice.win/img/fake-police-call-scam-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "Payphone in Ōmori Station (railway station in Ōta, Tokyo, Japan)",
@@ -309,12 +401,16 @@
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Payphone_in_%C5%8Cmori_Station_3.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Payphone_in_%C5%8Cmori_Station_3.jpg/960px-Payphone_in_%C5%8Cmori_Station_3.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Payphone_in_%C5%8Cmori_Station_3.jpg/500px-Payphone_in_%C5%8Cmori_Station_3.jpg",
+  "og": "https://bohan.seadice.win/img/fake-police-call-scam-og.jpg",
+  "local": true
  },
  "tech-support-scam-popup": {
   "file": "File:Backlit keyboard.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Backlit_keyboard.jpg/960px-Backlit_keyboard.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Backlit_keyboard.jpg/500px-Backlit_keyboard.jpg",
+  "src": "https://bohan.seadice.win/img/tech-support-scam-popup.webp",
+  "src640": "https://bohan.seadice.win/img/tech-support-scam-popup-sm.webp",
   "w": 960,
   "h": 540,
   "alt": "A backlit laptop computer keyboard. Most fingers are on the \"home\" keys for touch-typing; the 'U' key is being pressed.",
@@ -322,12 +418,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Backlit_keyboard.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Backlit_keyboard.jpg/960px-Backlit_keyboard.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Backlit_keyboard.jpg/500px-Backlit_keyboard.jpg",
+  "og": "https://bohan.seadice.win/img/tech-support-scam-popup-og.jpg",
+  "local": true
  },
  "international-call-block-scam": {
   "file": "File:66a3aDTMFpad.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/66a3aDTMFpad.jpg/960px-66a3aDTMFpad.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/66a3aDTMFpad.jpg/500px-66a3aDTMFpad.jpg",
+  "src": "https://bohan.seadice.win/img/international-call-block-scam.webp",
+  "src640": "https://bohan.seadice.win/img/international-call-block-scam-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "Picture of Western Electric model 66A3A DTMF (\"Touch Tone\") keypad showing additional feature buttons for the Autovon system marked 'FO' 'F'",
@@ -335,12 +435,16 @@
   "license": "Public domain",
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:66a3aDTMFpad.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/66a3aDTMFpad.jpg/960px-66a3aDTMFpad.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/66a3aDTMFpad.jpg/500px-66a3aDTMFpad.jpg",
+  "og": "https://bohan.seadice.win/img/international-call-block-scam-og.jpg",
+  "local": true
  },
  "romance-scam-matching-app": {
   "file": "File:My Paper Heart (2204658123).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/My_Paper_Heart_%282204658123%29.jpg/960px-My_Paper_Heart_%282204658123%29.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/My_Paper_Heart_%282204658123%29.jpg/500px-My_Paper_Heart_%282204658123%29.jpg",
+  "src": "https://bohan.seadice.win/img/romance-scam-matching-app.webp",
+  "src640": "https://bohan.seadice.win/img/romance-scam-matching-app-sm.webp",
   "w": 960,
   "h": 610,
   "alt": "Please Just Don't Play With Me!",
@@ -348,12 +452,16 @@
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:My_Paper_Heart_(2204658123).jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/My_Paper_Heart_%282204658123%29.jpg/960px-My_Paper_Heart_%282204658123%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/My_Paper_Heart_%282204658123%29.jpg/500px-My_Paper_Heart_%282204658123%29.jpg",
+  "og": "https://bohan.seadice.win/img/romance-scam-matching-app-og.jpg",
+  "local": true
  },
  "yami-baito-recruitment-signs": {
   "file": "File:Empty city - Flickr - Stiller Beobachter.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Empty_city_-_Flickr_-_Stiller_Beobachter.jpg/960px-Empty_city_-_Flickr_-_Stiller_Beobachter.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Empty_city_-_Flickr_-_Stiller_Beobachter.jpg/500px-Empty_city_-_Flickr_-_Stiller_Beobachter.jpg",
+  "src": "https://bohan.seadice.win/img/yami-baito-recruitment-signs.webp",
+  "src640": "https://bohan.seadice.win/img/yami-baito-recruitment-signs-sm.webp",
   "w": 960,
   "h": 724,
   "alt": "Empty Ansbach",
@@ -361,25 +469,33 @@
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Empty_city_-_Flickr_-_Stiller_Beobachter.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Empty_city_-_Flickr_-_Stiller_Beobachter.jpg/960px-Empty_city_-_Flickr_-_Stiller_Beobachter.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Empty_city_-_Flickr_-_Stiller_Beobachter.jpg/500px-Empty_city_-_Flickr_-_Stiller_Beobachter.jpg",
+  "og": "https://bohan.seadice.win/img/yami-baito-recruitment-signs-og.jpg",
+  "local": true
  },
  "two-factor-passkey-account": {
   "file": "https://cdn.stocksnap.io/img-thumbs/960w/QJJSNYH0UH.jpg",
-  "src": "https://cdn.stocksnap.io/img-thumbs/960w/QJJSNYH0UH.jpg",
-  "src640": "https://cdn.stocksnap.io/img-thumbs/960w/QJJSNYH0UH.jpg",
-  "w": 4302,
-  "h": 2868,
+  "src": "https://bohan.seadice.win/img/two-factor-passkey-account.webp",
+  "src640": "https://bohan.seadice.win/img/two-factor-passkey-account-sm.webp",
+  "w": 960,
+  "h": 640,
   "alt": "Padlock City",
   "artist": "Tricia Gray",
   "license": "CC0",
   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
   "page": "https://stocksnap.io/photo/padlock-city-QJJSNYH0UH",
-  "source_label": "Stocksnap"
+  "source_label": "Stocksnap",
+  "remote": "https://cdn.stocksnap.io/img-thumbs/960w/QJJSNYH0UH.jpg",
+  "remote640": "https://cdn.stocksnap.io/img-thumbs/960w/QJJSNYH0UH.jpg",
+  "og": "https://bohan.seadice.win/img/two-factor-passkey-account-og.jpg",
+  "local": true
  },
  "phishing-mail-sms-2025": {
   "file": "File:02023 fishing hook (Clark), Radusz around 7800 BC — 5400 BC.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/02023_fishing_hook_%28Clark%29%2C_Radusz_around_7800_BC_%E2%80%94_5400_BC.jpg/960px-02023_fishing_hook_%28Clark%29%2C_Radusz_around_7800_BC_%E2%80%94_5400_BC.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/02023_fishing_hook_%28Clark%29%2C_Radusz_around_7800_BC_%E2%80%94_5400_BC.jpg/500px-02023_fishing_hook_%28Clark%29%2C_Radusz_around_7800_BC_%E2%80%94_5400_BC.jpg",
+  "src": "https://bohan.seadice.win/img/phishing-mail-sms-2025.webp",
+  "src640": "https://bohan.seadice.win/img/phishing-mail-sms-2025-sm.webp",
   "w": 960,
   "h": 413,
   "alt": "mns/a/22060 The sharp end of the lower part of the hook is a characteristic feature of products of this type for the Middle and Late Mesolit",
@@ -387,12 +503,16 @@
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:02023_fishing_hook_(Clark),_Radusz_around_7800_BC_%E2%80%94_5400_BC.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/02023_fishing_hook_%28Clark%29%2C_Radusz_around_7800_BC_%E2%80%94_5400_BC.jpg/960px-02023_fishing_hook_%28Clark%29%2C_Radusz_around_7800_BC_%E2%80%94_5400_BC.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/02023_fishing_hook_%28Clark%29%2C_Radusz_around_7800_BC_%E2%80%94_5400_BC.jpg/500px-02023_fishing_hook_%28Clark%29%2C_Radusz_around_7800_BC_%E2%80%94_5400_BC.jpg",
+  "og": "https://bohan.seadice.win/img/phishing-mail-sms-2025-og.jpg",
+  "local": true
  },
  "ai-fake-sexual-image-children": {
   "file": "File:Today's a work day.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Today%27s_a_work_day.jpg/960px-Today%27s_a_work_day.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Today%27s_a_work_day.jpg/500px-Today%27s_a_work_day.jpg",
+  "src": "https://bohan.seadice.win/img/ai-fake-sexual-image-children.webp",
+  "src640": "https://bohan.seadice.win/img/ai-fake-sexual-image-children-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "Desks and chairs",
@@ -400,12 +520,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Today%27s_a_work_day.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Today%27s_a_work_day.jpg/960px-Today%27s_a_work_day.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Today%27s_a_work_day.jpg/500px-Today%27s_a_work_day.jpg",
+  "og": "https://bohan.seadice.win/img/ai-fake-sexual-image-children-og.jpg",
+  "local": true
  },
  "watching-eyes-sign-crime": {
   "file": "File:Colorful metal bicycle parking rack in Lysekil 2.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg/960px-Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg/500px-Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg",
+  "src": "https://bohan.seadice.win/img/watching-eyes-sign-crime.webp",
+  "src640": "https://bohan.seadice.win/img/watching-eyes-sign-crime-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "A colorful metal bicycle parking rack at Valbogatan in autumn, Lysekil, Sweden.",
@@ -413,12 +537,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg/960px-Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg/500px-Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg",
+  "og": "https://bohan.seadice.win/img/watching-eyes-sign-crime-og.jpg",
+  "local": true
  },
  "crime-hot-spots-concentration": {
   "file": "File:Québec city at night, view from Lévis city.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Qu%C3%A9bec_city_at_night%2C_view_from_L%C3%A9vis_city.jpg/960px-Qu%C3%A9bec_city_at_night%2C_view_from_L%C3%A9vis_city.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Qu%C3%A9bec_city_at_night%2C_view_from_L%C3%A9vis_city.jpg/500px-Qu%C3%A9bec_city_at_night%2C_view_from_L%C3%A9vis_city.jpg",
+  "src": "https://bohan.seadice.win/img/crime-hot-spots-concentration.webp",
+  "src640": "https://bohan.seadice.win/img/crime-hot-spots-concentration-sm.webp",
   "w": 960,
   "h": 630,
   "alt": "Québec city at night, view from Lévis city",
@@ -426,12 +554,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Qu%C3%A9bec_city_at_night,_view_from_L%C3%A9vis_city.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Qu%C3%A9bec_city_at_night%2C_view_from_L%C3%A9vis_city.jpg/960px-Qu%C3%A9bec_city_at_night%2C_view_from_L%C3%A9vis_city.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Qu%C3%A9bec_city_at_night%2C_view_from_L%C3%A9vis_city.jpg/500px-Qu%C3%A9bec_city_at_night%2C_view_from_L%C3%A9vis_city.jpg",
+  "og": "https://bohan.seadice.win/img/crime-hot-spots-concentration-og.jpg",
+  "local": true
  },
  "vacant-land-restoration-crime": {
   "file": "File:Unidentified rowhouse - DPLA - a07afca63d101a2a929886f7e8a455a5.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unidentified_rowhouse_-_DPLA_-_a07afca63d101a2a929886f7e8a455a5.jpg/960px-Unidentified_rowhouse_-_DPLA_-_a07afca63d101a2a929886f7e8a455a5.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unidentified_rowhouse_-_DPLA_-_a07afca63d101a2a929886f7e8a455a5.jpg/500px-Unidentified_rowhouse_-_DPLA_-_a07afca63d101a2a929886f7e8a455a5.jpg",
+  "src": "https://bohan.seadice.win/img/vacant-land-restoration-crime.webp",
+  "src640": "https://bohan.seadice.win/img/vacant-land-restoration-crime-sm.webp",
   "w": 960,
   "h": 643,
   "alt": "An unidentified two-story brick row house. At this point in time, the building is abandoned and some of the windows are broken. The empty lo",
@@ -439,12 +571,16 @@
   "license": "Public domain",
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Unidentified_rowhouse_-_DPLA_-_a07afca63d101a2a929886f7e8a455a5.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unidentified_rowhouse_-_DPLA_-_a07afca63d101a2a929886f7e8a455a5.jpg/960px-Unidentified_rowhouse_-_DPLA_-_a07afca63d101a2a929886f7e8a455a5.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unidentified_rowhouse_-_DPLA_-_a07afca63d101a2a929886f7e8a455a5.jpg/500px-Unidentified_rowhouse_-_DPLA_-_a07afca63d101a2a929886f7e8a455a5.jpg",
+  "og": "https://bohan.seadice.win/img/vacant-land-restoration-crime-og.jpg",
+  "local": true
  },
  "crypto-transfer-scam-signs": {
   "file": "File:Bitcoin BTC Golden coins 8K wallpaper.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin_BTC_Golden_coins_8K_wallpaper.jpg/960px-Bitcoin_BTC_Golden_coins_8K_wallpaper.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin_BTC_Golden_coins_8K_wallpaper.jpg/500px-Bitcoin_BTC_Golden_coins_8K_wallpaper.jpg",
+  "src": "https://bohan.seadice.win/img/crypto-transfer-scam-signs.webp",
+  "src640": "https://bohan.seadice.win/img/crypto-transfer-scam-signs-sm.webp",
   "w": 960,
   "h": 320,
   "alt": "Creative Bitcoin BTC crypto currency golden coins ultra high Definition 8K wallpaper.",
@@ -452,12 +588,16 @@
   "license": "CC BY-SA 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_Golden_coins_8K_wallpaper.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin_BTC_Golden_coins_8K_wallpaper.jpg/960px-Bitcoin_BTC_Golden_coins_8K_wallpaper.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin_BTC_Golden_coins_8K_wallpaper.jpg/500px-Bitcoin_BTC_Golden_coins_8K_wallpaper.jpg",
+  "og": "https://bohan.seadice.win/img/crypto-transfer-scam-signs-og.jpg",
+  "local": true
  },
  "ai-written-phishing-email": {
   "file": "File:Camera zoom burst on a Microsoft computer keyboard in Tuntorp 8.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Camera_zoom_burst_on_a_Microsoft_computer_keyboard_in_Tuntorp_8.jpg/960px-Camera_zoom_burst_on_a_Microsoft_computer_keyboard_in_Tuntorp_8.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Camera_zoom_burst_on_a_Microsoft_computer_keyboard_in_Tuntorp_8.jpg/500px-Camera_zoom_burst_on_a_Microsoft_computer_keyboard_in_Tuntorp_8.jpg",
+  "src": "https://bohan.seadice.win/img/ai-written-phishing-email.webp",
+  "src640": "https://bohan.seadice.win/img/ai-written-phishing-email-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "Camera zoom burst, centering on the letter \"U\", on a black Microsoft Wired 600 computer keyboard with Swedish language characters. This is o",
@@ -465,12 +605,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Camera_zoom_burst_on_a_Microsoft_computer_keyboard_in_Tuntorp_8.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Camera_zoom_burst_on_a_Microsoft_computer_keyboard_in_Tuntorp_8.jpg/960px-Camera_zoom_burst_on_a_Microsoft_computer_keyboard_in_Tuntorp_8.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Camera_zoom_burst_on_a_Microsoft_computer_keyboard_in_Tuntorp_8.jpg/500px-Camera_zoom_burst_on_a_Microsoft_computer_keyboard_in_Tuntorp_8.jpg",
+  "og": "https://bohan.seadice.win/img/ai-written-phishing-email-og.jpg",
+  "local": true
  },
  "qr-code-phishing-sticker": {
   "file": "File:Mobile Payment.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mobile_Payment.jpg/960px-Mobile_Payment.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mobile_Payment.jpg/500px-Mobile_Payment.jpg",
+  "src": "https://bohan.seadice.win/img/qr-code-phishing-sticker.webp",
+  "src640": "https://bohan.seadice.win/img/qr-code-phishing-sticker-sm.webp",
   "w": 960,
   "h": 716,
   "alt": "Ein Zahlungsvorgang mittels Smartphone und der VeroPay-App. Dabei wird ein am Display dargestellter EAN-Barcode mit dem Kassenscanner abgele",
@@ -478,12 +622,16 @@
   "license": "CC BY-SA 3.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:Mobile_Payment.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mobile_Payment.jpg/960px-Mobile_Payment.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mobile_Payment.jpg/500px-Mobile_Payment.jpg",
+  "og": "https://bohan.seadice.win/img/qr-code-phishing-sticker-og.jpg",
+  "local": true
  },
  "fake-shopping-site-checklist": {
   "file": "File:Credit card terminal in Laos.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Credit_card_terminal_in_Laos.jpg/960px-Credit_card_terminal_in_Laos.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Credit_card_terminal_in_Laos.jpg/500px-Credit_card_terminal_in_Laos.jpg",
+  "src": "https://bohan.seadice.win/img/fake-shopping-site-checklist.webp",
+  "src640": "https://bohan.seadice.win/img/fake-shopping-site-checklist-sm.webp",
   "w": 960,
   "h": 960,
   "alt": "Processing credit card terminal with a visa card inserted, in Laos. Picture made by the focus stacking technique from 4 images (Helicon focu",
@@ -491,12 +639,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Credit_card_terminal_in_Laos.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Credit_card_terminal_in_Laos.jpg/960px-Credit_card_terminal_in_Laos.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Credit_card_terminal_in_Laos.jpg/500px-Credit_card_terminal_in_Laos.jpg",
+  "og": "https://bohan.seadice.win/img/fake-shopping-site-checklist-og.jpg",
+  "local": true
  },
  "sns-photo-location-home": {
   "file": "File:Window and door on weathered garage wall.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Window_and_door_on_weathered_garage_wall.jpg/960px-Window_and_door_on_weathered_garage_wall.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Window_and_door_on_weathered_garage_wall.jpg/500px-Window_and_door_on_weathered_garage_wall.jpg",
+  "src": "https://bohan.seadice.win/img/sns-photo-location-home.webp",
+  "src640": "https://bohan.seadice.win/img/sns-photo-location-home-sm.webp",
   "w": 960,
   "h": 693,
   "alt": "A window and door on the wall of an old garage outside Walden, NY, USA",
@@ -504,12 +656,16 @@
   "license": "CC BY-SA 3.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:Window_and_door_on_weathered_garage_wall.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Window_and_door_on_weathered_garage_wall.jpg/960px-Window_and_door_on_weathered_garage_wall.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Window_and_door_on_weathered_garage_wall.jpg/500px-Window_and_door_on_weathered_garage_wall.jpg",
+  "og": "https://bohan.seadice.win/img/sns-photo-location-home-og.jpg",
+  "local": true
  },
  "password-reuse-risk": {
   "file": "File:Solex 99 30 padlock with keys (DSCF2659).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Solex_99_30_padlock_with_keys_%28DSCF2659%29.jpg/960px-Solex_99_30_padlock_with_keys_%28DSCF2659%29.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Solex_99_30_padlock_with_keys_%28DSCF2659%29.jpg/500px-Solex_99_30_padlock_with_keys_%28DSCF2659%29.jpg",
+  "src": "https://bohan.seadice.win/img/password-reuse-risk.webp",
+  "src640": "https://bohan.seadice.win/img/password-reuse-risk-sm.webp",
   "w": 960,
   "h": 874,
   "alt": "Solex 99 30 lock with keys (DSCF2659)",
@@ -517,12 +673,16 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Solex_99_30_padlock_with_keys_(DSCF2659).jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Solex_99_30_padlock_with_keys_%28DSCF2659%29.jpg/960px-Solex_99_30_padlock_with_keys_%28DSCF2659%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Solex_99_30_padlock_with_keys_%28DSCF2659%29.jpg/500px-Solex_99_30_padlock_with_keys_%28DSCF2659%29.jpg",
+  "og": "https://bohan.seadice.win/img/password-reuse-risk-og.jpg",
+  "local": true
  },
  "child-sns-grooming-victims": {
   "file": "File:HP Elite X3.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/HP_Elite_X3.jpg/960px-HP_Elite_X3.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/HP_Elite_X3.jpg/500px-HP_Elite_X3.jpg",
+  "src": "https://bohan.seadice.win/img/child-sns-grooming-victims.webp",
+  "src640": "https://bohan.seadice.win/img/child-sns-grooming-victims-sm.webp",
   "w": 960,
   "h": 717,
   "alt": "Este es el HP Elite X3, el teléfono más potente con Windows 10 y el sucesor del convertible HP Elite X2.",
@@ -530,12 +690,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:HP_Elite_X3.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/HP_Elite_X3.jpg/960px-HP_Elite_X3.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/HP_Elite_X3.jpg/500px-HP_Elite_X3.jpg",
+  "og": "https://bohan.seadice.win/img/child-sns-grooming-victims-og.jpg",
+  "local": true
  },
  "older-adults-fraud-psychology": {
   "file": "File:FeAp 92-1a - handset-4975.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FeAp_92-1a_-_handset-4975.jpg/960px-FeAp_92-1a_-_handset-4975.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FeAp_92-1a_-_handset-4975.jpg/500px-FeAp_92-1a_-_handset-4975.jpg",
+  "src": "https://bohan.seadice.win/img/older-adults-fraud-psychology.webp",
+  "src640": "https://bohan.seadice.win/img/older-adults-fraud-psychology-sm.webp",
   "w": 960,
   "h": 540,
   "alt": "FeAp 92-1a - handset",
@@ -543,12 +707,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:FeAp_92-1a_-_handset-4975.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FeAp_92-1a_-_handset-4975.jpg/960px-FeAp_92-1a_-_handset-4975.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FeAp_92-1a_-_handset-4975.jpg/500px-FeAp_92-1a_-_handset-4975.jpg",
+  "og": "https://bohan.seadice.win/img/older-adults-fraud-psychology-og.jpg",
+  "local": true
  },
  "vehicle-motorcycle-theft-immobilizer": {
   "file": "File:Toulouse-motorcycle.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Toulouse-motorcycle.jpg/960px-Toulouse-motorcycle.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Toulouse-motorcycle.jpg/500px-Toulouse-motorcycle.jpg",
+  "src": "https://bohan.seadice.win/img/vehicle-motorcycle-theft-immobilizer.webp",
+  "src640": "https://bohan.seadice.win/img/vehicle-motorcycle-theft-immobilizer-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "A brightly painted motorcycle with various patterns on different parts of the bike, parked on a street in Toulouse, France in front of a red",
@@ -556,12 +724,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Toulouse-motorcycle.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Toulouse-motorcycle.jpg/960px-Toulouse-motorcycle.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Toulouse-motorcycle.jpg/500px-Toulouse-motorcycle.jpg",
+  "og": "https://bohan.seadice.win/img/vehicle-motorcycle-theft-immobilizer-og.jpg",
+  "local": true
  },
  "door-to-door-inspection-scam": {
   "file": "File:ABB installation contactor (German - Installationsschütz) 240V 24A installed in fuse box in Germany.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ABB_installation_contactor_%28German_-_Installationssch%C3%BCtz%29_240V_24A_installed_in_fuse_box_in_Germany.jpg/960px-ABB_installation_contactor_%28German_-_Installationssch%C3%BCtz%29_240V_24A_installed_in_fuse_box_in_Germany.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ABB_installation_contactor_%28German_-_Installationssch%C3%BCtz%29_240V_24A_installed_in_fuse_box_in_Germany.jpg/500px-ABB_installation_contactor_%28German_-_Installationssch%C3%BCtz%29_240V_24A_installed_in_fuse_box_in_Germany.jpg",
+  "src": "https://bohan.seadice.win/img/door-to-door-inspection-scam.webp",
+  "src640": "https://bohan.seadice.win/img/door-to-door-inspection-scam-sm.webp",
   "w": 960,
   "h": 712,
   "alt": "ABB installation contactor (German - Installationsschütz) 240V 24A installed in fuse box in Germany. Such a device is typically installed on",
@@ -569,12 +741,16 @@
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:ABB_installation_contactor_(German_-_Installationssch%C3%BCtz)_240V_24A_installed_in_fuse_box_in_Germany.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ABB_installation_contactor_%28German_-_Installationssch%C3%BCtz%29_240V_24A_installed_in_fuse_box_in_Germany.jpg/960px-ABB_installation_contactor_%28German_-_Installationssch%C3%BCtz%29_240V_24A_installed_in_fuse_box_in_Germany.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ABB_installation_contactor_%28German_-_Installationssch%C3%BCtz%29_240V_24A_installed_in_fuse_box_in_Germany.jpg/500px-ABB_installation_contactor_%28German_-_Installationssch%C3%BCtz%29_240V_24A_installed_in_fuse_box_in_Germany.jpg",
+  "og": "https://bohan.seadice.win/img/door-to-door-inspection-scam-og.jpg",
+  "local": true
  },
  "living-alone-women-home-safety": {
   "file": "File:Door chain.JPG",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Door_chain.JPG/960px-Door_chain.JPG",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Door_chain.JPG/500px-Door_chain.JPG",
+  "src": "https://bohan.seadice.win/img/living-alone-women-home-safety.webp",
+  "src640": "https://bohan.seadice.win/img/living-alone-women-home-safety-sm.webp",
   "w": 960,
   "h": 649,
   "alt": "Door chain",
@@ -582,12 +758,16 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Door_chain.JPG",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Door_chain.JPG/960px-Door_chain.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Door_chain.JPG/500px-Door_chain.JPG",
+  "og": "https://bohan.seadice.win/img/living-alone-women-home-safety-og.jpg",
+  "local": true
  },
  "moving-new-home-security": {
   "file": "File:Close-up of the key with house keychain.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Close-up_of_the_key_with_house_keychain.jpg/960px-Close-up_of_the_key_with_house_keychain.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Close-up_of_the_key_with_house_keychain.jpg/500px-Close-up_of_the_key_with_house_keychain.jpg",
+  "src": "https://bohan.seadice.win/img/moving-new-home-security.webp",
+  "src640": "https://bohan.seadice.win/img/moving-new-home-security-sm.webp",
   "w": 960,
   "h": 641,
   "alt": "A key with a house design hangs in a door lock. The setting is a bright indoor area, possibly a hallway or entryway. This scene shows the st",
@@ -595,12 +775,16 @@
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Close-up_of_the_key_with_house_keychain.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Close-up_of_the_key_with_house_keychain.jpg/960px-Close-up_of_the_key_with_house_keychain.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Close-up_of_the_key_with_house_keychain.jpg/500px-Close-up_of_the_key_with_house_keychain.jpg",
+  "og": "https://bohan.seadice.win/img/moving-new-home-security-og.jpg",
+  "local": true
  },
  "neighborhood-watch-patrol-effect": {
   "file": "File:Franklin Sidewalk - residential area.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Franklin_Sidewalk_-_residential_area.jpg/960px-Franklin_Sidewalk_-_residential_area.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Franklin_Sidewalk_-_residential_area.jpg/500px-Franklin_Sidewalk_-_residential_area.jpg",
+  "src": "https://bohan.seadice.win/img/neighborhood-watch-patrol-effect.webp",
+  "src640": "https://bohan.seadice.win/img/neighborhood-watch-patrol-effect-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "The sidewalk between Franklin and Arma, Crawford County, Kansas, said to be the longest between two communities in the United States at 1.7 ",
@@ -608,12 +792,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Franklin_Sidewalk_-_residential_area.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Franklin_Sidewalk_-_residential_area.jpg/960px-Franklin_Sidewalk_-_residential_area.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Franklin_Sidewalk_-_residential_area.jpg/500px-Franklin_Sidewalk_-_residential_area.jpg",
+  "og": "https://bohan.seadice.win/img/neighborhood-watch-patrol-effect-og.jpg",
+  "local": true
  },
  "burglary-seasonal-year-end-myth": {
   "file": "File:Snow-covered park at night in Quebec City.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Snow-covered_park_at_night_in_Quebec_City.jpg/960px-Snow-covered_park_at_night_in_Quebec_City.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Snow-covered_park_at_night_in_Quebec_City.jpg/500px-Snow-covered_park_at_night_in_Quebec_City.jpg",
+  "src": "https://bohan.seadice.win/img/burglary-seasonal-year-end-myth.webp",
+  "src640": "https://bohan.seadice.win/img/burglary-seasonal-year-end-myth-sm.webp",
   "w": 960,
   "h": 595,
   "alt": "A park after heavy snow at night, an empty bench and a lit lamppost throwing a pool of light across the untouched snow, the windows of the h",
@@ -621,25 +809,33 @@
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Snow-covered_park_at_night_in_Quebec_City.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Snow-covered_park_at_night_in_Quebec_City.jpg/960px-Snow-covered_park_at_night_in_Quebec_City.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Snow-covered_park_at_night_in_Quebec_City.jpg/500px-Snow-covered_park_at_night_in_Quebec_City.jpg",
+  "og": "https://bohan.seadice.win/img/burglary-seasonal-year-end-myth-og.jpg",
+  "local": true
  },
  "snatch-theft-statistics-prevention": {
   "file": "https://live.staticflickr.com/65535/54553912080_cf95be8b7a_b.jpg",
-  "src": "https://live.staticflickr.com/65535/54553912080_cf95be8b7a_b.jpg",
-  "src640": "https://live.staticflickr.com/65535/54553912080_cf95be8b7a_b.jpg",
-  "w": 1024,
-  "h": 683,
+  "src": "https://bohan.seadice.win/img/snatch-theft-statistics-prevention.webp",
+  "src640": "https://bohan.seadice.win/img/snatch-theft-statistics-prevention-sm.webp",
+  "w": 960,
+  "h": 640,
   "alt": "DSCF0556: a group of purses hanging from a ceiling",
   "artist": "PattayaPatrol",
   "license": "CC BY-SA 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
   "page": "https://www.flickr.com/photos/194424926@N05/54553912080",
-  "source_label": "Flickr"
+  "source_label": "Flickr",
+  "remote": "https://live.staticflickr.com/65535/54553912080_cf95be8b7a_b.jpg",
+  "remote640": "https://live.staticflickr.com/65535/54553912080_cf95be8b7a_b.jpg",
+  "og": "https://bohan.seadice.win/img/snatch-theft-statistics-prevention-og.jpg",
+  "local": true
  },
  "heat-temperature-crime-research": {
   "file": "File:Moscow - 2026 - Tverskaya Street on a hot summer day.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Moscow_-_2026_-_Tverskaya_Street_on_a_hot_summer_day.jpg/960px-Moscow_-_2026_-_Tverskaya_Street_on_a_hot_summer_day.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Moscow_-_2026_-_Tverskaya_Street_on_a_hot_summer_day.jpg/500px-Moscow_-_2026_-_Tverskaya_Street_on_a_hot_summer_day.jpg",
+  "src": "https://bohan.seadice.win/img/heat-temperature-crime-research.webp",
+  "src640": "https://bohan.seadice.win/img/heat-temperature-crime-research-sm.webp",
   "w": 960,
   "h": 664,
   "alt": "Москва. Тверская улица жарким летним днём.",
@@ -647,25 +843,33 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Moscow_-_2026_-_Tverskaya_Street_on_a_hot_summer_day.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Moscow_-_2026_-_Tverskaya_Street_on_a_hot_summer_day.jpg/960px-Moscow_-_2026_-_Tverskaya_Street_on_a_hot_summer_day.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Moscow_-_2026_-_Tverskaya_Street_on_a_hot_summer_day.jpg/500px-Moscow_-_2026_-_Tverskaya_Street_on_a_hot_summer_day.jpg",
+  "og": "https://bohan.seadice.win/img/heat-temperature-crime-research-og.jpg",
+  "local": true
  },
  "ai-era-scam-checklist": {
   "file": "https://live.staticflickr.com/65535/55457118369_89ac17d821_b.jpg",
-  "src": "https://live.staticflickr.com/65535/55457118369_89ac17d821_b.jpg",
-  "src640": "https://live.staticflickr.com/65535/55457118369_89ac17d821_b.jpg",
-  "w": 1024,
-  "h": 683,
+  "src": "https://bohan.seadice.win/img/ai-era-scam-checklist.webp",
+  "src640": "https://bohan.seadice.win/img/ai-era-scam-checklist-sm.webp",
+  "w": 960,
+  "h": 640,
   "alt": "2218507020",
   "artist": "Alachua County",
   "license": "Public domain",
   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
   "page": "https://www.flickr.com/photos/66143513@N03/55457118369",
-  "source_label": "Flickr"
+  "source_label": "Flickr",
+  "remote": "https://live.staticflickr.com/65535/55457118369_89ac17d821_b.jpg",
+  "remote640": "https://live.staticflickr.com/65535/55457118369_89ac17d821_b.jpg",
+  "og": "https://bohan.seadice.win/img/ai-era-scam-checklist-og.jpg",
+  "local": true
  },
  "sns-video-voice-clone-risk": {
   "file": "File:Live room and microphone at Audio Mix House, Studio C (13431045144).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Live_room_and_microphone_at_Audio_Mix_House%2C_Studio_C_%2813431045144%29.jpg/960px-Live_room_and_microphone_at_Audio_Mix_House%2C_Studio_C_%2813431045144%29.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Live_room_and_microphone_at_Audio_Mix_House%2C_Studio_C_%2813431045144%29.jpg/500px-Live_room_and_microphone_at_Audio_Mix_House%2C_Studio_C_%2813431045144%29.jpg",
+  "src": "https://bohan.seadice.win/img/sns-video-voice-clone-risk.webp",
+  "src640": "https://bohan.seadice.win/img/sns-video-voice-clone-risk-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "Las Vegas, NV",
@@ -673,6 +877,10 @@
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Live_room_and_microphone_at_Audio_Mix_House,_Studio_C_(13431045144).jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Live_room_and_microphone_at_Audio_Mix_House%2C_Studio_C_%2813431045144%29.jpg/960px-Live_room_and_microphone_at_Audio_Mix_House%2C_Studio_C_%2813431045144%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Live_room_and_microphone_at_Audio_Mix_House%2C_Studio_C_%2813431045144%29.jpg/500px-Live_room_and_microphone_at_Audio_Mix_House%2C_Studio_C_%2813431045144%29.jpg",
+  "og": "https://bohan.seadice.win/img/sns-video-voice-clone-risk-og.jpg",
+  "local": true
  }
 }

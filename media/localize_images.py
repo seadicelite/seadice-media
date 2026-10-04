@@ -16,7 +16,10 @@ import time
 import urllib.request
 from pathlib import Path
 
-from PIL import Image
+try:
+    from PIL import Image
+except ImportError:  # PILが無い環境(クラウドの自動実行など)では、元の縮小済み画像をそのまま保存する
+    Image = None
 
 ROOT = Path(__file__).resolve().parent.parent
 UA = "SEADICE-media/1.0 (https://seadice.win/; hi@seadice.win)"
@@ -54,33 +57,99 @@ def main(media):
     base = cfg["url"].rstrip("/") + "/img/"
     n = 0
     for slug, i in images.items():
-        if isinstance(i, dict) and i.get("local") and not i.get("og") and (out / f"{slug}.webp").exists():
+        if Image and isinstance(i, dict) and i.get("local") and not i.get("og") and (out / f"{slug}.webp").exists():
             save_jpeg_og(Image.open(out / f"{slug}.webp").convert("RGB"), out / f"{slug}-og.jpg")
             i["og"] = f"{base}{slug}-og.jpg"
             ip.write_text(json.dumps(images, ensure_ascii=False, indent=1))
             continue
         if not isinstance(i, dict) or i.get("local") or not str(i.get("src", "")).startswith("http"):
             continue
+        old = i["src"]
         try:
-            im = Image.open(io.BytesIO(fetch(i["src"]))).convert("RGB")
+            raw = fetch(old)
+            if Image:
+                im = Image.open(io.BytesIO(raw)).convert("RGB")
+                w, h = save_webp(im, out / f"{slug}.webp", 960)
+                save_webp(im, out / f"{slug}-sm.webp", 500)
+                save_jpeg_og(im, out / f"{slug}-og.jpg")
+                names = (f"{slug}.webp", f"{slug}-sm.webp", f"{slug}-og.jpg")
+            else:
+                ext = ".png" if raw[:4] == b"\x89PNG" else ".jpg"
+                (out / f"{slug}{ext}").write_bytes(raw)
+                sm = i.get("src640")
+                (out / f"{slug}-sm{ext}").write_bytes(fetch(sm) if sm and sm != old else raw)
+                w, h = i.get("w"), i.get("h")
+                names = (f"{slug}{ext}", f"{slug}-sm{ext}", f"{slug}{ext}")
+                i["unconverted"] = True
         except Exception as e:  # noqa: BLE001
             print("skip", slug, e)
             continue
-        w, h = save_webp(im, out / f"{slug}.webp", 960)
-        save_webp(im, out / f"{slug}-sm.webp", 500)
-        save_jpeg_og(im, out / f"{slug}-og.jpg")
-        old = i["src"]
-        i.update(remote=old, remote640=i.get("src640"), src=f"{base}{slug}.webp", src640=f"{base}{slug}-sm.webp", og=f"{base}{slug}-og.jpg", w=w, h=h, local=True)
+        i.update(remote=old, remote640=i.get("src640"), src=base + names[0], src640=base + names[1], og=base + names[2], w=w, h=h, local=True)
         art = site / slug / "index.html"
         if art.exists():
             t = art.read_text()
             t = t.replace(f'src="{old}" width="', f'src="{i["src"]}" width="').replace(old, i["src"])
-            t = re.sub(r'(<figure class="hero"><img [^>]*?)width="\d+" height="\d+"', rf'\g<1>width="{w}" height="{h}"', t, count=1)
+            if w and h:
+                t = re.sub(r'(<figure class="hero"><img [^>]*?)width="\d+" height="\d+"', rf'\g<1>width="{w}" height="{h}"', t, count=1)
             art.write_text(t)
         ip.write_text(json.dumps(images, ensure_ascii=False, indent=1))
         n += 1
         print("local", slug, w, h)
         time.sleep(0.4)
+    # PILのある環境で、PIL無しで保存した画像(unconverted)をWebPに変換し直す
+    if Image:
+        for slug, i in images.items():
+            if not (isinstance(i, dict) and i.get("unconverted")):
+                continue
+            src_file = out / i["src"].rsplit("/", 1)[1]
+            if not src_file.exists():
+                continue
+            im = Image.open(src_file).convert("RGB")
+            w, h = save_webp(im, out / f"{slug}.webp", 960)
+            save_webp(im, out / f"{slug}-sm.webp", 500)
+            save_jpeg_og(im, out / f"{slug}-og.jpg")
+            old_src = i["src"]
+            i.update(src=f"{base}{slug}.webp", src640=f"{base}{slug}-sm.webp", og=f"{base}{slug}-og.jpg", w=w, h=h)
+            i.pop("unconverted", None)
+            art = site / slug / "index.html"
+            if art.exists():
+                art.write_text(art.read_text().replace(old_src, i["src"]))
+            ip.write_text(json.dumps(images, ensure_ascii=False, indent=1))
+            n += 1
+            print("converted", slug)
+    # images.json に無いのに、記事本文に外部URLのヒーロー画像が直接書かれている場合
+    for art in site.glob("*/index.html"):
+        slug = art.parent.name
+        t = art.read_text()
+        m = re.search(r'<figure class="hero"><img [^>]*?src="(https?://[^"]+)"', t)
+        if not m or slug in images or base in m.group(1):
+            continue
+        old = m.group(1)
+        try:
+            raw = fetch(old)
+        except Exception as e:  # noqa: BLE001
+            print("skip", slug, e)
+            continue
+        if Image:
+            im = Image.open(io.BytesIO(raw)).convert("RGB")
+            w, h = save_webp(im, out / f"{slug}.webp", 960)
+            save_webp(im, out / f"{slug}-sm.webp", 500)
+            save_jpeg_og(im, out / f"{slug}-og.jpg")
+            new, sm, og = f"{base}{slug}.webp", f"{base}{slug}-sm.webp", f"{base}{slug}-og.jpg"
+        else:
+            (out / f"{slug}.jpg").write_bytes(raw)
+            new = sm = og = f"{base}{slug}.jpg"
+            w = h = None
+        t = t.replace(old, new)
+        if w and h:
+            t = re.sub(r'(<figure class="hero"><img [^>]*?)width="\d+" height="\d+"', rf'\g<1>width="{w}" height="{h}"', t, count=1)
+        art.write_text(t)
+        images[slug] = {"src": new, "src640": sm, "og": og, "remote": old, "w": w, "h": h, "local": True, "alt": "", "from_article": True}
+        if not Image:
+            images[slug]["unconverted"] = True
+        ip.write_text(json.dumps(images, ensure_ascii=False, indent=1))
+        n += 1
+        print("local(article)", slug)
     print("done", n)
 
 

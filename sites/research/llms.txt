@@ -19,46 +19,6 @@ SEADICE RESEARCHはSEADICE(https://seadice.win/)が運営する、無料・広�
 
 ## 記事一覧
 
-### 気分・ストレス
-
-- [怒りを紙に書いて捨てると、気持ちは収まるのか。研究でわかった「捨てる」効果](https://research.seadice.win/anger-write-and-discard-paper/): 怒りを書いた紙を捨てると、怒りは侮辱される前の水準まで下がった。叩く・走るなど興奮を高める発散には効果がなかった。
-- [冷たいシャワーで気分は上がるのか？研究でわかった本当のところ](https://research.seadice.win/cold-shower-mood-boost/): 3000人超の実験と11件のRCTのメタ分析から、冷たいシャワーが気分に与える効果の大きさと限界を確認した。
-- [泣くと気持ちは軽くなるのか。「泣いた直後」と「90分後」で違った研究](https://research.seadice.win/crying-mood-relief-research/): 泣いた直後は気分が下がるが、90分後には泣く前より良くなっていた。泣いた後に支えがあると、すっきりしやすかった。
-- [つらい気持ちを紙に書き出すと、気分は軽くなるのか。「筆記開示」の研究](https://research.seadice.win/expressive-writing-mood-research/): 気持ちを書き出す効果は146件の分析で小さいながら確認された一方、うつ症状への効果ははっきりせず、書き方で結果が変わっていた。
-- [作り笑いでも気分は上がるのか。138件の研究から読み解く笑顔の効果](https://research.seadice.win/fake-smile-mood-facial-feedback/): 138件の研究の分析と再現実験から、作り笑いが気分に与える効果の大きさと、効きやすい笑い方を確認した。
-- [感謝日記で幸福感は上がるのか。24,804人のデータでわかった効果の大きさ](https://research.seadice.win/gratitude-journal-happiness-effect-size/): 145件・24,804人の最新メタ分析などから、感謝を書き出す習慣が幸福感に与える効果の大きさと限界を確認した。
-- [自然の中で過ごすとストレスは下がるのか。4つの研究でわかった「20〜30分」の目安](https://research.seadice.win/nature-time-stress-reduction/): 143件の研究をまとめた分析や8週間の実験から、自然の中で過ごすとストレスホルモンが下がる効果と目安の時間を確認した。
-- [自分に厳しくするほど早く立ち直れる、は本当か。90人の実験でわかったこと](https://research.seadice.win/self-compassion-recovery-speed/): 自分を責めても早く立ち直れるとは限らない。90人の実験や494人の調査から、自分への思いやりと立ち直りの関係を調べた。
-- [運動は何分から気分が上がる？研究でわかった「短くても効く」根拠](https://research.seadice.win/short-exercise-mood-boost/): 1万3000人超のデータと5分の散歩の実験から、短時間の運動でも気分が上がることを解説。
-- [寝不足だとイライラしやすいのはなぜか。睡眠不足と怒りの研究](https://research.seadice.win/sleep-loss-anger-irritability/): 2日間睡眠を減らすだけで怒りは強まり、睡眠不足は前向きな気分を減らし不安を増やしていた。イライラは性格より睡眠の問題かもしれない。
-- [深呼吸でストレスは本当に下がるのか。「長く吐く呼吸」の研究](https://research.seadice.win/slow-breathing-stress-research/): 呼吸法はストレスを小〜中程度下げ、1日5分の「長く吐く呼吸」は瞑想より気分を改善した。ただし研究の質には限界もある。
-- [SNSをやめると幸福度は上がるのか。「やめる期間」で変わった研究](https://research.seadice.win/social-media-break-wellbeing/): 1週間以上SNSをやめると幸福感が上がり、うつや不安が下がった。1週間未満だとかえって悪化しており、期間が大切だった。
-- [人と話すと気分は上がるのか。知らない人との短い会話の研究](https://research.seadice.win/stranger-small-talk-mood-research/): 電車やカフェでの一言、オンラインの30分間会話まで。話しかけると気まずくなるという予想は、研究ではくり返し外れている。
-- [背筋を伸ばすと気分は上向くのか。姿勢とストレスの研究](https://research.seadice.win/upright-posture-mood-research/): 背筋を伸ばすと、ストレスの中でも気分や自尊心が保たれやすかった。一方、パワーポーズでホルモンが変わる効果は再現されなかった。
-
-### 先延ばし
-
-- [「やる気が出たらやる」は逆効果なのか。研究でわかった『行動が先』の心理学](https://research.seadice.win/motivation-before-action-research/): やる気を待たず先に行動する治療法が、本格的な心理療法と同等以上の効果を示すことを4つの研究から確認した。
-- [完璧主義は先延ばしを悪化させるのか。研究でわかった「危ない完璧主義」の正体](https://research.seadice.win/perfectionism-procrastination-research/): 評価を気にする完璧主義だけが先延ばしと関連し、自分の基準を追う完璧主義は関連しなかったことを複数の研究から確認した。
-- [先延ばしは「意志が弱い」からじゃない。感情の研究でわかったこと](https://research.seadice.win/procrastination-emotion-regulation/): 先延ばしは意志力ではなく感情調整の失敗という研究を紹介。638人の分析などから、今日からできる一歩も解説。
-- [先延ばしぐせは生まれつきなのか。双子研究と改善の研究でわかったこと](https://research.seadice.win/procrastination-genetics-change-research/): 先延ばしのしやすさの約46%は遺伝の影響だったが、8週間の認知行動療法で大きく改善した研究もある。生まれつきでも変えられる。
-
-### 睡眠
-
-- [寝酒は眠りを良くするのか。「寝つきは早いが、後半が乱れる」研究](https://research.seadice.win/alcohol-before-bed-sleep/): お酒で寝つきは早くなるが、夜の後半は眠りが乱れ、少量でも睡眠中の体の回復が妨げられていた。寝酒は眠りの助けにならない。
-- [寝る前の入浴は寝つきを良くするのか。研究でわかった効果的なタイミング](https://research.seadice.win/bathing-before-bed-sleep-onset/): 就寝1〜2時間前に10分以上の入浴で入眠が20〜30%早まったとする研究が複数。高齢者の足浴実験では一晩全体の改善は見られなかった。
-- [寝る前の読書は寝つきを良くするのか。紙の本と画面で違った研究](https://research.seadice.win/bedtime-reading-paper-book-sleep/): 寝る前に画面で読むと紙の本より寝つきが約10分遅れた。読書そのものより「何で読むか」が眠りを左右していた。
-- [夜スマホをやめられないのは意志の弱さ？研究でわかった原因と3つの一歩](https://research.seadice.win/bedtime-smartphone-sleep/): 日中の疲れと寝る前の画面の光が、眠りを遅らせる。5本の研究から、今夜できる工夫を整理。
-- [寝る前に「明日やること」を書くと眠れる。研究でわかった理由](https://research.seadice.win/bedtime-todo-list-sleep/): 就寝前にやることリストを書いたグループが早く眠りについた実験を紹介。今夜からできる書き方も解説。
-- [カフェインは何時間前までOK？研究でわかった「量」と「時間」の関係](https://research.seadice.win/caffeine-hours-before-bed/): コーヒー1杯なら4時間前でも平気、でも400mgは12時間前でも睡眠に影響。量と時間の関係を解説。
-- [昼間に日光を浴びると夜よく眠れるのか。体内時計を変える「光」の研究](https://research.seadice.win/daytime-light-exposure-night-sleep-research/): 日中の光が多く安定している人ほど、寝つきが早く深い睡眠が増える。89人の追跡調査や自然光キャンプの実験からわかったこと。
-- [夜に運動すると眠れなくなるのか。寝る何時間前までならいいかを研究で調べた](https://research.seadice.win/evening-exercise-sleep-research/): 夜の運動は全体として眠りを悪くしなかった。ただ寝る直前の激しい運動は寝つきを遅らせることがあり、4時間前までに終えると影響は見られなかった。
-- [朝どうしても起きられない人へ。体内時計を約2時間動かした実験でわかったこと](https://research.seadice.win/morning-light-wake-up/): 起床時間・朝の光・食事や運動のタイミングを整えると、体内時計が平均約2時間前進した実験を紹介。
-- [昼寝は何分がいい？研究でわかった「10分」の意外な強さ](https://research.seadice.win/nap-best-length/): 5分では足りず、30分だとぼんやりする。24人の実験で最も効いた長さを解説。
-- [毎日同じ時刻に寝起きすると、眠りは良くなるのか。「睡眠の規則性」の研究](https://research.seadice.win/sleep-regularity-same-time-research/): 寝起きの時刻がそろっていることは、睡眠時間と同じくらい、気分や健康と関わっていた。まずは起きる時刻をそろえるのが一歩目。
-- [スヌーズで二度寝するのは体に悪いのか。研究でわかった意外な結果](https://research.seadice.win/snooze-alarm-research/): 30分のスヌーズで失う睡眠は約6分で、頭の働きも下がらなかった研究がある一方、寝ぼけが長引いたという研究もあり、結論は分かれている。
-- [週末の寝だめで平日の睡眠不足は帳消しにできる？4つの研究でわかったこと](https://research.seadice.win/weekend-catchup-sleep-debt/): 軽い寝だめは体調の良さと関連する一方、睡眠不足が大きいと帳消しにはできないことが4つの研究からわかった。
-
 ### 集中力
 
 - [香りで集中力は上がるのか。ローズマリーとペパーミントの研究でわかったこと](https://research.seadice.win/aroma-rosemary-focus-research/): ローズマリーやペパーミントで記憶の成績が上がった実験がある一方、ラベンダーは成績を下げた。効果は香りごとにまちまちだった。
@@ -76,6 +36,30 @@ SEADICE RESEARCHはSEADICE(https://seadice.win/)が運営する、無料・広�
 - [アイデアが出ないときは歩く。散歩とひらめきの関係を研究で調べた](https://research.seadice.win/walking-boosts-creativity/): 歩行中は約8割の人で発想力が向上。1000人超のメタ分析でも確認された散歩とひらめきの関係を解説。
 - [ホワイトノイズで集中できるのか。「人によって逆になる」研究](https://research.seadice.win/white-noise-focus-research/): ホワイトノイズは気が散りやすい人には小さな効果があったが、そうでない人には逆効果だった。合うかどうかは人によって違う。
 
+### 先延ばし
+
+- [「やる気が出たらやる」は逆効果なのか。研究でわかった『行動が先』の心理学](https://research.seadice.win/motivation-before-action-research/): やる気を待たず先に行動する治療法が、本格的な心理療法と同等以上の効果を示すことを4つの研究から確認した。
+- [完璧主義は先延ばしを悪化させるのか。研究でわかった「危ない完璧主義」の正体](https://research.seadice.win/perfectionism-procrastination-research/): 評価を気にする完璧主義だけが先延ばしと関連し、自分の基準を追う完璧主義は関連しなかったことを複数の研究から確認した。
+- [先延ばしは「意志が弱い」からじゃない。感情の研究でわかったこと](https://research.seadice.win/procrastination-emotion-regulation/): 先延ばしは意志力ではなく感情調整の失敗という研究を紹介。638人の分析などから、今日からできる一歩も解説。
+- [先延ばしぐせは生まれつきなのか。双子研究と改善の研究でわかったこと](https://research.seadice.win/procrastination-genetics-change-research/): 先延ばしのしやすさの約46%は遺伝の影響だったが、8週間の認知行動療法で大きく改善した研究もある。生まれつきでも変えられる。
+
+### 気分・ストレス
+
+- [怒りを紙に書いて捨てると、気持ちは収まるのか。研究でわかった「捨てる」効果](https://research.seadice.win/anger-write-and-discard-paper/): 怒りを書いた紙を捨てると、怒りは侮辱される前の水準まで下がった。叩く・走るなど興奮を高める発散には効果がなかった。
+- [冷たいシャワーで気分は上がるのか？研究でわかった本当のところ](https://research.seadice.win/cold-shower-mood-boost/): 3000人超の実験と11件のRCTのメタ分析から、冷たいシャワーが気分に与える効果の大きさと限界を確認した。
+- [泣くと気持ちは軽くなるのか。「泣いた直後」と「90分後」で違った研究](https://research.seadice.win/crying-mood-relief-research/): 泣いた直後は気分が下がるが、90分後には泣く前より良くなっていた。泣いた後に支えがあると、すっきりしやすかった。
+- [つらい気持ちを紙に書き出すと、気分は軽くなるのか。「筆記開示」の研究](https://research.seadice.win/expressive-writing-mood-research/): 気持ちを書き出す効果は146件の分析で小さいながら確認された一方、うつ症状への効果ははっきりせず、書き方で結果が変わっていた。
+- [作り笑いでも気分は上がるのか。138件の研究から読み解く笑顔の効果](https://research.seadice.win/fake-smile-mood-facial-feedback/): 138件の研究の分析と再現実験から、作り笑いが気分に与える効果の大きさと、効きやすい笑い方を確認した。
+- [感謝日記で幸福感は上がるのか。24,804人のデータでわかった効果の大きさ](https://research.seadice.win/gratitude-journal-happiness-effect-size/): 145件・24,804人の最新メタ分析などから、感謝を書き出す習慣が幸福感に与える効果の大きさと限界を確認した。
+- [自然の中で過ごすとストレスは下がるのか。4つの研究でわかった「20〜30分」の目安](https://research.seadice.win/nature-time-stress-reduction/): 143件の研究をまとめた分析や8週間の実験から、自然の中で過ごすとストレスホルモンが下がる効果と目安の時間を確認した。
+- [自分に厳しくするほど早く立ち直れる、は本当か。90人の実験でわかったこと](https://research.seadice.win/self-compassion-recovery-speed/): 自分を責めても早く立ち直れるとは限らない。90人の実験や494人の調査から、自分への思いやりと立ち直りの関係を調べた。
+- [運動は何分から気分が上がる？研究でわかった「短くても効く」根拠](https://research.seadice.win/short-exercise-mood-boost/): 1万3000人超のデータと5分の散歩の実験から、短時間の運動でも気分が上がることを解説。
+- [寝不足だとイライラしやすいのはなぜか。睡眠不足と怒りの研究](https://research.seadice.win/sleep-loss-anger-irritability/): 2日間睡眠を減らすだけで怒りは強まり、睡眠不足は前向きな気分を減らし不安を増やしていた。イライラは性格より睡眠の問題かもしれない。
+- [深呼吸でストレスは本当に下がるのか。「長く吐く呼吸」の研究](https://research.seadice.win/slow-breathing-stress-research/): 呼吸法はストレスを小〜中程度下げ、1日5分の「長く吐く呼吸」は瞑想より気分を改善した。ただし研究の質には限界もある。
+- [SNSをやめると幸福度は上がるのか。「やめる期間」で変わった研究](https://research.seadice.win/social-media-break-wellbeing/): 1週間以上SNSをやめると幸福感が上がり、うつや不安が下がった。1週間未満だとかえって悪化しており、期間が大切だった。
+- [人と話すと気分は上がるのか。知らない人との短い会話の研究](https://research.seadice.win/stranger-small-talk-mood-research/): 電車やカフェでの一言、オンラインの30分間会話まで。話しかけると気まずくなるという予想は、研究ではくり返し外れている。
+- [背筋を伸ばすと気分は上向くのか。姿勢とストレスの研究](https://research.seadice.win/upright-posture-mood-research/): 背筋を伸ばすと、ストレスの中でも気分や自尊心が保たれやすかった。一方、パワーポーズでホルモンが変わる効果は再現されなかった。
+
 ### 習慣
 
 - [1日何歩歩けばいいのか。「1万歩」の根拠を研究で調べた](https://research.seadice.win/daily-steps-how-many-research/): 「1万歩」の根拠は弱く、60歳以上は6,000〜8,000歩、60歳未満は8,000〜1万歩で効果が頭打ちに。7,000歩でも十分な効果があった。
@@ -90,6 +74,22 @@ SEADICE RESEARCHはSEADICE(https://seadice.win/)が運営する、無料・広�
 - [声に出して覚えると記憶に残りやすいのか。研究でわかった条件](https://research.seadice.win/reading-aloud-memory-production-effect/): プロダクション効果の研究から、全部ではなく一部だけ声に出す方が記憶に残りやすいことを確認した。
 - [復習はいつがベスト？1,350人の実験でわかった、記憶が変わるタイミング](https://research.seadice.win/spacing-effect-review-timing/): 1350人以上の実験とメタ分析から、復習の最適な間隔を調べた。早すぎても遅すぎても効果が下がることがわかった。
 - [読み返すより、自分にテストする方が覚えられるのか。「テスト効果」の研究](https://research.seadice.win/testing-effect-retrieval-practice/): 1週間後の記憶は、くり返し読んだ人が40%、思い出す練習をした人が61%。読み返しより「思い出す」復習の方が残りやすい。
+
+### 睡眠
+
+- [寝酒は眠りを良くするのか。「寝つきは早いが、後半が乱れる」研究](https://research.seadice.win/alcohol-before-bed-sleep/): お酒で寝つきは早くなるが、夜の後半は眠りが乱れ、少量でも睡眠中の体の回復が妨げられていた。寝酒は眠りの助けにならない。
+- [寝る前の入浴は寝つきを良くするのか。研究でわかった効果的なタイミング](https://research.seadice.win/bathing-before-bed-sleep-onset/): 就寝1〜2時間前に10分以上の入浴で入眠が20〜30%早まったとする研究が複数。高齢者の足浴実験では一晩全体の改善は見られなかった。
+- [寝る前の読書は寝つきを良くするのか。紙の本と画面で違った研究](https://research.seadice.win/bedtime-reading-paper-book-sleep/): 寝る前に画面で読むと紙の本より寝つきが約10分遅れた。読書そのものより「何で読むか」が眠りを左右していた。
+- [夜スマホをやめられないのは意志の弱さ？研究でわかった原因と3つの一歩](https://research.seadice.win/bedtime-smartphone-sleep/): 日中の疲れと寝る前の画面の光が、眠りを遅らせる。5本の研究から、今夜できる工夫を整理。
+- [寝る前に「明日やること」を書くと眠れる。研究でわかった理由](https://research.seadice.win/bedtime-todo-list-sleep/): 就寝前にやることリストを書いたグループが早く眠りについた実験を紹介。今夜からできる書き方も解説。
+- [カフェインは何時間前までOK？研究でわかった「量」と「時間」の関係](https://research.seadice.win/caffeine-hours-before-bed/): コーヒー1杯なら4時間前でも平気、でも400mgは12時間前でも睡眠に影響。量と時間の関係を解説。
+- [昼間に日光を浴びると夜よく眠れるのか。体内時計を変える「光」の研究](https://research.seadice.win/daytime-light-exposure-night-sleep-research/): 日中の光が多く安定している人ほど、寝つきが早く深い睡眠が増える。89人の追跡調査や自然光キャンプの実験からわかったこと。
+- [夜に運動すると眠れなくなるのか。寝る何時間前までならいいかを研究で調べた](https://research.seadice.win/evening-exercise-sleep-research/): 夜の運動は全体として眠りを悪くしなかった。ただ寝る直前の激しい運動は寝つきを遅らせることがあり、4時間前までに終えると影響は見られなかった。
+- [朝どうしても起きられない人へ。体内時計を約2時間動かした実験でわかったこと](https://research.seadice.win/morning-light-wake-up/): 起床時間・朝の光・食事や運動のタイミングを整えると、体内時計が平均約2時間前進した実験を紹介。
+- [昼寝は何分がいい？研究でわかった「10分」の意外な強さ](https://research.seadice.win/nap-best-length/): 5分では足りず、30分だとぼんやりする。24人の実験で最も効いた長さを解説。
+- [毎日同じ時刻に寝起きすると、眠りは良くなるのか。「睡眠の規則性」の研究](https://research.seadice.win/sleep-regularity-same-time-research/): 寝起きの時刻がそろっていることは、睡眠時間と同じくらい、気分や健康と関わっていた。まずは起きる時刻をそろえるのが一歩目。
+- [スヌーズで二度寝するのは体に悪いのか。研究でわかった意外な結果](https://research.seadice.win/snooze-alarm-research/): 30分のスヌーズで失う睡眠は約6分で、頭の働きも下がらなかった研究がある一方、寝ぼけが長引いたという研究もあり、結論は分かれている。
+- [週末の寝だめで平日の睡眠不足は帳消しにできる？4つの研究でわかったこと](https://research.seadice.win/weekend-catchup-sleep-debt/): 軽い寝だめは体調の良さと関連する一方、睡眠不足が大きいと帳消しにはできないことが4つの研究からわかった。
 
 ## 主要ページ
 

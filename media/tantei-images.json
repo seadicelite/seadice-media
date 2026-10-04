@@ -1,21 +1,25 @@
 {
  "email-password-leak-check": {
   "file": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg1NDU5OTQtaW1hZ2Uta3d2dmR5N3cuanBn.jpg",
-  "src": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg1NDU5OTQtaW1hZ2Uta3d2dmR5N3cuanBn.jpg",
-  "src640": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg1NDU5OTQtaW1hZ2Uta3d2dmR5N3cuanBn.jpg",
-  "w": 5597,
-  "h": 3661,
+  "src": "https://tantei.seadice.win/img/email-password-leak-check.webp",
+  "src640": "https://tantei.seadice.win/img/email-password-leak-check-sm.webp",
+  "w": 960,
+  "h": 628,
   "alt": "Free password lock laptop image",
   "artist": "Unknown",
   "license": "CC0",
   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
   "page": "https://www.rawpixel.com/image/5908216/image-background-public-domain-laptop",
-  "source_label": "Rawpixel"
+  "source_label": "Rawpixel",
+  "remote": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg1NDU5OTQtaW1hZ2Uta3d2dmR5N3cuanBn.jpg",
+  "remote640": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg1NDU5OTQtaW1hZ2Uta3d2dmR5N3cuanBn.jpg",
+  "og": "https://tantei.seadice.win/img/email-password-leak-check-og.jpg",
+  "local": true
  },
  "fake-online-shop-check": {
   "file": "File:Ecommerce Shopping Cart Abandonment Concept.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ecommerce_Shopping_Cart_Abandonment_Concept.jpg/960px-Ecommerce_Shopping_Cart_Abandonment_Concept.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ecommerce_Shopping_Cart_Abandonment_Concept.jpg/500px-Ecommerce_Shopping_Cart_Abandonment_Concept.jpg",
+  "src": "https://tantei.seadice.win/img/fake-online-shop-check.webp",
+  "src640": "https://tantei.seadice.win/img/fake-online-shop-check-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "An image of a miniature shopping cart on its side with pennies spilling out of it, representing an abandoned ecommerce cart. The shopping tr",
@@ -23,12 +27,16 @@
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Ecommerce_Shopping_Cart_Abandonment_Concept.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ecommerce_Shopping_Cart_Abandonment_Concept.jpg/960px-Ecommerce_Shopping_Cart_Abandonment_Concept.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ecommerce_Shopping_Cart_Abandonment_Concept.jpg/500px-Ecommerce_Shopping_Cart_Abandonment_Concept.jpg",
+  "og": "https://tantei.seadice.win/img/fake-online-shop-check-og.jpg",
+  "local": true
  },
  "deepfake-video-human-detection": {
   "file": "File:Blick durch Lupe (48016132496).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Blick_durch_Lupe_%2848016132496%29.jpg/960px-Blick_durch_Lupe_%2848016132496%29.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Blick_durch_Lupe_%2848016132496%29.jpg/500px-Blick_durch_Lupe_%2848016132496%29.jpg",
+  "src": "https://tantei.seadice.win/img/deepfake-video-human-detection.webp",
+  "src640": "https://tantei.seadice.win/img/deepfake-video-human-detection-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "Wikipedia under magnifying glass",
@@ -36,12 +44,16 @@
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Blick_durch_Lupe_(48016132496).jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Blick_durch_Lupe_%2848016132496%29.jpg/960px-Blick_durch_Lupe_%2848016132496%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Blick_durch_Lupe_%2848016132496%29.jpg/500px-Blick_durch_Lupe_%2848016132496%29.jpg",
+  "og": "https://tantei.seadice.win/img/deepfake-video-human-detection-og.jpg",
+  "local": true
  },
  "ai-voice-family-call-check": {
   "file": "File:Grey rotary dial telephone.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Grey_rotary_dial_telephone.jpg/960px-Grey_rotary_dial_telephone.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Grey_rotary_dial_telephone.jpg/500px-Grey_rotary_dial_telephone.jpg",
+  "src": "https://tantei.seadice.win/img/ai-voice-family-call-check.webp",
+  "src640": "https://tantei.seadice.win/img/ai-voice-family-call-check-sm.webp",
   "w": 960,
   "h": 686,
   "alt": "Teléfono fijo de sobremesa de color gris, equipado con disco de marcación rotatorio y auricular conectado mediante cable en espiral",
@@ -49,12 +61,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Grey_rotary_dial_telephone.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Grey_rotary_dial_telephone.jpg/960px-Grey_rotary_dial_telephone.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Grey_rotary_dial_telephone.jpg/500px-Grey_rotary_dial_telephone.jpg",
+  "og": "https://tantei.seadice.win/img/ai-voice-family-call-check-og.jpg",
+  "local": true
  },
  "photo-location-data-check": {
   "file": "File:IPhone camera.jpeg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/IPhone_camera.jpeg/960px-IPhone_camera.jpeg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/IPhone_camera.jpeg/500px-IPhone_camera.jpeg",
+  "src": "https://tantei.seadice.win/img/photo-location-data-check.webp",
+  "src640": "https://tantei.seadice.win/img/photo-location-data-check-sm.webp",
   "w": 960,
   "h": 540,
   "alt": "Apple iPhone",
@@ -62,12 +78,16 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:IPhone_camera.jpeg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/IPhone_camera.jpeg/960px-IPhone_camera.jpeg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/IPhone_camera.jpeg/500px-IPhone_camera.jpeg",
+  "og": "https://tantei.seadice.win/img/photo-location-data-check-og.jpg",
+  "local": true
  },
  "celebrity-investment-ad-scam-check": {
   "file": "File:UK Stock Market - Investing in the United Kingdom.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/UK_Stock_Market_-_Investing_in_the_United_Kingdom.jpg/960px-UK_Stock_Market_-_Investing_in_the_United_Kingdom.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/UK_Stock_Market_-_Investing_in_the_United_Kingdom.jpg/500px-UK_Stock_Market_-_Investing_in_the_United_Kingdom.jpg",
+  "src": "https://tantei.seadice.win/img/celebrity-investment-ad-scam-check.webp",
+  "src640": "https://tantei.seadice.win/img/celebrity-investment-ad-scam-check-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "This image of the UK stock market shows a Union Jack alongside an array of stock market data and charts for investors thinking about investi",
@@ -75,12 +95,16 @@
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:UK_Stock_Market_-_Investing_in_the_United_Kingdom.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/UK_Stock_Market_-_Investing_in_the_United_Kingdom.jpg/960px-UK_Stock_Market_-_Investing_in_the_United_Kingdom.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/UK_Stock_Market_-_Investing_in_the_United_Kingdom.jpg/500px-UK_Stock_Market_-_Investing_in_the_United_Kingdom.jpg",
+  "og": "https://tantei.seadice.win/img/celebrity-investment-ad-scam-check-og.jpg",
+  "local": true
  },
  "delivery-sms-smishing-check": {
   "file": "File:Parcel package boxes in Ozolnieki.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Parcel_package_boxes_in_Ozolnieki.jpg/960px-Parcel_package_boxes_in_Ozolnieki.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Parcel_package_boxes_in_Ozolnieki.jpg/500px-Parcel_package_boxes_in_Ozolnieki.jpg",
+  "src": "https://tantei.seadice.win/img/delivery-sms-smishing-check.webp",
+  "src640": "https://tantei.seadice.win/img/delivery-sms-smishing-check-sm.webp",
   "w": 960,
   "h": 723,
   "alt": "Parcel package boxes in Ozolnieki",
@@ -88,6 +112,10 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Parcel_package_boxes_in_Ozolnieki.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Parcel_package_boxes_in_Ozolnieki.jpg/960px-Parcel_package_boxes_in_Ozolnieki.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Parcel_package_boxes_in_Ozolnieki.jpg/500px-Parcel_package_boxes_in_Ozolnieki.jpg",
+  "og": "https://tantei.seadice.win/img/delivery-sms-smishing-check-og.jpg",
+  "local": true
  }
 }

@@ -75,6 +75,13 @@ def build(slug, preview=None):
     cfg = json.loads((ROOT / f"media/{slug}.json").read_text())
     pf = ROOT / (f"media/{slug}-posts.sample.json" if preview else f"media/{slug}-posts.json")
     posts = json.loads(pf.read_text())
+    if not preview and cfg.get("localizeImages", True):
+        # 外部画像の直リンクをやめ、写真を自サイト配信に切り替える(新しく付いた写真だけ処理。失敗しても公開は止めない)
+        try:
+            import localize_images
+            localize_images.main(slug)
+        except Exception as e:  # noqa: BLE001
+            print("localize_images skipped:", e)
     ip = ROOT / f"media/{slug}-images.json"
     images = json.loads(ip.read_text()) if ip.exists() else {}
     theme = {**DEFAULT_THEME, **cfg.get("theme", {})}

@@ -49,4 +49,4 @@ description: しぐさと本音（人を操る心理を見抜くメディア）�
 
 ## 写真の自サイト配信
 
-`media/photo.py` で写真を付けたあと、`python3 media/localize_images.py umbra` を実行してから build.py を回す（外部画像の直リンクをやめ、WebPとSNS用JPEGを `sites/umbra/img/` に保存する。作者・ライセンス表示はそのまま）。
+`media/build.py` が自動で `media/localize_images.py` を実行し、新しく付いた写真を `sites/umbra/img/` に保存して自サイト配信に切り替える（手動実行は不要）。

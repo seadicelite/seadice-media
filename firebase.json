@@ -10,6 +10,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
           "source": "**/*.html",
           "headers": [
             {
@@ -103,6 +112,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
           "source": "**/*.html",
           "headers": [
             {
@@ -144,6 +162,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
         {
           "source": "**/*.html",
           "headers": [
@@ -187,6 +214,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
           "source": "**/*.html",
           "headers": [
             {
@@ -228,6 +264,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
         {
           "source": "**/*.html",
           "headers": [
@@ -271,6 +316,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
           "source": "**/*.html",
           "headers": [
             {
@@ -312,6 +366,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
         {
           "source": "**/*.html",
           "headers": [
@@ -355,6 +418,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
           "source": "**/*.html",
           "headers": [
             {
@@ -396,6 +468,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
         {
           "source": "**/*.html",
           "headers": [
@@ -484,6 +565,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
           "source": "**/*.html",
           "headers": [
             {
@@ -525,6 +615,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
         {
           "source": "**/*.html",
           "headers": [
@@ -570,6 +669,17 @@
           "regex": "^/(?P<path>.*)$",
           "destination": "https://boueki.seadice.win/:path",
           "type": 301
+        }
+      ],
+      "headers": [
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
         }
       ]
     }
