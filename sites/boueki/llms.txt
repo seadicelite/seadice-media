@@ -81,7 +81,9 @@
   - 13-2 英文の売買契約書を読む。構成とshall・mayの意味: https://boueki.seadice.win/course/reading-english-sales-contracts/
   - 13-3 英文の信用状を読む。MT700の項目と定番フレーズ: https://boueki.seadice.win/course/reading-english-letter-of-credit/
   - 13-4 取引のやりとり（コレスポンデンス）の定型表現: https://boueki.seadice.win/course/trade-correspondence-phrases/
-- 第14章 総まとめと模擬試験: 全範囲の復習と模擬試験。（準備中）
+- 第14章 総まとめと模擬試験: 全範囲の復習と、間違えやすいポイントの整理。最後に模擬試験に挑戦します。
+  - 14-1 貿易の流れを書類と一緒にもう一度たどる: https://boueki.seadice.win/course/review-export-flow-with-documents/
+  - 14-2 間違えやすいポイントまとめ。似た用語と数字を整理する: https://boueki.seadice.win/course/commonly-confused-points-review/
 
 ## 運営
 

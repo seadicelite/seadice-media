@@ -315,7 +315,7 @@ def lesson(ci, li):
 <div class="quiz">{quiz}</div>
 </section>
 <div class="done"><p class="dt">レッスン{no}はここまでです</p><p class="dd">クイズで迷った問題があれば、その見出しの本文を読み直してから次に進みましょう。</p>
-<div class="btns" style="margin:14px 0 0">{f'<a class="btn" href="/{test_path(ch)}">第{ch["no"]}章のまとめテストに挑戦</a>' if last else ''}{f'<a class="btn{" sub" if last else ""}" href="/course/{next_l["id"]}/">次のレッスン: {E(next_l["short"])}</a>' if next_l else '<a class="btn" href="/course/">講座の目次へ（次の章は準備中です）</a>'}{f'<a class="btn sub" href="/course/{prev_l["id"]}/">前のレッスン</a>' if prev_l else ''}</div>
+<div class="btns" style="margin:14px 0 0">{f'<a class="btn" href="/{test_path(ch)}">第{ch["no"]}章のまとめテストに挑戦</a>' if last else ''}{f'<a class="btn{" sub" if last else ""}" href="/course/{next_l["id"]}/">次のレッスン: {E(next_l["short"])}</a>' if next_l else ('<a class="btn" href="/course/mock-exam/">模擬試験に挑戦する</a>' if COURSE.get("mock") and all(c["lessons"] for c in COURSE["chapters"]) else '<a class="btn" href="/course/">講座の目次へ（次の章は準備中です）</a>')}{f'<a class="btn sub" href="/course/{prev_l["id"]}/">前のレッスン</a>' if prev_l else ''}</div>
 <details style="margin-top:16px"><summary>第{ch["no"]}章 {E(ch["title"])} のレッスン一覧</summary><div><ol class="lessons">{chlist}</ol><p style="margin:10px 0 0;font-size:14px"><a href="/course/">講座の目次（全{N_CH}章）へ</a></p></div></details>
 </div>'''
     url = lurl(l)
@@ -373,7 +373,7 @@ def chapter_test(ch):
 <p class="lead">第{ch["no"]}章「{E(ch["title"])}」で学んだ内容を、まとめて確かめるテストです。レッスンが混ざった順番で出題します。最後に、間違えた問題のレッスンへのリンクが出ます。</p>
 {quiz_html(items, mode="test")}
 <div class="done"><p class="dt">第{ch["no"]}章はここまでです</p><p class="dd">間違えた問題は、表示されたレッスンを読み直してから、もう一度このテストに挑戦しましょう。</p>
-<div class="btns" style="margin:14px 0 0">{f'<a class="btn" href="/course/{nxt["lessons"][0]["id"]}/">第{nxt["no"]}章へ進む: {E(nxt["title"])}</a>' if nxt else '<a class="btn" href="/course/">講座の目次へ</a>'}<a class="btn sub" href="/course/#ch{ch["no"]}">第{ch["no"]}章のレッスン一覧</a></div></div>'''
+<div class="btns" style="margin:14px 0 0">{f'<a class="btn" href="/course/{nxt["lessons"][0]["id"]}/">第{nxt["no"]}章へ進む: {E(nxt["title"])}</a>' if nxt else ('<a class="btn" href="/course/mock-exam/">模擬試験に挑戦する</a>' if COURSE.get("mock") else '<a class="btn" href="/course/">講座の目次へ</a>')}<a class="btn sub" href="/course/#ch{ch["no"]}">第{ch["no"]}章のレッスン一覧</a></div></div>'''
     graph = [{"@type": "Quiz", "name": title, "url": url, "inLanguage": "ja", "educationalLevel": "初級", "isAccessibleForFree": True,
               "about": ch["title"], "isPartOf": {"@id": CURL + "#course"}, "publisher": PUBLISHER,
               "hasPart": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["choices"][q["a"]]}} for q, _, _ in items]}]
