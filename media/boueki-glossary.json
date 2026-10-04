@@ -586,5 +586,152 @@
   "en": "Product liability insurance",
   "field": "貨物保険と貿易保険",
   "def": "PL保険（生産物賠償責任保険）とは、製品の欠陥で他人にけがや損害を与えたときの賠償責任に備える保険のことです。輸出品には海外PL保険が必要になります。"
+ },
+ {
+  "id": "export-declaration",
+  "term": "輸出申告",
+  "en": "Export declaration",
+  "field": "通関と関税",
+  "def": "輸出申告とは、貨物の品名・数量・価格などを税関に申告し、輸出の許可を求める手続のことです。"
+ },
+ {
+  "id": "liberalization-of-declaration-offices",
+  "term": "輸出入申告官署の自由化",
+  "en": "Liberalization of declaration offices",
+  "field": "通関と関税",
+  "def": "輸出入申告官署の自由化とは、AEOの輸出入者などが、貨物の置き場所に関係なく、どの税関にも申告できるしくみのことです。"
+ },
+ {
+  "id": "examination-category",
+  "term": "審査区分",
+  "en": "Examination category",
+  "field": "通関と関税",
+  "def": "審査区分とは、NACCSでの申告が振り分けられる区分のことです。簡易審査（区分1）・書類審査（区分2）・検査（区分3）があります。"
+ },
+ {
+  "id": "foreign-goods",
+  "term": "外国貨物",
+  "en": "Foreign goods",
+  "field": "通関と関税",
+  "def": "外国貨物とは、輸出の許可を受けた貨物と、外国から着いて輸入の許可前の貨物のことです。"
+ },
+ {
+  "id": "specified-export-declaration",
+  "term": "特定輸出申告",
+  "en": "Specified export declaration",
+  "field": "通関と関税",
+  "def": "特定輸出申告とは、AEOの輸出者が、貨物を保税地域に入れないまま輸出の許可を受けられる申告のことです。"
+ },
+ {
+  "id": "import-tax-declaration",
+  "term": "輸入（納税）申告",
+  "en": "Import (tax) declaration",
+  "field": "通関と関税",
+  "def": "輸入（納税）申告とは、輸入する貨物の内容と納める税額を、あわせて税関に申告する手続のことです。"
+ },
+ {
+  "id": "self-assessment-system",
+  "term": "申告納税方式",
+  "en": "Self-assessment system",
+  "field": "通関と関税",
+  "def": "申告納税方式とは、納める税額を、原則として納税義務者自身の申告によって確定させる方式のことです。"
+ },
+ {
+  "id": "customs-value",
+  "term": "課税価格",
+  "en": "Customs value",
+  "field": "通関と関税",
+  "def": "課税価格とは、関税を計算する基準となる価格のことです。"
+ },
+ {
+  "id": "ad-valorem-duty-specific-duty",
+  "term": "従価税・従量税",
+  "en": "Ad valorem duty / Specific duty",
+  "field": "通関と関税",
+  "def": "従価税・従量税とは、関税のかけ方の種類のことです。従価税は価格を基準に、従量税は重さや個数などの数量を基準に関税をかけます。"
+ },
+ {
+  "id": "commercial-invoice",
+  "term": "商業送り状（インボイス）",
+  "en": "Commercial Invoice",
+  "field": "貿易書類",
+  "def": "商業送り状（インボイス）とは、輸出者が作る、貨物の品名・数量・単価・金額などを記した明細書兼請求書のことです。関税法上は仕入書と呼ばれ、輸出入申告に使います。"
+ },
+ {
+  "id": "packing-list",
+  "term": "包装明細書（パッキングリスト）",
+  "en": "Packing List",
+  "field": "貿易書類",
+  "def": "包装明細書（パッキングリスト）とは、梱包ごとの中身・個数・重量・容積・荷印などを記した書類のことです。インボイスを補い、貨物の確認や検査に使われます。"
+ },
+ {
+  "id": "gross-weight",
+  "term": "総重量",
+  "en": "Gross Weight",
+  "field": "貿易書類",
+  "def": "総重量とは、梱包材などを含めた貨物の合計の重さのことです。"
+ },
+ {
+  "id": "net-weight",
+  "term": "正味重量",
+  "en": "Net Weight",
+  "field": "貿易書類",
+  "def": "正味重量とは、梱包材などを含まない、貨物そのものの重さのことです。"
+ },
+ {
+  "id": "hs-code",
+  "term": "HSコード",
+  "en": "Harmonized System code",
+  "field": "通関と関税",
+  "def": "HSコードとは、世界税関機構（WCO）が定めた、貨物の種類を6桁の番号で分類する国際的なしくみのことです。日本ではこれに3桁を加えた9桁の統計品目番号を使います。"
+ },
+ {
+  "id": "advance-ruling",
+  "term": "事前教示制度",
+  "en": "Advance ruling",
+  "field": "通関と関税",
+  "def": "事前教示制度とは、輸入を予定している貨物の関税分類や税率などを、輸入の前に税関に照会して回答を受けられる制度のことです。"
+ },
+ {
+  "id": "rules-of-origin",
+  "term": "原産地規則",
+  "en": "Rules of origin",
+  "field": "通関と関税",
+  "def": "原産地規則とは、貨物がどの国で作られたもの（原産品）かを決めるためのルールのことです。EPA税率を使うための特恵原産地規則と、それ以外の非特恵原産地規則があります。"
+ },
+ {
+  "id": "certificate-of-origin",
+  "term": "特定原産地証明書",
+  "en": "Certificate of origin (EPA)",
+  "field": "通関と関税",
+  "def": "特定原産地証明書とは、第三者証明制度のEPAで、日本から輸出する貨物が原産品であることを示すために日本商工会議所が発給する証明書のことです。"
+ },
+ {
+  "id": "bonded-warehouse",
+  "term": "保税蔵置場",
+  "en": "Bonded warehouse",
+  "field": "通関と関税",
+  "def": "保税蔵置場とは、外国貨物を関税などを納めない状態で置いておける、税関長の許可を受けた場所のことです。原則として2年間置くことができます。"
+ },
+ {
+  "id": "aeo",
+  "term": "AEO制度",
+  "en": "Authorized Economic Operator",
+  "field": "通関と関税",
+  "def": "AEO制度とは、貨物の安全管理と法令遵守の体制が整った事業者を税関が認定し、通関手続を簡素にする制度のことです。"
+ },
+ {
+  "id": "naccs",
+  "term": "NACCS",
+  "en": "Nippon Automated Cargo and Port Consolidated System",
+  "field": "貿易書類",
+  "def": "NACCSとは、輸出入の申告や関係省庁の手続、港湾・空港の物流情報を、オンラインでまとめて処理するシステムのことです。"
+ },
+ {
+  "id": "e-bl",
+  "term": "電子船荷証券",
+  "en": "Electronic bill of lading",
+  "field": "貿易書類",
+  "def": "電子船荷証券とは、船荷証券（B/L）を紙ではなく電子データで発行・譲渡するしくみのことです。日本では商法改正が予定されています。"
  }
 ]
