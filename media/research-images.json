@@ -904,5 +904,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bathtub_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/500px-Bathtub_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
   "og": "https://research.seadice.win/img/bathing-before-bed-sleep-onset-og.jpg",
   "local": true
+ },
+ "todo-list-reduce-procrastination-research": {
+  "file": "File:Project Tiger T-Shirt, Notepad and Pen.jpg",
+  "src": "/img/todo-list-reduce-procrastination-research.jpg",
+  "src640": "/img/todo-list-reduce-procrastination-research-sm.jpg",
+  "w": 960,
+  "h": 480,
+  "alt": "Project Tiger T-Shirt, Notepad and Pen",
+  "artist": "Sangram Keshari Senapati",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Project_Tiger_T-Shirt,_Notepad_and_Pen.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Project_Tiger_T-Shirt%2C_Notepad_and_Pen.jpg/960px-Project_Tiger_T-Shirt%2C_Notepad_and_Pen.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Project_Tiger_T-Shirt%2C_Notepad_and_Pen.jpg/500px-Project_Tiger_T-Shirt%2C_Notepad_and_Pen.jpg",
+  "og": "https://research.seadice.win/img/todo-list-reduce-procrastination-research.jpg",
+  "local": true
  }
 }

@@ -1488,5 +1488,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bouquet_de_roses_roses.jpg/500px-Bouquet_de_roses_roses.jpg",
   "local": true,
   "og": "https://umbra.seadice.win/img/compliments-flattery-liking-signal-research-og.jpg"
+ },
+ "kindness-helping-signal-of-interest-research": {
+  "file": "File:Maruhan Charity Box at Daito Osaka.jpg",
+  "src": "/img/kindness-helping-signal-of-interest-research.jpg",
+  "src640": "/img/kindness-helping-signal-of-interest-research-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "Maruhan Charity Box at Daito Osaka",
+  "artist": "Mr.ちゅらさん",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Maruhan_Charity_Box_at_Daito_Osaka.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Maruhan_Charity_Box_at_Daito_Osaka.jpg/960px-Maruhan_Charity_Box_at_Daito_Osaka.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Maruhan_Charity_Box_at_Daito_Osaka.jpg/500px-Maruhan_Charity_Box_at_Daito_Osaka.jpg",
+  "og": "https://umbra.seadice.win/img/kindness-helping-signal-of-interest-research.jpg",
+  "local": true
  }
 }
