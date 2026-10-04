@@ -1,5 +1,69 @@
 [
   {
+    "slug": "neck-touch-pacifying-behavior-research",
+    "category": "しぐさ・ボディランゲージ",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "首や鎖骨のくぼみを触るのは不安のサインか。「なだめ行動」を元FBI捜査官の説と研究で検証",
+    "summary": "首を触るのは不安を落ち着かせる「なだめ行動」か。不安とは関係するが、嘘の手がかりにはならない"
+  },
+  {
+    "slug": "torso-turn-away-ventral-denial-research",
+    "category": "しぐさ・ボディランゲージ",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "話の途中で体の正面をそらすのは拒否のサインか。「腹側の否定」を元FBI捜査官の説と研究で検証",
+    "summary": "体の正面をそらすのは拒否のサイン？元FBI捜査官の説を回避姿勢と嘘の研究で検証"
+  },
+  {
+    "slug": "freeze-flight-fight-threat-response-research",
+    "category": "しぐさ・ボディランゲージ",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "急に体が固まるのは警戒のサインか。「フリーズ・逃走・闘争」反応を元FBI捜査官の説と研究で検証",
+    "summary": "脅威で体が固まる反応は実験で確認済み。ただし嘘の証拠にはならず、動けないことは同意でもない"
+  },
+  {
+    "slug": "lip-compression-disappearing-lips-stress-research",
+    "category": "しぐさ・ボディランゲージ",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "唇をぎゅっと結ぶのはストレスのサインか。唇が消えるしぐさを元FBI捜査官の説と研究で検証",
+    "summary": "唇を結ぶ・噛むしぐさは緊張や照れで増えるが効果は小さく、嘘の証拠にはならないことを研究で検証"
+  },
+  {
+    "slug": "eye-blocking-covering-eyes-research",
+    "category": "しぐさ・ボディランゲージ",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "目を手で覆う・ぎゅっと閉じるのは「見たくない」のサインか。元FBI捜査官の説を研究で検証",
+    "summary": "嫌悪の表情では目が細まり視野が狭まる。ただ目を閉じるのは考えごとや思い出すときにも増え、不快の証拠にはならない。"
+  },
+  {
+    "slug": "nose-touching-lying-pinocchio-research",
+    "category": "しぐさ・ボディランゲージ",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "嘘をつくと鼻を触るのは本当か。「ピノキオ効果」の通説を研究で検証",
+    "summary": "嘘で鼻を触る説の根拠は1人の事例研究だけ。メタ分析では顔を触るしぐさと嘘に明確な関係なし"
+  },
+  {
+    "slug": "steepling-hands-confidence-research",
+    "category": "しぐさ・ボディランゲージ",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "指先を合わせる「尖塔のポーズ」は自信のサインか。元FBI捜査官の説を研究で検証",
+    "summary": "尖塔のポーズ＝自信は元FBI捜査官の経験則。直接の研究はなく、手ぶりの研究から読める範囲を検証"
+  },
+  {
+    "slug": "feet-most-honest-leakage-research",
+    "category": "しぐさ・ボディランゲージ",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "足は一番正直な部位なのか。元FBI捜査官の説と「はずむ足」を研究で検証",
+    "summary": "「足は顔より正直」は経験則。メタ分析では足や脚の動きと嘘の差はほぼゼロでした"
+  },
+  {
     "slug": "leg-crossing-direction-personality-research",
     "category": "しぐさ・ボディランゲージ",
     "type": "guide",

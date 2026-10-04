@@ -17,7 +17,8 @@
         "pupil-dilation-attraction-research",
         "body-language-lie-detection-accuracy",
         "blink-rate-nervousness-lying-research",
-        "gaze-avoidance-social-anxiety-research"
+        "gaze-avoidance-social-anxiety-research",
+        "eye-blocking-covering-eyes-research"
       ]
     },
     {
@@ -34,7 +35,8 @@
         "fake-smile-duchenne-detection-research",
         "microexpression-true-feelings-research",
         "appearance-first-impression-accuracy-research",
-        "eyebrow-flash-attraction-research"
+        "eyebrow-flash-attraction-research",
+        "lip-compression-disappearing-lips-stress-research"
       ]
     },
     {
@@ -50,7 +52,10 @@
       "slugs": [
         "self-touch-face-hair-nervousness-research",
         "touch-affection-signal-research",
-        "arm-crossing-posture-psychology-research"
+        "arm-crossing-posture-psychology-research",
+        "neck-touch-pacifying-behavior-research",
+        "nose-touching-lying-pinocchio-research",
+        "steepling-hands-confidence-research"
       ]
     },
     {
@@ -69,7 +74,8 @@
         "chameleon-effect-mimicry-liking-research",
         "power-pose-confidence-replication-research",
         "forward-lean-posture-approach-avoidance-research",
-        "leg-crossing-direction-personality-research"
+        "leg-crossing-direction-personality-research",
+        "torso-turn-away-ventral-denial-research"
       ]
     },
     {
@@ -83,7 +89,9 @@
       ],
       "slugs": [
         "leg-jiggling-fidgeting-anxiety-research",
-        "head-tilt-impression-research"
+        "head-tilt-impression-research",
+        "freeze-flight-fight-threat-response-research",
+        "feet-most-honest-leakage-research"
       ]
     },
     {
@@ -106,7 +114,7 @@
     }
   ],
   "cta": {
-    "label": "しぐさ・ボディランゲージ索引で、32種類のしぐさを部位や知りたいことから調べる",
+    "label": "しぐさ・ボディランゲージ索引で、しぐさを部位や知りたいことから調べる",
     "href": "/shigusa/"
   }
 }
