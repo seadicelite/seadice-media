@@ -75,6 +75,7 @@
 - 出典と検証の方法: https://dokugaku.seadice.win/sources/
 - 免責事項: https://dokugaku.seadice.win/disclaimer/
 - 勉強法の早見表: https://dokugaku.seadice.win/hayami/
+- よくある質問: https://dokugaku.seadice.win/faq/
 - 悩み別ガイド: https://dokugaku.seadice.win/guide/
 - 用語集: https://dokugaku.seadice.win/glossary/
 - サイトマップ: https://dokugaku.seadice.win/sitemap.xml

@@ -81,7 +81,32 @@ page = {"path": "hayami", "title": "勉強法の効く・効かない早見表",
         "seo_title": f"勉強法の効く・効かない早見表｜{len(D)}の勉強法を研究で判定", "date": "2026-10-04",
         "desc": f"思い出す練習、分散学習、蛍光ペン、学習スタイル、ポモドーロ。よく言われる勉強法{len(D)}種類を、研究で「効く」「条件しだい」「当てにならない」に判定した早見表。出典つき。",
         "body": body, "css": css}
-(ROOT / "media/dokugaku-pages.json").write_text(json.dumps([page], ensure_ascii=False, indent=2) + "\n")
+# よくある質問の一覧(/faq/)。各記事の FAQPage(確認済みの問答)をカテゴリ別に集める。AI検索で引用されやすい形
+qa = []
+for cname in cats:
+    for p in [p for p in posts.values() if p["category"] == cname]:
+        t = (ROOT / f'sites/dokugaku/{p["slug"]}/index.html').read_text()
+        for m in re.findall(r'<script type="application/ld\+json">(.*?)</script>', t, re.S):
+            d = json.loads(m)
+            for node in d.get("@graph", [d]):
+                if node.get("@type") == "FAQPage":
+                    for q in node["mainEntity"]:
+                        qa.append((cname, q["name"], q["acceptedAnswer"]["text"], p))
+secs = ""
+for cname in cats:
+    rows = [x for x in qa if x[0] == cname]
+    if not rows:
+        continue
+    secs += f'<h2>{E(cname)}</h2>' + "".join(
+        f'<details class="fq"><summary>{E(q)}</summary><p>{E(a)}</p><a href="/{p["slug"]}/">記事を読む：{E(p["title"])}</a></details>' for _, q, a, p in rows)
+faq2 = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+    {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a, "url": f'https://dokugaku.seadice.win/{p["slug"]}/'}} for _, q, a, p in qa]}
+faq_page = {"path": "faq", "title": "独学・勉強法のよくある質問", "seo_title": f"独学・勉強法のよくある質問{len(qa)}問｜研究でわかった答え", "date": page["date"],
+            "desc": f"「蛍光ペンは意味ある？」「勉強中の音楽は？」「AIに聞くと身につかない？」など、独学と勉強法のよくある質問{len(qa)}問に、研究でわかったことから答えます。出典つき。",
+            "body": f'<p>独学と勉強法のよくある質問に、研究でわかったことから答えます。答えはそれぞれの記事（論文などの出典を確認済み）の内容です。くわしい根拠は各記事で読めます。</p><p><a href="/hayami/" style="color:var(--link);font-weight:700">勉強法の効く・効かない早見表も見る</a></p>'
+                    + f'<script type="application/ld+json">{json.dumps(faq2, ensure_ascii=False).replace("</", chr(60) + chr(92) + "/")}</script>' + secs,
+            "css": ".fq{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 16px;margin:10px 0}.fq summary{cursor:pointer;font-weight:700;font-size:15px;line-height:1.6}.fq p{font-size:15px;line-height:1.85;margin:10px 0 6px}.fq a{font-size:14px;color:var(--link)}"}
+(ROOT / "media/dokugaku-pages.json").write_text(json.dumps([page, faq_page], ensure_ascii=False, indent=2) + "\n")
 
 # 各記事の末尾(出典の直前)に、早見表の該当項目へのリンクを差し込む。再実行しても1つだけになる
 BLOCK = re.compile(r"<!--hayami-->.*?<!--/hayami-->\n?", re.S)
