@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "shinri",
+    "name": "日常の心理学",
+    "url": "https://shinri.seadice.win/",
+    "live": true,
+    "engine": "shinri_pages"
+  },
+  {
+    "slug": "boueki",
+    "name": "ゼロから学ぶ貿易実務",
+    "url": "https://boueki.seadice.win/",
+    "live": false
+  },
+  {
+    "slug": "counselor",
+    "name": "ゼロから学ぶ心理カウンセリング",
+    "url": "https://counselor.seadice.win/",
+    "live": false
+  },
+  {
+    "slug": "kodokeizai",
+    "name": "ゼロから学ぶ行動経済学",
+    "url": "https://kodokeizai.seadice.win/",
+    "live": false
+  },
+  {
+    "slug": "hanzaigaku",
+    "name": "ゼロから学ぶ犯罪学",
+    "url": "https://hanzaigaku.seadice.win/",
+    "live": false
+  }
+]

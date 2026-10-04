@@ -5,7 +5,9 @@ argument-hint: [本数(既定1)]
 
 # /boueki-lesson — 貿易実務講座のレッスンを追加する
 
-対象: `media/boueki-course.json`（講座データ）。ページは `python3 media/boueki_pages.py` が生成する。HTMLを手で編集しない。
+**先に `docs/study.md` を全部読む。** これが最上位のルール（レッスンの型・分量・検査・やらないこと）。このファイルと食い違うときは study.md を優先する。
+
+対象: `media/boueki-course.json`（講座データ）。ページは共通エンジン `python3 media/study.py boueki` が生成する（旧 `boueki_pages.py` は使わない）。HTMLを手で編集しない。
 品質基準として `docs/quality/base.md` と `docs/quality/course.md` も読む（学習サイト向け。写真は不要）。
 
 ## なぜ手元で実行するのか（最重要）
@@ -25,11 +27,12 @@ argument-hint: [本数(既定1)]
    - 個人ブログ・企業の宣伝ページ・まとめサイト・検索結果のスニペットだけを根拠にしない。
    - **市販の教科書・問題集・貿易実務検定の過去問の文章や問題を写さない・言い換えない。** 確認問題はすべてオリジナルにする。
    - 書く数値・年・法律名・定義は、開いた出典の本文で1件ずつ確認する。確認できないものは書かない。統計は年と速報/確報の別を本文に書く。
-4. レッスンを `chapters[章].lessons` の末尾に追加する。形式は既存レッスン（第1章）と同じ:
-   `{"id"(英小文字ハイフン、講座内で一意),"date"(今日),"modified"(今日),"title"(問いに答える形・40字以内),"short"(15字以内),"description"(120字以内・冒頭で言い切る),"goals"[3],"summary"[3〜5](1文目で「〇〇とは、△△のことです」と定義),"sections"[3〜5]({"h","answer"(120字以内の言い切り),"paras"[2〜3]}),"terms"[4〜8]({"ja","en","def"}),"quiz"[3]({"q","choices"[3],"a"(0始まり),"exp"}),"sources"[3以上]({"text","url"})}`
-   - 本文（paras の合計）は1000〜2000字。1文60字前後まで。専門用語は初出で定義する。後の章で詳しく扱う内容は「第◯章で学びます」とつなぐ。
+4. レッスンを `chapters[章].lessons` の末尾に追加する。形式は **docs/study.md 5章の新形式**（`question` / `review` / `sections` / `figure` / `apply` / `keep` / `terms` / `quiz`（1問以上 `apply: true`） / `sources`）。旧形式（`goals` / `summary`）では書かない。
+   - 分量・文体は study.md 6章（本文600〜1000字、セクション1〜3、1段落3文まで、1文80字以内、keep ちょうど3、terms 3語まで、quiz 3問、太字は1セクション1か所、sources 2件以上、title 40字・description 120字まで）。
+   - `review` は直前のレッスンの内容から新しく作る（章の最初のレッスンでは省いてよい）。`figure` は表（table）か図（svg）を1つ。
+   - 専門用語は平易な言葉で先に言い、後から用語名を示す。後の章で詳しく扱う内容は先取りせず「第◯章で学びます」とつなぐ。
    - 用語辞典 `media/boueki-glossary.json` に無い重要語は追加する（`{"id","term","en","field","def"("〇〇とは、△△のことです。"で始める)}`）。
-5. `python3 media/boueki_pages.py --check` が `check ok` になるまで直し、`python3 media/boueki_pages.py` で生成する。
+5. `python3 media/study.py boueki --check` が `check ok` になるまで直し（旧形式レッスンの警告は出てよい。新形式のエラーは0にする）、`python3 media/study.py boueki` で生成する。
 6. 公開前の自己検査（1つでも落ちたら直すか破棄する）:
    - 全出典URLを開き直し、本文の数値・年・法律名・定義が出典に書かれていることを照合した。
    - 制度（関税・通関・規制）が最新の内容か。改正があれば新しい方に合わせた。
