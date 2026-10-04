@@ -388,7 +388,7 @@
       ]
     },
     {
-      "site": "seadice-boueki",
+      "site": "boueki-dojo",
       "public": "sites/boueki",
       "ignore": [
         "firebase.json",
@@ -407,6 +407,51 @@
         },
         {
           "source": "/sitemap.xml",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "/c/exam/flutter_service_worker.js",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "/c/exam/flutter_bootstrap.js",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "/c/exam/flutter.js",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "/c/exam/main.dart.js",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "/c/exam/version.json",
           "headers": [
             {
               "key": "Cache-Control",
@@ -510,6 +555,21 @@
               "value": "strict-origin-when-cross-origin"
             }
           ]
+        }
+      ]
+    },
+    {
+      "site": "seadice-boueki",
+      "public": "sites/boueki-redirect",
+      "ignore": [
+        "firebase.json",
+        "**/.*"
+      ],
+      "redirects": [
+        {
+          "regex": "^/(?P<path>.*)$",
+          "destination": "https://boueki.seadice.win/:path",
+          "type": 301
         }
       ]
     }

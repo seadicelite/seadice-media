@@ -87,7 +87,7 @@ def favicon():
 
 FAV = favicon()
 CUR = ' aria-current="page"'
-NAV = [("/course/", "講座"), ("/glossary/", "用語辞典")]
+NAV = [("/course/", "講座"), ("/c/", "模擬試験"), ("/glossary/", "用語辞典")]
 
 
 QUIZ_JS = """document.querySelectorAll('.quiz').forEach(function(z){var qs=z.querySelectorAll('.qz'),n=0,ok=0,miss={};
@@ -165,7 +165,7 @@ def write(path, full_title, desc, body, graph, trail=(), og_type="article", curr
 {bc}{body}
 </main>
 {'<script>' + QUIZ_JS + '</script>' if 'class="quiz"' in body else ''}
-<footer class="site"><p><a href="/course/">ゼロから学ぶ貿易実務入門</a><a href="/glossary/">貿易用語辞典</a><br><a href="/about/">このサイトについて</a><a href="/sources/">出典と検証の方法</a><a href="/disclaimer/">免責事項</a><a href="mailto:hi@seadice.win">お問い合わせ</a><br><a href="https://seadice.win/">運営: SEADICE</a></p></footer>
+<footer class="site"><p><a href="/course/">ゼロから学ぶ貿易実務入門</a><a href="/c/">C級 模擬試験</a><a href="/glossary/">貿易用語辞典</a><br><a href="/about/">このサイトについて</a><a href="/sources/">出典と検証の方法</a><a href="/disclaimer/">免責事項</a><a href="mailto:hi@seadice.win">お問い合わせ</a><br><a href="https://seadice.win/">運営: SEADICE</a></p></footer>
 </body>
 </html>
 '''
@@ -343,6 +343,30 @@ def practice_html(h="もっと演習する"):
     cards = "".join(f'<a class="card" href="{u}"><b>{E(n)}</b><span>{E(t)}</span></a>' for n, u, t in ps)
     return (f'<h2><span class="n">PRACTICE</span>{E(h)}</h2><p class="answer">講座で学んだあとの演習には、SEADICEの次のツールも使えます。いずれも無料です。</p>'
             f'<div class="grid">{cards}</div>')
+
+
+def exam_corner():
+    """本番形式の模擬試験コーナー（旧・貿易実務道場）。試験本体はFlutterアプリ /c/exam/ （静的ファイル）。"""
+    url = f"{URL}c/"
+    faq = CFG["exam"]["faq"]
+    body = f'''<span class="kicker">C級 本番形式</span>
+<h1>貿易実務検定C級 模擬試験（無料・登録不要）</h1>
+<p class="updated">制限時間60分 ・ 全4大問 ・ 更新日 {UPDATED}</p>
+<p class="lead">講座で学んだあとの、C級の模擬練習場です。本番形式のCBT模擬試験に、登録不要・無料で何度でも挑戦できます。</p>
+<div class="btns"><a class="btn" href="/c/exam/">模擬試験を始める</a><a class="btn sub" href="/course/mock-exam/">講座の確認模試（{mock_n()}問）</a></div>
+<div class="box key"><p class="bt">模擬試験の概要</p><ul><li>費用：無料（会員登録不要）</li><li>制限時間：60分</li><li>構成：全4大問（正誤問題・選択問題・語群穴埋め・3択問題）</li><li>対応端末：スマホ・タブレット・PCのブラウザ</li></ul></div>
+<div class="box note"><p style="margin:0">この模擬試験はSEADICEが独自に作った問題です。貿易実務検定の過去問や公式の問題ではなく、合否の基準を示すものでもありません。</p></div>
+<h2><span class="n">01</span>まだ学んでいない分野があるときは</h2>
+<p class="answer">間違えた分野は、無料講座の該当する章で学び直せます。章末のまとめテストで確かめてから、もう一度挑戦しましょう。</p>
+<div class="grid">{chapter_list()}</div>
+{practice_html("あわせて使える演習ツール")}
+<h2><span class="n">FAQ</span>よくある質問</h2>
+{faq_html(faq)}'''
+    graph = [{"@type": "WebApplication", "name": "貿易実務検定C級 模擬試験", "url": url, "applicationCategory": "EducationApplication", "operatingSystem": "Web",
+              "inLanguage": "ja", "offers": {"@type": "Offer", "price": 0, "priceCurrency": "JPY"}, "publisher": PUBLISHER}, faq_ld(faq)]
+    return write("c/", f"貿易実務検定C級 模擬試験を無料で｜登録不要のWeb模試 | {NAME}",
+                 "貿易実務検定C級の本番形式の模擬試験（制限時間60分・全4大問）に、登録不要・無料で挑戦できます。間違えた分野は無料講座で学び直せます。",
+                 body, graph, trail=[("C級 模擬試験", url)], current="/c/", wide=True)
 
 
 def mock_n():
@@ -560,6 +584,8 @@ if __name__ == "__main__":
             urls.append(chapter_test(ch))
     if COURSE.get("mock"):
         urls.append(mock_exam())
+    if CFG.get("exam"):
+        urls.append(exam_corner())
     urls += [glossary()] + [term_page(t) for t in TERMS if rich(t)]
     urls += trust_pages()
     extras(urls)
