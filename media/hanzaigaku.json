@@ -45,7 +45,7 @@
   ],
   "enabled": false,
   "live": false,
-  "note": "学習サイト。記事エンジン(/media)の対象外。ページは python3 media/study.py hanzaigaku で生成する（共通エンジン。用語は media/hanzaigaku-glossary.json、レッスンは /study-lesson hanzaigaku）。2026-10-04 着手・同日公開（hanzaigaku.seadice.win、第1〜9章30レッスン）。相互リンク候補: 姉妹メディア「犯罪と心理」https://hanzai.seadice.win/ （理論の章→個別の事件・心理の記事）、「防犯」https://bohan.seadice.win/ （環境犯罪学・状況的犯罪予防・特殊詐欺の章→対策記事）。看板ツール（犯罪白書の推移グラフ）は未作成。第8章（被害者学）は care:true で careHtml（警察庁・法テラスで確認、2026-10-04）を表示。",
+  "note": "学習サイト。記事エンジン(/media)の対象外。ページは python3 media/study.py hanzaigaku で生成する（共通エンジン。用語は media/hanzaigaku-glossary.json、レッスンは /study-lesson hanzaigaku）。2026-10-04 着手・同日公開（hanzaigaku.seadice.win、2026-10-05 全14章47レッスン完成）。相互リンク候補: 姉妹メディア「犯罪と心理」https://hanzai.seadice.win/ （理論の章→個別の事件・心理の記事）、「防犯」https://bohan.seadice.win/ （環境犯罪学・状況的犯罪予防・特殊詐欺の章→対策記事）。看板ツール（犯罪白書の推移グラフ）は未作成。第8章（被害者学）・第12章（犯罪の種類）は care:true で careHtml（警察庁・法テラスで確認、2026-10-04）を表示。",
   "practice": [],
   "icon": "犯",
   "logoSub": "犯罪学を無料で学ぶ",
