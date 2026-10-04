@@ -661,5 +661,18 @@
   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
   "page": "https://www.flickr.com/photos/66143513@N03/55457118369",
   "source_label": "Flickr"
+ },
+ "sns-video-voice-clone-risk": {
+  "file": "File:Live room and microphone at Audio Mix House, Studio C (13431045144).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Live_room_and_microphone_at_Audio_Mix_House%2C_Studio_C_%2813431045144%29.jpg/960px-Live_room_and_microphone_at_Audio_Mix_House%2C_Studio_C_%2813431045144%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Live_room_and_microphone_at_Audio_Mix_House%2C_Studio_C_%2813431045144%29.jpg/500px-Live_room_and_microphone_at_Audio_Mix_House%2C_Studio_C_%2813431045144%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Las Vegas, NV",
+  "artist": "Audio Mix House from United States",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Live_room_and_microphone_at_Audio_Mix_House,_Studio_C_(13431045144).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
