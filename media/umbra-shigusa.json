@@ -10,6 +10,10 @@
       "id": "eye-contact",
       "tags": [
         "like"
+      ],
+      "scenes": [
+        "date",
+        "first"
       ]
     },
     {
@@ -23,7 +27,11 @@
       "tags": [
         "lie"
       ],
-      "evidence": "meta"
+      "evidence": "meta",
+      "scenes": [
+        "work",
+        "conflict"
+      ]
     },
     {
       "part": "目・視線",
@@ -36,6 +44,9 @@
       "tags": [
         "like",
         "nerve"
+      ],
+      "scenes": [
+        "date"
       ]
     },
     {
@@ -48,6 +59,11 @@
       "id": "smile",
       "tags": [
         "lie"
+      ],
+      "scenes": [
+        "date",
+        "work",
+        "first"
       ]
     },
     {
@@ -61,7 +77,11 @@
       "tags": [
         "lie"
       ],
-      "evidence": "meta"
+      "evidence": "meta",
+      "scenes": [
+        "work",
+        "conflict"
+      ]
     },
     {
       "part": "表情",
@@ -73,6 +93,10 @@
       "id": "first-impression",
       "tags": [
         "lie"
+      ],
+      "scenes": [
+        "work",
+        "first"
       ]
     },
     {
@@ -87,6 +111,11 @@
         "lie",
         "like",
         "nerve"
+      ],
+      "scenes": [
+        "date",
+        "work",
+        "first"
       ]
     },
     {
@@ -99,6 +128,10 @@
       "id": "arm-cross",
       "tags": [
         "warn"
+      ],
+      "scenes": [
+        "work",
+        "conflict"
       ]
     },
     {
@@ -111,6 +144,9 @@
       "id": "touch",
       "tags": [
         "like"
+      ],
+      "scenes": [
+        "date"
       ]
     },
     {
@@ -124,7 +160,10 @@
       "tags": [
         "like"
       ],
-      "evidence": "few"
+      "evidence": "few",
+      "scenes": [
+        "date"
+      ]
     },
     {
       "part": "姿勢・距離",
@@ -136,6 +175,10 @@
       "id": "distance",
       "tags": [
         "like"
+      ],
+      "scenes": [
+        "date",
+        "first"
       ]
     },
     {
@@ -148,6 +191,10 @@
       "id": "mimicry",
       "tags": [
         "like"
+      ],
+      "scenes": [
+        "date",
+        "first"
       ]
     },
     {
@@ -160,6 +207,9 @@
       "id": "voice-pitch",
       "tags": [
         "like"
+      ],
+      "scenes": [
+        "date"
       ]
     },
     {
@@ -172,6 +222,10 @@
       "id": "tempo",
       "tags": [
         "like"
+      ],
+      "scenes": [
+        "date",
+        "first"
       ]
     },
     {
@@ -185,7 +239,10 @@
       "tags": [
         "like"
       ],
-      "evidence": "few"
+      "evidence": "few",
+      "scenes": [
+        "sns"
+      ]
     },
     {
       "part": "連絡・行動",
@@ -198,6 +255,9 @@
       "tags": [
         "like",
         "warn"
+      ],
+      "scenes": [
+        "sns"
       ]
     },
     {
@@ -210,6 +270,9 @@
       "id": "sns-avoid",
       "tags": [
         "like"
+      ],
+      "scenes": [
+        "sns"
       ]
     },
     {
@@ -223,6 +286,9 @@
       "tags": [
         "like",
         "warn"
+      ],
+      "scenes": [
+        "date"
       ]
     },
     {
@@ -235,6 +301,9 @@
       "id": "stonewalling",
       "tags": [
         "warn"
+      ],
+      "scenes": [
+        "conflict"
       ]
     },
     {
@@ -247,6 +316,10 @@
       "id": "play-hard-to-get",
       "tags": [
         "like"
+      ],
+      "scenes": [
+        "date",
+        "sns"
       ]
     },
     {
@@ -259,6 +332,10 @@
       "id": "jealousy",
       "tags": [
         "warn"
+      ],
+      "scenes": [
+        "conflict",
+        "sns"
       ]
     },
     {
@@ -272,6 +349,10 @@
       "tags": [
         "warn",
         "like"
+      ],
+      "scenes": [
+        "date",
+        "sns"
       ]
     },
     {
@@ -284,6 +365,9 @@
       "id": "no-apology",
       "tags": [
         "warn"
+      ],
+      "scenes": [
+        "conflict"
       ]
     },
     {
@@ -298,7 +382,10 @@
         "lie",
         "nerve"
       ],
-      "evidence": "meta"
+      "evidence": "meta",
+      "scenes": [
+        "work"
+      ]
     },
     {
       "part": "体の動き",
@@ -311,7 +398,10 @@
       "tags": [
         "nerve"
       ],
-      "evidence": "few"
+      "evidence": "few",
+      "scenes": [
+        "work"
+      ]
     },
     {
       "part": "声・会話",
@@ -323,6 +413,11 @@
       "id": "nodding",
       "tags": [
         "like"
+      ],
+      "scenes": [
+        "date",
+        "work",
+        "first"
       ]
     },
     {
@@ -338,7 +433,12 @@
         "nerve",
         "warn"
       ],
-      "evidence": "meta"
+      "evidence": "meta",
+      "scenes": [
+        "work",
+        "conflict",
+        "first"
+      ]
     },
     {
       "part": "姿勢・距離",
@@ -349,7 +449,11 @@
       "slug": "power-pose-confidence-replication-research",
       "id": "power-pose",
       "tags": [],
-      "evidence": "meta"
+      "evidence": "meta",
+      "scenes": [
+        "work",
+        "first"
+      ]
     },
     {
       "part": "表情",
@@ -361,6 +465,10 @@
       "id": "eyebrow-flash",
       "tags": [
         "like"
+      ],
+      "scenes": [
+        "date",
+        "first"
       ]
     },
     {
@@ -374,7 +482,11 @@
       "tags": [
         "like"
       ],
-      "evidence": "meta"
+      "evidence": "meta",
+      "scenes": [
+        "date",
+        "work"
+      ]
     },
     {
       "part": "体の動き",
@@ -387,7 +499,10 @@
       "tags": [
         "like"
       ],
-      "evidence": "few"
+      "evidence": "few",
+      "scenes": [
+        "date"
+      ]
     },
     {
       "part": "姿勢・距離",
@@ -398,7 +513,12 @@
       "slug": "leg-crossing-direction-personality-research",
       "id": "leg-cross",
       "tags": [],
-      "evidence": "few"
+      "evidence": "few",
+      "scenes": [
+        "date",
+        "work",
+        "first"
+      ]
     },
     {
       "id": "neck-touch",
@@ -413,7 +533,10 @@
         "fbi"
       ],
       "evidence": "few",
-      "slug": "neck-touch-pacifying-behavior-research"
+      "slug": "neck-touch-pacifying-behavior-research",
+      "scenes": [
+        "work"
+      ]
     },
     {
       "id": "torso-away",
@@ -428,7 +551,11 @@
         "fbi"
       ],
       "evidence": "few",
-      "slug": "torso-turn-away-ventral-denial-research"
+      "slug": "torso-turn-away-ventral-denial-research",
+      "scenes": [
+        "work",
+        "conflict"
+      ]
     },
     {
       "id": "freeze",
@@ -444,7 +571,10 @@
         "fbi"
       ],
       "evidence": "meta",
-      "slug": "freeze-flight-fight-threat-response-research"
+      "slug": "freeze-flight-fight-threat-response-research",
+      "scenes": [
+        "conflict"
+      ]
     },
     {
       "id": "lip-compress",
@@ -459,7 +589,11 @@
         "fbi"
       ],
       "evidence": "meta",
-      "slug": "lip-compression-disappearing-lips-stress-research"
+      "slug": "lip-compression-disappearing-lips-stress-research",
+      "scenes": [
+        "work",
+        "conflict"
+      ]
     },
     {
       "id": "eye-block",
@@ -474,7 +608,11 @@
         "lie"
       ],
       "evidence": "few",
-      "slug": "eye-blocking-covering-eyes-research"
+      "slug": "eye-blocking-covering-eyes-research",
+      "scenes": [
+        "work",
+        "conflict"
+      ]
     },
     {
       "id": "nose-touch",
@@ -487,7 +625,11 @@
         "lie"
       ],
       "evidence": "meta",
-      "slug": "nose-touching-lying-pinocchio-research"
+      "slug": "nose-touching-lying-pinocchio-research",
+      "scenes": [
+        "work",
+        "conflict"
+      ]
     },
     {
       "id": "steeple",
@@ -500,7 +642,10 @@
         "fbi"
       ],
       "evidence": "few",
-      "slug": "steepling-hands-confidence-research"
+      "slug": "steepling-hands-confidence-research",
+      "scenes": [
+        "work"
+      ]
     },
     {
       "id": "honest-feet",
@@ -514,7 +659,11 @@
         "fbi"
       ],
       "evidence": "meta",
-      "slug": "feet-most-honest-leakage-research"
+      "slug": "feet-most-honest-leakage-research",
+      "scenes": [
+        "date",
+        "work"
+      ]
     }
   ],
   "quiz": [
@@ -863,6 +1012,33 @@
       "id": "fbi",
       "label": "FBIの解読法を検証",
       "lead": "元FBI捜査官ジョー・ナヴァロが紹介した解読法を、研究と照らし合わせました。足・首・唇などのしぐさは緊張と関係することがあっても、嘘の証拠になると確かめた研究は見当たりません。ナヴァロ自身も、こうしたしぐさは嘘ではなく緊張のサインだと述べています。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "date",
+      "label": "デート・恋愛",
+      "lead": "相手の好意を知りたくなったら、1つのしぐさより、距離・しぐさの同期・会話のテンポなど複数の手がかりの積み重ねを見ます。人は会話のあと、相手からの好意を実際より低く見積もりやすいこともわかっています。"
+    },
+    {
+      "id": "work",
+      "label": "職場・面接",
+      "lead": "面接や商談で相手の本音を読みたくなっても、しぐさから嘘を見抜ける確率は平均で約54%です。しぐさは緊張でも変わるので、気になることは言葉で確かめる方が確実です。"
+    },
+    {
+      "id": "conflict",
+      "label": "喧嘩・話し合い",
+      "lead": "喧嘩中に黙り込むのは、感情が高ぶりすぎて頭が働かなくなっているせいかもしれません。1回で決めつけず、よくあるパターンか、落ち着いてから話し合いに戻れるかを見ます。"
+    },
+    {
+      "id": "first",
+      "label": "初対面",
+      "lead": "第一印象は一瞬で決まりますが、顔から受ける信頼感は実際の人柄とずれることがあります。会話のあと、人は相手からの好意を低く見積もりがちです。"
+    },
+    {
+      "id": "sns",
+      "label": "LINE・SNS",
+      "lead": "返信の速さと好意を直接結びつけた決定的な研究はありません。速さより、やり取りの中身や、こちらの境界線をどう扱うかを見る方が手がかりになります。"
     }
   ]
 }

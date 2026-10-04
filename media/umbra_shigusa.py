@@ -20,7 +20,7 @@ E = html.escape
 ROOT = str(Path(__file__).resolve().parent.parent) + "/"
 URL = "https://umbra.seadice.win/shigusa/"
 data = json.load(open(ROOT + "media/umbra-shigusa.json"))
-D, Q, PUR = data["items"], data["quiz"], data.get("purposes", [])
+D, Q, PUR, SCN = data["items"], data["quiz"], data.get("purposes", []), data.get("scenes", [])
 LV = {"a": "手がかりになる", "b": "状況しだい", "c": "当てにならない"}
 EV = {"meta": "メタ分析・レビューあり", "few": "このしぐさを直接調べた研究は少ない"}
 PART_ORDER = ["目・視線", "表情", "手・触れる", "姿勢・距離", "体の動き", "声・会話", "連絡・行動"]
@@ -51,7 +51,7 @@ def th(slug):
 def item(x):
     img, cr = (svg(x["id"]), "") if svg(x["id"]) else th(x["slug"])
     ev = f'根拠：出典{nsrc(x["slug"])}件' + (f'・{EV[x["evidence"]]}' if x.get("evidence") in EV else "")
-    return (f'<li class="sg{" hasth" if img else ""}" id="{x["id"]}" data-p="{E(x["part"])}" data-t="{" ".join(x.get("tags", []))}" data-k="{E(x["gesture"] + x["belief"] + x["text"])}">{img}<div class="sgx">'
+    return (f'<li class="sg{" hasth" if img else ""}" id="{x["id"]}" data-p="{E(x["part"])}" data-t="{" ".join(x.get("tags", []))}" data-s="{" ".join(x.get("scenes", []))}" data-k="{E(x["gesture"] + x["belief"] + x["text"])}">{img}<div class="sgx">'
             f'<p class="sg-h"><span class="sg-part">{E(x["part"])}</span><span class="lv lv-{x["level"]}">{LV[x["level"]]}</span></p>'
             f'<h3>{E(x["gesture"])} <a class="pl" href="#{x["id"]}" aria-label="「{E(x["gesture"])}」へのリンク">#</a></h3>'
             f'<p class="sg-b">よく言われる意味：{E(x["belief"])}</p><p>{E(x["text"])}</p><p class="ev">{ev}</p>'
@@ -64,7 +64,10 @@ pchips = '<button type="button" class="pchip on" data-g="" aria-pressed="true">�
 GUIDE_PART = {"eyes": "目・視線", "face": "表情", "hands": "手・触れる", "posture": "姿勢・距離", "motion": "体の動き", "voice": "声・会話"}
 _guides = json.load(open(ROOT + "media/umbra-guides.json"))["items"]
 partleads = "".join(f'<div class="plead pp" data-pp="{E(GUIDE_PART[g["id"]])}" hidden><p class="pph">{E(GUIDE_PART[g["id"]])}について、まず知っておきたいこと</p><ul>' + "".join(f"<li>{E(p)}</li>" for p in g.get("points", [])) + "</ul></div>" for g in _guides if g["id"] in GUIDE_PART)
-pleads = "".join(f'<p class="plead" data-g="{x["id"]}" hidden>{E(x["lead"])}</p>' for x in PUR)
+schips = '<button type="button" class="schip on" data-s="" aria-pressed="true">指定しない</button>' + "".join(f'<button type="button" class="schip" data-s="{x["id"]}" aria-pressed="false">{E(x["label"])}</button>' for x in SCN)
+sleads = "".join(f'<p class="plead slead" data-sl="{x["id"]}" hidden>{E(x["lead"])}</p>' for x in SCN)
+_PP = {"like": "myakuari", "lie": "uso", "nerve": "kincho", "warn": "kyozetsu", "fbi": "fbi"}
+pleads = "".join(f'<p class="plead" data-g="{x["id"]}" hidden>{E(x["lead"])}' + (f' <a href="/shigusa/{_PP[x["id"]]}/" style="color:var(--link);font-weight:700">一覧ページで見る</a>' if x["id"] in _PP else "") + '</p>' for x in PUR)
 qdata = json.dumps([{"q": x["q"], "c": x["c"], "e": x["e"], "u": f'/{x["slug"]}/', "t": posts[x["slug"]]["title"]} for x in Q], ensure_ascii=False).replace("</", "<\\/")
 faq = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
     {"@type": "Question", "name": f'「{x["gesture"]}」は「{x["belief"]}」のサインですか？',
@@ -81,6 +84,9 @@ body = f"""<p>気になったしぐさから、研究でわかっていること
 <p class="flabel">知りたいことから</p>
 <div class="fchips">{pchips}</div>
 {pleads}
+<p class="flabel">場面から</p>
+<div class="fchips">{schips}</div>
+{sleads}
 <p class="flabel">体の部位から</p>
 <div class="fchips">{chips}</div>
 {partleads}
@@ -104,11 +110,12 @@ function each(sel,fn){{[].forEach.call(document.querySelectorAll(sel),fn)}}
 var t1=document.getElementById('t1'),t2=document.getElementById('t2'),p1=document.getElementById('p1'),p2=document.getElementById('p2'),started=false;
 function tab(n){{var a=n===1;t1.setAttribute('aria-selected',a);t2.setAttribute('aria-selected',!a);p1.hidden=!a;p2.hidden=a;if(!a&&!started)start();}}
 t1.onclick=function(){{tab(1)}};t2.onclick=function(){{tab(2)}};
-var q=document.getElementById('q'),cnt=document.getElementById('cnt'),f='',g='',li=[].slice.call(document.querySelectorAll('.sg'));
-function filt(){{var s=q.value.trim(),n=0;li.forEach(function(e){{var ok=(!f||e.dataset.p===f)&&(!g||(' '+e.dataset.t+' ').indexOf(' '+g+' ')>=0)&&(!s||e.dataset.k.indexOf(s)>=0||e.textContent.indexOf(s)>=0);e.hidden=!ok;if(ok)n++}});cnt.textContent=n?n+'件':'見つかりませんでした。条件を変えてみてください。'}}
+var q=document.getElementById('q'),cnt=document.getElementById('cnt'),f='',g='',sc='',li=[].slice.call(document.querySelectorAll('.sg'));
+function filt(){{var s=q.value.trim(),n=0;li.forEach(function(e){{var ok=(!f||e.dataset.p===f)&&(!g||(' '+e.dataset.t+' ').indexOf(' '+g+' ')>=0)&&(!sc||(' '+e.dataset.s+' ').indexOf(' '+sc+' ')>=0)&&(!s||e.dataset.k.indexOf(s)>=0||e.textContent.indexOf(s)>=0);e.hidden=!ok;if(ok)n++}});cnt.textContent=n?n+'件':'見つかりませんでした。条件を変えてみてください。'}}
 q.oninput=filt;
 function grp(sel,key,set){{each(sel,function(b){{b.onclick=function(){{set(b.dataset[key]);each(sel,function(x){{x.classList.toggle('on',x===b);x.setAttribute('aria-pressed',x===b)}});filt()}}}})}}
 grp('.chip','f',function(v){{f=v;each('.pp',function(p){{p.hidden=p.dataset.pp!==v}})}});
+grp('.schip','s',function(v){{sc=v;each('.slead',function(p){{p.hidden=p.dataset.sl!==v}})}});
 grp('.pchip','g',function(v){{g=v;each('.plead[data-g]',function(p){{p.hidden=p.dataset.g!==v}})}});
 var box=document.getElementById('quiz'),order,i,score;
 function start(){{started=true;order=sh(Q).slice(0,10);i=0;score=0;show()}}
@@ -162,7 +169,7 @@ css = (".tabs{display:flex;gap:8px;margin:20px 0 4px;border-bottom:1px solid var
  "@media(max-width:480px){.ill{width:72px;height:72px}.ill svg{width:54px;height:54px}}"
  ".pp ul{margin:4px 0 0 18px!important;padding:0}.pp li{font-size:14px!important;line-height:1.75!important;margin:4px 0!important}.pph{font-size:13px!important;font-weight:700;margin:0!important;color:var(--accent2)}"
  ".flabel{font-size:13px!important;color:var(--muted);margin:14px 0 6px!important}"
- ".pchip{font:inherit;font-size:14px;background:var(--card);color:var(--text);border:1px solid var(--border);border-radius:10px;padding:8px 14px;cursor:pointer}.pchip.on{border-color:var(--accent2);color:var(--accent2)}"
+ ".pchip,.schip{font:inherit;font-size:14px;background:var(--card);color:var(--text);border:1px solid var(--border);border-radius:10px;padding:8px 14px;cursor:pointer}.pchip.on,.schip.on{border-color:var(--accent2);color:var(--accent2)}"
  ".plead{font-size:14px!important;line-height:1.8!important;background:var(--card);border-left:3px solid var(--accent2);border-radius:6px;padding:10px 14px;margin:4px 0 8px!important}"
  ".sg:target{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}.sg{scroll-margin-top:72px}"
  ".pl{font-size:14px!important;color:var(--muted)!important;text-decoration:none;margin-left:4px}"
@@ -172,7 +179,53 @@ css = (".tabs{display:flex;gap:8px;margin:20px 0 4px;border-bottom:1px solid var
 page = {"path": "shigusa", "title": "しぐさ・ボディランゲージ索引", "date": "2026-10-03",
  "desc": "目をそらす、腕を組む、髪を触る。気になったしぐさから研究でわかっていることを引けるボディランゲージ索引と、思い込みを確かめる4択クイズ。出典つきの記事にもとづいています。",
  "body": body, "css": css}
-open(ROOT + "media/umbra-pages.json", "w").write(json.dumps([page], ensure_ascii=False, indent=2) + "\n")
+# 目的別の一覧ページ(/shigusa/{path}/)。目的タグごとに「手がかりになる→状況しだい→当てにならない」の順で並べる
+PURPOSE_PAGES = {
+    "like": ("myakuari", "脈ありサインは当たる？しぐさ{n}種類を研究で検証した一覧", "脈ありサイン一覧", "目が合う、距離が近い、触れてくる、返信が早い。よく言われる脈ありサイン{n}種類が研究でどこまで当たるのかを、手がかりになる・状況しだい・当てにならないの3段階で整理しました。"),
+    "lie": ("uso", "嘘をつく人のしぐさは本当か？{n}種類を研究で検証した一覧", "嘘をつく人のしぐさ一覧", "目をそらす、鼻を触る、まばたきが増える。嘘のサインと言われるしぐさ{n}種類を、研究でどこまで裏づけられているかで整理しました。"),
+    "nerve": ("kincho", "緊張・不安はしぐさに出る？{n}種類を研究で検証した一覧", "緊張・不安のしぐさ一覧", "顔や首を触る、貧乏ゆすり、唇を結ぶ。緊張や不安のサインと言われるしぐさ{n}種類を、研究で検証して整理しました。"),
+    "warn": ("kyozetsu", "拒絶や関係の危険信号はしぐさでわかる？{n}種類を研究で検証", "拒絶・関係の不安のサイン一覧", "腕組み、黙り込み、体をそらす、嫉妬や束縛。拒絶や関係の不安のサインと言われる{n}種類の行動を、研究で検証して整理しました。"),
+    "fbi": ("fbi", "FBIのボディランゲージ解読法は本当か？{n}種類を研究で検証", "FBIの解読法を検証", "元FBI捜査官ジョー・ナヴァロが紹介したしぐさの読み方{n}種類を、論文と照らし合わせて検証しました。"),
+}
+LV_HEAD = {"a": "手がかりになるしぐさ", "b": "状況しだいのしぐさ", "c": "当てにならないしぐさ"}
+LV_NOTE = {"a": "傾向として研究で確認されているもの。それでも1つだけで本音は決まりません。", "b": "理由が複数あり、意味を1つに決められないもの。", "c": "研究で通説が支持されていないもの。"}
+pur_by = {x["id"]: x for x in PUR}
+
+
+def card2(x):
+    img = svg(x["id"]) or th(x["slug"])[0]
+    return (f'<li class="sg{" hasth" if img else ""}">{img}<div class="sgx"><p class="sg-h"><span class="sg-part">{E(x["part"])}</span><span class="lv lv-{x["level"]}">{LV[x["level"]]}</span></p>'
+            f'<h3>{E(x["gesture"])}</h3><p class="sg-b">よく言われる意味：{E(x["belief"])}</p><p>{E(x["text"])}</p>'
+            f'<a href="/{x["slug"]}/">記事を読む：{E(posts[x["slug"]]["title"])}</a></div></li>')
+
+
+pages = [page]
+for pid, (path, title, h, desc) in PURPOSE_PAGES.items():
+    xs = sorted([x for x in D if pid in x.get("tags", [])], key=lambda x: "abc".index(x["level"]))
+    if not xs:
+        continue
+    n = len(xs)
+    cnt = {k: sum(1 for x in xs if x["level"] == k) for k in "abc"}
+    secs = ""
+    for k in "abc":
+        ys = [x for x in xs if x["level"] == k]
+        if ys:
+            secs += f'<h2>{LV_HEAD[k]}（{len(ys)}）</h2><p class="note">{LV_NOTE[k]}</p><ul class="sgl">{"".join(card2(x) for x in ys)}</ul>'
+    others = "".join(f'<a class="pchip" href="/shigusa/{p2}/">{E(h2)}</a>' for q, (p2, _, h2, _) in PURPOSE_PAGES.items() if q != pid)
+    faq2 = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+        {"@type": "Question", "name": f'「{x["gesture"]}」は「{x["belief"]}」のサインですか？',
+         "acceptedAnswer": {"@type": "Answer", "text": f'{LV[x["level"]]}。{x["text"]}'}} for x in xs]}
+    body2 = (f'<p>{E(desc.format(n=n))}</p>'
+             + (f'<p class="plead">{E(pur_by[pid]["lead"])}</p>' if pid in pur_by else "")
+             + f'<p class="note">内訳：手がかりになる {cnt["a"]}／状況しだい {cnt["b"]}／当てにならない {cnt["c"]}</p>'
+             + f'<script type="application/ld+json">{json.dumps(faq2, ensure_ascii=False).replace("</", chr(60) + chr(92) + "/")}</script>'
+             + secs
+             + f'<h2>ほかの一覧</h2><div class="fchips">{others}</div>'
+             + f'<p style="margin-top:20px"><a href="/shigusa/" style="color:var(--link);font-weight:700">しぐさ・ボディランゲージ索引で、すべてのしぐさを調べる・4択クイズに挑戦する</a></p>'
+             + '<h2>このページについて</h2><p>内容は、しぐさと本音で公開している記事（それぞれ論文などの出典を確認済み）をもとにしています。特定の人を診断したり、ラベルを貼ったりするためのものではありません。</p>')
+    pages.append({"path": f"shigusa/{path}", "title": h, "date": page["date"], "desc": desc.format(n=n)[:120],
+                  "seo_title": title.format(n=n), "parent": {"label": "しぐさ・ボディランゲージ索引", "path": "shigusa"}, "body": body2, "css": css})
+open(ROOT + "media/umbra-pages.json", "w").write(json.dumps(pages, ensure_ascii=False, indent=2) + "\n")
 
 # 各記事に、索引の該当項目へのリンクを差し込む(出典の直前。再実行しても1つだけになるよう置き換える)
 BLOCK = re.compile(r"<!--shigusa-->.*?<!--/shigusa-->\n?", re.S)
