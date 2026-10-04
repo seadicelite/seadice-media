@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "retrieval-practice-vs-rereading",
+    "category": "記憶・覚え方",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "思い出す練習（テスト効果）は、読み返すより覚えられるのか",
+    "summary": "読み返すより本を閉じて思い出す方が1週間後に残る。答え合わせと書き出しで効果が大きくなる"
+  },
+  {
+    "slug": "spaced-review-why-it-works",
+    "category": "記憶・覚え方",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "間をあけて復習すると忘れにくいのはなぜ？分散学習の研究でわかったこと",
+    "summary": "同じ復習時間でも日をあけると忘れにくい。約1,350人の研究で正答64%増、最適な間隔は使う日から逆算"
+  },
+  {
+    "slug": "highlighting-study-method",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "蛍光ペンで線を引く勉強法は効くのか。研究でわかったこと",
+    "summary": "線を引くだけでは理解は深まらない。読み終えてから要点だけに引き、隠して思い出すのが効く"
+  },
+  {
+    "slug": "learning-styles-visual-learner-myth",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "「自分は視覚型」は本当？学習スタイル説を研究で確かめる",
+    "summary": "好みの学び方はあっても、型に合わせて学べば成績が上がる証拠はほぼない。研究で確かめる"
+  },
+  {
+    "slug": "ai-answers-and-learning",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "AIに答えを聞くと勉強は身につかないのか。研究でわかった「使い方の分かれ目」",
+    "summary": "答えを写すAIは自力の成績を下げ、ヒント型なら下がらなかった。高校生約1000人の実験などから使い方を解説"
+  }
+]

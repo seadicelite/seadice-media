@@ -164,6 +164,10 @@ def patch_article(cfg, p, posts, images, favicon=""):
     # --- 前後の記事ナビ
     if ".prevnext{" not in s:
         s = s.replace("footer{border-top", PREVNEXT_CSS + "footer{border-top", 1)
+    # テンプレートの nav{position:fixed}(上部ナビ用)が前後ナビにも効いて画面上部に重なるのを打ち消す
+    PN_FIX = "nav.prevnext{position:static;height:auto;padding:0;background:none;border:0;backdrop-filter:none;-webkit-backdrop-filter:none;z-index:auto}"
+    if PN_FIX not in s:
+        s = s.replace("</head>", f"<style>{PN_FIX}</style>\n</head>", 1)
     pn = prevnext_block(p, posts)
     if "<!--prevnext-->" in s:
         s = re.sub(r"<!--prevnext-->.*?<!--/prevnext-->", lambda m: pn, s, flags=re.S)
