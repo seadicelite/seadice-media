@@ -271,7 +271,8 @@ def course_index():
 </ul></div>
 <h2><span class="n">CONTENTS</span>講座の目次</h2>
 <p class="answer">貿易とは何か（第1章）から始め、インコタームズ、代金決済、運送、保険、通関、貿易書類、貿易英語まで、全{N_CH}章で学び、最後に模擬試験で仕上げます。</p>
-<div class="grid">{chapter_list()}</div>'''
+<div class="grid">{chapter_list()}</div>
+{practice_html()}'''
     graph = [course_ld(), {"@type": "ItemList", "name": f'{COURSE["title"]}のレッスン一覧', "itemListElement": [
         {"@type": "ListItem", "position": i + 1, "name": l["title"], "url": lurl(l)} for i, (_, l) in enumerate(LESSONS)]}]
     return write("course/", f'{COURSE["title"]}（無料の貿易実務講座）| {NAME}',
@@ -334,6 +335,16 @@ def lesson(ci, li):
                  trail=[("講座", CURL), (f'第{ch["no"]}章 {ch["title"]}', CURL), (l["short"], url)], current="/course/")
 
 
+def practice_html(h="もっと演習する"):
+    """SEADICEの既存の貿易学習ツール（講座の外の演習）。"""
+    ps = CFG.get("practice", [])
+    if not ps:
+        return ""
+    cards = "".join(f'<a class="card" href="{u}"><b>{E(n)}</b><span>{E(t)}</span></a>' for n, u, t in ps)
+    return (f'<h2><span class="n">PRACTICE</span>{E(h)}</h2><p class="answer">講座で学んだあとの演習には、SEADICEの次のツールも使えます。いずれも無料です。</p>'
+            f'<div class="grid">{cards}</div>')
+
+
 def mock_n():
     return sum(len(p["questions"]) for p in COURSE["mock"]["parts"])
 
@@ -352,7 +363,8 @@ def mock_exam():
 <div class="box note"><p style="margin:0">この模擬試験は、講座の内容をもとにSEADICEが独自に作った問題です。貿易実務検定の過去問や公式の問題ではなく、合否の基準を示すものでもありません。</p></div>
 {parts}
 <div class="done"><p class="dt">おつかれさまでした</p><p class="dd">各PARTの最後に、間違えた問題のレッスンが表示されます。読み直してから、もう一度挑戦しましょう。</p>
-<div class="btns" style="margin:14px 0 0"><a class="btn" href="/course/">講座の目次へ</a><a class="btn sub" href="/glossary/">用語辞典で復習する</a></div></div>'''
+<div class="btns" style="margin:14px 0 0"><a class="btn" href="/course/">講座の目次へ</a><a class="btn sub" href="/glossary/">用語辞典で復習する</a></div></div>
+{practice_html("さらに演習する")}'''
     graph = [{"@type": "Quiz", "name": m["title"], "url": url, "inLanguage": "ja", "educationalLevel": "初級", "isAccessibleForFree": True,
               "isPartOf": {"@id": CURL + "#course"}, "publisher": PUBLISHER,
               "hasPart": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["choices"][q["a"]]}} for p in m["parts"] for q in p["questions"]]}]
@@ -464,7 +476,8 @@ def home():
 <p class="answer">貿易実務でよく使う用語を、一文の定義と英語名でまとめています。はじめての人は次の用語から。</p>
 <div class="chips">{chips}</div>
 <p><a href="/glossary/">用語辞典をすべて見る（{len(TERMS)}語）</a></p>
-<h2><span class="n">03</span>よくある質問</h2>
+{practice_html()}
+<h2><span class="n">FAQ</span>よくある質問</h2>
 {faq_html(CFG["faq"])}'''
     graph = [
         {"@type": "WebSite", "@id": URL + "#website", "name": NAME, "url": URL, "description": CFG["description"], "inLanguage": "ja", "publisher": PUBLISHER},
