@@ -678,5 +678,189 @@
   "field": "環境犯罪学",
   "def": "場所の犯罪学とは、人ではなく、通りの一区画や住所などの小さな場所に注目して犯罪を調べる研究分野のことです。",
   "date": "2026-10-04"
+ },
+ {
+  "id": "population-rate",
+  "term": "人口比",
+  "en": "Rate per 100,000 population",
+  "field": "統計",
+  "def": "人口比とは、その年齢層などの人口10万人あたりの検挙人員のことです。人口の多い少ないの差をならして比べるために、犯罪白書などで使われます。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "invariance-thesis",
+  "term": "不変説",
+  "en": "Invariance thesis",
+  "field": "発達",
+  "def": "不変説とは、年齢犯罪曲線の形は時代や場所、集団を問わず同じだとする、ハーシとゴットフレッドソンが1983年に示した主張のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "life-course-persistent",
+  "term": "生涯持続型",
+  "en": "Life-course-persistent antisocial behavior",
+  "field": "発達",
+  "def": "生涯持続型とは、幼いころから問題行動が始まり、10代を過ぎても長く続く少数の人の道すじのことです。モフィットが1993年に示した2つの類型の1つです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "adolescence-limited",
+  "term": "青年期限定型",
+  "en": "Adolescence-limited antisocial behavior",
+  "field": "発達",
+  "def": "青年期限定型とは、10代になってから非行が始まり、大人になるにつれて減っていく多数の人の道すじのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "maturity-gap",
+  "term": "成熟のギャップ",
+  "en": "Maturity gap",
+  "field": "発達",
+  "def": "成熟のギャップとは、体は大人に近づいているのに、社会では大人の役割や自由が与えられない時期のずれのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "age-graded-theory",
+  "term": "年齢段階的インフォーマル社会統制理論",
+  "en": "Age-graded theory of informal social control",
+  "field": "発達",
+  "def": "年齢段階的インフォーマル社会統制理論とは、子どものころは家族や学校、大人になってからは結婚や仕事など、年齢に応じた人との絆が犯罪を抑えると考える、サンプソンとラウブの理論のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "turning-point",
+  "term": "転機",
+  "en": "Turning point",
+  "field": "発達",
+  "def": "転機とは、結婚・就職・兵役など、それまでの人生の道すじを変えるきっかけになる出来事のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "redemption-script",
+  "term": "贖罪の物語",
+  "en": "Redemption script",
+  "field": "発達",
+  "def": "贖罪の物語とは、犯罪をやめていく人に見られる、本当の自分は善い人間であり、経験を生かして社会にお返しをしたいと語る自己物語のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "victim-precipitation",
+  "term": "被害者による誘発",
+  "en": "Victim precipitation",
+  "field": "被害者",
+  "def": "被害者による誘発とは、被害者の行動が犯罪のきっかけになったとみる考え方で、被害者を責める見方につながると批判されてきたもののことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "victim-blaming",
+  "term": "被害者非難",
+  "en": "Victim blaming",
+  "field": "被害者",
+  "def": "被害者非難とは、犯罪の責任の一部または全部を、加害者ではなく被害者に負わせる見方のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "flag-account",
+  "term": "目印（フラッグ）の説明",
+  "en": "Flag account",
+  "field": "被害者",
+  "def": "目印（フラッグ）の説明とは、もともと狙われやすい条件をもつ人や場所が、別々の犯人に繰り返し選ばれることで反復被害が起きるという考え方のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "boost-account",
+  "term": "後押し（ブースト）の説明",
+  "en": "Boost account",
+  "field": "被害者",
+  "def": "後押し（ブースト）の説明とは、最初の犯行で犯人が得た知識や成功が、同じ犯人などによる次の犯行を呼ぶことで反復被害が起きるという考え方のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "basic-act-on-crime-victims",
+  "term": "犯罪被害者等基本法",
+  "en": "Basic Act on Crime Victims",
+  "field": "被害者",
+  "def": "犯罪被害者等基本法とは、犯罪の被害者とその家族・遺族のための施策を、国や地方公共団体が総合的かつ計画的に進めるよう定めた、2004年成立の法律のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "crime-victims-benefit",
+  "term": "犯罪被害給付制度",
+  "en": "Crime Victims Benefit System",
+  "field": "被害者",
+  "def": "犯罪被害給付制度とは、故意の犯罪行為で亡くなった人の遺族や、重傷病・障害を負った人に、国が一時金として給付金を支給する制度のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "victim-participation",
+  "term": "被害者参加制度",
+  "en": "Victim participation system",
+  "field": "被害者",
+  "def": "被害者参加制度とは、一定の事件の被害者や遺族が、裁判所の許可を得て刑事裁判に参加し、被告人に質問したり意見を述べたりできる、2008年12月に始まった制度のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "child-violating-penal-law",
+  "term": "触法少年",
+  "en": "Child who has violated criminal laws (under 14)",
+  "field": "少年",
+  "def": "触法少年とは、14歳になる前に刑罰法令に触れる行為をした少年のことです。刑法は14歳未満の行為を罰しないため、罪を犯したことにはなりません。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "pre-delinquent-juvenile",
+  "term": "ぐ犯少年",
+  "en": "Pre-delinquent juvenile",
+  "field": "少年",
+  "def": "ぐ犯少年とは、18歳未満で、親の正当な監督に従わないなどの事情があり、性格や環境から将来罪を犯すおそれがある少年のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "specified-juvenile",
+  "term": "特定少年",
+  "en": "Specified juvenile (aged 18-19)",
+  "field": "少年",
+  "def": "特定少年とは、2022年4月施行の改正少年法で定められた18歳と19歳の少年のことです。少年法の対象のまま、ぐ犯の対象外となり、重い罪は原則として刑事裁判に回されます。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "protective-custody-observation",
+  "term": "観護措置",
+  "en": "Protective custody for observation",
+  "field": "少年",
+  "def": "観護措置とは、家庭裁判所が審判のために必要と認めたとき、少年を少年鑑別所に収容するなどして、面接や心理検査を行えるようにする措置のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "protective-measures",
+  "term": "保護処分",
+  "en": "Protective measures",
+  "field": "少年",
+  "def": "保護処分とは、家庭裁判所が非行のある少年の立ち直りのために行う少年法上の処分で、保護観察・少年院送致・児童自立支援施設等送致の3種類のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "transfer-to-prosecutor",
+  "term": "検察官送致（逆送）",
+  "en": "Transfer to the public prosecutor",
+  "field": "少年",
+  "def": "検察官送致（逆送）とは、刑事処分がふさわしいと判断した少年の事件を、家庭裁判所が検察官に送り、刑事手続きに乗せる決定のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "persons-cleared",
+  "term": "検挙人員",
+  "en": "Number of persons cleared (arrested)",
+  "field": "統計",
+  "def": "検挙人員とは、警察などが罪を犯したとして検挙した人の数で、少年の統計では14歳未満の触法少年の補導人員も含めた数のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "juvenile-population-ratio",
+  "term": "少年人口比",
+  "en": "Juvenile arrest rate per 100,000",
+  "field": "統計",
+  "def": "少年人口比とは、少年の数の増減の影響を除いて比べるために使う、10歳以上の少年10万人あたりの検挙人員のことです。",
+  "date": "2026-10-04"
  }
 ]
