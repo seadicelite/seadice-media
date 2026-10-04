@@ -3,7 +3,7 @@
 > ゼロから学ぶ犯罪学は、犯罪学を無料で独学できる学習サイトです。犯罪統計と暗数、犯罪の理論、環境犯罪学、被害者学、少年非行、日本の刑事司法と再犯防止までを全14章の無料講座と用語辞典で学べます。登録不要。
 
 ゼロから学ぶ犯罪学はSEADICE(https://seadice.win/)が運営する、犯罪学を無料で独学できる学習サイトです。登録不要・無料。
-犯罪学とは何か・犯罪統計と暗数・犯罪の理論・環境犯罪学・被害者学・少年非行・刑事司法・再犯防止を学ぶ無料講座「ゼロから学ぶ犯罪学入門」（全14章）と、犯罪学用語辞典（108語）を掲載しています。
+犯罪学とは何か・犯罪統計と暗数・犯罪の理論・環境犯罪学・被害者学・少年非行・刑事司法・再犯防止を学ぶ無料講座「ゼロから学ぶ犯罪学入門」（全14章）と、犯罪学用語辞典（129語）を掲載しています。
 本文は法務省の犯罪白書・警察庁の統計・法令・研究論文などの一次情報をもとに日本語で独自に書いており、各ページに出典があります。犯罪の手口は扱いません。
 
 ## 主要ページ
@@ -55,8 +55,15 @@
   - 9-1 少年法と非行少年の3つの種類。18・19歳はどう変わったか: https://hanzaigaku.seadice.win/course/juvenile-act-basics/
   - 9-2 少年事件の流れ。家庭裁判所は何をするのか: https://hanzaigaku.seadice.win/course/juvenile-case-flow/
   - 9-3 少年非行の動向をデータで見る。少年犯罪は凶悪化しているのか: https://hanzaigaku.seadice.win/course/juvenile-delinquency-trends/
-- 第10章 日本の刑事司法の流れ: 事件が起きてから判決までの流れを、統計とともに学ぶ。（準備中）
-- 第11章 刑罰・更生・再犯防止: 刑罰の種類、刑務所と社会の中での立ち直り、再犯を減らす取り組み。（準備中）
+- 第10章 日本の刑事司法の流れ: 事件が起きてから判決までの流れを、統計とともに学ぶ。
+  - 10-1 捜査と検挙。警察と検察の役割: https://hanzaigaku.seadice.win/course/investigation-and-arrest/
+  - 10-2 起訴と不起訴。すべての事件が裁判になるわけではない: https://hanzaigaku.seadice.win/course/prosecution-decision/
+  - 10-3 刑事裁判と裁判員制度。なぜ日本の有罪率は高いのか: https://hanzaigaku.seadice.win/course/criminal-trial-and-saiban-in/
+- 第11章 刑罰・更生・再犯防止: 刑罰の種類、刑務所と社会の中での立ち直り、再犯を減らす取り組み。
+  - 11-1 刑罰の種類とは？拘禁刑と罰金、執行猶予のしくみ: https://hanzaigaku.seadice.win/course/types-of-punishment/
+  - 11-2 刑務所の中の処遇。立ち直りのための指導: https://hanzaigaku.seadice.win/course/prison-treatment/
+  - 11-3 仮釈放と保護観察。社会の中での立ち直り: https://hanzaigaku.seadice.win/course/parole-and-probation/
+  - 11-4 再犯防止。データで見る再犯と、効果のある取り組み: https://hanzaigaku.seadice.win/course/reoffending-prevention/
 - 第12章 犯罪の種類を知る: 主な犯罪の動向と、なぜ起きるのかを統計と研究から学ぶ（手口は扱わない）。（準備中）
 - 第13章 犯罪予防と政策: 研究の知見を、地域や国の政策にどう生かすか。（準備中）
 - 第14章 総まとめ: 講座全体の振り返りと、この先の学び方。（準備中）

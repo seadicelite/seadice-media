@@ -862,5 +862,173 @@
   "field": "統計",
   "def": "少年人口比とは、少年の数の増減の影響を除いて比べるために使う、10歳以上の少年10万人あたりの検挙人員のことです。",
   "date": "2026-10-04"
+ },
+ {
+  "id": "referral-to-prosecutor",
+  "term": "送致",
+  "en": "Referral of a case to the public prosecutor",
+  "field": "刑事司法",
+  "def": "送致とは、警察などが捜査した事件を、書類や証拠とともに検察官に送ることです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "pre-indictment-detention",
+  "term": "勾留",
+  "en": "Pre-indictment detention",
+  "field": "刑事司法",
+  "def": "勾留とは、逮捕に続けて、裁判官が認めて被疑者の身体の拘束を続けることです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "minor-offense-disposition",
+  "term": "微罪処分",
+  "en": "Disposition of minor offenses",
+  "field": "刑事司法",
+  "def": "微罪処分とは、検察官があらかじめ指定した特に軽い事件について、警察が検察官に送らずに手続きを終えることです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "discretionary-prosecution",
+  "term": "起訴便宜主義",
+  "en": "Discretionary prosecution",
+  "field": "刑事司法",
+  "def": "起訴便宜主義とは、起訴するかどうかを、犯人の境遇や罪の重さなどの事情に応じて検察官の判断に任せる、刑事訴訟法248条に定められた考え方のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "suspension-of-prosecution",
+  "term": "起訴猶予",
+  "en": "Suspension of prosecution",
+  "field": "刑事司法",
+  "def": "起訴猶予とは、罪を犯した疑いは十分にあるものの、犯人の性格・年齢・境遇、罪の重さや情状、犯罪後の様子から、検察官が起訴しない処分のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "prosecution-review-commission",
+  "term": "検察審査会",
+  "en": "Prosecution Review Commission",
+  "field": "刑事司法",
+  "def": "検察審査会とは、くじで選ばれた11人の市民が、検察官の不起訴処分がよかったかどうかを審査する機関のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "presumption-of-innocence",
+  "term": "無罪推定",
+  "en": "Presumption of innocence",
+  "field": "刑事司法",
+  "def": "無罪推定とは、有罪と確かめられるまでは、被疑者や被告人を罪を犯していない人として扱うという刑事裁判の原則のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "burden-of-proof",
+  "term": "立証責任",
+  "en": "Burden of proof",
+  "field": "刑事司法",
+  "def": "立証責任とは、刑事裁判で、被告人が罪を犯したことを証明しなければならない検察官の責任のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "closing-argument",
+  "term": "論告",
+  "en": "Prosecutor's closing argument",
+  "field": "刑事司法",
+  "def": "論告とは、刑事裁判の証拠調べが終わったあとに、検察官が事実や法律、科すべき刑について述べる意見のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "kokin-kei",
+  "term": "拘禁刑",
+  "en": "Imprisonment (Kokin-kei)",
+  "field": "刑事司法",
+  "def": "拘禁刑とは、2025年6月1日に懲役と禁錮を一本化して創設された、刑事施設に入れて改善更生のための作業や指導を行える刑のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "suspended-sentence",
+  "term": "執行猶予",
+  "en": "Suspension of execution of sentence",
+  "field": "刑事司法",
+  "def": "執行猶予とは、刑を言い渡したうえで一定の期間その執行を見合わせ、取り消されずに期間を過ごせば刑の言い渡しが効力を失う制度のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "principal-punishment",
+  "term": "主刑",
+  "en": "Principal punishment",
+  "field": "刑事司法",
+  "def": "主刑とは、それだけで言い渡せる刑で、刑法では死刑・拘禁刑・罰金・拘留・科料の5つのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "correctional-treatment",
+  "term": "矯正処遇",
+  "en": "Correctional treatment",
+  "field": "更生",
+  "def": "矯正処遇とは、刑務所で受刑者の立ち直りと社会復帰のために行う、作業・改善指導・教科指導のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "specific-guidance-for-reform",
+  "term": "特別改善指導",
+  "en": "Specific guidance for reform",
+  "field": "更生",
+  "def": "特別改善指導とは、薬物依存や性犯罪など、立ち直りの妨げとなる特定の問題を持つ受刑者に対し、その問題の改善を図る指導のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "correctional-treatment-course",
+  "term": "矯正処遇課程",
+  "en": "Correctional treatment course",
+  "field": "更生",
+  "def": "矯正処遇課程とは、2025年の拘禁刑の導入で設けられた、受刑者の特性の類型ごとに重点的な処遇内容を定めた24の課程のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "volunteer-probation-officer",
+  "term": "保護司",
+  "en": "Volunteer probation officer",
+  "field": "更生",
+  "def": "保護司とは、法務大臣から委嘱され、保護観察官と協力して犯罪や非行をした人の立ち直りを地域で支える、給与のない民間のボランティアのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "conditions-of-supervision",
+  "term": "遵守事項",
+  "en": "Conditions of probation/parole",
+  "field": "更生",
+  "def": "遵守事項とは、保護観察中の人が守らなければならない約束で、全員共通の一般遵守事項と、一人ひとりに合わせて決める特別遵守事項のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "rehabilitation-facility",
+  "term": "更生保護施設",
+  "en": "Offender rehabilitation facility",
+  "field": "更生",
+  "def": "更生保護施設とは、刑務所を出た人や保護観察中の人で帰る家がない人などに、住まいと食事を提供し、自立を支える民間の施設のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "repeat-offender-proportion",
+  "term": "再犯者率",
+  "en": "Proportion of repeat offenders among those arrested",
+  "field": "統計",
+  "def": "再犯者率とは、刑法犯で検挙された人のうち、前にも検挙されたことがある人（再犯者）が占める割合のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "two-year-reimprisonment-rate",
+  "term": "2年以内再入率",
+  "en": "Two-year reimprisonment rate",
+  "field": "統計",
+  "def": "2年以内再入率とは、ある年に刑務所を出た人のうち、出た年の翌年末までに再び刑務所に入った人の割合のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "cognitive-behavioral-therapy",
+  "term": "認知行動療法",
+  "en": "Cognitive behavioral therapy (CBT)",
+  "field": "更生",
+  "def": "認知行動療法とは、考え方のくせに気づいて見直し、新しい行動を練習することで行動を変えていく方法のことです。",
+  "date": "2026-10-04"
  }
 ]
