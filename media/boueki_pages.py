@@ -223,6 +223,13 @@ def check():
     for t in TERMS:
         if t.get("detail") and not rich(t): errs.append(f'用語 {t["id"]} は detail があるが、個別ページの条件（detail400字以上・sources・faq）を満たしていない')
         if "とは" not in t["def"].split("。")[0]: errs.append(f'用語 {t["id"]} の定義の1文目が「〇〇とは」になっていない')
+    m = COURSE.get("mock")
+    if m:
+        lids = {l["id"] for _, l in LESSONS}
+        for p in m["parts"]:
+            for i, q in enumerate(p["questions"]):
+                if len(q["choices"]) != 3 or not 0 <= q["a"] < 3: errs.append(f'模擬試験 {p["name"]} Q{i+1} の形式')
+                if q.get("ref") not in lids: errs.append(f'模擬試験 {p["name"]} Q{i+1} の ref（レッスンid）が存在しない: {q.get("ref")}')
     return errs
 
 
@@ -244,7 +251,7 @@ def chapter_list(current=None):
     for c in COURSE["chapters"]:
         if c["lessons"]:
             items = "".join(f'<li><a href="/course/{l["id"]}/"{CUR if current == l["id"] else ""}><span class="no">{c["no"]}-{i+1}</span>{E(l["short"])}</a></li>' for i, l in enumerate(c["lessons"]))
-            out += f'<div class="card" id="ch{c["no"]}"><small>第{c["no"]}章</small><b>{E(c["title"])}</b><span>{E(c["desc"])}</span><ol class="lessons">{items}</ol>' + (f'<p style="margin:10px 0 0;font-size:14px;font-weight:700"><a href="/{test_path(c)}">第{c["no"]}章のまとめテスト（{sum(len(x["quiz"]) for x in c["lessons"])}問）</a></p>' if complete(c) else '') + '</div>'
+            out += f'<div class="card" id="ch{c["no"]}"><small>第{c["no"]}章</small><b>{E(c["title"])}</b><span>{E(c["desc"])}</span><ol class="lessons">{items}</ol>' + (f'<p style="margin:10px 0 0;font-size:14px;font-weight:700"><a href="/{test_path(c)}">第{c["no"]}章のまとめテスト（{sum(len(x["quiz"]) for x in c["lessons"])}問）</a></p>' if complete(c) else '') + (f'<p style="margin:6px 0 0;font-size:14px;font-weight:700"><a href="/course/mock-exam/">模擬試験に挑戦（{mock_n()}問）</a></p>' if c is COURSE["chapters"][-1] and COURSE.get("mock") else '') + '</div>'
         else:
             out += f'<div class="card soon" id="ch{c["no"]}"><small>第{c["no"]}章</small><b>{E(c["title"])}</b><span>{E(c["desc"])}</span><span class="st">準備中</span></div>'
     return out
@@ -325,6 +332,32 @@ def lesson(ci, li):
     ]
     return write(f'course/{l["id"]}/', f'{l["title"]}｜貿易実務入門 {no} | {NAME}', l["description"], body, graph,
                  trail=[("講座", CURL), (f'第{ch["no"]}章 {ch["title"]}', CURL), (l["short"], url)], current="/course/")
+
+
+def mock_n():
+    return sum(len(p["questions"]) for p in COURSE["mock"]["parts"])
+
+
+def mock_exam():
+    """模擬試験。全範囲のオリジナル問題を2部構成で出題し、間違えた問題のレッスンへ案内する。"""
+    m = COURSE["mock"]
+    ref = {l["id"]: (lesson_no(l), lurl(l).replace(URL, "/")) for _, l in LESSONS}
+    url = f"{URL}course/mock-exam/"
+    parts = "".join(f'<h2><span class="n">PART {i+1}</span>{E(p["name"])}（{len(p["questions"])}問）</h2><p class="answer">{E(p.get("desc", ""))}</p>'
+                    + quiz_html([(q, *ref[q["ref"]]) for q in p["questions"]], mode="test") for i, p in enumerate(m["parts"]))
+    body = f'''<span class="kicker">総仕上げ</span>
+<h1>{E(m["title"])}（全{mock_n()}問）</h1>
+<p class="updated">対象: 講座の全範囲 ・ 目安 {max(10, mock_n() // 2)}分 ・ 更新日 {m.get("date", UPDATED)}</p>
+<p class="lead">{E(m["lead"])}</p>
+<div class="box note"><p style="margin:0">この模擬試験は、講座の内容をもとにSEADICEが独自に作った問題です。貿易実務検定の過去問や公式の問題ではなく、合否の基準を示すものでもありません。</p></div>
+{parts}
+<div class="done"><p class="dt">おつかれさまでした</p><p class="dd">各PARTの最後に、間違えた問題のレッスンが表示されます。読み直してから、もう一度挑戦しましょう。</p>
+<div class="btns" style="margin:14px 0 0"><a class="btn" href="/course/">講座の目次へ</a><a class="btn sub" href="/glossary/">用語辞典で復習する</a></div></div>'''
+    graph = [{"@type": "Quiz", "name": m["title"], "url": url, "inLanguage": "ja", "educationalLevel": "初級", "isAccessibleForFree": True,
+              "isPartOf": {"@id": CURL + "#course"}, "publisher": PUBLISHER,
+              "hasPart": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["choices"][q["a"]]}} for p in m["parts"] for q in p["questions"]]}]
+    return write("course/mock-exam/", f'{m["title"]}（全{mock_n()}問・無料）| {NAME}', m["lead"][:120], body, graph,
+                 trail=[("講座", CURL), ("模擬試験", url)], current="/course/")
 
 
 def chapter_test(ch):
@@ -512,6 +545,8 @@ if __name__ == "__main__":
             urls.append(lesson(ci, li))
         if complete(ch):
             urls.append(chapter_test(ch))
+    if COURSE.get("mock"):
+        urls.append(mock_exam())
     urls += [glossary()] + [term_page(t) for t in TERMS if rich(t)]
     urls += trust_pages()
     extras(urls)

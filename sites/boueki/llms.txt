@@ -3,7 +3,7 @@
 > ゼロから学ぶ貿易実務は、貿易の仕事を無料で学べる学習サイトです。貿易実務検定C級の範囲をカバーする全14章の無料講座、貿易用語辞典、確認問題と模擬試験を掲載。登録不要。
 
 ゼロから学ぶ貿易実務はSEADICE(https://seadice.win/)が運営する、貿易実務を無料で学べる学習サイトです。登録不要・無料。
-貿易実務検定C級の範囲をカバーする無料講座「ゼロから学ぶ貿易実務入門」（全14章）と、貿易用語辞典（65語）を掲載しています。
+貿易実務検定C級の範囲をカバーする無料講座「ゼロから学ぶ貿易実務入門」（全14章）と、貿易用語辞典（84語）を掲載しています。
 本文は税関・ジェトロ・ICCなどの一次情報をもとに日本語で独自に書いており、各ページに出典があります。
 
 ## 主要ページ
@@ -57,7 +57,12 @@
   - 8-1 航空貨物の流れと航空運賃。混載と容積重量のしくみ: https://boueki.seadice.win/course/air-cargo-flow-and-air-freight/
   - 8-2 航空運送状（Air Waybill）とは。B/Lとの違い: https://boueki.seadice.win/course/air-waybill-vs-bill-of-lading/
   - 8-3 国際複合輸送とフォワーダー。船・鉄道・航空を1つの契約で: https://boueki.seadice.win/course/multimodal-transport-and-forwarders/
-- 第9章 貨物保険と貿易保険: 貨物の損害と取引リスクへの備え。（準備中）
+- 第9章 貨物保険と貿易保険: 貨物の損害と取引リスクへの備え。
+  - 9-1 貨物海上保険の基礎。誰がいつ掛けるのか: https://boueki.seadice.win/course/marine-cargo-insurance-basics/
+  - 9-2 協会貨物約款（ICC）A・B・Cの違い: https://boueki.seadice.win/course/institute-cargo-clauses-a-b-c/
+  - 9-3 保険金額と保険の申込み。予定保険と確定保険: https://boueki.seadice.win/course/insured-amount-and-insurance-application/
+  - 9-4 貿易保険（NEXI）とは。代金回収不能リスクへの備え: https://boueki.seadice.win/course/trade-insurance-nexi/
+  - 9-5 PL保険。輸出製品の事故への備え: https://boueki.seadice.win/course/product-liability-insurance-for-exports/
 - 第10章 通関と関税: 輸出入申告の流れと関税のしくみ。（準備中）
 - 第11章 貿易書類: 船積書類の種類と役割。（準備中）
 - 第12章 クレームとトラブル対応: クレームの種類と紛争の解決方法。（準備中）

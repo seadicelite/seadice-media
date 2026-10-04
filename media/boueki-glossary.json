@@ -453,5 +453,138 @@
   "en": "Combined transport document",
   "field": "運送",
   "def": "複合運送証券とは、複合運送人が全区間の運送を引き受けた証拠として発行する書類のことです。日本の商法では船荷証券の規定が準用されます。"
+ },
+ {
+  "id": "marine-cargo-insurance",
+  "term": "貨物海上保険",
+  "en": "Marine Cargo Insurance",
+  "field": "貨物保険と貿易保険",
+  "def": "貨物海上保険とは、輸送中の貨物に生じるさまざまな損害に備える保険のことです。輸出・輸入・三国間貿易が対象で、航空貨物も含みます。"
+ },
+ {
+  "id": "ocean-overseas-marine-cargo-insurance",
+  "term": "外航貨物海上保険",
+  "en": "Ocean (Overseas) Marine Cargo Insurance",
+  "field": "貨物保険と貿易保険",
+  "def": "外航貨物海上保険とは、輸出入の国際輸送中の貨物を対象とする貨物海上保険のことです。"
+ },
+ {
+  "id": "export-fob-insurance",
+  "term": "輸出FOB保険",
+  "en": "Export FOB Insurance",
+  "field": "貨物保険と貿易保険",
+  "def": "輸出FOB保険とは、国内の工場や倉庫から出した時から輸出本船に積み込むまでの、輸送中と保管中の危険を補う保険のことです。"
+ },
+ {
+  "id": "insuring-covering",
+  "term": "付保",
+  "en": "Insuring / Covering",
+  "field": "貨物保険と貿易保険",
+  "def": "付保とは、保険を掛けることです。"
+ },
+ {
+  "id": "warehouse-to-warehouse-clause",
+  "term": "倉庫間約款",
+  "en": "Warehouse to Warehouse Clause",
+  "field": "貨物保険と貿易保険",
+  "def": "倉庫間約款とは、保険期間を、積地の倉庫で貨物が動き出した時から、仕向地の指定倉庫に搬入され荷卸しが終わるまでとする決まりのことです。"
+ },
+ {
+  "id": "fob-attachment-clause",
+  "term": "FOB Attachment Clause",
+  "en": "FOB Attachment Clause",
+  "field": "貨物保険と貿易保険",
+  "def": "FOB Attachment Clauseとは、FOB・CFRの輸入貨物の保険を、貨物を本船に置いた時から始めるようにする約款のことです。船積み前の区間を補償から外します。"
+ },
+ {
+  "id": "insurable-interest",
+  "term": "被保険利益",
+  "en": "Insurable Interest",
+  "field": "貨物保険と貿易保険",
+  "def": "被保険利益とは、損害保険の対象にできる、金銭に見積もることができる利益のことです。保険法第3条に定めがあります。"
+ },
+ {
+  "id": "insured-assured",
+  "term": "被保険者",
+  "en": "Insured / Assured",
+  "field": "貨物保険と貿易保険",
+  "def": "被保険者とは、損害保険契約で、補償される損害を受ける者のことです。"
+ },
+ {
+  "id": "institute-cargo-clauses",
+  "term": "協会貨物約款（ICC）",
+  "en": "Institute Cargo Clauses",
+  "field": "貨物保険と貿易保険",
+  "def": "協会貨物約款（ICC）とは、ロンドンの保険市場が定めた、貨物保険の補償範囲の標準条件のことです。（A）（B）（C）の3種類があり、1982年版と2009年版が併用されています。"
+ },
+ {
+  "id": "all-risks",
+  "term": "オールリスク",
+  "en": "All Risks",
+  "field": "貨物保険と貿易保険",
+  "def": "オールリスクとは、除外された損害を除き、偶然の事故による貨物の損害を広く補償する方式のことです。ICC（A）がこれに当たります。"
+ },
+ {
+  "id": "named-perils",
+  "term": "列挙責任",
+  "en": "Named perils",
+  "field": "貨物保険と貿易保険",
+  "def": "列挙責任とは、約款に名前の挙がった事故による損害だけを補償する方式のことです。ICC（B）（C）がこれに当たります。"
+ },
+ {
+  "id": "exclusions",
+  "term": "免責",
+  "en": "Exclusions",
+  "field": "貨物保険と貿易保険",
+  "def": "免責とは、保険会社が補償しないと約款で定めた損害のことです。梱包の不十分、固有の瑕疵、輸送の遅延などがあります。"
+ },
+ {
+  "id": "inherent-vice",
+  "term": "固有の瑕疵",
+  "en": "Inherent vice",
+  "field": "貨物保険と貿易保険",
+  "def": "固有の瑕疵とは、外からの事故がなくても、貨物の性質そのものによって変質や劣化が起きることです。"
+ },
+ {
+  "id": "jettison",
+  "term": "投げ荷",
+  "en": "Jettison",
+  "field": "貨物保険と貿易保険",
+  "def": "投げ荷とは、船や他の貨物を守るために、積んでいる貨物を海に捨てることです。"
+ },
+ {
+  "id": "insured-amount",
+  "term": "保険金額",
+  "en": "Insured amount",
+  "field": "貨物保険と貿易保険",
+  "def": "保険金額とは、保険契約で決める、保険会社が支払う金額の上限のことです。貨物海上保険では、CIF価格（CIP価格）に10％を加えた110％とするのが一般的です。"
+ },
+ {
+  "id": "provisional-insurance",
+  "term": "予定保険",
+  "en": "Provisional insurance",
+  "field": "貨物保険と貿易保険",
+  "def": "予定保険とは、船名や数量などが決まる前に、予定の内容で先に掛けておく貨物保険のことです。内容が決まったら確定保険に切り替えます。"
+ },
+ {
+  "id": "trade-insurance",
+  "term": "貿易保険",
+  "en": "Trade insurance",
+  "field": "貨物保険と貿易保険",
+  "def": "貿易保険とは、輸出代金が回収できなくなるなど、民間の保険では引き受けにくい貿易取引のリスクに備える保険のことです。日本では日本貿易保険（NEXI）が引き受けます。"
+ },
+ {
+  "id": "country-credit-risk",
+  "term": "非常危険・信用危険",
+  "en": "Political risk / Commercial risk",
+  "field": "貨物保険と貿易保険",
+  "def": "非常危険・信用危険とは、貿易保険が対象とする2種類のリスクのことです。非常危険は戦争や送金規制など相手国の事情、信用危険は相手企業の破産や不払いです。"
+ },
+ {
+  "id": "product-liability",
+  "term": "PL保険（生産物賠償責任保険）",
+  "en": "Product liability insurance",
+  "field": "貨物保険と貿易保険",
+  "def": "PL保険（生産物賠償責任保険）とは、製品の欠陥で他人にけがや損害を与えたときの賠償責任に備える保険のことです。輸出品には海外PL保険が必要になります。"
  }
 ]
