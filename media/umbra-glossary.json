@@ -278,5 +278,51 @@
     "slugs": [
       "partner-phone-checking-surveillance-research"
     ]
+  },
+  {
+    "id": "pacifying-behavior",
+    "term": "なだめ行動",
+    "en": "Pacifying behavior",
+    "def": "首や顔に触れるなど、ストレスを感じたときに自分を落ち着かせるとされる動作。元FBI捜査官ナヴァロが広めた言葉で、体に触れる回数と不安の関係は研究で見られる一方、嘘の手がかりにはなりません。",
+    "slugs": [
+      "neck-touch-pacifying-behavior-research",
+      "self-touch-face-hair-nervousness-research"
+    ]
+  },
+  {
+    "id": "ventral-denial",
+    "term": "腹側の否定",
+    "en": "Ventral denial",
+    "def": "嫌な相手や話題から、体の正面（おなか側）をそらす動きを指す元FBI捜査官ナヴァロの言葉。会話中の拒否のサインだと直接確かめた研究は見当たりません。",
+    "slugs": [
+      "torso-turn-away-ventral-denial-research"
+    ]
+  },
+  {
+    "id": "freezing",
+    "term": "凍りつき（フリーズ）反応",
+    "en": "Freezing",
+    "def": "脅威を感じたときに体の動きが止まり、心拍がゆっくりになる反応。人でも実験で確認されていて、本人の意思とは関係なく起こります。",
+    "slugs": [
+      "freeze-flight-fight-threat-response-research"
+    ]
+  },
+  {
+    "id": "nonverbal-leakage",
+    "term": "非言語的漏洩（リーケージ）",
+    "en": "Nonverbal leakage",
+    "def": "隠そうとした気持ちが、顔より体や声に漏れ出るという考え方。エクマンとフリーセンが1969年に唱えましたが、足や脚の動きと嘘の差はメタ分析でほぼゼロでした。",
+    "slugs": [
+      "feet-most-honest-leakage-research"
+    ]
+  },
+  {
+    "id": "pinocchio-effect",
+    "term": "ピノキオ効果",
+    "en": "Pinocchio effect",
+    "def": "嘘をつく間に鼻の温度が下がる傾向を、サーモグラフィーで測った研究の呼び名。目に見えて鼻を触るしぐさのことではありません。",
+    "slugs": [
+      "nose-touching-lying-pinocchio-research"
+    ]
   }
 ]

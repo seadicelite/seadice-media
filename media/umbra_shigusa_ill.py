@@ -81,6 +81,15 @@ ILL = {
     "jealousy": '<rect x="18" y="30" width="28" height="24" rx="4"/><path d="M24 30 v-8 a8 8 0 0 1 16 0 v8"/><circle cx="32" cy="40" r="3" fill="currentColor"/><line x1="32" y1="43" x2="32" y2="48"/>',
     "love-bombing": '<rect x="6" y="30" width="28" height="20" rx="2"/><polyline points="6,30 20,42 34,30"/><rect x="18" y="18" width="28" height="20" rx="2" fill="var(--bg)"/><polyline points="18,18 32,30 46,18"/><rect x="30" y="6" width="28" height="20" rx="2" fill="var(--bg)"/><polyline points="30,6 44,18 58,6"/>',
     "no-apology": '<path d="M8 12 h48 a4 4 0 0 1 4 4 v22 a4 4 0 0 1 -4 4 h-32 l-10 10 v-10 h-6 a4 4 0 0 1 -4 -4 v-22 a4 4 0 0 1 4 -4z"/><text x="32" y="32" text-anchor="middle" font-size="12" fill="currentColor" stroke="none">ごめん</text><line x1="14" y1="34" x2="50" y2="20"/>',
+    # FBI系・通説の検証
+    "honest-feet": '<ellipse cx="20" cy="40" rx="6" ry="12" transform="rotate(35 20 40)"/><ellipse cx="34" cy="44" rx="6" ry="12" transform="rotate(35 34 44)"/><rect x="46" y="6" width="14" height="24" rx="1"/><circle cx="56" cy="19" r="1.2" fill="currentColor"/>' + arrow(30, 24, 42, 14),
+    "neck-touch": '<circle cx="32" cy="15" r="10"/><line x1="28" y1="25" x2="28" y2="34"/><line x1="36" y1="25" x2="36" y2="34"/><path d="M10 56 Q12 38 28 35 L36 35 Q52 38 54 56"/><ellipse cx="33" cy="38" rx="5" ry="7"/><line x1="37" y1="44" x2="44" y2="60"/>',
+    "lip-compress": FACE + '<circle cx="24" cy="27" r="2" fill="currentColor"/><circle cx="40" cy="27" r="2" fill="currentColor"/><line x1="25" y1="41" x2="39" y2="41" stroke-width="4"/><line x1="22" y1="39" x2="20" y2="37"/><line x1="42" y1="39" x2="44" y2="37"/>',
+    "steeple": '<path d="M30 12 C24 20 17 32 17 46 L21 58"/><path d="M34 12 C40 20 47 32 47 46 L43 58"/><path d="M30 12 Q32 9 34 12"/><line x1="30" y1="13" x2="27" y2="42"/><line x1="34" y1="13" x2="37" y2="42"/><path d="M17 46 Q22 50 27 42"/><path d="M47 46 Q42 50 37 42"/>',
+    "torso-away": fig(16, 14) + '<circle cx="46" cy="14" r="5"/><circle cx="48.5" cy="13" r="1" fill="currentColor"/><line x1="46" y1="19" x2="46" y2="40"/><polyline points="43,56 46,40 49,56"/><line x1="46" y1="26" x2="53" y2="35"/>' + arrow(52, 60, 62, 60) + '<path d="M36 7 Q46 0 56 7"/><polyline points="52,3 56,7 51,10"/>',
+    "eye-block": FACE + '<rect x="12" y="20" width="40" height="12" rx="6" fill="var(--bg)"/><line x1="18" y1="32" x2="16" y2="40"/><line x1="46" y1="32" x2="48" y2="40"/><line x1="27" y1="44" x2="37" y2="44"/>',
+    "freeze": fig(24, 10, '<line x1="24" y1="18" x2="16" y2="34"/><line x1="24" y1="18" x2="32" y2="34"/>') + '<rect x="44" y="14" width="5" height="18" rx="1"/><rect x="54" y="14" width="5" height="18" rx="1"/>',
+    "nose-touch": FACE + '<circle cx="24" cy="26" r="2" fill="currentColor"/><circle cx="40" cy="26" r="2" fill="currentColor"/><line x1="25" y1="44" x2="33" y2="44"/><circle cx="34" cy="34" r="3"/><line x1="36" y1="37" x2="46" y2="60" stroke-width="4"/>',
 }
 
 

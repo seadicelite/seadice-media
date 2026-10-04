@@ -675,5 +675,18 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Nature_-_Natura_(14294118049).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "bathing-before-bed-sleep-onset": {
+  "file": "File:Bathtub of Khan Pool Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bathtub_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/960px-Bathtub_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bathtub_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/500px-Bathtub_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Bathtub of Khan Pool Suite in Amantaka luxury resort and hotel in Luang Prabang, Laos. Amantaka is one of the 34 properties operated by Aman",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bathtub_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

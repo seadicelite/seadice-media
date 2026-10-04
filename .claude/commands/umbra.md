@@ -33,7 +33,7 @@ description: しぐさと本音（人を操る心理を見抜くメディア）�
 
 カテゴリが「しぐさ・ボディランゲージ」の記事は、`media/umbra-guides.json`（/guide/「しぐさから引く」）の該当する部位（目・視線／表情・笑顔／手・触れる／姿勢・距離・体の向き／声・会話）の `slugs` にも追加する。どれにも当たらない部位なら項目を1つ新設し、`points` は記事で確認済みの内容だけで書く。
 
-あわせて `media/umbra-shigusa.json`（/shigusa/「しぐさ・ボディランゲージ索引」と4択クイズ）にも追加する: `items` に `{"part","gesture","belief","level"(a=手がかりになる/b=状況しだい/c=当てにならない),"text"(90字前後、記事で確認済みの内容だけ),"slug","id"(英小文字のアンカー名。重複不可),"tags"(purposesのid: like/lie/nerve/warn から該当するもの),"evidence"(出典にメタ分析・レビューを含むと確認できたら"meta"、そのしぐさを直接調べた研究が見当たらないと記事に書いたら"few"、それ以外は省略)}` を1件、`quiz` に `{"q","c"(正解を先頭に4つ),"e","slug"}` を1件。partは 目・視線/表情/手・触れる/姿勢・距離/体の動き/声・会話/連絡・行動 のどれか。追加後に `python3 media/umbra_shigusa.py` を実行してから build.py を回す（このスクリプトが記事末尾の索引リンクも差し込む）。
+あわせて `media/umbra-shigusa.json`（/shigusa/「しぐさ・ボディランゲージ索引」と4択クイズ）にも追加する: `items` に `{"part","gesture","belief","level"(a=手がかりになる/b=状況しだい/c=当てにならない),"text"(90字前後、記事で確認済みの内容だけ),"slug","id"(英小文字のアンカー名。重複不可),"tags"(purposesのid: like/lie/nerve/warn/fbi から該当するもの。目的別の一覧ページ /shigusa/myakuari/ などにも自動で載る),"scenes"(scenesのid: date/work/conflict/first/sns から該当するもの),"evidence"(出典にメタ分析・レビューを含むと確認できたら"meta"、そのしぐさを直接調べた研究が見当たらないと記事に書いたら"few"、それ以外は省略)}` を1件、`quiz` に `{"q","c"(正解を先頭に4つ),"e","slug"}` を1件。partは 目・視線/表情/手・触れる/姿勢・距離/体の動き/声・会話/連絡・行動 のどれか。追加後に `python3 media/umbra_shigusa.py` を実行してから build.py を回す（このスクリプトが記事末尾の索引リンクも差し込む）。線画は `media/umbra_shigusa_ill.py` の `ILL` に id をキーとして64x64・currentColorの線画SVGを1つ追加する（描けないものは省略し、記事写真で代用される）。
 
 記事で心理学の用語（例: カメレオン効果、ストーンウォーリング）を新しく説明したら、`media/umbra-glossary.json`（/glossary/）にも `{"id","term","en","def"(80字前後、記事本文の説明に沿う),"slugs"}` を追加する。既にある用語なら `slugs` に記事を足すだけにする。
 

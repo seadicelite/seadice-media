@@ -687,5 +687,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Deichman_Bj%C3%B8rvika,_Oslo_-_53131654106.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ai-literacy-gap-academic-achievement": {
+  "file": "File:School Computer Lab.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/School_Computer_Lab.jpg/960px-School_Computer_Lab.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/School_Computer_Lab.jpg/500px-School_Computer_Lab.jpg",
+  "w": 960,
+  "h": 541,
+  "alt": "A computer lab in a small private college.",
+  "artist": "HazelGHC",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:School_Computer_Lab.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
