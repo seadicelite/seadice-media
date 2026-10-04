@@ -882,5 +882,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Quiet_meeting_room_%28Unsplash%29.jpg/500px-Quiet_meeting_room_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/meeting-replay-regret-og.jpg",
   "local": true
+ },
+ "ai-written-message-found-out": {
+  "file": "File:Briefumschlag (fcm).jpg",
+  "src": "/img/ai-written-message-found-out.webp",
+  "src640": "/img/ai-written-message-found-out-sm.webp",
+  "w": 960,
+  "h": 805,
+  "alt": "German standard envelope",
+  "artist": "Frank C. Müller, Baden-Baden",
+  "license": "CC BY-SA 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Briefumschlag_(fcm).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Briefumschlag_%28fcm%29.jpg/960px-Briefumschlag_%28fcm%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Briefumschlag_%28fcm%29.jpg/500px-Briefumschlag_%28fcm%29.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-written-message-found-out-og.jpg",
+  "local": true
  }
 }
