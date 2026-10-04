@@ -652,5 +652,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Loose_coins_and_pot_(FindID_229208).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "scarcity-limited-stock-psychology": {
+  "file": "File:Wii sold out.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wii_sold_out.jpg/960px-Wii_sold_out.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wii_sold_out.jpg/500px-Wii_sold_out.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "The HMV on Oxford Street, which was the UK's Wii launch store, has had this sign up since December 8th.",
+  "artist": "Lee Maguire from London, United Kingdom",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Wii_sold_out.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

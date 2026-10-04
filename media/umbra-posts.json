@@ -8,6 +8,86 @@
     "summary": "ため息は相手への不満より、緊張や負荷をリセットする生理的な反応という研究が多数。読める点と読めない点を検証。"
   },
   {
+    "slug": "blushing-face-red-liking-research",
+    "category": "しぐさ・ボディランゲージ",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "顔が赤くなるのは好意のサインか。赤面の研究でわかったこと",
+    "summary": "赤面は好意ではなく「注目される」ことへの反応。見る人が増えるほど強まり、失敗後の赤面は信頼を高める"
+  },
+  {
+    "slug": "eye-direction-up-right-lying-nlp-research",
+    "category": "しぐさ・ボディランゲージ",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "嘘をつくと右上を見るのは本当か。視線の向きと嘘の通説を研究で検証",
+    "summary": "「右上を見たら嘘」はNLP由来の通説。3つの実験で嘘と本当の視線に差はなかった"
+  },
+  {
+    "slug": "laughing-at-jokes-interest-signal-research",
+    "category": "脈あり・好意のサイン",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "冗談でよく笑ってくれるのは脈ありサインか。笑いと好意の研究",
+    "summary": "好意を持つ相手の冗談には笑いやすい。ただ会話の笑いの多くは社交的な合図で、笑いだけでは判断できない"
+  },
+  {
+    "slug": "question-asking-follow-up-interest-research",
+    "category": "脈あり・好意のサイン",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "質問が多い・プライベートを聞いてくるのは脈ありサインか。質問と好意の研究",
+    "summary": "質問する人は好かれやすいが、質問の多さは会話の癖で好意の証拠にはならない"
+  },
+  {
+    "slug": "too-much-detail-lying-research",
+    "category": "しぐさ・ボディランゲージ",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "話が細かすぎるのは嘘のサインか。話の具体性と嘘の研究でわかったこと",
+    "summary": "細かすぎる話は嘘？研究では逆に、嘘の話の方が細部が少ない傾向。ただし差は小さく判定には使えない"
+  },
+  {
+    "slug": "self-disclosure-confiding-liking-research",
+    "category": "脈あり・好意のサイン",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "自分の話や悩みを打ち明けてくるのは脈ありサインか。自己開示と好意の研究",
+    "summary": "好きな相手には打ち明けやすいのは確か。ただし研究の「好意」は友情も含み、恋愛感情の証拠にはならない"
+  },
+  {
+    "slug": "teasing-affection-or-hostility-research",
+    "category": "駆け引きと心理",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "からかう・いじってくるのは好意の裏返しか。からかいの研究でわかったこと",
+    "summary": "からかいは親しみにも攻撃にもなる。好意の証拠にはならず、嫌ならやめてもらってよい理由を研究で検証"
+  },
+  {
+    "slug": "illusion-of-transparency-nervousness-visible-research",
+    "category": "しぐさ・ボディランゲージ",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "緊張が顔や声に出ている気がするのは本当か。「透明性の錯覚」の研究",
+    "summary": "緊張は思うほど相手に見えていない。話し手が過大に見積もる「透明性の錯覚」を研究から解説"
+  },
+  {
+    "slug": "compliments-flattery-liking-signal-research",
+    "category": "脈あり・好意のサイン",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "よく褒めてくるのは好意のサインか。褒め言葉と好意・お世辞の研究",
+    "summary": "褒め言葉は好意にも手段にもなる。誰にでも向けた好意はかえって好かれにくいことも研究で判明"
+  },
+  {
+    "slug": "language-style-matching-line-keigo-research",
+    "category": "駆け引きと心理",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "敬語がタメ口に、LINEの文体が似てくるのは脈ありサインか。言葉づかいの一致の研究",
+    "summary": "言葉づかいの一致は好意と関係するが、ケンカ中にも高まり効果はごく小さい"
+  },
+  {
     "slug": "neck-touch-pacifying-behavior-research",
     "category": "しぐさ・ボディランゲージ",
     "type": "guide",

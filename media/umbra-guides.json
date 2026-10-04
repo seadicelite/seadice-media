@@ -18,7 +18,8 @@
         "body-language-lie-detection-accuracy",
         "blink-rate-nervousness-lying-research",
         "gaze-avoidance-social-anxiety-research",
-        "eye-blocking-covering-eyes-research"
+        "eye-blocking-covering-eyes-research",
+        "eye-direction-up-right-lying-nlp-research"
       ]
     },
     {
@@ -36,7 +37,10 @@
         "microexpression-true-feelings-research",
         "appearance-first-impression-accuracy-research",
         "eyebrow-flash-attraction-research",
-        "lip-compression-disappearing-lips-stress-research"
+        "lip-compression-disappearing-lips-stress-research",
+        "blushing-face-red-liking-research",
+        "laughing-at-jokes-interest-signal-research",
+        "illusion-of-transparency-nervousness-visible-research"
       ]
     },
     {
@@ -110,7 +114,12 @@
         "silence-during-dates-liking-research",
         "love-signals-flirting-research",
         "nodding-backchannel-listening-likeability-research",
-        "sighing-meaning-research"
+        "sighing-meaning-research",
+        "question-asking-follow-up-interest-research",
+        "too-much-detail-lying-research",
+        "self-disclosure-confiding-liking-research",
+        "teasing-affection-or-hostility-research",
+        "compliments-flattery-liking-signal-research"
       ]
     }
   ],

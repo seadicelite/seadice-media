@@ -1,5 +1,13 @@
 [
   {
+    "slug": "sns-video-voice-clone-risk",
+    "category": "AI時代の防犯",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "SNSの動画が声のなりすましの材料になる。公開前に見直したい投稿の工夫",
+    "summary": "AI音声クローンは、わずか2つの短い音声サンプルから作れると研究でわかった。本物と聞き分けられたのは73%ほど。公開範囲の見直しと家族内ルールが対策になる。"
+  },
+  {
     "slug": "ai-era-scam-checklist",
     "category": "AI時代の防犯",
     "type": "guide",
