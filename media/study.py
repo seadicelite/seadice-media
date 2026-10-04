@@ -478,6 +478,12 @@ def check_output(out):
     """生成後チェック: 内部リンク切れ・h1が1つ・JSON-LDのパース・他分野の文言の混入。"""
     errs = []
     forbid = CFG.get("forbidWords", [])
+    # フッター「SEADICE STUDYの他の講座」に並ぶ講座名は混入ではないので、検査の前に取り除く
+    sp = ROOT / "media/study-sites.json"
+    names = [x["name"] for x in json.loads(sp.read_text())] if sp.exists() else []
+    def strip_names(t):
+        for n in names: t = t.replace(n, " ")
+        return t
     files = sorted(out.rglob("*.html"))
     for f in files:
         rel = f.relative_to(out)
@@ -494,14 +500,14 @@ def check_output(out):
             p = out / href.lstrip("/")
             if not (p / "index.html").exists() and not (p.is_file()):
                 errs.append(f"{rel}: 内部リンク切れ {href}")
-        txt = re.sub(r"<[^>]+>", " ", s)
+        txt = strip_names(re.sub(r"<[^>]+>", " ", s))
         for w in forbid:
             if w in txt: errs.append(f"{rel}: 他分野の文言「{w}」が残っている")
     for f in ("llms.txt",):
         p = out / f
         if p.exists():
             for w in forbid:
-                if w in p.read_text(): errs.append(f"{f}: 他分野の文言「{w}」が残っている")
+                if w in strip_names(p.read_text()): errs.append(f"{f}: 他分野の文言「{w}」が残っている")
     js = out / "study.js"
     if js.exists() and js.stat().st_size > 10 * 1024: errs.append(f"study.js が {js.stat().st_size} バイト（10KB以内）")
     return sorted(set(errs)), len(files)

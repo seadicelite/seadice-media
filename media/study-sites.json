@@ -10,7 +10,7 @@
     "slug": "boueki",
     "name": "ゼロから学ぶ貿易実務",
     "url": "https://boueki.seadice.win/",
-    "live": false
+    "live": true
   },
   {
     "slug": "counselor",
@@ -28,6 +28,6 @@
     "slug": "hanzaigaku",
     "name": "ゼロから学ぶ犯罪学",
     "url": "https://hanzaigaku.seadice.win/",
-    "live": false
+    "live": true
   }
 ]
