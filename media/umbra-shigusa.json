@@ -664,6 +664,183 @@
         "date",
         "work"
       ]
+    },
+    {
+      "id": "blushing",
+      "part": "表情",
+      "gesture": "顔が赤くなる",
+      "belief": "好意がある・脈あり",
+      "level": "b",
+      "text": "赤面は、人からの注目や評価を意識したときの反応で、見る人が増えるほど強まります。好意と結びつけた研究は見当たりません。",
+      "tags": [
+        "like",
+        "nerve"
+      ],
+      "scenes": [
+        "date",
+        "first"
+      ],
+      "evidence": "few",
+      "slug": "blushing-face-red-liking-research"
+    },
+    {
+      "id": "eyes-up-right",
+      "part": "目・視線",
+      "gesture": "右上を見る",
+      "belief": "嘘をついている・作り話をしている",
+      "level": "c",
+      "text": "3つの実験で、嘘と本当で右上・左上を見る回数に差はありませんでした。この説を教わっても、見抜く力は上がりませんでした。",
+      "tags": [
+        "lie"
+      ],
+      "scenes": [
+        "conflict",
+        "date"
+      ],
+      "slug": "eye-direction-up-right-lying-nlp-research"
+    },
+    {
+      "id": "laughs-a-lot",
+      "part": "表情",
+      "gesture": "冗談でよく笑ってくれる",
+      "belief": "好意がある・脈あり",
+      "level": "b",
+      "text": "好意を持つ相手の冗談には笑いやすい傾向があります。ただ会話の笑いの多くは、面白くない発言の後にも出る社交的な反応です。",
+      "tags": [
+        "like"
+      ],
+      "scenes": [
+        "date",
+        "work",
+        "first"
+      ],
+      "evidence": "meta",
+      "slug": "laughing-at-jokes-interest-signal-research"
+    },
+    {
+      "id": "asks-questions",
+      "part": "声・会話",
+      "gesture": "質問が多い・プライベートを聞く",
+      "belief": "自分に興味がある・脈あり",
+      "level": "b",
+      "text": "質問する人は相手から好かれやすい一方、質問の多さはその人の会話の癖による部分が大きいとされます。相手も自分のことを話すかを合わせて見ます。",
+      "tags": [
+        "like"
+      ],
+      "scenes": [
+        "date",
+        "first",
+        "work"
+      ],
+      "evidence": "few",
+      "slug": "question-asking-follow-up-interest-research"
+    },
+    {
+      "id": "too-detailed",
+      "part": "声・会話",
+      "gesture": "話が細かすぎる",
+      "belief": "嘘を隠すために話を作り込んでいる",
+      "level": "c",
+      "text": "研究では逆に、嘘の話の方が細部が少ない傾向がありました。余計な細部や話の長さには差がなく、細かさで嘘は判定できません。",
+      "tags": [
+        "lie"
+      ],
+      "scenes": [
+        "date",
+        "conflict"
+      ],
+      "evidence": "meta",
+      "slug": "too-much-detail-lying-research"
+    },
+    {
+      "id": "self-disclosure",
+      "part": "声・会話",
+      "gesture": "悩みや自分の話を打ち明けてくる",
+      "belief": "脈あり（恋愛相談なら脈なし）",
+      "level": "b",
+      "text": "人は好意を持つ相手により多く打ち明ける傾向があります。ただし研究の大半は同性どうしで、恋愛感情か友情かは区別できません。",
+      "tags": [
+        "like"
+      ],
+      "scenes": [
+        "date",
+        "first",
+        "work"
+      ],
+      "evidence": "meta",
+      "slug": "self-disclosure-confiding-liking-research"
+    },
+    {
+      "id": "teasing",
+      "part": "声・会話",
+      "gesture": "からかう・いじってくる",
+      "belief": "好意の裏返し",
+      "level": "b",
+      "text": "からかいは親しみにも攻撃にもなります。言われた側はつらく感じやすく、好意の証拠にはなりません。嫌ならやめてと伝えてかまいません。",
+      "tags": [
+        "like",
+        "warn"
+      ],
+      "scenes": [
+        "date",
+        "work",
+        "conflict"
+      ],
+      "evidence": "meta",
+      "slug": "teasing-affection-or-hostility-research"
+    },
+    {
+      "id": "nerves-visible",
+      "part": "表情",
+      "gesture": "緊張が顔や声に出ている気がする",
+      "belief": "緊張は相手に丸わかり",
+      "level": "c",
+      "text": "緊張が相手に見えている程度は、本人が大きく見積もりやすいことがわかっています。聴衆の評価は、話し手の予想より明らかに低くなりました。",
+      "tags": [
+        "nerve"
+      ],
+      "scenes": [
+        "work",
+        "first",
+        "date"
+      ],
+      "slug": "illusion-of-transparency-nervousness-visible-research"
+    },
+    {
+      "id": "compliments",
+      "part": "声・会話",
+      "gesture": "よく褒めてくる",
+      "belief": "好意がある・脈あり",
+      "level": "b",
+      "text": "褒め言葉は好意の表れにも、好かれるための手段にもなります。誰にでも向けた好意はかえって好かれにくく、「自分にだけか」が手がかりになります。",
+      "tags": [
+        "like",
+        "warn"
+      ],
+      "scenes": [
+        "date",
+        "work",
+        "first"
+      ],
+      "evidence": "meta",
+      "slug": "compliments-flattery-liking-signal-research"
+    },
+    {
+      "id": "language-match",
+      "part": "連絡・行動",
+      "gesture": "LINEの文体が似てくる・タメ口になる",
+      "belief": "脈あり",
+      "level": "b",
+      "text": "言葉づかいが一致したペアほど互いに好意を持ちやすい一方、ケンカ中にも一致は高まります。複数の研究をまとめた分析では、効果はごく小さいものでした。",
+      "tags": [
+        "like"
+      ],
+      "scenes": [
+        "sns",
+        "date"
+      ],
+      "evidence": "meta",
+      "slug": "language-style-matching-line-keigo-research"
     }
   ],
   "quiz": [
@@ -985,6 +1162,116 @@
       ],
       "e": "「足は一番正直」という説は、研究では支持されていません。",
       "slug": "feet-most-honest-leakage-research"
+    },
+    {
+      "q": "女子大学生48人の実験で、赤面が強くなったのはどんなときでしたか？",
+      "c": [
+        "見ている人が1人から4人に増えたとき",
+        "好きな相手と2人きりになったとき",
+        "1人きりで映像を見たとき",
+        "見ている人が0人から1人になったとき"
+      ],
+      "e": "0人から1人では変わらず、効いていたのは注目される量でした。",
+      "slug": "blushing-face-red-liking-research"
+    },
+    {
+      "q": "「嘘をつくと右上を見る」説を教わった人と、教わらなかった人の見抜く力を比べた実験の結果はどれですか？",
+      "c": [
+        "正解数に差はなかった",
+        "教わった人の方が大幅に正確だった",
+        "教わった人の方が自信だけ高くなった",
+        "教わった人の方が正確さが下がった"
+      ],
+      "e": "32本の映像の判定で、正解数は平均16.33本と16.59本でほぼ同じでした。",
+      "slug": "eye-direction-up-right-lying-nlp-research"
+    },
+    {
+      "q": "会話中の笑い1,200回を観察した研究で、笑いが入った場所として多かったのはどれですか？",
+      "c": [
+        "99%以上が文や句の切れ目",
+        "ほとんどが冗談のオチの直後",
+        "大半が相手の話をさえぎる形で",
+        "半分以上が沈黙の最中"
+      ],
+      "e": "笑いは面白くない発言の後にも起きていて、社交的な合図の面が大きいことがわかります。",
+      "slug": "laughing-at-jokes-interest-signal-research"
+    },
+    {
+      "q": "スピードデートの研究で、あるデートでの「質問の多さ」と最も強く関連していたのはどれですか？",
+      "c": [
+        "同じ人がほかのデートでした質問の多さ",
+        "その相手への好意の強さ",
+        "相手の外見の魅力",
+        "デートの時間帯"
+      ],
+      "e": "質問の多さは、主にその人の会話の癖だと考えられています。",
+      "slug": "question-asking-follow-up-interest-research"
+    },
+    {
+      "q": "嘘と本当の話を比べたメタ分析で、話に含まれる細部の量はどうでしたか？",
+      "c": [
+        "本当の話の方が細部が多かった",
+        "嘘の話の方が細部が多かった",
+        "嘘と本当でまったく差がなかった",
+        "嘘の話の方が返答が長かった"
+      ],
+      "e": "「細かすぎる＝嘘」という通説とは逆向きの結果でした。ただし差は小さく、判定には使えません。",
+      "slug": "too-much-detail-lying-research"
+    },
+    {
+      "q": "自己開示と好意のメタ分析で、3つの関係のうち最も強かったのはどれですか？",
+      "c": [
+        "好意を持つ相手に、より多く打ち明ける",
+        "深く打ち明ける人ほど好かれる",
+        "打ち明けた相手を好きになる",
+        "恋愛相談をする相手には恋愛感情がない"
+      ],
+      "e": "ただし研究の多くは、同性どうしの一般的な好意を測ったものです。",
+      "slug": "self-disclosure-confiding-liking-research"
+    },
+    {
+      "q": "からかいが「遊び」ではなく「攻撃」寄りだと考えられるのは、どんなときですか？",
+      "c": [
+        "嫌だと伝えてもやめず、一方的に続くとき",
+        "お互いに言い返し合っているとき",
+        "大げさな言い方や笑いを添えているとき",
+        "気心の知れた2人きりの場で言われたとき"
+      ],
+      "e": "傷つくからかいは、力の差があり、やめずに一方的に繰り返されるものでした。",
+      "slug": "teasing-affection-or-hostility-research"
+    },
+    {
+      "q": "スピーチをした人の「緊張して見えたはず」という予想と、聴衆の実際の評価を比べるとどうでしたか？",
+      "c": [
+        "聴衆の実際の評価の方が明らかに低かった",
+        "聴衆の実際の評価の方が明らかに高かった",
+        "両者はほぼ同じだった",
+        "聴衆は緊張にまったく気づかなかった"
+      ],
+      "e": "自分の緊張は外から丸見えだと思い込みやすい。これを「透明性の錯覚」と呼びます。",
+      "slug": "illusion-of-transparency-nervousness-visible-research"
+    },
+    {
+      "q": "スピードデートの研究で、誰に対しても好意を示した人はどう評価されましたか？",
+      "c": [
+        "相手からかえって好かれにくかった",
+        "誰からも好意を返されやすかった",
+        "評価は特に変わらなかった",
+        "同性からだけ好かれやすかった"
+      ],
+      "e": "特定の相手への好意は返されやすい一方、誰にでも好意を示す人は好かれにくい結果でした。",
+      "slug": "compliments-flattery-liking-signal-research"
+    },
+    {
+      "q": "カップルが二人の問題を話し合う場面で、言葉づかいの一致が高いと何が多くなりましたか？",
+      "c": [
+        "批判的・否定的な言動",
+        "相手を思いやる言動",
+        "笑いや冗談",
+        "沈黙"
+      ],
+      "e": "言葉づかいの一致は好意そのものではなく、会話の調子を強めると考えられています。",
+      "slug": "language-style-matching-line-keigo-research"
     }
   ],
   "purposes": [

@@ -315,5 +315,23 @@
     "slugs": [
       "nose-touching-lying-pinocchio-research"
     ]
+  },
+  {
+    "id": "illusion-of-transparency",
+    "term": "透明性の錯覚",
+    "en": "Illusion of transparency",
+    "def": "自分の緊張や気持ちが、実際以上に相手に伝わっていると思い込む傾向。スピーチの研究では、聴衆の評価は話し手の予想より明らかに低くなりました。",
+    "slugs": [
+      "illusion-of-transparency-nervousness-visible-research"
+    ]
+  },
+  {
+    "id": "language-style-matching",
+    "term": "言葉づかいの一致",
+    "en": "Language style matching",
+    "def": "会話する二人の言葉の使い方（助詞や代名詞などの細かい言葉）が自然にそろっていくこと。好意と関係する一方、ケンカ中にも高まり、本人は意識して変えにくいとされます。",
+    "slugs": [
+      "language-style-matching-line-keigo-research"
+    ]
   }
 ]

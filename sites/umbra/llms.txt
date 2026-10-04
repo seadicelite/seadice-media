@@ -27,12 +27,16 @@
 
 ### 脈あり・好意のサイン
 
+- [よく褒めてくるのは好意のサインか。褒め言葉と好意・お世辞の研究](https://umbra.seadice.win/compliments-flattery-liking-signal-research/): 褒め言葉は好意にも手段にもなる。誰にでも向けた好意はかえって好かれにくいことも研究で判明
 - [「好きバレ」を恐れて告白を先延ばしにする心理。後悔の研究でわかったこと](https://umbra.seadice.win/confession-hesitation-regret-research/): 恋愛の後悔を調べた研究では、振られた経験より「言わずに終わった機会」を挙げた人の方が3倍以上多かった。
 - [連絡頻度が減るのは冷めたサインか。データと心理学研究で読み解く](https://umbra.seadice.win/contact-frequency-decline-cooling-signal-research/): 通話データの研究では、疎遠になりそうな相手にはむしろ会話を長く丁寧にする「埋め合わせ」も確認された。Twitterデータでは破局前に相手への投稿が減る傾向も見られた。
 - [デートに誘えない・断れないのはなぜか。拒絶への不安を研究で読み解く](https://umbra.seadice.win/dating-invitation-rejection-anxiety-research/): 拒絶過敏性の研究と2,000人規模の実験から、誘う・断るときの不安が実際の痛手より大きく見積もられていることを確認した。
+- [冗談でよく笑ってくれるのは脈ありサインか。笑いと好意の研究](https://umbra.seadice.win/laughing-at-jokes-interest-signal-research/): 好意を持つ相手の冗談には笑いやすい。ただ会話の笑いの多くは社交的な合図で、笑いだけでは判断できない
 - [「恋は盲目」は科学的に本当だった。理想化と脳の研究でわかったこと](https://umbra.seadice.win/love-is-blind-idealization-research/): 恋人を見るとき批判的な脳の働きが弱まることを脳画像研究で確認。13年間の追跡調査では、新婚時の理想化が愛情の維持と結びついていた。
 - [脈ありサインは当てになる？スピードデートの研究が示した「好意の読み違い」](https://umbra.seadice.win/love-signals-flirting-research/): 人は相手の好意をどれほど読み違えるのか。スピードデートの研究から、確かめ方を整理。
 - [会う回数が多いほど好きになるのか。単純接触効果を恋愛の研究で読み解く](https://umbra.seadice.win/mere-exposure-effect-romantic-attraction/): 講義に出席する回数を変えた実験とメタ分析から、接触回数と好意の関係、そして情報が増えすぎると逆効果になる条件を確認した。
+- [質問が多い・プライベートを聞いてくるのは脈ありサインか。質問と好意の研究](https://umbra.seadice.win/question-asking-follow-up-interest-research/): 質問する人は好かれやすいが、質問の多さは会話の癖で好意の証拠にはならない
+- [自分の話や悩みを打ち明けてくるのは脈ありサインか。自己開示と好意の研究](https://umbra.seadice.win/self-disclosure-confiding-liking-research/): 好きな相手には打ち明けやすいのは確か。ただし研究の「好意」は友情も含み、恋愛感情の証拠にはならない
 - [デート中の沈黙が気まずいのは自分だけ？沈黙と好意の関係を心理学研究で読み解く](https://umbra.seadice.win/silence-during-dates-liking-research/): 会話の沈黙に気まずさを感じるのは特別なことではない。好意のギャップや会話の流れに関する研究から、沈黙の意味と受け止め方を読み解く。
 - [好きな人と話すと声は変わるのか。声の高さと好意の研究](https://umbra.seadice.win/voice-pitch-attraction-research/): 気になる相手には声の高さが変わりやすい。ただし高くなるか低くなるかは研究や状況で違い、好意の決め手にはならない。
 
@@ -41,11 +45,13 @@
 - [見た目だけで人を見抜けるのか。第一印象の正確さと落とし穴の研究](https://umbra.seadice.win/appearance-first-impression-accuracy-research/): 数秒の映像で当たる性格特性と、0.1秒の信頼感が実際の信頼性とズレる仕組みを研究から確認した。
 - [腕組みは拒絶のサインか？研究でわかった、姿勢と心理の意外な関係](https://umbra.seadice.win/arm-crossing-posture-psychology-research/): 腕組みは服従的な心理と関連する一方、粘り強さを高める効果も。研究でわかっている姿勢と心理の関係を整理。
 - [まばたきが増えるのは緊張や嘘のサインか。まばたきの研究でわかったこと](https://umbra.seadice.win/blink-rate-nervousness-lying-research/): まばたきは会話中に増え集中で減る。嘘の実験では嘘をつく間にむしろ減っていた
+- [顔が赤くなるのは好意のサインか。赤面の研究でわかったこと](https://umbra.seadice.win/blushing-face-red-liking-research/): 赤面は好意ではなく「注目される」ことへの反応。見る人が増えるほど強まり、失敗後の赤面は信頼を高める
 - [しぐさで嘘は見抜ける？206本の研究文献が示した正解率は、約54%](https://umbra.seadice.win/body-language-lie-detection-accuracy/): 視線やしぐさで嘘はわかるのか。メタ分析が示した限界と、代わりにできること。
 - [体や足先の向きは関心のサインか。研究でわかった「体の向き」と好意の関係](https://umbra.seadice.win/body-orientation-feet-direction-interest-research/): 体や足先の向きは注意の向き先を示す手がかりにはなるが、好意との関連は弱い。距離や席の影響が大きいことを研究から検証する。
 - [しぐさが似てくるのは好意のサインか。「カメレオン効果」の研究でわかったこと](https://umbra.seadice.win/chameleon-effect-mimicry-liking-research/): 好意があるとしぐさは似てきやすい。ただし、わざと真似をして好かれる効果は再現されないこともあった。
 - [目を手で覆う・ぎゅっと閉じるのは「見たくない」のサインか。元FBI捜査官の説を研究で検証](https://umbra.seadice.win/eye-blocking-covering-eyes-research/): 嫌悪の表情では目が細まり視野が狭まる。ただ目を閉じるのは考えごとや思い出すときにも増え、不快の証拠にはならない。
 - [目が合う回数は「好き」のサインか？心理学研究でわかった視線と恋愛感情の関係](https://umbra.seadice.win/eye-contact-gaze-attraction-research/): アイコンタクトと好意の関係を実験データから検証。自分の記憶は当てにならない。
+- [嘘をつくと右上を見るのは本当か。視線の向きと嘘の通説を研究で検証](https://umbra.seadice.win/eye-direction-up-right-lying-nlp-research/): 「右上を見たら嘘」はNLP由来の通説。3つの実験で嘘と本当の視線に差はなかった
 - [眉が一瞬上がるのは好意のサインか。「アイブロウフラッシュ」の研究](https://umbra.seadice.win/eyebrow-flash-attraction-research/): 眉の一瞬の上げ下げは笑顔と出る「関わってよい」の合図。ただし同意や聞き返しにも使われ、恋愛感情の証拠にはならない。
 - [作り笑いと本物の笑顔は見分けられるか。研究でわかった正解率と、見抜くコツ](https://umbra.seadice.win/fake-smile-duchenne-detection-research/): 73人の実験では見た目だけの判定は五分五分に近い正答率。目じりのシワより口の動きに注目する方が有効という結果も。
 - [足は一番正直な部位なのか。元FBI捜査官の説と「はずむ足」を研究で検証](https://umbra.seadice.win/feet-most-honest-leakage-research/): 「足は顔より正直」は経験則。メタ分析では足や脚の動きと嘘の差はほぼゼロでした
@@ -53,6 +59,7 @@
 - [急に体が固まるのは警戒のサインか。「フリーズ・逃走・闘争」反応を元FBI捜査官の説と研究で検証](https://umbra.seadice.win/freeze-flight-fight-threat-response-research/): 脅威で体が固まる反応は実験で確認済み。ただし嘘の証拠にはならず、動けないことは同意でもない
 - [目を合わせずに話す人の心理。視線回避と緊張・社交不安の研究](https://umbra.seadice.win/gaze-avoidance-social-anxiety-research/): 目をそらすのは考えごと・緊張・文化の習慣のどれか。嘘や好き嫌いは読めないことを研究から検証
 - [首をかしげるしぐさは何を伝えているのか。頭の傾きと印象の研究](https://umbra.seadice.win/head-tilt-impression-research/): 頭の傾きは顔の見え方を変えて印象を動かす。ただし首をかしげる動作だけで好意や本音は読めない
+- [緊張が顔や声に出ている気がするのは本当か。「透明性の錯覚」の研究](https://umbra.seadice.win/illusion-of-transparency-nervousness-visible-research/): 緊張は思うほど相手に見えていない。話し手が過大に見積もる「透明性の錯覚」を研究から解説
 - [足を組む向きや組み方で性格はわかるのか。座り方の心理学を研究で検証](https://umbra.seadice.win/leg-crossing-direction-personality-research/): 脚の組み方や向きが性格を示すという通説を直接調べた研究は見当たらなかった。開いた姿勢が与える印象は実験で確認されている
 - [貧乏ゆすりは不安やイライラのサインか。落ち着きのない動作（フィジェッティング）の研究](https://umbra.seadice.win/leg-jiggling-fidgeting-anxiety-research/): 貧乏ゆすりは退屈や集中切れで増える。嘘との差は見られず、集中や血管の健康を助ける面も
 - [唇をぎゅっと結ぶのはストレスのサインか。唇が消えるしぐさを元FBI捜査官の説と研究で検証](https://umbra.seadice.win/lip-compression-disappearing-lips-stress-research/): 唇を結ぶ・噛むしぐさは緊張や照れで増えるが効果は小さく、嘘の証拠にはならないことを研究で検証
@@ -65,6 +72,7 @@
 - [好きな人を見ると瞳孔は開くのか。瞳孔と好意・魅力の研究でわかったこと](https://umbra.seadice.win/pupil-dilation-attraction-research/): 関心で瞳孔は広がるが、明るさや緊張でも変わる。会話中の相手の瞳から好意は判定できない理由を研究で整理
 - [髪や顔をよく触るのは緊張のサインか。自己接触（self-touch）としぐさの研究](https://umbra.seadice.win/self-touch-face-hair-nervousness-research/): 顔に触れるのは1時間に平均23回。緊張や負荷で増えるが、嘘や好意の証拠にはならないと研究から検証
 - [指先を合わせる「尖塔のポーズ」は自信のサインか。元FBI捜査官の説を研究で検証](https://umbra.seadice.win/steepling-hands-confidence-research/): 尖塔のポーズ＝自信は元FBI捜査官の経験則。直接の研究はなく、手ぶりの研究から読める範囲を検証
+- [話が細かすぎるのは嘘のサインか。話の具体性と嘘の研究でわかったこと](https://umbra.seadice.win/too-much-detail-lying-research/): 細かすぎる話は嘘？研究では逆に、嘘の話の方が細部が少ない傾向。ただし差は小さく判定には使えない
 - [話の途中で体の正面をそらすのは拒否のサインか。「腹側の否定」を元FBI捜査官の説と研究で検証](https://umbra.seadice.win/torso-turn-away-ventral-denial-research/): 体の正面をそらすのは拒否のサイン？元FBI捜査官の説を回避姿勢と嘘の研究で検証
 - [さりげなく触れてくるのは好意のサインか。タッチと好意・関係の研究](https://umbra.seadice.win/touch-affection-signal-research/): 触れてよい範囲は親しさに比例。でも触れる量は性格や文化で変わり、恋愛感情の証拠にはならない。同意のないタッチはNG
 
@@ -101,6 +109,7 @@
 
 - [手に入りにくい相手ほど魅力的に見えるのか。駆け引きの心理学研究](https://umbra.seadice.win/hard-to-get-scarcity-attraction-research/): 1973年の古典的実験から2023年のレビューまで、駆け引きが効く条件と効かない条件を確認した。
 - [「体の浮気」と「心の浮気」、許せないのは男女で違うのか。嫉妬の研究](https://umbra.seadice.win/infidelity-jealousy-gender-difference-research/): 「男は体、女は心の浮気がつらい」という差は、2択で聞いたときに出やすく、聞き方や状況で小さくなることがある。
+- [敬語がタメ口に、LINEの文体が似てくるのは脈ありサインか。言葉づかいの一致の研究](https://umbra.seadice.win/language-style-matching-line-keigo-research/): 言葉づかいの一致は好意と関係するが、ケンカ中にも高まり効果はごく小さい
 - [既読からの返信スピードは好意のサインか、研究でわかっていること](https://umbra.seadice.win/line-reply-speed-research/): 返信の速さと好意の関係を検証。じらしが効く条件と、既読チェックの正体。
 - [なぜ「察してほしい」はすれ違いを生むのか。恋愛における暗黙の期待の研究](https://umbra.seadice.win/mind-reading-expectation-mismatch-research/): 「言わなくてもわかってほしい」という期待の強さが誤解を愛情不足と結びつけやすくすることを、カップル調査と14,000人規模のメタ分析から確認した。
 - [謝らない人の心理とは。謝罪と関係修復の研究でわかったこと](https://umbra.seadice.win/non-apology-psychology-barriers-research/): 謝らないのは「悪いと思っていない」からではなく、心理的なハードルの高さが背景にあると、複数の研究から見えてきた。
@@ -108,6 +117,7 @@
 - [恋人のスマホを見たくなるのはなぜか。パートナー監視の研究でわかったこと](https://umbra.seadice.win/partner-phone-checking-surveillance-research/): 恋人のスマホを見たくなる衝動は不安や嫉妬の悪循環から生まれ、確認を続けるほど関係満足度が下がることが研究で示されている。
 - [既読・未読への不安はどこから来るのか。恋愛と嫉妬の心理の研究](https://umbra.seadice.win/reply-anxiety-attachment-jealousy-research/): 愛着スタイルとオンライン嫉妬に関する調査から、返信への不安の理由と、わざと返信を遅らせる駆け引きの実態を確認した。
 - [好きな人のSNSをわざと見ないのはなぜか。既読を隠す心理の研究](https://umbra.seadice.win/story-view-avoidance-interest-concealment-research/): 「見られているかもしれない」という想像上の監視意識が自己呈示を変えることを研究から確認。好意的に評価されていると感じるほど見せ方を調整する傾向も示された。
+- [からかう・いじってくるのは好意の裏返しか。からかいの研究でわかったこと](https://umbra.seadice.win/teasing-affection-or-hostility-research/): からかいは親しみにも攻撃にもなる。好意の証拠にはならず、嫌ならやめてもらってよい理由を研究で検証
 
 ### 別れと復縁
 
