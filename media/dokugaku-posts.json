@@ -1,5 +1,69 @@
 [
   {
+    "slug": "flashcards-how-to-use",
+    "category": "記憶・覚え方",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "暗記カードの効果的な使い方。研究でわかった「分けない・すぐ外さない」",
+    "summary": "暗記カードは小分けにせず1束で回し、1回正解しただけで外さない方が長く覚えられる"
+  },
+  {
+    "slug": "sleep-before-study-memory",
+    "category": "記憶・覚え方",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "寝る前の勉強は記憶に残りやすいのか。睡眠と記憶の研究でわかったこと",
+    "summary": "学んだあとに眠ると忘れにくい。夜に覚えて朝に復習すると、6か月後も多く残った"
+  },
+  {
+    "slug": "implementation-intentions-if-then-study",
+    "category": "続け方・習慣",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "「いつ・どこでやるか」を決めると勉強は続くのか。実行意図（if-thenプラン）の研究",
+    "summary": "「もし〇〇したら△△する」と決めると目標達成に中〜大の効果。勉強での研究と効果の限界、今日書ける1文"
+  },
+  {
+    "slug": "pomodoro-technique-breaks",
+    "category": "集中・環境",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "ポモドーロ・テクニック（25分勉強＋休憩）は効くのか。休憩と集中の研究",
+    "summary": "時間を決めて休むと疲れや気の散りは減りやすいが、成績向上や「25分」が最適という証拠はない"
+  },
+  {
+    "slug": "handwriting-vs-laptop-notes",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "ノートは手書きとパソコン、どちらが覚えられるのか。研究でわかったこと",
+    "summary": "「手書きが勝つ」実験は再現で差が出ず、まとめると手書きがわずかに有利。大切なのは言い換えと見直し"
+  },
+  {
+    "slug": "planning-fallacy-study-plans",
+    "category": "時間・計画",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "勉強の計画が毎回倒れるのはなぜか。計画錯誤の研究でわかったこと",
+    "summary": "人は作業時間を短く見積もりがち。過去の実績を基準にし、作業を細かく書き出すと計画は現実に近づく"
+  },
+  {
+    "slug": "interleaving-mixed-practice",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "1種類ずつより、混ぜて練習した方が身につくのか。交互練習（インターリービング）の研究",
+    "summary": "種類の違う問題を混ぜて練習すると、練習中は間違えても後のテストで伸びる。ただし単語暗記は例外"
+  },
+  {
+    "slug": "illusion-of-knowing-fluency",
+    "category": "記憶・覚え方",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "覚えたつもりなのにテストで書けないのはなぜか。「わかったつもり」の研究",
+    "summary": "すらすら読める手ごたえを「覚えた」と取り違える錯覚の研究と、本を閉じて確かめる対策"
+  },
+  {
     "slug": "retrieval-practice-vs-rereading",
     "category": "記憶・覚え方",
     "type": "guide",
