@@ -107,7 +107,7 @@ def patch_article(cfg, p, posts, images, favicon=""):
         if 'id="tap"' not in s:
             s = s.replace("</head>", '<style id="tap">nav a{display:inline-flex;align-items:center;min-height:44px}</style>\n</head>', 1)
     img = images.get(p["slug"])
-    src = img.get("src") if img else None
+    src = (img.get("og") or img.get("src")) if img else None  # og: SNS用JPEG(自サイト配信時)
     # --- favicon(既存があれば入れ替え、無ければ追加)
     if favicon:
         s = re.sub(r'<link rel="icon"[^>]*>\n?', "", s)
@@ -119,7 +119,7 @@ def patch_article(cfg, p, posts, images, favicon=""):
     add = '<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">\n'
     if src:
         add += (f'<meta property="og:image" content="{src}">\n<meta property="og:image:alt" content="{E(img["alt"], quote=True)}">\n'
-                f'<meta name="twitter:image" content="{src}">\n<link rel="preconnect" href="https://upload.wikimedia.org" crossorigin>\n')
+                f'<meta name="twitter:image" content="{src}">\n' + ('<link rel="preconnect" href="https://upload.wikimedia.org" crossorigin>\n' if "upload.wikimedia.org" in src else ""))
         s = re.sub(r'<meta name="twitter:card" content="[^"]*">', '<meta name="twitter:card" content="summary_large_image">', s)
     else:
         s = re.sub(r'<meta name="twitter:card" content="[^"]*">', '<meta name="twitter:card" content="summary">', s)

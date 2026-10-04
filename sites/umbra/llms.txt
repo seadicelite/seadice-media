@@ -29,7 +29,7 @@
 
 - [よく褒めてくるのは好意のサインか。褒め言葉と好意・お世辞の研究](https://umbra.seadice.win/compliments-flattery-liking-signal-research/): 褒め言葉は好意にも手段にもなる。誰にでも向けた好意はかえって好かれにくいことも研究で判明
 - [「好きバレ」を恐れて告白を先延ばしにする心理。後悔の研究でわかったこと](https://umbra.seadice.win/confession-hesitation-regret-research/): 恋愛の後悔を調べた研究では、振られた経験より「言わずに終わった機会」を挙げた人の方が3倍以上多かった。
-- [連絡頻度が減るのは冷めたサインか。データと心理学研究で読み解く](https://umbra.seadice.win/contact-frequency-decline-cooling-signal-research/): 通話データの研究では、疎遠になりそうな相手にはむしろ会話を長く丁寧にする「埋め合わせ」も確認された。Twitterデータでは破局前に相手への投稿が減る傾向も見られた。
+- [連絡頻度が減るのは冷めたサインか。データと心理学研究で読み解く](https://umbra.seadice.win/contact-frequency-decline-cooling-signal-research/): 通話記録の研究では、間隔が空いた相手ほど次の通話が長くなる傾向が見られた。Twitterの研究では、破局前に相手への投稿の割合が下がっていた。
 - [デートに誘えない・断れないのはなぜか。拒絶への不安を研究で読み解く](https://umbra.seadice.win/dating-invitation-rejection-anxiety-research/): 拒絶過敏性の研究と2,000人規模の実験から、誘う・断るときの不安が実際の痛手より大きく見積もられていることを確認した。
 - [冗談でよく笑ってくれるのは脈ありサインか。笑いと好意の研究](https://umbra.seadice.win/laughing-at-jokes-interest-signal-research/): 好意を持つ相手の冗談には笑いやすい。ただ会話の笑いの多くは社交的な合図で、笑いだけでは判断できない
 - [「恋は盲目」は科学的に本当だった。理想化と脳の研究でわかったこと](https://umbra.seadice.win/love-is-blind-idealization-research/): 恋人を見るとき批判的な脳の働きが弱まることを脳画像研究で確認。13年間の追跡調査では、新婚時の理想化が愛情の維持と結びついていた。
@@ -82,12 +82,12 @@
 - [「追いかけると、逃げる」を繰り返すのはなぜ？愛着スタイルと恋愛の相性の研究](https://umbra.seadice.win/attachment-style-relationship-compatibility/): 不安型と回避型の組み合わせが「追いかける・離れる」を強める。愛着スタイルと相性の研究を紹介。
 - [会話のテンポが合う相手ほど相性がいいのか。同期の心理学研究でわかったこと](https://umbra.seadice.win/conversation-synchrony-compatibility-research/): 話すテンポや身体の動きが自然と重なる「同期」の度合いが高いほど、好意や関係の継続率が高い傾向が複数の研究で示されている。
 - [「運命の人」を信じるほど関係がうまくいかなくなるのか。暗黙の関係理論の研究](https://umbra.seadice.win/destiny-belief-relationship-satisfaction-research/): 対立を相性の欠如と結びつける「運命思考」と、努力で築けると考える「成長思考」の違いを研究から確認した。
-- [喧嘩のあと不安になる人へ。関係が続くかを分ける「喧嘩の型」の研究](https://umbra.seadice.win/fight-style-relationship-research/): 喧嘩の回数より「しかた」が関係の継続を左右する。373組を16年追跡した研究などを紹介。
+- [喧嘩のあと不安になる人へ。関係が続くかを分ける「喧嘩の型」の研究](https://umbra.seadice.win/fight-style-relationship-research/): 喧嘩の「しかた」が関係の継続と関わる。373組を16年追跡した研究などを紹介。
 - [「ありがとう」を伝えると、関係は長続きするのか。感謝と恋愛の研究](https://umbra.seadice.win/gratitude-relationship-maintenance-research/): 日々の小さな感謝は関係の満足感を翌日まで高め、感謝を伝えることは6か月後の関係の質の向上も予測していた。
-- [笑いのツボが合う相手ほど長続きするのか。ユーモアと相性の心理学研究](https://umbra.seadice.win/humor-style-compatibility-research/): ジョークの頻度ではなく「笑いのセンスの共有」が相性を予測。女性のユーモアは交際初期に過小評価されやすいことも確認された。
+- [笑いのツボが合う相手ほど長続きするのか。ユーモアと相性の心理学研究](https://umbra.seadice.win/humor-style-compatibility-research/): 二人で共有する笑いほど満足度と強く関連する。39本の論文をまとめたメタ分析で、ユーモアと相性の関係を整理
 - [遠距離恋愛は本当にうまくいかないのか。満足度を分ける要因を研究で読み解く](https://umbra.seadice.win/long-distance-relationship-satisfaction-research/): 大学生2075人の調査では遠距離かどうかで交際の幸福感や対立に差はなかった。満足度を分けた連絡の取り方を研究から読み解く。
-- [結婚前に確認したいこと：長続きする関係を予測する研究](https://umbra.seadice.win/marriage-compatibility-research/): 43の研究が示した、関係の満足度を予測する要素と、話し合っておきたい3つのこと。
-- [結婚満足度は本当にU字カーブを描くのか。年数と満足度の研究でわかったこと](https://umbra.seadice.win/marriage-satisfaction-u-curve-myth-research/): 「中だるみしても後で盛り返す」という通説は、縦断調査では支持されなかった。満足度は年数とともに緩やかに低下し続ける傾向が確認された。
+- [結婚前に確認したいこと：長続きする関係を予測する研究](https://umbra.seadice.win/marriage-compatibility-research/): 43の追跡研究が示した、関係の質を予測する要素と、話し合っておきたい3つのこと。
+- [結婚満足度は本当にU字カーブを描くのか。年数と満足度の研究でわかったこと](https://umbra.seadice.win/marriage-satisfaction-u-curve-myth-research/): 17年の追跡では後半に盛り返す形は見られず、別の研究では満足度の変化が3つの型に分かれた。「U字」は調べ方で見え方が変わる。
 - [「わかってくれる人」と長続きするのはなぜか。パートナーの「応答性」の研究](https://umbra.seadice.win/partner-responsiveness-research/): 相手にわかってもらえていると感じることは、関係の満足感だけでなく、10年後の体のストレス反応にも関わっていた。
 - [結婚前の同棲は離婚を増やすのか。「同棲効果」の研究でわかったこと](https://umbra.seadice.win/premarital-cohabitation-divorce-risk-research/): 婚約前に同棲した夫婦は満足度が低い傾向が示された一方、近年の世代を対象にした調査では影響がかなり小さくなっていることもわかった。
 - [一度浮気した人は、また浮気するのか。484人を追った研究でわかったこと](https://umbra.seadice.win/serial-infidelity-repeat-research/): 前の交際で浮気をした人は次の交際でも浮気をしやすく、その割合は約3倍だった。ただし必ず繰り返すわけではない。
@@ -100,7 +100,7 @@
 - [デートDVはなぜ見過ごされるのか。「暴力と気づく」男女差の研究](https://umbra.seadice.win/dating-violence-recognition-gender-gap-research/): 支配・独占欲や見下す言動を「非常に深刻」と評価した人は女性で半数以上、男性は約3分の1にとどまった。同じ行為でも認識に差があることを研究で確認。
 - [お金の使い方を隠す『経済的不誠実』は、危険な相手のサインか](https://umbra.seadice.win/financial-infidelity-warning-signs-research/): 全米既婚者946人の調査で経済的不誠実と不倫の関連を確認。借金を隠す心理と、経済的DVとの違いも研究から整理した。
 - [「自分がおかしいのかも」と思ったら――ガスライティングの初期サイン](https://umbra.seadice.win/gaslighting-early-warning-signs/): 会話のあとの違和感は、あなたの弱さではない。研究でわかる初期サインと相談先を紹介。
-- [嫉妬してくれるのは愛情の証か。束縛と支配欲の違いを研究で見分ける](https://umbra.seadice.win/jealousy-possessiveness-control-research/): 嫉妬は男性の支配的行動やDVと強く関連する一方、その感情の正体は見捨てられる不安である可能性が研究で示されている。
+- [嫉妬してくれるのは愛情の証か。束縛と支配欲の違いを研究で見分ける](https://umbra.seadice.win/jealousy-possessiveness-control-research/): 嫉妬は支配的な行動やDVと強く関連する一方、嫉妬の強さは見捨てられる不安（愛着不安）と結びつくことも研究で示されている。
 - [出会ってすぐの猛烈な好意は要注意か。ラブボミングを研究で見抜く](https://umbra.seadice.win/love-bombing-warning-signs-research/): 交際初期の過剰な好意を扱った研究はまだ少ないが、支配的な関係の始まりとの関連や、関連する性格傾向とIPVとの関連が報告されている。
 - [「謝れば許してもらえる」を繰り返す相手。モラハラをする人の行動パターンの研究](https://umbra.seadice.win/moral-harassment-behavior-patterns-research/): マキャベリズムと心理的暴力の関連、謝罪とやり直しを繰り返す加害サイクルなど、研究でわかっている行動パターンを整理
 - [ひどいことをされても離れられないのはなぜか。「トラウマボンディング」の研究](https://umbra.seadice.win/trauma-bonding-why-hard-to-leave-research/): ひどい扱いと優しさが交互に来る関係では、別れた後も強い愛着が残りやすいことが研究で示されている。
@@ -110,23 +110,23 @@
 - [手に入りにくい相手ほど魅力的に見えるのか。駆け引きの心理学研究](https://umbra.seadice.win/hard-to-get-scarcity-attraction-research/): 1973年の古典的実験から2023年のレビューまで、駆け引きが効く条件と効かない条件を確認した。
 - [「体の浮気」と「心の浮気」、許せないのは男女で違うのか。嫉妬の研究](https://umbra.seadice.win/infidelity-jealousy-gender-difference-research/): 「男は体、女は心の浮気がつらい」という差は、2択で聞いたときに出やすく、聞き方や状況で小さくなることがある。
 - [敬語がタメ口に、LINEの文体が似てくるのは脈ありサインか。言葉づかいの一致の研究](https://umbra.seadice.win/language-style-matching-line-keigo-research/): 言葉づかいの一致は好意と関係するが、ケンカ中にも高まり効果はごく小さい
-- [既読からの返信スピードは好意のサインか、研究でわかっていること](https://umbra.seadice.win/line-reply-speed-research/): 返信の速さと好意の関係を検証。じらしが効く条件と、既読チェックの正体。
+- [既読からの返信スピードは好意のサインか、研究でわかっていること](https://umbra.seadice.win/line-reply-speed-research/): 返信の速さと好意の関係を検証。じらしの効果と、既読を確かめたくなる心理を研究で整理。
 - [なぜ「察してほしい」はすれ違いを生むのか。恋愛における暗黙の期待の研究](https://umbra.seadice.win/mind-reading-expectation-mismatch-research/): 「言わなくてもわかってほしい」という期待の強さが誤解を愛情不足と結びつけやすくすることを、カップル調査と14,000人規模のメタ分析から確認した。
 - [謝らない人の心理とは。謝罪と関係修復の研究でわかったこと](https://umbra.seadice.win/non-apology-psychology-barriers-research/): 謝らないのは「悪いと思っていない」からではなく、心理的なハードルの高さが背景にあると、複数の研究から見えてきた。
 - [マッチングアプリのプロフィールは、どれくらい盛られているのか。研究でわかった「小さな嘘」](https://umbra.seadice.win/online-dating-profile-deception-research/): プロフィールのずれは多くの人に見られるが小さく、写真は約3分の1が実物と違うと判断された。メッセージの嘘は約7%だった。
 - [恋人のスマホを見たくなるのはなぜか。パートナー監視の研究でわかったこと](https://umbra.seadice.win/partner-phone-checking-surveillance-research/): 恋人のスマホを見たくなる衝動は不安や嫉妬の悪循環から生まれ、確認を続けるほど関係満足度が下がることが研究で示されている。
 - [既読・未読への不安はどこから来るのか。恋愛と嫉妬の心理の研究](https://umbra.seadice.win/reply-anxiety-attachment-jealousy-research/): 愛着スタイルとオンライン嫉妬に関する調査から、返信への不安の理由と、わざと返信を遅らせる駆け引きの実態を確認した。
-- [好きな人のSNSをわざと見ないのはなぜか。既読を隠す心理の研究](https://umbra.seadice.win/story-view-avoidance-interest-concealment-research/): 「見られているかもしれない」という想像上の監視意識が自己呈示を変えることを研究から確認。好意的に評価されていると感じるほど見せ方を調整する傾向も示された。
+- [好きな人のSNSをわざと見ないのはなぜか。既読を隠す心理の研究](https://umbra.seadice.win/story-view-avoidance-interest-concealment-research/): 「見られているかもしれない」という意識がSNSでの見せ方を変えることを研究で確認。ストーリーを見ない行動そのものを調べた研究はまだ見当たらない。
 - [からかう・いじってくるのは好意の裏返しか。からかいの研究でわかったこと](https://umbra.seadice.win/teasing-affection-or-hostility-research/): からかいは親しみにも攻撃にもなる。好意の証拠にはならず、嫌ならやめてもらってよい理由を研究で検証
 
 ### 別れと復縁
 
-- [別れの痛みと未練、男女で違うのか。5,705人の国際調査でわかったこと](https://umbra.seadice.win/breakup-recovery-gender-difference-research/): 別れ直後の痛みは女性の方が大きいが、その後より完全に立ち直る傾向も確認された。別れを切り出した側は未練が少ないことも別の調査で示された。
+- [別れの痛みと未練、男女で違うのか。5,705人の国際調査でわかったこと](https://umbra.seadice.win/breakup-recovery-gender-difference-research/): 別れ直後の痛みは女性の方がやや大きかった。女性の方が立ち直るという説は研究者の解釈で、回復は測られていない。切り出した側は早く立ち直る傾向も。
 - [別れの傷が消えるまで、どれくらいかかるのか。立ち直りの期間を研究で調べた](https://umbra.seadice.win/breakup-recovery-time-research/): 156人を追跡した研究では気分の落ち込みは3か月ほどで戻ると報告。回復の早さを分ける要因も紹介。
 - [SNSでの元恋人チェックはなぜやめられないのか。未練と監視行動の研究](https://umbra.seadice.win/ex-partner-social-media-checking-research/): 464人・431人の調査と7日間の日記調査から、元恋人のSNSを見る行動が立ち直りを遅らせる仕組みを確認した。
 - [突然の音信不通「ゴースティング」はなぜこんなにつらいのか。研究でわかったこと](https://umbra.seadice.win/ghosting-psychological-effects-research/): 突然の音信不通は、はっきり振られるより仲間外れ感とコントロールを失う感覚を強めることが実験で示された。
 - [復縁すればうまくいくのか。別れと復縁を繰り返す関係を研究で調べた](https://umbra.seadice.win/on-again-off-again-reconciliation-research/): 792人を対象にした調査では約45%が復縁を経験。だが繰り返す関係は暴力の報告が2倍近いことも研究でわかった。
-- [復縁の成功率はどれくらいか。1,001人調査と国内アンケートで読み解く](https://umbra.seadice.win/reconciliation-success-rate-research/): 米国の1,001人調査では初恋相手との復縁を62%が選んだ一方、日本の一般アンケートでは復縁経験者は21.6%だった。調査対象で数字の意味が変わることを解説。
+- [復縁の成功率はどれくらいか。1,001人調査と国内アンケートで読み解く](https://umbra.seadice.win/reconciliation-success-rate-research/): 初恋の相手と再会を試みた米国の約1,000人では62%が復縁を選んだ。ただ調査対象が限られ、一般的な「復縁の成功率」を示す研究はまだない。
 - [別れた相手と友達に戻れるのか。元恋人との友人関係の研究](https://umbra.seadice.win/staying-friends-with-ex-research/): 元恋人と友達でいられるかは理由しだい。未練が理由だと悪い結果につながり、元恋人との友情は普通の友人関係と性質が違っていた。
 
 ## 主要ページ
