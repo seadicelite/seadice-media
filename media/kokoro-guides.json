@@ -43,7 +43,8 @@
     "impostor-feelings",
     "chat-reply-pressure",
     "telework-monitoring-stress",
-    "meeting-replay-regret"
+    "meeting-replay-regret",
+    "ai-written-message-found-out"
    ]
   },
   {
@@ -136,7 +137,8 @@
     "chatgpt-thinking-ability",
     "digital-detox-effect",
     "phone-left-at-home-anxiety",
-    "phantom-phone-vibration"
+    "phantom-phone-vibration",
+    "ai-written-message-found-out"
    ]
   }
  ]
