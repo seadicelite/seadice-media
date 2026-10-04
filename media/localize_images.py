@@ -54,12 +54,13 @@ def main(media):
     site = ROOT / cfg["path"]
     out = site / "img"
     out.mkdir(exist_ok=True)
-    base = cfg["url"].rstrip("/") + "/img/"
+    base = "/img/"  # ページ内は相対パス(独自ドメイン未接続の web.app でも表示できる)
+    og_base = cfg["url"].rstrip("/") + "/img/"  # SNSのシェア画像は絶対URLが必要
     n = 0
     for slug, i in images.items():
         if Image and isinstance(i, dict) and i.get("local") and not i.get("og") and (out / f"{slug}.webp").exists():
             save_jpeg_og(Image.open(out / f"{slug}.webp").convert("RGB"), out / f"{slug}-og.jpg")
-            i["og"] = f"{base}{slug}-og.jpg"
+            i["og"] = f"{og_base}{slug}-og.jpg"
             ip.write_text(json.dumps(images, ensure_ascii=False, indent=1))
             continue
         if not isinstance(i, dict) or i.get("local") or not str(i.get("src", "")).startswith("http"):
@@ -84,7 +85,7 @@ def main(media):
         except Exception as e:  # noqa: BLE001
             print("skip", slug, e)
             continue
-        i.update(remote=old, remote640=i.get("src640"), src=base + names[0], src640=base + names[1], og=base + names[2], w=w, h=h, local=True)
+        i.update(remote=old, remote640=i.get("src640"), src=base + names[0], src640=base + names[1], og=og_base + names[2], w=w, h=h, local=True)
         art = site / slug / "index.html"
         if art.exists():
             t = art.read_text()
@@ -109,7 +110,7 @@ def main(media):
             save_webp(im, out / f"{slug}-sm.webp", 500)
             save_jpeg_og(im, out / f"{slug}-og.jpg")
             old_src = i["src"]
-            i.update(src=f"{base}{slug}.webp", src640=f"{base}{slug}-sm.webp", og=f"{base}{slug}-og.jpg", w=w, h=h)
+            i.update(src=f"{base}{slug}.webp", src640=f"{base}{slug}-sm.webp", og=f"{og_base}{slug}-og.jpg", w=w, h=h)
             i.pop("unconverted", None)
             art = site / slug / "index.html"
             if art.exists():
@@ -122,7 +123,7 @@ def main(media):
         slug = art.parent.name
         t = art.read_text()
         m = re.search(r'<figure class="hero"><img [^>]*?src="(https?://[^"]+)"', t)
-        if not m or slug in images or base in m.group(1):
+        if not m or slug in images or "/img/" in m.group(1):
             continue
         old = m.group(1)
         try:
@@ -135,10 +136,11 @@ def main(media):
             w, h = save_webp(im, out / f"{slug}.webp", 960)
             save_webp(im, out / f"{slug}-sm.webp", 500)
             save_jpeg_og(im, out / f"{slug}-og.jpg")
-            new, sm, og = f"{base}{slug}.webp", f"{base}{slug}-sm.webp", f"{base}{slug}-og.jpg"
+            new, sm, og = f"{base}{slug}.webp", f"{base}{slug}-sm.webp", f"{og_base}{slug}-og.jpg"
         else:
             (out / f"{slug}.jpg").write_bytes(raw)
-            new = sm = og = f"{base}{slug}.jpg"
+            new = sm = f"{base}{slug}.jpg"
+            og = f"{og_base}{slug}.jpg"
             w = h = None
         t = t.replace(old, new)
         if w and h:

@@ -1,8 +1,8 @@
 {
  "email-password-leak-check": {
   "file": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg1NDU5OTQtaW1hZ2Uta3d2dmR5N3cuanBn.jpg",
-  "src": "https://tantei.seadice.win/img/email-password-leak-check.webp",
-  "src640": "https://tantei.seadice.win/img/email-password-leak-check-sm.webp",
+  "src": "/img/email-password-leak-check.webp",
+  "src640": "/img/email-password-leak-check-sm.webp",
   "w": 960,
   "h": 628,
   "alt": "Free password lock laptop image",
@@ -18,8 +18,8 @@
  },
  "fake-online-shop-check": {
   "file": "File:Ecommerce Shopping Cart Abandonment Concept.jpg",
-  "src": "https://tantei.seadice.win/img/fake-online-shop-check.webp",
-  "src640": "https://tantei.seadice.win/img/fake-online-shop-check-sm.webp",
+  "src": "/img/fake-online-shop-check.webp",
+  "src640": "/img/fake-online-shop-check-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "An image of a miniature shopping cart on its side with pennies spilling out of it, representing an abandoned ecommerce cart. The shopping tr",
@@ -35,8 +35,8 @@
  },
  "deepfake-video-human-detection": {
   "file": "File:Blick durch Lupe (48016132496).jpg",
-  "src": "https://tantei.seadice.win/img/deepfake-video-human-detection.webp",
-  "src640": "https://tantei.seadice.win/img/deepfake-video-human-detection-sm.webp",
+  "src": "/img/deepfake-video-human-detection.webp",
+  "src640": "/img/deepfake-video-human-detection-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "Wikipedia under magnifying glass",
@@ -52,8 +52,8 @@
  },
  "ai-voice-family-call-check": {
   "file": "File:Grey rotary dial telephone.jpg",
-  "src": "https://tantei.seadice.win/img/ai-voice-family-call-check.webp",
-  "src640": "https://tantei.seadice.win/img/ai-voice-family-call-check-sm.webp",
+  "src": "/img/ai-voice-family-call-check.webp",
+  "src640": "/img/ai-voice-family-call-check-sm.webp",
   "w": 960,
   "h": 686,
   "alt": "Teléfono fijo de sobremesa de color gris, equipado con disco de marcación rotatorio y auricular conectado mediante cable en espiral",
@@ -69,8 +69,8 @@
  },
  "photo-location-data-check": {
   "file": "File:IPhone camera.jpeg",
-  "src": "https://tantei.seadice.win/img/photo-location-data-check.webp",
-  "src640": "https://tantei.seadice.win/img/photo-location-data-check-sm.webp",
+  "src": "/img/photo-location-data-check.webp",
+  "src640": "/img/photo-location-data-check-sm.webp",
   "w": 960,
   "h": 540,
   "alt": "Apple iPhone",
@@ -86,8 +86,8 @@
  },
  "celebrity-investment-ad-scam-check": {
   "file": "File:UK Stock Market - Investing in the United Kingdom.jpg",
-  "src": "https://tantei.seadice.win/img/celebrity-investment-ad-scam-check.webp",
-  "src640": "https://tantei.seadice.win/img/celebrity-investment-ad-scam-check-sm.webp",
+  "src": "/img/celebrity-investment-ad-scam-check.webp",
+  "src640": "/img/celebrity-investment-ad-scam-check-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "This image of the UK stock market shows a Union Jack alongside an array of stock market data and charts for investors thinking about investi",
@@ -103,8 +103,8 @@
  },
  "delivery-sms-smishing-check": {
   "file": "File:Parcel package boxes in Ozolnieki.jpg",
-  "src": "https://tantei.seadice.win/img/delivery-sms-smishing-check.webp",
-  "src640": "https://tantei.seadice.win/img/delivery-sms-smishing-check-sm.webp",
+  "src": "/img/delivery-sms-smishing-check.webp",
+  "src640": "/img/delivery-sms-smishing-check-sm.webp",
   "w": 960,
   "h": 723,
   "alt": "Parcel package boxes in Ozolnieki",

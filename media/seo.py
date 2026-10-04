@@ -108,6 +108,8 @@ def patch_article(cfg, p, posts, images, favicon=""):
             s = s.replace("</head>", '<style id="tap">nav a{display:inline-flex;align-items:center;min-height:44px}</style>\n</head>', 1)
     img = images.get(p["slug"])
     src = (img.get("og") or img.get("src")) if img else None  # og: SNS用JPEG(自サイト配信時)
+    if src and src.startswith("/"):
+        src = cfg["url"].rstrip("/") + src  # og:image・構造化データは絶対URLが必要
     # --- favicon(既存があれば入れ替え、無ければ追加)
     if favicon:
         s = re.sub(r'<link rel="icon"[^>]*>\n?', "", s)

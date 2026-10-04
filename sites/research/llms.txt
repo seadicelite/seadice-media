@@ -19,6 +19,21 @@ SEADICE RESEARCHはSEADICE(https://seadice.win/)が運営する、無料・広�
 
 ## 記事一覧
 
+### 習慣
+
+- [1日何歩歩けばいいのか。「1万歩」の根拠を研究で調べた](https://research.seadice.win/daily-steps-how-many-research/): 「1万歩」の根拠は弱く、60歳以上は6,000〜8,000歩、60歳未満は8,000〜1万歩で効果が頭打ちに。7,000歩でも十分な効果があった。
+- [目標を人に話すと叶いやすいのか。4つの研究でわかった「話し方」次第で結果が変わる理由](https://research.seadice.win/goal-sharing-achievement-research/): 目標を人に話すと達成しやすくなるのか。4つの研究から、告げ方や相手によって効果が正反対になることを確認した。
+- [「2分ルール」は本当に効くのか。習慣が身につくまでの日数を研究で調べた](https://research.seadice.win/habit-formation-two-minute-rule/): 習慣が身につくまでの日数は中央値で66日（人によって18〜254日）。シンプルな行動ほど早く定着すると研究でわかった。今日からの一歩も紹介。
+- [習慣を記録するだけで続けやすくなるのか。研究でわかった「書くだけ」の効果](https://research.seadice.win/habit-tracking-boosts-continuation/): 138件のメタ分析などから、記録するだけで目標達成率が上がる効果と、効果を強める記録の仕方を確認した。
+- [「もし〇〇したら△△する」と決めると習慣は続くのか。if-thenプランの研究](https://research.seadice.win/if-then-planning-habit-research/): 「いつ・どこで・何をするか」をif-thenで決めると、94件・8,461人分の分析で目標達成を後押しする中〜大の効果があった。
+
+### 記憶・学習
+
+- [手書きとタイピング、どちらが記憶に残るのか。研究でわかった本当の差](https://research.seadice.win/handwriting-vs-typing-memory/): 手書きが有利という研究は再現で差が出なかった。脳の働きには違いがあるが、成績を分けるのは「自分の言葉でまとめるか」だった。
+- [声に出して覚えると記憶に残りやすいのか。研究でわかった条件](https://research.seadice.win/reading-aloud-memory-production-effect/): プロダクション効果の研究から、全部ではなく一部だけ声に出す方が記憶に残りやすいことを確認した。
+- [復習はいつがベスト？1,350人の実験でわかった、記憶が変わるタイミング](https://research.seadice.win/spacing-effect-review-timing/): 1350人以上の実験とメタ分析から、復習の最適な間隔を調べた。早すぎても遅すぎても効果が下がることがわかった。
+- [読み返すより、自分にテストする方が覚えられるのか。「テスト効果」の研究](https://research.seadice.win/testing-effect-retrieval-practice/): 1週間後の記憶は、くり返し読んだ人が40%、思い出す練習をした人が61%。読み返しより「思い出す」復習の方が残りやすい。
+
 ### 集中力
 
 - [香りで集中力は上がるのか。ローズマリーとペパーミントの研究でわかったこと](https://research.seadice.win/aroma-rosemary-focus-research/): ローズマリーやペパーミントで記憶の成績が上がった実験がある一方、ラベンダーは成績を下げた。効果は香りごとにまちまちだった。
@@ -59,21 +74,6 @@ SEADICE RESEARCHはSEADICE(https://seadice.win/)が運営する、無料・広�
 - [SNSをやめると幸福度は上がるのか。「やめる期間」で変わった研究](https://research.seadice.win/social-media-break-wellbeing/): 1週間以上SNSをやめると幸福感が上がり、うつや不安が下がった。1週間未満だとかえって悪化しており、期間が大切だった。
 - [人と話すと気分は上がるのか。知らない人との短い会話の研究](https://research.seadice.win/stranger-small-talk-mood-research/): 電車やカフェでの一言、オンラインの30分間会話まで。話しかけると気まずくなるという予想は、研究ではくり返し外れている。
 - [背筋を伸ばすと気分は上向くのか。姿勢とストレスの研究](https://research.seadice.win/upright-posture-mood-research/): 背筋を伸ばすと、ストレスの中でも気分や自尊心が保たれやすかった。一方、パワーポーズでホルモンが変わる効果は再現されなかった。
-
-### 習慣
-
-- [1日何歩歩けばいいのか。「1万歩」の根拠を研究で調べた](https://research.seadice.win/daily-steps-how-many-research/): 「1万歩」の根拠は弱く、60歳以上は6,000〜8,000歩、60歳未満は8,000〜1万歩で効果が頭打ちに。7,000歩でも十分な効果があった。
-- [目標を人に話すと叶いやすいのか。4つの研究でわかった「話し方」次第で結果が変わる理由](https://research.seadice.win/goal-sharing-achievement-research/): 目標を人に話すと達成しやすくなるのか。4つの研究から、告げ方や相手によって効果が正反対になることを確認した。
-- [「2分ルール」は本当に効くのか。習慣が身につくまでの日数を研究で調べた](https://research.seadice.win/habit-formation-two-minute-rule/): 習慣が身につくまでの日数は中央値で66日（人によって18〜254日）。シンプルな行動ほど早く定着すると研究でわかった。今日からの一歩も紹介。
-- [習慣を記録するだけで続けやすくなるのか。研究でわかった「書くだけ」の効果](https://research.seadice.win/habit-tracking-boosts-continuation/): 138件のメタ分析などから、記録するだけで目標達成率が上がる効果と、効果を強める記録の仕方を確認した。
-- [「もし〇〇したら△△する」と決めると習慣は続くのか。if-thenプランの研究](https://research.seadice.win/if-then-planning-habit-research/): 「いつ・どこで・何をするか」をif-thenで決めると、94件・8,461人分の分析で目標達成を後押しする中〜大の効果があった。
-
-### 記憶・学習
-
-- [手書きとタイピング、どちらが記憶に残るのか。研究でわかった本当の差](https://research.seadice.win/handwriting-vs-typing-memory/): 手書きが有利という研究は再現で差が出なかった。脳の働きには違いがあるが、成績を分けるのは「自分の言葉でまとめるか」だった。
-- [声に出して覚えると記憶に残りやすいのか。研究でわかった条件](https://research.seadice.win/reading-aloud-memory-production-effect/): プロダクション効果の研究から、全部ではなく一部だけ声に出す方が記憶に残りやすいことを確認した。
-- [復習はいつがベスト？1,350人の実験でわかった、記憶が変わるタイミング](https://research.seadice.win/spacing-effect-review-timing/): 1350人以上の実験とメタ分析から、復習の最適な間隔を調べた。早すぎても遅すぎても効果が下がることがわかった。
-- [読み返すより、自分にテストする方が覚えられるのか。「テスト効果」の研究](https://research.seadice.win/testing-effect-retrieval-practice/): 1週間後の記憶は、くり返し読んだ人が40%、思い出す練習をした人が61%。読み返しより「思い出す」復習の方が残りやすい。
 
 ### 睡眠
 
