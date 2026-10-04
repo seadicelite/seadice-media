@@ -61,3 +61,10 @@ argument-hint: <独学の悩み または 勉強法の通説。省略時はキ�
    - 日付は今日（`TZ=Asia/Tokyo date +%F`）。
 5. **公開前の自己検査**（上の一覧）。
 6. **配線・公開**: `.claude/commands/media.md` の手順5・7に従う。`media/dokugaku-posts.json` の先頭に `{"slug","category"(categoriesの name),"type":"guide","date","title","summary"(60字前後)}` を追加し、`python3 media/photo.py dokugaku {slug} "<英語の検索語>"`、`python3 media/build.py dokugaku`（写真は build.py が自サイト配信に切り替える）。
+
+## 早見表・ガイド・用語集への追加（新しい記事ごと）
+
+- `media/dokugaku-hayami.json`（/hayami/「勉強法の効く・効かない早見表」）の `items` に、記事で扱った勉強法を1件追加する: `{"id"(英小文字、重複不可),"name"(勉強法),"belief"(よく言われること),"level"(a=効く/b=条件しだい/c=当てにならない),"text"(90字前後、記事で確認済みの内容だけ),"slug","evidence"(出典にメタ分析・レビューがあり記事の結論を支えるなら"meta"、なければ省略)}`。勉強法の記事でなければ省略してよい。
+- `media/dokugaku-guides.json`（/guide/ 悩み別ガイド）の該当する悩みの `slugs` に追加する。
+- 記事で新しい用語を説明したら `media/dokugaku-glossary.json` に追加する。
+- 追加後に `python3 media/dokugaku_hayami.py` を実行してから `python3 media/build.py dokugaku` を回す（記事末尾の早見表リンクも差し込まれる）。

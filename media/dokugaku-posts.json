@@ -1,5 +1,69 @@
 [
   {
+    "slug": "willpower-self-control-study-environment",
+    "category": "続け方・習慣",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "独学が続かないのは意志が弱いからか。自制心と環境づくりの研究",
+    "summary": "続く人は誘惑に耐えるより、耐えずに済む環境と習慣を持っていた。「意志は使うと減る」説の追試結果も紹介"
+  },
+  {
+    "slug": "self-explanation-vs-ai-explanation",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "AIに説明させるより、自分で説明した方が覚えられるのか。自己説明と生成効果の研究",
+    "summary": "上手な説明を読むより自分で説明した方が学びは大きい。AIは説明役より確認役にすると効果的"
+  },
+  {
+    "slug": "rewards-undermining-study-motivation",
+    "category": "やる気・心",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "ご褒美で勉強を続けるのは逆効果か。やる気と報酬の研究（アンダーマイニング効果）",
+    "summary": "約束した物のご褒美は好きな勉強の興味を下げやすいが、ほめ言葉や手ごたえは高める。反論の分析と使い分け方"
+  },
+  {
+    "slug": "adult-relearning-age-and-learning",
+    "category": "やる気・心",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "大人の学び直しは若い頃より不利なのか。年齢と学習の研究でわかったこと",
+    "summary": "年齢で下がるのは処理の速さなど一部。語彙は60代まで伸び、高齢でも新技能の習得で記憶が伸びた研究を紹介"
+  },
+  {
+    "slug": "growth-mindset-praise-effort",
+    "category": "やる気・心",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "「頭がいいね」より「工夫したね」とほめるべきか。マインドセット研究とその再現",
+    "summary": "努力をほめる・成長マインドセットの効果は平均ではごく小さい。再現研究と、効果が出やすい生徒、独学での使い方"
+  },
+  {
+    "slug": "learning-by-teaching-protege-effect",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "人に教えるつもりで学ぶと覚えやすいのか。「教える効果（プロテジェ効果）」の研究",
+    "summary": "教えるつもりで学ぶだけでも効果あり。実際に何も見ずに説明すると、1週間後まで残りやすい"
+  },
+  {
+    "slug": "music-while-studying-lyrics",
+    "category": "集中・環境",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "音楽を聴きながらの勉強は集中を妨げるのか。歌詞あり・なしで変わるBGMの研究",
+    "summary": "読む勉強では音楽で理解度が少し下がり、歌詞つきの曲が最も不利。歌詞なし・小さめの音なら差は小さい"
+  },
+  {
+    "slug": "test-anxiety-expressive-writing",
+    "category": "やる気・心",
+    "type": "guide",
+    "date": "2026-10-04",
+    "title": "テストで頭が真っ白になるのはなぜか。試験不安と「不安を書き出す」研究",
+    "summary": "頭が真っ白になるのは不安が注意を奪うため。試験前に不安を書き出す方法は追試で再現されなかった"
+  },
+  {
     "slug": "flashcards-how-to-use",
     "category": "記憶・覚え方",
     "type": "guide",

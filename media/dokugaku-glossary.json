@@ -1,0 +1,129 @@
+[
+  {
+    "id": "testing-effect",
+    "term": "テスト効果",
+    "en": "Testing effect",
+    "def": "本を閉じて思い出す練習をすると、読み返すよりも長く覚えていられる現象。答え合わせをすると効果はさらに大きくなります。",
+    "slugs": [
+      "retrieval-practice-vs-rereading",
+      "flashcards-how-to-use"
+    ]
+  },
+  {
+    "id": "spacing",
+    "term": "分散学習",
+    "en": "Spaced practice",
+    "def": "同じ時間をかけるなら、一度にまとめるより日をあけて復習した方が忘れにくいという現象。ちょうどよい間隔は、使う日までの長さで変わります。",
+    "slugs": [
+      "spaced-review-why-it-works"
+    ]
+  },
+  {
+    "id": "interleaving",
+    "term": "交互練習（インターリービング）",
+    "en": "Interleaving",
+    "def": "種類の違う問題を混ぜて練習すること。数学の問題や絵の見分けでは効果がありましたが、単語の暗記ではまとめて練習した方がよい結果でした。",
+    "slugs": [
+      "interleaving-mixed-practice"
+    ]
+  },
+  {
+    "id": "fluency-illusion",
+    "term": "流暢性の錯覚（わかったつもり）",
+    "en": "Illusion of fluency",
+    "def": "すらすら読める手ごたえを「覚えた」と取り違える錯覚。読み返しを好む学生が多い理由の1つと考えられています。",
+    "slugs": [
+      "illusion-of-knowing-fluency"
+    ]
+  },
+  {
+    "id": "self-explanation",
+    "term": "自己説明",
+    "en": "Self-explanation",
+    "def": "学んだ内容を自分の言葉で説明すること。上手な説明を読むより学びが大きいことが、メタ分析で示されています。",
+    "slugs": [
+      "self-explanation-vs-ai-explanation"
+    ]
+  },
+  {
+    "id": "generation-effect",
+    "term": "生成効果",
+    "en": "Generation effect",
+    "def": "答えを読むより、自分で答えを作り出した方が覚えやすいという現象。多くの研究をまとめた分析でも確認されています。",
+    "slugs": [
+      "self-explanation-vs-ai-explanation"
+    ]
+  },
+  {
+    "id": "protege-effect",
+    "term": "教える効果（プロテジェ効果）",
+    "en": "Learning by teaching",
+    "def": "人に教えるつもりで学んだり、実際に教えたりすると理解や記憶が深まる現象。何も見ずに説明すると効果が残りやすくなります。",
+    "slugs": [
+      "learning-by-teaching-protege-effect"
+    ]
+  },
+  {
+    "id": "implementation-intention",
+    "term": "実行意図（if-thenプラン）",
+    "en": "Implementation intention",
+    "def": "「もし〇〇したら△△する」と、行動のきっかけと中身を前もって決めておくこと。目標の達成に中〜大の効果が報告されています。",
+    "slugs": [
+      "implementation-intentions-if-then-study"
+    ]
+  },
+  {
+    "id": "planning-fallacy",
+    "term": "計画錯誤",
+    "en": "Planning fallacy",
+    "def": "作業にかかる時間を、過去の経験よりも短く見積もってしまう傾向。過去の実績を基準にすると見積もりが現実に近づきます。",
+    "slugs": [
+      "planning-fallacy-study-plans"
+    ]
+  },
+  {
+    "id": "learning-styles",
+    "term": "学習スタイル説",
+    "en": "Learning styles",
+    "def": "人には視覚型・聴覚型などの「型」があり、型に合わせて学ぶと成績が上がるという説。合わせることで成績が上がる証拠はほぼありません。",
+    "slugs": [
+      "learning-styles-visual-learner-myth"
+    ]
+  },
+  {
+    "id": "undermining",
+    "term": "アンダーマイニング効果",
+    "en": "Undermining effect",
+    "def": "もともと好きで取り組んでいたことに、約束した物のご褒美を与えると、かえって興味が下がりやすくなる現象。ほめ言葉では逆に興味が高まります。",
+    "slugs": [
+      "rewards-undermining-study-motivation"
+    ]
+  },
+  {
+    "id": "growth-mindset",
+    "term": "成長マインドセット",
+    "en": "Growth mindset",
+    "def": "能力は努力や工夫で伸ばせるという考え方。考え方を変える介入の効果は、平均するとごく小さいことがわかっています。",
+    "slugs": [
+      "growth-mindset-praise-effort"
+    ]
+  },
+  {
+    "id": "ego-depletion",
+    "term": "自我消耗",
+    "en": "Ego depletion",
+    "def": "意志の力は使うと減るという説。大規模な追試では効果がほぼゼロで、再現されませんでした。",
+    "slugs": [
+      "willpower-self-control-study-environment"
+    ]
+  },
+  {
+    "id": "test-anxiety",
+    "term": "試験不安",
+    "en": "Test anxiety",
+    "def": "試験への強い不安。不安が注意を奪い、頭が真っ白になる一因になると考えられています。試験の成績とは小〜中程度の関連があります。",
+    "slugs": [
+      "test-anxiety-expressive-writing"
+    ]
+  }
+]

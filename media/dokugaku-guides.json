@@ -1,0 +1,107 @@
+{
+  "title": "悩み別ガイド",
+  "lead": "独学のよくある悩みから、関係する記事をまとめて読めます。",
+  "cta": {
+    "label": "勉強法の効く・効かない早見表で、22の勉強法の判定を見る",
+    "href": "/hayami/"
+  },
+  "items": [
+    {
+      "id": "memory",
+      "label": "覚えられない",
+      "title": "覚えられない・すぐ忘れるときに読むガイド",
+      "lead": "何度読んでも覚えられない、覚えたはずなのに書けない。記憶の悩みについて、研究でわかっていることをまとめました。",
+      "points": [
+        "読み返すより、本を閉じて思い出す方が1週間後に多く残りました。",
+        "同じ時間をかけるなら、日をあけて復習する方が忘れにくくなります。",
+        "すらすら読める手ごたえは、覚えた証拠になりません。"
+      ],
+      "slugs": [
+        "retrieval-practice-vs-rereading",
+        "spaced-review-why-it-works",
+        "flashcards-how-to-use",
+        "illusion-of-knowing-fluency",
+        "sleep-before-study-memory",
+        "learning-by-teaching-protege-effect",
+        "highlighting-study-method"
+      ]
+    },
+    {
+      "id": "continue",
+      "label": "続かない",
+      "title": "勉強が続かないときに読むガイド",
+      "lead": "三日坊主になる、やる気が出ない。続け方について、研究でわかっていることをまとめました。",
+      "points": [
+        "「いつ・どこでやるか」を決めると、目標の達成に中〜大の効果が報告されています。",
+        "続く人は誘惑に耐えるより、耐えずに済む環境と習慣を持っていました。",
+        "約束した物のご褒美は、好きな勉強への興味を下げやすいことがわかっています。"
+      ],
+      "slugs": [
+        "implementation-intentions-if-then-study",
+        "willpower-self-control-study-environment",
+        "rewards-undermining-study-motivation",
+        "growth-mindset-praise-effort"
+      ]
+    },
+    {
+      "id": "focus",
+      "label": "集中できない",
+      "title": "集中できないときに読むガイド",
+      "lead": "気が散る、長く続かない。集中と環境について、研究でわかっていることをまとめました。",
+      "points": [
+        "時間を決めて休むと、疲れや気の散りは減りやすくなります。",
+        "読む勉強では、歌詞つきの音楽で理解度が少し下がりました。"
+      ],
+      "slugs": [
+        "pomodoro-technique-breaks",
+        "music-while-studying-lyrics",
+        "willpower-self-control-study-environment"
+      ]
+    },
+    {
+      "id": "plan",
+      "label": "計画倒れ",
+      "title": "計画どおりに進まないときに読むガイド",
+      "lead": "立てた計画がいつも倒れる。計画と時間について、研究でわかっていることをまとめました。",
+      "points": [
+        "人は作業時間を短く見積もりがちです。過去の実績を基準にすると見積もりが現実に近づきます。",
+        "「いつ・どこでやるか」まで決めると、行動に移しやすくなります。"
+      ],
+      "slugs": [
+        "planning-fallacy-study-plans",
+        "implementation-intentions-if-then-study",
+        "pomodoro-technique-breaks"
+      ]
+    },
+    {
+      "id": "ai",
+      "label": "AIの使い方",
+      "title": "AIを使って学ぶときに読むガイド",
+      "lead": "AIに頼ると身につかないのでは。AIと学びについて、研究でわかっていることをまとめました。",
+      "points": [
+        "答えを出すAIを使った高校生は、AIなしのテストで成績が下がりました。ヒントだけを出すAIでは下がりませんでした。",
+        "上手な説明を読むより、自分で説明した方が学びは大きいことがわかっています。"
+      ],
+      "slugs": [
+        "ai-answers-and-learning",
+        "self-explanation-vs-ai-explanation",
+        "learning-by-teaching-protege-effect"
+      ]
+    },
+    {
+      "id": "mind",
+      "label": "不安・年齢",
+      "title": "不安や年齢が気になるときに読むガイド",
+      "lead": "本番で頭が真っ白になる、大人になってからでは遅いのでは。気持ちの面について、研究でわかっていることをまとめました。",
+      "points": [
+        "試験不安は、不安が注意を奪うことで起きると考えられています。",
+        "年齢で下がるのは処理の速さなど一部で、語彙は60代まで伸びることがわかっています。"
+      ],
+      "slugs": [
+        "test-anxiety-expressive-writing",
+        "adult-relearning-age-and-learning",
+        "growth-mindset-praise-effort"
+      ]
+    }
+  ]
+}

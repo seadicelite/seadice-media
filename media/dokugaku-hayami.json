@@ -1,0 +1,193 @@
+{
+  "items": [
+    {
+      "id": "recall",
+      "name": "本を閉じて思い出す練習（テスト効果）",
+      "belief": "読み返す方が覚えられる",
+      "level": "a",
+      "text": "読み返すより、本を閉じて思い出す方が1週間後に多く残りました。答え合わせをすると効果はさらに大きくなります。",
+      "slug": "retrieval-practice-vs-rereading",
+      "evidence": "meta"
+    },
+    {
+      "id": "reread",
+      "name": "何度も読み返す",
+      "belief": "くり返し読めば覚えられる",
+      "level": "c",
+      "text": "直後のテストでは読み返しが上回っても、1週間後には思い出す練習に逆転されました。",
+      "slug": "retrieval-practice-vs-rereading"
+    },
+    {
+      "id": "spaced",
+      "name": "日をあけて復習する（分散学習）",
+      "belief": "一気にまとめて覚える方が早い",
+      "level": "a",
+      "text": "同じ復習時間でも日をあけると忘れにくく、約1,350人の研究では最終テストの正答が64%多くなりました。間隔は使う日から逆算します。",
+      "slug": "spaced-review-why-it-works",
+      "evidence": "meta"
+    },
+    {
+      "id": "interleave",
+      "name": "種類の違う問題を混ぜて練習する（交互練習）",
+      "belief": "1種類ずつ集中して解く方がよい",
+      "level": "b",
+      "text": "数学の問題や絵の見分けでは、混ぜた方が後のテストで伸びました。単語の暗記では、まとめて練習した方がよい結果でした。",
+      "slug": "interleaving-mixed-practice",
+      "evidence": "meta"
+    },
+    {
+      "id": "flashcards",
+      "name": "暗記カードを1束で回し、すぐ外さない",
+      "belief": "覚えたカードはすぐ外して小分けにする",
+      "level": "a",
+      "text": "小分けにせず1束で回し、1回正解しただけで外さない方が長く覚えられました。",
+      "slug": "flashcards-how-to-use"
+    },
+    {
+      "id": "fluency",
+      "name": "すらすら読めたら「覚えた」と判断する",
+      "belief": "読めた手ごたえは覚えた証拠",
+      "level": "c",
+      "text": "すらすら読める手ごたえは、覚えたかどうかの目安になりません。本を閉じて確かめるのが確実です。",
+      "slug": "illusion-of-knowing-fluency"
+    },
+    {
+      "id": "sleep",
+      "name": "学んだあとに眠る",
+      "belief": "徹夜で詰め込んだ方が点が取れる",
+      "level": "a",
+      "text": "学んだあとに眠ると忘れにくくなります。夜に覚えて朝に復習した人は、6か月後も多く覚えていました。",
+      "slug": "sleep-before-study-memory",
+      "evidence": "meta"
+    },
+    {
+      "id": "highlight",
+      "name": "蛍光ペンで線を引く",
+      "belief": "線を引けば大事なところが頭に入る",
+      "level": "c",
+      "text": "線を引くだけでは理解は深まりません。読み終えてから要点だけを選ぶ練習をすると、使い方は改善できます。",
+      "slug": "highlighting-study-method",
+      "evidence": "meta"
+    },
+    {
+      "id": "styles",
+      "name": "学習スタイル（視覚型など）に合わせて学ぶ",
+      "belief": "自分の型に合う方法なら成績が上がる",
+      "level": "c",
+      "text": "好みの学び方はあっても、型に合わせて学べば成績が上がるという証拠はほぼありません。",
+      "slug": "learning-styles-visual-learner-myth"
+    },
+    {
+      "id": "handwriting",
+      "name": "ノートを手書きでとる",
+      "belief": "手書きの方がはっきり覚えられる",
+      "level": "b",
+      "text": "有名な「手書きが勝つ」実験は追試で差が出ず、まとめた分析では手書きがわずかに有利でした。大切なのは言い換えと見直しです。",
+      "slug": "handwriting-vs-laptop-notes",
+      "evidence": "meta"
+    },
+    {
+      "id": "teach",
+      "name": "人に教えるつもりで学ぶ",
+      "belief": "教えるのは理解してからでよい",
+      "level": "a",
+      "text": "教えるつもりで学ぶだけでも効果があり、何も見ずに実際に説明すると1週間後まで残りやすくなりました。",
+      "slug": "learning-by-teaching-protege-effect",
+      "evidence": "meta"
+    },
+    {
+      "id": "self-explain",
+      "name": "自分の言葉で説明する（AIの説明を読むより）",
+      "belief": "上手な説明を読めば理解できる",
+      "level": "a",
+      "text": "上手な説明を読むより、自分で説明した方が学びは大きいことがわかっています。AIは説明役より、説明の確認役に向いています。",
+      "slug": "self-explanation-vs-ai-explanation",
+      "evidence": "meta"
+    },
+    {
+      "id": "ai-copy",
+      "name": "AIに答えを聞いて写す",
+      "belief": "AIを使えば早く身につく",
+      "level": "c",
+      "text": "答えを出すAIを使った高校生は、AIなしのテストで成績が下がりました。ヒントだけを出すAIでは下がりませんでした。",
+      "slug": "ai-answers-and-learning"
+    },
+    {
+      "id": "if-then",
+      "name": "「いつ・どこでやるか」を決める（if-thenプラン）",
+      "belief": "やる気があれば続く",
+      "level": "a",
+      "text": "「もし〇〇したら△△する」と決めると、目標の達成に中〜大の効果が報告されています。",
+      "slug": "implementation-intentions-if-then-study",
+      "evidence": "meta"
+    },
+    {
+      "id": "willpower",
+      "name": "意志の力で誘惑に耐える",
+      "belief": "続かないのは意志が弱いから",
+      "level": "c",
+      "text": "続く人は誘惑に耐えるより、耐えずに済む環境と習慣を持っていました。「意志は使うと減る」説は大規模な追試で再現されませんでした。",
+      "slug": "willpower-self-control-study-environment"
+    },
+    {
+      "id": "planning",
+      "name": "過去の実績から勉強時間を見積もる",
+      "belief": "計画どおりに進むはず",
+      "level": "a",
+      "text": "人は作業時間を短く見積もりがちです。過去の実績を基準にし、作業を細かく書き出すと計画は現実に近づきます。",
+      "slug": "planning-fallacy-study-plans"
+    },
+    {
+      "id": "pomodoro",
+      "name": "25分勉強＋休憩（ポモドーロ）",
+      "belief": "25分が集中の最適な長さ",
+      "level": "b",
+      "text": "時間を決めて休むと疲れや気の散りは減りやすい一方、成績が上がる証拠や「25分」が最適という証拠はありません。",
+      "slug": "pomodoro-technique-breaks"
+    },
+    {
+      "id": "music",
+      "name": "歌詞つきの音楽を聴きながら読む",
+      "belief": "好きな曲なら集中できる",
+      "level": "c",
+      "text": "読む勉強では音楽で理解度が少し下がり、歌詞つきの曲が最も不利でした。好きな曲でも同じでした。",
+      "slug": "music-while-studying-lyrics",
+      "evidence": "meta"
+    },
+    {
+      "id": "rewards",
+      "name": "物のご褒美でやる気を出す",
+      "belief": "ご褒美があれば続く",
+      "level": "b",
+      "text": "約束した物のご褒美は、もともと好きな勉強への興味を下げやすい一方、ほめ言葉や手ごたえは興味を高めます。",
+      "slug": "rewards-undermining-study-motivation",
+      "evidence": "meta"
+    },
+    {
+      "id": "mindset",
+      "name": "努力をほめる・成長マインドセットを持つ",
+      "belief": "考え方を変えれば成績が伸びる",
+      "level": "b",
+      "text": "平均すると効果はごく小さく、成績が伸び悩んでいる生徒など一部で効果が見られました。",
+      "slug": "growth-mindset-praise-effort",
+      "evidence": "meta"
+    },
+    {
+      "id": "anxiety-writing",
+      "name": "試験の直前に不安を書き出す",
+      "belief": "書き出せば本番で頭が真っ白にならない",
+      "level": "c",
+      "text": "最初の研究では点が上がりましたが、大規模な追試や実際の試験では効果が再現されませんでした。",
+      "slug": "test-anxiety-expressive-writing",
+      "evidence": "meta"
+    },
+    {
+      "id": "age",
+      "name": "大人になってからの学び直しは不利",
+      "belief": "年をとると覚えられない",
+      "level": "c",
+      "text": "年齢で下がるのは処理の速さなど一部です。語彙は60代まで伸び、高齢でも新しい技能を学ぶと記憶が伸びた研究があります。",
+      "slug": "adult-relearning-age-and-learning"
+    }
+  ]
+}

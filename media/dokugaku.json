@@ -97,27 +97,31 @@
   "rulesFrom": ".claude/commands/dokugaku.md",
   "postsPerRun": 1,
   "topicQueue": [
-    "人に教えるつもりで学ぶと覚えやすいのか。「教える効果」の研究",
-    "音楽を聴きながらの勉強は集中を妨げるのか",
-    "スマホが机にあるだけで集中力は落ちるのか",
-    "ご褒美で勉強を続けるのは逆効果か。やる気と報酬の研究",
-    "勉強の不安で頭が真っ白になるのはなぜか。試験不安と書き出しの研究",
-    "「頭がいいね」より「工夫したね」とほめるべきか。マインドセット研究の再現",
-    "AIに説明させるより、自分で説明した方が覚えられるのか",
     "語学アプリだけで話せるようになるのか。アプリ学習の研究",
-    "倍速の講義動画で学んでも身につくのか",
     "朝と夜、勉強に向いている時間はあるのか",
     "運動すると記憶や学習は良くなるのか",
     "スキマ時間の勉強は効果があるのか",
-    "独学が続かないのは意志が弱いからか。自己調整学習の研究",
     "勉強仲間がいると続くのか。一緒に学ぶ効果の研究",
     "目標は高く掲げるべきか、小さく刻むべきか。目標設定の研究",
-    "思い出すときの「ど忘れ」はなぜ起きるのか",
-    "大人になってからの学び直しは、若い頃より不利なのか"
+    "思い出すときの「ど忘れ」はなぜ起きるのか"
   ],
   "relatedApps": "p/released-apps.json から学び・習慣に近いものを選ぶ。無ければ省略",
   "layout": "magazine",
   "extraCss": "body{background-color:#0B1020;background-image:linear-gradient(rgba(140,200,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(140,200,255,.045) 1px,transparent 1px);background-size:24px 24px} .nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#93A3BE;color:#93A3BE} nav.top a.r{color:#F5C542;font-weight:800;letter-spacing:.08em} .dk-mast{position:relative;padding:30px 26px 26px 40px;margin-bottom:32px;border-radius:20px;background:#121A30;border:1px solid #22304F;overflow:hidden} .dk-mast::before{content:\"\";position:absolute;left:22px;top:0;bottom:0;width:2px;background:rgba(240,112,138,.55)} .dk-en{font-size:12px;letter-spacing:.22em;color:#93A3BE;text-transform:uppercase;font-weight:700} .dk-mast h1{background:none!important;-webkit-text-fill-color:#EAF0FA!important;font-size:clamp(42px,11vw,76px);font-weight:900;line-height:1.15;margin-top:10px;color:#EAF0FA;letter-spacing:.02em} .dk-mark{background:linear-gradient(transparent 60%,rgba(245,197,66,.6) 60%,rgba(245,197,66,.6) 92%,transparent 92%);padding:0 .06em} .dk-tag{font-size:17px;font-weight:700;margin-top:14px;color:#EAF0FA} .dk-lead{font-size:14.5px;color:#93A3BE;margin-top:10px;line-height:1.85;max-width:560px} .dk-rules{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:22px} .dk-rule{display:block;background:#0B1020;border:1px solid #22304F;border-radius:14px;padding:12px 14px;text-decoration:none;color:#EAF0FA;transition:border-color .15s} .dk-rule:hover{border-color:#F5C542} .dk-rule b{display:block;font-size:11px;color:#F5C542;letter-spacing:.14em;margin-bottom:4px} .dk-rule span{font-size:14px;font-weight:700;line-height:1.5} .dk-pills{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px} .dk-pill{display:inline-flex;align-items:baseline;gap:4px;padding:8px 16px;border-radius:999px;font-size:13.5px;color:#EAF0FA;background:rgba(255,255,255,.05);border:1px solid #22304F;text-decoration:none} .dk-pill b{font-size:18px;color:#F5C542} @media(max-width:520px){.dk-rules{grid-template-columns:1fr}.dk-mast{padding:26px 20px 22px 34px}.dk-mast::before{left:18px}} .card{border-radius:16px} .card:hover{border-color:rgba(245,197,66,.6)} .sechead h2{border-left:none!important;padding-left:0!important}.sechead h2::before{content:\"\";display:inline-block;width:14px;height:8px;background:rgba(245,197,66,.7);margin-right:10px;vertical-align:middle;border-radius:2px}",
   "articleCss": "body{background-color:#0B1020;background-image:linear-gradient(rgba(140,200,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(140,200,255,.045) 1px,transparent 1px);background-size:24px 24px} nav a.r{color:#F5C542;font-weight:800} .summary{position:relative;border-radius:14px!important;background:#151F38!important;border:1px solid #22304F!important;border-top:4px solid #F5C542!important} h1{text-wrap:balance} .study{border-left:3px solid rgba(90,176,255,.7)!important} .step{border-left:3px solid rgba(245,197,66,.7)!important}",
-  "mastheadHtml": "<div class=\"dk-mast\"><p class=\"dk-en\">Learn how to learn</p><h1>独学の<span class=\"dk-mark\">科学</span></h1><p class=\"dk-tag\">独学のしかたを、研究で確かめる。</p><p class=\"dk-lead\">%LEAD%</p><div class=\"dk-rules\"><a class=\"dk-rule\" href=\"/retrieval-practice-vs-rereading/\"><b>RULE 1</b><span>読み返すより、思い出す</span></a><a class=\"dk-rule\" href=\"/spaced-review-why-it-works/\"><b>RULE 2</b><span>まとめてより、間をあける</span></a><a class=\"dk-rule\" href=\"/highlighting-study-method/\"><b>RULE 3</b><span>線を引くより、要点を選ぶ</span></a></div><div class=\"dk-pills\"><span class=\"dk-pill\"><b>%POSTS%</b>本の記事</span></div></div>"
+  "mastheadHtml": "<div class=\"dk-mast\"><p class=\"dk-en\">Learn how to learn</p><h1>独学の<span class=\"dk-mark\">科学</span></h1><p class=\"dk-tag\">独学のしかたを、研究で確かめる。</p><p class=\"dk-lead\">%LEAD%</p><div class=\"dk-rules\"><a class=\"dk-rule\" href=\"/retrieval-practice-vs-rereading/\"><b>RULE 1</b><span>読み返すより、思い出す</span></a><a class=\"dk-rule\" href=\"/spaced-review-why-it-works/\"><b>RULE 2</b><span>まとめてより、間をあける</span></a><a class=\"dk-rule\" href=\"/highlighting-study-method/\"><b>RULE 3</b><span>線を引くより、要点を選ぶ</span></a></div><div class=\"dk-pills\"><span class=\"dk-pill\"><b>%POSTS%</b>本の記事</span><a class=\"dk-pill\" href=\"/hayami/\">勉強法の効く・効かない早見表</a><a class=\"dk-pill\" href=\"/guide/\">悩み別ガイド</a><a class=\"dk-pill\" href=\"/glossary/\">用語集</a></div></div>",
+  "extraNav": [
+    {
+      "label": "勉強法の早見表",
+      "path": "/hayami/"
+    },
+    {
+      "label": "悩み別ガイド",
+      "path": "/guide/"
+    },
+    {
+      "label": "用語集",
+      "path": "/glossary/"
+    }
+  ]
 }

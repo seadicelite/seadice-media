@@ -39,23 +39,34 @@
 - [ノートは手書きとパソコン、どちらが覚えられるのか。研究でわかったこと](https://dokugaku.seadice.win/handwriting-vs-laptop-notes/): 「手書きが勝つ」実験は再現で差が出ず、まとめると手書きがわずかに有利。大切なのは言い換えと見直し
 - [蛍光ペンで線を引く勉強法は効くのか。研究でわかったこと](https://dokugaku.seadice.win/highlighting-study-method/): 線を引くだけでは理解は深まらない。読み終えてから要点だけに引き、隠して思い出すのが効く
 - [1種類ずつより、混ぜて練習した方が身につくのか。交互練習（インターリービング）の研究](https://dokugaku.seadice.win/interleaving-mixed-practice/): 種類の違う問題を混ぜて練習すると、練習中は間違えても後のテストで伸びる。ただし単語暗記は例外
+- [人に教えるつもりで学ぶと覚えやすいのか。「教える効果（プロテジェ効果）」の研究](https://dokugaku.seadice.win/learning-by-teaching-protege-effect/): 教えるつもりで学ぶだけでも効果あり。実際に何も見ずに説明すると、1週間後まで残りやすい
 - [「自分は視覚型」は本当？学習スタイル説を研究で確かめる](https://dokugaku.seadice.win/learning-styles-visual-learner-myth/): 好みの学び方はあっても、型に合わせて学べば成績が上がる証拠はほぼない。研究で確かめる
 
 ### 続け方・習慣
 
 - [「いつ・どこでやるか」を決めると勉強は続くのか。実行意図（if-thenプラン）の研究](https://dokugaku.seadice.win/implementation-intentions-if-then-study/): 「もし〇〇したら△△する」と決めると目標達成に中〜大の効果。勉強での研究と効果の限界、今日書ける1文
+- [独学が続かないのは意志が弱いからか。自制心と環境づくりの研究](https://dokugaku.seadice.win/willpower-self-control-study-environment/): 続く人は誘惑に耐えるより、耐えずに済む環境と習慣を持っていた。「意志は使うと減る」説の追試結果も紹介
 
 ### 集中・環境
 
+- [音楽を聴きながらの勉強は集中を妨げるのか。歌詞あり・なしで変わるBGMの研究](https://dokugaku.seadice.win/music-while-studying-lyrics/): 読む勉強では音楽で理解度が少し下がり、歌詞つきの曲が最も不利。歌詞なし・小さめの音なら差は小さい
 - [ポモドーロ・テクニック（25分勉強＋休憩）は効くのか。休憩と集中の研究](https://dokugaku.seadice.win/pomodoro-technique-breaks/): 時間を決めて休むと疲れや気の散りは減りやすいが、成績向上や「25分」が最適という証拠はない
 
 ### 時間・計画
 
 - [勉強の計画が毎回倒れるのはなぜか。計画錯誤の研究でわかったこと](https://dokugaku.seadice.win/planning-fallacy-study-plans/): 人は作業時間を短く見積もりがち。過去の実績を基準にし、作業を細かく書き出すと計画は現実に近づく
 
+### やる気・心
+
+- [大人の学び直しは若い頃より不利なのか。年齢と学習の研究でわかったこと](https://dokugaku.seadice.win/adult-relearning-age-and-learning/): 年齢で下がるのは処理の速さなど一部。語彙は60代まで伸び、高齢でも新技能の習得で記憶が伸びた研究を紹介
+- [「頭がいいね」より「工夫したね」とほめるべきか。マインドセット研究とその再現](https://dokugaku.seadice.win/growth-mindset-praise-effort/): 努力をほめる・成長マインドセットの効果は平均ではごく小さい。再現研究と、効果が出やすい生徒、独学での使い方
+- [ご褒美で勉強を続けるのは逆効果か。やる気と報酬の研究（アンダーマイニング効果）](https://dokugaku.seadice.win/rewards-undermining-study-motivation/): 約束した物のご褒美は好きな勉強の興味を下げやすいが、ほめ言葉や手ごたえは高める。反論の分析と使い分け方
+- [テストで頭が真っ白になるのはなぜか。試験不安と「不安を書き出す」研究](https://dokugaku.seadice.win/test-anxiety-expressive-writing/): 頭が真っ白になるのは不安が注意を奪うため。試験前に不安を書き出す方法は追試で再現されなかった
+
 ### AIと独学
 
 - [AIに答えを聞くと勉強は身につかないのか。研究でわかった「使い方の分かれ目」](https://dokugaku.seadice.win/ai-answers-and-learning/): 答えを写すAIは自力の成績を下げ、ヒント型なら下がらなかった。高校生約1000人の実験などから使い方を解説
+- [AIに説明させるより、自分で説明した方が覚えられるのか。自己説明と生成効果の研究](https://dokugaku.seadice.win/self-explanation-vs-ai-explanation/): 上手な説明を読むより自分で説明した方が学びは大きい。AIは説明役より確認役にすると効果的
 
 ## 主要ページ
 
@@ -63,4 +74,7 @@
 - このメディアについて: https://dokugaku.seadice.win/about/
 - 出典と検証の方法: https://dokugaku.seadice.win/sources/
 - 免責事項: https://dokugaku.seadice.win/disclaimer/
+- 勉強法の早見表: https://dokugaku.seadice.win/hayami/
+- 悩み別ガイド: https://dokugaku.seadice.win/guide/
+- 用語集: https://dokugaku.seadice.win/glossary/
 - サイトマップ: https://dokugaku.seadice.win/sitemap.xml
