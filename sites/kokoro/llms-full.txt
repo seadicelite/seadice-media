@@ -1737,7 +1737,7 @@ A. 寝る前のAIとの会話に絞った研究は、まだほとんどありま
 
 ---
 
-# 本が読めなくなった、長い文章に集中できない。米国では毎日読書する人が20年で28%から16%に減っていた
+# 本が読めなくなった、長い文章に集中できない。米国では読書する人が20年で28%から16%に減っていた
 
 URL: https://mentalai.seadice.win/cant-read-books-anymore/
 カテゴリ: 考える力・集中
@@ -1781,7 +1781,7 @@ Boneら（2025年）[1]
 
 Shen（2025年）[2]
 
-読書中にテレビ、音楽、メッセージのやりとり、途中の割り込み、まわりの雑音などの邪魔が入る実験を集めたメタ分析です。32研究・124の実験をまとめると、邪魔があった人は、なかった人より文章の理解の点数がはっきり低くなっていました（効果の大きさは中程度から大きめ）。
+読書中にテレビ、音楽、メッセージのやりとり、途中の割り込み、まわりの雑音などの邪魔が入る実験を集めたメタ分析です。32研究・124の実験をまとめると、邪魔があった人は、なかった人より文章の理解の点数がはっきり低くなっていました（効果の大きさは中程度）。
 
 対象: 2000〜2025年に発表された32研究（小学生から大人まで。124実験中106は大学生） ／ 限界: 研究ごとの結果のばらつきが大きく、邪魔の種類はテレビが最も多い（124実験中59）など偏りがあります。
 
@@ -2404,7 +2404,7 @@ A. 研究で決まった目安はありません。大人の実験では1.25倍�
 
 - Merhavy ZI, Bassett L, Melchiorre M, Hall MPM (2023). The impact of lecture playback speeds on concentration and memory. BMC Medical Education, 23, 515. https://doi.org/10.1186/s12909-023-04491-y
 
-- He Y, Yu J (2025). Exploring the use of double-speed video playback in a fast-paced society through structural equation modeling. Scientific Reports, 15. https://doi.org/10.1038/s41598-025-09525-7
+- He Y, Yu J (2025). Exploring the use of double-speed video playback in a fast-paced society through structural equation modeling. Scientific Reports, 15, 24481. https://doi.org/10.1038/s41598-025-09525-7
 
 ---
 
@@ -5350,13 +5350,13 @@ A. 会議の数や長さ、間の休憩を見直すことが、研究の整理�
 
 ## 出典
 
-- Riedl R, Kostoglou K, Wriessnegger SC, Müller-Putz GR (2023). Videoconference fatigue from a neurophysiological perspective: experimental evidence based on electroencephalography (EEG) and electrocardiography (ECG). Scientific Reports. https://doi.org/10.1038/s41598-023-45374-y
+- Riedl R, Kostoglou K, Wriessnegger SC, Müller-Putz GR (2023). Videoconference fatigue from a neurophysiological perspective: experimental evidence based on electroencephalography (EEG) and electrocardiography (ECG). Scientific Reports, 13, 18371. https://doi.org/10.1038/s41598-023-45374-y
 
-- Ratan R, Miller DB, Bailenson JN (2022). Facial Appearance Dissatisfaction Explains Differences in Zoom Fatigue. Cyberpsychology, Behavior, and Social Networking. https://doi.org/10.1089/cyber.2021.0112
+- Ratan R, Miller DB, Bailenson JN (2022). Facial Appearance Dissatisfaction Explains Differences in Zoom Fatigue. Cyberpsychology, Behavior, and Social Networking, 25(2), 124-129. https://doi.org/10.1089/cyber.2021.0112
 
-- Basch JM, Albus P, Seufert T (2025). Fighting Zoom fatigue: Evidence-based approaches in university online education. Scientific Reports. https://doi.org/10.1038/s41598-025-90973-6
+- Basch JM, Albus P, Seufert T (2025). Fighting Zoom fatigue: Evidence-based approaches in university online education. Scientific Reports, 15, 7091. https://doi.org/10.1038/s41598-025-90973-6
 
-- Döring N, De Moor K, Fiedler M, Schoenenberg K, Raake A (2022). Videoconference Fatigue: A Conceptual Analysis. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph19042061
+- Döring N, De Moor K, Fiedler M, Schoenenberg K, Raake A (2022). Videoconference Fatigue: A Conceptual Analysis. International Journal of Environmental Research and Public Health, 19(4), 2061. https://doi.org/10.3390/ijerph19042061
 
 ---
 

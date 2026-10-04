@@ -157,7 +157,7 @@ URL: https://tetsugaku.seadice.win/augustine-what-is-time/
 カテゴリ: 古代・中世哲学
 公開日: 2026-10-02
 
-「時間とは何か。誰も私に問わなければ、私は知っている。しかし問う人に説明しようとすると、私は知らない」。1600年以上前に書かれたこの言葉に、思わずうなずく人は多いのではないでしょうか。毎日使っているのに説明できない「時間」に、正面から挑んだのがアウグスティヌスでした。
+「時間とは何か。誰も私に問わなければ、私は知っている。しかし問う人に説明しようとすると、私は知らない」（『告白』第11巻第14章。E. B. Puseyの英訳から訳出）。1600年以上前に書かれたこの言葉に、思わずうなずく人は多いのではないでしょうか。毎日使っているのに説明できない「時間」に、正面から挑んだのがアウグスティヌスでした。
 
 ## 3行でわかる
 
@@ -999,7 +999,7 @@ A. 前の考えを否定しつつ、新しい考えの中に保存すること�
 
 - Maybee, J. E. "Hegel's Dialectics." Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/hegel-dialectics/
 
-- "Georg Wilhelm Friedrich Hegel." Internet Encyclopedia of Philosophy. https://iep.utm.edu/hegel/
+- Duquette, D. A. "Hegel: Social and Political Thought." Internet Encyclopedia of Philosophy. https://iep.utm.edu/hegelsoc/
 
 - Redding, P. "Georg Wilhelm Friedrich Hegel." Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/hegel/
 
@@ -1601,7 +1601,7 @@ URL: https://tetsugaku.seadice.win/kuhn-paradigm-shift/
 
 よくある誤解: パラダイムシフトは、単なる「新しいアイデアの登場」ではない。問いの立て方や、何を正しい答えとみなすかという基準そのものが入れ替わることを指す。
 
-クーンはこの変化を、同じ図が見方によってアヒルにもウサギにも見える「ゲシュタルトの切り替え」にたとえました[1]。一方で、「パラダイム」という言葉の意味があいまいだという批判もあり、マスターマンは、クーンがこの言葉を非常に多様な意味で使っていると指摘しました[1]。
+クーンはこの変化を、同じ図が見方によってアヒルにもウサギにも見える「ゲシュタルトの切り替え」にたとえました[1]。一方で、「パラダイム」という言葉の意味があいまいだという批判もあり、マスターマンは、クーンがこの言葉を『科学革命の構造』の中で21通りもの意味で使っていると指摘しました[2]。
 
 ## 04 今の生活・現代社会での意味
 

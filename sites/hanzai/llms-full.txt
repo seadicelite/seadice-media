@@ -624,7 +624,7 @@ Polaninら（2012）[2]
 
 Gaffneyら（2019）[3]
 
-2009年から2016年に発表された、いじめ防止の取り組みの評価100件をまとめたメタ分析。取り組みによって、いじめる行動は約19〜20%、いじめられる被害は約15〜16%減っていた。ただし効果は研究ごとに大きくばらついていた。
+以前のメタ分析の対象に、2009〜2016年に発表された研究を加えた、いじめ防止の取り組みの評価100件をまとめたメタ分析。取り組みによって、いじめる行動は約19〜20%、いじめられる被害は約15〜16%減っていた。ただし効果は研究ごとに大きくばらついていた。
 
 対象: 学校での取り組みの評価100件 ／ 限界: 取り組みの中身や国によって効果に差がある。
 
@@ -664,7 +664,7 @@ A. 評価100件をまとめたメタ分析では、いじめる行動が約19〜
 
 ## SOURCES
 
-- Lynn Hawkins, D., Pepler, D. J., & Craig, W. M. (2001). Naturalistic Observations of Peer Interventions in Bullying. Social Development, 10(4), 512-527. https://doi.org/10.1111/1467-9507.00178
+- Hawkins, D. L., Pepler, D. J., & Craig, W. M. (2001). Naturalistic Observations of Peer Interventions in Bullying. Social Development, 10(4), 512-527. https://doi.org/10.1111/1467-9507.00178
 
 - Polanin, J. R., Espelage, D. L., & Pigott, T. D. (2012). A Meta-Analysis of School-Based Bullying Prevention Programs' Effects on Bystander Intervention Behavior. School Psychology Review, 41(1), 47-65. https://doi.org/10.1080/02796015.2012.12087375
 
@@ -2399,7 +2399,7 @@ URL: https://hanzai.seadice.win/hungry-judge-effect/
 
 - イスラエルの仮釈放審理1,112件では、許可の割合が休憩直後の約65%から、次の休憩前にはほぼ0%まで下がり、休憩後に約65%へ戻った。
 
-- 別の研究者が追加の12日分（227件）を調べると、弁護人のいない受刑者は審理の後半に回されやすく、許可は15%（弁護人ありは35%）にとどまっていた。
+- 別の研究者は、弁護人のいない受刑者はたいてい各回の最後に回されると指摘し、追加の12日分（227件）では許可が15%（弁護人ありは35%）にとどまっていた。元の著者は、弁護人の有無を加えて分析し直しても結果は変わらないと反論している。
 
 - 2016年のシミュレーション研究は、許可の審理ほど時間がかかるという事情だけで、同じくらいの大きさの「効果」が生まれうると示した。
 
@@ -2429,7 +2429,7 @@ Danzigerら（2011）[1]
 
 Weinshall-MargelとShapard（2011）[2]
 
-元のデータと追加の12日分（227件）を調べ、関係者にも聞き取りをした。委員会は同じ刑務所の案件を休憩前に終える方針で、弁護人のいない受刑者はたいてい最後に回されていた。弁護人がいない受刑者の許可は15%、いる受刑者は35%だった。著者らは、下がっていく流れは審理の順番で説明できると指摘した。
+元のデータと追加の12日分（227件）を調べ、関係者にも聞き取りをした。委員会は同じ刑務所の案件を休憩前に終える方針で、弁護人のいない受刑者はたいてい最後に回されていた。弁護人がいない受刑者の許可は15%、いる受刑者は35%だった。著者らは、下がっていく流れは審理の順番で説明できると指摘した。これに対し元の著者らは同じ号で、弁護人の有無を加えて分析し直しても順番と休憩の影響は残ると反論している[4]。
 
 対象: イスラエルの仮釈放審理 ／ 限界: 追加データには審理の順番の情報がない。
 
@@ -2468,7 +2468,7 @@ Q. 「空腹の裁判官」の研究とは何ですか
 A. 2011年にイスラエルの仮釈放審理1,112件を調べた研究です。許可の割合が休憩直後の約65%から、次の休憩前にはほぼ0%まで下がり、休憩後に戻ることを示しました。
 
 Q. その結果に反論はありますか
-A. あります。弁護人のいない受刑者が後半に回されやすいなど、審理の順番が偶然ではないという指摘や、許可の審理は時間がかかるという事情だけで同じ形が生まれうるというシミュレーション研究があります。
+A. あります。弁護人のいない受刑者が後半に回されやすいなど、審理の順番が偶然ではないという指摘や、許可の審理は時間がかかるという事情だけで同じ形が生まれうるというシミュレーション研究があります。元の著者は、弁護人の有無を加えても結果は変わらないと再反論しています。
 
 Q. 結局、裁判官は空腹で判断を変えるのですか
 A. わかっていません。休憩前後で許可率が変わるデータはありますが、空腹や疲れが原因だとは確かめられていません。
@@ -2480,6 +2480,8 @@ A. わかっていません。休憩前後で許可率が変わるデータは�
 - Weinshall-Margel, K., & Shapard, J. (2011). Overlooked factors in the analysis of parole decisions. Proceedings of the National Academy of Sciences, 108(42), E833. https://doi.org/10.1073/pnas.1110910108
 
 - Glöckner, A. (2016). The irrational hungry judge effect revisited: Simulations reveal that the magnitude of the effect is overestimated. Judgment and Decision Making, 11(6), 601-610. https://doi.org/10.1017/s1930297500004812
+
+- Danziger, S., Levav, J., & Avnaim-Pesso, L. (2011). Reply to Weinshall-Margel and Shapard: Extraneous factors in judicial decisions persist. Proceedings of the National Academy of Sciences, 108(42), E834. https://doi.org/10.1073/pnas.1112190108
 
 ---
 
@@ -3481,7 +3483,7 @@ Hoetgerら（2022）[1]
 
 1999年に行われた事件報道のメタ分析を更新した。45の報告・参加者1万1,240人の77の結果をまとめると、被告に不利な報道は一人ひとりの有罪判断を増やし（r=.16）、グループの判断ではさらに大きかった（r=.35）。有利な報道は有罪判断を減らした（r=-.21）。1本の記事に複数の事実が書かれているときや、報道から判断まで1週間未満のときに影響が強かった。
 
-対象: 模擬陪審の実験 ／ 限界: 多くは模擬裁判で、実際の裁判とは状況が異なる。
+対象: 模擬陪審の実験 ／ 限界: 多くは模擬裁判で、実際の裁判とは状況が異なる。影響は出版された研究や学生の参加者で強めに出ていた。
 
 Daftary-Kapurら（2014）[2]
 
@@ -3743,7 +3745,7 @@ URL: https://hanzai.seadice.win/psychopathy-treatment-myth/
 
 - 42の治療研究を見直したレビューは、「サイコパスは治療できない」という考えに科学的な根拠はほとんどないと結論づけた。
 
-- 大規模なレビューでは、サイコパス傾向の測定値は治療の効き方を左右しておらず、サイコパス傾向の高い人は「望みのない人」ではなく、手厚い支援が必要な人だとされた。
+- 大規模なレビューでは、「変わらない」と示す根拠は乏しく、サイコパス傾向の高い若者や大人でも、手厚い治療の後に暴力や犯罪が減ったという研究があるとされた。
 
 - 子どもの冷淡で情が薄い特性（CU特性）を扱った16の研究では、治療の結果は悪くなりやすい一方、親への支援で特性が長く改善した例があった。
 
@@ -3771,7 +3773,7 @@ Salekin（2002）[1]
 
 Skeemら（2011）[2]
 
-サイコパス研究を幅広く整理したレビュー。サイコパス傾向の測定値は、治療が暴力や犯罪を減らす効果を左右していなかった。サイコパス傾向の高い人は特別に望みのない人ではなく、手厚い治療が必要な高リスクの人だと述べている。暴力の予測でも、特別な力はないとした。
+サイコパス研究を幅広く整理したレビュー。サイコパスは変わらないという主張を支える科学的な根拠は乏しく、サイコパス傾向の高い若者や大人でも、手厚い治療の後に暴力や犯罪が減ったという研究があると述べている。また、サイコパスは一つのまとまった型ではなく、いくつもの特性の組み合わせだとした。
 
 対象: これまでの研究の総説 ／ 限界: 治療効果を調べた研究は、まだ増えている途中である。
 
@@ -3789,7 +3791,7 @@ MYTH / 思い込みサイコパスは治療しても変わらない。
 FACT / 研究では42の研究を見直したレビューでは、治療できないと言い切る科学的な根拠はほとんどありませんでした。
 
 MYTH / 思い込み治療するとサイコパスはかえって悪くなる。
-FACT / 研究ではサイコパス傾向の測定値は、治療が暴力や犯罪を減らす効果を左右していないとする研究が増えています。
+FACT / 研究ではサイコパス傾向の高い若者や大人でも、手厚い治療の後に暴力や犯罪が減ったという研究があります。ただし治療効果を調べた研究はまだ多くありません。
 
 MYTH / 思い込み冷たい性格の子どもは、そのまま大人になる。
 FACT / 研究では親への支援によって、子どもの冷淡な特性が長く改善した例があります。特に幼いうちほど効果がみられました。
@@ -3817,9 +3819,9 @@ A. 16の研究を整理したレビューでは、親に関わり方を学んで
 
 ## SOURCES
 
-- Salekin, R. T. (2002). Psychopathy and therapeutic pessimism. Clinical Psychology Review, 22(1), 79-112. https://doi.org/10.1016/S0272-7358(01)00083-6
+- Salekin, R. T. (2002). Psychopathy and therapeutic pessimism: Clinical lore or clinical reality? Clinical Psychology Review, 22(1), 79-112. https://doi.org/10.1016/S0272-7358(01)00083-6
 
-- Skeem, J. L., Polaschek, D. L. L., Patrick, C. J., & Lilienfeld, S. O. (2011). Psychopathic Personality. Psychological Science in the Public Interest, 12(3), 95-162. https://doi.org/10.1177/1529100611426706
+- Skeem, J. L., Polaschek, D. L. L., Patrick, C. J., & Lilienfeld, S. O. (2011). Psychopathic Personality: Bridging the Gap Between Scientific Evidence and Public Policy. Psychological Science in the Public Interest, 12(3), 95-162. https://doi.org/10.1177/1529100611426706
 
 - Hawes, D. J., Price, M. J., & Dadds, M. R. (2014). Callous-Unemotional Traits and the Treatment of Conduct Problems in Childhood and Adolescence: A Comprehensive Review. Clinical Child and Family Psychology Review, 17(3), 248-267. https://doi.org/10.1007/s10567-014-0167-1
 

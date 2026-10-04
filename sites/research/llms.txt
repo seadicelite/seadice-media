@@ -19,47 +19,6 @@ SEADICE RESEARCHはSEADICE(https://seadice.win/)が運営する、無料・広�
 
 ## 記事一覧
 
-### 習慣
-
-- [1日何歩歩けばいいのか。「1万歩」の根拠を研究で調べた](https://research.seadice.win/daily-steps-how-many-research/): 「1万歩」の根拠は弱く、60歳以上は6,000〜8,000歩、60歳未満は8,000〜1万歩で効果が頭打ちに。7,000歩でも十分な効果があった。
-- [目標を人に話すと叶いやすいのか。4つの研究でわかった「話し方」次第で結果が変わる理由](https://research.seadice.win/goal-sharing-achievement-research/): 目標を人に話すと達成しやすくなるのか。4つの研究から、告げ方や相手によって効果が正反対になることを確認した。
-- [「2分ルール」は本当に効くのか。習慣が身につくまでの日数を研究で調べた](https://research.seadice.win/habit-formation-two-minute-rule/): 習慣が身につくまで平均66日、シンプルな行動ほど早く定着すると研究でわかった。今日からの一歩も紹介。
-- [習慣を記録するだけで続けやすくなるのか。研究でわかった「書くだけ」の効果](https://research.seadice.win/habit-tracking-boosts-continuation/): 138件のメタ分析などから、記録するだけで目標達成率が上がる効果と、効果を強める記録の仕方を確認した。
-- [「もし〇〇したら△△する」と決めると習慣は続くのか。if-thenプランの研究](https://research.seadice.win/if-then-planning-habit-research/): 「いつ・どこで・何をするか」をif-thenで決めると、94件・8,461人分の分析で目標達成を後押しする中〜大の効果があった。
-
-### 集中力
-
-- [香りで集中力は上がるのか。ローズマリーとペパーミントの研究でわかったこと](https://research.seadice.win/aroma-rosemary-focus-research/): ローズマリーやペパーミントで記憶の成績が上がった実験がある一方、ラベンダーは成績を下げた。効果は香りごとにまちまちだった。
-- [音楽を聴きながら勉強していいのか。歌詞の有無で結果が変わることが研究でわかった](https://research.seadice.win/background-music-studying-focus/): 歌詞のある音楽は読解・記憶の成績を下げやすいが、歌詞なしや聴き慣れた曲では悪影響がはっきりしないことを実験から確認。
-- [ガムを噛むと集中できるのか。「噛むタイミング」で変わった研究](https://research.seadice.win/chewing-gum-focus-research/): 作業前に5分噛むと最初の15〜20分は成績が上がったが、作業中ずっと噛むと効果はなかった。眠気覚ましには役立つ可能性がある。
-- [机を片付けると集中できるのか。散らかった部屋と脳の研究](https://research.seadice.win/desk-clutter-focus-research/): 視界の物は脳の中で注意を奪い合う。整った部屋は落ち着いた選択を、散らかった部屋は創造性を後押ししていた。
-- [集中が続かないのは意志の弱さじゃない。休憩の取り方を研究で調べた](https://research.seadice.win/focus-microbreaks-pomodoro/): 10分ごと90秒の小休憩や2秒の気晴らしが集中の落ち込みを防いだ研究を紹介。休憩の取り方を解説。
-- [緑の植物を置くと集中力は上がるのか。4つの研究でわかったこと](https://research.seadice.win/indoor-plants-focus-concentration-research/): 42件の分析では注意力への効果は不明瞭だが学業成績には有意な効果。ストレスを下げる効果は複数の実験で確認された。
-- [「ながら作業」は集中力を本当に下げるのか。研究でわかった切り替えのコスト](https://research.seadice.win/multitasking-focus-cost-research/): 考えることを2つ同時にすると成績は落ちる。一方、聞き流すだけの「ながら」は影響が小さく、ながら癖と集中力の関係ははっきりしない。
-- [スマホの通知をオフにすると集中力は戻るのか。3つの研究でわかったこと](https://research.seadice.win/phone-notifications-off-focus/): 通知は触らなくても集中を削り、脳の反応も変化する。ただし通知オフ単独の効果を検証した大規模研究はまだ少ないことを確認した。
-- [「スマホが視界にあるだけで集中力が落ちる」は本当か。22件の研究のメタ分析で調べた](https://research.seadice.win/phone-presence-attention-brain-drain/): 22件の研究のメタ分析では記憶課題に小さな悪影響。ただし追試では再現せず、効果の大きさには議論が残る。
-- [短い瞑想で集中力は戻るのか。研究でわかった「数分」の効果](https://research.seadice.win/short-meditation-focus-recovery/): 5日間20分の瞑想訓練や10分のガイド瞑想で注意力が上がった研究から、短時間の瞑想の効果を確認した。
-- [朝食を抜くと集中力は落ちるのか。大人と子どもで違った研究](https://research.seadice.win/skipping-breakfast-focus-research/): 大人では朝食で記憶に小さな効果があり、注意への効果ははっきりしない。子どもでは注意・記憶ともに上がりやすかった。
-- [疲れたときの甘いもので、集中力は戻るのか。「シュガーラッシュ」の研究](https://research.seadice.win/sugar-focus-willpower-research/): 糖分で気分は良くならず、食べて1時間以内はかえって疲れを感じやすかった。「意志力はブドウ糖で回復する」説も裏付けが弱かった。
-- [アイデアが出ないときは歩く。散歩とひらめきの関係を研究で調べた](https://research.seadice.win/walking-boosts-creativity/): 歩行中は約8割の人で発想力が向上。1000人超のメタ分析でも確認された散歩とひらめきの関係を解説。
-- [ホワイトノイズで集中できるのか。「人によって逆になる」研究](https://research.seadice.win/white-noise-focus-research/): ホワイトノイズは気が散りやすい人には小さな効果があったが、そうでない人には逆効果だった。合うかどうかは人によって違う。
-
-### 睡眠
-
-- [寝酒は眠りを良くするのか。「寝つきは早いが、後半が乱れる」研究](https://research.seadice.win/alcohol-before-bed-sleep/): お酒で寝つきは早くなるが、夜の後半は眠りが乱れ、少量でも睡眠中の体の回復が妨げられていた。寝酒は眠りの助けにならない。
-- [寝る前の入浴は寝つきを良くするのか。研究でわかった効果的なタイミング](https://research.seadice.win/bathing-before-bed-sleep-onset/): 就寝1〜2時間前に10分以上の入浴で入眠が20〜30%早まったとする研究が複数。高齢者の足浴実験では一晩全体の改善は見られなかった。
-- [寝る前の読書は寝つきを良くするのか。紙の本と画面で違った研究](https://research.seadice.win/bedtime-reading-paper-book-sleep/): 寝る前に画面で読むと紙の本より寝つきが約10分遅れた。読書そのものより「何で読むか」が眠りを左右していた。
-- [夜スマホをやめられないのは意志の弱さ？研究でわかった原因と3つの一歩](https://research.seadice.win/bedtime-smartphone-sleep/): 日中の疲れと寝る前の画面の光が、眠りを遅らせる。5本の研究から、今夜できる工夫を整理。
-- [寝る前に「明日やること」を書くと眠れる。研究でわかった理由](https://research.seadice.win/bedtime-todo-list-sleep/): 就寝前にやることリストを書いたグループが早く眠りについた実験を紹介。今夜からできる書き方も解説。
-- [カフェインは何時間前までOK？研究でわかった「量」と「時間」の関係](https://research.seadice.win/caffeine-hours-before-bed/): コーヒー1杯なら4時間前でも平気、でも400mgは12時間前でも睡眠に影響。量と時間の関係を解説。
-- [昼間に日光を浴びると夜よく眠れるのか。体内時計を変える「光」の研究](https://research.seadice.win/daytime-light-exposure-night-sleep-research/): 日中の光が多く安定している人ほど、寝つきが早く深い睡眠が増える。89人の追跡調査や自然光キャンプの実験からわかったこと。
-- [夜に運動すると眠れなくなるのか。寝る何時間前までならいいかを研究で調べた](https://research.seadice.win/evening-exercise-sleep-research/): 夜の運動は全体として眠りを悪くしなかった。ただ寝る直前の激しい運動は寝つきを遅らせることがあり、4時間前までに終えると影響は見られなかった。
-- [朝どうしても起きられない人へ。体内時計を約2時間動かした実験でわかったこと](https://research.seadice.win/morning-light-wake-up/): 起床時間・朝の光・食事や運動のタイミングを整えると、体内時計が平均約2時間前進した実験を紹介。
-- [昼寝は何分がいい？研究でわかった「10分」の意外な強さ](https://research.seadice.win/nap-best-length/): 5分では足りず、30分だとぼんやりする。24人の実験で最も効いた長さを解説。
-- [毎日同じ時刻に寝起きすると、眠りは良くなるのか。「睡眠の規則性」の研究](https://research.seadice.win/sleep-regularity-same-time-research/): 寝起きの時刻がそろっていることは、睡眠時間と同じくらい、気分や健康と関わっていた。まずは起きる時刻をそろえるのが一歩目。
-- [スヌーズで二度寝するのは体に悪いのか。研究でわかった意外な結果](https://research.seadice.win/snooze-alarm-research/): 30分のスヌーズで失う睡眠は約6分で、頭の働きも下がらなかった研究がある一方、寝ぼけが長引いたという研究もあり、結論は分かれている。
-- [週末の寝だめで平日の睡眠不足は帳消しにできる？4つの研究でわかったこと](https://research.seadice.win/weekend-catchup-sleep-debt/): 軽い寝だめは体調の良さと関連する一方、睡眠不足が大きいと帳消しにはできないことが4つの研究からわかった。
-
 ### 気分・ストレス
 
 - [怒りを紙に書いて捨てると、気持ちは収まるのか。研究でわかった「捨てる」効果](https://research.seadice.win/anger-write-and-discard-paper/): 怒りを書いた紙を捨てると、怒りは侮辱される前の水準まで下がった。叩く・走るなど興奮を高める発散には効果がなかった。
@@ -83,6 +42,47 @@ SEADICE RESEARCHはSEADICE(https://seadice.win/)が運営する、無料・広�
 - [完璧主義は先延ばしを悪化させるのか。研究でわかった「危ない完璧主義」の正体](https://research.seadice.win/perfectionism-procrastination-research/): 評価を気にする完璧主義だけが先延ばしと関連し、自分の基準を追う完璧主義は関連しなかったことを複数の研究から確認した。
 - [先延ばしは「意志が弱い」からじゃない。感情の研究でわかったこと](https://research.seadice.win/procrastination-emotion-regulation/): 先延ばしは意志力ではなく感情調整の失敗という研究を紹介。638人の分析などから、今日からできる一歩も解説。
 - [先延ばしぐせは生まれつきなのか。双子研究と改善の研究でわかったこと](https://research.seadice.win/procrastination-genetics-change-research/): 先延ばしのしやすさの約46%は遺伝の影響だったが、8週間の認知行動療法で大きく改善した研究もある。生まれつきでも変えられる。
+
+### 睡眠
+
+- [寝酒は眠りを良くするのか。「寝つきは早いが、後半が乱れる」研究](https://research.seadice.win/alcohol-before-bed-sleep/): お酒で寝つきは早くなるが、夜の後半は眠りが乱れ、少量でも睡眠中の体の回復が妨げられていた。寝酒は眠りの助けにならない。
+- [寝る前の入浴は寝つきを良くするのか。研究でわかった効果的なタイミング](https://research.seadice.win/bathing-before-bed-sleep-onset/): 就寝1〜2時間前に10分以上の入浴で入眠が20〜30%早まったとする研究が複数。高齢者の足浴実験では一晩全体の改善は見られなかった。
+- [寝る前の読書は寝つきを良くするのか。紙の本と画面で違った研究](https://research.seadice.win/bedtime-reading-paper-book-sleep/): 寝る前に画面で読むと紙の本より寝つきが約10分遅れた。読書そのものより「何で読むか」が眠りを左右していた。
+- [夜スマホをやめられないのは意志の弱さ？研究でわかった原因と3つの一歩](https://research.seadice.win/bedtime-smartphone-sleep/): 日中の疲れと寝る前の画面の光が、眠りを遅らせる。5本の研究から、今夜できる工夫を整理。
+- [寝る前に「明日やること」を書くと眠れる。研究でわかった理由](https://research.seadice.win/bedtime-todo-list-sleep/): 就寝前にやることリストを書いたグループが早く眠りについた実験を紹介。今夜からできる書き方も解説。
+- [カフェインは何時間前までOK？研究でわかった「量」と「時間」の関係](https://research.seadice.win/caffeine-hours-before-bed/): コーヒー1杯なら4時間前でも平気、でも400mgは12時間前でも睡眠に影響。量と時間の関係を解説。
+- [昼間に日光を浴びると夜よく眠れるのか。体内時計を変える「光」の研究](https://research.seadice.win/daytime-light-exposure-night-sleep-research/): 日中の光が多く安定している人ほど、寝つきが早く深い睡眠が増える。89人の追跡調査や自然光キャンプの実験からわかったこと。
+- [夜に運動すると眠れなくなるのか。寝る何時間前までならいいかを研究で調べた](https://research.seadice.win/evening-exercise-sleep-research/): 夜の運動は全体として眠りを悪くしなかった。ただ寝る直前の激しい運動は寝つきを遅らせることがあり、4時間前までに終えると影響は見られなかった。
+- [朝どうしても起きられない人へ。体内時計を約2時間動かした実験でわかったこと](https://research.seadice.win/morning-light-wake-up/): 起床時間・朝の光・食事や運動のタイミングを整えると、体内時計が平均約2時間前進した実験を紹介。
+- [昼寝は何分がいい？研究でわかった「10分」の意外な強さ](https://research.seadice.win/nap-best-length/): 5分では足りず、30分だとぼんやりする。24人の実験で最も効いた長さを解説。
+- [毎日同じ時刻に寝起きすると、眠りは良くなるのか。「睡眠の規則性」の研究](https://research.seadice.win/sleep-regularity-same-time-research/): 寝起きの時刻がそろっていることは、睡眠時間と同じくらい、気分や健康と関わっていた。まずは起きる時刻をそろえるのが一歩目。
+- [スヌーズで二度寝するのは体に悪いのか。研究でわかった意外な結果](https://research.seadice.win/snooze-alarm-research/): 30分のスヌーズで失う睡眠は約6分で、頭の働きも下がらなかった研究がある一方、寝ぼけが長引いたという研究もあり、結論は分かれている。
+- [週末の寝だめで平日の睡眠不足は帳消しにできる？4つの研究でわかったこと](https://research.seadice.win/weekend-catchup-sleep-debt/): 軽い寝だめは体調の良さと関連する一方、睡眠不足が大きいと帳消しにはできないことが4つの研究からわかった。
+
+### 集中力
+
+- [香りで集中力は上がるのか。ローズマリーとペパーミントの研究でわかったこと](https://research.seadice.win/aroma-rosemary-focus-research/): ローズマリーやペパーミントで記憶の成績が上がった実験がある一方、ラベンダーは成績を下げた。効果は香りごとにまちまちだった。
+- [音楽を聴きながら勉強していいのか。歌詞の有無で結果が変わることが研究でわかった](https://research.seadice.win/background-music-studying-focus/): 歌詞のある音楽は読解・記憶の成績を下げやすいが、歌詞なしや聴き慣れた曲では悪影響がはっきりしないことを実験から確認。
+- [ガムを噛むと集中できるのか。「噛むタイミング」で変わった研究](https://research.seadice.win/chewing-gum-focus-research/): 作業前に5分噛むと最初の15〜20分は成績が上がったが、作業中ずっと噛むと効果はなかった。眠気覚ましには役立つ可能性がある。
+- [机を片付けると集中できるのか。散らかった部屋と脳の研究](https://research.seadice.win/desk-clutter-focus-research/): 視界の物は脳の中で注意を奪い合う。整った部屋は落ち着いた選択を、散らかった部屋は創造性を後押ししていた。
+- [集中が続かないのは意志の弱さじゃない。休憩の取り方を研究で調べた](https://research.seadice.win/focus-microbreaks-pomodoro/): 10分ごと90秒の小休憩や2秒の気晴らしが集中の落ち込みを防いだ研究を紹介。休憩の取り方を解説。
+- [緑の植物を置くと集中力は上がるのか。4つの研究でわかったこと](https://research.seadice.win/indoor-plants-focus-concentration-research/): 42件の分析では注意力への効果は不明瞭だが学業成績には有意な効果。ストレスを下げる効果は複数の実験で確認された。
+- [「ながら作業」は集中力を本当に下げるのか。研究でわかった切り替えのコスト](https://research.seadice.win/multitasking-focus-cost-research/): 考えることを2つ同時にすると成績は落ちる。一方、聞き流すだけの「ながら」は影響が小さく、ながら癖と集中力の関係ははっきりしない。
+- [スマホの通知をオフにすると集中力は戻るのか。3つの研究でわかったこと](https://research.seadice.win/phone-notifications-off-focus/): 通知は触らなくても集中を削り、脳の反応も変化する。ただし通知オフ単独の効果を検証した大規模研究はまだ少ないことを確認した。
+- [「スマホが視界にあるだけで集中力が落ちる」は本当か。22件の研究のメタ分析で調べた](https://research.seadice.win/phone-presence-attention-brain-drain/): 22件の研究のメタ分析では記憶課題に小さな悪影響。ただし追試では再現せず、効果の大きさには議論が残る。
+- [短い瞑想で集中力は戻るのか。研究でわかった「数分」の効果](https://research.seadice.win/short-meditation-focus-recovery/): 5日間20分の瞑想訓練や10分のガイド瞑想で注意力が上がった研究から、短時間の瞑想の効果を確認した。
+- [朝食を抜くと集中力は落ちるのか。大人と子どもで違った研究](https://research.seadice.win/skipping-breakfast-focus-research/): 大人では朝食で記憶に小さな効果があり、注意への効果ははっきりしない。子どもでは注意・記憶ともに上がりやすかった。
+- [疲れたときの甘いもので、集中力は戻るのか。「シュガーラッシュ」の研究](https://research.seadice.win/sugar-focus-willpower-research/): 糖分で気分は良くならず、食べて1時間以内はかえって疲れを感じやすかった。「意志力はブドウ糖で回復する」説も裏付けが弱かった。
+- [アイデアが出ないときは歩く。散歩とひらめきの関係を研究で調べた](https://research.seadice.win/walking-boosts-creativity/): 歩行中は約8割の人で発想力が向上。1000人超のメタ分析でも確認された散歩とひらめきの関係を解説。
+- [ホワイトノイズで集中できるのか。「人によって逆になる」研究](https://research.seadice.win/white-noise-focus-research/): ホワイトノイズは気が散りやすい人には小さな効果があったが、そうでない人には逆効果だった。合うかどうかは人によって違う。
+
+### 習慣
+
+- [1日何歩歩けばいいのか。「1万歩」の根拠を研究で調べた](https://research.seadice.win/daily-steps-how-many-research/): 「1万歩」の根拠は弱く、60歳以上は6,000〜8,000歩、60歳未満は8,000〜1万歩で効果が頭打ちに。7,000歩でも十分な効果があった。
+- [目標を人に話すと叶いやすいのか。4つの研究でわかった「話し方」次第で結果が変わる理由](https://research.seadice.win/goal-sharing-achievement-research/): 目標を人に話すと達成しやすくなるのか。4つの研究から、告げ方や相手によって効果が正反対になることを確認した。
+- [「2分ルール」は本当に効くのか。習慣が身につくまでの日数を研究で調べた](https://research.seadice.win/habit-formation-two-minute-rule/): 習慣が身につくまでの日数は中央値で66日（人によって18〜254日）。シンプルな行動ほど早く定着すると研究でわかった。今日からの一歩も紹介。
+- [習慣を記録するだけで続けやすくなるのか。研究でわかった「書くだけ」の効果](https://research.seadice.win/habit-tracking-boosts-continuation/): 138件のメタ分析などから、記録するだけで目標達成率が上がる効果と、効果を強める記録の仕方を確認した。
+- [「もし〇〇したら△△する」と決めると習慣は続くのか。if-thenプランの研究](https://research.seadice.win/if-then-planning-habit-research/): 「いつ・どこで・何をするか」をif-thenで決めると、94件・8,461人分の分析で目標達成を後押しする中〜大の効果があった。
 
 ### 記憶・学習
 
