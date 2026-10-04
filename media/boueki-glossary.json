@@ -411,5 +411,47 @@
   "en": "Terminal Handling Charge",
   "field": "運送",
   "def": "THCとは、コンテナターミナル内でのコンテナの取扱料金のことです。原則として積み地と揚げ地の両方で船会社が徴収します。"
+ },
+ {
+  "id": "consolidation",
+  "term": "混載",
+  "en": "Consolidation",
+  "field": "運送",
+  "def": "混載とは、混載業者が多くの荷主の小口貨物を集め、行き先ごとに大口貨物にまとめて運送人に運んでもらうことです。航空貨物ではこの形が主流です。"
+ },
+ {
+  "id": "chargeable-weight",
+  "term": "容積重量",
+  "en": "Volume weight",
+  "field": "運送",
+  "def": "容積重量とは、航空貨物の大きさを重さに換算した値のことです。6,000cm3を1kgとして計算し、実重量と比べて大きい方に運賃をかけます。"
+ },
+ {
+  "id": "air-waybill",
+  "term": "航空運送状（AWB）",
+  "en": "Air Waybill",
+  "field": "運送",
+  "def": "航空運送状（AWB）とは、航空会社や混載業者が荷送人に発行する、貨物の受領証と運送契約の証拠となる書類のことです。有価証券ではありません。"
+ },
+ {
+  "id": "mawb-hawb",
+  "term": "MAWB・HAWB",
+  "en": "Master Air Waybill / House Air Waybill",
+  "field": "運送",
+  "def": "MAWB・HAWBとは、混載貨物で使う2種類の航空運送状のことです。MAWBは航空会社が混載業者に、HAWBは混載業者が荷送人に発行します。"
+ },
+ {
+  "id": "multimodal",
+  "term": "国際複合輸送",
+  "en": "International multimodal transport",
+  "field": "運送",
+  "def": "国際複合輸送とは、同じ運送人が海・陸・空のうち2つ以上の輸送手段を組み合わせ、貨物の引受けから引渡しまで一貫して運ぶことです。"
+ },
+ {
+  "id": "combined-transport-bl",
+  "term": "複合運送証券",
+  "en": "Combined transport document",
+  "field": "運送",
+  "def": "複合運送証券とは、複合運送人が全区間の運送を引き受けた証拠として発行する書類のことです。日本の商法では船荷証券の規定が準用されます。"
  }
 ]
