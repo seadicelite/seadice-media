@@ -72,7 +72,7 @@ def related_block(p, posts, images):
         return "<!--related--><!--/related-->"
     def item(q):
         img = images.get(q["slug"])
-        thumb = f'<img src="{_img_url(img)}" alt="" loading="lazy">' if img else ""
+        thumb = f'<img src="{_img_url(img)}" alt="" width="200" height="200" loading="lazy" decoding="async">' if img else ""
         return (f'<a href="/{q["slug"]}/"><span class="rt">{thumb}</span>'
                 f'<span class="rb"><small>{E(q["category"])}</small><p>{E(q["title"])}</p></span></a>')
     items = "".join(item(q) for q in pick)
@@ -100,6 +100,12 @@ def patch_article(cfg, p, posts, images, favicon=""):
         return False
     s = f.read_text()
     url = f'{cfg["url"]}{p["slug"]}/'
+    # --- アクセシビリティ(設定 a11yFix のメディアだけ): 本文を<main>で囲む・ナビのタップ領域を44px以上に
+    if cfg.get("a11yFix"):
+        if "<main" not in s and "\n<article>" in s:
+            s = s.replace("\n<article>", "\n<main>\n<article>", 1).replace("</article>", "</article>\n</main>", 1)
+        if 'id="tap"' not in s:
+            s = s.replace("</head>", '<style id="tap">nav a{display:inline-flex;align-items:center;min-height:44px}</style>\n</head>', 1)
     img = images.get(p["slug"])
     src = img.get("src") if img else None
     # --- favicon(既存があれば入れ替え、無ければ追加)
