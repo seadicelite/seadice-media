@@ -27,13 +27,13 @@
 
 ### なりすまし・ディープフェイク
 
-- [家族の声でお金を頼む電話が来た。AI音声のなりすましを確かめる手順](https://tantei.seadice.win/ai-voice-family-call-check/): 研究では人はAIの声を見抜けなかった。一度切って登録済みの番号にかけ直し、合言葉で確かめる。
+- [家族の声でお金を頼む電話が来た。AI音声のなりすましを確かめる手順](https://tantei.seadice.win/ai-voice-family-call-check/): 研究では人はAIの声を確実には見抜けなかった。一度切って登録済みの番号にかけ直し、合言葉で確かめる。
 - [ディープフェイク動画を人は見抜けるのか。研究でわかった見抜く力の限界と確かめ方](https://tantei.seadice.win/deepfake-video-human-detection/): 人の正答率は約55%で偶然並み。見た目ではなく発信元・元映像・AIラベルで確かめる。
 
 ### 偽サイト・偽レビュー
 
 - [有名人が勧める投資広告は本物？SNS型投資詐欺の作られ方と確かめ方](https://tantei.seadice.win/celebrity-investment-ad-scam-check/): 2025年の被害は1,288億円。著名人の偽広告の特徴と、金融庁の登録業者検索で確かめる方法。
-- [その通販サイトは本物？偽ショップを注文前に見抜く5つのチェック](https://tantei.seadice.win/fake-online-shop-check/): 偽ショップはURL・会社概要・支払い方法で多くを見抜ける。注文前の5つのチェックと被害時の対処。
+- [その通販サイトは本物？偽ショップを注文前に見抜く5つのチェック](https://tantei.seadice.win/fake-online-shop-check/): 偽ショップによくある特徴は、URL・会社概要・支払い方法で確かめられる。注文前の5つのチェックと被害時の対処。
 
 ### SNSから特定される
 
