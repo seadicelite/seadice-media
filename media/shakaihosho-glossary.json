@@ -1044,5 +1044,275 @@
     "url": "https://laws.e-gov.go.jp/law/419AC1000000112"
    }
   ]
+ },
+ {
+  "id": "hihokensha-kikan",
+  "term": "被保険者期間",
+  "en": "Insured period",
+  "field": "仕事",
+  "def": "被保険者期間とは、雇用保険に入っていた期間を離職日から1か月ごとに区切り、賃金の支払いの基礎となった日数が11日以上（日数で数えて必要な月数に届かないときは、時間数が80時間以上）ある期間を1か月として数えた期間のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "ハローワークインターネットサービス「基本手当について」",
+    "url": "https://www.hellowork.mhlw.go.jp/insurance/insurance_basicbenefit.html"
+   },
+   {
+    "text": "e-Gov法令検索「雇用保険法」第14条第1項・第3項",
+    "url": "https://laws.e-gov.go.jp/law/349AC0000000116"
+   }
+  ]
+ },
+ {
+  "id": "taiki",
+  "term": "待期",
+  "en": "Waiting period",
+  "field": "仕事",
+  "def": "待期とは、離職後最初に求職の申込みをした日以後、失業している日（病気やけがで働けない日を含む）が通算して7日に満たない間、基本手当が支給されない期間のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「雇用保険法」第21条",
+    "url": "https://laws.e-gov.go.jp/law/349AC0000000116"
+   },
+   {
+    "text": "ハローワークインターネットサービス「雇用保険の具体的な手続き」",
+    "url": "https://www.hellowork.mhlw.go.jp/insurance/insurance_procedure.html"
+   }
+  ]
+ },
+ {
+  "id": "shitsugyo-no-nintei",
+  "term": "失業の認定",
+  "en": "Certification of unemployment",
+  "field": "仕事",
+  "def": "失業の認定とは、求職の申込みを受けたハローワークが、原則として4週間に1回、直前の28日の各日について失業していたかどうかを確認し、基本手当を支給する日を決める手続きのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「雇用保険法」第15条",
+    "url": "https://laws.e-gov.go.jp/law/349AC0000000116"
+   },
+   {
+    "text": "ハローワークインターネットサービス「雇用保険の具体的な手続き」",
+    "url": "https://www.hellowork.mhlw.go.jp/insurance/insurance_procedure.html"
+   }
+  ]
+ },
+ {
+  "id": "tokutei-jukyu-shikakusha",
+  "term": "特定受給資格者",
+  "en": "Eligible person due to dismissal or bankruptcy",
+  "field": "仕事",
+  "def": "特定受給資格者とは、倒産や解雇など、再就職の準備をする時間的余裕がなく離職を余儀なくされた雇用保険の受給資格者のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "ハローワークインターネットサービス「特定受給資格者及び特定理由離職者の範囲の概要」",
+    "url": "https://www.hellowork.mhlw.go.jp/insurance/insurance_range.html"
+   },
+   {
+    "text": "厚生労働省「離職された方へ ―離職票-2の離職理由欄等の記載方法について―」",
+    "url": "https://www.mhlw.go.jp/bunya/koyou/dl/koyouhoken02.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「雇用保険法」第23条第2項",
+    "url": "https://laws.e-gov.go.jp/law/349AC0000000116"
+   }
+  ]
+ },
+ {
+  "id": "tokutei-riyu-rishokusha",
+  "term": "特定理由離職者",
+  "en": "Person who left a job for unavoidable reasons",
+  "field": "仕事",
+  "def": "特定理由離職者とは、更新を希望したのに期間の定めのある労働契約が更新されなかったことその他のやむを得ない理由により離職した人（特定受給資格者に当たる人を除く）のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "ハローワークインターネットサービス「特定受給資格者及び特定理由離職者の範囲の概要」",
+    "url": "https://www.hellowork.mhlw.go.jp/insurance/insurance_range.html"
+   },
+   {
+    "text": "厚生労働省「離職された方へ ―離職票-2の離職理由欄等の記載方法について―」",
+    "url": "https://www.mhlw.go.jp/bunya/koyou/dl/koyouhoken02.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「雇用保険法」第13条第3項",
+    "url": "https://laws.e-gov.go.jp/law/349AC0000000116"
+   }
+  ]
+ },
+ {
+  "id": "kyufu-seigen",
+  "term": "給付制限",
+  "en": "Benefit restriction period",
+  "field": "仕事",
+  "def": "給付制限とは、正当な理由がなく自己の都合で退職した場合などに、7日間の待期期間の満了後、一定の期間、雇用保険の基本手当を支給しないしくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「雇用保険法」第33条",
+    "url": "https://laws.e-gov.go.jp/law/349AC0000000116"
+   },
+   {
+    "text": "厚生労働省・都道府県労働局・ハローワーク「雇用保険の基本手当（失業給付）を受給される皆さまへ」",
+    "url": "https://www.mhlw.go.jp/content/001441564.pdf"
+   }
+  ]
+ },
+ {
+  "id": "tokutei-kyushokusha",
+  "term": "特定求職者",
+  "en": "Specified job seeker",
+  "field": "仕事",
+  "def": "特定求職者とは、ハローワークに求職の申込みをしている人のうち、雇用保険の被保険者や受給資格者でなく、労働の意思と能力があり、職業訓練などの支援が必要だとハローワークが認めた人のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「職業訓練の実施等による特定求職者の就職の支援に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/423AC0000000047"
+   },
+   {
+    "text": "厚生労働省「求職者支援制度のご案内」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyushokusha_shien/index.html"
+   }
+  ]
+ },
+ {
+  "id": "kyushokusha-shien-kunren",
+  "term": "求職者支援訓練",
+  "en": "Job seeker support training",
+  "field": "仕事",
+  "def": "求職者支援訓練とは、雇用保険を受給できない求職者などを対象に、民間訓練機関などが厚生労働大臣の認定を受けて行う、受講料が原則無料で期間2か月から6か月の職業訓練のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省・都道府県労働局・ハローワーク「求職者支援制度があります！」（リーフレット、PDF）",
+    "url": "https://www.mhlw.go.jp/content/001087198.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「職業訓練の実施等による特定求職者の就職の支援に関する法律」第4条",
+    "url": "https://laws.e-gov.go.jp/law/423AC0000000047"
+   }
+  ]
+ },
+ {
+  "id": "shokugyo-kunren-jukou-kyufukin",
+  "term": "職業訓練受講給付金",
+  "en": "Vocational training benefit",
+  "field": "仕事",
+  "def": "職業訓練受講給付金とは、特定求職者が職業訓練を受けやすくするために国が支給する給付金で、収入などの要件を満たす人に職業訓練受講手当（月10万円）、通所手当、寄宿手当を支給するもののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「求職者支援制度のご案内」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyushokusha_shien/index.html"
+   },
+   {
+    "text": "e-Gov法令検索「職業訓練の実施等による特定求職者の就職の支援に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/423AC0000000047"
+   }
+  ]
+ },
+ {
+  "id": "hiyosha-hoken",
+  "term": "被用者保険",
+  "en": "Employee health insurance",
+  "field": "医療",
+  "def": "被用者保険とは、協会けんぽ・健康保険組合・共済組合など、会社や役所などに雇われて働く人とその被扶養者が加入する医療保険のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「我が国の医療保険について」（資料）",
+    "url": "https://www.mhlw.go.jp/content/12400000/001416337.pdf"
+   }
+  ]
+ },
+ {
+  "id": "koki-koreisha-iryo",
+  "term": "後期高齢者医療制度",
+  "en": "Medical care system for the elderly aged 75 and over",
+  "field": "医療",
+  "def": "後期高齢者医療制度とは、75歳以上の人と、65〜74歳で一定の障害があると認定された人が加入し、都道府県ごとの後期高齢者医療広域連合が運営する医療保険制度のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「高齢者の医療の確保に関する法律」（50条）",
+    "url": "https://laws.e-gov.go.jp/law/357AC0000000080"
+   },
+   {
+    "text": "厚生労働省「我が国の医療保険について」（資料）",
+    "url": "https://www.mhlw.go.jp/content/12400000/001416337.pdf"
+   }
+  ]
+ },
+ {
+  "id": "ichibu-futankin",
+  "term": "一部負担金",
+  "en": "Patient co-payment",
+  "field": "医療",
+  "def": "一部負担金とは、公的医療保険で療養の給付を受ける人が、医療費のうち年齢や所得に応じた割合を、保険医療機関や保険薬局の窓口で支払うお金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「健康保険法」（74条）",
+    "url": "https://laws.e-gov.go.jp/law/211AC0000000070"
+   },
+   {
+    "text": "e-Gov法令検索「高齢者の医療の確保に関する法律」（67条）",
+    "url": "https://laws.e-gov.go.jp/law/357AC0000000080"
+   }
+  ]
+ },
+ {
+  "id": "tasukai-gaito",
+  "term": "多数回該当",
+  "en": "Multiple-case reduction (high-cost medical expense benefit)",
+  "field": "医療",
+  "def": "多数回該当とは、高額療養費制度で、直近12か月に高額療養費を受けた月が3か月以上あるとき、4か月目から自己負担の上限額がさらに下がるしくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "全国健康保険協会（協会けんぽ）「高額療養費」",
+    "url": "https://www.kyoukaikenpo.or.jp/benefit/high_cost_medical_expenses/002/"
+   },
+   {
+    "text": "厚生労働省「高額療養費制度を利用される皆さまへ」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/juuyou/kougakuiryou/index.html"
+   }
+  ]
+ },
+ {
+  "id": "kogaku-nenkan-jogen",
+  "term": "年間上限（高額療養費）",
+  "en": "Annual cap on high-cost medical expenses",
+  "field": "医療",
+  "def": "年間上限（高額療養費）とは、高額療養費制度で2026年8月から設けられた、8月から翌年7月までの1年間の自己負担の上限額のことで、所得の区分ごとに決められています。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「高額療養費制度を利用される皆さまへ」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/juuyou/kougakuiryou/index.html"
+   },
+   {
+    "text": "厚生労働省「高額療養費制度の見直しについて（令和8年8月診療分から）」",
+    "url": "https://www.mhlw.go.jp/content/001726232.pdf"
+   }
+  ]
+ },
+ {
+  "id": "hyojun-hoshu-getsugaku",
+  "term": "標準報酬月額",
+  "en": "Standard monthly remuneration",
+  "field": "医療",
+  "def": "標準報酬月額とは、税引き前の給与（基本給のほか残業手当や通勤手当などを含む）を、一定の幅で区分した報酬月額に当てはめて決めた額のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「標準報酬月額・標準賞与額とは？」",
+    "url": "https://www.nenkin.go.jp/service/kounen/hokenryo/hoshu/20150515-01.html"
+   }
+  ]
  }
 ]
