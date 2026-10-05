@@ -946,5 +946,139 @@
    }
   ],
   "date": "2026-10-05"
+ },
+ {
+  "id": "daiichigiteki-sekinin",
+  "term": "第一義的責任",
+  "en": "Primary responsibility",
+  "field": "子ども家庭福祉",
+  "def": "第一義的責任とは、子どもを心身ともに健やかに育てることについて、まず保護者が負う責任のことで、国と地方公共団体も保護者とともに育成の責任を負います（児童福祉法第2条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kenri-no-shutai",
+  "term": "権利の主体",
+  "en": "Rights holder",
+  "field": "子ども家庭福祉",
+  "def": "権利の主体とは、権利を持つ存在のことで、子どもの権利条約は子どもを、守られるだけでなく一人の人間として権利を持つ主体ととらえています。",
+  "sources": [
+   {
+    "text": "日本ユニセフ協会「子どもの権利条約の考え方」",
+    "url": "https://www.unicef.or.jp/crc/principles/"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "neglect",
+  "term": "ネグレクト",
+  "en": "Neglect",
+  "field": "子ども家庭福祉",
+  "def": "ネグレクトとは、著しい減食や長時間の放置など、保護者としての監護を著しく怠ることで、児童虐待の4つの種類の1つです（児童虐待防止法第2条第3号）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童虐待の防止等に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/412AC1000000082"
+   },
+   {
+    "text": "こども家庭庁「児童虐待防止推進特設サイト」",
+    "url": "https://kodomoshien.cfa.go.jp/no-gyakutai/"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shinriteki-gyakutai",
+  "term": "心理的虐待",
+  "en": "Psychological abuse",
+  "field": "子ども家庭福祉",
+  "def": "心理的虐待とは、子どもへの著しい暴言や著しく拒絶的な対応、子どもが同居する家庭での配偶者への暴力など、子どもに著しい心理的外傷を与える言動のことです（児童虐待防止法第2条第4号）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童虐待の防止等に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/412AC1000000082"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "mezen-dv",
+  "term": "面前DV",
+  "en": "Domestic violence witnessed by a child",
+  "field": "子ども家庭福祉",
+  "def": "面前DVとは、子どもの目の前で家族に暴力をふるうことで、心理的虐待に当たります。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童虐待の防止等に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/412AC1000000082"
+   },
+   {
+    "text": "こども家庭庁「児童虐待防止推進特設サイト」",
+    "url": "https://kodomoshien.cfa.go.jp/no-gyakutai/"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "anzen-kakunin",
+  "term": "安全確認",
+  "en": "Safety confirmation",
+  "field": "子ども家庭福祉",
+  "def": "安全確認とは、虐待の通告を受けた市町村や児童相談所が、子どもとの面会などで子どもの安全を確かめるための措置のことです（児童虐待防止法第8条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童虐待の防止等に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/412AC1000000082"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "ichiji-hogo",
+  "term": "一時保護",
+  "en": "Temporary protective custody",
+  "field": "子ども家庭福祉",
+  "def": "一時保護とは、児童相談所長が、児童虐待のおそれがあるときなどに、子どもの安全を迅速に確保し適切に保護するためなどに、子どもを一時的に保護することです（児童福祉法第33条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "ichiji-hogojo",
+  "term": "一時保護状",
+  "en": "Temporary custody warrant",
+  "field": "子ども家庭福祉",
+  "def": "一時保護状とは、一時保護を行うとき、親権を行う者などの同意がある場合などを除き、児童相談所長などが開始から7日以内に裁判官に請求する令状のことです（児童福祉法第33条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "hoiku-hitsuyoryo",
+  "term": "保育必要量",
+  "en": "Required amount of childcare",
+  "field": "子ども家庭福祉",
+  "def": "保育必要量とは、2号・3号の子どもについて、月を単位とする期間に給付の対象となる保育の量のことで、市町村が認定します（子ども・子育て支援法第20条第3項）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「子ども・子育て支援法」",
+    "url": "https://laws.e-gov.go.jp/law/424AC0000000065"
+   }
+  ],
+  "date": "2026-10-05"
  }
 ]
