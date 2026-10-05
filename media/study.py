@@ -61,6 +61,8 @@
   旧形式 goals / summary を持つレッスン。従来どおりの並びで表示し、--check では「旧形式」の警告にとどめる。
 
 学習機能（study.md 8章の優先1）: sites/{slug}/study.js（defer、外部リクエストなし）。保存は localStorage のみ・すべて try/catch。
+クイズ（問題が100問以上ある講座）: /quiz/ と quiz.js、問題データ /quiz/data.json。10問チャレンジ・サバイバル・章別・苦手をつぶす。
+  設定 quizName（例: 犯罪学クイズ）、quizRanks（成績の称号4段階）。間違えた記録は study.js と共通（同じ問題id）。
   進み具合（読み終えたボタン・確認問題を解き終えたら既読、講座ページとトップに既読と「続きから読む」）、
   確認問題の正誤と解説・間違えた問題の記録、/review/（間違えた問題だけを解き直す）、/cards/（用語の暗記カード、ライトナー方式）。
   JSが無効でも本文は読め、確認問題は <details> で答えを見られる。"""
@@ -181,6 +183,28 @@ details.srcs{margin-top:40px}details.srcs summary{font-size:15px;color:var(--mut
 footer.site{border-top:1px solid var(--line);padding:28px 16px;text-align:center;font-size:13px;color:var(--muted);line-height:2.2}footer.site a{color:var(--muted);margin:0 8px;text-decoration:none}footer.site a:hover{text-decoration:underline}footer.site .other{margin-top:10px}footer.site .other b{display:block;font-weight:700}
 .hero{padding:20px 0 4px}.hero h1{font-size:clamp(32px,8vw,48px)}.hero .tag{font-size:16px;font-weight:700;color:var(--accent);margin-bottom:6px}
 .stats{display:flex;flex-wrap:wrap;gap:8px 18px;font-size:14px;color:var(--muted);margin:-12px 0 28px}.stats b{color:var(--text);font-size:16px}
+.g-modes{display:grid;gap:12px;grid-template-columns:1fr;margin:8px 0 10px}@media(min-width:680px){.g-modes{grid-template-columns:1fr 1fr 1fr}}
+.g-mode,.g-chb{font:inherit;text-align:left;cursor:pointer;color:var(--text);background:var(--paper);border:2px solid var(--line);border-radius:16px;padding:16px 18px;transition:transform .12s,border-color .12s}
+.g-mode:hover:not(:disabled),.g-chb:hover{border-color:var(--accent);transform:translateY(-2px)}.g-mode:disabled{opacity:.6;cursor:default}
+.g-mode b{display:block;font-size:19px;color:var(--accent)}.g-mode span{display:block;font-size:14px;color:var(--sub);line-height:1.6;margin-top:4px}.g-mode em{display:block;font-style:normal;font-size:13px;font-weight:700;color:var(--ok);margin-top:6px}.g-mode em:empty{display:none}
+.g-mode[data-mode=ten]{background:var(--accent);border-color:var(--accent)}.g-mode[data-mode=ten] b,.g-mode[data-mode=ten] span,.g-mode[data-mode=ten] em{color:var(--accent-ink)}
+.g-note{font-size:13px;color:var(--muted);margin:6px 0 0}
+.g-chgrid{display:grid;gap:10px;grid-template-columns:1fr}@media(min-width:680px){.g-chgrid{grid-template-columns:1fr 1fr}}
+.g-chb small{display:block;font-size:12px;font-weight:700;color:var(--accent);letter-spacing:.08em}.g-chb b{display:block;font-size:16px;line-height:1.5}
+.g-rate{display:block;margin-top:8px}.g-rate i{display:block;height:6px;border-radius:3px;background:var(--accent);max-width:100%%}.g-rate em{display:block;font-style:normal;font-size:12px;color:var(--muted);margin-top:2px}
+.g-head{display:flex;align-items:center;gap:14px;font-weight:800;font-variant-numeric:tabular-nums}.g-prog{color:var(--muted);font-size:14px}.g-pt{margin-left:auto;font-size:18px;color:var(--accent)}
+.g-life{display:flex;gap:4px}.g-life i{width:14px;height:14px;border-radius:50%%;border:2px solid var(--ng)}.g-life i.on{background:var(--ng)}
+.g-bar{height:8px;border-radius:4px;background:var(--line);margin:8px 0 16px;overflow:hidden}.g-bar i{display:block;height:100%%;background:var(--accent);transition:width .3s}
+.g-card{background:var(--paper);border:2px solid var(--line);border-radius:20px;padding:22px 20px;position:relative}.g-src{font-size:12px;font-weight:700;color:var(--muted);letter-spacing:.06em;margin:0 0 6px}.g-q{font-size:19px;font-weight:800;line-height:1.65;margin:0 0 16px}
+.g-chs{display:grid;gap:10px}.g-ch{font:inherit;font-size:16px;text-align:left;line-height:1.6;color:var(--text);background:var(--bg);border:2px solid var(--line);border-radius:14px;padding:12px 14px;cursor:pointer;display:flex;gap:12px;align-items:flex-start}
+.g-ch b{flex:0 0 26px;height:26px;border-radius:50%%;background:var(--soft);color:var(--accent);font-size:14px;display:flex;align-items:center;justify-content:center;margin-top:1px}
+.g-ch:hover:not(:disabled){border-color:var(--accent)}.g-ch:disabled{cursor:default}.g-ch.ok{border-color:var(--ok);background:color-mix(in srgb,var(--ok) 14%%,var(--paper))}.g-ch.ng{border-color:var(--ng);background:color-mix(in srgb,var(--ng) 12%%,var(--paper));animation:g-shake .3s}
+.g-fb:empty{display:none}.g-fb{margin-top:16px}.g-ok,.g-ng{font-size:22px;font-weight:800;margin:0}.g-ok{color:var(--ok);animation:g-pop .35s}.g-ng{color:var(--ng)}.g-exp{font-size:15px;color:var(--sub);margin:8px 0}.g-read{font-size:14px;font-weight:700}.g-next{display:block;width:100%%;margin-top:16px}
+.g-pop{position:absolute;top:14px;right:16px;font-size:13px;font-weight:800;letter-spacing:.1em;color:var(--accent-ink);background:var(--accent);border-radius:999px;padding:4px 12px;animation:g-pop .4s}
+.g-res{text-align:center}.g-rank{font-size:15px;font-weight:800;color:var(--accent-ink);background:var(--accent);display:inline-block;border-radius:999px;padding:4px 16px;margin:4px 0 0;animation:g-pop .5s}.g-big{font-size:30px;font-weight:800;margin:10px 0 0}.g-sub{font-size:15px;color:var(--sub);margin:8px 0 0}
+.g-miss{list-style:none;display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:10px 0 0}.g-miss a{display:inline-block;font-size:14px;border:1px solid var(--line);border-radius:999px;padding:6px 12px;text-decoration:none}.g-res .btns{justify-content:center;margin:20px 0 0}
+@keyframes g-pop{0%%{transform:scale(.7);opacity:0}70%%{transform:scale(1.08)}100%%{transform:scale(1);opacity:1}}@keyframes g-shake{25%%{transform:translateX(-5px)}75%%{transform:translateX(5px)}}
+@media(prefers-reduced-motion:reduce){.g-ok,.g-pop,.g-rank,.g-ch.ng{animation:none}.g-mode,.g-chb{transition:none}}
 [hidden]{display:none!important}"""
 
 
@@ -291,14 +315,16 @@ def crumbs(trail):
 
 def nav_items():
     extra = [(x["href"], x["label"]) for x in CFG.get("extraNav", [])]
-    return [("/course/", "講座")] + extra + [("/glossary/", "用語辞典"), ("/cards/", "暗記カード")]
+    quiz = [("/quiz/", "クイズ")] if has_quiz() else []
+    return [("/course/", "講座")] + quiz + extra + [("/glossary/", "用語辞典"), ("/cards/", "暗記カード")]
 
 
 def footer():
     extra = "".join(f'<a href="{x["href"]}">{E(x.get("footer", x["label"]))}</a>' for x in CFG.get("extraNav", []))
     others = [s for s in SITES if s.get("live") and s["slug"] != SLUG]
     other = ('<p class="other"><b>SEADICE STUDYの他の講座</b>' + "".join(f'<a href="{E(s["url"], quote=True)}">{E(s["name"])}</a>' for s in others) + '</p>') if others else ""
-    return (f'<footer class="site"><p><a href="/course/">{E(COURSE["title"])}</a>{extra}<a href="/glossary/">{T("glossaryName")}</a><a href="/review/">間違えた問題の復習</a><a href="/cards/">暗記カード</a><br>'
+    quiz = f'<a href="/quiz/">{E(quiz_name())}</a>' if has_quiz() else ''
+    return (f'<footer class="site"><p><a href="/course/">{E(COURSE["title"])}</a>{extra}<a href="/glossary/">{T("glossaryName")}</a>{quiz}<a href="/review/">間違えた問題の復習</a><a href="/cards/">暗記カード</a><br>'
             '<a href="/about/">このサイトについて</a><a href="/sources/">出典と検証の方法</a><a href="/disclaimer/">免責事項</a><a href="mailto:hi@seadice.win">お問い合わせ</a><br>'
             f'<a href="https://seadice.win/">運営: SEADICE</a></p>{other}</footer>')
 
@@ -526,6 +552,8 @@ def check_output(out):
                 if w in strip_names(p.read_text()): errs.append(f"{f}: 他分野の文言「{w}」が残っている")
     js = out / "study.js"
     if js.exists() and js.stat().st_size > 10 * 1024: errs.append(f"study.js が {js.stat().st_size} バイト（10KB以内）")
+    js = out / "quiz.js"
+    if js.exists() and js.stat().st_size > 12 * 1024: errs.append(f"quiz.js が {js.stat().st_size} バイト（12KB以内）")
     return sorted(set(errs)), len(files)
 
 
@@ -855,6 +883,145 @@ def cards_page():
     return write("cards/", f'{fmt(CFG["glossaryName"])}の暗記カード | {NAME}', f'{fmt(CFG["glossaryName"])}の{len(TERMS)}語を、暗記カードで覚えられるページです。あやしい語ほど早く出ます。登録不要。', body, [],
                  trail=[(f'{fmt(CFG["glossaryName"])}の暗記カード', f"{URL}cards/")], noindex=True)
 
+# ---------------- クイズ（ゲーム形式。/quiz/、quiz.js、/quiz/data.json） ----------------
+QUIZ_JS = r"""(function(){'use strict';
+var G=document.getElementById('game');if(!G)return;
+var KEY='study:'+(document.documentElement.getAttribute('data-site')||'x'),S={},OK=true;
+try{S=JSON.parse(localStorage.getItem(KEY)||'{}')||{}}catch(e){OK=false;S={}}
+S.miss=S.miss||{};S.qz=S.qz||{};S.qz.best=S.qz.best||{};S.qz.ch=S.qz.ch||{};
+function save(){try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){OK=false}}
+function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
+function shuf(a){a=a.slice();for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t}return a}
+var R=JSON.parse(G.dataset.ranks),D=null,M=document.getElementById('g-menu'),P=document.getElementById('g-play');
+var st=null;/* 進行中のゲーム */
+function rank(v,th){for(var i=th.length-1;i>=0;i--)if(v>=th[i])return R[i];return R[0]}
+function menu(){P.hidden=true;M.hidden=false;
+var w=D.q.filter(function(q){return S.miss[q.i]}).length,wb=G.querySelector('[data-mode=weak]');
+wb.disabled=!w;wb.querySelector('span').textContent=w?'これまでに間違えた問題だけ（'+w+'問）。正解すると消えます':'今は間違えた問題はありません';
+G.querySelectorAll('[data-best]').forEach(function(e){var b=S.qz.best[e.dataset.best];e.textContent=b?'自己ベスト '+b:''});
+G.querySelectorAll('[data-ch]').forEach(function(b){var c=S.qz.ch[b.dataset.ch],r=b.querySelector('.g-rate');
+if(c&&c.n){var v=Math.round(c.ok/c.n*100);r.querySelector('i').style.width=v+'%';r.querySelector('em').textContent='正答率 '+v+'%（'+c.n+'問）';r.hidden=false}})}
+function start(mode,ch){var pool=D.q;
+if(mode==='ch')pool=pool.filter(function(q){return q.c===+ch});
+if(mode==='weak')pool=pool.filter(function(q){return S.miss[q.i]});
+pool=shuf(pool);if(mode!=='surv')pool=pool.slice(0,10);
+st={mode:mode,key:mode==='ch'?'ch'+ch:mode,qs:pool,k:0,ok:0,pt:0,combo:0,max:0,life:3,missed:[]};M.hidden=true;P.hidden=false;ask();window.scrollTo(0,G.offsetTop-70)}
+function head(){var h=el('div','g-head'),surv=st.mode==='surv';
+h.appendChild(el('span','g-prog',surv?(st.k+1)+'問目':(st.k+1)+' / '+st.qs.length));
+h.appendChild(el('span','g-pt',st.pt+' pt'));
+if(surv){var l=el('span','g-life');l.setAttribute('aria-label','ライフ 残り'+st.life);for(var i=0;i<3;i++)l.appendChild(el('i',i<st.life?'on':''));h.appendChild(l)}
+var b=el('div','g-bar'),f=el('i');f.style.width=(surv?Math.min(100,st.k/30*100):st.k/st.qs.length*100)+'%';b.appendChild(f);
+var w=el('div');w.appendChild(h);w.appendChild(b);return w}
+function ask(){var q=st.qs[st.k];P.innerHTML='';P.appendChild(head());
+var c=el('div','g-card');c.appendChild(el('p','g-src','第'+D.ch[q.c][0]+'章 '+D.ch[q.c][1]));c.appendChild(el('p','g-q',q.q));
+var o=shuf(q.o.map(function(t,i){return{t:t,ok:i===q.a}})),bs=el('div','g-chs');
+o.forEach(function(x,i){var b=el('button','g-ch');b.type='button';b.appendChild(el('b','',String(i+1)));b.appendChild(document.createTextNode(x.t));
+b.onclick=function(){answer(q,o,i,bs)};bs.appendChild(b)});c.appendChild(bs);
+var fb=el('div','g-fb');fb.setAttribute('aria-live','polite');c.appendChild(fb);P.appendChild(c);st.cur={q:q,o:o,bs:bs,fb:fb,done:false}}
+function answer(q,o,i,bs){if(st.cur.done)return;st.cur.done=true;var ok=o[i].ok,fb=st.cur.fb,cs=S.qz.ch[q.c]=S.qz.ch[q.c]||{n:0,ok:0};cs.n++;
+[].forEach.call(bs.children,function(b,j){b.disabled=true;if(o[j].ok)b.classList.add('ok');else if(j===i)b.classList.add('ng')});
+if(ok){st.ok++;st.combo++;st.max=Math.max(st.max,st.combo);var add=100+20*Math.min(st.combo-1,5);st.pt+=add;cs.ok++;delete S.miss[q.i];
+fb.appendChild(el('p','g-ok',st.combo>=2?st.combo+'連続正解！ +'+add:'正解！ +'+add));if(st.combo>=3){var p=el('span','g-pop',st.combo+' COMBO');fb.appendChild(p)}}
+else{st.combo=0;st.life--;S.miss[q.i]={l:q.h,t:Date.now()};st.missed.push(q);fb.appendChild(el('p','g-ng','惜しい！'+(st.mode==='surv'?' ライフ -1':'')))}
+save();fb.appendChild(el('p','g-exp',q.e));
+var a=el('a','g-read','レッスン'+q.n+'を読む');a.href=q.h;fb.appendChild(a);
+var last=st.mode==='surv'?st.life<=0||st.k+1>=st.qs.length:st.k+1>=st.qs.length,nx=el('button','btn g-next',last?'結果を見る':'次の問題へ');nx.type='button';
+nx.onclick=function(){if(last)result();else{st.k++;ask()}};fb.appendChild(nx);nx.focus({preventScroll:true});
+var h=P.querySelector('.g-pt');if(h)h.textContent=st.pt+' pt';var lf=P.querySelector('.g-life');if(lf)[].forEach.call(lf.children,function(x,j){x.className=j<st.life?'on':''})}
+function result(){var surv=st.mode==='surv',n=st.k+1,v=surv?st.ok:Math.round(st.ok/n*100),r=surv?rank(st.ok,[0,5,15,30]):rank(v,[0,60,80,100]);
+var best=S.qz.best[st.key]||0,nb=st.pt>best;if(nb)S.qz.best[st.key]=st.pt;save();
+P.innerHTML='';var c=el('div','g-card g-res');c.appendChild(el('p','g-src','結果'));
+c.appendChild(el('p','g-rank',r));c.appendChild(el('p','g-big',surv?st.ok+'問 正解':n+'問中 '+st.ok+'問 正解'));
+c.appendChild(el('p','g-sub',st.pt+' pt'+(st.max>=2?' ・ 最大 '+st.max+' 連続正解':'')+(nb?' ・ 自己ベスト更新！':' ・ 自己ベスト '+best+' pt')));
+if(st.missed.length){c.appendChild(el('p','g-sub','間違えた問題は「苦手をつぶす」と復習ページに入りました。読み直すならここから:'));var ul=el('ul','g-miss'),seen={};
+st.missed.forEach(function(q){if(seen[q.h])return;seen[q.h]=1;var li=el('li'),a=el('a','','レッスン'+q.n);a.href=q.h;li.appendChild(a);ul.appendChild(li)});c.appendChild(ul)}
+else c.appendChild(el('p','g-sub','全問正解です。この調子で、ほかのモードにも挑戦してみましょう。'));
+var bs=el('div','btns'),again=el('button','btn','もう一度'),back=el('button','btn sub','メニューへ');again.type=back.type='button';
+var md=st.mode,ch=st.key.slice(2);again.onclick=function(){start(md,ch)};back.onclick=menu;bs.appendChild(again);bs.appendChild(back);c.appendChild(bs);P.appendChild(c);again.focus({preventScroll:true})}
+document.addEventListener('keydown',function(e){if(!st||P.hidden||!st.cur||st.cur.done)return;var k=+e.key;if(k>=1&&k<=st.cur.o.length){e.preventDefault();answer(st.cur.q,st.cur.o,k-1,st.cur.bs)}});
+G.querySelectorAll('[data-mode]').forEach(function(b){b.onclick=function(){start(b.dataset.mode)}});
+G.querySelectorAll('[data-ch]').forEach(function(b){b.onclick=function(){start('ch',b.dataset.ch)}});
+fetch('/quiz/data.json').then(function(r){return r.json()}).then(function(d){D=d;G.hidden=false;document.getElementById('g-nojs').hidden=true;
+if(!OK)document.getElementById('g-note').textContent='このブラウザでは記録を保存できないため、自己ベストと正答率は残りません。';menu()}).catch(function(){})
+})();"""
+
+
+def quiz_items():
+    """クイズに出す全問題。レッスンの確認問題・復習問題・章末テスト・総まとめテスト。問題idは他のページと共通（間違えた記録を共有する）。"""
+    out, ci_of, info = [], {}, {}
+    for ci, ch in enumerate(COURSE["chapters"]):
+        for i, l in enumerate(ch["lessons"]):
+            ci_of[l["id"]] = ci
+            info[l["id"]] = (f'{ch["no"]}-{i+1}', lurl(l).replace(URL, "/"))
+    def add(qid, lid, q):
+        out.append({"i": qid, "c": ci_of[lid], "q": q["q"], "o": q["choices"], "a": q["a"], "e": q["exp"], "n": info[lid][0], "h": info[lid][1]})
+    for idx, (ch, l) in enumerate(LESSONS):
+        for k, q in enumerate(l["quiz"]):
+            add(f'{l["id"]}:{k}', l["id"], q)
+        if is_new(l) and l.get("review") and idx > 0:
+            add(f'{l["id"]}:r', LESSONS[idx - 1][1]["id"], l["review"])
+    for ch in COURSE["chapters"]:
+        for k, q in enumerate(ch.get("test", [])):
+            add(f'{ch["id"]}:t{k}', q["ref"], q)
+    for i, p in enumerate(COURSE.get("mock", {}).get("parts", [])):
+        for k, q in enumerate(p["questions"]):
+            add(f"mock:{i}:{k}", q["ref"], q)
+    return out
+
+
+def has_quiz():
+    return len(quiz_items()) >= 100
+
+
+def quiz_name():
+    return CFG.get("quizName", "クイズ")
+
+
+def quiz_page():
+    items = quiz_items()
+    n = len(items)
+    chs = [c for c in COURSE["chapters"] if c["lessons"]]
+    ci = {c["id"]: i for i, c in enumerate(COURSE["chapters"])}
+    data = {"ch": [[c["no"], c["title"]] for c in COURSE["chapters"]], "q": items}
+    (OUT / "quiz").mkdir(parents=True, exist_ok=True)
+    (OUT / "quiz" / "data.json").write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")))
+    ranks = CFG.get("quizRanks", ["ビギナー", "ルーキー", "エキスパート", "マスター"])
+    name, url = quiz_name(), f"{URL}quiz/"
+    chbtn = "".join(f'<button type="button" class="g-chb" data-ch="{ci[c["id"]]}"><small>第{c["no"]}章</small><b>{E(c["title"])}</b>'
+                    f'<span class="g-rate" hidden><i></i><em></em></span></button>' for c in chs)
+    tests = "".join(f'<li><a href="/{test_path(c)}">第{c["no"]}章 {E(c["title"])}（{test_n(c)}問）</a></li>' for c in chs if complete(c))
+    faq = [(f"{name}は無料ですか？", f"無料です。登録も不要で、{n}問すべてをブラウザで解けます。自己ベストや章ごとの正答率は、このブラウザの中だけに保存され、送信されません。"),
+           (f"{name}の問題はどこから出ますか？", f"無料講座「{COURSE['title']}」の内容から出題します。各レッスンの確認問題、章末テスト、{mock_label() if COURSE.get('mock') else '章末の問題'}の問題を合わせた{n}問です。問題はすべてSEADICEのオリジナルです。"),
+           ("間違えた問題はどうなりますか？", "「苦手をつぶす」モードと復習ページに自動で入ります。正解するとリストから外れます。解説の下のリンクから、その問題のレッスンを読み直せます。")]
+    body = f'''<span class="kicker">クイズで学ぶ</span>
+<h1>{E(name)}（全{n}問・無料）</h1>
+<p class="lead">{E(COURSE["title"])}の内容から出題する、ゲーム形式のクイズです。1問ずつ答えて、連続正解でポイントが増えます。間違えた問題は解説とレッスンへのリンクが出るので、本を買わなくても、解きながら覚えられます。</p>
+<div id="game" data-ranks="{E(json.dumps(ranks, ensure_ascii=False), quote=True)}" hidden>
+<div id="g-menu">
+<div class="g-modes">
+<button type="button" class="g-mode" data-mode="ten"><b>10問チャレンジ</b><span>全範囲からランダムに10問</span><em data-best="ten"></em></button>
+<button type="button" class="g-mode" data-mode="surv"><b>サバイバル</b><span>3回間違えるまで続く。何問いける？</span><em data-best="surv"></em></button>
+<button type="button" class="g-mode" data-mode="weak"><b>苦手をつぶす</b><span></span></button>
+</div>
+<p id="g-note" class="g-note">記録（自己ベスト・正答率・間違えた問題）は、このブラウザの中だけに保存されます。数字キー1〜4でも答えられます。</p>
+<h2><span class="n">CHAPTER</span>章をえらんで10問</h2>
+<div class="g-chgrid">{chbtn}</div>
+</div>
+<div id="g-play" hidden></div>
+</div>
+<div id="g-nojs"><p class="answer">クイズを遊ぶには、ブラウザのJavaScriptを有効にしてください。同じ問題は、各章の章末テストでも解けます。</p></div>
+<h2><span class="n">TEST</span>章末テストと{E(mock_label()) if COURSE.get("mock") else "模擬試験"}</h2>
+<p class="answer">1問ずつではなく、まとめて解きたいときは章末テストを使います。</p>
+<ul class="ex">{tests}{f'<li><a href="/course/mock-exam/">{E(mock_label())}（{mock_n()}問）</a></li>' if COURSE.get("mock") else ""}</ul>
+<h2><span class="n">FAQ</span>よくある質問</h2>
+{faq_html(faq)}
+<script src="/quiz.js" defer></script>'''
+    graph = [{"@type": "Quiz", "name": name, "url": url, "inLanguage": "ja", "educationalLevel": "初級", "isAccessibleForFree": True,
+              "numberOfQuestions": n, "isPartOf": {"@id": CURL + "#course"}, "publisher": PUBLISHER}, faq_ld(faq)]
+    return write("quiz/", f"{name}（全{n}問・無料）| {NAME}", f"{COURSE['title']}の内容から出題するゲーム形式の無料クイズ。10問チャレンジ・サバイバル・章別・苦手をつぶす の4モード、全{n}問。登録不要。",
+                 body, graph, trail=[(name, url)], current="/quiz/", wide=True)
+
+
 
 # ---------------- 用語辞典 ----------------
 def glossary():
@@ -931,7 +1098,7 @@ def home():
 <p class="lead">{E(CFG["lead"])}</p>
 <p class="stats"><span><b>{N_CH}</b>章の無料講座</span><span><b>{N_LESSONS}</b>レッスン公開中</span><span><b>{len(TERMS)}</b>語の用語辞典</span><span>登録不要</span></p>
 {RESUME}
-<div class="btns">{f'<a class="btn" href="/course/{first["id"]}/">講座を第1章から始める</a>' if first else ''}<a class="btn sub" href="/glossary/">{gname}を見る</a></div>
+<div class="btns">{f'<a class="btn" href="/course/{first["id"]}/">講座を第1章から始める</a>' if first else ''}{f'<a class="btn" href="/quiz/">{E(quiz_name())}で遊ぶ（{len(quiz_items())}問）</a>' if has_quiz() else ''}<a class="btn sub" href="/glossary/">{gname}を見る</a></div>
 <h2><span class="n">01</span>無料講座「{E(COURSE["title"])}」</h2>
 <p class="answer">{T("homeCourseAnswer")}</p>
 <div class="grid">{chapter_list()}</div>
@@ -1024,6 +1191,9 @@ def build():
         urls.append(exam_corner())
     urls += [glossary()] + [term_page(t) for t in TERMS if rich(t)]
     urls += trust_pages()
+    if has_quiz():
+        urls.append(quiz_page())
+        (OUT / "quiz.js").write_text(QUIZ_JS)
     review_page(); cards_page()  # noindex。sitemap には入れない
     extras(urls)
     return urls
