@@ -1524,5 +1524,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stopwatch%2C_1810201155%2C_ako.jpg/500px-Stopwatch%2C_1810201155%2C_ako.jpg",
   "og": "https://umbra.seadice.win/img/response-latency-speech-rate-lying-research.jpg",
   "local": true
+ },
+ "downward-glance-head-tilt-attraction-signal": {
+  "file": "File:Fan, folding (AM 3122-1).jpg",
+  "src": "/img/downward-glance-head-tilt-attraction-signal.jpg",
+  "src640": "/img/downward-glance-head-tilt-attraction-signal-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Fan, wood and paper fan with picture of George III underneath crown and \"God save the Queen\", upper outer struts painted green.",
+  "artist": "Unknown",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fan,_folding_(AM_3122-1).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fan%2C_folding_%28AM_3122-1%29.jpg/960px-Fan%2C_folding_%28AM_3122-1%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fan%2C_folding_%28AM_3122-1%29.jpg/500px-Fan%2C_folding_%28AM_3122-1%29.jpg",
+  "og": "https://umbra.seadice.win/img/downward-glance-head-tilt-attraction-signal.jpg",
+  "local": true
  }
 }
