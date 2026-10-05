@@ -29,5 +29,11 @@
     "name": "ゼロから学ぶ犯罪学",
     "url": "https://hanzaigaku.seadice.win/",
     "live": true
+  },
+  {
+    "slug": "shakaihosho",
+    "name": "ゼロから学ぶ社会保障",
+    "url": "https://shakaihosho.seadice.win/",
+    "live": false
   }
 ]
