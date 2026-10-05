@@ -916,5 +916,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/School_Computer_Lab.jpg/500px-School_Computer_Lab.jpg",
   "og": "https://kosodate.seadice.win/img/ai-literacy-gap-academic-achievement-og.jpg",
   "local": true
+ },
+ "ai-chatbot-worry-consultation-safety": {
+  "file": "File:Colored pen and smartphone on a table (Unsplash 36nRvt6EP2I).jpg",
+  "src": "/img/ai-chatbot-worry-consultation-safety.jpg",
+  "src640": "/img/ai-chatbot-worry-consultation-safety-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Colored pens and a smartphone on a table",
+  "artist": "Gabriel Santiago gabrielssantiago",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Colored_pen_and_smartphone_on_a_table_(Unsplash_36nRvt6EP2I).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg/960px-Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg/500px-Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg",
+  "og": "https://kosodate.seadice.win/img/ai-chatbot-worry-consultation-safety.jpg",
+  "local": true
  }
 }
