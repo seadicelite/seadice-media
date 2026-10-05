@@ -1310,5 +1310,143 @@
    }
   ],
   "date": "2026-10-05"
+ },
+ {
+  "id": "nyuyoji-hatsuiku-chosa",
+  "term": "乳幼児身体発育調査",
+  "en": "National growth survey on preschool children",
+  "field": "子どもの保健",
+  "def": "乳幼児身体発育調査とは、全国の乳幼児の体重・身長・頭囲などを測り、身体発育値と発育曲線を定める国の調査のことで、昭和25年から10年ごとに行われ、最新は令和5年の調査です。",
+  "sources": [
+   {
+    "text": "こども家庭庁「令和5年乳幼児身体発育調査」",
+    "url": "https://www.cfa.go.jp/policies/boshihoken/r5-nyuuyoujityousa/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "percentile",
+  "term": "パーセンタイル値",
+  "en": "Percentile value",
+  "field": "子どもの保健",
+  "def": "パーセンタイル値とは、計測値を小さいほうから並べたとき何%目にあたるかを示す値のことで、50パーセンタイル値は中央値とも呼ばれます。",
+  "sources": [
+   {
+    "text": "こども家庭庁「令和5年乳幼児身体発育調査」",
+    "url": "https://www.cfa.go.jp/policies/boshihoken/r5-nyuuyoujityousa/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "himatsu-kansen",
+  "term": "飛沫感染",
+  "en": "Droplet transmission",
+  "field": "子どもの保健",
+  "def": "飛沫感染とは、咳やくしゃみ、会話で飛ぶ病原体を含む小さな水滴を近くの人が吸い込んでうつる感染経路のことで、飛沫が飛び散る範囲は1〜2mとされています。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所における感染症対策ガイドライン（2018年改訂版）」全体版",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/cd6e454e/20231010_policies_hoiku_25.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "toen-no-meyasu",
+  "term": "登園のめやす",
+  "en": "Guide for returning to nursery",
+  "field": "子どもの保健",
+  "def": "登園のめやすとは、感染症にかかった子どもが再び登園してよいかを判断するために、保育所における感染症対策ガイドラインが感染症ごとに示している状態や日数のことです。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所における感染症対策ガイドライン（2018年改訂版）」全体版",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/cd6e454e/20231010_policies_hoiku_25.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "toen-todoke",
+  "term": "登園届",
+  "en": "Parent's notice of return",
+  "field": "子どもの保健",
+  "def": "登園届とは、医師の診断を受けたあとに保護者が記入して保育所に出す書類のことで、溶連菌感染症や手足口病などで考えられる取り扱いですが、一律に必要なものではありません。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所における感染症対策ガイドライン（2018年改訂版）」全体版",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/cd6e454e/20231010_policies_hoiku_25.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "chissoku-risk-jokyo",
+  "term": "窒息リスクの除去",
+  "en": "Removing suffocation risks",
+  "field": "子どもの保健",
+  "def": "窒息リスクの除去とは、事故防止ガイドラインが乳児の睡眠前と睡眠中に行うよう求める取り組みのことで、顔が見えるあおむけ寝、やわらかい寝具やヒモ状のものを置かないこと、口の中の確認などを含みます。",
+  "sources": [
+   {
+    "text": "「教育・保育施設等における事故防止及び事故発生時の対応のためのガイドライン【事故防止のための取組み】～施設・事業者向け～」（平成28年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/03f45df9-97e1-4016-b0c3-8496712699a3/39b6fd36/20230607_policies_child-safety_effort_guideline_02.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "jiko-boshi-guideline",
+  "term": "事故防止ガイドライン",
+  "en": "Guidelines for accident prevention in childcare facilities",
+  "field": "子どもの保健",
+  "def": "事故防止ガイドラインとは、平成28年3月に国が示した「教育・保育施設等における事故防止及び事故発生時の対応のためのガイドライン」のことで、重大事故の防止と、事故が起きたときの対応をまとめた手引きです。",
+  "sources": [
+   {
+    "text": "こども家庭庁「教育・保育施設等における事故防止及び事故発生時の対応のためのガイドライン」",
+    "url": "https://www.cfa.go.jp/policies/child-safety/effort/guideline/"
+   },
+   {
+    "text": "「教育・保育施設等における事故防止及び事故発生時の対応のためのガイドライン【事故防止のための取組み】～施設・事業者向け～」（平成28年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/03f45df9-97e1-4016-b0c3-8496712699a3/39b6fd36/20230607_policies_child-safety_effort_guideline_02.pdf"
+   },
+   {
+    "text": "「教育・保育施設等における事故防止及び事故発生時の対応のためのガイドライン【事故発生時の対応】」（平成28年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/03f45df9-97e1-4016-b0c3-8496712699a3/7199d189/20230607_policies_child-safety_effort_guideline_04.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "judai-jiko",
+  "term": "重大事故",
+  "en": "Serious accident",
+  "field": "子どもの保健",
+  "def": "重大事故とは、教育・保育施設等で国への報告の対象となる、死亡事故や治療に要する期間が30日以上の負傷や疾病を伴う重篤な事故などのことで、意識不明の事故も含みます。",
+  "sources": [
+   {
+    "text": "「教育・保育施設等における事故防止及び事故発生時の対応のためのガイドライン【事故発生時の対応】」（平成28年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/03f45df9-97e1-4016-b0c3-8496712699a3/7199d189/20230607_policies_child-safety_effort_guideline_04.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kodomo-iryo-denwa-sodan",
+  "term": "子ども医療電話相談（#8000）",
+  "en": "Pediatric medical telephone consultation (#8000)",
+  "field": "子どもの保健",
+  "def": "子ども医療電話相談（#8000）とは、休日・夜間の子どもの症状などに関する保護者などの不安の解消を目的とした電話相談の事業のことで、平成22年度から全都道府県で実施されています。",
+  "sources": [
+   {
+    "text": "厚生労働省「子ども医療電話相談事業（#8000事業）の推進について」（平成30年4月18日）",
+    "url": "https://www.mhlw.go.jp/topics/2006/10/dl/tp1010-3.pdf"
+   },
+   {
+    "text": "厚生労働省「子ども医療電話相談事業（#8000）について」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/newpage_55223.html"
+   }
+  ],
+  "date": "2026-10-06"
  }
 ]
