@@ -11,7 +11,9 @@
 
 読み込むファイル:
   media/{slug}.json            設定（下のキー一覧）
-  media/{slug}-course.json     講座 {title, desc, chapters[{no,id,title,desc,plan[],care?,lessons[]}], mock?}
+  media/{slug}-course.json     講座 {title, desc, chapters[{no,id,title,desc,plan[],care?,lessons[],test?[]}], mock?}
+                               test: 章末テスト用の新しい問題 [{q,choices,a,exp,ref(章内のレッスンid),apply?}]。レッスンの確認問題と合わせて出題する
+                               mock: 総まとめテスト {title, label?(リンク名。既定「模擬試験」), date, lead, parts[{name,desc,questions[{…,ref}]}]}
   media/{slug}-glossary.json   用語辞典 [{id, term, en, field, def, detail?[], example?, faq?[{q,a}], sources?[], date?}]
   media/{slug}-guides.json     任意。今は --check の対象のみ（ページは未生成）
   media/study-sites.json       全講座の一覧 [{slug, name, url, live, engine?}]。フッター「SEADICE STUDYの他の講座」に live:true を並べる
@@ -229,7 +231,7 @@ if(nx)h+='<a class="btn" href="'+nx.querySelector('a').getAttribute('href')+'">�
 if(mk)h+='<a class="btn sub" href="/review/">間違えた問題を解き直す（'+mk+'問）</a>';r.innerHTML=h+'</div>';r.hidden=false})}
 /* 復習ページ */
 var rv=document.getElementById('redo');if(rv){var qs=$('.qz',rv),c=0;qs.forEach(function(q){if(S.miss[q.dataset.q]){q.hidden=false;c++}});
-var m=document.getElementById('redo-msg');m.textContent=!OK?'このブラウザでは記録を保存できないため、復習リストを使えません。各章のまとめテストで解き直せます。':(c?'解き直す問題は '+c+' 問です。正解した問題はリストから外れます。':'今は解き直す問題はありません。レッスンの確認問題で迷った問題が、ここに自動で集まります。');
+var m=document.getElementById('redo-msg');m.textContent=!OK?'このブラウザでは記録を保存できないため、復習リストを使えません。各章の章末テストで解き直せます。':(c?'解き直す問題は '+c+' 問です。正解した問題はリストから外れます。':'今は解き直す問題はありません。レッスンの確認問題で迷った問題が、ここに自動で集まります。');
 setupQuiz(rv)}
 /* 暗記カード（ライトナー方式: 間違えた語ほど早く出る） */
 var cl=document.getElementById('cards');if(cl){var ds=[].slice.call($('details[data-t]',cl)),fc=document.getElementById('fc'),t0=today(),Q=[],cur=null,cnt=0,IV=[1,2,4,8,16];
@@ -272,6 +274,14 @@ def complete(ch):
 
 def test_path(ch):
     return f'course/{ch["id"]}-test/'
+
+
+def test_n(ch):
+    return sum(len(x["quiz"]) for x in ch["lessons"]) + len(ch.get("test", []))
+
+
+def mock_label():
+    return COURSE["mock"].get("label", "模擬試験")
 
 
 def crumbs(trail):
@@ -464,6 +474,12 @@ def check_data():
               "homeCourseAnswer", "homeGlossaryAnswer", "trust", "llmsIntro", "theme", "icon"):
         if not CFG.get(k): errs.append(f"設定 media/{SLUG}.json に {k} が無い")
     if any(c.get("care") for c in COURSE["chapters"]) and not CFG.get("careHtml"): errs.append("care の章があるのに設定に careHtml が無い")
+    for c in COURSE["chapters"]:
+        cl = {l["id"] for l in c["lessons"]}
+        check_quiz(f'第{c["no"]}章 章末テスト', c.get("test", []), errs)
+        for i, q in enumerate(c.get("test", [])):
+            if q.get("ref") not in cl: errs.append(f'第{c["no"]}章 章末テスト Q{i+1} の ref（章内のレッスンid）が存在しない: {q.get("ref")}')
+        if c.get("test") and not complete(c): errs.append(f'第{c["no"]}章 は未完成なのに章末テストの問題がある')
     m = COURSE.get("mock")
     if m:
         lids = {l["id"] for _, l in LESSONS}
@@ -536,8 +552,8 @@ def chapter_list(current=None):
         if c["lessons"]:
             items = "".join(lesson_li(c, i, l, current) for i, l in enumerate(c["lessons"]))
             out += (f'<div class="card" id="ch{c["no"]}"><small>第{c["no"]}章</small><b>{E(c["title"])}</b><span>{E(c["desc"])}</span><ol class="lessons">{items}</ol>'
-                    + (f'<p style="margin:10px 0 0;font-size:14px;font-weight:700"><a href="/{test_path(c)}">第{c["no"]}章のまとめテスト（{sum(len(x["quiz"]) for x in c["lessons"])}問）</a></p>' if complete(c) else '')
-                    + (f'<p style="margin:6px 0 0;font-size:14px;font-weight:700"><a href="/course/mock-exam/">模擬試験に挑戦（{mock_n()}問）</a></p>' if c is COURSE["chapters"][-1] and COURSE.get("mock") else '') + '</div>')
+                    + (f'<p style="margin:10px 0 0;font-size:14px;font-weight:700"><a href="/{test_path(c)}">第{c["no"]}章の章末テスト（{test_n(c)}問）</a></p>' if complete(c) else '')
+                    + (f'<p style="margin:6px 0 0;font-size:14px;font-weight:700"><a href="/course/mock-exam/">{E(mock_label())}に挑戦（{mock_n()}問）</a></p>' if c is COURSE["chapters"][-1] and COURSE.get("mock") else '') + '</div>')
         else:
             out += f'<div class="card soon" id="ch{c["no"]}"><small>第{c["no"]}章</small><b>{E(c["title"])}</b><span>{E(c["desc"])}</span><span class="st">準備中</span></div>'
     return out
@@ -549,8 +565,8 @@ RESUME = '<div class="resume" hidden aria-live="polite"></div>'
 def features_first():
     n_new = sum(1 for _, l in LESSONS if is_new(l))
     if LESSONS and n_new * 2 >= len(LESSONS):
-        return "1レッスンは約5分です。「このレッスンの問い → 前回の復習 → 本文と図 → あなたの場合は？ → 覚えるのはこの3つ → 確認問題」の順に進みます。読んだ直後に確認問題で思い出し、章の最後のまとめテストで仕上げます。"
-    return "1レッスンは「前回の復習 → 学習目標 → 要点 → 本文 → キーワード（日本語・英語） → 確認クイズ」の順に進みます。読んだ直後にクイズで思い出し、章の最後のまとめテストで仕上げます。"
+        return "1レッスンは約5分です。「このレッスンの問い → 前回の復習 → 本文と図 → あなたの場合は？ → 覚えるのはこの3つ → 確認問題」の順に進みます。読んだ直後に確認問題で思い出し、章の最後の章末テストで仕上げます。"
+    return "1レッスンは「前回の復習 → 学習目標 → 要点 → 本文 → キーワード（日本語・英語） → 確認クイズ」の順に進みます。読んだ直後にクイズで思い出し、章の最後の章末テストで仕上げます。"
 
 
 def course_index():
@@ -634,10 +650,10 @@ def lesson_new(ch, li, l, idx, no, prev_l, next_l):
 def done_html(ch, l, no, prev_l, next_l, last):
     chlist = "".join(lesson_li(ch, j, x, l["id"]) for j, x in enumerate(ch["lessons"]))
     nxt = (f'<a class="btn{" sub" if last else ""}" href="/course/{next_l["id"]}/">次のレッスン: {E(next_l["short"])}</a>' if next_l else
-           ('<a class="btn" href="/course/mock-exam/">模擬試験に挑戦する</a>' if COURSE.get("mock") and all(c["lessons"] for c in COURSE["chapters"]) else '<a class="btn" href="/course/">講座の目次へ（次の章は準備中です）</a>'))
+           (f'<a class="btn" href="/course/mock-exam/">{E(mock_label())}に挑戦する</a>' if COURSE.get("mock") and all(c["lessons"] for c in COURSE["chapters"]) else '<a class="btn" href="/course/">講座の目次へ（次の章は準備中です）</a>'))
     return f'''<div class="done"><p class="dt">レッスン{no}はここまでです</p><p class="dd">迷った問題は、その見出しの本文を読み直してから次に進みましょう。間違えた問題は<a href="/review/">復習ページ</a>に自動で入ります。</p>
 <button type="button" class="btn sub mark" data-l="{l["id"]}" aria-pressed="false" hidden>このレッスンを読み終えた</button>
-<div class="btns" style="margin:14px 0 0">{f'<a class="btn" href="/{test_path(ch)}">第{ch["no"]}章のまとめテストに挑戦</a>' if last else ''}{nxt}{f'<a class="btn sub" href="/course/{prev_l["id"]}/">前のレッスン</a>' if prev_l else ''}</div>
+<div class="btns" style="margin:14px 0 0">{f'<a class="btn" href="/{test_path(ch)}">第{ch["no"]}章の章末テストに挑戦</a>' if last else ''}{nxt}{f'<a class="btn sub" href="/course/{prev_l["id"]}/">前のレッスン</a>' if prev_l else ''}</div>
 <details style="margin-top:16px"><summary>第{ch["no"]}章 {E(ch["title"])} のレッスン一覧</summary><div><ol class="lessons">{chlist}</ol><p style="margin:10px 0 0;font-size:14px"><a href="/course/">講座の目次（全{N_CH}章）へ</a></p></div></details>
 </div>'''
 
@@ -730,7 +746,7 @@ def exam_corner():
 <div class="box key"><p class="bt">模擬試験の概要</p><ul>{"".join(f"<li>{E(o)}</li>" for o in x["overview"])}</ul></div>
 <div class="box note"><p style="margin:0">{E(x["note"])}</p></div>
 <h2><span class="n">01</span>まだ学んでいない分野があるときは</h2>
-<p class="answer">間違えた分野は、無料講座の該当する章で学び直せます。章末のまとめテストで確かめてから、もう一度挑戦しましょう。</p>
+<p class="answer">間違えた分野は、無料講座の該当する章で学び直せます。章末の章末テストで確かめてから、もう一度挑戦しましょう。</p>
 <div class="grid">{chapter_list()}</div>
 {practice_html("あわせて使える演習ツール")}
 <h2><span class="n">FAQ</span>よくある質問</h2>
@@ -764,29 +780,37 @@ def mock_exam():
               "isPartOf": {"@id": CURL + "#course"}, "publisher": PUBLISHER,
               "hasPart": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["choices"][q["a"]]}} for p in m["parts"] for q in p["questions"]]}]
     return write("course/mock-exam/", f'{m["title"]}（全{mock_n()}問・無料）| {NAME}', m["lead"][:120], body, graph,
-                 trail=[("講座", CURL), ("模擬試験", url)], current="/course/")
+                 trail=[("講座", CURL), (mock_label(), url)], current="/course/")
 
 
 def chapter_test(ch):
-    """章のまとめテスト。各レッスンの問題を、レッスンが交互になるように並べる。"""
+    """章の章末テスト。各レッスンの問題を、レッスンが交互になるように並べる。"""
     ls = ch["lessons"]
     items = [(l["quiz"][k], f'{ch["no"]}-{i+1}', lurl(l).replace(URL, "/"), f'{l["id"]}:{k}') for k in range(max(len(l["quiz"]) for l in ls)) for i, l in enumerate(ls) if k < len(l["quiz"])]
+    ref = {l["id"]: (f'{ch["no"]}-{i+1}', lurl(l).replace(URL, "/")) for i, l in enumerate(ls)}
+    extra = [(q, *ref[q["ref"]], f'{ch["id"]}:t{k}') for k, q in enumerate(ch.get("test", []))]
+    if extra:
+        quizzes = (f'<h2><span class="n">PART 1</span>レッスンの確認問題（{len(items)}問）</h2><p class="answer">各レッスンで解いた問題です。忘れていないか確かめましょう。</p>{quiz_html(items, mode="test")}'
+                   f'<h2><span class="n">PART 2</span>章末の演習問題（{len(extra)}問）</h2><p class="answer">レッスンにはない、新しい問題です。日常の場面で考える問題も入っています。</p>{quiz_html(extra, mode="test")}')
+    else:
+        quizzes = quiz_html(items, mode="test")
+    items = items + extra
     url = f"{URL}{test_path(ch)}"
-    title = f'第{ch["no"]}章 {ch["title"]} まとめテスト'
+    title = f'第{ch["no"]}章 {ch["title"]} 章末テスト'
     nxt = next((c for c in COURSE["chapters"] if c["no"] == ch["no"] + 1 and c["lessons"]), None)
     body = f'''<span class="kicker">第{ch["no"]}章のまとめ</span>
 <h1>{E(title)}（全{len(items)}問）</h1>
 <p class="updated">対象: レッスン{ch["no"]}-1〜{ch["no"]}-{len(ls)} ・ 目安 {max(3, len(items) // 2)}分 ・ 制限時間なし</p>
 <p class="lead">第{ch["no"]}章「{E(ch["title"])}」で学んだ内容を、まとめて確かめるテストです。レッスンが混ざった順番で出題します。最後に、間違えた問題のレッスンへのリンクが出ます。</p>
-{quiz_html(items, mode="test")}
+{quizzes}
 <div class="done"><p class="dt">第{ch["no"]}章はここまでです</p><p class="dd">間違えた問題は<a href="/review/">復習ページ</a>に入ります。表示されたレッスンを読み直してから、もう一度挑戦しましょう。</p>
-<div class="btns" style="margin:14px 0 0">{f'<a class="btn" href="/course/{nxt["lessons"][0]["id"]}/">第{nxt["no"]}章へ進む: {E(nxt["title"])}</a>' if nxt else ('<a class="btn" href="/course/mock-exam/">模擬試験に挑戦する</a>' if COURSE.get("mock") else '<a class="btn" href="/course/">講座の目次へ</a>')}<a class="btn sub" href="/course/#ch{ch["no"]}">第{ch["no"]}章のレッスン一覧</a></div></div>'''
+<div class="btns" style="margin:14px 0 0">{f'<a class="btn" href="/course/{nxt["lessons"][0]["id"]}/">第{nxt["no"]}章へ進む: {E(nxt["title"])}</a>' if nxt else (f'<a class="btn" href="/course/mock-exam/">{E(mock_label())}に挑戦する</a>' if COURSE.get("mock") else '<a class="btn" href="/course/">講座の目次へ</a>')}<a class="btn sub" href="/course/#ch{ch["no"]}">第{ch["no"]}章のレッスン一覧</a></div></div>'''
     graph = [{"@type": "Quiz", "name": title, "url": url, "inLanguage": "ja", "educationalLevel": "初級", "isAccessibleForFree": True,
               "about": ch["title"], "isPartOf": {"@id": CURL + "#course"}, "publisher": PUBLISHER,
               "hasPart": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["choices"][q["a"]]}} for q, _, _, _ in items]}]
     return write(test_path(ch), f'{title}（全{len(items)}問）| {NAME}',
                  f'第{ch["no"]}章「{ch["title"]}」の確認問題{len(items)}問。タップで答えて、間違えた問題のレッスンを読み直せます。無料・登録不要。', body, graph,
-                 trail=[("講座", CURL), (f'第{ch["no"]}章 {ch["title"]}', CURL), ("まとめテスト", url)], current="/course/")
+                 trail=[("講座", CURL), (f'第{ch["no"]}章 {ch["title"]}', CURL), ("章末テスト", url)], current="/course/")
 
 
 # ---------------- 学習機能のページ ----------------
@@ -801,14 +825,17 @@ def review_page():
             if idx > 0:
                 p = LESSONS[idx - 1][1]
                 items.append((l["review"], lesson_no(p), lurl(p).replace(URL, "/"), f'{l["id"]}:r'))
+    for ch in COURSE["chapters"]:
+        ref = {l["id"]: (f'{ch["no"]}-{i+1}', lurl(l).replace(URL, "/")) for i, l in enumerate(ch["lessons"])}
+        items += [(q, *ref[q["ref"]], f'{ch["id"]}:t{k}') for k, q in enumerate(ch.get("test", [])) if q.get("ref") in ref]
     if COURSE.get("mock"):
         ref = {l["id"]: (lesson_no(l), lurl(l).replace(URL, "/")) for _, l in LESSONS}
         for i, p in enumerate(COURSE["mock"]["parts"]):
             items += [(q, *ref[q["ref"]], f"mock:{i}:{k}") for k, q in enumerate(p["questions"]) if q.get("ref") in ref]
     body = f'''<span class="kicker">復習</span>
 <h1>間違えた問題の復習</h1>
-<p class="lead">レッスンの確認問題やまとめテストで間違えた問題が、ここに自動で集まります。正解すると、リストから外れます。記録はこのブラウザの中だけに保存され、送信されません。</p>
-<div id="redo"><p id="redo-msg" class="answer" aria-live="polite">間違えた問題の記録を使うには、ブラウザのJavaScriptを有効にしてください。各章のまとめテストでも解き直せます。</p>
+<p class="lead">レッスンの確認問題や章末テストで間違えた問題が、ここに自動で集まります。正解すると、リストから外れます。記録はこのブラウザの中だけに保存され、送信されません。</p>
+<div id="redo"><p id="redo-msg" class="answer" aria-live="polite">間違えた問題の記録を使うには、ブラウザのJavaScriptを有効にしてください。各章の章末テストでも解き直せます。</p>
 {quiz_html(items, mode="redo")}</div>
 <div class="btns" style="margin-top:28px"><a class="btn" href="/course/">講座の目次へ</a><a class="btn sub" href="/cards/">暗記カードで用語を覚える</a></div>'''
     return write("review/", f"間違えた問題の復習 | {NAME}", f"{NAME}の確認問題で間違えた問題だけを、解説つきで解き直せるページです。登録不要。", body, [],
