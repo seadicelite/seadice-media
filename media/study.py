@@ -202,7 +202,7 @@ footer.site{border-top:1px solid var(--line);padding:28px 16px;text-align:center
 .g-fb:empty{display:none}.g-fb{margin-top:16px}.g-ok,.g-ng{font-size:22px;font-weight:800;margin:0}.g-ok{color:var(--ok);animation:g-pop .35s}.g-ng{color:var(--ng)}.g-exp{font-size:15px;color:var(--sub);margin:8px 0}.g-read{font-size:14px;font-weight:700}.g-next{display:block;width:100%%;margin-top:16px}
 .g-pop{position:absolute;top:14px;right:16px;font-size:13px;font-weight:800;letter-spacing:.1em;color:var(--accent-ink);background:var(--accent);border-radius:999px;padding:4px 12px;animation:g-pop .4s}
 .g-res{text-align:center}.g-rank{font-size:15px;font-weight:800;color:var(--accent-ink);background:var(--accent);display:inline-block;border-radius:999px;padding:4px 16px;margin:4px 0 0;animation:g-pop .5s}.g-big{font-size:30px;font-weight:800;margin:10px 0 0}.g-sub{font-size:15px;color:var(--sub);margin:8px 0 0}
-.g-miss{list-style:none;display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:10px 0 0}.g-miss a{display:inline-block;font-size:14px;border:1px solid var(--line);border-radius:999px;padding:6px 12px;text-decoration:none}.g-res .btns{justify-content:center;margin:20px 0 0}
+.g-miss{list-style:none;display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:10px 0 0}.g-miss a{display:inline-block;font-size:14px;border:1px solid var(--line);border-radius:999px;padding:6px 12px;text-decoration:none}.g-res .btns{justify-content:center;margin:20px 0 0}.g-res .g-share{margin:10px 0 0}
 @keyframes g-pop{0%%{transform:scale(.7);opacity:0}70%%{transform:scale(1.08)}100%%{transform:scale(1);opacity:1}}@keyframes g-shake{25%%{transform:translateX(-5px)}75%%{transform:translateX(5px)}}
 @media(prefers-reduced-motion:reduce){.g-ok,.g-pop,.g-rank,.g-ch.ng{animation:none}.g-mode,.g-chb{transition:none}}
 [hidden]{display:none!important}"""
@@ -937,7 +937,11 @@ if(st.missed.length){c.appendChild(el('p','g-sub','間違えた問題は「苦�
 st.missed.forEach(function(q){if(seen[q.h])return;seen[q.h]=1;var li=el('li'),a=el('a','','レッスン'+q.n);a.href=q.h;li.appendChild(a);ul.appendChild(li)});c.appendChild(ul)}
 else c.appendChild(el('p','g-sub','全問正解です。この調子で、ほかのモードにも挑戦してみましょう。'));
 var bs=el('div','btns'),again=el('button','btn','もう一度'),back=el('button','btn sub','メニューへ');again.type=back.type='button';
-var md=st.mode,ch=st.key.slice(2);again.onclick=function(){start(md,ch)};back.onclick=menu;bs.appendChild(again);bs.appendChild(back);c.appendChild(bs);P.appendChild(c);again.focus({preventScroll:true})}
+var nm=G.dataset.name,ml={ten:'10問チャレンジ',surv:'サバイバル',weak:'苦手をつぶす',ch:'第'+(st.qs[0]?D.ch[st.qs[0].c][0]:'')+'章'}[st.mode],
+tx=nm+'の'+ml+'で'+(surv?st.ok+'問正解':n+'問中'+st.ok+'問正解')+'。称号は「'+r+'」でした。',u=location.origin+'/quiz/',sh=el('div','btns g-share');
+if(navigator.share){var sb=el('button','btn sub','結果をシェア');sb.type='button';sb.onclick=function(){navigator.share({text:tx,url:u}).catch(function(){})};sh.appendChild(sb)}
+var xa=el('a','btn sub','Xに投稿');xa.href='https://twitter.com/intent/tweet?text='+encodeURIComponent(tx)+'&url='+encodeURIComponent(u);xa.target='_blank';xa.rel='noopener';sh.appendChild(xa);
+var md=st.mode,ch=st.key.slice(2);again.onclick=function(){start(md,ch)};back.onclick=menu;bs.appendChild(again);bs.appendChild(back);c.appendChild(bs);c.appendChild(sh);P.appendChild(c);again.focus({preventScroll:true})}
 document.addEventListener('keydown',function(e){if(!st||P.hidden||!st.cur||st.cur.done)return;var k=+e.key;if(k>=1&&k<=st.cur.o.length){e.preventDefault();answer(st.cur.q,st.cur.o,k-1,st.cur.bs)}});
 G.querySelectorAll('[data-mode]').forEach(function(b){b.onclick=function(){start(b.dataset.mode)}});
 G.querySelectorAll('[data-ch]').forEach(function(b){b.onclick=function(){start('ch',b.dataset.ch)}});
@@ -996,7 +1000,7 @@ def quiz_page():
     body = f'''<span class="kicker">クイズで学ぶ</span>
 <h1>{E(name)}（全{n}問・無料）</h1>
 <p class="lead">{E(COURSE["title"])}の内容から出題する、ゲーム形式のクイズです。1問ずつ答えて、連続正解でポイントが増えます。間違えた問題は解説とレッスンへのリンクが出るので、本を買わなくても、解きながら覚えられます。</p>
-<div id="game" data-ranks="{E(json.dumps(ranks, ensure_ascii=False), quote=True)}" hidden>
+<div id="game" data-name="{E(name, quote=True)}" data-ranks="{E(json.dumps(ranks, ensure_ascii=False), quote=True)}" hidden>
 <div id="g-menu">
 <div class="g-modes">
 <button type="button" class="g-mode" data-mode="ten"><b>10問チャレンジ</b><span>全範囲からランダムに10問</span><em data-best="ten"></em></button>
