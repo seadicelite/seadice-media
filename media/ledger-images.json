@@ -873,5 +873,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wii_sold_out.jpg/500px-Wii_sold_out.jpg",
   "og": "https://ledger.seadice.win/img/scarcity-limited-stock-psychology-og.jpg",
   "local": true
+ },
+ "retirement-anxiety-outlook": {
+  "file": "File:Joint Expeditionary Base takes the Military Saves Pledge 150127-N-IN807-016.jpg",
+  "src": "/img/retirement-anxiety-outlook.jpg",
+  "src640": "/img/retirement-anxiety-outlook-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Peter Bielagus, a motivational financial educator, speaks to Sailors during a command leadership forum event in support of Military Saves we",
+  "artist": "Petty Officer 2nd Class Jared Aldape",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Joint_Expeditionary_Base_takes_the_Military_Saves_Pledge_150127-N-IN807-016.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Joint_Expeditionary_Base_takes_the_Military_Saves_Pledge_150127-N-IN807-016.jpg/960px-Joint_Expeditionary_Base_takes_the_Military_Saves_Pledge_150127-N-IN807-016.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Joint_Expeditionary_Base_takes_the_Military_Saves_Pledge_150127-N-IN807-016.jpg/500px-Joint_Expeditionary_Base_takes_the_Military_Saves_Pledge_150127-N-IN807-016.jpg",
+  "og": "https://ledger.seadice.win/img/retirement-anxiety-outlook.jpg",
+  "local": true
  }
 }
