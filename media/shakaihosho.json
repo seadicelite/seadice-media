@@ -45,7 +45,7 @@
   ],
   "enabled": false,
   "live": false,
-  "note": "2026-10-05 骨組み作成、同日全12章37レッスン完成（各レッスンを執筆と監査で分けて作成）。年1回（毎年4月の金額改定後）に見直す。YMYLのため執筆と監査を分ける。学習サイト。記事エンジン(/media)の対象外。ページは python3 media/study.py shakaihosho で生成する（共通エンジン。用語は media/shakaihosho-glossary.json、レッスンは /study-lesson shakaihosho）。第2章（お金）・第3章（住まい）・第11章（制度にたどり着く方法）は care:true で careHtml（自立相談支援機関・福祉事務所・よりそいホットライン・法テラスを公式ページで確認、2026-10-05）を表示。看板ツール（困りごと別の制度さがし）は未作成。",
+  "note": "2026-10-05 骨組み作成、同日全12章37レッスン完成（各レッスンを執筆と監査で分けて作成）。年1回（毎年4月の金額改定後）に見直す。YMYLのため執筆と監査を分ける。学習サイト。記事エンジン(/media)の対象外。ページは python3 media/study.py shakaihosho で生成する（共通エンジン。用語は media/shakaihosho-glossary.json、レッスンは /study-lesson shakaihosho）。第2章（お金）・第3章（住まい）・第11章（制度にたどり着く方法）は care:true で careHtml（自立相談支援機関・福祉事務所・よりそいホットライン・法テラスを公式ページで確認、2026-10-05）を表示。看板ツール「困りごとから制度を探す」（/sagasu/、データは media/shakaihosho-tool.json。説明文はレッスン本文と監査のclaimsの範囲だけで書く）を2026-10-05に設置。",
   "practice": [],
   "icon": "保",
   "logoSub": "困ったときに使える制度を学ぶ",
@@ -173,5 +173,16 @@
     "傾聴",
     "犯罪学"
   ],
-  "careHtml": "<div class=\"box note\"><p class=\"bt\">生活に困ったときの相談先</p><p style=\"margin:0 0 8px\">この講座は学習用で、個別に制度を使えるかどうかの判断はできません。生活に困ったときは、一人で抱え込まずに公的な相談窓口を利用できます。条件を満たすかどうかわからなくても、相談することはできます。</p><ul><li>自立相談支援機関（生活困窮者自立支援制度の相談窓口。仕事、住まい、家計など暮らしの困りごとを相談できます。<a href=\"https://minna-tunagaru.jp/ichiran/\" target=\"_blank\" rel=\"noopener\">全国の窓口一覧</a>）</li><li>福祉事務所の生活保護担当（生活保護の相談・申請の窓口。市（区）部では市（区）が、町村部では都道府県が設置しています。福祉事務所のない町村では、町村役場でも申請の手続きができます）</li><li>よりそいホットライン <a href=\"tel:0120279338\">0120-279-338</a>（暮らしの困りごとや悩みを聞く、無料の電話相談。厚生労働省の補助金事業です。福島県からは <a href=\"tel:0120279226\">0120-279-226</a>）</li><li>法テラス・サポートダイヤル <a href=\"tel:0570078374\">0570-078374</a>（法的なトラブルについて、法制度や相談窓口を案内します。平日9〜21時、土曜9〜17時。IP電話からは <a href=\"tel:0367455600\">03-6745-5600</a>）</li></ul><p style=\"margin:8px 0 0;font-size:13px\">出典: <a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html\" target=\"_blank\" rel=\"noopener\">厚生労働省「生活困窮者自立支援制度」</a>、<a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html\" target=\"_blank\" rel=\"noopener\">厚生労働省「生活保護制度」</a>、<a href=\"https://www.since2011.net/yorisoi/\" target=\"_blank\" rel=\"noopener\">よりそいホットライン</a>、<a href=\"https://www.houterasu.or.jp/site/soudanmadoguchi-houseido/support-dial.html\" target=\"_blank\" rel=\"noopener\">法テラス「お電話でのお問合せ（法テラス・サポートダイヤル）」</a></p></div>"
+  "careHtml": "<div class=\"box note\"><p class=\"bt\">生活に困ったときの相談先</p><p style=\"margin:0 0 8px\">この講座は学習用で、個別に制度を使えるかどうかの判断はできません。生活に困ったときは、一人で抱え込まずに公的な相談窓口を利用できます。条件を満たすかどうかわからなくても、相談することはできます。</p><ul><li>自立相談支援機関（生活困窮者自立支援制度の相談窓口。仕事、住まい、家計など暮らしの困りごとを相談できます。<a href=\"https://minna-tunagaru.jp/ichiran/\" target=\"_blank\" rel=\"noopener\">全国の窓口一覧</a>）</li><li>福祉事務所の生活保護担当（生活保護の相談・申請の窓口。市（区）部では市（区）が、町村部では都道府県が設置しています。福祉事務所のない町村では、町村役場でも申請の手続きができます）</li><li>よりそいホットライン <a href=\"tel:0120279338\">0120-279-338</a>（暮らしの困りごとや悩みを聞く、無料の電話相談。厚生労働省の補助金事業です。福島県からは <a href=\"tel:0120279226\">0120-279-226</a>）</li><li>法テラス・サポートダイヤル <a href=\"tel:0570078374\">0570-078374</a>（法的なトラブルについて、法制度や相談窓口を案内します。平日9〜21時、土曜9〜17時。IP電話からは <a href=\"tel:0367455600\">03-6745-5600</a>）</li></ul><p style=\"margin:8px 0 0;font-size:13px\">出典: <a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html\" target=\"_blank\" rel=\"noopener\">厚生労働省「生活困窮者自立支援制度」</a>、<a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html\" target=\"_blank\" rel=\"noopener\">厚生労働省「生活保護制度」</a>、<a href=\"https://www.since2011.net/yorisoi/\" target=\"_blank\" rel=\"noopener\">よりそいホットライン</a>、<a href=\"https://www.houterasu.or.jp/site/soudanmadoguchi-houseido/support-dial.html\" target=\"_blank\" rel=\"noopener\">法テラス「お電話でのお問合せ（法テラス・サポートダイヤル）」</a></p></div>",
+  "tool": {
+    "path": "sagasu/",
+    "title": "困りごとから制度を探す",
+    "h1": "困りごとから制度を探す",
+    "kicker": "制度さがし",
+    "navLabel": "制度を探す",
+    "desc": "生活費、家賃、失業、病気、労災、子育て、障害、保険料、家族の死亡、介護など、困りごとを選ぶと、確かめたい制度と主な窓口、学べるレッスンがわかります。登録不要・無料。",
+    "lead": "いま困っていることを1つ選んでください。確かめたい制度と、相談できる主な窓口、くわしく学べるレッスンが表示されます。制度の名前を知らなくても大丈夫です。",
+    "note": "このページは、あなたが制度を使えるかどうかを判定するものではありません。表示されるのは「確かめたい制度」で、使えるかどうかや金額は、最終的には窓口で確認してください。どれに当たるか迷ったら、自立相談支援機関に困りごとをそのまま話してみてください。",
+    "data": "media/shakaihosho-tool.json"
+  }
 }

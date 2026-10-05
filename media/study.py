@@ -53,6 +53,11 @@
     practice     [[名前, URL, 説明]] 講座の外の演習ツール
     exam         本番形式の模擬試験コーナー（/{path}）。{path, kicker, h1, meta, lead, start, overview[li], note, crumb, title, desc, appName, faq[[q,a]]}
     forbidWords  [語] 他分野の文言の混入検査。生成した全ページにこれらの語があればエラー
+    tool         分野の看板ツール（study.md 8章）。{path(例 sagasu/), title, h1, kicker, navLabel(ヘッダー・フッターのリンク名), desc(meta。120字以内),
+                 lead, note(注意書き), data(例 media/{slug}-tool.json)}。あれば /{path} にページを生成し、ヘッダー・フッター・トップ・sitemap・llms.txt に載せる。
+                 data は {date, items[{id, label, lead?, systems[{name, who?, desc, window, lessons[レッスンid]}]}]}。
+                 JSなしでも全項目を本文として表示し、tool.js（外部リクエストなし）は選んだ項目だけに絞り込む（URLの #id で戻るボタンも効く）。
+                 --check で lessons のidが講座に実在すること、金額（円・%）を書いていないことを検査する
 
 レッスンの形式（study.md 5章）:
   新形式 question / review / sections / figure / apply / keep / terms / quiz[apply] / sources を、study.md 4章の並びで表示する。
@@ -76,7 +81,7 @@ CUR = ' aria-current="page"'
 ARTICLES = {}  # 姉妹メディアの記事（今は無し）
 
 # ---------------- サイトの読み込み ----------------
-SLUG = CFG = COURSE = TERMS = GUIDES = None
+SLUG = CFG = COURSE = TERMS = GUIDES = TOOL = None
 NAME = URL = CURL = UPDATED = None
 OUT = None
 LESSONS = []
@@ -85,13 +90,14 @@ SITES = []
 
 
 def load(slug, course_file=None, out=None):
-    global SLUG, CFG, COURSE, TERMS, GUIDES, NAME, URL, CURL, UPDATED, OUT, LESSONS, N_LESSONS, N_CH, SITES
+    global SLUG, CFG, COURSE, TERMS, GUIDES, TOOL, NAME, URL, CURL, UPDATED, OUT, LESSONS, N_LESSONS, N_CH, SITES
     SLUG = slug
     CFG = json.loads((ROOT / f"media/{slug}.json").read_text())
     COURSE = json.loads(Path(course_file).read_text() if course_file else (ROOT / f"media/{slug}-course.json").read_text())
     TERMS = json.loads((ROOT / f"media/{slug}-glossary.json").read_text())
     gp = ROOT / f"media/{slug}-guides.json"
     GUIDES = json.loads(gp.read_text()) if gp.exists() else []
+    TOOL = json.loads((ROOT / CFG["tool"]["data"]).read_text()) if CFG.get("tool") else None
     NAME, URL = CFG["name"], CFG["url"]
     CURL = f"{URL}course/"
     OUT = Path(out) if out else ROOT / CFG["path"]
@@ -316,7 +322,8 @@ def crumbs(trail):
 def nav_items():
     extra = [(x["href"], x["label"]) for x in CFG.get("extraNav", [])]
     quiz = [("/quiz/", "クイズ")] if has_quiz() else []
-    return [("/course/", "講座")] + quiz + extra + [("/glossary/", "用語辞典"), ("/cards/", "暗記カード")]
+    tool = [("/" + CFG["tool"]["path"], CFG["tool"]["navLabel"])] if CFG.get("tool") else []
+    return [("/course/", "講座")] + tool + quiz + extra + [("/glossary/", "用語辞典"), ("/cards/", "暗記カード")]
 
 
 def footer():
@@ -324,7 +331,8 @@ def footer():
     others = [s for s in SITES if s.get("live") and s["slug"] != SLUG]
     other = ('<p class="other"><b>SEADICE STUDYの他の講座</b>' + "".join(f'<a href="{E(s["url"], quote=True)}">{E(s["name"])}</a>' for s in others) + '</p>') if others else ""
     quiz = f'<a href="/quiz/">{E(quiz_name())}</a>' if has_quiz() else ''
-    return (f'<footer class="site"><p><a href="/course/">{E(COURSE["title"])}</a>{extra}<a href="/glossary/">{T("glossaryName")}</a>{quiz}<a href="/review/">間違えた問題の復習</a><a href="/cards/">暗記カード</a><br>'
+    tool = f'<a href="/{CFG["tool"]["path"]}">{E(CFG["tool"]["navLabel"])}</a>' if CFG.get("tool") else ''
+    return (f'<footer class="site"><p><a href="/course/">{E(COURSE["title"])}</a>{tool}{extra}<a href="/glossary/">{T("glossaryName")}</a>{quiz}<a href="/review/">間違えた問題の復習</a><a href="/cards/">暗記カード</a><br>'
             '<a href="/about/">このサイトについて</a><a href="/sources/">出典と検証の方法</a><a href="/disclaimer/">免責事項</a><a href="mailto:hi@seadice.win">お問い合わせ</a><br>'
             f'<a href="https://seadice.win/">運営: SEADICE</a></p>{other}</footer>')
 
@@ -506,6 +514,8 @@ def check_data():
         for i, q in enumerate(c.get("test", [])):
             if q.get("ref") not in cl: errs.append(f'第{c["no"]}章 章末テスト Q{i+1} の ref（章内のレッスンid）が存在しない: {q.get("ref")}')
         if c.get("test") and not complete(c): errs.append(f'第{c["no"]}章 は未完成なのに章末テストの問題がある')
+    if CFG.get("tool"):
+        check_tool(errs)
     m = COURSE.get("mock")
     if m:
         lids = {l["id"] for _, l in LESSONS}
@@ -552,6 +562,8 @@ def check_output(out):
                 if w in strip_names(p.read_text()): errs.append(f"{f}: 他分野の文言「{w}」が残っている")
     js = out / "study.js"
     if js.exists() and js.stat().st_size > 10 * 1024: errs.append(f"study.js が {js.stat().st_size} バイト（10KB以内）")
+    js = out / "tool.js"
+    if js.exists() and js.stat().st_size > 10 * 1024: errs.append(f"tool.js が {js.stat().st_size} バイト（10KB以内）")
     js = out / "quiz.js"
     if js.exists() and js.stat().st_size > 12 * 1024: errs.append(f"quiz.js が {js.stat().st_size} バイト（12KB以内）")
     return sorted(set(errs)), len(files)
@@ -782,6 +794,109 @@ def exam_corner():
     graph = [{"@type": "WebApplication", "name": x["appName"], "url": url, "applicationCategory": "EducationApplication", "operatingSystem": "Web",
               "inLanguage": "ja", "offers": {"@type": "Offer", "price": 0, "priceCurrency": "JPY"}, "publisher": PUBLISHER}, faq_ld(faq)]
     return write(path, f'{x["title"]} | {NAME}', x["desc"], body, graph, trail=[(x["crumb"], url)], current="/" + path, wide=True)
+
+
+# ---------------- 看板ツール（設定の tool） ----------------
+TOOL_CSS = """
+.tl-pick{display:grid;gap:8px;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));margin:12px 0}.tl-pick a{display:flex;align-items:center;min-height:52px;font-size:15px;font-weight:700;line-height:1.5;color:var(--text);text-decoration:none;background:var(--paper);border:2px solid var(--line);border-radius:14px;padding:10px 14px}
+.tl-pick a:hover{border-color:var(--accent);color:var(--accent)}.tl-pick a[aria-current]{border-color:var(--accent);background:var(--soft);color:var(--accent)}
+.tl-item{margin:28px 0 0;scroll-margin-top:72px}.tl-item h3{font-size:20px;margin:0 0 6px;outline:none}.tl-item>p{margin:6px 0 12px;color:var(--sub);font-size:15px}
+.tl-sys{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin:10px 0}.tl-sys .tl-n{font-size:17px;font-weight:800;line-height:1.5;margin:0}.tl-sys .tl-who{display:inline-block;font-size:12px;font-weight:700;color:var(--accent);background:var(--soft);border-radius:999px;padding:1px 10px;margin:4px 0 0}
+.tl-sys p{font-size:15px;margin:6px 0 0;line-height:1.75}.tl-sys .tl-w{color:var(--sub)}.tl-sys .tl-w b{font-size:12px;color:var(--muted);margin-right:6px}.tl-sys .tl-l a{display:inline-block;padding:4px 0;margin-right:12px}
+.tl-end{font-size:14px;color:var(--sub);background:var(--note);border-radius:12px;padding:10px 14px;margin:12px 0 0}.tl-end a{font-weight:700}"""
+
+TOOL_JS = r"""(function(){'use strict';
+var L=[].slice.call(document.querySelectorAll('.tl-item')),P=[].slice.call(document.querySelectorAll('.tl-pick a'));if(!L.length)return;
+function apply(){var h=decodeURIComponent(location.hash.slice(1)),hit=null;L.forEach(function(s){if(s.id===h)hit=s});
+L.forEach(function(s){s.hidden=!!hit&&s!==hit});
+P.forEach(function(a){if(hit&&a.getAttribute('href')==='#'+h)a.setAttribute('aria-current','true');else a.removeAttribute('aria-current')});
+var all=document.getElementById('tl-all');if(all)all.hidden=!hit;
+if(hit){var t=hit.querySelector('h3');hit.scrollIntoView();if(t){t.setAttribute('tabindex','-1');try{t.focus({preventScroll:true})}catch(e){}}}}
+window.addEventListener('hashchange',apply);apply()})();"""
+
+
+def tool_lessons():
+    return {l["id"]: l for _, l in LESSONS}
+
+
+def check_tool(errs):
+    lids, ids = tool_lessons(), set()
+    if len(CFG["tool"].get("desc", "")) > 120: errs.append(f'設定 tool.desc が{len(CFG["tool"]["desc"])}字（120字まで）')
+    for k in ("path", "title", "h1", "kicker", "navLabel", "desc", "lead", "note", "data"):
+        if not CFG["tool"].get(k): errs.append(f"設定 tool.{k} が無い")
+    if not TOOL.get("items"): errs.append("ツールのデータに items が無い")
+    for it in TOOL.get("items", []):
+        tag = f'ツール {it.get("id")}'
+        if it.get("id") in ids: errs.append(f"{tag} id重複")
+        ids.add(it.get("id"))
+        if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", it.get("id", "")): errs.append(f"{tag} id は英小文字・数字・ハイフン")
+        if not it.get("label"): errs.append(f"{tag} label が空")
+        if not 1 <= len(it.get("systems", [])) <= 5: errs.append(f"{tag} systems は1〜5個")
+        for x in it.get("systems", []):
+            for k in ("name", "desc", "window", "lessons"):
+                if not x.get(k): errs.append(f'{tag} {x.get("name")} の {k} が空')
+            for lid in x.get("lessons", []):
+                if lid not in lids: errs.append(f'{tag} {x.get("name")} のレッスンidが講座に存在しない: {lid}')
+        txt = json.dumps(it, ensure_ascii=False)
+        if re.search(r"[0-9０-９][0-9０-９,，.万千]*\s*(円|%|％)", txt): errs.append(f"{tag} 金額・割合（円・%）を書いている。毎年変わるためレッスンに任せる")
+
+
+def tool_home():
+    """トップに置く看板ツールの案内（設定の tool が無ければ何も出さない）"""
+    x = CFG.get("tool")
+    if not x:
+        return ""
+    return (f'\n<a class="card" href="/{x["path"]}" style="border:2px solid var(--accent);margin:0 0 8px"><small>{E(x["kicker"])}</small>'
+            f'<b>{E(x["title"])}</b><span>{E(x["desc"])}</span></a>')
+
+
+def tool_page():
+    """看板ツール（設定の tool）。JSなしでも全項目を本文として読め、tool.js は選んだ項目だけに絞り込む。"""
+    x = CFG["tool"]
+    url = f'{URL}{x["path"]}'
+    lmap = tool_lessons()
+    pick = "".join(f'<a href="#{it["id"]}">{E(it["label"])}</a>' for it in TOOL["items"])
+    end = ('<p class="tl-end">ここに出ているのは「確かめたい制度」です。使えるかどうかは、最終的には窓口で確認してください。'
+           '迷ったら<a href="#unsure">自立相談支援機関</a>に、困りごとをそのまま話してみてください。 <a href="#pick">ほかの困りごとを選ぶ</a></p>')
+    if not any(it["id"] == "unsure" for it in TOOL["items"]):
+        end = end.replace('<a href="#unsure">自立相談支援機関</a>', "自立相談支援機関")
+    items = ""
+    for it in TOOL["items"]:
+        syss = ""
+        for s in it["systems"]:
+            ls = " ".join(f'<a href="{lurl(lmap[i]).replace(URL, "/")}">レッスン{lesson_no(lmap[i])} {E(lmap[i]["short"])}</a>' for i in s["lessons"])
+            syss += (f'<div class="tl-sys"><p class="tl-n">{E(s["name"])}</p>' + (f'<span class="tl-who">{E(s["who"])}</span>' if s.get("who") else "")
+                     + f'<p>{E(s["desc"])}</p><p class="tl-w"><b>主な窓口</b>{E(s["window"])}</p><p class="tl-l">{ls}</p></div>')
+        items += (f'<section class="tl-item" id="{it["id"]}"><h3>{E(it["label"])}</h3>' + (f'<p>{E(it["lead"])}</p>' if it.get("lead") else "")
+                  + f'{syss}{end}</section>')
+    care = CFG.get("careHtml", "")
+    body = f'''<span class="kicker">{E(x["kicker"])}</span>
+<h1>{E(x["h1"])}</h1>
+<p class="updated">{len(TOOL["items"])}の困りごと ・ 登録不要 ・ 更新日 {TOOL.get("date", UPDATED)}</p>
+<p class="lead">{E(x["lead"])}</p>
+<div class="box note"><p style="margin:0">{E(x["note"])}</p></div>
+<h2 id="pick"><span class="n">01</span>困りごとを選ぶ</h2>
+<p class="answer">いちばん近いものを1つ選んでください。あてはまるものが複数あるときは、1つずつ見られます。</p>
+<div class="tl-pick">{pick}</div>
+<h2><span class="n">02</span>困りごと別の、確かめたい制度</h2>
+<p class="answer">制度の名前、ひとことの説明、主な窓口、くわしく学べるレッスンの順に並べています。金額や条件は年度で変わるため、レッスンと窓口で確かめてください。</p>
+<p id="tl-all" hidden><a href="#pick">すべての困りごとを表示する</a></p>
+{items}
+<h2><span class="n">03</span>このページについて</h2>
+<p class="answer">説明文は、この講座のレッスン（執筆と監査を分けて確かめたもの）の内容だけから作っています。出典は各レッスンの末尾にあります。</p>
+<p>受け取れるかどうかの判定や、金額の計算はしていません。制度の条件や金額は年度ごとに変わり、自治体によって扱いが違う場合もあります。困ったときは、条件を満たすかわからない段階でも、窓口に相談できます。</p>
+{care}
+<script src="/tool.js" defer></script>'''
+    graph = [{"@type": "WebApplication", "name": x["title"], "url": url, "description": x["desc"], "applicationCategory": "ReferenceApplication",
+              "operatingSystem": "Web", "inLanguage": "ja", "offers": {"@type": "Offer", "price": 0, "priceCurrency": "JPY"},
+              "isPartOf": {"@type": "WebSite", "name": NAME, "url": URL}, "publisher": PUBLISHER, "dateModified": TOOL.get("date", UPDATED)}]
+    global CSS
+    base = CSS
+    CSS = base + TOOL_CSS  # ツールのCSSはこのページだけに足す
+    try:
+        return write(x["path"], f'{x["title"]} | {NAME}', x["desc"], body, graph, trail=[(x["title"], url)], current="/" + x["path"])
+    finally:
+        CSS = base
 
 
 def mock_n():
@@ -1102,7 +1217,7 @@ def home():
 <p class="lead">{E(CFG["lead"])}</p>
 <p class="stats"><span><b>{N_CH}</b>章の無料講座</span><span><b>{N_LESSONS}</b>レッスン公開中</span><span><b>{len(TERMS)}</b>語の用語辞典</span><span>登録不要</span></p>
 {RESUME}
-<div class="btns">{f'<a class="btn" href="/course/{first["id"]}/">講座を第1章から始める</a>' if first else ''}{f'<a class="btn" href="/quiz/">{E(quiz_name())}で遊ぶ（{len(quiz_items())}問）</a>' if has_quiz() else ''}<a class="btn sub" href="/glossary/">{gname}を見る</a></div>
+<div class="btns">{f'<a class="btn" href="/course/{first["id"]}/">講座を第1章から始める</a>' if first else ''}{f'<a class="btn" href="/quiz/">{E(quiz_name())}で遊ぶ（{len(quiz_items())}問）</a>' if has_quiz() else ''}<a class="btn sub" href="/glossary/">{gname}を見る</a></div>{tool_home()}
 <h2><span class="n">01</span>無料講座「{E(COURSE["title"])}」</h2>
 <p class="answer">{T("homeCourseAnswer")}</p>
 <div class="grid">{chapter_list()}</div>
@@ -1157,11 +1272,14 @@ def extras(urls):
     (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\n{bots}Sitemap: {URL}sitemap.xml\n# AI向けの案内: {URL}llms.txt\n")
     (OUT / f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
     (OUT / "study.js").write_text(STUDY_JS)
+    if CFG.get("tool"):
+        (OUT / "tool.js").write_text(TOOL_JS)
     sm = "".join(f"  <url>\n    <loc>{u}</loc>\n    <lastmod>{UPDATED}</lastmod>\n  </url>\n" for u in urls)
     (OUT / "sitemap.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{sm}</urlset>\n')
     lines = [f"# {NAME}", "", f"> {CFG['description']}", ""] + [fmt(x) for x in CFG["llmsIntro"]] + ["",
              "## 主要ページ", "", f"- トップ: {URL}", f"- 無料講座「{COURSE['title']}」: {CURL}",
              f"- {fmt(CFG['glossaryName'])}: {URL}glossary/",
+             *([f"- {CFG['tool']['title']}: {URL}{CFG['tool']['path']}（{CFG['tool']['desc']}）"] if CFG.get("tool") else []),
              f"- このサイトについて: {URL}about/", f"- 出典と検証の方法: {URL}sources/", "",
              "## 講座の目次", ""]
     for c in COURSE["chapters"]:
@@ -1193,6 +1311,8 @@ def build():
         urls.append(mock_exam())
     if CFG.get("exam"):
         urls.append(exam_corner())
+    if CFG.get("tool"):
+        urls.append(tool_page())
     urls += [glossary()] + [term_page(t) for t in TERMS if rich(t)]
     urls += trust_pages()
     if has_quiz():

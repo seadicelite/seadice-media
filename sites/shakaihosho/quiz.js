@@ -51,7 +51,11 @@ if(st.missed.length){c.appendChild(el('p','g-sub','間違えた問題は「苦�
 st.missed.forEach(function(q){if(seen[q.h])return;seen[q.h]=1;var li=el('li'),a=el('a','','レッスン'+q.n);a.href=q.h;li.appendChild(a);ul.appendChild(li)});c.appendChild(ul)}
 else c.appendChild(el('p','g-sub','全問正解です。この調子で、ほかのモードにも挑戦してみましょう。'));
 var bs=el('div','btns'),again=el('button','btn','もう一度'),back=el('button','btn sub','メニューへ');again.type=back.type='button';
-var md=st.mode,ch=st.key.slice(2);again.onclick=function(){start(md,ch)};back.onclick=menu;bs.appendChild(again);bs.appendChild(back);c.appendChild(bs);P.appendChild(c);again.focus({preventScroll:true})}
+var nm=G.dataset.name,ml={ten:'10問チャレンジ',surv:'サバイバル',weak:'苦手をつぶす',ch:'第'+(st.qs[0]?D.ch[st.qs[0].c][0]:'')+'章'}[st.mode],
+tx=nm+'の'+ml+'で'+(surv?st.ok+'問正解':n+'問中'+st.ok+'問正解')+'。称号は「'+r+'」でした。',u=location.origin+'/quiz/',sh=el('div','btns g-share');
+if(navigator.share){var sb=el('button','btn sub','結果をシェア');sb.type='button';sb.onclick=function(){navigator.share({text:tx,url:u}).catch(function(){})};sh.appendChild(sb)}
+var xa=el('a','btn sub','Xに投稿');xa.href='https://twitter.com/intent/tweet?text='+encodeURIComponent(tx)+'&url='+encodeURIComponent(u);xa.target='_blank';xa.rel='noopener';sh.appendChild(xa);
+var md=st.mode,ch=st.key.slice(2);again.onclick=function(){start(md,ch)};back.onclick=menu;bs.appendChild(again);bs.appendChild(back);c.appendChild(bs);c.appendChild(sh);P.appendChild(c);again.focus({preventScroll:true})}
 document.addEventListener('keydown',function(e){if(!st||P.hidden||!st.cur||st.cur.done)return;var k=+e.key;if(k>=1&&k<=st.cur.o.length){e.preventDefault();answer(st.cur.q,st.cur.o,k-1,st.cur.bs)}});
 G.querySelectorAll('[data-mode]').forEach(function(b){b.onclick=function(){start(b.dataset.mode)}});
 G.querySelectorAll('[data-ch]').forEach(function(b){b.onclick=function(){start('ch',b.dataset.ch)}});

@@ -11,6 +11,7 @@
 - トップ: https://shakaihosho.seadice.win/
 - 無料講座「ゼロから学ぶ社会保障入門」: https://shakaihosho.seadice.win/course/
 - 社会保障用語辞典: https://shakaihosho.seadice.win/glossary/
+- 困りごとから制度を探す: https://shakaihosho.seadice.win/sagasu/（生活費、家賃、失業、病気、労災、子育て、障害、保険料、家族の死亡、介護など、困りごとを選ぶと、確かめたい制度と主な窓口、学べるレッスンがわかります。登録不要・無料。）
 - このサイトについて: https://shakaihosho.seadice.win/about/
 - 出典と検証の方法: https://shakaihosho.seadice.win/sources/
 
@@ -71,6 +72,7 @@
 - ゼロから学ぶ心理学: https://shinri.seadice.win/
 - ゼロから学ぶ貿易実務: https://boueki.seadice.win/
 - ゼロから学ぶ犯罪学: https://hanzaigaku.seadice.win/
+- ゼロから学ぶ保育士: https://hoikushi.seadice.win/
 
 ## 運営
 
