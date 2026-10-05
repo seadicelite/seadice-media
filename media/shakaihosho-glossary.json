@@ -672,5 +672,169 @@
    }
   ],
   "date": "2026-10-05"
+ },
+ {
+  "id": "seizonken",
+  "term": "生存権",
+  "en": "Right to life (Article 25)",
+  "field": "基本",
+  "def": "生存権とは、日本国憲法第25条第1項が定める、すべての国民が健康で文化的な最低限度の生活を営む権利のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「日本国憲法」",
+    "url": "https://laws.e-gov.go.jp/law/321CONSTITUTION"
+   }
+  ]
+ },
+ {
+  "id": "shakaihosho-shingikai",
+  "term": "社会保障制度審議会",
+  "en": "Advisory Council on Social Security",
+  "field": "基本",
+  "def": "社会保障制度審議会とは、社会保障制度審議会設置法にもとづいて置かれ、1950年に「社会保障制度に関する勧告」を政府に出した審議会のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "社会保障制度審議会「社会保障制度に関する勧告」（1950年）",
+    "url": "https://www.ipss.go.jp/publication/j/shiryou/no.13/data/shiryou/syakaifukushi/1.pdf"
+   }
+  ]
+ },
+ {
+  "id": "shakai-hoken-hoshiki",
+  "term": "社会保険方式",
+  "en": "Social insurance system",
+  "field": "基本",
+  "def": "社会保険方式とは、加入者や事業主があらかじめ保険料を出し合い、病気やけが、失業などのできごとに遭った人にお金やサービスを支給する社会保障のしくみのことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "zei-hoshiki",
+  "term": "税方式",
+  "en": "Tax-financed system",
+  "field": "基本",
+  "def": "税方式とは、保険料ではなくおもに税を財源にして、国や地方公共団体が現金やサービスを提供する社会保障のしくみのことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shiryoku-chosa",
+  "term": "資力調査（ミーンズテスト）",
+  "en": "Means test",
+  "field": "基本",
+  "def": "資力調査とは、給付を行う前に、預貯金や不動産などの資産や収入の状況を確かめる調査のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "saitei",
+  "term": "裁定",
+  "en": "Adjudication of pension rights",
+  "field": "年金",
+  "def": "裁定とは、年金などの給付を受ける権利を持つ人の請求にもとづいて、厚生労働大臣がその権利を確認し決定する手続きのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「国民年金法」第16条",
+    "url": "https://laws.e-gov.go.jp/law/334AC0000000141"
+   }
+  ]
+ },
+ {
+  "id": "kihon-genri",
+  "term": "生活保護の基本原理",
+  "en": "Basic principles of public assistance",
+  "field": "お金と生活",
+  "def": "生活保護の基本原理とは、生活保護法の第1条から第4条に定められた、国家責任・無差別平等・最低生活・保護の補足性の4つの原理で、法律の解釈と運用はすべてこれにもとづいて行われるもののことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "seigyo-fujo",
+  "term": "生業扶助",
+  "en": "Occupational assistance",
+  "field": "お金と生活",
+  "def": "生業扶助とは、生活保護の8種類の扶助のうち、就労に必要な技能の修得など仕事に関わる費用（高等学校等に就学するための費用を含む）に対応するもののことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kyoiku-fujo",
+  "term": "教育扶助",
+  "en": "Educational assistance",
+  "field": "お金と生活",
+  "def": "教育扶助とは、生活保護の8種類の扶助のうち、義務教育を受けるために必要な学用品費などに対応するもののことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "fuyo-shokai",
+  "term": "扶養照会",
+  "en": "Inquiry to family members about support",
+  "field": "お金と生活",
+  "def": "扶養照会とは、生活保護の申請があったときに、福祉事務所が親族などの扶養義務者に、仕送りなどの援助ができるかどうかを直接たずねる照会のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kakei-kaizen",
+  "term": "家計改善支援事業",
+  "en": "Household finance improvement support",
+  "field": "お金と生活",
+  "def": "家計改善支援事業とは、生活困窮者自立支援制度の事業の一つで、家計の状況を一緒に見える化し、相談者が自分で家計を管理できるように立て直しを支援する事業のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「生活困窮者自立支援制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+   },
+   {
+    "text": "e-Gov法令検索「生活困窮者自立支援法」",
+    "url": "https://laws.e-gov.go.jp/law/425AC0000000105"
+   }
+  ]
+ },
+ {
+  "id": "shuro-junbi",
+  "term": "就労準備支援事業",
+  "en": "Employment preparation support",
+  "field": "仕事",
+  "def": "就労準備支援事業とは、生活困窮者自立支援制度の事業の一つで、すぐに働くことが難しい人に、原則1年の間、プログラムにそって一般就労に向けた基礎的な力を養う支援を行う事業のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「生活困窮者自立支援制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+   }
+  ]
+ },
+ {
+  "id": "kyoju-shien",
+  "term": "居住支援事業",
+  "en": "Housing support program",
+  "field": "住まい",
+  "def": "居住支援事業とは、生活困窮者自立支援制度の事業の一つで、住まいのない人などに一定期間、宿泊場所や衣食を提供し、退所後の生活に向けた支援も行う事業のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「生活困窮者自立支援制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+   },
+   {
+    "text": "厚生労働省「制度の沿革」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000073432.html"
+   }
+  ]
+ },
+ {
+  "id": "sogo-shien-shikin",
+  "term": "総合支援資金",
+  "en": "Comprehensive support fund",
+  "field": "お金と生活",
+  "def": "総合支援資金とは、生活福祉資金貸付制度の資金の一つで、生活を立て直すまでの生活費や、住まいの賃貸契約に必要な費用などを貸し付けるもののことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shakyo",
+  "term": "社会福祉協議会",
+  "en": "Council of social welfare",
+  "field": "お金と生活",
+  "def": "社会福祉協議会とは、地域福祉の推進を目的として社会福祉法に定められた団体で、都道府県や市区町村の区域で活動し、生活福祉資金貸付制度の窓口にもなっている団体のことです。",
+  "date": "2026-10-05"
  }
 ]

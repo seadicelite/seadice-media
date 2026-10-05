@@ -1,0 +1,703 @@
+{
+ "what-is-social-security": {
+  "audit": {
+   "date": "2026-10-05",
+   "checked": 13,
+   "fixed": [
+    "「表の制度は第2章以降で1つずつ学ぶ」を「表の制度の多くは第2章以降で学ぶ」に修正（保育所は講座の章立て（media/shakaihosho-course.json）に独立したレッスンが無いため）"
+   ],
+   "unverified_removed": []
+  },
+  "claims": [
+   {
+    "text": "憲法第25条第1項「すべて国民は、健康で文化的な最低限度の生活を営む権利を有する」",
+    "source_url": "https://laws.e-gov.go.jp/law/321CONSTITUTION",
+    "quote": "すべて国民は、健康で文化的な最低限度の生活を営む権利を有する。"
+   },
+   {
+    "text": "第25条第2項は国に社会福祉、社会保障、公衆衛生の向上と増進に努めるよう求めている",
+    "source_url": "https://laws.e-gov.go.jp/law/321CONSTITUTION",
+    "quote": "国は、すべての生活部面について、社会福祉、社会保障及び公衆衛生の向上及び増進に努めなければならない。"
+   },
+   {
+    "text": "社会保障は暮らしを脅かす出来事に備え、生活を生涯にわたって支える公的なしくみ／厚労省はセーフティネットと説明",
+    "source_url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf",
+    "quote": "社会保障制度は、国民の「安心」や生活の「安定」を支えるセーフティネット。…人々の生活を生涯にわたって支えるものである。"
+   },
+   {
+    "text": "病気やけが、失業、老いなどが暮らしを脅かす出来事として挙げられる",
+    "source_url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf",
+    "quote": "病気、けが、出産、死亡、老齢、障害、失業など生活の困難をもたらすいろいろな事故"
+   },
+   {
+    "text": "医療保険が医療費を支えている",
+    "source_url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf",
+    "quote": "医療保険（医療費保障）／病気やけがをした場合に誰もが安心して医療にかかることのできる医療保険"
+   },
+   {
+    "text": "1950年（昭和25年）10月、社会保障制度審議会が「社会保障制度に関する勧告」を政府に出した",
+    "source_url": "https://www.ipss.go.jp/publication/j/shiryou/no.13/data/shiryou/syakaifukushi/1.pdf",
+    "quote": "社会保障制度に関する勧告 昭和25年10月16日 社会保障制度審議会 … 政府が直ちに社会保障制度の企画，立法を行うよう…勧告する。"
+   },
+   {
+    "text": "勧告は憲法第25条の理念に答えるため、統一ある社会保障制度を早く確立すべきとした",
+    "source_url": "https://www.ipss.go.jp/publication/j/shiryou/no.13/data/shiryou/syakaifukushi/1.pdf",
+    "quote": "この憲法の理念と，この社会的事実の要請に答えるためには，1日も早く統一ある社会保障制度を確立しなくてはならぬと考える。"
+   },
+   {
+    "text": "勧告の定義: 困窮の原因に対し保険や公費で経済保障、困窮者には最低限度の生活を保障",
+    "source_url": "https://www.ipss.go.jp/publication/j/shiryou/no.13/data/shiryou/syakaifukushi/1.pdf",
+    "quote": "疾病，負傷，分娩，廃疾，死亡，老齢，失業，多子その他困窮の原因に対し，保険的方法又は直接公の負担において経済保障の途を講じ，生活困窮に陥った者に対しては，国家扶助によって最低限度の生活を保障する"
+   },
+   {
+    "text": "表: 場面ごとの主な制度（生活保護・雇用保険・医療保険・労災保険・児童手当・児童扶養手当・保育所・障害年金・障害者福祉・老齢年金・遺族年金・介護保険）",
+    "source_url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf",
+    "quote": "国民生活を生涯にわたって支える社会保障制度 … 保育所 … 児童手当 児童扶養手当 … 障害（児）者福祉 … 遺族年金 障害年金 老齢年金 生活保護 … 労災保険 雇用保険 働いて事故にあった時、失業した時など … 介護保険"
+   },
+   {
+    "text": "厚労省は生活の困りごとや不安があればまず地域の相談窓口に相談するよう呼びかけている",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html",
+    "quote": "生活に困りごとや不安を抱えている場合は、まずは地域の相談窓口にご相談ください。"
+   },
+   {
+    "text": "社会保障制度審議会は社会保障制度審議会設置法にもとづく（用語辞典の定義）",
+    "source_url": "https://www.ipss.go.jp/publication/j/shiryou/no.13/data/shiryou/syakaifukushi/1.pdf",
+    "quote": "社会保障制度審議会設置法第2条第1項の規定により，別紙のとおり勧告する。"
+   }
+  ]
+ },
+ "four-pillars": {
+  "audit": {
+   "date": "2026-10-05",
+   "checked": 19,
+   "fixed": [
+    "給与天引きの説明に「原則として」を追加（白書は「労使折半」を原則として説明しており、健保組合などで事業主負担割合が異なる場合があるため）",
+    "表の社会保険「使うときの確認」を「加入して保険料を納めていること」から「原則として加入と保険料の納付が前提（労災保険の保険料は事業主が全額負担）」に修正。労災保険は労働者が保険料を納めない制度で、元の表現では労災も本人の納付が条件と誤読されるため。免除制度にも触れている本文と整合させた",
+    "表の保健医療・公衆衛生の例を、本文と白書の記載に合わせて「がん検診、乳幼児の健康診査、感染症対策、食中毒の原因調査」に統一（母子保健・健康診断の書き方の揺れを解消）",
+    "claims に労災保険料の事業主全額負担の根拠を追加"
+   ],
+   "unverified_removed": []
+  },
+  "claims": [
+   {
+    "text": "社会保険は、病気や失業などに備えて加入者があらかじめ保険料を出し合い、実際にそうなった人にお金やサービスを支給するしくみ",
+    "source_url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf",
+    "quote": "人々が集まって集団（保険集団）をつくり、あらかじめお金（保険料）を出し合い、それらの保険事故にあった人に必要なお金やサービスを支給する仕組み"
+   },
+   {
+    "text": "会社員の健康保険・厚生年金の保険料は、半分を勤め先が負担し、残り半分を給与から天引き",
+    "source_url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf",
+    "quote": "半分を勤務先が負担し、残りの半分については本人の給与等から天引きすることによって徴収されている"
+   },
+   {
+    "text": "社会保険は法律で加入が決められている（強制加入）",
+    "source_url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf",
+    "quote": "公的な社会保険制度では、法律等によって国民に加入が義務付けられる"
+   },
+   {
+    "text": "社会保険の財源は保険料が中心で、国の負担金なども入る",
+    "source_url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf",
+    "quote": "社会保険の財源は保険料が中心である。…保険料以外にも国庫負担金等がある"
+   },
+   {
+    "text": "所得の低い人の保険料を軽減・免除するしくみがある",
+    "source_url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf",
+    "quote": "低所得者を対象に保険料を軽減・免除するために国や地方公共団体も費用の一部を負担している"
+   },
+   {
+    "text": "公的扶助（生活保護）と社会福祉は、保険料ではなく税を財源とする",
+    "source_url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf",
+    "quote": "税方式とは，保険料ではなく専ら租税を財源にして給付を行う仕組み…その典型は、公的扶助としての生活保護制度であるが、その他に、児童福祉、障害者福祉といった社会福祉制度も含まれる"
+   },
+   {
+    "text": "生活保護は、預貯金・働く力・他の制度の給付など、使えるものをすべて使っても生活できないときに支える",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html",
+    "quote": "世帯員全員が、その利用し得る資産、能力その他あらゆるものを、その最低限度の生活の維持のために活用することが前提"
+   },
+   {
+    "text": "生活保護を申請すると、預貯金・保険・不動産などの資産調査や収入の調査がある",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html",
+    "quote": "預貯金、保険、不動産等の資産調査 … 年金等の社会保障給付、就労収入等の調査"
+   },
+   {
+    "text": "資産や収入を確かめることを資力調査（ミーンズテスト）と呼ぶ",
+    "source_url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf",
+    "quote": "原則として所得制限や資力調査（ミーンズテスト）は行われない"
+   },
+   {
+    "text": "社会福祉は保育所での保育や障害のある人への在宅・施設サービスなど。対象者を決めて制度化されている",
+    "source_url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf",
+    "quote": "高齢者、児童、障害者、母子家庭というように対象者が特定された上で個別に制度化されている…身近なところでは、保育所での保育が挙げられる"
+   },
+   {
+    "text": "子ども・障害のある人への福祉サービスは、経済的困難がなくても必要な人に届くよう、原則として所得制限や資力調査をしない",
+    "source_url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf",
+    "quote": "子ども、障害者等への福祉サービスの提供については、経済的困難がなくても…原則として所得制限や資力調査（ミーンズテスト）は行われない"
+   },
+   {
+    "text": "保健医療・公衆衛生には、医療サービスの提供、健康づくり、母子保健、食品・医薬品の安全、感染症への対応が入る",
+    "source_url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf",
+    "quote": "医療サービス／疾病予防、健康づくりなどの保健事業／母子保健／食品や医薬品の安全性の確保、感染症対応のための公衆衛生"
+   },
+   {
+    "text": "保健所・市町村保健センターが、がん検診、乳幼児の健康診査、保健師の健康相談などを行う",
+    "source_url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf",
+    "quote": "がん等の生活習慣病の検診、妊産婦・乳幼児に対する健康診査や保健指導…保健師による健康相談"
+   },
+   {
+    "text": "保健所は食中毒の原因調査を行う",
+    "source_url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf",
+    "quote": "保健所では、快適な生活環境を確保するため、食中毒の原因調査や予防対策"
+   },
+   {
+    "text": "厚生労働省の白書は、社会福祉を社会保険と公的扶助の中間とみる見方を紹介している",
+    "source_url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf",
+    "quote": "社会福祉は、公的扶助と社会保険の中間に位置づけられるともいわれる制度である"
+   },
+   {
+    "text": "社会保険には医療保険・年金・介護保険・雇用保険・労災保険がある",
+    "source_url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf",
+    "quote": "「医療保険」、…「年金保険」、…「労働保険」（労災保険・雇用保険）、…「介護保険」がある"
+   },
+   {
+    "text": "社会保険の給付は加入と保険料の納付が前提",
+    "source_url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf",
+    "quote": "社会保険の加入対象でない者や保険料を納付しない者は、給付による保障を受けられない"
+   },
+   {
+    "text": "公的扶助は最低限度の生活を保障する",
+    "source_url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf",
+    "quote": "生活に困窮する国民に対して、最低限度の生活を保障し、自立を助けようとする制度"
+   },
+   {
+    "text": "労災保険の保険料は全額事業主負担",
+    "source_url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf",
+    "quote": "労災保険制度は、労働基準法で定める事業主の災害補償責任を担保するための保険制度であることから、保険料は全額事業主負担とされている。"
+   }
+  ]
+ },
+ "application-principle": {
+  "audit": {
+   "date": "2026-10-05",
+   "checked": 13,
+   "fixed": [
+    "国民年金法第16条の説明を条文どおりに修正（「年金を受ける権利…国が決める」→「給付を受ける権利…厚生労働大臣が決める」）。表の国民年金の行も「厚生労働大臣の裁定」に",
+    "児童手当の請求先に公務員の特例（児童手当法第17条。勤務先で手続き）を追記。本文の「市区町村に別に請求」は公務員の家庭には当てはまらないため",
+    "セクション3の結論文を「支援から漏れやすくなります」から「使えるはずの支援に届きにくくなります」に和らげた（漏給の割合を示すものではないという厚労省の注記と整合させ、断定を避けるため）",
+    "「別の調査」を「2004年の全国消費実態調査」と特定し、時点を明記"
+   ],
+   "unverified_removed": []
+  },
+  "claims": [
+   {
+    "text": "生活保護法第7条の見出しは「申請保護の原則」で、保護は要保護者・扶養義務者・同居の親族の申請にもとづいて開始する",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "（申請保護の原則）第七条　保護は、要保護者、その扶養義務者又はその他の同居の親族の申請に基いて開始するものとする。"
+   },
+   {
+    "text": "急迫した状況にあるときは、申請がなくても必要な保護を行うことができる",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "但し、要保護者が急迫した状況にあるときは、保護の申請がなくても、必要な保護を行うことができる。"
+   },
+   {
+    "text": "国民年金法第16条: 給付を受ける権利は受給権者の請求にもとづいて厚生労働大臣が裁定する",
+    "source_url": "https://laws.e-gov.go.jp/law/334AC0000000141",
+    "quote": "第十六条　給付を受ける権利は、その権利を有する者（以下「受給権者」という。）の請求に基いて、厚生労働大臣が裁定する。"
+   },
+   {
+    "text": "児童手当は市区町村長の認定を受ける必要がある（請求の手続き）",
+    "source_url": "https://laws.e-gov.go.jp/law/346AC0000000073",
+    "quote": "第七条　…児童手当の支給を受けようとするときは、その受給資格及び児童手当の額について、…住所地の…市町村長…の認定を受けなければならない。"
+   },
+   {
+    "text": "児童手当は、原則として請求した月の翌月分から支給される",
+    "source_url": "https://laws.e-gov.go.jp/law/346AC0000000073",
+    "quote": "第八条２　児童手当の支給は、受給資格者が前条の規定による認定の請求をした日の属する月の翌月から始め…"
+   },
+   {
+    "text": "「申請主義」という語は法律の条文上の用語ではない（一般的な呼び方）",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "（生活保護法・国民年金法・児童手当法の本文に「申請主義」の語は無い。e-Gov APIで全文を取得し確認）"
+   },
+   {
+    "text": "厚生労働省は2010年に生活保護基準未満の低所得世帯数の推計を公表した",
+    "source_url": "https://www.mhlw.go.jp/stf/houdou/2r98520000005olm-img/2r98520000005oof.pdf",
+    "quote": "生活保護基準未満の低所得世帯数の推計について 平成２２年４月９日 厚生労働省社会・援護局保護課"
+   },
+   {
+    "text": "2007年（平成19年）国民生活基礎調査をもとにした推計で、保護世帯比は所得のみ15.3%、資産（貯蓄）を考慮すると32.1%",
+    "source_url": "https://www.mhlw.go.jp/stf/houdou/2r98520000005olm-img/2r98520000005oof.pdf",
+    "quote": "H19国民生活基礎調査 … １２．４ ４．８ １５．３ ３２．１（低所得世帯率 所得のみ/資産を考慮、保護世帯比 所得のみ/資産を考慮）"
+   },
+   {
+    "text": "貯蓄も考える＝資産を考慮（貯蓄現在高が最低生活費1か月未満の世帯）",
+    "source_url": "https://www.mhlw.go.jp/stf/houdou/2r98520000005olm-img/2r98520000005oof.pdf",
+    "quote": "ウの生活保護基準未満の世帯のうち、貯蓄現在高が最低生活費の１ヶ月未満（保護開始時の要否判定基準）の世帯数を…カウント"
+   },
+   {
+    "text": "推計には限界があり、漏給の割合を表すものではないと厚生労働省が注記している",
+    "source_url": "https://www.mhlw.go.jp/stf/houdou/2r98520000005olm-img/2r98520000005oof.pdf",
+    "quote": "統計データからは…資産の評価額（換金可能額）は把握できず、推計には限界がある。…申請の意思がありながら生活保護の受給から漏れている要保護世帯（いわゆる漏給）の割合を表すものではない"
+   },
+   {
+    "text": "2004年（平成16年）全国消費実態調査をもとにした推計では、保護世帯比がより高い値（所得のみ29.6%・23.8%、資産を考慮87.4%・75.8%）も出ている",
+    "source_url": "https://www.mhlw.go.jp/stf/houdou/2r98520000005olm-img/2r98520000005oof.pdf",
+    "quote": "H16全国消費実態調査 最低生活費１ … ２９．６ ８７．４ / 最低生活費２ … ２３．８ ７５．８"
+   },
+   {
+    "text": "公務員である受給資格者は、児童手当の認定を市町村長ではなく所属庁の長等から受ける（読み替え）",
+    "source_url": "https://laws.e-gov.go.jp/law/346AC0000000073",
+    "quote": "（公務員に関する特例）第十七条　次の表の上欄に掲げる者（以下「公務員」という。）である一般受給資格者についてこの章の規定を適用する場合においては、第七条第一項中「…市町村長…」とあり…同表の下欄のように読み替える"
+   }
+  ]
+ },
+ "what-is-seikatsu-hogo": {
+  "audit": {
+   "date": "2026-10-05",
+   "checked": 21,
+   "fixed": [
+    "第3節: 働いている人の受給について、出典（厚生労働省Q&A Q9）の説明であることを明記し、個別の受給を断定しない形にした",
+    "第3節: 相談・申請窓口として、福祉事務所のない町村では町村役場でも申請できる旨を追記（厚生労働省「生活保護制度」で確認）"
+   ],
+   "unverified_removed": []
+  },
+  "claims": [
+   {
+    "text": "第1条: 憲法25条の理念にもとづき、国が生活に困窮するすべての国民に、困窮の程度に応じ必要な保護を行い、最低限度の生活を保障し、自立を助長する",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "日本国憲法第二十五条に規定する理念に基き、国が生活に困窮するすべての国民に対し、その困窮の程度に応じ、必要な保護を行い、その最低限度の生活を保障するとともに、その自立を助長することを目的とする。"
+   },
+   {
+    "text": "自立には就労による経済的自立だけでなく、社会的なつながりの回復なども含まれる",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsuhogopage.html",
+    "quote": "「自立」とは、就労による経済的自立のみならず、…社会的なつながりを回復・維持するなど社会生活における自立が含まれます。"
+   },
+   {
+    "text": "保護の種類は8種類で、必要に応じ単給又は併給として行われる（第11条）",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "保護の種類は、次のとおりとする。一 生活扶助 二 教育扶助 三 住宅扶助 四 医療扶助 五 介護扶助 六 出産扶助 七 生業扶助 八 葬祭扶助 2 前項各号の扶助は、要保護者の必要に応じ、単給又は併給として行われる。"
+   },
+   {
+    "text": "支給される保護費は地域や世帯の状況によって異なる",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html",
+    "quote": "（支給される保護費は、地域や世帯の状況によって異なります。）"
+   },
+   {
+    "text": "第1条〜第4条は基本原理で、解釈及び運用はすべてこの原理に基づく（第5条）",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "前四条に規定するところは、この法律の基本原理であつて、この法律の解釈及び運用は、すべてこの原理に基いてされなければならない。"
+   },
+   {
+    "text": "無差別平等（第2条）",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "すべて国民は、この法律の定める要件を満たす限り、この法律による保護…を、無差別平等に受けることができる。"
+   },
+   {
+    "text": "最低生活（第3条）: 健康で文化的な生活水準",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "最低限度の生活は、健康で文化的な生活水準を維持することができるものでなければならない。"
+   },
+   {
+    "text": "保護の補足性（第4条1項・2項）: 資産・能力その他あらゆるものの活用が要件、扶養義務者の扶養と他法の扶助は優先",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "その利用し得る資産、能力その他あらゆるものを、その最低限度の生活の維持のために活用することを要件として行われる。2 …扶養義務者の扶養及び他の法律に定める扶助は、すべてこの法律による保護に優先して行われる"
+   },
+   {
+    "text": "資産の活用=預貯金など、能力の活用=働くこと、あらゆるもの=年金や手当など他の制度",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html",
+    "quote": "預貯金、生活に利用されていない土地・家屋等があれば売却等し…働くことが可能な方は、その能力に応じて働いてください。…年金や手当など他の制度で給付を受けることができる場合は、まずそれらを活用してください。"
+   },
+   {
+    "text": "急迫した事由がある場合は必要な保護を行える（第4条3項）",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "前二項の規定は、急迫した事由がある場合に、必要な保護を行うことを妨げるものではない。"
+   },
+   {
+    "text": "収入が最低生活費に満たない場合、その差額が保護費として支給される",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html",
+    "quote": "最低生活費と収入を比較して、収入が最低生活費に満たない場合に、最低生活費から収入を差し引いた差額が保護費として支給されます。"
+   },
+   {
+    "text": "持ち家がある人でも申請でき、居住用の持ち家は保有が認められる場合がある",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsuhogopage.html",
+    "quote": "持ち家がある人でも申請できます。…居住用の持ち家については、保有が認められる場合があります。まずはご相談ください。"
+   },
+   {
+    "text": "就労収入があっても、収入及び資産が最低生活費に満たなければ受給できる",
+    "source_url": "https://www.mhlw.go.jp/content/001106332.pdf",
+    "quote": "働いていて、就労収入がある方でも、その収入及び資産が厚生労働大臣が定める基準（最低生活費）に満たない場合には、生活保護を受給することができます。"
+   },
+   {
+    "text": "必要な書類が揃っていなくても申請できる",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsuhogopage.html",
+    "quote": "必要な書類が揃っていなくても申請はできます。"
+   },
+   {
+    "text": "同居していない親族に相談してからでないと申請できない、ということはない",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsuhogopage.html",
+    "quote": "扶養義務者の扶養は保護に優先しますが、例えば、同居していない親族に相談してからでないと申請できない、ということはありません。"
+   },
+   {
+    "text": "相談窓口は住んでいる地域を所管する福祉事務所",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html",
+    "quote": "生活保護の相談・申請窓口は、現在お住まいの地域を所管する福祉事務所の生活保護担当です。"
+   },
+   {
+    "text": "表: 8種類の扶助の対応費用と支給内容（生活扶助は基準額、住宅扶助は範囲内で実費、教育扶助は基準額（一部実費）、医療・介護扶助は直接支払で本人負担なし、出産・葬祭は範囲内で実費、生業扶助は範囲内で実費（高校就学費用の一部は基準額））",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html",
+    "quote": "医療扶助 費用は直接医療機関へ支払(本人負担なし) … 生業扶助 定められた範囲内で実費（高等学校等に就学するための費用の一部は定められた基準額）を支給"
+   },
+   {
+    "text": "法令の時点: 2026-10-01施行の改正を反映した現行版（e-Gov API v2 revision 325AC0000000144_20261001_507AC0000000087）",
+    "source_url": "https://laws.e-gov.go.jp/api/2/law_data/325AC0000000144",
+    "quote": "current_revision_status: CurrentEnforced, amendment_enforcement_date: 2026-10-01"
+   },
+   {
+    "text": "福祉事務所を設置していない町村では町村役場でも申請の手続きができる",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html",
+    "quote": "福祉事務所を設置していない町村にお住まいの方は、町村役場でも申請の手続を行うことができます。"
+   }
+  ]
+ },
+ "seikatsu-hogo-application": {
+  "audit": {
+   "date": "2026-10-05",
+   "checked": 22,
+   "fixed": [
+    "第3節: 扶養照会について、照会するかどうかは福祉事務所が個別に判断することを明記（事務連絡の「基本的には」「差し支えない」という表現に合わせ、照会されないと断定しないため）",
+    "第3節: 申請から30日以内に通知がないときは却下とみなせる（24条7項）を追記し、表の根拠欄も更新"
+   ],
+   "unverified_removed": []
+  },
+  "claims": [
+   {
+    "text": "生活保護の申請先は、いま住んでいる地域を受け持つ福祉事務所",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html",
+    "quote": "生活保護の相談・申請窓口は、現在お住まいの地域を所管する福祉事務所の生活保護担当です"
+   },
+   {
+    "text": "福祉事務所は市や区では市や区が、町村部では都道府県が置いている（自ら置いている町村も一部ある）",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html",
+    "quote": "福祉事務所は、市（区）部では市（区）が、町村部では都道府県が設置しています。（注）一部、福祉事務所を設置している町村もあります。"
+   },
+   {
+    "text": "住む家がない人も、いまいる場所の近くの福祉事務所に相談できる",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsuhogopage.html",
+    "quote": "住むところがない人でも申請できます。・まずは現在いる場所のお近くの福祉事務所へご相談ください。"
+   },
+   {
+    "text": "福祉事務所のない町村に住んでいる人は町村役場でも申請の手続きができる",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html",
+    "quote": "福祉事務所を設置していない町村にお住まいの方は、町村役場でも申請の手続を行うことができます"
+   },
+   {
+    "text": "町村役場は受け取った申請を5日以内に福祉事務所（保護の実施機関）へ送る（生活保護法24条10項）",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "第24条第10項 保護の開始又は変更の申請は、町村長を経由してすることもできる。町村長は、申請を受け取つたときは、五日以内に…保護の実施機関に送付しなければならない。"
+   },
+   {
+    "text": "厚生労働省は「生活保護の申請は国民の権利です」と書き、ためらわずに相談してほしいと呼びかけている",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsuhogopage.html",
+    "quote": "生活保護の申請は国民の権利です。生活保護を必要とする可能性はどなたにもあるものですので、ためらわずにご相談ください。（ページのdescription）"
+   },
+   {
+    "text": "窓口ではまず相談があり、そのあとに申請がある（相談と申請は別の段階）",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html",
+    "quote": "生活保護の手続の流れ 1. 事前の相談 … 2. 保護の申請 … 3. 保護費の支給"
+   },
+   {
+    "text": "申請は申請書を提出して行う",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "第24条第1項 保護の開始を申請する者は…次に掲げる事項を記載した申請書を保護の実施機関に提出しなければならない。"
+   },
+   {
+    "text": "必要な書類がそろっていなくても申請はできる",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsuhogopage.html",
+    "quote": "必要な書類が揃っていなくても申請はできます。"
+   },
+   {
+    "text": "申請書を書けない特別な事情があるときは申請書がなくても申請できる（24条1項）",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "第24条第1項ただし書 ただし、当該申請書を作成することができない特別の事情があるときは、この限りでない。／厚労省「生活保護制度」: それができない特別な事情があれば、そうした申請書がなくても申請することができます。"
+   },
+   {
+    "text": "申請があった日から14日以内に、結果を理由つきの書面で知らせる（24条3〜5項）",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "第24条第3項 …申請者に対して書面をもつて、これを通知しなければならない。第4項 前項の書面には、決定の理由を付さなければならない。第5項 第三項の通知は、申請のあつた日から十四日以内にしなければならない。"
+   },
+   {
+    "text": "扶養義務者の資産・収入の調査に日時を要するなど特別な理由があれば30日まで延ばせる",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "第24条第5項ただし書 扶養義務者の資産及び収入の状況の調査に日時を要する場合その他特別な理由がある場合には、これを三十日まで延ばすことができる。"
+   },
+   {
+    "text": "申請のあと、親族から仕送りなどの援助を受けられるかが調べられる",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html",
+    "quote": "扶養義務者による扶養（仕送り等の援助）の可否の調査"
+   },
+   {
+    "text": "親族（扶養義務者）に直接たずねることを扶養照会と呼ぶ",
+    "source_url": "https://www.mhlw.go.jp/content/000746078.pdf",
+    "quote": "扶養義務者への直接の照会（以下、「扶養照会」という。）"
+   },
+   {
+    "text": "親族に相談してからでないと申請できない、ということはない",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsuhogopage.html",
+    "quote": "扶養義務者の扶養は保護に優先しますが、例えば、同居していない親族に相談してからでないと申請できない、ということはありません。"
+   },
+   {
+    "text": "2021年2月の厚生労働省の事務連絡は、援助が期待できない親族には基本的に照会しないとしている",
+    "source_url": "https://www.mhlw.go.jp/content/000746078.pdf",
+    "quote": "令和３年２月２６日 事務連絡 …「扶養義務の履行が期待できない」と判断される扶養義務者には、基本的には扶養義務者への直接の照会（以下、「扶養照会」という。）を行わない取扱いとしている。"
+   },
+   {
+    "text": "例として、暴力や虐待から逃れてきた場合や、10年程度音信不通の場合があげられている",
+    "source_url": "https://www.mhlw.go.jp/content/000746078.pdf",
+    "quote": "③…（夫の暴力から逃れてきた母子、虐待等の経緯がある者等）／一定期間（例えば10年程度）音信不通であるなど交流が断絶していると判断される場合は、著しい関係不良とみなしてよい。"
+   },
+   {
+    "text": "調査には家庭訪問、預貯金や収入、親族の援助の可否などの調べがある（表）",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html",
+    "quote": "生活状況等を把握するための実地調査（家庭訪問等）／預貯金、保険、不動産等の資産調査／扶養義務者による扶養（仕送り等の援助）の可否の調査／年金等の社会保障給付、就労収入等の調査"
+   },
+   {
+    "text": "相談では制度の説明を受け、ほかの制度も一緒に考える（表）",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html",
+    "quote": "1. 事前の相談 … 生活保護制度の説明をさせていただくとともに、生活福祉資金、各種社会保障施策等の活用について検討します。"
+   },
+   {
+    "text": "申請から30日以内に通知がないときは、申請者は却下されたものとみなすことができる（24条7項）",
+    "source_url": "https://laws.e-gov.go.jp/law/325AC0000000144",
+    "quote": "７ 保護の申請をしてから三十日以内に第三項の通知がないときは、申請者は、保護の実施機関が申請を却下したものとみなすことができる。"
+   }
+  ]
+ },
+ "jiritsu-shien": {
+  "audit": {
+   "date": "2026-10-05",
+   "checked": 26,
+   "fixed": [
+    "第1節: 生活保護を「最後の安全網」とした表現を、出典（厚生労働省「制度の沿革」）の「第3のセーフティネット」に合わせて修正",
+    "第1節: 「そこまで追いつめられる前に相談できれば立て直しはずっと楽になる」という出典にない効果の断定を、厚生労働省の示す制度の目的（課題が複雑化・深刻化する前の自立の促進）に置き換えた",
+    "確認問題3の解説: 誤りの選択肢が明確に誤りなので「惜しい選択肢もありますが」を削除",
+    "出典: 相談窓口一覧のサイト名と運営団体を実際の表記（困窮者支援情報共有サイト／一般社団法人 生活困窮者自立支援全国ネットワーク）に修正"
+   ],
+   "unverified_removed": [
+    "「（相談できれば）立て直しはずっと楽になります」という効果の断定"
+   ]
+  },
+  "claims": [
+   {
+    "text": "生活困窮者自立支援法は2015年（平成27年）4月に施行された",
+    "source_url": "https://laws.e-gov.go.jp/law/425AC0000000105",
+    "quote": "附則 第一条 この法律は、平成二十七年四月一日から施行する。"
+   },
+   {
+    "text": "制度は2015年4月に始まった",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000073432.html",
+    "quote": "生活困窮者自立支援制度は、平成27年４月から始まりました。"
+   },
+   {
+    "text": "厚生労働省は制度を社会保険などと生活保護の間の第2のセーフティネットと位置づけている",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000073432.html",
+    "quote": "第１のセーフティネットである社会保険や労働保険、第３のセーフティネットである生活保護の間の第２のセーフティネットとして"
+   },
+   {
+    "text": "生活保護に至る前の段階で支援を行う",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000073432.html",
+    "quote": "生活に困窮する方に対し、生活保護に至る前の段階で、自立に向けた支援を行う"
+   },
+   {
+    "text": "支援員が相談者と一緒に考え、支援プランを作り、必要な支援につなぐ",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html",
+    "quote": "支援員が相談を受けて、どのような支援が必要かを相談者と一緒に考え、具体的な支援プランを作成し"
+   },
+   {
+    "text": "支援プランを元に必要な事業やサービスにつなぐ",
+    "source_url": "https://www.mhlw.go.jp/content/001563364.pdf",
+    "quote": "支援プランを元に、必要な事業やサービスにおつなぎします。"
+   },
+   {
+    "text": "相談の例として「お金がたりない」「家賃や税金、公共料金が払えない」「家族のことで困っている」が挙がっている",
+    "source_url": "https://www.mhlw.go.jp/content/001563364.pdf",
+    "quote": "お金がたりない／家賃や税金、公共料金が払えない／家族のことで困っている"
+   },
+   {
+    "text": "本人だけでなく家族など周りの人も相談できる",
+    "source_url": "https://www.mhlw.go.jp/content/001563364.pdf",
+    "quote": "ご本人だけではなく、家族など周りの方からの相談も受け付けます。"
+   },
+   {
+    "text": "法律上も家族その他の関係者からの相談に応じる事業とされている（第3条第2項第1号）",
+    "source_url": "https://laws.e-gov.go.jp/law/425AC0000000105",
+    "quote": "生活困窮者及び生活困窮者の家族その他の関係者からの相談に応じ"
+   },
+   {
+    "text": "窓口に行くのが難しい場合、電話やメールで問い合わせられる場合がある",
+    "source_url": "https://www.mhlw.go.jp/content/001563364.pdf",
+    "quote": "窓口に来ることが難しい場合は、まずは電話やメールで問い合わせることもできる場合があります。"
+   },
+   {
+    "text": "相談は無料で秘密は守られる",
+    "source_url": "https://www.mhlw.go.jp/content/001563364.pdf",
+    "quote": "相談から支援までの流れ（相談無料・秘密厳守）"
+   },
+   {
+    "text": "自立相談支援事業は都道府県等（都道府県と市など）が必ず行う（第5条）",
+    "source_url": "https://laws.e-gov.go.jp/law/425AC0000000105",
+    "quote": "第五条 都道府県等は、生活困窮者自立相談支援事業を行うものとする。"
+   },
+   {
+    "text": "住居確保給付金は都道府県等が必ず支給する（第6条）",
+    "source_url": "https://laws.e-gov.go.jp/law/425AC0000000105",
+    "quote": "第六条 都道府県等は、その設置する福祉事務所の所管区域内に居住地を有する生活困窮者のうち…生活困窮者住居確保給付金を支給するものとする。"
+   },
+   {
+    "text": "就労準備支援事業・家計改善支援事業・居住支援事業は行うよう努める（第7条第1項）",
+    "source_url": "https://laws.e-gov.go.jp/law/425AC0000000105",
+    "quote": "生活困窮者就労準備支援事業及び生活困窮者家計改善支援事業並びに生活困窮者居住支援事業のうち必要があると認めるものを行うように努めるものとする。"
+   },
+   {
+    "text": "子どもの学習・生活支援事業は行うことができる（第7条第2項）",
+    "source_url": "https://laws.e-gov.go.jp/law/425AC0000000105",
+    "quote": "子どもの学習・生活支援事業及びその他の生活困窮者の自立の促進を図るために必要な事業を行うことができる。"
+   },
+   {
+    "text": "「都道府県等」は都道府県と市（特別区を含む）・福祉事務所を設置する町村（第4条。本文では「都道府県と市など」と表現）",
+    "source_url": "https://laws.e-gov.go.jp/law/425AC0000000105",
+    "quote": "国は、都道府県及び市等（以下「都道府県等」という。）が行う…／市（特別区を含む。）及び福祉事務所…を設置する町村（以下「市等」という。）"
+   },
+   {
+    "text": "住居確保給付金は家賃相当額を一定期間支給する",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html",
+    "quote": "就職に向けた活動をするなどを条件に、一定期間、家賃相当額を支給します。"
+   },
+   {
+    "text": "就労準備支援事業はすぐに就労が困難な人への就労に向けた支援",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html",
+    "quote": "すぐに就労が困難な方に原則１年の間、プログラムにそって、一般就労に向けた基礎能力を養いながら"
+   },
+   {
+    "text": "家計改善支援事業は家計の見える化と立て直しの支援",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html",
+    "quote": "家計状況の「見える化」と根本的な課題を把握し、相談者が自ら家計を管理できるように"
+   },
+   {
+    "text": "居住支援事業は住居のない人に一定期間、宿泊場所や衣食を提供する",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html",
+    "quote": "住居をもたない方、またはネットカフェ等の不安定な住居形態にある方に、一定期間、宿泊場所や衣食を提供します。"
+   },
+   {
+    "text": "子どもの学習・生活支援事業は学習支援、進学に関する支援、居場所づくりなど",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html",
+    "quote": "子どもの学習支援をはじめ、日常的な生活習慣、仲間と出会い活動ができる居場所づくり、進学に関する支援"
+   },
+   {
+    "text": "表は2026年10月時点の法律（e-Gov最新版、令和8年6月25日施行分まで反映）による",
+    "source_url": "https://laws.e-gov.go.jp/api/2/law_data/425AC0000000105",
+    "quote": "law_revision_id 425AC0000000105_20260625_508AC0000000051"
+   },
+   {
+    "text": "厚生労働省の制度ページから相談窓口一覧（minna-tunagaru.jp/ichiran/）が開ける",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html",
+    "quote": "令和７年度自立相談支援機関窓口情報は こちら（https://minna-tunagaru.jp/ichiran/ へのリンク）"
+   },
+   {
+    "text": "一覧は都道府県ごとに探せ、連絡先がない場合は都道府県・市町村に問い合わせる",
+    "source_url": "https://minna-tunagaru.jp/ichiran/",
+    "quote": "※お住まいの窓口の連絡先がない場合は、都道府県、市町村へお問い合わせください。"
+   },
+   {
+    "text": "一時生活支援事業は令和6年改正で居住支援事業に改称された（glossary kyoju-shien の背景）",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000073432.html",
+    "quote": "一時生活支援事業を居住支援事業に改称し"
+   }
+  ]
+ },
+ "emergency-loans": {
+  "audit": {
+   "date": "2026-10-05",
+   "checked": 24,
+   "fixed": [
+    "時点表記: 厚生労働省の条件一覧にはページ上の年度表記がないため、「2026年度時点」を確認日にもとづく「2026年10月時点」に変更（description・本文・表の見出し）",
+    "第3節: 償還猶予の説明は厚生労働省ページ上でコロナ特例貸付の利用者向けの案内として書かれているため、通常の貸付にも同じ猶予があるとは断定せず、借りた社協に早めに相談するよう案内する形にした",
+    "確認問題2の解説: 誤りの選択肢が明確に誤りなので「惜しい選択肢もありますが」を削除。確認問題1の解説の文体（です・ます）を統一"
+   ],
+   "unverified_removed": [
+    "通常（本則）の貸付で「返す時期を遅らせる猶予を社協に相談できる」という断定（出典の該当箇所は特例貸付の利用者向け）"
+   ]
+  },
+  "claims": [
+   {
+    "text": "生活福祉資金貸付制度の対象は低所得者世帯・障害者世帯・高齢者世帯（65歳以上の高齢者の属する世帯）",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/index.html",
+    "quote": "低所得者世帯 … 障害者世帯 … 高齢者世帯 65歳以上の高齢者の属する世帯"
+   },
+   {
+    "text": "実施主体は都道府県社会福祉協議会、問い合わせは市区町村社会福祉協議会",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/index.html",
+    "quote": "実施主体：都道府県社会福祉協議会 本事業に関するお問い合わせは、お住まいの地域の市区町村社会福祉協議会にてお受けしております。"
+   },
+   {
+    "text": "社会福祉協議会は地域福祉の推進を図ることを目的とする団体として社会福祉法に定められている",
+    "source_url": "https://laws.e-gov.go.jp/law/326AC0000000045",
+    "quote": "第百九条 市町村社会福祉協議会は、…地域福祉の推進を図ることを目的とする団体であつて… / 第百十条 都道府県社会福祉協議会は、…"
+   },
+   {
+    "text": "貸付資金は総合支援資金・福祉資金・教育支援資金・不動産担保型生活資金の4種類",
+    "source_url": "https://www.shakyo.or.jp/guide/shikin/index.html",
+    "quote": "貸付資金には、「総合支援資金」、「福祉資金」、「教育支援資金」、「不動産担保型生活資金」の4種類があり"
+   },
+   {
+    "text": "貸付にあわせて市区町村社協や民生委員が借りた世帯の相談支援を行う",
+    "source_url": "https://www.shakyo.or.jp/guide/shikin/index.html",
+    "quote": "この資金の貸付けによる経済的な援助にあわせて、市区町村社協や民生委員が資金を借り受けた世帯の相談支援を行います。"
+   },
+   {
+    "text": "緊急小口資金は緊急かつ一時的に生計の維持が困難となった場合の少額の費用で、10万円以内、無利子、保証人不要",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/kashitsukejoken.html",
+    "quote": "緊急小口資金 ・緊急かつ一時的に生計の維持が困難となった場合に貸し付ける少額の費用 10万円以内 … 無利子 不要"
+   },
+   {
+    "text": "緊急小口資金の据置期間は貸付けの日から2か月以内、償還期限は据置期間経過後12か月以内",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/kashitsukejoken.html",
+    "quote": "貸付けの日から２月以内 据置期間経過後12月以内"
+   },
+   {
+    "text": "総合支援資金（生活支援費）は生活再建までの生活費で、二人以上月20万円以内、単身月15万円以内、貸付期間原則3月（最長12月）",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/kashitsukejoken.html",
+    "quote": "生活再建までの間に必要な生活費用 （二人以上）月20万円以内 （単身） 月15万円以内 ・貸付期間:原則3月（最長12月）"
+   },
+   {
+    "text": "総合支援資金は保証人ありなら無利子、なしなら年1.5％、保証人は原則必要だがなしでも貸付可、据置6月以内・償還は据置後10年以内",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/kashitsukejoken.html",
+    "quote": "最終貸付日から６月以内 据置期間経過後10年以内 保証人あり 無利子 保証人なし 年1.5％ 原則必要 ただし、保証人なしでも貸付可"
+   },
+   {
+    "text": "貸付の決定には貸付条件に加え償還可能性の有無が考慮される",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/kashitsukejoken.html",
+    "quote": "貸付の決定に当たっては、これらの貸付条件に加え、償還可能性の有無が考慮されることとなります。"
+   },
+   {
+    "text": "コロナの特例貸付は2022年（令和4年）9月末で申請受付を終了",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/index.html",
+    "quote": "＜通知＞※令和４年９月末日で申請受付は終了しました。"
+   },
+   {
+    "text": "現在の条件一覧は特例貸付ではない通常（本則）の取扱い",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/index.html",
+    "quote": "本則の取扱い（※新型コロナウイルス感染症の特例貸付の内容ではありません）"
+   },
+   {
+    "text": "返済に困ったときは償還時期を遅らせる償還猶予を社協に相談できる",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/index.html",
+    "quote": "償還にお困りの方には、償還開始時期を遅らせることができる償還猶予の制度等があります。まずはお住まいの地域の社会福祉協議会にご相談ください。"
+   },
+   {
+    "text": "金額・条件は2026年度時点（2026-10-05に厚生労働省ページで確認。ページ自体に年度表記はない）",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/kashitsukejoken.html",
+    "quote": "生活福祉資金貸付条件等一覧（※新型コロナウイルス感染症の特例貸付の内容ではありません）"
+   }
+  ]
+ }
+}
