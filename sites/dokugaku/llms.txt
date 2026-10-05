@@ -38,7 +38,7 @@
 ### 勉強法
 
 - [ノートは手書きとパソコン、どちらが覚えられるのか。研究でわかったこと](https://dokugaku.seadice.win/handwriting-vs-laptop-notes/): 「手書きが勝つ」実験は再現で差が出ず、まとめると手書きがわずかに有利。大切なのは言い換えと見直し
-- [蛍光ペンで線を引く勉強法は効くのか。研究でわかったこと](https://dokugaku.seadice.win/highlighting-study-method/): 線を引くだけでは理解は深まらない。読み終えてから要点だけに引き、隠して思い出すのが効く
+- [蛍光ペンで線を引く勉強法は効くのか。研究でわかったこと](https://dokugaku.seadice.win/highlighting-study-method/): 線を引くだけでは理解は深まらない。読み終えてから要点だけに引き、隠して思い出す練習と組み合わせたい
 - [1種類ずつより、混ぜて練習した方が身につくのか。交互練習（インターリービング）の研究](https://dokugaku.seadice.win/interleaving-mixed-practice/): 種類の違う問題を混ぜて練習すると、練習中は間違えても後のテストで伸びる。ただし単語暗記は例外
 - [人に教えるつもりで学ぶと覚えやすいのか。「教える効果（プロテジェ効果）」の研究](https://dokugaku.seadice.win/learning-by-teaching-protege-effect/): 教えるつもりで学ぶだけでも効果あり。実際に何も見ずに説明すると、1週間後まで残りやすい
 - [「自分は視覚型」は本当？学習スタイル説を研究で確かめる](https://dokugaku.seadice.win/learning-styles-visual-learner-myth/): 好みの学び方はあっても、型に合わせて学べば成績が上がる証拠はほぼない。研究で確かめる
