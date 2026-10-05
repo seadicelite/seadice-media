@@ -71,6 +71,7 @@
 - [座る距離・立つ距離で親密さはわかるのか。パーソナルスペースと好意の研究](https://umbra.seadice.win/personal-space-distance-intimacy-research/): 心地よい距離は他人135cm・親しい人32cm。距離は親密さを映すが、性別・年齢・不安でも変わる
 - [パワーポーズで自信はつくのか。姿勢と心理の再現研究でわかったこと](https://umbra.seadice.win/power-pose-confidence-replication-research/): ホルモンや行動が変わる効果は再現されず、気分への効果も「縮こまらない」ことが中心だった
 - [好きな人を見ると瞳孔は開くのか。瞳孔と好意・魅力の研究でわかったこと](https://umbra.seadice.win/pupil-dilation-attraction-research/): 関心で瞳孔は広がるが、明るさや緊張でも変わる。会話中の相手の瞳から好意は判定できない理由を研究で整理
+- [答えるまでの間や早口は嘘のサインか。話す速さ・間と嘘の研究](https://umbra.seadice.win/response-latency-speech-rate-lying-research/): 答えるまでの間はメタ分析で嘘とわずかに関連。話す速さは一貫した関連が確認されておらず、どちらも単独の判断材料にはならない
 - [髪や顔をよく触るのは緊張のサインか。自己接触（self-touch）としぐさの研究](https://umbra.seadice.win/self-touch-face-hair-nervousness-research/): 顔に触れるのは1時間に平均23回。緊張や負荷で増えるが、嘘や好意の証拠にはならないと研究から検証
 - [指先を合わせる「尖塔のポーズ」は自信のサインか。元FBI捜査官の説を研究で検証](https://umbra.seadice.win/steepling-hands-confidence-research/): 尖塔のポーズ＝自信は元FBI捜査官の経験則。直接の研究はなく、手ぶりの研究から読める範囲を検証
 - [話が細かすぎるのは嘘のサインか。話の具体性と嘘の研究でわかったこと](https://umbra.seadice.win/too-much-detail-lying-research/): 細かすぎる話は嘘？研究では逆に、嘘の話の方が細部が少ない傾向。ただし差は小さく判定には使えない

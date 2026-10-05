@@ -1,129 +1,130 @@
 {
-  "title": "しぐさから引く",
-  "lead": "目、表情、手、姿勢、声。体の部位ごとに、関係する記事をまとめて読めます。しぐさを1つずつ調べたいときは、しぐさ・ボディランゲージ索引が便利です。",
-  "items": [
-    {
-      "id": "eyes",
-      "label": "目・視線",
-      "title": "目・視線から本音は読めるのか",
-      "lead": "よく目が合う、目をそらす、瞳が大きく見える。視線と瞳について、研究でわかっていることをまとめました。",
-      "points": [
-        "関心を持つと瞳孔は広がりますが、明るさや緊張でも変わるため、会話中に見て好意を判定することはできません。",
-        "「よく目が合った」という自分の記憶は当てになりにくいことが、実験で示されています。",
-        "視線やしぐさから嘘を見抜ける確率は、206本の研究文献をまとめると平均で約54%でした。"
-      ],
-      "slugs": [
-        "eye-contact-gaze-attraction-research",
-        "pupil-dilation-attraction-research",
-        "body-language-lie-detection-accuracy",
-        "blink-rate-nervousness-lying-research",
-        "gaze-avoidance-social-anxiety-research",
-        "eye-blocking-covering-eyes-research",
-        "eye-direction-up-right-lying-nlp-research"
-      ]
-    },
-    {
-      "id": "face",
-      "label": "表情・笑顔",
-      "title": "表情・笑顔から本音は読めるのか",
-      "lead": "作り笑いかどうか、一瞬だけ出た表情、第一印象。顔から読み取れることと、その限界をまとめました。",
-      "points": [
-        "作り笑いと本物の笑顔を見た目だけで見分けた実験では、正解率は五分五分に近い結果でした。",
-        "一瞬だけ出る「微表情」は表情全体の2%ほどで、訓練しても嘘を見抜く精度は上がりませんでした。",
-        "数秒の映像で当たりやすい性格特性がある一方、顔から感じる信頼感は実際の信頼性とずれることがあります。"
-      ],
-      "slugs": [
-        "fake-smile-duchenne-detection-research",
-        "microexpression-true-feelings-research",
-        "appearance-first-impression-accuracy-research",
-        "eyebrow-flash-attraction-research",
-        "lip-compression-disappearing-lips-stress-research",
-        "blushing-face-red-liking-research",
-        "laughing-at-jokes-interest-signal-research",
-        "illusion-of-transparency-nervousness-visible-research"
-      ]
-    },
-    {
-      "id": "hands",
-      "label": "手・触れる",
-      "title": "手の動き・触れ方から本音は読めるのか",
-      "lead": "髪や顔を触る、腕を組む、さりげなく触れてくる。手の動きについて、研究でわかっていることをまとめました。",
-      "points": [
-        "人は1時間に平均23回ほど顔に触れます。緊張や負荷で増えますが、嘘や好意の証拠にはなりません。",
-        "触れてよい体の範囲は親しさに比例しますが、触れる量は性格や文化で変わり、恋愛感情の証拠にはなりません。",
-        "腕組みは「拒絶」とは限らず、課題への粘り強さが増したという研究もあります。"
-      ],
-      "slugs": [
-        "self-touch-face-hair-nervousness-research",
-        "touch-affection-signal-research",
-        "arm-crossing-posture-psychology-research",
-        "neck-touch-pacifying-behavior-research",
-        "nose-touching-lying-pinocchio-research",
-        "steepling-hands-confidence-research"
-      ]
-    },
-    {
-      "id": "posture",
-      "label": "姿勢・距離・体の向き",
-      "title": "姿勢・距離・体の向きから本音は読めるのか",
-      "lead": "体がこちらを向いている、近くに座る、しぐさが似てくる。体全体の動きについて、研究でわかっていることをまとめました。",
-      "points": [
-        "体や足先の向きは、注意がどこに向いているかの手がかりにはなりますが、好意との関連は弱いとされています。",
-        "心地よい距離は、他人なら平均135cm、親しい人なら32cmほど。ただし性別・年齢・不安でも変わります。",
-        "好意があるとしぐさは似てきやすい一方、わざと真似をして好かれる効果は再現されないこともありました。"
-      ],
-      "slugs": [
-        "body-orientation-feet-direction-interest-research",
-        "personal-space-distance-intimacy-research",
-        "chameleon-effect-mimicry-liking-research",
-        "power-pose-confidence-replication-research",
-        "forward-lean-posture-approach-avoidance-research",
-        "leg-crossing-direction-personality-research",
-        "torso-turn-away-ventral-denial-research"
-      ]
-    },
-    {
-      "id": "motion",
-      "label": "体の動き",
-      "title": "首や足など、体の動きから本音は読めるのか",
-      "lead": "首をかしげる、貧乏ゆすりをする。体のちょっとした動きについて、研究でわかっていることをまとめました。",
-      "points": [
-        "頭の傾きは顔の見え方を変え、印象を動かします。ただし首をかしげる動作を好意と結びつけた研究は見当たりません。",
-        "貧乏ゆすりなどのそわそわした動作は、退屈や集中切れで増えることが示されています。嘘との差は見られませんでした。"
-      ],
-      "slugs": [
-        "leg-jiggling-fidgeting-anxiety-research",
-        "head-tilt-impression-research",
-        "freeze-flight-fight-threat-response-research",
-        "feet-most-honest-leakage-research"
-      ]
-    },
-    {
-      "id": "voice",
-      "label": "声・会話",
-      "title": "声・会話のテンポから本音は読めるのか",
-      "lead": "声の高さが変わる、会話のテンポが合う、沈黙が続く。声と会話について、研究でわかっていることをまとめました。",
-      "points": [
-        "気になる相手と話すと声の高さは変わりやすいものの、高くなるか低くなるかは研究や状況で違います。",
-        "話すテンポや体の動きが自然に重なる「同期」が高いほど、好意が高い傾向が複数の研究で示されています。",
-        "相手の好意は読み違えやすいので、しぐさで推測するより、行動を重ねて確かめる方が確実です。"
-      ],
-      "slugs": [
-        "voice-pitch-attraction-research",
-        "conversation-synchrony-compatibility-research",
-        "silence-during-dates-liking-research",
-        "love-signals-flirting-research",
-        "nodding-backchannel-listening-likeability-research",
-        "question-asking-follow-up-interest-research",
-        "too-much-detail-lying-research",
-        "self-disclosure-confiding-liking-research",
-        "teasing-affection-or-hostility-research",
-        "compliments-flattery-liking-signal-research"
-      ]
-    }
-  ],
-  "cta": {
-    "label": "しぐさ・ボディランゲージ索引で、しぐさを部位や知りたいことから調べる",
-    "href": "/shigusa/"
+ "title": "しぐさから引く",
+ "lead": "目、表情、手、姿勢、声。体の部位ごとに、関係する記事をまとめて読めます。しぐさを1つずつ調べたいときは、しぐさ・ボディランゲージ索引が便利です。",
+ "items": [
+  {
+   "id": "eyes",
+   "label": "目・視線",
+   "title": "目・視線から本音は読めるのか",
+   "lead": "よく目が合う、目をそらす、瞳が大きく見える。視線と瞳について、研究でわかっていることをまとめました。",
+   "points": [
+    "関心を持つと瞳孔は広がりますが、明るさや緊張でも変わるため、会話中に見て好意を判定することはできません。",
+    "「よく目が合った」という自分の記憶は当てになりにくいことが、実験で示されています。",
+    "視線やしぐさから嘘を見抜ける確率は、206本の研究文献をまとめると平均で約54%でした。"
+   ],
+   "slugs": [
+    "eye-contact-gaze-attraction-research",
+    "pupil-dilation-attraction-research",
+    "body-language-lie-detection-accuracy",
+    "blink-rate-nervousness-lying-research",
+    "gaze-avoidance-social-anxiety-research",
+    "eye-blocking-covering-eyes-research",
+    "eye-direction-up-right-lying-nlp-research"
+   ]
+  },
+  {
+   "id": "face",
+   "label": "表情・笑顔",
+   "title": "表情・笑顔から本音は読めるのか",
+   "lead": "作り笑いかどうか、一瞬だけ出た表情、第一印象。顔から読み取れることと、その限界をまとめました。",
+   "points": [
+    "作り笑いと本物の笑顔を見た目だけで見分けた実験では、正解率は五分五分に近い結果でした。",
+    "一瞬だけ出る「微表情」は表情全体の2%ほどで、訓練しても嘘を見抜く精度は上がりませんでした。",
+    "数秒の映像で当たりやすい性格特性がある一方、顔から感じる信頼感は実際の信頼性とずれることがあります。"
+   ],
+   "slugs": [
+    "fake-smile-duchenne-detection-research",
+    "microexpression-true-feelings-research",
+    "appearance-first-impression-accuracy-research",
+    "eyebrow-flash-attraction-research",
+    "lip-compression-disappearing-lips-stress-research",
+    "blushing-face-red-liking-research",
+    "laughing-at-jokes-interest-signal-research",
+    "illusion-of-transparency-nervousness-visible-research"
+   ]
+  },
+  {
+   "id": "hands",
+   "label": "手・触れる",
+   "title": "手の動き・触れ方から本音は読めるのか",
+   "lead": "髪や顔を触る、腕を組む、さりげなく触れてくる。手の動きについて、研究でわかっていることをまとめました。",
+   "points": [
+    "人は1時間に平均23回ほど顔に触れます。緊張や負荷で増えますが、嘘や好意の証拠にはなりません。",
+    "触れてよい体の範囲は親しさに比例しますが、触れる量は性格や文化で変わり、恋愛感情の証拠にはなりません。",
+    "腕組みは「拒絶」とは限らず、課題への粘り強さが増したという研究もあります。"
+   ],
+   "slugs": [
+    "self-touch-face-hair-nervousness-research",
+    "touch-affection-signal-research",
+    "arm-crossing-posture-psychology-research",
+    "neck-touch-pacifying-behavior-research",
+    "nose-touching-lying-pinocchio-research",
+    "steepling-hands-confidence-research"
+   ]
+  },
+  {
+   "id": "posture",
+   "label": "姿勢・距離・体の向き",
+   "title": "姿勢・距離・体の向きから本音は読めるのか",
+   "lead": "体がこちらを向いている、近くに座る、しぐさが似てくる。体全体の動きについて、研究でわかっていることをまとめました。",
+   "points": [
+    "体や足先の向きは、注意がどこに向いているかの手がかりにはなりますが、好意との関連は弱いとされています。",
+    "心地よい距離は、他人なら平均135cm、親しい人なら32cmほど。ただし性別・年齢・不安でも変わります。",
+    "好意があるとしぐさは似てきやすい一方、わざと真似をして好かれる効果は再現されないこともありました。"
+   ],
+   "slugs": [
+    "body-orientation-feet-direction-interest-research",
+    "personal-space-distance-intimacy-research",
+    "chameleon-effect-mimicry-liking-research",
+    "power-pose-confidence-replication-research",
+    "forward-lean-posture-approach-avoidance-research",
+    "leg-crossing-direction-personality-research",
+    "torso-turn-away-ventral-denial-research"
+   ]
+  },
+  {
+   "id": "motion",
+   "label": "体の動き",
+   "title": "首や足など、体の動きから本音は読めるのか",
+   "lead": "首をかしげる、貧乏ゆすりをする。体のちょっとした動きについて、研究でわかっていることをまとめました。",
+   "points": [
+    "頭の傾きは顔の見え方を変え、印象を動かします。ただし首をかしげる動作を好意と結びつけた研究は見当たりません。",
+    "貧乏ゆすりなどのそわそわした動作は、退屈や集中切れで増えることが示されています。嘘との差は見られませんでした。"
+   ],
+   "slugs": [
+    "leg-jiggling-fidgeting-anxiety-research",
+    "head-tilt-impression-research",
+    "freeze-flight-fight-threat-response-research",
+    "feet-most-honest-leakage-research"
+   ]
+  },
+  {
+   "id": "voice",
+   "label": "声・会話",
+   "title": "声・会話のテンポから本音は読めるのか",
+   "lead": "声の高さが変わる、会話のテンポが合う、沈黙が続く。声と会話について、研究でわかっていることをまとめました。",
+   "points": [
+    "気になる相手と話すと声の高さは変わりやすいものの、高くなるか低くなるかは研究や状況で違います。",
+    "話すテンポや体の動きが自然に重なる「同期」が高いほど、好意が高い傾向が複数の研究で示されています。",
+    "相手の好意は読み違えやすいので、しぐさで推測するより、行動を重ねて確かめる方が確実です。"
+   ],
+   "slugs": [
+    "response-latency-speech-rate-lying-research",
+    "voice-pitch-attraction-research",
+    "conversation-synchrony-compatibility-research",
+    "silence-during-dates-liking-research",
+    "love-signals-flirting-research",
+    "nodding-backchannel-listening-likeability-research",
+    "question-asking-follow-up-interest-research",
+    "too-much-detail-lying-research",
+    "self-disclosure-confiding-liking-research",
+    "teasing-affection-or-hostility-research",
+    "compliments-flattery-liking-signal-research"
+   ]
   }
+ ],
+ "cta": {
+  "label": "しぐさ・ボディランゲージ索引で、しぐさを部位や知りたいことから調べる",
+  "href": "/shigusa/"
+ }
 }

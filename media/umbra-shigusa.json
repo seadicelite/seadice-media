@@ -1,1332 +1,1360 @@
 {
-  "items": [
-    {
-      "part": "目・視線",
-      "gesture": "よく目が合う",
-      "belief": "好意がある",
-      "level": "b",
-      "text": "好意と関連することもありますが、競争や対立の場面でも長く目が合うことがあります。回数だけで恋愛感情は断定できません。",
-      "slug": "eye-contact-gaze-attraction-research",
-      "id": "eye-contact",
-      "tags": [
-        "like"
-      ],
-      "scenes": [
-        "date",
-        "first"
-      ]
-    },
-    {
-      "part": "目・視線",
-      "gesture": "目をそらす・視線が泳ぐ",
-      "belief": "嘘をついている",
-      "level": "c",
-      "text": "視線やしぐさから嘘を見抜ける確率は、206本の研究文献をまとめると平均で約54%でした。しぐさより話の内容を確かめる方が研究と合っています。",
-      "slug": "body-language-lie-detection-accuracy",
-      "id": "look-away",
-      "tags": [
-        "lie"
-      ],
-      "evidence": "meta",
-      "scenes": [
-        "work",
-        "conflict"
-      ]
-    },
-    {
-      "part": "目・視線",
-      "gesture": "瞳が大きく見える（瞳孔が開く）",
-      "belief": "好きだから",
-      "level": "c",
-      "text": "瞳孔は関心・興奮・集中・不安のどれでも広がり、明るさでも大きく変わります。会話中に肉眼で好意を判定することはできません。",
-      "slug": "pupil-dilation-attraction-research",
-      "id": "pupil",
-      "tags": [
-        "like",
-        "nerve"
-      ],
-      "scenes": [
-        "date"
-      ]
-    },
-    {
-      "part": "表情",
-      "gesture": "目じりにシワが寄る笑顔",
-      "belief": "本物の笑顔",
-      "level": "b",
-      "text": "見た目だけで本物か作り笑いかを当てる精度は五分五分に近く、目じりのシワも万能の指標ではありません。口の動きや笑顔が出る速さも手がかりになります。",
-      "slug": "fake-smile-duchenne-detection-research",
-      "id": "smile",
-      "tags": [
-        "lie"
-      ],
-      "scenes": [
-        "date",
-        "work",
-        "first"
-      ]
-    },
-    {
-      "part": "表情",
-      "gesture": "一瞬だけ出た表情（微表情）",
-      "belief": "隠した本音が漏れた",
-      "level": "c",
-      "text": "0.04〜0.2秒ほどで消える表情で、出ること自体がまれです。訓練で見分ける力は伸びても、嘘を見抜く力につながる確かな証拠はありません。",
-      "slug": "microexpression-true-feelings-research",
-      "id": "microexpression",
-      "tags": [
-        "lie"
-      ],
-      "evidence": "meta",
-      "scenes": [
-        "work",
-        "conflict"
-      ]
-    },
-    {
-      "part": "表情",
-      "gesture": "第一印象で「信頼できそう」と感じる",
-      "belief": "信頼できる人",
-      "level": "c",
-      "text": "信頼感の印象は一瞬で決まりますが、実際の人柄を正しく映すとは限りません。見た目で当たりやすい特性と外れやすい特性があります。",
-      "slug": "appearance-first-impression-accuracy-research",
-      "id": "first-impression",
-      "tags": [
-        "lie"
-      ],
-      "scenes": [
-        "work",
-        "first"
-      ]
-    },
-    {
-      "part": "手・触れる",
-      "gesture": "髪や顔をよく触る",
-      "belief": "嘘をついている・好意がある",
-      "level": "b",
-      "text": "緊張や負荷がかかると増える動きです。読めるのは「今、緊張しているかもしれない」までで、嘘や好意の中身は読めません。",
-      "slug": "self-touch-face-hair-nervousness-research",
-      "id": "self-touch",
-      "tags": [
-        "lie",
-        "like",
-        "nerve"
-      ],
-      "scenes": [
-        "date",
-        "work",
-        "first"
-      ]
-    },
-    {
-      "part": "手・触れる",
-      "gesture": "腕を組む",
-      "belief": "拒絶されている",
-      "level": "b",
-      "text": "理由は人や場面によって違い、意味を1つに決められません。課題への粘り強さが増したという研究もあります。",
-      "slug": "arm-crossing-posture-psychology-research",
-      "id": "arm-cross",
-      "tags": [
-        "warn"
-      ],
-      "scenes": [
-        "work",
-        "conflict"
-      ]
-    },
-    {
-      "part": "手・触れる",
-      "gesture": "さりげなく触れてくる",
-      "belief": "好意がある",
-      "level": "b",
-      "text": "触れてよい範囲は親しさに比例しますが、触れる量は性格・文化・関係の段階で変わり、恋愛感情の証拠にはなりません。嫌なタッチには「やめてほしい」と伝えてかまいません。",
-      "slug": "touch-affection-signal-research",
-      "id": "touch",
-      "tags": [
-        "like"
-      ],
-      "scenes": [
-        "date"
-      ]
-    },
-    {
-      "part": "姿勢・距離",
-      "gesture": "体や足先がこちらを向いている",
-      "belief": "好意がある",
-      "level": "b",
-      "text": "注意がどこに向いているかは表しやすい一方、好意との関連は弱いとされています。席の配置や距離にも左右されます。",
-      "slug": "body-orientation-feet-direction-interest-research",
-      "id": "body-orientation",
-      "tags": [
-        "like"
-      ],
-      "evidence": "few",
-      "scenes": [
-        "date"
-      ]
-    },
-    {
-      "part": "姿勢・距離",
-      "gesture": "近くに座る・距離が近い",
-      "belief": "親しく思っている",
-      "level": "a",
-      "text": "関係が近いほど距離は縮みます。ただし性別・年齢・不安でも変わるので、1回の距離より、その人のふだんの距離との違いを見ます。",
-      "slug": "personal-space-distance-intimacy-research",
-      "id": "distance",
-      "tags": [
-        "like"
-      ],
-      "scenes": [
-        "date",
-        "first"
-      ]
-    },
-    {
-      "part": "姿勢・距離",
-      "gesture": "しぐさや姿勢が似てくる",
-      "belief": "好意がある",
-      "level": "a",
-      "text": "好意があるとしぐさは似てきやすいことが確認されています。ただし、わざと真似をして好かれる効果は再現されないことがありました。",
-      "slug": "chameleon-effect-mimicry-liking-research",
-      "id": "mimicry",
-      "tags": [
-        "like"
-      ],
-      "scenes": [
-        "date",
-        "first"
-      ]
-    },
-    {
-      "part": "声・会話",
-      "gesture": "声の高さが変わる",
-      "belief": "好意がある",
-      "level": "b",
-      "text": "気になる相手に声が変わることは確認されていますが、高くなるか低くなるかは研究・性別・状況で違います。",
-      "slug": "voice-pitch-attraction-research",
-      "id": "voice-pitch",
-      "tags": [
-        "like"
-      ],
-      "scenes": [
-        "date"
-      ]
-    },
-    {
-      "part": "声・会話",
-      "gesture": "会話のテンポが合う",
-      "belief": "相性がいい",
-      "level": "a",
-      "text": "話すリズムや動きが自然に重なるペアほど、その場の好意や短期的な関係の継続率が高い傾向があります。ただし1回の印象で相性は決められません。",
-      "slug": "conversation-synchrony-compatibility-research",
-      "id": "tempo",
-      "tags": [
-        "like"
-      ],
-      "scenes": [
-        "date",
-        "first"
-      ]
-    },
-    {
-      "part": "連絡・行動",
-      "gesture": "既読からの返信が遅い・速い",
-      "belief": "好意の大きさ",
-      "level": "c",
-      "text": "返信の速さと好意を直接結びつけた決定的な研究はありません。遠距離のカップルでは、メッセージの頻度や応じ方が満足度と結びついていました。",
-      "slug": "line-reply-speed-research",
-      "id": "reply-speed",
-      "tags": [
-        "like"
-      ],
-      "evidence": "few",
-      "scenes": [
-        "sns"
-      ]
-    },
-    {
-      "part": "連絡・行動",
-      "gesture": "連絡の頻度が減った",
-      "belief": "冷めた",
-      "level": "b",
-      "text": "連絡が減っても冷めたとは限りません。通話記録の研究では、間隔が空いた相手ほど次の通話が長くなる「埋め合わせ」が見られました（恋人に限った研究ではありません）。",
-      "slug": "contact-frequency-decline-cooling-signal-research",
-      "id": "contact-frequency",
-      "tags": [
-        "like",
-        "warn"
-      ],
-      "scenes": [
-        "sns"
-      ]
-    },
-    {
-      "part": "連絡・行動",
-      "gesture": "好きな人のSNSをわざと見ない",
-      "belief": "興味がない",
-      "level": "b",
-      "text": "見られているかもしれないという意識が、SNSでの振る舞いを慎重にさせることは報告されています。ただストーリーを見ない行動そのものを調べた研究は見当たらず、無関心の証拠とは言えません。",
-      "slug": "story-view-avoidance-interest-concealment-research",
-      "id": "sns-avoid",
-      "tags": [
-        "like"
-      ],
-      "scenes": [
-        "sns"
-      ],
-      "evidence": "few"
-    },
-    {
-      "part": "連絡・行動",
-      "gesture": "デート中に沈黙が続く",
-      "belief": "退屈している・嫌われた",
-      "level": "c",
-      "text": "沈黙を気まずく感じるのは多くの人に共通する反応です。会話のあと、相手はこちらが思うよりも自分に好意を持っていることが多いとわかっています。",
-      "slug": "silence-during-dates-liking-research",
-      "id": "silence",
-      "tags": [
-        "like",
-        "warn"
-      ],
-      "scenes": [
-        "date"
-      ]
-    },
-    {
-      "part": "連絡・行動",
-      "gesture": "喧嘩中に黙り込む",
-      "belief": "罰したい・もう終わり",
-      "level": "b",
-      "text": "心拍数が上がりすぎて頭が働かなくなっている可能性があります。1回で決めず、よくあるパターンか、話し合いに戻れるかを見ます。",
-      "slug": "stonewalling-conflict-withdrawal-warning-sign",
-      "id": "stonewalling",
-      "tags": [
-        "warn"
-      ],
-      "scenes": [
-        "conflict"
-      ]
-    },
-    {
-      "part": "連絡・行動",
-      "gesture": "わざと興味がなさそうに振る舞う",
-      "belief": "駆け引き上手でモテる",
-      "level": "c",
-      "text": "わざと興味がなさそうに振る舞うだけでは、好意は高まりませんでした。ほかの人には冷たく、自分にだけ興味を示す相手の方が好まれたという結果があります。",
-      "slug": "hard-to-get-scarcity-attraction-research",
-      "id": "play-hard-to-get",
-      "tags": [
-        "like"
-      ],
-      "scenes": [
-        "date",
-        "sns"
-      ]
-    },
-    {
-      "part": "連絡・行動",
-      "gesture": "嫉妬する・束縛する",
-      "belief": "愛情の証",
-      "level": "b",
-      "text": "研究では、嫉妬の感情と相手を支配しようとする行動は別のものとして扱われます。外出や交友の制限、スマホの確認とセットなら注意が必要です。",
-      "slug": "jealousy-possessiveness-control-research",
-      "id": "jealousy",
-      "tags": [
-        "warn"
-      ],
-      "scenes": [
-        "conflict",
-        "sns"
-      ]
-    },
-    {
-      "part": "連絡・行動",
-      "gesture": "出会ってすぐに猛烈な好意を示す",
-      "belief": "運命の相手",
-      "level": "b",
-      "text": "強い好意そのものが悪いわけではありません。研究はまだ少ないものの、進むスピードと、こちらの境界線をどう扱うかを合わせて見るのが現実的です。",
-      "slug": "love-bombing-warning-signs-research",
-      "id": "love-bombing",
-      "tags": [
-        "warn",
-        "like"
-      ],
-      "scenes": [
-        "date",
-        "sns"
-      ]
-    },
-    {
-      "part": "連絡・行動",
-      "gesture": "なかなか謝らない",
-      "belief": "悪いと思っていない",
-      "level": "c",
-      "text": "謝らないのは、悪いと思っていないからとは限らず、謝ることへの心理的なハードルの高さが背景にあるとされています。",
-      "slug": "non-apology-psychology-barriers-research",
-      "id": "no-apology",
-      "tags": [
-        "warn"
-      ],
-      "scenes": [
-        "conflict"
-      ]
-    },
-    {
-      "part": "目・視線",
-      "gesture": "まばたきが増える",
-      "belief": "緊張している・嘘をついている",
-      "level": "c",
-      "text": "まばたきは会話中に増え、集中すると減ります。嘘の実験では、嘘をつく間にむしろ減っており、嘘の証拠にはなりません。",
-      "slug": "blink-rate-nervousness-lying-research",
-      "id": "blink",
-      "tags": [
-        "lie",
-        "nerve"
-      ],
-      "evidence": "meta",
-      "scenes": [
-        "work"
-      ]
-    },
-    {
-      "part": "体の動き",
-      "gesture": "貧乏ゆすりをする",
-      "belief": "イライラや不安を感じている",
-      "level": "b",
-      "text": "退屈や集中切れで増えることが研究で示されています。嘘との差は見られず、不安やイライラと直接結びつけた研究は見当たりません。",
-      "slug": "leg-jiggling-fidgeting-anxiety-research",
-      "id": "leg-jiggle",
-      "tags": [
-        "nerve"
-      ],
-      "evidence": "few",
-      "scenes": [
-        "work"
-      ]
-    },
-    {
-      "part": "声・会話",
-      "gesture": "相づち・うなずきが多い",
-      "belief": "ちゃんと話を聞いている・好意がある",
-      "level": "b",
-      "text": "うなずきは見る側の好印象を高めますが、気が散っていても続きやすいものです。聞いている手がかりは、話の中身に合った反応や質問です。",
-      "slug": "nodding-backchannel-listening-likeability-research",
-      "id": "nodding",
-      "tags": [
-        "like"
-      ],
-      "scenes": [
-        "date",
-        "work",
-        "first"
-      ]
-    },
-    {
-      "part": "目・視線",
-      "gesture": "目を合わせずに話す",
-      "belief": "嘘をついている・避けられている",
-      "level": "b",
-      "text": "難しいことを考えるときは誰でも目をそらし、緊張や文化の習慣でも視線は減ります。好き嫌いや嘘の証拠にはなりません。",
-      "slug": "gaze-avoidance-social-anxiety-research",
-      "id": "gaze-avoidance",
-      "tags": [
-        "lie",
-        "nerve",
-        "warn"
-      ],
-      "evidence": "meta",
-      "scenes": [
-        "work",
-        "conflict",
-        "first"
-      ]
-    },
-    {
-      "part": "姿勢・距離",
-      "gesture": "胸を張って大きく構える",
-      "belief": "自信がある・強い人",
-      "level": "b",
-      "text": "大きく構えた姿勢は強そう・魅力的に見えやすいものの、しぐさと地位の結びつきは、信じられているほど実際には強くありません。",
-      "slug": "power-pose-confidence-replication-research",
-      "id": "power-pose",
-      "tags": [],
-      "evidence": "meta",
-      "scenes": [
-        "work",
-        "first"
-      ]
-    },
-    {
-      "part": "表情",
-      "gesture": "眉が一瞬上がる",
-      "belief": "好意・脈ありのサイン",
-      "level": "b",
-      "text": "笑顔と一緒に出やすい「関わってよい」の合図です。ただし同意・強調・聞き返しにも使われ、恋愛感情の証拠にはなりません。",
-      "slug": "eyebrow-flash-attraction-research",
-      "id": "eyebrow-flash",
-      "tags": [
-        "like"
-      ],
-      "scenes": [
-        "date",
-        "first"
-      ]
-    },
-    {
-      "part": "姿勢・距離",
-      "gesture": "身を乗り出す",
-      "belief": "興味や好意がある",
-      "level": "b",
-      "text": "会話の実験では好意が高いほど前傾が増えました。ただ動きはわずかで、声が聞き取りにくいなどの理由でも起こります。",
-      "slug": "forward-lean-posture-approach-avoidance-research",
-      "id": "lean-forward",
-      "tags": [
-        "like"
-      ],
-      "evidence": "meta",
-      "scenes": [
-        "date",
-        "work"
-      ]
-    },
-    {
-      "part": "体の動き",
-      "gesture": "首をかしげる",
-      "belief": "好意や興味がある・かわいく見せたい",
-      "level": "b",
-      "text": "頭の傾きは顔の見え方を変え、かわいさなどの印象を動かします。ただし首をかしげる動作を好意と結びつけた研究は見当たりません。",
-      "slug": "head-tilt-impression-research",
-      "id": "head-tilt",
-      "tags": [
-        "like"
-      ],
-      "evidence": "few",
-      "scenes": [
-        "date"
-      ]
-    },
-    {
-      "part": "姿勢・距離",
-      "gesture": "脚を組む（組み方や向き）",
-      "belief": "性格やその人の本音がわかる",
-      "level": "c",
-      "text": "脚の組み方や向きが性格を示すという通説を直接調べた研究は見当たりません。開いた姿勢か閉じた姿勢かは印象に影響しますが、脚の動き自体は嘘の有無とも無関係でした。",
-      "slug": "leg-crossing-direction-personality-research",
-      "id": "leg-cross",
-      "tags": [],
-      "evidence": "few",
-      "scenes": [
-        "date",
-        "work",
-        "first"
-      ]
-    },
-    {
-      "id": "neck-touch",
-      "part": "手・触れる",
-      "gesture": "首や鎖骨のくぼみを触る",
-      "belief": "不安や嘘のサイン（なだめ行動）",
-      "level": "b",
-      "text": "自分の体に触れる回数はその時の不安と関係しますが、首に絞った研究は見当たりません。体をいじる動作と嘘の関係はほぼゼロでした。",
-      "tags": [
-        "nerve",
-        "lie",
-        "fbi"
-      ],
-      "evidence": "few",
-      "slug": "neck-touch-pacifying-behavior-research",
-      "scenes": [
-        "work"
-      ]
-    },
-    {
-      "id": "torso-away",
-      "part": "姿勢・距離",
-      "gesture": "話の途中で体の正面をそらす",
-      "belief": "話や相手を拒んでいる",
-      "level": "b",
-      "text": "嫌なものから体が離れる傾向は実験で見られますが、男女で逆の反応も出ました。会話中の拒否や嘘の証拠と確かめた研究は見当たりません。",
-      "tags": [
-        "warn",
-        "lie",
-        "fbi"
-      ],
-      "evidence": "few",
-      "slug": "torso-turn-away-ventral-denial-research",
-      "scenes": [
-        "work",
-        "conflict"
-      ]
-    },
-    {
-      "id": "freeze",
-      "part": "体の動き",
-      "gesture": "急に体が固まる",
-      "belief": "脅威を感じている・何かを隠している",
-      "level": "b",
-      "text": "怖いものを見ると体の揺れが減り、心拍が下がる「凍りつき」は実験で確認されています。ただし嘘や罪の証拠にはなりません。",
-      "tags": [
-        "nerve",
-        "warn",
-        "lie",
-        "fbi"
-      ],
-      "evidence": "meta",
-      "slug": "freeze-flight-fight-threat-response-research",
-      "scenes": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "lip-compress",
-      "part": "表情",
-      "gesture": "唇をぎゅっと結ぶ・噛む",
-      "belief": "ストレスや嘘を隠している",
-      "level": "b",
-      "text": "緊張や照れ、ストレスで心拍が上がる場面と結びつく傾向はあります。嘘との関係はメタ分析で小さく、証拠にはなりません。",
-      "tags": [
-        "nerve",
-        "lie",
-        "fbi"
-      ],
-      "evidence": "meta",
-      "slug": "lip-compression-disappearing-lips-stress-research",
-      "scenes": [
-        "work",
-        "conflict"
-      ]
-    },
-    {
-      "id": "eye-block",
-      "part": "目・視線",
-      "gesture": "目を手で覆う・ぎゅっと閉じる",
-      "belief": "見たくない・本当は嫌だ",
-      "level": "b",
-      "text": "嫌悪の表情で目が細まると視野は狭まります。ただ目を閉じる動きは、考えごとや思い出す作業でも増え、不快の証拠にはなりません。",
-      "tags": [
-        "fbi",
-        "nerve",
-        "lie"
-      ],
-      "evidence": "few",
-      "slug": "eye-blocking-covering-eyes-research",
-      "scenes": [
-        "work",
-        "conflict"
-      ]
-    },
-    {
-      "id": "nose-touch",
-      "part": "手・触れる",
-      "gesture": "鼻を触る",
-      "belief": "嘘をついている",
-      "level": "c",
-      "text": "この説の根拠は、1人の証言映像を調べた事例研究だけです。メタ分析では、顔を触るしぐさと嘘に明確な関係は見られませんでした。",
-      "tags": [
-        "lie"
-      ],
-      "evidence": "meta",
-      "slug": "nose-touching-lying-pinocchio-research",
-      "scenes": [
-        "work",
-        "conflict"
-      ]
-    },
-    {
-      "id": "steeple",
-      "part": "手・触れる",
-      "gesture": "指先を合わせる（尖塔のポーズ）",
-      "belief": "自信の表れ",
-      "level": "c",
-      "text": "自信の表れとされるのは元FBI捜査官の経験則で、直接確かめた研究は見当たりません。しぐさと地位の結びつきは、実際より思い込みの方が強いことがわかっています。",
-      "tags": [
-        "fbi"
-      ],
-      "evidence": "few",
-      "slug": "steepling-hands-confidence-research",
-      "scenes": [
-        "work"
-      ]
-    },
-    {
-      "id": "honest-feet",
-      "part": "体の動き",
-      "gesture": "足がそわそわ動く・はずむ",
-      "belief": "足は一番正直で、本音が足に出る",
-      "level": "c",
-      "text": "「足は顔より正直」は元FBI捜査官の経験則です。158種類の手がかりをまとめたメタ分析では、足や脚の動きと嘘の差はほぼゼロでした。",
-      "tags": [
-        "lie",
-        "fbi"
-      ],
-      "evidence": "meta",
-      "slug": "feet-most-honest-leakage-research",
-      "scenes": [
-        "date",
-        "work"
-      ]
-    },
-    {
-      "id": "blushing",
-      "part": "表情",
-      "gesture": "顔が赤くなる",
-      "belief": "好意がある・脈あり",
-      "level": "b",
-      "text": "赤面は、人からの注目や評価を意識したときの反応で、見る人が増えるほど強まります。好意と結びつけた研究は見当たりません。",
-      "tags": [
-        "like",
-        "nerve"
-      ],
-      "scenes": [
-        "date",
-        "first"
-      ],
-      "evidence": "few",
-      "slug": "blushing-face-red-liking-research"
-    },
-    {
-      "id": "eyes-up-right",
-      "part": "目・視線",
-      "gesture": "右上を見る",
-      "belief": "嘘をついている・作り話をしている",
-      "level": "c",
-      "text": "3つの実験で、嘘と本当で右上・左上を見る回数に差はありませんでした。この説を教わっても、見抜く力は上がりませんでした。",
-      "tags": [
-        "lie"
-      ],
-      "scenes": [
-        "conflict",
-        "date"
-      ],
-      "slug": "eye-direction-up-right-lying-nlp-research"
-    },
-    {
-      "id": "laughs-a-lot",
-      "part": "表情",
-      "gesture": "冗談でよく笑ってくれる",
-      "belief": "好意がある・脈あり",
-      "level": "b",
-      "text": "好意を持つ相手の冗談には笑いやすい傾向があります。ただ会話の笑いの多くは、面白くない発言の後にも出る社交的な反応です。",
-      "tags": [
-        "like"
-      ],
-      "scenes": [
-        "date",
-        "work",
-        "first"
-      ],
-      "evidence": "meta",
-      "slug": "laughing-at-jokes-interest-signal-research"
-    },
-    {
-      "id": "asks-questions",
-      "part": "声・会話",
-      "gesture": "質問が多い・プライベートを聞く",
-      "belief": "自分に興味がある・脈あり",
-      "level": "b",
-      "text": "質問する人は相手から好かれやすい一方、質問の多さはその人の会話の癖による部分が大きいとされます。相手も自分のことを話すかを合わせて見ます。",
-      "tags": [
-        "like"
-      ],
-      "scenes": [
-        "date",
-        "first",
-        "work"
-      ],
-      "evidence": "few",
-      "slug": "question-asking-follow-up-interest-research"
-    },
-    {
-      "id": "too-detailed",
-      "part": "声・会話",
-      "gesture": "話が細かすぎる",
-      "belief": "嘘を隠すために話を作り込んでいる",
-      "level": "c",
-      "text": "研究では逆に、嘘の話の方が細部が少ない傾向がありました。余計な細部や話の長さには差がなく、細かさで嘘は判定できません。",
-      "tags": [
-        "lie"
-      ],
-      "scenes": [
-        "date",
-        "conflict"
-      ],
-      "evidence": "meta",
-      "slug": "too-much-detail-lying-research"
-    },
-    {
-      "id": "self-disclosure",
-      "part": "声・会話",
-      "gesture": "悩みや自分の話を打ち明けてくる",
-      "belief": "脈あり（恋愛相談なら脈なし）",
-      "level": "b",
-      "text": "人は好意を持つ相手により多く打ち明ける傾向があります。ただし研究の大半は同性どうしで、恋愛感情か友情かは区別できません。",
-      "tags": [
-        "like"
-      ],
-      "scenes": [
-        "date",
-        "first",
-        "work"
-      ],
-      "evidence": "meta",
-      "slug": "self-disclosure-confiding-liking-research"
-    },
-    {
-      "id": "teasing",
-      "part": "声・会話",
-      "gesture": "からかう・いじってくる",
-      "belief": "好意の裏返し",
-      "level": "b",
-      "text": "からかいは親しみにも攻撃にもなります。言われた側はつらく感じやすく、好意の証拠にはなりません。嫌ならやめてと伝えてかまいません。",
-      "tags": [
-        "like",
-        "warn"
-      ],
-      "scenes": [
-        "date",
-        "work",
-        "conflict"
-      ],
-      "evidence": "meta",
-      "slug": "teasing-affection-or-hostility-research"
-    },
-    {
-      "id": "nerves-visible",
-      "part": "表情",
-      "gesture": "緊張が顔や声に出ている気がする",
-      "belief": "緊張は相手に丸わかり",
-      "level": "c",
-      "text": "緊張が相手に見えている程度は、本人が大きく見積もりやすいことがわかっています。聴衆の評価は、話し手の予想より明らかに低くなりました。",
-      "tags": [
-        "nerve"
-      ],
-      "scenes": [
-        "work",
-        "first",
-        "date"
-      ],
-      "slug": "illusion-of-transparency-nervousness-visible-research"
-    },
-    {
-      "id": "compliments",
-      "part": "声・会話",
-      "gesture": "よく褒めてくる",
-      "belief": "好意がある・脈あり",
-      "level": "b",
-      "text": "褒め言葉は好意の表れにも、好かれるための手段にもなります。誰にでも向けた好意はかえって好かれにくく、「自分にだけか」が手がかりになります。",
-      "tags": [
-        "like",
-        "warn"
-      ],
-      "scenes": [
-        "date",
-        "work",
-        "first"
-      ],
-      "evidence": "meta",
-      "slug": "compliments-flattery-liking-signal-research"
-    },
-    {
-      "id": "language-match",
-      "part": "連絡・行動",
-      "gesture": "LINEの文体が似てくる・タメ口になる",
-      "belief": "脈あり",
-      "level": "b",
-      "text": "言葉づかいが一致したペアほど互いに好意を持ちやすい一方、ケンカ中にも一致は高まります。複数の研究をまとめた分析では、効果はごく小さいものでした。",
-      "tags": [
-        "like"
-      ],
-      "scenes": [
-        "sns",
-        "date"
-      ],
-      "evidence": "meta",
-      "slug": "language-style-matching-line-keigo-research"
-    }
-  ],
-  "quiz": [
-    {
-      "q": "しぐさや視線から嘘を見抜ける確率は、206本の研究文献をまとめると平均で約何%でしたか？",
-      "c": [
-        "約54%",
-        "約75%",
-        "約90%",
-        "約30%"
-      ],
-      "e": "人の嘘を見抜く力は、偶然（50%）をわずかに上回る程度でした。",
-      "slug": "body-language-lie-detection-accuracy"
-    },
-    {
-      "q": "一瞬だけ出る「微表情」は、表情全体のうちどれくらい見られましたか？",
-      "c": [
-        "約2%",
-        "約20%",
-        "約50%",
-        "約80%"
-      ],
-      "e": "微表情は出ること自体がまれで、出ても本音の証拠とは限りません。",
-      "slug": "microexpression-true-feelings-research"
-    },
-    {
-      "q": "人は1時間に平均何回くらい顔に触れていましたか？",
-      "c": [
-        "約23回",
-        "約3回",
-        "約100回",
-        "ほとんど触れない"
-      ],
-      "e": "顔に触れるのは誰にでもよくある動きで、緊張や負荷で増えます。",
-      "slug": "self-touch-face-hair-nervousness-research"
-    },
-    {
-      "q": "42か国の調査で、「親しい人」との心地よい距離は平均どれくらいでしたか？",
-      "c": [
-        "約32cm",
-        "約92cm",
-        "約135cm",
-        "約2m"
-      ],
-      "e": "他人とは約135cm、知り合いとは約92cm、親しい人とは約32cmでした。",
-      "slug": "personal-space-distance-intimacy-research"
-    },
-    {
-      "q": "瞳孔が広がるのはどんなときですか？",
-      "c": [
-        "関心・興奮・集中・不安など、心が動いたとき",
-        "好きな相手を見たときだけ",
-        "嘘をついたときだけ",
-        "眠いときだけ"
-      ],
-      "e": "瞳孔は「好き」ではなく「心が動いた」ことに反応します。明るさでも変わります。",
-      "slug": "pupil-dilation-attraction-research"
-    },
-    {
-      "q": "作り笑いと本物の笑顔を、見た目だけで見分けた実験の正解率は？",
-      "c": [
-        "五分五分に近い",
-        "ほぼ100%",
-        "約8割",
-        "ほぼ0%"
-      ],
-      "e": "目じりのシワも万能の指標ではありませんでした。",
-      "slug": "fake-smile-duchenne-detection-research"
-    },
-    {
-      "q": "腕組みについて、研究でわかっていることはどれですか？",
-      "c": [
-        "課題に粘り強く取り組む時間が延びたという研究がある",
-        "必ず拒絶のサインである",
-        "必ず自信のサインである",
-        "意味は1つに決まっている"
-      ],
-      "e": "腕組みは、意味が1つに決まらないしぐさです。",
-      "slug": "arm-crossing-posture-psychology-research"
-    },
-    {
-      "q": "しぐさが似てくる「カメレオン効果」について正しいのはどれですか？",
-      "c": [
-        "好意があると起きやすいが、わざと真似して好かれる効果は再現されないこともある",
-        "わざと真似をすれば必ず好かれる",
-        "嫌いな相手ほどしぐさが似てくる",
-        "好意とはまったく関係がない"
-      ],
-      "e": "しぐさの一致は好意の手がかりの1つにとどめるのが研究に沿った見方です。",
-      "slug": "chameleon-effect-mimicry-liking-research"
-    },
-    {
-      "q": "体や足先の向きと好意について、研究に近いのはどれですか？",
-      "c": [
-        "注意の向き先は表しやすいが、好意との関連は弱い",
-        "足先は必ず好きな人の方を向く",
-        "体の向きで好意の強さが正確にわかる",
-        "体の向きと心理はまったく関係がない"
-      ],
-      "e": "向きは席の配置や距離、その場の用事にも大きく左右されます。",
-      "slug": "body-orientation-feet-direction-interest-research"
-    },
-    {
-      "q": "気になる相手と話すときの声について、正しいのはどれですか？",
-      "c": [
-        "変わることはあるが、高くなるか低くなるかは状況で違う",
-        "必ず高くなる",
-        "必ず低くなる",
-        "まったく変わらない"
-      ],
-      "e": "声の変化は好意の手がかりの1つですが、決め手にはなりません。",
-      "slug": "voice-pitch-attraction-research"
-    },
-    {
-      "q": "会話のあとの「相手にどう思われたか」について、研究でわかっていることはどれですか？",
-      "c": [
-        "相手はこちらが思うより自分に好意を持っていることが多い",
-        "相手はこちらが思うより自分を嫌っていることが多い",
-        "相手の気持ちはほぼ正確に読める",
-        "初対面のときだけ読み違える"
-      ],
-      "e": "この傾向は「好意のギャップ」と呼ばれ、初対面でも数か月の付き合いでも見られました。",
-      "slug": "silence-during-dates-liking-research"
-    },
-    {
-      "q": "わざと興味がなさそうに振る舞う駆け引きについて、正しいのはどれですか？",
-      "c": [
-        "それだけでは好意は高まらない",
-        "必ず相手の好意が高まる",
-        "すぐに返事をするより必ず効果的",
-        "相手の嫉妬を引き出して関係が深まる"
-      ],
-      "e": "ほかの人には冷たく、自分にだけ興味を示す相手の方が好まれたという結果があります。",
-      "slug": "hard-to-get-scarcity-attraction-research"
-    },
-    {
-      "q": "嘘をつく人のまばたきを調べた実験で、嘘をついている間のまばたきはどうなりましたか？",
-      "c": [
-        "普段より減り、話し終えた後に増えた",
-        "普段より大きく増えた",
-        "まったく変化しなかった",
-        "目を閉じている時間だけが長くなった"
-      ],
-      "e": "本当のことを話す人は、話している間にまばたきが増えていました。",
-      "slug": "blink-rate-nervousness-lying-research"
-    },
-    {
-      "q": "40分の講義動画を見る実験で、時間がたつにつれて、そわそわした動作はどうなりましたか？",
-      "c": [
-        "集中が落ちるのと並行して増えた",
-        "時間がたつほど減った",
-        "最初から最後まで変わらなかった",
-        "内容をよく覚えている人ほど増えた"
-      ],
-      "e": "時間がたつと集中度と記憶が下がり、そわそわした動作は増えました。",
-      "slug": "leg-jiggling-fidgeting-anxiety-research"
-    },
-    {
-      "q": "話を聞く実験で、聞き手の気を別の作業でそらすと、聞き手の反応はどう変わりましたか？",
-      "c": [
-        "話の中身に合わせた具体的な反応が特に減った",
-        "うなずきだけが完全になくなった",
-        "反応の数がかえって増えた",
-        "反応に変化はなかった"
-      ],
-      "e": "うなずきや「うん」のような反応は続きやすく、顔をしかめるなど中身に合った反応が特に減りました。",
-      "slug": "nodding-backchannel-listening-likeability-research"
-    },
-    {
-      "q": "カナダ・トリニダード・日本の人を比べた研究で、考えないと答えられない質問に答えるとき、目を合わせていた時間はどうでしたか？",
-      "c": [
-        "どの国でも50%未満に下がり、国による差はなかった",
-        "日本だけが極端に短く、ほかの国は変わらなかった",
-        "どの国でも80%以上に増えた",
-        "トリニダードだけが下がった"
-      ],
-      "e": "違いが出たのはそらす向きで、日本は下、ほかの2か国は上を見る人が多くいました。",
-      "slug": "gaze-avoidance-social-anxiety-research"
-    },
-    {
-      "q": "200人で行ったパワーポーズの再現実験で、元の研究と同じく効果が確認されたのはどれですか？",
-      "c": [
-        "「力がある」と感じる自己評価",
-        "テストステロンの上昇",
-        "コルチゾールの低下",
-        "リスクを取る行動の増加"
-      ],
-      "e": "ホルモンにも行動の課題にも、有意な差は出ませんでした。",
-      "slug": "power-pose-confidence-replication-research"
-    },
-    {
-      "q": "3つの文化で眉上げ255回を分析した研究で、眉上げと最も多く一緒に出ていた表情はどれですか？",
-      "c": [
-        "笑顔",
-        "眉を寄せる表情",
-        "目を閉じる表情",
-        "口をとがらせる表情"
-      ],
-      "e": "眉上げは、あいさつの場面で長くなる傾向もありました。",
-      "slug": "eyebrow-flash-attraction-research"
-    },
-    {
-      "q": "快い写真を見た実験で、見始めて最初の1秒に体はどう動きましたか？",
-      "c": [
-        "わずかに前へ動いた",
-        "大きく後ろへ反った",
-        "左右に揺れた",
-        "まったく動かなかった"
-      ],
-      "e": "快い写真には、中立の写真よりも体がわずかに前へ動きました（接近の反応）。",
-      "slug": "forward-lean-posture-approach-avoidance-research"
-    },
-    {
-      "q": "目線を前に向けたまま頭を下に傾けると、真顔はどう見えやすいと研究で示されましたか？",
-      "c": [
-        "眉がV字に寄ったように見え、支配的に見える",
-        "やさしく従順に見える",
-        "悲しそうに見える",
-        "印象はまったく変わらない"
-      ],
-      "e": "下向きの傾きで眉が下がって見える錯覚が起き、支配的な印象が強まりました。",
-      "slug": "head-tilt-impression-research"
-    },
-    {
-      "q": "脚を組む向き（右が上か左が上か）が性格を示すという通説を、直接調べた研究はどれくらいありますか？",
-      "c": [
-        "今回の調査では見当たらなかった",
-        "多数の研究で裏づけられている",
-        "メタ分析で否定されている",
-        "文化ごとに正反対の結果が出ている"
-      ],
-      "e": "脚の組み方・向きと性格を直接結びつけた研究は見つかりませんでした。開いた姿勢か閉じた姿勢かが与える印象の研究はありますが、向きそのものの研究ではありません。",
-      "slug": "leg-crossing-direction-personality-research"
-    },
-    {
-      "q": "元FBI捜査官が「なだめ行動」と呼ぶ、首を触るしぐさ。研究でわかっていることに最も近いのはどれですか？",
-      "c": [
-        "体に触れる回数はその時の不安と関係するが、嘘との関係はほぼない",
-        "首を触る人は高い確率で嘘をついている",
-        "首を触るのは好意のサインだと確かめられている",
-        "首を触る回数と不安には関係がない"
-      ],
-      "e": "体をいじる動作と嘘の関係は、120のサンプルをまとめた分析でほぼゼロでした。",
-      "slug": "neck-touch-pacifying-behavior-research"
-    },
-    {
-      "q": "不快な写真を見たときの立ち姿勢を測った実験（36人）で、体はどう動きましたか？",
-      "c": [
-        "女性は後ろへ、男性は前へ動く傾向が強まった",
-        "男女とも後ろへ大きくのけぞった",
-        "男女とも体を横に回して正面をそらした",
-        "男女とも体の動きに変化はなかった"
-      ],
-      "e": "嫌なものへの体の反応は、1つの決まった形をとるとは限りませんでした。",
-      "slug": "torso-turn-away-ventral-denial-research"
-    },
-    {
-      "q": "怒った顔の写真を見たとき、体の揺れと心拍はどう変わりましたか？（女性50人の実験）",
-      "c": [
-        "揺れが減り、心拍がゆっくりになった",
-        "揺れが増え、心拍が速くなった",
-        "揺れが減り、心拍が速くなった",
-        "どちらも変わらなかった"
-      ],
-      "e": "動物の「凍りつき」に似た反応が、人でも見られました。",
-      "slug": "freeze-flight-fight-threat-response-research"
-    },
-    {
-      "q": "嘘の手がかりをまとめたメタ分析で、「唇を押し付ける」動きと嘘の関係はどうでしたか？",
-      "c": [
-        "嘘をつく人でわずかに多いが、差は小さい",
-        "嘘をつく人で大幅に多く、確かな証拠になる",
-        "嘘をつく人の方が少なかった",
-        "まったく調べられていない"
-      ],
-      "e": "唇の動きだけで嘘を判断することはできません。",
-      "slug": "lip-compression-disappearing-lips-stress-research"
-    },
-    {
-      "q": "思い出す作業の最中に目を閉じると、思い出せる内容はどうなると報告されていますか？",
-      "c": [
-        "正しく思い出せる内容が増える",
-        "思い出せる内容が減る",
-        "誤った内容ばかり増える",
-        "何も変わらない"
-      ],
-      "e": "目撃者を対象にした実験では、目を閉じても誤った内容は増えませんでした。",
-      "slug": "eye-blocking-covering-eyes-research"
-    },
-    {
-      "q": "研究でいう「ピノキオ効果」とは、嘘をつくときの何の変化のことですか？",
-      "c": [
-        "赤外線カメラで測る鼻の温度の変化",
-        "鼻を触る回数が増えること",
-        "鼻の穴が広がること",
-        "鼻をすする音が増えること"
-      ],
-      "e": "嘘をつく間に鼻の温度が下がる傾向を、サーモグラフィーで測った研究です。目に見えるしぐさの話ではありません。",
-      "slug": "nose-touching-lying-pinocchio-research"
-    },
-    {
-      "q": "指先を合わせる「尖塔のポーズ」が自信の表れだという説について、研究でわかっていることはどれですか？",
-      "c": [
-        "直接確かめた研究は見当たらず、元FBI捜査官の観察経験にもとづく説",
-        "自信のある人ほど多くすることが実験で確かめられている",
-        "地位の高い人の典型的なしぐさだとメタ分析で確認された",
-        "見る人の9割が自信があると判断する"
-      ],
-      "e": "しぐさと地位の結びつきは、実際より思い込みの方が強いことがメタ分析でわかっています。",
-      "slug": "steepling-hands-confidence-research"
-    },
-    {
-      "q": "嘘の手がかり158種類をまとめたメタ分析で、「足や脚の動き」と嘘の関係はどうでしたか？",
-      "c": [
-        "差はほぼゼロで、悪事についての嘘ではむしろ動きが減った",
-        "嘘をつくと足の動きがはっきり増えた",
-        "嘘をつくと足先が必ず出口を向いた",
-        "足の動きだけで嘘を8割見抜けた"
-      ],
-      "e": "「足は一番正直」という説は、研究では支持されていません。",
-      "slug": "feet-most-honest-leakage-research"
-    },
-    {
-      "q": "女子大学生48人の実験で、赤面が強くなったのはどんなときでしたか？",
-      "c": [
-        "見ている人が1人から4人に増えたとき",
-        "好きな相手と2人きりになったとき",
-        "1人きりで映像を見たとき",
-        "見ている人が0人から1人になったとき"
-      ],
-      "e": "0人から1人では変わらず、効いていたのは注目される量でした。",
-      "slug": "blushing-face-red-liking-research"
-    },
-    {
-      "q": "「嘘をつくと右上を見る」説を教わった人と、教わらなかった人の見抜く力を比べた実験の結果はどれですか？",
-      "c": [
-        "正解数に差はなかった",
-        "教わった人の方が大幅に正確だった",
-        "教わった人の方が自信だけ高くなった",
-        "教わった人の方が正確さが下がった"
-      ],
-      "e": "32本の映像の判定で、正解数は平均16.33本と16.59本でほぼ同じでした。",
-      "slug": "eye-direction-up-right-lying-nlp-research"
-    },
-    {
-      "q": "会話中の笑い1,200回を観察した研究で、笑いが入った場所として多かったのはどれですか？",
-      "c": [
-        "99%以上が文や句の切れ目",
-        "ほとんどが冗談のオチの直後",
-        "大半が相手の話をさえぎる形で",
-        "半分以上が沈黙の最中"
-      ],
-      "e": "笑いは面白くない発言の後にも起きていて、社交的な合図の面が大きいことがわかります。",
-      "slug": "laughing-at-jokes-interest-signal-research"
-    },
-    {
-      "q": "スピードデートの研究で、あるデートでの「質問の多さ」と最も強く関連していたのはどれですか？",
-      "c": [
-        "同じ人がほかのデートでした質問の多さ",
-        "その相手への好意の強さ",
-        "相手の外見の魅力",
-        "デートの時間帯"
-      ],
-      "e": "質問の多さは、主にその人の会話の癖だと考えられています。",
-      "slug": "question-asking-follow-up-interest-research"
-    },
-    {
-      "q": "嘘と本当の話を比べたメタ分析で、話に含まれる細部の量はどうでしたか？",
-      "c": [
-        "本当の話の方が細部が多かった",
-        "嘘の話の方が細部が多かった",
-        "嘘と本当でまったく差がなかった",
-        "嘘の話の方が返答が長かった"
-      ],
-      "e": "「細かすぎる＝嘘」という通説とは逆向きの結果でした。ただし差は小さく、判定には使えません。",
-      "slug": "too-much-detail-lying-research"
-    },
-    {
-      "q": "自己開示と好意のメタ分析で、3つの関係のうち最も強かったのはどれですか？",
-      "c": [
-        "好意を持つ相手に、より多く打ち明ける",
-        "深く打ち明ける人ほど好かれる",
-        "打ち明けた相手を好きになる",
-        "恋愛相談をする相手には恋愛感情がない"
-      ],
-      "e": "ただし研究の多くは、同性どうしの一般的な好意を測ったものです。",
-      "slug": "self-disclosure-confiding-liking-research"
-    },
-    {
-      "q": "からかいが「遊び」ではなく「攻撃」寄りだと考えられるのは、どんなときですか？",
-      "c": [
-        "嫌だと伝えてもやめず、一方的に続くとき",
-        "お互いに言い返し合っているとき",
-        "大げさな言い方や笑いを添えているとき",
-        "気心の知れた2人きりの場で言われたとき"
-      ],
-      "e": "傷つくからかいは、力の差があり、やめずに一方的に繰り返されるものでした。",
-      "slug": "teasing-affection-or-hostility-research"
-    },
-    {
-      "q": "スピーチをした人の「緊張して見えたはず」という予想と、聴衆の実際の評価を比べるとどうでしたか？",
-      "c": [
-        "聴衆の実際の評価の方が明らかに低かった",
-        "聴衆の実際の評価の方が明らかに高かった",
-        "両者はほぼ同じだった",
-        "聴衆は緊張にまったく気づかなかった"
-      ],
-      "e": "自分の緊張は外から丸見えだと思い込みやすい。これを「透明性の錯覚」と呼びます。",
-      "slug": "illusion-of-transparency-nervousness-visible-research"
-    },
-    {
-      "q": "スピードデートの研究で、誰に対しても好意を示した人はどう評価されましたか？",
-      "c": [
-        "相手からかえって好かれにくかった",
-        "誰からも好意を返されやすかった",
-        "評価は特に変わらなかった",
-        "同性からだけ好かれやすかった"
-      ],
-      "e": "特定の相手への好意は返されやすい一方、誰にでも好意を示す人は好かれにくい結果でした。",
-      "slug": "compliments-flattery-liking-signal-research"
-    },
-    {
-      "q": "カップルが二人の問題を話し合う場面で、言葉づかいの一致が高いと何が多くなりましたか？",
-      "c": [
-        "批判的・否定的な言動",
-        "相手を思いやる言動",
-        "笑いや冗談",
-        "沈黙"
-      ],
-      "e": "言葉づかいの一致は好意そのものではなく、会話の調子を強めると考えられています。",
-      "slug": "language-style-matching-line-keigo-research"
-    }
-  ],
-  "purposes": [
-    {
-      "id": "like",
-      "label": "好意・脈ありか",
-      "lead": "好意は1つのしぐさでは決まりません。研究で傾向が確認されているのは、距離・しぐさの同期・会話のテンポなど。1回ではなく、積み重ねで確かめます。"
-    },
-    {
-      "id": "lie",
-      "label": "嘘・本音か",
-      "lead": "しぐさから嘘を見抜ける確率は、206本の研究文献をまとめると平均で約54%でした。視線・まばたき・微表情は嘘の証拠になりません。話の内容を確かめる方が研究と合っています。"
-    },
-    {
-      "id": "nerve",
-      "label": "緊張・不安か",
-      "lead": "顔を触る、まばたき、目をそらすなどは、緊張や負荷で変わることがあります。ただ理由はほかにもあり、読めるのは「緊張しているかもしれない」までです。"
-    },
-    {
-      "id": "warn",
-      "label": "拒絶・関係の不安",
-      "lead": "腕組みや沈黙は、それだけでは拒絶の証拠になりません。一方、嫉妬が行動の制限とセットになる、境界線を軽く扱われるといった行動は、注意して見たいサインです。"
-    },
-    {
-      "id": "fbi",
-      "label": "FBIの解読法を検証",
-      "lead": "元FBI捜査官ジョー・ナヴァロが紹介した解読法を、研究と照らし合わせました。足・首・唇などのしぐさは緊張と関係することがあっても、嘘の証拠になると確かめた研究は見当たりません。ナヴァロ自身も、こうしたしぐさは嘘ではなく緊張のサインだと述べています。"
-    }
-  ],
-  "scenes": [
-    {
-      "id": "date",
-      "label": "デート・恋愛",
-      "lead": "相手の好意を知りたくなったら、1つのしぐさより、距離・しぐさの同期・会話のテンポなど複数の手がかりの積み重ねを見ます。人は会話のあと、相手からの好意を実際より低く見積もりやすいこともわかっています。"
-    },
-    {
-      "id": "work",
-      "label": "職場・面接",
-      "lead": "面接や商談で相手の本音を読みたくなっても、しぐさから嘘を見抜ける確率は平均で約54%です。しぐさは緊張でも変わるので、気になることは言葉で確かめる方が確実です。"
-    },
-    {
-      "id": "conflict",
-      "label": "喧嘩・話し合い",
-      "lead": "喧嘩中に黙り込むのは、感情が高ぶりすぎて頭が働かなくなっているせいかもしれません。1回で決めつけず、よくあるパターンか、落ち着いてから話し合いに戻れるかを見ます。"
-    },
-    {
-      "id": "first",
-      "label": "初対面",
-      "lead": "第一印象は一瞬で決まりますが、顔から受ける信頼感は実際の人柄とずれることがあります。会話のあと、人は相手からの好意を低く見積もりがちです。"
-    },
-    {
-      "id": "sns",
-      "label": "LINE・SNS",
-      "lead": "返信の速さと好意を直接結びつけた決定的な研究はありません。既読を何度も確かめたくなるのは、不安を感じやすい人に見られる傾向です。速さだけで相手の気持ちを決めつけないことが大切です。"
-    }
-  ]
+ "items": [
+  {
+   "part": "目・視線",
+   "gesture": "よく目が合う",
+   "belief": "好意がある",
+   "level": "b",
+   "text": "好意と関連することもありますが、競争や対立の場面でも長く目が合うことがあります。回数だけで恋愛感情は断定できません。",
+   "slug": "eye-contact-gaze-attraction-research",
+   "id": "eye-contact",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "date",
+    "first"
+   ]
+  },
+  {
+   "part": "目・視線",
+   "gesture": "目をそらす・視線が泳ぐ",
+   "belief": "嘘をついている",
+   "level": "c",
+   "text": "視線やしぐさから嘘を見抜ける確率は、206本の研究文献をまとめると平均で約54%でした。しぐさより話の内容を確かめる方が研究と合っています。",
+   "slug": "body-language-lie-detection-accuracy",
+   "id": "look-away",
+   "tags": [
+    "lie"
+   ],
+   "evidence": "meta",
+   "scenes": [
+    "work",
+    "conflict"
+   ]
+  },
+  {
+   "part": "目・視線",
+   "gesture": "瞳が大きく見える（瞳孔が開く）",
+   "belief": "好きだから",
+   "level": "c",
+   "text": "瞳孔は関心・興奮・集中・不安のどれでも広がり、明るさでも大きく変わります。会話中に肉眼で好意を判定することはできません。",
+   "slug": "pupil-dilation-attraction-research",
+   "id": "pupil",
+   "tags": [
+    "like",
+    "nerve"
+   ],
+   "scenes": [
+    "date"
+   ]
+  },
+  {
+   "part": "表情",
+   "gesture": "目じりにシワが寄る笑顔",
+   "belief": "本物の笑顔",
+   "level": "b",
+   "text": "見た目だけで本物か作り笑いかを当てる精度は五分五分に近く、目じりのシワも万能の指標ではありません。口の動きや笑顔が出る速さも手がかりになります。",
+   "slug": "fake-smile-duchenne-detection-research",
+   "id": "smile",
+   "tags": [
+    "lie"
+   ],
+   "scenes": [
+    "date",
+    "work",
+    "first"
+   ]
+  },
+  {
+   "part": "表情",
+   "gesture": "一瞬だけ出た表情（微表情）",
+   "belief": "隠した本音が漏れた",
+   "level": "c",
+   "text": "0.04〜0.2秒ほどで消える表情で、出ること自体がまれです。訓練で見分ける力は伸びても、嘘を見抜く力につながる確かな証拠はありません。",
+   "slug": "microexpression-true-feelings-research",
+   "id": "microexpression",
+   "tags": [
+    "lie"
+   ],
+   "evidence": "meta",
+   "scenes": [
+    "work",
+    "conflict"
+   ]
+  },
+  {
+   "part": "表情",
+   "gesture": "第一印象で「信頼できそう」と感じる",
+   "belief": "信頼できる人",
+   "level": "c",
+   "text": "信頼感の印象は一瞬で決まりますが、実際の人柄を正しく映すとは限りません。見た目で当たりやすい特性と外れやすい特性があります。",
+   "slug": "appearance-first-impression-accuracy-research",
+   "id": "first-impression",
+   "tags": [
+    "lie"
+   ],
+   "scenes": [
+    "work",
+    "first"
+   ]
+  },
+  {
+   "part": "手・触れる",
+   "gesture": "髪や顔をよく触る",
+   "belief": "嘘をついている・好意がある",
+   "level": "b",
+   "text": "緊張や負荷がかかると増える動きです。読めるのは「今、緊張しているかもしれない」までで、嘘や好意の中身は読めません。",
+   "slug": "self-touch-face-hair-nervousness-research",
+   "id": "self-touch",
+   "tags": [
+    "lie",
+    "like",
+    "nerve"
+   ],
+   "scenes": [
+    "date",
+    "work",
+    "first"
+   ]
+  },
+  {
+   "part": "手・触れる",
+   "gesture": "腕を組む",
+   "belief": "拒絶されている",
+   "level": "b",
+   "text": "理由は人や場面によって違い、意味を1つに決められません。課題への粘り強さが増したという研究もあります。",
+   "slug": "arm-crossing-posture-psychology-research",
+   "id": "arm-cross",
+   "tags": [
+    "warn"
+   ],
+   "scenes": [
+    "work",
+    "conflict"
+   ]
+  },
+  {
+   "part": "手・触れる",
+   "gesture": "さりげなく触れてくる",
+   "belief": "好意がある",
+   "level": "b",
+   "text": "触れてよい範囲は親しさに比例しますが、触れる量は性格・文化・関係の段階で変わり、恋愛感情の証拠にはなりません。嫌なタッチには「やめてほしい」と伝えてかまいません。",
+   "slug": "touch-affection-signal-research",
+   "id": "touch",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "date"
+   ]
+  },
+  {
+   "part": "姿勢・距離",
+   "gesture": "体や足先がこちらを向いている",
+   "belief": "好意がある",
+   "level": "b",
+   "text": "注意がどこに向いているかは表しやすい一方、好意との関連は弱いとされています。席の配置や距離にも左右されます。",
+   "slug": "body-orientation-feet-direction-interest-research",
+   "id": "body-orientation",
+   "tags": [
+    "like"
+   ],
+   "evidence": "few",
+   "scenes": [
+    "date"
+   ]
+  },
+  {
+   "part": "姿勢・距離",
+   "gesture": "近くに座る・距離が近い",
+   "belief": "親しく思っている",
+   "level": "a",
+   "text": "関係が近いほど距離は縮みます。ただし性別・年齢・不安でも変わるので、1回の距離より、その人のふだんの距離との違いを見ます。",
+   "slug": "personal-space-distance-intimacy-research",
+   "id": "distance",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "date",
+    "first"
+   ]
+  },
+  {
+   "part": "姿勢・距離",
+   "gesture": "しぐさや姿勢が似てくる",
+   "belief": "好意がある",
+   "level": "a",
+   "text": "好意があるとしぐさは似てきやすいことが確認されています。ただし、わざと真似をして好かれる効果は再現されないことがありました。",
+   "slug": "chameleon-effect-mimicry-liking-research",
+   "id": "mimicry",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "date",
+    "first"
+   ]
+  },
+  {
+   "part": "声・会話",
+   "gesture": "声の高さが変わる",
+   "belief": "好意がある",
+   "level": "b",
+   "text": "気になる相手に声が変わることは確認されていますが、高くなるか低くなるかは研究・性別・状況で違います。",
+   "slug": "voice-pitch-attraction-research",
+   "id": "voice-pitch",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "date"
+   ]
+  },
+  {
+   "part": "声・会話",
+   "gesture": "会話のテンポが合う",
+   "belief": "相性がいい",
+   "level": "a",
+   "text": "話すリズムや動きが自然に重なるペアほど、その場の好意や短期的な関係の継続率が高い傾向があります。ただし1回の印象で相性は決められません。",
+   "slug": "conversation-synchrony-compatibility-research",
+   "id": "tempo",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "date",
+    "first"
+   ]
+  },
+  {
+   "part": "連絡・行動",
+   "gesture": "既読からの返信が遅い・速い",
+   "belief": "好意の大きさ",
+   "level": "c",
+   "text": "返信の速さと好意を直接結びつけた決定的な研究はありません。遠距離のカップルでは、メッセージの頻度や応じ方が満足度と結びついていました。",
+   "slug": "line-reply-speed-research",
+   "id": "reply-speed",
+   "tags": [
+    "like"
+   ],
+   "evidence": "few",
+   "scenes": [
+    "sns"
+   ]
+  },
+  {
+   "part": "連絡・行動",
+   "gesture": "連絡の頻度が減った",
+   "belief": "冷めた",
+   "level": "b",
+   "text": "連絡が減っても冷めたとは限りません。通話記録の研究では、間隔が空いた相手ほど次の通話が長くなる「埋め合わせ」が見られました（恋人に限った研究ではありません）。",
+   "slug": "contact-frequency-decline-cooling-signal-research",
+   "id": "contact-frequency",
+   "tags": [
+    "like",
+    "warn"
+   ],
+   "scenes": [
+    "sns"
+   ]
+  },
+  {
+   "part": "連絡・行動",
+   "gesture": "好きな人のSNSをわざと見ない",
+   "belief": "興味がない",
+   "level": "b",
+   "text": "見られているかもしれないという意識が、SNSでの振る舞いを慎重にさせることは報告されています。ただストーリーを見ない行動そのものを調べた研究は見当たらず、無関心の証拠とは言えません。",
+   "slug": "story-view-avoidance-interest-concealment-research",
+   "id": "sns-avoid",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "sns"
+   ],
+   "evidence": "few"
+  },
+  {
+   "part": "連絡・行動",
+   "gesture": "デート中に沈黙が続く",
+   "belief": "退屈している・嫌われた",
+   "level": "c",
+   "text": "沈黙を気まずく感じるのは多くの人に共通する反応です。会話のあと、相手はこちらが思うよりも自分に好意を持っていることが多いとわかっています。",
+   "slug": "silence-during-dates-liking-research",
+   "id": "silence",
+   "tags": [
+    "like",
+    "warn"
+   ],
+   "scenes": [
+    "date"
+   ]
+  },
+  {
+   "part": "連絡・行動",
+   "gesture": "喧嘩中に黙り込む",
+   "belief": "罰したい・もう終わり",
+   "level": "b",
+   "text": "心拍数が上がりすぎて頭が働かなくなっている可能性があります。1回で決めず、よくあるパターンか、話し合いに戻れるかを見ます。",
+   "slug": "stonewalling-conflict-withdrawal-warning-sign",
+   "id": "stonewalling",
+   "tags": [
+    "warn"
+   ],
+   "scenes": [
+    "conflict"
+   ]
+  },
+  {
+   "part": "連絡・行動",
+   "gesture": "わざと興味がなさそうに振る舞う",
+   "belief": "駆け引き上手でモテる",
+   "level": "c",
+   "text": "わざと興味がなさそうに振る舞うだけでは、好意は高まりませんでした。ほかの人には冷たく、自分にだけ興味を示す相手の方が好まれたという結果があります。",
+   "slug": "hard-to-get-scarcity-attraction-research",
+   "id": "play-hard-to-get",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "date",
+    "sns"
+   ]
+  },
+  {
+   "part": "連絡・行動",
+   "gesture": "嫉妬する・束縛する",
+   "belief": "愛情の証",
+   "level": "b",
+   "text": "研究では、嫉妬の感情と相手を支配しようとする行動は別のものとして扱われます。外出や交友の制限、スマホの確認とセットなら注意が必要です。",
+   "slug": "jealousy-possessiveness-control-research",
+   "id": "jealousy",
+   "tags": [
+    "warn"
+   ],
+   "scenes": [
+    "conflict",
+    "sns"
+   ]
+  },
+  {
+   "part": "連絡・行動",
+   "gesture": "出会ってすぐに猛烈な好意を示す",
+   "belief": "運命の相手",
+   "level": "b",
+   "text": "強い好意そのものが悪いわけではありません。研究はまだ少ないものの、進むスピードと、こちらの境界線をどう扱うかを合わせて見るのが現実的です。",
+   "slug": "love-bombing-warning-signs-research",
+   "id": "love-bombing",
+   "tags": [
+    "warn",
+    "like"
+   ],
+   "scenes": [
+    "date",
+    "sns"
+   ]
+  },
+  {
+   "part": "連絡・行動",
+   "gesture": "なかなか謝らない",
+   "belief": "悪いと思っていない",
+   "level": "c",
+   "text": "謝らないのは、悪いと思っていないからとは限らず、謝ることへの心理的なハードルの高さが背景にあるとされています。",
+   "slug": "non-apology-psychology-barriers-research",
+   "id": "no-apology",
+   "tags": [
+    "warn"
+   ],
+   "scenes": [
+    "conflict"
+   ]
+  },
+  {
+   "part": "目・視線",
+   "gesture": "まばたきが増える",
+   "belief": "緊張している・嘘をついている",
+   "level": "c",
+   "text": "まばたきは会話中に増え、集中すると減ります。嘘の実験では、嘘をつく間にむしろ減っており、嘘の証拠にはなりません。",
+   "slug": "blink-rate-nervousness-lying-research",
+   "id": "blink",
+   "tags": [
+    "lie",
+    "nerve"
+   ],
+   "evidence": "meta",
+   "scenes": [
+    "work"
+   ]
+  },
+  {
+   "part": "体の動き",
+   "gesture": "貧乏ゆすりをする",
+   "belief": "イライラや不安を感じている",
+   "level": "b",
+   "text": "退屈や集中切れで増えることが研究で示されています。嘘との差は見られず、不安やイライラと直接結びつけた研究は見当たりません。",
+   "slug": "leg-jiggling-fidgeting-anxiety-research",
+   "id": "leg-jiggle",
+   "tags": [
+    "nerve"
+   ],
+   "evidence": "few",
+   "scenes": [
+    "work"
+   ]
+  },
+  {
+   "part": "声・会話",
+   "gesture": "相づち・うなずきが多い",
+   "belief": "ちゃんと話を聞いている・好意がある",
+   "level": "b",
+   "text": "うなずきは見る側の好印象を高めますが、気が散っていても続きやすいものです。聞いている手がかりは、話の中身に合った反応や質問です。",
+   "slug": "nodding-backchannel-listening-likeability-research",
+   "id": "nodding",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "date",
+    "work",
+    "first"
+   ]
+  },
+  {
+   "part": "目・視線",
+   "gesture": "目を合わせずに話す",
+   "belief": "嘘をついている・避けられている",
+   "level": "b",
+   "text": "難しいことを考えるときは誰でも目をそらし、緊張や文化の習慣でも視線は減ります。好き嫌いや嘘の証拠にはなりません。",
+   "slug": "gaze-avoidance-social-anxiety-research",
+   "id": "gaze-avoidance",
+   "tags": [
+    "lie",
+    "nerve",
+    "warn"
+   ],
+   "evidence": "meta",
+   "scenes": [
+    "work",
+    "conflict",
+    "first"
+   ]
+  },
+  {
+   "part": "姿勢・距離",
+   "gesture": "胸を張って大きく構える",
+   "belief": "自信がある・強い人",
+   "level": "b",
+   "text": "大きく構えた姿勢は強そう・魅力的に見えやすいものの、しぐさと地位の結びつきは、信じられているほど実際には強くありません。",
+   "slug": "power-pose-confidence-replication-research",
+   "id": "power-pose",
+   "tags": [],
+   "evidence": "meta",
+   "scenes": [
+    "work",
+    "first"
+   ]
+  },
+  {
+   "part": "表情",
+   "gesture": "眉が一瞬上がる",
+   "belief": "好意・脈ありのサイン",
+   "level": "b",
+   "text": "笑顔と一緒に出やすい「関わってよい」の合図です。ただし同意・強調・聞き返しにも使われ、恋愛感情の証拠にはなりません。",
+   "slug": "eyebrow-flash-attraction-research",
+   "id": "eyebrow-flash",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "date",
+    "first"
+   ]
+  },
+  {
+   "part": "姿勢・距離",
+   "gesture": "身を乗り出す",
+   "belief": "興味や好意がある",
+   "level": "b",
+   "text": "会話の実験では好意が高いほど前傾が増えました。ただ動きはわずかで、声が聞き取りにくいなどの理由でも起こります。",
+   "slug": "forward-lean-posture-approach-avoidance-research",
+   "id": "lean-forward",
+   "tags": [
+    "like"
+   ],
+   "evidence": "meta",
+   "scenes": [
+    "date",
+    "work"
+   ]
+  },
+  {
+   "part": "体の動き",
+   "gesture": "首をかしげる",
+   "belief": "好意や興味がある・かわいく見せたい",
+   "level": "b",
+   "text": "頭の傾きは顔の見え方を変え、かわいさなどの印象を動かします。ただし首をかしげる動作を好意と結びつけた研究は見当たりません。",
+   "slug": "head-tilt-impression-research",
+   "id": "head-tilt",
+   "tags": [
+    "like"
+   ],
+   "evidence": "few",
+   "scenes": [
+    "date"
+   ]
+  },
+  {
+   "part": "姿勢・距離",
+   "gesture": "脚を組む（組み方や向き）",
+   "belief": "性格やその人の本音がわかる",
+   "level": "c",
+   "text": "脚の組み方や向きが性格を示すという通説を直接調べた研究は見当たりません。開いた姿勢か閉じた姿勢かは印象に影響しますが、脚の動き自体は嘘の有無とも無関係でした。",
+   "slug": "leg-crossing-direction-personality-research",
+   "id": "leg-cross",
+   "tags": [],
+   "evidence": "few",
+   "scenes": [
+    "date",
+    "work",
+    "first"
+   ]
+  },
+  {
+   "id": "neck-touch",
+   "part": "手・触れる",
+   "gesture": "首や鎖骨のくぼみを触る",
+   "belief": "不安や嘘のサイン（なだめ行動）",
+   "level": "b",
+   "text": "自分の体に触れる回数はその時の不安と関係しますが、首に絞った研究は見当たりません。体をいじる動作と嘘の関係はほぼゼロでした。",
+   "tags": [
+    "nerve",
+    "lie",
+    "fbi"
+   ],
+   "evidence": "few",
+   "slug": "neck-touch-pacifying-behavior-research",
+   "scenes": [
+    "work"
+   ]
+  },
+  {
+   "id": "torso-away",
+   "part": "姿勢・距離",
+   "gesture": "話の途中で体の正面をそらす",
+   "belief": "話や相手を拒んでいる",
+   "level": "b",
+   "text": "嫌なものから体が離れる傾向は実験で見られますが、男女で逆の反応も出ました。会話中の拒否や嘘の証拠と確かめた研究は見当たりません。",
+   "tags": [
+    "warn",
+    "lie",
+    "fbi"
+   ],
+   "evidence": "few",
+   "slug": "torso-turn-away-ventral-denial-research",
+   "scenes": [
+    "work",
+    "conflict"
+   ]
+  },
+  {
+   "id": "freeze",
+   "part": "体の動き",
+   "gesture": "急に体が固まる",
+   "belief": "脅威を感じている・何かを隠している",
+   "level": "b",
+   "text": "怖いものを見ると体の揺れが減り、心拍が下がる「凍りつき」は実験で確認されています。ただし嘘や罪の証拠にはなりません。",
+   "tags": [
+    "nerve",
+    "warn",
+    "lie",
+    "fbi"
+   ],
+   "evidence": "meta",
+   "slug": "freeze-flight-fight-threat-response-research",
+   "scenes": [
+    "conflict"
+   ]
+  },
+  {
+   "id": "lip-compress",
+   "part": "表情",
+   "gesture": "唇をぎゅっと結ぶ・噛む",
+   "belief": "ストレスや嘘を隠している",
+   "level": "b",
+   "text": "緊張や照れ、ストレスで心拍が上がる場面と結びつく傾向はあります。嘘との関係はメタ分析で小さく、証拠にはなりません。",
+   "tags": [
+    "nerve",
+    "lie",
+    "fbi"
+   ],
+   "evidence": "meta",
+   "slug": "lip-compression-disappearing-lips-stress-research",
+   "scenes": [
+    "work",
+    "conflict"
+   ]
+  },
+  {
+   "id": "eye-block",
+   "part": "目・視線",
+   "gesture": "目を手で覆う・ぎゅっと閉じる",
+   "belief": "見たくない・本当は嫌だ",
+   "level": "b",
+   "text": "嫌悪の表情で目が細まると視野は狭まります。ただ目を閉じる動きは、考えごとや思い出す作業でも増え、不快の証拠にはなりません。",
+   "tags": [
+    "fbi",
+    "nerve",
+    "lie"
+   ],
+   "evidence": "few",
+   "slug": "eye-blocking-covering-eyes-research",
+   "scenes": [
+    "work",
+    "conflict"
+   ]
+  },
+  {
+   "id": "nose-touch",
+   "part": "手・触れる",
+   "gesture": "鼻を触る",
+   "belief": "嘘をついている",
+   "level": "c",
+   "text": "この説の根拠は、1人の証言映像を調べた事例研究だけです。メタ分析では、顔を触るしぐさと嘘に明確な関係は見られませんでした。",
+   "tags": [
+    "lie"
+   ],
+   "evidence": "meta",
+   "slug": "nose-touching-lying-pinocchio-research",
+   "scenes": [
+    "work",
+    "conflict"
+   ]
+  },
+  {
+   "id": "steeple",
+   "part": "手・触れる",
+   "gesture": "指先を合わせる（尖塔のポーズ）",
+   "belief": "自信の表れ",
+   "level": "c",
+   "text": "自信の表れとされるのは元FBI捜査官の経験則で、直接確かめた研究は見当たりません。しぐさと地位の結びつきは、実際より思い込みの方が強いことがわかっています。",
+   "tags": [
+    "fbi"
+   ],
+   "evidence": "few",
+   "slug": "steepling-hands-confidence-research",
+   "scenes": [
+    "work"
+   ]
+  },
+  {
+   "id": "honest-feet",
+   "part": "体の動き",
+   "gesture": "足がそわそわ動く・はずむ",
+   "belief": "足は一番正直で、本音が足に出る",
+   "level": "c",
+   "text": "「足は顔より正直」は元FBI捜査官の経験則です。158種類の手がかりをまとめたメタ分析では、足や脚の動きと嘘の差はほぼゼロでした。",
+   "tags": [
+    "lie",
+    "fbi"
+   ],
+   "evidence": "meta",
+   "slug": "feet-most-honest-leakage-research",
+   "scenes": [
+    "date",
+    "work"
+   ]
+  },
+  {
+   "id": "blushing",
+   "part": "表情",
+   "gesture": "顔が赤くなる",
+   "belief": "好意がある・脈あり",
+   "level": "b",
+   "text": "赤面は、人からの注目や評価を意識したときの反応で、見る人が増えるほど強まります。好意と結びつけた研究は見当たりません。",
+   "tags": [
+    "like",
+    "nerve"
+   ],
+   "scenes": [
+    "date",
+    "first"
+   ],
+   "evidence": "few",
+   "slug": "blushing-face-red-liking-research"
+  },
+  {
+   "id": "eyes-up-right",
+   "part": "目・視線",
+   "gesture": "右上を見る",
+   "belief": "嘘をついている・作り話をしている",
+   "level": "c",
+   "text": "3つの実験で、嘘と本当で右上・左上を見る回数に差はありませんでした。この説を教わっても、見抜く力は上がりませんでした。",
+   "tags": [
+    "lie"
+   ],
+   "scenes": [
+    "conflict",
+    "date"
+   ],
+   "slug": "eye-direction-up-right-lying-nlp-research"
+  },
+  {
+   "id": "laughs-a-lot",
+   "part": "表情",
+   "gesture": "冗談でよく笑ってくれる",
+   "belief": "好意がある・脈あり",
+   "level": "b",
+   "text": "好意を持つ相手の冗談には笑いやすい傾向があります。ただ会話の笑いの多くは、面白くない発言の後にも出る社交的な反応です。",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "date",
+    "work",
+    "first"
+   ],
+   "evidence": "meta",
+   "slug": "laughing-at-jokes-interest-signal-research"
+  },
+  {
+   "id": "asks-questions",
+   "part": "声・会話",
+   "gesture": "質問が多い・プライベートを聞く",
+   "belief": "自分に興味がある・脈あり",
+   "level": "b",
+   "text": "質問する人は相手から好かれやすい一方、質問の多さはその人の会話の癖による部分が大きいとされます。相手も自分のことを話すかを合わせて見ます。",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "date",
+    "first",
+    "work"
+   ],
+   "evidence": "few",
+   "slug": "question-asking-follow-up-interest-research"
+  },
+  {
+   "id": "too-detailed",
+   "part": "声・会話",
+   "gesture": "話が細かすぎる",
+   "belief": "嘘を隠すために話を作り込んでいる",
+   "level": "c",
+   "text": "研究では逆に、嘘の話の方が細部が少ない傾向がありました。余計な細部や話の長さには差がなく、細かさで嘘は判定できません。",
+   "tags": [
+    "lie"
+   ],
+   "scenes": [
+    "date",
+    "conflict"
+   ],
+   "evidence": "meta",
+   "slug": "too-much-detail-lying-research"
+  },
+  {
+   "id": "self-disclosure",
+   "part": "声・会話",
+   "gesture": "悩みや自分の話を打ち明けてくる",
+   "belief": "脈あり（恋愛相談なら脈なし）",
+   "level": "b",
+   "text": "人は好意を持つ相手により多く打ち明ける傾向があります。ただし研究の大半は同性どうしで、恋愛感情か友情かは区別できません。",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "date",
+    "first",
+    "work"
+   ],
+   "evidence": "meta",
+   "slug": "self-disclosure-confiding-liking-research"
+  },
+  {
+   "id": "teasing",
+   "part": "声・会話",
+   "gesture": "からかう・いじってくる",
+   "belief": "好意の裏返し",
+   "level": "b",
+   "text": "からかいは親しみにも攻撃にもなります。言われた側はつらく感じやすく、好意の証拠にはなりません。嫌ならやめてと伝えてかまいません。",
+   "tags": [
+    "like",
+    "warn"
+   ],
+   "scenes": [
+    "date",
+    "work",
+    "conflict"
+   ],
+   "evidence": "meta",
+   "slug": "teasing-affection-or-hostility-research"
+  },
+  {
+   "id": "nerves-visible",
+   "part": "表情",
+   "gesture": "緊張が顔や声に出ている気がする",
+   "belief": "緊張は相手に丸わかり",
+   "level": "c",
+   "text": "緊張が相手に見えている程度は、本人が大きく見積もりやすいことがわかっています。聴衆の評価は、話し手の予想より明らかに低くなりました。",
+   "tags": [
+    "nerve"
+   ],
+   "scenes": [
+    "work",
+    "first",
+    "date"
+   ],
+   "slug": "illusion-of-transparency-nervousness-visible-research"
+  },
+  {
+   "id": "compliments",
+   "part": "声・会話",
+   "gesture": "よく褒めてくる",
+   "belief": "好意がある・脈あり",
+   "level": "b",
+   "text": "褒め言葉は好意の表れにも、好かれるための手段にもなります。誰にでも向けた好意はかえって好かれにくく、「自分にだけか」が手がかりになります。",
+   "tags": [
+    "like",
+    "warn"
+   ],
+   "scenes": [
+    "date",
+    "work",
+    "first"
+   ],
+   "evidence": "meta",
+   "slug": "compliments-flattery-liking-signal-research"
+  },
+  {
+   "id": "language-match",
+   "part": "連絡・行動",
+   "gesture": "LINEの文体が似てくる・タメ口になる",
+   "belief": "脈あり",
+   "level": "b",
+   "text": "言葉づかいが一致したペアほど互いに好意を持ちやすい一方、ケンカ中にも一致は高まります。複数の研究をまとめた分析では、効果はごく小さいものでした。",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "sns",
+    "date"
+   ],
+   "evidence": "meta",
+   "slug": "language-style-matching-line-keigo-research"
+  },
+  {
+   "part": "声・会話",
+   "gesture": "答えるまでの間が長い・早口になる",
+   "belief": "嘘をついている",
+   "level": "b",
+   "text": "答えるまでの間はメタ分析で嘘とわずかに関連していました。話す速さには一貫した関連が確認されておらず、単独では嘘の証拠になりません。",
+   "slug": "response-latency-speech-rate-lying-research",
+   "id": "response-pause",
+   "tags": [
+    "lie"
+   ],
+   "scenes": [
+    "work",
+    "conflict"
+   ],
+   "evidence": "meta"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "しぐさや視線から嘘を見抜ける確率は、206本の研究文献をまとめると平均で約何%でしたか？",
+   "c": [
+    "約54%",
+    "約75%",
+    "約90%",
+    "約30%"
+   ],
+   "e": "人の嘘を見抜く力は、偶然（50%）をわずかに上回る程度でした。",
+   "slug": "body-language-lie-detection-accuracy"
+  },
+  {
+   "q": "一瞬だけ出る「微表情」は、表情全体のうちどれくらい見られましたか？",
+   "c": [
+    "約2%",
+    "約20%",
+    "約50%",
+    "約80%"
+   ],
+   "e": "微表情は出ること自体がまれで、出ても本音の証拠とは限りません。",
+   "slug": "microexpression-true-feelings-research"
+  },
+  {
+   "q": "人は1時間に平均何回くらい顔に触れていましたか？",
+   "c": [
+    "約23回",
+    "約3回",
+    "約100回",
+    "ほとんど触れない"
+   ],
+   "e": "顔に触れるのは誰にでもよくある動きで、緊張や負荷で増えます。",
+   "slug": "self-touch-face-hair-nervousness-research"
+  },
+  {
+   "q": "42か国の調査で、「親しい人」との心地よい距離は平均どれくらいでしたか？",
+   "c": [
+    "約32cm",
+    "約92cm",
+    "約135cm",
+    "約2m"
+   ],
+   "e": "他人とは約135cm、知り合いとは約92cm、親しい人とは約32cmでした。",
+   "slug": "personal-space-distance-intimacy-research"
+  },
+  {
+   "q": "瞳孔が広がるのはどんなときですか？",
+   "c": [
+    "関心・興奮・集中・不安など、心が動いたとき",
+    "好きな相手を見たときだけ",
+    "嘘をついたときだけ",
+    "眠いときだけ"
+   ],
+   "e": "瞳孔は「好き」ではなく「心が動いた」ことに反応します。明るさでも変わります。",
+   "slug": "pupil-dilation-attraction-research"
+  },
+  {
+   "q": "作り笑いと本物の笑顔を、見た目だけで見分けた実験の正解率は？",
+   "c": [
+    "五分五分に近い",
+    "ほぼ100%",
+    "約8割",
+    "ほぼ0%"
+   ],
+   "e": "目じりのシワも万能の指標ではありませんでした。",
+   "slug": "fake-smile-duchenne-detection-research"
+  },
+  {
+   "q": "腕組みについて、研究でわかっていることはどれですか？",
+   "c": [
+    "課題に粘り強く取り組む時間が延びたという研究がある",
+    "必ず拒絶のサインである",
+    "必ず自信のサインである",
+    "意味は1つに決まっている"
+   ],
+   "e": "腕組みは、意味が1つに決まらないしぐさです。",
+   "slug": "arm-crossing-posture-psychology-research"
+  },
+  {
+   "q": "しぐさが似てくる「カメレオン効果」について正しいのはどれですか？",
+   "c": [
+    "好意があると起きやすいが、わざと真似して好かれる効果は再現されないこともある",
+    "わざと真似をすれば必ず好かれる",
+    "嫌いな相手ほどしぐさが似てくる",
+    "好意とはまったく関係がない"
+   ],
+   "e": "しぐさの一致は好意の手がかりの1つにとどめるのが研究に沿った見方です。",
+   "slug": "chameleon-effect-mimicry-liking-research"
+  },
+  {
+   "q": "体や足先の向きと好意について、研究に近いのはどれですか？",
+   "c": [
+    "注意の向き先は表しやすいが、好意との関連は弱い",
+    "足先は必ず好きな人の方を向く",
+    "体の向きで好意の強さが正確にわかる",
+    "体の向きと心理はまったく関係がない"
+   ],
+   "e": "向きは席の配置や距離、その場の用事にも大きく左右されます。",
+   "slug": "body-orientation-feet-direction-interest-research"
+  },
+  {
+   "q": "気になる相手と話すときの声について、正しいのはどれですか？",
+   "c": [
+    "変わることはあるが、高くなるか低くなるかは状況で違う",
+    "必ず高くなる",
+    "必ず低くなる",
+    "まったく変わらない"
+   ],
+   "e": "声の変化は好意の手がかりの1つですが、決め手にはなりません。",
+   "slug": "voice-pitch-attraction-research"
+  },
+  {
+   "q": "会話のあとの「相手にどう思われたか」について、研究でわかっていることはどれですか？",
+   "c": [
+    "相手はこちらが思うより自分に好意を持っていることが多い",
+    "相手はこちらが思うより自分を嫌っていることが多い",
+    "相手の気持ちはほぼ正確に読める",
+    "初対面のときだけ読み違える"
+   ],
+   "e": "この傾向は「好意のギャップ」と呼ばれ、初対面でも数か月の付き合いでも見られました。",
+   "slug": "silence-during-dates-liking-research"
+  },
+  {
+   "q": "わざと興味がなさそうに振る舞う駆け引きについて、正しいのはどれですか？",
+   "c": [
+    "それだけでは好意は高まらない",
+    "必ず相手の好意が高まる",
+    "すぐに返事をするより必ず効果的",
+    "相手の嫉妬を引き出して関係が深まる"
+   ],
+   "e": "ほかの人には冷たく、自分にだけ興味を示す相手の方が好まれたという結果があります。",
+   "slug": "hard-to-get-scarcity-attraction-research"
+  },
+  {
+   "q": "嘘をつく人のまばたきを調べた実験で、嘘をついている間のまばたきはどうなりましたか？",
+   "c": [
+    "普段より減り、話し終えた後に増えた",
+    "普段より大きく増えた",
+    "まったく変化しなかった",
+    "目を閉じている時間だけが長くなった"
+   ],
+   "e": "本当のことを話す人は、話している間にまばたきが増えていました。",
+   "slug": "blink-rate-nervousness-lying-research"
+  },
+  {
+   "q": "40分の講義動画を見る実験で、時間がたつにつれて、そわそわした動作はどうなりましたか？",
+   "c": [
+    "集中が落ちるのと並行して増えた",
+    "時間がたつほど減った",
+    "最初から最後まで変わらなかった",
+    "内容をよく覚えている人ほど増えた"
+   ],
+   "e": "時間がたつと集中度と記憶が下がり、そわそわした動作は増えました。",
+   "slug": "leg-jiggling-fidgeting-anxiety-research"
+  },
+  {
+   "q": "話を聞く実験で、聞き手の気を別の作業でそらすと、聞き手の反応はどう変わりましたか？",
+   "c": [
+    "話の中身に合わせた具体的な反応が特に減った",
+    "うなずきだけが完全になくなった",
+    "反応の数がかえって増えた",
+    "反応に変化はなかった"
+   ],
+   "e": "うなずきや「うん」のような反応は続きやすく、顔をしかめるなど中身に合った反応が特に減りました。",
+   "slug": "nodding-backchannel-listening-likeability-research"
+  },
+  {
+   "q": "カナダ・トリニダード・日本の人を比べた研究で、考えないと答えられない質問に答えるとき、目を合わせていた時間はどうでしたか？",
+   "c": [
+    "どの国でも50%未満に下がり、国による差はなかった",
+    "日本だけが極端に短く、ほかの国は変わらなかった",
+    "どの国でも80%以上に増えた",
+    "トリニダードだけが下がった"
+   ],
+   "e": "違いが出たのはそらす向きで、日本は下、ほかの2か国は上を見る人が多くいました。",
+   "slug": "gaze-avoidance-social-anxiety-research"
+  },
+  {
+   "q": "200人で行ったパワーポーズの再現実験で、元の研究と同じく効果が確認されたのはどれですか？",
+   "c": [
+    "「力がある」と感じる自己評価",
+    "テストステロンの上昇",
+    "コルチゾールの低下",
+    "リスクを取る行動の増加"
+   ],
+   "e": "ホルモンにも行動の課題にも、有意な差は出ませんでした。",
+   "slug": "power-pose-confidence-replication-research"
+  },
+  {
+   "q": "3つの文化で眉上げ255回を分析した研究で、眉上げと最も多く一緒に出ていた表情はどれですか？",
+   "c": [
+    "笑顔",
+    "眉を寄せる表情",
+    "目を閉じる表情",
+    "口をとがらせる表情"
+   ],
+   "e": "眉上げは、あいさつの場面で長くなる傾向もありました。",
+   "slug": "eyebrow-flash-attraction-research"
+  },
+  {
+   "q": "快い写真を見た実験で、見始めて最初の1秒に体はどう動きましたか？",
+   "c": [
+    "わずかに前へ動いた",
+    "大きく後ろへ反った",
+    "左右に揺れた",
+    "まったく動かなかった"
+   ],
+   "e": "快い写真には、中立の写真よりも体がわずかに前へ動きました（接近の反応）。",
+   "slug": "forward-lean-posture-approach-avoidance-research"
+  },
+  {
+   "q": "目線を前に向けたまま頭を下に傾けると、真顔はどう見えやすいと研究で示されましたか？",
+   "c": [
+    "眉がV字に寄ったように見え、支配的に見える",
+    "やさしく従順に見える",
+    "悲しそうに見える",
+    "印象はまったく変わらない"
+   ],
+   "e": "下向きの傾きで眉が下がって見える錯覚が起き、支配的な印象が強まりました。",
+   "slug": "head-tilt-impression-research"
+  },
+  {
+   "q": "脚を組む向き（右が上か左が上か）が性格を示すという通説を、直接調べた研究はどれくらいありますか？",
+   "c": [
+    "今回の調査では見当たらなかった",
+    "多数の研究で裏づけられている",
+    "メタ分析で否定されている",
+    "文化ごとに正反対の結果が出ている"
+   ],
+   "e": "脚の組み方・向きと性格を直接結びつけた研究は見つかりませんでした。開いた姿勢か閉じた姿勢かが与える印象の研究はありますが、向きそのものの研究ではありません。",
+   "slug": "leg-crossing-direction-personality-research"
+  },
+  {
+   "q": "元FBI捜査官が「なだめ行動」と呼ぶ、首を触るしぐさ。研究でわかっていることに最も近いのはどれですか？",
+   "c": [
+    "体に触れる回数はその時の不安と関係するが、嘘との関係はほぼない",
+    "首を触る人は高い確率で嘘をついている",
+    "首を触るのは好意のサインだと確かめられている",
+    "首を触る回数と不安には関係がない"
+   ],
+   "e": "体をいじる動作と嘘の関係は、120のサンプルをまとめた分析でほぼゼロでした。",
+   "slug": "neck-touch-pacifying-behavior-research"
+  },
+  {
+   "q": "不快な写真を見たときの立ち姿勢を測った実験（36人）で、体はどう動きましたか？",
+   "c": [
+    "女性は後ろへ、男性は前へ動く傾向が強まった",
+    "男女とも後ろへ大きくのけぞった",
+    "男女とも体を横に回して正面をそらした",
+    "男女とも体の動きに変化はなかった"
+   ],
+   "e": "嫌なものへの体の反応は、1つの決まった形をとるとは限りませんでした。",
+   "slug": "torso-turn-away-ventral-denial-research"
+  },
+  {
+   "q": "怒った顔の写真を見たとき、体の揺れと心拍はどう変わりましたか？（女性50人の実験）",
+   "c": [
+    "揺れが減り、心拍がゆっくりになった",
+    "揺れが増え、心拍が速くなった",
+    "揺れが減り、心拍が速くなった",
+    "どちらも変わらなかった"
+   ],
+   "e": "動物の「凍りつき」に似た反応が、人でも見られました。",
+   "slug": "freeze-flight-fight-threat-response-research"
+  },
+  {
+   "q": "嘘の手がかりをまとめたメタ分析で、「唇を押し付ける」動きと嘘の関係はどうでしたか？",
+   "c": [
+    "嘘をつく人でわずかに多いが、差は小さい",
+    "嘘をつく人で大幅に多く、確かな証拠になる",
+    "嘘をつく人の方が少なかった",
+    "まったく調べられていない"
+   ],
+   "e": "唇の動きだけで嘘を判断することはできません。",
+   "slug": "lip-compression-disappearing-lips-stress-research"
+  },
+  {
+   "q": "思い出す作業の最中に目を閉じると、思い出せる内容はどうなると報告されていますか？",
+   "c": [
+    "正しく思い出せる内容が増える",
+    "思い出せる内容が減る",
+    "誤った内容ばかり増える",
+    "何も変わらない"
+   ],
+   "e": "目撃者を対象にした実験では、目を閉じても誤った内容は増えませんでした。",
+   "slug": "eye-blocking-covering-eyes-research"
+  },
+  {
+   "q": "研究でいう「ピノキオ効果」とは、嘘をつくときの何の変化のことですか？",
+   "c": [
+    "赤外線カメラで測る鼻の温度の変化",
+    "鼻を触る回数が増えること",
+    "鼻の穴が広がること",
+    "鼻をすする音が増えること"
+   ],
+   "e": "嘘をつく間に鼻の温度が下がる傾向を、サーモグラフィーで測った研究です。目に見えるしぐさの話ではありません。",
+   "slug": "nose-touching-lying-pinocchio-research"
+  },
+  {
+   "q": "指先を合わせる「尖塔のポーズ」が自信の表れだという説について、研究でわかっていることはどれですか？",
+   "c": [
+    "直接確かめた研究は見当たらず、元FBI捜査官の観察経験にもとづく説",
+    "自信のある人ほど多くすることが実験で確かめられている",
+    "地位の高い人の典型的なしぐさだとメタ分析で確認された",
+    "見る人の9割が自信があると判断する"
+   ],
+   "e": "しぐさと地位の結びつきは、実際より思い込みの方が強いことがメタ分析でわかっています。",
+   "slug": "steepling-hands-confidence-research"
+  },
+  {
+   "q": "嘘の手がかり158種類をまとめたメタ分析で、「足や脚の動き」と嘘の関係はどうでしたか？",
+   "c": [
+    "差はほぼゼロで、悪事についての嘘ではむしろ動きが減った",
+    "嘘をつくと足の動きがはっきり増えた",
+    "嘘をつくと足先が必ず出口を向いた",
+    "足の動きだけで嘘を8割見抜けた"
+   ],
+   "e": "「足は一番正直」という説は、研究では支持されていません。",
+   "slug": "feet-most-honest-leakage-research"
+  },
+  {
+   "q": "女子大学生48人の実験で、赤面が強くなったのはどんなときでしたか？",
+   "c": [
+    "見ている人が1人から4人に増えたとき",
+    "好きな相手と2人きりになったとき",
+    "1人きりで映像を見たとき",
+    "見ている人が0人から1人になったとき"
+   ],
+   "e": "0人から1人では変わらず、効いていたのは注目される量でした。",
+   "slug": "blushing-face-red-liking-research"
+  },
+  {
+   "q": "「嘘をつくと右上を見る」説を教わった人と、教わらなかった人の見抜く力を比べた実験の結果はどれですか？",
+   "c": [
+    "正解数に差はなかった",
+    "教わった人の方が大幅に正確だった",
+    "教わった人の方が自信だけ高くなった",
+    "教わった人の方が正確さが下がった"
+   ],
+   "e": "32本の映像の判定で、正解数は平均16.33本と16.59本でほぼ同じでした。",
+   "slug": "eye-direction-up-right-lying-nlp-research"
+  },
+  {
+   "q": "会話中の笑い1,200回を観察した研究で、笑いが入った場所として多かったのはどれですか？",
+   "c": [
+    "99%以上が文や句の切れ目",
+    "ほとんどが冗談のオチの直後",
+    "大半が相手の話をさえぎる形で",
+    "半分以上が沈黙の最中"
+   ],
+   "e": "笑いは面白くない発言の後にも起きていて、社交的な合図の面が大きいことがわかります。",
+   "slug": "laughing-at-jokes-interest-signal-research"
+  },
+  {
+   "q": "スピードデートの研究で、あるデートでの「質問の多さ」と最も強く関連していたのはどれですか？",
+   "c": [
+    "同じ人がほかのデートでした質問の多さ",
+    "その相手への好意の強さ",
+    "相手の外見の魅力",
+    "デートの時間帯"
+   ],
+   "e": "質問の多さは、主にその人の会話の癖だと考えられています。",
+   "slug": "question-asking-follow-up-interest-research"
+  },
+  {
+   "q": "嘘と本当の話を比べたメタ分析で、話に含まれる細部の量はどうでしたか？",
+   "c": [
+    "本当の話の方が細部が多かった",
+    "嘘の話の方が細部が多かった",
+    "嘘と本当でまったく差がなかった",
+    "嘘の話の方が返答が長かった"
+   ],
+   "e": "「細かすぎる＝嘘」という通説とは逆向きの結果でした。ただし差は小さく、判定には使えません。",
+   "slug": "too-much-detail-lying-research"
+  },
+  {
+   "q": "自己開示と好意のメタ分析で、3つの関係のうち最も強かったのはどれですか？",
+   "c": [
+    "好意を持つ相手に、より多く打ち明ける",
+    "深く打ち明ける人ほど好かれる",
+    "打ち明けた相手を好きになる",
+    "恋愛相談をする相手には恋愛感情がない"
+   ],
+   "e": "ただし研究の多くは、同性どうしの一般的な好意を測ったものです。",
+   "slug": "self-disclosure-confiding-liking-research"
+  },
+  {
+   "q": "からかいが「遊び」ではなく「攻撃」寄りだと考えられるのは、どんなときですか？",
+   "c": [
+    "嫌だと伝えてもやめず、一方的に続くとき",
+    "お互いに言い返し合っているとき",
+    "大げさな言い方や笑いを添えているとき",
+    "気心の知れた2人きりの場で言われたとき"
+   ],
+   "e": "傷つくからかいは、力の差があり、やめずに一方的に繰り返されるものでした。",
+   "slug": "teasing-affection-or-hostility-research"
+  },
+  {
+   "q": "スピーチをした人の「緊張して見えたはず」という予想と、聴衆の実際の評価を比べるとどうでしたか？",
+   "c": [
+    "聴衆の実際の評価の方が明らかに低かった",
+    "聴衆の実際の評価の方が明らかに高かった",
+    "両者はほぼ同じだった",
+    "聴衆は緊張にまったく気づかなかった"
+   ],
+   "e": "自分の緊張は外から丸見えだと思い込みやすい。これを「透明性の錯覚」と呼びます。",
+   "slug": "illusion-of-transparency-nervousness-visible-research"
+  },
+  {
+   "q": "スピードデートの研究で、誰に対しても好意を示した人はどう評価されましたか？",
+   "c": [
+    "相手からかえって好かれにくかった",
+    "誰からも好意を返されやすかった",
+    "評価は特に変わらなかった",
+    "同性からだけ好かれやすかった"
+   ],
+   "e": "特定の相手への好意は返されやすい一方、誰にでも好意を示す人は好かれにくい結果でした。",
+   "slug": "compliments-flattery-liking-signal-research"
+  },
+  {
+   "q": "カップルが二人の問題を話し合う場面で、言葉づかいの一致が高いと何が多くなりましたか？",
+   "c": [
+    "批判的・否定的な言動",
+    "相手を思いやる言動",
+    "笑いや冗談",
+    "沈黙"
+   ],
+   "e": "言葉づかいの一致は好意そのものではなく、会話の調子を強めると考えられています。",
+   "slug": "language-style-matching-line-keigo-research"
+  },
+  {
+   "q": "嘘をついているときの話す速さについて、研究でわかっていることはどれですか？",
+   "c": [
+    "速くなる・遅くなるの一貫した関連は確認されていない",
+    "必ず早口になる",
+    "必ずゆっくりになる",
+    "声が高くなる"
+   ],
+   "e": "メタ分析では、話す速さと嘘に信頼できる関連は見つかっていません。",
+   "slug": "response-latency-speech-rate-lying-research"
+  }
+ ],
+ "purposes": [
+  {
+   "id": "like",
+   "label": "好意・脈ありか",
+   "lead": "好意は1つのしぐさでは決まりません。研究で傾向が確認されているのは、距離・しぐさの同期・会話のテンポなど。1回ではなく、積み重ねで確かめます。"
+  },
+  {
+   "id": "lie",
+   "label": "嘘・本音か",
+   "lead": "しぐさから嘘を見抜ける確率は、206本の研究文献をまとめると平均で約54%でした。視線・まばたき・微表情は嘘の証拠になりません。話の内容を確かめる方が研究と合っています。"
+  },
+  {
+   "id": "nerve",
+   "label": "緊張・不安か",
+   "lead": "顔を触る、まばたき、目をそらすなどは、緊張や負荷で変わることがあります。ただ理由はほかにもあり、読めるのは「緊張しているかもしれない」までです。"
+  },
+  {
+   "id": "warn",
+   "label": "拒絶・関係の不安",
+   "lead": "腕組みや沈黙は、それだけでは拒絶の証拠になりません。一方、嫉妬が行動の制限とセットになる、境界線を軽く扱われるといった行動は、注意して見たいサインです。"
+  },
+  {
+   "id": "fbi",
+   "label": "FBIの解読法を検証",
+   "lead": "元FBI捜査官ジョー・ナヴァロが紹介した解読法を、研究と照らし合わせました。足・首・唇などのしぐさは緊張と関係することがあっても、嘘の証拠になると確かめた研究は見当たりません。ナヴァロ自身も、こうしたしぐさは嘘ではなく緊張のサインだと述べています。"
+  }
+ ],
+ "scenes": [
+  {
+   "id": "date",
+   "label": "デート・恋愛",
+   "lead": "相手の好意を知りたくなったら、1つのしぐさより、距離・しぐさの同期・会話のテンポなど複数の手がかりの積み重ねを見ます。人は会話のあと、相手からの好意を実際より低く見積もりやすいこともわかっています。"
+  },
+  {
+   "id": "work",
+   "label": "職場・面接",
+   "lead": "面接や商談で相手の本音を読みたくなっても、しぐさから嘘を見抜ける確率は平均で約54%です。しぐさは緊張でも変わるので、気になることは言葉で確かめる方が確実です。"
+  },
+  {
+   "id": "conflict",
+   "label": "喧嘩・話し合い",
+   "lead": "喧嘩中に黙り込むのは、感情が高ぶりすぎて頭が働かなくなっているせいかもしれません。1回で決めつけず、よくあるパターンか、落ち着いてから話し合いに戻れるかを見ます。"
+  },
+  {
+   "id": "first",
+   "label": "初対面",
+   "lead": "第一印象は一瞬で決まりますが、顔から受ける信頼感は実際の人柄とずれることがあります。会話のあと、人は相手からの好意を低く見積もりがちです。"
+  },
+  {
+   "id": "sns",
+   "label": "LINE・SNS",
+   "lead": "返信の速さと好意を直接結びつけた決定的な研究はありません。既読を何度も確かめたくなるのは、不安を感じやすい人に見られる傾向です。速さだけで相手の気持ちを決めつけないことが大切です。"
+  }
+ ]
 }

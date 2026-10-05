@@ -1506,5 +1506,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Maruhan_Charity_Box_at_Daito_Osaka.jpg/500px-Maruhan_Charity_Box_at_Daito_Osaka.jpg",
   "og": "https://umbra.seadice.win/img/kindness-helping-signal-of-interest-research.jpg",
   "local": true
+ },
+ "response-latency-speech-rate-lying-research": {
+  "file": "File:Stopwatch, 1810201155, ako.jpg",
+  "src": "/img/response-latency-speech-rate-lying-research.jpg",
+  "src640": "/img/response-latency-speech-rate-lying-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "Focus stack of a vintage stopwatch. Focus stack of 25 pictures with Helicon Focus.",
+  "artist": "Ansgar Koreng",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Stopwatch,_1810201155,_ako.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stopwatch%2C_1810201155%2C_ako.jpg/960px-Stopwatch%2C_1810201155%2C_ako.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stopwatch%2C_1810201155%2C_ako.jpg/500px-Stopwatch%2C_1810201155%2C_ako.jpg",
+  "og": "https://umbra.seadice.win/img/response-latency-speech-rate-lying-research.jpg",
+  "local": true
  }
 }
