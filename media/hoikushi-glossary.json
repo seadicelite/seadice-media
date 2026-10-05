@@ -36,6 +36,20 @@
   "date": "2026-10-05"
  },
  {
+  "id": "hoikushi-toroku",
+  "term": "保育士登録",
+  "en": "Nursery teacher registration",
+  "field": "基本",
+  "def": "保育士登録とは、保育士となる資格を得た人が、都道府県に備えられた保育士登録簿に氏名や生年月日などの登録を受けることで、登録を受けると保育士登録証が交付され、保育士と名乗れるようになります（児童福祉法第18条の18）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
   "id": "hikki-kamoku",
   "term": "筆記試験の9科目",
   "en": "Nine written subjects",

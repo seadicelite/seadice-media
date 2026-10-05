@@ -2,26 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hoikushi.seadice.win/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://hoikushi.seadice.win/course/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://hoikushi.seadice.win/course/what-is-hoikushi/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://hoikushi.seadice.win/course/hoikushi-duties/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://hoikushi.seadice.win/course/exam-system/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://hoikushi.seadice.win/course/self-study-plan/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://hoikushi.seadice.win/course/intro-test/</loc>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://hoikushi.seadice.win/glossary/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://hoikushi.seadice.win/about/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://hoikushi.seadice.win/sources/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://hoikushi.seadice.win/disclaimer/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-05</lastmod>
   </url>
 </urlset>
