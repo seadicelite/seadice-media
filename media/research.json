@@ -2,7 +2,7 @@
   "enabled": true,
   "publish": "auto",
   "slug": "research", "siteType": "article",
-  "name": "SEADICE RESEARCH",
+  "name": "悩みの科学",
   "path": "sites/research/",
   "url": "https://research.seadice.win/",
   "extraNav": [
