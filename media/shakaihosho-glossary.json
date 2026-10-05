@@ -1698,5 +1698,301 @@
     "url": "https://laws.e-gov.go.jp/law/417AC0000000123"
    }
   ]
+ },
+ {
+  "id": "dai1go-hihokensha",
+  "term": "第1号被保険者",
+  "en": "Category I insured person",
+  "field": "年金",
+  "def": "第1号被保険者とは、日本に住む20歳以上60歳未満の人のうち、自営業者・学生・無職の人など、第2号被保険者にも第3号被保険者にも当たらず、国民年金の保険料を自分で納める人のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「公的年金制度の種類と加入する制度」",
+    "url": "https://www.nenkin.go.jp/service/seidozenpan/20140710.html"
+   },
+   {
+    "text": "厚生労働省「年金制度の仕組みと考え方 第2 公的年金制度の体系（被保険者、保険料）」",
+    "url": "https://www.mhlw.go.jp/stf/nenkin_shikumi_002.html"
+   }
+  ]
+ },
+ {
+  "id": "dai3go-hihokensha",
+  "term": "第3号被保険者",
+  "en": "Category III insured person",
+  "field": "年金",
+  "def": "第3号被保険者とは、厚生年金保険に入っている会社員・公務員など（第2号被保険者）に扶養されている、原則として日本に住む20歳以上60歳未満の配偶者で、国民年金の保険料の自己負担がない人のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「公的年金制度の種類と加入する制度」",
+    "url": "https://www.nenkin.go.jp/service/seidozenpan/20140710.html"
+   },
+   {
+    "text": "厚生労働省「年金制度の仕組みと考え方 第2 公的年金制度の体系（被保険者、保険料）」",
+    "url": "https://www.mhlw.go.jp/stf/nenkin_shikumi_002.html"
+   }
+  ]
+ },
+ {
+  "id": "jukyu-shikaku-kikan",
+  "term": "受給資格期間",
+  "en": "Qualifying period",
+  "field": "年金",
+  "def": "受給資格期間とは、老齢基礎年金を受け取るために必要な、保険料を納めた期間と免除された期間などを合わせた期間で、2017年8月1日から10年以上あればよいとされている期間のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「老齢基礎年金の受給要件・支給開始時期・年金額」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/roureinenkin/jukyu-yoken/20150401-02.html"
+   }
+  ]
+ },
+ {
+  "id": "gakusei-nofu-tokurei",
+  "term": "学生納付特例制度",
+  "en": "Special payment system for students",
+  "field": "年金",
+  "def": "学生納付特例制度とは、大学・短大・高校・専門学校などに在学する学生が申請し、家族の所得を問わず本人の前年所得が一定額以下の場合に、在学中の国民年金保険料の納付が猶予される制度のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「国民年金保険料の学生納付特例制度」",
+    "url": "https://www.nenkin.go.jp/service/kokunen/menjo/20150514.html"
+   },
+   {
+    "text": "e-Gov法令検索「国民年金法」第90条の3",
+    "url": "https://laws.e-gov.go.jp/law/334AC0000000141"
+   }
+  ]
+ },
+ {
+  "id": "tsuino",
+  "term": "追納",
+  "en": "Retroactive payment",
+  "field": "年金",
+  "def": "追納とは、国民年金保険料の免除・納付猶予・学生納付特例の承認を受けた期間の保険料を、追納の承認を受けた月の前10年以内の分に限って後から納め、老齢基礎年金の額を満額に近づける制度のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「国民年金保険料の追納制度」",
+    "url": "https://www.nenkin.go.jp/service/kokunen/menjo/20150331.html"
+   },
+   {
+    "text": "e-Gov法令検索「国民年金法」第94条",
+    "url": "https://laws.e-gov.go.jp/law/334AC0000000141"
+   }
+  ]
+ },
+ {
+  "id": "shitsugyo-tokurei-menjo",
+  "term": "失業等による特例免除",
+  "en": "Special exemption due to unemployment",
+  "field": "年金",
+  "def": "失業等による特例免除とは、失業・倒産・事業の廃止などの事実が書類で確認できるときに、失業等をした本人の前年所得にかかわらず、国民年金保険料の免除や納付猶予の審査を受けられる特例のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「国民年金保険料の免除制度・納付猶予制度」",
+    "url": "https://www.nenkin.go.jp/service/kokunen/menjo/20150428.html"
+   }
+  ]
+ },
+ {
+  "id": "izoku-kiso-nenkin",
+  "term": "遺族基礎年金",
+  "en": "Survivors' Basic Pension",
+  "field": "年金",
+  "def": "遺族基礎年金とは、国民年金に入っていた人などが亡くなったとき、その人に生計を維持されていた子のある配偶者か子（18歳になった年度の3月31日まで、障害等級1級・2級なら20歳未満）が受け取る年金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「遺族基礎年金（受給要件・対象者・年金額）」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/izokunenkin/jukyu-yoken/20150401-04.html"
+   }
+  ]
+ },
+ {
+  "id": "izoku-kosei-nenkin",
+  "term": "遺族厚生年金",
+  "en": "Survivors' Employees' Pension",
+  "field": "年金",
+  "def": "遺族厚生年金とは、厚生年金に入っていた人などが亡くなったとき、生計を維持されていた遺族のうち順位のいちばん高い人が受け取る、亡くなった人の老齢厚生年金の報酬比例部分の4分の3を額とする年金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「遺族厚生年金（受給要件・対象者・年金額）」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/izokunenkin/jukyu-yoken/20150424.html"
+   }
+  ]
+ },
+ {
+  "id": "kafu-nenkin",
+  "term": "寡婦年金",
+  "en": "Widow's pension",
+  "field": "年金",
+  "def": "寡婦年金とは、国民年金の第1号被保険者として保険料を納めた期間と免除期間が10年以上ある夫が亡くなったとき、10年以上婚姻関係（事実上の婚姻関係を含む）が続き生計を維持されていた妻に、60歳から65歳になるまで支給される年金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「寡婦年金」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/sonota-kyufu/1go-dokuji/20140422-02.html"
+   }
+  ]
+ },
+ {
+  "id": "dai2go-hihokensha",
+  "term": "第2号被保険者（介護保険）",
+  "en": "Category 2 insured person (long-term care insurance)",
+  "field": "介護",
+  "def": "第2号被保険者とは、介護保険の被保険者のうち、市区町村に住所がある40歳以上65歳未満の医療保険加入者のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（9条）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   }
+  ]
+ },
+ {
+  "id": "tokutei-shippei",
+  "term": "特定疾病（介護保険）",
+  "en": "Specified diseases (long-term care insurance)",
+  "field": "介護",
+  "def": "特定疾病とは、40〜64歳の第2号被保険者が介護保険のサービスを受けられる原因として政令で定められた、加齢に伴って生じる心身の変化に起因する16の病気のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（7条3項）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   },
+   {
+    "text": "厚生労働省「介護保険制度について」（リーフレット）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001238058.pdf"
+   }
+  ]
+ },
+ {
+  "id": "kogaku-kaigo-service-hi",
+  "term": "高額介護サービス費",
+  "en": "High-cost long-term care service benefit",
+  "field": "介護",
+  "def": "高額介護サービス費とは、ひと月に支払った介護サービスの自己負担の合計が所得に応じた上限額を超えたとき、市区町村への申請により超えた分が介護保険から支給されるしくみのことです。要支援の人には、同じしくみの高額介護予防サービス費があります。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（51条・61条）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   },
+   {
+    "text": "厚生労働省 介護サービス情報公表システム「サービスにかかる利用料」",
+    "url": "https://www.kaigokensaku.mhlw.go.jp/commentary/fee.html"
+   }
+  ]
+ },
+ {
+  "id": "shujii-ikensho",
+  "term": "主治医意見書",
+  "en": "Attending physician's opinion",
+  "field": "介護",
+  "def": "主治医意見書とは、要介護認定のために、市区町村の依頼を受けた主治医（かかりつけ医）が、本人の病気やけがの状況などについて医学的な立場から書く意見書のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「介護保険制度について」（リーフレット）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001238058.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「介護保険法」第27条",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   }
+  ]
+ },
+ {
+  "id": "kaigo-nintei-shinsakai",
+  "term": "介護認定審査会",
+  "en": "Long-term care certification committee",
+  "field": "介護",
+  "def": "介護認定審査会とは、市区町村に置かれ、保健・医療・福祉の学識経験者が、認定調査の結果と主治医意見書をもとに、介護がどのくらい必要かを審査・判定する機関のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」第14条・第27条",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   },
+   {
+    "text": "厚生労働省「介護保険制度について」（リーフレット）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001238058.pdf"
+   }
+  ]
+ },
+ {
+  "id": "care-plan",
+  "term": "ケアプラン",
+  "en": "Care plan",
+  "field": "介護",
+  "def": "ケアプランとは、要介護・要支援の人が、どの介護サービスをどう使うかをまとめた計画（介護サービス計画・介護予防サービス計画）のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「介護保険制度について」（リーフレット）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001238058.pdf"
+   }
+  ]
+ },
+ {
+  "id": "shunin-kaigo-shien-senmonin",
+  "term": "主任介護支援専門員",
+  "en": "Chief care manager",
+  "field": "介護",
+  "def": "主任介護支援専門員とは、介護支援専門員（ケアマネジャー）のうち主任介護支援専門員研修を修了した人で、地域包括支援センターに置かれる専門職の1つのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法施行規則」（第140条の66）",
+    "url": "https://laws.e-gov.go.jp/law/411M50000100036"
+   },
+   {
+    "text": "厚生労働省「地域包括支援センターの概要」",
+    "url": "https://www.mhlw.go.jp/content/12300000/001671185.pdf"
+   }
+  ]
+ },
+ {
+  "id": "kenri-yogo",
+  "term": "権利擁護",
+  "en": "Advocacy",
+  "field": "介護",
+  "def": "権利擁護とは、高齢者が尊厳ある生活を送れるよう、成年後見制度の活用促進や高齢者虐待への対応などを行う、地域包括支援センターの仕事のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（第115条の45第2項第2号）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   },
+   {
+    "text": "厚生労働省「地域包括支援センターの概要」",
+    "url": "https://www.mhlw.go.jp/content/12300000/001671185.pdf"
+   }
+  ]
+ },
+ {
+  "id": "sogo-sodan-shien",
+  "term": "総合相談支援",
+  "en": "Comprehensive consultation support",
+  "field": "介護",
+  "def": "総合相談支援とは、地域の高齢者や家族介護者の相談に初期段階から継続的・専門的に応じ、地域のさまざまなサービスなどにつなげる、地域包括支援センターの仕事のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（第115条の45第2項第1号）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   },
+   {
+    "text": "厚生労働省「地域包括支援センターの概要」",
+    "url": "https://www.mhlw.go.jp/content/12300000/001671185.pdf"
+   }
+  ]
  }
 ]
