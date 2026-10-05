@@ -1080,5 +1080,235 @@
    }
   ],
   "date": "2026-10-05"
+ },
+ {
+  "id": "shakai-hosho",
+  "term": "社会保障",
+  "en": "Social security",
+  "field": "社会福祉",
+  "def": "社会保障とは、社会保険、社会福祉、公的扶助、保健医療・公衆衛生の4つの柱からなり、国民の安心や生活の安定を生涯にわたって支えるしくみのことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「社会保障制度とは」（資料）",
+    "url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "koteki-fujo",
+  "term": "公的扶助",
+  "en": "Public assistance",
+  "field": "社会福祉",
+  "def": "公的扶助とは、生活に困窮する人に最低限度の生活を保障し、自立を助ける制度のことで、社会保障の4つの柱の一つです。",
+  "sources": [
+   {
+    "text": "厚生労働省「社会保障制度とは」（資料）",
+    "url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "chiiki-fukushi",
+  "term": "地域福祉",
+  "en": "Community welfare",
+  "field": "社会福祉",
+  "def": "地域福祉とは、地域における社会福祉のことで、地域住民が互いに人格と個性を尊重し合いながら参加し、共生する地域社会の実現を目指して進められます（社会福祉法第1条・第4条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/326AC0000000045"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "social-work",
+  "term": "ソーシャルワーク",
+  "en": "Social work",
+  "field": "社会福祉",
+  "def": "ソーシャルワークとは、人々が生活課題に取り組みウェルビーイングを高められるよう、人々やさまざまな構造に働きかける専門職であり学問のことで、2014年に国際的なグローバル定義が採択されました。",
+  "sources": [
+   {
+    "text": "日本ソーシャルワーカー連盟「ソーシャルワーク専門職のグローバル定義」",
+    "url": "https://www.jfsw.org/definition/global_definition/"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "juyo",
+  "term": "受容",
+  "en": "Acceptance",
+  "field": "社会福祉",
+  "def": "受容とは、保護者のありのままを受け止め、援助を目的として敬意をもってより深く理解する姿勢のことで、不適切と思われる行動を無条件に肯定することではありません。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（第3章〜第5章）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/e442d00a/20231013-policies-hoiku-shishin-h30-0000202212.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jiko-kettei",
+  "term": "自己決定の尊重",
+  "en": "Respect for self-determination",
+  "field": "社会福祉",
+  "def": "自己決定の尊重とは、保護者自らが選択し決定していくことを支え、その決定を尊重する支援の基本姿勢のことで、保育所保育指針第4章に示されています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   },
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（第3章〜第5章）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/e442d00a/20231013-policies-hoiku-shishin-h30-0000202212.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "daisansha-iin",
+  "term": "第三者委員",
+  "en": "Third-party committee member",
+  "field": "社会福祉",
+  "def": "第三者委員とは、苦情解決に社会性や客観性を確保し、利用者の立場や特性に配慮した適切な対応を進めるために、社会福祉事業の経営者が置く委員のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「社会福祉事業の経営者による福祉サービスに関する苦情解決の仕組みの指針について」",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00ta8363&dataType=1&pageNo=1"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "unei-tekiseika",
+  "term": "運営適正化委員会",
+  "en": "Committee for appropriate operation",
+  "field": "社会福祉",
+  "def": "運営適正化委員会とは、都道府県社会福祉協議会に置かれ、福祉サービスに関する苦情について相談・助言・調査を行い、同意を得て解決のあっせんも行う委員会のことです（社会福祉法第83条・第85条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/326AC0000000045"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "daisansha-hyoka",
+  "term": "福祉サービス第三者評価",
+  "en": "Third-party evaluation of welfare services",
+  "field": "社会福祉",
+  "def": "福祉サービス第三者評価とは、事業者と利用者以外の公正・中立な第三者機関が、専門的かつ客観的な立場から福祉サービスの質を評価するしくみのことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「福祉サービス第三者評価事業について」（資料）",
+    "url": "https://www.mhlw.go.jp/stf/shingi/2r98520000026rqp-att/2r98520000026s05.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「社会福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/326AC0000000045"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "katei-doyo-yoiku-kankyo",
+  "term": "家庭と同様の養育環境",
+  "en": "Family-like care environment",
+  "field": "社会的養護",
+  "def": "家庭と同様の養育環境とは、児童福祉法第3条の2で、家庭での養育が難しい子どもがまず継続的に養育されるべきとされる環境のことで、こども家庭庁の資料は養子縁組・里親・ファミリーホームを挙げています。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   },
+   {
+    "text": "こども家庭庁 資料集「社会的養育の推進に向けて（令和8年3月）」",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/8aba23f3-abb8-4f95-8202-f0fd487fbe16/7d8f0cc9/20260316_policies_shakaiteki-yougo_156.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "satooya-itakuritsu",
+  "term": "里親等委託率",
+  "en": "Foster care placement rate",
+  "field": "社会的養護",
+  "def": "里親等委託率とは、乳児院・児童養護施設・里親・ファミリーホームで暮らす子どものうち、里親とファミリーホームに委託されている子どもの割合のことで、こども家庭庁の資料では令和7年3月末で26.3%です。",
+  "sources": [
+   {
+    "text": "こども家庭庁 資料集「社会的養育の推進に向けて（令和8年3月）」",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/8aba23f3-abb8-4f95-8202-f0fd487fbe16/7d8f0cc9/20260316_policies_shakaiteki-yougo_156.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "yoiku-satooya",
+  "term": "養育里親",
+  "en": "Foster parent",
+  "field": "社会的養護",
+  "def": "養育里親とは、要保護児童を養育することを希望し、都道府県知事が行う研修の修了などの要件を満たして、養育里親名簿に登録された人のことです（児童福祉法第6条の4第1号）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "yoshiengumi-satooya",
+  "term": "養子縁組里親",
+  "en": "Foster parent seeking adoption",
+  "field": "社会的養護",
+  "def": "養子縁組里親とは、要保護児童の養育と、養子縁組によって養親となることを希望し、研修を修了して養子縁組里親名簿に登録された人のことです（児童福祉法第6条の4第2号）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "family-home",
+  "term": "ファミリーホーム",
+  "en": "Family home",
+  "field": "社会的養護",
+  "def": "ファミリーホームとは、小規模住居型児童養育事業のことで、要保護児童の養育に経験のある人などの住居で子どもを育てる、定員5〜6人の家庭養護です（児童福祉法第6条の3第8項）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   },
+   {
+    "text": "こども家庭庁 資料集「社会的養育の推進に向けて（令和8年3月）」",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/8aba23f3-abb8-4f95-8202-f0fd487fbe16/7d8f0cc9/20260316_policies_shakaiteki-yougo_156.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jido-jiritsu-seikatsu-enjo",
+  "term": "児童自立生活援助事業",
+  "en": "Independent living assistance program",
+  "field": "社会的養護",
+  "def": "児童自立生活援助事業とは、措置を解除された人などが共同生活を送りながら、相談や生活指導、就業の支援を受けられる事業のことで、その住居は自立援助ホームと呼ばれます（児童福祉法第6条の3第1項）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   },
+   {
+    "text": "こども家庭庁「社会的養護の施設等について」",
+    "url": "https://www.cfa.go.jp/policies/shakaiteki-yougo/shisetsu-gaiyou"
+   }
+  ],
+  "date": "2026-10-05"
  }
 ]
