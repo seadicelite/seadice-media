@@ -41,5 +41,11 @@
     "name": "ゼロから学ぶ保育士",
     "url": "https://hoikushi.seadice.win/",
     "live": false
+  },
+  {
+    "slug": "kaigofukushi",
+    "name": "ゼロから学ぶ介護福祉士",
+    "url": "https://kaigofukushi.seadice.win/",
+    "live": false
   }
 ]
