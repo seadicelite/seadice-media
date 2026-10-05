@@ -3,7 +3,7 @@
 > ゼロから学ぶ保育士は、保育士の仕事と保育士試験の9科目を無料で独学できる学習サイトです。保育原理、子ども家庭福祉、社会的養護、保育の心理学、子どもの保健、子どもの食と栄養までを全12章の講座と用語辞典で学べます。登録不要。
 
 ゼロから学ぶ保育士はSEADICE(https://seadice.win/)が運営する、保育士の仕事と保育士試験を無料で独学できる学習サイトです。登録不要・無料。
-保育士試験のしくみ・保育原理・教育原理・子ども家庭福祉・社会福祉・社会的養護・保育の心理学・子どもの保健・子どもの食と栄養・保育実習理論・実技試験・保育の現場の課題を学ぶ無料講座「ゼロから学ぶ保育士入門」（全12章）と、保育用語辞典（97語）を掲載しています。
+保育士試験のしくみ・保育原理・教育原理・子ども家庭福祉・社会福祉・社会的養護・保育の心理学・子どもの保健・子どもの食と栄養・保育実習理論・実技試験・保育の現場の課題を学ぶ無料講座「ゼロから学ぶ保育士入門」（全12章）と、保育用語辞典（112語）を掲載しています。
 本文は児童福祉法などの法令・保育所保育指針・こども家庭庁などの一次情報をもとに日本語で独自に書いており、各ページに出典があります。確認問題はオリジナルで、過去問は使っていません。試験を実施する団体とは関係ありません。
 
 ## 主要ページ
@@ -45,7 +45,12 @@
   - 6-1 社会的養護とは？家庭で暮らせない子どもを社会で育てるしくみ: https://hoikushi.seadice.win/course/social-care-basics/
   - 6-2 里親と施設の違いは？乳児院・児童養護施設などの役割: https://hoikushi.seadice.win/course/foster-care-and-facilities/
   - 6-3 施設で働く保育士の仕事は？子どもの権利を守るしくみ: https://hoikushi.seadice.win/course/care-staff-and-child-rights/
-- 第7章 保育の心理学: 乳幼児期の発達の道すじ。愛着、認知と言葉の発達、遊びと社会性、発達のつまずきへの理解と支援。（準備中）
+- 第7章 保育の心理学: 乳幼児期の発達の道すじ。愛着、認知と言葉の発達、遊びと社会性、発達のつまずきへの理解と支援。
+  - 7-1 発達とは何か？乳幼児期の発達の道すじと個人差: https://hoikushi.seadice.win/course/development-path-early-years/
+  - 7-2 愛着（アタッチメント）とは？安心の基地が育つしくみ: https://hoikushi.seadice.win/course/attachment-secure-base/
+  - 7-3 考える力はどう育つ？ピアジェの発達段階: https://hoikushi.seadice.win/course/piaget-cognitive-stages/
+  - 7-4 言葉はどう育つ？喃語から会話までの道すじ: https://hoikushi.seadice.win/course/language-babbling-to-conversation/
+  - 7-5 遊びと社会性はどう育つ？発達のつまずきへの支援: https://hoikushi.seadice.win/course/play-social-development-support/
 - 第8章 子どもの保健: 子どもの体の発育と健康観察、保育所でよくある感染症と予防、乳幼児突然死症候群（SIDS）と睡眠中の事故、けがや急病への対応。
   - 8-1 子どもの発育はどう見る？発育曲線と毎日の健康観察: https://hoikushi.seadice.win/course/growth-and-health-check/
   - 8-2 保育所の感染症対策は？うつる経路と登園のめやす: https://hoikushi.seadice.win/course/infection-control-and-return/

@@ -1448,5 +1448,251 @@
    }
   ],
   "date": "2026-10-06"
+ },
+ {
+  "id": "hattatsu-katei",
+  "term": "発達過程",
+  "en": "Developmental process",
+  "field": "保育の心理学",
+  "def": "発達過程とは、子どもの発達を、ある時点の「できる・できない」ではなく、環境との相互作用を通して資質・能力が育まれていく過程としてとらえる、保育所保育指針の考え方のことです。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（序章・第1章）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/f4758db1/20231013-policies-hoiku-shishin-h30-bunkatsu-1_24.pdf"
+   },
+   {
+    "text": "厚生労働省「保育所保育指針」",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "tansaku-katsudo",
+  "term": "探索活動",
+  "en": "Exploratory activity",
+  "field": "保育の心理学",
+  "def": "探索活動とは、子どもが身近なものを見る、触れる、動かすなどして、自分から周りの環境を探る活動のことです。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（第2章1・2）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/dc73559a/20231013-policies-hoiku-shishin-h30-2_19.pdf"
+   },
+   {
+    "text": "厚生労働省「保育所保育指針」",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "jiga",
+  "term": "自我",
+  "en": "Sense of self (ego)",
+  "field": "保育の心理学",
+  "def": "自我とは、自分の思いや欲求をもつ「自分」という意識のことで、保育所保育指針は1歳以上3歳未満を自我が形成される重要な時期としています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   },
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（第2章1・2）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/dc73559a/20231013-policies-hoiku-shishin-h30-2_19.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "aichaku",
+  "term": "愛着（アタッチメント）",
+  "en": "Attachment",
+  "field": "保育の心理学",
+  "def": "愛着（アタッチメント）とは、子どもが特定の人との間に結ぶ情緒的な絆のことで、ボウルビィが理論の土台をつくりました。",
+  "sources": [
+   {
+    "text": "Bretherton, I. (1992). The origins of attachment theory. Developmental Psychology, 28(5)",
+    "url": "http://www.psychology.sunysb.edu/attachment/online/inge_origins.pdf"
+   },
+   {
+    "text": "OpenStax『Psychology 2e』9.3 Stages of Development",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development"
+   },
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（第2章1・2）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/dc73559a/20231013-policies-hoiku-shishin-h30-2_19.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "anzen-kichi",
+  "term": "安全基地",
+  "en": "Secure base",
+  "field": "保育の心理学",
+  "def": "安全基地とは、子どもが周りを探索するときの拠りどころとなる愛着の対象の存在のことで、エインズワースが示した考え方です。",
+  "sources": [
+   {
+    "text": "Bretherton, I. (1992). The origins of attachment theory. Developmental Psychology, 28(5)",
+    "url": "http://www.psychology.sunysb.edu/attachment/online/inge_origins.pdf"
+   },
+   {
+    "text": "OpenStax『Psychology 2e』9.3 Stages of Development",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "strange-situation",
+  "term": "ストレンジ・シチュエーション法",
+  "en": "Strange Situation procedure",
+  "field": "保育の心理学",
+  "def": "ストレンジ・シチュエーション法とは、エインズワースが用いた、1歳児と母親の分離と再会を含む約20分・8場面の観察手続きのことです。",
+  "sources": [
+   {
+    "text": "Bretherton, I. (1992). The origins of attachment theory. Developmental Psychology, 28(5)",
+    "url": "http://www.psychology.sunysb.edu/attachment/online/inge_origins.pdf"
+   },
+   {
+    "text": "OpenStax『Psychology 2e』9.3 Stages of Development",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "taisho-eizokusei",
+  "term": "対象の永続性",
+  "en": "Object permanence",
+  "field": "保育の心理学",
+  "def": "対象の永続性とは、見えなくなったものも存在し続けていると分かることで、ピアジェの感覚運動期に育つとされます。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』9.2 Lifespan Theories",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hozon",
+  "term": "保存",
+  "en": "Conservation",
+  "field": "保育の心理学",
+  "def": "保存とは、見た目や形が変わっても、何も足したり取ったりしなければ量や数は変わらないと分かることで、ピアジェの具体的操作期に獲得されるとされます。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』9.2 Lifespan Theories",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "jiko-chushinsei",
+  "term": "自己中心性",
+  "en": "Egocentrism",
+  "field": "保育の心理学",
+  "def": "自己中心性とは、ピアジェが前操作期の特徴とした、自分以外の人の視点に立って考えることが難しい状態のことです。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』9.2 Lifespan Theories",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "nango",
+  "term": "喃語",
+  "en": "Babbling",
+  "field": "保育の心理学",
+  "def": "喃語とは、「ばばば」「まんまん」のように、赤ちゃんが同じ音をくり返して出す声のことで、意味のある言葉が出る前に現れます。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』9.3 Stages of Development",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development"
+   },
+   {
+    "text": "厚生労働省「保育所保育指針」",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ichigobun",
+  "term": "一語文",
+  "en": "One-word sentence (holophrase)",
+  "field": "保育の心理学",
+  "def": "一語文とは、「マンマ」のように、1つの言葉で呼びかけや欲求など様々な思いを表す、言葉が出始めた頃の話し方のことです。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（第2章1・2）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/dc73559a/20231013-policies-hoiku-shishin-h30-2_19.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "nigobun",
+  "term": "二語文",
+  "en": "Two-word sentence",
+  "field": "保育の心理学",
+  "def": "二語文とは、「マンマ欲しい」のように2つの言葉をつなげて表す話し方のことで、一語文の後に現れます。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（第2章1・2）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/dc73559a/20231013-policies-hoiku-shishin-h30-2_19.pdf"
+   },
+   {
+    "text": "厚生労働省「保育所保育指針」",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "heiko-asobi",
+  "term": "平行遊び",
+  "en": "Parallel play",
+  "field": "保育の心理学",
+  "def": "平行遊びとは、同じようなおもちゃを使って隣どうしで遊ぶが、直接は関わらない遊びのことで、パーテンの6分類の1つです。",
+  "sources": [
+   {
+    "text": "Lifespan Development「Play」（SUNY / Lumen Learning）",
+    "url": "https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/play/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hattatsu-shogai",
+  "term": "発達障害",
+  "en": "Developmental disability",
+  "field": "保育の心理学",
+  "def": "発達障害とは、発達障害者支援法第2条で、自閉症、学習障害、注意欠陥多動性障害などの脳機能の障害で、症状が通常低年齢で現れるものとして政令で定めるもののことです。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「発達障害者支援法」",
+    "url": "https://laws.e-gov.go.jp/law/416AC1000000167"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shakaiteki-shoheki",
+  "term": "社会的障壁",
+  "en": "Social barrier",
+  "field": "保育の心理学",
+  "def": "社会的障壁とは、障害がある人にとって日常生活や社会生活の妨げとなる、社会の中の事物、制度、慣行、観念などのことです（発達障害者支援法第2条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「発達障害者支援法」",
+    "url": "https://laws.e-gov.go.jp/law/416AC1000000167"
+   }
+  ],
+  "date": "2026-10-06"
  }
 ]
