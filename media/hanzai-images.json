@@ -865,5 +865,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/160312_Takenaka_Carpentry_Tools_Museum_Kobe_Japan06s3.jpg/500px-160312_Takenaka_Carpentry_Tools_Museum_Kobe_Japan06s3.jpg",
   "og": "https://hanzai.seadice.win/img/employment-and-recidivism-og.jpg",
   "local": true
+ },
+ "automation-bias-ai-trust": {
+  "file": "File:BalticServers data center.jpg",
+  "src": "/img/automation-bias-ai-trust.jpg",
+  "src640": "/img/automation-bias-ai-trust-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "Server room of BalticServers",
+  "artist": "BalticServers.com",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/960px-BalticServers_data_center.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/500px-BalticServers_data_center.jpg",
+  "og": "https://hanzai.seadice.win/img/automation-bias-ai-trust.jpg",
+  "local": true
  }
 }

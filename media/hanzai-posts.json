@@ -1,5 +1,13 @@
 [
   {
+    "slug": "automation-bias-ai-trust",
+    "category": "取り調べと冤罪",
+    "type": "guide",
+    "date": "2026-10-05",
+    "title": "人はなぜAIの判断を信じすぎるのか。顔照合・指紋・再犯予測の研究が示す「自動化バイアス」",
+    "summary": "機械の答えに人の判断は引っぱられる。顔照合で正答率70%→48%、専門家も例外ではない自動化バイアスの研究。"
+  },
+  {
     "slug": "anchoring-effect-sentencing",
     "category": "取り調べと冤罪",
     "type": "guide",

@@ -53,6 +53,7 @@
 
 - [自白を迫る取り調べと、話を聞く取り調べ。どちらが真実に近づけるのか](https://hanzai.seadice.win/accusatorial-vs-information-gathering-interviews/): 問い詰める取り調べは、話を聞く取り調べより虚偽自白の見込みが約4.4倍高かった。話を聞く方法は、真実の自白を減らさなかった。
 - [最初に聞いた数字に判断が引っぱられる。アンカリングと量刑、プロの法律家でも起きるのか](https://hanzai.seadice.win/anchoring-effect-sentencing/): 法律の判断でも、最初に示された数字に量刑が引き寄せられる。29研究・8,549人のメタ分析で確認され、法律家でも起きていた。
+- [人はなぜAIの判断を信じすぎるのか。顔照合・指紋・再犯予測の研究が示す「自動化バイアス」](https://hanzai.seadice.win/automation-bias-ai-trust/): 機械の答えに人の判断は引っぱられる。顔照合で正答率70%→48%、専門家も例外ではない自動化バイアスの研究。
 - [DNA鑑定で晴れた冤罪から何がわかったか。誤った有罪を支えた4種類の証拠](https://hanzai.seadice.win/dna-exonerations-lessons/): DNA鑑定で無実が晴れた人の裁判を調べると、誤った目撃・法科学・情報提供者・自白が並んだ。上訴でも誤りは見つかりにくかった。
 - [見た目で判決が変わる？顔の「信頼できなさ」と死刑判決の関係](https://hanzai.seadice.win/facial-appearance-and-legal-judgments/): 顔が信頼できなさそうに見える被告ほど死刑判決が多かった。童顔や魅力も、実際の裁判の結果と関係していた。
 - [無実の人はなぜ「やりました」と言ってしまうのか。虚偽自白を生む取り調べの心理](https://hanzai.seadice.win/false-confessions-why-innocent-confess/): DNA鑑定で無実が判明した事件の15〜20%に虚偽自白があった。偽の証拠や「罪を軽く見せる言葉」は、無実の人の自白を増やす。
