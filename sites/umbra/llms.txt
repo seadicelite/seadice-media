@@ -50,6 +50,7 @@
 - [しぐさで嘘は見抜ける？206本の研究文献が示した正解率は、約54%](https://umbra.seadice.win/body-language-lie-detection-accuracy/): 視線やしぐさで嘘はわかるのか。メタ分析が示した限界と、代わりにできること。
 - [体や足先の向きは関心のサインか。研究でわかった「体の向き」と好意の関係](https://umbra.seadice.win/body-orientation-feet-direction-interest-research/): 体や足先の向きは注意の向き先を示す手がかりにはなるが、好意との関連は弱い。距離や席の影響が大きいことを研究から検証する。
 - [しぐさが似てくるのは好意のサインか。「カメレオン効果」の研究でわかったこと](https://umbra.seadice.win/chameleon-effect-mimicry-liking-research/): 好意があるとしぐさは似てきやすい。ただし、わざと真似をして好かれる効果は再現されないこともあった。
+- [嘘をつく人は目をじっと見てくるのか。意図的なアイコンタクトと嘘の研究](https://umbra.seadice.win/deliberate-eye-contact-lying-research/): 嘘をつくと目をそらすという通説とは逆に、338人を調べた実験では嘘をついた人の方が意図して目を合わせようとしていた
 - [目を手で覆う・ぎゅっと閉じるのは「見たくない」のサインか。元FBI捜査官の説を研究で検証](https://umbra.seadice.win/eye-blocking-covering-eyes-research/): 嫌悪の表情では目が細まり視野が狭まる。ただ目を閉じるのは考えごとや思い出すときにも増え、不快の証拠にはならない。
 - [目が合う回数は「好き」のサインか？心理学研究でわかった視線と恋愛感情の関係](https://umbra.seadice.win/eye-contact-gaze-attraction-research/): アイコンタクトと好意の関係を実験データから検証。自分の記憶は当てにならない。
 - [嘘をつくと右上を見るのは本当か。視線の向きと嘘の通説を研究で検証](https://umbra.seadice.win/eye-direction-up-right-lying-nlp-research/): 「右上を見たら嘘」はNLP由来の通説。3つの実験で嘘と本当の視線に差はなかった
