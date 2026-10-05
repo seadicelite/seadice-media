@@ -45,7 +45,7 @@
   ],
   "enabled": false,
   "live": false,
-  "note": "2026-10-05 骨組み作成。レッスン未執筆。YMYLのため執筆と監査を分ける。学習サイト。記事エンジン(/media)の対象外。ページは python3 media/study.py shakaihosho で生成する（共通エンジン。用語は media/shakaihosho-glossary.json、レッスンは /study-lesson shakaihosho）。第2章（お金）・第3章（住まい）・第11章（制度にたどり着く方法）は care:true で careHtml（自立相談支援機関・福祉事務所・よりそいホットライン・法テラスを公式ページで確認、2026-10-05）を表示。看板ツール（困りごと別の制度さがし）は未作成。",
+  "note": "2026-10-05 骨組み作成、同日全12章37レッスン完成（各レッスンを執筆と監査で分けて作成）。年1回（毎年4月の金額改定後）に見直す。YMYLのため執筆と監査を分ける。学習サイト。記事エンジン(/media)の対象外。ページは python3 media/study.py shakaihosho で生成する（共通エンジン。用語は media/shakaihosho-glossary.json、レッスンは /study-lesson shakaihosho）。第2章（お金）・第3章（住まい）・第11章（制度にたどり着く方法）は care:true で careHtml（自立相談支援機関・福祉事務所・よりそいホットライン・法テラスを公式ページで確認、2026-10-05）を表示。看板ツール（困りごと別の制度さがし）は未作成。",
   "practice": [],
   "icon": "保",
   "logoSub": "困ったときに使える制度を学ぶ",

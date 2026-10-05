@@ -1994,5 +1994,241 @@
     "url": "https://www.mhlw.go.jp/content/12300000/001671185.pdf"
    }
   ]
+ },
+ {
+  "id": "nenkin-jimusho",
+  "term": "年金事務所",
+  "en": "Pension office",
+  "field": "年金",
+  "def": "年金事務所とは、日本年金機構の窓口で、年金の受け取りや国民年金の加入・納付に関する相談と手続きを受け付ける事務所のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「全国の相談・手続き窓口」",
+    "url": "https://www.nenkin.go.jp/section/soudan/index.html"
+   }
+  ]
+ },
+ {
+  "id": "sogo-rodo-sodan-corner",
+  "term": "総合労働相談コーナー",
+  "en": "Comprehensive labor consultation corner",
+  "field": "仕事",
+  "def": "総合労働相談コーナーとは、解雇や賃金の引き下げ、いじめ・嫌がらせなど職場のトラブルを、予約なし・無料で相談できる、都道府県労働局や労働基準監督署の中などに置かれた窓口のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「総合労働相談コーナーのご案内」",
+    "url": "https://www.mhlw.go.jp/general/seido/chihou/kaiketu/soudan.html"
+   }
+  ]
+ },
+ {
+  "id": "gyosei-tetsuzuki-ho",
+  "term": "行政手続法",
+  "en": "Administrative Procedure Act",
+  "field": "手続き",
+  "def": "行政手続法とは、処分・行政指導・届出などの手続きについて共通のルールを定めた法律で、申請が役所の事務所に届いたら遅滞なく審査を始めることなどを定めたもののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「行政手続法」",
+    "url": "https://laws.e-gov.go.jp/law/405AC0000000088"
+   }
+  ]
+ },
+ {
+  "id": "doko-shien",
+  "term": "同行支援",
+  "en": "Accompanying support",
+  "field": "手続き",
+  "def": "同行支援とは、自立相談支援機関の支援員などが、相談の「たらい回し」にならないよう、必要に応じて本人と一緒にほかの窓口や機関へ出向いて支える支援のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「自立相談支援事業の手引き」",
+    "url": "https://www.mhlw.go.jp/content/001472177.pdf"
+   }
+  ]
+ },
+ {
+  "id": "kyoji",
+  "term": "教示",
+  "en": "Notice of appeal rights",
+  "field": "手続き",
+  "def": "教示とは、行政庁が不服申立てのできる処分をするときに、不服申立てができることと、その出し先や期間を書面で相手に知らせることのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「行政不服審査法」（第82条）",
+    "url": "https://laws.e-gov.go.jp/law/426AC0000000068"
+   },
+   {
+    "text": "総務省「行政不服審査法パンフレット（詳細版）」",
+    "url": "https://www.soumu.go.jp/main_content/000835680.pdf"
+   }
+  ]
+ },
+ {
+  "id": "gyosei-fufuku-shinsaho",
+  "term": "行政不服審査法",
+  "en": "Administrative Complaint Review Act",
+  "field": "手続き",
+  "def": "行政不服審査法とは、行政庁の処分などに不服がある人が、簡易迅速かつ公正な手続きで審査請求などの不服申立てをするしくみを定めた法律のことです。全面的に見直された今の法律は2016年4月1日に施行されました。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「行政不服審査法」（第1条）",
+    "url": "https://laws.e-gov.go.jp/law/426AC0000000068"
+   },
+   {
+    "text": "総務省「行政不服審査法の見直しの経緯など」",
+    "url": "https://www.soumu.go.jp/main_sosiki/gyoukan/kanri/fufuku/fufukukeii.html"
+   }
+  ]
+ },
+ {
+  "id": "shakai-hoken-shinsakan",
+  "term": "社会保険審査官",
+  "en": "Social Insurance Examiner",
+  "field": "手続き",
+  "def": "社会保険審査官とは、各地方厚生局に置かれ、健康保険や国民年金・厚生年金保険の処分に不服がある人からの審査請求を扱う担当者のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会保険審査官及び社会保険審査会法」（第1条）",
+    "url": "https://laws.e-gov.go.jp/law/328AC0000000206"
+   },
+   {
+    "text": "日本年金機構「審査請求・再審査請求（不服申立て）」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/kyotsu/fufuku/20140709.html"
+   }
+  ]
+ },
+ {
+  "id": "houterasu",
+  "term": "法テラス（日本司法支援センター）",
+  "en": "Japan Legal Support Center",
+  "field": "手続き",
+  "def": "法テラス（日本司法支援センター）とは、総合法律支援法にもとづき、法的なトラブルの解決に必要な情報やサービスを届けるために国が設立した法人のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "法テラス「法テラス（日本司法支援センター）とは」",
+    "url": "https://www.houterasu.or.jp/site/about-houterasu/houterasutoha.html"
+   },
+   {
+    "text": "e-Gov法令検索「総合法律支援法」",
+    "url": "https://laws.e-gov.go.jp/law/416AC0000000074"
+   }
+  ]
+ },
+ {
+  "id": "minji-horitsu-fujo",
+  "term": "民事法律扶助",
+  "en": "Civil legal aid",
+  "field": "手続き",
+  "def": "民事法律扶助とは、経済的に余裕のない人が法的なトラブルにあったときに、法テラスが無料の法律相談や弁護士・司法書士の費用の立替えを行うしくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "法テラス「民事法律扶助業務」",
+    "url": "https://www.houterasu.or.jp/site/about-houterasu/minjihouritsufujo.html"
+   },
+   {
+    "text": "e-Gov法令検索「総合法律支援法」（第30条第1項第2号）",
+    "url": "https://laws.e-gov.go.jp/law/416AC0000000074"
+   }
+  ]
+ },
+ {
+  "id": "sharoushi",
+  "term": "社会保険労務士",
+  "en": "Labor and social security attorney",
+  "field": "仕事",
+  "def": "社会保険労務士とは、社会保険労務士法にもとづき、労働や社会保険・年金に関する法令の書類作成や手続き、相談を仕事として行う専門家のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会保険労務士法」（第2条）",
+    "url": "https://laws.e-gov.go.jp/law/343AC1000000089"
+   },
+   {
+    "text": "全国社会保険労務士会連合会「社労士に相談する」",
+    "url": "https://www.shakaihokenroumushi.jp/consultation/"
+   },
+   {
+    "text": "全国社会保険労務士会連合会「年金の相談をしたい」",
+    "url": "https://www.shakaihokenroumushi.jp/consultation/annuity/"
+   }
+  ]
+ },
+ {
+  "id": "keizoku-kyufu",
+  "term": "資格喪失後の継続給付",
+  "en": "Continued benefit after loss of insured status",
+  "field": "医療",
+  "def": "資格喪失後の継続給付とは、退職日まで続けて1年以上健康保険に加入し（任意継続の期間などを除く）、退職日に傷病手当金を受けているか受けられる状態の人が、退職後も引き続き傷病手当金を受け取れることです。いったん働ける状態になると、その後また働けなくなっても支給されません。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "全国健康保険協会（協会けんぽ）「病気やケガで会社を休んだとき（傷病手当金）」",
+    "url": "https://www.kyoukaikenpo.or.jp/benefit/injury_and_sickness_allowance/"
+   },
+   {
+    "text": "e-Gov法令検索「健康保険法」（第104条）",
+    "url": "https://laws.e-gov.go.jp/law/211AC0000000070"
+   }
+  ]
+ },
+ {
+  "id": "jukyu-kikan-encho",
+  "term": "受給期間の延長（雇用保険）",
+  "en": "Extension of the benefit period",
+  "field": "雇用",
+  "def": "受給期間の延長（雇用保険）とは、原則として離職の翌日から1年間の基本手当の受給期間中に、病気・けが・妊娠・出産・育児などで30日以上続けて働けなくなったとき、働けない日数だけ受給期間を延ばせる（延長は最長3年）しくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "ハローワークインターネットサービス「基本手当について」",
+    "url": "https://www.hellowork.mhlw.go.jp/insurance/insurance_basicbenefit.html"
+   },
+   {
+    "text": "e-Gov法令検索「雇用保険法」（第20条）",
+    "url": "https://laws.e-gov.go.jp/law/349AC0000000116"
+   }
+  ]
+ },
+ {
+  "id": "kofu",
+  "term": "公布",
+  "en": "Promulgation",
+  "field": "手続き",
+  "def": "公布とは、成立した法律や政令などを官報に載せて、広く世の中に知らせる手続きのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「官報の発行に関する法律」（第3条）",
+    "url": "https://laws.e-gov.go.jp/law/505AC0000000085"
+   },
+   {
+    "text": "e-Gov法令検索「法の適用に関する通則法」（第2条）",
+    "url": "https://laws.e-gov.go.jp/law/418AC0000000078"
+   }
+  ]
+ },
+ {
+  "id": "shikobi",
+  "term": "施行日",
+  "en": "Effective date",
+  "field": "手続き",
+  "def": "施行日とは、法律などが実際に効き目を持ち、使われ始める日のことです。法律は原則として公布の日から起算して20日を経過した日に施行されますが、法律で別の施行期日を定めることもできます。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「法の適用に関する通則法」（第2条）",
+    "url": "https://laws.e-gov.go.jp/law/418AC0000000078"
+   }
+  ]
  }
 ]
