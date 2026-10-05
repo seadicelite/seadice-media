@@ -1693,5 +1693,810 @@
     "quote": "資格喪失の日の前日（退職日等）までに被保険者期間…が継続して1年以上あり…ただし、一旦仕事に就くことできる状態になった場合、その後更に仕事に就くことができない状態になっても、傷病手当金は支給されません。"
    }
   ]
+ },
+ "rosai-hoken": {
+  "audit": {
+   "date": "2026-10-05",
+   "checked": 19,
+   "fixed": [
+    "傷病手当金の説明を「健康保険の傷病手当金（第5章）」に修正（国民健康保険には原則ない制度のため、どの保険かを明記）",
+    "給付基礎日額の起算日を「けがをした日（病気は診断で確定した日）」に修正（厚労省パンフレットの定義に合わせる）",
+    "表の療養（補償）等給付に、通勤災害は200円以内の一部負担金があることを追記（労災保険法31条2項）"
+   ],
+   "unverified_removed": []
+  },
+  "claims": [
+   {
+    "text": "労災保険は正式には労働者災害補償保険で、労働者災害補償保険法に定められている",
+    "source_url": "https://laws.e-gov.go.jp/law/322AC0000000050",
+    "quote": "第一条　労働者災害補償保険は、業務上の事由…又は通勤による労働者の負傷、疾病、障害、死亡等に対して迅速かつ公正な保護をするため、必要な保険給付を行い"
+   },
+   {
+    "text": "国（政府）が運営する",
+    "source_url": "https://laws.e-gov.go.jp/law/322AC0000000050",
+    "quote": "第二条　労働者災害補償保険は、政府が、これを管掌する。"
+   },
+   {
+    "text": "請求の窓口は労働基準監督署",
+    "source_url": "https://www.mhlw.go.jp/content/11200000/001743837.pdf",
+    "quote": "所定の保険給付請求書に必要事項を記載して、被災労働者の所属事業場の所在地を管轄する労働基準監督署長(二次健康診断等給付は所轄労働局長）"
+   },
+   {
+    "text": "業務災害・通勤災害の区別（法7条）と通勤の定義、逸脱・中断の扱い",
+    "source_url": "https://laws.e-gov.go.jp/law/322AC0000000050",
+    "quote": "労働者の業務上の負傷、疾病、障害又は死亡（以下「業務災害」という。）…労働者の通勤による負傷、疾病、障害又は死亡（以下「通勤災害」という。）…通勤とは、労働者が、就業に関し、次に掲げる移動を、合理的な経路及び方法により行うことをいい…逸脱し、又は…中断した場合においては、当該逸脱又は中断の間及びその後の…移動は…通勤としない。ただし…日常生活上必要な行為であつて厚生労働省令で定めるもの…"
+   },
+   {
+    "text": "仕事・通勤以外の災害は健康保険の対象",
+    "source_url": "https://www.mhlw.go.jp/content/11200000/001743837.pdf",
+    "quote": "【原因・事由】【災害分類】【保険】仕事によるもの 通勤によるもの 業務災害 複数業務要因災害 通勤災害 その他の災害 健康保険 労災保険（図）"
+   },
+   {
+    "text": "労働者を1人でも使う事業に業種・規模を問わず原則すべて適用。パート・アルバイトなど雇用形態は関係ない",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/index.html",
+    "quote": "労災保険は、原則として 一人でも労働者を使用する事業は、業種の規模の如何を問わず、すべてに適用されます。…労働者であればアルバイトやパートタイマー等の雇用形態は関係ありません。"
+   },
+   {
+    "text": "費用は原則として事業主が払う保険料でまかなわれる",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/index.html",
+    "quote": "その費用は、原則として事業主の負担する保険料によってまかなわれています。"
+   },
+   {
+    "text": "働く人は労災保険の保険料を負担しない（被保険者負担は雇用保険率に応ずる部分のみ）",
+    "source_url": "https://laws.e-gov.go.jp/law/344AC0000000084",
+    "quote": "第三十一条…被保険者…イ 当該事業に係る一般保険料の額のうち雇用保険率に応ずる部分の額…の二分の一の額…３ 事業主は、当該事業に係る労働保険料の額のうち…被保険者の負担すべき額を控除した額を負担する"
+   },
+   {
+    "text": "労災病院や指定医療機関などでは治療や薬を無料で受けられ、それ以外では費用の支給を請求できる",
+    "source_url": "https://www.mhlw.go.jp/content/11200000/001748406.pdf",
+    "quote": "「療養の給付」は、労災病院や労災保険指定医療機関・薬局等…で、無料で治療や薬剤の支給などを受けられます…「療養の費用の支給」は…指定医療機関等以外の医療機関や薬局等で療養を受けた場合に、その療養にかかった費用を支給する現金給付です。"
+   },
+   {
+    "text": "休業（補償）等給付は休業4日目から給付基礎日額の60%、休業特別支給金20%",
+    "source_url": "https://www.mhlw.go.jp/content/11200000/001743837.pdf",
+    "quote": "休業４日目から、休業１日につき給付基礎日額の60%相当額（休業特別支給金）休業４日目から、休業１日につき給付基礎日額の20%相当額"
+   },
+   {
+    "text": "休業補償給付は第4日目から給付基礎日額の100分の60（法14条）",
+    "source_url": "https://laws.e-gov.go.jp/law/322AC0000000050",
+    "quote": "休業補償給付は…賃金を受けない日の第四日目から支給するものとし、その額は、一日につき給付基礎日額の百分の六十に相当する額とする。"
+   },
+   {
+    "text": "給付基礎日額は原則として平均賃金相当額で、直前3か月の賃金総額（ボーナス等除く）を暦日数で割った額",
+    "source_url": "https://www.mhlw.go.jp/content/11200000/001743837.pdf",
+    "quote": "給付基礎日額とは、原則として労働基準法の平均賃金に相当する額をいいます。平均賃金とは…直前3か月間にその労働者に対して支払われた賃金の総額（ボーナスや臨時に支払われる賃金を除く）を、その期間の暦日数で割った、１日当たりの賃金額"
+   },
+   {
+    "text": "休業の最初の3日間（待期）は、業務災害なら事業主が平均賃金の60%を補償",
+    "source_url": "https://www.mhlw.go.jp/content/11200000/001743917.pdf",
+    "quote": "休業の初日から第３日目までを待期期間といい、この間は業務災害の場合、事業主が労働基準法の規定に基づく休業補償（１日につき平均賃金の60％）を行うこととなります。"
+   },
+   {
+    "text": "障害が残ったとき・死亡したときの年金や一時金、葬祭料等、傷病（補償）等年金・介護（補償）等給付がある",
+    "source_url": "https://www.mhlw.go.jp/content/11200000/001743837.pdf",
+    "quote": "障害(補償)等年金…障害(補償)等一時金…遺族(補償)等年金…遺族(補償)等一時金…葬祭料等(葬祭給付)…傷病(補償)等年金…介護(補償)等給付"
+   }
+  ]
+ },
+ "rosai-seikyu": {
+  "audit": {
+   "date": "2026-10-05",
+   "checked": 22,
+   "fixed": [
+    "出典名の版表記「令和8年7月版」を削除（PDF本文から版の月を確認できなかったため）"
+   ],
+   "unverified_removed": []
+  },
+  "claims": [
+   {
+    "text": "本人や遺族が請求書を書き、事業場の所在地を管轄する労働基準監督署長に提出する",
+    "source_url": "https://www.mhlw.go.jp/content/11200000/001743908.pdf",
+    "quote": "保険給付を受けるためには、被災労働者やその遺族等が所定の保険給付請求書に必要事項を記載して、被災労働者の所属事業場の所在地を管轄する労働基準監督署長(二次健康診断等給付は所轄労働局長）に提出しなければなりません。"
+   },
+   {
+    "text": "請求書を出すと監督署が必要な調査をして給付する",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/rousai/index.html",
+    "quote": "労働基準監督署に備え付けてある請求書を提出することにより、労働基準監督署において必要な調査を行い、保険給付が受けられます。"
+   },
+   {
+    "text": "労働基準監督署は都道府県労働局の所掌事務の一部を分掌する",
+    "source_url": "https://laws.e-gov.go.jp/law/411AC0000000097",
+    "quote": "第二十二条 都道府県労働局の所掌事務の一部を分掌させるため、所要の地に、労働基準監督署を置く。"
+   },
+   {
+    "text": "指定医療機関なら請求書を病院に出し、療養費を払う必要はない。指定でなければ立て替えて監督署に請求",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/rousai/index.html",
+    "quote": "療養した医療機関が労災保険指定医療機関の場合には、「療養補償給付たる療養の給付請求書」をその医療機関に提出してください。…このとき、療養費を支払う必要はありません。／労災保険指定医療機関でない場合には、一旦療養費を立て替えて支払ってください。その後「療養補償給付たる療養の費用請求書」を、直接、労働基準監督署長に提出すると、その費用が支払われます。"
+   },
+   {
+    "text": "指定医療機関は都道府県労働局長が指定する",
+    "source_url": "https://laws.e-gov.go.jp/law/330M50002000022",
+    "quote": "第十一条 法の規定による療養の給付は、…都道府県労働局長の指定する病院若しくは診療所、薬局若しくは訪問看護事業者…において行う。"
+   },
+   {
+    "text": "仕事中・通勤中のけがに健康保険は使えない",
+    "source_url": "https://www.mhlw.go.jp/content/11200000/001219836.pdf",
+    "quote": "業務中や通勤途中のケガに、健康保険は使えません!!"
+   },
+   {
+    "text": "健康保険証を使った場合も、健康保険に労災であったことを報告し、労災保険に請求できる",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000154463.html",
+    "quote": "健康保険で医療費の一部を支払っている場合は、いったん医療費全額を支払った上で、労災保険に請求することができます。加入している健康保険組合又は協会けんぽへ労働災害であったことを報告し…"
+   },
+   {
+    "text": "請求書には事業主の証明欄がある（負傷日・災害の原因と発生状況）",
+    "source_url": "https://laws.e-gov.go.jp/law/330M50002000022",
+    "quote": "第十二条2 前項第三号及び第四号に掲げる事項については、事業主…の証明を受けなければならない。（三 負傷又は発病の年月日 四 災害の原因及び発生状況）"
+   },
+   {
+    "text": "事業主は求められたら速やかに証明しなければならず、手続きが困難な場合は助力しなければならない（則23条）",
+    "source_url": "https://laws.e-gov.go.jp/law/330M50002000022",
+    "quote": "第二十三条 保険給付を受けるべき者が、事故のため、みずから保険給付の請求その他の手続を行うことが困難である場合には、事業主は、その手続を行うことができるように助力しなければならない。２ 事業主は、…必要な証明を求められたときは、すみやかに証明をしなければならない。"
+   },
+   {
+    "text": "会社の廃止や証明拒否で事業主証明が得られなくても請求でき、労働局・監督署に相談するよう案内",
+    "source_url": "https://www.mhlw.go.jp/content/11200000/001743908.pdf",
+    "quote": "働いていた会社が廃止されている場合や、会社が事業主証明を拒否するなど、事業主証明が得られない場合であっても労災請求はできますので、最寄りの都道府県労働局または労働基準監督署にご相談ください。"
+   },
+   {
+    "text": "事業者は労働者が死亡・休業した場合に労働者死傷病報告を監督署長に提出する義務がある",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/anzeneisei_faq8.html",
+    "quote": "事業者は、労働災害等により労働者が死亡又は休業した場合には、遅滞なく、労働者死傷病報告等を労働基準監督署長に提出しなければなりません。"
+   },
+   {
+    "text": "労災かくしの定義（故意に提出しない・虚偽の内容で提出）",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/anzeneisei_faq8.html",
+    "quote": "「労災かくし」とは、事業者が労災事故の発生をかくすため、労働者死傷病報告…を、（１）故意に提出しないこと、（２）虚偽の内容を記載して提出することをいいます。"
+   },
+   {
+    "text": "厚労省は「労災かくし」は犯罪ですと表現している",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/rousai/index.html",
+    "quote": "「労災かくし」は犯罪です。"
+   },
+   {
+    "text": "時効: 療養・休業・葬祭料・介護等は2年、障害・遺族は5年（法42条）",
+    "source_url": "https://laws.e-gov.go.jp/law/322AC0000000050",
+    "quote": "第四十二条 療養補償給付、休業補償給付、葬祭料、介護補償給付…を受ける権利は、これらを行使することができる時から二年を経過したとき、障害補償給付、遺族補償給付…を受ける権利は、これらを行使することができる時から五年を経過したときは、時効によつて消滅する。"
+   },
+   {
+    "text": "給付ごとの時効の起算点（表）",
+    "source_url": "https://www.mhlw.go.jp/content/11200000/001743908.pdf",
+    "quote": "療養の費用の支出が具体的に確定した日の翌日から２年／療養のため労働することができないため賃金を受けない日の翌日から２年／傷病が治ゆした日の翌日から５年／被災労働者が亡くなった日の翌日から５年（遺族）／被災労働者が亡くなった日の翌日から２年（葬祭料）／介護を受けた月の翌月の１日から２年"
+   },
+   {
+    "text": "決定に不服があれば労働局の労働者災害補償保険審査官に審査請求、その決定に不服なら労働保険審査会に再審査請求（法38条）",
+    "source_url": "https://laws.e-gov.go.jp/law/322AC0000000050",
+    "quote": "第三十八条 保険給付に関する決定に不服のある者は、労働者災害補償保険審査官に対して審査請求をし、その決定に不服のある者は、労働保険審査会に対して再審査請求をすることができる。"
+   },
+   {
+    "text": "審査請求先は決定をした監督署長を管轄する都道府県労働局の審査官",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000127192.html",
+    "quote": "労災保険給付に関する決定に不服がある場合には、その決定を行った労働基準監督署長を管轄する都道府県労働局の労働者災害補償保険審査官に対して審査請求をすることができます。"
+   },
+   {
+    "text": "審査請求は決定を知った日の翌日から3か月以内",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000127192.html",
+    "quote": "審査請求は、労災保険給付の決定があったことを知った日の翌日から起算して３か月以内に行う必要があります"
+   },
+   {
+    "text": "同上（法令）",
+    "source_url": "https://laws.e-gov.go.jp/law/331AC0000000126",
+    "quote": "第八条 審査請求は、審査請求人が原処分のあつたことを知つた日の翌日から起算して三月を経過したときは、することができない。ただし、正当な理由により…"
+   },
+   {
+    "text": "労災保険相談ダイヤル 0570-006031",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/gyousei/rousai/040325-12.html",
+    "quote": "労災保険相談ダイヤル（月～金（祝祭日、年末年始除く）8:30～17:15） TEL : 0570-006031"
+   },
+   {
+    "text": "労災保険指定医療機関は厚労省サイトで検索できる（apply 問いかけの前提）",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/rousai_iryoukensaku.html",
+    "quote": "労災保険指定医療機関検索（厚生労働省 労災補償ページのリンク名）"
+   }
+  ]
+ },
+ "jido-teate": {
+  "audit": {
+   "date": "2026-10-05",
+   "checked": 20,
+   "fixed": [
+    "月額の計算例を「子どもが3歳と1歳の2人だけの家庭」に修正（22歳年度末までの上の子がいると第3子以降の数え方が変わるため）",
+    "「多子加算」の語の出典を、実際にその語が載っているこども家庭庁「児童手当制度の概要」PDFに差し替え、出典に追加"
+   ],
+   "unverified_removed": []
+  },
+  "claims": [
+   {
+    "text": "対象は0歳から18歳になった後の最初の3月31日までの子ども（高校生年代）",
+    "source_url": "https://www.cfa.go.jp/policies/kokoseido/jidouteate/annai",
+    "quote": "児童（0歳から18歳に達する日以後の最初の3月31日までの間にある子をいいます。以下同じ。）を養育している方"
+   },
+   {
+    "text": "法律の目的は家庭の生活の安定と子どもの健やかな成長",
+    "source_url": "https://laws.e-gov.go.jp/law/346AC0000000073",
+    "quote": "第一条 …児童を養育している者に児童手当を支給することにより、家庭等における生活の安定に寄与するとともに、次代の社会を担う児童の健やかな成長に資することを目的とする。"
+   },
+   {
+    "text": "受け取るのは子どもを監護し生計を同じくする父母など",
+    "source_url": "https://laws.e-gov.go.jp/law/346AC0000000073",
+    "quote": "第四条第一項第一号 支給要件児童を監護し、かつ、これと生計を同じくするその父又は母（…未成年後見人…）であつて、日本国内に住所…を有するもの"
+   },
+   {
+    "text": "月額は3歳未満1万5千円、3歳から高校生年代まで1万円、第3子以降3万円（2026年10月時点）",
+    "source_url": "https://www.cfa.go.jp/policies/kokoseido/jidouteate/annai",
+    "quote": "3歳未満 15,000円（第3子以降は30,000円） 3歳以上 高校生年代まで 10,000円（第3子以降は30,000円）"
+   },
+   {
+    "text": "3歳と1歳の2人なら月2万5千円（第1子1万円＋第2子1万5千円の計算）",
+    "source_url": "https://www.cfa.go.jp/policies/kokoseido/jidouteate/annai",
+    "quote": "上記月額表からの計算（10,000円＋15,000円）"
+   },
+   {
+    "text": "2024年10月分から所得制限がなくなった",
+    "source_url": "https://laws.e-gov.go.jp/law/346AC0000000073",
+    "quote": "第五条 削除（現行条文）／こども家庭庁「もっと子育て応援！児童手当」: 制度改正後に新たに申請が必要な方「中学生以下の児童を養育しているが、所得上限限度額を超過し、児童手当も特例給付も受給していない方」"
+   },
+   {
+    "text": "2024年10月から支給期間が15歳年度末から18歳年度末まで延長",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/c9d07fdc-1873-4b62-ba35-b38a62a471a6/9f5267a3/20250213_policies_kokoseido_jidouteate_annai_05.pdf",
+    "quote": "令和6年10月から ・支給期間がこれまでの15歳年度末から18歳年度末まで延長されます。"
+   },
+   {
+    "text": "第3子以降のカウント対象は22歳年度末までの上の子に広がり、親等が生計費を負担していることが条件",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/c9d07fdc-1873-4b62-ba35-b38a62a471a6/9f5267a3/20250213_policies_kokoseido_jidouteate_annai_05.pdf",
+    "quote": "「第３子以降」のカウント対象の年齢がこれまでの18歳年度末から22歳年度末まで延長されます。…児童の兄姉等については監護に相当する世話等をし、その生計費を負担している必要があります。"
+   },
+   {
+    "text": "「多子加算」という呼び方",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/1c6d2629-ef70-43fd-971d-27231e0d9e1f/2fea19c2/20241007_policies_kokoseido_jidouteate_gaiyou_06.pdf",
+    "quote": "※多子加算のカウント方法については、現在の高校生年代までの扱いを見直し、大学生に限らず、22歳年度末ま…"
+   },
+   {
+    "text": "支払いは偶数月の年6回、各前月までの2か月分",
+    "source_url": "https://laws.e-gov.go.jp/law/346AC0000000073",
+    "quote": "第八条第四項 児童手当は、毎年二月、四月、六月、八月、十月及び十二月の六期に、それぞれの前月までの分を支払う。／こども家庭庁: それぞれの前月分まで（2か月分）を支給します。例）6月の支給日には、4月・5月分の児童手当を支給します。"
+   },
+   {
+    "text": "2024年の拡充で新たに対象になった家庭も申請が必要とされた",
+    "source_url": "https://www.cfa.go.jp/policies/kokoseido/jidouteate/mottoouen",
+    "quote": "以下の方については、児童手当を受給するためにお住まいの市区町村への申請が必要になります。高校生年代の児童を養育している方…"
+   },
+   {
+    "text": "出生・転入時は現住所の市区町村に認定請求書を提出、公務員は勤務先",
+    "source_url": "https://www.cfa.go.jp/policies/kokoseido/jidouteate/annai",
+    "quote": "現住所の市区町村に「認定請求書」を提出すること（申請）が必要です（公務員の場合は勤務先に申請する必要があります。）"
+   },
+   {
+    "text": "支給は原則申請した月の翌月分から",
+    "source_url": "https://laws.e-gov.go.jp/law/346AC0000000073",
+    "quote": "第八条第二項 児童手当の支給は、受給資格者が前条の規定による認定の請求をした日の属する月の翌月から始め…"
+   },
+   {
+    "text": "出生・転入の翌日から15日以内なら申請が翌月になっても受け取り始めは遅れない",
+    "source_url": "https://www.cfa.go.jp/policies/kokoseido/jidouteate/annai",
+    "quote": "出生日や転入した日（異動日）が月末に近い場合、申請日が翌月になっても異動日の翌日から15日以内であれば、申請月分から支給します。"
+   },
+   {
+    "text": "申請が遅れると遅れた月の分は原則受け取れない",
+    "source_url": "https://www.cfa.go.jp/policies/kokoseido/jidouteate/annai",
+    "quote": "申請が遅れると、原則、遅れた月分の手当を受けられなくなりますので、ご注意ください。"
+   },
+   {
+    "text": "公務員は勤務先（所属庁）が認定・支給する",
+    "source_url": "https://laws.e-gov.go.jp/law/346AC0000000073",
+    "quote": "第十七条（公務員に関する特例）…第七条第一項中「住所地…の市町村長」とあり、第八条第一項…中「市町村長」とあるのは、それぞれ同表の下欄のように読み替える"
+   }
+  ]
+ },
+ "jido-fuyo-teate": {
+  "audit": {
+   "date": "2026-10-05",
+   "checked": 21,
+   "fixed": [
+    "対象の説明「父か母と暮らしを共にしていない子ども」を「離婚や死別などによるひとり親家庭など」に修正（父母の一方が障害の場合は同居していても対象になるため。法4条）",
+    "所得の目安を「190万円まで／385万円まで」から「未満」に修正（限度額以上で支給停止となる法9条の書き方に合わせる）"
+   ],
+   "unverified_removed": []
+  },
+  "claims": [
+   {
+    "text": "根拠法は児童扶養手当法。目的はひとり親家庭等の生活の安定と自立の促進、児童の福祉の増進",
+    "source_url": "https://laws.e-gov.go.jp/law/336AC0000000238",
+    "quote": "第一条 この法律は、父又は母と生計を同じくしていない児童が育成される家庭の生活の安定と自立の促進に寄与するため、当該児童について児童扶養手当を支給し、もつて児童の福祉の増進を図ることを目的とする。"
+   },
+   {
+    "text": "支給要件は父母の離婚、父か母の死亡、一定の障害、生死不明など",
+    "source_url": "https://laws.e-gov.go.jp/law/336AC0000000238",
+    "quote": "第四条 …イ父母が婚姻を解消した児童ロ父が死亡した児童ハ父が政令で定める程度の障害の状態にある児童ニ父の生死が明らかでない児童ホその他…"
+   },
+   {
+    "text": "対象の子どもは18歳到達後最初の3月31日まで、一定の障害があれば20歳未満",
+    "source_url": "https://laws.e-gov.go.jp/law/336AC0000000238",
+    "quote": "第三条 この法律において「児童」とは、十八歳に達する日以後の最初の三月三十一日までの間にある者又は二十歳未満で政令で定める程度の障害の状態にある者をいう。"
+   },
+   {
+    "text": "父子家庭の父、養育者も対象",
+    "source_url": "https://laws.e-gov.go.jp/law/336AC0000000238",
+    "quote": "第四条 …二 …児童の父が当該児童を監護し、かつ、これと生計を同じくする場合 当該父 …三 …当該父母以外の者が当該児童を養育するとき 当該養育者"
+   },
+   {
+    "text": "2010年8月から父子家庭の父にも支給",
+    "source_url": "https://www.cfa.go.jp/policies/hitori-oya/fuyou-teate",
+    "quote": "平成22年8月から、父子家庭のみなさまにも児童扶養手当が支給されます。"
+   },
+   {
+    "text": "2025年3月時点の受給者は約77.8万人、うち父は約3.6万人",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/71de338f-5ed2-4c95-9848-3fd387d0b4d7/a4e6f323/20260408_policies_hitori-oya_fuyou-teate_19.pdf",
+    "quote": "【受給者数】777,962人（母738,913人、父35,915人、養育者3,134人）※令和７年３月"
+   },
+   {
+    "text": "前年の所得が政令で定める額以上だと全部または一部を支給しない（全部支給・一部支給・支給なし）",
+    "source_url": "https://laws.e-gov.go.jp/law/336AC0000000238",
+    "quote": "第九条 手当は、受給資格者…の前年の所得が…政令で定める額以上であるときは、その年の十一月から翌年の十月までは、政令の定めるところにより、その全部又は一部を支給しない。"
+   },
+   {
+    "text": "親と子1人（2人世帯）の目安は収入ベースで全部支給190万円、一部支給385万円。扶養する子の数で変わる",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/71de338f-5ed2-4c95-9848-3fd387d0b4d7/a4e6f323/20260408_policies_hitori-oya_fuyou-teate_19.pdf",
+    "quote": "＜所得制限限度額（収入ベース 前年の所得に基づき算定 ）＞ ○ 全部支給（２人世帯）：１９０万円 一部支給（２人世帯）：３８５万円 ／ R6リーフレット：扶養する児童等の数 １人 収入ベース R6.11月分から 1,900,000 … 3,850,000（0〜5人で額が異なる表）"
+   },
+   {
+    "text": "額は全国消費者物価指数に合わせて毎年度自動改定（物価スライド）",
+    "source_url": "https://laws.e-gov.go.jp/law/336AC0000000238",
+    "quote": "第五条の二 基本額については、総務省において作成する年平均の全国消費者物価指数…の上昇し、又は低下した比率を基準として、その翌年の四月以降の基本額を改定する。"
+   },
+   {
+    "text": "2026年度（2026年4月分から）の月額は全部支給48,050円、一部支給48,040円〜11,340円。2人目以降加算は全部11,350円、一部11,340円〜5,680円",
+    "source_url": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/teateiryo/jido/teategaku.html",
+    "quote": "令和8年4月分（令和8年5月支給分）から…第1子の金額 全部支給 46,690円→48,050円 一部支給 11,010円～46,680円→11,340円～48,040円 第2子以降の加算額 全部支給 11,030円→11,350円 一部支給 5,520円～11,020円→5,680円～11,340円（こども家庭庁概要PDFにも同額を「令和８年４月～（見込額）」として掲載）"
+   },
+   {
+    "text": "受けるには受給資格と額について認定を受ける必要がある（認定請求）",
+    "source_url": "https://laws.e-gov.go.jp/law/336AC0000000238",
+    "quote": "第六条 手当の支給要件に該当する者…は、手当の支給を受けようとするときは、その受給資格及び手当の額について、都道府県知事等の認定を受けなければならない。"
+   },
+   {
+    "text": "支給は請求した月の翌月分から。災害等やむを得ない理由の場合を除きさかのぼらない",
+    "source_url": "https://laws.e-gov.go.jp/law/336AC0000000238",
+    "quote": "第七条 手当の支給は、受給資格者が前条の規定による認定の請求をした日の属する月の翌月…から始め… ２ 受給資格者が災害その他やむを得ない理由により…請求をすることができなかつた場合において、その理由がやんだ後十五日以内にその請求をしたときは…"
+   },
+   {
+    "text": "支払いは年6回、1・3・5・7・9・11月に前月までの分",
+    "source_url": "https://laws.e-gov.go.jp/law/336AC0000000238",
+    "quote": "第七条３ 手当は、毎年一月、三月、五月、七月、九月及び十一月の六期に、それぞれの前月までの分を支払う。"
+   },
+   {
+    "text": "相談・問い合わせ窓口は住んでいる市区町村",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/71de338f-5ed2-4c95-9848-3fd387d0b4d7/fb86c8d8/20240731_policies_hitori-oya_fuyou-teate_17.pdf",
+    "quote": "詳しくは、お住いの市区町村へお問い合わせください。"
+   }
+  ]
+ },
+ "hitorioya-shien": {
+  "audit": {
+   "date": "2026-10-05",
+   "checked": 19,
+   "fixed": [
+    "養育費・親子交流相談支援センターの受付時間に、日曜は休みであることを追記（センター公式サイトで確認）"
+   ],
+   "unverified_removed": []
+  },
+  "claims": [
+   {
+    "text": "母子・父子自立支援員はひとり親家庭及び寡婦の相談にあたり、勤務場所は原則福祉事務所",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/0a870592-1814-4b21-bf56-16f06080c594/49ffc01c/20260423_policies_hitori-oya_105.pdf",
+    "quote": "母子・父子自立支援員による相談・支援 ひとり親家庭及び寡婦に対し、生活一般についての相談指導や母子父子寡婦福祉資金に関する相談・指導を行う。（勤務場所） 原則、福祉事務所"
+   },
+   {
+    "text": "業務は生活一般の相談、就業についての相談、自立に必要な相談、貸付けの相談",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/0a870592-1814-4b21-bf56-16f06080c594/49ffc01c/20260423_policies_hitori-oya_105.pdf",
+    "quote": "① 母子及び父子並びに寡婦福祉法及び生活一般についての相談指導等 ② 職業能力の向上及び求職活動等就業についての相談指導等 ③ その他自立に必要な相談支援 ④ 母子父子寡婦福祉資金の貸付けに関する相談・指導"
+   },
+   {
+    "text": "全国に1,825人（2025年4月1日時点）",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/0a870592-1814-4b21-bf56-16f06080c594/49ffc01c/20260423_policies_hitori-oya_105.pdf",
+    "quote": "設置状況 １，８２５人（常勤４５４人、非常勤１，３７１人）【令和７年４月１日時点】"
+   },
+   {
+    "text": "給付金の対象: 養成機関で6か月以上、両立困難、児童扶養手当受給または同等の所得",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/0a870592-1814-4b21-bf56-16f06080c594/5a47bc4e/20260424_policies_hitori-oya_113.pdf",
+    "quote": "① 児童扶養手当の支給を受けているか又は同等の所得水準にある者 ② 養成機関において６か月以上のカリキュラムを修業し、対象資格の取得が見込まれる者 ③ 就業又は育児と修業との両立が困難であると認められる者"
+   },
+   {
+    "text": "月10万円（住民税課税世帯は月7万500円）、最後の1年は4万円加算",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/0a870592-1814-4b21-bf56-16f06080c594/5a47bc4e/20260424_policies_hitori-oya_113.pdf",
+    "quote": "（訓練促進給付金）月額10万円（住民税課税世帯は月額70,500円） 修学の最終年限１年間に限り支給額を４万円加算する。"
+   },
+   {
+    "text": "期間の上限は原則4年",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/0a870592-1814-4b21-bf56-16f06080c594/5a47bc4e/20260424_policies_hitori-oya_113.pdf",
+    "quote": "【支給対象期間】修業する期間（上限４年）※ 准看護師から看護師の養成機関に引き続き進学する場合は支給対象期間の上限を5年とする"
+   },
+   {
+    "text": "対象資格は自治体が定め、看護師・准看護師・保育士・介護福祉士などが例",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/0a870592-1814-4b21-bf56-16f06080c594/5a47bc4e/20260424_policies_hitori-oya_113.pdf",
+    "quote": "就職の際に有利となる資格であって、養成機関において６か月以上修業するものについて、地域の実情に応じて定める。《対象資格の例》看護師､准看護師､保育士､介護福祉士､理学療法士､作業療法士､調理師､製菓衛生師"
+   },
+   {
+    "text": "給付金の申請先は住んでいる都道府県・市区町村",
+    "source_url": "https://www.cfa.go.jp/policies/hitori-oya/syokugyou-kunren",
+    "quote": "お住まいの都道府県、市区町村"
+   },
+   {
+    "text": "母子父子寡婦福祉資金は12種類、修学資金など、無利子または年1.0%",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/0a870592-1814-4b21-bf56-16f06080c594/5a47bc4e/20260424_policies_hitori-oya_113.pdf",
+    "quote": "③修学資金…⑫結婚資金（計12種類） ○ 利 子：貸付金の種類、連帯保証人の有無によって異なるが、無利子または、年利1.0％"
+   },
+   {
+    "text": "貸付の実施主体は都道府県・指定都市・中核市",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/0a870592-1814-4b21-bf56-16f06080c594/5a47bc4e/20260424_policies_hitori-oya_113.pdf",
+    "quote": "【実施主体】都道府県・指定都市・中核市"
+   },
+   {
+    "text": "ひとり親家庭等医療費助成は自治体の制度。千葉県では実施主体は市町村、所得制限額等は市町村で異なる",
+    "source_url": "https://www.pref.chiba.lg.jp/jika/boshi/hitorioyairyouhijosei.html",
+    "quote": "この助成の実施主体は市町村で、市町村ごとに条例等で助成方法等を定めています。県は市町村に補助金を交付し支援しています。…所得制限額等は、市町村によって異なります"
+   },
+   {
+    "text": "養育費・親子交流相談支援センターはこども家庭庁が民間団体に委託、電話・メールで相談",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/0a870592-1814-4b21-bf56-16f06080c594/23c259d1/20260424_policies_hitori-oya_111.pdf",
+    "quote": "養育費・親子交流相談支援センター事業 … 国（こども家庭庁）が民間団体に委託して実施（平成19 年度創設）… ・電話相談：0120-965-419（携帯電話、PHS以外）、03-3980-4108 ・メール相談：info@youikuhi.or.jp"
+   },
+   {
+    "text": "受付時間 平日（水曜除く）10〜20時、水曜12〜22時、土曜・祝日10〜18時",
+    "source_url": "https://www.youikuhi-soudan.jp/",
+    "quote": "平日（水曜日を除く） 午前10時～午後 8時 ● 水曜日（祝日を除く） 午後 0時～午後10時 ● 土曜日・祝日 午前10時～午後 6時"
+   },
+   {
+    "text": "0120-965-419は携帯電話から使えない",
+    "source_url": "https://www.youikuhi-soudan.jp/",
+    "quote": "0120-965-419 携帯電話からは使えませんので 上記番号におかけください。"
+   },
+   {
+    "text": "弁護士による養育費の相談を行う自治体がある",
+    "source_url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/0a870592-1814-4b21-bf56-16f06080c594/23c259d1/20260424_policies_hitori-oya_111.pdf",
+    "quote": "・弁護士による相談実施自治体数：115自治体 弁護士による相談延べ件数：10,970件"
+   }
+  ]
+ },
+ "shogai-nenkin": {
+  "audit": {
+   "date": "2026-10-05",
+   "checked": 27,
+   "fixed": [
+    "表のキャプションを「年額」のみから「年金は年額、障害手当金は一時金（令和8年度）」に修正",
+    "確認問題3の設定を「18歳の高校生のとき」にし、解説を『年金制度に入る前の20歳前に初診日がある場合』に限定（20歳前でも厚生年金加入中の初診日なら納付要件がかかるため）",
+    "claims: 障害基礎年金とあわせて受け取れる根拠を、ガイドに見当たらなかった引用から日本年金機構『障害年金』ページの記載に差し替え"
+   ],
+   "unverified_removed": []
+  },
+  "claims": [
+   {
+    "text": "障害年金は、病気やけがで生活や仕事が制限されたときに、現役世代も受け取れる年金",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-01.html",
+    "quote": "障害年金は、病気やけがによって生活や仕事などが制限されるようになった場合に、現役世代の方も含めて受け取ることができる年金です。"
+   },
+   {
+    "text": "精神の障害（統合失調症、双極性障害、発達障害など）も対象",
+    "source_url": "https://www.nenkin.go.jp/service/pamphlet/kyufu.files/LK03-2.pdf",
+    "quote": "精神障害や内部障害も対象になります。…2.精神障害 統合失調症、双極性障害、認知障害、てんかん、知的障害、発達障害など"
+   },
+   {
+    "text": "がん、糖尿病、心臓や腎臓の病気など内部の病気も対象",
+    "source_url": "https://www.nenkin.go.jp/service/pamphlet/kyufu.files/LK03-2.pdf",
+    "quote": "3.内部障害 呼吸器疾患、心疾患、腎疾患、肝疾患、血液・造血器疾患、糖尿病、がんなど"
+   },
+   {
+    "text": "人工透析を始めた場合も請求を考えられる（ガイドの事後重症の例に人工透析開始）",
+    "source_url": "https://www.nenkin.go.jp/service/pamphlet/kyufu.files/LK03-2.pdf",
+    "quote": "［例２］…初診日 障害認定日 人工透析開始…請求日"
+   },
+   {
+    "text": "初診日に国民年金なら障害基礎年金、厚生年金なら障害厚生年金が請求できる",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-01.html",
+    "quote": "病気やけがで初めて医師の診療を受けたときに国民年金に加入していた場合は「障害基礎年金」、厚生年金に加入していた場合は「障害厚生年金」が請求できます。"
+   },
+   {
+    "text": "初診日＝その病気やけがで初めて医師などの診療を受けた日",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-01.html",
+    "quote": "初診日（障害の原因となった病気やけがについて、初めて医師または歯科医師の診療を受けた日）"
+   },
+   {
+    "text": "障害基礎年金は1級と2級",
+    "source_url": "https://laws.e-gov.go.jp/law/334AC0000000141",
+    "quote": "国民年金法30条2項「障害等級は、障害の程度に応じて重度のものから一級及び二級とし」"
+   },
+   {
+    "text": "障害厚生年金は1級から3級",
+    "source_url": "https://laws.e-gov.go.jp/law/329AC0000000115",
+    "quote": "厚生年金保険法47条2項「障害等級は、障害の程度に応じて重度のものから一級、二級及び三級とし」"
+   },
+   {
+    "text": "障害厚生年金1・2級に該当すると障害基礎年金もあわせて受け取れる",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-01.html",
+    "quote": "厚生年金に加入している間に初診日のある病気やけがで障害基礎年金の1級または2級に該当する障害の状態になったときは、障害基礎年金に上乗せして障害厚生年金が支給されます。"
+   },
+   {
+    "text": "障害手当金は一時金で、初診日から5年以内に治り、障害厚生年金より軽い障害が残ったとき",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-01.html",
+    "quote": "初診日から5年以内に病気やけがが治り、障害厚生年金を受けるよりも軽い障害が残ったときには障害手当金（一時金）が支給されます。"
+   },
+   {
+    "text": "1級の状態の説明",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html",
+    "quote": "他人の介助を受けなければ日常生活のことがほとんどできないほどの障害の状態です。"
+   },
+   {
+    "text": "2級の状態の説明",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html",
+    "quote": "必ずしも他人の助けを借りる必要はなくても、日常生活は極めて困難で、労働によって収入を得ることができないほどの障害です。"
+   },
+   {
+    "text": "3級の状態の説明",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-02.html",
+    "quote": "日常生活にはほとんど支障はないが、労働については制限がある方が3級に相当します。／労働が著しい制限を受ける…ような状態です。"
+   },
+   {
+    "text": "障害等級は身体障害者手帳の等級とは異なる",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/ninteikijun/tokyuhyo.html",
+    "quote": "※身体障害者手帳の等級とは異なります。"
+   },
+   {
+    "text": "20歳前（年金制度に加入していない期間）に初診日がある病気やけがも障害基礎年金の対象",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-01.html",
+    "quote": "国民年金に加入している間、または20歳前（年金制度に加入していない期間）…に、初診日のある病気やけがで…障害基礎年金が支給されます。"
+   },
+   {
+    "text": "20歳前の場合は保険料の納付要件はない",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-01.html",
+    "quote": "ただし、20歳前の年金制度に加入していない期間に初診日がある場合は、納付要件はありません。"
+   },
+   {
+    "text": "20歳前の傷病による障害基礎年金は、前年所得が一定額を超えると半分または全部が支給停止",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20200805.html",
+    "quote": "前年の所得額が4,918,000円を超える場合は年金の全額が支給停止となり、3,858,000円を超える場合は2分の1の年金額が支給停止となります。"
+   },
+   {
+    "text": "相談先として年金事務所や街角の年金相談センター",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/tetsuduki/shougai/seikyu/20140519-01.html",
+    "quote": "お近くの年金事務所または街角の年金相談センターの窓口に備え付けてあります。"
+   },
+   {
+    "text": "障害基礎年金2級 847,300円、1級 1,059,125円（令和8年4月分から、昭和31年4月2日以後生まれ）＋子の加算",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html",
+    "quote": "1級 昭和31年4月2日以後生まれの方 1,059,125円 + 子の加算額※ 2級 昭和31年4月2日以後生まれの方 847,300円 + 子の加算額※"
+   },
+   {
+    "text": "障害厚生年金は報酬比例の年金額で計算、3級の最低保障635,500円",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-02.html",
+    "quote": "3級（報酬比例の年金額） 3級の最低保障額 昭和31年4月2日以後生まれの方 635,500 円"
+   },
+   {
+    "text": "障害手当金の最低保障 1,271,000円（令和8年度）",
+    "source_url": "https://www.nenkin.go.jp/service/pamphlet/kyufu.files/LK03-2.pdf",
+    "quote": "（報酬比例額の年金額✕２）を一時金として支給 障害手当金の最低保障額は1,271,000円（昭和31年4月1日以前に生まれた方は1,267,400円）／…等は、令和8年度の金額です。"
+   },
+   {
+    "text": "受け取れるかは請求後の審査で決まる（障害の状態は障害等級表に該当するかで判断）",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html",
+    "quote": "障害の状態が、障害認定日…に、障害等級表に定める1級または2級に該当していること。"
+   }
+  ]
+ },
+ "shogai-nenkin-yoken": {
+  "audit": {
+   "date": "2026-10-05",
+   "checked": 22,
+   "fixed": [
+    "障害認定日の翌月分から受け取れるという説明に、20歳前に初診日がある人は障害認定日と20歳になった日の遅いほうで判断する例外を追加（国民年金法30条の4、日本年金機構の受給要件ページ）",
+    "用語辞典『事後重症』の定義の文末（「請求することのことです」）を、65歳に達する日の前日までの期間内に行う請求、と法30条の2に沿って整理"
+   ],
+   "unverified_removed": []
+  },
+  "claims": [
+   {
+    "text": "障害基礎年金の要件は、初診日の時期・保険料納付・障害認定日に1級か2級に該当の3つ（すべて満たす）",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html",
+    "quote": "次の1から3のすべての要件を満たしているときは、障害基礎年金が支給されます。"
+   },
+   {
+    "text": "初診日は、障害の原因の病気やけがで初めて医師または歯科医師の診療を受けた日",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-01.html",
+    "quote": "初診日（障害の原因となった病気やけがについて、初めて医師または歯科医師の診療を受けた日）"
+   },
+   {
+    "text": "同じ病気で転医したときは一番初めの診療日が初診日",
+    "source_url": "https://www.nenkin.go.jp/service/yougo/sagyo/syosinbi.html",
+    "quote": "同一の病気やけがで転医があった場合は、一番初めに医師等の診療を受けた日が初診日となります。"
+   },
+   {
+    "text": "初診日は国民年金加入期間、20歳前、または日本国内に住む60歳以上65歳未満で年金制度未加入の期間にあること",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html",
+    "quote": "国民年金加入期間 20歳前または日本国内に住んでいる60歳以上65歳未満で年金制度に加入していない期間"
+   },
+   {
+    "text": "納付要件は初診日の前日に、前々月までの被保険者期間で納付済期間と免除期間をあわせて3分の2以上",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html",
+    "quote": "初診日の前日に、初診日がある月の前々月までの被保険者期間で、国民年金の保険料納付済期間（厚生年金保険の被保険者期間、共済組合の組合員期間を含む）と保険料免除期間をあわせた期間が3分の2以上あること。"
+   },
+   {
+    "text": "特例：初診日が令和18年3月末日まで、初診日に65歳未満なら、前々月までの直近1年間に未納がなければよい",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html",
+    "quote": "ただし、初診日が令和18年3月末日までのときは、初診日において65歳未満であれば、初診日の前日において、初診日がある月の前々月までの直近1年間に保険料の未納がなければよいことになっています。"
+   },
+   {
+    "text": "20歳前の年金制度未加入期間に初診日があれば納付要件は不要",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html",
+    "quote": "また、20歳前の年金制度に加入していない期間に初診日がある場合は、納付要件は不要です。"
+   },
+   {
+    "text": "障害認定日は原則初診日から1年6か月を過ぎた日、それ以内に治った（症状固定）場合はその日",
+    "source_url": "https://www.nenkin.go.jp/service/yougo/sagyo/ninteibi.html",
+    "quote": "その障害の原因となった病気やけがについての初診日から1年6カ月を過ぎた日、または1年6カ月以内にその病気やけがが治った場合（症状が固定した場合）はその日をいいます。"
+   },
+   {
+    "text": "人工透析などは別に障害認定日が定められている",
+    "source_url": "https://www.nenkin.go.jp/service/yougo/sagyo/ninteibi.html",
+    "quote": "人工透析療法を行っている場合は、透析を初めて受けた日から起算して3カ月を経過した日"
+   },
+   {
+    "text": "障害認定日に障害の状態なら翌月分から受給、請求はいつでも可、遡及は時効で5年分が限度",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html",
+    "quote": "障害認定日に法令に定める障害の状態にあるときは、障害認定日の翌月分から…年金を受給できます。なお、請求書は障害認定日以降、いつでも提出できますが、遡及して受けられる年金は、時効により、5年分が限度です。"
+   },
+   {
+    "text": "事後重症：認定日に該当しなくても後に悪化すれば請求でき、請求日の翌月から受給。請求は65歳の誕生日の前々日まで",
+    "source_url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html",
+    "quote": "その後症状が悪化し、法令に定める障害の状態になったときには請求日の翌月から障害年金を受給できます。ただし、請求書は65歳の誕生日の前々日までに提出する必要があります。"
+   },
+   {
+    "text": "法令上の根拠（障害認定日・3分の2要件・事後重症）",
+    "source_url": "https://laws.e-gov.go.jp/law/334AC0000000141",
+    "quote": "第三十条…当該初診日から起算して一年六月を経過した日…以下「障害認定日」という。／第三十条の二…同日後六十五歳に達する日の前日までの間において…請求することができる。"
+   },
+   {
+    "text": "年金事務所で相談できる（全国どこの年金事務所でも）",
+    "source_url": "https://www.nenkin.go.jp/section/soudan/index.html",
+    "quote": "個人のお客様のご相談は、原則、全国どこの年金事務所でも受け付けています。"
+   },
+   {
+    "text": "街角の年金相談センターで年金の請求に関する相談・手続きができる",
+    "source_url": "https://www.nenkin.go.jp/section/soudan/tokyo/centershinjuku.html",
+    "quote": "「街角の年金相談センター」では、年金の受け取りに関するご相談やお手続きができます。年金の請求に関するご相談・お手続き"
+   },
+   {
+    "text": "20歳前に初診日がある場合、障害認定日以後に20歳に達したときは20歳に達した日に障害の状態を判断する",
+    "source_url": "https://laws.e-gov.go.jp/law/334AC0000000141",
+    "quote": "第三十条の四 …その初診日において二十歳未満であつた者が、障害認定日以後に二十歳に達したときは二十歳に達した日において、障害認定日が二十歳に達した日後であるときはその障害認定日において…"
+   }
+  ]
+ },
+ "shogai-fukushi-service": {
+  "audit": {
+   "date": "2026-10-05",
+   "checked": 30,
+   "fixed": [
+    "1割負担の対象を「かかった費用」から「サービスにかかった費用（食費などを除く）」に修正し、上限を超えないのはサービスの負担で、食費・光熱水費などは別にかかることがあると追記（法29条、厚労省『障害者の利用者負担』）",
+    "所得を本人と配偶者で判断する対象から、施設に入所する18・19歳を除くと明記",
+    "用語『サービス等利用計画』の定義を『相談支援の事業者が作る』の断定から、市区町村が必要な場合に事業者作成の計画案の提出を求める、という法22条4項の書き方に修正（同条5項で別の計画案に代えられる場合があるため）"
+   ],
+   "unverified_removed": []
+  },
+  "claims": [
+   {
+    "text": "障害福祉サービスは障害者総合支援法（障害者の日常生活及び社会生活を総合的に支援するための法律）にもとづく",
+    "source_url": "https://laws.e-gov.go.jp/law/417AC0000000123",
+    "quote": "第一条 …必要な障害福祉サービスに係る給付、地域生活支援事業その他の支援を総合的に行い…"
+   },
+   {
+    "text": "障害福祉サービスは介護給付と訓練等給付に分かれる",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/naiyou.html",
+    "quote": "「障害福祉サービス」は、介護の支援を受ける場合には「介護給付」、訓練等の支援を受ける場合は「訓練等給付」に位置付けられ"
+   },
+   {
+    "text": "介護給付・訓練等給付の対象サービスは法28条に定められている（居宅介護・生活介護等は介護給付、就労移行支援・就労継続支援・共同生活援助等は訓練等給付）",
+    "source_url": "https://laws.e-gov.go.jp/law/417AC0000000123",
+    "quote": "第二十八条 介護給付費…一 居宅介護…六 生活介護… ２ 訓練等給付費…一 自立訓練 二 就労選択支援 三 就労移行支援 四 就労継続支援 五 就労定着支援 六 自立生活援助 七 共同生活援助"
+   },
+   {
+    "text": "就労移行支援は、就労に必要な訓練、求職活動の支援、職場への定着の相談などを行う",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/naiyou.html",
+    "quote": "就労に必要な知識及び能力の向上のために必要な訓練、求職活動に関する支援、その適性に応じた職場の開拓、就職後における職場への定着のために必要な相談その他の必要な支援を行います"
+   },
+   {
+    "text": "申請先は市町村（法20条）。職員が面接し心身の状況や環境を調査する",
+    "source_url": "https://laws.e-gov.go.jp/law/417AC0000000123",
+    "quote": "第二十条 支給決定を受けようとする障害者又は障害児の保護者は…市町村に申請をしなければならない。２ …当該職員をして…面接をさせ、その心身の状況、その置かれている環境その他…について調査をさせる"
+   },
+   {
+    "text": "障害支援区分は非該当・区分1〜6で、区分6が支援の度合いが最も高い",
+    "source_url": "https://www.mhlw.go.jp/content/001736044.pdf",
+    "quote": "区分６ （高い）… 必要とされる支援の度合い 非該当 区分１ 区分２ 区分３ 区分４ 区分５"
+   },
+   {
+    "text": "介護給付を使うときは障害支援区分の認定を受ける（訓練系・就労系サービス等は不要）",
+    "source_url": "https://www.mhlw.go.jp/content/001398603.pdf",
+    "quote": "障害支援区分の認定や支給決定などの手続き後、必要と認められたサービスを利用できます。（訓練系・就労系サービス等は障害支援区分の認定を受ける必要はありません）"
+   },
+   {
+    "text": "訓練系・就労系サービス等は障害支援区分の認定を受ける必要がない",
+    "source_url": "https://www.mhlw.go.jp/content/001398603.pdf",
+    "quote": "（訓練系・就労系サービス等は障害支援区分の認定を受ける必要はありません）"
+   },
+   {
+    "text": "市町村は必要な場合にサービス等利用計画案の提出を求める（法22条）。指定特定相談支援事業者が作成する",
+    "source_url": "https://laws.e-gov.go.jp/law/417AC0000000123",
+    "quote": "第二十二条 ４ 市町村は、支給要否決定を行うに当たって必要と認められる場合として主務省令で定める場合には…指定特定相談支援事業者が作成するサービス等利用計画案の提出を求めるものとする。"
+   },
+   {
+    "text": "支給決定をすると障害福祉サービス受給者証が交付される",
+    "source_url": "https://laws.e-gov.go.jp/law/417AC0000000123",
+    "quote": "第二十二条 ８ 市町村は、支給決定を行ったときは…障害福祉サービス受給者証…を交付しなければならない。"
+   },
+   {
+    "text": "自己負担は費用の1割が上限（法29条）",
+    "source_url": "https://laws.e-gov.go.jp/law/417AC0000000123",
+    "quote": "第二十九条 ３ 二 …政令で定める額（当該政令で定める額が前号に掲げる額の百分の十に相当する額を超えるときは、当該相当する額）"
+   },
+   {
+    "text": "所得に応じた4区分の負担上限月額があり、それ以上の負担は生じない",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/hutan1.html",
+    "quote": "所得に応じて次の４区分の負担上限月額が設定され、ひと月に利用したサービス量にかかわらず、それ以上の負担は生じません。"
+   },
+   {
+    "text": "上限月額は生活保護0円、低所得（市町村民税非課税）0円、一般1（所得割16万円未満）9,300円、一般2 37,200円",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/hutan1.html",
+    "quote": "生活保護 生活保護受給世帯 ０円 低所得 市町村民税非課税世帯 ０円 一般１ 市町村民税課税世帯（所得割１６万円未満）… ９，３００円 一般２ 上記以外 ３７，２００円"
+   },
+   {
+    "text": "20歳以上の入所施設利用者とグループホーム利用者は、課税世帯なら一般2",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/hutan1.html",
+    "quote": "（注３）入所施設利用者（２０歳以上）、グループホーム利用者は、市町村民税課税世帯の場合、「一般２」 となります。"
+   },
+   {
+    "text": "18歳以上の障害者の所得判断の世帯範囲は本人と配偶者",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/hutan1.html",
+    "quote": "１８歳以上の障害者 (施設に入所する１８、１９歳を除く) 障害のある方とその配偶者"
+   },
+   {
+    "text": "対象の難病は2025年4月から376疾病で、障害者手帳がなくても必要と認められた支援を受けられる",
+    "source_url": "https://www.mhlw.go.jp/content/001398603.pdf",
+    "quote": "障害福祉サービス等の対象となる難病が、369疾病から376疾病へと見直しが行われます。対象となる方は、障害者手帳※をお持ちでなくても、必要と認められた支援が受けられます。…令和７年４月1日から適用"
+   },
+   {
+    "text": "難病の人は診断書などを持って市区町村の窓口に申請する",
+    "source_url": "https://www.mhlw.go.jp/content/001398603.pdf",
+    "quote": "対象疾病に罹患していることがわかる証明書※（診断書など）を持参し、お住まいの市区町村の担当窓口にサービスの利用を申請してください。"
+   },
+   {
+    "text": "居宅介護は自宅で入浴・排せつ・食事の介護や家事などを行う",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/naiyou.html",
+    "quote": "居宅において、入浴、排せつ及び食事等の介護、調理、洗濯及び掃除等の家事並びに生活等に関する相談及び助言その他の生活全般にわたる援助を行います。"
+   },
+   {
+    "text": "生活介護は常時介護を要する人に、主に昼間、介護や創作的活動・生産活動の機会を提供する",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/naiyou.html",
+    "quote": "常時介護を要するものにつき、主として昼間において、入浴、排せつ及び食事等の介護…創作的活動又は生産活動の機会の提供"
+   },
+   {
+    "text": "就労継続支援A型は雇用契約に基づき就労、B型は非雇用型",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/naiyou.html",
+    "quote": "就労継続支援A型（雇用型）…雇用契約に基づき、継続的に就労することが可能な者 / 就労継続支援B型（非雇用型）"
+   },
+   {
+    "text": "共同生活援助（グループホーム）は主として夜間、共同生活の住居で相談や介護などを行う",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/naiyou.html",
+    "quote": "共同生活援助（グループホーム） 障害者につき、主として夜間において、共同生活を営むべき住居において行われる相談、入浴、排せつ又は食事の介護その他の必要な日常生活上の援助を行います。"
+   },
+   {
+    "text": "負担の対象になる費用から食事・居住などの特定費用は除かれ、入所施設の食費・光熱水費は実費負担",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/hutan1.html",
+    "quote": "入所施設の食費・光熱水費の実費負担については、５４，０００円を限度として施設ごとに額が設定されることになりますが…（法29条1項：食事の提供に要する費用、居住若しくは滞在に要する費用…（以下「特定費用」という。）を除く）"
+   },
+   {
+    "text": "所得判断の世帯範囲（本人と配偶者）から、施設に入所する18・19歳は除かれる",
+    "source_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/hutan1.html",
+    "quote": "１８歳以上の障害者 (施設に入所する１８、１９歳を除く) 障害のある方とその配偶者"
+   }
+  ]
  }
 }

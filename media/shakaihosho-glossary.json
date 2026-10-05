@@ -1328,5 +1328,375 @@
     "url": "https://www.kyoukaikenpo.or.jp/benefit/injury_and_sickness_allowance/"
    }
   ]
+ },
+ {
+  "id": "gyomu-saigai",
+  "term": "業務災害",
+  "en": "Occupational injury",
+  "field": "労災",
+  "def": "業務災害とは、労働者が仕事を原因として受けたけが、病気、障害または死亡のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「労災保険給付の概要」",
+    "url": "https://www.mhlw.go.jp/content/11200000/001743837.pdf"
+   }
+  ]
+ },
+ {
+  "id": "tsukin-saigai",
+  "term": "通勤災害",
+  "en": "Commuting injury",
+  "field": "労災",
+  "def": "通勤災害とは、労働者が就業に関し、住居と就業の場所との間などを合理的な経路と方法で移動する間に受けたけが、病気、障害または死亡のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「労働者災害補償保険法」第7条",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000050"
+   }
+  ]
+ },
+ {
+  "id": "kyufu-kiso-nichigaku",
+  "term": "給付基礎日額",
+  "en": "Daily benefit base",
+  "field": "労災",
+  "def": "給付基礎日額とは、労災保険の給付額を計算するもとになる1日あたりの額で、原則として労働基準法の平均賃金に相当する額のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「労災保険給付の概要」",
+    "url": "https://www.mhlw.go.jp/content/11200000/001743837.pdf"
+   }
+  ]
+ },
+ {
+  "id": "roudou-kijun-kantokusho",
+  "term": "労働基準監督署",
+  "en": "Labour Standards Inspection Office",
+  "field": "労災",
+  "def": "労働基準監督署とは、都道府県労働局の仕事の一部を分けて受け持つために各地に置かれた役所で、労災保険の請求書を受け付けて給付を決める窓口のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「厚生労働省設置法」（第22条）",
+    "url": "https://laws.e-gov.go.jp/law/411AC0000000097"
+   },
+   {
+    "text": "厚生労働省「労働災害が発生したとき」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/rousai/index.html"
+   }
+  ]
+ },
+ {
+  "id": "rosai-shitei-iryokikan",
+  "term": "労災保険指定医療機関",
+  "en": "Designated medical institution for workers' accident insurance",
+  "field": "労災",
+  "def": "労災保険指定医療機関とは、都道府県労働局長が指定した病院や診療所などで、労災の請求書を出せば窓口で治療費を払わずに治療を受けられる医療機関のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「労働者災害補償保険法施行規則」（第11条）",
+    "url": "https://laws.e-gov.go.jp/law/330M50002000022"
+   },
+   {
+    "text": "厚生労働省「労働災害が発生したとき」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/rousai/index.html"
+   }
+  ]
+ },
+ {
+  "id": "rosai-shinsakan",
+  "term": "労働者災害補償保険審査官",
+  "en": "Workers' Accident Compensation Insurance Examiner",
+  "field": "労災",
+  "def": "労働者災害補償保険審査官とは、都道府県労働局に置かれ、労災保険の給付に関する決定に不服がある人からの審査請求を受け付けて判断する担当者のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「労働者災害補償保険法」（第38条）",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000050"
+   },
+   {
+    "text": "厚生労働省「労災保険審査請求制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000127192.html"
+   }
+  ]
+ },
+ {
+  "id": "tashi-kasan",
+  "term": "多子加算（児童手当）",
+  "en": "Additional amount for third and later children",
+  "field": "子育て",
+  "def": "多子加算（児童手当）とは、児童手当で3人目以降の子どもの月額を3万円とするしくみで、22歳になった後の最初の3月31日までの上の子も、親などが生活費を負担していれば数に含めるもののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "こども家庭庁「「第3子以降」のカウント方法について」（PDF）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/c9d07fdc-1873-4b62-ba35-b38a62a471a6/9f5267a3/20250213_policies_kokoseido_jidouteate_annai_05.pdf"
+   },
+   {
+    "text": "こども家庭庁「児童手当制度のご案内」",
+    "url": "https://www.cfa.go.jp/policies/kokoseido/jidouteate/annai"
+   },
+   {
+    "text": "こども家庭庁「児童手当制度の概要」（PDF）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/1c6d2629-ef70-43fd-971d-27231e0d9e1f/2fea19c2/20241007_policies_kokoseido_jidouteate_gaiyou_06.pdf"
+   }
+  ]
+ },
+ {
+  "id": "nintei-seikyu",
+  "term": "認定請求（児童手当）",
+  "en": "Application for certification (child allowance)",
+  "field": "子育て",
+  "def": "認定請求（児童手当）とは、児童手当を受け取るために、住所地の市区町村長（公務員は勤務先）に受給資格と手当の額の認定を求める手続きのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童手当法」第7条・第8条・第17条",
+    "url": "https://laws.e-gov.go.jp/law/346AC0000000073"
+   },
+   {
+    "text": "こども家庭庁「児童手当制度のご案内」",
+    "url": "https://www.cfa.go.jp/policies/kokoseido/jidouteate/annai"
+   }
+  ]
+ },
+ {
+  "id": "zenbu-ichibu-shikyu",
+  "term": "全部支給・一部支給（児童扶養手当）",
+  "en": "Full / partial payment",
+  "field": "子育て",
+  "def": "全部支給・一部支給（児童扶養手当）とは、受給する人の前の年の所得に応じて、児童扶養手当を満額で支給するか、所得に応じて減額して支給するかの区分のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "こども家庭庁「児童扶養手当制度の概要」",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/71de338f-5ed2-4c95-9848-3fd387d0b4d7/a4e6f323/20260408_policies_hitori-oya_fuyou-teate_19.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「児童扶養手当法」第9条",
+    "url": "https://laws.e-gov.go.jp/law/336AC0000000238"
+   }
+  ]
+ },
+ {
+  "id": "nintei-seikyu-fuyo",
+  "term": "認定請求（児童扶養手当）",
+  "en": "Claim for certification",
+  "field": "子育て",
+  "def": "認定請求（児童扶養手当）とは、児童扶養手当を受けるために、受給資格と手当の額について都道府県知事や市長などの認定を求める手続きのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童扶養手当法」第6条・第7条",
+    "url": "https://laws.e-gov.go.jp/law/336AC0000000238"
+   }
+  ]
+ },
+ {
+  "id": "bukka-slide",
+  "term": "物価スライド",
+  "en": "Price indexation",
+  "field": "子育て",
+  "def": "物価スライドとは、全国消費者物価指数の上がり下がりに合わせて、手当などの額を毎年度自動的に改定するしくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童扶養手当法」第5条の2",
+    "url": "https://laws.e-gov.go.jp/law/336AC0000000238"
+   }
+  ]
+ },
+ {
+  "id": "boshi-fushi-jiritsu-shienin",
+  "term": "母子・父子自立支援員",
+  "en": "Single parent self-reliance support counselor",
+  "field": "子育て",
+  "def": "母子・父子自立支援員とは、ひとり親家庭の親や寡婦の、暮らし・仕事・お金の貸付けなどの相談にのる相談員のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "こども家庭庁「ひとり親家庭の支援について 1. 子育て・生活支援」（令和8年4月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/0a870592-1814-4b21-bf56-16f06080c594/49ffc01c/20260423_policies_hitori-oya_105.pdf"
+   }
+  ]
+ },
+ {
+  "id": "kotoshokugyo-kunren-sokushin-kyufukin",
+  "term": "高等職業訓練促進給付金",
+  "en": "Advanced vocational training promotion benefit",
+  "field": "子育て",
+  "def": "高等職業訓練促進給付金とは、ひとり親が看護師などの資格を取るため養成機関で6か月以上学ぶ間に、生活費の負担を軽くするために支給されるお金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "こども家庭庁「高等職業訓練促進給付金のご案内」",
+    "url": "https://www.cfa.go.jp/policies/hitori-oya/syokugyou-kunren"
+   }
+  ]
+ },
+ {
+  "id": "boshi-fushi-kafu-fukushi-shikin",
+  "term": "母子父子寡婦福祉資金",
+  "en": "Welfare loans for single parents and widows",
+  "field": "子育て",
+  "def": "母子父子寡婦福祉資金とは、ひとり親家庭の親や寡婦に、子の修学資金など12種類の資金を無利子または年1.0%で貸し付ける制度のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "こども家庭庁「令和8年度予算の概要（こどもの貧困対策・ひとり親家庭支援）」（2026年4月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/0a870592-1814-4b21-bf56-16f06080c594/5a47bc4e/20260424_policies_hitori-oya_113.pdf"
+   }
+  ]
+ },
+ {
+  "id": "shogai-kiso-nenkin",
+  "term": "障害基礎年金",
+  "en": "Disability Basic Pension",
+  "field": "障害",
+  "def": "障害基礎年金とは、初診日に国民年金に加入していた人や、20歳前・60歳以上65歳未満で年金制度に加入していない期間に初診日がある人などが、障害等級1級または2級の状態にあるときに支給される年金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「障害基礎年金の受給要件・請求時期・年金額」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html"
+   }
+  ]
+ },
+ {
+  "id": "shogai-kosei-nenkin",
+  "term": "障害厚生年金",
+  "en": "Disability Employees' Pension",
+  "field": "障害",
+  "def": "障害厚生年金とは、厚生年金保険に加入している間に初診日がある病気やけがで、障害等級1級から3級の状態にあるときに支給される年金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「障害厚生年金の受給要件・請求時期・年金額」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-02.html"
+   }
+  ]
+ },
+ {
+  "id": "shogai-teatekin",
+  "term": "障害手当金",
+  "en": "Disability allowance (lump sum)",
+  "field": "障害",
+  "def": "障害手当金とは、厚生年金保険に加入している間に初診日がある病気やけがが初診日から5年以内に治り、障害厚生年金を受けるよりも軽い障害が残ったときに支給される一時金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「障害年金」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-01.html"
+   },
+   {
+    "text": "e-Gov法令検索「厚生年金保険法」（第55条）",
+    "url": "https://laws.e-gov.go.jp/law/329AC0000000115"
+   }
+  ]
+ },
+ {
+  "id": "shogai-nintei-bi",
+  "term": "障害認定日",
+  "en": "Date of disability certification",
+  "field": "障害",
+  "def": "障害認定日とは、障害年金で障害の状態を判断する日で、原則として初診日から1年6か月を過ぎた日、それより前に病気やけがが治った（症状が固定した）場合はその日のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構 年金用語集「障害認定日」",
+    "url": "https://www.nenkin.go.jp/service/yougo/sagyo/ninteibi.html"
+   },
+   {
+    "text": "e-Gov法令検索「国民年金法」第30条",
+    "url": "https://laws.e-gov.go.jp/law/334AC0000000141"
+   }
+  ]
+ },
+ {
+  "id": "hokenryo-nofu-yoken",
+  "term": "保険料納付要件",
+  "en": "Contribution requirement",
+  "field": "障害",
+  "def": "保険料納付要件とは、障害年金を受けるために、初診日の前日において、初診日のある月の前々月までの加入期間の3分の2以上が保険料の納付済期間か免除期間であることを求める要件のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「障害基礎年金の受給要件・請求時期・年金額」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html"
+   }
+  ]
+ },
+ {
+  "id": "jigo-jusho",
+  "term": "事後重症",
+  "en": "Later aggravation of disability",
+  "field": "障害",
+  "def": "事後重症とは、障害認定日には障害等級に当たる状態でなかった人が、その後65歳に達する日の前日までに症状が重くなって障害等級に当たる状態になったときに、その期間内に行う障害年金の請求のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「障害基礎年金の受給要件・請求時期・年金額」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html"
+   },
+   {
+    "text": "e-Gov法令検索「国民年金法」第30条の2",
+    "url": "https://laws.e-gov.go.jp/law/334AC0000000141"
+   }
+  ]
+ },
+ {
+  "id": "shogai-sogo-shienho",
+  "term": "障害者総合支援法",
+  "en": "Act on Comprehensive Support for Persons with Disabilities",
+  "field": "障害",
+  "def": "障害者総合支援法とは、障害のある人が尊厳にふさわしい日常生活や社会生活を営めるよう、障害福祉サービスに係る給付や地域生活支援事業などを総合的に行うことを定めた法律のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「障害者の日常生活及び社会生活を総合的に支援するための法律」",
+    "url": "https://laws.e-gov.go.jp/law/417AC0000000123"
+   }
+  ]
+ },
+ {
+  "id": "shogai-shien-kubun",
+  "term": "障害支援区分",
+  "en": "Disability support classification",
+  "field": "障害",
+  "def": "障害支援区分とは、障害の多様な特性その他の心身の状態に応じて必要とされる標準的な支援の度合いを総合的に示す、非該当と区分1〜6からなる区分のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「障害者総合支援法における『障害支援区分』の概要」",
+    "url": "https://www.mhlw.go.jp/content/001736044.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「障害者の日常生活及び社会生活を総合的に支援するための法律」",
+    "url": "https://laws.e-gov.go.jp/law/417AC0000000123"
+   }
+  ]
+ },
+ {
+  "id": "shuro-keizoku-shien",
+  "term": "就労継続支援",
+  "en": "Continuous employment support",
+  "field": "障害",
+  "def": "就労継続支援とは、一般の会社などに雇用されることが難しい障害のある人に、働く機会や生産活動の場を提供し、知識や能力を高める訓練などを行う訓練等給付のサービスで、雇用契約を結ぶA型と結ばないB型があるもののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「障害福祉サービスについて」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/naiyou.html"
+   },
+   {
+    "text": "e-Gov法令検索「障害者の日常生活及び社会生活を総合的に支援するための法律」",
+    "url": "https://laws.e-gov.go.jp/law/417AC0000000123"
+   }
+  ]
  }
 ]
