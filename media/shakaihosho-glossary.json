@@ -682,7 +682,7 @@
   "date": "2026-10-05",
   "sources": [
    {
-    "text": "e-Gov法令検索「日本国憲法」",
+    "text": "e-Gov法令検索「日本国憲法」第25条",
     "url": "https://laws.e-gov.go.jp/law/321CONSTITUTION"
    }
   ]
@@ -696,7 +696,7 @@
   "date": "2026-10-05",
   "sources": [
    {
-    "text": "社会保障制度審議会「社会保障制度に関する勧告」（1950年）",
+    "text": "社会保障制度審議会「社会保障制度に関する勧告」（1950年、国立社会保障・人口問題研究所 掲載資料）",
     "url": "https://www.ipss.go.jp/publication/j/shiryou/no.13/data/shiryou/syakaifukushi/1.pdf"
    }
   ]
@@ -707,7 +707,13 @@
   "en": "Social insurance system",
   "field": "基本",
   "def": "社会保険方式とは、加入者や事業主があらかじめ保険料を出し合い、病気やけが、失業などのできごとに遭った人にお金やサービスを支給する社会保障のしくみのことです。",
-  "date": "2026-10-05"
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「平成24年版 厚生労働白書」第1部第3章「日本の社会保障の仕組み」",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf"
+   }
+  ]
  },
  {
   "id": "zei-hoshiki",
@@ -715,7 +721,13 @@
   "en": "Tax-financed system",
   "field": "基本",
   "def": "税方式とは、保険料ではなくおもに税を財源にして、国や地方公共団体が現金やサービスを提供する社会保障のしくみのことです。",
-  "date": "2026-10-05"
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「平成24年版 厚生労働白書」第1部第3章「日本の社会保障の仕組み」",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf"
+   }
+  ]
  },
  {
   "id": "shiryoku-chosa",
@@ -723,19 +735,29 @@
   "en": "Means test",
   "field": "基本",
   "def": "資力調査とは、給付を行う前に、預貯金や不動産などの資産や収入の状況を確かめる調査のことです。",
-  "date": "2026-10-05"
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「平成24年版 厚生労働白書」第1部第3章「日本の社会保障の仕組み」",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf"
+   }
+  ]
  },
  {
   "id": "saitei",
   "term": "裁定",
   "en": "Adjudication of pension rights",
   "field": "年金",
-  "def": "裁定とは、年金などの給付を受ける権利を持つ人の請求にもとづいて、厚生労働大臣がその権利を確認し決定する手続きのことです。",
+  "def": "裁定とは、年金の給付を受ける権利を持つ人の請求にもとづいて、その権利を確認し決定する手続きのことで、国民年金では厚生労働大臣、厚生年金保険では実施機関が行います。",
   "date": "2026-10-05",
   "sources": [
    {
     "text": "e-Gov法令検索「国民年金法」第16条",
     "url": "https://laws.e-gov.go.jp/law/334AC0000000141"
+   },
+   {
+    "text": "e-Gov法令検索「厚生年金保険法」第33条",
+    "url": "https://laws.e-gov.go.jp/law/329AC0000000115"
    }
   ]
  },
@@ -744,16 +766,32 @@
   "term": "生活保護の基本原理",
   "en": "Basic principles of public assistance",
   "field": "お金と生活",
-  "def": "生活保護の基本原理とは、生活保護法の第1条から第4条に定められた、国家責任・無差別平等・最低生活・保護の補足性の4つの原理で、法律の解釈と運用はすべてこれにもとづいて行われるもののことです。",
-  "date": "2026-10-05"
+  "def": "生活保護の基本原理とは、生活保護法の第1条から第4条に定められた、国が最低限度の生活を保障する責任（第1条）・無差別平等（第2条）・最低生活（第3条）・保護の補足性（第4条）の4つの原理で、法律の解釈と運用はすべてこれにもとづいて行われる（第5条）もののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「生活保護法」",
+    "url": "https://laws.e-gov.go.jp/law/325AC0000000144"
+   }
+  ]
  },
  {
   "id": "seigyo-fujo",
   "term": "生業扶助",
   "en": "Occupational assistance",
   "field": "お金と生活",
-  "def": "生業扶助とは、生活保護の8種類の扶助のうち、就労に必要な技能の修得など仕事に関わる費用（高等学校等に就学するための費用を含む）に対応するもののことです。",
-  "date": "2026-10-05"
+  "def": "生業扶助とは、生活保護の8種類の扶助のうち、仕事に必要な資金・器具や技能の修得、就労のために必要なものの費用（高等学校等に就学するための費用を含む）に対応するもののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「生活保護制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+   },
+   {
+    "text": "e-Gov法令検索「生活保護法」",
+    "url": "https://laws.e-gov.go.jp/law/325AC0000000144"
+   }
+  ]
  },
  {
   "id": "kyoiku-fujo",
@@ -761,15 +799,35 @@
   "en": "Educational assistance",
   "field": "お金と生活",
   "def": "教育扶助とは、生活保護の8種類の扶助のうち、義務教育を受けるために必要な学用品費などに対応するもののことです。",
-  "date": "2026-10-05"
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「生活保護制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+   },
+   {
+    "text": "e-Gov法令検索「生活保護法」",
+    "url": "https://laws.e-gov.go.jp/law/325AC0000000144"
+   }
+  ]
  },
  {
   "id": "fuyo-shokai",
   "term": "扶養照会",
   "en": "Inquiry to family members about support",
   "field": "お金と生活",
-  "def": "扶養照会とは、生活保護の申請があったときに、福祉事務所が親族などの扶養義務者に、仕送りなどの援助ができるかどうかを直接たずねる照会のことです。",
-  "date": "2026-10-05"
+  "def": "扶養照会とは、生活保護の申請を受けた福祉事務所が、親族などの扶養義務者に仕送りなどの援助ができるかどうかを直接問い合わせることで、扶養義務の履行が期待できないと判断された人には基本的に行わないとされているもののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省社会・援護局保護課 事務連絡「扶養義務履行が期待できない者の判断基準の留意点等について」（2021年2月26日）",
+    "url": "https://www.mhlw.go.jp/content/000746078.pdf"
+   },
+   {
+    "text": "厚生労働省「生活保護を申請したい方へ」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsuhogopage.html"
+   }
+  ]
  },
  {
   "id": "kakei-kaizen",
@@ -800,6 +858,10 @@
    {
     "text": "厚生労働省「生活困窮者自立支援制度」",
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+   },
+   {
+    "text": "e-Gov法令検索「生活困窮者自立支援法」",
+    "url": "https://laws.e-gov.go.jp/law/425AC0000000105"
    }
   ]
  },
@@ -808,7 +870,7 @@
   "term": "居住支援事業",
   "en": "Housing support program",
   "field": "住まい",
-  "def": "居住支援事業とは、生活困窮者自立支援制度の事業の一つで、住まいのない人などに一定期間、宿泊場所や衣食を提供し、退所後の生活に向けた支援も行う事業のことです。",
+  "def": "居住支援事業とは、生活困窮者自立支援制度の事業の一つで、住まいのない人などに一定期間、宿泊場所や衣食を提供し、退所後の生活に向けた支援や、住まいを失うおそれのある人への訪問による見守りなども行う事業のことです。",
   "date": "2026-10-05",
   "sources": [
    {
@@ -816,8 +878,12 @@
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
    },
    {
-    "text": "厚生労働省「制度の沿革」",
+    "text": "厚生労働省「制度の沿革」（生活困窮者自立支援制度）",
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000073432.html"
+   },
+   {
+    "text": "e-Gov法令検索「生活困窮者自立支援法」",
+    "url": "https://laws.e-gov.go.jp/law/425AC0000000105"
    }
   ]
  },
@@ -827,7 +893,17 @@
   "en": "Comprehensive support fund",
   "field": "お金と生活",
   "def": "総合支援資金とは、生活福祉資金貸付制度の資金の一つで、生活を立て直すまでの生活費や、住まいの賃貸契約に必要な費用などを貸し付けるもののことです。",
-  "date": "2026-10-05"
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「生活福祉資金貸付条件等一覧」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/kashitsukejoken.html"
+   },
+   {
+    "text": "厚生労働省「生活福祉資金貸付制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/index.html"
+   }
+  ]
  },
  {
   "id": "shakyo",
@@ -835,6 +911,138 @@
   "en": "Council of social welfare",
   "field": "お金と生活",
   "def": "社会福祉協議会とは、地域福祉の推進を目的として社会福祉法に定められた団体で、都道府県や市区町村の区域で活動し、生活福祉資金貸付制度の窓口にもなっている団体のことです。",
-  "date": "2026-10-05"
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会福祉法」（第109条・第110条）",
+    "url": "https://laws.e-gov.go.jp/law/326AC0000000045"
+   },
+   {
+    "text": "厚生労働省「生活福祉資金貸付制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/index.html"
+   }
+  ]
+ },
+ {
+  "id": "kijungaku",
+  "term": "基準額",
+  "en": "Standard amount",
+  "field": "住まい",
+  "def": "基準額とは、住居確保給付金などの収入や資産の条件に使う額で、市町村民税の均等割が課されない人の収入額を12で割った額をもとにした、自治体ごとに異なる額のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「生活困窮者自立支援法施行規則」",
+    "url": "https://laws.e-gov.go.jp/law/427M60000100016"
+   },
+   {
+    "text": "厚生労働省「住居確保給付金のご案内」（PDF）",
+    "url": "https://www.mhlw.go.jp/content/12600000/001436774.pdf"
+   }
+  ]
+ },
+ {
+  "id": "tenkyo-hiyo-hojo",
+  "term": "転居費用の補助（住居確保給付金）",
+  "en": "Relocation cost support",
+  "field": "住まい",
+  "def": "転居費用の補助とは、収入が大きく減った人が家計を立て直すために家賃の安い住宅へ移るとき、住居確保給付金として転居に要する費用を上限の範囲で支給するしくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「厚生労働省関係の主な制度変更（令和７年４月）について」",
+    "url": "https://www.mhlw.go.jp/stf/newpage_51380.html"
+   },
+   {
+    "text": "厚生労働省「住居確保給付金のご案内」（PDF）",
+    "url": "https://www.mhlw.go.jp/content/12600000/001436774.pdf"
+   }
+  ]
+ },
+ {
+  "id": "yusen-nyukyo",
+  "term": "優先入居",
+  "en": "Priority admission",
+  "field": "住まい",
+  "def": "優先入居とは、公営住宅の入居者の募集・選考で、高齢者世帯や障害者世帯、子育て世帯など特に住まいに困っている世帯を、地方公共団体の判断で優先的に扱うしくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "国土交通省「公営住宅の優先入居について」",
+    "url": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000096.html"
+   }
+  ]
+ },
+ {
+  "id": "ur-chintai",
+  "term": "UR賃貸住宅",
+  "en": "UR rental housing",
+  "field": "住まい",
+  "def": "UR賃貸住宅とは、独立行政法人都市再生機構（UR都市機構）が貸す賃貸住宅で、原則として申込者の平均月収が基準の額以上あることなどを条件とし、公営住宅とは別のしくみの住宅のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "UR賃貸住宅「お申込み資格」",
+    "url": "https://www.ur-net.go.jp/chintai/rent/requirements/"
+   },
+   {
+    "text": "UR都市機構「企業情報」",
+    "url": "https://www.ur-net.go.jp/aboutus/"
+   }
+  ]
+ },
+ {
+  "id": "kyoju-shien-hojin",
+  "term": "居住支援法人",
+  "en": "Designated housing support corporation",
+  "field": "住まい",
+  "def": "居住支援法人とは、住宅セーフティネット法にもとづき都道府県知事が指定する、住宅確保要配慮者への賃貸住宅への入居に関する情報提供・相談や、入居後の見守りなどの生活支援を行うNPO法人などの法人のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "国土交通省「住宅セーフティネット制度」",
+    "url": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000055.html"
+   },
+   {
+    "text": "e-Gov法令検索「住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/419AC1000000112"
+   }
+  ]
+ },
+ {
+  "id": "kyoju-shien-kyogikai",
+  "term": "居住支援協議会",
+  "en": "Housing support council",
+  "field": "住まい",
+  "def": "居住支援協議会とは、住宅確保要配慮者の民間賃貸住宅への円滑な入居を進めるため、地方公共団体、居住支援法人、不動産業者、社会福祉協議会などが連携して、住宅情報の提供や相談体制の整備などを協議する組織のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "国土交通省「住宅セーフティネット制度」",
+    "url": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000055.html"
+   },
+   {
+    "text": "e-Gov法令検索「住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/419AC1000000112"
+   }
+  ]
+ },
+ {
+  "id": "jutaku-kakuho-yohairyosha",
+  "term": "住宅確保要配慮者",
+  "en": "Persons requiring special consideration in securing housing",
+  "field": "住まい",
+  "def": "住宅確保要配慮者とは、住宅セーフティネット法で、低額所得者、被災者、高齢者、障害者、子どもを養育している人など、住宅の確保に特に配慮を要すると定められた人のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "国土交通省「住宅セーフティネット制度」",
+    "url": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000055.html"
+   },
+   {
+    "text": "e-Gov法令検索「住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/419AC1000000112"
+   }
+  ]
  }
 ]
