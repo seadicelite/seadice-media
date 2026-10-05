@@ -1506,5 +1506,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Maruhan_Charity_Box_at_Daito_Osaka.jpg/500px-Maruhan_Charity_Box_at_Daito_Osaka.jpg",
   "og": "https://umbra.seadice.win/img/kindness-helping-signal-of-interest-research.jpg",
   "local": true
+ },
+ "deliberate-eye-contact-lying-research": {
+  "file": "File:Nairobi airport departure lounge, gate 7.jpg",
+  "src": "/img/deliberate-eye-contact-lying-research.jpg",
+  "src640": "/img/deliberate-eye-contact-lying-research-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "The departure lounge area near gate 7 at Nairobi airport.",
+  "artist": "Sam Wilson  (taken with Samsung Galaxy S21 FE 5G)",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Nairobi_airport_departure_lounge,_gate_7.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nairobi_airport_departure_lounge%2C_gate_7.jpg/960px-Nairobi_airport_departure_lounge%2C_gate_7.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nairobi_airport_departure_lounge%2C_gate_7.jpg/500px-Nairobi_airport_departure_lounge%2C_gate_7.jpg",
+  "og": "https://umbra.seadice.win/img/deliberate-eye-contact-lying-research.jpg",
+  "local": true
  }
 }
