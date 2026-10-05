@@ -35,5 +35,11 @@
     "name": "ゼロから学ぶ社会保障",
     "url": "https://shakaihosho.seadice.win/",
     "live": false
+  },
+  {
+    "slug": "hoikushi",
+    "name": "ゼロから学ぶ保育士",
+    "url": "https://hoikushi.seadice.win/",
+    "live": false
   }
 ]
