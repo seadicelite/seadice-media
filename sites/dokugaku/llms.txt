@@ -28,6 +28,7 @@
 
 ### 記憶・覚え方
 
+- [英単語の効率的な覚え方。研究でわかった「思い出す・間をあける・使う」](https://dokugaku.seadice.win/english-vocabulary-how-to-memorize/): 英単語は眺めるより隠して思い出し、日をあけて復習し、文で使うと覚えやすい。語呂合わせの注意点も紹介
 - [暗記カードの効果的な使い方。研究でわかった「分けない・すぐ外さない」](https://dokugaku.seadice.win/flashcards-how-to-use/): 暗記カードは小分けにせず1束で回し、1回正解しただけで外さない方が長く覚えられる
 - [覚えたつもりなのにテストで書けないのはなぜか。「わかったつもり」の研究](https://dokugaku.seadice.win/illusion-of-knowing-fluency/): すらすら読める手ごたえを「覚えた」と取り違える錯覚の研究と、本を閉じて確かめる対策
 - [思い出す練習（テスト効果）は、読み返すより覚えられるのか](https://dokugaku.seadice.win/retrieval-practice-vs-rereading/): 読み返すより本を閉じて思い出す方が1週間後に残る。答え合わせと書き出しで効果が大きくなる
@@ -45,15 +46,21 @@
 ### 続け方・習慣
 
 - [「いつ・どこでやるか」を決めると勉強は続くのか。実行意図（if-thenプラン）の研究](https://dokugaku.seadice.win/implementation-intentions-if-then-study/): 「もし〇〇したら△△する」と決めると目標達成に中〜大の効果。勉強での研究と効果の限界、今日書ける1文
+- [勉強仲間がいると続くのか。一緒に学ぶ効果（協同学習・同席効果）の研究](https://dokugaku.seadice.win/study-buddy-learning-together/): 「一緒にやっている」感覚と進み具合の報告は続ける力を高める。新しい内容を覚えるのは一人の方が向く場合もある
 - [独学が続かないのは意志が弱いからか。自制心と環境づくりの研究](https://dokugaku.seadice.win/willpower-self-control-study-environment/): 続く人は誘惑に耐えるより、耐えずに済む環境と習慣を持っていた。「意志は使うと減る」説の追試結果も紹介
 
 ### 集中・環境
 
+- [運動すると記憶や勉強の成果は良くなるのか。運動と学習の研究](https://dokugaku.seadice.win/exercise-and-memory-learning/): 1回の運動は記憶を少し助け、覚えた後の運動が効く。運動しながら覚えるのは逆効果、習慣の効果は小さい
 - [音楽を聴きながらの勉強は集中を妨げるのか。歌詞あり・なしで変わるBGMの研究](https://dokugaku.seadice.win/music-while-studying-lyrics/): 読む勉強では音楽で理解度が少し下がり、歌詞つきの曲が最も不利。歌詞なし・小さめの音なら差は小さい
 - [ポモドーロ・テクニック（25分勉強＋休憩）は効くのか。休憩と集中の研究](https://dokugaku.seadice.win/pomodoro-technique-breaks/): 時間を決めて休むと疲れや気の散りは減りやすいが、成績向上や「25分」が最適という証拠はない
+- [勉強する場所を変えると覚えやすいのか。場所と記憶（文脈依存記憶）の研究](https://dokugaku.seadice.win/study-location-context-dependent-memory/): 覚えた場所で思い出しやすい効果は実在するが小さめ。場所を思い浮かべるだけで差は縮む
 
 ### 時間・計画
 
+- [朝と夜、勉強に向いている時間はあるのか。体内時計（クロノタイプ）と学習の研究](https://dokugaku.seadice.win/chronotype-best-time-to-study/): 誰にでも最適な勉強時間はない。朝型・夜型と「得意な時間」の効果を研究で検証
+- [勉強の目標は高く掲げるべきか、小さく刻むべきか。目標設定の研究](https://dokugaku.seadice.win/goal-setting-high-or-small-steps/): 答えは両方。具体的で高いゴールを、毎回届く小さな区切りに分けて記録すると達成に近づく
+- [スキマ時間の勉強は効果があるのか。短い学習をくり返す研究](https://dokugaku.seadice.win/micro-learning-spare-time-study/): 1日の練習は短く分けた方が効率的だった。待ち時間の単語練習で2週間57語。スキマに向く内容と限界を研究で確かめる
 - [勉強の計画が毎回倒れるのはなぜか。計画錯誤の研究でわかったこと](https://dokugaku.seadice.win/planning-fallacy-study-plans/): 人は作業時間を短く見積もりがち。過去の実績を基準にし、作業を細かく書き出すと計画は現実に近づく
 
 ### やる気・心
@@ -66,6 +73,7 @@
 ### AIと独学
 
 - [AIに答えを聞くと勉強は身につかないのか。研究でわかった「使い方の分かれ目」](https://dokugaku.seadice.win/ai-answers-and-learning/): 答えを写すAIは自力の成績を下げ、ヒント型なら下がらなかった。高校生約1000人の実験などから使い方を解説
+- [AIに作文を添削させると上達するのか。AIの添削（自動フィードバック）と学習の研究](https://dokugaku.seadice.win/ai-writing-feedback-revision/): AIの添削は作文に中くらいの効果。直した文を受け取らず、指摘をもとに自分で書き直すのが分かれ目
 - [AIに説明させるより、自分で説明した方が覚えられるのか。自己説明と生成効果の研究](https://dokugaku.seadice.win/self-explanation-vs-ai-explanation/): 上手な説明を読むより自分で説明した方が学びは大きい。AIは説明役より確認役にすると効果的
 
 ## 主要ページ

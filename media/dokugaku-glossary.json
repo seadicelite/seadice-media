@@ -125,5 +125,41 @@
     "slugs": [
       "test-anxiety-expressive-writing"
     ]
+  },
+  {
+    "id": "context-dependent-memory",
+    "term": "文脈依存記憶",
+    "en": "Context-dependent memory",
+    "def": "覚えたときと同じ場所や状況で思い出すと、思い出しやすくなる現象。効果は実在しますが小さめで、その場所を思い浮かべるだけでも差は縮みます。",
+    "slugs": [
+      "study-location-context-dependent-memory"
+    ]
+  },
+  {
+    "id": "chronotype",
+    "term": "クロノタイプ（朝型・夜型）",
+    "en": "Chronotype",
+    "def": "人それぞれの体内時計の型。得意な時間帯に成績が上がった研究がある一方、大人数で調べた研究ではその効果はほとんど見られませんでした。",
+    "slugs": [
+      "chronotype-best-time-to-study"
+    ]
+  },
+  {
+    "id": "goal-setting-theory",
+    "term": "目標設定理論",
+    "en": "Goal-setting theory",
+    "def": "具体的で難しい目標を持つと、努力と成果が高まるという考え方。新しく複雑な課題では、成果の目標より「学ぶ目標」の方が向くとされます。",
+    "slugs": [
+      "goal-setting-high-or-small-steps"
+    ]
+  },
+  {
+    "id": "social-inhibition",
+    "term": "社会的抑制",
+    "en": "Social inhibition",
+    "def": "人の目があると、慣れない難しい課題の出来がかえって下がる現象。一方で、「一緒にやっている」感覚は粘り強さを高めることもあります。",
+    "slugs": [
+      "study-buddy-learning-together"
+    ]
   }
 ]

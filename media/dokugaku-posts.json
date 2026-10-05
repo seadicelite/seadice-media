@@ -1,5 +1,69 @@
 [
   {
+    "slug": "exercise-and-memory-learning",
+    "category": "集中・環境",
+    "type": "guide",
+    "date": "2026-10-05",
+    "title": "運動すると記憶や勉強の成果は良くなるのか。運動と学習の研究",
+    "summary": "1回の運動は記憶を少し助け、覚えた後の運動が効く。運動しながら覚えるのは逆効果、習慣の効果は小さい"
+  },
+  {
+    "slug": "ai-writing-feedback-revision",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-05",
+    "title": "AIに作文を添削させると上達するのか。AIの添削（自動フィードバック）と学習の研究",
+    "summary": "AIの添削は作文に中くらいの効果。直した文を受け取らず、指摘をもとに自分で書き直すのが分かれ目"
+  },
+  {
+    "slug": "chronotype-best-time-to-study",
+    "category": "時間・計画",
+    "type": "guide",
+    "date": "2026-10-05",
+    "title": "朝と夜、勉強に向いている時間はあるのか。体内時計（クロノタイプ）と学習の研究",
+    "summary": "誰にでも最適な勉強時間はない。朝型・夜型と「得意な時間」の効果を研究で検証"
+  },
+  {
+    "slug": "english-vocabulary-how-to-memorize",
+    "category": "記憶・覚え方",
+    "type": "guide",
+    "date": "2026-10-05",
+    "title": "英単語の効率的な覚え方。研究でわかった「思い出す・間をあける・使う」",
+    "summary": "英単語は眺めるより隠して思い出し、日をあけて復習し、文で使うと覚えやすい。語呂合わせの注意点も紹介"
+  },
+  {
+    "slug": "study-buddy-learning-together",
+    "category": "続け方・習慣",
+    "type": "guide",
+    "date": "2026-10-05",
+    "title": "勉強仲間がいると続くのか。一緒に学ぶ効果（協同学習・同席効果）の研究",
+    "summary": "「一緒にやっている」感覚と進み具合の報告は続ける力を高める。新しい内容を覚えるのは一人の方が向く場合もある"
+  },
+  {
+    "slug": "micro-learning-spare-time-study",
+    "category": "時間・計画",
+    "type": "guide",
+    "date": "2026-10-05",
+    "title": "スキマ時間の勉強は効果があるのか。短い学習をくり返す研究",
+    "summary": "1日の練習は短く分けた方が効率的だった。待ち時間の単語練習で2週間57語。スキマに向く内容と限界を研究で確かめる"
+  },
+  {
+    "slug": "study-location-context-dependent-memory",
+    "category": "集中・環境",
+    "type": "guide",
+    "date": "2026-10-05",
+    "title": "勉強する場所を変えると覚えやすいのか。場所と記憶（文脈依存記憶）の研究",
+    "summary": "覚えた場所で思い出しやすい効果は実在するが小さめ。場所を思い浮かべるだけで差は縮む"
+  },
+  {
+    "slug": "goal-setting-high-or-small-steps",
+    "category": "時間・計画",
+    "type": "guide",
+    "date": "2026-10-05",
+    "title": "勉強の目標は高く掲げるべきか、小さく刻むべきか。目標設定の研究",
+    "summary": "答えは両方。具体的で高いゴールを、毎回届く小さな区切りに分けて記録すると達成に近づく"
+  },
+  {
     "slug": "willpower-self-control-study-environment",
     "category": "続け方・習慣",
     "type": "guide",

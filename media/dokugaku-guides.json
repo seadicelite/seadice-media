@@ -2,7 +2,7 @@
   "title": "悩み別ガイド",
   "lead": "独学のよくある悩みから、関係する記事をまとめて読めます。",
   "cta": {
-    "label": "勉強法の効く・効かない早見表で、22の勉強法の判定を見る",
+    "label": "勉強法の効く・効かない早見表で、30の勉強法の判定を見る",
     "href": "/hayami/"
   },
   "items": [
@@ -23,7 +23,10 @@
         "illusion-of-knowing-fluency",
         "sleep-before-study-memory",
         "learning-by-teaching-protege-effect",
-        "highlighting-study-method"
+        "highlighting-study-method",
+        "exercise-and-memory-learning",
+        "english-vocabulary-how-to-memorize",
+        "study-location-context-dependent-memory"
       ]
     },
     {
@@ -40,7 +43,10 @@
         "implementation-intentions-if-then-study",
         "willpower-self-control-study-environment",
         "rewards-undermining-study-motivation",
-        "growth-mindset-praise-effort"
+        "growth-mindset-praise-effort",
+        "study-buddy-learning-together",
+        "micro-learning-spare-time-study",
+        "goal-setting-high-or-small-steps"
       ]
     },
     {
@@ -55,7 +61,10 @@
       "slugs": [
         "pomodoro-technique-breaks",
         "music-while-studying-lyrics",
-        "willpower-self-control-study-environment"
+        "willpower-self-control-study-environment",
+        "exercise-and-memory-learning",
+        "chronotype-best-time-to-study",
+        "study-location-context-dependent-memory"
       ]
     },
     {
@@ -70,7 +79,10 @@
       "slugs": [
         "planning-fallacy-study-plans",
         "implementation-intentions-if-then-study",
-        "pomodoro-technique-breaks"
+        "pomodoro-technique-breaks",
+        "chronotype-best-time-to-study",
+        "micro-learning-spare-time-study",
+        "goal-setting-high-or-small-steps"
       ]
     },
     {
@@ -85,7 +97,8 @@
       "slugs": [
         "ai-answers-and-learning",
         "self-explanation-vs-ai-explanation",
-        "learning-by-teaching-protege-effect"
+        "learning-by-teaching-protege-effect",
+        "ai-writing-feedback-revision"
       ]
     },
     {

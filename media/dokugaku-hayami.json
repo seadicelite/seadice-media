@@ -188,6 +188,76 @@
       "level": "c",
       "text": "年齢で下がるのは処理の速さなど一部です。語彙は60代まで伸び、高齢でも新しい技能を学ぶと記憶が伸びた研究があります。",
       "slug": "adult-relearning-age-and-learning"
+    },
+    {
+      "id": "exercise",
+      "name": "覚えた後に体を動かす",
+      "belief": "運動すれば頭が良くなる",
+      "level": "b",
+      "text": "1回の運動は記憶を少し助け、覚えた後の運動の方が効きやすい結果でした。運動しながら覚えるのは逆効果で、習慣にした運動の効果は小さいものでした。",
+      "evidence": "meta",
+      "slug": "exercise-and-memory-learning"
+    },
+    {
+      "id": "ai-feedback",
+      "name": "AIの指摘をもとに自分で書き直す",
+      "belief": "AIに直してもらえば上達する",
+      "level": "b",
+      "text": "自動の添削は作文に中くらいの効果がありました。ただ、直した文をそのまま受け取ると、知識の伸びに差は出ませんでした。指摘をもとに自分で書き直すのが分かれ目です。",
+      "evidence": "meta",
+      "slug": "ai-writing-feedback-revision"
+    },
+    {
+      "id": "chronotype",
+      "name": "朝型・夜型に合わせた時間に勉強する",
+      "belief": "勉強は朝が一番はかどる",
+      "level": "b",
+      "text": "誰にでも当てはまる最適な時間はありません。得意な時間帯に成績が上がった研究がある一方、446人を調べた研究ではその効果はほとんど見られませんでした。",
+      "slug": "chronotype-best-time-to-study"
+    },
+    {
+      "id": "vocab",
+      "name": "英単語を隠して思い出し、日をあけて復習する",
+      "belief": "英単語は何度も書いて覚える",
+      "level": "a",
+      "text": "英単語は眺めるより隠して思い出し、日をあけて復習すると覚えやすくなります。48の実験をまとめた分析でも、間をあける効果は中〜大でした。",
+      "evidence": "meta",
+      "slug": "english-vocabulary-how-to-memorize"
+    },
+    {
+      "id": "study-buddy",
+      "name": "勉強仲間に進み具合を報告する",
+      "belief": "勉強は一人で黙々とやるもの",
+      "level": "a",
+      "text": "目標までの進み具合を記録し、人に報告すると、目標を達成しやすくなることがメタ分析で示されています。「一緒にやっている」感覚も、粘り強さを高めました。",
+      "evidence": "meta",
+      "slug": "study-buddy-learning-together"
+    },
+    {
+      "id": "spare-time",
+      "name": "スキマ時間に短く勉強する",
+      "belief": "まとまった時間がないと勉強できない",
+      "level": "b",
+      "text": "1日の練習は短く分けた方が効率的だった研究や、待ち時間の単語練習で2週間に57語を覚えた研究があります。ただ、数分単位の勉強と長い勉強を直接比べた研究はまだありません。",
+      "slug": "micro-learning-spare-time-study"
+    },
+    {
+      "id": "location",
+      "name": "勉強する場所を変える",
+      "belief": "いつも同じ場所で勉強するべき",
+      "level": "b",
+      "text": "覚えた場所で思い出しやすい効果は実在しますが小さめで、場所を思い浮かべるだけでも差は縮みます。場所を変えた方が忘れにくかった実験もある一方、結果はそろっていません。",
+      "evidence": "meta",
+      "slug": "study-location-context-dependent-memory"
+    },
+    {
+      "id": "goals",
+      "name": "高い目標を小さな区切りに分け、進み具合を記録する",
+      "belief": "目標は気持ちを高く持てばいい",
+      "level": "a",
+      "text": "具体的で高い目標は成果を高めます。遠い目標だけでは差が出ず、毎回届く小さな区切りと、進み具合の記録が達成を助けました。",
+      "evidence": "meta",
+      "slug": "goal-setting-high-or-small-steps"
     }
   ]
 }
