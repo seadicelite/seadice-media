@@ -907,8 +907,8 @@
  },
  "todo-list-reduce-procrastination-research": {
   "file": "File:Project Tiger T-Shirt, Notepad and Pen.jpg",
-  "src": "/img/todo-list-reduce-procrastination-research.jpg",
-  "src640": "/img/todo-list-reduce-procrastination-research-sm.jpg",
+  "src": "/img/todo-list-reduce-procrastination-research.webp",
+  "src640": "/img/todo-list-reduce-procrastination-research-sm.webp",
   "w": 960,
   "h": 480,
   "alt": "Project Tiger T-Shirt, Notepad and Pen",
@@ -917,16 +917,15 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Project_Tiger_T-Shirt,_Notepad_and_Pen.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Project_Tiger_T-Shirt%2C_Notepad_and_Pen.jpg/960px-Project_Tiger_T-Shirt%2C_Notepad_and_Pen.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Project_Tiger_T-Shirt%2C_Notepad_and_Pen.jpg/500px-Project_Tiger_T-Shirt%2C_Notepad_and_Pen.jpg",
-  "og": "https://research.seadice.win/img/todo-list-reduce-procrastination-research.jpg",
+  "og": "https://research.seadice.win/img/todo-list-reduce-procrastination-research-og.jpg",
   "local": true
  },
  "positive-thinking-backfire-research": {
   "file": "File:Dülmen, Umland, Sonnenaufgang -- 2012 -- 8069.jpg",
-  "src": "/img/positive-thinking-backfire-research.jpg",
-  "src640": "/img/positive-thinking-backfire-research-sm.jpg",
+  "src": "/img/positive-thinking-backfire-research.webp",
+  "src640": "/img/positive-thinking-backfire-research-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "Sunrise in morning mist near Dülmen (Hülstener Straße), North Rhine-Westphalia, Germany",
@@ -935,10 +934,9 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Umland,_Sonnenaufgang_--_2012_--_8069.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/D%C3%BClmen%2C_Umland%2C_Sonnenaufgang_--_2012_--_8069.jpg/960px-D%C3%BClmen%2C_Umland%2C_Sonnenaufgang_--_2012_--_8069.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/D%C3%BClmen%2C_Umland%2C_Sonnenaufgang_--_2012_--_8069.jpg/500px-D%C3%BClmen%2C_Umland%2C_Sonnenaufgang_--_2012_--_8069.jpg",
-  "og": "https://research.seadice.win/img/positive-thinking-backfire-research.jpg",
+  "og": "https://research.seadice.win/img/positive-thinking-backfire-research-og.jpg",
   "local": true
  }
 }
