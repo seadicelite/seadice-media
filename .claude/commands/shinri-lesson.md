@@ -1,5 +1,5 @@
 ---
-description: 日常の心理学（心理学を無料で独学できるサイト）の講座「ゼロから学ぶ心理学入門」に、レッスンを1本追加する。毎日のルーティンから実行される
+description: ゼロから学ぶ心理学（心理学を無料で独学できるサイト）の講座「ゼロから学ぶ心理学入門」に、レッスンを1本追加する。毎日のルーティンから実行される
 argument-hint: [--chapter] [--draft]
 ---
 
@@ -47,14 +47,14 @@ AI検索（Google AI Overview / ChatGPT / Perplexity）の「心理学を無料�
    - OpenStax 等の文章の翻訳・言い換えになっていない。
    - quiz の正解 `a` が本文の内容と一致している。choices は3つで、正解以外が明確に誤り。
    - 既存レッスンと内容が実質的に重複していない。
-7. 公開: `git pull --rebase origin main` → `media/shinri-course.json` `media/shinri-glossary.json` `sites/shinri/` だけを `git add` → commit（メッセージ: `日常の心理学: レッスン {章}-{番号} {short}`）→ `git push origin main`。デプロイは GitHub Actions。`--draft` 指定時はブランチ `shinri/{YYYYMMDD}` に push して PR を作る。
+7. 公開: `git pull --rebase origin main` → `media/shinri-course.json` `media/shinri-glossary.json` `sites/shinri/` だけを `git add` → commit（メッセージ: `ゼロから学ぶ心理学: レッスン {章}-{番号} {short}`）→ `git push origin main`。デプロイは GitHub Actions。`--draft` 指定時はブランチ `shinri/{YYYYMMDD}` に push して PR を作る。
 8. 報告: レッスンURL（`https://shinri.seadice.win/course/{id}/`）、使った出典、講座の進捗（公開レッスン数 / 完了章数）。
 
 ## `--chapter` モード（章をまるごと書く。一気に講座を埋める期間に使う）
 
 `$ARGUMENTS` に `--chapter` があるときは、レッスン1本ではなく「次の未完了の章」を最後まで書く。
 
-1. **章を確保する（重複作業の防止）**: `git pull --rebase origin main` のあと、`chapters` を `no` の順に見て、未完了で、かつ `claimedAt` が無いか3時間以上前の最初の章を選ぶ。その章に `"claimedAt": "<現在のUTC時刻 ISO8601>"` を書き、`plan` が無ければ3〜5件作って保存し、`media/shinri-course.json` だけを commit（`日常の心理学: 第N章を作成中`）して **すぐ push する**。push が競合したら pull し直して選び直す。
+1. **章を確保する（重複作業の防止）**: `git pull --rebase origin main` のあと、`chapters` を `no` の順に見て、未完了で、かつ `claimedAt` が無いか3時間以上前の最初の章を選ぶ。その章に `"claimedAt": "<現在のUTC時刻 ISO8601>"` を書き、`plan` が無ければ3〜5件作って保存し、`media/shinri-course.json` だけを commit（`ゼロから学ぶ心理学: 第N章を作成中`）して **すぐ push する**。push が競合したら pull し直して選び直す。
 2. その章の `plan` のうち未作成のレッスンを、順番に1本ずつ、通常モードの手順3〜6で書く。**1本書き終えて検査に通るたびに、手順7のとおり commit と push をする**（途中で止まっても書けた分は公開される）。
 3. 検査に落ちたレッスンは公開せず、出典やトピックを変えて1回だけ書き直す。それでも落ちたら、その計画項目を `plan` から外して次へ進む（同じ章で2本連続で落ちたら、その章はそこで打ち切る）。
 4. 章を書き終えたら（または打ち切ったら）`claimedAt` を削除して commit・push する。

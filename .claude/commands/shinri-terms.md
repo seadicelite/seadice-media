@@ -1,5 +1,5 @@
 ---
-description: 日常の心理学の心理学用語辞典で、用語の個別ページ（〇〇とは）を作る・用語を増やす。ルーティンから実行される
+description: ゼロから学ぶ心理学の心理学用語辞典で、用語の個別ページ（〇〇とは）を作る・用語を増やす。ルーティンから実行される
 argument-hint: [件数 例: 10]
 ---
 
@@ -31,5 +31,5 @@ argument-hint: [件数 例: 10]
    - `sources`: 2件以上。原典（その概念を最初に報告した論文・著作）を必ず1件含め、残りは代表的なレビュー・メタ分析・学会・公的機関。DOI があれば `https://doi.org/...`。
 4. 出典は必ず開いて（Crossref `https://api.crossref.org/works/{doi}`、Europe PMC、出版社ページ等）、書いた年・人名・内容が出典と一致することを確認する。確認できない数値や主張は書かない。要旨が読めない論文は、タイトルと書誌情報で言える範囲だけに使う。教科書・まとめサイトの文章を写さない。絵文字、診断・治療の助言、断定（「必ず」）を書かない。
 5. `python3 media/shinri_pages.py --check` が `check ok` になるまで直し、`python3 media/shinri_pages.py` でビルドする。`sites/shinri/glossary/{id}/index.html` ができたことを確認する。
-6. `media/shinri-glossary.json` と `sites/shinri/` だけを commit（`日常の心理学: 用語ページ N件（{用語名, ...}）`）して `git push origin main`。検査に落ちた用語は、その用語の追加分だけ取り消してから commit する。
+6. `media/shinri-glossary.json` と `sites/shinri/` だけを commit（`ゼロから学ぶ心理学: 用語ページ N件（{用語名, ...}）`）して `git push origin main`。検査に落ちた用語は、その用語の追加分だけ取り消してから commit する。
 7. 報告: 作ったページのURL（`https://shinri.seadice.win/glossary/{id}/`）、残りの未作成数、用語の総数。

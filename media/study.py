@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """SEADICE STUDY 共通エンジン。1分野1サイトの無料学習サイト（siteType: course）を生成・検査する。
 最上位のルールは docs/study.md。デザイン・学習機能の修正はこのファイル1か所で行い、全サイトに反映する。
-記事エンジン(build.py / /media)の対象外。shinri（日常の心理学）は対象外で、shinri_pages.py が生成する。
+記事エンジン(build.py / /media)の対象外。shinri（ゼロから学ぶ心理学）は対象外で、shinri_pages.py が生成する。
 
 使い方:
   python3 media/study.py {slug}            sites/{slug}/ を生成（生成後チェックも実行）

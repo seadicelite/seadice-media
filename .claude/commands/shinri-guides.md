@@ -1,5 +1,5 @@
 ---
-description: 日常の心理学に「心理学の独学Q&A」「分野別の入門」ページを書く。ルーティンから実行される
+description: ゼロから学ぶ心理学に「心理学の独学Q&A」「分野別の入門」ページを書く。ルーティンから実行される
 argument-hint: [件数 例: 4]
 ---
 
@@ -52,5 +52,5 @@ argument-hint: [件数 例: 4]
 3. 出典: 上の「出典の確認方法」に従い、PMC で全文を読める代表的なレビュー論文を中心にする。日本の制度の説明は書かない（必要なら「詳しくは公式サイトで」と案内するだけにする）。必ず開いて、書く内容（年・制度・人名・定義）が書かれていることを確認する。確認できないことは書かない。他サイトの文章を写さない。
 4. 制度は変わることがあるので、資格の受験資格・ルートは「〇〇によると（2026年時点）」と出典を示し、細かい条件は公式ページへ誘導する。特定の資格・講座・書籍の宣伝や、有料サービスへの誘導はしない。
 5. `python3 media/shinri_pages.py --check` が `check ok` になるまで直し、`python3 media/shinri_pages.py` でビルドする。
-6. `media/shinri-guides.json` と `sites/shinri/` だけを commit（`日常の心理学: ガイド N件（{id, ...}）`）して `git push origin main`。
+6. `media/shinri-guides.json` と `sites/shinri/` だけを commit（`ゼロから学ぶ心理学: ガイド N件（{id, ...}）`）して `git push origin main`。
 7. 報告: 作ったページのURL（`https://shinri.seadice.win/guide/{id}/`）、残り件数。

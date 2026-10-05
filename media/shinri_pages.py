@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""日常の心理学（心理学を無料で独学できるサイト）を丸ごと生成する。記事エンジン(build.py / /media)の対象外。
+"""ゼロから学ぶ心理学（心理学を無料で独学できるサイト）を丸ごと生成する。記事エンジン(build.py / /media)の対象外。
 使い方: python3 media/shinri_pages.py
  - 講座のレッスンは media/shinri-course.json の chapters[].lessons に1件足す（HTMLを手で編集しない）。
  - 用語は media/shinri-glossary.json に1件足す。slug は姉妹メディア(umbra / ledger)の記事slug。

@@ -183,7 +183,7 @@ def patch_article(cfg, p, posts, images, favicon=""):
     s = re.sub(r'font-size:1[01](?:\.\d+)?px', 'font-size:12px', s)
     if "a:focus-visible" not in s:
         s = s.replace("footer{border-top", "a:focus-visible,summary:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}" + "footer{border-top", 1)
-    # --- 独学サイト「日常の心理学」への送客（用語辞典に対応する用語がある記事だけ。media/shinri.json の live が true のときだけ出す）
+    # --- 独学サイト「ゼロから学ぶ心理学」への送客（用語辞典に対応する用語がある記事だけ。media/shinri.json の live が true のときだけ出す）
     blk = shinri_block(p["slug"])
     if "<!--shinri-->" in s:
         s = re.sub(r"<!--shinri-->.*?<!--/shinri-->", lambda m: blk, s, flags=re.S)
