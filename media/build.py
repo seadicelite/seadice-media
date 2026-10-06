@@ -198,6 +198,14 @@ def build(slug, preview=None):
     n, pages = seo.apply(cfg, posts, images, favicon_tag(name, theme))
     import extras  # まとめページ・用語集・固定ページ・照合済み表示(設定ファイルがあるメディアだけ)
     xn, xb = extras.apply(cfg, posts, cats, images, types, theme, favicon_tag(name, theme), CSS % theme, card)
+    import apps  # 公開済みアプリへの送客カードと、アプリから飛んでくる先の /apps/{id}/ (設定に apps があるメディアだけ)
+    an, aurls = apps.apply(cfg, posts, cats, images, types, theme, favicon_tag(name, theme), CSS % theme, card)
+    add3 = "".join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{latest_date}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.6</priority>\n  </url>\n'
+                   for u in aurls if f"<loc>{u}</loc>" not in sm.read_text())
+    if add3:
+        sm.write_text(sm.read_text().replace("</urlset>", add3 + "</urlset>"))
+    if an:
+        print(f"app cards: {an} articles, {len(aurls)} app pages")
     print(f"built {cfg['path']}index.html ({len(posts)} posts), seo-patched {n} articles, {len(pages)} trust pages, {len(cat_urls)} category hubs"
           + (f", {xn} extra pages, {xb} verified badges" if xn or xb else ""))
 

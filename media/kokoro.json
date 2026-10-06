@@ -76,7 +76,7 @@
   ],
   "template": ".claude/commands/kokoro-template.html",
   "rulesFrom": ".claude/commands/kokoro.md",
-  "relatedApps": "立ち上げ期はアプリ送客なし。関連アプリ欄は入れない",
+  "relatedApps": "送客するアプリは apps 配列に登録済みのものだけ。新しい記事がアプリのテーマ(apps[].theme)に合うときは、posts.json の記事に \"app\": \"{id}\" を付け、「今日からできること」など行動の段落の直後に1行だけアプリへの一文リンク(https://apps.apple.com/app/id{appStoreId}?ct=kokoro)を入れる。末尾のアプリカードは build.py が自動で入れるので本文に書かない。1記事1アプリまで。テーマに合わない記事には付けない",
   "postsPerRun": 1,
   "topicQueue": [
     "学び直しが続かない。大人の学習と自己調整の研究",
@@ -251,6 +251,32 @@
     {
       "label": "用語集",
       "path": "/glossary/"
+    }
+  ],
+  "apps": [
+    {
+      "id": "notify-mindfulness",
+      "name": "通知deマインドフルネス",
+      "appStoreId": "6799487711",
+      "icon": "/img/apps/notify-mindfulness.webp",
+      "catch": "1日数回、ランダムな時刻に「今、深呼吸してみましょう」と届く。開かなくても続く深呼吸の習慣に",
+      "hubLead": "深呼吸の通知が届いたときに読みたい、休み方・切り替え方・不安との付き合い方の記事です。",
+      "theme": "休み方・小休止・気持ちの切り替え・不安や疲れを一息で落ち着かせる話。通知を減らす・スマホから離れる話には付けない(アプリが通知を使うため矛盾する)",
+      "articles": [
+        "rest-guilt",
+        "lunch-at-desk",
+        "screen-work-breaks",
+        "weekend-work-thoughts",
+        "video-meeting-fatigue",
+        "workplace-ai-rollout-stress",
+        "ai-job-loss-anxiety",
+        "ai-cant-keep-up",
+        "information-overload-tired",
+        "bad-news-scrolling",
+        "comparison-self-criticism",
+        "meeting-replay-regret",
+        "walking-mood"
+      ]
     }
   ]
 }
