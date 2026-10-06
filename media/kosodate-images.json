@@ -934,5 +934,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg/500px-Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg",
   "og": "https://kosodate.seadice.win/img/ai-chatbot-worry-consultation-safety.jpg",
   "local": true
+ },
+ "ai-sexual-violent-content-filter-age-limit": {
+  "file": "File:A hand is pressing keys on a laptop keyboard.jpg",
+  "src": "/img/ai-sexual-violent-content-filter-age-limit.jpg",
+  "src640": "/img/ai-sexual-violent-content-filter-age-limit-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "A hand is pressing keys on a laptop keyboard. The sleek device is positioned on a wooden desk, suggesting a focused work or study environmen",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_hand_is_pressing_keys_on_a_laptop_keyboard.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_hand_is_pressing_keys_on_a_laptop_keyboard.jpg/960px-A_hand_is_pressing_keys_on_a_laptop_keyboard.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_hand_is_pressing_keys_on_a_laptop_keyboard.jpg/500px-A_hand_is_pressing_keys_on_a_laptop_keyboard.jpg",
+  "og": "https://kosodate.seadice.win/img/ai-sexual-violent-content-filter-age-limit.jpg",
+  "local": true
  }
 }

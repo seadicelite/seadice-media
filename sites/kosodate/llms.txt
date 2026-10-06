@@ -91,6 +91,7 @@
 
 - [子どもがAIチャットで何を話しているか知っていますか？研究でわかった使われ方とリスク](https://kosodate.seadice.win/ai-chatbot-conversations-children-risk/): 子どものAIチャット利用は宿題中心ですが、年齢が低いほど暴力的・性的な内容も一定割合あるとわかりました。
 - [子どもがAIに悩みを相談している。安全？人に相談するのとの違い](https://kosodate.seadice.win/ai-chatbot-worry-consultation-safety/): 米国の12〜21歳の約5人に1人がAIに心の相談をし、6割強は誰にも話していませんでした。危機の場面でのAIの弱さと、家庭でできることを整理します。
+- [AIの性的・暴力的な返答から子どもを守るには？フィルターと年齢制限だけでは防げない理由](https://kosodate.seadice.win/ai-sexual-violent-content-filter-age-limit/): AIとの性的なやりとりは12歳未満ほど多く、年齢確認は人気AIの25個中9個だけ。フィルターの効果も小さかった。設定に加えて親子で話せる関係が守りの中心になります。
 - [AI搭載の知育おもちゃ・スピーカーが子どもの声を録音している。プライバシーのリスクは？](https://kosodate.seadice.win/ai-smart-toy-voice-privacy/): 調査したスマートトイ11製品すべてが個人情報を収集しており、9製品は第三者とデータを共有していました。
 - [子どものサイバーいじめ、親はどう気づく？サインと家庭でできる対策](https://kosodate.seadice.win/cyberbullying-children-parent-awareness/): SNSやゲームのチャットでのトラブルは親から見えにくいもの。気づく手がかりと家庭でできる対策を研究データで紹介します。
 - [子どもの見守りアプリ、位置情報の共有で信頼関係は壊れる？](https://kosodate.seadice.win/location-tracking-app-trust/): 米国などの調査では3〜7割の家庭が利用。信頼している相手との限定的な共有は受け入れられやすいとわかっています。
