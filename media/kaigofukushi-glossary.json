@@ -50,14 +50,18 @@
   "term": "パート合格",
   "en": "Partial pass by part",
   "field": "基本",
-  "def": "パート合格とは、介護福祉士国家試験の筆記試験をパートA・B・Cに分け、全体で不合格でも基準を満たしたパートを合格とするしくみのことで、第39回（令和8年度）試験から適用され、合格したパートは翌々年の試験まで有効です。",
+  "def": "パート合格とは、介護福祉士国家試験の筆記試験をパートA・B・Cに分け、全体で不合格でも合格基準を満たしたパートを合格とするしくみのことで、合格したパートは翌々年の試験まで受験が免除されます。",
   "sources": [
    {
     "text": "社会福祉振興・試験センター「合格基準」",
     "url": "https://www.sssc.or.jp/kaigo/kijun/kijun_02.html"
+   },
+   {
+    "text": "社会福祉振興・試験センター「令和8年度第39回介護福祉士国家試験」",
+    "url": "https://www.sssc.or.jp/kaigo/tetsuzuki.html"
    }
   ],
-  "date": "2026-10-05"
+  "date": "2026-10-06"
  },
  {
   "id": "jitsumu-route",
@@ -532,5 +536,97 @@
    }
   ],
   "date": "2026-10-05"
+ },
+ {
+  "id": "kaigofukushishi-touroku",
+  "term": "介護福祉士登録",
+  "en": "Certified care worker registration",
+  "field": "基本",
+  "def": "介護福祉士登録とは、介護福祉士となる資格を持つ人が介護福祉士登録簿に氏名や生年月日などの登録を受けることで、登録を受けてはじめて介護福祉士になります（社会福祉士及び介護福祉士法第42条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会福祉士及び介護福祉士法」",
+    "url": "https://laws.e-gov.go.jp/law/362AC0000000030"
+   },
+   {
+    "text": "社会福祉振興・試験センター「介護福祉士国家試験 資格制度の概要」",
+    "url": "https://www.sssc.or.jp/kaigo/shikaku/index.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "gyomu-dokusen",
+  "term": "業務独占",
+  "en": "Exclusive right to practice",
+  "field": "基本",
+  "def": "業務独占とは、資格を持たない人がその仕事をすること自体を法律で禁じるしくみのことで、医師の医業が代表例であり、介護福祉士は業務独占ではなく名称独占の資格です（医師法第17条、社会福祉士及び介護福祉士法第48条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「医師法」",
+    "url": "https://laws.e-gov.go.jp/law/323AC0000000201"
+   },
+   {
+    "text": "e-Gov法令検索「社会福祉士及び介護福祉士法」",
+    "url": "https://laws.e-gov.go.jp/law/362AC0000000030"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "juji-nissu",
+  "term": "従事日数",
+  "en": "Days engaged in care work",
+  "field": "基本",
+  "def": "従事日数とは、実務経験ルートの受験資格で数える、雇用契約にもとづき実際に介護等の業務に従事した日数のことで、休暇や欠勤などの日は除き、540日以上が必要です。",
+  "sources": [
+   {
+    "text": "社会福祉振興・試験センター「実務経験＋実務者研修」",
+    "url": "https://www.sssc.or.jp/kaigo/shikaku/k_08.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "goukaku-kijunten",
+  "term": "合格基準点",
+  "en": "Passing score",
+  "field": "基本",
+  "def": "合格基準点とは、介護福祉士国家試験で、問題の総得点の60％程度を基準として問題の難易度で補正した点数のことです。",
+  "sources": [
+   {
+    "text": "社会福祉振興・試験センター「介護福祉士国家試験 合格基準」",
+    "url": "https://www.sssc.or.jp/kaigo/kijun/kijun_02.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "renshu-test",
+  "term": "練習テスト（想起練習）",
+  "en": "Practice testing",
+  "field": "基本",
+  "def": "練習テスト（想起練習）とは、本文を見ずに問題に答えて覚えたことを思い出す学習法のことで、2013年のダンロスキーらの研究整理で効果の高い方法と評価されました。",
+  "sources": [
+   {
+    "text": "Dunlosky, J. et al. (2013). Psychological Science in the Public Interest, 14(1), 4-58.",
+    "url": "https://doi.org/10.1177/1529100612453266"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "bunsan-gakushu",
+  "term": "分散学習",
+  "en": "Distributed practice",
+  "field": "基本",
+  "def": "分散学習とは、同じ内容を一度にまとめて学ばず、日をあけて何度か学ぶ方法のことで、2013年のダンロスキーらの研究整理で効果の高い方法と評価されました。",
+  "sources": [
+   {
+    "text": "Dunlosky, J. et al. (2013). Psychological Science in the Public Interest, 14(1), 4-58.",
+    "url": "https://doi.org/10.1177/1529100612453266"
+   }
+  ],
+  "date": "2026-10-06"
  }
 ]
