@@ -1,217 +1,216 @@
 {
-  "enabled": true,
-  "publish": "auto",
-  "slug": "bohan",
-  "siteType": "article",
-  "name": "防犯",
-  "path": "sites/bohan/",
-  "url": "https://bohan.seadice.win/",
-  "concept": "空き巣・つきまとい・子どもの安全などの身近な犯罪について、犯罪者がどう考え、どう動くかを犯罪心理学・環境犯罪学の研究と警察庁等の公的統計から示し、その裏返しとして読者がお金をかけずに今日からできる対策を中心に伝える。防犯グッズや商品は一切紹介しない",
-  "reader": "一人暮らし・子育て中・留守がちな家庭など、身近な犯罪が不安で検索してきた一般の人",
-  "tone": "落ち着いた・怖がらせない・煽らない。被害者を責めない。断定より『研究・統計ではこうだった』。商品購入を勧めない",
-  "tagline": "Think like a burglar. 犯罪者の目線で、暮らしを守る。",
-  "lead": "空き巣、夜道、子どもの安全、一人暮らし、そしてAI時代の新しい詐欺。身近な犯罪への不安を、犯罪学の研究と公的な統計から検証し、お金をかけずに今日からできる形にします。防犯グッズの紹介はしません。",
-  "titleSuffix": "身近な犯罪を研究と統計で読み解く、何も売らない防犯メディア",
-  "description": "空き巣・つきまとい・子どもの安全・自転車盗難、AIを使ったなりすまし詐欺まで。身近な犯罪から暮らしを守る方法を、犯罪学の研究と警察庁などの公的統計から検証するAIリサーチメディア。防犯グッズの販売・紹介は一切しません。出典つき。",
-  "about": "記事はAIが公開された研究論文や警察庁などの公的機関の資料を調べ、出典の内容を確認して作成しています。防犯グッズ・サービスの販売や紹介、アフィリエイトは一切行っていません。身の危険を感じたときは迷わず110番、緊急でない相談は警察相談専用電話 #9110 へ。",
-  "theme": {
-    "bg": "#0A0D12",
-    "card": "#121822",
-    "accent": "#F2B33D",
-    "accent2": "#5DA9E9",
-    "border": "#232B38",
-    "text": "#ECEFF3",
-    "muted": "#8D9AAD",
-    "link": "#8EC5F2"
+ "enabled": true,
+ "publish": "auto",
+ "slug": "bohan",
+ "siteType": "article",
+ "name": "防犯",
+ "path": "sites/bohan/",
+ "url": "https://bohan.seadice.win/",
+ "concept": "空き巣・つきまとい・子どもの安全などの身近な犯罪について、犯罪者がどう考え、どう動くかを犯罪心理学・環境犯罪学の研究と警察庁等の公的統計から示し、その裏返しとして読者がお金をかけずに今日からできる対策を中心に伝える。防犯グッズや商品は一切紹介しない",
+ "reader": "一人暮らし・子育て中・留守がちな家庭など、身近な犯罪が不安で検索してきた一般の人",
+ "tone": "落ち着いた・怖がらせない・煽らない。被害者を責めない。断定より『研究・統計ではこうだった』。商品購入を勧めない",
+ "tagline": "Think like a burglar. 犯罪者の目線で、暮らしを守る。",
+ "lead": "空き巣、夜道、子どもの安全、一人暮らし、そしてAI時代の新しい詐欺。身近な犯罪への不安を、犯罪学の研究と公的な統計から検証し、お金をかけずに今日からできる形にします。防犯グッズの紹介はしません。",
+ "titleSuffix": "身近な犯罪を研究と統計で読み解く、何も売らない防犯メディア",
+ "description": "空き巣・つきまとい・子どもの安全・自転車盗難、AIを使ったなりすまし詐欺まで。身近な犯罪から暮らしを守る方法を、犯罪学の研究と警察庁などの公的統計から検証するAIリサーチメディア。防犯グッズの販売・紹介は一切しません。出典つき。",
+ "about": "記事はAIが公開された研究論文や警察庁などの公的機関の資料を調べ、出典の内容を確認して作成しています。防犯グッズ・サービスの販売や紹介、アフィリエイトは一切行っていません。身の危険を感じたときは迷わず110番、緊急でない相談は警察相談専用電話 #9110 へ。",
+ "theme": {
+  "bg": "#0A0D12",
+  "card": "#121822",
+  "accent": "#F2B33D",
+  "accent2": "#5DA9E9",
+  "border": "#232B38",
+  "text": "#ECEFF3",
+  "muted": "#8D9AAD",
+  "link": "#8EC5F2"
+ },
+ "categories": [
+  {
+   "name": "空き巣・侵入窃盗",
+   "id": "burglary",
+   "color": "#F2B33D",
+   "icon": "shield",
+   "desc": "空き巣はどんな家を選ぶのか。侵入の手口と、嫌がる家の条件を研究と統計で見る"
   },
-  "categories": [
-    {
-      "name": "空き巣・侵入窃盗",
-      "id": "burglary",
-      "color": "#F2B33D",
-      "icon": "shield",
-      "desc": "空き巣はどんな家を選ぶのか。侵入の手口と、嫌がる家の条件を研究と統計で見る"
-    },
-    {
-      "name": "夜道・つきまとい",
-      "id": "street",
-      "color": "#8B7FD1",
-      "icon": "moon",
-      "desc": "夜道のひったくり・つきまといを避ける行動を研究から検証"
-    },
-    {
-      "name": "子どもの安全",
-      "id": "children",
-      "color": "#4CAF82",
-      "icon": "heart",
-      "desc": "通学路・声かけ事案など、子どもを犯罪から守る工夫"
-    },
-    {
-      "name": "一人暮らしの防犯",
-      "id": "living-alone",
-      "color": "#5DA9E9",
-      "icon": "dot",
-      "desc": "一人暮らしの住まい選びと、日常の小さな防犯習慣"
-    },
-    {
-      "name": "自転車・車の盗難",
-      "id": "vehicle",
-      "color": "#E0764F",
-      "icon": "link",
-      "desc": "盗まれやすい条件と、お金をかけない対策"
-    },
-    {
-      "name": "防犯の心理学",
-      "id": "psychology",
-      "color": "#5FB8C9",
-      "icon": "eye",
-      "desc": "割れ窓理論・監視の目など、犯罪が起きにくい環境の研究"
-    },
-    {
-      "name": "AI時代の防犯",
-      "id": "ai-era",
-      "color": "#D96BA0",
-      "icon": "link",
-      "desc": "AIの声のなりすまし詐欺、ディープフェイク、SNSの写真から住所が分かるなど、AIとネットが変えた身近な犯罪への備え"
-    }
-  ],
-  "types": [
-    {
-      "id": "guide",
-      "label": "深掘り"
-    }
-  ],
-  "template": ".claude/commands/bohan-template.html",
-  "rulesFrom": ".claude/commands/bohan.md",
-  "relatedApps": "立ち上げ期はアプリ送客なし（メディアが育ってから作る方針）。関連アプリ欄は入れない",
-  "postsPerRun": 1,
-  "topicQueue": [
-    "AIチャットに入力してはいけない情報。個人情報・写真・仕事の資料が漏れる仕組み",
-    "見守りカメラやスマートスピーカーは乗っ取られるのか。家のIoT機器の初期設定と対策",
-    "AIの恋人がお金を求めてくる。チャットボットで自動化されたロマンス詐欺の見分け方",
-    "AIの顔認識カメラは犯罪を減らすのか。導入した街の研究と、誤認のリスク",
-    "空き巣は昼と夜どちらが多いのか。時間帯と侵入の研究",
-    "夏に増える窓の無施錠。季節と侵入窃盗",
-    "駐輪場・駐車場の防犯設計。明るさと見通しの研究",
-    "AIチャットボットを装う詐欺アプリ。偽の公式アプリの見分け方",
-    "子どものオンラインゲームでの課金トラブルと、知らない人とのやり取り",
-    "ネット上に残る個人情報。名前で検索されると何がわかるのか",
-    "置き配の盗難は増えているのか。受け取り方の工夫",
-    "通学路の「こども110番の家」は役に立っているのか",
-    "夜の帰り道でスマホを見ながら歩くリスク。注意がそれると何が起きるか",
-    "詐欺の電話を受けたとき、人はなぜ「自分は大丈夫」と思うのか",
-    "防犯カメラのダミーに効果はあるのか",
-    "ペットや趣味の投稿から個人が特定される。SNSのプロフィール設定"
-  ],
-  "layout": "magazine",
-  "trust": [
-    [
-      "何も売りません",
-      "防犯グッズの販売・紹介、アフィリエイト、広告は一切ありません。"
-    ],
-    [
-      "研究と公的統計が根拠",
-      "犯罪学の研究と警察庁などの統計を、AIが原典と照合して書いています。"
-    ],
-    [
-      "緊急時は110番",
-      "身の危険を感じたら110番。緊急でない相談は警察相談専用電話 #9110 へ。"
-    ]
-  ],
-  "pageSections": {
-    "about": [
-      [
-        "運営",
-        [
-          "{name} は、アプリスタジオ SEADICE（シーダイス）が運営するメディアです。",
-          "{concept_short}"
-        ]
-      ],
-      [
-        "記事の作り方",
-        [
-          "記事は、AI（Claude）が公開されている研究論文や、警察庁など公的機関の統計・資料を調べ、内容を確認して整理し、作成しています。SEADICE が独自に実験や調査をしたものではありません。",
-          "AI が作成した記事は、公開前に、出典の照合など決められた検査を通ったものだけを掲載します。検査を通らなかった記事は公開しません。"
-        ]
-      ],
-      [
-        "編集方針",
-        [
-          "記事の軸は「犯罪者がどう考え、どう動くか」と「読者がお金をかけずに今日からできること」です。",
-          "確認できた出典だけを書きます。確認できなかった数値や主張は書きません。研究の対象や限界を、できるだけ添えて紹介します。"
-        ]
-      ],
-      [
-        "何も売りません",
-        [
-          "このメディアは、防犯グッズやサービスの販売・紹介、アフィリエイトを一切行いません。広告も掲載しません。"
-        ]
-      ],
-      [
-        "お問い合わせ",
-        [
-          "記事の誤りのご指摘や、ご意見は <a href=\"mailto:hi@seadice.win\">hi@seadice.win</a> までご連絡ください。"
-        ]
-      ]
-    ],
-    "sources": [
-      [
-        "使う出典",
-        [
-          "査読のある学術論文（犯罪学・環境犯罪学など）、メタ分析・システマティックレビュー、警察庁・法務省などの公的統計や、大学・公的機関の資料を使います。防犯関連の業者や業界団体による調査は出典にしません。",
-          "各記事の末尾に、著者、発行年、タイトル、掲載誌、リンクを載せています。"
-        ]
-      ],
-      [
-        "検証の方法",
-        [
-          "1. 論文の原典（要旨や本文）や公的資料を開き、記事に書く数値と主張が、原典に書かれていることを1件ずつ照合します。",
-          "2. 原典が開けない場合は、別の信頼できる情報源で確認できた内容だけを使います。",
-          "3. 確認できなかった数値や主張は、記事から削除します。"
-        ]
-      ],
-      [
-        "写真",
-        [
-          "記事の写真は、Wikimedia Commons の、自由に利用できるライセンス（パブリックドメイン、CC0、CC BY、CC BY-SA）の素材を使い、撮影者とライセンスを各記事に表示しています。"
-        ]
-      ],
-      [
-        "訂正について",
-        [
-          "誤りがあれば、確認のうえ修正し、記事の日付を更新します。ご指摘は hi@seadice.win までお願いします。"
-        ]
-      ]
-    ],
-    "disclaimer": [
-      [
-        "情報の性質",
-        [
-          "{name}の記事は、公開された研究と統計をもとにした一般的な防犯の情報であり、警察や専門家による個別の助言の代わりになるものではありません。",
-          "研究の結果は、対象となった集団や地域についての傾向であり、すべての人や場所に当てはまるとは限りません。"
-        ]
-      ],
-      [
-        "緊急時と相談先",
-        [
-          "身の危険を感じたとき、事件・事故が起きたときは、迷わず110番に通報してください。つきまといなど緊急ではない相談は、警察相談専用電話（#9110）や最寄りの警察署に相談できます。"
-        ]
-      ],
-      [
-        "特定の人物・地域について",
-        [
-          "記事の内容を使って、特定の人物や地域を犯罪と結びつけたり、決めつけたりすることは、お勧めしません。"
-        ]
-      ],
-      [
-        "責任の範囲",
-        [
-          "記事の内容には、正確を期していますが、その完全性や、特定の目的への適合性を保証するものではありません。記事を参考にした行動の結果について、当メディアは責任を負いません。"
-        ]
-      ]
-    ]
+  {
+   "name": "夜道・つきまとい",
+   "id": "street",
+   "color": "#8B7FD1",
+   "icon": "moon",
+   "desc": "夜道のひったくり・つきまといを避ける行動を研究から検証"
   },
-  "mastheadHtml": "<div class=\"bh-mast\"><div class=\"bh-tape\" aria-hidden=\"true\"></div><div class=\"bh-main\"><div><p class=\"bh-kick\">Think like a burglar</p><h1>防犯</h1><p class=\"bh-tag\">犯罪者の目線で、暮らしを守る。</p><p class=\"bh-lead\">%LEAD%</p></div><ul class=\"bh-badges\" aria-label=\"このメディアの約束\"><li>NO SALES</li><li>NO ADS</li><li>NO AFFILIATE</li></ul></div><dl class=\"bh-meta\"><div><dt>ARTICLES</dt><dd>%POSTS%</dd></div><div><dt>CATEGORIES</dt><dd>%CATS%</dd></div><div><dt>EMERGENCY</dt><dd>110</dd></div><div><dt>CONSULT</dt><dd>#9110</dd></div></dl></div>",
-  "extraCss": "body{background-image:linear-gradient(rgba(93,169,233,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(93,169,233,.045) 1px,transparent 1px);background-size:28px 28px} .nav-logo{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:var(--muted);color:var(--muted)} nav.top a.r{font-weight:900;font-size:16px;color:#0A0D12;background:#F2B33D;padding:3px 12px;border-radius:2px;letter-spacing:.2em} .bh-mast{margin:0 0 36px;border:1px solid var(--border);background:linear-gradient(180deg,rgba(242,179,61,.06),transparent 60%),var(--card);position:relative} .bh-tape{height:16px;background:repeating-linear-gradient(-45deg,#F2B33D 0 14px,#0A0D12 14px 28px)} .bh-main{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;padding:30px 28px 26px} .bh-kick{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;font-size:12px;letter-spacing:.34em;text-transform:uppercase;color:#F2B33D} .bh-mast h1{font-size:clamp(72px,17vw,150px);font-weight:900;line-height:1;letter-spacing:.02em;margin:10px 0 6px;background:none;-webkit-text-fill-color:var(--text);color:var(--text);text-shadow:6px 6px 0 rgba(242,179,61,.18)} .bh-tag{font-size:18px;font-weight:800;color:var(--text)} .bh-lead{font-size:14.5px;color:var(--muted);margin-top:10px;max-width:560px;line-height:1.85} .bh-badges{list-style:none;display:flex;flex-direction:column;gap:8px} .bh-badges li{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;font-size:13px;font-weight:700;letter-spacing:.2em;color:#F2B33D;border:2px solid #F2B33D;padding:6px 14px;text-align:center;position:relative} .bh-badges li::before{content:\"\";position:absolute;left:8px;right:8px;top:50%;height:2px;background:#F2B33D;transform:rotate(-12deg);opacity:.0} .bh-meta{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--border)} .bh-meta div{padding:12px 20px;border-left:1px solid var(--border)}.bh-meta div:first-child{border-left:none} .bh-meta dt{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;font-size:12px;letter-spacing:.2em;color:var(--muted)} .bh-meta dd{font-size:28px;font-weight:900;color:var(--text);line-height:1.3}.bh-meta div:nth-child(n+3) dd{color:#F2B33D} @media(max-width:700px){.bh-main{flex-direction:column;align-items:flex-start;padding:24px 18px}.bh-badges{flex-direction:row;flex-wrap:wrap}.bh-meta{grid-template-columns:1fr 1fr}.bh-meta div:nth-child(3){border-left:none}.bh-meta div:nth-child(n+3){border-top:1px solid var(--border)}} h2.sec{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;font-size:12px;letter-spacing:.3em;color:#F2B33D;display:flex;align-items:center;gap:12px}h2.sec::after{content:\"\";flex:1;height:6px;background:repeating-linear-gradient(-45deg,#F2B33D 0 14px,#0A0D12 14px 28px);opacity:.55} .card,.feat,.mhero,.about,.faq details,.empty,.srow{border-radius:4px} .card{border-top:3px solid #F2B33D}.card .th img,.feat img{filter:saturate(.7) contrast(1.08)}.card:hover{border-color:#F2B33D} .tile{border-radius:4px;position:relative;overflow:hidden}.tile::after{content:\"\";position:absolute;left:0;right:0;top:0;height:6px;background:repeating-linear-gradient(-45deg,var(--c) 0 8px,transparent 8px 16px)} .tile b{font-weight:900}.tag{border-radius:2px;font-weight:700} .ticker .lb{background:repeating-linear-gradient(-45deg,#F2B33D 0 14px,#0A0D12 14px 28px);color:#0A0D12;font-weight:900;text-shadow:0 0 4px #F2B33D,0 0 2px #F2B33D} .sechead h2{font-weight:900}.trust div{border-left:4px solid #F2B33D;border-radius:2px} .rank li::marker{color:#F2B33D;font-weight:900}.two:has(.empty){grid-template-columns:1fr}.two section:has(.empty){display:none}",
-  "articleCss": "body{background-image:linear-gradient(rgba(93,169,233,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(93,169,233,.045) 1px,transparent 1px);background-size:28px 28px} nav a.r{font-weight:900;color:#0A0D12;background:#F2B33D;padding:3px 12px;border-radius:2px;letter-spacing:.2em} h1{font-weight:900;letter-spacing:.01em} .summary{border:1px solid var(--border);border-radius:4px;background:var(--card);position:relative;overflow:hidden;padding-top:34px} .summary::before{content:\"\";position:absolute;left:0;right:0;top:0;height:10px;background:repeating-linear-gradient(-45deg,#F2B33D 0 14px,#0A0D12 14px 28px)} .summary h2{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;letter-spacing:.2em} h2.sec .n{display:table;background:#F2B33D;color:#0A0D12;padding:3px 10px;font-weight:900;border-radius:2px;font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;letter-spacing:.14em;margin-bottom:10px} h2.sec .n::before{content:\"CHECK \"} .answer{background:rgba(242,179,61,.07);border-left:4px solid #F2B33D;padding:12px 14px;border-radius:0 6px 6px 0} .stat{border-top:4px solid #F2B33D;border-radius:3px}.study{border-radius:4px;border-left:3px solid #5DA9E9} .step{border-radius:4px;border-left:4px solid #F2B33D}.step .num{border-radius:4px;font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace} .ai-badge{border-radius:4px;border-style:dashed}.tag{border-radius:2px;font-weight:700}"
+  {
+   "name": "子どもの安全",
+   "id": "children",
+   "color": "#4CAF82",
+   "icon": "heart",
+   "desc": "通学路・声かけ事案など、子どもを犯罪から守る工夫"
+  },
+  {
+   "name": "一人暮らしの防犯",
+   "id": "living-alone",
+   "color": "#5DA9E9",
+   "icon": "dot",
+   "desc": "一人暮らしの住まい選びと、日常の小さな防犯習慣"
+  },
+  {
+   "name": "自転車・車の盗難",
+   "id": "vehicle",
+   "color": "#E0764F",
+   "icon": "link",
+   "desc": "盗まれやすい条件と、お金をかけない対策"
+  },
+  {
+   "name": "防犯の心理学",
+   "id": "psychology",
+   "color": "#5FB8C9",
+   "icon": "eye",
+   "desc": "割れ窓理論・監視の目など、犯罪が起きにくい環境の研究"
+  },
+  {
+   "name": "AI時代の防犯",
+   "id": "ai-era",
+   "color": "#D96BA0",
+   "icon": "link",
+   "desc": "AIの声のなりすまし詐欺、ディープフェイク、SNSの写真から住所が分かるなど、AIとネットが変えた身近な犯罪への備え"
+  }
+ ],
+ "types": [
+  {
+   "id": "guide",
+   "label": "深掘り"
+  }
+ ],
+ "template": ".claude/commands/bohan-template.html",
+ "rulesFrom": ".claude/commands/bohan.md",
+ "relatedApps": "立ち上げ期はアプリ送客なし（メディアが育ってから作る方針）。関連アプリ欄は入れない",
+ "postsPerRun": 1,
+ "topicQueue": [
+  "AIチャットに入力してはいけない情報。個人情報・写真・仕事の資料が漏れる仕組み",
+  "見守りカメラやスマートスピーカーは乗っ取られるのか。家のIoT機器の初期設定と対策",
+  "AIの恋人がお金を求めてくる。チャットボットで自動化されたロマンス詐欺の見分け方",
+  "AIの顔認識カメラは犯罪を減らすのか。導入した街の研究と、誤認のリスク",
+  "夏に増える窓の無施錠。季節と侵入窃盗",
+  "駐輪場・駐車場の防犯設計。明るさと見通しの研究",
+  "AIチャットボットを装う詐欺アプリ。偽の公式アプリの見分け方",
+  "子どものオンラインゲームでの課金トラブルと、知らない人とのやり取り",
+  "ネット上に残る個人情報。名前で検索されると何がわかるのか",
+  "置き配の盗難は増えているのか。受け取り方の工夫",
+  "通学路の「こども110番の家」は役に立っているのか",
+  "夜の帰り道でスマホを見ながら歩くリスク。注意がそれると何が起きるか",
+  "詐欺の電話を受けたとき、人はなぜ「自分は大丈夫」と思うのか",
+  "防犯カメラのダミーに効果はあるのか",
+  "ペットや趣味の投稿から個人が特定される。SNSのプロフィール設定"
+ ],
+ "layout": "magazine",
+ "trust": [
+  [
+   "何も売りません",
+   "防犯グッズの販売・紹介、アフィリエイト、広告は一切ありません。"
+  ],
+  [
+   "研究と公的統計が根拠",
+   "犯罪学の研究と警察庁などの統計を、AIが原典と照合して書いています。"
+  ],
+  [
+   "緊急時は110番",
+   "身の危険を感じたら110番。緊急でない相談は警察相談専用電話 #9110 へ。"
+  ]
+ ],
+ "pageSections": {
+  "about": [
+   [
+    "運営",
+    [
+     "{name} は、アプリスタジオ SEADICE（シーダイス）が運営するメディアです。",
+     "{concept_short}"
+    ]
+   ],
+   [
+    "記事の作り方",
+    [
+     "記事は、AI（Claude）が公開されている研究論文や、警察庁など公的機関の統計・資料を調べ、内容を確認して整理し、作成しています。SEADICE が独自に実験や調査をしたものではありません。",
+     "AI が作成した記事は、公開前に、出典の照合など決められた検査を通ったものだけを掲載します。検査を通らなかった記事は公開しません。"
+    ]
+   ],
+   [
+    "編集方針",
+    [
+     "記事の軸は「犯罪者がどう考え、どう動くか」と「読者がお金をかけずに今日からできること」です。",
+     "確認できた出典だけを書きます。確認できなかった数値や主張は書きません。研究の対象や限界を、できるだけ添えて紹介します。"
+    ]
+   ],
+   [
+    "何も売りません",
+    [
+     "このメディアは、防犯グッズやサービスの販売・紹介、アフィリエイトを一切行いません。広告も掲載しません。"
+    ]
+   ],
+   [
+    "お問い合わせ",
+    [
+     "記事の誤りのご指摘や、ご意見は <a href=\"mailto:hi@seadice.win\">hi@seadice.win</a> までご連絡ください。"
+    ]
+   ]
+  ],
+  "sources": [
+   [
+    "使う出典",
+    [
+     "査読のある学術論文（犯罪学・環境犯罪学など）、メタ分析・システマティックレビュー、警察庁・法務省などの公的統計や、大学・公的機関の資料を使います。防犯関連の業者や業界団体による調査は出典にしません。",
+     "各記事の末尾に、著者、発行年、タイトル、掲載誌、リンクを載せています。"
+    ]
+   ],
+   [
+    "検証の方法",
+    [
+     "1. 論文の原典（要旨や本文）や公的資料を開き、記事に書く数値と主張が、原典に書かれていることを1件ずつ照合します。",
+     "2. 原典が開けない場合は、別の信頼できる情報源で確認できた内容だけを使います。",
+     "3. 確認できなかった数値や主張は、記事から削除します。"
+    ]
+   ],
+   [
+    "写真",
+    [
+     "記事の写真は、Wikimedia Commons の、自由に利用できるライセンス（パブリックドメイン、CC0、CC BY、CC BY-SA）の素材を使い、撮影者とライセンスを各記事に表示しています。"
+    ]
+   ],
+   [
+    "訂正について",
+    [
+     "誤りがあれば、確認のうえ修正し、記事の日付を更新します。ご指摘は hi@seadice.win までお願いします。"
+    ]
+   ]
+  ],
+  "disclaimer": [
+   [
+    "情報の性質",
+    [
+     "{name}の記事は、公開された研究と統計をもとにした一般的な防犯の情報であり、警察や専門家による個別の助言の代わりになるものではありません。",
+     "研究の結果は、対象となった集団や地域についての傾向であり、すべての人や場所に当てはまるとは限りません。"
+    ]
+   ],
+   [
+    "緊急時と相談先",
+    [
+     "身の危険を感じたとき、事件・事故が起きたときは、迷わず110番に通報してください。つきまといなど緊急ではない相談は、警察相談専用電話（#9110）や最寄りの警察署に相談できます。"
+    ]
+   ],
+   [
+    "特定の人物・地域について",
+    [
+     "記事の内容を使って、特定の人物や地域を犯罪と結びつけたり、決めつけたりすることは、お勧めしません。"
+    ]
+   ],
+   [
+    "責任の範囲",
+    [
+     "記事の内容には、正確を期していますが、その完全性や、特定の目的への適合性を保証するものではありません。記事を参考にした行動の結果について、当メディアは責任を負いません。"
+    ]
+   ]
+  ]
+ },
+ "mastheadHtml": "<div class=\"bh-mast\"><div class=\"bh-tape\" aria-hidden=\"true\"></div><div class=\"bh-main\"><div><p class=\"bh-kick\">Think like a burglar</p><h1>防犯</h1><p class=\"bh-tag\">犯罪者の目線で、暮らしを守る。</p><p class=\"bh-lead\">%LEAD%</p></div><ul class=\"bh-badges\" aria-label=\"このメディアの約束\"><li>NO SALES</li><li>NO ADS</li><li>NO AFFILIATE</li></ul></div><dl class=\"bh-meta\"><div><dt>ARTICLES</dt><dd>%POSTS%</dd></div><div><dt>CATEGORIES</dt><dd>%CATS%</dd></div><div><dt>EMERGENCY</dt><dd>110</dd></div><div><dt>CONSULT</dt><dd>#9110</dd></div></dl></div>",
+ "extraCss": "body{background-image:linear-gradient(rgba(93,169,233,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(93,169,233,.045) 1px,transparent 1px);background-size:28px 28px} .nav-logo{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:var(--muted);color:var(--muted)} nav.top a.r{font-weight:900;font-size:16px;color:#0A0D12;background:#F2B33D;padding:3px 12px;border-radius:2px;letter-spacing:.2em} .bh-mast{margin:0 0 36px;border:1px solid var(--border);background:linear-gradient(180deg,rgba(242,179,61,.06),transparent 60%),var(--card);position:relative} .bh-tape{height:16px;background:repeating-linear-gradient(-45deg,#F2B33D 0 14px,#0A0D12 14px 28px)} .bh-main{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;padding:30px 28px 26px} .bh-kick{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;font-size:12px;letter-spacing:.34em;text-transform:uppercase;color:#F2B33D} .bh-mast h1{font-size:clamp(72px,17vw,150px);font-weight:900;line-height:1;letter-spacing:.02em;margin:10px 0 6px;background:none;-webkit-text-fill-color:var(--text);color:var(--text);text-shadow:6px 6px 0 rgba(242,179,61,.18)} .bh-tag{font-size:18px;font-weight:800;color:var(--text)} .bh-lead{font-size:14.5px;color:var(--muted);margin-top:10px;max-width:560px;line-height:1.85} .bh-badges{list-style:none;display:flex;flex-direction:column;gap:8px} .bh-badges li{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;font-size:13px;font-weight:700;letter-spacing:.2em;color:#F2B33D;border:2px solid #F2B33D;padding:6px 14px;text-align:center;position:relative} .bh-badges li::before{content:\"\";position:absolute;left:8px;right:8px;top:50%;height:2px;background:#F2B33D;transform:rotate(-12deg);opacity:.0} .bh-meta{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--border)} .bh-meta div{padding:12px 20px;border-left:1px solid var(--border)}.bh-meta div:first-child{border-left:none} .bh-meta dt{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;font-size:12px;letter-spacing:.2em;color:var(--muted)} .bh-meta dd{font-size:28px;font-weight:900;color:var(--text);line-height:1.3}.bh-meta div:nth-child(n+3) dd{color:#F2B33D} @media(max-width:700px){.bh-main{flex-direction:column;align-items:flex-start;padding:24px 18px}.bh-badges{flex-direction:row;flex-wrap:wrap}.bh-meta{grid-template-columns:1fr 1fr}.bh-meta div:nth-child(3){border-left:none}.bh-meta div:nth-child(n+3){border-top:1px solid var(--border)}} h2.sec{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;font-size:12px;letter-spacing:.3em;color:#F2B33D;display:flex;align-items:center;gap:12px}h2.sec::after{content:\"\";flex:1;height:6px;background:repeating-linear-gradient(-45deg,#F2B33D 0 14px,#0A0D12 14px 28px);opacity:.55} .card,.feat,.mhero,.about,.faq details,.empty,.srow{border-radius:4px} .card{border-top:3px solid #F2B33D}.card .th img,.feat img{filter:saturate(.7) contrast(1.08)}.card:hover{border-color:#F2B33D} .tile{border-radius:4px;position:relative;overflow:hidden}.tile::after{content:\"\";position:absolute;left:0;right:0;top:0;height:6px;background:repeating-linear-gradient(-45deg,var(--c) 0 8px,transparent 8px 16px)} .tile b{font-weight:900}.tag{border-radius:2px;font-weight:700} .ticker .lb{background:repeating-linear-gradient(-45deg,#F2B33D 0 14px,#0A0D12 14px 28px);color:#0A0D12;font-weight:900;text-shadow:0 0 4px #F2B33D,0 0 2px #F2B33D} .sechead h2{font-weight:900}.trust div{border-left:4px solid #F2B33D;border-radius:2px} .rank li::marker{color:#F2B33D;font-weight:900}.two:has(.empty){grid-template-columns:1fr}.two section:has(.empty){display:none}",
+ "articleCss": "body{background-image:linear-gradient(rgba(93,169,233,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(93,169,233,.045) 1px,transparent 1px);background-size:28px 28px} nav a.r{font-weight:900;color:#0A0D12;background:#F2B33D;padding:3px 12px;border-radius:2px;letter-spacing:.2em} h1{font-weight:900;letter-spacing:.01em} .summary{border:1px solid var(--border);border-radius:4px;background:var(--card);position:relative;overflow:hidden;padding-top:34px} .summary::before{content:\"\";position:absolute;left:0;right:0;top:0;height:10px;background:repeating-linear-gradient(-45deg,#F2B33D 0 14px,#0A0D12 14px 28px)} .summary h2{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;letter-spacing:.2em} h2.sec .n{display:table;background:#F2B33D;color:#0A0D12;padding:3px 10px;font-weight:900;border-radius:2px;font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;letter-spacing:.14em;margin-bottom:10px} h2.sec .n::before{content:\"CHECK \"} .answer{background:rgba(242,179,61,.07);border-left:4px solid #F2B33D;padding:12px 14px;border-radius:0 6px 6px 0} .stat{border-top:4px solid #F2B33D;border-radius:3px}.study{border-radius:4px;border-left:3px solid #5DA9E9} .step{border-radius:4px;border-left:4px solid #F2B33D}.step .num{border-radius:4px;font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace} .ai-badge{border-radius:4px;border-style:dashed}.tag{border-radius:2px;font-weight:700}"
 }

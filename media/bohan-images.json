@@ -900,5 +900,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Storm_shutters_cover_a_homes_windows_and_doors_in_Texas.jpg/500px-Storm_shutters_cover_a_homes_windows_and_doors_in_Texas.jpg",
   "og": "https://bohan.seadice.win/img/disaster-evacuation-crime-myth-research.jpg",
   "local": true
+ },
+ "burglary-daylight-darkness-risk": {
+  "file": "File:Wisconsin Field House (Madison, Wisconsin) exterior at night during Wisconsin Badgers home wrestling meet against Purdue (on February 7, 2025) IMG 1209.jpg",
+  "src": "/img/burglary-daylight-darkness-risk.jpg",
+  "src640": "/img/burglary-daylight-darkness-risk-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "Wisconsin Field House",
+  "artist": "SecretName101",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Wisconsin_Field_House_(Madison,_Wisconsin)_exterior_at_night_during_Wisconsin_Badgers_home_wrestling_meet_against_Purdue_(on_February_7,_2025)_IMG_1209.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wisconsin_Field_House_%28Madison%2C_Wisconsin%29_exterior_at_night_during_Wisconsin_Badgers_home_wrestling_meet_against_Purdue_%28on_February_7%2C_2025%29_IMG_1209.jpg/960px-Wisconsin_Field_House_%28Madison%2C_Wisconsin%29_exterior_at_night_during_Wisconsin_Badgers_home_wrestling_meet_against_Purdue_%28on_February_7%2C_2025%29_IMG_1209.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wisconsin_Field_House_%28Madison%2C_Wisconsin%29_exterior_at_night_during_Wisconsin_Badgers_home_wrestling_meet_against_Purdue_%28on_February_7%2C_2025%29_IMG_1209.jpg/500px-Wisconsin_Field_House_%28Madison%2C_Wisconsin%29_exterior_at_night_during_Wisconsin_Badgers_home_wrestling_meet_against_Purdue_%28on_February_7%2C_2025%29_IMG_1209.jpg",
+  "og": "https://bohan.seadice.win/img/burglary-daylight-darkness-risk.jpg",
+  "local": true
  }
 }
