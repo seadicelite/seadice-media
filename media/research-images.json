@@ -956,5 +956,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Empty_park_bench_at_dusk_%28Unsplash%29.jpg/500px-Empty_park_bench_at_dusk_%28Unsplash%29.jpg",
   "og": "https://research.seadice.win/img/solitude-affective-restoration.jpg",
   "local": true
+ },
+ "deadline-time-pressure-focus-research": {
+  "file": "File:Multiple hourglasses.jpg",
+  "src": "/img/deadline-time-pressure-focus-research.jpg",
+  "src640": "/img/deadline-time-pressure-focus-research-sm.jpg",
+  "w": 960,
+  "h": 637,
+  "alt": "Multiple hourglasses with different delays",
+  "artist": "Sauvagette",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Multiple_hourglasses.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Multiple_hourglasses.jpg/960px-Multiple_hourglasses.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Multiple_hourglasses.jpg/500px-Multiple_hourglasses.jpg",
+  "og": "https://research.seadice.win/img/deadline-time-pressure-focus-research.jpg",
+  "local": true
  }
 }
