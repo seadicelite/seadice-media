@@ -3,7 +3,7 @@
 > ゼロから学ぶ心理学は、心理学を無料で独学できるサイトです。大学の心理学概論と同じ流れの全16章の無料講座「ゼロから学ぶ心理学入門」、心理学用語辞典、おすすめの無料学習サイトと学ぶ順番を掲載。登録不要。
 
 ゼロから学ぶ心理学はSEADICE(https://seadice.win/)が運営する、心理学を無料で独学できるサイトです。登録不要・無料。
-大学1年生の「心理学概論」と同じ流れの無料講座「ゼロから学ぶ心理学入門」（全16章）と、心理学用語辞典（202語）を掲載しています。
+大学1年生の「心理学概論」と同じ流れの無料講座「ゼロから学ぶ心理学入門」（全16章）と、心理学用語辞典（204語）を掲載しています。
 本文は心理学の原典や大学・学会・公的機関の資料をもとに日本語で独自に書いており、各ページに出典があります。
 
 ## 主要ページ
@@ -58,6 +58,7 @@
   - 7-2 ヒューリスティックとは何か。カーネマンとトヴェルスキーの発見: https://shinri.seadice.win/course/heuristics-kahneman-tversky-discovery/
   - 7-3 認知バイアスとは何か。判断を誤らせる代表的なバイアス: https://shinri.seadice.win/course/cognitive-biases-that-distort-judgment/
   - 7-4 知能とは何か。g因子とフリン効果からわかること: https://shinri.seadice.win/course/intelligence-g-factor-and-flynn-effect/
+  - 7-5 言語とは何か。乳児の学習と臨界期の研究から: https://shinri.seadice.win/course/language-acquisition-and-critical-period/
 - 第8章 記憶: 覚える・保つ・思い出す仕組みと、記憶違い。
   - 8-1 記憶とは何か。符号化・貯蔵・検索の3段階: https://shinri.seadice.win/course/memory-encoding-storage-retrieval/
   - 8-2 短期記憶とワーキングメモリの仕組み: https://shinri.seadice.win/course/short-term-memory-and-working-memory/
