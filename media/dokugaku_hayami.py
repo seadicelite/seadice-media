@@ -10,6 +10,8 @@ import json
 import re
 from pathlib import Path
 
+from dokugaku_tools import PAGES as TOOL_PAGES
+
 E = html.escape
 ROOT = Path(__file__).resolve().parent.parent
 URL = "https://dokugaku.seadice.win/hayami/"
@@ -106,7 +108,7 @@ faq_page = {"path": "faq", "title": "独学・勉強法のよくある質問", "
             "body": f'<p>独学と勉強法のよくある質問に、研究でわかったことから答えます。答えはそれぞれの記事（論文などの出典を確認済み）の内容です。くわしい根拠は各記事で読めます。</p><p><a href="/hayami/" style="color:var(--link);font-weight:700">勉強法の効く・効かない早見表も見る</a></p>'
                     + f'<script type="application/ld+json">{json.dumps(faq2, ensure_ascii=False).replace("</", chr(60) + chr(92) + "/")}</script>' + secs,
             "css": ".fq{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 16px;margin:10px 0}.fq summary{cursor:pointer;font-weight:700;font-size:15px;line-height:1.6}.fq p{font-size:15px;line-height:1.85;margin:10px 0 6px}.fq a{font-size:14px;color:var(--link)}"}
-(ROOT / "media/dokugaku-pages.json").write_text(json.dumps([page, faq_page], ensure_ascii=False, indent=2) + "\n")
+(ROOT / "media/dokugaku-pages.json").write_text(json.dumps([page, faq_page] + TOOL_PAGES, ensure_ascii=False, indent=2) + "\n")
 
 # 各記事の末尾(出典の直前)に、早見表の該当項目へのリンクを差し込む。再実行しても1つだけになる
 BLOCK = re.compile(r"<!--hayami-->.*?<!--/hayami-->\n?", re.S)
