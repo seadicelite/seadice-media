@@ -1258,5 +1258,173 @@
    }
   ],
   "date": "2026-10-06"
+ },
+ {
+  "id": "psychosocial-development-theory",
+  "term": "心理社会的発達理論",
+  "en": "Psychosocial theory of development",
+  "field": "発達と老化の理解",
+  "def": "心理社会的発達理論とは、エリクソンが唱えた、人の発達は他者との関わりの中で一生を通じて続き、乳児期から老年期までの8つの段階それぞれに乗り越えたい課題があるとする理論のことです。",
+  "sources": [
+   {
+    "text": "OpenStax「Psychology 2e」9.2 Lifespan Theories",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "integrity-versus-despair",
+  "term": "統合 対 絶望",
+  "en": "Integrity versus despair",
+  "field": "発達と老化の理解",
+  "def": "統合 対 絶望とは、エリクソンの心理社会的発達理論で65歳からの老年期に置かれた課題で、人生を振り返って満足と誇りを感じられるか、失敗と後悔を感じるかの葛藤のことです。",
+  "sources": [
+   {
+    "text": "OpenStax「Psychology 2e」9.2 Lifespan Theories",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "aging-rate",
+  "term": "高齢化率",
+  "en": "Aging rate",
+  "field": "発達と老化の理解",
+  "def": "高齢化率とは、総人口に占める65歳以上人口の割合のことで、令和8年版高齢社会白書によると令和7年10月1日現在で29.4％です。",
+  "sources": [
+   {
+    "text": "内閣府「令和8年版高齢社会白書（全体版）」第1章第1節1",
+    "url": "https://www8.cao.go.jp/kourei/whitepaper/w-2026/html/zenbun/s1_1_1.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "physiological-aging",
+  "term": "生理的老化",
+  "en": "Physiological aging",
+  "field": "発達と老化の理解",
+  "def": "生理的老化とは、加齢に伴い、からだの各器官を構成する細胞の数が減り、細胞そのものの働きも低下することで進む老化のことで、臓器の働きや予備力・回復力の低下などが起こります。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「高齢者の身体的特徴」",
+    "url": "https://www.tyojyu.or.jp/net/kenkou-tyoju/kenkou-undou/shintaiteki-tokucho.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "crystallized-intelligence",
+  "term": "結晶性知能",
+  "en": "Crystallized intelligence",
+  "field": "発達と老化の理解",
+  "def": "結晶性知能とは、長年にわたる経験や教育・学習から身につけていく知能のことで、言語能力・理解力・洞察力などを含み、高齢になっても保たれやすいとされます。",
+  "sources": [
+   {
+    "text": "西田裕紀子「高齢期における知能の加齢変化」健康長寿ネット",
+    "url": "https://www.tyojyu.or.jp/net/topics/tokushu/koureisha-shinri/shinri-chinouhenka.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "fluid-intelligence",
+  "term": "流動性知能",
+  "en": "Fluid intelligence",
+  "field": "発達と老化の理解",
+  "def": "流動性知能とは、新しい環境に適応するために新しい情報を獲得し、処理・操作していく知能のことで、処理のスピードや法則を発見する力などを含み、加齢とともに低下しやすいとされます。",
+  "sources": [
+   {
+    "text": "西田裕紀子「高齢期における知能の加齢変化」健康長寿ネット",
+    "url": "https://www.tyojyu.or.jp/net/topics/tokushu/koureisha-shinri/shinri-chinouhenka.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "cerebrovascular-disease",
+  "term": "脳血管疾患（脳卒中）",
+  "en": "Cerebrovascular disease (stroke)",
+  "field": "発達と老化の理解",
+  "def": "脳血管疾患（脳卒中）とは、脳の血管が詰まる脳梗塞と、血管が破れる脳出血・くも膜下出血を含む病気のことで、半身の麻痺や言葉の障害、意識の障害などが起こります。",
+  "sources": [
+   {
+    "text": "国立循環器病研究センター病院「脳卒中」",
+    "url": "https://www.ncvc.go.jp/hospital/pub/knowledge/disease/stroke-2/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "dehydration",
+  "term": "脱水症",
+  "en": "Dehydration",
+  "field": "発達と老化の理解",
+  "def": "脱水症とは、体内の水分が足りない状態のことで、高齢者はのどの渇きを感じにくく、軽度では症状が明らかになりにくいのが特徴です。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「脱水症」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/rounensei/dassui.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "fast-stroke",
+  "term": "FAST",
+  "en": "Face, Arm, Speech, Time",
+  "field": "発達と老化の理解",
+  "def": "FASTとは、顔がゆがむ・腕が上がらない・話ができないの3つの症状を確かめ、1つでも当てはまれば脳卒中の可能性があるとしてすぐに救急車を呼ぶよう促す、脳卒中の早期発見のための合言葉のことです。",
+  "sources": [
+   {
+    "text": "国立循環器病研究センター病院「脳卒中」",
+    "url": "https://www.ncvc.go.jp/hospital/pub/knowledge/disease/stroke-2/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "frailty",
+  "term": "フレイル",
+  "en": "Frailty",
+  "field": "発達と老化の理解",
+  "def": "フレイルとは、高齢期に生理的予備能が低下することでストレスに対する脆弱性が高まり、生活機能障害や要介護状態などに陥りやすい状態のことで、身体的・精神心理的・社会的な問題を含み、適切な介入で健常な状態に戻る可逆性があるとされます。",
+  "sources": [
+   {
+    "text": "日本老年医学会「フレイルに関する日本老年医学会からのステートメント」（平成26年5月）",
+    "url": "https://www.jpn-geriat-soc.or.jp/info/topics/pdf/20140513_01_01.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "sarcopenia",
+  "term": "サルコペニア",
+  "en": "Sarcopenia",
+  "field": "発達と老化の理解",
+  "def": "サルコペニアとは、加齢による筋肉量の減少および筋力の低下のことで、歩く・立ち上がるなどの日常生活の基本的な動作に影響し、転倒しやすくなります。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「サルコペニアとは」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/frailty/sarcopenia-about.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "sogo-jigyo",
+  "term": "介護予防・日常生活支援総合事業",
+  "en": "Comprehensive project for long-term care prevention and daily life support",
+  "field": "発達と老化の理解",
+  "def": "介護予防・日常生活支援総合事業とは、要介護状態等となることの予防や軽減・悪化の防止と、地域における自立した日常生活の支援のため、市町村が地域支援事業として行う事業のことです（介護保険法第115条の45）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（第115条の45）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   }
+  ],
+  "date": "2026-10-06"
  }
 ]
