@@ -719,8 +719,8 @@
   "def": "授乳・離乳の支援ガイドとは、授乳と離乳を支援する保健医療の従事者などに向けて、支援の基本的な考え方と進め方をまとめた国の手引きのことで、現在のものは2019年3月に改定されました。",
   "sources": [
    {
-    "text": "厚生労働省「授乳・離乳の支援ガイド」（2019年3月）",
-    "url": "https://www.mhlw.go.jp/content/11908000/000496257.pdf"
+    "text": "こども家庭庁「授乳・離乳の支援ガイド」（2019年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/ff38becb-bbd1-41f3-a95e-3a22ddac09d8/8ad42093/20230401_policies_boshihoken_123.pdf"
    }
   ],
   "date": "2026-10-05"
@@ -1837,6 +1837,164 @@
    {
     "text": "全国保育士養成協議会「保育実習指導者研修テキスト」（2024年3月）",
     "url": "https://www.hoyokyo.or.jp/nursing_hyk/23trainingtextP1-45.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "suishoryo",
+  "term": "推奨量",
+  "en": "Recommended dietary allowance (RDA)",
+  "field": "子どもの食と栄養",
+  "def": "推奨量とは、日本人の食事摂取基準の指標の1つで、ある集団のほとんどの人（97〜98％）が必要量を充足している量のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「日本人の食事摂取基準（2025年版）」策定検討会報告書 総論",
+    "url": "https://www.mhlw.go.jp/content/10904750/001316460.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "taiyo-jogenryo",
+  "term": "耐容上限量",
+  "en": "Tolerable upper intake level (UL)",
+  "field": "子どもの食と栄養",
+  "def": "耐容上限量とは、日本人の食事摂取基準の指標の1つで、健康障害をもたらすリスクがないとみなされる習慣的な摂取量の上限のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「日本人の食事摂取基準（2025年版）」策定検討会報告書 総論",
+    "url": "https://www.mhlw.go.jp/content/10904750/001316460.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "suitei-energy-hitsuyoryo",
+  "term": "推定エネルギー必要量",
+  "en": "Estimated energy requirement (EER)",
+  "field": "子どもの食と栄養",
+  "def": "推定エネルギー必要量とは、日本人の食事摂取基準で、性・年齢区分・身体活動レベル別に示される1日に必要なエネルギーの推定値のことで、小児では成長に必要な分を加えて求めます。",
+  "sources": [
+   {
+    "text": "厚生労働省「日本人の食事摂取基準（2025年版）」策定検討会報告書 エネルギー",
+    "url": "https://www.mhlw.go.jp/content/10904750/001316461.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "rinyu-no-kanryo",
+  "term": "離乳の完了",
+  "en": "Completion of weaning",
+  "field": "子どもの食と栄養",
+  "def": "離乳の完了とは、形のある食物をかみつぶすことができるようになり、エネルギーや栄養素の大部分を母乳や育児用ミルク以外の食物からとれるようになった状態のことで、生後12〜18か月頃が目安です。",
+  "sources": [
+   {
+    "text": "「授乳・離乳の支援ガイド」（2019年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/ff38becb-bbd1-41f3-a95e-3a22ddac09d8/8ad42093/20230401_policies_boshihoken_123.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "tezukami-tabe",
+  "term": "手づかみ食べ",
+  "en": "Self-feeding with hands",
+  "field": "子どもの食と栄養",
+  "def": "手づかみ食べとは、子どもが食べ物を手でつかんで自分で食べることで、生後9か月頃から始まり、授乳・離乳の支援ガイドでは発育・発達のために積極的にさせたい行動とされています。",
+  "sources": [
+   {
+    "text": "「授乳・離乳の支援ガイド」（2019年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/ff38becb-bbd1-41f3-a95e-3a22ddac09d8/8ad42093/20230401_policies_boshihoken_123.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "nyuji-botulinus",
+  "term": "乳児ボツリヌス症",
+  "en": "Infant botulism",
+  "field": "子どもの食と栄養",
+  "def": "乳児ボツリヌス症とは、1歳未満の乳児が芽胞の状態のボツリヌス菌を摂取し、その芽胞が消化管内で発芽・増殖して出す毒素によって発症する病気のことです。",
+  "sources": [
+   {
+    "text": "「授乳・離乳の支援ガイド」（2019年3月）参考資料8",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/ff38becb-bbd1-41f3-a95e-3a22ddac09d8/8ad42093/20230401_policies_boshihoken_123.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shoku-wo-itonamu-chikara",
+  "term": "食を営む力",
+  "en": "Ability to manage one's own diet",
+  "field": "子どもの食と栄養",
+  "def": "食を営む力とは、生涯にわたって健康で質の高い生活を送る基本となる、食に関わる力のことで、保育所保育指針は、保育所の食育の目標をこの力の育成に向けてその基礎を培うこととしています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   },
+   {
+    "text": "厚生労働省「楽しく食べる子どもに〜食からはじまる健やかガイド〜」（2004年）",
+    "url": "https://www.mhlw.go.jp/shingi/2004/02/s0219-3.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shokuiku-keikaku",
+  "term": "食育計画",
+  "en": "Food education plan",
+  "field": "子どもの食と栄養",
+  "def": "食育計画とは、保育所で食事の提供を含む食育を進めるために、全体的な計画に基づいて作る計画のことで、評価と改善に努めることが求められています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "seikatsu-kanri-shidohyo",
+  "term": "生活管理指導表",
+  "en": "Allergy management guidance form",
+  "field": "子どもの食と栄養",
+  "def": "生活管理指導表とは、保育所でのアレルギー対応に関する、子どもを中心に据えた医師と保護者、保育所のコミュニケーションツールとなる様式のことで、これに基づく対応が必須とされています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所におけるアレルギー対応ガイドライン（2019年改訂版）」",
+    "url": "https://sukoyaka21.cfa.go.jp/media/tools/s04_nyu_gail029.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kanzen-jokyo",
+  "term": "完全除去",
+  "en": "Complete elimination",
+  "field": "子どもの食と栄養",
+  "def": "完全除去とは、食物アレルギーの原因となる食物を、提供するかしないかの2択で扱う対応のことで、保育所では「完全除去」か「解除」の両極で対応することが基本とされています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所におけるアレルギー対応ガイドライン（2019年改訂版）」",
+    "url": "https://sukoyaka21.cfa.go.jp/media/tools/s04_nyu_gail029.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "anaphylaxis",
+  "term": "アナフィラキシー",
+  "en": "Anaphylaxis",
+  "field": "子どもの食と栄養",
+  "def": "アナフィラキシーとは、アレルギー反応により、じん麻疹などの皮膚症状、腹痛や嘔吐などの消化器症状、息苦しさなどの呼吸器症状が複数同時にかつ急激に出現した状態のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所におけるアレルギー対応ガイドライン（2019年改訂版）」",
+    "url": "https://sukoyaka21.cfa.go.jp/media/tools/s04_nyu_gail029.pdf"
    }
   ],
   "date": "2026-10-06"
