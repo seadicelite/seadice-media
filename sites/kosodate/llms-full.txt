@@ -1054,7 +1054,7 @@ AIチャットが子どもに性的な話や暴力的な話をしてしまわな
 
 - 人気のAIチャット25個のうち、年齢確認の仕組みがあったのは9個。家庭のフィルターも、ネットの性的な画像との接触をほとんど減らせていなかった。
 
-- 設定は「最低限の柵」として使い、「変な返事が来たら話してね」と言える関係を作る。話し合う関わりの方が、子どもの行動と関連していた。
+- 設定は「最低限の柵」として使い、「変な返事が来たら話してね」と言える関係を作る。内容を話し合う関わりは、攻撃的・性的な行動が少ないことと小さく関連していた。
 
 ## 01 結論から言うと
 
@@ -1076,7 +1076,7 @@ AIチャットが子どもに性的な話や暴力的な話をしてしまわな
 
 85%超16歳未満のSNS禁止から約3か月後も、対象のSNSを使っていた16歳未満（豪州、SNSの研究）
 
-Steenstra, Maheuxら（2026、Journal of Medical Internet Research）[1]
+Maheux, Boeldtら（2026、Journal of Medical Internet Research）[1]
 
 子どもがAIアプリに打ち込んだ文字を、AIと人の目で分類しました。AIを使った日（アプリごと）の62%は調べものなどの「道具」としての利用でした。一方で、15%に暴力的な内容、15%に性的なロールプレイ、8%に恋愛のロールプレイが含まれていました。
 
@@ -1106,7 +1106,7 @@ Przybylski, Nash（2018、Cyberpsychology, Behavior, and Social Networking）[4]
 
 Barnesら（2026、BMJ）[5]
 
-オーストラリアで16歳未満のSNSアカウントを禁止した法律の、導入前と約3か月後を比べました。16歳未満の85%超が、対象のSNSを使い続けていました。年齢確認で最も多かったのは「年齢を聞かれるだけ」で、24〜39%でした（年齢層による）。偽のアカウントを使った子は15〜19%でした。
+オーストラリアで16歳未満のSNSアカウントを禁止した法律の、導入前と約3か月後を比べました。16歳未満の85%超が、対象のSNSを使っていました。年齢確認で最も多かったのは「年齢を聞かれるだけ」で、24〜39%でした（年齢層による）。偽のアカウントを使った子は15〜19%でした。
 
 対象: オーストラリアの12〜17歳未満、追跡できた408人（2025〜2026年） ／ 限界: AIではなくSNSの研究で、人数が少なく、導入直後の短い期間しか見ていません。
 
@@ -1140,7 +1140,7 @@ AIの保護者向け機能やフィルターが、AIの性的・暴力的な返�
 
 ## 04 家庭で今日からできること
 
-設定は最低限の柵として必ず使い、そのうえで「変な返事が来たら話してね」と伝える。叱らずに聞ける関係が、すき間を埋める一番の手段になる。
+設定は最低限の柵として必ず使い、そのうえで「変な返事が来たら話してね」と伝える。叱らずに聞ける関係が、すき間を補う大切な手段になる。
 
 1. 使うAIと年齢の決まりを、子どもと一緒に確認する: 子どもが使っているAIアプリの名前と、利用規約の対象年齢を一緒に見ます。友達役やキャラクターと話すアプリは、安全のルールが弱いことがあると伝えます。
 目安 AIを使い始めるとき ／ 10分
@@ -1174,7 +1174,7 @@ A. 違いがあります。性的な内容についてのルールがあった�
 
 ## 出典
 
-- Steenstra, I., Sun, X., Starks, A., Jiang, X., Schreurs, L., Maheux, A. J., et al. (2026). How US Youth Use AI Chatbots: Conversation Patterns From Naturalistic Keystroke Observations. Journal of Medical Internet Research, 28, e95819. https://doi.org/10.2196/95819
+- Maheux, A. J., Boeldt, D., Akre-Bhide, S., et al. (2026). How US Youth Use AI Chatbots: Conversation Patterns From Naturalistic Keystroke Observations. Journal of Medical Internet Research, 28, e95819. https://doi.org/10.2196/95819
 
 - Maheux, A. J., Akre-Bhide, S., Boeldt, D., et al. (2026). Generative Artificial Intelligence Applications Use Among US Youth. JAMA Network Open. https://doi.org/10.1001/jamanetworkopen.2025.56631
 
