@@ -1694,5 +1694,151 @@
    }
   ],
   "date": "2026-10-06"
+ },
+ {
+  "id": "onbu-kigo",
+  "term": "音部記号",
+  "en": "Clef",
+  "field": "保育実習理論",
+  "def": "音部記号とは、五線の左端に書き、線と間がどの高さの音にあたるかの基準を示す記号のことで、ト音記号（高音部記号）・ヘ音記号（低音部記号）・ハ音記号があります。",
+  "sources": [
+   {
+    "text": "浅田まり子「教員のための音楽」『学び舎：教職課程研究』第8号、愛知淑徳大学教育学会、2013年",
+    "url": "https://aska-r.repo.nii.ac.jp/record/6280/files/0027008201303024036.pdf"
+   },
+   {
+    "text": "Open Music Theory「Basic notation」",
+    "url": "https://openmusictheory.github.io/basicNotation.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hyoshi-kigo",
+  "term": "拍子記号",
+  "en": "Time signature",
+  "field": "保育実習理論",
+  "def": "拍子記号とは、何の音符を1拍とし、1小節に何拍入るかを示す記号のことで、たとえば4分の4拍子は4分音符を1拍として1小節に4拍入ります。",
+  "sources": [
+   {
+    "text": "浅田まり子「教員のための音楽」『学び舎：教職課程研究』第8号、愛知淑徳大学教育学会、2013年",
+    "url": "https://aska-r.repo.nii.ac.jp/record/6280/files/0027008201303024036.pdf"
+   },
+   {
+    "text": "Open Music Theory「Meter」",
+    "url": "https://openmusictheory.github.io/meter.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "chord-name",
+  "term": "コードネーム",
+  "en": "Chord symbol",
+  "field": "保育実習理論",
+  "def": "コードネームとは、和音を根音の英語の音名と和音の種類を表す記号で示す書き方のことで、ハ長調のⅠ・Ⅳ・Ⅴの和音はC・F・G、Ⅴの七の和音はG7と書きます。",
+  "sources": [
+   {
+    "text": "Open Music Theory「Triads and seventh chords」",
+    "url": "https://openmusictheory.github.io/triads.html"
+   },
+   {
+    "text": "浅田まり子「教員のための音楽」『学び舎：教職課程研究』第8号、愛知淑徳大学教育学会、2013年",
+    "url": "https://aska-r.repo.nii.ac.jp/record/6280/files/0027008201303024036.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "iro-no-sanzokusei",
+  "term": "色の三属性",
+  "en": "Three attributes of color",
+  "field": "保育実習理論",
+  "def": "色の三属性とは、色を表す3つの性質である、色味の系統の色相、明るさの度合いの明度、鮮やかさの度合いの彩度のことです。",
+  "sources": [
+   {
+    "text": "河野瑠子「色彩調和の基本」『学習院女子短期大学紀要』第27号、1989年",
+    "url": "https://glim-re.repo.nii.ac.jp/record/2922/files/tankidaigaku_27_149_173.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hoshoku",
+  "term": "補色",
+  "en": "Complementary colors",
+  "field": "保育実習理論",
+  "def": "補色とは、色相環で向かい合う位置にある2色のことで、並べると強い対比が生まれ、混ぜると灰色のような無彩色になります。",
+  "sources": [
+   {
+    "text": "河野瑠子「色彩調和の基本」『学習院女子短期大学紀要』第27号、1989年",
+    "url": "https://glim-re.repo.nii.ac.jp/record/2922/files/tankidaigaku_27_149_173.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "genpo-konshoku",
+  "term": "減法混色",
+  "en": "Subtractive color mixing",
+  "field": "保育実習理論",
+  "def": "減法混色とは、絵の具やインクなど光を吸収するものを重ねる混色のことで、シアン・マゼンタ・イエローを三原色とし、混ぜるほど暗くなります。",
+  "sources": [
+   {
+    "text": "日本大百科全書（ニッポニカ）「三原色」（コトバンク）",
+    "url": "https://kotobank.jp/word/%E4%B8%89%E5%8E%9F%E8%89%B2-3779"
+   },
+   {
+    "text": "キヤノン「色の三原色（CMY）について」",
+    "url": "https://global.canon/ja/technology/kids/mystery/m_04_04.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "jisshu-nisshi",
+  "term": "実習日誌",
+  "en": "Practicum diary",
+  "field": "保育実習理論",
+  "def": "実習日誌とは、保育実習の内容を一日ごとに記録して実習施設に提出する記録のことで、子どもの活動、保育士の援助・配慮、実習生の動き、考察などを書きます。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会 東北ブロック研究委員会「保育実習指導のガイドライン Ver.Ⅴ」（令和4年4月）",
+    "url": "https://sec0b209ea3496056.jimcontent.com/download/version/1669716289/module/14211483592/name/%E4%BF%9D%E8%82%B2%E5%AE%9F%E7%BF%92%E6%8C%87%E5%B0%8E%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%EF%BC%88ver5%EF%BC%89%E5%85%A8%E6%96%87.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "bubun-jisshu",
+  "term": "部分実習",
+  "en": "Partial practicum",
+  "field": "保育実習理論",
+  "def": "部分実習とは、絵本の読み聞かせや手遊び、昼食の時間など、保育の一部の活動や時間を実習生が担当して行う実習のことです。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会 東北ブロック研究委員会「保育実習指導のガイドライン Ver.Ⅴ」（令和4年4月）",
+    "url": "https://sec0b209ea3496056.jimcontent.com/download/version/1669716289/module/14211483592/name/%E4%BF%9D%E8%82%B2%E5%AE%9F%E7%BF%92%E6%8C%87%E5%B0%8E%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%EF%BC%88ver5%EF%BC%89%E5%85%A8%E6%96%87.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kankyo-kosei",
+  "term": "環境構成",
+  "en": "Environmental arrangement",
+  "field": "保育実習理論",
+  "def": "環境構成とは、子どもが主体的に活動できるよう、遊具や素材、場の配置などの環境を計画的に整えることです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」第1章3(2)ウ",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   },
+   {
+    "text": "全国保育士養成協議会「保育実習指導者研修テキスト」（2024年3月）",
+    "url": "https://www.hoyokyo.or.jp/nursing_hyk/23trainingtextP1-45.pdf"
+   }
+  ],
+  "date": "2026-10-06"
  }
 ]
