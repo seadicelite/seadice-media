@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """記事に写真を1枚入れる（キー不要）。1記事につき検索1回のみ。
-使い方: python3 media/photo.py research <記事slug> "<英語の検索語>" [--replace|--openverse]
+使い方: python3 media/photo.py research <記事slug> "<英語の検索語>" [--replace|--openverse] [--alt=日本語の説明文]
+--alt は画像の代替テキスト。Commons の説明文は英語で途中切れになるので、記事の言語で写っている物を短く書いて渡す。
 Wikimedia Commons で候補が無ければ Openverse（Flickr Commons・美術館コレクション等を横断検索）に自動フォールバックする。
 --openverse は Commons を飛ばして最初から Openverse だけを検索する（Commonsの結果が弱い時の再検索用）。
 自由に使えるライセンス（パブリックドメイン/CC0/CC BY/CC BY-SA）の写真だけを採用し、撮影者・ライセンス・元ページを必ず表示する。
@@ -99,7 +100,7 @@ def _is_real_image(url):
         return False
 
 
-def main(media, slug, query, flag=""):
+def main(media, slug, query, flag="", alt=""):
     cfg = json.loads((ROOT / f"media/{media}.json").read_text())
     art = ROOT / cfg["path"] / slug / "index.html"
     ip = ROOT / f"media/{media}-images.json"
@@ -126,7 +127,7 @@ def main(media, slug, query, flag=""):
         return print("skip: 候補なし")
     if not _is_real_image(i["src"]):
         return print("skip: 画像URLが実体を返さない（壊れたリンク）", i["src"])
-    i["alt"] = i["alt"][:140]
+    i["alt"] = alt or i["alt"][:140]
     images[slug] = i
     ip.write_text(json.dumps(images, ensure_ascii=False, indent=1))
     lic_html = f'<a href="{html.escape(i["licenseUrl"], quote=True)}" target="_blank" rel="noopener">{html.escape(i["license"])}</a>' if i["licenseUrl"] else html.escape(i["license"])
@@ -141,4 +142,7 @@ def main(media, slug, query, flag=""):
 
 
 if __name__ == "__main__":
-    main(*sys.argv[1:5])
+    args = sys.argv[1:]
+    alt = next((a[6:] for a in args if a.startswith("--alt=")), "")
+    rest = [a for a in args if not a.startswith("--alt=")]
+    main(*rest[:4], alt=alt)
