@@ -902,8 +902,8 @@
  },
  "lunch-at-desk": {
   "file": "File:Aerial view of path and trees, Monsanto Forest Park, Lisbon, Portugal julesvernex2.jpg",
-  "src": "/img/lunch-at-desk.jpg",
-  "src640": "/img/lunch-at-desk-sm.jpg",
+  "src": "/img/lunch-at-desk.webp",
+  "src640": "/img/lunch-at-desk-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "Aerial view of path and trees, Monsanto Forest Park, Lisbon, Portugal",
@@ -912,10 +912,26 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_path_and_trees,_Monsanto_Forest_Park,_Lisbon,_Portugal_julesvernex2.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aerial_view_of_path_and_trees%2C_Monsanto_Forest_Park%2C_Lisbon%2C_Portugal_julesvernex2.jpg/960px-Aerial_view_of_path_and_trees%2C_Monsanto_Forest_Park%2C_Lisbon%2C_Portugal_julesvernex2.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aerial_view_of_path_and_trees%2C_Monsanto_Forest_Park%2C_Lisbon%2C_Portugal_julesvernex2.jpg/500px-Aerial_view_of_path_and_trees%2C_Monsanto_Forest_Park%2C_Lisbon%2C_Portugal_julesvernex2.jpg",
-  "og": "https://mentalai.seadice.win/img/lunch-at-desk.jpg",
+  "og": "https://mentalai.seadice.win/img/lunch-at-desk-og.jpg",
+  "local": true
+ },
+ "ai-better-than-me": {
+  "file": "File:A laptop and a notebook on the wooden table (Pixabay).jpg",
+  "src": "/img/ai-better-than-me.webp",
+  "src640": "/img/ai-better-than-me-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "木の机の上に置かれたノートパソコンと、ペンをのせた方眼ノート",
+  "artist": "By StartupStockPhotos from Pixabay",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:A_laptop_and_a_notebook_on_the_wooden_table_(Pixabay).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg/960px-A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg/500px-A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-better-than-me-og.jpg",
   "local": true
  }
 }
