@@ -183,7 +183,7 @@ def badges(cfg):
 def top_links(cfg):
     """トップページの見出し直下に、まとめページ・用語集などへの入口を置く。"""
     links = [(n["label"], n["path"]) for n in cfg.get("extraNav", [])]
-    if not links:
+    if not links or cfg.get("layout") == "hub":  # hub はトップ本文に同じ入口を持つ
         return
     f = ROOT / cfg["path"] / "index.html"
     t = f.read_text()

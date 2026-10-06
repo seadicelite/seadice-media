@@ -95,7 +95,7 @@
     "きょうだいが多いとスクリーンタイムが長くなる？研究でわかっていること",
     "小学生がAIで宿題の答えを写している。気づいたときの声かけは？"
   ],
-  "layout": "magazine",
+  "layout": "hub",
   "faq": [
     [
       "子育てデータとはどんなメディアですか？",
@@ -239,7 +239,84 @@
       "path": "/glossary/"
     }
   ],
-  "mastheadHtml": "<div class=\"ks-mast\"><div class=\"ks-blocks\" aria-hidden=\"true\"><i></i><i></i><i></i><i></i><i></i></div><p class=\"ks-en\">Parenting in the AI age, by the data.</p><h1><span class=\"ks-hl\">子育て</span>データ</h1><p class=\"ks-tag\">AI時代の子育てを、研究データで考える。</p><p class=\"ks-lead\">%LEAD%</p><p class=\"ks-count\">いま <b>%POSTS%</b> 本の記事・<b>%CATS%</b> つのテーマ</p></div><!--mastend-->",
+  "mastheadHtml": "<div class=\"ks-mast\"><div class=\"ks-blocks\" aria-hidden=\"true\"><i></i><i></i><i></i><i></i><i></i></div><h1><span class=\"ks-hl\">子育て</span>データ</h1><p class=\"ks-tag\">AI時代の子育てを、研究データで考える。</p><p class=\"ks-lead\">%LEAD%</p><p class=\"ks-count\">いま <b>%POSTS%</b> 本の記事・<b>%CATS%</b> つのテーマ</p></div><!--mastend-->",
   "extraCss": "body{background-color:#FFF8EE;background-image:linear-gradient(rgba(62,124,177,.07) 1px,transparent 1px),linear-gradient(90deg,rgba(62,124,177,.07) 1px,transparent 1px);background-size:22px 22px} .nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#6E5F57;color:#6E5F57} nav.top{background:rgba(255,248,238,.92)}nav.top a.r{font-weight:900;color:#3B2F2A;letter-spacing:.06em} .ks-mast{position:relative;background:#fff;border:2px solid #3B2F2A;border-radius:22px;padding:30px 28px 26px;margin-bottom:22px;box-shadow:6px 6px 0 #3B2F2A} .ks-blocks{position:absolute;right:26px;top:26px;display:grid;grid-template-columns:repeat(3,28px);gap:4px} .ks-blocks i{height:28px;border-radius:6px;border:2px solid #3B2F2A} .ks-blocks i:nth-child(1){background:#BF4A33;grid-column:3}.ks-blocks i:nth-child(2){background:#E8B23A;grid-column:2/4}.ks-blocks i:nth-child(3){background:#2E7D60}.ks-blocks i:nth-child(4){background:#3E7CB1}.ks-blocks i:nth-child(5){background:#E8B23A} .ks-en{font-size:13px;font-weight:700;letter-spacing:.08em;color:#2E7D60} .ks-mast h1{font-size:clamp(46px,10vw,86px);font-weight:900;line-height:1.15;letter-spacing:.04em;margin-top:8px;background:none;-webkit-text-fill-color:#3B2F2A;color:#3B2F2A} .ks-hl{background:linear-gradient(transparent 58%,rgba(232,178,58,.65) 58%,rgba(232,178,58,.65) 92%,transparent 92%)} .ks-tag{font-size:18px;font-weight:800;color:#3B2F2A;margin-top:12px} .ks-lead{font-size:14.5px;color:#6E5F57;margin-top:8px;max-width:560px;line-height:1.85} .ks-count{margin-top:16px;font-size:14px;color:#6E5F57}.ks-count b{font-size:26px;color:#BF4A33;font-weight:900;margin:0 2px} @media(max-width:640px){.ks-blocks{display:none}.ks-mast{padding:24px 18px}} .gnav{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 34px!important}.gnav a{border-radius:4px 4px 12px 4px;background:#FFF3C4;border:1.5px solid #3B2F2A;color:#3B2F2A;font-weight:700;padding:7px 14px;text-decoration:none;transform:rotate(-1deg);box-shadow:2px 2px 0 #3B2F2A;font-size:14px}.gnav a:nth-child(2n){background:#E3F1EA;transform:rotate(1deg)}.gnav a:nth-child(3n){background:#FBE3DC}.gnav a:hover{transform:none}h2.sec{font-weight:900;color:#3B2F2A;letter-spacing:.2em} .card,.feat,.srow,.tile,.about,.faq details,.empty,.trust div{border-radius:18px} .card{border:1.5px solid #3B2F2A;box-shadow:4px 4px 0 rgba(59,47,42,.85)}.card:hover{transform:translate(-2px,-2px);box-shadow:6px 6px 0 #3B2F2A} .tile{border:1.5px solid #3B2F2A;box-shadow:3px 3px 0 rgba(59,47,42,.85)}.srow{border:1.5px solid rgba(59,47,42,.25);background:#fff} .feat{border:1.5px solid #3B2F2A}.feat .sh{background:linear-gradient(180deg,rgba(0,0,0,0) 25%,rgba(30,22,18,.85))!important}.feat h2,.feat p{color:#FFF8EE!important;-webkit-text-fill-color:#FFF8EE} .tag,.ty{border-radius:999px;font-weight:700} .ticker .lb{background:#BF4A33;border-radius:0 12px 12px 0;font-weight:900} .two:has(.empty){grid-template-columns:1fr}.two section:has(.empty){display:none} .sechead h2{font-weight:900}",
-  "articleCss": "body{background-color:#FFF8EE;background-image:linear-gradient(rgba(62,124,177,.07) 1px,transparent 1px),linear-gradient(90deg,rgba(62,124,177,.07) 1px,transparent 1px);background-size:22px 22px}nav{background:rgba(255,248,238,.92)!important} h1{font-weight:900} .summary{border:2px solid #3B2F2A!important;border-radius:18px!important;background:#fff!important;box-shadow:5px 5px 0 #3B2F2A} .summary h2{display:inline-block;background:#E8B23A;color:#3B2F2A!important;padding:2px 12px;border-radius:999px;font-weight:900} h2.sec .n{display:inline-block;background:#BF4A33;color:#fff!important;border-radius:8px;padding:2px 10px;font-weight:900;margin-bottom:8px} .answer{background:linear-gradient(transparent 70%,rgba(232,178,58,.35) 70%);border-left:none!important;padding-left:0!important;font-weight:700} .stat{border:1.5px solid #3B2F2A!important;border-radius:14px!important;box-shadow:3px 3px 0 #3B2F2A} .study,.step,.related a,details,.note,.idea,.prevnext a{border-radius:14px!important} .hero img{border-radius:16px;border:1.5px solid #3B2F2A}"
+  "articleCss": "body{background-color:#FFF8EE;background-image:linear-gradient(rgba(62,124,177,.07) 1px,transparent 1px),linear-gradient(90deg,rgba(62,124,177,.07) 1px,transparent 1px);background-size:22px 22px}nav{background:rgba(255,248,238,.92)!important} h1{font-weight:900} .summary{border:2px solid #3B2F2A!important;border-radius:18px!important;background:#fff!important;box-shadow:5px 5px 0 #3B2F2A} .summary h2{display:inline-block;background:#E8B23A;color:#3B2F2A!important;padding:2px 12px;border-radius:999px;font-weight:900} h2.sec .n{display:inline-block;background:#BF4A33;color:#fff!important;border-radius:8px;padding:2px 10px;font-weight:900;margin-bottom:8px} .answer{background:linear-gradient(transparent 70%,rgba(232,178,58,.35) 70%);border-left:none!important;padding-left:0!important;font-weight:700} .stat{border:1.5px solid #3B2F2A!important;border-radius:14px!important;box-shadow:3px 3px 0 #3B2F2A} .study,.step,.related a,details,.note,.idea,.prevnext a{border-radius:14px!important} .hero img{border-radius:16px;border:1.5px solid #3B2F2A}",
+  "hub": {
+    "ages": [
+      {
+        "label": "0〜2歳",
+        "sub": "動画を見せる時間、言葉の発達",
+        "href": "/guide/age-0-2/"
+      },
+      {
+        "label": "3〜5歳",
+        "sub": "「もっと見たい」、AIスピーカー",
+        "href": "/guide/age-3-5/"
+      },
+      {
+        "label": "小学生",
+        "sub": "宿題とAI、はじめてのスマホ",
+        "href": "/guide/elementary/"
+      },
+      {
+        "label": "中高生",
+        "sub": "SNS、受験とAI、反抗期",
+        "href": "/guide/teens/"
+      }
+    ],
+    "questions": [
+      {
+        "q": "スマホ・動画は1日何時間まで？",
+        "slug": "kids-screen-time-hours"
+      },
+      {
+        "q": "AIは何歳から使わせていい？",
+        "slug": "ai-age-for-kids"
+      },
+      {
+        "q": "宿題にAIを使うと、考える力は落ちる？",
+        "slug": "homework-ai-thinking-skills"
+      },
+      {
+        "q": "自分のスマホは何歳から持たせる？",
+        "slug": "smartphone-first-age-ownership-risk"
+      },
+      {
+        "q": "「YouTubeもっと見たい」をどう断る？",
+        "slug": "youtube-more-please-how-to-say-no"
+      },
+      {
+        "q": "AIを友達のように話し相手にしている。大丈夫？",
+        "slug": "ai-companion-loneliness"
+      },
+      {
+        "q": "子どもがAIに悩みを相談している。人と何が違う？",
+        "slug": "ai-chatbot-worry-consultation-safety"
+      },
+      {
+        "q": "家のスマホのルールは、どう決めるとうまくいく？",
+        "slug": "family-screen-time-rules-research"
+      }
+    ],
+    "actionsLead": "夫婦や子どもとルールを決めるときに、そのまま見せたり印刷したりできるページです。",
+    "actions": [
+      {
+        "label": "家庭のルール表（印刷用）",
+        "desc": "年齢別のAI・スマホのルールを1枚にまとめました。",
+        "href": "/rules/"
+      },
+      {
+        "label": "親がやるといいこと19選",
+        "desc": "研究で効果が見られた関わり方を、記事の結論から集めました。",
+        "href": "/dos/"
+      },
+      {
+        "label": "させない方がいいこと",
+        "desc": "避けたいことと、心配しすぎなくていいことを分けて載せています。",
+        "href": "/avoid/"
+      }
+    ],
+    "latest": 4
+  }
 }

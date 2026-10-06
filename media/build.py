@@ -109,6 +109,12 @@ def build(slug, preview=None):
         ticker_html, body_html = magazine.render(cfg, posts, cats, images, types, img_url, card)
         extra_css = magazine.EXTRA_CSS
         secs_html = secs.replace('<section id="c-', '<section style="margin-top:8px" id="c-')
+    elif cfg.get("layout") == "hub":
+        import hub
+        secs = hub.render(cfg, posts, cats, images, types, card)
+        extra_css = hub.EXTRA_CSS
+    # hub は年齢・悩みの入口と新着を本文側に持つので、カテゴリチップと PICK UP を出さない
+    pick = "" if cfg.get("layout") == "hub" else f'<div class="chips" aria-label="カテゴリ">{chips}</div><h2 class="sec">PICK UP</h2><div class="grid">{latest}</div>'
     ttl = f"{name} | {cfg.get('titleSuffix', '')}".rstrip(" |")
     desc = html.escape(cfg.get("description", ""), quote=True)
     ld = json.dumps({"@context": "https://schema.org", "@graph": [
@@ -143,7 +149,7 @@ def build(slug, preview=None):
 <meta name="twitter:card" content="summary">
 {favicon_tag(name, theme)}
 <script type="application/ld+json">{ld}</script>
-<style>{CSS % theme}{extra_css if mag else ""}{cfg.get("extraCss", "")}</style>
+<style>{CSS % theme}{extra_css if mag or cfg.get("layout") == "hub" else ""}{cfg.get("extraCss", "")}</style>
 </head>
 <body>
 <nav class="top">
@@ -151,7 +157,7 @@ def build(slug, preview=None):
   <a href="/" class="r">{html.escape(name)}</a>
 </nav>
 {ticker_html}<main{' class="mag"' if mag else ''}>
-  {(cfg.get("mastheadHtml") or f'<div class="maghead"><h1>{html.escape(name)}</h1><p class="tagline">{html.escape(tagline)}</p></div>').replace("%NAME%", html.escape(name)).replace("%TAGLINE%", html.escape(tagline)).replace("%LEAD%", html.escape(cfg.get("lead", ""))).replace("%POSTS%", str(len(posts))).replace("%CATS%", str(len(cats))).replace("%UPDATED%", max((p["date"] for p in posts), default="")) if mag else ''}{'' if mag else (cfg.get("mastheadHtml") or f'<div class="hero"><h1>{html.escape(name)}</h1><p class="tagline">{html.escape(tagline)}</p><p class="lead">{html.escape(lead)}</p></div>').replace("%NAME%", html.escape(name)).replace("%TAGLINE%", html.escape(tagline)).replace("%LEAD%", html.escape(lead)).replace("%POSTS%", str(len(posts))).replace("%CATS%", str(len(cats))).replace("%UPDATED%", max((p["date"] for p in posts), default="")) + f'<div class="chips" aria-label="カテゴリ">{chips}</div><h2 class="sec">PICK UP</h2><div class="grid">{latest}</div>'}
+  {(cfg.get("mastheadHtml") or f'<div class="maghead"><h1>{html.escape(name)}</h1><p class="tagline">{html.escape(tagline)}</p></div>').replace("%NAME%", html.escape(name)).replace("%TAGLINE%", html.escape(tagline)).replace("%LEAD%", html.escape(cfg.get("lead", ""))).replace("%POSTS%", str(len(posts))).replace("%CATS%", str(len(cats))).replace("%UPDATED%", max((p["date"] for p in posts), default="")) if mag else ''}{'' if mag else (cfg.get("mastheadHtml") or f'<div class="hero"><h1>{html.escape(name)}</h1><p class="tagline">{html.escape(tagline)}</p><p class="lead">{html.escape(lead)}</p></div>').replace("%NAME%", html.escape(name)).replace("%TAGLINE%", html.escape(tagline)).replace("%LEAD%", html.escape(lead)).replace("%POSTS%", str(len(posts))).replace("%CATS%", str(len(cats))).replace("%UPDATED%", max((p["date"] for p in posts), default="")) + pick}
   {body_html + secs_html if mag else secs}
   {faq_html}
   {trust_html}
