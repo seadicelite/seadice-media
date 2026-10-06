@@ -1824,5 +1824,197 @@
    }
   ],
   "date": "2026-10-06"
+ },
+ {
+  "id": "shakai-model",
+  "term": "社会モデル",
+  "en": "Social model of disability",
+  "field": "障害の理解",
+  "def": "社会モデルとは、障害のある人が受ける生活の制限は、心身の障害だけが原因ではなく、社会の側にある様々な障壁によって生じるという考え方のことです（障害者権利条約の基本理念）。",
+  "sources": [
+   {
+    "text": "内閣府リーフレット「令和6年4月1日から合理的配慮の提供が義務化されました」",
+    "url": "https://www8.cao.go.jp/shougai/suishin/pdf/gouriteki_hairyo2/print.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "igaku-model",
+  "term": "医学モデル",
+  "en": "Medical model of disability",
+  "field": "障害の理解",
+  "def": "医学モデルとは、障害は個人の心身のはたらきの障害によるものだという考え方のことで、社会モデルと対比されます。",
+  "sources": [
+   {
+    "text": "内閣府リーフレット「令和6年4月1日から合理的配慮の提供が義務化されました」",
+    "url": "https://www8.cao.go.jp/shougai/suishin/pdf/gouriteki_hairyo2/print.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "gouriteki-hairyo",
+  "term": "合理的配慮",
+  "en": "Reasonable accommodation",
+  "field": "障害の理解",
+  "def": "合理的配慮とは、障害のある人から社会的障壁を取り除いてほしいという意思の表明があり、負担が過重でないときに行う、必要かつ合理的な配慮のことで、2024年4月1日から事業者にも義務となりました（障害者差別解消法第7条・第8条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「障害を理由とする差別の解消の推進に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/425AC0000000065"
+   },
+   {
+    "text": "内閣府リーフレット「令和6年4月1日から合理的配慮の提供が義務化されました」",
+    "url": "https://www8.cao.go.jp/shougai/suishin/pdf/gouriteki_hairyo2/print.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shintai-shogaisha-techo",
+  "term": "身体障害者手帳",
+  "en": "Physical disability certificate",
+  "field": "障害の理解",
+  "def": "身体障害者手帳とは、身体障害者福祉法第15条に基づき、別表に掲げる障害があると認められた人に都道府県知事などが交付する手帳のことで、等級は重い側から1級〜6級です。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「身体障害者福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/324AC1000000283"
+   },
+   {
+    "text": "厚生労働省「身体障害者手帳制度の概要」",
+    "url": "https://www.mhlw.go.jp/content/001679529.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "naibu-shogai",
+  "term": "内部障害",
+  "en": "Internal disability",
+  "field": "障害の理解",
+  "def": "内部障害とは、心臓、じん臓、呼吸器、ぼうこう・直腸、小腸、ヒト免疫不全ウイルスによる免疫、肝臓の機能の障害など、体の内側の機能の障害のことで、外見では分かりにくい障害です。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「身体障害者福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/324AC1000000283"
+   },
+   {
+    "text": "e-Gov法令検索「身体障害者福祉法施行令」（第36条）",
+    "url": "https://laws.e-gov.go.jp/law/325CO0000000078"
+   },
+   {
+    "text": "厚生労働省「障害者の範囲（参考資料）」2008年",
+    "url": "https://www.mhlw.go.jp/shingi/2008/10/dl/s1031-10e_0001.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shitai-fujiyu",
+  "term": "肢体不自由",
+  "en": "Physical impairment of the limbs and trunk",
+  "field": "障害の理解",
+  "def": "肢体不自由とは、身体障害者福祉法の別表に掲げる障害の1つで、上肢・下肢・体幹の機能の著しい障害などのうち永続するもののことです。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「身体障害者福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/324AC1000000283"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ryoiku-techo",
+  "term": "療育手帳",
+  "en": "Certificate for intellectual disability",
+  "field": "障害の理解",
+  "def": "療育手帳とは、児童相談所または知的障害者更生相談所で知的障害と判定された人に交付される手帳のことで、1973年の厚生事務次官通知に基づき、程度は重度（A）とそれ以外（B）に分かれます。",
+  "sources": [
+   {
+    "text": "厚生労働省「療育手帳制度の概要」",
+    "url": "https://www.mhlw.go.jp/content/12200000/001679542.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "seishin-techo",
+  "term": "精神障害者保健福祉手帳",
+  "en": "Mental disability certificate",
+  "field": "障害の理解",
+  "def": "精神障害者保健福祉手帳とは、一定程度の精神障害の状態にあることを認定する手帳のことで、等級は1級〜3級、2年ごとに認定を受けます（精神保健福祉法第45条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「精神保健及び精神障害者福祉に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/325AC0100000123"
+   },
+   {
+    "text": "厚生労働省「障害者手帳」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/techou.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hattatsu-shogai",
+  "term": "発達障害",
+  "en": "Developmental disorder",
+  "field": "障害の理解",
+  "def": "発達障害とは、自閉症、アスペルガー症候群その他の広汎性発達障害、学習障害、注意欠陥多動性障害などの脳機能の障害で、症状が通常低年齢で現れるもののことです（発達障害者支援法第2条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「発達障害者支援法」",
+    "url": "https://laws.e-gov.go.jp/law/416AC1000000167"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shogai-no-juyo",
+  "term": "障害の受容",
+  "en": "Acceptance of disability",
+  "field": "障害の理解",
+  "def": "障害の受容とは、障害の存在を認め、障害を積極的に受け入れて、あるがままの自分を容認する段階に至ることです。",
+  "sources": [
+   {
+    "text": "公益財団法人長寿科学振興財団 健康長寿ネット「障害の受容過程」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/rehabilitation/shougai-juyou.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "respite",
+  "term": "レスパイト",
+  "en": "Respite",
+  "field": "障害の理解",
+  "def": "レスパイトとは、介護する人が介護から一時的に離れて休息や息抜きをすることで、短期入所の利用理由の1つです。",
+  "sources": [
+   {
+    "text": "厚生労働省「医療型短期入所事業所 開設のためのガイドブック」",
+    "url": "https://www.mhlw.go.jp/content/12200000/000654272.pdf"
+   },
+   {
+    "text": "厚生労働省 障害福祉サービス等報酬改定検討チーム 第12回 資料2",
+    "url": "https://www.mhlw.go.jp/file/05-Shingikai-12201000-Shakaiengokyokushougaihokenfukushibu-Kikakuka/0000181051.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "tanki-nyusho",
+  "term": "短期入所",
+  "en": "Short-term stay",
+  "field": "障害の理解",
+  "def": "短期入所とは、居宅で介護する人の病気などにより、障害者支援施設などに短期間入所させ、入浴・排せつ・食事の介護などを行う障害福祉サービスのことです（障害者総合支援法第5条第8項）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「障害者の日常生活及び社会生活を総合的に支援するための法律」",
+    "url": "https://laws.e-gov.go.jp/law/417AC0000000123"
+   }
+  ],
+  "date": "2026-10-06"
  }
 ]
