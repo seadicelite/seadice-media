@@ -974,5 +974,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Multiple_hourglasses.jpg/500px-Multiple_hourglasses.jpg",
   "og": "https://research.seadice.win/img/deadline-time-pressure-focus-research.jpg",
   "local": true
+ },
+ "fresh-start-effect-habit-timing-research": {
+  "file": "File:Italy - birthday cake with candles 5.jpg",
+  "src": "/img/fresh-start-effect-habit-timing-research.jpg",
+  "src640": "/img/fresh-start-effect-habit-timing-research-sm.jpg",
+  "w": 960,
+  "h": 653,
+  "alt": "誕生日のケーキとろうそく",
+  "artist": "Francesca Cesa Bianchi, Milano",
+  "license": "CC BY-SA 3.0 it",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/it/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Italy_-_birthday_cake_with_candles_5.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Italy_-_birthday_cake_with_candles_5.jpg/960px-Italy_-_birthday_cake_with_candles_5.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Italy_-_birthday_cake_with_candles_5.jpg/500px-Italy_-_birthday_cake_with_candles_5.jpg",
+  "og": "https://research.seadice.win/img/fresh-start-effect-habit-timing-research.jpg",
+  "local": true
  }
 }

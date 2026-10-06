@@ -1560,5 +1560,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_golden_wedding_rings.jpg/500px-Two_golden_wedding_rings.jpg",
   "og": "https://umbra.seadice.win/img/mate-preference-gender-difference-research.jpg",
   "local": true
+ },
+ "deliberate-eye-contact-lying-research": {
+  "file": "File:Interior of Helsinki Airport Vantaa.jpg",
+  "src": "/img/deliberate-eye-contact-lying-research.jpg",
+  "src640": "/img/deliberate-eye-contact-lying-research-sm.jpg",
+  "w": 960,
+  "h": 628,
+  "alt": "国際空港のロビー",
+  "artist": "Ввласенко",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Interior_of_Helsinki_Airport_Vantaa.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Interior_of_Helsinki_Airport_Vantaa.jpg/960px-Interior_of_Helsinki_Airport_Vantaa.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Interior_of_Helsinki_Airport_Vantaa.jpg/500px-Interior_of_Helsinki_Airport_Vantaa.jpg",
+  "og": "https://umbra.seadice.win/img/deliberate-eye-contact-lying-research.jpg",
+  "local": true
  }
 }
