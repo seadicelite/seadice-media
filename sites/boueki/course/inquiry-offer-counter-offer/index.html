@@ -70,14 +70,36 @@ details.srcs{margin-top:40px}details.srcs summary{font-size:15px;color:var(--mut
 .ex li{margin:6px 0}.ex small{color:var(--muted)}
 .resume{background:var(--paper);border:2px solid var(--accent);border-radius:16px;padding:16px 20px;margin:0 0 28px}.resume p{margin:0 0 8px;font-size:15px;color:var(--sub)}.resume .btns{margin:0}
 .fc{background:var(--paper);border:2px solid var(--accent);border-radius:20px;padding:28px 22px;text-align:center;margin:20px 0}.fc .fw{font-size:26px;font-weight:800;line-height:1.4}.fc .fe{font-size:14px;color:var(--muted);margin:4px 0 0}.fc .fd{font-size:16px;color:var(--sub);text-align:left;margin:18px 0 0}.fc .btns{justify-content:center;margin:20px 0 0}.fc .fn{font-size:13px;color:var(--muted);margin:16px 0 0}
-footer.site{border-top:1px solid var(--line);padding:28px 16px;text-align:center;font-size:13px;color:var(--muted);line-height:2.2}footer.site a{color:var(--muted);margin:0 8px;text-decoration:none}footer.site a:hover{text-decoration:underline}footer.site .other{margin-top:10px}footer.site .other b{display:block;font-weight:700}
+footer.site{border-top:1px solid var(--line);padding:28px 16px;text-align:center;font-size:13px;color:var(--muted);line-height:2.2}footer.site a{color:var(--muted);display:inline-block;padding:4px 6px;margin:2px 2px;text-decoration:none}footer.site a:hover{text-decoration:underline}footer.site .other{margin-top:10px}footer.site .other b{display:block;font-weight:700}
 .hero{padding:20px 0 4px}.hero h1{font-size:clamp(32px,8vw,48px)}.hero .tag{font-size:16px;font-weight:700;color:var(--accent);margin-bottom:6px}
 .stats{display:flex;flex-wrap:wrap;gap:8px 18px;font-size:14px;color:var(--muted);margin:-12px 0 28px}.stats b{color:var(--text);font-size:16px}
+.g-modes{display:grid;gap:12px;grid-template-columns:1fr;margin:8px 0 10px}@media(min-width:680px){.g-modes{grid-template-columns:1fr 1fr 1fr}}
+.g-mode,.g-chb{font:inherit;text-align:left;cursor:pointer;color:var(--text);background:var(--paper);border:2px solid var(--line);border-radius:16px;padding:16px 18px;transition:transform .12s,border-color .12s}
+.g-mode:hover:not(:disabled),.g-chb:hover{border-color:var(--accent);transform:translateY(-2px)}.g-mode:disabled{opacity:.6;cursor:default}
+.g-mode b{display:block;font-size:19px;color:var(--accent)}.g-mode span{display:block;font-size:14px;color:var(--sub);line-height:1.6;margin-top:4px}.g-mode em{display:block;font-style:normal;font-size:13px;font-weight:700;color:var(--ok);margin-top:6px}.g-mode em:empty{display:none}
+.g-mode[data-mode=ten]{background:var(--accent);border-color:var(--accent)}.g-mode[data-mode=ten] b,.g-mode[data-mode=ten] span,.g-mode[data-mode=ten] em{color:var(--accent-ink)}
+.g-note{font-size:13px;color:var(--muted);margin:6px 0 0}
+.g-chgrid{display:grid;gap:10px;grid-template-columns:1fr}@media(min-width:680px){.g-chgrid{grid-template-columns:1fr 1fr}}
+.g-chb small{display:block;font-size:12px;font-weight:700;color:var(--accent);letter-spacing:.08em}.g-chb b{display:block;font-size:16px;line-height:1.5}
+.g-rate{display:block;margin-top:8px}.g-rate i{display:block;height:6px;border-radius:3px;background:var(--accent);max-width:100%}.g-rate em{display:block;font-style:normal;font-size:12px;color:var(--muted);margin-top:2px}
+.g-head{display:flex;align-items:center;gap:14px;font-weight:800;font-variant-numeric:tabular-nums}.g-prog{color:var(--muted);font-size:14px}.g-pt{margin-left:auto;font-size:18px;color:var(--accent)}
+.g-life{display:flex;gap:4px}.g-life i{width:14px;height:14px;border-radius:50%;border:2px solid var(--ng)}.g-life i.on{background:var(--ng)}
+.g-bar{height:8px;border-radius:4px;background:var(--line);margin:8px 0 16px;overflow:hidden}.g-bar i{display:block;height:100%;background:var(--accent);transition:width .3s}
+.g-card{background:var(--paper);border:2px solid var(--line);border-radius:20px;padding:22px 20px;position:relative}.g-src{font-size:12px;font-weight:700;color:var(--muted);letter-spacing:.06em;margin:0 0 6px}.g-q{font-size:19px;font-weight:800;line-height:1.65;margin:0 0 16px}
+.g-chs{display:grid;gap:10px}.g-ch{font:inherit;font-size:16px;text-align:left;line-height:1.6;color:var(--text);background:var(--bg);border:2px solid var(--line);border-radius:14px;padding:12px 14px;cursor:pointer;display:flex;gap:12px;align-items:flex-start}
+.g-ch b{flex:0 0 26px;height:26px;border-radius:50%;background:var(--soft);color:var(--accent);font-size:14px;display:flex;align-items:center;justify-content:center;margin-top:1px}
+.g-ch:hover:not(:disabled){border-color:var(--accent)}.g-ch:disabled{cursor:default}.g-ch.ok{border-color:var(--ok);background:color-mix(in srgb,var(--ok) 14%,var(--paper))}.g-ch.ng{border-color:var(--ng);background:color-mix(in srgb,var(--ng) 12%,var(--paper));animation:g-shake .3s}
+.g-fb:empty{display:none}.g-fb{margin-top:16px}.g-ok,.g-ng{font-size:22px;font-weight:800;margin:0}.g-ok{color:var(--ok);animation:g-pop .35s}.g-ng{color:var(--ng)}.g-exp{font-size:15px;color:var(--sub);margin:8px 0}.g-read{font-size:14px;font-weight:700}.g-next{display:block;width:100%;margin-top:16px}
+.g-pop{position:absolute;top:14px;right:16px;font-size:13px;font-weight:800;letter-spacing:.1em;color:var(--accent-ink);background:var(--accent);border-radius:999px;padding:4px 12px;animation:g-pop .4s}
+.g-res{text-align:center}.g-rank{font-size:15px;font-weight:800;color:var(--accent-ink);background:var(--accent);display:inline-block;border-radius:999px;padding:4px 16px;margin:4px 0 0;animation:g-pop .5s}.g-big{font-size:30px;font-weight:800;margin:10px 0 0}.g-sub{font-size:15px;color:var(--sub);margin:8px 0 0}
+.g-miss{list-style:none;display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:10px 0 0}.g-miss a{display:inline-block;font-size:14px;border:1px solid var(--line);border-radius:999px;padding:6px 12px;text-decoration:none}.g-res .btns{justify-content:center;margin:20px 0 0}.g-res .g-share{margin:10px 0 0}
+@keyframes g-pop{0%{transform:scale(.7);opacity:0}70%{transform:scale(1.08)}100%{transform:scale(1);opacity:1}}@keyframes g-shake{25%{transform:translateX(-5px)}75%{transform:translateX(5px)}}
+@media(prefers-reduced-motion:reduce){.g-ok,.g-pop,.g-rank,.g-ch.ng{animation:none}.g-mode,.g-chb{transition:none}}
 [hidden]{display:none!important}</style>
 <script src="/study.js" defer></script>
 </head>
 <body>
-<header class="site"><div class="in"><a class="logo" href="/">ゼロから学ぶ貿易実務<small>貿易実務を無料で学ぶ</small></a><nav aria-label="サイト内"><a href="/course/" aria-current="page">講座</a><a href="/c/">模擬試験</a><a href="/glossary/">用語辞典</a><a href="/cards/">暗記カード</a></nav></div></header>
+<header class="site"><div class="in"><a class="logo" href="/">ゼロから学ぶ貿易実務<small>貿易実務を無料で学ぶ</small></a><nav aria-label="サイト内"><a href="/course/" aria-current="page">講座</a><a href="/quiz/">クイズ</a><a href="/c/">模擬試験</a><a href="/glossary/">用語辞典</a><a href="/cards/">暗記カード</a></nav></div></header>
 <main>
 <p class="crumb"><a href="https://seadice.win/">HOME</a> / <a href="/">ゼロから学ぶ貿易実務</a> / <a href="/course/">講座</a> / <a href="/course/">第3章 取引先探しと売買契約</a> / 引合いとオファー</p><span class="kicker">第3章 取引先探しと売買契約 ・ レッスン3-2</span>
 <h1>引合い・オファー・カウンターオファー。契約が成立するまで</h1>
@@ -104,6 +126,6 @@ footer.site{border-top:1px solid var(--line);padding:28px 16px;text-align:center
 </div>
 <details class="srcs"><summary>出典（4件）</summary><ol><li><a href="https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/emerging_rules_of_international_commercial_law_bilingual_english-japanese_selected_uncitral_texts.pdf" target="_blank" rel="noopener">UNCITRAL「これからの国際商取引法―UNCITRAL作成文書の条文対訳」8. 国際物品売買契約に関する国際連合条約（第11条、第14条〜第23条）</a></li><li><a href="https://biznavi.smrj.go.jp/6246/" target="_blank" rel="noopener">独立行政法人中小企業基盤整備機構 海外ビジネスナビ「どうして、輸出で成果があがらないのか？」（引合い・オファー・ビッド、ファームオファーとサブコンオファー）</a></li><li><a href="https://www.jetro.go.jp/world/qa/04A-011203.html" target="_blank" rel="noopener">ジェトロ「輸入における価格および取引条件の決定方法：日本」（貿易・投資相談Q&amp;A、契約書・注文書に明記する事項）</a></li><li><a href="https://laws.e-gov.go.jp/law/129AC0000000089" target="_blank" rel="noopener">e-Gov法令検索「民法」（第522条・第523条・第528条）</a></li></ol></details>
 </main>
-<footer class="site"><p><a href="/course/">ゼロから学ぶ貿易実務入門</a><a href="/c/">C級 模擬試験</a><a href="/glossary/">貿易用語辞典</a><a href="/review/">間違えた問題の復習</a><a href="/cards/">暗記カード</a><br><a href="/about/">このサイトについて</a><a href="/sources/">出典と検証の方法</a><a href="/disclaimer/">免責事項</a><a href="mailto:hi@seadice.win">お問い合わせ</a><br><a href="https://seadice.win/">運営: SEADICE</a></p><p class="other"><b>SEADICE STUDYの他の講座</b><a href="https://shinri.seadice.win/">ゼロから学ぶ心理学</a><a href="https://hanzaigaku.seadice.win/">ゼロから学ぶ犯罪学</a></p></footer>
+<footer class="site"><p><a href="/course/">ゼロから学ぶ貿易実務入門</a><a href="/c/">C級 模擬試験</a><a href="/glossary/">貿易用語辞典</a><a href="/quiz/">貿易実務クイズ</a><a href="/review/">間違えた問題の復習</a><a href="/cards/">暗記カード</a><br><a href="/about/">このサイトについて</a><a href="/sources/">出典と検証の方法</a><a href="/disclaimer/">免責事項</a><a href="mailto:hi@seadice.win">お問い合わせ</a><br><a href="https://seadice.win/">運営: SEADICE</a></p><p class="other"><b>SEADICE STUDYの他の講座</b><a href="https://shinri.seadice.win/">ゼロから学ぶ心理学</a><a href="https://hanzaigaku.seadice.win/">ゼロから学ぶ犯罪学</a><a href="https://hoikushi.seadice.win/">ゼロから学ぶ保育士</a></p></footer>
 </body>
 </html>

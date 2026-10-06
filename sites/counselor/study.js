@@ -31,7 +31,7 @@ if(nx)h+='<a class="btn" href="'+nx.querySelector('a').getAttribute('href')+'">�
 if(mk)h+='<a class="btn sub" href="/review/">間違えた問題を解き直す（'+mk+'問）</a>';r.innerHTML=h+'</div>';r.hidden=false})}
 /* 復習ページ */
 var rv=document.getElementById('redo');if(rv){var qs=$('.qz',rv),c=0;qs.forEach(function(q){if(S.miss[q.dataset.q]){q.hidden=false;c++}});
-var m=document.getElementById('redo-msg');m.textContent=!OK?'このブラウザでは記録を保存できないため、復習リストを使えません。各章のまとめテストで解き直せます。':(c?'解き直す問題は '+c+' 問です。正解した問題はリストから外れます。':'今は解き直す問題はありません。レッスンの確認問題で迷った問題が、ここに自動で集まります。');
+var m=document.getElementById('redo-msg');m.textContent=!OK?'このブラウザでは記録を保存できないため、復習リストを使えません。各章の章末テストで解き直せます。':(c?'解き直す問題は '+c+' 問です。正解した問題はリストから外れます。':'今は解き直す問題はありません。レッスンの確認問題で迷った問題が、ここに自動で集まります。');
 setupQuiz(rv)}
 /* 暗記カード（ライトナー方式: 間違えた語ほど早く出る） */
 var cl=document.getElementById('cards');if(cl){var ds=[].slice.call($('details[data-t]',cl)),fc=document.getElementById('fc'),t0=today(),Q=[],cur=null,cnt=0,IV=[1,2,4,8,16];
