@@ -31,7 +31,7 @@
 - [アウグスティヌスの時間論とは？「時間とは何か、問われなければ知っている」](https://tetsugaku.seadice.win/augustine-what-is-time/): 過去はもうなく、未来はまだない。時間は、心の中の記憶・注意・期待として存在する。アウグスティヌスはそれを「魂の広がり」と呼んだ。
 - [エピクテトスの「自分次第のもの」とは？ ストア派の心を乱さない考え方](https://tetsugaku.seadice.win/epictetus-dichotomy-of-control/): 判断や欲求は自分次第、体や財産や評判は自分次第ではない。人を乱すのは出来事そのものではなく、出来事についての判断だ。
 - [エピクロスの快楽主義とは？ 贅沢ではなく「心の平静」を求めた哲学](https://tetsugaku.seadice.win/epicurus-pleasure-ataraxia/): エピクロスの快楽は、体に苦痛がなく心が乱れない状態。欲求を見極め、質素と友情を大切にした。
-- [ヘラクレイトスの「同じ川に二度入ることはできない」とは？ 万物は流転するのか](https://tetsugaku.seadice.win/heraclitus-river-flux/): 有名な「同じ川に二度入れない」はプラトンの言い換え。断片では「同じ川に入る人に、違う水が流れる」。変化の中にある同一性が語られている。
+- [ヘラクレイトスの「同じ川に二度入ることはできない」とは？ 万物は流転するのか](https://tetsugaku.seadice.win/heraclitus-river-flux/): 有名な「同じ川に二度入れない」は、プラトンが伝えた言い方。本人の言葉と確実に言える断片では「同じ川に入る人に、違う水が流れる」。変化の中にある同一性が語られている。
 - [プラトンの「洞窟の比喩」とは？2400年色褪せない理由](https://tetsugaku.seadice.win/plato-allegory-of-the-cave/): 鎖につながれ影だけを見る人々。プラトンの洞窟の比喩と師ソクラテスの死との関係を解説します。
 - [ソクラテスの「無知の知」とは？なぜ今も引用される？](https://tetsugaku.seadice.win/socrates-know-nothing/): 「無知の知」はソクラテスの造語ではない。デルフォイの神託の逸話から、その真意と現代での使われ方を解説します。
 
@@ -99,4 +99,6 @@
 - このメディアについて: https://tetsugaku.seadice.win/about/
 - 出典と検証の方法: https://tetsugaku.seadice.win/sources/
 - 免責事項: https://tetsugaku.seadice.win/disclaimer/
+- 目的別ガイド: https://tetsugaku.seadice.win/guide/
+- 用語集: https://tetsugaku.seadice.win/glossary/
 - サイトマップ: https://tetsugaku.seadice.win/sitemap.xml

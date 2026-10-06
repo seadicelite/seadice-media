@@ -37,6 +37,15 @@ description: 哲学（哲学者・概念の入門百科）の記事ルール。/
 
 `media/tetsugaku-posts.json` の先頭に `{"slug","category"(設定のcategoriesのname),"type":"guide","date","title","summary"}` を追加する。
 
+## 目的別ガイド・用語集・照合済みへの追加（2026-10-06〜）
+
+読者は「名前を確認したい」「生き方に迷った」「テスト前」など目的を持って来る。新しい記事は一覧に足すだけでなく、目的の入口からも辿れるようにする。
+
+- `media/tetsugaku-guides.json`: 記事が当てはまるガイド（first-step / exam / how-to-live / right-and-wrong / ai-mind-science / work-society）の `slugs` に追加する。当てはまらなければ追加しない。
+- `media/tetsugaku-glossary.json`: 記事の中心概念が未収録なら1語追加する（`id`,`term`,`en`,`def`,`slugs`）。`def` は記事のFAQの答えと同じ内容にし、記事にない主張を足さない。五十音順の位置に入れる。
+- `media/tetsugaku-audited.json`: 公開前の出典照合（docs/quality/article.md「出典の正確さ」）を済ませたら `{"slug","date"}` を追加する。照合していない記事は追加しない。
+- 写真を `photo.py` で取るときは `--alt="写っている物を日本語で短く"` を付ける（英語の説明文のまま公開しない）。
+
 ## 写真のルール（カテゴリ単位のプール運用。umbra と同じ方式）
 
 - 画像は記事ごとに探さない。`media/tetsugaku-images.json` にカテゴリ単位（`c-ancient`/`c-modern`/`c-existential`/`c-ethics`/`c-eastern`/`c-contemporary`）で1枚ずつ登録し、`sites/tetsugaku/img/` に保存したプールを使い回す。

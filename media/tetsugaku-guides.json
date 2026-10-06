@@ -1,0 +1,21 @@
+{"title": "目的別ガイド", "lead": "「授業で出てきた名前を確認したい」「生き方に迷っている」「AIのニュースが気になる」。いまの目的から、読む順番つきで記事を選べます。",
+ "items": [
+  {"id": "first-step", "label": "はじめての哲学", "title": "はじめての哲学：まず読みたい8本", "lead": "哲学は名前だけ知っていて中身はあいまい、という人のための入口です。古代から現代まで、よく引用される言葉を時代順に並べました。上から順に読むと、哲学の大きな流れがつかめます。",
+   "points": ["上から順に読むと、古代ギリシャから20世紀までの流れがつかめます。", "どの記事も冒頭の「3行でわかる」だけで要点を押さえられます。", "有名な言葉には、本人が言っていない言い換えも混じっています。各記事でその違いも説明しています。"],
+   "slugs": ["socrates-know-nothing", "plato-allegory-of-the-cave", "aristotle-eudaimonia", "descartes-cogito", "kant-lying-categorical-imperative", "hegel-dialectic", "nietzsche-god-is-dead", "sartre-existence-precedes-essence"]},
+  {"id": "exam", "label": "テスト・レポート前に", "title": "倫理の授業・テストによく出る哲学者", "lead": "高校の倫理や大学の教養科目でよく出る人物・言葉をまとめました。キーワードを覚えるだけでなく、「何が言いたかったのか」を自分の言葉で説明できるようにするための記事です。",
+   "points": ["各記事の「3行でわかる」は、レポートの書き出しや見直しにも使えます。", "引用は原典の出典つきです。レポートでは記事ではなく原典を引用してください。", "「正反合」「無知の知」など、教科書の言い方と本人の言葉が違うものは記事内で注意しています。"],
+   "slugs": ["socrates-know-nothing", "plato-allegory-of-the-cave", "aristotle-eudaimonia", "descartes-cogito", "locke-tabula-rasa", "kant-lying-categorical-imperative", "hegel-dialectic", "utilitarianism-greatest-happiness", "mill-harm-principle", "kierkegaard-three-stages", "nietzsche-god-is-dead", "sartre-existence-precedes-essence", "confucius-ren", "mencius-human-nature-good", "xunzi-human-nature-bad", "laozi-wu-wei-ziran"]},
+  {"id": "how-to-live", "label": "生き方に迷ったとき", "title": "生き方に迷ったときに読む哲学", "lead": "生きる意味がわからない、変えられないことに悩み続けてしまう、幸せとは何かわからない。哲学者たちは、こうした問いに何千年も向き合ってきました。答えを押しつけるのではなく、考えるための手がかりを集めました。",
+   "points": ["哲学は悩みを消す方法ではなく、悩みを別の角度から見直すための道具です。", "同じ問いにも、哲学者によって正反対の答えがあります。合うものを探すつもりで読んでください。", "つらさが続くときは、哲学だけで抱え込まず、身近な人や相談窓口を頼ってください。"],
+   "slugs": ["epictetus-dichotomy-of-control", "epicurus-pleasure-ataraxia", "aristotle-eudaimonia", "camus-absurd-sisyphus", "sartre-existence-precedes-essence", "heidegger-being-toward-death", "kierkegaard-three-stages", "schopenhauer-will-pessimism", "nozick-experience-machine", "buddhism-impermanence", "laozi-wu-wei-ziran", "zhuangzi-butterfly-dream"]},
+  {"id": "right-and-wrong", "label": "善悪・正義を考える", "title": "善悪と正義を考えるための哲学", "lead": "多数のために少数を犠牲にしてよいのか、嘘は絶対にいけないのか、運で結果が変わったら責任も変わるのか。ニュースや身近な場面で答えに迷う問いを、哲学の代表的な考え方で整理します。",
+   "points": ["結果で判断する考え方（功利主義）と、ルールで判断する考え方（義務論）の違いが基本になります。", "トロッコ問題などの思考実験は、答えを当てるためでなく、自分が何を重視しているかに気づくためのものです。", "社会の仕組みを考える記事（ホッブズ・ルソー・ロールズ）も、同じ問いの延長にあります。"],
+   "slugs": ["trolley-problem-thought-experiment", "utilitarianism-greatest-happiness", "kant-lying-categorical-imperative", "mill-harm-principle", "moral-luck", "rawls-veil-of-ignorance", "hobbes-war-of-all-against-all", "rousseau-general-will", "arendt-banality-of-evil", "mencius-human-nature-good", "xunzi-human-nature-bad"]},
+  {"id": "ai-mind-science", "label": "AI・心・科学を考える", "title": "AI・心・科学を考えるための哲学", "lead": "AIは言葉を理解しているのか、心と体はどう関係するのか、科学はなぜ信頼できるのか。AIのニュースが増えた今あらためて注目されている問いを、哲学の古典的な議論から考えます。",
+   "points": ["「AIは理解しているか」という問いは、サールの「中国語の部屋」で40年以上前から議論されています。", "意識の問題は、デカルトの心身二元論からネーゲルのコウモリまでつながっています。", "科学と疑似科学の違いは、ポパーとクーンで見方が分かれます。"],
+   "slugs": ["searle-chinese-room", "nagel-what-is-it-like-to-be-a-bat", "descartes-mind-body-dualism", "nozick-experience-machine", "ship-of-theseus", "wittgenstein-language-games", "popper-falsifiability", "kuhn-paradigm-shift", "hume-problem-of-induction"]},
+  {"id": "work-society", "label": "仕事・社会のモヤモヤ", "title": "仕事と社会のモヤモヤを考える哲学", "lead": "働くことがなぜ苦しいのか、いつも誰かに見られている気がする、わかっているのに行動できない。仕事や人間関係で感じる違和感を、哲学者がどう言葉にしてきたかをまとめました。",
+   "points": ["マルクスの「疎外」は、働く意味を感じられない状態を説明する古典的な概念です。", "フーコーの「パノプティコン」は、見られているかもしれないことで人の行動が変わる仕組みを論じました。", "孔子や王陽明は、人との関わり方や、知ることと行うことの関係を説きました。"],
+   "slugs": ["marx-alienated-labour", "foucault-panopticon", "arendt-banality-of-evil", "beauvoir-becomes-a-woman", "confucius-ren", "wang-yangming-knowledge-action", "mill-harm-principle", "epictetus-dichotomy-of-control"]}
+ ]}

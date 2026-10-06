@@ -1,0 +1,360 @@
+[
+ {
+  "id": "aku-no-chinpusa",
+  "term": "悪の陳腐さ",
+  "en": "Banality of evil",
+  "def": "巨大な悪が、特別な悪意ではなく、自分の頭で考えない平凡な人によって行われうる、というアーレントの指摘です。",
+  "slugs": [
+   "arendt-banality-of-evil"
+  ]
+ },
+ {
+  "id": "ataraxia",
+  "term": "アタラクシア",
+  "en": "Ataraxia",
+  "def": "心が乱されていない、平静な状態のこと。エピクロスは、体の苦痛がないことと並んで、これを幸福の中身としました。",
+  "slugs": [
+   "epicurus-pleasure-ataraxia"
+  ]
+ },
+ {
+  "id": "ippan-ishi",
+  "term": "一般意志",
+  "en": "General will",
+  "def": "社会のメンバーが、自分個人の利益ではなく、共通の利益をめざして持つ意志のこと。ルソーの『社会契約論』の中心的な考えです。",
+  "slugs": [
+   "rousseau-general-will"
+  ]
+ },
+ {
+  "id": "eudaimonia",
+  "term": "エウダイモニア（幸福）",
+  "en": "Eudaimonia",
+  "def": "アリストテレスの言う幸福。快楽や「幸せな気分」と同じではなく、理性を働かせた徳のある活動を、生涯を通じて行うことで成り立つとされます。",
+  "slugs": [
+   "aristotle-eudaimonia"
+  ]
+ },
+ {
+  "id": "epoche",
+  "term": "エポケー（判断停止）",
+  "en": "Epoché",
+  "def": "世界があることを当然とする態度をいったんカッコに入れ、その判断を保留すること。世界の存在を否定するわけではありません。フッサールの現象学の方法です。",
+  "slugs": [
+   "husserl-phenomenology-epoche"
+  ]
+ },
+ {
+  "id": "kigai-genri",
+  "term": "危害原理",
+  "en": "Harm principle",
+  "def": "社会が個人の自由に干渉してよいのは、他人への危害を防ぐ場合だけだ、という原則。ミルが『自由論』で示しました。",
+  "slugs": [
+   "mill-harm-principle"
+  ]
+ },
+ {
+  "id": "kiekou-mondai",
+  "term": "帰納法の問題",
+  "en": "Problem of induction",
+  "def": "過去の経験から未来を予測する推論には、その根拠となる前提が必要なのに、その前提を正当化できない、という問題。ヒュームが論じました。",
+  "slugs": [
+   "hume-problem-of-induction",
+   "popper-falsifiability"
+  ]
+ },
+ {
+  "id": "kiritsu-kenryoku",
+  "term": "規律権力",
+  "en": "Disciplinary power",
+  "def": "監視、標準に照らした評価、試験などを通じて、人を管理し、従順な身体をつくり出す権力のこと。フーコーの言葉で、学校や工場、病院にも見られるとされます。",
+  "slugs": [
+   "foucault-panopticon"
+  ]
+ },
+ {
+  "id": "ku",
+  "term": "空（くう）",
+  "en": "Śūnyatā",
+  "def": "あらゆるものは、他に頼らずそれ自体で存在する固定した本質（自性）を持たない、という考え。「何もない」という意味ではありません。龍樹が説きました。",
+  "slugs": [
+   "nagarjuna-emptiness"
+  ]
+ },
+ {
+  "id": "experience-machine",
+  "term": "経験機械",
+  "en": "Experience machine",
+  "def": "望むどんな体験でも本物と区別がつかない形で味わわせてくれる架空の機械。ノージックが「幸福は快い体験だけでできているのか」を問うために考えました。",
+  "slugs": [
+   "nozick-experience-machine"
+  ]
+ },
+ {
+  "id": "gengo-game",
+  "term": "言語ゲーム",
+  "en": "Language-game",
+  "def": "言葉を話すことは生活の中の活動の一部だ、ということを強調するための言葉。多くの場合、言葉の意味はその言語の中での使い方にあるとされます。ウィトゲンシュタインが『哲学探究』で使いました。",
+  "slugs": [
+   "wittgenstein-language-games"
+  ]
+ },
+ {
+  "id": "kochou",
+  "term": "胡蝶の夢",
+  "en": "Butterfly dream",
+  "def": "荘子が蝶になった夢を見て、目覚めたあと、自分が蝶の夢を見ていたのか、蝶が自分の夢を見ているのか分からなくなったという寓話です。",
+  "slugs": [
+   "zhuangzi-butterfly-dream"
+  ]
+ },
+ {
+  "id": "control-principle",
+  "term": "コントロール原理",
+  "en": "Control principle",
+  "def": "人が道徳的に評価されるのは、自分でコントロールできる要因に依存している範囲に限られる、という原理。道徳的運の議論の出発点です。",
+  "slugs": [
+   "moral-luck"
+  ]
+ },
+ {
+  "id": "shikou-sei",
+  "term": "志向性",
+  "en": "Intentionality",
+  "def": "意識は常に何かについての意識であり、何かへと向かっている、という意識の構造のこと。現象学の分析の中心です。",
+  "slugs": [
+   "husserl-phenomenology-epoche"
+  ]
+ },
+ {
+  "id": "shitan",
+  "term": "四端",
+  "en": "Four sprouts",
+  "def": "思いやりの心、恥じて嫌う心、敬い譲る心、善し悪しを見分ける心の四つ。孟子は、それぞれを仁・義・礼・智の徳の芽としました。",
+  "slugs": [
+   "mencius-human-nature-good"
+  ]
+ },
+ {
+  "id": "shi-eno-sonzai",
+  "term": "死への存在",
+  "en": "Being-toward-death",
+  "def": "人間は常に自分の死という可能性に向き合って存在している、というハイデガーの考え。死を意識することが、本来の自分の生き方につながるとしました。",
+  "slugs": [
+   "heidegger-being-toward-death"
+  ]
+ },
+ {
+  "id": "shiyou",
+  "term": "止揚（アウフヘーベン）",
+  "en": "Aufheben",
+  "def": "前の考えを否定しつつ、新しい考えの中に保存すること。ドイツ語の aufheben が「否定する」と「保存する」の両方の意味を持つことに由来します。",
+  "slugs": [
+   "hegel-dialectic"
+  ]
+ },
+ {
+  "id": "shishin-nigenron",
+  "term": "心身二元論",
+  "en": "Mind-body dualism",
+  "def": "心と体は、まったく異なる二つの実体だとする考え方。デカルトは心を「考えるもの」、体を「広がりを持つもの」としました。両者がどう影響し合うのかという「心身問題」が残ります。",
+  "slugs": [
+   "descartes-mind-body-dualism",
+   "nagel-what-is-it-like-to-be-a-bat"
+  ]
+ },
+ {
+  "id": "jin",
+  "term": "仁",
+  "en": "Ren",
+  "def": "他者を思いやり、人として善くあろうとする心と行いのこと。孔子の中心的な考えで、『論語』では相手に合わせてさまざまな言葉で説明されています。",
+  "slugs": [
+   "confucius-ren"
+  ]
+ },
+ {
+  "id": "seiakusetsu",
+  "term": "性悪説",
+  "en": "Human nature is bad",
+  "def": "人の本性はそのままでは争いを生むものであり、善は生まれつきではなく努力で身につけるものだ、という荀子の考え。「人は悪だ」と決めつける思想ではありません。",
+  "slugs": [
+   "xunzi-human-nature-bad",
+   "mencius-human-nature-good"
+  ]
+ },
+ {
+  "id": "seizensetsu",
+  "term": "性善説",
+  "en": "Human nature is good",
+  "def": "人の本性はもともと善であり、善の芽が備わっている、という孟子の考え。芽は育てることで徳になるとしました。",
+  "slugs": [
+   "mencius-human-nature-good",
+   "xunzi-human-nature-bad"
+  ]
+ },
+ {
+  "id": "sogai",
+  "term": "疎外",
+  "en": "Alienation",
+  "def": "人が自分でつくり出したものや自分の活動が、自分から切り離され、よそよそしいものになってしまう状態。マルクスは生産物・活動・他者・人間の本質からの四つの疎外を挙げました。",
+  "slugs": [
+   "marx-alienated-labour"
+  ]
+ },
+ {
+  "id": "tabula-rasa",
+  "term": "タブラ・ラサ",
+  "en": "Tabula rasa",
+  "def": "人の心は生まれたとき白紙のようなもので、すべての観念は経験から書き込まれる、というロックの考えを表す言葉です。",
+  "slugs": [
+   "locke-tabula-rasa"
+  ]
+ },
+ {
+  "id": "das-man",
+  "term": "ダス・マン（ひと）",
+  "en": "Das Man",
+  "def": "世間一般の誰でもない誰かのこと。日常の私たちは「ひと」として振る舞い、世間の決まりに従って暮らしているとハイデガーは考えました。",
+  "slugs": [
+   "heidegger-being-toward-death"
+  ]
+ },
+ {
+  "id": "chikou-gouitsu",
+  "term": "知行合一",
+  "en": "Unity of knowledge and action",
+  "def": "本当に知ることと行うことは一つであり、知っていて行わないのは、まだ本当には知らないのだ、という王陽明の考えです。",
+  "slugs": [
+   "wang-yangming-knowledge-action"
+  ]
+ },
+ {
+  "id": "tsuujou-kagaku",
+  "term": "通常科学",
+  "en": "Normal science",
+  "def": "共有されたパラダイムの中で、その型に沿って問題を解いていく「パズル解き」のような科学の営み。クーンの言葉です。",
+  "slugs": [
+   "kuhn-paradigm-shift"
+  ]
+ },
+ {
+  "id": "tsuuyaku-fukanou",
+  "term": "通約不可能性",
+  "en": "Incommensurability",
+  "def": "新旧のパラダイムが共通の物差しを持たず、どちらが優れているかを単純に比べられないこと。クーンが論じました。",
+  "slugs": [
+   "kuhn-paradigm-shift"
+  ]
+ },
+ {
+  "id": "dotokuteki-un",
+  "term": "道徳的運",
+  "en": "Moral luck",
+  "def": "本人がコントロールできない運によって、その人への道徳的な評価が変わってしまうこと。ウィリアムズとネーゲルが問題として提起しました。",
+  "slugs": [
+   "moral-luck"
+  ]
+ },
+ {
+  "id": "hanshou-kanousei",
+  "term": "反証可能性",
+  "en": "Falsifiability",
+  "def": "ある理論が、観察や実験によって「間違っている」と示される可能性を持っていること。ポパーはこれを科学の条件としました。",
+  "slugs": [
+   "popper-falsifiability",
+   "kuhn-paradigm-shift"
+  ]
+ },
+ {
+  "id": "panopticon",
+  "term": "パノプティコン",
+  "en": "Panopticon",
+  "def": "中央の監視塔から、周囲の独房のすべての囚人を見渡せるように設計された監獄。ベンサムが考案し、フーコーが近代の権力を考える手がかりにしました。",
+  "slugs": [
+   "foucault-panopticon",
+   "utilitarianism-greatest-happiness"
+  ]
+ },
+ {
+  "id": "paradigm-shift",
+  "term": "パラダイムシフト",
+  "en": "Paradigm shift",
+  "def": "ある分野で共有されていた問いの立て方や解き方の枠組みが、別の枠組みへと入れ替わること。クーンが『科学革命の構造』で論じました。",
+  "slugs": [
+   "kuhn-paradigm-shift"
+  ]
+ },
+ {
+  "id": "fujouri",
+  "term": "不条理",
+  "en": "The absurd",
+  "def": "意味を求める人間と、何も答えてくれない世界との間のずれのこと。カミュは、それから逃げずに反抗し続ける道を説きました。",
+  "slugs": [
+   "camus-absurd-sisyphus"
+  ]
+ },
+ {
+  "id": "dialectic",
+  "term": "弁証法（ヘーゲル）",
+  "en": "Dialectic",
+  "def": "ある考えが自分の限界から反対の考えに移り、両方を取り込んだより高い考えへ進む、という思考の動き。「正・反・合」はヘーゲル自身の言葉ではありません。",
+  "slugs": [
+   "hegel-dialectic"
+  ]
+ },
+ {
+  "id": "mui",
+  "term": "無為",
+  "en": "Wu wei",
+  "def": "完全な不作為ではなく、自我や野心に駆られた強引な行動を控え、物事の自然な流れに逆らわない形で行動すること。老子・荘子の思想の中心にある考えです。",
+  "slugs": [
+   "laozi-wu-wei-ziran"
+  ]
+ },
+ {
+  "id": "muga",
+  "term": "無我",
+  "en": "Anattā",
+  "def": "人は体・感覚・知覚・意志・意識という五つの集まりからなり、変わらない「私」という実体はない、という仏教の考え方です。",
+  "slugs": [
+   "buddhism-impermanence",
+   "nagarjuna-emptiness"
+  ]
+ },
+ {
+  "id": "mujou",
+  "term": "無常",
+  "en": "Impermanence",
+  "def": "条件によって生じたものはすべて移り変わり、同じままではいられない、という仏教の考え方。無常・苦・無我は存在の三つの特徴とされます。",
+  "slugs": [
+   "buddhism-impermanence"
+  ]
+ },
+ {
+  "id": "muchi-no-chi",
+  "term": "無知の知",
+  "en": "Socratic ignorance",
+  "def": "自分が知らないことを「知らない」と自覚している状態。「何も知らないと自覚すること」と言われがちですが、ソクラテスの言い方は「知らないことを知っているつもりにならない」です。この呼び名自体はソクラテスの造語ではありません。",
+  "slugs": [
+   "socrates-know-nothing"
+  ]
+ },
+ {
+  "id": "veil-of-ignorance",
+  "term": "無知のヴェール",
+  "en": "Veil of ignorance",
+  "def": "自分の立場や才能を知らない状態で社会のルールを選ぶとしたら何を選ぶか、を考える思考実験。ロールズが『正義論』で示しました。",
+  "slugs": [
+   "rawls-veil-of-ignorance"
+  ]
+ },
+ {
+  "id": "logos",
+  "term": "ロゴス",
+  "en": "Logos",
+  "def": "世界を貫く理や秩序のこと。ヘラクレイトスは、ロゴスに耳を傾ければ、すべては一つだと認めるのが賢明だと述べました。",
+  "slugs": [
+   "heraclitus-river-flux"
+  ]
+ }
+]

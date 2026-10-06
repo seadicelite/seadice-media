@@ -171,10 +171,15 @@ def badges(cfg):
         tag = (f'<span class="checked" style="font-size:12px;color:var(--accent);border:1px solid var(--accent);border-radius:999px;padding:3px 10px">'
                f'出典照合済み{"（" + date + "）" if date else ""}</span>')
         i = t.find('<div class="evidence">')
-        if i < 0:
-            continue
-        j = t.find("</div>", i)
-        t = t[:j] + tag + t[j:]
+        if i >= 0:
+            j = t.find("</div>", i)
+            t = t[:j] + tag + t[j:]
+        else:  # 「わかっている度」が無いメディアは、読了時間の行に並べる
+            i = t.find('<p class="meta">')
+            if i < 0:
+                continue
+            j = t.find("</p>", i)
+            t = t[:j] + " " + tag + t[j:]
         f.write_text(t)
         n += 1
     return n

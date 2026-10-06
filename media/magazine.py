@@ -71,12 +71,15 @@ def render(cfg, posts, cats, images, types, img_url, card):
                   f'<b>{E(n)}</b><span>{E(desc)}</span><i>{cnt}本</i></a>')
 
     # ランキング + 速報
-    ranked = sorted([p for p in posts if p.get("rank")], key=lambda p: p["rank"])[:5] or posts[:5]
+    # 実データがない欄は出さない（空の「準備中」や、新着を「人気」と呼ぶ表示は読者を誤解させる）
+    ranked = sorted([p for p in posts if p.get("rank")], key=lambda p: p["rank"])[:5]
     rank = "".join(f'<li><div><a href="/{p["slug"]}/">{E(p["title"])}</a><small>{E(p["category"])}</small></div></li>' for p in ranked)
     news = [p for p in posts if p.get("type") == "news"][:8]
     nrows = "".join(f'<a class="nrow" style="--c:{cat(p)["color"]}" href="/{p["slug"]}/"><span class="t">{E(p["title"])}<span class="c">{E(p["category"])}</span></span></a>' for p in news)
-    two = (f'<div class="two"><section><div class="sechead"><h2>研究速報</h2><span>NEWS</span></div>{nrows or "<p class=empty>準備中です。</p>"}</section>'
-           f'<section><div class="sechead"><h2>人気ランキング</h2><span>TOP 5</span></div><ol class="rank">{rank}</ol></section></div>')
+    parts = ([f'<section><div class="sechead"><h2>研究速報</h2><span>NEWS</span></div>{nrows}</section>'] if news else []) + \
+            ([f'<section><div class="sechead"><h2>人気ランキング</h2><span>TOP 5</span></div><ol class="rank">{rank}</ol></section>'] if ranked else [])
+    two = (f'<div class="two">{"".join(parts)}</div>' if len(parts) == 2 else
+           f'<div style="margin-bottom:44px">{parts[0]}</div>' if parts else "")
 
     # 深掘り(カード)・用語(ミニ)・まとめ
     guides = [p for p in posts if p.get("type") == "guide"][:6]
