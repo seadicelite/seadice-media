@@ -936,5 +936,139 @@
    }
   ],
   "date": "2026-10-06"
+ },
+ {
+  "id": "keicho",
+  "term": "傾聴",
+  "en": "Active listening",
+  "field": "人間関係とコミュニケーション",
+  "def": "傾聴とは、相手が何を語り表現しようとしているのかを、注意深く集中して聴くことで、相手に積極的にかかわる行為であることから積極的傾聴とも呼ばれます。",
+  "sources": [
+   {
+    "text": "厚生労働省「こころの耳」部下の話を聴けていますか－傾聴のすすめ－「1 傾聴の基本的態度」",
+    "url": "https://kokoro.mhlw.go.jp/linecare_listen/ls001/"
+   },
+   {
+    "text": "厚生労働省「こころの耳」話を「聴く」〜積極的傾聴とは〜",
+    "url": "https://kokoro.mhlw.go.jp/listen/listen001/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kyokanteki-rikai",
+  "term": "共感的理解",
+  "en": "Empathic understanding",
+  "field": "人間関係とコミュニケーション",
+  "def": "共感的理解とは、相手の話を相手の立場に立ち、相手の気持ちに共感しながら理解しようとすることで、ロジャーズが示した聴き手の3つの態度の一つです。",
+  "sources": [
+   {
+    "text": "厚生労働省「こころの耳」話を「聴く」〜積極的傾聴とは〜",
+    "url": "https://kokoro.mhlw.go.jp/listen/listen001/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "mujoken-kotei",
+  "term": "無条件の肯定的関心",
+  "en": "Unconditional positive regard",
+  "field": "人間関係とコミュニケーション",
+  "def": "無条件の肯定的関心とは、相手の話を善悪や好き嫌いの評価を入れずに聴き、なぜそう考えるようになったのか、その背景に肯定的な関心を持つことで、ロジャーズが示した聴き手の態度の一つです。",
+  "sources": [
+   {
+    "text": "厚生労働省「こころの耳」話を「聴く」〜積極的傾聴とは〜",
+    "url": "https://kokoro.mhlw.go.jp/listen/listen001/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "jiko-icchi",
+  "term": "自己一致",
+  "en": "Congruence",
+  "field": "人間関係とコミュニケーション",
+  "def": "自己一致とは、聴き手が相手にも自分にも真摯な態度でいることで、話がわかりにくいときはそのままにせず聴き直して確かめることも含まれ、ロジャーズが示した聴き手の態度の一つです。",
+  "sources": [
+   {
+    "text": "厚生労働省「こころの耳」話を「聴く」〜積極的傾聴とは〜",
+    "url": "https://kokoro.mhlw.go.jp/listen/listen001/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "higengo",
+  "term": "非言語コミュニケーション",
+  "en": "Nonverbal communication",
+  "field": "人間関係とコミュニケーション",
+  "def": "非言語コミュニケーションとは、表情・視線・姿勢・動作・声の調子や、人との距離、触れることなど、言葉以外の手段で行うコミュニケーションのことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「こころの耳」部下の話を聴けていますか－傾聴のすすめ－「3 傾聴のポイント」",
+    "url": "https://kokoro.mhlw.go.jp/linecare_listen/ls003/"
+   },
+   {
+    "text": "Kobayashi M, et al. BMJ Open, 2023（PMC9990644）",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9990644/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "personal-space",
+  "term": "パーソナルスペース",
+  "en": "Personal space",
+  "field": "人間関係とコミュニケーション",
+  "def": "パーソナルスペースとは、人が他人との間に保とうとする空間のことで、保つ距離によって決まり、その感じ方は文化によって大きく異なります。",
+  "sources": [
+   {
+    "text": "Gonçalves FGA, et al. Nursing team proxemic mapping in the hemotherapy space. Rev Esc Enferm USP, 2025（PMC11773683）",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11773683/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shitsugosho",
+  "term": "失語症",
+  "en": "Aphasia",
+  "field": "人間関係とコミュニケーション",
+  "def": "失語症とは、脳の病気によって起こる言葉の障害で、話す・聞く・読む・書くといった言葉を使ったコミュニケーションが難しくなるものです。",
+  "sources": [
+   {
+    "text": "札幌市（作成：一般社団法人北海道言語聴覚士会）「失語症の人とのコミュニケーション支援ガイドブック」",
+    "url": "https://www.city.sapporo.jp/shogaifukushi/communication/documents/communicationguide.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "chuto-shicchosha",
+  "term": "中途失聴者",
+  "en": "Person with acquired hearing loss",
+  "field": "人間関係とコミュニケーション",
+  "def": "中途失聴者とは、人生の途中で聞こえなくなった人のことで、多くは手話ができず、聞こえなくても話せる人が多いため誤解されやすいとされています。",
+  "sources": [
+   {
+    "text": "内閣府「障害のある当事者からのメッセージ（知ってほしいこと）」の集計結果「3．聴覚・言語障害」",
+    "url": "https://www8.cao.go.jp/shougai/kou-kei/toujisha/siryo03.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shisetsu-service-keikaku",
+  "term": "施設サービス計画",
+  "en": "Facility service plan",
+  "field": "人間関係とコミュニケーション",
+  "def": "施設サービス計画とは、介護老人福祉施設で介護支援専門員が入所者ごとに作る計画で、総合的な援助の方針、生活全般の解決すべき課題、サービスの目標と達成時期、サービスの内容などを記載し、完結の日から2年間保存されるものです（指定介護老人福祉施設の人員、設備及び運営に関する基準第12条・第37条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「指定介護老人福祉施設の人員、設備及び運営に関する基準」",
+    "url": "https://laws.e-gov.go.jp/law/411M50000100039"
+   }
+  ],
+  "date": "2026-10-06"
  }
 ]
