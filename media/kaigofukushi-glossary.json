@@ -1070,5 +1070,193 @@
    }
   ],
   "date": "2026-10-06"
+ },
+ {
+  "id": "body-mechanics",
+  "term": "ボディメカニクス",
+  "en": "Body mechanics",
+  "field": "生活支援技術",
+  "def": "ボディメカニクスとは、重心・支持基底面・てこ・モーメント・摩擦・慣性などの力学の原理を、人の体の構造に取り入れて応用する技術のことです。",
+  "sources": [
+   {
+    "text": "永田紀美子・青柳佳子「『ボディメカニクス』の習得状況からみた腰痛予防教育の現状と課題」目白大学短期大学部研究紀要 第50号（2014年）",
+    "url": "https://mejiro.repo.nii.ac.jp/records/670"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "lumbago-prevention-guideline",
+  "term": "職場における腰痛予防対策指針",
+  "en": "Guidelines for prevention of low back pain in the workplace",
+  "field": "生活支援技術",
+  "def": "職場における腰痛予防対策指針とは、厚生労働省が示す腰痛予防対策の指針で、平成25年6月の改訂により福祉・医療分野などの介護・看護作業全般が対象となり、介護作業では原則として人力による人の抱上げを行わせないとしています。",
+  "sources": [
+   {
+    "text": "厚生労働省「職場における腰痛予防対策指針」（平成25年6月18日改訂、別添）",
+    "url": "https://www.mhlw.go.jp/stf/houdou/2r98520000034et4-att/2r98520000034pjn_1.pdf"
+   },
+   {
+    "text": "厚生労働省 三重労働局「『職場における腰痛予防対策指針』の改訂について」",
+    "url": "https://jsite.mhlw.go.jp/mie-roudoukyoku/hourei_seido_tetsuzuki/anzen_eisei/hourei_seido/_118516.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "aspiration",
+  "term": "誤嚥",
+  "en": "Aspiration",
+  "field": "生活支援技術",
+  "def": "誤嚥とは、飲み込む力やせきをする力が弱くなったときなどに、食べ物や飲み物、口の中の汚れや細菌、胃から逆流した液などが誤って気管に入ることです。",
+  "sources": [
+   {
+    "text": "兵庫県「誤嚥性肺炎予防のための要介護者への口腔ケア定着推進事業」（2025年9月9日更新）",
+    "url": "https://web.pref.hyogo.lg.jp/kf17/haienyobou.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "aspiration-pneumonia",
+  "term": "誤嚥性肺炎",
+  "en": "Aspiration pneumonia",
+  "field": "生活支援技術",
+  "def": "誤嚥性肺炎とは、口の中の汚れや細菌、胃から逆流した液などが誤って気管に入り、肺に細菌が入り込んで炎症を起こして発症する肺炎のことです。",
+  "sources": [
+   {
+    "text": "兵庫県「誤嚥性肺炎予防のための要介護者への口腔ケア定着推進事業」（2025年9月9日更新）",
+    "url": "https://web.pref.hyogo.lg.jp/kf17/haienyobou.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "jdd2021",
+  "term": "嚥下調整食分類2021",
+  "en": "Japanese Dysphagia Diet 2021",
+  "field": "生活支援技術",
+  "def": "嚥下調整食分類2021とは、日本摂食嚥下リハビリテーション学会が示す、飲み込みにくい人向けの食事ととろみの段階分類で、食事はコード0j・0t・1j・2-1・2-2・3・4に分かれ、2013年の初版を2021年に改訂したものです。",
+  "sources": [
+   {
+    "text": "日本摂食嚥下リハビリテーション学会「日本摂食嚥下リハビリテーション学会嚥下調整食分類2021」",
+    "url": "https://www.jsdr.or.jp/doc/classification2021.html"
+   },
+   {
+    "text": "京都府「嚥下調整食学会分類2021 早見表」",
+    "url": "https://www.pref.kyoto.jp/yamashiro/ho-minami/documents/gakkaibunnrui.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "seishiki",
+  "term": "清拭",
+  "en": "Bed bath",
+  "field": "生活支援技術",
+  "def": "清拭とは、体をふいて清潔にすることで、介護老人福祉施設の運営基準は、1週間に2回以上の入浴または清拭を求め、やむを得ない場合には清拭をもって入浴の機会の提供に代えられるとしています。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「指定介護老人福祉施設の人員、設備及び運営に関する基準」（第13条・第43条）",
+    "url": "https://laws.e-gov.go.jp/law/411M50000100039"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shower-carrier",
+  "term": "シャワーキャリー",
+  "en": "Shower carrier",
+  "field": "生活支援技術",
+  "def": "シャワーキャリーとは、入浴の場面で使う車輪の付いた入浴用のいすのことで、座面が回転するものやリクライニングできるものがあり、すべりやすく狭い浴室で使うため操作手順を守ることが大切です。",
+  "sources": [
+   {
+    "text": "公益財団法人テクノエイド協会「福祉用具ヒヤリハット 研修教材」Case93",
+    "url": "https://www.techno-aids.or.jp/hiyari/teaching_inst_print.php?id=93"
+   },
+   {
+    "text": "公益財団法人テクノエイド協会「福祉用具ヒヤリハット 研修教材」Case99",
+    "url": "https://www.techno-aids.or.jp/hiyari/teaching_inst_print.php?id=99"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "psychological-abuse",
+  "term": "心理的虐待",
+  "en": "Psychological abuse",
+  "field": "生活支援技術",
+  "def": "心理的虐待とは、脅しや侮辱などの言語や威圧的な態度、無視、嫌がらせ等によって精神的苦痛を与えることで、排泄の失敗などを嘲笑して恥をかかせることや、介助の都合でトイレに行けるのにおむつをあてることが例に挙げられています。",
+  "sources": [
+   {
+    "text": "警察庁「高齢者虐待事案への対応に係る留意事項について（通達）」別添（厚生労働省老健局「市町村・都道府県における高齢者虐待への対応と養護者支援について」令和7年3月からの抜粋）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001601197.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "portable-toilet",
+  "term": "ポータブルトイレ",
+  "en": "Portable toilet",
+  "field": "生活支援技術",
+  "def": "ポータブルトイレとは、ベッドのそばなどに置いて使う移動できる腰掛け式のトイレのことで、ひじ掛けの有無など形や機能が異なるため、本人の起居動作や移乗能力に合ったものを選ぶことが大切です。",
+  "sources": [
+   {
+    "text": "公益財団法人テクノエイド協会「福祉用具ヒヤリハット 研修教材」Case343",
+    "url": "https://www.techno-aids.or.jp/hiyari/teaching_inst_print.php?id=343"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "seiyo",
+  "term": "整容",
+  "en": "Grooming",
+  "field": "生活支援技術",
+  "def": "整容とは、身なりを整えることで、介護老人福祉施設の運営基準は、離床や着替えとあわせて整容等の介護を適切に行うこと（ユニット型では入居者が行う整容等の行為を支援すること）を求めています。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「指定介護老人福祉施設の人員、設備及び運営に関する基準」（第13条・第43条）",
+    "url": "https://laws.e-gov.go.jp/law/411M50000100039"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "acp-jinsei-kaigi",
+  "term": "人生会議（ACP）",
+  "en": "Advance care planning",
+  "field": "生活支援技術",
+  "def": "人生会議（ACP）とは、もしものときのために、望む医療やケアについて前もって考え、家族等や医療・ケアチームと繰り返し話し合い、共有する取組のことで、厚生労働省がACP（アドバンス・ケア・プランニング）の愛称として定めたものです。",
+  "sources": [
+   {
+    "text": "厚生労働省「『人生会議』してみませんか」",
+    "url": "https://www.mhlw.go.jp/stf/newpage_02783.html"
+   },
+   {
+    "text": "人生の最終段階における医療の普及・啓発の在り方に関する検討会「人生の最終段階における医療・ケアの決定プロセスに関するガイドライン 解説編」（平成30年3月改訂）",
+    "url": "https://www.mhlw.go.jp/file/04-Houdouhappyou-10802000-Iseikyoku-Shidouka/0000197702.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "medical-care-team",
+  "term": "医療・ケアチーム",
+  "en": "Medical and care team",
+  "field": "生活支援技術",
+  "def": "医療・ケアチームとは、人生の最終段階にある本人の医療・ケアに関わる多専門職種の医療・介護従事者で構成されるチームのことで、在宅や施設では介護支援専門員や介護福祉士等の介護従事者が加わることも想定されています。",
+  "sources": [
+   {
+    "text": "厚生労働省「人生の最終段階における医療・ケアの決定プロセスに関するガイドライン」（平成30年3月改訂）",
+    "url": "https://www.mhlw.go.jp/file/04-Houdouhappyou-10802000-Iseikyoku-Shidouka/0000197701.pdf"
+   },
+   {
+    "text": "同 解説編（平成30年3月改訂）",
+    "url": "https://www.mhlw.go.jp/file/04-Houdouhappyou-10802000-Iseikyoku-Shidouka/0000197702.pdf"
+   }
+  ],
+  "date": "2026-10-06"
  }
 ]
