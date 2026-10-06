@@ -2054,5 +2054,119 @@
    }
   ],
   "date": "2026-10-06"
+ },
+ {
+  "id": "yuko-kyujin-bairitsu",
+  "term": "有効求人倍率",
+  "en": "Ratio of job offers to applicants",
+  "field": "保育の現場の課題",
+  "def": "有効求人倍率とは、仕事を探す人1人あたりに求人がいくつあるかを示す数字のことで、保育士は令和7年10月に3.10倍と、全職種平均の1.20倍を上回っています。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育政策関係資料集」（令和8年4月）（保育人材の確保、保育士の登録者数と従事者数の推移、処遇改善）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/f924be75/20260416_policies_hoiku_228.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "senzai-hoikushi",
+  "term": "潜在保育士",
+  "en": "Inactive qualified nursery teachers",
+  "field": "保育の現場の課題",
+  "def": "潜在保育士とは、保育士の資格を持ちながら保育の現場で働いていない人のことで、国は再就職や職場復帰の支援を進めています。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育政策関係資料集」（令和8年4月）（保育人材の確保、保育士の登録者数と従事者数の推移、処遇改善）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/f924be75/20260416_policies_hoiku_228.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hoikusho-gyakutai",
+  "term": "保育所等における虐待",
+  "en": "Abuse by staff at childcare facilities",
+  "field": "保育の現場の課題",
+  "def": "保育所等における虐待とは、保育所等の職員が通う子どもに行う身体的虐待・性的虐待・ネグレクト・心理的虐待のことで、令和7年10月1日から見つけた人に通報義務があります（児童福祉法第33条の10・第33条の12）。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所等の職員による虐待に関する通報義務等について」（対象施設・事業、施行日、ガイドラインの概要）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/9bfb8838/20250908_policies_hoiku_154.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「児童福祉法」（第33条の10〜第33条の12・第33条の16）",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "gyakutai-boshi-guideline",
+  "term": "虐待防止ガイドライン（保育所等）",
+  "en": "Guidelines on preventing abuse at childcare facilities",
+  "field": "保育の現場の課題",
+  "def": "虐待防止ガイドライン（保育所等）とは、「保育所や幼稚園等における虐待の防止及び発生時の対応等に関するガイドライン」のことで、令和5年5月に策定され、令和7年8月に改訂されました。",
+  "sources": [
+   {
+    "text": "こども家庭庁・文部科学省「保育所や幼稚園等における虐待の防止及び発生時の対応等に関するガイドライン」（令和7年8月改訂）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/c3c02bee/20250908_policies_hoiku_153.pdf"
+   },
+   {
+    "text": "こども家庭庁「保育所等の職員による虐待に関する通報義務等について」（対象施設・事業、施行日、ガイドラインの概要）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/9bfb8838/20250908_policies_hoiku_154.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "anzen-keikaku",
+  "term": "安全計画",
+  "en": "Safety plan",
+  "field": "保育の現場の課題",
+  "def": "安全計画とは、児童福祉施設が設備の安全点検、施設外の活動を含む安全指導、職員の研修や訓練などについて定める計画のことで、保育所は令和5年4月から策定が義務になりました（基準第6条の3）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉施設の設備及び運営に関する基準」（第6条の3・第6条の4・附則）",
+    "url": "https://laws.e-gov.go.jp/law/323M40000100063"
+   },
+   {
+    "text": "厚生労働省子ども家庭局保育課 事務連絡「保育所等における安全計画の策定に関する留意事項等について」（令和4年12月15日）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/d7e254d2/20230401_policies_hoiku_10.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hiyari-hatto-hokoku",
+  "term": "ヒヤリハット報告",
+  "en": "Near-miss report",
+  "field": "保育の現場の課題",
+  "def": "ヒヤリハット報告とは、重大事故が起きるおそれがあった場面に関わった職員が作成して施設に出す報告のことで、施設は要因を分析して事故防止対策に生かします。",
+  "sources": [
+   {
+    "text": "「教育・保育施設等における事故防止及び事故発生時の対応のためのガイドライン【事故防止のための取組み】～施設・事業者向け～」（平成28年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/03f45df9-97e1-4016-b0c3-8496712699a3/39b6fd36/20230607_policies_child-safety_effort_guideline_02.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "okizari-boshi-sochi",
+  "term": "置き去り防止の安全装置",
+  "en": "Safety device to prevent children being left in vehicles",
+  "field": "保育の現場の課題",
+  "def": "置き去り防止の安全装置とは、送迎を目的とした車に備える、車内の子どもの見落としを防ぐブザーなどの装置のことで、日常的に送迎する保育所は降車時の所在確認に使います（基準第6条の4第2項）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉施設の設備及び運営に関する基準」（第6条の3・第6条の4・附則）",
+    "url": "https://laws.e-gov.go.jp/law/323M40000100063"
+   },
+   {
+    "text": "こども家庭庁「送迎用バスの安全対策」",
+    "url": "https://www.cfa.go.jp/policies/child-safety/effort/anzen_kanri/"
+   }
+  ],
+  "date": "2026-10-06"
  }
 ]
