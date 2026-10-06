@@ -1426,5 +1426,201 @@
    }
   ],
   "date": "2026-10-06"
+ },
+ {
+  "id": "hierarchy-of-needs",
+  "term": "欲求階層説",
+  "en": "Maslow's hierarchy of needs",
+  "field": "こころとからだのしくみ",
+  "def": "欲求階層説とは、心理学者マズローが1943年に示した、人の欲求を生理的欲求・安全・愛情と所属・自尊・自己実現の階層に並べた理論で、主観的で現実を説明しきれないという批判もあります。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』10.1 Motivation",
+    "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "self-actualization",
+  "term": "自己実現",
+  "en": "Self-actualization",
+  "field": "こころとからだのしくみ",
+  "def": "自己実現とは、マズローの欲求階層説で頂上に置かれる、自分の持つ可能性を十分に発揮しようとする欲求のことです。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』10.1 Motivation",
+    "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "defense-mechanisms",
+  "term": "防衛機制",
+  "en": "Defense mechanisms",
+  "field": "こころとからだのしくみ",
+  "def": "防衛機制とは、フロイトが唱えた、不安を減らして心を守るために無意識のうちに働くしくみのことで、抑圧・反動形成・退行・投影などがあります。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』11.2 Freud and the Psychodynamic Perspective",
+    "url": "https://openstax.org/books/psychology-2e/pages/11-2-freud-and-the-psychodynamic-perspective"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "five-stages-of-swallowing",
+  "term": "摂食嚥下の5期",
+  "en": "Five stages of eating and swallowing",
+  "field": "こころとからだのしくみ",
+  "def": "摂食嚥下の5期とは、食べ物を認識してから口を経由して胃に送り込むまでの一連の動作を、先行期・準備期・口腔期・咽頭期・食道期の5段階に分けたものです。",
+  "sources": [
+   {
+    "text": "公益財団法人長寿科学振興財団 健康長寿ネット「摂食・嚥下障害とは」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/sesshokushougai/about.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "bolus",
+  "term": "食塊",
+  "en": "Bolus",
+  "field": "こころとからだのしくみ",
+  "def": "食塊とは、準備期にかみ砕いた食べ物を唾液と混ぜてつくる、まとまりがあって柔らかく、咽頭を通過しやすいひとかたまりの食物のことです。",
+  "sources": [
+   {
+    "text": "公益財団法人長寿科学振興財団 健康長寿ネット「摂食・嚥下障害とは」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/sesshokushougai/about.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "swallowing-reflex",
+  "term": "嚥下反射",
+  "en": "Swallowing reflex",
+  "field": "こころとからだのしくみ",
+  "def": "嚥下反射とは、咽頭期に食塊を咽頭から食道の入り口へ送り込む反射のことで、このとき声門が閉じて気道を守り、誤嚥を防ぎます。",
+  "sources": [
+   {
+    "text": "公益財団法人長寿科学振興財団 健康長寿ネット「摂食・嚥下障害とは」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/sesshokushougai/about.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "urethral-sphincter",
+  "term": "尿道括約筋",
+  "en": "Urethral sphincter",
+  "field": "こころとからだのしくみ",
+  "def": "尿道括約筋とは、膀胱の出口を囲む筋肉のことで、ふだんは収縮して尿道を閉じて尿をため、排尿のときにゆるみます。",
+  "sources": [
+   {
+    "text": "MSDマニュアル家庭版「排尿のコントロール」",
+    "url": "https://www.msdmanuals.com/ja-jp/home/05-腎臓と尿路の病気/排尿の障害/排尿のコントロール"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "anal-sphincter",
+  "term": "肛門括約筋",
+  "en": "Anal sphincter",
+  "field": "こころとからだのしくみ",
+  "def": "肛門括約筋とは、肛門を囲む輪状の筋肉のことで、排便のときまで肛門を閉じています。",
+  "sources": [
+   {
+    "text": "MSDマニュアル家庭版「直腸と肛門」",
+    "url": "https://www.msdmanuals.com/ja-jp/home/03-消化器系の病気/消化器系の生物学/直腸と肛門"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "constipation",
+  "term": "便秘",
+  "en": "Constipation",
+  "field": "こころとからだのしくみ",
+  "def": "便秘とは、排便しにくい、排便回数が少ない、便が硬い、または排便後も直腸が空になっていない感覚（残便感）がある状態のことです。",
+  "sources": [
+   {
+    "text": "MSDマニュアル家庭版「成人の便秘」",
+    "url": "https://www.msdmanuals.com/ja-jp/home/03-消化器系の病気/消化器系の病気の症状/成人の便秘"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "rem-sleep",
+  "term": "レム睡眠",
+  "en": "REM sleep",
+  "field": "こころとからだのしくみ",
+  "def": "レム睡眠とは、眠っている間に眼球が素早く動く（Rapid Eye Movement）睡眠のことで、全身の筋肉がゆるみ、夢をよく見ます。",
+  "sources": [
+   {
+    "text": "厚生労働省 e-ヘルスネット「眠りのメカニズム」",
+    "url": "https://kennet.mhlw.go.jp/information/information/heart/k-01-002.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "non-rem-sleep",
+  "term": "ノンレム睡眠",
+  "en": "Non-REM sleep",
+  "field": "こころとからだのしくみ",
+  "def": "ノンレム睡眠とは、大脳を休める睡眠のことで、脳波活動が低下し、睡眠の深さによって段階に分けられます。",
+  "sources": [
+   {
+    "text": "厚生労働省 e-ヘルスネット「眠りのメカニズム」",
+    "url": "https://kennet.mhlw.go.jp/information/information/heart/k-01-002.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "time-in-bed",
+  "term": "床上時間",
+  "en": "Time in bed",
+  "field": "こころとからだのしくみ",
+  "def": "床上時間とは、実際に眠っているかどうかに関係なく寝床に入っている時間のことで、厚生労働省の睡眠ガイド2023は高齢者に8時間以上にならないことを目安にするよう勧めています。",
+  "sources": [
+   {
+    "text": "厚生労働省「健康づくりのための睡眠ガイド2023」",
+    "url": "https://www.mhlw.go.jp/content/001305530.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kubler-ross-five-stages",
+  "term": "キューブラー・ロスの5段階",
+  "en": "Kübler-Ross five stages of grief",
+  "field": "こころとからだのしくみ",
+  "def": "キューブラー・ロスの5段階とは、キューブラー・ロスが1969年に示した、人が自分の死を受け入れていく過程を否認・怒り・取引・抑うつ・受容の5段階で表したモデルで、順番は人によって異なり、すべての段階を経験しない人もいます。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』9.4 Death and Dying",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-4-death-and-dying"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "death-rattle",
+  "term": "死前喘鳴",
+  "en": "Death rattle",
+  "field": "こころとからだのしくみ",
+  "def": "死前喘鳴とは、死が近づいたときに、気管の分泌物やのどの筋肉の弛緩によって呼吸の音が大きくなることです。",
+  "sources": [
+   {
+    "text": "MSDマニュアル家庭版「死が近づいたとき」",
+    "url": "https://www.msdmanuals.com/ja-jp/home/01-知っておきたい基礎知識/死と死期/死が近づいたとき"
+   }
+  ],
+  "date": "2026-10-06"
  }
 ]

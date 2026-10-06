@@ -3,7 +3,7 @@
 > ゼロから学ぶ介護福祉士は、介護福祉士の仕事と国家試験の11科目群を無料で独学できる学習サイトです。尊厳と自立、介護保険、生活支援技術、認知症、障害、医療的ケア、介護過程までを全12章の講座と用語辞典で学べます。登録不要。
 
 ゼロから学ぶ介護福祉士はSEADICE(https://seadice.win/)が運営する、介護福祉士の仕事と介護福祉士国家試験を無料で独学できる学習サイトです。登録不要・無料。
-受験資格のルートと試験のしくみ・尊厳と自立・介護保険などの社会の理解・コミュニケーション・生活支援技術・こころとからだのしくみ・発達と老化・認知症・障害・医療的ケア・介護過程・介護の現場の課題を学ぶ無料講座「ゼロから学ぶ介護福祉士入門」（全12章）と、介護用語辞典（96語）を掲載しています。
+受験資格のルートと試験のしくみ・尊厳と自立・介護保険などの社会の理解・コミュニケーション・生活支援技術・こころとからだのしくみ・発達と老化・認知症・障害・医療的ケア・介護過程・介護の現場の課題を学ぶ無料講座「ゼロから学ぶ介護福祉士入門」（全12章）と、介護用語辞典（110語）を掲載しています。
 本文は社会福祉士及び介護福祉士法・介護保険法などの法令、厚生労働省などの一次情報をもとに日本語で独自に書いており、各ページに出典があります。確認問題はオリジナルで、過去問は使っていません。試験を実施する団体とは関係ありません。
 
 ## 主要ページ
@@ -46,7 +46,12 @@
   - 5-4 排泄の介助とは？自尊心を守り、トイレでの自立を支える: https://kaigofukushi.seadice.win/course/toileting-assistance-and-dignity/
   - 5-5 着替えと身じたくの介助とは？できることを生かす支え方: https://kaigofukushi.seadice.win/course/dressing-and-grooming-assistance/
   - 5-6 人生の最終段階の介護とは？人生会議（ACP）と家族への支援: https://kaigofukushi.seadice.win/course/end-of-life-care-and-acp/
-- 第6章 こころとからだのしくみ: 介護に必要な人体のしくみ。食べる・出す・眠る・動くのしくみと、こころの働き、死を迎える過程。（準備中）
+- 第6章 こころとからだのしくみ: 介護に必要な人体のしくみ。食べる・出す・眠る・動くのしくみと、こころの働き、死を迎える過程。
+  - 6-1 こころのしくみとは？欲求・感情と、不安から心を守るはたらき: https://kaigofukushi.seadice.win/course/needs-emotions-and-defense-mechanisms/
+  - 6-2 食べて飲み込むしくみとは？摂食嚥下の5期と、気道を守るはたらき: https://kaigofukushi.seadice.win/course/eating-and-swallowing-mechanism/
+  - 6-3 出すしくみとは？尿と便をためて、出すまでのからだの働き: https://kaigofukushi.seadice.win/course/urination-and-defecation-mechanism/
+  - 6-4 眠るしくみとは？レム睡眠・ノンレム睡眠と、年齢による変化: https://kaigofukushi.seadice.win/course/sleep-mechanism-and-aging/
+  - 6-5 死を迎えるときのからだとこころとは？5段階モデルと最期の変化: https://kaigofukushi.seadice.win/course/dying-process-body-and-mind/
 - 第7章 発達と老化の理解: 人の一生の発達と、老化によるからだとこころの変化、高齢者に多い病気、フレイルと介護予防。
   - 7-1 人の一生の発達とは？老年期に向き合う課題: https://kaigofukushi.seadice.win/course/lifespan-development-and-old-age/
   - 7-2 老化でからだとこころはどう変わる？衰える力と保たれる力: https://kaigofukushi.seadice.win/course/aging-changes-body-and-mind/
