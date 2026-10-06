@@ -3,7 +3,7 @@
 > ゼロから学ぶ介護福祉士は、介護福祉士の仕事と国家試験の11科目群を無料で独学できる学習サイトです。尊厳と自立、介護保険、生活支援技術、認知症、障害、医療的ケア、介護過程までを全12章の講座と用語辞典で学べます。登録不要。
 
 ゼロから学ぶ介護福祉士はSEADICE(https://seadice.win/)が運営する、介護福祉士の仕事と介護福祉士国家試験を無料で独学できる学習サイトです。登録不要・無料。
-受験資格のルートと試験のしくみ・尊厳と自立・介護保険などの社会の理解・コミュニケーション・生活支援技術・こころとからだのしくみ・発達と老化・認知症・障害・医療的ケア・介護過程・介護の現場の課題を学ぶ無料講座「ゼロから学ぶ介護福祉士入門」（全12章）と、介護用語辞典（135語）を掲載しています。
+受験資格のルートと試験のしくみ・尊厳と自立・介護保険などの社会の理解・コミュニケーション・生活支援技術・こころとからだのしくみ・発達と老化・認知症・障害・医療的ケア・介護過程・介護の現場の課題を学ぶ無料講座「ゼロから学ぶ介護福祉士入門」（全12章）と、介護用語辞典（160語）を掲載しています。
 本文は社会福祉士及び介護福祉士法・介護保険法などの法令、厚生労働省などの一次情報をもとに日本語で独自に書いており、各ページに出典があります。確認問題はオリジナルで、過去問は使っていません。試験を実施する団体とは関係ありません。
 
 ## 主要ページ
@@ -68,9 +68,19 @@
   - 9-2 身体障害とは？障害の種類と身体障害者手帳、支援のポイント: https://kaigofukushi.seadice.win/course/physical-disability-and-support/
   - 9-3 知的障害・精神障害・発達障害とは？定義と手帳、支援のポイント: https://kaigofukushi.seadice.win/course/intellectual-mental-developmental-disabilities/
   - 9-4 障害の受容とは？心の揺れに寄り添う支援と、家族への支援: https://kaigofukushi.seadice.win/course/disability-acceptance-and-family-support/
-- 第10章 医療的ケア: 介護福祉士が医師の指示のもとで行う喀痰吸引と経管栄養。法律上の位置づけ、安全な実施と感染予防、緊急時の対応。（準備中）
-- 第11章 介護過程: 情報を集めて課題をとらえ、計画を立て、実施して評価する介護過程。アセスメントの方法と、チームで計画を共有するしかた。（準備中）
-- 第12章 介護の現場の課題: 介護人材の不足と働き方、介護離職と家族介護者の支援、施設での虐待を防ぐしくみ。介護福祉士が働き続けられる職場とは。（準備中）
+- 第10章 医療的ケア: 介護福祉士が医師の指示のもとで行う喀痰吸引と経管栄養。法律上の位置づけ、安全な実施と感染予防、緊急時の対応。
+  - 10-1 医療的ケアとは？介護福祉士が行える喀痰吸引等: https://kaigofukushi.seadice.win/course/what-is-medical-care/
+  - 10-2 喀痰吸引の基礎とは？たんがたまる理由と安全のポイント: https://kaigofukushi.seadice.win/course/suctioning-basics-and-safety/
+  - 10-3 経管栄養の基礎とは？逆流と誤嚥を防ぐ安全のポイント: https://kaigofukushi.seadice.win/course/tube-feeding-basics-and-safety/
+- 第11章 介護過程: 情報を集めて課題をとらえ、計画を立て、実施して評価する介護過程。アセスメントの方法と、チームで計画を共有するしかた。
+  - 11-1 介護過程とは？なぜ計画的に介護するのか: https://kaigofukushi.seadice.win/course/what-is-care-process/
+  - 11-2 アセスメントとは？情報を集め、生活課題をとらえる: https://kaigofukushi.seadice.win/course/care-assessment/
+  - 11-3 介護計画の立案・実施・評価とは？目標を立てて振り返る: https://kaigofukushi.seadice.win/course/care-plan-implementation-evaluation/
+  - 11-4 事例で考える介護過程。食堂に来なくなったFさん: https://kaigofukushi.seadice.win/course/care-process-case-study/
+- 第12章 介護の現場の課題: 介護人材の不足と働き方、介護離職と家族介護者の支援、施設での虐待を防ぐしくみ。介護福祉士が働き続けられる職場とは。
+  - 12-1 介護人材の不足はなぜ起きるのか？必要数と処遇改善: https://kaigofukushi.seadice.win/course/care-workforce-shortage/
+  - 12-2 家族介護者を支えるには？介護休業・介護休暇と相談先: https://kaigofukushi.seadice.win/course/family-caregivers-and-work/
+  - 12-3 施設での虐待を防ぐには？通報義務と職場の取り組み: https://kaigofukushi.seadice.win/course/preventing-facility-abuse/
 
 ## SEADICE STUDYの他の講座
 
