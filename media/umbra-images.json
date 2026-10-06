@@ -1542,5 +1542,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fan%2C_folding_%28AM_3122-1%29.jpg/500px-Fan%2C_folding_%28AM_3122-1%29.jpg",
   "og": "https://umbra.seadice.win/img/downward-glance-head-tilt-attraction-signal.jpg",
   "local": true
+ },
+ "mate-poaching-attraction-research": {
+  "file": "File:A Cinematic Rose in Two-Strip Technicolor.jpg",
+  "src": "/img/mate-poaching-attraction-research.jpg",
+  "src640": "/img/mate-poaching-attraction-research-sm.jpg",
+  "w": 960,
+  "h": 408,
+  "alt": "Digging deep within the bushes, you find a beautiful rose blooming in solitude. This one is worthy of a close-up for all to see.",
+  "artist": "SavidgeMichael",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_Cinematic_Rose_in_Two-Strip_Technicolor.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/A_Cinematic_Rose_in_Two-Strip_Technicolor.jpg/960px-A_Cinematic_Rose_in_Two-Strip_Technicolor.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/A_Cinematic_Rose_in_Two-Strip_Technicolor.jpg/500px-A_Cinematic_Rose_in_Two-Strip_Technicolor.jpg",
+  "og": "https://umbra.seadice.win/img/mate-poaching-attraction-research.jpg",
+  "local": true
  }
 }
