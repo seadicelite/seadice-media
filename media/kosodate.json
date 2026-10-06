@@ -219,6 +219,10 @@
   },
   "extraNav": [
     {
+      "label": "スクリーンタイム判定",
+      "path": "/screen-time-check/"
+    },
+    {
       "label": "年齢別ガイド",
       "path": "/guide/"
     },
@@ -317,6 +321,12 @@
         "href": "/avoid/"
       }
     ],
-    "latest": 4
+    "latest": 4,
+    "tool": {
+      "kicker": "新しいツール",
+      "label": "スクリーンタイム判定：スクショを選ぶだけ",
+      "desc": "年齢と、スマホのスクリーンタイムの画面を入れると、WHOの目安と研究に照らして今日からできることを表示します。",
+      "href": "/screen-time-check/"
+    }
   }
 }
