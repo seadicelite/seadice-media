@@ -628,5 +628,83 @@
    }
   ],
   "date": "2026-10-06"
+ },
+ {
+  "id": "icf",
+  "term": "ICF（国際生活機能分類）",
+  "en": "International Classification of Functioning, Disability and Health",
+  "field": "人間の尊厳と自立",
+  "def": "ICF（国際生活機能分類）とは、2001年5月の世界保健機関（WHO）総会で採択された人の生活機能と障害の分類で、心身機能・身体構造、活動、参加と、環境因子・個人因子の背景因子が影響し合うととらえます。",
+  "sources": [
+   {
+    "text": "厚生労働省「「国際生活機能分類−国際障害分類改訂版−」（日本語版）の厚生労働省ホームページ掲載について」",
+    "url": "https://www.mhlw.go.jp/houdou/2002/08/h0805-1.html"
+   },
+   {
+    "text": "World Health Organization「International Classification of Functioning, Disability and Health (ICF)」",
+    "url": "https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "rinri-koryo",
+  "term": "日本介護福祉士会倫理綱領",
+  "en": "Code of ethics of the Japan Association of Certified Care Workers",
+  "field": "人間の尊厳と自立",
+  "def": "日本介護福祉士会倫理綱領とは、1995年11月17日に宣言された介護福祉の専門職としての約束で、利用者本位・自立支援、プライバシーの保護、積極的な連携・協力、利用者ニーズの代弁など7つの項目を掲げています。",
+  "sources": [
+   {
+    "text": "日本介護福祉士会「倫理綱領」",
+    "url": "https://www.jaccw.or.jp/about/rinri/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kinkyu-yamuwoenai",
+  "term": "緊急やむを得ない場合",
+  "en": "Cases of unavoidable emergency",
+  "field": "人間の尊厳と自立",
+  "def": "緊急やむを得ない場合とは、身体拘束が例外的に認められうる場合のことで、厚生労働省の手引きは、切迫性・非代替性・一時性の3つの要件をすべて満たし、組織で慎重に確認する場合に限るとしています。",
+  "sources": [
+   {
+    "text": "厚生労働省「介護施設・事業所等で働く方々への身体拘束廃止・防止の手引き」（令和6年3月）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001248430.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「指定介護老人福祉施設の人員、設備及び運営に関する基準」",
+    "url": "https://laws.e-gov.go.jp/law/411M50000100039"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hiyari-hatto",
+  "term": "ヒヤリ・ハット",
+  "en": "Near miss",
+  "field": "人間の尊厳と自立",
+  "def": "ヒヤリ・ハットとは、事故には至らなかったものの、ヒヤリとしたりハッとしたりしたできごとのことで、国のガイドラインは、報告して施設全体で振り返り、事故の未然防止に生かすことを求めています。",
+  "sources": [
+   {
+    "text": "厚生労働省老健局「介護保険施設等における事故予防及び事故発生時の対応に関するガイドライン」（令和7年11月）",
+    "url": "https://www.mhlw.go.jp/content/001569590.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hyojun-yobosaku",
+  "term": "標準予防策",
+  "en": "Standard precautions",
+  "field": "人間の尊厳と自立",
+  "def": "標準予防策とは、感染症の有無に関わらず、すべての人の血液、体液、汗を除く分泌物、排泄物、損傷した皮膚、粘膜などを感染の可能性があるとみなして対応する方法で、スタンダード・プリコーションともいいます。",
+  "sources": [
+   {
+    "text": "厚生労働省老健局「介護現場における感染対策の手引き 第3版」（令和5年9月）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001149870.pdf"
+   }
+  ],
+  "date": "2026-10-06"
  }
 ]
