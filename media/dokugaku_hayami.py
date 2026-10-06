@@ -36,6 +36,18 @@ def item(x):
             f'<a href="/{x["slug"]}/">記事を読む：{E(posts[x["slug"]]["title"])}</a></li>')
 
 
+def app_block(slug):
+    """記事・ツールの末尾に置くアプリ紹介。media/dokugaku.json の appPromos（App Store公開済みのアプリだけ載せる）から選ぶ"""
+    a = next((a for a in cfg.get("appPromos", []) if slug in a["slugs"]), None)
+    if not a:
+        return ""
+    return (f'<!--app--><aside class="app-promo" style="margin:28px 0;padding:16px 18px;border:1px solid var(--border);border-radius:14px;background:var(--card)" aria-label="関連アプリ">'
+            f'<p style="font-size:12px;color:var(--muted);margin:0 0 4px">続けたい人向けのアプリ（{E(a["platform"])}）</p>'
+            f'<p style="font-size:17px;font-weight:800;margin:0 0 6px">{E(a["name"])}</p>'
+            f'<p style="font-size:14px;line-height:1.75;margin:0 0 12px">{E(a["desc"])}</p>'
+            f'<a href="{E(a["url"])}" rel="noopener" style="display:inline-block;padding:10px 16px;border-radius:10px;background:var(--accent);color:var(--bg);font-weight:800;font-size:14px;text-decoration:none">App Storeで見る</a></aside><!--/app-->\n')
+
+
 used = [c for c in cats.values() if any(posts[x["slug"]]["category"] == c["name"] for x in D)]
 chips = '<button type="button" class="hc on" data-f="" aria-pressed="true">すべて</button>' + "".join(
     f'<button type="button" class="hc" data-f="{c["id"]}" aria-pressed="false">{E(c["name"])}</button>' for c in used)
@@ -108,7 +120,7 @@ faq_page = {"path": "faq", "title": "独学・勉強法のよくある質問", "
             "body": f'<p>独学と勉強法のよくある質問に、研究でわかったことから答えます。答えはそれぞれの記事（論文などの出典を確認済み）の内容です。くわしい根拠は各記事で読めます。</p><p><a href="/hayami/" style="color:var(--link);font-weight:700">勉強法の効く・効かない早見表も見る</a></p>'
                     + f'<script type="application/ld+json">{json.dumps(faq2, ensure_ascii=False).replace("</", chr(60) + chr(92) + "/")}</script>' + secs,
             "css": ".fq{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 16px;margin:10px 0}.fq summary{cursor:pointer;font-weight:700;font-size:15px;line-height:1.6}.fq p{font-size:15px;line-height:1.85;margin:10px 0 6px}.fq a{font-size:14px;color:var(--link)}"}
-(ROOT / "media/dokugaku-pages.json").write_text(json.dumps([page, faq_page] + TOOL_PAGES, ensure_ascii=False, indent=2) + "\n")
+(ROOT / "media/dokugaku-pages.json").write_text(json.dumps([page, faq_page] + [dict(tp, body=tp["body"].replace('<div class="sources">', app_block(tp["path"]) + '<div class="sources">', 1)) for tp in TOOL_PAGES], ensure_ascii=False, indent=2) + "\n")
 
 # 各記事の末尾(出典の直前)に、早見表の該当項目へのリンクを差し込む。再実行しても1つだけになる
 BLOCK = re.compile(r"<!--hayami-->.*?<!--/hayami-->\n?", re.S)
@@ -124,4 +136,14 @@ for x in D:
            f'<span style="font-size:13px;color:var(--muted)">ほかの勉強法も{len(D)}種類、研究で「効く・条件しだい・当てにならない」に分けています。</span></p><!--/hayami-->\n')
     f.write_text(t[:k] + blk + t[k:])
     n += 1
+# アプリ紹介を差し込む（早見表リンクと同じく、再実行しても1つだけ）
+APP = re.compile(r"<!--app-->.*?<!--/app-->\n?", re.S)
+for slug in posts:
+    f = ROOT / f"sites/dokugaku/{slug}/index.html"
+    t = APP.sub("", f.read_text())
+    blk = app_block(slug)
+    k = t.find('<div class="sources">')
+    if blk and k >= 0:
+        t = t[:k] + blk + t[k:]
+    f.write_text(t)
 print("ok", len(D), "items,", n, "articles linked")

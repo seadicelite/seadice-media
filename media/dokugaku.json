@@ -136,5 +136,19 @@
       "path": "/glossary/"
     }
   ],
-  "a11yFix": true
+  "a11yFix": true,
+  "appPromos": [
+    {
+      "name": "独学スケジュールメーカー",
+      "platform": "iPhone・iPad",
+      "url": "https://apps.apple.com/jp/app/id6813728815",
+      "desc": "参考書の目次を撮ると、AIが章立てを読み取り、開始日と期限から無理のない学習スケジュールを組みます。無料・広告なし。",
+      "slugs": [
+        "planning-fallacy-study-plans",
+        "goal-setting-high-or-small-steps",
+        "implementation-intentions-if-then-study",
+        "review-timing"
+      ]
+    }
+  ]
 }
