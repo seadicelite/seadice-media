@@ -1998,5 +1998,61 @@
    }
   ],
   "date": "2026-10-06"
+ },
+ {
+  "id": "hikiutai",
+  "term": "弾き歌い",
+  "en": "Singing while playing",
+  "field": "基本",
+  "def": "弾き歌いとは、ピアノやギターで伴奏を弾きながら歌うことで、保育士試験の音楽の実技では、幼児に歌って聴かせることを想定して課題曲2曲を弾き歌いします。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会「実技試験（前期）概要」",
+    "url": "https://www.hoyokyo.or.jp/exam/guidance/practicalexam1.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "yochien-menkyo-menjo",
+  "term": "幼稚園教諭免許状所有者の免除",
+  "en": "Exemption for kindergarten teacher license holders",
+  "field": "基本",
+  "def": "幼稚園教諭免許状所有者の免除とは、幼稚園教諭免許状（臨時免許を除く）をもつ人が免除申請をすると、保育士試験の保育の心理学・教育原理・実技試験が免除になるしくみのことです。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会「幼稚園教諭免許状所有者の免除について」",
+    "url": "https://www.hoyokyo.or.jp/exam/exemption/Howto-qualify_kinder.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ryoiki-hyogen",
+  "term": "領域「表現」",
+  "en": "Area of expression",
+  "field": "保育原理",
+  "def": "領域「表現」とは、保育所保育指針の5領域の1つで、感じたことや考えたことを自分なりに表現することを通して、豊かな感性や表現する力を養い、創造性を豊かにする領域のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ryoiki-kotoba",
+  "term": "領域「言葉」",
+  "en": "Area of language",
+  "field": "保育原理",
+  "def": "領域「言葉」とは、保育所保育指針の5領域の1つで、経験したことや考えたことを自分なりの言葉で表現し、相手の話す言葉を聞こうとする意欲や態度、言葉で表現する力を養う領域のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
  }
 ]
