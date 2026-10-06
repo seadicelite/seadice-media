@@ -491,5 +491,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Papierkanten_--_2020_--_9535.jpg/500px-Papierkanten_--_2020_--_9535.jpg",
   "og": "https://dokugaku.seadice.win/img/goal-setting-high-or-small-steps-og.jpg",
   "local": true
+ },
+ "tip-of-the-tongue-forgetting": {
+  "file": "File:Compact Oxford English Dictionary 2.jpg",
+  "src": "/img/tip-of-the-tongue-forgetting.jpg",
+  "src640": "/img/tip-of-the-tongue-forgetting-sm.jpg",
+  "w": 960,
+  "h": 657,
+  "alt": "A view inside the Compact Oxford English Dictionary, showing how the content of four pages of the full sized edition are duplicated on one p",
+  "artist": "Cullen328",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Compact_Oxford_English_Dictionary_2.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Compact_Oxford_English_Dictionary_2.jpg/960px-Compact_Oxford_English_Dictionary_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Compact_Oxford_English_Dictionary_2.jpg/500px-Compact_Oxford_English_Dictionary_2.jpg",
+  "og": "https://dokugaku.seadice.win/img/tip-of-the-tongue-forgetting.jpg",
+  "local": true
  }
 }

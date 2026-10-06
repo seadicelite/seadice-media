@@ -34,6 +34,7 @@
 - [思い出す練習（テスト効果）は、読み返すより覚えられるのか](https://dokugaku.seadice.win/retrieval-practice-vs-rereading/): 読み返すより本を閉じて思い出す方が1週間後に残る。答え合わせと書き出しで効果が大きくなる
 - [寝る前の勉強は記憶に残りやすいのか。睡眠と記憶の研究でわかったこと](https://dokugaku.seadice.win/sleep-before-study-memory/): 学んだあとに眠ると忘れにくい。夜に覚えて朝に復習すると、6か月後も多く残った
 - [間をあけて復習すると忘れにくいのはなぜ？分散学習の研究でわかったこと](https://dokugaku.seadice.win/spaced-review-why-it-works/): 同じ復習時間でも日をあけると忘れにくい。約1,350人の研究で正答64%増、最適な間隔は使う日から逆算
+- [思い出すときの「ど忘れ」はなぜ起きるのか。のどまで出かかる現象の研究](https://dokugaku.seadice.win/tip-of-the-tongue-forgetting/): ど忘れは意味はわかるのに音が出ない状態。長く粘るほど同じ単語で繰り返し、思い出せると繰り返しにくい
 
 ### 勉強法
 
