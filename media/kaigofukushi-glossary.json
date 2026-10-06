@@ -1622,5 +1622,207 @@
    }
   ],
   "date": "2026-10-06"
+ },
+ {
+  "id": "mci",
+  "term": "軽度認知障害（MCI）",
+  "en": "Mild cognitive impairment",
+  "field": "認知症の理解",
+  "def": "軽度認知障害（MCI）とは、もの忘れなどの軽い認知機能の障害はあるものの、日常生活は自立しているため、認知症とは診断されない状態のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「認知症および軽度認知障害（MCI）の高齢者数と有病率の将来推計」",
+    "url": "https://www.mhlw.go.jp/content/001279920.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "seiriteki-monowasure",
+  "term": "生理的なもの忘れ",
+  "en": "Age-related forgetfulness",
+  "field": "認知症の理解",
+  "def": "生理的なもの忘れとは、年齢相応に起こるもの忘れのことで、人の名前が出てこないなど体験の一部を忘れるものの、忘れた自覚があり、日常生活に支障はありません。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「もの忘れ」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/ninchishou/monowasure.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "alzheimer-gata-ninchisho",
+  "term": "アルツハイマー型認知症",
+  "en": "Alzheimer's disease dementia",
+  "field": "認知症の理解",
+  "def": "アルツハイマー型認知症とは、脳に異常なたんぱく質がたまり、記憶に関わる海馬から萎縮が始まる認知症のことで、認知症の原因として最も多く、半数以上を占めます。",
+  "sources": [
+   {
+    "text": "国立長寿医療研究センター「認知症の原因」",
+    "url": "https://www.ncgg.go.jp/dementia/cause/"
+   },
+   {
+    "text": "健康長寿ネット「アルツハイマー病」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/ninchishou/alzheimer.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "lewy-shotai-gata-ninchisho",
+  "term": "レビー小体型認知症",
+  "en": "Dementia with Lewy bodies",
+  "field": "認知症の理解",
+  "def": "レビー小体型認知症とは、レビー小体という異常なたんぱく質が脳に現れる認知症のことで、実際にはないものが見える幻視、パーキンソン症状、症状の波が特徴です。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「レビー小体型認知症」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/ninchishou/lewy.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "jakunensei-ninchisho",
+  "term": "若年性認知症",
+  "en": "Early-onset dementia",
+  "field": "認知症の理解",
+  "def": "若年性認知症とは、65歳未満で発症した認知症のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省 中国四国厚生局「若年性認知症支援コーディネーター」",
+    "url": "https://kouseikyoku.mhlw.go.jp/chugokushikoku/chiiki/jyakunenn.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "chukaku-shojo",
+  "term": "中核症状",
+  "en": "Core symptoms of dementia",
+  "field": "認知症の理解",
+  "def": "中核症状とは、認知症で脳の細胞が死ぬなど脳の働きが低下することによって直接起こる、記憶障害、見当識障害、理解・判断力の低下、実行機能障害、失語、失行・失認などの認知機能の障害のことです。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「認知症の中核症状」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/ninchishou/chukaku.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "bpsd",
+  "term": "行動・心理症状（BPSD）",
+  "en": "Behavioral and psychological symptoms of dementia",
+  "field": "認知症の理解",
+  "def": "行動・心理症状（BPSD）とは、認知症の中核症状に本人の性格や環境、体調などが影響して現れる、妄想・抑うつ・興奮・不眠・幻覚などの症状のことで、対応は環境調整やケアの変更などの非薬物的な対応が第一選択です。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「認知症の中核症状」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/ninchishou/chukaku.html"
+   },
+   {
+    "text": "厚生労働省「かかりつけ医・認知症サポート医のためのBPSDに対応する向精神薬使用ガイドライン（第3版）」",
+    "url": "https://www.mhlw.go.jp/content/001518446.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kentoshiki-shogai",
+  "term": "見当識障害",
+  "en": "Disorientation",
+  "field": "認知症の理解",
+  "def": "見当識障害とは、今がいつで、ここがどこか、自分と周りの人との関係はどうかといった、自分が置かれている状況がわからなくなる障害のことで、認知症の中核症状の1つです。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「認知症の中核症状」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/ninchishou/chukaku.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "person-centred-care",
+  "term": "パーソン・センタード・ケア",
+  "en": "Person-centred care",
+  "field": "認知症の理解",
+  "def": "パーソン・センタード・ケアとは、認知症の人を一人の「人」として尊重し、その人の立場に立って考え、ケアを行おうとする考え方のことで、1980年代末の英国でトム・キットウッドが提唱しました。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「パーソン・センタード・ケア」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/ninchishou/person-care.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ishi-kettei-shien",
+  "term": "意思決定支援",
+  "en": "Supported decision-making",
+  "field": "認知症の理解",
+  "def": "意思決定支援とは、認知症になっても、その有する能力を最大限生かして、日常生活や社会生活に関して自らの意思に基づいた生活を送れるようにするために行う支援のことで、本人の視点に立って行われます。",
+  "sources": [
+   {
+    "text": "厚生労働省「認知症の人の日常生活・社会生活における意思決定支援ガイドライン（第2版）」",
+    "url": "https://www.mhlw.go.jp/content/001670852.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ninchisho-cafe",
+  "term": "認知症カフェ",
+  "en": "Dementia cafe",
+  "field": "認知症の理解",
+  "def": "認知症カフェとは、認知症の人やその家族が、地域の人や専門家と相互に情報を共有し、お互いを理解し合う場のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「主な認知症施策について」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000076236_00006.html"
+   },
+   {
+    "text": "厚生労働省「認知症カフェ実施（概要）」",
+    "url": "https://www.mhlw.go.jp/content/001253589.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ninchisho-shoki-shuchu-shien-team",
+  "term": "認知症初期集中支援チーム",
+  "en": "Initial-phase intensive support team for dementia",
+  "field": "認知症の理解",
+  "def": "認知症初期集中支援チームとは、医療と介護の専門職が、家族の相談などにより認知症が疑われる人や認知症の人とその家族を訪問し、初期の支援を包括的・集中的（おおむね6か月）に行い、自立生活をサポートするチームのことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「主な認知症施策について」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000076236_00006.html"
+   },
+   {
+    "text": "厚生労働省「認知症初期集中支援チーム（概要）」",
+    "url": "https://www.mhlw.go.jp/content/001061147.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ninchisho-chiiki-shien-suishinin",
+  "term": "認知症地域支援推進員",
+  "en": "Community dementia support coordinator",
+  "field": "認知症の理解",
+  "def": "認知症地域支援推進員とは、地域包括支援センターや市町村の本庁などに置かれ、医療・介護等の支援ネットワークの構築、認知症対応力向上のための支援、本人や家族への相談支援などを行う人のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「主な認知症施策について」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000076236_00006.html"
+   },
+   {
+    "text": "厚生労働省「認知症地域支援推進員（概要）」",
+    "url": "https://www.mhlw.go.jp/content/001056763.pdf"
+   }
+  ],
+  "date": "2026-10-06"
  }
 ]
