@@ -876,8 +876,8 @@
  },
  "retirement-anxiety-outlook": {
   "file": "File:Joint Expeditionary Base takes the Military Saves Pledge 150127-N-IN807-016.jpg",
-  "src": "/img/retirement-anxiety-outlook.jpg",
-  "src640": "/img/retirement-anxiety-outlook-sm.jpg",
+  "src": "/img/retirement-anxiety-outlook.webp",
+  "src640": "/img/retirement-anxiety-outlook-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "Peter Bielagus, a motivational financial educator, speaks to Sailors during a command leadership forum event in support of Military Saves we",
@@ -886,10 +886,26 @@
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Joint_Expeditionary_Base_takes_the_Military_Saves_Pledge_150127-N-IN807-016.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Joint_Expeditionary_Base_takes_the_Military_Saves_Pledge_150127-N-IN807-016.jpg/960px-Joint_Expeditionary_Base_takes_the_Military_Saves_Pledge_150127-N-IN807-016.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Joint_Expeditionary_Base_takes_the_Military_Saves_Pledge_150127-N-IN807-016.jpg/500px-Joint_Expeditionary_Base_takes_the_Military_Saves_Pledge_150127-N-IN807-016.jpg",
-  "og": "https://ledger.seadice.win/img/retirement-anxiety-outlook.jpg",
+  "og": "https://ledger.seadice.win/img/retirement-anxiety-outlook-og.jpg",
+  "local": true
+ },
+ "tipping-generosity-cues": {
+  "file": "File:A jar of world coins.jpg",
+  "src": "/img/tipping-generosity-cues.webp",
+  "src640": "/img/tipping-generosity-cues-sm.webp",
+  "w": 960,
+  "h": 900,
+  "alt": "A jar full of coins from various countries",
+  "artist": "Billjones94",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_jar_of_world_coins.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/A_jar_of_world_coins.jpg/960px-A_jar_of_world_coins.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/A_jar_of_world_coins.jpg/500px-A_jar_of_world_coins.jpg",
+  "og": "https://ledger.seadice.win/img/tipping-generosity-cues-og.jpg",
   "local": true
  }
 }
