@@ -48,7 +48,7 @@
 
 - [「いつ・どこでやるか」を決めると勉強は続くのか。実行意図（if-thenプラン）の研究](https://dokugaku.seadice.win/implementation-intentions-if-then-study/): 「もし〇〇したら△△する」と決めると目標達成に中〜大の効果。勉強での研究と効果の限界、今日書ける1文
 - [勉強仲間がいると続くのか。一緒に学ぶ効果（協同学習・同席効果）の研究](https://dokugaku.seadice.win/study-buddy-learning-together/): 「一緒にやっている」感覚と進み具合の報告は続ける力を高める。新しい内容を覚えるのは一人の方が向く場合もある
-- [独学が続かないのは意志が弱いからか。自制心と環境づくりの研究](https://dokugaku.seadice.win/willpower-self-control-study-environment/): 続く人は誘惑に耐えるより、耐えずに済む環境と習慣を持っていた。「意志は使うと減る」説の追試結果も紹介
+- [独学が続かないのは意志が弱いからか。自制心と環境づくりの研究](https://dokugaku.seadice.win/willpower-self-control-study-environment/): 自制心が高い人は誘惑に耐える回数が少なく、良い習慣に頼っていた。「意志は使うと減る」説の追試結果も紹介
 
 ### 集中・環境
 
@@ -75,7 +75,7 @@
 
 - [AIに答えを聞くと勉強は身につかないのか。研究でわかった「使い方の分かれ目」](https://dokugaku.seadice.win/ai-answers-and-learning/): 答えを写すAIは自力の成績を下げ、ヒント型なら下がらなかった。高校生約1000人の実験などから使い方を解説
 - [AIに作文を添削させると上達するのか。AIの添削（自動フィードバック）と学習の研究](https://dokugaku.seadice.win/ai-writing-feedback-revision/): AIの添削は作文に中くらいの効果。直した文を受け取らず、指摘をもとに自分で書き直すのが分かれ目
-- [AIに説明させるより、自分で説明した方が覚えられるのか。自己説明と生成効果の研究](https://dokugaku.seadice.win/self-explanation-vs-ai-explanation/): 上手な説明を読むより自分で説明した方が学びは大きい。AIは説明役より確認役にすると効果的
+- [AIに説明させるより、自分で説明した方が覚えられるのか。自己説明と生成効果の研究](https://dokugaku.seadice.win/self-explanation-vs-ai-explanation/): 上手な説明を読むより自分で説明した方が学びは大きくなりやすい。AIは説明役より確認役に使うのが研究に沿った使い方
 
 ## 主要ページ
 
