@@ -1,5 +1,13 @@
 [
   {
+    "slug": "deepfake-false-memory",
+    "category": "記憶と目撃証言",
+    "type": "guide",
+    "date": "2026-10-06",
+    "title": "ディープフェイクは記憶を書き換えるのか。偽の映画を「見た」人は約半数、でも文章だけでも同じだった",
+    "summary": "存在しない映画のリメイクを見た人の49%が偽の記憶を持ったが、文章だけで伝えても同じだった。偽の映像と記憶の研究"
+  },
+  {
     "slug": "automation-bias-ai-trust",
     "category": "取り調べと冤罪",
     "type": "guide",

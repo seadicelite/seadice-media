@@ -883,5 +883,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/500px-BalticServers_data_center.jpg",
   "og": "https://hanzai.seadice.win/img/automation-bias-ai-trust.jpg",
   "local": true
+ },
+ "deepfake-false-memory": {
+  "file": "File:Panorama of an IMAX 15 70 mm Film Projector 2.jpg",
+  "src": "/img/deepfake-false-memory.jpg",
+  "src640": "/img/deepfake-false-memory-sm.jpg",
+  "w": 960,
+  "h": 400,
+  "alt": "Panorama of an IMAX 15/70 mm Film Projector in the Jeu de Paume in Paris, France.",
+  "artist": "DiscoA340",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Panorama_of_an_IMAX_15_70_mm_Film_Projector_2.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Panorama_of_an_IMAX_15_70_mm_Film_Projector_2.jpg/960px-Panorama_of_an_IMAX_15_70_mm_Film_Projector_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Panorama_of_an_IMAX_15_70_mm_Film_Projector_2.jpg/500px-Panorama_of_an_IMAX_15_70_mm_Film_Projector_2.jpg",
+  "og": "https://hanzai.seadice.win/img/deepfake-false-memory.jpg",
+  "local": true
  }
 }
