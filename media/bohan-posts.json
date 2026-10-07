@@ -1,5 +1,13 @@
 [
  {
+  "slug": "smart-device-ex-partner-tracking",
+  "category": "AI時代の防犯",
+  "type": "guide",
+  "date": "2026-10-07",
+  "title": "見守りカメラやGPSタグを乗っ取るのは誰か。元交際相手による「技術的虐待」の研究でわかったこと",
+  "summary": "見守りカメラやGPSタグの悪用は外部のハッカーより身近な人物が多いと研究でわかった。技術的虐待を認めた男性は海外調査で2〜3割。初期パスワードの変更とアクセス権の見直しが対策になる。"
+ },
+ {
   "slug": "burglary-daylight-darkness-risk",
   "category": "空き巣・侵入窃盗",
   "type": "guide",

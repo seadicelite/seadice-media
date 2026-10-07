@@ -918,5 +918,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wisconsin_Field_House_%28Madison%2C_Wisconsin%29_exterior_at_night_during_Wisconsin_Badgers_home_wrestling_meet_against_Purdue_%28on_February_7%2C_2025%29_IMG_1209.jpg/500px-Wisconsin_Field_House_%28Madison%2C_Wisconsin%29_exterior_at_night_during_Wisconsin_Badgers_home_wrestling_meet_against_Purdue_%28on_February_7%2C_2025%29_IMG_1209.jpg",
   "og": "https://bohan.seadice.win/img/burglary-daylight-darkness-risk.jpg",
   "local": true
+ },
+ "smart-device-ex-partner-tracking": {
+  "file": "File:Locked Gate, CCTV etc.- Entrance to Hatfield House Estate - geograph.org.uk - 2953093.jpg",
+  "src": "/img/smart-device-ex-partner-tracking.jpg",
+  "src640": "/img/smart-device-ex-partner-tracking-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "住宅の玄関に設置された防犯カメラ",
+  "artist": "Bikeboy",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Locked_Gate,_CCTV_etc.-_Entrance_to_Hatfield_House_Estate_-_geograph.org.uk_-_2953093.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Locked_Gate%2C_CCTV_etc.-_Entrance_to_Hatfield_House_Estate_-_geograph.org.uk_-_2953093.jpg/960px-Locked_Gate%2C_CCTV_etc.-_Entrance_to_Hatfield_House_Estate_-_geograph.org.uk_-_2953093.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Locked_Gate%2C_CCTV_etc.-_Entrance_to_Hatfield_House_Estate_-_geograph.org.uk_-_2953093.jpg/500px-Locked_Gate%2C_CCTV_etc.-_Entrance_to_Hatfield_House_Estate_-_geograph.org.uk_-_2953093.jpg",
+  "og": "https://bohan.seadice.win/img/smart-device-ex-partner-tracking.jpg",
+  "local": true
  }
 }
