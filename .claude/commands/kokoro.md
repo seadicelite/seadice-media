@@ -72,7 +72,7 @@ description: AI時代のメンタルヘルス（AI時代の心の負担を研究
 
 ## 早見表・セルフチェック（2026-10-07〜）
 
-`/hayami/`（研究早見表）と `/check/`（セルフチェック）は、`python3 media/kokoro_tools.py` が全記事から自動で作る（タイトルの最初の「。」「？」までが悩み、`.evidence` のわかっている度、`.stats` の最初の数字、04の `.step` を使う）。記事を追加したら `python3 media/kokoro_tools.py && python3 media/build.py kokoro` を回す（デプロイ時にも自動で実行される）。
+`/hayami/`（研究早見表）と `/check/`（セルフチェック）は、`python3 media/hayami_tools.py kokoro`（旧 kokoro_tools.py）が全記事から自動で作る（タイトルの最初の「。」「？」までが悩み、`.evidence` のわかっている度、`.stats` の最初の数字、04の `.step` を使う）。記事を追加したら `python3 media/hayami_tools.py kokoro && python3 media/build.py kokoro` を回す（デプロイ時にも自動で実行される）。
 - タイトルは「悩み。研究の答え」の形を保ち、最初の「。」か「？」までで悩みとして読めるようにする。
 - 04の `.step` は `<p class="ttl">` `<p class="dsc">` `<p class="time">` の形を崩さない（崩すと早見表・セルフチェックに載らない）。
 
