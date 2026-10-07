@@ -44,6 +44,7 @@ description: 哲学（哲学者・概念の入門百科）の記事ルール。/
 - `media/tetsugaku-guides.json`: 記事が当てはまるガイド（first-step / exam / how-to-live / right-and-wrong / ai-mind-science / work-society）の `slugs` に追加する。当てはまらなければ追加しない。
 - `media/tetsugaku-glossary.json`: 記事の中心概念が未収録なら1語追加する（`id`,`term`,`en`,`def`,`slugs`）。`def` は記事のFAQの答えと同じ内容にし、記事にない主張を足さない。五十音順の位置に入れる。
 - `media/tetsugaku-audited.json`: 公開前の出典照合（docs/quality/article.md「出典の正確さ」）を済ませたら `{"slug","date"}` を追加する。照合していない記事は追加しない。
+- `media/tetsugaku.json` の `apps`: 記事が `theme` に書かれた哲学者本人（哲人フレンドに登場する人物）の記事なら、`articles` に slug を追加する。アプリ用ページとアプリカードは build.py が自動で作る。
 - 写真を `photo.py` で取るときは `--alt="写っている物を日本語で短く"` を付ける（英語の説明文のまま公開しない）。
 
 ## 写真のルール（カテゴリ単位のプール運用。umbra と同じ方式）
