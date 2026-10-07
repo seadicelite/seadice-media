@@ -44,8 +44,8 @@
     "働きながら介護福祉士を目指すには？"
   ],
   "enabled": false,
-  "live": false,
-  "note": "2026-10-05 骨組み作成。レッスン未執筆。資格型（介護福祉士国家試験）。医療的ケア・虐待・制度を扱うため執筆と監査を分ける。学習サイト。記事エンジン(/media)の対象外。ページは python3 media/study.py kaigofukushi で生成する（共通エンジン。用語は media/kaigofukushi-glossary.json、レッスンは /study-lesson kaigofukushi）。第3章（社会の理解）・第8章（認知症）・第12章（現場の課題）は care:true で careHtml（地域包括支援センター・市町村の高齢者虐待窓口。根拠は介護保険法・高齢者虐待防止法の条文、2026-10-05確認）を表示。資格型の必須（章末テスト・模擬試験・学習プラン）と看板ツールは未作成。",
+  "live": true,
+  "note": "2026-10-07 公開（kaigofukushi.seadice.win、全12章53レッスン・模擬試験50問）。資格型（介護福祉士国家試験）。医療的ケア・虐待・制度を扱うため執筆と監査を分ける。学習サイト。記事エンジン(/media)の対象外。ページは python3 media/study.py kaigofukushi で生成する（共通エンジン。用語は media/kaigofukushi-glossary.json、レッスンは /study-lesson kaigofukushi）。第3章（社会の理解）・第8章（認知症）・第12章（現場の課題）は care:true で careHtml（地域包括支援センター・市町村の高齢者虐待窓口。根拠は介護保険法・高齢者虐待防止法の条文、2026-10-05確認）を表示。資格型の必須（章末テスト・模擬試験・学習プラン）と看板ツールは未作成。",
   "practice": [],
   "icon": "介",
   "logoSub": "介護福祉士を無料で学ぶ",
