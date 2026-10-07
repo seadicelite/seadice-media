@@ -20,6 +20,7 @@
     "bad-news-scrolling",
     "walking-mood",
     "screen-work-breaks",
+    "screen-eye-strain",
     "lunch-at-desk"
    ]
   },
@@ -68,6 +69,7 @@
     "information-overload-tired",
     "video-meeting-fatigue",
     "screen-work-breaks",
+    "screen-eye-strain",
     "ai-summary-only-reading",
     "chatgpt-thinking-ability",
     "phone-memory-forgetful"
