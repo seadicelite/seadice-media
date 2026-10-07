@@ -97,7 +97,6 @@
   "rulesFrom": ".claude/commands/dokugaku.md",
   "postsPerRun": 1,
   "topicQueue": [
-    "一夜漬けは本当に効かないのか。詰め込み学習の研究",
     "勉強の記録をつけると続くのか。進み具合を見える化する研究",
     "資格試験は過去問から解くべきか。問題を先に解く学習の研究",
     "予習と復習、どちらが大事か。事前テスト（プレテスト効果）の研究",
@@ -147,7 +146,8 @@
         "planning-fallacy-study-plans",
         "goal-setting-high-or-small-steps",
         "implementation-intentions-if-then-study",
-        "review-timing"
+        "review-timing",
+        "cramming-overnight-study"
       ]
     }
   ]

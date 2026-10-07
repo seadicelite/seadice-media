@@ -494,8 +494,8 @@
  },
  "tip-of-the-tongue-forgetting": {
   "file": "File:Compact Oxford English Dictionary 2.jpg",
-  "src": "/img/tip-of-the-tongue-forgetting.jpg",
-  "src640": "/img/tip-of-the-tongue-forgetting-sm.jpg",
+  "src": "/img/tip-of-the-tongue-forgetting.webp",
+  "src640": "/img/tip-of-the-tongue-forgetting-sm.webp",
   "w": 960,
   "h": 657,
   "alt": "A view inside the Compact Oxford English Dictionary, showing how the content of four pages of the full sized edition are duplicated on one p",
@@ -504,10 +504,26 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Compact_Oxford_English_Dictionary_2.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Compact_Oxford_English_Dictionary_2.jpg/960px-Compact_Oxford_English_Dictionary_2.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Compact_Oxford_English_Dictionary_2.jpg/500px-Compact_Oxford_English_Dictionary_2.jpg",
-  "og": "https://dokugaku.seadice.win/img/tip-of-the-tongue-forgetting.jpg",
+  "og": "https://dokugaku.seadice.win/img/tip-of-the-tongue-forgetting-og.jpg",
+  "local": true
+ },
+ "cramming-overnight-study": {
+  "file": "File:Library in Front View - DPLA - 7240a0a6604f4f6fa93456c916954627.jpg",
+  "src": "/img/cramming-overnight-study.webp",
+  "src640": "/img/cramming-overnight-study-sm.webp",
+  "w": 960,
+  "h": 743,
+  "alt": "机に積まれた本と電気スタンド",
+  "artist": "Brackett, J. Raymond",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Library_in_Front_View_-_DPLA_-_7240a0a6604f4f6fa93456c916954627.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Library_in_Front_View_-_DPLA_-_7240a0a6604f4f6fa93456c916954627.jpg/960px-Library_in_Front_View_-_DPLA_-_7240a0a6604f4f6fa93456c916954627.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Library_in_Front_View_-_DPLA_-_7240a0a6604f4f6fa93456c916954627.jpg/500px-Library_in_Front_View_-_DPLA_-_7240a0a6604f4f6fa93456c916954627.jpg",
+  "og": "https://dokugaku.seadice.win/img/cramming-overnight-study-og.jpg",
   "local": true
  }
 }
