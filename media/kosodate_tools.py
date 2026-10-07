@@ -3,7 +3,7 @@
   python3 media/kosodate_tools.py && python3 media/build.py kosodate
 
 判定の文言は、出典照合済みの記事の結論だけを使う(AIには判定・アドバイスを書かせない)。
-画像の読み取りは Worker kosodate-screen(/Users/hidenori/Developer/kosodate-screen-worker)。数字を読むだけ。
+画像の読み取りは Worker kosodate-ai(/Users/hidenori/Developer/kosodate-ai-worker)。数字を読むだけ。
 新しいツールを足すときは docs/quality/tool.md のページの型に合わせ、PAGES に追加する。
 """
 import json
@@ -11,7 +11,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 URL = "https://kosodate.seadice.win/screen-time-check/"
-WORKER = "https://kosodate-screen.seadice-lite.workers.dev/"
+WORKER = "https://kosodate-ai.seadice-lite.workers.dev/screen"
 
 FAQ = [
     ("子どものスクリーンタイムは1日何時間までが目安ですか？",
@@ -198,6 +198,8 @@ PAGES = [{"path": "screen-time-check", "title": "子どものスクリーンタ�
 
 from kosodate_rules_tool import PAGE as RULES_PAGE  # noqa: E402
 PAGES.append(RULES_PAGE)
+from kosodate_sns_tool import PAGE as SNS_PAGE  # noqa: E402
+PAGES.append(SNS_PAGE)
 
 if __name__ == "__main__":
     f = ROOT / "media/kosodate-pages.json"

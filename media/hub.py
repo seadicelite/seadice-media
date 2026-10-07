@@ -25,7 +25,7 @@ EXTRA_CSS = """
 .kh-act a{display:block;background:var(--card);border:1.5px dashed var(--accent2);border-radius:16px;padding:16px 18px;text-decoration:none;color:var(--text)}
 .kh-act b{display:block;font-size:16px;font-weight:800;color:var(--accent2)}.kh-act span{display:block;font-size:14px;color:var(--muted);line-height:1.7;margin-top:4px}
 .kh .grid{margin-top:4px}
-.kh-tool{display:block;margin:-24px 0 56px;background:var(--card);border:2px solid var(--accent);border-radius:18px;padding:18px 20px;text-decoration:none;color:var(--text);box-shadow:4px 4px 0 var(--accent)}
+.kh-tool{display:block;margin:-24px 0 40px;background:var(--card);border:2px solid var(--accent);border-radius:18px;padding:18px 20px;text-decoration:none;color:var(--text);box-shadow:4px 4px 0 var(--accent)}
 .kh-tool small{display:inline-block;font-size:12px;font-weight:800;color:#fff;background:var(--accent);border-radius:999px;padding:2px 10px}
 .kh-tool b{display:block;font-size:18px;font-weight:900;margin-top:8px;line-height:1.5}.kh-tool span{display:block;font-size:14px;color:var(--muted);line-height:1.7;margin-top:4px}
 .kh-tool i{display:inline-block;font-style:normal;font-size:14px;font-weight:800;color:var(--link);margin-top:8px}
@@ -52,8 +52,7 @@ def render(cfg, posts, cats, images, types, card):
                 + "".join(f'<a href="{E(a["href"], quote=True)}"><b>{E(a["label"])}</b><span>{E(a.get("sub", ""))}</span></a>' for a in ages)
                 + "</div></section>")
 
-    tool = h.get("tool")
-    if tool:
+    for tool in h.get("tools") or ([h["tool"]] if h.get("tool") else []):
         out += (f'<a class="kh-tool" href="{E(tool["href"], quote=True)}"><small>{E(tool.get("kicker", "ツール"))}</small>'
                 f'<b>{E(tool["label"])}</b><span>{E(tool.get("desc", ""))}</span><i>使ってみる</i></a>')
 
