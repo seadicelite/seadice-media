@@ -58,6 +58,8 @@
                  data は {date, items[{id, label, lead?, systems[{name, who?, desc, window, lessons[レッスンid]}]}]}。
                  JSなしでも全項目を本文として表示し、tool.js（外部リクエストなし）は選んだ項目だけに絞り込む（URLの #id で戻るボタンも効く）。
                  --check で lessons のidが講座に実在すること、金額（円・%）を書いていないことを検査する
+                 kind: "experiments" のときは体験型（判断のくせを体験して研究の結果と比べる）。data は {date, items[{id, title, q, choices?[2〜4], result, explain, lessons[レッスンid], source}]}。
+                 答えは details で開くのでJS不要・送信なし。--check で必須キーとレッスンidを検査する（研究の数値は書いてよい）
 
 レッスンの形式（study.md 5章）:
   新形式 question / review / sections / figure / apply / keep / terms / quiz[apply] / sources を、study.md 4章の並びで表示する。
@@ -803,7 +805,11 @@ TOOL_CSS = """
 .tl-item{margin:28px 0 0;scroll-margin-top:72px}.tl-item h3{font-size:20px;margin:0 0 6px;outline:none}.tl-item>p{margin:6px 0 12px;color:var(--sub);font-size:15px}
 .tl-sys{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin:10px 0}.tl-sys .tl-n{font-size:17px;font-weight:800;line-height:1.5;margin:0}.tl-sys .tl-who{display:inline-block;font-size:12px;font-weight:700;color:var(--accent);background:var(--soft);border-radius:999px;padding:1px 10px;margin:4px 0 0}
 .tl-sys p{font-size:15px;margin:6px 0 0;line-height:1.75}.tl-sys .tl-w{color:var(--sub)}.tl-sys .tl-w b{font-size:12px;color:var(--muted);margin-right:6px}.tl-sys .tl-l a{display:inline-block;padding:4px 0;margin-right:12px}
-.tl-end{font-size:14px;color:var(--sub);background:var(--note);border-radius:12px;padding:10px 14px;margin:12px 0 0}.tl-end a{font-weight:700}"""
+.tl-end{font-size:14px;color:var(--sub);background:var(--note);border-radius:12px;padding:10px 14px;margin:12px 0 0}.tl-end a{font-weight:700}
+.ex-item{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:16px 18px;margin:16px 0;scroll-margin-top:72px}.ex-item h3{font-size:19px;margin:0 0 8px}.ex-q{font-size:16px;line-height:1.8;margin:0 0 10px}
+.ex-c{list-style:none;padding:0;margin:0 0 12px}.ex-c li{border:2px solid var(--line);border-radius:12px;padding:10px 14px;margin:6px 0;font-size:15px;line-height:1.6}
+.ex-item details{border-top:1px dashed var(--line);padding-top:10px}.ex-item summary{cursor:pointer;font-weight:800;color:var(--accent);min-height:44px;display:flex;align-items:center}
+.ex-r{background:var(--soft);border-radius:12px;padding:12px 14px;margin:8px 0;font-size:15px;line-height:1.8}.ex-item details p{font-size:15px;line-height:1.8;margin:8px 0 0}.ex-l a{display:inline-block;padding:4px 0;margin-right:12px;font-weight:700}.ex-s{font-size:13px;color:var(--muted)}"""
 
 TOOL_JS = r"""(function(){'use strict';
 var L=[].slice.call(document.querySelectorAll('.tl-item')),P=[].slice.call(document.querySelectorAll('.tl-pick a'));if(!L.length)return;
@@ -825,6 +831,18 @@ def check_tool(errs):
     for k in ("path", "title", "h1", "kicker", "navLabel", "desc", "lead", "note", "data"):
         if not CFG["tool"].get(k): errs.append(f"設定 tool.{k} が無い")
     if not TOOL.get("items"): errs.append("ツールのデータに items が無い")
+    if CFG["tool"].get("kind") == "experiments":
+        for it in TOOL.get("items", []):
+            tag = f'ツール {it.get("id")}'
+            if it.get("id") in ids: errs.append(f"{tag} id重複")
+            ids.add(it.get("id"))
+            if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", it.get("id", "")): errs.append(f"{tag} id は英小文字・数字・ハイフン")
+            for k in ("title", "q", "result", "explain", "lessons", "source"):
+                if not it.get(k): errs.append(f"{tag} の {k} が空")
+            if it.get("choices") is not None and not 2 <= len(it["choices"]) <= 4: errs.append(f"{tag} choices は2〜4個")
+            for lid in it.get("lessons", []):
+                if lid not in lids: errs.append(f"{tag} のレッスンidが講座に存在しない: {lid}")
+        return
     for it in TOOL.get("items", []):
         tag = f'ツール {it.get("id")}'
         if it.get("id") in ids: errs.append(f"{tag} id重複")
@@ -850,9 +868,49 @@ def tool_home():
             f'<b>{E(x["title"])}</b><span>{E(x["desc"])}</span></a>')
 
 
+def experiments_page():
+    """体験型の看板ツール（tool.kind == "experiments"）。問題を読んで自分の答えを決め、details を開くと研究の結果と比べられる。JS不要。"""
+    x = CFG["tool"]
+    url = f'{URL}{x["path"]}'
+    lmap = tool_lessons()
+    toc = "".join(f'<li><a href="#{it["id"]}">{E(it["title"])}</a></li>' for it in TOOL["items"])
+    items = ""
+    for n, it in enumerate(TOOL["items"], 1):
+        cs = "".join(f"<li>{E(c)}</li>" for c in it.get("choices", []))
+        ls = " ".join(f'<a href="{lurl(lmap[i]).replace(URL, "/")}">レッスン{lesson_no(lmap[i])} {E(lmap[i]["short"])}</a>' for i in it["lessons"])
+        items += (f'<section class="ex-item" id="{it["id"]}"><h3>{n}. {E(it["title"])}</h3><p class="ex-q">{E(it["q"])}</p>'
+                  + (f'<ul class="ex-c">{cs}</ul>' if cs else "")
+                  + f'<details><summary>自分の答えを決めたら、研究の結果を見る</summary><div class="ex-r">{E(it["result"])}</div>'
+                  f'<p>{E(it["explain"])}</p><p class="ex-l">{ls}</p><p class="ex-s">出典: {E(it["source"])}</p></details></section>')
+    body = f'''<span class="kicker">{E(x["kicker"])}</span>
+<h1>{E(x["h1"])}</h1>
+<p class="updated">{len(TOOL["items"])}問 ・ 登録不要 ・ 答えは送信されません ・ 更新日 {TOOL.get("date", UPDATED)}</p>
+<p class="lead">{E(x["lead"])}</p>
+<div class="box note"><p style="margin:0">{E(x["note"])}</p></div>
+<h2><span class="n">01</span>体験する問題</h2>
+<p class="answer">1問ずつ、まず自分の答えを決めてから「研究の結果を見る」を開いてください。どの問題から始めてもかまいません。</p>
+<ol>{toc}</ol>
+{items}
+<h2><span class="n">02</span>このページについて</h2>
+<p class="answer">問題と研究の結果は、この講座のレッスン（執筆と監査を分けて確かめたもの）に書いてあることだけから作っています。くわしい出典は各レッスンの末尾にあります。</p>
+<p>研究の結果は、その実験に参加した人たちの平均や割合です。あなたの答えが違っても、それは間違いでも異常でもありません。判断のくせは、多くの人に同じ向きで起きやすいというだけで、一人ひとりの答えを決めるものではありません。</p>'''
+    graph = [{"@type": "WebApplication", "name": x["title"], "url": url, "description": x["desc"], "applicationCategory": "EducationalApplication",
+              "operatingSystem": "Web", "inLanguage": "ja", "offers": {"@type": "Offer", "price": 0, "priceCurrency": "JPY"},
+              "isPartOf": {"@type": "WebSite", "name": NAME, "url": URL}, "publisher": PUBLISHER, "dateModified": TOOL.get("date", UPDATED)}]
+    global CSS
+    base = CSS
+    CSS = base + TOOL_CSS
+    try:
+        return write(x["path"], f'{x["title"]} | {NAME}', x["desc"], body, graph, trail=[(x["title"], url)], current="/" + x["path"])
+    finally:
+        CSS = base
+
+
 def tool_page():
     """看板ツール（設定の tool）。JSなしでも全項目を本文として読め、tool.js は選んだ項目だけに絞り込む。"""
     x = CFG["tool"]
+    if x.get("kind") == "experiments":
+        return experiments_page()
     url = f'{URL}{x["path"]}'
     lmap = tool_lessons()
     pick = "".join(f'<a href="#{it["id"]}">{E(it["label"])}</a>' for it in TOOL["items"])
