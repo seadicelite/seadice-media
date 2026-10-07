@@ -1,0 +1,166 @@
+{
+ "loss-aversion-money": [
+  [
+   "kodokeizai",
+   "loss-aversion"
+  ]
+ ],
+ "coupon-transaction-utility": [
+  [
+   "kodokeizai",
+   "reference-price"
+  ]
+ ],
+ "sunk-cost-mottainai": [
+  [
+   "kodokeizai",
+   "sunk-cost"
+  ]
+ ],
+ "choice-overload-shopping": [
+  [
+   "kodokeizai",
+   "choice-overload"
+  ]
+ ],
+ "revolving-payment-anchoring-bias": [
+  [
+   "kodokeizai",
+   "anchoring"
+  ]
+ ],
+ "subscription-review-procrastination-status-quo-bias": [
+  [
+   "kodokeizai",
+   "status-quo-bias"
+  ],
+  [
+   "kodokeizai",
+   "present-bias"
+  ]
+ ],
+ "future-self-saving": [
+  [
+   "kodokeizai",
+   "time-discounting"
+  ],
+  [
+   "kodokeizai",
+   "present-bias"
+  ]
+ ],
+ "payday-spending-spike": [
+  [
+   "kodokeizai",
+   "mental-accounting"
+  ]
+ ],
+ "sale-price-anchoring": [
+  [
+   "kodokeizai",
+   "reference-price"
+  ],
+  [
+   "kodokeizai",
+   "anchoring"
+  ]
+ ],
+ "why-impulse-buying-happens": [
+  [
+   "kodokeizai",
+   "present-bias"
+  ]
+ ],
+ "automatic-saving-works": [
+  [
+   "kodokeizai",
+   "defaults"
+  ],
+  [
+   "kodokeizai",
+   "commitment"
+  ]
+ ],
+ "subscription-cant-cancel": [
+  [
+   "kodokeizai",
+   "endowment-effect"
+  ],
+  [
+   "kodokeizai",
+   "status-quo-bias"
+  ]
+ ],
+ "envelope-partition-saving": [
+  [
+   "kodokeizai",
+   "mental-accounting"
+  ]
+ ],
+ "donation-identifiable-victim": [
+  [
+   "kodokeizai",
+   "social-preferences"
+  ]
+ ],
+ "lottery-near-miss-psychology": [
+  [
+   "kodokeizai",
+   "probability-weighting"
+  ]
+ ],
+ "small-amount-investing-hesitation": [
+  [
+   "kodokeizai",
+   "myopic-loss-aversion"
+  ]
+ ],
+ "salary-comparison-satisfaction": [
+  [
+   "kodokeizai",
+   "reference-point"
+  ]
+ ],
+ "financial-education-effect": [
+  [
+   "kodokeizai",
+   "nudge-ethics-boost"
+  ]
+ ],
+ "money-priming-replication": [
+  [
+   "kodokeizai",
+   "replication"
+  ]
+ ],
+ "installment-bnpl-spending": [
+  [
+   "kodokeizai",
+   "present-bias"
+  ]
+ ],
+ "specific-saving-goal-works": [
+  [
+   "kodokeizai",
+   "reference-point"
+  ]
+ ],
+ "income-increase-savings-hedonic-adaptation": [
+  [
+   "kodokeizai",
+   "reference-point"
+  ]
+ ],
+ "social-comparison-spending": [
+  [
+   "kodokeizai",
+   "reference-point"
+  ]
+ ],
+ "frugality-fatigue-self-control-depletion-research": [
+  [
+   "kodokeizai",
+   "planner-doer"
+  ]
+ ]
+}
