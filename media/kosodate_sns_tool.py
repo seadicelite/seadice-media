@@ -217,6 +217,13 @@ PAGE = {"path": "sns-practice", "title": "AIで練習するSNS（子ども向け
         "desc": "本物のSNSを使う前に、知らない人からのDM、写真の投稿、グループの悪口、詐欺リンク、闇バイトのさそいなど20の場面を練習。自由に投稿できるフリーモードと修了証つき。無料・広告なし・登録不要。",
         "body": BODY, "css": CSS}
 
+if __name__ == "__main__" and "--app" in sys.argv:
+    # アプリ版(れんしゅうSNS)用のデータを書き出す: python3 media/kosodate_sns_tool.py --app <アプリのassets/data>
+    from kosodate_sns_scenes import FREE_NG, FREE_TOPICS
+    out = Path(sys.argv[sys.argv.index("--app") + 1]) / "scenes_ja.json"
+    out.write_text(json.dumps(dict(DATA, topics=FREE_TOPICS, ng=FREE_NG), ensure_ascii=False, indent=1) + "\n")
+    print("wrote", out)
+
 if __name__ == "__main__" and "--worker" in sys.argv:
     steps = {t["id"]: {"scene": s["title"], "msgs": [m[1] for m in t["msgs"]], "point": t["point"]} for s in SCENES for t in s["steps"]}
     out = Path("/Users/hidenori/Developer/kosodate-ai-worker/src/steps.js")
