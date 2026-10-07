@@ -1578,5 +1578,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Interior_of_Helsinki_Airport_Vantaa.jpg/500px-Interior_of_Helsinki_Airport_Vantaa.jpg",
   "og": "https://umbra.seadice.win/img/deliberate-eye-contact-lying-research.jpg",
   "local": true
+ },
+ "emoji-sticker-liking-signal-research": {
+  "file": "File:White work table with notes, smartphone and laptop (Unsplash).jpg",
+  "src": "/img/emoji-sticker-liking-signal-research.jpg",
+  "src640": "/img/emoji-sticker-liking-signal-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "机に置かれたスマートフォンとノート、眼鏡",
+  "artist": "JESHOOTS.COM jeshoots",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:White_work_table_with_notes,_smartphone_and_laptop_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg/960px-White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg/500px-White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg",
+  "og": "https://umbra.seadice.win/img/emoji-sticker-liking-signal-research.jpg",
+  "local": true
  }
 }
