@@ -1,5 +1,13 @@
 [
   {
+    "slug": "offender-profiling-accuracy",
+    "category": "取り調べと冤罪",
+    "type": "guide",
+    "date": "2026-10-07",
+    "title": "犯人像の推定（プロファイリング）はどこまで当たるのか。40年・426件の研究が示した「効果の検証の少なさ」",
+    "summary": "犯人像を言い当てる力は研究で確かめられていない。426件の文献を調べたレビューでも効果の評価研究は少なかった。同一犯の判断には一定の精度がある。"
+  },
+  {
     "slug": "deepfake-false-memory",
     "category": "記憶と目撃証言",
     "type": "guide",
