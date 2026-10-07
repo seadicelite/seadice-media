@@ -907,5 +907,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/A_jar_of_world_coins.jpg/500px-A_jar_of_world_coins.jpg",
   "og": "https://ledger.seadice.win/img/tipping-generosity-cues-og.jpg",
   "local": true
+ },
+ "bulk-buying-stockpile-consumption": {
+  "file": "File:The Emergency Food Assistance Program (TEFAP) (20250110-USDA-FNS-UNK-076).jpg",
+  "src": "/img/bulk-buying-stockpile-consumption.jpg",
+  "src640": "/img/bulk-buying-stockpile-consumption-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "保存食が並ぶパントリーの棚",
+  "artist": "USDAgov",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Emergency_Food_Assistance_Program_(TEFAP)_(20250110-USDA-FNS-UNK-076).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Emergency_Food_Assistance_Program_%28TEFAP%29_%2820250110-USDA-FNS-UNK-076%29.jpg/960px-The_Emergency_Food_Assistance_Program_%28TEFAP%29_%2820250110-USDA-FNS-UNK-076%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Emergency_Food_Assistance_Program_%28TEFAP%29_%2820250110-USDA-FNS-UNK-076%29.jpg/500px-The_Emergency_Food_Assistance_Program_%28TEFAP%29_%2820250110-USDA-FNS-UNK-076%29.jpg",
+  "og": "https://ledger.seadice.win/img/bulk-buying-stockpile-consumption.jpg",
+  "local": true
  }
 }
