@@ -98,10 +98,14 @@ def build(slug, preview=None):
     chips = "".join(f'<a class="chip" href="/category/{v["id"]}/" style="--c:{v["color"]}"><svg viewBox="0 0 24 24"><path d="{v["icon"]}"/></svg>{html.escape(n)}</a>' for n, v in cats.items())
     latest = "".join(card(p, cats, images, types) for p in posts[:12]) or '<p class="empty">記事を準備中です。</p>'
     secs = ""
+    # catLimit があればトップのカテゴリ欄はその本数までにし、残りはカテゴリページへ送る（スマホで縦に長くなりすぎるのを防ぐ）
+    cat_limit = cfg.get("catLimit")
     for n, v in cats.items():
         items = [p for p in posts if p["category"] == n]
-        body = "".join(card(p, cats, images, types) for p in items) or '<p class="empty">記事を準備中です。</p>'
-        secs += f'<section id="c-{v["id"]}"><h2 class="cat" style="--c:{v["color"]}"><svg viewBox="0 0 24 24"><path d="{v["icon"]}"/></svg>{html.escape(n)}</h2><div class="grid">{body}</div></section>'
+        body = "".join(card(p, cats, images, types) for p in items[:cat_limit]) or '<p class="empty">記事を準備中です。</p>'
+        more = (f'<a href="/category/{v["id"]}/" style="display:inline-block;margin-top:14px;padding:10px 0;font-size:14px;font-weight:700;color:var(--link)">{html.escape(n)}の記事をすべて見る（{len(items)}本）</a>'
+                if cat_limit and len(items) > cat_limit else "")
+        secs += f'<section id="c-{v["id"]}"><h2 class="cat" style="--c:{v["color"]}"><svg viewBox="0 0 24 24"><path d="{v["icon"]}"/></svg>{html.escape(n)}</h2><div class="grid">{body}</div>{more}</section>'
     mag = cfg.get("layout") == "magazine"
     ticker_html = ""
     if mag:
