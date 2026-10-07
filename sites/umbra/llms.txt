@@ -142,6 +142,8 @@
 - 出典と検証の方法: https://umbra.seadice.win/sources/
 - 免責事項: https://umbra.seadice.win/disclaimer/
 - しぐさ索引・クイズ: https://umbra.seadice.win/shigusa/
+- 危険な相手のサイン チェック: https://umbra.seadice.win/redflag-check/
+- 脈ありチェック: https://umbra.seadice.win/myakuari-check/
 - しぐさ判定の集計（SEADICE調べ）: https://umbra.seadice.win/shigusa/hantei/
 - 用語集: https://umbra.seadice.win/glossary/
 - サイトマップ: https://umbra.seadice.win/sitemap.xml

@@ -293,6 +293,8 @@ pages.append({"path": "shigusa/hantei", "title": "しぐさの通説を研究で
               "desc": f"しぐさの意味{N}種類を論文で判定。本音の手がかりになるのは{tot['a']}種類だけ、{tot['c']}種類は当てにならない。嘘のサイン{len(lie)}種類では手がかりは{lie_c['a']}。SEADICE調べ。"[:120],
               "seo_title": f"しぐさで本音はわかる？通説{N}種類を研究で判定した結果【SEADICE調べ】",
               "parent": {"label": "しぐさ・ボディランゲージ索引", "path": "shigusa"}, "body": body3, "css": css + css3})
+import umbra_tools  # noqa: E402
+pages += umbra_tools.pages(D, posts)
 open(ROOT + "media/umbra-pages.json", "w").write(json.dumps(pages, ensure_ascii=False, indent=2) + "\n")
 
 # 各記事に、索引の該当項目へのリンクを差し込む(出典の直前。再実行しても1つだけになるよう置き換える)
@@ -311,3 +313,4 @@ for x in D:
     f.write_text(t)
     n += 1
 print("ok", len(D), "items,", len(Q), "quiz,", n, "articles linked")
+print("tools linked in", umbra_tools.link_articles(D), "articles")
