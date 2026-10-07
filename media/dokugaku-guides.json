@@ -2,7 +2,7 @@
   "title": "悩み別ガイド",
   "lead": "独学のよくある悩みから、関係する記事をまとめて読めます。",
   "cta": {
-    "label": "勉強法の効く・効かない早見表で、30の勉強法の判定を見る",
+    "label": "勉強法の効く・効かない早見表で、ほかの勉強法の判定も見る",
     "href": "/hayami/"
   },
   "items": [
@@ -27,7 +27,9 @@
         "exercise-and-memory-learning",
         "english-vocabulary-how-to-memorize",
         "study-location-context-dependent-memory",
-        "cramming-overnight-study"
+        "cramming-overnight-study",
+        "elaborative-interrogation-ask-why",
+        "mnemonics-keyword-method-imagery"
       ]
     },
     {

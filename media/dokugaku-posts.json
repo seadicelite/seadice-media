@@ -1,5 +1,53 @@
 [
   {
+    "slug": "past-exam-questions-certification",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-07",
+    "title": "資格試験は過去問から解くべきか。問題を解いて学ぶ研究でわかったこと",
+    "summary": "過去問は仕上げでなく覚える練習になる。学んだ単元から解き始め、解説で答え合わせし、日をあけて解き直すほど効果が大きい"
+  },
+  {
+    "slug": "elaborative-interrogation-ask-why",
+    "category": "記憶・覚え方",
+    "type": "guide",
+    "date": "2026-10-07",
+    "title": "「なぜ？」と問いながら読むと覚えやすいのか。精緻化質問の研究",
+    "summary": "事実ごとに「なぜ本当か」を1文で答える精緻化質問は、ただ読むより覚えやすい。効果は中程度で、知識のある分野ほど効く。"
+  },
+  {
+    "slug": "pretesting-before-reading",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-07",
+    "title": "予習と復習、どちらが大事？読む前に問題を解く「事前テスト」の研究",
+    "summary": "読む前に問題を解くと、ほとんど答えられなくても問われた内容が残りやすい。章末問題を3分解いてから読むのが手軽な試し方"
+  },
+  {
+    "slug": "study-log-progress-monitoring",
+    "category": "続け方・習慣",
+    "type": "guide",
+    "date": "2026-10-07",
+    "title": "勉強の記録をつけると続くのか。進み具合を「見える化」する研究",
+    "summary": "進み具合を確かめる回数を増やすと目標は達成されやすい。書き残す・人に報告すると効果は大きく、記録する中身で効く先が変わる"
+  },
+  {
+    "slug": "summarizing-while-reading",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-07",
+    "title": "要約しながら読むと理解は深まるのか。要約と学習の研究でわかったこと",
+    "summary": "要約の効果は小さめで条件しだい。自分の言葉で短くまとめると効き、書き写すだけでは差が出にくい。本を閉じて書くのがコツ"
+  },
+  {
+    "slug": "mnemonics-keyword-method-imagery",
+    "category": "記憶・覚え方",
+    "type": "guide",
+    "date": "2026-10-07",
+    "title": "語呂合わせやイメージで覚えるのは効くのか。記憶術（キーワード法・イメージ化）の研究",
+    "summary": "語呂合わせは覚える速さには効くが、数日後には忘れやすい。覚えにくい数個のきっかけにして、思い出す練習へ切り替える"
+  },
+  {
     "slug": "cramming-overnight-study",
     "category": "勉強法",
     "type": "guide",
