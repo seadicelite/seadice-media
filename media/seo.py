@@ -126,6 +126,11 @@ def patch_article(cfg, p, posts, images, favicon=""):
     else:
         s = re.sub(r'<meta name="twitter:card" content="[^"]*">', '<meta name="twitter:card" content="summary">', s)
     s = re.sub(r'(<meta name="twitter:card"[^>]*>\n)', lambda m: m.group(1) + add, s, count=1)
+    # --- 記事上部のテーマ別メニュー(設定 articleNav のメディアだけ)。毎ビルドで入れ直すので過去記事にも効く
+    s = re.sub(r'<!--anav-->.*?<!--/anav-->\n?', "", s, flags=re.S)
+    if cfg.get("articleNav"):
+        nav = "".join(f'<a href="{E(n["path"], quote=True)}">{E(n["label"])}</a>' for n in cfg["articleNav"])
+        s = s.replace("<article>", f'<article>\n<!--anav--><div class="anav" role="navigation" aria-label="テーマ">{nav}</div><!--/anav-->', 1)
     # --- メディア固有の記事デザイン(cfg の articleCss)を後から差し込む。過去記事にも効く
     s = re.sub(r'<style id="theme">.*?</style>\n?', "", s, flags=re.S)
     if cfg.get("articleCss"):

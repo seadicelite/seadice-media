@@ -2,7 +2,7 @@
 """media/{slug}-posts.json から一覧ページ(sites/{slug}/index.html)とsitemapを再生成する。
 使い方: python3 media/build.py <slug>   （設定は media/{slug}.json の theme / categories / types）
 記事を追加するときは posts.json の先頭に1件足してから実行する。JS不使用。"""
-import base64, html, json, random, sys
+import base64, html, json, random, re, sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -206,8 +206,26 @@ def build(slug, preview=None):
         sm.write_text(sm.read_text().replace("</urlset>", add3 + "</urlset>"))
     if an:
         print(f"app cards: {an} articles, {len(aurls)} app pages")
+    site_og(cfg)
     print(f"built {cfg['path']}index.html ({len(posts)} posts), seo-patched {n} articles, {len(pages)} trust pages, {len(cat_urls)} category hubs"
           + (f", {xn} extra pages, {xb} verified badges" if xn or xb else ""))
+
+
+def site_og(cfg):
+    """記事以外のページ(トップ・カテゴリ・用語集など)に、設定 ogImage のSNS共有画像を付ける。記事は写真を使う(seo.py)。"""
+    og = cfg.get("ogImage")
+    if not og:
+        return
+    src = og if og.startswith("http") else cfg["url"].rstrip("/") + og
+    tag = f'<meta property="og:image" content="{src}">\n<meta name="twitter:image" content="{src}">\n'
+    for f in (ROOT / cfg["path"]).rglob("index.html"):
+        t = f.read_text()
+        if 'property="og:image"' in t or 'property="og:type"' not in t:
+            continue
+        card = '<meta name="twitter:card" content="summary_large_image">\n'
+        t = re.sub(r'<meta name="twitter:card" content="[^"]*">\n?', "", t, count=1)
+        t = re.sub(r'(<meta property="og:type"[^>]*>\n?)', lambda m: m.group(1).rstrip("\n") + "\n" + card + tag, t, count=1)
+        f.write_text(t)
 
 
 def build_category_pages(cfg, posts, cats, images, types, theme, name, url):
