@@ -1010,5 +1010,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lunch_fry-up_The_Ledger_Building_West_India_Quay_Canary_Wharf_01.jpg/500px-Lunch_fry-up_The_Ledger_Building_West_India_Quay_Canary_Wharf_01.jpg",
   "og": "https://research.seadice.win/img/post-lunch-sleepiness-research.jpg",
   "local": true
+ },
+ "bedtime-stretching-sleep-quality-research": {
+  "file": "File:Calf foam rolling.jpg",
+  "src": "/img/bedtime-stretching-sleep-quality-research.jpg",
+  "src640": "/img/bedtime-stretching-sleep-quality-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "ふくらはぎをストレッチしている様子",
+  "artist": "Tyler  Read",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Calf_foam_rolling.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Calf_foam_rolling.jpg/960px-Calf_foam_rolling.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Calf_foam_rolling.jpg/500px-Calf_foam_rolling.jpg",
+  "og": "https://research.seadice.win/img/bedtime-stretching-sleep-quality-research.jpg",
+  "local": true
  }
 }

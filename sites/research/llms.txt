@@ -19,20 +19,30 @@
 
 ## 記事一覧
 
+### 睡眠
+
+- [寝酒は眠りを良くするのか。「寝つきは早いが、後半が乱れる」研究](https://research.seadice.win/alcohol-before-bed-sleep/): お酒で寝つきは早くなるが、夜の後半は眠りが乱れ、少量でも睡眠中の体の回復が妨げられていた。寝酒は眠りの助けにならない。
+- [寝る前の入浴は寝つきを良くするのか。研究でわかった効果的なタイミング](https://research.seadice.win/bathing-before-bed-sleep-onset/): 就寝1〜2時間前に10分以上の入浴で入眠が20〜30%早まったとする研究が複数。高齢者の足浴実験では一晩全体の改善は見られなかった。
+- [寝る前の読書は寝つきを良くするのか。紙の本と画面で違った研究](https://research.seadice.win/bedtime-reading-paper-book-sleep/): 寝る前に画面で読むと紙の本より寝つきが約10分遅れた。読書そのものより「何で読むか」が眠りを左右していた。
+- [夜スマホをやめられないのは意志の弱さ？研究でわかった原因と3つの一歩](https://research.seadice.win/bedtime-smartphone-sleep/): 日中の疲れと寝る前の画面の光が、眠りを遅らせる。5本の研究から、今夜できる工夫を整理。
+- [寝る前のストレッチは睡眠の質を上げるのか。4つの研究でわかったこと](https://research.seadice.win/bedtime-stretching-sleep-quality-research/): 不眠症の人への4か月のストレッチでISIが8.1点改善。一方、睡眠障害がある人全体を見た16件のレビューでは効果の証拠は乏しいとされた。
+- [寝る前に「明日やること」を書くと眠れる。研究でわかった理由](https://research.seadice.win/bedtime-todo-list-sleep/): 就寝前にやることリストを書いたグループが早く眠りについた実験を紹介。今夜からできる書き方も解説。
+- [カフェインは何時間前までOK？研究でわかった「量」と「時間」の関係](https://research.seadice.win/caffeine-hours-before-bed/): コーヒー1杯なら4時間前でも平気、でも400mgは12時間前でも睡眠に影響。量と時間の関係を解説。
+- [昼間に日光を浴びると夜よく眠れるのか。体内時計を変える「光」の研究](https://research.seadice.win/daytime-light-exposure-night-sleep-research/): 日中の光が多く安定している人ほど、寝つきが早く深い睡眠が増える。89人の追跡調査や自然光キャンプの実験からわかったこと。
+- [夜に運動すると眠れなくなるのか。寝る何時間前までならいいかを研究で調べた](https://research.seadice.win/evening-exercise-sleep-research/): 夜の運動は全体として眠りを悪くしなかった。ただ寝る直前の激しい運動は寝つきを遅らせることがあり、4時間前までに終えると影響は見られなかった。
+- [朝どうしても起きられない人へ。体内時計を約2時間動かした実験でわかったこと](https://research.seadice.win/morning-light-wake-up/): 起床時間・朝の光・食事や運動のタイミングを整えると、体内時計が平均約2時間前進した実験を紹介。
+- [昼寝は何分がいい？研究でわかった「10分」の意外な強さ](https://research.seadice.win/nap-best-length/): 5分では足りず、30分だとぼんやりする。24人の実験で最も効いた長さを解説。
+- [昼食の後に眠くなるのはなぜか。食後の眠気の研究でわかった2つの理由](https://research.seadice.win/post-lunch-sleepiness-research/): 午後の眠気は体内時計の波が土台にあり、食事をとらなくても起こる。922kcalの重いランチは305kcalの軽いランチより、運転中の車線はみ出しを有意に増やした。
+- [毎日同じ時刻に寝起きすると、眠りは良くなるのか。「睡眠の規則性」の研究](https://research.seadice.win/sleep-regularity-same-time-research/): 寝起きの時刻がそろっていることは、睡眠時間と同じくらい、気分や健康と関わっていた。まずは起きる時刻をそろえるのが一歩目。
+- [スヌーズで二度寝するのは体に悪いのか。研究でわかった意外な結果](https://research.seadice.win/snooze-alarm-research/): 30分のスヌーズで失う睡眠は約6分で、頭の働きも下がらなかった研究がある一方、寝ぼけが長引いたという研究もあり、結論は分かれている。
+- [週末の寝だめで平日の睡眠不足は帳消しにできる？4つの研究でわかったこと](https://research.seadice.win/weekend-catchup-sleep-debt/): 軽い寝だめは体調の良さと関連する一方、睡眠不足が大きいと帳消しにはできないことが4つの研究からわかった。
+
 ### 記憶・学習
 
 - [手書きとタイピング、どちらが記憶に残るのか。研究でわかった本当の差](https://research.seadice.win/handwriting-vs-typing-memory/): 手書きが有利という研究は再現で差が出なかった。脳の働きには違いがあるが、成績を分けるのは「自分の言葉でまとめるか」だった。
 - [声に出して覚えると記憶に残りやすいのか。研究でわかった条件](https://research.seadice.win/reading-aloud-memory-production-effect/): プロダクション効果の研究から、全部ではなく一部だけ声に出す方が記憶に残りやすいことを確認した。
 - [復習はいつがベスト？1,350人の実験でわかった、記憶が変わるタイミング](https://research.seadice.win/spacing-effect-review-timing/): 1350人以上の実験とメタ分析から、復習の最適な間隔を調べた。早すぎても遅すぎても効果が下がることがわかった。
 - [読み返すより、自分にテストする方が覚えられるのか。「テスト効果」の研究](https://research.seadice.win/testing-effect-retrieval-practice/): 1週間後の記憶は、くり返し読んだ人が40%、思い出す練習をした人が61%。読み返しより「思い出す」復習の方が残りやすい。
-
-### 先延ばし
-
-- [「やる気が出たらやる」は逆効果なのか。研究でわかった『行動が先』の心理学](https://research.seadice.win/motivation-before-action-research/): やる気を待たず先に行動する治療法が、本格的な心理療法と同等以上の効果を示すことを4つの研究から確認した。
-- [完璧主義は先延ばしを悪化させるのか。研究でわかった「危ない完璧主義」の正体](https://research.seadice.win/perfectionism-procrastination-research/): 評価を気にする完璧主義だけが先延ばしと関連し、自分の基準を追う完璧主義は関連しなかったことを複数の研究から確認した。
-- [先延ばしは「意志が弱い」からじゃない。感情の研究でわかったこと](https://research.seadice.win/procrastination-emotion-regulation/): 先延ばしは意志力ではなく感情調整の失敗という研究を紹介。638人の分析などから、今日からできる一歩も解説。
-- [先延ばしぐせは生まれつきなのか。双子研究と改善の研究でわかったこと](https://research.seadice.win/procrastination-genetics-change-research/): 先延ばしのしやすさの約46%は遺伝の影響だったが、8週間の認知行動療法で大きく改善した研究もある。生まれつきでも変えられる。
-- [ToDoリストは先延ばしを減らすのか。研究でわかった「書き方」の違い](https://research.seadice.win/todo-list-reduce-procrastination-research/): 具体的な計画を書くほど目標達成率が上がり、終わらない用事の「頭に残る」感覚も弱まる。ただし先延ばし自体を減らす効果は小〜中程度。
 
 ### 気分・ストレス
 
@@ -53,6 +63,14 @@
 - [人と話すと気分は上がるのか。知らない人との短い会話の研究](https://research.seadice.win/stranger-small-talk-mood-research/): 電車やカフェでの一言、オンラインの30分間会話まで。話しかけると気まずくなるという予想は、研究ではくり返し外れている。
 - [背筋を伸ばすと気分は上向くのか。姿勢とストレスの研究](https://research.seadice.win/upright-posture-mood-research/): 背筋を伸ばすと、ストレスの中でも気分や自尊心が保たれやすかった。一方、パワーポーズでホルモンが変わる効果は再現されなかった。
 
+### 先延ばし
+
+- [「やる気が出たらやる」は逆効果なのか。研究でわかった『行動が先』の心理学](https://research.seadice.win/motivation-before-action-research/): やる気を待たず先に行動する治療法が、本格的な心理療法と同等以上の効果を示すことを4つの研究から確認した。
+- [完璧主義は先延ばしを悪化させるのか。研究でわかった「危ない完璧主義」の正体](https://research.seadice.win/perfectionism-procrastination-research/): 評価を気にする完璧主義だけが先延ばしと関連し、自分の基準を追う完璧主義は関連しなかったことを複数の研究から確認した。
+- [先延ばしは「意志が弱い」からじゃない。感情の研究でわかったこと](https://research.seadice.win/procrastination-emotion-regulation/): 先延ばしは意志力ではなく感情調整の失敗という研究を紹介。638人の分析などから、今日からできる一歩も解説。
+- [先延ばしぐせは生まれつきなのか。双子研究と改善の研究でわかったこと](https://research.seadice.win/procrastination-genetics-change-research/): 先延ばしのしやすさの約46%は遺伝の影響だったが、8週間の認知行動療法で大きく改善した研究もある。生まれつきでも変えられる。
+- [ToDoリストは先延ばしを減らすのか。研究でわかった「書き方」の違い](https://research.seadice.win/todo-list-reduce-procrastination-research/): 具体的な計画を書くほど目標達成率が上がり、終わらない用事の「頭に残る」感覚も弱まる。ただし先延ばし自体を減らす効果は小〜中程度。
+
 ### 習慣
 
 - [1日何歩歩けばいいのか。「1万歩」の根拠を研究で調べた](https://research.seadice.win/daily-steps-how-many-research/): 「1万歩」の根拠は弱く、60歳以上は6,000〜8,000歩、60歳未満は8,000〜1万歩で効果が頭打ちに。7,000歩でも十分な効果があった。
@@ -61,23 +79,6 @@
 - [「2分ルール」は本当に効くのか。習慣が身につくまでの日数を研究で調べた](https://research.seadice.win/habit-formation-two-minute-rule/): 習慣が身につくまでの日数は中央値で66日（人によって18〜254日）。シンプルな行動ほど早く定着すると研究でわかった。今日からの一歩も紹介。
 - [習慣を記録するだけで続けやすくなるのか。研究でわかった「書くだけ」の効果](https://research.seadice.win/habit-tracking-boosts-continuation/): 138件のメタ分析などから、記録するだけで目標達成率が上がる効果と、効果を強める記録の仕方を確認した。
 - [「もし〇〇したら△△する」と決めると習慣は続くのか。if-thenプランの研究](https://research.seadice.win/if-then-planning-habit-research/): 「いつ・どこで・何をするか」をif-thenで決めると、94件・8,461人分の分析で目標達成を後押しする中〜大の効果があった。
-
-### 睡眠
-
-- [寝酒は眠りを良くするのか。「寝つきは早いが、後半が乱れる」研究](https://research.seadice.win/alcohol-before-bed-sleep/): お酒で寝つきは早くなるが、夜の後半は眠りが乱れ、少量でも睡眠中の体の回復が妨げられていた。寝酒は眠りの助けにならない。
-- [寝る前の入浴は寝つきを良くするのか。研究でわかった効果的なタイミング](https://research.seadice.win/bathing-before-bed-sleep-onset/): 就寝1〜2時間前に10分以上の入浴で入眠が20〜30%早まったとする研究が複数。高齢者の足浴実験では一晩全体の改善は見られなかった。
-- [寝る前の読書は寝つきを良くするのか。紙の本と画面で違った研究](https://research.seadice.win/bedtime-reading-paper-book-sleep/): 寝る前に画面で読むと紙の本より寝つきが約10分遅れた。読書そのものより「何で読むか」が眠りを左右していた。
-- [夜スマホをやめられないのは意志の弱さ？研究でわかった原因と3つの一歩](https://research.seadice.win/bedtime-smartphone-sleep/): 日中の疲れと寝る前の画面の光が、眠りを遅らせる。5本の研究から、今夜できる工夫を整理。
-- [寝る前に「明日やること」を書くと眠れる。研究でわかった理由](https://research.seadice.win/bedtime-todo-list-sleep/): 就寝前にやることリストを書いたグループが早く眠りについた実験を紹介。今夜からできる書き方も解説。
-- [カフェインは何時間前までOK？研究でわかった「量」と「時間」の関係](https://research.seadice.win/caffeine-hours-before-bed/): コーヒー1杯なら4時間前でも平気、でも400mgは12時間前でも睡眠に影響。量と時間の関係を解説。
-- [昼間に日光を浴びると夜よく眠れるのか。体内時計を変える「光」の研究](https://research.seadice.win/daytime-light-exposure-night-sleep-research/): 日中の光が多く安定している人ほど、寝つきが早く深い睡眠が増える。89人の追跡調査や自然光キャンプの実験からわかったこと。
-- [夜に運動すると眠れなくなるのか。寝る何時間前までならいいかを研究で調べた](https://research.seadice.win/evening-exercise-sleep-research/): 夜の運動は全体として眠りを悪くしなかった。ただ寝る直前の激しい運動は寝つきを遅らせることがあり、4時間前までに終えると影響は見られなかった。
-- [朝どうしても起きられない人へ。体内時計を約2時間動かした実験でわかったこと](https://research.seadice.win/morning-light-wake-up/): 起床時間・朝の光・食事や運動のタイミングを整えると、体内時計が平均約2時間前進した実験を紹介。
-- [昼寝は何分がいい？研究でわかった「10分」の意外な強さ](https://research.seadice.win/nap-best-length/): 5分では足りず、30分だとぼんやりする。24人の実験で最も効いた長さを解説。
-- [昼食の後に眠くなるのはなぜか。食後の眠気の研究でわかった2つの理由](https://research.seadice.win/post-lunch-sleepiness-research/): 午後の眠気は体内時計の波が土台にあり、食事をとらなくても起こる。922kcalの重いランチは305kcalの軽いランチより、運転中の車線はみ出しを有意に増やした。
-- [毎日同じ時刻に寝起きすると、眠りは良くなるのか。「睡眠の規則性」の研究](https://research.seadice.win/sleep-regularity-same-time-research/): 寝起きの時刻がそろっていることは、睡眠時間と同じくらい、気分や健康と関わっていた。まずは起きる時刻をそろえるのが一歩目。
-- [スヌーズで二度寝するのは体に悪いのか。研究でわかった意外な結果](https://research.seadice.win/snooze-alarm-research/): 30分のスヌーズで失う睡眠は約6分で、頭の働きも下がらなかった研究がある一方、寝ぼけが長引いたという研究もあり、結論は分かれている。
-- [週末の寝だめで平日の睡眠不足は帳消しにできる？4つの研究でわかったこと](https://research.seadice.win/weekend-catchup-sleep-debt/): 軽い寝だめは体調の良さと関連する一方、睡眠不足が大きいと帳消しにはできないことが4つの研究からわかった。
 
 ### 集中力
 
