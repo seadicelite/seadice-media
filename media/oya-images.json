@@ -1,0 +1,53 @@
+{
+ "parent-fall-prevention-home": {
+  "file": "File:Dülmen, Ehem. Textilfabrik Ketteler-Specht -- 2017 -- 6117.jpg",
+  "src": "/img/parent-fall-prevention-home.webp",
+  "src640": "/img/parent-fall-prevention-home-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "玄関の段差と手すり",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Ehem._Textilfabrik_Ketteler-Specht_--_2017_--_6117.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/D%C3%BClmen%2C_Ehem._Textilfabrik_Ketteler-Specht_--_2017_--_6117.jpg/960px-D%C3%BClmen%2C_Ehem._Textilfabrik_Ketteler-Specht_--_2017_--_6117.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/D%C3%BClmen%2C_Ehem._Textilfabrik_Ketteler-Specht_--_2017_--_6117.jpg/500px-D%C3%BClmen%2C_Ehem._Textilfabrik_Ketteler-Specht_--_2017_--_6117.jpg",
+  "og": "https://oya.seadice.win/img/parent-fall-prevention-home-og.jpg",
+  "local": true
+ },
+ "parent-forgetfulness-aging-or-dementia": {
+  "file": "File:Reading glasses .jpg",
+  "src": "/img/parent-forgetfulness-aging-or-dementia.webp",
+  "src640": "/img/parent-forgetfulness-aging-or-dementia-sm.webp",
+  "w": 960,
+  "h": 639,
+  "alt": "辞書の上に置いた老眼鏡",
+  "artist": "Mk2010",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Reading_glasses_.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Reading_glasses_.jpg/960px-Reading_glasses_.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Reading_glasses_.jpg/500px-Reading_glasses_.jpg",
+  "og": "https://oya.seadice.win/img/parent-forgetfulness-aging-or-dementia-og.jpg",
+  "local": true
+ },
+ "parent-driving-license-return-talk": {
+  "file": "File:Yorkshire bus stop.jpg",
+  "src": "/img/parent-driving-license-return-talk.webp",
+  "src640": "/img/parent-driving-license-return-talk-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "丘の上のバス停",
+  "artist": "Cameron Butler",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Yorkshire_bus_stop.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yorkshire_bus_stop.jpg/960px-Yorkshire_bus_stop.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yorkshire_bus_stop.jpg/500px-Yorkshire_bus_stop.jpg",
+  "og": "https://oya.seadice.win/img/parent-driving-license-return-talk-og.jpg",
+  "local": true
+ }
+}

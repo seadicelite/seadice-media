@@ -1,0 +1,226 @@
+{
+  "enabled": true,
+  "publish": "auto",
+  "slug": "oya",
+  "siteType": "article",
+  "name": "親が年をとったら",
+  "path": "sites/oya/",
+  "url": "https://oya.seadice.win/",
+  "concept": "70〜80代の親を持つ子ども世代に向けて、親の物忘れ・運転・転倒・ひとり暮らし・介護とお金の疑問に、公開された研究と公的機関のデータから結論を先に答える。わかっていることと、まだわかっていないことを分けて示し、親と一緒にできる次の一歩と声のかけ方に落とし込む。商品・サービスの紹介はしない",
+  "reader": "離れて暮らす70〜80代の親の老いに気づき、どうしたらいいか迷って、根拠のある答えを検索してきた40〜60代の子ども",
+  "tone": "やさしく、落ち着いて話しかける。親も子も責めない・不安を煽らない。親の気持ちと自分で決める権利を大事にする。わかっていないことは正直に書く",
+  "tagline": "親の老いを、研究データで考える。",
+  "lead": "物忘れは年のせい？免許返納はどう切り出す？ひとり暮らしは大丈夫？親の老いに気づいたときの疑問に、研究と公的なデータから答えます。親への声のかけ方まで書きます。",
+  "titleSuffix": "親の老いを研究データで考えるメディア",
+  "description": "親の物忘れは年のせい？免許返納はどう切り出す？親の老いに気づいた子ども世代の疑問に、研究論文と公的機関のデータから結論を先に答えるメディア。親への声のかけ方まで。商品の紹介はしません。出典つき。",
+  "about": "記事はAIが公開された研究論文や、WHO・厚生労働省・警察庁など公的機関のデータを調べ、出典の内容を確認して作成しています。SEADICEが独自に実験や調査をしたものではありません。商品・サービスの紹介はしていません。",
+  "theme": {
+    "bg": "#F7F2E8",
+    "card": "#FFFFFF",
+    "accent": "#A4472A",
+    "accent2": "#3D6A4B",
+    "border": "#E6DCC8",
+    "text": "#2F2A24",
+    "muted": "#6B6157",
+    "link": "#9A3F22"
+  },
+  "categories": [
+    {
+      "name": "物忘れ・認知症",
+      "id": "memory",
+      "color": "#A4472A",
+      "icon": "book",
+      "desc": "年のせいの物忘れと、相談した方がいいサイン。認知症の予防と、わかっていること"
+    },
+    {
+      "name": "体と健康",
+      "id": "body",
+      "color": "#3D6A4B",
+      "icon": "heart",
+      "desc": "転倒、食事、聞こえ、ヒートショック。親の体の変化と、効果が確かめられた対策"
+    },
+    {
+      "name": "運転と免許",
+      "id": "driving",
+      "color": "#2F5D7C",
+      "icon": "target",
+      "desc": "高齢ドライバーの事故のデータと、免許返納を親と一緒に考える方法"
+    },
+    {
+      "name": "ひとり暮らし・見守り",
+      "id": "alone",
+      "color": "#8A5A12",
+      "icon": "shield",
+      "desc": "離れて暮らす親の見守り、孤立、詐欺の被害。安心して暮らし続けるために"
+    },
+    {
+      "name": "介護とお金",
+      "id": "care",
+      "color": "#6A4C8C",
+      "icon": "link",
+      "desc": "介護保険、要介護認定、介護と仕事の両立。制度とお金を公的なデータで"
+    },
+    {
+      "name": "親との話し方",
+      "id": "talk",
+      "color": "#9C3D5A",
+      "icon": "clock",
+      "desc": "老いの話をどう切り出すか。親の気持ちを尊重しながら一緒に決めるために"
+    }
+  ],
+  "types": [
+    {
+      "id": "guide",
+      "label": "深掘り"
+    }
+  ],
+  "template": ".claude/commands/oya-template.html",
+  "rulesFrom": ".claude/commands/oya.md",
+  "relatedApps": "立ち上げ期はアプリ送客なし（メディアが育ってから作る方針）。関連アプリ欄は入れない",
+  "postsPerRun": 1,
+  "topicQueue": [
+    "離れて暮らす母が電話で同じ話を何度もする。認知症のサイン？",
+    "親がひとり暮らし。孤立は健康にどれくらい影響する？",
+    "高齢の親が特殊詐欺にだまされやすいのはなぜ？被害のデータと家族でできる対策",
+    "冬の入浴が心配。ヒートショックを防ぐには？",
+    "親の聞こえが悪くなった。補聴器を使うと認知症のリスクは下がる？",
+    "親が食が細くなった。高齢者の低栄養・フレイルの目安",
+    "要介護認定はいつ、どう申請する？流れと期間",
+    "介護保険の自己負担は何割？親の介護にかかるお金のデータ",
+    "介護離職を防ぐには？仕事と介護の両立のデータと使える制度",
+    "親に「施設」の話を切り出すタイミングは？",
+    "認知症は予防できる？運動・社会参加などリスクを下げる要因の研究",
+    "親が昼間ずっとテレビを見ている。座りっぱなしの影響は？",
+    "親の薬が多すぎる？多剤併用（ポリファーマシー）でわかっていること",
+    "親が実家の片付けを嫌がる。物の多さと転倒の関係は？",
+    "高齢の親が熱中症になりやすいのはなぜ？エアコンをつけてもらう工夫",
+    "親の老いを受け入れられない。介護する子どもの心の負担の研究",
+    "遠距離介護はどこまでできる？帰省の頻度と見守りのデータ",
+    "親が夜中に何度もトイレに起きる。転倒との関係は？"
+  ],
+  "layout": "magazine",
+  "faq": [
+    [
+      "親が年をとったらとはどんなメディアですか？",
+      "親の物忘れ・運転・転倒・ひとり暮らし・介護とお金など、親の老いに気づいた子ども世代の疑問に、公開された研究と公的機関のデータから結論を先に答えるメディアです。SEADICEが運営しています。"
+    ],
+    [
+      "記事は誰が書いていますか？",
+      "AI（Claude）が研究論文や公的機関の資料を調べ、出典の内容を照合して作成しています。SEADICEが独自に実験や調査をしたものではありません。"
+    ],
+    [
+      "見守りサービスや介護用品の紹介はありますか？",
+      "ありません。商品・サービス・施設の紹介、アフィリエイト、広告は掲載していません。"
+    ]
+  ],
+  "trust": [
+    [
+      "研究と公的データが根拠",
+      "研究論文と、WHO・厚生労働省・警察庁などの公的なデータを、AIが原典と照合して書いています。"
+    ],
+    [
+      "親の気持ちを大事にします",
+      "「やめさせる」ではなく「一緒に決める」。親への声のかけ方まで具体的に書きます。"
+    ],
+    [
+      "何も売りません",
+      "商品・サービス・施設の紹介、アフィリエイト、広告は一切ありません。"
+    ]
+  ],
+  "pageSections": {
+    "about": [
+      [
+        "運営",
+        [
+          "{name} は、アプリスタジオ SEADICE（シーダイス）が運営するメディアです。",
+          "{concept_short}"
+        ]
+      ],
+      [
+        "記事の作り方",
+        [
+          "記事は、AI（Claude）が公開されている研究論文や、公的機関のデータ・指針を調べ、内容を確認して整理し、作成しています。SEADICE が独自に実験や調査をしたものではありません。",
+          "AI が作成した記事は、公開前に、出典の照合など決められた検査を通ったものだけを掲載します。検査を通らなかった記事は公開しません。"
+        ]
+      ],
+      [
+        "編集方針",
+        [
+          "記事の軸は「親の老いの疑問に、研究データから結論を先に答える」ことと「親と一緒にできる次の一歩」です。",
+          "確認できた出典だけを書きます。研究の対象や限界、まだわかっていないことを、できるだけ添えて紹介します。親や介護する家族を責めたり、不安を煽ったりする書き方はしません。"
+        ]
+      ],
+      [
+        "何も売りません",
+        [
+          "親が年をとったらは、商品・サービス・施設の紹介やアフィリエイトを一切行いません。広告も掲載しません。"
+        ]
+      ],
+      [
+        "お問い合わせ",
+        [
+          "記事の誤りのご指摘や、ご意見は <a href=\"mailto:hi@seadice.win\">hi@seadice.win</a> までご連絡ください。"
+        ]
+      ]
+    ],
+    "sources": [
+      [
+        "使う出典",
+        [
+          "査読のある学術論文（老年医学・老年学・公衆衛生・交通安全研究など）、メタ分析・システマティックレビュー、WHO・厚生労働省・内閣府・警察庁・消費者庁などの公的機関のデータを使います。見守り・介護サービスの事業者や保険会社による調査は出典にしません。",
+          "各記事の末尾に、著者、発行年、タイトル、掲載誌、リンクを載せています。"
+        ]
+      ],
+      [
+        "検証の方法",
+        [
+          "1. 論文の原典（要旨や本文）や公的資料を開き、記事に書く数値と主張が、原典に書かれていることを1件ずつ照合します。",
+          "2. 原典が開けない場合は、別の信頼できる情報源で確認できた内容だけを使います。",
+          "3. 確認できなかった数値や主張は、記事から削除します。"
+        ]
+      ],
+      [
+        "わかっている度",
+        [
+          "各記事には、研究の量と質から判断した「わかっている度」（★3段階）を表示します。★★★は複数の研究やメタ分析で結果がそろっているもの、★☆☆は研究が少ない・結果が分かれているものです。"
+        ]
+      ],
+      [
+        "写真",
+        [
+          "記事の写真は、Wikimedia Commons の、自由に利用できるライセンス（パブリックドメイン、CC0、CC BY、CC BY-SA）の素材を使い、撮影者とライセンスを各記事に表示しています。人の顔がはっきり写った写真は使いません。"
+        ]
+      ],
+      [
+        "訂正について",
+        [
+          "誤りがあれば、確認のうえ修正し、記事の日付を更新します。ご指摘は hi@seadice.win までお願いします。"
+        ]
+      ]
+    ],
+    "disclaimer": [
+      [
+        "情報の性質",
+        [
+          "{name}の記事は、公開された研究とデータをもとにした一般的な情報であり、医師・専門家による個別の助言や診断の代わりになるものではありません。",
+          "研究の結果は、対象となった集団についての傾向であり、すべての人や家庭に当てはまるとは限りません。制度の内容や金額は記事に書いた年度のもので、変わることがあります。"
+        ]
+      ],
+      [
+        "心配なとき",
+        [
+          "親の物忘れや体の様子で気になることがあるときは、かかりつけ医や、親がお住まいの地域の地域包括支援センターに相談できます。"
+        ]
+      ],
+      [
+        "責任の範囲",
+        [
+          "記事の内容には、正確を期していますが、その完全性や、特定の目的への適合性を保証するものではありません。記事を参考にした行動の結果について、当メディアは責任を負いません。"
+        ]
+      ]
+    ]
+  },
+  "mastheadHtml": "<div class=\"oy-mast\"><div class=\"oy-stamp\" aria-hidden=\"true\"><span>親</span></div><div class=\"oy-post\" aria-hidden=\"true\">SEADICE<br>%UPDATED%</div><p class=\"oy-to\">離れて暮らす親のことが、気になりはじめたあなたへ</p><h1>親が<span>年をとったら</span></h1><p class=\"oy-tag\">%TAGLINE%</p><p class=\"oy-lead\">%LEAD%</p><p class=\"oy-count\">いま <b>%POSTS%</b> 本の記事・<b>%CATS%</b> つのテーマ</p></div><!--mastend-->",
+  "extraCss": "body{background-color:#F7F2E8;background-image:repeating-linear-gradient(transparent 0 33px,rgba(164,71,42,.07) 33px 34px)} .nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#6B6157;color:#6B6157} nav.top{background:rgba(247,242,232,.94)} nav.top a.r{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:15px;font-weight:700;color:#2F2A24;letter-spacing:.08em} .oy-mast{position:relative;background:#FFFDF8;border:1px solid #E6DCC8;border-radius:6px;padding:34px 28px 28px;margin-bottom:28px;box-shadow:0 1px 0 #E6DCC8,0 10px 30px -18px rgba(47,42,36,.35)} .oy-mast::before{content:\"\";position:absolute;left:0;right:0;top:0;height:6px;border-radius:6px 6px 0 0;background:repeating-linear-gradient(135deg,#A4472A 0 14px,#FFFDF8 14px 22px,#2F5D7C 22px 36px,#FFFDF8 36px 44px)} .oy-stamp{position:absolute;right:24px;top:28px;width:62px;height:74px;background:#F8E9E0;border:2px dashed #A4472A;outline:4px solid #FFFDF8;display:flex;align-items:center;justify-content:center;transform:rotate(3deg)} .oy-stamp span{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:34px;font-weight:700;color:#A4472A} .oy-post{position:absolute;right:104px;top:84px;width:66px;height:66px;border:1.5px solid rgba(61,106,75,.55);border-radius:50%;display:flex;align-items:center;justify-content:center;text-align:center;font-size:9px;letter-spacing:.06em;line-height:1.5;color:rgba(61,106,75,.85);transform:rotate(-12deg);background:transparent} .oy-to{font-size:14px;color:#6B6157;margin-right:110px} .oy-mast h1{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:clamp(38px,9vw,70px);font-weight:700;line-height:1.25;letter-spacing:.04em;margin-top:14px;background:none;-webkit-text-fill-color:#2F2A24;color:#2F2A24} .oy-mast h1 span{color:#A4472A;-webkit-text-fill-color:#A4472A;display:inline-block} .oy-tag{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:19px;font-weight:700;color:#3D6A4B;margin-top:10px} .oy-lead{font-size:16px;color:#423A32;margin-top:12px;max-width:600px;line-height:1.9} .oy-count{font-size:14px;color:#6B6157;margin-top:16px;padding-top:14px;border-top:1px dashed #E6DCC8} .oy-count b{color:#A4472A;font-size:18px} .card h3,.grid h3{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} main{font-size:16px} @media(max-width:560px){.oy-mast{padding:28px 18px 22px}.oy-stamp{width:50px;height:60px;right:14px;top:22px}.oy-stamp span{font-size:26px}.oy-post{display:none}.oy-to{margin-right:64px}} .feat .sh{background:linear-gradient(180deg,rgba(28,22,16,0) 20%,rgba(28,22,16,.86))!important} .feat h2,.feat p{color:#FFFDF8!important;-webkit-text-fill-color:#FFFDF8} .feat p{opacity:1!important} .feat h2,.sechead h2,.tile b,.srow .t,.side h3{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} .ticker .lb{background:#A4472A;color:#FFFDF8}",
+  "articleCss": "body{background-color:#F7F2E8;background-image:repeating-linear-gradient(transparent 0 33px,rgba(164,71,42,.07) 33px 34px)} nav{background:rgba(247,242,232,.94)!important} nav a.r{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-weight:700;color:#2F2A24!important} h1{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-weight:700;letter-spacing:.02em} h2.sec{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-weight:700} article{font-size:17px} .lead{font-size:18px!important} .summary{background:#FFFDF8!important;border:1px solid #E6DCC8!important;border-top:4px solid #A4472A!important;border-radius:6px!important} .summary h2{color:#A4472A!important} h2.sec .n{display:inline-block;color:#A4472A!important;border-bottom:2px solid #A4472A;padding-bottom:2px;margin-bottom:8px} .answer{background:#FFFDF8!important;border-left:4px solid #3D6A4B!important;border-radius:0 10px 10px 0!important;font-weight:700} .study,.step,.stat,details,.unknown{border-radius:8px!important} .study{background:#FFFDF8!important} .step .num{background:#3D6A4B!important} .dsc,.study .find{font-size:16px!important} .hero img{border-radius:8px}"
+}
