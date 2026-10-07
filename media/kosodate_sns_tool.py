@@ -17,7 +17,7 @@ from pathlib import Path
 from kosodate_sns_scenes import CLASSMATES, FALLBACK_COMMENTS, FREE_EVENTS, LEVELS, SCENES
 
 URL = "https://kosodate.seadice.win/sns-practice/"
-API = "https://kosodate-ai.seadice-lite.workers.dev/"
+API = "https://kosodate-ai.seadice-home.workers.dev/"
 
 FAQ = [
     ("子どもにSNSを使わせる前に、何を練習させればいいですか？",

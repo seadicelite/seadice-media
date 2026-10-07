@@ -11,7 +11,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 URL = "https://kosodate.seadice.win/screen-time-check/"
-WORKER = "https://kosodate-ai.seadice-lite.workers.dev/screen"
+WORKER = "https://kosodate-ai.seadice-home.workers.dev/screen"
 
 FAQ = [
     ("子どものスクリーンタイムは1日何時間までが目安ですか？",
