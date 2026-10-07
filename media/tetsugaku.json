@@ -117,5 +117,29 @@
       "label": "用語集",
       "path": "/glossary/"
     }
+  ],
+  "apps": [
+    {
+      "id": "tetsujin-friends",
+      "name": "哲人フレンド",
+      "appStoreId": "6809145872",
+      "icon": "/img/apps/tetsujin-friends.webp",
+      "catch": "哲学者を友達に追加すると、1日1回ほど向こうから話しかけてくる。返事はしてもしなくてもいい、LINEのような哲学者との会話",
+      "hubLead": "アプリで話せる哲学者たちの考えを、生活の言葉で解説した記事です。話す前に読んでも、話したあとに読み返しても。",
+      "theme": "アプリに登場する哲学者本人(ソクラテス、プラトン、アリストテレス、エピクテトス、セネカ、マルクス・アウレリウス、孔子、デカルト、カント、ニーチェ、ショーペンハウアー、サルトル、バタイユ、カフカ、ボードリヤール)の記事だけに付ける。登場しない哲学者や、概念・思考実験の記事には付けない",
+      "articles": [
+        "socrates-know-nothing",
+        "plato-allegory-of-the-cave",
+        "aristotle-eudaimonia",
+        "epictetus-dichotomy-of-control",
+        "confucius-ren",
+        "descartes-cogito",
+        "descartes-mind-body-dualism",
+        "kant-lying-categorical-imperative",
+        "nietzsche-god-is-dead",
+        "schopenhauer-will-pessimism",
+        "sartre-existence-precedes-essence"
+      ]
+    }
   ]
 }
