@@ -214,7 +214,7 @@
     ]
   },
   "mastheadHtml": "<div class=\"oy-mast\"><div class=\"oy-stamp\" aria-hidden=\"true\"><span>親</span></div><div class=\"oy-post\" aria-hidden=\"true\">SEADICE<br>%UPDATED%</div><p class=\"oy-to\">離れて暮らす親のことが、気になりはじめたあなたへ</p><h1>親が<span>年をとったら</span></h1><p class=\"oy-tag\">%TAGLINE%</p><p class=\"oy-lead\">%LEAD%</p><p class=\"oy-count\">いま <b>%POSTS%</b> 本の記事・<b>%CATS%</b> つのテーマ</p></div><!--mastend-->",
-  "extraCss": "body{background-color:#F7F2E8;background-image:repeating-linear-gradient(transparent 0 33px,rgba(164,71,42,.07) 33px 34px)} .nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#6B6157;color:#6B6157} nav.top{background:rgba(247,242,232,.94)} nav.top a.r{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:15px;font-weight:700;color:#2F2A24;letter-spacing:.08em} .oy-mast{position:relative;background:#FFFDF8;border:1px solid #E6DCC8;border-radius:6px;padding:34px 28px 28px;margin-bottom:28px;box-shadow:0 1px 0 #E6DCC8,0 10px 30px -18px rgba(47,42,36,.35)} .oy-mast::before{content:\"\";position:absolute;left:0;right:0;top:0;height:6px;border-radius:6px 6px 0 0;background:repeating-linear-gradient(135deg,#A4472A 0 14px,#FFFDF8 14px 22px,#2F5D7C 22px 36px,#FFFDF8 36px 44px)} .oy-stamp{position:absolute;right:24px;top:28px;width:62px;height:74px;background:#F8E9E0;border:2px dashed #A4472A;outline:4px solid #FFFDF8;display:flex;align-items:center;justify-content:center;transform:rotate(3deg)} .oy-stamp span{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:34px;font-weight:700;color:#A4472A} .oy-post{position:absolute;right:104px;top:84px;width:66px;height:66px;border:1.5px solid rgba(61,106,75,.55);border-radius:50%;display:flex;align-items:center;justify-content:center;text-align:center;font-size:9px;letter-spacing:.06em;line-height:1.5;color:rgba(61,106,75,.85);transform:rotate(-12deg);background:transparent} .oy-to{font-size:14px;color:#6B6157;margin-right:110px} .oy-mast h1{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:clamp(38px,9vw,70px);font-weight:700;line-height:1.25;letter-spacing:.04em;margin-top:14px;background:none;-webkit-text-fill-color:#2F2A24;color:#2F2A24} .oy-mast h1 span{color:#A4472A;-webkit-text-fill-color:#A4472A;display:inline-block} .oy-tag{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:19px;font-weight:700;color:#3D6A4B;margin-top:10px} .oy-lead{font-size:16px;color:#423A32;margin-top:12px;max-width:600px;line-height:1.9} .oy-count{font-size:14px;color:#6B6157;margin-top:16px;padding-top:14px;border-top:1px dashed #E6DCC8} .oy-count b{color:#A4472A;font-size:18px} .card h3,.grid h3{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} main{font-size:16px} @media(max-width:560px){.oy-mast{padding:28px 18px 22px}.oy-stamp{width:50px;height:60px;right:14px;top:22px}.oy-stamp span{font-size:26px}.oy-post{display:none}.oy-to{margin-right:64px}} .feat .sh{background:linear-gradient(180deg,rgba(28,22,16,0) 20%,rgba(28,22,16,.86))!important} .feat h2,.feat p{color:#FFFDF8!important;-webkit-text-fill-color:#FFFDF8} .feat p{opacity:1!important} .feat h2,.sechead h2,.tile b,.srow .t,.side h3{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} .ticker .lb{background:#A4472A;color:#FFFDF8} .kh>h2{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-weight:700;font-size:22px;letter-spacing:.03em} .kh>h2::after{content:\"\";display:block;width:40px;height:2px;background:#A4472A;margin-top:8px} .kh-age a{border:1px solid #E6DCC8;border-top:4px solid #A4472A;border-radius:6px;box-shadow:0 6px 18px -14px rgba(47,42,36,.5);background:#FFFDF8} .kh-age a:nth-child(2){border-top-color:#2F5D7C}.kh-age a:nth-child(3){border-top-color:#8A5A12}.kh-age a:nth-child(4){border-top-color:#6A4C8C} .kh-age a:hover,.kh-age a:focus-visible{transform:translateY(-2px);box-shadow:0 10px 22px -14px rgba(47,42,36,.6)} .kh-age b{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:20px;font-weight:700} .kh-age span{font-size:14px} .kh-q a{border-radius:6px;background:#FFFDF8;padding:18px 20px} .kh-q b{font-size:17px} .kh-q span{font-size:15px;color:#423A32} .kh-q b::before{content:\"Q.\";color:var(--c);margin-right:6px;font-weight:900} .kh-cat{border-radius:6px;background:#FFFDF8} .kh-cat summary b{font-size:17px} .kh-cat li a{font-size:16px} @media(max-width:560px){.kh-age b{font-size:16px;letter-spacing:0}.kh-age a{padding:16px 12px}}",
+  "extraCss": "body{background-color:#F7F2E8;background-image:repeating-linear-gradient(transparent 0 33px,rgba(164,71,42,.07) 33px 34px)} .nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#6B6157;color:#6B6157} nav.top{background:rgba(247,242,232,.94)} nav.top a.r{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:15px;font-weight:700;color:#2F2A24;letter-spacing:.08em} .oy-mast{position:relative;background:#FFFDF8;border:1px solid #E6DCC8;border-radius:6px;padding:34px 28px 28px;margin-bottom:28px;box-shadow:0 1px 0 #E6DCC8,0 10px 30px -18px rgba(47,42,36,.35)} .oy-mast::before{content:\"\";position:absolute;left:0;right:0;top:0;height:6px;border-radius:6px 6px 0 0;background:repeating-linear-gradient(135deg,#A4472A 0 14px,#FFFDF8 14px 22px,#2F5D7C 22px 36px,#FFFDF8 36px 44px)} .oy-stamp{position:absolute;right:24px;top:28px;width:62px;height:74px;background:#F8E9E0;border:2px dashed #A4472A;outline:4px solid #FFFDF8;display:flex;align-items:center;justify-content:center;transform:rotate(3deg)} .oy-stamp span{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:34px;font-weight:700;color:#A4472A} .oy-post{position:absolute;right:104px;top:84px;width:66px;height:66px;border:1.5px solid rgba(61,106,75,.55);border-radius:50%;display:flex;align-items:center;justify-content:center;text-align:center;font-size:9px;letter-spacing:.06em;line-height:1.5;color:rgba(61,106,75,.85);transform:rotate(-12deg);background:transparent} .oy-to{font-size:14px;color:#6B6157;margin-right:110px} .oy-mast h1{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:clamp(38px,9vw,70px);font-weight:700;line-height:1.25;letter-spacing:.04em;margin-top:14px;background:none;-webkit-text-fill-color:#2F2A24;color:#2F2A24} .oy-mast h1 span{color:#A4472A;-webkit-text-fill-color:#A4472A;display:inline-block} .oy-tag{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:19px;font-weight:700;color:#3D6A4B;margin-top:10px} .oy-lead{font-size:16px;color:#423A32;margin-top:12px;max-width:600px;line-height:1.9} .oy-count{font-size:14px;color:#6B6157;margin-top:16px;padding-top:14px;border-top:1px dashed #E6DCC8} .oy-count b{color:#A4472A;font-size:18px} .card h3,.grid h3{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} main{font-size:16px} @media(max-width:560px){.oy-mast{padding:28px 18px 22px}.oy-stamp{width:50px;height:60px;right:14px;top:22px}.oy-stamp span{font-size:26px}.oy-post{display:none}.oy-to{margin-right:64px}} .feat .sh{background:linear-gradient(180deg,rgba(28,22,16,0) 20%,rgba(28,22,16,.86))!important} .feat h2,.feat p{color:#FFFDF8!important;-webkit-text-fill-color:#FFFDF8} .feat p{opacity:1!important} .feat h2,.sechead h2,.tile b,.srow .t,.side h3{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} .ticker .lb{background:#A4472A;color:#FFFDF8} .kh>h2{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-weight:700;font-size:22px;letter-spacing:.03em} .kh>h2::after{content:\"\";display:block;width:40px;height:2px;background:#A4472A;margin-top:8px} .kh-age a{border:1px solid #E6DCC8;border-top:4px solid #A4472A;border-radius:6px;box-shadow:0 6px 18px -14px rgba(47,42,36,.5);background:#FFFDF8} .kh-age a:nth-child(2){border-top-color:#2F5D7C}.kh-age a:nth-child(3){border-top-color:#8A5A12}.kh-age a:nth-child(4){border-top-color:#6A4C8C} .kh-age a:hover,.kh-age a:focus-visible{transform:translateY(-2px);box-shadow:0 10px 22px -14px rgba(47,42,36,.6)} .kh-age b{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:20px;font-weight:700} .kh-age span{font-size:14px} .kh-q a{border-radius:6px;background:#FFFDF8;padding:18px 20px} .kh-q b{font-size:17px} .kh-q span{font-size:15px;color:#423A32} .kh-q b::before{content:\"Q.\";color:var(--c);margin-right:6px;font-weight:900} .kh-cat{border-radius:6px;background:#FFFDF8} .kh-cat summary b{font-size:17px} .kh-cat li a{font-size:16px} @media(max-width:560px){.kh-age b{font-size:16px;letter-spacing:0}.kh-age a{padding:16px 12px}} h1{background:none;-webkit-text-fill-color:#2F2A24;color:#2F2A24;font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-weight:700;letter-spacing:.02em} h2{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} .ck{padding-left:0!important;margin-left:0!important}.ck li{margin-left:0!important;margin-right:0!important}",
   "articleCss": "body{background-color:#F7F2E8;background-image:repeating-linear-gradient(transparent 0 33px,rgba(164,71,42,.07) 33px 34px)} nav{background:rgba(247,242,232,.94)!important} nav a.r{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-weight:700;color:#2F2A24!important} h1{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-weight:700;letter-spacing:.02em} h2.sec{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-weight:700} article{font-size:17px} .lead{font-size:18px!important} .summary{background:#FFFDF8!important;border:1px solid #E6DCC8!important;border-top:4px solid #A4472A!important;border-radius:6px!important} .summary h2{color:#A4472A!important} h2.sec .n{display:table;color:#A4472A!important;border-bottom:2px solid #A4472A;padding-bottom:2px;margin-bottom:10px;font-size:13px;letter-spacing:.16em} .answer{background:#FFFDF8!important;border-left:4px solid #3D6A4B!important;border-radius:0 10px 10px 0!important;font-weight:700} .study,.step,.stat,details,.unknown{border-radius:8px!important} .study{background:#FFFDF8!important} .step .num{background:#3D6A4B!important} .dsc,.study .find{font-size:16px!important} .hero img{border-radius:8px} .anav{display:flex;gap:8px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;margin:0 -20px 18px;padding:0 20px 4px}.anav::-webkit-scrollbar{display:none} .anav a{flex:0 0 auto;font-size:13px;color:#423A32;background:#FFFDF8;border:1px solid #E6DCC8;border-radius:999px;padding:7px 14px;text-decoration:none;white-space:nowrap} .anav a:hover,.anav a:focus-visible{border-color:#A4472A;color:#A4472A} @media(min-width:700px){.anav{flex-wrap:wrap;overflow:visible;margin:0 0 18px;padding:0}}",
   "hub": {
     "agesTitle": "いま、どんなことが気になっていますか？",
@@ -278,28 +278,44 @@
       }
     ],
     "latest": 6,
-    "actionsTitle": "調べるときに",
-    "actionsLead": "冬の備え、言葉の意味、最初の相談先を確かめたいときに。",
+    "actionsTitle": "まとめて読む",
+    "actionsLead": "記事の結論を、目的ごとに1ページにまとめました。",
     "actions": [
       {
+        "label": "親が年をとったら確かめたい10のこと",
+        "desc": "相談先、物忘れの目安、転倒、薬、お金、詐欺など。最初に読むならここから。",
+        "href": "/ten/"
+      },
+      {
         "label": "冬の親の家で気をつけたい9つのこと",
-        "desc": "お風呂、家の寒さ、夜のトイレ、帰省で話すこと。記事の結論を1ページにまとめました。",
+        "desc": "お風呂、家の寒さ、夜のトイレ、帰省で話すこと。",
         "href": "/winter/"
       },
       {
         "label": "用語集（25語）",
         "desc": "MCI、フレイル、要介護認定、ヒートショックなど、記事に出てくる言葉をやさしく説明しています。",
         "href": "/glossary/"
-      },
+      }
+    ],
+    "tools": [
       {
-        "label": "まずどこに相談する？",
-        "desc": "親の住所を担当する地域包括支援センターで、本人も家族も無料で相談できます。",
-        "href": "/parent-community-support-center/"
+        "kicker": "帰省の前に",
+        "label": "帰省チェックリスト：離れて暮らす親の家で確かめたいこと",
+        "desc": "物忘れ、体と食事、家の中、運転、お金と詐欺、もしものときの連絡。21個のチェックに、親への声のかけ方と根拠の記事を添えました。印刷もできます。",
+        "href": "/kisei-checklist/"
       }
     ]
   },
   "ogImage": "/og.png",
   "extraNav": [
+    {
+      "label": "帰省チェックリスト",
+      "path": "/kisei-checklist/"
+    },
+    {
+      "label": "確かめたい10のこと",
+      "path": "/ten/"
+    },
     {
       "label": "冬の備え9つ",
       "path": "/winter/"
@@ -333,6 +349,10 @@
     {
       "label": "親との話し方",
       "path": "/category/talk/"
+    },
+    {
+      "label": "帰省チェックリスト",
+      "path": "/kisei-checklist/"
     },
     {
       "label": "用語集",
