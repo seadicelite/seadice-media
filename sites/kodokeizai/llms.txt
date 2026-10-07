@@ -3,7 +3,7 @@
 > ゼロから学ぶ行動経済学は、人のお金や選択のくせを研究する行動経済学を無料で独学できる学習サイトです。限定合理性、バイアス、プロスペクト理論、ナッジまでを全{chapters}章の講座と用語辞典で学べます。登録不要。
 
 ゼロから学ぶ行動経済学はSEADICE(https://seadice.win/)が運営する、行動経済学を無料で独学できる学習サイトです。登録不要・無料。
-行動経済学とは何か・限定合理性・ヒューリスティクスとバイアス・プロスペクト理論と損失回避・時間割引・ナッジ・公共政策への応用を学ぶ無料講座「ゼロから学ぶ行動経済学入門」（全14章）と、行動経済学用語辞典（112語）を掲載しています。
+行動経済学とは何か・限定合理性・ヒューリスティクスとバイアス・プロスペクト理論と損失回避・時間割引・ナッジ・公共政策への応用を学ぶ無料講座「ゼロから学ぶ行動経済学入門」（全14章）と、行動経済学用語辞典（154語）を掲載しています。
 本文はノーベル賞の公式解説・環境省などの公的機関・OECD・原典の論文などの一次情報をもとに日本語で独自に書いており、各ページに出典があります。追試で揺らいでいる研究は断定していません。
 
 ## 主要ページ
@@ -63,11 +63,31 @@
   - 9-3 共有地の悲劇とは？みんなの資源はなぜ使い尽くされるのか: https://kodokeizai.seadice.win/course/tragedy-of-the-commons/
   - 9-4 公共財ゲームとは？協力はなぜ崩れ、罰で持ち直すのか: https://kodokeizai.seadice.win/course/public-goods-game/
   - 9-5 共有地は守れる。オストロムの8つの設計原則: https://kodokeizai.seadice.win/course/ostrom-design-principles/
-- 第10章 ナッジと選択アーキテクチャ: 選ぶ自由を残して行動を後押しするナッジと、選ぶときの環境（選択アーキテクチャ）の設計を学びます。（準備中）
-- 第11章 行動ファイナンス: お金の市場や投資の判断に、心のくせがどう現れるかを学びます。個別の投資助言は扱いません。（準備中）
-- 第12章 公共政策への応用: 行動経済学が世界と日本の行政でどう使われているかを、公的機関の事例で学びます。（準備中）
-- 第13章 実験の方法と再現性・批判: 行動経済学の研究がどう行われるか、結果の確かさをどう見るか、どんな批判があるかを学びます。（準備中）
-- 第14章 まとめ: 講座全体を振り返り、学んだ知識を日常で使う方法と、無料で学び続けるための資料を紹介します。（準備中）
+- 第10章 ナッジと選択アーキテクチャ: 選ぶ自由を残して行動を後押しするナッジと、選ぶときの環境（選択アーキテクチャ）の設計を学びます。
+  - 10-1 ナッジとは？禁止もせず、損得も変えない後押し: https://kodokeizai.seadice.win/course/what-is-nudge/
+  - 10-2 選択アーキテクチャとは？選ぶ環境のデザイン: https://kodokeizai.seadice.win/course/choice-architecture/
+  - 10-3 デフォルトの力。初期設定はなぜそのまま選ばれるのか: https://kodokeizai.seadice.win/course/defaults/
+  - 10-4 「みんなやっています」はなぜ効く？社会規範メッセージ: https://kodokeizai.seadice.win/course/social-norms/
+  - 10-5 ナッジの倫理とブースト。良い後押しと悪い後押しの違い: https://kodokeizai.seadice.win/course/nudge-ethics-boost/
+- 第11章 行動ファイナンス: お金の市場や投資の判断に、心のくせがどう現れるかを学びます。個別の投資助言は扱いません。
+  - 11-1 行動ファイナンスとは。市場にも心のくせが現れる: https://kodokeizai.seadice.win/course/behavioral-finance/
+  - 11-2 気質効果とは？利益はすぐ確定し、損は持ち続ける: https://kodokeizai.seadice.win/course/disposition-effect/
+  - 11-3 自信過剰と売り買いのしすぎ。回数が多い人ほど成績が低かった: https://kodokeizai.seadice.win/course/overconfidence-trading/
+  - 11-4 近視眼的損失回避とは？確かめる回数でリスクの感じ方が変わる: https://kodokeizai.seadice.win/course/myopic-loss-aversion/
+- 第12章 公共政策への応用: 行動経済学が世界と日本の行政でどう使われているかを、公的機関の事例で学びます。
+  - 12-1 ナッジ・ユニットとは？行動経済学を行政に生かすチーム: https://kodokeizai.seadice.win/course/nudge-units/
+  - 12-2 日本版ナッジ・ユニット（BEST）とは？発足と広がり: https://kodokeizai.seadice.win/course/best-japan/
+  - 12-3 省エネ・健診・税で見るナッジ。案内の一文で行動は変わるか: https://kodokeizai.seadice.win/course/policy-cases/
+  - 12-4 EBPMとは？効果を確かめてから広げる政策づくり: https://kodokeizai.seadice.win/course/ebpm/
+- 第13章 実験の方法と再現性・批判: 行動経済学の研究がどう行われるか、結果の確かさをどう見るか、どんな批判があるかを学びます。
+  - 13-1 実験経済学とは？実験室で経済を確かめる: https://kodokeizai.seadice.win/course/experimental-economics/
+  - 13-2 ランダム化比較試験とは？効果を公平に比べる方法: https://kodokeizai.seadice.win/course/rct/
+  - 13-3 再現性の問題とは？有名な研究が追試で揺らぐとき: https://kodokeizai.seadice.win/course/replication/
+  - 13-4 行動経済学への批判。押しつけにならないか: https://kodokeizai.seadice.win/course/criticisms/
+- 第14章 まとめ: 講座全体を振り返り、学んだ知識を日常で使う方法と、無料で学び続けるための資料を紹介します。
+  - 14-1 講座の振り返り。判断のくせの地図: https://kodokeizai.seadice.win/course/course-review/
+  - 14-2 学んだことを日常で使う。自分の選択を見直す手順: https://kodokeizai.seadice.win/course/using-it/
+  - 14-3 無料で学び続けるための公的な資料: https://kodokeizai.seadice.win/course/keep-learning/
 
 ## SEADICE STUDYの他の講座
 
