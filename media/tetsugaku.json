@@ -116,6 +116,10 @@
     {
       "label": "用語集",
       "path": "/glossary/"
+    },
+    {
+      "label": "哲学者と話せるアプリ",
+      "path": "/apps/tetsujin-friends/"
     }
   ],
   "apps": [

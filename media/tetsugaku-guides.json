@@ -23,7 +23,9 @@
     "sartre-existence-precedes-essence",
     "seneca-shortness-of-life",
     "kafka-metamorphosis"
-   ]
+   ],
+   "app": "tetsujin-friends",
+   "appLabel": "読んだ哲学者と、実際に話してみるなら"
   },
   {
    "id": "exam",
@@ -54,7 +56,9 @@
     "laozi-wu-wei-ziran",
     "marcus-aurelius-meditations",
     "baudrillard-simulacra"
-   ]
+   ],
+   "app": "tetsujin-friends",
+   "appLabel": "覚えた哲学者と、会話で復習するなら"
   },
   {
    "id": "how-to-live",
@@ -82,7 +86,9 @@
     "marcus-aurelius-meditations",
     "seneca-shortness-of-life",
     "kafka-metamorphosis"
-   ]
+   ],
+   "app": "tetsujin-friends",
+   "appLabel": "迷ったとき、哲学者に話しかけてみるなら"
   },
   {
    "id": "right-and-wrong",

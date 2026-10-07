@@ -103,13 +103,23 @@ def guides(cfg, posts, cats, images, types, theme, favicon, css, card):
                 + (f'  <div class="points"><h2>まず知っておきたいこと</h2><ul>{pts}</ul></div>\n' if pts else "")
                 + f'  <div class="grid">{_cards(x["slugs"], posts, cats, images, types, card)}</div>'
                 + (f'\n  <p class="xlead" style="margin-top:28px"><a href="{g["cta"]["href"]}" style="color:var(--link);font-weight:700">{E(g["cta"]["label"])}</a></p>' if g.get("cta") else ""))
+        # ガイドの "app"（設定の apps[].id）があれば、記事末尾と同じアプリカードを最後に置く。"appLabel" で見出しの一言を変えられる
+        app = next((a for a in cfg.get("apps") or [] if a["id"] == x.get("app")), None)
+        app_css = ""
+        if app:
+            import apps
+            c = apps.card_html(app, cfg)
+            if x.get("appLabel"):
+                c = c.replace("この記事の内容を続けるなら", E(x["appLabel"]), 1)
+            body += "\n  " + c
+            app_css = apps.CSS
         by = {p["slug"]: p for p in posts}
         graph = [{"@type": "CollectionPage", "name": x["title"], "url": cfg["url"] + rel, "description": x["lead"],
                   "mainEntity": {"@type": "ItemList", "itemListElement": [
                       {"@type": "ListItem", "position": i + 1, "url": f'{cfg["url"]}{s}/', "name": by[s]["title"]}
                       for i, s in enumerate([s for s in x["slugs"] if s in by])]}}]
         urls.append(_page(cfg, theme, favicon, css, rel, f'{x["title"]} | {cfg["name"]}', x["lead"][:120], body, graph,
-                          [(g["title"], cfg["url"] + "guide/"), (x["label"], cfg["url"] + rel)]))
+                          [(g["title"], cfg["url"] + "guide/"), (x["label"], cfg["url"] + rel)], app_css))
     items = "".join(f'<a class="card" href="/guide/{x["id"]}/"><div class="cb"><p class="t">{E(x["title"])}</p><p class="d">{E(x["lead"][:80])}…</p></div></a>' for x in g["items"])
     body = f'  <div class="hero"><h1>{E(g["title"])}</h1></div>\n  <p class="xlead">{E(g["lead"])}</p>\n  <div class="grid">{items}</div>'
     if g.get("cta"):
