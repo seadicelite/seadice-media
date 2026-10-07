@@ -19,7 +19,7 @@ def _load(slug, name):
     return json.loads(f.read_text()) if f.exists() else None
 
 
-def _page(cfg, theme, favicon, css, rel, title, desc, body, graph, trail, extra_css=""):
+def _page(cfg, theme, favicon, css, rel, title, desc, body, graph, trail, extra_css="", head=""):
     url = cfg["url"]
     purl = url + rel
     crumbs = [("HOME", "https://seadice.win/"), (cfg["name"], url)] + trail
@@ -39,7 +39,7 @@ def _page(cfg, theme, favicon, css, rel, title, desc, body, graph, trail, extra_
 <meta property="og:url" content="{purl}">
 <meta property="og:type" content="website">
 <meta name="robots" content="index,follow">
-{favicon}
+{favicon}{head}
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 <style>{css}{EXTRA_CSS}{extra_css}{cfg.get("extraCss", "")}</style>
 </head>
@@ -151,7 +151,7 @@ def pages(cfg, theme, favicon, css):
                   "dateModified": p.get("date"), "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}}]
         trail = ([(p["parent"]["label"], cfg["url"] + p["parent"]["path"].strip("/") + "/")] if p.get("parent") else []) + [(p["title"], cfg["url"] + rel)]
         urls.append(_page(cfg, theme, favicon, css, rel, f'{p.get("seo_title") or p["title"]} | {cfg["name"]}', p["desc"], body, graph,
-                          trail, p.get("css", "")))
+                          trail, p.get("css", ""), p.get("head", "")))
     return urls
 
 

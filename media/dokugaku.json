@@ -108,7 +108,7 @@
   "layout": "magazine",
   "extraCss": "body{background-color:#0B1020;background-image:linear-gradient(rgba(140,200,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(140,200,255,.045) 1px,transparent 1px);background-size:24px 24px} .nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#93A3BE;color:#93A3BE} nav.top a.r{color:#F5C542;font-weight:800;letter-spacing:.08em} .dk-mast{position:relative;padding:30px 26px 26px 40px;margin-bottom:32px;border-radius:20px;background:#121A30;border:1px solid #22304F;overflow:hidden} .dk-mast::before{content:\"\";position:absolute;left:22px;top:0;bottom:0;width:2px;background:rgba(240,112,138,.55)} .dk-en{font-size:12px;letter-spacing:.22em;color:#93A3BE;text-transform:uppercase;font-weight:700} .dk-mast h1{background:none!important;-webkit-text-fill-color:#EAF0FA!important;font-size:clamp(42px,11vw,76px);font-weight:900;line-height:1.15;margin-top:10px;color:#EAF0FA;letter-spacing:.02em} .dk-mark{background:linear-gradient(transparent 60%,rgba(245,197,66,.6) 60%,rgba(245,197,66,.6) 92%,transparent 92%);padding:0 .06em} .dk-tag{font-size:17px;font-weight:700;margin-top:14px;color:#EAF0FA} .dk-lead{font-size:14.5px;color:#93A3BE;margin-top:10px;line-height:1.85;max-width:560px} .dk-rules{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:22px} .dk-rule{display:block;background:#0B1020;border:1px solid #22304F;border-radius:14px;padding:12px 14px;text-decoration:none;color:#EAF0FA;transition:border-color .15s} .dk-rule:hover{border-color:#F5C542} .dk-rule b{display:block;font-size:11px;color:#F5C542;letter-spacing:.14em;margin-bottom:4px} .dk-rule span{font-size:14px;font-weight:700;line-height:1.5} .dk-pills{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px} .dk-pill{display:inline-flex;align-items:baseline;gap:4px;padding:8px 16px;border-radius:999px;font-size:13.5px;color:#EAF0FA;background:rgba(255,255,255,.05);border:1px solid #22304F;text-decoration:none} .dk-pill b{font-size:18px;color:#F5C542} @media(max-width:520px){.dk-rules{grid-template-columns:1fr}.dk-mast{padding:26px 20px 22px 34px}.dk-mast::before{left:18px}} .card{border-radius:16px} .card:hover{border-color:rgba(245,197,66,.6)} .sechead h2{border-left:none!important;padding-left:0!important}.sechead h2::before{content:\"\";display:inline-block;width:14px;height:8px;background:rgba(245,197,66,.7);margin-right:10px;vertical-align:middle;border-radius:2px} .dk-why{list-style:none;display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:18px} .dk-why li{font-size:13px;color:#93A3BE;line-height:1.6;background:#0B1020;border:1px solid #22304F;border-radius:12px;padding:10px 12px} .dk-why b{display:block;font-size:14px;color:#EAF0FA} @media(max-width:520px){.dk-why{grid-template-columns:1fr 1fr}}",
   "articleCss": "body{background-color:#0B1020;background-image:linear-gradient(rgba(140,200,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(140,200,255,.045) 1px,transparent 1px);background-size:24px 24px} nav a.r{color:#F5C542;font-weight:800} .summary{position:relative;border-radius:14px!important;background:#151F38!important;border:1px solid #22304F!important;border-top:4px solid #F5C542!important} h1{text-wrap:balance} .study{border-left:3px solid rgba(90,176,255,.7)!important} .step{border-left:3px solid rgba(245,197,66,.7)!important}",
-  "mastheadHtml": "<div class=\"dk-mast\"><p class=\"dk-en\">Learn how to learn</p><h1>独学の<span class=\"dk-mark\">科学</span></h1><p class=\"dk-tag\">独学のしかたを、研究で確かめる。</p><p class=\"dk-lead\">%LEAD%</p><div class=\"dk-rules\"><a class=\"dk-rule\" href=\"/retrieval-practice-vs-rereading/\"><b>RULE 1</b><span>読み返すより、思い出す</span></a><a class=\"dk-rule\" href=\"/spaced-review-why-it-works/\"><b>RULE 2</b><span>まとめてより、間をあける</span></a><a class=\"dk-rule\" href=\"/highlighting-study-method/\"><b>RULE 3</b><span>線を引くより、要点を選ぶ</span></a></div><ul class=\"dk-why\" aria-label=\"独学の科学が選ばれる理由\"><li><b>研究ではっきり</b>効く・効かないを出典つきで判定</li><li><b>すぐ使える</b>計算機や早見表で今日から試せる</li><li><b>役に立つ</b>悩みから答えにすぐ届く</li><li><b>広告なし</b>無料・登録不要・売り込みなし</li></ul><div class=\"dk-pills\"><span class=\"dk-pill\"><b>%POSTS%</b>本の記事</span><a class=\"dk-pill\" href=\"/review-timing/\">復習日の計算機</a><a class=\"dk-pill\" href=\"/hayami/\">勉強法の効く・効かない早見表</a><a class=\"dk-pill\" href=\"/faq/\">よくある質問</a><a class=\"dk-pill\" href=\"/guide/\">悩み別ガイド</a><a class=\"dk-pill\" href=\"/glossary/\">用語集</a></div></div>",
+  "mastheadHtml": "<div class=\"dk-mast\"><p class=\"dk-en\">Learn how to learn</p><h1>独学の<span class=\"dk-mark\">科学</span></h1><p class=\"dk-tag\">独学のしかたを、研究で確かめる。</p><p class=\"dk-lead\">%LEAD%</p><div class=\"dk-rules\"><a class=\"dk-rule\" href=\"/retrieval-practice-vs-rereading/\"><b>RULE 1</b><span>読み返すより、思い出す</span></a><a class=\"dk-rule\" href=\"/spaced-review-why-it-works/\"><b>RULE 2</b><span>まとめてより、間をあける</span></a><a class=\"dk-rule\" href=\"/highlighting-study-method/\"><b>RULE 3</b><span>線を引くより、要点を選ぶ</span></a></div><ul class=\"dk-why\" aria-label=\"独学の科学が選ばれる理由\"><li><b>研究ではっきり</b>効く・効かないを出典つきで判定</li><li><b>すぐ使える</b>計算機や早見表で今日から試せる</li><li><b>役に立つ</b>悩みから答えにすぐ届く</li><li><b>広告なし</b>無料・登録不要・売り込みなし</li></ul><div class=\"dk-pills\"><span class=\"dk-pill\"><b>%POSTS%</b>本の記事</span><a class=\"dk-pill\" href=\"/review-timing/\">復習日の計算機</a><a class=\"dk-pill\" href=\"/study-log/\">勉強の記録シート</a><a class=\"dk-pill\" href=\"/hayami/\">勉強法の効く・効かない早見表</a><a class=\"dk-pill\" href=\"/faq/\">よくある質問</a><a class=\"dk-pill\" href=\"/guide/\">悩み別ガイド</a><a class=\"dk-pill\" href=\"/glossary/\">用語集</a></div></div>",
   "extraNav": [
     {
       "label": "勉強法の早見表",
@@ -117,6 +117,10 @@
     {
       "label": "復習日の計算機",
       "path": "/review-timing/"
+    },
+    {
+      "label": "勉強の記録シート",
+      "path": "/study-log/"
     },
     {
       "label": "よくある質問",
@@ -144,7 +148,31 @@
         "implementation-intentions-if-then-study",
         "review-timing",
         "cramming-overnight-study",
-        "study-log-progress-monitoring"
+        "study-log-progress-monitoring",
+        "study-log"
+      ]
+    }
+  ],
+  "toolPromos": [
+    {
+      "path": "/review-timing/",
+      "name": "復習日の計算機",
+      "desc": "試験日を入れると、1回目の復習に向く日を計算します（分散学習の研究をもとに）。",
+      "slugs": [
+        "spaced-review-why-it-works",
+        "cramming-overnight-study",
+        "past-exam-questions-certification"
+      ]
+    },
+    {
+      "path": "/study-log/",
+      "name": "勉強の記録シート",
+      "desc": "今日やった勉強を1行で記録し、続けた日数と合計時間を見える化します。記録は端末の中だけに保存。",
+      "slugs": [
+        "study-log-progress-monitoring",
+        "goal-setting-high-or-small-steps",
+        "willpower-self-control-study-environment",
+        "implementation-intentions-if-then-study"
       ]
     }
   ]

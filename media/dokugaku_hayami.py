@@ -36,6 +36,15 @@ def item(x):
             f'<a href="/{x["slug"]}/">記事を読む：{E(posts[x["slug"]]["title"])}</a></li>')
 
 
+def tool_block(slug):
+    """記事の末尾に置く、関連するWebツールへの案内。media/dokugaku.json の toolPromos から選ぶ"""
+    ts = [x for x in cfg.get("toolPromos", []) if slug in x["slugs"]]
+    return "".join(
+        f'<!--tool--><p style="margin:28px 0;padding:14px 18px;border:1px solid var(--accent);border-radius:12px;background:var(--card);font-size:15px;line-height:1.8">'
+        f'<span style="font-size:12px;color:var(--muted)">無料ツール</span><br><a href="{x["path"]}" style="color:var(--link);font-weight:800">{E(x["name"])}を使う</a><br>'
+        f'<span style="font-size:13px;color:var(--muted)">{E(x["desc"])}</span></p><!--/tool-->\n' for x in ts)
+
+
 def app_block(slug):
     """記事・ツールの末尾に置くアプリ紹介。media/dokugaku.json の appPromos（App Store公開済みのアプリだけ載せる）から選ぶ"""
     a = next((a for a in cfg.get("appPromos", []) if slug in a["slugs"]), None)
@@ -138,10 +147,11 @@ for x in D:
     n += 1
 # アプリ紹介を差し込む（早見表リンクと同じく、再実行しても1つだけ）
 APP = re.compile(r"<!--app-->.*?<!--/app-->\n?", re.S)
+TOOL = re.compile(r"<!--tool-->.*?<!--/tool-->\n?", re.S)
 for slug in posts:
     f = ROOT / f"sites/dokugaku/{slug}/index.html"
-    t = APP.sub("", f.read_text())
-    blk = app_block(slug)
+    t = TOOL.sub("", APP.sub("", f.read_text()))
+    blk = tool_block(slug) + app_block(slug)
     k = t.find('<div class="sources">')
     if blk and k >= 0:
         t = t[:k] + blk + t[k:]
