@@ -992,5 +992,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Italy_-_birthday_cake_with_candles_5.jpg/500px-Italy_-_birthday_cake_with_candles_5.jpg",
   "og": "https://research.seadice.win/img/fresh-start-effect-habit-timing-research.jpg",
   "local": true
+ },
+ "post-lunch-sleepiness-research": {
+  "file": "File:Lunch fry-up The Ledger Building West India Quay Canary Wharf 01.jpg",
+  "src": "/img/post-lunch-sleepiness-research.jpg",
+  "src640": "/img/post-lunch-sleepiness-research-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "テーブルに置かれた昼食のプレート",
+  "artist": "Acabashi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lunch_fry-up_The_Ledger_Building_West_India_Quay_Canary_Wharf_01.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lunch_fry-up_The_Ledger_Building_West_India_Quay_Canary_Wharf_01.jpg/960px-Lunch_fry-up_The_Ledger_Building_West_India_Quay_Canary_Wharf_01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lunch_fry-up_The_Ledger_Building_West_India_Quay_Canary_Wharf_01.jpg/500px-Lunch_fry-up_The_Ledger_Building_West_India_Quay_Canary_Wharf_01.jpg",
+  "og": "https://research.seadice.win/img/post-lunch-sleepiness-research.jpg",
+  "local": true
  }
 }
