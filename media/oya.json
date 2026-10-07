@@ -279,8 +279,13 @@
     ],
     "latest": 6,
     "actionsTitle": "調べるときに",
-    "actionsLead": "言葉の意味や、最初の相談先を確かめたいときに。",
+    "actionsLead": "冬の備え、言葉の意味、最初の相談先を確かめたいときに。",
     "actions": [
+      {
+        "label": "冬の親の家で気をつけたい9つのこと",
+        "desc": "お風呂、家の寒さ、夜のトイレ、帰省で話すこと。記事の結論を1ページにまとめました。",
+        "href": "/winter/"
+      },
       {
         "label": "用語集（25語）",
         "desc": "MCI、フレイル、要介護認定、ヒートショックなど、記事に出てくる言葉をやさしく説明しています。",
@@ -290,16 +295,15 @@
         "label": "まずどこに相談する？",
         "desc": "親の住所を担当する地域包括支援センターで、本人も家族も無料で相談できます。",
         "href": "/parent-community-support-center/"
-      },
-      {
-        "label": "診断されたあとの1か月",
-        "desc": "認知症と診断されたとき、家族が最初にすることを順番にまとめました。",
-        "href": "/parent-dementia-diagnosis-first-month/"
       }
     ]
   },
   "ogImage": "/og.png",
   "extraNav": [
+    {
+      "label": "冬の備え9つ",
+      "path": "/winter/"
+    },
     {
       "label": "用語集",
       "path": "/glossary/"
@@ -333,6 +337,11 @@
     {
       "label": "用語集",
       "path": "/glossary/"
+    },
+    {
+      "label": "冬の備え",
+      "path": "/winter/"
     }
-  ]
+  ],
+  "a11yFix": true
 }

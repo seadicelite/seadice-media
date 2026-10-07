@@ -1,0 +1,112 @@
+{
+  "parent-phone-scam-risk": [
+    [
+      "bohan",
+      "older-adults-fraud-psychology"
+    ],
+    [
+      "bohan",
+      "fake-police-call-scam"
+    ],
+    [
+      "bohan",
+      "international-call-block-scam"
+    ]
+  ],
+  "parent-door-to-door-sales-cooling-off": [
+    [
+      "bohan",
+      "door-to-door-inspection-scam"
+    ]
+  ],
+  "parent-online-shopping-scam-trouble": [
+    [
+      "bohan",
+      "tech-support-scam-popup"
+    ],
+    [
+      "bohan",
+      "fake-shopping-site-checklist"
+    ],
+    [
+      "bohan",
+      "phishing-mail-sms-2025"
+    ]
+  ],
+  "parent-money-talk-before-dementia": [
+    [
+      "bohan",
+      "ai-voice-clone-family-scam"
+    ]
+  ],
+  "parent-living-alone-isolation-health": [
+    [
+      "kokoro",
+      "remote-work-loneliness"
+    ]
+  ],
+  "parent-care-certification-apply": [
+    [
+      "shakaihosho",
+      "yokaigo-nintei"
+    ],
+    [
+      "kaigofukushi",
+      "care-certification-and-plan"
+    ]
+  ],
+  "parent-care-insurance-copay-cost": [
+    [
+      "shakaihosho",
+      "kaigo-hoken"
+    ],
+    [
+      "kaigofukushi",
+      "kaigo-insurance-basics"
+    ]
+  ],
+  "parent-community-support-center": [
+    [
+      "shakaihosho",
+      "chiiki-hokatsu"
+    ],
+    [
+      "kaigofukushi",
+      "community-care-and-support-center"
+    ]
+  ],
+  "parent-care-job-quit-prevention": [
+    [
+      "kaigofukushi",
+      "family-caregivers-and-work"
+    ]
+  ],
+  "parent-forgetfulness-aging-or-dementia": [
+    [
+      "kaigofukushi",
+      "what-is-dementia"
+    ]
+  ],
+  "parent-dementia-diagnosis-first-month": [
+    [
+      "kaigofukushi",
+      "supporting-dementia-families"
+    ],
+    [
+      "kaigofukushi",
+      "core-symptoms-and-bpsd"
+    ]
+  ],
+  "parent-poor-appetite-undernutrition-frailty": [
+    [
+      "kaigofukushi",
+      "frailty-and-care-prevention"
+    ]
+  ],
+  "accepting-parent-aging-caregiver-stress": [
+    [
+      "kaigofukushi",
+      "supporting-dementia-families"
+    ]
+  ]
+}

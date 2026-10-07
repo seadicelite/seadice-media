@@ -1,28 +1,52 @@
 {
- "child-home-alone-safety-rules": [
-  [
-   "kosodate",
-   "smartphone-first-age-ownership-risk"
+  "child-home-alone-safety-rules": [
+    [
+      "kosodate",
+      "smartphone-first-age-ownership-risk"
+    ],
+    [
+      "kosodate",
+      "location-tracking-app-trust"
+    ]
   ],
-  [
-   "kosodate",
-   "location-tracking-app-trust"
-  ]
- ],
- "child-stranger-approach-after-school": [
-  [
-   "kosodate",
-   "online-gaming-strangers-chat-risk"
+  "child-stranger-approach-after-school": [
+    [
+      "kosodate",
+      "online-gaming-strangers-chat-risk"
+    ],
+    [
+      "kosodate",
+      "sharenting-sns-photo-risk"
+    ]
   ],
-  [
-   "kosodate",
-   "sharenting-sns-photo-risk"
+  "safe-school-route-environment": [
+    [
+      "kosodate",
+      "location-tracking-app-trust"
+    ]
+  ],
+  "older-adults-fraud-psychology": [
+    [
+      "oya",
+      "parent-phone-scam-risk"
+    ]
+  ],
+  "door-to-door-inspection-scam": [
+    [
+      "oya",
+      "parent-door-to-door-sales-cooling-off"
+    ]
+  ],
+  "tech-support-scam-popup": [
+    [
+      "oya",
+      "parent-online-shopping-scam-trouble"
+    ]
+  ],
+  "fake-police-call-scam": [
+    [
+      "oya",
+      "parent-phone-scam-risk"
+    ]
   ]
- ],
- "safe-school-route-environment": [
-  [
-   "kosodate",
-   "location-tracking-app-trust"
-  ]
- ]
 }
