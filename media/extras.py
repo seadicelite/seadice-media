@@ -167,7 +167,8 @@ def badges(cfg):
             continue
         t = f.read_text()
         import re
-        t = re.sub(r'<span class="checked"[^>]*>.*?</span>', "", t)
+        # 直前の半角スペースも一緒に消す(残すとビルドのたびにスペースが1つずつ増える)
+        t = re.sub(r' *<span class="checked"[^>]*>.*?</span>', "", t)
         tag = (f'<span class="checked" style="font-size:12px;color:var(--accent);border:1px solid var(--accent);border-radius:999px;padding:3px 10px">'
                f'出典照合済み{"（" + date + "）" if date else ""}</span>')
         i = t.find('<div class="evidence">')
