@@ -309,6 +309,14 @@
   "ogImage": "/og.png",
   "extraNav": [
     {
+      "label": "悩みチェック",
+      "path": "/check/"
+    },
+    {
+      "label": "研究早見表",
+      "path": "/hayami/"
+    },
+    {
       "label": "帰省チェックリスト",
       "path": "/kisei-checklist/"
     },

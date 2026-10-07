@@ -106,6 +106,8 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - このメディアについて: https://kosodate.seadice.win/about/
 - 出典と検証の方法: https://kosodate.seadice.win/sources/
 - 免責事項: https://kosodate.seadice.win/disclaimer/
+- 悩みチェック: https://kosodate.seadice.win/check/
+- 研究早見表: https://kosodate.seadice.win/hayami/
 - スクリーンタイム判定: https://kosodate.seadice.win/screen-time-check/
 - AIで練習するSNS: https://kosodate.seadice.win/sns-practice/
 - 年齢別ガイド: https://kosodate.seadice.win/guide/
