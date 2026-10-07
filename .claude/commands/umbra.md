@@ -50,3 +50,9 @@ description: しぐさと本音（人を操る心理を見抜くメディア）�
 ## 写真の自サイト配信
 
 `media/build.py` が自動で `media/localize_images.py` を実行し、新しく付いた写真を `sites/umbra/img/` に保存して自サイト配信に切り替える（手動実行は不要）。
+
+## ツールへの追加（2026-10-07〜）
+
+- **危険な相手のサイン**（カテゴリ `redflag`）の記事を書いたら、`media/umbra_tools.py` の `REDFLAG` に1項目足す。形式は `(id, グループ, 当てはまる行動, 記事slug, 記事の結論から1〜2文)`。グループは `control`（制限・孤立）/ `mind`（気持ちを揺さぶる）/ `early`（始まり方・ふだんの言動）から選ぶ。結論文は記事の `.answer` から取り、出典にない言い切りを足さない。
+- **脈あり**のしぐさ記事は、しぐさ索引（`media/umbra-shigusa.json`）に `like` タグで項目を足せば、脈ありチェックにも自動で出る。
+- どちらも `python3 media/umbra_shigusa.py && python3 media/build.py umbra` で反映される（記事からツールへのリンクも自動で入る）。
