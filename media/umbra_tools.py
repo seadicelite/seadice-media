@@ -1,10 +1,10 @@
-"""しぐさと本音のWebツール（/redflag-check/ と /myakuari-check/）。umbra_shigusa.py から呼ばれる。
+"""しぐさと本音のWebツール（/redflag-check/ /myakuari-check/ /uso-check/）。umbra_shigusa.py から呼ばれる。
 
   python3 media/umbra_shigusa.py && python3 media/build.py umbra
 
 判定の文言は、出典照合済みの記事の結論だけを使う（AIには判定・アドバイスを書かせない）。入力はブラウザの中だけで判定し、送信・保存しない。
 - 危険な相手のサイン: REDFLAG に項目を足す（記事が増えたら、その記事の結論から1行で）
-- 脈ありチェック: umbra-shigusa.json の like タグの項目から自動で作る（索引に足せばツールにも出る）
+- 脈ありチェック・嘘のサインチェック: umbra-shigusa.json の like / lie タグの項目から自動で作る（索引に足せばツールにも出る）
 ページの型は docs/quality/tool.md。
 """
 import html
@@ -136,12 +136,39 @@ def redflag_page(posts):
             "seo_title": "恋人は危険？束縛・モラハラ・DVのサイン チェックリスト（研究にもとづく）", "body": body, "css": CSS}
 
 
-def myakuari_page(D, posts):
-    xs = [x for x in D if "like" in x.get("tags", [])]
+def _gesture_tool(xs, posts, fid, path, name, seo_title, desc, intro, answer, how, ex, faq, verdict_js, after_js, note):
+    """索引の項目(xs)から、しぐさを選んで3段階の判定を見るツールを作る（脈ありチェック・嘘のサインチェック共通）。
+    verdict_js は n={a,b,c}（選んだ数）と ids から m=[見出し, 本文HTML] を決めるJS。after_js は結果の末尾に足すカード。"""
     for x in xs:
         assert x["slug"] in posts, x["slug"]
-    boxes = "".join(f'<label><input type="checkbox" name="mk" value="{E(x["id"])}">{E(x["gesture"])}</label>' for x in xs)
+    boxes = "".join(f'<label><input type="checkbox" name="{fid}" value="{E(x["id"])}">{E(x["gesture"])}</label>' for x in xs)
     data = {x["id"]: {"l": x["level"], "g": x["gesture"], "t": x["text"], "s": x["slug"], "title": posts[x["slug"]]["title"]} for x in xs}
+    body = (f'<script type="application/ld+json">{_ld(name, URL + path + "/", desc, faq)}</script>'
+            f'<p>{E(intro)}入力はこのページの中だけで判定し、どこにも送りません。</p>'
+            f'<form class="tl-box" id="{fid}" onsubmit="return false">{boxes}<button type="button" class="tl-btn" id="{fid}-go">結果を見る</button></form>'
+            f'<div class="tl-res" id="{fid}-res" aria-live="polite" hidden></div>'
+            f'<p class="answer">{E(answer)}</p>'
+            f'<h2>判定のしかた</h2><ul>{how}</ul>'
+            '<h2>入力例と結果</h2><div class="tl-tw"><table><thead><tr><th scope="col">選んだもの</th><th scope="col">表示される内容</th></tr></thead><tbody>'
+            + "".join(f"<tr><td>{E(a)}</td><td>{E(b)}</td></tr>" for a, b in ex) + '</tbody></table></div>'
+            '<h2>判定のもとにした記事</h2><ul>'
+            + "".join(f'<li><span class="lv lv-{x["level"]}">{LV[x["level"]]}</span><a href="/{x["slug"]}/">{E(x["gesture"])}</a></li>' for x in sorted(xs, key=lambda x: "abc".index(x["level"]))) + '</ul>'
+            f'<h2>よくある質問</h2>{_faq(faq)}'
+            f'<p class="note">{E(note)}</p>'
+            "<script>(function(){var D=" + json.dumps(data, ensure_ascii=False).replace("</", "<\\/") + ";var LV={a:'手がかりになる',b:'状況しだい',c:'当てにならない'};"
+            "function e(s){return String(s).replace(/[&<>\"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;'}[c]})}"
+            "function card(t,b){return '<div class=\"tl-card\"><h3>'+t+'</h3>'+b+'</div>'}"
+            f"document.getElementById('{fid}-go').onclick=function(){{var ids=[].slice.call(document.querySelectorAll('#{fid} input:checked')).map(function(x){{return x.value}});"
+            "var n={a:0,b:0,c:0};ids.forEach(function(i){n[D[i].l]++});var h='',m;"
+            "if(!ids.length)m=['選ばれた項目はありません','<p>当てはまるものを1つ以上選んでください。</p>'];else{" + verdict_js + "}"
+            "h+=card(m[0],m[1]);"
+            "if(ids.length){h+=card('選んだしぐさの判定',ids.sort(function(x,y){return D[x].l<D[y].l?-1:1}).map(function(i){var x=D[i];return '<div class=\"tl-item\"><b><span class=\"lv lv-'+x.l+'\">'+LV[x.l]+'</span>'+e(x.g)+'</b>'+e(x.t)+'<br><a href=\"/'+x.s+'/\">記事を読む：'+e(x.title)+'</a></div>'}).join(''));" + after_js + "}"
+            f"var r=document.getElementById('{fid}-res');r.innerHTML=h;r.hidden=false;r.scrollIntoView({{behavior:'smooth',block:'start'}})}};}})();</script>")
+    return {"path": path, "title": name, "date": "2026-10-07", "desc": desc[:120], "seo_title": seo_title, "body": body, "css": CSS}
+
+
+def myakuari_page(D, posts):
+    xs = [x for x in D if "like" in x.get("tags", [])]
     cnt = {k: sum(1 for x in xs if x["level"] == k) for k in "abc"}
     a_names = "・".join(x["gesture"] for x in xs if x["level"] == "a")
     faq = [
@@ -150,46 +177,55 @@ def myakuari_page(D, posts):
         ("結局、相手の気持ちはどう確かめればいいですか？", "研究では、人は相手の好意を読むのが苦手で、会話のあとは相手からの好意を実際より低く見積もりやすいことがわかっています。サインを増やして推測するより、軽く言葉で確かめたり、誘ってみたりする方が確実です。"),
         ("入力した内容はどこかに送られますか？", "送られません。このページの中（お使いのブラウザ）だけで判定し、SEADICEにも外部にも送信・保存しません。"),
     ]
-    desc = f"気になる相手のしぐさ・行動を選ぶと、それぞれが研究で「手がかりになる」「状況しだい」「当てにならない」のどれかを表示します。脈ありサイン{len(xs)}種類。無料・登録不要・入力は送信しません。"
+    how = (f'<li>選んだしぐさを、<a href="/shigusa/hantei/">しぐさ判定の集計</a>と同じ3段階（手がかりになる {cnt["a"]}／状況しだい {cnt["b"]}／当てにならない {cnt["c"]}）で分けて表示します。</li>'
+           '<li>「手がかりになる」が2つ以上重なったときだけ、「手がかりが重なっている」と表示します。それでも好意の有無は断定しません。</li>'
+           '<li>判定文は、しぐさ・ボディランゲージ索引と同じ、出典照合済みの記事の結論です。点数や「脈あり度◯%」は出しません。</li>')
     ex = [("「近くに座る」「会話のテンポが合う」", "手がかりになるサインが2つ重なっている。それでも、しぐさだけで本音は決まらず、軽く言葉で確かめる段階"),
           ("「よく目が合う」「よく笑ってくれる」", "どちらも状況しだい。これだけでは好意かどうか決められない"),
           ("「返信が速い」", "当てにならない。返信の速さと好意を直接結びつけた決定的な研究はない")]
-    body = (f'<script type="application/ld+json">{_ld("脈ありチェック", URL + "myakuari-check/", desc, faq)}</script>'
-            f'<p>気になる相手について、当てはまるものを選んでください。それぞれのしぐさ・行動が、研究でどこまで好意の手がかりになるのかを表示します。入力はこのページの中だけで判定し、どこにも送りません。</p>'
-            f'<form class="tl-box" id="mk" onsubmit="return false">{boxes}<button type="button" class="tl-btn" id="mk-go">結果を見る</button></form>'
-            '<div class="tl-res" id="mk-res" aria-live="polite" hidden></div>'
-            f'<p class="answer">脈ありサイン{len(xs)}種類のうち、研究で傾向が確認された手がかりは{cnt["a"]}種類だけです。好意は1つのしぐさでは決まらず、距離・同期・会話のテンポなどの積み重ねで見ます。</p>'
-            '<h2>判定のしかた</h2><ul>'
-            f'<li>選んだしぐさを、<a href="/shigusa/hantei/">しぐさ判定の集計</a>と同じ3段階（手がかりになる {cnt["a"]}／状況しだい {cnt["b"]}／当てにならない {cnt["c"]}）で分けて表示します。</li>'
-            '<li>「手がかりになる」が2つ以上重なったときだけ、「手がかりが重なっている」と表示します。それでも好意の有無は断定しません。</li>'
-            '<li>判定文は、しぐさ・ボディランゲージ索引と同じ、出典照合済みの記事の結論です。点数や「脈あり度◯%」は出しません。</li></ul>'
-            '<h2>入力例と結果</h2><div class="tl-tw"><table><thead><tr><th scope="col">選んだもの</th><th scope="col">表示される内容</th></tr></thead><tbody>'
-            + "".join(f"<tr><td>{E(a)}</td><td>{E(b)}</td></tr>" for a, b in ex) + '</tbody></table></div>'
-            '<h2>判定のもとにした記事</h2><ul>'
-            + "".join(f'<li><span class="lv lv-{x["level"]}">{LV[x["level"]]}</span><a href="/{x["slug"]}/">{E(x["gesture"])}</a></li>' for x in sorted(xs, key=lambda x: "abc".index(x["level"]))) + '</ul>'
-            f'<h2>よくある質問</h2>{_faq(faq)}'
-            '<p class="note">相手の気持ちを断定するものではありません。結果は、確かめ方を考えるための手がかりとして使ってください。</p>'
-            "<script>(function(){var D=" + json.dumps(data, ensure_ascii=False).replace("</", "<\\/") + ";var LV={a:'手がかりになる',b:'状況しだい',c:'当てにならない'};"
-            "function e(s){return String(s).replace(/[&<>\"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;'}[c]})}"
-            "function card(t,b){return '<div class=\"tl-card\"><h3>'+t+'</h3>'+b+'</div>'}"
-            "document.getElementById('mk-go').onclick=function(){var ids=[].slice.call(document.querySelectorAll('#mk input:checked')).map(function(x){return x.value});"
-            "var n={a:0,b:0,c:0};ids.forEach(function(i){n[D[i].l]++});var h='',m;"
-            "if(!ids.length)m=['選ばれた項目はありません','<p>当てはまるものを1つ以上選んでください。</p>'];"
-            "else if(n.a>=2)m=['研究で傾向が確認された手がかりが'+n.a+'つ重なっています','<p>それでも、しぐさだけで本音は決まりません。サインを探し続けるより、軽く言葉で確かめたり、誘ってみたりする段階です。</p>'];"
-            "else if(n.a==1)m=['研究で傾向が確認された手がかりが1つあります','<p>1回ではなく、その人のふだんとの違いと、積み重ねで見ます。ほかの手がかりが重なるかを、しばらく見てください。</p>'];"
-            "else if(n.b)m=['選んだサインは、理由が複数ある「状況しだい」のものです','<p>これだけでは、好意かどうかは決められません。好意の手がかりとして研究で傾向が確認されているのは、距離・しぐさの同期・会話のテンポです。</p>'];"
-            "else m=['選んだサインは、研究で通説が支持されていないものです','<p>これらは好意の有無を判断する材料になりません。気になるなら、しぐさより言葉で確かめる方が確実です。</p>'];"
-            "h+=card(m[0],m[1]);"
-            "if(ids.length){h+=card('選んだしぐさの判定',ids.sort(function(x,y){return D[x].l<D[y].l?-1:1}).map(function(i){var x=D[i];return '<div class=\"tl-item\"><b><span class=\"lv lv-'+x.l+'\">'+LV[x.l]+'</span>'+e(x.g)+'</b>'+e(x.t)+'<br><a href=\"/'+x.s+'/\">記事を読む：'+e(x.title)+'</a></div>'}).join(''));"
-            "h+=card('今日からできること','<p>1つのサインで決めない。自分の期待をいったん脇に置く。迷ったら、軽く言葉で確かめる。人は会話のあと、相手からの好意を実際より低く見積もりやすいことも研究でわかっています。</p><p><a href=\"/love-signals-flirting-research/\">脈ありサインは当てになる？スピードデートの研究</a>／<a href=\"/dating-invitation-rejection-anxiety-research/\">デートに誘えないのはなぜか</a></p>');"
-            "if(D['love-bombing']&&ids.indexOf('love-bombing')>=0)h+=card('「出会ってすぐの猛烈な好意」を選んだ方へ','<p>強い好意そのものは悪いことではありません。進むスピードと、こちらの境界線がどう扱われるかもあわせて見てください。<a href=\"/redflag-check/\">危険な相手のサイン チェックリスト</a>で確かめられます。</p>')}"
-            "var r=document.getElementById('mk-res');r.innerHTML=h;r.hidden=false;r.scrollIntoView({behavior:'smooth',block:'start'})};})();</script>")
-    return {"path": "myakuari-check", "title": "脈ありチェック", "date": "2026-10-07",
-            "desc": desc[:120], "seo_title": f"脈ありチェック｜そのしぐさは好意のサイン？{len(xs)}種類を研究で判定", "body": body, "css": CSS}
+    verdict = ("if(n.a>=2)m=['研究で傾向が確認された手がかりが'+n.a+'つ重なっています','<p>それでも、しぐさだけで本音は決まりません。サインを探し続けるより、軽く言葉で確かめたり、誘ってみたりする段階です。</p>'];"
+               "else if(n.a==1)m=['研究で傾向が確認された手がかりが1つあります','<p>1回ではなく、その人のふだんとの違いと、積み重ねで見ます。ほかの手がかりが重なるかを、しばらく見てください。</p>'];"
+               "else if(n.b)m=['選んだサインは、理由が複数ある「状況しだい」のものです','<p>これだけでは、好意かどうかは決められません。好意の手がかりとして研究で傾向が確認されているのは、距離・しぐさの同期・会話のテンポです。</p>'];"
+               "else m=['選んだサインは、研究で通説が支持されていないものです','<p>これらは好意の有無を判断する材料になりません。気になるなら、しぐさより言葉で確かめる方が確実です。</p>'];")
+    after = ("h+=card('今日からできること','<p>1つのサインで決めない。自分の期待をいったん脇に置く。迷ったら、軽く言葉で確かめる。人は会話のあと、相手からの好意を実際より低く見積もりやすいことも研究でわかっています。</p><p><a href=\"/love-signals-flirting-research/\">脈ありサインは当てになる？スピードデートの研究</a>／<a href=\"/dating-invitation-rejection-anxiety-research/\">デートに誘えないのはなぜか</a></p>');"
+             "if(D['love-bombing']&&ids.indexOf('love-bombing')>=0)h+=card('「出会ってすぐの猛烈な好意」を選んだ方へ','<p>強い好意そのものは悪いことではありません。進むスピードと、こちらの境界線がどう扱われるかもあわせて見てください。<a href=\"/redflag-check/\">危険な相手のサイン チェックリスト</a>で確かめられます。</p>');")
+    return _gesture_tool(xs, posts, "mk", "myakuari-check", "脈ありチェック", f"脈ありチェック｜そのしぐさは好意のサイン？{len(xs)}種類を研究で判定",
+                         f"気になる相手のしぐさ・行動を選ぶと、それぞれが研究で「手がかりになる」「状況しだい」「当てにならない」のどれかを表示します。脈ありサイン{len(xs)}種類。無料・登録不要・入力は送信しません。",
+                         "気になる相手について、当てはまるものを選んでください。それぞれのしぐさ・行動が、研究でどこまで好意の手がかりになるのかを表示します。",
+                         f"脈ありサイン{len(xs)}種類のうち、研究で傾向が確認された手がかりは{cnt['a']}種類だけです。好意は1つのしぐさでは決まらず、距離・同期・会話のテンポなどの積み重ねで見ます。",
+                         how, ex, faq, verdict, after, "相手の気持ちを断定するものではありません。結果は、確かめ方を考えるための手がかりとして使ってください。")
+
+
+def uso_page(D, posts):
+    xs = [x for x in D if "lie" in x.get("tags", [])]
+    cnt = {k: sum(1 for x in xs if x["level"] == k) for k in "abc"}
+    faq = [
+        ("嘘をつく人のしぐさで、当てになるものはありますか？", f"しぐさと本音が研究で調べた嘘のサイン{len(xs)}種類のうち、嘘の手がかりになると言えるものは{cnt['a']}種類でした。{cnt['c']}種類は研究で通説が支持されず、残りは緊張などほかの理由でも起こる「状況しだい」です。"),
+        ("人は嘘をどのくらい見抜けますか？", "206本の研究文献をまとめた分析では、人が嘘を見抜ける正解率は平均で約54%でした。コインを投げたときの50%をわずかに上回る程度です。"),
+        ("目をそらす・鼻を触るのは嘘のサインですか？", "どちらも「当てにならない」です。研究では通説が支持されていません。目をそらすのは緊張や考えごとでも起こります。"),
+        ("嘘かどうか確かめたいときは、どうすればいいですか？", "しぐさより、話の内容を確かめるほうが研究の結果と合っています。時間・場所・人など、あとで確かめられる事実について自然に質問を重ね、責めずに話し合います。"),
+        ("入力した内容はどこかに送られますか？", "送られません。このページの中（お使いのブラウザ）だけで判定し、SEADICEにも外部にも送信・保存しません。"),
+    ]
+    how = (f'<li>選んだしぐさを、<a href="/shigusa/hantei/">しぐさ判定の集計</a>と同じ3段階（手がかりになる {cnt["a"]}／状況しだい {cnt["b"]}／当てにならない {cnt["c"]}）で分けて表示します。</li>'
+           '<li>いくつ選んでも、「嘘をついている」とは判定しません。しぐさから嘘を見抜ける正解率は平均で約54%で、判定できる根拠がないためです。</li>'
+           '<li>判定文は、しぐさ・ボディランゲージ索引と同じ、出典照合済みの記事の結論です。点数や「嘘の確率◯%」は出しません。</li>')
+    ex = [("「目をそらす」「鼻を触る」", "どちらも当てにならない。研究で通説が支持されていない"),
+          ("「まばたきが増える」「答えるまでに間がある」", "当てにならない・状況しだいのサイン。緊張でも起こる"),
+          ("いくつ選んでも", "「嘘をついている」とは表示せず、話の内容と事実を確かめる方法を表示")]
+    verdict = ("if(n.c&&!n.b)m=['選んだサインは、研究で通説が支持されていないものです','<p>これらは嘘の証拠になりません。「嘘をつくと目をそらす」などは広く信じられていますが、研究の結果は支持していません。</p>'];"
+               "else if(n.c)m=['選んだサインには、当てにならないものと、緊張でも起こるものが混ざっています','<p>どれも、嘘の証拠とは言えません。緊張・不安・考えごとでも同じしぐさが出ます。</p>'];"
+               "else m=['選んだサインは、理由が複数ある「状況しだい」のものです','<p>緊張や負荷がかかると増える動きで、読めるのは「今、緊張しているかもしれない」までです。嘘かどうかは決められません。</p>'];"
+               "m[1]+='<p>206本の研究文献をまとめた分析では、人が嘘を見抜ける正解率は平均で約54%でした。コインを投げたときの50%をわずかに上回る程度です。</p>';")
+    after = ("h+=card('今日からできること','<p>しぐさだけで決めつけない。気になることは、時間・場所・人など、あとで確かめられる事実について自然に質問を重ねる。疑いが強いときは「嘘をついている」と決めつけず、「不安になっている」と自分の気持ちを伝える。</p><p><a href=\"/body-language-lie-detection-accuracy/\">しぐさで嘘は見抜ける？正解率は約54%</a>／<a href=\"/too-much-detail-lying-research/\">話が細かすぎるのは嘘のサインか</a></p>');")
+    return _gesture_tool(xs, posts, "us", "uso-check", "嘘のサインチェック", f"嘘をつく人のしぐさは本当？嘘のサインチェック｜{len(xs)}種類を研究で判定",
+                         f"目をそらす、鼻を触る、まばたきが増える。気になったしぐさを選ぶと、それぞれ研究で嘘の手がかりになるのかを表示します。嘘のサイン{len(xs)}種類。無料・登録不要・入力は送信しません。",
+                         "相手の様子で気になったしぐさを選んでください。それぞれが、研究でどこまで嘘の手がかりになるのかを表示します。",
+                         f"嘘のサインと言われる{len(xs)}種類のうち、嘘の手がかりになると言えるものは{cnt['a']}種類でした。嘘を確かめるには、しぐさより話の内容と事実を照らし合わせる方が確実です。",
+                         how, ex, faq, verdict, after, "相手が嘘をついているかどうかを判定するものではありません。結果は、確かめ方を考えるための手がかりとして使ってください。")
 
 
 def pages(D, posts):
-    return [redflag_page(posts), myakuari_page(D, posts)]
+    return [redflag_page(posts), myakuari_page(D, posts), uso_page(D, posts)]
 
 
 # 関連する記事の本文に、ツールへの「次の一歩」を差し込む（出典の直前。再実行しても1つだけになるよう置き換える）
@@ -204,6 +240,10 @@ def link_articles(D):
     for x in D:
         if "like" in x.get("tags", []) and x["slug"] not in targets:
             targets[x["slug"]] = ("/myakuari-check/", "脈ありチェック", "気になる相手のしぐさを選ぶと、研究でどこまで好意の手がかりになるかを表示します。")
+    for x in D:
+        if "lie" in x.get("tags", []) and x["slug"] not in targets:
+            targets[x["slug"]] = ("/uso-check/", "嘘のサインチェック", "気になったしぐさを選ぶと、研究で嘘の手がかりになるのかを表示します。")
+    targets.setdefault("body-language-lie-detection-accuracy", ("/uso-check/", "嘘のサインチェック", "気になったしぐさを選ぶと、研究で嘘の手がかりになるのかを表示します。"))
     for s in ("love-signals-flirting-research", "dating-invitation-rejection-anxiety-research"):
         targets.setdefault(s, ("/myakuari-check/", "脈ありチェック", "気になる相手のしぐさを選ぶと、研究でどこまで好意の手がかりになるかを表示します。"))
     n = 0

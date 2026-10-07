@@ -144,6 +144,7 @@
 - しぐさ索引・クイズ: https://umbra.seadice.win/shigusa/
 - 危険な相手のサイン チェック: https://umbra.seadice.win/redflag-check/
 - 脈ありチェック: https://umbra.seadice.win/myakuari-check/
+- 嘘のサインチェック: https://umbra.seadice.win/uso-check/
 - しぐさ判定の集計（SEADICE調べ）: https://umbra.seadice.win/shigusa/hantei/
 - 用語集: https://umbra.seadice.win/glossary/
 - サイトマップ: https://umbra.seadice.win/sitemap.xml
