@@ -74,6 +74,7 @@ faq = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
      "acceptedAnswer": {"@type": "Answer", "text": f'{LV[x["level"]]}。{x["text"]}', "url": URL + "#" + x["id"]}} for x in D]}
 faq_json = json.dumps(faq, ensure_ascii=False).replace("</", "<\\/")
 body = f"""<p>気になったしぐさから、研究でわかっていることをすぐに調べられます。4択クイズで、思い込みとのズレを確かめることもできます。どのしぐさも、1つだけで相手の本音は決まりません。</p>
+<p><a href="/shigusa/hantei/" style="color:var(--link);font-weight:700">集計結果：{len(D)}種類のうち、本音の手がかりになるのは{sum(1 for x in D if x["level"] == "a")}種類だけ（判定結果を見る）</a></p>
 <script type="application/ld+json">{faq_json}</script>
 <div id="daily" class="daily" aria-live="polite" hidden></div>
 <div class="tabs" role="tablist"><button type="button" role="tab" id="t1" aria-selected="true" aria-controls="p1">しぐさを調べる</button><button type="button" role="tab" id="t2" aria-selected="false" aria-controls="p2">4択クイズ</button></div>
@@ -220,11 +221,78 @@ for pid, (path, title, h, desc) in PURPOSE_PAGES.items():
              + f'<p class="note">内訳：手がかりになる {cnt["a"]}／状況しだい {cnt["b"]}／当てにならない {cnt["c"]}</p>'
              + f'<script type="application/ld+json">{json.dumps(faq2, ensure_ascii=False).replace("</", chr(60) + chr(92) + "/")}</script>'
              + secs
-             + f'<h2>ほかの一覧</h2><div class="fchips">{others}</div>'
+             + f'<h2>ほかの一覧</h2><div class="fchips">{others}<a class="pchip" href="/shigusa/hantei/">全{len(D)}種類の判定結果</a></div>'
              + f'<p style="margin-top:20px"><a href="/shigusa/" style="color:var(--link);font-weight:700">しぐさ・ボディランゲージ索引で、すべてのしぐさを調べる・4択クイズに挑戦する</a></p>'
              + '<h2>このページについて</h2><p>内容は、しぐさと本音で公開している記事（それぞれ論文などの出典を確認済み）をもとにしています。特定の人を診断したり、ラベルを貼ったりするためのものではありません。</p>')
     pages.append({"path": f"shigusa/{path}", "title": h, "date": page["date"], "desc": desc.format(n=n)[:120],
                   "seo_title": title.format(n=n), "parent": {"label": "しぐさ・ボディランゲージ索引", "path": "shigusa"}, "body": body2, "css": css})
+
+
+# 判定結果の集計ページ(/shigusa/hantei/)。索引の判定をそのまま数えた「SEADICE調べ」の一次情報。数字は毎回データから計算する
+def pct(a, b):
+    return round(a * 100 / b) if b else 0
+
+
+N = len(D)
+tot = {k: sum(1 for x in D if x["level"] == k) for k in "abc"}
+lie = [x for x in D if "lie" in x.get("tags", [])]
+lie_c = {k: sum(1 for x in lie if x["level"] == k) for k in "abc"}
+eye = [x for x in D if x["part"] == "目・視線"]
+eye_c = sum(1 for x in eye if x["level"] == "c")
+a_items = [x for x in D if x["level"] == "a"]
+
+
+def row(label, xs, href=None):
+    c = {k: sum(1 for x in xs if x["level"] == k) for k in "abc"}
+    name = f'<a href="{href}">{E(label)}</a>' if href else E(label)
+    return f'<tr><th scope="row">{name}</th><td>{len(xs)}</td><td>{c["a"]}</td><td>{c["b"]}</td><td>{c["c"]}（{pct(c["c"], len(xs))}%）</td></tr>'
+
+
+THEAD = '<thead><tr><th scope="col"></th><th scope="col">数</th><th scope="col">手がかり</th><th scope="col">状況しだい</th><th scope="col">当てにならない</th></tr></thead>'
+SHORT = {"like": "脈あり", "lie": "嘘", "nerve": "緊張・不安", "warn": "拒絶・関係", "fbi": "FBIの説"}
+t_pur = "".join(row(SHORT[k], [x for x in D if k in x.get("tags", [])], f"/shigusa/{PURPOSE_PAGES[k][0]}/") for k in PURPOSE_PAGES)
+t_part = "".join(row(p, [x for x in D if x["part"] == p]) for p in parts)
+c_list = "".join(f'<li><a href="/{x["slug"]}/">{E(x["gesture"])}</a>：よく言われる意味は「{E(x["belief"])}」</li>' for x in D if x["level"] == "c")
+a_list = "".join(f'<li><a href="/{x["slug"]}/">{E(x["gesture"])}</a></li>' for x in a_items)
+hq = [
+    (f"しぐさで本音はどこまでわかりますか？", f"しぐさと本音が研究で調べた{N}種類のしぐさのうち、本音の手がかりになると言えたのは{tot['a']}種類（{pct(tot['a'], N)}%）だけでした。{tot['b']}種類は状況しだい、{tot['c']}種類は当てにならないと判定しました。"),
+    ("嘘をつく人のしぐさは当てになりますか？", f"嘘のサインと言われる{len(lie)}種類のうち、手がかりになるものは{lie_c['a']}種類でした。{lie_c['c']}種類は研究で通説が支持されていません。嘘を確かめるには、しぐさより話の内容を確かめる方が研究と合っています。"),
+    ("当てになるしぐさはありますか？", f"手がかりになると判定したのは「{'」「'.join(x['gesture'] for x in a_items)}」の{len(a_items)}つです。どれも一瞬のしぐさではなく、やりとりの積み重ねで見るものです。"),
+]
+faq3 = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in hq]}
+body3 = (
+    f'<p class="plead">よく言われるしぐさの意味{N}種類を、論文と照らし合わせて3段階で判定しました。本音の手がかりになると言えたのは{tot["a"]}種類だけで、{tot["c"]}種類は当てにならないという結果です。</p>'
+    f'<div class="hk-stats"><div><b>{tot["a"]}<small>/{N}</small></b><span>手がかりになる（{pct(tot["a"], N)}%）</span></div>'
+    f'<div><b>{tot["b"]}<small>/{N}</small></b><span>状況しだい（{pct(tot["b"], N)}%）</span></div>'
+    f'<div><b>{tot["c"]}<small>/{N}</small></b><span>当てにならない（{pct(tot["c"], N)}%）</span></div></div>'
+    f'<p class="note">しぐさと本音（SEADICE）調べ。判定に使った記事はすべて、論文などの出典と照合しています。</p>'
+    f'<h2>わかったこと</h2><ul class="hk-find">'
+    f'<li><strong>嘘のサインと言われる{len(lie)}種類で、手がかりになるものは{lie_c["a"]}種類。</strong>半分の{lie_c["c"]}種類は、研究で通説が支持されませんでした。</li>'
+    f'<li><strong>目・視線は特に当てにならない。</strong>{len(eye)}種類のうち{eye_c}種類が「当てにならない」でした（目をそらす、右上を見る、瞳孔など）。</li>'
+    f'<li><strong>手がかりになるのは、一瞬のしぐさではなく積み重ね。</strong>{len(a_items)}種類はどれも、距離・同期・テンポのように、やりとりを通して見るものでした。</li>'
+    f'<li><strong>多くは「状況しだい」。</strong>{tot["b"]}種類（{pct(tot["b"], N)}%）は、緊張・寒さ・癖など理由が複数あり、意味を1つに決められません。</li></ul>'
+    f'<h2>知りたいこと別の判定</h2><p>項目名をタップすると、その一覧ページが開きます。</p><div class="hk-tw"><table>{THEAD}<tbody>{t_pur}</tbody></table></div>'
+    f'<p class="note">1つのしぐさが複数の項目に入ることがあるため、合計は{N}になりません。</p>'
+    f'<h2>体の部位別の判定</h2><div class="hk-tw"><table>{THEAD}<tbody>{t_part}</tbody></table></div>'
+    f'<h2>手がかりになる{len(a_items)}種類</h2><p>傾向として研究で確認されているものです。それでも1つだけで本音は決まりません。</p><ul>{a_list}</ul>'
+    f'<h2>当てにならない{tot["c"]}種類</h2><p>よく言われる意味が、研究で支持されなかったしぐさです。</p><ul>{c_list}</ul>'
+    f'<h2>判定の方法と限界</h2><ul>'
+    f'<li>対象は、しぐさと本音で記事にした{N}種類のしぐさ・行動です（{len({x["slug"] for x in D})}本の記事）。世の中のしぐさをすべて網羅したものではありません。</li>'
+    f'<li>判定は3段階です。「手がかりになる」は傾向が研究で確認されているもの、「状況しだい」は理由が複数あり意味を1つに決められないもの、「当てにならない」は研究で通説が支持されていないものです。</li>'
+    f'<li>判定は記事の出典（論文・メタ分析など）をもとにした編集部の整理です。新しい研究が出たら見直します。</li>'
+    f'<li>特定の人を診断したり、ラベルを貼ったりするためのものではありません。</li></ul>'
+    f'<h2>よくある質問</h2>' + "".join(f'<details{" open" if i == 0 else ""}><summary>{E(q)}</summary><p>{E(a)}</p></details>' for i, (q, a) in enumerate(hq))
+    + f'<script type="application/ld+json">{json.dumps(faq3, ensure_ascii=False).replace("</", chr(60) + chr(92) + "/")}</script>'
+    + f'<p style="margin-top:28px"><a href="/shigusa/" style="color:var(--link);font-weight:700">しぐさ・ボディランゲージ索引で、{N}種類を1つずつ調べる・4択クイズに挑戦する</a></p>')
+css3 = (".hk-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:20px 0 8px}.hk-stats div{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 10px;text-align:center}"
+        ".hk-stats b{display:block;font-size:34px;line-height:1.1;color:var(--accent)}.hk-stats small{font-size:15px;color:var(--muted)}.hk-stats span{display:block;font-size:12px;color:var(--text);margin-top:6px}"
+        ".hk-find li{margin:10px 0}.hk-tw{overflow-x:auto;margin:12px 0}.hk-tw table{border-collapse:collapse;width:100%;font-size:14px;min-width:0}"
+        ".hk-tw th,.hk-tw td{border:0;border-bottom:1px solid var(--border);background:none;padding:10px 6px;text-align:right;white-space:nowrap}.hk-tw thead th{font-size:12px;color:var(--muted)}.hk-tw th[scope=row],.hk-tw thead th:first-child{text-align:left}.hk-tw a{color:var(--link)}"
+        "details{background:var(--card);border:1px solid var(--border);border-radius:12px;margin:10px 0}summary{cursor:pointer;padding:14px 18px;font-weight:700}details p{padding:0 18px 16px}")
+pages.append({"path": "shigusa/hantei", "title": "しぐさの通説を研究で判定した結果", "date": "2026-10-07",
+              "desc": f"しぐさの意味{N}種類を論文で判定。本音の手がかりになるのは{tot['a']}種類だけ、{tot['c']}種類は当てにならない。嘘のサイン{len(lie)}種類では手がかりは{lie_c['a']}。SEADICE調べ。"[:120],
+              "seo_title": f"しぐさで本音はわかる？通説{N}種類を研究で判定した結果【SEADICE調べ】",
+              "parent": {"label": "しぐさ・ボディランゲージ索引", "path": "shigusa"}, "body": body3, "css": css + css3})
 open(ROOT + "media/umbra-pages.json", "w").write(json.dumps(pages, ensure_ascii=False, indent=2) + "\n")
 
 # 各記事に、索引の該当項目へのリンクを差し込む(出典の直前。再実行しても1つだけになるよう置き換える)
