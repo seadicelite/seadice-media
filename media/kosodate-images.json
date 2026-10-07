@@ -950,5 +950,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_hand_is_pressing_keys_on_a_laptop_keyboard.jpg/500px-A_hand_is_pressing_keys_on_a_laptop_keyboard.jpg",
   "og": "https://kosodate.seadice.win/img/ai-sexual-violent-content-filter-age-limit-og.jpg",
   "local": true
+ },
+ "parent-ai-monitoring-how-much": {
+  "file": "File:A laptop on the wooden table (2, Pixabay).jpg",
+  "src": "/img/parent-ai-monitoring-how-much.webp",
+  "src640": "/img/parent-ai-monitoring-how-much-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "木のテーブルに置かれたノートパソコン",
+  "artist": "By Free-Photos from Pixabay",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:A_laptop_on_the_wooden_table_(2,_Pixabay).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/A_laptop_on_the_wooden_table_%282%2C_Pixabay%29.jpg/960px-A_laptop_on_the_wooden_table_%282%2C_Pixabay%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/A_laptop_on_the_wooden_table_%282%2C_Pixabay%29.jpg/500px-A_laptop_on_the_wooden_table_%282%2C_Pixabay%29.jpg",
+  "og": "https://kosodate.seadice.win/img/parent-ai-monitoring-how-much-og.jpg",
+  "local": true
  }
 }

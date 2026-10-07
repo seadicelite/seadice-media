@@ -34,6 +34,7 @@
 - [AIの個別学習・AIチューターで本当に成績は上がる？](https://kosodate.seadice.win/ai-tutor-adaptive-learning-effect/): K-12の28研究のメタ分析では効果はおおむね前向きでしたが、AIの種類によって効果の大きさは異なっていました。
 - [幼い子がAIスピーカーに話しかけている。子どもはAIをどう理解している？](https://kosodate.seadice.win/ai-voice-assistant-child-trust/): 子どもはAIが生きていないと理解する一方、先生や友達よりAIを信じやすい傾向もあると研究でわかりました。
 - [子どものAI利用、家庭でどう関わるとうまくいく？](https://kosodate.seadice.win/generative-ai-family-involvement/): 親自身のAIへの理解と信頼が、家庭でAIを取り入れる意向と関連していた調査があります。
+- [親は子どものAI利用をどこまで管理する？見守りと任せ方の線引きを年齢別に](https://kosodate.seadice.win/parent-ai-monitoring-how-much/): 何もしないより時間の把握や話し合いが問題の少なさと関連。抜き打ちの履歴チェックは避け、年齢とともに任せる範囲を広げる目安を整理。
 
 ### 考える力・学び
 
