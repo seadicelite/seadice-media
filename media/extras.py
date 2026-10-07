@@ -241,11 +241,77 @@ def crosslinks(cfg):
     return n
 
 
+def term_links(cfg, posts, limit=4, write=True):
+    """記事本文で用語集の言葉が最初に出てきた1か所を /glossary/#id へのリンクにする（1記事 limit 個まで）。
+    対象は本文の <p>・<li>（パンくず・読了時間・研究カードの出典名・出典欄は除く）。見出し・既存リンク・JSON-LD・FAQの質問には付けない。
+    表記は用語の括弧の前（「エポケー（判断停止）」→「エポケー」）。1文字の語は誤爆するので、用語に "match" で表記を指定したときだけ使う。
+    その用語の主記事（slugs の先頭）では、記事自体が説明しているのでリンクしない。何度ビルドしても同じ結果になる。"""
+    import re
+    terms = _load(cfg["slug"], "glossary")
+    if not terms:
+        return 0
+    forms = []
+    for x in terms:
+        ms = x.get("match") or [re.split(r"[（(]", x["term"])[0].strip()]
+        for m in ms:
+            if len(m) >= 2:
+                forms.append((m, x["id"], (x.get("slugs") or [None])[0]))
+    forms.sort(key=lambda f: -len(f[0]))  # 長い表記を優先（「無知のヴェール」を「無知」より先に）
+    old = re.compile(r'<a class="gl" href="/glossary/#[^"]*">(.*?)</a>')
+    # 本文の段落と箇条書きだけ。研究カードの出典名・条件欄（who/cond）や見出し的な行（ttl）には付けない
+    para = re.compile(r'(?s)<(p|li)(?![^>]*class="(?:breadcrumb|meta|who|cond|ttl)")(\s[^>]*)?>.*?</\1>')
+    n = 0
+    for post in posts:
+        f = ROOT / cfg["path"] / post["slug"] / "index.html"
+        if not f.exists():
+            continue
+        src = f.read_text()
+        t = old.sub(r"\1", src)
+        a, b = t.find("<article"), t.find("</article>")
+        stop = [i for i in (t.find("<h2>出典", a), t.find("<!--related-->", a), t.find('class="related"', a)) if a < i < b]
+        b = min(stop) if stop else b
+        if a < 0 or b < 0:
+            continue
+        body, used, count = t[a:b], set(), 0
+
+        def link_p(m):
+            nonlocal count
+            s = m.group(0)
+            for form, tid, main in forms:
+                if count >= limit:
+                    break
+                if tid in used or main == post["slug"]:
+                    continue
+                parts, depth = re.split(r"(<[^>]+>)", s), 0
+                for k, seg in enumerate(parts):
+                    if seg.startswith("<"):
+                        depth += 1 if re.match(r"<a\b", seg) else -1 if seg.startswith("</a") else 0
+                        continue
+                    i = seg.find(form) if depth == 0 else -1
+                    if i >= 0:
+                        parts[k] = seg[:i] + f'<a class="gl" href="/glossary/#{tid}">{form}</a>' + seg[i + len(form):]
+                        s = "".join(parts)
+                        used.add(tid)
+                        count += 1
+                        break
+            return s
+        body = para.sub(link_p, body)
+        t = t[:a] + body + t[b:]
+        if 'class="gl"' in t and ".gl{" not in t:
+            t = t.replace("</style>", "a.gl{color:inherit;text-decoration:underline dotted;text-underline-offset:3px}</style>", 1)
+        if t != src:
+            n += 1
+            if write:
+                f.write_text(t)
+    return n
+
+
 def apply(cfg, posts, cats, images, types, theme, favicon, css, card):
     urls = guides(cfg, posts, cats, images, types, theme, favicon, css, card)
     urls += glossary(cfg, posts, theme, favicon, css)
     urls += pages(cfg, theme, favicon, css)
     n = badges(cfg)
+    term_links(cfg, posts)
     crosslinks(cfg)
     top_links(cfg)
     if urls:
