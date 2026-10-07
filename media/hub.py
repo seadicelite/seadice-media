@@ -7,6 +7,7 @@
   questions: [{q, slug}]                   よくある悩み(答えは記事の summary を出す)
   actions:   [{label, desc, href}]         家族で使うページ(印刷用ルール表など)
   actionsLead: str                         actions の説明文
+  agesTitle / agesLead / questionsTitle / questionsLead / actionsTitle: 見出しの差し替え(省略時は子育てデータ向けの文言)
 """
 import html
 
@@ -48,7 +49,7 @@ def render(cfg, posts, cats, images, types, card):
 
     ages = h.get("ages", [])
     if ages:
-        out += ('<section class="kh"><h2>お子さんは何歳ですか？</h2><p class="kl">年齢ごとに、まず読んでほしい記事をまとめています。</p><div class="kh-age">'
+        out += (f'<section class="kh"><h2>{E(h.get("agesTitle", "お子さんは何歳ですか？"))}</h2><p class="kl">{E(h.get("agesLead", "年齢ごとに、まず読んでほしい記事をまとめています。"))}</p><div class="kh-age">'
                 + "".join(f'<a href="{E(a["href"], quote=True)}"><b>{E(a["label"])}</b><span>{E(a.get("sub", ""))}</span></a>' for a in ages)
                 + "</div></section>")
 
@@ -62,11 +63,11 @@ def render(cfg, posts, cats, images, types, card):
         for q, p in qs:
             c = cats.get(p["category"], {"color": "var(--accent)"})
             rows += f'<a href="/{p["slug"]}/" style="--c:{c["color"]}"><b>{E(q)}</b><span>{E(p["summary"])}</span></a>'
-        out += f'<section class="kh"><h2>よくある悩みから</h2><p class="kl">研究と公的な指針から、先に答えを書いています。</p><div class="kh-q">{rows}</div></section>'
+        out += f'<section class="kh"><h2>{E(h.get("questionsTitle", "よくある悩みから"))}</h2><p class="kl">{E(h.get("questionsLead", "研究と公的な指針から、先に答えを書いています。"))}</p><div class="kh-q">{rows}</div></section>'
 
     acts = h.get("actions", [])
     if acts:
-        out += (f'<section class="kh"><h2>家族で話し合うときに</h2><p class="kl">{E(h.get("actionsLead", ""))}</p><div class="kh-act">'
+        out += (f'<section class="kh"><h2>{E(h.get("actionsTitle", "家族で話し合うときに"))}</h2><p class="kl">{E(h.get("actionsLead", ""))}</p><div class="kh-act">'
                 + "".join(f'<a href="{E(a["href"], quote=True)}"><b>{E(a["label"])}</b><span>{E(a.get("desc", ""))}</span></a>' for a in acts)
                 + "</div></section>")
 
