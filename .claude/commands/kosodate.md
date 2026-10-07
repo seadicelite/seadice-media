@@ -1,10 +1,10 @@
 ---
-description: 子育てデータ（AI時代の子育てを研究データで考えるメディア）の記事ルール。/media kosodate から参照される
+description: AI時代の子育て（AI時代の子育てを研究データで考えるメディア）の記事ルール。/media kosodate から参照される
 ---
 
-# 子育てデータ の記事ルール
+# AI時代の子育て の記事ルール
 
-基本は `.claude/commands/research.md` の「読者」「鉄則（信頼性）」「手順」に従う。テンプレートは `.claude/commands/kosodate-template.html`。以下は子育てデータ固有の追加・上書きルール。
+基本は `.claude/commands/research.md` の「読者」「鉄則（信頼性）」「手順」に従う。テンプレートは `.claude/commands/kosodate-template.html`。以下はAI時代の子育て固有の追加・上書きルール。
 
 ## 立ち位置（最重要）
 

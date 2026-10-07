@@ -1,4 +1,4 @@
-"""子育てデータのWebツールページ。実行すると media/kosodate-pages.json に書き込む(extras.pages が /{path}/ を書き出す)。
+"""AI時代の子育てのWebツールページ。実行すると media/kosodate-pages.json に書き込む(extras.pages が /{path}/ を書き出す)。
 
   python3 media/kosodate_tools.py && python3 media/build.py kosodate
 
@@ -75,7 +75,7 @@ BODY = """<script type="application/ld+json">%LD%</script>
 <tr><td>5歳〜小学生</td><td>決まった線はなし</td><td>寝る前の使用、ゲームと生活のリズム、近くを見る時間</td></tr>
 <tr><td>中学生・高校生</td><td>決まった線はなし</td><td>寝る前の使用、SNSの時間、ゲームと生活のリズム</td></tr>
 </tbody></table>
-<div class="note">スクショは、数字を読み取るためだけにAI（Claude）へ送ります。判定と表示する文章は、AIではなく、出典と照らし合わせた<a href="/kids-screen-time-hours/">子育てデータの記事</a>の結論から出しています。読み取りは1日3回までです。</div>
+<div class="note">スクショは、数字を読み取るためだけにAI（Claude）へ送ります。判定と表示する文章は、AIではなく、出典と照らし合わせた<a href="/kids-screen-time-hours/">AI時代の子育ての記事</a>の結論から出しています。読み取りは1日3回までです。</div>
 <h2>入力例</h2>
 <table class="st-t"><thead><tr><th>年齢</th><th>1日の合計</th><th>表示される内容</th></tr></thead><tbody>
 <tr><td>3歳</td><td>1時間40分（動画のみ）</td><td>目安より40分多め。親子で一緒に見ること、終わり方の声かけ</td></tr>

@@ -7,7 +7,7 @@
   questions: [{q, slug}]                   よくある悩み(答えは記事の summary を出す)
   actions:   [{label, desc, href}]         家族で使うページ(印刷用ルール表など)
   actionsLead: str                         actions の説明文
-  agesTitle / agesLead / questionsTitle / questionsLead / actionsTitle: 見出しの差し替え(省略時は子育てデータ向けの文言)
+  agesTitle / agesLead / questionsTitle / questionsLead / actionsTitle: 見出しの差し替え(省略時はAI時代の子育て向けの文言)
 """
 import html
 
