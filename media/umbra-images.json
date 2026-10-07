@@ -1578,5 +1578,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Interior_of_Helsinki_Airport_Vantaa.jpg/500px-Interior_of_Helsinki_Airport_Vantaa.jpg",
   "og": "https://umbra.seadice.win/img/deliberate-eye-contact-lying-research.jpg",
   "local": true
+ },
+ "liking-avoidance-rejection-fear-research": {
+  "file": "File:Lothar Path - Black Forest National Park - bench 01.jpg",
+  "src": "/img/liking-avoidance-rejection-fear-research.jpg",
+  "src640": "/img/liking-avoidance-rejection-fear-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "並木道にある誰も座っていないベンチ",
+  "artist": "H. Zell",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg/960px-Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg/500px-Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg",
+  "og": "https://umbra.seadice.win/img/liking-avoidance-rejection-fear-research.jpg",
+  "local": true
  }
 }

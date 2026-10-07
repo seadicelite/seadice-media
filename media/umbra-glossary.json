@@ -333,5 +333,23 @@
     "slugs": [
       "language-style-matching-line-keigo-research"
     ]
+  },
+  {
+    "id": "rejection-sensitivity",
+    "term": "拒絶感受性",
+    "en": "Rejection sensitivity",
+    "def": "拒絶されることを不安に思い、あいまいな相手の行動まで「拒絶された」と読み取りやすい傾向。強い人ほど相手を避けたり、関係の満足度を下げたりすることが研究で報告されています。",
+    "slugs": [
+      "liking-avoidance-rejection-fear-research"
+    ]
+  },
+  {
+    "id": "signal-amplification-bias",
+    "term": "サイン増幅バイアス",
+    "en": "Signal amplification bias",
+    "def": "拒絶を恐れる気持ちから好意の表現を控えめにしてしまい、それでも「自分の気持ちは相手に伝わっているはず」と思い込んでしまう傾向。実際に伝わる好意は、本人が思うより少なくなりやすいとされます。",
+    "slugs": [
+      "liking-avoidance-rejection-fear-research"
+    ]
   }
 ]
