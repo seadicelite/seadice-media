@@ -1590,5 +1590,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/The_Old_House_of_Keys_-_geograph.org.uk_-_2383534.jpg/500px-The_Old_House_of_Keys_-_geograph.org.uk_-_2383534.jpg",
   "og": "https://umbra.seadice.win/img/premarital-cohabitation-divorce-risk-research-og.jpg",
   "local": true
+ },
+ "friend-isolation-coercive-control-danger-research": {
+  "file": "File:A woman looking out the window (Unsplash).jpg",
+  "src": "/img/friend-isolation-coercive-control-danger-research.jpg",
+  "src640": "/img/friend-isolation-coercive-control-danger-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "窓の外を見ている人物のシルエット",
+  "artist": "Kate Williams kmw152",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:A_woman_looking_out_the_window_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/A_woman_looking_out_the_window_%28Unsplash%29.jpg/960px-A_woman_looking_out_the_window_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/A_woman_looking_out_the_window_%28Unsplash%29.jpg/500px-A_woman_looking_out_the_window_%28Unsplash%29.jpg",
+  "og": "https://umbra.seadice.win/img/friend-isolation-coercive-control-danger-research.jpg",
+  "local": true
  }
 }
