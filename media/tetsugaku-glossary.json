@@ -45,6 +45,15 @@
   ]
  },
  {
+  "id": "otium",
+  "term": "閑暇（オティウム）",
+  "en": "Otium",
+  "def": "仕事や他人への奉仕から離れた、自分のための時間のこと。セネカは怠けることではないとし、哲学を学ぶことに使う時間こそが本当の閑暇だとしました。",
+  "slugs": [
+   "seneca-shortness-of-life"
+  ]
+ },
+ {
   "id": "kigai-genri",
   "term": "危害原理",
   "en": "Harm principle",
@@ -145,6 +154,15 @@
   ]
  },
  {
+  "id": "simulacra",
+  "term": "シミュラークル",
+  "en": "Simulacrum",
+  "def": "本物を写したはずのコピーや像が、写す元の現実を持たなくなり、それ自体が「現実」のように働くものです。ボードリヤールは『シミュラークルとシミュレーション』（1981年）でこの考えを論じました。",
+  "slugs": [
+   "baudrillard-simulacra"
+  ]
+ },
+ {
   "id": "shiyou",
   "term": "止揚（アウフヘーベン）",
   "en": "Aufheben",
@@ -161,6 +179,16 @@
   "slugs": [
    "descartes-mind-body-dualism",
    "nagel-what-is-it-like-to-be-a-bat"
+  ]
+ },
+ {
+  "id": "meditations",
+  "term": "自省録",
+  "en": "Meditations",
+  "def": "ローマ皇帝マルクス・アウレリウス（121〜180年）が、自分自身に向けてギリシア語で書いた全12巻の覚え書きです。出版を前提にせず、ストア派の教えを自分に言い聞かせるために書かれました。",
+  "slugs": [
+   "marcus-aurelius-meditations",
+   "epictetus-dichotomy-of-control"
   ]
  },
  {
@@ -244,6 +272,16 @@
   "def": "新旧のパラダイムが共通の物差しを持たず、どちらが優れているかを単純に比べられないこと。クーンが論じました。",
   "slugs": [
    "kuhn-paradigm-shift"
+  ]
+ },
+ {
+  "id": "toujin",
+  "term": "蕩尽",
+  "en": "Expenditure (dépense)",
+  "def": "利益や見返りを求めずに、富やエネルギーを使い切ることです。バタイユは、ぜいたく・遊び・祭り・芸術などをその例とし、人間社会に欠かせない営みだと考えました。",
+  "slugs": [
+   "bataille-expenditure",
+   "baudrillard-simulacra"
   ]
  },
  {

@@ -79,11 +79,6 @@
   "relatedApps": "p/released-apps.json から近いジャンル（自己啓発・内省・習慣系）を選ぶ。無ければ記事のアプリ案のみ",
   "postsPerRun": 1,
   "topicQueue": [
-    "マルクス・アウレリウスの『自省録』とは？ 皇帝が自分のために書き続けたストア派の覚え書き",
-    "セネカの「人生は短いのではない、私たちが短くしている」とは？『人生の短さについて』の時間論",
-    "カフカの『変身』は何を描いたのか？ 朝起きたら虫になっていた男と「不条理」",
-    "バタイユの「蕩尽」とは？ 役に立たない消費や祝祭に人が惹かれる理由",
-    "ボードリヤールの「シミュラークル」とは？ 本物よりもコピーがリアルになる社会",
     "プラトンの「ギュゲスの指輪」、誰にも見られなければ人は不正をするのか",
     "アリストテレスの「中庸」、勇気は臆病と無謀の間にあるのか",
     "トマス・アクィナスの「神の存在証明（五つの道）」とは何か",
@@ -143,7 +138,12 @@
         "kant-lying-categorical-imperative",
         "nietzsche-god-is-dead",
         "schopenhauer-will-pessimism",
-        "sartre-existence-precedes-essence"
+        "sartre-existence-precedes-essence",
+        "marcus-aurelius-meditations",
+        "seneca-shortness-of-life",
+        "kafka-metamorphosis",
+        "bataille-expenditure",
+        "baudrillard-simulacra"
       ]
     }
   ]
