@@ -196,6 +196,9 @@ PAGES = [{"path": "screen-time-check", "title": "子どものスクリーンタ�
           "desc": "子どもの年齢とスクリーンタイムのスクショを入れると、WHOの目安（2〜4歳は1日1時間まで）と研究に照らして、いまの使い方と今日からできることを表示。無料・広告なし・登録不要。",
           "body": BODY, "css": CSS}]
 
+from kosodate_rules_tool import PAGE as RULES_PAGE  # noqa: E402
+PAGES.append(RULES_PAGE)
+
 if __name__ == "__main__":
     f = ROOT / "media/kosodate-pages.json"
     ps = json.loads(f.read_text())
