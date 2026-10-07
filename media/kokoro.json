@@ -248,6 +248,14 @@
   },
   "extraNav": [
     {
+      "label": "セルフチェック",
+      "path": "/check/"
+    },
+    {
+      "label": "研究早見表",
+      "path": "/hayami/"
+    },
+    {
       "label": "悩み別ガイド",
       "path": "/guide/"
     },
