@@ -64,6 +64,11 @@ M = {
         "app_cat": "LifestyleApplication",
         "examples": [],
         "safe": "親の物忘れや体の様子で気になることがあれば、かかりつけ医か、お住まいの地域の地域包括支援センターに相談できます。",
+        # 記事ごとの追加ツール: (リンク先, リンク文, 説明, 対象記事slug)
+        "tools": [("/isu-test/", "30秒いす立ち上がりテストで親の脚の力を測る",
+                   "家にあるいすで30秒。年代・性別の目安（米国CDC）とくらべ、記録して変化を見られます。参考用です。",
+                   ("parent-fall-prevention-home", "parent-nighttime-toilet-falls", "parent-sleeping-pills-falls",
+                    "parent-sitting-tv-all-day", "parent-poor-appetite-undernutrition-frailty", "parent-cluttered-home-fire-falls"))],
         "diag_q": "このチェックで、親が認知症かどうかわかりますか？",
         "diag_a": "わかりません。点数や判定は出さず、選んだ悩みについて記事で紹介している「今日やること」をまとめるだけの道具です。気になる様子があるときは、かかりつけ医か地域包括支援センターに相談できます。",
     },
@@ -271,6 +276,9 @@ def run(slug):
             continue
         blk = (f'<!--ktools--><p style="margin:28px 0;padding:14px 18px;border:1px solid var(--accent);border-radius:12px;background:var(--card);font-size:15px;line-height:1.8">'
                f'<span style="font-size:12px;color:var(--muted)">無料ツール</span><br>'
+               + "".join(f'<a href="{h}" style="color:var(--link);font-weight:800">{E(lb)}</a><br>'
+                         f'<span style="font-size:13px;color:var(--muted)">{E(w)}</span><br>'
+                         for h, lb, w, ss in m.get("tools", []) if x["slug"] in ss) +
                f'<a href="/check/" style="color:var(--link);font-weight:800">{E(m["check_link"])}</a><br>'
                f'<span style="font-size:13px;color:var(--muted)">当てはまる悩みを選ぶだけ。診断はせず、記事の対策を一覧にします。</span><br>'
                f'<a href="/hayami/#{x["slug"]}" style="color:var(--link);font-size:14px">研究早見表でほかの悩み{n - 1}件も見る</a></p><!--/ktools-->\n')
