@@ -1,5 +1,13 @@
 [
  {
+  "slug": "ai-chat-input-personal-info",
+  "category": "AI時代の防犯",
+  "type": "guide",
+  "date": "2026-10-08",
+  "title": "AIチャットに入力してはいけない情報。名前・勤務先・仕事の資料が漏れる仕組みと置き換えのコツ",
+  "summary": "AIチャットの履歴には名前や勤務先がまとまって残る。実際の会話の研究では、個人情報を含む入力の68%に職業、44%に名前。入れない情報を決め、名前を置き換え、二段階認証で守る。"
+ },
+ {
   "slug": "smart-device-ex-partner-tracking",
   "category": "AI時代の防犯",
   "type": "guide",
