@@ -116,7 +116,7 @@
   "layout": "magazine",
   "extraNav": [
     {
-      "label": "記事マップ",
+      "label": "マインドマップ",
       "path": "/map/"
     },
     {

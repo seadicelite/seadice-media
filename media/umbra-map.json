@@ -1,42 +1,251 @@
 {
-  "title": "記事マップ",
-  "seo_title": "恋愛としぐさの心理学 記事マップ（全記事を問いごとに整理）",
-  "desc": "しぐさと本音の全記事を、6つの分野と問いごとに枝分かれさせたマップです。気になる問いをたどって、研究で確かめた記事にすぐ飛べます。",
-  "lead": "好意のサイン、しぐさ、駆け引き、相性と結婚、危険な相手、別れと復縁。しぐさと本音の全記事を、問いごとに枝分かれさせました。分野をタップすると枝が開き、記事のタイトルから本文に飛べます。",
+  "title": "マインドマップ",
+  "seo_title": "恋愛としぐさの心理学 マインドマップ（全記事を問いごとに整理）",
+  "desc": "しぐさと本音の全記事を、6つの分野と問いごとに枝分かれさせたマインドマップです。気になる問いをたどって、研究で確かめた記事にすぐ飛べます。",
+  "lead": "好意のサイン、しぐさ、駆け引き、相性と結婚、危険な相手、別れと復縁。しぐさと本音の全記事を、問いごとに枝分かれさせました。問いをタップすると記事の枝が開き、記事から本文に飛べます。",
   "date": "2026-10-08",
   "branches": {
     "脈あり・好意のサイン": [
-      {"label": "会話や態度に出るサイン", "slugs": ["love-signals-flirting-research", "kindness-helping-signal-of-interest-research", "laughing-at-jokes-interest-signal-research", "question-asking-follow-up-interest-research", "self-disclosure-confiding-liking-research", "compliments-flattery-liking-signal-research", "voice-pitch-attraction-research", "downward-glance-head-tilt-attraction-signal"], "tools": [{"label": "脈ありチェック", "path": "/myakuari-check/"}]},
-      {"label": "連絡・LINEに出るサイン", "slugs": ["emoji-sticker-liking-signal-research", "contact-frequency-decline-cooling-signal-research"], "tools": [{"label": "冷めたサインチェック", "path": "/sameta-check/"}]},
-      {"label": "人を好きになる仕組み", "slugs": ["liking-reciprocity-research", "mere-exposure-effect-romantic-attraction", "love-is-blind-idealization-research"]},
-      {"label": "告白・デートの悩み", "slugs": ["confession-hesitation-regret-research", "dating-invitation-rejection-anxiety-research", "silence-during-dates-liking-research"]}
+      {
+        "label": "会話や態度に出るサイン",
+        "slugs": [
+          "love-signals-flirting-research",
+          "kindness-helping-signal-of-interest-research",
+          "laughing-at-jokes-interest-signal-research",
+          "question-asking-follow-up-interest-research",
+          "self-disclosure-confiding-liking-research",
+          "compliments-flattery-liking-signal-research",
+          "voice-pitch-attraction-research",
+          "downward-glance-head-tilt-attraction-signal"
+        ],
+        "tools": [
+          {
+            "label": "脈ありチェック",
+            "path": "/myakuari-check/"
+          }
+        ]
+      },
+      {
+        "label": "連絡・LINEに出るサイン",
+        "slugs": [
+          "emoji-sticker-liking-signal-research",
+          "contact-frequency-decline-cooling-signal-research"
+        ],
+        "tools": [
+          {
+            "label": "冷めたサインチェック",
+            "path": "/sameta-check/"
+          }
+        ]
+      },
+      {
+        "label": "人を好きになる仕組み",
+        "slugs": [
+          "liking-reciprocity-research",
+          "mere-exposure-effect-romantic-attraction",
+          "love-is-blind-idealization-research"
+        ]
+      },
+      {
+        "label": "告白・デートの悩み",
+        "slugs": [
+          "confession-hesitation-regret-research",
+          "dating-invitation-rejection-anxiety-research",
+          "silence-during-dates-liking-research"
+        ]
+      }
     ],
     "しぐさ・ボディランゲージ": [
-      {"label": "好意・関心が出るしぐさ", "slugs": ["eye-contact-gaze-attraction-research", "pupil-dilation-attraction-research", "eyebrow-flash-attraction-research", "blushing-face-red-liking-research", "forward-lean-posture-approach-avoidance-research", "body-orientation-feet-direction-interest-research", "personal-space-distance-intimacy-research", "touch-affection-signal-research", "chameleon-effect-mimicry-liking-research", "head-tilt-impression-research", "nodding-backchannel-listening-likeability-research"], "tools": [{"label": "しぐさ索引・クイズ", "path": "/shigusa/"}]},
-      {"label": "嘘や本音は見抜けるか", "slugs": ["body-language-lie-detection-accuracy", "microexpression-true-feelings-research", "fake-smile-duchenne-detection-research", "eye-direction-up-right-lying-nlp-research", "deliberate-eye-contact-lying-research", "nose-touching-lying-pinocchio-research", "blink-rate-nervousness-lying-research", "response-latency-speech-rate-lying-research", "too-much-detail-lying-research", "feet-most-honest-leakage-research"], "tools": [{"label": "嘘のサインチェック", "path": "/uso-check/"}]},
-      {"label": "緊張・不安・拒否のしぐさ", "slugs": ["arm-crossing-posture-psychology-research", "self-touch-face-hair-nervousness-research", "neck-touch-pacifying-behavior-research", "lip-compression-disappearing-lips-stress-research", "eye-blocking-covering-eyes-research", "torso-turn-away-ventral-denial-research", "freeze-flight-fight-threat-response-research", "leg-jiggling-fidgeting-anxiety-research", "gaze-avoidance-social-anxiety-research", "illusion-of-transparency-nervousness-visible-research"]},
-      {"label": "自信・第一印象・性格", "slugs": ["appearance-first-impression-accuracy-research", "power-pose-confidence-replication-research", "steepling-hands-confidence-research", "leg-crossing-direction-personality-research"]}
+      {
+        "label": "好意・関心が出るしぐさ",
+        "slugs": [
+          "eye-contact-gaze-attraction-research",
+          "pupil-dilation-attraction-research",
+          "eyebrow-flash-attraction-research",
+          "blushing-face-red-liking-research",
+          "forward-lean-posture-approach-avoidance-research",
+          "body-orientation-feet-direction-interest-research",
+          "personal-space-distance-intimacy-research",
+          "touch-affection-signal-research",
+          "chameleon-effect-mimicry-liking-research",
+          "head-tilt-impression-research",
+          "nodding-backchannel-listening-likeability-research"
+        ],
+        "tools": [
+          {
+            "label": "しぐさ索引・クイズ",
+            "path": "/shigusa/"
+          }
+        ]
+      },
+      {
+        "label": "嘘や本音は見抜けるか",
+        "slugs": [
+          "body-language-lie-detection-accuracy",
+          "microexpression-true-feelings-research",
+          "fake-smile-duchenne-detection-research",
+          "eye-direction-up-right-lying-nlp-research",
+          "deliberate-eye-contact-lying-research",
+          "nose-touching-lying-pinocchio-research",
+          "blink-rate-nervousness-lying-research",
+          "response-latency-speech-rate-lying-research",
+          "too-much-detail-lying-research",
+          "feet-most-honest-leakage-research"
+        ],
+        "tools": [
+          {
+            "label": "嘘のサインチェック",
+            "path": "/uso-check/"
+          }
+        ]
+      },
+      {
+        "label": "緊張・不安・拒否のしぐさ",
+        "slugs": [
+          "arm-crossing-posture-psychology-research",
+          "self-touch-face-hair-nervousness-research",
+          "neck-touch-pacifying-behavior-research",
+          "lip-compression-disappearing-lips-stress-research",
+          "eye-blocking-covering-eyes-research",
+          "torso-turn-away-ventral-denial-research",
+          "freeze-flight-fight-threat-response-research",
+          "leg-jiggling-fidgeting-anxiety-research",
+          "gaze-avoidance-social-anxiety-research",
+          "illusion-of-transparency-nervousness-visible-research"
+        ]
+      },
+      {
+        "label": "自信・第一印象・性格",
+        "slugs": [
+          "appearance-first-impression-accuracy-research",
+          "power-pose-confidence-replication-research",
+          "steepling-hands-confidence-research",
+          "leg-crossing-direction-personality-research"
+        ]
+      }
     ],
     "駆け引きと心理": [
-      {"label": "LINE・SNSの心理", "slugs": ["line-reply-speed-research", "reply-anxiety-attachment-jealousy-research", "language-style-matching-line-keigo-research", "story-view-avoidance-interest-concealment-research"]},
-      {"label": "好意の裏返し・駆け引き", "slugs": ["pulling-away-liking-ambivalence-research", "teasing-affection-or-hostility-research", "hard-to-get-scarcity-attraction-research", "online-dating-profile-deception-research"]},
-      {"label": "嫉妬とすれ違い", "slugs": ["infidelity-jealousy-gender-difference-research", "partner-phone-checking-surveillance-research", "mind-reading-expectation-mismatch-research", "non-apology-psychology-barriers-research"]}
+      {
+        "label": "LINE・SNSの心理",
+        "slugs": [
+          "line-reply-speed-research",
+          "reply-anxiety-attachment-jealousy-research",
+          "language-style-matching-line-keigo-research",
+          "story-view-avoidance-interest-concealment-research"
+        ]
+      },
+      {
+        "label": "好意の裏返し・駆け引き",
+        "slugs": [
+          "pulling-away-liking-ambivalence-research",
+          "teasing-affection-or-hostility-research",
+          "hard-to-get-scarcity-attraction-research",
+          "online-dating-profile-deception-research"
+        ]
+      },
+      {
+        "label": "嫉妬とすれ違い",
+        "slugs": [
+          "infidelity-jealousy-gender-difference-research",
+          "partner-phone-checking-surveillance-research",
+          "mind-reading-expectation-mismatch-research",
+          "non-apology-psychology-barriers-research"
+        ]
+      }
     ],
     "相性と結婚": [
-      {"label": "相性の見極め", "slugs": ["similarity-attraction-compatibility-research", "humor-style-compatibility-research", "conversation-synchrony-compatibility-research", "attachment-style-relationship-compatibility", "destiny-belief-relationship-satisfaction-research"]},
-      {"label": "長続きする関係", "slugs": ["partner-responsiveness-research", "gratitude-relationship-maintenance-research", "long-distance-relationship-satisfaction-research"]},
-      {"label": "喧嘩と浮気", "slugs": ["fight-style-relationship-research", "stonewalling-conflict-withdrawal-warning-sign", "serial-infidelity-repeat-research"]},
-      {"label": "結婚・同棲を考えたら", "slugs": ["marriage-compatibility-research", "mate-preference-gender-difference-research", "age-gap-marriage-satisfaction-research", "premarital-cohabitation-divorce-risk-research", "marriage-satisfaction-u-curve-myth-research"]}
+      {
+        "label": "相性の見極め",
+        "slugs": [
+          "similarity-attraction-compatibility-research",
+          "humor-style-compatibility-research",
+          "conversation-synchrony-compatibility-research",
+          "attachment-style-relationship-compatibility",
+          "destiny-belief-relationship-satisfaction-research"
+        ]
+      },
+      {
+        "label": "長続きする関係",
+        "slugs": [
+          "partner-responsiveness-research",
+          "gratitude-relationship-maintenance-research",
+          "long-distance-relationship-satisfaction-research"
+        ]
+      },
+      {
+        "label": "喧嘩と浮気",
+        "slugs": [
+          "fight-style-relationship-research",
+          "stonewalling-conflict-withdrawal-warning-sign",
+          "serial-infidelity-repeat-research"
+        ]
+      },
+      {
+        "label": "結婚・同棲を考えたら",
+        "slugs": [
+          "marriage-compatibility-research",
+          "mate-preference-gender-difference-research",
+          "age-gap-marriage-satisfaction-research",
+          "premarital-cohabitation-divorce-risk-research",
+          "marriage-satisfaction-u-curve-myth-research"
+        ]
+      }
     ],
     "危険な相手のサイン": [
-      {"label": "始まりの違和感", "slugs": ["love-bombing-warning-signs-research", "charming-first-impression-narcissism-research"], "tools": [{"label": "危険な相手のサイン チェック", "path": "/redflag-check/"}]},
-      {"label": "束縛・支配", "slugs": ["jealousy-possessiveness-control-research", "friend-isolation-coercive-control-danger-research", "financial-infidelity-warning-signs-research", "dating-violence-recognition-gender-gap-research"]},
-      {"label": "心を揺さぶられる関係", "slugs": ["gaslighting-early-warning-signs", "moral-harassment-behavior-patterns-research", "trauma-bonding-why-hard-to-leave-research"]}
+      {
+        "label": "始まりの違和感",
+        "slugs": [
+          "love-bombing-warning-signs-research",
+          "charming-first-impression-narcissism-research"
+        ],
+        "tools": [
+          {
+            "label": "危険な相手のサイン チェック",
+            "path": "/redflag-check/"
+          }
+        ]
+      },
+      {
+        "label": "束縛・支配",
+        "slugs": [
+          "jealousy-possessiveness-control-research",
+          "friend-isolation-coercive-control-danger-research",
+          "financial-infidelity-warning-signs-research",
+          "dating-violence-recognition-gender-gap-research"
+        ]
+      },
+      {
+        "label": "心を揺さぶられる関係",
+        "slugs": [
+          "gaslighting-early-warning-signs",
+          "moral-harassment-behavior-patterns-research",
+          "trauma-bonding-why-hard-to-leave-research"
+        ]
+      }
     ],
     "別れと復縁": [
-      {"label": "別れから立ち直る", "slugs": ["breakup-recovery-time-research", "breakup-recovery-gender-difference-research", "ghosting-psychological-effects-research"]},
-      {"label": "復縁はうまくいくか", "slugs": ["reconciliation-success-rate-research", "on-again-off-again-reconciliation-research"]},
-      {"label": "元恋人との距離", "slugs": ["staying-friends-with-ex-research", "ex-partner-social-media-checking-research"]}
+      {
+        "label": "別れから立ち直る",
+        "slugs": [
+          "breakup-recovery-time-research",
+          "breakup-recovery-gender-difference-research",
+          "ghosting-psychological-effects-research"
+        ]
+      },
+      {
+        "label": "復縁はうまくいくか",
+        "slugs": [
+          "reconciliation-success-rate-research",
+          "on-again-off-again-reconciliation-research"
+        ]
+      },
+      {
+        "label": "元恋人との距離",
+        "slugs": [
+          "staying-friends-with-ex-research",
+          "ex-partner-social-media-checking-research"
+        ]
+      }
     ]
   }
 }
