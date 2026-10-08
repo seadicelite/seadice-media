@@ -919,5 +919,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/DSCF1036_Empty_city_street_at_night_with_streaks_of_headlights_and_glowing_streetlights_lining_the_road.jpg/500px-DSCF1036_Empty_city_street_at_night_with_streaks_of_headlights_and_glowing_streetlights_lining_the_road.jpg",
   "og": "https://hanzai.seadice.win/img/offender-profiling-accuracy.jpg",
   "local": true
+ },
+ "flashbulb-memory-accuracy": {
+  "file": "File:Old television set at the Finnish Architecture Museum.jpg",
+  "src": "/img/flashbulb-memory-accuracy.jpg",
+  "src640": "/img/flashbulb-memory-accuracy-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "古いテレビ受像機",
+  "artist": "JIP",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Old_television_set_at_the_Finnish_Architecture_Museum.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Old_television_set_at_the_Finnish_Architecture_Museum.jpg/960px-Old_television_set_at_the_Finnish_Architecture_Museum.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Old_television_set_at_the_Finnish_Architecture_Museum.jpg/500px-Old_television_set_at_the_Finnish_Architecture_Museum.jpg",
+  "og": "https://hanzai.seadice.win/img/flashbulb-memory-accuracy.jpg",
+  "local": true
  }
 }
