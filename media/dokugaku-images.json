@@ -627,5 +627,23 @@
   "remote640": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL2ZydGVycHZlc2FsYWluZW4wMDA0NC1pbWFnZS1rd3Z3eGF5Ni5qcGc.jpg",
   "og": "https://dokugaku.seadice.win/img/pretesting-before-reading-og.jpg",
   "local": true
+ },
+ "reading-aloud-production-effect": {
+  "file": "File:Open book with apples placed on a wooden table in a bright indoor setting.jpg",
+  "src": "/img/reading-aloud-production-effect.jpg",
+  "src640": "/img/reading-aloud-production-effect-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "木の机の上に開かれた本とりんご",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Open_book_with_apples_placed_on_a_wooden_table_in_a_bright_indoor_setting.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Open_book_with_apples_placed_on_a_wooden_table_in_a_bright_indoor_setting.jpg/960px-Open_book_with_apples_placed_on_a_wooden_table_in_a_bright_indoor_setting.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Open_book_with_apples_placed_on_a_wooden_table_in_a_bright_indoor_setting.jpg/500px-Open_book_with_apples_placed_on_a_wooden_table_in_a_bright_indoor_setting.jpg",
+  "og": "https://dokugaku.seadice.win/img/reading-aloud-production-effect.jpg",
+  "local": true
  }
 }

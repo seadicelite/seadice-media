@@ -161,5 +161,14 @@
     "slugs": [
       "study-buddy-learning-together"
     ]
+  },
+  {
+    "id": "production-effect",
+    "term": "音読効果（プロダクション効果）",
+    "en": "Production effect",
+    "def": "声に出して読んだ言葉が、黙読した言葉より覚えやすくなる現象。一部だけを声に出したときに効果がはっきり出て、全部を音読すると差は小さくなります。",
+    "slugs": [
+      "reading-aloud-production-effect"
+    ]
   }
 ]
