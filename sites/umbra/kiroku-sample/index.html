@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>メモ</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{--bg:#0F0B16;--card:#181222;--accent:#F2A65A;--border:#2A2236;--text:#ECE7F2;--muted:#9A8FAD;--link:#B9A6FF}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,'Helvetica Neue',sans-serif;line-height:1.7;-webkit-text-size-adjust:100%}
+header{position:sticky;top:0;z-index:10;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px 16px;background:var(--bg);border-bottom:1px solid var(--border)}
+header b{font-size:15px}
+.exit{border:0;border-radius:999px;background:#E5534B;color:#fff;font-weight:800;font-size:14px;padding:10px 16px;cursor:pointer}
+main{max-width:640px;margin:0 auto;padding:16px 16px 64px}
+h1{font-size:22px;margin:8px 0 6px}h2{font-size:17px;margin:32px 0 10px}
+p{font-size:15px}.muted{color:var(--muted);font-size:13px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:16px;margin:14px 0}
+.warn{border-left:4px solid var(--accent)}.alert{border-left:4px solid #E5534B}
+.gl{font-weight:700;margin:16px 0 4px;font-size:14px;color:var(--muted)}
+label{display:flex;gap:12px;align-items:flex-start;padding:10px 2px;border-top:1px solid var(--border);font-size:15px;line-height:1.6;cursor:pointer}
+input[type=checkbox]{width:22px;height:22px;flex:0 0 22px;margin-top:1px;accent-color:var(--accent)}
+input[type=date],textarea{width:100%;font:inherit;font-size:16px;color:var(--text);background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:10px}
+textarea{min-height:96px;margin-top:6px}
+.btn{display:block;width:100%;margin-top:14px;padding:14px;border:0;border-radius:12px;background:var(--accent);color:var(--bg);font-size:16px;font-weight:800;cursor:pointer}
+.sub{background:none;border:1px solid var(--border);color:var(--text);font-weight:700}
+.entry{border-top:1px solid var(--border);padding:12px 0}.entry:first-child{border-top:0}
+.entry .d{font-weight:800}.entry ul{margin:6px 0 0 1.2em;font-size:14px}.entry .m{font-size:14px;margin-top:6px;white-space:pre-wrap;color:var(--text);opacity:.9}
+.del{background:none;border:0;color:var(--muted);font-size:13px;text-decoration:underline;cursor:pointer;padding:8px 0}
+.row{display:flex;justify-content:space-between;gap:12px;padding:8px 0;border-top:1px solid var(--border);font-size:14px}.row:first-child{border-top:0}
+.row b{white-space:nowrap}.hl{color:var(--accent)}
+a{color:var(--link)}.tl-contact{margin:8px 0 0 1.2em;font-size:15px;line-height:1.9}.tl-contact a{font-weight:700}
+.ok{color:var(--accent);font-weight:700;font-size:14px;min-height:1.5em;margin-top:8px}
+button:focus-visible,a:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+</style>
+</head>
+<body>
+<header><b>関係の記録 <span class="muted">サンプル</span></b><button type="button" class="exit" id="exit">すぐ閉じる</button></header>
+<main>
+<h1>関係の記録（サンプル版）</h1>
+<p>恋人やパートナーとの間で起きたことを、日付つきで記録します。あとから見返すと、同じことが繰り返されているかに気づけます。記録は相談するときの手がかりにもなります。</p>
+<div class="card warn"><p><strong>記録はこの端末のブラウザにだけ保存されます。</strong>どこにも送信しません。そのかわり、この端末やブラウザを相手と共有していると、見られるおそれがあります。心配なときは記録しないか、使い終わったら「すべての記録を消す」を押してください。</p>
+<p class="muted" style="margin-top:8px">右上の「すぐ閉じる」を押すと、関係のないページに切り替わります。</p></div>
+
+<h2>今日の記録</h2>
+<form class="card" id="f" onsubmit="return false">
+<label style="display:block;border:0;padding:0" for="dt">日付</label><input type="date" id="dt">
+<p class="gl">すぐに安全を考えたいこと</p><label><input type="checkbox" value="n1">叩く・押す・物を投げるなど、体や物への暴力がある</label><label><input type="checkbox" value="n2">「別れたら〜する」など、脅すようなことを言われる</label><p class="gl">行動を制限される・孤立させられる</p><label><input type="checkbox" value="c1">友達や家族と会うのを嫌がられ、会う回数が減った</label><label><input type="checkbox" value="c2">「心配だから」と、外出・服装・交友を制限される</label><label><input type="checkbox" value="c3">スマホや位置情報を、同意なく見られる・見せるよう求められる</label><label><input type="checkbox" value="c4">お金を一方的に管理される・働くのを止められる</label><label><input type="checkbox" value="c5">「ノー」と言うと、不機嫌になる・責められる</label><p class="gl">気持ちや感覚を揺さぶられる</p><label><input type="checkbox" value="m1">言ったこと・あったことを「なかった」と言われ、自分の記憶や感覚を疑うようになった</label><label><input type="checkbox" value="m2">傷つけられる→謝られる→やり直しを約束される、を繰り返している</label><label><input type="checkbox" value="m3">ひどい扱いと優しさが交互に来て、離れられない</label><label><input type="checkbox" value="m4">見下す・バカにする言い方をよくされる</label><p class="gl">関係の始まり方・ふだんの言動</p><label><input type="checkbox" value="e1">出会ってすぐ、大量の連絡・贈り物・「運命の人」という言葉が続く</label><label><input type="checkbox" value="e2">最初は魅力的だったのに、約束を守らない・人を利用する言動が目立ってきた</label><label><input type="checkbox" value="e3">謝らない・話をそらす・人のせいにする、が続く</label>
+<label style="display:block;border:0;padding:12px 0 0" for="memo">メモ（任意。言われたことや、そのときの気持ち）</label>
+<textarea id="memo" maxlength="1000"></textarea>
+<button type="button" class="btn" id="save">記録する</button>
+<p class="ok" id="ok" aria-live="polite"></p>
+</form>
+
+<div id="safety"></div>
+<h2>くり返し記録されていること</h2>
+<div class="card" id="sum"><p class="muted">まだ記録がありません。</p></div>
+
+<h2>これまでの記録</h2>
+<div class="card" id="list"><p class="muted">まだ記録がありません。</p></div>
+
+<h2>相談するとき</h2>
+<div class="card"><p>記録を文章にまとめてコピーできます。相談窓口で状況を説明するときに使えます。</p>
+<button type="button" class="btn sub" id="copy">記録を文章でコピーする</button><p class="ok" id="cok" aria-live="polite"></p>
+<p style="margin-top:12px">相談先</p><ul class="tl-contact"><li>いま危険がある・身の危険を感じる：<a href="tel:110">110番</a></li><li>DV相談ナビ（最寄りの相談窓口につながる）：<a href="tel:%238008">#8008</a></li><li>DV相談＋（電話は24時間。メール・チャットもあり）：<a href="tel:0120279889">0120-279-889</a></li><li>つきまとい・脅しなどの警察相談：<a href="tel:%239110">#9110</a></li></ul></div>
+
+<h2>記録を消す</h2>
+<div class="card"><button type="button" class="btn sub" id="wipe">すべての記録を消す</button>
+<p class="muted" style="margin-top:8px">消した記録は元に戻せません。</p></div>
+
+<p class="muted" style="margin-top:24px">このページはサンプル版です。記録の項目は<a href="/redflag-check/">危険な相手のサイン チェックリスト</a>と同じで、出典照合済みの記事の結論にもとづいています。相手を診断したり、ラベルを貼ったりするためのものではありません。</p>
+</main>
+<script>(function(){
+var I={"n1": {"g": "now", "t": "叩く・押す・物を投げるなど、体や物への暴力がある", "s": null, "n": "", "title": ""}, "n2": {"g": "now", "t": "「別れたら〜する」など、脅すようなことを言われる", "s": null, "n": "", "title": ""}, "c1": {"g": "control", "t": "友達や家族と会うのを嫌がられ、会う回数が減った", "s": "jealousy-possessiveness-control-research", "n": "嫉妬という感情より、それが外出や交友の制限に結びつくかどうかが、関係の安全性を左右します。", "title": "嫉妬してくれるのは愛情の証か。束縛と支配欲の違いを研究で見分ける"}, "c2": {"g": "control", "t": "「心配だから」と、外出・服装・交友を制限される", "s": "jealousy-possessiveness-control-research", "n": "「心配だから」という説明が、具体的な制限とセットになっていないかが手がかりです。納得できない制限は、距離を置く理由になり得ます。", "title": "嫉妬してくれるのは愛情の証か。束縛と支配欲の違いを研究で見分ける"}, "c3": {"g": "control", "t": "スマホや位置情報を、同意なく見られる・見せるよう求められる", "s": "partner-phone-checking-surveillance-research", "n": "同意なく繰り返し監視することは、研究では「サイバーコントロール」という別の問題として扱われています。", "title": "恋人のスマホを見たくなるのはなぜか。パートナー監視の研究でわかったこと"}, "c4": {"g": "control", "t": "お金を一方的に管理される・働くのを止められる", "s": "financial-infidelity-warning-signs-research", "n": "お金を隠すことと、収入や支出を一方的に管理・制限する「経済的DV」は別物です。研究では後者を暴力の一形態としています。", "title": "お金の使い方を隠す『経済的不誠実』は、危険な相手のサインか"}, "c5": {"g": "control", "t": "「ノー」と言うと、不機嫌になる・責められる", "s": "jealousy-possessiveness-control-research", "n": "こちらの「ノー」が尊重されるかどうかは、関係の安全性を見る手がかりです。", "title": "嫉妬してくれるのは愛情の証か。束縛と支配欲の違いを研究で見分ける"}, "m1": {"g": "mind", "t": "言ったこと・あったことを「なかった」と言われ、自分の記憶や感覚を疑うようになった", "s": "gaslighting-early-warning-signs", "n": "「自分の感覚がおかしいのかも」という戸惑いそのものが、ガスライティングを経験した人に報告されている反応です。", "title": "「自分がおかしいのかも」と思ったら――ガスライティングの初期サイン"}, "m2": {"g": "mind", "t": "傷つけられる→謝られる→やり直しを約束される、を繰り返している", "s": "moral-harassment-behavior-patterns-research", "n": "「傷つける→謝る→やり直しを約束する」の繰り返しは、加害のサイクルとして研究で報告されています。", "title": "「謝れば許してもらえる」を繰り返す相手。モラハラをする人の行動パターンの研究"}, "m3": {"g": "mind", "t": "ひどい扱いと優しさが交互に来て、離れられない", "s": "trauma-bonding-why-hard-to-leave-research", "n": "ひどい扱いと優しさが交互に来ることと力の差が、離れにくさと結びついていました。離れられないのは、あなたの弱さではありません。", "title": "ひどいことをされても離れられないのはなぜか。「トラウマボンディング」の研究"}, "m4": {"g": "mind", "t": "見下す・バカにする言い方をよくされる", "s": "dating-violence-recognition-gender-gap-research", "n": "支配や見下しのような目立ちにくい行動は、殴るなどの行動より暴力として気づかれにくいことがわかっています。", "title": "デートDVはなぜ見過ごされるのか。「暴力と気づく」男女差の研究"}, "e1": {"g": "early", "t": "出会ってすぐ、大量の連絡・贈り物・「運命の人」という言葉が続く", "s": "love-bombing-warning-signs-research", "n": "強い好意そのものが悪いわけではありません。進むスピードと、こちらの境界線をどう扱うかを合わせて見ます。", "title": "出会ってすぐの猛烈な好意は要注意か。ラブボミングを研究で見抜く"}, "e2": {"g": "early", "t": "最初は魅力的だったのに、約束を守らない・人を利用する言動が目立ってきた", "s": "charming-first-impression-narcissism-research", "n": "自己愛の傾向が強い人は第一印象で好かれやすく、数週間たつと評価が下がる傾向が確認されています。「話のうまさ」より「約束を守るか」を見ます。", "title": "最初は魅力的なのに、だんだん違和感が増える人。第一印象と自己愛の研究"}, "e3": {"g": "early", "t": "謝らない・話をそらす・人のせいにする、が続く", "s": "non-apology-psychology-barriers-research", "n": "一度謝らなかったことだけで決めつけず、繰り返しのパターンと、言葉のあとに行動が変わるかを見ます。", "title": "謝らない人の心理とは。謝罪と関係修復の研究でわかったこと"}},K='umbra-kiroku-v1',C="<ul class=\"tl-contact\"><li>いま危険がある・身の危険を感じる：<a href=\"tel:110\">110番<\/a><\/li><li>DV相談ナビ（最寄りの相談窓口につながる）：<a href=\"tel:%238008\">#8008<\/a><\/li><li>DV相談＋（電話は24時間。メール・チャットもあり）：<a href=\"tel:0120279889\">0120-279-889<\/a><\/li><li>つきまとい・脅しなどの警察相談：<a href=\"tel:%239110\">#9110<\/a><\/li><\/ul>";
+function load(){try{return JSON.parse(localStorage.getItem(K)||'[]')}catch(e){return[]}}
+function store(a){try{localStorage.setItem(K,JSON.stringify(a));return true}catch(e){return false}}
+function e(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function today(){var d=new Date();return d.getFullYear()+'-'+('0'+(d.getMonth()+1)).slice(-2)+'-'+('0'+d.getDate()).slice(-2)}
+var dt=document.getElementById('dt');dt.value=today();
+function render(){var a=load().sort(function(x,y){return x.d<y.d?1:-1});
+ var L=document.getElementById('list'),S=document.getElementById('sum'),F=document.getElementById('safety');
+ if(!a.length){L.innerHTML=S.innerHTML='<p class="muted">まだ記録がありません。</p>';F.innerHTML='';return}
+ L.innerHTML=a.map(function(r){return '<div class="entry"><p class="d">'+e(r.d)+'</p>'+(r.i.length?'<ul>'+r.i.map(function(i){return '<li>'+e(I[i]?I[i].t:i)+'</li>'}).join('')+'</ul>':'')+(r.m?'<p class="m">'+e(r.m)+'</p>':'')+'<button type="button" class="del" data-id="'+r.id+'">この記録を消す</button></div>'}).join('');
+ var n={};a.forEach(function(r){r.i.forEach(function(i){n[i]=(n[i]||0)+1})});
+ var ks=Object.keys(n).filter(function(i){return I[i]}).sort(function(x,y){return n[y]-n[x]});
+ S.innerHTML='<p class="muted">記録'+a.length+'件（'+e(a[a.length-1].d)+'〜'+e(a[0].d)+'）</p>'+(ks.length?ks.map(function(i){var x=I[i];return '<div class="row"><span>'+e(x.t)+(n[i]>=3?'<br><span class="hl">3回以上記録されています。'+(x.n?e(x.n):'')+'</span>':'')+(x.s?'<br><a href="/'+x.s+'/">記事を読む</a>':'')+'</span><b>'+n[i]+'回</b></div>'}).join(''):'<p class="muted">項目を選んだ記録はまだありません。</p>');
+ var now=ks.some(function(i){return I[i].g==='now'});
+ F.innerHTML=now?'<div class="card alert"><p><strong>暴力や脅しの記録があります。</strong>関係を続けるかどうかより先に、あなたの安全を考えてください。一人で決めて実行する必要はありません。</p>'+C+'</div>':'';
+ [].forEach.call(L.querySelectorAll('.del'),function(b){b.onclick=function(){if(!confirm('この記録を消しますか？'))return;store(load().filter(function(r){return r.id!==b.dataset.id}));render()}});
+}
+document.getElementById('save').onclick=function(){
+ var ids=[].slice.call(document.querySelectorAll('#f input[type=checkbox]:checked')).map(function(x){return x.value}),m=document.getElementById('memo').value.trim(),ok=document.getElementById('ok');
+ if(!ids.length&&!m){ok.textContent='項目を選ぶか、メモを書いてください。';return}
+ var a=load();a.push({id:Date.now().toString(36),d:dt.value||today(),i:ids,m:m});
+ if(!store(a)){ok.textContent='このブラウザでは保存できませんでした（プライベートモードなど）。';return}
+ [].forEach.call(document.querySelectorAll('#f input[type=checkbox]'),function(x){x.checked=false});document.getElementById('memo').value='';
+ ok.textContent='記録しました。';render()};
+document.getElementById('copy').onclick=function(){var a=load().sort(function(x,y){return x.d<y.d?-1:1}),c=document.getElementById('cok');
+ if(!a.length){c.textContent='まだ記録がありません。';return}
+ var t='関係の記録（'+a.length+'件）\n'+a.map(function(r){return '\n■'+r.d+'\n'+r.i.map(function(i){return '・'+(I[i]?I[i].t:i)}).join('\n')+(r.m?'\nメモ：'+r.m:'')}).join('\n');
+ (navigator.clipboard?navigator.clipboard.writeText(t):Promise.reject()).then(function(){c.textContent='コピーしました。'},function(){c.textContent='コピーできませんでした。'})};
+document.getElementById('wipe').onclick=function(){if(!confirm('すべての記録を消します。元に戻せません。よろしいですか？'))return;try{localStorage.removeItem(K)}catch(e){}render()};
+document.getElementById('exit').onclick=function(){location.replace('https://www.google.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AE%E5%A4%A9%E6%B0%97')};
+render();
+})();</script>
+</body>
+</html>
