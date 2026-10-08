@@ -35,7 +35,7 @@
 - [絵文字やスタンプが多いのは好意のサインか。絵文字と好印象の研究](https://umbra.seadice.win/emoji-sticker-liking-signal-research/): 絵文字つきのメッセージは「わかってくれている」と感じやすくなる。ただしネガティブな絵文字では、送り手と受け手で感じ方が26%ずれることがあるとの報告もある。
 - [自分にだけ優しい・手伝ってくれるのは脈ありサインか。親切と好意アピールの研究](https://umbra.seadice.win/kindness-helping-signal-of-interest-research/): 親切な行動は長期的な交際相手としての魅力を高める。ただし好意がある人ほど相手の行動を好意のサインと読み違えやすい
 - [冗談でよく笑ってくれるのは脈ありサインか。笑いと好意の研究](https://umbra.seadice.win/laughing-at-jokes-interest-signal-research/): 好意を持つ相手の冗談には笑いやすい。ただ会話の笑いの多くは社交的な合図で、笑いだけでは判断できない
-- [好意を示されると好きになるのか。「好意の返報性」の研究](https://umbra.seadice.win/liking-reciprocity-research/): 「好かれている」という期待が強い人ほど自分の好意も高まる一方、人は自分が思うより好かれていることが多い。スピードデート調査では特別な好意が交際につながっていた。
+- [好意を示されると好きになるのか。「好意の返報性」の研究](https://umbra.seadice.win/liking-reciprocity-research/): 初対面の会話でも好意はある程度返し合われる一方、人は自分が思うより好かれていることが多い。スピードデート調査では、相手だけに向く特別な好意が後日の連絡や恋愛的関心につながっていた。
 - [「恋は盲目」は科学的に本当だった。理想化と脳の研究でわかったこと](https://umbra.seadice.win/love-is-blind-idealization-research/): 恋人を見るとき批判的な脳の働きが弱まることを脳画像研究で確認。13年間の追跡調査では、新婚時の理想化が愛情の維持と結びついていた。
 - [脈ありサインは当てになる？スピードデートの研究が示した「好意の読み違い」](https://umbra.seadice.win/love-signals-flirting-research/): 人は相手の好意をどれほど読み違えるのか。スピードデートの研究から、確かめ方を整理。
 - [会う回数が多いほど好きになるのか。単純接触効果を恋愛の研究で読み解く](https://umbra.seadice.win/mere-exposure-effect-romantic-attraction/): 講義に出席する回数を変えた実験とメタ分析から、接触回数と好意の関係、そして情報が増えすぎると逆効果になる条件を確認した。
@@ -106,7 +106,7 @@
 - [最初は魅力的なのに、だんだん違和感が増える人。第一印象と自己愛の研究](https://umbra.seadice.win/charming-first-impression-narcissism-research/): 自己愛の傾向が強い人は第一印象で好かれやすいが、数週間で評価が下がっていた。最初の印象より、時間をかけて行動を見ることが大切。
 - [デートDVはなぜ見過ごされるのか。「暴力と気づく」男女差の研究](https://umbra.seadice.win/dating-violence-recognition-gender-gap-research/): 支配・独占欲や見下す言動を「非常に深刻」と評価した人は女性で半数以上、男性は約3分の1にとどまった。同じ行為でも認識に差があることを研究で確認。
 - [お金の使い方を隠す『経済的不誠実』は、危険な相手のサインか](https://umbra.seadice.win/financial-infidelity-warning-signs-research/): 全米既婚者946人の調査で経済的不誠実と不倫の関連を確認。借金を隠す心理と、経済的DVとの違いも研究から整理した。
-- [友達に会わせたくない恋人は危険なサインか。「社会的孤立」と支配の研究](https://umbra.seadice.win/friend-isolation-coercive-control-danger-research/): 交友関係を狭める「孤立」は支配の中心的な手口とされる。220人の交際相手による殺人被害者を調べた研究では、支配的な相手からの孤立が有意な危険因子だった。
+- [友達に会わせたくない恋人は危険なサインか。「社会的孤立」と支配の研究](https://umbra.seadice.win/friend-isolation-coercive-control-danger-research/): 交友関係を狭める「孤立」は支配の中心的な手口とされる。交際相手による殺人被害者220人を調べた研究では、支配の強い相手と別れた・離れた状態が危険因子の一つだった。
 - [「自分がおかしいのかも」と思ったら――ガスライティングの初期サイン](https://umbra.seadice.win/gaslighting-early-warning-signs/): 会話のあとの違和感は、あなたの弱さではない。研究でわかる初期サインと相談先を紹介。
 - [嫉妬してくれるのは愛情の証か。束縛と支配欲の違いを研究で見分ける](https://umbra.seadice.win/jealousy-possessiveness-control-research/): 嫉妬は支配的な行動やDVと強く関連する一方、嫉妬の強さは見捨てられる不安（愛着不安）と結びつくことも研究で示されている。
 - [出会ってすぐの猛烈な好意は要注意か。ラブボミングを研究で見抜く](https://umbra.seadice.win/love-bombing-warning-signs-research/): 交際初期の過剰な好意を扱った研究はまだ少ないが、支配的な関係の始まりとの関連や、関連する性格傾向とIPVとの関連が報告されている。
@@ -123,7 +123,7 @@
 - [謝らない人の心理とは。謝罪と関係修復の研究でわかったこと](https://umbra.seadice.win/non-apology-psychology-barriers-research/): 謝らないのは「悪いと思っていない」からではなく、心理的なハードルの高さが背景にあると、複数の研究から見えてきた。
 - [マッチングアプリのプロフィールは、どれくらい盛られているのか。研究でわかった「小さな嘘」](https://umbra.seadice.win/online-dating-profile-deception-research/): プロフィールのずれは多くの人に見られるが小さく、写真は約3分の1が実物と違うと判断された。メッセージの嘘は約7%だった。
 - [恋人のスマホを見たくなるのはなぜか。パートナー監視の研究でわかったこと](https://umbra.seadice.win/partner-phone-checking-surveillance-research/): 恋人のスマホを見たくなる衝動は不安や嫉妬の悪循環から生まれ、確認を続けるほど関係満足度が下がることが研究で示されている。
-- [「好き避け」は本当にあるのか。好きなのに避けてしまう心理の研究](https://umbra.seadice.win/pulling-away-liking-ambivalence-research/): 愛着不安が強い人は、好きな相手に「近づきたい」気持ちと「離れたい」気持ちを同時に抱くことが実験で確認された。回避傾向が強い人は相手の満足度も下げていた。
+- [「好き避け」は本当にあるのか。好きなのに避けてしまう心理の研究](https://umbra.seadice.win/pulling-away-liking-ambivalence-research/): 愛着不安が強い人ほど、交際相手に「近づきたい」気持ちと「離れたい」気持ちを同時に抱くことが研究で確認された。回避傾向が強い人ほど、本人だけでなく相手の満足度も低い傾向があった。
 - [既読・未読への不安はどこから来るのか。恋愛と嫉妬の心理の研究](https://umbra.seadice.win/reply-anxiety-attachment-jealousy-research/): 愛着スタイルとオンライン嫉妬に関する調査から、返信への不安の理由と、わざと返信を遅らせる駆け引きの実態を確認した。
 - [好きな人のSNSをわざと見ないのはなぜか。既読を隠す心理の研究](https://umbra.seadice.win/story-view-avoidance-interest-concealment-research/): 「見られているかもしれない」という意識がSNSでの見せ方を変えることを研究で確認。ストーリーを見ない行動そのものを調べた研究はまだ見当たらない。
 - [からかう・いじってくるのは好意の裏返しか。からかいの研究でわかったこと](https://umbra.seadice.win/teasing-affection-or-hostility-research/): からかいは親しみにも攻撃にもなる。好意の証拠にはならず、嫌ならやめてもらってよい理由を研究で検証
