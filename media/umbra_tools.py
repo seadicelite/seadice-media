@@ -74,6 +74,31 @@ CSS = (".tl-box{background:var(--card);border:1px solid var(--border);border-rad
        "details{background:var(--card);border:1px solid var(--border);border-radius:12px;margin:10px 0}summary{cursor:pointer;padding:14px 18px;font-weight:700}details p{padding:0 18px 16px}")
 
 
+# 結果の下に置く「共有・保存・印刷」。r（結果のdiv）と ids（選んだ項目）がある場所に差し込むJS。
+# share=False（危険な相手のサイン）は共有ボタンを置かず、相談に持っていくための印刷・保存だけにする。
+ACT_CSS = (".pr-head{display:none}.tl-act{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 4px}"
+           ".tl-act button{font:inherit;font-size:14px;font-weight:700;padding:11px 14px;border-radius:10px;border:1px solid var(--border);background:var(--card);color:var(--text);cursor:pointer}"
+           ".tl-act button:hover{border-color:var(--accent)}.tl-act .tl-actn{flex-basis:100%;font-size:12px;line-height:1.7;color:var(--muted);margin:2px 0 0}"
+           "@media print{body.pr *{visibility:hidden!important}body.pr .tl-res,body.pr .tl-res *{visibility:visible!important}"
+           "body.pr .tl-res{position:absolute;left:0;top:0;width:100%}body.pr .tl-card{background:#fff!important;border:1px solid #999!important}"
+           "body.pr .tl-res *{color:#000!important}body.pr .pr-head{display:block;font-size:13px;margin-bottom:10px}body.pr .tl-act{display:none!important}}")
+
+
+def _act(path, name, share):
+    note = ("共有・保存・印刷は、ボタンを押したときだけ行われます。SEADICEには送りません。" if share else
+            "相談窓口に持っていくときに使えます。家族や相手と一緒に使っているスマホ・パソコンには保存しないでください。SEADICEには送りません。")
+    btn = ("<button type=\"button\" data-a=\"share\">結果を共有</button>" if share else "") + \
+          f"<button type=\"button\" data-a=\"print\">{'印刷・PDF' if share else '相談用に印刷・PDF'}</button><button type=\"button\" data-a=\"save\">テキストで保存</button>"
+    return ("if(ids.length)(function(){var d=new Date(),ds=d.getFullYear()+'-'+('0'+(d.getMonth()+1)).slice(-2)+'-'+('0'+d.getDate()).slice(-2),u='" + URL + path + "/',"
+            f"nm='{name}',head=nm+'の結果（'+ds+'）',sum=(r.querySelector('h3')||{{}}).textContent||'',"
+            "T=function(){var x=r.querySelector('.tl-act');return head+'\\n'+u+'\\n\\n'+r.innerText.replace(x?x.innerText:'','').replace(/\\n{3,}/g,'\\n\\n').trim()+'\\n'};"
+            "r.insertAdjacentHTML('afterbegin','<p class=\"pr-head\">'+head+'<br>'+u+'</p>');"
+            f"r.insertAdjacentHTML('beforeend','<div class=\"tl-act\">{btn}<p class=\"tl-actn\">{note}</p></div>');"
+            "[].forEach.call(r.querySelectorAll('.tl-act button'),function(b){b.onclick=function(){var a=b.dataset.a;"
+            "if(a=='share'){if(navigator.share)navigator.share({text:nm+'：'+sum,url:u}).catch(function(){});else if(navigator.clipboard)navigator.clipboard.writeText(nm+'：'+sum+' '+u).then(function(){b.textContent='コピーしました'})}"
+            "else if(a=='print'){document.body.classList.add('pr');window.print();setTimeout(function(){document.body.classList.remove('pr')},800)}"
+            "else{var l=document.createElement('a');l.href=URL.createObjectURL(new Blob([T()],{type:'text/plain;charset=utf-8'}));l.download='" + path + "-'+ds+'.txt';document.body.appendChild(l);l.click();setTimeout(function(){URL.revokeObjectURL(l.href);l.remove()},500)}}})})();")
+
 def _ld(name, url, desc, faq):
     return json.dumps({"@context": "https://schema.org", "@graph": [
         {"@type": "WebApplication", "name": name, "url": url, "applicationCategory": "LifestyleApplication", "operatingSystem": "Any",
@@ -134,10 +159,10 @@ def redflag_page(posts):
             "if(!ids.length)h=card('選ばれた項目はありません','<p>このリストの行動には当てはまりませんでした。違和感があるときは、言動のパターンを記録しておくと、あとで自分の感覚を確かめる手がかりになります。</p>');"
             "else if(!by.now.length)h+=card('相談先',C);"
             "if(ids.length)h+=card('続けて記録したい人へ','<p>同じことが繰り返されているかは、日付つきで残すと見えてきます。<a href=\"/nikki/\">ふたりの日記</a>なら、気分の1タップと短い言葉のボタンで記録できます。記録は端末の中だけに保存されます。</p>');"
-            "var r=document.getElementById('rf-res');r.innerHTML=h;r.hidden=false;r.scrollIntoView({behavior:'smooth',block:'start'})};})();</script>")
+            "var r=document.getElementById('rf-res');r.innerHTML=h;" + _act("redflag-check", "危険な相手のサイン チェックリスト", False) + "r.hidden=false;r.scrollIntoView({behavior:'smooth',block:'start'})};})();</script>")
     return {"path": "redflag-check", "title": "危険な相手のサイン チェックリスト", "date": "2026-10-07",
             "desc": "恋人の束縛・モラハラ・ガスライティング・ラブボミング。当てはまる言動を選ぶと、研究でわかっていることと今日からできること・相談先を表示します。入力は送信しません。",
-            "seo_title": "恋人は危険？束縛・モラハラ・DVのサイン チェックリスト（研究にもとづく）", "body": body, "css": CSS}
+            "seo_title": "恋人は危険？束縛・モラハラ・DVのサイン チェックリスト（研究にもとづく）", "body": body, "css": CSS + ACT_CSS}
 
 
 def _gesture_tool(xs, posts, fid, path, name, seo_title, desc, intro, answer, how, ex, faq, verdict_js, after_js, note):
@@ -167,8 +192,8 @@ def _gesture_tool(xs, posts, fid, path, name, seo_title, desc, intro, answer, ho
             "if(!ids.length)m=['選ばれた項目はありません','<p>当てはまるものを1つ以上選んでください。</p>'];else{" + verdict_js + "}"
             "h+=card(m[0],m[1]);"
             "if(ids.length){h+=card('選んだしぐさの判定',ids.sort(function(x,y){return D[x].l<D[y].l?-1:1}).map(function(i){var x=D[i];return '<div class=\"tl-item\"><b><span class=\"lv lv-'+x.l+'\">'+LV[x.l]+'</span>'+e(x.g)+'</b>'+e(x.t)+'<br><a href=\"/'+x.s+'/\">記事を読む：'+e(x.title)+'</a></div>'}).join(''));" + after_js + "}"
-            f"var r=document.getElementById('{fid}-res');r.innerHTML=h;r.hidden=false;r.scrollIntoView({{behavior:'smooth',block:'start'}})}};}})();</script>")
-    return {"path": path, "title": name, "date": "2026-10-07", "desc": desc[:120], "seo_title": seo_title, "body": body, "css": CSS}
+            f"var r=document.getElementById('{fid}-res');r.innerHTML=h;" + _act(path, name, True) + f"r.hidden=false;r.scrollIntoView({{behavior:'smooth',block:'start'}})}};}})();</script>")
+    return {"path": path, "title": name, "date": "2026-10-07", "desc": desc[:120], "seo_title": seo_title, "body": body, "css": CSS + ACT_CSS}
 
 
 def myakuari_page(D, posts):
@@ -313,10 +338,10 @@ def sameta_page(posts):
             "if(S.length)h+=card('あなた自身の不安も関わっているかもしれません','<p>不安になるのは、性格の弱さではありません。相手の変化を読み解こうとするより、自分が何に不安を感じているかを言葉にする方が、すれ違いを減らせます。</p>'+items(S));"
             "if(!ids.length)h=card('選ばれた項目はありません','<p>当てはまるものを1つ以上選んでください。</p>');"
             "else h+=card('今日からできること','<p>1つの変化で決めない。うれしい話をして、相手の反応を見る。してもらった小さなことに、具体的に「ありがとう」と伝える。気になることは、責めずに「私は〇〇と感じた」と言葉で伝える。</p><p><a href=\"/partner-responsiveness-research/\">「わかってくれる人」と長続きするのはなぜか</a>／<a href=\"/fight-style-relationship-research/\">関係が続くかを分ける「喧嘩の型」</a></p>');"
-            "var r=document.getElementById('sm-res');r.innerHTML=h;r.hidden=false;r.scrollIntoView({behavior:'smooth',block:'start'})};})();</script>")
+            "var r=document.getElementById('sm-res');r.innerHTML=h;" + _act("sameta-check", "冷めたサインチェック", True) + "r.hidden=false;r.scrollIntoView({behavior:'smooth',block:'start'})};})();</script>")
     return {"path": "sameta-check", "title": "冷めたサインチェック", "date": "2026-10-08",
             "desc": "連絡が減った・返信が遅い・沈黙が増えた。恋人や好きな人の変化を選ぶと、研究で「冷めた」の手がかりになるのかと今日からできることを表示。入力は送信しません。",
-            "seo_title": "冷めたサインチェック｜連絡が減った・返信が遅いは本当に冷めた？研究で判定", "body": body, "css": CSS}
+            "seo_title": "冷めたサインチェック｜連絡が減った・返信が遅いは本当に冷めた？研究で判定", "body": body, "css": CSS + ACT_CSS}
 
 
 def nikki_page(posts):
