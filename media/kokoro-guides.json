@@ -21,7 +21,11 @@
     "walking-mood",
     "screen-work-breaks",
     "screen-eye-strain",
-    "lunch-at-desk"
+    "lunch-at-desk",
+    "exercise-low-mood-anxiety",
+    "sleep-loss-mood",
+    "nature-time-mood",
+    "caffeine-anxiety-sleep"
    ]
   },
   {
@@ -46,7 +50,8 @@
     "chat-reply-pressure",
     "telework-monitoring-stress",
     "meeting-replay-regret",
-    "ai-written-message-found-out"
+    "ai-written-message-found-out",
+    "slow-breathing-stress"
    ]
   },
   {
@@ -72,7 +77,9 @@
     "screen-eye-strain",
     "ai-summary-only-reading",
     "chatgpt-thinking-ability",
-    "phone-memory-forgetful"
+    "phone-memory-forgetful",
+    "mindfulness-stress",
+    "music-stress"
    ]
   },
   {
@@ -95,7 +102,8 @@
     "ai-better-than-me",
     "ai-coworker-comparison",
     "ai-disagrees-self-doubt",
-    "impostor-feelings"
+    "impostor-feelings",
+    "gratitude-writing"
    ]
   },
   {
@@ -117,7 +125,9 @@
     "group-chat-left-out",
     "partner-phone-phubbing",
     "ai-chat-loneliness",
-    "meeting-replay-regret"
+    "meeting-replay-regret",
+    "social-connection-health",
+    "helping-others-wellbeing"
    ]
   },
   {

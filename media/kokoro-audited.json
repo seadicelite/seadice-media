@@ -222,5 +222,45 @@
  {
   "slug": "screen-eye-strain",
   "date": "2026-10-07"
+ },
+ {
+  "slug": "exercise-low-mood-anxiety",
+  "date": "2026-10-08"
+ },
+ {
+  "slug": "sleep-loss-mood",
+  "date": "2026-10-08"
+ },
+ {
+  "slug": "social-connection-health",
+  "date": "2026-10-08"
+ },
+ {
+  "slug": "mindfulness-stress",
+  "date": "2026-10-08"
+ },
+ {
+  "slug": "nature-time-mood",
+  "date": "2026-10-08"
+ },
+ {
+  "slug": "slow-breathing-stress",
+  "date": "2026-10-08"
+ },
+ {
+  "slug": "helping-others-wellbeing",
+  "date": "2026-10-08"
+ },
+ {
+  "slug": "gratitude-writing",
+  "date": "2026-10-08"
+ },
+ {
+  "slug": "caffeine-anxiety-sleep",
+  "date": "2026-10-08"
+ },
+ {
+  "slug": "music-stress",
+  "date": "2026-10-08"
  }
 ]
