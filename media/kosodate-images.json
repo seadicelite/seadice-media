@@ -967,5 +967,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/A_laptop_on_the_wooden_table_%282%2C_Pixabay%29.jpg/500px-A_laptop_on_the_wooden_table_%282%2C_Pixabay%29.jpg",
   "og": "https://kosodate.seadice.win/img/parent-ai-monitoring-how-much-og.jpg",
   "local": true
+ },
+ "ai-school-classroom-change": {
+  "file": "File:Rows of Desks in Lecture Theatre.jpg",
+  "src": "/img/ai-school-classroom-change.webp",
+  "src640": "/img/ai-school-classroom-change-sm.webp",
+  "w": 960,
+  "h": 723,
+  "alt": "誰もいない教室に並ぶ机",
+  "artist": "Paul The Writer",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Rows_of_Desks_in_Lecture_Theatre.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rows_of_Desks_in_Lecture_Theatre.jpg/960px-Rows_of_Desks_in_Lecture_Theatre.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rows_of_Desks_in_Lecture_Theatre.jpg/500px-Rows_of_Desks_in_Lecture_Theatre.jpg",
+  "og": "https://kosodate.seadice.win/img/ai-school-classroom-change-og.jpg",
+  "local": true
  }
 }
