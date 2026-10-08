@@ -1,0 +1,30 @@
+{
+  "cols": [
+    {"id": "data", "label": "実態", "q": "どれくらい起きている？ 増えている？（統計）"},
+    {"id": "why", "label": "狙われ方", "q": "なぜ・どう狙われる？（手口の概要と心理。手口の詳細は書かない）"},
+    {"id": "prevent", "label": "防ぐ", "q": "前もって何をすればいい？"},
+    {"id": "notice", "label": "見分ける", "q": "その場でどう気づく？ サインは？"},
+    {"id": "after", "label": "遭ったら", "q": "被害に遭った・遭いかけた直後に何をする？ 相談先は？"},
+    {"id": "use", "label": "使う", "q": "自分で確かめられるツール・チェック表（記事内のチェックリスト、講座のツールも可）"}
+  ],
+  "rows": [
+    {"id": "burglary-house", "label": "空き巣（一戸建て）", "cells": {"data": ["burglary-daylight-darkness-risk", "burglary-seasonal-year-end-myth", "why-burglary-declined-security"], "why": ["burglar-target-selection-5-minutes", "repeat-burglary-victimization"], "prevent": ["window-glass-breaking-burglary", "vacation-empty-home-burglary", "moving-new-home-security"], "notice": [], "after": [], "use": ["https://hanzaigaku.seadice.win/bouhan-check/", "vacation-empty-home-burglary"]}},
+    {"id": "burglary-apartment", "label": "共同住宅・一人暮らしの住まい", "cells": {"data": ["auto-lock-apartment-burglary"], "why": [], "prevent": ["living-alone-women-home-safety", "moving-new-home-security"], "notice": [], "after": [], "use": ["https://hanzaigaku.seadice.win/bouhan-check/"]}},
+    {"id": "home-robbery", "label": "侵入強盗（在宅中）", "cells": {"data": ["home-invasion-robbery-at-home"], "why": [], "prevent": ["home-invasion-robbery-at-home"], "notice": [], "after": [], "use": []}},
+    {"id": "bicycle", "label": "自転車の盗難", "cells": {"data": ["bicycle-theft-unlocked-statistics"], "why": ["watching-eyes-sign-crime"], "prevent": ["bicycle-theft-unlocked-statistics"], "notice": [], "after": [], "use": []}},
+    {"id": "vehicle", "label": "車・バイクの盗難、車上ねらい", "cells": {"data": ["vehicle-motorcycle-theft-immobilizer", "car-break-in-unlocked-visible-items"], "why": ["car-break-in-unlocked-visible-items"], "prevent": ["vehicle-motorcycle-theft-immobilizer"], "notice": [], "after": [], "use": []}},
+    {"id": "street", "label": "夜道・ひったくり", "cells": {"data": ["snatch-theft-statistics-prevention"], "why": ["night-darkness-robbery-risk"], "prevent": ["night-darkness-robbery-risk", "street-lighting-crime-research"], "notice": [], "after": [], "use": []}},
+    {"id": "stalking", "label": "つきまとい・ストーカー", "cells": {"data": ["stalking-acquaintance-consultation"], "why": ["smart-device-ex-partner-tracking"], "prevent": [], "notice": ["smart-device-ex-partner-tracking"], "after": ["stalking-acquaintance-consultation"], "use": []}},
+    {"id": "sexual", "label": "性犯罪（住まい・痴漢・盗撮）", "cells": {"data": ["living-alone-women-home-safety"], "why": [], "prevent": ["living-alone-women-home-safety"], "notice": [], "after": [], "use": []}},
+    {"id": "child-street", "label": "子どもへの声かけ・連れ去り", "cells": {"data": ["child-stranger-approach-after-school"], "why": [], "prevent": ["safe-school-route-environment", "child-home-alone-safety-rules", "child-stranger-approach-after-school"], "notice": [], "after": [], "use": []}},
+    {"id": "child-online", "label": "子どものネット被害", "cells": {"data": ["child-sns-grooming-victims"], "why": ["child-sns-grooming-victims"], "prevent": ["ai-fake-sexual-image-children"], "notice": [], "after": [], "use": []}},
+    {"id": "phone-scam", "label": "電話の詐欺（特殊詐欺）", "cells": {"data": ["international-call-block-scam"], "why": ["fake-police-call-scam", "older-adults-fraud-psychology"], "prevent": ["international-call-block-scam"], "notice": ["fake-police-call-scam"], "after": [], "use": []}},
+    {"id": "door-scam", "label": "訪問・点検商法", "cells": {"data": ["door-to-door-inspection-scam"], "why": ["door-to-door-inspection-scam"], "prevent": [], "notice": ["door-to-door-inspection-scam"], "after": [], "use": []}},
+    {"id": "online-scam", "label": "ネットの詐欺（通販・フィッシング・投資・ロマンス）", "cells": {"data": ["phishing-mail-sms-2025"], "why": ["romance-scam-matching-app", "sns-investment-scam-line", "crypto-transfer-scam-signs", "tech-support-scam-popup"], "prevent": ["phishing-mail-sms-2025"], "notice": ["fake-shopping-site-checklist", "ai-written-phishing-email", "qr-code-phishing-sticker", "crypto-transfer-scam-signs"], "after": [], "use": ["ai-era-scam-checklist", "fake-shopping-site-checklist"]}},
+    {"id": "account", "label": "アカウントの乗っ取り", "cells": {"data": ["two-factor-passkey-account"], "why": ["password-reuse-risk"], "prevent": ["two-factor-passkey-account", "password-reuse-risk"], "notice": [], "after": [], "use": []}},
+    {"id": "ai-fake", "label": "AIのなりすまし・ディープフェイク", "cells": {"data": [], "why": ["deepfake-video-celebrity-ad"], "prevent": ["ai-voice-clone-family-scam", "sns-video-voice-clone-risk"], "notice": ["deepfake-video-celebrity-ad", "ai-era-scam-checklist"], "after": [], "use": ["ai-era-scam-checklist"]}},
+    {"id": "privacy", "label": "SNS・個人情報からの特定", "cells": {"data": [], "why": ["sns-photo-location-home"], "prevent": ["sns-photo-location-home", "ai-chat-input-personal-info"], "notice": [], "after": [], "use": []}},
+    {"id": "yami-baito", "label": "闇バイトへの勧誘", "cells": {"data": [], "why": ["yami-baito-recruitment-signs"], "prevent": [], "notice": ["yami-baito-recruitment-signs"], "after": [], "use": []}}
+  ],
+  "research": ["broken-windows-theory-evidence", "cctv-crime-prevention-research", "crime-displacement-diffusion-benefits", "crime-hot-spots-concentration", "neighbors-collective-efficacy-crime", "neighborhood-watch-patrol-effect", "fear-of-crime-vs-statistics", "heat-temperature-crime-research", "disaster-evacuation-crime-myth-research", "vacant-land-restoration-crime", "street-lighting-crime-research", "watching-eyes-sign-crime"]
+}

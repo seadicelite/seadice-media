@@ -11,7 +11,7 @@ argument-hint: <slug 例: research> [--draft] [トピック]
 
 1. `media/{slug}.json` を読む。無ければ中止して報告。
 2. 設定の `rulesFrom` を読み、その「読者」「鉄則（信頼性）」「手順1〜6」を、設定の `name` `path` `url` `categories` `template` に置き換えて **そのまま適用** する（ルールはここに複製しない。修正は rulesFrom 側で一元管理）。あわせて品質基準 `docs/quality/base.md` と、設定の `siteType` に対応する `docs/quality/{siteType}.md`（無ければ `article.md`）を読む。
-3. トピックが未指定なら `topicQueue` の先頭から、`path` 配下の既存記事と被らないものを選ぶ。使ったトピックは `topicQueue` から削除して json を保存する。キューが3件以下になったら、既存記事と設定の `concept` から新トピックを10件補充する。
+3. トピックが未指定なら `topicQueue` の先頭から、`path` 配下の既存記事と被らないものを選ぶ。使ったトピックは `topicQueue` から削除して json を保存する。キューが3件以下になったら、既存記事と設定の `concept` から新トピックを10件補充する。`media/{slug}-matrix.json`（テーマの表）があるメディアは、補充するトピックを `python3 media/matrix.py {slug}` の「空いているマス」から選ぶ（特に「遭ったら」「見分ける」「使う」の列。同じ行の記事が多い所は後回し）。
 4. 記事を `postsPerRun` 本作る（確認不要）。出典を確認できないトピックは捨てて次へ。
 5. 配線と写真（スクリプトで行う。一覧やsitemapを手で編集しない）:
    - `media/{slug}-posts.json` の先頭に `{"slug","category"(設定のcategoriesから),"date","title","summary"(60字前後)}` を1件追加する。
@@ -30,6 +30,7 @@ argument-hint: <slug 例: research> [--draft] [トピック]
    - `publish: "auto"`（既定）: `git pull --rebase origin main` → `sites/{slug}/` `media/` の変更だけを `git add` → commit → `git push origin main`。デプロイは GitHub Actions が自動実行する。`firebase deploy` は使わない。
    - `--draft` 指定時、または `publish: "draft"`: ブランチ `media/{slug}-{YYYYMMDD}` にpushしてPRを作る（公開しない）。
    - 1回の実行で公開する本数は `postsPerRun` を超えない。連続して検査に落ちた場合は3トピックで打ち切る。
+7.5. テーマの表があるメディアは、書いた記事のslugを `{slug}-matrix.json` の当てはまるマス（行×列。複数可、どこにも入らない研究の記事は `research`）に足し、`python3 media/matrix.py {slug} --check` が通ることを確かめる。
 8. 報告: 記事URL(またはPR URL)、採用出典、キュー残数。
 
 ## 新しいメディアを増やすとき
