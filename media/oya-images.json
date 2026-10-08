@@ -678,5 +678,22 @@
     "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chocolate_%28259251341%29.jpeg/500px-Chocolate_%28259251341%29.jpeg",
     "og": "https://oya.seadice.win/img/parent-nighttime-toilet-falls-og.jpg",
     "local": true
+  },
+  "parent-changes-noticed-homecoming": {
+    "file": "File:Leave your shoes at the entrance... (65033333).jpg",
+    "src": "/img/parent-changes-noticed-homecoming.webp",
+    "src640": "/img/parent-changes-noticed-homecoming-sm.webp",
+    "w": 960,
+    "h": 720,
+    "alt": "靴がたくさん並んだ家の玄関",
+    "artist": "Bernat Agullo from Tokyo, Japan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Leave_your_shoes_at_the_entrance..._(65033333).jpg",
+    "source_label": "Wikimedia Commons",
+    "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Leave_your_shoes_at_the_entrance..._%2865033333%29.jpg/960px-Leave_your_shoes_at_the_entrance..._%2865033333%29.jpg",
+    "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Leave_your_shoes_at_the_entrance..._%2865033333%29.jpg/500px-Leave_your_shoes_at_the_entrance..._%2865033333%29.jpg",
+    "og": "https://oya.seadice.win/img/parent-changes-noticed-homecoming-og.jpg",
+    "local": true
   }
 }
