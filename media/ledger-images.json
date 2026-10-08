@@ -925,5 +925,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Emergency_Food_Assistance_Program_%28TEFAP%29_%2820250110-USDA-FNS-UNK-076%29.jpg/500px-The_Emergency_Food_Assistance_Program_%28TEFAP%29_%2820250110-USDA-FNS-UNK-076%29.jpg",
   "og": "https://ledger.seadice.win/img/bulk-buying-stockpile-consumption.jpg",
   "local": true
+ },
+ "crowding-fomo-psychology": {
+  "file": "File:Checkout queue at Morrisons - geograph.org.uk - 6583931.jpg",
+  "src": "/img/crowding-fomo-psychology.jpg",
+  "src640": "/img/crowding-fomo-psychology-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "トロリーを押して混雑した売り場で買い物をする客たち",
+  "artist": "Gerald England",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Checkout_queue_at_Morrisons_-_geograph.org.uk_-_6583931.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Checkout_queue_at_Morrisons_-_geograph.org.uk_-_6583931.jpg/960px-Checkout_queue_at_Morrisons_-_geograph.org.uk_-_6583931.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Checkout_queue_at_Morrisons_-_geograph.org.uk_-_6583931.jpg/500px-Checkout_queue_at_Morrisons_-_geograph.org.uk_-_6583931.jpg",
+  "og": "https://ledger.seadice.win/img/crowding-fomo-psychology.jpg",
+  "local": true
  }
 }
