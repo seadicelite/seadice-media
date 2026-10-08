@@ -93,6 +93,7 @@
 - 悩みチェック: https://oya.seadice.win/check/
 - 研究早見表: https://oya.seadice.win/hayami/
 - 帰省チェックリスト: https://oya.seadice.win/kisei-checklist/
+- いす立ち上がりテスト: https://oya.seadice.win/isu-test/
 - 確かめたい10のこと: https://oya.seadice.win/ten/
 - 冬の備え9つ: https://oya.seadice.win/winter/
 - 用語集: https://oya.seadice.win/glossary/
