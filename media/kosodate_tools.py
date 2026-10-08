@@ -107,9 +107,12 @@ $('st-img').addEventListener('change',function(){
  msg.textContent='読み取っています（10秒ほどかかります）…';
  var img=new Image(),u=URL.createObjectURL(f);
  img.onload=function(){
-  var s=Math.min(1,1600/Math.max(img.width,img.height)),c=document.createElement('canvas');
-  c.width=Math.round(img.width*s);c.height=Math.round(img.height*s);c.getContext('2d').drawImage(img,0,0,c.width,c.height);URL.revokeObjectURL(u);
-  var d=c.toDataURL('image/jpeg',0.85).split(',')[1];
+  // 中継(claude-proxy)の上限64KBに収まるまで縮める
+  var m=1200,q=0.7,d,c=document.createElement('canvas');
+  do{var s=Math.min(1,m/Math.max(img.width,img.height));
+   c.width=Math.round(img.width*s);c.height=Math.round(img.height*s);c.getContext('2d').drawImage(img,0,0,c.width,c.height);
+   d=c.toDataURL('image/jpeg',q).split(',')[1];m=Math.round(m*0.85);q=Math.max(0.5,q-0.05)}while(d.length>50000&&m>400);
+  URL.revokeObjectURL(u);
   fetch(W,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({image:d,type:'image/jpeg'})})
   .then(function(r){return r.json().then(function(j){return {s:r.status,j:j}})})
   .then(function(x){
