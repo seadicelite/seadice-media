@@ -214,3 +214,7 @@ PAGES.append({"path": "study-log", "title": "勉強の記録シート（1日1行
               "desc": "今日やった勉強を1行で記録し、続けた日数・連続日数・合計時間を見える化。記録は端末の中だけに保存、登録不要・広告なし。138件の実験のメタ分析（Harkinら 2016）をもとにした使い方つき。",
               "body": sl_body, "css": css + sl_css,
               "head": '<link rel="manifest" href="/manifest.json"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="勉強の記録"><meta name="theme-color" content="#0B1020">'})
+
+# ---- 印刷用テンプレート(/templates/) ----
+from dokugaku_templates import PAGES as TEMPLATE_PAGES  # noqa: E402
+PAGES += TEMPLATE_PAGES

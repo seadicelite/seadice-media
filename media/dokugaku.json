@@ -122,6 +122,10 @@
       "path": "/study-log/"
     },
     {
+      "label": "勉強のテンプレート",
+      "path": "/templates/"
+    },
+    {
       "label": "よくある質問",
       "path": "/faq/"
     },
@@ -148,7 +152,8 @@
         "review-timing",
         "cramming-overnight-study",
         "study-log-progress-monitoring",
-        "study-log"
+        "study-log",
+        "templates/study-plan"
       ]
     }
   ],
@@ -172,6 +177,51 @@
         "goal-setting-high-or-small-steps",
         "willpower-self-control-study-environment",
         "implementation-intentions-if-then-study"
+      ]
+    },
+    {
+      "path": "/templates/recall-note/",
+      "name": "暗記ノート（印刷用テンプレート）",
+      "desc": "答えを折って隠す一問一答型と、白紙に書き出す型。無料で印刷・PDF保存できます。",
+      "slugs": [
+        "retrieval-practice-vs-rereading",
+        "flashcards-how-to-use",
+        "english-vocabulary-how-to-memorize"
+      ]
+    },
+    {
+      "path": "/templates/review-calendar/",
+      "name": "復習カレンダー（印刷用テンプレート）",
+      "desc": "試験日と勉強する日から、1回目の復習日を書き込んだカレンダーを作って印刷できます。",
+      "slugs": [
+        "spaced-review-why-it-works",
+        "cramming-overnight-study"
+      ]
+    },
+    {
+      "path": "/templates/if-then/",
+      "name": "if-thenプランシート（印刷用テンプレート）",
+      "desc": "勉強を始める場面を1文で決めるシート。机に貼れるカードつき。",
+      "slugs": [
+        "implementation-intentions-if-then-study",
+        "willpower-self-control-study-environment"
+      ]
+    },
+    {
+      "path": "/templates/study-plan/",
+      "name": "勉強計画表（印刷用テンプレート）",
+      "desc": "やることを書き出し、過去の実績の倍率で見積もりを調整。期限に間に合うかも計算します。",
+      "slugs": [
+        "planning-fallacy-study-plans",
+        "goal-setting-high-or-small-steps"
+      ]
+    },
+    {
+      "path": "/templates/study-log/",
+      "name": "勉強の記録表（印刷用テンプレート）",
+      "desc": "1か月分を印刷して、1日1行手書きで記録する表。",
+      "slugs": [
+        "study-log-progress-monitoring"
       ]
     }
   ]
