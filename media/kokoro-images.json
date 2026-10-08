@@ -1154,5 +1154,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cat_with_window_in_wooster_%28Unsplash%29.jpg/500px-Cat_with_window_in_wooster_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/short-nap-afternoon-og.jpg",
   "local": true
+ },
+ "ai-learning-age-40s-50s": {
+  "file": "File:Desk-laptop-notebook-table (23697249344).jpg",
+  "src": "/img/ai-learning-age-40s-50s.jpg",
+  "src640": "/img/ai-learning-age-40s-50s-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "本棚の前の木の机に置かれたノートパソコン",
+  "artist": "www.Pixel.la Free Stock Photos",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk-laptop-notebook-table_(23697249344).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Desk-laptop-notebook-table_%2823697249344%29.jpg/960px-Desk-laptop-notebook-table_%2823697249344%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Desk-laptop-notebook-table_%2823697249344%29.jpg/500px-Desk-laptop-notebook-table_%2823697249344%29.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-learning-age-40s-50s.jpg",
+  "local": true
  }
 }
