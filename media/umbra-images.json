@@ -1624,5 +1624,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Long-distance_path_junction%2C_Garadbhan_Forest_-_geograph.org.uk_-_5833714.jpg/500px-Long-distance_path_junction%2C_Garadbhan_Forest_-_geograph.org.uk_-_5833714.jpg",
   "og": "https://umbra.seadice.win/img/pulling-away-liking-ambivalence-research-og.jpg",
   "local": true
+ },
+ "liking-reciprocity-research": {
+  "file": "File:Nr Vorupoer 2013-12-29 1 cropped.jpg",
+  "src": "/img/liking-reciprocity-research.webp",
+  "src640": "/img/liking-reciprocity-research-sm.webp",
+  "w": 960,
+  "h": 586,
+  "alt": "並んで歩く二人",
+  "artist": "Slaunger",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Nr_Vorupoer_2013-12-29_1_cropped.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nr_Vorupoer_2013-12-29_1_cropped.jpg/960px-Nr_Vorupoer_2013-12-29_1_cropped.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nr_Vorupoer_2013-12-29_1_cropped.jpg/500px-Nr_Vorupoer_2013-12-29_1_cropped.jpg",
+  "og": "https://umbra.seadice.win/img/liking-reciprocity-research-og.jpg",
+  "local": true
  }
 }

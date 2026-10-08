@@ -1,5 +1,14 @@
 [
   {
+    "id": "reciprocity-of-liking",
+    "term": "好意の返報性",
+    "en": "Reciprocity of liking",
+    "def": "相手が自分を好きだと知る、あるいはそう期待するだけで、自分の中の相手への好意も高まりやすいという心理学の現象。",
+    "slugs": [
+      "liking-reciprocity-research"
+    ]
+  },
+  {
     "id": "microexpression",
     "term": "微表情（マイクロエクスプレッション）",
     "en": "Microexpression",
@@ -141,7 +150,8 @@
     "en": "Liking gap",
     "def": "会話のあと、相手が自分をどれくらい好きかを実際より低く見積もってしまう傾向。初対面の会話から数か月の追跡まで、状況が違っても一貫して見られています。",
     "slugs": [
-      "silence-during-dates-liking-research"
+      "silence-during-dates-liking-research",
+      "liking-reciprocity-research"
     ]
   },
   {
