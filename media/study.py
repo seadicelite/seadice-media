@@ -60,6 +60,9 @@
                  --check で lessons のidが講座に実在すること、金額（円・%）を書いていないことを検査する
                  kind: "experiments" のときは体験型（判断のくせを体験して研究の結果と比べる）。data は {date, items[{id, title, q, choices?[2〜4], result, explain, lessons[レッスンid], source}]}。
                  答えは details で開くのでJS不要・送信なし。--check で必須キーとレッスンidを検査する（研究の数値は書いてよい）
+                 kind: "checklist" のときはチェックリスト型（学んだことを日常で使う）。data は {date, items[{id, title, principle, lead, lessons[レッスンid],
+                 checks[{id, text, why}]}], sources[{text, url}]}。JSなしでも印刷できるチェック表として読め、tool.js はできている数・グループごとの数・
+                 まだの項目を出し、「記録する」でこのブラウザ（localStorage）に日付つきで残して前回と比べる。送信なし。
 
 レッスンの形式（study.md 5章）:
   新形式 question / review / sections / figure / apply / keep / terms / quiz[apply] / sources を、study.md 4章の並びで表示する。
@@ -687,7 +690,7 @@ def lesson_new(ch, li, l, idx, no, prev_l, next_l):
 {review}
 {CFG.get("careHtml", "") if ch.get("care") else ""}
 {secs}
-<div class="box apply"><p class="bt">あなたの場合は？</p><p>{E(l["apply"])}</p><p class="hint">答えを書く必要はありません。少し思い浮かべるだけで、記憶に残りやすくなります。</p></div>
+<div class="box apply"><p class="bt">あなたの場合は？</p><p>{E(l["apply"])}</p><p class="hint">答えを書く必要はありません。少し思い浮かべるだけで、記憶に残りやすくなります。</p></div>{tool_from_lesson(l)}
 <div class="box key"><p class="bt">覚えるのはこの3つ</p><ol>{"".join(f"<li>{rich_text(k)}</li>" for k in l["keep"])}</ol></div>
 {f'<h2><span class="n">TERMS</span>このレッスンの用語</h2>{terms}' if terms else ''}
 <section class="final" aria-labelledby="quiz-h">
@@ -820,7 +823,15 @@ TOOL_CSS = """
 .ex-item{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:16px 18px;margin:16px 0;scroll-margin-top:72px}.ex-item h3{font-size:19px;margin:0 0 8px}.ex-q{font-size:16px;line-height:1.8;margin:0 0 10px}
 .ex-c{list-style:none;padding:0;margin:0 0 12px}.ex-c li{border:2px solid var(--line);border-radius:12px;padding:10px 14px;margin:6px 0;font-size:15px;line-height:1.6}
 .ex-item details{border-top:1px dashed var(--line);padding-top:10px}.ex-item summary{cursor:pointer;font-weight:800;color:var(--accent);min-height:44px;display:flex;align-items:center}
-.ex-r{background:var(--soft);border-radius:12px;padding:12px 14px;margin:8px 0;font-size:15px;line-height:1.8}.ex-item details p{font-size:15px;line-height:1.8;margin:8px 0 0}.ex-l a{display:inline-block;padding:4px 0;margin-right:12px;font-weight:700}.ex-s{font-size:13px;color:var(--muted)}"""
+.ex-r{background:var(--soft);border-radius:12px;padding:12px 14px;margin:8px 0;font-size:15px;line-height:1.8}.ex-item details p{font-size:15px;line-height:1.8;margin:8px 0 0}.ex-l a{display:inline-block;padding:4px 0;margin-right:12px;font-weight:700}.ex-s{font-size:13px;color:var(--muted)}
+.ck-g{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:16px 18px;margin:16px 0;scroll-margin-top:72px}.ck-g h3{font-size:19px;margin:0 0 6px;display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px}
+.ck-p{font-size:12px;font-weight:700;color:var(--accent);background:var(--soft);border-radius:999px;padding:1px 10px}.ck-n{margin-left:auto;font-size:14px;font-weight:800;color:var(--sub)}.ck-g>p{font-size:15px;color:var(--sub);margin:4px 0 8px;line-height:1.75}
+.ck-l{list-style:none;padding:0;margin:0}.ck-l li{border-top:1px solid var(--line);scroll-margin-top:72px}.ck-i{display:flex;gap:12px;align-items:flex-start;padding:12px 2px;cursor:pointer}
+.ck-i input{flex:0 0 auto;width:22px;height:22px;margin:3px 0 0;accent-color:var(--accent)}.ck-i b{display:block;font-size:16px;line-height:1.6}.ck-i small{display:block;font-size:13px;color:var(--sub);line-height:1.7;margin-top:4px}
+.ck-ls{font-size:14px!important}.ck-ls a{display:inline-block;padding:4px 0;margin-right:12px;font-weight:700}
+.ck-sum{background:var(--soft);border:2px solid var(--accent);border-radius:16px;padding:16px 18px;margin:20px 0 0}.ck-sum .big{font-size:22px;font-weight:800;margin:0}.ck-sum p{margin:6px 0 0;font-size:15px;line-height:1.75}.ck-sum ol{margin:8px 0 0;padding-left:1.4em}.ck-sum li{margin:4px 0;font-size:15px}
+#ck-hist{margin:12px 0 0}#ck-hist p{font-size:14px;color:var(--sub);margin:4px 0}#ck-hist ul{list-style:none;padding:0;margin:6px 0 0}#ck-hist li{font-size:14px;padding:6px 0;border-top:1px solid var(--line)}
+@media print{header,footer,nav,.crumbs,.ck-btns,#ck-hist,.ck-ls,.box.note{display:none!important}.ck-g{break-inside:avoid;border:1px solid #999}body{background:#fff;color:#000}}"""
 
 TOOL_JS = r"""(function(){'use strict';
 var L=[].slice.call(document.querySelectorAll('.tl-item')),P=[].slice.call(document.querySelectorAll('.tl-pick a'));if(!L.length)return;
@@ -830,6 +841,32 @@ P.forEach(function(a){if(hit&&a.getAttribute('href')==='#'+h)a.setAttribute('ari
 var all=document.getElementById('tl-all');if(all)all.hidden=!hit;
 if(hit){var t=hit.querySelector('h3');hit.scrollIntoView();if(t){t.setAttribute('tabindex','-1');try{t.focus({preventScroll:true})}catch(e){}}}}
 window.addEventListener('hashchange',apply);apply()})();"""
+
+CHECK_JS = r"""(function(){'use strict';
+var F=document.getElementById('ck');if(!F)return;
+var KEY='check:'+(document.documentElement.getAttribute('data-site')||'x')+':'+location.pathname,H=[],OK=true;
+try{H=JSON.parse(localStorage.getItem(KEY)||'[]')||[]}catch(e){OK=false;H=[]}
+var B=[].slice.call(F.querySelectorAll('input[type=checkbox]')),G=[].slice.call(F.querySelectorAll('.ck-g')),sum=document.getElementById('ck-sum'),hist=document.getElementById('ck-hist');
+function today(){return Math.floor((Date.now()-new Date().getTimezoneOffset()*6e4)/864e5)}
+function ds(d){var t=new Date(d*864e5);return(t.getUTCMonth()+1)+'月'+t.getUTCDate()+'日'}
+function on(){return B.filter(function(b){return b.checked}).map(function(b){return b.name})}
+function esc(t){var d=document.createElement('i');d.textContent=t;return d.innerHTML}
+function upd(){var c=on();G.forEach(function(g){var bs=g.querySelectorAll('input'),k=0;for(var i=0;i<bs.length;i++)if(bs[i].checked)k++;g.querySelector('.ck-n').textContent=k+' / '+bs.length});
+var todo=B.filter(function(b){return!b.checked}).slice(0,3),h='<p class="big">'+B.length+'項目中 '+c.length+'項目できています</p>';
+if(todo.length)h+='<p>まだチェックが付いていない項目（上から3つ）:</p><ol>'+todo.map(function(b){return '<li><a href="#c-'+b.name+'">'+esc(b.parentNode.querySelector('b').textContent)+'</a></li>'}).join('')+'</ol>';
+else h+='<p>すべてできています。季節の変わり目や引っ越しのときに、もう一度確かめましょう。</p>';sum.innerHTML=h}
+function show(msg){if(!H.length&&!msg){hist.hidden=true;return}var h=msg?'<p><b>'+esc(msg)+'</b></p>':'';
+if(H.length)h+='<p>これまでの記録（このブラウザだけに保存）</p><ul>'+H.slice(-5).reverse().map(function(r){return '<li>'+ds(r.d)+' ・ '+B.length+'項目中 '+r.c.length+'項目</li>'}).join('')+'</ul>';
+hist.innerHTML=h;hist.hidden=false}
+if(H.length){var last=H[H.length-1];B.forEach(function(b){b.checked=last.c.indexOf(b.name)>=0})}
+B.forEach(function(b){b.addEventListener('change',upd)});
+document.getElementById('ck-save').addEventListener('click',function(){var t=today(),c=on(),prev=null;
+for(var i=H.length-1;i>=0;i--)if(H[i].d!==t){prev=H[i];break}
+if(H.length&&H[H.length-1].d===t)H[H.length-1]={d:t,c:c};else H.push({d:t,c:c});H=H.slice(-30);
+try{localStorage.setItem(KEY,JSON.stringify(H))}catch(e){OK=false}
+var m=!OK?'このブラウザでは記録を保存できませんでした。印刷して紙で残すこともできます。':prev?('記録しました。前回（'+ds(prev.d)+'）は'+prev.c.length+'項目、今日は'+c.length+'項目です。'+(c.length>prev.c.length?(c.length-prev.c.length)+'項目増えました。':c.length<prev.c.length?'前回より少なくなりました。できなくなったものを見直しましょう。':'')):'記録しました。次に見直したとき、今日と比べられます。';show(m)});
+document.getElementById('ck-print').addEventListener('click',function(){window.print()});
+sum.hidden=false;document.getElementById('ck-btns').hidden=false;upd();show(H.length?'前回（'+ds(H[H.length-1].d)+'）の記録を読み込みました。':'')})();"""
 
 
 def tool_lessons():
@@ -854,6 +891,22 @@ def check_tool(errs):
             for lid in it.get("lessons", []):
                 if lid not in lids: errs.append(f"{tag} のレッスンidが講座に存在しない: {lid}")
         return
+    if CFG["tool"].get("kind") == "checklist":
+        for it in TOOL.get("items", []):
+            tag = f'チェック {it.get("id")}'
+            for k in ("id", "title", "principle", "lead", "lessons", "checks"):
+                if not it.get(k): errs.append(f"{tag} の {k} が空")
+            for lid in it.get("lessons", []):
+                if lid not in lids: errs.append(f"{tag} のレッスンidが講座に存在しない: {lid}")
+            for c in [it] + it.get("checks", []):
+                if c.get("id") in ids: errs.append(f'{tag} id重複: {c.get("id")}')
+                ids.add(c.get("id"))
+                if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", c.get("id", "")): errs.append(f'{tag} id は英小文字・数字・ハイフン: {c.get("id")}')
+            for c in it.get("checks", []):
+                if not c.get("text") or not c.get("why"): errs.append(f'{tag} {c.get("id")} の text・why が空')
+        for x in TOOL.get("sources", []) or [None]:
+            if not x or not x.get("text") or not str(x.get("url", "")).startswith("https://"): errs.append("チェックの sources は {text, url(https)} を1つ以上")
+        return
     for it in TOOL.get("items", []):
         tag = f'ツール {it.get("id")}'
         if it.get("id") in ids: errs.append(f"{tag} id重複")
@@ -868,6 +921,16 @@ def check_tool(errs):
                 if lid not in lids: errs.append(f'{tag} {x.get("name")} のレッスンidが講座に存在しない: {lid}')
         txt = json.dumps(it, ensure_ascii=False)
         if re.search(r"[0-9０-９][0-9０-９,，.万千]*\s*(円|%|％)", txt): errs.append(f"{tag} 金額・割合（円・%）を書いている。毎年変わるためレッスンに任せる")
+
+
+def tool_from_lesson(l):
+    """チェックリスト型のツールで使うレッスンに、「あなたの場合は？」の続きとしてツールへの案内を出す"""
+    x = CFG.get("tool")
+    if not x or x.get("kind") != "checklist" or not any(l["id"] in it["lessons"] for it in TOOL["items"]):
+        return ""
+    n = sum(len(it["checks"]) for it in TOOL["items"])
+    return (f'\n<a class="card" href="/{x["path"]}" style="border:2px solid var(--accent);margin:12px 0 0"><small>{E(x["kicker"])}</small>'
+            f'<b>{E(x["title"])}（{n}項目）</b><span>このレッスンの考え方を、自分の暮らしにあてはめて確かめられます。結果はこのブラウザに記録され、前回と比べられます。</span></a>')
 
 
 def tool_home():
@@ -917,11 +980,61 @@ def experiments_page():
         CSS = base
 
 
+def checklist_page():
+    """チェックリスト型の看板ツール（tool.kind == "checklist"）。学んだことを自分の暮らしに当てはめる。
+    JSなしでも印刷できるチェック表。tool.js が数を数え、記録をこのブラウザだけに残して前回と比べる。"""
+    x = CFG["tool"]
+    url = f'{URL}{x["path"]}'
+    lmap = tool_lessons()
+    n_all = sum(len(it["checks"]) for it in TOOL["items"])
+    groups = ""
+    for gi, it in enumerate(TOOL["items"], 1):
+        ls = " ".join(f'<a href="{lurl(lmap[i]).replace(URL, "/")}">レッスン{lesson_no(lmap[i])} {E(lmap[i]["short"])}</a>' for i in it["lessons"])
+        cs = "".join(f'<li id="c-{c["id"]}"><label class="ck-i"><input type="checkbox" name="{c["id"]}"><span><b>{E(c["text"])}</b>'
+                     f'<small>{E(c["why"])}</small></span></label></li>' for c in it["checks"])
+        groups += (f'<section class="ck-g" id="{it["id"]}"><h3>{gi}. {E(it["title"])}<span class="ck-p">{E(it["principle"])}</span>'
+                   f'<span class="ck-n" aria-live="polite"></span></h3><p>{E(it["lead"])}</p><ul class="ck-l">{cs}</ul><p class="ck-ls">学べるレッスン: {ls}</p></section>')
+    srcs = "".join(f'<li><a href="{E(s["url"], quote=True)}" rel="noopener">{E(s["text"])}</a></li>' for s in TOOL.get("sources", []))
+    body = f'''<span class="kicker">{E(x["kicker"])}</span>
+<h1>{E(x["h1"])}</h1>
+<p class="updated">{n_all}項目 ・ 登録不要 ・ 記録はこのブラウザだけ ・ 更新日 {TOOL.get("date", UPDATED)}</p>
+<p class="lead">{E(x["lead"])}</p>
+<div class="box note"><p style="margin:0">{E(x["note"])}</p></div>
+<h2><span class="n">01</span>チェックする</h2>
+<p class="answer">できているものにチェックを付けてください。全部で{n_all}項目、3分ほどで終わります。印刷して紙で使うこともできます。</p>
+<form class="ck-form" id="ck">
+{groups}
+</form>
+<div class="ck-sum" id="ck-sum" hidden aria-live="polite"></div>
+<div class="btns ck-btns" id="ck-btns" hidden><button type="button" class="btn" id="ck-save">今日の結果を記録する</button><button type="button" class="btn sub" id="ck-print">印刷する</button></div>
+<div id="ck-hist" hidden></div>
+<h2><span class="n">02</span>なぜこの{n_all}項目なのか</h2>
+<p class="answer">項目は、犯罪学の防犯環境設計と状況的犯罪予防の考え方を、警察庁の統計と対策にあてはめて選びました。</p>
+<p>国土交通省の「防犯に配慮した共同住宅の設計指針」（2001年）は、監視性の確保・領域性の強化・接近の制御・被害対象の強化と回避の4つを基本原則にしています。このチェックは、その原則を一戸建てやアパートの暮らしに置きかえ、一度被害に遭った家がその直後に狙われやすい「反復被害」の備えを加えたものです。考え方そのものは、各グループの「学べるレッスン」でくわしく学べます。</p>
+<ul>{srcs}</ul>
+<h2><span class="n">03</span>このページについて</h2>
+<p class="answer">このチェックは、できていることを確かめて次の一歩を決めるためのものです。全部できていれば被害に遭わない、という保証ではありません。</p>
+<p>チェックの内容と記録は、このブラウザの中だけに保存され、どこにも送られません。別の端末やブラウザでは記録は見えません。犯罪の手口そのものは、このページでは説明しません。</p>
+<script src="/tool.js" defer></script>'''
+    graph = [{"@type": "WebApplication", "name": x["title"], "url": url, "description": x["desc"], "applicationCategory": "LifestyleApplication",
+              "operatingSystem": "Web", "inLanguage": "ja", "offers": {"@type": "Offer", "price": 0, "priceCurrency": "JPY"},
+              "isPartOf": {"@type": "WebSite", "name": NAME, "url": URL}, "publisher": PUBLISHER, "dateModified": TOOL.get("date", UPDATED)}]
+    global CSS
+    base = CSS
+    CSS = base + TOOL_CSS
+    try:
+        return write(x["path"], f'{x["title"]} | {NAME}', x["desc"], body, graph, trail=[(x["title"], url)], current="/" + x["path"])
+    finally:
+        CSS = base
+
+
 def tool_page():
     """看板ツール（設定の tool）。JSなしでも全項目を本文として読め、tool.js は選んだ項目だけに絞り込む。"""
     x = CFG["tool"]
     if x.get("kind") == "experiments":
         return experiments_page()
+    if x.get("kind") == "checklist":
+        return checklist_page()
     url = f'{URL}{x["path"]}'
     lmap = tool_lessons()
     pick = "".join(f'<a href="#{it["id"]}">{E(it["label"])}</a>' for it in TOOL["items"])
@@ -1342,7 +1455,7 @@ def extras(urls):
     (OUT / f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
     (OUT / "study.js").write_text(STUDY_JS)
     if CFG.get("tool"):
-        (OUT / "tool.js").write_text(TOOL_JS)
+        (OUT / "tool.js").write_text(CHECK_JS if CFG["tool"].get("kind") == "checklist" else TOOL_JS)
     sm = "".join(f"  <url>\n    <loc>{u}</loc>\n    <lastmod>{UPDATED}</lastmod>\n  </url>\n" for u in urls)
     (OUT / "sitemap.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{sm}</urlset>\n')
     lines = [f"# {NAME}", "", f"> {CFG['description']}", ""] + [fmt(x) for x in CFG["llmsIntro"]] + ["",
