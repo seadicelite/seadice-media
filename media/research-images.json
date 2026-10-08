@@ -1028,5 +1028,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Calf_foam_rolling.jpg/500px-Calf_foam_rolling.jpg",
   "og": "https://research.seadice.win/img/bedtime-stretching-sleep-quality-research.jpg",
   "local": true
+ },
+ "noise-cancelling-focus-research": {
+  "file": "File:A pair of orange foam earplugs.jpg",
+  "src": "/img/noise-cancelling-focus-research.jpg",
+  "src640": "/img/noise-cancelling-focus-research-sm.jpg",
+  "w": 960,
+  "h": 916,
+  "alt": "フォーム製の耳栓",
+  "artist": "Sokolikmawwer0",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_pair_of_orange_foam_earplugs.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/A_pair_of_orange_foam_earplugs.jpg/960px-A_pair_of_orange_foam_earplugs.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/A_pair_of_orange_foam_earplugs.jpg/500px-A_pair_of_orange_foam_earplugs.jpg",
+  "og": "https://research.seadice.win/img/noise-cancelling-focus-research.jpg",
+  "local": true
  }
 }
