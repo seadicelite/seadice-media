@@ -227,7 +227,8 @@ def top_links(cfg):
 
 def crosslinks(cfg):
     """media/{slug}-crosslinks.json: {記事slug: [[他メディアslug, 記事slug], ...]} を記事末の「ほかのメディアの関連記事」に出す。
-    行き先が STUDY（siteType: course）なら記事slugの代わりにレッスンidを書き、「無料講座で体系的に学ぶ」に出す。"""
+    行き先が STUDY（siteType: course）なら記事slugの代わりにレッスンidを書き、「無料講座で体系的に学ぶ」に出す。
+    STUDY の看板ツールの path（例 bouhan-check/）を書くと、記事末の先頭「読んだあとに使う」に出す（base.md「読んだあとの一歩」）。"""
     m = _load(cfg["slug"], "crosslinks")
     if not m:
         return 0
@@ -237,9 +238,14 @@ def crosslinks(cfg):
         f = ROOT / cfg["path"] / slug / "index.html"
         if not f.exists():
             continue
-        items = study = ""
+        items = study = tool = ""
         for ms, s in refs:
             oc = json.loads((ROOT / f"media/{ms}.json").read_text())
+            if oc.get("siteType") == "course" and oc.get("tool") and s == oc["tool"]["path"]:
+                x = oc["tool"]
+                tool += (f'<a href="{oc["url"]}{s}" target="_blank" rel="noopener"><span class="rb"><small>{E(oc["name"])}（無料ツール・登録不要）</small>'
+                         f'<p>{E(x["title"])}</p><small>{E(x["desc"])}</small></span></a>')
+                continue
             if oc.get("siteType") == "course":
                 # STUDY（無料講座）のレッスンへのリンク。s はレッスンid
                 ls = {l["id"]: l for c in json.loads((ROOT / f"media/{ms}-course.json").read_text())["chapters"] for l in c["lessons"]}
@@ -251,8 +257,8 @@ def crosslinks(cfg):
                 continue
             items += f'<a href="{oc["url"]}{s}/" target="_blank" rel="noopener"><span class="rb"><small>{E(oc["name"])}</small><p>{E(op[s]["title"])}</p></span></a>'
         t = re.sub(r"<!--xlinks-->.*?<!--/xlinks-->", "", f.read_text(), flags=re.S)
-        if items or study:
-            block = ('<!--xlinks-->' + (f'<section class="related"><h2>ほかのメディアの関連記事</h2>{items}</section>' if items else '')
+        if items or study or tool:
+            block = ('<!--xlinks-->' + (f'<section class="related"><h2>読んだあとに使う</h2>{tool}</section>' if tool else '') + (f'<section class="related"><h2>ほかのメディアの関連記事</h2>{items}</section>' if items else '')
                      + (f'<section class="related"><h2>無料講座で体系的に学ぶ</h2>{study}</section>' if study else '') + '<!--/xlinks-->')
             k = "<!--/related-->"
             t = t.replace(k, k + block, 1) if k in t else t.replace("</article>", block + "</article>", 1)
