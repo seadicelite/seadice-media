@@ -14,7 +14,7 @@ jobs:
         with:
           fetch-depth: 2
       - name: Rebuild index pages (daily rotation)
-        run: python3 media/hayami_tools.py kokoro kosodate oya; for s in research umbra ledger kogei tetsugaku bohan kosodate kokoro tantei hanzai dokugaku oya; do python3 media/build.py "$s"; done; python3 media/shinri_pages.py; python3 media/study.py --all
+        run: python3 media/hayami_tools.py kokoro kosodate oya; for s in research umbra ledger kogei tetsugaku bohan kosodate kokoro tantei hanzai dokugaku oya ai; do python3 media/build.py "$s"; done; python3 media/shinri_pages.py; python3 media/study.py --all
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}

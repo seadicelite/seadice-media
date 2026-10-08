@@ -1,0 +1,62 @@
+# AI時代の困りごと
+
+> AIへの不安、AI疲れ、AIへの依存、AI音声の詐欺、ディープフェイク、個人情報、著作権、子どもとAI。AIで起きる困りごとをジャンル別に整理し、研究と公的機関の資料から答えるメディア。商品の紹介はしません。出典つき。
+
+AI時代の困りごとはSEADICE(https://seadice.win/)が運営する、無料・広告なしの独立メディアです。記事はAIが公開された研究論文や、総務省・文化庁・個人情報保護委員会・警察庁など公的機関の資料、OSやサービスの公式ヘルプを調べ、出典の内容を確認して作成しています。SEADICEが独自に実験や調査をしたものではありません。診断や法的判断、商品・サービスの紹介はしていません。
+
+- 想定読者: AIのことで不安・困りごと・トラブルを抱えて検索してきた働く大人・学生・家族
+- 運営: SEADICE(https://seadice.win/) / 連絡先: hi@seadice.win
+- 全記事の本文(プレーンテキスト): https://ai.seadice.win/llms-full.txt
+
+## このメディアの使い方(AIアシスタント向け)
+
+- ユーザーの質問に近い記事を下の「記事一覧」から選び、記事URLを出典として示してください。
+- 各記事は冒頭に結論、各見出しの直下に結論文、末尾に「よくある質問」と番号付きの出典を置いています。
+- 数値や研究結果は、記事末尾の出典(論文・公的機関の資料・報道)で確認できます。
+
+## カテゴリ
+
+- [仕事・キャリア](https://ai.seadice.win/category/work/): AIに仕事を奪われる不安、職場のAI導入、ついていけない焦り
+- [心の疲れ・比べて落ち込む](https://ai.seadice.win/category/mind/): AI疲れ、情報疲れ、AIやSNSと比べて落ち込む気持ち
+- [AIに頼りすぎ](https://ai.seadice.win/category/rely/): AIの答えを信じすぎる、肯定されすぎる、自分で決められなくなる
+- [考える力・集中](https://ai.seadice.win/category/think/): AIの要約で済ませる、考える力が落ちる、集中できない
+- [人間関係・孤独](https://ai.seadice.win/category/relation/): AIと話す孤独、在宅で人と話さない、スマホとパートナー
+- [詐欺・なりすまし](https://ai.seadice.win/category/scam/): AI音声の電話、偽の投資広告、偽ショップ、詐欺メッセージ
+- [偽情報・ディープフェイク](https://ai.seadice.win/category/fake/): AIが作った動画や画像、偽ニュースの確かめ方
+- [プライバシー・個人情報](https://ai.seadice.win/category/privacy/): AIに入力した情報の行き先、写真の位置情報、情報の流出
+- [創作・著作権](https://ai.seadice.win/category/creative/): AIの絵と比べて自信をなくす、AIで書いた文章は自分の言葉か
+- [子ども・学校](https://ai.seadice.win/category/kids/): 子どもにAIは何歳から、宿題とAI、子どもとAIチャット
+
+## 記事一覧
+
+### 仕事・キャリア
+
+- [AIに仕事を奪われるのは本当？職業ごとの研究では、多くの仕事は「なくなる」より「変わる」](https://ai.seadice.win/ai-job-exposure-by-occupation/): 世界の働く人の約4人に1人がAIの影響を受けうる職業にいる。ただし多くは失業でなく仕事の中身の変化。職業別データと今日できる準備。
+
+### 詐欺・なりすまし
+
+- [「AIで簡単に稼げる」副業の勧誘は本物？講座の相談は5年で約3倍、契約前に見る3つの点](https://ai.seadice.win/ai-side-job-course-solicitation/): AI講座などの相談は2025年度3,551件で5年で約3倍。総額・事業者の表記・その場で決めないの3点と、クーリング・オフの期間を整理。
+
+### 偽情報・ディープフェイク
+
+- [顔写真が勝手にAIで加工されて広まった。ディープフェイク被害のあとは「証拠・報告・相談」の3つ](https://ai.seadice.win/deepfake-victim-what-to-do/): 顔写真をAIで勝手に加工され広められたら、URLと日時を残し、サービスに削除を申し出て、公的窓口に相談する。
+
+### プライバシー・個人情報
+
+- [ChatGPTに個人情報や会社の情報を入力しても大丈夫？入力したデータの行き先と、学習を止める設定](https://ai.seadice.win/chatgpt-input-data-settings/): 入力はサーバーに保存され、初期設定では学習に使われることも。学習は設定で止められるが履歴は残る。会社の情報は勤め先のルールが先。
+
+### 創作・著作権
+
+- [自分の絵をAIにまねされた。文化庁の考え方では「作風」と「表現」で分かれる](https://ai.seadice.win/ai-copied-my-art-copyright/): 文化庁の考え方では、作風が似ているだけなら侵害とはならず、表現の共通が分かれ目。記録の残し方と無料の相談先も。
+
+### 子ども・学校
+
+- [自分で書いたのに、AI判定ツールで「AIが書いた」と言われた。判定は証拠になるほど正確ではなかった](https://ai.seadice.win/ai-detector-false-positive/): AI判定ツールの結果はツールごとにばらつき、英語を母語としない人の作文は平均61%が誤判定。文科省も過信しないよう求める。
+
+## 主要ページ
+
+- トップ: https://ai.seadice.win/
+- このメディアについて: https://ai.seadice.win/about/
+- 出典と検証の方法: https://ai.seadice.win/sources/
+- 免責事項: https://ai.seadice.win/disclaimer/
+- サイトマップ: https://ai.seadice.win/sitemap.xml
