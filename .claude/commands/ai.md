@@ -76,7 +76,7 @@ description: AI時代の困りごと（AIで起きる悩み・問題に研究で
 
 ## 投稿データ（media.md 手順5）
 
-`media/ai-posts.json` の先頭に `{"slug","category"(設定のcategoriesのname),"type":"guide","date","title","summary"}` を追加する。
+`media/ai-posts.json` の先頭に `{"slug","category"(設定のcategoriesのname),"type":"guide","stage"(知る|備える|起きた|立て直す),"date","title","summary"}` を追加する。
 
 ## 写真のルール
 
