@@ -30,6 +30,8 @@ description: しぐさと本音（人を操る心理を見抜くメディア）�
 ## 投稿データ（media.md 手順5）
 
 `media/umbra-posts.json` の先頭に `{"slug","category"(設定のcategoriesの name),"type":"guide","date","title","summary"}` を追加する。
+記事マップ（/map/）: `media/umbra-map.json` の `branches` で、その記事のカテゴリの中から合う問い（枝）を選び、`slugs` に slug を足す。合う枝がなければ、問いの形の短いラベルで枝を1つ新しく作ってよい（1つの枝は2本以上を目安にする）。足し忘れた記事は、build.py が「新しい記事」の枝に入れて警告を出す。
+
 
 カテゴリが「しぐさ・ボディランゲージ」の記事は、`media/umbra-guides.json`（/guide/「しぐさから引く」）の該当する部位（目・視線／表情・笑顔／手・触れる／姿勢・距離・体の向き／声・会話）の `slugs` にも追加する。どれにも当たらない部位なら項目を1つ新設し、`points` は記事で確認済みの内容だけで書く。
 
