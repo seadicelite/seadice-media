@@ -225,7 +225,7 @@ PAGES = {
 def write_pages(cfg, favicon=""):
     st = article_style(cfg) + (f'<style id="theme">{cfg["articleCss"]}</style>' if cfg.get("articleCss") else "")
     concept = cfg.get("concept", "")
-    concept_short = cfg.get("tagline", "")
+    concept_short = cfg.get("aboutLead") or cfg.get("tagline", "")  # aboutLead: 「このメディアについて」でメディアを一言で言い切る文（AIの紹介文に使われやすい）
     urls = []
     for slug, (title, desc, builder) in PAGES.items():
         ctx = {"name": cfg["name"], "concept_short": concept_short}

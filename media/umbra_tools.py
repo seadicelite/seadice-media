@@ -355,8 +355,89 @@ def nikki_page(posts):
             "seo_title": "ふたりの日記｜恋人との毎日を1タップで記録（束縛・モラハラの記録にも）", "body": body, "css": CSS}
 
 
+# 恋愛・結婚の通説の判定（/renai-tsusetsu/）。「SEADICE調べ」の一次情報。数字は毎回このリストから数える。
+# (通説, 段階 a=研究でおおむね支持 / b=条件しだい / c=研究では支持されない, 記事の結論から1〜2文, 記事slug)
+TSUSETSU = [
+    ("話をわかってくれる相手とは長続きする", "a", "相手に「理解され、大切にされ、認められている」と感じている人ほど、関係の満足感が高く、10年後の体のストレス反応も健康的でした。", "partner-responsiveness-research"),
+    ("「ありがとう」を伝え合う関係は長続きする", "a", "相手に感謝を感じた翌日は関係の満足感が高まり、感謝を伝えることは数か月後の関係の質も予測していました。", "gratitude-relationship-maintenance-research"),
+    ("笑いのツボが合う相手とはうまくいく", "a", "ジョークの多さではなく、二人で笑いのセンスを共有しているかが満足度と結びついていました。相手を見下すユーモアは満足度を下げます。", "humor-style-compatibility-research"),
+    ("一度浮気した人は、また浮気する", "a", "484人を2つの交際にわたって追った研究では、最初の交際で浮気をした人が次の交際でも浮気をする割合は、しなかった人の約3倍でした。", "serial-infidelity-repeat-research"),
+    ("「好き避け」は本当にある", "a", "「好き避け」は学術用語ではありませんが、不安を感じやすい人が同じ相手に「近づきたい」と「離れたい」を同時に抱くことは、6つの研究で確認されています。", "pulling-away-liking-ambivalence-research"),
+    ("似た者同士はうまくいく", "b", "「似ている」と感じることは魅力を予測しますが、交際・結婚しているカップルでは、似ていることと満足度の関連は一貫していませんでした。", "similarity-attraction-compatibility-research"),
+    ("会話のテンポが合う相手とは相性がいい", "b", "会話や動きの同期が高いペアほど、その場での好意は高い傾向がありました。ただし長い目で見た相性まで判断できるとは限りません。", "conversation-synchrony-compatibility-research"),
+    ("年の差婚はうまくいかない", "b", "年の差そのものが失敗を決めるわけではありません。満足度の差は6〜10年で消えていきましたが、収入の悪化などつらい出来事には弱い傾向がありました。", "age-gap-marriage-satisfaction-research"),
+    ("結婚前に同棲すると離婚しやすい", "b", "婚約前に同棲を始めた夫婦では満足度が低い傾向がありましたが、近年の世代では同棲の有無と離婚のしやすさの関連はほとんど見られません。", "premarital-cohabitation-divorce-risk-research"),
+    ("喧嘩が多いカップルは別れる", "b", "別れのリスクと関わっていたのは喧嘩の回数ではなく、怒鳴る・侮辱する・話し合いから去るといった、喧嘩の中で出る行動でした。", "fight-style-relationship-research"),
+    ("喧嘩中に黙り込む相手とはうまくいかない", "b", "黙り込みは離婚を予測する行動の一つとして報告されていますが、2025年の追試では「軽蔑」の方が影響が大きいという結果でした。繰り返すかどうかで見ます。", "stonewalling-conflict-withdrawal-warning-sign"),
+    ("男性は体の浮気、女性は心の浮気が許せない", "b", "2択で聞くと男女差が出ますが、2択以外の聞き方では差が消え、男女とも体の浮気の方をよりつらいと答えた研究もあります。", "infidelity-jealousy-gender-difference-research"),
+    ("男性は見た目、女性は経済力で相手を選ぶ", "b", "45カ国のアンケートではその傾向が確認されましたが、実際にスピードデートで出会った相手を好きになるかどうかでは、男女差はほとんど見られませんでした。", "mate-preference-gender-difference-research"),
+    ("からかってくるのは好意の裏返し", "b", "からかいは親しみにも敵意にもなります。分かれ目は、言い返し合える対等さと、嫌がったらやめるかどうかです。", "teasing-affection-or-hostility-research"),
+    ("失恋の痛みは女性の方が大きく、男性は引きずる", "b", "別れ直後の痛みは女性の方が大きいことが国際調査で確認されました。ただし「男性は引きずる」という回復の違いは、調査では測定されていません。", "breakup-recovery-gender-difference-research"),
+    ("失恋は3か月で立ち直れる", "b", "別れ直後の落ち込みは多くの場合3か月ほどで元に戻りましたが、これは平均です。別れ方や支えてくれる人の有無で、回復の速さは変わります。", "breakup-recovery-time-research"),
+    ("元恋人とは友達に戻れる", "b", "友達でいる理由が「安心」なら問題は少なく、「未練」が理由の友情は悪い結果につながっていました。", "staying-friends-with-ex-research"),
+    ("「運命の人」を信じるとうまくいく", "c", "対立があっても関係への気持ちが冷めにくかったのは、関係は努力で育つと考える人でした。「相性がすべて」と考える人は、意見の違いが大きいと関係の質が下がりやすい傾向がありました。", "destiny-belief-relationship-satisfaction-research"),
+    ("相性診断で結婚がうまくいくかわかる", "c", "結婚後に満足度が上がるか下がるかは、アンケートの回答ではほとんど予測できませんでした。関係の質を予測したのは、相手のコミットメントや感謝、喧嘩の少なさなど関係の中身です。", "marriage-compatibility-research"),
+    ("結婚満足度はU字を描き、子育てが終われば戻る", "c", "同じ夫婦を17年追った調査では、満足度は平均して下がり続け、後半に上向く証拠は得られませんでした。U字は調べ方が生んだ見え方でした。", "marriage-satisfaction-u-curve-myth-research"),
+    ("遠距離恋愛はうまくいかない", "c", "大学生2075人の調査では、遠距離かどうかで、幸福感・コミットメント・対立の頻度に差は見られませんでした。", "long-distance-relationship-satisfaction-research"),
+    ("手に入りにくい相手ほど魅力的に見える", "c", "単に手に入りにくいだけの相手は好かれず、「自分にだけ気がある」相手が最も好かれました。駆け引きは「好き」という気持ちをむしろ下げることがあります。", "hard-to-get-scarcity-attraction-research"),
+    ("別れと復縁を繰り返すのは絆が強いから", "c", "別れと復縁を繰り返す関係は、安定した関係と比べて身体的な暴力の報告がおよそ2倍、言葉の暴力もおよそ1.5倍でした。", "on-again-off-again-reconciliation-research"),
+    ("マッチングアプリのプロフィールは嘘ばかり", "c", "身長・体重・年齢のずれは多くの人に見られましたが、ずれは小さく、メッセージで嘘をついたと答えたのは約7%でした。", "online-dating-profile-deception-research"),
+    ("察してくれないのは愛情がないから", "c", "「察して当然」という期待が強い人ほど、誤解を「愛情がないから」と結びつけやすく、自分と相手の両方の満足度を下げていました。", "mind-reading-expectation-mismatch-research"),
+]
+TS_LV = {"a": "研究でおおむね支持", "b": "条件しだい", "c": "研究では支持されない"}
+TS_CSS = (".hk-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:20px 0 8px}.hk-stats div{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 10px;text-align:center}"
+          ".hk-stats b{display:block;font-size:34px;line-height:1.1;color:var(--accent)}.hk-stats small{font-size:15px;color:var(--muted)}.hk-stats span{display:block;font-size:12px;color:var(--text);margin-top:6px}"
+          ".hk-find li{margin:10px 0}.ts-item{padding:14px 0;border-top:1px solid var(--border);font-size:15px;line-height:1.8}.ts-item b{display:block;font-size:16px;margin-bottom:4px}.ts-item a{color:var(--link);font-size:14px}")
+
+
+def tsusetsu_page(posts):
+    for _, _, _, s in TSUSETSU:
+        assert s in posts, s
+    N = len(TSUSETSU)
+    c = {k: sum(1 for x in TSUSETSU if x[1] == k) for k in "abc"}
+
+    def pct(n):
+        return round(n * 100 / N)
+
+    def items(k):
+        return "".join(f'<div class="ts-item"><b><span class="lv lv-{k}">{TS_LV[k]}</span>{E(m)}</b>{E(n)}<br><a href="/{s}/">記事を読む：{E(posts[s]["title"])}</a></div>'
+                       for m, kk, n, s in TSUSETSU if kk == k)
+    c_names = "「" + "」「".join(m for m, kk, _, _ in TSUSETSU if kk == "c") + "」"
+    faq = [
+        ("恋愛・結婚の通説は、どのくらい研究で支持されていますか？", f"しぐさと本音が研究で調べた恋愛・結婚の通説{N}個のうち、研究でおおむね支持されたのは{c['a']}個（{pct(c['a'])}%）でした。{c['b']}個は条件しだい、{c['c']}個は研究では支持されませんでした。"),
+        ("研究で支持されなかった恋愛の通説は何ですか？", f"{c_names}の{c['c']}個です。"),
+        ("長続きする関係について、研究で支持されたことは何ですか？", "話をわかってもらえると感じること、「ありがとう」を伝え合うこと、二人で笑いのセンスを共有していることが、関係の満足感と結びついていました。いずれも出会ったときの条件ではなく、付き合いの中で育てるものです。"),
+        ("この判定は、誰がどうやって行いましたか？", "SEADICEが運営するしぐさと本音の編集部が、論文などの出典と照合した記事の結論をもとに、3段階で整理しました。新しい研究が出たら見直します。"),
+    ]
+    desc = f"運命の人、年の差婚、同棲、遠距離、浮気は繰り返すのか。恋愛・結婚の通説{N}個を論文で判定すると、研究でおおむね支持されたのは{c['a']}個、支持されなかったのは{c['c']}個でした。SEADICE調べ。"
+    ld = json.dumps({"@context": "https://schema.org", "@graph": [
+        {"@type": "WebPage", "name": "恋愛・結婚の通説を研究で判定した結果", "url": URL + "renai-tsusetsu/", "description": desc, "publisher": PUB},
+        {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faq]}]},
+        ensure_ascii=False).replace("</", "<\\/")
+    body = (f'<script type="application/ld+json">{ld}</script>'
+            f'<p class="plead">よく言われる恋愛・結婚の通説{N}個を、論文と照らし合わせて3段階で判定しました。研究でおおむね支持されたのは{c["a"]}個だけで、{c["c"]}個は研究では支持されないという結果です。</p>'
+            '<div class="hk-stats">' + "".join(f'<div><b>{c[k]}<small>/{N}</small></b><span>{TS_LV[k]}（{pct(c[k])}%）</span></div>' for k in "abc") + '</div>'
+            '<p class="note">しぐさと本音（SEADICE）調べ。判定に使った記事はすべて、論文などの出典と照合しています。</p>'
+            '<h2>わかったこと</h2><ul class="hk-find">'
+            '<li><strong>長続きと結びつくのは、出会いの条件より付き合いの中身。</strong>話をわかってもらえる、感謝を伝え合う、笑いを共有する。どれも二人で育てられるものでした。</li>'
+            '<li><strong>「条件で決まる」系の通説は当てにならない。</strong>運命の人、相性診断、遠距離は、それだけで関係の行方を決めませんでした。年の差や同棲も「条件しだい」でした。</li>'
+            '<li><strong>喧嘩は回数より中身。</strong>別れのリスクと関わっていたのは、怒鳴る・侮辱する・話し合いから去るといった行動でした。</li>'
+            '<li><strong>男女差の通説は、聞き方しだいで小さくなるものが多い。</strong>浮気の許せなさや相手に求める条件の男女差は、アンケートの形式や実際の出会いの場面では小さくなりました。</li></ul>'
+            f'<h2>研究でおおむね支持された{c["a"]}個</h2><p>傾向が研究で確認されているものです。それでも、一人ひとりの関係に必ず当てはまるわけではありません。</p>{items("a")}'
+            f'<h2>条件しだいの{c["b"]}個</h2><p>一部の条件や聞き方でだけ当てはまる、または通説より結論が細かいものです。</p>{items("b")}'
+            f'<h2>研究では支持されない{c["c"]}個</h2><p>よく言われるのに、研究の結果が支持していない通説です。</p>{items("c")}'
+            '<h2>判定の方法と限界</h2><ul>'
+            f'<li>対象は、しぐさと本音で記事にした恋愛・結婚の通説{N}個です（{len({x[3] for x in TSUSETSU})}本の記事）。世の中の通説をすべて網羅したものではありません。脈ありサインなどのしぐさは<a href="/shigusa/hantei/">しぐさ判定の集計</a>で別に判定しています。</li>'
+            '<li>「研究でおおむね支持」は追跡調査やメタ分析などで傾向が確認されているもの、「条件しだい」は一部の条件や聞き方でだけ当てはまるもの、「研究では支持されない」は研究の結果が通説を支持していないものです。</li>'
+            '<li>判定は記事の出典（論文・メタ分析など）をもとにした編集部の整理です。新しい研究が出たら見直します。</li>'
+            '<li>特定の人や関係を診断するためのものではありません。暴力や束縛があるときは、通説より先に<a href="/redflag-check/">危険な相手のサイン チェックリスト</a>で確かめ、相談先を頼ってください。</li></ul>'
+            f'<h2>よくある質問</h2>{_faq(faq)}')
+    return {"path": "renai-tsusetsu", "title": "恋愛・結婚の通説を研究で判定した結果", "date": "2026-10-08",
+            "desc": f"運命の人・年の差・同棲・遠距離・浮気は繰り返す？恋愛・結婚の通説{N}個を論文で判定。研究で支持されたのは{c['a']}個、支持されないのは{c['c']}個。SEADICE調べ。",
+            "seo_title": f"恋愛・結婚の通説{N}個を研究で判定｜運命の人・年の差・同棲・遠距離は本当？【SEADICE調べ】", "body": body, "css": CSS + TS_CSS}
+
 def pages(D, posts):
-    return [redflag_page(posts), myakuari_page(D, posts), uso_page(D, posts), sameta_page(posts), nikki_page(posts)]
+    return [redflag_page(posts), myakuari_page(D, posts), uso_page(D, posts), sameta_page(posts), nikki_page(posts), tsusetsu_page(posts)]
 
 
 # 関連する記事の本文に、ツールへの「次の一歩」を差し込む（出典の直前。再実行しても1つだけになるよう置き換える）
