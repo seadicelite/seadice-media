@@ -348,5 +348,22 @@
         "href": "/sns-practice/"
       }
     ]
-  }
+  },
+  "apps": [
+    {
+      "id": "renshu-sns",
+      "name": "れんしゅうSNS",
+      "appStoreId": "6820029513",
+      "icon": "/img/apps/renshu-sns.webp",
+      "catch": "本物のSNSを始める前に、知らない人からのDMや悪口の書き込みへの返し方を、アプリの中だけで練習できる。投稿は外に出ず、保護者確認つき",
+      "hubLead": "アプリの練習場面の元になった記事です。SNSやネットのトラブルが研究でどこまでわかっているか、親子で読んでから練習するとより身につきます。",
+      "theme": "子ども自身のSNS・チャット・ネット上の人間関係のトラブル(知らない人との接触、ネットいじめ、初めてのスマホ・SNS)の記事だけに付ける。親の投稿(シェアレンティング)、スクリーンタイムの時間、AIチャットボットの記事には付けない",
+      "articles": [
+        "online-gaming-strangers-chat-risk",
+        "cyberbullying-children-parent-awareness",
+        "smartphone-first-age-ownership-risk",
+        "family-screen-time-rules-research"
+      ]
+    }
+  ]
 }

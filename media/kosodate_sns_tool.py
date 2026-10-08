@@ -84,6 +84,7 @@ BODY = """<script type="application/ld+json">%LD%</script>
 </ul>
 <p>修了証は「スマホを持つ前の約束」に使えます。家族のSNS・スマホのルールは<a href="/rules/">わが家のルールづくり</a>で作って印刷できます。</p>
 <div class="note">危ない相手役の文章は、SEADICEが用意した練習用のものです。AI（Anthropic社のClaude）が行うのは、返事・投稿の判定と短いアドバイス、クラスメイト役の短いコメントだけで、入力は保存しません。AIは1日に決まった回数までで、それを超えても練習は続けられます。</div>
+<p class="note">iPhone・iPadでは、同じ20の場面をアプリ<a href="https://apps.apple.com/app/id6820029513?ct=kosodate" target="_blank" rel="noopener">「れんしゅうSNS」（無料）</a>でも練習できます。アプリ版はAIを使わず、保護者確認つきです。</p>
 <h2>よくある質問</h2>
 %FAQ%
 <script>
