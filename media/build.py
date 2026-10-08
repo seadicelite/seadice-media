@@ -167,7 +167,7 @@ def build(slug, preview=None):
   {trust_html}
   <div class="about"><strong>このメディアについて</strong><br>{about} 写真は <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a> の自由ライセンス素材で、各記事に撮影者とライセンスを表示しています。</div>
 </main>
-<footer><p><a href="/about/">このメディアについて</a> | <a href="/sources/">出典と検証の方法</a> | <a href="/disclaimer/">免責事項</a>{"".join(f' | <a href="{n["path"]}">{html.escape(n["label"])}</a>' for n in cfg.get("extraNav", []))} | <a href="https://seadice.win/">SEADICE</a> | &copy; SEADICE</p></footer>
+<footer><p><a href="/about/">このメディアについて</a> | <a href="/sources/">出典と検証の方法</a> | <a href="/disclaimer/">免責事項</a>{"".join(f' | <a href="{n["path"]}">{html.escape(n["label"])}</a>' for n in cfg.get("footerNav", cfg.get("extraNav", [])))} | <a href="https://seadice.win/">SEADICE</a> | &copy; SEADICE</p></footer>
 </body>
 </html>
 '''

@@ -436,8 +436,50 @@ def tsusetsu_page(posts):
             "desc": f"運命の人・年の差・同棲・遠距離・浮気は繰り返す？恋愛・結婚の通説{N}個を論文で判定。研究で支持されたのは{c['a']}個、支持されないのは{c['c']}個。SEADICE調べ。",
             "seo_title": f"恋愛・結婚の通説{N}個を研究で判定｜運命の人・年の差・同棲・遠距離は本当？【SEADICE調べ】", "body": body, "css": CSS + TS_CSS}
 
+# ツールとデータの一覧（/tools/）。迷わせないよう、目的ごとに「まずはこれ」を大きく1〜2枚、ほかは小さな文字リンクにする。
+# (id, 見出し, 大きく出すカード[(上の小見出し, 名前, 説明, path)], 小さく出すリンク[(前置き, 名前, path)])
+HUB = [
+    ("kimochi", "相手の気持ちが知りたい",
+     [("付き合う前なら", "脈ありチェック", "気になる相手のしぐさを選ぶと、研究でどこまで好意の手がかりになるかを表示します。", "/myakuari-check/"),
+      ("付き合ってからなら", "冷めたサインチェック", "連絡が減った・返信が遅いなどの変化が、研究で「冷めた」の手がかりになるかを表示します。", "/sameta-check/")],
+     [("話が本当か気になるときは", "嘘のサインチェック", "/uso-check/")]),
+    ("anzen", "この人、大丈夫？と不安なとき",
+     [("まずはここから", "危険な相手のサイン チェックリスト", "束縛・モラハラ・ガスライティングなど、当てはまる言動を選ぶと、研究でわかっていることと相談先を表示します。", "/redflag-check/")],
+     [("出来事を記録しておきたいときは", "ふたりの日記", "/nikki/")]),
+    ("data", "研究データで調べたい",
+     [("まずはここから", "しぐさ索引・4択クイズ", "目をそらす、腕を組むなど、しぐさの意味を研究で判定した一覧です。クイズで確かめることもできます。", "/shigusa/")],
+     [("判定を数えた結果は", "しぐさ判定の集計", "/shigusa/hantei/"), ("恋愛・結婚の通説は", "恋愛・結婚の通説の判定", "/renai-tsusetsu/"),
+      ("言葉の意味は", "用語集", "/glossary/"), ("記事の全体像は", "記事のマインドマップ", "/map/")]),
+]
+HUB_CSS = (".hb-sec{margin:34px 0 0;scroll-margin-top:80px}.hb-sec h2{font-size:19px;margin-bottom:12px}"
+           ".hb-cards{display:grid;gap:12px}@media(min-width:620px){.hb-cards.two{grid-template-columns:1fr 1fr}}"
+           ".hb-card{display:block;padding:18px 18px 16px;border-radius:16px;text-decoration:none;color:var(--text);background:var(--card);border:1px solid var(--border);border-left:4px solid var(--accent);transition:border-color .15s}"
+           ".hb-card:hover{border-color:var(--accent)}.hb-card small{display:block;font-size:12px;font-weight:700;letter-spacing:.06em;color:var(--accent)}"
+           ".hb-card b{display:block;font-size:18px;margin:4px 0 6px}.hb-card span{display:block;font-size:14px;line-height:1.7;color:var(--muted)}.hb-card em{display:inline-block;margin-top:10px;font-style:normal;font-size:14px;font-weight:700;color:var(--link)}"
+           ".hb-more{list-style:none;margin:12px 0 0;padding:0}.hb-more li{font-size:14px;color:var(--muted);padding:8px 2px}.hb-more a{color:var(--link);font-weight:700}")
+
+
+def hub_page():
+    secs = ""
+    items = []
+    for sid, h, cards, more in HUB:
+        cs = "".join(f'<a class="hb-card" href="{p}"><small>{E(k)}</small><b>{E(n)}</b><span>{E(d)}</span><em>使ってみる ›</em></a>' for k, n, d, p in cards)
+        ms = "".join(f'<li>{E(k)}：<a href="{p}">{E(n)}</a></li>' for k, n, p in more)
+        secs += f'<section class="hb-sec" id="{sid}"><h2>{E(h)}</h2><div class="hb-cards{" two" if len(cards) > 1 else ""}">{cs}</div>' + (f'<ul class="hb-more">{ms}</ul>' if ms else "") + '</section>'
+        items += [(n, p) for _, n, _, p in cards] + [(n, p) for _, n, p in more]
+    desc = "脈ありチェック、冷めたサインチェック、危険な相手のサイン チェックリスト、しぐさ索引など、しぐさと本音の無料ツールと研究データを、知りたいことから選べます。登録不要・入力は送信しません。"
+    ld = json.dumps({"@context": "https://schema.org", "@type": "CollectionPage", "name": "ツールとデータ", "url": URL + "tools/", "description": desc, "publisher": PUB,
+                     "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": n, "url": URL + p.strip("/") + "/"} for i, (n, p) in enumerate(items)]}},
+                    ensure_ascii=False).replace("</", "<\\/")
+    body = (f'<script type="application/ld+json">{ld}</script>'
+            '<p class="plead">知りたいことに近いものを1つ選んでください。どれも無料・登録不要で、入力した内容はどこにも送りません。</p>'
+            + secs +
+            '<p class="note" style="margin-top:34px">いま身の危険があるときは、ツールより先に<a href="tel:110">110番</a>へ。判断に迷う段階でも、DV相談ナビ（<a href="tel:%238008">#8008</a>）に相談できます。</p>')
+    return {"path": "tools", "title": "ツールとデータ", "date": "2026-10-08", "desc": desc[:120],
+            "seo_title": "恋愛・しぐさの無料ツールと研究データ｜脈あり・冷めた・危険な相手のチェック", "body": body, "css": CSS + HUB_CSS}
+
 def pages(D, posts):
-    return [redflag_page(posts), myakuari_page(D, posts), uso_page(D, posts), sameta_page(posts), nikki_page(posts), tsusetsu_page(posts)]
+    return [redflag_page(posts), myakuari_page(D, posts), uso_page(D, posts), sameta_page(posts), nikki_page(posts), tsusetsu_page(posts), hub_page()]
 
 
 # 関連する記事の本文に、ツールへの「次の一歩」を差し込む（出典の直前。再実行しても1つだけになるよう置き換える）

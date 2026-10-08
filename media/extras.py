@@ -53,7 +53,7 @@ def _page(cfg, theme, favicon, css, rel, title, desc, body, graph, trail, extra_
   <p style="font-size:12px;color:var(--muted);margin:0 0 16px">{bc}</p>
 {body}
 </main>
-<footer><p><a href="/about/">このメディアについて</a> | <a href="/sources/">出典と検証の方法</a> | <a href="/disclaimer/">免責事項</a>{"".join(f' | <a href="{n["path"]}">{E(n["label"])}</a>' for n in cfg.get("extraNav", []))} | <a href="https://seadice.win/">SEADICE</a> | &copy; SEADICE</p></footer>
+<footer><p><a href="/about/">このメディアについて</a> | <a href="/sources/">出典と検証の方法</a> | <a href="/disclaimer/">免責事項</a>{"".join(f' | <a href="{n["path"]}">{E(n["label"])}</a>' for n in cfg.get("footerNav", cfg.get("extraNav", [])))} | <a href="https://seadice.win/">SEADICE</a> | &copy; SEADICE</p></footer>
 </body>
 </html>
 '''

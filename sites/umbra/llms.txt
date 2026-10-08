@@ -207,7 +207,8 @@
 - このメディアについて: https://umbra.seadice.win/about/
 - 出典と検証の方法: https://umbra.seadice.win/sources/
 - 免責事項: https://umbra.seadice.win/disclaimer/
-- マインドマップ: https://umbra.seadice.win/map/
+- ツールとデータ: https://umbra.seadice.win/tools/
+- 記事のマインドマップ: https://umbra.seadice.win/map/
 - しぐさ索引・クイズ: https://umbra.seadice.win/shigusa/
 - 危険な相手のサイン チェック: https://umbra.seadice.win/redflag-check/
 - ふたりの日記: https://umbra.seadice.win/nikki/
