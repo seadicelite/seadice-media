@@ -1,8 +1,9 @@
-"""ふたりの日記（関係の記録のサンプル版）を sites/umbra/kiroku-sample/index.html に書き出す。アプリ化の判断用の試作。
+"""ふたりの日記の本体を sites/umbra/memo/index.html に書き出す（説明ページは umbra_tools.nikki_page の /nikki/）。
 
-  python3 media/umbra_kiroku_sample.py
+  python3 media/umbra_memo.py
 
-- 検索に出さない（noindex）。sitemap・llms.txt・ナビには載せない（extras を通さず単体のHTMLとして書く）
+- 本体は検索に出さない（noindex）。タブ・履歴に残る名前を「メモ」にするため、検索の入口は説明ページ /nikki/ に分ける
+  sitemap・llms.txt・ナビには載せない（extras を通さず単体のHTMLとして書く）
 - 気分（4段階）を1タップで残し、あったことは短い言葉のボタンで選ぶ。気になる項目は危険な相手のサイン チェックリスト（umbra_tools.REDFLAG）と同じで、
   同じ項目が30日に3回以上あったときだけ、記事の結論をやさしく添える
 - 記録はこの端末のブラウザ（localStorage）にだけ保存し、どこにも送らない
@@ -106,7 +107,7 @@ button:focus-visible,a:focus-visible,textarea:focus-visible{{outline:2px solid v
 <button type="button" class="btn sub" id="copy">記録を文章でコピー（相談するとき用）</button><p class="ok" id="cok" aria-live="polite"></p>
 <p style="font-size:14px;margin-top:12px">相談先</p>{CONTACTS}
 <button type="button" class="btn sub" id="wipe" style="margin-top:20px">すべての記録を消す</button>
-<p class="muted" style="margin-top:12px">サンプル版です。気になることの項目は、<a href="/redflag-check/" style="color:var(--link)">危険な相手のサイン チェックリスト</a>と同じく、出典照合済みの記事にもとづいています。</p>
+<p class="muted" style="margin-top:12px"><a href="/nikki/" style="color:var(--link)">この日記について</a>。気になることの項目は、<a href="/redflag-check/" style="color:var(--link)">危険な相手のサイン チェックリスト</a>と同じく、出典照合済みの記事にもとづいています。</p>
 </details>
 </main>
 <script>(function(){{
@@ -158,7 +159,7 @@ render();
 </body>
 </html>
 """
-out = ROOT / "sites/umbra/kiroku-sample/index.html"
+out = ROOT / "sites/umbra/memo/index.html"
 out.parent.mkdir(exist_ok=True)
 out.write_text(page)
 print("wrote", out)
