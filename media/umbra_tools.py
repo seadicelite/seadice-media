@@ -1,9 +1,10 @@
-"""しぐさと本音のWebツール（/redflag-check/ /myakuari-check/ /uso-check/）。umbra_shigusa.py から呼ばれる。
+"""しぐさと本音のWebツール（/redflag-check/ /myakuari-check/ /uso-check/ /sameta-check/）。umbra_shigusa.py から呼ばれる。
 
   python3 media/umbra_shigusa.py && python3 media/build.py umbra
 
 判定の文言は、出典照合済みの記事の結論だけを使う（AIには判定・アドバイスを書かせない）。入力はブラウザの中だけで判定し、送信・保存しない。
 - 危険な相手のサイン: REDFLAG に項目を足す（記事が増えたら、その記事の結論から1行で）
+- 冷めたサインチェック: SAMETA に項目を足す（REDFLAG と同じく、記事の結論から1〜2文で）
 - 脈ありチェック・嘘のサインチェック: umbra-shigusa.json の like / lie タグの項目から自動で作る（索引に足せばツールにも出る）
 ページの型は docs/quality/tool.md。
 """
@@ -226,8 +227,99 @@ def uso_page(D, posts):
                          how, ex, faq, verdict, after, "相手が嘘をついているかどうかを判定するものではありません。結果は、確かめ方を考えるための手がかりとして使ってください。")
 
 
+# 冷めたサインチェック。(id, グループ, 当てはまること, 記事slug, 段階 a/b/c（""は段階をつけない）, 記事の結論から1〜2文)
+SAMETA = [
+    ("s1", "sns", "連絡の頻度が減った", "contact-frequency-decline-cooling-signal-research", "b",
+     "連絡が減っても冷めたとは限りません。通話記録の研究では、間隔が空いた相手ほど次の通話が長くなる「埋め合わせ」が見られました（恋人に限った研究ではありません）。"),
+    ("s2", "sns", "既読から返信までが遅くなった", "line-reply-speed-research", "c",
+     "返信の速さと好意を直接結びつけた決定的な研究はありません。遠距離のカップルで満足度と結びついていたのは、速さではなく「きちんと応じてくれている」という感覚でした。"),
+    ("s3", "sns", "自分のSNSやストーリーを見てくれなくなった", "story-view-avoidance-interest-concealment-research", "b",
+     "見られているかもしれないという意識が、SNSでの振る舞いを慎重にさせることは報告されています。ただストーリーを見ない行動そのものを調べた研究は見当たらず、無関心の証拠とは言えません。"),
+    ("s4", "sns", "説明なしに、連絡が完全に途絶えた", "ghosting-psychological-effects-research", "",
+     "理由がわからず、自分で結末をつけられないことが、つらさの中心にあります。待つ期限を自分で決め、結末を相手任せにしないことが第一歩です。"),
+    ("d1", "date", "デート中の沈黙が増えた", "silence-during-dates-liking-research", "c",
+     "沈黙を気まずく感じるのは多くの人に共通する反応です。会話のあと、相手はこちらが思うよりも自分に好意を持っていることが多いとわかっています。"),
+    ("d2", "date", "会うとそっけない・避けられている気がする", "pulling-away-liking-ambivalence-research", "b",
+     "冷めたとは限りません。対人関係に不安を感じやすい人ほど、同じ相手に「近づきたい」気持ちと「離れたい」気持ちを同時に抱くことが確認されています。"),
+    ("d3", "date", "付き合い（結婚）が長くなり、前より満足感が下がった", "marriage-satisfaction-u-curve-myth-research", "b",
+     "長期の追跡調査では、満足度は平均して年数とともに下がりますが、推移は夫婦によって大きく異なります。「待てば戻る」とは言えず、個別の要因に目を向ける方が現実的です。"),
+    ("k1", "core", "話をしても、わかってもらえた感じがしない", "partner-responsiveness-research", "a",
+     "相手に「理解され、大切にされ、認められている」と感じている人ほど、関係の満足感が高いことが確認されています。いつも否定されたり、話をすり替えられたりするなら注意が必要です。"),
+    ("k2", "core", "うれしい話をしても、一緒に喜んでくれなくなった", "partner-responsiveness-research", "a",
+     "良い出来事を話したとき、相手が熱心に喜んでくれる関係ほど、親密さや毎日の満足感が高い傾向がありました。"),
+    ("k3", "core", "「ありがとう」を言わなくなった・言われなくなった", "gratitude-relationship-maintenance-research", "a",
+     "カップルを毎日調べた研究では、相手に感謝を感じた翌日、関係のつながりや満足感が高まっていました。感謝を伝えることは、数か月後の関係の質も予測していました。"),
+    ("k4", "core", "喧嘩になると、怒鳴る・侮辱する・昔のことを持ち出す", "fight-style-relationship-research", "a",
+     "夫婦を16年追った研究では、結婚1年目に夫がこうした行動を多く報告した夫婦ほど、離婚率が高くなっていました。喧嘩の回数より、喧嘩の中で出る行動が手がかりです。"),
+    ("k5", "core", "喧嘩中に黙り込む・話し合いから去る", "stonewalling-conflict-withdrawal-warning-sign", "b",
+     "心拍数が上がりすぎて頭が働かなくなっている可能性があります。1回で決めず、よくあるパターンか、話し合いに戻れるかを見ます。"),
+    ("m1", "self", "既読や返信が気になって、何度も確認してしまう", "reply-anxiety-attachment-jealousy-research", "",
+     "不安を感じやすい傾向の人は、連絡の間が空くこと自体を「見捨てられるサイン」と感じやすいとされています。相手の気持ちのサインというより、自分の側の反応として理解すると対処しやすくなります。"),
+    ("m2", "self", "言わなくても察してほしいのに、わかってくれない", "mind-reading-expectation-mismatch-research", "",
+     "「察して当然」という期待が強い人ほど、わかってもらえなかったとき「愛情がないから」と結びつけやすいことがわかっています。察してもらうより先に、言葉で伝えることから始めます。"),
+]
+SAMETA_GROUPS = [("sns", "連絡・SNSの変化"), ("date", "会っているとき・付き合いの長さ"), ("core", "話したとき・喧嘩のときの様子"), ("self", "自分の気持ち")]
+
+
+def sameta_page(posts):
+    for _, _, _, s, _, _ in SAMETA:
+        assert s in posts, s
+    boxes = ""
+    for g, gl in SAMETA_GROUPS:
+        boxes += f"<h2>{E(gl)}</h2>" + "".join(f'<label><input type="checkbox" name="sm" value="{i}">{E(t)}</label>' for i, gg, t, _, _, _ in SAMETA if gg == g)
+    data = {i: {"g": g, "t": t, "s": s, "l": l, "n": n, "title": posts[s]["title"]} for i, g, t, s, l, n in SAMETA}
+    cnt = {k: sum(1 for x in SAMETA if x[4] == k) for k in "abc"}
+    faq = [
+        ("連絡の頻度が減ったら、冷めたサインですか？", "単独のサインとしては弱いです。通話記録の研究では、連絡の間隔が空いた相手ほど次の通話が長くなる「埋め合わせ」の傾向も確認されています（恋人同士に限った分析ではありません）。頻度だけで判断せず、会話の中身もあわせて見ます。"),
+        ("相手の気持ちが冷めたかどうかは、何を見ればわかりますか？", "研究で関係の満足感や別れのリスクと結びついていたのは、連絡の量や返信の速さより、話をしたときにわかってもらえると感じるか、感謝を伝え合っているか、喧嘩で怒鳴る・侮辱するなどの行動が出るかでした。それでも、相手の気持ちは言葉で確かめる方が確実です。"),
+        ("付き合いが長くなれば、満足感が下がるのは自然ですか？待てば戻りますか？", "同じ夫婦を17年追った調査では、満足度は平均して年数とともに下がりましたが、推移は夫婦によって大きく異なりました。後半に自然と上向くという証拠は得られておらず、「待てば戻る」とは言えません。"),
+        ("入力した内容はどこかに送られますか？", "送られません。このページの中（お使いのブラウザ）だけで判定し、SEADICEにも外部にも送信・保存しません。"),
+    ]
+    desc = "連絡が減った、返信が遅い、デートで沈黙が増えた。恋人や好きな人の変化を選ぶと、それぞれ研究で「冷めた」の手がかりになるのかと、今日からできることを表示します。14項目。無料・登録不要・入力は送信しません。"
+    how = (f'<li>相手の変化を、しぐさ判定と同じ3段階（手がかりになる {cnt["a"]}／状況しだい {cnt["b"]}／当てにならない {cnt["c"]}）で分けて表示します。「手がかりになる」は、研究で関係の満足感や別れのリスクと結びついていたものです。</li>'
+           '<li>連絡が途絶えた・自分の気持ちの項目は段階をつけず、記事の結論と、今日からできることを表示します。</li>'
+           '<li>いくつ選んでも「冷めている」とは判定しません。点数や「冷め度◯%」も出しません。判定文は、出典照合済みの記事の結論だけです。</li>')
+    ex = [("「連絡の頻度が減った」「返信が遅くなった」", "状況しだい・当てにならないサイン。これだけでは冷めたとは言えない"),
+          ("「わかってもらえた感じがしない」「ありがとうを言わなくなった」", "関係の満足感と結びつく手がかりが2つ。冷めたと決めつける前に、自分の気持ちを言葉で伝える段階"),
+          ("「喧嘩で怒鳴る・侮辱する」", "別れのリスクと結びつく手がかり。続くときは危険な相手のサイン チェックリストと相談先も表示"),
+          ("「説明なしに連絡が途絶えた」", "待つ期限を自分で決め、結末を相手任せにしないこと")]
+    arts = []
+    for _, _, _, s, _, _ in SAMETA:
+        if s not in arts:
+            arts.append(s)
+    body = (f'<script type="application/ld+json">{_ld("冷めたサインチェック", URL + "sameta-check/", desc, faq)}</script>'
+            '<p>恋人や好きな人について、最近の変化で当てはまるものを選んでください。それぞれが研究でどこまで「冷めた」の手がかりになるのかと、今日からできることを表示します。入力はこのページの中だけで判定し、どこにも送りません。</p>'
+            f'<form class="tl-box" id="sm" onsubmit="return false">{boxes}<button type="button" class="tl-btn" id="sm-go">結果を見る</button></form>'
+            '<div class="tl-res" id="sm-res" aria-live="polite" hidden></div>'
+            '<p class="answer">連絡が減った・返信が遅いは、それだけでは冷めたサインとは言えません。研究で関係の満足感や別れのリスクと結びついていたのは、話をわかってもらえるか、感謝を伝え合うか、喧嘩のしかたでした。</p>'
+            f'<h2>判定のしかた</h2><ul>{how}</ul>'
+            '<h2>入力例と結果</h2><div class="tl-tw"><table><thead><tr><th scope="col">選んだもの</th><th scope="col">表示される内容</th></tr></thead><tbody>'
+            + "".join(f"<tr><td>{E(a)}</td><td>{E(b)}</td></tr>" for a, b in ex) + '</tbody></table></div>'
+            '<h2>判定のもとにした記事</h2><p>それぞれ、論文などの出典と照合した記事です。</p><ul>'
+            + "".join(f'<li><a href="/{s}/">{E(posts[s]["title"])}</a></li>' for s in arts) + '</ul>'
+            f'<h2>よくある質問</h2>{_faq(faq)}'
+            '<p class="note">相手の気持ちを断定するものではありません。結果は、確かめ方や伝え方を考えるための手がかりとして使ってください。</p>'
+            "<script>(function(){var D=" + json.dumps(data, ensure_ascii=False).replace("</", "<\\/") + ";var LV={a:'手がかりになる',b:'状況しだい',c:'当てにならない'};"
+            "function e(s){return String(s).replace(/[&<>\"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;'}[c]})}"
+            "function card(t,b,a){return '<div class=\"tl-card'+(a?' alert':'')+'\"><h3>'+t+'</h3>'+b+'</div>'}"
+            "function items(ids){return ids.map(function(i){var x=D[i];return '<div class=\"tl-item\"><b>'+(x.l?'<span class=\"lv lv-'+x.l+'\">'+LV[x.l]+'</span>':'')+e(x.t)+'</b>'+e(x.n)+'<br><a href=\"/'+x.s+'/\">記事を読む：'+e(x.title)+'</a></div>'}).join('')}"
+            "document.getElementById('sm-go').onclick=function(){var ids=[].slice.call(document.querySelectorAll('#sm input:checked')).map(function(x){return x.value});"
+            "var A=ids.filter(function(i){return D[i].l=='a'}),B=ids.filter(function(i){return D[i].l=='b'||D[i].l=='c'}).sort(function(x,y){return D[x].l<D[y].l?-1:1}),S=ids.filter(function(i){return D[i].g=='self'}),h='';"
+            "if(ids.indexOf('s4')>=0)h+=card('連絡が途絶えたとき','<p>相手の沈黙を、自分の価値の答えにしないでください。「1週間返事がなければ区切りにする」など、待つ期限を自分で決めます。送るなら、責めずに1通だけにします。</p>'+items(['s4']));"
+            "if(ids.indexOf('k4')>=0)h+=card('怒鳴る・侮辱するが続くときは','<p>話すたびに否定される、怒鳴られる、見下されるなどが続くなら、冷めたかどうかの問題を超えています。<a href=\"/redflag-check/\">危険な相手のサイン チェックリスト</a>で確かめられます。身の安全に不安があるときは、DV相談ナビ（<a href=\"tel:%238008\">#8008</a>）に相談できます。</p>',1);"
+            "if(A.length)h+=card('関係の中身に関わる手がかりが'+A.length+'つあります','<p>研究で関係の満足感や別れのリスクと結びついていたのは、連絡の量や返信の速さより、話をわかってもらえるか、感謝を伝え合うか、喧嘩のしかたでした。冷めたと決めつける前に、「私は〇〇と感じた」と自分の気持ちを言葉で伝えてみてください。</p>'+items(A));"
+            "if(B.length)h+=card('よく言われる「冷めたサイン」が'+B.length+'つあります','<p>これだけでは、冷めたとは言えません。連絡の量や会ったときの様子は、忙しさ・緊張・不安など、気持ち以外の理由でも変わります。</p>'+items(B));"
+            "if(S.length)h+=card('あなた自身の不安も関わっているかもしれません','<p>不安になるのは、性格の弱さではありません。相手の変化を読み解こうとするより、自分が何に不安を感じているかを言葉にする方が、すれ違いを減らせます。</p>'+items(S));"
+            "if(!ids.length)h=card('選ばれた項目はありません','<p>当てはまるものを1つ以上選んでください。</p>');"
+            "else h+=card('今日からできること','<p>1つの変化で決めない。うれしい話をして、相手の反応を見る。してもらった小さなことに、具体的に「ありがとう」と伝える。気になることは、責めずに「私は〇〇と感じた」と言葉で伝える。</p><p><a href=\"/partner-responsiveness-research/\">「わかってくれる人」と長続きするのはなぜか</a>／<a href=\"/fight-style-relationship-research/\">関係が続くかを分ける「喧嘩の型」</a></p>');"
+            "var r=document.getElementById('sm-res');r.innerHTML=h;r.hidden=false;r.scrollIntoView({behavior:'smooth',block:'start'})};})();</script>")
+    return {"path": "sameta-check", "title": "冷めたサインチェック", "date": "2026-10-08",
+            "desc": "連絡が減った・返信が遅い・沈黙が増えた。恋人や好きな人の変化を選ぶと、研究で「冷めた」の手がかりになるのかと今日からできることを表示。入力は送信しません。",
+            "seo_title": "冷めたサインチェック｜連絡が減った・返信が遅いは本当に冷めた？研究で判定", "body": body, "css": CSS}
+
+
 def pages(D, posts):
-    return [redflag_page(posts), myakuari_page(D, posts), uso_page(D, posts)]
+    return [redflag_page(posts), myakuari_page(D, posts), uso_page(D, posts), sameta_page(posts)]
 
 
 # 関連する記事の本文に、ツールへの「次の一歩」を差し込む（出典の直前。再実行しても1つだけになるよう置き換える）
@@ -239,6 +331,8 @@ def link_articles(D):
     for _, _, _, s, _ in REDFLAG:
         if s:
             targets[s] = ("/redflag-check/", "危険な相手のサイン チェックリスト", "当てはまる言動を選ぶと、研究でわかっていることと相談先を表示します。")
+    for _, _, _, s, _, _ in SAMETA:
+        targets.setdefault(s, ("/sameta-check/", "冷めたサインチェック", "相手の変化を選ぶと、研究で「冷めた」の手がかりになるのかと、今日からできることを表示します。"))
     for x in D:
         if "like" in x.get("tags", []) and x["slug"] not in targets:
             targets[x["slug"]] = ("/myakuari-check/", "脈ありチェック", "気になる相手のしぐさを選ぶと、研究でどこまで好意の手がかりになるかを表示します。")

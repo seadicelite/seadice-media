@@ -1593,8 +1593,8 @@
  },
  "friend-isolation-coercive-control-danger-research": {
   "file": "File:A woman looking out the window (Unsplash).jpg",
-  "src": "/img/friend-isolation-coercive-control-danger-research.jpg",
-  "src640": "/img/friend-isolation-coercive-control-danger-research-sm.jpg",
+  "src": "/img/friend-isolation-coercive-control-danger-research.webp",
+  "src640": "/img/friend-isolation-coercive-control-danger-research-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "窓の外を見ている人物のシルエット",
@@ -1603,16 +1603,15 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:A_woman_looking_out_the_window_(Unsplash).jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/A_woman_looking_out_the_window_%28Unsplash%29.jpg/960px-A_woman_looking_out_the_window_%28Unsplash%29.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/A_woman_looking_out_the_window_%28Unsplash%29.jpg/500px-A_woman_looking_out_the_window_%28Unsplash%29.jpg",
-  "og": "https://umbra.seadice.win/img/friend-isolation-coercive-control-danger-research.jpg",
+  "og": "https://umbra.seadice.win/img/friend-isolation-coercive-control-danger-research-og.jpg",
   "local": true
  },
  "pulling-away-liking-ambivalence-research": {
   "file": "File:Long-distance path junction, Garadbhan Forest - geograph.org.uk - 5833714.jpg",
-  "src": "/img/pulling-away-liking-ambivalence-research.jpg",
-  "src640": "/img/pulling-away-liking-ambivalence-research-sm.jpg",
+  "src": "/img/pulling-away-liking-ambivalence-research.webp",
+  "src640": "/img/pulling-away-liking-ambivalence-research-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "森の中に続く小道",
@@ -1621,10 +1620,9 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Long-distance_path_junction,_Garadbhan_Forest_-_geograph.org.uk_-_5833714.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Long-distance_path_junction%2C_Garadbhan_Forest_-_geograph.org.uk_-_5833714.jpg/960px-Long-distance_path_junction%2C_Garadbhan_Forest_-_geograph.org.uk_-_5833714.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Long-distance_path_junction%2C_Garadbhan_Forest_-_geograph.org.uk_-_5833714.jpg/500px-Long-distance_path_junction%2C_Garadbhan_Forest_-_geograph.org.uk_-_5833714.jpg",
-  "og": "https://umbra.seadice.win/img/pulling-away-liking-ambivalence-research.jpg",
+  "og": "https://umbra.seadice.win/img/pulling-away-liking-ambivalence-research-og.jpg",
   "local": true
  }
 }
