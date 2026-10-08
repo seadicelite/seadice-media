@@ -208,6 +208,7 @@
 - 出典と検証の方法: https://umbra.seadice.win/sources/
 - 免責事項: https://umbra.seadice.win/disclaimer/
 - ツールとデータ: https://umbra.seadice.win/tools/
+- 本当？ウソ？クイズ: https://umbra.seadice.win/quiz/
 - 記事のマインドマップ: https://umbra.seadice.win/map/
 - しぐさ索引・クイズ: https://umbra.seadice.win/shigusa/
 - 危険な相手のサイン チェック: https://umbra.seadice.win/redflag-check/

@@ -436,6 +436,72 @@ def tsusetsu_page(posts):
             "desc": f"運命の人・年の差・同棲・遠距離・浮気は繰り返す？恋愛・結婚の通説{N}個を論文で判定。研究で支持されたのは{c['a']}個、支持されないのは{c['c']}個。SEADICE調べ。",
             "seo_title": f"恋愛・結婚の通説{N}個を研究で判定｜運命の人・年の差・同棲・遠距離は本当？【SEADICE調べ】", "body": body, "css": CSS + TS_CSS}
 
+# 本当？ウソ？クイズ（/quiz/）。しぐさ索引の判定と TSUSETSU から自動で問題を作る（判定や記事が増えると問題も増える）。
+# 答えは3択（本当=a / 条件しだい=b / ウソ=c）。1回10問を a2・b4・c4 で混ぜる（「条件しだい」ばかりにならないように）。
+QZ_LABEL = {"a": "本当", "b": "条件しだい", "c": "ウソ"}
+QZ_CSS = ("#qz{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:22px 18px;margin:18px 0 8px}"
+          ".qz-n{font-size:13px;color:var(--muted)}.qz-k{display:inline-block;font-size:12px;font-weight:700;color:var(--accent);margin-top:12px}"
+          ".qz-q{font-size:20px;font-weight:800;line-height:1.6;margin:4px 0 4px}.qz-b{font-size:15px;color:var(--muted);margin-bottom:14px}"
+          ".qz-c{display:grid;gap:10px}.qz-c button{font:inherit;font-size:17px;font-weight:700;padding:15px 14px;border-radius:14px;border:1px solid var(--border);background:rgba(255,255,255,.04);color:var(--text);cursor:pointer;text-align:center}"
+          ".qz-c button:hover:not(:disabled){border-color:var(--accent)}.qz-c button.right{background:#3FB98A;color:#0F0B16;border-color:#3FB98A}.qz-c button.wrong{background:#5C5470;color:#ECE7F2}"
+          ".qz-r{margin-top:14px}.qz-r .res{font-size:17px;font-weight:800}.qz-r p{font-size:15px;line-height:1.8;margin:6px 0}.qz-r a{color:var(--link)}"
+          ".qz-go{display:block;width:100%;margin-top:14px;padding:14px;border:0;border-radius:12px;background:var(--accent);color:var(--bg);font:inherit;font-size:16px;font-weight:800;cursor:pointer}"
+          ".qz-go.sub{background:none;color:var(--link);border:1px solid var(--border)}#qz .qz-score{font-size:32px;font-weight:900;line-height:1.3;margin:6px 0}#qz .qz-q{font-size:21px;font-weight:800;line-height:1.6}#qz .qz-msg{font-size:13px;color:var(--muted);margin-top:10px}")
+
+
+def quiz_page(D, posts):
+    qs = []
+    for x in D:
+        qs.append({"k": "しぐさ", "q": x["gesture"], "b": "よく言われる意味：" + x["belief"], "a": x["level"], "e": x["text"], "s": x["slug"], "t": posts[x["slug"]]["title"]})
+    for m, lv, n, s in TSUSETSU:
+        qs.append({"k": "恋愛・結婚の通説", "q": m, "b": "", "a": lv, "e": n, "s": s, "t": posts[s]["title"]})
+    N = len(qs)
+    c = {k: sum(1 for x in qs if x["a"] == k) for k in "abc"}
+    faq = [
+        ("このクイズの答えは、どうやって決めていますか？", f"しぐさと本音が論文などの出典と照合した記事の結論をもとに、「本当（研究で傾向が確認されている）」「条件しだい」「ウソ（研究では支持されない）」の3段階で判定したものです。全{N}問のうち、本当は{c['a']}問、条件しだいは{c['b']}問、ウソは{c['c']}問です。"),
+        ("「嘘をつくと目をそらす」は本当ですか？", "研究では支持されていません。目をそらすのは緊張や考えごとでも起こり、嘘の手がかりにはなりません。人が嘘を見抜ける正解率は平均で約54%でした。"),
+        ("恋愛の通説で、研究で支持されているものはありますか？", "話をわかってもらえると感じる相手と長続きする、「ありがとう」を伝え合う関係は長続きする、などは研究で傾向が確認されています。一方、「運命の人を信じるとうまくいく」「遠距離恋愛はうまくいかない」は支持されていません。"),
+        ("結果は保存・送信されますか？", "されません。クイズはこのページの中だけで動き、答えも点数もSEADICEに送りません。「結果を共有」を押したときだけ、点数とこのページのURLを、あなたが選んだアプリに渡します。"),
+    ]
+    desc = f"「嘘をつくと目をそらす」「遠距離恋愛はうまくいかない」は本当？しぐさと恋愛の通説{N}問を、論文で確かめた答えで出題する3択クイズ。1回10問、解説と出典つき。無料・登録不要。"
+    ex = [("「わざと目を合わせ続ける」は「正直で信頼できる」サイン？", "ウソ。研究では、嘘をついている人の方が長く目を合わせていた"),
+          ("「しぐさや姿勢が似てくる」のは好意のサイン？", "本当。研究で傾向が確認されている手がかり"),
+          ("「結婚前に同棲すると離婚しやすい」", "条件しだい。婚約前の同棲では傾向があったが、近年の世代ではほとんど見られない")]
+    body = (f'<script type="application/ld+json">{_ld("本当？ウソ？恋愛としぐさの通説クイズ", URL + "quiz/", desc, faq)}</script>'
+            f'<p>よく言われるしぐさの意味や恋愛の通説は、研究で確かめると本当なのか。全{N}問から10問を出題します。答えは「本当・条件しだい・ウソ」の3つから選ぶだけです。</p>'
+            '<div id="qz" aria-live="polite"><noscript><p>クイズを遊ぶにはJavaScriptを有効にしてください。下の「出題例」で答えの一部を読めます。</p></noscript></div>'
+            f'<p class="answer">しぐさと恋愛の通説{N}個のうち、研究で「本当」と言えたのは{c["a"]}個だけでした。{c["c"]}個は研究では支持されず、残りは条件しだいです。</p>'
+            '<h2>答えの決め方</h2><ul>'
+            f'<li>答えは、<a href="/shigusa/hantei/">しぐさ判定の集計</a>と<a href="/renai-tsusetsu/">恋愛・結婚の通説の判定</a>と同じ3段階です。どれも、論文などの出典と照合した記事の結論にもとづいています。</li>'
+            '<li>「本当」は研究で傾向が確認されているもの、「条件しだい」は場面や聞き方で結果が変わるもの、「ウソ」は研究で通説が支持されていないものです。</li>'
+            '<li>1回10問は、「本当」2問・「条件しだい」4問・「ウソ」4問の組み合わせで、毎回ちがう問題が出ます。</li></ul>'
+            '<h2>出題例</h2><div class="tl-tw"><table><thead><tr><th scope="col">問題</th><th scope="col">答え</th></tr></thead><tbody>'
+            + "".join(f"<tr><td>{E(a)}</td><td>{E(b)}</td></tr>" for a, b in ex) + '</tbody></table></div>'
+            f'<h2>よくある質問</h2>{_faq(faq)}'
+            '<p class="note">クイズは、通説と研究のズレを知るためのものです。特定の人の気持ちや関係を判定するものではありません。</p>'
+            "<script>(function(){var Q=" + json.dumps(qs, ensure_ascii=False).replace("</", "<\\/") + ",L={a:'本当',b:'条件しだい',c:'ウソ'},box=document.getElementById('qz'),order,i,score;"
+            "function esc(s){return String(s).replace(/[&<>\"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;'}[c]})}"
+            "function sh(a){a=a.slice();for(var j=a.length-1;j>0;j--){var k=Math.floor(Math.random()*(j+1)),t=a[j];a[j]=a[k];a[k]=t}return a}"
+            "function pick(k,n){return sh(Q.filter(function(x){return x.a==k})).slice(0,n)}"
+            "function start(){order=sh(pick('a',2).concat(pick('b',4),pick('c',4)));i=0;score=0;show()}"
+            "function show(){if(i>=order.length)return end();var x=order[i];"
+            "box.innerHTML='<p class=\"qz-n\">第'+(i+1)+'問 / 全'+order.length+'問</p><span class=\"qz-k\">'+esc(x.k)+'</span><p class=\"qz-q\">「'+esc(x.q)+'」</p>'+(x.b?'<p class=\"qz-b\">'+esc(x.b)+'</p>':'<p class=\"qz-b\">研究で確かめると？</p>')+'<div class=\"qz-c\">'+['a','b','c'].map(function(k){return '<button type=\"button\" data-k=\"'+k+'\">'+L[k]+'</button>'}).join('')+'</div><div class=\"qz-r\"></div>';"
+            "[].forEach.call(box.querySelectorAll('.qz-c button'),function(b){b.onclick=function(){var ok=b.dataset.k==x.a;if(ok)score++;"
+            "[].forEach.call(box.querySelectorAll('.qz-c button'),function(e){e.disabled=true;if(e.dataset.k==x.a){e.classList.add('right');e.textContent='答え：'+L[x.a]}else if(e===b)e.classList.add('wrong')});"
+            "box.querySelector('.qz-r').innerHTML='<p class=\"res\">'+(ok?'正解です':'不正解です')+'</p><p>'+esc(x.e)+'</p><p><a href=\"/'+x.s+'/\">記事を読む：'+esc(x.t)+'</a></p><button type=\"button\" class=\"qz-go\">'+(i+1<order.length?'次の問題へ':'結果を見る')+'</button>';"
+            "var n=box.querySelector('.qz-go');n.onclick=function(){i++;show();box.scrollIntoView({block:'start'})};n.focus()}})}"
+            "function end(){var m=score>=8?'通説と研究のズレを、よく見抜いています。':score>=5?'通説と研究のズレに、気づき始めています。':'よく言われる通説には、研究では支持されないものが多いのです。';"
+            "var txt='本当？ウソ？恋愛としぐさの通説クイズ 10問中'+score+'問正解でした';"
+            "box.innerHTML='<p class=\"qz-n\">結果</p><p class=\"qz-score\">10問中 '+score+'問 正解</p><p>'+m+'</p><button type=\"button\" class=\"qz-go\" id=\"qz-sh\">結果を共有</button><button type=\"button\" class=\"qz-go sub\" id=\"qz-again\">別の10問に挑戦する</button>'"
+            "+'<p class=\"qz-msg\">共有するのは点数とこのページのURLだけです。もっと難しい問題は、<a href=\"/shigusa/#quiz\">研究の4択クイズ（上級編）</a>へ。</p>';"
+            "document.getElementById('qz-again').onclick=function(){start();box.scrollIntoView({block:'start'})};"
+            "var s=document.getElementById('qz-sh');s.onclick=function(){var u=location.origin+location.pathname;"
+            "if(navigator.share){navigator.share({text:txt,url:u}).catch(function(){})}"
+            "else if(navigator.clipboard){navigator.clipboard.writeText(txt+' '+u).then(function(){s.textContent='コピーしました'},function(){s.textContent='コピーできませんでした'})}};s.focus()}"
+            "start()})();</script>")
+    return {"path": "quiz", "title": "本当？ウソ？恋愛としぐさの通説クイズ", "date": "2026-10-08", "desc": desc[:120],
+            "seo_title": f"恋愛・しぐさの心理学クイズ｜本当？ウソ？通説{N}問を研究で判定", "body": body, "css": CSS + QZ_CSS}
+
 # ツールとデータの一覧（/tools/）。迷わせないよう、目的ごとに「まずはこれ」を大きく1〜2枚、ほかは小さな文字リンクにする。
 # (id, 見出し, 大きく出すカード[(上の小見出し, 名前, 説明, path)], 小さく出すリンク[(前置き, 名前, path)])
 HUB = [
@@ -447,7 +513,8 @@ HUB = [
      [("まずはここから", "危険な相手のサイン チェックリスト", "束縛・モラハラ・ガスライティングなど、当てはまる言動を選ぶと、研究でわかっていることと相談先を表示します。", "/redflag-check/")],
      [("出来事を記録しておきたいときは", "ふたりの日記", "/nikki/")]),
     ("data", "研究データで調べたい",
-     [("まずはここから", "しぐさ索引・4択クイズ", "目をそらす、腕を組むなど、しぐさの意味を研究で判定した一覧です。クイズで確かめることもできます。", "/shigusa/")],
+     [("楽しく確かめるなら", "本当？ウソ？クイズ", "「嘘をつくと目をそらす」「遠距離恋愛はうまくいかない」は本当？しぐさと恋愛の通説を、研究で確かめた答えで出題します。", "/quiz/"),
+      ("1つずつ調べるなら", "しぐさ索引", "目をそらす、腕を組むなど、気になったしぐさの意味を、研究で判定した一覧から調べられます。", "/shigusa/")],
      [("判定を数えた結果は", "しぐさ判定の集計", "/shigusa/hantei/"), ("恋愛・結婚の通説は", "恋愛・結婚の通説の判定", "/renai-tsusetsu/"),
       ("言葉の意味は", "用語集", "/glossary/"), ("記事の全体像は", "記事のマインドマップ", "/map/")]),
 ]
@@ -479,7 +546,7 @@ def hub_page():
             "seo_title": "恋愛・しぐさの無料ツールと研究データ｜脈あり・冷めた・危険な相手のチェック", "body": body, "css": CSS + HUB_CSS}
 
 def pages(D, posts):
-    return [redflag_page(posts), myakuari_page(D, posts), uso_page(D, posts), sameta_page(posts), nikki_page(posts), tsusetsu_page(posts), hub_page()]
+    return [redflag_page(posts), myakuari_page(D, posts), uso_page(D, posts), sameta_page(posts), nikki_page(posts), tsusetsu_page(posts), quiz_page(D, posts), hub_page()]
 
 
 # 関連する記事の本文に、ツールへの「次の一歩」を差し込む（出典の直前。再実行しても1つだけになるよう置き換える）

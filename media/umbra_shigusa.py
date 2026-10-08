@@ -139,7 +139,7 @@ function dres(ok){{dl.querySelector('.dr').innerHTML='<p class="res">'+(ok?'正�
 choices(dx,document.getElementById('dc'),function(ok,b){{try{{localStorage.setItem(key,b.textContent.replace(/^(正解|あなたの答え)：/,''))}}catch(e){{}}dres(ok)}});
 if(prev){{each('#dc .qb',function(b){{if(b.textContent===prev)b.click()}})}}
 filt();
-if(location.hash){{var tg=document.getElementById(location.hash.slice(1));if(tg&&tg.classList.contains('sg'))tg.scrollIntoView()}}
+if(location.hash==='#quiz'){{tab(2);t2.scrollIntoView()}}else if(location.hash){{var tg=document.getElementById(location.hash.slice(1));if(tg&&tg.classList.contains('sg'))tg.scrollIntoView()}}
 }})();
 </script>"""
 css = (".tabs{display:flex;gap:8px;margin:20px 0 4px;border-bottom:1px solid var(--border)}"
