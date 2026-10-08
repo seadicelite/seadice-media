@@ -3,6 +3,7 @@
 - media/{slug}-guides.json   : 悩み別・年齢別のまとめページ → /guide/ と /guide/{id}/
 - media/{slug}-glossary.json : 用語集 → /glossary/
 - media/{slug}-pages.json    : 手書き本文の固定ページ(例: 印刷用ルール表) → /{path}/
+- media/{slug}-map.json      : 記事マップ(マインドマップ) → /map/ (media/mindmap.py)
 - media/{slug}-audited.json  : 点検済み記事 → 記事の「わかっている度」の横に「出典照合済み」を表示
                                要素は "slug" または {"slug": ..., "date": "YYYY-MM-DD"}
 """
@@ -329,6 +330,9 @@ def apply(cfg, posts, cats, images, types, theme, favicon, css, card):
     urls = guides(cfg, posts, cats, images, types, theme, favicon, css, card)
     urls += glossary(cfg, posts, theme, favicon, css)
     urls += pages(cfg, theme, favicon, css)
+    import mindmap  # 記事マップ /map/ (media/{slug}-map.json があるメディアだけ)
+    urls += mindmap.build(cfg, posts, cats, lambda rel, title, desc, body, graph, trail, extra_css="":
+                          _page(cfg, theme, favicon, css, rel, title, desc, body, graph, trail, extra_css))
     n = badges(cfg)
     term_links(cfg, posts)
     crosslinks(cfg)

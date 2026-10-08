@@ -335,13 +335,20 @@ def write_llms(cfg, posts=()):
               "- 各記事は冒頭に結論、各見出しの直下に結論文、末尾に「よくある質問」と番号付きの出典を置いています。",
               "- 数値や研究結果は、記事末尾の出典(論文・公的機関の資料・報道)で確認できます。", "",
               "## カテゴリ", "", *[cat_line(c) for c in cats], ""]
+    import mindmap
+    brs = mindmap.branches_for_llms(cfg, posts)
     lines += ["## 記事一覧", ""]
     order = {c["name"]: i for i, c in enumerate(cats)}
     for cname in sorted({p["category"] for p in posts}, key=lambda n: order.get(n, 99)):
         lines += [f"### {cname}", ""]
-        for p in sorted((p for p in posts if p["category"] == cname), key=lambda p: p["slug"]):
+        ps = {p["slug"]: p for p in posts if p["category"] == cname}
+        def item(p):
             summ = re.sub(r"\s+", " ", p.get("summary", "")).strip()
-            lines.append(f"- [{p['title']}]({url}{p['slug']}/): {summ}")
+            return f"- [{p['title']}]({url}{p['slug']}/): {summ}"
+        for label, slugs in (brs or {}).get(cname, []):  # 記事マップがあれば「問い」ごとに分ける
+            if slugs:
+                lines += [f"#### {label}", "", *[item(ps.pop(s)) for s in slugs if s in ps], ""]
+        lines += [item(p) for p in sorted(ps.values(), key=lambda p: p["slug"])]
         lines.append("")
     lines += ["## 主要ページ", "",
               f"- トップ: {url}",

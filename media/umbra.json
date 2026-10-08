@@ -116,6 +116,10 @@
   "layout": "magazine",
   "extraNav": [
     {
+      "label": "記事マップ",
+      "path": "/map/"
+    },
+    {
       "label": "しぐさ索引・クイズ",
       "path": "/shigusa/"
     },
