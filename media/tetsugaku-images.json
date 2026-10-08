@@ -918,5 +918,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Castle_of_Vialand_theme_park_in_June_2025.jpg/500px-Castle_of_Vialand_theme_park_in_June_2025.jpg",
   "og": "https://tetsugaku.seadice.win/img/baudrillard-simulacra-og.jpg",
   "local": true
+ },
+ "plato-ring-of-gyges": {
+  "file": "File:Mycenaean gold signet ring depicting a man with a branch approaching a building with a goat behind him intended for sacrifice 1500 BCE NAM Athens.jpg",
+  "src": "/img/plato-ring-of-gyges.jpg",
+  "src640": "/img/plato-ring-of-gyges-sm.jpg",
+  "w": 960,
+  "h": 753,
+  "alt": "古代ギリシャ風の金の指輪",
+  "artist": "Mary Harrsch",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Mycenaean_gold_signet_ring_depicting_a_man_with_a_branch_approaching_a_building_with_a_goat_behind_him_intended_for_sacrifice_1500_BCE_NAM_Athens.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mycenaean_gold_signet_ring_depicting_a_man_with_a_branch_approaching_a_building_with_a_goat_behind_him_intended_for_sacrifice_1500_BCE_NAM_Athens.jpg/960px-Mycenaean_gold_signet_ring_depicting_a_man_with_a_branch_approaching_a_building_with_a_goat_behind_him_intended_for_sacrifice_1500_BCE_NAM_Athens.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mycenaean_gold_signet_ring_depicting_a_man_with_a_branch_approaching_a_building_with_a_goat_behind_him_intended_for_sacrifice_1500_BCE_NAM_Athens.jpg/500px-Mycenaean_gold_signet_ring_depicting_a_man_with_a_branch_approaching_a_building_with_a_goat_behind_him_intended_for_sacrifice_1500_BCE_NAM_Athens.jpg",
+  "og": "https://tetsugaku.seadice.win/img/plato-ring-of-gyges.jpg",
+  "local": true
  }
 }
