@@ -47,5 +47,11 @@
     "name": "ゼロから学ぶ介護福祉士",
     "url": "https://kaigofukushi.seadice.win/",
     "live": true
+  },
+  {
+    "slug": "tetsugaku-nyumon",
+    "name": "ゼロから学ぶ哲学",
+    "url": "https://tetsugaku-nyumon.seadice.win/",
+    "live": false
   }
 ]
