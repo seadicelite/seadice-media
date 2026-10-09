@@ -1225,5 +1225,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg/500px-thumbnail.jpg",
   "og": "https://mentalai.seadice.win/img/ai-reliance-skills-recover.jpg",
   "local": true
+ },
+ "ai-frustration-anger": {
+  "file": "File:Sable Falls Beach and Grand Sable Dunes (1d9d9c22-1a0b-446b-baf0-278b483dbbb5).JPG",
+  "src": "/img/ai-frustration-anger.jpg",
+  "src640": "/img/ai-frustration-anger-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "小石の浜と静かな湖",
+  "artist": "NPS",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Sable_Falls_Beach_and_Grand_Sable_Dunes_(1d9d9c22-1a0b-446b-baf0-278b483dbbb5).JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sable_Falls_Beach_and_Grand_Sable_Dunes_%281d9d9c22-1a0b-446b-baf0-278b483dbbb5%29.JPG/960px-Sable_Falls_Beach_and_Grand_Sable_Dunes_%281d9d9c22-1a0b-446b-baf0-278b483dbbb5%29.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sable_Falls_Beach_and_Grand_Sable_Dunes_%281d9d9c22-1a0b-446b-baf0-278b483dbbb5%29.JPG/500px-Sable_Falls_Beach_and_Grand_Sable_Dunes_%281d9d9c22-1a0b-446b-baf0-278b483dbbb5%29.JPG",
+  "og": "https://mentalai.seadice.win/img/ai-frustration-anger.jpg",
+  "local": true
  }
 }
