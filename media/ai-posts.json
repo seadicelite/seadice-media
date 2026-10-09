@@ -1,5 +1,14 @@
 [
  {
+  "slug": "sns-bot-account-ai-detect",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-09",
+  "title": "SNSの相手がAIかもしれない。ボットのアカウントは見分けられる？研究では、文章や顔写真の印象ではほぼ当てられなかった",
+  "summary": "AIの文章や顔写真を人が見抜けた割合は偶然と同程度。手がかりは作成日やフォロワー数などの記録で、お金と個人情報は渡さないのが基本"
+ },
+ {
   "slug": "deepfake-bullying-student-school-support",
   "category": "子ども・学校",
   "type": "guide",

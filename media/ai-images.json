@@ -1,4 +1,21 @@
 {
+ "sns-bot-account-ai-detect": {
+  "file": "File:Row of mailboxes at dusk (42049316942).jpg",
+  "src": "/img/sns-bot-account-ai-detect.webp",
+  "src640": "/img/sns-bot-account-ai-detect-sm.webp",
+  "w": 960,
+  "h": 540,
+  "alt": "並んだ郵便受け",
+  "artist": "Enoch Leung from Canada",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Row_of_mailboxes_at_dusk_(42049316942).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Row_of_mailboxes_at_dusk_%2842049316942%29.jpg/960px-Row_of_mailboxes_at_dusk_%2842049316942%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Row_of_mailboxes_at_dusk_%2842049316942%29.jpg/500px-Row_of_mailboxes_at_dusk_%2842049316942%29.jpg",
+  "og": "https://ai.seadice.win/img/sns-bot-account-ai-detect-og.jpg",
+  "local": true
+ },
  "election-deepfake-prebunking": {
   "file": "File:Miniature Book, 'The English Lion', In Leather Case With Magnifying Glass (48708075908).jpg",
   "src": "/img/election-deepfake-prebunking.webp",
