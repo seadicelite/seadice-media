@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-homework-report-rules",
+  "category": "子ども・学校",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-09",
+  "title": "レポートや宿題にAIを使ったら不正？国の指針では「そのまま提出」が不適切、使える範囲は授業ごとに決まる",
+  "summary": "文科省はAIの出力をほぼそのまま提出するのを不適切とし、大学では使える範囲を教員が決める。自分の授業のルールの確かめ方も紹介。"
+ },
+ {
   "slug": "ai-hallucination-how-to-check",
   "category": "AIに頼りすぎ",
   "type": "guide",
