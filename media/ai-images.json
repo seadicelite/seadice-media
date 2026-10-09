@@ -270,5 +270,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/JR_East_E232-7001_surveillance_camera.jpg/500px-JR_East_E232-7001_surveillance_camera.jpg",
   "og": "https://ai.seadice.win/img/face-recognition-camera-personal-data-og.jpg",
   "local": true
+ },
+ "ai-scam-victim-self-blame": {
+  "file": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg1NTkwMDYtaW1hZ2Uta3d2dmUyNzIuanBn.jpg",
+  "src": "/img/ai-scam-victim-self-blame.webp",
+  "src640": "/img/ai-scam-victim-self-blame-sm.webp",
+  "w": 960,
+  "h": 638,
+  "alt": "木のテーブルに置かれた白いスケッチブックと鉛筆",
+  "artist": "Unknown",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "page": "https://www.rawpixel.com/image/5908215/image-paper-book-public-domain",
+  "source_label": "Rawpixel",
+  "remote": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg1NTkwMDYtaW1hZ2Uta3d2dmUyNzIuanBn.jpg",
+  "remote640": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg1NTkwMDYtaW1hZ2Uta3d2dmUyNzIuanBn.jpg",
+  "og": "https://ai.seadice.win/img/ai-scam-victim-self-blame-og.jpg",
+  "local": true
  }
 }
