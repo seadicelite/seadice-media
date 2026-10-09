@@ -1,5 +1,14 @@
 [
   {
+    "slug": "ai-edits-writing-confidence",
+    "category": "比べて落ち込む",
+    "type": "guide",
+    "stage": "立て直す",
+    "date": "2026-10-10",
+    "title": "AIに文章を直されるたび、自分の文章が下手に思えて自信がなくなる。148人の12週間の研究では、「うまくなりたい」目標の人ほど添削で書く自信が上がっていた",
+    "summary": "AIの添削で書き直した大学生は書く自信が上がっていた。理由を聞く、前の自分と比べる、自分で直す工夫を整理"
+  },
+  {
     "slug": "ai-companion-loss-grief",
     "category": "AIとの付き合い方",
     "type": "guide",

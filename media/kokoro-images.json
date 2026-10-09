@@ -1484,5 +1484,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Raindrops_on_car_window_in_evening_sun.jpg/500px-Raindrops_on_car_window_in_evening_sun.jpg",
   "og": "https://mentalai.seadice.win/img/ai-companion-loss-grief.jpg",
   "local": true
+ },
+ "ai-edits-writing-confidence": {
+  "file": "File:Papierkanten -- 2020 -- 9535.jpg",
+  "src": "/img/ai-edits-writing-confidence.jpg",
+  "src640": "/img/ai-edits-writing-confidence-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "曲げた紙の縁に当たる、緑の光",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Papierkanten_--_2020_--_9535.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Papierkanten_--_2020_--_9535.jpg/960px-Papierkanten_--_2020_--_9535.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Papierkanten_--_2020_--_9535.jpg/500px-Papierkanten_--_2020_--_9535.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-edits-writing-confidence.jpg",
+  "local": true
  }
 }
