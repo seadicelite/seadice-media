@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>https://mentalai.seadice.win/category/work/</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -584,6 +584,24 @@
   </url>
   <url>
     <loc>https://mentalai.seadice.win/interrupted-focus-return/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mentalai.seadice.win/burnout-recovery/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mentalai.seadice.win/job-change-recover/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mentalai.seadice.win/ai-mistake-bounce-back/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
