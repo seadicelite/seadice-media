@@ -389,5 +389,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Today%27s_a_work_day.jpg/500px-Today%27s_a_work_day.jpg",
   "og": "https://ai.seadice.win/img/deepfake-bullying-student-school-support-og.jpg",
   "local": true
+ },
+ "ai-medical-advice-accuracy": {
+  "file": "File:Replika dan peninggalan dari ruang kerja dr. Soetomo (4).jpg",
+  "src": "/img/ai-medical-advice-accuracy.jpg",
+  "src640": "/img/ai-medical-advice-accuracy-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "薬の瓶と器具が並ぶ白い棚",
+  "artist": "Ulumarifah",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Replika_dan_peninggalan_dari_ruang_kerja_dr._Soetomo_(4).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Replika_dan_peninggalan_dari_ruang_kerja_dr._Soetomo_%284%29.jpg/960px-Replika_dan_peninggalan_dari_ruang_kerja_dr._Soetomo_%284%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Replika_dan_peninggalan_dari_ruang_kerja_dr._Soetomo_%284%29.jpg/500px-Replika_dan_peninggalan_dari_ruang_kerja_dr._Soetomo_%284%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-medical-advice-accuracy.jpg",
+  "local": true
  }
 }
