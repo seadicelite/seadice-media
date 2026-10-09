@@ -223,5 +223,27 @@
         "study-log-progress-monitoring"
       ]
     }
+  ],
+  "apps": [
+    {
+      "id": "active-recall",
+      "name": "おもいだしトレーニング",
+      "appStoreId": "6801937769",
+      "icon": "/img/apps/active-recall.webp",
+      "catch": "覚えたい範囲を入れるか教科書を撮ると、AIが一問一答を作る。何も見ずに答えを書いて、忘れかけた頃に復習日が回ってくる",
+      "hubLead": "アプリの仕組み（思い出す練習と、間をあけた復習）の元になった研究の記事です。なぜ読み返すより思い出す方が残るのかを知ってから使うと、自己評価のつけ方もぶれにくくなります。",
+      "theme": "思い出す練習(テスト効果)・間隔をあけた復習・暗記カード・わかったつもり・ど忘れなど、記憶の定着と想起の記事だけに付ける。計画・スケジュール・習慣化の記事(独学スケジュールメーカーの担当)には付けない",
+      "articles": [
+        "retrieval-practice-vs-rereading",
+        "spaced-review-why-it-works",
+        "illusion-of-knowing-fluency",
+        "flashcards-how-to-use",
+        "english-vocabulary-how-to-memorize",
+        "self-explanation-vs-ai-explanation",
+        "tip-of-the-tongue-forgetting",
+        "pretesting-before-reading",
+        "ai-answers-and-learning"
+      ]
+    }
   ]
 }
