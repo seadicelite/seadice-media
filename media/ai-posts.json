@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-workplace-stress-check-consult",
+  "category": "心の疲れ・比べて落ち込む",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-09",
+  "title": "職場のAI導入でしんどくなる前に。ストレスチェックの結果は本人に届き、社外の相談窓口は無料で使える",
+  "summary": "ストレスチェックの結果の扱い、医師の面接指導、こころの耳と総合労働相談コーナーの使い方を、法律と厚労省の資料で整理"
+ },
+ {
   "slug": "ai-workplace-rollout-stress-prepare",
   "category": "心の疲れ・比べて落ち込む",
   "type": "guide",

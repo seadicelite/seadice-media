@@ -321,5 +321,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sticky_Notes_2.jpg/500px-Sticky_Notes_2.jpg",
   "og": "https://ai.seadice.win/img/ai-workplace-rollout-stress-prepare-og.jpg",
   "local": true
+ },
+ "ai-workplace-stress-check-consult": {
+  "file": "File:Michał Frąckowiak - Wikidot Offices.jpg",
+  "src": "/img/ai-workplace-stress-check-consult.webp",
+  "src640": "/img/ai-workplace-stress-check-consult-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "窓辺の事務机",
+  "artist": "Michał Frąckowiak",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Micha%C5%82_Fr%C4%85ckowiak_-_Wikidot_Offices.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Micha%C5%82_Fr%C4%85ckowiak_-_Wikidot_Offices.jpg/960px-Micha%C5%82_Fr%C4%85ckowiak_-_Wikidot_Offices.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Micha%C5%82_Fr%C4%85ckowiak_-_Wikidot_Offices.jpg/500px-Micha%C5%82_Fr%C4%85ckowiak_-_Wikidot_Offices.jpg",
+  "og": "https://ai.seadice.win/img/ai-workplace-stress-check-consult-og.jpg",
+  "local": true
  }
 }
