@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-hallucination-how-to-check",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-09",
+  "title": "AIの答えが間違っていた。ハルシネーションはどのくらい起きる？割合は質問しだいで大きく変わり、出典を自分で開くのが確かめ方の基本",
+  "summary": "生成AIの誤りの割合は分野や質問で大きく変わる。出典を開く・一次情報で照らす・聞き直すの3つで確かめる。"
+ },
+ {
   "slug": "ai-input-leak-after-report",
   "category": "プライバシー・個人情報",
   "type": "guide",

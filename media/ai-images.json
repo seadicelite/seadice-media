@@ -202,5 +202,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Desktop_after_work_%28Unsplash%29.jpg/500px-Desktop_after_work_%28Unsplash%29.jpg",
   "og": "https://ai.seadice.win/img/ai-input-leak-after-report-og.jpg",
   "local": true
+ },
+ "ai-hallucination-how-to-check": {
+  "file": "File:Books on shelf for the reference section of kwara state Library board.jpg",
+  "src": "/img/ai-hallucination-how-to-check.webp",
+  "src640": "/img/ai-hallucination-how-to-check-sm.webp",
+  "w": 960,
+  "h": 540,
+  "alt": "図書館の本棚に並ぶ本",
+  "artist": "Moyofyg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Books_on_shelf_for_the_reference_section_of_kwara_state_Library_board.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Books_on_shelf_for_the_reference_section_of_kwara_state_Library_board.jpg/960px-Books_on_shelf_for_the_reference_section_of_kwara_state_Library_board.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Books_on_shelf_for_the_reference_section_of_kwara_state_Library_board.jpg/500px-Books_on_shelf_for_the_reference_section_of_kwara_state_Library_board.jpg",
+  "og": "https://ai.seadice.win/img/ai-hallucination-how-to-check-og.jpg",
+  "local": true
  }
 }
