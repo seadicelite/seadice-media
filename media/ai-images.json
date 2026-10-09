@@ -134,5 +134,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Person_writing_in_notebook_while_using_laptop_at_a_modern_workspace.jpg/500px-Person_writing_in_notebook_while_using_laptop_at_a_modern_workspace.jpg",
   "og": "https://ai.seadice.win/img/ai-work-output-check-og.jpg",
   "local": true
+ },
+ "ai-job-loss-first-weeks": {
+  "file": "File:Notebook with pen, August, 2019.jpg",
+  "src": "/img/ai-job-loss-first-weeks.jpg",
+  "src640": "/img/ai-job-loss-first-weeks-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上のノートとペン",
+  "artist": "Phil Slattery",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Notebook_with_pen,_August,_2019.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Notebook_with_pen%2C_August%2C_2019.jpg/960px-Notebook_with_pen%2C_August%2C_2019.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Notebook_with_pen%2C_August%2C_2019.jpg/500px-Notebook_with_pen%2C_August%2C_2019.jpg",
+  "og": "https://ai.seadice.win/img/ai-job-loss-first-weeks.jpg",
+  "local": true
  }
 }
