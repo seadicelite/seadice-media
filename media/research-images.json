@@ -1057,5 +1057,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Top_view_of_headphones_hanging_from_a_desk_%28Unsplash%29.jpg/500px-Top_view_of_headphones_hanging_from_a_desk_%28Unsplash%29.jpg",
   "og": "https://research.seadice.win/img/sensory-overload-self-care-research-og.jpg",
   "local": true
+ },
+ "all-or-nothing-diet-slip-research": {
+  "file": "https://live.staticflickr.com/65535/54537172958_dc4e9ba90c_b.jpg",
+  "src": "/img/all-or-nothing-diet-slip-research.webp",
+  "src640": "/img/all-or-nothing-diet-slip-research-sm.webp",
+  "w": 960,
+  "h": 641,
+  "alt": "新鮮な野菜や果物を並べて食事を計画している様子",
+  "artist": "nenadstojkovicart",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "page": "https://www.flickr.com/photos/202846129@N03/54537172958",
+  "source_label": "Flickr",
+  "remote": "https://live.staticflickr.com/65535/54537172958_dc4e9ba90c_b.jpg",
+  "remote640": "https://live.staticflickr.com/65535/54537172958_dc4e9ba90c_b.jpg",
+  "og": "https://research.seadice.win/img/all-or-nothing-diet-slip-research-og.jpg",
+  "local": true
  }
 }
