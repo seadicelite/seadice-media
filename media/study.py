@@ -75,7 +75,9 @@
   設定 quizName（例: 犯罪学クイズ）、quizRanks（成績の称号4段階）。間違えた記録は study.js と共通（同じ問題id）。
   進み具合（読み終えたボタン・確認問題を解き終えたら既読、講座ページとトップに既読と「続きから読む」）、
   確認問題の正誤と解説・間違えた問題の記録、/review/（間違えた問題だけを解き直す）、/cards/（用語の暗記カード、ライトナー方式）。
-  JSが無効でも本文は読め、確認問題は <details> で答えを見られる。"""
+  JSが無効でも本文は読め、確認問題は <details> で答えを見られる。
+わたしの学習（/me/、me.js）: 進み具合・連続日数・間違えた問題・覚えた用語・章ごとの進み具合とテストのベストを1ページで見せる。
+  記録（localStorage の study:{slug} と check:{slug}:*）をJSONファイルに書き出し・読み込み（置き換え）・消去できる。登録なし・送信なし。"""
 import base64, html, json, re, shutil, sys, tempfile
 from pathlib import Path
 
@@ -217,6 +219,11 @@ footer.site{border-top:1px solid var(--line);padding:28px 16px;text-align:center
 .g-miss{list-style:none;display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:10px 0 0}.g-miss a{display:inline-block;font-size:14px;border:1px solid var(--line);border-radius:999px;padding:6px 12px;text-decoration:none}.g-res .btns{justify-content:center;margin:20px 0 0}.g-res .g-share{margin:10px 0 0}
 @keyframes g-pop{0%%{transform:scale(.7);opacity:0}70%%{transform:scale(1.08)}100%%{transform:scale(1);opacity:1}}@keyframes g-shake{25%%{transform:translateX(-5px)}75%%{transform:translateX(5px)}}
 @media(prefers-reduced-motion:reduce){.g-ok,.g-pop,.g-rank,.g-ch.ng{animation:none}.g-mode,.g-chb{transition:none}}
+.me-st{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:0 0 24px}@media(min-width:680px){.me-st{grid-template-columns:repeat(4,1fr)}}
+.me-st div{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:12px 14px}.me-st small{display:block;font-size:12px;font-weight:700;color:var(--muted)}.me-st b{display:block;font-size:24px;font-weight:800;line-height:1.3;font-variant-numeric:tabular-nums}.me-st em{display:block;font-style:normal;font-size:12px;color:var(--muted)}
+.me-row .me-bar{display:block;height:8px;border-radius:4px;background:var(--line);margin:10px 0 2px;overflow:hidden}.me-row .me-bar i{display:block;height:100%%;width:0;background:var(--ok)}.me-row .me-n{font-size:13px;color:var(--muted);margin:0}
+.me-row details{margin:8px 0 0;background:var(--bg)}.me-row summary{font-size:14px;padding:8px 14px}.me-row details ol.lessons{padding:0 12px 6px}.me-row p{margin:8px 0 0;font-size:14px;font-weight:700}.me-row .me-q{font-size:13px;font-weight:700;color:var(--ok);margin:4px 0 0}.me-row .me-q:empty{display:none}
+.me-file{position:absolute;width:1px;height:1px;opacity:0}.me-msg{font-weight:700;color:var(--ok)}.me-msg:empty{display:none}
 [hidden]{display:none!important}"""
 
 
@@ -274,7 +281,7 @@ if(S.st){var g=today()-S.st.d,dt=new Date(S.st.d*864e5),ds=(dt.getUTCMonth()+1)+
 h+='<p class="streak">'+(g===0?'今日も学びました。連続 '+S.st.n+'日です。':g===1?'最後に学んだ日: '+ds+'（連続 '+S.st.n+'日）。今日も1レッスン進めると '+(S.st.n+1)+'日連続です。':'最後に学んだ日: '+ds+'（'+g+'日前）。今日の1レッスンから、また始めましょう。')+'</p>'}
 h+='<div class="btns">';
 if(nx)h+='<a class="btn" href="'+nx.querySelector('a').getAttribute('href')+'">続きから読む: '+esc(nx.dataset.s)+'</a>';
-if(mk)h+='<a class="btn sub" href="/review/">間違えた問題を解き直す（'+mk+'問）</a>';r.innerHTML=h+'</div>';r.hidden=false})}
+if(mk)h+='<a class="btn sub" href="/review/">間違えた問題を解き直す（'+mk+'問）</a>';if(location.pathname!=='/me/')h+='<a class="btn sub" href="/me/">わたしの学習を見る</a>';r.innerHTML=h+'</div>';r.hidden=false})}
 /* 復習ページ */
 var rv=document.getElementById('redo');if(rv){var qs=$('.qz',rv),c=0;qs.forEach(function(q){if(S.miss[q.dataset.q]){q.hidden=false;c++}});
 var m=document.getElementById('redo-msg');m.textContent=!OK?'このブラウザでは記録を保存できないため、復習リストを使えません。各章の章末テストで解き直せます。':(c?'解き直す問題は '+c+' 問です。正解した問題はリストから外れます。':'今は解き直す問題はありません。レッスンの確認問題で迷った問題が、ここに自動で集まります。');
@@ -348,7 +355,7 @@ def footer():
     other = ('<p class="other"><b>SEADICE STUDYの他の講座</b>' + "".join(f'<a href="{E(s["url"], quote=True)}">{E(s["name"])}</a>' for s in others) + '</p>') if others else ""
     quiz = f'<a href="/quiz/">{E(quiz_name())}</a>' if has_quiz() else ''
     tool = f'<a href="/{CFG["tool"]["path"]}">{E(CFG["tool"]["navLabel"])}</a>' if CFG.get("tool") else ''
-    return (f'<footer class="site"><p><a href="/course/">{E(COURSE["title"])}</a>{tool}{extra}<a href="/glossary/">{T("glossaryName")}</a>{quiz}<a href="/review/">間違えた問題の復習</a><a href="/cards/">暗記カード</a><br>'
+    return (f'<footer class="site"><p><a href="/course/">{E(COURSE["title"])}</a>{tool}{extra}<a href="/glossary/">{T("glossaryName")}</a>{quiz}<a href="/me/">わたしの学習</a><a href="/review/">間違えた問題の復習</a><a href="/cards/">暗記カード</a><br>'
             '<a href="/about/">このサイトについて</a><a href="/sources/">出典と検証の方法</a><a href="/disclaimer/">免責事項</a><a href="mailto:hi@seadice.win">お問い合わせ</a><br>'
             f'<a href="https://seadice.win/">運営: SEADICE</a></p>{other}</footer>')
 
@@ -580,6 +587,8 @@ def check_output(out):
     if js.exists() and js.stat().st_size > 10 * 1024: errs.append(f"study.js が {js.stat().st_size} バイト（10KB以内）")
     js = out / "tool.js"
     if js.exists() and js.stat().st_size > 10 * 1024: errs.append(f"tool.js が {js.stat().st_size} バイト（10KB以内）")
+    js = out / "me.js"
+    if js.exists() and js.stat().st_size > 6 * 1024: errs.append(f"me.js が {js.stat().st_size} バイト（6KB以内）")
     js = out / "quiz.js"
     if js.exists() and js.stat().st_size > 12 * 1024: errs.append(f"quiz.js が {js.stat().st_size} バイト（12KB以内）")
     return sorted(set(errs)), len(files)
@@ -628,7 +637,7 @@ def features_first():
 def course_index():
     first = LESSONS[0][1] if LESSONS else None
     feats = [E(features_first())] + [E(fmt(x)) for x in CFG.get("courseFeatures", [])] + [
-        "読み終えたレッスン、章末テストのベストスコア、連続で学んだ日数、間違えた問題は、このブラウザだけに自動で記録されます（登録不要・外部には送りません）。間違えた問題は「<a href=\"/review/\">復習</a>」で解き直せ、用語は「<a href=\"/cards/\">暗記カード</a>」で覚えられます。"]
+        "読み終えたレッスン、章末テストのベストスコア、連続で学んだ日数、間違えた問題は、このブラウザだけに自動で記録されます（登録不要・外部には送りません）。記録は「<a href=\"/me/\">わたしの学習</a>」でまとめて見られ、ファイルに書き出して別の端末に移せます。間違えた問題は「<a href=\"/review/\">復習</a>」で解き直せ、用語は「<a href=\"/cards/\">暗記カード</a>」で覚えられます。"]
     body = f'''<span class="kicker">{T("courseKicker")}</span>
 <h1>{E(COURSE["title"])}</h1>
 <p class="updated">全{N_CH}章 ・ 公開中 {N_LESSONS}レッスン ・ 更新日 {UPDATED}</p>
@@ -1180,6 +1189,88 @@ def cards_page():
     return write("cards/", f'{fmt(CFG["glossaryName"])}の暗記カード | {NAME}', f'{fmt(CFG["glossaryName"])}の{len(TERMS)}語を、暗記カードで覚えられるページです。あやしい語ほど早く出ます。登録不要。', body, [],
                  trail=[(f'{fmt(CFG["glossaryName"])}の暗記カード', f"{URL}cards/")], noindex=True)
 
+# ---------------- わたしの学習（/me/、me.js） ----------------
+ME_JS = r"""(function(){'use strict';
+var me=document.getElementById('me');if(!me)return;
+var site=document.documentElement.getAttribute('data-site')||'x',KEY='study:'+site,S={},OK=true,msg=document.getElementById('me-msg');
+try{S=JSON.parse(localStorage.getItem(KEY)||'{}')||{}}catch(e){OK=false;S={}}
+function today(){return Math.floor((Date.now()-new Date().getTimezoneOffset()*6e4)/864e5)}
+function $(s){return me.querySelectorAll(s)}
+function set(k,v){var e=me.querySelector('[data-v='+k+']');if(e)e.textContent=v}
+var t0=today(),read=S.read||{},miss=Object.keys(S.miss||{}).length,cards=S.cards||{},best=S.best||{},ch=(S.qz&&S.qz.ch)||{},all=0,rd=0,nt=null;
+document.getElementById('me-nojs').hidden=true;me.hidden=false;
+[].forEach.call($('.me-row'),function(r){var ls=r.dataset.ls?r.dataset.ls.split(' '):[],n=0;ls.forEach(function(id){if(read[id])n++});all+=ls.length;rd+=n;
+if(ls.length){r.querySelector('.me-bar i').style.width=Math.round(n/ls.length*100)+'%';r.querySelector('.me-n').textContent=ls.length+'レッスン中 '+n+'レッスンを読みました'}
+var c=ch[r.dataset.ci];if(c&&c.n)r.querySelector('.me-q').textContent='クイズの正答率 '+Math.round(c.ok/c.n*100)+'%（'+c.n+'問）';
+var t=r.dataset.t;if(t&&!best[t]&&ls.length&&n===ls.length&&!nt)nt={h:t,s:r.querySelector('small').textContent}});
+var nc=me.dataset.terms|0,ok=0,due=0;Object.keys(cards).forEach(function(k){if(cards[k].b>=3)ok++;if(cards[k].d<=t0)due++});
+set('read',rd+' / '+all);set('miss',miss+'問');set('terms',ok+' / '+nc);
+var st=S.st,g=st?t0-st.d:9;set('streak',st&&g<=1?st.n+'日':'0日');
+if(st){var d=new Date(st.d*864e5);set('last','最後に学んだ日 '+(d.getUTCMonth()+1)+'月'+d.getUTCDate()+'日')}
+var h='';if(due)h+='<a class="btn sub" href="/cards/">暗記カード（復習の時期の語 '+due+'語）</a>';else if(!Object.keys(cards).length&&nc)h+='<a class="btn sub" href="/cards/">暗記カードで用語を覚える</a>';
+if(nt)h+='<a class="btn sub" href="'+nt.h+'">'+nt.s+'の章末テストに挑戦</a>';
+var nx=document.getElementById('me-next');if(h){nx.querySelector('.btns').innerHTML=h;nx.hidden=false}
+if(!rd&&!miss&&!st)document.getElementById('me-empty').hidden=false;
+function keys(){var out=[];try{for(var i=0;i<localStorage.length;i++){var k=localStorage.key(i);if(k===KEY||k.indexOf('check:'+site+':')===0)out.push(k)}}catch(e){}return out}
+if(!OK){msg.textContent='このブラウザでは記録を保存できません（プライベートブラウズなど）。通常のウィンドウで開くと、記録が残ります。';[].forEach.call($('.me-io button,.me-io label'),function(b){b.hidden=true})}
+document.getElementById('me-out').onclick=function(){var data={};keys().forEach(function(k){data[k]=localStorage.getItem(k)});
+if(!Object.keys(data).length){msg.textContent='まだ書き出す記録がありません。';return}
+var dt=new Date(),ds=dt.getFullYear()+'-'+('0'+(dt.getMonth()+1)).slice(-2)+'-'+('0'+dt.getDate()).slice(-2),
+b=new Blob([JSON.stringify({app:'seadice-study',site:site,v:1,date:ds,data:data})],{type:'application/json'}),a=document.createElement('a');
+a.href=URL.createObjectURL(b);a.download=site+'-kiroku-'+ds+'.json';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(a.href)},1e3);
+msg.textContent='記録をファイルに書き出しました（'+a.download+'）。移った先の端末で、このページの「記録を読み込む」から選んでください。'};
+document.getElementById('me-in').onchange=function(){var f=this.files[0];this.value='';if(!f)return;var fr=new FileReader();
+fr.onload=function(){var j;try{j=JSON.parse(fr.result)}catch(e){j=null}
+if(!j||j.app!=='seadice-study'||typeof j.data!=='object'){msg.textContent='読み込めませんでした。このページで書き出したファイルを選んでください。';return}
+if(j.site!==site){msg.textContent='別の講座の記録です。その講座の「わたしの学習」で読み込んでください。';return}
+if(!confirm('今のこの端末の記録を、'+(j.date||'')+' に書き出した記録で置き換えます。よろしいですか？'))return;
+try{keys().forEach(function(k){localStorage.removeItem(k)});Object.keys(j.data).forEach(function(k){if(k===KEY||k.indexOf('check:'+site+':')===0)localStorage.setItem(k,String(j.data[k]))});location.reload()}
+catch(e){msg.textContent='このブラウザでは記録を保存できませんでした。'}};fr.readAsText(f)};
+document.getElementById('me-del').onclick=function(){if(!confirm('この端末の学習の記録をすべて消します。元に戻せません。よろしいですか？'))return;
+try{keys().forEach(function(k){localStorage.removeItem(k)})}catch(e){}location.reload()};
+})();"""
+
+
+def me_page():
+    """わたしの学習。記録の一覧と、書き出し・読み込み・消去。中身はすべて me.js がこのブラウザの記録から作る。"""
+    rows = ""
+    for ci, c in enumerate(COURSE["chapters"]):
+        if not c["lessons"]:
+            continue
+        lis = "".join(lesson_li(c, i, l) for i, l in enumerate(c["lessons"]))
+        t = f'/{test_path(c)}' if complete(c) else ""
+        rows += (f'<div class="card me-row" data-ci="{ci}" data-ls="{" ".join(l["id"] for l in c["lessons"])}" data-t="{t}"><small>第{c["no"]}章</small><b>{E(c["title"])}</b>'
+                 f'<span class="me-bar"><i></i></span><span class="me-n"></span><span class="me-q"></span>'
+                 f'<details><summary>レッスンの一覧</summary><ol class="lessons">{lis}</ol></details>'
+                 + (f'<p><a href="{t}">第{c["no"]}章の章末テスト（{test_n(c)}問）</a></p>' if t else '') + '</div>')
+    if COURSE.get("mock"):
+        rows += f'<div class="card me-row" data-t="/course/mock-exam/"><small>総まとめ</small><b>{E(mock_label())}</b><span class="me-q"></span><p><a href="/course/mock-exam/">{E(mock_label())}に挑戦（{mock_n()}問）</a></p></div>'
+    first = LESSONS[0][1] if LESSONS else None
+    body = f'''<span class="kicker">登録不要</span>
+<h1>わたしの学習</h1>
+<p class="lead">このサイトで学んだ記録を、1ページで見られます。記録はこのブラウザの中だけに保存され、どこにも送信されません。</p>
+<div id="me" data-terms="{len(TERMS)}" hidden>
+<div class="me-st"><div><small>読んだレッスン</small><b data-v="read">-</b></div><div><small>連続で学んだ日</small><b data-v="streak">-</b><em data-v="last"></em></div>
+<div><small>間違えた問題</small><b data-v="miss">-</b><em>正解すると減ります</em></div><div><small>覚えた用語</small><b data-v="terms">-</b><em>暗記カードで2回続けて正解</em></div></div>
+<div id="me-empty" class="box key" hidden><p class="bt">まだ記録はありません</p><p>レッスンを読み終えたり、確認問題を解いたりすると、ここに自動で記録されます。</p>{f'<div class="btns" style="margin:0"><a class="btn" href="/course/{first["id"]}/">第1章から始める</a></div>' if first else ''}</div>
+{RESUME}
+<div id="me-next" class="box" hidden><p class="bt">ほかにおすすめ</p><div class="btns" style="margin:0"></div></div>
+<h2><span class="n">CHAPTER</span>章ごとの進み具合</h2>
+<p class="answer">読んだレッスンの数、章末テストのベスト、クイズの正答率を章ごとに見られます。</p>
+<div class="grid">{rows}</div>
+<h2><span class="n">KEEP</span>記録を別の端末に移す</h2>
+<p class="answer">機種変更や別のブラウザに移るときは、記録をファイルに書き出し、移った先のこのページで読み込みます。</p>
+<div class="btns me-io"><button type="button" class="btn" id="me-out">記録を書き出す</button><label class="btn sub" for="me-in">記録を読み込む</label><input type="file" id="me-in" class="me-file" accept="application/json,.json"></div>
+<p id="me-msg" class="me-msg" aria-live="polite"></p>
+<div class="box note"><p style="margin:0">ブラウザの履歴やサイトのデータを消すと、記録も消えます。大切な記録は、ときどき書き出しておくと安心です。書き出したファイルには学習の記録だけが入り、名前やメールアドレスなどは入りません。</p></div>
+<details><summary>この端末の記録を消す</summary><p>共有のパソコンで学んだときなどに使います。消した記録は元に戻せません。</p><div class="btns" style="margin:0 18px 16px"><button type="button" class="btn sub me-io" id="me-del">記録をすべて消す</button></div></details>
+</div>
+<div id="me-nojs"><p class="answer">学習の記録を見るには、ブラウザのJavaScriptを有効にしてください。レッスンや問題は、JavaScriptなしでも読めます。</p></div>
+<script src="/me.js" defer></script>'''
+    return write("me/", f"わたしの学習 | {NAME}", f"{NAME}で読んだレッスン、テストのベスト、間違えた問題、覚えた用語を1ページで見られます。登録不要で、記録はブラウザの中だけに保存されます。", body, [],
+                 trail=[("わたしの学習", f"{URL}me/")], noindex=True)
+
+
 # ---------------- クイズ（ゲーム形式。/quiz/、quiz.js、/quiz/data.json） ----------------
 QUIZ_JS = r"""(function(){'use strict';
 var G=document.getElementById('game');if(!G)return;
@@ -1500,7 +1591,8 @@ def build():
     if has_quiz():
         urls.append(quiz_page())
         (OUT / "quiz.js").write_text(QUIZ_JS)
-    review_page(); cards_page()  # noindex。sitemap には入れない
+    review_page(); cards_page(); me_page()  # noindex。sitemap には入れない
+    (OUT / "me.js").write_text(ME_JS)
     extras(urls)
     return urls
 

@@ -38,7 +38,7 @@ if(S.st){var g=today()-S.st.d,dt=new Date(S.st.d*864e5),ds=(dt.getUTCMonth()+1)+
 h+='<p class="streak">'+(g===0?'今日も学びました。連続 '+S.st.n+'日です。':g===1?'最後に学んだ日: '+ds+'（連続 '+S.st.n+'日）。今日も1レッスン進めると '+(S.st.n+1)+'日連続です。':'最後に学んだ日: '+ds+'（'+g+'日前）。今日の1レッスンから、また始めましょう。')+'</p>'}
 h+='<div class="btns">';
 if(nx)h+='<a class="btn" href="'+nx.querySelector('a').getAttribute('href')+'">続きから読む: '+esc(nx.dataset.s)+'</a>';
-if(mk)h+='<a class="btn sub" href="/review/">間違えた問題を解き直す（'+mk+'問）</a>';r.innerHTML=h+'</div>';r.hidden=false})}
+if(mk)h+='<a class="btn sub" href="/review/">間違えた問題を解き直す（'+mk+'問）</a>';if(location.pathname!=='/me/')h+='<a class="btn sub" href="/me/">わたしの学習を見る</a>';r.innerHTML=h+'</div>';r.hidden=false})}
 /* 復習ページ */
 var rv=document.getElementById('redo');if(rv){var qs=$('.qz',rv),c=0;qs.forEach(function(q){if(S.miss[q.dataset.q]){q.hidden=false;c++}});
 var m=document.getElementById('redo-msg');m.textContent=!OK?'このブラウザでは記録を保存できないため、復習リストを使えません。各章の章末テストで解き直せます。':(c?'解き直す問題は '+c+' 問です。正解した問題はリストから外れます。':'今は解き直す問題はありません。レッスンの確認問題で迷った問題が、ここに自動で集まります。');
