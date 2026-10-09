@@ -1,5 +1,14 @@
 [
  {
+  "slug": "shared-ai-fake-correction",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-10",
+  "title": "AIの偽画像や動画を本物と思って拡散してしまった。研究では、広めた本人が早めに出す訂正ほど効きやすい",
+  "summary": "消すだけでは見た人に伝わらない。32研究の分析では本人の早めの訂正が効きやすく、訂正は誤情報より届きにくい。今日できる訂正の手順を整理。"
+ },
+ {
   "slug": "family-ai-companion-limits-talk",
   "category": "人間関係・孤独",
   "type": "guide",

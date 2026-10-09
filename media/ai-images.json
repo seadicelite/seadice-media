@@ -457,5 +457,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Samovar_Tea_House_%287792874154%29.jpg/500px-Samovar_Tea_House_%287792874154%29.jpg",
   "og": "https://ai.seadice.win/img/family-ai-companion-limits-talk-og.jpg",
   "local": true
+ },
+ "shared-ai-fake-correction": {
+  "file": "File:Crumpled olive green paper.jpg",
+  "src": "/img/shared-ai-fake-correction.webp",
+  "src640": "/img/shared-ai-fake-correction-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "しわになった緑色の紙",
+  "artist": "Photos Public Domain",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Crumpled_olive_green_paper.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Crumpled_olive_green_paper.jpg/960px-Crumpled_olive_green_paper.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Crumpled_olive_green_paper.jpg/500px-Crumpled_olive_green_paper.jpg",
+  "og": "https://ai.seadice.win/img/shared-ai-fake-correction-og.jpg",
+  "local": true
  }
 }
