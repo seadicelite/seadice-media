@@ -25,7 +25,9 @@
     "exercise-low-mood-anxiety",
     "sleep-loss-mood",
     "nature-time-mood",
-    "caffeine-anxiety-sleep"
+    "caffeine-anxiety-sleep",
+    "short-nap-afternoon",
+    "vacation-recovery-fadeout"
    ]
   },
   {
@@ -51,7 +53,8 @@
     "telework-monitoring-stress",
     "meeting-replay-regret",
     "ai-written-message-found-out",
-    "slow-breathing-stress"
+    "slow-breathing-stress",
+    "ai-learning-age-40s-50s"
    ]
   },
   {
@@ -79,7 +82,9 @@
     "chatgpt-thinking-ability",
     "phone-memory-forgetful",
     "mindfulness-stress",
-    "music-stress"
+    "music-stress",
+    "short-nap-afternoon",
+    "habit-if-then-plans"
    ]
   },
   {
