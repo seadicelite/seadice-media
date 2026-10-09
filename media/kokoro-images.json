@@ -1502,5 +1502,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Papierkanten_--_2020_--_9535.jpg/500px-Papierkanten_--_2020_--_9535.jpg",
   "og": "https://mentalai.seadice.win/img/ai-edits-writing-confidence.jpg",
   "local": true
+ },
+ "focus-recover-exercise": {
+  "file": "File:Dülmen, Wildpark -- 2019 -- 3216-22.jpg",
+  "src": "/img/focus-recover-exercise.jpg",
+  "src640": "/img/focus-recover-exercise-sm.jpg",
+  "w": 960,
+  "h": 768,
+  "alt": "朝の公園の並木道",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wildpark_--_2019_--_3216-22.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/D%C3%BClmen%2C_Wildpark_--_2019_--_3216-22.jpg/960px-D%C3%BClmen%2C_Wildpark_--_2019_--_3216-22.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/D%C3%BClmen%2C_Wildpark_--_2019_--_3216-22.jpg/500px-D%C3%BClmen%2C_Wildpark_--_2019_--_3216-22.jpg",
+  "og": "https://mentalai.seadice.win/img/focus-recover-exercise.jpg",
+  "local": true
  }
 }
