@@ -223,7 +223,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>https://ai.seadice.win/ai-service-data-breach-notice/</loc>
+=======
+    <loc>https://ai.seadice.win/ai-work-too-hard-sick-leave-benefits/</loc>
+>>>>>>> da17652b9 (ai: AIの導入で仕事がつらく、休みたい（休職・傷病手当金・労災の仕組みと相談先）)
     <lastmod>2026-10-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
