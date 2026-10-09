@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-service-data-breach-notice",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-10",
+  "title": "AIサービスから個人情報が漏れたと通知が来た。二次被害を防ぐ鍵は、漏れた項目に合わせた手当てと、便乗する連絡への警戒",
+  "summary": "通知には漏れた項目・原因・二次被害の有無が書かれる。パスワードを変えた人は3割ほど。項目に合わせた手当てと便乗連絡への警戒を。"
+ },
+ {
   "slug": "ai-medical-advice-accuracy",
   "category": "AIに頼りすぎ",
   "type": "guide",
