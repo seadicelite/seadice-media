@@ -24,6 +24,8 @@
     name, path, url, tagline, description, lead, titleSuffix, faq[[q,a]]
   見た目:
     theme        {accent, accentDark, soft, softDark, ink?(既定#FFFFFF), inkDark}  CSS変数 --accent / --soft / --accent-ink を作る
+    extraCss     講座ごとのテーマのCSS（共通CSSの後ろに足す）。書体はOS標準のもの（例: 明朝体）だけ。外部フォント・画像は使わない
+    symbol       トップの線画シンボル（viewBox 0 0 64 64 の中身。既定は study.py の SYMBOLS）
     icon         ファビコンの1文字（例: 貿）
     logoSub      ロゴ横の小見出し（例: 貿易実務を無料で学ぶ）
     extraNav     [{href, label, footer}] ヘッダーとフッターに足す分野固有のリンク（例: 模擬試験 /c/）
@@ -238,7 +240,7 @@ ol.map li.done .mn{background:var(--accent);color:var(--accent-ink)}ol.map b{dis
 def css():
     th = {"accent": "#0B6380", "accentDark": "#6CCBE3", "soft": "#E3F1F5", "softDark": "#1C2E36", "ink": "#FFFFFF", "inkDark": "#0E1A20"}
     th.update(CFG.get("theme", {}))
-    return BASE_CSS % th
+    return BASE_CSS % th + CFG.get("extraCss", "")  # extraCss: 講座ごとのテーマ（メディアの extraCss と同じ考え方）。% はそのまま書いてよい
 
 
 def favicon():
