@@ -1430,5 +1430,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Persea_americana_seedling_%28sprout_emerging_from_seed%29.jpg/500px-Persea_americana_seedling_%28sprout_emerging_from_seed%29.jpg",
   "og": "https://mentalai.seadice.win/img/comparison-no-talent-mindset.jpg",
   "local": true
+ },
+ "procrastination-cant-start": {
+  "file": "File:Pencil with a smiley face on paper.JPG",
+  "src": "/img/procrastination-cant-start.jpg",
+  "src640": "/img/procrastination-cant-start-sm.jpg",
+  "w": 960,
+  "h": 627,
+  "alt": "紙と鉛筆",
+  "artist": "Revital Salomon",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pencil_with_a_smiley_face_on_paper.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pencil_with_a_smiley_face_on_paper.JPG/960px-Pencil_with_a_smiley_face_on_paper.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pencil_with_a_smiley_face_on_paper.JPG/500px-Pencil_with_a_smiley_face_on_paper.JPG",
+  "og": "https://mentalai.seadice.win/img/procrastination-cant-start.jpg",
+  "local": true
  }
 }
