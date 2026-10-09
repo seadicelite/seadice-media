@@ -127,7 +127,7 @@ T = [
      "hub": "勉強を始める場面を1文で決める。机に貼れるカードつき。", "basis": "実行意図（Gollwitzer・Sheeran 2006 ほか）"},
     {"id": "wallpaper", "title": "if-thenプランの壁紙（スマホのロック画面用）",
      "seo": "勉強のスマホ壁紙｜if-thenプランを入れてロック画面に置く（無料・作成ツール）",
-     "desc": "「もし〇〇したら、△△をする」を入れると、スマホのロック画面用の壁紙画像を作ります。勉強を始める場面を毎日目に入る所に置くための無料ツール。94の検証をまとめた実行意図の研究がもと。",
+     "desc": "「もし〇〇したら、△△をする」を入れると、スマホのロック画面用の壁紙画像を作ります。デザイン6種類・色6色から選べます。勉強を始める場面を毎日目に入る所に置くための無料ツール。94の検証をまとめた実行意図の研究がもと。",
      "lead": "「もし〇〇したら、△△をする」を入れると、スマホのロック画面用の壁紙ができます。",
      "hub": "if-thenプランをロック画面に。入れるだけで壁紙画像ができる。", "basis": "実行意図（Gollwitzer・Sheeran 2006）"},
     {"id": "study-plan", "title": "勉強計画表（見積もり調整つき）",
@@ -379,8 +379,9 @@ wp_body = ('<script type="application/ld+json">' + json.dumps(wp_ld, ensure_asci
            '<p class="tp-hint">「〜したら」「〜のとき」の形で書きます。</p>'
            '<label for="wp-b">をする（始めた瞬間にやること）</label><input id="wp-b" maxlength="24" placeholder="単語アプリで10問解く" value="単語アプリで10問解く">'
            '<label for="wp-g">目標（任意・小さく入ります）</label><input id="wp-g" maxlength="30" placeholder="例：来年3月の簿記2級に受かる">'
-           '<div class="wp-2"><div><label for="wp-t">色</label><select id="wp-t"><option value="night">夜（紺と金）</option><option value="paper">紙（白とすみ色）</option><option value="sea">海（青のグラデーション）</option></select></div>'
-           '<div><label for="wp-s">機種</label><select id="wp-s"><option value="1179x2556">iPhone</option><option value="1080x2400">Android</option></select></div></div>'
+           '<fieldset class="wp-fs"><legend>デザイン</legend><div class="wp-ds" id="wp-ds"></div></fieldset>'
+           '<fieldset class="wp-fs"><legend>色</legend><div class="wp-cs" id="wp-cs"></div></fieldset>'
+           '<label for="wp-s">機種</label><select id="wp-s"><option value="1179x2556">iPhone</option><option value="1080x2400">Android</option></select>'
            '</form>'
            '<div class="wp-pv"><img id="wp-img" alt="作った壁紙のプレビュー" width="240" height="520"></div>'
            '<div class="tp-bar" style="justify-content:center"><a class="tp-btn" id="wp-dl" download="ifthen-wallpaper.png" href="#" style="text-decoration:none">壁紙を保存する</a></div>'
@@ -400,34 +401,79 @@ wp_body = ('<script type="application/ld+json">' + json.dumps(wp_ld, ensure_asci
            '<div class="sources"><h2>出典</h2><ol><li>' + SRC["gollwitzer"] + '</li></ol></div>')
 WP_JS = r"""
 (function(){
-var T={night:{bg:['#0B1020','#141d38'],fg:'#EAF0FA',sub:'#93A3BE',ac:'#F5C542'},paper:{bg:['#F7F5EF','#EDE9DF'],fg:'#1d2330',sub:'#6b7385',ac:'#1d2330'},sea:{bg:['#1e4f9c','#0B1020'],fg:'#FFFFFF',sub:'#bcd2f2',ac:'#8CE0FF'}};
+var D=[['simple','シンプル'],['card','カード'],['sticky','付箋'],['center','まんなか'],['note','ノート'],['flow','矢印']];
+var C={night:{n:'夜',bg:['#0B1020','#141d38'],fg:'#EAF0FA',sub:'#93A3BE',ac:'#F5C542',card:'rgba(255,255,255,.07)'},
+ paper:{n:'紙',bg:['#F7F5EF','#EDE9DF'],fg:'#1d2330',sub:'#6b7385',ac:'#b8402f',card:'#ffffff'},
+ sea:{n:'海',bg:['#1e4f9c','#0B1020'],fg:'#FFFFFF',sub:'#bcd2f2',ac:'#8CE0FF',card:'rgba(255,255,255,.09)'},
+ sakura:{n:'さくら',bg:['#FBE9EE','#F4CCD8'],fg:'#4a2532',sub:'#85566a',ac:'#b83a62',card:'#fff7f9'},
+ forest:{n:'森',bg:['#173a2e','#0c1f18'],fg:'#EAF5EE',sub:'#9fc4b0',ac:'#9BE3B4',card:'rgba(255,255,255,.07)'},
+ mono:{n:'モノクロ',bg:['#000000','#141414'],fg:'#FFFFFF',sub:'#a0a0a0',ac:'#FFFFFF',card:'rgba(255,255,255,.09)'}};
 var F='-apple-system,BlinkMacSystemFont,"Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP",sans-serif';
 function $(i){return document.getElementById(i)}
-var url='';
+var url='',cur={d:'simple',c:'night'};
 function brk(c,s,max){var out=[],l='';for(var i=0;i<s.length;i++){var ch=s[i],t=l+ch;if(c.measureText(t).width>max&&l&&'、。，．」）！？ーっゃゅょ'.indexOf(ch)<0){out.push(l);l=ch}else l=t}if(l)out.push(l);return out}
-function wrap(c,s,max){var n=brk(c,s,max).length,lo=max*.4,hi=max;if(n>1){for(var k=0;k<12;k++){var md=(lo+hi)/2;if(brk(c,s,md).length>n)lo=md;else hi=md}}return brk(c,s,hi).slice(0,3)}
-function draw(){
- var sz=$('wp-s').value.split('x'),W=+sz[0],H=+sz[1],th=T[$('wp-t').value],c=document.createElement('canvas');c.width=W;c.height=H;var x=c.getContext('2d');
+function wrap(c,s,max,n0){var n=brk(c,s,max).length,lo=max*.4,hi=max;if(n>1){for(var k=0;k<12;k++){var md=(lo+hi)/2;if(brk(c,s,md).length>n)lo=md;else hi=md}}return brk(c,s,hi).slice(0,n0||3)}
+function rr(x,X,Y,w,h,r){x.beginPath();x.moveTo(X+r,Y);x.arcTo(X+w,Y,X+w,Y+h,r);x.arcTo(X+w,Y+h,X,Y+h,r);x.arcTo(X,Y+h,X,Y,r);x.arcTo(X,Y,X+w,Y,r);x.closePath()}
+// 文字のかたまりを上から順に置く。draw=false なら高さだけ返す
+function stack(x,list,X,Y,max,al,draw){var y=Y;x.textAlign=al;x.textBaseline='top';
+ list.forEach(function(it){y+=it.pre||0;x.font=it.w+' '+it.z+'px '+F;x.fillStyle=it.c;
+  var ls=it.wrap?wrap(x,it.s,max,it.n):[it.s];ls.forEach(function(l){if(draw)x.fillText(l,X,y);y+=it.z*(it.lh||1.35)});y+=it.z*(it.g||0)});
+ return y-Y}
+function items(o,fg,ac,sub,big,sm,s2){var L=[{s:o.lb1,z:sm,w:600,c:sub,g:.15},{s:o.a+'、',z:big,w:800,c:fg,wrap:1,g:.35},{s:'すぐに',z:sm,w:600,c:sub,g:.15},{s:o.b,z:big,w:800,c:ac,wrap:1,g:.05},{s:'をする。',z:sm,w:600,c:sub}];
+ if(o.gl)L.push({s:'目標：'+o.gl,z:sm*.85,w:500,c:s2||sub,wrap:1,n:2,pre:sm*1.1});return L}
+function render(W,H,d,th,o){
+ var c=document.createElement('canvas');c.width=W;c.height=H;var x=c.getContext('2d');
  var g=x.createLinearGradient(0,0,0,H);g.addColorStop(0,th.bg[0]);g.addColorStop(1,th.bg[1]);x.fillStyle=g;x.fillRect(0,0,W,H);
- var a=$('wp-a').value.trim()||'＿＿＿＿',b=$('wp-b').value.trim()||'＿＿＿＿',gl=$('wp-g').value.trim(),m=W*.11,mx=W-2*m,big=W*.072,sm=W*.044;
- x.textBaseline='top';x.font='700 '+big+'px '+F;var la=wrap(x,a+'、',mx),lb=wrap(x,b,mx);
- var h=sm*1.9+la.length*big*1.35+big*.5+sm*1.9+lb.length*big*1.35+sm*1.6+(gl?sm*3.2:0),y=Math.max(H*.40,H*.62-h/2);
- x.fillStyle=th.ac;x.fillRect(m,y,W*.06,W*.008);y+=sm*.9;
- x.font='600 '+sm+'px '+F;x.fillStyle=th.sub;x.fillText('もし',m,y);y+=sm*1.6;
- x.font='800 '+big+'px '+F;x.fillStyle=th.fg;la.forEach(function(l){x.fillText(l,m,y);y+=big*1.35});y+=big*.5;
- x.font='600 '+sm+'px '+F;x.fillStyle=th.sub;x.fillText('すぐに',m,y);y+=sm*1.6;
- x.font='800 '+big+'px '+F;x.fillStyle=th.ac;lb.forEach(function(l){x.fillText(l,m,y);y+=big*1.35});
- x.font='600 '+sm+'px '+F;x.fillStyle=th.sub;x.fillText('をする。',m,y);y+=sm*1.6;
- if(gl){y+=sm*1.2;x.font='500 '+(sm*.85)+'px '+F;x.fillText(wrap(x,'目標：'+gl,mx)[0],m,y)}
- c.toBlob(function(bl){if(!bl)return;if(url)URL.revokeObjectURL(url);url=URL.createObjectURL(bl);$('wp-img').src=url;$('wp-img').height=Math.round(240*H/W);$('wp-dl').href=url});
-}
-var tm;['wp-a','wp-b','wp-g','wp-t','wp-s'].forEach(function(i){$(i).addEventListener('input',function(){clearTimeout(tm);tm=setTimeout(draw,150)})});
-draw();
+ var big=W*.072,sm=W*.044,m=W*.11,L,h,y,top=H*.40,mid=H*.62;
+ function place(hh){return Math.max(top,mid-hh/2)}
+ o.lb1='もし';
+ if(d==='simple'){L=items(o,th.fg,th.ac,th.sub,big,sm);h=stack(x,L,m,0,W-2*m,'left',0)+sm;y=place(h);x.fillStyle=th.ac;x.fillRect(m,y,W*.06,W*.008);stack(x,L,m,y+sm,W-2*m,'left',1)}
+ if(d==='card'){var p=W*.065,cw=W*.88,cx=W*.06;L=items(o,th.fg,th.ac,th.sub,big*.88,sm);h=stack(x,L,cx+p,0,cw-2*p,'left',0)+2*p;y=place(h);
+  x.save();x.shadowColor='rgba(0,0,0,.18)';x.shadowBlur=W*.05;x.shadowOffsetY=W*.012;x.fillStyle=th.card;rr(x,cx,y,cw,h,W*.05);x.fill();x.restore();
+  x.fillStyle=th.ac;rr(x,cx,y,W*.018,h,W*.009);x.fill();stack(x,L,cx+p,y+p,cw-2*p,'left',1)}
+ if(d==='sticky'){var s=W*.84,p2=W*.07,sx=W*.08;L=items(o,'#3b3320','#b4462b','#7a6a45',big*.85,sm,'#7a6a45');h=Math.max(s,stack(x,L,0,0,s-2*p2,'left',0)+2*p2);y=place(h);
+  x.save();x.translate(W/2,y+h/2);x.rotate(-.03);x.translate(-W/2,-(y+h/2));x.shadowColor='rgba(0,0,0,.28)';x.shadowBlur=W*.04;x.shadowOffsetY=W*.02;x.fillStyle='#FFE58A';x.fillRect(sx,y,s,h);x.shadowColor='transparent';
+  x.fillStyle='rgba(255,255,255,.45)';x.fillRect(W/2-W*.12,y-W*.025,W*.24,W*.06);stack(x,L,sx+p2,y+p2+(h-2*p2-stack(x,L,0,0,s-2*p2,'left',0))/2,s-2*p2,'left',1);x.restore()}
+ if(d==='center'){L=items(o,th.fg,th.ac,th.sub,big,sm);h=stack(x,L,W/2,0,W*.8,'center',0)+sm*3;y=place(h);x.fillStyle=th.ac;x.fillRect(W/2-W*.04,y,W*.08,W*.006);
+  stack(x,L,W/2,y+sm*1.5,W*.8,'center',1);x.fillRect(W/2-W*.04,y+h-W*.006,W*.08,W*.006)}
+ if(d==='note'){var lh=big*1.35,nx=W*.17;L=items(o,th.fg,th.ac,th.sub,big*.9,sm);L.forEach(function(it){it.lh=lh/it.z;it.g=0;it.pre=0});
+  h=stack(x,L,nx,0,W*.75,'left',0);y=place(h);var n=Math.round(h/lh);x.globalAlpha=.3;x.fillStyle=th.sub;for(var k=-4;k<n+5;k++)x.fillRect(W*.06,y+k*lh+lh*.9,W*.88,Math.max(1,W*.002));
+  x.globalAlpha=.6;x.fillStyle=th.ac;x.fillRect(W*.13,y-4*lh,Math.max(1,W*.003),(n+9)*lh);x.globalAlpha=1;stack(x,L,nx,y,W*.75,'left',1)}
+ if(d==='flow'){var bw=W*.8,bx=W*.1,pp=W*.06;var A=[{s:'もし',z:sm,w:600,c:th.sub,g:.15},{s:o.a+'、',z:big*.9,w:800,c:th.fg,wrap:1}],B=[{s:'すぐに',z:sm,w:600,c:th.bg[0],g:.15},{s:o.b,z:big*.9,w:800,c:th.bg[0],wrap:1},{s:'をする。',z:sm,w:600,c:th.bg[0]}];
+  var ha=stack(x,A,0,0,bw-2*pp,'left',0)+2*pp,hb=stack(x,B,0,0,bw-2*pp,'left',0)+2*pp,ar=W*.16,gh=o.gl?sm*2.4:0;h=ha+ar+hb+gh;y=place(h);
+  x.strokeStyle=th.sub;x.lineWidth=W*.005;rr(x,bx,y,bw,ha,W*.04);x.stroke();stack(x,A,bx+pp,y+pp,bw-2*pp,'left',1);
+  x.fillStyle=th.ac;x.fillRect(W/2-W*.005,y+ha+ar*.15,W*.01,ar*.45);x.beginPath();x.moveTo(W/2-W*.04,y+ha+ar*.55);x.lineTo(W/2+W*.04,y+ha+ar*.55);x.lineTo(W/2,y+ha+ar*.85);x.closePath();x.fill();
+  rr(x,bx,y+ha+ar,bw,hb,W*.04);x.fill();stack(x,B,bx+pp,y+ha+ar+pp,bw-2*pp,'left',1);
+  if(o.gl)stack(x,[{s:'目標：'+o.gl,z:sm*.85,w:500,c:th.sub,wrap:1,n:2}],bx,y+ha+ar+hb+sm*1.1,bw,'left',1)}
+ return c}
+function opts(){return {a:$('wp-a').value.trim()||'＿＿＿＿',b:$('wp-b').value.trim()||'＿＿＿＿',gl:$('wp-g').value.trim()}}
+var seq=0;
+function main(){var my=++seq,sz=$('wp-s').value.split('x'),W=+sz[0],H=+sz[1],c=render(W,H,cur.d,C[cur.c],opts());
+ c.toBlob(function(bl){if(!bl||my!==seq)return;if(url)URL.revokeObjectURL(url);url=URL.createObjectURL(bl);$('wp-img').src=url;$('wp-img').height=Math.round(240*H/W);$('wp-dl').href=url})}
+function thumbs(){var o=opts();D.forEach(function(d){var cv=$('wp-d-'+d[0]),t=render(330,716,d[0],C[cur.c],o),x=cv.getContext('2d');x.clearRect(0,0,cv.width,cv.height);x.drawImage(t,0,0,cv.width,cv.height)})}
+function sel(box,key,v){cur[key]=v;[].forEach.call($(box).children,function(b){b.setAttribute('aria-checked',b.getAttribute('data-v')===v?'true':'false')})}
+$('wp-ds').setAttribute('role','radiogroup');$('wp-cs').setAttribute('role','radiogroup');
+$('wp-ds').innerHTML=D.map(function(d){return '<button type="button" role="radio" class="wp-d" data-v="'+d[0]+'" aria-checked="false"><canvas id="wp-d-'+d[0]+'" width="110" height="239" aria-hidden="true"></canvas><span>'+d[1]+'</span></button>'}).join('');
+$('wp-cs').innerHTML=Object.keys(C).map(function(k){var t=C[k];return '<button type="button" role="radio" class="wp-c" data-v="'+k+'" aria-checked="false"><i style="background:linear-gradient(135deg,'+t.bg[0]+' 55%,'+t.ac+' 55%)"></i>'+t.n+'</button>'}).join('');
+$('wp-ds').addEventListener('click',function(e){var b=e.target.closest('.wp-d');if(!b)return;sel('wp-ds','d',b.getAttribute('data-v'));main()});
+$('wp-cs').addEventListener('click',function(e){var b=e.target.closest('.wp-c');if(!b)return;sel('wp-cs','c',b.getAttribute('data-v'));thumbs();main()});
+sel('wp-ds','d','simple');sel('wp-cs','c','night');
+var tm;['wp-a','wp-b','wp-g','wp-s'].forEach(function(i){$(i).addEventListener('input',function(){clearTimeout(tm);tm=setTimeout(function(){thumbs();main()},200)})});
+thumbs();main();
 })();
 """
 PAGES.append({"path": "templates/wallpaper", "title": t["title"], "seo_title": t["seo"], "date": "2026-10-09", "desc": t["desc"],
               "body": wp_body + "<script>" + WP_JS + "</script>", "parent": PARENT,
-              "css": CSS + ".wp-2{display:grid;grid-template-columns:1fr 1fr;gap:10px}.wp-2 label{display:block;margin-bottom:6px}"
+              "css": CSS + ".wp-fs{border:0;padding:0;margin:6px 0 0}.wp-fs legend{font-size:14px;font-weight:700;margin-bottom:8px}"
+                     ".wp-ds{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}"
+                     ".wp-d{font:inherit;display:flex;flex-direction:column;align-items:center;gap:6px;padding:8px 6px;border:2px solid var(--border);border-radius:14px;background:var(--bg);color:var(--text);cursor:pointer}"
+                     ".wp-d canvas{width:100%;max-width:96px;height:auto;aspect-ratio:110/239;border-radius:10px;display:block}.wp-d span{font-size:13px;font-weight:700}"
+                     ".wp-d[aria-checked=true],.wp-c[aria-checked=true]{border-color:var(--accent);box-shadow:0 0 0 2px var(--accent) inset}"
+                     ".wp-d[aria-checked=true] span::before{content:'選択中 ';font-size:11px;color:var(--accent)}"
+                     ".wp-cs{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}"
+                     ".wp-c{font:inherit;font-size:14px;font-weight:700;display:flex;align-items:center;gap:8px;padding:10px;min-height:46px;border:2px solid var(--border);border-radius:12px;background:var(--bg);color:var(--text);cursor:pointer}"
+                     ".wp-c i{width:22px;height:22px;border-radius:50%;border:1px solid rgba(255,255,255,.35);flex:none}"
+                     ".wp-d:focus-visible,.wp-c:focus-visible{outline:2px solid var(--accent);outline-offset:3px}"
                      ".wp-pv{display:flex;justify-content:center;margin:8px 0}.wp-pv img{width:240px;height:auto;border-radius:22px;border:1px solid var(--border);box-shadow:0 8px 28px rgba(0,0,0,.4);background:var(--card)}"})
 
 # ---------- 一覧 /templates/ ----------
