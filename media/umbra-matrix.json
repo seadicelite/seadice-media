@@ -1,0 +1,407 @@
+{
+ "cols": [
+  {
+   "id": "read",
+   "label": "見分ける",
+   "q": "相手のこのサイン・態度は何を意味する？ 通説は当たっている？"
+  },
+  {
+   "id": "why",
+   "label": "仕組み",
+   "q": "なぜそう感じる・そうなる？（心理と研究）"
+  },
+  {
+   "id": "act",
+   "label": "動く",
+   "q": "自分はどうすればいい？ 次の一歩は？"
+  },
+  {
+   "id": "after",
+   "label": "こじれたら",
+   "q": "脈なし・すれ違い・傷ついたとき、どう立て直す？ 相談先は？"
+  },
+  {
+   "id": "use",
+   "label": "使う",
+   "q": "自分で確かめられるツール・チェック表"
+  }
+ ],
+ "rows": [
+  {
+   "id": "signal-talk",
+   "label": "会話や態度に出るサイン",
+   "cells": {
+    "read": [
+     "love-signals-flirting-research",
+     "kindness-helping-signal-of-interest-research",
+     "laughing-at-jokes-interest-signal-research",
+     "question-asking-follow-up-interest-research",
+     "self-disclosure-confiding-liking-research",
+     "compliments-flattery-liking-signal-research",
+     "voice-pitch-attraction-research",
+     "downward-glance-head-tilt-attraction-signal"
+    ],
+    "use": [
+     "https://umbra.seadice.win/myakuari-check/"
+    ]
+   }
+  },
+  {
+   "id": "signal-line",
+   "label": "連絡・LINEに出るサイン",
+   "cells": {
+    "read": [
+     "emoji-sticker-liking-signal-research",
+     "contact-frequency-decline-cooling-signal-research"
+    ],
+    "after": [
+     "contact-frequency-decline-cooling-signal-research"
+    ],
+    "use": [
+     "https://umbra.seadice.win/sameta-check/"
+    ]
+   }
+  },
+  {
+   "id": "falling",
+   "label": "人を好きになる仕組み",
+   "cells": {
+    "why": [
+     "liking-reciprocity-research",
+     "mere-exposure-effect-romantic-attraction",
+     "love-is-blind-idealization-research"
+    ],
+    "act": [
+     "liking-reciprocity-research",
+     "mere-exposure-effect-romantic-attraction"
+    ]
+   }
+  },
+  {
+   "id": "confess-date",
+   "label": "告白・デートの悩み",
+   "cells": {
+    "read": [
+     "silence-during-dates-liking-research"
+    ],
+    "why": [
+     "confession-hesitation-regret-research",
+     "dating-invitation-rejection-anxiety-research"
+    ],
+    "act": [
+     "confession-hesitation-regret-research",
+     "dating-invitation-rejection-anxiety-research",
+     "silence-during-dates-liking-research"
+    ]
+   }
+  },
+  {
+   "id": "gesture-liking",
+   "label": "好意・関心が出るしぐさ",
+   "cells": {
+    "read": [
+     "eye-contact-gaze-attraction-research",
+     "pupil-dilation-attraction-research",
+     "eyebrow-flash-attraction-research",
+     "blushing-face-red-liking-research",
+     "forward-lean-posture-approach-avoidance-research",
+     "body-orientation-feet-direction-interest-research",
+     "personal-space-distance-intimacy-research",
+     "touch-affection-signal-research",
+     "chameleon-effect-mimicry-liking-research",
+     "head-tilt-impression-research",
+     "nodding-backchannel-listening-likeability-research"
+    ],
+    "why": [
+     "chameleon-effect-mimicry-liking-research",
+     "pupil-dilation-attraction-research"
+    ],
+    "use": [
+     "https://umbra.seadice.win/shigusa/"
+    ]
+   }
+  },
+  {
+   "id": "gesture-lie",
+   "label": "嘘や本音は見抜けるか",
+   "cells": {
+    "read": [
+     "body-language-lie-detection-accuracy",
+     "microexpression-true-feelings-research",
+     "fake-smile-duchenne-detection-research",
+     "eye-direction-up-right-lying-nlp-research",
+     "deliberate-eye-contact-lying-research",
+     "nose-touching-lying-pinocchio-research",
+     "blink-rate-nervousness-lying-research",
+     "response-latency-speech-rate-lying-research",
+     "too-much-detail-lying-research",
+     "feet-most-honest-leakage-research"
+    ],
+    "why": [
+     "body-language-lie-detection-accuracy",
+     "microexpression-true-feelings-research"
+    ],
+    "use": [
+     "https://umbra.seadice.win/uso-check/",
+     "https://umbra.seadice.win/quiz/"
+    ]
+   }
+  },
+  {
+   "id": "gesture-tension",
+   "label": "緊張・不安・拒否のしぐさ",
+   "cells": {
+    "read": [
+     "arm-crossing-posture-psychology-research",
+     "self-touch-face-hair-nervousness-research",
+     "neck-touch-pacifying-behavior-research",
+     "lip-compression-disappearing-lips-stress-research",
+     "eye-blocking-covering-eyes-research",
+     "torso-turn-away-ventral-denial-research",
+     "leg-jiggling-fidgeting-anxiety-research",
+     "gaze-avoidance-social-anxiety-research"
+    ],
+    "why": [
+     "freeze-flight-fight-threat-response-research",
+     "illusion-of-transparency-nervousness-visible-research"
+    ],
+    "act": [
+     "illusion-of-transparency-nervousness-visible-research"
+    ]
+   }
+  },
+  {
+   "id": "gesture-impression",
+   "label": "自信・第一印象・性格",
+   "cells": {
+    "read": [
+     "appearance-first-impression-accuracy-research",
+     "steepling-hands-confidence-research",
+     "leg-crossing-direction-personality-research"
+    ],
+    "why": [
+     "appearance-first-impression-accuracy-research"
+    ],
+    "act": [
+     "power-pose-confidence-replication-research"
+    ]
+   }
+  },
+  {
+   "id": "tactics-line",
+   "label": "LINE・SNSの心理",
+   "cells": {
+    "read": [
+     "line-reply-speed-research",
+     "language-style-matching-line-keigo-research"
+    ],
+    "why": [
+     "reply-anxiety-attachment-jealousy-research",
+     "story-view-avoidance-interest-concealment-research"
+    ],
+    "after": [
+     "reply-anxiety-attachment-jealousy-research"
+    ]
+   }
+  },
+  {
+   "id": "tactics-reverse",
+   "label": "好意の裏返し・駆け引き",
+   "cells": {
+    "read": [
+     "pulling-away-liking-ambivalence-research",
+     "teasing-affection-or-hostility-research",
+     "online-dating-profile-deception-research"
+    ],
+    "why": [
+     "pulling-away-liking-ambivalence-research",
+     "hard-to-get-scarcity-attraction-research"
+    ],
+    "act": [
+     "hard-to-get-scarcity-attraction-research"
+    ]
+   }
+  },
+  {
+   "id": "tactics-jealousy",
+   "label": "嫉妬とすれ違い",
+   "cells": {
+    "why": [
+     "infidelity-jealousy-gender-difference-research",
+     "partner-phone-checking-surveillance-research",
+     "mind-reading-expectation-mismatch-research",
+     "non-apology-psychology-barriers-research"
+    ],
+    "act": [
+     "mind-reading-expectation-mismatch-research"
+    ],
+    "after": [
+     "non-apology-psychology-barriers-research",
+     "partner-phone-checking-surveillance-research"
+    ]
+   }
+  },
+  {
+   "id": "compat",
+   "label": "相性の見極め",
+   "cells": {
+    "read": [
+     "similarity-attraction-compatibility-research",
+     "humor-style-compatibility-research",
+     "conversation-synchrony-compatibility-research",
+     "attachment-style-relationship-compatibility"
+    ],
+    "why": [
+     "attachment-style-relationship-compatibility",
+     "destiny-belief-relationship-satisfaction-research"
+    ]
+   }
+  },
+  {
+   "id": "lasting",
+   "label": "長続きする関係",
+   "cells": {
+    "why": [
+     "partner-responsiveness-research",
+     "long-distance-relationship-satisfaction-research"
+    ],
+    "act": [
+     "gratitude-relationship-maintenance-research",
+     "partner-responsiveness-research"
+    ]
+   }
+  },
+  {
+   "id": "fight",
+   "label": "喧嘩と浮気",
+   "cells": {
+    "read": [
+     "stonewalling-conflict-withdrawal-warning-sign",
+     "serial-infidelity-repeat-research"
+    ],
+    "act": [
+     "fight-style-relationship-research"
+    ],
+    "after": [
+     "fight-style-relationship-research",
+     "stonewalling-conflict-withdrawal-warning-sign"
+    ]
+   }
+  },
+  {
+   "id": "marriage",
+   "label": "結婚・同棲を考えたら",
+   "cells": {
+    "read": [
+     "marriage-compatibility-research"
+    ],
+    "why": [
+     "mate-preference-gender-difference-research",
+     "age-gap-marriage-satisfaction-research",
+     "premarital-cohabitation-divorce-risk-research",
+     "marriage-satisfaction-u-curve-myth-research"
+    ],
+    "act": [
+     "marriage-compatibility-research"
+    ]
+   }
+  },
+  {
+   "id": "danger-start",
+   "label": "始まりの違和感",
+   "cells": {
+    "read": [
+     "love-bombing-warning-signs-research",
+     "charming-first-impression-narcissism-research"
+    ],
+    "why": [
+     "charming-first-impression-narcissism-research"
+    ],
+    "use": [
+     "https://umbra.seadice.win/redflag-check/"
+    ]
+   }
+  },
+  {
+   "id": "danger-control",
+   "label": "束縛・支配",
+   "cells": {
+    "read": [
+     "jealousy-possessiveness-control-research",
+     "friend-isolation-coercive-control-danger-research",
+     "financial-infidelity-warning-signs-research"
+    ],
+    "why": [
+     "dating-violence-recognition-gender-gap-research"
+    ],
+    "after": [
+     "dating-violence-recognition-gender-gap-research",
+     "friend-isolation-coercive-control-danger-research"
+    ],
+    "use": [
+     "https://umbra.seadice.win/redflag-check/"
+    ]
+   }
+  },
+  {
+   "id": "danger-mind",
+   "label": "心を揺さぶられる関係",
+   "cells": {
+    "read": [
+     "gaslighting-early-warning-signs",
+     "moral-harassment-behavior-patterns-research"
+    ],
+    "why": [
+     "trauma-bonding-why-hard-to-leave-research"
+    ],
+    "after": [
+     "trauma-bonding-why-hard-to-leave-research",
+     "gaslighting-early-warning-signs"
+    ]
+   }
+  },
+  {
+   "id": "breakup",
+   "label": "別れから立ち直る",
+   "cells": {
+    "why": [
+     "breakup-recovery-gender-difference-research",
+     "ghosting-psychological-effects-research"
+    ],
+    "after": [
+     "breakup-recovery-time-research",
+     "ghosting-psychological-effects-research"
+    ]
+   }
+  },
+  {
+   "id": "reunion",
+   "label": "復縁はうまくいくか",
+   "cells": {
+    "why": [
+     "on-again-off-again-reconciliation-research"
+    ],
+    "act": [
+     "reconciliation-success-rate-research"
+    ]
+   }
+  },
+  {
+   "id": "ex",
+   "label": "元恋人との距離",
+   "cells": {
+    "why": [
+     "ex-partner-social-media-checking-research",
+     "staying-friends-with-ex-research"
+    ],
+    "act": [
+     "staying-friends-with-ex-research"
+    ],
+    "after": [
+     "ex-partner-social-media-checking-research"
+    ]
+   }
+  }
+ ],
+ "research": []
+}
