@@ -27,6 +27,16 @@ jobs:
           channelId: live
           projectId: seadiceweb
           target: ${{ steps.sites.outputs.target }}
+      # 保持数を5にしても古い版はすぐには消えないので、デプロイのたびに消す（失敗した回も、次が通るように消す）
+      - name: Prune old Hosting versions
+        if: always()
+        continue-on-error: true
+        env:
+          SA_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_SEADICEWEB }}
+        run: |
+          printf '%s' "$SA_JSON" > "$RUNNER_TEMP/sa.json"
+          pip install -q google-auth requests
+          GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/sa.json" python3 media/prune_hosting.py
       - name: Notify IndexNow (Bing etc.) of updated articles
         if: github.event_name == 'push'
         run: python3 media/indexnow.py $(git diff --name-only HEAD~1 HEAD) || true
