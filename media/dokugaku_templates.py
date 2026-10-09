@@ -125,6 +125,11 @@ T = [
      "desc": "「もし〇〇したら、△△をする」の形で、勉強を始める場面と最初の行動を書くシート。机に貼れる切り取りカードと、2週間のチェック欄つき。94の検証をまとめた実行意図の研究がもとの無料テンプレート。",
      "lead": "「もし〇〇したら、△△をする」を書いて、勉強を始める場面を前もって決めるシートです。",
      "hub": "勉強を始める場面を1文で決める。机に貼れるカードつき。", "basis": "実行意図（Gollwitzer・Sheeran 2006 ほか）"},
+    {"id": "wallpaper", "title": "if-thenプランの壁紙（スマホのロック画面用）",
+     "seo": "勉強のスマホ壁紙｜if-thenプランを入れてロック画面に置く（無料・作成ツール）",
+     "desc": "「もし〇〇したら、△△をする」を入れると、スマホのロック画面用の壁紙画像を作ります。勉強を始める場面を毎日目に入る所に置くための無料ツール。94の検証をまとめた実行意図の研究がもと。",
+     "lead": "「もし〇〇したら、△△をする」を入れると、スマホのロック画面用の壁紙ができます。",
+     "hub": "if-thenプランをロック画面に。入れるだけで壁紙画像ができる。", "basis": "実行意図（Gollwitzer・Sheeran 2006）"},
     {"id": "study-plan", "title": "勉強計画表（見積もり調整つき）",
      "seo": "勉強計画表 テンプレート｜やることを書き出し、過去の実績で見積もりを調整して印刷（無料・PDF）",
      "desc": "やることを書き出して時間を見積もり、前回の実績の倍率で調整する勉強計画表。期限までに間に合うかも計算します。人は作業時間を短く見積もりがちという計画錯誤の研究がもとの無料テンプレート。",
@@ -357,6 +362,74 @@ t["css"] = (".tp-sheet table.slp-t{table-layout:fixed}.sl-dt{width:5.6em;white-s
             "@media print{.tp-sheet{font-size:9.5pt}.slp-t td{height:6.6mm}.tp-h{margin-bottom:6px}}")
 PAGES.append(page(t, sheet, controls, after, faqs, ["harkin"], js))
 
+# ---------- 6. if-thenプランの壁紙(画像を作るだけで印刷はしない) ----------
+t = BY["wallpaper"]
+WP_FAQ = [("壁紙にすると、本当に勉強を始めやすくなりますか？", "壁紙そのものの効果を確かめた研究はありません。根拠は、始める場面と行動を前もって決める実行意図の研究（94の検証のまとめで d=0.65）です。壁紙は、決めたプランを毎日目に入る所に置くための工夫です。"),
+          ("文字が時計や通知に重なりませんか？", "時計が出る画面の上の方と、ボタンが並ぶ下の方を空けて、真ん中より少し下に文字を置いています。機種によってずれるときは、ロック画面の設定で写真の位置を上下に動かしてください。"),
+          ("入力した内容はどこかに送られますか？", "送られません。画像はブラウザの中で作り、保存もしません。")]
+wp_ld = {"@context": "https://schema.org", "@graph": [
+    {"@type": "WebApplication", "name": t["title"], "url": f"{BASE}templates/wallpaper/", "applicationCategory": "EducationalApplication", "operatingSystem": "Any",
+     "isAccessibleForFree": True, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "JPY"}, "description": t["desc"], "dateModified": "2026-10-09", "publisher": PUB},
+    faq_ld(WP_FAQ)]}
+others = "".join(f'<li><a href="/templates/{x["id"]}/">{E(x["title"])}</a></li>' for x in T if x["id"] != "wallpaper")
+wp_body = ('<script type="application/ld+json">' + json.dumps(wp_ld, ensure_ascii=False).replace("</", "<\\/") + "</script>"
+           f'<p>{t["lead"]}無料・登録不要で、入力した文字はどこにも送られません。</p>'
+           '<form class="tp-opt" id="wp-f" onsubmit="return false">'
+           '<label for="wp-a">もし（毎日ほぼ必ず起きる場面）</label><input id="wp-a" maxlength="24" placeholder="帰りの電車に座ったら" value="帰りの電車に座ったら">'
+           '<p class="tp-hint">「〜したら」「〜のとき」の形で書きます。</p>'
+           '<label for="wp-b">をする（始めた瞬間にやること）</label><input id="wp-b" maxlength="24" placeholder="単語アプリで10問解く" value="単語アプリで10問解く">'
+           '<label for="wp-g">目標（任意・小さく入ります）</label><input id="wp-g" maxlength="30" placeholder="例：来年3月の簿記2級に受かる">'
+           '<div class="wp-2"><div><label for="wp-t">色</label><select id="wp-t"><option value="night">夜（紺と金）</option><option value="paper">紙（白とすみ色）</option><option value="sea">海（青のグラデーション）</option></select></div>'
+           '<div><label for="wp-s">機種</label><select id="wp-s"><option value="1179x2556">iPhone</option><option value="1080x2400">Android</option></select></div></div>'
+           '</form>'
+           '<div class="wp-pv"><img id="wp-img" alt="作った壁紙のプレビュー" width="240" height="520"></div>'
+           '<div class="tp-bar" style="justify-content:center"><a class="tp-btn" id="wp-dl" download="ifthen-wallpaper.png" href="#" style="text-decoration:none">壁紙を保存する</a></div>'
+           '<p class="tp-hint" style="text-align:center">iPhoneは、上の画像を長押しして「“写真”に保存」でも保存できます。</p>'
+           '<p class="answer"><strong>結論：始める場面と最初の行動を1文で決め、その場面で目に入る所に置きます。</strong>ロック画面なら、スマホを手に取るたびに目に入ります。</p>'
+           '<h2>この壁紙の根拠</h2>'
+           '<p>「もし場面Yになったら、行動Zをする」と前もって決めることを実行意図（if-thenプラン）と呼びます。94の独立した検証をまとめたメタ分析（Gollwitzer・Sheeran 2006）では、目標の達成に「中〜大」の効果（d=0.65）がありました。</p>'
+           '<div class="note">壁紙にすること自体の効果を確かめた研究はありません。決めたプランを忘れないための置き場所の工夫です。プランは1つに絞り、3日続かなければ場面を変えて作り直してください。くわしくは<a href="/implementation-intentions-if-then-study/">実行意図の記事</a>で解説しています。</div>'
+           '<h2>壁紙に設定するには</h2><ul class="steps">'
+           '<li><strong>iPhone</strong>：「写真」アプリで保存した画像を開き、共有ボタン →「壁紙に使用」→ ロック画面に設定</li>'
+           '<li><strong>Android</strong>：ギャラリーで画像を開き、メニュー →「壁紙に設定」→ ロック画面（機種によって表示が違います）</li></ul>'
+           '<h2>入力例</h2><table class="rt-t"><thead><tr><th>もし</th><th>をする</th></tr></thead>'
+           '<tbody><tr><td>帰りの電車に座ったら、</td><td>単語アプリで10問解く</td></tr><tr><td>朝のコーヒーをいれたら、</td><td>昨日の範囲を3分で書き出す</td></tr><tr><td>お風呂から上がったら、</td><td>テキストを1ページ開く</td></tr></tbody></table>'
+           '<p>紙に書いて机に貼りたいときは<a href="/templates/if-then/">if-thenプランシート</a>が使えます。</p>'
+           + faq_html(WP_FAQ)
+           + f'<h2>ほかのテンプレート</h2><ul class="steps">{others}</ul><p><a href="/templates/">勉強のテンプレート一覧に戻る</a></p>'
+           '<div class="sources"><h2>出典</h2><ol><li>' + SRC["gollwitzer"] + '</li></ol></div>')
+WP_JS = r"""
+(function(){
+var T={night:{bg:['#0B1020','#141d38'],fg:'#EAF0FA',sub:'#93A3BE',ac:'#F5C542'},paper:{bg:['#F7F5EF','#EDE9DF'],fg:'#1d2330',sub:'#6b7385',ac:'#1d2330'},sea:{bg:['#1e4f9c','#0B1020'],fg:'#FFFFFF',sub:'#bcd2f2',ac:'#8CE0FF'}};
+var F='-apple-system,BlinkMacSystemFont,"Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP",sans-serif';
+function $(i){return document.getElementById(i)}
+var url='';
+function brk(c,s,max){var out=[],l='';for(var i=0;i<s.length;i++){var ch=s[i],t=l+ch;if(c.measureText(t).width>max&&l&&'、。，．」）！？ーっゃゅょ'.indexOf(ch)<0){out.push(l);l=ch}else l=t}if(l)out.push(l);return out}
+function wrap(c,s,max){var n=brk(c,s,max).length,lo=max*.4,hi=max;if(n>1){for(var k=0;k<12;k++){var md=(lo+hi)/2;if(brk(c,s,md).length>n)lo=md;else hi=md}}return brk(c,s,hi).slice(0,3)}
+function draw(){
+ var sz=$('wp-s').value.split('x'),W=+sz[0],H=+sz[1],th=T[$('wp-t').value],c=document.createElement('canvas');c.width=W;c.height=H;var x=c.getContext('2d');
+ var g=x.createLinearGradient(0,0,0,H);g.addColorStop(0,th.bg[0]);g.addColorStop(1,th.bg[1]);x.fillStyle=g;x.fillRect(0,0,W,H);
+ var a=$('wp-a').value.trim()||'＿＿＿＿',b=$('wp-b').value.trim()||'＿＿＿＿',gl=$('wp-g').value.trim(),m=W*.11,mx=W-2*m,big=W*.072,sm=W*.044;
+ x.textBaseline='top';x.font='700 '+big+'px '+F;var la=wrap(x,a+'、',mx),lb=wrap(x,b,mx);
+ var h=sm*1.9+la.length*big*1.35+big*.5+sm*1.9+lb.length*big*1.35+sm*1.6+(gl?sm*3.2:0),y=Math.max(H*.40,H*.62-h/2);
+ x.fillStyle=th.ac;x.fillRect(m,y,W*.06,W*.008);y+=sm*.9;
+ x.font='600 '+sm+'px '+F;x.fillStyle=th.sub;x.fillText('もし',m,y);y+=sm*1.6;
+ x.font='800 '+big+'px '+F;x.fillStyle=th.fg;la.forEach(function(l){x.fillText(l,m,y);y+=big*1.35});y+=big*.5;
+ x.font='600 '+sm+'px '+F;x.fillStyle=th.sub;x.fillText('すぐに',m,y);y+=sm*1.6;
+ x.font='800 '+big+'px '+F;x.fillStyle=th.ac;lb.forEach(function(l){x.fillText(l,m,y);y+=big*1.35});
+ x.font='600 '+sm+'px '+F;x.fillStyle=th.sub;x.fillText('をする。',m,y);y+=sm*1.6;
+ if(gl){y+=sm*1.2;x.font='500 '+(sm*.85)+'px '+F;x.fillText(wrap(x,'目標：'+gl,mx)[0],m,y)}
+ c.toBlob(function(bl){if(!bl)return;if(url)URL.revokeObjectURL(url);url=URL.createObjectURL(bl);$('wp-img').src=url;$('wp-img').height=Math.round(240*H/W);$('wp-dl').href=url});
+}
+var tm;['wp-a','wp-b','wp-g','wp-t','wp-s'].forEach(function(i){$(i).addEventListener('input',function(){clearTimeout(tm);tm=setTimeout(draw,150)})});
+draw();
+})();
+"""
+PAGES.append({"path": "templates/wallpaper", "title": t["title"], "seo_title": t["seo"], "date": "2026-10-09", "desc": t["desc"],
+              "body": wp_body + "<script>" + WP_JS + "</script>", "parent": PARENT,
+              "css": CSS + ".wp-2{display:grid;grid-template-columns:1fr 1fr;gap:10px}.wp-2 label{display:block;margin-bottom:6px}"
+                     ".wp-pv{display:flex;justify-content:center;margin:8px 0}.wp-pv img{width:240px;height:auto;border-radius:22px;border:1px solid var(--border);box-shadow:0 8px 28px rgba(0,0,0,.4);background:var(--card)}"})
+
 # ---------- 一覧 /templates/ ----------
 HUB_FAQ = [("勉強のテンプレートは無料ですか？", "無料です。登録も不要で、広告もありません。印刷するか、PDFで保存して使えます。"),
            ("学校や勉強会でコピーして配ってもいいですか？", "個人の勉強や、授業・勉強会でコピーして配るのは自由です。テンプレートそのものの販売や、ほかのサイトでの再配布はご遠慮ください。"),
@@ -372,7 +445,7 @@ hub_body = ('<script type="application/ld+json">' + json.dumps(hub_ld, ensure_as
             f'<div class="tp-grid">{cards}</div>'
             '<h2>おすすめの組み合わせ</h2>'
             '<ol class="steps"><li><a href="/templates/study-plan/">勉強計画表</a>でやることを書き出し、期限に間に合うか確かめる</li>'
-            '<li><a href="/templates/if-then/">if-thenプランシート</a>で、毎日始める場面を1つ決める</li>'
+            '<li><a href="/templates/if-then/">if-thenプランシート</a>で毎日始める場面を1つ決め、<a href="/templates/wallpaper/">壁紙</a>にしてロック画面に置く</li>'
             '<li>勉強した日は<a href="/templates/recall-note/">暗記ノート</a>で思い出す練習をし、<a href="/templates/review-calendar/">復習カレンダー</a>の日にもう一度</li>'
             '<li><a href="/templates/study-log/">勉強の記録表</a>に1行残し、実際にかかった時間を次の計画に使う</li></ol>'
             '<p>どの勉強法が研究で効くとわかっているかは、<a href="/hayami/">勉強法の早見表</a>にまとめています。</p>'
@@ -382,5 +455,5 @@ hub_css = (CSS + ".tp-grid{display:grid;grid-template-columns:repeat(auto-fill,m
            ".tp-card span{color:var(--text)!important}.tp-card:hover,.tp-card:focus-visible{border-color:var(--accent)}.tp-card b{font-size:16px;line-height:1.5}.tp-card span{font-size:14px;line-height:1.7}.tp-card small{font-size:12px;color:var(--muted)}")
 PAGES.insert(0, {"path": "templates", "title": "勉強のテンプレート集（無料・印刷できる）",
                  "seo_title": "勉強のテンプレート集｜無料で印刷・PDF保存できる学習計画表・記録表・暗記ノート",
-                 "date": DATE, "desc": "勉強計画表・勉強の記録表・暗記ノート・復習カレンダー・if-thenプランシートを無料で印刷・PDF保存できます。どれも効果が研究で確かめられた勉強法がもと。登録不要・広告なし。",
+                 "date": DATE, "desc": "勉強計画表・勉強の記録表・暗記ノート・復習カレンダー・if-thenプランシートを無料で印刷・PDF保存できます。スマホのロック画面用の壁紙も作れます。どれも効果が研究で確かめられた勉強法がもと。登録不要・広告なし。",
                  "body": hub_body, "css": hub_css})
