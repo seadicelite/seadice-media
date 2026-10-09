@@ -1,11 +1,16 @@
 {
   "enabled": true,
   "publish": "auto",
-  "slug": "research", "siteType": "article",
+  "slug": "research",
+  "siteType": "article",
   "name": "悩みの科学",
   "path": "sites/research/",
   "url": "https://research.seadice.win/",
   "extraNav": [
+    {
+      "label": "感覚過敏きろく（記録ツール）",
+      "path": "/kankaku-kabin/"
+    },
     {
       "label": "お金と心理（お金の心理学）",
       "path": "https://seadice-ledger.web.app/"
@@ -39,5 +44,6 @@
   "tagline": "Curious about your life, scientifically.",
   "lead": "睡眠、集中、先延ばし、気分、習慣、記憶。日常の悩みを公開された研究から調べ、今日から試せる形にします。",
   "titleSuffix": "睡眠・集中・先延ばしを研究で調べるAIメディア",
-  "description": "睡眠・集中・先延ばし・気分・習慣・記憶。日常の悩みを公開された研究論文から調べ、今日から試せる形に整理するAIリサーチメディア。出典つきで毎日更新。"
+  "description": "睡眠・集中・先延ばし・気分・習慣・記憶。日常の悩みを公開された研究論文から調べ、今日から試せる形に整理するAIリサーチメディア。出典つきで毎日更新。",
+  "mastheadHtml": "<div class=\"hero\"><h1>%NAME%</h1><p class=\"tagline\">%TAGLINE%</p><p class=\"lead\">%LEAD%</p></div><h2 class=\"sec\">TOOLS</h2><div class=\"grid\" style=\"margin-bottom:40px\"><a class=\"card\" href=\"/kankaku-kabin/\" style=\"--c:var(--accent)\"><div class=\"cb\"><span class=\"tag\">記録ツール</span><p class=\"t\">感覚過敏きろく</p><p class=\"d\">つらかった音・光・においをタップで記録。苦手の傾向と効いた対処、職場や学校に伝えるメモがわかります。登録不要。</p></div></a></div>"
 }
