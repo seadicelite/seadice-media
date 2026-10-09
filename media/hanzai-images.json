@@ -937,5 +937,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Old_television_set_at_the_Finnish_Architecture_Museum.jpg/500px-Old_television_set_at_the_Finnish_Architecture_Museum.jpg",
   "og": "https://hanzai.seadice.win/img/flashbulb-memory-accuracy.jpg",
   "local": true
+ },
+ "interrogation-video-recording": {
+  "file": "File:2023 Kamkorder Samsung VP-M50.jpg",
+  "src": "/img/interrogation-video-recording.jpg",
+  "src640": "/img/interrogation-video-recording-sm.jpg",
+  "w": 960,
+  "h": 652,
+  "alt": "ビデオカメラ",
+  "artist": "Jacek Halicki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2023_Kamkorder_Samsung_VP-M50.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2023_Kamkorder_Samsung_VP-M50.jpg/960px-2023_Kamkorder_Samsung_VP-M50.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2023_Kamkorder_Samsung_VP-M50.jpg/500px-2023_Kamkorder_Samsung_VP-M50.jpg",
+  "og": "https://hanzai.seadice.win/img/interrogation-video-recording.jpg",
+  "local": true
  }
 }

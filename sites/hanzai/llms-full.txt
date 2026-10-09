@@ -2966,6 +2966,138 @@ A. 研究の多くは地域や国単位の分析です。なぜ格差が暴力�
 
 ---
 
+# 取り調べを録画すると何が変わるのか。手法を控える警察官と、カメラの向きで偏る自白の評価
+
+URL: https://hanzai.seadice.win/interrogation-video-recording/
+カテゴリ: 取り調べと冤罪
+公開日: 2026-10-09
+
+「取り調べを録画すれば、無理な自白は防げるはず」。そう考える人は多いでしょう。研究では、録画されていると知った警察官は、圧力をかける手法を使いにくくなりました。一方で、録画の映像を見る側の判断は、カメラを誰に向けるかで偏ることもわかっています。録画は万能の解決策ではなく、撮り方と見方まで含めて考える必要があります。
+
+## SUMMARY
+
+- 警察官61人の実験では、録画されていると知らされた人は、罪を軽く見せて自白を促す手法を使うことが少なかった。
+
+- 警察官が書いた取り調べの報告書は、自分が使った圧力の手法を書き漏らしがちで、報告書だけを読んだ人は容疑者を誤って有罪と判断しやすかった。
+
+- 容疑者だけを映した映像は、自白を「自発的」に見せやすい。裁判官役への注意の説明でも、この偏りは消えなかった。
+
+## 01 どんな心の仕組みが働いているのか
+
+録画には2つの面があります。見られていると意識した取り調べ側の行動が変わる面と、映像を見る側が画面に映ったものに原因を求めやすくなる面です。
+
+取り調べは、多くの国で密室で行われてきました。その中で何が起きたかを後から知る手がかりは、長いあいだ警察官の報告書や容疑者の証言でした。どちらにも記憶違いや立場による偏りが入りえます。
+
+そこで2010年、心理学者らの総説（白書）は、虚偽自白を防ぐ策として、取り調べ全体を録画することを強く勧めました[1]。
+
+ただし映像にも癖があります。人は画面の中で目立つ人物を、出来事の原因と見なしやすい傾向があります。容疑者の顔だけが映っていると、自白は容疑者自身の意思で出たように見えやすくなります[5]。
+
+## 02 研究でわかっていること
+
+録画は取り調べの手法を変え、報告書より正確な記録を残します。一方で、容疑者だけを映す撮り方は自白の評価を偏らせ、その偏りは注意の説明でも消えませんでした。
+
+61人録画の有無を知らせるかどうかで比べた警察官（2014年の実験）
+
+1割未満→半数超米国で録画される取り調べの割合。2007年の調査と2024年の調査の比較
+
+約3%日本で録音・録画の対象になる刑事事件の割合（2026年の論文の指摘）
+
+Kassinら（2014）[2]
+
+中規模都市の警察で、捜査員61人が模擬の事件現場を調べ、模擬の容疑者を取り調べた。容疑者の半数は実際に模擬の犯行をしており、半数は無実だった。録画されていると知らされた捜査員は、知らされなかった人より「罪を軽く見せる言葉」を使うことが少なかった。強く問い詰める手法もわずかに少ない傾向だった。予想外の結果として、録画を知らされた捜査員のほうが、真犯人と無実の人をよく見分けていた。
+
+対象: 現役の捜査員61人。取り調べはすべてひそかに録画 ／ 限界: 短く結果の重くない場面。著者らは、この変化を好ましいと見るかどうかは今後の検討課題としている。
+
+Kassinら（2017）[3]
+
+経験のある警察官16人が、無実の模擬容疑者を2人ずつ取り調べ、報告書を書いた。全32回をひそかに録画して照らし合わせると、報告書は問い詰めや偽の証拠の提示などを書き漏らしがちだった。一般の96人で比べると、報告書を読んだ人は逐語の記録を読んだ人より取り調べの圧力を低く見積もり、無実の容疑者を有罪と誤って判断しやすかった。
+
+対象: 警察官16人と一般の参加者96人 ／ 限界: 取り調べが短く重さも小さい。容疑の強さを操作した条件では差が出なかった。
+
+Lassiterら（2002）[4]
+
+録画した自白は、カメラの向きで「自発的だったか」の評価が変わる。この偏りを、本物に近い模擬裁判の映像で確かめた。裁判官役から注意を促す説明をしても、自発性の評価と最終的な評決への影響は消えなかった。2つ目の研究では、取り調べる側に焦点を当てた撮り方が、強制の気配に気づきやすくする可能性が示された。
+
+対象: 模擬陪審員 ／ 限界: 模擬裁判であり、実際の評議とは条件が違う。
+
+Snyderら（2009）[6]
+
+容疑者と取り調べ官の顔を左右に並べて映す「2画面」の撮り方を調べた。自発性や有罪の評価は比較的偏らなかった。しかし本当の自白と虚偽の自白を見分ける力では、比べた見せ方の中で最も低い部類だった。偏りが少ないことと、正しく見分けられることは別だった。
+
+対象: 実験参加者 ／ 限界: 用意した模擬の自白映像での結果。
+
+ParkとPyo（2012）[7]
+
+韓国の陪審員資格のある成人146人でも、カメラの向きによる偏りが確認された。さらに、映像なしで音声だけを聞かせても、「自白の自発性を判断して」と指示するか「取り調べの強制性を判断して」と指示するかで、同じ偏りが生じた。カメラの向きは、見る人に判断の「枠組み」を与えているという解釈を示した。
+
+対象: 韓国の成人（3つの実験） ／ 限界: 偏りの原因を「見え方」に求める先行研究[8]とは解釈が分かれている。
+
+Brimbalら（2024）[9]
+
+米国の警察官526人への調査。2007年の調査では、ビデオで録画される取り調べは1割未満だった。今回の調査では半数を超えていた。取り調べの平均時間は約1.6時間で、2007年とほぼ変わらなかった。
+
+対象: 米国各地の警察官526人 ／ 限界: 本人の回答による調査で、変化の原因はわからない。
+
+## 03 よくある思い込みと、研究が示す実際
+
+「録画すれば真実が見える」は言いすぎです。録画は取り調べを変え記録を正確にしますが、映像の評価は撮り方と見る人の構えに左右されます。
+
+MYTH / 思い込み映像があれば、自白が無理やりかどうかは誰でも見抜ける。
+FACT / 研究では容疑者だけを映した映像は、自白を自発的に見せやすくなります。注意を促す説明でもこの偏りは消えませんでした[4]。
+
+MYTH / 思い込み警察官の報告書を読めば、取り調べの様子は正確にわかる。
+FACT / 研究では報告書は圧力の手法を書き漏らしがちで、読んだ人は無実の人を有罪と誤りやすくなりました[3]。
+
+MYTH / 思い込み録画が導入されれば、どの取り調べも記録に残る。
+FACT / 研究では日本では録音・録画の対象は刑事事件の約3%にとどまり、逮捕されていない人への取り調べはふつう録画されないと指摘されています[10]。
+
+## 04 日常で生かせる視点
+
+録画の映像や報告書に触れるときは、「何が映っていて、何が映っていないか」を意識すると、判断の偏りを減らせます。
+
+- ニュースで取り調べの映像が流れたら、カメラが誰を映しているかを確かめる。取り調べる側の言葉や態度が映っていない映像は、印象が偏りやすい。
+
+- 裁判員として録画を見るときは、自白の場面だけでなく、そこに至るまでの全体の流れと、取り調べる側の働きかけに注目する。問い詰める取り調べと話を聞く取り調べの違いを知っておくと手がかりになる。
+
+- 要約や報告書は、書いた人の視点で整理されたものだと考える。可能なら元の記録と照らし合わせる。
+
+## 05 よくある質問
+
+Q. 日本の取り調べはすべて録画されているのですか？
+A. いいえ。2026年の論文では、日本で録音・録画の対象になるのは刑事事件の約3%にとどまると指摘されています。逮捕・勾留されていない人への取り調べは、ふつう録画されないとも書かれています。
+
+Q. 取り調べを録画すれば、虚偽自白はなくなりますか？
+A. なくなるとは言えません。録画を知った警察官は一部の手法を控えましたが、実験は短く重さの小さい場面でした。映像を見る側にも偏りが生じるため、録画は撮り方と使い方を整えて初めて生きる、と研究者は注意を促しています[11]。
+
+Q. カメラの向きで、なぜ判断が変わるのですか？
+A. 画面で目立つ人物を出来事の原因と見なしやすいためだと考えられています。この偏りが「見え方」から来るのか、見る人に与えられる判断の「枠組み」から来るのかは、研究者の間で解釈が分かれています。
+
+## SOURCES
+
+- Kassin, S. M., Drizin, S. A., Grisso, T., Gudjonsson, G. H., Leo, R. A., & Redlich, A. D. (2010). Police-induced confessions: Risk factors and recommendations. Law and Human Behavior, 34(1), 3-38. https://doi.org/10.1007/s10979-009-9188-6
+
+- Kassin, S. M., Kukucka, J., Lawson, V. Z., & DeCarlo, J. (2014). Does video recording alter the behavior of police during interrogation? A mock crime-and-investigation study. Law and Human Behavior, 38(1), 73-83. https://doi.org/10.1037/lhb0000047
+
+- Kassin, S. M., Kukucka, J., Lawson, V. Z., & DeCarlo, J. (2017). Police reports of mock suspect interrogations: A test of accuracy and perception. Law and Human Behavior, 41(3), 230-243. https://doi.org/10.1037/lhb0000225
+
+- Lassiter, G. D., Geers, A. L., Handley, I. M., Weiland, P. E., & Munhall, P. J. (2002). Videotaped interrogations and confessions: A simple change in camera perspective alters verdicts in simulated trials. Journal of Applied Psychology, 87(5), 867-874. https://doi.org/10.1037/0021-9010.87.5.867
+
+- Adams, D., Paterson, H. M., & MacDougall, H. G. (2020). Law and (rec)order: Updating memory for criminal events with body-worn cameras. PLOS ONE, 15(12), e0243226.（Lassiter & Irvine, 1986 の結果の紹介を参照） https://doi.org/10.1371/journal.pone.0243226
+
+- Snyder, C. J., Lassiter, G. D., Lindberg, M. J., & Pinegar, S. K. (2009). Videotaped interrogations and confessions: Does a dual-camera approach yield unbiased and accurate evaluations? Behavioral Sciences & the Law, 27, 451-466. https://doi.org/10.1002/bsl.875
+
+- Park, K., & Pyo, J. (2012). An explanation for camera perspective bias in voluntariness judgment for video-recorded confession: Suggestion of cognitive frame. Law and Human Behavior, 36(3), 184-194. https://doi.org/10.1037/h0093967
+
+- Ratcliff, J. J., Lassiter, G. D., Schmidt, H. C., & Snyder, C. J. (2006). Camera perspective bias in videotaped confessions: Experimental evidence of its perceptual basis. Journal of Experimental Psychology: Applied, 12(4), 197-206. https://doi.org/10.1037/1076-898X.12.4.197
+
+- Brimbal, L., Roche, S. P., & Martaindale, M. H. (2024). Interviewing and interrogation practices and beliefs, 20 years later: A national self-report survey of American police. Law and Human Behavior, 48(4), 247-261. https://doi.org/10.1037/lhb0000570
+
+- Zhang, Y., Otgaar, H., Zhang, Y., Sumampouw, N. E. J., Isa, T., Wang, J., Nishi, Y., & Ko, Y.-C. (2026). Towards an Asian registry of wrongful convictions. Forensic Science International: Synergy, 13, 100726. https://doi.org/10.1016/j.fsisyn.2026.100726
+
+- Lassiter, G. D. (2010). Psychological science and sound public policy: Video recording of custodial interrogations. American Psychologist, 65(8), 768-779. https://doi.org/10.1037/0003-066X.65.8.768
+
+---
+
 # 「再犯者率46%」は再犯が増えている証拠なのか。犯罪白書の数字の読み方と、出所者の再入率の実際
 
 URL: https://hanzai.seadice.win/japan-recidivism-current-state/

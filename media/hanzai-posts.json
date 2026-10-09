@@ -1,5 +1,13 @@
 [
   {
+    "slug": "interrogation-video-recording",
+    "category": "取り調べと冤罪",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "取り調べを録画すると何が変わるのか。手法を控える警察官と、カメラの向きで偏る自白の評価",
+    "summary": "録画を知った警察官は自白を促す手法を控えた。一方、容疑者だけを映す映像は自白を自発的に見せ、評価を偏らせる。"
+  },
+  {
     "slug": "flashbulb-memory-accuracy",
     "category": "記憶と目撃証言",
     "type": "guide",
