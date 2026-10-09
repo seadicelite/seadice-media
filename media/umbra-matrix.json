@@ -43,6 +43,9 @@
     ],
     "use": [
      "https://umbra.seadice.win/myakuari-check/"
+    ],
+    "after": [
+     "unrequited-love-rejection-recovery-research"
     ]
    }
   },
@@ -118,6 +121,9 @@
     ],
     "use": [
      "https://umbra.seadice.win/shigusa/"
+    ],
+    "act": [
+     "showing-interest-nonverbal-immediacy-research"
     ]
    }
   },
@@ -254,6 +260,9 @@
     "why": [
      "attachment-style-relationship-compatibility",
      "destiny-belief-relationship-satisfaction-research"
+    ],
+    "after": [
+     "incompatibility-perpetual-problems-research"
     ]
    }
   },
@@ -357,6 +366,9 @@
     "after": [
      "trauma-bonding-why-hard-to-leave-research",
      "gaslighting-early-warning-signs"
+    ],
+    "act": [
+     "emotional-abuse-noticed-first-steps-research"
     ]
    }
   },
@@ -371,6 +383,9 @@
     "after": [
      "breakup-recovery-time-research",
      "ghosting-psychological-effects-research"
+    ],
+    "act": [
+     "breakup-recovery-actions-reappraisal-research"
     ]
    }
   },

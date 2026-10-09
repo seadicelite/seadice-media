@@ -37,6 +37,7 @@
 - [よく褒めてくるのは好意のサインか。褒め言葉と好意・お世辞の研究](https://umbra.seadice.win/compliments-flattery-liking-signal-research/): 褒め言葉は好意にも手段にもなる。誰にでも向けた好意はかえって好かれにくいことも研究で判明
 - [好きな人と話すと声は変わるのか。声の高さと好意の研究](https://umbra.seadice.win/voice-pitch-attraction-research/): 気になる相手には声の高さが変わりやすい。ただし高くなるか低くなるかは研究や状況で違い、好意の決め手にはならない。
 - [上目遣いは好意のサインか。研究でわかった「顔の角度」の効果](https://umbra.seadice.win/downward-glance-head-tilt-attraction-signal/): 顔を下に傾ける動きは、小さな微笑みと正面への視線を伴うと誘い（好意）の表情と受け取られやすく、無表情のままだと支配的な印象が強まることを複数の研究から確認した。
+- [脈なしとわかったら、気持ちはどう立て直すか。片思いと失恋からの回復の研究](https://umbra.seadice.win/unrequited-love-rejection-recovery-research/): 片思いは両思いより心の乱れが強い。自分に優しく接する、気をそらす、相手のいない自分を描き直すことが回復と結びつく
 
 #### 連絡・LINEに出るサイン
 
@@ -71,6 +72,7 @@
 - [しぐさが似てくるのは好意のサインか。「カメレオン効果」の研究でわかったこと](https://umbra.seadice.win/chameleon-effect-mimicry-liking-research/): 好意があるとしぐさは似てきやすい。ただし、わざと真似をして好かれる効果は再現されないこともあった。
 - [首をかしげるしぐさは何を伝えているのか。頭の傾きと印象の研究](https://umbra.seadice.win/head-tilt-impression-research/): 頭の傾きは顔の見え方を変えて印象を動かす。ただし首をかしげる動作だけで好意や本音は読めない
 - [相づち・うなずきが多い人は本当に聞いているのか。うなずきと好印象の研究](https://umbra.seadice.win/nodding-backchannel-listening-likeability-research/): うなずきは好印象を生むが、気が散っても続きやすい。聞いている証拠は中身に合った反応と質問
+- [好意はしぐさでどう伝わるのか。笑顔・視線・距離の「近さ」の研究](https://umbra.seadice.win/showing-interest-nonverbal-immediacy-research/): 好意を伝えるなら、それっぽいしぐさより、近くにいる・話す・目を向けてうなずく。緊張する人は一言で補う。メタ分析と実験で確認
 
 #### 嘘や本音は見抜けるか
 
@@ -115,6 +117,7 @@
 - [会話のテンポが合う相手ほど相性がいいのか。同期の心理学研究でわかったこと](https://umbra.seadice.win/conversation-synchrony-compatibility-research/): 話すテンポや身体の動きが自然と重なる「同期」の度合いが高いほど、好意や関係の継続率が高い傾向が複数の研究で示されている。
 - [「追いかけると、逃げる」を繰り返すのはなぜ？愛着スタイルと恋愛の相性の研究](https://umbra.seadice.win/attachment-style-relationship-compatibility/): 不安型と回避型の組み合わせが「追いかける・離れる」を強める。愛着スタイルと相性の研究を紹介。
 - [「運命の人」を信じるほど関係がうまくいかなくなるのか。暗黙の関係理論の研究](https://umbra.seadice.win/destiny-belief-relationship-satisfaction-research/): 対立を相性の欠如と結びつける「運命思考」と、努力で築けると考える「成長思考」の違いを研究から確認した。
+- [価値観が合わないとわかったら、別れるべきか。「解決しない問題」とのつきあい方の研究](https://umbra.seadice.win/incompatibility-perpetual-problems-research/): 同じ喧嘩のくり返しは相性の証拠ではない。違いの有無より、話し方と受け止め方が関係の質と関わる。判断の手がかりと相談先も紹介。
 
 #### 長続きする関係
 
@@ -156,6 +159,7 @@
 - [「自分がおかしいのかも」と思ったら――ガスライティングの初期サイン](https://umbra.seadice.win/gaslighting-early-warning-signs/): 会話のあとの違和感は、あなたの弱さではない。研究でわかる初期サインと相談先を紹介。
 - [「謝れば許してもらえる」を繰り返す相手。モラハラをする人の行動パターンの研究](https://umbra.seadice.win/moral-harassment-behavior-patterns-research/): マキャベリズムと心理的暴力の関連、謝罪とやり直しを繰り返す加害サイクルなど、研究でわかっている行動パターンを整理
 - [ひどいことをされても離れられないのはなぜか。「トラウマボンディング」の研究](https://umbra.seadice.win/trauma-bonding-why-hard-to-leave-research/): ひどい扱いと優しさが交互に来る関係では、別れた後も強い愛着が残りやすいことが研究で示されている。
+- [モラハラ・ガスライティングかもしれないと気づいたら、最初にすること](https://umbra.seadice.win/emotional-abuse-noticed-first-steps-research/): 問い詰める前に、記録・信頼できる1人・安全計画・公的窓口の4つを。内閣府調査では被害者の44.2%が誰にも相談していなかった。
 
 
 ### 駆け引きと心理
@@ -189,6 +193,7 @@
 - [別れの傷が消えるまで、どれくらいかかるのか。立ち直りの期間を研究で調べた](https://umbra.seadice.win/breakup-recovery-time-research/): 156人を追跡した研究では気分の落ち込みは3か月ほどで戻ると報告。回復の早さを分ける要因も紹介。
 - [別れの痛みと未練、男女で違うのか。5,705人の国際調査でわかったこと](https://umbra.seadice.win/breakup-recovery-gender-difference-research/): 別れ直後の痛みは女性の方がやや大きかった。女性の方が立ち直るという説は研究者の解釈で、回復は測られていない。切り出した側は早く立ち直る傾向も。
 - [突然の音信不通「ゴースティング」はなぜこんなにつらいのか。研究でわかったこと](https://umbra.seadice.win/ghosting-psychological-effects-research/): 突然の音信不通は、はっきり振られるより仲間外れ感とコントロールを失う感覚を強めることが実験で示された。
+- [失恋から早く立ち直るには何をすればいい？「嫌な面を思い出す」「気をそらす」「書く」を研究で比べた](https://umbra.seadice.win/breakup-recovery-actions-reappraisal-research/): 元恋人の嫌な面を思い出すと好きな気持ちは下がるが気分は沈む。気をそらすと気分は上がる。反すうが強い人の深い筆記は逆効果の例も。
 
 #### 復縁はうまくいくか
 
