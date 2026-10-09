@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-output-copyright-work-use",
+  "category": "創作・著作権",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-09",
+  "title": "AIで作った文章や画像を仕事で使っても大丈夫？文化庁の考え方では「既存の作品に似ていないか」の確認が出発点",
+  "summary": "文化庁の考え方では類似性と依拠性で判断。AI生成物の著作権、使う前の検索・プロンプト記録など確認の手順を整理。"
+ },
+ {
   "slug": "ai-job-loss-recovery",
   "category": "仕事・キャリア",
   "type": "guide",
