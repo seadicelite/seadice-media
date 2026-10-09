@@ -1171,5 +1171,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Desk-laptop-notebook-table_%2823697249344%29.jpg/500px-Desk-laptop-notebook-table_%2823697249344%29.jpg",
   "og": "https://mentalai.seadice.win/img/ai-learning-age-40s-50s-og.jpg",
   "local": true
+ },
+ "vacation-recovery-fadeout": {
+  "file": "File:Man standing on wooden piers at Lake Balinsasayao 01.jpg",
+  "src": "/img/vacation-recovery-fadeout.jpg",
+  "src640": "/img/vacation-recovery-fadeout-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "湖の木の桟橋と青いボート",
+  "artist": "Capture Golden Light",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Man_standing_on_wooden_piers_at_Lake_Balinsasayao_01.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Man_standing_on_wooden_piers_at_Lake_Balinsasayao_01.jpg/960px-Man_standing_on_wooden_piers_at_Lake_Balinsasayao_01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Man_standing_on_wooden_piers_at_Lake_Balinsasayao_01.jpg/500px-Man_standing_on_wooden_piers_at_Lake_Balinsasayao_01.jpg",
+  "og": "https://mentalai.seadice.win/img/vacation-recovery-fadeout.jpg",
+  "local": true
  }
 }
