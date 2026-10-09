@@ -253,5 +253,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Clarkson_%28Frederick%29_Stanfield_-_Sketchbook_Drawing_-_B1988.4%2816%29_-_Yale_Center_for_British_Art.jpg/500px-Clarkson_%28Frederick%29_Stanfield_-_Sketchbook_Drawing_-_B1988.4%2816%29_-_Yale_Center_for_British_Art.jpg",
   "og": "https://ai.seadice.win/img/ai-training-data-my-work-check-og.jpg",
   "local": true
+ },
+ "face-recognition-camera-personal-data": {
+  "file": "File:JR East E232-7001 surveillance camera.jpg",
+  "src": "/img/face-recognition-camera-personal-data.webp",
+  "src640": "/img/face-recognition-camera-personal-data-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "電車の天井に取り付けられた「防犯カメラ作動中」の表示があるドーム型カメラ",
+  "artist": "Rsa",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:JR_East_E232-7001_surveillance_camera.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/JR_East_E232-7001_surveillance_camera.jpg/960px-JR_East_E232-7001_surveillance_camera.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/JR_East_E232-7001_surveillance_camera.jpg/500px-JR_East_E232-7001_surveillance_camera.jpg",
+  "og": "https://ai.seadice.win/img/face-recognition-camera-personal-data-og.jpg",
+  "local": true
  }
 }

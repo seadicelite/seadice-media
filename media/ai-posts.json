@@ -1,5 +1,14 @@
 [
  {
+  "slug": "face-recognition-camera-personal-data",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-09",
+  "title": "顔認証やAIカメラで自分の顔が登録されている？顔のデータは個人情報で、登録の有無は運営者に開示を求められる",
+  "summary": "顔特徴データは法律上の個人情報。防犯の顔識別カメラに求められる掲示や登録基準、開示請求の考え方と精度の研究を整理。"
+ },
+ {
   "slug": "ai-training-data-my-work-check",
   "category": "創作・著作権",
   "type": "guide",
