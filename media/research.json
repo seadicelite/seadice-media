@@ -45,5 +45,27 @@
   "lead": "睡眠、集中、先延ばし、気分、習慣、記憶。日常の悩みを公開された研究から調べ、今日から試せる形にします。",
   "titleSuffix": "睡眠・集中・先延ばしを研究で調べるAIメディア",
   "description": "睡眠・集中・先延ばし・気分・習慣・記憶。日常の悩みを公開された研究論文から調べ、今日から試せる形に整理するAIリサーチメディア。出典つきで毎日更新。",
-  "mastheadHtml": "<div class=\"hero\"><h1>%NAME%</h1><p class=\"tagline\">%TAGLINE%</p><p class=\"lead\">%LEAD%</p></div><h2 class=\"sec\">TOOLS</h2><div class=\"grid\" style=\"margin-bottom:40px\"><a class=\"card\" href=\"/kankaku-kabin/\" style=\"--c:var(--accent)\"><div class=\"cb\"><span class=\"tag\">記録ツール</span><p class=\"t\">感覚過敏きろく</p><p class=\"d\">つらかった音・光・においをタップで記録。苦手の傾向と効いた対処、職場や学校に伝えるメモがわかります。登録不要。</p></div></a></div>"
+  "mastheadHtml": "<div class=\"hero\"><h1>%NAME%</h1><p class=\"tagline\">%TAGLINE%</p><p class=\"lead\">%LEAD%</p></div><h2 class=\"sec\">TOOLS</h2><div class=\"grid\" style=\"margin-bottom:40px\"><a class=\"card\" href=\"/kankaku-kabin/\" style=\"--c:var(--accent)\"><div class=\"cb\"><span class=\"tag\">記録ツール</span><p class=\"t\">感覚過敏きろく</p><p class=\"d\">つらかった音・光・においをタップで記録。苦手の傾向と効いた対処、職場や学校に伝えるメモがわかります。登録不要。</p></div></a></div>",
+  "apps": [
+    {
+      "id": "habit-quit",
+      "name": "科学で断つ 悪習慣ログ",
+      "appStoreId": "6798075879",
+      "icon": "/img/apps/habit-quit.webp",
+      "catch": "やめたい習慣を登録すると、行動科学の知見からやめ方のカードを作成。「耐えた」を記録して、続いた日数が目に見える",
+      "hubLead": "やめたい習慣と向き合うときに読みたい、if-thenプラン・記録の効果・スマホやSNSとの距離の取り方・つまずいた後の立て直し方の研究です。",
+      "theme": "悪い習慣・やめたい行動を断つ、続ける仕組み、スマホやSNSから離れる、失敗後の立て直し。睡眠・集中力・学習法そのものの記事には付けない",
+      "articles": [
+        "if-then-planning-habit-research",
+        "habit-tracking-boosts-continuation",
+        "habit-formation-two-minute-rule",
+        "fresh-start-effect-habit-timing-research",
+        "social-media-break-wellbeing",
+        "bedtime-smartphone-sleep",
+        "phone-notifications-off-focus",
+        "phone-presence-attention-brain-drain",
+        "self-compassion-recovery-speed"
+      ]
+    }
+  ]
 }
