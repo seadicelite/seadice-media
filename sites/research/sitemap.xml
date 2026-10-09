@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://research.seadice.win/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -44,7 +44,7 @@
   </url>
   <url>
     <loc>https://research.seadice.win/caffeine-hours-before-bed/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -56,13 +56,13 @@
   </url>
   <url>
     <loc>https://research.seadice.win/habit-formation-two-minute-rule/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://research.seadice.win/focus-microbreaks-pomodoro/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -92,7 +92,7 @@
   </url>
   <url>
     <loc>https://research.seadice.win/spacing-effect-review-timing/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -134,7 +134,7 @@
   </url>
   <url>
     <loc>https://research.seadice.win/weekend-catchup-sleep-debt/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -158,43 +158,43 @@
   </url>
   <url>
     <loc>https://research.seadice.win/category/sleep/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://research.seadice.win/category/focus/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://research.seadice.win/category/delay/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://research.seadice.win/category/mood/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://research.seadice.win/category/habit/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://research.seadice.win/category/memory/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://research.seadice.win/motivation-before-action-research/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -224,7 +224,7 @@
   </url>
   <url>
     <loc>https://research.seadice.win/expressive-writing-mood-research/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -362,7 +362,7 @@
   </url>
   <url>
     <loc>https://research.seadice.win/daytime-light-exposure-night-sleep-research/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -398,7 +398,7 @@
   </url>
   <url>
     <loc>https://research.seadice.win/solitude-affective-restoration/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -410,7 +410,7 @@
   </url>
   <url>
     <loc>https://research.seadice.win/fresh-start-effect-habit-timing-research/</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -422,13 +422,19 @@
   </url>
   <url>
     <loc>https://research.seadice.win/bedtime-stretching-sleep-quality-research/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://research.seadice.win/noise-cancelling-focus-research/</loc>
     <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://research.seadice.win/sensory-overload-self-care-research/</loc>
+    <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
