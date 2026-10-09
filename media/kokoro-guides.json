@@ -27,7 +27,8 @@
     "nature-time-mood",
     "caffeine-anxiety-sleep",
     "short-nap-afternoon",
-    "vacation-recovery-fadeout"
+    "vacation-recovery-fadeout",
+    "sleep-social-withdrawal"
    ]
   },
   {
@@ -86,7 +87,8 @@
     "music-stress",
     "short-nap-afternoon",
     "habit-if-then-plans",
-    "ai-reliance-skills-recover"
+    "ai-reliance-skills-recover",
+    "interrupted-focus-return"
    ]
   },
   {
@@ -135,7 +137,9 @@
     "ai-chat-loneliness",
     "meeting-replay-regret",
     "social-connection-health",
-    "helping-others-wellbeing"
+    "helping-others-wellbeing",
+    "prevent-isolation-habits",
+    "sleep-social-withdrawal"
    ]
   },
   {
@@ -160,7 +164,9 @@
     "digital-detox-effect",
     "phone-left-at-home-anxiety",
     "phantom-phone-vibration",
-    "ai-written-message-found-out"
+    "ai-written-message-found-out",
+    "ai-chat-cant-stop",
+    "ai-frustration-anger"
    ]
   }
  ]
