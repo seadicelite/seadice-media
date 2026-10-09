@@ -1207,5 +1207,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Calm_Lake_Matheson_with_mist_at_sunrise.jpg/500px-Calm_Lake_Matheson_with_mist_at_sunrise.jpg",
   "og": "https://mentalai.seadice.win/img/comparison-confidence-recover.jpg",
   "local": true
+ },
+ "ai-reliance-skills-recover": {
+  "file": "File:USVI IMG 5202 - Minimalist desk with colorful pencils in a cardboard holder a cup holding pens and scissors and a notebook with botanical patterns all under soft light.jpg",
+  "src": "/img/ai-reliance-skills-recover.jpg",
+  "src640": "/img/ai-reliance-skills-recover-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上のノートと鉛筆",
+  "artist": "Category:Government of the United States Virgin Islands",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg/500px-thumbnail.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-reliance-skills-recover.jpg",
+  "local": true
  }
 }

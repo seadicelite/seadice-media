@@ -1,5 +1,14 @@
 [
   {
+    "slug": "ai-reliance-skills-recover",
+    "category": "考える力・集中",
+    "type": "guide",
+    "stage": "立て直す",
+    "date": "2026-10-09",
+    "title": "AIに頼りきりで、自分の力が落ちた気がする。AIを使い始めた医師の成績が下がった研究と、AIを外したあと変わらなかった研究がある",
+    "summary": "AIで力が落ちるかはまだ結論が出ていない。使わない技能は落ちやすく、人は自分の力を低く見積もりがち。予想と答え合わせで今の力を確かめる。"
+  },
+  {
     "slug": "comparison-confidence-recover",
     "category": "比べて落ち込む",
     "type": "guide",
