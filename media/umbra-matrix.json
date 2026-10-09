@@ -95,6 +95,9 @@
      "confession-hesitation-regret-research",
      "dating-invitation-rejection-anxiety-research",
      "silence-during-dates-liking-research"
+    ],
+    "after": [
+     "after-confession-rejection-awkwardness-research"
     ]
    }
   },
@@ -150,6 +153,9 @@
     "use": [
      "https://umbra.seadice.win/uso-check/",
      "https://umbra.seadice.win/quiz/"
+    ],
+    "act": [
+     "suspecting-partner-lie-how-to-ask-research"
     ]
    }
   },
@@ -263,6 +269,9 @@
     ],
     "after": [
      "incompatibility-perpetual-problems-research"
+    ],
+    "act": [
+     "predicting-relationship-success-before-dating-research"
     ]
    }
   },
@@ -277,6 +286,9 @@
     "act": [
      "gratitude-relationship-maintenance-research",
      "partner-responsiveness-research"
+    ],
+    "after": [
+     "relationship-boredom-novel-activities-research"
     ]
    }
   },
@@ -312,6 +324,9 @@
     ],
     "act": [
      "marriage-compatibility-research"
+    ],
+    "after": [
+     "couple-therapy-relationship-education-effectiveness-research"
     ]
    }
   },
