@@ -1520,5 +1520,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/D%C3%BClmen%2C_Wildpark_--_2019_--_3216-22.jpg/500px-D%C3%BClmen%2C_Wildpark_--_2019_--_3216-22.jpg",
   "og": "https://mentalai.seadice.win/img/focus-recover-exercise.jpg",
   "local": true
+ },
+ "mind-goes-blank-pressure": {
+  "file": "File:University of Edinburgh Lecture Theatre (28779436435).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/University_of_Edinburgh_Lecture_Theatre_%2828779436435%29.jpg/960px-University_of_Edinburgh_Lecture_Theatre_%2828779436435%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/University_of_Edinburgh_Lecture_Theatre_%2828779436435%29.jpg/500px-University_of_Edinburgh_Lecture_Theatre_%2828779436435%29.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "誰もいない講義室",
+  "artist": "Open Ed",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:University_of_Edinburgh_Lecture_Theatre_(28779436435).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
