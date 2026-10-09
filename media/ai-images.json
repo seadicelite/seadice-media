@@ -304,5 +304,22 @@
   "remote640": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg1NTkwMDYtaW1hZ2Uta3d2dmUyNzIuanBn.jpg",
   "og": "https://ai.seadice.win/img/ai-scam-victim-self-blame-og.jpg",
   "local": true
+ },
+ "ai-workplace-rollout-stress-prepare": {
+  "file": "File:Sticky Notes 2.jpg",
+  "src": "/img/ai-workplace-rollout-stress-prepare.webp",
+  "src640": "/img/ai-workplace-rollout-stress-prepare-sm.webp",
+  "w": 960,
+  "h": 540,
+  "alt": "壁一面に貼られた色とりどりの付箋",
+  "artist": "ProjectManhattan",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sticky_Notes_2.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sticky_Notes_2.jpg/960px-Sticky_Notes_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sticky_Notes_2.jpg/500px-Sticky_Notes_2.jpg",
+  "og": "https://ai.seadice.win/img/ai-workplace-rollout-stress-prepare-og.jpg",
+  "local": true
  }
 }

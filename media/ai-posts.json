@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-workplace-rollout-stress-prepare",
+  "category": "心の疲れ・比べて落ち込む",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-09",
+  "title": "会社にAIが入ってきて、しんどくなりそう。研究では、学ぶ機会・聞ける人・使い方のルールがある職場ほど負担がやわらいでいた",
+  "summary": "AI導入の負担（テクノストレス）は不調と関連。研修・聞ける人・ルールなど職場の支えでやわらいでいた研究と、導入前の備え"
+ },
+ {
   "slug": "election-deepfake-prebunking",
   "category": "偽情報・ディープフェイク",
   "type": "guide",
