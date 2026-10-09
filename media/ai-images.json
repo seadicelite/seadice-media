@@ -355,5 +355,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Glass-smartphone-table-2.jpg/500px-Glass-smartphone-table-2.jpg",
   "og": "https://ai.seadice.win/img/ai-companion-overspend-refund-og.jpg",
   "local": true
+ },
+ "deepfake-bullying-student-school-support": {
+  "file": "File:Today's a work day.jpg",
+  "src": "/img/deepfake-bullying-student-school-support.webp",
+  "src640": "/img/deepfake-bullying-student-school-support-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "誰もいない教室の机",
+  "artist": "Mercedes Steph",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Today%27s_a_work_day.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Today%27s_a_work_day.jpg/960px-Today%27s_a_work_day.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Today%27s_a_work_day.jpg/500px-Today%27s_a_work_day.jpg",
+  "og": "https://ai.seadice.win/img/deepfake-bullying-student-school-support-og.jpg",
+  "local": true
  }
 }
