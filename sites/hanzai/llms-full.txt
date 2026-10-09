@@ -2972,7 +2972,7 @@ URL: https://hanzai.seadice.win/interrogation-video-recording/
 カテゴリ: 取り調べと冤罪
 公開日: 2026-10-09
 
-「取り調べを録画すれば、無理な自白は防げるはず」。そう考える人は多いでしょう。研究では、録画されていると知った警察官は、圧力をかける手法を使いにくくなりました。一方で、録画の映像を見る側の判断は、カメラを誰に向けるかで偏ることもわかっています。録画は万能の解決策ではなく、撮り方と見方まで含めて考える必要があります。
+「取り調べを録画すれば、無理な自白は防げるはず」。そう考える人は多いでしょう。研究では、録画されていると知った警察官は、自白を促す手法の一部を使いにくくなりました。一方で、録画の映像を見る側の判断は、カメラを誰に向けるかで偏ることもわかっています。録画は万能の解決策ではなく、撮り方と見方まで含めて考える必要があります。
 
 ## SUMMARY
 
@@ -2980,7 +2980,7 @@ URL: https://hanzai.seadice.win/interrogation-video-recording/
 
 - 警察官が書いた取り調べの報告書は、自分が使った圧力の手法を書き漏らしがちで、報告書だけを読んだ人は容疑者を誤って有罪と判断しやすかった。
 
-- 容疑者だけを映した映像は、自白を「自発的」に見せやすい。裁判官役への注意の説明でも、この偏りは消えなかった。
+- 容疑者だけを映した映像は、自白を「自発的」に見せやすい。裁判官からの注意の説明でも、この偏りは消えなかった。
 
 ## 01 どんな心の仕組みが働いているのか
 
@@ -2998,7 +2998,7 @@ URL: https://hanzai.seadice.win/interrogation-video-recording/
 
 61人録画の有無を知らせるかどうかで比べた警察官（2014年の実験）
 
-1割未満→半数超米国で録画される取り調べの割合。2007年の調査と2024年の調査の比較
+1割未満→半数超米国で録画される取り調べの割合。2007年発表の調査と2024年発表の調査の比較
 
 約3%日本で録音・録画の対象になる刑事事件の割合（2026年の論文の指摘）
 
@@ -3067,7 +3067,7 @@ Q. 日本の取り調べはすべて録画されているのですか？
 A. いいえ。2026年の論文では、日本で録音・録画の対象になるのは刑事事件の約3%にとどまると指摘されています。逮捕・勾留されていない人への取り調べは、ふつう録画されないとも書かれています。
 
 Q. 取り調べを録画すれば、虚偽自白はなくなりますか？
-A. なくなるとは言えません。録画を知った警察官は一部の手法を控えましたが、実験は短く重さの小さい場面でした。映像を見る側にも偏りが生じるため、録画は撮り方と使い方を整えて初めて生きる、と研究者は注意を促しています[11]。
+A. なくなるとは言えません。録画を知った警察官は一部の手法を控えましたが、実験は短く重さの小さい場面でした。映像を見る側にも偏りが生じます。撮り方を工夫すれば避けられる落とし穴もある一方、避けにくいものもあり、映像を使う側がそれを知っておく必要がある、と研究者は注意を促しています[11]。
 
 Q. カメラの向きで、なぜ判断が変わるのですか？
 A. 画面で目立つ人物を出来事の原因と見なしやすいためだと考えられています。この偏りが「見え方」から来るのか、見る人に与えられる判断の「枠組み」から来るのかは、研究者の間で解釈が分かれています。
@@ -3084,7 +3084,7 @@ A. 画面で目立つ人物を出来事の原因と見なしやすいためだ�
 
 - Adams, D., Paterson, H. M., & MacDougall, H. G. (2020). Law and (rec)order: Updating memory for criminal events with body-worn cameras. PLOS ONE, 15(12), e0243226.（Lassiter & Irvine, 1986 の結果の紹介を参照） https://doi.org/10.1371/journal.pone.0243226
 
-- Snyder, C. J., Lassiter, G. D., Lindberg, M. J., & Pinegar, S. K. (2009). Videotaped interrogations and confessions: Does a dual-camera approach yield unbiased and accurate evaluations? Behavioral Sciences & the Law, 27, 451-466. https://doi.org/10.1002/bsl.875
+- Snyder, C. J., Lassiter, G. D., Lindberg, M. J., & Pinegar, S. K. (2009). Videotaped interrogations and confessions: Does a dual-camera approach yield unbiased and accurate evaluations? Behavioral Sciences & the Law, 27(3), 451-466. https://doi.org/10.1002/bsl.875
 
 - Park, K., & Pyo, J. (2012). An explanation for camera perspective bias in voluntariness judgment for video-recorded confession: Suggestion of cognitive frame. Law and Human Behavior, 36(3), 184-194. https://doi.org/10.1037/h0093967
 
