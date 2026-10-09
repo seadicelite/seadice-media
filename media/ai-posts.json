@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-input-leak-after-report",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-09",
+  "title": "会社の情報や個人情報をAIに入力してしまった。あとからできるのは、会話の削除と社内への早めの報告",
+  "summary": "入力に気づいたら、会話の削除と社内窓口への連絡を当日中に。国への漏えい等報告の4つの基準と期限、削除で消えないものを整理。"
+ },
+ {
   "slug": "ai-output-copyright-work-use",
   "category": "創作・著作権",
   "type": "guide",

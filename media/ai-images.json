@@ -185,5 +185,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Legal_Contract_%26_Signature_-_Warm_Tones.jpg/500px-Legal_Contract_%26_Signature_-_Warm_Tones.jpg",
   "og": "https://ai.seadice.win/img/ai-output-copyright-work-use-og.jpg",
   "local": true
+ },
+ "ai-input-leak-after-report": {
+  "file": "File:Desktop after work (Unsplash).jpg",
+  "src": "/img/ai-input-leak-after-report.webp",
+  "src640": "/img/ai-input-leak-after-report-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上の閉じかけたノートパソコンと椅子",
+  "artist": "Luca Bravo lucabravo",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Desktop_after_work_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Desktop_after_work_%28Unsplash%29.jpg/960px-Desktop_after_work_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Desktop_after_work_%28Unsplash%29.jpg/500px-Desktop_after_work_%28Unsplash%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-input-leak-after-report-og.jpg",
+  "local": true
  }
 }
