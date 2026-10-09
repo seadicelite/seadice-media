@@ -117,5 +117,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aerial_view_of_woman_using_computer_laptop_and_a_smartphone_on_wooden_table_%2840640189245%29.jpg/500px-Aerial_view_of_woman_using_computer_laptop_and_a_smartphone_on_wooden_table_%2840640189245%29.jpg",
   "og": "https://ai.seadice.win/img/ai-voice-scam-after-transfer-og.jpg",
   "local": true
+ },
+ "ai-work-output-check": {
+  "file": "File:Person writing in notebook while using laptop at a modern workspace.jpg",
+  "src": "/img/ai-work-output-check.webp",
+  "src640": "/img/ai-work-output-check-sm.webp",
+  "w": 960,
+  "h": 641,
+  "alt": "ノートパソコンの横でノートに書き込む手元",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Person_writing_in_notebook_while_using_laptop_at_a_modern_workspace.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Person_writing_in_notebook_while_using_laptop_at_a_modern_workspace.jpg/960px-Person_writing_in_notebook_while_using_laptop_at_a_modern_workspace.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Person_writing_in_notebook_while_using_laptop_at_a_modern_workspace.jpg/500px-Person_writing_in_notebook_while_using_laptop_at_a_modern_workspace.jpg",
+  "og": "https://ai.seadice.win/img/ai-work-output-check-og.jpg",
+  "local": true
  }
 }
