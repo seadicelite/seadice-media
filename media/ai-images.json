@@ -135,6 +135,24 @@
   "og": "https://ai.seadice.win/img/ai-work-output-check-og.jpg",
   "local": true
  },
+ "ai-job-loss-recovery": {
+  "file": "File:Stylish black eyeglasses resting on a wooden desk in a cozy interior during daylight hours.jpg",
+  "src": "/img/ai-job-loss-recovery.jpg",
+  "src640": "/img/ai-job-loss-recovery-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "日の差す木の机に置かれた眼鏡",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Stylish_black_eyeglasses_resting_on_a_wooden_desk_in_a_cozy_interior_during_daylight_hours.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Stylish_black_eyeglasses_resting_on_a_wooden_desk_in_a_cozy_interior_during_daylight_hours.jpg/960px-Stylish_black_eyeglasses_resting_on_a_wooden_desk_in_a_cozy_interior_during_daylight_hours.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Stylish_black_eyeglasses_resting_on_a_wooden_desk_in_a_cozy_interior_during_daylight_hours.jpg/500px-Stylish_black_eyeglasses_resting_on_a_wooden_desk_in_a_cozy_interior_during_daylight_hours.jpg",
+  "og": "https://ai.seadice.win/img/ai-job-loss-recovery.jpg",
+  "local": true
+ },
  "ai-job-loss-first-weeks": {
   "file": "File:Notebook with pen, August, 2019.jpg",
   "src": "/img/ai-job-loss-first-weeks.jpg",
