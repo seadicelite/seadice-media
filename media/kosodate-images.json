@@ -984,5 +984,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rows_of_Desks_in_Lecture_Theatre.jpg/500px-Rows_of_Desks_in_Lecture_Theatre.jpg",
   "og": "https://kosodate.seadice.win/img/ai-school-classroom-change-og.jpg",
   "local": true
+ },
+ "music-lessons-intelligence-academic": {
+  "file": "File:Piano keys close up.jpg",
+  "src": "/img/music-lessons-intelligence-academic.webp",
+  "src640": "/img/music-lessons-intelligence-academic-sm.webp",
+  "w": 960,
+  "h": 638,
+  "alt": "ピアノの鍵盤のアップ",
+  "artist": "Puikstekend",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Piano_keys_close_up.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Piano_keys_close_up.jpg/960px-Piano_keys_close_up.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Piano_keys_close_up.jpg/500px-Piano_keys_close_up.jpg",
+  "og": "https://kosodate.seadice.win/img/music-lessons-intelligence-academic-og.jpg",
+  "local": true
  }
 }

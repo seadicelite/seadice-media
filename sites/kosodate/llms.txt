@@ -85,6 +85,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [中学受験でクラスの順位が気になる。「井の中の蛙効果」とは？](https://kosodate.seadice.win/big-fish-little-pond-effect-class-rank/): 周囲の学力が高いほど自己概念は下がりやすいとメタ分析で示されていますが、社会性の悪化までは言い切れません。
 - [習い事をすぐ辞める。続けないと将来の役に立たない？](https://kosodate.seadice.win/children-quitting-activities-research/): 習い事やスポーツをすぐ辞める子に将来困るか不安な親へ。継続と将来の関連を研究データで紹介します。
 - [AI時代に伸ばしたい「創造力」は鍛えられる？偏りを除くと効果は小さめだった](https://kosodate.seadice.win/creativity-training-ai-era/): 創造性トレーニングの効果は、発表バイアスを調整すると小さくなりました。生成AIは個人の評価を上げる一方、作品を似通わせます。
+- [ピアノや音楽の習い事で頭は良くなる？質の高い研究ほど効果が小さかった理由](https://kosodate.seadice.win/music-lessons-intelligence-academic/): 54研究・6,984人のメタ分析では、厳密な比べ方の研究ほど知能・学力への効果はほぼゼロ。幼児の集団音楽活動の研究と、家庭での考え方を整理。
 - [子どもに将来の夢がない。小学生で「なりたい職業」が決まっていなくても心配いらない理由](https://kosodate.seadice.win/no-career-dream-elementary-school/): 小学生の将来の夢は数年で大きく変わりやすく、2年の間に約6割が夢を少なくとも1つ変えていたという追跡調査があります。
 - [AI時代に伸ばしたい子どもの力は何？研究でわかった「非認知能力」の中身](https://kosodate.seadice.win/non-cognitive-skills-kids/): 最も確かな根拠があるのは自己制御。やり抜く力や成長マインドセットの教材効果は小さめでした。
 - [子どもに期待をかけすぎると逆効果？将来への意欲とプレッシャーの研究](https://kosodate.seadice.win/parental-expectations-pressure-children-motivation/): 親の期待を感じ取ることは子どもの意欲と関連する一方、先回りした関わりは学業の燃え尽きと関連していました。
