@@ -943,5 +943,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Checkout_queue_at_Morrisons_-_geograph.org.uk_-_6583931.jpg/500px-Checkout_queue_at_Morrisons_-_geograph.org.uk_-_6583931.jpg",
   "og": "https://ledger.seadice.win/img/crowding-fomo-psychology.jpg",
   "local": true
+ },
+ "hedonic-spending-variety": {
+  "file": "File:DFC 4073 Assorted fruit tarts piled high - fresh strawberries blueberries grapes and kiwi on creamy pastry shells.jpg",
+  "src": "/img/hedonic-spending-variety.jpg",
+  "src640": "/img/hedonic-spending-variety-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "色とりどりの焼き菓子が並んだショーケース",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DFC_4073_Assorted_fruit_tarts_piled_high_-_fresh_strawberries_blueberries_grapes_and_kiwi_on_creamy_pastry_shells.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/DFC_4073_Assorted_fruit_tarts_piled_high_-_fresh_strawberries_blueberries_grapes_and_kiwi_on_creamy_pastry_shells.jpg/960px-DFC_4073_Assorted_fruit_tarts_piled_high_-_fresh_strawberries_blueberries_grapes_and_kiwi_on_creamy_pastry_shells.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/DFC_4073_Assorted_fruit_tarts_piled_high_-_fresh_strawberries_blueberries_grapes_and_kiwi_on_creamy_pastry_shells.jpg/500px-DFC_4073_Assorted_fruit_tarts_piled_high_-_fresh_strawberries_blueberries_grapes_and_kiwi_on_creamy_pastry_shells.jpg",
+  "og": "https://ledger.seadice.win/img/hedonic-spending-variety.jpg",
+  "local": true
  }
 }
