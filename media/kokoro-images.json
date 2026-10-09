@@ -1466,5 +1466,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/A_laptop_on_the_wooden_table_%282%2C_Pixabay%29.jpg/500px-A_laptop_on_the_wooden_table_%282%2C_Pixabay%29.jpg",
   "og": "https://mentalai.seadice.win/img/telework-cant-log-off.jpg",
   "local": true
+ },
+ "ai-companion-loss-grief": {
+  "file": "File:Raindrops on car window in evening sun.jpg",
+  "src": "/img/ai-companion-loss-grief.jpg",
+  "src640": "/img/ai-companion-loss-grief-sm.jpg",
+  "w": 960,
+  "h": 721,
+  "alt": "夕日が差す、雨粒のついた窓",
+  "artist": "Kevin Kandlbinder",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Raindrops_on_car_window_in_evening_sun.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Raindrops_on_car_window_in_evening_sun.jpg/960px-Raindrops_on_car_window_in_evening_sun.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Raindrops_on_car_window_in_evening_sun.jpg/500px-Raindrops_on_car_window_in_evening_sun.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-companion-loss-grief.jpg",
+  "local": true
  }
 }
