@@ -179,6 +179,9 @@
     ],
     "act": [
      "illusion-of-transparency-nervousness-visible-research"
+    ],
+    "after": [
+     "post-event-rumination-after-awkward-conversation-research"
     ]
    }
   },
@@ -213,6 +216,9 @@
     ],
     "after": [
      "reply-anxiety-attachment-jealousy-research"
+    ],
+    "act": [
+     "texting-crush-responsiveness-research"
     ]
    }
   },
@@ -364,6 +370,9 @@
     ],
     "use": [
      "https://umbra.seadice.win/redflag-check/"
+    ],
+    "act": [
+     "leaving-controlling-partner-safety-research"
     ]
    }
   },
@@ -401,6 +410,9 @@
     ],
     "act": [
      "breakup-recovery-actions-reappraisal-research"
+    ],
+    "read": [
+     "breakup-distress-when-to-seek-help-research"
     ]
    }
   },
@@ -429,6 +441,9 @@
     ],
     "after": [
      "ex-partner-social-media-checking-research"
+    ],
+    "read": [
+     "ex-contact-backburner-intentions-research"
     ]
    }
   }

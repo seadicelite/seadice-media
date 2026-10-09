@@ -101,6 +101,7 @@
 - [貧乏ゆすりは不安やイライラのサインか。落ち着きのない動作（フィジェッティング）の研究](https://umbra.seadice.win/leg-jiggling-fidgeting-anxiety-research/): 貧乏ゆすりは退屈や集中切れで増える。嘘との差は見られず、集中や血管の健康を助ける面も
 - [目を合わせずに話す人の心理。視線回避と緊張・社交不安の研究](https://umbra.seadice.win/gaze-avoidance-social-anxiety-research/): 目をそらすのは考えごと・緊張・文化の習慣のどれか。嘘や好き嫌いは読めないことを研究から検証
 - [緊張が顔や声に出ている気がするのは本当か。「透明性の錯覚」の研究](https://umbra.seadice.win/illusion-of-transparency-nervousness-visible-research/): 緊張は思うほど相手に見えていない。話し手が過大に見積もる「透明性の錯覚」を研究から解説
+- [話した後の「一人反省会」がやめられない。会話後の反すうと、相手は思うより好意的という研究](https://umbra.seadice.win/post-event-rumination-after-awkward-conversation-research/): 会話後の一人反省会は「事後の反すう」。相手は思うより好意的で、気をそらすより一歩引いて眺める方が和らぐと研究から解説。
 
 #### 自信・第一印象・性格
 
@@ -158,6 +159,7 @@
 - [友達に会わせたくない恋人は危険なサインか。「社会的孤立」と支配の研究](https://umbra.seadice.win/friend-isolation-coercive-control-danger-research/): 交友関係を狭める「孤立」は支配の中心的な手口とされる。交際相手による殺人被害者220人を調べた研究では、支配の強い相手と別れた・離れた状態が危険因子の一つだった。
 - [お金の使い方を隠す『経済的不誠実』は、危険な相手のサインか](https://umbra.seadice.win/financial-infidelity-warning-signs-research/): 全米既婚者946人の調査で経済的不誠実と不倫の関連を確認。借金を隠す心理と、経済的DVとの違いも研究から整理した。
 - [デートDVはなぜ見過ごされるのか。「暴力と気づく」男女差の研究](https://umbra.seadice.win/dating-violence-recognition-gender-gap-research/): 支配・独占欲や見下す言動を「非常に深刻」と評価した人は女性で半数以上、男性は約3分の1にとどまった。同じ行為でも認識に差があることを研究で確認。
+- [束縛・支配する恋人と別れたいとき、安全に離れるには。別れ際の危険と相談先の研究](https://umbra.seadice.win/leaving-controlling-partner-safety-research/): 支配の強い相手との別れの前後は危険が高まりやすい。別れ話の前に相談先とつながり、記録・避難先・住所を守る手続きを整える。
 
 #### 心を揺さぶられる関係
 
@@ -175,6 +177,7 @@
 - [既読・未読への不安はどこから来るのか。恋愛と嫉妬の心理の研究](https://umbra.seadice.win/reply-anxiety-attachment-jealousy-research/): 愛着スタイルとオンライン嫉妬に関する調査から、返信への不安の理由と、わざと返信を遅らせる駆け引きの実態を確認した。
 - [敬語がタメ口に、LINEの文体が似てくるのは脈ありサインか。言葉づかいの一致の研究](https://umbra.seadice.win/language-style-matching-line-keigo-research/): 言葉づかいの一致は好意と関係するが、ケンカ中にも高まり効果はごく小さい
 - [好きな人のSNSをわざと見ないのはなぜか。既読を隠す心理の研究](https://umbra.seadice.win/story-view-avoidance-interest-concealment-research/): 「見られているかもしれない」という意識がSNSでの見せ方を変えることを研究で確認。ストーリーを見ない行動そのものを調べた研究はまだ見当たらない。
+- [好きな人へのLINE、自分からどう送ればいい？質問・自己開示・返信の間隔の研究](https://umbra.seadice.win/texting-crush-responsiveness-research/): 好きな人へのLINEは、返信の速さや駆け引きより、相手の話を受けた質問と少しずつの自己開示が好感と結びついていました。
 
 #### 好意の裏返し・駆け引き
 
@@ -199,6 +202,7 @@
 - [別れの痛みと未練、男女で違うのか。5,705人の国際調査でわかったこと](https://umbra.seadice.win/breakup-recovery-gender-difference-research/): 別れ直後の痛みは女性の方がやや大きかった。女性の方が立ち直るという説は研究者の解釈で、回復は測られていない。切り出した側は早く立ち直る傾向も。
 - [突然の音信不通「ゴースティング」はなぜこんなにつらいのか。研究でわかったこと](https://umbra.seadice.win/ghosting-psychological-effects-research/): 突然の音信不通は、はっきり振られるより仲間外れ感とコントロールを失う感覚を強めることが実験で示された。
 - [失恋から早く立ち直るには何をすればいい？「嫌な面を思い出す」「気をそらす」「書く」を研究で比べた](https://umbra.seadice.win/breakup-recovery-actions-reappraisal-research/): 元恋人の嫌な面を思い出すと好きな気持ちは下がるが気分は沈む。気をそらすと気分は上がる。反すうが強い人の深い筆記は逆効果の例も。
+- [失恋から立ち直れないのは普通？落ち込みが長引くときと、相談したほうがいいサインを研究で見分ける](https://umbra.seadice.win/breakup-distress-when-to-seek-help-research/): 別れて半年以内の約4人に1人にうつ症状。ほぼ毎日の落ち込みが2週間以上続き生活が回らないなら相談のサイン
 
 #### 復縁はうまくいくか
 
@@ -209,6 +213,7 @@
 
 - [別れた相手と友達に戻れるのか。元恋人との友人関係の研究](https://umbra.seadice.win/staying-friends-with-ex-research/): 元恋人と友達でいられるかは理由しだい。未練が理由だと悪い結果につながり、元恋人との友情は普通の友人関係と性質が違っていた。
 - [SNSでの元恋人チェックはなぜやめられないのか。未練と監視行動の研究](https://umbra.seadice.win/ex-partner-social-media-checking-research/): 464人・431人の調査と7日間の日記調査から、元恋人のSNSを見る行動が立ち直りを遅らせる仕組みを確認した。
+- [元恋人からの連絡は本気か、寂しいだけか。「キープ」と未練の研究でわかる見分け方](https://umbra.seadice.win/ex-contact-backburner-intentions-research/): 元恋人の連絡は言葉だけでは見分けられない。ひとりが怖い日ほど復縁行動が増える研究から、タイミング・中身・自分の回復で判断する方法を整理。
 
 
 ## 主要ページ

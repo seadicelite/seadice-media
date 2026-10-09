@@ -115,7 +115,8 @@
           "freeze-flight-fight-threat-response-research",
           "leg-jiggling-fidgeting-anxiety-research",
           "gaze-avoidance-social-anxiety-research",
-          "illusion-of-transparency-nervousness-visible-research"
+          "illusion-of-transparency-nervousness-visible-research",
+          "post-event-rumination-after-awkward-conversation-research"
         ]
       },
       {
@@ -135,7 +136,8 @@
           "line-reply-speed-research",
           "reply-anxiety-attachment-jealousy-research",
           "language-style-matching-line-keigo-research",
-          "story-view-avoidance-interest-concealment-research"
+          "story-view-avoidance-interest-concealment-research",
+          "texting-crush-responsiveness-research"
         ]
       },
       {
@@ -219,7 +221,8 @@
           "jealousy-possessiveness-control-research",
           "friend-isolation-coercive-control-danger-research",
           "financial-infidelity-warning-signs-research",
-          "dating-violence-recognition-gender-gap-research"
+          "dating-violence-recognition-gender-gap-research",
+          "leaving-controlling-partner-safety-research"
         ]
       },
       {
@@ -239,7 +242,8 @@
           "breakup-recovery-time-research",
           "breakup-recovery-gender-difference-research",
           "ghosting-psychological-effects-research",
-          "breakup-recovery-actions-reappraisal-research"
+          "breakup-recovery-actions-reappraisal-research",
+          "breakup-distress-when-to-seek-help-research"
         ]
       },
       {
@@ -253,7 +257,8 @@
         "label": "元恋人との距離",
         "slugs": [
           "staying-friends-with-ex-research",
-          "ex-partner-social-media-checking-research"
+          "ex-partner-social-media-checking-research",
+          "ex-contact-backburner-intentions-research"
         ]
       }
     ]
