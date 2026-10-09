@@ -1243,5 +1243,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sable_Falls_Beach_and_Grand_Sable_Dunes_%281d9d9c22-1a0b-446b-baf0-278b483dbbb5%29.JPG/500px-Sable_Falls_Beach_and_Grand_Sable_Dunes_%281d9d9c22-1a0b-446b-baf0-278b483dbbb5%29.JPG",
   "og": "https://mentalai.seadice.win/img/ai-frustration-anger.jpg",
   "local": true
+ },
+ "sleep-social-withdrawal": {
+  "file": "File:Sunrise over the Acropolis - DPLA - f2941cf3df617d6ef3553c23f5167a10.jpg",
+  "src": "/img/sleep-social-withdrawal.jpg",
+  "src640": "/img/sleep-social-withdrawal-sm.jpg",
+  "w": 960,
+  "h": 731,
+  "alt": "夜明けのアクロポリスを描いた版画",
+  "artist": "Pennell, Joseph, 1857-1926",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunrise_over_the_Acropolis_-_DPLA_-_f2941cf3df617d6ef3553c23f5167a10.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sunrise_over_the_Acropolis_-_DPLA_-_f2941cf3df617d6ef3553c23f5167a10.jpg/960px-Sunrise_over_the_Acropolis_-_DPLA_-_f2941cf3df617d6ef3553c23f5167a10.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sunrise_over_the_Acropolis_-_DPLA_-_f2941cf3df617d6ef3553c23f5167a10.jpg/500px-Sunrise_over_the_Acropolis_-_DPLA_-_f2941cf3df617d6ef3553c23f5167a10.jpg",
+  "og": "https://mentalai.seadice.win/img/sleep-social-withdrawal.jpg",
+  "local": true
  }
 }

@@ -1,5 +1,14 @@
 [
   {
+    "slug": "sleep-social-withdrawal",
+    "category": "人とのつながり",
+    "type": "guide",
+    "stage": "予防する",
+    "date": "2026-10-09",
+    "title": "寝不足の日は、人に会うのがおっくうになる。一晩眠らなかった実験では、近づく人との距離を広くとり、周りの人からも寂しそうに見られていた",
+    "summary": "寝不足が人を遠ざける実験と、孤独と睡眠の質の研究から、人とのつながりを守る睡眠の予防策を整理。"
+  },
+  {
     "slug": "ai-frustration-anger",
     "category": "AIとの付き合い方",
     "type": "guide",
