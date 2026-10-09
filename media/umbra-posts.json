@@ -1,5 +1,101 @@
 [
   {
+    "slug": "letting-go-after-failed-reconciliation-research",
+    "category": "別れと復縁",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "復縁がかなわなかったとき、どうあきらめればいいのか。「目標から離れる力」の研究でわかったこと",
+    "summary": "復縁がかなわないとき、目標から手を離す力と次の目標に向かう力が心の健康と関係する。ひとりが怖い日の連絡衝動への備え方まで研究で示す"
+  },
+  {
+    "slug": "self-blame-after-harmful-relationship-research",
+    "category": "危険な相手のサイン",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "違和感に気づいていたのに、と自分を責めてしまうとき。被害のあとの「自責」と立て直し方の研究",
+    "summary": "気づいていたのに、と自分を責めてしまうとき。行動・性格への自責と後知恵バイアスの研究から、責めすぎない立て直し方と相談先を整理"
+  },
+  {
+    "slug": "game-playing-backfired-repair-research",
+    "category": "駆け引きと心理",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "駆け引きや好き避けで相手が離れてしまったら、どう立て直すか。遊びの恋愛と素直な好意の研究",
+    "summary": "拒絶が怖いほど好意は伝わったと思い込みやすい。駆け引きを重ねず、短く素直に伝え直す立て直し方を研究で示す"
+  },
+  {
+    "slug": "rebuilding-trust-after-lie-research",
+    "category": "しぐさ・ボディランゲージ",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "恋人の嘘がわかったあと、信頼は取り戻せるのか。嘘のあとの信頼回復と謝罪の研究",
+    "summary": "嘘を伴う裏切りは謝罪や約束でも信頼が戻りきらない。責任を認める謝罪と行動の積み重ねで判断する。"
+  },
+  {
+    "slug": "misread-as-interested-how-to-clarify-research",
+    "category": "しぐさ・ボディランゲージ",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "好意のつもりはないのに「脈あり」と勘違いされたら。笑顔や親切の読み違いの研究と、関係を壊さない伝え方",
+    "summary": "笑顔や親切が好意と読み違えられるのは多くの人が経験すること。態度を変えるより、言葉で一度はっきり伝え行動をそろえる方法を研究から示す。"
+  },
+  {
+    "slug": "kaeruka-losing-interest-when-liked-research",
+    "category": "脈あり・好意のサイン",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "好きな人に好かれたとたん冷めるのはなぜ？「蛙化現象」の本来の意味と、研究でわかっていること",
+    "summary": "蛙化現象の本来の意味と今の使い方の違い、約3割が経験する実態、自己肯定感だけでは説明できない理由と向き合い方"
+  },
+  {
+    "slug": "partner-texting-less-what-to-do-research",
+    "category": "駆け引きと心理",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "恋人からの連絡が減ったら、どう動けばいい？追いLINEが逆効果になりやすい理由と、確かめ方の研究",
+    "summary": "連絡が減ったら、追いLINEで問い詰める前に不安を落ち着け、電話か対面で一度だけ確かめる。要求-回避と安心希求の研究から整理"
+  },
+  {
+    "slug": "how-to-test-mutual-interest-research",
+    "category": "脈あり・好意のサイン",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "脈ありか迷ったら、どう確かめればいい？しぐさを読み続けるより「小さく誘う」研究",
+    "summary": "脈ありか迷ったら、しぐさより断りやすい形で小さく誘い、返事の中身を見る。好意のギャップと頼みごとの研究から手順を整理"
+  },
+  {
+    "slug": "text-tone-misunderstanding-research",
+    "category": "駆け引きと心理",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "なぜLINEだと気持ちを読み違えるのか。文字だけでは冗談も感情も思ったほど伝わらない研究",
+    "summary": "送る側は伝わったと思い込み、読む側は短文や句点を素っ気なく読む。文字で気持ちがずれる仕組みと防ぐ一歩を研究で解説。"
+  },
+  {
+    "slug": "misreading-interest-error-management-research",
+    "category": "脈あり・好意のサイン",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "なぜ脈ありサインを読み違えるのか。好意を多めに・少なめに読んでしまう仕組みを「エラー管理理論」の研究で読み解く",
+    "summary": "脈ありの読み違いは偶然ではない。外したときの損、自分の気持ちの投影、立場の強さが読みを多め・少なめに偏らせる仕組みを解説。"
+  },
+  {
+    "slug": "reconcile-or-not-signs-research",
+    "category": "別れと復縁",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "復縁してうまくいく相手か、やめたほうがいい相手か。別れと復縁をくり返す関係の研究でわかる見分け方",
+    "summary": "見分ける手がかりは気持ちの強さより、別れた原因を話し合ったか・何度目か・関係を言葉にできるか。Dailey らの研究で整理"
+  },
+  {
+    "slug": "own-jealousy-normal-or-excessive-research",
+    "category": "駆け引きと心理",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "自分の嫉妬は普通の範囲か、行き過ぎか。3つの嫉妬の型で見分ける研究",
+    "summary": "相手の行動に反応する嫉妬は自然な範囲。根拠のない心配が続く、相手を確かめ制限したくなるのが行き過ぎのサインと研究で整理。"
+  },
+  {
     "slug": "love-vs-infatuation-limerence-research",
     "category": "脈あり・好意のサイン",
     "type": "guide",

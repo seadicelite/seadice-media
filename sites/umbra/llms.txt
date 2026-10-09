@@ -38,6 +38,8 @@
 - [好きな人と話すと声は変わるのか。声の高さと好意の研究](https://umbra.seadice.win/voice-pitch-attraction-research/): 気になる相手には声の高さが変わりやすい。ただし高くなるか低くなるかは研究や状況で違い、好意の決め手にはならない。
 - [上目遣いは好意のサインか。研究でわかった「顔の角度」の効果](https://umbra.seadice.win/downward-glance-head-tilt-attraction-signal/): 顔を下に傾ける動きは、小さな微笑みと正面への視線を伴うと誘い（好意）の表情と受け取られやすく、無表情のままだと支配的な印象が強まることを複数の研究から確認した。
 - [脈なしとわかったら、気持ちはどう立て直すか。片思いと失恋からの回復の研究](https://umbra.seadice.win/unrequited-love-rejection-recovery-research/): 片思いは両思いより心の乱れが強い。自分に優しく接する、気をそらす、相手のいない自分を描き直すことが回復と結びつく
+- [なぜ脈ありサインを読み違えるのか。好意を多めに・少なめに読んでしまう仕組みを「エラー管理理論」の研究で読み解く](https://umbra.seadice.win/misreading-interest-error-management-research/): 脈ありの読み違いは偶然ではない。外したときの損、自分の気持ちの投影、立場の強さが読みを多め・少なめに偏らせる仕組みを解説。
+- [脈ありか迷ったら、どう確かめればいい？しぐさを読み続けるより「小さく誘う」研究](https://umbra.seadice.win/how-to-test-mutual-interest-research/): 脈ありか迷ったら、しぐさより断りやすい形で小さく誘い、返事の中身を見る。好意のギャップと頼みごとの研究から手順を整理
 
 #### 連絡・LINEに出るサイン
 
@@ -50,6 +52,7 @@
 - [会う回数が多いほど好きになるのか。単純接触効果を恋愛の研究で読み解く](https://umbra.seadice.win/mere-exposure-effect-romantic-attraction/): 講義に出席する回数を変えた実験とメタ分析から、接触回数と好意の関係、そして情報が増えすぎると逆効果になる条件を確認した。
 - [「恋は盲目」は科学的に本当だった。理想化と脳の研究でわかったこと](https://umbra.seadice.win/love-is-blind-idealization-research/): 恋人を見るとき批判的な脳の働きが弱まることを脳画像研究で確認。13年間の追跡調査では、新婚時の理想化が愛情の維持と結びついていた。
 - [これは恋なのか、執着なのか。情熱的な恋と「のめり込み（リメランス）」を見分ける研究](https://umbra.seadice.win/love-vs-infatuation-limerence-research/): 頭から離れないだけでは執着と決まらない。気持ちの中身・相手の反応・生活への支障で恋とのめり込みを見分ける研究。
+- [好きな人に好かれたとたん冷めるのはなぜ？「蛙化現象」の本来の意味と、研究でわかっていること](https://umbra.seadice.win/kaeruka-losing-interest-when-liked-research/): 蛙化現象の本来の意味と今の使い方の違い、約3割が経験する実態、自己肯定感だけでは説明できない理由と向き合い方
 
 #### 告白・デートの悩み
 
@@ -75,6 +78,7 @@
 - [首をかしげるしぐさは何を伝えているのか。頭の傾きと印象の研究](https://umbra.seadice.win/head-tilt-impression-research/): 頭の傾きは顔の見え方を変えて印象を動かす。ただし首をかしげる動作だけで好意や本音は読めない
 - [相づち・うなずきが多い人は本当に聞いているのか。うなずきと好印象の研究](https://umbra.seadice.win/nodding-backchannel-listening-likeability-research/): うなずきは好印象を生むが、気が散っても続きやすい。聞いている証拠は中身に合った反応と質問
 - [好意はしぐさでどう伝わるのか。笑顔・視線・距離の「近さ」の研究](https://umbra.seadice.win/showing-interest-nonverbal-immediacy-research/): 好意を伝えるなら、それっぽいしぐさより、近くにいる・話す・目を向けてうなずく。緊張する人は一言で補う。メタ分析と実験で確認
+- [好意のつもりはないのに「脈あり」と勘違いされたら。笑顔や親切の読み違いの研究と、関係を壊さない伝え方](https://umbra.seadice.win/misread-as-interested-how-to-clarify-research/): 笑顔や親切が好意と読み違えられるのは多くの人が経験すること。態度を変えるより、言葉で一度はっきり伝え行動をそろえる方法を研究から示す。
 
 #### 嘘や本音は見抜けるか
 
@@ -89,6 +93,7 @@
 - [話が細かすぎるのは嘘のサインか。話の具体性と嘘の研究でわかったこと](https://umbra.seadice.win/too-much-detail-lying-research/): 細かすぎる話は嘘？研究では逆に、嘘の話の方が細部が少ない傾向。ただし差は小さく判定には使えない
 - [足は一番正直な部位なのか。元FBI捜査官の説と「はずむ足」を研究で検証](https://umbra.seadice.win/feet-most-honest-leakage-research/): 「足は顔より正直」は経験則。メタ分析では足や脚の動きと嘘の差はほぼゼロでした
 - [恋人の嘘を疑ったら、しぐさより何をすべきか。問い詰めずに確かめる方法の研究](https://umbra.seadice.win/suspecting-partner-lie-how-to-ask-research/): 恋人の嘘はしぐさより話の聞き方で確かめる。話を広げる質問・確かめられる細部・情報は最後に、と問い詰めるリスクを研究で解説
+- [恋人の嘘がわかったあと、信頼は取り戻せるのか。嘘のあとの信頼回復と謝罪の研究](https://umbra.seadice.win/rebuilding-trust-after-lie-research/): 嘘を伴う裏切りは謝罪や約束でも信頼が戻りきらない。責任を認める謝罪と行動の積み重ねで判断する。
 
 #### 緊張・不安・拒否のしぐさ
 
@@ -157,6 +162,7 @@
 - [出会ってすぐの猛烈な好意は要注意か。ラブボミングを研究で見抜く](https://umbra.seadice.win/love-bombing-warning-signs-research/): 交際初期の過剰な好意を扱った研究はまだ少ないが、支配的な関係の始まりとの関連や、関連する性格傾向とIPVとの関連が報告されている。
 - [最初は魅力的なのに、だんだん違和感が増える人。第一印象と自己愛の研究](https://umbra.seadice.win/charming-first-impression-narcissism-research/): 自己愛の傾向が強い人は第一印象で好かれやすいが、数週間で評価が下がっていた。最初の印象より、時間をかけて行動を見ることが大切。
 - [付き合い始めに違和感を覚えたら、どう動くか。ペースを落とす・周りに聞く・「いや」への反応を見る](https://umbra.seadice.win/early-relationship-red-flag-slow-down-research/): 付き合い始めの違和感には、ペースを落とす・周りに聞く・小さな「いや」への反応を見る、の3つで動く。研究と内閣府調査から整理。
+- [違和感に気づいていたのに、と自分を責めてしまうとき。被害のあとの「自責」と立て直し方の研究](https://umbra.seadice.win/self-blame-after-harmful-relationship-research/): 気づいていたのに、と自分を責めてしまうとき。行動・性格への自責と後知恵バイアスの研究から、責めすぎない立て直し方と相談先を整理
 
 #### 束縛・支配
 
@@ -190,6 +196,7 @@
 - [からかう・いじってくるのは好意の裏返しか。からかいの研究でわかったこと](https://umbra.seadice.win/teasing-affection-or-hostility-research/): からかいは親しみにも攻撃にもなる。好意の証拠にはならず、嫌ならやめてもらってよい理由を研究で検証
 - [手に入りにくい相手ほど魅力的に見えるのか。駆け引きの心理学研究](https://umbra.seadice.win/hard-to-get-scarcity-attraction-research/): 1973年の古典的実験から2023年のレビューまで、駆け引きが効く条件と効かない条件を確認した。
 - [マッチングアプリのプロフィールは、どれくらい盛られているのか。研究でわかった「小さな嘘」](https://umbra.seadice.win/online-dating-profile-deception-research/): プロフィールのずれは多くの人に見られるが小さく、写真は約3分の1が実物と違うと判断された。メッセージの嘘は約7%だった。
+- [駆け引きや好き避けで相手が離れてしまったら、どう立て直すか。遊びの恋愛と素直な好意の研究](https://umbra.seadice.win/game-playing-backfired-repair-research/): 拒絶が怖いほど好意は伝わったと思い込みやすい。駆け引きを重ねず、短く素直に伝え直す立て直し方を研究で示す
 
 #### 嫉妬とすれ違い
 
@@ -197,7 +204,10 @@
 - [恋人のスマホを見たくなるのはなぜか。パートナー監視の研究でわかったこと](https://umbra.seadice.win/partner-phone-checking-surveillance-research/): 恋人のスマホを見たくなる衝動は不安や嫉妬の悪循環から生まれ、確認を続けるほど関係満足度が下がることが研究で示されている。
 - [なぜ「察してほしい」はすれ違いを生むのか。恋愛における暗黙の期待の研究](https://umbra.seadice.win/mind-reading-expectation-mismatch-research/): 「言わなくてもわかってほしい」という期待の強さが誤解を愛情不足と結びつけやすくすることを、カップル調査と14,000人規模のメタ分析から確認した。
 - [謝らない人の心理とは。謝罪と関係修復の研究でわかったこと](https://umbra.seadice.win/non-apology-psychology-barriers-research/): 謝らないのは「悪いと思っていない」からではなく、心理的なハードルの高さが背景にあると、複数の研究から見えてきた。
+- [自分の嫉妬は普通の範囲か、行き過ぎか。3つの嫉妬の型で見分ける研究](https://umbra.seadice.win/own-jealousy-normal-or-excessive-research/): 相手の行動に反応する嫉妬は自然な範囲。根拠のない心配が続く、相手を確かめ制限したくなるのが行き過ぎのサインと研究で整理。
 
+- [恋人からの連絡が減ったら、どう動けばいい？追いLINEが逆効果になりやすい理由と、確かめ方の研究](https://umbra.seadice.win/partner-texting-less-what-to-do-research/): 連絡が減ったら、追いLINEで問い詰める前に不安を落ち着け、電話か対面で一度だけ確かめる。要求-回避と安心希求の研究から整理
+- [なぜLINEだと気持ちを読み違えるのか。文字だけでは冗談も感情も思ったほど伝わらない研究](https://umbra.seadice.win/text-tone-misunderstanding-research/): 送る側は伝わったと思い込み、読む側は短文や句点を素っ気なく読む。文字で気持ちがずれる仕組みと防ぐ一歩を研究で解説。
 
 ### 別れと復縁
 
@@ -213,6 +223,8 @@
 
 - [復縁の成功率はどれくらいか。1,001人調査と国内アンケートで読み解く](https://umbra.seadice.win/reconciliation-success-rate-research/): 初恋の相手と再会を試みた米国の約1,000人では62%が復縁を選んだ。ただ調査対象が限られ、一般的な「復縁の成功率」を示す研究はまだない。
 - [復縁すればうまくいくのか。別れと復縁を繰り返す関係を研究で調べた](https://umbra.seadice.win/on-again-off-again-reconciliation-research/): 792人を対象にした調査では約45%が復縁を経験。だが繰り返す関係は暴力の報告が2倍近いことも研究でわかった。
+- [復縁してうまくいく相手か、やめたほうがいい相手か。別れと復縁をくり返す関係の研究でわかる見分け方](https://umbra.seadice.win/reconcile-or-not-signs-research/): 見分ける手がかりは気持ちの強さより、別れた原因を話し合ったか・何度目か・関係を言葉にできるか。Dailey らの研究で整理
+- [復縁がかなわなかったとき、どうあきらめればいいのか。「目標から離れる力」の研究でわかったこと](https://umbra.seadice.win/letting-go-after-failed-reconciliation-research/): 復縁がかなわないとき、目標から手を離す力と次の目標に向かう力が心の健康と関係する。ひとりが怖い日の連絡衝動への備え方まで研究で示す
 
 #### 元恋人との距離
 
