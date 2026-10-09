@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-training-data-my-work-check",
+  "category": "創作・著作権",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-09",
+  "title": "自分の作品がAIの学習に使われたか知る方法はある？研究では外から確かめるのは難しく、文化庁は「断る技術的な措置」を挙げている",
+  "summary": "文化庁の考え方では学習は原則許諾不要。外から確かめる研究はまだ不確かで、robots.txtなど断る仕組みと無料の相談先を整理。"
+ },
+ {
   "slug": "ai-homework-report-rules",
   "category": "子ども・学校",
   "type": "guide",

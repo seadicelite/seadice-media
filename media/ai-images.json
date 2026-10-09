@@ -236,5 +236,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Books_on_shelf_for_the_reference_section_of_kwara_state_Library_board.jpg/500px-Books_on_shelf_for_the_reference_section_of_kwara_state_Library_board.jpg",
   "og": "https://ai.seadice.win/img/ai-hallucination-how-to-check-og.jpg",
   "local": true
+ },
+ "ai-training-data-my-work-check": {
+  "file": "File:Clarkson (Frederick) Stanfield - Sketchbook Drawing - B1988.4(16) - Yale Center for British Art.jpg",
+  "src": "/img/ai-training-data-my-work-check.webp",
+  "src640": "/img/ai-training-data-my-work-check-sm.webp",
+  "w": 960,
+  "h": 655,
+  "alt": "スケッチブックに鉛筆で描かれた風景の素描",
+  "artist": "Clarkson Frederick Stanfield",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Clarkson_(Frederick)_Stanfield_-_Sketchbook_Drawing_-_B1988.4(16)_-_Yale_Center_for_British_Art.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Clarkson_%28Frederick%29_Stanfield_-_Sketchbook_Drawing_-_B1988.4%2816%29_-_Yale_Center_for_British_Art.jpg/960px-Clarkson_%28Frederick%29_Stanfield_-_Sketchbook_Drawing_-_B1988.4%2816%29_-_Yale_Center_for_British_Art.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Clarkson_%28Frederick%29_Stanfield_-_Sketchbook_Drawing_-_B1988.4%2816%29_-_Yale_Center_for_British_Art.jpg/500px-Clarkson_%28Frederick%29_Stanfield_-_Sketchbook_Drawing_-_B1988.4%2816%29_-_Yale_Center_for_British_Art.jpg",
+  "og": "https://ai.seadice.win/img/ai-training-data-my-work-check-og.jpg",
+  "local": true
  }
 }
