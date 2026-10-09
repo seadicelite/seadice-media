@@ -170,5 +170,14 @@
     "slugs": [
       "reading-aloud-production-effect"
     ]
+  },
+  {
+    "id": "concept-map",
+    "term": "コンセプトマップ",
+    "en": "Concept map",
+    "def": "大事な概念を枝分かれの図でつなぎ、線の上に「〜を含む」などの言葉で関係を書く図。中心から放射状に広げ、線に名前をつけないマインドマップとは別のものです。",
+    "slugs": [
+      "mind-map-concept-map-study"
+    ]
   }
 ]

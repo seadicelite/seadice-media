@@ -1,5 +1,13 @@
 [
   {
+    "slug": "mind-map-concept-map-study",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "マインドマップは勉強に効くのか。図にまとめる学習（マインドマップ・コンセプトマップ）の研究",
+    "summary": "図にまとめる学習の効果は中程度。マインドマップ単体の証拠は弱く、作った図を見ずに描き直すと効きやすい。"
+  },
+  {
     "slug": "reading-aloud-production-effect",
     "category": "記憶・覚え方",
     "type": "guide",
