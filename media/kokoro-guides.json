@@ -30,7 +30,8 @@
     "vacation-recovery-fadeout",
     "sleep-social-withdrawal",
     "weekend-catch-up-sleep",
-    "burnout-recovery"
+    "burnout-recovery",
+    "telework-cant-log-off"
    ]
   },
   {
@@ -62,7 +63,8 @@
     "ai-job-meaning-crafting",
     "job-change-recover",
     "burnout-recovery",
-    "ai-mistake-bounce-back"
+    "ai-mistake-bounce-back",
+    "telework-cant-log-off"
    ]
   },
   {
@@ -95,7 +97,8 @@
     "habit-if-then-plans",
     "ai-reliance-skills-recover",
     "interrupted-focus-return",
-    "brain-training-focus-recover"
+    "brain-training-focus-recover",
+    "procrastination-cant-start"
    ]
   },
   {
