@@ -630,8 +630,8 @@
  },
  "reading-aloud-production-effect": {
   "file": "File:Open book with apples placed on a wooden table in a bright indoor setting.jpg",
-  "src": "/img/reading-aloud-production-effect.jpg",
-  "src640": "/img/reading-aloud-production-effect-sm.jpg",
+  "src": "/img/reading-aloud-production-effect.webp",
+  "src640": "/img/reading-aloud-production-effect-sm.webp",
   "w": 960,
   "h": 641,
   "alt": "木の机の上に開かれた本とりんご",
@@ -640,16 +640,15 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Open_book_with_apples_placed_on_a_wooden_table_in_a_bright_indoor_setting.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Open_book_with_apples_placed_on_a_wooden_table_in_a_bright_indoor_setting.jpg/960px-Open_book_with_apples_placed_on_a_wooden_table_in_a_bright_indoor_setting.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Open_book_with_apples_placed_on_a_wooden_table_in_a_bright_indoor_setting.jpg/500px-Open_book_with_apples_placed_on_a_wooden_table_in_a_bright_indoor_setting.jpg",
-  "og": "https://dokugaku.seadice.win/img/reading-aloud-production-effect.jpg",
+  "og": "https://dokugaku.seadice.win/img/reading-aloud-production-effect-og.jpg",
   "local": true
  },
  "mind-map-concept-map-study": {
   "file": "File:Macro of sharpened colored pencils arranged in a circle.jpg",
-  "src": "/img/mind-map-concept-map-study.jpg",
-  "src640": "/img/mind-map-concept-map-study-sm.jpg",
+  "src": "/img/mind-map-concept-map-study.webp",
+  "src640": "/img/mind-map-concept-map-study-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "円を描くように並べられた、削った色鉛筆の先",
@@ -658,10 +657,9 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Macro_of_sharpened_colored_pencils_arranged_in_a_circle.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Macro_of_sharpened_colored_pencils_arranged_in_a_circle.jpg/960px-Macro_of_sharpened_colored_pencils_arranged_in_a_circle.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Macro_of_sharpened_colored_pencils_arranged_in_a_circle.jpg/500px-Macro_of_sharpened_colored_pencils_arranged_in_a_circle.jpg",
-  "og": "https://dokugaku.seadice.win/img/mind-map-concept-map-study.jpg",
+  "og": "https://dokugaku.seadice.win/img/mind-map-concept-map-study-og.jpg",
   "local": true
  }
 }

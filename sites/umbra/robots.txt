@@ -48,3 +48,4 @@ Allow: /
 
 Sitemap: https://umbra.seadice.win/sitemap.xml
 # AI向けの案内: https://umbra.seadice.win/llms.txt / 全文: https://umbra.seadice.win/llms-full.txt
+

@@ -211,8 +211,37 @@ def build(slug, preview=None):
     if an:
         print(f"app cards: {an} articles, {len(aurls)} app pages")
     site_og(cfg)
+    sync_lastmod(cfg, posts, cats)
     print(f"built {cfg['path']}index.html ({len(posts)} posts), seo-patched {n} articles, {len(pages)} trust pages, {len(cat_urls)} category hubs"
           + (f", {xn} extra pages, {xb} verified badges" if xn or xb else ""))
+
+
+def sync_lastmod(cfg, posts, cats):
+    """sitemap の lastmod を毎回実態に合わせる。行を足した日のまま固定されると、トップやカテゴリは毎日中身が変わっても
+    古い日付のままになり、Bing/Google が再クロールを後回しにする。優先順: ページの JSON-LD dateModified →
+    トップ=最新記事日、カテゴリ=そのカテゴリの最新記事日 → 既存値のまま。"""
+    sm = ROOT / cfg["path"] / "sitemap.xml"
+    if not sm.exists():
+        return
+    url = cfg["url"]
+    cat_latest = {f"{url}category/{v['id']}/": max((p["date"] for p in posts if p["category"] == n), default="") for n, v in cats.items()}
+    latest = max((p["date"] for p in posts), default="")
+
+    def fix(m):
+        loc, cur = m.group(1), m.group(2)
+        new = ""
+        if loc.startswith(url):
+            f = ROOT / cfg["path"] / loc[len(url):] / "index.html"
+            if f.exists():
+                d = re.search(r'"dateModified":\s*"(\d{4}-\d{2}-\d{2})', f.read_text())
+                new = d.group(1) if d else ""
+        new = new or (latest if loc == url else cat_latest.get(loc, ""))
+        return m.group(0).replace(f"<lastmod>{cur}</lastmod>", f"<lastmod>{new}</lastmod>") if new and new != cur else m.group(0)
+
+    s = sm.read_text()
+    t = re.sub(r"<loc>(.*?)</loc>\s*<lastmod>(.*?)</lastmod>", fix, s)
+    if t != s:
+        sm.write_text(t)
 
 
 def site_og(cfg):
