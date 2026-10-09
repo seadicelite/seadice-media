@@ -1358,5 +1358,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E4%BA%94_%285394727914%29.jpg/500px-%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E4%BA%94_%285394727914%29.jpg",
   "og": "https://mentalai.seadice.win/img/ai-mistake-bounce-back-og.jpg",
   "local": true
+ },
+ "ai-job-meaning-crafting": {
+  "file": "File:Desk Top (Unsplash).jpg",
+  "src": "/img/ai-job-meaning-crafting.jpg",
+  "src640": "/img/ai-job-meaning-crafting-sm.jpg",
+  "w": 960,
+  "h": 599,
+  "alt": "木の机の上のタイプライターとノートと植物",
+  "artist": "Annie Spratt anniespratt",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk_Top_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Desk_Top_%28Unsplash%29.jpg/960px-Desk_Top_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Desk_Top_%28Unsplash%29.jpg/500px-Desk_Top_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-job-meaning-crafting.jpg",
+  "local": true
  }
 }
