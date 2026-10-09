@@ -12,15 +12,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
       - name: Rebuild index pages (daily rotation)
         run: python3 media/hayami_tools.py kokoro kosodate oya; for s in research umbra ledger kogei tetsugaku bohan kosodate kokoro tantei hanzai dokugaku oya ai; do python3 media/build.py "$s"; done; python3 media/shinri_pages.py; python3 media/study.py --all
+      # push では変更があったサイトだけを出す。全サイトに毎回版が増えると Hosting の容量上限（429）に当たる（2026-10-09に3回停止）
+      - name: Decide which sites to deploy
+        id: sites
+        run: python3 media/deploy_targets.py "${{ github.event_name }}" "${{ github.event.before }}" "${{ github.sha }}" >> "$GITHUB_OUTPUT"
       - uses: FirebaseExtended/action-hosting-deploy@v0
+        if: ${{ steps.sites.outputs.skip != 'true' }}
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_SEADICEWEB }}
           channelId: live
           projectId: seadiceweb
+          target: ${{ steps.sites.outputs.target }}
       - name: Notify IndexNow (Bing etc.) of updated articles
         if: github.event_name == 'push'
         run: python3 media/indexnow.py $(git diff --name-only HEAD~1 HEAD) || true
