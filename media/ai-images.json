@@ -338,5 +338,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Micha%C5%82_Fr%C4%85ckowiak_-_Wikidot_Offices.jpg/500px-Micha%C5%82_Fr%C4%85ckowiak_-_Wikidot_Offices.jpg",
   "og": "https://ai.seadice.win/img/ai-workplace-stress-check-consult-og.jpg",
   "local": true
+ },
+ "ai-companion-overspend-refund": {
+  "file": "File:Glass-smartphone-table-2.jpg",
+  "src": "/img/ai-companion-overspend-refund.webp",
+  "src640": "/img/ai-companion-overspend-refund-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "木のテーブルの上のコップと、充電中のスマートフォン",
+  "artist": "MartinThoma",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Glass-smartphone-table-2.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Glass-smartphone-table-2.jpg/960px-Glass-smartphone-table-2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Glass-smartphone-table-2.jpg/500px-Glass-smartphone-table-2.jpg",
+  "og": "https://ai.seadice.win/img/ai-companion-overspend-refund-og.jpg",
+  "local": true
  }
 }
