@@ -1,5 +1,14 @@
 [
  {
+  "slug": "election-deepfake-prebunking",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-09",
+  "title": "選挙のディープフェイクに惑わされないために。研究では、見抜く目より「手口を先に知る」「共有前に止まる」が役に立っていた",
+  "summary": "偽の動画は見た目では見分けにくい。手口を先に知る、共有前に正確さを考える、発信元を外で確かめる、の研究と総務省の資料で整理。"
+ },
+ {
   "slug": "ai-scam-victim-self-blame",
   "category": "詐欺・なりすまし",
   "type": "guide",
