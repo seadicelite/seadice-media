@@ -49,6 +49,7 @@
 - [好意を示されると好きになるのか。「好意の返報性」の研究](https://umbra.seadice.win/liking-reciprocity-research/): 初対面の会話でも好意はある程度返し合われる一方、人は自分が思うより好かれていることが多い。スピードデート調査では、相手だけに向く特別な好意が後日の連絡や恋愛的関心につながっていた。
 - [会う回数が多いほど好きになるのか。単純接触効果を恋愛の研究で読み解く](https://umbra.seadice.win/mere-exposure-effect-romantic-attraction/): 講義に出席する回数を変えた実験とメタ分析から、接触回数と好意の関係、そして情報が増えすぎると逆効果になる条件を確認した。
 - [「恋は盲目」は科学的に本当だった。理想化と脳の研究でわかったこと](https://umbra.seadice.win/love-is-blind-idealization-research/): 恋人を見るとき批判的な脳の働きが弱まることを脳画像研究で確認。13年間の追跡調査では、新婚時の理想化が愛情の維持と結びついていた。
+- [これは恋なのか、執着なのか。情熱的な恋と「のめり込み（リメランス）」を見分ける研究](https://umbra.seadice.win/love-vs-infatuation-limerence-research/): 頭から離れないだけでは執着と決まらない。気持ちの中身・相手の反応・生活への支障で恋とのめり込みを見分ける研究。
 
 #### 告白・デートの悩み
 
@@ -109,6 +110,7 @@
 - [パワーポーズで自信はつくのか。姿勢と心理の再現研究でわかったこと](https://umbra.seadice.win/power-pose-confidence-replication-research/): ホルモンや行動が変わる効果は再現されず、気分への効果も「縮こまらない」ことが中心だった
 - [指先を合わせる「尖塔のポーズ」は自信のサインか。元FBI捜査官の説を研究で検証](https://umbra.seadice.win/steepling-hands-confidence-research/): 尖塔のポーズ＝自信は元FBI捜査官の経験則。直接の研究はなく、手ぶりの研究から読める範囲を検証
 - [足を組む向きや組み方で性格はわかるのか。座り方の心理学を研究で検証](https://umbra.seadice.win/leg-crossing-direction-personality-research/): 脚の組み方や向きが性格を示すという通説を直接調べた研究は見当たらなかった。開いた姿勢が与える印象は実験で確認されている
+- [第一印象で失敗したと思ったら、挽回できるのか。印象の「書き換え」と、知り合う時間の研究](https://umbra.seadice.win/bad-first-impression-recovery-research/): 悪い第一印象は「あのときの意味」が変わる本当の情報で書き換わる。良い面を足すより事情を短く伝え、関わりを重ねる挽回の手がかり。
 
 
 ### 相性と結婚
@@ -129,12 +131,14 @@
 - [「ありがとう」を伝えると、関係は長続きするのか。感謝と恋愛の研究](https://umbra.seadice.win/gratitude-relationship-maintenance-research/): 日々の小さな感謝は関係の満足感を翌日まで高め、感謝を伝えることは6か月後の関係の質の向上も予測していた。
 - [遠距離恋愛は本当にうまくいかないのか。満足度を分ける要因を研究で読み解く](https://umbra.seadice.win/long-distance-relationship-satisfaction-research/): 大学生2075人の調査では遠距離かどうかで交際の幸福感や対立に差はなかった。満足度を分けた連絡の取り方を研究から読み解く。
 - [マンネリ・倦怠期を感じたらどうする？「新しいことを一緒にする」研究で読み解く立て直し方](https://umbra.seadice.win/relationship-boredom-novel-activities-research/): マンネリは放置すると満足度の低下につながる。二人で新しい活動を週90分足すと関係の質が上がった研究と、今日からの一歩を紹介
+- [うまくいっているカップルのサインは？日常の小さな呼びかけ「ビッド」への応え方の研究](https://umbra.seadice.win/turning-toward-bids-lasting-couple-signs-research/): 長続きのサインは大きな出来事より、日常の小さな呼びかけへの応え方に出る。13年追跡研究やスマホ優先のメタ分析から見分け方を整理。
 
 #### 喧嘩と浮気
 
 - [喧嘩のあと不安になる人へ。関係が続くかを分ける「喧嘩の型」の研究](https://umbra.seadice.win/fight-style-relationship-research/): 喧嘩の「しかた」が関係の継続と関わる。373組を16年追跡した研究などを紹介。
 - [喧嘩中に黙り込む「ストーンウォーリング」は危険なサインか](https://umbra.seadice.win/stonewalling-conflict-withdrawal-warning-sign/): ゴットマンの長期研究と2025年の追試、無視に関する系統的レビューから、黙り込みの意味と見分け方を確認した。
 - [一度浮気した人は、また浮気するのか。484人を追った研究でわかったこと](https://umbra.seadice.win/serial-infidelity-repeat-research/): 前の交際で浮気をした人は次の交際でも浮気をしやすく、その割合は約3倍だった。ただし必ず繰り返すわけではない。
+- [なぜ同じ喧嘩を何度もくり返すのか。「責める・黙って離れる」要求-回避パターンの研究](https://umbra.seadice.win/demand-withdraw-repeating-fights-research/): 責めるほど相手は離れ、離れるほど強く責める。同じ喧嘩をくり返す「要求-回避」の循環を、74件のメタ分析と観察研究で読み解く
 
 #### 結婚・同棲を考えたら
 
@@ -152,6 +156,7 @@
 
 - [出会ってすぐの猛烈な好意は要注意か。ラブボミングを研究で見抜く](https://umbra.seadice.win/love-bombing-warning-signs-research/): 交際初期の過剰な好意を扱った研究はまだ少ないが、支配的な関係の始まりとの関連や、関連する性格傾向とIPVとの関連が報告されている。
 - [最初は魅力的なのに、だんだん違和感が増える人。第一印象と自己愛の研究](https://umbra.seadice.win/charming-first-impression-narcissism-research/): 自己愛の傾向が強い人は第一印象で好かれやすいが、数週間で評価が下がっていた。最初の印象より、時間をかけて行動を見ることが大切。
+- [付き合い始めに違和感を覚えたら、どう動くか。ペースを落とす・周りに聞く・「いや」への反応を見る](https://umbra.seadice.win/early-relationship-red-flag-slow-down-research/): 付き合い始めの違和感には、ペースを落とす・周りに聞く・小さな「いや」への反応を見る、の3つで動く。研究と内閣府調査から整理。
 
 #### 束縛・支配
 

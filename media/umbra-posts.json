@@ -1,5 +1,45 @@
 [
   {
+    "slug": "love-vs-infatuation-limerence-research",
+    "category": "脈あり・好意のサイン",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "これは恋なのか、執着なのか。情熱的な恋と「のめり込み（リメランス）」を見分ける研究",
+    "summary": "頭から離れないだけでは執着と決まらない。気持ちの中身・相手の反応・生活への支障で恋とのめり込みを見分ける研究。"
+  },
+  {
+    "slug": "bad-first-impression-recovery-research",
+    "category": "しぐさ・ボディランゲージ",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "第一印象で失敗したと思ったら、挽回できるのか。印象の「書き換え」と、知り合う時間の研究",
+    "summary": "悪い第一印象は「あのときの意味」が変わる本当の情報で書き換わる。良い面を足すより事情を短く伝え、関わりを重ねる挽回の手がかり。"
+  },
+  {
+    "slug": "turning-toward-bids-lasting-couple-signs-research",
+    "category": "相性と結婚",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "うまくいっているカップルのサインは？日常の小さな呼びかけ「ビッド」への応え方の研究",
+    "summary": "長続きのサインは大きな出来事より、日常の小さな呼びかけへの応え方に出る。13年追跡研究やスマホ優先のメタ分析から見分け方を整理。"
+  },
+  {
+    "slug": "demand-withdraw-repeating-fights-research",
+    "category": "相性と結婚",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "なぜ同じ喧嘩を何度もくり返すのか。「責める・黙って離れる」要求-回避パターンの研究",
+    "summary": "責めるほど相手は離れ、離れるほど強く責める。同じ喧嘩をくり返す「要求-回避」の循環を、74件のメタ分析と観察研究で読み解く"
+  },
+  {
+    "slug": "early-relationship-red-flag-slow-down-research",
+    "category": "危険な相手のサイン",
+    "type": "guide",
+    "date": "2026-10-09",
+    "title": "付き合い始めに違和感を覚えたら、どう動くか。ペースを落とす・周りに聞く・「いや」への反応を見る",
+    "summary": "付き合い始めの違和感には、ペースを落とす・周りに聞く・小さな「いや」への反応を見る、の3つで動く。研究と内閣府調査から整理。"
+  },
+  {
     "slug": "ex-contact-backburner-intentions-research",
     "category": "別れと復縁",
     "type": "guide",
