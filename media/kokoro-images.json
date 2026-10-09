@@ -1412,5 +1412,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/500px-Chess_game_Staunton_No._6_perfil_view_8.jpg",
   "og": "https://mentalai.seadice.win/img/brain-training-focus-recover.jpg",
   "local": true
+ },
+ "comparison-no-talent-mindset": {
+  "file": "File:Persea americana seedling (sprout emerging from seed).jpg",
+  "src": "/img/comparison-no-talent-mindset.jpg",
+  "src640": "/img/comparison-no-talent-mindset-sm.jpg",
+  "w": 960,
+  "h": 539,
+  "alt": "種から伸びるアボカドの芽",
+  "artist": "Eiku",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Persea_americana_seedling_(sprout_emerging_from_seed).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Persea_americana_seedling_%28sprout_emerging_from_seed%29.jpg/960px-Persea_americana_seedling_%28sprout_emerging_from_seed%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Persea_americana_seedling_%28sprout_emerging_from_seed%29.jpg/500px-Persea_americana_seedling_%28sprout_emerging_from_seed%29.jpg",
+  "og": "https://mentalai.seadice.win/img/comparison-no-talent-mindset.jpg",
+  "local": true
  }
 }
