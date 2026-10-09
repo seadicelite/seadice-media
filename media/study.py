@@ -157,7 +157,7 @@ h1{font-size:clamp(26px,6vw,36px);line-height:1.35;font-weight:800;letter-spacin
 .lead{font-size:18px;color:var(--sub);margin:0 0 28px}
 h2{font-size:23px;line-height:1.45;font-weight:800;margin:56px 0 12px;padding-top:6px}h2 .n{display:block;font-size:13px;color:var(--accent);letter-spacing:.12em;margin-bottom:2px}
 h3{font-size:18px;font-weight:800;margin:28px 0 8px}
-p{margin:14px 0}.answer{font-weight:700;color:var(--text);border-left:4px solid var(--accent);padding:2px 0 2px 14px;margin:10px 0 18px}strong{font-weight:800;background:linear-gradient(transparent 62%%,var(--soft) 62%%)}
+p{margin:14px 0}.answer{font-weight:600;color:var(--text);border-left:3px solid var(--accent);padding:0 0 0 14px;margin:10px 0 18px}strong{font-weight:800;background:linear-gradient(transparent 62%%,var(--soft) 62%%)}
 .box{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:20px 22px;margin:20px 0}.box h2,.box .bt{font-size:15px;font-weight:800;color:var(--accent);letter-spacing:.06em;margin:0 0 8px;padding:0}
 .box ul,.box ol{padding-left:22px}.box li{margin:6px 0}
 .box.key{background:var(--soft);border-color:transparent}.box.note{background:var(--note);border-color:transparent;font-size:15px}
@@ -173,7 +173,7 @@ ol.lessons a[aria-current]{color:var(--accent);font-weight:700}ol.lessons .ck{ma
 .card p>a>span.ck{display:inline;margin:0 0 0 8px;font-size:12px;font-weight:700;color:var(--ok);border:1px solid currentColor;border-radius:999px;padding:0 8px}.score .best{margin:10px 0 0;font-weight:700}.resume .streak{font-weight:700}
 .chips{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}.chips a{font-size:14px;color:var(--text);text-decoration:none;background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:8px 14px}.chips a:hover{border-color:var(--accent);color:var(--accent)}
 table{width:100%%;border-collapse:collapse;margin:16px 0;font-size:15px;background:var(--paper)}th,td{border:1px solid var(--line);padding:10px 12px;text-align:left;vertical-align:top;line-height:1.7}th{background:var(--soft);font-weight:700}
-@media(max-width:640px){table,tbody,tr,td{display:block;width:100%%}thead{display:none}tr{border:1px solid var(--line);border-radius:12px;margin:12px 0;padding:6px 0;background:var(--paper)}td{border:0;padding:5px 14px}td::before{content:attr(data-l);display:block;font-size:12px;color:var(--muted)}}
+.tw{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:16px 0}.tw table{margin:0}.tw th,.tw td{min-width:6.5em}@media(max-width:640px){.tw table{font-size:14px}.tw th,.tw td{padding:8px 10px}}
 figure.fig{margin:24px 0}figure.fig figcaption{font-size:14px;color:var(--muted);margin-top:6px}figure.fig svg{display:block;width:100%%;height:auto;max-width:640px;margin:0 auto}
 ul.sw{list-style:none;display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:10px}ul.sw li{font-size:14px;line-height:1.5}ul.sw span{display:block;height:56px;border-radius:10px;border:1px solid var(--line);margin-bottom:4px}ul.sw code{display:block;font-size:12px;color:var(--muted)}
 .term{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:12px 0}.term .tt{font-size:17px;font-weight:800;line-height:1.5}.term .en{font-size:13px;color:var(--muted);font-weight:600;margin-left:6px}.term p{margin:6px 0 0;font-size:15px;color:var(--sub)}.term .more{display:inline-block;margin-top:8px;font-size:14px}
@@ -183,7 +183,7 @@ details{background:var(--paper);border:1px solid var(--line);border-radius:14px;
 .qz button:disabled{cursor:default}.qz button.ok{border:2px solid var(--ok);background:color-mix(in srgb,var(--ok) 12%%,var(--paper))}.qz button.ng{border:2px solid var(--ng);background:color-mix(in srgb,var(--ng) 10%%,var(--paper))}
 .qz .res{font-weight:800;margin:10px 0 0}.qz .res:empty{display:none}.qz .res.ok{color:var(--ok)}.qz .res.ng{color:var(--ng)}.qz details{margin:10px 0 0;border-style:dashed}.qz details summary{font-size:14px;color:var(--accent);padding:10px 14px}.qz details p{padding:0 14px 12px;margin:0;font-size:15px;color:var(--sub)}.qz .ans{color:var(--ok);font-weight:700}
 .score{font-size:17px;font-weight:800;margin:16px 0 0}.score:empty{display:none}.score ul{font-size:15px;font-weight:400;margin:8px 0 0 20px}
-.review{background:var(--soft);border-radius:16px;padding:18px 20px;margin:20px 0}.review .bt{font-size:15px;font-weight:800;color:var(--accent);letter-spacing:.06em;margin:0 0 4px}.review>p{font-size:14px;color:var(--sub);margin:0 0 6px}
+.review{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:16px 18px;margin:20px 0}.review .qz{background:var(--bg);margin-bottom:0}.review .bt{font-size:15px;font-weight:800;color:var(--accent);letter-spacing:.06em;margin:0 0 4px}.review>p{font-size:14px;color:var(--sub);margin:0 0 6px}
 .pn{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:40px 0 0}.pn a{display:block;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:12px 16px;text-decoration:none;color:var(--text);font-size:14px;line-height:1.5}.pn a:hover{border-color:var(--accent)}.pn small{display:block;font-size:12px;color:var(--accent);font-weight:700}.pn .nx{text-align:right;grid-column:2}
 @media(max-width:520px){.pn{grid-template-columns:1fr}.pn .nx{grid-column:1}}
 .final{margin:48px 0 0;background:var(--paper);border:2px solid var(--accent);border-radius:20px;padding:22px 20px 10px}.final h2{margin:0 0 10px;padding:0}.final .fk{font-size:13px;font-weight:800;color:var(--accent);letter-spacing:.12em;margin:0 0 4px}.final details{background:var(--bg)}
@@ -224,6 +224,14 @@ footer.site{border-top:1px solid var(--line);padding:28px 16px;text-align:center
 .me-row .me-bar{display:block;height:8px;border-radius:4px;background:var(--line);margin:10px 0 2px;overflow:hidden}.me-row .me-bar i{display:block;height:100%%;width:0;background:var(--ok)}.me-row .me-n{font-size:13px;color:var(--muted);margin:0}
 .me-row details{margin:8px 0 0;background:var(--bg)}.me-row summary{font-size:14px;padding:8px 14px}.me-row details ol.lessons{padding:0 12px 6px}.me-row p{margin:8px 0 0;font-size:14px;font-weight:700}.me-row .me-q{font-size:13px;font-weight:700;color:var(--ok);margin:4px 0 0}.me-row .me-q:empty{display:none}
 .me-file{position:absolute;width:1px;height:1px;opacity:0}.me-msg{font-weight:700;color:var(--ok)}.me-msg:empty{display:none}
+.hero{display:flex;align-items:center;gap:20px;justify-content:space-between}.hero .sym{flex:0 0 auto;width:72px;height:72px;color:var(--accent);background:var(--soft);border-radius:22px;padding:12px}@media(min-width:680px){.hero .sym{width:104px;height:104px;border-radius:30px;padding:18px}}
+.sym svg{display:block;width:100%%;height:100%%;fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}.sym text{fill:currentColor;stroke:none}
+.tiles{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:4px 0 8px}@media(min-width:680px){.tiles{grid-template-columns:repeat(4,1fr)}.tiles.c3{grid-template-columns:repeat(3,1fr)}}
+.tiles a{display:block;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:12px 14px;text-decoration:none;color:var(--text)}.tiles a:hover{border-color:var(--accent)}.tiles b{display:block;font-size:15px;line-height:1.5}.tiles span{display:block;font-size:12px;color:var(--muted);line-height:1.6;margin-top:2px}
+ol.map{list-style:none;margin:12px 0 0;border-top:1px solid var(--line)}ol.map li{border-bottom:1px solid var(--line)}ol.map a,ol.map .row{display:flex;align-items:center;gap:14px;padding:12px 2px;text-decoration:none;color:var(--text)}ol.map a:hover b{color:var(--accent)}
+.mn{flex:0 0 34px;height:34px;border-radius:50%%;border:2px solid var(--accent);color:var(--accent);font-weight:800;font-size:14px;display:flex;align-items:center;justify-content:center;font-variant-numeric:tabular-nums}
+ol.map li.done .mn{background:var(--accent);color:var(--accent-ink)}ol.map b{display:block;font-size:16px;line-height:1.5}ol.map small{display:block;font-size:12px;color:var(--muted)}.mp-n{margin-left:auto;flex:0 0 auto;font-size:12px;font-weight:700;color:var(--ok)}
+.map-soon{margin:12px 0 0}.map-soon .mn{border-color:var(--line);color:var(--muted)}.map-soon ol.map{border-top:0;padding:0 16px 6px}.map-soon ol.map li:last-child{border-bottom:0}
 [hidden]{display:none!important}"""
 
 
@@ -282,6 +290,8 @@ h+='<p class="streak">'+(g===0?'今日も学びました。連続 '+S.st.n+'日�
 h+='<div class="btns">';
 if(nx)h+='<a class="btn" href="'+nx.querySelector('a').getAttribute('href')+'">続きから読む: '+esc(nx.dataset.s)+'</a>';
 if(mk)h+='<a class="btn sub" href="/review/">間違えた問題を解き直す（'+mk+'問）</a>';if(location.pathname!=='/me/')h+='<a class="btn sub" href="/me/">わたしの学習を見る</a>';r.innerHTML=h+'</div>';r.hidden=false})}
+/* トップの章の地図 */
+$('ol.map li[data-ls]').forEach(function(r){var ls=r.dataset.ls.split(' '),n=ls.filter(function(id){return S.read[id]}).length;if(n){r.querySelector('.mp-n').textContent=n+'/'+ls.length;if(n===ls.length)r.classList.add('done')}});
 /* 復習ページ */
 var rv=document.getElementById('redo');if(rv){var qs=$('.qz',rv),c=0;qs.forEach(function(q){if(S.miss[q.dataset.q]){q.hidden=false;c++}});
 var m=document.getElementById('redo-msg');m.textContent=!OK?'このブラウザでは記録を保存できないため、復習リストを使えません。各章の章末テストで解き直せます。':(c?'解き直す問題は '+c+' 問です。正解した問題はリストから外れます。':'今は解き直す問題はありません。レッスンの確認問題で迷った問題が、ここに自動で集まります。');
@@ -662,7 +672,7 @@ def figure_html(f):
     if f["kind"] == "table":
         head = "".join(f"<th>{E(h)}</th>" for h in f["head"])
         rows = "".join("<tr>" + "".join(f'<td data-l="{E(f["head"][j], quote=True)}">{E(c)}</td>' for j, c in enumerate(r)) + "</tr>" for r in f["rows"])
-        return f'<figure class="fig"><table><thead><tr>{head}</tr></thead><tbody>{rows}</tbody></table>{cap}</figure>'
+        return f'<figure class="fig"><div class="tw"><table><thead><tr>{head}</tr></thead><tbody>{rows}</tbody></table></div>{cap}</figure>'
     if f["kind"] == "svg":
         sv = f["svg"].strip()
         if "role=" not in sv[:200]:
@@ -1481,19 +1491,67 @@ def term_page(t):
 
 
 # ---------------- トップ ----------------
+SYMBOLS = {  # 講座の顔（線画。viewBox 0 0 64 64、stroke は currentColor）。設定 symbol で上書きできる
+    "tetsugaku-nyumon": '<path d="M12 12h40a6 6 0 0 1 6 6v20a6 6 0 0 1-6 6H30l-10 8v-8h-8a6 6 0 0 1-6-6V18a6 6 0 0 1 6-6z"/><path d="M26.5 23.5a5.5 5.5 0 1 1 7.7 5c-1.5.7-2.2 1.8-2.2 3.3v1"/><path d="M32 37.5v.1"/>',
+    "hanzaigaku": '<circle cx="27" cy="27" r="17"/><path d="M39.5 39.5 54 54"/><path d="M19 31c0-5.5 3.6-9.5 8-9.5s8 4 8 9.5"/><path d="M23 33c0-4.5 1.8-7 4-7s4 2.5 4 7"/><path d="M27 31v5"/>',
+    "boueki": '<path d="M8 38h48l-7 12H15z"/><path d="M16 38V26h13v12"/><path d="M29 30h12v8"/><path d="M22 26v-8"/><path d="M8 57c4 0 4-2 8-2s4 2 8 2 4-2 8-2 4 2 8 2 4-2 8-2 4 2 8 2"/>',
+    "kodokeizai": '<path d="M32 10v42"/><path d="M20 54h24"/><path d="M12 18h40"/><path d="M12 18 5 34h14z"/><path d="M52 18l-7 16h14z"/><circle cx="32" cy="10" r="2"/>',
+    "shakaihosho": '<path d="M7 32a25 25 0 0 1 50 0z"/><path d="M32 32v17a5 5 0 0 1-10 0"/><path d="M32 7v.1"/>',
+    "hoikushi": '<rect x="9" y="35" width="19" height="19" rx="3"/><rect x="36" y="35" width="19" height="19" rx="3"/><rect x="22.5" y="13" width="19" height="19" rx="3"/>',
+    "kaigofukushi": '<path d="M32 29c-4-6-14-4-12 4 1 4 12 12 12 12s11-8 12-12c2-8-8-10-12-4z"/><path d="M6 42c7 0 11 4 15 9h22c4-5 8-9 15-9"/>',
+    "counselor": '<path d="M8 10h30v20H20l-8 6v-6H8z"/><path d="M26 36h30v16h-4v6l-8-6H26z"/>',
+}
+
+
+def symbol():
+    inner = CFG.get("symbol") or SYMBOLS.get(SLUG) or f'<circle cx="32" cy="32" r="24"/><text x="32" y="42" font-size="26" font-weight="800" text-anchor="middle">{E(CFG.get("icon", NAME[-1]))}</text>'
+    return f'<span class="sym" aria-hidden="true"><svg viewBox="0 0 64 64">{inner}</svg></span>'
+
+
+def chapter_map():
+    """トップの章の地図。1章1行。読んだ数は study.js が入れる。準備中の章は折りたたむ。"""
+    def row(c):
+        n = len(c["lessons"])
+        sub = f"{n}レッスン" + (" ・ 章末テスト" if complete(c) else " ・ 執筆中")
+        return (f'<li data-ls="{" ".join(l["id"] for l in c["lessons"])}"><a href="/course/#ch{c["no"]}"><span class="mn">{c["no"]}</span>'
+                f'<span><b>{E(c["title"])}</b><small>{sub}</small></span><span class="mp-n"></span></a></li>')
+    ready = [c for c in COURSE["chapters"] if c["lessons"]]
+    soon = [c for c in COURSE["chapters"] if not c["lessons"]]
+    out = f'<ol class="map">{"".join(row(c) for c in ready)}</ol>'
+    if soon:
+        lis = "".join(f'<li><span class="row"><span class="mn">{c["no"]}</span><span><b>{E(c["title"])}</b><small>{E(c["desc"])}</small></span></span></li>' for c in soon)
+        out += f'<details class="map-soon"><summary>準備中の章（{len(soon)}章）</summary><ol class="map">{lis}</ol></details>'
+    return out
+
+
+def home_tiles():
+    """「使って学ぶ」入口。クイズ・看板ツール・わたしの学習・暗記カード・用語辞典。"""
+    t = []
+    if has_quiz():
+        t.append(("/quiz/", quiz_name(), f"ゲーム形式で{len(quiz_items())}問"))
+    if CFG.get("tool"):
+        x = CFG["tool"]
+        t.append(("/" + x["path"], x["navLabel"], x["kicker"]))
+    t += [("/me/", "わたしの学習", "進み具合と記録"), ("/cards/", "暗記カード", f"{len(TERMS)}語を覚える"), ("/review/", "間違えた問題", "解き直して定着")]
+    if len(t) % 2:
+        t.append(("/glossary/", T("glossaryName"), "一文の定義で引ける"))
+    return f'<div class="tiles{" c3" if len(t) % 4 else ""}">' + "".join(f'<a href="{h}"><b>{E(b)}</b><span>{E(d)}</span></a>' for h, b, d in t) + '</div>'
+
+
 def home():
     tmap = {t["id"]: t for t in TERMS}
     chips = "".join(f'<a href="/glossary/#{i}">{E(tmap[i]["term"])}</a>' for i in CFG.get("homeTerms", []) if i in tmap)
     first = LESSONS[0][1] if LESSONS else None
     gname = T("glossaryName")
-    body = f'''<div class="hero"><p class="tag">{E(CFG["tagline"])}</p><h1>{E(NAME)}</h1></div>
+    body = f'''<div class="hero"><div><p class="tag">{E(CFG["tagline"])}</p><h1>{E(NAME)}</h1></div>{symbol()}</div>
 <p class="lead">{E(CFG["lead"])}</p>
 <p class="stats"><span><b>{N_CH}</b>章の無料講座</span><span><b>{N_LESSONS}</b>レッスン公開中</span><span><b>{len(TERMS)}</b>語の用語辞典</span><span>登録不要</span></p>
 {RESUME}
-<div class="btns">{f'<a class="btn" href="/course/{first["id"]}/">講座を第1章から始める</a>' if first else ''}{f'<a class="btn" href="/quiz/">{E(quiz_name())}で遊ぶ（{len(quiz_items())}問）</a>' if has_quiz() else ''}<a class="btn sub" href="/glossary/">{gname}を見る</a></div>{tool_home()}
+<div class="btns">{f'<a class="btn" href="/course/{first["id"]}/">講座を第1章から始める</a>' if first else ''}<a class="btn sub" href="/course/">講座の目次</a></div>
+{home_tiles()}
 <h2><span class="n">01</span>無料講座「{E(COURSE["title"])}」</h2>
 <p class="answer">{T("homeCourseAnswer")}</p>
-<div class="grid">{chapter_list()}</div>
+{chapter_map()}
 <p style="margin-top:14px"><a href="/course/">講座の目次をすべて見る</a></p>
 <h2><span class="n">02</span>{gname}</h2>
 <p class="answer">{T("homeGlossaryAnswer")}</p>

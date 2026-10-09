@@ -39,6 +39,8 @@ h+='<p class="streak">'+(g===0?'今日も学びました。連続 '+S.st.n+'日�
 h+='<div class="btns">';
 if(nx)h+='<a class="btn" href="'+nx.querySelector('a').getAttribute('href')+'">続きから読む: '+esc(nx.dataset.s)+'</a>';
 if(mk)h+='<a class="btn sub" href="/review/">間違えた問題を解き直す（'+mk+'問）</a>';if(location.pathname!=='/me/')h+='<a class="btn sub" href="/me/">わたしの学習を見る</a>';r.innerHTML=h+'</div>';r.hidden=false})}
+/* トップの章の地図 */
+$('ol.map li[data-ls]').forEach(function(r){var ls=r.dataset.ls.split(' '),n=ls.filter(function(id){return S.read[id]}).length;if(n){r.querySelector('.mp-n').textContent=n+'/'+ls.length;if(n===ls.length)r.classList.add('done')}});
 /* 復習ページ */
 var rv=document.getElementById('redo');if(rv){var qs=$('.qz',rv),c=0;qs.forEach(function(q){if(S.miss[q.dataset.q]){q.hidden=false;c++}});
 var m=document.getElementById('redo-msg');m.textContent=!OK?'このブラウザでは記録を保存できないため、復習リストを使えません。各章の章末テストで解き直せます。':(c?'解き直す問題は '+c+' 問です。正解した問題はリストから外れます。':'今は解き直す問題はありません。レッスンの確認問題で迷った問題が、ここに自動で集まります。');
