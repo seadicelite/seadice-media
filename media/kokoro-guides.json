@@ -28,7 +28,9 @@
     "caffeine-anxiety-sleep",
     "short-nap-afternoon",
     "vacation-recovery-fadeout",
-    "sleep-social-withdrawal"
+    "sleep-social-withdrawal",
+    "weekend-catch-up-sleep",
+    "burnout-recovery"
    ]
   },
   {
@@ -56,7 +58,11 @@
     "ai-written-message-found-out",
     "slow-breathing-stress",
     "ai-learning-age-40s-50s",
-    "ai-reliance-skills-recover"
+    "ai-reliance-skills-recover",
+    "ai-job-meaning-crafting",
+    "job-change-recover",
+    "burnout-recovery",
+    "ai-mistake-bounce-back"
    ]
   },
   {
@@ -113,7 +119,8 @@
     "ai-disagrees-self-doubt",
     "impostor-feelings",
     "gratitude-writing",
-    "comparison-confidence-recover"
+    "comparison-confidence-recover",
+    "ai-mistake-bounce-back"
    ]
   },
   {
