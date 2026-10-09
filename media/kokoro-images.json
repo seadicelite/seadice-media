@@ -1448,5 +1448,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pencil_with_a_smiley_face_on_paper.JPG/500px-Pencil_with_a_smiley_face_on_paper.JPG",
   "og": "https://mentalai.seadice.win/img/procrastination-cant-start.jpg",
   "local": true
+ },
+ "telework-cant-log-off": {
+  "file": "File:A laptop on the wooden table (2, Pixabay).jpg",
+  "src": "/img/telework-cant-log-off.jpg",
+  "src640": "/img/telework-cant-log-off-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のテーブルに置かれたノートパソコン",
+  "artist": "By Free-Photos from Pixabay",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:A_laptop_on_the_wooden_table_(2,_Pixabay).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/A_laptop_on_the_wooden_table_%282%2C_Pixabay%29.jpg/960px-A_laptop_on_the_wooden_table_%282%2C_Pixabay%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/A_laptop_on_the_wooden_table_%282%2C_Pixabay%29.jpg/500px-A_laptop_on_the_wooden_table_%282%2C_Pixabay%29.jpg",
+  "og": "https://mentalai.seadice.win/img/telework-cant-log-off.jpg",
+  "local": true
  }
 }
