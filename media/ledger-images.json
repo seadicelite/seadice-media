@@ -1508,5 +1508,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augustus_Leopold_Egg_-_The_Travelling_Companions_-_Google_Art_Project.jpg/500px-Augustus_Leopold_Egg_-_The_Travelling_Companions_-_Google_Art_Project.jpg",
   "og": "https://ledger.seadice.win/img/happy-spending-pre-purchase-checklist.jpg",
   "local": true
+ },
+ "debt-secrecy-self-check": {
+  "file": "File:Briefumschlag (fcm).jpg",
+  "src": "/img/debt-secrecy-self-check.jpg",
+  "src640": "/img/debt-secrecy-self-check-sm.jpg",
+  "w": 960,
+  "h": 805,
+  "alt": "白い封筒",
+  "artist": "Frank C. Müller",
+  "license": "CC BY-SA 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Briefumschlag_(fcm).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Briefumschlag_%28fcm%29.jpg/960px-Briefumschlag_%28fcm%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Briefumschlag_%28fcm%29.jpg/500px-Briefumschlag_%28fcm%29.jpg",
+  "og": "https://ledger.seadice.win/img/debt-secrecy-self-check.jpg",
+  "local": true
  }
 }

@@ -239,7 +239,9 @@
       "lead": "損得では金利の高い借金から返すのが正解ですが、件数を減らす「小さな勝利」がやる気を保ち、完済しやすくしていました。両方を組み合わせる返し方を研究から読めます。",
       "cells": {
         "why": [],
-        "notice": [],
+        "notice": [
+          "debt-secrecy-self-check"
+        ],
         "fix": [],
         "after": [
           "debt-repayment-small-victories"
