@@ -1079,5 +1079,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Holland_%26_Barrett_paper_shopping_bags%2C_Winschoten_%282019%29.jpg/500px-Holland_%26_Barrett_paper_shopping_bags%2C_Winschoten_%282019%29.jpg",
   "og": "https://ledger.seadice.win/img/impulse-purchase-regret-return.jpg",
   "local": true
+ },
+ "status-spending-gratitude-self-compassion": {
+  "file": "File:Blank Pages In An Open Notebook (4812269151).jpg",
+  "src": "/img/status-spending-gratitude-self-compassion.jpg",
+  "src640": "/img/status-spending-gratitude-self-compassion-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "開いたノート",
+  "artist": "Pink Sherbet Photography from USA",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blank_Pages_In_An_Open_Notebook_(4812269151).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Blank_Pages_In_An_Open_Notebook_%284812269151%29.jpg/960px-Blank_Pages_In_An_Open_Notebook_%284812269151%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Blank_Pages_In_An_Open_Notebook_%284812269151%29.jpg/500px-Blank_Pages_In_An_Open_Notebook_%284812269151%29.jpg",
+  "og": "https://ledger.seadice.win/img/status-spending-gratitude-self-compassion.jpg",
+  "local": true
  }
 }

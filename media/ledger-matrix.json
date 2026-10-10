@@ -117,7 +117,9 @@
         "notice": [
           "status-spending-self-check"
         ],
-        "fix": [],
+        "fix": [
+          "status-spending-gratitude-self-compassion"
+        ],
         "after": [],
         "use": []
       }
