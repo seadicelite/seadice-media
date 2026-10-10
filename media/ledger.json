@@ -122,6 +122,36 @@
         "gacha-loot-box-spending",
         "self-reward-licensing"
       ]
+    },
+    {
+      "id": "spendology",
+      "name": "Spendology",
+      "icon": "",
+      "catch": "欲しい物をすぐ買わずに待つリストへ。時間が来たら「まだ欲しい？」とお知らせし、買わなかった金額は「守れたお金」に",
+      "hubLead": "衝動買い・セール・カード払い・給料日・後悔したときなど、Spendologyの機能のもとになった研究の記事です。",
+      "theme": "衝動買い・買う前に待つ・セールやお得表示・カードや分割払い・給料日・ポイント・後悔したとき。節約しすぎ・投資・ギャンブルの記事には付けない",
+      "webUrl": "/wait-list/",
+      "articles": [
+        "impulse-buying-pre-purchase-checklist",
+        "sale-overbuying-opportunity-cost",
+        "stress-shopping-swap-if-then",
+        "impulse-purchase-regret-return",
+        "savings-goal-visualization-progress-bar-research",
+        "impulse-buying-self-check",
+        "sale-buying-self-check",
+        "sale-price-anchoring",
+        "left-digit-price-980",
+        "free-shipping-zero-price",
+        "scarcity-limited-stock-psychology",
+        "cashless-spending",
+        "cashless-overspending-self-check",
+        "installment-bnpl-spending",
+        "payday-spending-spike",
+        "points-reward-overspending",
+        "bulk-buying-stockpile-consumption",
+        "small-change-invisible-spending",
+        "envelope-partition-saving"
+      ]
     }
   ]
 }

@@ -2,7 +2,9 @@
  - 記事末尾(関連記事の直前)にアプリカード <!--app-->…<!--/app--> を差し込む。1記事1アプリまで
  - アプリ用ページ /apps/{id}/ を生成する。アプリからはこのURLだけにリンクする(記事が増えると自動で育つ)
 設定はメディア設定の "apps" 配列。どの記事に出すかは apps[].articles(slug の明示リスト)か、記事側の "app" フィールドで決める。
-App Store リンクには ct={メディアslug} を付け、App Store Connect のアナリティクスで送客元を見られるようにする。JS 不使用。"""
+App Store リンクには ct={メディアslug} を付け、App Store Connect のアナリティクスで送客元を見られるようにする。JS 不使用。
+appStoreId が無いアプリ(審査中・公開前)は、記事にカードを出さず、アプリ用ページだけを noindex・sitemap 外で作る
+(アプリに入れるURLが審査中から開けるように)。ボタンは App Store の代わりに "webUrl"(Web版)があればそれを出す。"""
 import html, re
 from pathlib import Path
 
@@ -23,6 +25,17 @@ def store_url(app, cfg):
     return f'https://apps.apple.com/app/id{app["appStoreId"]}?ct={cfg["slug"]}'
 
 
+def released(app):
+    return bool(app.get("appStoreId"))
+
+
+def icon_html(app, size, lazy=True):
+    if not app.get("icon"):
+        return ""
+    lz = ' loading="lazy"' if lazy else ""
+    return f'<img src="{app["icon"]}" alt="" width="{size}" height="{size}"{lz}>'
+
+
 def app_for(cfg, p):
     apps = cfg.get("apps") or []
     if p.get("app"):
@@ -31,7 +44,7 @@ def app_for(cfg, p):
 
 
 def card_html(app, cfg):
-    return (f'<!--app--><aside class="appcard" aria-label="関連アプリ"><img src="{app["icon"]}" alt="" width="64" height="64" loading="lazy">'
+    return (f'<!--app--><aside class="appcard" aria-label="関連アプリ">{icon_html(app, 64)}'
             f'<div class="ab"><small>この記事の内容を続けるなら</small><b>{E(app["name"])}</b><p>{E(app["catch"])}（無料・広告なし・iPhone）</p>'
             f'<a class="ast" href="{store_url(app, cfg)}" target="_blank" rel="noopener">App Storeで見る</a>'
             f'<a class="amore" href="/apps/{app["id"]}/">関連する記事</a></div></aside><!--/app-->')
@@ -45,6 +58,8 @@ def patch(cfg, posts):
             continue
         s = f.read_text()
         app = app_for(cfg, p)
+        if app and not released(app):
+            app = None  # 公開前のアプリは記事で紹介しない
         blk = card_html(app, cfg) if app else EMPTY
         if "<!--app-->" in s:
             s2 = re.sub(r"<!--app-->.*?<!--/app-->", lambda m: blk, s, flags=re.S)
@@ -101,18 +116,28 @@ def hubs(cfg, posts, images, types, theme, favicon, css, cats, card):
         items = [p for p in posts if app_for(cfg, p) is app]
         rel = f'apps/{app["id"]}/'
         cards = "".join(card(p, cats, images, types) for p in items) or '<p class="empty">記事を準備中です。</p>'
+        if released(app):
+            btn = f'<a class="ast" href="{store_url(app, cfg)}" target="_blank" rel="noopener">App Storeで見る</a>'
+        else:
+            btn = '<small style="color:var(--muted)">App Store 近日公開</small>'
+            if app.get("webUrl"):
+                btn += f'<br><a class="ast" href="{app["webUrl"]}">ブラウザで使う（Web版）</a>'
         body = (f'  <div class="hero"><h1>{E(app["name"])}を使っている人へ</h1><p class="lead">{E(app["hubLead"])}</p></div>\n'
-                f'  <aside class="appcard" style="margin-top:0"><img src="{app["icon"]}" alt="" width="64" height="64">'
+                f'  <aside class="appcard" style="margin-top:0">{icon_html(app, 64, lazy=False)}'
                 f'<div class="ab"><b>{E(app["name"])}</b><p>{E(app["catch"])}（無料・広告なし・iPhone）</p>'
-                f'<a class="ast" href="{store_url(app, cfg)}" target="_blank" rel="noopener">App Storeで見る</a></div></aside>\n'
+                f'{btn}</div></aside>\n'
                 f'  <h2 class="sec">関連する記事（{len(items)}本）</h2><div class="grid">{cards}</div>' + others_html(cfg, app))
         desc = f'{app["name"]}と一緒に読みたい、{cfg["name"]}の記事をまとめました。{app["hubLead"]}'
         graph = [{"@type": "CollectionPage", "name": f'{app["name"]}を使っている人へ', "url": cfg["url"] + rel, "description": desc,
                   "about": {"@type": "SoftwareApplication", "name": app["name"], "operatingSystem": "iOS", "applicationCategory": "HealthApplication",
-                            "offers": {"@type": "Offer", "price": "0", "priceCurrency": "JPY"}, "url": f'https://apps.apple.com/app/id{app["appStoreId"]}'},
+                            "offers": {"@type": "Offer", "price": "0", "priceCurrency": "JPY"},
+                            **({"url": f'https://apps.apple.com/app/id{app["appStoreId"]}'} if released(app) else {})},
                   "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}}]
-        urls.append(extras._page(cfg, theme, favicon, css, rel, f'{app["name"]}を使っている人へ | {cfg["name"]}', desc, body, graph,
-                                 [(f'{app["name"]}を使っている人へ', cfg["url"] + rel)], CSS))
+        u = extras._page(cfg, theme, favicon, css, rel, f'{app["name"]}を使っている人へ | {cfg["name"]}', desc, body, graph,
+                         [(f'{app["name"]}を使っている人へ', cfg["url"] + rel)], CSS,
+                         "" if released(app) else '<meta name="robots" content="noindex">')
+        if released(app):  # 公開前のページは sitemap に載せない
+            urls.append(u)
     return urls
 
 
