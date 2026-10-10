@@ -108,7 +108,9 @@
           "self-reward-licensing",
           "retail-therapy-mood-shopping"
         ],
-        "notice": [],
+        "notice": [
+          "self-reward-stress-shopping-self-check"
+        ],
         "fix": [
           "stress-shopping-swap-if-then"
         ],
