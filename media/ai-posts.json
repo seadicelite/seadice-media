@@ -1,5 +1,14 @@
 [
  {
+  "slug": "sns-photo-voice-ai-training-settings",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-10",
+  "title": "自分の写真や声がAIの学習に使われるのが不安。SNSでできるのは、学習の設定の確認と、顔と声の公開範囲をしぼること",
+  "summary": "SNSの学習の設定を確かめ、顔と声がはっきりわかる投稿は公開範囲をしぼる。設定で止められるのは今後の分だけ。"
+ },
+ {
   "slug": "no-ai-exam-interview-freeze",
   "category": "考える力・集中",
   "type": "guide",

@@ -593,5 +593,22 @@
   "remote640": "https://cdn.stocksnap.io/img-thumbs/960w/ILDGSIYA6R.jpg",
   "og": "https://ai.seadice.win/img/no-ai-exam-interview-freeze-og.jpg",
   "local": true
+ },
+ "sns-photo-voice-ai-training-settings": {
+  "file": "File:TG12345 Mk.II desk (1970s) and Microphones, Abbey Road Studios.jpg",
+  "src": "/img/sns-photo-voice-ai-training-settings.webp",
+  "src640": "/img/sns-photo-voice-ai-training-settings-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "録音用の卓とマイク",
+  "artist": "Josephenus P. Riley",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:TG12345_Mk.II_desk_(1970s)_and_Microphones,_Abbey_Road_Studios.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg/960px-TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg/500px-TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg",
+  "og": "https://ai.seadice.win/img/sns-photo-voice-ai-training-settings-og.jpg",
+  "local": true
  }
 }
