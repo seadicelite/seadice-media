@@ -1169,5 +1169,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Restaurant_%27t_Stadhuys_receipt%2C_Winschoten_%282020%29_01.jpg/500px-Restaurant_%27t_Stadhuys_receipt%2C_Winschoten_%282020%29_01.jpg",
   "og": "https://ledger.seadice.win/img/status-overspending-recovery.jpg",
   "local": true
+ },
+ "sale-purchase-checklist-calculator": {
+  "file": "File:Parsley for 99 cents, and other vegetables, in supermarket in Clearwater, Florida, US on 25 September 2020.jpg",
+  "src": "/img/sale-purchase-checklist-calculator.jpg",
+  "src640": "/img/sale-purchase-checklist-calculator-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "スーパーの野菜売り場の値札",
+  "artist": "MatthewHoobin",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Parsley_for_99_cents,_and_other_vegetables,_in_supermarket_in_Clearwater,_Florida,_US_on_25_September_2020.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parsley_for_99_cents%2C_and_other_vegetables%2C_in_supermarket_in_Clearwater%2C_Florida%2C_US_on_25_September_2020.jpg/960px-Parsley_for_99_cents%2C_and_other_vegetables%2C_in_supermarket_in_Clearwater%2C_Florida%2C_US_on_25_September_2020.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parsley_for_99_cents%2C_and_other_vegetables%2C_in_supermarket_in_Clearwater%2C_Florida%2C_US_on_25_September_2020.jpg/500px-Parsley_for_99_cents%2C_and_other_vegetables%2C_in_supermarket_in_Clearwater%2C_Florida%2C_US_on_25_September_2020.jpg",
+  "og": "https://ledger.seadice.win/img/sale-purchase-checklist-calculator.jpg",
+  "local": true
  }
 }

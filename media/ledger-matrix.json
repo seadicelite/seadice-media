@@ -73,7 +73,9 @@
           "sale-overbuying-opportunity-cost"
         ],
         "after": [],
-        "use": []
+        "use": [
+          "sale-purchase-checklist-calculator"
+        ]
       }
     },
     {
