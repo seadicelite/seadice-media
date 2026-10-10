@@ -45,7 +45,9 @@
         "fix": [
           "online-impulse-buying-tips"
         ],
-        "after": [],
+        "after": [
+          "impulse-purchase-regret-return"
+        ],
         "use": []
       }
     },

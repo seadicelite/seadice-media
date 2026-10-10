@@ -1061,5 +1061,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aurora_electronic_calculator_DT210_08.jpg/500px-Aurora_electronic_calculator_DT210_08.jpg",
   "og": "https://ledger.seadice.win/img/revolving-debt-recovery-steps.jpg",
   "local": true
+ },
+ "impulse-purchase-regret-return": {
+  "file": "File:Holland & Barrett paper shopping bags, Winschoten (2019).jpg",
+  "src": "/img/impulse-purchase-regret-return.jpg",
+  "src640": "/img/impulse-purchase-regret-return-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "買い物袋",
+  "artist": "Donald Trung Quoc Don",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Holland_%26_Barrett_paper_shopping_bags,_Winschoten_(2019).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Holland_%26_Barrett_paper_shopping_bags%2C_Winschoten_%282019%29.jpg/960px-Holland_%26_Barrett_paper_shopping_bags%2C_Winschoten_%282019%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Holland_%26_Barrett_paper_shopping_bags%2C_Winschoten_%282019%29.jpg/500px-Holland_%26_Barrett_paper_shopping_bags%2C_Winschoten_%282019%29.jpg",
+  "og": "https://ledger.seadice.win/img/impulse-purchase-regret-return.jpg",
+  "local": true
  }
 }
