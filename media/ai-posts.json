@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-wrong-answer-money-refund",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-10",
+  "title": "AIの答えを信じて契約し、損をした。取り消しやクーリング・オフは条件つきで、まず記録を残して188に相談する",
+  "summary": "AIの答えを信じて損をした契約は取り消せる？消費者契約法の条件、クーリング・オフの対象、記録の残し方と相談先を整理。"
+ },
+ {
   "slug": "ai-translation-mistake-sent",
   "category": "AIに頼りすぎ",
   "type": "guide",

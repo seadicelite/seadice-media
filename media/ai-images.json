@@ -508,5 +508,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dictionary_indents_headon.jpg/500px-Dictionary_indents_headon.jpg",
   "og": "https://ai.seadice.win/img/ai-translation-mistake-sent-og.jpg",
   "local": true
+ },
+ "ai-wrong-answer-money-refund": {
+  "file": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMTA5OTI4LWltYWdlLWt3dnc5cGM1LmpwZw.jpg",
+  "src": "/img/ai-wrong-answer-money-refund.webp",
+  "src640": "/img/ai-wrong-answer-money-refund-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "レシートと電卓",
+  "artist": "Unknown",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "page": "https://www.rawpixel.com/image/5913662/accountant-free-public-domain-cc0-photo",
+  "source_label": "Rawpixel",
+  "remote": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMTA5OTI4LWltYWdlLWt3dnc5cGM1LmpwZw.jpg",
+  "remote640": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMTA5OTI4LWltYWdlLWt3dnc5cGM1LmpwZw.jpg",
+  "og": "https://ai.seadice.win/img/ai-wrong-answer-money-refund-og.jpg",
+  "local": true
  }
 }
