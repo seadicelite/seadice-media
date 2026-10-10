@@ -332,8 +332,75 @@ def term_links(cfg, posts, limit=4, write=True):
     return n
 
 
+MATRIX_CSS = (".mrow{display:grid;gap:12px;grid-template-columns:1fr}@media(min-width:760px){.mrow{grid-template-columns:1fr 1fr}}"
+              ".mrow a{display:block;background:var(--card);border:1px solid var(--border);border-radius:16px;padding:16px 18px;text-decoration:none;color:var(--text)}"
+              ".mrow a:hover,.mrow a:focus-visible{border-color:var(--accent)}"
+              ".mrow b{display:block;font-size:17px;line-height:1.5}.mrow span{display:block;font-size:13px;color:var(--muted);line-height:1.7;margin-top:6px}"
+              ".mstage{margin:0 0 40px;scroll-margin-top:72px}.mstage>h2{font-size:19px;line-height:1.5;margin:0 0 14px}"
+              ".mstage>h2 small{display:block;font-size:12px;letter-spacing:.08em;color:var(--accent);margin-bottom:2px}")
+
+
+def matrix_guides(cfg, posts, cats, images, types, theme, favicon, css, card):
+    """media/{slug}-matrix.json に "guide" があれば、表の行ごとのガイド /guide/{行id}/ と一覧 /guide/ を作る。
+    行のページは列（段階）の順に記事を並べ、記事が無い段階は出さない。記事側には関連記事の直前に「この悩みを順に読む」を入れる。
+    -guides.json（手書きのガイド）があるメディアでは使わない（/guide/ が衝突するため）。"""
+    m = _load(cfg["slug"], "matrix")
+    if not m or not m.get("guide") or _load(cfg["slug"], "guides"):
+        return []
+    import re
+    g, cols, by = m["guide"], m["cols"], {p["slug"]: p for p in posts}
+    have_of = {r["id"]: [c for c in cols if any(s in by or s.startswith("https://") for s in r["cells"].get(c["id"], []))] for r in m["rows"]}
+    rows = [r for r in m["rows"] if have_of[r["id"]]]
+    urls = []
+    nav = "".join(f'<a href="/guide/{r["id"]}/">{E(r["label"])}</a>' for r in rows)
+    for r in rows:
+        rel, have = f'guide/{r["id"]}/', have_of[r["id"]]
+        here = f'href="/guide/{r["id"]}/"'
+        secs, items = "", []
+        for c in have:
+            ss = r["cells"].get(c["id"], [])
+            arts = [s for s in ss if s in by]
+            items += arts
+            ext = "".join(f'<p class="xlead"><a href="{E(u)}" style="color:var(--link);font-weight:700">{E(g.get("toolLabel", "チェック表・ツールを使う"))}</a></p>' for u in ss if u.startswith("https://"))
+            secs += (f'  <section class="mstage" id="{c["id"]}"><h2><small>{cols.index(c) + 1:02d} {E(c["label"])}</small>{E(c["q"].split("（")[0])}</h2>'
+                     f'<div class="grid">{_cards(arts, posts, cats, images, types, card)}</div>{ext}</section>\n')
+        title = g["rowTitle"].replace("{label}", r["label"])
+        lead = r.get("lead") or g["rowLead"].replace("{label}", r["label"])
+        steps = " → ".join(f'<a href="#{c["id"]}" style="color:var(--link)">{E(c["label"])}</a>' for c in have)
+        cur = here + ' aria-current="page"'
+        body = (f'  <div class="hero"><h1>{E(title)}</h1></div>\n  <p class="xlead">{E(lead)}</p>\n'
+                f'  <p class="xlead" style="font-size:14px">この順に読めます: {steps}</p>\n'
+                f'{secs}  <h2 style="font-size:17px;margin:8px 0 12px">ほかのお悩み</h2>\n  <nav class="gnav" aria-label="{E(g["title"])}">{nav.replace(here, cur)}</nav>\n')
+        graph = [{"@type": "CollectionPage", "name": title, "url": cfg["url"] + rel, "description": lead,
+                  "mainEntity": {"@type": "ItemList", "itemListElement": [
+                      {"@type": "ListItem", "position": i + 1, "url": f'{cfg["url"]}{s}/', "name": by[s]["title"]} for i, s in enumerate(items)]}}]
+        urls.append(_page(cfg, theme, favicon, css, rel, f'{title} | {cfg["name"]}', lead[:120], body, graph,
+                          [(g["title"], cfg["url"] + "guide/"), (r["label"], cfg["url"] + rel)], MATRIX_CSS))
+        for c in have:
+            for s in r["cells"].get(c["id"], []):
+                f = ROOT / cfg["path"] / s / "index.html"
+                if s not in by or not f.exists():
+                    continue
+                t = re.sub(r"<!--gstep-->.*?<!--/gstep-->", "", f.read_text(), flags=re.S)
+                block = ('<!--gstep--><div role="navigation" aria-label="この悩みを順に読む" style="background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 18px;margin:32px 0;font-size:14px;line-height:1.9">'
+                         f'<b>「{E(r["label"])}」を順に読む</b><br>'
+                         + " → ".join(f'<b>{E(x["label"])}（この記事）</b>' if x is c else f'<a href="/guide/{r["id"]}/#{x["id"]}" style="color:var(--link)">{E(x["label"])}</a>' for x in have)
+                         + f'<br><a href="/guide/{r["id"]}/" style="color:var(--link);font-weight:700">この悩みのガイドを見る</a></div><!--/gstep-->')
+                if "<!--related-->" in t:
+                    t = t.replace("<!--related-->", block + "<!--related-->", 1)
+                f.write_text(t)
+    cards = "".join(f'<a href="/guide/{r["id"]}/"><b>{E(r["label"])}</b><span>{E("・".join(c["label"] for c in have_of[r["id"]]))}</span></a>' for r in rows)
+    body = f'  <div class="hero"><h1>{E(g["title"])}</h1></div>\n  <p class="xlead">{E(g["lead"])}</p>\n  <div class="mrow">{cards}</div>'
+    urls.append(_page(cfg, theme, favicon, css, "guide/", f'{g["title"]} | {cfg["name"]}', g["lead"][:120], body,
+                      [{"@type": "CollectionPage", "name": g["title"], "url": cfg["url"] + "guide/", "description": g["lead"],
+                        "hasPart": [{"@type": "CollectionPage", "name": r["label"], "url": f'{cfg["url"]}guide/{r["id"]}/'} for r in rows]}],
+                      [(g["title"], cfg["url"] + "guide/")], MATRIX_CSS))
+    return urls
+
+
 def apply(cfg, posts, cats, images, types, theme, favicon, css, card):
     urls = guides(cfg, posts, cats, images, types, theme, favicon, css, card)
+    urls += matrix_guides(cfg, posts, cats, images, types, theme, favicon, css, card)
     urls += glossary(cfg, posts, theme, favicon, css)
     urls += pages(cfg, theme, favicon, css)
     import mindmap  # 記事マップ /map/ (media/{slug}-map.json があるメディアだけ)

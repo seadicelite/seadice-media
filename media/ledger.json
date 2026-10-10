@@ -98,6 +98,10 @@
   "layout": "magazine",
   "extraNav": [
     {
+      "label": "悩み別ガイド",
+      "path": "/guide/"
+    },
+    {
       "label": "用語集",
       "path": "/glossary/"
     },
