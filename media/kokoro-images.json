@@ -1851,5 +1851,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Legal_pad_and_pencil.jpg/500px-Legal_pad_and_pencil.jpg",
   "og": "https://mentalai.seadice.win/img/ai-job-worry-planning-habit-og.jpg",
   "local": true
+ },
+ "comparison-values-affirmation": {
+  "file": "File:Writing in a notebook with a feather pen while enjoying coffee at a desk surrounded by flowers.jpg",
+  "src": "/img/comparison-values-affirmation.webp",
+  "src640": "/img/comparison-values-affirmation-sm.webp",
+  "w": 960,
+  "h": 641,
+  "alt": "花とコーヒーのそばで、ノートに書く手元",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg/960px-Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg/500px-Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
+  "og": "https://mentalai.seadice.win/img/comparison-values-affirmation-og.jpg",
+  "local": true
  }
 }
