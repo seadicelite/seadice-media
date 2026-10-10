@@ -1737,8 +1737,8 @@
  },
  "ai-job-anxiety-resilience": {
   "file": "File:STRAWBERRY SPROUTING green sprout vivipary achenes oblong fruit close-up Jordbær grønt skudd (bought in Norway December 2020) IMG 2502.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2502.jpg/960px-STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2502.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2502.jpg/500px-STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2502.jpg",
+  "src": "/img/ai-job-anxiety-resilience.jpg",
+  "src640": "/img/ai-job-anxiety-resilience-sm.jpg",
   "w": 960,
   "h": 759,
   "alt": "小さな緑の芽が伸びたいちごの実",
@@ -1746,6 +1746,29 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_(bought_in_Norway_December_2020)_IMG_2502.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2502.jpg/960px-STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2502.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2502.jpg/500px-STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2502.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-job-anxiety-resilience.jpg",
+  "local": true
+ },
+ "comparison-rumination-distance": {
+  "file": "File:Morning Mist on the Lake 29 - geograph.org.uk - 2802489.jpg",
+  "src": "/img/comparison-rumination-distance.jpg",
+  "src640": "/img/comparison-rumination-distance-sm.jpg",
+  "w": 960,
+  "h": 632,
+  "alt": "朝もやの湖",
+  "artist": "Daniel Karmy",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Morning_Mist_on_the_Lake_29_-_geograph.org.uk_-_2802489.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Morning_Mist_on_the_Lake_29_-_geograph.org.uk_-_2802489.jpg/960px-Morning_Mist_on_the_Lake_29_-_geograph.org.uk_-_2802489.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Morning_Mist_on_the_Lake_29_-_geograph.org.uk_-_2802489.jpg/500px-Morning_Mist_on_the_Lake_29_-_geograph.org.uk_-_2802489.jpg",
+  "og": "https://mentalai.seadice.win/img/comparison-rumination-distance.jpg",
+  "local": true
  }
 }
