@@ -933,5 +933,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Herbert_S._Frere%2C_Writing_Desk%2C_1941%2C_NGA_18106.jpg/500px-Herbert_S._Frere%2C_Writing_Desk%2C_1941%2C_NGA_18106.jpg",
   "og": "https://ai.seadice.win/img/ai-brainstorm-ideas-look-alike-og.jpg",
   "local": true
+ },
+ "ai-label-sns-post-trust": {
+  "file": "File:Diario de Yucatán, Mérida, Yucatán (01).jpg",
+  "src": "/img/ai-label-sns-post-trust.jpg",
+  "src640": "/img/ai-label-sns-post-trust-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "新聞社の建物が並ぶ街の通り",
+  "artist": "Inri",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Diario_de_Yucat%C3%A1n,_M%C3%A9rida,_Yucat%C3%A1n_(01).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Diario_de_Yucat%C3%A1n%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2801%29.jpg/960px-Diario_de_Yucat%C3%A1n%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2801%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Diario_de_Yucat%C3%A1n%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2801%29.jpg/500px-Diario_de_Yucat%C3%A1n%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2801%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-label-sns-post-trust.jpg",
+  "local": true
  }
 }
