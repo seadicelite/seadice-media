@@ -80,7 +80,9 @@
         ],
         "notice": [],
         "fix": [],
-        "after": [],
+        "after": [
+          "revolving-debt-recovery-steps"
+        ],
         "use": []
       }
     },

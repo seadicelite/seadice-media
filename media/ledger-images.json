@@ -1043,5 +1043,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Walking_path_to_Tortuga_Bay_in_the_Galapagos_photo_by_Alvaro_Sevilla_Design.JPG/500px-Walking_path_to_Tortuga_Bay_in_the_Galapagos_photo_by_Alvaro_Sevilla_Design.JPG",
   "og": "https://ledger.seadice.win/img/stress-shopping-swap-if-then-og.jpg",
   "local": true
+ },
+ "revolving-debt-recovery-steps": {
+  "file": "File:Aurora electronic calculator DT210 08.jpg",
+  "src": "/img/revolving-debt-recovery-steps.jpg",
+  "src640": "/img/revolving-debt-recovery-steps-sm.jpg",
+  "w": 960,
+  "h": 480,
+  "alt": "電卓",
+  "artist": "Coyau",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Aurora_electronic_calculator_DT210_08.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aurora_electronic_calculator_DT210_08.jpg/960px-Aurora_electronic_calculator_DT210_08.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aurora_electronic_calculator_DT210_08.jpg/500px-Aurora_electronic_calculator_DT210_08.jpg",
+  "og": "https://ledger.seadice.win/img/revolving-debt-recovery-steps.jpg",
+  "local": true
  }
 }
