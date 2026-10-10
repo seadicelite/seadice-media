@@ -49,7 +49,9 @@
         "after": [
           "impulse-purchase-regret-return"
         ],
-        "use": []
+        "use": [
+          "impulse-buying-pre-purchase-checklist"
+        ]
       }
     },
     {

@@ -1097,5 +1097,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Blank_Pages_In_An_Open_Notebook_%284812269151%29.jpg/500px-Blank_Pages_In_An_Open_Notebook_%284812269151%29.jpg",
   "og": "https://ledger.seadice.win/img/status-spending-gratitude-self-compassion.jpg",
   "local": true
+ },
+ "impulse-buying-pre-purchase-checklist": {
+  "file": "File:Mini grocery toy pushcart.jpg",
+  "src": "/img/impulse-buying-pre-purchase-checklist.jpg",
+  "src640": "/img/impulse-buying-pre-purchase-checklist-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "おもちゃのショッピングカート",
+  "artist": "Me (Elsa Versailles)",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Mini_grocery_toy_pushcart.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mini_grocery_toy_pushcart.jpg/960px-Mini_grocery_toy_pushcart.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mini_grocery_toy_pushcart.jpg/500px-Mini_grocery_toy_pushcart.jpg",
+  "og": "https://ledger.seadice.win/img/impulse-buying-pre-purchase-checklist.jpg",
+  "local": true
  }
 }
