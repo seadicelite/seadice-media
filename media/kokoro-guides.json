@@ -31,7 +31,8 @@
     "sleep-social-withdrawal",
     "weekend-catch-up-sleep",
     "burnout-recovery",
-    "telework-cant-log-off"
+    "telework-cant-log-off",
+    "worry-time-scheduling"
    ]
   },
   {
@@ -64,7 +65,9 @@
     "job-change-recover",
     "burnout-recovery",
     "ai-mistake-bounce-back",
-    "telework-cant-log-off"
+    "telework-cant-log-off",
+    "worry-time-scheduling",
+    "mind-goes-blank-pressure"
    ]
   },
   {
@@ -98,7 +101,8 @@
     "ai-reliance-skills-recover",
     "interrupted-focus-return",
     "brain-training-focus-recover",
-    "procrastination-cant-start"
+    "procrastination-cant-start",
+    "focus-recover-exercise"
    ]
   },
   {
@@ -126,7 +130,8 @@
     "comparison-confidence-recover",
     "ai-mistake-bounce-back",
     "comparison-no-talent-mindset",
-    "ai-edits-writing-confidence"
+    "ai-edits-writing-confidence",
+    "compare-with-past-self"
    ]
   },
   {
@@ -153,7 +158,9 @@
     "helping-others-wellbeing",
     "prevent-isolation-habits",
     "sleep-social-withdrawal",
-    "ai-companion-loss-grief"
+    "ai-companion-loss-grief",
+    "group-belonging-prevent",
+    "apologize-repair-chat"
    ]
   },
   {
@@ -181,7 +188,8 @@
     "ai-written-message-found-out",
     "ai-chat-cant-stop",
     "ai-frustration-anger",
-    "ai-companion-loss-grief"
+    "ai-companion-loss-grief",
+    "ai-reassurance-loop"
    ]
   }
  ]
