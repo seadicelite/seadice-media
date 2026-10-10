@@ -39,7 +39,9 @@
           "bulk-buying-stockpile-consumption",
           "payday-spending-spike"
         ],
-        "notice": [],
+        "notice": [
+          "impulse-buying-self-check"
+        ],
         "fix": [
           "online-impulse-buying-tips"
         ],

@@ -1009,5 +1009,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dress_shop_window_display.jpg/500px-Dress_shop_window_display.jpg",
   "og": "https://ledger.seadice.win/img/status-spending-self-check-og.jpg",
   "local": true
+ },
+ "impulse-buying-self-check": {
+  "file": "File:Parcel package boxes in Ozolnieki.jpg",
+  "src": "/img/impulse-buying-self-check.webp",
+  "src640": "/img/impulse-buying-self-check-sm.webp",
+  "w": 960,
+  "h": 723,
+  "alt": "店の前に並ぶ宅配ロッカー",
+  "artist": "Андрей Романенко",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Parcel_package_boxes_in_Ozolnieki.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Parcel_package_boxes_in_Ozolnieki.jpg/960px-Parcel_package_boxes_in_Ozolnieki.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Parcel_package_boxes_in_Ozolnieki.jpg/500px-Parcel_package_boxes_in_Ozolnieki.jpg",
+  "og": "https://ledger.seadice.win/img/impulse-buying-self-check-og.jpg",
+  "local": true
  }
 }
