@@ -1886,5 +1886,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Journaling_over_coffee_%28Unsplash%29.jpg/500px-Journaling_over_coffee_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/ai-habit-change-how-long.jpg",
   "local": true
+ },
+ "comparison-best-possible-self": {
+  "file": "File:Wikipedia notebook pencil puzzles.jpg",
+  "src": "/img/comparison-best-possible-self.jpg",
+  "src640": "/img/comparison-best-possible-self-sm.jpg",
+  "w": 960,
+  "h": 719,
+  "alt": "白紙のノートとペン、まわりに散らばるパズルのピース",
+  "artist": "Anntinomy",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Wikipedia_notebook_pencil_puzzles.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wikipedia_notebook_pencil_puzzles.jpg/960px-Wikipedia_notebook_pencil_puzzles.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wikipedia_notebook_pencil_puzzles.jpg/500px-Wikipedia_notebook_pencil_puzzles.jpg",
+  "og": "https://mentalai.seadice.win/img/comparison-best-possible-self.jpg",
+  "local": true
  }
 }
