@@ -280,5 +280,19 @@
    "label": "訂正の記録",
    "path": "/corrections/"
   }
+ ],
+ "apps": [
+  {
+   "id": "active-recall",
+   "name": "おもいだしトレーニング",
+   "appStoreId": "6801937769",
+   "icon": "/img/apps/active-recall.webp",
+   "catch": "覚えたい範囲を入れるか教科書を撮ると、AIが一問一答を作る。何も見ずに答えを書いて、忘れかけた頃に復習日が回ってくる",
+   "hubLead": "AIに頼らず自分の頭で思い出せるようにするための、記憶と練習の研究です。",
+   "theme": "AIなしで思い出す・書く練習、試験対策。AIの使い方そのものの記事には付けない",
+   "articles": [
+    "no-ai-exam-interview-freeze"
+   ]
+  }
  ]
 }

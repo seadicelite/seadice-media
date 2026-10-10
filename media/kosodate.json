@@ -372,6 +372,18 @@
         "smartphone-first-age-ownership-risk",
         "family-screen-time-rules-research"
       ]
+    },
+    {
+      "id": "active-recall",
+      "name": "おもいだしトレーニング",
+      "appStoreId": "6801937769",
+      "icon": "/img/apps/active-recall.webp",
+      "catch": "覚えたい範囲を入れるか教科書を撮ると、AIが一問一答を作る。何も見ずに答えを書いて、忘れかけた頃に復習日が回ってくる",
+      "hubLead": "AIに答えを聞く時代に、子どもが自分の頭で覚える力を育てるための記憶の研究です。",
+      "theme": "子どもの記憶・学習で、自分で思い出す練習が役立つ話題。スクリーンタイムの記事には付けない",
+      "articles": [
+        "ai-answers-memory-retention"
+      ]
     }
   ]
 }

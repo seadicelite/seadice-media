@@ -14,6 +14,8 @@ CSS = (".appcard{display:flex;gap:14px;align-items:center;margin-top:40px;backgr
        ".appcard small{display:block;font-size:12px;color:var(--accent);margin-bottom:2px}.appcard b{display:block;font-size:16px;line-height:1.4}"
        ".appcard p{font-size:14px;color:var(--muted);margin:4px 0 10px;line-height:1.6}"
        ".appcard a.ast{display:inline-block;background:var(--accent);color:var(--bg);font-weight:700;font-size:14px;text-decoration:none;padding:10px 18px;border-radius:10px}"
+       ".omedia h3{font-size:16px;margin:24px 0 8px}.omedia h3 a{color:var(--accent)}.omedia ul{padding-left:1.2em;margin:0}"
+       ".omedia li{margin:0;padding:6px 0;font-size:15px;line-height:1.6}.omedia li a{color:var(--text,inherit)}"
        ".appcard a.amore{display:inline-block;font-size:13px;color:var(--accent);margin-left:12px;padding:10px 0}")
 
 
@@ -58,6 +60,40 @@ def patch(cfg, posts):
     return n
 
 
+def other_media(cfg, app_id):
+    """同じアプリを apps[] に持つ、ほかのメディアの記事。アプリ用ページから他メディアへも送客する"""
+    import json
+    out = []
+    for f in sorted((ROOT / "media").glob("*.json")):
+        try:
+            c = json.loads(f.read_text())
+        except Exception:
+            continue
+        if not isinstance(c, dict) or c.get("slug") == cfg["slug"] or not c.get("url"):
+            continue
+        a = next((a for a in c.get("apps") or [] if a["id"] == app_id), None)
+        pf = ROOT / f'media/{c.get("slug")}-posts.json'
+        if not a or not pf.exists():
+            continue
+        posts = {p["slug"]: p for p in json.loads(pf.read_text())}
+        items = [posts[s] for s in a.get("articles", []) if s in posts]
+        items += [p for p in posts.values() if p.get("app") == app_id and p not in items]
+        if items:
+            out.append((c, items))
+    return out
+
+
+def others_html(cfg, app):
+    blocks = []
+    for c, items in other_media(cfg, app["id"]):
+        lis = "".join(f'<li><a href="{c["url"]}{p["slug"]}/">{E(p["title"])}</a></li>' for p in items)
+        blocks.append(f'<h3><a href="{c["url"]}apps/{app["id"]}/">{E(c["name"])}</a>（{len(items)}本）</h3><ul>{lis}</ul>')
+    if not blocks:
+        return ""
+    return ('\n  <section class="omedia"><h2 class="sec">ほかのSEADICEメディアの記事</h2>'
+            '<p class="lead">同じテーマを、別の切り口から扱った記事です。</p>' + "".join(blocks) + '</section>')
+
+
 def hubs(cfg, posts, images, types, theme, favicon, css, cats, card):
     import extras
     urls = []
@@ -69,7 +105,7 @@ def hubs(cfg, posts, images, types, theme, favicon, css, cats, card):
                 f'  <aside class="appcard" style="margin-top:0"><img src="{app["icon"]}" alt="" width="64" height="64">'
                 f'<div class="ab"><b>{E(app["name"])}</b><p>{E(app["catch"])}（無料・広告なし・iPhone）</p>'
                 f'<a class="ast" href="{store_url(app, cfg)}" target="_blank" rel="noopener">App Storeで見る</a></div></aside>\n'
-                f'  <h2 class="sec">関連する記事（{len(items)}本）</h2><div class="grid">{cards}</div>')
+                f'  <h2 class="sec">関連する記事（{len(items)}本）</h2><div class="grid">{cards}</div>' + others_html(cfg, app))
         desc = f'{app["name"]}と一緒に読みたい、{cfg["name"]}の記事をまとめました。{app["hubLead"]}'
         graph = [{"@type": "CollectionPage", "name": f'{app["name"]}を使っている人へ', "url": cfg["url"] + rel, "description": desc,
                   "about": {"@type": "SoftwareApplication", "name": app["name"], "operatingSystem": "iOS", "applicationCategory": "HealthApplication",

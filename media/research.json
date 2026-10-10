@@ -69,6 +69,32 @@
         "phone-presence-attention-brain-drain",
         "self-compassion-recovery-speed"
       ]
+    },
+    {
+      "id": "active-recall",
+      "name": "おもいだしトレーニング",
+      "appStoreId": "6801937769",
+      "icon": "/img/apps/active-recall.webp",
+      "catch": "覚えたい範囲を入れるか教科書を撮ると、AIが一問一答を作る。何も見ずに答えを書いて、忘れかけた頃に復習日が回ってくる",
+      "hubLead": "読み返すより思い出す、復習の間隔をあける。暗記を効率よく進めるための記憶の研究です。",
+      "theme": "思い出す練習(テスト効果)・復習の間隔など、暗記と記憶の研究。習慣化・睡眠の記事には付けない",
+      "articles": [
+        "testing-effect-retrieval-practice",
+        "spacing-effect-review-timing"
+      ]
+    },
+    {
+      "id": "notify-mindfulness",
+      "name": "通知deマインドフルネス",
+      "appStoreId": "6799487711",
+      "icon": "/img/apps/notify-mindfulness.webp",
+      "catch": "1日数回、ランダムな時刻に「今、深呼吸してみましょう」と届く。開かなくても続く深呼吸の習慣に",
+      "hubLead": "深呼吸や短い瞑想で気持ちと集中を整える。数分でできる習慣の研究です。",
+      "theme": "深呼吸・短い瞑想・マインドフルネス。通知を減らす・スマホを遠ざける記事には付けない",
+      "articles": [
+        "slow-breathing-stress-research",
+        "short-meditation-focus-recovery"
+      ]
     }
   ]
 }
