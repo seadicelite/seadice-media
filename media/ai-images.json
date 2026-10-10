@@ -814,5 +814,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bartolomeo_Bettera_-_A_painter%27s_palette_and_brushes_and_others.jpg/500px-Bartolomeo_Bettera_-_A_painter%27s_palette_and_brushes_and_others.jpg",
   "og": "https://ai.seadice.win/img/ai-freelance-orders-dropped-og.jpg",
   "local": true
+ },
+ "fake-reviews-fake-experts-ai": {
+  "file": "File:Convex lens (magnifying glass) and upside-down image.jpg",
+  "src": "/img/fake-reviews-fake-experts-ai.webp",
+  "src640": "/img/fake-reviews-fake-experts-ai-sm.webp",
+  "w": 960,
+  "h": 552,
+  "alt": "手に持ったレンズ越しに逆さに映る家と空",
+  "artist": "AntanO",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Convex_lens_(magnifying_glass)_and_upside-down_image.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Convex_lens_%28magnifying_glass%29_and_upside-down_image.jpg/960px-Convex_lens_%28magnifying_glass%29_and_upside-down_image.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Convex_lens_%28magnifying_glass%29_and_upside-down_image.jpg/500px-Convex_lens_%28magnifying_glass%29_and_upside-down_image.jpg",
+  "og": "https://ai.seadice.win/img/fake-reviews-fake-experts-ai-og.jpg",
+  "local": true
  }
 }

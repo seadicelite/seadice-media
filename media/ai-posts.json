@@ -1,5 +1,14 @@
 [
  {
+  "slug": "fake-reviews-fake-experts-ai",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-10",
+  "title": "AIで作られた偽の口コミや偽の専門家は、どのくらいある？研究では、人はAIが書いた口コミをほぼ見分けられなかった",
+  "summary": "AIが書いた口コミは文面ではほぼ見分けられない。投稿者の履歴、評価の偏り、医師等資格確認検索など外から確かめる"
+ },
+ {
   "slug": "ai-freelance-orders-dropped",
   "category": "仕事・キャリア",
   "type": "guide",
