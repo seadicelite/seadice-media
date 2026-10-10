@@ -865,5 +865,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Photo_of_still_life_sketch_or_drawing.jpg/500px-Photo_of_still_life_sketch_or_drawing.jpg",
   "og": "https://ai.seadice.win/img/drawing-accused-of-ai-what-to-do-og.jpg",
   "local": true
+ },
+ "ai-scam-rebuild-household-finances": {
+  "file": "File:A notebook.jpg",
+  "src": "/img/ai-scam-rebuild-household-finances.webp",
+  "src640": "/img/ai-scam-rebuild-household-finances-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "白いノートと鉛筆",
+  "artist": "Jan Kahánek",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:A_notebook.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/960px-A_notebook.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/500px-A_notebook.jpg",
+  "og": "https://ai.seadice.win/img/ai-scam-rebuild-household-finances-og.jpg",
+  "local": true
  }
 }
