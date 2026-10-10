@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-image-post-own-work-label",
+  "category": "創作・著作権",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-10",
+  "title": "AIで作った画像を「自分の作品」として投稿してもいい？著作物になるかは人の関わり方しだいで、AIの表示は投稿先のルールで決まる",
+  "summary": "文化庁の考え方ではAIは著作者になれず、著作物かは人の関わり方しだい。表示は選挙を除き投稿先のルールで、説明を添えると誤解されにくい傾向。"
+ },
+ {
   "slug": "fake-reviews-fake-experts-ai",
   "category": "偽情報・ディープフェイク",
   "type": "guide",

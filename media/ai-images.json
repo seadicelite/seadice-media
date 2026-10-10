@@ -831,5 +831,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Convex_lens_%28magnifying_glass%29_and_upside-down_image.jpg/500px-Convex_lens_%28magnifying_glass%29_and_upside-down_image.jpg",
   "og": "https://ai.seadice.win/img/fake-reviews-fake-experts-ai-og.jpg",
   "local": true
+ },
+ "ai-image-post-own-work-label": {
+  "file": "File:A notebook with paint brushes.jpg",
+  "src": "/img/ai-image-post-own-work-label.webp",
+  "src640": "/img/ai-image-post-own-work-label-sm.webp",
+  "w": 960,
+  "h": 573,
+  "alt": "木の机に置いた水彩絵の具と筆、白いスケッチブック",
+  "artist": "Tim Arterbury",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:A_notebook_with_paint_brushes.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/A_notebook_with_paint_brushes.jpg/960px-A_notebook_with_paint_brushes.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/A_notebook_with_paint_brushes.jpg/500px-A_notebook_with_paint_brushes.jpg",
+  "og": "https://ai.seadice.win/img/ai-image-post-own-work-label-og.jpg",
+  "local": true
  }
 }
