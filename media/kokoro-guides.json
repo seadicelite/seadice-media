@@ -32,7 +32,8 @@
     "weekend-catch-up-sleep",
     "burnout-recovery",
     "telework-cant-log-off",
-    "worry-time-scheduling"
+    "worry-time-scheduling",
+    "hobby-recover-fatigue"
    ]
   },
   {
@@ -102,7 +103,9 @@
     "interrupted-focus-return",
     "brain-training-focus-recover",
     "procrastination-cant-start",
-    "focus-recover-exercise"
+    "focus-recover-exercise",
+    "hydration-focus",
+    "write-it-out-overload"
    ]
   },
   {
@@ -131,7 +134,8 @@
     "ai-mistake-bounce-back",
     "comparison-no-talent-mindset",
     "ai-edits-writing-confidence",
-    "compare-with-past-self"
+    "compare-with-past-self",
+    "envy-friend-success"
    ]
   },
   {
@@ -160,7 +164,8 @@
     "sleep-social-withdrawal",
     "ai-companion-loss-grief",
     "group-belonging-prevent",
-    "apologize-repair-chat"
+    "apologize-repair-chat",
+    "hours-to-make-friends"
    ]
   },
   {
@@ -189,7 +194,9 @@
     "ai-chat-cant-stop",
     "ai-frustration-anger",
     "ai-companion-loss-grief",
-    "ai-reassurance-loop"
+    "ai-reassurance-loop",
+    "ai-error-trust-recover",
+    "think-first-then-ai"
    ]
   }
  ]
