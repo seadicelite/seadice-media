@@ -1312,5 +1312,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WallCalendar.jpg/500px-WallCalendar.jpg",
   "og": "https://ledger.seadice.win/img/savings-withdrawal-restart-og.jpg",
   "local": true
+ },
+ "revolving-balance-savings-calculator": {
+  "file": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMTA5OTI4LWltYWdlLWt3dnc5cGM1LmpwZw.jpg",
+  "src": "/img/revolving-balance-savings-calculator.webp",
+  "src640": "/img/revolving-balance-savings-calculator-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "レシートと電卓",
+  "artist": "Unknown",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "page": "https://www.rawpixel.com/image/5913662/accountant-free-public-domain-cc0-photo",
+  "source_label": "Rawpixel",
+  "remote": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMTA5OTI4LWltYWdlLWt3dnc5cGM1LmpwZw.jpg",
+  "remote640": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMTA5OTI4LWltYWdlLWt3dnc5cGM1LmpwZw.jpg",
+  "og": "https://ledger.seadice.win/img/revolving-balance-savings-calculator-og.jpg",
+  "local": true
  }
 }

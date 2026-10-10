@@ -96,7 +96,9 @@
         "after": [
           "revolving-debt-recovery-steps"
         ],
-        "use": []
+        "use": [
+          "revolving-balance-savings-calculator"
+        ]
       }
     },
     {

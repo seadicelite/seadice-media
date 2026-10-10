@@ -1,5 +1,13 @@
 [
   {
+    "slug": "revolving-balance-savings-calculator",
+    "category": "家計管理",
+    "type": "guide",
+    "date": "2026-10-10",
+    "title": "リボ払いの残高と貯金、両方ある？手数料と利息を比べる計算表と、手元に残す額の決め方",
+    "summary": "リボ残高と貯金を同時に持つと手数料の差が出る。1年の手数料と利息を並べる表と、手元に残す額を決める表で返済額を出す。"
+  },
+  {
     "slug": "savings-withdrawal-restart",
     "category": "貯金が続かない",
     "type": "guide",
