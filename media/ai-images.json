@@ -610,5 +610,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg/500px-TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg",
   "og": "https://ai.seadice.win/img/sns-photo-voice-ai-training-settings-og.jpg",
   "local": true
+ },
+ "child-made-classmate-deepfake": {
+  "file": "File:Lorain High School hallway.jpg",
+  "src": "/img/child-made-classmate-deepfake.webp",
+  "src640": "/img/child-made-classmate-deepfake-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "誰もいない学校の廊下",
+  "artist": "Matt Dempsey",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lorain_High_School_hallway.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lorain_High_School_hallway.jpg/960px-Lorain_High_School_hallway.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lorain_High_School_hallway.jpg/500px-Lorain_High_School_hallway.jpg",
+  "og": "https://ai.seadice.win/img/child-made-classmate-deepfake-og.jpg",
+  "local": true
  }
 }
