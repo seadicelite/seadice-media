@@ -1734,5 +1734,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2000_Notebook%2C_Pages_4-5.jpg/500px-2000_Notebook%2C_Pages_4-5.jpg",
   "og": "https://mentalai.seadice.win/img/ai-error-trust-recover.jpg",
   "local": true
+ },
+ "ai-job-anxiety-resilience": {
+  "file": "File:STRAWBERRY SPROUTING green sprout vivipary achenes oblong fruit close-up Jordbær grønt skudd (bought in Norway December 2020) IMG 2502.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2502.jpg/960px-STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2502.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2502.jpg/500px-STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2502.jpg",
+  "w": 960,
+  "h": 759,
+  "alt": "小さな緑の芽が伸びたいちごの実",
+  "artist": "Wolfmann",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_(bought_in_Norway_December_2020)_IMG_2502.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
