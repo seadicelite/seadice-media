@@ -763,5 +763,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sonnenuntergang_hinter_Kaufland_-_Flickr_-_Casey_Hugelfink.jpg/500px-Sonnenuntergang_hinter_Kaufland_-_Flickr_-_Casey_Hugelfink.jpg",
   "og": "https://ai.seadice.win/img/ai-hiring-screening-interview-og.jpg",
   "local": true
+ },
+ "ai-new-role-after-automation": {
+  "file": "File:Dülmen, Alte Brennerei Löhning -- 2015 -- 8597-601.jpg",
+  "src": "/img/ai-new-role-after-automation.webp",
+  "src640": "/img/ai-new-role-after-automation-sm.webp",
+  "w": 960,
+  "h": 641,
+  "alt": "窓のある部屋に置かれた木の机と椅子",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Alte_Brennerei_L%C3%B6hning_--_2015_--_8597-601.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8597-601.jpg/960px-D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8597-601.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8597-601.jpg/500px-D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8597-601.jpg",
+  "og": "https://ai.seadice.win/img/ai-new-role-after-automation-og.jpg",
+  "local": true
  }
 }
