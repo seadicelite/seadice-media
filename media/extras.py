@@ -455,6 +455,32 @@ def corrections(cfg, posts, theme, favicon, css):
                   [("訂正の記録", cfg["url"] + rel)], CORR_CSS)]
 
 
+def tool_links(cfg):
+    """media/{slug}-toollinks.json: {記事slug: [[ツールのパス, ツール名, 何ができるか], ...]} を、記事の関連記事の直前に「ツールで確かめる」として出す。
+    ビルドのたびに入れ直す（<!--tools-->〜<!--/tools--> を消してから足す）。"""
+    m = _load(cfg["slug"], "toollinks")
+    if not m:
+        return 0
+    import re
+    n = 0
+    for slug, tools in m.items():
+        f = ROOT / cfg["path"] / slug / "index.html"
+        if not f.exists():
+            continue
+        t = re.sub(r"<!--tools-->.*?<!--/tools-->\n?", "", f.read_text(), flags=re.S)
+        k = t.find("<!--related-->")
+        if k < 0:
+            continue
+        items = "".join(f'<a href="{p}" style="display:block;padding:12px 0;border-top:1px solid var(--border);color:var(--text);text-decoration:none">'
+                        f'<b style="color:var(--link)">{E(name)} <span aria-hidden="true">›</span></b><br><span style="font-size:13px;color:var(--muted)">{E(what)}</span></a>'
+                        for p, name, what in tools)
+        blk = (f'<!--tools--><section style="margin:32px 0;padding:16px 20px 6px;border:1px solid var(--accent);border-radius:14px;background:var(--card)">'
+               f'<h2 style="font-size:16px;margin:0 0 6px">ツールで確かめる</h2><p style="font-size:13px;color:var(--muted);margin:0 0 6px">無料・登録不要。入力した内容は送信しません。</p>{items}</section><!--/tools-->\n')
+        f.write_text(t[:k] + blk + t[k:])
+        n += 1
+    return n
+
+
 def apply(cfg, posts, cats, images, types, theme, favicon, css, card):
     urls = guides(cfg, posts, cats, images, types, theme, favicon, css, card)
     urls += corrections(cfg, posts, theme, favicon, css)
@@ -467,6 +493,7 @@ def apply(cfg, posts, cats, images, types, theme, favicon, css, card):
     n = badges(cfg)
     term_links(cfg, posts)
     crosslinks(cfg)
+    tool_links(cfg)
     top_links(cfg)
     if urls:
         sm = ROOT / cfg["path"] / "sitemap.xml"

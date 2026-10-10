@@ -6,6 +6,7 @@
 入力はブラウザの中だけで扱い、送信しない。保存するのはセルフ点検のチェック状態だけ（localStorage）。
 - 詐欺かもチェック: SIGNS に項目を足す（記事が増えたら、その記事の結論から1〜2文で）
 - セルフ点検: TENKEN に項目を足す（記事の「今日からできること」から）
+- 記事 → ツールのリンク（media/bohan-toollinks.json）は SIGNS / TENKEN の記事slugから自動で作る
 ページの型は docs/quality/tool.md。
 """
 import html
@@ -285,6 +286,22 @@ PAGES = [
      "body": ak_body, "css": CSS + T_CSS + ak_css},
 ]
 
+# 記事 → ツール（extras.tool_links が記事の関連記事の直前に出す）。各ツールが根拠に使っている記事に付ける
+LINKS = {}
+for path, items, idx in (("/sagi-check/", SIGNS, 3), ("/ai-tenken/", TENKEN, 4)):
+    name, what = {p: (n, d) for p, n, d in TOOLS}[path.strip("/")]
+    for it in items:
+        LINKS.setdefault(it[idx], [])
+        if not any(x[0] == path for x in LINKS[it[idx]]):
+            LINKS[it[idx]].append([path, name, what])
+for s in ("ai-voice-clone-family-scam", "sns-video-voice-clone-risk"):
+    LINKS.setdefault(s, []).insert(0, ["/aikotoba/", TOOLS[2][1], TOOLS[2][2]])
+LINKS.setdefault("ai-era-scam-checklist", [])
+for p, n, d in TOOLS:
+    if not any(x[0] == "/" + p + "/" for x in LINKS["ai-era-scam-checklist"]):
+        LINKS["ai-era-scam-checklist"].append(["/" + p + "/", n, d])
+
 if __name__ == "__main__":
     (ROOT / "media/bohan-pages.json").write_text(json.dumps(PAGES, ensure_ascii=False, indent=2) + "\n")
+    (ROOT / "media/bohan-toollinks.json").write_text(json.dumps(LINKS, ensure_ascii=False, indent=1) + "\n")
     print(len(PAGES), "pages")
