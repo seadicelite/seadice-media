@@ -1436,5 +1436,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hiking_trail_on_N%C3%A1mafjall_Mountain%2C_Iceland%2C_20240716_1130_1346.jpg/500px-Hiking_trail_on_N%C3%A1mafjall_Mountain%2C_Iceland%2C_20240716_1130_1346.jpg",
   "og": "https://ledger.seadice.win/img/oversaving-regret-missed-fun-recovery.jpg",
   "local": true
+ },
+ "gambling-spending-limit-calculator": {
+  "file": "File:Filling lottery ticket 20180215.jpg",
+  "src": "/img/gambling-spending-limit-calculator.jpg",
+  "src640": "/img/gambling-spending-limit-calculator-sm.jpg",
+  "w": 960,
+  "h": 721,
+  "alt": "ペンで数字に印をつけている宝くじの券",
+  "artist": "Santeri Viinamäki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Filling_lottery_ticket_20180215.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Filling_lottery_ticket_20180215.jpg/960px-Filling_lottery_ticket_20180215.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Filling_lottery_ticket_20180215.jpg/500px-Filling_lottery_ticket_20180215.jpg",
+  "og": "https://ledger.seadice.win/img/gambling-spending-limit-calculator.jpg",
+  "local": true
  }
 }

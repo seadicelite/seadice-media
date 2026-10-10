@@ -163,7 +163,9 @@
           "gambling-gacha-limit-setting-tips"
         ],
         "after": [],
-        "use": []
+        "use": [
+          "gambling-spending-limit-calculator"
+        ]
       }
     },
     {
