@@ -275,6 +275,10 @@
   {
    "label": "悩み別ガイド",
    "path": "/guide/"
+  },
+  {
+   "label": "訂正の記録",
+   "path": "/corrections/"
   }
  ]
 }

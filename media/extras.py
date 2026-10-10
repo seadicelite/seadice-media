@@ -6,6 +6,8 @@
 - media/{slug}-map.json      : 記事マップ(マインドマップ) → /map/ (media/mindmap.py)
 - media/{slug}-audited.json  : 点検済み記事 → 記事の「わかっている度」の横に「出典照合済み」を表示
                                要素は "slug" または {"slug": ..., "date": "YYYY-MM-DD"}
+- media/{slug}-corrections.json : 出典照合で直した箇所 → /corrections/（訂正の記録）
+                               要素は {"date", "slug", "before", "after", "why"}。点検役が修正のたびに追記する
 """
 import html
 import json
@@ -406,8 +408,56 @@ def matrix_guides(cfg, posts, cats, images, types, theme, favicon, css, card):
     return urls
 
 
+CORR_CSS = (".cstats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:20px 0 32px}"
+            ".cstats div{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 12px;text-align:center}"
+            ".cstats b{display:block;font-size:24px;color:var(--accent);line-height:1.2}.cstats span{font-size:12px;color:var(--muted)}"
+            ".cday{margin:36px 0 0}.cday>h2{font-size:15px;color:var(--muted);letter-spacing:.06em;margin:0 0 10px}"
+            ".citem{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:16px 18px;margin:12px 0}"
+            ".citem .ct{font-size:15px;font-weight:700;line-height:1.6;margin-bottom:10px}.citem .ct a{color:var(--text)}"
+            ".citem dl{display:grid;grid-template-columns:auto 1fr;gap:6px 12px;font-size:14px;line-height:1.7;margin:0}"
+            ".citem dt{color:var(--muted);white-space:nowrap}.citem dd{margin:0;color:var(--text)}"
+            ".citem dd.b{text-decoration:line-through;text-decoration-color:var(--muted);opacity:.75}")
+
+
+def corrections(cfg, posts, theme, favicon, css):
+    """出典照合で直した箇所を日付つきで公開する /corrections/。AIが書くメディアが「確かめて直している」ことを見せる。"""
+    cs = _load(cfg["slug"], "corrections")
+    if cs is None:
+        return []
+    audited = _load(cfg["slug"], "audited") or []
+    titles = {p["slug"]: p["title"] for p in posts}
+    cs = sorted((c for c in cs if c.get("slug") in titles), key=lambda c: c["date"], reverse=True)
+    days = {}
+    for c in cs:
+        days.setdefault(c["date"], []).append(c)
+    rows = ""
+    for d, items in days.items():
+        rows += f'<section class="cday"><h2>{E(d)}</h2>'
+        for c in items:
+            rows += (f'<div class="citem"><p class="ct"><a href="/{E(c["slug"])}/">{E(titles[c["slug"]])}</a></p><dl>'
+                     f'<dt>直す前</dt><dd class="b">{E(c["before"])}</dd><dt>直した後</dt><dd>{E(c["after"])}</dd>'
+                     f'<dt>理由</dt><dd>{E(c["why"])}</dd></dl></div>')
+        rows += "</section>"
+    n_art = len({c["slug"] for c in cs})
+    lead = (f'{cfg["name"]}の記事は、公開したあとに別の点検役が出典を1件ずつ開き直し、数字・対象・言い回しが出典と合っているかを確かめています。'
+            "このページは、その点検で直した箇所の記録です。直す前と直した後をそのまま残しています。")
+    body = (f'  <div class="hero"><h1>訂正の記録</h1></div>\n  <div class="xbody"><p>{E(lead)}</p>'
+            f'<div class="cstats"><div><b>{len(audited)}</b><span>照合済みの記事</span></div>'
+            f'<div><b>{len(cs)}</b><span>直した箇所</span></div><div><b>{n_art}</b><span>直した記事</span></div></div>'
+            f'<p>点検の基準は<a href="/about/">記事の作り方</a>、使っている出典は<a href="/sources/">出典一覧</a>にあります。</p>'
+            f'{rows or "<p>まだ訂正はありません。</p>"}</div>')
+    rel = "corrections/"
+    desc = f'{cfg["name"]}が出典照合で直した箇所の記録。直す前・直した後・理由を日付つきで公開しています（{len(cs)}件）。'
+    graph = [{"@type": "WebPage", "name": "訂正の記録", "url": cfg["url"] + rel, "description": desc,
+              "dateModified": cs[0]["date"] if cs else None,
+              "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}}]
+    return [_page(cfg, theme, favicon, css, rel, f'訂正の記録 | {cfg["name"]}', desc, body, graph,
+                  [("訂正の記録", cfg["url"] + rel)], CORR_CSS)]
+
+
 def apply(cfg, posts, cats, images, types, theme, favicon, css, card):
     urls = guides(cfg, posts, cats, images, types, theme, favicon, css, card)
+    urls += corrections(cfg, posts, theme, favicon, css)
     urls += matrix_guides(cfg, posts, cats, images, types, theme, favicon, css, card)
     urls += glossary(cfg, posts, theme, favicon, css)
     urls += pages(cfg, theme, favicon, css)
