@@ -955,5 +955,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2023_Kamkorder_Samsung_VP-M50.jpg/500px-2023_Kamkorder_Samsung_VP-M50.jpg",
   "og": "https://hanzai.seadice.win/img/interrogation-video-recording.jpg",
   "local": true
+ },
+ "just-world-victim-blaming": {
+  "file": "File:Modern collapsible balance scale for jewellers 3.jpg",
+  "src": "/img/just-world-victim-blaming.jpg",
+  "src640": "/img/just-world-victim-blaming-sm.jpg",
+  "w": 960,
+  "h": 770,
+  "alt": "天びん",
+  "artist": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Modern_collapsible_balance_scale_for_jewellers_3.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Modern_collapsible_balance_scale_for_jewellers_3.jpg/960px-Modern_collapsible_balance_scale_for_jewellers_3.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Modern_collapsible_balance_scale_for_jewellers_3.jpg/500px-Modern_collapsible_balance_scale_for_jewellers_3.jpg",
+  "og": "https://hanzai.seadice.win/img/just-world-victim-blaming.jpg",
+  "local": true
  }
 }
