@@ -695,5 +695,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/President%27s_Office_--_Main_-_DPLA_-_d53532411588d4afc1bf28202cdaba56.jpg/500px-President%27s_Office_--_Main_-_DPLA_-_d53532411588d4afc1bf28202cdaba56.jpg",
   "og": "https://ai.seadice.win/img/data-breach-months-later-checks-og.jpg",
   "local": true
+ },
+ "fake-news-distrust-everything": {
+  "file": "File:Interior view of newspaper delivery room showing man taking stack of newspapers from machine) - World-Telegram photo LCCN95506971.jpg",
+  "src": "/img/fake-news-distrust-everything.webp",
+  "src640": "/img/fake-news-distrust-everything-sm.webp",
+  "w": 960,
+  "h": 765,
+  "alt": "新聞の発送室で刷り上がった新聞の束（古い白黒写真）",
+  "artist": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Interior_view_of_newspaper_delivery_room_showing_man_taking_stack_of_newspapers_from_machine)_-_World-Telegram_photo_LCCN95506971.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Interior_view_of_newspaper_delivery_room_showing_man_taking_stack_of_newspapers_from_machine%29_-_World-Telegram_photo_LCCN95506971.jpg/960px-Interior_view_of_newspaper_delivery_room_showing_man_taking_stack_of_newspapers_from_machine%29_-_World-Telegram_photo_LCCN95506971.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Interior_view_of_newspaper_delivery_room_showing_man_taking_stack_of_newspapers_from_machine%29_-_World-Telegram_photo_LCCN95506971.jpg/500px-Interior_view_of_newspaper_delivery_room_showing_man_taking_stack_of_newspapers_from_machine%29_-_World-Telegram_photo_LCCN95506971.jpg",
+  "og": "https://ai.seadice.win/img/fake-news-distrust-everything-og.jpg",
+  "local": true
  }
 }

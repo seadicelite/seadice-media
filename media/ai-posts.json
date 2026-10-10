@@ -1,5 +1,14 @@
 [
  {
+  "slug": "fake-news-distrust-everything",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-10",
+  "title": "偽情報やディープフェイクが気になって、何も信じられなくなった。研究では、人は「だまされる」より「疑いすぎる」間違いが多めだった",
+  "summary": "偽情報への警告は本当の情報への信頼も下げたが、影響は短期間で薄れた。疑いすぎを防ぎ、信頼する情報源を決め直す方法を整理。"
+ },
+ {
   "slug": "data-breach-months-later-checks",
   "category": "プライバシー・個人情報",
   "type": "guide",
