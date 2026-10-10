@@ -661,5 +661,22 @@
   "remote640": "https://live.staticflickr.com/65535/54424224193_811a5930c7_b.jpg",
   "og": "https://ai.seadice.win/img/workplace-no-ai-rules-guideline-og.jpg",
   "local": true
+ },
+ "deepfake-search-results-recovery": {
+  "file": "File:DFC 2281 Two small potted cacti with rounded clustered forms sit side by side on a windowsill a calm seaside view blurred in the background.jpg",
+  "src": "/img/deepfake-search-results-recovery.webp",
+  "src640": "/img/deepfake-search-results-recovery-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "窓辺に置かれた鉢植え",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DFC_2281_Two_small_potted_cacti_with_rounded_clustered_forms_sit_side_by_side_on_a_windowsill_a_calm_seaside_view_blurred_in_the_background.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/DFC_2281_Two_small_potted_cacti_with_rounded_clustered_forms_sit_side_by_side_on_a_windowsill_a_calm_seaside_view_blurred_in_the_background.jpg/960px-DFC_2281_Two_small_potted_cacti_with_rounded_clustered_forms_sit_side_by_side_on_a_windowsill_a_calm_seaside_view_blurred_in_the_background.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/DFC_2281_Two_small_potted_cacti_with_rounded_clustered_forms_sit_side_by_side_on_a_windowsill_a_calm_seaside_view_blurred_in_the_background.jpg/500px-DFC_2281_Two_small_potted_cacti_with_rounded_clustered_forms_sit_side_by_side_on_a_windowsill_a_calm_seaside_view_blurred_in_the_background.jpg",
+  "og": "https://ai.seadice.win/img/deepfake-search-results-recovery-og.jpg",
+  "local": true
  }
 }

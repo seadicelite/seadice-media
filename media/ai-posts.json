@@ -1,5 +1,14 @@
 [
  {
+  "slug": "deepfake-search-results-recovery",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-10",
+  "title": "ディープフェイクの被害のあと、検索するとまだ出てくる。評判を取り戻すには、検索結果の削除依頼と見守りを一人で抱えずに続ける",
+  "summary": "検索結果はサイトとは別に削除を申し出る。再投稿は通知と決まった日の確認で見守り、画像を探す役は窓口や信頼できる人と分ける。"
+ },
+ {
   "slug": "workplace-no-ai-rules-guideline",
   "category": "仕事・キャリア",
   "type": "guide",
