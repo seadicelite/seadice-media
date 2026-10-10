@@ -72,7 +72,9 @@
         "fix": [
           "sale-overbuying-opportunity-cost"
         ],
-        "after": [],
+        "after": [
+          "sale-overbuying-recovery"
+        ],
         "use": [
           "sale-purchase-checklist-calculator"
         ]

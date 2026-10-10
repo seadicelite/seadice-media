@@ -1329,5 +1329,22 @@
   "remote640": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMTA5OTI4LWltYWdlLWt3dnc5cGM1LmpwZw.jpg",
   "og": "https://ledger.seadice.win/img/revolving-balance-savings-calculator-og.jpg",
   "local": true
+ },
+ "sale-overbuying-recovery": {
+  "file": "File:Interior of Ruoholahti shopping centre empty of people on an evening in September 2022.jpg",
+  "src": "/img/sale-overbuying-recovery.webp",
+  "src640": "/img/sale-overbuying-recovery-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "夜のショッピングセンターの広場",
+  "artist": "JIP",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Interior_of_Ruoholahti_shopping_centre_empty_of_people_on_an_evening_in_September_2022.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Interior_of_Ruoholahti_shopping_centre_empty_of_people_on_an_evening_in_September_2022.jpg/960px-Interior_of_Ruoholahti_shopping_centre_empty_of_people_on_an_evening_in_September_2022.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Interior_of_Ruoholahti_shopping_centre_empty_of_people_on_an_evening_in_September_2022.jpg/500px-Interior_of_Ruoholahti_shopping_centre_empty_of_people_on_an_evening_in_September_2022.jpg",
+  "og": "https://ledger.seadice.win/img/sale-overbuying-recovery-og.jpg",
+  "local": true
  }
 }
