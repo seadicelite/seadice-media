@@ -1788,5 +1788,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tree-lined_path_in_Allatoona_Creek_Park%2C_Acworth_GA.jpg/500px-Tree-lined_path_in_Allatoona_Creek_Park%2C_Acworth_GA.jpg",
   "og": "https://mentalai.seadice.win/img/nature-attention-restore.jpg",
   "local": true
+ },
+ "small-talk-follow-up-questions": {
+  "file": "File:Cup of coffee on café table.jpg",
+  "src": "/img/small-talk-follow-up-questions.jpg",
+  "src640": "/img/small-talk-follow-up-questions-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "カフェのテーブルに置かれたコーヒーカップ",
+  "artist": "Ssu",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cup_of_coffee_on_caf%C3%A9_table.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cup_of_coffee_on_caf%C3%A9_table.jpg/960px-Cup_of_coffee_on_caf%C3%A9_table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cup_of_coffee_on_caf%C3%A9_table.jpg/500px-Cup_of_coffee_on_caf%C3%A9_table.jpg",
+  "og": "https://mentalai.seadice.win/img/small-talk-follow-up-questions.jpg",
+  "local": true
  }
 }
