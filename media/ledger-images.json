@@ -1133,5 +1133,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2021-06-28_E-ink_price_tag_in_Sydney_supermarket.jpg/500px-2021-06-28_E-ink_price_tag_in_Sydney_supermarket.jpg",
   "og": "https://ledger.seadice.win/img/sale-overbuying-opportunity-cost.jpg",
   "local": true
+ },
+ "cashless-overspending-self-check": {
+  "file": "File:MBTA Contactless Fare Reader on Type 7 Green Line train.jpg",
+  "src": "/img/cashless-overspending-self-check.jpg",
+  "src640": "/img/cashless-overspending-self-check-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "電車内のタッチ決済の読み取り機",
+  "artist": "4300streetcar",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:MBTA_Contactless_Fare_Reader_on_Type_7_Green_Line_train.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/MBTA_Contactless_Fare_Reader_on_Type_7_Green_Line_train.jpg/960px-MBTA_Contactless_Fare_Reader_on_Type_7_Green_Line_train.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/MBTA_Contactless_Fare_Reader_on_Type_7_Green_Line_train.jpg/500px-MBTA_Contactless_Fare_Reader_on_Type_7_Green_Line_train.jpg",
+  "og": "https://ledger.seadice.win/img/cashless-overspending-self-check.jpg",
+  "local": true,
+  "unconverted": true
  }
 }

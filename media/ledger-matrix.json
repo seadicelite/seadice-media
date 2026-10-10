@@ -87,7 +87,9 @@
           "revolving-payment-anchoring-bias",
           "small-change-invisible-spending"
         ],
-        "notice": [],
+        "notice": [
+          "cashless-overspending-self-check"
+        ],
         "fix": [],
         "after": [
           "revolving-debt-recovery-steps"
