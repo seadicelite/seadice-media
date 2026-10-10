@@ -1295,5 +1295,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Exotic_Fruit_Plate%2C_Thorn_Tree_Cafe%2C_2025_%2801%29.jpg/500px-Exotic_Fruit_Plate%2C_Thorn_Tree_Cafe%2C_2025_%2801%29.jpg",
   "og": "https://ledger.seadice.win/img/self-reward-stress-shopping-self-check.jpg",
   "local": true
+ },
+ "savings-withdrawal-restart": {
+  "file": "File:WallCalendar.jpg",
+  "src": "/img/savings-withdrawal-restart.webp",
+  "src640": "/img/savings-withdrawal-restart-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "壁に掛けた月ごとのカレンダー",
+  "artist": "Claudio Elias",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:WallCalendar.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WallCalendar.jpg/960px-WallCalendar.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WallCalendar.jpg/500px-WallCalendar.jpg",
+  "og": "https://ledger.seadice.win/img/savings-withdrawal-restart-og.jpg",
+  "local": true
  }
 }

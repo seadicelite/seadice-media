@@ -194,7 +194,9 @@
           "envelope-partition-saving",
           "savings-goal-visualization-progress-bar-research"
         ],
-        "after": [],
+        "after": [
+          "savings-withdrawal-restart"
+        ],
         "use": []
       }
     },
