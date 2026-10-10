@@ -1364,5 +1364,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Poker_Chips_with_houses.jpg/500px-Poker_Chips_with_houses.jpg",
   "og": "https://ledger.seadice.win/img/gambling-gacha-limit-setting-tips.jpg",
   "local": true
+ },
+ "spending-happiness-reflection-check": {
+  "file": "File:Desk with notebook pens and glasses.jpg",
+  "src": "/img/spending-happiness-reflection-check.jpg",
+  "src640": "/img/spending-happiness-reflection-check-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上に開いたノートとペン",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk_with_notebook_pens_and_glasses.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Desk_with_notebook_pens_and_glasses.jpg/960px-Desk_with_notebook_pens_and_glasses.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Desk_with_notebook_pens_and_glasses.jpg/500px-Desk_with_notebook_pens_and_glasses.jpg",
+  "og": "https://ledger.seadice.win/img/spending-happiness-reflection-check.jpg",
+  "local": true
  }
 }

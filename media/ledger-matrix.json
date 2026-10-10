@@ -322,7 +322,9 @@
           "materialism-wellbeing-research",
           "donation-identifiable-victim"
         ],
-        "notice": [],
+        "notice": [
+          "spending-happiness-reflection-check"
+        ],
         "fix": [
           "time-over-money-happiness",
           "minimalism-wellbeing-research",
