@@ -134,6 +134,7 @@
 - このメディアについて: https://ledger.seadice.win/about/
 - 出典と検証の方法: https://ledger.seadice.win/sources/
 - 免責事項: https://ledger.seadice.win/disclaimer/
+- 待つリスト: https://ledger.seadice.win/wait-list/
 - 悩み別ガイド: https://ledger.seadice.win/guide/
 - 用語集: https://ledger.seadice.win/glossary/
 - ダイジェスト: https://ledger.seadice.win/digest/

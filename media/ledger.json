@@ -88,6 +88,10 @@
   "layout": "magazine",
   "extraNav": [
     {
+      "label": "待つリスト",
+      "path": "/wait-list/"
+    },
+    {
       "label": "悩み別ガイド",
       "path": "/guide/"
     },
