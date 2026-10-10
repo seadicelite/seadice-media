@@ -1151,5 +1151,23 @@
   "og": "https://ledger.seadice.win/img/cashless-overspending-self-check.jpg",
   "local": true,
   "unconverted": true
+ },
+ "status-overspending-recovery": {
+  "file": "File:Restaurant 't Stadhuys receipt, Winschoten (2020) 01.jpg",
+  "src": "/img/status-overspending-recovery.jpg",
+  "src640": "/img/status-overspending-recovery-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "レストランのレシート",
+  "artist": "Donald Trung Quoc Don",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Restaurant_%27t_Stadhuys_receipt,_Winschoten_(2020)_01.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Restaurant_%27t_Stadhuys_receipt%2C_Winschoten_%282020%29_01.jpg/960px-Restaurant_%27t_Stadhuys_receipt%2C_Winschoten_%282020%29_01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Restaurant_%27t_Stadhuys_receipt%2C_Winschoten_%282020%29_01.jpg/500px-Restaurant_%27t_Stadhuys_receipt%2C_Winschoten_%282020%29_01.jpg",
+  "og": "https://ledger.seadice.win/img/status-overspending-recovery.jpg",
+  "local": true
  }
 }

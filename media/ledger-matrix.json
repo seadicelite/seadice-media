@@ -131,7 +131,9 @@
         "fix": [
           "status-spending-gratitude-self-compassion"
         ],
-        "after": [],
+        "after": [
+          "status-overspending-recovery"
+        ],
         "use": []
       }
     },
