@@ -1868,5 +1868,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg/500px-Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
   "og": "https://mentalai.seadice.win/img/comparison-values-affirmation-og.jpg",
   "local": true
+ },
+ "ai-habit-change-how-long": {
+  "file": "File:Journaling over coffee (Unsplash).jpg",
+  "src": "/img/ai-habit-change-how-long.jpg",
+  "src640": "/img/ai-habit-change-how-long-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "コーヒーとパソコンの横で、ノートに書きこむ手元",
+  "artist": "Thought Catalog thoughtcatalog",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Journaling_over_coffee_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Journaling_over_coffee_%28Unsplash%29.jpg/960px-Journaling_over_coffee_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Journaling_over_coffee_%28Unsplash%29.jpg/500px-Journaling_over_coffee_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-habit-change-how-long.jpg",
+  "local": true
  }
 }
