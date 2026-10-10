@@ -64,7 +64,7 @@
 
 - [運動すると記憶や勉強の成果は良くなるのか。運動と学習の研究](https://dokugaku.seadice.win/exercise-and-memory-learning/): 1回の運動は記憶を少し助け、覚えた後の運動が効く。運動しながら覚えるのは逆効果、習慣の効果は小さい
 - [音楽を聴きながらの勉強は集中を妨げるのか。歌詞あり・なしで変わるBGMの研究](https://dokugaku.seadice.win/music-while-studying-lyrics/): 読む勉強では音楽で理解度が少し下がり、歌詞つきの曲が最も不利。歌詞なし・小さめの音なら差は小さい
-- [ポモドーロ・テクニック（25分勉強＋休憩）は効くのか。休憩と集中の研究](https://dokugaku.seadice.win/pomodoro-technique-breaks/): 時間を決めて休むと疲れや気の散りは減りやすいが、成績向上や「25分」が最適という証拠はない
+- [ポモドーロ・テクニック（25分勉強＋休憩）は効くのか。休憩と集中の研究](https://dokugaku.seadice.win/pomodoro-technique-breaks/): 時間を決めて休むと疲れや気の散りが減った実験はあるが逆の結果もあり、成績向上や「25分」が最適という証拠はない
 - [勉強する場所を変えると覚えやすいのか。場所と記憶（文脈依存記憶）の研究](https://dokugaku.seadice.win/study-location-context-dependent-memory/): 覚えた場所で思い出しやすい効果は実在するが小さめ。場所を思い浮かべるだけで差は縮む
 
 ### 時間・計画
