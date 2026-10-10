@@ -1,5 +1,14 @@
 [
   {
+    "slug": "ai-error-trust-recover",
+    "category": "AIとの付き合い方",
+    "type": "guide",
+    "stage": "立て直す",
+    "date": "2026-10-10",
+    "title": "AIの間違いで痛い目にあって、もうAIを使うのが怖い。294人の実験では、助言が1回間違うと信頼は大きく下がったが、その後のやりとりで戻っていた",
+    "summary": "AIの間違いのあと信頼がどう下がり、どう戻るかを調べた実験から、怖さを抱えたまま使い方を決め直す工夫を整理しました。"
+  },
+  {
     "slug": "hobby-recover-fatigue",
     "category": "AI疲れ・情報疲れ",
     "type": "guide",
