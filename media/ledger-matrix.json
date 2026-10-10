@@ -93,7 +93,9 @@
           "retail-therapy-mood-shopping"
         ],
         "notice": [],
-        "fix": [],
+        "fix": [
+          "stress-shopping-swap-if-then"
+        ],
         "after": [],
         "use": []
       }

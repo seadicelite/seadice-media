@@ -1026,5 +1026,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Parcel_package_boxes_in_Ozolnieki.jpg/500px-Parcel_package_boxes_in_Ozolnieki.jpg",
   "og": "https://ledger.seadice.win/img/impulse-buying-self-check-og.jpg",
   "local": true
+ },
+ "stress-shopping-swap-if-then": {
+  "file": "File:Walking path to Tortuga Bay in the Galapagos photo by Alvaro Sevilla Design.JPG",
+  "src": "/img/stress-shopping-swap-if-then.webp",
+  "src640": "/img/stress-shopping-swap-if-then-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "緑の中にのびる遊歩道",
+  "artist": "David Adam Kess",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Walking_path_to_Tortuga_Bay_in_the_Galapagos_photo_by_Alvaro_Sevilla_Design.JPG",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Walking_path_to_Tortuga_Bay_in_the_Galapagos_photo_by_Alvaro_Sevilla_Design.JPG/960px-Walking_path_to_Tortuga_Bay_in_the_Galapagos_photo_by_Alvaro_Sevilla_Design.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Walking_path_to_Tortuga_Bay_in_the_Galapagos_photo_by_Alvaro_Sevilla_Design.JPG/500px-Walking_path_to_Tortuga_Bay_in_the_Galapagos_photo_by_Alvaro_Sevilla_Design.JPG",
+  "og": "https://ledger.seadice.win/img/stress-shopping-swap-if-then-og.jpg",
+  "local": true
  }
 }
