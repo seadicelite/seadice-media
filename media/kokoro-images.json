@@ -1834,5 +1834,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/A_bowl_of_rice.jpg/500px-A_bowl_of_rice.jpg",
   "og": "https://mentalai.seadice.win/img/eating-alone-prevent-og.jpg",
   "local": true
+ },
+ "ai-job-worry-planning-habit": {
+  "file": "File:Legal pad and pencil.jpg",
+  "src": "/img/ai-job-worry-planning-habit.webp",
+  "src640": "/img/ai-job-worry-planning-habit-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "黄色いメモ帳と鉛筆",
+  "artist": "Jonas Petersson (UU)",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Legal_pad_and_pencil.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Legal_pad_and_pencil.jpg/960px-Legal_pad_and_pencil.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Legal_pad_and_pencil.jpg/500px-Legal_pad_and_pencil.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-job-worry-planning-habit-og.jpg",
+  "local": true
  }
 }
