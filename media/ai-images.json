@@ -627,5 +627,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lorain_High_School_hallway.jpg/500px-Lorain_High_School_hallway.jpg",
   "og": "https://ai.seadice.win/img/child-made-classmate-deepfake-og.jpg",
   "local": true
+ },
+ "celebrity-ai-ad-investment-refund": {
+  "file": "File:Yen 2.jpg",
+  "src": "/img/celebrity-ai-ad-investment-refund.webp",
+  "src640": "/img/celebrity-ai-ad-investment-refund-sm.webp",
+  "w": 960,
+  "h": 540,
+  "alt": "赤い布の上に並んだ硬貨",
+  "artist": "Astelus",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Yen_2.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yen_2.jpg/960px-Yen_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yen_2.jpg/500px-Yen_2.jpg",
+  "og": "https://ai.seadice.win/img/celebrity-ai-ad-investment-refund-og.jpg",
+  "local": true
  }
 }
