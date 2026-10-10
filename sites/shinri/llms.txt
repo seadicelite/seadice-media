@@ -3,7 +3,7 @@
 > ゼロから学ぶ心理学は、心理学を無料で独学できるサイトです。大学の心理学概論と同じ流れの全16章の無料講座「ゼロから学ぶ心理学入門」、心理学用語辞典、おすすめの無料学習サイトと学ぶ順番を掲載。登録不要。
 
 ゼロから学ぶ心理学はSEADICE(https://seadice.win/)が運営する、心理学を無料で独学できるサイトです。登録不要・無料。
-大学1年生の「心理学概論」と同じ流れの無料講座「ゼロから学ぶ心理学入門」（全16章）と、心理学用語辞典（207語）を掲載しています。
+大学1年生の「心理学概論」と同じ流れの無料講座「ゼロから学ぶ心理学入門」（全16章）と、心理学用語辞典（208語）を掲載しています。
 本文は心理学の原典や大学・学会・公的機関の資料をもとに日本語で独自に書いており、各ページに出典があります。
 
 ## 主要ページ
@@ -37,6 +37,7 @@
   - 3-3 脳の部位とそれぞれのはたらき。記憶と感情を例に: https://shinri.seadice.win/course/brain-regions-and-roles/
   - 3-4 脳の働きをどうやって調べるのか。損傷と分離脳の研究から: https://shinri.seadice.win/course/how-to-study-the-brain/
   - 3-5 脳は経験で変わるのか。神経可塑性とは何か: https://shinri.seadice.win/course/brain-plasticity/
+  - 3-6 ホルモンは心と行動にどう関わっているのか: https://shinri.seadice.win/course/endocrine-system-hormones/
 - 第4章 意識と睡眠: 意識とは何か。睡眠と夢の研究。
   - 4-1 意識とは何か。気づいていない情報は意識にのらないのか: https://shinri.seadice.win/course/what-is-consciousness/
   - 4-2 睡眠にはどんな段階があるのか。レム睡眠とノンレム睡眠とは: https://shinri.seadice.win/course/stages-of-sleep/
