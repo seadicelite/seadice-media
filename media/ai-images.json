@@ -474,5 +474,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Crumpled_olive_green_paper.jpg/500px-Crumpled_olive_green_paper.jpg",
   "og": "https://ai.seadice.win/img/shared-ai-fake-correction-og.jpg",
   "local": true
+ },
+ "ai-mistake-afraid-to-use-ai": {
+  "file": "File:Person writing in a notebook while sitting at a desk.jpg",
+  "src": "/img/ai-mistake-afraid-to-use-ai.jpg",
+  "src640": "/img/ai-mistake-afraid-to-use-ai-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "開いたノートとペンを持つ手、横にノートパソコン",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Person_writing_in_a_notebook_while_sitting_at_a_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Person_writing_in_a_notebook_while_sitting_at_a_desk.jpg/960px-Person_writing_in_a_notebook_while_sitting_at_a_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Person_writing_in_a_notebook_while_sitting_at_a_desk.jpg/500px-Person_writing_in_a_notebook_while_sitting_at_a_desk.jpg",
+  "og": "https://ai.seadice.win/img/ai-mistake-afraid-to-use-ai.jpg",
+  "local": true
  }
 }

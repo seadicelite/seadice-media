@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-mistake-afraid-to-use-ai",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-10",
+  "title": "AIの答えで失敗してから、AIを使うのが怖い。研究では、人は1回の間違いで信頼を大きく下げやすかった",
+  "summary": "人はAIの間違いを見ると、成績がよくても避けやすい。全部やめる前に、確かめられる作業から任せる範囲を決め直す。"
+ },
+ {
   "slug": "shared-ai-fake-correction",
   "category": "偽情報・ディープフェイク",
   "type": "guide",
