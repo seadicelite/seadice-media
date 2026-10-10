@@ -953,8 +953,8 @@
  },
  "burglary-victim-immediate-actions": {
   "file": "File:Bishop White house front door (86ebbc03-1dd8-b71b-0b6a-de6f10a5d0d5).jpg",
-  "src": "/img/burglary-victim-immediate-actions.jpg",
-  "src640": "/img/burglary-victim-immediate-actions-sm.jpg",
+  "src": "/img/burglary-victim-immediate-actions.webp",
+  "src640": "/img/burglary-victim-immediate-actions-sm.webp",
   "w": 960,
   "h": 644,
   "alt": "住宅の玄関ドア",
@@ -963,10 +963,9 @@
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Bishop_White_house_front_door_(86ebbc03-1dd8-b71b-0b6a-de6f10a5d0d5).jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bishop_White_house_front_door_%2886ebbc03-1dd8-b71b-0b6a-de6f10a5d0d5%29.jpg/960px-Bishop_White_house_front_door_%2886ebbc03-1dd8-b71b-0b6a-de6f10a5d0d5%29.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bishop_White_house_front_door_%2886ebbc03-1dd8-b71b-0b6a-de6f10a5d0d5%29.jpg/500px-Bishop_White_house_front_door_%2886ebbc03-1dd8-b71b-0b6a-de6f10a5d0d5%29.jpg",
-  "og": "https://bohan.seadice.win/img/burglary-victim-immediate-actions.jpg",
+  "og": "https://bohan.seadice.win/img/burglary-victim-immediate-actions-og.jpg",
   "local": true
  }
 }
