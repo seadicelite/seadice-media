@@ -107,7 +107,8 @@
     "procrastination-cant-start",
     "focus-recover-exercise",
     "hydration-focus",
-    "write-it-out-overload"
+    "write-it-out-overload",
+    "nature-attention-restore"
    ]
   },
   {
@@ -169,7 +170,9 @@
     "ai-companion-loss-grief",
     "group-belonging-prevent",
     "apologize-repair-chat",
-    "hours-to-make-friends"
+    "hours-to-make-friends",
+    "eating-alone-prevent",
+    "small-talk-follow-up-questions"
    ]
   },
   {
@@ -200,7 +203,8 @@
     "ai-companion-loss-grief",
     "ai-reassurance-loop",
     "ai-error-trust-recover",
-    "think-first-then-ai"
+    "think-first-then-ai",
+    "ai-venting-rumination"
    ]
   }
  ]
