@@ -237,7 +237,9 @@
         "why": [
           "small-amount-investing-hesitation"
         ],
-        "notice": [],
+        "notice": [
+          "investing-overconfidence-self-check"
+        ],
         "fix": [
           "retirement-anxiety-outlook"
         ],

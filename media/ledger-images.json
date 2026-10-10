@@ -1259,5 +1259,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bistro_Nas_restaurant_one_dining_table_of_four.jpg/500px-Bistro_Nas_restaurant_one_dining_table_of_four.jpg",
   "og": "https://ledger.seadice.win/img/status-spending-checklist-calculator.jpg",
   "local": true
+ },
+ "investing-overconfidence-self-check": {
+  "file": "File:Stock Price Listing Numbers on a Korean Newspaper.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Stock_Price_Listing_Numbers_on_a_Korean_Newspaper.jpg/960px-Stock_Price_Listing_Numbers_on_a_Korean_Newspaper.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Stock_Price_Listing_Numbers_on_a_Korean_Newspaper.jpg/500px-Stock_Price_Listing_Numbers_on_a_Korean_Newspaper.jpg",
+  "w": 960,
+  "h": 922,
+  "alt": "新聞の株価欄",
+  "artist": "Mk2010",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Stock_Price_Listing_Numbers_on_a_Korean_Newspaper.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
