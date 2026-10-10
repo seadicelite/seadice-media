@@ -94,7 +94,9 @@
         "notice": [
           "cashless-overspending-self-check"
         ],
-        "fix": [],
+        "fix": [
+          "cashless-overspending-prevention-tips"
+        ],
         "after": [
           "revolving-debt-recovery-steps"
         ],

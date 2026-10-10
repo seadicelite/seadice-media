@@ -1454,5 +1454,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Filling_lottery_ticket_20180215.jpg/500px-Filling_lottery_ticket_20180215.jpg",
   "og": "https://ledger.seadice.win/img/gambling-spending-limit-calculator.jpg",
   "local": true
+ },
+ "cashless-overspending-prevention-tips": {
+  "file": "File:Credit card terminal in Laos.jpg",
+  "src": "/img/cashless-overspending-prevention-tips.jpg",
+  "src640": "/img/cashless-overspending-prevention-tips-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "カードを差し込んだ決済端末",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Credit_card_terminal_in_Laos.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Credit_card_terminal_in_Laos.jpg/960px-Credit_card_terminal_in_Laos.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Credit_card_terminal_in_Laos.jpg/500px-Credit_card_terminal_in_Laos.jpg",
+  "og": "https://ledger.seadice.win/img/cashless-overspending-prevention-tips.jpg",
+  "local": true
  }
 }
