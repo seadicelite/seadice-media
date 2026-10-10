@@ -848,5 +848,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/A_notebook_with_paint_brushes.jpg/500px-A_notebook_with_paint_brushes.jpg",
   "og": "https://ai.seadice.win/img/ai-image-post-own-work-label-og.jpg",
   "local": true
+ },
+ "drawing-accused-of-ai-what-to-do": {
+  "file": "File:Photo of still life sketch or drawing.jpg",
+  "src": "/img/drawing-accused-of-ai-what-to-do.webp",
+  "src640": "/img/drawing-accused-of-ai-what-to-do-sm.webp",
+  "w": 960,
+  "h": 873,
+  "alt": "鉛筆で描いた静物のデッサン",
+  "artist": "Teo Jin Cheng",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Photo_of_still_life_sketch_or_drawing.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Photo_of_still_life_sketch_or_drawing.jpg/960px-Photo_of_still_life_sketch_or_drawing.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Photo_of_still_life_sketch_or_drawing.jpg/500px-Photo_of_still_life_sketch_or_drawing.jpg",
+  "og": "https://ai.seadice.win/img/drawing-accused-of-ai-what-to-do-og.jpg",
+  "local": true
  }
 }
