@@ -899,5 +899,22 @@
   "remote640": "https://live.staticflickr.com/1890/43679970155_3e48668eda_b.jpg",
   "og": "https://ai.seadice.win/img/kids-students-ai-use-rate-survey-og.jpg",
   "local": true
+ },
+ "ai-mistake-work-trust-rebuild": {
+  "file": "File:Desk with notebook pens and glasses.jpg",
+  "src": "/img/ai-mistake-work-trust-rebuild.webp",
+  "src640": "/img/ai-mistake-work-trust-rebuild-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上のノートとペン",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk_with_notebook_pens_and_glasses.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Desk_with_notebook_pens_and_glasses.jpg/960px-Desk_with_notebook_pens_and_glasses.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Desk_with_notebook_pens_and_glasses.jpg/500px-Desk_with_notebook_pens_and_glasses.jpg",
+  "og": "https://ai.seadice.win/img/ai-mistake-work-trust-rebuild-og.jpg",
+  "local": true
  }
 }
