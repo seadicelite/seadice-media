@@ -1346,5 +1346,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Interior_of_Ruoholahti_shopping_centre_empty_of_people_on_an_evening_in_September_2022.jpg/500px-Interior_of_Ruoholahti_shopping_centre_empty_of_people_on_an_evening_in_September_2022.jpg",
   "og": "https://ledger.seadice.win/img/sale-overbuying-recovery-og.jpg",
   "local": true
+ },
+ "gambling-gacha-limit-setting-tips": {
+  "file": "File:Poker Chips with houses.jpg",
+  "src": "/img/gambling-gacha-limit-setting-tips.jpg",
+  "src640": "/img/gambling-gacha-limit-setting-tips-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "積み重ねたカジノのチップ",
+  "artist": "Images Money",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Poker_Chips_with_houses.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Poker_Chips_with_houses.jpg/960px-Poker_Chips_with_houses.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Poker_Chips_with_houses.jpg/500px-Poker_Chips_with_houses.jpg",
+  "og": "https://ledger.seadice.win/img/gambling-gacha-limit-setting-tips.jpg",
+  "local": true
  }
 }

@@ -159,7 +159,9 @@
         "notice": [
           "gambling-gacha-self-check"
         ],
-        "fix": [],
+        "fix": [
+          "gambling-gacha-limit-setting-tips"
+        ],
         "after": [],
         "use": []
       }
