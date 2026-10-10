@@ -712,5 +712,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Interior_view_of_newspaper_delivery_room_showing_man_taking_stack_of_newspapers_from_machine%29_-_World-Telegram_photo_LCCN95506971.jpg/500px-Interior_view_of_newspaper_delivery_room_showing_man_taking_stack_of_newspapers_from_machine%29_-_World-Telegram_photo_LCCN95506971.jpg",
   "og": "https://ai.seadice.win/img/fake-news-distrust-everything-og.jpg",
   "local": true
+ },
+ "ai-search-summary-accuracy": {
+  "file": "File:Job Listings.jpg",
+  "src": "/img/ai-search-summary-accuracy.webp",
+  "src640": "/img/ai-search-summary-accuracy-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "新聞の紙面と虫めがね",
+  "artist": "Flazingo Photos",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Job_Listings.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Job_Listings.jpg/960px-Job_Listings.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Job_Listings.jpg/500px-Job_Listings.jpg",
+  "og": "https://ai.seadice.win/img/ai-search-summary-accuracy-og.jpg",
+  "local": true
  }
 }
