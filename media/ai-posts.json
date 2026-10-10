@@ -1,5 +1,14 @@
 [
  {
+  "slug": "generative-ai-school-before-use",
+  "category": "子ども・学校",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-10",
+  "title": "学校で生成AIを使う前に、生徒が知っておきたいこと。国の指針では、利用規約の年齢・入力しない個人情報・出力の確かめ方の3つが土台",
+  "summary": "学校でAIを使う前に。国の指針から、規約の年齢と保護者の同意、入れない個人情報、出力の確かめ方を整理。答えの丸写しで力がつきにくい研究も。"
+ },
+ {
   "slug": "ai-imitated-art-keep-posting",
   "category": "創作・著作権",
   "type": "guide",

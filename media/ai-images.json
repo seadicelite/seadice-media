@@ -559,5 +559,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Jar_of_Paint_Brushes_%28Unsplash%29.jpg/500px-Jar_of_Paint_Brushes_%28Unsplash%29.jpg",
   "og": "https://ai.seadice.win/img/ai-imitated-art-keep-posting-og.jpg",
   "local": true
+ },
+ "generative-ai-school-before-use": {
+  "file": "File:School pencil cases.jpg",
+  "src": "/img/generative-ai-school-before-use.webp",
+  "src640": "/img/generative-ai-school-before-use-sm.webp",
+  "w": 960,
+  "h": 813,
+  "alt": "筆箱と鉛筆",
+  "artist": "ABX",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:School_pencil_cases.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/School_pencil_cases.jpg/960px-School_pencil_cases.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/School_pencil_cases.jpg/500px-School_pencil_cases.jpg",
+  "og": "https://ai.seadice.win/img/generative-ai-school-before-use-og.jpg",
+  "local": true
  }
 }
