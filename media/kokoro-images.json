@@ -1817,5 +1817,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Glasses_and_notebook_on_a_wooden_table_in_a_bright_room.jpg/500px-Glasses_and_notebook_on_a_wooden_table_in_a_bright_room.jpg",
   "og": "https://mentalai.seadice.win/img/ai-venting-rumination-og.jpg",
   "local": true
+ },
+ "eating-alone-prevent": {
+  "file": "File:A bowl of rice.jpg",
+  "src": "/img/eating-alone-prevent.webp",
+  "src640": "/img/eating-alone-prevent-sm.webp",
+  "w": 960,
+  "h": 847,
+  "alt": "茶わんに盛ったご飯",
+  "artist": "Douglas Perkins",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:A_bowl_of_rice.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/A_bowl_of_rice.jpg/960px-A_bowl_of_rice.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/A_bowl_of_rice.jpg/500px-A_bowl_of_rice.jpg",
+  "og": "https://mentalai.seadice.win/img/eating-alone-prevent-og.jpg",
+  "local": true
  }
 }
