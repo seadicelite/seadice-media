@@ -148,7 +148,9 @@
           "lottery-near-miss-psychology",
           "gacha-loot-box-spending"
         ],
-        "notice": [],
+        "notice": [
+          "gambling-gacha-self-check"
+        ],
         "fix": [],
         "after": [],
         "use": []
