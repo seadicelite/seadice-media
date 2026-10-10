@@ -197,7 +197,9 @@
           "income-increase-savings-hedonic-adaptation",
           "frugality-fatigue-self-control-depletion-research"
         ],
-        "notice": [],
+        "notice": [
+          "saving-habits-self-check"
+        ],
         "fix": [
           "specific-saving-goal-works",
           "automatic-saving-works",
