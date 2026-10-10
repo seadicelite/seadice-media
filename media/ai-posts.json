@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-translation-mistake-sent",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-10",
+  "title": "AI翻訳を信じて送った文章が、誤訳だった。研究では、1文ずつは9割前後正しくても、文書全体では誤りが混ざりやすかった",
+  "summary": "AI翻訳は文書のどこかに誤りが混ざりやすい。送ってしまったら、短い訂正に原文を添え、要点を言い直してもらう。"
+ },
+ {
   "slug": "ai-mistake-afraid-to-use-ai",
   "category": "AIに頼りすぎ",
   "type": "guide",

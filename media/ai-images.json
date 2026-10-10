@@ -492,5 +492,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Person_writing_in_a_notebook_while_sitting_at_a_desk.jpg/500px-Person_writing_in_a_notebook_while_sitting_at_a_desk.jpg",
   "og": "https://ai.seadice.win/img/ai-mistake-afraid-to-use-ai.jpg",
   "local": true
+ },
+ "ai-translation-mistake-sent": {
+  "file": "File:Dictionary indents headon.jpg",
+  "src": "/img/ai-translation-mistake-sent.jpg",
+  "src640": "/img/ai-translation-mistake-sent-sm.jpg",
+  "w": 960,
+  "h": 650,
+  "alt": "辞書の小口に並ぶ見出しの切り込み",
+  "artist": "Till Niermann",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dictionary_indents_headon.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dictionary_indents_headon.jpg/960px-Dictionary_indents_headon.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dictionary_indents_headon.jpg/500px-Dictionary_indents_headon.jpg",
+  "og": "https://ai.seadice.win/img/ai-translation-mistake-sent.jpg",
+  "local": true
  }
 }
