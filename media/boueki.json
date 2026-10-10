@@ -37,7 +37,7 @@
     ],
     [
       "貿易実務英単語アプリ",
-      "https://seadice.win/apps/boueki-eigo/",
+      "/apps/boueki-eigo/",
       "フラッシュカードとクイズで、貿易の英単語をスキマ時間に覚えられるiPhoneアプリです。"
     ],
     [
@@ -213,5 +213,20 @@
     "担当者",
     "主任",
     "貿易実務マスター"
+  ],
+  "apps": [
+    {
+      "id": "boueki-eigo",
+      "name": "貿易実務英単語",
+      "appStoreId": "6788717337",
+      "icon": "/img/apps/boueki-eigo.webp",
+      "catch": "L/C・B/L・Incotermsなど、貿易実務でよく使う英単語をフラッシュカードとクイズでスキマ時間に覚えられる",
+      "hubLead": "アプリで覚えた英単語を、英文の信用状・売買契約書・略語のレッスンで実際の使われ方とあわせて学べます。",
+      "lessons": [
+        "trade-english-key-words-and-abbreviations",
+        "reading-english-sales-contracts",
+        "reading-english-letter-of-credit"
+      ]
+    }
   ]
 }

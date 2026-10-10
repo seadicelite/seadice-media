@@ -53,6 +53,8 @@
     llmsIntro    [行] llms.txt の冒頭の説明文
   任意:
     practice     [[名前, URL, 説明]] 講座の外の演習ツール
+    apps         公開済みアプリとの相互送客（media/apps.py と同じ形）。[{id, name, appStoreId, icon, catch, hubLead, lessons[レッスンid]}]
+                 lessons のレッスンの出典の直前にアプリカードを出し、アプリ用ページ /apps/{id}/ を生成する（アプリからはこのURLだけにリンクする）
     exam         本番形式の模擬試験コーナー（/{path}）。{path, kicker, h1, meta, lead, start, overview[li], note, crumb, title, desc, appName, faq[[q,a]]}
     forbidWords  [語] 他分野の文言の混入検査。生成した全ページにこれらの語があればエラー
     tool         分野の看板ツール（study.md 8章）。{path(例 sagasu/), title, h1, kicker, navLabel(ヘッダー・フッターのリンク名), desc(meta。120字以内),
@@ -781,6 +783,9 @@ def lesson(ci, li):
     next_l = LESSONS[idx + 1][1] if idx < len(LESSONS) - 1 else None
     no = f'{ch["no"]}-{li+1}'
     body = (lesson_new if is_new(l) else lesson_old)(ch, li, l, idx, no, prev_l, next_l)
+    app = next((a for a in CFG.get("apps", []) if l["id"] in a["lessons"]), None)
+    if app:
+        body = body.replace('<details class="srcs">', app_card(app) + '\n<details class="srcs">', 1)
     url = lurl(l)
     terms = l.get("terms", [])
     graph = [
@@ -797,6 +802,53 @@ def lesson(ci, li):
             {"@type": "DefinedTerm", "name": t["ja"], "alternateName": t["en"], "description": t["def"]} for t in terms]})
     return write(f'course/{l["id"]}/', f'{l["title"]}｜{fmt(CFG["lessonTag"])} {no} | {NAME}', l["description"], body, graph,
                  trail=[("講座", CURL), (f'第{ch["no"]}章 {ch["title"]}', CURL), (l["short"], url)], current="/course/")
+
+
+APP_CSS = (".appcard{display:flex;gap:14px;align-items:center;margin:28px 0;background:var(--paper);border:1.5px solid var(--accent);border-radius:14px;padding:16px}"
+           ".appcard img{flex:0 0 64px;width:64px;height:64px;border-radius:14px}.appcard .ab{min-width:0}"
+           ".appcard small{display:block;font-size:12px;color:var(--accent);margin-bottom:2px}.appcard b{display:block;font-size:16px;line-height:1.4}"
+           ".appcard p{font-size:14px;color:var(--muted);margin:4px 0 10px;line-height:1.6}"
+           ".appcard a.ast{display:inline-block;background:var(--accent);color:var(--bg);font-weight:700;font-size:14px;text-decoration:none;padding:10px 18px;border-radius:10px}"
+           ".appcard a.amore{display:inline-block;font-size:13px;color:var(--accent);margin-left:12px;padding:10px 0}")
+
+
+def app_store(app):
+    return f'https://apps.apple.com/app/id{app["appStoreId"]}?ct={CFG["slug"]}'
+
+
+def app_card(app, more=True):
+    """レッスン末尾のアプリカード（media/apps.py の card_html と同じ見た目）。CSS（APP_CSS）は apps があるサイトだけ build() で足す"""
+    return (f'<aside class="appcard" aria-label="関連アプリ"><img src="{app["icon"]}" alt="" width="64" height="64" loading="lazy">'
+            f'<div class="ab"><small>{"このレッスンの続きをスマホで" if more else "iPhoneアプリ"}</small><b>{E(app["name"])}</b><p>{E(app["catch"])}（無料・広告なし・iPhone）</p>'
+            f'<a class="ast" href="{app_store(app)}" target="_blank" rel="noopener">App Storeで見る</a>'
+            + (f'<a class="amore" href="/apps/{app["id"]}/">あわせて学ぶレッスン</a>' if more else '') + '</div></aside>')
+
+
+def app_pages():
+    """アプリ用ページ /apps/{id}/。アプリから入った人に、対応するレッスンと用語の学び方をまとめて見せる"""
+    urls = []
+    for app in CFG.get("apps", []):
+        ls = [(ch, x) for ch in COURSE["chapters"] for x in ch["lessons"] if x["id"] in app["lessons"]]
+        items = "".join(f'<a class="card" href="/course/{x["id"]}/"><small>第{ch["no"]}章 {E(ch["title"])}</small><b>{E(x["title"])}</b><span>{E(x["description"])}</span></a>' for ch, x in ls)
+        rel = f'apps/{app["id"]}/'
+        title = f'{app["name"]}を使っている人へ'
+        desc = f'{app["name"]}と一緒に学べる、{NAME}の無料レッスンをまとめました。{app["hubLead"]}'
+        body = f'''<span class="kicker">APP</span>
+<h1>{E(title)}</h1>
+<p class="lead">{E(app["hubLead"])}</p>
+{app_card(app, more=False)}
+<h2><span class="n">01</span>あわせて学ぶレッスン（{len(ls)}本）</h2>
+<p class="answer">アプリで覚えた単語が、実際の書類や契約でどう使われるかを学べます。いずれも無料・登録不要です。</p>
+<div class="grid">{items}</div>
+<h2><span class="n">02</span>用語をもっと覚える</h2>
+<p class="answer">用語の意味は{T("glossaryName")}で調べられ、暗記カードで繰り返し覚えられます。記録はこのブラウザだけに残ります。</p>
+<div class="btns"><a class="btn" href="/glossary/">{T("glossaryName")}を見る</a><a class="btn sub" href="/cards/">暗記カードで覚える</a><a class="btn sub" href="/course/">講座の目次へ</a></div>'''
+        graph = [{"@type": "CollectionPage", "name": title, "url": URL + rel, "description": desc, "inLanguage": "ja",
+                  "about": {"@type": "SoftwareApplication", "name": app["name"], "operatingSystem": "iOS", "applicationCategory": "EducationalApplication",
+                            "offers": {"@type": "Offer", "price": "0", "priceCurrency": "JPY"}, "url": f'https://apps.apple.com/app/id{app["appStoreId"]}'},
+                  "publisher": PUBLISHER}]
+        urls.append(write(rel, f"{title} | {NAME}", desc, body, graph, trail=[(title, URL + rel)]))
+    return urls
 
 
 def practice_html(h="もっと演習する"):
@@ -1633,6 +1685,8 @@ def extras(urls):
 def build():
     global CSS, FAV
     CSS, FAV = css(), favicon()
+    if CFG.get("apps"):
+        CSS += APP_CSS
     OUT.mkdir(parents=True, exist_ok=True)
     urls = [home(), course_index()]
     for ci, ch in enumerate(COURSE["chapters"]):
@@ -1648,6 +1702,7 @@ def build():
         urls.append(tool_page())
     urls += [glossary()] + [term_page(t) for t in TERMS if rich(t)]
     urls += trust_pages()
+    urls += app_pages()
     if has_quiz():
         urls.append(quiz_page())
         (OUT / "quiz.js").write_text(QUIZ_JS)
