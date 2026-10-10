@@ -175,5 +175,19 @@
       "label": "ツールとデータ",
       "path": "/tools/"
     }
+  ],
+  "apps": [
+    {
+      "id": "habit-quit",
+      "name": "科学で断つ 悪習慣ログ",
+      "appStoreId": "6798075879",
+      "icon": "/img/apps/habit-quit.webp",
+      "catch": "やめたい習慣を登録すると、行動科学の知見からやめ方のカードを作成。「耐えた」を記録して、続いた日数が目に見える",
+      "hubLead": "元恋人のSNSを見てしまうなど、やめたいのにやめられない行動と向き合うときに読みたい研究です。",
+      "theme": "やめたいのに続けてしまう行動(元恋人のSNSチェック等)を断つ。恋愛の駆け引き・脈ありサインの記事には付けない",
+      "articles": [
+        "ex-partner-social-media-checking-research"
+      ]
+    }
   ]
 }
