@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-made-document-cant-answer-questions",
+  "category": "考える力・集中",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-11",
+  "title": "AIで作った資料なのに、質問されて答えられなかった。研究では、AIを使うと「わかったつもり」になりやすく、次は自分の言葉で説明し直すのが手がかり",
+  "summary": "AIで作った資料を説明できないのは、答えに手が届くと理解を高く見積もりやすいから。直後の回答の仕方と、次の資料での使い方を研究から整理。"
+ },
+ {
   "slug": "ai-label-sns-post-trust",
   "category": "偽情報・ディープフェイク",
   "type": "guide",

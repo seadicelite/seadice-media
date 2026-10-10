@@ -951,5 +951,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Diario_de_Yucat%C3%A1n%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2801%29.jpg/500px-Diario_de_Yucat%C3%A1n%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2801%29.jpg",
   "og": "https://ai.seadice.win/img/ai-label-sns-post-trust.jpg",
   "local": true
+ },
+ "ai-made-document-cant-answer-questions": {
+  "file": "File:Desk-laptop-notebook-pen (23958719819).jpg",
+  "src": "/img/ai-made-document-cant-answer-questions.jpg",
+  "src640": "/img/ai-made-document-cant-answer-questions-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上のノートとペン",
+  "artist": "www.Pixel.la Free Stock Photos",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk-laptop-notebook-pen_(23958719819).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Desk-laptop-notebook-pen_%2823958719819%29.jpg/960px-Desk-laptop-notebook-pen_%2823958719819%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Desk-laptop-notebook-pen_%2823958719819%29.jpg/500px-Desk-laptop-notebook-pen_%2823958719819%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-made-document-cant-answer-questions.jpg",
+  "local": true
  }
 }
