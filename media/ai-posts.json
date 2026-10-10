@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-hiring-screening-interview",
+  "category": "仕事・キャリア",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-10",
+  "title": "AIの面接や書類選考で落とされたかもしれない。研究では評価に偏りと精度の課題があり、応募者は利用目的の確認と開示請求ができる",
+  "summary": "AIの書類選考は名前で偏り、録画面接の評価は学び方で精度が変わった。応募者は利用目的を確かめ、開示を請求できる。"
+ },
+ {
   "slug": "smart-speaker-always-listening",
   "category": "プライバシー・個人情報",
   "type": "guide",

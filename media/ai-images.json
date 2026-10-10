@@ -746,5 +746,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vacuum_tube_radio_receiver_Philips_680A_IMG_7964.jpg/500px-Vacuum_tube_radio_receiver_Philips_680A_IMG_7964.jpg",
   "og": "https://ai.seadice.win/img/smart-speaker-always-listening-og.jpg",
   "local": true
+ },
+ "ai-hiring-screening-interview": {
+  "file": "File:Sonnenuntergang hinter Kaufland - Flickr - Casey Hugelfink.jpg",
+  "src": "/img/ai-hiring-screening-interview.webp",
+  "src640": "/img/ai-hiring-screening-interview-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "夕暮れの窓辺に並んだ待合室の椅子",
+  "artist": "Casey Hugelfink from Bergheim, Germany",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sonnenuntergang_hinter_Kaufland_-_Flickr_-_Casey_Hugelfink.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sonnenuntergang_hinter_Kaufland_-_Flickr_-_Casey_Hugelfink.jpg/960px-Sonnenuntergang_hinter_Kaufland_-_Flickr_-_Casey_Hugelfink.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sonnenuntergang_hinter_Kaufland_-_Flickr_-_Casey_Hugelfink.jpg/500px-Sonnenuntergang_hinter_Kaufland_-_Flickr_-_Casey_Hugelfink.jpg",
+  "og": "https://ai.seadice.win/img/ai-hiring-screening-interview-og.jpg",
+  "local": true
  }
 }
