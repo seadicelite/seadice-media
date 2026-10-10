@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-writing-skill-keep",
+  "category": "考える力・集中",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-10",
+  "title": "AIに頼りすぎて、文章が書けなくならないか心配。研究と国の指針からわかった、書く力を残す使い方",
+  "summary": "AIの助けを外すと文章の質が下がる研究も。最初の下書きは自分で書き、AIには指摘を頼む。研究と文科省の指針から5つの使い方を整理。"
+ },
+ {
   "slug": "ai-wrong-answer-money-refund",
   "category": "AIに頼りすぎ",
   "type": "guide",

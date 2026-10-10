@@ -525,5 +525,22 @@
   "remote640": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMTA5OTI4LWltYWdlLWt3dnc5cGM1LmpwZw.jpg",
   "og": "https://ai.seadice.win/img/ai-wrong-answer-money-refund-og.jpg",
   "local": true
+ },
+ "ai-writing-skill-keep": {
+  "file": "File:Pencil shavings on a notebook (Unsplash).jpg",
+  "src": "/img/ai-writing-skill-keep.webp",
+  "src640": "/img/ai-writing-skill-keep-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "ノートの上の鉛筆と削りくず",
+  "artist": "Angelina Litvin linalitvina",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Pencil_shavings_on_a_notebook_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg/960px-Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg/500px-Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-writing-skill-keep-og.jpg",
+  "local": true
  }
 }
