@@ -1904,5 +1904,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wikipedia_notebook_pencil_puzzles.jpg/500px-Wikipedia_notebook_pencil_puzzles.jpg",
   "og": "https://mentalai.seadice.win/img/comparison-best-possible-self.jpg",
   "local": true
+ },
+ "low-energy-small-plans": {
+  "file": "File:The cup of coffee on a wooden table (47939081677).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_cup_of_coffee_on_a_wooden_table_%2847939081677%29.jpg/960px-The_cup_of_coffee_on_a_wooden_table_%2847939081677%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_cup_of_coffee_on_a_wooden_table_%2847939081677%29.jpg/500px-The_cup_of_coffee_on_a_wooden_table_%2847939081677%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のテーブルに置かれたコーヒーカップ",
+  "artist": "Artem Beliaikin from Moscow, Russia",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:The_cup_of_coffee_on_a_wooden_table_(47939081677).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
