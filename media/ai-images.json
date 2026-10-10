@@ -729,5 +729,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Job_Listings.jpg/500px-Job_Listings.jpg",
   "og": "https://ai.seadice.win/img/ai-search-summary-accuracy-og.jpg",
   "local": true
+ },
+ "smart-speaker-always-listening": {
+  "file": "File:Vacuum tube radio receiver Philips 680A IMG 7964.jpg",
+  "src": "/img/smart-speaker-always-listening.webp",
+  "src640": "/img/smart-speaker-always-listening-sm.webp",
+  "w": 960,
+  "h": 686,
+  "alt": "古いラジオ受信機",
+  "artist": "Alex P. Kok",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Vacuum_tube_radio_receiver_Philips_680A_IMG_7964.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vacuum_tube_radio_receiver_Philips_680A_IMG_7964.jpg/960px-Vacuum_tube_radio_receiver_Philips_680A_IMG_7964.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vacuum_tube_radio_receiver_Philips_680A_IMG_7964.jpg/500px-Vacuum_tube_radio_receiver_Philips_680A_IMG_7964.jpg",
+  "og": "https://ai.seadice.win/img/smart-speaker-always-listening-og.jpg",
+  "local": true
  }
 }

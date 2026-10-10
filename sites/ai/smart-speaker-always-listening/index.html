@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AIスピーカーやAIアシスタントは会話を聞いている？送るのは呼びかけの後だけの設計だが、聞き間違いの誤作動は研究で確かめられている | AI時代の困りごと</title>
+<meta name="description" content="AIスピーカーやAIアシスタントはふだんの会話を録音している？公式には呼びかけの後だけ送る設計。ただ研究では誤作動が最大1時間0.95回あった。履歴と設定で確かめる方法を出典つきで整理。">
+<link rel="canonical" href="https://ai.seadice.win/smart-speaker-always-listening/">
+<meta property="og:title" content="AIスピーカーやAIアシスタントは会話を聞いている？送るのは呼びかけの後だけの設計だが、聞き間違いの誤作動は研究で確かめられている | AI時代の困りごと">
+<meta property="og:description" content="AIスピーカーやAIアシスタントはふだんの会話を録音している？公式には呼びかけの後だけ送る設計。ただ研究では誤作動が最大1時間0.95回あった。履歴と設定で確かめる方法を出典つきで整理。">
+<meta property="og:url" content="https://ai.seadice.win/smart-speaker-always-listening/">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<meta property="og:image" content="https://ai.seadice.win/img/smart-speaker-always-listening-og.jpg">
+<meta property="og:image:alt" content="古いラジオ受信機">
+<meta name="twitter:image" content="https://ai.seadice.win/img/smart-speaker-always-listening-og.jpg">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMzIiIGZpbGw9IiM3RkQ0RkYiLz48dGV4dCB4PSIzMiIgeT0iNDQiIGZvbnQtc2l6ZT0iMzQiIGZvbnQtZmFtaWx5PSItYXBwbGUtc3lzdGVtLEFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI4MDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMwQTBEMTQiPkE8L3RleHQ+PC9zdmc+">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "AIスピーカーやAIアシスタントは会話を聞いている？送るのは呼びかけの後だけの設計だが、聞き間違いの誤作動は研究で確かめられている", "datePublished": "2026-10-10", "dateModified": "2026-10-10", "author": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}, "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}, "url": "https://ai.seadice.win/smart-speaker-always-listening/", "citation": ["https://doi.org/10.2478/popets-2020-0072", "https://doi.org/10.1016/j.csl.2021.101328", "https://doi.org/10.2478/popets-2019-0068", "https://doi.org/10.1145/3274371", "https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V", "https://support.google.com/websearch/answer/6030020?hl=ja", "https://www.apple.com/jp/legal/privacy/data/ja/ask-siri-dictation/", "https://www.apple.com/jp/legal/privacy/data/ja/improve-siri-dictation/", "https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-doj-charge-amazon-violating-childrens-privacy-law-keeping-kids-alexa-voice-recordings-forever"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://ai.seadice.win/smart-speaker-always-listening/"}, "inLanguage": "ja", "articleSection": "プライバシー・個人情報", "isAccessibleForFree": true, "image": ["https://ai.seadice.win/img/smart-speaker-always-listening-og.jpg"]}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "スマホのAIアシスタントも、ふだんの会話を録音している？", "acceptedAnswer": {"@type": "Answer", "text": "Appleの公式説明では、話した内容が端末の中だけで処理されているかはSiriの設定に表示され、「Siriと音声入力の改善」を選ばない限り、音声がAppleに保存されることはありません。Googleアシスタントも、音声の保存は本人がオンにしない限りオフです。呼びかけの聞き間違いで録音が始まることはあるので、履歴を時々見ておくと安心です。"}}, {"@type": "Question", "name": "録音を削除すれば、すべて消える？", "acceptedAnswer": {"@type": "Answer", "text": "音声と文字起こしはクラウドから削除されますが、すべてが消えるとは限りません。Amazonの公式FAQでは、頼んだ操作の記録などは残る場合があり、改善に使われたデータで学習したシステムは引き続き使われる場合があるとしています。"}}, {"@type": "Question", "name": "録音を人が聞くことはある？", "acceptedAnswer": {"@type": "Answer", "text": "あります。Appleは「Siriと音声入力の改善」を選んだ場合、守秘義務に従うApple社員だけが音声にアクセスできるとしています。Googleは音声の保存をオンにした場合、訓練を受けたレビュー担当者が聞き取ることがあるとしています。Amazonは極めて限定的なサンプルを人が確認するとし、設定で管理できます。"}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "HOME", "item": "https://seadice.win/"}, {"@type": "ListItem", "position": 2, "name": "AI時代の困りごと", "item": "https://ai.seadice.win/"}, {"@type": "ListItem", "position": 3, "name": "AIスピーカーやAIアシスタントは会話を聞いている？送るのは呼びかけの後だけの設計だが、聞き間違いの誤作動は研究で確かめられている", "item": "https://ai.seadice.win/smart-speaker-always-listening/"}]}]}</script>
+<style>*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}:root{--bg:#0A0D14;--card:#121826;--accent:#7FD4FF;--accent2:#B49CFF;--border:#222B3D;--text:#ECEFF4;--muted:#8D9AAD;--body:#C9D1DC;--link:#9DCFFF;--soft:#13213A;--soft2:#1E1A33}body{background:var(--bg);color:var(--text);font-family:-apple-system,'Helvetica Neue',sans-serif;line-height:1.8;-webkit-text-size-adjust:100%}nav{position:fixed;top:0;left:0;right:0;z-index:100;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);background:rgba(10,13,20,.86);border-bottom:1px solid var(--border);padding:0 20px;height:56px;display:flex;align-items:center;justify-content:space-between}.nav-logo{font-size:15px;font-weight:800;letter-spacing:.15em;background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;text-decoration:none}nav a.r{font-size:13px;color:var(--muted);text-decoration:none}article{max-width:680px;margin:0 auto;padding:88px 20px 72px}.breadcrumb{font-size:12px;color:var(--muted);margin-bottom:20px}.breadcrumb a{color:var(--muted);text-decoration:none}.tag{display:inline-block;font-size:12px;letter-spacing:.06em;color:var(--accent);background:var(--soft);border-radius:999px;padding:3px 12px;margin-bottom:14px}h1{font-size:clamp(26px,6vw,38px);font-weight:800;line-height:1.3;margin-bottom:14px}.meta{font-size:12px;color:var(--muted);margin-bottom:24px}.ai-badge{display:flex;align-items:flex-start;gap:10px;background:var(--soft);border:0;border-radius:12px;padding:12px 16px;margin-bottom:28px;font-size:12px;color:var(--body);line-height:1.6}.ai-badge strong{color:var(--accent);font-weight:800;white-space:nowrap}.lead{font-size:17px;line-height:1.9;color:var(--text);margin-bottom:32px}.summary{background:linear-gradient(135deg,var(--soft),var(--soft2));border:0;border-radius:22px;padding:24px 22px;margin:0 0 40px}.summary h2{font-size:13px;letter-spacing:.14em;color:var(--accent);margin:0 0 10px}.summary ol{padding-left:22px}.summary li{font-size:15px;margin:8px 0;color:var(--text);line-height:1.7}h2.sec{font-size:22px;font-weight:800;margin:64px 0 10px;line-height:1.4}h2.sec .n{display:block;font-size:12px;letter-spacing:.16em;color:var(--accent);margin-bottom:4px}.answer{font-size:15px;color:var(--text);margin:8px 0 18px;padding:12px 16px;background:var(--soft);border-radius:14px}p.t{margin:14px 0;font-size:16px;color:var(--body)}.body strong{color:var(--text)}.body a{color:var(--link)}.study{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:22px 20px;margin:20px 0}.study .who{font-size:12px;color:var(--muted);margin-bottom:6px}.study .find{font-size:16px;font-weight:700;line-height:1.7;margin-bottom:12px;color:var(--text)}.study .cond{font-size:12.5px;color:var(--muted);line-height:1.7;margin-top:10px;padding-top:10px;border-top:1px solid var(--border)}.study .ref{font-size:12px;color:var(--accent);margin-left:4px}.step{display:flex;gap:14px;background:var(--card);border:1px solid var(--border);border-radius:20px;padding:18px 20px;margin:16px 0}.step .num{flex:0 0 32px;height:32px;border-radius:50%;background:var(--accent);color:#0A0D14;font-weight:800;display:flex;align-items:center;justify-content:center;font-size:15px}.step .ttl{font-weight:700;font-size:16px;margin-bottom:2px}.step .dsc{font-size:14px;color:var(--body);line-height:1.7}.step .time{font-size:12px;color:var(--accent);margin-top:4px}.note{background:var(--soft2);border:0;border-radius:12px;padding:14px 18px;margin:18px 0;font-size:14px;color:var(--body)}details{background:var(--card);border:1px solid var(--border);border-radius:18px;margin:10px 0}summary{cursor:pointer;padding:14px 18px;font-weight:700;font-size:15px;list-style:none}summary::-webkit-details-marker{display:none}summary::before{content:"Q. ";color:var(--accent)}details p{padding:0 18px 16px;font-size:14px;color:var(--body);line-height:1.8}.idea{background:linear-gradient(135deg,var(--soft),var(--soft2));border:1px solid var(--accent);border-radius:18px;padding:24px 22px;margin:20px 0}.idea .lb{font-size:12px;letter-spacing:.16em;color:var(--accent);margin-bottom:6px}.idea .nm{font-size:22px;font-weight:800;line-height:1.35;margin-bottom:6px}.idea .ba{font-size:14px;color:var(--muted);margin-bottom:14px}.idea ul{padding-left:20px}.idea li{font-size:15px;margin:8px 0;color:var(--text);line-height:1.7}.idea .ask{margin-top:16px;font-size:13px;color:var(--muted)}.idea .ask a{color:var(--link)}.sources{margin-top:56px;padding-top:24px;border-top:1px solid var(--border)}.sources h2{font-size:14px;margin:0 0 12px;color:var(--muted);letter-spacing:.1em}.sources li{font-size:12px;color:var(--muted);margin:8px 0;line-height:1.7}.sources a{color:var(--link);word-break:break-all}.stats{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:20px 0 24px}.stat{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:18px 16px}.stat b{display:block;font-size:clamp(24px,7vw,32px);font-weight:800;color:var(--accent);line-height:1.2;margin-bottom:4px}.stat span{display:block;font-size:13px;color:var(--body);line-height:1.6}a:focus-visible,summary:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}.hero{margin:0 0 24px}.hero img{display:block;width:100%;height:auto;border-radius:14px;background:var(--card,#0C0C1A)}.hero figcaption{font-size:12px;color:var(--muted);margin-top:6px;line-height:1.5;padding:0 20px}.hero figcaption a{color:var(--link,#7dd3fc)}@media(max-width:640px){.hero{margin-left:-20px;margin-right:-20px}.hero img{border-radius:0}.hero figcaption{padding:0 20px}}.related{margin-top:56px;padding-top:24px;border-top:1px solid var(--border)}.related h2{font-size:14px;margin:0 0 12px;color:var(--muted);letter-spacing:.1em}.related a{display:flex;gap:12px;align-items:center;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:10px;margin:10px 0;text-decoration:none;color:var(--text)}.related a:hover{border-color:var(--accent)}.related .rt{flex:0 0 72px;width:72px;height:72px;border-radius:8px;overflow:hidden;background:var(--border)}.related .rt img{display:block;width:100%;height:100%;object-fit:cover}.related .rb{min-width:0}.related small{display:block;font-size:12px;color:var(--accent);font-weight:400;margin-bottom:2px}.related .rb p{font-size:15px;font-weight:700;line-height:1.4;margin:0}.prevnext{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:24px}.prevnext a{display:block;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 14px;text-decoration:none;color:var(--text)}.prevnext a:hover{border-color:var(--accent)}.prevnext small{display:block;font-size:12px;color:var(--accent);margin-bottom:4px}.prevnext p{font-size:13px;font-weight:700;line-height:1.4;margin:0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}@media(max-width:480px){.prevnext{grid-template-columns:1fr}}a.tag{text-decoration:none}footer{border-top:1px solid var(--border);padding:24px;text-align:center;font-size:12px;color:var(--muted)}footer a{color:var(--muted)}.evidence{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin:-8px 0 24px;font-size:13px;color:var(--muted)}.evidence .lv{background:var(--card);border:1px solid var(--border);border-radius:999px;padding:4px 12px;color:var(--text);font-weight:700}.evidence .lv b{color:var(--accent);letter-spacing:.08em}.unknown{background:var(--card);border:1px dashed var(--accent2);border-radius:20px;padding:18px 20px;margin:16px 0}.unknown li{font-size:15px;margin:6px 0 6px 18px;color:var(--body)}.body ul li{margin:6px 0 6px 18px}.tbl{width:100%;border-collapse:collapse;margin:16px 0 20px;font-size:14px}.tbl th,.tbl td{border:1px solid var(--border);padding:10px 12px;text-align:left;vertical-align:top;line-height:1.6}.tbl th{background:var(--soft);color:var(--text);font-size:13px}.tbl td{color:var(--body)}.ref{font-size:12px;color:var(--accent);margin-left:2px}</style>
+<style>nav.prevnext{position:static;height:auto;padding:0;background:none;border:0;backdrop-filter:none;-webkit-backdrop-filter:none;z-index:auto}</style>
+</head>
+<body>
+<nav>
+  <a href="https://seadice.win/" class="nav-logo">SEADICE</a>
+  <a href="/" class="r">AI時代の困りごと</a>
+</nav>
+<article>
+  <p class="breadcrumb"><a href="https://seadice.win/">HOME</a> / <a href="/">AI時代の困りごと</a> / AIスピーカーやAIアシスタントは会話を聞いている？送るのは呼びかけの後だけの設計だが、聞き間違いの誤作動は研究で確かめられている</p>
+  <a class="tag" href="/category/privacy/">プライバシー・個人情報</a>
+  <h1>AIスピーカーやAIアシスタントは会話を聞いている？送るのは呼びかけの後だけの設計だが、聞き間違いの誤作動は研究で確かめられている</h1>
+  <p class="meta">約9分で読めます</p>
+
+  <div class="evidence"><span class="lv">わかっている度 <b>★★☆</b> 中</span><span>研究4本・公的資料1件・公式ヘルプ4件を整理</span></div>
+
+  <figure class="hero"><img fetchpriority="high" decoding="async" src="/img/smart-speaker-always-listening.webp" width="960" height="686" alt="古いラジオ受信機"><figcaption>Photo: Alex P. Kok / <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank" rel="noopener">CC BY-SA 4.0</a> / <a href="https://commons.wikimedia.org/wiki/File:Vacuum_tube_radio_receiver_Philips_680A_IMG_7964.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></figcaption></figure>
+
+  <div class="ai-badge"><strong>AIによる調査</strong><span>公開された研究と公的機関のデータ・指針をAIが調べて整理しました（商品の紹介や診断はしていません。出典は末尾）。</span></div>
+
+  <div class="body">
+    <p class="lead">スマートスピーカーやスマホのAIアシスタントが、ふだんの会話まで録音しているのでは。そう気になる人は少なくありません。メーカーの公式な説明では、端末は呼びかけの言葉だけを聞き分け、聞こえてから音声を送る仕組みです。ただ研究では、呼びかけていないのに反応する「誤作動」が実際に起きていました。わかっていることと、設定で自分で確かめられることを整理します。</p>
+
+    <div class="summary">
+      <h2>3行でわかる</h2>
+      <ol>
+        <li>公式の説明では、端末は「アレクサ」などの呼びかけの言葉（ウェイクワード）を待ち、聞こえたときから音声をクラウドに送ります。送っている間はライトで知らせます。</li>
+        <li>テレビ番組の音声134時間を7台のスピーカーに聞かせた研究では、呼びかけなしの誤作動が、最も多い組み合わせで1時間に0.95回ありました。多くは数秒でしたが、10秒以上続くものもありました。</li>
+        <li>録音が残っているか、人が確認することがあるか、いつ消すかは、各社の設定画面で確かめて変えられます。2019年の調査では、利用者の半数近くがそれを知りませんでした。</li>
+      </ol>
+    </div>
+
+    <h2 class="sec"><span class="n">01 結論から言うと</span>AIスピーカーは、ずっと会話を録音している？</h2>
+    <p class="answer">ずっと録音して送っているわけではありません。端末は呼びかけの言葉だけを聞き分け、聞こえてから音声を送る設計です。ただし、別の音を呼びかけと聞き間違えて録音が始まる誤作動は、研究で確かめられています。</p>
+    <p class="t">Amazonの公式FAQでは、Echoシリーズの端末はウェイクワードと一致する音のパターンだけを検出するよう設計されているとしています。ウェイクワードを検出しない限り（またはボタンで起動しない限り）、音声は保存もクラウドへの送信もされないと説明しています。<span class="ref">[5]</span></p>
+    <p class="t">呼びかけを検出すると、その直前の数分の一秒を含む音声が送られ始めます。Echoではライトリングが青く光り、送っていることを知らせます。<span class="ref">[5]</span> GoogleアシスタントやSiriも、音声を保存するかどうかを設定で選べる形になっています。<span class="ref">[6][7]</span></p>
+    <p class="t">子ども向けのAIおもちゃが声を集める問題は、AI時代の子育ての<a href="https://kosodate.seadice.win/ai-smart-toy-voice-privacy/">AI搭載の知育おもちゃ・スピーカーが子どもの声を録音している</a>で扱っています。この記事は、大人が使うスピーカーとアシスタントの仕組みと設定に絞ります。</p>
+
+    <h2 class="sec"><span class="n">02 研究とデータでわかっていること</span>呼びかけていないのに、どのくらい反応する？</h2>
+    <p class="answer">テレビの音声を聞かせた実験では、誤作動は「ときどき起きる」程度でした。最も多い機種と番組の組み合わせで1時間に0.95回です。多くは数秒で終わりましたが、10秒以上続くものもありました。</p>
+    <div class="stats">
+      <div class="stat"><b>1時間0.95回</b><span>誤作動が最も多かった機種と番組の組み合わせでの回数（米国・英国、テレビ番組134時間、2020年発表）</span></div>
+      <div class="stat"><b>10秒以上</b><span>一部の機種で、誤作動の1割が続いた長さ（同じ研究）</span></div>
+      <div class="stat"><b>350件以上</b><span>11台のスピーカーで確かめられ、研究用に公開された「聞き間違いを起こす音」（2022年発表）</span></div>
+      <div class="stat"><b>半数近く</b><span>録音が保存され、自分で確認できると知らなかった持ち主の割合（116人、2019年発表）</span></div>
+    </div>
+
+    <div class="study">
+      <p class="who">Duboisら（2020）<span class="ref">[1]</span></p>
+      <p class="find">米国と英国で、7台のスマートスピーカー（4種類の音声アシスタント）の近くに、12のテレビ番組の音声134時間（100万語以上）を流しました。誤作動は最も多い組み合わせで1時間に0.95回、1万語あたり1.43回でした。</p>
+      <p class="find">誤作動の多くは短く、中央値では最も長い機種でも4秒ほどでした。ただ一部の機種では、誤作動の10%が10秒以上続きました。著者らは、私的な会話の一部を録音するのに十分な長さだと指摘しています。</p>
+      <p class="find">同じ音声でも毎回反応するとは限らず、多くの誤作動はくり返し再現されませんでした。呼びかけに似た音の言葉が原因のこともありましたが、説明されていない隠れた呼びかけの言葉の証拠は見つかりませんでした。</p>
+      <p class="cond">対象: 英語のテレビ番組の音声を流した実験 ／ 限界: ふだんの家庭の会話や日本語にそのまま当てはまるとは限らない。端末のソフトは更新され続けている。</p>
+    </div>
+    <div class="study">
+      <p class="who">Schönherrら（2022）<span class="ref">[2]</span></p>
+      <p class="find">8つのメーカーの11台のスマートスピーカーに、テレビ番組やニュースなど日常の音声を聞かせ、呼びかけでないのに反応する音を調べました。見つかった音は全部で数百件にのぼり、確かめられた350件以上を研究用に公開しています。</p>
+      <p class="cond">対象: 複数の言語の音声アシスタント ／ 限界: 反応しやすい音を探す実験で、家庭でどのくらいの頻度で起きるかを示したものではない。</p>
+    </div>
+    <div class="study">
+      <p class="who">Malkinら（2019）<span class="ref">[3]</span></p>
+      <p class="find">AmazonとGoogleのスマートスピーカーの持ち主116人に、実際に保存されていた自分のやり取りを見せながら調べました。半数近くが、録音がずっと保存され、自分で確認できることを知りませんでした。</p>
+      <p class="find">履歴を見たことがあるのは4分の1ほどで、削除したことがある人はごくわずかでした。自分の録音より、子どもや来客の録音の扱いを気にする傾向がありました。</p>
+      <p class="cond">対象: スマートスピーカーの持ち主116人 ／ 限界: 2019年当時の設定での調査。今は保存しない設定や自動削除を選べる（各社の公式ヘルプ）。</p>
+    </div>
+    <div class="study">
+      <p class="who">Lauら（2018）<span class="ref">[4]</span></p>
+      <p class="find">利用者17人の日記調査とインタビュー、使っていない17人へのインタビューです。利用者は心配をあまり口にしませんでしたが、リスクの理解は不完全でした。用意されているプライバシーの設定は、ほとんど使われていませんでした。</p>
+      <p class="cond">対象: 利用者17人と非利用者17人 ／ 限界: 少人数の聞き取り調査で、利用者全体の割合を示すものではない。</p>
+    </div>
+
+    <p class="t">公式の説明と研究を並べると、確かめ方が見えてきます。</p>
+    <table class="tbl">
+      <thead><tr><th>場面</th><th>わかっていること</th><th>自分で確かめる方法</th></tr></thead>
+      <tbody>
+        <tr><td>待っている間</td><td>端末は呼びかけの言葉だけを聞き分け、音声は送らない設計<span class="ref">[5]</span></td><td>ライトが消えているか見る</td></tr>
+        <tr><td>呼びかけた後</td><td>直前の一瞬を含めて録音し、クラウドへ送る<span class="ref">[5]</span></td><td>ライトや通知音で送信中とわかる</td></tr>
+        <tr><td>聞き間違い</td><td>実験では最も多い組み合わせで1時間0.95回<span class="ref">[1]</span></td><td>履歴に覚えのない録音がないか見る</td></tr>
+        <tr><td>人による確認</td><td>各社とも、設定によって一部を人が確認することがある<span class="ref">[5][6][8]</span></td><td>「改善への利用」の設定を見る</td></tr>
+        <tr><td>削除</td><td>履歴から消せるが、ほかの記録が残る場合がある<span class="ref">[5][6]</span></td><td>自動削除や「保存しない」を選ぶ</td></tr>
+      </tbody>
+    </table>
+
+    <h2 class="sec"><span class="n">03 まだわかっていないこと</span>日本語の家庭でも、同じくらい誤作動する？</h2>
+    <p class="answer">日本語の会話で誤作動の頻度を測った研究は見つかりませんでした。紹介した実験は主に英語の音声で、機種やソフトの更新でも結果は変わりえます。履歴にすべてが記録されているかも、外からは確かめにくい点です。</p>
+    <div class="unknown"><ul>
+      <li>日本語の会話や日本の家庭で、どのくらい誤作動が起きるかは調べられていません。</li>
+      <li>Duboisらの実験では、カメラでは誤作動が見えたのに、クラウドの履歴に残っていないものが4件ありました。そのうち3件では、音声を送った形跡が通信にありました。履歴だけで全部を確かめられるとは限りません。<span class="ref">[1]</span></li>
+      <li>人が確認する録音がどのくらいの割合かは、公式ページに具体的な数字がありません。Amazonは「極めて限定的なサンプル」と説明しています。<span class="ref">[5]</span></li>
+      <li>削除した録音が本当にすべて消えたかを、利用者が確かめる方法は限られます。米国では2023年、子どもの音声の文字起こしが削除の依頼後も一部のデータベースに残っていたと主張して、連邦取引委員会（FTC）と司法省がAmazonを訴えました。2,500万ドルの民事制裁金を含む命令案が示されています。<span class="ref">[9]</span></li>
+    </ul></div>
+
+    <h2 class="sec"><span class="n">04 今日からできること</span>録音されているか、設定で確かめるには？</h2>
+    <p class="answer">音声の履歴を開いて覚えのない録音がないか見て、保存と「改善への利用」の設定を確かめます。必要なら自動削除や、マイクをオフにする機能を使います。どれも無料で、1台5〜10分ほどでできます。</p>
+    <div class="step"><div class="num">1</div><div><p class="ttl">ライトの意味を覚えておく</p><p class="dsc">Echoでは、青く光っている間が音声を送っているときです。マイクをオフにすると赤いライトがつきます。送るたびに短い通知音を鳴らす設定もあります。<span class="ref">[5]</span> 呼びかけていないのに光ったら、履歴を確かめる合図にします。</p><p class="time">目安 1分</p></div></div>
+    <div class="step"><div class="num">2</div><div><p class="ttl">音声の履歴を開いて、覚えのない録音がないか見る</p><p class="dsc">Alexaはアプリの「その他」から「Alexaプライバシー」、またはamazon.co.jp/alexaprivacysettingsで、録音を聞いて個別や一括で消せます。<span class="ref">[5]</span> Googleは、Googleアカウントの「データとプライバシー」にある「ウェブとアプリのアクティビティ」から確かめて消せます。<span class="ref">[6]</span> iPhoneは「設定」から「Siri」の「Siriと音声入力の履歴」で、保存された文字起こしを削除できます。<span class="ref">[7]</span></p><p class="time">目安 5分</p></div></div>
+    <div class="step"><div class="num">3</div><div><p class="ttl">保存と「改善への利用」の設定を確かめる</p><p class="dsc">Alexaは、3か月または18か月で自動削除するか、録音を保存しない設定を選べます（保存しない場合も、文字のデータは30日間残ります）。改善への利用も同じ画面で管理できます。<span class="ref">[5]</span> Googleは「音声アクティビティを含める」のチェックで録音の保存を選べます。<span class="ref">[6]</span> iPhoneは「設定」の「プライバシーとセキュリティ」から「解析と改善」で、「Siriと音声入力の改善」を確かめます。<span class="ref">[8]</span></p><p class="time">目安 1台5分</p></div></div>
+    <div class="step"><div class="num">4</div><div><p class="ttl">大事な話の間は、マイクを切る</p><p class="dsc">Echoのマイクオフボタンを押すと、呼びかけても録音や送信はされません。<span class="ref">[5]</span> iPhoneで呼びかけを使わないなら、「設定」の「Siri」で「Siriに話しかける」をオフにできます。<span class="ref">[8]</span></p><p class="time">目安 その場で5秒</p></div></div>
+    <p class="t">Googleでは、音声の保存をオフにしても、それまでに保存された音声は消えません。オフにしたあと、履歴から削除しておきます。<span class="ref">[6]</span> チャット型のAIに入力した内容の扱いは<a href="/chatgpt-input-data-settings/">ChatGPTに個人情報や会社の情報を入力しても大丈夫？</a>に、声や写真がAIの学習に使われる心配は<a href="/sns-photo-voice-ai-training-settings/">自分の写真や声がAIの学習に使われるのが不安</a>にまとめています。</p>
+
+    <h2 class="sec"><span class="n">05</span>よくある質問</h2>
+    <details open><summary>スマホのAIアシスタントも、ふだんの会話を録音している？</summary><p>Appleの公式説明では、話した内容が端末の中だけで処理されているかはSiriの設定に表示され、「Siriと音声入力の改善」を選ばない限り、音声がAppleに保存されることはありません。Googleアシスタントも、音声の保存は本人がオンにしない限りオフです。呼びかけの聞き間違いで録音が始まることはあるので、履歴を時々見ておくと安心です。</p></details>
+    <details><summary>録音を削除すれば、すべて消える？</summary><p>音声と文字起こしはクラウドから削除されますが、すべてが消えるとは限りません。Amazonの公式FAQでは、頼んだ操作の記録などは残る場合があり、改善に使われたデータで学習したシステムは引き続き使われる場合があるとしています。</p></details>
+    <details><summary>録音を人が聞くことはある？</summary><p>あります。Appleは「Siriと音声入力の改善」を選んだ場合、守秘義務に従うApple社員だけが音声にアクセスできるとしています。Googleは音声の保存をオンにした場合、訓練を受けたレビュー担当者が聞き取ることがあるとしています。Amazonは極めて限定的なサンプルを人が確認するとし、設定で管理できます。</p></details>
+
+    <!--gstep--><div role="navigation" aria-label="この悩みを順に読む" style="background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 18px;margin:32px 0;font-size:14px;line-height:1.9"><b>「プライバシー・個人情報」を順に読む</b><br><b>知る（この記事）</b> → <a href="/guide/privacy/#prepare" style="color:var(--link)">備える</a> → <a href="/guide/privacy/#happened" style="color:var(--link)">起きたとき</a> → <a href="/guide/privacy/#recover" style="color:var(--link)">立て直す</a><br><a href="/guide/privacy/" style="color:var(--link);font-weight:700">この悩みのガイドを見る</a></div><!--/gstep--><!--related--><section class="related"><h2>関連記事</h2><a href="/face-recognition-camera-personal-data/"><span class="rt"><img src="/img/face-recognition-camera-personal-data-sm.webp" alt="" width="200" height="200" loading="lazy" decoding="async"></span><span class="rb"><small>プライバシー・個人情報</small><p>顔認証やAIカメラで自分の顔が登録されている？顔のデータは個人情報で、登録の有無は運営者に開示を求められる</p></span></a><a href="/ai-input-leak-after-report/"><span class="rt"><img src="/img/ai-input-leak-after-report-sm.webp" alt="" width="200" height="200" loading="lazy" decoding="async"></span><span class="rb"><small>プライバシー・個人情報</small><p>会社の情報や個人情報をAIに入力してしまった。あとからできるのは、会話の削除と社内への早めの報告</p></span></a><a href="/ai-service-data-breach-notice/"><span class="rt"><img src="/img/ai-service-data-breach-notice-sm.webp" alt="" width="200" height="200" loading="lazy" decoding="async"></span><span class="rb"><small>プライバシー・個人情報</small><p>AIサービスから個人情報が漏れたと通知が来た。二次被害を防ぐ鍵は、漏れた項目に合わせた手当てと、便乗する連絡への警戒</p></span></a></section><!--/related-->
+    <!--prevnext--><nav class="prevnext"><a href="/chatgpt-input-data-settings/"><small>前の記事</small><p>ChatGPTに個人情報や会社の情報を入力しても大丈夫？入力したデータの行き先と、学習を止める設定</p></a><a href="/generative-ai-school-before-use/"><small>次の記事</small><p>学校で生成AIを使う前に、生徒が知っておきたいこと。国の指針では、利用規約の年齢・入力しない個人情報・出力の確かめ方の3つが土台</p></a></nav><!--/prevnext-->
+    <div class="sources">
+      <h2>出典</h2>
+      <ol>
+        <li>Dubois DJ, Kolcun R, Mandalari AM, Paracha MT, Choffnes D, Haddadi H (2020). When Speakers Are All Ears: Characterizing Misactivations of IoT Smart Speakers. Proceedings on Privacy Enhancing Technologies, 2020(4), 255–276. <a href="https://doi.org/10.2478/popets-2020-0072" target="_blank" rel="noopener">https://doi.org/10.2478/popets-2020-0072</a></li>
+        <li>Schönherr L, Golla M, Eisenhofer T, Wiele J, Kolossa D, Holz T (2022). Exploring accidental triggers of smart speakers. Computer Speech &amp; Language, 73, 101328. <a href="https://doi.org/10.1016/j.csl.2021.101328" target="_blank" rel="noopener">https://doi.org/10.1016/j.csl.2021.101328</a></li>
+        <li>Malkin N, Deatrick J, Tong A, Wijesekera P, Egelman S, Wagner D (2019). Privacy Attitudes of Smart Speaker Users. Proceedings on Privacy Enhancing Technologies, 2019(4), 250–271. <a href="https://doi.org/10.2478/popets-2019-0068" target="_blank" rel="noopener">https://doi.org/10.2478/popets-2019-0068</a></li>
+        <li>Lau J, Zimmerman B, Schaub F (2018). Alexa, Are You Listening? Privacy Perceptions, Concerns and Privacy-seeking Behaviors with Smart Speakers. Proceedings of the ACM on Human-Computer Interaction, 2(CSCW), 1–31. <a href="https://doi.org/10.1145/3274371" target="_blank" rel="noopener">https://doi.org/10.1145/3274371</a></li>
+        <li>Amazon. Alexa、Echoシリーズ端末及びプライバシーに関するFAQ（2026年10月10日確認）. <a href="https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V" target="_blank" rel="noopener">https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V</a></li>
+        <li>Google. ウェブとアプリのアクティビティの音声録音を管理する（Google 検索 ヘルプ、2026年10月10日確認）. <a href="https://support.google.com/websearch/answer/6030020?hl=ja" target="_blank" rel="noopener">https://support.google.com/websearch/answer/6030020?hl=ja</a></li>
+        <li>Apple. Siri、音声入力とプライバシー（2026年10月10日確認）. <a href="https://www.apple.com/jp/legal/privacy/data/ja/ask-siri-dictation/" target="_blank" rel="noopener">https://www.apple.com/jp/legal/privacy/data/ja/ask-siri-dictation/</a></li>
+        <li>Apple. “Siriと音声入力の改善”とプライバシー（2026年10月10日確認）. <a href="https://www.apple.com/jp/legal/privacy/data/ja/improve-siri-dictation/" target="_blank" rel="noopener">https://www.apple.com/jp/legal/privacy/data/ja/improve-siri-dictation/</a></li>
+        <li>Federal Trade Commission (2023). FTC and DOJ Charge Amazon with Violating Children's Privacy Law by Keeping Kids' Alexa Voice Recordings Forever and Undermining Parents' Deletion Requests. <a href="https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-doj-charge-amazon-violating-childrens-privacy-law-keeping-kids-alexa-voice-recordings-forever" target="_blank" rel="noopener">https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-doj-charge-amazon-violating-childrens-privacy-law-keeping-kids-alexa-voice-recordings-forever</a></li>
+      </ol>
+    </div>
+  </div>
+</article>
+<footer><p><a href="/">AI時代の困りごと</a> &nbsp;|&nbsp; <a href="/about/">このメディアについて</a> &nbsp;|&nbsp; <a href="/sources/">出典と検証の方法</a> &nbsp;|&nbsp; <a href="/disclaimer/">免責事項</a> &nbsp;|&nbsp; <a href="https://seadice.win/">SEADICE</a> &nbsp;|&nbsp; &copy; SEADICE</p></footer>
+</body>
+</html>

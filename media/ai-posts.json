@@ -1,5 +1,14 @@
 [
  {
+  "slug": "smart-speaker-always-listening",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-10",
+  "title": "AIスピーカーやAIアシスタントは会話を聞いている？送るのは呼びかけの後だけの設計だが、聞き間違いの誤作動は研究で確かめられている",
+  "summary": "音声は呼びかけの後に送る設計。ただ実験では誤作動が最大1時間0.95回。履歴・保存・人による確認は設定で確かめられる。"
+ },
+ {
   "slug": "ai-search-summary-accuracy",
   "category": "AIに頼りすぎ",
   "type": "guide",
