@@ -343,8 +343,16 @@ MATRIX_CSS = (".mrow{display:grid;gap:12px;grid-template-columns:1fr}@media(min-
 def matrix_guides(cfg, posts, cats, images, types, theme, favicon, css, card):
     """media/{slug}-matrix.json に "guide" があれば、表の行ごとのガイド /guide/{行id}/ と一覧 /guide/ を作る。
     行のページは列（段階）の順に記事を並べ、記事が無い段階は出さない。記事側には関連記事の直前に「この悩みを順に読む」を入れる。
-    -guides.json（手書きのガイド）があるメディアでは使わない（/guide/ が衝突するため）。"""
+    -guides.json（手書きのガイド）があるメディアでは使わない（/guide/ が衝突するため）。
+    表ファイルが無く、記事の "stage" でマスを数えるメディア（ai など）は、設定の "gridGuide"
+    （guide の中身＋ stages: [{id, stage, label, q}]）から、行＝カテゴリ・列＝段階の表をその場で組み立てる。"""
     m = _load(cfg["slug"], "matrix")
+    if not m and cfg.get("gridGuide"):
+        gg = cfg["gridGuide"]
+        m = {"guide": gg, "cols": gg["stages"], "rows": [
+            {"id": c["id"], "label": c["name"], "lead": c.get("guideLead", ""), "cells": {
+                s["id"]: [p["slug"] for p in posts if p.get("category") == c["name"] and p.get("stage") == s["stage"]] for s in gg["stages"]}}
+            for c in cfg["categories"] if isinstance(c, dict)]}
     if not m or not m.get("guide") or _load(cfg["slug"], "guides"):
         return []
     import re
