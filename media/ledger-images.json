@@ -1382,5 +1382,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Desk_with_notebook_pens_and_glasses.jpg/500px-Desk_with_notebook_pens_and_glasses.jpg",
   "og": "https://ledger.seadice.win/img/spending-happiness-reflection-check.jpg",
   "local": true
+ },
+ "couples-money-talk-tips": {
+  "file": "File:Delicious coffee and pastries on a wooden table in a cozy cafe setting during a sunny morning.jpg",
+  "src": "/img/couples-money-talk-tips.jpg",
+  "src640": "/img/couples-money-talk-tips-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "木のテーブルに置かれたコーヒーと焼き菓子",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Delicious_coffee_and_pastries_on_a_wooden_table_in_a_cozy_cafe_setting_during_a_sunny_morning.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Delicious_coffee_and_pastries_on_a_wooden_table_in_a_cozy_cafe_setting_during_a_sunny_morning.jpg/960px-Delicious_coffee_and_pastries_on_a_wooden_table_in_a_cozy_cafe_setting_during_a_sunny_morning.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Delicious_coffee_and_pastries_on_a_wooden_table_in_a_cozy_cafe_setting_during_a_sunny_morning.jpg/500px-Delicious_coffee_and_pastries_on_a_wooden_table_in_a_cozy_cafe_setting_during_a_sunny_morning.jpg",
+  "og": "https://ledger.seadice.win/img/couples-money-talk-tips.jpg",
+  "local": true
  }
 }
