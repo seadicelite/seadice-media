@@ -7,8 +7,8 @@
     {"id": "use", "label": "使う", "q": "自分で確かめられるチェック表・計算表・ツール（記事内のチェックリストも可）"}
   ],
   "rows": [
-    {"id": "impulse", "label": "衝動買い・ネット通販", "cells": {"why": ["why-impulse-buying-happens", "crowding-fomo-psychology", "scarcity-limited-stock-psychology", "choice-overload-shopping", "bulk-buying-stockpile-consumption", "payday-spending-spike"], "notice": [], "fix": [], "after": [], "use": []}},
-    {"id": "sale", "label": "セール・割引・ポイント", "cells": {"why": ["sale-price-anchoring", "coupon-transaction-utility", "free-shipping-zero-price", "left-digit-price-980", "points-reward-overspending"], "notice": [], "fix": [], "after": [], "use": []}},
+    {"id": "impulse", "label": "衝動買い・ネット通販", "cells": {"why": ["why-impulse-buying-happens", "crowding-fomo-psychology", "scarcity-limited-stock-psychology", "choice-overload-shopping", "bulk-buying-stockpile-consumption", "payday-spending-spike"], "notice": [], "fix": ["online-impulse-buying-tips"], "after": [], "use": []}},
+    {"id": "sale", "label": "セール・割引・ポイント", "cells": {"why": ["sale-price-anchoring", "coupon-transaction-utility", "free-shipping-zero-price", "left-digit-price-980", "points-reward-overspending"], "notice": ["sale-buying-self-check"], "fix": [], "after": [], "use": []}},
     {"id": "cashless", "label": "キャッシュレス・分割・リボ", "cells": {"why": ["cashless-spending", "installment-bnpl-spending", "revolving-payment-anchoring-bias", "small-change-invisible-spending"], "notice": [], "fix": [], "after": [], "use": []}},
     {"id": "reward", "label": "ご褒美・ストレス買い", "cells": {"why": ["self-reward-licensing", "retail-therapy-mood-shopping"], "notice": [], "fix": [], "after": [], "use": []}},
     {"id": "status", "label": "見栄・人との比較", "cells": {"why": ["social-comparison-spending", "status-brand-compensatory-consumption", "salary-comparison-satisfaction", "tipping-generosity-cues"], "notice": [], "fix": [], "after": [], "use": []}},
