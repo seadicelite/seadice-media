@@ -1,5 +1,14 @@
 [
  {
+  "slug": "kids-students-ai-use-rate-survey",
+  "category": "子ども・学校",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-10",
+  "title": "子どもや学生はどのくらいAIを使っている？国の調査では高校生の46.2%、ただし数字は聞き方で大きく変わる",
+  "summary": "こども家庭庁の調査で生成AIを使う高校生は46.2%、10歳以上の小学生8.6%。15〜19歳9割超の調査もあり、差は聞き方による。"
+ },
+ {
   "slug": "ai-scam-rebuild-household-finances",
   "category": "詐欺・なりすまし",
   "type": "guide",

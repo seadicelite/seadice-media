@@ -882,5 +882,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/500px-A_notebook.jpg",
   "og": "https://ai.seadice.win/img/ai-scam-rebuild-household-finances-og.jpg",
   "local": true
+ },
+ "kids-students-ai-use-rate-survey": {
+  "file": "https://live.staticflickr.com/1890/43679970155_3e48668eda_b.jpg",
+  "src": "/img/kids-students-ai-use-rate-survey.webp",
+  "src640": "/img/kids-students-ai-use-rate-survey-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "誰もいない教室に並ぶ机と椅子",
+  "artist": "Semtrio",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "page": "https://www.flickr.com/photos/163837264@N07/43679970155",
+  "source_label": "Flickr",
+  "remote": "https://live.staticflickr.com/1890/43679970155_3e48668eda_b.jpg",
+  "remote640": "https://live.staticflickr.com/1890/43679970155_3e48668eda_b.jpg",
+  "og": "https://ai.seadice.win/img/kids-students-ai-use-rate-survey-og.jpg",
+  "local": true
  }
 }
