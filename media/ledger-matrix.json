@@ -69,7 +69,9 @@
         "notice": [
           "sale-buying-self-check"
         ],
-        "fix": [],
+        "fix": [
+          "sale-overbuying-opportunity-cost"
+        ],
         "after": [],
         "use": []
       }

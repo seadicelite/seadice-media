@@ -1115,5 +1115,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mini_grocery_toy_pushcart.jpg/500px-Mini_grocery_toy_pushcart.jpg",
   "og": "https://ledger.seadice.win/img/impulse-buying-pre-purchase-checklist.jpg",
   "local": true
+ },
+ "sale-overbuying-opportunity-cost": {
+  "file": "File:2021-06-28 E-ink price tag in Sydney supermarket.jpg",
+  "src": "/img/sale-overbuying-opportunity-cost.jpg",
+  "src640": "/img/sale-overbuying-opportunity-cost-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "値下げを示すスーパーの電子値札",
+  "artist": "Maksym Kozlenko",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2021-06-28_E-ink_price_tag_in_Sydney_supermarket.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2021-06-28_E-ink_price_tag_in_Sydney_supermarket.jpg/960px-2021-06-28_E-ink_price_tag_in_Sydney_supermarket.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2021-06-28_E-ink_price_tag_in_Sydney_supermarket.jpg/500px-2021-06-28_E-ink_price_tag_in_Sydney_supermarket.jpg",
+  "og": "https://ledger.seadice.win/img/sale-overbuying-opportunity-cost.jpg",
+  "local": true
  }
 }
