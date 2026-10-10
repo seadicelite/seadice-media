@@ -4189,11 +4189,11 @@ Satakeら（2026）[15]
 
 まだわかっていません。AIへの依存と孤独や気分の落ち込みが一緒に見られる研究はありますが、多くは1回きりの調査です。AIが原因なのか、もともとつらい人がAIを使うのかは区別できていません。
 
-- 51本の研究を整理したレビューでは、AIへの強い依存と、孤独感・人づきあいの不安・気分の落ち込みなどが同時に見られる研究が中心でした。著者は、これらは原因や結果を示すものではないとしています[13]。
+- 51本の文献（うち実証研究22本）を整理したレビューでは、AIへの強い依存と、孤独感・人づきあいの不安・気分の落ち込みなどが同時に見られる研究が中心でした。著者は、これらは原因や結果を示すものではないとしています[13]。
 
 - OSの時間制限や購入の承認が、AIの話し相手の使いすぎを防ぐかを確かめた研究は見つかりませんでした。
 
-- 高齢者の研究は、生成AIが広まる前のロボットや音声アシスタントが中心です。今の話し相手アプリで同じ結果になるかはわかりません。
+- 高齢者の研究は、ロボットや音声アシスタントが中心で、生成AI（大規模言語モデル）を使ったものは17本中1本だけでした。今の話し相手アプリで同じ結果になるかはわかりません。
 
 ## 04 今日からできること使う時間と課金に、区切りをつけるには？
 
@@ -4265,13 +4265,13 @@ A. iPhoneの「承認と購入のリクエスト」や、Google Playの購入の
 
 - 国民生活センター (2024). 子どものオンラインゲーム　無断課金につながるあぶない場面に注意！！（2024年3月13日公表）. https://www.kokusen.go.jp/news/data/n-20240313_1.html
 
-- Nielsen P, Favez N, Liddle H, Rigter H (2019). Linking parental mediation practices to adolescents' problematic online screen use: A systematic literature review. Journal of Behavioral Addictions, 8(4). https://doi.org/10.1556/2006.8.2019.61
+- Nielsen P, Favez N, Liddle H, Rigter H (2019). Linking parental mediation practices to adolescents' problematic online screen use: A systematic literature review. Journal of Behavioral Addictions, 8(4), 649-663. https://doi.org/10.1556/2006.8.2019.61
 
-- Yan D (2026). A critical narrative synthesis of psychological correlates, measurement, and reported findings on conversational AI engagement and dependence-related constructs. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1827795
+- Yan D (2026). A critical narrative synthesis of psychological correlates, measurement, and reported findings on conversational AI engagement and dependence-related constructs. Frontiers in Psychology, 17, 1827795. https://doi.org/10.3389/fpsyg.2026.1827795
 
-- Yuan J, Zhou K, Zhang C (2026). From boredom to problematic AI chatbot use: a three-wave half-longitudinal mediation study of loneliness and dual-system self-control. Australian Journal of Psychology. https://doi.org/10.1080/00049530.2026.2737094
+- Yuan J, Zhou K, Zhang C (2026). From boredom to problematic AI chatbot use: a three-wave half-longitudinal mediation study of loneliness and dual-system self-control. Australian Journal of Psychology, 78(1). https://doi.org/10.1080/00049530.2026.2737094
 
-- Satake Y, Costello H, Naran N, Ishimaru D, Ikeda M, Howard R (2026). Autonomous conversational agents for loneliness, social isolation, depression, and anxiety in older people without cognitive impairment: Systematic review and meta-analysis. Psychological Medicine. https://doi.org/10.1017/s0033291725103073
+- Satake Y, Costello H, Naran N, Ishimaru D, Ikeda M, Howard R (2026). Autonomous conversational agents for loneliness, social isolation, depression, and anxiety in older people without cognitive impairment: Systematic review and meta-analysis. Psychological Medicine, 56, e27. https://doi.org/10.1017/s0033291725103073
 
 ---
 
@@ -4570,7 +4570,7 @@ URL: https://ai.seadice.win/shared-ai-fake-correction/
 
 - 32本の研究をまとめた分析では、誤情報を出した本人による訂正が効きやすく、時間がたつと効きにくくなっていました。
 
-- 訂正は元の情報ほど広まりません。誤情報が訂正の44倍以上流れた例もあり、直接伝えた相手には個別に伝えるのが確かです。
+- 訂正は元の情報ほど広まりません。誤情報が訂正の44倍以上流れた例もあり、直接伝えた相手には個別にも伝え直しましょう。
 
 ## 01 結論から言うと偽画像を広めてしまったら、消せば十分？
 
@@ -4580,7 +4580,7 @@ URL: https://ai.seadice.win/shared-ai-fake-correction/
 
 投稿を消せば、それ以上の広がりは防げます。けれど、見た人の記憶に残った画像は消えません。だから訂正を出す意味があります。
 
-総務省の教材も、国内で災害時に生成AIで作られた偽の映像がSNSに投稿され、本物と勘違いした人に広められた騒動を紹介しています。[9]
+総務省の教材も、国内で災害時に生成AIで作られた偽の画像がSNSに投稿され、本物と勘違いした人に広められた騒動を紹介しています。[9]
 
 ## 02 研究とデータでわかっていること訂正はどのくらい効き、どこまで届く？
 
@@ -4600,11 +4600,11 @@ WalterとTukachinsky（2020）[1]
 
 逆に、訂正の前に誤情報が何度も繰り返されたときや、誤情報から訂正まで時間があいたときは、効きにくくなっていました。
 
-対象: 訂正の効果を調べた実験研究 ／ 限界: 生成AIが広まる前の研究のまとめで、AIの画像や動画を扱ったものではない。
+対象: 訂正の効果を調べた実験研究 ／ 限界: 生成AIが広まる前の研究のまとめで、AIの画像や動画を扱ったものではない。「誤情報を出した本人」は実験で誤情報を伝えた側のことで、SNSで共有した個人の訂正を直接調べたものではない。
 
 Chanら（2017）[2]
 
-52の実験（6,878人）をまとめた分析です。誤情報を打ち消す訂正には大きな効果があった一方、訂正のあとも誤情報の影響ははっきり残っていました。誤情報を支持する理由を自分で考えていた人ほど、影響が残りやすくなっていました。
+52の実験（6,878人）をまとめた分析です。誤情報を打ち消す訂正には大きな効果があった一方、訂正のあとも誤情報の影響ははっきり残っていました。受け手が誤情報を支持する理由を自分で考えていたときほど、影響が残りやすく、訂正は効きにくくなっていました。
 
 著者らは、訂正には「違う」と言うだけでなく、新しい情報を含めることを勧めています。
 
@@ -4628,7 +4628,7 @@ Starbirdら（2014）[5]
 
 訂正は誤情報より遅れて現れ、誤情報は訂正がおさまったあとも少しずつ流れ続けました。別の話では、訂正を投稿した人たちは広めていた人たちとやりとりせず、別の会話をしていた様子でした。
 
-対象: 1つの事件の3つの噂 ／ 限界: 生成AIが広まる前のデータ。人違いの噂では差は約5倍で、話によって差は大きく違った。
+対象: 1つの事件の3つの噂 ／ 限界: 生成AIが広まる前のデータ。誤情報と訂正の差は、話によって大きく違った。
 
 Friggeriら（2014）[6]
 
@@ -4638,9 +4638,9 @@ Friggeriら（2014）[6]
 
 Rohman（2022）[7]
 
-ベトナムのハノイで2019年に100人に聞き取りをし、61人が自分の広めた誤情報を自分で正したと答えました。方法は、ネット上での謝罪、投稿の削除、訂正、そして電話や少人数での直接の会話でした。影響を受けたと思う相手に、個別に届ける形が目立ちました。
+ベトナムのハノイで2019年に100人に聞き取りをし、自分の広めた誤情報を自分で正すときのやり方を調べました。方法は、ネット上での謝罪、投稿の削除、訂正、そして電話や少人数での直接の会話でした。影響を受けたと思う相手に、個別に届ける形が目立ちました。
 
-対象: 知人のつながりで集めた100人 ／ 限界: 1つの都市の聞き取りで、訂正の効果は測っていない。
+対象: ハノイの18歳以上の100人 ／ 限界: 1つの都市の聞き取りで、訂正の効果は測っていない。
 
 研究を並べると、訂正を左右する条件が見えてきます。
 
@@ -4677,10 +4677,10 @@ Rohman（2022）[7]
 4. 元の投稿を整理する: 訂正を出したあと、元の投稿は削除するか、訂正がすぐわかる形で残します。保存された画面の画像や、ほかの人の投稿までは自分では消せません。
 目安 5分
 
-5. 自分を責めすぎない: 偽・誤情報を見聞きした人の4人に1人が広めていました。[8] 気づいて訂正するあなたの行動は、研究で効きやすいとされた「本人による訂正」そのものです。
+5. 自分を責めすぎない: 偽・誤情報を見聞きした人の4人に1人が広めていました。[8] 気づいて訂正するあなたの行動は、研究で効きやすいとされた「誤情報を出した側による訂正」に近いものです。
 目安 考え方の切り替えだけ
 
-法的な責任が気になる人もいると思います。総務省の教材は、災害時に生成AIの偽の映像を広めることは「法的な責任も問われうる行為」だと説明しています。また、事件の関係者だと誤って広められた人が、投稿者や拡散者の特定を進め、裁判で損害賠償を命じる判決が出た例も紹介しています。[9] 当てはまるかどうかの判断は、この記事ではできません。
+法的な責任が気になる人もいると思います。総務省の教材は、災害時に生成AIの偽の画像を広めることは「法的な責任も問われうる行為」だと説明しています。また、事件の関係者だと誤って広められた人が、投稿者や拡散者の特定を進め、裁判で損害賠償を命じる判決が出た例も紹介しています。[9] 当てはまるかどうかの判断は、この記事ではできません。
 
 次に同じことを防ぐ備えは選挙のディープフェイクに惑わされないために、相手のアカウントが人かどうか気になるときはSNSの相手がAIかもしれないにまとめています。偽の画像で実在の人が傷つけられていたら、被害を受けた側の手順はディープフェイク被害のあとは「証拠・報告・相談」の3つで紹介しています。
 
@@ -4695,7 +4695,7 @@ Q. 訂正しても、一度信じた人の考えは変わらないのでは？
 A. 訂正で誤った思い込みは減りますが、完全には消えないことが多いと研究でわかっています。52の実験をまとめた分析では、訂正には大きな効果があった一方、訂正後も誤情報の影響が残っていました。だから、早めに出どころを添えて伝えることが大切です。
 
 Q. 偽の画像を共有しただけで、責任を問われることはありますか？
-A. この記事では法的な判断はできません。総務省の教材は、災害時に生成AIで作られた偽の映像を広めることは法的な責任も問われうる行為だと説明し、誤った情報を広められた人が裁判を起こし、損害賠償を命じる判決が出た例も紹介しています。個別の心配は、法テラス・サポートダイヤル（0570-078374）で相談先を確かめてください。
+A. この記事では法的な判断はできません。総務省の教材は、災害時に生成AIで作られた偽の画像を広めることは法的な責任も問われうる行為だと説明し、誤った情報を広められた人が裁判を起こし、損害賠償を命じる判決が出た例も紹介しています。個別の心配は、法テラス・サポートダイヤル（0570-078374）で相談先を確かめてください。
 
 ## 出典
 
