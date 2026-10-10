@@ -145,12 +145,7 @@
       "url": "https://apps.apple.com/jp/app/id6813728815",
       "desc": "参考書の目次を撮ると、AIが章立てを読み取り、開始日と期限から無理のない学習スケジュールを組みます。無料・広告なし。",
       "slugs": [
-        "planning-fallacy-study-plans",
-        "goal-setting-high-or-small-steps",
-        "implementation-intentions-if-then-study",
         "review-timing",
-        "cramming-overnight-study",
-        "study-log-progress-monitoring",
         "study-log",
         "templates/study-plan"
       ]
@@ -243,6 +238,22 @@
         "tip-of-the-tongue-forgetting",
         "pretesting-before-reading",
         "ai-answers-and-learning"
+      ]
+    },
+    {
+      "id": "dokugaku-schedule",
+      "name": "独学スケジュールメーカー",
+      "appStoreId": "6813728815",
+      "icon": "/img/apps/dokugaku-schedule.webp",
+      "catch": "参考書の目次を撮ると、AIが章立てを読み取り、開始日と期限から無理のない学習スケジュールを組む",
+      "hubLead": "アプリの仕組み（期限から逆算した無理のない計画と、毎日の小さな区切り）の元になった研究の記事です。計画がなぜ倒れやすいのかを知ってから使うと、余裕の持たせ方や記録のつけ方がぶれにくくなります。",
+      "theme": "勉強の計画・目標設定・if-thenプラン・一夜漬け・記録など、計画と継続の記事だけに付ける。記憶・想起の記事（おもいだしトレーニングの担当）には付けない",
+      "articles": [
+        "planning-fallacy-study-plans",
+        "goal-setting-high-or-small-steps",
+        "implementation-intentions-if-then-study",
+        "cramming-overnight-study",
+        "study-log-progress-monitoring"
       ]
     }
   ]
