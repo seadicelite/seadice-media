@@ -576,5 +576,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/School_pencil_cases.jpg/500px-School_pencil_cases.jpg",
   "og": "https://ai.seadice.win/img/generative-ai-school-before-use-og.jpg",
   "local": true
+ },
+ "no-ai-exam-interview-freeze": {
+  "file": "https://cdn.stocksnap.io/img-thumbs/960w/ILDGSIYA6R.jpg",
+  "src": "/img/no-ai-exam-interview-freeze.webp",
+  "src640": "/img/no-ai-exam-interview-freeze-sm.webp",
+  "w": 960,
+  "h": 641,
+  "alt": "色紙の上のメモ用紙と色鉛筆",
+  "artist": "Artsy Crafty",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "page": "https://stocksnap.io/photo/office-supplies-ILDGSIYA6R",
+  "source_label": "Stocksnap",
+  "remote": "https://cdn.stocksnap.io/img-thumbs/960w/ILDGSIYA6R.jpg",
+  "remote640": "https://cdn.stocksnap.io/img-thumbs/960w/ILDGSIYA6R.jpg",
+  "og": "https://ai.seadice.win/img/no-ai-exam-interview-freeze-og.jpg",
+  "local": true
  }
 }

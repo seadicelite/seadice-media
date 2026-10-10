@@ -1,5 +1,14 @@
 [
  {
+  "slug": "no-ai-exam-interview-freeze",
+  "category": "考える力・集中",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-10",
+  "title": "AIなしだと、考えたり書いたりする手が止まる。試験や面接の前は、白紙から思い出す練習を本番の形でくり返す",
+  "summary": "AIのない試験や面接が近いなら、何も見ずに書く・話す練習を毎日10分。答え合わせはあとで、AIは確認役に回す。"
+ },
+ {
   "slug": "generative-ai-school-before-use",
   "category": "子ども・学校",
   "type": "guide",
