@@ -136,7 +136,9 @@
         "after": [
           "status-overspending-recovery"
         ],
-        "use": []
+        "use": [
+          "status-spending-checklist-calculator"
+        ]
       }
     },
     {

@@ -1241,5 +1241,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yen_2.jpg/500px-Yen_2.jpg",
   "og": "https://ledger.seadice.win/img/money-scarcity-checklist-outlook.jpg",
   "local": true
+ },
+ "status-spending-checklist-calculator": {
+  "file": "File:Bistro Nas restaurant one dining table of four.jpg",
+  "src": "/img/status-spending-checklist-calculator.jpg",
+  "src640": "/img/status-spending-checklist-calculator-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "食事会のテーブル",
+  "artist": "George Ho",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bistro_Nas_restaurant_one_dining_table_of_four.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bistro_Nas_restaurant_one_dining_table_of_four.jpg/960px-Bistro_Nas_restaurant_one_dining_table_of_four.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bistro_Nas_restaurant_one_dining_table_of_four.jpg/500px-Bistro_Nas_restaurant_one_dining_table_of_four.jpg",
+  "og": "https://ledger.seadice.win/img/status-spending-checklist-calculator.jpg",
+  "local": true
  }
 }
