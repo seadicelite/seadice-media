@@ -203,7 +203,9 @@
         "after": [
           "savings-withdrawal-restart"
         ],
-        "use": []
+        "use": [
+          "emergency-savings-months-calculator"
+        ]
       }
     },
     {

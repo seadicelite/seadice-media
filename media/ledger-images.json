@@ -1400,5 +1400,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Delicious_coffee_and_pastries_on_a_wooden_table_in_a_cozy_cafe_setting_during_a_sunny_morning.jpg/500px-Delicious_coffee_and_pastries_on_a_wooden_table_in_a_cozy_cafe_setting_during_a_sunny_morning.jpg",
   "og": "https://ledger.seadice.win/img/couples-money-talk-tips.jpg",
   "local": true
+ },
+ "emergency-savings-months-calculator": {
+  "file": "File:Model 1925 Kenworth Piggy Bank.jpg",
+  "src": "/img/emergency-savings-months-calculator.jpg",
+  "src640": "/img/emergency-savings-months-calculator-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "トラックの形をした貯金箱",
+  "artist": "Noah Wulf",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Model_1925_Kenworth_Piggy_Bank.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Model_1925_Kenworth_Piggy_Bank.jpg/960px-Model_1925_Kenworth_Piggy_Bank.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Model_1925_Kenworth_Piggy_Bank.jpg/500px-Model_1925_Kenworth_Piggy_Bank.jpg",
+  "og": "https://ledger.seadice.win/img/emergency-savings-months-calculator.jpg",
+  "local": true
  }
 }
