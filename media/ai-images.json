@@ -644,5 +644,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yen_2.jpg/500px-Yen_2.jpg",
   "og": "https://ai.seadice.win/img/celebrity-ai-ad-investment-refund-og.jpg",
   "local": true
+ },
+ "workplace-no-ai-rules-guideline": {
+  "file": "https://live.staticflickr.com/65535/54424224193_811a5930c7_b.jpg",
+  "src": "/img/workplace-no-ai-rules-guideline.webp",
+  "src640": "/img/workplace-no-ai-rules-guideline-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "棚に積まれた書類とバインダー",
+  "artist": "Molly Des Jardin",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "page": "https://www.flickr.com/photos/88664052@N00/54424224193",
+  "source_label": "Flickr",
+  "remote": "https://live.staticflickr.com/65535/54424224193_811a5930c7_b.jpg",
+  "remote640": "https://live.staticflickr.com/65535/54424224193_811a5930c7_b.jpg",
+  "og": "https://ai.seadice.win/img/workplace-no-ai-rules-guideline-og.jpg",
+  "local": true
  }
 }
