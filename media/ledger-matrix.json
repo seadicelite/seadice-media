@@ -1,0 +1,27 @@
+{
+  "cols": [
+    {"id": "why", "label": "なぜ", "q": "なぜそうなる？（研究でわかった心の仕組み）"},
+    {"id": "notice", "label": "気づく", "q": "自分にそのくせがあるか、どう気づく？ サインやタイプの違いは？"},
+    {"id": "fix", "label": "工夫する", "q": "研究で効果が示された、今日からできる工夫は？"},
+    {"id": "after", "label": "やってしまったら", "q": "使いすぎた・失敗した後、どう立て直す？ 相談先は？"},
+    {"id": "use", "label": "使う", "q": "自分で確かめられるチェック表・計算表・ツール（記事内のチェックリストも可）"}
+  ],
+  "rows": [
+    {"id": "impulse", "label": "衝動買い・ネット通販", "cells": {"why": ["why-impulse-buying-happens", "crowding-fomo-psychology", "scarcity-limited-stock-psychology", "choice-overload-shopping", "bulk-buying-stockpile-consumption", "payday-spending-spike"], "notice": [], "fix": [], "after": [], "use": []}},
+    {"id": "sale", "label": "セール・割引・ポイント", "cells": {"why": ["sale-price-anchoring", "coupon-transaction-utility", "free-shipping-zero-price", "left-digit-price-980", "points-reward-overspending"], "notice": [], "fix": [], "after": [], "use": []}},
+    {"id": "cashless", "label": "キャッシュレス・分割・リボ", "cells": {"why": ["cashless-spending", "installment-bnpl-spending", "revolving-payment-anchoring-bias", "small-change-invisible-spending"], "notice": [], "fix": [], "after": [], "use": []}},
+    {"id": "reward", "label": "ご褒美・ストレス買い", "cells": {"why": ["self-reward-licensing", "retail-therapy-mood-shopping"], "notice": [], "fix": [], "after": [], "use": []}},
+    {"id": "status", "label": "見栄・人との比較", "cells": {"why": ["social-comparison-spending", "status-brand-compensatory-consumption", "salary-comparison-satisfaction", "tipping-generosity-cues"], "notice": [], "fix": [], "after": [], "use": []}},
+    {"id": "gamble", "label": "ギャンブル・ガチャ・宝くじ", "cells": {"why": ["lottery-near-miss-psychology", "gacha-loot-box-spending"], "notice": [], "fix": [], "after": [], "use": []}},
+    {"id": "subsc", "label": "サブスク・固定費", "cells": {"why": ["subscription-cant-cancel", "sunk-cost-mottainai"], "notice": [], "fix": ["subscription-review-procrastination-status-quo-bias"], "after": [], "use": []}},
+    {"id": "saving", "label": "貯金", "cells": {"why": ["future-self-saving", "income-increase-savings-hedonic-adaptation", "frugality-fatigue-self-control-depletion-research"], "notice": [], "fix": ["specific-saving-goal-works", "automatic-saving-works", "envelope-partition-saving", "savings-goal-visualization-progress-bar-research"], "after": [], "use": []}},
+    {"id": "budget", "label": "家計管理・節約", "cells": {"why": ["budget-tracking-friction", "financial-education-effect"], "notice": ["tightwad-pain-of-paying"], "fix": ["payment-reminders-attention"], "after": [], "use": []}},
+    {"id": "debt", "label": "借金・返済", "cells": {"why": [], "notice": [], "fix": [], "after": ["debt-repayment-small-victories"], "use": []}},
+    {"id": "invest", "label": "投資・老後のお金", "cells": {"why": ["small-amount-investing-hesitation"], "notice": [], "fix": ["retirement-anxiety-outlook"], "after": [], "use": []}},
+    {"id": "anxiety", "label": "お金の不安・ストレス", "cells": {"why": ["money-worry-mental-health", "money-worry-scarcity-bandwidth", "loss-aversion-money"], "notice": ["money-talk-avoidance-ostrich-effect-research"], "fix": ["write-down-money-worries"], "after": [], "use": []}},
+    {"id": "family", "label": "家族・パートナー・友人とお金", "cells": {"why": ["couples-money-conflict-research", "lending-money-friends-family"], "notice": ["money-values-family-differences-research"], "fix": [], "after": [], "use": []}},
+    {"id": "kids", "label": "子どもとお金", "cells": {"why": ["parents-money-habits-children"], "notice": [], "fix": [], "after": [], "use": []}},
+    {"id": "happiness", "label": "お金と幸福・使い道", "cells": {"why": ["money-and-happiness", "materialism-wellbeing-research", "donation-identifiable-victim"], "notice": [], "fix": ["time-over-money-happiness", "minimalism-wellbeing-research", "hedonic-spending-variety", "gift-price-appreciation"], "after": [], "use": []}}
+  ],
+  "research": ["money-priming-replication"]
+}
