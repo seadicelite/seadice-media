@@ -106,7 +106,9 @@
           "salary-comparison-satisfaction",
           "tipping-generosity-cues"
         ],
-        "notice": [],
+        "notice": [
+          "status-spending-self-check"
+        ],
         "fix": [],
         "after": [],
         "use": []

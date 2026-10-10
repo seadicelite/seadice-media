@@ -992,5 +992,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Art_installation_with_clothes_hangers%2C_Zara_Home_shop%2C_Guerra_Junqueiro_Avenue%2C_Lisbon%2C_Portugal_julesvernex2-2.jpg/500px-Art_installation_with_clothes_hangers%2C_Zara_Home_shop%2C_Guerra_Junqueiro_Avenue%2C_Lisbon%2C_Portugal_julesvernex2-2.jpg",
   "og": "https://ledger.seadice.win/img/sale-buying-self-check-og.jpg",
   "local": true
+ },
+ "status-spending-self-check": {
+  "file": "File:Dress shop window display.jpg",
+  "src": "/img/status-spending-self-check.webp",
+  "src640": "/img/status-spending-self-check-sm.webp",
+  "w": 960,
+  "h": 754,
+  "alt": "店のショーウィンドウ",
+  "artist": "Hines Studio",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Dress_shop_window_display.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dress_shop_window_display.jpg/960px-Dress_shop_window_display.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dress_shop_window_display.jpg/500px-Dress_shop_window_display.jpg",
+  "og": "https://ledger.seadice.win/img/status-spending-self-check-og.jpg",
+  "local": true
  }
 }
