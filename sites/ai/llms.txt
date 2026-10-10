@@ -116,4 +116,5 @@ AI時代の困りごとはSEADICE(https://seadice.win/)が運営する、無料�
 - 出典と検証の方法: https://ai.seadice.win/sources/
 - 免責事項: https://ai.seadice.win/disclaimer/
 - 悩み別ガイド: https://ai.seadice.win/guide/
+- 訂正の記録: https://ai.seadice.win/corrections/
 - サイトマップ: https://ai.seadice.win/sitemap.xml
