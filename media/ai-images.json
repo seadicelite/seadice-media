@@ -542,5 +542,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg/500px-Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg",
   "og": "https://ai.seadice.win/img/ai-writing-skill-keep-og.jpg",
   "local": true
+ },
+ "ai-imitated-art-keep-posting": {
+  "file": "File:Jar of Paint Brushes (Unsplash).jpg",
+  "src": "/img/ai-imitated-art-keep-posting.webp",
+  "src640": "/img/ai-imitated-art-keep-posting-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "瓶に立てた絵筆",
+  "artist": "Joshua Niedermayer allesistdesign",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Jar_of_Paint_Brushes_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Jar_of_Paint_Brushes_%28Unsplash%29.jpg/960px-Jar_of_Paint_Brushes_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Jar_of_Paint_Brushes_%28Unsplash%29.jpg/500px-Jar_of_Paint_Brushes_%28Unsplash%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-imitated-art-keep-posting-og.jpg",
+  "local": true
  }
 }
