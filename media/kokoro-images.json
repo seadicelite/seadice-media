@@ -1698,5 +1698,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Water_jug.JPG/500px-Water_jug.JPG",
   "og": "https://mentalai.seadice.win/img/hydration-focus-og.jpg",
   "local": true
+ },
+ "hobby-recover-fatigue": {
+  "file": "File:Colorful art supplies arranged on a table featuring paints, markers, and paper ready for creative projects during a sunny afternoon.jpg",
+  "src": "/img/hobby-recover-fatigue.jpg",
+  "src640": "/img/hobby-recover-fatigue-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "テーブルに並んだ絵の具やペンなどの画材",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Colorful_art_supplies_arranged_on_a_table_featuring_paints,_markers,_and_paper_ready_for_creative_projects_during_a_sunny_afternoon.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Colorful_art_supplies_arranged_on_a_table_featuring_paints%2C_markers%2C_and_paper_ready_for_creative_projects_during_a_sunny_afternoon.jpg/960px-Colorful_art_supplies_arranged_on_a_table_featuring_paints%2C_markers%2C_and_paper_ready_for_creative_projects_during_a_sunny_afternoon.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Colorful_art_supplies_arranged_on_a_table_featuring_paints%2C_markers%2C_and_paper_ready_for_creative_projects_during_a_sunny_afternoon.jpg/500px-Colorful_art_supplies_arranged_on_a_table_featuring_paints%2C_markers%2C_and_paper_ready_for_creative_projects_during_a_sunny_afternoon.jpg",
+  "og": "https://mentalai.seadice.win/img/hobby-recover-fatigue.jpg",
+  "local": true
  }
 }
