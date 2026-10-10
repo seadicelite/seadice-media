@@ -257,7 +257,9 @@
         "fix": [
           "write-down-money-worries"
         ],
-        "after": [],
+        "after": [
+          "money-anxiety-crisis-recovery-steps"
+        ],
         "use": []
       }
     },

@@ -1187,5 +1187,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parsley_for_99_cents%2C_and_other_vegetables%2C_in_supermarket_in_Clearwater%2C_Florida%2C_US_on_25_September_2020.jpg/500px-Parsley_for_99_cents%2C_and_other_vegetables%2C_in_supermarket_in_Clearwater%2C_Florida%2C_US_on_25_September_2020.jpg",
   "og": "https://ledger.seadice.win/img/sale-purchase-checklist-calculator.jpg",
   "local": true
+ },
+ "money-anxiety-crisis-recovery-steps": {
+  "file": "File:Telephone in the Botanical Garden of Sao Paulo.jpg",
+  "src": "/img/money-anxiety-crisis-recovery-steps.jpg",
+  "src640": "/img/money-anxiety-crisis-recovery-steps-sm.jpg",
+  "w": 960,
+  "h": 959,
+  "alt": "電話機",
+  "artist": "Wilfredor",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Telephone_in_the_Botanical_Garden_of_Sao_Paulo.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Telephone_in_the_Botanical_Garden_of_Sao_Paulo.jpg/960px-Telephone_in_the_Botanical_Garden_of_Sao_Paulo.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Telephone_in_the_Botanical_Garden_of_Sao_Paulo.jpg/500px-Telephone_in_the_Botanical_Garden_of_Sao_Paulo.jpg",
+  "og": "https://ledger.seadice.win/img/money-anxiety-crisis-recovery-steps.jpg",
+  "local": true
  }
 }
