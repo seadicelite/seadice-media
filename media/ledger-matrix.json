@@ -344,7 +344,9 @@
         "after": [
           "oversaving-regret-missed-fun-recovery"
         ],
-        "use": []
+        "use": [
+          "happy-spending-pre-purchase-checklist"
+        ]
       }
     }
   ],
