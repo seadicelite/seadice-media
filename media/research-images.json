@@ -1074,5 +1074,23 @@
   "remote640": "https://live.staticflickr.com/65535/54537172958_dc4e9ba90c_b.jpg",
   "og": "https://research.seadice.win/img/all-or-nothing-diet-slip-research-og.jpg",
   "local": true
+ },
+ "urge-surfing-craving-wave-research": {
+  "file": "File:Big wave breaking in Santa Cruz.jpg",
+  "src": "/img/urge-surfing-craving-wave-research.jpg",
+  "src640": "/img/urge-surfing-craving-wave-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "海で崩れる波",
+  "artist": "Brocken Inaglory",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Big_wave_breaking_in_Santa_Cruz.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Big_wave_breaking_in_Santa_Cruz.jpg/960px-Big_wave_breaking_in_Santa_Cruz.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Big_wave_breaking_in_Santa_Cruz.jpg/500px-Big_wave_breaking_in_Santa_Cruz.jpg",
+  "og": "https://research.seadice.win/img/urge-surfing-craving-wave-research.jpg",
+  "local": true
  }
 }
