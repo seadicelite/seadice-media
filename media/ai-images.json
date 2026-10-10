@@ -780,5 +780,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8597-601.jpg/500px-D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8597-601.jpg",
   "og": "https://ai.seadice.win/img/ai-new-role-after-automation-og.jpg",
   "local": true
+ },
+ "navigation-app-reliance-memory": {
+  "file": "File:Direction Sign – Signpost at Park Corner crossroads - geograph.org.uk - 6097785.jpg",
+  "src": "/img/navigation-app-reliance-memory.webp",
+  "src640": "/img/navigation-app-reliance-memory-sm.webp",
+  "w": 960,
+  "h": 662,
+  "alt": "田舎道の分かれ道に立つ古い道しるべ",
+  "artist": "Milestone Society",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Direction_Sign_%E2%80%93_Signpost_at_Park_Corner_crossroads_-_geograph.org.uk_-_6097785.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Direction_Sign_%E2%80%93_Signpost_at_Park_Corner_crossroads_-_geograph.org.uk_-_6097785.jpg/960px-Direction_Sign_%E2%80%93_Signpost_at_Park_Corner_crossroads_-_geograph.org.uk_-_6097785.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Direction_Sign_%E2%80%93_Signpost_at_Park_Corner_crossroads_-_geograph.org.uk_-_6097785.jpg/500px-Direction_Sign_%E2%80%93_Signpost_at_Park_Corner_crossroads_-_geograph.org.uk_-_6097785.jpg",
+  "og": "https://ai.seadice.win/img/navigation-app-reliance-memory-og.jpg",
+  "local": true
  }
 }

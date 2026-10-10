@@ -1,5 +1,14 @@
 [
  {
+  "slug": "navigation-app-reliance-memory",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-10",
+  "title": "ナビに頼りきりで、道を覚えられない。研究では、頼る人ほど道の記憶が弱かった。慣れた道ではナビを切り、案内は音声にする",
+  "summary": "ナビに頼る度合いが高い人ほど、ナビなしで道を覚える成績が低い傾向があった。慣れた道ではナビを切り、案内を音声にして備える。"
+ },
+ {
   "slug": "ai-new-role-after-automation",
   "category": "仕事・キャリア",
   "type": "guide",
