@@ -797,5 +797,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Direction_Sign_%E2%80%93_Signpost_at_Park_Corner_crossroads_-_geograph.org.uk_-_6097785.jpg/500px-Direction_Sign_%E2%80%93_Signpost_at_Park_Corner_crossroads_-_geograph.org.uk_-_6097785.jpg",
   "og": "https://ai.seadice.win/img/navigation-app-reliance-memory-og.jpg",
   "local": true
+ },
+ "ai-freelance-orders-dropped": {
+  "file": "File:Bartolomeo Bettera - A painter's palette and brushes and others.jpg",
+  "src": "/img/ai-freelance-orders-dropped.webp",
+  "src640": "/img/ai-freelance-orders-dropped-sm.webp",
+  "w": 960,
+  "h": 629,
+  "alt": "絵の具のパレットと筆、本や楽器を描いた静物画",
+  "artist": "Bartolomeo Bettera",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Bartolomeo_Bettera_-_A_painter%27s_palette_and_brushes_and_others.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bartolomeo_Bettera_-_A_painter%27s_palette_and_brushes_and_others.jpg/960px-Bartolomeo_Bettera_-_A_painter%27s_palette_and_brushes_and_others.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bartolomeo_Bettera_-_A_painter%27s_palette_and_brushes_and_others.jpg/500px-Bartolomeo_Bettera_-_A_painter%27s_palette_and_brushes_and_others.jpg",
+  "og": "https://ai.seadice.win/img/ai-freelance-orders-dropped-og.jpg",
+  "local": true
  }
 }
