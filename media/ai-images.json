@@ -916,5 +916,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Desk_with_notebook_pens_and_glasses.jpg/500px-Desk_with_notebook_pens_and_glasses.jpg",
   "og": "https://ai.seadice.win/img/ai-mistake-work-trust-rebuild-og.jpg",
   "local": true
+ },
+ "ai-brainstorm-ideas-look-alike": {
+  "file": "File:Herbert S. Frere, Writing Desk, 1941, NGA 18106.jpg",
+  "src": "/img/ai-brainstorm-ideas-look-alike.webp",
+  "src640": "/img/ai-brainstorm-ideas-look-alike-sm.webp",
+  "w": 960,
+  "h": 743,
+  "alt": "木製の書き物机を描いた絵（1941年）",
+  "artist": "Herbert S. Frere",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Herbert_S._Frere,_Writing_Desk,_1941,_NGA_18106.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Herbert_S._Frere%2C_Writing_Desk%2C_1941%2C_NGA_18106.jpg/960px-Herbert_S._Frere%2C_Writing_Desk%2C_1941%2C_NGA_18106.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Herbert_S._Frere%2C_Writing_Desk%2C_1941%2C_NGA_18106.jpg/500px-Herbert_S._Frere%2C_Writing_Desk%2C_1941%2C_NGA_18106.jpg",
+  "og": "https://ai.seadice.win/img/ai-brainstorm-ideas-look-alike-og.jpg",
+  "local": true
  }
 }

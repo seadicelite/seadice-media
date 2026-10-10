@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-brainstorm-ideas-look-alike",
+  "category": "考える力・集中",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-10",
+  "title": "AIでアイデアを出すと、みんな似た案になる？研究では一人ひとりの案は良くなっても、案どうしは似ていた。使う前に決めておく3つのこと",
+  "summary": "AIの案で物語の評価は上がったが、物語どうしは似ていき、22種類のAIの答えも互いに似ていた。先に自分で書くなど3つの備え。"
+ },
+ {
   "slug": "ai-mistake-work-trust-rebuild",
   "category": "AIに頼りすぎ",
   "type": "guide",
