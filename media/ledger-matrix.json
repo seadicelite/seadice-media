@@ -335,7 +335,9 @@
           "hedonic-spending-variety",
           "gift-price-appreciation"
         ],
-        "after": [],
+        "after": [
+          "oversaving-regret-missed-fun-recovery"
+        ],
         "use": []
       }
     }

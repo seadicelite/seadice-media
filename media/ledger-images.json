@@ -1418,5 +1418,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Model_1925_Kenworth_Piggy_Bank.jpg/500px-Model_1925_Kenworth_Piggy_Bank.jpg",
   "og": "https://ledger.seadice.win/img/emergency-savings-months-calculator.jpg",
   "local": true
+ },
+ "oversaving-regret-missed-fun-recovery": {
+  "file": "File:Hiking trail on Námafjall Mountain, Iceland, 20240716 1130 1346.jpg",
+  "src": "/img/oversaving-regret-missed-fun-recovery.jpg",
+  "src640": "/img/oversaving-regret-missed-fun-recovery-sm.jpg",
+  "w": 960,
+  "h": 637,
+  "alt": "山へ続く遊歩道",
+  "artist": "Jakub Hałun",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hiking_trail_on_N%C3%A1mafjall_Mountain,_Iceland,_20240716_1130_1346.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hiking_trail_on_N%C3%A1mafjall_Mountain%2C_Iceland%2C_20240716_1130_1346.jpg/960px-Hiking_trail_on_N%C3%A1mafjall_Mountain%2C_Iceland%2C_20240716_1130_1346.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hiking_trail_on_N%C3%A1mafjall_Mountain%2C_Iceland%2C_20240716_1130_1346.jpg/500px-Hiking_trail_on_N%C3%A1mafjall_Mountain%2C_Iceland%2C_20240716_1130_1346.jpg",
+  "og": "https://ledger.seadice.win/img/oversaving-regret-missed-fun-recovery.jpg",
+  "local": true
  }
 }
