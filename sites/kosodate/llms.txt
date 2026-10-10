@@ -42,6 +42,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [AIに答えを聞くと、覚える力はどう変わる？記憶の研究から](https://kosodate.seadice.win/ai-answers-memory-retention/): 「あとで確認できる」と思うだけで、自分の頭で覚えようとする働きが弱まる実験結果があります。
 - [AI翻訳があれば英語学習はもう不要？](https://kosodate.seadice.win/ai-translation-english-learning/): AI翻訳と語学学習の関係はまだ研究が少なく、バイリンガルの思考力への効果も意見が分かれています。
 - [絵本の読み聞かせ、AIの声でも人と同じ効果がある？](https://kosodate.seadice.win/ai-voice-reading-vs-human/): 問いかけ機能のあるAI・電子絵本の読み聞かせは、理解や言葉の学びで人の読み聞かせに近い効果を示す研究があります。
+- [子どもが本を読まない。読書量と読解力は「お互いに伸ばし合う」関係だった](https://kosodate.seadice.win/children-not-reading-books-vocabulary/): 読書量と読解力・言葉の力には中〜強い関連。ただ低学年では読む力の弱さが読書離れの入り口に。研究5本から、無理に読ませる前に家庭でできることを整理。
 - [プログラミング教育は将来の役に立つ？](https://kosodate.seadice.win/coding-education-future-benefit/): プログラミング自体の力や一部の思考力は伸びますが、学校の成績や将来役立つかの直接的な証拠はまだ限られています。
 - [テンポの速い動画を見ると、子どもの集中力は落ちる？](https://kosodate.seadice.win/fast-paced-video-fantasy-executive-function/): 動画の再生テンポより、現実にありえない内容(ファンタジー)を見た直後の方が、実行機能のテスト成績が下がる関連がありました。
 - [宿題にAIを使わせると考える力は落ちる？研究でわかった使い方の分かれ道](https://kosodate.seadice.win/homework-ai-thinking-skills/): 答えを写す使い方は成績が下がり、ヒントとして使うと下がりにくい。分かれ道は使い方です。

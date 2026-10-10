@@ -1001,5 +1001,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Piano_keys_close_up.jpg/500px-Piano_keys_close_up.jpg",
   "og": "https://kosodate.seadice.win/img/music-lessons-intelligence-academic-og.jpg",
   "local": true
+ },
+ "children-not-reading-books-vocabulary": {
+  "file": "File:Part of a bookshelf containing books by ancient philosophers (1.1).jpg",
+  "src": "/img/children-not-reading-books-vocabulary.jpg",
+  "src640": "/img/children-not-reading-books-vocabulary-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "本棚に並ぶ本",
+  "artist": "Roman Eisele",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Part_of_a_bookshelf_containing_books_by_ancient_philosophers_(1.1).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg/960px-Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg/500px-Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg",
+  "og": "https://kosodate.seadice.win/img/children-not-reading-books-vocabulary.jpg",
+  "local": true
  }
 }
