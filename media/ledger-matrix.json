@@ -345,7 +345,9 @@
           "kids-allowance-money-skills-tips"
         ],
         "after": [],
-        "use": []
+        "use": [
+          "kids-allowance-amount-checklist"
+        ]
       }
     },
     {
