@@ -8263,5 +8263,21 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4067905/"
       }
     ]
+  },
+  {
+    "id": "circadian-rhythm",
+    "term": "概日リズム",
+    "en": "Circadian rhythm",
+    "field": "生理心理学",
+    "def": "概日リズムとは、体温やホルモンの分泌など、体の中でおよそ24時間を周期として繰り返されるリズムのことです。",
+    "slug": ""
+  },
+  {
+    "id": "melatonin",
+    "term": "メラトニン",
+    "en": "Melatonin",
+    "field": "生理心理学",
+    "def": "メラトニンとは、脳の松果体から分泌されるホルモンで、夜間に分泌量が増え、体内時計の調整に関わるもののことです。",
+    "slug": ""
   }
 ]
