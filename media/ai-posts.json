@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-evaluation-low-score-feelings",
+  "category": "心の疲れ・比べて落ち込む",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-11",
+  "title": "AIの評価で低い点がつき、落ち込む・腹が立つ。研究では、AIからの低評価は恥より怒りを呼びやすく、研究者は「根拠の説明」と「異議を言える仕組み」を勧めていた",
+  "summary": "AIからの低い評価は恥より怒りを呼びやすかった。根拠を確かめ、人による見直しを頼み、自分を責めない言葉で振り返る順に進める"
+ },
+ {
   "slug": "coworkers-judge-ai-use-prepare",
   "category": "人間関係・孤独",
   "type": "guide",
