@@ -2056,5 +2056,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Minimalist_meeting_room_%28Unsplash%29.jpg/500px-Minimalist_meeting_room_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/ai-check-before-speaking.jpg",
   "local": true
+ },
+ "alone-time-without-loneliness": {
+  "file": "File:Snowy forest path 01 – Panorama (Oliksiy Yakovlyev via Poly Haven).jpg",
+  "src": "/img/alone-time-without-loneliness.jpg",
+  "src640": "/img/alone-time-without-loneliness-sm.jpg",
+  "w": 960,
+  "h": 480,
+  "alt": "雪が積もった明るい森の小道",
+  "artist": "Oliksiy Yakovlyev",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Snowy_forest_path_01_%E2%80%93_Panorama_(Oliksiy_Yakovlyev_via_Poly_Haven).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Snowy_forest_path_01_%E2%80%93_Panorama_%28Oliksiy_Yakovlyev_via_Poly_Haven%29.jpg/960px-Snowy_forest_path_01_%E2%80%93_Panorama_%28Oliksiy_Yakovlyev_via_Poly_Haven%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Snowy_forest_path_01_%E2%80%93_Panorama_%28Oliksiy_Yakovlyev_via_Poly_Haven%29.jpg/500px-Snowy_forest_path_01_%E2%80%93_Panorama_%28Oliksiy_Yakovlyev_via_Poly_Haven%29.jpg",
+  "og": "https://mentalai.seadice.win/img/alone-time-without-loneliness.jpg",
+  "local": true
  }
 }
