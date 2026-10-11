@@ -186,7 +186,9 @@
           "subscription-review-procrastination-status-quo-bias"
         ],
         "after": [],
-        "use": []
+        "use": [
+          "subscription-fixed-cost-review-checklist"
+        ]
       }
     },
     {
