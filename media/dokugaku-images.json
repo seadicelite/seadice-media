@@ -797,5 +797,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Axenda.JPG/500px-Axenda.JPG",
   "og": "https://dokugaku.seadice.win/img/make-study-time-working-adults-og.jpg",
   "local": true
+ },
+ "worked-examples-how-to-study": {
+  "file": "File:Texas Instruments Longines Symphonette Calculator 1st version.jpg",
+  "src": "/img/worked-examples-how-to-study.jpg",
+  "src640": "/img/worked-examples-how-to-study-sm.jpg",
+  "w": 960,
+  "h": 917,
+  "alt": "古い電卓",
+  "artist": "Mister rf",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg/960px-Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg/500px-Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg",
+  "og": "https://dokugaku.seadice.win/img/worked-examples-how-to-study.jpg",
+  "local": true
  }
 }

@@ -389,6 +389,15 @@
       "text": "時間管理ができている人ほど成績や満足度が高い傾向でした。研修では時間を扱える感覚が上がり、仕事の成績は変わりませんでした。",
       "slug": "make-study-time-working-adults",
       "evidence": "meta"
+    },
+    {
+      "id": "worked-example",
+      "name": "例題を読んでから解く（例題学習）",
+      "belief": "例題は読み飛ばして、すぐ問題を解いた方が力がつく",
+      "level": "b",
+      "text": "初めての単元では、例題で学ぶ方が問題を解くだけより成績が上がりやすい。慣れた単元では効果が薄れ、大学生の実験では差が出なかった例もあります。",
+      "slug": "worked-examples-how-to-study",
+      "evidence": "meta"
     }
   ]
 }
