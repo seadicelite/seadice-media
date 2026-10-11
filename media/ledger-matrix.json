@@ -183,7 +183,9 @@
           "subscription-cant-cancel",
           "sunk-cost-mottainai"
         ],
-        "notice": [],
+        "notice": [
+          "subscription-signup-overestimate-self-check"
+        ],
         "fix": [
           "subscription-review-procrastination-status-quo-bias"
         ],
