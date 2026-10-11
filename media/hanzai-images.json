@@ -973,5 +973,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Modern_collapsible_balance_scale_for_jewellers_3.jpg/500px-Modern_collapsible_balance_scale_for_jewellers_3.jpg",
   "og": "https://hanzai.seadice.win/img/just-world-victim-blaming.jpg",
   "local": true
+ },
+ "moral-disengagement": {
+  "file": "File:Dornbirn-Stempel (rubber stamps) Raiffeisenbank-01ASD.jpg",
+  "src": "/img/moral-disengagement.jpg",
+  "src640": "/img/moral-disengagement-sm.jpg",
+  "w": 960,
+  "h": 368,
+  "alt": "ガラス棚に並んだ古いゴム印",
+  "artist": "Asurnipal",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dornbirn-Stempel_(rubber_stamps)_Raiffeisenbank-01ASD.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dornbirn-Stempel_%28rubber_stamps%29_Raiffeisenbank-01ASD.jpg/960px-Dornbirn-Stempel_%28rubber_stamps%29_Raiffeisenbank-01ASD.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dornbirn-Stempel_%28rubber_stamps%29_Raiffeisenbank-01ASD.jpg/500px-Dornbirn-Stempel_%28rubber_stamps%29_Raiffeisenbank-01ASD.jpg",
+  "og": "https://hanzai.seadice.win/img/moral-disengagement.jpg",
+  "local": true
  }
 }
