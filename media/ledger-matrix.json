@@ -123,7 +123,9 @@
         "after": [
           "stress-shopping-after-recovery"
         ],
-        "use": []
+        "use": [
+          "self-reward-budget-calculator-checklist"
+        ]
       }
     },
     {

@@ -1616,5 +1616,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/A_plastic_container_used_as_a_piggy_bank.jpg/500px-A_plastic_container_used_as_a_piggy_bank.jpg",
   "og": "https://ledger.seadice.win/img/couples-household-cost-sharing-checklist.jpg",
   "local": true
+ },
+ "self-reward-budget-calculator-checklist": {
+  "file": "File:Pastry shop (33546093170).jpg",
+  "src": "/img/self-reward-budget-calculator-checklist.jpg",
+  "src640": "/img/self-reward-budget-calculator-checklist-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ケーキや焼き菓子が並ぶ店のショーケース",
+  "artist": "julie corsi from Palos Heights, IL, USA",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pastry_shop_(33546093170).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pastry_shop_%2833546093170%29.jpg/960px-Pastry_shop_%2833546093170%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pastry_shop_%2833546093170%29.jpg/500px-Pastry_shop_%2833546093170%29.jpg",
+  "og": "https://ledger.seadice.win/img/self-reward-budget-calculator-checklist.jpg",
+  "local": true
  }
 }
