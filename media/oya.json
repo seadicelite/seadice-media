@@ -401,5 +401,22 @@
     {"name": "困りごとから制度を探す", "desc": "生活費・介護・病気など困りごとを選ぶと、確かめたい制度と窓口がわかる", "href": "https://shakaihosho.seadice.win/sagasu/", "cats": ["介護とお金"]},
     {"name": "研究早見表", "desc": "悩み別に、研究の答えと今日できることを一覧で見る", "href": "/hayami/"},
     {"id": "jikka-jimai", "name": "実家じまいノート", "desc": "親の家の片付け・相続・空き家化に先回りして、次の一歩とチェックリストで備える", "appStoreId": "6797358274", "cats": ["介護とお金", "ひとり暮らし・見守り"]}
+  ],
+  "apps": [
+    {
+      "id": "kiroku-nou-training",
+      "name": "毎日脳トレ記録",
+      "appStoreId": "6793108726",
+      "icon": "/img/apps/kiroku-nou-training.webp",
+      "catch": "今日のことを書いて、次の日から少しずつ思い出す。誰と話した・体を動かしたも1タップで記録し、家族にワンタップで送れる",
+      "hubLead": "アプリの仕組み（人とのつながり、体を動かすこと、何も見ずに思い出す練習）に関係する記事です。親に入れてあげる前に読んでおくと、「脳トレで認知症を防ぐ」ではなく、毎日の暮らしを続けるための道具として勧めやすくなります。",
+      "theme": "親の孤立・人とのつながり・座りすぎや運動・連絡や帰省の頻度・認知症の変えられる要因の記事に付ける。物忘れの見分け方・受診・診断後の対応など医療寄りの記事には付けない",
+      "articles": [
+        "dementia-prevention-risk-factors",
+        "parent-living-alone-isolation-health",
+        "parent-sitting-tv-all-day",
+        "parent-living-apart-call-visit-frequency"
+      ]
+    }
   ]
 }
