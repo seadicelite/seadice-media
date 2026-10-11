@@ -780,5 +780,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg/500px-Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg",
   "og": "https://dokugaku.seadice.win/img/smartphone-away-while-studying-og.jpg",
   "local": true
+ },
+ "make-study-time-working-adults": {
+  "file": "File:Axenda.JPG",
+  "src": "/img/make-study-time-working-adults.webp",
+  "src640": "/img/make-study-time-working-adults-sm.webp",
+  "w": 960,
+  "h": 710,
+  "alt": "時間ごとの欄がある、開いた手帳",
+  "artist": "PepedoCouto",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Axenda.JPG",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Axenda.JPG/960px-Axenda.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Axenda.JPG/500px-Axenda.JPG",
+  "og": "https://dokugaku.seadice.win/img/make-study-time-working-adults-og.jpg",
+  "local": true
  }
 }

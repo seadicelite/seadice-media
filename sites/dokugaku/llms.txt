@@ -77,6 +77,7 @@
 
 - [朝と夜、勉強に向いている時間はあるのか。体内時計（クロノタイプ）と学習の研究](https://dokugaku.seadice.win/chronotype-best-time-to-study/): 誰にでも最適な勉強時間はない。朝型・夜型と「得意な時間」の効果を研究で検証
 - [勉強の目標は高く掲げるべきか、小さく刻むべきか。目標設定の研究](https://dokugaku.seadice.win/goal-setting-high-or-small-steps/): 答えは両方。具体的で高いゴールを、毎回届く小さな区切りに分けて記録すると達成に近づく
+- [社会人が勉強時間をつくるには？時間管理の研究でわかった「組む・守る・見直す」のやり方](https://dokugaku.seadice.win/make-study-time-working-adults/): 勉強の時間を先に予定に入れ、割り込みから守り、週1回見直す。研修で時間を扱える感覚は上がったが成績への効果は不明
 - [スキマ時間の勉強は効果があるのか。短い学習をくり返す研究](https://dokugaku.seadice.win/micro-learning-spare-time-study/): 1日の練習は短く分けた方が効率的だった。待ち時間の単語練習で2週間57語。スキマに向く内容と限界を研究で確かめる
 - [勉強の計画が毎回倒れるのはなぜか。計画錯誤の研究でわかったこと](https://dokugaku.seadice.win/planning-fallacy-study-plans/): 人は作業時間を短く見積もりがち。過去の実績を基準にし、作業を細かく書き出すと計画は現実に近づく
 

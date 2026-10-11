@@ -380,6 +380,15 @@
       "text": "通知は見なくても集中を乱しました。置き場所だけの影響は研究で分かれ、22本のメタ分析では全体として小さい結果でした。",
       "slug": "smartphone-away-while-studying",
       "evidence": "meta"
+    },
+    {
+      "id": "time-block",
+      "name": "勉強の時間を先に予定に入れる（時間管理）",
+      "belief": "時間管理をすれば成績が上がる",
+      "level": "b",
+      "text": "時間管理ができている人ほど成績や満足度が高い傾向でした。研修では時間を扱える感覚が上がり、仕事の成績は変わりませんでした。",
+      "slug": "make-study-time-working-adults",
+      "evidence": "meta"
     }
   ]
 }
