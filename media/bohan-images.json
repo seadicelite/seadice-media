@@ -970,8 +970,8 @@
  },
  "account-takeover-recovery-steps": {
   "file": "File:Small padlock with three keys in Holma Marina.jpg",
-  "src": "/img/account-takeover-recovery-steps.jpg",
-  "src640": "/img/account-takeover-recovery-steps-sm.jpg",
+  "src": "/img/account-takeover-recovery-steps.webp",
+  "src640": "/img/account-takeover-recovery-steps-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "鍵がかかった南京錠",
@@ -980,10 +980,26 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Small_padlock_with_three_keys_in_Holma_Marina.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Small_padlock_with_three_keys_in_Holma_Marina.jpg/960px-Small_padlock_with_three_keys_in_Holma_Marina.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Small_padlock_with_three_keys_in_Holma_Marina.jpg/500px-Small_padlock_with_three_keys_in_Holma_Marina.jpg",
-  "og": "https://bohan.seadice.win/img/account-takeover-recovery-steps.jpg",
+  "og": "https://bohan.seadice.win/img/account-takeover-recovery-steps-og.jpg",
+  "local": true
+ },
+ "security-checkup-expert-priorities": {
+  "file": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg1NDU5OTQtaW1hZ2Uta3d2dmR5N3cuanBn.jpg",
+  "src": "/img/security-checkup-expert-priorities.webp",
+  "src640": "/img/security-checkup-expert-priorities-sm.webp",
+  "w": 960,
+  "h": 628,
+  "alt": "鍵と錠前",
+  "artist": "Unknown",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "page": "https://www.rawpixel.com/image/5908216/image-background-public-domain-laptop",
+  "source_label": "Rawpixel",
+  "remote": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg1NDU5OTQtaW1hZ2Uta3d2dmR5N3cuanBn.jpg",
+  "remote640": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg1NDU5OTQtaW1hZ2Uta3d2dmR5N3cuanBn.jpg",
+  "og": "https://bohan.seadice.win/img/security-checkup-expert-priorities-og.jpg",
   "local": true
  }
 }

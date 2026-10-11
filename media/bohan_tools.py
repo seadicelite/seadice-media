@@ -62,6 +62,7 @@ SIGN_GROUPS = [("common", "どんな連絡でも"), ("tel", "電話"), ("mail", 
 
 # (id, グループ, やること, 所要, 記事slug)
 TENKEN = [
+    ("a0", "acc", "スマホ・パソコン・アプリの自動更新をオンにした", "5分", "security-checkup-expert-priorities"),
     ("a1", "acc", "メール・銀行・よく使う通販のパスワードを、それぞれ別のものにした", "15分", "password-reuse-risk"),
     ("a2", "acc", "大事なアカウントで二段階認証（登録したスマホでの確認）をオンにした", "10分", "two-factor-passkey-account"),
     ("a3", "acc", "パスキーに対応しているサービスは、パスキーを設定した", "5分", "two-factor-passkey-account"),
@@ -107,7 +108,7 @@ CSS = (".bt-box{background:var(--card);border:1px solid var(--accent);border-rad
        ".sources{margin-top:40px;padding-top:20px;border-top:1px solid var(--border)}.sources h2{font-size:14px;color:var(--muted)}.sources li{font-size:12px;color:var(--muted);margin:8px 0 8px 18px;word-break:break-all}.sources a{color:var(--link)}")
 
 TOOLS = [("sagi-check", "この連絡、詐欺かも？チェック", "電話・メール・SNSの連絡で、当てはまるサインを選ぶと、すぐやることがわかる"),
-         ("ai-tenken", "AI時代の防犯 セルフ点検", "お金をかけずにできる16の対策を、自分の進み具合で確かめる"),
+         ("ai-tenken", "AI時代の防犯 セルフ点検", "お金をかけずにできる17の対策を、自分の進み具合で確かめる"),
          ("aikotoba", "家族の合言葉カード", "AI音声のなりすましに備える合言葉の決め方と、印刷して使える手順カード")]
 
 
@@ -193,8 +194,8 @@ tk_rows = "".join(
                                   for i, g, t, m, s in TENKEN if g == gk)
     for gk, gl in TENKEN_GROUPS)
 tk_body = (ld("AI時代の防犯 セルフ点検", "ai-tenken",
-              "パスワード・二段階認証・国際電話の休止・SNS写真の位置情報・AIチャットの入力・家族の合言葉など、お金をかけずにできる16の対策を点検する無料ツール。進み具合は端末の中だけに保存、登録不要・広告なし。", TK_FAQ)
- + '<p>AIで声や写真が悪用される時代に、お金をかけずにできる対策を16個並べました。やったものにチェックすると、進み具合が出ます。無料・登録不要で、チェックは<strong>この端末の中だけ</strong>に保存し、どこにも送りません。</p>'
+              "自動更新・パスワード・二段階認証・国際電話の休止・SNS写真の位置情報・AIチャットの入力・家族の合言葉など、お金をかけずにできる17の対策を点検する無料ツール。進み具合は端末の中だけに保存、登録不要・広告なし。", TK_FAQ)
+ + '<p>AIで声や写真が悪用される時代に、お金をかけずにできる対策を17個並べました。やったものにチェックすると、進み具合が出ます。無料・登録不要で、チェックは<strong>この端末の中だけ</strong>に保存し、どこにも送りません。</p>'
  + f'<p class="bt-score" aria-live="polite"><b id="tk-n">0</b> / {len(TENKEN)} できています</p><div class="bt-bar"><i id="tk-bar"></i></div><p class="bt-sub" id="tk-msg"></p>'
  + f'<div class="bt-box" id="tk">{tk_rows}</div>'
  + '<p><button type="button" id="tk-reset" class="bt-btn" style="background:var(--card);color:var(--text);border:1px solid var(--border)">チェックをすべて外す</button></p>'
@@ -275,9 +276,9 @@ PAGES = [
      "desc": "家族の声の電話、「警察です」の電話、LINEへの誘い、暗号資産の送金。当てはまるサインを選ぶと、すぐやることと解説記事がわかる。警察庁の統計と研究をもとにした無料・登録不要のチェック。",
      "body": sagi_body, "css": CSS + T_CSS},
     {"path": "ai-tenken", "title": "AI時代の防犯 セルフ点検",
-     "seo_title": "AI時代の防犯 セルフ点検｜パスワード・電話・SNS・AIチャット・家族の16項目（無料・登録不要）",
+     "seo_title": "AI時代の防犯 セルフ点検｜パスワード・電話・SNS・AIチャット・家族の17項目（無料・登録不要）",
      "date": "2026-10-11",
-     "desc": "パスワードの使い回し、二段階認証、国際電話の休止、写真の位置情報、AIチャットへの入力、家族の合言葉。お金をかけずにできる16の対策を点検。進み具合は端末の中だけに保存。",
+     "desc": "自動更新、パスワードの使い回し、二段階認証、国際電話の休止、写真の位置情報、AIチャットへの入力、家族の合言葉。お金をかけずにできる17の対策を点検。進み具合は端末の中だけに保存。",
      "body": tk_body, "css": CSS + T_CSS},
     {"path": "aikotoba", "title": "家族の合言葉カード",
      "seo_title": "家族の合言葉 決め方｜AI音声のなりすまし詐欺に備える手順カード（印刷用・無料）",
