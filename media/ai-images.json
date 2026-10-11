@@ -1001,5 +1001,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Photograph_of_objects_on_President_Truman%27s_desk_in_the_Oval_Office_of_the_White_House._-_NARA_-_199452.jpg/500px-Photograph_of_objects_on_President_Truman%27s_desk_in_the_Oval_Office_of_the_White_House._-_NARA_-_199452.jpg",
   "og": "https://ai.seadice.win/img/ai-evaluation-low-score-feelings-og.jpg",
   "local": true
+ },
+ "ai-work-coworkers-isolation": {
+  "file": "File:Minimalist meeting room (Unsplash).jpg",
+  "src": "/img/ai-work-coworkers-isolation.webp",
+  "src640": "/img/ai-work-coworkers-isolation-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "誰もいない会議室の机と椅子",
+  "artist": "Breather breather",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Minimalist_meeting_room_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Minimalist_meeting_room_%28Unsplash%29.jpg/960px-Minimalist_meeting_room_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Minimalist_meeting_room_%28Unsplash%29.jpg/500px-Minimalist_meeting_room_%28Unsplash%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-work-coworkers-isolation-og.jpg",
+  "local": true
  }
 }

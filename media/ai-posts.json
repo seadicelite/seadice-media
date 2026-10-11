@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-work-coworkers-isolation",
+  "category": "人間関係・孤独",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-11",
+  "title": "AIと仕事をするようになって、職場で人と話さなくなった。研究ではAIとのやりとりが多い人ほど孤独を感じやすく、上司の気づかいがある場面では孤独は低かった",
+  "summary": "AIとのやりとりが多い人ほど孤独を感じやすい研究が複数ある。人に聞く場面を1日1つ戻し、上司に話す時間を頼むことから始める"
+ },
+ {
   "slug": "ai-evaluation-low-score-feelings",
   "category": "心の疲れ・比べて落ち込む",
   "type": "guide",
