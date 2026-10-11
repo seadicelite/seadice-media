@@ -833,5 +833,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Smartphone_display_screen.jpg/500px-Smartphone_display_screen.jpg",
   "og": "https://dokugaku.seadice.win/img/refocus-after-phone-distraction.jpg",
   "local": true
+ },
+ "rebuild-broken-study-plan": {
+  "file": "File:President's Office -- Main - DPLA - d53532411588d4afc1bf28202cdaba56.jpg",
+  "src": "/img/rebuild-broken-study-plan.jpg",
+  "src640": "/img/rebuild-broken-study-plan-sm.jpg",
+  "w": 960,
+  "h": 738,
+  "alt": "古い事務室の机と壁に掛けたカレンダー",
+  "artist": "Brackett, J. Raymond",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:President%27s_Office_--_Main_-_DPLA_-_d53532411588d4afc1bf28202cdaba56.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/President%27s_Office_--_Main_-_DPLA_-_d53532411588d4afc1bf28202cdaba56.jpg/960px-President%27s_Office_--_Main_-_DPLA_-_d53532411588d4afc1bf28202cdaba56.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/President%27s_Office_--_Main_-_DPLA_-_d53532411588d4afc1bf28202cdaba56.jpg/500px-President%27s_Office_--_Main_-_DPLA_-_d53532411588d4afc1bf28202cdaba56.jpg",
+  "og": "https://dokugaku.seadice.win/img/rebuild-broken-study-plan.jpg",
+  "local": true
  }
 }
