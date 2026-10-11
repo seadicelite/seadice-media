@@ -1,5 +1,13 @@
 [
  {
+  "slug": "account-takeover-recovery-steps",
+  "category": "AI時代の防犯",
+  "type": "guide",
+  "date": "2026-10-11",
+  "title": "SNSやメールを乗っ取られたらどうする？取り戻す手順と、二次被害を防ぐ連絡",
+  "summary": "乗っ取る側が欲しいのは信頼そのもの。知人を装うだけでクリック率は4倍以上に。パスワード変更・サービスへの連絡・周りへの注意喚起が、二次被害を防ぐ近道。"
+ },
+ {
   "slug": "burglary-victim-immediate-actions",
   "category": "空き巣・侵入窃盗",
   "type": "guide",

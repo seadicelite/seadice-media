@@ -967,5 +967,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bishop_White_house_front_door_%2886ebbc03-1dd8-b71b-0b6a-de6f10a5d0d5%29.jpg/500px-Bishop_White_house_front_door_%2886ebbc03-1dd8-b71b-0b6a-de6f10a5d0d5%29.jpg",
   "og": "https://bohan.seadice.win/img/burglary-victim-immediate-actions-og.jpg",
   "local": true
+ },
+ "account-takeover-recovery-steps": {
+  "file": "File:Small padlock with three keys in Holma Marina.jpg",
+  "src": "/img/account-takeover-recovery-steps.jpg",
+  "src640": "/img/account-takeover-recovery-steps-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "鍵がかかった南京錠",
+  "artist": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Small_padlock_with_three_keys_in_Holma_Marina.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Small_padlock_with_three_keys_in_Holma_Marina.jpg/960px-Small_padlock_with_three_keys_in_Holma_Marina.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Small_padlock_with_three_keys_in_Holma_Marina.jpg/500px-Small_padlock_with_three_keys_in_Holma_Marina.jpg",
+  "og": "https://bohan.seadice.win/img/account-takeover-recovery-steps.jpg",
+  "local": true
  }
 }
