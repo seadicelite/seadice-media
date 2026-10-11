@@ -1,0 +1,205 @@
+{
+ "cols": [
+  {
+   "id": "why",
+   "label": "なぜ",
+   "q": "なぜそうなる？（記憶・脳・心の仕組み）"
+  },
+  {
+   "id": "judge",
+   "label": "効く？",
+   "q": "よく言われる勉強法・通説は効く？（研究で判定）"
+  },
+  {
+   "id": "how",
+   "label": "やり方",
+   "q": "研究で効果が示された、今日からできるやり方は？"
+  },
+  {
+   "id": "stuck",
+   "label": "つまずいたら",
+   "q": "うまくいかない・挫折した・失敗した後、どう立て直す？"
+  },
+  {
+   "id": "use",
+   "label": "使う",
+   "q": "自分で使える計画表・記録表・チェック表・ツール（記事内の表も可）"
+  }
+ ],
+ "rows": [
+  {
+   "id": "memory",
+   "label": "覚えられない・すぐ忘れる",
+   "cells": {
+    "why": [
+     "spaced-review-why-it-works",
+     "tip-of-the-tongue-forgetting",
+     "illusion-of-knowing-fluency"
+    ],
+    "judge": [
+     "retrieval-practice-vs-rereading",
+     "reading-aloud-production-effect",
+     "mnemonics-keyword-method-imagery",
+     "elaborative-interrogation-ask-why"
+    ],
+    "how": [
+     "flashcards-how-to-use"
+    ],
+    "use": [
+     "https://dokugaku.seadice.win/review-timing/",
+     "https://dokugaku.seadice.win/templates/recall-note/"
+    ]
+   }
+  },
+  {
+   "id": "vocab",
+   "label": "英単語・語学の暗記",
+   "cells": {
+    "how": [
+     "english-vocabulary-how-to-memorize"
+    ]
+   }
+  },
+  {
+   "id": "exam",
+   "label": "資格試験・テスト対策",
+   "cells": {
+    "judge": [
+     "cramming-overnight-study",
+     "past-exam-questions-certification"
+    ],
+    "use": [
+     "https://dokugaku.seadice.win/templates/review-calendar/"
+    ]
+   }
+  },
+  {
+   "id": "reading",
+   "label": "読んでも頭に入らない・ノート",
+   "cells": {
+    "judge": [
+     "summarizing-while-reading",
+     "highlighting-study-method",
+     "handwriting-vs-laptop-notes",
+     "mind-map-concept-map-study"
+    ],
+    "how": [
+     "pretesting-before-reading"
+    ]
+   }
+  },
+  {
+   "id": "method",
+   "label": "勉強法の選び方",
+   "cells": {
+    "judge": [
+     "learning-styles-visual-learner-myth",
+     "interleaving-mixed-practice",
+     "learning-by-teaching-protege-effect",
+     "productive-failure-struggle-first"
+    ],
+    "use": [
+     "https://dokugaku.seadice.win/hayami/"
+    ]
+   }
+  },
+  {
+   "id": "focus",
+   "label": "集中できない・スマホ",
+   "cells": {
+    "judge": [
+     "music-while-studying-lyrics",
+     "pomodoro-technique-breaks"
+    ]
+   }
+  },
+  {
+   "id": "place",
+   "label": "勉強する場所・時間帯",
+   "cells": {
+    "judge": [
+     "study-location-context-dependent-memory",
+     "chronotype-best-time-to-study"
+    ]
+   }
+  },
+  {
+   "id": "body",
+   "label": "睡眠・運動と勉強",
+   "cells": {
+    "judge": [
+     "sleep-before-study-memory",
+     "exercise-and-memory-learning"
+    ]
+   }
+  },
+  {
+   "id": "habit",
+   "label": "続かない・三日坊主",
+   "cells": {
+    "why": [
+     "willpower-self-control-study-environment"
+    ],
+    "how": [
+     "implementation-intentions-if-then-study",
+     "study-buddy-learning-together"
+    ],
+    "use": [
+     "study-log-progress-monitoring",
+     "https://dokugaku.seadice.win/study-log/",
+     "https://dokugaku.seadice.win/templates/if-then/"
+    ]
+   }
+  },
+  {
+   "id": "plan",
+   "label": "計画倒れ・時間がない",
+   "cells": {
+    "why": [
+     "planning-fallacy-study-plans"
+    ],
+    "judge": [
+     "micro-learning-spare-time-study",
+     "goal-setting-high-or-small-steps"
+    ],
+    "use": [
+     "https://dokugaku.seadice.win/templates/study-plan/"
+    ]
+   }
+  },
+  {
+   "id": "mind",
+   "label": "やる気が出ない・不安",
+   "cells": {
+    "judge": [
+     "rewards-undermining-study-motivation",
+     "growth-mindset-praise-effort"
+    ],
+    "how": [
+     "test-anxiety-expressive-writing"
+    ]
+   }
+  },
+  {
+   "id": "adult",
+   "label": "大人の学び直し",
+   "cells": {
+    "why": [
+     "adult-relearning-age-and-learning"
+    ]
+   }
+  },
+  {
+   "id": "ai",
+   "label": "AIと独学",
+   "cells": {
+    "judge": [
+     "ai-answers-and-learning",
+     "ai-writing-feedback-revision",
+     "self-explanation-vs-ai-explanation"
+    ]
+   }
+  }
+ ],
+ "research": []
+}
