@@ -1724,5 +1724,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sa_purse2.jpg/500px-Sa_purse2.jpg",
   "og": "https://ledger.seadice.win/img/kids-money-habits-parent-reflection.jpg",
   "local": true
+ },
+ "kids-allowance-money-skills-tips": {
+  "file": "File:JM marbles 01.jpg",
+  "src": "/img/kids-allowance-money-skills-tips.jpg",
+  "src640": "/img/kids-allowance-money-skills-tips-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ビー玉",
+  "artist": "Joe Mabel",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:JM_marbles_01.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/JM_marbles_01.jpg/960px-JM_marbles_01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/JM_marbles_01.jpg/500px-JM_marbles_01.jpg",
+  "og": "https://ledger.seadice.win/img/kids-allowance-money-skills-tips.jpg",
+  "local": true
  }
 }
