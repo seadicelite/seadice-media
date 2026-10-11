@@ -198,5 +198,10 @@
     ]
    ]
   ]
- }
+ },
+  "toolbox": [
+    {"name": "詐欺チェッカー", "desc": "届いたSMS・メールの文面が怪しいかを、その場で無料で確かめる", "href": "https://tantei.seadice.win/check/", "all": true},
+    {"name": "Decoy Notes（ダミー付き暗号メモ）", "desc": "正しい合言葉なら本物、ちがう合言葉ならダミーのメモが開く。暗号化してブラウザ内だけに保存", "href": "https://seadice.win/tools/decoy-notes/", "cats": ["個人情報の流出", "SNSから特定される"]},
+    {"id": "cognitive-bias-guide", "name": "認知バイアス", "desc": "確証バイアス・同調など80種類の認知バイアスを、例・対策・もとになった研究つきで解説", "appStoreId": "6791445664", "cats": ["偽サイト・偽レビュー", "なりすまし・ディープフェイク"], "all": true}
+  ]
 }

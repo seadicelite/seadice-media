@@ -101,6 +101,15 @@
 - [被害者と加害者が向き合うと何が変わるのか。修復的司法の10の比較試験が示した、被害者の満足と再犯の小さな減少](https://hanzai.seadice.win/restorative-justice-conferencing/): 被害者と加害者が直接会う話し合いは、再犯を少し減らし、被害者の満足度を高めていた。ただし両者が同意した事件に限られ、少年の厳密な試験では差がはっきりしない。
 - [「怖い刑務所見学」は非行を防ぐのか。9つの実験が示した、何もしないより悪い結果](https://hanzai.seadice.win/scared-straight-programs/): 少年に刑務所の厳しさを見せて怖がらせる取り組みは、9つの実験で効果がなく、何もしないより再非行を増やしていた。
 
+## ツールとアプリ（無料・登録不要）
+
+- 一覧: https://hanzai.seadice.win/tools/
+- [判断のくせを体験する](https://kodokeizai.seadice.win/taiken/): Webツール。損失回避・言い方で変わる選択など10問。答えてから研究の結果と比べられる
+- [自宅の防犯チェック](https://hanzaigaku.seadice.win/bouhan-check/): Webツール。犯罪学の4原則で、戸締まり・見通し・手入れ・被害後の備えを18項目で見直す
+- [認知バイアス](https://apps.apple.com/app/id6791445664): iPhoneアプリ。確証バイアス・同調など80種類の認知バイアスを、例・対策・もとになった研究つきで解説
+- [ダークトライアド診断](https://apps.apple.com/app/id6793077230): iPhoneアプリ。SD3尺度を参考にした27問で、自己愛・マキャベリズム・サイコパシーの傾向を測る
+- [目指せシャーロックホームズ-推理ノート](https://apps.apple.com/app/id6792714584): iPhoneアプリ。日常の一場面から手がかりを読み取り、観察と推理を採点してもらうトレーニング
+
 ## 主要ページ
 
 - トップ: https://hanzai.seadice.win/

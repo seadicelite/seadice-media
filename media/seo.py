@@ -350,6 +350,8 @@ def write_llms(cfg, posts=()):
                 lines += [f"#### {label}", "", *[item(ps.pop(s)) for s in slugs if s in ps], ""]
         lines += [item(p) for p in sorted(ps.values(), key=lambda p: p["slug"])]
         lines.append("")
+    import toolbox
+    lines += toolbox.llms_lines(cfg)
     lines += ["## 主要ページ", "",
               f"- トップ: {url}",
               f"- このメディアについて: {url}about/",

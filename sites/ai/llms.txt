@@ -119,6 +119,19 @@ AI時代の困りごとはSEADICE(https://seadice.win/)が運営する、無料�
 - [学校で生成AIを使う前に、生徒が知っておきたいこと。国の指針では、利用規約の年齢・入力しない個人情報・出力の確かめ方の3つが土台](https://ai.seadice.win/generative-ai-school-before-use/): 学校でAIを使う前に。国の指針から、規約の年齢と保護者の同意、入れない個人情報、出力の確かめ方を整理。答えの丸写しで力がつきにくい研究も。
 - [子どもや学生はどのくらいAIを使っている？国の調査では高校生の46.2%、ただし数字は聞き方で大きく変わる](https://ai.seadice.win/kids-students-ai-use-rate-survey/): こども家庭庁の調査で生成AIを使う高校生は46.2%、10歳以上の小学生8.6%。15〜19歳9割超の調査もあり、差は聞き方による。
 
+## ツールとアプリ（無料・登録不要）
+
+- 一覧: https://ai.seadice.win/tools/
+- [詐欺チェッカー](https://tantei.seadice.win/check/): Webツール。届いたSMS・メールの文面が怪しいかを、その場で無料で確かめる
+- [Decoy Notes（ダミー付き暗号メモ）](https://seadice.win/tools/decoy-notes/): Webツール。正しい合言葉なら本物、ちがう合言葉ならダミーのメモが開く。暗号化してブラウザ内だけに保存
+- [こまめ休憩タイマー](https://seadice.win/tools/kyukei-timer/): Webツール。10分作業→90秒休憩を自動でくり返す、集中を保つためのタイマー
+- [先に動く5分タイマー](https://seadice.win/tools/saki-ni-ugoku/): Webツール。やる気を待たずに5分だけ動き、前後の気分を記録する（行動活性化の研究がもと）
+- [思い出しトレーニング](https://apps.apple.com/app/id6801937769): iPhoneアプリ。覚えたい範囲から一問一答をつくり、間隔をあけた復習を自動で管理する
+- [SNS比較疲れ対策](https://apps.apple.com/app/id6802040116): iPhoneアプリ。SNSを見た後のモヤモヤをその場で話して、気持ちを整理する
+- [ひとりじかんノート](https://apps.apple.com/app/id6797715532): iPhoneアプリ。孤独を治すのではなく、ひとり時間の質を上げる過ごし方を提案・記録する
+- [れんしゅうSNS](https://apps.apple.com/app/id6820029513): iPhoneアプリ。知らない人のDM・悪口・詐欺リンクなど20の場面を、本物のSNSの前に安全に練習（子ども向け）
+- [認知バイアス](https://apps.apple.com/app/id6791445664): iPhoneアプリ。確証バイアス・同調など80種類の認知バイアスを、例・対策・もとになった研究つきで解説
+
 ## 主要ページ
 
 - トップ: https://ai.seadice.win/

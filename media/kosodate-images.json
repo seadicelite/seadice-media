@@ -1004,8 +1004,8 @@
  },
  "children-not-reading-books-vocabulary": {
   "file": "File:Part of a bookshelf containing books by ancient philosophers (1.1).jpg",
-  "src": "/img/children-not-reading-books-vocabulary.jpg",
-  "src640": "/img/children-not-reading-books-vocabulary-sm.jpg",
+  "src": "/img/children-not-reading-books-vocabulary.webp",
+  "src640": "/img/children-not-reading-books-vocabulary-sm.webp",
   "w": 960,
   "h": 640,
   "alt": "本棚に並ぶ本",
@@ -1014,16 +1014,15 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Part_of_a_bookshelf_containing_books_by_ancient_philosophers_(1.1).jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg/960px-Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg/500px-Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg",
-  "og": "https://kosodate.seadice.win/img/children-not-reading-books-vocabulary.jpg",
+  "og": "https://kosodate.seadice.win/img/children-not-reading-books-vocabulary-og.jpg",
   "local": true
  },
  "study-music-lyrics-concentration": {
   "file": "File:Earphones BW 2011-12-10 15-49-08.JPG",
-  "src": "/img/study-music-lyrics-concentration.jpg",
-  "src640": "/img/study-music-lyrics-concentration-sm.jpg",
+  "src": "/img/study-music-lyrics-concentration.webp",
+  "src640": "/img/study-music-lyrics-concentration-sm.webp",
   "w": 960,
   "h": 643,
   "alt": "赤いイヤホン",
@@ -1032,10 +1031,9 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:Earphones_BW_2011-12-10_15-49-08.JPG",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Earphones_BW_2011-12-10_15-49-08.JPG/960px-Earphones_BW_2011-12-10_15-49-08.JPG",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Earphones_BW_2011-12-10_15-49-08.JPG/500px-Earphones_BW_2011-12-10_15-49-08.JPG",
-  "og": "https://kosodate.seadice.win/img/study-music-lyrics-concentration.jpg",
+  "og": "https://kosodate.seadice.win/img/study-music-lyrics-concentration-og.jpg",
   "local": true
  }
 }

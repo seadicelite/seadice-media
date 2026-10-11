@@ -163,6 +163,20 @@ AI時代のメンタルヘルスはSEADICE(https://seadice.win/)が運営する�
 - [人と会わなくても困らないけど、つながりは本当に大事？30万人超の研究のまとめでは、つながりが強い人ほど生き続ける見込みが高かった](https://mentalai.seadice.win/social-connection-health/): 148件・30万人超の研究のまとめでは、つながりが強い人ほど生存の見込みが高く、孤立も孤独も死亡リスクの高さと関連していた
 - [文字だけのやりとりで、冷たいと思われていないか不安。実験では、書き手は気持ちが伝わると思い込みやすく、絵文字ひとつで「応えてくれている」と感じられやすかった](https://mentalai.seadice.win/text-message-tone-misread/): 文字には声や表情がなく、書き手は調子が伝わると思い込みやすい。絵文字を添えた返事は「応えてくれている」と感じられやすかった。
 
+## ツールとアプリ（無料・登録不要）
+
+- 一覧: https://mentalai.seadice.win/tools/
+- [AI・スマホ・SNS疲れのセルフチェック](https://mentalai.seadice.win/check/): Webツール。悩みを選ぶと、今日やることと関連する研究がわかる
+- [研究早見表](https://mentalai.seadice.win/hayami/): Webツール。悩み別に、研究の答えと今日できることを一覧で見る
+- [こまめ休憩タイマー](https://seadice.win/tools/kyukei-timer/): Webツール。10分作業→90秒休憩を自動でくり返す、集中を保つためのタイマー
+- [先に動く5分タイマー](https://seadice.win/tools/saki-ni-ugoku/): Webツール。やる気を待たずに5分だけ動き、前後の気分を記録する（行動活性化の研究がもと）
+- [SNS比較疲れ対策](https://apps.apple.com/app/id6802040116): iPhoneアプリ。SNSを見た後のモヤモヤをその場で話して、気持ちを整理する
+- [ひとりじかんノート](https://apps.apple.com/app/id6797715532): iPhoneアプリ。孤独を治すのではなく、ひとり時間の質を上げる過ごし方を提案・記録する
+- [ドーパミンハック](https://apps.apple.com/app/id6801960694): iPhoneアプリ。通知やSNSに流されず、5分の小さな一歩を積み重ねて行動をつなげる
+- [感情の天気予報](https://apps.apple.com/app/id6797248387): iPhoneアプリ。毎日の気分を記録して、落ち込みやすい曜日や状況の傾向を見つける
+- [科学で断つ 悪習慣ログ](https://apps.apple.com/app/id6798075879): iPhoneアプリ。やめたい習慣ごとに理由・代わりの行動を決め、ワンタップで記録して続ける
+- [通知deマインドフルネス](https://apps.apple.com/app/id6799487711): iPhoneアプリ。1日数回、ランダムな時刻に「今、深呼吸してみましょう」と届く。開かなくても続く深呼吸の習慣に
+
 ## 主要ページ
 
 - トップ: https://mentalai.seadice.win/

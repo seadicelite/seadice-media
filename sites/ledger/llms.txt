@@ -145,6 +145,15 @@
 - [お金の使い方、満足につながっている？「何に使ったか」を2つの質問で採点する振り返り表と研究](https://ledger.seadice.win/spending-happiness-reflection-check/): 先月の支出を「どれくらい幸せになった？」など2問で1〜5点に採点し、8つの質問で種類を確かめる表。7か国200人が1万ドルを使った研究から作った。
 - [お金より時間を大切にする人の方が幸せなのか。「時間かお金か」の研究](https://ledger.seadice.win/time-over-money-happiness/): 多くの人はお金を選ぶが、時間を選んだ人の方が幸福感が高かった。時間を生み出すサービスにお金を使う人ほど、生活満足度も高かった。
 
+## ツールとアプリ（無料・登録不要）
+
+- 一覧: https://ledger.seadice.win/tools/
+- [判断のくせを体験する](https://kodokeizai.seadice.win/taiken/): Webツール。損失回避・言い方で変わる選択など10問。答えてから研究の結果と比べられる
+- [サブスク見直しチェック](https://seadice.win/tools/sabusuku-minaoshi/): Webツール。「いまゼロから契約しても入る？」で見直し候補と年間で浮く金額を計算
+- [困りごとから制度を探す](https://shakaihosho.seadice.win/sagasu/): Webツール。生活費・介護・病気など困りごとを選ぶと、確かめたい制度と窓口がわかる
+- [科学で断つ 悪習慣ログ](https://apps.apple.com/app/id6798075879): iPhoneアプリ。やめたい習慣ごとに理由・代わりの行動を決め、ワンタップで記録して続ける
+- [認知バイアス](https://apps.apple.com/app/id6791445664): iPhoneアプリ。確証バイアス・同調など80種類の認知バイアスを、例・対策・もとになった研究つきで解説
+
 ## 主要ページ
 
 - トップ: https://ledger.seadice.win/

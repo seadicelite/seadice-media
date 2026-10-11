@@ -119,6 +119,8 @@ def build(slug, preview=None):
         extra_css = hub.EXTRA_CSS
     # hub は年齢・悩みの入口と新着を本文側に持つので、カテゴリチップと PICK UP を出さない
     pick = "" if cfg.get("layout") == "hub" else f'<div class="chips" aria-label="カテゴリ">{chips}</div><h2 class="sec">PICK UP</h2><div class="grid">{latest}</div>'
+    import toolbox  # ツールとアプリをトップのヒーロー直下に出す（設定に toolbox / apps があるメディアだけ）
+    tb_top = toolbox.top_html(cfg)
     ttl = f"{name} | {cfg.get('titleSuffix', '')}".rstrip(" |")
     desc = html.escape(cfg.get("description", ""), quote=True)
     ld = json.dumps({"@context": "https://schema.org", "@graph": [
@@ -153,7 +155,7 @@ def build(slug, preview=None):
 <meta name="twitter:card" content="summary">
 {favicon_tag(name, theme)}
 <script type="application/ld+json">{ld}</script>
-<style>{CSS % theme}{extra_css if mag or cfg.get("layout") == "hub" else ""}{cfg.get("extraCss", "")}</style>
+<style>{CSS % theme}{extra_css if mag or cfg.get("layout") == "hub" else ""}{toolbox.CSS if tb_top else ""}{cfg.get("extraCss", "")}</style>
 </head>
 <body>
 <nav class="top">
@@ -161,7 +163,7 @@ def build(slug, preview=None):
   <a href="/" class="r">{html.escape(name)}</a>
 </nav>
 {ticker_html}<main{' class="mag"' if mag else ''}>
-  {(cfg.get("mastheadHtml") or f'<div class="maghead"><h1>{html.escape(name)}</h1><p class="tagline">{html.escape(tagline)}</p></div>').replace("%NAME%", html.escape(name)).replace("%TAGLINE%", html.escape(tagline)).replace("%LEAD%", html.escape(cfg.get("lead", ""))).replace("%POSTS%", str(len(posts))).replace("%CATS%", str(len(cats))).replace("%UPDATED%", max((p["date"] for p in posts), default="")) if mag else ''}{'' if mag else (cfg.get("mastheadHtml") or f'<div class="hero"><h1>{html.escape(name)}</h1><p class="tagline">{html.escape(tagline)}</p><p class="lead">{html.escape(lead)}</p></div>').replace("%NAME%", html.escape(name)).replace("%TAGLINE%", html.escape(tagline)).replace("%LEAD%", html.escape(lead)).replace("%POSTS%", str(len(posts))).replace("%CATS%", str(len(cats))).replace("%UPDATED%", max((p["date"] for p in posts), default="")) + pick}
+  {(cfg.get("mastheadHtml") or f'<div class="maghead"><h1>{html.escape(name)}</h1><p class="tagline">{html.escape(tagline)}</p></div>').replace("%NAME%", html.escape(name)).replace("%TAGLINE%", html.escape(tagline)).replace("%LEAD%", html.escape(cfg.get("lead", ""))).replace("%POSTS%", str(len(posts))).replace("%CATS%", str(len(cats))).replace("%UPDATED%", max((p["date"] for p in posts), default="")) + tb_top if mag else ''}{'' if mag else (cfg.get("mastheadHtml") or f'<div class="hero"><h1>{html.escape(name)}</h1><p class="tagline">{html.escape(tagline)}</p><p class="lead">{html.escape(lead)}</p></div>').replace("%NAME%", html.escape(name)).replace("%TAGLINE%", html.escape(tagline)).replace("%LEAD%", html.escape(lead)).replace("%POSTS%", str(len(posts))).replace("%CATS%", str(len(cats))).replace("%UPDATED%", max((p["date"] for p in posts), default="")) + tb_top + pick}
   {body_html + secs_html if mag else secs}
   {faq_html}
   {trust_html}
@@ -208,8 +210,15 @@ def build(slug, preview=None):
                    for u in aurls if f"<loc>{u}</loc>" not in sm.read_text())
     if add3:
         sm.write_text(sm.read_text().replace("</urlset>", add3 + "</urlset>"))
+    tn, turls = toolbox.apply(cfg, posts, theme, favicon_tag(name, theme), CSS % theme)  # 記事冒頭の「この記事と一緒に使える」と /tools/
+    add4 = "".join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{latest_date}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.7</priority>\n  </url>\n'
+                   for u in turls if f"<loc>{u}</loc>" not in sm.read_text())
+    if add4:
+        sm.write_text(sm.read_text().replace("</urlset>", add4 + "</urlset>"))
     if an:
         print(f"app cards: {an} articles, {len(aurls)} app pages")
+    if tn:
+        print(f"toolbox: {tn} articles, hub {turls or 'kept'}")
     site_og(cfg)
     print(f"built {cfg['path']}index.html ({len(posts)} posts), seo-patched {n} articles, {len(pages)} trust pages, {len(cat_urls)} category hubs"
           + (f", {xn} extra pages, {xb} verified badges" if xn or xb else ""))

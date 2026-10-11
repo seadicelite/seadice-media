@@ -87,6 +87,18 @@
 - [AIに作文を添削させると上達するのか。AIの添削（自動フィードバック）と学習の研究](https://dokugaku.seadice.win/ai-writing-feedback-revision/): AIの添削は作文に中くらいの効果。直した文を受け取らず、指摘をもとに自分で書き直すのが分かれ目
 - [AIに説明させるより、自分で説明した方が覚えられるのか。自己説明と生成効果の研究](https://dokugaku.seadice.win/self-explanation-vs-ai-explanation/): 上手な説明を読むより自分で説明した方が学びは大きくなりやすい。AIは説明役より確認役に使うのが研究に沿った使い方
 
+## ツールとアプリ（無料・登録不要）
+
+- 一覧: https://dokugaku.seadice.win/tools/
+- [復習日の計算機](https://dokugaku.seadice.win/review-timing/): Webツール。試験日を入れると、1回目の復習に向く日を計算
+- [勉強の記録シート](https://dokugaku.seadice.win/study-log/): Webツール。今日やった勉強を1行で記録し、続けた日数と時間を見える化
+- [勉強法の早見表](https://dokugaku.seadice.win/hayami/): Webツール。39の勉強法を、効く・効かないで研究から判定
+- [勉強のテンプレート](https://dokugaku.seadice.win/templates/): Webツール。暗記ノート・計画表など、無料で印刷・PDF保存
+- [こまめ休憩タイマー](https://seadice.win/tools/kyukei-timer/): Webツール。10分作業→90秒休憩を自動でくり返す、集中を保つためのタイマー
+- [先に動く5分タイマー](https://seadice.win/tools/saki-ni-ugoku/): Webツール。やる気を待たずに5分だけ動き、前後の気分を記録する（行動活性化の研究がもと）
+- [おもいだしトレーニング](https://apps.apple.com/app/id6801937769): iPhoneアプリ。覚えたい範囲を入れるか教科書を撮ると、AIが一問一答を作る。何も見ずに答えを書いて、忘れかけた頃に復習日が回ってくる
+- [独学スケジュールメーカー](https://apps.apple.com/app/id6813728815): iPhoneアプリ。参考書の目次を撮ると、AIが章立てを読み取り、開始日と期限から無理のない学習スケジュールを組む
+
 ## 主要ページ
 
 - トップ: https://dokugaku.seadice.win/

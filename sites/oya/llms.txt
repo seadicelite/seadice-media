@@ -85,6 +85,17 @@
 - [親が補聴器を嫌がる・つけてくれない。使わなくなる理由と、話し方](https://oya.seadice.win/parent-refuses-hearing-aid-talk/): 補聴器を使わない理由で多いのは見た目より「効果を感じない」「付け心地」。理由を責めずに聞き、調整や試しにつなぐ話し方を研究から。
 - [親が物忘れの受診を嫌がる。伝え方と、早めに相談する意味](https://oya.seadice.win/parent-refuses-memory-checkup-talk/): 無理に連れて行かず親の不安を聞き、通院のついでに相談を。診断まで平均3.5年の研究も。家族だけの相談もできる。
 
+## ツールとアプリ（無料・登録不要）
+
+- 一覧: https://oya.seadice.win/tools/
+- [親の悩みチェック](https://oya.seadice.win/check/): Webツール。物忘れ・運転・ひとり暮らしの悩みを選ぶと、今日やることがわかる
+- [30秒いす立ち上がりテスト](https://oya.seadice.win/isu-test/): Webツール。親の脚の力と転倒の目安を、家で測る
+- [帰省チェックリスト](https://oya.seadice.win/kisei-checklist/): Webツール。離れて暮らす親の家で、帰省のときに確かめたいこと
+- [気持ちメモ](https://oya.seadice.win/kimochi-memo/): Webツール。介護・見守りのしんどさを1タップで記録する
+- [困りごとから制度を探す](https://shakaihosho.seadice.win/sagasu/): Webツール。生活費・介護・病気など困りごとを選ぶと、確かめたい制度と窓口がわかる
+- [研究早見表](https://oya.seadice.win/hayami/): Webツール。悩み別に、研究の答えと今日できることを一覧で見る
+- [実家じまいノート](https://apps.apple.com/app/id6797358274): iPhoneアプリ。親の家の片付け・相続・空き家化に先回りして、次の一歩とチェックリストで備える
+
 ## 主要ページ
 
 - トップ: https://oya.seadice.win/

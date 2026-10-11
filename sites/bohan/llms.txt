@@ -111,6 +111,16 @@
 - [使っていないアカウントの放置は危ない？休眠アカウントの棚卸しと退会のやり方](https://bohan.seadice.win/unused-accounts-cleanup/): 放置アカウントは入られても気づきにくい。受信箱と保存済みパスワードから洗い出し、退会と鍵のかけ直しをする手順。
 - [「即日即金」「ホワイト案件」は闇バイトのサイン。応募した若者が使い捨てにされる仕組み](https://bohan.seadice.win/yami-baito-recruitment-signs/): 「高額」「即日即金」「ホワイト案件」で誘い、匿名アプリに移して個人情報を握り、脅して抜けられなくするのが闇バイトの手口。少しでも怪しければ応募せず、#9110へ。
 
+## ツールとアプリ（無料・登録不要）
+
+- 一覧: https://bohan.seadice.win/tools/
+- [この連絡、詐欺かも？チェック](https://bohan.seadice.win/sagi-check/): Webツール。電話・メール・SNSで当てはまるサインを選ぶと、すぐやることと相談先がわかる
+- [AI時代の防犯 セルフ点検](https://bohan.seadice.win/ai-tenken/): Webツール。パスワード・電話・SNS・AIチャット・家族の24項目で、できた対策に印をつける
+- [家族の合言葉カード](https://bohan.seadice.win/aikotoba/): Webツール。AIの偽物の声に備える合言葉の決め方と、印刷できる手順カード
+- [自宅の防犯チェック](https://hanzaigaku.seadice.win/bouhan-check/): Webツール。犯罪学の4原則で、戸締まり・見通し・手入れ・被害後の備えを18項目で見直す
+- [Decoy Notes（ダミー付き暗号メモ）](https://seadice.win/tools/decoy-notes/): Webツール。正しい合言葉なら本物、ちがう合言葉ならダミーのメモが開く。暗号化してブラウザ内だけに保存
+- [れんしゅうSNS](https://apps.apple.com/app/id6820029513): iPhoneアプリ。知らない人のDM・悪口・詐欺リンクなど20の場面を、本物のSNSの前に安全に練習（子ども向け）
+
 ## 主要ページ
 
 - トップ: https://bohan.seadice.win/

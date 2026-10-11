@@ -386,5 +386,12 @@
         "ai-answers-memory-retention"
       ]
     }
+  ],
+  "toolbox": [
+    {"name": "子どものAI・スマホの悩みチェック", "desc": "悩みを選ぶと、親が今日やることがわかる", "href": "/check/", "all": true},
+    {"name": "スクリーンタイム判定", "desc": "スクショから、年齢別の目安（WHOなど）と比べる", "href": "/screen-time-check/", "cats": ["スマホ・スクリーンタイム"]},
+    {"name": "AIで練習するSNS", "desc": "知らない人のDM・悪口・写真投稿などを、子どもと一緒に練習する", "href": "/sns-practice/", "cats": ["安全・プライバシー"]},
+    {"name": "スマホ・AIルールづくり（印刷用）", "desc": "年齢別に選んで、家族のルール表を印刷できる", "href": "/rules/", "cats": ["AIの使わせ方", "スマホ・スクリーンタイム"]},
+    {"name": "研究早見表", "desc": "悩み別に、研究の答えと今日できることを一覧で見る", "href": "/hayami/"}
   ]
 }

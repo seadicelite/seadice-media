@@ -230,5 +230,14 @@
     "sns-photo-location-home"
    ]
   }
- ]
+ ],
+  "toolboxTop": false,
+  "toolbox": [
+    {"name": "この連絡、詐欺かも？チェック", "desc": "電話・メール・SNSで当てはまるサインを選ぶと、すぐやることと相談先がわかる", "href": "/sagi-check/", "cats": ["AI時代の防犯"]},
+    {"name": "AI時代の防犯 セルフ点検", "desc": "パスワード・電話・SNS・AIチャット・家族の24項目で、できた対策に印をつける", "href": "/ai-tenken/", "cats": ["AI時代の防犯"]},
+    {"name": "家族の合言葉カード", "desc": "AIの偽物の声に備える合言葉の決め方と、印刷できる手順カード", "href": "/aikotoba/"},
+    {"name": "自宅の防犯チェック", "desc": "犯罪学の4原則で、戸締まり・見通し・手入れ・被害後の備えを18項目で見直す", "href": "https://hanzaigaku.seadice.win/bouhan-check/", "cats": ["空き巣・侵入窃盗", "一人暮らしの防犯", "防犯の心理学"], "all": true},
+    {"name": "Decoy Notes（ダミー付き暗号メモ）", "desc": "正しい合言葉なら本物、ちがう合言葉ならダミーのメモが開く。暗号化してブラウザ内だけに保存", "href": "https://seadice.win/tools/decoy-notes/", "cats": ["AI時代の防犯", "夜道・つきまとい", "一人暮らしの防犯"]},
+    {"id": "renshu-sns", "name": "れんしゅうSNS", "desc": "知らない人のDM・悪口・詐欺リンクなど20の場面を、本物のSNSの前に安全に練習（子ども向け）", "appStoreId": "6820029513", "cats": ["子どもの安全"]}
+  ]
 }

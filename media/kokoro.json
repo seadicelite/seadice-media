@@ -303,5 +303,16 @@
         "revenge-bedtime-procrastination"
       ]
     }
+  ],
+  "toolbox": [
+    {"name": "AI・スマホ・SNS疲れのセルフチェック", "desc": "悩みを選ぶと、今日やることと関連する研究がわかる", "href": "/check/", "all": true},
+    {"name": "研究早見表", "desc": "悩み別に、研究の答えと今日できることを一覧で見る", "href": "/hayami/"},
+    {"name": "こまめ休憩タイマー", "desc": "10分作業→90秒休憩を自動でくり返す、集中を保つためのタイマー", "href": "https://seadice.win/tools/kyukei-timer/", "cats": ["考える力・集中"]},
+    {"name": "先に動く5分タイマー", "desc": "やる気を待たずに5分だけ動き、前後の気分を記録する（行動活性化の研究がもと）", "href": "https://seadice.win/tools/saki-ni-ugoku/", "cats": ["仕事とAIの不安"]},
+    {"id": "hikaku-tomeru", "name": "SNS比較疲れ対策", "desc": "SNSを見た後のモヤモヤをその場で話して、気持ちを整理する", "appStoreId": "6802040116", "cats": ["比べて落ち込む"]},
+    {"id": "hitori-time", "name": "ひとりじかんノート", "desc": "孤独を治すのではなく、ひとり時間の質を上げる過ごし方を提案・記録する", "appStoreId": "6797715532", "cats": ["人とのつながり"]},
+    {"id": "dopamine-detox", "name": "ドーパミンハック", "desc": "通知やSNSに流されず、5分の小さな一歩を積み重ねて行動をつなげる", "appStoreId": "6801960694", "cats": ["AI疲れ・情報疲れ", "考える力・集中"]},
+    {"id": "mood-forecast", "name": "感情の天気予報", "desc": "毎日の気分を記録して、落ち込みやすい曜日や状況の傾向を見つける", "appStoreId": "6797248387", "cats": ["仕事とAIの不安"], "all": true},
+    {"id": "habit-quit", "name": "科学で断つ 悪習慣ログ", "desc": "やめたい習慣ごとに理由・代わりの行動を決め、ワンタップで記録して続ける", "appStoreId": "6798075879", "cats": ["AIとの付き合い方"]}
   ]
 }

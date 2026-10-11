@@ -47,6 +47,13 @@
 
 - [宅配の不在通知SMSは本物？スミッシングの見分け方とURLを開かずに確かめる手順](https://tantei.seadice.win/delivery-sms-smishing-check/): 偽SMSを受け取った人の64.1%が宅配業者を装うものと回答。URLを開かずに本物か確かめる手順。
 
+## ツールとアプリ（無料・登録不要）
+
+- 一覧: https://tantei.seadice.win/tools/
+- [詐欺チェッカー](https://tantei.seadice.win/check/): Webツール。届いたSMS・メールの文面が怪しいかを、その場で無料で確かめる
+- [Decoy Notes（ダミー付き暗号メモ）](https://seadice.win/tools/decoy-notes/): Webツール。正しい合言葉なら本物、ちがう合言葉ならダミーのメモが開く。暗号化してブラウザ内だけに保存
+- [認知バイアス](https://apps.apple.com/app/id6791445664): iPhoneアプリ。確証バイアス・同調など80種類の認知バイアスを、例・対策・もとになった研究つきで解説
+
 ## 主要ページ
 
 - トップ: https://tantei.seadice.win/

@@ -33,6 +33,15 @@ argument-hint: <slug 例: research> [--draft] [トピック]
 7.5. テーマの表があるメディアは、書いた記事のslugを `{slug}-matrix.json` の当てはまるマス（行×列。複数可、どこにも入らない研究の記事は `research`）に足し、`python3 media/matrix.py {slug} --check` が通ることを確かめる。
 8. 報告: 記事URL(またはPR URL)、採用出典、キュー残数。
 
+## ツールとアプリを目立たせる（全メディア共通、2026-10-11〜）
+
+SEADICEは「読むメディア」から「使えるツールメディア」へ育てる。各メディアの設定 `toolbox` 配列に、そのメディアで使えるWebツール・公開済みアプリを登録しておくと、`build.py` が次の3か所に自動で出す（`media/toolbox.py`）。
+- 記事: 冒頭の要約の直後に「この記事と一緒に使える」（ツール1つ＋アプリ1つ）。ツールは `{slug}-toollinks.json` の指定 > `slugs` > `cats` > `all` の順に選ぶ
+- トップ: ヒーロー直下の「使えるツールとアプリ」（トップに手書きのツール枠があるメディアは `"toolboxTop": false`）
+- 一覧: `/tools/`（手書きの一覧ページが既にあれば上書きしない）
+
+新しいWebツールを作ったら、同じ作業の中で `toolbox` に1件（`name` `desc` `href` `cats`）足す。アプリは App Store 公開後に `appStoreId` と `id` 付きで足す（アイコンは SEADICE の `p/icons/apps/{id}.webp` から自動でコピー）。未公開アプリは載せない。関連の薄いものを無理に `all` にしない。
+
 ## 新しいメディアを増やすとき
 
 `media/{新slug}.json` を `research.json` と同じ形で作るだけ（`siteType` を必ず書く）。`template` `rulesFrom` は共有してよい（見た目やルールを変えたいときだけ別ファイルにする）。新しいテンプレート(`{新slug}-template.html`)を作る場合は、`docs/quality/base.md` と該当する種類のファイルを土台にする（ジャンルが変わっても読みやすさの基準は共通）。

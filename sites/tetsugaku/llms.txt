@@ -99,6 +99,11 @@
 - [テセウスの船とは？ 部品をすべて替えても同じ船と言えるのか](https://tetsugaku.seadice.win/ship-of-theseus/): 板を一枚ずつ全部替えた船は同じ船か。外した板で組み直した船とどちらが本物か。物が「同じであり続ける」とは何かを問う思考実験。
 - [ウィトゲンシュタインの「言語ゲーム」とは？ 言葉の意味は使い方で決まる](https://tetsugaku.seadice.win/wittgenstein-language-games/): 言葉を話すことは生活の活動の一部。言葉の意味は、辞書的な定義ではなく、言語の中での使い方にあると後期ウィトゲンシュタインは考えた。
 
+## ツールとアプリ（無料・登録不要）
+
+- 一覧: https://tetsugaku.seadice.win/tools/
+- [哲人フレンド](https://apps.apple.com/app/id6809145872): iPhoneアプリ。ソクラテスやニーチェなど、哲学者と会話しながら考えを深める
+
 ## 主要ページ
 
 - トップ: https://tetsugaku.seadice.win/

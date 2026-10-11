@@ -294,5 +294,16 @@
     "no-ai-exam-interview-freeze"
    ]
   }
- ]
+ ],
+  "toolbox": [
+    {"name": "詐欺チェッカー", "desc": "届いたSMS・メールの文面が怪しいかを、その場で無料で確かめる", "href": "https://tantei.seadice.win/check/", "cats": ["詐欺・なりすまし", "偽情報・ディープフェイク"]},
+    {"name": "Decoy Notes（ダミー付き暗号メモ）", "desc": "正しい合言葉なら本物、ちがう合言葉ならダミーのメモが開く。暗号化してブラウザ内だけに保存", "href": "https://seadice.win/tools/decoy-notes/", "cats": ["プライバシー・個人情報"]},
+    {"name": "こまめ休憩タイマー", "desc": "10分作業→90秒休憩を自動でくり返す、集中を保つためのタイマー", "href": "https://seadice.win/tools/kyukei-timer/", "cats": ["考える力・集中", "AIに頼りすぎ"]},
+    {"name": "先に動く5分タイマー", "desc": "やる気を待たずに5分だけ動き、前後の気分を記録する（行動活性化の研究がもと）", "href": "https://seadice.win/tools/saki-ni-ugoku/", "cats": ["仕事・キャリア", "心の疲れ・比べて落ち込む"], "all": true},
+    {"id": "active-recall", "name": "思い出しトレーニング", "desc": "覚えたい範囲から一問一答をつくり、間隔をあけた復習を自動で管理する", "appStoreId": "6801937769", "cats": ["AIに頼りすぎ", "考える力・集中", "子ども・学校"]},
+    {"id": "hikaku-tomeru", "name": "SNS比較疲れ対策", "desc": "SNSを見た後のモヤモヤをその場で話して、気持ちを整理する", "appStoreId": "6802040116", "cats": ["心の疲れ・比べて落ち込む"]},
+    {"id": "hitori-time", "name": "ひとりじかんノート", "desc": "孤独を治すのではなく、ひとり時間の質を上げる過ごし方を提案・記録する", "appStoreId": "6797715532", "cats": ["人間関係・孤独"]},
+    {"id": "renshu-sns", "name": "れんしゅうSNS", "desc": "知らない人のDM・悪口・詐欺リンクなど20の場面を、本物のSNSの前に安全に練習（子ども向け）", "appStoreId": "6820029513", "cats": ["子ども・学校"]},
+    {"id": "cognitive-bias-guide", "name": "認知バイアス", "desc": "確証バイアス・同調など80種類の認知バイアスを、例・対策・もとになった研究つきで解説", "appStoreId": "6791445664", "cats": ["偽情報・ディープフェイク", "仕事・キャリア", "創作・著作権"], "all": true}
+  ]
 }

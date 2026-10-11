@@ -189,5 +189,16 @@
         "ex-partner-social-media-checking-research"
       ]
     }
+  ],
+  "toolbox": [
+    {"name": "脈ありチェック", "desc": "そのしぐさは好意のサイン？26種類を研究で判定", "href": "/myakuari-check/", "cats": ["脈あり・好意のサイン"]},
+    {"name": "危険な相手のサイン チェック", "desc": "束縛・モラハラ・DVのサインを研究で確かめる", "href": "/redflag-check/", "cats": ["危険な相手のサイン"]},
+    {"name": "嘘のサインチェック", "desc": "嘘をつく人のしぐさは本当？18種類を研究で判定", "href": "/uso-check/", "cats": ["駆け引きと心理"]},
+    {"name": "冷めたサインチェック", "desc": "連絡が減った・返信が遅いは本当に冷めたサイン？", "href": "/sameta-check/", "cats": ["別れと復縁"]},
+    {"name": "しぐさ索引・クイズ", "desc": "しぐさ・ボディランゲージを部位から引ける索引", "href": "/shigusa/", "cats": ["しぐさ・ボディランゲージ"]},
+    {"name": "ふたりの日記", "desc": "恋人との毎日を1タップで記録する", "href": "/nikki/", "cats": ["相性と結婚"]},
+    {"name": "本当？ウソ？クイズ", "desc": "恋愛・しぐさの通説77問を研究で判定", "href": "/quiz/", "all": true},
+    {"id": "attachment-style", "name": "愛着スタイル診断", "desc": "安定型・不安型・回避型など、恋愛や人間関係のパターンを知る", "appStoreId": "6793424764", "cats": ["相性と結婚", "別れと復縁"], "all": true},
+    {"id": "fbi-bodylanguage", "name": "FBI式ボディランゲージ辞典", "desc": "腕組みや視線などのしぐさを、元FBI捜査官の観察法で読み解くクイズ", "appStoreId": "6792498079", "cats": ["しぐさ・ボディランゲージ", "駆け引きと心理"]}
   ]
 }

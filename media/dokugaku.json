@@ -265,5 +265,13 @@
         "study-log-progress-monitoring"
       ]
     }
+  ],
+  "toolbox": [
+    {"name": "復習日の計算機", "desc": "試験日を入れると、1回目の復習に向く日を計算", "href": "/review-timing/", "cats": ["記憶・覚え方", "時間・計画"]},
+    {"name": "勉強の記録シート", "desc": "今日やった勉強を1行で記録し、続けた日数と時間を見える化", "href": "/study-log/", "cats": ["続け方・習慣", "やる気・心"]},
+    {"name": "勉強法の早見表", "desc": "39の勉強法を、効く・効かないで研究から判定", "href": "/hayami/", "cats": ["勉強法", "AIと独学"], "all": true},
+    {"name": "勉強のテンプレート", "desc": "暗記ノート・計画表など、無料で印刷・PDF保存", "href": "/templates/", "cats": ["時間・計画"]},
+    {"name": "こまめ休憩タイマー", "desc": "10分作業→90秒休憩を自動でくり返す、集中を保つためのタイマー", "href": "https://seadice.win/tools/kyukei-timer/", "cats": ["集中・環境"]},
+    {"name": "先に動く5分タイマー", "desc": "やる気を待たずに5分だけ動き、前後の気分を記録する（行動活性化の研究がもと）", "href": "https://seadice.win/tools/saki-ni-ugoku/", "cats": ["やる気・心"]}
   ]
 }

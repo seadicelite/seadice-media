@@ -149,5 +149,8 @@
         "baudrillard-simulacra"
       ]
     }
+  ],
+  "toolbox": [
+    {"id": "tetsujin-friends", "name": "哲人フレンド", "desc": "ソクラテスやニーチェなど、哲学者と会話しながら考えを深める", "appStoreId": "6809145872", "all": true}
   ]
 }

@@ -104,6 +104,17 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [学校のタブレット・教育アプリ、子どもの個人情報は守られている？](https://kosodate.seadice.win/school-tablet-app-child-data-privacy/): 学校のタブレットや教育アプリは子どもの個人情報を守れている？研究データと海外の事例から考えます。
 - [子どもの写真をSNSに載せるリスクは？「シェアレンティング」の注意点](https://kosodate.seadice.win/sharenting-sns-photo-risk/): 調査に答えた親の7割以上がプライバシー侵害になりうると感じている一方、子ども本人の同意を十分に取れていない現状があります。
 
+## ツールとアプリ（無料・登録不要）
+
+- 一覧: https://kosodate.seadice.win/tools/
+- [子どものAI・スマホの悩みチェック](https://kosodate.seadice.win/check/): Webツール。悩みを選ぶと、親が今日やることがわかる
+- [スクリーンタイム判定](https://kosodate.seadice.win/screen-time-check/): Webツール。スクショから、年齢別の目安（WHOなど）と比べる
+- [AIで練習するSNS](https://kosodate.seadice.win/sns-practice/): Webツール。知らない人のDM・悪口・写真投稿などを、子どもと一緒に練習する
+- [スマホ・AIルールづくり（印刷用）](https://kosodate.seadice.win/rules/): Webツール。年齢別に選んで、家族のルール表を印刷できる
+- [研究早見表](https://kosodate.seadice.win/hayami/): Webツール。悩み別に、研究の答えと今日できることを一覧で見る
+- [れんしゅうSNS](https://apps.apple.com/app/id6820029513): iPhoneアプリ。本物のSNSを始める前に、知らない人からのDMや悪口の書き込みへの返し方を、アプリの中だけで練習できる。投稿は外に出ず、保護者確認つき
+- [おもいだしトレーニング](https://apps.apple.com/app/id6801937769): iPhoneアプリ。覚えたい範囲を入れるか教科書を撮ると、AIが一問一答を作る。何も見ずに答えを書いて、忘れかけた頃に復習日が回ってくる
+
 ## 主要ページ
 
 - トップ: https://kosodate.seadice.win/

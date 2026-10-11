@@ -157,5 +157,13 @@
         "envelope-partition-saving"
       ]
     }
+  ],
+  "toolboxTop": false,
+  "toolbox": [
+    {"name": "判断のくせを体験する", "desc": "損失回避・言い方で変わる選択など10問。答えてから研究の結果と比べられる", "href": "https://kodokeizai.seadice.win/taiken/", "cats": ["お金と幸福度", "浪費・衝動買い"], "all": true},
+    {"name": "サブスク見直しチェック", "desc": "「いまゼロから契約しても入る？」で見直し候補と年間で浮く金額を計算", "href": "https://seadice.win/tools/sabusuku-minaoshi/", "cats": ["サブスク・固定費"]},
+    {"name": "困りごとから制度を探す", "desc": "生活費・介護・病気など困りごとを選ぶと、確かめたい制度と窓口がわかる", "href": "https://shakaihosho.seadice.win/sagasu/", "cats": ["お金の不安"]},
+    {"id": "habit-quit", "name": "科学で断つ 悪習慣ログ", "desc": "やめたい習慣ごとに理由・代わりの行動を決め、ワンタップで記録して続ける", "appStoreId": "6798075879", "cats": ["浪費・衝動買い"]},
+    {"id": "cognitive-bias-guide", "name": "認知バイアス", "desc": "確証バイアス・同調など80種類の認知バイアスを、例・対策・もとになった研究つきで解説", "appStoreId": "6791445664", "cats": ["お金の不安", "お金と幸福度"]}
   ]
 }
