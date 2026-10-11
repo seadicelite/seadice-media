@@ -71,6 +71,7 @@
 - [音楽を聴きながらの勉強は集中を妨げるのか。歌詞あり・なしで変わるBGMの研究](https://dokugaku.seadice.win/music-while-studying-lyrics/): 読む勉強では音楽で理解度が少し下がり、歌詞つきの曲が最も不利。歌詞なし・小さめの音なら差は小さい
 - [勉強の合間の昼寝は記憶に効く？研究でわかった昼寝のとり方（長さ・時間帯・起きた後）](https://dokugaku.seadice.win/nap-for-study-memory/): 午後の昼寝は記憶を小〜中程度助ける。勉強の後に、午後の早い時間に10〜30分。起きた直後は軽い復習から始める
 - [ポモドーロ・テクニック（25分勉強＋休憩）は効くのか。休憩と集中の研究](https://dokugaku.seadice.win/pomodoro-technique-breaks/): 時間を決めて休むと疲れや気の散りが減った実験はあるが逆の結果もあり、成績向上や「25分」が最適という証拠はない
+- [勉強中にスマホを見て集中が切れた。どう戻る？中断から立て直す研究でわかったやり方](https://dokugaku.seadice.win/refocus-after-phone-distraction/): 数秒の中断でも「どこまでやったか」は抜けやすい。スマホを遠ざけ、1つ前の手順から確かめ直し、再開メモを残す。
 - [勉強中のスマホはどこに置く？集中を守る置き方と通知の切り方（研究とその再現）](https://dokugaku.seadice.win/smartphone-away-while-studying/): 通知は見なくても集中を乱す。勉強前に音と振動まで切り、できれば別の部屋へ。置き場所の効果は再現されない研究もある
 - [勉強する場所を変えると覚えやすいのか。場所と記憶（文脈依存記憶）の研究](https://dokugaku.seadice.win/study-location-context-dependent-memory/): 覚えた場所で思い出しやすい効果は実在するが小さめ。場所を思い浮かべるだけで差は縮む
 

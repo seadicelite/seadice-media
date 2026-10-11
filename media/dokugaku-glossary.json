@@ -243,5 +243,14 @@
     "slugs": [
       "worked-examples-how-to-study"
     ]
+  },
+  {
+    "id": "resumption-lag",
+    "term": "再開の遅れ（レジャンプション・ラグ）",
+    "en": "Resumption lag",
+    "def": "中断された作業に戻ったとき、元の流れを取り戻すまでにかかる時間。中断が長く、頭を使うものほど長くなりました。",
+    "slugs": [
+      "refocus-after-phone-distraction"
+    ]
   }
 ]

@@ -815,5 +815,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg/500px-Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg",
   "og": "https://dokugaku.seadice.win/img/worked-examples-how-to-study.jpg",
   "local": true
+ },
+ "refocus-after-phone-distraction": {
+  "file": "File:Smartphone display screen.jpg",
+  "src": "/img/refocus-after-phone-distraction.jpg",
+  "src640": "/img/refocus-after-phone-distraction-sm.jpg",
+  "w": 960,
+  "h": 608,
+  "alt": "スマートフォン",
+  "artist": "Skitterphoto",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Smartphone_display_screen.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Smartphone_display_screen.jpg/960px-Smartphone_display_screen.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Smartphone_display_screen.jpg/500px-Smartphone_display_screen.jpg",
+  "og": "https://dokugaku.seadice.win/img/refocus-after-phone-distraction.jpg",
+  "local": true
  }
 }
