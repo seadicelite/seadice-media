@@ -371,6 +371,15 @@
       "level": "a",
       "text": "忘れても覚え直しは最初より少ない回数で済みます。何回かに分けて覚え直すと、1回で覚えるより記憶がずっと良くなりました。",
       "slug": "forgot-what-i-studied-relearning"
+    },
+    {
+      "id": "phone-away",
+      "name": "勉強中、スマホを別の部屋に置く",
+      "belief": "スマホは近くにあるだけで集中を下げる",
+      "level": "b",
+      "text": "通知は見なくても集中を乱しました。置き場所だけの影響は研究で分かれ、22本のメタ分析では全体として小さい結果でした。",
+      "slug": "smartphone-away-while-studying",
+      "evidence": "meta"
     }
   ]
 }

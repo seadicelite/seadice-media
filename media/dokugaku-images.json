@@ -763,5 +763,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pencil_on_notebook.jpg/500px-Pencil_on_notebook.jpg",
   "og": "https://dokugaku.seadice.win/img/forgot-what-i-studied-relearning-og.jpg",
   "local": true
+ },
+ "smartphone-away-while-studying": {
+  "file": "File:Colored pen and smartphone on a table (Unsplash 36nRvt6EP2I).jpg",
+  "src": "/img/smartphone-away-while-studying.webp",
+  "src640": "/img/smartphone-away-while-studying-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上に置かれたスマートフォンとペン",
+  "artist": "Gabriel Santiago gabrielssantiago",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Colored_pen_and_smartphone_on_a_table_(Unsplash_36nRvt6EP2I).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg/960px-Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg/500px-Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/smartphone-away-while-studying-og.jpg",
+  "local": true
  }
 }
