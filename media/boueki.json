@@ -42,7 +42,7 @@
     ],
     [
       "貿易実務検定CBTアプリ",
-      "https://seadice.win/apps/boueki/",
+      "/apps/boueki/",
       "スマホで模擬試験と大問別の演習ができ、履歴から苦手分野を確認できるiPhoneアプリです。"
     ]
   ],
@@ -226,6 +226,20 @@
         "trade-english-key-words-and-abbreviations",
         "reading-english-sales-contracts",
         "reading-english-letter-of-credit"
+      ]
+    },
+    {
+      "id": "boueki",
+      "name": "貿易実務検定CBT",
+      "appStoreId": "6789349072",
+      "icon": "/img/apps/boueki.webp",
+      "catch": "貿易実務検定C級の本番形式の模擬試験と大問別の演習を、スマホでいつでも何度でも解ける",
+      "hubLead": "アプリの模試で間違えた分野は、講座のレッスンで流れから学び直せます。似た用語や数字の整理、インコタームズ、信用状など、点を落としやすい単元から読むのがおすすめです。",
+      "lessons": [
+        "commonly-confused-points-review",
+        "review-export-flow-with-documents",
+        "what-are-incoterms",
+        "lc-flow-and-discrepancies"
       ]
     }
   ]
