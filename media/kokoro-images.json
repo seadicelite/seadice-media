@@ -2030,5 +2030,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Woman_writes_in_a_notebook_while_sitting_on_a_chair.jpg/500px-Woman_writes_in_a_notebook_while_sitting_on_a_chair.jpg",
   "og": "https://mentalai.seadice.win/img/sns-negative-thoughts-reframe.jpg",
   "local": true
+ },
+ "text-message-tone-misread": {
+  "file": "File:Letter signed Sara, New York City, to Ernst, Washington, D.C., May 1, 1927 - DPLA - 40d881bd1ad7c653739cb3f9dbebbf04 (page 6).jpg",
+  "src": "/img/text-message-tone-misread.jpg",
+  "src640": "/img/text-message-tone-misread-sm.jpg",
+  "w": 960,
+  "h": 600,
+  "alt": "消印のある古い封筒",
+  "artist": "Teasdale, Sara, 1884-1933",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Letter_signed_Sara,_New_York_City,_to_Ernst,_Washington,_D.C.,_May_1,_1927_-_DPLA_-_40d881bd1ad7c653739cb3f9dbebbf04_(page_6).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Letter_signed_Sara%2C_New_York_City%2C_to_Ernst%2C_Washington%2C_D.C.%2C_May_1%2C_1927_-_DPLA_-_40d881bd1ad7c653739cb3f9dbebbf04_%28page_6%29.jpg/960px-Letter_signed_Sara%2C_New_York_City%2C_to_Ernst%2C_Washington%2C_D.C.%2C_May_1%2C_1927_-_DPLA_-_40d881bd1ad7c653739cb3f9dbebbf04_%28page_6%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Letter_signed_Sara%2C_New_York_City%2C_to_Ernst%2C_Washington%2C_D.C.%2C_May_1%2C_1927_-_DPLA_-_40d881bd1ad7c653739cb3f9dbebbf04_%28page_6%29.jpg/500px-Letter_signed_Sara%2C_New_York_City%2C_to_Ernst%2C_Washington%2C_D.C.%2C_May_1%2C_1927_-_DPLA_-_40d881bd1ad7c653739cb3f9dbebbf04_%28page_6%29.jpg",
+  "og": "https://mentalai.seadice.win/img/text-message-tone-misread.jpg",
+  "local": true
  }
 }
