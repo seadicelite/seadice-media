@@ -851,5 +851,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/President%27s_Office_--_Main_-_DPLA_-_d53532411588d4afc1bf28202cdaba56.jpg/500px-President%27s_Office_--_Main_-_DPLA_-_d53532411588d4afc1bf28202cdaba56.jpg",
   "og": "https://dokugaku.seadice.win/img/rebuild-broken-study-plan.jpg",
   "local": true
+ },
+ "ai-practice-questions-how-to": {
+  "file": "File:Pen 6.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pen_6.jpg/960px-Pen_6.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pen_6.jpg/500px-Pen_6.jpg",
+  "w": 960,
+  "h": 443,
+  "alt": "開いたノートの上に置いたペン",
+  "artist": "Jegan12345",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pen_6.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

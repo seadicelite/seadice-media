@@ -1,5 +1,13 @@
 [
   {
+    "slug": "ai-practice-questions-how-to",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-12",
+    "title": "AIに練習問題を作らせて勉強するには？研究でわかった頼み方と確かめ方",
+    "summary": "問題を解いて思い出す練習は効くが、AIの問題には誤りも混ざる。教材を渡して短く答える問題を作らせ、答えは教材で確かめる。"
+  },
+  {
     "slug": "rebuild-broken-study-plan",
     "category": "時間・計画",
     "type": "guide",
