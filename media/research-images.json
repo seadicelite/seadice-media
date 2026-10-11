@@ -1110,5 +1110,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Person_writing_in_a_notebook_while_sitting_at_a_desk.jpg/500px-Person_writing_in_a_notebook_while_sitting_at_a_desk.jpg",
   "og": "https://research.seadice.win/img/habit-replacement-competing-response-research.jpg",
   "local": true
+ },
+ "distance-temptation-self-control-research": {
+  "file": "File:Breakfast preparation with fruits vegetables and snacks on wooden table.jpg",
+  "src": "/img/distance-temptation-self-control-research.jpg",
+  "src640": "/img/distance-temptation-self-control-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "テーブルに置かれたお菓子のボウル",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Breakfast_preparation_with_fruits_vegetables_and_snacks_on_wooden_table.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Breakfast_preparation_with_fruits_vegetables_and_snacks_on_wooden_table.jpg/960px-Breakfast_preparation_with_fruits_vegetables_and_snacks_on_wooden_table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Breakfast_preparation_with_fruits_vegetables_and_snacks_on_wooden_table.jpg/500px-Breakfast_preparation_with_fruits_vegetables_and_snacks_on_wooden_table.jpg",
+  "og": "https://research.seadice.win/img/distance-temptation-self-control-research.jpg",
+  "local": true
  }
 }
