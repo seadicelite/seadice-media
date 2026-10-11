@@ -746,5 +746,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Door_open%3B_empty_bed_with_pillow_and_side_pillow_03.jpg/500px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_03.jpg",
   "og": "https://dokugaku.seadice.win/img/nap-for-study-memory-og.jpg",
   "local": true
+ },
+ "forgot-what-i-studied-relearning": {
+  "file": "File:Pencil on notebook.jpg",
+  "src": "/img/forgot-what-i-studied-relearning.webp",
+  "src640": "/img/forgot-what-i-studied-relearning-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "開いたノートと鉛筆",
+  "artist": "WikiGrower1",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pencil_on_notebook.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pencil_on_notebook.jpg/960px-Pencil_on_notebook.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pencil_on_notebook.jpg/500px-Pencil_on_notebook.jpg",
+  "og": "https://dokugaku.seadice.win/img/forgot-what-i-studied-relearning-og.jpg",
+  "local": true
  }
 }

@@ -216,5 +216,14 @@
     "slugs": [
       "nap-for-study-memory"
     ]
+  },
+  {
+    "id": "savings",
+    "term": "節約効果（セービング）",
+    "en": "Savings",
+    "def": "一度覚えたことを忘れた後に覚え直すと、最初に覚えたときより少ない回数や時間で済む現象。思い出せなくても、記憶が一部残っていることを示します。",
+    "slugs": [
+      "forgot-what-i-studied-relearning"
+    ]
   }
 ]

@@ -48,6 +48,9 @@
     "use": [
      "https://dokugaku.seadice.win/review-timing/",
      "https://dokugaku.seadice.win/templates/recall-note/"
+    ],
+    "stuck": [
+     "forgot-what-i-studied-relearning"
     ]
    }
   },
