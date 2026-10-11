@@ -1,5 +1,14 @@
 [
   {
+    "slug": "ai-check-before-speaking",
+    "category": "AIとの付き合い方",
+    "type": "guide",
+    "stage": "対処する",
+    "date": "2026-10-11",
+    "title": "会議で話す前に、AIで言い方を確かめないと不安。会話の実験では、失敗を防ぐための工夫をした回のほうが不安が強かった",
+    "summary": "話す前にAIで確かめたくなる気持ちを、人前の不安の実験から整理。確認は1回まで、確かめずに一言、相手の話に注意を向ける工夫を紹介。"
+  },
+  {
     "slug": "text-message-tone-misread",
     "category": "人とのつながり",
     "type": "guide",

@@ -2038,5 +2038,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Letter_signed_Sara%2C_New_York_City%2C_to_Ernst%2C_Washington%2C_D.C.%2C_May_1%2C_1927_-_DPLA_-_40d881bd1ad7c653739cb3f9dbebbf04_%28page_6%29.jpg/500px-Letter_signed_Sara%2C_New_York_City%2C_to_Ernst%2C_Washington%2C_D.C.%2C_May_1%2C_1927_-_DPLA_-_40d881bd1ad7c653739cb3f9dbebbf04_%28page_6%29.jpg",
   "og": "https://mentalai.seadice.win/img/text-message-tone-misread-og.jpg",
   "local": true
+ },
+ "ai-check-before-speaking": {
+  "file": "File:Minimalist meeting room (Unsplash).jpg",
+  "src": "/img/ai-check-before-speaking.jpg",
+  "src640": "/img/ai-check-before-speaking-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "誰もいない会議室のテーブルといす",
+  "artist": "Breather breather",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Minimalist_meeting_room_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Minimalist_meeting_room_%28Unsplash%29.jpg/960px-Minimalist_meeting_room_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Minimalist_meeting_room_%28Unsplash%29.jpg/500px-Minimalist_meeting_room_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-check-before-speaking.jpg",
+  "local": true
  }
 }
