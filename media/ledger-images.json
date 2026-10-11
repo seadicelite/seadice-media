@@ -1683,5 +1683,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "couples-money-fight-after-repair": {
+  "file": "File:A small cup of coffee.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/960px-A_small_cup_of_coffee.JPG",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/500px-A_small_cup_of_coffee.JPG",
+  "w": 960,
+  "h": 720,
+  "alt": "1杯のコーヒー",
+  "artist": "Julius Schorzman",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_small_cup_of_coffee.JPG",
+  "source_label": "Wikimedia Commons"
  }
 }

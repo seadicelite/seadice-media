@@ -322,7 +322,9 @@
         "fix": [
           "couples-money-talk-tips"
         ],
-        "after": [],
+        "after": [
+          "couples-money-fight-after-repair"
+        ],
         "use": [
           "couples-household-cost-sharing-checklist"
         ]
