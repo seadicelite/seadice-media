@@ -239,7 +239,9 @@
         "fix": [
           "payment-reminders-attention"
         ],
-        "after": [],
+        "after": [
+          "budget-deficit-month-recovery"
+        ],
         "use": [
           "irregular-expenses-monthly-setaside-calculator"
         ]

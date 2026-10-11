@@ -1670,5 +1670,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2023_%C5%BBeton_z_Casino_de_Monte-Carlo.jpg/500px-2023_%C5%BBeton_z_Casino_de_Monte-Carlo.jpg",
   "og": "https://ledger.seadice.win/img/gambling-loss-chasing-recovery-steps.jpg",
   "local": true
+ },
+ "budget-deficit-month-recovery": {
+  "file": "File:Texas Instruments Longines Symphonette Calculator 1st version.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg/960px-Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg/500px-Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg",
+  "w": 960,
+  "h": 917,
+  "alt": "電卓",
+  "artist": "Mister rf",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
