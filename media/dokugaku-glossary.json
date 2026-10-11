@@ -198,5 +198,14 @@
     "slugs": [
       "failed-exam-review-mistakes"
     ]
+  },
+  {
+    "id": "fresh-start",
+    "term": "フレッシュスタート効果",
+    "en": "Fresh start effect",
+    "def": "新しい週・月・年の始まりなどの区切りの後に、目標に取りかかる人が増える現象。始める気持ちは高まりますが、行動が続くかは別の問題です。",
+    "slugs": [
+      "restart-study-after-break"
+    ]
   }
 ]

@@ -154,6 +154,9 @@
      "study-log-progress-monitoring",
      "https://dokugaku.seadice.win/study-log/",
      "https://dokugaku.seadice.win/templates/if-then/"
+    ],
+    "stuck": [
+     "restart-study-after-break"
     ]
    }
   },
