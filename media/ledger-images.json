@@ -1580,5 +1580,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Desk-laptop-notebook-pen_%2823958719819%29.jpg/500px-Desk-laptop-notebook-pen_%2823958719819%29.jpg",
   "og": "https://ledger.seadice.win/img/irregular-expenses-monthly-setaside-calculator.jpg",
   "local": true
+ },
+ "debt-interest-underestimation-exponential-growth-bias": {
+  "file": "File:Sand clock Enschede.jpg",
+  "src": "/img/debt-interest-underestimation-exponential-growth-bias.jpg",
+  "src640": "/img/debt-interest-underestimation-exponential-growth-bias-sm.jpg",
+  "w": 960,
+  "h": 643,
+  "alt": "砂時計",
+  "artist": "Gianluca Miscione",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sand_clock_Enschede.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sand_clock_Enschede.jpg/960px-Sand_clock_Enschede.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sand_clock_Enschede.jpg/500px-Sand_clock_Enschede.jpg",
+  "og": "https://ledger.seadice.win/img/debt-interest-underestimation-exponential-growth-bias.jpg",
+  "local": true
  }
 }

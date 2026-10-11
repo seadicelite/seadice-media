@@ -1,5 +1,13 @@
 [
   {
+    "slug": "debt-interest-underestimation-exponential-growth-bias",
+    "category": "お金の不安",
+    "type": "guide",
+    "date": "2026-10-11",
+    "title": "借金や利息を少なく見積もってしまうのはなぜ？「毎月の返済額」だけを見る心理と、指数的な増え方の見落とし",
+    "summary": "借金を少なく見積もるのは、毎月の返済額に目が向いて期間や総額を軽く見て、利息の増え方を直線のように感じるため。期間が3倍でも払える月額がほぼ同じだった実験などから整理した。"
+  },
+  {
     "slug": "irregular-expenses-monthly-setaside-calculator",
     "category": "家計管理",
     "type": "guide",
