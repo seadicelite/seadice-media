@@ -1069,5 +1069,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Macro_and_wide_lens_f%C3%BCr_smartphone_6.jpg/500px-Macro_and_wide_lens_f%C3%BCr_smartphone_6.jpg",
   "og": "https://bohan.seadice.win/img/app-permissions-review-og.jpg",
   "local": true
+ },
+ "parents-smartphone-security-check": {
+  "file": "File:Vintage typewriter and rotary phone with stamps displayed on wooden table in a retro setting.jpg",
+  "src": "/img/parents-smartphone-security-check.webp",
+  "src640": "/img/parents-smartphone-security-check-sm.webp",
+  "w": 960,
+  "h": 641,
+  "alt": "テーブルに置かれた古い電話",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Vintage_typewriter_and_rotary_phone_with_stamps_displayed_on_wooden_table_in_a_retro_setting.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vintage_typewriter_and_rotary_phone_with_stamps_displayed_on_wooden_table_in_a_retro_setting.jpg/960px-Vintage_typewriter_and_rotary_phone_with_stamps_displayed_on_wooden_table_in_a_retro_setting.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vintage_typewriter_and_rotary_phone_with_stamps_displayed_on_wooden_table_in_a_retro_setting.jpg/500px-Vintage_typewriter_and_rotary_phone_with_stamps_displayed_on_wooden_table_in_a_retro_setting.jpg",
+  "og": "https://bohan.seadice.win/img/parents-smartphone-security-check-og.jpg",
+  "local": true
  }
 }
