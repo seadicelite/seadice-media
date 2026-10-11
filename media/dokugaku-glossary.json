@@ -207,5 +207,14 @@
     "slugs": [
       "restart-study-after-break"
     ]
+  },
+  {
+    "id": "sleep-inertia",
+    "term": "睡眠慣性",
+    "en": "Sleep inertia",
+    "def": "目覚めた直後に、頭がぼんやりして反応や判断が鈍る状態。長く深く眠った後ほど起きやすく、30分ほどで戻ったという実験があります。",
+    "slugs": [
+      "nap-for-study-memory"
+    ]
   }
 ]

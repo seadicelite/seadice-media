@@ -729,5 +729,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Desk_with_notebook_pens_and_glasses.jpg/500px-Desk_with_notebook_pens_and_glasses.jpg",
   "og": "https://dokugaku.seadice.win/img/restart-study-after-break-og.jpg",
   "local": true
+ },
+ "nap-for-study-memory": {
+  "file": "File:Door open; empty bed with pillow and side pillow 03.jpg",
+  "src": "/img/nap-for-study-memory.webp",
+  "src640": "/img/nap-for-study-memory-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "ベッドの上の枕",
+  "artist": "Afifa Afrin",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Door_open;_empty_bed_with_pillow_and_side_pillow_03.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Door_open%3B_empty_bed_with_pillow_and_side_pillow_03.jpg/960px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_03.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Door_open%3B_empty_bed_with_pillow_and_side_pillow_03.jpg/500px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_03.jpg",
+  "og": "https://dokugaku.seadice.win/img/nap-for-study-memory-og.jpg",
+  "local": true
  }
 }
