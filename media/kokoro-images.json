@@ -2012,5 +2012,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Friars%27_Crag_Derwentwater_Lake_District_2022_01.jpg/500px-Friars%27_Crag_Derwentwater_Lake_District_2022_01.jpg",
   "og": "https://mentalai.seadice.win/img/muscle-relaxation-tension.jpg",
   "local": true
+ },
+ "sns-negative-thoughts-reframe": {
+  "file": "File:Woman writes in a notebook while sitting on a chair.jpg",
+  "src": "/img/sns-negative-thoughts-reframe.jpg",
+  "src640": "/img/sns-negative-thoughts-reframe-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "椅子に座ってノートに書き込む人の手元",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_writes_in_a_notebook_while_sitting_on_a_chair.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Woman_writes_in_a_notebook_while_sitting_on_a_chair.jpg/960px-Woman_writes_in_a_notebook_while_sitting_on_a_chair.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Woman_writes_in_a_notebook_while_sitting_on_a_chair.jpg/500px-Woman_writes_in_a_notebook_while_sitting_on_a_chair.jpg",
+  "og": "https://mentalai.seadice.win/img/sns-negative-thoughts-reframe.jpg",
+  "local": true
  }
 }
