@@ -179,5 +179,15 @@
     "slugs": [
       "mind-map-concept-map-study"
     ]
+  },
+  {
+    "id": "effect-size",
+    "term": "効果量",
+    "en": "Effect size",
+    "def": "2つのやり方の差がどのくらい大きいかを表す目安。gやdで表し、0.2で小さい、0.5で中程度、0.8で大きいとされます。",
+    "slugs": [
+      "language-learning-apps-speaking",
+      "productive-failure-struggle-first"
+    ]
   }
 ]

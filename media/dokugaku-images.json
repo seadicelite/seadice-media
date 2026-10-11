@@ -678,5 +678,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E4%BA%94_%285394727914%29.jpg/500px-%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E4%BA%94_%285394727914%29.jpg",
   "og": "https://dokugaku.seadice.win/img/productive-failure-struggle-first-og.jpg",
   "local": true
+ },
+ "language-learning-apps-speaking": {
+  "src": "/img/language-learning-apps-speaking.webp",
+  "src640": "/img/language-learning-apps-speaking-sm.webp",
+  "w": 960,
+  "h": 764,
+  "alt": "机の上に開いたラテン語の辞書と、並んだ全巻",
+  "artist": "Dr. Marcus Gossler",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Latin_dictionary.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Latin_dictionary.jpg/960px-Latin_dictionary.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Latin_dictionary.jpg/500px-Latin_dictionary.jpg",
+  "og": "https://dokugaku.seadice.win/img/language-learning-apps-speaking-og.jpg",
+  "local": true,
+  "file": "File:Latin dictionary.jpg"
  }
 }
