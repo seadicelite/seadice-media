@@ -229,6 +229,25 @@
     "child-sns-grooming-victims",
     "sns-photo-location-home"
    ]
+  },
+  {
+   "id": "bohan-filter",
+   "name": "家族のための防犯フィルター",
+   "icon": "/img/apps/bohan-filter.webp",
+   "catch": "親や子どものiPhoneのSafariで、知られている詐欺サイト・にせログイン画面・広告を止める拡張機能。見たページの情報はどこにも送られず、登録なし・無料",
+   "hubLead": "偽のメール・SMS・通販サイト・警告画面・広告から詐欺サイトに誘う手口と、家族を守るために知っておきたいことの記事です。",
+   "theme": "フィッシング・偽通販サイト・サポート詐欺の警告画面・QRコード詐欺・詐欺広告など、Webサイトに誘導する詐欺。電話・訪問・対面の詐欺の記事には付けない",
+   "articles": [
+    "phishing-mail-sms-2025",
+    "fake-shopping-site-checklist",
+    "tech-support-scam-popup",
+    "qr-code-phishing-sticker",
+    "ai-written-phishing-email",
+    "deepfake-video-celebrity-ad",
+    "sns-investment-scam-line",
+    "older-adults-fraud-psychology",
+    "ai-era-scam-checklist"
+   ]
   }
  ],
   "toolboxTop": false,
