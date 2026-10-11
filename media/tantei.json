@@ -76,7 +76,8 @@
  "template": ".claude/commands/tantei-template.html",
  "rulesFrom": ".claude/commands/tantei.md",
  "relatedApps": "立ち上げ期はアプリ送客なし。関連アプリ欄は入れない",
- "postsPerRun": 1,
+ "extraNav": [{"label": "困りごとを教える", "path": "/soudan/"}],
+  "postsPerRun": 1,
  "topicQueue": [
   "その画像は本物？画像の逆検索で出どころを確かめる手順",
   "自分の名前で検索すると何が出る？ネット上の自分の情報を点検する手順",

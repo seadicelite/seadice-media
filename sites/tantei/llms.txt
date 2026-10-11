@@ -53,4 +53,5 @@
 - このメディアについて: https://tantei.seadice.win/about/
 - 出典と検証の方法: https://tantei.seadice.win/sources/
 - 免責事項: https://tantei.seadice.win/disclaimer/
+- 困りごとを教える: https://tantei.seadice.win/soudan/
 - サイトマップ: https://tantei.seadice.win/sitemap.xml
