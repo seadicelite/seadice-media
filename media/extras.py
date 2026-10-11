@@ -29,6 +29,7 @@ def _page(cfg, theme, favicon, css, rel, title, desc, body, graph, trail, extra_
     ld = {"@context": "https://schema.org", "@graph": graph + [{"@type": "BreadcrumbList", "itemListElement": [
         {"@type": "ListItem", "position": i + 1, "name": n, "item": u} for i, (n, u) in enumerate(crumbs)]}]}
     bc = " / ".join(f'<a href="{u}" style="color:var(--muted)">{E(n)}</a>' for n, u in crumbs[:-1]) + " / " + E(crumbs[-1][0])
+    robots = "" if 'name="robots"' in head else '<meta name="robots" content="index,follow">\n'  # head で noindex を渡したら重ねない
     out = f'''<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -41,8 +42,7 @@ def _page(cfg, theme, favicon, css, rel, title, desc, body, graph, trail, extra_
 <meta property="og:description" content="{E(desc, quote=True)}">
 <meta property="og:url" content="{purl}">
 <meta property="og:type" content="website">
-<meta name="robots" content="index,follow">
-{favicon}{head}
+{robots}{favicon}{head}
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 <style>{css}{EXTRA_CSS}{extra_css}{cfg.get("extraCss", "")}</style>
 </head>
