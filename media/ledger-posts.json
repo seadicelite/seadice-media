@@ -1,5 +1,13 @@
 [
   {
+    "slug": "irregular-expenses-monthly-setaside-calculator",
+    "category": "家計管理",
+    "type": "guide",
+    "date": "2026-10-11",
+    "title": "年に数回の出費（特別費）は月いくら積み立てる？書き出す10項目のチェック表と月割りの計算表",
+    "summary": "車検・冠婚葬祭・帰省などの特別費を10項目で書き出し、年額を12で割って毎月取り分ける計算表。人は先の出費を少なく見積もり、年単位で家計を考える人は0.6%だった研究から作った。"
+  },
+  {
     "slug": "subscription-fixed-cost-review-checklist",
     "category": "サブスク・固定費",
     "type": "guide",

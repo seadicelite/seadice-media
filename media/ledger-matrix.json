@@ -234,7 +234,9 @@
           "payment-reminders-attention"
         ],
         "after": [],
-        "use": []
+        "use": [
+          "irregular-expenses-monthly-setaside-calculator"
+        ]
       }
     },
     {
