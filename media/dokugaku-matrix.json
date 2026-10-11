@@ -73,6 +73,9 @@
     ],
     "use": [
      "https://dokugaku.seadice.win/templates/review-calendar/"
+    ],
+    "stuck": [
+     "failed-exam-review-mistakes"
     ]
    }
   },

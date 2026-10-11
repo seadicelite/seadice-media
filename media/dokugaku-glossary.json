@@ -189,5 +189,14 @@
       "language-learning-apps-speaking",
       "productive-failure-struggle-first"
     ]
+  },
+  {
+    "id": "hypercorrection",
+    "term": "過剰修正効果",
+    "en": "Hypercorrection effect",
+    "def": "自信を持って答えたのに間違えた問題ほど、正しい答えを見たあとに直りやすい現象。ただし1週間ほどたつと、同じ間違いに戻ることもあります。",
+    "slugs": [
+      "failed-exam-review-mistakes"
+    ]
   }
 ]

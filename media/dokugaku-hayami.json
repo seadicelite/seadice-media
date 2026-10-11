@@ -346,6 +346,14 @@
       "text": "単語や読解では成績が上がった報告が多い一方、研究の質は低めです。話す力はほとんど測られていません。覚えた語で文を作り、声に出す練習を足します。",
       "slug": "language-learning-apps-speaking",
       "evidence": "meta"
+    },
+    {
+      "id": "mistake-review",
+      "name": "間違えた問題を正解と理由で直す",
+      "belief": "落ちたら教科書を最初から読み直す",
+      "level": "a",
+      "text": "間違えた後に正しい答えを見ると、1週間後の成績が大きく上がりました。自信のあった間違いは戻りやすいので、日をあけて解き直します。",
+      "slug": "failed-exam-review-mistakes"
     }
   ]
 }

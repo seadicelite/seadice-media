@@ -695,5 +695,22 @@
   "og": "https://dokugaku.seadice.win/img/language-learning-apps-speaking-og.jpg",
   "local": true,
   "file": "File:Latin dictionary.jpg"
+ },
+ "failed-exam-review-mistakes": {
+  "file": "File:Paper Mate Union Pen & Pencil Rubber Eraser (16972392718).jpg",
+  "src": "/img/failed-exam-review-mistakes.webp",
+  "src640": "/img/failed-exam-review-mistakes-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "鉛筆用の消しゴム",
+  "artist": "Willis Lam",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Paper_Mate_Union_Pen_%26_Pencil_Rubber_Eraser_(16972392718).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Paper_Mate_Union_Pen_%26_Pencil_Rubber_Eraser_%2816972392718%29.jpg/960px-Paper_Mate_Union_Pen_%26_Pencil_Rubber_Eraser_%2816972392718%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Paper_Mate_Union_Pen_%26_Pencil_Rubber_Eraser_%2816972392718%29.jpg/500px-Paper_Mate_Union_Pen_%26_Pencil_Rubber_Eraser_%2816972392718%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/failed-exam-review-mistakes-og.jpg",
+  "local": true
  }
 }
