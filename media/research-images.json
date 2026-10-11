@@ -1125,5 +1125,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Breakfast_preparation_with_fruits_vegetables_and_snacks_on_wooden_table.jpg/500px-Breakfast_preparation_with_fruits_vegetables_and_snacks_on_wooden_table.jpg",
   "og": "https://research.seadice.win/img/distance-temptation-self-control-research-og.jpg",
   "local": true
+ },
+ "habit-break-days-research": {
+  "file": "File:A well-worn path - geograph.org.uk - 2530779.jpg",
+  "src": "/img/habit-break-days-research.jpg",
+  "src640": "/img/habit-break-days-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "草地に残る踏み跡の道",
+  "artist": "Ian Calderwood",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_well-worn_path_-_geograph.org.uk_-_2530779.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/A_well-worn_path_-_geograph.org.uk_-_2530779.jpg/960px-A_well-worn_path_-_geograph.org.uk_-_2530779.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/A_well-worn_path_-_geograph.org.uk_-_2530779.jpg/500px-A_well-worn_path_-_geograph.org.uk_-_2530779.jpg",
+  "og": "https://research.seadice.win/img/habit-break-days-research.jpg",
+  "local": true
  }
 }

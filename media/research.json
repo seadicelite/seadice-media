@@ -31,7 +31,6 @@
   "relatedApps": "p/released-apps.json から悩みに近いものを選ぶ。無ければ記事のアプリ案のみ",
   "postsPerRun": 1,
   "topicQueue": [
-    "習慣をやめるには何日かかるのか。習慣が抜けるまでの研究",
     "タスクを細かく分割すると先延ばしは減るのか",
     "好きな音楽を聴くとストレスホルモンは下がるのか",
     "いつも同じ場所で行うと習慣は身につきやすいのか",
@@ -57,6 +56,7 @@
       "hubLead": "やめたい習慣と向き合うときに読みたい、if-thenプラン・記録の効果・スマホやSNSとの距離の取り方・つまずいた後の立て直し方の研究です。",
       "theme": "悪い習慣・やめたい行動を断つ、続ける仕組み、スマホやSNSから離れる、失敗後の立て直し。睡眠・集中力・学習法そのものの記事には付けない",
       "articles": [
+        "habit-break-days-research",
         "if-then-planning-habit-research",
         "habit-tracking-boosts-continuation",
         "habit-formation-two-minute-rule",
