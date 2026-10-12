@@ -905,5 +905,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg/500px-USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg",
   "og": "https://dokugaku.seadice.win/img/choose-study-methods-by-goal.jpg",
   "local": true
+ },
+ "home-study-space-setup": {
+  "file": "File:Abbotsford House Study Room.jpg",
+  "src": "/img/home-study-space-setup.jpg",
+  "src640": "/img/home-study-space-setup-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "本棚に囲まれた書斎と机",
+  "artist": "Michael D Beckwith",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Abbotsford_House_Study_Room.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Abbotsford_House_Study_Room.jpg/960px-Abbotsford_House_Study_Room.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Abbotsford_House_Study_Room.jpg/500px-Abbotsford_House_Study_Room.jpg",
+  "og": "https://dokugaku.seadice.win/img/home-study-space-setup.jpg",
+  "local": true
  }
 }
