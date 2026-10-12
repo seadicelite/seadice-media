@@ -2308,5 +2308,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Headphones_used_for_simultaneous_interpretation_in_the_European_Parliament.jpg/500px-Headphones_used_for_simultaneous_interpretation_in_the_European_Parliament.jpg",
   "og": "https://mentalai.seadice.win/img/background-music-focus.jpg",
   "local": true
+ },
+ "sns-happy-for-others": {
+  "file": "File:White tulips in white filigree vase.jpg",
+  "src": "/img/sns-happy-for-others.jpg",
+  "src640": "/img/sns-happy-for-others-sm.jpg",
+  "w": 960,
+  "h": 786,
+  "alt": "花瓶に生けた白いチューリップ",
+  "artist": "Kotivalo",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:White_tulips_in_white_filigree_vase.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/White_tulips_in_white_filigree_vase.jpg/960px-White_tulips_in_white_filigree_vase.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/White_tulips_in_white_filigree_vase.jpg/500px-White_tulips_in_white_filigree_vase.jpg",
+  "og": "https://mentalai.seadice.win/img/sns-happy-for-others.jpg",
+  "local": true
  }
 }

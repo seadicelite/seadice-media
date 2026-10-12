@@ -540,5 +540,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-sns-happy-for-others-social-savoring",
+    "category": "AIと心",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Andrade FC et al., \"Intervening on Social Comparisons on Social Media: Electronic Daily Diary Pilot Study\" (JMIR Mental Health, 2023)",
+    "sourceUrl": "https://doi.org/10.2196/42024",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/sns-happy-for-others/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "比べずに一緒に喜べたら？",
+        "body": "SNSで友達の幸せな投稿を見ると、つい自分と比べてしまうよね。「その人のために喜ぶ」見方に切り替えたら、何か変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "比べやすい大学生55人で試した",
+        "body": "米国の大学生55人が2週間、毎日SNSの使い方を記録した。半分は8日目に、相手の喜びを想像して一緒に味わう方法の動画を見て、1日5分ほど練習したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "能力への自信が少し上がった",
+        "body": "練習した人は「うまくやれている」という自信が1〜5点で3.21から3.52に上がり、練習しなかった人は3.32から3.35でほぼ同じだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "変わらなかったことも多い",
+        "body": "落ち込みの症状や取り残される不安、日々の比べたあとの気分には差が出なかった。人数も少ない試行の研究で、大人や長く続けた場合はまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
