@@ -31,5 +31,38 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "kokoro-phone-always-bored-smartphone-break-boredom",
+    "category": "AIと心",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Dora J et al., \"Fatigue, boredom and objectively measured smartphone use at work\" (Royal Society Open Science, 2021)",
+    "sourceUrl": "https://doi.org/10.1098/rsos.201915",
+    "articleUrl": "https://mentalai.seadice.win/phone-always-bored/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "退屈したらスマホで気分転換？",
+        "body": "仕事中に退屈したら、ちょっとスマホを見てリフレッシュ。よくやるよね。でも、本当に退屈は減ってるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "83人の職場のスマホを自動記録",
+        "body": "オランダの大学で働く大学院生83人が、3日間、1時間ごとに疲れと退屈を答えたんだ。その間のスマホの使用はアプリで自動記録。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "使ったあと、退屈は少し高かった",
+        "body": "退屈や疲れが強いときほどスマホを手に取りやすかった。でも使ったあとの退屈は、使わなかったときより少し高かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "スマホのせいとは言い切れない",
+        "body": "記録の関連を見た研究なので、スマホが退屈を高めたとまでは言えない。対象も大学院生だけで、ほかの職場で同じかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]
