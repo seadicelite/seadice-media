@@ -1035,5 +1035,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Earphones_BW_2011-12-10_15-49-08.JPG/500px-Earphones_BW_2011-12-10_15-49-08.JPG",
   "og": "https://kosodate.seadice.win/img/study-music-lyrics-concentration-og.jpg",
   "local": true
+ },
+ "smartphone-on-desk-homework-focus": {
+  "file": "File:Tecnología Inspiracional.jpg",
+  "src": "/img/smartphone-on-desk-homework-focus.webp",
+  "src640": "/img/smartphone-on-desk-homework-focus-sm.webp",
+  "w": 960,
+  "h": 930,
+  "alt": "机の上のスマートフォンとノート",
+  "artist": "ISilec",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tecnolog%C3%ADa_Inspiracional.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tecnolog%C3%ADa_Inspiracional.jpg/960px-Tecnolog%C3%ADa_Inspiracional.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tecnolog%C3%ADa_Inspiracional.jpg/500px-Tecnolog%C3%ADa_Inspiracional.jpg",
+  "og": "https://kosodate.seadice.win/img/smartphone-on-desk-homework-focus-og.jpg",
+  "local": true
  }
 }
