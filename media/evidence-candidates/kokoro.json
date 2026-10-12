@@ -336,5 +336,73 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-perfectionism-ai-standards-online-cbt",
+    "category": "AIと心",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Oh S, Cha JH, Joo J, Lee JH, Lee Y, Lee HJ, Yoon DU, Lee J, \"Efficacy of Internet-based cognitive behavioral therapy for reducing perfectionistic strivings in the Republic of Korea: A randomized controlled trial\" (Internet Interventions, 2025)",
+    "sourceUrl": "https://doi.org/10.1016/j.invent.2025.100851",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/perfectionism-ai-standards/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "完璧主義はゆるめられる？",
+        "body": "自分の仕事にずっとOKが出せない。そういう性格だから仕方ない、と思いがちだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "韓国の101人の実験",
+        "body": "完璧主義の傾向が強い19〜65歳を2つに分けた。片方は1回約30分の単元を5つ、基準の見直しやミスの捉え直しを学ぶネットの練習。もう片方は5週間待ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ミスへのとらわれが減った",
+        "body": "練習したグループでは、ミスを気にしすぎる傾向の得点が平均32.6点から28.3点に下がった。待っていたグループは33.4点から32.9点で、ほとんど変わらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "終わった直後までの話",
+        "body": "練習したグループの41%は最後の調査に答えていない。測ったのは終了直後までで、比べたのは待っていたグループだけ。参加者の多くは精神科の外来からの紹介だったよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-perfectionism-ai-standards-self-compassion",
+    "category": "AIと心",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Borgdorf KSA, Aguilar-Raab C, Holt DV, \"Effects of a brief online self-compassion training on perfectionism, self-criticism, and social anxiety: A randomized controlled trial\" (Internet Interventions, 2025)",
+    "sourceUrl": "https://doi.org/10.1016/j.invent.2025.100870",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/perfectionism-ai-standards/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "完璧主義には自分へのやさしさ",
+        "body": "完璧主義でつらいなら、自分にやさしくする練習がいい、ってよく聞くよね。ほかの練習と比べても特別なのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2つの練習をくらべた",
+        "body": "ドイツ語圏の健康な大人を、自分へのやさしさを育てる練習と、リラックス法などのストレスを減らす練習に分けた。どちらも6回のネットの練習なんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "どちらでも下がった",
+        "body": "自分へのやさしさの練習で、完璧主義は中くらい下がった（効果の大きさ0.41）。でもストレスを減らす練習と比べると、完璧主義の下がり方に差はなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "4週間後までの話",
+        "body": "測ったのは4週間後まで。何もしないグループはないし、分析したのは6回中3回以上取り組んだ200人。参加者の85.5%は女性だったよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

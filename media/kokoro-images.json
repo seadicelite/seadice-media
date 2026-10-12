@@ -2236,5 +2236,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Enjoying_a_warm_beverage_while_working_at_home_in_a_cozy_environment.jpg/500px-Enjoying_a_warm_beverage_while_working_at_home_in_a_cozy_environment.jpg",
   "og": "https://mentalai.seadice.win/img/work-confidence-recover.jpg",
   "local": true
+ },
+ "perfectionism-ai-standards": {
+  "file": "File:Smooth pebbles on the beach.jpg",
+  "src": "/img/perfectionism-ai-standards.jpg",
+  "src640": "/img/perfectionism-ai-standards-sm.jpg",
+  "w": 960,
+  "h": 643,
+  "alt": "波打ち際に並ぶ、形も色もさまざまな小石",
+  "artist": "Annatsach",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Smooth_pebbles_on_the_beach.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Smooth_pebbles_on_the_beach.jpg/960px-Smooth_pebbles_on_the_beach.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Smooth_pebbles_on_the_beach.jpg/500px-Smooth_pebbles_on_the_beach.jpg",
+  "og": "https://mentalai.seadice.win/img/perfectionism-ai-standards.jpg",
+  "local": true
  }
 }
