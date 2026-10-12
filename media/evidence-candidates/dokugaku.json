@@ -163,5 +163,38 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "dokugaku-adult-learning-dropout-restart-planning-prompts-scale",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kizilcec et al., \"Scaling up behavioral science interventions in online education\" (PNAS, 2020)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.1921417117",
+    "articleUrl": "https://dokugaku.seadice.win/adult-learning-dropout-restart/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "計画を書けば最後まで続く",
+        "body": "「いつ・どうやって勉強するか書き出せば、途中で投げ出さない」ってよく聞くよね。実際、小さな研究ではオンライン講座の修了率が上がったという結果も出ていた。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "約27万人で確かめ直した",
+        "body": "ハーバード大学・MIT・スタンフォード大学の247のオンライン講座で、2016年から2019年まで、26万9,169人を対象に、計画を書かせるなどの働きかけをくじで割り当てた大きな実験がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効くのは最初の1〜2週間",
+        "body": "計画を書いた人は最初の1週間の学習量が増えたけど、1〜2週間で差は薄れ、最後まで修了する人は増えなかった。以前の小さな研究で見えた大きな効果は再現されなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どうすれば続くのか",
+        "body": "受講者は世界中のオンライン講座の人で、社会人の独学に限らない。計画を2週間ごとに立て直したらどうなるかは調べていない。短い働きかけだけでは足りない、ということまでがわかっている。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]

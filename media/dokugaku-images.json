@@ -1053,5 +1053,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/An_Overview_of_Moving_Companies_and_Their_Use_of_Moving_Boxes.jpg/500px-An_Overview_of_Moving_Companies_and_Their_Use_of_Moving_Boxes.jpg",
   "og": "https://dokugaku.seadice.win/img/study-routine-after-life-change.jpg",
   "local": true
+ },
+ "adult-learning-dropout-restart": {
+  "file": "File:Emerson's study (showing shelves of books, fireplace and desk) LCCN96508062.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Emerson%27s_study_%28showing_shelves_of_books%2C_fireplace_and_desk%29_LCCN96508062.jpg/960px-Emerson%27s_study_%28showing_shelves_of_books%2C_fireplace_and_desk%29_LCCN96508062.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Emerson%27s_study_%28showing_shelves_of_books%2C_fireplace_and_desk%29_LCCN96508062.jpg/500px-Emerson%27s_study_%28showing_shelves_of_books%2C_fireplace_and_desk%29_LCCN96508062.jpg",
+  "w": 960,
+  "h": 777,
+  "alt": "本棚と机のある19世紀の書斎",
+  "artist": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Emerson%27s_study_(showing_shelves_of_books,_fireplace_and_desk)_LCCN96508062.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

@@ -246,6 +246,9 @@
     ],
     "how": [
      "adult-relearning-how-to-study"
+    ],
+    "stuck": [
+     "adult-learning-dropout-restart"
     ]
    }
   },
