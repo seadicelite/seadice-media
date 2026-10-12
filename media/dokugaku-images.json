@@ -1245,5 +1245,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Door_open%3B_empty_bed_with_pillow_and_side_pillow_01.jpg/500px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_01.jpg",
   "og": "https://dokugaku.seadice.win/img/why-sleep-organizes-memory.jpg",
   "local": true
+ },
+ "distraction-checklist-interruption-log": {
+  "file": "File:HP Elite X3.jpg",
+  "src": "/img/distraction-checklist-interruption-log.jpg",
+  "src640": "/img/distraction-checklist-interruption-log-sm.jpg",
+  "w": 960,
+  "h": 717,
+  "alt": "木の板の上に置かれたスマートフォン",
+  "artist": "Languaeditor",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:HP_Elite_X3.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/HP_Elite_X3.jpg/960px-HP_Elite_X3.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/HP_Elite_X3.jpg/500px-HP_Elite_X3.jpg",
+  "og": "https://dokugaku.seadice.win/img/distraction-checklist-interruption-log.jpg",
+  "local": true
  }
 }

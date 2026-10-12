@@ -536,5 +536,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-distraction-checklist-interruption-log-phone-checks",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Andrews et al., \"Beyond Self-Report: Tools to Compare Estimated and Real-World Smartphone Use\" (PLOS ONE, 2015)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0139004",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/distraction-checklist-interruption-log/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "スマホ、1日に何回さわってる？",
+        "body": "「自分はそんなに見てないし」と思っている人は多いよね。でも、その感覚ってどのくらい当たってるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "アプリで2週間、実際の回数を記録",
+        "body": "イギリスの大学の職員と学生23人のスマホに記録用アプリを入れて、2週間の実際の使い方と、本人の見積もりを比べた研究があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "平均84回、しかも半分以上は30秒未満",
+        "body": "実際は1日平均84.68回、合計5.05時間。使った時間の55%は30秒未満の短い利用だった。回数の見積もりと実際の相関は0.11で、ほぼ当たっていなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "23人だけの研究",
+        "body": "人数が少なく、勉強中の使い方を調べたものでもない。時間の長さの見積もりは、回数よりは当たっていた（相関0.47）。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
