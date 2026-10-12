@@ -72,6 +72,7 @@
     "themeColor": "#00FFD1",
     "sourceLabel": "Allen JG et al., \"Associations of Cognitive Function Scores with Carbon Dioxide, Ventilation, and Volatile Organic Compound Exposures in Office Workers\" (Environmental Health Perspectives, 2016)",
     "sourceUrl": "https://doi.org/10.1289/ehp.1510037",
+    "studyType": "実験",
     "articleUrl": "https://mentalai.seadice.win/stuffy-room-ventilation-focus/",
     "articleSite": "AI時代のメンタルヘルス",
     "cards": [
@@ -105,6 +106,7 @@
     "themeColor": "#00FFD1",
     "sourceLabel": "Zhang X, Zhang Z, \"Brief Mindfulness Meditation Protects Chinese Young Women's Body Image from Appearance-Focused Social Media Exposure\" (Healthcare, 2026)",
     "sourceUrl": "https://doi.org/10.3390/healthcare14010120",
+    "studyType": "ランダム化比較試験",
     "articleUrl": "https://mentalai.seadice.win/sns-appearance-mindfulness-before/",
     "articleSite": "AI時代のメンタルヘルス",
     "cards": [
