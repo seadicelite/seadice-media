@@ -47,6 +47,16 @@ RULES = [
         {"id": "game", "t": "ゲームのチャットで知らない人とやりとりしたら話す", "ages": "a5 jh", "on": "a5 jh",
          "why": "一律に禁止するより、一緒にゲームをする・話を聞くといった関わりの方が、見知らぬ人とのリスクを減らしやすいとわかっています。", "href": "/online-gaming-strangers-chat-risk/"},
     ]},
+    {"sec": "ゲーム", "items": [
+        {"id": "gtalk", "t": "ゲームの時間は子どもと話して決め、理由を伝える", "ages": "a5 jh", "on": "a5 jh",
+         "why": "一方的に押しつけられたと感じている子ほど、問題のあるゲームの使い方が多い傾向がありました。", "href": "/game-cant-stop-time-limit-taking-away/"},
+        {"id": "gend", "t": "終わりは「この試合まで」「セーブしたら」と区切りで決める", "ages": "a2 a5 jh", "on": "a2 a5 jh",
+         "why": "幼児の研究では、自然な区切りで画面を終えると、切り替えが楽でした。", "href": "/game-cant-stop-time-limit-taking-away/"},
+        {"id": "greward", "t": "ゲームをごほうびや罰に使わない", "ages": "a2 a5 jh", "on": "a2 a5",
+         "why": "画面の時間をごほうびや罰に使う家庭では、子どもの画面時間が長い傾向がありました。", "href": "/game-cant-stop-time-limit-taking-away/"},
+        {"id": "gpaper", "t": "決めたゲームのルールを紙に書いて貼る", "ages": "a5 jh", "on": "",
+         "why": "国の調査では、「家庭のルールがある」と答える割合が、子どもと親でずれていました。", "href": "/game-cant-stop-time-limit-taking-away/"},
+    ]},
     {"sec": "AIの使い方", "items": [
         {"id": "aiwith", "t": "AIは大人と一緒に使う", "ages": "a5", "on": "a5",
          "why": "ひとりで使わせるのは13歳からが目安です。それより前は親と一緒に、答えを確かめながら使えば、学びに役立つ場面もあります。", "href": "/ai-age-for-kids/"},
