@@ -526,5 +526,73 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-procrastination-self-help-not-working-research-single-advice",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Åsberg et al., \"Effects of a single session low-threshold digital intervention for procrastination behaviors among university students (Focus)\" (Internet Interventions, 2024)",
+    "sourceUrl": "https://doi.org/10.1016/j.invent.2024.100741",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/procrastination-self-help-not-working-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "先延ばしは、コツを知れば直る？",
+        "body": "先延ばし対策のコツって、ネットにたくさんあるよね。読んだ瞬間は「これでいける」と思うけど、本当に変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2209人の大学生で試した",
+        "body": "スウェーデンの大学生2209人を2つに分けて、一方には自分の先延ばしの結果へのフィードバックと行動のアドバイスを1回だけウェブで届けたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "2か月後、差ははっきりしなかった",
+        "body": "2か月後の先延ばしは、アドバイスを受けなかった人とはっきりした差がなかったらしい。続けて支えてくれるものがないと、行動に移すのが難しいという声もあったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "答えてくれた人は半分ほど",
+        "body": "2か月後に答えた人は45〜55％ほど。答えなかった人の変化はわからないし、数週間続けるプログラムなら結果は変わる可能性があるよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-procrastination-self-help-not-working-research-icbt",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rozental et al., \"Internet-based cognitive-behavior therapy for procrastination: A randomized controlled trial\" (Journal of Consulting and Clinical Psychology, 2015)",
+    "sourceUrl": "https://doi.org/10.1037/ccp0000023",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/procrastination-self-help-not-working-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "先延ばしって、治療の対象になるの？",
+        "body": "先延ばしは性格の問題と思われがちだけど、実は認知行動療法で減らせるかを確かめた試験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "150人を3つのグループに",
+        "body": "先延ばしに悩む150人を、セラピストの支援つきのオンラインのプログラム、支援なしの同じプログラム、順番待ちの3つに分けたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "支援なしでも先延ばしは減った",
+        "body": "どちらのプログラムも、順番待ちの人より先延ばしが中程度に減ったらしい。支援つきと支援なしの間に、統計的な差は見られなかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "自分で答えるアンケートの結果",
+        "body": "先延ばしは本人が答えるアンケートで測っていて、実際の作業の速さを測ったわけではないよ。対象もスウェーデンの150人だけなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

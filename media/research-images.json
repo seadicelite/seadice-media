@@ -1365,5 +1365,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Cup_of_coffee_on_caf%C3%A9_table.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "procrastination-self-help-not-working-research": {
+  "file": "File:WallCalendar.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WallCalendar.jpg/960px-WallCalendar.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WallCalendar.jpg/500px-WallCalendar.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "壁に掛けたカレンダー",
+  "artist": "Claudio Elias",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:WallCalendar.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
