@@ -1120,5 +1120,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg/500px-White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg",
   "og": "https://dokugaku.seadice.win/img/why-multitasking-hurts-studying-og.jpg",
   "local": true
+ },
+ "why-screen-reading-harder-to-understand": {
+  "file": "File:EBook between paper books.jpg",
+  "src": "/img/why-screen-reading-harder-to-understand.webp",
+  "src640": "/img/why-screen-reading-harder-to-understand-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "電子書籍端末と紙の本",
+  "artist": "Maximilian Schönherr",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:EBook_between_paper_books.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EBook_between_paper_books.jpg/960px-EBook_between_paper_books.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EBook_between_paper_books.jpg/500px-EBook_between_paper_books.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-screen-reading-harder-to-understand-og.jpg",
+  "local": true
  }
 }

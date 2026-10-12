@@ -298,5 +298,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-why-screen-reading-harder-to-understand-self-paced",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ackerman & Goldsmith, \"Metacognitive regulation of text learning: On screen versus on paper\" (Journal of Experimental Psychology: Applied, 2011)",
+    "sourceUrl": "https://doi.org/10.1037/a0022086",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-screen-reading-harder-to-understand/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "画面だと頭に入らないのはなぜ？",
+        "body": "PDFで読んだのに内容が残っていない。紙ならもう少し覚えている気がする。画面だと読む力そのものが落ちるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "時間を決める・決めないで比べた",
+        "body": "1,000〜1,200語の説明文を紙か画面で学んでテストを受ける実験。読む時間を決めた場合と、自分で決めた場合を比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差が出たのは時間を自分で決めたとき",
+        "body": "時間を決めると紙と画面で成績は同じだった。時間を自分で決めると画面の方が低かった。著者らは、画面では理解できたかの予想が不正確で、時間の使い方が乱れやすいとまとめている。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "今の画面でも同じか",
+        "body": "2011年の実験で、端末や読み方は今と違う。画面で読むのを好む学生では差が出なかった実験もあり、人や課題で結果は変わる。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
