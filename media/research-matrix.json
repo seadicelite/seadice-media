@@ -139,7 +139,9 @@
       "id": "habit",
       "label": "習慣",
       "cells": {
-        "why": [],
+        "why": [
+          "why-habits-run-on-autopilot-research"
+        ],
         "judge": [
           "habit-tracking-boosts-continuation",
           "habit-same-place-context-research"

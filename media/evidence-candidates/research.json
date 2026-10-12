@@ -322,5 +322,39 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "research-why-habits-run-on-autopilot-research-overtraining",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "de Wit S et al., \"Shifting the Balance Between Goals and Habits: Five Failures in Experimental Habit Induction\" (Journal of Experimental Psychology: General, 2018)",
+    "sourceUrl": "https://doi.org/10.1037/xge0000402",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/why-habits-run-on-autopilot-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "くり返すほど「勝手に動く」習慣になる？",
+        "body": "同じ行動を何度もくり返すと、目的と関係なく体が動く習慣になる。よく聞く話だし、2009年には人で確かめたという実験も出ていたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5回の実験で確かめ直した",
+        "body": "オランダやアメリカなどの研究者が、4種類の方法で合計5回の実験をした。2009年の実験も、アメリカ（64人）とオランダで別々に同じ手順でやり直している。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "練習を長くしても差が出なかった",
+        "body": "練習を長くした人も短い人も、ごほうびの価値が下がると同じように行動を変えた。著者らは、健康な人で実験的に習慣を作るのは難しいと結論づけているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日常の習慣とは別の話かも",
+        "body": "これは実験室での数日の練習の話。何年も続いた毎日の習慣が「勝手に動く」かどうかは、この実験だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

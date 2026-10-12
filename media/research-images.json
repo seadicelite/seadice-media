@@ -1285,5 +1285,23 @@
   "og": "https://research.seadice.win/img/why-we-forget-forgetting-curve-research.jpg",
   "local": true,
   "unconverted": true
+ },
+ "why-habits-run-on-autopilot-research": {
+  "file": "File:Bowl of Popcorn (Unsplash).jpg",
+  "src": "/img/why-habits-run-on-autopilot-research.jpg",
+  "src640": "/img/why-habits-run-on-autopilot-research-sm.jpg",
+  "w": 960,
+  "h": 636,
+  "alt": "器に盛られたポップコーン",
+  "artist": "Alex Munsell alexmunsell",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Bowl_of_Popcorn_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bowl_of_Popcorn_%28Unsplash%29.jpg/960px-Bowl_of_Popcorn_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bowl_of_Popcorn_%28Unsplash%29.jpg/500px-Bowl_of_Popcorn_%28Unsplash%29.jpg",
+  "og": "https://research.seadice.win/img/why-habits-run-on-autopilot-research.jpg",
+  "local": true
  }
 }
