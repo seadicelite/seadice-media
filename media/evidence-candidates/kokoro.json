@@ -404,5 +404,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-stress-focus-recover-exam-stress",
+    "category": "休息",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Liston C, McEwen BS, Casey BJ, \"Psychosocial stress reversibly disrupts prefrontal processing and attentional control\" (Proceedings of the National Academy of Sciences, 2009)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.0807041106",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/stress-focus-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ストレスで頭が回らないのは戻る？",
+        "body": "忙しい時期が続くと、前より頭が回らなくなった気がするよね。これって能力が落ちたのか、一時的なものなのか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "試験前の医学生を比べた",
+        "body": "大事な試験の準備で約1か月ストレスが続いた医学生20人と、ストレスの少ない医学生20人を比べた。色と動きのどちらに注目するかを切り替える課題をしてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1か月後には差がなくなった",
+        "body": "ストレスの続いた学生は切り替えに手間取っていた。でもストレスが減って1か月後に15人を調べ直すと、ストレスの少ない学生と差がなくなっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "終わりのあるストレスの話",
+        "body": "対象は若い医学生で、人数も少ない。試験という終わりの決まったストレスだったから、何か月も続く仕事のストレスでも同じように戻るかはわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
