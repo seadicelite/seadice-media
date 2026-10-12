@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "id": "kokoro-ai-easier-to-confide-chatbot-disclosure",
+    "category": "AIと心",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ho A, Hancock J, Miner AS, \"Psychological, Relational, and Emotional Effects of Self-Disclosure After Conversations With a Chatbot\" (Journal of Communication, 2018)",
+    "sourceUrl": "https://doi.org/10.1093/joc/jqy026",
+    "articleUrl": "https://mentalai.seadice.win/ai-easier-to-confide/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIに話しても気持ちは軽くなる？",
+        "body": "人には言えないことを、AIには書けちゃう。でも相手がAIだと、話しても意味ないのかな？と思うこと、あるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "相手は「AI」と伝えて25分チャット",
+        "body": "スタンフォード大学の実験。98人にチャットで話してもらい、半分には相手はAI、半分には人と伝えたんだ。実は相手はどちらも訓練を受けた人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "気持ちを話すと、AIでも人でも同じように楽に",
+        "body": "予定などの事実より気持ちを話した人のほうが「楽になった」と感じていた。その効果は、相手をAIだと思っていても人だと思っていても同じだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本物のAIが相手だったら？",
+        "body": "相手は実際には人で、参加者は大学で募集した若い人たち。今の会話AIと話して同じ結果になるかは、まだ確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-12"
+  }
+]

@@ -2074,5 +2074,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Snowy_forest_path_01_%E2%80%93_Panorama_%28Oliksiy_Yakovlyev_via_Poly_Haven%29.jpg/500px-Snowy_forest_path_01_%E2%80%93_Panorama_%28Oliksiy_Yakovlyev_via_Poly_Haven%29.jpg",
   "og": "https://mentalai.seadice.win/img/alone-time-without-loneliness.jpg",
   "local": true
+ },
+ "ai-easier-to-confide": {
+  "file": "File:Blank Pages In An Open Notebook (4812269151).jpg",
+  "w": 960,
+  "h": 640,
+  "artist": "Pink Sherbet Photography from USA",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blank_Pages_In_An_Open_Notebook_(4812269151).jpg",
+  "source_label": "Wikimedia Commons",
+  "src": "/img/ai-easier-to-confide.jpg",
+  "src640": "/img/ai-easier-to-confide-sm.jpg",
+  "alt": "開いた白紙のノート",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Blank_Pages_In_An_Open_Notebook_%284812269151%29.jpg/960px-Blank_Pages_In_An_Open_Notebook_%284812269151%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Blank_Pages_In_An_Open_Notebook_%284812269151%29.jpg/500px-Blank_Pages_In_An_Open_Notebook_%284812269151%29.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-easier-to-confide.jpg",
+  "local": true
  }
 }

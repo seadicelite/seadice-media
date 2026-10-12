@@ -1,5 +1,14 @@
 [
   {
+    "slug": "ai-easier-to-confide",
+    "category": "AIとの付き合い方",
+    "type": "guide",
+    "stage": "知る",
+    "date": "2026-10-12",
+    "title": "人に言えない悩みも、AIになら話せるのはなぜ？人の目を気にせずに済むと考えられてきたが、373人の実験ではAIのほうが打ち明けにくいという結果も出ていた",
+    "summary": "AIに本音を話しやすい理由を研究で整理。評価されない安心感の説と、AIのほうが打ち明けにくかった実験、気持ちを話すこと自体の効果を紹介。"
+  },
+  {
     "slug": "alone-time-without-loneliness",
     "category": "人とのつながり",
     "type": "guide",
