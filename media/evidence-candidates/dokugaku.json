@@ -468,5 +468,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-read-recite-review-sheet-whole-vs-section",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Stern & Halamish, \"Free-recall retrieval practice tasks for students with ADHD: whole-text versus section recall\" (Frontiers in Psychology, 2023)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2023.1301726",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/read-recite-review-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "思い出すのは節ごと？最後？",
+        "body": "読んだ後に本を閉じて思い出すと覚えやすいらしい。でも、1段落ごとに思い出すのと、全部読んでからまとめて思い出すの、どっちがいいんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生72人で比べた",
+        "body": "イスラエルの大学生72人（ADHDのある人とない人が半分ずつ）が短い文章を3つ学習。段落ごとに思い出す、最後にまとめて思い出す、読み直す、の3通りを試して2日後にテストした。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "その場の手応えと逆になった",
+        "body": "練習中は段落ごとの方が多く書けた（81%対54%）。でも2日後に思い出せたのは、まとめて思い出した方が多かった（45%対37%）。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "読み直しとの差は出なかった",
+        "body": "この実験では、どちらの思い出し方も読み直し（42%）と比べてはっきりした差が出なかった。文章は200語ほどと短く、長い本でも同じかはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

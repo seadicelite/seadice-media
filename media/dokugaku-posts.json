@@ -1,5 +1,13 @@
 [
   {
+    "slug": "read-recite-review-sheet",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-13",
+    "title": "読んでも頭に入らない人の「3Rシート」と記録表。読む・思い出す・確かめるの研究から作った使い方",
+    "summary": "読む→本を閉じて思い出す→見直す「3R」の研究をもとに、テキストを読むときのシートと記録表を作りました。"
+  },
+  {
     "slug": "vocab-review-schedule-recall-log",
     "category": "記憶・覚え方",
     "type": "guide",

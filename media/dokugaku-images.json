@@ -1204,5 +1204,23 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Serbian-English_and_English-Serbian_dictionaries.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "read-recite-review-sheet": {
+  "file": "File:Vihorlat Museum in Humenné - History and art history permanent exhibition - Study - Open book on the study's writing desk (September 2026).jpg",
+  "src": "/img/read-recite-review-sheet.jpg",
+  "src640": "/img/read-recite-review-sheet-sm.jpg",
+  "w": 960,
+  "h": 719,
+  "alt": "書斎の机の上に開いた本",
+  "artist": "ZemplinTemplar",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Study_-_Open_book_on_the_study%27s_writing_desk_(September_2026).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Study_-_Open_book_on_the_study%27s_writing_desk_%28September_2026%29.jpg/960px-Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Study_-_Open_book_on_the_study%27s_writing_desk_%28September_2026%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Study_-_Open_book_on_the_study%27s_writing_desk_%28September_2026%29.jpg/500px-Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Study_-_Open_book_on_the_study%27s_writing_desk_%28September_2026%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/read-recite-review-sheet.jpg",
+  "local": true
  }
 }
