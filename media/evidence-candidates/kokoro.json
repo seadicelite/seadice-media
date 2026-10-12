@@ -472,5 +472,73 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-nature-sounds-stress-birdsong",
+    "category": "休息",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Stobbe E et al., \"Birdsongs alleviate anxiety and paranoia in healthy participants\" (Scientific Reports, 2022)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-022-20841-0",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/nature-sounds-stress/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "鳥の声で落ち着くのは気のせい？",
+        "body": "鳥の声を聞くとなんだかほっとする。あれって本当に気分に効いているのか、ドイツの研究者がオンライン実験で確かめたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "6分だけ聞いてもらった",
+        "body": "大人295人を分けて、鳥の声か車の騒音を6分間ヘッドホンで聞いてもらい、聞く前とあとで不安や気分を測ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "鳥の声で不安が下がった",
+        "body": "鳥の声のグループは、聞いたあと不安が中くらいの大きさで下がっていた。車の騒音のグループは、逆に気分の落ち込みが強まっていたらしい。記憶などの課題には変化がなかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "無音と比べていない",
+        "body": "比べたのは鳥の声と車の騒音だけで、静かな部屋で休むのと比べてどうかはわからない。家で聞いた音量もそろえきれていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-background-speech-focus-incentive",
+    "category": "集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bell R et al., \"Monetary incentives have only limited effects on auditory distraction: evidence for the automaticity of cross-modal attention capture\" (Psychological Research, 2021)",
+    "sourceUrl": "https://doi.org/10.1007/s00426-020-01455-5",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/background-speech-focus/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "話し声は気合いで無視できる？",
+        "body": "「集中してれば周りの話し声なんて気にならない」ってよく言うよね。本当にやる気しだいなのか、実験で確かめた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "お金でやる気を上げてみた",
+        "body": "ドイツの大学生173人が、話し声が流れる中で数字の順番を覚える課題をした。半分の回は、正解するたびにお金がもらえるようにしたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績の低下は残った",
+        "body": "お金がもらえる回は成績全体が上がったけど、話し声による成績の低下は少し小さくなっただけで残っていた。意味のある文章が加える邪魔は、お金があってもなくても変わらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実際の仕事ではどうか",
+        "body": "調べたのは数字を覚える短い課題。文章を書くなど実際の仕事でどれくらい影響するか、慣れで変わるかはまだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
