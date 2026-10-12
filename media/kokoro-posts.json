@@ -1,5 +1,14 @@
 [
   {
+    "slug": "stuffy-room-ventilation-focus",
+    "category": "考える力・集中",
+    "type": "guide",
+    "stage": "予防する",
+    "date": "2026-10-12",
+    "title": "閉めきった部屋にいると、頭がぼんやりして集中できない。換気の研究では、外の空気を多く入れたほうが頭を使う課題の成績がよかった",
+    "summary": "オフィスを再現した実験や教室の研究のまとめでは、換気を増やすと課題の成績がよい傾向。二酸化炭素そのものの影響は結果が分かれる。"
+  },
+  {
     "slug": "phone-always-bored",
     "category": "AI疲れ・情報疲れ",
     "type": "guide",

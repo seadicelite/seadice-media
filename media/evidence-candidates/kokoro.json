@@ -64,5 +64,38 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "kokoro-stuffy-room-ventilation-focus-co2-office",
+    "category": "AIと心",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Allen JG et al., \"Associations of Cognitive Function Scores with Carbon Dioxide, Ventilation, and Volatile Organic Compound Exposures in Office Workers\" (Environmental Health Perspectives, 2016)",
+    "sourceUrl": "https://doi.org/10.1289/ehp.1510037",
+    "articleUrl": "https://mentalai.seadice.win/stuffy-room-ventilation-focus/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "閉めきった部屋で頭がぼんやりするのはなぜ？",
+        "body": "会議室に長くいると、午後には頭が重くなる。自分の集中力のせい？それとも部屋の空気のせい？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "24人がオフィスを再現した部屋で6日間",
+        "body": "米国の会社員など24人が、空気の条件を知らされないまま、換気や二酸化炭素の量を日ごとに変えた部屋で働いて、頭を使う課題を受けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "二酸化炭素が多い日は点が低め",
+        "body": "約550ppmの日と比べて、約945ppmの日は課題の点が15%、約1,400ppmの日は50%低かったらしい。外の空気を2倍に増やした日は、点が平均25%高かった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "二酸化炭素そのものが原因かは未決着",
+        "body": "24人の実験室での結果で、二酸化炭素だけを足しても成績が下がらなかった実験もある。実際のオフィスで同じ差が出るかは、まだ確かめが必要なんだ。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]
