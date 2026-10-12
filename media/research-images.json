@@ -1249,5 +1249,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stack_of_four_sticky_notes.jpg/500px-Stack_of_four_sticky_notes.jpg",
   "og": "https://research.seadice.win/img/interrupted-work-refocus-research-og.jpg",
   "local": true
+ },
+ "procrastination-self-forgiveness-recovery-research": {
+  "file": "File:Working on a planning session with stationery items, notebook, and colorful pencils on a wooden desk.jpg",
+  "src": "/img/procrastination-self-forgiveness-recovery-research.jpg",
+  "src640": "/img/procrastination-self-forgiveness-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "机の上に開いたノートと鉛筆",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Working_on_a_planning_session_with_stationery_items,_notebook,_and_colorful_pencils_on_a_wooden_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Working_on_a_planning_session_with_stationery_items%2C_notebook%2C_and_colorful_pencils_on_a_wooden_desk.jpg/960px-Working_on_a_planning_session_with_stationery_items%2C_notebook%2C_and_colorful_pencils_on_a_wooden_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Working_on_a_planning_session_with_stationery_items%2C_notebook%2C_and_colorful_pencils_on_a_wooden_desk.jpg/500px-Working_on_a_planning_session_with_stationery_items%2C_notebook%2C_and_colorful_pencils_on_a_wooden_desk.jpg",
+  "og": "https://research.seadice.win/img/procrastination-self-forgiveness-recovery-research.jpg",
+  "local": true,
+  "unconverted": true
  }
 }

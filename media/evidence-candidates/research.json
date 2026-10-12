@@ -254,5 +254,39 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "research-procrastination-self-forgiveness-recovery-research-treatment-meta",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rozental A et al., \"Targeting Procrastination Using Psychological Treatments: A Systematic Review and Meta-Analysis\" (Frontiers in Psychology, 2018)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2018.01588",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/procrastination-self-forgiveness-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "先延ばしは性格だから、どうにもならない？",
+        "body": "「先延ばしぐせは直らない」ってよく聞くよね。でも実は、先延ばしを減らすための心理的な支援が、ランダム化比較試験でいくつも試されているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "12件の試験、718人をまとめた",
+        "body": "先延ばしへの心理的な支援を、何もしない群などと比べた試験を集めて分析した研究。12件の試験、合わせて718人のデータをまとめているよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "全体では小さめ、認知行動療法は中くらい",
+        "body": "支援全体の効果の大きさは g＝0.34で小さめ。認知行動療法の試験だけにしぼると g＝0.55で、中くらいの効果だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "認知行動療法の試験はまだ3件だけ",
+        "body": "中くらいの効果が出た認知行動療法の分析は3件の試験だけがもと。試験ごとの結果のばらつきも大きく、効果の測り方も自己申告が中心だった。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]
