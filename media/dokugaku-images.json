@@ -1035,5 +1035,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2000_Notebook%2C_Pages_4-5.jpg/500px-2000_Notebook%2C_Pages_4-5.jpg",
   "og": "https://dokugaku.seadice.win/img/ai-overreliance-solve-on-your-own-og.jpg",
   "local": true
+ },
+ "study-routine-after-life-change": {
+  "file": "File:An Overview of Moving Companies and Their Use of Moving Boxes.jpg",
+  "src": "/img/study-routine-after-life-change.jpg",
+  "src640": "/img/study-routine-after-life-change-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "段ボール箱と家具を積んだ引っ越しトラックの荷台",
+  "artist": "brownpau",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:An_Overview_of_Moving_Companies_and_Their_Use_of_Moving_Boxes.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/An_Overview_of_Moving_Companies_and_Their_Use_of_Moving_Boxes.jpg/960px-An_Overview_of_Moving_Companies_and_Their_Use_of_Moving_Boxes.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/An_Overview_of_Moving_Companies_and_Their_Use_of_Moving_Boxes.jpg/500px-An_Overview_of_Moving_Companies_and_Their_Use_of_Moving_Boxes.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-routine-after-life-change.jpg",
+  "local": true
  }
 }

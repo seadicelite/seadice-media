@@ -130,5 +130,38 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "dokugaku-study-routine-after-life-change-routine-vs-time-cue",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Keller et al., \"Habit formation following routine-based versus time-based cue planning: A randomized controlled trial\" (British Journal of Health Psychology, 2021)",
+    "sourceUrl": "https://doi.org/10.1111/bjhp.12504",
+    "articleUrl": "https://dokugaku.seadice.win/study-routine-after-life-change/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "習慣は決まった時刻に",
+        "body": "新しい習慣を作るなら「毎日○時にやる」と時刻を決めるのが一番、ってよく言われるよね。でも「歯みがきの後」みたいに、いつもの行動につなげる方法もある。どっちがいいんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "192人をくじで2つに分けた",
+        "body": "18〜77歳の192人に、食事に関する行動を1つ選んでもらい、半分は「毎日の決まった行動の後」、半分は「決まった時刻」にやると決めてもらった。そのまま84日間、毎日記録した実験がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "どちらも同じくらい効いた",
+        "body": "どちらのグループも習慣になる度合いは上がり、差はなかった。決めた通りに繰り返すことが大事な予測因子だったらしい。習慣になった人がその伸びの頭打ちに達するまでは、中央値で59日だった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強でも同じ？",
+        "body": "調べたのは食事の行動で、勉強ではない。習慣になったかどうかは本人が答える質問票で測っていて、59日も習慣になった人だけの数字。人や行動によって日数の差は大きい。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]
