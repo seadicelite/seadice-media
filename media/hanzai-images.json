@@ -984,5 +984,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dornbirn-Stempel_%28rubber_stamps%29_Raiffeisenbank-01ASD.jpg/500px-Dornbirn-Stempel_%28rubber_stamps%29_Raiffeisenbank-01ASD.jpg",
   "og": "https://hanzai.seadice.win/img/moral-disengagement-og.jpg",
   "local": true
+ },
+ "death-penalty-deterrence": {
+  "file": "File:Rochester City Court part 1 courtroom.jpg",
+  "src": "/img/death-penalty-deterrence.webp",
+  "src640": "/img/death-penalty-deterrence-sm.webp",
+  "w": 960,
+  "h": 232,
+  "alt": "誰もいない法廷",
+  "artist": "Bjengles3",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rochester_City_Court_part_1_courtroom.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rochester_City_Court_part_1_courtroom.jpg/960px-Rochester_City_Court_part_1_courtroom.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rochester_City_Court_part_1_courtroom.jpg/500px-Rochester_City_Court_part_1_courtroom.jpg",
+  "og": "https://hanzai.seadice.win/img/death-penalty-deterrence-og.jpg",
+  "local": true
  }
 }
