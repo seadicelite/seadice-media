@@ -186,5 +186,39 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "research-wrong-answer-review-memory-research-feedback",
+    "category": "記憶・学習",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pashler H, Cepeda NJ, Wixted JT & Rohrer D, \"When does feedback facilitate learning of words?\" (Journal of Experimental Psychology: Learning, Memory, and Cognition, 2005)",
+    "sourceUrl": "https://doi.org/10.1037/0278-7393.31.1.3",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/wrong-answer-review-memory-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "間違えた問題、答えを見るだけで変わる？",
+        "body": "テストで間違えると落ち込むし、丸つけもつい後回しにしがちだよね。でも、間違えた後にすぐ正解を見るかどうかで、記憶ってどれくらい変わるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "258人がアフリカの言語の単語を覚えた",
+        "body": "ルガンダ語と英語の単語ペアを覚えて、何度かテストした実験。間違えた後に正解を見せるかどうかなど、答えの見せ方を人ごとに変えて、1週間後にもう一度テストしたんだって。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "間違いの後に正解を見ると、494%伸びた",
+        "body": "間違えた後に正しい答えを見せると、1週間後の成績が494%伸びた。逆に、正解した問題に答えを見せても、成績はほとんど変わらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "単語以外でも同じかは別の話",
+        "body": "これは外国語の単語ペアという単純な材料での結果。文章の理解や計算問題でも同じくらい効くかは、この実験だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]

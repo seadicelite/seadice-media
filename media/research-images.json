@@ -1215,5 +1215,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2023_Budzik_Perfect.jpg/500px-2023_Budzik_Perfect.jpg",
   "og": "https://research.seadice.win/img/sleep-timing-after-learning-memory-research.jpg",
   "local": true
+ },
+ "wrong-answer-review-memory-research": {
+  "file": "File:Paper Mate Union Pen & Pencil Rubber Eraser (16972392718).jpg",
+  "src": "/img/wrong-answer-review-memory-research.webp",
+  "src640": "/img/wrong-answer-review-memory-research-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "消しゴム",
+  "artist": "Willis Lam",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Paper_Mate_Union_Pen_%26_Pencil_Rubber_Eraser_(16972392718).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Paper_Mate_Union_Pen_%26_Pencil_Rubber_Eraser_%2816972392718%29.jpg/960px-Paper_Mate_Union_Pen_%26_Pencil_Rubber_Eraser_%2816972392718%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Paper_Mate_Union_Pen_%26_Pencil_Rubber_Eraser_%2816972392718%29.jpg/500px-Paper_Mate_Union_Pen_%26_Pencil_Rubber_Eraser_%2816972392718%29.jpg",
+  "og": "https://research.seadice.win/img/wrong-answer-review-memory-research-og.jpg",
+  "local": true
  }
 }

@@ -170,7 +170,9 @@
         "how": [
           "spacing-effect-review-timing"
         ],
-        "stuck": []
+        "stuck": [
+          "wrong-answer-review-memory-research"
+        ]
       }
     }
   ],
