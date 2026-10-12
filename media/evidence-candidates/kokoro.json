@@ -438,5 +438,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-ai-comfort-self-coping-response-style",
+    "category": "AIと心",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wang C, \"How emotional response styles of generative AI companions shape adaptive emotion regulation and short-term AI reliance\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1950163",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/ai-comfort-self-coping/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "調べたこと",
+        "title": "AIの慰め方を2通りにした",
+        "body": "いやな出来事を思い出した380人が、AIと3往復話した。半分は慰めて「またいつでも話して」と返すAI、もう半分は気持ちの名前・別の見方・自分でできる一歩を一緒に考えるAIだったんだ。"
+      },
+      {
+        "stage": "わかったこと1",
+        "title": "その場の楽さは同じ",
+        "body": "どちらのAIでも、いやな気分は同じくらい下がった（1〜7点で1.67点と1.61点）。慰め方の違いは、その場では見えなかったらしい。"
+      },
+      {
+        "stage": "わかったこと2",
+        "title": "差はAIなしの場面で出た",
+        "body": "そのあとAIなしで別のいやな場面に向き合うと、コツを示すAIと話した人のほうが気分の下がり幅が大きかった（0.99点と0.71点）。「AIが必要」と感じる度合いも低めだったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回の会話の話",
+        "body": "調べたのは1回の短い会話と、同じ日の課題だけ。対象は中国の比較的若い大人で、何週間も続けたらどうなるか、依存につながるのかはまだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

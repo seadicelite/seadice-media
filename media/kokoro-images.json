@@ -2272,5 +2272,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/EARLY_MORNING_MIST_OVER_THE_MIDSECTION_OF_LONG_LAKE%2C_IN_THE_ADIRONDACK_FOREST_PRESERVE_-_NARA_-_554647.jpg/500px-EARLY_MORNING_MIST_OVER_THE_MIDSECTION_OF_LONG_LAKE%2C_IN_THE_ADIRONDACK_FOREST_PRESERVE_-_NARA_-_554647.jpg",
   "og": "https://mentalai.seadice.win/img/stress-focus-recover.jpg",
   "local": true
+ },
+ "ai-comfort-self-coping": {
+  "file": "File:Horizon of a calm Sulu Sea (wide angle) - Kalmadong dagat ng Sulu.jpg",
+  "src": "/img/ai-comfort-self-coping.jpg",
+  "src640": "/img/ai-comfort-self-coping-sm.jpg",
+  "w": 960,
+  "h": 541,
+  "alt": "穏やかな海と水平線",
+  "artist": "Paul Christian B. Yang-ed",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Horizon_of_a_calm_Sulu_Sea_(wide_angle)_-_Kalmadong_dagat_ng_Sulu.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horizon_of_a_calm_Sulu_Sea_%28wide_angle%29_-_Kalmadong_dagat_ng_Sulu.jpg/960px-Horizon_of_a_calm_Sulu_Sea_%28wide_angle%29_-_Kalmadong_dagat_ng_Sulu.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horizon_of_a_calm_Sulu_Sea_%28wide_angle%29_-_Kalmadong_dagat_ng_Sulu.jpg/500px-Horizon_of_a_calm_Sulu_Sea_%28wide_angle%29_-_Kalmadong_dagat_ng_Sulu.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-comfort-self-coping.jpg",
+  "local": true
  }
 }
