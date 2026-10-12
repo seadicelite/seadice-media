@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "id": "dokugaku-forgotten-language-relearning-permastore",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bahrick, \"Semantic memory content in permastore: Fifty years of memory for Spanish learned in school\" (Journal of Experimental Psychology: General, 1984)",
+    "sourceUrl": "https://doi.org/10.1037/0096-3445.113.1.1",
+    "articleUrl": "https://dokugaku.seadice.win/forgotten-language-relearning/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "使わない語学は全部消える？",
+        "body": "学生時代に習った英語や第二外国語、何年も使わないともう全部忘れた…と感じるよね。でも本当に消えているのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "50年分のスペイン語を調べた",
+        "body": "学校でスペイン語を習った733人に、読解・単語・文法のテストをした研究がある。習ってからの年数は人によって最長50年までばらばら。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "数年で減って、その後は長く残る",
+        "body": "知識は最初の3〜6年で急に減ったあと、最長30年ほどほとんど変わらなかった。使っていないのに、多くは50年以上残っていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "同じ人を追ったわけではない",
+        "body": "同じ人を50年追ったのではなく、年数の違う人どうしを比べた研究。最初にどれだけ学んだかでも残る量は違った。日本人の英語で同じかは未確認。"
+      }
+    ],
+    "addedAt": "2026-10-12"
+  }
+]
