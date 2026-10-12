@@ -116,7 +116,9 @@
     "nature-attention-restore",
     "meditation-focus-recover",
     "break-timing-focus",
-    "ai-offloading-decide-remember"
+    "ai-offloading-decide-remember",
+    "stuffy-room-ventilation-focus",
+    "phone-always-bored"
    ]
   },
   {
@@ -186,7 +188,8 @@
     "small-talk-follow-up-questions",
     "reply-waiting-anxiety",
     "text-message-tone-misread",
-    "alone-time-without-loneliness"
+    "alone-time-without-loneliness",
+    "ai-easier-to-confide"
    ]
   },
   {
@@ -221,7 +224,8 @@
     "ai-venting-rumination",
     "ai-habit-change-how-long",
     "ai-check-before-speaking",
-    "ai-offloading-decide-remember"
+    "ai-offloading-decide-remember",
+    "ai-easier-to-confide"
    ]
   }
  ]
