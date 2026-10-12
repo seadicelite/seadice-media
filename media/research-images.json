@@ -1321,5 +1321,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Friars%27_Crag_Derwentwater_Lake_District_2022_01.jpg/500px-Friars%27_Crag_Derwentwater_Lake_District_2022_01.jpg",
   "og": "https://research.seadice.win/img/stop-ruminating-after-bad-day-research.jpg",
   "local": true
+ },
+ "tip-of-the-tongue-recall-research": {
+  "file": "File:Latin dictionary.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Latin_dictionary.jpg/960px-Latin_dictionary.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Latin_dictionary.jpg/500px-Latin_dictionary.jpg",
+  "w": 960,
+  "h": 764,
+  "alt": "開いた辞書のページ",
+  "artist": "Dr. Marcus Gossler",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Latin_dictionary.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

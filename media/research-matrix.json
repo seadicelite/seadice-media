@@ -180,7 +180,8 @@
           "spacing-effect-review-timing"
         ],
         "stuck": [
-          "wrong-answer-review-memory-research"
+          "wrong-answer-review-memory-research",
+          "tip-of-the-tongue-recall-research"
         ]
       }
     }

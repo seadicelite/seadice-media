@@ -390,5 +390,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-tip-of-the-tongue-recall-research-repeat",
+    "category": "記憶・学習",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Oliver LK & Humphreys KR, \"Phonological Interlopers Tend to Repeat When Tip-of-the-Tongue States Repeat\" (Frontiers in Psychology, 2019)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2019.00341",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/tip-of-the-tongue-recall-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "同じ言葉ばかり、ど忘れしない？",
+        "body": "喉まで出かかってるのに出てこない言葉って、なぜか毎回同じだったりするよね。あれって気のせいなんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "40人に1週間あけて2回テスト",
+        "body": "大学生40人に、意味を見て単語を答えるテストを1週間あけて2回やってもらった。ど忘れしたら15秒間、思い出そうとしてもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "思い出せないまま終わると、くり返しやすい",
+        "body": "1回目のど忘れの27％は、1週間後にまた起きた。思い出せずに終わった言葉は41％がくり返し、自力で思い出せた言葉は15％だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "若い学生の実験室での話",
+        "body": "対象は平均19.6歳の学生40人で、単語当ての課題だった。日常の人の名前のど忘れや、年齢が上の人でも同じかは、この研究だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
