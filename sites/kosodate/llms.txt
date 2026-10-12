@@ -78,6 +78,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [子どもを褒めすぎると自己肯定感が下がる？研究でわかった褒め方の分かれ道](https://kosodate.seadice.win/inflated-praise-self-esteem/): 自己肯定感が低い子ほど大げさな褒め言葉を受けやすく、それが挑戦を避ける方向に働くとわかっています。
 - [保育園の登園しぶり・分離不安はいつまで続く？](https://kosodate.seadice.win/nursery-separation-anxiety-how-long/): 毎朝泣いて離れない登園しぶりはいつまで続くのか、研究でわかっている経過の目安と家庭でできることを紹介します。
 - [親のスマホ使用は子どもに影響する？「テクノフェアレンス」とは](https://kosodate.seadice.win/parent-smartphone-technoference-children/): 親が気を取られて関わりが減る「テクノフェアレンス」と子どもの問題行動には小さな関連が。使用量自体との関連は一定していません。
+- [子どもが学校に行きたがらない。不登校のはじまりに親ができることを、国のデータと研究で整理](https://kosodate.seadice.win/school-refusal-first-signs-parents/): 不登校の小中学生は35万3,970人。多いのは「やる気が出ない」「生活リズム」「不安」。体の訴えを受け止め、早めに学校へ相談するのが第一歩。
 - [きょうだいを比較すると自己肯定感は下がる？](https://kosodate.seadice.win/sibling-comparison-self-esteem/): きょうだいへの差をつけた関わりは、問題行動やきょうだい関係の悪化と関連し、自己肯定感がやや低い傾向とも関連していました。
 - [下の子ばかり構ってしまう。きょうだいへの接し方の違いは子どもの心に影響する？](https://kosodate.seadice.win/sibling-differential-treatment-fairness/): 接し方の差そのものより、子どもが不公平だと強く感じるかどうかが影響すると大規模メタ分析などで示されています。
 - [子どもの癇癪（かんしゃく）への対応。年齢による変化と関わり方のコツ](https://kosodate.seadice.win/tantrum-coping-children-research/): スーパーで寝転がって泣き叫ぶ子どもの癇癪はいつまで続く？頻度・持続時間の研究と、家庭でできる関わり方を紹介します。
@@ -110,6 +111,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - 一覧: https://kosodate.seadice.win/tools/
 - [子どものAI・スマホの悩みチェック](https://kosodate.seadice.win/check/): Webツール。悩みを選ぶと、親が今日やることがわかる
 - [スクリーンタイム判定](https://kosodate.seadice.win/screen-time-check/): Webツール。スクショから、年齢別の目安（WHOなど）と比べる
+- [朝の様子の記録（登校しぶり）](https://kosodate.seadice.win/asa-kiroku/): Webツール。行けた・休んだと朝の訴えを1タップで記録し、曜日の傾向と学校に見せるまとめを作る
 - [AIで練習するSNS](https://kosodate.seadice.win/sns-practice/): Webツール。知らない人のDM・悪口・写真投稿などを、子どもと一緒に練習する
 - [スマホ・AIルールづくり（印刷用）](https://kosodate.seadice.win/rules/): Webツール。年齢別に選んで、家族のルール表を印刷できる
 - [研究早見表](https://kosodate.seadice.win/hayami/): Webツール。悩み別に、研究の答えと今日できることを一覧で見る

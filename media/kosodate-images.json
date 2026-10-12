@@ -1052,5 +1052,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tecnolog%C3%ADa_Inspiracional.jpg/500px-Tecnolog%C3%ADa_Inspiracional.jpg",
   "og": "https://kosodate.seadice.win/img/smartphone-on-desk-homework-focus-og.jpg",
   "local": true
+ },
+ "school-refusal-first-signs-parents": {
+  "file": "File:3A 665.jpg",
+  "src": "/img/school-refusal-first-signs-parents.webp",
+  "src640": "/img/school-refusal-first-signs-parents-sm.webp",
+  "w": 960,
+  "h": 576,
+  "alt": "誰もいない教室の机と椅子",
+  "artist": "Escuela16de17",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:3A_665.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/3A_665.jpg/960px-3A_665.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/3A_665.jpg/500px-3A_665.jpg",
+  "og": "https://kosodate.seadice.win/img/school-refusal-first-signs-parents-og.jpg",
+  "local": true
  }
 }

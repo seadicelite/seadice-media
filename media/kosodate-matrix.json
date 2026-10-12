@@ -1,0 +1,288 @@
+{
+ "cols": [
+  {
+   "id": "data",
+   "label": "目安",
+   "q": "何歳から？何時間まで？どれくらいの子に起きている？（統計・公的な目安）"
+  },
+  {
+   "id": "effect",
+   "label": "影響",
+   "q": "子どもの発達・学力・心にどう影響する？（研究）"
+  },
+  {
+   "id": "how",
+   "label": "関わり方",
+   "q": "親は何をすればいい？（ルール・声かけ・環境）"
+  },
+  {
+   "id": "trouble",
+   "label": "困ったら",
+   "q": "こじれた・起きてしまったとき、まず何をする？相談先は？"
+  },
+  {
+   "id": "use",
+   "label": "使う",
+   "q": "その場で使える道具・チェック表・記録（ツール、記事内のチェックリストも可）"
+  }
+ ],
+ "rows": [
+  {
+   "id": "ai-start",
+   "label": "AIを使わせ始める",
+   "cells": {
+    "data": [
+     "ai-age-for-kids"
+    ],
+    "effect": [
+     "ai-voice-assistant-child-trust",
+     "ai-literacy-gap-academic-achievement"
+    ],
+    "how": [
+     "generative-ai-family-involvement",
+     "parent-ai-monitoring-how-much"
+    ],
+    "trouble": [],
+    "use": [
+     "https://kosodate.seadice.win/rules/",
+     "https://kosodate.seadice.win/check/"
+    ]
+   }
+  },
+  {
+   "id": "ai-study",
+   "label": "宿題・勉強とAI",
+   "cells": {
+    "data": [
+     "ai-school-classroom-change"
+    ],
+    "effect": [
+     "homework-ai-thinking-skills",
+     "ai-answers-memory-retention",
+     "ai-tutor-adaptive-learning-effect",
+     "ai-translation-english-learning"
+    ],
+    "how": [
+     "ai-book-report-homework-help",
+     "ai-exam-prep-high-school"
+    ],
+    "trouble": [],
+    "use": []
+   }
+  },
+  {
+   "id": "ai-heart",
+   "label": "AIの話し相手・相談",
+   "cells": {
+    "data": [
+     "ai-chatbot-conversations-children-risk"
+    ],
+    "effect": [
+     "ai-companion-loneliness"
+    ],
+    "how": [
+     "ai-chatbot-worry-consultation-safety"
+    ],
+    "trouble": [
+     "ai-sexual-violent-content-filter-age-limit"
+    ],
+    "use": []
+   }
+  },
+  {
+   "id": "screen",
+   "label": "動画・スマホの時間",
+   "cells": {
+    "data": [
+     "kids-screen-time-hours"
+    ],
+    "effect": [
+     "screen-time-language-development-toddler",
+     "bedtime-screen-sleep",
+     "screen-time-myopia-eyesight",
+     "screen-time-adhd-symptoms-risk",
+     "fast-paced-video-fantasy-executive-function",
+     "tablet-vs-tv-self-control"
+    ],
+    "how": [
+     "family-screen-time-rules-research",
+     "youtube-more-please-how-to-say-no",
+     "parent-smartphone-technoference-children"
+    ],
+    "trouble": [
+     "toddler-screen-stop-crying-self-regulation"
+    ],
+    "use": [
+     "https://kosodate.seadice.win/screen-time-check/",
+     "https://kosodate.seadice.win/rules/"
+    ]
+   }
+  },
+  {
+   "id": "smartphone",
+   "label": "自分のスマホ・SNSデビュー",
+   "cells": {
+    "data": [
+     "smartphone-first-age-ownership-risk"
+    ],
+    "effect": [
+     "social-media-cognitive-performance-decline"
+    ],
+    "how": [
+     "junior-high-smartphone-rules-rebellion"
+    ],
+    "trouble": [],
+    "use": [
+     "https://kosodate.seadice.win/sns-practice/"
+    ]
+   }
+  },
+  {
+   "id": "game",
+   "label": "ゲーム",
+   "cells": {
+    "data": [],
+    "effect": [
+     "gaming-disorder-children-research"
+    ],
+    "how": [],
+    "trouble": [],
+    "use": []
+   }
+  },
+  {
+   "id": "net-trouble",
+   "label": "ネットの人間関係",
+   "cells": {
+    "data": [],
+    "effect": [],
+    "how": [
+     "online-gaming-strangers-chat-risk"
+    ],
+    "trouble": [
+     "cyberbullying-children-parent-awareness"
+    ],
+    "use": [
+     "https://kosodate.seadice.win/sns-practice/"
+    ]
+   }
+  },
+  {
+   "id": "privacy",
+   "label": "写真・個人情報・見守り",
+   "cells": {
+    "data": [],
+    "effect": [
+     "location-tracking-app-trust"
+    ],
+    "how": [
+     "sharenting-sns-photo-risk",
+     "school-tablet-app-child-data-privacy",
+     "ai-smart-toy-voice-privacy"
+    ],
+    "trouble": [],
+    "use": []
+   }
+  },
+  {
+   "id": "study",
+   "label": "集中・読書・学び方",
+   "cells": {
+    "data": [],
+    "effect": [
+     "homework-media-multitasking",
+     "children-not-reading-books-vocabulary",
+     "toddler-tablet-learning-app-effect",
+     "ai-voice-reading-vs-human",
+     "tablet-developmental-disability-learning-support"
+    ],
+    "how": [
+     "smartphone-on-desk-homework-focus",
+     "study-music-lyrics-concentration"
+    ],
+    "trouble": [],
+    "use": []
+   }
+  },
+  {
+   "id": "esteem",
+   "label": "褒め方・叱り方・自己肯定感",
+   "cells": {
+    "data": [],
+    "effect": [
+     "inflated-praise-self-esteem",
+     "sibling-comparison-self-esteem"
+    ],
+    "how": [
+     "highly-sensitive-child-parenting-research"
+    ],
+    "trouble": [
+     "tantrum-coping-children-research",
+     "children-lying-development-age"
+    ],
+    "use": []
+   }
+  },
+  {
+   "id": "family",
+   "label": "親子・きょうだいの関係",
+   "cells": {
+    "data": [
+     "adolescent-parent-conversation-decline"
+    ],
+    "effect": [
+     "father-involvement-child-development",
+     "sibling-differential-treatment-fairness"
+    ],
+    "how": [],
+    "trouble": [],
+    "use": []
+   }
+  },
+  {
+   "id": "school",
+   "label": "園・学校・友だち（登園しぶり・不登校）",
+   "cells": {
+    "data": [
+     "school-refusal-first-signs-parents"
+    ],
+    "effect": [],
+    "how": [
+     "school-refusal-first-signs-parents"
+    ],
+    "trouble": [
+     "nursery-separation-anxiety-how-long",
+     "school-refusal-first-signs-parents"
+    ],
+    "use": [
+     "https://kosodate.seadice.win/asa-kiroku/"
+    ]
+   }
+  },
+  {
+   "id": "future",
+   "label": "進路・習い事・伸ばす力",
+   "cells": {
+    "data": [
+     "no-career-dream-elementary-school"
+    ],
+    "effect": [
+     "non-cognitive-skills-kids",
+     "creativity-training-ai-era",
+     "coding-education-future-benefit",
+     "music-lessons-intelligence-academic",
+     "big-fish-little-pond-effect-class-rank",
+     "academic-acceleration-gifted-children-wellbeing"
+    ],
+    "how": [
+     "parental-expectations-pressure-children-motivation"
+    ],
+    "trouble": [
+     "children-quitting-activities-research"
+    ],
+    "use": []
+   }
+  }
+ ],
+ "research": []
+}

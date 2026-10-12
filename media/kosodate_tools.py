@@ -204,6 +204,14 @@ PAGES.append(RULES_PAGE)
 from kosodate_sns_tool import PAGE as SNS_PAGE  # noqa: E402
 PAGES.append(SNS_PAGE)
 
+from kosodate_kiroku_tool import page as kiroku_page  # noqa: E402
+PAGES.append(kiroku_page(
+    "school-refusal-first-signs-parents", "子どもが学校に行きたがらない。不登校のはじまりに親ができることを、国のデータと研究で整理",
+    '<li>文部科学省 (2019). 不登校児童生徒への支援の在り方について（通知）. <a href="https://www.mext.go.jp/a_menu/shotou/seitoshidou/1422155.htm" target="_blank" rel="noopener">mext.go.jp</a></li>'
+    '<li>文部科学省 (2023). 誰一人取り残されない学びの保障に向けた不登校対策（COCOLOプラン）. <a href="https://www.mext.go.jp/content/20230418-mxt_jidou02-000028870-cc.pdf" target="_blank" rel="noopener">mext.go.jp</a></li>'
+    '<li>Li, A., et al. (2021). A Systematic Review of Somatic Symptoms in School Refusal. <i>Psychosomatic Medicine</i>. <a href="https://doi.org/10.1097/PSY.0000000000000956" target="_blank" rel="noopener">doi:10.1097/PSY.0000000000000956</a></li>'
+    '<li>そのほかの国のデータと研究は、<a href="/school-refusal-first-signs-parents/">不登校のはじまりの記事</a>の出典にまとめています。</li>'))
+
 if __name__ == "__main__":
     f = ROOT / "media/kosodate-pages.json"
     ps = json.loads(f.read_text())
