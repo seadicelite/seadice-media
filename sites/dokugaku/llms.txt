@@ -29,7 +29,7 @@
 ### 記憶・覚え方
 
 - [「なぜ？」と問いながら読むと覚えやすいのか。精緻化質問の研究](https://dokugaku.seadice.win/elaborative-interrogation-ask-why/): 事実ごとに「なぜ本当か」を1文で答える精緻化質問は、ただ読むより覚えやすい。効果は中程度で、知識のある分野ほど効く。
-- [英単語の効率的な覚え方。研究でわかった「思い出す・間をあける・使う」](https://dokugaku.seadice.win/english-vocabulary-how-to-memorize/): 英単語は眺めるより隠して思い出し、日をあけて復習し、文で使うと覚えやすい。語呂合わせの注意点も紹介
+- [英単語の効率的な覚え方。研究でわかった「思い出す・間をあける・使う」](https://dokugaku.seadice.win/english-vocabulary-how-to-memorize/): 英単語は眺めるより隠して思い出し、日をあけて復習すると覚えやすい。文で使うコツと語呂合わせの注意点も紹介
 - [暗記カードの効果的な使い方。研究でわかった「分けない・すぐ外さない」](https://dokugaku.seadice.win/flashcards-how-to-use/): 暗記カードは小分けにせず1束で回し、1回正解しただけで外さない方が長く覚えられる
 - [覚えたのに忘れてしまった。最初からやり直し？忘れた後の覚え直し（再学習）の研究](https://dokugaku.seadice.win/forgot-what-i-studied-relearning/): 忘れても覚え直しは最初より速い。白紙に思い出せるだけ書き、忘れた分だけ覚え直し、日をあけて2〜3回くり返す
 - [昔勉強した英語をほとんど忘れた。ゼロからやり直し？語学の忘れ方と覚え直しの研究](https://dokugaku.seadice.win/forgotten-language-relearning/): 使わなくなった語学は数年で減った後、長く残る。わかる単語と言える単語を分けて棚卸しし、間をあけて覚え直す。
@@ -102,7 +102,7 @@
 
 - [AIに答えを聞くと勉強は身につかないのか。研究でわかった「使い方の分かれ目」](https://dokugaku.seadice.win/ai-answers-and-learning/): 答えを写すAIは自力の成績を下げ、ヒント型なら下がらなかった。高校生約1000人の実験などから使い方を解説
 - [AIに練習問題を作らせて勉強するには？研究でわかった頼み方と確かめ方](https://dokugaku.seadice.win/ai-practice-questions-how-to/): 問題を解いて思い出す練習は効くが、AIの問題には誤りも混ざる。教材を渡して短く答える問題を作らせ、答えは教材で確かめる。
-- [AIに作文を添削させると上達するのか。AIの添削（自動フィードバック）と学習の研究](https://dokugaku.seadice.win/ai-writing-feedback-revision/): AIの添削は作文に中くらいの効果。直した文を受け取らず、指摘をもとに自分で書き直すのが分かれ目
+- [AIに作文を添削させると上達するのか。AIの添削（自動フィードバック）と学習の研究](https://dokugaku.seadice.win/ai-writing-feedback-revision/): AIの添削は作文に中くらいの効果。ただ点数が伸びても力がつくとは限らず、指摘をもとに自分で書き直すのがおすすめ
 - [AIに説明させるより、自分で説明した方が覚えられるのか。自己説明と生成効果の研究](https://dokugaku.seadice.win/self-explanation-vs-ai-explanation/): 上手な説明を読むより自分で説明した方が学びは大きくなりやすい。AIは説明役より確認役に使うのが研究に沿った使い方
 
 ## ツールとアプリ（無料・登録不要）
