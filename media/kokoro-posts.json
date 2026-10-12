@@ -1,5 +1,14 @@
 [
   {
+    "slug": "background-music-focus",
+    "category": "考える力・集中",
+    "type": "guide",
+    "stage": "対処する",
+    "date": "2026-10-13",
+    "title": "作業中に音楽を聴くと集中できる？読む作業では歌詞のある曲で理解が下がり、単調な作業では好きな曲で集中が続いていた",
+    "summary": "読む作業では音楽が理解を少し下げ、歌詞のある曲ほど影響が大きめ。単調な作業では好きな曲で集中が増えた実験も。曲の選び方を研究から整理"
+  },
+  {
     "slug": "ai-comfort-self-coping",
     "category": "AIとの付き合い方",
     "type": "guide",

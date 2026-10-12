@@ -472,5 +472,73 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-background-music-focus-lyrics-reading",
+    "category": "集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vasilev MR et al., \"Auditory Distraction During Reading: A Bayesian Meta-Analysis of a Continuing Controversy\" (Perspectives on Psychological Science, 2018)",
+    "sourceUrl": "https://doi.org/10.1177/1745691617747398",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/background-music-focus/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "BGMがあると集中できる",
+        "body": "好きな曲を流しながら勉強や仕事をする人は多いよね。でも、文章を読んで理解する作業ではどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "65件の研究をまとめた",
+        "body": "読む作業中に音楽・雑音・人の話し声を流した65件の研究を、イギリスの研究者がまとめたんだ。子どもと大人の研究が入っているよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "歌詞のある曲は話し声並み",
+        "body": "音楽も雑音も話し声も、読んだ内容の理解を小さいながら下げていた。しかも歌詞のある曲は歌詞のない曲より邪魔で、意味のわかる話し声と同じくらいだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "影響は小さめ",
+        "body": "影響の大きさは小さめで、歌詞の有無は研究どうしを比べた分析。同じ実験の中で直接比べたものではないし、読む以外の作業でどうかもまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-background-music-focus-preferred-music-boring-task",
+    "category": "集中",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kiss L, Linnell KJ, \"The effect of preferred background music on task-focus in sustained attention\" (Psychological Research, 2021)",
+    "sourceUrl": "https://doi.org/10.1007/s00426-020-01400-6",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/background-music-focus/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "退屈な作業に音楽は効く？",
+        "body": "単調な作業をしていると、いつの間にか別のことを考えてしまう。好きな曲を流したら、少しは集中が続くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "40人が無音と好きな曲で比べた",
+        "body": "ロンドンの学生40人が、画面の合図にボタンで反応し続ける単調な課題を、無音と自分で選んだ曲の両方でやった。途中で「今どこに注意が向いてた？」と聞かれたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "考えがそれる割合が減った",
+        "body": "好きな曲のときは「考えがそれていた」が27%から18%に減って、「作業に集中していた」が54%から62%に増えた。ただ、反応の速さは無音と変わらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "単純な課題での話",
+        "body": "対象はふだん音楽を聴きながら作業する40人だけで、課題もとても単純なもの。頭を使う作業や、ふだん音楽を聴かない人でも同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
