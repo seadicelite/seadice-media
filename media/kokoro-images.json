@@ -2164,5 +2164,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Woman_writing_on_a_notebook_with_a_pen.jpg/500px-Woman_writing_on_a_notebook_with_a_pen.jpg",
   "og": "https://mentalai.seadice.win/img/best-possible-self-ai-future.jpg",
   "local": true
+ },
+ "ai-offloading-decide-remember": {
+  "file": "File:Field Notes and pencil (Unsplash).jpg",
+  "src": "/img/ai-offloading-decide-remember.jpg",
+  "src640": "/img/ai-offloading-decide-remember-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "机の上に置かれた小さなノートと鉛筆",
+  "artist": "Helloquence helloquence",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Field_Notes_and_pencil_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Field_Notes_and_pencil_%28Unsplash%29.jpg/960px-Field_Notes_and_pencil_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Field_Notes_and_pencil_%28Unsplash%29.jpg/500px-Field_Notes_and_pencil_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-offloading-decide-remember.jpg",
+  "local": true
  }
 }
