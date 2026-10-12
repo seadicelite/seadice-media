@@ -458,5 +458,73 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-sleep-deprived-next-day-focus-research-coffee-nap",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Reyner & Horne, \"Suppression of sleepiness in drivers: combination of caffeine with a short nap\" (Psychophysiology, 1997)",
+    "sourceUrl": "https://doi.org/10.1111/j.1469-8986.1997.tb02148.x",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/sleep-deprived-next-day-focus-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "眠いとき、コーヒーと昼寝はどっちが効く？",
+        "body": "午後の眠気、コーヒーで乗り切るか、少し寝るか。実は「両方いっしょに」を試した研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "休憩30分で、運転シミュレーター2時間",
+        "body": "眠気のある12人が、休憩でカフェイン200mgだけ、カフェイン＋15分未満の仮眠、偽薬のどれかをとってから、午後に2時間の単調な運転をしたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "組み合わせると、ミスは偽薬の9％に",
+        "body": "居眠りによる運転ミスは、カフェインだけだと偽薬の34％。カフェイン＋仮眠だと9％まで減ったらしい。眠り込めずうとうとしただけの仮眠でも効いていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "12人の実験室の話",
+        "body": "人数は12人で、運転シミュレーターでの結果。毎日の寝不足の人や、仕事中の集中にどこまで当てはまるかは、この研究だけではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-sleep-deprived-next-day-focus-research-sleepiness-unaware",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Van Dongen et al., \"The cumulative cost of additional wakefulness\" (Sleep, 2003)",
+    "sourceUrl": "https://doi.org/10.1093/sleep/26.2.117",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/sleep-deprived-next-day-focus-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "6時間睡眠でも慣れれば平気？",
+        "body": "「短い睡眠にも体は慣れる」ってよく聞くよね。本人も平気だと感じていることが多いけど、本当かな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "4・6・8時間で14日間",
+        "body": "健康な成人48人が参加して、1晩の睡眠を4時間・6時間・8時間に分けて14日間すごし、注意などの成績と眠気を毎日測った実験があるよ（3晩徹夜する実験も一緒に行われた）。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績は落ち続け、自覚は追いつかない",
+        "body": "4時間と6時間の人は成績が日ごとに落ち続けて、最大で2晩徹夜したのと同じくらいに。なのに眠気の自覚はあまり増えず、6時間と4時間の差も感じ分けられなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実験室での厳密な条件",
+        "body": "毎晩の睡眠を実験室で決めた研究で、人数も48人。普段の生活の寝不足や、人による違いがどこまで同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

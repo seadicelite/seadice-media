@@ -79,7 +79,8 @@
           "focus-microbreaks-pomodoro"
         ],
         "stuck": [
-          "interrupted-work-refocus-research"
+          "interrupted-work-refocus-research",
+          "sleep-deprived-next-day-focus-research"
         ]
       }
     },
