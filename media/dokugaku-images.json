@@ -923,5 +923,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Abbotsford_House_Study_Room.jpg/500px-Abbotsford_House_Study_Room.jpg",
   "og": "https://dokugaku.seadice.win/img/home-study-space-setup.jpg",
   "local": true
+ },
+ "study-after-sleep-loss-recovery": {
+  "file": "File:2023 Budzik Perfect.jpg",
+  "src": "/img/study-after-sleep-loss-recovery.jpg",
+  "src640": "/img/study-after-sleep-loss-recovery-sm.jpg",
+  "w": 960,
+  "h": 835,
+  "alt": "赤い目覚まし時計",
+  "artist": "Jacek Halicki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2023_Budzik_Perfect.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2023_Budzik_Perfect.jpg/960px-2023_Budzik_Perfect.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2023_Budzik_Perfect.jpg/500px-2023_Budzik_Perfect.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-after-sleep-loss-recovery.jpg",
+  "local": true
  }
 }
