@@ -1179,5 +1179,41 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Headphones_1.jpg/500px-Headphones_1.jpg",
   "og": "https://research.seadice.win/img/music-cortisol-stress-research.jpg",
   "local": true
+ },
+ "habit-same-place-context-research": {
+  "file": "File:Antique writing desk - Casa Loma.jpg",
+  "src": "/img/habit-same-place-context-research.jpg",
+  "src640": "/img/habit-same-place-context-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "いつも同じ机で学ぶ部屋",
+  "artist": "Thomas Quine",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Antique_writing_desk_-_Casa_Loma.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Antique_writing_desk_-_Casa_Loma.jpg/960px-Antique_writing_desk_-_Casa_Loma.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Antique_writing_desk_-_Casa_Loma.jpg/500px-Antique_writing_desk_-_Casa_Loma.jpg",
+  "og": "https://research.seadice.win/img/habit-same-place-context-research.jpg",
+  "local": true
+ },
+ "sleep-timing-after-learning-memory-research": {
+  "file": "File:2023 Budzik Perfect.jpg",
+  "src": "/img/sleep-timing-after-learning-memory-research.jpg",
+  "src640": "/img/sleep-timing-after-learning-memory-research-sm.jpg",
+  "w": 960,
+  "h": 835,
+  "alt": "夜、眠る前の時計",
+  "artist": "Jacek Halicki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2023_Budzik_Perfect.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2023_Budzik_Perfect.jpg/960px-2023_Budzik_Perfect.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2023_Budzik_Perfect.jpg/500px-2023_Budzik_Perfect.jpg",
+  "og": "https://research.seadice.win/img/sleep-timing-after-learning-memory-research.jpg",
+  "local": true
  }
 }

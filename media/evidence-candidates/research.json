@@ -125,5 +125,66 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "research-habit-same-place-context-research-automaticity",
+    "category": "習慣",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Stojanovic M et al., \"Context Stability in Habit Building Increases Automaticity and Goal Attainment\" (Frontiers in Psychology, 2022)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2022.883795",
+    "articleUrl": "https://research.seadice.win/habit-same-place-context-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "調べたこと",
+        "title": "場所と時間、バラバラにする人 vs 固定する人",
+        "body": "大学生95人に新しい勉強の習慣を6週間続けてもらう実験。半分には毎回部屋と時間を変えてもらい、もう半分には同じ部屋・同じ時間を守ってもらったんだって。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "固定したグループは「自動的」にできた",
+        "body": "場所と時間を一定にしたグループほど、考えなくても自然に体が動く感覚(オートマティシティ)が強く、決めていた回数の達成率も高かった。市販の習慣アプリ308件分のデータでも同じ傾向が出たらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "場所と時間、どっちが効いたかは分けきれない",
+        "body": "この実験は場所と時間をセットで変えていたので、場所だけの効果かは不明。別の研究では、場所より時間帯の一致の方が効くという報告もある。"
+      }
+    ],
+    "addedAt": "2026-10-12"
+  },
+  {
+    "id": "research-sleep-timing-after-learning-memory-research-napdelay",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Alger SE, Lau H & Fishbein W, \"Delayed onset of a daytime nap facilitates retention of declarative memory\" (PLoS ONE, 2010)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0012131",
+    "articleUrl": "https://research.seadice.win/sleep-timing-after-learning-memory-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "覚えたらすぐ寝るのが一番いいんでしょ？",
+        "body": "「覚えた直後に眠ると忘れにくい」ってよく聞くよね。だから眠くなくても、覚えたらすぐ昼寝した方がいいと思っている人も多いはず。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "昼寝までの時間を0・2・4時間で比較",
+        "body": "150枚の画像を覚えてもらった後、「直後」「2時間後」「4時間後」に90分の昼寝をとる3グループと、起きたままのグループを比べた実験なんだって。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "4時間空けた方が、記憶の残り方が良かった",
+        "body": "6時間後のテストでは、4時間空けて昼寝したグループが一番成績が良かった。空けた時間が長いほど、昼寝中の深い睡眠(徐波睡眠)も増えていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "夜の本格的な睡眠や高齢者ではどうかは不明",
+        "body": "この実験は日中の90分の昼寝に限った話で、参加者も少ない。夜しっかり眠る場合や高齢者で同じことが言えるかは、まだわかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]
