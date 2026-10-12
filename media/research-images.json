@@ -1324,8 +1324,8 @@
  },
  "tip-of-the-tongue-recall-research": {
   "file": "File:Latin dictionary.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Latin_dictionary.jpg/960px-Latin_dictionary.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Latin_dictionary.jpg/500px-Latin_dictionary.jpg",
+  "src": "/img/tip-of-the-tongue-recall-research.jpg",
+  "src640": "/img/tip-of-the-tongue-recall-research-sm.jpg",
   "w": 960,
   "h": 764,
   "alt": "開いた辞書のページ",
@@ -1333,6 +1333,24 @@
   "license": "CC BY-SA 3.0",
   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
   "page": "https://commons.wikimedia.org/wiki/File:Latin_dictionary.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Latin_dictionary.jpg/960px-Latin_dictionary.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Latin_dictionary.jpg/500px-Latin_dictionary.jpg",
+  "og": "https://research.seadice.win/img/tip-of-the-tongue-recall-research.jpg",
+  "local": true
+ },
+ "exercise-habit-lapse-restart-research": {
+  "file": "File:Running track near Japan National Stadium 2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Running_track_near_Japan_National_Stadium_2.jpg/960px-Running_track_near_Japan_National_Stadium_2.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Running_track_near_Japan_National_Stadium_2.jpg/500px-Running_track_near_Japan_National_Stadium_2.jpg",
+  "w": 960,
+  "h": 723,
+  "alt": "陸上競技場のトラック",
+  "artist": "Syced",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Running_track_near_Japan_National_Stadium_2.jpg",
   "source_label": "Wikimedia Commons"
  }
 }

@@ -424,5 +424,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-exercise-habit-lapse-restart-research-lapse-rate",
+    "category": "習慣",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mendoza-Vasconez AS et al., \"Lapse, Relapse, and Recovery in Physical Activity Interventions for Latinas: a Survival Analysis\" (International Journal of Behavioral Medicine, 2021)",
+    "sourceUrl": "https://doi.org/10.1007/s12529-020-09943-z",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/exercise-habit-lapse-restart-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "運動が途切れるのは意志が弱いから？",
+        "body": "せっかく始めた運動が止まると、自分はだめだと思いがち。でも実際、どのくらいの人が途中で止まるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "運動を始めた176人を追跡",
+        "body": "2つの運動プログラムに参加した176人のデータをまとめて、いつ運動が途切れるかを追いかけた研究がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "4か月で3人に1人が中断",
+        "body": "始めて1か月で途切れている確率は18％、4か月後には34％。早く途切れるかは、自信などの心理面と関係していて、測った環境の要素とは関係がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "対象が限られていて、回復の話はまだ",
+        "body": "対象は米国のラテン系女性だけ。途切れた後にどうすれば戻れるかについては、著者ら自身も結果ははっきりしないと書いている。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
