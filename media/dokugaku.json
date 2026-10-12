@@ -134,6 +134,10 @@
       "path": "/guide/"
     },
     {
+      "label": "英語の独学ガイド",
+      "path": "/english/"
+    },
+    {
       "label": "用語集",
       "path": "/glossary/"
     }

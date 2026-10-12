@@ -481,10 +481,79 @@ def tool_links(cfg):
     return n
 
 
+ACT_CSS = (".astage{margin:0 0 44px;scroll-margin-top:72px}.astage>h2{font-size:21px;line-height:1.5;margin:0 0 10px}"
+           ".astage>h2 small{display:block;font-size:12px;letter-spacing:.08em;color:var(--accent);margin-bottom:2px}"
+           ".astage .ans{font-size:16px;line-height:1.85;font-weight:700;margin:0 0 14px}"
+           ".astage h3{font-size:15px;margin:20px 0 6px}.astage ol,.astage ul{margin:6px 0 6px 22px}"
+           ".astage li{font-size:15px;line-height:1.8;margin:6px 0}"
+           ".asrc{font-size:14px;line-height:1.9;margin:14px 0 0;padding:12px 16px;background:var(--card);border:1px solid var(--border);border-radius:8px}"
+           ".asrc a,.afaq a{color:var(--link)}.afaq dt{font-size:16px;font-weight:700;margin:22px 0 6px}.afaq dd{font-size:15px;line-height:1.85;margin:0}")
+
+
+def activities(cfg, posts, theme, favicon, css):
+    """media/{slug}-activities.json: 活動ごとのガイド /{id}/ を1枚で作る（始める・続ける・上達する・形にするを見出しで並べる）。
+    段階の "slugs" は根拠にした研究記事。記事側には関連記事の直前に「この研究を使っている活動ガイド」を入れ、双方向にリンクする。
+    本文の研究・数字は根拠記事の「3行でわかる」からだけ書く（記事にない研究を足さない）。"""
+    import re
+    a = _load(cfg["slug"], "activities")
+    if not a:
+        return []
+    by, urls, back = {p["slug"]: p for p in posts}, [], {}
+    li = lambda xs: "".join(f"<li>{E(v)}</li>" for v in xs)
+    for x in a["items"]:
+        rel, name = f'{x["id"]}/', x["title"].split("：")[0]
+        toc = " → ".join(f'<a href="#{s["id"]}" style="color:var(--link)">{E(s["label"])}</a>' for s in x["stages"])
+        secs = ""
+        for i, s in enumerate(x["stages"]):
+            src = [k for k in s["slugs"] if k in by]
+            for k in src:
+                back.setdefault(k, []).append((x, s))
+            arts = "<br>".join(f'<a href="/{k}/">{E(by[k]["title"])}</a>' for k in src)
+            secs += (f'  <section class="astage" id="{s["id"]}"><h2><small>{i + 1:02d} {E(s["label"])}</small>{E(s["q"])}</h2>'
+                     f'<p class="ans">{E(s["answer"])}</p><h3>研究でわかっていること</h3><ul>{li(s["points"])}</ul>'
+                     f'<h3>今日やること</h3><ol>{li(s["steps"])}</ol>'
+                     f'<p class="asrc"><b>もとになった記事</b><br>{arts}</p></section>\n')
+        faq = "".join(f'<dt>{E(q["q"])}</dt><dd>{E(q["a"])}</dd>' for q in x.get("faq", []))
+        body = (f'  <div class="hero"><h1>{E(x["title"])}</h1></div>\n  <p class="xlead">{E(x["lead"])}</p>\n'
+                f'  <p class="xlead" style="font-size:14px">段階ごとに読めます: {toc}<br><span style="color:var(--muted)">{E(x.get("note", ""))}</span></p>\n'
+                + secs + (f'  <section class="afaq"><h2 style="font-size:21px">よくある質問</h2><dl>{faq}</dl></section>\n' if faq else ""))
+        app = next((p for p in cfg.get("apps") or [] if p["id"] == x.get("app")), None)
+        app_css = ""
+        if app:
+            import apps
+            body += "\n  " + apps.card_html(app, cfg).replace("この記事の内容を続けるなら", f'{E(x["label"])}の復習を続けるなら', 1)
+            app_css = apps.CSS
+        graph = [{"@type": "Article", "headline": x["title"], "url": cfg["url"] + rel, "description": x["lead"],
+                  "dateModified": a.get("updated", ""), "author": {"@type": "Organization", "name": f'{cfg["name"]}編集部'},
+                  "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE"},
+                  "citation": [f'{cfg["url"]}{k}/' for s in x["stages"] for k in s["slugs"] if k in by]}]
+        if x.get("faq"):
+            graph.append({"@type": "FAQPage", "mainEntity": [
+                {"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["a"]}} for q in x["faq"]]})
+        urls.append(_page(cfg, theme, favicon, css, rel, f'{x["title"]} | {cfg["name"]}', x["lead"][:120], body, graph,
+                          [(name, cfg["url"] + rel)], ACT_CSS + app_css))
+    for p in posts:
+        f = ROOT / cfg["path"] / p["slug"] / "index.html"
+        if not f.exists():
+            continue
+        src = f.read_text()
+        t = re.sub(r"<!--act-->.*?<!--/act-->", "", src, flags=re.S)
+        if p["slug"] in back and "<!--related-->" in t:
+            links = "<br>".join(f'<a href="/{x["id"]}/#{s["id"]}" style="color:var(--link)">{E(x["title"].split("：")[0])}（{E(s["label"])}）</a>'
+                                for x, s in back[p["slug"]])
+            t = t.replace("<!--related-->", '<!--act--><div role="navigation" aria-label="この研究を使っている活動ガイド" style="background:var(--card);'
+                          'border:1px solid var(--border);border-radius:8px;padding:14px 18px;margin:32px 0;font-size:14px;line-height:1.9">'
+                          f'<b>この研究を使っている活動ガイド</b><br>{links}</div><!--/act--><!--related-->', 1)
+        if t != src:
+            f.write_text(t)
+    return urls
+
+
 def apply(cfg, posts, cats, images, types, theme, favicon, css, card):
     urls = guides(cfg, posts, cats, images, types, theme, favicon, css, card)
     urls += corrections(cfg, posts, theme, favicon, css)
     urls += matrix_guides(cfg, posts, cats, images, types, theme, favicon, css, card)
+    urls += activities(cfg, posts, theme, favicon, css)
     urls += glossary(cfg, posts, theme, favicon, css)
     urls += pages(cfg, theme, favicon, css)
     import mindmap  # 記事マップ /map/ (media/{slug}-map.json があるメディアだけ)

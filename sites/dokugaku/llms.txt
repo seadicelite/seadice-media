@@ -132,5 +132,6 @@
 - 勉強のテンプレート: https://dokugaku.seadice.win/templates/
 - よくある質問: https://dokugaku.seadice.win/faq/
 - 悩み別ガイド: https://dokugaku.seadice.win/guide/
+- 英語の独学ガイド: https://dokugaku.seadice.win/english/
 - 用語集: https://dokugaku.seadice.win/glossary/
 - サイトマップ: https://dokugaku.seadice.win/sitemap.xml
