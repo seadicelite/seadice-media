@@ -132,5 +132,39 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "kokoro-best-possible-self-ai-future-optimism",
+    "category": "AIと心",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Carrillo A, et al., \"Effects of the Best Possible Self intervention: A systematic review and meta-analysis\" (PLoS One, 2019)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0222386",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/best-possible-self-ai-future/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よくある悩み",
+        "title": "将来のことを考えると悪い想像ばかり",
+        "body": "AIで仕事がどうなるか考え出すと、うまくいかない展開ばかり浮かぶ。前向きな見通しって、練習で育てられるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "「うまくいった未来の自分」を書く練習",
+        "body": "努力を重ねて、すべてがうまくいった数年後の自分を20分ほど書く練習。これを試した29件の研究、合計2,909人分をまとめた研究があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "楽観性が小〜中程度に高まった",
+        "body": "前日の出来事など中立的な文章を書いた人と比べて、楽観性や前向きな気分が高まっていたらしい。書いたあとに思い描く時間の有無では、確かな差はなかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "落ち込みが減るかは不明",
+        "body": "落ち込みや否定的な気分を減らす効果ははっきりしなかった。参加者の多くは大学生で、働く大人やAIの不安が強い人で効くかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]

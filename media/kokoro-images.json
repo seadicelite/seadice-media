@@ -1960,7 +1960,7 @@
   "src640": "/img/ai-anxiety-values-action-sm.webp",
   "w": 960,
   "h": 640,
-  "alt": "机の上に置かれたノートとペン",
+  "alt": "ひざの上のノートにペンで書き込む手元",
   "artist": "www.Pixel.la Free Stock Photos",
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -2145,6 +2145,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Zafu-soto-zen1024.JPG/960px-Zafu-soto-zen1024.JPG",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Zafu-soto-zen1024.JPG/500px-Zafu-soto-zen1024.JPG",
   "og": "https://mentalai.seadice.win/img/sns-appearance-mindfulness-before.jpg",
+  "local": true
+ },
+ "best-possible-self-ai-future": {
+  "file": "File:Woman writing on a notebook with a pen.jpg",
+  "src": "/img/best-possible-self-ai-future.jpg",
+  "src640": "/img/best-possible-self-ai-future-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "ひざの上のノートにペンで書き込む手元",
+  "artist": "Kristin Hardwick",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_writing_on_a_notebook_with_a_pen.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Woman_writing_on_a_notebook_with_a_pen.jpg/960px-Woman_writing_on_a_notebook_with_a_pen.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Woman_writing_on_a_notebook_with_a_pen.jpg/500px-Woman_writing_on_a_notebook_with_a_pen.jpg",
+  "og": "https://mentalai.seadice.win/img/best-possible-self-ai-future.jpg",
   "local": true
  }
 }
