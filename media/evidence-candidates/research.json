@@ -356,5 +356,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-stop-ruminating-after-bad-day-research-worry-time",
+    "category": "気分・ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "McGowan SK & Behar E, \"A Preliminary Investigation of Stimulus Control Training for Worry: Effects on Anxiety and Insomnia\" (Behavior Modification, 2013)",
+    "sourceUrl": "https://doi.org/10.1177/0145445512455661",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/stop-ruminating-after-bad-day-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "心配ごとは「後で考える」と決めていい？",
+        "body": "考えないようにしても、心配ってつい浮かんでくるよね。じゃあ「考える時間を決めて、それまで先送りする」のはどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "心配しやすい53人で比べた",
+        "body": "心配しやすい53人を2つに分けて2週間。片方は毎日決まった時間と場所で30分だけ心配する。もう片方は、心配を避けないように言われただけ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "心配・不安・不眠が減った",
+        "body": "心配の時間を決めたグループのほうが、心配・不安・ネガティブな気分・不眠が減った。ただ、落ち込みの度合いには差が出なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "小さく短い試験だった",
+        "body": "人数は53人、期間は2週間で、著者ら自身も「予備的な結果」と書いている。長く続けたときの効果や、心配しやすくない人に効くかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

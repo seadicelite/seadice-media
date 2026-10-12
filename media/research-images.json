@@ -1303,5 +1303,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bowl_of_Popcorn_%28Unsplash%29.jpg/500px-Bowl_of_Popcorn_%28Unsplash%29.jpg",
   "og": "https://research.seadice.win/img/why-habits-run-on-autopilot-research.jpg",
   "local": true
+ },
+ "stop-ruminating-after-bad-day-research": {
+  "file": "File:Friars' Crag Derwentwater Lake District 2022 01.jpg",
+  "src": "/img/stop-ruminating-after-bad-day-research.jpg",
+  "src640": "/img/stop-ruminating-after-bad-day-research-sm.jpg",
+  "w": 960,
+  "h": 395,
+  "alt": "湖のほとりの静かな風景",
+  "artist": "Julian Herzog (Website)",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Friars%27_Crag_Derwentwater_Lake_District_2022_01.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Friars%27_Crag_Derwentwater_Lake_District_2022_01.jpg/960px-Friars%27_Crag_Derwentwater_Lake_District_2022_01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Friars%27_Crag_Derwentwater_Lake_District_2022_01.jpg/500px-Friars%27_Crag_Derwentwater_Lake_District_2022_01.jpg",
+  "og": "https://research.seadice.win/img/stop-ruminating-after-bad-day-research.jpg",
+  "local": true
  }
 }
