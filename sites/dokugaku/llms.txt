@@ -86,6 +86,7 @@
 - [徹夜・寝不足で勉強してしまった。翌日からどう立て直す？睡眠不足と学習の研究でわかった戻し方](https://dokugaku.seadice.win/study-after-sleep-loss-recovery/): 寝不足の日は新しい範囲を覚えず思い出す練習と短い昼寝に。睡眠は1晩で戻りきらないので、2〜3日は量を控えめにする。
 - [勉強する場所を変えると覚えやすいのか。場所と記憶（文脈依存記憶）の研究](https://dokugaku.seadice.win/study-location-context-dependent-memory/): 覚えた場所で思い出しやすい効果は実在するが小さめ。場所を思い浮かべるだけで差は縮む
 - [引っ越し・異動・在宅勤務で、勉強の習慣が崩れた。どう立て直す？生活が変わったときの習慣の研究](https://dokugaku.seadice.win/study-routine-after-life-change/): 習慣は場所や時刻のきっかけで動く。前のきっかけを書き出し、新しい生活の決まった行動に勉強をつなげ直す6つの手順。
+- [カフェだと勉強がはかどる気がするのはなぜ？ほどよい雑音と集中の研究（とその限界）](https://dokugaku.seadice.win/why-cafe-noise-feels-focused/): ほどよい雑音はアイデア出しを助けたが、読む作業では話し声が理解を下げた。作業で場所を使い分ける研究。
 - [ながら勉強だと頭に入らないのはなぜ？切り替えのコストと「使いにくい記憶」の研究](https://dokugaku.seadice.win/why-multitasking-hurts-studying/): 作業を切り替えるたびに遅れとミスが出る。気をそらして覚えると応用しにくい知識になる可能性も。研究で理由を整理。
 - [画面で読むと頭に入りにくいのはなぜ？紙と画面の読解研究でわかった「急ぎ読み」と「わかったつもり」](https://dokugaku.seadice.win/why-screen-reading-harder-to-understand/): 54の実験のまとめでは紙の方が理解がよく、差は急ぎ読みと説明文で大きい。原因は読み方と理解の見積もりにある。
 

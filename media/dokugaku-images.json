@@ -1173,5 +1173,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jeffersontown_Historical_Museum_Desks.jpg/500px-Jeffersontown_Historical_Museum_Desks.jpg",
   "og": "https://dokugaku.seadice.win/img/why-practice-success-fails-on-exam.jpg",
   "local": true
+ },
+ "why-cafe-noise-feels-focused": {
+  "file": "File:Cafe Interior - geograph.org.uk - 4801988.jpg",
+  "src": "/img/why-cafe-noise-feels-focused.jpg",
+  "src640": "/img/why-cafe-noise-feels-focused-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "カフェの店内のテーブルといす",
+  "artist": "Bob Harvey",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cafe_Interior_-_geograph.org.uk_-_4801988.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cafe_Interior_-_geograph.org.uk_-_4801988.jpg/960px-Cafe_Interior_-_geograph.org.uk_-_4801988.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cafe_Interior_-_geograph.org.uk_-_4801988.jpg/500px-Cafe_Interior_-_geograph.org.uk_-_4801988.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-cafe-noise-feels-focused.jpg",
+  "local": true
  }
 }

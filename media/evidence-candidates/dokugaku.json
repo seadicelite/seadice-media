@@ -400,5 +400,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-why-cafe-noise-feels-focused-white-noise",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Nigg et al., \"Systematic Review and Meta-Analysis: Do White Noise or Pink Noise Help With Task Performance in Youth With Attention-Deficit/Hyperactivity Disorder or With Elevated Attention Problems?\" (Journal of the American Academy of Child & Adolescent Psychiatry, 2024)",
+    "sourceUrl": "https://doi.org/10.1016/j.jaac.2023.12.014",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/why-cafe-noise-feels-focused/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ホワイトノイズで集中できる？",
+        "body": "ザーッという雑音（ホワイトノイズ）を流すと集中できる、という話をよく聞くよね。勉強用の雑音の動画もたくさんある。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "実験をまとめて比べた",
+        "body": "白い雑音やピンクノイズの中で注意の課題を解いた研究をまとめたメタ分析。ADHDやその傾向が強い子どもと若い大人（13件・335人）と、そうでない人（11件・335人）を分けて見た。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "人によって逆向きだった",
+        "body": "ADHDやその傾向が強い人では、成績が小さく上がった（g=0.249）。そうでない人では、逆に小さく下がった（g=−0.212）。全員に効く方法ではなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実験室の短い課題の話",
+        "body": "どれも実験室での短い課題の結果。長時間の勉強にどう効くか、安全で適切な音量はどのくらいかは、著者らも今後の研究が必要としている。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
