@@ -502,5 +502,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-why-sleep-organizes-memory-deep-sleep",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Cordi & Rasch, \"No evidence for intra-individual correlations between sleep-mediated declarative memory consolidation and slow-wave sleep\" (Sleep, 2021)",
+    "sourceUrl": "https://doi.org/10.1093/sleep/zsab034",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/why-sleep-organizes-memory/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "深く眠るほど記憶に残る？",
+        "body": "「深い眠りの間に記憶が整理される」ってよく聞くよね。じゃあ、深い眠りが多いほど覚えたことがよく残るはず…と思いたくなる。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ人で2回の昼寝を比べた",
+        "body": "スイスの159人が、別の日に2回、午後に90分の昼寝。その前に単語のペアを覚えて、昼寝の後に思い出した。深い眠りが多かった日と少なかった日を同じ人の中で比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "関係はほぼゼロだった",
+        "body": "深い眠りの量の差と、記憶の残り方の差の相関はほぼゼロ（r=−0.023）。人どうしを比べても関係は見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "深い眠りは無関係？",
+        "body": "研究者も「深い眠りが記憶に関わらない」とは言っていない。「多ければよい」わけではない、という結論。昼寝の研究で、参加者の94%が女性だった点も注意。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

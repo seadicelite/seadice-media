@@ -1194,8 +1194,8 @@
  },
  "vocab-review-schedule-recall-log": {
   "file": "File:Serbian-English and English-Serbian dictionaries.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Serbian-English_and_English-Serbian_dictionaries.jpg/960px-Serbian-English_and_English-Serbian_dictionaries.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Serbian-English_and_English-Serbian_dictionaries.jpg/500px-Serbian-English_and_English-Serbian_dictionaries.jpg",
+  "src": "/img/vocab-review-schedule-recall-log.jpg",
+  "src640": "/img/vocab-review-schedule-recall-log-sm.jpg",
   "w": 960,
   "h": 750,
   "alt": "机に置かれた英語の辞書",
@@ -1203,7 +1203,12 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Serbian-English_and_English-Serbian_dictionaries.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Serbian-English_and_English-Serbian_dictionaries.jpg/960px-Serbian-English_and_English-Serbian_dictionaries.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Serbian-English_and_English-Serbian_dictionaries.jpg/500px-Serbian-English_and_English-Serbian_dictionaries.jpg",
+  "og": "https://dokugaku.seadice.win/img/vocab-review-schedule-recall-log.jpg",
+  "local": true
  },
  "read-recite-review-sheet": {
   "file": "File:Vihorlat Museum in Humenné - History and art history permanent exhibition - Study - Open book on the study's writing desk (September 2026).jpg",
@@ -1221,6 +1226,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Study_-_Open_book_on_the_study%27s_writing_desk_%28September_2026%29.jpg/960px-Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Study_-_Open_book_on_the_study%27s_writing_desk_%28September_2026%29.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Study_-_Open_book_on_the_study%27s_writing_desk_%28September_2026%29.jpg/500px-Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Study_-_Open_book_on_the_study%27s_writing_desk_%28September_2026%29.jpg",
   "og": "https://dokugaku.seadice.win/img/read-recite-review-sheet.jpg",
+  "local": true
+ },
+ "why-sleep-organizes-memory": {
+  "file": "File:Door open; empty bed with pillow and side pillow 01.jpg",
+  "src": "/img/why-sleep-organizes-memory.jpg",
+  "src640": "/img/why-sleep-organizes-memory-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "寝室のベッドと枕",
+  "artist": "Afifa Afrin",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Door_open;_empty_bed_with_pillow_and_side_pillow_01.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Door_open%3B_empty_bed_with_pillow_and_side_pillow_01.jpg/960px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Door_open%3B_empty_bed_with_pillow_and_side_pillow_01.jpg/500px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_01.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-sleep-organizes-memory.jpg",
   "local": true
  }
 }
