@@ -1155,5 +1155,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Anonymous_Madrid_Painter_-_Fruit_Bowl_with_Plates_of_Grapes_and_Pears%2C_glass_and_clay_Vessels_-_Google_Art_Project.jpg/500px-Anonymous_Madrid_Painter_-_Fruit_Bowl_with_Plates_of_Grapes_and_Pears%2C_glass_and_clay_Vessels_-_Google_Art_Project.jpg",
   "og": "https://dokugaku.seadice.win/img/why-similar-words-get-mixed-up.jpg",
   "local": true
+ },
+ "why-practice-success-fails-on-exam": {
+  "file": "File:Jeffersontown Historical Museum Desks.jpg",
+  "src": "/img/why-practice-success-fails-on-exam.jpg",
+  "src640": "/img/why-practice-success-fails-on-exam-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "博物館に並ぶ昔の学校の机",
+  "artist": "Bpluke01",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Jeffersontown_Historical_Museum_Desks.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jeffersontown_Historical_Museum_Desks.jpg/960px-Jeffersontown_Historical_Museum_Desks.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jeffersontown_Historical_Museum_Desks.jpg/500px-Jeffersontown_Historical_Museum_Desks.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-practice-success-fails-on-exam.jpg",
+  "local": true
  }
 }

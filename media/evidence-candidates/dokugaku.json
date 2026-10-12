@@ -366,5 +366,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-why-practice-success-fails-on-exam-jargon-quiz",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pan et al., \"Online and Clicker Quizzing on Jargon Terms Enhances Definition-Focused but Not Conceptually Focused Biology Exam Performance\" (CBE—Life Sciences Education, 2019)",
+    "sourceUrl": "https://doi.org/10.1187/cbe.18-12-0248",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-practice-success-fails-on-exam/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "用語を覚えれば応用問題も解ける？",
+        "body": "まずは専門用語を小テストで固めれば、考え方を問う問題も解けるようになる。そう思って用語の暗記から始める人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "授業前に10分の用語テスト",
+        "body": "米国の大学院生85人の授業で、専門用語の意味を問う10分の小テストを授業前に受けてもらった。後の試験で、テストした用語としなかった用語の成績を比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "意味は上がる、考え方は別",
+        "body": "用語の意味を問う問題は53%対43%で、テストした用語の方が高かった。でも考え方を問う問題は41%対37%で、はっきりした差にはならなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "他の科目や社会人でも同じか",
+        "body": "神経解剖学と生理学の2つの授業での結果。資格試験の独学のように、長期間ひとりで学ぶ場合にも同じ形になるかはわかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
