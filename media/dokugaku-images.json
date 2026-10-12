@@ -1191,5 +1191,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cafe_Interior_-_geograph.org.uk_-_4801988.jpg/500px-Cafe_Interior_-_geograph.org.uk_-_4801988.jpg",
   "og": "https://dokugaku.seadice.win/img/why-cafe-noise-feels-focused.jpg",
   "local": true
+ },
+ "vocab-review-schedule-recall-log": {
+  "file": "File:Serbian-English and English-Serbian dictionaries.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Serbian-English_and_English-Serbian_dictionaries.jpg/960px-Serbian-English_and_English-Serbian_dictionaries.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Serbian-English_and_English-Serbian_dictionaries.jpg/500px-Serbian-English_and_English-Serbian_dictionaries.jpg",
+  "w": 960,
+  "h": 750,
+  "alt": "机に置かれた英語の辞書",
+  "artist": "Milica Buha",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Serbian-English_and_English-Serbian_dictionaries.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

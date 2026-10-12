@@ -434,5 +434,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-vocab-review-schedule-recall-log-review-gap",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Cepeda et al., \"Spacing effects in learning: a temporal ridgeline of optimal retention\" (Psychological Science, 2008)",
+    "sourceUrl": "https://doi.org/10.1111/j.1467-9280.2008.02209.x",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/vocab-review-schedule-recall-log/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "復習は何日後がいい？",
+        "body": "「復習は早めに」とよく言うけど、翌日がいいのか1か月後がいいのか、実は決めにくいよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1,350人以上で試した",
+        "body": "1,350人以上にいくつかの事実を覚えてもらい、最長3.5か月の間をあけて1回復習。さらに最長1年後にテストして、どの間隔がいちばん残るかを調べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "いつ使うかで変わる",
+        "body": "最もよい間隔は、テストまでの期間の20〜40%（1週間後のテスト）から5〜10%（1年後のテスト）へ。先のテストほど、復習の間隔は長い方がよかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何度も復習するときは？",
+        "body": "この実験の復習は1回だけで、覚えたのは単語ではなく事実。何度も復習する独学で最もよい間隔は、この研究からはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
