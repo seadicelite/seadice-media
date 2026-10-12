@@ -1143,5 +1143,41 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/A_well-worn_path_-_geograph.org.uk_-_2530779.jpg/500px-A_well-worn_path_-_geograph.org.uk_-_2530779.jpg",
   "og": "https://research.seadice.win/img/habit-break-days-research.jpg",
   "local": true
+ },
+ "room-temperature-concentration-research": {
+  "file": "File:°C Thermometer (4215760392).jpg",
+  "src": "/img/room-temperature-concentration-research.jpg",
+  "src640": "/img/room-temperature-concentration-research-sm.jpg",
+  "w": 960,
+  "h": 643,
+  "alt": "室内に置かれた温度計",
+  "artist": "alex.ch from Zurich, Switzerland",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:%C2%B0C_Thermometer_(4215760392).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%C2%B0C_Thermometer_%284215760392%29.jpg/960px-%C2%B0C_Thermometer_%284215760392%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%C2%B0C_Thermometer_%284215760392%29.jpg/500px-%C2%B0C_Thermometer_%284215760392%29.jpg",
+  "og": "https://research.seadice.win/img/room-temperature-concentration-research.jpg",
+  "local": true
+ },
+ "music-cortisol-stress-research": {
+  "file": "File:Headphones 1.jpg",
+  "src": "/img/music-cortisol-stress-research.jpg",
+  "src640": "/img/music-cortisol-stress-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "音楽を聴いてリラックスする様子",
+  "artist": "No machine-readable author provided. PJ assumed (based on copyright claims).",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Headphones_1.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Headphones_1.jpg/960px-Headphones_1.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Headphones_1.jpg/500px-Headphones_1.jpg",
+  "og": "https://research.seadice.win/img/music-cortisol-stress-research.jpg",
+  "local": true
  }
 }

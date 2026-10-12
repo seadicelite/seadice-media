@@ -32,11 +32,9 @@
   "postsPerRun": 1,
   "topicQueue": [
     "タスクを細かく分割すると先延ばしは減るのか",
-    "好きな音楽を聴くとストレスホルモンは下がるのか",
     "いつも同じ場所で行うと習慣は身につきやすいのか",
     "覚えた直後に眠ると記憶は定着しやすいのか。睡眠と記憶の研究",
     "友人に弱音を吐くとストレスは軽くなるのか。打ち明けることの研究",
-    "部屋の温度は集中力に影響するのか",
     "小さなご褒美を設定すると習慣は続きやすいのか",
     "難しい作業は午前中にやるべきなのか。意志力と時間帯の研究"
   ],
@@ -96,15 +94,93 @@
     }
   ],
   "toolbox": [
-    {"name": "睡眠負債チェック", "desc": "理想と平日の睡眠時間から、たまった睡眠負債と今夜の就寝時刻を計算", "href": "https://seadice.win/tools/suimin-fusai/", "cats": ["睡眠"]},
-    {"name": "カフェインは何時まで？", "desc": "寝る時刻と量から、最後にカフェインを飲んでよい時刻の目安を計算", "href": "https://seadice.win/tools/caffeine-cutoff/", "cats": ["睡眠"]},
-    {"name": "こまめ休憩タイマー", "desc": "10分作業→90秒休憩を自動でくり返す、集中を保つためのタイマー", "href": "https://seadice.win/tools/kyukei-timer/", "cats": ["集中力"]},
-    {"name": "先に動く5分タイマー", "desc": "やる気を待たずに5分だけ動き、前後の気分を記録する（行動活性化の研究がもと）", "href": "https://seadice.win/tools/saki-ni-ugoku/", "cats": ["先延ばし", "気分・ストレス", "習慣"], "all": true},
-    {"name": "復習タイミング計算", "desc": "テスト日から、研究でわかった間隔をもとに復習日を計算", "href": "https://seadice.win/tools/fukushu-timing/", "cats": ["記憶・学習"]},
-    {"id": "hiru10", "name": "昼10", "desc": "研究にもとづく長さで昼寝をセットし、午後の眠気を立て直す", "appStoreId": "6814377156", "cats": ["睡眠"]},
-    {"id": "procrastination-type", "name": "先延ばしタイプ診断", "desc": "自分の先延ばしタイプを知り、タイプ別の対策を試す", "appStoreId": "6792604492", "cats": ["先延ばし"]},
-    {"id": "mood-forecast", "name": "感情の天気予報", "desc": "毎日の気分を記録して、落ち込みやすい曜日や状況の傾向を見つける", "appStoreId": "6797248387", "cats": ["気分・ストレス"]},
-    {"id": "active-recall", "name": "思い出しトレーニング", "desc": "覚えたい範囲から一問一答をつくり、間隔をあけた復習を自動で管理する", "appStoreId": "6801937769", "cats": ["記憶・学習"]},
-    {"id": "dopamine-detox", "name": "ドーパミンハック", "desc": "通知やSNSに流されず、5分の小さな一歩を積み重ねて行動をつなげる", "appStoreId": "6801960694", "cats": ["集中力"]}
+    {
+      "name": "睡眠負債チェック",
+      "desc": "理想と平日の睡眠時間から、たまった睡眠負債と今夜の就寝時刻を計算",
+      "href": "https://seadice.win/tools/suimin-fusai/",
+      "cats": [
+        "睡眠"
+      ]
+    },
+    {
+      "name": "カフェインは何時まで？",
+      "desc": "寝る時刻と量から、最後にカフェインを飲んでよい時刻の目安を計算",
+      "href": "https://seadice.win/tools/caffeine-cutoff/",
+      "cats": [
+        "睡眠"
+      ]
+    },
+    {
+      "name": "こまめ休憩タイマー",
+      "desc": "10分作業→90秒休憩を自動でくり返す、集中を保つためのタイマー",
+      "href": "https://seadice.win/tools/kyukei-timer/",
+      "cats": [
+        "集中力"
+      ]
+    },
+    {
+      "name": "先に動く5分タイマー",
+      "desc": "やる気を待たずに5分だけ動き、前後の気分を記録する（行動活性化の研究がもと）",
+      "href": "https://seadice.win/tools/saki-ni-ugoku/",
+      "cats": [
+        "先延ばし",
+        "気分・ストレス",
+        "習慣"
+      ],
+      "all": true
+    },
+    {
+      "name": "復習タイミング計算",
+      "desc": "テスト日から、研究でわかった間隔をもとに復習日を計算",
+      "href": "https://seadice.win/tools/fukushu-timing/",
+      "cats": [
+        "記憶・学習"
+      ]
+    },
+    {
+      "id": "hiru10",
+      "name": "昼10",
+      "desc": "研究にもとづく長さで昼寝をセットし、午後の眠気を立て直す",
+      "appStoreId": "6814377156",
+      "cats": [
+        "睡眠"
+      ]
+    },
+    {
+      "id": "procrastination-type",
+      "name": "先延ばしタイプ診断",
+      "desc": "自分の先延ばしタイプを知り、タイプ別の対策を試す",
+      "appStoreId": "6792604492",
+      "cats": [
+        "先延ばし"
+      ]
+    },
+    {
+      "id": "mood-forecast",
+      "name": "感情の天気予報",
+      "desc": "毎日の気分を記録して、落ち込みやすい曜日や状況の傾向を見つける",
+      "appStoreId": "6797248387",
+      "cats": [
+        "気分・ストレス"
+      ]
+    },
+    {
+      "id": "active-recall",
+      "name": "思い出しトレーニング",
+      "desc": "覚えたい範囲から一問一答をつくり、間隔をあけた復習を自動で管理する",
+      "appStoreId": "6801937769",
+      "cats": [
+        "記憶・学習"
+      ]
+    },
+    {
+      "id": "dopamine-detox",
+      "name": "ドーパミンハック",
+      "desc": "通知やSNSに流されず、5分の小さな一歩を積み重ねて行動をつなげる",
+      "appStoreId": "6801960694",
+      "cats": [
+        "集中力"
+      ]
+    }
   ]
 }

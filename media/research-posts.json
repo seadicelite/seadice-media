@@ -1,5 +1,19 @@
 [
   {
+    "slug": "music-cortisol-stress-research",
+    "category": "気分・ストレス",
+    "date": "2026-10-12",
+    "title": "好きな音楽を聴くとストレスホルモンは下がるのか。104件の研究でわかったこと",
+    "summary": "音楽とコルチゾールの関係を、104件のRCTのメタ分析と手術前後・コンサート・日常生活の研究から確認する"
+  },
+  {
+    "slug": "room-temperature-concentration-research",
+    "category": "集中力",
+    "date": "2026-10-12",
+    "title": "部屋の温度は集中力に影響するのか。4つの研究でわかった「暑すぎても寒すぎても」の境界",
+    "summary": "室温と集中力の関係を、22〜24℃を目安とする複数の研究から、暑さ・寒さそれぞれの境界を確認する"
+  },
+  {
     "slug": "habit-break-days-research",
     "category": "習慣",
     "date": "2026-10-11",

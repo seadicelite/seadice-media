@@ -1,1 +1,129 @@
-[]
+[
+  {
+    "id": "research-music-cortisol-stress-research-meta104",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "de Witte M et al., \"Effects of music interventions on stress-related outcomes: a systematic review and two meta-analyses\" (Health Psychology Review, 2020)",
+    "sourceUrl": "https://doi.org/10.1080/17437199.2019.1627897",
+    "articleUrl": "https://research.seadice.win/music-cortisol-stress-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "音楽を聴くとストレスが減るって本当？",
+        "body": "「好きな音楽を聴くと落ち着く」とよく言われるけど、気分だけじゃなく体の反応まで変わるのか気になるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "104件の実験をまとめて検証",
+        "body": "オランダの研究チームが、音楽を使った実験104件・参加者9,617人分のデータを統合して、ストレスへの効果を調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "心拍数ほどではないけど、ホルモンにも効果あり",
+        "body": "心理的なストレスへの効果が一番大きく、心拍数・血圧・ホルモン濃度にも効果があった。ただしホルモンへの効果は、心拍数への効果より小さめだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どんな音楽が一番効くかは別問題",
+        "body": "この研究は「音楽を使った介入全体」の効果をまとめたもので、曲のジャンルや聴き方の違いまでは踏み込んでいない。人によって効き方の差もありそう。"
+      }
+    ],
+    "addedAt": "2026-10-12"
+  },
+  {
+    "id": "research-music-cortisol-stress-research-concert",
+    "category": "気分・ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Fancourt D & Williamon A, \"Attending a concert reduces glucocorticoids, progesterone and the cortisol/DHEA ratio\" (Public Health, 2016)",
+    "sourceUrl": "https://doi.org/10.1016/j.puhe.2015.12.005",
+    "articleUrl": "https://research.seadice.win/music-cortisol-stress-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "調べたこと",
+        "title": "コンサート会場で唾液を採取",
+        "body": "イギリスの研究チームが、合唱曲で有名な作曲家Eric Whitacreのコンサートに来た117人から、開演前と休憩中に唾液を採って比べたんだって。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "コルチゾールなど複数のホルモンが変化",
+        "body": "コルチゾール・コルチゾン・プロゲステロンなどに有意な変化が見られた。年齢や性別、音楽経験の差では結果が変わらず、幅広い人に共通する反応だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "生演奏だからこその効果かは不明",
+        "body": "今回は落ち着いたクラシックの生演奏が舞台。録音された音楽や、もっと激しいジャンルでも同じことが起きるかはこの研究だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-12"
+  },
+  {
+    "id": "research-room-temperature-concentration-research-hotcold",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#38BDF8",
+    "sourceLabel": "Pilcher JJ et al., \"Effects of hot and cold temperature exposure on performance: a meta-analytic review\" (Ergonomics, 2002)",
+    "sourceUrl": "https://doi.org/10.1080/00140130210158419",
+    "articleUrl": "https://research.seadice.win/room-temperature-concentration-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "暑い部屋も寒い部屋も集中力が落ちるって本当？",
+        "body": "「暑くて頭が働かない」「寒くて集中できない」、どっちもよく聞くけど、実際どのくらい作業に影響するのか気になるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "22件の研究・515の効果量を統合",
+        "body": "研究チームが、温度と作業成績を調べた実験を集めてメタ分析したんだ。暑い環境と寒い環境、両方のデータが含まれている。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "どちらも1割以上の成績低下",
+        "body": "暑さ指数32.22℃以上の高温では約14.88%、10℃以下の低温では約13.91%、中立な温度のときより成績が下がったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "「中立な温度」はどれくらいか",
+        "body": "この研究は暑さ・寒さの極端な条件を比べたもので、ちょうどいい温度の範囲までは示していない。作業の種類によっても影響の大きさは変わるとされている。"
+      }
+    ],
+    "addedAt": "2026-10-12"
+  },
+  {
+    "id": "research-room-temperature-concentration-research-optimal",
+    "category": "集中力",
+    "kind": "素朴な疑問",
+    "themeColor": "#38BDF8",
+    "sourceLabel": "Dupont L et al., \"The impact of high indoor temperatures on cognitive performance within the work setting: a systematic review\" (Tijdschrift voor Psychiatrie, 2023)",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37434569/",
+    "articleUrl": "https://research.seadice.win/room-temperature-concentration-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "何度がいちばん集中できるの？",
+        "body": "エアコンの設定温度、結局何度がいいのか迷うことない？研究でヒントが出てるらしいよ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "職場の高温と認知機能、17件のレビュー",
+        "body": "研究チームが、職場の室温と認知機能の関係を調べた17件の研究をまとめて見直したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "目安は22〜24℃、反応速度が特に敏感",
+        "body": "認知機能が保たれやすい室温の目安はおおむね22〜24℃。24℃を超えると、特に反応の速さや処理速度が落ちやすいとされた。論理的な推論は影響を受けにくかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "研究ごとに結果はバラバラ",
+        "body": "17件の結果は一貫していなかったと著者ら自身が述べている。実際の職場にそのまま当てはまるかは、まだはっきりしていない。"
+      }
+    ],
+    "addedAt": "2026-10-12"
+  }
+]
