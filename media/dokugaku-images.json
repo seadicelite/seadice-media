@@ -959,5 +959,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg/500px-Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg",
   "og": "https://dokugaku.seadice.win/img/adult-relearning-how-to-study.jpg",
   "local": true
+ },
+ "new-study-method-feels-not-working": {
+  "file": "File:Big Pencil (9931727354).jpg",
+  "src": "/img/new-study-method-feels-not-working.jpg",
+  "src640": "/img/new-study-method-feels-not-working-sm.jpg",
+  "w": 960,
+  "h": 717,
+  "alt": "メモ帳と大きな鉛筆",
+  "artist": "Scott Brown",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Big_Pencil_(9931727354).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Big_Pencil_%289931727354%29.jpg/960px-Big_Pencil_%289931727354%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Big_Pencil_%289931727354%29.jpg/500px-Big_Pencil_%289931727354%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/new-study-method-feels-not-working.jpg",
+  "local": true
  }
 }
