@@ -2128,5 +2128,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fischerkirche_%28window%29%2C_Born_a._Dar%C3%9F.jpg/500px-Fischerkirche_%28window%29%2C_Born_a._Dar%C3%9F.jpg",
   "og": "https://mentalai.seadice.win/img/stuffy-room-ventilation-focus.jpg",
   "local": true
+ },
+ "sns-appearance-mindfulness-before": {
+  "file": "File:Zafu-soto-zen1024.JPG",
+  "src": "/img/sns-appearance-mindfulness-before.jpg",
+  "src640": "/img/sns-appearance-mindfulness-before-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "畳の上に置かれた瞑想用の丸い座布団",
+  "artist": "Kstigarbha",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Zafu-soto-zen1024.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Zafu-soto-zen1024.JPG/960px-Zafu-soto-zen1024.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Zafu-soto-zen1024.JPG/500px-Zafu-soto-zen1024.JPG",
+  "og": "https://mentalai.seadice.win/img/sns-appearance-mindfulness-before.jpg",
+  "local": true
  }
 }

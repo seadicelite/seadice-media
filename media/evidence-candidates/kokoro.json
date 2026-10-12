@@ -97,5 +97,38 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "kokoro-sns-appearance-mindfulness-before-10min",
+    "category": "AIと心",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zhang X, Zhang Z, \"Brief Mindfulness Meditation Protects Chinese Young Women's Body Image from Appearance-Focused Social Media Exposure\" (Healthcare, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/healthcare14010120",
+    "articleUrl": "https://mentalai.seadice.win/sns-appearance-mindfulness-before/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よくある悩み",
+        "title": "SNSの写真と比べて落ち込む",
+        "body": "整った見た目の投稿を見ると、つい自分と比べて気分が沈む。見る前に、何かできることはないのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "見る前に10分の音声を聞く実験",
+        "body": "中国の18〜35歳の女性168人を、10分の瞑想の音声か、自然の朗読を聞くグループにくじで分けて、そのあと理想的な体型の写真12枚と自分を比べてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "瞑想のグループは気分が悪化しにくかった",
+        "body": "写真を見たあと、朗読のグループは気分がはっきり悪化したけど、瞑想のグループは大きく変わらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回きりの実験の話",
+        "body": "体への不満の差は統計的に確かとは言えなかった。研究用のページで1回見ただけの結果で、毎日のSNSで続くかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]
