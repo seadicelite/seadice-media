@@ -1,0 +1,176 @@
+{
+  "cols": [
+    {
+      "id": "why",
+      "label": "なぜ",
+      "q": "なぜそうなる？（体・脳・心の仕組み）"
+    },
+    {
+      "id": "judge",
+      "label": "効く？",
+      "q": "よく言われる方法・通説は効く？（研究で判定）"
+    },
+    {
+      "id": "how",
+      "label": "やり方",
+      "q": "研究で効果が示された、今日からできるやり方・タイミングは？"
+    },
+    {
+      "id": "stuck",
+      "label": "つまずいたら",
+      "q": "うまくいかない・続かない・失敗した後、どう立て直す？"
+    }
+  ],
+  "rows": [
+    {
+      "id": "sleep",
+      "label": "睡眠",
+      "cells": {
+        "why": [
+          "post-lunch-sleepiness-research"
+        ],
+        "judge": [
+          "bedtime-stretching-sleep-quality-research",
+          "daytime-light-exposure-night-sleep-research",
+          "alcohol-before-bed-sleep",
+          "snooze-alarm-research",
+          "sleep-regularity-same-time-research",
+          "bedtime-reading-paper-book-sleep"
+        ],
+        "how": [
+          "bathing-before-bed-sleep-onset",
+          "evening-exercise-sleep-research",
+          "bedtime-todo-list-sleep",
+          "caffeine-hours-before-bed",
+          "nap-best-length"
+        ],
+        "stuck": [
+          "weekend-catchup-sleep-debt",
+          "morning-light-wake-up",
+          "bedtime-smartphone-sleep"
+        ]
+      }
+    },
+    {
+      "id": "focus",
+      "label": "集中力",
+      "cells": {
+        "why": [
+          "deadline-time-pressure-focus-research"
+        ],
+        "judge": [
+          "room-temperature-concentration-research",
+          "noise-cancelling-focus-research",
+          "indoor-plants-focus-concentration-research",
+          "skipping-breakfast-focus-research",
+          "white-noise-focus-research",
+          "chewing-gum-focus-research",
+          "sugar-focus-willpower-research",
+          "desk-clutter-focus-research",
+          "aroma-rosemary-focus-research",
+          "multitasking-focus-cost-research",
+          "short-meditation-focus-recovery",
+          "phone-notifications-off-focus",
+          "background-music-studying-focus",
+          "phone-presence-attention-brain-drain"
+        ],
+        "how": [
+          "walking-boosts-creativity",
+          "focus-microbreaks-pomodoro"
+        ],
+        "stuck": []
+      }
+    },
+    {
+      "id": "procrastination",
+      "label": "先延ばし",
+      "cells": {
+        "why": [
+          "procrastination-genetics-change-research",
+          "motivation-before-action-research",
+          "procrastination-emotion-regulation"
+        ],
+        "judge": [
+          "perfectionism-procrastination-research"
+        ],
+        "how": [
+          "todo-list-reduce-procrastination-research"
+        ],
+        "stuck": []
+      }
+    },
+    {
+      "id": "mood",
+      "label": "気分・ストレス",
+      "cells": {
+        "why": [
+          "sleep-loss-anger-irritability"
+        ],
+        "judge": [
+          "music-cortisol-stress-research",
+          "sensory-overload-self-care-research",
+          "solitude-affective-restoration",
+          "positive-thinking-backfire-research",
+          "stranger-small-talk-mood-research",
+          "social-media-break-wellbeing",
+          "upright-posture-mood-research",
+          "crying-mood-relief-research",
+          "slow-breathing-stress-research",
+          "anger-write-and-discard-paper",
+          "expressive-writing-mood-research",
+          "fake-smile-mood-facial-feedback",
+          "nature-time-stress-reduction",
+          "gratitude-journal-happiness-effect-size",
+          "cold-shower-mood-boost"
+        ],
+        "how": [
+          "short-exercise-mood-boost"
+        ],
+        "stuck": [
+          "self-compassion-recovery-speed"
+        ]
+      }
+    },
+    {
+      "id": "habit",
+      "label": "習慣",
+      "cells": {
+        "why": [],
+        "judge": [
+          "habit-tracking-boosts-continuation"
+        ],
+        "how": [
+          "habit-break-days-research",
+          "distance-temptation-self-control-research",
+          "habit-replacement-competing-response-research",
+          "urge-surfing-craving-wave-research",
+          "fresh-start-effect-habit-timing-research",
+          "daily-steps-how-many-research",
+          "if-then-planning-habit-research",
+          "goal-sharing-achievement-research",
+          "habit-formation-two-minute-rule"
+        ],
+        "stuck": [
+          "all-or-nothing-diet-slip-research"
+        ]
+      }
+    },
+    {
+      "id": "memory",
+      "label": "記憶・学習",
+      "cells": {
+        "why": [],
+        "judge": [
+          "handwriting-vs-typing-memory",
+          "testing-effect-retrieval-practice",
+          "reading-aloud-memory-production-effect"
+        ],
+        "how": [
+          "spacing-effect-review-timing"
+        ],
+        "stuck": []
+      }
+    }
+  ],
+  "research": []
+}
