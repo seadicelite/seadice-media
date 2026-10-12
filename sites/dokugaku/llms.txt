@@ -120,6 +120,7 @@
 - [AIに練習問題を作らせて勉強するには？研究でわかった頼み方と確かめ方](https://dokugaku.seadice.win/ai-practice-questions-how-to/): 問題を解いて思い出す練習は効くが、AIの問題には誤りも混ざる。教材を渡して短く答える問題を作らせ、答えは教材で確かめる。
 - [AIに作文を添削させると上達するのか。AIの添削（自動フィードバック）と学習の研究](https://dokugaku.seadice.win/ai-writing-feedback-revision/): AIの添削は作文に中くらいの効果。ただ点数が伸びても力がつくとは限らず、指摘をもとに自分で書き直すのがおすすめ
 - [AIに説明させるより、自分で説明した方が覚えられるのか。自己説明と生成効果の研究](https://dokugaku.seadice.win/self-explanation-vs-ai-explanation/): 上手な説明を読むより自分で説明した方が学びは大きくなりやすい。AIは説明役より確認役に使うのが研究に沿った使い方
+- [AIの説明を読むとわかった気になるのはなぜ？説明のなめらかさと「説明深度の錯覚」の研究](https://dokugaku.seadice.win/why-ai-explanations-feel-understood/): AIの説明でわかった気になる理由を、説明深度の錯覚・なめらかな説明・検索の研究から整理し、確かめる手順をまとめました。
 
 ## ツールとアプリ（無料・登録不要）
 

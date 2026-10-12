@@ -570,5 +570,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-why-ai-explanations-feel-understood-fluent-lecturer",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Carpenter et al., \"Appearances can be deceiving: instructor fluency increases perceptions of learning without increasing actual learning\" (Psychonomic Bulletin & Review, 2013)",
+    "sourceUrl": "https://doi.org/10.3758/s13423-013-0442-z",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-ai-explanations-feel-understood/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "説明がうまい先生ほど身につく？",
+        "body": "話がなめらかで自信たっぷりの先生だと「よくわかった！」って感じるよね。じゃあ、その分しっかり覚えられているのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ内容を、話し方だけ変えた",
+        "body": "同じ科学の説明を、すらすら話す講師と、たどたどしくメモを見ながら話す講師の短い動画にして見せた実験があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「学べた感じ」だけが上がった",
+        "body": "すらすら話す講師を見た人の方が「あとで思い出せる」と予想したし、講師の評価も高かった。でも、実際に覚えていた量には差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い講義やAIの説明でも同じ？",
+        "body": "短い動画での実験。同じ研究者らの22分の講義での実験では、自信が全体として上がるとは限らなかった。AIのなめらかな説明で同じことが起きるかは、まだ研究が少ない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

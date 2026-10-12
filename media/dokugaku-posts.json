@@ -1,5 +1,13 @@
 [
   {
+    "slug": "why-ai-explanations-feel-understood",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-13",
+    "title": "AIの説明を読むとわかった気になるのはなぜ？説明のなめらかさと「説明深度の錯覚」の研究",
+    "summary": "AIの説明でわかった気になる理由を、説明深度の錯覚・なめらかな説明・検索の研究から整理し、確かめる手順をまとめました。"
+  },
+  {
     "slug": "distraction-checklist-interruption-log",
     "category": "集中・環境",
     "type": "guide",

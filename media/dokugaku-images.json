@@ -1263,5 +1263,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/HP_Elite_X3.jpg/500px-HP_Elite_X3.jpg",
   "og": "https://dokugaku.seadice.win/img/distraction-checklist-interruption-log.jpg",
   "local": true
+ },
+ "why-ai-explanations-feel-understood": {
+  "file": "File:Plastic watertight drysuit zipper open end detail P8110014.jpg",
+  "src": "/img/why-ai-explanations-feel-understood.jpg",
+  "src640": "/img/why-ai-explanations-feel-understood-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ファスナーの歯の拡大写真",
+  "artist": "Peter Southwood",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Plastic_watertight_drysuit_zipper_open_end_detail_P8110014.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Plastic_watertight_drysuit_zipper_open_end_detail_P8110014.jpg/960px-Plastic_watertight_drysuit_zipper_open_end_detail_P8110014.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Plastic_watertight_drysuit_zipper_open_end_detail_P8110014.jpg/500px-Plastic_watertight_drysuit_zipper_open_end_detail_P8110014.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-ai-explanations-feel-understood.jpg",
+  "local": true
  }
 }
