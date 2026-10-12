@@ -268,5 +268,73 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "kokoro-work-confidence-recover-ai-praise",
+    "category": "AIと心",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Watanabe Y, Nakayama M, Takemura K, Uchida Y, \"AI feedback and workplace social support in enhancing occupational self-efficacy: a randomized controlled trial in Japan\" (Scientific Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-94985-0",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/work-confidence-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIに褒められても自信はつく？",
+        "body": "相手が機械だと、褒められても意味がない気がするよね。仕事の自信は、AIとの対話で変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "日本の働く人102人の実験",
+        "body": "25〜59歳の働く人を2つに分けて、AIと15〜30分、その日の仕事を振り返ってもらった。片方は強みとできたこと、もう片方は改善点に目を向ける対話だったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「できたこと」の対話で自信が上がった",
+        "body": "強みとできたことの対話では、仕事の自信が5段階で約0.3点上がっていた。改善点の対話は、職場で気持ちを受け止めてもらえていると感じる人でだけ、自信を上げていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回の対話の直後の話",
+        "body": "測ったのは1回の対話の直後だけで、効果が続くかはわからない。何も対話しないグループとは比べていないし、職場の支えは実験で変えたものではないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-work-confidence-recover-praise-fades",
+    "category": "AIと心",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Peifer C, Schönfeld P, Wolters G, Aust F, Margraf J, \"Well Done! Effects of Positive Feedback on Perceived Self-Efficacy, Flow and Performance in a Mental Arithmetic Task\" (Frontiers in Psychology, 2020)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2020.01008",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/work-confidence-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "褒めれば自信がつく",
+        "body": "「褒めて伸ばす」ってよく言うよね。実際、褒め言葉で自信はどれくらい上がって、どれくらい続くんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5分間の暗算の実験",
+        "body": "ドイツの大学生を中心とした102人に暗算をしてもらい、半分の人にだけ「平均より成績がよかった」と伝えた。実は成績とは関係なく、決まった文だったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "上がったけれど、差は縮んだ",
+        "body": "何も言われなかった人は自信が100点中約55点から約49点に下がり、褒められた人は約54点から約57点に上がった。でも次の暗算のあとは、約49点と約51点まで差が縮んでいたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実験室の暗算の話",
+        "body": "課題は5分間の暗算で、仕事の場面とは違う。褒め言葉も実際の成績にもとづいたものではなかったから、本当の仕事ぶりを認められたときと同じかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

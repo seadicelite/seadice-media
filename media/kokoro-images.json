@@ -2218,5 +2218,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Crew_2016-01-10_%28Unsplash_xCmvrpzctaQ%29.jpg/500px-Crew_2016-01-10_%28Unsplash_xCmvrpzctaQ%29.jpg",
   "og": "https://mentalai.seadice.win/img/touch-hug-stress-relief.jpg",
   "local": true
+ },
+ "work-confidence-recover": {
+  "file": "File:Enjoying a warm beverage while working at home in a cozy environment.jpg",
+  "src": "/img/work-confidence-recover.jpg",
+  "src640": "/img/work-confidence-recover-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "ノートパソコンの横で、温かい飲み物のカップを持つ手",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Enjoying_a_warm_beverage_while_working_at_home_in_a_cozy_environment.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Enjoying_a_warm_beverage_while_working_at_home_in_a_cozy_environment.jpg/960px-Enjoying_a_warm_beverage_while_working_at_home_in_a_cozy_environment.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Enjoying_a_warm_beverage_while_working_at_home_in_a_cozy_environment.jpg/500px-Enjoying_a_warm_beverage_while_working_at_home_in_a_cozy_environment.jpg",
+  "og": "https://mentalai.seadice.win/img/work-confidence-recover.jpg",
+  "local": true
  }
 }
