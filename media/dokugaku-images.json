@@ -1103,5 +1103,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sand_clock_Enschede.jpg/500px-Sand_clock_Enschede.jpg",
   "og": "https://dokugaku.seadice.win/img/why-procrastinate-studying-og.jpg",
   "local": true
+ },
+ "why-multitasking-hurts-studying": {
+  "file": "File:White work table with notes, smartphone and laptop (Unsplash).jpg",
+  "src": "/img/why-multitasking-hurts-studying.webp",
+  "src640": "/img/why-multitasking-hurts-studying-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上のノートとスマートフォン、ノートパソコン",
+  "artist": "JESHOOTS.COM jeshoots",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:White_work_table_with_notes,_smartphone_and_laptop_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg/960px-White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg/500px-White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-multitasking-hurts-studying-og.jpg",
+  "local": true
  }
 }

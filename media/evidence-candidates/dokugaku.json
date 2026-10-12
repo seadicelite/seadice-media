@@ -264,5 +264,39 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "dokugaku-why-multitasking-hurts-studying-multitasker-replication",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wiradhany & Nieuwenstein, \"Cognitive control in media multitaskers: Two replication studies and a meta-analysis\" (Attention, Perception, & Psychophysics, 2017)",
+    "sourceUrl": "https://doi.org/10.3758/s13414-017-1408-4",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/why-multitasking-hurts-studying/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ながらが多い人は集中力が落ちる",
+        "body": "動画を見ながら、スマホを触りながら。ふだんから「ながら」が多い人は、気が散りやすい脳になる。2009年の研究がそう話題になったよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ実験をもう一度やってみた",
+        "body": "インドネシアとオランダの大学生で、元の実験を2回くり返した研究がある。さらに他の研究とまとめて、差の大きさを計算し直した。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差はとても小さかった",
+        "body": "14のテストのうち、差が出たのは5つ。厳しい分析で残ったのは2つだけだった。まとめた差もd=0.17と小さく、小さな研究の偏りを補正すると0.07になり、意味のある差は残らなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の成果は別の話",
+        "body": "調べたのは実験室の注意の課題で、勉強の成績ではない。それに、作業を切り替えるたびに遅れとミスが出ること自体は、別の研究でくり返し確かめられている。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
