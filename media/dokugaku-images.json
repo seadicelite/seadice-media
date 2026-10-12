@@ -1031,5 +1031,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg/500px-M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg",
   "og": "https://dokugaku.seadice.win/img/study-burnout-recovery.jpg",
   "local": true
+ },
+ "ai-overreliance-solve-on-your-own": {
+  "file": "File:2000 Notebook, Pages 4-5.jpg",
+  "src": "/img/ai-overreliance-solve-on-your-own.jpg",
+  "src640": "/img/ai-overreliance-solve-on-your-own-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "数式と図を手書きした勉強ノート",
+  "artist": "Tobin from Rochester, NY, USA",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2000_Notebook,_Pages_4-5.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2000_Notebook%2C_Pages_4-5.jpg/960px-2000_Notebook%2C_Pages_4-5.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2000_Notebook%2C_Pages_4-5.jpg/500px-2000_Notebook%2C_Pages_4-5.jpg",
+  "og": "https://dokugaku.seadice.win/img/ai-overreliance-solve-on-your-own.jpg",
+  "local": true
  }
 }

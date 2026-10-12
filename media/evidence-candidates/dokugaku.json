@@ -97,5 +97,38 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "dokugaku-ai-overreliance-solve-on-your-own-offloading-cost",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Grinschgl, Papenmeier & Meyerhoff, \"Consequences of cognitive offloading: Boosting performance but diminishing memory\" (Quarterly Journal of Experimental Psychology, 2021)",
+    "sourceUrl": "https://doi.org/10.1177/17470218211008060",
+    "articleUrl": "https://dokugaku.seadice.win/ai-overreliance-solve-on-your-own/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "すぐ調べられると覚えない？",
+        "body": "答えはスマホやAIですぐ見られる。便利だけど、すぐ見られるせいで頭に残らない…ってことはあるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "見本を開くのに2秒待たせた",
+        "body": "ドイツの大学生172人に、見本を見ながら図形の配置を写してもらった実験がある。半分の人は、見本を開くたびに2秒待つ設定にした。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "作業は遅く、記憶は良く",
+        "body": "2秒待つ人は見本を見る回数が減り、その場の作業は遅くなった。でも後で抜き打ちの記憶テストをすると、待った人の方がよく覚えていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強でも同じかは不明",
+        "body": "図形と位置を覚える実験室の課題で、教科書の勉強やAIの使い方を調べたわけではない。見本を毎回見させた別の条件では、悪影響をほぼ打ち消せた人たちもいて、条件で結果が変わる。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]
