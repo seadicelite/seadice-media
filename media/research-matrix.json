@@ -137,7 +137,8 @@
       "cells": {
         "why": [],
         "judge": [
-          "habit-tracking-boosts-continuation"
+          "habit-tracking-boosts-continuation",
+          "habit-same-place-context-research"
         ],
         "how": [
           "habit-break-days-research",
@@ -163,7 +164,8 @@
         "judge": [
           "handwriting-vs-typing-memory",
           "testing-effect-retrieval-practice",
-          "reading-aloud-memory-production-effect"
+          "reading-aloud-memory-production-effect",
+          "sleep-timing-after-learning-memory-research"
         ],
         "how": [
           "spacing-effect-review-timing"
