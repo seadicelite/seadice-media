@@ -1267,5 +1267,23 @@
   "og": "https://research.seadice.win/img/procrastination-self-forgiveness-recovery-research.jpg",
   "local": true,
   "unconverted": true
+ },
+ "why-we-forget-forgetting-curve-research": {
+  "file": "File:Old books on bookshelf. (Unsplash).jpg",
+  "src": "/img/why-we-forget-forgetting-curve-research.jpg",
+  "src640": "/img/why-we-forget-forgetting-curve-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "図書館の本棚に並ぶ古い本",
+  "artist": "Clem Onojeghuo clemono2",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Old_books_on_bookshelf._(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Old_books_on_bookshelf._%28Unsplash%29.jpg/960px-Old_books_on_bookshelf._%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Old_books_on_bookshelf._%28Unsplash%29.jpg/500px-Old_books_on_bookshelf._%28Unsplash%29.jpg",
+  "og": "https://research.seadice.win/img/why-we-forget-forgetting-curve-research.jpg",
+  "local": true,
+  "unconverted": true
  }
 }

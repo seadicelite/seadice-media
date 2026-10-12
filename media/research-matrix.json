@@ -164,7 +164,9 @@
       "id": "memory",
       "label": "記憶・学習",
       "cells": {
-        "why": [],
+        "why": [
+          "why-we-forget-forgetting-curve-research"
+        ],
         "judge": [
           "handwriting-vs-typing-memory",
           "testing-effect-retrieval-practice",

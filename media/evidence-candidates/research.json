@@ -288,5 +288,39 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "research-why-we-forget-forgetting-curve-research-savings",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Murre JMJ & Dros J, \"Replication and Analysis of Ebbinghaus' Forgetting Curve\" (PLoS ONE, 2015)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0120644",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/why-we-forget-forgetting-curve-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "人は1日で7割忘れる？",
+        "body": "「忘却曲線によると、覚えたことは1日で7割忘れる」って聞いたことあるよね。でも実は、もとの数字はそういう意味じゃないらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "130年以上前の実験を、そのまま再現",
+        "body": "エビングハウスが1880年に自分で行った暗記実験を、22歳の男性1人が約70時間かけて再現。意味のないつづりのリストを覚え、20分後から31日後まで間をあけて覚え直したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "測っていたのは「覚え直しの楽さ」",
+        "body": "忘却曲線の数字は、覚え直しで時間が何％短く済んだか（節約率）。エビングハウスは1日後で33.7％、再現実験では31.7％。直後ほど速く忘れる形もよく似ていた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "意味のある内容でも同じ？",
+        "body": "再現もエビングハウスも、対象は1人で、覚えたのは意味のないつづり。教科書の内容や思い出のような意味のある記憶が、同じ形で忘れられるかはこの実験からはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]
