@@ -64,5 +64,38 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "dokugaku-study-burnout-recovery-interventions",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Tang et al., \"Effect of Interventions on Learning Burnout: A Systematic Review and Meta-Analysis\" (Frontiers in Psychology, 2021)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2021.645662",
+    "articleUrl": "https://dokugaku.seadice.win/study-burnout-recovery/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "勉強の燃え尽きって減らせる？",
+        "body": "勉強に疲れ切って、やる意味もわからなくなる「学業の燃え尽き」。気合いで乗り切るしかないと思いがちだけど、減らす方法は研究されているのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "39本の実験をまとめた",
+        "body": "学生の燃え尽きを減らす取り組みを試したランダム化比較試験39本、学生3,400人分をまとめて分析した研究がある。グループでの相談、運動、時間管理の練習などが含まれていた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "平均では燃え尽きが下がった",
+        "body": "取り組みを受けた学生は、燃え尽きの得点が下がっていた。種類別では運動の効果がいちばん大きく見え、8週間以上続けた取り組みで効果が大きかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "研究の質はまだ低め",
+        "body": "39本中38本は中国語の論文で、31本は質が低いと評価された。効果の出た研究ほど発表されやすい偏りも見られ、実際の効果はもっと小さいかもしれない。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]

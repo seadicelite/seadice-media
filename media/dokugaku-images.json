@@ -1013,5 +1013,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2023_Fili%C5%BCanki_do_herbaty.jpg/500px-2023_Fili%C5%BCanki_do_herbaty.jpg",
   "og": "https://dokugaku.seadice.win/img/self-compassion-after-study-setback.jpg",
   "local": true
+ },
+ "study-burnout-recovery": {
+  "file": "File:Münster, Park Sentmaring, Parkbank -- 2021 -- 9129.jpg",
+  "src": "/img/study-burnout-recovery.jpg",
+  "src640": "/img/study-burnout-recovery-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "秋の公園の空いたベンチ",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Park_Sentmaring,_Parkbank_--_2021_--_9129.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg/960px-M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg/500px-M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-burnout-recovery.jpg",
+  "local": true
  }
 }
