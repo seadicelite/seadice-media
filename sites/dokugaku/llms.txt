@@ -79,6 +79,7 @@
 - [勉強の合間の昼寝は記憶に効く？研究でわかった昼寝のとり方（長さ・時間帯・起きた後）](https://dokugaku.seadice.win/nap-for-study-memory/): 午後の昼寝は記憶を小〜中程度助ける。勉強の後に、午後の早い時間に10〜30分。起きた直後は軽い復習から始める
 - [ポモドーロ・テクニック（25分勉強＋休憩）は効くのか。休憩と集中の研究](https://dokugaku.seadice.win/pomodoro-technique-breaks/): 時間を決めて休むと疲れや気の散りが減った実験はあるが逆の結果もあり、成績向上や「25分」が最適という証拠はない
 - [勉強中にスマホを見て集中が切れた。どう戻る？中断から立て直す研究でわかったやり方](https://dokugaku.seadice.win/refocus-after-phone-distraction/): 数秒の中断でも「どこまでやったか」は抜けやすい。スマホを遠ざけ、1つ前の手順から確かめ直し、再開メモを残す。
+- [勉強する人の睡眠チェック表と2週間の記録表。睡眠と成績の研究から作った使い方](https://dokugaku.seadice.win/sleep-log-checklist-for-learners/): 睡眠の長さ・質・規則正しさは成績と結びつく。研究をもとにしたチェック表と2週間の記録表、15日目の見直し表。
 - [勉強中のスマホはどこに置く？集中を守る置き方と通知の切り方（研究とその再現）](https://dokugaku.seadice.win/smartphone-away-while-studying/): 通知は見なくても集中を乱す。勉強前に音と振動まで切り、できれば別の部屋へ。置き場所の効果は再現されない研究もある
 - [徹夜・寝不足で勉強してしまった。翌日からどう立て直す？睡眠不足と学習の研究でわかった戻し方](https://dokugaku.seadice.win/study-after-sleep-loss-recovery/): 寝不足の日は新しい範囲を覚えず思い出す練習と短い昼寝に。睡眠は1晩で戻りきらないので、2〜3日は量を控えめにする。
 - [勉強する場所を変えると覚えやすいのか。場所と記憶（文脈依存記憶）の研究](https://dokugaku.seadice.win/study-location-context-dependent-memory/): 覚えた場所で思い出しやすい効果は実在するが小さめ。場所を思い浮かべるだけで差は縮む
@@ -101,6 +102,7 @@
 - [勉強をサボった・試験に失敗した自分を責めてしまう。やる気を取り戻すには？自分への思いやり（セルフ・コンパッション）の研究](https://dokugaku.seadice.win/self-compassion-after-study-setback/): 失敗の後は責めるより、認めて自分に思いやりを向けた方が次の勉強に向かいやすい。責めずに立て直す5つの手順。
 - [勉強に燃え尽きたら使うチェック表と2週間の立て直し表。学業の燃え尽き（バーンアウト）の研究から](https://dokugaku.seadice.win/study-burnout-recovery/): 疲れ切る・冷める・できない感のどれが強いかを確かめるチェック表と、休む時間・運動・15分の課題で戻す2週間の表。
 - [テストで頭が真っ白になるのはなぜか。試験不安と「不安を書き出す」研究](https://dokugaku.seadice.win/test-anxiety-expressive-writing/): 頭が真っ白になるのは不安が注意を奪うため。試験前に不安を書き出す方法は追試で再現されなかった
+- [勉強を後回しにしてしまうのはなぜ？先延ばしの研究でわかった3つの理由](https://dokugaku.seadice.win/why-procrastinate-studying/): 先延ばしは課題の嫌さ・成果までの遠さ・嫌な気分から逃げたい気持ちと結びつく。理由ごとに試せる対策つき。
 
 ### AIと独学
 

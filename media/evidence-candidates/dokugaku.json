@@ -196,5 +196,73 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "dokugaku-why-procrastinate-studying-temporal-discounting",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zhang & Ma, \"Temporal discounting predicts procrastination in the real world\" (Scientific Reports, 2024)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-024-65110-4",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/why-procrastinate-studying/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "なんでギリギリまでやらないの？",
+        "body": "締め切りが何か月も先だと、なぜか手が動かない。この「後回し」には、先のご褒美を小さく感じるクセが関係している、という説があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "109日間の課題を追いかけた",
+        "body": "ニューヨーク大学の学生84人が、学期中に7時間ぶんの研究参加を終える課題をどう進めたかを記録。「今の少ないお金」と「後の多いお金」の選び方で、先の報酬をどれだけ割り引くかも測った。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "先を割り引く人ほど後半に回す",
+        "body": "先のご褒美を大きく割り引く人ほど、課題を学期の後半に回していた（相関r=0.28）。遠いご褒美が小さく感じられることが、後回しの一因になっているらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "測り方で結果が変わる",
+        "body": "「終えた日」や質問票で後回しを測ると、はっきりした関係は出なかった。対象は1つの大学の学生で、勉強そのものではない課題。相関なので原因とまでは言えない。"
+      }
+    ],
+    "addedAt": "2026-10-12"
+  },
+  {
+    "id": "dokugaku-sleep-log-checklist-for-learners-night-before-exam",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Okano et al., \"Sleep quality, duration, and consistency are associated with better academic performance in college students\" (npj Science of Learning, 2019)",
+    "sourceUrl": "https://doi.org/10.1038/s41539-019-0055-z",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/sleep-log-checklist-for-learners/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "試験の前の晩さえ寝ればいい",
+        "body": "ふだんは夜ふかしでも、試験の前日だけしっかり寝れば大丈夫。そう思っている人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "学生88人の睡眠を14週間記録",
+        "body": "MITの化学の講義を受ける大学生88人が、リストバンド型の機器を14週間つけて生活し、睡眠と成績の関係が調べられた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効いていたのはふだんの睡眠",
+        "body": "試験前夜の睡眠と点数には、はっきりした関係がなかった。一方、睡眠の長さ・質・規則正しさの3つで、成績のばらつきの約24%を説明できた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "睡眠が成績を上げたのか",
+        "body": "相関の研究なので、よく眠ったから成績が良かったとは言い切れない。対象は1つの大学の1つの講義で、睡眠の質は市販機器の独自の指標だった。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]
