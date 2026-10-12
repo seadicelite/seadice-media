@@ -220,5 +220,39 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "research-interrupted-work-refocus-research-momentary",
+    "category": "集中力",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Altmann EM, Trafton JG & Hambrick DZ, \"Momentary interruptions can derail the train of thought\" (Journal of Experimental Psychology: General, 2014)",
+    "sourceUrl": "https://doi.org/10.1037/a0030986",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/interrupted-work-refocus-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ほんの数秒の邪魔でも、集中って乱れる？",
+        "body": "作業中にちょっと話しかけられただけなのに、戻ったら「どこまでやったっけ」ってなることあるよね。数秒くらいなら平気、と思いたいけど実際はどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "決まった順番の手順に、短い中断をはさんだ",
+        "body": "順番どおりに手順を進める課題の途中で、ほんの数秒の中断を入れて、中断の直後にどんなミスが増えるかを調べた実験なんだって。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "2.8秒で2倍、4.4秒で3倍",
+        "body": "平均2.8秒の中断で、手順の順番を間違える率がふだんの2倍に、平均4.4秒だと3倍になった。順番以外のミスは増えなかったらしい。乱れたのは「いまどこにいるか」の記憶みたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実際の仕事でも同じ倍率？",
+        "body": "これは画面上の人工的な課題での結果。ふだんの仕事や勉強で、同じくらいミスが増えるかまではわかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]

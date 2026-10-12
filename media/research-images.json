@@ -1232,5 +1232,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Paper_Mate_Union_Pen_%26_Pencil_Rubber_Eraser_%2816972392718%29.jpg/500px-Paper_Mate_Union_Pen_%26_Pencil_Rubber_Eraser_%2816972392718%29.jpg",
   "og": "https://research.seadice.win/img/wrong-answer-review-memory-research-og.jpg",
   "local": true
+ },
+ "interrupted-work-refocus-research": {
+  "file": "File:Stack of four sticky notes.jpg",
+  "src": "/img/interrupted-work-refocus-research.webp",
+  "src640": "/img/interrupted-work-refocus-research-sm.webp",
+  "w": 960,
+  "h": 719,
+  "alt": "重ねた付せん",
+  "artist": "J.P. C.",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Stack_of_four_sticky_notes.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stack_of_four_sticky_notes.jpg/960px-Stack_of_four_sticky_notes.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stack_of_four_sticky_notes.jpg/500px-Stack_of_four_sticky_notes.jpg",
+  "og": "https://research.seadice.win/img/interrupted-work-refocus-research-og.jpg",
+  "local": true
  }
 }

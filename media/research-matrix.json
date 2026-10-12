@@ -78,7 +78,9 @@
           "walking-boosts-creativity",
           "focus-microbreaks-pomodoro"
         ],
-        "stuck": []
+        "stuck": [
+          "interrupted-work-refocus-research"
+        ]
       }
     },
     {
