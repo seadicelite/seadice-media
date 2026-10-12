@@ -1355,8 +1355,8 @@
  },
  "sleep-deprived-next-day-focus-research": {
   "file": "File:Cup of coffee on café table.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cup_of_coffee_on_caf%C3%A9_table.jpg/960px-Cup_of_coffee_on_caf%C3%A9_table.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cup_of_coffee_on_caf%C3%A9_table.jpg/500px-Cup_of_coffee_on_caf%C3%A9_table.jpg",
+  "src": "/img/sleep-deprived-next-day-focus-research.jpg",
+  "src640": "/img/sleep-deprived-next-day-focus-research-sm.jpg",
   "w": 960,
   "h": 720,
   "alt": "テーブルの上のコーヒーカップ",
@@ -1364,12 +1364,17 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Cup_of_coffee_on_caf%C3%A9_table.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cup_of_coffee_on_caf%C3%A9_table.jpg/960px-Cup_of_coffee_on_caf%C3%A9_table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cup_of_coffee_on_caf%C3%A9_table.jpg/500px-Cup_of_coffee_on_caf%C3%A9_table.jpg",
+  "og": "https://research.seadice.win/img/sleep-deprived-next-day-focus-research.jpg",
+  "local": true
  },
  "procrastination-self-help-not-working-research": {
   "file": "File:WallCalendar.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WallCalendar.jpg/960px-WallCalendar.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WallCalendar.jpg/500px-WallCalendar.jpg",
+  "src": "/img/procrastination-self-help-not-working-research.jpg",
+  "src640": "/img/procrastination-self-help-not-working-research-sm.jpg",
   "w": 960,
   "h": 720,
   "alt": "壁に掛けたカレンダー",
@@ -1377,6 +1382,29 @@
   "license": "Public domain",
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:WallCalendar.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WallCalendar.jpg/960px-WallCalendar.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WallCalendar.jpg/500px-WallCalendar.jpg",
+  "og": "https://research.seadice.win/img/procrastination-self-help-not-working-research.jpg",
+  "local": true
+ },
+ "affect-labeling-name-your-feelings-research": {
+  "file": "File:Woman writing on a notebook with a pen.jpg",
+  "src": "/img/affect-labeling-name-your-feelings-research.jpg",
+  "src640": "/img/affect-labeling-name-your-feelings-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "ノートとペン",
+  "artist": "Kristin Hardwick",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_writing_on_a_notebook_with_a_pen.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Woman_writing_on_a_notebook_with_a_pen.jpg/960px-Woman_writing_on_a_notebook_with_a_pen.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Woman_writing_on_a_notebook_with_a_pen.jpg/500px-Woman_writing_on_a_notebook_with_a_pen.jpg",
+  "og": "https://research.seadice.win/img/affect-labeling-name-your-feelings-research.jpg",
+  "local": true
  }
 }

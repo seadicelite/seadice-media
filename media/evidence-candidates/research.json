@@ -594,5 +594,73 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-affect-labeling-name-your-feelings-research-predict",
+    "category": "気分・ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lieberman et al., \"Subjective responses to emotional stimuli during labeling, reappraisal, and distraction\" (Emotion, 2011)",
+    "sourceUrl": "https://doi.org/10.1037/a0023503",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/affect-labeling-name-your-feelings-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "気持ちを言葉にすると楽になる？",
+        "body": "嫌な気持ちを「不安」「イライラ」と言葉にしたら、かえってつらくなりそうな気がするよね。実際どうなのか、4つの実験で調べた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "嫌な写真に言葉を選ぶ",
+        "body": "嫌な写真を見ながら、写真の下の2つの言葉から気持ちに合うほうを選んでもらったよ。ただ見るだけのときと、苦痛の感じ方を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "苦痛は小さくなったのに",
+        "body": "言葉を選んだほうが苦痛は小さくて、気持ちをとらえ直す方法と同じくらいだったらしい。でも参加者は、体験した後でも「言葉にするとつらくなる」と予想していたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実験室の2択の話",
+        "body": "2択の言葉を選ぶ実験室の課題で、日常で自分の言葉にする場合と同じかはわからないんだ。楽しい写真では、楽しさも小さくなったよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-affect-labeling-name-your-feelings-research-spider",
+    "category": "気分・ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kircanski et al., \"Feelings into words: Contributions of language to exposure therapy\" (Psychological Science, 2012)",
+    "sourceUrl": "https://doi.org/10.1177/0956797612443830",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/affect-labeling-name-your-feelings-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "クモが苦手な人の実験",
+        "body": "クモが苦手な人が、本物のクモに少しずつ近づく練習をした研究があるよ。そのときの「心の中の扱い方」を4つのグループで変えたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "言葉にする・とらえ直す・気をそらす",
+        "body": "気持ちを言葉にする、とらえ直す、気をそらす、何もしない、の4グループ。1週間後、別の場所で別のクモに近づいてもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "体の反応がいちばん小さかった",
+        "body": "言葉にしたグループは、皮膚の汗の反応がほかのグループより小さかったらしい。不安や恐怖の言葉を多く使った人ほど、恐怖反応がよく下がったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "怖さの感じ方は同じ",
+        "body": "本人が答えた「怖さ」は、グループで差がなかったんだ。言葉の量との関係も相関で、原因かどうかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
