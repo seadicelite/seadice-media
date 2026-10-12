@@ -28,6 +28,7 @@
   "themeColor": "#00FFD1",
   "sourceLabel": "著者 et al., \"論文タイトル\" (誌名, 年)",
   "sourceUrl": "https://doi.org/...",
+  "studyType": "メタ分析 | ランダム化比較試験 | レビュー | 観察研究 | 実験（論文の方法を読んで決める）",
   "articleUrl": "公開した記事のURL",
   "articleSite": "メディア名（例: 悩みの科学）",
   "cards": [
