@@ -480,4 +480,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://bohan.seadice.win/fraud-awareness-overconfidence-gap/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
