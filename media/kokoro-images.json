@@ -2200,5 +2200,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_%E5%9B%9B%E6%9D%A1_Shijo_FORZA_%E9%85%92%E5%BA%97_Hotel_Forza_Kyoto_Shijo_Kawaramachi_room_bathroom_white_bathtub_water_with_%E6%B2%90%E6%B5%B4%E7%B2%89_Bath_powder_in_green_yellow_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%80%A0_June_2026_N13P_05.jpg/500px-thumbnail.jpg",
   "og": "https://mentalai.seadice.win/img/bath-soak-fatigue-recover.jpg",
   "local": true
+ },
+ "touch-hug-stress-relief": {
+  "file": "File:Crew 2016-01-10 (Unsplash xCmvrpzctaQ).jpg",
+  "src": "/img/touch-hug-stress-relief.jpg",
+  "src640": "/img/touch-hug-stress-relief-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "つながれた二人の手",
+  "artist": "Crew crew",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Crew_2016-01-10_(Unsplash_xCmvrpzctaQ).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Crew_2016-01-10_%28Unsplash_xCmvrpzctaQ%29.jpg/960px-Crew_2016-01-10_%28Unsplash_xCmvrpzctaQ%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Crew_2016-01-10_%28Unsplash_xCmvrpzctaQ%29.jpg/500px-Crew_2016-01-10_%28Unsplash_xCmvrpzctaQ%29.jpg",
+  "og": "https://mentalai.seadice.win/img/touch-hug-stress-relief.jpg",
+  "local": true
  }
 }

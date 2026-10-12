@@ -234,5 +234,39 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "kokoro-touch-hug-stress-relief-robot-touch",
+    "category": "AIと心",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Packheiser J, Hartmann H, Fredriksen K, Gazzola V, Keysers C, Michon F, \"A systematic review and multivariate meta-analysis of the physical and mental health benefits of touch interventions\" (Nature Human Behaviour, 2024)",
+    "sourceUrl": "https://doi.org/10.1038/s41562-024-01841-8",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/touch-hug-stress-relief/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ロボットになでられても癒やされる？",
+        "body": "人と触れ合う機会が減ると、ロボットやぬいぐるみで代わりになるのかな、って気になるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "137件の研究をまとめた分析",
+        "body": "マッサージやなでるなど「触れる」方法と、触れない方法を比べた研究137件をまとめた分析があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "人のほうが心には効いていた",
+        "body": "人に触れられると、大人の落ち込みは中くらい（効果の大きさ0.59）和らいでいた。心への効果は人からが0.58、ロボットや物からは0.34で、小さめだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "触れたかは隠せない",
+        "body": "触れたかどうかを参加者に隠せない研究ばかりで、小さな研究ほど効果が大きく出る偏りもあった。研究の多くはマッサージで、病気のある人が対象だよ。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]
