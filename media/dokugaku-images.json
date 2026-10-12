@@ -869,5 +869,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pen_6.jpg/500px-Pen_6.jpg",
   "og": "https://dokugaku.seadice.win/img/ai-practice-questions-how-to.jpg",
   "local": true
+ },
+ "mind-wandering-while-reading": {
+  "file": "File:Old books (Unsplash).jpg",
+  "src": "/img/mind-wandering-while-reading.jpg",
+  "src640": "/img/mind-wandering-while-reading-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "積み重なった古い本",
+  "artist": "Eli Francis elifrancis",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Old_books_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Old_books_%28Unsplash%29.jpg/960px-Old_books_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Old_books_%28Unsplash%29.jpg/500px-Old_books_%28Unsplash%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/mind-wandering-while-reading.jpg",
+  "local": true
  }
 }

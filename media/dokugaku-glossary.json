@@ -252,5 +252,14 @@
     "slugs": [
       "refocus-after-phone-distraction"
     ]
+  },
+  {
+    "id": "mind-wandering",
+    "term": "マインドワンダリング",
+    "en": "Mind wandering",
+    "def": "目の前の作業から注意がそれ、関係のないことを考えている状態。読書中に起きると、字は追っていても内容が頭に入りにくくなります。気づかないまま続く状態はゾーンアウトと呼ばれます。",
+    "slugs": [
+      "mind-wandering-while-reading"
+    ]
   }
 ]
