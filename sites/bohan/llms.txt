@@ -115,6 +115,7 @@
 ## ツールとアプリ（無料・登録不要）
 
 - 一覧: https://bohan.seadice.win/tools/
+- [空き巣の目で、わが家を点検](https://bohan.seadice.win/akisu-me/): Webツール。空き巣が下見で見る「留守か・近づけるか・時間がかかるか」の順に、わが家の隙と直し方がわかる
 - [この連絡、詐欺かも？チェック](https://bohan.seadice.win/sagi-check/): Webツール。電話・メール・SNSで当てはまるサインを選ぶと、すぐやることと相談先がわかる
 - [AI時代の防犯 セルフ点検](https://bohan.seadice.win/ai-tenken/): Webツール。パスワード・電話・SNS・AIチャット・家族の24項目で、できた対策に印をつける
 - [家族の合言葉カード](https://bohan.seadice.win/aikotoba/): Webツール。AIの偽物の声に備える合言葉の決め方と、印刷できる手順カード

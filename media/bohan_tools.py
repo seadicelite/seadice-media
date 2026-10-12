@@ -1,4 +1,4 @@
-"""防犯メディアの個人向けWebツール（/sagi-check/ /ai-tenken/ /aikotoba/）を media/bohan-pages.json に書き出す。
+"""防犯メディアの個人向けWebツール（/akisu-me/ /sagi-check/ /ai-tenken/ /aikotoba/）を media/bohan-pages.json に書き出す。
 
   python3 media/bohan_tools.py && python3 media/build.py bohan
 
@@ -6,6 +6,7 @@
 入力はブラウザの中だけで扱い、送信しない。保存するのはセルフ点検のチェック状態だけ（localStorage）。
 - 詐欺かもチェック: SIGNS に項目を足す（記事が増えたら、その記事の結論から1〜2文で）
 - セルフ点検: TENKEN に項目を足す（記事の「今日からできること」から）
+- 空き巣の目で点検: AKISU に項目を足す（空き巣の記事の「今日からできること」から。段階は下見の3点）
 - 記事 → ツールのリンク（media/bohan-toollinks.json）は SIGNS / TENKEN の記事slugから自動で作る
 ページの型は docs/quality/tool.md。
 """
@@ -114,7 +115,8 @@ CSS = (".bt-box{background:var(--card);border:1px solid var(--accent);border-rad
        "details{background:var(--card);border:1px solid var(--border);border-radius:12px;margin:10px 0;padding:12px 16px}summary{cursor:pointer;font-weight:700;font-size:15px}details p{font-size:15px;margin-top:8px}"
        ".sources{margin-top:40px;padding-top:20px;border-top:1px solid var(--border)}.sources h2{font-size:14px;color:var(--muted)}.sources li{font-size:12px;color:var(--muted);margin:8px 0 8px 18px;word-break:break-all}.sources a{color:var(--link)}")
 
-TOOLS = [("sagi-check", "この連絡、詐欺かも？チェック", "電話・メール・SNSの連絡で、当てはまるサインを選ぶと、すぐやることがわかる"),
+TOOLS = [("akisu-me", "空き巣の目で、わが家を点検", "空き巣が下見で見る「留守か・近づけるか・時間がかかるか」の順に、わが家の隙を見つける"),
+         ("sagi-check", "この連絡、詐欺かも？チェック", "電話・メール・SNSの連絡で、当てはまるサインを選ぶと、すぐやることがわかる"),
          ("ai-tenken", "AI時代の防犯 セルフ点検", "お金をかけずにできる24の対策を、自分の進み具合で確かめる"),
          ("aikotoba", "家族の合言葉カード", "AI音声のなりすましに備える合言葉の決め方と、印刷して使える手順カード")]
 
@@ -276,7 +278,120 @@ ak_css = ("@media print{body{background:#fff}body *{visibility:hidden}#ak-card,#
 T_CSS = (".bt-t{width:100%;border-collapse:collapse;margin:16px 0;font-size:14px}.bt-t caption{text-align:left;margin-bottom:6px}"
          ".bt-t th,.bt-t td{border:1px solid var(--border);padding:10px;text-align:left;vertical-align:top}.bt-t th{background:var(--card)}")
 
+# ---- 空き巣の目で、わが家を点検 ----
+# 警察庁「侵入者プロファイリング」の下見の3点（留守か・入りやすいか・逃げやすいか）の順に、外から見える隙を選ぶ。
+# (id, 段階, 空き巣から見える隙, 直し方, 所要, 並べ替え用の秒数, 記事slug)
+AKISU = [
+    ("r1", "rusu", "郵便受けに、新聞や手紙がたまっていることがある",
+     "旅行や帰省の前は新聞を止め、郵便物は家族や近所の人に取ってもらいます。", "10分", 600, "vacation-empty-home-burglary"),
+    ("r2", "rusu", "旅行や外出先の写真を、出かけている間にSNSに載せることがある",
+     "写真は帰ってから載せます。「いま家を空けている」ことを知らせずに済みます。", "0分", 0, "sns-photo-location-home"),
+    ("r3", "rusu", "家を長く空けるとき、隣の人に伝えていない",
+     "隣の人に留守を伝えると、見慣れない人や車に気づいてもらえます。", "2分", 120, "vacation-empty-home-burglary"),
+    ("r4", "rusu", "夜に留守にすると、家の外が真っ暗になる",
+     "玄関灯は暗くなる前からつけておきます。今ある照明にタイマー機能があれば、それを使うだけで十分です。", "3分", 180, "burglary-daylight-darkness-risk"),
+    ("c1", "chika", "窓や玄関の前が、植木や荷物で道路や隣の家から見えにくい",
+     "窓の前の植木を剪定し、荷物をどけて、道路や隣の家から見通せるようにします。", "5分", 300, "burglary-daylight-darkness-risk"),
+    ("c2", "chika", "塀や窓の近くに、脚立・台・箱など足場になる物がある",
+     "足場になる物を片付けます。侵入者は窓の近くの足場と死角を見ています。", "30分", 1800, "window-glass-breaking-burglary"),
+    ("c3", "chika", "近所の人とあいさつすることが、ほとんどない",
+     "近所の人にあいさつします。犯行をあきらめた理由で多いのは「近所の人に声をかけられたり、じろじろ見られた」ことです。", "毎日数秒", 5, "burglar-target-selection-5-minutes"),
+    ("c4", "chika", "合鍵を、植木鉢の下・郵便受け・メーターボックスなど家の外に置いている",
+     "合鍵は外に置かず、必要な本数だけにして持ち歩きます。侵入者はこうした隠し場所をよく見ています。", "1分", 60, "burglar-target-selection-5-minutes"),
+    ("j1", "jikan", "ゴミ出しや近所への買い物くらいなら、鍵をかけずに出かける",
+     "数分の外出でも、窓と玄関の鍵をかけます。鍵のかけ忘れは、一戸建てで2番目、共同住宅で1番目に多い侵入手口です。", "10秒", 10, "burglar-target-selection-5-minutes"),
+    ("j2", "jikan", "窓に補助の鍵があるのに、ふだんは使っていない",
+     "クレセント錠と補助の鍵の両方をかけます。窓を開けるまでの時間が増えます。", "10秒", 10, "window-glass-breaking-burglary"),
+    ("j3", "jikan", "雨戸やシャッターがあるのに、出かけるときに閉めていない",
+     "外出するときは雨戸やシャッターを閉めます。警察庁がガラス破りの対策として挙げている方法です。", "1分", 60, "window-glass-breaking-burglary"),
+    ("j4", "jikan", "家にいるときや寝るときは、玄関や窓の鍵をかけていない",
+     "在宅中も玄関の鍵とドアガードをかけます。家の人がいるかどうかに関係なく、窓ガラスを割って押し入る手口があります。", "5秒", 5, "home-invasion-robbery-at-home"),
+    ("j5", "jikan", "「オートロックだから」「高い階だから」と、部屋の玄関やベランダの窓を開けておくことがある",
+     "建物の入口と部屋の鍵は別に考えます。4階建以上の共同住宅でも、侵入手口の1位は鍵のかけ忘れ、侵入口の1位は玄関でした。", "10秒", 10, "auto-lock-apartment-burglary"),
+    ("j6", "jikan", "今の家に入居したとき、鍵を交換したかを確かめていない",
+     "管理会社や大家さんに、入居前に鍵を交換したかを聞きます。4階建以上の共同住宅では、侵入の24.6%が合かぎによるものでした。", "10分", 600, "moving-new-home-security"),
+]
+AKISU_STAGES = [
+    ("rusu", "1. 留守かどうかを見る", "空き巣は人と顔を合わせずに済む家を探します。留守を確かめる方法で最も多いのはインターホンを鳴らすこと、次に見るのが郵便受けです。",
+     "留守がわかりやすい", "留守がわかりにくい"),
+    ("chika", "2. 見られずに近づけるかを見る", "空き巣が避けたいのは、人に見られることです。死角・足場・近所の目を見ています。",
+     "見られずに近づけそう", "近づくと見られそう"),
+    ("jikan", "3. 入るのに時間がかかるかを見る", "侵入に5分かかると約7割が、10分以上かかるとほとんどがあきらめると、警察庁は紹介しています。",
+     "すぐ入れそう", "時間がかかりそう"),
+]
+AKISU_NEAR = ("a1", "この1〜2か月の間に、家や近所で空き巣の被害があった", "repeat-burglary-victimization")
+
+AM_FAQ = [
+    ("空き巣は、どんな家を狙いますか？",
+     "警察庁によると、空き巣は下見で「留守か」「入りやすいか」「逃げやすいか」の3点を確かめます。研究では、家の豊かさより、犯人の家からの近さや入りやすさの方が狙われやすさに強く影響していました。"),
+    ("お金をかけずにできる対策で、いちばん大事なものは？",
+     "短い外出でも、今ある鍵を全部かけることです。鍵のかけ忘れは、一戸建てで2番目、共同住宅で1番目に多い侵入手口です（警察庁、令和7年）。"),
+    ("隙が0個なら、空き巣に入られませんか？",
+     "入られないとは言い切れません。この点検は、外から見える隙のうち、記事で調べた代表的なものだけを並べています。逃げやすさ（駅に近い、人通りが少ないなど）のように、家では変えられない条件もあります。"),
+    ("選んだ内容はどこかに送られますか？", "送られません。結果はすべてブラウザの中で出し、保存もしません。"),
+]
+
+
+def _am_row(i, t):
+    return f'<label><input type="checkbox" value="{i}"><span>{E(t)}</span></label>'
+
+
+am_rows = "".join(
+    f'<h2>{E(sl)}</h2><p class="bt-sub" style="padding:0 4px 6px">{E(sd)}</p>'
+    + "".join(_am_row(i, t) for i, g, t, *_ in AKISU if g == sk)
+    for sk, sl, sd, _, _ in AKISU_STAGES)
+am_rows += ('<h2>4. 近くで被害があったか</h2><p class="bt-sub" style="padding:0 4px 6px">空き巣は、一度成功した家や、その近くに戻ってくることがあります。</p>'
+            + _am_row(AKISU_NEAR[0], AKISU_NEAR[1]))
+am_data = json.dumps({"items": {i: [g, t, f, m, sec, s, TITLES.get(s, s)] for i, g, t, f, m, sec, s in AKISU},
+                      "stages": [[k, {"rusu": "留守か", "chika": "近づけるか", "jikan": "時間がかかるか"}[k], bad, good] for k, l, _, bad, good in AKISU_STAGES],
+                      "near": [AKISU_NEAR[2], TITLES.get(AKISU_NEAR[2], AKISU_NEAR[2])]}, ensure_ascii=False)
+am_body = (ld("空き巣の目で、わが家を点検", "akisu-me",
+              "空き巣が下見で確かめる「留守か・見られずに近づけるか・入るのに時間がかかるか」の順に、わが家の外から見える隙を選ぶと、空き巣から見た下見メモと、手間の小さい順の直し方がわかる無料ツール。警察庁の資料と研究にもとづく。登録不要・広告なし。", AM_FAQ)
+ + '<p>空き巣は、入る前に家を「下見」します。見ているのは<strong>留守か・見られずに近づけるか・入るのに時間がかかるか</strong>です。その順に、わが家に当てはまるものを選んでください。空き巣の目に見える隙と、手間の小さい順の直し方を表示します。無料・登録不要で、選んだ内容はどこにも送られません。</p>'
+ + '<p class="bt-sub">家の外に出て、道路から自分の家を眺めながら選ぶと、空き巣と同じ景色で確かめられます。</p>'
+ + f'<form class="bt-box" id="am" onsubmit="return false">{am_rows}<button type="submit" class="bt-btn">空き巣の目で見る</button></form>'
+ + '<div class="bt-res" id="am-out" aria-live="polite" hidden></div>'
+ + '<p class="answer"><strong>結論：空き巣が選ぶのは、豊かな家より「手早く、見られずに入れそうな家」です。</strong>留守のサインを消し、死角と足場を減らし、短い外出でも鍵を全部かけると、空き巣の目には「面倒な家」に見えます。どれもお金はかかりません。</p>'
+ + '<h2>なぜ「空き巣の目」で点検するのか</h2><p>空き巣は、慣れた手順で家を品定めしています。経験の多い侵入窃盗犯50人への聞き取りでは、45人が決まったパターンで家の中を物色しており、手慣れた習慣で動いていました。3か国の侵入窃盗1,835件の分析では、犯人の家に近い地域や一戸建ての多い地域ほど狙われやすく、地域の豊かさは一貫した影響を示しませんでした（'
+ + art("burglar-target-selection-5-minutes") + '）。</p>'
+ + '<p>守る側も、相手が見る点に合わせて直すのがいちばん無駄がありません。英国の犯罪調査では、ドアと窓の鍵に屋外の照明などを組み合わせた家は、何も対策がない家より侵入被害から20倍以上守られていました。</p>'
+ + '<table class="bt-t"><caption class="bt-sub">空き巣の下見と、家でできること</caption><thead><tr><th>空き巣が見ること</th><th>家でできること</th></tr></thead><tbody>'
+ '<tr><td>留守か（インターホン・郵便受け）</td><td>新聞と郵便を止める、隣に伝える、外出中の写真は帰ってから載せる</td></tr>'
+ '<tr><td>入りやすいか（死角・足場）</td><td>植木を剪定する、足場になる物を片付ける、合鍵を外に置かない</td></tr>'
+ '<tr><td>時間がかかるか（鍵）</td><td>短い外出でも鍵を全部かける、補助の鍵と雨戸を使う</td></tr>'
+ '<tr><td>逃げやすいか（人通り・近所の目）</td><td>近所の人にあいさつする</td></tr></tbody></table>'
+ + '<div class="bt-note">戸締まり・見通し・手入れ・被害後の備えを、犯罪学の4原則でもう少しくわしく確かめたいときは、<a href="https://hanzaigaku.seadice.win/bouhan-check/">自宅の防犯チェック（18項目）</a>を使えます。</div>'
+ + faq_html(AM_FAQ) + other_tools("akisu-me")
+ + '<div class="sources"><h2>出典</h2><ol>'
+ '<li>警察庁「住まいる防犯110番 侵入者プロファイリング（心理と行動）」 <a href="https://www.npa.go.jp/safetylife/seianki26/theme_a/a_e_1.html" rel="noopener">https://www.npa.go.jp/safetylife/seianki26/theme_a/a_e_1.html</a></li>'
+ '<li>警察庁「住まいる防犯110番 データで見る侵入犯罪の脅威」（令和7年のデータ） <a href="https://www.npa.go.jp/safetylife/seianki26/theme_a/a_b_1.html" rel="noopener">https://www.npa.go.jp/safetylife/seianki26/theme_a/a_b_1.html</a></li>'
+ '<li>警察庁「住まいる防犯110番 手口で見る侵入犯罪の脅威」 <a href="https://www.npa.go.jp/safetylife/seianki26/theme_a/a_d_1.html" rel="noopener">https://www.npa.go.jp/safetylife/seianki26/theme_a/a_d_1.html</a></li>'
+ '<li>Townsley, M., et al. (2015). Burglar target selection: A cross-national comparison. <i>Journal of Research in Crime and Delinquency</i>, 52(1), 3-31. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4361488/" rel="noopener">https://pmc.ncbi.nlm.nih.gov/articles/PMC4361488/</a></li>'
+ '<li>Tseloni, A., Thompson, R., Grove, L., Tilley, N., &amp; Farrell, G. (2017). The effectiveness of burglary security devices. <i>Security Journal</i>, 30(2), 646-664. <a href="https://doi.org/10.1057/sj.2014.30" rel="noopener">https://doi.org/10.1057/sj.2014.30</a></li>'
+ '<li>個々の数字の出典は、各解説記事の末尾にあります。</li></ol></div>'
+ + "<script>(function(){var D=" + am_data.replace("</", "<\\/") + r""";
+function e(s){return String(s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+function it(i){var d=D.items[i];return '<div class="bt-item"><b>'+e(d[1])+'</b>'+e(d[2])+'<span class="bt-sub" style="display:block">所要 '+e(d[3])+' ・ <a href="/'+d[5]+'/">'+e(d[6])+'</a></span></div>'}
+document.getElementById('am').addEventListener('submit',function(){
+ var ids=[].map.call(document.querySelectorAll('#am input:checked'),function(i){return i.value}),near=ids.indexOf('a1')>=0,o=document.getElementById('am-out');
+ ids=ids.filter(function(i){return D.items[i]});
+ var memo=D.stages.map(function(s){var n=ids.filter(function(i){return D.items[i][0]===s[0]}).length;
+  return '<div class="bt-item"><b>'+e(s[1])+'：'+(n?e(s[2])+'（隙 '+n+'）':e(s[3]))+'</b></div>'}).join('');
+ var h='<div class="bt-card'+(ids.length?' alert':'')+'"><h3>空き巣の下見メモ</h3>'+memo
+  +'<p style="margin-top:10px">'+(ids.length?'空き巣の目には、隙が <strong>'+ids.length+' か所</strong>見えます。下の「先に直す3つ」から始めてください。':'選んだ中に、外から見える隙はありませんでした。ただし、この点検に無い隙もあります。短い外出でも鍵をかける習慣を続けてください。')+'</p></div>';
+ if(near)h+='<div class="bt-card alert"><h3>いまは警戒期間です</h3><p>空き巣は、一度成功した家や、その近くに戻ってくることがあります。英国の研究では、被害の後1〜2か月の間、300〜400メートル以内の家でも危険が高まっていました。この期間は、出かける前の施錠確認を声に出して行い、窓と鍵を見直します。 <a href="/'+D.near[0]+'/">'+e(D.near[1])+'</a></p></div>';
+ if(ids.length){var s=ids.slice().sort(function(a,b){return D.items[a][4]-D.items[b][4]});
+  h+='<div class="bt-card"><h3>先に直す3つ（手間の小さい順）</h3>'+s.slice(0,3).map(it).join('')+'</div>';
+  if(s.length>3)h+='<div class="bt-card"><h3>ほかの隙と直し方</h3>'+s.slice(3).map(it).join('')+'</div>'}
+ o.innerHTML=h;o.hidden=false;o.scrollIntoView({behavior:'smooth',block:'start'});
+});})();</script>""")
+
 PAGES = [
+    {"path": "akisu-me", "title": "空き巣の目で、わが家を点検",
+     "seo_title": "空き巣に狙われやすい家 チェック｜空き巣の下見の目で、わが家の隙を点検（無料・登録不要）",
+     "date": "2026-10-13",
+     "desc": "空き巣は下見で「留守か・見られずに近づけるか・入るのに時間がかかるか」を見ます。その順にわが家の隙を選ぶと、空き巣から見た下見メモと、手間の小さい順の直し方がわかる。警察庁の資料と研究にもとづく無料ツール。",
+     "body": am_body, "css": CSS + T_CSS},
     {"path": "sagi-check", "title": "この連絡、詐欺かも？チェック",
      "seo_title": "詐欺かも チェック｜電話・メール・SNSの連絡に当てはまるサインと、すぐやること（AI時代の手口に対応）",
      "date": "2026-10-11",
@@ -296,14 +411,14 @@ PAGES = [
 
 # 記事 → ツール（extras.tool_links が記事の関連記事の直前に出す）。各ツールが根拠に使っている記事に付ける
 LINKS = {}
-for path, items, idx in (("/sagi-check/", SIGNS, 3), ("/ai-tenken/", TENKEN, 4)):
+for path, items, idx in (("/akisu-me/", AKISU + [AKISU_NEAR + ("", "", 0, AKISU_NEAR[2])], 6), ("/sagi-check/", SIGNS, 3), ("/ai-tenken/", TENKEN, 4)):
     name, what = {p: (n, d) for p, n, d in TOOLS}[path.strip("/")]
     for it in items:
         LINKS.setdefault(it[idx], [])
         if not any(x[0] == path for x in LINKS[it[idx]]):
             LINKS[it[idx]].append([path, name, what])
 for s in ("ai-voice-clone-family-scam", "sns-video-voice-clone-risk"):
-    LINKS.setdefault(s, []).insert(0, ["/aikotoba/", TOOLS[2][1], TOOLS[2][2]])
+    LINKS.setdefault(s, []).insert(0, ["/aikotoba/"] + [[n, d] for p, n, d in TOOLS if p == "aikotoba"][0])
 LINKS.setdefault("ai-era-scam-checklist", [])
 for p, n, d in TOOLS:
     if not any(x[0] == "/" + p + "/" for x in LINKS["ai-era-scam-checklist"]):

@@ -1089,8 +1089,8 @@
  },
  "fraud-awareness-overconfidence-gap": {
   "file": "File:FTTR RTT56B Telephone 2.jpg",
-  "src": "/img/fraud-awareness-overconfidence-gap.jpg",
-  "src640": "/img/fraud-awareness-overconfidence-gap-sm.jpg",
+  "src": "/img/fraud-awareness-overconfidence-gap.webp",
+  "src640": "/img/fraud-awareness-overconfidence-gap-sm.webp",
   "w": 960,
   "h": 721,
   "alt": "ダイヤル式の電話機",
@@ -1099,10 +1099,9 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:FTTR_RTT56B_Telephone_2.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/FTTR_RTT56B_Telephone_2.jpg/960px-FTTR_RTT56B_Telephone_2.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/FTTR_RTT56B_Telephone_2.jpg/500px-FTTR_RTT56B_Telephone_2.jpg",
-  "og": "https://bohan.seadice.win/img/fraud-awareness-overconfidence-gap.jpg",
+  "og": "https://bohan.seadice.win/img/fraud-awareness-overconfidence-gap-og.jpg",
   "local": true
  }
 }
