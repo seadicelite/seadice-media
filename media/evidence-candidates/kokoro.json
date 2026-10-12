@@ -200,5 +200,39 @@
       }
     ],
     "addedAt": "2026-10-12"
+  },
+  {
+    "id": "kokoro-bath-soak-fatigue-recover-tub-vs-shower",
+    "category": "休息",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Goto Y, Hayasaka S, Kurihara S, Nakamura Y, \"Physical and Mental Effects of Bathing: A Randomized Intervention Study\" (Evidence-Based Complementary and Alternative Medicine, 2018)",
+    "sourceUrl": "https://doi.org/10.1155/2018/9521086",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/bath-soak-fatigue-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "疲れたら湯船につかるといい？",
+        "body": "「シャワーだけじゃ疲れが取れない」ってよく聞くよね。じゃあ実際、湯船とシャワーで何か違うのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ人で2週間ずつ比べた",
+        "body": "日本の健康な大人が、40℃のお湯に10分つかる2週間と、シャワーだけの2週間を、順番を入れかえて両方やってみた実験があるんだ。最後まで答えたのは33人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "疲れとストレスの点数が低め",
+        "body": "湯船の期間は、疲れの点数（0〜100）が平均42.0、シャワーの期間は52.2。ストレスも39.2と50.7で、湯船のほうが低かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "小さな実験で、思い込みも混ざるかも",
+        "body": "人数が少なく、自分がどちらをしているか隠せない実験。別の質問票では疲れの差ははっきりしなかった。熱いお湯への長湯は事故の危険もあるので、41℃以下・10分までが目安だよ。"
+      }
+    ],
+    "addedAt": "2026-10-12"
   }
 ]

@@ -2182,5 +2182,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Field_Notes_and_pencil_%28Unsplash%29.jpg/500px-Field_Notes_and_pencil_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/ai-offloading-decide-remember.jpg",
   "local": true
+ },
+ "bath-soak-fatigue-recover": {
+  "file": "File:JP 日本 Japan 京都 Kyoto 四条 Shijo FORZA 酒店 Hotel Forza Kyoto Shijo Kawaramachi room bathroom white bathtub water with 沐浴粉 Bath powder in green yellow 日本製造 June 2026 N13P 05.jpg",
+  "src": "/img/bath-soak-fatigue-recover.jpg",
+  "src640": "/img/bath-soak-fatigue-recover-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "お湯を張った浴室の浴槽",
+  "artist": "TKdows 2026",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_%E5%9B%9B%E6%9D%A1_Shijo_FORZA_%E9%85%92%E5%BA%97_Hotel_Forza_Kyoto_Shijo_Kawaramachi_room_bathroom_white_bathtub_water_with_%E6%B2%90%E6%B5%B4%E7%B2%89_Bath_powder_in_green_yellow_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%80%A0_June_2026_N13P_05.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_%E5%9B%9B%E6%9D%A1_Shijo_FORZA_%E9%85%92%E5%BA%97_Hotel_Forza_Kyoto_Shijo_Kawaramachi_room_bathroom_white_bathtub_water_with_%E6%B2%90%E6%B5%B4%E7%B2%89_Bath_powder_in_green_yellow_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%80%A0_June_2026_N13P_05.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_%E5%9B%9B%E6%9D%A1_Shijo_FORZA_%E9%85%92%E5%BA%97_Hotel_Forza_Kyoto_Shijo_Kawaramachi_room_bathroom_white_bathtub_water_with_%E6%B2%90%E6%B5%B4%E7%B2%89_Bath_powder_in_green_yellow_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%80%A0_June_2026_N13P_05.jpg/500px-thumbnail.jpg",
+  "og": "https://mentalai.seadice.win/img/bath-soak-fatigue-recover.jpg",
+  "local": true
  }
 }

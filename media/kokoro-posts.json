@@ -1,5 +1,14 @@
 [
   {
+    "slug": "bath-soak-fatigue-recover",
+    "category": "AI疲れ・情報疲れ",
+    "type": "guide",
+    "stage": "立て直す",
+    "date": "2026-10-12",
+    "title": "疲れが何週間も抜けず、シャワーで済ませる毎日。湯船に10分つかる2週間の実験では、疲れとストレスの点数がシャワーの期間より低かった",
+    "summary": "日本の33人の実験で、40℃・10分の入浴を2週間続けた期間は疲れとストレスの点数がシャワーより低かった。研究の限界と、事故を防ぐ入り方も。"
+  },
+  {
     "slug": "ai-offloading-decide-remember",
     "category": "AIとの付き合い方",
     "type": "guide",
