@@ -332,5 +332,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-why-similar-words-get-mixed-up-semantic-sets",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Nakata & Suzuki, \"Effects of massing and spacing on the learning of semantically related and unrelated words\" (Studies in Second Language Acquisition, 2019)",
+    "sourceUrl": "https://doi.org/10.1017/S0272263118000219",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-similar-words-get-mixed-up/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "果物の単語をまとめて覚えると混ざる？",
+        "body": "単語帳の「果物」のページをまとめて覚えたら、梨とぶどうがごっちゃに。似た単語は一緒に覚えた方が整理できそうなのに、なぜだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "似た単語とばらばらの単語を比べた",
+        "body": "日本の大学生133人が英単語と日本語訳48組を覚えた実験。半分は意味の近い単語、半分はばらばらの単語にして、テストの結果を比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "点数は同じ、でも取り違えが多い",
+        "body": "最後のテストの正答数には差がなかった。でも意味の近い単語では、同じグループの別の単語と取り違える誤りが多かった。間をあけて復習する効果は、ばらばらの単語の方で大きかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何千語も覚える独学でも同じか",
+        "body": "大学生が48組を覚えた実験の話。何か月もかけて大量の単語を覚える場合や、見た目の似た物の影響との切り分けは、まだはっきりしていない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

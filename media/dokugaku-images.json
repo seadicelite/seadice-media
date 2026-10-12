@@ -1137,5 +1137,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EBook_between_paper_books.jpg/500px-EBook_between_paper_books.jpg",
   "og": "https://dokugaku.seadice.win/img/why-screen-reading-harder-to-understand-og.jpg",
   "local": true
+ },
+ "why-similar-words-get-mixed-up": {
+  "file": "File:Anonymous Madrid Painter - Fruit Bowl with Plates of Grapes and Pears, glass and clay Vessels - Google Art Project.jpg",
+  "src": "/img/why-similar-words-get-mixed-up.jpg",
+  "src640": "/img/why-similar-words-get-mixed-up-sm.jpg",
+  "w": 960,
+  "h": 822,
+  "alt": "ぶどうと梨を盛った器を描いた静物画",
+  "artist": "Anonymous Madrid Painter",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Anonymous_Madrid_Painter_-_Fruit_Bowl_with_Plates_of_Grapes_and_Pears,_glass_and_clay_Vessels_-_Google_Art_Project.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Anonymous_Madrid_Painter_-_Fruit_Bowl_with_Plates_of_Grapes_and_Pears%2C_glass_and_clay_Vessels_-_Google_Art_Project.jpg/960px-Anonymous_Madrid_Painter_-_Fruit_Bowl_with_Plates_of_Grapes_and_Pears%2C_glass_and_clay_Vessels_-_Google_Art_Project.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Anonymous_Madrid_Painter_-_Fruit_Bowl_with_Plates_of_Grapes_and_Pears%2C_glass_and_clay_Vessels_-_Google_Art_Project.jpg/500px-Anonymous_Madrid_Painter_-_Fruit_Bowl_with_Plates_of_Grapes_and_Pears%2C_glass_and_clay_Vessels_-_Google_Art_Project.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-similar-words-get-mixed-up.jpg",
+  "local": true
  }
 }
