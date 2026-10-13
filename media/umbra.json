@@ -188,6 +188,22 @@
       "articles": [
         "ex-partner-social-media-checking-research"
       ]
+    },
+    {
+      "id": "attachment-style",
+      "name": "愛着スタイル診断",
+      "appStoreId": "6793424764",
+      "icon": "/img/apps/attachment-style.webp",
+      "catch": "恋人・友人・親など相手を選んで、見捨てられ不安と親密さの回避を点数に。4つの型のどこにいるかと、関係を安定させるヒントがわかる",
+      "hubLead": "「追いかけると逃げる」「返信が来ないと不安」など、愛着スタイルが関わる恋愛の悩みについての研究です。",
+      "theme": "愛着スタイル（見捨てられ不安・親密さの回避）が関わる恋愛の悩み。支配・暴力・トラウマボンディングなど、危険な関係から離れる話には付けない",
+      "articles": [
+        "attachment-style-relationship-compatibility",
+        "reply-anxiety-attachment-jealousy-research",
+        "pulling-away-liking-ambivalence-research",
+        "own-jealousy-normal-or-excessive-research",
+        "partner-texting-less-what-to-do-research"
+      ]
     }
   ],
   "toolbox": [
