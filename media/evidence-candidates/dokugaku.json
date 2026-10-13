@@ -1318,5 +1318,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-study-boredom-restart-bored-high-achievers",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Schwartze et al., \"Boredom due to being over- or under-challenged in mathematics: A latent profile analysis\" (British Journal of Educational Psychology, 2024)",
+    "sourceUrl": "https://doi.org/10.1111/bjep.12695",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/study-boredom-restart/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "勉強に飽きるのは、できない人？",
+        "body": "授業や勉強がつまらないのは、ついていけない人だけ。そう思われがちだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5〜9年生1,407人の退屈と成績",
+        "body": "ドイツ・バイエルン州の5〜9年生1,407人に、数学の退屈を聞いて、数学のテストの成績と合わせてグループに分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績が高くて退屈な生徒も21%",
+        "body": "退屈が強いグループは2つ。成績が低い「難しすぎ」が13%、成績が高い「易しすぎ」が21%だったらしい。実は、できる人も退屈しているんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1教科・1回の調査",
+        "body": "数学だけ、1回の調査の結果だよ。大人の独学でも同じ割合になるかや、難しさを変えれば退屈が減るかまでは、この研究ではわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

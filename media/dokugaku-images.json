@@ -1605,5 +1605,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wooden_srcabble_tiles.jpg/500px-Wooden_srcabble_tiles.jpg",
   "og": "https://dokugaku.seadice.win/img/vocab-recognize-but-cannot-produce.jpg",
   "local": true
+ },
+ "study-boredom-restart": {
+  "file": "File:Blank books stacked on a table.jpg",
+  "src": "/img/study-boredom-restart.jpg",
+  "src640": "/img/study-boredom-restart-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "木の机の上に積まれた表紙の白い本",
+  "artist": "Trey Jones",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Blank_books_stacked_on_a_table.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Blank_books_stacked_on_a_table.jpg/960px-Blank_books_stacked_on_a_table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Blank_books_stacked_on_a_table.jpg/500px-Blank_books_stacked_on_a_table.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-boredom-restart.jpg",
+  "local": true
  }
 }
