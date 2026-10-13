@@ -1410,5 +1410,73 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-procrastination-if-only-reflection-research-should-have",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Smallman & Roese, \"Counterfactual thinking facilitates behavioral intentions\" (Journal of Experimental Social Psychology, 2009)",
+    "sourceUrl": "https://doi.org/10.1016/j.jesp.2009.03.002",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/procrastination-if-only-reflection-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「〜すればよかった」は無駄な後悔？",
+        "body": "失敗した後に「あのとき〜すればよかった」と考えるのは、ただの後悔に思えるよね。でも、次の行動とつながっているらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生30人の反応時間の実験",
+        "body": "「服に食べ物をこぼした」などの失敗を見せ、「〜すべきだった」と判断した直後に「次は〜する」という判断をしてもらい、その速さを測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "次の計画の判断が速くなった",
+        "body": "「すべきだった」の直後は平均726ミリ秒で、何も考えなかった場合の1122ミリ秒より速かった。別の実験では、振り返りと同じ行動のときだけ速くなったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本当に行動が変わるかは別",
+        "body": "測ったのは画面上の判断の速さで、実際の行動が変わったかは調べていないんだ。対象も大学生の少人数だよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-procrastination-if-only-reflection-research-downward",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sirois, \"Procrastination and counterfactual thinking: Avoiding what might have been\" (British Journal of Social Psychology, 2004)",
+    "sourceUrl": "https://doi.org/10.1348/0144666041501660",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/procrastination-if-only-reflection-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「もっと悪くなってたかも」で済ませてない？",
+        "body": "失敗の後、「まあ、もっとひどくなってたかも」と考えるとほっとするよね。先延ばししやすい人ほど、この考え方を選びやすいらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "80人に不安な場面を想像してもらった",
+        "body": "先延ばしに関係する場面と一般的な場面、2つの不安な場面を想像してもらい、浮かんだ「もしも」を書いてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「もっと良くできた」を避けていた",
+        "body": "先延ばし傾向が強い人ほど「もっと悪くなり得た」が多く、「もっと良くできた」が相対的に少なかった。先延ばしの場面で特に強く出たよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "想像の場面での話",
+        "body": "実際に締め切りを落とした後の行動は測っていないよ。気分を守りたい気持ちが働いているというのは、著者の解釈なんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
