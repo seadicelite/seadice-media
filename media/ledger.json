@@ -156,6 +156,22 @@
         "small-change-invisible-spending",
         "envelope-partition-saving"
       ]
+    },
+    {
+      "id": "yame-lab",
+      "name": "やめラボ",
+      "appStoreId": "6796585558",
+      "icon": "/img/apps/yame-lab.webp",
+      "catch": "ギャンブルやガチャなど、やめたいことを書いて「やめる」か「まず減らす」を選ぶ。1日の上限を決めて記録し、1週間ごとに目標を見直せる",
+      "hubLead": "ギャンブルや宝くじ、ガチャをやめたい・減らしたいときに読みたい、上限の決め方・負けを取り返したくなったときの立て直し・のめり込みのセルフチェックの記事です。",
+      "theme": "ギャンブル・宝くじ・ガチャをやめる、減らす、上限を決める、のめり込みに気づく、負けを取り返そうとしない。衝動買い・ふつうの買い物・節約の記事には付けない",
+      "articles": [
+        "gambling-gacha-limit-setting-tips",
+        "gambling-loss-chasing-recovery-steps",
+        "gambling-gacha-self-check",
+        "gambling-spending-limit-calculator",
+        "lottery-near-miss-psychology"
+      ]
     }
   ],
   "toolboxTop": false,
