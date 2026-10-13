@@ -1240,5 +1240,73 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-exercise-before-study-focus-research-young-adults",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Garrett et al., \"A systematic review and Bayesian meta-analysis provide evidence for an effect of acute physical activity on cognition in young adults\" (Communications Psychology, 2024)",
+    "sourceUrl": "https://doi.org/10.1038/s44271-024-00124-2",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/exercise-before-study-focus-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "勉強の前に運動すると頭が冴える？",
+        "body": "テスト勉強の前にひと走りすると集中できる、ってよく聞くよね。1回運動するだけで、本当に頭の働きは変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "113件の研究をまとめた",
+        "body": "18〜45歳の健康な大人を対象にした113件、合計4,390人分の研究をまとめて分析したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果はあるけど小さい",
+        "body": "1回の運動のあと、頭の働きは小さく上がっていた（効果の大きさ0.13）。反応が速くなって、覚えておく力や余計なものを抑える力も上がっていたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "結果は少し割り引いて",
+        "body": "効果が出た研究ほど論文になりやすい偏りがはっきり見つかって、補正したうえでの数字なんだ。証拠の強さも「中くらい」にとどまっているよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-exercise-before-study-focus-research-duration",
+    "category": "集中力",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Oberste et al., \"Effects and Moderators of Acute Aerobic Exercise on Subsequent Interference Control: A Systematic Review and Meta-Analysis\" (Frontiers in Psychology, 2019)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2019.02616",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/exercise-before-study-focus-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "運動は長いほど頭に効く？",
+        "body": "集中したい作業の前に運動するなら、長くやったほうが効きそうな気がするよね。実際はどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "50件・2,366人分の研究",
+        "body": "運動の後に「気が散るものを抑える」課題をした50件の研究、合計2,366人分をまとめて分析したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "20分以内がいちばん大きかった",
+        "body": "運動後は反応が速くなった。効果の大きさは20分以内の運動で0.32、21〜40分で0.18、40分超で0.07だったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長さの差は確定じゃない",
+        "body": "運動時間による差は、統計的にははっきりしなかった。若い大人での効果は0.18で、子どもや高齢者より小さめだったよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
