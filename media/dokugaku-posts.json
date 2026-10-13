@@ -1,5 +1,13 @@
 [
   {
+    "slug": "ai-wrong-answer-unlearn-correct",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-13",
+    "title": "AIの答えが間違っていて、誤ったまま覚えてしまった。どう覚え直す？訂正と記憶の研究",
+    "summary": "誤りは訂正後も残りやすい。一次資料で確かめ、「誤→正、違う理由」を書き、日をあけて正しい答えを思い出すのが研究に沿った覚え直し方。"
+  },
+  {
     "slug": "textbook-too-hard-to-understand",
     "category": "勉強法",
     "type": "guide",

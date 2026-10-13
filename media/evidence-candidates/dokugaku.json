@@ -978,5 +978,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-ai-wrong-answer-unlearn-correct-known-facts",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Fazio et al., \"Creating illusions of knowledge: Learning errors that contradict prior knowledge\" (Journal of Experimental Psychology: General, 2013)",
+    "sourceUrl": "https://doi.org/10.1037/a0028649",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/ai-wrong-answer-unlearn-correct/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "知ってることなら騙されない？",
+        "body": "もう正しく知っていることなら、文章に間違いが書いてあってもすぐ気づけるはず。そう思うよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2週間後に誤りのある物語を読む",
+        "body": "一般常識の問題に答えてもらい、2週間後に誤りを含む物語を読ませ、その後もう一度テストをした実験がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "正解していた問題でも誤りを答えた",
+        "body": "最初のテストで正しく答えた問題でも、物語の誤りをそのまま答えることがあった。一番自信を持って正解していた問題でも起きたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の場面でも同じ？",
+        "body": "使ったのは物語の中の一般常識。AIの説明や教科書で学ぶときにどれくらい起きるかは、この実験だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
