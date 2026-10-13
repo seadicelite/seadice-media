@@ -1288,5 +1288,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-self-soothing-touch-fatigue-hand-on-heart",
+    "category": "ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Maier F et al., \"Self-Soothing Touch Reduces Momentary Stress, Fatigue, and Loneliness Comparable to Brief Meditation: A Randomised Controlled Trial\" (Stress and Health, 2026)",
+    "sourceUrl": "https://doi.org/10.1002/smi.70145",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/self-soothing-touch-fatigue/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "胸に手を当てると落ち着く？",
+        "body": "疲れたとき、なんとなく胸に手を当てて深呼吸すること、あるよね。あれって本当に効いてるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "78人が14日間、毎朝5分",
+        "body": "ストレスを感じているオーストリアの大学生78人を2組に分けたんだ。片方は胸とお腹に手を当てて呼吸、もう片方は目を閉じて深呼吸するだけの短い瞑想。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "直後のストレスと疲れが下がった",
+        "body": "どちらの組でも、練習の直後にストレスと疲れが下がっていた。ただ下がり方は小さめで、手を当てる方法と瞑想に差はなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "疲れやすさそのものは変わる？",
+        "body": "「この1か月のストレス」を答える質問票は、2週間後も4週間後も変わらなかった。対象は若い大学生だけで、長く続けたときの効果もまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
