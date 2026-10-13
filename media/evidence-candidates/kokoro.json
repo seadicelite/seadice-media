@@ -1220,5 +1220,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-anxiety-put-into-words-labeling-intensity",
+    "category": "ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Levy-Gigi E, Shamay-Tsoory SG, \"Affect labeling: The role of timing and intensity\" (PLoS One, 2022)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0279303",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/anxiety-put-into-words/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "モヤモヤは言葉にすると楽になる？",
+        "body": "気持ちを言語化すると落ち着く、ってよく聞くよね。「いま不安」と名前をつけるだけでいいなら手軽だけど、本当にいつでも効くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "不快な写真を見ながら気持ちを選ぶ",
+        "body": "イスラエルの実験。不快な写真を見ながら、自分の気持ちを2つの言葉から選んでもらったんだ。写真は不快感が強いものと弱いものを用意したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "強いときは下がり、弱いときは上がった",
+        "body": "79人の実験では、強い不快感の写真では名前をつけると苦痛が下がった。でも弱い不快感の写真では、逆に苦痛が上がったらしい。名前をつけるのが10秒後でも効果は同じだった（63人の実験）。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日常の不安でも同じ？",
+        "body": "実験室で写真を見る研究で、仕事の不安のような日常の気持ちで確かめたわけではないよ。声に出すか書くかで違うのかも、まだわかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
