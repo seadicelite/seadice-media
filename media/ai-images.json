@@ -1325,5 +1325,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schlagwortkatalog.jpg/500px-Schlagwortkatalog.jpg",
   "og": "https://ai.seadice.win/img/ai-fake-references-already-used.jpg",
   "local": true
+ },
+ "ai-autocomplete-opinion-shift-prepare": {
+  "file": "File:2000 Notebook, Pages 4-5.jpg",
+  "src": "/img/ai-autocomplete-opinion-shift-prepare.jpg",
+  "src640": "/img/ai-autocomplete-opinion-shift-prepare-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "手書きのメモで埋まったノート",
+  "artist": "Tobin from Rochester, NY, USA",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2000_Notebook,_Pages_4-5.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2000_Notebook%2C_Pages_4-5.jpg/960px-2000_Notebook%2C_Pages_4-5.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2000_Notebook%2C_Pages_4-5.jpg/500px-2000_Notebook%2C_Pages_4-5.jpg",
+  "og": "https://ai.seadice.win/img/ai-autocomplete-opinion-shift-prepare.jpg",
+  "local": true
  }
 }

@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-autocomplete-opinion-shift-prepare",
+  "category": "考える力・集中",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-14",
+  "title": "AIの文章の候補を使っていると、自分の意見まで変わる？研究では偏った候補で考えが寄り、注意書きでは防げなかった。先に自分の考えを書いておく",
+  "summary": "偏ったAIの候補で意見文を書くと考えがAIの側に寄り、注意書きでも防げなかった。意見を書く前に自分の考えをメモする順番を決めておく。"
+ },
+ {
   "slug": "ai-fake-references-already-used",
   "category": "AIに頼りすぎ",
   "type": "guide",
