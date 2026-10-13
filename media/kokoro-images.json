@@ -2326,5 +2326,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/White_tulips_in_white_filigree_vase.jpg/500px-White_tulips_in_white_filigree_vase.jpg",
   "og": "https://mentalai.seadice.win/img/sns-happy-for-others.jpg",
   "local": true
+ },
+ "nature-sounds-stress": {
+  "file": "File:Levada do Furado (Ribeiro Frio) moss forest (26320345279).jpg",
+  "src": "/img/nature-sounds-stress.jpg",
+  "src640": "/img/nature-sounds-stress-sm.jpg",
+  "w": 960,
+  "h": 541,
+  "alt": "苔におおわれた森の木々",
+  "artist": "VillageHero from Ulm, Germany",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Levada_do_Furado_(Ribeiro_Frio)_moss_forest_(26320345279).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Levada_do_Furado_%28Ribeiro_Frio%29_moss_forest_%2826320345279%29.jpg/960px-Levada_do_Furado_%28Ribeiro_Frio%29_moss_forest_%2826320345279%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Levada_do_Furado_%28Ribeiro_Frio%29_moss_forest_%2826320345279%29.jpg/500px-Levada_do_Furado_%28Ribeiro_Frio%29_moss_forest_%2826320345279%29.jpg",
+  "og": "https://mentalai.seadice.win/img/nature-sounds-stress.jpg",
+  "local": true
  }
 }

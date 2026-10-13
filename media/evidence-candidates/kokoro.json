@@ -574,5 +574,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-nature-sounds-stress-fountain-birds",
+    "category": "休息",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Alvarsson JJ et al., \"Stress Recovery during Exposure to Nature Sound and Environmental Noise\" (International Journal of Environmental Research and Public Health, 2010)",
+    "sourceUrl": "https://doi.org/10.3390/ijerph7031036",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/nature-sounds-stress/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "鳥の声で、本当に落ち着く？",
+        "body": "疲れたときに川の音や鳥の声を流す人、いるよね。気分の問題だけじゃなく、体の反応も変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "暗算でストレスをかけてから聞いた",
+        "body": "スウェーデンの大学生40人に、2分間の速さを競う暗算をしてもらい、そのあと4分間、噴水と鳥の声、交通騒音、換気扇のような機械音のどれかをヘッドホンで聞いてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "自然の音で、体の緊張が早く戻った",
+        "body": "緊張すると上がる汗腺の指標が半分に戻るまで、自然の音では約101秒、大きな交通騒音では約160秒だったらしい。自然の音は騒音より9〜37%速く落ち着いていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "差がはっきりしたのは一部だけ",
+        "body": "平均の値で差がはっきりしたのは大きな騒音との比較だけで、休むときに働く神経の指標には差がなかった。短い実験室の研究で、毎日聞いたときの効果はまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
