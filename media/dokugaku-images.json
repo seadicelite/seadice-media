@@ -1425,5 +1425,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wooden_pencils_sharpened_with_knife.jpg/500px-Wooden_pencils_sharpened_with_knife.jpg",
   "og": "https://dokugaku.seadice.win/img/changing-answers-exam-review.jpg",
   "local": true
+ },
+ "textbook-too-hard-to-understand": {
+  "file": "File:Textbooks on desk.jpg",
+  "src": "/img/textbook-too-hard-to-understand.jpg",
+  "src640": "/img/textbook-too-hard-to-understand-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上に開いた教科書とペン",
+  "artist": "Dquai",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Textbooks_on_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Textbooks_on_desk.jpg/960px-Textbooks_on_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Textbooks_on_desk.jpg/500px-Textbooks_on_desk.jpg",
+  "og": "https://dokugaku.seadice.win/img/textbook-too-hard-to-understand.jpg",
+  "local": true
  }
 }

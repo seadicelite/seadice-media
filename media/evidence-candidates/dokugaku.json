@@ -944,5 +944,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-textbook-too-hard-to-understand-rereading",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Callender & McDaniel, \"The limited benefits of rereading educational texts\" (Contemporary Educational Psychology, 2009)",
+    "sourceUrl": "https://doi.org/10.1016/j.cedpsych.2008.07.001",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/textbook-too-hard-to-understand/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "わかるまで何度も読め？",
+        "body": "難しい教科書は、わかるまで繰り返し読めばいい。よく言われるよね。でも、読み直すだけで本当に身につくのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1回読みと2回読みを比べた",
+        "body": "教科書の章や科学雑誌の記事を使って、1回だけ読む人と、続けてもう一度読む人を比べた実験が4つある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績はほとんど変わらなかった",
+        "body": "いくつかの例外を除いて、選択式・記述式・要約のテストの成績は、読み直しても上がらなかった。読解力が高い人でも低い人でも同じ傾向だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "時間をあけたら？",
+        "body": "調べたのは「すぐに」読み直す場合だけ。日をあけた読み直しや、読み直しながら説明してみる方法の効果は、この研究ではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
