@@ -1386,5 +1386,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-backward-study-plan-from-exam-date-time-memory",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hart et al., \"Time-on-task estimation for tasks lasting hours spread over multiple days\" (PLOS ONE, 2025)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0330758",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/backward-study-plan-from-exam-date/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "勉強した時間、覚えてる？",
+        "body": "「昨日は3時間やった」って、後から思い出した時間はどれくらい正確なんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "キー入力の記録と比べた",
+        "body": "プログラミング入門の授業の学生33人が、何日かに分けた課題の作業時間を振り返って答え、キー入力の記録から測った実際の時間と比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "多くは長めに覚えていた",
+        "body": "78%で実際より長く答えていて、実際の1時間を中央値で1.45時間と答えていたらしい。多くの学生は、自分は正確に覚えていると思っていた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1つの授業の33人の話",
+        "body": "1つの大学の1つの授業で、人数も少ない。ほかの科目や社会人の勉強でも同じかは、まだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

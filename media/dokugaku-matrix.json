@@ -259,7 +259,8 @@
      "https://dokugaku.seadice.win/templates/study-plan/"
     ],
     "how": [
-     "make-study-time-working-adults"
+     "make-study-time-working-adults",
+     "backward-study-plan-from-exam-date"
     ],
     "stuck": [
      "rebuild-broken-study-plan",

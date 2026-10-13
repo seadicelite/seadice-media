@@ -1641,5 +1641,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hourglass_1.jpg/500px-Hourglass_1.jpg",
   "og": "https://dokugaku.seadice.win/img/exam-close-not-enough-time.jpg",
   "local": true
+ },
+ "backward-study-plan-from-exam-date": {
+  "file": "File:December 25 - calendar sheet.jpg",
+  "src": "/img/backward-study-plan-from-exam-date.jpg",
+  "src640": "/img/backward-study-plan-from-exam-date-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "日付が書かれたカレンダーの一枚",
+  "artist": "Karen Arnold",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:December_25_-_calendar_sheet.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/December_25_-_calendar_sheet.jpg/960px-December_25_-_calendar_sheet.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/December_25_-_calendar_sheet.jpg/500px-December_25_-_calendar_sheet.jpg",
+  "og": "https://dokugaku.seadice.win/img/backward-study-plan-from-exam-date.jpg",
+  "local": true
  }
 }
