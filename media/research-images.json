@@ -1616,8 +1616,8 @@
   "src640": "/img/task-time-estimate-planning-fallacy-research-sm.jpg",
   "w": 960,
   "h": 849,
-  "alt": "砂時計",
-  "artist": "Unknown authorUnknown author",
+  "alt": "翼のついた砂時計の絵",
+  "artist": "Unknown author",
   "license": "Public domain",
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Masonic_Hourglass.jpg",
@@ -1626,6 +1626,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Masonic_Hourglass.jpg/960px-Masonic_Hourglass.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Masonic_Hourglass.jpg/500px-Masonic_Hourglass.jpg",
   "og": "https://research.seadice.win/img/task-time-estimate-planning-fallacy-research.jpg",
+  "local": true
+ },
+ "exam-mind-blank-test-anxiety-recovery-research": {
+  "file": "File:E-6 Navy Wide Advancement Exam (9308929).jpg",
+  "src": "/img/exam-mind-blank-test-anxiety-recovery-research.jpg",
+  "src640": "/img/exam-mind-blank-test-anxiety-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "試験会場の机に置かれた白紙と鉛筆",
+  "artist": "U.S. Navy photo by Petty Officer 2nd Class Isaac Rodriguez",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:E-6_Navy_Wide_Advancement_Exam_(9308929).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/E-6_Navy_Wide_Advancement_Exam_%289308929%29.jpg/960px-E-6_Navy_Wide_Advancement_Exam_%289308929%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/E-6_Navy_Wide_Advancement_Exam_%289308929%29.jpg/500px-E-6_Navy_Wide_Advancement_Exam_%289308929%29.jpg",
+  "og": "https://research.seadice.win/img/exam-mind-blank-test-anxiety-recovery-research.jpg",
   "local": true
  }
 }

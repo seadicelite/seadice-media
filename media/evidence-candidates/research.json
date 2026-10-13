@@ -1172,5 +1172,73 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-exam-mind-blank-test-anxiety-recovery-research-reappraisal",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Thormodsæter et al., \"Can we Mitigate the Impacts of Test Anxiety Through Reappraisal Interventions? A Replication Study in Science Courses Across Multiple Institution Types in the United States\" (CBE—Life Sciences Education, 2026)",
+    "sourceUrl": "https://doi.org/10.1187/cbe.25-04-0055",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/exam-mind-blank-test-anxiety-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "緊張は味方だと思えば強くなる？",
+        "body": "「ドキドキは体が本番に備えているサイン」と考え直すと、テストで実力を出せる。そんな話を聞いたことがあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "7つの大学でやり直した",
+        "body": "アメリカの7つの大学・12の生物と化学の授業で、試験の前に「ストレスは役に立つ」という文章を読むグループと、別の文章を読むグループに分けたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "不安も点数も変わらなかった",
+        "body": "テスト不安が強い学生ほど成績が低い、という関係は確認できた。でも考え直す文章を読んでも、不安にも試験の点数にも差は出なかったんだ。成績を比べた771人全体でも同じだったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どんな人なら効くの？",
+        "body": "調査に最後まで答えたのは93人だけで、成績の良い学生が多く参加していた。以前は効いたという研究もあって、どんな条件なら効くのかはまだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-exam-mind-blank-test-anxiety-recovery-research-writing",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "O'Meara & Lovett, \"Single-session expressive writing interventions for test anxiety: a meta-analysis\" (Anxiety, Stress, & Coping, 2026)",
+    "sourceUrl": "https://doi.org/10.1080/10615806.2025.2552857",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/exam-mind-blank-test-anxiety-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "試験前に不安を書くと点が上がる？",
+        "body": "テストの直前に、心配なことを紙に書き出すと点数が上がる。有名な研究があって、勉強法としてよく紹介されているよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "21件の研究をまとめた",
+        "body": "テストの直前に1回だけ不安を書き出す方法を調べた研究を、21件・合計1,457人分まとめて分析したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果ははっきりしなかった",
+        "body": "不安を下げる効果はほぼゼロ（r=-0.05）。点数への効果も最初は小さくあるように見えたけど、極端な1件を除くと意味のある差ではなくなったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "効く人もいるの？",
+        "body": "研究ごとの結果のばらつきは大きいのに、どんな条件なら効くのかは見つからなかった。テスト不安には、ほかにもっと根拠のある方法があると著者は書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
