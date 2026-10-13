@@ -2596,5 +2596,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg/500px-White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/stress-thinking-values-writing.jpg",
   "local": true
+ },
+ "ai-job-worry-lasting-isolation": {
+  "file": "File:Teacup with Tealeaves on Wooden Table.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Teacup_with_Tealeaves_on_Wooden_Table.jpg/960px-Teacup_with_Tealeaves_on_Wooden_Table.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Teacup_with_Tealeaves_on_Wooden_Table.jpg/500px-Teacup_with_Tealeaves_on_Wooden_Table.jpg",
+  "w": 960,
+  "h": 942,
+  "alt": "木のテーブルに置かれたティーカップ",
+  "artist": "Apoc2400",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Teacup_with_Tealeaves_on_Wooden_Table.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

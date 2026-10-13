@@ -1084,5 +1084,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-ai-job-worry-lasting-isolation-young-workers-slosh",
+    "category": "仕事",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lindberg Y et al., \"Reciprocal longitudinal associations between job insecurity and depressive symptoms in young working women: the SLOSH study 2010–2020\" (International Archives of Occupational and Environmental Health, 2026)",
+    "sourceUrl": "https://doi.org/10.1007/s00420-026-02230-6",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-job-worry-lasting-isolation/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "仕事を失う不安は、若い人ほどこたえる？",
+        "body": "「クビになるかも」という不安、年齢で受け止め方が違うのかな。スウェーデンで働く人を10年間追った調査があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1万4千人を2年おきに",
+        "body": "2010〜2020年の調査に続けて答えた14,827人で、仕事を失う不安と、2年後の落ち込みの症状の結びつきを、35歳以下と36歳以上で比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "35歳以下で結びつきが強め",
+        "body": "35歳以下は不安そのものが強く、不安が2年後の落ち込みと結びつく関連も中くらいだった。36歳以上では、落ち込みが後の不安と結びつく逆向きの関連も見られたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因かどうかは別の話",
+        "body": "観察研究なので因果はわからない。調査時点で働いていた人が対象で、いちばん不安定な立場の人は少なめだったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
