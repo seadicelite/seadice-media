@@ -1663,5 +1663,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Berkeley_Heights_NJ_cycling_exercise_room.jpg/500px-Berkeley_Heights_NJ_cycling_exercise_room.jpg",
   "og": "https://research.seadice.win/img/exercise-before-study-focus-research.jpg",
   "local": true
+ },
+ "rest-not-recovering-stress-research": {
+  "file": "File:Contre-jour photograph of a wooden hut behind a tree with a hammock at sunrise in Si Phan Don Laos.jpg",
+  "src": "/img/rest-not-recovering-stress-research.jpg",
+  "src640": "/img/rest-not-recovering-stress-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "朝日の中、木の下に吊られたハンモックと小屋",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Contre-jour_photograph_of_a_wooden_hut_behind_a_tree_with_a_hammock_at_sunrise_in_Si_Phan_Don_Laos.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Contre-jour_photograph_of_a_wooden_hut_behind_a_tree_with_a_hammock_at_sunrise_in_Si_Phan_Don_Laos.jpg/960px-Contre-jour_photograph_of_a_wooden_hut_behind_a_tree_with_a_hammock_at_sunrise_in_Si_Phan_Don_Laos.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Contre-jour_photograph_of_a_wooden_hut_behind_a_tree_with_a_hammock_at_sunrise_in_Si_Phan_Don_Laos.jpg/500px-Contre-jour_photograph_of_a_wooden_hut_behind_a_tree_with_a_hammock_at_sunrise_in_Si_Phan_Don_Laos.jpg",
+  "og": "https://research.seadice.win/img/rest-not-recovering-stress-research.jpg",
+  "local": true
  }
 }

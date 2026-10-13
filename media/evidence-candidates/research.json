@@ -1308,5 +1308,73 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-rest-not-recovering-stress-research-vacation-fade",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "de Bloom et al., \"Do we recover from vacation? Meta-analysis of vacation effects on health and well-being\" (Journal of Occupational Health, 2009)",
+    "sourceUrl": "https://doi.org/10.1539/joh.k8004",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/rest-not-recovering-stress-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "長い休みでストレスはリセット？",
+        "body": "疲れがたまったら、まとまった休暇をとればリセットできる。そう思って連休を楽しみにしている人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "休暇の研究7件をまとめた",
+        "body": "休暇の前・中・後に健康や幸福感を測った研究から、厳しい基準で選んだ7件をまとめて分析したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果はあるけど、すぐ薄れる",
+        "body": "休暇で健康や幸福感は上がった（効果の大きさ0.43）。でも仕事に戻ると、その効果はまもなく薄れていた（-0.38）んだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何をすれば長持ちする？",
+        "body": "研究の数が少なくて、休暇中に何をすると効果が長続きするかは、まだよくわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-rest-not-recovering-stress-research-detachment-training",
+    "category": "気分・ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Karabinski et al., \"Interventions for improving psychological detachment from work: A meta-analysis\" (Journal of Occupational Health Psychology, 2021)",
+    "sourceUrl": "https://doi.org/10.1037/ocp0000280",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/rest-not-recovering-stress-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "休みに仕事を忘れるのは才能？",
+        "body": "休みの日も仕事のことが頭から離れない人と、さっと切り替えられる人がいるよね。切り替える力って、練習で伸ばせるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "30件・3,725人分の研究",
+        "body": "仕事から頭を切り離す力を伸ばすプログラムを調べた30件の研究（34のプログラム、合計3,725人）をまとめて分析したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "練習で伸ばせた",
+        "body": "プログラムには平均して効果があった（効果の大きさ0.36）。期間が長くて量が多いプログラムほど、効果が大きかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "誰にでも同じだけ効く？",
+        "body": "もともと回復がうまくいっていない人や年齢の高い人で、より効いていた。働く人が対象で、学生などにも当てはまるかは別の話だよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
