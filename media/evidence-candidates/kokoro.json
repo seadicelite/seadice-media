@@ -106,7 +106,7 @@
     "themeColor": "#00FFD1",
     "sourceLabel": "Zhang X, Zhang Z, \"Brief Mindfulness Meditation Protects Chinese Young Women's Body Image from Appearance-Focused Social Media Exposure\" (Healthcare, 2026)",
     "sourceUrl": "https://doi.org/10.3390/healthcare14010120",
-    "studyType": "ランダム化比較試験",
+    "studyType": "実験",
     "articleUrl": "https://mentalai.seadice.win/sns-appearance-mindfulness-before/",
     "articleSite": "AI時代のメンタルヘルス",
     "cards": [
@@ -208,7 +208,7 @@
     "themeColor": "#00FFD1",
     "sourceLabel": "Goto Y, Hayasaka S, Kurihara S, Nakamura Y, \"Physical and Mental Effects of Bathing: A Randomized Intervention Study\" (Evidence-Based Complementary and Alternative Medicine, 2018)",
     "sourceUrl": "https://doi.org/10.1155/2018/9521086",
-    "studyType": "ランダム化比較試験",
+    "studyType": "実験",
     "articleUrl": "https://mentalai.seadice.win/bath-soak-fatigue-recover/",
     "articleSite": "AI時代のメンタルヘルス",
     "cards": [
@@ -276,7 +276,7 @@
     "themeColor": "#00FFD1",
     "sourceLabel": "Watanabe Y, Nakayama M, Takemura K, Uchida Y, \"AI feedback and workplace social support in enhancing occupational self-efficacy: a randomized controlled trial in Japan\" (Scientific Reports, 2025)",
     "sourceUrl": "https://doi.org/10.1038/s41598-025-94985-0",
-    "studyType": "ランダム化比較試験",
+    "studyType": "実験",
     "articleUrl": "https://mentalai.seadice.win/work-confidence-recover/",
     "articleSite": "AI時代のメンタルヘルス",
     "cards": [
@@ -344,7 +344,7 @@
     "themeColor": "#00FFD1",
     "sourceLabel": "Oh S, Cha JH, Joo J, Lee JH, Lee Y, Lee HJ, Yoon DU, Lee J, \"Efficacy of Internet-based cognitive behavioral therapy for reducing perfectionistic strivings in the Republic of Korea: A randomized controlled trial\" (Internet Interventions, 2025)",
     "sourceUrl": "https://doi.org/10.1016/j.invent.2025.100851",
-    "studyType": "ランダム化比較試験",
+    "studyType": "実験",
     "articleUrl": "https://mentalai.seadice.win/perfectionism-ai-standards/",
     "articleSite": "AI時代のメンタルヘルス",
     "cards": [
@@ -378,7 +378,7 @@
     "themeColor": "#00FFD1",
     "sourceLabel": "Borgdorf KSA, Aguilar-Raab C, Holt DV, \"Effects of a brief online self-compassion training on perfectionism, self-criticism, and social anxiety: A randomized controlled trial\" (Internet Interventions, 2025)",
     "sourceUrl": "https://doi.org/10.1016/j.invent.2025.100870",
-    "studyType": "ランダム化比較試験",
+    "studyType": "実験",
     "articleUrl": "https://mentalai.seadice.win/perfectionism-ai-standards/",
     "articleSite": "AI時代のメンタルヘルス",
     "cards": [
@@ -446,7 +446,7 @@
     "themeColor": "#00FFD1",
     "sourceLabel": "Wang C, \"How emotional response styles of generative AI companions shape adaptive emotion regulation and short-term AI reliance\" (Frontiers in Psychology, 2026)",
     "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1950163",
-    "studyType": "ランダム化比較試験",
+    "studyType": "実験",
     "articleUrl": "https://mentalai.seadice.win/ai-comfort-self-coping/",
     "articleSite": "AI時代のメンタルヘルス",
     "cards": [
@@ -548,7 +548,7 @@
     "themeColor": "#00FFD1",
     "sourceLabel": "Andrade FC et al., \"Intervening on Social Comparisons on Social Media: Electronic Daily Diary Pilot Study\" (JMIR Mental Health, 2023)",
     "sourceUrl": "https://doi.org/10.2196/42024",
-    "studyType": "ランダム化比較試験",
+    "studyType": "実験",
     "articleUrl": "https://mentalai.seadice.win/sns-happy-for-others/",
     "articleSite": "AI時代のメンタルヘルス",
     "cards": [
@@ -1024,7 +1024,7 @@
     "themeColor": "#00FFD1",
     "sourceLabel": "Litt JS et al., \"Effects of a community gardening intervention on diet, physical activity, and anthropometry outcomes in the USA (CAPS): an observer-blind, randomised controlled trial\" (The Lancet Planetary Health, 2023)",
     "sourceUrl": "https://doi.org/10.1016/S2542-5196(22)00303-5",
-    "studyType": "ランダム化比較試験",
+    "studyType": "実験",
     "articleUrl": "https://mentalai.seadice.win/gardening-screen-fatigue-recover/",
     "articleSite": "AI時代のメンタルヘルス",
     "cards": [
@@ -1183,6 +1183,40 @@
         "stage": "まだわからないこと",
         "title": "どっちが先かは不明",
         "body": "1回きりの調査だから、比べるせいで自分がぼやけるのか、ぼやけているから比べるのかはわからない。対象も中国の大学1年生だけ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-study-break-phone-memory-sns-after-reading",
+    "category": "集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Seban P, Šikl R, Prošek T, Urban K, \"Wakeful rest and memory consolidation in an ecologically valid educational setting: no benefit over distractor tasks\" (Psychological Research, 2026)",
+    "sourceUrl": "https://doi.org/10.1007/s00426-026-02265-x",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/study-break-phone-memory/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "勉強の直後にスマホを見ると忘れる？",
+        "body": "覚えたあとは静かに休むほうがいい、ってよく聞くよね。読み終えてすぐSNSを開くと、せっかく覚えたことが消えちゃう気がする。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "読んだ後の8分を4通りで比べた",
+        "body": "大学生161人が説明文を読んだあと、8分間「目を閉じてリラックス」「自分のSNSを見る」「計算問題」「別の文章を読む」のどれかで過ごしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "休んだ組が勝つことはなかった",
+        "body": "直後と1週間後のテストで、休んだ組がほかの組より成績が良いことはなかったらしい。1週間後の事実の問題の正答率は、休んだ組が約15%、SNSの組が約18%で、はっきりした差はなし。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "単語の暗記なら違うかも",
+        "body": "51件の研究のまとめでは、単語などを覚える実験で静かに休む効果が少しあった。文章の理解とは学び方が違うし、休み方も1種類だけ。まだ結論は出ていないよ。"
       }
     ],
     "addedAt": "2026-10-14"
