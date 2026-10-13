@@ -203,6 +203,8 @@ from kosodate_rules_tool import PAGE as RULES_PAGE  # noqa: E402
 PAGES.append(RULES_PAGE)
 from kosodate_sns_tool import PAGE as SNS_PAGE  # noqa: E402
 PAGES.append(SNS_PAGE)
+from kosodate_ai_tool import PAGE as AI_PAGE  # noqa: E402
+PAGES.append(AI_PAGE)
 
 from kosodate_kiroku_tool import page as kiroku_page  # noqa: E402
 PAGES.append(kiroku_page(
