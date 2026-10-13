@@ -1335,5 +1335,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DSCF1452_Built_Environments_Library_-_desk_by_a_window.jpg/500px-DSCF1452_Built_Environments_Library_-_desk_by_a_window.jpg",
   "og": "https://dokugaku.seadice.win/img/study-place-time-log-sheet.jpg",
   "local": true
+ },
+ "ai-study-checklist": {
+  "file": "File:Desk-laptop-notebook-pen (23958719819).jpg",
+  "src": "/img/ai-study-checklist.jpg",
+  "src640": "/img/ai-study-checklist-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上のノートパソコンとノートとペン",
+  "artist": "www.Pixel.la Free Stock Photos",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk-laptop-notebook-pen_(23958719819).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Desk-laptop-notebook-pen_%2823958719819%29.jpg/960px-Desk-laptop-notebook-pen_%2823958719819%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Desk-laptop-notebook-pen_%2823958719819%29.jpg/500px-Desk-laptop-notebook-pen_%2823958719819%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/ai-study-checklist.jpg",
+  "local": true
  }
 }
