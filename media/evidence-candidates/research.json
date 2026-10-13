@@ -1682,5 +1682,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-work-better-under-pressure-procrastination-research-health-cohort",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Johansson et al., \"Associations Between Procrastination and Subsequent Health Outcomes Among University Students in Sweden\" (JAMA Network Open, 2023)",
+    "sourceUrl": "https://doi.org/10.1001/jamanetworkopen.2022.49346",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/work-better-under-pressure-procrastination-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "先延ばしは気分の問題だけ？",
+        "body": "ギリギリまでやらないのは性格の問題で、体や心の健康とは関係ない。そう思っている人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生3,525人を追跡",
+        "body": "スウェーデンの8つの大学の学生3,525人の先延ばしの度合いを測って、9か月後の心と体の状態を調べた研究があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "9か月後の不調と小さく結びついた",
+        "body": "先延ばしが強い人ほど、9か月後の抑うつ・不安・ストレスがやや高く、睡眠の悪さや運動不足、孤独感も少し多かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因かどうかは不明",
+        "body": "観察研究なので、先延ばしが不調を生んだとは言えない。結びつきは小さく、測っていない性格の違いで説明できる可能性を著者自身が挙げているよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

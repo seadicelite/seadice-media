@@ -1823,5 +1823,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hourglass_1.jpg/500px-Hourglass_1.jpg",
   "og": "https://research.seadice.win/img/focus-fades-over-time-why-research.jpg",
   "local": true
+ },
+ "work-better-under-pressure-procrastination-research": {
+  "file": "File:Minerva Stopwatch, 1810191305, ako.jpg",
+  "src": "/img/work-better-under-pressure-procrastination-research.jpg",
+  "src640": "/img/work-better-under-pressure-procrastination-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "ストップウォッチ",
+  "artist": "Ansgar Koreng",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Minerva_Stopwatch,_1810191305,_ako.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Minerva_Stopwatch%2C_1810191305%2C_ako.jpg/960px-Minerva_Stopwatch%2C_1810191305%2C_ako.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Minerva_Stopwatch%2C_1810191305%2C_ako.jpg/500px-Minerva_Stopwatch%2C_1810191305%2C_ako.jpg",
+  "og": "https://research.seadice.win/img/work-better-under-pressure-procrastination-research.jpg",
+  "local": true
  }
 }
