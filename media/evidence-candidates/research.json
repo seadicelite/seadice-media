@@ -1648,5 +1648,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-focus-fades-over-time-why-research-ego-depletion-rrr",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hagger et al., \"A Multilab Preregistered Replication of the Ego-Depletion Effect\" (Perspectives on Psychological Science, 2016)",
+    "sourceUrl": "https://doi.org/10.1177/1745691616652873",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/focus-fades-over-time-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "集中力は使うと減る？",
+        "body": "自分を律する力はエネルギーのようなもので、頑張ると減っていく。だから頑張った後は次の作業で失敗しやすい。そんな説を聞いたことがあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "23の研究室で同じ実験",
+        "body": "この説を確かめるために、23の研究室が同じ手順で再現実験をしたよ。参加者は合わせて2,141人。やり方は事前に登録してから始めたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果はほぼゼロだった",
+        "body": "結果をまとめると、効果の大きさはd=0.04。誤差の範囲にゼロが入っていて、「頑張った後に失敗しやすくなる」効果は確認できなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "疲れがないわけではない",
+        "body": "調べたのは1種類の課題の組み合わせだけ。頑張ると疲れを感じること自体は別の研究でも出ていて、疲れが何を変えるのかはまだ研究が続いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

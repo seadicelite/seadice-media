@@ -1805,5 +1805,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Harriet_Backer_-_Study_for_Card_Players_-_NG.M.01051_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/500px-Harriet_Backer_-_Study_for_Card_Players_-_NG.M.01051_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg",
   "og": "https://research.seadice.win/img/group-work-procrastination-research.jpg",
   "local": true
+ },
+ "focus-fades-over-time-why-research": {
+  "file": "File:Hourglass 1.jpg",
+  "src": "/img/focus-fades-over-time-why-research.jpg",
+  "src640": "/img/focus-fades-over-time-why-research-sm.jpg",
+  "w": 960,
+  "h": 723,
+  "alt": "砂時計",
+  "artist": "Suohros",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Hourglass_1.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hourglass_1.jpg/960px-Hourglass_1.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hourglass_1.jpg/500px-Hourglass_1.jpg",
+  "og": "https://research.seadice.win/img/focus-fades-over-time-why-research.jpg",
+  "local": true
  }
 }
