@@ -1569,5 +1569,23 @@
   "og": "https://dokugaku.seadice.win/img/draw-to-remember-study.jpg",
   "local": true,
   "unconverted": true
+ },
+ "study-hours-not-improving-scores": {
+  "file": "File:Wall clock (cartel) MET DP109788.jpg",
+  "src": "/img/study-hours-not-improving-scores.jpg",
+  "src640": "/img/study-hours-not-improving-scores-sm.jpg",
+  "w": 960,
+  "h": 877,
+  "alt": "金の装飾がついた古い壁掛け時計",
+  "artist": "Ferdinand Berthoud / Jacques Caffieri",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Wall_clock_(cartel)_MET_DP109788.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wall_clock_%28cartel%29_MET_DP109788.jpg/960px-Wall_clock_%28cartel%29_MET_DP109788.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wall_clock_%28cartel%29_MET_DP109788.jpg/500px-Wall_clock_%28cartel%29_MET_DP109788.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-hours-not-improving-scores.jpg",
+  "local": true
  }
 }

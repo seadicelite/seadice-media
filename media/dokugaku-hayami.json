@@ -448,6 +448,15 @@
       "level": "b",
       "text": "単語や用語の定義では、書き写すより描いた方がよく思い出せました。ただし言い換えても同じくらい残り、図の多い教材から描いた実験では差が出ませんでした。",
       "slug": "draw-to-remember-study"
+    },
+    {
+      "id": "more-study-hours",
+      "name": "勉強時間を増やす",
+      "belief": "点が伸びないのは勉強時間が足りないから",
+      "level": "b",
+      "text": "練習量で説明できた成績の差は教育で4%だけ。問題を解き正誤を確かめる時間を増やすと伸びた研究はあり、時間の中身しだい。",
+      "slug": "study-hours-not-improving-scores",
+      "evidence": "meta"
     }
   ]
 }

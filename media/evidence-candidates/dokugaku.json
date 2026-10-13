@@ -1216,5 +1216,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-study-hours-not-improving-scores-study-longer-or-effectively",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Theobald, \"Study longer or study effectively? Better study strategies can compensate for less study time and predict goal achievement and lower negative affect\" (British Journal of Educational Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.1111/bjep.12725",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/study-hours-not-improving-scores/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "点が伸びないのは、勉強時間が足りないから？",
+        "body": "伸びないなら、もっと机に向かえばいい。そう思って勉強時間を増やす人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生231人の30日間の記録",
+        "body": "ドイツの大学生231人が、30日間、毎日の勉強時間と、計画・進み具合の確認・集中・先延ばしを記録して、その日の目標をどこまで達成できたかを答えたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "やり方が良い日は、少ない時間で届いた",
+        "body": "勉強時間が長い日も、やり方が良い日も目標を達成しやすかった。やり方が良い日は少ない時間で高い達成に届き、集中できないまま長時間やった日は嫌な気分が特に強かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本人の報告で、点数ではない",
+        "body": "勉強時間も達成度も本人の申告で、テストの点そのものではないよ。関係を見た研究なので、やり方を変えれば必ず伸びるとまでは言えないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
