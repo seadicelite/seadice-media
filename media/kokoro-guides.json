@@ -35,7 +35,9 @@
     "worry-time-scheduling",
     "hobby-recover-fatigue",
     "low-energy-small-plans",
-    "muscle-relaxation-tension"
+    "muscle-relaxation-tension",
+    "bath-soak-fatigue-recover",
+    "nature-sounds-stress"
    ]
   },
   {
@@ -75,7 +77,9 @@
     "ai-job-worry-planning-habit",
     "ai-anxiety-values-action",
     "ai-check-before-speaking",
-    "best-possible-self-ai-future"
+    "best-possible-self-ai-future",
+    "work-confidence-recover",
+    "perfectionism-ai-standards"
    ]
   },
   {
@@ -118,7 +122,9 @@
     "break-timing-focus",
     "ai-offloading-decide-remember",
     "stuffy-room-ventilation-focus",
-    "phone-always-bored"
+    "phone-always-bored",
+    "stress-focus-recover",
+    "background-music-focus"
    ]
   },
   {
@@ -153,7 +159,9 @@
     "comparison-values-affirmation",
     "comparison-best-possible-self",
     "sns-negative-thoughts-reframe",
-    "sns-appearance-mindfulness-before"
+    "sns-appearance-mindfulness-before",
+    "perfectionism-ai-standards",
+    "sns-happy-for-others"
    ]
   },
   {
@@ -189,7 +197,8 @@
     "reply-waiting-anxiety",
     "text-message-tone-misread",
     "alone-time-without-loneliness",
-    "ai-easier-to-confide"
+    "ai-easier-to-confide",
+    "touch-hug-stress-relief"
    ]
   },
   {
@@ -225,7 +234,9 @@
     "ai-habit-change-how-long",
     "ai-check-before-speaking",
     "ai-offloading-decide-remember",
-    "ai-easier-to-confide"
+    "ai-easier-to-confide",
+    "ai-comfort-self-coping",
+    "ai-human-like-uncanny"
    ]
   }
  ]
