@@ -1070,5 +1070,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-behavioral-activation-low-mood-steps-research-wellbeing",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mazzucchelli et al., \"Behavioral activation interventions for well-being: A meta-analysis\" (The Journal of Positive Psychology, 2010)",
+    "sourceUrl": "https://doi.org/10.1080/17439760903569154",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/behavioral-activation-low-mood-steps-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "やる気が出るまで待つべき？",
+        "body": "落ち込んだ日は、元気が戻ってから動こう。そう思うよね。でも「先に動く」ほうを調べた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "20件の試験をまとめた",
+        "body": "楽しいことや大事なことを予定に入れて実行する「行動活性化」。幸福感への効果を、20件のランダム化比較試験（計1,353人）でまとめたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "幸福感が中くらい上がった",
+        "body": "何もしない組と比べて、終わった直後の幸福感は効果量0.52で上がったよ。落ち込みがほとんどない人でも、強めの人でも同じくらいだったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く続くかは不明",
+        "body": "質の高い研究は少なく、1〜3か月後の効果ははっきりしなかったよ。ほかの心理的な方法と比べると、差は見られなかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

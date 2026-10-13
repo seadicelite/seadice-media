@@ -1573,5 +1573,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Vintage_Stewart_Warner_Alarm_Clock_Table_Radio%2C_Model_9162%2C_5_Tubes%2C_AM_Band%2C_Circa_1952_%2813291523804%29.jpg/500px-Vintage_Stewart_Warner_Alarm_Clock_Table_Radio%2C_Model_9162%2C_5_Tubes%2C_AM_Band%2C_Circa_1952_%2813291523804%29.jpg",
   "og": "https://research.seadice.win/img/habit-forgetting-reminder-cue-research.jpg",
   "local": true
+ },
+ "behavioral-activation-low-mood-steps-research": {
+  "file": "File:2017-12-10 08 13 50 View east along a walking path alongside Franklin Farm Road (Virginia State Route 6819) in Franklin Farm Park on the morning after a wet snowfall in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+  "src": "/img/behavioral-activation-low-mood-steps-research.jpg",
+  "src640": "/img/behavioral-activation-low-mood-steps-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "雪が残る朝の公園の散歩道",
+  "artist": "Famartin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2017-12-10_08_13_50_View_east_along_a_walking_path_alongside_Franklin_Farm_Road_(Virginia_State_Route_6819)_in_Franklin_Farm_Park_on_the_morning_after_a_wet_snowfall_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/2017-12-10_08_13_50_View_east_along_a_walking_path_alongside_Franklin_Farm_Road_%28Virginia_State_Route_6819%29_in_Franklin_Farm_Park_on_the_morning_after_a_wet_snowfall_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/2017-12-10_08_13_50_View_east_along_a_walking_path_alongside_Franklin_Farm_Road_%28Virginia_State_Route_6819%29_in_Franklin_Farm_Park_on_the_morning_after_a_wet_snowfall_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg/500px-thumbnail.jpg",
+  "og": "https://research.seadice.win/img/behavioral-activation-low-mood-steps-research.jpg",
+  "local": true
  }
 }
