@@ -2452,5 +2452,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vintage_lamp_and_books_%28Unsplash%29.jpg/500px-Vintage_lamp_and_books_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/tech-stress-age-older-workers.jpg",
   "local": true
+ },
+ "short-video-time-perception": {
+  "file": "File:Hourglasses.jpg",
+  "src": "/img/short-video-time-perception.jpg",
+  "src640": "/img/short-video-time-perception-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "砂時計",
+  "artist": "Aaaatu",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hourglasses.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hourglasses.jpg/960px-Hourglasses.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hourglasses.jpg/500px-Hourglasses.jpg",
+  "og": "https://mentalai.seadice.win/img/short-video-time-perception.jpg",
+  "local": true
  }
 }

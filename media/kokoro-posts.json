@@ -1,5 +1,14 @@
 [
   {
+    "slug": "short-video-time-perception",
+    "category": "AI疲れ・情報疲れ",
+    "type": "guide",
+    "stage": "知る",
+    "date": "2026-10-13",
+    "title": "ショート動画を見ていると、気づいたら1時間たっている。56人の実験では、動画中の時間の感覚は読書と変わらず、1週間の視聴時間はむしろ多めに見積もっていた",
+    "summary": "大学生56人の実験では、動画を見た時間の見積もりは読書と差がありませんでした。区切りを外から入れる工夫も紹介します"
+  },
+  {
     "slug": "tech-stress-age-older-workers",
     "category": "仕事とAIの不安",
     "type": "guide",

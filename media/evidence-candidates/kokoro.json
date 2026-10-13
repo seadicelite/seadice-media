@@ -812,5 +812,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-short-video-time-perception-time-sense",
+    "category": "集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Jiang Y, Yan Z, Yang Z., \"Losing Track of Time on TikTok? An Experimental Study of Short Video Users' Time Distortion\" (Behavioral Sciences, 2025)",
+    "sourceUrl": "https://doi.org/10.3390/bs15070930",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/short-video-time-perception/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ショート動画で時間の感覚が狂う？",
+        "body": "気づいたら1時間たってた、ってよくあるよね。ショート動画は時間の感覚をおかしくする、とも言われるけど本当かな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "動画と読書で見積もりを比べた",
+        "body": "中国の大学生56人が、約16分か約5分、ショート動画を見る時間と記事を読む時間を過ごして、それぞれ何分だったかを答えた実験があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "動画も読書も、ずれ方は同じくらい",
+        "body": "実は、約16分の動画はほぼ正確に見積もれていて、読書と差はなかったらしい。1週間の視聴時間はむしろ記録より多めに見積もっていたんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "寝る前の長時間はまだ不明",
+        "body": "56人の小さな実験で、16分までの話。疲れた夜や1時間を超える視聴でも同じかは、まだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
