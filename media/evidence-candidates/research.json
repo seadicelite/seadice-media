@@ -1104,5 +1104,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-pretesting-before-study-memory-research-pretest",
+    "category": "記憶・学習",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pan & Rivers, \"Metacognitive awareness of the pretesting effect improves with self-regulation support\" (Memory & Cognition, 2023)",
+    "sourceUrl": "https://doi.org/10.3758/s13421-022-01392-1",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/pretesting-before-study-memory-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "習う前に解いて意味ある？",
+        "body": "まだ知らない問題を解いても、どうせ間違えるだけ。読んでから解くほうが効率的、と思うよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "読む vs 先に答えを考える",
+        "body": "単語のペアを「そのまま読む」か「片方を見て答えを考えてから正解を見る」かで覚えてもらう実験を、5回くり返したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ほぼ全問まちがえても勝った",
+        "body": "先に考えた問題の正解率は3〜5%ほど。それでも後のテストでは、5つの実験すべてで、読んだだけのペアより多く思い出せたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "教科書や授業でも効く？",
+        "body": "覚えたのは単語のペア。大学の授業で試した別の研究では、効果が見られない例もあったよ。長い文章や本番の試験で同じように効くかは、まだはっきりしないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
