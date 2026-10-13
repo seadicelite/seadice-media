@@ -1716,5 +1716,73 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-small-rewards-habit-research-temptation-bundling",
+    "category": "習慣",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Milkman, Minson & Volpp, \"Holding the Hunger Games Hostage at the Gym: An Evaluation of Temptation Bundling\" (Management Science, 2014)",
+    "sourceUrl": "https://doi.org/10.1287/mnsc.2013.1784",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/small-rewards-habit-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "好きなことと組み合わせると続く？",
+        "body": "運動はつらいけど、好きなことと一緒ならできる気がする。そんな工夫を試したことがある人も多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "小説の朗読を「ジム限定」に",
+        "body": "アメリカの大学で226人を3組に分けて、続きが気になる小説の朗読をジムでしか聴けないようにした実験があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "始めはジム通いが51%増",
+        "body": "始めた直後は、何もしない組よりジムに行く回数が51%多かった。実験の後、61%の人がこの仕組みにお金を払ってでも使いたいと答えたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "休みのあとは差が消えた",
+        "body": "効果は週ごとに弱まり、感謝祭の休みのあとは差がなくなった。1つの大学の小さな研究で、健康の数値にも差は出ていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-small-rewards-habit-research-rewards-intrinsic-motivation",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Deci, Koestner & Ryan, \"A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation\" (Psychological Bulletin, 1999)",
+    "sourceUrl": "https://doi.org/10.1037/0033-2909.125.6.627",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/small-rewards-habit-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ご褒美でやる気がなくなる？",
+        "body": "ご褒美をあげると、好きだったことまでご褒美のためにやるようになる。そんな話を聞いたことがあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "128件の実験をまとめた",
+        "body": "ご褒美と「自分からやる気持ち」の関係を調べた128件の実験をまとめた分析があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "物のご褒美は下げ、ほめ言葉は上げた",
+        "body": "やったら・やり終えたらもらえる物のご褒美は、その後に自分から取り組む行動を減らしていた。反対に前向きなほめ言葉は、行動も興味も高めていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どんな作業でも同じ？",
+        "body": "実験の多くは子どもや大学生のパズルのような面白い課題。別のまとめ直しでは、つまらない課題へのご褒美はむしろやる気を高めたという結果もあって、議論は続いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
