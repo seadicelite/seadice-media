@@ -2542,5 +2542,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Continental_Divide_and_Calm_Waters%2C_Grandby_Lake%2C_CO_2012_%2814854216635%29.jpg/500px-Continental_Divide_and_Calm_Waters%2C_Grandby_Lake%2C_CO_2012_%2814854216635%29.jpg",
   "og": "https://mentalai.seadice.win/img/sns-post-looking-good-tired.jpg",
   "local": true
+ },
+ "loneliness-low-mood-reconnect": {
+  "file": "File:The pier at Velenje Lake (Velenje, Slovenia, 2026).jpg",
+  "src": "/img/loneliness-low-mood-reconnect.jpg",
+  "src640": "/img/loneliness-low-mood-reconnect-sm.jpg",
+  "w": 960,
+  "h": 699,
+  "alt": "静かな湖と桟橋",
+  "artist": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:The_pier_at_Velenje_Lake_(Velenje,_Slovenia,_2026).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_pier_at_Velenje_Lake_%28Velenje%2C_Slovenia%2C_2026%29.jpg/960px-The_pier_at_Velenje_Lake_%28Velenje%2C_Slovenia%2C_2026%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_pier_at_Velenje_Lake_%28Velenje%2C_Slovenia%2C_2026%29.jpg/500px-The_pier_at_Velenje_Lake_%28Velenje%2C_Slovenia%2C_2026%29.jpg",
+  "og": "https://mentalai.seadice.win/img/loneliness-low-mood-reconnect.jpg",
+  "local": true,
+  "unconverted": true
  }
 }
