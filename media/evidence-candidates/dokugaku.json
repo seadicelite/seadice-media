@@ -672,5 +672,73 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-study-place-time-log-sheet-phone-presence",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Böttger et al., \"Does the Brain Drain Effect Really Exist? A Meta-Analysis\" (Behavioral Sciences, 2023)",
+    "sourceUrl": "https://doi.org/10.3390/bs13090751",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/study-place-time-log-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "スマホは置いてあるだけで頭が鈍る？",
+        "body": "「スマホが机にあるだけで集中できなくなる」って話、よく聞くよね。2017年の有名な実験が元になっているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "22研究をまとめて確かめた",
+        "body": "スマホを使うこと・近くにあることと頭の働きを調べた22研究、43の効果量をまとめたメタ分析があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "悪影響はあったけど、小さかった",
+        "body": "全体では小さな悪影響（g=-0.14）。記憶の課題では悪影響（g=-0.23）が見られたけど、注意の課題でははっきりした差が出なかった。北米の研究だけだと差はほぼ0（g=-0.03）だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "置き場所しだいで本当に変わる？",
+        "body": "研究ごとのばらつきが大きく、使った場合と置いてあるだけの場合をまとめて分析しているよ。地域で結果がちがう理由も、まだわかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-study-place-time-log-sheet-background-music",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vasilev et al., \"Auditory Distraction During Reading: A Bayesian Meta-Analysis of a Continuing Controversy\" (Perspectives on Psychological Science, 2018)",
+    "sourceUrl": "https://doi.org/10.1177/1745691617747398",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/study-place-time-log-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "好きな曲を聞きながらだと勉強がはかどる？",
+        "body": "音楽をかけた方が集中できるって人、多いよね。でも、読んで理解する力にはどう影響するんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "65研究をまとめた",
+        "body": "背景の音（雑音・話し声・音楽）と読解の関係を調べた65研究のメタ分析があるよ。静かな条件とくらべたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "言葉が聞こえる音がいちばんじゃま",
+        "body": "音があると読解の成績は小さいけど確かに下がった（g=-0.21）。聞き取れる話し声と歌詞のある曲が、いちばんじゃまになったらしい。歌詞のない曲の影響は、ほぼ0に近かった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い勉強でも同じ？",
+        "body": "1つ1つの効果は小さく、研究ごとに音の種類や大きさがちがうよ。何時間も続く独学で同じことが起きるかは、この分析だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
