@@ -6,6 +6,7 @@
 - media/{slug}-map.json      : 記事マップ(マインドマップ) → /map/ (media/mindmap.py)
 - media/{slug}-audited.json  : 点検済み記事 → 記事の「わかっている度」の横に「出典照合済み」を表示
                                要素は "slug" または {"slug": ..., "date": "YYYY-MM-DD"}
+- 設定 symptomTable            : 症状と対処の表 → /{path}/ とトップの「よくある症状と対処」
 - media/{slug}-corrections.json : 出典照合で直した箇所 → /corrections/（訂正の記録）
                                要素は {"date", "slug", "before", "after", "why"}。点検役が修正のたびに追記する
 """
@@ -549,6 +550,78 @@ def activities(cfg, posts, theme, favicon, css):
     return urls
 
 
+SYM_CSS = (".sym{border:1px solid var(--text);margin:0 0 28px}"
+           ".sym .sh,.sym .sr{display:grid;grid-template-columns:64px minmax(0,1fr)}"
+           ".sym .sh{background:var(--text);color:var(--bg);font-size:12px;letter-spacing:.1em}.sym .sh div{padding:6px 8px}"
+           ".sym .sr{border-top:1px solid var(--border)}.sym .sr:first-of-type{border-top:0}"
+           ".sym .no{padding:12px 8px;font-family:ui-monospace,'SFMono-Regular',Menlo,monospace;font-size:13px;font-weight:700;color:var(--accent)}"
+           ".sym .tx{padding:12px 8px;font-size:14px;line-height:1.75}.sym .tx a{font-weight:700;font-size:15px;color:var(--text)}"
+           ".sym .tx a:hover{color:var(--accent)}.sym .tx small{display:inline-block;font-size:12px;color:var(--muted);border:1px solid var(--border);padding:0 6px;margin-left:6px;vertical-align:1px}"
+           ".sym .tx p{margin-top:4px;color:var(--text)}.symh{font-size:13px;font-weight:700;letter-spacing:.1em;margin:0 0 10px}"
+           ".symall{display:inline-block;font-size:14px;font-weight:700;color:var(--link);margin:-16px 0 36px;padding:8px 0}"
+           "h2.symc{font-size:18px;margin:36px 0 10px;padding-top:12px;border-top:2px solid var(--text)}h2.symc span{font-family:ui-monospace,'SFMono-Regular',Menlo,monospace;color:var(--accent);margin-right:8px}")
+
+
+def _symptom(title):
+    import re
+    m = re.match(r"(.+?[。？])", title)
+    return (m.group(1) if m else title).rstrip("。")
+
+
+def symptoms(cfg, posts, cats, theme, favicon, css):
+    """設定 "symptomTable" のメディアだけ: 記事を「症状（題名の最初の文）→まずやること（記事の summary）」の表にする。
+    番号は 分類の順番-分類内の古い順（記事が増えても既存の番号は変わらない）。全件の /{path}/ と、トップの「よくある症状と対処」を作る。"""
+    st = cfg.get("symptomTable")
+    if not st:
+        return []
+    rel = st.get("path", "symptoms") + "/"
+    stages = {g["stage"]: g["label"] for g in (cfg.get("gridGuide") or {}).get("stages", [])}
+    rows = {}  # category -> [(no, post)]
+    for ci, (cname, c) in enumerate(cats.items(), 1):
+        ps = sorted((p for p in posts if p["category"] == cname), key=lambda p: (p["date"], p["slug"]))
+        rows[cname] = [(f"{ci:02d}-{i:02d}", p) for i, p in enumerate(ps, 1)]
+
+    def row(no, p):
+        lab = stages.get(p.get("stage", ""), p.get("stage", ""))
+        return (f'<div class="sr"><div class="no">{no}</div><div class="tx"><a href="/{p["slug"]}/">{E(_symptom(p["title"]))}</a>'
+                + (f'<small>{E(lab)}</small>' if lab else "") + f'<p>{E(p.get("summary", ""))}</p></div></div>')
+    head = '<div class="sh"><div>番号</div><div>症状とまずやること</div></div>'
+    n = sum(len(v) for v in rows.values())
+    title = st.get("title", "症状と対処の一覧")
+    body = [f'<h1>{E(title)}</h1>', f'<p class="xlead">{E(st.get("lead", "").replace("{n}", str(n)))}</p>']
+    body.append('<nav class="chips" aria-label="分類">' + "".join(f'<a class="chip" href="#{cats[c]["id"]}">{E(c)}</a>' for c, rs in rows.items() if rs) + "</nav>")
+    items = []
+    for ci, (cname, rs) in enumerate(rows.items(), 1):
+        if not rs:
+            continue
+        body.append(f'<h2 class="symc" id="{cats[cname]["id"]}"><span>{ci:02d}</span>{E(cname)}</h2><div class="sym">{head}'
+                    + "".join(row(no, p) for no, p in rs) + "</div>")
+        items += [(no, p) for no, p in rs]
+    url = cfg["url"]
+    graph = [{"@type": "CollectionPage", "name": title, "url": url + rel, "inLanguage": "ja",
+              "publisher": {"@id": "https://seadice.win/#organization"},
+              "mainEntity": {"@type": "ItemList", "numberOfItems": len(items), "itemListElement": [
+                  {"@type": "ListItem", "position": i + 1, "name": f"{no} {_symptom(p['title'])}", "url": f"{url}{p['slug']}/"}
+                  for i, (no, p) in enumerate(items)]}}]
+    purl = _page(cfg, theme, favicon, css, rel, f'{title} | {cfg["name"]}', st.get("desc", "").replace("{n}", str(n)),
+                 "\n".join(body), graph, [(title, url + rel)], SYM_CSS)
+    # トップ: 「起きた」段階の新しい順に top 件（無ければ全記事の新しい順）
+    k = st.get("top", 6)
+    allr = [r for rs in rows.values() for r in rs]
+    pick = sorted([r for r in allr if r[1].get("stage") == st.get("topStage", "起きた")] or allr,
+                  key=lambda r: (r[1]["date"], r[1]["slug"]), reverse=True)[:k]
+    f = ROOT / cfg["path"] / "index.html"
+    t = f.read_text()
+    block = (f'<h2 class="symh">{E(st.get("topTitle", "よくある症状と対処"))}</h2><div class="sym">{head}'
+             + "".join(row(no, p) for no, p in pick) + f'</div><a class="symall" href="/{rel}">症状と対処をすべて見る（{n}件）</a>')
+    i = t.find('<h2 class="sec">')
+    if i >= 0 and pick:
+        t = t[:i] + block + t[i:]
+        t = t.replace("</style>", SYM_CSS + "</style>", 1)
+        f.write_text(t)
+    return [purl]
+
+
 def apply(cfg, posts, cats, images, types, theme, favicon, css, card):
     urls = guides(cfg, posts, cats, images, types, theme, favicon, css, card)
     urls += corrections(cfg, posts, theme, favicon, css)
@@ -556,6 +629,7 @@ def apply(cfg, posts, cats, images, types, theme, favicon, css, card):
     urls += activities(cfg, posts, theme, favicon, css)
     urls += glossary(cfg, posts, theme, favicon, css)
     urls += pages(cfg, theme, favicon, css)
+    urls += symptoms(cfg, posts, cats, theme, favicon, css)
     import mindmap  # 記事マップ /map/ (media/{slug}-map.json があるメディアだけ)
     urls += mindmap.build(cfg, posts, cats, lambda rel, title, desc, body, graph, trail, extra_css="":
                           _page(cfg, theme, favicon, css, rel, title, desc, body, graph, trail, extra_css))
