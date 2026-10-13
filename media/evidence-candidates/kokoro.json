@@ -1050,5 +1050,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-stress-thinking-values-writing-affirmation-problem-solving",
+    "category": "ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Creswell JD et al., \"Self-affirmation improves problem-solving under stress\" (PLoS ONE, 2013)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0062593",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/stress-thinking-values-writing/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ストレスで頭が回らないとき、何かできる？",
+        "body": "忙しい日が続くと、ひらめきが出てこなくなるよね。米国の研究者たちが、ストレスの高い人の「考える力」を守る方法を実験で調べたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大切な価値を短く書いてもらった",
+        "body": "大学生に11個の価値に順位をつけてもらい、半分は1位の価値がなぜ大事かを書いた。そのあと評価役の前で、3つの言葉に共通する言葉を12秒以内に答える難問を30問解いたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ストレスが高くても成績が落ちにくかった",
+        "body": "この1か月のストレスが高い人ほど成績は低めだった。でも1位の価値を書いたグループでは、ストレスの高い人もストレスの低い人と同じくらい解けていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1本の小さな実験",
+        "body": "分析したのは大学生73人だけで、評価役に急かされる特殊な場面だった。効果が何日続くかや、働く大人で同じになるかはまだわかっていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
