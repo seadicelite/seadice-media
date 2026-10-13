@@ -261,5 +261,14 @@
     "slugs": [
       "mind-wandering-while-reading"
     ]
+  },
+  {
+    "id": "attention-restoration",
+    "term": "注意回復理論",
+    "en": "Attention Restoration Theory",
+    "def": "自分の意思で向ける注意は使うと疲れ、木や水のようにほどよく目を引く自然の中で回復するという考え方。実験では効果が小さく、再現しないこともあります。",
+    "slugs": [
+      "nature-break-restore-focus"
+    ]
   }
 ]

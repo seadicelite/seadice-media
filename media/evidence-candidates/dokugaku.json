@@ -1148,5 +1148,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-nature-break-restore-focus-nature-walk",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Stenfors et al., \"Positive Effects of Nature on Cognitive Performance Across Multiple Experiments: Test Order but Not Affect Modulates the Cognitive Effects\" (Frontiers in Psychology, 2019)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2019.01413",
+    "studyType": "実験（13の実験をまとめた分析）",
+    "articleUrl": "https://dokugaku.seadice.win/nature-break-restore-focus/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自然の中を歩くと集中力が戻る？",
+        "body": "疲れたら公園を散歩すると頭がすっきりする、ってよく聞くよね。集中する力は本当に戻るのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "13の実験、528人分をまとめて分析",
+        "body": "自然の中と街なかで過ごした前後に、聞いた数字を逆の順に言うテストをした実験を、ひとつの研究グループがまとめて分析したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "自然の方が伸びたけど、差は小さめ",
+        "body": "テストの伸びは、自然の後が平均0.75点、街なかの後が0.29点。慣れの影響を除くと、自然の後は0.51点伸びて、街なかの後は0.23点下がっていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の成果につながるかは不明",
+        "body": "どれも同じ研究グループの実験で、測ったのは短いテストだけ。別のグループの38人の試験的な研究では、森と道路沿いの散歩で差が出なかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
