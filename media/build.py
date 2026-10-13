@@ -220,8 +220,36 @@ def build(slug, preview=None):
     if tn:
         print(f"toolbox: {tn} articles, hub {turls or 'kept'}")
     site_og(cfg)
+    if (bn := title_brand(cfg)):
+        print(f"title brand: {bn} pages -> {cfg['titleName']}")
     print(f"built {cfg['path']}index.html ({len(posts)} posts), seo-patched {n} articles, {len(pages)} trust pages, {len(cat_urls)} category hubs"
           + (f", {xn} extra pages, {xb} verified badges" if xn or xb else ""))
+
+
+def title_brand(cfg):
+    """設定に titleName があるメディアは、<title> と og/twitter:title の「| メディア名」を titleName に差し替える。
+    名前がよくある言葉で、検索やAIの要約で他と見分けにくいメディア用(例: 「AI時代の子育て（SEADICE）」)。何度実行しても同じ結果になる。"""
+    tn, name = cfg.get("titleName"), cfg["name"]
+    if not tn:
+        return 0
+    en, et = html.escape(name, quote=True), html.escape(tn, quote=True)
+    def fix(t):
+        if t.endswith(f"| {en}"):
+            return t[: -len(en)] + et
+        if t.endswith(f"|{en}"):
+            return t[: -len(en)] + et
+        if t.startswith(f"{en} |"):
+            return et + t[len(en):]
+        return t if et in t or not t else f"{t} | {et}"
+    n = 0
+    for f in (ROOT / cfg["path"]).rglob("*.html"):
+        s = f.read_text()
+        s2 = re.sub(r"(<title>)(.*?)(</title>)", lambda m: m[1] + fix(m[2]) + m[3], s, count=1)
+        s2 = re.sub(r'(<meta (?:property="og:title"|name="twitter:title") content=")([^"]*)(")', lambda m: m[1] + fix(m[2]) + m[3], s2)
+        if s2 != s:
+            f.write_text(s2)
+            n += 1
+    return n
 
 
 def site_og(cfg):
