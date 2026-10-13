@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-polished-writing-lost-my-voice",
+  "category": "創作・著作権",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-13",
+  "title": "AIに直してもらううちに、自分の文章らしさが消えた気がする。研究では、AIの書き直しで文章の複雑さのばらつきが21〜50%小さくなっていた",
+  "summary": "AIで整えた文章は内容が残っても文体がそろいやすい。先に自分で書き、AIには指摘だけを頼んで自分の言い回しを取り戻す"
+ },
+ {
   "slug": "ai-assisted-work-not-my-own",
   "category": "創作・著作権",
   "type": "guide",

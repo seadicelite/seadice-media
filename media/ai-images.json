@@ -1054,5 +1054,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Olympia_Simplex.jpg/500px-Olympia_Simplex.jpg",
   "og": "https://ai.seadice.win/img/ai-assisted-work-not-my-own.jpg",
   "local": true
+ },
+ "ai-polished-writing-lost-my-voice": {
+  "file": "File:Autobiography by William Munroe 1778-1861, Concord, 1839, manuscript on paper with cardstock binding - Concord Museum - Concord, MA - DSC05819.JPG",
+  "src": "/img/ai-polished-writing-lost-my-voice.jpg",
+  "src640": "/img/ai-polished-writing-lost-my-voice-sm.jpg",
+  "w": 960,
+  "h": 911,
+  "alt": "手書きの古い原稿",
+  "artist": "Daderot",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Autobiography_by_William_Munroe_1778-1861,_Concord,_1839,_manuscript_on_paper_with_cardstock_binding_-_Concord_Museum_-_Concord,_MA_-_DSC05819.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Autobiography_by_William_Munroe_1778-1861%2C_Concord%2C_1839%2C_manuscript_on_paper_with_cardstock_binding_-_Concord_Museum_-_Concord%2C_MA_-_DSC05819.JPG/960px-Autobiography_by_William_Munroe_1778-1861%2C_Concord%2C_1839%2C_manuscript_on_paper_with_cardstock_binding_-_Concord_Museum_-_Concord%2C_MA_-_DSC05819.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Autobiography_by_William_Munroe_1778-1861%2C_Concord%2C_1839%2C_manuscript_on_paper_with_cardstock_binding_-_Concord_Museum_-_Concord%2C_MA_-_DSC05819.JPG/500px-Autobiography_by_William_Munroe_1778-1861%2C_Concord%2C_1839%2C_manuscript_on_paper_with_cardstock_binding_-_Concord_Museum_-_Concord%2C_MA_-_DSC05819.JPG",
+  "og": "https://ai.seadice.win/img/ai-polished-writing-lost-my-voice.jpg",
+  "local": true
  }
 }
