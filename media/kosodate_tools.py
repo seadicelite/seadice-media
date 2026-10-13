@@ -218,6 +218,9 @@ PAGES += USE_PAGES
 from kosodate_soudan_tool import PAGE as SOUDAN_PAGE  # noqa: E402
 PAGES.append(SOUDAN_PAGE)
 
+from kosodate_game_tool import PAGE as GAME_PAGE  # noqa: E402
+PAGES.append(GAME_PAGE)
+
 if __name__ == "__main__":
     f = ROOT / "media/kosodate-pages.json"
     ps = json.loads(f.read_text())
