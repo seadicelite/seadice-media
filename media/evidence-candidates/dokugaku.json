@@ -1114,5 +1114,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-exam-nerves-choked-next-time-reappraisal",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bosshard & Gomez, \"Effectiveness of stress arousal reappraisal and stress-is-enhancing mindset interventions on task performance outcomes: a meta-analysis of randomized controlled trials\" (Scientific Reports, 2024)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-024-58408-w",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/exam-nerves-choked-next-time/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "「緊張は味方」と思えば本番に強くなる？",
+        "body": "試験の前にドキドキしたら「これは力になる」と思えばいい、ってよく聞くよね。本当に成績は上がるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ランダム化比較試験をまとめて分析",
+        "body": "ストレスのドキドキを前向きにとらえ直す方法を試した33本の論文、44の結果、合わせて5,638人をまとめたメタ分析だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果はあるけど、小さい",
+        "body": "成績の改善は d = 0.23 と小さめ。まだ公表されていない研究を補う計算をすると d = 0.14 まで下がった。著者たちも「万能薬ではない」と書いているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く続くのか、本番でも効くのか",
+        "body": "多くの研究は短い期間の効果しか見ていない。米国7つの大学の授業で短い働きかけを試した再現研究では、不安も成績も変わらなかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
