@@ -1614,5 +1614,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-habit-breaks-after-change-why-research-easter-gym",
+    "category": "習慣",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Fredslund & Leppin, \"Can the Easter break induce a long-term break of exercise routines? An analysis of Danish gym data using a regression discontinuity design\" (BMJ Open, 2019)",
+    "sourceUrl": "https://doi.org/10.1136/bmjopen-2018-024043",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/habit-breaks-after-change-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よくある悩み",
+        "title": "連休明け、ジムに行かなくなる",
+        "body": "休み前は通えていたのに、連休が明けたらなぜか足が向かない。そんな経験がある人は多いよね。実はこれ、ジムの入館記録にもはっきり表れていたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1,210人の入館記録を分析",
+        "body": "デンマークの研究者が、ジム会員1,210人の自動で記録された入館データを、イースター休暇の前後10週ずつ比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "休み明けに約12%減って、戻らなかった",
+        "body": "休暇明けの週から通う回数が週0.24回（約12%）落ちて、その後も取り戻されなかった。休み前に週2回以上通っていた人ほど、落ち込みが大きかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "習慣の強さは測っていない",
+        "body": "参加者は自分から調査に応じた人たちで、会員全体の代表とはいえない。習慣の強さそのものも測っていないから、なぜ落ちたのかは推測の部分もあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
