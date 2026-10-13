@@ -30,6 +30,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [子どもにAIは何歳から？研究と公的ガイドラインで整理](https://kosodate.seadice.win/ai-age-for-kids/): ユネスコの目安は13歳から。それより前は親と一緒に使うのが研究から見た安心な形です。
 - [AIに読書感想文・自由研究を手伝わせるのはずるい？文科省の方針と家庭でのルール](https://kosodate.seadice.win/ai-book-report-homework-help/): AIの生成物をそのまま提出するのは文科省の指針で不適切とされますが、一部活用まで禁止はしていません。
 - [高校生の受験勉強、AIをどこまで使っていい？答えを聞くかヒントにするかの差](https://kosodate.seadice.win/ai-exam-prep-high-school/): 約1,000人の高校生実験で、AIの使い方次第で学力への影響が真逆になることがわかりました。
+- [小学生がAIで宿題の答えを写していた。気づいたとき、叱る前にする声かけと次のルール](https://kosodate.seadice.win/ai-homework-copying-what-to-say/): 写しの主な理由は時間に追われること。写すほど試験の成績が下がる関連も。責めずに理由を聞き、1問を一緒に解き直してから、AIに聞いてよいことを決め直す。
 - [AIを使える子と使えない子で、学力の差は広がる？分かれ目は「使い方」と周りの関わり](https://kosodate.seadice.win/ai-literacy-gap-academic-achievement/): 差を分けたのはAIを使えるかより使い方。答えを聞くだけではAIなしの成績が下がり、AIを使う力は親や学校の関わりと関連していた。
 - [AI時代に学校の授業はどう変わる？各国の動きと、教室でAIを使った研究からわかること](https://kosodate.seadice.win/ai-school-classroom-change/): 中国は2025年から授業にAIを導入。答えを出すAIは自力のテストの点を下げ、ヒント型なら低下はほぼなし。分かれ目は使い方。
 - [AIの個別学習・AIチューターで本当に成績は上がる？](https://kosodate.seadice.win/ai-tutor-adaptive-learning-effect/): K-12の28研究のメタ分析では効果はおおむね前向きでしたが、AIの種類によって効果の大きさは異なっていました。
@@ -101,6 +102,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [子どもがAIに悩みを相談している。安全？人に相談するのとの違い](https://kosodate.seadice.win/ai-chatbot-worry-consultation-safety/): 米国の12〜21歳の約5人に1人がAIに心の相談をし、6割強は誰にも話していませんでした。危機の場面でのAIの弱さと、家庭でできることを整理します。
 - [AIの性的・暴力的な返答から子どもを守るには？フィルターと年齢制限だけでは防げない理由](https://kosodate.seadice.win/ai-sexual-violent-content-filter-age-limit/): AIとの性的なやりとりは12歳未満ほど多く、年齢確認は人気AIの25個中9個だけ。フィルターの効果も小さかった。設定に加えて親子で話せる関係が守りの中心になります。
 - [AI搭載の知育おもちゃ・スピーカーが子どもの声を録音している。プライバシーのリスクは？](https://kosodate.seadice.win/ai-smart-toy-voice-privacy/): 調査したスマートトイ11製品すべてが個人情報を収集しており、9製品は第三者とデータを共有していました。
+- [小学生がAIに名前や学校名を教えてしまった。入力した後に親子でやることと伝え方](https://kosodate.seadice.win/child-told-ai-name-school-privacy/): 入力した個人情報は学習に使われることがあると国が注意喚起。責めずに聞き、会話の削除と学習の設定を確認。削除しても残る場合があり、約束は年齢に合わせて伝える。
 - [子どものサイバーいじめ、親はどう気づく？サインと家庭でできる対策](https://kosodate.seadice.win/cyberbullying-children-parent-awareness/): SNSやゲームのチャットでのトラブルは親から見えにくいもの。気づく手がかりと家庭でできる対策を研究データで紹介します。
 - [子どもの見守りアプリ、位置情報の共有で信頼関係は壊れる？](https://kosodate.seadice.win/location-tracking-app-trust/): 米国などの調査では3〜7割の家庭が利用。信頼している相手との限定的な共有は受け入れられやすいとわかっています。
 - [子どもがオンラインゲームで知らない人とチャットしている。危険性と対策は？](https://kosodate.seadice.win/online-gaming-strangers-chat-risk/): オンラインゲームのチャットで子どもが知らない人とやり取り。危険性と対策を研究データで紹介します。

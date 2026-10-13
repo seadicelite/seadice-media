@@ -1086,5 +1086,39 @@
     "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Child_plays_on_smartphone_while_sitting_on_a_couch_during_afternoon_at_home_in_cozy_living_room_setting.jpg/500px-Child_plays_on_smartphone_while_sitting_on_a_couch_during_afternoon_at_home_in_cozy_living_room_setting.jpg",
     "og": "https://kosodate.seadice.win/img/game-cant-stop-time-limit-taking-away-og.jpg",
     "local": true
+  },
+  "child-told-ai-name-school-privacy": {
+    "file": "File:USVI IMG 5179 - Wooden desk with a notebook and pencils sits beside a white chair next to a bed with a chevron-patterned rug.jpg",
+    "src": "/img/child-told-ai-name-school-privacy.webp",
+    "src640": "/img/child-told-ai-name-school-privacy-sm.webp",
+    "w": 960,
+    "h": 640,
+    "alt": "机の上のノートと鉛筆",
+    "artist": "Category:Government of the United States Virgin Islands",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg",
+    "source_label": "Wikimedia Commons",
+    "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg/960px-USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg",
+    "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg/500px-USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg",
+    "og": "https://kosodate.seadice.win/img/child-told-ai-name-school-privacy-og.jpg",
+    "local": true
+  },
+  "ai-homework-copying-what-to-say": {
+    "file": "File:USVI IMG 5179 - Wooden desk with a notebook and pencils sits beside a white chair next to a bed with a chevron-patterned rug.jpg",
+    "src": "/img/ai-homework-copying-what-to-say.webp",
+    "src640": "/img/ai-homework-copying-what-to-say-sm.webp",
+    "w": 960,
+    "h": 640,
+    "alt": "机の上のノートと鉛筆",
+    "artist": "Category:Government of the United States Virgin Islands",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg",
+    "source_label": "Wikimedia Commons",
+    "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg/960px-USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg",
+    "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg/500px-USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg",
+    "og": "https://kosodate.seadice.win/img/ai-homework-copying-what-to-say-og.jpg",
+    "local": true
   }
 }

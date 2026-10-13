@@ -1,5 +1,21 @@
 [
  {
+  "slug": "ai-homework-copying-what-to-say",
+  "category": "AIの使わせ方",
+  "type": "guide",
+  "date": "2026-10-13",
+  "title": "小学生がAIで宿題の答えを写していた。気づいたとき、叱る前にする声かけと次のルール",
+  "summary": "写しの主な理由は時間に追われること。写すほど試験の成績が下がる関連も。責めずに理由を聞き、1問を一緒に解き直してから、AIに聞いてよいことを決め直す。"
+ },
+ {
+  "slug": "child-told-ai-name-school-privacy",
+  "category": "安全・プライバシー",
+  "type": "guide",
+  "date": "2026-10-13",
+  "title": "小学生がAIに名前や学校名を教えてしまった。入力した後に親子でやることと伝え方",
+  "summary": "入力した個人情報は学習に使われることがあると国が注意喚起。責めずに聞き、会話の削除と学習の設定を確認。削除しても残る場合があり、約束は年齢に合わせて伝える。"
+ },
+ {
   "slug": "game-cant-stop-time-limit-taking-away",
   "category": "スマホ・スクリーンタイム",
   "type": "guide",
