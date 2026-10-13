@@ -407,6 +407,15 @@
       "text": "言わない方がいいとする実験は「なりたい自分」の目標の話。身近な人に「やること」を話すと応援が増え、公表した目標は効果が大きめでした。",
       "slug": "tell-goals-to-others-or-keep-secret",
       "evidence": "meta"
+    },
+    {
+      "id": "brain-training",
+      "name": "脳トレのゲームで頭を鍛える",
+      "belief": "脳トレを続ければ、勉強の記憶力も上がる",
+      "level": "c",
+      "text": "練習したゲームは上達しますが、11,430人の実験では練習していない課題に広がりませんでした。学び直しには教材そのものを思い出す練習が確実です。",
+      "slug": "brain-training-games-adult-learning",
+      "evidence": "meta"
     }
   ]
 }

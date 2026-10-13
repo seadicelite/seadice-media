@@ -842,5 +842,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-brain-training-games-adult-learning-owen-11430",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Owen et al., \"Putting brain training to the test\" (Nature, 2010)",
+    "sourceUrl": "https://doi.org/10.1038/nature09042",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/brain-training-games-adult-learning/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "脳トレで頭がよくなる？",
+        "body": "脳トレのゲームを続ければ、記憶力や頭の回転がよくなって、勉強や仕事にも効く。そんなイメージがあるよね。実は大規模に確かめた実験がある。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "11,430人が6週間練習した",
+        "body": "英国のテレビ番組の視聴者のうち、18〜60歳の11,430人が参加。推理や記憶などの課題を、1回10分以上・週3回、6週間練習した。比べる組は、調べ物をしながら雑学クイズに答えただけ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "練習したゲームだけが上達",
+        "body": "練習した課題はすべて上達した。でも練習していない課題には、よく似た課題でさえ広がらなかった。雑学クイズの組も、同じくらいテストの点が伸びていたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "6週間より長いと？",
+        "body": "調べたのは6週間で、オンラインで各自が練習した形。もっと長く続けた場合や、人によって効き方が違うかまでは、この実験ではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

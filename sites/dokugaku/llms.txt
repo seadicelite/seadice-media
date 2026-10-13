@@ -28,6 +28,7 @@
 
 ### 記憶・覚え方
 
+- [脳トレで記憶力は上がる？大人の学び直しに効くのか、脳トレの研究でわかったこと](https://dokugaku.seadice.win/brain-training-games-adult-learning/): 脳トレで練習したゲームは上達するが、勉強や日常の力にはほとんど広がらない。11,430人の実験とメタ分析から整理。
 - [「なぜ？」と問いながら読むと覚えやすいのか。精緻化質問の研究](https://dokugaku.seadice.win/elaborative-interrogation-ask-why/): 事実ごとに「なぜ本当か」を1文で答える精緻化質問は、ただ読むより覚えやすい。効果は中程度で、知識のある分野ほど効く。
 - [英単語の効率的な覚え方。研究でわかった「思い出す・間をあける・使う」](https://dokugaku.seadice.win/english-vocabulary-how-to-memorize/): 英単語は眺めるより隠して思い出し、日をあけて復習すると覚えやすい。文で使うコツと語呂合わせの注意点も紹介
 - [暗記カードの効果的な使い方。研究でわかった「分けない・すぐ外さない」](https://dokugaku.seadice.win/flashcards-how-to-use/): 暗記カードは小分けにせず1束で回し、1回正解しただけで外さない方が長く覚えられる

@@ -294,6 +294,9 @@
     ],
     "use": [
      "adult-relearning-plan-sheet"
+    ],
+    "judge": [
+     "brain-training-games-adult-learning"
     ]
    }
   },

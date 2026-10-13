@@ -1371,5 +1371,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coffee_in_Montreal_%28Unsplash%29.jpg/500px-Coffee_in_Montreal_%28Unsplash%29.jpg",
   "og": "https://dokugaku.seadice.win/img/tell-goals-to-others-or-keep-secret.jpg",
   "local": true
+ },
+ "brain-training-games-adult-learning": {
+  "file": "File:Red jigsaw puzzle pieces 2.jpg",
+  "src": "/img/brain-training-games-adult-learning.jpg",
+  "src640": "/img/brain-training-games-adult-learning-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "赤いジグソーパズルのピース",
+  "artist": "Profpcde",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Red_jigsaw_puzzle_pieces_2.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Red_jigsaw_puzzle_pieces_2.jpg/960px-Red_jigsaw_puzzle_pieces_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Red_jigsaw_puzzle_pieces_2.jpg/500px-Red_jigsaw_puzzle_pieces_2.jpg",
+  "og": "https://dokugaku.seadice.win/img/brain-training-games-adult-learning.jpg",
+  "local": true
  }
 }
