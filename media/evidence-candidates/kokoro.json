@@ -1356,5 +1356,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-ai-faster-but-not-easier-expectations",
+    "category": "仕事",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Huang R, \"Transforming work or eroding social capital? How reliance on artificial intelligence drives workplace involution\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1842907",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-faster-but-not-easier/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIで速くなったのに忙しいのはなぜ？",
+        "body": "AIで資料もメールも速く作れるようになったのに、なぜか仕事はラクにならない。そんな感覚、ないかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "中国の会社員550人に聞いた",
+        "body": "2025年後半、中国の会社員550人に、仕事でAIに頼る度合い、上司の期待の感じ方、仕事の不安、職場の競争の感覚をアンケートで聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "期待と不安を通じてつながっていた",
+        "body": "AIに頼る人ほど「上司に高い成果を期待されている」と感じ、不安も強かった。それが「周りが必要以上に頑張り続けている」という競争の感覚とつながっていたらしい。AIに頼ること自体との直接のつながりははっきりしなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIが原因とは言えない",
+        "body": "1回きりのアンケートだから、AIに頼るから不安になるのか、不安な人がAIに頼るのかはわからないよ。期待も本人の感じ方で、上司が実際に求めた量ではないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

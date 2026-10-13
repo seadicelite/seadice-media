@@ -2740,5 +2740,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/500px-A_small_cup_of_coffee.JPG",
   "og": "https://mentalai.seadice.win/img/sns-career-comparison-frustration.jpg",
   "local": true
+ },
+ "ai-faster-but-not-easier": {
+  "file": "File:Working at a desk with a laptop coffee cup and a plant on a white surface.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Working_at_a_desk_with_a_laptop_coffee_cup_and_a_plant_on_a_white_surface.jpg/960px-Working_at_a_desk_with_a_laptop_coffee_cup_and_a_plant_on_a_white_surface.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Working_at_a_desk_with_a_laptop_coffee_cup_and_a_plant_on_a_white_surface.jpg/500px-Working_at_a_desk_with_a_laptop_coffee_cup_and_a_plant_on_a_white_surface.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "観葉植物のそばに置かれたノートパソコン",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Working_at_a_desk_with_a_laptop_coffee_cup_and_a_plant_on_a_white_surface.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
