@@ -214,7 +214,8 @@
     {"name": "しぐさ索引・クイズ", "desc": "しぐさ・ボディランゲージを部位から引ける索引", "href": "/shigusa/", "cats": ["しぐさ・ボディランゲージ"]},
     {"name": "ふたりの日記", "desc": "恋人との毎日を1タップで記録する", "href": "/nikki/", "cats": ["相性と結婚"]},
     {"name": "本当？ウソ？クイズ", "desc": "恋愛・しぐさの通説77問を研究で判定", "href": "/quiz/", "all": true},
-    {"id": "attachment-style", "name": "愛着スタイル診断", "desc": "安定型・不安型・回避型など、恋愛や人間関係のパターンを知る", "appStoreId": "6793424764", "cats": ["相性と結婚", "別れと復縁"], "all": true},
+    {"name": "愛着スタイル診断（9問）", "desc": "研究で使われる9問で、見捨てられ不安と親密さの回避を点数に。恋人・友人・親から相手を選べる", "href": "https://seadice.win/diagnosis/attachment-style/", "slugs": ["attachment-style-relationship-compatibility", "reply-anxiety-attachment-jealousy-research", "pulling-away-liking-ambivalence-research", "own-jealousy-normal-or-excessive-research", "partner-texting-less-what-to-do-research"], "top": false},
+    {"id": "attachment-style", "name": "愛着スタイル診断", "desc": "安定型・不安型・回避型など、恋愛や人間関係のパターンを知る", "appStoreId": "6793424764", "slugs": ["attachment-style-relationship-compatibility", "reply-anxiety-attachment-jealousy-research", "pulling-away-liking-ambivalence-research", "own-jealousy-normal-or-excessive-research", "partner-texting-less-what-to-do-research"], "cats": ["相性と結婚", "別れと復縁"], "all": true},
     {"id": "fbi-bodylanguage", "name": "FBI式ボディランゲージ辞典", "desc": "腕組みや視線などのしぐさを、元FBI捜査官の観察法で読み解くクイズ", "appStoreId": "6792498079", "cats": ["しぐさ・ボディランゲージ", "駆け引きと心理"]}
   ]
 }

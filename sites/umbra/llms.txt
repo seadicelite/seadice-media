@@ -243,6 +243,7 @@
 - [しぐさ索引・クイズ](https://umbra.seadice.win/shigusa/): Webツール。しぐさ・ボディランゲージを部位から引ける索引
 - [ふたりの日記](https://umbra.seadice.win/nikki/): Webツール。恋人との毎日を1タップで記録する
 - [本当？ウソ？クイズ](https://umbra.seadice.win/quiz/): Webツール。恋愛・しぐさの通説77問を研究で判定
+- [愛着スタイル診断（9問）](https://seadice.win/diagnosis/attachment-style/): Webツール。研究で使われる9問で、見捨てられ不安と親密さの回避を点数に。恋人・友人・親から相手を選べる
 - [愛着スタイル診断](https://apps.apple.com/app/id6793424764): iPhoneアプリ。安定型・不安型・回避型など、恋愛や人間関係のパターンを知る
 - [FBI式ボディランゲージ辞典](https://apps.apple.com/app/id6792498079): iPhoneアプリ。腕組みや視線などのしぐさを、元FBI捜査官の観察法で読み解くクイズ
 - [科学で断つ 悪習慣ログ](https://apps.apple.com/app/id6798075879): iPhoneアプリ。やめたい習慣を登録すると、行動科学の知見からやめ方のカードを作成。「耐えた」を記録して、続いた日数が目に見える
