@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-assisted-work-not-my-own",
+  "category": "創作・著作権",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-13",
+  "title": "AIに手伝わせた作品が、自分の作品だと思えない。研究では、丸写しより先に自分で下書きしてAIで直す使い方のほうが「自分のもの」という感覚が残った",
+  "summary": "AIの出力を写すだけだと「自分のもの」という感覚が下がりました。作る前に、自分がやる部分とAIに頼む部分を決めておく方法を紹介します。"
+ },
+ {
   "slug": "privacy-fatigue-gave-up-protecting",
   "category": "プライバシー・個人情報",
   "type": "guide",
