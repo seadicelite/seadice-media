@@ -2470,5 +2470,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hourglasses.jpg/500px-Hourglasses.jpg",
   "og": "https://mentalai.seadice.win/img/short-video-time-perception.jpg",
   "local": true
+ },
+ "friends-drifting-apart-prevent": {
+  "file": "File:Cappuccinos and cake (Unsplash).jpg",
+  "src": "/img/friends-drifting-apart-prevent.jpg",
+  "src640": "/img/friends-drifting-apart-prevent-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のテーブルに置かれた2杯のカプチーノ",
+  "artist": "Alisa Anton alisaanton",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Cappuccinos_and_cake_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cappuccinos_and_cake_%28Unsplash%29.jpg/960px-Cappuccinos_and_cake_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cappuccinos_and_cake_%28Unsplash%29.jpg/500px-Cappuccinos_and_cake_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/friends-drifting-apart-prevent.jpg",
+  "local": true
  }
 }

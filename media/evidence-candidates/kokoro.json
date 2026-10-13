@@ -846,5 +846,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-friends-drifting-apart-prevent-friendship-decay",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Roberts SBG, Dunbar RIM, \"Managing Relationship Decay: Network, Gender, and Contextual Effects\" (Human Nature, 2015)",
+    "sourceUrl": "https://doi.org/10.1007/s12110-015-9242-7",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/friends-drifting-apart-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "親友なら、会わなくても平気？",
+        "body": "本当に仲のいい友達なら、しばらく会わなくても関係は変わらない。そう思いたいよね。実際はどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "高校生25人を18か月追跡",
+        "body": "英国の研究で、進学や就職をはさむ18か月、高校3年生25人の人間関係を追いかけたんだ。名前が挙がった相手は1,291人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "近い輪に残った友達は48.6%",
+        "body": "実は、いちばん近い輪にいた友達のうち、18か月後も残ったのは48.6%。家族・親戚は70.3%だった。連絡や一緒の活動が増えた友達ほど、親しさは下がりにくかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人でも同じ？",
+        "body": "25人の若者の研究で、連絡が親しさを保ったのか、親しいから連絡したのかは区別できていない。大人の転職や引っ越しでも同じかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
