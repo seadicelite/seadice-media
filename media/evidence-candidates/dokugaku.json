@@ -1080,5 +1080,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-adult-memory-confidence-age-belief-stereotype",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lamont, Swift & Abrams, \"A review and meta-analysis of age-based stereotype threat: Negative stereotypes, not facts, do the damage\" (Psychology and Aging, 2015)",
+    "sourceUrl": "https://doi.org/10.1037/a0038586",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/adult-memory-confidence-age-belief/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く話",
+        "title": "「年だから覚えられない」",
+        "body": "大人になってから勉強すると、つい言いたくなるよね。でも実は、その「年だから」という思い込み自体が、成績に影響するかもしれないらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "32本の論文をまとめて分析",
+        "body": "平均69.5歳、合わせて3,882人の実験をまとめたメタ分析。年齢の決めつけを意識させたときに、記憶や頭を使う課題の成績がどう変わるかを比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "決めつけは効く、事実の説明は効かない",
+        "body": "決めつけを意識させると成績は下がった（d = .52）。一方で「記憶は年齢で落ちる」という事実として伝えたときは、はっきりした差がなかった（d = .09）。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本当の効果はもっと小さいかも",
+        "body": "公表された研究では効果が大きく（d = .42）、未公表の研究ではほぼゼロ（d = −.03）。結果が出た研究ほど世に出やすい偏りがあるみたい。対象も高齢者の実験室の課題が中心だよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
