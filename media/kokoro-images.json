@@ -2380,5 +2380,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Herbal_Tea_01.jpg/500px-Herbal_Tea_01.jpg",
   "og": "https://mentalai.seadice.win/img/symptom-search-ai-anxiety.jpg",
   "local": true
+ },
+ "lonely-only-me": {
+  "file": "File:Bench autumn 03.JPG",
+  "src": "/img/lonely-only-me.jpg",
+  "src640": "/img/lonely-only-me-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "秋の公園のベンチ",
+  "artist": "Onderwijsgek",
+  "license": "CC BY-SA 2.5 nl",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/nl/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Bench_autumn_03.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bench_autumn_03.JPG/960px-Bench_autumn_03.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bench_autumn_03.JPG/500px-Bench_autumn_03.JPG",
+  "og": "https://mentalai.seadice.win/img/lonely-only-me.jpg",
+  "local": true
  }
 }

@@ -676,5 +676,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-lonely-only-me-148-countries",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Leblang D, Wesselbaum D, \"Loneliness around the world: patterns, predictors, and well-being implications\" (European Journal of Epidemiology, 2026)",
+    "sourceUrl": "https://doi.org/10.1007/s10654-026-01424-z",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/lonely-only-me/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "孤独を感じるのは一部の人だけ？",
+        "body": "孤独って、友達が少ない人や年を取った人の悩みだと思われがち。周りはみんな楽しそうで、自分だけが寂しい気がする日もあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "148か国・21万人に聞いてみた",
+        "body": "ギャラップ世界世論調査の2023〜2024年のデータで、148か国の15歳以上21万8,048人の答えを分析。「昨日、一日の多くの時間に孤独を感じた？」という質問だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "5人に1人以上が「はい」",
+        "body": "「はい」と答えた人は21.3%。アジアでは18.6%だった。年齢では50歳ごろまで増えて、そこから下がる形。孤独は年齢や国を問わない、ありふれた気持ちらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "「昨日」の1問だけの調査",
+        "body": "昨日のことを1問で聞いているので、長く続く孤独よりその日の気分を拾っている可能性がある。1回きりの調査で、孤独が増えているのかどうかもわからない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
