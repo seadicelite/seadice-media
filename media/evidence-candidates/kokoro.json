@@ -1254,5 +1254,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-listen-when-someone-confides-feel-heard",
+    "category": "AIと心",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yin Y, Jia N, Wakslak CJ, \"AI can help people feel heard, but an AI label diminishes this impact\" (PNAS, 2024)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.2319112121",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/listen-when-someone-confides/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "悩み相談、何て返せばいい？",
+        "body": "友達に悩みを打ち明けられると、役に立つアドバイスをしなきゃって焦るよね。でも、相手が求めているのは本当に答えなのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "AIと人が同じ悩みに返事",
+        "body": "米国の大人455人が自分の悩みを話して、翌日その返事を読んだんだ。返事はネットで集めた別の人か、AIが「わかってもらえたと感じるように」書いたもの。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "助言より、気持ちを受け止める返事",
+        "body": "AIの返事は気持ちの支えが多く、助言は少なめ。「わかってもらえた」感覚と結びついていたのは気持ちの支えで、助言の多さとは結びついていなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIと知ると下がる、親しい人なら？",
+        "body": "同じ返事でもAIが書いたと知ると「わかってもらえた」感覚は下がった。返事を書いた人は知らない相手で、家族や友人の返事と比べたわけではないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
