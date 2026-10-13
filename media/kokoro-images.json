@@ -2506,5 +2506,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Laptop_on_a_green_thumb%27s_desk_%28Unsplash%29.jpg/500px-Laptop_on_a_green_thumb%27s_desk_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/ai-job-worry-workplace-support.jpg",
   "local": true
+ },
+ "ai-chat-boredom-prevent": {
+  "file": "File:Shelf at the bottom of a window for growing houseplants.jpg",
+  "src": "/img/ai-chat-boredom-prevent.jpg",
+  "src640": "/img/ai-chat-boredom-prevent-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "窓辺に置かれた鉢植えの植物",
+  "artist": "Tangopaso",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Shelf_at_the_bottom_of_a_window_for_growing_houseplants.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Shelf_at_the_bottom_of_a_window_for_growing_houseplants.jpg/960px-Shelf_at_the_bottom_of_a_window_for_growing_houseplants.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Shelf_at_the_bottom_of_a_window_for_growing_houseplants.jpg/500px-Shelf_at_the_bottom_of_a_window_for_growing_houseplants.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-chat-boredom-prevent.jpg",
+  "local": true
  }
 }
