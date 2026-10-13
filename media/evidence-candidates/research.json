@@ -1478,5 +1478,73 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-night-waking-why-research-clock-watching",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Tang, Schmidt & Harvey, \"Sleeping with the enemy: Clock monitoring in the maintenance of insomnia\" (Journal of Behavior Therapy and Experimental Psychiatry, 2007)",
+    "sourceUrl": "https://doi.org/10.1016/j.jbtep.2005.07.004",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/night-waking-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "眠れない夜、つい時計を見ちゃう",
+        "body": "眠れないとき、時計を見て「あと何時間眠れる」と計算しがちだよね。でも、それがかえって眠りを遠ざけるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "時計を見る人と見ない人を比べた",
+        "body": "よく眠れる人30人と眠れない人30人に、眠ろうとする間に時計を見るか見ないかを指示して、心配の強さと寝つきを測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "時計を見ると心配が増えた",
+        "body": "時計を見た人は、寝る前の心配が多く、寝つくまでの時間も長かった。よく眠れる人でも同じだったよ。不眠症の38人の実験でも、時計を見ると寝つきを実際より長く感じやすかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "夜中に起きたときの話ではない",
+        "body": "調べたのは寝つきの場面で、夜中に目が覚めた後に時計を見たらどうなるかを直接確かめた実験ではないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-night-waking-why-research-one-in-three",
+    "category": "睡眠",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ohayon, \"Nocturnal awakenings and comorbid disorders in the American general population\" (Journal of Psychiatric Research, 2008)",
+    "sourceUrl": "https://doi.org/10.1016/j.jpsychires.2008.02.001",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/night-waking-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "夜中に目が覚めるのは自分だけ？",
+        "body": "夜中にふと目が覚めて、もしかして体がおかしいのかなと不安になること、あるよね。実はかなり多くの人に起きているらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "アメリカの8937人に電話調査",
+        "body": "3つの州に住む18歳以上の8937人に、夜中に目が覚める頻度や長さ、理由を聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "週3日以上が35.5%",
+        "body": "週3日以上夜中に目が覚める人は35.5%、毎晩の人は23%だった。毎晩目が覚める人では、体や心の病気が多く見られたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因か結果かはわからない",
+        "body": "本人の申告による調査で、病気が目覚めの原因なのか、目覚めが病気につながるのかは区別できないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

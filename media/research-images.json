@@ -1717,5 +1717,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Reading_materials_on_a_desk_with_glasses_a_pen_and_an_apple_nearby.jpg/500px-Reading_materials_on_a_desk_with_glasses_a_pen_and_an_apple_nearby.jpg",
   "og": "https://research.seadice.win/img/procrastination-if-only-reflection-research.jpg",
   "local": true
+ },
+ "night-waking-why-research": {
+  "file": "File:DZ6 0461 Cozy neatly made hotel room with a king bed soft pillows bedside lamps and calming neutral decor.jpg",
+  "src": "/img/night-waking-why-research.jpg",
+  "src640": "/img/night-waking-why-research-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "枕もとにランプが灯るベッド",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DZ6_0461_Cozy_neatly_made_hotel_room_with_a_king_bed_soft_pillows_bedside_lamps_and_calming_neutral_decor.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DZ6_0461_Cozy_neatly_made_hotel_room_with_a_king_bed_soft_pillows_bedside_lamps_and_calming_neutral_decor.jpg/960px-DZ6_0461_Cozy_neatly_made_hotel_room_with_a_king_bed_soft_pillows_bedside_lamps_and_calming_neutral_decor.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DZ6_0461_Cozy_neatly_made_hotel_room_with_a_king_bed_soft_pillows_bedside_lamps_and_calming_neutral_decor.jpg/500px-DZ6_0461_Cozy_neatly_made_hotel_room_with_a_king_bed_soft_pillows_bedside_lamps_and_calming_neutral_decor.jpg",
+  "og": "https://research.seadice.win/img/night-waking-why-research.jpg",
+  "local": true
  }
 }
