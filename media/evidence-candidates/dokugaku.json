@@ -1556,5 +1556,73 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-review-backlog-catch-up-drop-from-testing",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Karpicke & Roediger, \"The critical importance of retrieval for learning\" (Science, 2008)",
+    "sourceUrl": "https://doi.org/10.1126/science.1152408",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/review-backlog-catch-up/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "覚えた単語は外していい？",
+        "body": "一度正しく答えられた単語は、もう覚えたもの。復習から外して、まだの単語に時間を回す方が効率的、と考えがちだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "外し方を変えて比べた",
+        "body": "大学生が外国語の単語を学ぶ実験で、正しく答えられた単語を、その後は読むだけ・テストだけ・どちらからも外す、などに分けて比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "テストを続けた方が残った",
+        "body": "答えられた後に読み直しを続けても、後の記憶は変わらなかった。でもテストを続けると大きくよくなった。学生の自己予想は、実際の成績と関係がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "単語以外でも同じ？",
+        "body": "外国語の単語を覚える実験室の研究で、文章の理解や問題を解く力で同じ大きさの差が出るかは、この研究だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-review-backlog-catch-up-expanding-schedule",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Karpicke & Bauernschmidt, \"Spaced retrieval: Absolute spacing enhances learning regardless of relative spacing\" (Journal of Experimental Psychology: Learning, Memory, and Cognition, 2011)",
+    "sourceUrl": "https://doi.org/10.1037/a0023436",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/review-backlog-catch-up/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "復習の間隔は少しずつ広げるべき？",
+        "body": "1日後、3日後、1週間後…と復習の間隔を少しずつ広げるのが一番、とよく言われるよね。予定がずれると全部台無しな気もする。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "間隔の組み方を比べた",
+        "body": "思い出せるまで学んだあと、3回のテストを、間隔を広げる・同じにする・狭めるなど、いろいろな組み方でくり返す実験をしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "大事なのは間をあけること",
+        "body": "間隔を長くとるほど記憶はよく、間をあけない場合より200%向上した。でも、広げる・同じ・狭めるの違いでは、はっきりした差は出なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い独学でも同じ？",
+        "body": "実験室で項目を覚えた研究で、何か月も続く資格や語学の勉強に、そのまま当てはまるかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

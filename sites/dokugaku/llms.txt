@@ -39,6 +39,7 @@
 - [語呂合わせやイメージで覚えるのは効くのか。記憶術（キーワード法・イメージ化）の研究](https://dokugaku.seadice.win/mnemonics-keyword-method-imagery/): 語呂合わせは覚える速さには効くが、数日後には忘れやすい。覚えにくい数個のきっかけにして、思い出す練習へ切り替える
 - [音読と黙読、どちらが覚えられるのか。音読効果（プロダクション効果）の研究](https://dokugaku.seadice.win/reading-aloud-production-effect/): 声に出した部分は黙読より覚えやすい。ただし効くのは覚えたい要点だけを声に出すときで、全部を音読すると差は小さくなる
 - [思い出す練習（テスト効果）は、読み返すより覚えられるのか](https://dokugaku.seadice.win/retrieval-practice-vs-rereading/): 読み返すより本を閉じて思い出す方が1週間後に残る。答え合わせをすると効果が大きくなる
+- [復習がたまって追いつかない。どう立て直す？遅れた復習の片づけ方（間隔と思い出す練習の研究）](https://dokugaku.seadice.win/review-backlog-catch-up/): 遅れた復習の損はゆるやか。新しい項目を止め、数日に分け、読み返さずに思い出し、覚えた項目もテストに残す手順。
 - [寝る前の勉強は記憶に残りやすいのか。睡眠と記憶の研究でわかったこと](https://dokugaku.seadice.win/sleep-before-study-memory/): 学んだあとに眠ると忘れにくい。夜に覚えて朝に復習すると、6か月後も多く残った
 - [間をあけて復習すると忘れにくいのはなぜ？分散学習の研究でわかったこと](https://dokugaku.seadice.win/spaced-review-why-it-works/): 同じ復習時間でも日をあけると忘れにくい。約1,350人の研究で正答64%増、最適な間隔は使う日から逆算
 - [思い出すときの「ど忘れ」はなぜ起きるのか。のどまで出かかる現象の研究](https://dokugaku.seadice.win/tip-of-the-tongue-forgetting/): ど忘れは意味はわかるのに音が出ない状態。長く粘るほど同じ単語で繰り返し、思い出せると繰り返しにくい
