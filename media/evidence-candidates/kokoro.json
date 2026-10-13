@@ -1118,5 +1118,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-ai-confide-people-again-beautiful-mess",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bruk A et al., \"You and I Both: Self-Compassion Reduces Self–Other Differences in Evaluation of Showing Vulnerability\" (Personality and Social Psychology Bulletin, 2022)",
+    "sourceUrl": "https://doi.org/10.1177/01461672211031080",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-confide-people-again/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "弱みを見せるのって、そんなに危ない？",
+        "body": "失敗を認める、気持ちを伝える。言ったら引かれそうで、つい黙っちゃうよね。でも、その怖さは本当に正確なんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "自分と他人、同じ場面で比べた",
+        "body": "ドイツの大学生340人の4つの実験。告白、見た目の欠点を見せる、上司にミスを認める場面を、自分のことと他人のこととして想像して評価してもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "自分にだけ厳しかった",
+        "body": "4つの実験すべてで、他人が弱みを見せるほうを好意的に評価していた。上司にミスを認める場面では、7点満点で他人4.92点、自分4.65点。自分への思いやりが強い人ほど、この差は小さかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本番の反応は測っていない",
+        "body": "想像した場面での評価で、実際に話したときの相手の反応は測っていない。対象はドイツの大学生で、自分への思いやりも性格として測っただけ。練習で差が縮まるかは、まだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

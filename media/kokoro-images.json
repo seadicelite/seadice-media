@@ -2599,8 +2599,8 @@
  },
  "ai-job-worry-lasting-isolation": {
   "file": "File:Teacup with Tealeaves on Wooden Table.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Teacup_with_Tealeaves_on_Wooden_Table.jpg/960px-Teacup_with_Tealeaves_on_Wooden_Table.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Teacup_with_Tealeaves_on_Wooden_Table.jpg/500px-Teacup_with_Tealeaves_on_Wooden_Table.jpg",
+  "src": "/img/ai-job-worry-lasting-isolation.jpg",
+  "src640": "/img/ai-job-worry-lasting-isolation-sm.jpg",
   "w": 960,
   "h": 942,
   "alt": "木のテーブルに置かれたティーカップ",
@@ -2608,6 +2608,29 @@
   "license": "CC BY-SA 3.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:Teacup_with_Tealeaves_on_Wooden_Table.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Teacup_with_Tealeaves_on_Wooden_Table.jpg/960px-Teacup_with_Tealeaves_on_Wooden_Table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Teacup_with_Tealeaves_on_Wooden_Table.jpg/500px-Teacup_with_Tealeaves_on_Wooden_Table.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-job-worry-lasting-isolation.jpg",
+  "local": true
+ },
+ "ai-confide-people-again": {
+  "file": "File:Coffee in Montreal (Unsplash).jpg",
+  "src": "/img/ai-confide-people-again.jpg",
+  "src640": "/img/ai-confide-people-again-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のテーブルに置かれた2つのカップとスマートフォン",
+  "artist": "Luke Chesser lukechesser",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Coffee_in_Montreal_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coffee_in_Montreal_%28Unsplash%29.jpg/960px-Coffee_in_Montreal_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coffee_in_Montreal_%28Unsplash%29.jpg/500px-Coffee_in_Montreal_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-confide-people-again.jpg",
+  "local": true
  }
 }
