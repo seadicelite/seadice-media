@@ -968,5 +968,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-group-work-procrastination-research-indispensable",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Koppenborg et al., \"Is procrastination among students lower in group work? Evidence from a registered field experiment\" (British Journal of Educational Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.1111/bjep.70069",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/group-work-procrastination-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "人と一緒なら先延ばししない？",
+        "body": "ひとりだと手がつかないけど、誰かとやるなら動ける。よく聞く話だよね。実は、グループの「組み方」で結果が変わるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "10日間の課題で3つに分けた",
+        "body": "先延ばししがちなドイツの大学生218人に、参考文献リストづくりを出したよ。ひとり／成績が一番低い人で決まる3人組／平均で決まる3人組に分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「自分が欠かせない」組だけ少なめ",
+        "body": "先延ばしの程度（1〜5）は、ひとり3.04、一番低い人で決まる組2.69、平均で決まる組3.00。誰かが補える形だと、ひとりと変わらなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "事前の分析では差が出なかった",
+        "body": "事前に決めた分析では有意な差にならず、著者も結論は出ていないとしているよ。仲間は実在せず、作業前のいやな気持ちはグループのほうが強かったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

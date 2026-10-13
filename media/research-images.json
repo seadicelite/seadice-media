@@ -1537,5 +1537,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Woman_reading_a_book_next_to_an_upside_down_bicycle%2C_Cais_do_Sodr%C3%A9%2C_Lisbon%2C_Portugal_julesvernex2.jpg/500px-Woman_reading_a_book_next_to_an_upside_down_bicycle%2C_Cais_do_Sodr%C3%A9%2C_Lisbon%2C_Portugal_julesvernex2.jpg",
   "og": "https://research.seadice.win/img/read-but-cant-remember-illusion-why-research.jpg",
   "local": true
+ },
+ "group-work-procrastination-research": {
+  "file": "File:Harriet Backer - Study for Card Players - NG.M.01051 - National Museum of Art, Architecture and Design.jpg",
+  "src": "/img/group-work-procrastination-research.jpg",
+  "src640": "/img/group-work-procrastination-research-sm.jpg",
+  "w": 960,
+  "h": 744,
+  "alt": "テーブルを囲んで座る人たちを描いた油絵",
+  "artist": "Harriet Backer",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Harriet_Backer_-_Study_for_Card_Players_-_NG.M.01051_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Harriet_Backer_-_Study_for_Card_Players_-_NG.M.01051_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/960px-Harriet_Backer_-_Study_for_Card_Players_-_NG.M.01051_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Harriet_Backer_-_Study_for_Card_Players_-_NG.M.01051_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/500px-Harriet_Backer_-_Study_for_Card_Players_-_NG.M.01051_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg",
+  "og": "https://research.seadice.win/img/group-work-procrastination-research.jpg",
+  "local": true
  }
 }
