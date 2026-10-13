@@ -710,5 +710,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-sns-upward-comparison-why-ability-posts",
+    "category": "SNSと比較",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ozimek P, Brandenberg G, Rohmann E, Bierhoff HW, \"The Impact of Social Comparisons More Related to Ability vs. More Related to Opinion on Well-Being: An Instagram Study\" (Behavioral Sciences, 2023)",
+    "sourceUrl": "https://doi.org/10.3390/bs13100850",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/sns-upward-comparison-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "どんな投稿で落ち込みやすい？",
+        "body": "SNSを見て、なんとなく気分が沈む日があるよね。でも、どの投稿でも同じように落ち込むのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "409人に2種類の投稿を見せた",
+        "body": "ドイツの研究チームが、Instagram風の投稿を見せる実験をしたよ。半分にはスポーツや演奏など「できること」の投稿を、残りには意見やメッセージの投稿を見せたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「できること」の投稿で気分が下がった",
+        "body": "「できること」の投稿を見た人は、嫌な気分が強く、人生の満足度と自尊心が低めだった。前向きな気分の差ははっきりしなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "投稿を見ない人との比較はない",
+        "body": "投稿を見ないグループがなく、2種類の投稿どうしの比較だけ。参加者は平均24.3歳で、8割以上が女性だった。ほかの年代でも同じかはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
