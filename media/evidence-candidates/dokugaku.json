@@ -1012,5 +1012,73 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-generate-questions-while-reading-make-own-test",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Weinstein et al., \"A comparison of study strategies for passages: Rereading, answering questions, and generating questions\" (Journal of Experimental Psychology: Applied, 2010)",
+    "sourceUrl": "https://doi.org/10.1037/a0020992",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/generate-questions-while-reading/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自分で問題を作るのが最強？",
+        "body": "テスト問題を自分で作って答えると、一番よく覚えられる。勉強法の本でもよく見かける話だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3つのやり方を比べた実験",
+        "body": "短い文章を読んだあと、読み直す・用意された問題に答える・自分で問題を作って答える、の3つを比べた実験が3回行われたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "答えるのと同じくらい",
+        "body": "作るのも答えるのも読み直しよりは成績が高かった。でも作る方が答えるより上ということはなく、時間は少なくとも2倍かかった。本人たちは作ったあとが一番できると予想していたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い独学でも同じ？",
+        "body": "使われたのは短い文章で、テストは直後か2日後。何か月もかける資格の勉強で同じになるかは、まだはっきりしない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-write-why-study-matters-motivation-teach-dont-preach",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Canning & Harackiewicz, \"Teach it, don't preach it: The differential effects of directly-communicated and self-generated utility value information\" (Motivation Science, 2015)",
+    "sourceUrl": "https://doi.org/10.1037/mot0000015",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/write-why-study-matters-motivation/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「役に立つよ」と言われたら頑張れる？",
+        "body": "この勉強は将来きっと役に立つ。そう教えてもらえば、やる気が出そうな気がするよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "言われる人と自分で書く人",
+        "body": "大学生88人が暗算のコツを学んだ実験。役立ち方の説明を読む人と、8分で自分の生活にどう役立つかを書く人を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "自分で書いた方が解けた",
+        "body": "自分で書いた人は平均30.36問、説明を読んだ人は26.48問を解いた。自信のない人では、一方的に説明されると、自分で書いた場合より成績も興味も低くなったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く続く勉強でも同じ？",
+        "body": "1時間ほどの実験室の課題での結果。大学の授業での大きな実験では、成績の差が小さかったり出なかったりしている。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

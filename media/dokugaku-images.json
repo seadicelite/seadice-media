@@ -1461,5 +1461,41 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Desk-pencil-eraser-black.jpg/500px-Desk-pencil-eraser-black.jpg",
   "og": "https://dokugaku.seadice.win/img/ai-wrong-answer-unlearn-correct.jpg",
   "local": true
+ },
+ "generate-questions-while-reading": {
+  "file": "File:A notebook.jpg",
+  "src": "/img/generate-questions-while-reading.jpg",
+  "src640": "/img/generate-questions-while-reading-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "開いたノートと鉛筆",
+  "artist": "Jan Kahánek",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:A_notebook.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/960px-A_notebook.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/500px-A_notebook.jpg",
+  "og": "https://dokugaku.seadice.win/img/generate-questions-while-reading.jpg",
+  "local": true
+ },
+ "write-why-study-matters-motivation": {
+  "file": "File:Vihorlat Museum in Humenné - History and art history permanent exhibition - Study - Writing desk of the study, with upholstered armchair, paper weight, ink pot and open book (September 2026).jpg",
+  "src": "/img/write-why-study-matters-motivation.jpg",
+  "src640": "/img/write-why-study-matters-motivation-sm.jpg",
+  "w": 960,
+  "h": 719,
+  "alt": "書斎の机に置かれた開いた本とインク壺",
+  "artist": "ZemplinTemplar",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Study_-_Writing_desk_of_the_study,_with_upholstered_armchair,_paper_weight,_ink_pot_and_open_book_(September_2026).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Study_-_Writing_desk_of_the_study%2C_with_upholstered_armchair%2C_paper_weight%2C_ink_pot_and_open_book_%28September_2026%29.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Study_-_Writing_desk_of_the_study%2C_with_upholstered_armchair%2C_paper_weight%2C_ink_pot_and_open_book_%28September_2026%29.jpg/500px-thumbnail.jpg",
+  "og": "https://dokugaku.seadice.win/img/write-why-study-matters-motivation.jpg",
+  "local": true
  }
 }

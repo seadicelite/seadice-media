@@ -1,5 +1,21 @@
 [
   {
+    "slug": "write-why-study-matters-motivation",
+    "category": "やる気・心",
+    "type": "guide",
+    "date": "2026-10-13",
+    "title": "勉強する意味が見えず、やる気が出ない。学んだことと自分の生活のつながりを書く方法（研究とやり方）",
+    "summary": "学んだことが自分にどう役立つかを自分で書くと、興味や続ける力を支えることがある。成績への効果は小さい。章ごとに10分書くのが目安。"
+  },
+  {
+    "slug": "generate-questions-while-reading",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-13",
+    "title": "読みながら自分で問題を作る勉強法のやり方。読み直しより覚えられる？問題づくりの研究と手順",
+    "summary": "問題を作って答えると読み直しより覚えやすいが、問題集を解くのと同程度で時間は2倍以上。「なぜ・違い」を問う1節1問が研究に沿ったやり方。"
+  },
+  {
     "slug": "ai-wrong-answer-unlearn-correct",
     "category": "AIと独学",
     "type": "guide",

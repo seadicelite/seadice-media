@@ -53,6 +53,7 @@
 - [一夜漬けは本当に効かないのか。詰め込み学習の研究でわかったこと](https://dokugaku.seadice.win/cramming-overnight-study/): 詰め込みは直後のテストには効くこともあるが1週間後には大きく忘れやすい。徹夜は成績を下げ、本人は気づきにくい
 - [英語の多読はどうやる？やさしい本をたくさん読む「多読」のやり方（研究でわかった本の選び方と量）](https://dokugaku.seadice.win/extensive-reading-graded-readers/): 多読は読む力をゆるやかに伸ばす。知らない単語が50語に1語ほどの本を選び、量と期間を確保し、単語は別に覚える。
 - [試験に落ちた・模試が悪かった後、どう立て直す？間違えた問題の直し方の研究](https://dokugaku.seadice.win/failed-exam-review-mistakes/): 間違えた問題は正解と理由で直すと身につく。自信のあった間違いは1週間後に戻りやすいので、日をあけて解き直すまでが一組
+- [読みながら自分で問題を作る勉強法のやり方。読み直しより覚えられる？問題づくりの研究と手順](https://dokugaku.seadice.win/generate-questions-while-reading/): 問題を作って答えると読み直しより覚えやすいが、問題集を解くのと同程度で時間は2倍以上。「なぜ・違い」を問う1節1問が研究に沿ったやり方。
 - [ノートは手書きとパソコン、どちらが覚えられるのか。研究でわかったこと](https://dokugaku.seadice.win/handwriting-vs-laptop-notes/): 「手書きが勝つ」実験は再現で差が出ず、まとめると手書きがわずかに有利。大切なのは言い換えと見直し
 - [蛍光ペンで線を引く勉強法は効くのか。研究でわかったこと](https://dokugaku.seadice.win/highlighting-study-method/): 線を引くだけでは理解は深まらない。読み終えてから要点だけに引き、隠して思い出す練習と組み合わせたい
 - [1種類ずつより、混ぜて練習した方が身につくのか。交互練習（インターリービング）の研究](https://dokugaku.seadice.win/interleaving-mixed-practice/): 種類の違う問題を混ぜて練習すると、練習中は間違えても後のテストで伸びる。ただし単語暗記は例外
@@ -120,6 +121,7 @@
 - [勉強に燃え尽きたら使うチェック表と2週間の立て直し表。学業の燃え尽き（バーンアウト）の研究から](https://dokugaku.seadice.win/study-burnout-recovery/): 疲れ切る・冷める・できない感のどれが強いかを確かめるチェック表と、休む時間・運動・15分の課題で戻す2週間の表。
 - [テストで頭が真っ白になるのはなぜか。試験不安と「不安を書き出す」研究](https://dokugaku.seadice.win/test-anxiety-expressive-writing/): 頭が真っ白になるのは不安が注意を奪うため。試験前に不安を書き出す方法は追試で再現されなかった
 - [勉強を後回しにしてしまうのはなぜ？先延ばしの研究でわかった3つの理由](https://dokugaku.seadice.win/why-procrastinate-studying/): 先延ばしは課題の嫌さ・成果までの遠さ・嫌な気分から逃げたい気持ちと結びつく。理由ごとに試せる対策つき。
+- [勉強する意味が見えず、やる気が出ない。学んだことと自分の生活のつながりを書く方法（研究とやり方）](https://dokugaku.seadice.win/write-why-study-matters-motivation/): 学んだことが自分にどう役立つかを自分で書くと、興味や続ける力を支えることがある。成績への効果は小さい。章ごとに10分書くのが目安。
 
 ### AIと独学
 

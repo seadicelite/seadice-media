@@ -416,6 +416,22 @@
       "text": "練習したゲームは上達しますが、11,430人の実験では練習していない課題に広がりませんでした。学び直しには教材そのものを思い出す練習が確実です。",
       "slug": "brain-training-games-adult-learning",
       "evidence": "meta"
+    },
+    {
+      "id": "question-generation",
+      "name": "自分で問題を作って答える",
+      "belief": "自分でテスト問題を作ると、一番よく覚えられる",
+      "level": "b",
+      "text": "読み直しよりは覚えやすいが、用意された問題に答えるのと同程度で時間は2倍以上。効くのは「なぜ」を問う問題で、語句の問題は効きませんでした。",
+      "slug": "generate-questions-while-reading"
+    },
+    {
+      "id": "utility-value-writing",
+      "name": "学ぶ意味（役立ち方）を自分で書き出す",
+      "belief": "勉強の意味がわかれば、やる気も成績も上がる",
+      "level": "b",
+      "text": "自分で書く方が言われるより効いた実験がある一方、大学の大きな実験では成績の差は小さいか、出ませんでした。授業への参加や学び続ける割合が上がった研究はあります。",
+      "slug": "write-why-study-matters-motivation"
     }
   ]
 }
