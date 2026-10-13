@@ -8297,5 +8297,23 @@
     "def": "注意の負荷とは、ある課題を行うために、どれだけの注意の資源が使われているかの程度のことです。",
     "slug": "",
     "date": "2026-10-12"
+  },
+  {
+    "id": "fixed-ratio-schedule",
+    "term": "固定比率スケジュール",
+    "en": "Fixed-Ratio Schedule",
+    "field": "学習と記憶",
+    "def": "固定比率スケジュールとは、反応をあらかじめ決めた一定回数行うごとに強化を与える強化スケジュールのことです。",
+    "slug": "",
+    "date": "2026-10-13"
+  },
+  {
+    "id": "variable-ratio-schedule",
+    "term": "変率スケジュール",
+    "en": "Variable-Ratio Schedule",
+    "field": "学習と記憶",
+    "def": "変率スケジュールとは、強化に必要な反応回数が試行ごとにランダムに変わる強化スケジュールのことです。",
+    "slug": "gacha-loot-box-spending",
+    "date": "2026-10-13"
   }
 ]
