@@ -1090,5 +1090,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Emerson%27s_study_%28showing_shelves_of_books%2C_fireplace_and_desk%29_LCCN96508062.jpg/500px-Emerson%27s_study_%28showing_shelves_of_books%2C_fireplace_and_desk%29_LCCN96508062.jpg",
   "og": "https://ai.seadice.win/img/ai-career-anxiety-students-path.jpg",
   "local": true
+ },
+ "ai-algorithmic-management-work": {
+  "file": "File:Rallye des Vignobles 2015 pic25.jpg",
+  "src": "/img/ai-algorithmic-management-work.jpg",
+  "src640": "/img/ai-algorithmic-management-work-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "パレットに積まれた荷物が並ぶ倉庫",
+  "artist": "Cjp24",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rallye_des_Vignobles_2015_pic25.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rallye_des_Vignobles_2015_pic25.jpg/960px-Rallye_des_Vignobles_2015_pic25.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rallye_des_Vignobles_2015_pic25.jpg/500px-Rallye_des_Vignobles_2015_pic25.jpg",
+  "og": "https://ai.seadice.win/img/ai-algorithmic-management-work.jpg",
+  "local": true
  }
 }
