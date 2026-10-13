@@ -2524,5 +2524,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Shelf_at_the_bottom_of_a_window_for_growing_houseplants.jpg/500px-Shelf_at_the_bottom_of_a_window_for_growing_houseplants.jpg",
   "og": "https://mentalai.seadice.win/img/ai-chat-boredom-prevent.jpg",
   "local": true
+ },
+ "sns-post-looking-good-tired": {
+  "file": "File:Continental Divide and Calm Waters, Grandby Lake, CO 2012 (14854216635).jpg",
+  "src": "/img/sns-post-looking-good-tired.jpg",
+  "src640": "/img/sns-post-looking-good-tired-sm.jpg",
+  "w": 960,
+  "h": 709,
+  "alt": "静かな湖と山の風景",
+  "artist": "inkknife_2000",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Continental_Divide_and_Calm_Waters,_Grandby_Lake,_CO_2012_(14854216635).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Continental_Divide_and_Calm_Waters%2C_Grandby_Lake%2C_CO_2012_%2814854216635%29.jpg/960px-Continental_Divide_and_Calm_Waters%2C_Grandby_Lake%2C_CO_2012_%2814854216635%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Continental_Divide_and_Calm_Waters%2C_Grandby_Lake%2C_CO_2012_%2814854216635%29.jpg/500px-Continental_Divide_and_Calm_Waters%2C_Grandby_Lake%2C_CO_2012_%2814854216635%29.jpg",
+  "og": "https://mentalai.seadice.win/img/sns-post-looking-good-tired.jpg",
+  "local": true
  }
 }

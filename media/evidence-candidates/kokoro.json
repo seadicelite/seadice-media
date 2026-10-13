@@ -948,5 +948,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-sns-post-looking-good-tired-authentic-posting",
+    "category": "SNSと比較",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bailey ER, Matz SC, Youyou W, Iyengar SS, \"Authentic self-expression on social media is associated with greater subjective well-being\" (Nature Communications, 2020)",
+    "sourceUrl": "https://doi.org/10.1038/s41467-020-18539-w",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/sns-post-looking-good-tired/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "SNSは盛ったほうが得？",
+        "body": "SNSには、よく見える写真や言葉を選んで載せるのが当たり前。でも、それって自分の気分にはどう響くんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1週間ずつ投稿を変えた",
+        "body": "米国の大学で募集した90人が、「ありのまま」の投稿と「よく見せる」投稿を、順番をくじで決めて1週間ずつ続けた実験があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ありのままの週のほうが気分がよかった",
+        "body": "ありのままに投稿した週のあとのほうが、気分と前向きな感情が高かったらしい。ただ、生活の満足度には差がなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数は予定より少なめ",
+        "body": "予定の200人に届かず90人の小さな実験で、最初の1週間だけで比べると差は出ていない。年代や国が違うと結果が変わるかもわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
