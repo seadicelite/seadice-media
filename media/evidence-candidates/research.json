@@ -764,5 +764,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-trying-hard-to-sleep-awake-research-sleep-urgency",
+    "category": "睡眠",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ansfield, Wegner & Bowser, \"Ironic effects of sleep urgency\" (Behaviour Research and Therapy, 1996)",
+    "sourceUrl": "https://doi.org/10.1016/0005-7967(96)00031-9",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/trying-hard-to-sleep-awake-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "早く寝ようとすると眠れない？",
+        "body": "明日早いから早く寝なきゃ、と思うほど目が冴える夜ってあるよね。実は、これを実験で確かめた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "音楽と「早く眠れ」の組み合わせ",
+        "body": "よく眠れる人に「できるだけ早く眠る」か「好きなときに眠る」かを指示したよ。同時に、にぎやかなマーチか、静かな音楽を聴いてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "頭が忙しいと逆効果",
+        "body": "静かな音楽なら、早く眠ろうとした人のほうが早く寝ついた。でもマーチを聴いていると逆に、早く眠ろうとした人のほうが寝つきが遅れたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "不眠の人でも同じ？",
+        "body": "調べたのはふだんよく眠れる人で、不眠に悩む人ではないんだ。同じ実験をくり返した研究も見つかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

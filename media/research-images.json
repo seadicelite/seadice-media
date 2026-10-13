@@ -1447,5 +1447,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg/500px-USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg",
   "og": "https://research.seadice.win/img/break-task-small-steps-procrastination-research.jpg",
   "local": true
+ },
+ "trying-hard-to-sleep-awake-research": {
+  "file": "File:Door open; empty bed with pillow and side pillow 01.jpg",
+  "src": "/img/trying-hard-to-sleep-awake-research.jpg",
+  "src640": "/img/trying-hard-to-sleep-awake-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ベッドと枕のある寝室",
+  "artist": "Afifa Afrin",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Door_open;_empty_bed_with_pillow_and_side_pillow_01.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Door_open%3B_empty_bed_with_pillow_and_side_pillow_01.jpg/960px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Door_open%3B_empty_bed_with_pillow_and_side_pillow_01.jpg/500px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_01.jpg",
+  "og": "https://research.seadice.win/img/trying-hard-to-sleep-awake-research.jpg",
+  "local": true
  }
 }
