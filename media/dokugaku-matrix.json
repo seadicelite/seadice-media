@@ -166,7 +166,8 @@
      "nature-break-restore-focus"
     ],
     "stuck": [
-     "refocus-after-phone-distraction"
+     "refocus-after-phone-distraction",
+     "todo-thoughts-while-studying-refocus"
     ],
     "why": [
      "why-multitasking-hurts-studying"

@@ -1659,5 +1659,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/December_25_-_calendar_sheet.jpg/500px-December_25_-_calendar_sheet.jpg",
   "og": "https://dokugaku.seadice.win/img/backward-study-plan-from-exam-date.jpg",
   "local": true
+ },
+ "todo-thoughts-while-studying-refocus": {
+  "file": "File:Stack of four sticky notes.jpg",
+  "src": "/img/todo-thoughts-while-studying-refocus.jpg",
+  "src640": "/img/todo-thoughts-while-studying-refocus-sm.jpg",
+  "w": 960,
+  "h": 719,
+  "alt": "重ねられた4枚の付箋",
+  "artist": "J.P. C.",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Stack_of_four_sticky_notes.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stack_of_four_sticky_notes.jpg/960px-Stack_of_four_sticky_notes.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stack_of_four_sticky_notes.jpg/500px-Stack_of_four_sticky_notes.jpg",
+  "og": "https://dokugaku.seadice.win/img/todo-thoughts-while-studying-refocus.jpg",
+  "local": true
  }
 }
