@@ -1152,5 +1152,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-comparison-lost-sense-of-self-rumination",
+    "category": "SNSと比較",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kang S et al., \"Do College Freshmen Who Engage More in Online Social Comparison Tend to Be More Confused About Themselves? The Roles of Rumination and Self-Compassion\" (Behavioral Sciences, 2025)",
+    "sourceUrl": "https://doi.org/10.3390/bs15070849",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/comparison-lost-sense-of-self/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "比べてると、自分がわからなくなる？",
+        "body": "SNSで人と比べてばかりいたら、自分が何をしたいのか見えなくなってきた。そんな感覚、心当たりあるよね。研究ではどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学1年生975人に聞いた",
+        "body": "中国・湖北省の大学1年生975人に、ネットで人と比べる頻度、くよくよ考え込む傾向、「自分はこういう人」という感覚のはっきりさを質問紙で聞いた調査なんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "間にあったのは考え込み",
+        "body": "ネットで比べる人ほど、自分の感覚があいまいだった。その結びつきの約43%は、比べたあとの考え込みを通じた部分。自分より下の人と比べるのも、同じ方向だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どっちが先かは不明",
+        "body": "1回きりの調査だから、比べるせいで自分がぼやけるのか、ぼやけているから比べるのかはわからない。対象も中国の大学1年生だけ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
