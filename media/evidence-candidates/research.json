@@ -900,5 +900,73 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-new-habit-three-day-quit-why-research-gym",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kaushal & Rhodes, \"Exercise habit formation in new gym members: a longitudinal study\" (Journal of Behavioral Medicine, 2015)",
+    "sourceUrl": "https://doi.org/10.1007/s10865-015-9640-7",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/new-habit-three-day-quit-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "習慣は21日でできる？",
+        "body": "新しいことは3週間続ければ習慣になる、ってよく聞くよね。運動の場合はどうなのか、ジムに入ったばかりの人を追いかけた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "新入会員111人を12週間",
+        "body": "ジムに入会したばかりの111人に、12週間アンケートに答えてもらったよ。運動の回数と、運動が「考えなくても出る」感じがどう育つかを調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "週4回を6週間が最低ライン",
+        "body": "運動が習慣になるには、少なくとも週4回を6週間続けることが必要だったらしい。毎回同じように続けること、簡単であること、楽しいと感じることも習慣の育ちやすさと関係していたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ほかの人にも当てはまる？",
+        "body": "運動も習慣も本人の申告で、ジムの新入会員だけを調べた1つの研究なんだ。「週4回6週間」がほかの人や運動以外の習慣にも当てはまるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-read-but-cant-remember-illusion-why-research-zipper",
+    "category": "記憶・学習",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rozenblit & Keil, \"The misunderstood limits of folk science: an illusion of explanatory depth\" (Cognitive Science, 2002)",
+    "sourceUrl": "https://doi.org/10.1207/s15516709cog2605_1",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/read-but-cant-remember-illusion-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ファスナーの仕組み、説明できる？",
+        "body": "毎日使っているファスナーやトイレ。仕組みは「だいたいわかってる」と思うよね。実はその感覚、説明しようとすると崩れるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "説明を書く前と後で比べた",
+        "body": "大学生に、ファスナーやミシンなどの仕組みをどのくらい理解しているか7段階で答えてもらったよ。そのあと仕組みを順を追って書いてもらい、もう一度答えてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "3.89から3.10に下がった",
+        "body": "33人の平均は3.89から、説明を書いたあと3.10、具体的な質問に答えたあと2.49まで下がったんだ。仕組みの知識ほど、わかったつもりが強かったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どんな知識でも起きる？",
+        "body": "国の首都のような事実では下がり方が小さく、手順や物語のあらすじでは下がらなかったんだ。調べたのは米国の大学生などで、ほかの人でも同じかは、まだはっきりしないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

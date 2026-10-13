@@ -1501,5 +1501,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Slush_on_window_in_three_lights.jpg/500px-Slush_on_window_in_three_lights.jpg",
   "og": "https://research.seadice.win/img/negative-events-memory-why-research.jpg",
   "local": true
+ },
+ "new-habit-three-day-quit-why-research": {
+  "file": "File:Asics Gel-Cumulus 22.jpg",
+  "src": "/img/new-habit-three-day-quit-why-research.jpg",
+  "src640": "/img/new-habit-three-day-quit-why-research-sm.jpg",
+  "w": 960,
+  "h": 823,
+  "alt": "床に置かれたランニングシューズ",
+  "artist": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Asics_Gel-Cumulus_22.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Asics_Gel-Cumulus_22.jpg/960px-Asics_Gel-Cumulus_22.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Asics_Gel-Cumulus_22.jpg/500px-Asics_Gel-Cumulus_22.jpg",
+  "og": "https://research.seadice.win/img/new-habit-three-day-quit-why-research.jpg",
+  "local": true
  }
 }
