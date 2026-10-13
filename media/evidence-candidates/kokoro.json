@@ -642,5 +642,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-symptom-search-ai-anxiety-cyberchondria",
+    "category": "AIと心",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Schenkel SK et al., \"Conceptualizations of Cyberchondria and Relations to the Anxiety Spectrum: Systematic Review and Meta-analysis\" (Journal of Medical Internet Research, 2021)",
+    "sourceUrl": "https://doi.org/10.2196/27835",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/symptom-search-ai-anxiety/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "症状を調べるほど不安になるのはなぜ？",
+        "body": "ちょっとした体の不調をネットやAIで調べていたら、重い病気の名前ばかり目に入って眠れなくなった。そんな経験、あるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "7件の研究をまとめて見ると",
+        "body": "ドイツの研究チームが、健康のことをネットで調べすぎる傾向と健康への不安の関係を調べた研究を整理。7件・3,069人分を統合したら、相関は0.63で、かなり強い結びつきだったらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「安心したい」がくり返しを生む",
+        "body": "著者たちは、調べることを不安をその場で下げるための確認だと考えている。ときどき安心できるからこそ、また調べたくなる。紹介されている実験では、重い病気へ調べる内容が飛ぶと不安が高まりやすかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "調べるから不安になるのか？",
+        "body": "まとめた研究は質問紙の調査が中心で、調べることが不安の原因なのか、不安な人ほど調べるのかは区別できていない。AIで調べたときの不安を直接確かめた研究もまだ少ない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

@@ -2362,5 +2362,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mannequin-1090714.jpg/500px-Mannequin-1090714.jpg",
   "og": "https://mentalai.seadice.win/img/ai-human-like-uncanny.jpg",
   "local": true
+ },
+ "symptom-search-ai-anxiety": {
+  "file": "File:Herbal Tea 01.jpg",
+  "src": "/img/symptom-search-ai-anxiety.jpg",
+  "src640": "/img/symptom-search-ai-anxiety-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "ガラスのカップに入ったハーブティー",
+  "artist": "PagesAndPathsPH",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Herbal_Tea_01.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Herbal_Tea_01.jpg/960px-Herbal_Tea_01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Herbal_Tea_01.jpg/500px-Herbal_Tea_01.jpg",
+  "og": "https://mentalai.seadice.win/img/symptom-search-ai-anxiety.jpg",
+  "local": true
  }
 }

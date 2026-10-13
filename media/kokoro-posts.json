@@ -1,5 +1,14 @@
 [
   {
+    "slug": "symptom-search-ai-anxiety",
+    "category": "AIとの付き合い方",
+    "type": "guide",
+    "stage": "対処する",
+    "date": "2026-10-13",
+    "title": "体の不調をAIやネットで調べるほど、重い病気かもと不安になる。研究のまとめでは、調べすぎと健康への不安の結びつきは強かった",
+    "summary": "7件の研究のまとめで、ネットで健康を調べすぎる傾向と健康への不安の相関は0.63。調べる目的と時間を区切る工夫を紹介します"
+  },
+  {
     "slug": "ai-human-like-uncanny",
     "category": "AIとの付き合い方",
     "type": "guide",
