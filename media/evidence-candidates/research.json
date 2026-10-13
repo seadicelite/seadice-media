@@ -798,5 +798,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-mind-wandering-why-research-unaware",
+    "category": "集中力",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Christoff et al., \"Experience sampling during fMRI reveals default network and executive system contributions to mind wandering\" (PNAS, 2009)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.0900234106",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/mind-wandering-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "気づくと別のこと考えてない？",
+        "body": "資料を読んでいたはずが、気づくと週末の予定を考えてた。こういう「心のさまよい」、実はどれくらい起きてるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "脳を撮りながら聞いてみた",
+        "body": "大学生15人に、数字を見てボタンを押す単調な作業をしてもらったよ。脳の画像を撮りながら、ときどき「今何を考えてた？」と尋ねたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "43%で心はよそへ",
+        "body": "尋ねた回の43%で、心は作業から離れていた。しかもその約45%は、本人も気づいていないうちだったらしい。気づいていないときほど脳の活動は強かったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日常でも同じ？",
+        "body": "調べたのは15人で、実験室の単調な作業だけ。日常の調査では26%という報告もあって、割合は調べ方でかなり変わるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

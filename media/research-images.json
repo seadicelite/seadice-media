@@ -1465,5 +1465,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Door_open%3B_empty_bed_with_pillow_and_side_pillow_01.jpg/500px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_01.jpg",
   "og": "https://research.seadice.win/img/trying-hard-to-sleep-awake-research.jpg",
   "local": true
+ },
+ "mind-wandering-why-research": {
+  "file": "File:Child sits at desk completing schoolwork near window with globe, books, and pictures.jpg",
+  "src": "/img/mind-wandering-why-research.jpg",
+  "src640": "/img/mind-wandering-why-research-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "窓辺の机で勉強する人の後ろ姿",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Child_sits_at_desk_completing_schoolwork_near_window_with_globe,_books,_and_pictures.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Child_sits_at_desk_completing_schoolwork_near_window_with_globe%2C_books%2C_and_pictures.jpg/960px-Child_sits_at_desk_completing_schoolwork_near_window_with_globe%2C_books%2C_and_pictures.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Child_sits_at_desk_completing_schoolwork_near_window_with_globe%2C_books%2C_and_pictures.jpg/500px-Child_sits_at_desk_completing_schoolwork_near_window_with_globe%2C_books%2C_and_pictures.jpg",
+  "og": "https://research.seadice.win/img/mind-wandering-why-research.jpg",
+  "local": true
  }
 }
