@@ -880,5 +880,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-ai-job-worry-workplace-support-social-capital",
+    "category": "AIと心",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Inoue A, Kawakami N, Eguchi H, Tsutsumi A, \"Buffering effect of workplace social capital on the association of job insecurity with psychological distress in Japanese employees: a cross-sectional study\" (Journal of Occupational Health, 2016)",
+    "sourceUrl": "https://doi.org/10.1539/joh.16-0129-OA",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-job-worry-workplace-support/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "雇用の不安、職場で変わる？",
+        "body": "仕事がなくなるかも、という不安。ひとりで抱えるのと、職場に助け合いがあるのとでは、心の負担は違うのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "日本の工場の2,971人",
+        "body": "2011年、日本の製造業1社の2工場で働く2,971人に、雇用の不安・職場の助け合い・心の負担をまとめて聞いた調査があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "77.3%と65.4%",
+        "body": "雇用の不安が強い人のうち心の負担があった割合は、助け合いが弱いと感じる人で77.3%、強いと感じる人で65.4%だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIの不安でも同じ？",
+        "body": "1時点の調査で因果はわからないし、AIではなく雇用全般の不安の話。男女別では正社員の男性でしか同じ結果が出ていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
