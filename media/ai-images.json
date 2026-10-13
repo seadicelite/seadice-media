@@ -1307,5 +1307,23 @@
   "remote640": "https://cdn.stocksnap.io/img-thumbs/960w/KO0EB5EZ7E.jpg",
   "og": "https://ai.seadice.win/img/face-app-photo-sent-delete-og.jpg",
   "local": true
+ },
+ "ai-fake-references-already-used": {
+  "file": "File:Schlagwortkatalog.jpg",
+  "src": "/img/ai-fake-references-already-used.jpg",
+  "src640": "/img/ai-fake-references-already-used-sm.jpg",
+  "w": 960,
+  "h": 812,
+  "alt": "図書館の目録カードの引き出し",
+  "artist": "Dr. Marcus Gossler",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Schlagwortkatalog.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schlagwortkatalog.jpg/960px-Schlagwortkatalog.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schlagwortkatalog.jpg/500px-Schlagwortkatalog.jpg",
+  "og": "https://ai.seadice.win/img/ai-fake-references-already-used.jpg",
+  "local": true
  }
 }

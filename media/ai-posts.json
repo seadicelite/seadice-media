@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-fake-references-already-used",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-14",
+  "title": "AIが挙げた論文や文献が、実在しなかった。研究では1〜3割が架空で、使ってしまったら1件ずつ確かめて自分から訂正する",
+  "summary": "AIが挙げた文献の約2〜3割は架空という研究が続いている。使ってしまったら全件を確かめ、頼った主張を直し、自分から訂正を伝える。"
+ },
+ {
   "slug": "ai-image-similar-to-others-work-pointed-out",
   "category": "創作・著作権",
   "type": "guide",
