@@ -638,5 +638,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-adult-relearning-plan-sheet-public-goal",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Epton et al., \"Unique effects of setting goals on behavior change: Systematic review and meta-analysis\" (Journal of Consulting and Clinical Psychology, 2017)",
+    "sourceUrl": "https://doi.org/10.1037/ccp0000260",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/adult-relearning-plan-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "目標は人に言わない方が叶う？",
+        "body": "「目標は口に出すと満足して達成できなくなる」って聞いたことがあるよね。じゃあ、黙っておいた方がいいのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "141本の論文をまとめた",
+        "body": "目標を決めることの効果を調べたランダム化比較試験を集めたメタ分析があるよ。141本の論文、1万6523人分のデータをまとめたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "公表した目標の方が効果が大きかった",
+        "body": "目標を決めることには小さいながら効果があった（d=0.34）。しかも、目標がむずかしいとき、人に公表したとき、グループの目標のときに効果が大きかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の目標でも同じ？",
+        "body": "いろいろな行動を変える研究をまとめた分析で、勉強だけを調べたものではないよ。誰にどう伝えるのが一番いいかも、この分析だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

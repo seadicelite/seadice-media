@@ -1299,5 +1299,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg/500px-Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg",
   "og": "https://dokugaku.seadice.win/img/why-study-method-works-differently.jpg",
   "local": true
+ },
+ "adult-relearning-plan-sheet": {
+  "file": "File:Reading materials on a desk with glasses a pen and an apple nearby.jpg",
+  "src": "/img/adult-relearning-plan-sheet.jpg",
+  "src640": "/img/adult-relearning-plan-sheet-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "机の上の古い本とペンと眼鏡",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Reading_materials_on_a_desk_with_glasses_a_pen_and_an_apple_nearby.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Reading_materials_on_a_desk_with_glasses_a_pen_and_an_apple_nearby.jpg/960px-Reading_materials_on_a_desk_with_glasses_a_pen_and_an_apple_nearby.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Reading_materials_on_a_desk_with_glasses_a_pen_and_an_apple_nearby.jpg/500px-Reading_materials_on_a_desk_with_glasses_a_pen_and_an_apple_nearby.jpg",
+  "og": "https://dokugaku.seadice.win/img/adult-relearning-plan-sheet.jpg",
+  "local": true
  }
 }
