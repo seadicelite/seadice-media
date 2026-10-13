@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-human-decision-combination-prepare",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-13",
+  "title": "AIと一緒に決めれば、間違いは減る？106件の実験のまとめでは、組み合わせは平均で「得意なほう単独」に届かず、任せ方を先に決めることが鍵だった",
+  "summary": "106件の実験のまとめでは、人とAIの組み合わせは人だけより良いが、得意なほう単独には届かなかった。どちらが得意かを確かめ任せ方を決める"
+ },
+ {
   "slug": "ai-downsizing-remaining-staff-stress",
   "category": "仕事・キャリア",
   "type": "guide",
