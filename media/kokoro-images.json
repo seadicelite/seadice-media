@@ -2416,5 +2416,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sunset_on_Nice_beach_with_lifeguard_tower_2026.JPG/500px-Sunset_on_Nice_beach_with_lifeguard_tower_2026.JPG",
   "og": "https://mentalai.seadice.win/img/sns-upward-comparison-why.jpg",
   "local": true
+ },
+ "sitting-breaks-focus": {
+  "file": "File:Warren Historic District - 20220726 - 08 - Garden path at Celoron Park.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Warren_Historic_District_-_20220726_-_08_-_Garden_path_at_Celoron_Park.jpg/960px-Warren_Historic_District_-_20220726_-_08_-_Garden_path_at_Celoron_Park.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Warren_Historic_District_-_20220726_-_08_-_Garden_path_at_Celoron_Park.jpg/500px-Warren_Historic_District_-_20220726_-_08_-_Garden_path_at_Celoron_Park.jpg",
+  "w": 960,
+  "h": 576,
+  "alt": "花の咲く公園のれんがの小道",
+  "artist": "Andre Carrotflower",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Warren_Historic_District_-_20220726_-_08_-_Garden_path_at_Celoron_Park.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

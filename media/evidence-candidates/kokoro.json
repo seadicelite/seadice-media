@@ -744,5 +744,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-sitting-breaks-focus-move-breaks",
+    "category": "集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Huang Z, Yin M, Li G, et al., \"Effect of breaking up prolonged sitting with physical activity on executive function: a three-level meta-analysis\" (International Journal of Behavioral Nutrition and Physical Activity, 2026)",
+    "sourceUrl": "https://doi.org/10.1186/s12966-026-01942-9",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/sitting-breaks-focus/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "座りっぱなしは頭にも悪い？",
+        "body": "ずっと座っていると、午後には頭がぼんやりしてくる気がするよね。途中で立って歩くと、考える力は戻るのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "22件の試験をまとめた",
+        "body": "同じ人が「座り続ける日」と「運動で区切る日」の両方を体験する試験22件、13.6〜78歳の418人分をまとめた研究があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "区切ると少しだけ成績アップ",
+        "body": "運動で区切った日は、考える力のテストが少し上がっていた（効果の大きさ0.13）。軽い運動でも結果が出ていて、1回3〜5分の運動でも差が出ていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "確かさはまだ低め",
+        "body": "研究者自身が証拠の確かさを「低い」と評価しているよ。テストは運動の直後だけで、効果がどれくらい続くかや、実際の仕事ぶりが変わるかはわかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
