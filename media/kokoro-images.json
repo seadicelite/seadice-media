@@ -2434,5 +2434,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Warren_Historic_District_-_20220726_-_08_-_Garden_path_at_Celoron_Park.jpg/500px-Warren_Historic_District_-_20220726_-_08_-_Garden_path_at_Celoron_Park.jpg",
   "og": "https://mentalai.seadice.win/img/sitting-breaks-focus.jpg",
   "local": true
+ },
+ "tech-stress-age-older-workers": {
+  "file": "File:Vintage lamp and books (Unsplash).jpg",
+  "src": "/img/tech-stress-age-older-workers.jpg",
+  "src640": "/img/tech-stress-age-older-workers-sm.jpg",
+  "w": 960,
+  "h": 710,
+  "alt": "机の上の道具",
+  "artist": "Jez Timms jeztimms",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Vintage_lamp_and_books_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vintage_lamp_and_books_%28Unsplash%29.jpg/960px-Vintage_lamp_and_books_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vintage_lamp_and_books_%28Unsplash%29.jpg/500px-Vintage_lamp_and_books_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/tech-stress-age-older-workers.jpg",
+  "local": true
  }
 }

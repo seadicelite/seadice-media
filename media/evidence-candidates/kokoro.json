@@ -778,5 +778,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-tech-stress-age-older-workers-age-myth",
+    "category": "AIと心",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hauk N, Göritz AS, Krumm S., \"The mediating role of coping behavior on the age-technostress relationship: A longitudinal multilevel mediation model\" (PLoS ONE, 2019)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0213349",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/tech-stress-age-older-workers/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "年をとると新しい技術でへとへとになる？",
+        "body": "「年配の人ほどパソコンや新しいシステムに疲れる」ってよく言われるよね。実際はどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1,216人を8か月追いかけた",
+        "body": "ドイツ語圏の働く人1,216人（17〜75歳）に、仕事での情報技術による疲れと、困ったときの対処を4か月おきに3回聞いた研究があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "年齢が上の人ほど疲れは少なめ",
+        "body": "実は、年齢が上の人ほど技術による疲れは少なかったらしい。年齢が上の人ほど「お手上げだと努力をやめる」対処が少なく、それが差を説明していたんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "差は小さく、生成AI以前の話",
+        "body": "関連は小さく、オンラインで答えられる人に偏っている可能性も。生成AIが広まる前の研究なので、AIでも同じかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
