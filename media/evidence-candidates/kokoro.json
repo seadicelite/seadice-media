@@ -1322,5 +1322,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-sns-career-comparison-frustration-career-posts",
+    "category": "SNSと比較",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Fukubayashi N & Fuji K, \"Social Comparison on Social Media Increases Career Frustration: A Focus on the Mitigating Effect of Companionship\" (Frontiers in Psychology, 2021)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2021.720960",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/sns-career-comparison-frustration/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "同期の昇進投稿で焦るのはなぜ？",
+        "body": "SNSで同年代の転職や昇進の報告を見ると、なんだか自分の仕事に焦ることってあるよね。あれって何が起きてるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "日本の会社員の7日間の記録",
+        "body": "筑波大学の研究で、日本の会社員111人が7日間、1日2回、SNSで見た仕事の投稿と気持ちを記録したんだ。記録は全部で1,254回分。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "焦りは「上と比べた」とき",
+        "body": "投稿を見ると上とも下とも同じくらい比べていたけど、焦りが強まったのは上と比べて自信をなくしたときだけ。仕事と関係ない雑談が楽しかった人ほど、焦りは小さかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "雑談をすれば焦りは減る？",
+        "body": "これは記録から見えた関連で、雑談を増やす実験ではないよ。雑談の時間はSNSを見ない時間でもあるから、どちらが効いたのかは区別できていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
