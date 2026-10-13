@@ -1,5 +1,14 @@
 [
   {
+    "slug": "ai-human-like-uncanny",
+    "category": "AIとの付き合い方",
+    "type": "guide",
+    "stage": "知る",
+    "date": "2026-10-13",
+    "title": "AIの人間そっくりな顔や声が、なんだか気持ち悪い。研究では「人らしさのちぐはぐ」が不気味さと関わり、短いやりとりを3回重ねると和らいでいた",
+    "summary": "AIの人そっくりな顔や声への違和感は「不気味の谷」として研究されてきた。不気味さと関わる「ちぐはぐさ」と、慣れで和らいだ実験を整理。"
+  },
+  {
     "slug": "nature-sounds-stress",
     "category": "AI疲れ・情報疲れ",
     "type": "guide",

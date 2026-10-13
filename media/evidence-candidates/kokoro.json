@@ -608,5 +608,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "kokoro-ai-human-like-uncanny-repeated-interactions",
+    "category": "AIと心",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Złotowski JA et al., \"Persistence of the uncanny valley: the influence of repeated interactions and a robot's attitude on its perception\" (Frontiers in Psychology, 2015)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2015.00883",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-human-like-uncanny/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "人そっくりのロボット、慣れる？",
+        "body": "人にそっくりなのに、どこか違う。そんなロボットやAIを見ると、ちょっとゾッとすることがあるよね。この「不気味さ」って、会ううちに薄れるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "アンドロイドと3回話してみた",
+        "body": "日本の大学生58人に、実在の人をもとに作ったアンドロイドか、機械らしい見た目のロボットと、面接の練習という設定で短い会話を3回してもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "3回で不気味さが下がった",
+        "body": "どちらのロボットでも、やりとりを重ねるだけで不気味さが下がったらしい。一方、好ましいと感じるかは、見た目よりロボットが友好的かどうかに左右されていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何日も続けたら？画面のAIなら？",
+        "body": "1回の実験の中の短いやりとりで、何日も続けた場合はわからない。目の前のロボットの研究で、ロボットは別の部屋の人が操作していた。画面の中のAIでも同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

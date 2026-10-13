@@ -2344,5 +2344,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Levada_do_Furado_%28Ribeiro_Frio%29_moss_forest_%2826320345279%29.jpg/500px-Levada_do_Furado_%28Ribeiro_Frio%29_moss_forest_%2826320345279%29.jpg",
   "og": "https://mentalai.seadice.win/img/nature-sounds-stress.jpg",
   "local": true
+ },
+ "ai-human-like-uncanny": {
+  "file": "File:Mannequin-1090714.jpg",
+  "src": "/img/ai-human-like-uncanny.jpg",
+  "src640": "/img/ai-human-like-uncanny-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木製のデッサン人形",
+  "artist": "Hannah Alkadi",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Mannequin-1090714.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mannequin-1090714.jpg/960px-Mannequin-1090714.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mannequin-1090714.jpg/500px-Mannequin-1090714.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-human-like-uncanny.jpg",
+  "local": true
  }
 }
