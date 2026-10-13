@@ -69,7 +69,10 @@
     "trouble": [
      "ai-homework-copying-what-to-say"
     ],
-    "use": []
+    "use": [
+     "https://kosodate.seadice.win/shukudai-check/",
+     "https://kosodate.seadice.win/rules/"
+    ]
    }
   },
   {
@@ -191,7 +194,10 @@
     "trouble": [
      "child-told-ai-name-school-privacy"
     ],
-    "use": []
+    "use": [
+     "https://kosodate.seadice.win/rules/",
+     "https://kosodate.seadice.win/sns-practice/"
+    ]
    }
   },
   {
@@ -211,7 +217,9 @@
      "study-music-lyrics-concentration"
     ],
     "trouble": [],
-    "use": []
+    "use": [
+     "https://kosodate.seadice.win/shukudai-check/"
+    ]
    }
   },
   {
@@ -230,7 +238,9 @@
      "tantrum-coping-children-research",
      "children-lying-development-age"
     ],
-    "use": []
+    "use": [
+     "https://kosodate.seadice.win/iikae/"
+    ]
    }
   },
   {
@@ -246,7 +256,9 @@
     ],
     "how": [],
     "trouble": [],
-    "use": []
+    "use": [
+     "https://kosodate.seadice.win/iikae/"
+    ]
    }
   },
   {
@@ -290,7 +302,9 @@
     "trouble": [
      "children-quitting-activities-research"
     ],
-    "use": []
+    "use": [
+     "https://kosodate.seadice.win/iikae/"
+    ]
    }
   }
  ],

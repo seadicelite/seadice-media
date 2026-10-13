@@ -212,6 +212,9 @@ PAGES.append(kiroku_page(
     '<li>Li, A., et al. (2021). A Systematic Review of Somatic Symptoms in School Refusal. <i>Psychosomatic Medicine</i>. <a href="https://doi.org/10.1097/PSY.0000000000000956" target="_blank" rel="noopener">doi:10.1097/PSY.0000000000000956</a></li>'
     '<li>そのほかの国のデータと研究は、<a href="/school-refusal-first-signs-parents/">不登校のはじまりの記事</a>の出典にまとめています。</li>'))
 
+from kosodate_use_tools import PAGES as USE_PAGES  # noqa: E402
+PAGES += USE_PAGES
+
 if __name__ == "__main__":
     f = ROOT / "media/kosodate-pages.json"
     ps = json.loads(f.read_text())

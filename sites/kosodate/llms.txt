@@ -115,6 +115,8 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [子どものAI・スマホの悩みチェック](https://kosodate.seadice.win/check/): Webツール。悩みを選ぶと、親が今日やることがわかる
 - [スクリーンタイム判定](https://kosodate.seadice.win/screen-time-check/): Webツール。スクショから、年齢別の目安（WHOなど）と比べる
 - [朝の様子の記録（登校しぶり）](https://kosodate.seadice.win/asa-kiroku/): Webツール。行けた・休んだと朝の訴えを1タップで記録し、曜日の傾向と学校に見せるまとめを作る
+- [宿題の環境チェック](https://kosodate.seadice.win/shukudai-check/): Webツール。スマホの置き場所・音楽・AIの使い方から、今日変える1つがわかる
+- [声かけの言いかえ帳](https://kosodate.seadice.win/iikae/): Webツール。褒め方・叱り方・きょうだい・ゲームの12場面を、研究にもとづく言い方に
 - [AIで練習するSNS](https://kosodate.seadice.win/sns-practice/): Webツール。知らない人のDM・悪口・写真投稿などを、子どもと一緒に練習する
 - [スマホ・AIルールづくり（印刷用）](https://kosodate.seadice.win/rules/): Webツール。年齢別に選んで、家族のルール表を印刷できる
 - [研究早見表](https://kosodate.seadice.win/hayami/): Webツール。悩み別に、研究の答えと今日できることを一覧で見る
