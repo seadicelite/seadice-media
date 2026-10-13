@@ -1407,5 +1407,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2026-04-23_Public_bookcase_Schloss_Gottesaue_Karlsruhe_%28Z5-5448E%29_by_Achim_Lammerts.jpg/500px-2026-04-23_Public_bookcase_Schloss_Gottesaue_Karlsruhe_%28Z5-5448E%29_by_Achim_Lammerts.jpg",
   "og": "https://dokugaku.seadice.win/img/extensive-reading-graded-readers.jpg",
   "local": true
+ },
+ "changing-answers-exam-review": {
+  "file": "File:Wooden pencils sharpened with knife.jpg",
+  "src": "/img/changing-answers-exam-review.jpg",
+  "src640": "/img/changing-answers-exam-review-sm.jpg",
+  "w": 960,
+  "h": 424,
+  "alt": "ナイフで削った色鉛筆",
+  "artist": "PoetVeches",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Wooden_pencils_sharpened_with_knife.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wooden_pencils_sharpened_with_knife.jpg/960px-Wooden_pencils_sharpened_with_knife.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wooden_pencils_sharpened_with_knife.jpg/500px-Wooden_pencils_sharpened_with_knife.jpg",
+  "og": "https://dokugaku.seadice.win/img/changing-answers-exam-review.jpg",
+  "local": true
  }
 }

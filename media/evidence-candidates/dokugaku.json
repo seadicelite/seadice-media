@@ -910,5 +910,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-changing-answers-exam-review-first-instinct",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bauer et al., \"Answer changing in multiple choice assessment: change that answer when in doubt – and spread the word!\" (BMC Medical Education, 2007)",
+    "sourceUrl": "https://doi.org/10.1186/1472-6920-7-28",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/changing-answers-exam-review/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "最初の答えを信じろ？",
+        "body": "選択式の試験で迷ったら、最初に選んだ答えを変えない方がいい。そう聞いたことがあるよね。本当かな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "医学生79人の答案を見た",
+        "body": "ドイツの医学生79人が期末試験（78問）で答えを変えた跡を、全部記録して調べた研究がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "変えると誤り→正解が多かった",
+        "body": "変えた答えは平均で48.2%が誤り→正解、21.6%が正解→誤り。変えた学生は平均1.4点上がった。でも2回目以降の変更ではほとんど上がらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どの試験でも同じ？",
+        "body": "1つの大学の1回の試験で、記述式や時間が足りない試験に当てはまるかはわからない。変えた理由も調べていない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
