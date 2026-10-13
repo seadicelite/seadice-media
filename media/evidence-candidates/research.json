@@ -1002,5 +1002,73 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-habit-forgetting-reminder-cue-research-routine-vs-time",
+    "category": "習慣",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Keller et al., \"Habit formation following routine-based versus time-based cue planning: A randomized controlled trial\" (British Journal of Health Psychology, 2021)",
+    "sourceUrl": "https://doi.org/10.1111/bjhp.12504",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/habit-forgetting-reminder-cue-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「歯みがきの後」と「夜8時」どっち？",
+        "body": "新しい習慣のきっかけ、いつもの行動に結びつけるのと、時刻で決めるの。どっちが身につきやすいか、気になるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "192人を2つに分けて84日間",
+        "body": "18〜77歳の192人に食事の習慣を1つ選んでもらい、「いつもの行動の後」組と「決まった時刻」組にランダムに分けたよ。毎日、実行と自動さを記録したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "どちらも同じくらい効いた",
+        "body": "どちらの組も習慣の自動さが上がり、差はなかったんだ。カギは、決めたきっかけで実際にくり返すこと。習慣ができた人で、ピークまでの中央値は59日だったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "食事以外でも同じ？",
+        "body": "調べたのは食事の習慣だけ。59日も習慣ができた人の中央値で、人による差は大きいよ。運動や勉強で同じになるかは、まだはっきりしないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-habit-forgetting-reminder-cue-research-text-reminder",
+    "category": "習慣",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Thakkar et al., \"Mobile Telephone Text Messaging for Medication Adherence in Chronic Disease: A Meta-analysis\" (JAMA Internal Medicine, 2016)",
+    "sourceUrl": "https://doi.org/10.1001/jamainternmed.2015.7667",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/habit-forgetting-reminder-cue-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "リマインダーって本当に効く？",
+        "body": "スマホの通知で思い出させるのって、ただの気休めじゃない？と思うよね。薬の飲み忘れで、ちゃんと調べた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "16件の試験をまとめた",
+        "body": "慢性の病気がある大人2,742人が参加した、16件のランダム化比較試験をまとめたよ。携帯のメッセージで、薬を指示どおり飲めるかを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "見込みが約2倍に",
+        "body": "メッセージを受け取った人は、指示どおり飲めている見込み（オッズ）が約2.1倍だったよ。出版の偏りを補正しても1.68倍で、効果は残ったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "自己申告が多い",
+        "body": "多くの研究は、飲んだかどうかを本人の申告で測っていたんだ。期間の中央値は12週で、薬以外の習慣でも同じくらい効くかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
