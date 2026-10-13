@@ -2560,5 +2560,23 @@
   "og": "https://mentalai.seadice.win/img/loneliness-low-mood-reconnect.jpg",
   "local": true,
   "unconverted": true
+ },
+ "gardening-screen-fatigue-recover": {
+  "file": "File:Pot of basil sprouts (Ocimum basilicum) - 20050422.jpg",
+  "src": "/img/gardening-screen-fatigue-recover.jpg",
+  "src640": "/img/gardening-screen-fatigue-recover-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "窓辺の鉢に出たバジルの芽",
+  "artist": "Jon Eben Field from Vancouver, British Columbia, Canada.",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pot_of_basil_sprouts_(Ocimum_basilicum)_-_20050422.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pot_of_basil_sprouts_%28Ocimum_basilicum%29_-_20050422.jpg/960px-Pot_of_basil_sprouts_%28Ocimum_basilicum%29_-_20050422.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pot_of_basil_sprouts_%28Ocimum_basilicum%29_-_20050422.jpg/500px-Pot_of_basil_sprouts_%28Ocimum_basilicum%29_-_20050422.jpg",
+  "og": "https://mentalai.seadice.win/img/gardening-screen-fatigue-recover.jpg",
+  "local": true
  }
 }
