@@ -91,7 +91,9 @@
     "trouble": [
      "ai-sexual-violent-content-filter-age-limit"
     ],
-    "use": []
+    "use": [
+     "https://kosodate.seadice.win/ai-soudan/"
+    ]
    }
   },
   {
@@ -146,7 +148,9 @@
    "id": "game",
    "label": "ゲーム",
    "cells": {
-    "data": [],
+    "data": [
+     "game-time-average-elementary-junior-high"
+    ],
     "effect": [
      "gaming-disorder-children-research"
     ],
@@ -165,8 +169,12 @@
    "id": "net-trouble",
    "label": "ネットの人間関係",
    "cells": {
-    "data": [],
-    "effect": [],
+    "data": [
+     "cyberbullying-statistics-mental-health-effects"
+    ],
+    "effect": [
+     "cyberbullying-statistics-mental-health-effects"
+    ],
     "how": [
      "online-gaming-strangers-chat-risk"
     ],
@@ -196,7 +204,8 @@
     ],
     "use": [
      "https://kosodate.seadice.win/rules/",
-     "https://kosodate.seadice.win/sns-practice/"
+     "https://kosodate.seadice.win/sns-practice/",
+     "https://kosodate.seadice.win/ai-soudan/"
     ]
    }
   },
@@ -226,7 +235,9 @@
    "id": "esteem",
    "label": "褒め方・叱り方・自己肯定感",
    "cells": {
-    "data": [],
+    "data": [
+     "japan-children-self-esteem-international-comparison"
+    ],
     "effect": [
      "inflated-praise-self-esteem",
      "sibling-comparison-self-esteem"

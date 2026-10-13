@@ -215,6 +215,9 @@ PAGES.append(kiroku_page(
 from kosodate_use_tools import PAGES as USE_PAGES  # noqa: E402
 PAGES += USE_PAGES
 
+from kosodate_soudan_tool import PAGE as SOUDAN_PAGE  # noqa: E402
+PAGES.append(SOUDAN_PAGE)
+
 if __name__ == "__main__":
     f = ROOT / "media/kosodate-pages.json"
     ps = json.loads(f.read_text())

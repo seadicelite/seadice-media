@@ -397,6 +397,7 @@
     {"name": "朝の様子の記録（登校しぶり）", "desc": "行けた・休んだと朝の訴えを1タップで記録し、曜日の傾向と学校に見せるまとめを作る", "href": "/asa-kiroku/", "slugs": ["school-refusal-first-signs-parents", "nursery-separation-anxiety-how-long"]},
     {"name": "宿題の環境チェック", "desc": "スマホの置き場所・音楽・AIの使い方から、今日変える1つがわかる", "href": "/shukudai-check/", "cats": ["考える力・学び"], "slugs": ["homework-ai-thinking-skills", "ai-homework-copying-what-to-say", "ai-book-report-homework-help", "ai-exam-prep-high-school"]},
     {"name": "声かけの言いかえ帳", "desc": "褒め方・叱り方・きょうだい・ゲームの12場面を、研究にもとづく言い方に", "href": "/iikae/", "cats": ["心と親子関係"], "slugs": ["youtube-more-please-how-to-say-no", "game-cant-stop-time-limit-taking-away", "children-quitting-activities-research"]},
+    {"name": "AIに話す？人に話す？ 親子で考える10問", "desc": "相談ごとをAIと人に分けて考え、話せる大人を書いた約束カードを作る", "href": "/ai-soudan/", "slugs": ["ai-chatbot-worry-consultation-safety", "ai-companion-loneliness", "ai-chatbot-conversations-children-risk", "ai-sexual-violent-content-filter-age-limit", "child-told-ai-name-school-privacy"]},
     {"name": "AIで練習するSNS", "desc": "知らない人のDM・悪口・写真投稿などを、子どもと一緒に練習する", "href": "/sns-practice/", "cats": ["安全・プライバシー"]},
     {"name": "スマホ・AIルールづくり（印刷用）", "desc": "年齢別に選んで、家族のルール表を印刷できる", "href": "/rules/", "cats": ["AIの使わせ方", "スマホ・スクリーンタイム"]},
     {"name": "研究早見表", "desc": "悩み別に、研究の答えと今日できることを一覧で見る", "href": "/hayami/"}
