@@ -1376,5 +1376,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-phone-break-focus-not-recovering-research-phone-break",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kang & Kurtzberg, \"Reach for your cell phone at your own risk: The cognitive costs of media choice for breaks\" (Journal of Behavioral Addictions, 2019)",
+    "sourceUrl": "https://doi.org/10.1556/2006.8.2019.21",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/phone-break-focus-not-recovering-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "休憩にスマホは息抜きになる？",
+        "body": "疲れたらちょっとスマホを見て休憩。気分転換になる気がするよね。でも、頭はちゃんと休めているのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生414人の実験",
+        "body": "難しい単語パズルの途中で、同じ「買い物リスト作り」の休憩を、スマホ・紙・パソコンのどれかでやってもらい、後半の成績を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "スマホ休憩は回復が小さかった",
+        "body": "後半に解けた数は10問中、スマホ休憩で平均6.38問、紙とパソコンは8.13問。休憩なしは5.32問だったから、スマホでも休まないよりはましらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回の実験の話",
+        "body": "大学生が対象の、1回の実験室の実験だよ。休憩の中身はみんな同じ作業で、SNSを自由に見たときにどうなるかは調べていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

@@ -83,7 +83,8 @@
         ],
         "stuck": [
           "interrupted-work-refocus-research",
-          "sleep-deprived-next-day-focus-research"
+          "sleep-deprived-next-day-focus-research",
+          "phone-break-focus-not-recovering-research"
         ]
       }
     },
