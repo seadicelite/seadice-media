@@ -1,5 +1,32 @@
 [
  {
+  "slug": "ai-image-similar-to-others-work-pointed-out",
+  "category": "創作・著作権",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-13",
+  "title": "AIで作った画像が、他人の作品に似ていると指摘された。直後は公開を止めて生成の記録を残し、文化庁の「類似」と「依拠」で整理する",
+  "summary": "「パクリでは」と言われたら、反論の前に公開を止めてプロンプト等の記録を保存。文化庁の考え方では類似性と依拠性で判断されます。"
+ },
+ {
+  "slug": "ai-age-limit-terms-students",
+  "category": "子ども・学校",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-13",
+  "title": "生成AIは何歳から使える？規約は13歳以上が多く18歳以上もあり、学校で使うなら国の指針は条件の確認を求めている",
+  "summary": "Gemini・Copilotは13歳以上、Claudeは18歳以上（2026年10月13日確認）。学校では先生が規約の年齢を確かめ、必要に応じて保護者の理解を得る"
+ },
+ {
+  "slug": "face-app-photo-sent-delete",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-13",
+  "title": "AIの加工アプリに顔写真を送ってしまった。消せるかは運営者しだいで、まず規約・権限・削除の依頼先を確かめる",
+  "summary": "アプリを消しても運営者側の写真は残りうる。規約・写真の権限・削除の依頼の順に確かめ、開示や消去の請求も使える"
+ },
+ {
   "slug": "fake-job-sent-id-documents-ai",
   "category": "詐欺・なりすまし",
   "type": "guide",
