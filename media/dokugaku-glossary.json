@@ -288,5 +288,14 @@
     "slugs": [
       "vocab-recognize-but-cannot-produce"
     ]
+  },
+  {
+    "id": "region-of-proximal-learning",
+    "term": "近接学習領域",
+    "en": "Region of proximal learning",
+    "def": "まだ覚えていないが、もう少しでわかる範囲のこと。時間が限られるとき、この範囲に勉強時間を使う方が成績につながったという研究があります。",
+    "slugs": [
+      "exam-close-not-enough-time"
+    ]
   }
 ]

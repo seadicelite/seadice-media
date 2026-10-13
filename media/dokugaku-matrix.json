@@ -262,7 +262,8 @@
      "make-study-time-working-adults"
     ],
     "stuck": [
-     "rebuild-broken-study-plan"
+     "rebuild-broken-study-plan",
+     "exam-close-not-enough-time"
     ]
    }
   },

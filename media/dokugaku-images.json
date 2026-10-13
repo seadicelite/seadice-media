@@ -1623,5 +1623,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Blank_books_stacked_on_a_table.jpg/500px-Blank_books_stacked_on_a_table.jpg",
   "og": "https://dokugaku.seadice.win/img/study-boredom-restart.jpg",
   "local": true
+ },
+ "exam-close-not-enough-time": {
+  "file": "File:Hourglass 1.jpg",
+  "src": "/img/exam-close-not-enough-time.jpg",
+  "src640": "/img/exam-close-not-enough-time-sm.jpg",
+  "w": 960,
+  "h": 723,
+  "alt": "木の机の上に置かれた砂時計",
+  "artist": "Suohros",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Hourglass_1.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hourglass_1.jpg/960px-Hourglass_1.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hourglass_1.jpg/500px-Hourglass_1.jpg",
+  "og": "https://dokugaku.seadice.win/img/exam-close-not-enough-time.jpg",
+  "local": true
  }
 }

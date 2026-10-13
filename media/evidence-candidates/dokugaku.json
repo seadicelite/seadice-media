@@ -1352,5 +1352,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-exam-close-not-enough-time-medium-difficulty",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Metcalfe & Kornell, \"The dynamics of learning and allocation of study time to a region of proximal learning\" (Journal of Experimental Psychology: General, 2003)",
+    "sourceUrl": "https://doi.org/10.1037/0096-3445.132.4.530",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/exam-close-not-enough-time/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "勉強は一番の苦手から？",
+        "body": "時間が足りないときこそ、一番難しい所から片づけるべき。よく聞く助言だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "どの難しさに時間を使うか",
+        "body": "Metcalfeらは、自由に選ばせたときの勉強時間の使い方と、勉強時間を実験者が割り振ったときの成績を調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "中くらいの難しさが一番得",
+        "body": "人は易しい項目を先に済ませ、中くらいの難しさに一番時間を使った。割り振った実験でも、中くらいの項目に多く時間を使ったときの成績が最もよかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実験室の研究の話",
+        "body": "項目を覚える実験室の研究だよ。理解が積み上がる科目や、配点のある本番の試験で同じになるかは確かめられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

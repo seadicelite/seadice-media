@@ -1,5 +1,13 @@
 [
   {
+    "slug": "exam-close-not-enough-time",
+    "category": "時間・計画",
+    "type": "guide",
+    "date": "2026-10-14",
+    "title": "試験まで時間が足りない。範囲が終わらないとき、どう立て直す？残り時間で何を優先するかの研究",
+    "summary": "直前は一番の苦手より「もう少しでわかる」所に時間を使う。範囲を3つに分け、問題を解いて思い出す立て直しの手順。"
+  },
+  {
     "slug": "study-boredom-restart",
     "category": "やる気・心",
     "type": "guide",
