@@ -43,6 +43,20 @@ SOURCES = (
 
 BODY = """<script type="application/ld+json">%LD%</script>
 <p class="answer">子どもがゲームやSNSをやめられないとき、取り上げる前に、終わる場面と声かけを1タップで記録してみてください。揉めずに終われた声かけと、揉めやすい時間帯が見えてきます。記録するのは子どもではなく親の関わり方で、取り上げや監視はしません。記録はこの端末の中だけに残ります。</p>
+<div class="gm-prep">
+<h2>今日からできる3つ</h2>
+<div class="gm-ch" id="gm-kind" role="radiogroup" aria-label="何について">
+<button type="button" data-v="game" aria-pressed="true">ゲーム</button>
+<button type="button" data-v="sns" aria-pressed="false">SNS</button>
+<button type="button" data-v="video" aria-pressed="false">動画</button>
+</div>
+<ol>
+<li><b>始める前に、終わり方を約束する。</b><span id="gm-ex"></span></li>
+<li><b>理由を先に伝え、子どもの希望も聞く。</b>「宿題と寝る時間を守るために」のように。押しつけと感じる伝え方は、問題のある使い方の多さと関連していました。</li>
+<li><b>終わったあとにすることを用意しておく。</b>お風呂・ごはん・一緒にすることなど、いつもの流れの中で終えると切り替えが楽になっていました（幼児の研究）。</li>
+</ol>
+<p class="gm-s">やってみたら、下で終わる場面を記録してください。続けると、わが家で効いた声かけが見えてきます。</p>
+</div>
 <form id="gm" class="gm-box" onsubmit="return false">
 <label for="gm-d">日付</label>
 <input type="date" id="gm-d">
@@ -117,7 +131,7 @@ BODY = """<script type="application/ld+json">%LD%</script>
 var KEY='kosodate-game-v1',$=function(i){return document.getElementById(i)};
 var END={self:'自分で終われた',cue:'声をかけて終われた',wait:'区切りまで待って終われた',fight:'揉めた・怒った'};
 var WHAT={game:'ゲーム',sns:'SNS',video:'動画'},TIME={day:'休日の昼',eve:'夕方',night:'夜',bed:'寝る前'};
-var DID=['始める前に「この試合まで」と約束した','終わる少し前に知らせた','やめる理由を伝えた','「あとどれくらい？」と聞いた','終わったあとにすることを用意した','取り上げると言った','強く言った','何も言わなかった'];
+var DID=['始める前に区切りを約束した','終わる少し前に知らせた','やめる理由を伝えた','「あとどれくらい？」と聞いた','終わったあとにすることを用意した','取り上げると言った','強く言った','何も言わなかった'];
 var LIFE=['寝る時間が遅くなった','朝起きられない日があった','宿題や学校に影響が出た','ごはんやお風呂を後回しにした','家族と話す時間が減った','イライラしていることが多かった'];
 function load(){try{var x=JSON.parse(localStorage.getItem(KEY)||'{}')||{};x.d=x.d||{};x.w=x.w||{};return x}catch(e){return {d:{},w:{}}}}
 function save(){try{localStorage.setItem(KEY,JSON.stringify(D));return true}catch(e){return false}}
@@ -129,6 +143,11 @@ $('gm-did').innerHTML=DID.map(function(t){return '<button type="button" aria-pre
 $('gm-life').innerHTML=LIFE.map(function(t){return '<button type="button" aria-pressed="false">'+t+'</button>'}).join('');
 function radio(id,key){[].forEach.call(document.querySelectorAll('#'+id+' button'),function(b){b.addEventListener('click',function(){sel[key]=b.getAttribute('data-v');
  [].forEach.call(document.querySelectorAll('#'+id+' button'),function(x){x.setAttribute('aria-pressed',x===b?'true':'false')})})})}
+var EX={game:'「この試合まで」「このステージまで」と、時計より区切りで決めます。',sns:'SNSは区切りが見えにくいので、「返信を1つ送ったら」「この投稿まで」など、区切りを先に一緒に決めておきます（SNSで確かめた研究はまだありません）。',video:'「この動画まで」「この回まで」と、動画が終わるところで。自然に終わる区切りで終えると、切り替えが楽になっていました（幼児の研究）。'};
+var CUT={game:'「この試合まで」「このステージまで」',sns:'「返信を1つ送ったら」「この投稿まで」',video:'「この動画まで」「この回まで」'};
+function kind(v){$('gm-ex').textContent=EX[v]||EX.game;[].forEach.call(document.querySelectorAll('#gm-kind button'),function(b){b.setAttribute('aria-pressed',b.getAttribute('data-v')===v?'true':'false')})}
+[].forEach.call(document.querySelectorAll('#gm-kind button'),function(b){b.addEventListener('click',function(){kind(b.getAttribute('data-v'))})});
+kind('game');
 radio('gm-what','what');radio('gm-end','end');radio('gm-time','time');
 function toggles(id){[].forEach.call(document.querySelectorAll('#'+id+' button'),function(b){b.addEventListener('click',function(){b.setAttribute('aria-pressed',b.getAttribute('aria-pressed')==='true'?'false':'true')})})}
 toggles('gm-did');toggles('gm-life');
@@ -163,7 +182,8 @@ function draw(){var keys=Object.keys(D.d).sort(),wks=Object.keys(D.w).sort();$('
  $('gm-life-r').innerHTML=wks.slice(-8).map(function(w){var n=(D.w[w].l||[]).length;return '<li><span>'+w.slice(5).replace('-','/')+'の週</span><b class="b-l" style="width:'+Math.round(n/LIFE.length*100)+'%"></b><em>'+n+' / '+LIFE.length+'</em></li>'}).join('')||'<li>週に1回、生活の様子を記録すると出ます</li>';
  var nx=[],fights=rec.filter(function(k){return D.d[k].e==='fight'}).length,used=function(a){return dc[a]||0};
  if(used('取り上げると言った')||used('強く言った'))nx.push('取り上げや強い言い方を使った日がありました。取り上げをごほうびや罰に使う家庭ほど画面時間が長い関連があります。決めた時間と終わり方を、<a href="/rules/">子どもと話して決め直す</a>のを試してみてください。');
- if(fights&&!used(DID[0]))nx.push('揉めた日がありました。次は始める前に「この試合まで」「このステージまで」と、区切りで終わりを約束してみてください。');
+ var fw={};rec.forEach(function(k){var r=D.d[k];if(r.e==='fight'&&r.w)fw[r.w]=(fw[r.w]||0)+1});var fk=Object.keys(fw).sort(function(a,b){return fw[b]-fw[a]})[0]||'game';
+ if(fights&&!used(DID[0]))nx.push('揉めた日がありました。次は始める前に'+CUT[fk]+'と、区切りで終わりを約束してみてください。');
  if(fights&&!used(DID[2]))nx.push('やめる理由（宿題・寝る時間を守るため など）を先に伝えると、押しつけと感じにくくなります。言い方は<a href="/iikae/">声かけの言いかえ帳</a>に例があります。');
  if(tf.bed||tf.night)nx.push('夜・寝る前に揉めやすいようです。寝る時間など生活の土台になる時間を、ゲームより先に決めておくと優先順位が崩れにくくなります。');
  var lw=wks.slice(-4),heavy=lw.filter(function(w){return (D.w[w].l||[]).length>=3}).length;
@@ -181,7 +201,7 @@ draw();
 })();
 </script>"""
 
-CSS = (".gm-box{background:var(--card);border:1.5px solid var(--text);border-radius:18px;padding:20px;margin:20px 0 28px;display:grid;gap:6px;box-shadow:4px 4px 0 var(--text)}"
+CSS = (".gm-prep{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:18px 20px;margin:20px 0}.gm-prep h2{font-size:18px;margin:0 0 10px}.gm-prep ol{margin:12px 0 4px 20px}.gm-prep li{font-size:15px;line-height:1.8;margin:8px 0}.gm-prep li b{display:block}.gm-box{background:var(--card);border:1.5px solid var(--text);border-radius:18px;padding:20px;margin:20px 0 28px;display:grid;gap:6px;box-shadow:4px 4px 0 var(--text)}"
        ".gm-box label,.gm-q{font-size:14px;font-weight:700;margin:10px 0 2px;display:block}"
        ".gm-box input[type=date],.gm-box input[type=text]{font:inherit;font-size:16px;padding:12px;border-radius:10px;border:1px solid var(--border);background:var(--bg);color:var(--text);min-height:48px;width:100%}"
        ".gm-st{display:grid;grid-template-columns:1fr 1fr;gap:8px}.gm-ch{display:flex;flex-wrap:wrap;gap:8px}"
