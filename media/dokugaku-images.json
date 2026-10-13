@@ -1551,5 +1551,23 @@
   "og": "https://dokugaku.seadice.win/img/nature-break-restore-focus.jpg",
   "local": true,
   "unconverted": true
+ },
+ "draw-to-remember-study": {
+  "file": "File:Colouring pencils.jpg",
+  "src": "/img/draw-to-remember-study.jpg",
+  "src640": "/img/draw-to-remember-study-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "色鉛筆",
+  "artist": "MichaelMaggs",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Colouring_pencils.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Colouring_pencils.jpg/960px-Colouring_pencils.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Colouring_pencils.jpg/500px-Colouring_pencils.jpg",
+  "og": "https://dokugaku.seadice.win/img/draw-to-remember-study.jpg",
+  "local": true,
+  "unconverted": true
  }
 }

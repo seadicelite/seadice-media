@@ -270,5 +270,14 @@
     "slugs": [
       "nature-break-restore-focus"
     ]
+  },
+  {
+    "id": "drawing-effect",
+    "term": "描画効果",
+    "en": "Drawing effect",
+    "def": "覚えたい単語や用語の意味を絵に描くと、書き写すより後でよく思い出せる現象。自分で言い換えた場合とは同じくらいで、意味を考えて形を変えることが効いていると考えられています。",
+    "slugs": [
+      "draw-to-remember-study"
+    ]
   }
 ]

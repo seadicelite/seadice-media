@@ -1182,5 +1182,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-draw-to-remember-study-definitions",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wammes, Meade & Fernandes, \"Learning terms and definitions: Drawing and the role of elaborative encoding\" (Acta Psychologica, 2017)",
+    "sourceUrl": "https://doi.org/10.1016/j.actpsy.2017.07.008",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/draw-to-remember-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "用語は書き写すより絵に描く方が覚える？",
+        "body": "ノートに何度書き写しても、用語の意味が出てこない。絵にしたら違うのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "教科書の用語と定義で3つの実験",
+        "body": "大学の教科書から取った用語と定義を、そのまま書き写すか、意味を絵に描くかで覚えてもらい、後でどれだけ思い出せるかを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "描いた方が残った。でも言い換えも同じくらい",
+        "body": "描いた方が書き写すよりよく思い出せた。架空の用語でも同じだったよ。ただ、自分の言葉で言い換えた場合も、描いたのと同じくらい残ったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い独学でも効くのか",
+        "body": "短い時間の実験で、比べた相手は「書き写す」という弱い覚え方。別の研究では、図の多い動画の授業で絵を描かせても成績に差が出なかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
