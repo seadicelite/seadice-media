@@ -1171,5 +1171,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg/500px-White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg",
   "og": "https://ai.seadice.win/img/ai-chat-cant-stop-dependence-og.jpg",
   "local": true
+ },
+ "ai-downsizing-remaining-staff-stress": {
+  "file": "File:Office Chair Derby (157328893).jpeg",
+  "src": "/img/ai-downsizing-remaining-staff-stress.jpg",
+  "src640": "/img/ai-downsizing-remaining-staff-stress-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "空いた椅子が並ぶオフィス",
+  "artist": "Jason Knauer",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Office_Chair_Derby_(157328893).jpeg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Office_Chair_Derby_%28157328893%29.jpeg/960px-Office_Chair_Derby_%28157328893%29.jpeg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Office_Chair_Derby_%28157328893%29.jpeg/500px-Office_Chair_Derby_%28157328893%29.jpeg",
+  "og": "https://ai.seadice.win/img/ai-downsizing-remaining-staff-stress.jpg",
+  "local": true
  }
 }
