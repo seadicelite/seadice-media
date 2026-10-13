@@ -1580,5 +1580,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-doorway-forgetting-why-research-replication",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "McFadyen et al., \"Doorways do not always cause forgetting: a multimodal investigation\" (BMC Psychology, 2021)",
+    "sourceUrl": "https://doi.org/10.1186/s40359-021-00536-3",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/doorway-forgetting-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ドアをくぐると忘れる？",
+        "body": "部屋に入ったとたん「何しに来たんだっけ」となるのは、ドアをくぐったせい。そんな「ドアの効果」を示した実験が、これまでいくつも報告されてきたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "4つの方法で確かめ直した",
+        "body": "オーストラリアの研究チームが、VR、数を数えながらのVR、廊下を歩く動画、実際の廊下の4つの実験で、合わせて126人を調べ直したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ほとんどの条件で忘れなかった",
+        "body": "ドアを通っても、ほとんどの条件で物忘れは増えなかった。数を数えながらの条件だけ、記憶の取り違えが増えたんだ。頭がいっぱいのときに出やすいのかもしれない。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何が結果を分けたのか",
+        "body": "前の研究で効果が出て、今回出なかった理由ははっきりしない。課題が簡単すぎた可能性や、実験のやり方の細かな違いが考えられているよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

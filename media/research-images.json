@@ -1752,5 +1752,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Window_lamp%2C_lounge%2C_Railway_Inn%2C_Spofforth%2C_North_Yorkshire_%282nd_June_2018%29.jpg/500px-Window_lamp%2C_lounge%2C_Railway_Inn%2C_Spofforth%2C_North_Yorkshire_%282nd_June_2018%29.jpg",
   "og": "https://research.seadice.win/img/sunday-night-blues-why-research-og.jpg",
   "local": true
+ },
+ "doorway-forgetting-why-research": {
+  "file": "File:Bishop White house front door (86ebbc03-1dd8-b71b-0b6a-de6f10a5d0d5).jpg",
+  "src": "/img/doorway-forgetting-why-research.webp",
+  "src640": "/img/doorway-forgetting-why-research-sm.webp",
+  "w": 960,
+  "h": 644,
+  "alt": "住宅の玄関ドア",
+  "artist": "NPS Photo",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Bishop_White_house_front_door_(86ebbc03-1dd8-b71b-0b6a-de6f10a5d0d5).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bishop_White_house_front_door_%2886ebbc03-1dd8-b71b-0b6a-de6f10a5d0d5%29.jpg/960px-Bishop_White_house_front_door_%2886ebbc03-1dd8-b71b-0b6a-de6f10a5d0d5%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bishop_White_house_front_door_%2886ebbc03-1dd8-b71b-0b6a-de6f10a5d0d5%29.jpg/500px-Bishop_White_house_front_door_%2886ebbc03-1dd8-b71b-0b6a-de6f10a5d0d5%29.jpg",
+  "og": "https://research.seadice.win/img/doorway-forgetting-why-research-og.jpg",
+  "local": true
  }
 }
