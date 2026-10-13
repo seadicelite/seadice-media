@@ -141,6 +141,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - AIで練習するSNS: https://kosodate.seadice.win/sns-practice/
 - れんしゅうAI: https://kosodate.seadice.win/ai-practice/
 - 年齢別ガイド: https://kosodate.seadice.win/guide/
+- AI時代の子育てで大事なこと: https://kosodate.seadice.win/ai-era-parenting/
 - 子どもとAI 10の問い: https://kosodate.seadice.win/ai/
 - 親がやるといいこと: https://kosodate.seadice.win/dos/
 - させない方がいいこと: https://kosodate.seadice.win/avoid/
