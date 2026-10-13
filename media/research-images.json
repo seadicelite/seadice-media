@@ -1609,5 +1609,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Emerson%27s_study_%28showing_shelves_of_books%2C_fireplace_and_desk%29_LCCN96508062.jpg/500px-Emerson%27s_study_%28showing_shelves_of_books%2C_fireplace_and_desk%29_LCCN96508062.jpg",
   "og": "https://research.seadice.win/img/pretesting-before-study-memory-research.jpg",
   "local": true
+ },
+ "task-time-estimate-planning-fallacy-research": {
+  "file": "File:Masonic Hourglass.jpg",
+  "src": "/img/task-time-estimate-planning-fallacy-research.jpg",
+  "src640": "/img/task-time-estimate-planning-fallacy-research-sm.jpg",
+  "w": 960,
+  "h": 849,
+  "alt": "砂時計",
+  "artist": "Unknown authorUnknown author",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Masonic_Hourglass.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Masonic_Hourglass.jpg/960px-Masonic_Hourglass.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Masonic_Hourglass.jpg/500px-Masonic_Hourglass.jpg",
+  "og": "https://research.seadice.win/img/task-time-estimate-planning-fallacy-research.jpg",
+  "local": true
  }
 }

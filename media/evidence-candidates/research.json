@@ -1138,5 +1138,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-task-time-estimate-planning-fallacy-research-surgeons",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Katt et al., \"The Planning Fallacy in the Orthopedic Operating Room\" (Cureus, 2021)",
+    "sourceUrl": "https://doi.org/10.7759/cureus.12433",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/task-time-estimate-planning-fallacy-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "プロなら時間を読める？",
+        "body": "毎日同じ仕事をしている専門家なら、かかる時間はぴったり当てられそうだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "外科医9人・759件の手術",
+        "body": "整形外科医9人に、3か月間、手術の時間と、患者が部屋に入ってから出るまでの時間を予測してもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ずれたのは「本体以外」",
+        "body": "手術そのものは予測56.4分・実際55.4分でほぼ一致。でも入室から退室までは予測78.2分に対して実際は82.7分。準備や片付けの時間が読みにくかったみたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ほかの仕事でも同じ？",
+        "body": "1つの医療機関の9人だけの記録で、比べるグループもないんだ。毎回見比べて手術時間の予測は少し正確になったけど、全体の時間のずれは最後まで縮まなかったよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
