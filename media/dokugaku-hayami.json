@@ -398,6 +398,15 @@
       "text": "初めての単元では、例題で学ぶ方が問題を解くだけより成績が上がりやすい。慣れた単元では効果が薄れ、大学生の実験では差が出なかった例もあります。",
       "slug": "worked-examples-how-to-study",
       "evidence": "meta"
+    },
+    {
+      "id": "tell-goals",
+      "name": "目標を人に話す",
+      "belief": "目標は人に言わない方が続く",
+      "level": "b",
+      "text": "言わない方がいいとする実験は「なりたい自分」の目標の話。身近な人に「やること」を話すと応援が増え、公表した目標は効果が大きめでした。",
+      "slug": "tell-goals-to-others-or-keep-secret",
+      "evidence": "meta"
     }
   ]
 }

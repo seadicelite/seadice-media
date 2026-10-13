@@ -808,5 +808,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-tell-goals-to-others-or-keep-secret-goals-out-loud",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Peetz et al., \"Goals Out Loud: Telling Others About a Goal Increases Support Received and Facilitates Goal Pursuit\" (Personality and Social Psychology Bulletin, 2026)",
+    "sourceUrl": "https://doi.org/10.1177/01461672251382271",
+    "studyType": "観察研究と実験（4つの研究）",
+    "articleUrl": "https://dokugaku.seadice.win/tell-goals-to-others-or-keep-secret/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "目標は人に言わない方がいい？",
+        "body": "「目標は秘密にした方が叶う」ってよく聞くよね。言っただけで満足しちゃうから、という理由らしい。でも本当にそうなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1,035人を1週間ずつ追った",
+        "body": "カナダの研究者たちが、4つの研究で合計1,035人を追いかけた。自分の目標を1つ決めてもらい、1週間のあいだに誰かに話したかどうかと、その後どれだけ頑張ったかを聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "話した人は応援されて、頑張っていた",
+        "body": "その週に目標を誰かに話した人は、話さなかった人より応援を多く受けて、努力も多かった。話した人の79.5%は恋人や配偶者に話していたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "話せと言うだけでは差が小さい",
+        "body": "「話す」「話さない」をくじで決めた研究では、努力そのものの差ははっきりしなかった。応援が増えて、それを通じて頑張れる、という間接的な効果だったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

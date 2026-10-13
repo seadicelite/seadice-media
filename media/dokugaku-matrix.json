@@ -229,6 +229,9 @@
     ],
     "stuck": [
      "restart-study-after-break"
+    ],
+    "judge": [
+     "tell-goals-to-others-or-keep-secret"
     ]
    }
   },
