@@ -1281,5 +1281,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Plastic_watertight_drysuit_zipper_open_end_detail_P8110014.jpg/500px-Plastic_watertight_drysuit_zipper_open_end_detail_P8110014.jpg",
   "og": "https://dokugaku.seadice.win/img/why-ai-explanations-feel-understood.jpg",
   "local": true
+ },
+ "why-study-method-works-differently": {
+  "file": "File:Wooden staircase steps in the forest of Hallasan Park Eorimok Trail at dusk on Jeju Island in South Korea.jpg",
+  "src": "/img/why-study-method-works-differently.jpg",
+  "src640": "/img/why-study-method-works-differently-sm.jpg",
+  "w": 960,
+  "h": 649,
+  "alt": "森の中に続く木の階段",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg/960px-Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg/500px-Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-study-method-works-differently.jpg",
+  "local": true
  }
 }

@@ -604,5 +604,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-why-study-method-works-differently-extra-text",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rey & Buchwald, \"The expertise reversal effect: Cognitive load and motivational explanations\" (Journal of Experimental Psychology: Applied, 2011)",
+    "sourceUrl": "https://doi.org/10.1037/a0022243",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-study-method-works-differently/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "丁寧な説明は、いつでもありがたい？",
+        "body": "説明が多い教材ほどわかりやすい気がするよね。でも、慣れた人にとっても同じなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "説明文を足す・足さないで比べた",
+        "body": "学生104人が、数学の手法をアニメーションで約30分学んだ実験があるよ。初めての人と、事前に学んで慣れた人に、説明文ありとなしの教材を割り当てたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "初心者には効き、慣れた人では逆に",
+        "body": "説明文があると初心者は記憶と応用のテストの成績が上がった。でも慣れた人では結果が逆になったらしい。やる気より頭の負担の違いで説明できたそう。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い独学でも同じ？",
+        "body": "約30分の実験室の課題での結果。何か月も続く独学で、どの時点で説明の多い教材から切り替えるのがよいかは、まだわかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
