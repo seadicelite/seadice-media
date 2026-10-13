@@ -96,6 +96,22 @@
         "slow-breathing-stress-research",
         "short-meditation-focus-recovery"
       ]
+    },
+    {
+      "id": "yame-lab",
+      "name": "やめラボ",
+      "appStoreId": "6796585558",
+      "icon": "/img/apps/yame-lab.webp",
+      "catch": "タバコ・お酒・ギャンブル・スマホなど、やめたいことの仕組みを知り、対処法を1つ選んで試す。衝動が来たら10分のタイマーで向き合い、記録で続け方を見直す",
+      "hubLead": "やめたいのにやめられないときに読みたい、衝動との向き合い方・1回のつまずきで投げ出さないこと・誘惑を遠ざける工夫・別の行動への置き換えの研究です。",
+      "theme": "タバコ・お酒・ギャンブル・スマホなどの、やめたい衝動との向き合い方、誘惑を遠ざける・置き換える工夫、つまずいた後に投げ出さないこと。良い習慣を身につける記事、睡眠・集中力の記事には付けない",
+      "articles": [
+        "urge-surfing-craving-wave-research",
+        "all-or-nothing-diet-slip-research",
+        "distance-temptation-self-control-research",
+        "habit-replacement-competing-response-research",
+        "why-habits-run-on-autopilot-research"
+      ]
     }
   ],
   "toolbox": [
