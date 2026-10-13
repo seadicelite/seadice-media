@@ -1735,5 +1735,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DZ6_0461_Cozy_neatly_made_hotel_room_with_a_king_bed_soft_pillows_bedside_lamps_and_calming_neutral_decor.jpg/500px-DZ6_0461_Cozy_neatly_made_hotel_room_with_a_king_bed_soft_pillows_bedside_lamps_and_calming_neutral_decor.jpg",
   "og": "https://research.seadice.win/img/night-waking-why-research.jpg",
   "local": true
+ },
+ "sunday-night-blues-why-research": {
+  "file": "File:Window lamp, lounge, Railway Inn, Spofforth, North Yorkshire (2nd June 2018).jpg",
+  "src": "/img/sunday-night-blues-why-research.webp",
+  "src640": "/img/sunday-night-blues-why-research-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "窓辺に灯るテーブルランプ",
+  "artist": "Mtaylor848",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Window_lamp,_lounge,_Railway_Inn,_Spofforth,_North_Yorkshire_(2nd_June_2018).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Window_lamp%2C_lounge%2C_Railway_Inn%2C_Spofforth%2C_North_Yorkshire_%282nd_June_2018%29.jpg/960px-Window_lamp%2C_lounge%2C_Railway_Inn%2C_Spofforth%2C_North_Yorkshire_%282nd_June_2018%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Window_lamp%2C_lounge%2C_Railway_Inn%2C_Spofforth%2C_North_Yorkshire_%282nd_June_2018%29.jpg/500px-Window_lamp%2C_lounge%2C_Railway_Inn%2C_Spofforth%2C_North_Yorkshire_%282nd_June_2018%29.jpg",
+  "og": "https://research.seadice.win/img/sunday-night-blues-why-research-og.jpg",
+  "local": true
  }
 }

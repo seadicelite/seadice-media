@@ -1546,5 +1546,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-sunday-night-blues-why-research-morning-anticipation",
+    "category": "気分・ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hyun, Sliwinski & Smyth, \"Waking Up on the Wrong Side of the Bed: The Effects of Stress Anticipation on Working Memory in Daily Life\" (The Journals of Gerontology: Series B, 2019)",
+    "sourceUrl": "https://doi.org/10.1093/geronb/gby042",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/sunday-night-blues-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "「今日はきつそう」と思うだけで疲れる？",
+        "body": "朝起きて「今日は大変な日になりそう」と思うと、まだ何も起きていないのに気が重くなるよね。その予想、頭の働きにも影響しているらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "240人が2週間スマホで記録",
+        "body": "ニューヨークのブロンクスに住む25〜65歳の240人が、朝に「今日はどれくらいストレスがありそうか」を答え、日中に何度も短い記憶テストを受けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "朝の予想が重い日ほど記憶テストが不調",
+        "body": "朝にストレスを強く予想した日ほど、その日の記憶テストの成績が悪かった。実際に起きたストレスとは別の影響だったよ。前の晩の予想とは関係がなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "なぜそうなるのかは未確認",
+        "body": "日常の記録から見えた関係で、原因と結果は決めきれない。予想が何の出来事に向いていたかや、ストレスホルモンなど体の反応は調べていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
