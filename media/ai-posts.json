@@ -1,5 +1,32 @@
 [
  {
+  "slug": "fake-job-sent-id-documents-ai",
+  "category": "詐欺・なりすまし",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-13",
+  "title": "AIで作られたような偽の求人に応募して、身分証や個人情報を送ってしまった。止める順番と、悪用に備える届け出",
+  "summary": "送ったものを書き出し、口座は金融機関、身分証の画像は本人申告、脅しやお金の被害は#9110へ。窓口を順番にまとめました。"
+ },
+ {
+  "slug": "ai-terms-privacy-policy-where-to-check",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-13",
+  "title": "AIサービスの利用規約が難しくて読めない。入力の使われ方は「学習・保存期間・人の確認・削除」の4か所に絞って探す",
+  "summary": "規約は全部読まなくていい。学習・保存期間・人の確認・削除の4点を、ポリシーとヘルプのページ内検索で確かめる"
+ },
+ {
+  "slug": "ai-outdated-info-check-date",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-13",
+  "title": "AIの答えに古い情報が混ざっていた。研究では調べた24種類のAIすべてで1割以上が古い答えで、使う前に日付と出典を確かめる",
+  "summary": "有名な事実でも古い答えは1割以上。検索つきでも古い記事を拾うことがあり、料金・制度・役職は出典の日付を見て確かめる"
+ },
+ {
   "slug": "ai-human-decision-combination-prepare",
   "category": "AIに頼りすぎ",
   "type": "guide",
