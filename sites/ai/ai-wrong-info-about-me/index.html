@@ -32,7 +32,7 @@
   <h1>AIに自分の名前を聞いたら、間違った情報が出た。研究では知られていない人ほど誤りが増え、まずは画面を残してサービスに報告する</h1>
   <p class="meta">約8分で読めます</p>
 
-  <div class="evidence"><span class="lv">わかっている度 <b>★★☆</b> 中</span><span>研究3本・公的資料と公式ヘルプ8件を整理</span></div>
+  <div class="evidence"><span class="lv">わかっている度 <b>★★☆</b> 中</span><span>研究3本・公的資料と公式ヘルプ8件を整理</span><span class="checked" style="font-size:12px;color:var(--accent);border:1px solid var(--accent);border-radius:999px;padding:3px 10px">出典照合済み（2026-10-13）</span></div>
 
   <figure class="hero"><img fetchpriority="high" decoding="async" src="/img/ai-wrong-info-about-me.webp" width="960" height="641" alt="A pair of black glasses rests on a stack of notebooks. A silver pen lies next to them. An apple is in the background. The scene is set on a "><figcaption>Photo: Shixart1985 / <a href="https://creativecommons.org/licenses/by/2.0" target="_blank" rel="noopener">CC BY 2.0</a> / <a href="https://commons.wikimedia.org/wiki/File:Reading_materials_on_a_desk_with_glasses_a_pen_and_an_apple_nearby.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></figcaption></figure>
 
@@ -59,7 +59,7 @@
     <p class="t">AIの答えを確かめる手順全般は<a href="/ai-hallucination-how-to-check/">ハルシネーションの割合と確かめ方</a>で、偽の画像や動画の被害は<a href="/deepfake-victim-what-to-do/">ディープフェイク被害のあとにすること</a>で整理しています。この記事は「自分についての間違い」に絞ります。</p>
 
     <h2 class="sec"><span class="n">02 研究とデータでわかっていること</span>AIは人について、どのくらい間違える？</h2>
-    <p class="answer">人物の経歴をAIに書かせた研究では、裏付けのある事実は半分強でした。あまり知られていない人ほど誤りが増えるという結果が、別の分野の研究でも出ています。</p>
+    <p class="answer">人物の経歴をAIに書かせた研究では、裏付けのある事実は半分強でした。あまり知られていない対象ほど誤りが増えるという結果は、判例を調べた別の分野の研究でも出ています。</p>
     <div class="stats">
       <div class="stat"><b>約58%</b><span>ChatGPTが書いた人物の経歴のうち、Wikipediaで裏付けられた事実の割合（183人、2023年発表）</span></div>
       <div class="stat"><b>42.5%</b><span>同じ研究で、InstructGPTの場合の割合</span></div>
@@ -69,12 +69,12 @@
     <div class="study">
       <p class="who">Minら（2023） <span class="ref">[1]</span></p>
       <p class="find">AIに「〇〇さんの経歴を教えて」と頼み、答えを一つ一つの事実に分けてWikipediaと照らしました。裏付けのある事実の割合は、InstructGPTで42.5%、ChatGPTで58.3%、検索を使うPerplexityAIでも71.5%でした。どのAIでも、世の中であまり知られていない人ほど割合が下がり、答えの後半ほど誤りが多くなりました。</p>
-      <p class="cond">対象: Wikipediaに記事がある183人（国や知名度が偏らないように選んだ）。ChatGPTは答えを控えた回答を除いて計算 ／ 限界: 2023年当時のAIでの結果で、今のAIでは割合が違う可能性があります。Wikipediaに載っていない一般の人は対象外です。</p>
+      <p class="cond">対象: Wikipediaに記事がある183人（国や知名度が偏らないように選んだ）。どのAIも、答えを控えた回答は除いて計算 ／ 限界: 2023年当時のAIでの結果で、今のAIでは割合が違う可能性があります。Wikipediaに載っていない一般の人は対象外です。</p>
     </div>
 
     <div class="study">
       <p class="who">Dahlら（2024） <span class="ref">[2]</span></p>
-      <p class="find">4種類のAIに、無作為に選んだ米国の連邦裁判所の判例について確かめられる質問をすると、誤った答えの割合は58%（GPT-4）から88%（Llama 2）でした。新しく目立つ判例ほど成績がよく、下級の裁判所の判例ほど誤りが増えました。AIは自分の誤りを予測するのが苦手で、質問に含まれた間違った前提をそのまま受け入れることもよくありました。</p>
+      <p class="find">4種類のAIに、無作為に選んだ米国の連邦裁判所の判例について確かめられる質問をすると、誤った答えの割合は58%（GPT-4）から88%（Llama 2）でした。新しく目立つ判例ほど成績がよく、下級の裁判所の判例ほど誤りが増えました。AIは自分が誤っているかをいつも予測できるわけではなく、質問に含まれた間違った前提をそのまま受け入れることもよくありました。</p>
       <p class="cond">対象: GPT-4、GPT-3.5、PaLM 2、Llama 2 ／ 限界: 人ではなく判例についての研究です。「目立たないものほど間違えやすい」という傾向を示す、近い分野の結果として紹介します。</p>
     </div>
 
@@ -119,7 +119,7 @@
       <ol>
         <li>Min S, Krishna K, Lyu X, Lewis M, Yih W, Koh P, Iyyer M, Zettlemoyer L, Hajishirzi H (2023). FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation. Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 12076-12100. <a href="https://aclanthology.org/2023.emnlp-main.741/" target="_blank" rel="noopener">https://aclanthology.org/2023.emnlp-main.741/</a></li>
         <li>Dahl M, Magesh V, Suzgun M, Ho DE (2024). Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models. Journal of Legal Analysis, 16(1), 64-93. <a href="https://doi.org/10.1093/jla/laae003" target="_blank" rel="noopener">https://doi.org/10.1093/jla/laae003</a></li>
-        <li>Huang L, Yu W, Ma W, Zhong W, ほか (2025). A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions. ACM Transactions on Information Systems, 43(2). <a href="https://doi.org/10.1145/3703155" target="_blank" rel="noopener">https://doi.org/10.1145/3703155</a></li>
+        <li>Huang L, Yu W, Ma W, Zhong W, ほか (2025). A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions. ACM Transactions on Information Systems, 43(2), Article 42. <a href="https://doi.org/10.1145/3703155" target="_blank" rel="noopener">https://doi.org/10.1145/3703155</a></li>
         <li>個人情報保護委員会 (2023年6月2日). 生成AIサービスの利用に関する注意喚起等について. <a href="https://www.ppc.go.jp/news/careful_information/230602_AI_utilize_alert/" target="_blank" rel="noopener">https://www.ppc.go.jp/news/careful_information/230602_AI_utilize_alert/</a></li>
         <li>総務省・経済産業省 (2026年3月31日). AI事業者ガイドライン（第1.2版）本編. <a href="https://www.soumu.go.jp/main_content/001064279.pdf" target="_blank" rel="noopener">https://www.soumu.go.jp/main_content/001064279.pdf</a></li>
         <li>Google. Gemini アプリのプライバシー ハブ（Gemini アプリ ヘルプ）. <a href="https://support.google.com/gemini/answer/13594961?hl=ja" target="_blank" rel="noopener">https://support.google.com/gemini/answer/13594961?hl=ja</a></li>
