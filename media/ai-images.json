@@ -1108,5 +1108,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rallye_des_Vignobles_2015_pic25.jpg/500px-Rallye_des_Vignobles_2015_pic25.jpg",
   "og": "https://ai.seadice.win/img/ai-algorithmic-management-work.jpg",
   "local": true
+ },
+ "online-exam-ai-proctoring-prepare": {
+  "file": "File:Woman studies at a desk with a laptop notebook and drink in a bright room.jpg",
+  "src": "/img/online-exam-ai-proctoring-prepare.jpg",
+  "src640": "/img/online-exam-ai-proctoring-prepare-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "机でノートパソコンとノートを広げて勉強する人の手元",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg/960px-Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg/500px-Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg",
+  "og": "https://ai.seadice.win/img/online-exam-ai-proctoring-prepare.jpg",
+  "local": true
  }
 }
