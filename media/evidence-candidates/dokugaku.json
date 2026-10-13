@@ -876,5 +876,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "dokugaku-extensive-reading-graded-readers-hamada-overestimate",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hamada, \"Using meta-analysis and propensity score methods to assess treatment effects toward evidence-based practice in extensive reading\" (Frontiers in Psychology, 2020)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2020.00617",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/extensive-reading-graded-readers/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "洋書をたくさん読めば英語は伸びる？",
+        "body": "やさしい本を辞書なしでどんどん読む「多読」。英語が伸びる方法としてよく勧められるよね。どれくらい効くんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "33件のデータをまとめ直した",
+        "body": "多読をしたグループとしなかったグループをくらべた研究のデータ33件（約6,800人）を、日本の研究者がまとめ直した研究がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効くけど、思ったより小さめ",
+        "body": "全体の効果量は0.55。でも、始める前の英語力がそろっていた研究だけだと0.37に下がった。1学期だと0.25、1年を超えると0.92だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "一人で読む社会人にも効く？",
+        "body": "多くは学校の授業での多読。長く続けた研究は人数の多い研究が中心で、期間だけで差が決まったとは言い切れない。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]

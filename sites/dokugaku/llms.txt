@@ -50,6 +50,7 @@
 - [大人の学び直し、どう勉強すればいい？年齢に合わせた勉強のやり方（研究でわかった5つの手順）](https://dokugaku.seadice.win/adult-relearning-how-to-study/): 思い出す練習と間をあけた復習は中高年にも効く。知っていることに結びつけ、大事な所から覚える5つの手順。
 - [勉強法はどう選ぶ？研究でわかった「目的に合わせて組む」5つの手順](https://dokugaku.seadice.win/choose-study-methods-by-goal/): 思い出す練習と間をあけた復習を土台にし、覚える・理解する・解くの目的に合わせて1つ足す。楽さで選ばない。
 - [一夜漬けは本当に効かないのか。詰め込み学習の研究でわかったこと](https://dokugaku.seadice.win/cramming-overnight-study/): 詰め込みは直後のテストには効くこともあるが1週間後には大きく忘れやすい。徹夜は成績を下げ、本人は気づきにくい
+- [英語の多読はどうやる？やさしい本をたくさん読む「多読」のやり方（研究でわかった本の選び方と量）](https://dokugaku.seadice.win/extensive-reading-graded-readers/): 多読は読む力をゆるやかに伸ばす。知らない単語が50語に1語ほどの本を選び、量と期間を確保し、単語は別に覚える。
 - [試験に落ちた・模試が悪かった後、どう立て直す？間違えた問題の直し方の研究](https://dokugaku.seadice.win/failed-exam-review-mistakes/): 間違えた問題は正解と理由で直すと身につく。自信のあった間違いは1週間後に戻りやすいので、日をあけて解き直すまでが一組
 - [ノートは手書きとパソコン、どちらが覚えられるのか。研究でわかったこと](https://dokugaku.seadice.win/handwriting-vs-laptop-notes/): 「手書きが勝つ」実験は再現で差が出ず、まとめると手書きがわずかに有利。大切なのは言い換えと見直し
 - [蛍光ペンで線を引く勉強法は効くのか。研究でわかったこと](https://dokugaku.seadice.win/highlighting-study-method/): 線を引くだけでは理解は深まらない。読み終えてから要点だけに引き、隠して思い出す練習と組み合わせたい
