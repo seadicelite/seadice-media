@@ -279,5 +279,14 @@
     "slugs": [
       "draw-to-remember-study"
     ]
+  },
+  {
+    "id": "productive-vocabulary",
+    "term": "使える語彙（産出語彙）",
+    "en": "Productive vocabulary",
+    "def": "自分で話したり書いたりするときに取り出せる単語の知識。見たり聞いたりして意味がわかる単語（受容語彙）より少なく、育つのも遅いとされます。",
+    "slugs": [
+      "vocab-recognize-but-cannot-produce"
+    ]
   }
 ]

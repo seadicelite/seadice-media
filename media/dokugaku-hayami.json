@@ -457,6 +457,14 @@
       "text": "練習量で説明できた成績の差は教育で4%だけ。問題を解き正誤を確かめる時間を増やすと伸びた研究はあり、時間の中身しだい。",
       "slug": "study-hours-not-improving-scores",
       "evidence": "meta"
+    },
+    {
+      "id": "l1-to-l2-recall",
+      "name": "日本語を見て英単語を思い出す",
+      "belief": "単語帳を英語から何周もすれば話せるようになる",
+      "level": "b",
+      "text": "英語を見てわかる知識と、自分で言える知識は別に育つ。日本語→英語の練習は1週間後に上回った実験がある一方、追試では覚え直すと差が消え、条件しだい。",
+      "slug": "vocab-recognize-but-cannot-produce"
     }
   ]
 }

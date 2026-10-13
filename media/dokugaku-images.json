@@ -1587,5 +1587,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wall_clock_%28cartel%29_MET_DP109788.jpg/500px-Wall_clock_%28cartel%29_MET_DP109788.jpg",
   "og": "https://dokugaku.seadice.win/img/study-hours-not-improving-scores.jpg",
   "local": true
+ },
+ "vocab-recognize-but-cannot-produce": {
+  "file": "File:Wooden srcabble tiles.jpg",
+  "src": "/img/vocab-recognize-but-cannot-produce.jpg",
+  "src640": "/img/vocab-recognize-but-cannot-produce-sm.jpg",
+  "w": 960,
+  "h": 685,
+  "alt": "木でできたアルファベットの文字",
+  "artist": "WOKANDAPIX",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Wooden_srcabble_tiles.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wooden_srcabble_tiles.jpg/960px-Wooden_srcabble_tiles.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wooden_srcabble_tiles.jpg/500px-Wooden_srcabble_tiles.jpg",
+  "og": "https://dokugaku.seadice.win/img/vocab-recognize-but-cannot-produce.jpg",
+  "local": true
  }
 }

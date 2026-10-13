@@ -1250,5 +1250,73 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-vocab-recognize-but-cannot-produce-translation-direction",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Healy, Schneider & Kole, \"Exploring whether making second-language vocabulary learning difficult enhances retention and transfer\" (Behavioral Sciences, 2025)",
+    "sourceUrl": "https://doi.org/10.3390/bs15050692",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/vocab-recognize-but-cannot-produce/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "難しい向きで覚えた単語ほど長く残る？",
+        "body": "単語は母語から外国語を思い出す方が難しい。難しく覚えた方が長く残る、という話を聞いたことがあるかも。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ研究室が自分たちの結果を確かめ直した",
+        "body": "2002年に「難しい向きの方が1週間後に残った」と報告した研究室が、米国の大学生48人でフランス語の単語36組を2つの向きで学ばせ、1週間後にテストと覚え直しをしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1週間後は上回ったが、覚え直すと差が消えた",
+        "body": "学習中は易しい向きの方がずっとよくできた。1週間後のテストでは難しい向きの人が上回ったけど、覚え直しの段階で差はほぼ消えて、最後のテストではどちらも一貫しては上回らなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数が少なく、初心者の短い実験",
+        "body": "フランス語を知らない大学生48人の短い単語リストの実験だよ。外国語の力が高い人ほど母語→外国語の練習が有利だったという別の研究もあって、条件しだいなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-vocab-recognize-but-cannot-produce-listening-speed",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Allal-Sumoto, Miyoshi & Mizuhara, \"The effect of productive vocabulary knowledge on second language comprehension\" (Frontiers in Psychology, 2023)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2023.1049885",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/vocab-recognize-but-cannot-produce/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "話せる単語は、聞き取りにも役立つ？",
+        "body": "話すための練習は、リスニングには関係ないと思われがち。本当にそうなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "「言える」「わかるだけ」で分けて聞かせた",
+        "body": "京都大学の学生37人が、英語の200の言い回しを「自分で言える」「わかるだけ」「わからない」に分けて、1週間以上あとに、それを含む英文を聞いて理解したらすぐキーを押したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "言える言い回しは約430ミリ秒速く理解",
+        "body": "分析した30人では、自分で言える言い回しを含む文は、わかるだけの言い回しを含む文より約430ミリ秒速く理解できたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "速さだけで、正しさは測っていない",
+        "body": "測ったのは理解の速さだけで、正しく理解できたかは調べていないよ。人数も30人と少なく、なぜ速くなるのかもまだわかっていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
