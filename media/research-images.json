@@ -1429,5 +1429,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/USVI_IMG_5204_-_Minimalist_desk_with_a_wooden_lamp_stand_a_notebook_pencils_in_a_cup_and_a_small_black_device.jpg/500px-USVI_IMG_5204_-_Minimalist_desk_with_a_wooden_lamp_stand_a_notebook_pencils_in_a_cup_and_a_small_black_device.jpg",
   "og": "https://research.seadice.win/img/interleaved-practice-mixed-study-research.jpg",
   "local": true
+ },
+ "break-task-small-steps-procrastination-research": {
+  "file": "File:USVI IMG 5179 - Wooden desk with a notebook and pencils sits beside a white chair next to a bed with a chevron-patterned rug.jpg",
+  "src": "/img/break-task-small-steps-procrastination-research.jpg",
+  "src640": "/img/break-task-small-steps-procrastination-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上のノートと鉛筆",
+  "artist": "Category:Government of the United States Virgin Islands",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg/960px-USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg/500px-USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg",
+  "og": "https://research.seadice.win/img/break-task-small-steps-procrastination-research.jpg",
+  "local": true
  }
 }

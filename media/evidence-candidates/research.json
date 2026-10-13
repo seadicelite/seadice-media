@@ -730,5 +730,39 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-break-task-small-steps-procrastination-research-subtask",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Garg et al., \"Now I feel like I'm going to get to it soon: a brief, scalable intervention for state procrastination\" (BMC Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.1186/s40359-025-03388-3",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/break-task-small-steps-procrastination-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "小さく分ければ手をつけられる？",
+        "body": "「大きな作業は小さく分けると始めやすい」ってよく言うよね。7つの質問に答えるだけの短い方法で、試した実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1,035人に7つの質問",
+        "body": "先延ばし中の作業について「なぜ避けてる？」「すぐできる一部分は？」「それは何分？」「終えたらどんなご褒美？」などに答えてもらって、答えないグループと比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "取りかかる見込みが少し上がった",
+        "body": "24時間以内に取りかかれそうかを0〜9で聞くと、平均5.38対4.88。差は小さめ（d=0.2）。作業へのいやな気持ちは変わらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実際にやったかは不明",
+        "body": "測ったのは「やれそう」という見込みだけで、本当に作業したかは調べていないんだ。7つの質問のどれが効いたのかも、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
