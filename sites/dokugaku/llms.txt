@@ -62,6 +62,7 @@
 - [語学アプリだけで話せるようになるのか。アプリ学習の研究でわかったこと](https://dokugaku.seadice.win/language-learning-apps-speaking/): 語学アプリの効果は主に単語や読解で報告され、話す力はほとんど測られていない。アプリに足すべき練習を研究から整理。
 - [人に教えるつもりで学ぶと覚えやすいのか。「教える効果（プロテジェ効果）」の研究](https://dokugaku.seadice.win/learning-by-teaching-protege-effect/): 教えるつもりで学ぶだけでも効果あり。実際に何も見ずに説明すると、1週間後まで残りやすい
 - [「自分は視覚型」は本当？学習スタイル説を研究で確かめる](https://dokugaku.seadice.win/learning-styles-visual-learner-myth/): 好みの学び方はあっても、型に合わせて学べば成績が上がる証拠はほぼない。研究で確かめる
+- [オンライン講座の動画はどう見る？倍速の使い分けと「区切って思い出す」見方（講義動画の研究とやり方）](https://dokugaku.seadice.win/lecture-video-how-to-watch/): 速く再生すると記憶のテストは平均で下がった。新しい内容は等速で、5分前後で止めて3〜4問答える見方の手順。
 - [マインドマップは勉強に効くのか。図にまとめる学習（マインドマップ・コンセプトマップ）の研究](https://dokugaku.seadice.win/mind-map-concept-map-study/): 図にまとめる学習の効果は中程度。マインドマップ単体の証拠は弱く、作った図を見ずに描き直すと効きやすい。
 - [勉強法を変えたのに手応えがない。やめる前にどう確かめる？「効く勉強ほど効いていない気がする」研究](https://dokugaku.seadice.win/new-study-method-feels-not-working/): 効く勉強法ほど最中は手応えが少ない。気分ではなく2〜7日後に思い出せた量で、前のやり方と分けて比べて判断する。
 - [資格試験は過去問から解くべきか。問題を解いて学ぶ研究でわかったこと](https://dokugaku.seadice.win/past-exam-questions-certification/): 過去問は仕上げでなく覚える練習になる。学んだ単元から解き始め、解説で答え合わせし、日をあけて解き直すほど効果が大きい

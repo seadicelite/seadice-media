@@ -1488,5 +1488,73 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-lecture-video-how-to-watch-playback-speed",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Huang et al., \"Facilitating or hindering learning - a meta-analysis of acceleration on video learning\" (Frontiers in Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2025.1427609",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/lecture-video-how-to-watch/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "倍速でも同じだけ学べる？",
+        "body": "講義動画は倍速で見れば時間が半分。内容はちゃんと頭に入るし、むしろ集中できる、という声もよく聞くよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "12件の研究をまとめた",
+        "body": "学習用の動画を速く再生した場合と、元の速さで再生した場合を比べた12件の実験をまとめて分析した研究があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "覚えた内容のテストは下がった",
+        "body": "速く再生すると頭の負担が増え（g=0.59）、覚えた内容を問うテストの成績が下がり（g=−0.41）、学習への満足度も少し下がっていた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何倍までなら平気かは不明",
+        "body": "研究ごとに違う速さを「速い」の1つにまとめて分析していて、何倍から下がるのかはわからない。著者ら自身、発表の偏りの可能性も指摘している。"
+      }
+    ],
+    "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-lecture-video-how-to-watch-in-lecture-quizzes",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Chan et al., \"In-lecture quizzes improve online learning for university and community college students\" (Communications Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s44271-025-00234-5",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/lecture-video-how-to-watch/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "動画の途中で止めるのは意味ある？",
+        "body": "オンライン講座の動画、最後まで流して見たのに何も覚えていない。途中で止めて確かめた方がいいのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "703人で比べた",
+        "body": "アメリカとカナダの大学生と2年制大学の学生703人が、約20分の講義動画を4つに区切って見た。区切りごとに短い問題4問に答える人と、要点のスライドを見直す人に分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "翌日のテストで差が出た",
+        "body": "問題に答えた人は、翌日の総まとめのテストで正答率62%。要点を見直した人は54%だった。思い出す一手間が効いたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "横で動画が流れると消えた",
+        "body": "画面の横に短い動画が次々流れる条件では、最後の区切りのテストでの差がなくなった。何か月も続く講座で同じ効果があるかも、まだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

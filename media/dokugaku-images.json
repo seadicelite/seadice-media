@@ -1677,5 +1677,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stack_of_four_sticky_notes.jpg/500px-Stack_of_four_sticky_notes.jpg",
   "og": "https://dokugaku.seadice.win/img/todo-thoughts-while-studying-refocus.jpg",
   "local": true
+ },
+ "lecture-video-how-to-watch": {
+  "file": "File:Woman studies at a desk with a laptop notebook and drink in a bright room.jpg",
+  "src": "/img/lecture-video-how-to-watch.jpg",
+  "src640": "/img/lecture-video-how-to-watch-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "ノートパソコンの横でノートに書き込む手元",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg/960px-Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg/500px-Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg",
+  "og": "https://dokugaku.seadice.win/img/lecture-video-how-to-watch.jpg",
+  "local": true
  }
 }
