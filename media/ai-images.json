@@ -1072,5 +1072,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Autobiography_by_William_Munroe_1778-1861%2C_Concord%2C_1839%2C_manuscript_on_paper_with_cardstock_binding_-_Concord_Museum_-_Concord%2C_MA_-_DSC05819.JPG/500px-Autobiography_by_William_Munroe_1778-1861%2C_Concord%2C_1839%2C_manuscript_on_paper_with_cardstock_binding_-_Concord_Museum_-_Concord%2C_MA_-_DSC05819.JPG",
   "og": "https://ai.seadice.win/img/ai-polished-writing-lost-my-voice.jpg",
   "local": true
+ },
+ "ai-career-anxiety-students-path": {
+  "file": "File:Emerson's study (showing shelves of books, fireplace and desk) LCCN96508062.jpg",
+  "src": "/img/ai-career-anxiety-students-path.jpg",
+  "src640": "/img/ai-career-anxiety-students-path-sm.jpg",
+  "w": 960,
+  "h": 777,
+  "alt": "本棚と机のある書斎",
+  "artist": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Emerson%27s_study_(showing_shelves_of_books,_fireplace_and_desk)_LCCN96508062.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Emerson%27s_study_%28showing_shelves_of_books%2C_fireplace_and_desk%29_LCCN96508062.jpg/960px-Emerson%27s_study_%28showing_shelves_of_books%2C_fireplace_and_desk%29_LCCN96508062.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Emerson%27s_study_%28showing_shelves_of_books%2C_fireplace_and_desk%29_LCCN96508062.jpg/500px-Emerson%27s_study_%28showing_shelves_of_books%2C_fireplace_and_desk%29_LCCN96508062.jpg",
+  "og": "https://ai.seadice.win/img/ai-career-anxiety-students-path.jpg",
+  "local": true
  }
 }
