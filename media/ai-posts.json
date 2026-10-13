@@ -1,5 +1,14 @@
 [
  {
+  "slug": "privacy-fatigue-gave-up-protecting",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-13",
+  "title": "個人情報はもうどうせ漏れている、と守る気が起きない。研究では守る手間の重さが疲れと関わり、疲れは守る気持ちを弱めていた",
+  "summary": "流出やAIへの入力ミスのあとの「どうせ守れない」は、研究でいうプライバシー疲れ。守る場所をしぼり、1回で長く効く設定から立て直します。"
+ },
+ {
   "slug": "ai-work-coworkers-isolation",
   "category": "人間関係・孤独",
   "type": "guide",

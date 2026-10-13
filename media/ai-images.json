@@ -1018,5 +1018,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Minimalist_meeting_room_%28Unsplash%29.jpg/500px-Minimalist_meeting_room_%28Unsplash%29.jpg",
   "og": "https://ai.seadice.win/img/ai-work-coworkers-isolation-og.jpg",
   "local": true
+ },
+ "privacy-fatigue-gave-up-protecting": {
+  "file": "File:USVI IMG 5204 - Minimalist desk with a wooden lamp stand a notebook pencils in a cup and a small black device.jpg",
+  "src": "/img/privacy-fatigue-gave-up-protecting.jpg",
+  "src640": "/img/privacy-fatigue-gave-up-protecting-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "ノートと鉛筆立て、木のランプが置かれた机",
+  "artist": "Government of the United States Virgin Islands",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:USVI_IMG_5204_-_Minimalist_desk_with_a_wooden_lamp_stand_a_notebook_pencils_in_a_cup_and_a_small_black_device.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/USVI_IMG_5204_-_Minimalist_desk_with_a_wooden_lamp_stand_a_notebook_pencils_in_a_cup_and_a_small_black_device.jpg/960px-USVI_IMG_5204_-_Minimalist_desk_with_a_wooden_lamp_stand_a_notebook_pencils_in_a_cup_and_a_small_black_device.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/USVI_IMG_5204_-_Minimalist_desk_with_a_wooden_lamp_stand_a_notebook_pencils_in_a_cup_and_a_small_black_device.jpg/500px-USVI_IMG_5204_-_Minimalist_desk_with_a_wooden_lamp_stand_a_notebook_pencils_in_a_cup_and_a_small_black_device.jpg",
+  "og": "https://ai.seadice.win/img/privacy-fatigue-gave-up-protecting.jpg",
+  "local": true
  }
 }
