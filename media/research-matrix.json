@@ -113,7 +113,8 @@
       "label": "気分・ストレス",
       "cells": {
         "why": [
-          "sleep-loss-anger-irritability"
+          "sleep-loss-anger-irritability",
+          "negative-events-memory-why-research"
         ],
         "judge": [
           "music-cortisol-stress-research",

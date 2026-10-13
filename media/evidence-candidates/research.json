@@ -832,5 +832,73 @@
       }
     ],
     "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-negative-events-memory-why-research-fading-affect",
+    "category": "気分・ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ritchie et al., \"A pancultural perspective on the fading affect bias in autobiographical memory\" (Memory, 2015)",
+    "sourceUrl": "https://doi.org/10.1080/09658211.2014.884138",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/negative-events-memory-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "嫌な記憶はずっとつらい？",
+        "body": "嫌なことって、いつまでも覚えている気がするよね。でも、そのつらさまでずっと同じ強さなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "10の文化で思い出を集めた",
+        "body": "世界の10の文化の562人から、2400件以上の思い出を集めたよ。当時の感情と、思い出したときの感情の強さを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "つらさのほうが早く薄れる",
+        "body": "どの集団でも、嫌な出来事のつらさのほうが、良い出来事の喜びより早く薄れていたらしい。「感情が薄れる偏り」と呼ばれているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "当時の気持ちは思い出し",
+        "body": "当時の感情は、あとから思い出して答えたもの。不安が強い人では薄れにくいという別の研究もあるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
+  },
+  {
+    "id": "research-negative-events-memory-why-research-listener",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Muir, Brown & Madill, \"The fading affect bias: Effects of social disclosure to an interactive versus non-responsive listener\" (Memory, 2015)",
+    "sourceUrl": "https://doi.org/10.1080/09658211.2014.931435",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/negative-events-memory-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "嫌なことは話せば楽になる？",
+        "body": "嫌なことは誰かに話すとすっきりする、ってよく言うよね。実は「誰に話すか」で結果が変わるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "話し方を3つに分けた",
+        "body": "良い思い出と嫌な思い出を、話さない、ひとりで声に出す、ほかの参加者に話す、に割り当てたよ。聞き手の反応も実験で変えて、1週間後にもう一度感情の強さを聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "反応しない相手だと逆効果",
+        "body": "ひとりで声に出すだけでは変わらなかった。反応を返してくれる相手だと嫌な記憶のつらさが下がり、反応しない相手だと逆に強まったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "親しい人でも同じ？",
+        "body": "話した相手は実験室で会った初対面の参加者。友だちや家族に話す場合に同じ結果になるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-13"
   }
 ]
