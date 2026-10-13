@@ -537,6 +537,9 @@ HUB = [
     ("anzen", "この人、大丈夫？と不安なとき",
      [("まずはここから", "危険な相手のサイン チェックリスト", "束縛・モラハラ・ガスライティングなど、当てはまる言動を選ぶと、研究でわかっていることと相談先を表示します。", "/redflag-check/")],
      [("出来事を記録しておきたいときは", "ふたりの日記", "/nikki/")]),
+    ("kuse", "自分の恋愛のくせを知りたい",
+     [("研究の9問で", "愛着スタイル診断", "恋人・友人・親から相手を選んで9問。見捨てられ不安と親密さの回避を点数にし、4つの型のどこにいるかを表示します（SEADICE本体のサイトで開きます）。", "https://seadice.win/diagnosis/attachment-style/")],
+     [("くり返すすれ違いの理由は", "「追いかけると、逃げる」を繰り返すのはなぜ？", "/attachment-style-relationship-compatibility/")]),
     ("data", "研究データで調べたい",
      [("楽しく確かめるなら", "本当？ウソ？クイズ", "「嘘をつくと目をそらす」「遠距離恋愛はうまくいかない」は本当？しぐさと恋愛の通説を、研究で確かめた答えで出題します。", "/quiz/"),
       ("1つずつ調べるなら", "しぐさ索引", "目をそらす、腕を組むなど、気になったしぐさの意味を、研究で判定した一覧から調べられます。", "/shigusa/")],
@@ -561,7 +564,7 @@ def hub_page():
         items += [(n, p) for _, n, _, p in cards] + [(n, p) for _, n, p in more]
     desc = "脈ありチェック、冷めたサインチェック、危険な相手のサイン チェックリスト、しぐさ索引など、しぐさと本音の無料ツールと研究データを、知りたいことから選べます。登録不要・入力は送信しません。"
     ld = json.dumps({"@context": "https://schema.org", "@type": "CollectionPage", "name": "ツールとデータ", "url": URL + "tools/", "description": desc, "publisher": PUB,
-                     "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": n, "url": URL + p.strip("/") + "/"} for i, (n, p) in enumerate(items)]}},
+                     "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": n, "url": p if p.startswith("http") else URL + p.strip("/") + "/"} for i, (n, p) in enumerate(items)]}},
                     ensure_ascii=False).replace("</", "<\\/")
     body = (f'<script type="application/ld+json">{ld}</script>'
             '<p class="plead">知りたいことに近いものを1つ選んでください。どれも無料・登録不要で、入力した内容はどこにも送りません。</p>'
