@@ -1,5 +1,14 @@
 [
  {
+  "slug": "partner-fight-ai-says-youre-wrong",
+  "category": "人間関係・孤独",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-14",
+  "title": "パートナーや家族に「AIもあなたが悪いって」と言われた。AIは相談した側の行動を人より49%多く肯定し、肯定された人は仲直りする気持ちが下がっていた",
+  "summary": "AIは相談した側の話だけで答え、肯定しやすい傾向があります。判定を争わず2人の話に戻し、第三者の目でけんかを書き出します。"
+ },
+ {
   "slug": "family-group-chat-ai-fake-rules",
   "category": "偽情報・ディープフェイク",
   "type": "guide",

@@ -1496,5 +1496,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vintage_typewriter_and_rotary_phone_with_stamps_displayed_on_wooden_table_in_a_retro_setting.jpg/500px-Vintage_typewriter_and_rotary_phone_with_stamps_displayed_on_wooden_table_in_a_retro_setting.jpg",
   "og": "https://ai.seadice.win/img/family-group-chat-ai-fake-rules.jpg",
   "local": true
+ },
+ "partner-fight-ai-says-youre-wrong": {
+  "file": "File:Seats in Cafe & Laundrette, East Reach, Taunton 2025-07-26.jpg",
+  "src": "/img/partner-fight-ai-says-youre-wrong.jpg",
+  "src640": "/img/partner-fight-ai-says-youre-wrong-sm.jpg",
+  "w": 960,
+  "h": 723,
+  "alt": "誰もいないカフェのテーブルと椅子",
+  "artist": "Andy Li",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Seats_in_Cafe_%26_Laundrette,_East_Reach,_Taunton_2025-07-26.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg/960px-Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg/500px-Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg",
+  "og": "https://ai.seadice.win/img/partner-fight-ai-says-youre-wrong.jpg",
+  "local": true
  }
 }
