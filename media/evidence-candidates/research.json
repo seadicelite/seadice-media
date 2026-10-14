@@ -2600,5 +2600,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-all-nighter-study-forgot-recovery-research-relearn-sleep",
+    "category": "記憶・学習",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mazza S et al., \"Relearn Faster and Retain Longer: Along With Practice, Sleep Makes Perfect\" (Psychological Science, 2016)",
+    "sourceUrl": "https://doi.org/10.1177/0956797616659930",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/all-nighter-study-forgot-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "学び直すなら、いつがいい？",
+        "body": "一度覚えた単語、もう一度覚え直すなら同じ日のうちがいい？それとも一晩寝てから？実は、寝てからの方が得らしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "12時間あけて学び直した",
+        "body": "40人が外国語の単語を全問正解まで練習して、12時間後に学び直した。朝覚えて夜学び直す組と、夜覚えて寝て朝学び直す組に分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "練習が半分ですんだ",
+        "body": "寝てから学び直した組は、学び直しに必要な練習が半分ですんだ。しかも1週間後も6か月後も、よく覚えていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "40人の単語の実験",
+        "body": "人数は40人で、覚えたのは外国語の単語だけ。長い文章や計算の勉強でも同じになるか、ほかの研究室で確かめられたかはまだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-all-nighter-study-forgot-recovery-research-nap-vs-cram",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Cousins JN et al., \"The long-term memory benefits of a daytime nap compared with cramming\" (Sleep, 2019)",
+    "sourceUrl": "https://doi.org/10.1093/sleep/zsy207",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/all-nighter-study-forgot-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "寝る間を惜しんで詰め込むべき？",
+        "body": "テスト前は1時間でも多く勉強した方がいい、って思いがちだよね。じゃあ1時間の昼寝と1時間の詰め込み、どっちが残るんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "昼寝・休憩・詰め込みを比べた",
+        "body": "シンガポールの大学生84人が5時間かけて生き物の知識を学んだ。途中の1時間を、昼寝・映画で休憩・詰め込みの3組に分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1週間後は昼寝だけが有利",
+        "body": "30分後のテストでは、昼寝と詰め込みがどちらも休憩より良かった。でも1週間後には、昼寝の組だけが有利さを保っていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "寝不足の人でも同じ？",
+        "body": "参加者は前もって毎晩十分に眠っていた人たち。徹夜明けやいつも寝不足の人で同じ結果になるかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
