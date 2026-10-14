@@ -263,6 +263,13 @@
         "**/.*"
       ],
       "trailingSlash": true,
+      "redirects": [
+        {
+          "source": "/apps/qr-guard{,/**}",
+          "destination": "/apps/link-matta/",
+          "type": 301
+        }
+      ],
       "headers": [
         {
           "source": "/img/**",
