@@ -2854,5 +2854,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Feet_in_clear_water_over_colorful_pebbles_creating_ripples_on_a_summer_day_by_the_riverbank_undefined.jpg/500px-Feet_in_clear_water_over_colorful_pebbles_creating_ripples_on_a_summer_day_by_the_riverbank_undefined.jpg",
   "og": "https://mentalai.seadice.win/img/ai-praise-feels-hollow-og.jpg",
   "local": true
+ },
+ "sns-scrolling-comparison-prevent": {
+  "file": "File:White and gray wooden house.jpg",
+  "src": "/img/sns-scrolling-comparison-prevent.webp",
+  "src640": "/img/sns-scrolling-comparison-prevent-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "夜の湖にのびる木の桟橋と小さな小屋",
+  "artist": "Aurélien bellanger",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:White_and_gray_wooden_house.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/White_and_gray_wooden_house.jpg/960px-White_and_gray_wooden_house.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/White_and_gray_wooden_house.jpg/500px-White_and_gray_wooden_house.jpg",
+  "og": "https://mentalai.seadice.win/img/sns-scrolling-comparison-prevent-og.jpg",
+  "local": true
  }
 }

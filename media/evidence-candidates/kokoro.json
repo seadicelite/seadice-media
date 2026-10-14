@@ -1662,5 +1662,73 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-sns-scrolling-comparison-prevent-differs-by-person",
+    "category": "SNSと比較",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Beyens I, Pouwels JL, van Driel II, Keijsers L, Valkenburg PM, \"The effect of social media on well-being differs from adolescent to adolescent\" (Scientific Reports, 2020)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-020-67727-7",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/sns-scrolling-comparison-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "SNSを眺めるだけで落ち込む？",
+        "body": "投稿もしないで眺めるだけなのに、なぜか気分が沈む。そんな話、よく聞くよね。でも、それってみんな同じなのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1日6回、気分を記録",
+        "body": "オランダの研究で、14〜15歳の63人に1週間、1日6回スマホで「いまの気分」と「SNSをどう使ったか」を答えてもらったんだ。答えは合計2,155回。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "人によって正反対",
+        "body": "見るだけで使ったあと、気分がよくなった人が46%、ほとんど変わらない人が44%、悪くなった人は10%。影響は人によって大きく違ったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人や今のSNSでは？",
+        "body": "対象は63人の中学生世代で、記録は1週間だけ。大人や、短い動画が中心の今のSNSで同じになるかは、まだわかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-sns-scrolling-comparison-prevent-content-appraisal",
+    "category": "SNSと比較",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Evans O, Hardacre S, Rubin M, Tran M, \"Content appraisal and age moderate the relationship between passive social media use and mental ill-being\" (Frontiers in Psychology, 2023)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2023.1181233",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/sns-scrolling-comparison-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "見るだけのSNSは心に悪い？",
+        "body": "SNSは投稿せずに眺めるだけだと、心に悪いって言われるよね。でも、何を見ているかは関係ないのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "962人にアンケート",
+        "body": "オーストラリアと米国のFacebook利用者962人（17〜97歳）に、見るだけの使い方と、うつ・不安・ストレスの強さを尋ねた調査があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "大事なのは受け止め方",
+        "body": "見るだけの時間そのものは、心の不調と関係がなかった。見ている投稿を「励まされる」「ためになる」と感じる人ほど不調が少なく、そういう人では眺める時間が長くても不調は多くなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因かどうかは不明",
+        "body": "1回きりのアンケートなので、どちらが原因かはわからない。この分析の仮説も、データを集めたあとに立てたものなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
