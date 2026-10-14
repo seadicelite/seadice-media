@@ -1426,5 +1426,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_computer_keyboard_and_mouse_are_positioned_on_a_wooden_des.jpg/500px-A_computer_keyboard_and_mouse_are_positioned_on_a_wooden_des.jpg",
   "og": "https://ai.seadice.win/img/ai-monitoring-at-work-feel-watched-og.jpg",
   "local": true
+ },
+ "deceased-family-ai-recreate-prepare": {
+  "file": "File:Wildflowers at Table Rocks (41277170035).jpg",
+  "src": "/img/deceased-family-ai-recreate-prepare.webp",
+  "src640": "/img/deceased-family-ai-recreate-prepare-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "野に咲く花",
+  "artist": "BLM Oregon & Washington",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Wildflowers_at_Table_Rocks_(41277170035).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wildflowers_at_Table_Rocks_%2841277170035%29.jpg/960px-Wildflowers_at_Table_Rocks_%2841277170035%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wildflowers_at_Table_Rocks_%2841277170035%29.jpg/500px-Wildflowers_at_Table_Rocks_%2841277170035%29.jpg",
+  "og": "https://ai.seadice.win/img/deceased-family-ai-recreate-prepare-og.jpg",
+  "local": true
  }
 }
