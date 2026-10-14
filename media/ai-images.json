@@ -1443,5 +1443,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wildflowers_at_Table_Rocks_%2841277170035%29.jpg/500px-Wildflowers_at_Table_Rocks_%2841277170035%29.jpg",
   "og": "https://ai.seadice.win/img/deceased-family-ai-recreate-prepare-og.jpg",
   "local": true
+ },
+ "ai-voice-scam-parent-family-blame": {
+  "file": "File:Turn table on windowsill (Unsplash).jpg",
+  "src": "/img/ai-voice-scam-parent-family-blame.webp",
+  "src640": "/img/ai-voice-scam-parent-family-blame-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "窓辺に置かれた古い形の電話機と花、レコードプレーヤー",
+  "artist": "Emma Frances Logan emmafranceslogan",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Turn_table_on_windowsill_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Turn_table_on_windowsill_%28Unsplash%29.jpg/960px-Turn_table_on_windowsill_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Turn_table_on_windowsill_%28Unsplash%29.jpg/500px-Turn_table_on_windowsill_%28Unsplash%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-voice-scam-parent-family-blame-og.jpg",
+  "local": true
  }
 }
