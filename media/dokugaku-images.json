@@ -1963,5 +1963,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/I_finally_got_the_pieces_of_my_office_desk_up_here%2C_and_with_some_cussing%2C_drilling%2C_glue_managed_to_re-assemble_it_%28a_few_of_those_cam-post_things_got_mangled_in_my_hast_of_packing_up%29._%282373867187%29.jpg/500px-thumbnail.jpg",
   "og": "https://dokugaku.seadice.win/img/why-sleepy-after-lunch-studying.jpg",
   "local": true
+ },
+ "why-adult-pronunciation-accent-stays": {
+  "file": "File:EMI RM-1B microphone (1930s), Abbey Road Studios.jpg",
+  "w": 960,
+  "h": 720,
+  "artist": "Josephenus P. Riley",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:EMI_RM-1B_microphone_(1930s),_Abbey_Road_Studios.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/EMI_RM-1B_microphone_%281930s%29%2C_Abbey_Road_Studios.jpg/960px-EMI_RM-1B_microphone_%281930s%29%2C_Abbey_Road_Studios.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/EMI_RM-1B_microphone_%281930s%29%2C_Abbey_Road_Studios.jpg/500px-EMI_RM-1B_microphone_%281930s%29%2C_Abbey_Road_Studios.jpg",
+  "src": "/img/why-adult-pronunciation-accent-stays.webp",
+  "src640": "/img/why-adult-pronunciation-accent-stays-sm.webp",
+  "alt": "展示されている古いリボンマイク",
+  "local": true,
+  "og": "https://dokugaku.seadice.win/img/why-adult-pronunciation-accent-stays-og.jpg"
  }
 }

@@ -2134,5 +2134,73 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-why-adult-pronunciation-accent-stays-japanese-rl",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Flege et al., \"Japanese adults can learn to produce English /r/ and /l/ accurately\" (Language and Speech, 1995)",
+    "sourceUrl": "https://doi.org/10.1177/002383099503800102",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/why-adult-pronunciation-accent-stays/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "日本人にLとRの発音は無理？",
+        "body": "大人になってから英語を始めた日本人は、LとRを正しく発音できるようにならない。そんなふうに言われることがあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "アメリカ暮らし2年と21年",
+        "body": "アメリカに平均2年住んだ日本人12人と、平均21年住んだ日本人12人のLとRを、英語の母語話者に聞いてもらった研究があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "21年組は正しく聞き取られた",
+        "body": "2年組のLとRはよく聞き間違えられたけど、21年組のLとRは正しく聞き取られたらしい。21年組の12人中10人は、発音の評価が母語話者と同じ範囲に入ったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "英語の中で長く暮らした人の話",
+        "body": "12人ずつの少人数で、アメリカで長く英語を使ってきた人の結果。日本で独学する大人が同じように伸びるかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-why-adult-pronunciation-accent-stays-accent-comprehension",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Munro & Derwing, \"Processing time, accent, and comprehensibility in the perception of native and foreign-accented speech\" (Language and Speech, 1995)",
+    "sourceUrl": "https://doi.org/10.1177/002383099503800305",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-adult-pronunciation-accent-stays/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "なまりが強いと伝わらない？",
+        "body": "英語を話すとき、なまりが強いと相手に伝わらないんじゃないかって心配になるよね。実はなまりと伝わりやすさは別物かもしれない。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "聞いて正しいかを判断",
+        "body": "英語の母語話者20人が、英語母語の10人と中国語母語の10人の英文を聞いて、内容が正しいかを判断した実験があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "時間に関係したのは「わかりやすさ」",
+        "body": "わかりにくいと評価された発話ほど判断に時間がかかった。でも、なまりの強さそのものと判断の時間には関係が見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "短い文での実験",
+        "body": "短い文を聞く実験室の結果で、聞き手は20人。実際の会話での伝わりやすさまで同じかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
