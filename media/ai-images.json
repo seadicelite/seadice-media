@@ -1550,5 +1550,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Home-office-336377.jpg/500px-Home-office-336377.jpg",
   "og": "https://ai.seadice.win/img/ai-guess-personality-from-sns-posts.jpg",
   "local": true
+ },
+ "ai-music-listeners-tell-difference": {
+  "file": "File:A tuning fork placed on sheet music 3.jpg",
+  "src": "/img/ai-music-listeners-tell-difference.jpg",
+  "src640": "/img/ai-music-listeners-tell-difference-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "楽譜の上に置かれた音叉",
+  "artist": "Lukasz Kobus, European Commission",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_tuning_fork_placed_on_sheet_music_3.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/A_tuning_fork_placed_on_sheet_music_3.jpg/960px-A_tuning_fork_placed_on_sheet_music_3.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/A_tuning_fork_placed_on_sheet_music_3.jpg/500px-A_tuning_fork_placed_on_sheet_music_3.jpg",
+  "og": "https://ai.seadice.win/img/ai-music-listeners-tell-difference.jpg",
+  "local": true
  }
 }
