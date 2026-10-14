@@ -1930,5 +1930,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-why-study-habit-takes-time-to-form-21-days-myth",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Singh et al., \"Time to Form a Habit: A Systematic Review and Meta-Analysis of Health Behaviour Habit Formation and Its Determinants\" (Healthcare, 2024)",
+    "sourceUrl": "https://doi.org/10.3390/healthcare12232488",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/why-study-habit-takes-time-to-form/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "21日で習慣になる？",
+        "body": "「3週間続ければ習慣になる」ってよく聞くよね。でも1か月続けても、毎日やるかどうか迷う。習慣って、本当は何日でできるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "20件の研究をまとめた",
+        "body": "運動や食事、水を飲む、歯のフロスなど、健康の習慣づくりを調べた研究20件（2,601人）をまとめたレビュー。そのうち4件が、習慣になるまでの日数を報告していたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "中央値は約2か月",
+        "body": "習慣になるまでの中央値は59〜66日、平均は106〜154日。人によって4日から335日まで差があったらしい。21日という数字を支える結果ではなかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の習慣はまだ不明",
+        "body": "日数を報告した研究は4件だけで、20件中11件はかたよりの危険が高いと評価された。調べたのは健康の行動で、勉強の習慣が何日でできるかはわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
