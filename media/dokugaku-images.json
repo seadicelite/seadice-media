@@ -1927,5 +1927,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Headphones_on_desk.jpg/500px-Headphones_on_desk.jpg",
   "og": "https://dokugaku.seadice.win/img/why-japanese-hard-to-hear-l-and-r.jpg",
   "local": true
+ },
+ "why-comparing-study-progress-on-sns-hurts": {
+  "file": "File:Legal pad and pencil.jpg",
+  "src": "/img/why-comparing-study-progress-on-sns-hurts.jpg",
+  "src640": "/img/why-comparing-study-progress-on-sns-hurts-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "罫線入りのメモ帳と鉛筆",
+  "artist": "Jonas Petersson (UU)",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Legal_pad_and_pencil.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Legal_pad_and_pencil.jpg/960px-Legal_pad_and_pencil.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Legal_pad_and_pencil.jpg/500px-Legal_pad_and_pencil.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-comparing-study-progress-on-sns-hurts.jpg",
+  "local": true
  }
 }

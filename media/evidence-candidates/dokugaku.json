@@ -2066,5 +2066,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-why-comparing-study-progress-on-sns-hurts-person-specific",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Beyens et al., \"The effect of social media on well-being differs from adolescent to adolescent\" (Scientific Reports, 2020)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-020-67727-7",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/why-comparing-study-progress-on-sns-hurts/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "SNSを見ると、みんな落ち込む？",
+        "body": "他人のキラキラした投稿を見ると気分が下がる、ってよく言われるよね。勉強垢を見て焦った経験がある人も多いはず。でも、本当に誰でもそうなるんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1週間、1日6回の記録",
+        "body": "オランダの学校に通う平均15歳の63人に、1週間、1日6回、SNSの使い方とその時の気分を答えてもらった研究だよ。記録は全部で2,155回分。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "悪くなったのは10%",
+        "body": "投稿を見るだけの使い方をした後、44%は気分が変わらず、46%は良くなり、悪くなったのは10%だったらしい。SNSの影響は、人によってかなり違うということ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "63人の10代だけの話",
+        "body": "対象は1つの学校の10代63人だけ。大人の独学者で同じ割合になるかはわからないし、どんな投稿を見たかまでは分けていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
