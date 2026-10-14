@@ -2059,5 +2059,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg/500px-Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg",
   "og": "https://dokugaku.seadice.win/img/why-ai-confidently-wrong-hallucination.jpg",
   "local": true
+ },
+ "why-study-methods-differ-icap": {
+  "file": "File:Notebook with pen, August, 2019.jpg",
+  "src": "/img/why-study-methods-differ-icap.jpg",
+  "src640": "/img/why-study-methods-differ-icap-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ペンを置いたノート",
+  "artist": "Phil Slattery",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Notebook_with_pen,_August,_2019.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Notebook_with_pen%2C_August%2C_2019.jpg/960px-Notebook_with_pen%2C_August%2C_2019.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Notebook_with_pen%2C_August%2C_2019.jpg/500px-Notebook_with_pen%2C_August%2C_2019.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-study-methods-differ-icap.jpg",
+  "local": true
  }
 }

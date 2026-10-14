@@ -2474,5 +2474,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-why-study-methods-differ-icap-question-vs-lecture",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lim et al., \"Active learning through discussion: ICAP framework for education in health professions\" (BMC Medical Education, 2019)",
+    "sourceUrl": "https://doi.org/10.1186/s12909-019-1901-7",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/why-study-methods-differ-icap/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "講義を聞くか、自分で読むか",
+        "body": "同じ教材でも、講義を聞くのと自分で読んで問いを作るのとでは、身につき方が違うのかな。韓国の大学で、医療系の学生を4つの組に分けて試した実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "18分学んで、5分で問いか要約",
+        "body": "18分間、講義を聞くか自分で読むか。そのあと5分で問いを3つ作るか、3文に要約するか。話し合ったあと、25点満点のテストを受けたよ。分析したのは108人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "自分で読んで問いを作った組が最高",
+        "body": "平均点は、自分で読んで問いを作った組が17.19点、講義を聞いて要約した組が12.52点。自分で読んだ組は、講義を聞いた組より点が高かったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "問いと要約の差ははっきりしない",
+        "body": "自分で読んだあと、問いを作った組と要約した組の差は統計的にはっきりしなかった。慣れない法律の教材を使った1回きりの短い実験で、長く独学する場面でも同じかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-why-study-methods-differ-icap-lecture-myth",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Freeman et al., \"Active learning increases student performance in science, engineering, and mathematics\" (PNAS, 2014)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.1319030111",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/why-study-methods-differ-icap/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "講義をしっかり聞くのが一番？",
+        "body": "わかりやすい講義をじっと聞くのが、いちばん効率のいい学び方だと思われがちだよね。でも大学の理系の授業を調べた研究をまとめると、違う結果が出ているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "225の研究をまとめた",
+        "body": "講義だけの授業と、学生が問題を解いたり話し合ったりして手と頭を動かす授業をくらべた225の研究を、メタ分析という方法でまとめたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績が上がり、単位を落としにくい",
+        "body": "手と頭を動かす授業では、試験などの成績が平均0.47標準偏差高かった。単位を落とす割合は、手と頭を動かす授業で21.8%、講義だけの授業で33.8%だったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "くじ引きの実験は少ない",
+        "body": "多くの研究はくじ引きで組を分けた実験ではなく、協力した先生も限られている。大学の理系の授業の話で、一人で独学する場面にそのまま当てはまるかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
