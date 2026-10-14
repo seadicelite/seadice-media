@@ -1019,5 +1019,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Boxwood_Lockers_in_the_hallway.jpg/500px-Boxwood_Lockers_in_the_hallway.jpg",
   "og": "https://hanzai.seadice.win/img/adolescent-brain-juvenile-culpability.jpg",
   "local": true
+ },
+ "solitary-confinement-mental-health": {
+  "file": "File:Eastern State Penitentiary - Cell blocks 6.jpg",
+  "src": "/img/solitary-confinement-mental-health.jpg",
+  "src640": "/img/solitary-confinement-mental-health-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "古い刑務所の独房が並ぶ廊下",
+  "artist": "Dudva",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Eastern_State_Penitentiary_-_Cell_blocks_6.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Eastern_State_Penitentiary_-_Cell_blocks_6.jpg/960px-Eastern_State_Penitentiary_-_Cell_blocks_6.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Eastern_State_Penitentiary_-_Cell_blocks_6.jpg/500px-Eastern_State_Penitentiary_-_Cell_blocks_6.jpg",
+  "og": "https://hanzai.seadice.win/img/solitary-confinement-mental-health.jpg",
+  "local": true
  }
 }
