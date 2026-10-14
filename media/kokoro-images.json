@@ -2888,5 +2888,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg/500px-Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg",
   "og": "https://mentalai.seadice.win/img/ai-reliance-self-efficacy-prevent-og.jpg",
   "local": true
+ },
+ "breakup-cant-move-on": {
+  "file": "File:Calm At Dusk 3 (183661805).jpeg",
+  "src": "/img/breakup-cant-move-on.webp",
+  "src640": "/img/breakup-cant-move-on-sm.webp",
+  "w": 960,
+  "h": 540,
+  "alt": "夕暮れの静かな湖",
+  "artist": "Aslam Karachiwala",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Calm_At_Dusk_3_(183661805).jpeg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Calm_At_Dusk_3_%28183661805%29.jpeg/960px-Calm_At_Dusk_3_%28183661805%29.jpeg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Calm_At_Dusk_3_%28183661805%29.jpeg/500px-Calm_At_Dusk_3_%28183661805%29.jpeg",
+  "og": "https://mentalai.seadice.win/img/breakup-cant-move-on-og.jpg",
+  "local": true
  }
 }

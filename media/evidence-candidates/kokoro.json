@@ -1764,5 +1764,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-breakup-cant-move-on-self-blame",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gehl K, Brassard A, Dugal C, et al., \"Attachment and Breakup Distress: The Mediating Role of Coping Strategies\" (Emerging Adulthood, 2024)",
+    "sourceUrl": "https://doi.org/10.1177/21676968231209232",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/breakup-cant-move-on/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "失恋が長引く人の違いは？",
+        "body": "失恋して、すぐ元気になる人もいれば、何か月も引きずる人もいるよね。その違いって、どこから来るんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "別れる前から追いかけた",
+        "body": "カナダの研究チームが、交際中の18〜25歳1,385人を1年間追ったんだ。その間に別れた196人について、別れの1か月後の向き合い方と、1か月後・3か月後の気分を調べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "自分を責めるほど長引いた",
+        "body": "「自分を責める・自分のことばかり考え込む」対処が多い人ほど、1か月後も3か月後も落ち込みと不安が強かった。受け入れる・見方を変える対処が多い人は、落ち込みが少なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どっちが先かは不明",
+        "body": "落ち込んでいるから自分を責めやすいのか、責めるから落ち込むのか、向きはわからない。参加者の8割以上が女性で、対処を変えたら回復が早まるかを試した実験でもないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
