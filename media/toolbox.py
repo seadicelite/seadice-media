@@ -4,7 +4,8 @@
  - 一覧: /tools/（toolboxHub で変更可）に全件のハブページ。既に手書きのページがある場合は上書きせずリンクだけ張る
 設定はメディア設定の "toolbox" 配列（並び順＝トップでの表示順）。apps 配列のアプリも自動で含める。
   {"name", "desc", "href"（ツールのURL。自サイトは /path/）, "appStoreId"（あればアプリ扱い）, "id"（アプリのアイコン名）,
-   "slugs": [記事slug], "cats": [カテゴリ名], "all": true（どの記事にも出す既定）, "top": false（トップに出さない）}
+   "slugs": [記事slug], "cats": [カテゴリ名], "all": true（どの記事にも出す既定）, "top": false（トップに出さない）,
+   "glyph"（Webツールのアイコンの種類。省略時は名前から決める。GLYPHS のキー）}
 "toolboxTop": false でトップの枠を出さない（トップに手書きのツール枠があるメディア）。
 記事ごとの選び方: toollinks.json の指定 > slugs 一致 > cats 一致 > all。ツールとアプリそれぞれ最上位を1つずつ。JS 不使用。"""
 import html, re, shutil
@@ -14,13 +15,46 @@ ROOT = Path(__file__).resolve().parent.parent
 ICON_SRC = ROOT.parent / "SEADICE/p/icons/apps"  # 本体サイトのアプリアイコン(112px WebP)
 E = html.escape
 MARK = "<!--toolbox-hub-->"
-TOOL_SVG = ('<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h7v7H4zm9 0h7v7h-7zM4 13h7v7H4zm12 0h2v3h3v2h-3v3h-2v-3h-3v-2h3z"/></svg>')
+# Webツールのアイコン: 名前から種類を見分けて、種類ごとの1色の線画にする（全部同じ記号だとアプリの画像だけが目立つため）。
+# 設定の "glyph" で種類を直接指定できる。上から順に最初に当たった種類を使う
+GLYPHS = {
+    "play": '<circle cx="12" cy="12" r="8.5"/><path d="M10 8.5l5 3.5-5 3.5z"/>',
+    "timer": '<circle cx="12" cy="13" r="7.5"/><path d="M12 13V9M10 2.5h4M12 2.5v3"/>',
+    "clock": '<circle cx="12" cy="12" r="8.5"/><path d="M12 7v5l3.5 2"/>',
+    "calendar": '<rect x="3.5" y="5" width="17" height="15" rx="2"/><path d="M3.5 10h17M8 3v4M16 3v4M8 14h3M8 17h6"/>',
+    "shield": '<path d="M12 3l7.5 3v5.5c0 4.5-3.2 8-7.5 9.5-4.3-1.5-7.5-5-7.5-9.5V6z"/><path d="M9 12l2 2 4-4"/>',
+    "heart": '<path d="M12 19.5s-7.5-4.5-7.5-10A4 4 0 0112 7.5a4 4 0 017.5 2c0 5.5-7.5 10-7.5 10z"/>',
+    "table": '<rect x="3.5" y="4.5" width="17" height="15" rx="2"/><path d="M3.5 9.5h17M3.5 14.5h17M9.5 4.5v15"/>',
+    "quiz": '<circle cx="12" cy="12" r="8.5"/><path d="M9.5 9.5a2.5 2.5 0 114 2c-1 .7-1.5 1.2-1.5 2.5M12 16.5v.5"/>',
+    "chat": '<path d="M4.5 5.5h15v10h-8l-4 3.5v-3.5h-3z"/><path d="M8 10.5h8"/>',
+    "search": '<circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5 5"/>',
+    "dial": '<path d="M4 16a8 8 0 1116 0"/><path d="M12 16l3.5-5M4 16h16"/>',
+    "check": '<rect x="4.5" y="3.5" width="15" height="17" rx="2"/><path d="M8 9l1.5 1.5 3-3M8 15l1.5 1.5 3-3M14.5 9h2M14.5 15h2"/>',
+    "note": '<path d="M6.5 3.5h11v17h-11z"/><path d="M9.5 8h5M9.5 11.5h5M9.5 15h3M4.5 7h2M4.5 12h2M4.5 17h2"/>',
+    "print": '<path d="M7 9V3.5h10V9M7 17H4.5V9h15v8H17"/><rect x="7" y="14" width="10" height="6.5"/>',
+    "home": '<path d="M3.5 11.5L12 4l8.5 7.5"/><path d="M6 9.5v10h12v-10M10 19.5v-5h4v5"/>',
+    "key": '<circle cx="8" cy="12" r="4"/><path d="M12 12h8.5M17.5 12v3M20.5 12v2.5"/>',
+    "lock": '<rect x="5" y="10.5" width="14" height="10" rx="2"/><path d="M8.5 10.5V7.5a3.5 3.5 0 017 0v3M12 14.5v2.5"/>',
+    "spark": '<path d="M12 3v5M12 16v5M3 12h5M16 12h5M6 6l3 3M15 15l3 3M18 6l-3 3M9 15l-3 3"/>',
+}
+GLYPH_RULES = [
+    ("play", "先に動く"), ("timer", "タイマー|秒"), ("clock", "何時"), ("calendar", "復習"), ("home", "空き巣|自宅|わが家"), ("key", "合言葉"),
+    ("lock", "暗号"), ("shield", "詐欺|危険"), ("dial", "診断|判定|タイプ|天気|体験"), ("heart", "脈あり|冷めた|ふたり"),
+    ("table", "早見表|索引|辞典"), ("quiz", "クイズ|問"), ("check", "チェック|点検"),
+    ("note", "記録|ノート|日記|メモ|シート|ログ"), ("chat", "話す|SNS|相談|声かけ|言いかえ"),
+    ("print", "テンプレート|印刷|カード|ルール"), ("search", "探す"),
+]
+
+
+def glyph(it):
+    k = it.get("glyph") or next((g for g, pat in GLYPH_RULES if re.search(pat, it.get("name", ""))), "spark")
+    return f'<svg viewBox="0 0 24 24" aria-hidden="true">{GLYPHS.get(k, GLYPHS["spark"])}</svg>'
 CSS = (".tbx{margin:28px 0;background:var(--card);border:1.5px solid var(--accent);border-radius:16px;padding:16px}"
        ".tbx .tbh,.tbtop .tbh{font-size:13px;font-weight:800;letter-spacing:.08em;color:var(--accent);margin:0 0 10px}"
        ".tbi{display:flex;gap:12px;align-items:center;text-decoration:none;color:var(--text);padding:10px 0;border-top:1px solid var(--border)}"
        ".tbx .tbi:first-of-type{border-top:0}"
        ".tbic{flex:0 0 48px;width:48px;height:48px;border-radius:12px;overflow:hidden;display:flex;align-items:center;justify-content:center;"
-       "background:color-mix(in srgb,var(--accent) 16%,var(--card))}.tbic img{width:48px;height:48px;display:block}.tbic svg{width:26px;height:26px;fill:var(--accent)}"
+       "background:color-mix(in srgb,var(--accent) 16%,var(--card))}.tbic img{width:48px;height:48px;display:block}.tbic svg{width:28px;height:28px;fill:none;stroke:var(--accent);stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}"
        ".tbt{flex:1;min-width:0}.tbt b{display:block;font-size:15px;line-height:1.45}.tbt small{display:block;font-size:13px;color:var(--muted);line-height:1.6;margin-top:2px}"
        ".tbt em{display:inline-block;font-style:normal;font-size:12px;color:var(--accent);margin-bottom:2px}"
        ".tbgo{flex:0 0 auto;font-size:13px;font-weight:700;color:var(--bg);background:var(--accent);border-radius:10px;padding:9px 12px;white-space:nowrap}"
@@ -67,7 +101,7 @@ def _icon(cfg, app_id):
 
 
 def _row(it, cfg):
-    ic = f'<img src="{it["icon"]}" alt="" width="48" height="48" loading="lazy">' if it.get("icon") else TOOL_SVG
+    ic = f'<img src="{it["icon"]}" alt="" width="48" height="48" loading="lazy">' if it.get("icon") else glyph(it)
     if it["app"]:
         href, kind, go, ext = store_url(it, cfg), "iPhoneアプリ・無料・広告なし", "App Storeで見る", ' target="_blank" rel="noopener"'
     else:
