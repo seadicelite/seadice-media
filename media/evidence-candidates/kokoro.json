@@ -1832,5 +1832,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-job-loss-health-recover-voluntary",
+    "category": "仕事",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Paul KI, Hollederer A, \"The Effectiveness of Health-Oriented Interventions and Health Promotion for Unemployed People—A Meta-Analysis\" (International Journal of Environmental Research and Public Health, 2023)",
+    "sourceUrl": "https://doi.org/10.3390/ijerph20116028",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/job-loss-health-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "失業したあとの健康づくり、意味ある？",
+        "body": "仕事を失うと、心も体も重くなりがち。じゃあ失業した人向けの健康づくりの講座って、本当に効くんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "34件の研究をまとめた",
+        "body": "ドイツの研究者が、失業した人向けの健康づくりの取り組みを比べるグループと比べた34件の研究をまとめたんだ。典型的には3週間・計20時間ほどの取り組みだった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効いたのは「自分から参加」したとき",
+        "body": "心の健康は少しよくなっていた（効果量0.22）。でも効果が見られたのは自分の意思で参加したときで、参加が義務に近かったときは効果が見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どの方法が一番かは不明",
+        "body": "考え方の練習、リラックス法、運動のどれが特にいいかは確かめられなかった。研究ごとのばらつきも大きく、AIで仕事を失った人を調べた研究もまだない。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

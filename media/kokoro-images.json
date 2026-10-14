@@ -2922,5 +2922,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Door_open%3B_empty_bed_with_pillow_and_side_pillow_03.jpg/500px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_03.jpg",
   "og": "https://mentalai.seadice.win/img/sleep-debt-extend-bedtime-og.jpg",
   "local": true
+ },
+ "job-loss-health-recover": {
+  "file": "File:Starr-100314-2201-Dubautia menziesii-habit with Forest on trail with early morning light and clouds-Halemauu Trail Haleakala National Park-Maui (24380909564).jpg",
+  "src": "/img/job-loss-health-recover.jpg",
+  "src640": "/img/job-loss-health-recover-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "雲海を見下ろす朝の山道",
+  "artist": "Forest and Kim Starr",
+  "license": "CC BY 3.0 us",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Starr-100314-2201-Dubautia_menziesii-habit_with_Forest_on_trail_with_early_morning_light_and_clouds-Halemauu_Trail_Haleakala_National_Park-Maui_(24380909564).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Starr-100314-2201-Dubautia_menziesii-habit_with_Forest_on_trail_with_early_morning_light_and_clouds-Halemauu_Trail_Haleakala_National_Park-Maui_%2824380909564%29.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Starr-100314-2201-Dubautia_menziesii-habit_with_Forest_on_trail_with_early_morning_light_and_clouds-Halemauu_Trail_Haleakala_National_Park-Maui_%2824380909564%29.jpg/500px-thumbnail.jpg",
+  "og": "https://mentalai.seadice.win/img/job-loss-health-recover.jpg",
+  "local": true
  }
 }

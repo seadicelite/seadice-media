@@ -1,5 +1,14 @@
 [
   {
+    "slug": "job-loss-health-recover",
+    "category": "仕事とAIの不安",
+    "type": "guide",
+    "stage": "立て直す",
+    "date": "2026-10-14",
+    "title": "AIで仕事を失ってから、心も体も重いまま。失業した人の健康づくりを調べた34件の研究のまとめでは、心の健康が少しよくなり、効果が出たのは自分から参加したときだった",
+    "summary": "失業した人の健康づくりは心の健康と運動量を少しよくし、効果は自分で選んで参加したときに出ていました。"
+  },
+  {
     "slug": "sleep-debt-extend-bedtime",
     "category": "AI疲れ・情報疲れ",
     "type": "guide",
