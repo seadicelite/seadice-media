@@ -32,7 +32,7 @@
   <h1>SNSの投稿から、AIに性格や個人的なことを当てられる？研究では投稿や「いいね」からある程度推測でき、当たり方は項目しだいだった</h1>
   <p class="meta">約8分で読めます</p>
 
-  <div class="evidence"><span class="lv">わかっている度 <b>★★☆</b> 中</span><span>研究3本・公的資料0件を整理</span></div>
+  <div class="evidence"><span class="lv">わかっている度 <b>★★☆</b> 中</span><span>研究3本・公的資料0件を整理</span><span class="checked" style="font-size:12px;color:var(--accent);border:1px solid var(--accent);border-radius:999px;padding:3px 10px">出典照合済み（2026-10-15）</span></div>
 
   <figure class="hero"><img fetchpriority="high" decoding="async" src="/img/ai-guess-personality-from-sns-posts.jpg" width="960" height="640" alt="木の机に置かれたノートパソコンとスマートフォン、コーヒー"><figcaption>Photo: By Free-Photos from Pixabay / <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" target="_blank" rel="noopener">CC0</a> / <a href="https://commons.wikimedia.org/wiki/File:Home-office-336377.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></figcaption></figure>
 
@@ -61,14 +61,14 @@
     <p class="answer">ChatGPTは、Facebookの投稿から性格を推測でき、本人の回答との相関は平均0.29でした。「いいね」を使った別の研究では、支持政党を見分ける精度が85%、性格の判断では友人より正確でした。</p>
     <div class="stats">
       <div class="stat"><b>r = 0.29</b><span>ChatGPTが投稿から推測した性格と、本人の回答の相関の平均（1,000人、2024年発表）</span></div>
-      <div class="stat"><b>20件</b><span>この程度の投稿でも、推測の精度のかなりの部分が出ていた（同じ研究）</span></div>
+      <div class="stat"><b>200件未満</b><span>投稿が200件よりかなり少なくても、多くの特徴で推測の精度は最大に近づいていた（20件ずつ増やして比べた、同じ研究）</span></div>
       <div class="stat"><b>85%</b><span>「いいね」から、米国の民主党支持と共和党支持を見分けた精度（5万8千人超、2013年）</span></div>
       <div class="stat"><b>0.56 対 0.49</b><span>「いいね」による性格の判断と、友人による判断の正確さ（相関、86,220人、2015年）</span></div>
     </div>
 
     <div class="study">
       <p class="who">Peters・Matz / コロンビア大学（2024） <span class="ref">[1]</span></p>
-      <p class="find">ChatGPT（GPT-3.5とGPT-4）に、成人1,000人のFacebookの投稿を200件ずつ読ませ、性格の5つの特徴（開放性・まじめさ・外向性・協調性・神経症傾向）を推測させました。推測と本人の性格検査の相関は0.22〜0.33、平均0.29でした。この推測のために特別な訓練はしていませんが、専用に訓練したモデルの過去の研究（平均0.37）よりやや低いものの、近い水準でした。投稿が多いほど精度は上がりましたが、20件ほどでもかなりの部分が出ていました。また、いくつかの特徴では、女性や若い人のほうが推測が当たりやすい傾向もありました。</p>
+      <p class="find">ChatGPT（GPT-3.5とGPT-4）に、成人1,000人のFacebookの投稿を200件ずつ読ませ、性格の5つの特徴（開放性・まじめさ・外向性・協調性・神経症傾向）を推測させました。推測と本人の性格検査の相関は0.22〜0.33、平均0.29でした。この推測のために特別な訓練はしていませんが、専用に訓練したモデルの過去の研究（平均0.37）よりやや低いものの、近い水準でした。投稿が多いほど精度は上がりましたが、多くの特徴では、200件よりかなり少ない投稿で最大に近い水準に達していました。また、いくつかの特徴では、女性や若い人のほうが推測が当たりやすい傾向もありました。</p>
       <p class="cond">対象: 性格検査100問に答え、投稿を研究に提供した成人1,000人（平均24.2歳、女性63.1%） ／ 限界: 投稿は2007〜2012年のFacebookアプリの利用者のもので、利用者全体を代表しているとは限らない。研究者は、新しいデータではもっと精度が上がる可能性があるとも書いている。</p>
     </div>
 
@@ -80,8 +80,8 @@
 
     <div class="study">
       <p class="who">Youyou・Kosinski・Stillwell（2015） <span class="ref">[3]</span></p>
-      <p class="find">性格検査100問に答えた86,220人のデータで、「いいね」を使ったコンピューターの判断（相関0.56）は、Facebookの友人が同じ質問紙で答えた判断（相関0.49）より正確でした。さらに、コンピューターの判断は、物質の使用や政治的な態度、体の健康の予測にも使え、一部では本人の自己評価より予測がよく当たりました。</p>
-      <p class="cond">対象: 性格検査100問に答えたボランティア86,220人 ／ 限界: 生成AIではなく、「いいね」の統計モデルの研究。比べた相手は友人で、家族や配偶者など身近な人との比較はこの数字に含まれない。</p>
+      <p class="find">性格検査100問に答えた86,220人のデータで、「いいね」を使ったコンピューターの判断（相関0.56）は、Facebookの友人が性格の質問紙で答えた判断（相関0.49）より正確でした。さらに、コンピューターの判断は、物質の使用や政治的な態度、体の健康の予測にも使え、一部では本人の自己評価より予測がよく当たりました。</p>
+      <p class="cond">対象: 性格検査100問に答えたボランティア86,220人 ／ 限界: 生成AIではなく、「いいね」の統計モデルの研究。データは古いFacebookのもので、今のSNSで同じかはわからない。</p>
     </div>
 
     <p class="t">3つの研究で、何から何を推測できたかを1つの表にまとめました。生成AIの研究は、まだこのうちの1本だけです。</p>
@@ -108,7 +108,7 @@
     <p class="answer">投稿をやめる必要はありません。公開している投稿と「いいね」の範囲を見直し、デリケートな話題は公開範囲をしぼって書くことから始めます。AIの推測は外れることもあると知っておくことも、不安を小さくします。</p>
     <div class="step"><div class="num">1</div><div><p class="ttl">「誰が見られるか」を1つのSNSだけ確かめる</p><p class="dsc">よく使うSNSを1つ選び、投稿と「いいね」（反応した投稿の一覧）が、誰に見える設定になっているかを確かめます。研究で推測の材料になったのは、投稿の文章と「いいね」でした。</p><p class="time">目安 1つのSNSにつき5分</p></div></div>
     <div class="step"><div class="num">2</div><div><p class="ttl">デリケートな話題は、公開範囲をしぼって書く</p><p class="dsc">政治的な考え、健康、信仰、恋愛などは、推測されると困る人も多い話題です。書くなら、友人だけに見える投稿にするなど、公開範囲をしぼります。</p><p class="time">目安 投稿のたびに数秒</p></div></div>
-    <div class="step"><div class="num">3</div><div><p class="ttl">昔の公開投稿を、少しずつ見直す</p><p class="dsc">ChatGPTの研究では、投稿20件ほどでも推測の精度のかなりの部分が出ていました。全部を消す必要はありませんが、気になる古い公開投稿を月に1回、数件ずつ見直します。</p><p class="time">目安 月1回10分</p></div></div>
+    <div class="step"><div class="num">3</div><div><p class="ttl">昔の公開投稿を、少しずつ見直す</p><p class="dsc">ChatGPTの研究では、200件よりかなり少ない投稿でも、多くの特徴で推測の精度は最大に近づいていました。全部を消す必要はありませんが、気になる古い公開投稿を月に1回、数件ずつ見直します。</p><p class="time">目安 月1回10分</p></div></div>
     <div class="step"><div class="num">4</div><div><p class="ttl">人の投稿をAIに貼って「性格診断」しない</p><p class="dsc">AIで心理的な特徴を手軽に推測できることには、プライバシーと自己決定の面で倫理的な懸念があると、研究者自身が指摘しています。推測が外れて相手を誤解するおそれもあります。</p><p class="time">目安 今日から</p></div></div>
     <p class="t">守ることに疲れて「どうせ全部知られている」と感じるときは、<a href="/privacy-fatigue-gave-up-protecting/">個人情報を守る気が起きないときの立て直し方</a>も参考になります。全部を守ろうとせず、1か所から始めれば十分です。</p>
 
