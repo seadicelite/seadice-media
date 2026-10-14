@@ -1492,5 +1492,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-irregular-sleep-schedule-focus-sleep-regularity",
+    "category": "休息",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Phillips AJK et al., \"Irregular sleep/wake patterns are associated with poorer academic performance and delayed circadian and sleep/wake timing\" (Scientific Reports, 2017)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-017-03171-4",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/irregular-sleep-schedule-focus/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "時間さえ寝ていればOK？",
+        "body": "睡眠って「何時間寝たか」で考えがちだよね。でも、寝る時刻と起きる時刻が毎日バラバラなのは、関係ないのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生61人の30日間",
+        "body": "ハーバード大学の学部生61人が30日間、睡眠日誌をつけたんだ。毎日の寝起きのそろい方を0〜100の指標にして、成績や体内時計と比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "不規則だと体内時計が2時間半遅い",
+        "body": "最も不規則な12人は、最も規則的な12人より、眠りを促すホルモンが出始める時刻が平均2時間半ほど遅かった。そろっている人ほど成績も高い関連があって、睡眠時間の長さとは関連がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "そろえれば良くなるかは不明",
+        "body": "少人数の相関の研究だから、寝起きをそろえれば成績が上がるかはわからない。ずれは、生活全体の不規則さの目印かもしれないと研究者も書いているんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
