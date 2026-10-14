@@ -1784,5 +1784,73 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-habit-goal-lower-restart-research-adaptive-step-goal",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Adams et al., \"Adaptive goal setting and financial incentives: a 2 × 2 factorial randomized controlled trial to increase adults' physical activity\" (BMC Public Health, 2017)",
+    "sourceUrl": "https://doi.org/10.1186/s12889-017-4197-8",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/habit-goal-lower-restart-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "目標は下げたら負け？",
+        "body": "一度決めた目標を下げるのは、あきらめと同じ。そう感じて、できない日が続くと全部やめたくなるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1万歩固定か、実績に合わせるか",
+        "body": "運動不足の大人96人を、毎日1万歩を目指す組と、直近9日の歩数から毎日目標を決め直す組に分けて、4か月間歩数を測った実験があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "4か月後に1日1,030歩の差",
+        "body": "始めの伸びは同じだった。でも1万歩固定の組は途中の減り方が2倍以上速くて、110日目には決め直す組のほうが1日1,030歩多く歩いていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "歩数以外でも同じ？",
+        "body": "対象は米国の太り気味の大人96人で、歩数だけの結果。勉強や筋トレなど別の習慣でも同じになるかは、まだ確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-habit-goal-lower-restart-research-return-bonus",
+    "category": "習慣",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Milkman et al., \"Megastudies improve the impact of applied behavioural science\" (Nature, 2021)",
+    "sourceUrl": "https://doi.org/10.1038/s41586-021-04128-4",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/habit-goal-lower-restart-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "一番効く運動の続け方は？",
+        "body": "ジム通いを続けるコツはいろいろ言われるけど、同じ人たちで一気に比べたらどれが勝つんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "6万人で54通りを比べた",
+        "body": "米国のジム会員6万1,293人を54通りの方法にランダムに分けて、4週間の通う回数を比べた大規模な実験があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "休んだ後に「戻る」と小さなご褒美",
+        "body": "一番効いたのは、休んだ後にジムへ戻ってきたら約0.09ドル分のポイントがもらえる方法。何もしない組より、通う回数が27%増えたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "終わった後も続く？",
+        "body": "これは4週間の結果。取り組みが終わった後の4週間で通う回数を有意に増やせたのは、54通りのうち8%だけだったよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
