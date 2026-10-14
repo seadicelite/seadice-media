@@ -2022,5 +2022,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-keyword-mnemonic-vocabulary-how-research-keyword-retrieval",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Qu K et al., \"The facilitative effect of the keyword mnemonic on L2 vocabulary retrieval practice\" (Heliyon, 2024)",
+    "sourceUrl": "https://doi.org/10.1016/j.heliyon.2024.e25212",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/keyword-mnemonic-vocabulary-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "語呂合わせで単語は覚えられる？",
+        "body": "英単語を語呂合わせで覚える人は多いよね。でも「語呂合わせはすぐ忘れる」という声もある。どう使えば残りやすいんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "110人で4つの覚え方を比較",
+        "body": "中国の大学生110人が、知らない英単語20語を、眺めて覚え直す・2回テストする・語呂合わせを作ってから2回テストする、などの方法で覚えて、後日テストを受けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "語呂合わせ＋2回テストが一番",
+        "body": "自分で語呂合わせを作って2回テストした組は20語中11.4語、眺めて覚え直した組は6.5語、テストだけの組は4.6語を思い出したらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1つの大学、20語だけの実験",
+        "body": "参加者は1つの大学の学生で、覚えたのは物の名前20語だけ。もっと長い期間や、抽象的な単語でも同じかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

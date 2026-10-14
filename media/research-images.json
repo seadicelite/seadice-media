@@ -1952,8 +1952,8 @@
  },
  "relaxation-meditation-anxiety-backfire-research": {
   "file": "File:Rock formations on a small pebble beach on the southern coastline, Ikaria, Greece julesvernex2.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline%2C_Ikaria%2C_Greece_julesvernex2.jpg/960px-Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline%2C_Ikaria%2C_Greece_julesvernex2.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline%2C_Ikaria%2C_Greece_julesvernex2.jpg/500px-Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline%2C_Ikaria%2C_Greece_julesvernex2.jpg",
+  "src": "/img/relaxation-meditation-anxiety-backfire-research.jpg",
+  "src640": "/img/relaxation-meditation-anxiety-backfire-research-sm.jpg",
   "w": 960,
   "h": 640,
   "alt": "岩場と小石の静かな海岸",
@@ -1961,6 +1961,29 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline,_Ikaria,_Greece_julesvernex2.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline%2C_Ikaria%2C_Greece_julesvernex2.jpg/960px-Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline%2C_Ikaria%2C_Greece_julesvernex2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline%2C_Ikaria%2C_Greece_julesvernex2.jpg/500px-Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline%2C_Ikaria%2C_Greece_julesvernex2.jpg",
+  "og": "https://research.seadice.win/img/relaxation-meditation-anxiety-backfire-research.jpg",
+  "local": true
+ },
+ "keyword-mnemonic-vocabulary-how-research": {
+  "file": "File:Compact Oxford English Dictionary 2.jpg",
+  "src": "/img/keyword-mnemonic-vocabulary-how-research.jpg",
+  "src640": "/img/keyword-mnemonic-vocabulary-how-research-sm.jpg",
+  "w": 960,
+  "h": 657,
+  "alt": "開いた英語の辞書",
+  "artist": "Cullen328",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Compact_Oxford_English_Dictionary_2.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Compact_Oxford_English_Dictionary_2.jpg/960px-Compact_Oxford_English_Dictionary_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Compact_Oxford_English_Dictionary_2.jpg/500px-Compact_Oxford_English_Dictionary_2.jpg",
+  "og": "https://research.seadice.win/img/keyword-mnemonic-vocabulary-how-research.jpg",
+  "local": true
  }
 }
