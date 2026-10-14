@@ -2498,5 +2498,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-self-imposed-deadline-procrastination-research-replication",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hyndman K, Bisin A, \"Replication of 'Procrastination, Deadlines, and Performance: Self-Control by Precommitment'\" (Psychological Science, 2026)",
+    "sourceUrl": "https://doi.org/10.1177/09567976261460772",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/self-imposed-deadline-procrastination-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "締め切りは自分で決めると効く？",
+        "body": "先延ばし対策といえば「自分で締め切りを決める」だよね。2002年の有名な実験が、その根拠として20年以上引用されてきたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ実験をやり直した",
+        "body": "2026年、HyndmanとBisinが、その実験の「研究2」をアメリカの公立大学の大人でやり直した。等間隔の締め切り、自分で決める締め切りなどを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差はほとんど出なかった",
+        "body": "締め切りの置き方を変えても、3つの成果の指標への影響はごくわずか。等間隔の締め切りも目立って効かなかった。元の論文は2026年9月に撤回されたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日常でも同じかは不明",
+        "body": "追試は1つの大学で、作業も実験用の課題。仕事や勉強の締め切りでどうなるかは、まだわからない。締め切りが無意味と決まったわけでもないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

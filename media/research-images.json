@@ -1370,7 +1370,7 @@
   "src640": "/img/procrastination-self-help-not-working-research-sm.webp",
   "w": 960,
   "h": 720,
-  "alt": "壁に掛けたカレンダー",
+  "alt": "カレンダー付きの古い壁掛け時計",
   "artist": "Claudio Elias",
   "license": "Public domain",
   "licenseUrl": "",
@@ -2114,6 +2114,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Package_of_index_cards-agr.jpg/960px-Package_of_index_cards-agr.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Package_of_index_cards-agr.jpg/500px-Package_of_index_cards-agr.jpg",
   "og": "https://research.seadice.win/img/similar-words-mix-up-interference-why-research.jpg",
+  "local": true
+ },
+ "self-imposed-deadline-procrastination-research": {
+  "file": "File:Hooded wall clock with calendar MET DP352258.jpg",
+  "src": "/img/self-imposed-deadline-procrastination-research.jpg",
+  "src640": "/img/self-imposed-deadline-procrastination-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "カレンダー付きの古い壁掛け時計",
+  "artist": "Ahasuerus Fromanteel",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Hooded_wall_clock_with_calendar_MET_DP352258.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hooded_wall_clock_with_calendar_MET_DP352258.jpg/960px-Hooded_wall_clock_with_calendar_MET_DP352258.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hooded_wall_clock_with_calendar_MET_DP352258.jpg/500px-Hooded_wall_clock_with_calendar_MET_DP352258.jpg",
+  "og": "https://research.seadice.win/img/self-imposed-deadline-procrastination-research.jpg",
   "local": true
  }
 }
