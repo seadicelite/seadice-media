@@ -1767,5 +1767,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Window_Front_at_Night_374889.jpg/500px-Window_Front_at_Night_374889.jpg",
   "og": "https://dokugaku.seadice.win/img/evening-study-after-work-fatigue.jpg",
   "local": true
+ },
+ "movement-breaks-long-study-sessions": {
+  "file": "File:Outside stairs Tax Office in Mońki.JPG",
+  "src": "/img/movement-breaks-long-study-sessions.jpg",
+  "src640": "/img/movement-breaks-long-study-sessions-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "建物の入口へ続くスロープと階段",
+  "artist": "Henryk Borawski",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Outside_stairs_Tax_Office_in_Mo%C5%84ki.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Outside_stairs_Tax_Office_in_Mo%C5%84ki.JPG/960px-Outside_stairs_Tax_Office_in_Mo%C5%84ki.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Outside_stairs_Tax_Office_in_Mo%C5%84ki.JPG/500px-Outside_stairs_Tax_Office_in_Mo%C5%84ki.JPG",
+  "og": "https://dokugaku.seadice.win/img/movement-breaks-long-study-sessions.jpg",
+  "local": true
  }
 }

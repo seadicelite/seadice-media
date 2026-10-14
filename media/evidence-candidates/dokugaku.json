@@ -1726,5 +1726,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-movement-breaks-long-study-sessions-micro-walks",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bergouignan et al., \"Effect of frequent interruptions of prolonged sitting on self-perceived levels of energy, mood, food cravings and cognitive function\" (International Journal of Behavioral Nutrition and Physical Activity, 2016)",
+    "sourceUrl": "https://doi.org/10.1186/s12966-016-0437-z",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/movement-breaks-long-study-sessions/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "朝に運動すれば、あとは座りっぱなしでOK？",
+        "body": "朝にしっかり運動しておけば、その日は一日座って勉強や仕事をしても大丈夫。そう思っている人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3つの1日をくらべた実験",
+        "body": "座っている時間が長い25〜50歳の30人が、6時間座りっぱなしの日、朝に30分歩いてから座る日、1時間ごとに5分歩く日の3つを体験した実験があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "こまめに歩いた日だけ、夕方の疲れが減った",
+        "body": "朝の30分も1時間ごとの5分も、活力は高めた。でも気分がよくなり、夕方の疲れが減ったのは1時間ごとに歩いた日だけだったらしい。注意などの頭の働きの成績は、3つの日で差がなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "自分でそう感じただけ？",
+        "body": "気分や疲れは本人の自己評価で、どの日かは本人にもわかっていた。人数も30人と少なく、勉強の成果を測ったわけでもない。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
