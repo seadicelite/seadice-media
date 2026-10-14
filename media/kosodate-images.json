@@ -1188,5 +1188,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Job_Listings.jpg/500px-Job_Listings.jpg",
   "og": "https://kosodate.seadice.win/img/child-ai-critical-thinking-fact-check-og.jpg",
   "local": true
+ },
+ "bullying-long-term-effects-parent-support": {
+  "file": "File:Lorain High School hallway.jpg",
+  "src": "/img/bullying-long-term-effects-parent-support.jpg",
+  "src640": "/img/bullying-long-term-effects-parent-support-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "人のいない学校の廊下",
+  "artist": "Matt Dempsey",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lorain_High_School_hallway.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lorain_High_School_hallway.jpg/960px-Lorain_High_School_hallway.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lorain_High_School_hallway.jpg/500px-Lorain_High_School_hallway.jpg",
+  "og": "https://kosodate.seadice.win/img/bullying-long-term-effects-parent-support.jpg",
+  "local": true
  }
 }
