@@ -1424,5 +1424,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-everyone-seems-happier-misery-company",
+    "category": "SNSと比較",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Jordan AH et al., \"Misery has more company than people think: Underestimating the prevalence of others' negative emotions\" (Personality and Social Psychology Bulletin, 2011)",
+    "sourceUrl": "https://doi.org/10.1177/0146167210390822",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/everyone-seems-happier/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "つらいのは自分だけ？",
+        "body": "周りはみんな楽しそうで、しんどいのは自分だけ。そんなふうに感じること、あるよね。でも本当にそうなのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "周りの経験を見積もってもらった",
+        "body": "米国の大学生104人に、ここ2週間で「低い成績をとった」「楽しいパーティーに行った」などの経験をした学生の割合を予想してもらい、実際の回答と比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "いやな経験は21ポイント少なく見えていた",
+        "body": "いやな経験は平均21.4ポイント少なく見積もられていた。別の調査では、いやな気持ちの40%は人前で隠されていたらしい。少なく見積もる人ほど、孤独を感じる関連もあったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どっちが先かは不明",
+        "body": "一度に測った相関だから、見積もりのずれが孤独を生むのか、孤独な人が少なく見積もるのかはわからない。対象は米国の学生で、SNSが今ほど広がる前のデータなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
