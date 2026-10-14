@@ -1,5 +1,13 @@
 [
   {
+    "slug": "why-ai-confidently-wrong-hallucination",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-15",
+    "title": "AIはなぜ、もっともらしい間違いを自信ありげに答えるのか？「ハルシネーション」の仕組みと、独学で間違いやすい質問",
+    "summary": "一度しか出てこない細かい事実は外れやすく、推測が得をする評価も原因。同じ質問で答えがぶれたら要注意。"
+  },
+  {
     "slug": "why-overcommit-future-study-time",
     "category": "時間・計画",
     "type": "guide",

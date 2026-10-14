@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AIはなぜ、もっともらしい間違いを自信ありげに答えるのか？「ハルシネーション」の仕組みと、独学で間違いやすい質問 | 独学の科学</title>
+<meta name="description" content="AIはなぜ、もっともらしい間違いを自信ありげに答えるの？学習データに1回しか出ない細かい事実は外れやすく、「わからない」より推測が得をする評価の仕方も原因です。研究と、勉強で確かめる3つの手順。">
+<link rel="canonical" href="https://dokugaku.seadice.win/why-ai-confidently-wrong-hallucination/">
+<meta property="og:title" content="AIはなぜ、もっともらしい間違いを自信ありげに答えるのか？「ハルシネーション」の仕組みと、独学で間違いやすい質問 | 独学の科学">
+<meta property="og:description" content="AIはなぜ、もっともらしい間違いを自信ありげに答えるの？学習データに1回しか出ない細かい事実は外れやすく、「わからない」より推測が得をする評価の仕方も原因です。研究と、勉強で確かめる3つの手順。">
+<meta property="og:url" content="https://dokugaku.seadice.win/why-ai-confidently-wrong-hallucination/">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<meta property="og:image" content="https://dokugaku.seadice.win/img/why-ai-confidently-wrong-hallucination.jpg">
+<meta property="og:image:alt" content="開いた小さな本と虫めがね">
+<meta name="twitter:image" content="https://dokugaku.seadice.win/img/why-ai-confidently-wrong-hallucination.jpg">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "AIはなぜ、もっともらしい間違いを自信ありげに答えるのか？「ハルシネーション」の仕組みと、独学で間違いやすい質問", "datePublished": "2026-10-15", "dateModified": "2026-10-15", "author": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}, "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}, "url": "https://dokugaku.seadice.win/why-ai-confidently-wrong-hallucination/", "citation": ["https://doi.org/10.1038/s41586-026-10549-w", "https://doi.org/10.1038/s41586-024-07421-0", "https://doi.org/10.2196/53164", "https://doi.org/10.1038/s41598-023-41032-5"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://dokugaku.seadice.win/why-ai-confidently-wrong-hallucination/"}, "inLanguage": "ja", "articleSection": "AIと独学", "isAccessibleForFree": true, "image": ["https://dokugaku.seadice.win/img/why-ai-confidently-wrong-hallucination.jpg"]}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "新しいAIなら、もうまちがえない？", "acceptedAnswer": {"@type": "Answer", "text": "まちがいは減ってきていますが、なくなってはいません。研究者は、学習データに一度しか出てこない事実のまちがいは、データに誤りがなくても残ると理論的に示しています[1]。文献の調査でも、新しいGPT-4の方が少なかったものの、実在しない文献が18%ありました[4]。"}}, {"@type": "Question", "name": "AIが自信ありげに答えたら、正しいと考えていい？", "acceptedAnswer": {"@type": "Answer", "text": "口調の自信は、正しさの目安になりません。AIは自信がなくても推測で答えた方が評価で得をしやすい、と研究者は指摘しています[1]。数字や人名など細かい事実は、口調にかかわらず確かめます。"}}, {"@type": "Question", "name": "同じ質問を何回聞けば安心？", "acceptedAnswer": {"@type": "Answer", "text": "何回なら安心という決まりはありません。答えがぶれる所はまちがいの手がかりになりますが[2]、毎回同じまちがいをすることもあります。大事な事実は、教科書や公式の資料で確かめるのが確実です。"}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "HOME", "item": "https://seadice.win/"}, {"@type": "ListItem", "position": 2, "name": "独学の科学", "item": "https://dokugaku.seadice.win/"}, {"@type": "ListItem", "position": 3, "name": "AIはなぜ、もっともらしい間違いを自信ありげに答えるのか？「ハルシネーション」の仕組みと、独学で間違いやすい質問", "item": "https://dokugaku.seadice.win/why-ai-confidently-wrong-hallucination/"}]}]}</script>
+<style>*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}:root{--bg:#0B1020;--card:#121A30;--accent:#F5C542;--accent2:#5AB0FF;--border:#22304F;--text:#EAF0FA;--muted:#93A3BE;--link:#8CC8FF}body{background:var(--bg);color:var(--text);font-family:-apple-system,'Helvetica Neue',sans-serif;line-height:1.8;-webkit-text-size-adjust:100%}nav{position:fixed;top:0;left:0;right:0;z-index:100;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);background:rgba(5,5,12,.8);border-bottom:1px solid var(--border);padding:0 20px;height:56px;display:flex;align-items:center;justify-content:space-between}.nav-logo{font-size:15px;font-weight:800;letter-spacing:.15em;background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;text-decoration:none}nav a.r{font-size:13px;color:var(--muted);text-decoration:none}article{max-width:680px;margin:0 auto;padding:88px 20px 72px}.breadcrumb{font-size:12px;color:var(--muted);margin-bottom:20px}.breadcrumb a{color:var(--muted);text-decoration:none}.tag{display:inline-block;font-size:12px;letter-spacing:.1em;color:var(--accent);border:1px solid var(--accent);border-radius:4px;padding:2px 8px;margin-bottom:14px}h1{font-size:clamp(26px,6vw,38px);font-weight:800;line-height:1.3;margin-bottom:14px}.meta{font-size:12px;color:var(--muted);margin-bottom:24px}.ai-badge{display:flex;align-items:flex-start;gap:10px;background:rgba(245,197,66,.06);border:1px solid rgba(245,197,66,.35);border-radius:12px;padding:12px 16px;margin-bottom:28px;font-size:12px;color:#b6c2d4;line-height:1.6}.ai-badge strong{color:var(--accent);font-weight:800;white-space:nowrap}.lead{font-size:17px;line-height:1.9;color:var(--text);margin-bottom:32px}.summary{background:linear-gradient(135deg,rgba(245,197,66,.10),rgba(90,176,255,.08));border:1px solid rgba(245,197,66,.3);border-radius:16px;padding:24px 22px;margin:0 0 40px}.summary h2{font-size:13px;letter-spacing:.14em;color:var(--accent);margin:0 0 10px}.summary ol{padding-left:22px}.summary li{font-size:15px;margin:8px 0;color:var(--text);line-height:1.7}h2.sec{font-size:22px;font-weight:800;margin:64px 0 10px;line-height:1.4}h2.sec .n{display:block;font-size:12px;letter-spacing:.16em;color:var(--accent);margin-bottom:4px}.answer{font-size:15px;color:#cbd5e1;margin:8px 0 18px;padding-left:14px;border-left:3px solid var(--accent)}p.t{margin:18px 0;font-size:16px;color:#cbd5e1}.body strong{color:var(--text)}.body a{color:#8CC8FF}.study{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:22px 20px;margin:20px 0}.study .who{font-size:12px;color:var(--muted);margin-bottom:6px}.study .find{font-size:16px;font-weight:700;line-height:1.7;margin-bottom:12px;color:var(--text)}.study .cond{font-size:12.5px;color:var(--muted);line-height:1.7;margin-top:10px;padding-top:10px;border-top:1px solid var(--border)}.study .ref{font-size:12px;color:var(--accent);margin-left:4px}.step{display:flex;gap:14px;background:var(--card);border:1px solid var(--border);border-radius:14px;padding:18px 20px;margin:16px 0}.step .num{flex:0 0 32px;height:32px;border-radius:50%;background:var(--accent);color:#05050C;font-weight:800;display:flex;align-items:center;justify-content:center;font-size:15px}.step .ttl{font-weight:700;font-size:16px;margin-bottom:2px}.step .dsc{font-size:14px;color:#cbd5e1;line-height:1.7}.step .time{font-size:12px;color:var(--accent);margin-top:4px}.note{background:rgba(90,176,255,.07);border:1px solid rgba(90,176,255,.25);border-radius:12px;padding:14px 18px;margin:18px 0;font-size:14px;color:#b6c2d4}details{background:var(--card);border:1px solid var(--border);border-radius:12px;margin:10px 0}summary{cursor:pointer;padding:14px 18px;font-weight:700;font-size:15px;list-style:none}summary::-webkit-details-marker{display:none}summary::before{content:"Q. ";color:var(--accent)}details p{padding:0 18px 16px;font-size:14px;color:#cbd5e1;line-height:1.8}.idea{background:linear-gradient(135deg,rgba(245,197,66,.13),rgba(90,176,255,.10));border:1px solid var(--accent);border-radius:18px;padding:24px 22px;margin:20px 0}.idea .lb{font-size:12px;letter-spacing:.16em;color:var(--accent);margin-bottom:6px}.idea .nm{font-size:22px;font-weight:800;line-height:1.35;margin-bottom:6px}.idea .ba{font-size:14px;color:var(--muted);margin-bottom:14px}.idea ul{padding-left:20px}.idea li{font-size:15px;margin:8px 0;color:var(--text);line-height:1.7}.idea .ask{margin-top:16px;font-size:13px;color:var(--muted)}.idea .ask a{color:#8CC8FF}.sources{margin-top:56px;padding-top:24px;border-top:1px solid var(--border)}.sources h2{font-size:14px;margin:0 0 12px;color:var(--muted);letter-spacing:.1em}.sources li{font-size:12px;color:var(--muted);margin:8px 0;line-height:1.7}.sources a{color:#8CC8FF;word-break:break-all}a:focus-visible,summary:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}.hero{margin:0 0 24px}.hero img{display:block;width:100%;height:auto;border-radius:14px;background:var(--card,#0C0C1A)}.hero figcaption{font-size:12px;color:var(--muted);margin-top:6px;line-height:1.5;padding:0 20px}.hero figcaption a{color:var(--link,#7dd3fc)}@media(max-width:640px){.hero{margin-left:-20px;margin-right:-20px}.hero img{border-radius:0}.hero figcaption{padding:0 20px}}.related{margin-top:56px;padding-top:24px;border-top:1px solid var(--border)}.related h2{font-size:14px;margin:0 0 12px;color:var(--muted);letter-spacing:.1em}.related a{display:flex;gap:12px;align-items:center;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:10px;margin:10px 0;text-decoration:none;color:var(--text)}.related a:hover{border-color:var(--accent)}.related .rt{flex:0 0 72px;width:72px;height:72px;border-radius:8px;overflow:hidden;background:var(--border)}.related .rt img{display:block;width:100%;height:100%;object-fit:cover}.related .rb{min-width:0}.related small{display:block;font-size:12px;color:var(--accent);font-weight:400;margin-bottom:2px}.related .rb p{font-size:15px;font-weight:700;line-height:1.4;margin:0}.prevnext{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:24px}.prevnext a{display:block;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 14px;text-decoration:none;color:var(--text)}.prevnext a:hover{border-color:var(--accent)}.prevnext small{display:block;font-size:12px;color:var(--accent);margin-bottom:4px}.prevnext p{font-size:13px;font-weight:700;line-height:1.4;margin:0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}@media(max-width:480px){.prevnext{grid-template-columns:1fr}}a.tag{text-decoration:none}.tbx{margin:28px 0;background:var(--card);border:1.5px solid var(--accent);border-radius:16px;padding:16px}.tbx .tbh,.tbtop .tbh{font-size:13px;font-weight:800;letter-spacing:.08em;color:var(--accent);margin:0 0 10px}.tbi{display:flex;gap:12px;align-items:center;text-decoration:none;color:var(--text);padding:10px 0;border-top:1px solid var(--border)}.tbx .tbi:first-of-type{border-top:0}.tbic{flex:0 0 48px;width:48px;height:48px;border-radius:12px;overflow:hidden;display:flex;align-items:center;justify-content:center;background:color-mix(in srgb,var(--accent) 16%,var(--card))}.tbic img{width:48px;height:48px;display:block}.tbic svg{width:28px;height:28px;fill:none;stroke:var(--accent);stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}.tbt{flex:1;min-width:0}.tbt b{display:block;font-size:15px;line-height:1.45}.tbt small{display:block;font-size:13px;color:var(--muted);line-height:1.6;margin-top:2px}.tbt em{display:inline-block;font-style:normal;font-size:12px;color:var(--accent);margin-bottom:2px}.tbgo{flex:0 0 auto;font-size:13px;font-weight:700;color:var(--bg);background:var(--accent);border-radius:10px;padding:9px 12px;white-space:nowrap}.tball{display:inline-block;font-size:13px;font-weight:700;color:var(--link);padding:10px 0 0}.tbtop{margin:0 0 36px}.tbgrid{display:grid;gap:10px;grid-template-columns:1fr}@media(min-width:760px){.tbgrid{grid-template-columns:1fr 1fr}}.tbgrid .tbi{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:12px 14px}.tbgrid .tbi:hover{border-color:var(--accent)}@media(max-width:420px){.tbgo{display:none}}footer{border-top:1px solid var(--border);padding:24px;text-align:center;font-size:12px;color:var(--muted)}footer a{color:var(--muted)}</style>
+<style id="tap">nav a{display:inline-flex;align-items:center;min-height:44px}</style>
+<style>nav.prevnext{position:static;height:auto;padding:0;background:none;border:0;backdrop-filter:none;-webkit-backdrop-filter:none;z-index:auto}</style>
+<style id="theme">body{background-color:#0B1020;background-image:linear-gradient(rgba(140,200,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(140,200,255,.045) 1px,transparent 1px);background-size:24px 24px} nav a.r{color:#F5C542;font-weight:800} .summary{position:relative;border-radius:14px!important;background:#151F38!important;border:1px solid #22304F!important;border-top:4px solid #F5C542!important} h1{text-wrap:balance} .study{border-left:3px solid rgba(90,176,255,.7)!important} .step{border-left:3px solid rgba(245,197,66,.7)!important}</style>
+</head>
+<body>
+<nav>
+  <a href="https://seadice.win/" class="nav-logo">SEADICE</a>
+  <a href="/" class="r">独学の科学</a>
+</nav>
+<main>
+<article>
+  <p class="breadcrumb"><a href="https://seadice.win/">HOME</a> / <a href="/">独学の科学</a> / AIはなぜ、もっともらしい間違いを自信ありげに答えるのか？「ハルシネーション」の仕組みと、独学で間違いやすい質問</p>
+  <a class="tag" href="/category/ai/">AIと独学</a>
+  <h1>AIはなぜ、もっともらしい間違いを自信ありげに答えるのか？「ハルシネーション」の仕組みと、独学で間違いやすい質問</h1>
+  <p class="meta">約7分で読めます</p>
+
+  <figure class="hero"><img fetchpriority="high" decoding="async" src="/img/why-ai-confidently-wrong-hallucination.jpg" width="960" height="640" alt="開いた小さな本と虫めがね"><figcaption>Photo: Auckland Museum  Collections from Auckland, Aotearoa New Zealand / <a href="https://creativecommons.org/licenses/by/2.0" target="_blank" rel="noopener">CC BY 2.0</a> / <a href="https://commons.wikimedia.org/wiki/File:Miniature_Book,_%27The_English_Lion%27,_In_Leather_Case_With_Magnifying_Glass_(48708075908).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></figcaption></figure>
+
+  <div class="ai-badge"><strong>AIによる調査</strong><span>公開された研究をAIが調べて整理しました（独自の実験ではありません。出典は末尾）。</span></div>
+
+  <div class="body">
+    <p class="lead">AIに聞くと、迷いのない文章で答えが返ってきます。ところが調べ直すと、年号や人名、論文の題名がまちがっていた。しかも、まちがっているときも口調は自信たっぷり。独学でAIを使っていると、こうした経験に戸惑うことがあります。これは偶然の故障ではなく、AIの作られ方と評価のされ方から起きやすいことが、研究で説明されています。</p>
+
+    <div class="summary">
+      <h2>3行でわかる</h2>
+      <ol>
+        <li>AIは、学習した文章の中で一度しか出てこない細かい事実（誕生日や一度きりの数字など）ほど外れやすい。文法のように何度も出てくる決まりは、ほとんど外さない。</li>
+        <li>多くの性能テストは正答率で採点され、「わからない」と答えても点にならない。そのため、自信がなくても推測で答える方が得になりやすい。</li>
+        <li>同じ質問をくり返して答えがぶれる所は、まちがいの可能性が高い。ChatGPTが作った文献の一覧では、実在しない文献がGPT-3.5で55%、GPT-4で18%あった。</li>
+      </ol>
+    </div>
+
+    <!--toolbox--><aside class="tbx" aria-label="この記事と一緒に使えるツールとアプリ"><p class="tbh">この記事と一緒に使える</p><a class="tbi" href="/hayami/"><span class="tbic"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="4.5" width="17" height="15" rx="2"/><path d="M3.5 9.5h17M3.5 14.5h17M9.5 4.5v15"/></svg></span><span class="tbt"><em>Webツール・登録不要・無料</em><b>勉強法の早見表</b><small>39の勉強法を、効く・効かないで研究から判定</small></span><span class="tbgo">使ってみる</span></a><a class="tball" href="/tools/">独学の科学のツールとアプリをすべて見る</a></aside><!--/toolbox-->
+<h2 class="sec"><span class="n">01 悩みの正体</span>AIは、なぜ自信ありげにまちがえる？</h2>
+    <p class="answer">AIは「次に来そうな言葉」を予測するように作られており、めったに出てこない事実は当てにくいからです。さらに、推測で答える方が評価で得をする仕組みが、まちがいを残してしまいます。</p>
+    <p class="t">AIがもっともらしい誤りを答えることを<strong>ハルシネーション</strong>と呼びます。Kalaiらは、その原因を2段階で説明しました[1]。</p>
+    <p class="t">1つ目は、作り始めの学習です。AIは大量の文章から「次に来る言葉」を予測するように学びます。文法やつづりのように何度も出てくる決まりは身につきます。ところが、ある人の誕生日のように学習データに一度しか出てこない事実は、パターンとして学べません。著者らは、データにまちがいが1つもなくても、こうした誤りはなくならないことを理論的に示しました。</p>
+    <p class="t">2つ目は、その後の評価です。AIの性能は、多くの場合「正答率」で比べられます。正答率では「わからない」は0点で、推測が当たれば1点です。著者らはこれを、<strong>難しい試験問題で、空欄にせずに推測で埋める受験生</strong>にたとえています。推測が得になる採点が続くかぎり、AIは自信がなくても答えを作りがちになります。</p>
+    <p class="t">口調が自信ありげなのは、正しさとは別の話です。AIの説明が「わかった感じ」を強める仕組みは、<a href="/why-ai-explanations-feel-understood/">AIの説明を読むとわかった気になるのはなぜ？</a>にまとめています。</p>
+
+    <h2 class="sec"><span class="n">02 科学的にわかっていること</span>AIのまちがいは、どのくらい起きる？</h2>
+    <p class="answer">文献を挙げさせた調査では、実在しない文献が2割〜9割の割合で混ざっていました。同じ質問をくり返すと答えがぶれる所は、まちがいを見つける手がかりになります。</p>
+
+    <div class="study">
+      <p class="who">Kalaiら（2026）<span class="ref">[1]</span></p>
+      <p class="find">学習の理論を使い、学習データに一度しか出てこない事実の割合が、AIがまちがえる割合の下限の目安になることを示した。たとえば誕生日の事実の20%が一度しか出てこないなら、作り始めの段階のAIは誕生日の少なくとも約20%でまちがえる、とした。一方、何度も出てくる国の首都では、めったにまちがえない。また、よく使われる性能テストの多くは「わからない」に点を与えず、推測を有利にしていた。</p>
+      <p class="cond">対象: 理論的な分析と、性能テストの採点方法の調査 ／ 限界: 人がAIで学ぶ場面を調べた実験ではない。「20%」は説明のための例で、実際のAIのまちがいの割合ではない。</p>
+    </div>
+
+    <div class="study">
+      <p class="who">Farquharら（2024）<span class="ref">[2]</span></p>
+      <p class="find">同じ質問に何度か答えさせ、答えの「意味」がぶれるかどうかを調べる方法を作った。たとえば薬の標的を聞くと、AIは同じ指示でも正しい答えとまちがった答えを行ったり来たりした。こうした「ぶれ」の大きさは、まちがった答えを見分ける手がかりになった（30の組み合わせの平均で、見分ける力を表す指標が0.790。0.5は当てずっぽう、1は完全）。</p>
+      <p class="cond">対象: 複数のAIと、雑学・医学・算数などの質問データ ／ 限界: 著者らも、AIが毎回同じようにまちがえる場合（データの誤りを覚えている場合など）は見つけられないとしている。</p>
+    </div>
+
+    <div class="study">
+      <p class="who">WaltersとWilder（2023）<span class="ref">[4]</span></p>
+      <p class="find">ChatGPTに42のテーマで短い文献レビューを書かせ、挙げられた文献636件を調べた。実在しない文献は、GPT-3.5で55%、GPT-4で18%だった。実在する文献でも、GPT-3.5の43%、GPT-4の24%に、内容にかかわる書きまちがいがあった。</p>
+      <p class="cond">対象: ChatGPT-3.5とGPT-4が書いた84本の文章 ／ 限界: 2023年時点のAIで、文献の挙げ方に限った調査。</p>
+    </div>
+
+    <div class="study">
+      <p class="who">Chelliら（2024）<span class="ref">[3]</span></p>
+      <p class="find">肩の腱板の病気についての11本のシステマティックレビュー（研究を網羅的に集めるまとめ）と同じ選び方の条件を与えて、AIに文献を集めさせた。題名・筆頭著者・年のうち2つ以上がまちがっている文献を「作り話」と数えると、その割合はGPT-3.5で39.6%、GPT-4で28.6%、Bardで91.4%だった。</p>
+      <p class="cond">対象: 3つのAIが挙げた文献471件 ／ 限界: 医学の1分野で、論文を集める課題に限った調査。</p>
+    </div>
+
+    <p class="note">ここで紹介した数字は、調べた時点のAIと課題での結果です。AIは改良が続いており、まちがいの割合は変わっていきます。それでも、一度しか出てこない細かい事実が外れやすいという仕組みは、勉強でAIを使うときの注意点として役に立ちます。</p>
+
+    <h2 class="sec"><span class="n">03 今日からできる小さな一歩</span>勉強中、AIのまちがいに気づくには？</h2>
+    <p class="answer">数字・人名・年号・文献など「細かい1つの事実」は、必ず教科書や公式の資料で確かめます。迷ったら、同じ質問を聞き直して答えがぶれないかを見ます。</p>
+    <div class="step"><div class="num">1</div><div><p class="ttl">答えの中の「細かい事実」に印をつける</p><p class="dsc">年号、人名、数字、条文の番号、論文の題名に下線を引きます。一度しか出てこないような事実ほど外れやすいので、確かめる優先順位を高くします[1]。</p><p class="time">所要 2分</p></div></div>
+    <div class="step"><div class="num">2</div><div><p class="ttl">同じ質問を、新しい会話で2〜3回聞き直す</p><p class="dsc">研究では、答えの意味がぶれる所ほどまちがいが多くありました[2]。研究の方法を手作業に当てはめた、この記事の提案です。ただし、毎回同じ答えでも正しいとは限りません。ぶれない誤りもあるからです。</p><p class="time">所要 3分</p></div></div>
+    <div class="step"><div class="num">3</div><div><p class="ttl">印をつけた所を、教科書や公式の資料で確かめる</p><p class="dsc">文献なら題名で検索して実在を確かめます。AIが挙げた文献には、実在しないものが混ざっていました[3][4]。確かめられなかった事実は、ノートに写さないでおきます。</p><p class="time">所要 5〜10分</p></div></div>
+
+    <h2 class="sec"><span class="n">04 続けるためのコツ</span>AIで勉強を続けながら、まちがいを覚えないためには？</h2>
+    <p class="answer">AIの答えをそのままノートに写さず、確かめた事実だけを残す習慣にします。すでにまちがって覚えたときの直し方もあります。</p>
+    <ul>
+      <li><strong>「わからない」と言ってよいと伝える。</strong>質問の最後に「確かでなければ、わからないと答えて」と書き添えます。推測を有利にしない採点のしかたを、著者らが提案していることにもとづく、この記事の応用です[1]。効果を確かめた研究ではありません。</li>
+      <li><strong>使う前・使った後の確認を決めておく。</strong>確かめる項目は<a href="/ai-study-checklist/">AIで勉強するときのチェック表</a>にまとめています。</li>
+      <li><strong>まちがって覚えてしまったら。</strong>正しい答えに覚え直すやり方は<a href="/ai-wrong-answer-unlearn-correct/">AIの答えが間違っていて、誤ったまま覚えてしまったら</a>にあります。</li>
+    </ul>
+
+    <h2 class="sec"><span class="n">05</span>よくある質問</h2>
+    <details open><summary>新しいAIなら、もうまちがえない？</summary><p>まちがいは減ってきていますが、なくなってはいません。研究者は、学習データに一度しか出てこない事実のまちがいは、データに誤りがなくても残ると理論的に示しています[1]。文献の調査でも、新しいGPT-4の方が少なかったものの、実在しない文献が18%ありました[4]。</p></details>
+    <details><summary>AIが自信ありげに答えたら、正しいと考えていい？</summary><p>口調の自信は、正しさの目安になりません。AIは自信がなくても推測で答えた方が評価で得をしやすい、と研究者は指摘しています[1]。数字や人名など細かい事実は、口調にかかわらず確かめます。</p></details>
+    <details><summary>同じ質問を何回聞けば安心？</summary><p>何回なら安心という決まりはありません。答えがぶれる所はまちがいの手がかりになりますが[2]、毎回同じまちがいをすることもあります。大事な事実は、教科書や公式の資料で確かめるのが確実です。</p></details>
+
+    <!--related--><section class="related"><h2>関連記事</h2><a href="/ai-writing-feedback-revision/"><span class="rt"><img src="/img/ai-writing-feedback-revision-sm.webp" alt="" width="200" height="200" loading="lazy" decoding="async"></span><span class="rb"><small>AIと独学</small><p>AIに作文を添削させると上達するのか。AIの添削（自動フィードバック）と学習の研究</p></span></a><a href="/ai-overreliance-solve-on-your-own/"><span class="rt"><img src="/img/ai-overreliance-solve-on-your-own-sm.webp" alt="" width="200" height="200" loading="lazy" decoding="async"></span><span class="rb"><small>AIと独学</small><p>AIに頼りすぎて、自分では解けなくなった。どう立て直す？AIなしで解ける力を取り戻す研究と手順</p></span></a><a href="/ai-research-learn-deeper-how-to/"><span class="rt"><img src="/img/ai-research-learn-deeper-how-to-sm.webp" alt="" width="200" height="200" loading="lazy" decoding="async"></span><span class="rb"><small>AIと独学</small><p>AIで調べて学ぶとき、要約を読むだけで終わらせないには？自分でまとめて身につける調べ方（AIと検索をくらべた実験）</p></span></a></section><!--/related-->
+    <!--prevnext--><nav class="prevnext"><a href="/tell-goals-to-others-or-keep-secret/"><small>前の記事</small><p>「目標は人に言わない方が続く」は本当？目標を人に話す研究でわかったこと</p></a><a href="/tip-of-the-tongue-forgetting/"><small>次の記事</small><p>思い出すときの「ど忘れ」はなぜ起きるのか。のどまで出かかる現象の研究</p></a></nav><!--/prevnext-->
+    <div class="sources">
+      <h2>出典</h2>
+      <ol>
+        <li>Kalai, A. T., Nachum, O., Vempala, S. S., &amp; Zhang, E. (2026). Evaluating large language models for accuracy incentivizes hallucinations. <i>Nature</i>, 653(8116), 1047–1051. <a href="https://doi.org/10.1038/s41586-026-10549-w" target="_blank" rel="noopener">https://doi.org/10.1038/s41586-026-10549-w</a></li>
+        <li>Farquhar, S., Kossen, J., Kuhn, L., &amp; Gal, Y. (2024). Detecting hallucinations in large language models using semantic entropy. <i>Nature</i>, 630(8017), 625–630. <a href="https://doi.org/10.1038/s41586-024-07421-0" target="_blank" rel="noopener">https://doi.org/10.1038/s41586-024-07421-0</a></li>
+        <li>Chelli, M., Descamps, J., Lavoué, V., Trojani, C., Azar, M., Deckert, M., Raynier, J.-L., Clowez, G., Boileau, P., &amp; Ruetsch-Chelli, C. (2024). Hallucination rates and reference accuracy of ChatGPT and Bard for systematic reviews: Comparative analysis. <i>Journal of Medical Internet Research</i>, 26, e53164. <a href="https://doi.org/10.2196/53164" target="_blank" rel="noopener">https://doi.org/10.2196/53164</a></li>
+        <li>Walters, W. H., &amp; Wilder, E. I. (2023). Fabrication and errors in the bibliographic citations generated by ChatGPT. <i>Scientific Reports</i>, 13, 14045. <a href="https://doi.org/10.1038/s41598-023-41032-5" target="_blank" rel="noopener">https://doi.org/10.1038/s41598-023-41032-5</a></li>
+      </ol>
+    </div>
+  </div>
+</article>
+</main>
+<footer><p><a href="/">独学の科学</a> &nbsp;|&nbsp; <a href="/about/">このメディアについて</a> &nbsp;|&nbsp; <a href="/sources/">出典と検証の方法</a> &nbsp;|&nbsp; <a href="/disclaimer/">免責事項</a> &nbsp;|&nbsp; <a href="https://seadice.win/">SEADICE</a> &nbsp;|&nbsp; &copy; SEADICE</p></footer>
+</body>
+</html>

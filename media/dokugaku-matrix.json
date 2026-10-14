@@ -355,7 +355,8 @@
      "ai-wrong-answer-unlearn-correct"
     ],
     "why": [
-     "why-ai-explanations-feel-understood"
+     "why-ai-explanations-feel-understood",
+     "why-ai-confidently-wrong-hallucination"
     ],
     "use": [
      "ai-study-checklist"

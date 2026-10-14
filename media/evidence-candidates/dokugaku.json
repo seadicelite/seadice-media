@@ -2440,5 +2440,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-why-ai-confidently-wrong-hallucination-ask-again",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Farquhar et al., \"Detecting hallucinations in large language models using semantic entropy\" (Nature, 2024)",
+    "sourceUrl": "https://doi.org/10.1038/s41586-024-07421-0",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-ai-confidently-wrong-hallucination/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "AIのまちがいを見分けたい",
+        "body": "AIは自信ありげにまちがえることがあるよね。じゃあ、どの答えが怪しいかを見分ける手がかりはあるのか。それを調べた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ質問を何度も聞く",
+        "body": "同じ質問にAIを何度か答えさせて、答えの「意味」がぶれるかを測る方法を作った。薬の標的を聞くと、同じ指示でも正しい答えとまちがった答えを行ったり来たりしたらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ぶれる所は怪しい",
+        "body": "意味のぶれが大きいほど、まちがった答えが多かった。見分ける力の指標は30の組み合わせの平均で0.790（0.5が当てずっぽう、1が完全）だったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ぶれない誤りは見えない",
+        "body": "毎回同じようにまちがえる場合は、この方法では見つけられないと著者ら自身が書いている。人が手で聞き直したときにどこまで役立つかも、まだ調べられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
