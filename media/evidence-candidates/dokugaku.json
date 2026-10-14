@@ -2406,5 +2406,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-why-overcommit-future-study-time-time-slack",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zauberman & Lynch, \"Resource slack and propensity to discount delayed investments of time versus money\" (Journal of Experimental Psychology: General, 2005)",
+    "sourceUrl": "https://doi.org/10.1037/0096-3445.134.1.23",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-overcommit-future-study-time/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "来月なら暇になる気がする",
+        "body": "今週は忙しいけど、来月なら時間があるはず。そう思って予定を入れて、来月になったらやっぱり忙しい。これ、なぜなんだろうね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "今日と1か月後、どっちが暇？",
+        "body": "米国の大学生76人に、今日と1か月後の同じ曜日、どっちに空き時間が多いかを10段階で聞いた調査があるよ。お金の余裕も同じように聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "未来の方が暇に見える",
+        "body": "時間の平均は8.2で、真ん中の5.5より「1か月後」寄り。お金は7.0で、時間の方が「先は余裕がある」と感じやすかった。来週の用事はまだ見えていないから、らしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実際に暇だったかは不明",
+        "body": "これは見込みを聞いた質問紙で、1か月後に本当に時間が空いたかは測っていない。対象も米国の大学生だけで、働く大人でも同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

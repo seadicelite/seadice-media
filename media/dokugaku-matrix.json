@@ -268,7 +268,8 @@
    "label": "計画倒れ・時間がない",
    "cells": {
     "why": [
-     "planning-fallacy-study-plans"
+     "planning-fallacy-study-plans",
+     "why-overcommit-future-study-time"
     ],
     "judge": [
      "micro-learning-spare-time-study",
