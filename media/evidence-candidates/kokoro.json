@@ -1968,5 +1968,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-third-person-self-talk-work-panic-name",
+    "category": "ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Moser JS, Kross E, et al., \"Third-person self-talk facilitates emotion regulation without engaging cognitive control: Converging evidence from ERP and fMRI\" (Scientific Reports, 2017)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-017-04047-3",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/third-person-self-talk-work-panic/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "自分を名前で呼ぶと落ち着く？",
+        "body": "焦ると「私はどうしよう」が頭を回るよね。じゃあ心の中で「〇〇は今、何を感じてる？」と自分を名前で呼んだら、何か変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "いやな記憶で比べた実験",
+        "body": "米国の50人（平均20歳）が、いやな体験を思い出して、その気持ちを「私」か自分の名前で振り返った。脳の画像も撮りながらの実験だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "つらさの評価が下がった",
+        "body": "5段階のつらさは、「私」で平均3.82、名前で3.24。名前のときは、気持ちを抑え込む脳の働きが強まっていなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "仕事の焦りにも効く？",
+        "body": "実験室で1回だけ試した結果で、若い学生が中心。職場の焦りや、続けたときの効果は確かめられていない。体の痛みには効かなかった別の実験もあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

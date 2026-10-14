@@ -2994,5 +2994,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Walking_through_Kollur_misty_forest_path.jpg/500px-Walking_through_Kollur_misty_forest_path.jpg",
   "og": "https://mentalai.seadice.win/img/appearance-comparison-exercise-body-image.jpg",
   "local": true
+ },
+ "third-person-self-talk-work-panic": {
+  "file": "File:Morning, Lake Bunyonyi (30126874675).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Morning%2C_Lake_Bunyonyi_%2830126874675%29.jpg/960px-Morning%2C_Lake_Bunyonyi_%2830126874675%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Morning%2C_Lake_Bunyonyi_%2830126874675%29.jpg/500px-Morning%2C_Lake_Bunyonyi_%2830126874675%29.jpg",
+  "w": 960,
+  "h": 575,
+  "alt": "朝の静かな湖面に映る景色",
+  "artist": "Rod Waddington",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Morning,_Lake_Bunyonyi_(30126874675).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
