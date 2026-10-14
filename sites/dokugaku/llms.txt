@@ -103,6 +103,7 @@
 - [勉強中にスマホを見て集中が切れた。どう戻る？中断から立て直す研究でわかったやり方](https://dokugaku.seadice.win/refocus-after-phone-distraction/): 数秒の中断でも「どこまでやったか」は抜けやすい。スマホを遠ざけ、1つ前の手順から確かめ直し、再開メモを残す。
 - [勉強する人の睡眠チェック表と2週間の記録表。睡眠と成績の研究から作った使い方](https://dokugaku.seadice.win/sleep-log-checklist-for-learners/): 睡眠の長さ・質・規則正しさは成績と結びつく。研究をもとにしたチェック表と2週間の記録表、15日目の見直し表。
 - [勉強中のスマホはどこに置く？集中を守る置き方と通知の切り方（研究とその再現）](https://dokugaku.seadice.win/smartphone-away-while-studying/): 通知は見なくても集中を乱す。勉強前に音と振動まで切り、できれば別の部屋へ。置き場所の効果は再現されない研究もある
+- [部屋で勉強すると頭がぼんやりする。換気はどうする？こもった空気を入れかえるやり方（二酸化炭素と換気の研究とその限界）](https://dokugaku.seadice.win/stale-air-study-room-ventilation/): 換気を増やすと成績が上がった実験と、二酸化炭素だけでは差がなかった実験から、勉強部屋の換気のやり方をまとめます。
 - [徹夜・寝不足で勉強してしまった。翌日からどう立て直す？睡眠不足と学習の研究でわかった戻し方](https://dokugaku.seadice.win/study-after-sleep-loss-recovery/): 寝不足の日は新しい範囲を覚えず思い出す練習と短い昼寝に。睡眠は1晩で戻りきらないので、2〜3日は量を控えめにする。
 - [勉強する場所を変えると覚えやすいのか。場所と記憶（文脈依存記憶）の研究](https://dokugaku.seadice.win/study-location-context-dependent-memory/): 覚えた場所で思い出しやすい効果は実在するが小さめ。場所を思い浮かべるだけで差は縮む
 - [勉強する場所と時間帯の記録表。音・スマホ・時間帯を2週間くらべて、自分に合う組み合わせを見つける](https://dokugaku.seadice.win/study-place-time-log-sheet/): 話し声やスマホ、時間帯の研究から作った、始める前のチェック表と2週間の記録表。自分に合う場所と時間帯を数字でくらべる。

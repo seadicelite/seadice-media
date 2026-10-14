@@ -1760,5 +1760,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-stale-air-study-room-ventilation-pure-co2",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zhang et al., \"Effects of exposure to carbon dioxide and bioeffluents on perceived air quality, self-assessed acute health symptoms, and cognitive performance\" (Indoor Air, 2017)",
+    "sourceUrl": "https://doi.org/10.1111/ina.12284",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/stale-air-study-room-ventilation/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "二酸化炭素が増えると頭が鈍る？",
+        "body": "閉めきった部屋で眠くなるのは、二酸化炭素が増えるからだ、とよく言われるよね。じゃあ二酸化炭素だけを増やしたら、本当に頭の働きは落ちるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "25人が4時間あまり過ごした実験",
+        "body": "25人が各条件で255分過ごした実験。純粋な二酸化炭素を足して1,000ppmや3,000ppmにした部屋と、換気を減らして人から出る物質がたまった部屋をくらべたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差が出たのは「こもった空気」の方",
+        "body": "二酸化炭素を足しただけでは、空気の感じ方も体調も成績も変わらなかった。換気を減らした3,000ppmの部屋では、頭痛や眠気が強まり、計算も遅くなったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どの成分が効いているのか",
+        "body": "影響が出たのはかなり換気の悪い条件で、人数も25人。ほかの実験では二酸化炭素だけで成績が落ちた例もあり、結果はまだそろっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
