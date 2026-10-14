@@ -1628,5 +1628,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-ai-praise-feels-hollow-ai-feedback",
+    "category": "AIと心",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hein I, Cecil J, Lermer E, \"Acceptance and motivational effect of AI-driven feedback in the workplace: an experimental study with direct replication\" (Frontiers in Organizational Psychology, 2024)",
+    "sourceUrl": "https://doi.org/10.3389/forgp.2024.1468907",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-praise-feels-hollow/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIに褒められても、なんか響かない",
+        "body": "AIに「よくできています」って言われても、素直に喜べないこと、あるよね。これって自分がひねくれてるだけなのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "上司とAI、評価する側を入れかえた実験",
+        "body": "ドイツの実験。参加者は仕事の評価を受ける社員の立場を想像して、評価するのが人の上司かAIかをランダムに変えたんだ。2回目は449人でくり返したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "同じ場面でも、AIからだと受け入れにくい",
+        "body": "2回目の実験では、AIからの評価は人からより納得されにくく、やる気も低めだった。「また評価をもらいたい」は7段階でAIが3.1、人が5.0。AIを遠い存在と感じることが関わっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "毎日AIに褒められたら？",
+        "body": "場面を想像して答える実験で、参加者は20代中心のドイツの人。実際に毎日AIに褒められる生活でどうなるかは、まだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

@@ -2837,5 +2837,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bamboo_grove_%28phyllostachys_viridiglaucescens%29_in_the_Botanical_Garden_of_the_University_of_Vienna_in_Vienna%2C_Austria-stems_PNr%C2%B01051.jpg/500px-Bamboo_grove_%28phyllostachys_viridiglaucescens%29_in_the_Botanical_Garden_of_the_University_of_Vienna_in_Vienna%2C_Austria-stems_PNr%C2%B01051.jpg",
   "og": "https://mentalai.seadice.win/img/ai-job-worry-adaptability-og.jpg",
   "local": true
+ },
+ "ai-praise-feels-hollow": {
+  "file": "File:Feet in clear water over colorful pebbles creating ripples on a summer day by the riverbank undefined.jpg",
+  "src": "/img/ai-praise-feels-hollow.webp",
+  "src640": "/img/ai-praise-feels-hollow-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "澄んだ川の水と色とりどりの小石",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Feet_in_clear_water_over_colorful_pebbles_creating_ripples_on_a_summer_day_by_the_riverbank_undefined.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Feet_in_clear_water_over_colorful_pebbles_creating_ripples_on_a_summer_day_by_the_riverbank_undefined.jpg/960px-Feet_in_clear_water_over_colorful_pebbles_creating_ripples_on_a_summer_day_by_the_riverbank_undefined.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Feet_in_clear_water_over_colorful_pebbles_creating_ripples_on_a_summer_day_by_the_riverbank_undefined.jpg/500px-Feet_in_clear_water_over_colorful_pebbles_creating_ripples_on_a_summer_day_by_the_riverbank_undefined.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-praise-feels-hollow-og.jpg",
+  "local": true
  }
 }
