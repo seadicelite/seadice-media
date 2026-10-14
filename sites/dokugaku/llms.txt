@@ -36,6 +36,7 @@
 - [覚えたのに忘れてしまった。最初からやり直し？忘れた後の覚え直し（再学習）の研究](https://dokugaku.seadice.win/forgot-what-i-studied-relearning/): 忘れても覚え直しは最初より速い。白紙に思い出せるだけ書き、忘れた分だけ覚え直し、日をあけて2〜3回くり返す
 - [昔勉強した英語をほとんど忘れた。ゼロからやり直し？語学の忘れ方と覚え直しの研究](https://dokugaku.seadice.win/forgotten-language-relearning/): 使わなくなった語学は数年で減った後、長く残る。わかる単語と言える単語を分けて棚卸しし、間をあけて覚え直す。
 - [覚えたつもりなのにテストで書けないのはなぜか。「わかったつもり」の研究](https://dokugaku.seadice.win/illusion-of-knowing-fluency/): すらすら読める手ごたえを「覚えた」と取り違える錯覚の研究と、本を閉じて確かめる対策
+- [LとRの聞き分け練習の記録表。2択の聞き取り訓練の研究から作った、10回分の練習表と使い方](https://dokugaku.seadice.win/l-r-listening-practice-log-sheet/): 2択で聞いてすぐ答え合わせする訓練の研究から、10回分の記録表と、練習に使っていない声で伸びを確かめる判定表を作った。
 - [語呂合わせやイメージで覚えるのは効くのか。記憶術（キーワード法・イメージ化）の研究](https://dokugaku.seadice.win/mnemonics-keyword-method-imagery/): 語呂合わせは覚える速さには効くが、数日後には忘れやすい。覚えにくい数個のきっかけにして、思い出す練習へ切り替える
 - [音読と黙読、どちらが覚えられるのか。音読効果（プロダクション効果）の研究](https://dokugaku.seadice.win/reading-aloud-production-effect/): 声に出した部分は黙読より覚えやすい。ただし効くのは覚えたい要点だけを声に出すときで、全部を音読すると差は小さくなる
 - [思い出す練習（テスト効果）は、読み返すより覚えられるのか](https://dokugaku.seadice.win/retrieval-practice-vs-rereading/): 読み返すより本を閉じて思い出す方が1週間後に残る。答え合わせをすると効果が大きくなる

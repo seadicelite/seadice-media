@@ -2202,5 +2202,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-l-r-listening-practice-log-sheet-listen-to-speak",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bradlow et al., \"Training Japanese listeners to identify English /r/ and /l/: IV. Some effects of perceptual learning on speech production\" (The Journal of the Acoustical Society of America, 1997)",
+    "sourceUrl": "https://doi.org/10.1121/1.418276",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/l-r-listening-practice-log-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "聞く練習で、話す力も伸びる？",
+        "body": "発音を良くしたいなら、口を動かす練習をするしかない。そう思いがちだけど、聞き分けの練習だけで発音が変わることってあるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "聞き分けだけを練習した日本人",
+        "body": "日本人の大人が、いろいろな声でLとRを聞き分ける訓練を長い期間受けた研究があるよ。発音の練習はしていなくて、訓練の前と後に発音を録音したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "発音も聞き取られやすくなった",
+        "body": "全員の聞き分けが伸びて、知らない人の声にも広がった。そして訓練後の発音は、英語の母語話者により正しく聞き取られるようになったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "研究室での集中的な訓練",
+        "body": "研究室で長い期間、集中して訓練した結果。独学で同じ量をこなせるか、同じように発音が変わるかは確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-l-r-listening-practice-log-sheet-one-voice",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lively et al., \"Training Japanese listeners to identify English /r/ and /l/. II: The role of phonetic environment and talker variability in learning new perceptual categories\" (The Journal of the Acoustical Society of America, 1993)",
+    "sourceUrl": "https://doi.org/10.1121/1.408177",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/l-r-listening-practice-log-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "1人の声だけで練習すると？",
+        "body": "LとRの聞き分けを、いろいろな人の声で練習する場合と、1人の声だけで練習する場合。日本人で比べた実験があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "知らない声には広がらなかった",
+        "body": "複数の声で練習した人は、新しい単語や知らない人の声でも成績が伸びた。1人の声だけの人も練習中は伸びたけど、新しい人の声には広がらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "声の数の効果は研究で分かれる",
+        "body": "人数の少ない実験室の研究。18本の研究のまとめでは、訓練直後の声の数の利点は、偏りを補正するとほぼ消えたよ。"
+      },
+      {
+        "stage": "使い方のヒント",
+        "title": "知らない声で確かめる",
+        "body": "練習で伸びたかは、練習に使っていない単語と声で確かめると安心。同じ声だけで判断すると、伸びを大きく見てしまうかもしれないね。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

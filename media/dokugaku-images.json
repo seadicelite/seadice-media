@@ -1980,5 +1980,22 @@
   "alt": "展示されている古いリボンマイク",
   "local": true,
   "og": "https://dokugaku.seadice.win/img/why-adult-pronunciation-accent-stays-og.jpg"
+ },
+ "l-r-listening-practice-log-sheet": {
+  "file": "File:Headphones used for simultaneous interpretation in the European Parliament.jpg",
+  "w": 960,
+  "h": 640,
+  "artist": "European Parliament",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Headphones_used_for_simultaneous_interpretation_in_the_European_Parliament.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Headphones_used_for_simultaneous_interpretation_in_the_European_Parliament.jpg/960px-Headphones_used_for_simultaneous_interpretation_in_the_European_Parliament.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Headphones_used_for_simultaneous_interpretation_in_the_European_Parliament.jpg/500px-Headphones_used_for_simultaneous_interpretation_in_the_European_Parliament.jpg",
+  "src": "/img/l-r-listening-practice-log-sheet.webp",
+  "src640": "/img/l-r-listening-practice-log-sheet-sm.webp",
+  "alt": "机の上に置かれたヘッドホン",
+  "local": true,
+  "og": "https://dokugaku.seadice.win/img/l-r-listening-practice-log-sheet-og.jpg"
  }
 }
