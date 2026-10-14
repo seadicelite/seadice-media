@@ -1526,5 +1526,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-partner-thanks-unsaid-gratitude-underestimate",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Tissera H et al., \"Understanding the Links Between Perceiving Gratitude and Romantic Relationship Satisfaction Using an Accuracy and Bias Framework\" (Social Psychological and Personality Science, 2023)",
+    "sourceUrl": "https://doi.org/10.1177/19485506221137958",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/partner-thanks-unsaid/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "感謝は言わなくても伝わる？",
+        "body": "長く一緒にいると「ありがとう」って言わなくなるよね。心の中で思っていれば、相手にも伝わっている…と思いたいけど、実際はどうなんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "カナダのカップル205組",
+        "body": "カナダの18〜35歳のカップル205組に、自分が相手に感じる感謝と、相手が自分に感じていると思う感謝を、それぞれ5点満点で答えてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "相手の感謝は少なめに見える",
+        "body": "自分の感謝は平均4.43、相手の感謝の見積もりは平均4.14。分析でも、人は相手の感謝を実際より少なく見積もっていた。少なく見積もる人ほど、関係への満足も低かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どちらが先かは不明",
+        "body": "アンケートの相関だから、少なく見積もるせいで不満になるのか、不満だから少なく見えるのかはわからない。研究者も、因果を確かめるには実験が必要と書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

@@ -2830,5 +2830,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Classic_alarm_clock_20180513.jpg/500px-Classic_alarm_clock_20180513.jpg",
   "og": "https://mentalai.seadice.win/img/irregular-sleep-schedule-focus.jpg",
   "local": true
+ },
+ "partner-thanks-unsaid": {
+  "file": "File:Teapot Teacup Laguna Beach (Unsplash).jpg",
+  "src": "/img/partner-thanks-unsaid.jpg",
+  "src640": "/img/partner-thanks-unsaid-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "黒い鉄のティーポットと湯のみ",
+  "artist": "Cole Hutson colehutson",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Teapot_Teacup_Laguna_Beach_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Teapot_Teacup_Laguna_Beach_%28Unsplash%29.jpg/960px-Teapot_Teacup_Laguna_Beach_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Teapot_Teacup_Laguna_Beach_%28Unsplash%29.jpg/500px-Teapot_Teacup_Laguna_Beach_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/partner-thanks-unsaid.jpg",
+  "local": true
  }
 }
