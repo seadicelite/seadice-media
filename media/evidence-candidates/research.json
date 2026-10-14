@@ -2226,5 +2226,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-first-night-effect-sleep-why-research-night-watch",
+    "category": "睡眠",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Tamaki M et al., \"Night Watch in One Brain Hemisphere during Sleep Associated with the First-Night Effect in Humans\" (Current Biology, 2016)",
+    "sourceUrl": "https://doi.org/10.1016/j.cub.2016.02.063",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/first-night-effect-sleep-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "旅行先だと眠れないのはなぜ？",
+        "body": "ホテルの1晩目って、なぜか寝つけないし何度も目が覚めるよね。睡眠の研究では「初夜効果」と呼ばれて、昔から知られているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "35人の脳を2回測った",
+        "body": "アメリカの研究グループが、若い35人に1週間ほどあけて2回、検査室で眠ってもらい、深い眠りの間の脳の左右を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1回目だけ左側が浅く眠る",
+        "body": "1回目は脳の左側の一部が右側より浅く眠り、聞き慣れない音に強く反応した。音で目覚めて合図するのも速かったらしい。2回目には左右差は消えていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "別の研究では再現されず",
+        "body": "各実験は十数人と少なめ。その後の研究では、左右差が初夜効果と関係しなかったり、浅かったのが右側だったりして、仕組みはまだ議論中なんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

@@ -2026,5 +2026,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Empty_table_setting_plate_fork_knife_%2842585288225%29.jpg/500px-Empty_table_setting_plate_fork_knife_%2842585288225%29.jpg",
   "og": "https://research.seadice.win/img/hangry-hunger-irritability-why-research-og.jpg",
   "local": true
+ },
+ "first-night-effect-sleep-why-research": {
+  "file": "File:Door open; empty bed with pillow and side pillow 02.jpg",
+  "src": "/img/first-night-effect-sleep-why-research.webp",
+  "src640": "/img/first-night-effect-sleep-why-research-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "寝室のベッドと枕",
+  "artist": "Afifa Afrin",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Door_open;_empty_bed_with_pillow_and_side_pillow_02.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Door_open%3B_empty_bed_with_pillow_and_side_pillow_02.jpg/960px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_02.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Door_open%3B_empty_bed_with_pillow_and_side_pillow_02.jpg/500px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_02.jpg",
+  "og": "https://research.seadice.win/img/first-night-effect-sleep-why-research-og.jpg",
+  "local": true
  }
 }
