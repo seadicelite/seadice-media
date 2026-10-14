@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-learned-wrong-facts-relearn",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-14",
+  "title": "AIに教わって覚えたことが、間違いだった。研究では、誤りを名指しして理由ごと正す覚え直しが効きやすかった",
+  "summary": "AIの誤った説明で医学生の正答率は21.0%→9.2%に。誤り・違う理由・正しい内容の3行で書き直す覚え直しを、反証テキストと訂正の研究から整理。"
+ },
+ {
   "slug": "ai-generated-image-label-comparison-prepare",
   "category": "心の疲れ・比べて落ち込む",
   "type": "guide",
