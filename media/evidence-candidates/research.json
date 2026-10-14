@@ -2430,5 +2430,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-similar-words-mix-up-interference-why-research-semantic-sets",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pérez-Serrano M et al., \"Effects of semantic clustering and repetition on incidental vocabulary learning\" (Frontiers in Psychology, 2022)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2022.997951",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/similar-words-mix-up-interference-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "単語はジャンルごとに覚えるとラク？",
+        "body": "色の名前、体の部分、果物。単語帳ってジャンルごとにまとまっていることが多いよね。仲間で覚えた方が整理されて覚えやすい気がする。でも実際はどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "102人が動画で新しい単語を覚えた",
+        "body": "スペインの大学生102人が、字幕つきの動画を見ながら架空の外国語の単語を覚えた。単語は意味の近いまとまりか、ばらばらで出てきて、出てくる回数は1回・4回・8回だったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "まとまりの単語は伸びにくかった",
+        "body": "ばらばらの単語は、出てくる回数が増えるほど思い出せるようになった。でも意味の近いまとまりの単語は、4回から8回に増やしても伸びなかった。似た単語どうしが混ざって邪魔し合うらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "時間がたってからは不明",
+        "body": "テストは動画を見た直後だけで、数日後に覚えているかは調べていない。正答率に差が出なかった研究もあって、まとめて覚えるのが必ず不利とまでは言えないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-similar-words-mix-up-interference-why-research-wakeful-rest",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Parra D et al., \"Should we all just take 10? A meta-analysis of wakeful rest\" (Psychonomic Bulletin & Review, 2026)",
+    "sourceUrl": "https://doi.org/10.3758/s13423-025-02778-3",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/similar-words-mix-up-interference-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "覚えたあと10分ぼーっとすると残る？",
+        "body": "勉強のあとに何もせず静かに休むと、記憶が残りやすいという話があるよね。スマホを見るより、ぼーっとする方がいいらしい。でもどのくらい効くんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "51の研究をまとめて計算した",
+        "body": "学習のあとに静かに休むか、頭を使う作業をするかを比べた51の研究、142の結果をまとめたメタ分析があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効くけど、若い人では小さめ",
+        "body": "全体では休んだ方が覚えていた（g=0.34）。ただ健康な若い〜中年の大人ではg=0.20と小さく、高齢の人ではg=0.57と大きめだった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "効かなかった研究も多い",
+        "body": "研究ごとのばらつきが大きく、大学生の再現実験で効果が出なかった例もある。毎日の勉強でどれくらい差になるかは、まだはっきりしないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
