@@ -2794,5 +2794,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bench_autumn_02.JPG/500px-Bench_autumn_02.JPG",
   "og": "https://mentalai.seadice.win/img/everyone-seems-happier.jpg",
   "local": true
+ },
+ "sns-friends-few-to-rely-on": {
+  "file": "File:Science Lake, Allegany State Park, New York - 20211109 - 02.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Science_Lake%2C_Allegany_State_Park%2C_New_York_-_20211109_-_02.jpg/960px-Science_Lake%2C_Allegany_State_Park%2C_New_York_-_20211109_-_02.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Science_Lake%2C_Allegany_State_Park%2C_New_York_-_20211109_-_02.jpg/500px-Science_Lake%2C_Allegany_State_Park%2C_New_York_-_20211109_-_02.jpg",
+  "w": 960,
+  "h": 576,
+  "alt": "湖のそばに置かれたベンチ",
+  "artist": "Andre Carrotflower",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Science_Lake,_Allegany_State_Park,_New_York_-_20211109_-_02.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
