@@ -1532,5 +1532,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Child_sits_at_desk_completing_schoolwork_near_window_with_globe%2C_books%2C_and_pictures.jpg/500px-Child_sits_at_desk_completing_schoolwork_near_window_with_globe%2C_books%2C_and_pictures.jpg",
   "og": "https://ai.seadice.win/img/fooled-by-ai-fake-shame-recover.jpg",
   "local": true
+ },
+ "ai-guess-personality-from-sns-posts": {
+  "file": "File:Home-office-336377.jpg",
+  "src": "/img/ai-guess-personality-from-sns-posts.jpg",
+  "src640": "/img/ai-guess-personality-from-sns-posts-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木の机に置かれたノートパソコンとスマートフォン、コーヒー",
+  "artist": "By Free-Photos from Pixabay",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Home-office-336377.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Home-office-336377.jpg/960px-Home-office-336377.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Home-office-336377.jpg/500px-Home-office-336377.jpg",
+  "og": "https://ai.seadice.win/img/ai-guess-personality-from-sns-posts.jpg",
+  "local": true
  }
 }

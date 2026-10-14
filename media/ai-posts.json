@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-guess-personality-from-sns-posts",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-15",
+  "title": "SNSの投稿から、AIに性格や個人的なことを当てられる？研究では投稿や「いいね」からある程度推測でき、当たり方は項目しだいだった",
+  "summary": "ChatGPTは投稿から性格を推測でき、本人の回答との相関は平均0.29。支持政党などは高い精度でした。公開範囲の見直しから始めます。"
+ },
+ {
   "slug": "fooled-by-ai-fake-shame-recover",
   "category": "偽情報・ディープフェイク",
   "type": "guide",
