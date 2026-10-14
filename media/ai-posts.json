@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-summary-missed-key-point",
+  "category": "考える力・集中",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-14",
+  "title": "AIの要約だけ読んで会議に出たら、抜けていた大事な点を指摘された。研究では、要約は条件や限界を落としやすく、まず原文で確かめて訂正する",
+  "summary": "AIの要約は専門家の要約より約5倍、結論を広げやすく「正確に」の指示で増えた。指摘の直後に原文で条件を確かめ、訂正を送る手順を整理。"
+ },
+ {
   "slug": "ai-learned-wrong-facts-relearn",
   "category": "AIに頼りすぎ",
   "type": "guide",

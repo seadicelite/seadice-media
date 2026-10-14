@@ -1392,5 +1392,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wikipedia_notebook_pencil_puzzles.jpg/500px-Wikipedia_notebook_pencil_puzzles.jpg",
   "og": "https://ai.seadice.win/img/ai-learned-wrong-facts-relearn-og.jpg",
   "local": true
+ },
+ "ai-summary-missed-key-point": {
+  "file": "File:Reading glasses .jpg",
+  "src": "/img/ai-summary-missed-key-point.webp",
+  "src640": "/img/ai-summary-missed-key-point-sm.webp",
+  "w": 960,
+  "h": 639,
+  "alt": "開いた辞書の上に置いた眼鏡",
+  "artist": "Mk2010",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Reading_glasses_.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Reading_glasses_.jpg/960px-Reading_glasses_.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Reading_glasses_.jpg/500px-Reading_glasses_.jpg",
+  "og": "https://ai.seadice.win/img/ai-summary-missed-key-point-og.jpg",
+  "local": true
  }
 }
