@@ -2100,5 +2100,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-why-sleepy-after-lunch-studying-meal",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Stahl et al., \"Postprandial sleepiness: objective documentation via polysomnography\" (Sleep, 1983)",
+    "sourceUrl": "https://doi.org/10.1093/sleep/6.1.29",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-sleepy-after-lunch-studying/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "昼過ぎに眠いのは昼ごはんのせい？",
+        "body": "お昼を食べた後に眠くなるのは、食べたせいだってよく言われるよね。じゃあ、食べなければ眠くならないんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "食べた日と食べない日",
+        "body": "健康な15人で、食事をした日としない日を比べて、脳波で寝つくまでの時間を測った実験があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "全体では差がなかった",
+        "body": "全体では、食事の有無で寝つくまでの時間に差がなかったらしい。食後に寝つきが早くなったのは15人中5人だけ。著者たちは、食後の眠気は食べれば必ず起きるものではない、とまとめているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "15人だけの古い研究",
+        "body": "人数が少なく1983年の研究。食事の量や中身で眠気が変わるかは、研究によって結果が分かれているよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

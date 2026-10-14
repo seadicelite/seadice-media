@@ -116,6 +116,7 @@
 - [専門書を読むとすぐ眠くなる・疲れるのはなぜ？文章の難しさ・興味・眠気の研究でわかったこと](https://dokugaku.seadice.win/why-difficult-books-make-you-sleepy/): 難しい文章ほど、興味が低いほど心が本から離れやすい。眠気の原因を見分け、予備知識と問いを用意し短く区切って読む手順。
 - [ながら勉強だと頭に入らないのはなぜ？切り替えのコストと「使いにくい記憶」の研究](https://dokugaku.seadice.win/why-multitasking-hurts-studying/): 作業を切り替えるたびに遅れとミスが出る。気をそらして覚えると応用しにくい知識になる可能性も。研究で理由を整理。
 - [画面で読むと頭に入りにくいのはなぜ？紙と画面の読解研究でわかった「急ぎ読み」と「わかったつもり」](https://dokugaku.seadice.win/why-screen-reading-harder-to-understand/): 54の実験のまとめでは紙の方が理解がよく、差は急ぎ読みと説明文で大きい。原因は読み方と理解の見積もりにある。
+- [昼過ぎの勉強で眠くなるのはなぜ？昼食のせいだけではない、午後の眠気と体内時計の研究](https://dokugaku.seadice.win/why-sleepy-after-lunch-studying/): 午後の眠気は昼食なしでも起き、体内時計のリズムに根がある。食事の影響は人による。15分の昼寝で眠気が軽くなった実験も。
 - [勉強中にスマホを見たくなるのはなぜ？通知・退屈・疲れの研究と「スマホ脳」説の弱さ](https://dokugaku.seadice.win/why-urge-to-check-phone-while-studying/): 通知は見なくても注意を乱し、退屈や疲れが強い時ほどスマホに手が伸びやすい。脳が作り変えられる説は根拠が弱い。
 
 ### 時間・計画
