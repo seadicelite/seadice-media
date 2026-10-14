@@ -2848,5 +2848,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Teapot_Teacup_Laguna_Beach_%28Unsplash%29.jpg/500px-Teapot_Teacup_Laguna_Beach_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/partner-thanks-unsaid.jpg",
   "local": true
+ },
+ "night-phone-blue-light-sleep": {
+  "file": "File:Today S Date (148611545).jpeg",
+  "src": "/img/night-phone-blue-light-sleep.jpg",
+  "src640": "/img/night-phone-blue-light-sleep-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "ランプのそばで開いた本とペン",
+  "artist": "Louie Song",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Today_S_Date_(148611545).jpeg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Today_S_Date_%28148611545%29.jpeg/960px-Today_S_Date_%28148611545%29.jpeg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Today_S_Date_%28148611545%29.jpeg/500px-Today_S_Date_%28148611545%29.jpeg",
+  "og": "https://mentalai.seadice.win/img/night-phone-blue-light-sleep.jpg",
+  "local": true
  }
 }

@@ -1560,5 +1560,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-night-phone-blue-light-sleep-filter-melatonin",
+    "category": "休息",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Höhn C et al., \"Effects of evening smartphone use on sleep and declarative memory consolidation in male adolescents and young adults\" (Brain Communications, 2024)",
+    "sourceUrl": "https://doi.org/10.1093/braincomms/fcae173",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/night-phone-blue-light-sleep/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "夜間モードなら寝る前も平気？",
+        "body": "寝る前のスマホはブルーライトが悪い、だから夜間モードにしておけば大丈夫…ってよく聞くよね。実際に実験室で確かめた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "68人が3晩、寝る前に90分読書",
+        "body": "オーストリアの14〜25歳の男性68人が、設定なしのスマホ、ブルーライトを抑える設定のスマホ、紙の本で、寝る前に90分読書。読み終えて約50分後に寝たよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "大人は設定ありでもホルモンが低め",
+        "body": "眠りを促すホルモンは、スマホで読むと減った。10代は寝るまでに戻ったけど、18〜25歳は設定ありでも紙の本の夜より少ないままだった。ただ一晩の睡眠の構造は、おおむね変わらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "寝る直前まで見た場合は不明",
+        "body": "この実験は寝る約50分前にやめる条件だけで、参加者も男性だけ。ベッドで寝る直前まで見続けたときにどうなるかは、まだ確かめられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
