@@ -3048,5 +3048,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Misty_Morning_Sunrise_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854118843636%29.jpg/500px-Misty_Morning_Sunrise_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854118843636%29.jpg",
   "og": "https://mentalai.seadice.win/img/binaural-beats-focus.jpg",
   "local": true
+ },
+ "social-fatigue-after-meeting": {
+  "file": "File:DSC 7598 An empty chair faces a wide open window overlooking green trees and a clear sky - a quiet spot for reflection.jpg",
+  "src": "/img/social-fatigue-after-meeting.jpg",
+  "src640": "/img/social-fatigue-after-meeting-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "開いた窓に向かって置かれた一脚の椅子",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DSC_7598_An_empty_chair_faces_a_wide_open_window_overlooking_green_trees_and_a_clear_sky_-_a_quiet_spot_for_reflection.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/DSC_7598_An_empty_chair_faces_a_wide_open_window_overlooking_green_trees_and_a_clear_sky_-_a_quiet_spot_for_reflection.jpg/960px-DSC_7598_An_empty_chair_faces_a_wide_open_window_overlooking_green_trees_and_a_clear_sky_-_a_quiet_spot_for_reflection.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/DSC_7598_An_empty_chair_faces_a_wide_open_window_overlooking_green_trees_and_a_clear_sky_-_a_quiet_spot_for_reflection.jpg/500px-DSC_7598_An_empty_chair_faces_a_wide_open_window_overlooking_green_trees_and_a_clear_sky_-_a_quiet_spot_for_reflection.jpg",
+  "og": "https://mentalai.seadice.win/img/social-fatigue-after-meeting.jpg",
+  "local": true
  }
 }

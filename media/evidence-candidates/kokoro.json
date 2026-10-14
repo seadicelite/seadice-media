@@ -2070,5 +2070,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-social-fatigue-after-meeting-delayed-tiredness",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Leikas S, \"Sociable behavior is related to later fatigue: moment-to-moment patterns of behavior and tiredness\" (Heliyon, 2020)",
+    "sourceUrl": "https://doi.org/10.1016/j.heliyon.2020.e04033",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/social-fatigue-after-meeting/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "楽しかったのに、どっと疲れる",
+        "body": "友達との食事は楽しかったのに、帰るころにどっと疲れが出る。人と会うと疲れるのは、気のせいなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "74人が4日間、記録した",
+        "body": "フィンランドの大学生74人が、4日間、1日4回スマホで気分と疲れ、直前1時間のふるまいを答えた。答えた回数は合わせて1,046回だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "疲れは2〜3時間後に来た",
+        "body": "直前の1時間に社交的にふるまった回ほど、2〜3時間後の疲れが強かった。その場の気分はむしろよかったらしい。人と会ったかどうかだけでは、あとの疲れと結びついていなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因かどうかは未確認",
+        "body": "答えた内容の結びつきを見た研究で、社交的なふるまいが疲れの原因とまでは言えない。対象は大学生で4日間だけ。内向的な人と外向的な人の違いを調べるには人数が足りなかったんだって。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
