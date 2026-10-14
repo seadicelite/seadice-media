@@ -1987,5 +1987,41 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Graz_University-Library_reading-room.jpg/500px-Graz_University-Library_reading-room.jpg",
   "og": "https://dokugaku.seadice.win/img/reading-comprehension-check-sheet-og.jpg",
   "local": true
+ },
+ "why-hot-room-hard-to-study": {
+  "file": "File:Battery-powered electric fan on a white background at home.jpg",
+  "src": "/img/why-hot-room-hard-to-study.jpg",
+  "src640": "/img/why-hot-room-hard-to-study-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "部屋に置かれた扇風機",
+  "artist": "Curpharar",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Battery-powered_electric_fan_on_a_white_background_at_home.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Battery-powered_electric_fan_on_a_white_background_at_home.jpg/960px-Battery-powered_electric_fan_on_a_white_background_at_home.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Battery-powered_electric_fan_on_a_white_background_at_home.jpg/500px-Battery-powered_electric_fan_on_a_white_background_at_home.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-hot-room-hard-to-study.jpg",
+  "local": true
+ },
+ "study-method-plan-vs-actual-check-sheet": {
+  "file": "File:Writing in a notebook with a feather pen while enjoying coffee at a desk surrounded by flowers.jpg",
+  "src": "/img/study-method-plan-vs-actual-check-sheet.jpg",
+  "src640": "/img/study-method-plan-vs-actual-check-sheet-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "机の上のノートとペン",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg/960px-Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg/500px-Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-method-plan-vs-actual-check-sheet.jpg",
+  "local": true
  }
 }

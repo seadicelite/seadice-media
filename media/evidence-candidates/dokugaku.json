@@ -2338,5 +2338,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-why-hot-room-hard-to-study-comfortable-warm",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lan et al., \"Cognitive performance was reduced by higher air temperature even when thermal comfort was maintained over the 24-28°C range\" (Indoor Air, 2022)",
+    "sourceUrl": "https://doi.org/10.1111/ina.12916",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-hot-room-hard-to-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "暑くても、慣れれば平気？",
+        "body": "「暑いのには慣れてるから、勉強には関係ない」。そう思っている人は多いよね。でも、快適と感じていても頭の働きが落ちていた、という実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "24℃・26℃・28℃で比べた",
+        "body": "36人が、服装や風で3つの温度とも快適に感じる状態にして、それぞれ4.5時間ずつ頭の働きを測るテストを受けたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "本人は気づかないまま低下",
+        "body": "14の指標のうち12で、24℃より高い温度のほうが成績が下がった。平均で26℃は10%、28℃は6%低かったらしい。なのに本人の「はかどり具合」の評価は変わらなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い勉強でも同じ？",
+        "body": "実験室での短い課題の結果で、人数も36人。何時間も続く自宅の勉強で同じくらいの差が出るかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-study-method-plan-vs-actual-check-sheet-follow-through",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hazlett et al., \"Self-Testing and Follow-Through of Learning Strategies Supports Student Success\" (CBE—Life Sciences Education, 2025)",
+    "sourceUrl": "https://doi.org/10.1187/cbe.24-04-0128",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/study-method-plan-vs-actual-check-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "決めた勉強法、続いてる？",
+        "body": "「次は問題を解いて覚えよう」と決めても、いつもの読み返しに戻っちゃう。大学生の調査で、決めた勉強法がどれくらい続くかを調べた研究があるよ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "小テストのたびに聞いた",
+        "body": "米国の遺伝学の授業の学生に、小テストのたびに使った勉強法と、次に使うつもりの勉強法を答えてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "続いたのは平均34%",
+        "body": "決めた勉強法のうち次まで続いたのは平均34%で、全部続けたのは1人だけ。続けた割合が高い学生ほど、小テストの点が上がる傾向があったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "続けたから上がった？",
+        "body": "これは調査で関係を見たもので、くじで分けた実験じゃない。続けたから点が上がったのか、別の理由なのかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
