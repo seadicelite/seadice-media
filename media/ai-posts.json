@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-chat-overshared-regret",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-15",
+  "title": "AIに個人的なことを話しすぎて、後から怖くなった。研究では、打ち明けて楽になる効果は相手がAIでも変わらず、立て直しの鍵は「入れない項目」を決めること",
+  "summary": "打ち明けて楽になる効果は相手をAIと思っても人と同じでした。話した内容を仕分け、入れない項目を決めて使い方を立て直します。"
+ },
+ {
   "slug": "ai-music-listeners-tell-difference",
   "category": "創作・著作権",
   "type": "guide",

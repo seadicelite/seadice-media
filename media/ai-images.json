@@ -1568,5 +1568,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/A_tuning_fork_placed_on_sheet_music_3.jpg/500px-A_tuning_fork_placed_on_sheet_music_3.jpg",
   "og": "https://ai.seadice.win/img/ai-music-listeners-tell-difference.jpg",
   "local": true
+ },
+ "ai-chat-overshared-regret": {
+  "file": "File:Writing in a notebook with a feather pen while enjoying coffee at a desk surrounded by flowers.jpg",
+  "src": "/img/ai-chat-overshared-regret.jpg",
+  "src640": "/img/ai-chat-overshared-regret-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "花とコーヒーのそばで、ノートに羽根ペンで書く手元",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg/960px-Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg/500px-Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
+  "og": "https://ai.seadice.win/img/ai-chat-overshared-regret.jpg",
+  "local": true
  }
 }
