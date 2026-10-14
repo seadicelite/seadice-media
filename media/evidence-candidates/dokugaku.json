@@ -2270,5 +2270,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-why-exam-stress-blocks-recall-retrieval-stress",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Shields et al., \"The effects of acute stress on episodic memory: A meta-analysis and integrative review\" (Psychological Bulletin, 2017)",
+    "sourceUrl": "https://doi.org/10.1037/bul0000100",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/why-exam-stress-blocks-recall/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "本番で答えが出てこないのはなぜ？",
+        "body": "家では言えたのに、試験の本番で出てこない。帰り道にふっと思い出す。覚えていなかったわけじゃないのに、なぜだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "113の研究をまとめた分析",
+        "body": "ストレスと記憶を調べた113の研究（6,216人）をまとめた分析があるよ。思い出す直前や最中にストレスがかかった31の研究も含まれている。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "取り出す力が少し下がる",
+        "body": "思い出す直前や最中のストレスで、記憶の取り出しは下がっていた。ただ効果の大きさは小さめ。逆に、学んだ直後のストレスは記憶を良くする方向だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実験室の話であること",
+        "body": "多くは人前で話す課題などでストレスを与え、単語などを思い出させた実験。数か月準備する本番の試験で同じだけ影響するかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
