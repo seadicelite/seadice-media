@@ -1818,5 +1818,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-nervous-before-performance-say-excited-research-reappraisal-meta",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bosshard & Gomez, \"Effectiveness of stress arousal reappraisal and stress-is-enhancing mindset interventions on task performance outcomes: a meta-analysis of randomized controlled trials\" (Scientific Reports, 2024)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-024-58408-w",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/nervous-before-performance-say-excited-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "緊張は「わくわく」に言い換えると力になる？",
+        "body": "本番前のドキドキを「わくわくしてきた」と言い換えると、うまくいく。そんな話が広まっているよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5,638人のデータをまとめた",
+        "body": "ストレスの高ぶりを前向きに捉え直す方法を試したランダム化比較試験の44の結果、5,638人分をまとめた分析があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果はあるけど小さめ",
+        "body": "課題の出来は小さく良くなった（d=0.23）。スピーチなど人前でやる課題では0.34で、筆記の課題の0.20よりやや大きかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本当の効果はもっと小さいかも",
+        "body": "小さな研究ほど効果が大きく出る偏りがあって、補正すると0.14まで下がった。参加者は平均22.6歳で、多くは短期の効果しか見ていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
