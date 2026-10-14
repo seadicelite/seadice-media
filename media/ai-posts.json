@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-era-keep-practicing-art",
+  "category": "創作・著作権",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-15",
+  "title": "AIがあるのに練習する意味があるのか、と描く・書く気がなくなった。研究では、自分で考えて練習した力はAIを外しても残り、作る時間にはストレスの指標が下がる結果も出ていた",
+  "summary": "AIに答えを頼った練習は、AIを外すと成績が17%低い結果でした。作る時間そのものの効果と、練習を続ける工夫を整理します。"
+ },
+ {
   "slug": "ai-chat-overshared-regret",
   "category": "プライバシー・個人情報",
   "type": "guide",
