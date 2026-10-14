@@ -2056,5 +2056,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-nature-break-focus-recovery-research-nature-attention",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Stenfors CUD et al., \"Positive Effects of Nature on Cognitive Performance Across Multiple Experiments: Test Order but Not Affect Modulates the Cognitive Effects\" (Frontiers in Psychology, 2019)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2019.01413",
+    "studyType": "実験（12の実験をまとめた分析）",
+    "articleUrl": "https://research.seadice.win/nature-break-focus-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自然の中を歩くと集中力が戻る？",
+        "body": "「疲れたら公園を散歩するといい」ってよく聞くよね。気分転換になるのはわかるけど、注意力そのものも戻るのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "12の実験・528人をまとめて分析",
+        "body": "アメリカの研究グループが、自然と街中で過ごす前後に、数字を逆の順番で言うテストを受けてもらった実験を、未発表のものも含めて12件まとめたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "上がり幅は0.75点 対 0.29点",
+        "body": "自然の中で過ごした後は、テストの点が平均0.75点上がり、街中の0.29点より大きかった。気分がよくなったことでは、この差はほとんど説明できなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "差は小さく、出ない実験もある",
+        "body": "差は1点に満たず、同じ散歩でも街中と差が出なかったグループもあった。写真や短い散歩では効果が小さめで、どれくらいの時間が必要かもまだわかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
