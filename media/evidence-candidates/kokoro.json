@@ -1730,5 +1730,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-ai-reliance-self-efficacy-prevent-draft-first",
+    "category": "AIと心",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lee EH, Yin Y, Jia N, Wakslak CJ, \"Relying on AI at work reduces self-efficacy, ownership, and meaning while active collaboration mitigates the effects\" (Scientific Reports, 2026)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-026-42312-6",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/ai-reliance-self-efficacy-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIに頼ると自信がなくなる？",
+        "body": "AIに書いてもらうと楽だけど、「自分ひとりだと、もうできないかも」って不安になること、あるよね。使い方で違いはあるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3つの使い方を比べた",
+        "body": "米国の研究チームが269人に仕事の文章を書いてもらったんだ。「AIを使わない」「AIの文章をそのまま使う」「先に自分で下書きしてAIで直す」にランダムに分けて比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "そのまま使うと自信が下がった",
+        "body": "そのまま使った人は「AIなしでもできる」自信が低め（7段階で5.16対5.63）。あとでAIなしで書いても差は残った。先に下書きした人は、AIなしの人と差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く使ったらどうなる？",
+        "body": "1回の短い作業での実験なので、何か月も使い続けたときの変化はわからない。自信は本人の感じ方で、実際の力が落ちたかは別の話なんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

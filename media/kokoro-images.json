@@ -2871,5 +2871,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/White_and_gray_wooden_house.jpg/500px-White_and_gray_wooden_house.jpg",
   "og": "https://mentalai.seadice.win/img/sns-scrolling-comparison-prevent-og.jpg",
   "local": true
+ },
+ "ai-reliance-self-efficacy-prevent": {
+  "file": "File:Wooden staircase steps in the forest of Hallasan Park Eorimok Trail at dusk on Jeju Island in South Korea.jpg",
+  "src": "/img/ai-reliance-self-efficacy-prevent.webp",
+  "src640": "/img/ai-reliance-self-efficacy-prevent-sm.webp",
+  "w": 960,
+  "h": 649,
+  "alt": "霧の森の中へ続く木の階段",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg/960px-Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg/500px-Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-reliance-self-efficacy-prevent-og.jpg",
+  "local": true
  }
 }
