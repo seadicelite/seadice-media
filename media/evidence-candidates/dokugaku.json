@@ -2304,5 +2304,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-reading-comprehension-check-sheet-restudy-choice",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Thiede et al., \"How restudy decisions affect overall comprehension for seventh-grade students\" (British Journal of Educational Psychology, 2017)",
+    "sourceUrl": "https://doi.org/10.1111/bjep.12166",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/reading-comprehension-check-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "読み直す文章、どう選ぶ？",
+        "body": "いくつか文章を読んだ後、1つだけ読み直せるとしたら。自分で選ぶのと、確認テストの点で選ぶのと、どちらが伸びるか比べた研究があるよ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "480人を3つに分けた",
+        "body": "7年生480人を、自分で選ぶ・自分の「わかった度」が一番低いものを読み直す・確認問題の点が一番低いものを読み直す、の3つのグループにランダムに分けた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "テストの点で選ぶと一番伸びた",
+        "body": "理解が一番伸びたのは、確認問題の点で選んだグループ。自分の判定で選んだグループと、自分で選んだグループには差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人の独学でも同じ？",
+        "body": "対象は中学1年生ごろの子ども。大人が長いテキストを独学するときに、同じくらいの差が出るかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

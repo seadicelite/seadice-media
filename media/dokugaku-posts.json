@@ -1,5 +1,13 @@
 [
   {
+    "slug": "reading-comprehension-check-sheet",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-15",
+    "title": "「読んだつもり」を見分ける理解度チェック表。時間をおいてキーワードを書き、読み直す章を決める使い方（理解の見積もりの研究）",
+    "summary": "読んだ直後の「わかった」は当てになりにくい。時間をおいてキーワードを書いてから判定し、読み直す節を決める記録表。"
+  },
+  {
     "slug": "why-exam-stress-blocks-recall",
     "category": "記憶・覚え方",
     "type": "guide",
