@@ -2151,5 +2151,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sunrise_Through_The_Window_%28161173301%29.jpeg/500px-Sunrise_Through_The_Window_%28161173301%29.jpeg",
   "og": "https://research.seadice.win/img/morning-habit-time-of-day-research.jpg",
   "local": true
+ },
+ "teaching-effect-memory-research": {
+  "file": "File:The board.jpg",
+  "src": "/img/teaching-effect-memory-research.jpg",
+  "src640": "/img/teaching-effect-memory-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "黒板の前で説明している様子",
+  "artist": "Yulia Meshkova",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:The_board.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/The_board.jpg/960px-The_board.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/The_board.jpg/500px-The_board.jpg",
+  "og": "https://research.seadice.win/img/teaching-effect-memory-research.jpg",
+  "local": true
  }
 }
