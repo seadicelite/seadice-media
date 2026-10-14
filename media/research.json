@@ -107,6 +107,20 @@
         "habit-replacement-competing-response-research",
         "why-habits-run-on-autopilot-research"
       ]
+    },
+    {
+      "id": "hsp-relationship-check",
+      "name": "HSPナビ",
+      "appStoreId": "6791561869",
+      "icon": "/img/apps/hsp-relationship-check.webp",
+      "catch": "敏感さのセルフチェック、仕事・境界線・感覚過敏のライフハック、人間関係の悩みのAI相談。HSPの家族や同僚に向けた接し方ガイドもある",
+      "hubLead": "敏感で疲れやすい人が、自分の敏感さを知って付き合い方を考えるときに読みたい研究です。HSPは診断名ではなく、誰にでもある敏感さの程度の差だという研究から、音や光のつらさ、ひとりで回復する時間までを扱います。",
+      "theme": "HSP・敏感さ・繊細さ、音や光などの刺激で疲れる、人の気分に振り回される、ひとりで回復する時間。気分全般・ストレス解消法そのものの記事（感情の天気予報の担当）には付けない",
+      "articles": [
+        "hsp-highly-sensitive-person-research",
+        "sensory-overload-self-care-research",
+        "solitude-affective-restoration"
+      ]
     }
   ],
   "toolbox": [
