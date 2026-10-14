@@ -1412,8 +1412,8 @@
  },
  "ai-monitoring-at-work-feel-watched": {
   "file": "File:A computer keyboard and mouse are positioned on a wooden des.jpg",
-  "src": "/img/ai-monitoring-at-work-feel-watched.jpg",
-  "src640": "/img/ai-monitoring-at-work-feel-watched-sm.jpg",
+  "src": "/img/ai-monitoring-at-work-feel-watched.webp",
+  "src640": "/img/ai-monitoring-at-work-feel-watched-sm.webp",
   "w": 960,
   "h": 641,
   "alt": "机の上のキーボードとマウス",
@@ -1422,10 +1422,9 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:A_computer_keyboard_and_mouse_are_positioned_on_a_wooden_des.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_computer_keyboard_and_mouse_are_positioned_on_a_wooden_des.jpg/960px-A_computer_keyboard_and_mouse_are_positioned_on_a_wooden_des.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_computer_keyboard_and_mouse_are_positioned_on_a_wooden_des.jpg/500px-A_computer_keyboard_and_mouse_are_positioned_on_a_wooden_des.jpg",
-  "og": "https://ai.seadice.win/img/ai-monitoring-at-work-feel-watched.jpg",
+  "og": "https://ai.seadice.win/img/ai-monitoring-at-work-feel-watched-og.jpg",
   "local": true
  }
 }
