@@ -1604,5 +1604,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sergey_A._Demidov_-_Sketchbook_Yenot_-_2020_-_Drawing_4.jpg/500px-Sergey_A._Demidov_-_Sketchbook_Yenot_-_2020_-_Drawing_4.jpg",
   "og": "https://ai.seadice.win/img/ai-era-keep-practicing-art.jpg",
   "local": true
+ },
+ "ai-assisted-work-contest-entry": {
+  "file": "File:Wilhelm Amandus Beer - A Sitting Room with a Writing Table - Google Art Project.jpg",
+  "src": "/img/ai-assisted-work-contest-entry.jpg",
+  "src640": "/img/ai-assisted-work-contest-entry-sm.jpg",
+  "w": 960,
+  "h": 736,
+  "alt": "書き物机のある部屋を描いた絵",
+  "artist": "Wilhelm Amandus Beer",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Wilhelm_Amandus_Beer_-_A_Sitting_Room_with_a_Writing_Table_-_Google_Art_Project.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Wilhelm_Amandus_Beer_-_A_Sitting_Room_with_a_Writing_Table_-_Google_Art_Project.jpg/960px-Wilhelm_Amandus_Beer_-_A_Sitting_Room_with_a_Writing_Table_-_Google_Art_Project.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Wilhelm_Amandus_Beer_-_A_Sitting_Room_with_a_Writing_Table_-_Google_Art_Project.jpg/500px-Wilhelm_Amandus_Beer_-_A_Sitting_Room_with_a_Writing_Table_-_Google_Art_Project.jpg",
+  "og": "https://ai.seadice.win/img/ai-assisted-work-contest-entry.jpg",
+  "local": true
  }
 }
