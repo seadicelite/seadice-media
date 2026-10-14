@@ -2036,5 +2036,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-binaural-beats-focus-home-test",
+    "category": "集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Klichowski M, Wicher A, Kruszwicka A, Golebiewski R, \"Reverse effect of home-use binaural beats brain stimulation\" (Scientific Reports, 2023)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-023-38313-4",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/binaural-beats-focus/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "集中できる音、本当に効く？",
+        "body": "左右の耳に少し違う高さの音を流す「バイノーラルビート」。勉強や仕事のおともに聴く人も多いよね。家で聴きながら作業すると、はかどるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "家で920人が試した",
+        "body": "ポーランドの18〜81歳の920人が、家でヘッドホンをつけて図形の推理課題を2回解いた。2回目だけ、無音・クラシック・ただの音・ビートのどれかを聴いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ビートの組だけ下がった",
+        "body": "ビートを聴いた組だけ、正答率が約5〜7ポイント下がった。無音や音楽の組でははっきり変わらず、「頭を助ける音」と説明しても結果は同じだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実験室では逆の結果も",
+        "body": "実験室の研究のまとめでは、中くらいの効果も報告されているよ。課題は図形の推理で、仕事や勉強そのものではないし、何日も聴き続けたときのことは調べていない。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
