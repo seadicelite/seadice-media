@@ -1866,5 +1866,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-learning-new-skill-focus-recover-gaelic",
+    "category": "集中",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bak TH, Long MR, Vega-Mendoza M, Sorace A, \"Novelty, Challenge, and Practice: The Impact of Intensive Language Learning on Attentional Functions\" (PLoS ONE, 2016)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0153485",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/learning-new-skill-focus-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "新しいことを学ぶと頭は冴える？",
+        "body": "大人になってから語学を始めると、頭の切り替えがよくなるって本当？英国でこれを確かめた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1週間のゲール語の集中講座",
+        "body": "18〜78歳の33人が1週間のゲール語の講座（授業は平均14時間ほど）を受けて、講座の前後で注意を切り替える課題の成績を測ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "正答率が59.7%から78.5%に",
+        "body": "講座を受けた人は成績が上がり、何もしなかった人は変わらなかった。9か月後も、週5時間以上続けた8人は全員、講座前より成績がよかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "語学だけの効果とは限らない",
+        "body": "美術などほかの集中講座を受けた人も中間くらい上がっていて、語学との差ははっきりしなかった。参加者はランダムに分けられておらず、追跡できたのも17人だけ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

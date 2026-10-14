@@ -2940,5 +2940,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Starr-100314-2201-Dubautia_menziesii-habit_with_Forest_on_trail_with_early_morning_light_and_clouds-Halemauu_Trail_Haleakala_National_Park-Maui_%2824380909564%29.jpg/500px-thumbnail.jpg",
   "og": "https://mentalai.seadice.win/img/job-loss-health-recover.jpg",
   "local": true
+ },
+ "learning-new-skill-focus-recover": {
+  "file": "File:Toetsen Johannusorgel Heilig Hartkerk Hasselt.jpg",
+  "src": "/img/learning-new-skill-focus-recover.jpg",
+  "src640": "/img/learning-new-skill-focus-recover-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "オルガンの鍵盤",
+  "artist": "LanderBik",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Toetsen_Johannusorgel_Heilig_Hartkerk_Hasselt.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Toetsen_Johannusorgel_Heilig_Hartkerk_Hasselt.jpg/960px-Toetsen_Johannusorgel_Heilig_Hartkerk_Hasselt.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Toetsen_Johannusorgel_Heilig_Hartkerk_Hasselt.jpg/500px-Toetsen_Johannusorgel_Heilig_Hartkerk_Hasselt.jpg",
+  "og": "https://mentalai.seadice.win/img/learning-new-skill-focus-recover.jpg",
+  "local": true
  }
 }
