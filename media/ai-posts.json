@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-written-disinformation-persuasive",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-14",
+  "title": "AIが書いた偽情報は、人が書いたものよりだまされやすい？研究では、見分けはつかず、説得力も人の文章に近かった",
+  "summary": "英米の実験では、AIの文章か人の文章かを当てた割合は50%前後。AIの宣伝記事は本物に近い説得力で、注意書きより具体的な訂正が効いていました。"
+ },
+ {
   "slug": "ai-voice-scam-parent-family-blame",
   "category": "詐欺・なりすまし",
   "type": "guide",

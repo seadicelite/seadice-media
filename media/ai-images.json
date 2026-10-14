@@ -1460,5 +1460,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Turn_table_on_windowsill_%28Unsplash%29.jpg/500px-Turn_table_on_windowsill_%28Unsplash%29.jpg",
   "og": "https://ai.seadice.win/img/ai-voice-scam-parent-family-blame-og.jpg",
   "local": true
+ },
+ "ai-written-disinformation-persuasive": {
+  "file": "File:Metal movable type.jpg",
+  "src": "/img/ai-written-disinformation-persuasive.jpg",
+  "src640": "/img/ai-written-disinformation-persuasive-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "活字の並んだ活版印刷のケース",
+  "artist": "Willi Heidelbach",
+  "license": "CC BY 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Metal_movable_type.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Metal_movable_type.jpg/960px-Metal_movable_type.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Metal_movable_type.jpg/500px-Metal_movable_type.jpg",
+  "og": "https://ai.seadice.win/img/ai-written-disinformation-persuasive.jpg",
+  "local": true
  }
 }
