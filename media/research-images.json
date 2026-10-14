@@ -1859,5 +1859,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colorful_pile_of_dumbbells_at_the_gym.jpg/500px-Colorful_pile_of_dumbbells_at_the_gym.jpg",
   "og": "https://research.seadice.win/img/small-rewards-habit-research.jpg",
   "local": true
+ },
+ "night-awake-get-out-of-bed-stimulus-control-research": {
+  "file": "File:Canopy bed of Khan Pool Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
+  "src": "/img/night-awake-get-out-of-bed-stimulus-control-research.jpg",
+  "src640": "/img/night-awake-get-out-of-bed-stimulus-control-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "天蓋つきのベッドがある寝室",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Canopy_bed_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canopy_bed_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/960px-Canopy_bed_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canopy_bed_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/500px-Canopy_bed_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+  "og": "https://research.seadice.win/img/night-awake-get-out-of-bed-stimulus-control-research.jpg",
+  "local": true
  }
 }

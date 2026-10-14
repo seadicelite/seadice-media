@@ -1784,5 +1784,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-night-awake-get-out-of-bed-stimulus-control-research-cbti-components",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Furukawa et al., \"Components and Delivery Formats of Cognitive Behavioral Therapy for Chronic Insomnia in Adults: A Systematic Review and Component Network Meta-Analysis\" (JAMA Psychiatry, 2024)",
+    "sourceUrl": "https://doi.org/10.1001/jamapsychiatry.2023.5060",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/night-awake-get-out-of-bed-stimulus-control-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "眠れないなら、寝る前の習慣を整えよう？",
+        "body": "眠れないときは、寝る前のカフェインや部屋の明るさなど「睡眠衛生」を整えよう。よく聞くアドバイスだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "241件の試験をまとめた",
+        "body": "不眠の認知行動療法の241件の試験、3万1452人をまとめて、どの要素が効いているかを調べた分析があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効いたのは別の要素だった",
+        "body": "考え方の見直し、睡眠時間の調整、眠れないとき布団を出る方法などが効く要素だった。睡眠衛生の説明は効果にほぼ寄与せず、リラクセーションは逆効果の可能性もあったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "要素の組み合わせの影響",
+        "body": "慢性の不眠の大人の研究で、要素どうしの相互作用は見落としているかもしれないと著者たちも書いている。睡眠衛生が無意味という意味でもないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
