@@ -1900,5 +1900,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-ai-dependence-recovery-course-natural-course",
+    "category": "AIと心",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Konkolÿ Thege B, Woodin EM, Hodgins DC, Williams RJ, \"Natural course of behavioral addictions: a 5-year longitudinal study\" (BMC Psychiatry, 2015)",
+    "sourceUrl": "https://doi.org/10.1186/s12888-015-0383-3",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-dependence-recovery-course/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "のめり込みは一度なったらずっと？",
+        "body": "ネットやゲームに一度のめり込むと、ずっと抜け出せないってよく聞くよね。実際に何年も追いかけた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "カナダの大人4,121人を5年追跡",
+        "body": "2006年から毎年、「のめり込みすぎて、この1年に大きな問題が起きた活動はある？」と聞いて、ネットのチャットやゲーム、買い物などの6つを追ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "7割以上は1年だけだった",
+        "body": "ネットのチャットで困ったと答えた144人のうち、73.6%は5年で1回だけの報告。1年目に答えた62人の困りごとの点数も、平均3.48から5年目は0.73に下がっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIでも同じかは不明",
+        "body": "調査はAIが広まる前で、のめり込みは本人の自己申告。点数の分析は少人数で、10代や治療中の人に当てはまるか、別の行動に移っていないかもわかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

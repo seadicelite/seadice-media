@@ -2958,5 +2958,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Toetsen_Johannusorgel_Heilig_Hartkerk_Hasselt.jpg/500px-Toetsen_Johannusorgel_Heilig_Hartkerk_Hasselt.jpg",
   "og": "https://mentalai.seadice.win/img/learning-new-skill-focus-recover.jpg",
   "local": true
+ },
+ "ai-dependence-recovery-course": {
+  "file": "File:Lake in the Garden of Morning Calm.jpg",
+  "src": "/img/ai-dependence-recovery-course.jpg",
+  "src640": "/img/ai-dependence-recovery-course-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "庭園の静かな池",
+  "artist": "Clément Chevallier",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lake_in_the_Garden_of_Morning_Calm.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lake_in_the_Garden_of_Morning_Calm.jpg/960px-Lake_in_the_Garden_of_Morning_Calm.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lake_in_the_Garden_of_Morning_Calm.jpg/500px-Lake_in_the_Garden_of_Morning_Calm.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-dependence-recovery-course.jpg",
+  "local": true
  }
 }
