@@ -2138,5 +2138,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-ai-answers-differ-confusion-same-question-10x",
+    "category": "AIと心",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Qiu J, Zhou Y, \"Assessing the accuracy and consistency of answers by ChatGPT to questions regarding carbon monoxide poisoning\" (PLoS One, 2024)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0311937",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-answers-differ-confusion/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "同じ質問、同じ答え？",
+        "body": "AIにさっきと同じことを聞いたら、答えが変わっていた。そんな経験ない？じゃあ同じ質問を10回聞いたら、何回同じ答えが返ってくるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "44問を10回ずつ聞いた",
+        "body": "中国の研究者が、一酸化炭素中毒についての医学の選択問題44問を、ChatGPT（GPT-3.5）に英語と中国語で10回ずつ聞いた。2023年12月のことだよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "そろっても正解とは限らない",
+        "body": "英語では24問が10回とも同じ答え、15問は答えが大きく割れた。しかも10回とも同じ答えだった24問のうち9問は、10回とも不正解だったんだ（論文の表から数えた数）。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "今のAIでも同じ？",
+        "body": "調べたのは古い無料版の1つのモデルと、1つの医学の分野だけ。今のAIや、日常のふつうの質問でも同じくらい答えが揺れるかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

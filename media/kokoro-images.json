@@ -3084,5 +3084,23 @@
   "local": true,
   "unconverted": true,
   "alt": "秋の林の中へ続く、草におおわれた一本道"
+ },
+ "ai-answers-differ-confusion": {
+  "file": "File:Wooden Signpost - geograph.org.uk - 6464742.jpg",
+  "src": "/img/ai-answers-differ-confusion.jpg",
+  "src640": "/img/ai-answers-differ-confusion-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "分かれ道に立つ道しるべ",
+  "artist": "Stephen Burton",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Wooden_Signpost_-_geograph.org.uk_-_6464742.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wooden_Signpost_-_geograph.org.uk_-_6464742.jpg/960px-Wooden_Signpost_-_geograph.org.uk_-_6464742.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wooden_Signpost_-_geograph.org.uk_-_6464742.jpg/500px-Wooden_Signpost_-_geograph.org.uk_-_6464742.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-answers-differ-confusion.jpg",
+  "local": true
  }
 }

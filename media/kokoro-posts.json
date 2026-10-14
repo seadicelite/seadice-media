@@ -1,5 +1,14 @@
 [
   {
+    "slug": "ai-answers-differ-confusion",
+    "category": "AIとの付き合い方",
+    "type": "guide",
+    "stage": "対処する",
+    "date": "2026-10-15",
+    "title": "AIに聞くたびに答えが違って、何を信じればいいかわからない。研究では、食い違う情報で混乱した人ほど、助言そのものを「当てにならない」と感じやすかった",
+    "summary": "AIの答えは同じ質問でも揺れる。食い違いで混乱するのは自然な反応で、「違う1点」と「範囲」を区切ると全部疑わずに済む。"
+  },
+  {
     "slug": "upward-comparison-motivation-backfire",
     "category": "比べて落ち込む",
     "type": "guide",
