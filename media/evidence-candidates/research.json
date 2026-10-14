@@ -2566,5 +2566,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-future-self-procrastination-how-research-eft-meta",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rösch SA et al., \"Promoting farsighted decisions via episodic future thinking: A meta-analysis\" (Journal of Experimental Psychology: General, 2022)",
+    "sourceUrl": "https://doi.org/10.1037/xge0001148",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/future-self-procrastination-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "未来を想像すると我慢できる？",
+        "body": "目の前の楽しさに負けそうなとき、未来の自分を思い浮かべるといいって聞くよね。ほんとに選び方は変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "48本の論文をまとめた",
+        "body": "未来の出来事を具体的に想像する練習の実験を集めた分析がある。48本の論文の174の結果を合わせて、すぐの小さな得と後の大きな得、どちらを選ぶかを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "中くらいの効果があった",
+        "body": "想像する練習をすると、後の大きな得を選びやすくなった（g=0.44）。前向きで、鮮明で、目の前の選択に関係する場面を想像したときほど効果が大きかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "先延ばしにも効く？",
+        "body": "測ったのはお金や健康に関わる選択で、作業の先延ばしそのものじゃない。想像の練習で先延ばしが減るかは、まだはっきり確かめられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
