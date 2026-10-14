@@ -1798,5 +1798,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-sleep-debt-extend-bedtime-earlier-bed",
+    "category": "休息",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Stegman AP, Kubicki M, Mallender Z, et al., \"From yawn to dawn: the effects of a sleep extension intervention on objective and subjective dimensions of sleep health in adults with habitual short sleep\" (Sleep Advances, 2026)",
+    "sourceUrl": "https://doi.org/10.1093/sleepadvances/zpag003",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/sleep-debt-extend-bedtime/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "寝不足って取り戻せる？",
+        "body": "毎晩寝るのが遅くて、昼間ずっと眠い。睡眠を増やしたら、本当にラクになるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "寝床の時間を延ばしてみた",
+        "body": "米国の研究チームが、ふだん6.5時間未満しか寝ていない18〜35歳30人に、4週間、毎晩30分ずつ寝床の時間を延ばしてもらったんだ。目標は2時間増やすことだったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "47分増えて眠気が減った",
+        "body": "睡眠は平均5.5時間から6.3時間へ、47分増えた。増えた分の多くは寝る時刻が早まったからで、日中の眠気の点数は8.3から3.4に下がったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "比べる群がない実験",
+        "body": "延ばさなかった人たちと比べていないので、記録をつけたこと自体の影響かもしれない。健康な若者30人だけの、4週間の結果なんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

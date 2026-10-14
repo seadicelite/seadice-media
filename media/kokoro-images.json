@@ -2905,5 +2905,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Calm_At_Dusk_3_%28183661805%29.jpeg/500px-Calm_At_Dusk_3_%28183661805%29.jpeg",
   "og": "https://mentalai.seadice.win/img/breakup-cant-move-on-og.jpg",
   "local": true
+ },
+ "sleep-debt-extend-bedtime": {
+  "file": "File:Door open; empty bed with pillow and side pillow 03.jpg",
+  "src": "/img/sleep-debt-extend-bedtime.webp",
+  "src640": "/img/sleep-debt-extend-bedtime-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "枕が置かれた寝室のベッド",
+  "artist": "Afifa Afrin",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Door_open;_empty_bed_with_pillow_and_side_pillow_03.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Door_open%3B_empty_bed_with_pillow_and_side_pillow_03.jpg/960px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_03.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Door_open%3B_empty_bed_with_pillow_and_side_pillow_03.jpg/500px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_03.jpg",
+  "og": "https://mentalai.seadice.win/img/sleep-debt-extend-bedtime-og.jpg",
+  "local": true
  }
 }
