@@ -2158,5 +2158,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-hard-work-time-of-day-chronotype-research-night-owl-morning",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Facer-Childs ER et al., \"The effects of time of day and chronotype on cognitive and physical performance in healthy volunteers\" (Sports Medicine - Open, 2018)",
+    "sourceUrl": "https://doi.org/10.1186/s40798-018-0162-z",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/hard-work-time-of-day-chronotype-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "難しい仕事は午前中にやるべき？",
+        "body": "「頭が冴えている朝に大事な仕事を」ってよく言うよね。でも朝はぼんやりする人もいる。みんなに当てはまるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "極端な朝型25人と夜型31人",
+        "body": "イギリスの研究グループが、朝8時・午後2時・夜8時の3回、注意力と考える力の検査をしてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "朝8時は朝型が8.4%上",
+        "body": "朝8時の注意力の検査では、朝型の人が夜型の人より8.4%よい成績だった。夜型の人は、朝の注意力が夜より明らかに落ちていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "夜に夜型が勝つかは不明",
+        "body": "夜8時に夜型が頭の検査で朝型を上回る結果は出ていない。参加者は運動をしている若い人が中心で、中間タイプの人も入っていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
