@@ -1913,5 +1913,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Historic_Staircase_at_Youlbury_House.jpg/500px-Historic_Staircase_at_Youlbury_House.jpg",
   "og": "https://research.seadice.win/img/habit-goal-lower-after-missed-days-research.jpg",
   "local": true
+ },
+ "exam-score-low-after-studying-review-strategy-research": {
+  "file": "File:Pencil Sharpener on desk.jpg",
+  "src": "/img/exam-score-low-after-studying-review-strategy-research.jpg",
+  "src640": "/img/exam-score-low-after-studying-review-strategy-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上の鉛筆削りと削りくず",
+  "artist": "Punker1999",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pencil_Sharpener_on_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pencil_Sharpener_on_desk.jpg/960px-Pencil_Sharpener_on_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pencil_Sharpener_on_desk.jpg/500px-Pencil_Sharpener_on_desk.jpg",
+  "og": "https://research.seadice.win/img/exam-score-low-after-studying-review-strategy-research.jpg",
+  "local": true
  }
 }

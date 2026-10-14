@@ -1920,5 +1920,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-exam-score-low-after-studying-review-strategy-research-strategic-resource-use",
+    "category": "記憶・学習",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Chen et al., \"Real-world effectiveness of a social-psychological intervention translated from controlled trials to classrooms\" (npj Science of Learning, 2022)",
+    "sourceUrl": "https://doi.org/10.1038/s41539-022-00135-w",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/exam-score-low-after-studying-review-strategy-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "調べたこと",
+        "title": "試験前に「教材の使い方」を書く",
+        "body": "試験の前に、使う教材とその理由、いつどう使うかを書き出すアプリがある。アメリカの大学で、1万2,065人が自由に使えるようにして成績を追ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "使った人は2.17点高かった",
+        "body": "使った学生は、使わなかった学生より試験の平均点が2.17点（100点満点換算）高かった。入試の点をそろえて比べると1.65点。14クラス中13クラスでプラスだったらしい。"
+      },
+      {
+        "stage": "意外だったこと",
+        "title": "元の実験より効果は小さめ",
+        "body": "もとのランダム化比較試験では成績が3分の1段階上がっていた。大勢に広げると、効果は小さくなったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "使った人がもともと熱心だった？",
+        "body": "使うかどうかは学生が自分で選んでいた。だから、もともと計画的な学生が使っただけ、という可能性は完全には消せないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
