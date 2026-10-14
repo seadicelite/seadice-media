@@ -3066,5 +3066,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/DSC_7598_An_empty_chair_faces_a_wide_open_window_overlooking_green_trees_and_a_clear_sky_-_a_quiet_spot_for_reflection.jpg/500px-DSC_7598_An_empty_chair_faces_a_wide_open_window_overlooking_green_trees_and_a_clear_sky_-_a_quiet_spot_for_reflection.jpg",
   "og": "https://mentalai.seadice.win/img/social-fatigue-after-meeting.jpg",
   "local": true
+ },
+ "upward-comparison-motivation-backfire": {
+  "file": "File:Autumn Forest Path with Tall Trees.jpg",
+  "w": 960,
+  "h": 640,
+  "artist": "Vovogov90",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Autumn_Forest_Path_with_Tall_Trees.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Autumn_Forest_Path_with_Tall_Trees.jpg/960px-Autumn_Forest_Path_with_Tall_Trees.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Autumn_Forest_Path_with_Tall_Trees.jpg/500px-Autumn_Forest_Path_with_Tall_Trees.jpg",
+  "src": "/img/upward-comparison-motivation-backfire.jpg",
+  "src640": "/img/upward-comparison-motivation-backfire-sm.jpg",
+  "og": "https://mentalai.seadice.win/img/upward-comparison-motivation-backfire.jpg",
+  "local": true,
+  "unconverted": true,
+  "alt": "秋の林の中へ続く、草におおわれた一本道"
  }
 }
