@@ -322,5 +322,13 @@
  {
   "slug": "ai-shift-schedule-sudden-changes",
   "date": "2026-10-14"
+ },
+ {
+  "slug": "ai-summary-missed-key-point",
+  "date": "2026-10-14"
+ },
+ {
+  "slug": "ai-learned-wrong-facts-relearn",
+  "date": "2026-10-14"
  }
 ]
