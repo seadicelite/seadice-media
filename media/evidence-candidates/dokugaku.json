@@ -1828,5 +1828,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-ai-research-learn-deeper-how-to-llm-vs-search",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Melumad & Yun, \"Experimental evidence of the effects of large language models versus web search on depth of learning\" (PNAS Nexus, 2025)",
+    "sourceUrl": "https://doi.org/10.1093/pnasnexus/pgaf316",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/ai-research-learn-deeper-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIで調べると、身につく？",
+        "body": "知りたいことをAIに聞けば、数秒できれいなまとめが返ってくるよね。でも、検索して自分で読み比べたときと同じくらい、頭に残るんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ChatGPTとGoogleで比べた",
+        "body": "「友だちに家庭菜園の始め方を教える」課題で、ChatGPTで調べる組とGoogleで調べる組にランダムに分けた実験。7つの実験で合計10,462人が参加したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "まとめで学ぶと、浅くなりがち",
+        "body": "ChatGPTの組は「新しいことを学べた」という評価が低く、書いた助言も短くてありきたりだった。まとめにリンクを付けても差は残って、リンクを開いた人は26%だけだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "試験の点は測っていない",
+        "body": "測ったのは本人の評価や助言の中身で、試験の点や長期の記憶ではないんだ。話題も家庭菜園や健康など身近なものだけ。専門的な内容では結果が違うかもしれないと著者も書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
