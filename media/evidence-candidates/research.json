@@ -1988,5 +1988,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-relaxation-meditation-anxiety-backfire-research-meditation-anxiety",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Goldberg et al., \"Prevalence of meditation-related adverse effects in a population-based sample in the United States\" (Psychotherapy Research, 2022)",
+    "sourceUrl": "https://doi.org/10.1080/10503307.2021.1933646",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/relaxation-meditation-anxiety-backfire-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "瞑想すれば、誰でも落ち着く？",
+        "body": "瞑想はストレスに効く、ってよく聞くよね。でも、やってみたらかえって胸がざわざわした、という人も実は少なくないらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "瞑想経験者434人に聞いた",
+        "body": "アメリカで、瞑想をしたことがある434人に、瞑想に関連した好ましくない体験があったかを細かく尋ねた調査があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "4人に1人が不安を経験",
+        "body": "50.0%が何らかの好ましくない体験を報告し、いちばん多いのは不安で27.0%。生活に支障が出たのは10.6%、1か月以上続く支障は1.2%だった。88.7%は「やってよかった」と答えているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "瞑想のせいかは決められない",
+        "body": "1回のアンケートなので、瞑想が原因かどうかはわからない。回答者は平均より学歴や収入が高めで、白人が多かったという偏りもあるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

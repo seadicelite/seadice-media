@@ -1949,5 +1949,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Handicraft_Wall_Clocks.jpg/500px-Handicraft_Wall_Clocks.jpg",
   "og": "https://research.seadice.win/img/start-time-plan-procrastination-research.jpg",
   "local": true
+ },
+ "relaxation-meditation-anxiety-backfire-research": {
+  "file": "File:Rock formations on a small pebble beach on the southern coastline, Ikaria, Greece julesvernex2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline%2C_Ikaria%2C_Greece_julesvernex2.jpg/960px-Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline%2C_Ikaria%2C_Greece_julesvernex2.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline%2C_Ikaria%2C_Greece_julesvernex2.jpg/500px-Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline%2C_Ikaria%2C_Greece_julesvernex2.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "岩場と小石の静かな海岸",
+  "artist": "Jules Verne Times Two",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline,_Ikaria,_Greece_julesvernex2.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
