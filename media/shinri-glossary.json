@@ -8315,5 +8315,23 @@
     "def": "変率スケジュールとは、強化に必要な反応回数が試行ごとにランダムに変わる強化スケジュールのことです。",
     "slug": "gacha-loot-box-spending",
     "date": "2026-10-13"
+  },
+  {
+    "id": "divergent-thinking",
+    "term": "拡散的思考",
+    "en": "Divergent thinking",
+    "field": "思考・心理学概論",
+    "def": "拡散的思考とは、一つの問いに対して複数の答えや解決策を生み出す思考のことです。",
+    "slug": "",
+    "date": "2026-10-14"
+  },
+  {
+    "id": "convergent-thinking",
+    "term": "収束的思考",
+    "en": "Convergent thinking",
+    "field": "思考・心理学概論",
+    "def": "収束的思考とは、閉じた問題に対して、一つの正しい答えを目指す思考のことです。",
+    "slug": "",
+    "date": "2026-10-14"
   }
 ]
