@@ -1478,5 +1478,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Metal_movable_type.jpg/500px-Metal_movable_type.jpg",
   "og": "https://ai.seadice.win/img/ai-written-disinformation-persuasive.jpg",
   "local": true
+ },
+ "family-group-chat-ai-fake-rules": {
+  "file": "File:Vintage typewriter and rotary phone with stamps displayed on wooden table in a retro setting.jpg",
+  "src": "/img/family-group-chat-ai-fake-rules.jpg",
+  "src640": "/img/family-group-chat-ai-fake-rules-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "木のテーブルに置かれた古いタイプライターとダイヤル式電話",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Vintage_typewriter_and_rotary_phone_with_stamps_displayed_on_wooden_table_in_a_retro_setting.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vintage_typewriter_and_rotary_phone_with_stamps_displayed_on_wooden_table_in_a_retro_setting.jpg/960px-Vintage_typewriter_and_rotary_phone_with_stamps_displayed_on_wooden_table_in_a_retro_setting.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vintage_typewriter_and_rotary_phone_with_stamps_displayed_on_wooden_table_in_a_retro_setting.jpg/500px-Vintage_typewriter_and_rotary_phone_with_stamps_displayed_on_wooden_table_in_a_retro_setting.jpg",
+  "og": "https://ai.seadice.win/img/family-group-chat-ai-fake-rules.jpg",
+  "local": true
  }
 }
