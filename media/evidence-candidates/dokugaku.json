@@ -1862,5 +1862,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-exam-time-allocation-sheet-same-task-estimate",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Thomas & König, \"Knowledge of Previous Tasks: Task Similarity Influences Bias in Task Duration Predictions\" (Frontiers in Psychology, 2018)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2018.00760",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/exam-time-allocation-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "かかる時間、なぜ読み違える？",
+        "body": "「20分あれば終わる」と思った作業が、気づけば1時間。時間の見積もりって、どうすれば当たるようになるんだろう。前回の時間を知っていれば、正確になる？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ作業を1週間あけて2回",
+        "body": "イギリスの大学生が、1週間あけて2回作業をした実験。2回とも同じ文書の修正をした人と、1回目はおもちゃの城づくりをした人で、2回目の見積もりを比べたよ。3つの実験で合計200人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "一度やると読みが当たる",
+        "body": "同じ作業を一度やった人の方が、2回目の見積もりのずれが小さかった。一方で、1回目にかかった正確な時間を教えても、ずれは減らなかったらしい。数字を知るより、やってみることが効くみたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "試験の時間配分では未確認",
+        "body": "実験室での短い作業の結果で、参加者は心理学の学生だけ。試験の大問ごとの時間配分でも同じように当たるようになるかは、まだ確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

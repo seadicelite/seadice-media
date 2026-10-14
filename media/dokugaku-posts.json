@@ -1,5 +1,13 @@
 [
   {
+    "slug": "exam-time-allocation-sheet",
+    "category": "時間・計画",
+    "type": "guide",
+    "date": "2026-10-14",
+    "title": "試験本番の時間配分表と、模試の時間記録表。見積もりのずれと見直しの研究から作った使い方",
+    "summary": "時間の見積もりがずれる研究と見直しの研究から、模試で時間を測って本番の配分を決める表と使い方をまとめました。"
+  },
+  {
     "slug": "ai-research-learn-deeper-how-to",
     "category": "AIと独学",
     "type": "guide",
