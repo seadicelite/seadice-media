@@ -1964,5 +1964,73 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-why-difficult-books-make-you-sleepy-hard-text-mind-wandering",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kahmann et al., \"Mind wandering increases linearly with text difficulty\" (Psychological Research, 2022)",
+    "sourceUrl": "https://doi.org/10.1007/s00426-021-01483-9",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-difficult-books-make-you-sleepy/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "難しい本だと気が散るのはなぜ？",
+        "body": "専門書を読んでいると、いつの間にか別のことを考えてる。難しい文章ほど集中できるはず、という気もするけど、実際はどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5段階の難しさで読んでもらった",
+        "body": "オランダの大学生89人に、易しいものから難しいものまで5段階、計10本の説明文を読んでもらい、途中で「いま何を考えてた？」とたずねた実験だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "難しいほど心が離れた",
+        "body": "全体では38.9%の場面で心が本から離れていた。難しさが1段上がるごとに、心がさまよう見込み（オッズ）は約1.29倍に。興味が持てない文章ほど、さまよいやすかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い読書でも同じ？",
+        "body": "1本3分で前のページに戻れない条件の、大学生の実験。社会人が専門書を何十分も読む場面で同じになるかは不明。難しさと興味の組み合わせの分析は、著者も慎重に読むよう書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-why-difficult-books-make-you-sleepy-ego-depletion-replication",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hagger et al., \"A Multilab Preregistered Replication of the Ego-Depletion Effect\" (Perspectives on Psychological Science, 2016)",
+    "sourceUrl": "https://doi.org/10.1177/1745691616652873",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-difficult-books-make-you-sleepy/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "意志の力は使うと減る？",
+        "body": "頭を使うと「意志の力」が尽きて、次の作業でがんばれなくなる。そんな説を聞いたことがあるよね。自我消耗って呼ばれていて、一時はとても有名だった。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "23の研究室で同じ実験",
+        "body": "同じ手順を事前に決めて、23の研究室・計2,141人でいっせいにくり返した大規模な追試。最初に自制心を使う課題をして、次の課題の成績が落ちるかを見たよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果はほぼゼロ",
+        "body": "まとめると効果の大きさは d＝0.04。95%の信頼区間はゼロをまたいでいて、はっきりした効果は見つからなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ほかの手順なら？",
+        "body": "確かめたのは決まった1つの手順だけ。別のやり方なら効果が出るのかは、この追試だけでは決められない。疲れを感じること自体を否定した研究でもないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

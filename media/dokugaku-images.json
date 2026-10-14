@@ -1891,5 +1891,23 @@
   "og": "https://dokugaku.seadice.win/img/why-study-habit-takes-time-to-form-og.jpg",
   "alt": "机の上に置かれた小さなノートと鉛筆",
   "local": true
+ },
+ "why-difficult-books-make-you-sleepy": {
+  "file": "File:Reading Glasses (Unsplash).jpg",
+  "src": "/img/why-difficult-books-make-you-sleepy.jpg",
+  "src640": "/img/why-difficult-books-make-you-sleepy-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "開いた本の上に置かれた眼鏡",
+  "artist": "James Sutton jamessutton_photography",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Reading_Glasses_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Reading_Glasses_%28Unsplash%29.jpg/960px-Reading_Glasses_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Reading_Glasses_%28Unsplash%29.jpg/500px-Reading_Glasses_%28Unsplash%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-difficult-books-make-you-sleepy.jpg",
+  "local": true
  }
 }
