@@ -2192,5 +2192,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-hangry-hunger-irritability-why-research-hangry-field",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Swami V et al., \"Hangry in the field: An experience sampling study on the impact of hunger on anger, irritability, and affect\" (PLOS ONE, 2022)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0269629",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/hangry-hunger-irritability-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "お腹がすくとイライラする？",
+        "body": "空腹（hungry）と怒り（angry）で「hangry」。よく聞くけど、実験室の外の普段の生活でも本当にそうなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "64人が21日間、1日5回回答",
+        "body": "中央ヨーロッパの64人が、スマホで空腹の強さと怒り・イライラ・楽しさを1日5回答えたんだ。回答は合計9,142回。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "空腹なときほどイライラ",
+        "body": "空腹が強いときほど怒りとイライラが強く、楽しい気分は低かった。性別や年齢、もともとの怒りっぽさを考えに入れても関係は残ったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "空腹が原因とまでは言えない",
+        "body": "自分で答えた気分の関係を見た研究で、空腹が怒りを起こしたとは言い切れない。参加者の8割は女性で、血糖値などは測っていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
