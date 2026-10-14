@@ -2976,5 +2976,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lake_in_the_Garden_of_Morning_Calm.jpg/500px-Lake_in_the_Garden_of_Morning_Calm.jpg",
   "og": "https://mentalai.seadice.win/img/ai-dependence-recovery-course.jpg",
   "local": true
+ },
+ "appearance-comparison-exercise-body-image": {
+  "file": "File:Walking through Kollur misty forest path.jpg",
+  "src": "/img/appearance-comparison-exercise-body-image.jpg",
+  "src640": "/img/appearance-comparison-exercise-body-image-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "霧の森の小道を歩く人の後ろ姿",
+  "artist": "Kaitha Poo Manam",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Walking_through_Kollur_misty_forest_path.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Walking_through_Kollur_misty_forest_path.jpg/960px-Walking_through_Kollur_misty_forest_path.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Walking_through_Kollur_misty_forest_path.jpg/500px-Walking_through_Kollur_misty_forest_path.jpg",
+  "og": "https://mentalai.seadice.win/img/appearance-comparison-exercise-body-image.jpg",
+  "local": true
  }
 }

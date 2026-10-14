@@ -1934,5 +1934,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-appearance-comparison-exercise-body-image-nma",
+    "category": "SNSと比較",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Luo J, Lyu C, Niu J, Lin Z, Shi Y, Ma Z, \"Effects of different exercise types on body image in females: a systematic review and network meta-analysis\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1942447",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/appearance-comparison-exercise-body-image/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "運動すると体を好きになれる？",
+        "body": "見た目を人と比べて、自分の体に自信がなくなることってあるよね。体を動かすと、自分の体の見方は変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "女性1,914人・23件の試験",
+        "body": "4週間以上の運動の効果を、ふだんどおり過ごした人と比べたランダム化比較試験23件をまとめた研究があるんだ。小学生の年代から高齢の女性までが対象。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "有酸素運動やダンスで改善",
+        "body": "有酸素運動（効果量0.61）、ダンス（0.57）、組み合わせた運動（0.39）で、体の受け止め方がよくなっていた。種類どうしの差ははっきりせず、続けやすさで選ぶのがよいらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "効果は大きく見えているかも",
+        "body": "公表されていない研究を補う補正をすると、全体の効果は0.33から0.06に縮んだ。偏りの心配がない試験もなく、見た目を比べて落ち込む人だけを調べた試験でもないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
