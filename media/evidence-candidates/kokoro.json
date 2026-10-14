@@ -1390,5 +1390,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-ai-comfort-feels-empty-empathy-paradox",
+    "category": "AIと心",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wenger JD, Cameron CD, Inzlicht M, \"People choose to receive human empathy despite rating AI empathy higher\" (Communications Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.1038/s44271-025-00387-3",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-comfort-feels-empty/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "慰めてくれるなら、人とAIどっちがいい？",
+        "body": "つらいとき、やさしい言葉をくれる相手を選べるとしたら、人とAI、どっちを選ぶ？AIの言葉、けっこう上手だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "4つの実験で何度も選んでもらった",
+        "body": "米国の研究チームが、合計691人に、つらい場面を思い浮かべてもらい、「人」か「AI」の返事を何度も選んでもらったんだ。自分の実際の悩みで選ぶ実験もあった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "選ぶのは人、評価が高いのはAI",
+        "body": "人の返事が選ばれたのは平均57〜62%の回。なのに、受け取った返事は、AIのほうが「共感的」「わかってもらえた」と評価されていた。研究者はこれを「AIの共感の選択のパラドックス」と呼んでいるよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "家族や友達だとどうなる？",
+        "body": "返事をくれたのは知らない人とAIで、家族や友達の言葉とは比べていないんだ。参加者も英語圏の人で、日本で同じかはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

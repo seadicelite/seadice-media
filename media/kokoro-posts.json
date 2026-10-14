@@ -1,5 +1,14 @@
 [
   {
+    "slug": "ai-comfort-feels-empty",
+    "category": "AIとの付き合い方",
+    "type": "guide",
+    "stage": "対処する",
+    "date": "2026-10-14",
+    "title": "AIに慰めてもらっても、どこか物足りない。4つの実験では、AIの共感の言葉を高く評価した人たちも、選べるときは人からの共感を選んでいた",
+    "summary": "AIの返事は「わかってもらえた」と高く評価されたのに、選べるときは57〜62%で人の返事が選ばれた。物足りなさを人につなげる工夫"
+  },
+  {
     "slug": "ai-faster-but-not-easier",
     "category": "仕事とAIの不安",
     "type": "guide",
