@@ -2328,5 +2328,73 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-far-deadline-procrastination-why-research-discounting-semester",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zhang PY & Ma WJ, \"Temporal discounting predicts procrastination in the real world\" (Scientific Reports, 2024)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-024-65110-4",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/far-deadline-procrastination-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "遠いごほうびだと動けない？",
+        "body": "締め切りが先だと、つい後回しにしちゃうよね。「先のごほうびは小さく感じるから」という説は昔からあるけど、実生活での証拠は乏しかったらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "109日間の課題を毎日記録",
+        "body": "ニューヨーク大学で、学期中に合計7時間の研究参加が必要な学生の進み方を毎日記録。学期後に「少ないお金を今か、多いお金をあとか」を選ぶ課題もやってもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "遠いお金を軽く見る人ほど後回し",
+        "body": "分析した93人では、先のお金を小さく見積もる人ほど作業を学期の後半にずらしていた（r=0.28）。ただ、完了日だけやアンケートでは、はっきりした関連は出なかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "相関で、1つの大学の話",
+        "body": "これは相関で、遠いごほうびを軽く見るから先延ばしするのか、因果はまだわからない。1つの大学の1つの課題での結果なんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-far-deadline-procrastination-why-research-effort-later",
+    "category": "先延ばし",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Le Bouc R & Pessiglione M, \"A neuro-computational account of procrastination behavior\" (Nature Communications, 2022)",
+    "sourceUrl": "https://doi.org/10.1038/s41467-022-33119-w",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/far-deadline-procrastination-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "明日やる方が楽に見えるのはなぜ？",
+        "body": "面倒な書類、「明日やればいいか」って思うよね。でも明日になっても同じくらい面倒なはず。なぜ先の自分なら楽にできる気がするんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "51人に今か明日かを選ばせた",
+        "body": "フランスの研究で、51人に「今やるか明日やるか」を選ぶ課題をしてもらい、一部は脳の活動も測った。さらに10枚の書類を30日以内に返送してもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "苦労だけが大きく割り引かれる",
+        "body": "先延ばしする人ほど、明日やる場合の苦労を大きく割り引いていた。ごほうびはあまり減らないのに苦労だけが減って見えるから、あとが楽に見えるらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数はまだ少なめ",
+        "body": "脳を測ったのは27人で、書類を返さなかった6人は一部の分析から外れている。このくせを変えれば先延ばしが減るかは、まだ確かめられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
