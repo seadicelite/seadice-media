@@ -2043,5 +2043,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Door_open%3B_empty_bed_with_pillow_and_side_pillow_02.jpg/500px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_02.jpg",
   "og": "https://research.seadice.win/img/first-night-effect-sleep-why-research-og.jpg",
   "local": true
+ },
+ "background-talk-distraction-why-research": {
+  "file": "File:Food display case at the counter of French Coffee Shop, Dieppe 2026-05-11.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Food_display_case_at_the_counter_of_French_Coffee_Shop%2C_Dieppe_2026-05-11.jpg/960px-Food_display_case_at_the_counter_of_French_Coffee_Shop%2C_Dieppe_2026-05-11.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Food_display_case_at_the_counter_of_French_Coffee_Shop%2C_Dieppe_2026-05-11.jpg/500px-Food_display_case_at_the_counter_of_French_Coffee_Shop%2C_Dieppe_2026-05-11.jpg",
+  "w": 960,
+  "h": 723,
+  "alt": "カフェのカウンター",
+  "artist": "Andy Li",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Food_display_case_at_the_counter_of_French_Coffee_Shop,_Dieppe_2026-05-11.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

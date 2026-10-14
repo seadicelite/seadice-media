@@ -2260,5 +2260,73 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-background-talk-distraction-why-research-changing-speech",
+    "category": "集中力",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Leist L et al., \"Irrelevant speech impairs serial recall of verbal but not spatial items in children and adults\" (Memory & Cognition, 2023)",
+    "sourceUrl": "https://doi.org/10.3758/s13421-022-01359-2",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/background-talk-distraction-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "話し声があると覚えられないのはなぜ？",
+        "body": "隣で誰かがしゃべっていると、メモした番号がなかなか頭に入らないよね。これは「無関係な話し声の効果」と呼ばれて、長く研究されてきたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大人と小学生で比べた",
+        "body": "ドイツの研究で、大人83人と小学3年生81人に、画面に出た文字や場所の順番を覚えてもらった。そのあいだ、無音・同じ音節のくり返し・次々に変わる音節を流したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "変わり続ける声が邪魔をする",
+        "body": "文字の順番は、音節が次々に変わる声で成績が下がった。大人では同じ音節のくり返しは無音と差がなかったよ。子どもは大人より大きく落ちた。でも場所の順番では、話し声の影響は見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本物の会話ではない",
+        "body": "流したのは意味のない音節で、実際のおしゃべりではない。場所を覚える作業は話し声で下がるとした昔の研究もあり、追試では結果がそろっていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-background-talk-distraction-why-research-own-name-cafe",
+    "category": "集中力",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Brown A et al., \"Neurophysiological Evidence for Semantic Processing of Irrelevant Speech and Own-Name Detection in a Virtual Café\" (Journal of Neuroscience, 2023)",
+    "sourceUrl": "https://doi.org/10.1523/JNEUROSCI.1731-22.2023",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/background-talk-distraction-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "聞いていない声は耳に入らない？",
+        "body": "誰かと話しているとき、周りの声は聞き流しているつもりだよね。でも、騒がしい場所で自分の名前だけ聞こえる「カクテルパーティー効果」という話もあるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "仮想カフェで50人を測った",
+        "body": "仮想現実のカフェで、同じテーブルの人の話を聞いてもらった。そのあいだ奥の店員が注文を読み上げ、ときどき参加者の名前や意味のおかしい単語を混ぜたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "脳は名前を拾っていた",
+        "body": "聞く必要のない店員の声なのに、名前や変な単語が出ると脳波や皮膚の反応がはっきり変わった。脳は注意していない声からも意味を拾っていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本人は気づいていない",
+        "body": "反応は表に出ない「隠れた」もので、視線の動きとは結びついていなかった。仮想空間での50人の実験で、作業の成績がどう変わるかまでは別の話なんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
