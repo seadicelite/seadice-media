@@ -1794,5 +1794,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-exam-study-strategy-three-questions-strategic-resource-use",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Chen et al., \"Strategic Resource Use for Learning: A Self-Administered Intervention That Guides Self-Reflection on Effective Resource Use Enhances Academic Performance\" (Psychological Science, 2017)",
+    "sourceUrl": "https://doi.org/10.1177/0956797617696456",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/exam-study-strategy-three-questions/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "試験勉強、作戦を立ててる？",
+        "body": "試験が近づくと、とりあえずテキストを開いて読み始める人は多いよね。勉強の前に「どう勉強するか」を考えるだけで、結果は変わるんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3つの問いに答えるだけの実験",
+        "body": "大学の統計学の授業で、くじで選ばれた学生が試験前に3つの問いに答えた。「何を使う？」「なぜ役立つ？」「いつ・どこで・どう使う？」。2学期分、計361人の実験だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績が約3分の1段階上がった",
+        "body": "問いに答えた学生は、答えなかった学生より授業の成績が平均3.45ポイントと4.65ポイント高かった。成績の評価でいうと、約3分の1段階分の差らしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どこでも効くとは限らない",
+        "body": "1つの大学の1つの授業での結果なんだ。ハンガリーの大学で261人に試した追試（査読前）では、効果は見られなかった。独学の社会人でも効くかは、まだ確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
