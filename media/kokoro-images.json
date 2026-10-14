@@ -1909,7 +1909,7 @@
   "src640": "/img/low-energy-small-plans-sm.webp",
   "w": 960,
   "h": 640,
-  "alt": "木のテーブルに置かれたコーヒーカップ",
+  "alt": "木のテーブルに置かれたコーヒーカップと新聞",
   "artist": "Artem Beliaikin from Moscow, Russia",
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
@@ -2997,8 +2997,8 @@
  },
  "third-person-self-talk-work-panic": {
   "file": "File:Morning, Lake Bunyonyi (30126874675).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Morning%2C_Lake_Bunyonyi_%2830126874675%29.jpg/960px-Morning%2C_Lake_Bunyonyi_%2830126874675%29.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Morning%2C_Lake_Bunyonyi_%2830126874675%29.jpg/500px-Morning%2C_Lake_Bunyonyi_%2830126874675%29.jpg",
+  "src": "/img/third-person-self-talk-work-panic.jpg",
+  "src640": "/img/third-person-self-talk-work-panic-sm.jpg",
   "w": 960,
   "h": 575,
   "alt": "朝の静かな湖面に映る景色",
@@ -3006,6 +3006,29 @@
   "license": "CC BY-SA 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Morning,_Lake_Bunyonyi_(30126874675).jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Morning%2C_Lake_Bunyonyi_%2830126874675%29.jpg/960px-Morning%2C_Lake_Bunyonyi_%2830126874675%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Morning%2C_Lake_Bunyonyi_%2830126874675%29.jpg/500px-Morning%2C_Lake_Bunyonyi_%2830126874675%29.jpg",
+  "og": "https://mentalai.seadice.win/img/third-person-self-talk-work-panic.jpg",
+  "local": true
+ },
+ "laughter-stress-relief": {
+  "file": "File:Handcraft Vintage Wooden Table (46307576835).jpg",
+  "src": "/img/laughter-stress-relief.jpg",
+  "src640": "/img/laughter-stress-relief-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のテーブルに置かれたコーヒーカップと新聞",
+  "artist": "Markus Spiske from Forchheim, Bavaria Upper Franconia",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Handcraft_Vintage_Wooden_Table_(46307576835).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Handcraft_Vintage_Wooden_Table_%2846307576835%29.jpg/960px-Handcraft_Vintage_Wooden_Table_%2846307576835%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Handcraft_Vintage_Wooden_Table_%2846307576835%29.jpg/500px-Handcraft_Vintage_Wooden_Table_%2846307576835%29.jpg",
+  "og": "https://mentalai.seadice.win/img/laughter-stress-relief.jpg",
+  "local": true
  }
 }

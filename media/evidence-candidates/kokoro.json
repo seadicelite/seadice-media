@@ -2002,5 +2002,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-laughter-stress-relief-cortisol",
+    "category": "ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kramer CK, Leitao CB, \"Laughter as medicine: A systematic review and meta-analysis of interventional studies evaluating the impact of spontaneous laughter on cortisol levels\" (PLoS ONE, 2023)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0286260",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/laughter-stress-relief/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "笑うとストレスが減る？",
+        "body": "「笑いは百薬の長」ってよく言うよね。疲れた日にお笑いの動画を見ると、体の中で本当に何か変わってるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "8件の研究をまとめた",
+        "body": "笑える動画を見る、笑いのセッションに出るなどの研究8件（315人）を集めて、ストレスホルモンのコルチゾールの変化を、笑わなかった組と比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "下がり方が約32%分大きい",
+        "body": "笑ったあと、コルチゾールの下がり方は比べた組より平均で約32%分大きかった。1回だけの研究（9〜60分）に絞っても約37%分だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "研究はまだ小さい",
+        "body": "1件ごとの人数は10〜80人と少なく、研究の質は「中くらい〜低い」。測ったのは主にホルモンで、気持ちの疲れや、続けたときの効果はまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
