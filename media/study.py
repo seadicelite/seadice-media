@@ -82,7 +82,7 @@
   JSが無効でも本文は読め、確認問題は <details> で答えを見られる。
 わたしの学習（/me/、me.js）: 進み具合・連続日数・間違えた問題・覚えた用語・章ごとの進み具合とテストのベストを1ページで見せる。
   記録（localStorage の study:{slug} と check:{slug}:*）をJSONファイルに書き出し・読み込み（置き換え）・消去できる。登録なし・送信なし。"""
-import base64, html, json, re, shutil, sys, tempfile
+import html, json, re, shutil, sys, tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -246,10 +246,8 @@ def css():
 
 
 def favicon():
-    color = CFG.get("theme", {}).get("accent", "#0B6380")
-    svg = (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="{color}"/>'
-           f'<text x="32" y="44" font-size="34" font-family="-apple-system,sans-serif" font-weight="800" text-anchor="middle" fill="#fff">{E(CFG.get("icon", NAME[-1]))}</text></svg>')
-    return f'<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,{base64.b64encode(svg.encode()).decode()}">'
+    import favicon as fav  # メディアと同じピクトグラムのファビコン（media/favicon.py）
+    return fav.tag(OUT, CFG.get("theme", {}).get("accent", "#0B6380"))
 
 
 # ---------------- 学習機能のJS（全サイト共通・外部リクエストなし） ----------------
