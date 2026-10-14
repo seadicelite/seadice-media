@@ -2077,5 +2077,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Notebook_with_pen%2C_August%2C_2019.jpg/500px-Notebook_with_pen%2C_August%2C_2019.jpg",
   "og": "https://dokugaku.seadice.win/img/why-study-methods-differ-icap.jpg",
   "local": true
+ },
+ "study-room-air-temperature-checklist": {
+  "file": "File:2023 Termometr kuchenny.jpg",
+  "src": "/img/study-room-air-temperature-checklist.jpg",
+  "src640": "/img/study-room-air-temperature-checklist-sm.jpg",
+  "w": 960,
+  "h": 387,
+  "alt": "デジタル温度計",
+  "artist": "Jacek Halicki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2023_Termometr_kuchenny.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2023_Termometr_kuchenny.jpg/960px-2023_Termometr_kuchenny.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2023_Termometr_kuchenny.jpg/500px-2023_Termometr_kuchenny.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-room-air-temperature-checklist.jpg",
+  "local": true
  }
 }

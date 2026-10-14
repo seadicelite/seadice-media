@@ -2542,5 +2542,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-study-room-air-temperature-checklist-heatwave",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Cedeño Laurent et al., \"Reduced cognitive function during a heat wave among residents of non-air-conditioned buildings\" (PLOS Medicine, 2018)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pmed.1002605",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/study-room-air-temperature-checklist/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "暑い部屋だと頭は回らない？",
+        "body": "夏の夜、暑い部屋で勉強するとなんだか頭が回らない。気のせいなのか、本当に頭の働きが落ちているのか。熱波の間の大学生を追った研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "冷房のある寮とない寮",
+        "body": "米国ボストン近郊の大学生44人を、熱波の前・最中・後の12日間追ったよ。冷房のない寮の室温は平均26.3℃、冷房のある寮は平均21.4℃。毎日起きてすぐに、短いテストを受けてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "反応が1割以上遅くなった",
+        "body": "熱波の間、冷房のない寮の学生は、色と文字のテストで反応が13.4%、2けたの足し算・引き算で13.3%遅くなった。色と文字のテストは、室温22〜23℃のあたりで一番速かったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1日中そうなのかは不明",
+        "body": "テストは起きてすぐに受けたもので、日中も同じかはわからない。冷房の有無をくじ引きで分けた実験ではなく、対象は若い大学生だけなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

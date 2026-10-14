@@ -209,7 +209,8 @@
      "why-hot-room-hard-to-study"
     ],
     "use": [
-     "study-place-time-log-sheet"
+     "study-place-time-log-sheet",
+     "study-room-air-temperature-checklist"
     ]
    }
   },
