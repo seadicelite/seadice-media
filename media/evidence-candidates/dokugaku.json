@@ -1658,5 +1658,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-study-habit-after-course-ends-megastudy",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Milkman et al., \"Megastudies improve the impact of applied behavioural science\" (Nature, 2021)",
+    "sourceUrl": "https://doi.org/10.1038/s41586-021-04128-4",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/study-habit-after-course-ends/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "後押しが終わっても続く？",
+        "body": "講座やアプリのごほうびがある間は続くのに、終わるとやめてしまう。後押しの効果って、終わった後も残るのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "54通りの後押しを一斉に試した",
+        "body": "米国のジム会員6万1,293人に、研究者30人が考えた54通りの4週間のプログラムを割り当てて、ジムに行く回数をくらべた大規模な実験があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "終わった後も残ったのは8%",
+        "body": "期間中に回数を増やしたのは45%のプログラム。いちばん効いたのは、休んだ後に戻ったら小さなポイントを出す方法だった。でも終了後の4週間も効果が残ったのは8%だけだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強でも同じ？",
+        "body": "これは運動の研究で、勉強の習慣を測ったわけではない。成績のよかった方法ほど偶然で大きく見えている可能性も、著者ら自身が書いている。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
