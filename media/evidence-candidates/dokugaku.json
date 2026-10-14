@@ -2032,5 +2032,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-why-japanese-hard-to-hear-l-and-r-adult-training",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bradlow et al., \"Training Japanese listeners to identify English /r/ and /l/: Long-term retention of learning in perception and production\" (Perception & Psychophysics, 1999)",
+    "sourceUrl": "https://doi.org/10.3758/BF03206911",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-japanese-hard-to-hear-l-and-r/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "大人はもうLとRを聞き分けられない？",
+        "body": "日本人の大人には英語のLとRは聞き分けられない、ってよく言われるよね。子どものころに身につかなかったら、もう手遅れなんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3〜4週間、45回の練習",
+        "body": "海外に住んだことのない京都の大学生11人が、いろいろな話し手の声でLとRを聞き分ける練習を、3〜4週間で計45回（1回20〜30分）やった実験だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "65%から81%へ",
+        "body": "2択の正答率は平均65.1%から81.4%に上がって、3か月後も78.1%だった。練習しなかった組は変わらず、練習した人は発音も「前より良い」と判断されやすくなったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数が少なく、個人差も大きい",
+        "body": "練習した人は11人だけで、3か月後に戻ってきたのは9人。別の研究では、練習後もまちがえ続ける単語が一人ひとりに残った。独学で同じだけ伸びるかもわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

@@ -1909,5 +1909,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Reading_Glasses_%28Unsplash%29.jpg/500px-Reading_Glasses_%28Unsplash%29.jpg",
   "og": "https://dokugaku.seadice.win/img/why-difficult-books-make-you-sleepy.jpg",
   "local": true
+ },
+ "why-japanese-hard-to-hear-l-and-r": {
+  "file": "File:Headphones on desk.jpg",
+  "src": "/img/why-japanese-hard-to-hear-l-and-r.jpg",
+  "src640": "/img/why-japanese-hard-to-hear-l-and-r-sm.jpg",
+  "w": 960,
+  "h": 543,
+  "alt": "机の上のヘッドホン",
+  "artist": "Lirazelf",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Headphones_on_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Headphones_on_desk.jpg/960px-Headphones_on_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Headphones_on_desk.jpg/500px-Headphones_on_desk.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-japanese-hard-to-hear-l-and-r.jpg",
+  "local": true
  }
 }
