@@ -1975,5 +1975,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Inbox_trays.jpg/500px-Inbox_trays.jpg",
   "og": "https://research.seadice.win/img/hsp-highly-sensitive-person-research-og.jpg",
   "local": true
+ },
+ "stressful-period-procrastination-recovery-research": {
+  "file": "File:Paperwork to travel to the Dominican Republic (onboard an aircraft).JPG",
+  "src": "/img/stressful-period-procrastination-recovery-research.webp",
+  "src640": "/img/stressful-period-procrastination-recovery-research-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "書類や道具が置かれた机",
+  "artist": "User:Mattes",
+  "license": "CC BY 2.0 de",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Paperwork_to_travel_to_the_Dominican_Republic_(onboard_an_aircraft).JPG",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Paperwork_to_travel_to_the_Dominican_Republic_%28onboard_an_aircraft%29.JPG/960px-Paperwork_to_travel_to_the_Dominican_Republic_%28onboard_an_aircraft%29.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Paperwork_to_travel_to_the_Dominican_Republic_%28onboard_an_aircraft%29.JPG/500px-Paperwork_to_travel_to_the_Dominican_Republic_%28onboard_an_aircraft%29.JPG",
+  "og": "https://research.seadice.win/img/stressful-period-procrastination-recovery-research-og.jpg",
+  "local": true
  }
 }

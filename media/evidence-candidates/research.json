@@ -2090,5 +2090,73 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-stressful-period-procrastination-recovery-research-depression-direction",
+    "category": "先延ばし",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zhang R et al., \"Directional Asymmetry Without Timescale Dependence: Longitudinal Associations Between Procrastination and Depressive Symptoms\" (Depression and Anxiety, 2026)",
+    "sourceUrl": "https://doi.org/10.1155/da/3056943",
+    "studyType": "観察研究（3つの追跡調査）",
+    "articleUrl": "https://research.seadice.win/stressful-period-procrastination-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "落ち込むから先延ばしする？ その逆？",
+        "body": "気分が沈んでいると何も手につかない。でも先延ばしした後も落ち込むよね。どっちが先なんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生2,490人を3つの間隔で追跡",
+        "body": "中国の研究グループが、大学生を毎日・1か月ごと・半年ごとに追いかけて、先延ばしと落ち込みの症状の順番を調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "先延ばし→落ち込み、が少しだけ",
+        "body": "どの間隔でも、先延ばしはその後の落ち込みの症状をわずかに強めていた（β≈0.04）。逆に、落ち込みが後の先延ばしを増やす影響はほとんど見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "効果はとても小さく、因果も未確定",
+        "body": "観察研究なので原因とは言い切れないし、効果も小さい。著者も「先延ばしを直せば落ち込みも治る」と考えるのは慎重に、と書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-stressful-period-procrastination-recovery-research-self-rated-health",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sirois FM & Monaghan C, \"Procrastination, stress, and self-rated health: A multi-sample meta-analysis\" (British Journal of Health Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.1111/bjhp.70099",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/stressful-period-procrastination-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "先延ばしは体にも悪い？",
+        "body": "「後回しにするとストレスで体調を崩す」って聞くことがあるよね。本当に健康と関係があるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "36の調査・8,603人をまとめた",
+        "body": "先延ばしの研究者Siroisたちが、36のグループのデータをまとめて、先延ばししやすさと「自分の健康をどう感じているか」の関係を分析したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "相関は0.21、ストレスが一部を説明",
+        "body": "先延ばししやすい人ほど、自分の健康をよくないと感じていた（r=0.21）。感じているストレスの影響を除くと関係は弱まったけど、残ったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どっちが原因かは不明",
+        "body": "どれも1回きりの調査なので、先延ばしが体調を悪くしたのか、体調が悪いから先延ばしするのかはわからない。健康も本人の自己評価だよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
