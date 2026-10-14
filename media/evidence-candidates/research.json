@@ -1954,5 +1954,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-start-time-plan-procrastination-research-time-plan",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Milkman et al., \"Using implementation intentions prompts to enhance influenza vaccination rates\" (PNAS, 2011)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.1103170108",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/start-time-plan-procrastination-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "「いつかやる」は、いつまでもやらない",
+        "body": "予定はあるのに後回し、ってよくあるよね。実は「何時にやるか」まで書くだけで、行動が変わるという実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "予防接種の案内に、書く欄をつけた",
+        "body": "アメリカの会社の社員3,272人に、社内の無料インフルエンザ予防接種の案内を送った。一部には「接種する日付」や「日付と時刻」を書く欄をつけたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "時刻まで書くと4.0ポイントアップ",
+        "body": "接種率は、案内だけで33.1%、日付の欄で35.6%、日付と時刻の欄で37.1%。時刻まで書いた人は4.0ポイント高かった。日付だけの差は、はっきりしなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どんな作業でも効くわけじゃない",
+        "body": "男性の多い1つの会社での結果。会場が1日しか開かない職場で効果が大きかった。ジム通いを何回も計画した別の実験では、回数は増えなかったよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

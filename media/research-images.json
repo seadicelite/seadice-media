@@ -1931,5 +1931,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pencil_Sharpener_on_desk.jpg/500px-Pencil_Sharpener_on_desk.jpg",
   "og": "https://research.seadice.win/img/exam-score-low-after-studying-review-strategy-research.jpg",
   "local": true
+ },
+ "start-time-plan-procrastination-research": {
+  "file": "File:Handicraft Wall Clocks.jpg",
+  "src": "/img/start-time-plan-procrastination-research.jpg",
+  "src640": "/img/start-time-plan-procrastination-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "象の飾りがついた手作りの時計",
+  "artist": "Apexjdh",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Handicraft_Wall_Clocks.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Handicraft_Wall_Clocks.jpg/960px-Handicraft_Wall_Clocks.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Handicraft_Wall_Clocks.jpg/500px-Handicraft_Wall_Clocks.jpg",
+  "og": "https://research.seadice.win/img/start-time-plan-procrastination-research.jpg",
+  "local": true
  }
 }
