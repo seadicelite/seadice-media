@@ -1594,5 +1594,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "kokoro-ai-job-worry-adaptability-career-resilience",
+    "category": "仕事",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Chung YW, Im S, Kim JE, Yun JK, \"Artificial intelligence awareness, career resilience, job insecurity and behavioural outcomes\" (Australian Journal of Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.1080/00049530.2025.2559910",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-job-worry-adaptability/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIのニュースで不安になる人、ならない人",
+        "body": "「AIに仕事を取られるかも」と聞いて、すごく不安になる人もいれば、わりと平気な人もいるよね。その違いって何なんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "韓国の会社員209人に3回アンケート",
+        "body": "2024年、韓国の会社員に5週間おきに3回聞いた研究。「AIに置きかえられるかも」という考えと、「変化に合わせられる」という感覚、仕事の不安を調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「合わせられる」感覚が強いと、不安が強まりにくい",
+        "body": "AIに置きかえられるかもと考える人ほど、5週間後の仕事の不安が強かった。でも「変化に合わせられる」と思える人では、その結びつきが弱めだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "その感覚を育てれば効く？",
+        "body": "アンケートで関係を見ただけで、感覚を育てて不安が減るかを試した実験じゃないよ。韓国の会社員で、不安が全体に低めの集団だった点も注意。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
