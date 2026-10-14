@@ -1,5 +1,14 @@
 [
   {
+    "slug": "night-owl-morning-focus",
+    "category": "考える力・集中",
+    "type": "guide",
+    "stage": "予防する",
+    "date": "2026-10-15",
+    "title": "朝は頭が回らず、夜のほうがはかどる。英国の56人の実験では、夜型の人は朝8時の注意の課題で朝型より成績が8.4%低かった",
+    "summary": "頭が働く時間帯は朝型・夜型でずれていた。冴える時間を1週間記録し、考える作業をそこに置くと集中切れを防ぎやすい。"
+  },
+  {
     "slug": "ai-answers-differ-confusion",
     "category": "AIとの付き合い方",
     "type": "guide",

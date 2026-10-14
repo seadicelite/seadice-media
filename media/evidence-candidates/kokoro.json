@@ -2172,5 +2172,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-night-owl-morning-focus-8am-test",
+    "category": "集中",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Facer-Childs ER, Boiling S, Balanos GM, \"The effects of time of day and chronotype on cognitive and physical performance in healthy volunteers\" (Sports Medicine - Open, 2018)",
+    "sourceUrl": "https://doi.org/10.1186/s40798-018-0162-z",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/night-owl-morning-focus/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "朝に頭が回らないのはなぜ？",
+        "body": "朝の会議ではぼんやりするのに、夜になると作業がはかどる。これって怠けてるだけ？それとも、頭が働く時間帯が人によって違うのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "朝型と夜型を3回テスト",
+        "body": "英国の研究者が、朝型25人と夜型31人に、14時・20時・翌朝8時の3回、注意の課題と、ルールを切り替えて答える判断の課題を受けてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "朝8時は夜型が不利",
+        "body": "朝8時、夜型の人は朝型の人より注意の課題で8.4%、判断の課題で5.9%成績が低かった。眠気も夜型の人のほうが強かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "会社員でも同じ？",
+        "body": "参加者は平均21.8歳の56人で、8割以上が運動を習慣にしている人。会社員や中高年の仕事の場面で同じ差が出るかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

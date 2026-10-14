@@ -3102,5 +3102,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wooden_Signpost_-_geograph.org.uk_-_6464742.jpg/500px-Wooden_Signpost_-_geograph.org.uk_-_6464742.jpg",
   "og": "https://mentalai.seadice.win/img/ai-answers-differ-confusion.jpg",
   "local": true
+ },
+ "night-owl-morning-focus": {
+  "file": "File:Wing with morning sunrise sky.jpg",
+  "src": "/img/night-owl-morning-focus.jpg",
+  "src640": "/img/night-owl-morning-focus-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "朝の光に染まる空と飛行機の翼",
+  "artist": "Michael",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Wing_with_morning_sunrise_sky.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wing_with_morning_sunrise_sky.jpg/960px-Wing_with_morning_sunrise_sky.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wing_with_morning_sunrise_sky.jpg/500px-Wing_with_morning_sunrise_sky.jpg",
+  "og": "https://mentalai.seadice.win/img/night-owl-morning-focus.jpg",
+  "local": true
  }
 }
