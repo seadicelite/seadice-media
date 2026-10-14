@@ -2133,5 +2133,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hooded_wall_clock_with_calendar_MET_DP352258.jpg/500px-Hooded_wall_clock_with_calendar_MET_DP352258.jpg",
   "og": "https://research.seadice.win/img/self-imposed-deadline-procrastination-research.jpg",
   "local": true
+ },
+ "morning-habit-time-of-day-research": {
+  "file": "File:Sunrise Through The Window (161173301).jpeg",
+  "src": "/img/morning-habit-time-of-day-research.jpg",
+  "src640": "/img/morning-habit-time-of-day-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "窓から差し込む朝日",
+  "artist": "Michael Zanussi",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunrise_Through_The_Window_(161173301).jpeg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sunrise_Through_The_Window_%28161173301%29.jpeg/960px-Sunrise_Through_The_Window_%28161173301%29.jpeg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sunrise_Through_The_Window_%28161173301%29.jpeg/500px-Sunrise_Through_The_Window_%28161173301%29.jpeg",
+  "og": "https://research.seadice.win/img/morning-habit-time-of-day-research.jpg",
+  "local": true
  }
 }

@@ -2532,5 +2532,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-morning-habit-time-of-day-research-cortisol",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Fournier M et al., \"Effects of circadian cortisol on the development of a health habit\" (Health Psychology, 2017)",
+    "sourceUrl": "https://doi.org/10.1037/hea0000510",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/morning-habit-time-of-day-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "習慣は朝につくるといい？",
+        "body": "新しい習慣は朝にやると身につきやすい、ってよく聞くよね。朝はストレスホルモンのコルチゾールが多くて、それが覚えやすさに関わるという説があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "朝と夜をくじ引きで比べた",
+        "body": "大学生48人に、腰まわりのストレッチを90日間続けてもらった実験がある。くじ引きで「起きてすぐ」と「寝る前」に分けて、毎日どれだけ自動的にできるかを記録したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "朝のほうが早く身につく予測",
+        "body": "曲線から予測すると、朝の組は約106日、夜の組は約154日で「考えずにできる」状態に届くという結果。ストレッチ中のコルチゾールの量が、この差を説明していたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "90日では誰も届いていない",
+        "body": "日数は曲線を先に伸ばした予測で、90日の間にどちらの組も自動化していない。48人・ストレッチ1種類の実験だから、ほかの習慣や大人全般に当てはまるかはまだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
