@@ -935,5 +935,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mycenaean_gold_signet_ring_depicting_a_man_with_a_branch_approaching_a_building_with_a_goat_behind_him_intended_for_sacrifice_1500_BCE_NAM_Athens.jpg/500px-Mycenaean_gold_signet_ring_depicting_a_man_with_a_branch_approaching_a_building_with_a_goat_behind_him_intended_for_sacrifice_1500_BCE_NAM_Athens.jpg",
   "og": "https://tetsugaku.seadice.win/img/plato-ring-of-gyges-og.jpg",
   "local": true
+ },
+ "aristotle-golden-mean": {
+  "file": "File:Aristotele, età adrianea, da modello di Lisippo. Palazzo Altemps -FG.jpg",
+  "src": "/img/aristotle-golden-mean.webp",
+  "src640": "/img/aristotle-golden-mean-sm.webp",
+  "w": 960,
+  "h": 960,
+  "alt": "石で彫られたアリストテレスの胸像",
+  "artist": "Fabrizio Garrisi",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Aristotele,_et%C3%A0_adrianea,_da_modello_di_Lisippo._Palazzo_Altemps_-FG.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Aristotele%2C_et%C3%A0_adrianea%2C_da_modello_di_Lisippo._Palazzo_Altemps_-FG.jpg/960px-Aristotele%2C_et%C3%A0_adrianea%2C_da_modello_di_Lisippo._Palazzo_Altemps_-FG.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Aristotele%2C_et%C3%A0_adrianea%2C_da_modello_di_Lisippo._Palazzo_Altemps_-FG.jpg/500px-Aristotele%2C_et%C3%A0_adrianea%2C_da_modello_di_Lisippo._Palazzo_Altemps_-FG.jpg",
+  "og": "https://tetsugaku.seadice.win/img/aristotle-golden-mean-og.jpg",
+  "local": true
  }
 }
