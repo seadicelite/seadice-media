@@ -1895,5 +1895,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Altes_Theater_Leipzig_Oeser-Vorhang.jpg/500px-Altes_Theater_Leipzig_Oeser-Vorhang.jpg",
   "og": "https://research.seadice.win/img/nervous-before-performance-say-excited-research.jpg",
   "local": true
+ },
+ "habit-goal-lower-after-missed-days-research": {
+  "file": "File:Historic Staircase at Youlbury House.jpg",
+  "src": "/img/habit-goal-lower-after-missed-days-research.jpg",
+  "src640": "/img/habit-goal-lower-after-missed-days-research-sm.jpg",
+  "w": 960,
+  "h": 598,
+  "alt": "林の奥へ下りる石の階段と鷲の像",
+  "artist": "TudorTulok",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Historic_Staircase_at_Youlbury_House.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Historic_Staircase_at_Youlbury_House.jpg/960px-Historic_Staircase_at_Youlbury_House.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Historic_Staircase_at_Youlbury_House.jpg/500px-Historic_Staircase_at_Youlbury_House.jpg",
+  "og": "https://research.seadice.win/img/habit-goal-lower-after-missed-days-research.jpg",
+  "local": true
  }
 }

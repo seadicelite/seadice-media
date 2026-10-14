@@ -185,7 +185,8 @@
         "stuck": [
           "all-or-nothing-diet-slip-research",
           "exercise-habit-lapse-restart-research",
-          "habit-forgetting-reminder-cue-research"
+          "habit-forgetting-reminder-cue-research",
+          "habit-goal-lower-after-missed-days-research"
         ]
       }
     },

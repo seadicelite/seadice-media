@@ -1852,5 +1852,73 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-habit-goal-lower-after-missed-days-research-goal-failure",
+    "category": "習慣",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Höpfner & Keith, \"Goal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their Affective, Motivational, and Behavioral Consequences\" (Frontiers in Psychology, 2021)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2021.704790",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/habit-goal-lower-after-missed-days-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "高い目標に届かないと、どうなる？",
+        "body": "目標は高く具体的なほどいい、ってよく聞くよね。でも届かなかったときの心への影響は、あまり調べられてこなかったんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "わざと届かない難しさにした",
+        "body": "ドイツの研究で86人に高い目標を出し、課題の難しさで「届いた組」と「届かなかった組」を作った。そのあと、次に解く課題を選んでもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "届かなかった人は易しい方へ",
+        "body": "届かなかった45人のうち40人（88.9%）が、ふつうの難しさの課題を選んだ。届いた組は63.4%が難しい課題を選んでいて、気分と自尊心も下がらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回の実験室の話",
+        "body": "調べたのは1回きりのパズル課題。毎日の習慣で失敗が続いたときに同じことが起きるかは、この研究だけではわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-habit-goal-lower-after-missed-days-research-adaptive-goals",
+    "category": "習慣",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Adams et al., \"Adaptive Goals and Reinforcement Timing to Increase Physical Activity in Adults: A Factorial Randomized Trial\" (American Journal of Preventive Medicine, 2022)",
+    "sourceUrl": "https://doi.org/10.1016/j.amepre.2021.09.014",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/habit-goal-lower-after-missed-days-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "目標は一度決めたら下げない？",
+        "body": "目標を下げるのは甘え、と感じる人は多いよね。じゃあ、毎日の実績に合わせて目標を上げ下げしたらどうなるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "512人を1年間追った",
+        "body": "運動不足の18〜60歳の512人を、「1日30分を週5日以上」の固定の目標と、直近9日の記録から1日3〜60分で毎日変わる目標に分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "運動する日が増えやすかった",
+        "body": "毎日変わる目標の組は、少しでも運動した日の増え方が大きかった（オッズ比2.34と1.66）。ただ、運動した分数の伸びは両方の組で差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "アリゾナの、体重多めの人が中心",
+        "body": "1つの地域の研究で、ごほうびの出し方の条件も組み合わせていた。運動以外の習慣でも同じかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
