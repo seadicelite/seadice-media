@@ -60,7 +60,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [寝る前のスマホ・動画は子どもの睡眠にどう影響する？](https://kosodate.seadice.win/bedtime-screen-sleep/): 就寝前のスクリーン利用は睡眠時間を縮め、寝つきを遅らせる関連が複数の研究で確認されています。
 - [子どものスマホルールの作り方。研究でわかっている効果的な決め方](https://kosodate.seadice.win/family-screen-time-rules-research/): 具体的なルールを決めて守らせる関わりが多い家庭は、1年後に推奨時間（1日1時間以内）を守れる見込み（オッズ）が約4倍高くなっていました。
 - [子どもがゲームをやめられない・やめさせると怒る。取り上げる前に決めたい時間と終わり方](https://kosodate.seadice.win/game-cant-stop-time-limit-taking-away/): 取り上げだけで減るという結果はそろっていない。研究では押しつける伝え方の家庭で問題が多い関連。時間は子どもと決め、終わりは1試合などの区切りで約束する。
-- [子どものゲームは1日何時間が普通？小6・中3の約半数が平日2時間以上。全国データと目安の考え方](https://kosodate.seadice.win/game-time-average-elementary-junior-high/): 2024年度の全国調査で平日2時間以上ゲームをする子は小6で48.8%、中3で48.5%。4時間以上は10年で約2倍に。全国一律の目安はなく、睡眠を先に守って家庭で決める。
+- [子どものゲームは1日何時間が普通？小6・中3の約半数が平日2時間以上。全国データと目安の考え方](https://kosodate.seadice.win/game-time-average-elementary-junior-high/): 2024年度の全国調査で平日2時間以上ゲームをする子は小6で48.8%、中3で48.5%。4時間以上も6人に1人ほど。全国一律の目安はなく、睡眠を先に守って家庭で決める。
 - [子どものゲームがやめられない。「ゲーム障害」とはどんな状態？](https://kosodate.seadice.win/gaming-disorder-children-research/): 障害と呼べるのはごく一部で、プレイ時間の長さではなく生活への支障が12か月続くかが目安です。
 - [中学生の反抗期、スマホ制限にどう向き合う？一方的なルールが逆効果になりやすい理由](https://kosodate.seadice.win/junior-high-smartphone-rules-rebellion/): 年齢が上がるほど一方的な制限が逆効果になりやすいと、複数の研究でわかってきました。
 - [子どものスマホ・動画は何時間まで？年齢別の目安をWHOと研究で整理](https://kosodate.seadice.win/kids-screen-time-hours/): 2〜4歳は1日1時間まで、1歳以下はなし（WHO）。小学生以上は寝る前に使わないことが大切です。
@@ -81,7 +81,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [父親の育児参加は子どもの発達にどう影響する？](https://kosodate.seadice.win/father-involvement-child-development/): 父親の育児参加は子どもの社会性の発達やけがの予防と関連。研究でわかっていることを紹介します。
 - [人一倍敏感な子（HSC）・繊細な子への接し方。気質の研究から考える](https://kosodate.seadice.win/highly-sensitive-child-parenting-research/): 音や人混みに疲れやすい敏感な子への接し方。関わり方で変わる影響について研究データで紹介します。
 - [子どもを褒めすぎると自己肯定感が下がる？研究でわかった褒め方の分かれ道](https://kosodate.seadice.win/inflated-praise-self-esteem/): 自己肯定感が低い子ほど大げさな褒め言葉を受けやすく、それが挑戦を避ける方向に働くとわかっています。
-- [日本の子どもは自己肯定感が低いって本当？国際比較の数字と、読むときの注意](https://kosodate.seadice.win/japan-children-self-esteem-international-comparison/): 国の5か国調査で「自分に満足」は日本57.4%、他国72〜76%。差は縮まり、答え方の文化差も研究で指摘されています
+- [日本の子どもは自己肯定感が低いって本当？国際比較の数字と、読むときの注意](https://kosodate.seadice.win/japan-children-self-esteem-international-comparison/): 国の5か国調査（13〜29歳）で「自分に満足」は日本57.4%、他国72〜76%。差は縮まり、答え方の文化差も研究で指摘されています
 - [保育園の登園しぶり・分離不安はいつまで続く？](https://kosodate.seadice.win/nursery-separation-anxiety-how-long/): 毎朝泣いて離れない登園しぶりはいつまで続くのか、研究でわかっている経過の目安と家庭でできることを紹介します。
 - [親のスマホ使用は子どもに影響する？「テクノフェアレンス」とは](https://kosodate.seadice.win/parent-smartphone-technoference-children/): 親が気を取られて関わりが減る「テクノフェアレンス」と子どもの問題行動には小さな関連が。使用量自体との関連は一定していません。
 - [子どもが学校に行きたがらない。不登校のはじまりに親ができることを、国のデータと研究で整理](https://kosodate.seadice.win/school-refusal-first-signs-parents/): 不登校の小中学生は35万3,970人。多いのは「やる気が出ない」「生活リズム」「不安」。体の訴えを受け止め、早めに学校へ相談するのが第一歩。
