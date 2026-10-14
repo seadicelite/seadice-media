@@ -2046,8 +2046,8 @@
  },
  "background-talk-distraction-why-research": {
   "file": "File:Food display case at the counter of French Coffee Shop, Dieppe 2026-05-11.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Food_display_case_at_the_counter_of_French_Coffee_Shop%2C_Dieppe_2026-05-11.jpg/960px-Food_display_case_at_the_counter_of_French_Coffee_Shop%2C_Dieppe_2026-05-11.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Food_display_case_at_the_counter_of_French_Coffee_Shop%2C_Dieppe_2026-05-11.jpg/500px-Food_display_case_at_the_counter_of_French_Coffee_Shop%2C_Dieppe_2026-05-11.jpg",
+  "src": "/img/background-talk-distraction-why-research.jpg",
+  "src640": "/img/background-talk-distraction-why-research-sm.jpg",
   "w": 960,
   "h": 723,
   "alt": "カフェのカウンター",
@@ -2055,12 +2055,17 @@
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Food_display_case_at_the_counter_of_French_Coffee_Shop,_Dieppe_2026-05-11.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Food_display_case_at_the_counter_of_French_Coffee_Shop%2C_Dieppe_2026-05-11.jpg/960px-Food_display_case_at_the_counter_of_French_Coffee_Shop%2C_Dieppe_2026-05-11.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Food_display_case_at_the_counter_of_French_Coffee_Shop%2C_Dieppe_2026-05-11.jpg/500px-Food_display_case_at_the_counter_of_French_Coffee_Shop%2C_Dieppe_2026-05-11.jpg",
+  "og": "https://research.seadice.win/img/background-talk-distraction-why-research.jpg",
+  "local": true
  },
  "far-deadline-procrastination-why-research": {
   "file": "File:Desk calendar 2022 July 11 - 03-53PM.jpeg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Desk_calendar_2022_July_11_-_03-53PM.jpeg/960px-Desk_calendar_2022_July_11_-_03-53PM.jpeg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Desk_calendar_2022_July_11_-_03-53PM.jpeg/500px-Desk_calendar_2022_July_11_-_03-53PM.jpeg",
+  "src": "/img/far-deadline-procrastination-why-research.jpg",
+  "src640": "/img/far-deadline-procrastination-why-research-sm.jpg",
   "w": 960,
   "h": 720,
   "alt": "机の上のカレンダー",
@@ -2068,6 +2073,29 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Desk_calendar_2022_July_11_-_03-53PM.jpeg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Desk_calendar_2022_July_11_-_03-53PM.jpeg/960px-Desk_calendar_2022_July_11_-_03-53PM.jpeg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Desk_calendar_2022_July_11_-_03-53PM.jpeg/500px-Desk_calendar_2022_July_11_-_03-53PM.jpeg",
+  "og": "https://research.seadice.win/img/far-deadline-procrastination-why-research.jpg",
+  "local": true
+ },
+ "suppressing-urges-rebound-why-research": {
+  "file": "File:Piece of chocolate cake on a white plate decorated with chocolate sauce.jpg",
+  "src": "/img/suppressing-urges-rebound-why-research.jpg",
+  "src640": "/img/suppressing-urges-rebound-why-research-sm.jpg",
+  "w": 960,
+  "h": 653,
+  "alt": "皿にのったチョコレートケーキ",
+  "artist": "Daria YakovlevaMinor edits made by Subsidiary account",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg/960px-Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg/500px-Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg",
+  "og": "https://research.seadice.win/img/suppressing-urges-rebound-why-research.jpg",
+  "local": true
  }
 }

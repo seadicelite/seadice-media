@@ -2396,5 +2396,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "research-suppressing-urges-rebound-why-research-chocolate-rebound",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Erskine JA, \"Resistance can be futile: investigating behavioural rebound\" (Appetite, 2008)",
+    "sourceUrl": "https://doi.org/10.1016/j.appet.2007.09.006",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/suppressing-urges-rebound-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "食べたいなら、考えなければいい？",
+        "body": "お菓子をやめたいとき、「チョコのことは考えない」って決めるよね。考えなければ食べたくならない、と思いがち。でも本当にそうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5分間、チョコを考えないようにした",
+        "body": "ダイエット中ではない134人が、5分間チョコを食べることを考えないようにするか、あえて考えるか、自由に話した。そのあと味比べと称して、食べた量をこっそり測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "考えないようにした人ほど食べた",
+        "body": "考えないようにした人は、男女とも、自由に話した人よりチョコを多く食べていた。押さえ込んだ欲求が、行動になって跳ね返ったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "いつも起きるとは限らない",
+        "body": "1回きりの実験室の結果で、あえて考えた男性も多く食べていた。たばこで似た実験をしても跳ね返りが出なかった研究もあり、どんな人に起きやすいかはまだ調べている途中なんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
