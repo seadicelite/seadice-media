@@ -1896,5 +1896,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-why-urge-to-check-phone-while-studying-notification-cost",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Stothart et al., \"The attentional cost of receiving a cell phone notification\" (Journal of Experimental Psychology: Human Perception and Performance, 2015)",
+    "sourceUrl": "https://doi.org/10.1037/xhp0000100",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-urge-to-check-phone-while-studying/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "通知は見なければ平気？",
+        "body": "勉強中にスマホが鳴っても、画面を見なければ集中は保てる。そう思って、通知をそのままにしている人は多いよね。本当に見なければ大丈夫なのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "課題の最中に通知を送った",
+        "body": "集中が必要な注意の課題をしてもらい、その最中に参加者のスマホへ電話やメッセージの通知を送った実験。参加者は課題中、スマホに触れなかったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "鳴るだけで成績が下がった",
+        "body": "通知を受けただけで、課題の成績ははっきり下がった。下がり方は、実際に電話やメッセージをしたときと同じくらいだったらしい。通知が、課題と関係ない考えを呼び起こすためと考えられているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の成果では未確認",
+        "body": "調べたのは実験室の短い注意の課題。何か月も続く勉強で、通知が成績をどれだけ下げるかを直接測ったわけではないよ。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]

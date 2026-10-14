@@ -113,6 +113,7 @@
 - [カフェだと勉強がはかどる気がするのはなぜ？ほどよい雑音と集中の研究（とその限界）](https://dokugaku.seadice.win/why-cafe-noise-feels-focused/): ほどよい雑音はアイデア出しを助けたが、読む作業では話し声が理解を下げた。作業で場所を使い分ける研究。
 - [ながら勉強だと頭に入らないのはなぜ？切り替えのコストと「使いにくい記憶」の研究](https://dokugaku.seadice.win/why-multitasking-hurts-studying/): 作業を切り替えるたびに遅れとミスが出る。気をそらして覚えると応用しにくい知識になる可能性も。研究で理由を整理。
 - [画面で読むと頭に入りにくいのはなぜ？紙と画面の読解研究でわかった「急ぎ読み」と「わかったつもり」](https://dokugaku.seadice.win/why-screen-reading-harder-to-understand/): 54の実験のまとめでは紙の方が理解がよく、差は急ぎ読みと説明文で大きい。原因は読み方と理解の見積もりにある。
+- [勉強中にスマホを見たくなるのはなぜ？通知・退屈・疲れの研究と「スマホ脳」説の弱さ](https://dokugaku.seadice.win/why-urge-to-check-phone-while-studying/): 通知は見なくても注意を乱し、退屈や疲れが強い時ほどスマホに手が伸びやすい。脳が作り変えられる説は根拠が弱い。
 
 ### 時間・計画
 
