@@ -1713,5 +1713,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Apple_Notebooks_2010_%285189174260%29.jpg/500px-Apple_Notebooks_2010_%285189174260%29.jpg",
   "og": "https://dokugaku.seadice.win/img/review-backlog-catch-up.jpg",
   "local": true
+ },
+ "caffeine-sleep-study-reset": {
+  "file": "File:Cup of coffee on café table.jpg",
+  "src": "/img/caffeine-sleep-study-reset.jpg",
+  "src640": "/img/caffeine-sleep-study-reset-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "テーブルに置かれたコーヒーカップ",
+  "artist": "Ssu",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cup_of_coffee_on_caf%C3%A9_table.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cup_of_coffee_on_caf%C3%A9_table.jpg/960px-Cup_of_coffee_on_caf%C3%A9_table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cup_of_coffee_on_caf%C3%A9_table.jpg/500px-Cup_of_coffee_on_caf%C3%A9_table.jpg",
+  "og": "https://dokugaku.seadice.win/img/caffeine-sleep-study-reset.jpg",
+  "local": true
  }
 }

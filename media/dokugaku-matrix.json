@@ -212,7 +212,8 @@
      "nap-for-study-memory"
     ],
     "stuck": [
-     "study-after-sleep-loss-recovery"
+     "study-after-sleep-loss-recovery",
+     "caffeine-sleep-study-reset"
     ],
     "use": [
      "sleep-log-checklist-for-learners"

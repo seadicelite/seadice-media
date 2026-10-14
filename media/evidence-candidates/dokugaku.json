@@ -1624,5 +1624,39 @@
       }
     ],
     "addedAt": "2026-10-14"
+  },
+  {
+    "id": "dokugaku-caffeine-sleep-study-reset-six-hours",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Drake et al., \"Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed\" (Journal of Clinical Sleep Medicine, 2013)",
+    "sourceUrl": "https://doi.org/10.5664/jcsm.3170",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/caffeine-sleep-study-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "夕方のコーヒーなら平気？",
+        "body": "寝る何時間も前のコーヒーなら、もう効き目は切れてるはず。飲んでも普通に眠れるし、って思うよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "寝る0・3・6時間前に飲んでみた",
+        "body": "よく眠れている大人12人に、カフェイン400mgを寝る0・3・6時間前に飲んでもらい、偽の薬の夜と睡眠をくらべた実験があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "6時間前でも1時間以上減った",
+        "body": "機器で測ると、6時間前に飲んだ夜でも睡眠は1時間以上減っていた。でも本人の睡眠日誌では、6時間前の減り方ははっきりした差にならなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "いつもの1杯でも同じ？",
+        "body": "12人と少なく、400mgはコーヒー4杯ほどの多めの量を1回で飲む条件。ふだんの1〜2杯で同じだけ減るかは、この実験だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-14"
   }
 ]
