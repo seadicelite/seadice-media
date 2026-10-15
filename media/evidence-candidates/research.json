@@ -2872,5 +2872,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-mind-map-memory-how-to-use-research-concept-map-artifact",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mayrhofer et al., \"Re-examining the testing effect as a learning strategy: the advantage of retrieval practice over concept mapping as a methodological artifact\" (Frontiers in Psychology, 2023)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2023.1258359",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/mind-map-memory-how-to-use-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "マップを描くより、思い出す練習が勝つ？",
+        "body": "「図にまとめるより、本を閉じて思い出すほうが覚えられる」。2011年の有名な実験から広まった話だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "230人で条件をそろえ直した",
+        "body": "ドイツの大学生230人で同じ実験をやり直した。実は元の実験では、思い出す組だけ文章を覚え直す5分があったんだ。そこで、マップの組にも描いた後の5分を足した。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "5分足すと、差が消えた",
+        "body": "1週間後の正答率は、思い出す組73%、描いた後に5分覚え直した組70%で、はっきりした差はなかった。描いて終わりの組は59%だったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い教科書でも同じ？",
+        "body": "使ったのは短い文章1つで、考えて答える問題は2問だけ。教科書1冊分のような長い範囲でも同じになるかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
