@@ -3018,5 +3018,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-slow-breathing-before-study-anxiety-breathwork",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Fincham et al., \"Effect of breathwork on stress and mental health: A meta-analysis of randomised-controlled trials\" (Scientific Reports, 2023)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-022-27247-y",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/slow-breathing-before-study-anxiety/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "深呼吸すれば落ち着く？",
+        "body": "試験の前に「深呼吸して」とよく言われるよね。でも、呼吸だけで本当にストレスや不安は下がるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "12件のランダム化比較試験をまとめた",
+        "body": "呼吸の練習をする人としない人を比べた12件の実験、大人785人分をまとめたメタ分析があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "下がるけど、効果は小さめ",
+        "body": "練習した人はストレスが小さく下がった（g＝−0.35）。不安もg＝−0.32と同じくらい。効果が出たのはゆっくりした呼吸が中心で、速い呼吸の練習（2件）では差が出なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "研究の質と勉強への効果",
+        "body": "多くの研究は偏りの危険が中くらいで、著者も慎重に見るよう書いている。勉強や試験の成績まで上がるかは、この分析では調べていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-slow-breathing-before-study-anxiety-cyclic-sighing",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Balban et al., \"Brief structured respiration practices enhance mood and reduce physiological arousal\" (Cell Reports Medicine, 2023)",
+    "sourceUrl": "https://doi.org/10.1016/j.xcrm.2022.100895",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/slow-breathing-before-study-anxiety/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "調べたこと",
+        "title": "1日5分、呼吸法と瞑想を比べた",
+        "body": "108人を4つの群に分けて、毎日5分を1か月。3種類の呼吸法と、マインドフルネス瞑想を比べた実験があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "2回吸って長く吐く呼吸で気分が上向いた",
+        "body": "前向きな気分がいちばん上がったのは、2回吸ってから長く吐く呼吸。瞑想との差は統計的に意味のある大きさだったらしい。"
+      },
+      {
+        "stage": "意外だったこと",
+        "title": "不安の下がり方は瞑想と同じくらい",
+        "body": "1回ごとの不安の下がり方は、瞑想（−3.95点）と呼吸法（3つ合わせて−3.03点）で同じくらいだった。呼吸法が不安に特別よく効く、とまでは言えないんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "探索的な研究",
+        "body": "事前登録のない探索的な研究で、何もしない群がない。参加者の多くはアメリカの大学生で、家でどう練習したかも確かめきれていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
