@@ -2206,5 +2206,78 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-ai-help-overconfidence-wrong-advice",
+    "category": "AIと心",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ren S, \"College students' metacognitive awareness of generative-AI reliance: an experimental study of decision confidence and attribution bias\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1926110",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-help-overconfidence/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "AIと解くと賢くなった気がする",
+        "body": "AIに相談しながら問題を解くと、すっきり納得できる感じがするよね。でもその手応え、どこまで自分の力なんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生342人を3組に",
+        "body": "中国の大学生を「AIなし」「ChatGPTに相談」「相談後に3つの問いに答えてから決める」の3組に分けて、論理やグラフ読み取りなど24問を解いてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "自信は上がり、間違いにも乗る",
+        "body": "相談した組は自信が100点満点で76.1点と、AIなしの68.4点より高かった。でもAIの答えが間違っていた問題でも、平均62.4%でその答えに乗っていたらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "3つの問いで39.7%に",
+        "body": "「自分の理由は？」「根拠はどこ？」「何があれば反対する？」に答えた組は、間違いに乗る割合が39.7%に下がった。正答率は下がっていなかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く使うとどうなる？",
+        "body": "1つの大学の学生が短い問題を解いたその場の結果。仕事や長い学習で同じことが起きるかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-ai-help-overconfidence-think-first",
+    "category": "AIと心",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Liu C, Guo J, Gao R, Chen X, Zhu Q, Chang P, \"Borrowed or kept? How self-generation-first and direct-adoption AI workflows shape immediate unaided reasoning\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1910545",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-help-overconfidence/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIで書くと、書く力は落ちる？",
+        "body": "AIに文章を書いてもらうのが当たり前になると、自分で書くときに困らないか心配になるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "659人で書き方を比べた",
+        "body": "意見文を「先に自分の立場と骨組みを書いてからAIに聞く」「AIの文章をほぼそのまま使う」「AIなし」の3組で書き、15〜20分後に全員がAIなしで別の文章を書いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差が出たのは使う順番",
+        "body": "ほぼそのまま使った組は、AIなしで書いた次の文章の論理の評価が、AIを使わなかった組より7点満点で0.38点低かった。先に自分で書いた組は下回らなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "直後の1回だけの話",
+        "body": "測ったのは直後の1回で、差も小さめ。長く続く力の低下かどうかはわからないし、先に書く組は手間も多くて何が効いたかは切り分けられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
