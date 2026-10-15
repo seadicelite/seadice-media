@@ -2721,5 +2721,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-burnout-memory-focus-recover-seven-years",
+    "category": "集中",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Glise K et al., \"Long-term follow-up of residual symptoms in patients treated for stress-related exhaustion\" (BMC Psychology, 2020)",
+    "sourceUrl": "https://doi.org/10.1186/s40359-020-0395-8",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/burnout-memory-focus-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "燃え尽きのあと、頭は戻る？",
+        "body": "ストレスで消耗しきって休んだあと、物忘れや集中しにくさが続くと「もう戻らないのかも」って不安になるよね。何年も追った研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "217人を7年後まで追った",
+        "body": "スウェーデンで燃え尽き（疲弊障害）の治療を受けた217人に、7年後の体調と、残っている症状をたずねたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "96%が「よくなった」",
+        "body": "当時よりよくなったと答えた人は合わせて96%。でも完全に回復したと答えたのは16%で、物忘れが残る人は42%、集中しにくさは36%だった。回復は年単位みたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "年齢の影響は分けられていない",
+        "body": "症状は「ある・ない」の1問ずつで聞いていて、物忘れの一部は年をとったせいかもしれない。追跡に答えなかった人も35%いて、スウェーデンの専門の診療所の話だよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

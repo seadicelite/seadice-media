@@ -3336,5 +3336,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Small_blue_notepad_-_8_x_11_cm_-_D.jpg/500px-Small_blue_notepad_-_8_x_11_cm_-_D.jpg",
   "og": "https://mentalai.seadice.win/img/job-rejection-self-compassion.jpg",
   "local": true
+ },
+ "burnout-memory-focus-recover": {
+  "file": "File:Pencil on notebook.jpg",
+  "src": "/img/burnout-memory-focus-recover.jpg",
+  "src640": "/img/burnout-memory-focus-recover-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ノートの上に置かれた鉛筆",
+  "artist": "WikiGrower1",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pencil_on_notebook.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pencil_on_notebook.jpg/960px-Pencil_on_notebook.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pencil_on_notebook.jpg/500px-Pencil_on_notebook.jpg",
+  "og": "https://mentalai.seadice.win/img/burnout-memory-focus-recover.jpg",
+  "local": true
  }
 }
