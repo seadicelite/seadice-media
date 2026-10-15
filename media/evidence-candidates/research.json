@@ -2906,5 +2906,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-best-possible-self-writing-mood-research-meta",
+    "category": "気分・ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Carrillo et al., \"Effects of the Best Possible Self intervention: A systematic review and meta-analysis\" (PLOS ONE, 2019)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0222386",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/best-possible-self-writing-mood-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "どんな方法？",
+        "title": "「最高の未来の自分」を書く",
+        "body": "頑張った結果、何もかもうまくいった数年後の自分を想像して書く。心理学でよく研究されている、気分を上げるためのワークなんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "29件・2,909人をまとめた",
+        "body": "中立的な文章を書く組などと比べた29件の研究をまとめた分析がある。対象は大学生くらいの若い大人が中心だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "前向きな気分は上がった",
+        "body": "前向きな気分は中くらい（d=0.51）、楽観性は小さめ（d=0.33）に高まった。感謝を書くワークより、気分への効果は大きかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "いやな気分は消える？",
+        "body": "いやな気分やうつ症状が減るかは、はっきりしなかった。3か月より先まで追った研究も3件だけで、効果がどれくらい続くかはまだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
