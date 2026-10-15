@@ -3256,5 +3256,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-study-room-lighting-how-to-bright-light",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lok et al., \"Light, Alertness, and Alerting Effects of White Light: A Literature Overview\" (Journal of Biological Rhythms, 2018)",
+    "sourceUrl": "https://doi.org/10.1177/0748730418796443",
+    "studyType": "レビュー",
+    "articleUrl": "https://dokugaku.seadice.win/study-room-lighting-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "明るい部屋なら頭がさえる？",
+        "body": "「勉強は明るい部屋で」ってよく言うよね。明るい光で目が覚める感じ、たしかにある。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "昼の光の実験19件を整理",
+        "body": "オランダの研究者たちが、昼に白い光の明るさを変えた19件の研究を2018年にまとめたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "眠気は減るけど、成績は分かれる",
+        "body": "眠気の自己評価を測った18件のうち14件で、明るい光の効果が出た。でも注意を保つ課題では10件中5件だけ。判断や切り替えの課題では、悪くなった研究も4件あったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "研究ごとに条件がばらばら",
+        "body": "光の強さや時間、測り方が研究ごとに違って、著者らは昼の効果は「はっきりしない」とまとめている。勉強の成績まで上がるかは、まだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
