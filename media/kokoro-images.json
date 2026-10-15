@@ -3516,5 +3516,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_calm_morning_on_Lake_Superior_%2845031548041%29.jpg/500px-A_calm_morning_on_Lake_Superior_%2845031548041%29.jpg",
   "og": "https://mentalai.seadice.win/img/ai-fear-hesitant-to-use.jpg",
   "local": true
+ },
+ "online-vigilance-always-on": {
+  "file": "File:GX-238 - Glass desk with dual monitors printer and black leather chair atop checkered floor near window with tropical plants.jpg",
+  "src": "/img/online-vigilance-always-on.jpg",
+  "src640": "/img/online-vigilance-always-on-sm.jpg",
+  "w": 960,
+  "h": 637,
+  "alt": "窓辺の机に置かれたパソコンと電話",
+  "artist": "Palm Beach Police Department",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:GX-238_-_Glass_desk_with_dual_monitors_printer_and_black_leather_chair_atop_checkered_floor_near_window_with_tropical_plants.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/GX-238_-_Glass_desk_with_dual_monitors_printer_and_black_leather_chair_atop_checkered_floor_near_window_with_tropical_plants.jpg/960px-GX-238_-_Glass_desk_with_dual_monitors_printer_and_black_leather_chair_atop_checkered_floor_near_window_with_tropical_plants.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/GX-238_-_Glass_desk_with_dual_monitors_printer_and_black_leather_chair_atop_checkered_floor_near_window_with_tropical_plants.jpg/500px-GX-238_-_Glass_desk_with_dual_monitors_printer_and_black_leather_chair_atop_checkered_floor_near_window_with_tropical_plants.jpg",
+  "og": "https://mentalai.seadice.win/img/online-vigilance-always-on.jpg",
+  "local": true
  }
 }

@@ -3095,5 +3095,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "kokoro-online-vigilance-always-on-stress-and-connection",
+    "category": "AIと心",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Reinecke L et al., \"Permanently online and permanently connected: Development and validation of the Online Vigilance Scale\" (PLoS ONE, 2018)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0205384",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/online-vigilance-always-on/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "スマホを置いても新着が気になる",
+        "body": "スマホは伏せてあるのに、新しいメッセージのことが頭から離れない。そんな時ってあるよね。研究ではこれを「オンライン・ビジランス」って呼ぶらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生532人の5日間の日記",
+        "body": "ドイツの大学生532人が、平日5日間、寝る前にその日のストレスを日記で答えたんだ。あわせて「いつもネットのことが気になる度合い」も測ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ストレスとも、つながりとも関連",
+        "body": "気になる度合いが強い人ほどストレスが高め（関連の強さ0.37）。でも同時に、ネットのやりとりで人とのつながりを感じる度合いも高かった（0.38）。悪い面だけじゃないらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どっちが先？",
+        "body": "一度に測った関連なので、気になるからストレスが増えるのか、ストレスがあるから気になるのかはわからない。対象もドイツの大学生だけだよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
