@@ -2449,5 +2449,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-decision-fatigue-real-ego-depletion-36-labs",
+    "category": "休息",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vohs KD, Schmeichel BJ, Lohmann S, Gronau QF, Finley AJ, et al., \"A multisite preregistered paradigmatic test of the ego-depletion effect\" (Psychological Science, 2021)",
+    "sourceUrl": "https://doi.org/10.1177/0956797621989733",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/decision-fatigue-real/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "意志の力は使うと減る？",
+        "body": "がまんや面倒な作業をしたあとは、意志の力が減って次の判断が鈍る。「決断疲れ」のもとになった、よく聞く説だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "36の研究室で同じ実験",
+        "body": "6か国36の研究室が同じ手順で確かめたんだ。面倒な作業をした組としなかった組で、そのあとの粘り強さや判断の課題を比べたよ。分析したのは2,463人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績の差はほぼゼロ",
+        "body": "成績の差はほぼなかった（効果の大きさd=0.06）。でも面倒な作業をした組は、疲れを感じる度合いが少し高かったらしい。疲れは感じても、成績は落ちていなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "一日中の仕事でも同じ？",
+        "body": "実験室の短い課題での結果だから、一日中仕事で決め続けるような場面に当てはまるかはわからない。疲れの感じ方と判断の質の関係もはっきりしていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-decision-fatigue-real-antibiotics-time-of-day",
+    "category": "仕事",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Linder JA, Doctor JN, Friedberg MW, Reyes Nieva H, Birks C, Meeker D, Fox CR, \"Time of day and the decision to prescribe antibiotics\" (JAMA Internal Medicine, 2014)",
+    "sourceUrl": "https://doi.org/10.1001/jamainternmed.2014.5225",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/decision-fatigue-real/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "診察の後半は判断が変わる？",
+        "body": "お医者さんも、診察が続くと疲れてくるはず。じゃあ、時間がたつと判断も変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "21,867回の受診を調べた",
+        "body": "ボストン周辺の23の診療所で、かぜなど呼吸器の感染症の受診21,867回を調べたよ。4時間の診療のうち、何時間目の受診かで比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "4時間目は1.26倍",
+        "body": "抗菌薬を出すオッズは、1時間目に比べて3時間目で1.14倍、4時間目で1.26倍だったらしい。研究者は、決め続けると出さない判断を保ちにくくなる可能性を挙げているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本当に決断疲れのせい？",
+        "body": "記録を見た観察の研究だから、原因は確かめられていない。予約の時刻を診察時刻の代わりに使っていて、ほかの理由が影響した可能性もあると研究者自身が書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

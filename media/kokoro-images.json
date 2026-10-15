@@ -3228,5 +3228,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Woman_sits_by_window_holding_cup_while_watching_rain_fall_outside.jpg/500px-Woman_sits_by_window_holding_cup_while_watching_rain_fall_outside.jpg",
   "og": "https://mentalai.seadice.win/img/ai-chat-attachment-why.jpg",
   "local": true
+ },
+ "decision-fatigue-real": {
+  "file": "File:Gray espresso cup with amaretto.jpg",
+  "src": "/img/decision-fatigue-real.jpg",
+  "src640": "/img/decision-fatigue-real-sm.jpg",
+  "w": 960,
+  "h": 904,
+  "alt": "灰色のカップと小さな焼き菓子",
+  "artist": "Friedrich Haag",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray_espresso_cup_with_amaretto.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gray_espresso_cup_with_amaretto.jpg/960px-Gray_espresso_cup_with_amaretto.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gray_espresso_cup_with_amaretto.jpg/500px-Gray_espresso_cup_with_amaretto.jpg",
+  "og": "https://mentalai.seadice.win/img/decision-fatigue-real.jpg",
+  "local": true
  }
 }
