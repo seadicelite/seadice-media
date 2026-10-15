@@ -2804,5 +2804,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-morning-grogginess-sleep-inertia-focus-recovery-research-light-at-home",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hilditch et al., \"An at-home evaluation of a light intervention to mitigate sleep inertia symptoms\" (Sleep Health, 2024)",
+    "sourceUrl": "https://doi.org/10.1016/j.sleh.2023.07.015",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/morning-grogginess-sleep-inertia-focus-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "起きてすぐ光を浴びれば、頭が冴える？",
+        "body": "寝起きのぼんやりには光がいい、とよく聞くよね。実験室の研究では、起きた後の光でぼんやりが軽くなる結果もあったんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "自宅で光るメガネを試した",
+        "body": "36人に、寝てから45分後に起きてもらい、光るメガネをつけた夜とつけない夜を比べた。同じ人が両方を試すやり方だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「目が覚めた感じ」は上がった",
+        "body": "光のある夜は、目が覚めた感じと元気さの自己評価が上がった。でも反応の速さの検査では、実験室の研究のような改善は見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "朝の目覚めでも同じ？",
+        "body": "夜中に起こされた条件の実験で、人数も36人。朝ふつうに起きたときに、光でどこまで頭が働くようになるかはまだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

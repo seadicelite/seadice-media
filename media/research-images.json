@@ -2259,5 +2259,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sir_Henry%27s_Night_Stand_%284145348386%29.jpg/500px-Sir_Henry%27s_Night_Stand_%284145348386%29.jpg",
   "og": "https://research.seadice.win/img/bad-night-sleep-next-night-recovery-research.jpg",
   "local": true
+ },
+ "morning-grogginess-sleep-inertia-focus-recovery-research": {
+  "file": "File:Woman holding glass of coffee indoors while sitting by the window.jpg",
+  "src": "/img/morning-grogginess-sleep-inertia-focus-recovery-research.jpg",
+  "src640": "/img/morning-grogginess-sleep-inertia-focus-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "窓辺でコーヒーのグラスを持つ手",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_holding_glass_of_coffee_indoors_while_sitting_by_the_window.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Woman_holding_glass_of_coffee_indoors_while_sitting_by_the_window.jpg/960px-Woman_holding_glass_of_coffee_indoors_while_sitting_by_the_window.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Woman_holding_glass_of_coffee_indoors_while_sitting_by_the_window.jpg/500px-Woman_holding_glass_of_coffee_indoors_while_sitting_by_the_window.jpg",
+  "og": "https://research.seadice.win/img/morning-grogginess-sleep-inertia-focus-recovery-research.jpg",
+  "local": true
  }
 }
