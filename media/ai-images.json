@@ -1647,5 +1647,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pencil_on_notebook.jpg/500px-Pencil_on_notebook.jpg",
   "og": "https://ai.seadice.win/img/ai-homework-guilt-relearn-og.jpg",
   "local": true
+ },
+ "teacher-ai-assignment-grading-prepare": {
+  "file": "File:Highlighting pens.jpg",
+  "src": "/img/teacher-ai-assignment-grading-prepare.webp",
+  "src640": "/img/teacher-ai-assignment-grading-prepare-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "紙の上の蛍光ペン",
+  "artist": "Gausanchennai",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Highlighting_pens.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Highlighting_pens.jpg/960px-Highlighting_pens.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Highlighting_pens.jpg/500px-Highlighting_pens.jpg",
+  "og": "https://ai.seadice.win/img/teacher-ai-assignment-grading-prepare-og.jpg",
+  "local": true
  }
 }

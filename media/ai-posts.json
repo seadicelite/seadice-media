@@ -1,5 +1,14 @@
 [
  {
+  "slug": "teacher-ai-assignment-grading-prepare",
+  "category": "子ども・学校",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-15",
+  "title": "生徒がAIを使った課題の採点に迷う。研究では、採点者はAIが書いた答案の94%に気づかず、見抜くより先に「使ってよい範囲」と「評価する過程」を決めて伝えるほうが確か",
+  "summary": "AIを使った課題の採点に迷う先生へ。AIの答案は読んでも判定ツールでも見抜きにくく、使ってよい範囲と過程の評価を先に決めるのが確か。"
+ },
+ {
   "slug": "ai-homework-guilt-relearn",
   "category": "子ども・学校",
   "type": "guide",
