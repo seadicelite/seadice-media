@@ -2502,5 +2502,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Airplane_wing_sky_and_clouds.jpg/500px-Airplane_wing_sky_and_clouds.jpg",
   "og": "https://research.seadice.win/img/jet-lag-recovery-light-timing-research-og.jpg",
   "local": true
+ },
+ "forgotten-words-relearning-savings-research": {
+  "file": "File:Dictionary indents headon.jpg",
+  "src": "/img/forgotten-words-relearning-savings-research.webp",
+  "src640": "/img/forgotten-words-relearning-savings-research-sm.webp",
+  "w": 960,
+  "h": 650,
+  "alt": "辞書",
+  "artist": "Till Niermann",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dictionary_indents_headon.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dictionary_indents_headon.jpg/960px-Dictionary_indents_headon.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dictionary_indents_headon.jpg/500px-Dictionary_indents_headon.jpg",
+  "og": "https://research.seadice.win/img/forgotten-words-relearning-savings-research-og.jpg",
+  "local": true
  }
 }

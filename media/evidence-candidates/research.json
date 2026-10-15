@@ -3450,5 +3450,73 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-forgotten-words-relearning-savings-research-permastore",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bahrick, \"Semantic memory content in permastore: Fifty years of memory for Spanish learned in school\" (Journal of Experimental Psychology: General, 1984)",
+    "sourceUrl": "https://doi.org/10.1037/0096-3445.113.1.1",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/forgotten-words-relearning-savings-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "使わない外国語は、全部忘れる？",
+        "body": "学校で習った外国語、使わないうちに全部消えた気がするよね。本当にそうなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "733人のスペイン語を50年分",
+        "body": "学校でスペイン語を学んだ733人に、読む・思い出す・選ぶテストをした。学んでから最大50年たった人までいたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "3〜6年で減り、その後は残る",
+        "body": "覚えていた量は最初の3〜6年で減ったけど、その後は30年ほどほとんど変わらなかった。使っていなくても、多くの知識が50年後まで残っていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "最初の学び方しだい",
+        "body": "どれだけ残るかは、最初にどれだけしっかり学んだかで予測できた。どんな学び方が長く残る知識を作るのかは、まだ調べる余地があるよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-forgotten-words-relearning-savings-research-relearn",
+    "category": "記憶・学習",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Miendlarzewska et al., \"Reward-enhanced encoding improves relearning of forgotten associations\" (Scientific Reports, 2018)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-018-26929-w",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/forgotten-words-relearning-savings-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "忘れた記憶は、もう消えた？",
+        "body": "思い出せないことって、頭から消えちゃったのかな。それとも、どこかに残っているのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "6週間後にほぼ思い出せない状態",
+        "body": "19人が物の絵と画面の位置の組み合わせを覚えた。6週間後の正答率は21.2%で、当てずっぽうの16.67%に近かったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1回見直すと6割を超えた",
+        "body": "思い出せなかった組み合わせも、1回見直すと正答率は6割を超えた。最初にお金のごほうびがついていた組み合わせは、学び直しがさらに速かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "新しく覚えるのと比べていない",
+        "body": "まったく新しい組み合わせを覚える場合とは比べていないし、人数も19人と少ない。記憶の跡がどれだけ残るのかは、もっと確かめる必要があるよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
