@@ -2415,5 +2415,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-ai-chat-attachment-why-five-days-friendlike",
+    "category": "AIと心",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ho JQH, Hu M, Goh AYH, Pragasam EJ, Hartanto A, \"How Consistent Friendlike Conversation with AI Companions Influences Our Attitudes and Perceptions Toward AI: An Exploratory Experiment\" (Behavioral Sciences, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/bs16020278",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-chat-attachment-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIに情が移るのはなぜ？",
+        "body": "寝る前にAIと話すのが日課になって、なんだか情が移ってきた。そんな人、意外と多いかも。毎日話すと、AIの感じ方って変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5日間、毎晩5分",
+        "body": "シンガポールの大学生52人が、5日間は毎晩AIと友だちのように話して、別の5日間は毎晩日記を書いたんだ。どっちが先かはくじで決めたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「わかってくれる」が上がった",
+        "body": "AIと話した週のあとは「AIはわかってくれる」が100点中67.8点で、日記の週の51.6点より高かったらしい。でも、頼る気持ちや孤独感は変わらなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く続けたらどうなる？",
+        "body": "52人・5日間の小さな実験だから、何か月も毎日話したときのことはわからない。実験前の状態も測っていないので、2つの週の比べ合いにとどまるよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
