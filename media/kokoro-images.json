@@ -3192,5 +3192,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/DFC_5416_Night_skyline_over_Pattaya_city_lights_and_layered_rooftops_glow_under_a_clear_evening_sky.jpg/500px-DFC_5416_Night_skyline_over_Pattaya_city_lights_and_layered_rooftops_glow_under_a_clear_evening_sky.jpg",
   "og": "https://mentalai.seadice.win/img/sunday-night-work-dread.jpg",
   "local": true
+ },
+ "ai-job-worry-sleep-protect": {
+  "file": "File:DZ6 0461 Cozy neatly made hotel room with a king bed soft pillows bedside lamps and calming neutral decor.jpg",
+  "src": "/img/ai-job-worry-sleep-protect.jpg",
+  "src640": "/img/ai-job-worry-sleep-protect-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "枕元のランプとベッド",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DZ6_0461_Cozy_neatly_made_hotel_room_with_a_king_bed_soft_pillows_bedside_lamps_and_calming_neutral_decor.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DZ6_0461_Cozy_neatly_made_hotel_room_with_a_king_bed_soft_pillows_bedside_lamps_and_calming_neutral_decor.jpg/960px-DZ6_0461_Cozy_neatly_made_hotel_room_with_a_king_bed_soft_pillows_bedside_lamps_and_calming_neutral_decor.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DZ6_0461_Cozy_neatly_made_hotel_room_with_a_king_bed_soft_pillows_bedside_lamps_and_calming_neutral_decor.jpg/500px-DZ6_0461_Cozy_neatly_made_hotel_room_with_a_king_bed_soft_pillows_bedside_lamps_and_calming_neutral_decor.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-job-worry-sleep-protect.jpg",
+  "local": true
  }
 }

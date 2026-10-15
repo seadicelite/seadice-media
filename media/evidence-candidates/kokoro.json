@@ -2381,5 +2381,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-ai-job-worry-sleep-protect-presleep-arousal",
+    "category": "仕事とAIの不安",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Min J, Ryu H, Cho SS, Kang MY, \"Association between work stress and sleep disturbances: the mediating role of pre-sleep arousal symptoms\" (Industrial Health, 2025)",
+    "sourceUrl": "https://doi.org/10.2486/indhealth.2024-0158",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-job-worry-sleep-protect/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "仕事の不安で眠れなくなる？",
+        "body": "この先の仕事はどうなるんだろう、と布団の中で考えはじめると止まらない夜、あるよね。仕事の先行き不安って、本当に眠りに響くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "韓国の働く人4,393人",
+        "body": "韓国の研究チームが、働く人4,393人に仕事のストレス、不眠の症状、寝る前に頭や体がどれだけ興奮しているかをまとめて尋ねたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "不眠の症状は約2倍",
+        "body": "仕事を失う不安が強い人の32.2%に不眠の症状があって、強くない人は17.0%。寝る前の考えごとと体の緊張が、その関係の一部を説明していたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どっちが先かは不明",
+        "body": "一度だけの調査だから、不安で眠れないのか、眠れないから不安が強まるのかは区別できない。AIに限った不安を測ったわけでもないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
