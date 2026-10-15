@@ -2366,5 +2366,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rain_on_glass_from_below.jpg/500px-Rain_on_glass_from_below.jpg",
   "og": "https://research.seadice.win/img/rainy-day-low-mood-weather-why-research-og.jpg",
   "local": true
+ },
+ "early-bedtime-cant-sleep-forbidden-zone-why-research": {
+  "file": "File:DSC 8585 Cozy elegant bedroom with a plush king-size bed soft ambient lighting and large sliding glass doors opening onto a shaded outdoor seating area.jpg",
+  "src": "/img/early-bedtime-cant-sleep-forbidden-zone-why-research.jpg",
+  "src640": "/img/early-bedtime-cant-sleep-forbidden-zone-why-research-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "ベッドとランプのある寝室",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DSC_8585_Cozy_elegant_bedroom_with_a_plush_king-size_bed_soft_ambient_lighting_and_large_sliding_glass_doors_opening_onto_a_shaded_outdoor_seating_area.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/DSC_8585_Cozy_elegant_bedroom_with_a_plush_king-size_bed_soft_ambient_lighting_and_large_sliding_glass_doors_opening_onto_a_shaded_outdoor_seating_area.jpg/960px-DSC_8585_Cozy_elegant_bedroom_with_a_plush_king-size_bed_soft_ambient_lighting_and_large_sliding_glass_doors_opening_onto_a_shaded_outdoor_seating_area.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/DSC_8585_Cozy_elegant_bedroom_with_a_plush_king-size_bed_soft_ambient_lighting_and_large_sliding_glass_doors_opening_onto_a_shaded_outdoor_seating_area.jpg/500px-DSC_8585_Cozy_elegant_bedroom_with_a_plush_king-size_bed_soft_ambient_lighting_and_large_sliding_glass_doors_opening_onto_a_shaded_outdoor_seating_area.jpg",
+  "og": "https://research.seadice.win/img/early-bedtime-cant-sleep-forbidden-zone-why-research.jpg",
+  "local": true
  }
 }

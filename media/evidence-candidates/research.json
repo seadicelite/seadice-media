@@ -3076,5 +3076,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-early-bedtime-cant-sleep-forbidden-zone-why-research-teen-forbidden-zone",
+    "category": "睡眠",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Monterastelli et al., \"The forbidden zone for sleep is more robust in adolescents compared to adults\" (Frontiers in Sleep, 2024)",
+    "sourceUrl": "https://doi.org/10.3389/frsle.2023.1304647",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/early-bedtime-cant-sleep-forbidden-zone-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「早く寝なさい」で寝られない10代",
+        "body": "10代に早く寝なさいと言っても、なかなか寝つけないことってあるよね。実は寝る数時間前には、体内時計が「起きていろ」と信号を強める「睡眠禁止帯」があるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2時間起きて2時間横になる",
+        "body": "14〜17歳の44人と30〜45歳の44人に、2時間起きる・2時間暗い部屋で横になるを3日以上くり返してもらい、どの時間帯に眠れるかを比べた研究があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "10代は禁止帯がはっきり",
+        "body": "眠りのホルモン、メラトニンが出はじめる前の2時間で眠れた時間は、10代が平均47.9分、大人が69.1分。10代のほうが夜の早い時間に眠りにくかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "家の寝室でも同じ？",
+        "body": "眠りは腕時計型の機器で推定していて、10代は思春期の後半の人だけ。実験室の特別なスケジュールなので、ふだんの家の生活でどのくらい差が出るかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-early-bedtime-cant-sleep-forbidden-zone-why-research-4h-early",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Revell et al., \"Effects of the selective orexin-2 receptor antagonist JNJ-48816274 on sleep initiated in the circadian wake maintenance zone: a randomised trial\" (Neuropsychopharmacology, 2022)",
+    "sourceUrl": "https://doi.org/10.1038/s41386-021-01175-3",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/early-bedtime-cant-sleep-forbidden-zone-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "明日早いなら早く寝ればいい",
+        "body": "早起きの前の日は、早めに布団に入れば大丈夫って思うよね。でも、ふだんより何時間も早い時刻は、体内時計が「起きていろ」の信号を強めている時間帯らしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "4時間早く消灯してみた",
+        "body": "健康な男性18人に、ふだんより4時間早い時刻に消灯してもらった研究があるよ。睡眠薬の効果を確かめる試験で、ここでは偽薬の夜とふだんの時刻の夜を比べた数字を見てみるね。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "眠りに入るまで約2.5倍",
+        "body": "眠りが続くまでの時間は6.5分から16.1分に、夜中に起きている時間は21.8分から53.7分に増えて、合計の睡眠は444分から396分に減ったんだ。乱れは夜の最初のほうに集中していたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふだんの生活でも同じ？",
+        "body": "薬の試験のための実験室の条件で、対象は男性だけ。女性や、2時間くらい早めるだけのときにどうなるかは、この研究からはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
