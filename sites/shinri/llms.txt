@@ -3,7 +3,7 @@
 > ゼロから学ぶ心理学は、心理学を無料で独学できるサイトです。大学の心理学概論と同じ流れの全16章の無料講座「ゼロから学ぶ心理学入門」、心理学用語辞典、おすすめの無料学習サイトと学ぶ順番を掲載。登録不要。
 
 ゼロから学ぶ心理学はSEADICE(https://seadice.win/)が運営する、心理学を無料で独学できるサイトです。登録不要・無料。
-大学1年生の「心理学概論」と同じ流れの無料講座「ゼロから学ぶ心理学入門」（全16章）と、心理学用語辞典（216語）を掲載しています。
+大学1年生の「心理学概論」と同じ流れの無料講座「ゼロから学ぶ心理学入門」（全16章）と、心理学用語辞典（218語）を掲載しています。
 本文は心理学の原典や大学・学会・公的機関の資料をもとに日本語で独自に書いており、各ページに出典があります。
 
 ## 主要ページ
@@ -72,6 +72,7 @@
   - 8-3 長期記憶の種類。意味記憶・エピソード記憶・手続き記憶: https://shinri.seadice.win/course/long-term-memory-types-semantic-episodic-procedural/
   - 8-4 忘却はなぜ起こるか。エビングハウスの忘却曲線: https://shinri.seadice.win/course/forgetting-ebbinghaus-curve/
   - 8-5 記憶はどのように歪むか。目撃証言と誤情報効果: https://shinri.seadice.win/course/memory-distortion-eyewitness-misinformation-effect/
+  - 8-6 健忘症とは何か。H.M.の症例が示した記憶の仕組み: https://shinri.seadice.win/course/amnesia-case-of-hm/
 - 第9章 発達: 子どもから大人、高齢期までの心の変化。愛着。
   - 9-1 発達心理学は何を研究する学問か: https://shinri.seadice.win/course/development-sensitive-periods/
   - 9-2 子どもの思考はどう育つのか。ピアジェの発達段階説: https://shinri.seadice.win/course/piaget-cognitive-development-stages/
