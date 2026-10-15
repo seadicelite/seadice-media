@@ -729,5 +729,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reading_Glasses_%26_Blueprints_%288096939321%29.jpg/500px-Reading_Glasses_%26_Blueprints_%288096939321%29.jpg",
   "og": "https://oya.seadice.win/img/parent-cataract-vision-falls-driving-og.jpg",
   "local": true
+ },
+ "parent-avoids-night-rain-driving": {
+  "file": "File:Windshield Rain on Freret St.jpg",
+  "src": "/img/parent-avoids-night-rain-driving.webp",
+  "src640": "/img/parent-avoids-night-rain-driving-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "雨粒がついた車のフロントガラス越しの雨の通り",
+  "artist": "Derek Bridges",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Windshield_Rain_on_Freret_St.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Windshield_Rain_on_Freret_St.jpg/960px-Windshield_Rain_on_Freret_St.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Windshield_Rain_on_Freret_St.jpg/500px-Windshield_Rain_on_Freret_St.jpg",
+  "og": "https://oya.seadice.win/img/parent-avoids-night-rain-driving-og.jpg",
+  "local": true
  }
 }
