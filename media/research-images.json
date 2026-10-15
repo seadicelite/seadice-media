@@ -2417,5 +2417,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cup_of_black_tea.JPG/500px-Cup_of_black_tea.JPG",
   "og": "https://research.seadice.win/img/stress-tired-old-habits-why-research-og.jpg",
   "local": true
+ },
+ "quick-chores-first-precrastination-why-research": {
+  "file": "File:Sticky Notes in different colors.jpg",
+  "src": "/img/quick-chores-first-precrastination-why-research.webp",
+  "src640": "/img/quick-chores-first-precrastination-why-research-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "色とりどりの付箋",
+  "artist": "Ramesh NG",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sticky_Notes_in_different_colors.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sticky_Notes_in_different_colors.jpg/960px-Sticky_Notes_in_different_colors.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sticky_Notes_in_different_colors.jpg/500px-Sticky_Notes_in_different_colors.jpg",
+  "og": "https://research.seadice.win/img/quick-chores-first-precrastination-why-research-og.jpg",
+  "local": true
  }
 }

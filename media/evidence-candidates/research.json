@@ -3212,5 +3212,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-quick-chores-first-precrastination-why-research-bucket",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rosenbaum et al., \"Pre-crastination: Hastening subgoal completion at the expense of extra physical effort\" (Psychological Science, 2014)",
+    "sourceUrl": "https://doi.org/10.1177/0956797614532657",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/quick-chores-first-precrastination-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "すぐ終わる用事から片づけたくなる",
+        "body": "大事な作業の前に、つい返信や片づけを済ませたくなることってあるよね。実は人には「早く一区切りつけたい」傾向があるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2つのバケツ、どっちを運ぶ？",
+        "body": "大学生に、通路の左右にあるバケツのどちらかを選んで、通路の端まで運んでもらった実験があるよ。「楽なほうを選んで」と伝えたから、ゴールに近いバケツが選ばれるはずだった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "近いほうを先に取って、長く運んだ",
+        "body": "ところが参加者は、スタートに近いバケツを手に取って、かえって長い距離を運んだんだ。9つの実験から、研究者はこれを「プレクラスティネーション」と名づけ、頭の負担を早く減らしたいためだと考えたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "バケツの話を仕事に当てはめるのは注意",
+        "body": "これはバケツ運びのような体を使う課題での結果。メールや片づけの順番を直接調べたわけではないし、こぼれやすい水を運ぶ実験では前倒しは消えた。日常の仕事でどこまで起きるかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-quick-chores-first-precrastination-why-research-clear-mind",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "VonderHaar et al., \"Task order choices in cognitive and perceptual-motor tasks: The cognitive-load-reduction (CLEAR) hypothesis\" (Attention, Perception, & Psychophysics, 2019)",
+    "sourceUrl": "https://doi.org/10.3758/s13414-019-01754-z",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/quick-chores-first-precrastination-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "頭を使う作業と単純作業、どっちが先？",
+        "body": "考える作業と、手を動かすだけの作業。好きな順番でいいと言われたら、どっちから始める？これを確かめた実験があるよ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "言葉を思いつく課題と箱運び",
+        "body": "122人に、あるカテゴリーの言葉を思いつく課題と、箱を動かす課題を、好きな順番でやってもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "半数が、頭を使う課題を全部先に",
+        "body": "ちょうど半数が、頭を使う課題を全部終えてから箱運びをした。言葉の課題を後回しにするほど、箱運びは遅くなったよ。頭に残るものを先に片づけて「すっきりしたい」という考え方に合う結果なんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "報酬の差がない実験室の話",
+        "body": "どちらの課題にも報酬の差がない条件での結果。大事さが違う仕事や、締め切りがある場面で同じことが起きるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
