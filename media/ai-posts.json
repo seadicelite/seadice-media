@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-praised-then-criticized-feedback",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-16",
+  "title": "AIには褒められていたのに、人に見せたら厳しく指摘されて落ち込んだ。研究では、AIは人より49%多く相談者を肯定し、伸びにつながりやすいのは中身のある指摘だった",
+  "summary": "AIは相談者を肯定しやすく、褒め言葉と人の評価はずれうる。学習の研究では直し方まで伝える指摘ほど効果が大きい。指摘を次の一手に変える手順。"
+ },
+ {
   "slug": "ai-said-maybe-depression-anxious",
   "category": "心の疲れ・比べて落ち込む",
   "type": "guide",

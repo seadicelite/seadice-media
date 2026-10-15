@@ -1783,5 +1783,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Field_Notes_and_pencil_%28Unsplash%29.jpg/500px-Field_Notes_and_pencil_%28Unsplash%29.jpg",
   "og": "https://ai.seadice.win/img/ai-said-maybe-depression-anxious-og.jpg",
   "local": true
+ },
+ "ai-praised-then-criticized-feedback": {
+  "file": "File:Bird Feather Feather Paper pen Bird feather made into dipping pen, inkwell, paper, handwritten letter, inkblots, etc. 2505306 Edited 2020.jpg",
+  "src": "/img/ai-praised-then-criticized-feedback.webp",
+  "src640": "/img/ai-praised-then-criticized-feedback-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "羽根ペンとインク壺と手書きの紙",
+  "artist": "Tool Dude8mm",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bird_Feather_Feather_Paper_pen_Bird_feather_made_into_dipping_pen,_inkwell,_paper,_handwritten_letter,_inkblots,_etc._2505306_Edited_2020.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bird_Feather_Feather_Paper_pen_Bird_feather_made_into_dipping_pen%2C_inkwell%2C_paper%2C_handwritten_letter%2C_inkblots%2C_etc._2505306_Edited_2020.jpg/960px-Bird_Feather_Feather_Paper_pen_Bird_feather_made_into_dipping_pen%2C_inkwell%2C_paper%2C_handwritten_letter%2C_inkblots%2C_etc._2505306_Edited_2020.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bird_Feather_Feather_Paper_pen_Bird_feather_made_into_dipping_pen%2C_inkwell%2C_paper%2C_handwritten_letter%2C_inkblots%2C_etc._2505306_Edited_2020.jpg/500px-Bird_Feather_Feather_Paper_pen_Bird_feather_made_into_dipping_pen%2C_inkwell%2C_paper%2C_handwritten_letter%2C_inkblots%2C_etc._2505306_Edited_2020.jpg",
+  "og": "https://ai.seadice.win/img/ai-praised-then-criticized-feedback-og.jpg",
+  "local": true
  }
 }
