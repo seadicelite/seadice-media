@@ -2434,5 +2434,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sticky_Notes_in_different_colors.jpg/500px-Sticky_Notes_in_different_colors.jpg",
   "og": "https://research.seadice.win/img/quick-chores-first-precrastination-why-research-og.jpg",
   "local": true
+ },
+ "pomodoro-technique-procrastination-research": {
+  "file": "File:Lux Minute Minder timer.jpg",
+  "src": "/img/pomodoro-technique-procrastination-research.webp",
+  "src640": "/img/pomodoro-technique-procrastination-research-sm.webp",
+  "w": 960,
+  "h": 946,
+  "alt": "キッチンタイマー",
+  "artist": "Retro00064",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Lux_Minute_Minder_timer.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lux_Minute_Minder_timer.jpg/960px-Lux_Minute_Minder_timer.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lux_Minute_Minder_timer.jpg/500px-Lux_Minute_Minder_timer.jpg",
+  "og": "https://research.seadice.win/img/pomodoro-technique-procrastination-research-og.jpg",
+  "local": true
  }
 }

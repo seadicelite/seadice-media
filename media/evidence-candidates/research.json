@@ -3280,5 +3280,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-pomodoro-technique-procrastination-research-25-5",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Smits et al., \"Investigating the Effectiveness of Self-Regulated, Pomodoro, and Flowtime Break-Taking Techniques Among Students\" (Behavioral Sciences, 2025)",
+    "sourceUrl": "https://doi.org/10.3390/bs15070861",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/pomodoro-technique-procrastination-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "25分集中・5分休憩ははかどる？",
+        "body": "ポモドーロ・テクニック、よく勧められるよね。25分ごとに5分休むと、好きに休むよりはかどるって本当なのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2時間の自習で3つの休み方を比較",
+        "body": "オランダの心理学部の学生94人を、ポモドーロ、自分で休む、勉強した長さに応じて休憩を延ばす、の3組に分けて、2時間自習してもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "終えた課題の割合はほぼ同じ",
+        "body": "予定した課題を終えた割合は、自分で休む組70.32%、ポモドーロ組69.41%で差はなかった。著者は、どれか1つを特におすすめはできないとまとめているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回きり・学生だけの実験",
+        "body": "1回の自習だけで、93%が女性の学生という偏った集まり。人数も少なめなんだ。何週間も続けたときや、仕事の場面でどうなるかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
