@@ -3129,5 +3129,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "kokoro-conversation-silence-awkward-friends-vs-strangers",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Templeton EM et al., \"Long gaps between turns are awkward for strangers but not for friends\" (Philosophical Transactions of the Royal Society B, 2023)",
+    "sourceUrl": "https://doi.org/10.1098/rstb.2021.0471",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/conversation-silence-awkward/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "会話の沈黙は気まずいサイン？",
+        "body": "話が途切れて数秒の沈黙。「つまらないと思われたかも」って焦るよね。長い沈黙って、やっぱり悪いサインなのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "初対面と友達の会話を比べた",
+        "body": "米国の大学生の初対面の2人組261組と、友達同士の会話65組が10分間話したんだ。2秒を超える「長い間」で、つながりの感じ方がどう動くかを調べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "気まずいのは初対面だけ",
+        "body": "初対面同士だと、長い間でつながりの感じ方が下がった。でも友達同士は長い間のほうが多くて、間に向けてつながりが高まっていたらしい。間には本物の笑いも多かったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日本でも同じ？",
+        "body": "調べたのは米国の1つの大学の学生の、10分間の会話だけ。日本の職場や、オンライン会議の沈黙でも同じかはまだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]

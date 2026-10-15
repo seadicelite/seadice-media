@@ -3534,5 +3534,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/GX-238_-_Glass_desk_with_dual_monitors_printer_and_black_leather_chair_atop_checkered_floor_near_window_with_tropical_plants.jpg/500px-GX-238_-_Glass_desk_with_dual_monitors_printer_and_black_leather_chair_atop_checkered_floor_near_window_with_tropical_plants.jpg",
   "og": "https://mentalai.seadice.win/img/online-vigilance-always-on.jpg",
   "local": true
+ },
+ "conversation-silence-awkward": {
+  "file": "File:EatNGeekCafeLuna3July2008.jpg",
+  "src": "/img/conversation-silence-awkward.jpg",
+  "src640": "/img/conversation-silence-awkward-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "カフェのテーブルに置かれた飲み物と軽食",
+  "artist": "Infrogmation of New Orleans",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:EatNGeekCafeLuna3July2008.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/EatNGeekCafeLuna3July2008.jpg/960px-EatNGeekCafeLuna3July2008.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/EatNGeekCafeLuna3July2008.jpg/500px-EatNGeekCafeLuna3July2008.jpg",
+  "og": "https://mentalai.seadice.win/img/conversation-silence-awkward.jpg",
+  "local": true
  }
 }
