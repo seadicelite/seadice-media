@@ -3303,8 +3303,8 @@
  },
  "new-group-slow-to-bond": {
   "file": "File:Nabucco, score, 2014.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nabucco%2C_score%2C_2014.jpg/960px-Nabucco%2C_score%2C_2014.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nabucco%2C_score%2C_2014.jpg/500px-Nabucco%2C_score%2C_2014.jpg",
+  "src": "/img/new-group-slow-to-bond.jpg",
+  "src640": "/img/new-group-slow-to-bond-sm.jpg",
   "w": 960,
   "h": 638,
   "alt": "写真",
@@ -3312,6 +3312,29 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Nabucco,_score,_2014.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nabucco%2C_score%2C_2014.jpg/960px-Nabucco%2C_score%2C_2014.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nabucco%2C_score%2C_2014.jpg/500px-Nabucco%2C_score%2C_2014.jpg",
+  "og": "https://mentalai.seadice.win/img/new-group-slow-to-bond.jpg",
+  "local": true
+ },
+ "job-rejection-self-compassion": {
+  "file": "File:Small blue notepad - 8 x 11 cm - D.jpg",
+  "src": "/img/job-rejection-self-compassion.jpg",
+  "src640": "/img/job-rejection-self-compassion-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上のノートとペン",
+  "artist": "Fructibus",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Small_blue_notepad_-_8_x_11_cm_-_D.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Small_blue_notepad_-_8_x_11_cm_-_D.jpg/960px-Small_blue_notepad_-_8_x_11_cm_-_D.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Small_blue_notepad_-_8_x_11_cm_-_D.jpg/500px-Small_blue_notepad_-_8_x_11_cm_-_D.jpg",
+  "og": "https://mentalai.seadice.win/img/job-rejection-self-compassion.jpg",
+  "local": true
  }
 }

@@ -2687,5 +2687,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-job-rejection-self-compassion-writing",
+    "category": "仕事",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kreemers LM et al., \"Testing a Self-Compassion Intervention Among Job Seekers: Self-Compassion Beneficially Impacts Affect Through Reduced Self-Criticism\" (Frontiers in Psychology, 2020)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2020.01371",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/job-rejection-self-compassion/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よくある悩み",
+        "title": "不採用が続くと自分を責めちゃう",
+        "body": "仕事探しで断られ続けると、「自分には価値がないのかも」って思っちゃうよね。そんなときの振り返り方を試した研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "求職者180人に書いてもらった",
+        "body": "オランダの求職者に、いちばんつらかった出来事を書いてもらい、半分には「ほかの人も同じ経験をしている」「友だちに話すように自分に書く」「気持ちは一時的と距離を置く」の3つで振り返ってもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "直後の落ち込みが軽くなった",
+        "body": "3つの問いで書いた人は、自由に書いた人より、直後の沈んだ気分が低く、落ち着きが高かった。自分を責める気持ちが減ったことが一部関わっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1週間で差は消えた",
+        "body": "効果は小さく、1週間後には差がなくなっていた。書くのは1回だけで、就職できたかも調べていないよ。くり返すとどうなるかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
