@@ -1732,5 +1732,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Feeringbury_Manor_Thakeham_Bench_Lutyens_Bench%2C_Feering_Essex_England.jpg/500px-Feeringbury_Manor_Thakeham_Bench_Lutyens_Bench%2C_Feering_Essex_England.jpg",
   "og": "https://ai.seadice.win/img/ai-involuntary-retirement-rebuild-og.jpg",
   "local": true
+ },
+ "ai-unfamiliar-field-explanation-overtrust": {
+  "file": "File:Purple reading glasses are placed on an open book showcasing detailed definitions and text.jpg",
+  "src": "/img/ai-unfamiliar-field-explanation-overtrust.jpg",
+  "src640": "/img/ai-unfamiliar-field-explanation-overtrust-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "開いた本と眼鏡",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg/960px-Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg/500px-Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg",
+  "og": "https://ai.seadice.win/img/ai-unfamiliar-field-explanation-overtrust.jpg",
+  "local": true
  }
 }
