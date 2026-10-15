@@ -2736,5 +2736,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-bad-night-sleep-next-night-recovery-research-acute-insomnia-recovery",
+    "category": "睡眠",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Perlis et al., \"The Natural History of Insomnia: the incidence of acute insomnia and subsequent progression to chronic insomnia or recovery in good sleeper subjects\" (Sleep, 2020)",
+    "sourceUrl": "https://doi.org/10.1093/sleep/zsz299",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/bad-night-sleep-next-night-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "眠れない日が続くと、不眠症になる？",
+        "body": "何日か眠れないと「このままずっと眠れなかったら」と不安になるよね。実際どのくらいの人が、長く続く不眠になるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "よく眠れていた1,248人を1年追った",
+        "body": "アメリカの研究で、もともとよく眠れていた35歳以上の1,248人に、1年間毎日、睡眠日記をつけてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "一時的な不眠の72.4%は自然に回復",
+        "body": "1年で27.0%が数週間の不眠を経験した。でもそのうち72.4%は元の眠りに戻り、長く続く不眠になったのは全体の1.8%だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "若い人にも当てはまる？",
+        "body": "対象は35歳以上で、日記は自己申告。若い人や、もともと眠りが浅い人に同じ割合が当てはまるかはわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-bad-night-sleep-next-night-recovery-research-sleep-extension-myth",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Boyle et al., \"The Natural History of Insomnia: Sleep Opportunity Extension Following a Poor Night of Sleep Is Not Related to the Transition From Acute to Chronic Insomnia\" (Journal of Sleep Research, 2026)",
+    "sourceUrl": "https://doi.org/10.1111/jsr.70304",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/bad-night-sleep-next-night-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "眠れなかった分を取り返すと、不眠が長引く？",
+        "body": "眠れなかった次の夜に長く布団に入ると、かえって不眠が続く。不眠の研究では、そう考えられてきたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1,243人の日記で確かめた",
+        "body": "最長1年分の毎晩の睡眠日記から、眠れなかった翌晩に布団にいる時間が本当に増えているかを調べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "翌晩の布団の時間はほぼ増えていなかった",
+        "body": "平日は増え方が平均5分未満。週末はむしろ、どの組でも減っていた。この説だけでは不眠が長引く理由を説明しにくい、と著者たちは言っている。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "昼寝や数晩後の変化は？",
+        "body": "昼寝や、布団に入ってから眠ろうとするまでの時間は数えていない。数晩続いた後の変化も見落としているかもしれないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

@@ -2241,5 +2241,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/December_25_-_calendar_sheet.jpg/500px-December_25_-_calendar_sheet.jpg",
   "og": "https://research.seadice.win/img/missed-deadline-ask-extension-apology-research.jpg",
   "local": true
+ },
+ "bad-night-sleep-next-night-recovery-research": {
+  "file": "File:Sir Henry's Night Stand (4145348386).jpg",
+  "src": "/img/bad-night-sleep-next-night-recovery-research.jpg",
+  "src640": "/img/bad-night-sleep-next-night-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ランプが灯る夜のベッドサイドテーブル",
+  "artist": "elPadawan",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sir_Henry%27s_Night_Stand_(4145348386).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sir_Henry%27s_Night_Stand_%284145348386%29.jpg/960px-Sir_Henry%27s_Night_Stand_%284145348386%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sir_Henry%27s_Night_Stand_%284145348386%29.jpg/500px-Sir_Henry%27s_Night_Stand_%284145348386%29.jpg",
+  "og": "https://research.seadice.win/img/bad-night-sleep-next-night-recovery-research.jpg",
+  "local": true
  }
 }
