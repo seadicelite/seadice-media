@@ -3462,5 +3462,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Brindle_Great_Dane_puppy_lying_flat.jpg/500px-Brindle_Great_Dane_puppy_lying_flat.jpg",
   "og": "https://mentalai.seadice.win/img/cute-animal-photos-focus.jpg",
   "local": true
+ },
+ "asmr-relax-fatigue": {
+  "file": "File:Rain on glass from below.jpg",
+  "src": "/img/asmr-relax-fatigue.jpg",
+  "src640": "/img/asmr-relax-fatigue-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "雨粒のついた窓ガラス",
+  "artist": "Tomascastelazo",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rain_on_glass_from_below.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rain_on_glass_from_below.jpg/960px-Rain_on_glass_from_below.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rain_on_glass_from_below.jpg/500px-Rain_on_glass_from_below.jpg",
+  "og": "https://mentalai.seadice.win/img/asmr-relax-fatigue.jpg",
+  "local": true
  }
 }

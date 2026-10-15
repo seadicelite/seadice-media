@@ -2959,5 +2959,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "kokoro-asmr-relax-fatigue-heart-rate",
+    "category": "休息",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Poerio GL, Blakey E, Hostler TJ & Veltri T, \"More than a feeling: Autonomous sensory meridian response (ASMR) is characterized by reliable changes in affect and physiology\" (PLoS ONE, 2018)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0196645",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/asmr-relax-fatigue/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ASMRで本当に落ち着く？",
+        "body": "ささやき声やたたく音で、頭や首すじがゾワゾワする「ASMR」。リラックスのために動画を見る人は多いけど、体にも変化は出ているのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "心拍を測って比べた",
+        "body": "英国の実験室で、ASMRを感じる人と感じない人の計110人が、約3分のASMR動画とASMRではない動画を見たよ。そのあいだの心拍を測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "感じる人は心拍が下がった",
+        "body": "ASMRを感じる人は、ASMRではない動画のときより心拍が1分あたり平均3.41回下がったらしい。感じない人より大きな下がり方だったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "期待のせいかもしれない",
+        "body": "感じるかどうかは本人の答えで分けていて、「効くはず」という期待が結果に影響した可能性を研究者自身が挙げているよ。続けたときの効果もまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
