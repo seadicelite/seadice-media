@@ -2383,5 +2383,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Old_television_set_at_the_Finnish_Architecture_Museum.jpg/960px-Old_television_set_at_the_Finnish_Architecture_Museum.jpg",
   "og": "https://dokugaku.seadice.win/img/english-video-subtitles-how-to.jpg",
   "local": true
+ },
+ "cant-sleep-worrying-about-study-exam": {
+  "file": "File:Old alarm clock on the bookshelf - 50233824038.jpg",
+  "src": "/img/cant-sleep-worrying-about-study-exam.jpg",
+  "src640": "/img/cant-sleep-worrying-about-study-exam-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "本棚に置かれた古い目覚まし時計",
+  "artist": "Nenad Stojkovic",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg/960px-Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg/960px-Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg",
+  "og": "https://dokugaku.seadice.win/img/cant-sleep-worrying-about-study-exam.jpg",
+  "local": true
  }
 }

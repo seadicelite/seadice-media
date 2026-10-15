@@ -3324,5 +3324,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-cant-sleep-worrying-about-study-exam-bedtime-music",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Scullin et al., \"Bedtime Music, Involuntary Musical Imagery, and Sleep\" (Psychological Science, 2021)",
+    "sourceUrl": "https://doi.org/10.1177/0956797621989724",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/cant-sleep-worrying-about-study-exam/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "寝る前の音楽で、ぐっすり眠れる？",
+        "body": "眠れない夜は、好きな曲や歌のない音楽を流して寝る。リラックスできそうだし、やっている人も多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "寝る前に人気曲を聴いて、脳波で眠りを測った",
+        "body": "米国の研究者が、若い成人に寝る前に人気曲3曲を聴いてもらい、眠りを脳波で測った。半分は歌詞あり、半分は歌詞なしの版だった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "歌詞なし版の方が寝つきにくかった",
+        "body": "歌詞なし版を聴いた人の方が、寝つきにくく、眠りの効率も悪かった。夜中に曲が頭の中で鳴る「イヤーワーム」は歌詞なし版で52%、歌詞あり版で28%だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "48人・3曲だけの実験",
+        "body": "イヤーワームの差は統計的にぎりぎりで、はっきりした差とは言えない。使ったのは人気曲3曲だけで、ほかの曲でも同じかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
