@@ -2848,5 +2848,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-gum-sugar-before-study-focus-sugar-rush",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mantantzis et al., \"Sugar rush or sugar crash? A meta-analysis of carbohydrate effects on mood\" (Neuroscience & Biobehavioral Reviews, 2019)",
+    "sourceUrl": "https://doi.org/10.1016/j.neubiorev.2019.03.016",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/gum-sugar-before-study-focus/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "疲れたら甘い物で元気になる？",
+        "body": "勉強や仕事で疲れたら、チョコや甘いジュースで一息。糖分をとると気分が上がって頭もさえる、とよく言われるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "31の研究をまとめて分析",
+        "body": "糖分などの炭水化物をとった後の気分を調べた31の研究、1,259人分のデータをまとめた分析があるんだ。とってから時間ごとに、気分がどう変わるかを見ている。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "気分は上がらず、むしろ疲れ",
+        "body": "どの時点でも、気分が良くなる効果は見られなかった。とってから1時間以内は、糖分のない偽物と比べて疲れが強く、すっきり感が弱かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の成績はどうなる？",
+        "body": "この分析が測ったのは気分や眠気で、勉強や仕事の成績ではないよ。ブドウ糖で記憶テストの成績が上がった実験もあって、成績への影響はまだはっきりしない。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

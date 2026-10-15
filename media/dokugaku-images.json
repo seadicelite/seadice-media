@@ -2185,5 +2185,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Home-office-336377.jpg/500px-Home-office-336377.jpg",
   "og": "https://dokugaku.seadice.win/img/ai-study-prompt-templates.jpg",
   "local": true
+ },
+ "gum-sugar-before-study-focus": {
+  "file": "File:Chocolate Mud Cake, Carrington's Bar & Grill, 2026 (01).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Chocolate_Mud_Cake%2C_Carrington%27s_Bar_%26_Grill%2C_2026_%2801%29.jpg/960px-Chocolate_Mud_Cake%2C_Carrington%27s_Bar_%26_Grill%2C_2026_%2801%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Chocolate_Mud_Cake%2C_Carrington%27s_Bar_%26_Grill%2C_2026_%2801%29.jpg/500px-Chocolate_Mud_Cake%2C_Carrington%27s_Bar_%26_Grill%2C_2026_%2801%29.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "皿にのったチョコレートケーキとスプーン",
+  "artist": "Bahnfrend",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chocolate_Mud_Cake,_Carrington%27s_Bar_%26_Grill,_2026_(01).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
