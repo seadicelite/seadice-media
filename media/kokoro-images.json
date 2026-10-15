@@ -3156,5 +3156,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Edie%27s_fur_brown_in_the_sun.jpg/500px-Edie%27s_fur_brown_in_the_sun.jpg",
   "og": "https://mentalai.seadice.win/img/pet-loneliness-prevent.jpg",
   "local": true
+ },
+ "lonely-even-with-others": {
+  "file": "File:Lake in Dome Creek.jpg",
+  "src": "/img/lonely-even-with-others.jpg",
+  "src640": "/img/lonely-even-with-others-sm.jpg",
+  "w": 960,
+  "h": 636,
+  "alt": "霧に包まれた森と雪をかぶった山",
+  "artist": "Jakub Fryš",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lake_in_Dome_Creek.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lake_in_Dome_Creek.jpg/960px-Lake_in_Dome_Creek.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lake_in_Dome_Creek.jpg/500px-Lake_in_Dome_Creek.jpg",
+  "og": "https://mentalai.seadice.win/img/lonely-even-with-others.jpg",
+  "local": true
  }
 }

@@ -2313,5 +2313,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-lonely-even-with-others-company-not-cure",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Stavrova O, Ren D, \"Alone in a Crowd: Is Social Contact Associated with Less Psychological Pain of Loneliness in Everyday Life?\" (Journal of Happiness Studies, 2023)",
+    "sourceUrl": "https://doi.org/10.1007/s10902-023-00661-3",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/lonely-even-with-others/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "寂しいなら人に会えばいい？",
+        "body": "寂しいときは誰かと会えば元気になる、ってよく言われるよね。でも、人といるのに余計に寂しくなること、ない？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3,035人の日常を記録",
+        "body": "オランダの研究者が、ドイツと英国の3,035人が日常の中で「今ひとりか」「今どれくらい孤独か」「今の気分」をくり返し記録したデータを分析したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "孤独が強い時は差が消えた",
+        "body": "孤独をほとんど感じていない時は、人と一緒のほうが気分がよかった。でも孤独が強い瞬間は、人と一緒でもひとりの時より気分がよいとは言えなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どっちが先かは不明",
+        "body": "観察した研究だから、孤独が気分を下げるのか、気分が低いと孤独を感じるのかはわからない。寂しい時にどう過ごすといいかは、実験で確かめる必要があるよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
