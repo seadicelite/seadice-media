@@ -2305,7 +2305,7 @@
   "src640": "/img/best-possible-self-writing-mood-research-sm.webp",
   "w": 960,
   "h": 641,
-  "alt": "机の上のノートとペン",
+  "alt": "机の上のノートと書類とペン",
   "artist": "Shixart1985",
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
@@ -2383,6 +2383,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/DSC_8585_Cozy_elegant_bedroom_with_a_plush_king-size_bed_soft_ambient_lighting_and_large_sliding_glass_doors_opening_onto_a_shaded_outdoor_seating_area.jpg/960px-DSC_8585_Cozy_elegant_bedroom_with_a_plush_king-size_bed_soft_ambient_lighting_and_large_sliding_glass_doors_opening_onto_a_shaded_outdoor_seating_area.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/DSC_8585_Cozy_elegant_bedroom_with_a_plush_king-size_bed_soft_ambient_lighting_and_large_sliding_glass_doors_opening_onto_a_shaded_outdoor_seating_area.jpg/500px-DSC_8585_Cozy_elegant_bedroom_with_a_plush_king-size_bed_soft_ambient_lighting_and_large_sliding_glass_doors_opening_onto_a_shaded_outdoor_seating_area.jpg",
   "og": "https://research.seadice.win/img/early-bedtime-cant-sleep-forbidden-zone-why-research.jpg",
+  "local": true
+ },
+ "worry-cant-concentrate-why-research": {
+  "file": "File:SCP Foundation - Just doing my paperwork.jpg",
+  "src": "/img/worry-cant-concentrate-why-research.jpg",
+  "src640": "/img/worry-cant-concentrate-why-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上のノートと書類とペン",
+  "artist": "SCP Foundation - Scientific Department",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:SCP_Foundation_-_Just_doing_my_paperwork.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SCP_Foundation_-_Just_doing_my_paperwork.jpg/960px-SCP_Foundation_-_Just_doing_my_paperwork.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SCP_Foundation_-_Just_doing_my_paperwork.jpg/500px-SCP_Foundation_-_Just_doing_my_paperwork.jpg",
+  "og": "https://research.seadice.win/img/worry-cant-concentrate-why-research.jpg",
   "local": true
  }
 }
