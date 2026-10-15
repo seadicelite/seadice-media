@@ -2471,5 +2471,23 @@
   "og": "https://dokugaku.seadice.win/img/apply-relearning-at-work-transfer-og.jpg",
   "local": true,
   "alt": "長い机と椅子が並ぶ会議室"
+ },
+ "phone-offline-study-blocks": {
+  "file": "File:Late 2010 MacBook Air.jpg",
+  "src": "/img/phone-offline-study-blocks.jpg",
+  "src640": "/img/phone-offline-study-blocks-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木の机に置かれたノートパソコン、スマートフォン、手帳",
+  "artist": "Alejandro Escamilla",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Late_2010_MacBook_Air.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://commons.wikimedia.org/wiki/Special:FilePath/Late_2010_MacBook_Air.jpg?width=960",
+  "remote640": "https://commons.wikimedia.org/wiki/Special:FilePath/Late_2010_MacBook_Air.jpg?width=500",
+  "og": "https://dokugaku.seadice.win/img/phone-offline-study-blocks.jpg",
+  "local": true
  }
 }
