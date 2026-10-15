@@ -3314,5 +3314,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-commitment-contract-money-habit-research-deposit-uptake",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Halpern et al., \"Randomized Trial of Four Financial-Incentive Programs for Smoking Cessation\" (New England Journal of Medicine, 2015)",
+    "sourceUrl": "https://doi.org/10.1056/NEJMoa1414293",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/commitment-contract-money-habit-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自分のお金を賭けると続く？",
+        "body": "「失敗したら罰金」にすると、やめられないことも続けられるって聞くよね。ご褒美をもらうより効くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "禁煙で2つのやり方を比べた",
+        "body": "アメリカの大人2,538人で、約800ドルのご褒美と、150ドルを預けて禁煙できたら返ってくる方法（ほかに650ドルのご褒美つき）を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "受け入れたのは13.7%だけ",
+        "body": "ご褒美型は90.0%が受け入れたけど、お金を預ける型は13.7%。全員で比べた6か月後の禁煙率は、ご褒美型15.7%、預ける型10.2%だった。ただ、両方受け入れそうな人に限ると、預ける型のほうが13.2ポイント高かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "やめた後の効果は残らなかった",
+        "body": "ご褒美が終わって6か月後、普通の支援より効果が残っていたのはご褒美型だけ。対象は禁煙で、運動や勉強の習慣で同じになるかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
