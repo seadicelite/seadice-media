@@ -1,6 +1,13 @@
 [
  {
   "date": "2026-10-16",
+  "slug": "sns-recommendation-appearance-feed-prepare",
+  "before": "見た目を磨く投稿を見た日は気分が下がりやすい研究がある",
+  "after": "見た目を磨く投稿を見た後は気分が低い傾向があったという研究がある",
+  "why": "研究は見た直後の記録との関連で、日単位の比較や因果は示していないため"
+ },
+ {
+  "date": "2026-10-16",
   "slug": "ai-unfamiliar-field-explanation-overtrust",
   "before": "一般の人が、まずAIなしで答え、次にAIの助言を見て答え直しました。",
   "after": "一般の人が、1枚ごとにAIなしとAIの助言ありの2回答えました（AIを先に見る組と、自分で先に答える組に分けました）。",
