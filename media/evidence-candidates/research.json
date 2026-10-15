@@ -2668,5 +2668,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-embarrassing-mistake-spotlight-effect-recovery-research-harsh-judgment",
+    "category": "気分・ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Savitsky et al., \"Do others judge us as harshly as we think? Overestimating the impact of our failures, shortcomings, and mishaps\" (Journal of Personality and Social Psychology, 2001)",
+    "sourceUrl": "https://doi.org/10.1037/0022-3514.81.1.44",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/embarrassing-mistake-spotlight-effect-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "人前の失敗、どう思われてる？",
+        "body": "人前で失敗すると「ひどい人だと思われた」って何日も引きずることがあるよね。周りは本当にそんなに厳しく見ているのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "失敗した側と見ていた側を比べた",
+        "body": "4つの研究で、失敗を想像した人、人前で問題が解けなかった人、恥ずかしい形で紹介された人に、周りからの評価を予想してもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "実際の評価は予想より甘かった",
+        "body": "どの研究でも、本人は実際より厳しく評価されると予想していた。失敗に意識が集中して、周りが状況も考えてくれることを想像しにくいらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何度もくり返したら？",
+        "body": "調べたのは1回きりの失敗の場面。同じ失敗をくり返した場合や、長い付き合いの相手でも同じかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
