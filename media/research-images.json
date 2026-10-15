@@ -2369,8 +2369,8 @@
  },
  "early-bedtime-cant-sleep-forbidden-zone-why-research": {
   "file": "File:DSC 8585 Cozy elegant bedroom with a plush king-size bed soft ambient lighting and large sliding glass doors opening onto a shaded outdoor seating area.jpg",
-  "src": "/img/early-bedtime-cant-sleep-forbidden-zone-why-research.jpg",
-  "src640": "/img/early-bedtime-cant-sleep-forbidden-zone-why-research-sm.jpg",
+  "src": "/img/early-bedtime-cant-sleep-forbidden-zone-why-research.webp",
+  "src640": "/img/early-bedtime-cant-sleep-forbidden-zone-why-research-sm.webp",
   "w": 960,
   "h": 639,
   "alt": "ベッドとランプのある寝室",
@@ -2379,16 +2379,15 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:DSC_8585_Cozy_elegant_bedroom_with_a_plush_king-size_bed_soft_ambient_lighting_and_large_sliding_glass_doors_opening_onto_a_shaded_outdoor_seating_area.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/DSC_8585_Cozy_elegant_bedroom_with_a_plush_king-size_bed_soft_ambient_lighting_and_large_sliding_glass_doors_opening_onto_a_shaded_outdoor_seating_area.jpg/960px-DSC_8585_Cozy_elegant_bedroom_with_a_plush_king-size_bed_soft_ambient_lighting_and_large_sliding_glass_doors_opening_onto_a_shaded_outdoor_seating_area.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/DSC_8585_Cozy_elegant_bedroom_with_a_plush_king-size_bed_soft_ambient_lighting_and_large_sliding_glass_doors_opening_onto_a_shaded_outdoor_seating_area.jpg/500px-DSC_8585_Cozy_elegant_bedroom_with_a_plush_king-size_bed_soft_ambient_lighting_and_large_sliding_glass_doors_opening_onto_a_shaded_outdoor_seating_area.jpg",
-  "og": "https://research.seadice.win/img/early-bedtime-cant-sleep-forbidden-zone-why-research.jpg",
+  "og": "https://research.seadice.win/img/early-bedtime-cant-sleep-forbidden-zone-why-research-og.jpg",
   "local": true
  },
  "worry-cant-concentrate-why-research": {
   "file": "File:SCP Foundation - Just doing my paperwork.jpg",
-  "src": "/img/worry-cant-concentrate-why-research.jpg",
-  "src640": "/img/worry-cant-concentrate-why-research-sm.jpg",
+  "src": "/img/worry-cant-concentrate-why-research.webp",
+  "src640": "/img/worry-cant-concentrate-why-research-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "机の上のノートと書類とペン",
@@ -2397,16 +2396,15 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:SCP_Foundation_-_Just_doing_my_paperwork.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SCP_Foundation_-_Just_doing_my_paperwork.jpg/960px-SCP_Foundation_-_Just_doing_my_paperwork.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SCP_Foundation_-_Just_doing_my_paperwork.jpg/500px-SCP_Foundation_-_Just_doing_my_paperwork.jpg",
-  "og": "https://research.seadice.win/img/worry-cant-concentrate-why-research.jpg",
+  "og": "https://research.seadice.win/img/worry-cant-concentrate-why-research-og.jpg",
   "local": true
  },
  "stress-tired-old-habits-why-research": {
   "file": "File:Cup of black tea.JPG",
-  "src": "/img/stress-tired-old-habits-why-research.jpg",
-  "src640": "/img/stress-tired-old-habits-why-research-sm.jpg",
+  "src": "/img/stress-tired-old-habits-why-research.webp",
+  "src640": "/img/stress-tired-old-habits-why-research-sm.webp",
   "w": 960,
   "h": 894,
   "alt": "カップに入った紅茶",
@@ -2415,10 +2413,9 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Cup_of_black_tea.JPG",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cup_of_black_tea.JPG/960px-Cup_of_black_tea.JPG",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cup_of_black_tea.JPG/500px-Cup_of_black_tea.JPG",
-  "og": "https://research.seadice.win/img/stress-tired-old-habits-why-research.jpg",
+  "og": "https://research.seadice.win/img/stress-tired-old-habits-why-research-og.jpg",
   "local": true
  }
 }
