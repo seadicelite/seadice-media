@@ -2702,5 +2702,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-missed-deadline-ask-extension-apology-research-ask-for-time",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Whillans et al., \"Extension request avoidance predicts greater time stress among women\" (PNAS, 2021)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.2105622118",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/missed-deadline-ask-extension-apology-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "延長を頼むと評価が下がる？",
+        "body": "締め切りに間に合わなそうでも「延長してください」って言いにくいよね。頼んだら評価が下がりそうで、つい無理をしてしまう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "延長OKと伝えた授業で比べた",
+        "body": "米国の大学の授業で、学生103人に「必要ならメールで延長を頼んでいい、減点なし」と伝えて課題を出し、誰が頼んだかと点数を調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "頼んだ学生は予想より高得点",
+        "body": "延長を頼んだ学生は、それまでの成績から予想される点数より平均8.2%高い点を取った。頼んだのは女子学生の15.3%、男子学生の36.4%だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "頼んだから点が上がった？",
+        "body": "これは観察したデータで、延長そのものが点数を上げたとは言い切れない。延長してよいとはっきり言われた授業での結果でもあるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

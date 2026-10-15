@@ -2223,5 +2223,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Spotlight_%2814871682502%29.jpg/500px-Spotlight_%2814871682502%29.jpg",
   "og": "https://research.seadice.win/img/embarrassing-mistake-spotlight-effect-recovery-research.jpg",
   "local": true
+ },
+ "missed-deadline-ask-extension-apology-research": {
+  "file": "File:December 25 - calendar sheet.jpg",
+  "src": "/img/missed-deadline-ask-extension-apology-research.jpg",
+  "src640": "/img/missed-deadline-ask-extension-apology-research-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "日付に赤い丸をつけたカレンダーのイラスト",
+  "artist": "Karen Arnold",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:December_25_-_calendar_sheet.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/December_25_-_calendar_sheet.jpg/960px-December_25_-_calendar_sheet.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/December_25_-_calendar_sheet.jpg/500px-December_25_-_calendar_sheet.jpg",
+  "og": "https://research.seadice.win/img/missed-deadline-ask-extension-apology-research.jpg",
+  "local": true
  }
 }
