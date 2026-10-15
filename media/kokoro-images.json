@@ -3426,5 +3426,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beddington_Park%2C_Tree-lined_path_-_geograph.org.uk_-_1795444.jpg/500px-Beddington_Park%2C_Tree-lined_path_-_geograph.org.uk_-_1795444.jpg",
   "og": "https://mentalai.seadice.win/img/work-criticism-rumination-walk.jpg",
   "local": true
+ },
+ "friend-venting-listener-drained": {
+  "file": "File:Person writing on brown wooden table near white ceramic mug.jpg",
+  "src": "/img/friend-venting-listener-drained.jpg",
+  "src640": "/img/friend-venting-listener-drained-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のテーブルで書きものをする手と白いマグカップ",
+  "artist": "Unseen Studio",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Person_writing_on_brown_wooden_table_near_white_ceramic_mug.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Person_writing_on_brown_wooden_table_near_white_ceramic_mug.jpg/960px-Person_writing_on_brown_wooden_table_near_white_ceramic_mug.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Person_writing_on_brown_wooden_table_near_white_ceramic_mug.jpg/500px-Person_writing_on_brown_wooden_table_near_white_ceramic_mug.jpg",
+  "og": "https://mentalai.seadice.win/img/friend-venting-listener-drained.jpg",
+  "local": true
  }
 }

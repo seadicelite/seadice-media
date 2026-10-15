@@ -2891,5 +2891,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "kokoro-friend-venting-listener-drained-co-rumination",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Denson TF, Moulds ML & Grisham JR, \"Investigating links between co-rumination and personality, social functioning, and emotional well-being in a representative sample of adults\" (PLOS One, 2026)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0349391",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/friend-venting-listener-drained/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "悩みを話し合うのは良いこと？",
+        "body": "友達と同じ悩みを何度も話し合うと、仲は深まりそう。でも気持ちは軽くなるのかな？この「くり返し話し合う」ことを、心理学では共反すうって呼ぶんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "英国の大人495人に聞いた",
+        "body": "年齢や性別の構成を国の人口に合わせて集めた、英国の18〜87歳の495人に、悩みを人とくり返し話し合う傾向と、孤独や不安をアンケートで聞いたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "孤独は小さく、不安は大きめ",
+        "body": "くり返し話し合う人ほど、孤独は小さくて人間関係に満足している一方、不安は大きめだったらしい。良い面と負担の両方があるってことだね。関連の大きさはおおむね小さかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どっちが先かは不明",
+        "body": "1回きりのアンケートだから、話し合うから不安になるのか、不安な人ほど話し合うのかはわからない。大人を対象にした研究はまだ少ないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
