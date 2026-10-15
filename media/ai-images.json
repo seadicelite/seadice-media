@@ -1700,5 +1700,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ruler_and_laptop_on_a_desk_%28Unsplash%29.jpg/500px-Ruler_and_laptop_on_a_desk_%28Unsplash%29.jpg",
   "og": "https://ai.seadice.win/img/ai-work-mistake-responsibility-prepare.jpg",
   "local": true
+ },
+ "ai-chatbot-angry-customers-handoff": {
+  "file": "File:Aspect Tel-set telephone call centre.jpg",
+  "src": "/img/ai-chatbot-angry-customers-handoff.jpg",
+  "src640": "/img/ai-chatbot-angry-customers-handoff-sm.jpg",
+  "w": 960,
+  "h": 695,
+  "alt": "職場の机に置かれた電話機",
+  "artist": "Petiatil",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Aspect_Tel-set_telephone_call_centre.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Aspect_Tel-set_telephone_call_centre.jpg/960px-Aspect_Tel-set_telephone_call_centre.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Aspect_Tel-set_telephone_call_centre.jpg/500px-Aspect_Tel-set_telephone_call_centre.jpg",
+  "og": "https://ai.seadice.win/img/ai-chatbot-angry-customers-handoff.jpg",
+  "local": true
  }
 }
