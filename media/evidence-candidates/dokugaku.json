@@ -2644,5 +2644,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-procrastination-checklist-study-log-not-just-willpower",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Steel, \"The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure\" (Psychological Bulletin, 2007)",
+    "sourceUrl": "https://doi.org/10.1037/0033-2909.133.1.65",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/procrastination-checklist-study-log/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "先延ばしは意志が弱いせい？",
+        "body": "やるべき勉強を後回しにすると「自分は意志が弱い」と責めたくなるよね。でも研究で見ると、話はもう少し複雑らしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "691の相関をまとめた",
+        "body": "先延ばしの原因と結果を調べた研究から、691の相関をまとめたメタ分析があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "嫌さ・遠さ・自信・衝動性",
+        "body": "強く一貫して結びついていたのは、課題の嫌さ、結果までの時間の遠さ、できるという自信、衝動性。不安になりやすさとの関係は弱かったよ。課題や締め切りの条件も効いているんだね。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どれが原因かは決められない",
+        "body": "まとめた研究の多くは相関の研究。だから、嫌さや自信のなさが先延ばしを生むのか、その逆なのかは、これだけでは決められないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-procrastination-checklist-study-log-treatment-meta",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rozental et al., \"Targeting procrastination using psychological treatments: A systematic review and meta-analysis\" (Frontiers in Psychology, 2018)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2018.01588",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/procrastination-checklist-study-log/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "先延ばしぐせは直せる？",
+        "body": "「先延ばしは性格だから仕方ない」と思っている人も多いはず。心理的な支援で変わるのかを調べた研究をまとめたものがあるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "12研究・718人",
+        "body": "先延ばしへの支援を、何もしない群とくらべたランダム化比較試験を集めた。12研究、21の比較、718人分だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果は小さいけど、ある",
+        "body": "全体の効果はg＝0.34で、小さいけれど確かにあった。考え方と行動の両方を変える認知行動療法の3研究だけだと、g＝0.55だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "研究の数がまだ少ない",
+        "body": "研究どうしの結果のばらつきが大きく、12研究のうち4研究は博士論文。認知行動療法の結果は236人分だけで、著者も暫定的としているよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

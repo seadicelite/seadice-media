@@ -2113,5 +2113,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/001_2020_04_21_Uhren_fuer_den_Innenbereich.jpg/500px-001_2020_04_21_Uhren_fuer_den_Innenbereich.jpg",
   "og": "https://dokugaku.seadice.win/img/exam-eve-morning-checklist.jpg",
   "local": true
+ },
+ "procrastination-checklist-study-log": {
+  "file": "File:Hooded wall clock with calendar MET DP352258.jpg",
+  "src": "/img/procrastination-checklist-study-log.jpg",
+  "src640": "/img/procrastination-checklist-study-log-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "日付の表示がついた古い壁掛け時計",
+  "artist": "Ahasuerus Fromanteel",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Hooded_wall_clock_with_calendar_MET_DP352258.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hooded_wall_clock_with_calendar_MET_DP352258.jpg/960px-Hooded_wall_clock_with_calendar_MET_DP352258.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hooded_wall_clock_with_calendar_MET_DP352258.jpg/500px-Hooded_wall_clock_with_calendar_MET_DP352258.jpg",
+  "og": "https://dokugaku.seadice.win/img/procrastination-checklist-study-log.jpg",
+  "local": true
  }
 }

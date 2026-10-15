@@ -308,7 +308,8 @@
      "study-boredom-restart"
     ],
     "use": [
-     "study-burnout-recovery"
+     "study-burnout-recovery",
+     "procrastination-checklist-study-log"
     ],
     "why": [
      "why-procrastinate-studying",
