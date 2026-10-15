@@ -3174,5 +3174,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lake_in_Dome_Creek.jpg/500px-Lake_in_Dome_Creek.jpg",
   "og": "https://mentalai.seadice.win/img/lonely-even-with-others.jpg",
   "local": true
+ },
+ "sunday-night-work-dread": {
+  "file": "File:DFC 5416 Night skyline over Pattaya city lights and layered rooftops glow under a clear evening sky.jpg",
+  "src": "/img/sunday-night-work-dread.jpg",
+  "src640": "/img/sunday-night-work-dread-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "夜の街の家並みと窓の明かり",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DFC_5416_Night_skyline_over_Pattaya_city_lights_and_layered_rooftops_glow_under_a_clear_evening_sky.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/DFC_5416_Night_skyline_over_Pattaya_city_lights_and_layered_rooftops_glow_under_a_clear_evening_sky.jpg/960px-DFC_5416_Night_skyline_over_Pattaya_city_lights_and_layered_rooftops_glow_under_a_clear_evening_sky.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/DFC_5416_Night_skyline_over_Pattaya_city_lights_and_layered_rooftops_glow_under_a_clear_evening_sky.jpg/500px-DFC_5416_Night_skyline_over_Pattaya_city_lights_and_layered_rooftops_glow_under_a_clear_evening_sky.jpg",
+  "og": "https://mentalai.seadice.win/img/sunday-night-work-dread.jpg",
+  "local": true
  }
 }

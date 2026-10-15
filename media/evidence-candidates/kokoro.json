@@ -2347,5 +2347,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-sunday-night-work-dread-weekend-gap-trust",
+    "category": "仕事とAIの不安",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Helliwell JF, Wang S, \"How Was the Weekend? How the Social Context Underlies Weekend Effects in Happiness and Other Emotions for US Workers\" (PLoS ONE, 2015)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0145123",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/sunday-night-work-dread/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "週末と平日、そんなに違う？",
+        "body": "日曜の夜になると、明日の仕事を思って気持ちが沈むこと、あるよね。平日と週末の気分って、実際どれくらい違うんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "米国の働く人約94万人",
+        "body": "米国で毎日約1,000人に「昨日の気分」を聞く調査のうち、働いている約94万人の答えを、カナダと韓国の研究者が分析したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差の大きさは職場しだい",
+        "body": "前の日にストレスを多く感じた人は平日46.0%、週末31.1%。フルタイムの人では、職場を信頼できない人の週末と平日の差が、信頼できる人の約3倍だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "職場が変われば縮む？",
+        "body": "1人1回の答えを比べた研究だから、職場の信頼関係がよくなれば差が縮むのかは確かめられていない。データは2008〜2012年の米国のものだよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
