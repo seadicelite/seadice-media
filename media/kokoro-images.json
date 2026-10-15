@@ -3282,5 +3282,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Misty_Morning_Sunrise_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854118849131%29.jpg/500px-Misty_Morning_Sunrise_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854118849131%29.jpg",
   "og": "https://mentalai.seadice.win/img/work-chat-coworker-comparison.jpg",
   "local": true
+ },
+ "ai-dependency-impulsivity-prevent": {
+  "file": "File:Georgia, Abkhasia, Sukhumi, Сухум - Лестница в обезьяний питомник WMID4568542.jpg",
+  "src": "/img/ai-dependency-impulsivity-prevent.jpg",
+  "src640": "/img/ai-dependency-impulsivity-prevent-sm.jpg",
+  "w": 960,
+  "h": 636,
+  "alt": "木々に囲まれた、板の渡された石段",
+  "artist": "Shef174",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Georgia,_Abkhasia,_Sukhumi,_%D0%A1%D1%83%D1%85%D1%83%D0%BC_-_%D0%9B%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%D0%B2_%D0%BE%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BC%D0%BD%D0%B8%D0%BA_WMID4568542.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Georgia%2C_Abkhasia%2C_Sukhumi%2C_%D0%A1%D1%83%D1%85%D1%83%D0%BC_-_%D0%9B%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%D0%B2_%D0%BE%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BC%D0%BD%D0%B8%D0%BA_WMID4568542.jpg/960px-Georgia%2C_Abkhasia%2C_Sukhumi%2C_%D0%A1%D1%83%D1%85%D1%83%D0%BC_-_%D0%9B%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%D0%B2_%D0%BE%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BC%D0%BD%D0%B8%D0%BA_WMID4568542.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Georgia%2C_Abkhasia%2C_Sukhumi%2C_%D0%A1%D1%83%D1%85%D1%83%D0%BC_-_%D0%9B%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%D0%B2_%D0%BE%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BC%D0%BD%D0%B8%D0%BA_WMID4568542.jpg/500px-Georgia%2C_Abkhasia%2C_Sukhumi%2C_%D0%A1%D1%83%D1%85%D1%83%D0%BC_-_%D0%9B%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%D0%B2_%D0%BE%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BC%D0%BD%D0%B8%D0%BA_WMID4568542.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-dependency-impulsivity-prevent.jpg",
+  "local": true
  }
 }

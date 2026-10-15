@@ -2619,5 +2619,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-ai-dependency-impulsivity-prevent-drivers",
+    "category": "AIと心",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Jiang B, Wang Z, \"Addicted to AI? Prevalence and psychological drivers of generative AI dependency among pre-service teachers\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1922716",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-dependency-impulsivity-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "AIに頼りすぎるのは信じすぎるから？",
+        "body": "AIの答えを信じすぎるから頼っちゃう、ってよく言われるよね。実際はどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "教員志望の学生565人のアンケート",
+        "body": "中国の教員を目指す学生に聞くと、79%が「AIは学びに欠かせない」、54%が「まずAIに聞く」と答えたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "強く結びついていたのは「すぐ楽したい」",
+        "body": "頼りすぎと強く結びついていたのは、すぐ楽なほうに手が伸びる傾向と、AIを人のように感じる気持ち。信頼は、ほかの要因をそろえるとはっきりした結びつきがなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因なのか、結果なのか",
+        "body": "1回のアンケートで、頼るうちに愛着が深まった可能性もある。地域や学年にも偏りがあって、ほかの人でも同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
