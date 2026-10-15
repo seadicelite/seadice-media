@@ -2517,5 +2517,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-edited-selfie-real-face-satisfaction-up",
+    "category": "SNSと比較",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hung K, Feldborg M, Moseley R, Peng K, Sui J, \"Digital selfie editing shows sex specific associations between processing biases and life satisfaction\" (Scientific Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-99056-y",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/edited-selfie-real-face/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "加工した自撮りのほうが好き？",
+        "body": "自撮りを加工すると、なんだか加工後のほうが気に入っちゃう。そう感じるのは自分だけかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "スタジオで撮って、加工した",
+        "body": "中国の100人がスタジオで自撮りをして、アプリで目・鼻・口を加工したんだ。加工の前と後で、写真への満足度を100点満点でつけたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "54.8点→66.1点",
+        "body": "満足度は加工前の54.8点から、加工後は66.1点に上がったらしい。上がり方に男女の差はなかった。加工した写真を気に入るのは、ごく自然な反応みたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "続けるとどうなる？",
+        "body": "100人で、加工も研究室での1回だけ。女性では生活への満足度と関わる結果もあったけど相関で、加工を続けると気持ちがどう変わるかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-edited-selfie-real-face-beauty-filter-halo",
+    "category": "SNSと比較",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gulati A, Martínez-Garcia M, Fernández D, Lozano MA, Lepri B, Oliver N, \"What is beautiful is still good: the attractiveness halo effect in the era of beauty filters\" (Royal Society Open Science, 2024)",
+    "sourceUrl": "https://doi.org/10.1098/rsos.240882",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/edited-selfie-real-face/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "美肌フィルターで印象は変わる？",
+        "body": "写真に美肌フィルターをかけると、きれいに見えるだけじゃなく、人柄の印象まで変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "462人分の顔を2,748人が評価",
+        "body": "462人分の顔写真に人気の美肌フィルターをかけて、加工前と加工後を米国・英国の2,748人に評価してもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "賢そう・信頼できそうにも",
+        "body": "同じ人でも、加工後のほうが魅力的と評価されて、知的さや信頼できる感じの評価も高くなったらしい。魅力の評価が下がった写真は1枚もなかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "自分の写真だとどう感じる？",
+        "body": "他人の写真を見た評価で、自分の写真を加工したときの気持ちは調べていない。評価した人の多くは白人で、ほかの国や文化で同じかもわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

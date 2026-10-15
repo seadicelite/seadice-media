@@ -3246,5 +3246,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gray_espresso_cup_with_amaretto.jpg/500px-Gray_espresso_cup_with_amaretto.jpg",
   "og": "https://mentalai.seadice.win/img/decision-fatigue-real.jpg",
   "local": true
+ },
+ "edited-selfie-real-face": {
+  "file": "File:Flowers in vase on Pentecost Monday, Ehrenbach.jpg",
+  "src": "/img/edited-selfie-real-face.jpg",
+  "src640": "/img/edited-selfie-real-face-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "カーテンの前に飾られた白い花と緑の葉",
+  "artist": "Gerda Arendt",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Flowers_in_vase_on_Pentecost_Monday,_Ehrenbach.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flowers_in_vase_on_Pentecost_Monday%2C_Ehrenbach.jpg/960px-Flowers_in_vase_on_Pentecost_Monday%2C_Ehrenbach.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flowers_in_vase_on_Pentecost_Monday%2C_Ehrenbach.jpg/500px-Flowers_in_vase_on_Pentecost_Monday%2C_Ehrenbach.jpg",
+  "og": "https://mentalai.seadice.win/img/edited-selfie-real-face.jpg",
+  "local": true
  }
 }
