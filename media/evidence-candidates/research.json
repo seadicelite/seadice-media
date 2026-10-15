@@ -3654,5 +3654,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-habit-streak-broken-restart-research-run-streak",
+    "category": "習慣",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ingalls et al., \"The dark side of streaking: Examining the backfire potential of run streaking in recreational runners who broke a long-term streak\" (PLOS ONE, 2026)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0317254",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/habit-streak-broken-restart-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "連続記録が切れたら終わり？",
+        "body": "毎日続けた記録が途切れたら、もうやめちゃいそう…って思うよね。長い記録を失った人は、その後どうなったんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "100日以上走り続けた17人",
+        "body": "毎日1マイル以上走る連続記録が、100日以上（最長5,000日超）続いたあとに途切れたランナー17人に話を聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "落ち込んでも、走り続けた",
+        "body": "途切れた直後は悲しみや怒り、そして安堵も。でも体を動かせる人は全員が走り続けて、多くは新しい記録を始めていたらしい。記録を守るためにけがでも走った人もいたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "17人の思い出話",
+        "body": "人数が少なく、主に北米の人。あとから思い出して話してもらった内容だから、記憶のずれもありうるよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
