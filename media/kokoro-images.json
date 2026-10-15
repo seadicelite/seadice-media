@@ -3372,5 +3372,41 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline%2C_Ikaria%2C_Greece_julesvernex2.jpg/500px-Rock_formations_on_a_small_pebble_beach_on_the_southern_coastline%2C_Ikaria%2C_Greece_julesvernex2.jpg",
   "og": "https://mentalai.seadice.win/img/yoga-stress-fatigue-recover.jpg",
   "local": true
+ },
+ "ai-reliance-resilience-support": {
+  "file": "File:Misty Morning Sunrise Lake Andes National Wildlife Refuge South Dakota (54117992032).jpg",
+  "src": "/img/ai-reliance-resilience-support.jpg",
+  "src640": "/img/ai-reliance-resilience-support-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "朝もやの静かな湖",
+  "artist": "USFWS Mountain Prairie",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Misty_Morning_Sunrise_Lake_Andes_National_Wildlife_Refuge_South_Dakota_(54117992032).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Misty_Morning_Sunrise_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854117992032%29.jpg/960px-Misty_Morning_Sunrise_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854117992032%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Misty_Morning_Sunrise_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854117992032%29.jpg/500px-Misty_Morning_Sunrise_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854117992032%29.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-reliance-resilience-support.jpg",
+  "local": true
+ },
+ "comparison-meaning-in-life": {
+  "file": "File:'OLD COTTAGE' PENCIL ON PAPER BY JAIME PROSSER.jpg",
+  "src": "/img/comparison-meaning-in-life.jpg",
+  "src640": "/img/comparison-meaning-in-life-sm.jpg",
+  "w": 960,
+  "h": 803,
+  "alt": "古い石造りの家の軒下を描いた鉛筆画",
+  "artist": "JAIME PROSSER",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:%27OLD_COTTAGE%27_PENCIL_ON_PAPER_BY_JAIME_PROSSER.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%27OLD_COTTAGE%27_PENCIL_ON_PAPER_BY_JAIME_PROSSER.jpg/960px-%27OLD_COTTAGE%27_PENCIL_ON_PAPER_BY_JAIME_PROSSER.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%27OLD_COTTAGE%27_PENCIL_ON_PAPER_BY_JAIME_PROSSER.jpg/500px-%27OLD_COTTAGE%27_PENCIL_ON_PAPER_BY_JAIME_PROSSER.jpg",
+  "og": "https://mentalai.seadice.win/img/comparison-meaning-in-life.jpg",
+  "local": true
  }
 }

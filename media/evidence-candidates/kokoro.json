@@ -2789,5 +2789,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-comparison-meaning-in-life-brag-post",
+    "category": "SNSと比較",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Huh YE, Scopelliti I & Myaeng SY, \"Meaning in life improves response to others’ self-promotion\" (Scientific Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-30505-4",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/comparison-meaning-in-life/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "友だちの自慢、モヤッとしない方法は？",
+        "body": "友だちの昇進や成功の投稿を見ると、ついモヤッとするよね。見る前にちょっとした文章を書くだけで、その気持ちが変わるかを試した実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "人生の意味を3文ほど書いた",
+        "body": "米国の大人約400人をくじで分けて、一部の人に「自分の人生で見つけてきた意味」を書いてもらったよ。平均45語、3文くらいの短い文章。そのあと全員が友だちの自慢の投稿を見たんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ねたみが少し小さかった",
+        "body": "書いた人は、書かなかった人よりねたみ（7段階で2.53対3.17）やいらだちが小さく、うれしい気持ちは大きめだった。よく書かれたのは家族との関係だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "効果は小さく、続くかも不明",
+        "body": "差は小さめで、測ったのは書いた直後だけ。比べた相手は「何も書かない」組だから、何かを書くこと自体の効果とも分けきれていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-ai-reliance-resilience-support-social-support",
+    "category": "AIと心",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Shen X, Liu C & Yan J, \"AI Chatbot Dependence as an Indirect Link Between Social Anxiety and Psychological Resilience: The Moderating Role of Perceived Social Support\" (Behavioral Sciences, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/bs16091505",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-reliance-resilience-support/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "AIに頼ると心が弱くなる？",
+        "body": "悩みをすぐAIに話していると、自分で立ち直る力が落ちるんじゃないかって心配になるよね。実際にAIを使う人を調べた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "中国の395人に聞いた",
+        "body": "AIチャットを使う中国の大人395人に、情報集めや気持ちの支え、決めごとをどれだけAIに頼っているかと、立ち直る力をアンケートで聞いたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "強かったのは「人の支え」との関係",
+        "body": "AIに頼る人ほど立ち直る力は低めだった。でも人づきあいの不安を考えに入れると、その結びつきは小さくなった。立ち直る力ともっと強く関係していたのは、周りに支えてくれる人がいる感覚だったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どっちが原因かは不明",
+        "body": "1回きりのアンケートだから、AIに頼ったせいで弱くなったのか、もともと立ち直りにくい人がAIに頼りやすいのかはわからない。中国のネット調査の結果だよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
