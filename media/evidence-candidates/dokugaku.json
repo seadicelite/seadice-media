@@ -2576,5 +2576,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-exam-eve-morning-checklist-study-or-sleep",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gillen-O'Neel et al., \"To study or to sleep? The academic costs of extra studying at the expense of sleep\" (Child Development, 2013)",
+    "sourceUrl": "https://doi.org/10.1111/j.1467-8624.2012.01834.x",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/exam-eve-morning-checklist/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "寝る時間を削れば点が上がる？",
+        "body": "テスト前は「寝る時間を削ってでも勉強した方が点が取れる」と思いがち。1時間でも多く勉強した方が得な気がするよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "高校生535人の毎日の日誌",
+        "body": "高校生535人が、9・10・12年生の各学年で14日間、毎日の勉強時間と睡眠時間、翌日に授業や課題で困ったかを日誌に書いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "削った翌日ほどつまずいた",
+        "body": "ふだんどれだけ勉強する生徒かに関係なく、いつもより睡眠を削って勉強した翌日は、授業がわかりにくく、課題やテストで苦労しやすかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日誌の自己報告の研究",
+        "body": "くじで睡眠を分けた実験ではなく、生徒本人の日誌の研究。成績そのものではなく「困ったか」を聞いている。大人の独学でも同じかはわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-exam-eve-morning-checklist-retrieval-under-stress",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Smith et al., \"Retrieval practice protects memory against acute stress\" (Science, 2016)",
+    "sourceUrl": "https://doi.org/10.1126/science.aah5067",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/exam-eve-morning-checklist/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "本番で頭が真っ白になるのは防げる？",
+        "body": "緊張すると、覚えたはずのことが出てこない。ストレスが思い出す力を下げることは、多くの研究で知られているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "読み直しと「思い出す練習」",
+        "body": "参加者に、読み直す方法か、自分でテストする「思い出す練習」で覚えてもらった。24時間後、半数に強いストレスをかけてから記憶を調べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "思い出す練習の組は落ちなかった",
+        "body": "読み直した人はストレスで思い出せる量が減ったけど、思い出す練習をした人は減らなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "追試では結果が揺れている",
+        "body": "別の研究者の実験では、ストレスの影響は単語の難しさで変わったり、その結果が再現されなかったりした。最初の実験はストレスホルモンを測っていないという指摘もあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

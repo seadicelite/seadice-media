@@ -231,7 +231,8 @@
      "caffeine-sleep-study-reset"
     ],
     "use": [
-     "sleep-log-checklist-for-learners"
+     "sleep-log-checklist-for-learners",
+     "exam-eve-morning-checklist"
     ],
     "why": [
      "why-sleep-organizes-memory",
