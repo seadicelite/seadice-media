@@ -2882,5 +2882,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-adult-relearning-starting-point-check-self-assessment",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Davis et al., \"Accuracy of physician self-assessment compared with observed measures of competence: a systematic review\" (JAMA, 2006)",
+    "sourceUrl": "https://doi.org/10.1001/jama.296.9.1094",
+    "studyType": "レビュー",
+    "articleUrl": "https://dokugaku.seadice.win/adult-relearning-starting-point-check/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自分の実力は、自分が一番わかっている？",
+        "body": "「この分野はだいたいわかってる」って感覚、けっこう信じちゃうよね。学び直しで、どこを飛ばすか決めるときもそう。でも、その感覚って当たるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "医師の自己評価を調べた研究をまとめた",
+        "body": "2006年のレビューは、725本の論文から17本を選び、医師などの自己評価と、外から測った実際の力を比べた。比べた組み合わせは全部で20あったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "20のうち13は、ほぼ一致しなかった",
+        "body": "関係が弱い、ない、逆向きだったのが13。一致する方向だったのは7。力が低い人や自信が強い人ほど、自己評価が一番ずれていた研究もあったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "医師の話で、研究の質もまちまち",
+        "body": "対象は英米などの医師や研修医で、著者たち自身が研究の質は十分ではないと書いている。勉強の単元を自己評価する場面で同じかは、別に確かめる必要があるよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

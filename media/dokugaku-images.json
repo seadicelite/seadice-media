@@ -2188,8 +2188,8 @@
  },
  "gum-sugar-before-study-focus": {
   "file": "File:Chocolate Mud Cake, Carrington's Bar & Grill, 2026 (01).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Chocolate_Mud_Cake%2C_Carrington%27s_Bar_%26_Grill%2C_2026_%2801%29.jpg/960px-Chocolate_Mud_Cake%2C_Carrington%27s_Bar_%26_Grill%2C_2026_%2801%29.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Chocolate_Mud_Cake%2C_Carrington%27s_Bar_%26_Grill%2C_2026_%2801%29.jpg/500px-Chocolate_Mud_Cake%2C_Carrington%27s_Bar_%26_Grill%2C_2026_%2801%29.jpg",
+  "src": "/img/gum-sugar-before-study-focus.jpg",
+  "src640": "/img/gum-sugar-before-study-focus-sm.jpg",
   "w": 960,
   "h": 960,
   "alt": "皿にのったチョコレートケーキとスプーン",
@@ -2197,6 +2197,29 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Chocolate_Mud_Cake,_Carrington%27s_Bar_%26_Grill,_2026_(01).jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Chocolate_Mud_Cake%2C_Carrington%27s_Bar_%26_Grill%2C_2026_%2801%29.jpg/960px-Chocolate_Mud_Cake%2C_Carrington%27s_Bar_%26_Grill%2C_2026_%2801%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Chocolate_Mud_Cake%2C_Carrington%27s_Bar_%26_Grill%2C_2026_%2801%29.jpg/500px-Chocolate_Mud_Cake%2C_Carrington%27s_Bar_%26_Grill%2C_2026_%2801%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/gum-sugar-before-study-focus.jpg",
+  "local": true
+ },
+ "adult-relearning-starting-point-check": {
+  "file": "File:Creative-desk-pens-school (23698555204).jpg",
+  "src": "/img/adult-relearning-starting-point-check.jpg",
+  "src640": "/img/adult-relearning-starting-point-check-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "並んだ色鉛筆",
+  "artist": "www.Pixel.la Free Stock Photos",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Creative-desk-pens-school_(23698555204).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Creative-desk-pens-school_%2823698555204%29.jpg/960px-Creative-desk-pens-school_%2823698555204%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Creative-desk-pens-school_%2823698555204%29.jpg/500px-Creative-desk-pens-school_%2823698555204%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/adult-relearning-starting-point-check.jpg",
+  "local": true
  }
 }

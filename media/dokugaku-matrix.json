@@ -337,7 +337,8 @@
      "adult-memory-confidence-age-belief"
     ],
     "use": [
-     "adult-relearning-plan-sheet"
+     "adult-relearning-plan-sheet",
+     "adult-relearning-starting-point-check"
     ],
     "judge": [
      "brain-training-games-adult-learning"
