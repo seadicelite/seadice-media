@@ -2588,5 +2588,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Calendar_on_wall_-_DPLA_-_1b7b70c03a8e3a49d7c74ceab6396d5d.jpg/500px-Calendar_on_wall_-_DPLA_-_1b7b70c03a8e3a49d7c74ceab6396d5d.jpg",
   "og": "https://research.seadice.win/img/habit-streak-broken-restart-research.jpg",
   "local": true
+ },
+ "sns-wasted-day-next-day-focus-research": {
+  "file": "File:Colored pen and smartphone on a table (Unsplash 36nRvt6EP2I).jpg",
+  "src": "/img/sns-wasted-day-next-day-focus-research.jpg",
+  "src640": "/img/sns-wasted-day-next-day-focus-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "スマートフォンを両手で持つ手と、ぼやけた光",
+  "artist": "Gabriel Santiago gabrielssantiago",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Colored_pen_and_smartphone_on_a_table_(Unsplash_36nRvt6EP2I).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg/960px-Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg/500px-Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg",
+  "og": "https://research.seadice.win/img/sns-wasted-day-next-day-focus-research.jpg",
+  "local": true
  }
 }

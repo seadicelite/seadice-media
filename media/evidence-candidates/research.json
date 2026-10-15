@@ -3688,5 +3688,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-sns-wasted-day-next-day-focus-research-block-mobile-internet",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Castelo et al., \"Blocking mobile internet on smartphones improves sustained attention, mental health, and subjective well-being\" (PNAS Nexus, 2025)",
+    "sourceUrl": "https://doi.org/10.1093/pnasnexus/pgaf017",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/sns-wasted-day-next-day-focus-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "スマホのせいで集中できない？",
+        "body": "スマホを見すぎて集中が続かない、ってよく聞くよね。でも、本当にスマホを減らすと集中は戻るんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ネットだけ2週間止めてみた",
+        "body": "iPhone利用者467人を2つのグループに分けて、アプリでスマホのネットを2週間止めたんだ。電話とメッセージ、パソコンのネットは使えるまま。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "注意力が「10歳分」上がった",
+        "body": "1日の利用時間は314分から161分に減って、注意を保つテストの成績が上がったらしい。その差は年齢による低下の約10年分に当たる大きさだった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "続けられた人は4人に1人",
+        "body": "決めたとおりネットを止め続けられたのは25.5%だけ。参加者は研究の目的を知っていたから、気分の自己評価には期待の影響もありうるよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
