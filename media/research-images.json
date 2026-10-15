@@ -2277,5 +2277,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Woman_holding_glass_of_coffee_indoors_while_sitting_by_the_window.jpg/500px-Woman_holding_glass_of_coffee_indoors_while_sitting_by_the_window.jpg",
   "og": "https://research.seadice.win/img/morning-grogginess-sleep-inertia-focus-recovery-research.jpg",
   "local": true
+ },
+ "habit-no-results-yet-want-to-quit-research": {
+  "file": "File:Young seedling of tomato emerging from soil - India.jpg",
+  "src": "/img/habit-no-results-yet-want-to-quit-research.jpg",
+  "src640": "/img/habit-no-results-yet-want-to-quit-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "土から顔を出した小さな芽",
+  "artist": "Ksheera Piraati",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Young_seedling_of_tomato_emerging_from_soil_-_India.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Young_seedling_of_tomato_emerging_from_soil_-_India.jpg/960px-Young_seedling_of_tomato_emerging_from_soil_-_India.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Young_seedling_of_tomato_emerging_from_soil_-_India.jpg/500px-Young_seedling_of_tomato_emerging_from_soil_-_India.jpg",
+  "og": "https://research.seadice.win/img/habit-no-results-yet-want-to-quit-research.jpg",
+  "local": true
  }
 }

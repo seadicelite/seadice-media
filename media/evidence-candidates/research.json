@@ -2838,5 +2838,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-habit-no-results-yet-want-to-quit-research-acceptable-goal",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Dalle Grave et al., \"Weight loss expectations and attrition in treatment-seeking obese women\" (Obesity Facts, 2015)",
+    "sourceUrl": "https://doi.org/10.1159/000441366",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/habit-no-results-yet-want-to-quit-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "目標が高すぎると、途中で挫折する？",
+        "body": "大きすぎる夢を持つと、届かなくてやめてしまう。よく聞く話だよね。でも実際に調べると、話は少し違ったんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "減量を始めた634人を1年追った",
+        "body": "イタリアの8施設で減量を始めた女性634人に、「夢の体重」から「これだとがっかりする体重」まで4段階の目標を聞いて、1年後まで追ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "やめる引き金は「合格ライン」",
+        "body": "1年以内に32.3%がやめた。やめることと結びついたのは夢の目標ではなく、「これなら受け入れられる」「これだとがっかり」というラインの高さだったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ほかの習慣でも同じ？",
+        "body": "観察研究なので原因とは言い切れないし、対象は減量中の女性だけ。費用のかからない臨床試験では、目標とやめることの関係は見つかっていないらしい。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
