@@ -3222,5 +3222,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-reading-too-slow-cannot-finish-speed-reading",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rayner et al., \"So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help?\" (Psychological Science in the Public Interest, 2016)",
+    "sourceUrl": "https://doi.org/10.1177/1529100615623267",
+    "studyType": "レビュー",
+    "articleUrl": "https://dokugaku.seadice.win/reading-too-slow-cannot-finish/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "速読を覚えれば、理解したまま何倍も速く読める？",
+        "body": "「速読で本を3倍速く読める」という話、よく聞くよね。読む量が多い人ほど気になるはず。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "読みの研究者たちがまとめて検証",
+        "body": "読む仕組みの研究者5人が、目の動きや速読の研究をまとめたレビューを2016年に出したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "速さと理解は引き換えだった",
+        "body": "結論は、理解を保ったまま1分約250語から500〜750語に速めるのは難しい、というもの。ざっと読みなら速く読めるけど、理解はほどほどになるらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "英語の読書の研究が中心",
+        "body": "まとめられたのは主に英語の研究。日本語の文章でどうなるかは、このレビューだけではわからない。理解を保って速くする道は、読む練習と語彙を増やすことだとされている。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]

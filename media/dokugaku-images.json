@@ -2329,5 +2329,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brown_and_beige%2C_Computer_desk%2C_Rostov-on-Don%2C_Russia.jpg/500px-Brown_and_beige%2C_Computer_desk%2C_Rostov-on-Don%2C_Russia.jpg",
   "og": "https://dokugaku.seadice.win/img/screen-eye-strain-study-recovery.jpg",
   "local": true
+ },
+ "reading-too-slow-cannot-finish": {
+  "file": "File:Stack of books on table.jpg",
+  "src": "/img/reading-too-slow-cannot-finish.jpg",
+  "src640": "/img/reading-too-slow-cannot-finish-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上に積まれた本",
+  "artist": "Leon Brooks",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Stack_of_books_on_table.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Stack_of_books_on_table.jpg/960px-Stack_of_books_on_table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Stack_of_books_on_table.jpg/500px-Stack_of_books_on_table.jpg",
+  "og": "https://dokugaku.seadice.win/img/reading-too-slow-cannot-finish.jpg",
+  "local": true,
+  "unconverted": true
  }
 }
