@@ -1353,7 +1353,7 @@
   "src640": "/img/sleep-deprived-next-day-focus-research-sm.webp",
   "w": 960,
   "h": 720,
-  "alt": "テーブルの上のコーヒーカップ",
+  "alt": "銀色の小さなコーヒーカップ",
   "artist": "Ssu",
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -2314,6 +2314,23 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg/960px-Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg/500px-Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg",
   "og": "https://research.seadice.win/img/best-possible-self-writing-mood-research-og.jpg",
+  "local": true
+ },
+ "coffee-caffeine-focus-amount-timing-research": {
+  "file": "File:Miniature silver coffee cup.jpg",
+  "src": "/img/coffee-caffeine-focus-amount-timing-research.webp",
+  "src640": "/img/coffee-caffeine-focus-amount-timing-research-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "銀色の小さなコーヒーカップ",
+  "artist": "Mauro Cateb",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Miniature_silver_coffee_cup.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Miniature_silver_coffee_cup.jpg/960px-Miniature_silver_coffee_cup.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Miniature_silver_coffee_cup.jpg/500px-Miniature_silver_coffee_cup.jpg",
+  "og": "https://research.seadice.win/img/coffee-caffeine-focus-amount-timing-research-og.jpg",
   "local": true
  }
 }

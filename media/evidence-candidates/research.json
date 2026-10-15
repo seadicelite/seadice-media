@@ -2940,5 +2940,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-coffee-caffeine-focus-amount-timing-research-withdrawal",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rogers et al., \"Faster but not smarter: effects of caffeine and caffeine withdrawal on alertness and performance\" (Psychopharmacology, 2013)",
+    "sourceUrl": "https://doi.org/10.1007/s00213-012-2889-4",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/coffee-caffeine-focus-amount-timing-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "朝のコーヒーで頭が冴える",
+        "body": "「コーヒーを飲まないと頭が働かない」って言う人、多いよね。でもそれ、本当に頭が良くなっているのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "369人で前の晩から抜いてみた",
+        "body": "ふだん多めに飲む212人と、ほとんど飲まない157人に、前の晩からカフェインを抜いてもらい、偽薬かカフェインを飲んで比べた実験があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「戻った」だけかもしれない",
+        "body": "多めに飲む人は、抜くだけで眠気が強まり反応も遅くなった。カフェインで戻ったけど、飲まない人では、そわそわ感が増えて頭の冴えは上がらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本当に上乗せはないの？",
+        "body": "1日だけの実験で、別の31件の実験のまとめでは、ふだんの摂取量で効果は変わらなかった。毎日飲む人に上乗せの効果があるかは、まだ議論が続いているんだ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
