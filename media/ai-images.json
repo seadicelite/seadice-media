@@ -1766,5 +1766,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Middle-aged_woman_working_on_laptop_while_holding_smartphone_at_a_wooden_table.jpg/500px-Middle-aged_woman_working_on_laptop_while_holding_smartphone_at_a_wooden_table.jpg",
   "og": "https://ai.seadice.win/img/sns-recommendation-appearance-feed-prepare-og.jpg",
   "local": true
+ },
+ "ai-said-maybe-depression-anxious": {
+  "file": "File:Field Notes and pencil (Unsplash).jpg",
+  "src": "/img/ai-said-maybe-depression-anxious.webp",
+  "src640": "/img/ai-said-maybe-depression-anxious-sm.webp",
+  "w": 960,
+  "h": 641,
+  "alt": "机の上の書類とメモ帳と鉛筆",
+  "artist": "Helloquence helloquence",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Field_Notes_and_pencil_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Field_Notes_and_pencil_%28Unsplash%29.jpg/960px-Field_Notes_and_pencil_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Field_Notes_and_pencil_%28Unsplash%29.jpg/500px-Field_Notes_and_pencil_%28Unsplash%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-said-maybe-depression-anxious-og.jpg",
+  "local": true
  }
 }
