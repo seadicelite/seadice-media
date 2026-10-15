@@ -3358,5 +3358,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-preview-headings-before-reading-headings-summary",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lorch et al., \"Effects of headings on text summarization\" (Contemporary Educational Psychology, 2001)",
+    "sourceUrl": "https://doi.org/10.1006/ceps.1999.1037",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/preview-headings-before-reading/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "見出しって、本当に役に立つ？",
+        "body": "教科書の見出し、なんとなく読み飛ばしてないかな。実は見出しがあるかどうかで、読んだ人が何を覚えているかが変わるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "見出しの数を変えて要約させた",
+        "body": "米国の大学生と小中学生に、複数の話題がある文章を読んで要約してもらった実験がある。見出しが全部ある・半分だけ・無しの3通りを比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "見出しのある話題が要約に残る",
+        "body": "3つの実験すべてで、見出しのある話題ほど要約に入りやすかった。でも見出しが半分だけだと、見出しの無い話題は逆に落ちやすくなったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "成績まで変わるかは別の話",
+        "body": "これは要約に何が入るかを見た実験で、試験の点や数日後の記憶までは調べていない。見出しは地図として使い、本文も読むのが安全そう。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]

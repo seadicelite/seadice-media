@@ -122,7 +122,8 @@
     ],
     "how": [
      "pretesting-before-reading",
-     "generate-questions-while-reading"
+     "generate-questions-while-reading",
+     "preview-headings-before-reading"
     ],
     "stuck": [
      "mind-wandering-while-reading",

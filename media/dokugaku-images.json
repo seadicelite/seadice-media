@@ -2401,5 +2401,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg/960px-Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg",
   "og": "https://dokugaku.seadice.win/img/cant-sleep-worrying-about-study-exam.jpg",
   "local": true
+ },
+ "preview-headings-before-reading": {
+  "file": "File:\"I Hear America Singing\" 55 Community Songs (c.1917) CONTENTS PAGE.jpg",
+  "src": "/img/preview-headings-before-reading.jpg",
+  "src640": "/img/preview-headings-before-reading-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "古い本の目次のページ",
+  "artist": "Sarahhcoombs",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:%22I_Hear_America_Singing%22_55_Community_Songs_(c.1917)_CONTENTS_PAGE.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/%22I_Hear_America_Singing%22_55_Community_Songs_%28c.1917%29_CONTENTS_PAGE.jpg/960px-%22I_Hear_America_Singing%22_55_Community_Songs_%28c.1917%29_CONTENTS_PAGE.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/%22I_Hear_America_Singing%22_55_Community_Songs_%28c.1917%29_CONTENTS_PAGE.jpg/500px-%22I_Hear_America_Singing%22_55_Community_Songs_%28c.1917%29_CONTENTS_PAGE.jpg",
+  "og": "https://dokugaku.seadice.win/img/preview-headings-before-reading.jpg",
+  "local": true
  }
 }
