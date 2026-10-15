@@ -3562,5 +3562,73 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-explain-to-ai-find-gaps-chat-explaining",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Jacob, Lachner & Scheiter, \"Does increasing social presence enhance the effectiveness of writing explanations?\" (PLOS ONE, 2021)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0250406",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/explain-to-ai-find-gaps/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "誰かに説明するつもりで書くと覚えやすい？",
+        "body": "「人に教えるつもりで説明すると身につく」ってよく聞くよね。じゃあ、チャットで相手に話しかけるように説明したら、もっと効くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "4つのやり方をくらべた",
+        "body": "ドイツの大学生137人が免疫学の文章を読んだあと、教材を見ずに10分、声で説明・文章で説明・チャット風の画面で説明・ただ思い出して書く、のどれかをした。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "理解のテストに差はなかった",
+        "body": "実は、4つの組の成績に差はなかったらしい。説明した組の方が「楽しかった」「おもしろかった」と答えたけど、成績は思い出すだけの組と同じだった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "教材が難しすぎた？",
+        "body": "著者たちは、教材が難しすぎた可能性を挙げている。説明が効いた前の研究を再現できなかった1本なので、説明に意味がないとまでは言えない。"
+      }
+    ],
+    "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-explain-to-ai-find-gaps-face-to-face-teaching",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kobayashi, \"Interactivity: A Potential Determinant of Learning by Preparing to Teach and Teaching\" (Frontiers in Psychology, 2019)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2018.02755",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/explain-to-ai-find-gaps/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "教え方で、自分の学びは変わる？",
+        "body": "教えると自分も覚えるっていうけど、対面で教えるのと、動画や文章で説明するのとでは、違いがあるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "教える研究のメタ分析を分析し直した",
+        "body": "静岡大学の小林（Kobayashi）さんが、教えて学ぶ研究のメタ分析のデータを分析し直して、教え方ごとの効果をくらべた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "対面で教えると効果が大きかった",
+        "body": "教えるつもりで学んで対面で教えると、効果の大きさは0.84。動画や文章で一方的に説明すると0.48だったらしい。質問をし合えることが理由の候補に挙がっている。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "なぜ対面が効くのか",
+        "body": "対面がなぜ効くのかは、まだ候補の段階。相手がAIの場合に同じ効果があるかも、この研究ではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]

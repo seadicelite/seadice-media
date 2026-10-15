@@ -2489,5 +2489,23 @@
   "remote640": "https://commons.wikimedia.org/wiki/Special:FilePath/Late_2010_MacBook_Air.jpg?width=500",
   "og": "https://dokugaku.seadice.win/img/phone-offline-study-blocks.jpg",
   "local": true
+ },
+ "explain-to-ai-find-gaps": {
+  "file": "File:Laptop and coffee on a desk.jpg",
+  "src": "/img/explain-to-ai-find-gaps.jpg",
+  "src640": "/img/explain-to-ai-find-gaps-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "木の机の上のノートパソコン、コーヒー、鉛筆、付せん",
+  "artist": "Lauren Mancke",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Laptop_and_coffee_on_a_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://commons.wikimedia.org/wiki/Special:FilePath/Laptop_and_coffee_on_a_desk.jpg?width=960",
+  "remote640": "https://commons.wikimedia.org/wiki/Special:FilePath/Laptop_and_coffee_on_a_desk.jpg?width=500",
+  "og": "https://dokugaku.seadice.win/img/explain-to-ai-find-gaps.jpg",
+  "local": true
  }
 }

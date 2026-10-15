@@ -1,5 +1,13 @@
 [
   {
+    "slug": "explain-to-ai-find-gaps",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-16",
+    "title": "AIに自分の説明を聞かせて、抜けや誤りを見つけるには？説明して学ぶ研究からわかったやり方",
+    "summary": "効くのは教材を閉じて思い出す部分。AIには正しい説明を書かせず質問だけさせ、詰まった所とAIの指摘は教材で確かめる5つの手順"
+  },
+  {
     "slug": "phone-offline-study-blocks",
     "category": "集中・環境",
     "type": "guide",
