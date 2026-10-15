@@ -2950,5 +2950,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-self-imposed-deadlines-study-replication",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hyndman & Bisin, \"Replication of 'Procrastination, Deadlines, and Performance: Self-Control by Precommitment'\" (Psychological Science, 2026)",
+    "sourceUrl": "https://doi.org/10.1177/09567976261460772",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/self-imposed-deadlines-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自分で締め切りを決めると、はかどる？",
+        "body": "「人は自分に締め切りを課すと先延ばしが減る。でも外から等間隔に決められた締め切りの方がもっと効く」。2002年の有名な実験の話で、勉強法や時間管理の本でよく紹介されてきたよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ実験をやり直してみた",
+        "body": "2026年、研究者たちがこの実験の研究2を、米国の大きな公立大学の大人の参加者で確かめ直したんだ。締め切りの決め方を変えて、元の研究と同じ成績の指標を比べたらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差はほとんど出なかった",
+        "body": "締め切りの決め方を変えても、3つの成績の指標にはほとんど差が出なかった。等間隔の締め切りも目立たなかった。そして同じ年の9月、雑誌は元の論文を撤回したんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "締め切りが無意味とまでは言えない",
+        "body": "確かめ直したのは研究2の1つだけで、1つの大学での結果。社会人が一人で続ける勉強で、自分で決めた締め切りがどう働くかを直接調べた研究は、まだ見つかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
