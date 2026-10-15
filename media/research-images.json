@@ -2485,5 +2485,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bedroom_Woodford_01.JPG/500px-Bedroom_Woodford_01.JPG",
   "og": "https://research.seadice.win/img/dark-bedroom-light-during-sleep-research-og.jpg",
   "local": true
+ },
+ "jet-lag-recovery-light-timing-research": {
+  "file": "File:Airplane wing sky and clouds.jpg",
+  "src": "/img/jet-lag-recovery-light-timing-research.webp",
+  "src640": "/img/jet-lag-recovery-light-timing-research-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "雲の上を飛ぶ飛行機の翼",
+  "artist": "Tobias1984",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Airplane_wing_sky_and_clouds.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Airplane_wing_sky_and_clouds.jpg/960px-Airplane_wing_sky_and_clouds.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Airplane_wing_sky_and_clouds.jpg/500px-Airplane_wing_sky_and_clouds.jpg",
+  "og": "https://research.seadice.win/img/jet-lag-recovery-light-timing-research-og.jpg",
+  "local": true
  }
 }

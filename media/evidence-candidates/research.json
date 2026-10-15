@@ -3416,5 +3416,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-jet-lag-recovery-light-timing-research-preflight",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Burgess et al., \"Preflight adjustment to eastward travel: 3 days of advancing sleep with and without morning bright light\" (Journal of Biological Rhythms, 2003)",
+    "sourceUrl": "https://doi.org/10.1177/0748730403253585",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/jet-lag-recovery-light-timing-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "時差ぼけは出発前に減らせる？",
+        "body": "東向きの旅は時差ぼけがつらいよね。出発前に体内時計を先に動かしておけないのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3日間、毎日1時間ずつ早寝早起き",
+        "body": "22〜43歳の28人が、3日間、毎日1時間ずつ早寝早起きした。起きてから3.5時間、強い光を浴びる組、光を30分おきにつけたり消したりする組、薄暗い室内の組に分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "強い光で約2時間早まった",
+        "body": "体内時計は、強い光を浴び続けた組で2.1時間、30分おきの組で1.5時間、薄暗い組で0.6時間早まった。睡眠が減ったのは平均1時間未満だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実際の旅では試していない",
+        "body": "研究室の実験で、飛行機に乗った後に時差ぼけが軽くなるかは調べていないよ。人数も少なく、若い大人だけが対象だった。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
