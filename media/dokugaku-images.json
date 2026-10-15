@@ -2365,5 +2365,23 @@
   "og": "https://dokugaku.seadice.win/img/study-room-lighting-how-to.jpg",
   "local": true,
   "unconverted": true
+ },
+ "english-video-subtitles-how-to": {
+  "file": "File:Old television set at the Finnish Architecture Museum.jpg",
+  "src": "/img/english-video-subtitles-how-to.jpg",
+  "src640": "/img/english-video-subtitles-how-to-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "部屋に置かれた古いテレビ",
+  "artist": "JIP",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Old_television_set_at_the_Finnish_Architecture_Museum.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Old_television_set_at_the_Finnish_Architecture_Museum.jpg/960px-Old_television_set_at_the_Finnish_Architecture_Museum.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Old_television_set_at_the_Finnish_Architecture_Museum.jpg/960px-Old_television_set_at_the_Finnish_Architecture_Museum.jpg",
+  "og": "https://dokugaku.seadice.win/img/english-video-subtitles-how-to.jpg",
+  "local": true
  }
 }

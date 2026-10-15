@@ -3290,5 +3290,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-english-video-subtitles-how-to-native-subtitles",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mitterer & McQueen, \"Foreign Subtitles Help but Native-Language Subtitles Harm Foreign Speech Perception\" (PLoS ONE, 2009)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0007785",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/english-video-subtitles-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "日本語字幕で海外ドラマを見れば英語が身につく？",
+        "body": "好きなドラマを日本語字幕で見ていれば、そのうち英語も聞けるようになる。そう思って見ている人、けっこういるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "字幕の言語を変えて25分見てもらった",
+        "body": "オランダの研究者が、英語の得意な大学生120人に、聞き慣れないスコットランドやオーストラリアの英語のドラマ・映画を25分見てもらった。字幕は英語・オランダ語・なしの3通り。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "母語の字幕だと、新しい文の聞き取りが下がった",
+        "body": "見た後に初めて聞く文を復唱してもらうと、英語字幕の人は字幕なしの人よりよく聞き取れた。逆に、母語の字幕で見た人は字幕なしより悪かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "25分の実験で、測ったのは「なまりへの慣れ」",
+        "body": "単語をどれだけ覚えたかや、何か月も見続けたときの効果は測っていない。英語がもともと得意な人たちでの結果でもあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
