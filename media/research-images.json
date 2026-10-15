@@ -2519,5 +2519,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dictionary_indents_headon.jpg/500px-Dictionary_indents_headon.jpg",
   "og": "https://research.seadice.win/img/forgotten-words-relearning-savings-research-og.jpg",
   "local": true
+ },
+ "flashcards-how-to-use-research": {
+  "file": "File:Schlagwortkatalog.jpg",
+  "src": "/img/flashcards-how-to-use-research.webp",
+  "src640": "/img/flashcards-how-to-use-research-sm.webp",
+  "w": 960,
+  "h": 812,
+  "alt": "図書館のカード目録",
+  "artist": "Dr. Marcus Gossler",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Schlagwortkatalog.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schlagwortkatalog.jpg/960px-Schlagwortkatalog.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schlagwortkatalog.jpg/500px-Schlagwortkatalog.jpg",
+  "og": "https://research.seadice.win/img/flashcards-how-to-use-research-og.jpg",
+  "local": true
  }
 }

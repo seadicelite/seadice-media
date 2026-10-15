@@ -3518,5 +3518,73 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-flashcards-how-to-use-research-relearn3",
+    "category": "記憶・学習",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rawson & Dunlosky, \"Optimizing schedules of retrieval practice for durable and efficient learning: How much is enough?\" (Journal of Experimental Psychology: General, 2011)",
+    "sourceUrl": "https://doi.org/10.1037/a0023956",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/flashcards-how-to-use-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "暗記は何回くり返せばいい？",
+        "body": "単語や用語を覚えるとき、何回正解したら次に進んでいいのか迷うよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "533人で回数と学び直しを比べた",
+        "body": "学生533人が用語の説明を思い出す練習をした。最初の日に1〜4回正解するまで練習して、そのあと1〜5回学び直したんだ。1〜4か月後に記憶を調べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "最初に3回、あとで3回",
+        "body": "学び直しの効果が大きく、追加の練習量はそれほど増えなかった。著者たちのおすすめは、最初に3回正解するまで練習して、日を大きくあけて3回学び直すことらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どんな教材にも当てはまる？",
+        "body": "用語の説明を覚える課題での結果で、計算や長い文章の理解でも同じかはわからない。あけるべき日数も、教材によって変わるかもしれないよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-flashcards-how-to-use-research-rounds",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Huang et al., \"The moderating role of learning rounds: Effects on retrieval practice and context dependence in digital flashcard foreign language vocabulary learning\" (Behavioral Sciences, 2025)",
+    "sourceUrl": "https://doi.org/10.3390/bs15111540",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/flashcards-how-to-use-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "単語はくり返し読めば覚える？",
+        "body": "単語帳を何度も読めば覚えられる、ってよく言うよね。読むのと思い出すの、どっちがいいのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "108人がカードで60組を学習",
+        "body": "中国語を母語とする108人が、スワヒリ語と中国語の単語60組をパソコンのカードで覚えた。読むだけの練習と、答えを思い出す練習を3周か4周したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "思い出す方が、周回で差が広がった",
+        "body": "紙のテストの正答率は、思い出す練習が3周で48%、4周で65%。読むだけは3周39%、4周51%だった。周回を増やすほど差が広がったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日をあけた学習ではどうか",
+        "body": "テストは学習の30分後で、全部1日のうちに行った実験。何週間もかけて覚える場合に同じ結果になるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
