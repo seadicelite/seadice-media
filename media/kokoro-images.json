@@ -3408,5 +3408,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%27OLD_COTTAGE%27_PENCIL_ON_PAPER_BY_JAIME_PROSSER.jpg/500px-%27OLD_COTTAGE%27_PENCIL_ON_PAPER_BY_JAIME_PROSSER.jpg",
   "og": "https://mentalai.seadice.win/img/comparison-meaning-in-life.jpg",
   "local": true
+ },
+ "work-criticism-rumination-walk": {
+  "file": "File:Beddington Park, Tree-lined path - geograph.org.uk - 1795444.jpg",
+  "src": "/img/work-criticism-rumination-walk.jpg",
+  "src640": "/img/work-criticism-rumination-walk-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木々に囲まれた公園の小道",
+  "artist": "Dr Neil Clifton",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Beddington_Park,_Tree-lined_path_-_geograph.org.uk_-_1795444.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beddington_Park%2C_Tree-lined_path_-_geograph.org.uk_-_1795444.jpg/960px-Beddington_Park%2C_Tree-lined_path_-_geograph.org.uk_-_1795444.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beddington_Park%2C_Tree-lined_path_-_geograph.org.uk_-_1795444.jpg/500px-Beddington_Park%2C_Tree-lined_path_-_geograph.org.uk_-_1795444.jpg",
+  "og": "https://mentalai.seadice.win/img/work-criticism-rumination-walk.jpg",
+  "local": true
  }
 }

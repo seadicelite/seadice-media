@@ -2857,5 +2857,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-work-criticism-rumination-walk-nature-walk",
+    "category": "ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bratman GN et al., \"Nature experience reduces rumination and subgenual prefrontal cortex activation\" (PNAS, 2015)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.1510459112",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/work-criticism-rumination-walk/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "モヤモヤしたら散歩がいい？",
+        "body": "いやなことを何度も思い返してしまうとき、「歩けばすっきりする」ってよく言うよね。歩く場所で違いがあるのか、確かめた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "緑の道と大通りで90分",
+        "body": "米国の都市に住む38人を2組に分けて、片方は草地と木のある道、もう片方は車の多い大通りを90分歩いてもらった。歩く前後で、思い返しのくせを質問紙で測ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "緑の道の組で少し下がった",
+        "body": "緑の道の組は思い返しの点数が35.39から33.06に下がって、大通りの組は30.11から30.16でほぼ変わらなかったらしい。脳の画像でも、緑の道の組でだけ変化があった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "2組の差ははっきりしない",
+        "body": "2組の変化の差は統計的にははっきりしなかった（p=0.07）。人数は38人と少ないし、測ったのは1回歩いた直後だけ。短い散歩でも同じかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
