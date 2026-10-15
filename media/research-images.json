@@ -2402,5 +2402,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SCP_Foundation_-_Just_doing_my_paperwork.jpg/500px-SCP_Foundation_-_Just_doing_my_paperwork.jpg",
   "og": "https://research.seadice.win/img/worry-cant-concentrate-why-research.jpg",
   "local": true
+ },
+ "stress-tired-old-habits-why-research": {
+  "file": "File:Cup of black tea.JPG",
+  "src": "/img/stress-tired-old-habits-why-research.jpg",
+  "src640": "/img/stress-tired-old-habits-why-research-sm.jpg",
+  "w": 960,
+  "h": 894,
+  "alt": "カップに入った紅茶",
+  "artist": "AntanO",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cup_of_black_tea.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cup_of_black_tea.JPG/960px-Cup_of_black_tea.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cup_of_black_tea.JPG/500px-Cup_of_black_tea.JPG",
+  "og": "https://research.seadice.win/img/stress-tired-old-habits-why-research.jpg",
+  "local": true
  }
 }

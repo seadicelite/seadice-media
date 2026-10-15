@@ -3178,5 +3178,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-stress-tired-old-habits-why-research-stress-habit",
+    "category": "習慣",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Schwabe & Wolf, \"Stress prompts habit behavior in humans\" (Journal of Neuroscience, 2009)",
+    "sourceUrl": "https://doi.org/10.1523/JNEUROSCI.0979-09.2009",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/stress-tired-old-habits-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ストレスの日は、いつものクセが出る？",
+        "body": "疲れた日に、やめたはずのお菓子に手が伸びることってあるよね。ストレスで「考えて選ぶ」より「いつもの行動」が出やすくなる、という説を確かめた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "氷水に3分、手を入れてもらった",
+        "body": "0〜2℃の氷水に3分間手を入れ、知らない人に見られるストレスを受けてから、2つの行動でチョコミルクかオレンジジュースがもらえることを学んでもらった。そのあと片方をおなかいっぱい食べてもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "いらなくなった物の行動も続けた",
+        "body": "ストレスなしの人は、まだ欲しい方の行動を多く選んだ。ストレスありの人は、欲しくなくなった方の行動も同じくらい続けていたんだ。行動と結果のつながりを言えた人も28%と、ストレスなし（58%）より少なかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "追試では確認できなかった",
+        "body": "分析できたのは60人で、1回きりの実験室の課題。2023年に同じ実験をそのままくり返した2つの追試（80人・95人）では、ストレスの影響は出なかった。日常の習慣にどこまで当てはまるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
