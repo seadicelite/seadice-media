@@ -3,7 +3,7 @@
   python3 media/ledger_tools.py && python3 media/build.py ledger
 
 文言・数字は、出典照合済みの記事に載っているものだけを使う。記録はブラウザの localStorage だけに保存し、送信しない。
-iOSアプリ Spendology(SEADICE/~/Developer/ファイナンス系/spendology)の Web 版。アプリの紹介は App Store 公開後に足す。
+iOSアプリ 財布の紐（旧 Spendology、SEADICE/~/Developer/ファイナンス系/spendology）の Web 版。アプリの紹介は App Store 公開後に足す。
 新しいツールを足すときは docs/quality/tool.md のページの型に合わせ、PAGES に追加する。
 """
 import json

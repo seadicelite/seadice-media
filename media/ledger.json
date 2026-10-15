@@ -129,11 +129,11 @@
     },
     {
       "id": "spendology",
-      "name": "Spendology",
-      "icon": "",
-      "catch": "欲しい物をすぐ買わずに待つリストへ。時間が来たら「まだ欲しい？」とお知らせし、買わなかった金額は「守れたお金」に",
-      "hubLead": "衝動買い・セール・カード払い・給料日・後悔したときなど、Spendologyの機能のもとになった研究の記事です。",
-      "theme": "衝動買い・買う前に待つ・セールやお得表示・カードや分割払い・給料日・ポイント・後悔したとき。節約しすぎ・投資・ギャンブルの記事には付けない",
+      "name": "財布の紐",
+      "icon": "/img/apps/spendology.webp",
+      "catch": "「残りわずか」「◯%オフ」「月々◯円」。買い物ページの売る側の仕掛けを研究で見抜き、欲しい物は待つリストで時間を置いて決める",
+      "hubLead": "セールの割引表示・残りわずか・送料無料・分割払い・ポイント・クーポンなど、財布の紐が見抜く「売る側の仕掛け」のもとになった研究の記事です。",
+      "theme": "売る側の仕掛け（割引表示・時間の圧力・残りわずか・人気表示・送料無料・端数価格・分割や後払い・ポイント・クーポン・まとめ買い・カード払い）と、衝動買い・買う前に待つ・後悔したとき。節約しすぎ・投資・ギャンブルの記事には付けない",
       "webUrl": "/wait-list/",
       "articles": [
         "impulse-buying-pre-purchase-checklist",
@@ -154,7 +154,9 @@
         "points-reward-overspending",
         "bulk-buying-stockpile-consumption",
         "small-change-invisible-spending",
-        "envelope-partition-saving"
+        "envelope-partition-saving",
+        "coupon-transaction-utility",
+        "crowding-fomo-psychology"
       ]
     },
     {
