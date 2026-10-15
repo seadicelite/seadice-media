@@ -3392,5 +3392,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-froze-speaking-foreign-language-anxiety-relaxation",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Toyama & Yamazaki, \"Classroom interventions and foreign language anxiety: A systematic review with narrative approach\" (Frontiers in Psychology, 2021)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2021.614184",
+    "studyType": "レビュー",
+    "articleUrl": "https://dokugaku.seadice.win/froze-speaking-foreign-language-anxiety/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "英語の緊張は、グループ練習で慣れる？",
+        "body": "英語を話すと緊張する人には「仲間とたくさん話して慣れよう」とよく言うよね。でも、研究で確かめるとどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "40の介入研究を集めた",
+        "body": "外国語の不安を下げようとした授業の工夫を試した40本の研究を、17の国・地域から集めて整理したレビューがある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "仲間同士だけでは下がらなかった",
+        "body": "仲間のフィードバックやグループ活動だけでは不安は下がらなかった。一方、思い込みを見直す方法と自分への前向きな言葉を、先生や仲間の声かけと組み合わせた方法では下がっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "少人数の研究が多い",
+        "body": "18本は10〜49人の少人数で、比べる群が無い研究も13本あった。授業の中の話なので、一人で学ぶ大人に同じ効果があるかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
