@@ -3620,5 +3620,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-positive-thinking-felt-worse-acceptance-research-acceptance",
+    "category": "気分・ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ford et al., \"The psychological health benefits of accepting negative emotions and thoughts: Laboratory, diary, and longitudinal evidence\" (Journal of Personality and Social Psychology, 2018)",
+    "sourceUrl": "https://doi.org/10.1037/pspp0000157",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/positive-thinking-felt-worse-acceptance-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "嫌な気持ちは、消すべき？",
+        "body": "落ち込んだら早く前向きにならなきゃ、と思いがちだよね。でも、嫌な気持ちを「あっていい」と受け入れたらどうなるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3つの研究で1,000人超を調べた",
+        "body": "嫌な気持ちを判断せずに受け入れる傾向を測って、人前のスピーチ課題（156人）や、14日間の日記と半年後の追跡（222人）で心の状態を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "受け入れる人ほど落ち込みにくい",
+        "body": "受け入れる傾向が強い人は、ストレスの場面での嫌な気持ちが小さめで、半年後の抑うつ（r = −0.34）や不安（r = −0.44）も低めだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "練習すれば同じ効果がある？",
+        "body": "これは受け入れる「傾向」を測った研究で、受け入れを練習させた実験じゃない。前向きな気持ちが増えたわけでもないよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
