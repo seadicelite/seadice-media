@@ -2712,5 +2712,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-study-break-plan-table-phone-break",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kang & Kurtzberg, \"Reach for your cell phone at your own risk: The cognitive costs of media choice for breaks\" (Journal of Behavioral Addictions, 2019)",
+    "sourceUrl": "https://doi.org/10.1556/2006.8.2019.21",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/study-break-plan-table/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "休憩はスマホで気分転換？",
+        "body": "勉強の合間にスマホを見るのは、いい気分転換になると思っている人も多いよね。休憩の「道具」で回復が変わるかを試した実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生414人の実験",
+        "body": "難しい文字並べ替え問題を10問ずつ2回。間に「予算内で買い物を3つ選ぶ」休憩を、スマホ・パソコン・紙のどれかでやってもらった。休憩なしの組もあったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "スマホ休憩だけ回復しにくい",
+        "body": "スマホで休憩した組は、後半に解けた問題が平均6.38問。ほかの休憩の組は8.13問だった。後半にかかった時間は、休憩なしの組と差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回の実験室の結果",
+        "body": "休憩の中身は買い物選びで、SNSや動画を見る休憩を調べたわけではないよ。実験室での1回の結果なので、ふだんの勉強でも同じかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-study-break-plan-table-microbreak-meta",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Albulescu et al., \"'Give me a break!' A systematic review and meta-analysis on the efficacy of micro-breaks for increasing well-being and performance\" (PLOS ONE, 2022)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0272460",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/study-break-plan-table/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "5分休むと、はかどる？",
+        "body": "作業の合間の短い休憩。気分はよくなりそうだけど、成績まで上がるのかな。10分以内の休憩を調べた研究をまとめたものがあるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "22サンプル・2,335人",
+        "body": "19本の論文から、22の研究サンプル、合計2,335人分のデータをまとめた。学生と社会人がほぼ半々で、多くは実験室の研究だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "疲れは減る、成績ははっきりしない",
+        "body": "短い休憩は元気さを高め（d＝0.36）、疲れを減らした（d＝0.35）。でも成績への効果は統計的にはっきりせず、休憩が長いほど伸びる傾向だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "頭を強く使う作業では？",
+        "body": "頭を強く使う作業のあとでは、短い休憩で成績は上がらなかった。著者は10分より長い休憩が要るかもしれないと書いているけど、勉強に絞った分析ではないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

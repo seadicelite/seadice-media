@@ -2131,5 +2131,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hooded_wall_clock_with_calendar_MET_DP352258.jpg/500px-Hooded_wall_clock_with_calendar_MET_DP352258.jpg",
   "og": "https://dokugaku.seadice.win/img/procrastination-checklist-study-log.jpg",
   "local": true
+ },
+ "study-break-plan-table": {
+  "file": "File:Samovar Tea House (7792874154).jpg",
+  "src": "/img/study-break-plan-table.jpg",
+  "src640": "/img/study-break-plan-table-sm.jpg",
+  "w": 960,
+  "h": 674,
+  "alt": "木のテーブルに置かれたティーポットとカップ",
+  "artist": "Christopher Michel",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Samovar_Tea_House_(7792874154).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Samovar_Tea_House_%287792874154%29.jpg/960px-Samovar_Tea_House_%287792874154%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Samovar_Tea_House_%287792874154%29.jpg/500px-Samovar_Tea_House_%287792874154%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-break-plan-table.jpg",
+  "local": true
  }
 }
