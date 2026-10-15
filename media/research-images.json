@@ -2349,5 +2349,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg/500px-thumbnail.jpg",
   "og": "https://research.seadice.win/img/self-explanation-own-words-memory-why-research-og.jpg",
   "local": true
+ },
+ "rainy-day-low-mood-weather-why-research": {
+  "file": "File:Rain on glass from below.jpg",
+  "src": "/img/rainy-day-low-mood-weather-why-research.webp",
+  "src640": "/img/rainy-day-low-mood-weather-why-research-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "雨粒のついた窓ガラス",
+  "artist": "Tomascastelazo",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rain_on_glass_from_below.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rain_on_glass_from_below.jpg/960px-Rain_on_glass_from_below.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rain_on_glass_from_below.jpg/500px-Rain_on_glass_from_below.jpg",
+  "og": "https://research.seadice.win/img/rainy-day-low-mood-weather-why-research-og.jpg",
+  "local": true
  }
 }

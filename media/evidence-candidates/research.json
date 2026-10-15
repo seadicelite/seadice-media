@@ -3042,5 +3042,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-rainy-day-low-mood-weather-why-research-rain-haters",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Klimstra et al., \"Come rain or come shine: Individual differences in how weather affects mood\" (Emotion, 2011)",
+    "sourceUrl": "https://doi.org/10.1037/a0024649",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/rainy-day-low-mood-weather-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "雨の日はみんな気分が沈む",
+        "body": "「雨の日は気分が上がらない」ってよく聞くよね。でも大勢を平均すると、天気が気分に与える影響は小さいっていう研究が多いんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "10代497人の30日間の記録",
+        "body": "10代の497人が30日間つけた毎日の気分を、実際の天気と照らし合わせた研究があるよ。母親たちの記録でも同じように調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「雨ぎらい」タイプがいた",
+        "body": "晴れると気分が上がる「夏好き」、ほぼ変わらない「影響なし」、晴れて暑いと下がる「夏ぎらい」、雨の日に特に下がる「雨ぎらい」の4タイプが見つかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "なぜタイプが分かれる？",
+        "body": "2つのタイプは親子で一致しやすかったけど、遺伝なのか暮らし方なのかはわからないんだ。気分は本人の記録で、天気が原因だと決められる研究でもないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
