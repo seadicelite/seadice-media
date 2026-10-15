@@ -2536,5 +2536,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schlagwortkatalog.jpg/500px-Schlagwortkatalog.jpg",
   "og": "https://research.seadice.win/img/flashcards-how-to-use-research-og.jpg",
   "local": true
+ },
+ "reply-procrastination-reach-out-awkward-research": {
+  "file": "File:Aerial view of woman using computer laptop and a smartphone on wooden table (40640189245).jpg",
+  "src": "/img/reply-procrastination-reach-out-awkward-research.webp",
+  "src640": "/img/reply-procrastination-reach-out-awkward-research-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "木の机でスマートフォンにメッセージを打つ手と、ノートパソコン",
+  "artist": "Rawpixel Ltd",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_woman_using_computer_laptop_and_a_smartphone_on_wooden_table_(40640189245).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aerial_view_of_woman_using_computer_laptop_and_a_smartphone_on_wooden_table_%2840640189245%29.jpg/960px-Aerial_view_of_woman_using_computer_laptop_and_a_smartphone_on_wooden_table_%2840640189245%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aerial_view_of_woman_using_computer_laptop_and_a_smartphone_on_wooden_table_%2840640189245%29.jpg/500px-Aerial_view_of_woman_using_computer_laptop_and_a_smartphone_on_wooden_table_%2840640189245%29.jpg",
+  "og": "https://research.seadice.win/img/reply-procrastination-reach-out-awkward-research-og.jpg",
+  "local": true
  }
 }

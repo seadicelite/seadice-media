@@ -3586,5 +3586,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-reply-procrastination-reach-out-awkward-research-old-friends",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Aknin & Sandstrom, \"People are surprisingly hesitant to reach out to old friends\" (Communications Psychology, 2024)",
+    "sourceUrl": "https://doi.org/10.1038/s44271-024-00075-8",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/reply-procrastination-reach-out-awkward-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "連絡したいのに、送れない",
+        "body": "疎遠になった友だちに連絡したいけど、今さら気まずい。そんな気持ち、よくあるよね。カナダの大学生401人では90.9%が「大切なのに疎遠になった友だち」がいたらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "その場で送ってもらう実験",
+        "body": "453人に、疎遠な友だちへの文面を書く時間をとって、送るチャンスをあげた。「誰かが先に連絡しないと」と促す条件もあったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "送ったのは3割未満、効いたのは練習",
+        "body": "実際に送ったのは27.8%で、促しても増えなかった。でも別の194人の実験では、先に今の友だちへ3分間メッセージを送る練習をすると、31%が53%に増えたんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "関係がどう変わったか",
+        "body": "測ったのは送ったかどうかと直後の気分まで。連絡したあと友だち関係が戻ったのかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
