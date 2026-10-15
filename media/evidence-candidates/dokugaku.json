@@ -3188,5 +3188,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-screen-eye-strain-study-recovery-20-20-20",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Johnson & Rosenfield, \"20-20-20 Rule: Are These Numbers Justified?\" (Optometry and Vision Science, 2023)",
+    "sourceUrl": "https://doi.org/10.1097/OPX.0000000000001971",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/screen-eye-strain-study-recovery/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "20分ごとに20秒、遠くを見れば目は疲れない？",
+        "body": "画面を見るときは「20分ごとに20秒、6m先を見る」といい、という20-20-20ルール。よく聞くけど、実は確かめた研究はあまり多くないらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "休憩の間隔を変えてくらべた",
+        "body": "若い30人が、タブレットで40分、頭を使う読む課題をしたよ。20秒の休憩を5分・10分・20分ごとに入れる回と、休憩なしの回をくらべたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "20秒の休憩では差が出なかった",
+        "body": "どの回でも課題の後に目の疲れは増えた。でも休憩の入れ方で、目の疲れにも、読む速さや正確さにも差はなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い休憩や長い期間なら？",
+        "body": "1回40分の短い実験で、30人だけ。毎日何時間も画面を見る場合や、もっと長い休憩ならどうなるかは、この実験からはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
