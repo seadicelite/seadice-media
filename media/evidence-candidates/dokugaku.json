@@ -3154,5 +3154,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-temptation-bundling-study-audiobook-gym",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Milkman et al., \"Holding the Hunger Games Hostage at the Gym: An Evaluation of Temptation Bundling\" (Management Science, 2014)",
+    "sourceUrl": "https://doi.org/10.1287/mnsc.2013.1784",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/temptation-bundling-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "好きなことを「ご褒美」でなく「セット」にしたら？",
+        "body": "続きが気になる小説を、ジムにいるときだけ聞けるようにしたら、ジムに通うようになるのか。本当に試した実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "小説の朗読はジムでだけ",
+        "body": "アメリカの大学の学生・教職員226人を3組に分けたよ。朗読をジムの機器でしか聞けない組、ジムでだけ聞くよう勧めた組、何もしない組。約9週間、ジムに来た回数を数えた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "最初は51%多く通った",
+        "body": "ジムでしか聞けない組は、最初のうち何もしない組より51%多く通ったらしい。終わった後、61%が「お金を払ってでも、この仕組みを使いたい」と答えたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "休み明けに効果は消えた",
+        "body": "効果は週ごとに小さくなり、感謝祭の休みの後には消えてしまった。運動の実験で、勉強で同じことが起きるかもまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
