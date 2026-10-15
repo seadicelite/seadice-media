@@ -1630,5 +1630,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cluttered_workbench_in_a_rustic_workshop_filled_with_tools_and_materials.jpg/500px-Cluttered_workbench_in_a_rustic_workshop_filled_with_tools_and_materials.jpg",
   "og": "https://ai.seadice.win/img/ai-workers-health-long-term-evidence-og.jpg",
   "local": true
+ },
+ "ai-homework-guilt-relearn": {
+  "file": "File:Pencil on notebook.jpg",
+  "src": "/img/ai-homework-guilt-relearn.webp",
+  "src640": "/img/ai-homework-guilt-relearn-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "ノートの上の鉛筆",
+  "artist": "WikiGrower1",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pencil_on_notebook.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pencil_on_notebook.jpg/960px-Pencil_on_notebook.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pencil_on_notebook.jpg/500px-Pencil_on_notebook.jpg",
+  "og": "https://ai.seadice.win/img/ai-homework-guilt-relearn-og.jpg",
+  "local": true
  }
 }
