@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-report-teacher-meeting-prepare",
+  "category": "子ども・学校",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-15",
+  "title": "AIで書いたレポートで、先生から呼び出された。研究では、AI判定の数字だけで同じレポートの評価が下がっており、面談の前に「どこをAIに頼ったか」を記録で整理しておくことが土台になる",
+  "summary": "先生214人の実験では判定の数字だけで同じレポートの評価が下がった。面談前に授業のルールと、AIに頼った部分・自分で書いた部分を1枚に整理する"
+ },
+ {
   "slug": "teacher-ai-assignment-grading-prepare",
   "category": "子ども・学校",
   "type": "guide",
