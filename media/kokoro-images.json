@@ -3480,5 +3480,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rain_on_glass_from_below.jpg/500px-Rain_on_glass_from_below.jpg",
   "og": "https://mentalai.seadice.win/img/asmr-relax-fatigue.jpg",
   "local": true
+ },
+ "comparison-happy-memories": {
+  "file": "File:Old phone box - geograph.org.uk - 5789054.jpg",
+  "src": "/img/comparison-happy-memories.jpg",
+  "src640": "/img/comparison-happy-memories-sm.jpg",
+  "w": 960,
+  "h": 667,
+  "alt": "緑の芝生に立つ赤い電話ボックス",
+  "artist": "Bill Kasman",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Old_phone_box_-_geograph.org.uk_-_5789054.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Old_phone_box_-_geograph.org.uk_-_5789054.jpg/960px-Old_phone_box_-_geograph.org.uk_-_5789054.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Old_phone_box_-_geograph.org.uk_-_5789054.jpg/500px-Old_phone_box_-_geograph.org.uk_-_5789054.jpg",
+  "og": "https://mentalai.seadice.win/img/comparison-happy-memories.jpg",
+  "local": true
  }
 }

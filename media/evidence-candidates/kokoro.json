@@ -2993,5 +2993,73 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "kokoro-comparison-happy-memories-reminiscing-stress",
+    "category": "ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Speer ME, Delgado MR, \"Reminiscing about positive memories buffers acute stress responses\" (Nature Human Behaviour, 2017)",
+    "sourceUrl": "https://doi.org/10.1038/s41562-017-0093",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/comparison-happy-memories/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "楽しかった思い出で、ストレスは和らぐ？",
+        "body": "嫌なことがあった日、昔の楽しかったことを思い出すと少し落ち着く気がするよね。あれって、体の反応にも出るのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "冷たい水のあとに、思い出を14秒ずつ",
+        "body": "米国の大学生134人の実験。カメラで撮られながら冷たい水に手を2分入れたあと、楽しかった思い出か、ふつうの出来事を1回14秒ずつ24回思い出してもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ストレスのホルモンの上がり方が小さかった",
+        "body": "楽しかった思い出を思い出した人は、ふつうの出来事の人より、ストレスのホルモン（コルチゾール）の上がり方が小さかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "誰にでも効くわけじゃないかも",
+        "body": "対象は健康な若い人で、一時的なストレスだけ。研究者も、誰にでも効くとは限らないと書いているよ。落ち込みが強い人では逆の結果が出た別の研究もあるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
+  },
+  {
+    "id": "kokoro-comparison-happy-memories-letter-past-self",
+    "category": "ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sugimori E, Yamaguchi M, Kusumi T, \"Writing to your past-self can make you feel better\" (Frontiers in Psychology, 2024)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2024.1327595",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/comparison-happy-memories/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "未来の自分に手紙を書くと前向きになる？",
+        "body": "「未来の自分への手紙」ってよく聞くよね。でも、過去の自分に書くのと比べたらどっちが気分にいいんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5年前と5年後の自分に、思いやりの手紙",
+        "body": "早稲田大学などの実験。日本の大学生150人が、いちばんの理解者のつもりで、5年前の自分と5年後の自分に1週間あけて手紙を書いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "5年前あてのほうが気分がよくなった",
+        "body": "5年前の自分に書いたあとは150人中88人の気分がよくなり、5年後の自分に書いたあとは89人の気分が悪くなっていたらしい。誰かと一緒の経験を書いた組では31人中28人がよくなったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "気分がよくなったのは書いた直後だけ？",
+        "body": "調べたのは書いた直後の気分だけ。対象も健康な大学生で、効果がどれくらい続くかや、ほかの年代で同じかはわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
