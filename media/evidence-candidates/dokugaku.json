@@ -3426,5 +3426,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-multiple-choice-practice-questions-how-to-mc-quiz",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "McDermott et al., \"Both multiple-choice and short-answer quizzes enhance later exam performance in middle and high school classes\" (Journal of Experimental Psychology: Applied, 2014)",
+    "sourceUrl": "https://doi.org/10.1037/xap0000004",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/multiple-choice-practice-questions-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "四択の問題は、力がつかない？",
+        "body": "選択肢の問題は答えが目の前にあるから、選ぶだけで覚える力はつかない、ってよく言われるよね。記述で書かないと意味がない、という声もある。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "本物の授業で比べた",
+        "body": "米国の中学1年の理科と高校の歴史の授業で、ときどき小テストをした。形式は記述か選択肢で、どちらも正解を伝えた。小テストをしなかった内容と、後の試験の成績を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "選択肢でも記述と同じくらい効いた",
+        "body": "小テストをした内容は、単元テストでも学期末テストでも成績が良かった。選択肢の小テストは記述と同じくらい効き、本番と形式が違っても効果が出たらしい。読み直すだけより良かった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人の独学ではどうか",
+        "body": "先生が問題を作り、正解も伝えた授業での話。答え合わせをしないと誤りの選択肢を覚えてしまう実験もある。大人が一人で問題集を解く場合は、まだ確かめられていない。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
