@@ -2585,5 +2585,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-work-chat-coworker-comparison-visibility",
+    "category": "仕事",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "So C, Zhou Y, Du J, \"It Is Comparison That Makes People Miserable\": Enterprise Social Media Visibility, Social Comparison Orientation, and Workplace Impostor Thoughts (Behavioral Sciences, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/bs16050782",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/work-chat-coworker-comparison/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よくある悩み",
+        "title": "社内チャットで同僚がまぶしい",
+        "body": "成果報告やお礼のメッセージが次々流れてきて、「自分だけ何もできてない」って感じること、あるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "中国の会社員447人に2回アンケート",
+        "body": "中国の4社で働く人に、社内チャットで同僚の仕事ぶりがどれくらい見えるかを聞いて、2週間後に「周りは自分を実力以上に見ている」と感じる度合いを聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "見えやすいほど「実力以上に見られてる」感",
+        "body": "見えやすいと感じる人ほど、この思いが強かったらしい。ふだんから人と比べやすい人ほど、その結びつきは強めだった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "見る量を減らせば楽になる？",
+        "body": "1回分のアンケートで、結びつきの強さも小さめ。チャットの見え方を変えたら気持ちが軽くなるかは、まだ試されていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

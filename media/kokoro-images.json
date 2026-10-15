@@ -3264,5 +3264,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flowers_in_vase_on_Pentecost_Monday%2C_Ehrenbach.jpg/500px-Flowers_in_vase_on_Pentecost_Monday%2C_Ehrenbach.jpg",
   "og": "https://mentalai.seadice.win/img/edited-selfie-real-face.jpg",
   "local": true
+ },
+ "work-chat-coworker-comparison": {
+  "file": "File:Misty Morning Sunrise Lake Andes National Wildlife Refuge South Dakota (54118849131).jpg",
+  "src": "/img/work-chat-coworker-comparison.jpg",
+  "src640": "/img/work-chat-coworker-comparison-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "朝もやのかかる静かな湖",
+  "artist": "USFWS Mountain Prairie",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Misty_Morning_Sunrise_Lake_Andes_National_Wildlife_Refuge_South_Dakota_(54118849131).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Misty_Morning_Sunrise_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854118849131%29.jpg/960px-Misty_Morning_Sunrise_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854118849131%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Misty_Morning_Sunrise_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854118849131%29.jpg/500px-Misty_Morning_Sunrise_Lake_Andes_National_Wildlife_Refuge_South_Dakota_%2854118849131%29.jpg",
+  "og": "https://mentalai.seadice.win/img/work-chat-coworker-comparison.jpg",
+  "local": true
  }
 }
