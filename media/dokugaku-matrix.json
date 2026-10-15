@@ -365,7 +365,8 @@
      "why-ai-confidently-wrong-hallucination"
     ],
     "use": [
-     "ai-study-checklist"
+     "ai-study-checklist",
+     "ai-study-prompt-templates"
     ]
    }
   }

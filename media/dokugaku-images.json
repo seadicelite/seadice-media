@@ -2167,5 +2167,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Index_card%2C_3_by_5_inch.agr.jpg/500px-Index_card%2C_3_by_5_inch.agr.jpg",
   "og": "https://dokugaku.seadice.win/img/spare-time-study-menu-table.jpg",
   "local": true
+ },
+ "ai-study-prompt-templates": {
+  "file": "File:Home-office-336377.jpg",
+  "src": "/img/ai-study-prompt-templates.jpg",
+  "src640": "/img/ai-study-prompt-templates-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "ノートパソコンと手帳、コーヒーが置かれた木の机",
+  "artist": "By Free-Photos from Pixabay",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Home-office-336377.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Home-office-336377.jpg/960px-Home-office-336377.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Home-office-336377.jpg/500px-Home-office-336377.jpg",
+  "og": "https://dokugaku.seadice.win/img/ai-study-prompt-templates.jpg",
+  "local": true
  }
 }

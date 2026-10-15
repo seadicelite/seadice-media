@@ -168,6 +168,7 @@
 - [AIに練習問題を作らせて勉強するには？研究でわかった頼み方と確かめ方](https://dokugaku.seadice.win/ai-practice-questions-how-to/): 問題を解いて思い出す練習は効くが、AIの問題には誤りも混ざる。教材を渡して短く答える問題を作らせ、答えは教材で確かめる。
 - [AIで調べて学ぶとき、要約を読むだけで終わらせないには？自分でまとめて身につける調べ方（AIと検索をくらべた実験）](https://dokugaku.seadice.win/ai-research-learn-deeper-how-to/): AIのまとめだけで学ぶと知識が浅くなりやすいという実験をもとに、元の情報を開き自分でまとめる調べ方を紹介します。
 - [AIで勉強するときのチェック表（使う前・使っている間・使った後）。答えを写さずに力をつける9項目と記録表](https://dokugaku.seadice.win/ai-study-checklist/): AIの家庭教師の実験と思い出す練習の研究から作った、AIで勉強するときの9項目のチェック表と記録表。
+- [AIに勉強を手伝ってもらう依頼文テンプレート表。答えを言わせない・教材の解答を渡す・1問ずつ進める（AI家庭教師の実験から）](https://dokugaku.seadice.win/ai-study-prompt-templates/): 答えを写すと成績が下がり、ヒント型のAIでは下がらなかった実験から作った、コピーして使える依頼文6つと言いかえ表。
 - [AIに作文を添削させると上達するのか。AIの添削（自動フィードバック）と学習の研究](https://dokugaku.seadice.win/ai-writing-feedback-revision/): AIの添削は作文に中くらいの効果。ただ点数が伸びても力がつくとは限らず、指摘をもとに自分で書き直すのがおすすめ
 - [AIの答えが間違っていて、誤ったまま覚えてしまった。どう覚え直す？訂正と記憶の研究](https://dokugaku.seadice.win/ai-wrong-answer-unlearn-correct/): 誤りは訂正後も残りやすい。一次資料で確かめ、「誤→正、違う理由」を書き、日をあけて正しい答えを思い出すのが研究に沿った覚え直し方。
 - [AIに説明させるより、自分で説明した方が覚えられるのか。自己説明と生成効果の研究](https://dokugaku.seadice.win/self-explanation-vs-ai-explanation/): 上手な説明を読むより自分で説明した方が学びは大きくなりやすい。AIは説明役より確認役に使うのが研究に沿った使い方

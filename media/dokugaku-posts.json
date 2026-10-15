@@ -1,5 +1,13 @@
 [
   {
+    "slug": "ai-study-prompt-templates",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-15",
+    "title": "AIに勉強を手伝ってもらう依頼文テンプレート表。答えを言わせない・教材の解答を渡す・1問ずつ進める（AI家庭教師の実験から）",
+    "summary": "答えを写すと成績が下がり、ヒント型のAIでは下がらなかった実験から作った、コピーして使える依頼文6つと言いかえ表。"
+  },
+  {
     "slug": "spare-time-study-menu-table",
     "category": "時間・計画",
     "type": "guide",

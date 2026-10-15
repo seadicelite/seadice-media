@@ -2814,5 +2814,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-ai-study-prompt-templates-ai-tutor-rct",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kestin et al., \"AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting\" (Scientific Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-97652-6",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/ai-study-prompt-templates/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIの家庭教師で、本当に学べる？",
+        "body": "AIに聞けば答えはすぐ出るよね。でも、それで力がつくかは別の話。授業とAIの家庭教師で、どっちがよく学べるかを比べた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "物理の授業の194人で比べた",
+        "body": "米国ハーバード大学の物理の授業で、194人が2回の授業のうち1回を教室の参加型の授業、もう1回を家でAIの家庭教師で学んだ。AIには先生が書いた解き方を渡し、1問ずつ導くように作ってあった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "学んだ量が2倍以上に",
+        "body": "AIで学んだときの方が、テストで伸びた量（中央値）が授業の2倍以上だった。かかった時間の中央値は49分で、授業の60分より短かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふつうのチャットAIでも同じ？",
+        "body": "使ったのは先生が問題ごとに作り込んだAIで、ふつうのチャットAIとは違う。対象は1つの大学の2回の授業だけで、著者たちも、どんな場面でも授業より上とは考えていないと書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
