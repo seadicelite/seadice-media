@@ -3086,5 +3086,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-rest-or-repeat-right-after-studying-wakeful-rest",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Parra et al., \"Should we all just take 10? A meta-analysis of wakeful rest\" (Psychonomic Bulletin & Review, 2026)",
+    "sourceUrl": "https://doi.org/10.3758/s13423-025-02778-3",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/rest-or-repeat-right-after-studying/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "覚えたらぼんやり休むと残る？",
+        "body": "覚えた直後に数分、目を閉じて静かにしていると記憶に残りやすい。そんな「休む効果」の研究、聞いたことあるかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "51件の研究をまとめた",
+        "body": "覚えた後に休む人と、別の作業をする人をくらべた51件の研究（142の結果）をまとめたメタ分析があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果はあるけど、人によって大きさが違う",
+        "body": "全体の効果はg＝0.34。記憶障害のある人ではg＝1.18と大きく、健康な高齢者は0.57、健康な若い大人は0.20と小さかった。休んだ後に別の作業を入れた研究では、ほぼ差が出なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふだんの勉強で効くか",
+        "body": "研究どうしの結果のばらつきが大きく、効果が出ない研究もありうると著者は書いている。多くは単語のリストを覚える実験で、教科書を読む勉強で役立つかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-rest-or-repeat-right-after-studying-repetition",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Martini et al., \"Resting after learning or repeating the learned?\" (Psychonomic Bulletin & Review, 2025)",
+    "sourceUrl": "https://doi.org/10.3758/s13423-025-02820-4",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/rest-or-repeat-right-after-studying/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "覚えた直後の7分、何に使う？",
+        "body": "覚えた後は休むのがいいのか、もう一度くり返すのがいいのか。くらべてみた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "くり返す・休む・別のこと",
+        "body": "45人と68人の2つの実験で、単語のリストを聞いた直後の7分に、くり返し聞く、目を閉じて休む、別の課題（実験2ではSNS）をする、の3つをくらべたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "いちばん残ったのは、くり返す",
+        "body": "よく残った順は、くり返す、休む、別の課題やSNSだった。12分後も1日後も同じ順だったらしい。休むことは、別の作業よりは良かったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "単語以外でも同じ？",
+        "body": "覚えたのは単語のリストで、参加者も数十人ずつ。教科書のような長い文章でも同じ順になるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
