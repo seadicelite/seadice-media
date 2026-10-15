@@ -3460,5 +3460,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-apply-relearning-at-work-transfer-skill-decay",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Tatel & Ackerman, \"Procedural skill retention and decay: A meta-analytic review\" (Psychological Bulletin, 2025)",
+    "sourceUrl": "https://doi.org/10.1037/bul0000481",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/apply-relearning-at-work-transfer/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "一度身につけた技能は、使わないとどうなる？",
+        "body": "研修で覚えた操作や手順、しばらく使わないと忘れちゃうよね。じゃあ、どのくらいの速さで落ちていくんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "457の報告をまとめた",
+        "body": "体の動きを含む手順の技能が、どれだけ保たれて、どれだけ落ちるかを調べた457の報告、1,344の効果量をまとめたメタ分析がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "半分が約6.5か月で失われた",
+        "body": "使わないままだと、練習で伸びた分の半分が、正確さでは約6.5か月、速さでは約13か月で失われていたらしい。とちゅうで使う機会があるかどうかも、落ち方に関わる候補に挙がった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "知識も同じ速さで落ちる？",
+        "body": "調べたのは操作や手技のような手順の技能。本で学んだ知識や考え方が同じ速さで落ちるかは、この研究だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]

@@ -2454,5 +2454,22 @@
   "og": "https://dokugaku.seadice.win/img/multiple-choice-practice-questions-how-to-og.jpg",
   "local": true,
   "alt": "鉛筆と答案用紙"
+ },
+ "apply-relearning-at-work-transfer": {
+  "file": "File:Quiet meeting room (Unsplash).jpg",
+  "w": 960,
+  "h": 640,
+  "artist": "Breather breather",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Quiet_meeting_room_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Quiet_meeting_room_%28Unsplash%29.jpg/960px-Quiet_meeting_room_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Quiet_meeting_room_%28Unsplash%29.jpg/500px-Quiet_meeting_room_%28Unsplash%29.jpg",
+  "src": "/img/apply-relearning-at-work-transfer.webp",
+  "src640": "/img/apply-relearning-at-work-transfer-sm.webp",
+  "og": "https://dokugaku.seadice.win/img/apply-relearning-at-work-transfer-og.jpg",
+  "local": true,
+  "alt": "長い机と椅子が並ぶ会議室"
  }
 }
