@@ -2925,5 +2925,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "kokoro-cute-animal-photos-focus-kawaii",
+    "category": "集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Nittono H, Fukushima M, Yano A & Moriya H, \"The power of Kawaii: Viewing cute images promotes a careful behavior and narrows attentional focus\" (PLoS ONE, 2012)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0046362",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/cute-animal-photos-focus/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "かわいい写真で仕事がはかどる？",
+        "body": "子犬や子猫の写真を見ると集中できる、って話を聞いたことあるよね。もとは広島大学のチームが2012年に発表した実験なんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ピンセットの作業で比べた",
+        "body": "日本の大学生48人が、ピンセットで小さな部品を取る作業を休憩の前後で2回やったよ。休憩の1分半で、子犬・子猫の写真か、大人の犬・猫の写真を見たんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成功数が平均43.9%アップ",
+        "body": "子犬・子猫の写真を見た組は、2回目の成功数が平均43.9%上がったらしい。大人の犬・猫の組は11.9%。作業時間も長くなっていて、丁寧にやったみたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ほかの実験では差がなかった",
+        "body": "1組24人の小さな実験で、仕事の成果は測っていない。のちにオンラインで行われた別の実験では、画面で素早く答える課題に差は出なかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
