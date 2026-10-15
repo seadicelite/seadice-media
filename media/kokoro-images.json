@@ -3300,5 +3300,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Georgia%2C_Abkhasia%2C_Sukhumi%2C_%D0%A1%D1%83%D1%85%D1%83%D0%BC_-_%D0%9B%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%D0%B2_%D0%BE%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BC%D0%BD%D0%B8%D0%BA_WMID4568542.jpg/500px-Georgia%2C_Abkhasia%2C_Sukhumi%2C_%D0%A1%D1%83%D1%85%D1%83%D0%BC_-_%D0%9B%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%D0%B2_%D0%BE%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BC%D0%BD%D0%B8%D0%BA_WMID4568542.jpg",
   "og": "https://mentalai.seadice.win/img/ai-dependency-impulsivity-prevent.jpg",
   "local": true
+ },
+ "new-group-slow-to-bond": {
+  "file": "File:Nabucco, score, 2014.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nabucco%2C_score%2C_2014.jpg/960px-Nabucco%2C_score%2C_2014.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nabucco%2C_score%2C_2014.jpg/500px-Nabucco%2C_score%2C_2014.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "写真",
+  "artist": "Gerarus",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Nabucco,_score,_2014.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

@@ -2653,5 +2653,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-new-group-slow-to-bond-icebreaker",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pearce E, Launay J, Dunbar RIM, \"The ice-breaker effect: singing mediates fast social bonding\" (Royal Society Open Science, 2015)",
+    "sourceUrl": "https://doi.org/10.1098/rsos.150221",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/new-group-slow-to-bond/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "習い事でなかなか打ち解けられない",
+        "body": "新しい習い事やサークル、何回通っても輪に入れない気がすること、あるよね。親しさってどのくらいで育つんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "新しい教室を7か月追った",
+        "body": "イギリスの研究で、新しく作った大人向けの教室7つ（歌・手芸・創作文）の135人に、授業の前後で「クラスとの近さ」を1〜7で答えてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ゆっくりでも追いついていた",
+        "body": "どの教室も毎回の授業で近さが上がっていた。歌の教室は最初の1か月で一気に打ち解け、手芸などはゆっくり。でも7か月後には差がはっきりしなくなっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日本のサークルでも同じ？",
+        "body": "教室はくじで割り振られていないし、9割近くが女性で、途中で答えなくなった人も多い。友だちができたかや、孤独が減ったかも調べていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
