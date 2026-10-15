@@ -1037,5 +1037,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Eastern_State_Penitentiary_-_Cell_blocks_6.jpg/500px-Eastern_State_Penitentiary_-_Cell_blocks_6.jpg",
   "og": "https://hanzai.seadice.win/img/solitary-confinement-mental-health.jpg",
   "local": true
+ },
+ "life-after-wrongful-conviction": {
+  "file": "File:Dülmen, Strandbadweg, Blick auf Dülmen -- 2020 -- 0335.jpg",
+  "src": "/img/life-after-wrongful-conviction.jpg",
+  "src640": "/img/life-after-wrongful-conviction-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "朝日の差す、柵沿いの田舎道",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Strandbadweg,_Blick_auf_D%C3%BClmen_--_2020_--_0335.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/D%C3%BClmen%2C_Strandbadweg%2C_Blick_auf_D%C3%BClmen_--_2020_--_0335.jpg/960px-D%C3%BClmen%2C_Strandbadweg%2C_Blick_auf_D%C3%BClmen_--_2020_--_0335.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/D%C3%BClmen%2C_Strandbadweg%2C_Blick_auf_D%C3%BClmen_--_2020_--_0335.jpg/500px-D%C3%BClmen%2C_Strandbadweg%2C_Blick_auf_D%C3%BClmen_--_2020_--_0335.jpg",
+  "og": "https://hanzai.seadice.win/img/life-after-wrongful-conviction.jpg",
+  "local": true
  }
 }
