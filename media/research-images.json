@@ -2468,5 +2468,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Colorful-plastic-chicken-piggy-bank-indonesia.jpg/500px-Colorful-plastic-chicken-piggy-bank-indonesia.jpg",
   "og": "https://research.seadice.win/img/commitment-contract-money-habit-research-og.jpg",
   "local": true
+ },
+ "dark-bedroom-light-during-sleep-research": {
+  "file": "File:Bedroom Woodford 01.JPG",
+  "src": "/img/dark-bedroom-light-during-sleep-research.webp",
+  "src640": "/img/dark-bedroom-light-during-sleep-research-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "カーテンとブラインドのある寝室",
+  "artist": "Miguel Hermoso Cuesta",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bedroom_Woodford_01.JPG",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bedroom_Woodford_01.JPG/960px-Bedroom_Woodford_01.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bedroom_Woodford_01.JPG/500px-Bedroom_Woodford_01.JPG",
+  "og": "https://research.seadice.win/img/dark-bedroom-light-during-sleep-research-og.jpg",
+  "local": true
  }
 }

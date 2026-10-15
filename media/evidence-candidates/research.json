@@ -3348,5 +3348,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-dark-bedroom-light-during-sleep-research-room-light",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mason et al., \"Light exposure during sleep impairs cardiometabolic function\" (PNAS, 2022)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.2113290119",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/dark-bedroom-light-during-sleep-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "目を閉じれば明かりは関係ない？",
+        "body": "電気をつけたままでも、目を閉じて眠れていれば問題ないって思うよね。まぶたで光はほとんど届かないし。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "100ルクスの明かりで1晩眠った",
+        "body": "健康な若い大人20人で、1晩目は暗い部屋（3ルクス未満）、2晩目は半分の人だけ天井の照明（100ルクス）をつけたまま眠ってもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "深い眠りの割合が減っていた",
+        "body": "明かりの組は、深い眠りとレム睡眠の割合が減って、寝ている間の心拍が上がり、翌朝はインスリンの効きも悪くなってたらしい。なのに本人が感じた眠りの質は変わらなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "20人・1晩だけの実験",
+        "body": "人数が少なく、1晩だけの実験。毎晩明るい部屋で眠ると長い目で何が起きるかは、この研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-dark-bedroom-light-during-sleep-research-eye-mask",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Greco et al., \"Wearing an eye mask during overnight sleep improves episodic learning and alertness\" (Sleep, 2023)",
+    "sourceUrl": "https://doi.org/10.1093/sleep/zsac305",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/dark-bedroom-light-during-sleep-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "アイマスクって意味ある？",
+        "body": "アイマスクをつけて寝ると、次の日の頭の働きは変わるのかな。自宅で1週間試した研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "アイマスクの週と、なしの週",
+        "body": "18〜35歳の人に、アイマスクで眠る1週間と、マスクなし（または目に穴をあけたマスク）の1週間を両方試してもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "覚えるテストが少しだけ上がった",
+        "body": "アイマスクの週のあとは、言葉のペアを覚えるテストの点が65.06対63.87でわずかに高く、反応も少し速かった。2つ目の実験でも覚える力の差は出たらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "差は小さく、一部は再現せず",
+        "body": "効果は小さめ。2つ目の実験では反応の速さの差は出なかったし、深い眠りの時間が増えたわけでもなかったよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
