@@ -2221,5 +2221,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Creative-desk-pens-school_%2823698555204%29.jpg/500px-Creative-desk-pens-school_%2823698555204%29.jpg",
   "og": "https://dokugaku.seadice.win/img/adult-relearning-starting-point-check.jpg",
   "local": true
+ },
+ "sleep-learning-vocabulary-audio": {
+  "file": "File:Bed in Seattle hotel.jpg",
+  "src": "/img/sleep-learning-vocabulary-audio.jpg",
+  "src640": "/img/sleep-learning-vocabulary-audio-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ベッドと枕",
+  "artist": "Liz Lawley",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bed_in_Seattle_hotel.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bed_in_Seattle_hotel.jpg/960px-Bed_in_Seattle_hotel.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bed_in_Seattle_hotel.jpg/500px-Bed_in_Seattle_hotel.jpg",
+  "og": "https://dokugaku.seadice.win/img/sleep-learning-vocabulary-audio.jpg",
+  "local": true
  }
 }

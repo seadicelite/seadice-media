@@ -2916,5 +2916,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-sleep-learning-vocabulary-audio-tmr-teens",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wilhelm et al., \"No effect of targeted memory reactivation during sleep on retention of vocabulary in adolescents\" (Scientific Reports, 2020)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-020-61183-z",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/sleep-learning-vocabulary-audio/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "寝ている間に単語を流せば、覚えられる？",
+        "body": "覚えた単語を寝ている間に聞かせると、記憶が強まる。大人の実験ではそんな結果が出ていて、「睡眠学習」として気になる人も多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "11〜13歳の18人で試してみた",
+        "body": "寝る前にオランダ語とドイツ語の単語92組を覚えて、そのうち46語を夜の眠りの間にスピーカーで流した。脳波を見ながら、眠りの段階に合わせて流したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "流した単語の方が、むしろ少し低かった",
+        "body": "寝る前の成績を100%とすると、翌朝は流した単語が97.12%、流さなかった単語が102.81%。流した効果は見られず、1週間後も差はなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "なぜ効かなかったのかは、まだ仮説",
+        "body": "18人の小さな実験。研究者たちは、寝る前に覚えられた量が少なかったことが原因かもと考えているけど、確かめられてはいない。60歳以上の実験でも効果は出なかったらしい。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
