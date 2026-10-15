@@ -3498,5 +3498,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Old_phone_box_-_geograph.org.uk_-_5789054.jpg/500px-Old_phone_box_-_geograph.org.uk_-_5789054.jpg",
   "og": "https://mentalai.seadice.win/img/comparison-happy-memories.jpg",
   "local": true
+ },
+ "ai-fear-hesitant-to-use": {
+  "file": "File:A calm morning on Lake Superior (45031548041).jpg",
+  "src": "/img/ai-fear-hesitant-to-use.jpg",
+  "src640": "/img/ai-fear-hesitant-to-use-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "朝日が差す静かな湖と木々",
+  "artist": "U.S. Fish and Wildlife Service - Midwest Region",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:A_calm_morning_on_Lake_Superior_(45031548041).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_calm_morning_on_Lake_Superior_%2845031548041%29.jpg/960px-A_calm_morning_on_Lake_Superior_%2845031548041%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_calm_morning_on_Lake_Superior_%2845031548041%29.jpg/500px-A_calm_morning_on_Lake_Superior_%2845031548041%29.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-fear-hesitant-to-use.jpg",
+  "local": true
  }
 }

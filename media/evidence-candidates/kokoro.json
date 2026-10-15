@@ -3061,5 +3061,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "kokoro-ai-fear-hesitant-to-use-14-week-course",
+    "category": "AIと心",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sat M, \"The impact of AI integration in project preparation in education course on pre-service teachers' innovativeness, AI anxiety, attitudes, and acceptance\" (BMC Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.1186/s40359-025-03647-3",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-fear-hesitant-to-use/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "AIは使えば怖くなくなる？",
+        "body": "「AIが怖いのは慣れてないだけ。使えば平気になるよ」ってよく言われるよね。本当にそうなのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "14週間、授業でAIを使ってみた",
+        "body": "トルコの教員志望の学生34人が、14週間の授業で、研究計画の文章を書いて直す作業にAIを使ったんだ。授業の前と後で気持ちを比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "見方はよくなったけど、不安は変わらず",
+        "body": "AIへの見方（5段階で3.36→3.83）や受け入れ（3.51→3.96）はよくなった。でもAIへの不安は3.69→3.74で、はっきりした変化はなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "もっと長く使えば変わる？",
+        "body": "34人だけで、使わなかった人と比べる組もない研究。もっと長く使えば不安が下がるのかは、まだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
