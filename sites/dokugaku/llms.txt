@@ -72,7 +72,7 @@
 - [オンライン講座の動画はどう見る？倍速の使い分けと「区切って思い出す」見方（講義動画の研究とやり方）](https://dokugaku.seadice.win/lecture-video-how-to-watch/): 速く再生すると記憶のテストは平均で下がった。新しい内容は等速で、5分前後で止めて3〜4問答える見方の手順。
 - [マインドマップは勉強に効くのか。図にまとめる学習（マインドマップ・コンセプトマップ）の研究](https://dokugaku.seadice.win/mind-map-concept-map-study/): 図にまとめる学習の効果は中程度。マインドマップ単体の証拠は弱く、作った図を見ずに描き直すと効きやすい。
 - [勉強法を変えたのに手応えがない。やめる前にどう確かめる？「効く勉強ほど効いていない気がする」研究](https://dokugaku.seadice.win/new-study-method-feels-not-working/): 効く勉強法ほど最中は手応えが少ない。気分ではなく2〜7日後に思い出せた量で、前のやり方と分けて比べて判断する。
-- [資格試験は過去問から解くべきか。問題を解いて学ぶ研究でわかったこと](https://dokugaku.seadice.win/past-exam-questions-certification/): 過去問は仕上げでなく覚える練習になる。学んだ単元から解き始め、解説で答え合わせし、日をあけて解き直すほど効果が大きい
+- [資格試験は過去問から解くべきか。問題を解いて学ぶ研究でわかったこと](https://dokugaku.seadice.win/past-exam-questions-certification/): 過去問は仕上げでなく覚える練習になる。学んだ単元から解き始め、解説で答え合わせし、繰り返し解くほど効果が大きい
 - [予習と復習、どちらが大事？読む前に問題を解く「事前テスト」の研究](https://dokugaku.seadice.win/pretesting-before-reading/): 読む前に問題を解くと、ほとんど答えられなくても問われた内容が残りやすい。章末問題を3分解いてから読むのが手軽な試し方
 - [わからない問題で悩む時間はムダか。先に解いてから教わる「生産的失敗」の研究](https://dokugaku.seadice.win/productive-failure-struggle-first/): 先に自力で解いてから教わると、理解と応用で中程度の効果。悩む時間が短すぎる場合や小学生では効果を確認できなかった。
 - [読んでも頭に入らない人の「3Rシート」と記録表。読む・思い出す・確かめるの研究から作った使い方](https://dokugaku.seadice.win/read-recite-review-sheet/): 読む→本を閉じて思い出す→見直す「3R」の研究をもとに、テキストを読むときのシートと記録表を作りました。
