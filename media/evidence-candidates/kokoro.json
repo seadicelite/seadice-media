@@ -2755,5 +2755,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-yoga-stress-fatigue-recover-seven-minutes",
+    "category": "ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Marschin V & Herbert C, \"Acute effects of ultra-short aerobic and resistance, yoga-based mobility, and mindfulness meditation sessions on mental health: a randomized online study\" (Frontiers in Sports and Active Living, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fspor.2026.1774292",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/yoga-stress-fatigue-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "たった7分で気分は変わる？",
+        "body": "疲れていると、長い運動なんて無理って思うよね。じゃあ7分だけ体を動かしたら、何か変わるのかを試した実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3種類の7分を比べた",
+        "body": "ドイツの18〜60歳の131人を、くじで3組に分けたよ。動画に合わせた筋トレなどの運動、ヨガ風のゆっくりした体ほぐし、音声のマインドフルネス瞑想を、それぞれ7分。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "どれでもストレスが下がった",
+        "body": "どの組でも、終わった直後にストレス、いやな気分、不安の点数が下がっていた。3つのあいだに、はっきりした差はなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何もしない組がない",
+        "body": "「7分休んだだけ」の組がないから、動いた効果かどうかは分けられない。測ったのは直後だけの1回きりで、コロナの外出制限中の実験だよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
