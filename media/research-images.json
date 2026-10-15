@@ -1405,7 +1405,7 @@
   "w": 960,
   "h": 640,
   "alt": "机の上のノートと鉛筆",
-  "artist": "Category:Government of the United States Virgin Islands",
+  "artist": "Government of the United States Virgin Islands",
   "license": "Public domain",
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:USVI_IMG_5204_-_Minimalist_desk_with_a_wooden_lamp_stand_a_notebook_pencils_in_a_cup_and_a_small_black_device.jpg",
@@ -1422,7 +1422,7 @@
   "w": 960,
   "h": 640,
   "alt": "机の上のノートと鉛筆",
-  "artist": "Category:Government of the United States Virgin Islands",
+  "artist": "Government of the United States Virgin Islands",
   "license": "Public domain",
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg",
@@ -2331,6 +2331,23 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Miniature_silver_coffee_cup.jpg/960px-Miniature_silver_coffee_cup.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Miniature_silver_coffee_cup.jpg/500px-Miniature_silver_coffee_cup.jpg",
   "og": "https://research.seadice.win/img/coffee-caffeine-focus-amount-timing-research-og.jpg",
+  "local": true
+ },
+ "self-explanation-own-words-memory-why-research": {
+  "file": "File:USVI IMG 5202 - Minimalist desk with colorful pencils in a cardboard holder a cup holding pens and scissors and a notebook with botanical patterns all under soft light.jpg",
+  "src": "/img/self-explanation-own-words-memory-why-research.webp",
+  "src640": "/img/self-explanation-own-words-memory-why-research-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上のノートと色鉛筆",
+  "artist": "Government of the United States Virgin Islands",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg/500px-thumbnail.jpg",
+  "og": "https://research.seadice.win/img/self-explanation-own-words-memory-why-research-og.jpg",
   "local": true
  }
 }

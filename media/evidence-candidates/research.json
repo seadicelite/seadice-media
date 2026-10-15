@@ -2974,5 +2974,73 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-self-explanation-own-words-memory-why-research-medstudents",
+    "category": "記憶・学習",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Larsen et al., \"Comparative effects of test-enhanced learning and self-explanation on long-term retention\" (Medical Education, 2013)",
+    "sourceUrl": "https://doi.org/10.1111/medu.12141",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/self-explanation-own-words-memory-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自分の言葉で説明すると覚えられる",
+        "body": "「説明しながら読むと頭に入る」ってよく言うよね。じゃあ、半年たっても覚えているのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "医学生47人の4週間",
+        "body": "医学部1年生47人が、4つのテーマを毎週1回、4週間復習した研究があるんだ。読むだけ、説明しながら読む、自分にテスト、テスト＋説明の4つの学び方を比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "半年後、20%→29%",
+        "body": "半年後のテストで、読むだけは20%、説明しながら読むと29%だった。でも自分にテストすると36%、テスト＋説明だと40%で、もっと高かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どのテーマでも同じ？",
+        "body": "1つの医学部の47人での研究で、テーマによって効き方に違いがあったんだ。医学以外の勉強や、ほかの年齢でも同じ差になるかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
+  },
+  {
+    "id": "research-self-explanation-own-words-memory-why-research-pupil",
+    "category": "記憶・学習",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Grudzien & Unsworth, \"Investigating a mental effort explanation of the generation effect using pupillometry\" (Memory & Cognition, 2026)",
+    "sourceUrl": "https://doi.org/10.3758/s13421-025-01791-0",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/self-explanation-own-words-memory-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "自分で考えた答えはなぜ忘れにくい？",
+        "body": "答えを読むより、自分で考えて出した答えのほうが覚えている気がしない？ これは「生成効果」と呼ばれていて、昔から知られているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "瞳孔で「頭の使い方」を測った",
+        "body": "アメリカの大学生に単語のペアを覚えてもらい、答えを読む場合と自分で考える場合で、瞳孔の開き方を測った実験があるよ。瞳孔は頭を使うほど大きく開くんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "考えると瞳孔が開き、記憶も上がる",
+        "body": "41人の実験では、自分で考えた単語の正答率は54%、読んだ単語は49%。考えるときは瞳孔が大きく開いていて、この頭の使い方の差が記憶の差の一部を説明していたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "グループを分けると差が消えた",
+        "body": "「読むだけ」の人と「考えるだけ」の人を別々にした実験（各41人）では、正答率はどちらも56%で差が出なかったんだ。どんな条件で効くのかは、まだ調べている途中だよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
