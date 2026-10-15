@@ -343,7 +343,8 @@
      "adult-relearning-starting-point-check"
     ],
     "judge": [
-     "brain-training-games-adult-learning"
+     "brain-training-games-adult-learning",
+     "online-vs-classroom-adult-learning"
     ]
    }
   },

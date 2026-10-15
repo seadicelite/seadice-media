@@ -2257,5 +2257,23 @@
   "remote640": "https://commons.wikimedia.org/w/thumb.php?f=Calendar_on_wall_-_DPLA_-_1b7b70c03a8e3a49d7c74ceab6396d5d.jpg&w=500",
   "og": "https://dokugaku.seadice.win/img/self-imposed-deadlines-study.jpg",
   "local": true
+ },
+ "online-vs-classroom-adult-learning": {
+  "file": "File:Laptop and lamp on table (Unsplash).jpg",
+  "src": "/img/online-vs-classroom-adult-learning.jpg",
+  "src640": "/img/online-vs-classroom-adult-learning-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "机の上のノートパソコン",
+  "artist": "Tatiana Lapina veila",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Laptop_and_lamp_on_table_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://commons.wikimedia.org/w/thumb.php?f=Laptop_and_lamp_on_table_%28Unsplash%29.jpg&w=960",
+  "remote640": "https://commons.wikimedia.org/w/thumb.php?f=Laptop_and_lamp_on_table_%28Unsplash%29.jpg&w=500",
+  "og": "https://dokugaku.seadice.win/img/online-vs-classroom-adult-learning.jpg",
+  "local": true
  }
 }

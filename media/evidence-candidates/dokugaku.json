@@ -2984,5 +2984,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-online-vs-classroom-adult-learning-elearning",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vaona et al., \"E-learning for health professionals\" (Cochrane Database of Systematic Reviews, 2018)",
+    "sourceUrl": "https://doi.org/10.1002/14651858.CD011736.pub2",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/online-vs-classroom-adult-learning/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "オンライン講座は身につかない？",
+        "body": "画面越しの講座は、教室で受けるより頭に入らない。社会人の学び直しで、そう感じている人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "働く医療職のランダム化試験を集めた",
+        "body": "コクラン・レビューが、資格を持って働く医療職5,679人を含む16件のランダム化比較試験をまとめて、オンライン学習と従来の学び方を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "知識の差はほとんどなかった",
+        "body": "知識を比べた11件（3,236人）では、オンライン学習はほとんど差をもたらさないという結果だった。技能については、良くなるか悪くなるか判断できなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "証拠の確かさは低め",
+        "body": "証拠の確かさは「低い」と評価されていて、対象は医療職だけ。語学や資格の勉強を一人で進める社会人で同じかは、直接確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
