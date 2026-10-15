@@ -2780,5 +2780,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "dokugaku-spare-time-study-menu-table-spaced-questions",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kerfoot et al., \"An online spaced-education game among clinicians improves their patients' time to blood pressure control: a randomized controlled trial\" (Circulation: Cardiovascular Quality and Outcomes, 2014)",
+    "sourceUrl": "https://doi.org/10.1161/CIRCOUTCOMES.113.000814",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/spare-time-study-menu-table/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "数日に1問で、身につく？",
+        "body": "忙しい社会人は、まとまった勉強時間がとりにくいよね。数日に1〜2問だけ解く勉強で知識が残るのかを、医療者で試した研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "医療者111人をくじで2組に",
+        "body": "米国の8つの病院の医師や看護師など111人。一方には高血圧の治療の問題を3日ごとに1〜2問メールで送り、間違えたら12日後、正解なら24日後にまた届くしくみにした。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "52週後のテストで90%対78%",
+        "body": "同じ内容をウェブで読めるようにした組は78%、問題を受け取った組は90%だった。担当した患者さんの血圧が目標に届くまでの日数も、少し短くなったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "効いたのは問題？メール？",
+        "body": "問題を受け取った組にはメールが多く届いていて、中身ではなくメールの多さが効いた可能性を著者自身が挙げている。参加したのは声をかけた人の37%だけだよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]

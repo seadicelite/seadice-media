@@ -2149,5 +2149,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Samovar_Tea_House_%287792874154%29.jpg/500px-Samovar_Tea_House_%287792874154%29.jpg",
   "og": "https://dokugaku.seadice.win/img/study-break-plan-table.jpg",
   "local": true
+ },
+ "spare-time-study-menu-table": {
+  "file": "File:Index card, 3 by 5 inch.agr.jpg",
+  "src": "/img/spare-time-study-menu-table.jpg",
+  "src640": "/img/spare-time-study-menu-table-sm.jpg",
+  "w": 960,
+  "h": 599,
+  "alt": "罫線の入った白い情報カード",
+  "artist": "ArnoldReinhold",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Index_card,_3_by_5_inch.agr.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Index_card%2C_3_by_5_inch.agr.jpg/960px-Index_card%2C_3_by_5_inch.agr.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Index_card%2C_3_by_5_inch.agr.jpg/500px-Index_card%2C_3_by_5_inch.agr.jpg",
+  "og": "https://dokugaku.seadice.win/img/spare-time-study-menu-table.jpg",
+  "local": true
  }
 }
