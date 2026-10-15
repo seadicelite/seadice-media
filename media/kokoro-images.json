@@ -3138,5 +3138,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coffee-desk-laptop-notebook_%2824244320481%29.jpg/500px-Coffee-desk-laptop-notebook_%2824244320481%29.jpg",
   "og": "https://mentalai.seadice.win/img/ai-help-overconfidence.jpg",
   "local": true
+ },
+ "pet-loneliness-prevent": {
+  "file": "File:Edie's fur brown in the sun.jpg",
+  "src": "/img/pet-loneliness-prevent.jpg",
+  "src640": "/img/pet-loneliness-prevent-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "日なたの芝生でくつろぐ猫",
+  "artist": "Mattkiska",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Edie%27s_fur_brown_in_the_sun.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Edie%27s_fur_brown_in_the_sun.jpg/960px-Edie%27s_fur_brown_in_the_sun.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Edie%27s_fur_brown_in_the_sun.jpg/500px-Edie%27s_fur_brown_in_the_sun.jpg",
+  "og": "https://mentalai.seadice.win/img/pet-loneliness-prevent.jpg",
+  "local": true
  }
 }

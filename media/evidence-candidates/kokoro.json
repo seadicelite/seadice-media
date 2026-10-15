@@ -2279,5 +2279,39 @@
       }
     ],
     "addedAt": "2026-10-15"
+  },
+  {
+    "id": "kokoro-pet-loneliness-prevent-which-loneliness",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ogata N, Weng HY, McV Messam L, \"Temporal patterns of owner-pet relationship, stress, and loneliness during the COVID-19 pandemic, and the effect of pet ownership on mental health: A longitudinal survey\" (PLoS ONE, 2023)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0284101",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/pet-loneliness-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ペットがいれば寂しくない？",
+        "body": "一人暮らしでも犬や猫がいれば孤独にならない、ってよく聞くよね。実際のところはどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "米国の4,237人を追跡",
+        "body": "米国の研究者が、ペットを飼っていない人、犬の飼い主、猫の飼い主あわせて4,237人に、新型コロナの流行中に最大6回アンケートをしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "和らいだのは一部の寂しさ",
+        "body": "ほかの条件をそろえると、友人や家族に関わる孤独やストレスは、飼い主と飼っていない人で差がなかった。恋人やパートナーに関わる孤独だけは、飼い主のほうが低かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "流行後も同じ？",
+        "body": "流行前の気持ちは後から思い出して答えていて、参加者はネットで集めた人。流行が落ち着いた今も同じ結果になるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-15"
   }
 ]
