@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-output-check-missed-error",
+  "category": "考える力・集中",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-16",
+  "title": "AIの出した結果を確かめる係なのに、間違いを見逃してしまった。研究では、見張るだけの作業は時間とともに見落としが増えやすく、「気をつける」より区切りと休憩が効いていた",
+  "summary": "見張り続ける作業は時間とともに見落としが増え、注意を促すだけでは防げなかった。報告して影響を止め、状況を書き出し、区切り・休憩・答え合わせを組み込む"
+ },
+ {
   "slug": "ai-meeting-minutes-own-notes-prepare",
   "category": "考える力・集中",
   "type": "guide",
