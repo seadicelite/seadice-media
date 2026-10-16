@@ -3698,5 +3698,73 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-phone-away-before-bed-sleep-study-30min",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "He et al., \"Effect of restricting bedtime mobile phone use on sleep, arousal, mood, and working memory: A randomized pilot trial\" (PLoS One, 2020)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0228756",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/phone-away-before-bed-sleep-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "寝る前のスマホ、やめたら変わる？",
+        "body": "布団に入ってからのスマホ、つい長くなるよね。寝る30分前に手放したら、本当に眠りは変わるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "38人の大学生で4週間ためした",
+        "body": "中国の研究チームが、寝る前のスマホが長くて眠りの悪い大学生38人を2組に分けた。片方は寝る30分前からスマホを使わない。4週間続けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "寝つきが約31分から約18分に",
+        "body": "スマホを手放した組は、寝つくまでの時間が平均30.98分から18.38分に縮んで、睡眠時間も6.20時間から6.56時間に延びた。何もしない組はほとんど変わらなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "小さな実験で、記録は自己申告",
+        "body": "人数は38人だけで、眠りは本人の記録と質問紙で測った。参加者はもともと減らしたかった人たち。だれにでも同じだけ効くかはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-phone-away-before-bed-sleep-study-night-shift",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Duraccio et al., \"Does iPhone night shift mitigate negative effects of smartphone use on sleep outcomes in emerging adults?\" (Sleep Health, 2021)",
+    "sourceUrl": "https://doi.org/10.1016/j.sleh.2021.03.005",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/phone-away-before-bed-sleep-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "夜間モードなら寝る前のスマホもOK？",
+        "body": "画面を暖色にする夜間モードにすれば、寝る前にスマホを見ても眠りは守れる、ってよく聞くよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "167人を3組に分けて7晩",
+        "body": "米国の18〜24歳の大学生167人を、寝る前1時間「夜間モードで使う」「夜間モードなしで使う」「使わない」の3組に分けて、腕の計測器で7晩の睡眠を測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "3組で睡眠に差はなかった",
+        "body": "全体では、3組の睡眠にはっきりした差は出なかった。夜間モードに特別な効果は見られなかったらしい。ふだん6.8時間より長く寝ている人だけで見ると、使わない組の眠りの質がいちばんよかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1週間だけの実験",
+        "body": "7晩だけの実験で、対象は米国の1つの大学の学生。長く続けたらどうなるか、大人全体に当てはまるかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]

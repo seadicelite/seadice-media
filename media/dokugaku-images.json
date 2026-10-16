@@ -2538,5 +2538,23 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Signpost_in_Riarskaret_mountain_pass.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "phone-away-before-bed-sleep-study": {
+  "file": "File:TCM 237387 alarm clock with MP3 player-7459.jpg",
+  "src": "/img/phone-away-before-bed-sleep-study.jpg",
+  "src640": "/img/phone-away-before-bed-sleep-study-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "目覚まし時計",
+  "artist": "Raimond Spekking",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:TCM_237387_alarm_clock_with_MP3_player-7459.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TCM_237387_alarm_clock_with_MP3_player-7459.jpg/960px-TCM_237387_alarm_clock_with_MP3_player-7459.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TCM_237387_alarm_clock_with_MP3_player-7459.jpg/500px-TCM_237387_alarm_clock_with_MP3_player-7459.jpg",
+  "og": "https://dokugaku.seadice.win/img/phone-away-before-bed-sleep-study.jpg",
+  "local": true
  }
 }
