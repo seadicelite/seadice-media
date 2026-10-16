@@ -2696,5 +2696,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Legal_Contract_%26_Signature_-_Warm_Tones.jpg/500px-Legal_Contract_%26_Signature_-_Warm_Tones.jpg",
   "og": "https://research.seadice.win/img/boring-task-purpose-procrastination-research.jpg",
   "local": true
+ },
+ "online-meeting-fatigue-why-research": {
+  "file": "File:Laptop on desk book stacks (Unsplash).jpg",
+  "src": "/img/online-meeting-fatigue-why-research.jpg",
+  "src640": "/img/online-meeting-fatigue-why-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "本が積まれた机の上のノートパソコン",
+  "artist": "freddie marriage fredmarriage",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Laptop_on_desk_book_stacks_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Laptop_on_desk_book_stacks_%28Unsplash%29.jpg/960px-Laptop_on_desk_book_stacks_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Laptop_on_desk_book_stacks_%28Unsplash%29.jpg/500px-Laptop_on_desk_book_stacks_%28Unsplash%29.jpg",
+  "og": "https://research.seadice.win/img/online-meeting-fatigue-why-research.jpg",
+  "local": true
  }
 }

@@ -3892,5 +3892,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-online-meeting-fatigue-why-research-self-view",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Basch et al., \"Fighting Zoom fatigue: Evidence-based approaches in university online education\" (Scientific Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-90973-6",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/online-meeting-fatigue-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自分の顔を見ていると疲れる？",
+        "body": "オンライン会議の画面には、ずっと自分の顔が映っているよね。あれが疲れの原因じゃないか、って言われているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "週ごとに設定を変えたゼミ",
+        "body": "Baschら（2025）は、ドイツの大学のオンラインゼミで、自分の顔の表示を消す週と出す週をつくって、終わったあとの疲れを7段階で答えてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "疲れが3.41から2.25に",
+        "body": "25人で比べると、自分の顔の表示を消した週の疲れは2.25で、出していた週の3.41より低かった。授業で発言や作業をした週も、ただ聞く週より疲れが少なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数は少なく、内容も違った",
+        "body": "比べたのは25人だけ。しかも2つの週では学ぶ内容の難しさも違っていたんだ。2024年の調査では、ビデオ会議そのものと疲れの関係が見られなかったという結果もあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
