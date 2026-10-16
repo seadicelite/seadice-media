@@ -3299,5 +3299,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "kokoro-income-rank-comparison-low-mood-rank",
+    "category": "お金と比較",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Euteneuer F et al., \"Income rank and depressive symptoms among employees in Germany − A 5-year cross-lagged panel analysis\" (International Journal of Clinical and Health Psychology, 2024)",
+    "sourceUrl": "https://doi.org/10.1016/j.ijchp.2024.100485",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/income-rank-comparison-low-mood/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "友達の年収で落ち込むのはなぜ？",
+        "body": "生活に困っているわけじゃないのに、同期や友達の年収を聞くと沈むことってあるよね。心に関わるのは、収入の額？それとも周りとの差？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ドイツの働く人を5年追った",
+        "body": "ドイツの働く人4,201人で、性別・年代・職種が同じ人の中で収入が何番目かを計算して、5年後の落ち込みの症状と比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "額より「順位」",
+        "body": "順位が低い人ほど、収入の額を考えに入れても、5年後に気分や自己評価にかかわる落ち込みの症状が強い傾向があったらしい。だるさや睡眠など体の症状と関わっていたのは、額のほうだったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本当に比べていた？",
+        "body": "観察研究だから原因とは言えないし、本人が実際に誰と比べていたかは調べていないんだ。関係の大きさも小さめだったよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
