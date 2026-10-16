@@ -3664,5 +3664,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-study-motivation-slump-halfway-stuck-in-the-middle",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bonezzi et al., \"Stuck in the middle: The psychophysics of goal pursuit\" (Psychological Science, 2011)",
+    "sourceUrl": "https://doi.org/10.1177/0956797611404899",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/study-motivation-slump-halfway/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "中だるみって、なぜ起きる？",
+        "body": "始めたころは毎日進んだのに、半分くらいで手が止まる。ゴールに近づくほどやる気は上がるはずじゃないの？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "「真ん中で止まる」を調べた実験",
+        "body": "Bonezziさんたちは、ゴールに近づくほどやる気が上がり続けるという古い考えを確かめ直した。言葉づくりや誤字探しを9回続ける課題などで、進み具合とやる気の関係を見たんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "始めと終わりで高く、真ん中で低い",
+        "body": "やる気は、ゴールから遠いときと近いときに高く、半分くらいで低くなることがあった。始めは「どれだけ来たか」、後半は「あとどれだけか」で測るので、真ん中は1歩の重みが小さく感じるらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何か月もの勉強でも同じ？",
+        "body": "実験は数分〜数十分の短い課題。何か月もかかる試験勉強で同じ形になるかは確かめられていないし、独立した再現研究も見つからなかった。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]

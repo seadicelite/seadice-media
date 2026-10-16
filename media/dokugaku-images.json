@@ -2525,5 +2525,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/A_digital_alarm_clock_in_Glasgow_%28cropped%29.jpg/500px-A_digital_alarm_clock_in_Glasgow_%28cropped%29.jpg",
   "og": "https://dokugaku.seadice.win/img/morning-study-failed-early-rising-reset.jpg",
   "local": true
+ },
+ "study-motivation-slump-halfway": {
+  "file": "File:Signpost in Riarskaret mountain pass.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Signpost_in_Riarskaret_mountain_pass.jpg/960px-Signpost_in_Riarskaret_mountain_pass.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Signpost_in_Riarskaret_mountain_pass.jpg/500px-Signpost_in_Riarskaret_mountain_pass.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "山道の分かれ道に立つ道しるべ",
+  "artist": "Frankemann",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Signpost_in_Riarskaret_mountain_pass.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
