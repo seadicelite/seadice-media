@@ -3858,5 +3858,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-boring-task-purpose-procrastination-research-purpose",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yeager et al., \"Boring but important: A self-transcendent purpose for learning fosters academic self-regulation\" (Journal of Personality and Social Psychology, 2014)",
+    "sourceUrl": "https://doi.org/10.1037/a0037637",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/boring-task-purpose-procrastination-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "退屈な作業、どうしたら続く？",
+        "body": "大事だけどつまらない作業って、すぐスマホに手が伸びるよね。じゃあ「なぜやるのか」の理由を変えたら、続けやすくなるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "計算か、動画かを選べる課題",
+        "body": "Yeagerら（2014）は、アメリカの大学生429人に、簡単な引き算を解くか動画やゲームで遊ぶかを自由に選べる課題をしてもらったんだ。事前に一部の人は、学ぶ理由を「人の役に立つこと」と結びつける読み書きをした。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "いちばん退屈な時間に36%多く解いた",
+        "body": "ふつうの組は後半の4分間で解いた数が44%減ったけど、理由を書いた組は26%減にとどまり、後半は36%多く解いた。「楽しい仕事のため」という自分だけの理由では、はっきりした差は出なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "いつでも効くとは限らない",
+        "body": "実験室の短い課題での話で、仕事でも同じかはわからない。中学生の別の実験では、読み書きだけでは効かず、先生のひと言が添えられたときだけ効いたんだ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]

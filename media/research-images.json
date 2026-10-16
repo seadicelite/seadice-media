@@ -2678,5 +2678,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Battery-powered_electric_fan_on_a_white_background_at_home.jpg/500px-Battery-powered_electric_fan_on_a_white_background_at_home.jpg",
   "og": "https://research.seadice.win/img/hot-night-cant-sleep-why-research.jpg",
   "local": true
+ },
+ "boring-task-purpose-procrastination-research": {
+  "file": "File:Legal Contract & Signature - Warm Tones.jpg",
+  "src": "/img/boring-task-purpose-procrastination-research.jpg",
+  "src640": "/img/boring-task-purpose-procrastination-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "書類の束と万年筆",
+  "artist": "Blogtrepreneur",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Legal_Contract_%26_Signature_-_Warm_Tones.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Legal_Contract_%26_Signature_-_Warm_Tones.jpg/960px-Legal_Contract_%26_Signature_-_Warm_Tones.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Legal_Contract_%26_Signature_-_Warm_Tones.jpg/500px-Legal_Contract_%26_Signature_-_Warm_Tones.jpg",
+  "og": "https://research.seadice.win/img/boring-task-purpose-procrastination-research.jpg",
+  "local": true
  }
 }
