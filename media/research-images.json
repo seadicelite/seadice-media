@@ -2624,5 +2624,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Lake_Crescent_calm_1996.jpg/500px-Lake_Crescent_calm_1996.jpg",
   "og": "https://research.seadice.win/img/anger-calm-down-self-distancing-research.jpg",
   "local": true
+ },
+ "bright-light-daytime-focus-sleepiness-research": {
+  "file": "File:Empty apartment room with corner windows.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Empty_apartment_room_with_corner_windows.jpg/960px-Empty_apartment_room_with_corner_windows.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Empty_apartment_room_with_corner_windows.jpg/500px-Empty_apartment_room_with_corner_windows.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "窓から日の光が差しこむ部屋",
+  "artist": "aismallard",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Empty_apartment_room_with_corner_windows.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

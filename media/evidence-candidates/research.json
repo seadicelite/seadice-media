@@ -3756,5 +3756,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-bright-light-daytime-focus-sleepiness-research-well-rested-no-effect",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lok et al., \"White Light During Daytime Does Not Improve Alertness in Well-rested Individuals\" (Journal of Biological Rhythms, 2018)",
+    "sourceUrl": "https://doi.org/10.1177/0748730418796036",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/bright-light-daytime-focus-sleepiness-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "明るい部屋なら目がさえる？",
+        "body": "眠いときは明るい場所へ。光を浴びると目がさえる、ってよく聞くよね。夜の光で眠れなくなるのは有名な話。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "昼間に明るさを変えて比べた",
+        "body": "Lokら（2018）は、よく眠れている50人に、朝から夕方まで薄暗い光と24〜2,000ルクスの光を交互に浴びてもらい、眠気や注意力を測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "2,000ルクスでも、はっきりした差なし",
+        "body": "明るさによる差はごく一部でしか見られず、統計の補正をするとどれも残らなかった。寝不足でない人には、昼間の光の効果ははっきりしないらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "寝不足の日は話が別かも",
+        "body": "1つの明るさにつき10人ずつと人数は少なめ。寝不足の16人で1,000ルクスの光が眠気を減らした別の実験もあって、どんな人・時間帯なら効くのかはまだ調べられている途中だよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
