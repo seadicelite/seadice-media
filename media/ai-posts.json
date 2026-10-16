@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-meeting-minutes-own-notes-prepare",
+  "category": "考える力・集中",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-16",
+  "title": "AIが議事録をとってくれるなら、自分のメモはもういらない？研究では、メモを取りながら聞いた人のほうが内容を覚えていた。要点だけは自分の言葉で書く",
+  "summary": "45分の講義の実験では、メモを取りながら聞いた人は聞くだけの人より直後のテストで多く正解した。AI議事録は記録用と割り切り、要点は自分で3〜5行書く"
+ },
+ {
   "slug": "ai-written-message-friends-family-prepare",
   "category": "人間関係・孤独",
   "type": "guide",

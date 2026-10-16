@@ -1834,5 +1834,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/An_envelope_of_the_letter_from_President_Theodore_Roosevelt%2C_1909.jpg/500px-An_envelope_of_the_letter_from_President_Theodore_Roosevelt%2C_1909.jpg",
   "og": "https://ai.seadice.win/img/ai-written-message-friends-family-prepare-og.jpg",
   "local": true
+ },
+ "ai-meeting-minutes-own-notes-prepare": {
+  "file": "File:Spiralbinderücken -- 2022 -- 9739 (bw).jpg",
+  "src": "/img/ai-meeting-minutes-own-notes-prepare.jpg",
+  "src640": "/img/ai-meeting-minutes-own-notes-prepare-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ノートのらせん綴じ",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Spiralbinder%C3%BCcken_--_2022_--_9739_(bw).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Spiralbinder%C3%BCcken_--_2022_--_9739_%28bw%29.jpg/960px-Spiralbinder%C3%BCcken_--_2022_--_9739_%28bw%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Spiralbinder%C3%BCcken_--_2022_--_9739_%28bw%29.jpg/500px-Spiralbinder%C3%BCcken_--_2022_--_9739_%28bw%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-meeting-minutes-own-notes-prepare.jpg",
+  "local": true
  }
 }
