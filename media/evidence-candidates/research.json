@@ -3722,5 +3722,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-anger-calm-down-self-distancing-research-venting-vs-calming",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kjærvik & Bushman, \"A meta-analytic review of anger management activities that increase or decrease arousal: What fuels or douses rage?\" (Clinical Psychology Review, 2024)",
+    "sourceUrl": "https://doi.org/10.1016/j.cpr.2024.102414",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/anger-calm-down-self-distancing-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "怒りは発散すればすっきりする？",
+        "body": "腹が立ったらクッションをたたく、走って汗を流す。怒りは外に出したほうがすっきりする、ってよく言われるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "154件の研究をまとめて比べた",
+        "body": "Kjærvik と Bushman（2024）は、154件・10,189人の研究をまとめて、体の興奮を上げる方法と下げる方法を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効いたのは「落ち着かせる」ほう",
+        "body": "深呼吸や瞑想など興奮を下げる方法は、怒りと攻撃性を下げた（g＝-0.63）。たたく・走るなど興奮を上げる方法は、全体として効果がなかった（g＝-0.02）らしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どの方法が一番かは決まっていない",
+        "body": "研究ごとにやり方も測り方もばらばら。興奮を上げる方法の結果も研究によって違っていて、運動がまったく役に立たないとまでは言い切れないよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
