@@ -3790,5 +3790,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-names-hard-to-remember-why-research-names-not-better-than-average",
+    "category": "記憶・学習",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hargis et al., \"Remembering proper names as a potential exception to the better-than-average effect in younger and older adults\" (Psychology and Aging, 2020)",
+    "sourceUrl": "https://doi.org/10.1037/pag0000472",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/names-hard-to-remember-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "名前を覚えるのは苦手、と思う？",
+        "body": "人は多くのことで「自分は平均より上」と思いがちらしい。でも、人の名前を覚える力についてはどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "自分の能力を同年代と比べてもらった",
+        "body": "Hargisら（2020）は、アメリカの若い人84人と高齢の人69人に、正直さや記憶力などを同じ年代の人と比べて9段階で答えてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "名前だけは「ふつう」",
+        "body": "多くの項目は平均より上と答えたのに、人の名前を覚える力だけは、高齢の人5.06・若い人5.14と、ほぼ平均（5）だった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本当の記憶力は測っていない",
+        "body": "これは本人の答えだけの調査で、実際に名前を覚えるテストはしていないよ。オンラインで集めた人たちなので、ほかの国や年代に当てはまるかもわからない。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
