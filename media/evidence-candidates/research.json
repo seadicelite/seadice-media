@@ -3824,5 +3824,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-hot-night-cant-sleep-why-research-plus-1c-sleep-loss",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Obradovich et al., \"Nighttime temperature and human sleep loss in a changing climate\" (Science Advances, 2017)",
+    "sourceUrl": "https://doi.org/10.1126/sciadv.1601555",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/hot-night-cant-sleep-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "暑い夜は眠れない",
+        "body": "寝苦しい夜はなかなか眠れない、ってよく言うよね。眠るときは体の内側の温度が下がる必要があって、暑いとそれがじゃまされるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "約76万人の答えと夜の気温",
+        "body": "Obradovichら（2017）は、2002〜2011年に「眠りが足りなかった日数」を答えたアメリカの約76万人のデータを、住む町の夜の気温と照らし合わせたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "平年より1℃高いと、約3夜増えた",
+        "body": "夜の最低気温が平年より1℃高いと、眠りが足りない夜が100人あたり月に約3夜増えた。夏の影響はほかの季節のほぼ3倍で、65歳以上や収入の低い人で大きかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "睡眠は本人の答え",
+        "body": "眠りは機械で測ったのではなく、本人の答えだよ。エアコンの有無などを一人ずつ調べたわけではなく、アメリカ以外で同じ大きさになるかもわからない。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]

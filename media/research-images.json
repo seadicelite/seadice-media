@@ -2660,5 +2660,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Shehu_Musa_Yar%27adua_Center_06.jpg/500px-Shehu_Musa_Yar%27adua_Center_06.jpg",
   "og": "https://research.seadice.win/img/names-hard-to-remember-why-research.jpg",
   "local": true
+ },
+ "hot-night-cant-sleep-why-research": {
+  "file": "File:Battery-powered electric fan on a white background at home.jpg",
+  "src": "/img/hot-night-cant-sleep-why-research.jpg",
+  "src640": "/img/hot-night-cant-sleep-why-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "扇風機",
+  "artist": "Curpharar",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Battery-powered_electric_fan_on_a_white_background_at_home.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Battery-powered_electric_fan_on_a_white_background_at_home.jpg/960px-Battery-powered_electric_fan_on_a_white_background_at_home.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Battery-powered_electric_fan_on_a_white_background_at_home.jpg/500px-Battery-powered_electric_fan_on_a_white_background_at_home.jpg",
+  "og": "https://research.seadice.win/img/hot-night-cant-sleep-why-research.jpg",
+  "local": true
  }
 }
