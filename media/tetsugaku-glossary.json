@@ -127,6 +127,15 @@
   ]
  },
  {
+  "id": "kopernikusu-teki-tenkai",
+  "term": "コペルニクス的転回",
+  "en": "Copernican revolution (Kant)",
+  "def": "「私たちの認識が対象に従う」というそれまでの前提を逆にして、「対象のほうが私たちの認識の仕方に従う」と考えてみる、カントの発想の転換です。カントは『純粋理性批判』第2版（1787年）の序文で、この試みを、観測者のほうを回してみたコペルニクスの着想になぞらえました。",
+  "slugs": [
+   "kant-copernican-revolution"
+  ]
+ },
+ {
   "id": "control-principle",
   "term": "コントロール原理",
   "en": "Control principle",

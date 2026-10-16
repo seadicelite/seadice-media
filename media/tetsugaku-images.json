@@ -952,5 +952,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Aristotele%2C_et%C3%A0_adrianea%2C_da_modello_di_Lisippo._Palazzo_Altemps_-FG.jpg/500px-Aristotele%2C_et%C3%A0_adrianea%2C_da_modello_di_Lisippo._Palazzo_Altemps_-FG.jpg",
   "og": "https://tetsugaku.seadice.win/img/aristotle-golden-mean-og.jpg",
   "local": true
+ },
+ "kant-copernican-revolution": {
+  "file": "File:Orrery British Museum.JPG",
+  "src": "/img/kant-copernican-revolution.webp",
+  "src640": "/img/kant-copernican-revolution-sm.webp",
+  "w": 960,
+  "h": 638,
+  "alt": "太陽の周りを惑星が回る様子を再現した、大英博物館の太陽系儀（オーラリー）",
+  "artist": "Gtoffoletto",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Orrery_British_Museum.JPG",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Orrery_British_Museum.JPG/960px-Orrery_British_Museum.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Orrery_British_Museum.JPG/500px-Orrery_British_Museum.JPG",
+  "og": "https://tetsugaku.seadice.win/img/kant-copernican-revolution-og.jpg",
+  "local": true
  }
 }

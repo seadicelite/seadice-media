@@ -1,5 +1,13 @@
 [
   {
+    "slug": "kant-copernican-revolution",
+    "category": "近代哲学",
+    "type": "guide",
+    "date": "2026-10-16",
+    "title": "カントの「コペルニクス的転回」とは？ 認識が対象に従うのではなく、対象が認識に従う",
+    "summary": "「認識が対象に従う」という前提を逆にし、対象が私たちの認識の形式に従うと考えたカントの発想の転換。空間・時間と物自体まで生活の言葉で。"
+  },
+  {
     "slug": "aristotle-golden-mean",
     "category": "古代・中世哲学",
     "type": "guide",
