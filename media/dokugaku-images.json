@@ -2528,8 +2528,8 @@
  },
  "study-motivation-slump-halfway": {
   "file": "File:Signpost in Riarskaret mountain pass.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Signpost_in_Riarskaret_mountain_pass.jpg/960px-Signpost_in_Riarskaret_mountain_pass.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Signpost_in_Riarskaret_mountain_pass.jpg/500px-Signpost_in_Riarskaret_mountain_pass.jpg",
+  "src": "/img/study-motivation-slump-halfway.jpg",
+  "src640": "/img/study-motivation-slump-halfway-sm.jpg",
   "w": 960,
   "h": 640,
   "alt": "山道の分かれ道に立つ道しるべ",
@@ -2537,7 +2537,12 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Signpost_in_Riarskaret_mountain_pass.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Signpost_in_Riarskaret_mountain_pass.jpg/960px-Signpost_in_Riarskaret_mountain_pass.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Signpost_in_Riarskaret_mountain_pass.jpg/500px-Signpost_in_Riarskaret_mountain_pass.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-motivation-slump-halfway.jpg",
+  "local": true
  },
  "phone-away-before-bed-sleep-study": {
   "file": "File:TCM 237387 alarm clock with MP3 player-7459.jpg",
@@ -2555,6 +2560,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TCM_237387_alarm_clock_with_MP3_player-7459.jpg/960px-TCM_237387_alarm_clock_with_MP3_player-7459.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TCM_237387_alarm_clock_with_MP3_player-7459.jpg/500px-TCM_237387_alarm_clock_with_MP3_player-7459.jpg",
   "og": "https://dokugaku.seadice.win/img/phone-away-before-bed-sleep-study.jpg",
+  "local": true
+ },
+ "failed-exam-again-retake-or-quit": {
+  "file": "File:Mark sheets.JPG",
+  "src": "/img/failed-exam-again-retake-or-quit.jpg",
+  "src640": "/img/failed-exam-again-retake-or-quit-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "マークシートの解答用紙",
+  "artist": "Genppy",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Mark_sheets.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mark_sheets.JPG/960px-Mark_sheets.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mark_sheets.JPG/500px-Mark_sheets.JPG",
+  "og": "https://dokugaku.seadice.win/img/failed-exam-again-retake-or-quit.jpg",
   "local": true
  }
 }

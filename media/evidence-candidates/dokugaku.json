@@ -3766,5 +3766,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-failed-exam-again-retake-or-quit-repeat-pass-rate",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Raymond & Luciw-Dubas, \"The second time around: Accounting for retest effects on oral examinations\" (Evaluation & the Health Professions, 2010)",
+    "sourceUrl": "https://doi.org/10.1177/0163278710374855",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/failed-exam-again-retake-or-quit/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "2回目の試験って受かりやすい？",
+        "body": "一度受けて傾向もわかったし、2回目なら受かりやすいはず。そう思うよね。実際のところはどうなんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5万人超の合格率をくらべた",
+        "body": "米国の医師の6つの専門試験で、5万人を超える受験者の合格率を、初めて受けた人と受け直した人でくらべた研究があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "初回は約84%、筆記の受け直しは36%",
+        "body": "初めて受けた人の合格率は平均約84%。筆記試験を受け直した人は平均36%だった。口頭試験の受け直しは平均65%と高めで、点数の伸びの約3分の1は試験のぶれで説明できたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ほかの資格試験でも同じ？",
+        "body": "米国の医師向けの試験の結果で、勉強のしかたは調べていない。日本の資格試験で同じ数字になるかはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
