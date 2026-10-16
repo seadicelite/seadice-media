@@ -1,5 +1,14 @@
 [
   {
+    "slug": "ai-workplace-readiness-autonomy",
+    "category": "仕事とAIの不安",
+    "type": "guide",
+    "stage": "知る",
+    "date": "2026-10-16",
+    "title": "職場にAIが入ってきて、しんどくなる人と元気な人がいるのはなぜ？中国の看護師230人を3か月追った研究では、AIへの備えがあると感じる人ほど、仕事を自分で決められる感覚が強まり、心の元気さにつながっていた",
+    "summary": "看護師の3回の調査では、AIへの備えの感覚が仕事の裁量を通して心の元気さとつながっていた。裁量の大切さはAI以前の研究でも示されているが、AIの研究はまだ少ない。"
+  },
+  {
     "slug": "income-rank-comparison-low-mood",
     "category": "比べて落ち込む",
     "type": "guide",

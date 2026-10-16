@@ -3333,5 +3333,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "kokoro-ai-workplace-readiness-autonomy-decision-latitude",
+    "category": "仕事",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Theorell T et al., \"A systematic review including meta-analysis of work environment and depressive symptoms\" (BMC Public Health, 2015)",
+    "sourceUrl": "https://doi.org/10.1186/s12889-015-1954-4",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/ai-workplace-readiness-autonomy/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自分で決められる仕事は楽？",
+        "body": "「やり方を任せてもらえる仕事のほうが気持ちが楽」ってよく聞くよね。これ、研究でも言えるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "59本の論文を整理",
+        "body": "スウェーデンの研究者たちが、職場の環境と落ち込みの症状の関係を、働く人を1年以上追った研究を中心に59本の論文からまとめたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "裁量が大きいと強まりにくい",
+        "body": "19件・約15万8千人分のデータでは、仕事の裁量が大きいことが、落ち込みの症状が強まりにくいことと関係していたらしい（オッズ比0.73）。男女で違いはなかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本人の答えが中心",
+        "body": "職場の環境も症状も、多くは本人の答えで測られているんだ。観察研究だから、裁量が原因だとまでは言えないよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]

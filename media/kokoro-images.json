@@ -3631,7 +3631,7 @@
   "src640": "/img/income-rank-comparison-low-mood-sm.jpg",
   "w": 960,
   "h": 900,
-  "alt": "硬貨の入ったガラスのびん",
+  "alt": "硬貨の入った透明な容器",
   "artist": "Billjones94",
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -3641,6 +3641,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/A_jar_of_world_coins.jpg/960px-A_jar_of_world_coins.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/A_jar_of_world_coins.jpg/500px-A_jar_of_world_coins.jpg",
   "og": "https://mentalai.seadice.win/img/income-rank-comparison-low-mood.jpg",
+  "local": true
+ },
+ "ai-workplace-readiness-autonomy": {
+  "file": "File:Dülmen, Alte Brennerei Löhning -- 2015 -- 8597-601.jpg",
+  "src": "/img/ai-workplace-readiness-autonomy.jpg",
+  "src640": "/img/ai-workplace-readiness-autonomy-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "窓のある部屋の木の机といす",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Alte_Brennerei_L%C3%B6hning_--_2015_--_8597-601.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8597-601.jpg/960px-D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8597-601.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8597-601.jpg/500px-D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8597-601.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-workplace-readiness-autonomy.jpg",
   "local": true
  }
 }
