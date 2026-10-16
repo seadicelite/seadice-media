@@ -3163,5 +3163,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "kokoro-volunteering-loneliness-prevent-onset-ending",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Richardson A et al., \"The Association Between the Onset and Ending of Volunteering on Loneliness and Perceived Social Isolation Among Older Adults: Longitudinal Evidence From the German Ageing Survey\" (Brain and Behavior, 2025)",
+    "sourceUrl": "https://doi.org/10.1002/brb3.70244",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/volunteering-loneliness-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ボランティアを始めると孤独が減る？",
+        "body": "人とのつながりを増やしたいなら、ボランティアがいいってよく聞くよね。でも同じ人を追いかけて、始める前と後を比べた研究は意外と少ないんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "65歳以上を3年あけて2回調査",
+        "body": "ドイツの全国調査で、65歳以上の人に2014年と2017年に答えてもらったんだ。そのあいだにボランティアを始めた188人と、やめた307人の変化を見たよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "始めた人は孤独感がわずかに下がった",
+        "body": "始めた人では、孤独感がわずかに下がる関連があったらしい。実は、やめた人で孤独感が増える関連は見られなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "若い世代でも同じ？",
+        "body": "対象は65歳以上だけで、活動の時間も測っていないよ。ヨーロッパの50歳以上や米国の若い大人の追跡では、孤独との関連ははっきりしなかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]

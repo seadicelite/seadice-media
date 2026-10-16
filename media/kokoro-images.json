@@ -3552,5 +3552,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/EatNGeekCafeLuna3July2008.jpg/500px-EatNGeekCafeLuna3July2008.jpg",
   "og": "https://mentalai.seadice.win/img/conversation-silence-awkward.jpg",
   "local": true
+ },
+ "volunteering-loneliness-prevent": {
+  "file": "File:Oliver Community Garden (3846675030).jpg",
+  "src": "/img/volunteering-loneliness-prevent.jpg",
+  "src640": "/img/volunteering-loneliness-prevent-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "地域の菜園に並ぶ野菜の畝",
+  "artist": "Mack Male from Edmonton, AB, Canada",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Oliver_Community_Garden_(3846675030).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Oliver_Community_Garden_%283846675030%29.jpg/960px-Oliver_Community_Garden_%283846675030%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Oliver_Community_Garden_%283846675030%29.jpg/500px-Oliver_Community_Garden_%283846675030%29.jpg",
+  "og": "https://mentalai.seadice.win/img/volunteering-loneliness-prevent.jpg",
+  "local": true
  }
 }
