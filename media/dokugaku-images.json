@@ -2507,5 +2507,23 @@
   "remote640": "https://commons.wikimedia.org/wiki/Special:FilePath/Laptop_and_coffee_on_a_desk.jpg?width=500",
   "og": "https://dokugaku.seadice.win/img/explain-to-ai-find-gaps.jpg",
   "local": true
+ },
+ "morning-study-failed-early-rising-reset": {
+  "file": "File:A digital alarm clock in Glasgow (cropped).jpg",
+  "src": "/img/morning-study-failed-early-rising-reset.jpg",
+  "src640": "/img/morning-study-failed-early-rising-reset-sm.jpg",
+  "w": 960,
+  "h": 830,
+  "alt": "目覚まし時計",
+  "artist": "Tbatb",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_digital_alarm_clock_in_Glasgow_(cropped).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/A_digital_alarm_clock_in_Glasgow_%28cropped%29.jpg/960px-A_digital_alarm_clock_in_Glasgow_%28cropped%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/A_digital_alarm_clock_in_Glasgow_%28cropped%29.jpg/500px-A_digital_alarm_clock_in_Glasgow_%28cropped%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/morning-study-failed-early-rising-reset.jpg",
+  "local": true
  }
 }

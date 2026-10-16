@@ -3630,5 +3630,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-morning-study-failed-early-rising-reset-sleep-regularity",
+    "category": "睡眠",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Phillips et al., \"Irregular sleep/wake patterns are associated with poorer academic performance and delayed circadian and sleep/wake timing\" (Scientific Reports, 2017)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-017-03171-4",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/morning-study-failed-early-rising-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "寝る時間がバラバラでも、長さが足りていればいい？",
+        "body": "平日は早く、休日は遅く。睡眠時間さえ確保していれば、寝る時刻がバラバラでも問題ないのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生61人の睡眠を30日記録",
+        "body": "米国ハーバード大学の学生61人が、30日間の睡眠を日誌に記録。睡眠の「規則正しさ」を数値にして、体内時計や成績（GPA）とくらべた研究があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "規則正しいほど成績が高い傾向",
+        "body": "規則正しさと成績には正の相関（r=0.37）があった。一方で、睡眠時間の長さは成績と相関しなかったらしい。最も不規則なグループは体内時計も遅れていて、著者らは西へ2〜3時間移動した時差に相当すると表現している。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "規則正しくすれば成績が上がる？",
+        "body": "これは相関で、原因かどうかはわからないと著者ら自身が書いている。1つの大学の少人数の調査で、社会人にも当てはまるかは確かめられていない。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
