@@ -3265,5 +3265,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "kokoro-ai-use-life-satisfaction-hongkong",
+    "category": "AIとの付き合い方",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Fong TCT et al., \"Relationship Between Generative AI Use and Life Satisfaction and the Mediating Role of AI Literacy Among Hong Kong Adults: Cross-Sectional Study\" (Journal of Medical Internet Research, 2026)",
+    "sourceUrl": "https://doi.org/10.2196/88362",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-use-life-satisfaction/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "AIを使わないと取り残される？",
+        "body": "「AIを使いこなさないと置いていかれる」ってよく聞くよね。使っていない人は、毎日の満足度まで下がっちゃうのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "香港の1,800人に聞いた",
+        "body": "香港で無作為に選んだ17〜95歳の1,800人に、生成AIを1日どのくらい使うか、使いこなせている感覚、生活の満足度を答えてもらったんだ。この1年で使った人は38.5%だったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差は小さかった",
+        "body": "1日2時間を超えて使う人は、使わない人より満足度が35点満点で1.6点高いだけ。使いこなす力を考えに入れると、使う時間との直接の関係は見られなかったらしい。満足度は年代でも差がなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どっちが先？",
+        "body": "一度きりの調査だから、AIを使うと満足するのか、満足している人が使うのかはわからない。何のために使うかの違いも調べていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]

@@ -3606,5 +3606,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Small_electric_fan_in_a_square-shaped_encasing_%282017%29.jpg/500px-Small_electric_fan_in_a_square-shaped_encasing_%282017%29.jpg",
   "og": "https://mentalai.seadice.win/img/hot-room-focus.jpg",
   "local": true
+ },
+ "ai-use-life-satisfaction": {
+  "file": "File:Ukraine, Odeska, Illichivsk, Черноморск - Детская спортшкола WMID4998398.jpg",
+  "src": "/img/ai-use-life-satisfaction.jpg",
+  "src640": "/img/ai-use-life-satisfaction-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "鉢植えの植物が並ぶ窓辺と廊下",
+  "artist": "Antonio260",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ukraine,_Odeska,_Illichivsk,_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA_-_%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%88%D0%BA%D0%BE%D0%BB%D0%B0_WMID4998398.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ukraine%2C_Odeska%2C_Illichivsk%2C_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA_-_%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%88%D0%BA%D0%BE%D0%BB%D0%B0_WMID4998398.jpg/960px-Ukraine%2C_Odeska%2C_Illichivsk%2C_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA_-_%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%88%D0%BA%D0%BE%D0%BB%D0%B0_WMID4998398.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ukraine%2C_Odeska%2C_Illichivsk%2C_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA_-_%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%88%D0%BA%D0%BE%D0%BB%D0%B0_WMID4998398.jpg/500px-Ukraine%2C_Odeska%2C_Illichivsk%2C_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA_-_%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%88%D0%BA%D0%BE%D0%BB%D0%B0_WMID4998398.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-use-life-satisfaction.jpg",
+  "local": true
  }
 }
