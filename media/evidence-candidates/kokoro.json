@@ -3197,5 +3197,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "kokoro-handwriting-vs-typing-memory-n400",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ihara AS et al., \"Advantage of Handwriting Over Typing on Learning Words: Evidence From an N400 Event-Related Potential Index\" (Frontiers in Human Neuroscience, 2021)",
+    "sourceUrl": "https://doi.org/10.3389/fnhum.2021.679191",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/handwriting-vs-typing-memory/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "手で書くほうが覚えられる？",
+        "body": "「覚えたいなら手で書け」ってよく言うよね。パソコンやスマホで打つばかりだと、記憶に残りにくいのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3つの書き方で単語を覚えた",
+        "body": "日本の大人39人が、インドネシア語の単語20語を、紙にペン・タブレットにペン・キーボードの3通りで10分ずつ書いて覚えたんだ。そのあと脳波も測ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "脳の反応は違ったけど…",
+        "body": "手書きで覚えた単語ほど、意味の理解に関わる脳波の反応に差が大きく出たらしい。でも実は、直後に覚えていた単語の数は、書き方で変わらなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く覚えていられるかは？",
+        "body": "人数は少なく、調べたのは学習の直後だけ。脳の反応の差が、日をおいた記憶の差につながるのかはまだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]

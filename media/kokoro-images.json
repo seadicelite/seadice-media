@@ -3570,5 +3570,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Oliver_Community_Garden_%283846675030%29.jpg/500px-Oliver_Community_Garden_%283846675030%29.jpg",
   "og": "https://mentalai.seadice.win/img/volunteering-loneliness-prevent.jpg",
   "local": true
+ },
+ "handwriting-vs-typing-memory": {
+  "file": "File:Abbotsford House Study Room.jpg",
+  "src": "/img/handwriting-vs-typing-memory.jpg",
+  "src640": "/img/handwriting-vs-typing-memory-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "本棚に囲まれた書斎の机",
+  "artist": "Michael D Beckwith",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Abbotsford_House_Study_Room.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Abbotsford_House_Study_Room.jpg/960px-Abbotsford_House_Study_Room.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Abbotsford_House_Study_Room.jpg/500px-Abbotsford_House_Study_Room.jpg",
+  "og": "https://mentalai.seadice.win/img/handwriting-vs-typing-memory.jpg",
+  "local": true
  }
 }
