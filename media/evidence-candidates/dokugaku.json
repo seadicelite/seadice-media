@@ -3800,5 +3800,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-similar-concepts-mixed-up-fix-interleaved-math",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rohrer, Dedrick & Burgess, \"The benefit of interleaved mathematics practice is not limited to superficially similar kinds of problems\" (Psychonomic Bulletin & Review, 2014)",
+    "sourceUrl": "https://doi.org/10.3758/s13423-014-0588-3",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/similar-concepts-mixed-up-fix/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "問題は1種類ずつ解くのが基本？",
+        "body": "問題集って、単元ごとに同じ種類の問題が並んでるよね。1種類ずつまとめて解くのが王道…と思いがち。でも、種類を混ぜて解く方がいいという研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "中学生140人で9週間",
+        "body": "中学1年生140人が、数学の問題を「種類ごとにまとめて」か「種類を混ぜて」9週間練習。2週間後に予告なしのテストをしたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "72%と38%",
+        "body": "混ぜて練習した問題の平均点は72%、まとめて練習した問題は38%。混ぜると、問題を見て「どの解き方を使うか」を選ぶ練習になるからだと研究者は考えてる。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人の勉強でも同じ？",
+        "body": "これは中学校の数学の授業での結果。大人の資格試験や、単語の暗記で同じ差が出るとは限らないよ。単語では、まとめて覚える方が良かったというメタ分析もあるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
