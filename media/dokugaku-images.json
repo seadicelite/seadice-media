@@ -2597,5 +2597,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Card_catalogue_drawers.jpg/500px-Card_catalogue_drawers.jpg",
   "og": "https://dokugaku.seadice.win/img/similar-concepts-mixed-up-fix.jpg",
   "local": true
+ },
+ "adult-learner-afraid-to-ask-questions": {
+  "file": "File:Gfp-lecture-hall.jpg",
+  "src": "/img/adult-learner-afraid-to-ask-questions.jpg",
+  "src640": "/img/adult-learner-afraid-to-ask-questions-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "誰もいない講義室の座席",
+  "artist": "Yinan Chen",
+  "license": "Public Domain",
+  "licenseUrl": "https://web.archive.org/web/20230926203737/https://creativecommons.org/licenses/publicdomain/",
+  "page": "https://commons.wikimedia.org/wiki/File:Gfp-lecture-hall.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Gfp-lecture-hall.jpg/960px-Gfp-lecture-hall.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Gfp-lecture-hall.jpg/500px-Gfp-lecture-hall.jpg",
+  "og": "https://dokugaku.seadice.win/img/adult-learner-afraid-to-ask-questions.jpg",
+  "local": true
  }
 }

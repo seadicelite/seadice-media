@@ -3834,5 +3834,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-adult-learner-afraid-to-ask-questions-helpers-happier",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zhao & Epley, \"Surprisingly happy to have helped: Underestimating prosociality creates a misplaced barrier to asking for help\" (Psychological Science, 2022)",
+    "sourceUrl": "https://doi.org/10.1177/09567976221097615",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/adult-learner-afraid-to-ask-questions/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "人に聞くのは迷惑？",
+        "body": "わからないことがあっても「忙しいのに悪いな」と聞けずにいること、あるよね。頼まれた側は、本当に迷惑だと感じているのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "米国の大人2,118人",
+        "body": "想定場面、過去の経験の思い出し、実際のやりとりを組み合わせて、頼む側の予想と頼まれた側の気持ちをくらべた研究があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "思ったより前向き",
+        "body": "頼む側は、相手が手を貸したい気持ちと、手を貸した後の良い気分を低く見積もり、迷惑の大きさを高く見積もっていた。実は、聞かれた側は思ったより前向きらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の質問でも同じ？",
+        "body": "調べたのは米国の大人の日常の頼みごと。勉強の質問の場面や、日本で同じくらいのずれがあるかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
