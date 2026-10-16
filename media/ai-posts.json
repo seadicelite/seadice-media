@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-symptom-wait-and-see-still-worried",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-16",
+  "title": "AIに症状を相談したら「様子を見て大丈夫」と言われた。でも不安が残る。研究では救急の例の約半数を軽く見積もった検査があり、迷ったら人に相談する",
+  "summary": "健康相談用のAIが救急の症例への相談の51.6%を軽く見積もった研究も。症状の変化を書き留め、医療機関に電話で相談する手順を整理。"
+ },
+ {
   "slug": "ai-praised-then-criticized-feedback",
   "category": "AIに頼りすぎ",
   "type": "guide",

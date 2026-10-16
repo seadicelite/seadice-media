@@ -1800,5 +1800,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bird_Feather_Feather_Paper_pen_Bird_feather_made_into_dipping_pen%2C_inkwell%2C_paper%2C_handwritten_letter%2C_inkblots%2C_etc._2505306_Edited_2020.jpg/500px-Bird_Feather_Feather_Paper_pen_Bird_feather_made_into_dipping_pen%2C_inkwell%2C_paper%2C_handwritten_letter%2C_inkblots%2C_etc._2505306_Edited_2020.jpg",
   "og": "https://ai.seadice.win/img/ai-praised-then-criticized-feedback-og.jpg",
   "local": true
+ },
+ "ai-symptom-wait-and-see-still-worried": {
+  "file": "File:Medical mercury thermometer with velvet-lined cardboard box - focus stack (2020-05-25).jpg",
+  "src": "/img/ai-symptom-wait-and-see-still-worried.webp",
+  "src640": "/img/ai-symptom-wait-and-see-still-worried-sm.webp",
+  "w": 960,
+  "h": 644,
+  "alt": "箱に入った体温計",
+  "artist": "Franz van Duns",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Medical_mercury_thermometer_with_velvet-lined_cardboard_box_-_focus_stack_(2020-05-25).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Medical_mercury_thermometer_with_velvet-lined_cardboard_box_-_focus_stack_%282020-05-25%29.jpg/1280px-Medical_mercury_thermometer_with_velvet-lined_cardboard_box_-_focus_stack_%282020-05-25%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Medical_mercury_thermometer_with_velvet-lined_cardboard_box_-_focus_stack_%282020-05-25%29.jpg/500px-Medical_mercury_thermometer_with_velvet-lined_cardboard_box_-_focus_stack_%282020-05-25%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-symptom-wait-and-see-still-worried-og.jpg",
+  "local": true
  }
 }
