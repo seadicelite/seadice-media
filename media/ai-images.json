@@ -1817,5 +1817,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Medical_mercury_thermometer_with_velvet-lined_cardboard_box_-_focus_stack_%282020-05-25%29.jpg/500px-Medical_mercury_thermometer_with_velvet-lined_cardboard_box_-_focus_stack_%282020-05-25%29.jpg",
   "og": "https://ai.seadice.win/img/ai-symptom-wait-and-see-still-worried-og.jpg",
   "local": true
+ },
+ "ai-written-message-friends-family-prepare": {
+  "file": "File:An envelope of the letter from President Theodore Roosevelt, 1909.jpg",
+  "src": "/img/ai-written-message-friends-family-prepare.webp",
+  "src640": "/img/ai-written-message-friends-family-prepare-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "額に入った古い手紙の封筒",
+  "artist": "Oleg Yunakov",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:An_envelope_of_the_letter_from_President_Theodore_Roosevelt,_1909.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/An_envelope_of_the_letter_from_President_Theodore_Roosevelt%2C_1909.jpg/1280px-An_envelope_of_the_letter_from_President_Theodore_Roosevelt%2C_1909.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/An_envelope_of_the_letter_from_President_Theodore_Roosevelt%2C_1909.jpg/500px-An_envelope_of_the_letter_from_President_Theodore_Roosevelt%2C_1909.jpg",
+  "og": "https://ai.seadice.win/img/ai-written-message-friends-family-prepare-og.jpg",
+  "local": true
  }
 }
