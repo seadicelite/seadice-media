@@ -3231,5 +3231,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "kokoro-hot-room-focus-heatwave-dorm",
+    "category": "考える力・集中",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Cedeño Laurent JG et al., \"Reduced cognitive function during a heat wave among residents of non-air-conditioned buildings: An observational study of young adults in the summer of 2016\" (PLOS Medicine, 2018)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pmed.1002605",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/hot-room-focus/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "暑いと頭が回らないのは気のせい？",
+        "body": "夏の暑い部屋だと、なんだか考えがまとまらないよね。あれって本当に頭の働きが落ちているのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "エアコンあり・なしの寮で比べた",
+        "body": "米国の大学生44人が、12日間毎朝、起きてすぐ自分の部屋でスマホのテストを受けたんだ。途中で5日間の熱波が来たよ。エアコンのない寮の部屋は平均26.3℃、ある寮は21.4℃だった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "反応が約13%遅くなった",
+        "body": "熱波の間、エアコンのない寮の学生は、ある寮の学生と比べて計算テストの反応が13.3%遅くなっていたらしい。しかも外が涼しくなってからのほうが差は大きかった。部屋に熱がこもっていたんだね。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日中も続くの？",
+        "body": "若い学生44人だけの研究で、テストは起きた直後だけ。日中の仕事や勉強にどのくらい響くのか、寝不足が関わっているのかは、まだはっきりしていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-16"
   }
 ]
