@@ -3840,5 +3840,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sunrise_in_Meadow_of_Boyun_village%2C_Swat.jpg/500px-Sunrise_in_Meadow_of_Boyun_village%2C_Swat.jpg",
   "og": "https://mentalai.seadice.win/img/loneliness-acceptance-practice.jpg",
   "local": true
+ },
+ "work-anger-calm-down": {
+  "file": "File:Crumpled olive green paper.jpg",
+  "src": "/img/work-anger-calm-down.jpg",
+  "src640": "/img/work-anger-calm-down-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "丸められた紙",
+  "artist": "Photos Public Domain",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Crumpled_olive_green_paper.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Crumpled_olive_green_paper.jpg/960px-Crumpled_olive_green_paper.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Crumpled_olive_green_paper.jpg/500px-Crumpled_olive_green_paper.jpg",
+  "og": "https://mentalai.seadice.win/img/work-anger-calm-down.jpg",
+  "local": true
  }
 }

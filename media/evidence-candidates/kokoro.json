@@ -3707,5 +3707,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-work-anger-calm-down-paper-disposal",
+    "category": "怒り",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kanaya Y & Kawai N, \"Anger is eliminated with the disposal of a paper written because of provocation\" (Scientific Reports, 2024)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-024-57916-z",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/work-anger-calm-down/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "怒りは書いて捨てるとスッキリ？",
+        "body": "腹が立ったら紙に書いて捨てるといい、ってよく聞くよね。書くだけじゃなくて「捨てる」ことに意味はあるんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "わざと怒らせてから書いてもらう",
+        "body": "名古屋大学の実験で、大学生50人の作文に侮辱的な評価を返して怒らせたんだ。そのあと怒りの原因と考えを3分間紙に書いて、半分は丸めてゴミ箱へ、半分はファイルにしまったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "捨てた組は怒りが元どおりに",
+        "body": "紙を捨てた組は、怒りの点数が実験前と差がないくらいまで下がったらしい。しまった組は下がっても実験前より高いままだった。別の46人でシュレッダーを使っても同じ結果だったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "スマホのメモでも効く？",
+        "body": "実験室でつくった短い怒りで、人数も少なめ。スマホに書いて消す方法は試していないし、ほかの怒りの対処法と比べてどうかもまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
