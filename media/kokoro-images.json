@@ -3858,5 +3858,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Crumpled_olive_green_paper.jpg/500px-Crumpled_olive_green_paper.jpg",
   "og": "https://mentalai.seadice.win/img/work-anger-calm-down.jpg",
   "local": true
+ },
+ "stuck-ideas-step-away": {
+  "file": "File:Cup of black tea.JPG",
+  "src": "/img/stuck-ideas-step-away.jpg",
+  "src640": "/img/stuck-ideas-step-away-sm.jpg",
+  "w": 960,
+  "h": 894,
+  "alt": "テーブルに置かれた紅茶のカップ",
+  "artist": "AntanO",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cup_of_black_tea.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cup_of_black_tea.JPG/960px-Cup_of_black_tea.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cup_of_black_tea.JPG/500px-Cup_of_black_tea.JPG",
+  "og": "https://mentalai.seadice.win/img/stuck-ideas-step-away.jpg",
+  "local": true
  }
 }

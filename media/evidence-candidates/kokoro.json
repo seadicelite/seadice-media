@@ -3710,7 +3710,7 @@
   },
   {
     "id": "kokoro-work-anger-calm-down-paper-disposal",
-    "category": "怒り",
+    "category": "ストレス",
     "kind": "よくある説",
     "themeColor": "#00FFD1",
     "sourceLabel": "Kanaya Y & Kawai N, \"Anger is eliminated with the disposal of a paper written because of provocation\" (Scientific Reports, 2024)",
@@ -3738,6 +3738,40 @@
         "stage": "まだわからないこと",
         "title": "スマホのメモでも効く？",
         "body": "実験室でつくった短い怒りで、人数も少なめ。スマホに書いて消す方法は試していないし、ほかの怒りの対処法と比べてどうかもまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-stuck-ideas-step-away-mind-wandering",
+    "category": "集中",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "McDaniel C et al., \"Mind wandering during creative incubation predicts increases in creative performance in a writing task\" (Scientific Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-09736-y",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/stuck-ideas-step-away/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "休憩中のぼんやりは無駄？",
+        "body": "アイデアが出なくて休憩すると、ついぼーっと関係ないことを考えちゃうよね。あれって、ただの時間のむだなのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "物語を書いて、10分休んで、また書く",
+        "body": "米国の大人200人に短い物語を10分書いてもらい、10分の休憩（簡単な課題・難しい課題・瞑想・休憩なし）をはさんで、もう一度10分書いてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "さまよった人ほど発想が広がった",
+        "body": "休憩の種類による差は出なかったけど、休憩中に考えがあちこちさまよった人ほど、同じ題材で書き直したときに言葉の選び方が広がっていたらしい。新しい題材で書いた人では、この関係は見られなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人の採点では差が出なかった",
+        "body": "人が採点した創造性では差がなく、さまよった度合いも本人のふり返り。関連を見たものなので、わざとぼんやりすれば発想が広がるかはまだわからないよ。"
       }
     ],
     "addedAt": "2026-10-17"
