@@ -1,5 +1,14 @@
 [
  {
+  "slug": "disaster-ai-fake-images-prepare",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-17",
+  "title": "地震や大雨のとき、SNSに流れるAIの偽画像にどう備える？研究では、デマは公式の発表より先に広がり、自治体の公式な訂正で収まった",
+  "summary": "AIの風景画像を当てられたのは63.7%。災害のデマは公式の発表より先に広がり、東日本大震災では市の公式な訂正で収まりました。確かめる先を先に決めておきます。"
+ },
+ {
   "slug": "ai-generated-web-content-share",
   "category": "偽情報・ディープフェイク",
   "type": "guide",
