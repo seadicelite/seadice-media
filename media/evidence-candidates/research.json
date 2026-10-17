@@ -4708,5 +4708,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-dehydration-thirst-focus-why-research-thirst-speed",
+    "category": "集中力",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Edmonds CJ et al., \"Subjective thirst moderates changes in speed of responding associated with water consumption\" (Frontiers in Human Neuroscience, 2013)",
+    "sourceUrl": "https://doi.org/10.3389/fnhum.2013.00363",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/dehydration-thirst-focus-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "水を飲むと頭がシャキッとする？",
+        "body": "集中したいときに水を飲むといい、ってよく聞くよね。でも、だれが飲んでも同じように効くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "朝まで水を飲まずに来てもらった",
+        "body": "研究者が34人に、前の晩から水を飲まずに来てもらって、水を飲む日と飲まない日で、合図にボタンを押す速さなどを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "速くなったのは、のどが渇いていた人だけ",
+        "body": "水を飲んだ日は反応が速くなった。でもそれは、のどが強く渇いていた人だけで、渇いていない人は飲んでも変わらなかったらしい。渇きそのものが注意を使っているのかも。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "水で悪くなった課題もあった",
+        "body": "ルールを切り替える課題では、逆に水を飲んだ日のほうが成績が悪かったんだ。34人の研究で、どんな作業に効くのかはまだはっきりしないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

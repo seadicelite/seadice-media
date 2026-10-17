@@ -3069,5 +3069,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_cups_of_tea_with_star_shaped_cookies.jpg/500px-Two_cups_of_tea_with_star_shaped_cookies.jpg",
   "local": true,
   "og": "https://research.seadice.win/img/snack-cravings-time-place-cue-why-research-og.jpg"
+ },
+ "dehydration-thirst-focus-why-research": {
+  "file": "File:Water jug.JPG",
+  "src": "/img/dehydration-thirst-focus-why-research.webp",
+  "src640": "/img/dehydration-thirst-focus-why-research-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "水の入ったピッチャー",
+  "artist": "Antonio Borrillo",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Water_jug.JPG",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Water_jug.JPG/960px-Water_jug.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Water_jug.JPG/500px-Water_jug.JPG",
+  "og": "https://research.seadice.win/img/dehydration-thirst-focus-why-research-og.jpg",
+  "local": true
  }
 }
