@@ -3910,5 +3910,23 @@
   "og": "https://mentalai.seadice.win/img/phone-grayscale-screen-time.jpg",
   "unconverted": true,
   "local": true
+ },
+ "others-failure-relief-why": {
+  "file": "File:Balance scale IMGP9755.jpg",
+  "src": "/img/others-failure-relief-why.jpg",
+  "src640": "/img/others-failure-relief-why-sm.jpg",
+  "w": 960,
+  "h": 645,
+  "alt": "天秤",
+  "artist": "Nikodem Nijaki",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Balance_scale_IMGP9755.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Balance_scale_IMGP9755.jpg/960px-Balance_scale_IMGP9755.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Balance_scale_IMGP9755.jpg/500px-Balance_scale_IMGP9755.jpg",
+  "og": "https://mentalai.seadice.win/img/others-failure-relief-why.jpg",
+  "local": true
  }
 }

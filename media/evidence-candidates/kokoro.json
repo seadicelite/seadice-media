@@ -3945,5 +3945,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-others-failure-relief-why-toddler-schadenfreude",
+    "category": "SNSと比較",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Shamay-Tsoory et al., \"There is no joy like malicious joy: schadenfreude in young children\" (PLoS ONE, 2014)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0100233",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/others-failure-relief-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "人の失敗にほっとするのは、大人だけ？",
+        "body": "人がつまずいたと聞いて、ちょっとほっとしちゃうことってあるよね。この「他人の不幸は蜜の味」の気持ち、小さな子どもにもあるのか調べた実験があるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "お母さんが、ほかの子に読み聞かせ",
+        "body": "イスラエルの2〜3歳の子ども35人で試した。お母さんがひとりで本を読む場面と、ほかの子をひざに乗せて読む場面をつくり、どちらも最後にお母さんが本に水をこぼして終わるようにした。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "不公平が終わると、喜ぶしぐさ",
+        "body": "ほかの子に読んでいた場面が終わったときのほうが、飛びはねたり手をたたいたりする喜ぶしぐさが多かった。いちばん幼い2歳ごろの子にも見られたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人のSNSでも同じ？",
+        "body": "35人と少なく、気持ちは表情やしぐさから読み取ったもの。大人の職場やSNSで感じる気持ちが、同じしくみなのかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
