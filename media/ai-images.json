@@ -1885,5 +1885,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wiki%E8%AA%B2%E7%A8%8B%E7%B7%B4%E7%BF%92%E6%AA%94.jpg/500px-Wiki%E8%AA%B2%E7%A8%8B%E7%B7%B4%E7%BF%92%E6%AA%94.jpg",
   "og": "https://ai.seadice.win/img/ai-companion-changed-shutdown-grief-og.jpg",
   "local": true
+ },
+ "ai-generated-face-romance-scam-after": {
+  "file": "File:Computer mouse laptop and phone on a desk.jpg",
+  "src": "/img/ai-generated-face-romance-scam-after.webp",
+  "src640": "/img/ai-generated-face-romance-scam-after-sm.webp",
+  "w": 960,
+  "h": 540,
+  "alt": "木の机に置かれたスマートフォンとノートパソコン、マウス",
+  "artist": "Enoch Leung",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Computer_mouse_laptop_and_phone_on_a_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Computer_mouse_laptop_and_phone_on_a_desk.jpg/960px-Computer_mouse_laptop_and_phone_on_a_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Computer_mouse_laptop_and_phone_on_a_desk.jpg/500px-Computer_mouse_laptop_and_phone_on_a_desk.jpg",
+  "og": "https://ai.seadice.win/img/ai-generated-face-romance-scam-after-og.jpg",
+  "local": true
  }
 }
