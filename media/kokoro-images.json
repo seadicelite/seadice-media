@@ -3892,5 +3892,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hourglass_1.jpg/500px-Hourglass_1.jpg",
   "og": "https://mentalai.seadice.win/img/ai-faster-but-more-tired-og.jpg",
   "local": true
+ },
+ "phone-grayscale-screen-time": {
+  "file": "File:Computer mouse laptop and phone on a desk.jpg",
+  "src": "/img/phone-grayscale-screen-time.jpg",
+  "src640": "/img/phone-grayscale-screen-time-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "机の上のノートパソコンとマウスと携帯電話",
+  "artist": "Enoch Leung",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Computer_mouse_laptop_and_phone_on_a_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Computer_mouse_laptop_and_phone_on_a_desk.jpg/960px-Computer_mouse_laptop_and_phone_on_a_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Computer_mouse_laptop_and_phone_on_a_desk.jpg/500px-Computer_mouse_laptop_and_phone_on_a_desk.jpg",
+  "og": "https://mentalai.seadice.win/img/phone-grayscale-screen-time.jpg",
+  "unconverted": true,
+  "local": true
  }
 }

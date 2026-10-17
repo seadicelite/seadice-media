@@ -3911,5 +3911,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-phone-grayscale-screen-time-grayscale-week",
+    "category": "集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hagerty et al., \"A cross-over feasibility trial of smartphone grayscale mode in medical students\" (Frontiers in Digital Health, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fdgth.2026.1816095",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/phone-grayscale-screen-time/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "画面を白黒にすると、スマホを見なくなる？",
+        "body": "スマホの画面を白黒にすると、色の魅力が消えて使いすぎが減る、という話を聞くよね。実際に試した研究があるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1週間ずつ白黒とカラーで比べた",
+        "body": "米国の医学部1年生51人が、1週間は白黒、もう1週間はふつうの色で過ごし、スマホに出る画面時間を毎日記録した。順番は半分ずつ入れ替えた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1日平均で約28分短かった",
+        "body": "白黒の週の画面時間は1日平均約319分、カラーの週は約347分。白黒のほうが約28分短かった。ただ、眠りや勉強のはかどりには、はっきりした差は出なかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く続けたら？疲れは減る？",
+        "body": "期間は1週間ずつと短く、時間は本人が書き写した数字。パソコンで動画を見るようになった人もいた。長く続けた効果や、疲れが軽くなるかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
