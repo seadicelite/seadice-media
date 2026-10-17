@@ -4232,5 +4232,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "research-drawing-effect-memory-how-research-doodling",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Meade et al., \"Comparing the influence of doodling, drawing, and writing at encoding on memory\" (Canadian Journal of Experimental Psychology, 2019)",
+    "sourceUrl": "https://doi.org/10.1037/cep0000170",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/drawing-effect-memory-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "落書きしながらのほうが話を覚えられる？",
+        "body": "授業中にノートの端に落書きしていると、かえって話が頭に入る。そんな説を聞いたことがあるよね。実際はどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "落書き・絵・書き写しを比べた",
+        "body": "研究チームが3つの実験で、単語を聞きながら「関係ない落書き」「その単語の絵を描く」「書き写す」を比べた。物語の中に単語を入れて、授業に近い場面も試した。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "自由な落書きは一番思い出しにくい",
+        "body": "単語の絵を描いたときが一番よく思い出せて、自由な落書きをしながら聞いた単語は一番思い出しにくかった。図形を塗りつぶすだけの落書きは、書き写すのと同じくらいだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い授業でも同じ？",
+        "body": "覚えたのは短い単語のリストで、同じ研究チームの実験。1時間の授業や、退屈で眠くなりそうな場面で落書きがどう働くかは、これだけではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
