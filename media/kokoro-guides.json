@@ -37,7 +37,8 @@
     "low-energy-small-plans",
     "muscle-relaxation-tension",
     "bath-soak-fatigue-recover",
-    "nature-sounds-stress"
+    "nature-sounds-stress",
+    "self-soothing-touch-fatigue"
    ]
   },
   {
@@ -81,7 +82,8 @@
     "work-confidence-recover",
     "perfectionism-ai-standards",
     "tech-stress-age-older-workers",
-    "ai-job-worry-workplace-support"
+    "ai-job-worry-workplace-support",
+    "ai-job-worry-lasting-isolation"
    ]
   },
   {
@@ -128,7 +130,9 @@
     "stress-focus-recover",
     "background-music-focus",
     "sitting-breaks-focus",
-    "short-video-time-perception"
+    "short-video-time-perception",
+    "stress-thinking-values-writing",
+    "study-break-phone-memory"
    ]
   },
   {
@@ -167,7 +171,8 @@
     "perfectionism-ai-standards",
     "sns-happy-for-others",
     "sns-upward-comparison-why",
-    "sns-post-looking-good-tired"
+    "sns-post-looking-good-tired",
+    "comparison-lost-sense-of-self"
    ]
   },
   {
@@ -206,7 +211,9 @@
     "ai-easier-to-confide",
     "touch-hug-stress-relief",
     "lonely-only-me",
-    "friends-drifting-apart-prevent"
+    "friends-drifting-apart-prevent",
+    "loneliness-low-mood-reconnect",
+    "ai-confide-people-again"
    ]
   },
   {
@@ -246,7 +253,8 @@
     "ai-comfort-self-coping",
     "ai-human-like-uncanny",
     "symptom-search-ai-anxiety",
-    "ai-chat-boredom-prevent"
+    "ai-chat-boredom-prevent",
+    "ai-confide-people-again"
    ]
   }
  ]
