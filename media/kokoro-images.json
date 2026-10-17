@@ -3753,8 +3753,8 @@
  },
  "gratitude-journal-work-engagement": {
   "file": "File:Notebook with pen, August, 2019.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Notebook_with_pen%2C_August%2C_2019.jpg/960px-Notebook_with_pen%2C_August%2C_2019.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Notebook_with_pen%2C_August%2C_2019.jpg/500px-Notebook_with_pen%2C_August%2C_2019.jpg",
+  "src": "/img/gratitude-journal-work-engagement.jpg",
+  "src640": "/img/gratitude-journal-work-engagement-sm.jpg",
   "w": 960,
   "h": 720,
   "alt": "手書きの文字で埋まった開いたノートとペン",
@@ -3762,6 +3762,11 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Notebook_with_pen,_August,_2019.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Notebook_with_pen%2C_August%2C_2019.jpg/960px-Notebook_with_pen%2C_August%2C_2019.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Notebook_with_pen%2C_August%2C_2019.jpg/500px-Notebook_with_pen%2C_August%2C_2019.jpg",
+  "og": "https://mentalai.seadice.win/img/gratitude-journal-work-engagement.jpg",
+  "local": true
  }
 }
