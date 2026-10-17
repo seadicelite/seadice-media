@@ -4018,5 +4018,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/GX-257_-_Wooden_desk_drawer_reveals_organized_stationery_notebooks_cables_and_small_items_beneath_a_green-trimmed_tabletop.jpg/500px-GX-257_-_Wooden_desk_drawer_reveals_organized_stationery_notebooks_cables_and_small_items_beneath_a_green-trimmed_tabletop.jpg",
   "og": "https://mentalai.seadice.win/img/ai-use-role-ambiguity.jpg",
   "local": true
+ },
+ "life-change-loneliness-prevent": {
+  "file": "File:Quiet morning in Peebles High Street - geograph.org.uk - 6426243.jpg",
+  "src": "/img/life-change-loneliness-prevent.jpg",
+  "src640": "/img/life-change-loneliness-prevent-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "朝の静かな町の通り",
+  "artist": "Jim Barton",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Quiet_morning_in_Peebles_High_Street_-_geograph.org.uk_-_6426243.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Quiet_morning_in_Peebles_High_Street_-_geograph.org.uk_-_6426243.jpg/960px-Quiet_morning_in_Peebles_High_Street_-_geograph.org.uk_-_6426243.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Quiet_morning_in_Peebles_High_Street_-_geograph.org.uk_-_6426243.jpg/500px-Quiet_morning_in_Peebles_High_Street_-_geograph.org.uk_-_6426243.jpg",
+  "og": "https://mentalai.seadice.win/img/life-change-loneliness-prevent.jpg",
+  "local": true
  }
 }

@@ -4149,5 +4149,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-life-change-loneliness-prevent-network-churn",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Slack et al., \"From Familiar Faces to New Spaces: Perceived Social Network Change and Its Association With Loneliness During the Transition to University\" (Journal of Adolescence, 2026)",
+    "sourceUrl": "https://doi.org/10.1002/jad.70249",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/life-change-loneliness-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "環境が変わると孤独になる？",
+        "body": "進学や引っ越しで知り合いががらっと変わると、それだけで孤独になりそうな気がするよね。実際どうなのか、大学1年生で調べた研究があるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "入学前と後の人間関係",
+        "body": "英国の24の大学に通う1年生79人に、入学前と入学後に付き合いのあった人を一人ずつ挙げてもらったんだ。1人あたり平均17人だったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "58%入れ替わっても…",
+        "body": "平均58%のつながりが、なくなったか新しくできたものだった。でも入れ替わりの多さと孤独には関係がなかった。孤独が強かったのは、支えてもらえている感じが減った人だったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "社会人の転勤でも同じ？",
+        "body": "79人と少なく、入学前のことは思い出して答えたもの。支えが減ったから孤独になったのかは区別できないし、大人の転勤や引っ越しで同じかもまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
