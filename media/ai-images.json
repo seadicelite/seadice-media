@@ -2089,5 +2089,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg/500px-Colored_pen_and_smartphone_on_a_table_%28Unsplash_36nRvt6EP2I%29.jpg",
   "og": "https://ai.seadice.win/img/ai-chat-history-seen-by-family-og.jpg",
   "local": true
+ },
+ "ai-application-essay-before-use": {
+  "file": "File:Glasses and notebook on a wooden table in a bright room.jpg",
+  "src": "/img/ai-application-essay-before-use.webp",
+  "src640": "/img/ai-application-essay-before-use-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "木の机に置かれた眼鏡と閉じたノート",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Glasses_and_notebook_on_a_wooden_table_in_a_bright_room.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Glasses_and_notebook_on_a_wooden_table_in_a_bright_room.jpg/960px-Glasses_and_notebook_on_a_wooden_table_in_a_bright_room.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Glasses_and_notebook_on_a_wooden_table_in_a_bright_room.jpg/500px-Glasses_and_notebook_on_a_wooden_table_in_a_bright_room.jpg",
+  "og": "https://ai.seadice.win/img/ai-application-essay-before-use-og.jpg",
+  "local": true
  }
 }
