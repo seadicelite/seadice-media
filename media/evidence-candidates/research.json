@@ -4572,5 +4572,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-weekend-sleep-in-monday-social-jetlag-why-research-weekend-phase-delay",
+    "category": "睡眠",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Crowley & Carskadon, \"Modifications to weekend recovery sleep delay circadian phase in older adolescents\" (Chronobiology International, 2010)",
+    "sourceUrl": "https://doi.org/10.3109/07420528.2010.503293",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/weekend-sleep-in-monday-social-jetlag-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "週末に寝坊すると月曜がつらいのはなぜ？",
+        "body": "土日にたっぷり寝たのに、月曜の朝がいちばん眠い。実はこれ、体内時計が週末のあいだに後ろへずれてしまうからかもしれないんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "高校生の週末を再現した",
+        "body": "15〜17歳の高校生に、平日は7.5時間、週末は寝る時刻を1.5時間遅らせて9時間眠ってもらったよ。週末の前後で、眠りを促すホルモン（メラトニン）が出始める時刻を測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "2晩で約45分ずれた",
+        "body": "週末のあと、メラトニンの出始めは平均45分（別の実験では46分）遅れた。起きる時刻を早めて昼寝で補っても、週末の朝に1時間青い光を浴びても、ずれは同じように起きたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数はかなり少ない",
+        "body": "実験は12人と33人で、著者も別の研究室での確認が必要だと書いている。光を浴びた時間帯は遅すぎた可能性もあって、大人で同じかもまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
