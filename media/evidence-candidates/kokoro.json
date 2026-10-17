@@ -3537,5 +3537,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-gratitude-journal-work-engagement-12days",
+    "category": "仕事",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yamagishi N et al., \"Enhanced work engagement in Japanese employees following a 12-day online gratitude journal intervention\" (BMC Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.1186/s40359-025-03494-2",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/gratitude-journal-work-engagement/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "感謝日記で仕事がはかどる？",
+        "body": "「感謝日記をつけると前向きになれる」ってよく聞くよね。じゃあ、仕事に向かう気持ちまで変わるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "日本の正社員で12日間",
+        "body": "日本の研究チームが30〜49歳の正社員をくじで2組に分けたんだ。片方は毎日「ありがたかったこと」、もう片方は「今日あった出来事」を12日間スマホで書いたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "前向きさが少し上がった",
+        "body": "感謝を書いた組では、仕事への前向きさの点数が6点中2.81から3.14に上がったらしい。出来事を書いた組では変わらなかった。日記には「同僚」や「子ども」の話が多かったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どのくらい続く？",
+        "body": "差がはっきりしたのは12日間の直後だけで、1.5か月後ははっきりしなかったよ。分析できたのは67人で、謝礼ありの参加。やる気が落ちた人だけを集めた研究でもないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
