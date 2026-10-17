@@ -2962,5 +2962,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Office_Corridor_of_St_Andrew%E2%80%99s_Basilica.jpg/500px-Office_Corridor_of_St_Andrew%E2%80%99s_Basilica.jpg",
   "og": "https://research.seadice.win/img/sitting-break-walk-focus-research.jpg",
   "local": true
+ },
+ "progressive-muscle-relaxation-stress-steps-research": {
+  "file": "File:Bed head.jpg",
+  "src": "/img/progressive-muscle-relaxation-stress-steps-research.jpg",
+  "src640": "/img/progressive-muscle-relaxation-stress-steps-research-sm.jpg",
+  "w": 960,
+  "h": 598,
+  "alt": "ベッドの上の枕とシーツ",
+  "artist": "Soap",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Bed_head.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bed_head.jpg/960px-Bed_head.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bed_head.jpg/500px-Bed_head.jpg",
+  "og": "https://research.seadice.win/img/progressive-muscle-relaxation-stress-steps-research.jpg",
+  "local": true
  }
 }

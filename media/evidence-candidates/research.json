@@ -4504,5 +4504,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "research-progressive-muscle-relaxation-stress-steps-research-pmr-vs-breathing",
+    "category": "気分・ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Toussaint et al., \"Effectiveness of Progressive Muscle Relaxation, Deep Breathing, and Guided Imagery in Promoting Psychological and Physiological States of Relaxation\" (Evidence-Based Complementary and Alternative Medicine, 2021)",
+    "sourceUrl": "https://doi.org/10.1155/2021/5924040",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/progressive-muscle-relaxation-stress-steps-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "力を入れてから抜くとリラックスできる？",
+        "body": "「力を抜いて」と言われても、抜き方ってわからないよね。わざと力を入れてから抜く「漸進的筋弛緩法」が、深呼吸と比べてどうなのか確かめた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生60人で4つを比べた",
+        "body": "アメリカの大学生60人が、筋弛緩法・深呼吸・イメージ法・雑誌を読むだけ、のどれか1つを夜に20分やったよ。リラックス感のアンケートと、指先の汗で体の興奮を測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "3つとも雑誌よりリラックス",
+        "body": "3つの方法はどれも、雑誌を読んだ人よりリラックス感が高くなった。方法どうしの差はなし。体の興奮は筋弛緩法で20分下がり続けたけど、深呼吸は前半いったん上がってから下がったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回きりの実験の話",
+        "body": "1回20分やった直後だけを測った実験で、毎日続けるとどうなるかはわからない。心拍数には、はっきりした差が出なかったよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
