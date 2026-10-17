@@ -4047,5 +4047,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-ai-job-worry-ai-literacy-promotion-focus",
+    "category": "仕事とAIの不安",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Fan & Wang, \"Job Replacement Anxiety and Approach-Avoidance Job Crafting: The Roles of Regulatory Focus and AI Literacy\" (Behavioral Sciences, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/bs16091519",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-job-worry-ai-literacy/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "AIが怖いなら、近づかないのが一番？",
+        "body": "AIに仕事を取られそうで不安なとき、なるべく関わらずに今の仕事を守りたくなるよね。でも、AIのことを知っているかどうかで、不安の効き方が違うらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "会社員583人に3回聞いた",
+        "body": "中国の会社員583人に、2週間おきに3回、AIに仕事を奪われる不安、AIの知識、仕事への構え、仕事の工夫の仕方を答えてもらった調査だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "知っている人ほど、挑戦心が残りやすい",
+        "body": "不安が強い人ほど「伸びたい」気持ちが弱い傾向があった。でもAIの使い方や限界をわかっていると感じる人では、その結びつきが約0.27から約0.11まで弱かったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "学べば不安が減るとは言えない",
+        "body": "自分で答えた調査で、AIを学ぶ練習をした実験ではない。不安が少ない人ほどAIを学びやすいのかもしれないし、日本の働く人でも同じかはわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
