@@ -3367,5 +3367,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "kokoro-post-vacation-work-rumination-daily-recovery",
+    "category": "休息",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Thomsen A et al., \"Effectiveness of the mobile application Holidaily in reducing work-related rumination when returning to work after vacation: a randomized controlled trial\" (Frontiers in Digital Health, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fdgth.2026.1698339",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/post-vacation-work-rumination/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "休み明け、仕事の悩みが戻る",
+        "body": "連休中は忘れていた仕事のモヤモヤが、休み明けにすぐ戻ってくることってあるよね。これ、前もって防げるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "190人をくじで2組に",
+        "body": "ドイツの研究者たちが、仕事の考え込みが強めの働く人190人をくじで2組に分けたんだ。片方は休みの2週間前から、毎日1つ回復のための活動を選んで、あとで気分を振り返ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "休み明け2週間で差",
+        "body": "休み明け2週間の時点で、毎日続けた組は休み前より考え込みが22.2%少なかったらしい。もう片方の組は6.9%だった。ただ、気分の落ち込みや疲れには差がなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "途中で答えなくなった人も",
+        "body": "約8割が女性で、途中で回答しなくなった人も多かったんだ。スマホのプログラムで試したので、紙のメモで同じ効果が出るかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]

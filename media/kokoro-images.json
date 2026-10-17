@@ -3660,5 +3660,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8597-601.jpg/500px-D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8597-601.jpg",
   "og": "https://mentalai.seadice.win/img/ai-workplace-readiness-autonomy.jpg",
   "local": true
+ },
+ "post-vacation-work-rumination": {
+  "file": "File:Westbury Lake Pier (Houston).jpg",
+  "src": "/img/post-vacation-work-rumination.jpg",
+  "src640": "/img/post-vacation-work-rumination-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "桟橋の柵の向こうに広がる静かな湖",
+  "artist": "EvanCarroll",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Westbury_Lake_Pier_(Houston).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Westbury_Lake_Pier_%28Houston%29.jpg/960px-Westbury_Lake_Pier_%28Houston%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Westbury_Lake_Pier_%28Houston%29.jpg/960px-Westbury_Lake_Pier_%28Houston%29.jpg",
+  "og": "https://mentalai.seadice.win/img/post-vacation-work-rumination.jpg",
+  "local": true
  }
 }
