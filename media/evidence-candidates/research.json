@@ -4164,5 +4164,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "research-sns-comparison-felt-worse-recovery-research-person-specific",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Beyens et al., \"The effect of social media on well-being differs from adolescent to adolescent\" (Scientific Reports, 2020)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-020-67727-7",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/sns-comparison-felt-worse-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "SNSを眺めるだけだと、気分は下がる？",
+        "body": "投稿をただスクロールしていると、人と比べて落ち込む。そんな話はよく聞くよね。でも、本当にみんなそうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "14〜15歳の63人を1週間追跡",
+        "body": "オランダの研究チームが、1日6回、1週間にわたってSNSの使い方とその時の気分をスマホで尋ねた。回答は合計2,155回。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "マイナスの関係は約10%だけ",
+        "body": "眺めるだけの使い方と気分の関係を一人ずつ見ると、ほぼ関係なしが約44%、プラスの関係が約46%、マイナスの関係は約10%。同じ使い方でも、人によって大きく違ったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人や落ち込みやすい人では？",
+        "body": "対象は気分の良い若者が多い63人で、大人の結果ではない。関係を見た研究なので、SNSが気分を変えたのかどうかも、これだけではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
