@@ -1974,5 +1974,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg/500px-Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg",
   "og": "https://ai.seadice.win/img/called-real-photo-ai-fake-what-to-do.jpg",
   "local": true
+ },
+ "family-ai-fake-news-argument-repair": {
+  "file": "File:Teapot Teacup Laguna Beach (Unsplash).jpg",
+  "src": "/img/family-ai-fake-news-argument-repair.webp",
+  "src640": "/img/family-ai-fake-news-argument-repair-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "黒い鉄のティーポットと湯のみ",
+  "artist": "Cole Hutson colehutson",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Teapot_Teacup_Laguna_Beach_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Teapot_Teacup_Laguna_Beach_%28Unsplash%29.jpg/960px-Teapot_Teacup_Laguna_Beach_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Teapot_Teacup_Laguna_Beach_%28Unsplash%29.jpg/500px-Teapot_Teacup_Laguna_Beach_%28Unsplash%29.jpg",
+  "og": "https://ai.seadice.win/img/family-ai-fake-news-argument-repair-og.jpg",
+  "local": true
  }
 }
