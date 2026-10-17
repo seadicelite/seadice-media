@@ -2795,5 +2795,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Headphones_and_smartphone_%28Unsplash%29.jpg/500px-Headphones_and_smartphone_%28Unsplash%29.jpg",
   "og": "https://dokugaku.seadice.win/img/why-english-listening-known-words-hard.jpg",
   "local": true
+ },
+ "memorized-check-sheet-delayed-judgment": {
+  "file": "File:Credit-cards.jpg",
+  "src": "/img/memorized-check-sheet-delayed-judgment.jpg",
+  "src640": "/img/memorized-check-sheet-delayed-judgment-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "何枚も並べたカード",
+  "artist": "Lotus Head from Johannesburg, Gauteng, South Africa",
+  "license": "CC BY-SA 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Credit-cards.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Credit-cards.jpg/960px-Credit-cards.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Credit-cards.jpg/500px-Credit-cards.jpg",
+  "og": "https://dokugaku.seadice.win/img/memorized-check-sheet-delayed-judgment.jpg",
+  "local": true
  }
 }

@@ -4276,5 +4276,73 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-memorized-check-sheet-delayed-judgment-drop-after-one-recall",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Karpicke, \"Metacognitive control and strategy selection: Deciding to practice retrieval during learning\" (Journal of Experimental Psychology: General, 2009)",
+    "sourceUrl": "https://doi.org/10.1037/a0017341",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/memorized-check-sheet-delayed-judgment/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "1回言えたら、もう覚えた",
+        "body": "単語カードで1回答えられたら、そのカードは外して次へ。効率がよさそうなやり方だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "外すかどうかを本人に任せた",
+        "body": "外国語の単語を覚える4つの実験で、くり返しテストする・読み直す・外す、を自分で選べるようにした。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "すぐ外すと、後で忘れる",
+        "body": "くり返しテストすると長く残った。でも多くの人は1回思い出せた単語をすぐ外して、後の成績が下がったらしい。「一度言えたら覚えた」と思い込むのが原因と著者は考えている。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い独学でも同じ？",
+        "body": "実験室での短い学習の結果。何か月もかけて資格や語学を学ぶ場面で、同じくらいの差が出るかはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-memorized-check-sheet-delayed-judgment-delayed-jol",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rhodes & Tauber, \"The influence of delaying judgments of learning on metacognitive accuracy: A meta-analytic review\" (Psychological Bulletin, 2011)",
+    "sourceUrl": "https://doi.org/10.1037/a0021705",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/memorized-check-sheet-delayed-judgment/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「覚えた」はいつ判断する？",
+        "body": "覚えた直後は自信満々なのに、数日後には出てこない。「覚えたかどうか」は、いつ確かめるのがいいんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "112の効果量をまとめた",
+        "body": "「後で思い出せそうか」を、覚えた直後に判断するか、時間をおいて判断するかを比べた研究を、4,554人分まとめて分析した。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "時間をおくと見分けが正確に",
+        "body": "時間をおいて判断すると、どれを覚えていてどれを忘れているかの見分けがはっきり正確になった（g = 0.93）。覚える量そのものはわずかに増えただけ（g = 0.08）。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "単語の組が中心",
+        "body": "多くは実験室で単語の組などを覚えた研究。文章の理解や計算の問題でも同じくらい正確になるかは、別に確かめる必要がある。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
