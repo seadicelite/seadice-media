@@ -2669,5 +2669,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pencil_eraser.jpg/500px-Pencil_eraser.jpg",
   "og": "https://dokugaku.seadice.win/img/perfectionism-study-cannot-continue.jpg",
   "local": true
+ },
+ "why-studying-feels-effortful-mental-effort": {
+  "file": "File:Zemplín Museum in Michalovce - History permanent exhibition - West corner tower of the manor house - Study of count Alexander Sztáray, desk (desktop close-up).jpg",
+  "src": "/img/why-studying-feels-effortful-mental-effort.jpg",
+  "src640": "/img/why-studying-feels-effortful-mental-effort-sm.jpg",
+  "w": 960,
+  "h": 719,
+  "alt": "本が置かれた勉強机",
+  "artist": "ZemplinTemplar",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Zempl%C3%ADn_Museum_in_Michalovce_-_History_permanent_exhibition_-_West_corner_tower_of_the_manor_house_-_Study_of_count_Alexander_Szt%C3%A1ray,_desk_(desktop_close-up).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Zempl%C3%ADn_Museum_in_Michalovce_-_History_permanent_exhibition_-_West_corner_tower_of_the_manor_house_-_Study_of_count_Alexander_Szt%C3%A1ray%2C_desk_%28desktop_close-up%29.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Zempl%C3%ADn_Museum_in_Michalovce_-_History_permanent_exhibition_-_West_corner_tower_of_the_manor_house_-_Study_of_count_Alexander_Szt%C3%A1ray%2C_desk_%28desktop_close-up%29.jpg/500px-thumbnail.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-studying-feels-effortful-mental-effort.jpg",
+  "local": true
  }
 }

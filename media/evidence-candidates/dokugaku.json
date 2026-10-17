@@ -3970,5 +3970,73 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-why-studying-feels-effortful-mental-effort-thinking-feels-unpleasant",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "David, Vassena & Bijleveld, \"The unpleasantness of thinking: A meta-analytic review of the association between mental effort and negative affect\" (Psychological Bulletin, 2024)",
+    "sourceUrl": "https://doi.org/10.1037/bul0000443",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/why-studying-feels-effortful-mental-effort/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "頭を使うのって、なんで面倒？",
+        "body": "動画は何本でも見られるのに、問題集を開くのは気が重い。これって、やる気がないだけなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "170の研究をまとめて調べた",
+        "body": "125本の論文から170の研究（4,670人）を集め、「どれだけ頭を使ったか」と「どれだけイライラしたか」の関係をまとめた分析がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "頭を使うほど不快になりやすい",
+        "body": "頭を使う作業ほど不快感も強い、というはっきりした関係があった。国や作業の種類を変えてもほぼ同じで、アジアの研究では少しだけ弱かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "自分で選んだ勉強でも同じ？",
+        "body": "調べた作業は機器のテストなどで、自分で選んだ勉強ではない。質問票が「考えた量」より「難しさ」を測っていたのでは、という反論も出ている。"
+      }
+    ],
+    "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-why-studying-feels-effortful-mental-effort-rewarding-effort",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Clay et al., \"Rewarding cognitive effort increases the intrinsic value of mental labor\" (PNAS, 2022)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.2111785119",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-studying-feels-effortful-mental-effort/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "努力そのものをほめると？",
+        "body": "頭を使うのは面倒。でも「頑張ったこと」にごほうびが出る経験をすると、その後の選び方が変わるかを調べた実験がある。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "頑張るほどポイントがもらえる組",
+        "body": "記憶の課題で、頑張ったときほどポイントがもらえる組と、でたらめにポイントが出る組をくらべた。その後、ポイントなしで算数の難しさを自分で選んでもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "難しい問題を選びやすくなった",
+        "body": "努力にポイントが出た組の方が、ごほうびがないとわかっていても難しい問題を選んだ。5つのオンライン実験（1,457人）をまとめると差は小さめだった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "楽しくなったのかは不明",
+        "body": "小さな2つの実験でははっきりした差が出なかった。選んだ難しさは測ったけど、「楽しくなった」かは測っていない。長く続く勉強で同じかもわからない。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]

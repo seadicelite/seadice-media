@@ -186,6 +186,7 @@
 - [テストで頭が真っ白になるのはなぜか。試験不安と「不安を書き出す」研究](https://dokugaku.seadice.win/test-anxiety-expressive-writing/): 頭が真っ白になるのは不安が注意を奪うため。試験前に不安を書き出す方法は追試で再現されなかった
 - [SNSで他人の勉強量を見ると焦って手につかないのはなぜ？他人と比べる心理（社会的比較）の研究](https://dokugaku.seadice.win/why-comparing-study-progress-on-sns-hurts/): 人は上の人と比べやすく、差が大きすぎると頑張る気持ちより「あきらめ」が強まる。比べる相手を選び直す方法つき。
 - [勉強を後回しにしてしまうのはなぜ？先延ばしの研究でわかった3つの理由](https://dokugaku.seadice.win/why-procrastinate-studying/): 先延ばしは課題の嫌さ・成果までの遠さ・嫌な気分から逃げたい気持ちと結びつく。理由ごとに試せる対策つき。
+- [頭を使う勉強が面倒に感じるのはなぜ？「考えることは不快」という研究と、その反論](https://dokugaku.seadice.win/why-studying-feels-effortful-mental-effort/): 170研究の分析では、頭を使う作業ほど不快感が強かった。反論もあり、努力が報われると難しい課題を選ぶようになる実験もある。
 - [勉強する意味が見えず、やる気が出ない。学んだことと自分の生活のつながりを書く方法（研究とやり方）](https://dokugaku.seadice.win/write-why-study-matters-motivation/): 学んだことが自分にどう役立つかを自分で書くと、興味や続ける力を支えることがある。成績への効果は小さい。章ごとに10分書くのが目安。
 
 ### AIと独学
