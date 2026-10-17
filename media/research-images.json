@@ -2750,5 +2750,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg/500px-White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg",
   "og": "https://research.seadice.win/img/phone-checking-habit-why-research.jpg",
   "local": true
+ },
+ "vague-task-procrastination-why-research": {
+  "file": "File:New text notebook (Unsplash).jpg",
+  "src": "/img/vague-task-procrastination-why-research.jpg",
+  "src640": "/img/vague-task-procrastination-why-research-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "ノートとペン",
+  "artist": "Dana Marin amsterdamian",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:New_text_notebook_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/New_text_notebook_%28Unsplash%29.jpg/960px-New_text_notebook_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/New_text_notebook_%28Unsplash%29.jpg/500px-New_text_notebook_%28Unsplash%29.jpg",
+  "og": "https://research.seadice.win/img/vague-task-procrastination-why-research.jpg",
+  "local": true
  }
 }

@@ -3994,5 +3994,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "research-vague-task-procrastination-why-research-concrete-email",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "McCrea et al., \"Construal level and procrastination\" (Psychological Science, 2008)",
+    "sourceUrl": "https://doi.org/10.1111/j.1467-9280.2008.02240.x",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/vague-task-procrastination-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ぼんやりした用事ほど後回し？",
+        "body": "「企画を考える」みたいな、中身がぼんやりした用事って、なぜかずっと手がつかないよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3週間以内に返すメール課題",
+        "body": "McCreaら（2008）は、参加者にメールの質問票を3週間以内に返してもらった。質問票は、物事を抽象的に考える形と、具体的に考える形の2種類。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "具体的に考えた人ほど早く返した",
+        "body": "3つの実験すべてで、具体的に考える質問票を受け取った人のほうが早く返信したんだ。課題の魅力や難しさの感じ方とは関係なく差が出たらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "課題は1種類だけ",
+        "body": "調べたのは質問票を返すという1種類の課題だけ。仕事や勉強の先延ばしでも同じかどうか、大規模な追試は見当たらないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
