@@ -4368,5 +4368,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "research-bedtime-racing-thoughts-imagery-shuffle-how-research-imagery",
+    "category": "睡眠",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Harvey & Payne, \"The management of unwanted pre-sleep thoughts in insomnia: distraction with imagery versus general distraction\" (Behaviour Research and Therapy, 2002)",
+    "sourceUrl": "https://doi.org/10.1016/s0005-7967(01)00012-2",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/bedtime-racing-thoughts-imagery-shuffle-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "寝る前の考えごと、どう止める？",
+        "body": "布団に入ると明日の予定や今日の失敗がぐるぐる。「考えるな」と思うほど止まらないよね。別のことで頭を埋めたらどうなるか、試した実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "不眠の41人に3通りの指示",
+        "body": "不眠に悩む41人を「イメージで気をそらす」「ふつうに気をそらす」「指示なし」の3つに分けて、ある晩の寝つきと寝る前の考えごとを比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "場面を描いた人が早く眠れた",
+        "body": "興味の持てる場面を頭の中で描いたグループは、指示なしのグループより早く眠り、考えごとの回数やつらさも少なかった。描くことが頭の「空き容量」を使うから、と考えられているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1晩・41人の実験",
+        "body": "比べたのは1晩だけで、続けたときの効果はわからない。「ふつうに気をそらすと逆に悪化する」という予想も確かめられなかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
