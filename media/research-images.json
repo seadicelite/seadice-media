@@ -2844,5 +2844,23 @@
   "og": "https://research.seadice.win/img/sns-comparison-felt-worse-recovery-research.jpg",
   "local": true,
   "unconverted": true
+ },
+ "night-shift-sleep-recovery-research": {
+  "file": "File:Spring Morning Commute (205358687).jpeg",
+  "src": "/img/night-shift-sleep-recovery-research.jpg",
+  "src640": "/img/night-shift-sleep-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "朝日の差す駅のホーム",
+  "artist": "Arun Agrawal",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Spring_Morning_Commute_(205358687).jpeg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Spring_Morning_Commute_%28205358687%29.jpeg/960px-Spring_Morning_Commute_%28205358687%29.jpeg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Spring_Morning_Commute_%28205358687%29.jpeg/500px-Spring_Morning_Commute_%28205358687%29.jpeg",
+  "og": "https://research.seadice.win/img/night-shift-sleep-recovery-research.jpg",
+  "local": true
  }
 }

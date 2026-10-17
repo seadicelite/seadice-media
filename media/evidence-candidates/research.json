@@ -4198,5 +4198,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "research-night-shift-sleep-recovery-research-days-off-strategy",
+    "category": "睡眠",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Petrov et al., \"Sleep strategies of night-shift nurses on days off: Which ones are most adaptive?\" (Frontiers in Neurology, 2014)",
+    "sourceUrl": "https://doi.org/10.3389/fneur.2014.00277",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/night-shift-sleep-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "夜勤明け、寝ずに夜まで起きてる？",
+        "body": "夜勤が終わった日、昼に寝ると夜に眠れなくなりそうで、がんばって夜まで起きている人もいるよね。休みの日の戻し方で、違いはあるんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "夜勤の看護師213人に聞いた",
+        "body": "アメリカの大学病院で、夜勤の看護師213人に休みの日の眠り方と、夜勤にどれくらい慣れているかを尋ねた。眠り方は5つの型に分けられた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "徹夜で戻す型は慣れにくかった",
+        "body": "約24時間起き続けて戻す型と、休みも長い昼寝を続ける型は、夜勤への慣れが悪めだった。休みの初日に朝遅くまで寝てから戻す型は、睡眠の乱れが少なめだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "眠り方が原因とは限らない",
+        "body": "一度きりのアンケートなので、眠り方が慣れやすさを変えたのか、もともと慣れやすい人がその眠り方を選んだのかはわからない。対象も一つの病院の看護師だけだよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
