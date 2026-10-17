@@ -2898,5 +2898,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brown_and_beige%2C_Computer_desk%2C_Rostov-on-Don%2C_Russia.jpg/500px-Brown_and_beige%2C_Computer_desk%2C_Rostov-on-Don%2C_Russia.jpg",
   "og": "https://research.seadice.win/img/screen-eye-strain-focus-break-20-20-20-research-og.jpg",
   "local": true
+ },
+ "habit-bored-variety-restart-research": {
+  "file": "File:Colorful pile of dumbbells at the gym 2.jpg",
+  "src": "/img/habit-bored-variety-restart-research.webp",
+  "src640": "/img/habit-bored-variety-restart-research-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "ジムに並ぶ色とりどりのダンベル",
+  "artist": "Ser Amantio di Nicolao",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Colorful_pile_of_dumbbells_at_the_gym_2.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Colorful_pile_of_dumbbells_at_the_gym_2.jpg/960px-Colorful_pile_of_dumbbells_at_the_gym_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Colorful_pile_of_dumbbells_at_the_gym_2.jpg/500px-Colorful_pile_of_dumbbells_at_the_gym_2.jpg",
+  "og": "https://research.seadice.win/img/habit-bored-variety-restart-research-og.jpg",
+  "local": true
  }
 }
