@@ -2723,5 +2723,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Calendar_on_wall_-_DPLA_-_2570cc6bc2fed89dad596869ad4d2589.jpg/500px-Calendar_on_wall_-_DPLA_-_2570cc6bc2fed89dad596869ad4d2589.jpg",
   "og": "https://dokugaku.seadice.win/img/exam-far-away-never-started-reset.jpg",
   "local": true
+ },
+ "ai-made-mistakes-lost-trust-rebuild": {
+  "file": "File:Miniature Book, 'The English Lion', In Leather Case With Magnifying Glass (48708415056).jpg",
+  "src": "/img/ai-made-mistakes-lost-trust-rebuild.jpg",
+  "src640": "/img/ai-made-mistakes-lost-trust-rebuild-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "本の上に置いた虫めがね",
+  "artist": "Auckland Museum  Collections from Auckland, Aotearoa New Zealand",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Miniature_Book,_%27The_English_Lion%27,_In_Leather_Case_With_Magnifying_Glass_(48708415056).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708415056%29.jpg/960px-Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708415056%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708415056%29.jpg/500px-Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708415056%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/ai-made-mistakes-lost-trust-rebuild.jpg",
+  "local": true
  }
 }

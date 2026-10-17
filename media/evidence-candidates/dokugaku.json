@@ -4140,5 +4140,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-ai-made-mistakes-lost-trust-rebuild-algorithm-aversion",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Dietvorst et al., \"Algorithm aversion: People erroneously avoid algorithms after seeing them err\" (Journal of Experimental Psychology: General, 2015)",
+    "sourceUrl": "https://doi.org/10.1037/xge0000033",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/ai-made-mistakes-lost-trust-rebuild/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く話",
+        "title": "一度間違えたら、もう信用しない？",
+        "body": "AIが一度でも間違えると、他の答えまで全部あやしく見えてくる。人の先生なら一度の言い間違いでそこまで思わないのに、不思議だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "機械と人、どっちの予想に賭ける？",
+        "body": "5つの実験で、参加者は統計モデルか人の予想のどちらかに自分の報酬を結びつけるかを選んだ。その前に、モデルの予想が当たったり外れたりするのを見せた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "正確でも、間違いを見ると避ける",
+        "body": "モデルの予想を見た人は、モデルへの自信が下がり、より不正確な人の予想を選びやすくなった。モデルが人より正確だったのを見ても同じ。同じ間違いでも、機械への自信の方が早く下がったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "今のAIや勉強でも同じ？",
+        "body": "課題は先の数字を予想するもので、生成AIが広まる前の研究。逆に機械の助言を好むという研究もあり、条件で結果は変わる。勉強でAIを使う場面で確かめた研究ではない。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
