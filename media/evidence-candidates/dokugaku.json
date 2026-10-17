@@ -4684,5 +4684,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-why-ideas-come-at-off-peak-time-implicit-memory",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "May et al., \"Implicit memory, age, and time of day: Paradoxical priming effects\" (Psychological Science, 2005)",
+    "sourceUrl": "https://doi.org/10.1111/j.0956-7976.2005.00788.x",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-ideas-come-at-off-peak-time/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "眠い時間は記憶も全部ダメ？",
+        "body": "朝が苦手な人の朝、夜が苦手な人の夜。頭がぼんやりする時間は、記憶の働きも全部落ちるんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "朝と夕方で記憶を比べた",
+        "body": "夜型の大学生と朝型の高齢者を、朝8〜9時か夕方5〜6時に調べた。覚えた単語を意識して思い出す課題と、思い出そうとしなくても前に見た単語が答えに出てくるかを測った。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "冴えない時間のほうが出てきた",
+        "body": "意識して思い出すのは得意な時間帯のほうがよかった。でも、前に見た単語が自然に答えに出てくる割合は、不得意な時間帯のほうが高かった。2つ目の実験では、若い人で7.7%に対して18.7%だった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強に役立つかは別の話",
+        "body": "数十人規模の単語の実験で、勉強の成果は測っていない。446人を調べた別の研究では、得意な時間帯に頭が冴えるという一般的な効果も確認されなかった。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

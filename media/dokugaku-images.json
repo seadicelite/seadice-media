@@ -2957,5 +2957,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Anatomical_model_of_human_brain%2C_Wellcome_L0010009.jpg/500px-Anatomical_model_of_human_brain%2C_Wellcome_L0010009.jpg",
   "og": "https://dokugaku.seadice.win/img/why-believe-brain-myths-study-methods.jpg",
   "local": true
+ },
+ "why-ideas-come-at-off-peak-time": {
+  "file": "File:Slits in a desk lamp in Tuntorp.jpg",
+  "src": "/img/why-ideas-come-at-off-peak-time.jpg",
+  "src640": "/img/why-ideas-come-at-off-peak-time-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "夜の机を照らすデスクライト",
+  "artist": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Slits_in_a_desk_lamp_in_Tuntorp.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Slits_in_a_desk_lamp_in_Tuntorp.jpg/960px-Slits_in_a_desk_lamp_in_Tuntorp.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Slits_in_a_desk_lamp_in_Tuntorp.jpg/500px-Slits_in_a_desk_lamp_in_Tuntorp.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-ideas-come-at-off-peak-time.jpg",
+  "local": true
  }
 }
