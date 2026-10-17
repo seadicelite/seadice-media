@@ -3877,5 +3877,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-ai-faster-but-more-tired-misinfo-fatigue",
+    "category": "AIと心",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zhao & Liu, \"Risk perception and generative AI discontinuance intention: mediating effect of cognitive fatigue and moderating effect of AI dependence\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1879080",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-faster-but-more-tired/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIの「間違い探し」で疲れる？",
+        "body": "AIの答えって、もっともらしいけど本当に合ってるのか気になるよね。その見分けに疲れる人はいるのか、中国の研究チームが生成AIの利用者に聞いてみたらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "426人へのアンケート",
+        "body": "ネットで集めた生成AIの利用者426人に、AIのまちがった情報への心配、見分けることへの疲れ、AIへの不安、使うのをやめたい気持ちをたずねた。8割が18〜25歳だった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "心配が強いほど、疲れも強い",
+        "body": "まちがった情報を心配する人ほど、見分けることに疲れている傾向があった。その疲れが強い人ほどAIへの不安も強く、不安が強い人ほど、AIをやめたい気持ちも強かったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どっちが先かは不明",
+        "body": "一度きりのアンケートなので、疲れが不安を生むのか、不安だから疲れるのかはわからない。若い人が多く、働く人全体に当てはまるかもまだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]

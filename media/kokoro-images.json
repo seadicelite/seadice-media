@@ -3875,5 +3875,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fork_in_the_road.jpg/500px-Fork_in_the_road.jpg",
   "og": "https://mentalai.seadice.win/img/ai-choose-for-me-coin-flip.jpg",
   "local": true
+ },
+ "ai-faster-but-more-tired": {
+  "file": "File:Hourglass 1.jpg",
+  "src": "/img/ai-faster-but-more-tired.webp",
+  "src640": "/img/ai-faster-but-more-tired-sm.webp",
+  "w": 960,
+  "h": 723,
+  "alt": "木の机の上に置かれた砂時計",
+  "artist": "Suohros",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Hourglass_1.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hourglass_1.jpg/960px-Hourglass_1.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hourglass_1.jpg/500px-Hourglass_1.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-faster-but-more-tired-og.jpg",
+  "local": true
  }
 }
