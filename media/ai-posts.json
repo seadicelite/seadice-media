@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-mental-health-app-privacy-before-use",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-17",
+  "title": "AIの相談アプリに、心の悩みや体調を書いても大丈夫？心の健康アプリの研究では、規約にない送信が見つかった。書く前に3つを確かめる",
+  "summary": "心の健康アプリ36本の研究では33本が外部にデータを送り、送り先を規約に書かないものも。運営者・送り先・消し方を確かめます。"
+ },
+ {
   "slug": "ai-guess-views-from-face-photo",
   "category": "プライバシー・個人情報",
   "type": "guide",
