@@ -3809,5 +3809,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-comparison-awe-nature-video-bottom10",
+    "category": "SNSと比較",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sun et al., \"The Buffering Effect of Awe on Negative Emotions in Self-Threatening Situations\" (Behavioral Sciences, 2023)",
+    "sourceUrl": "https://doi.org/10.3390/bs13010044",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/comparison-awe-nature-video/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「下のほう」と言われた直後に、景色は効く？",
+        "body": "人と比べて「自分は下のほうだ」と感じると、しばらく気持ちが沈むよね。そんなとき、雄大な景色を見ると落ち込みはやわらぐのか、中国の研究チームが実験したらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "全員に「下位10%」と伝えた",
+        "body": "151人に難しい知能テストを解いてもらい、全員に「あなたは下位10%」と伝えた。そのあと、雪山や砂漠などの雄大な景色の動画か、男性が板に絵を描く動画を3分見てもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "落ち込みは景色の組で小さかった",
+        "body": "知能のことでの落ち込み（1〜7点）は、景色の組が2.02点、絵の組が3.46点。研究者は、「自分は小さな存在だ」と感じることが落ち込みをやわらげると考えている。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "作られた知らせと、直後の話",
+        "body": "「下位10%」は実験用の作り話で、測ったのは動画の直後の気持ちだけ。畏敬の念のほかの実験は、別の研究者の追試で再現されないものが多かった。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
