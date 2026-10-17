@@ -1,217 +1,216 @@
 {
-  "enabled": true,
-  "publish": "auto",
-  "slug": "research",
-  "siteType": "article",
-  "name": "悩みの科学",
-  "path": "sites/research/",
-  "url": "https://research.seadice.win/",
-  "extraNav": [
-    {
-      "label": "感覚過敏きろく（記録ツール）",
-      "path": "/kankaku-kabin/"
-    },
-    {
-      "label": "お金と心理（お金の心理学）",
-      "path": "https://seadice-ledger.web.app/"
-    }
-  ],
-  "reader": "その悩みを実際に抱えて検索してきた一般の人",
-  "tone": "やさしい・責めない・煽らない。断定より『研究ではこうだった』",
-  "categories": [
-    "睡眠",
-    "集中力",
+ "enabled": true,
+ "publish": "auto",
+ "slug": "research",
+ "siteType": "article",
+ "name": "悩みの科学",
+ "path": "sites/research/",
+ "url": "https://research.seadice.win/",
+ "extraNav": [
+  {
+   "label": "感覚過敏きろく（記録ツール）",
+   "path": "/kankaku-kabin/"
+  },
+  {
+   "label": "お金と心理（お金の心理学）",
+   "path": "https://seadice-ledger.web.app/"
+  }
+ ],
+ "reader": "その悩みを実際に抱えて検索してきた一般の人",
+ "tone": "やさしい・責めない・煽らない。断定より『研究ではこうだった』",
+ "categories": [
+  "睡眠",
+  "集中力",
+  "先延ばし",
+  "気分・ストレス",
+  "習慣",
+  "記憶・学習"
+ ],
+ "template": ".claude/commands/research-template.html",
+ "rulesFrom": ".claude/commands/research.md",
+ "relatedApps": "p/released-apps.json から悩みに近いものを選ぶ。無ければ記事のアプリ案のみ",
+ "postsPerRun": 1,
+ "topicQueue": [
+  "【睡眠×効く？】加重ブランケット（重い毛布）は寝つきや不安に効くのか。研究で確かめる",
+  "【習慣×やり方】ごほうびでなく「意味づけ」を与えると習慣は続きやすいのか。研究で調べた",
+  "【睡眠×やり方】寝る前の考えごとを止めるには？「認知シャッフル」の研究",
+  "【睡眠×なぜ】日曜の朝に寝坊すると月曜がつらいのはなぜ？「社会的時差ぼけ」の研究",
+  "【習慣×なぜ】やめたい習慣ほど疲れた時に出るのはなぜ？ストレスと習慣行動の研究",
+  "【集中力×なぜ】疲れていないのに集中が続かない日があるのはなぜ？ 睡眠不足の「マイクロスリープ」の研究"
+ ],
+ "concept": "脳科学×悩み解決。睡眠・集中・先延ばし・気分・習慣の悩みを、公開された研究から調べて今日から試せる形にする",
+ "tagline": "Curious about your life, scientifically.",
+ "lead": "睡眠、集中、先延ばし、気分、習慣、記憶。日常の悩みを公開された研究から調べ、今日から試せる形にします。",
+ "titleSuffix": "睡眠・集中・先延ばしを研究で調べるAIメディア",
+ "description": "睡眠・集中・先延ばし・気分・習慣・記憶。日常の悩みを公開された研究論文から調べ、今日から試せる形に整理するAIリサーチメディア。出典つきで毎日更新。",
+ "mastheadHtml": "<div class=\"hero\"><h1>%NAME%</h1><p class=\"tagline\">%TAGLINE%</p><p class=\"lead\">%LEAD%</p></div><h2 class=\"sec\">TOOLS</h2><div class=\"grid\" style=\"margin-bottom:40px\"><a class=\"card\" href=\"/kankaku-kabin/\" style=\"--c:var(--accent)\"><div class=\"cb\"><span class=\"tag\">記録ツール</span><p class=\"t\">感覚過敏きろく</p><p class=\"d\">つらかった音・光・においをタップで記録。苦手の傾向と効いた対処、職場や学校に伝えるメモがわかります。登録不要。</p></div></a></div>",
+ "apps": [
+  {
+   "id": "habit-quit",
+   "name": "科学で断つ 悪習慣ログ",
+   "appStoreId": "6798075879",
+   "icon": "/img/apps/habit-quit.webp",
+   "catch": "やめたい習慣を登録すると、行動科学の知見からやめ方のカードを作成。「耐えた」を記録して、続いた日数が目に見える",
+   "hubLead": "やめたい習慣と向き合うときに読みたい、if-thenプラン・記録の効果・スマホやSNSとの距離の取り方・つまずいた後の立て直し方の研究です。",
+   "theme": "悪い習慣・やめたい行動を断つ、続ける仕組み、スマホやSNSから離れる、失敗後の立て直し。睡眠・集中力・学習法そのものの記事には付けない",
+   "articles": [
+    "habit-break-days-research",
+    "if-then-planning-habit-research",
+    "habit-tracking-boosts-continuation",
+    "habit-formation-two-minute-rule",
+    "fresh-start-effect-habit-timing-research",
+    "social-media-break-wellbeing",
+    "bedtime-smartphone-sleep",
+    "phone-notifications-off-focus",
+    "phone-presence-attention-brain-drain",
+    "self-compassion-recovery-speed"
+   ]
+  },
+  {
+   "id": "active-recall",
+   "name": "おもいだしトレーニング",
+   "appStoreId": "6801937769",
+   "icon": "/img/apps/active-recall.webp",
+   "catch": "覚えたい範囲を入れるか教科書を撮ると、AIが一問一答を作る。何も見ずに答えを書いて、忘れかけた頃に復習日が回ってくる",
+   "hubLead": "読み返すより思い出す、復習の間隔をあける。暗記を効率よく進めるための記憶の研究です。",
+   "theme": "思い出す練習(テスト効果)・復習の間隔など、暗記と記憶の研究。習慣化・睡眠の記事には付けない",
+   "articles": [
+    "testing-effect-retrieval-practice",
+    "spacing-effect-review-timing"
+   ]
+  },
+  {
+   "id": "notify-mindfulness",
+   "name": "通知deマインドフルネス",
+   "appStoreId": "6799487711",
+   "icon": "/img/apps/notify-mindfulness.webp",
+   "catch": "1日数回、ランダムな時刻に「今、深呼吸してみましょう」と届く。開かなくても続く深呼吸の習慣に",
+   "hubLead": "深呼吸や短い瞑想で気持ちと集中を整える。数分でできる習慣の研究です。",
+   "theme": "深呼吸・短い瞑想・マインドフルネス。通知を減らす・スマホを遠ざける記事には付けない",
+   "articles": [
+    "slow-breathing-stress-research",
+    "short-meditation-focus-recovery"
+   ]
+  },
+  {
+   "id": "yame-lab",
+   "name": "やめラボ",
+   "appStoreId": "6796585558",
+   "icon": "/img/apps/yame-lab.webp",
+   "catch": "タバコ・お酒・ギャンブル・スマホなど、やめたいことの仕組みを知り、対処法を1つ選んで試す。衝動が来たら10分のタイマーで向き合い、記録で続け方を見直す",
+   "hubLead": "やめたいのにやめられないときに読みたい、衝動との向き合い方・1回のつまずきで投げ出さないこと・誘惑を遠ざける工夫・別の行動への置き換えの研究です。",
+   "theme": "タバコ・お酒・ギャンブル・スマホなどの、やめたい衝動との向き合い方、誘惑を遠ざける・置き換える工夫、つまずいた後に投げ出さないこと。良い習慣を身につける記事、睡眠・集中力の記事には付けない",
+   "articles": [
+    "urge-surfing-craving-wave-research",
+    "all-or-nothing-diet-slip-research",
+    "distance-temptation-self-control-research",
+    "habit-replacement-competing-response-research",
+    "why-habits-run-on-autopilot-research"
+   ]
+  },
+  {
+   "id": "hsp-relationship-check",
+   "name": "HSPナビ",
+   "appStoreId": "6791561869",
+   "icon": "/img/apps/hsp-relationship-check.webp",
+   "catch": "敏感さのセルフチェック、仕事・境界線・感覚過敏のライフハック、人間関係の悩みのAI相談。HSPの家族や同僚に向けた接し方ガイドもある",
+   "hubLead": "敏感で疲れやすい人が、自分の敏感さを知って付き合い方を考えるときに読みたい研究です。HSPは診断名ではなく、誰にでもある敏感さの程度の差だという研究から、音や光のつらさ、ひとりで回復する時間までを扱います。",
+   "theme": "HSP・敏感さ・繊細さ、音や光などの刺激で疲れる、人の気分に振り回される、ひとりで回復する時間。気分全般・ストレス解消法そのものの記事（感情の天気予報の担当）には付けない",
+   "articles": [
+    "hsp-highly-sensitive-person-research",
+    "sensory-overload-self-care-research",
+    "solitude-affective-restoration"
+   ]
+  }
+ ],
+ "toolbox": [
+  {
+   "name": "睡眠負債チェック",
+   "desc": "理想と平日の睡眠時間から、たまった睡眠負債と今夜の就寝時刻を計算",
+   "href": "https://seadice.win/tools/suimin-fusai/",
+   "cats": [
+    "睡眠"
+   ]
+  },
+  {
+   "name": "カフェインは何時まで？",
+   "desc": "寝る時刻と量から、最後にカフェインを飲んでよい時刻の目安を計算",
+   "href": "https://seadice.win/tools/caffeine-cutoff/",
+   "cats": [
+    "睡眠"
+   ]
+  },
+  {
+   "name": "こまめ休憩タイマー",
+   "desc": "10分作業→90秒休憩を自動でくり返す、集中を保つためのタイマー",
+   "href": "https://seadice.win/tools/kyukei-timer/",
+   "cats": [
+    "集中力"
+   ]
+  },
+  {
+   "name": "先に動く5分タイマー",
+   "desc": "やる気を待たずに5分だけ動き、前後の気分を記録する（行動活性化の研究がもと）",
+   "href": "https://seadice.win/tools/saki-ni-ugoku/",
+   "cats": [
     "先延ばし",
     "気分・ストレス",
-    "習慣",
+    "習慣"
+   ],
+   "all": true
+  },
+  {
+   "name": "復習タイミング計算",
+   "desc": "テスト日から、研究でわかった間隔をもとに復習日を計算",
+   "href": "https://seadice.win/tools/fukushu-timing/",
+   "cats": [
     "記憶・学習"
-  ],
-  "template": ".claude/commands/research-template.html",
-  "rulesFrom": ".claude/commands/research.md",
-  "relatedApps": "p/released-apps.json から悩みに近いものを選ぶ。無ければ記事のアプリ案のみ",
-  "postsPerRun": 1,
-  "topicQueue": [
-    "【睡眠×効く？】加重ブランケット（重い毛布）は寝つきや不安に効くのか。研究で確かめる",
-    "【習慣×やり方】ごほうびでなく「意味づけ」を与えると習慣は続きやすいのか。研究で調べた",
-    "【睡眠×やり方】寝る前の考えごとを止めるには？「認知シャッフル」の研究",
-    "【記憶・学習×つまずいたら】テストで思ったより点が取れなかった後の見直し方。間違いから学ぶ（エラー訂正）研究",
-    "【睡眠×なぜ】日曜の朝に寝坊すると月曜がつらいのはなぜ？「社会的時差ぼけ」の研究",
-    "【習慣×なぜ】やめたい習慣ほど疲れた時に出るのはなぜ？ストレスと習慣行動の研究",
-    "【集中力×なぜ】疲れていないのに集中が続かない日があるのはなぜ？ 睡眠不足の「マイクロスリープ」の研究"
-  ],
-  "concept": "脳科学×悩み解決。睡眠・集中・先延ばし・気分・習慣の悩みを、公開された研究から調べて今日から試せる形にする",
-  "tagline": "Curious about your life, scientifically.",
-  "lead": "睡眠、集中、先延ばし、気分、習慣、記憶。日常の悩みを公開された研究から調べ、今日から試せる形にします。",
-  "titleSuffix": "睡眠・集中・先延ばしを研究で調べるAIメディア",
-  "description": "睡眠・集中・先延ばし・気分・習慣・記憶。日常の悩みを公開された研究論文から調べ、今日から試せる形に整理するAIリサーチメディア。出典つきで毎日更新。",
-  "mastheadHtml": "<div class=\"hero\"><h1>%NAME%</h1><p class=\"tagline\">%TAGLINE%</p><p class=\"lead\">%LEAD%</p></div><h2 class=\"sec\">TOOLS</h2><div class=\"grid\" style=\"margin-bottom:40px\"><a class=\"card\" href=\"/kankaku-kabin/\" style=\"--c:var(--accent)\"><div class=\"cb\"><span class=\"tag\">記録ツール</span><p class=\"t\">感覚過敏きろく</p><p class=\"d\">つらかった音・光・においをタップで記録。苦手の傾向と効いた対処、職場や学校に伝えるメモがわかります。登録不要。</p></div></a></div>",
-  "apps": [
-    {
-      "id": "habit-quit",
-      "name": "科学で断つ 悪習慣ログ",
-      "appStoreId": "6798075879",
-      "icon": "/img/apps/habit-quit.webp",
-      "catch": "やめたい習慣を登録すると、行動科学の知見からやめ方のカードを作成。「耐えた」を記録して、続いた日数が目に見える",
-      "hubLead": "やめたい習慣と向き合うときに読みたい、if-thenプラン・記録の効果・スマホやSNSとの距離の取り方・つまずいた後の立て直し方の研究です。",
-      "theme": "悪い習慣・やめたい行動を断つ、続ける仕組み、スマホやSNSから離れる、失敗後の立て直し。睡眠・集中力・学習法そのものの記事には付けない",
-      "articles": [
-        "habit-break-days-research",
-        "if-then-planning-habit-research",
-        "habit-tracking-boosts-continuation",
-        "habit-formation-two-minute-rule",
-        "fresh-start-effect-habit-timing-research",
-        "social-media-break-wellbeing",
-        "bedtime-smartphone-sleep",
-        "phone-notifications-off-focus",
-        "phone-presence-attention-brain-drain",
-        "self-compassion-recovery-speed"
-      ]
-    },
-    {
-      "id": "active-recall",
-      "name": "おもいだしトレーニング",
-      "appStoreId": "6801937769",
-      "icon": "/img/apps/active-recall.webp",
-      "catch": "覚えたい範囲を入れるか教科書を撮ると、AIが一問一答を作る。何も見ずに答えを書いて、忘れかけた頃に復習日が回ってくる",
-      "hubLead": "読み返すより思い出す、復習の間隔をあける。暗記を効率よく進めるための記憶の研究です。",
-      "theme": "思い出す練習(テスト効果)・復習の間隔など、暗記と記憶の研究。習慣化・睡眠の記事には付けない",
-      "articles": [
-        "testing-effect-retrieval-practice",
-        "spacing-effect-review-timing"
-      ]
-    },
-    {
-      "id": "notify-mindfulness",
-      "name": "通知deマインドフルネス",
-      "appStoreId": "6799487711",
-      "icon": "/img/apps/notify-mindfulness.webp",
-      "catch": "1日数回、ランダムな時刻に「今、深呼吸してみましょう」と届く。開かなくても続く深呼吸の習慣に",
-      "hubLead": "深呼吸や短い瞑想で気持ちと集中を整える。数分でできる習慣の研究です。",
-      "theme": "深呼吸・短い瞑想・マインドフルネス。通知を減らす・スマホを遠ざける記事には付けない",
-      "articles": [
-        "slow-breathing-stress-research",
-        "short-meditation-focus-recovery"
-      ]
-    },
-    {
-      "id": "yame-lab",
-      "name": "やめラボ",
-      "appStoreId": "6796585558",
-      "icon": "/img/apps/yame-lab.webp",
-      "catch": "タバコ・お酒・ギャンブル・スマホなど、やめたいことの仕組みを知り、対処法を1つ選んで試す。衝動が来たら10分のタイマーで向き合い、記録で続け方を見直す",
-      "hubLead": "やめたいのにやめられないときに読みたい、衝動との向き合い方・1回のつまずきで投げ出さないこと・誘惑を遠ざける工夫・別の行動への置き換えの研究です。",
-      "theme": "タバコ・お酒・ギャンブル・スマホなどの、やめたい衝動との向き合い方、誘惑を遠ざける・置き換える工夫、つまずいた後に投げ出さないこと。良い習慣を身につける記事、睡眠・集中力の記事には付けない",
-      "articles": [
-        "urge-surfing-craving-wave-research",
-        "all-or-nothing-diet-slip-research",
-        "distance-temptation-self-control-research",
-        "habit-replacement-competing-response-research",
-        "why-habits-run-on-autopilot-research"
-      ]
-    },
-    {
-      "id": "hsp-relationship-check",
-      "name": "HSPナビ",
-      "appStoreId": "6791561869",
-      "icon": "/img/apps/hsp-relationship-check.webp",
-      "catch": "敏感さのセルフチェック、仕事・境界線・感覚過敏のライフハック、人間関係の悩みのAI相談。HSPの家族や同僚に向けた接し方ガイドもある",
-      "hubLead": "敏感で疲れやすい人が、自分の敏感さを知って付き合い方を考えるときに読みたい研究です。HSPは診断名ではなく、誰にでもある敏感さの程度の差だという研究から、音や光のつらさ、ひとりで回復する時間までを扱います。",
-      "theme": "HSP・敏感さ・繊細さ、音や光などの刺激で疲れる、人の気分に振り回される、ひとりで回復する時間。気分全般・ストレス解消法そのものの記事（感情の天気予報の担当）には付けない",
-      "articles": [
-        "hsp-highly-sensitive-person-research",
-        "sensory-overload-self-care-research",
-        "solitude-affective-restoration"
-      ]
-    }
-  ],
-  "toolbox": [
-    {
-      "name": "睡眠負債チェック",
-      "desc": "理想と平日の睡眠時間から、たまった睡眠負債と今夜の就寝時刻を計算",
-      "href": "https://seadice.win/tools/suimin-fusai/",
-      "cats": [
-        "睡眠"
-      ]
-    },
-    {
-      "name": "カフェインは何時まで？",
-      "desc": "寝る時刻と量から、最後にカフェインを飲んでよい時刻の目安を計算",
-      "href": "https://seadice.win/tools/caffeine-cutoff/",
-      "cats": [
-        "睡眠"
-      ]
-    },
-    {
-      "name": "こまめ休憩タイマー",
-      "desc": "10分作業→90秒休憩を自動でくり返す、集中を保つためのタイマー",
-      "href": "https://seadice.win/tools/kyukei-timer/",
-      "cats": [
-        "集中力"
-      ]
-    },
-    {
-      "name": "先に動く5分タイマー",
-      "desc": "やる気を待たずに5分だけ動き、前後の気分を記録する（行動活性化の研究がもと）",
-      "href": "https://seadice.win/tools/saki-ni-ugoku/",
-      "cats": [
-        "先延ばし",
-        "気分・ストレス",
-        "習慣"
-      ],
-      "all": true
-    },
-    {
-      "name": "復習タイミング計算",
-      "desc": "テスト日から、研究でわかった間隔をもとに復習日を計算",
-      "href": "https://seadice.win/tools/fukushu-timing/",
-      "cats": [
-        "記憶・学習"
-      ]
-    },
-    {
-      "id": "hiru10",
-      "name": "昼10",
-      "desc": "研究にもとづく長さで昼寝をセットし、午後の眠気を立て直す",
-      "appStoreId": "6814377156",
-      "cats": [
-        "睡眠"
-      ]
-    },
-    {
-      "id": "procrastination-type",
-      "name": "先延ばしタイプ診断",
-      "desc": "自分の先延ばしタイプを知り、タイプ別の対策を試す",
-      "appStoreId": "6792604492",
-      "cats": [
-        "先延ばし"
-      ]
-    },
-    {
-      "id": "mood-forecast",
-      "name": "感情の天気予報",
-      "desc": "毎日の気分を記録して、落ち込みやすい曜日や状況の傾向を見つける",
-      "appStoreId": "6797248387",
-      "cats": [
-        "気分・ストレス"
-      ]
-    },
-    {
-      "id": "active-recall",
-      "name": "思い出しトレーニング",
-      "desc": "覚えたい範囲から一問一答をつくり、間隔をあけた復習を自動で管理する",
-      "appStoreId": "6801937769",
-      "cats": [
-        "記憶・学習"
-      ]
-    },
-    {
-      "id": "dopamine-detox",
-      "name": "ドーパミンハック",
-      "desc": "通知やSNSに流されず、5分の小さな一歩を積み重ねて行動をつなげる",
-      "appStoreId": "6801960694",
-      "cats": [
-        "集中力"
-      ]
-    }
-  ]
+   ]
+  },
+  {
+   "id": "hiru10",
+   "name": "昼10",
+   "desc": "研究にもとづく長さで昼寝をセットし、午後の眠気を立て直す",
+   "appStoreId": "6814377156",
+   "cats": [
+    "睡眠"
+   ]
+  },
+  {
+   "id": "procrastination-type",
+   "name": "先延ばしタイプ診断",
+   "desc": "自分の先延ばしタイプを知り、タイプ別の対策を試す",
+   "appStoreId": "6792604492",
+   "cats": [
+    "先延ばし"
+   ]
+  },
+  {
+   "id": "mood-forecast",
+   "name": "感情の天気予報",
+   "desc": "毎日の気分を記録して、落ち込みやすい曜日や状況の傾向を見つける",
+   "appStoreId": "6797248387",
+   "cats": [
+    "気分・ストレス"
+   ]
+  },
+  {
+   "id": "active-recall",
+   "name": "思い出しトレーニング",
+   "desc": "覚えたい範囲から一問一答をつくり、間隔をあけた復習を自動で管理する",
+   "appStoreId": "6801937769",
+   "cats": [
+    "記憶・学習"
+   ]
+  },
+  {
+   "id": "dopamine-detox",
+   "name": "ドーパミンハック",
+   "desc": "通知やSNSに流されず、5分の小さな一歩を積み重ねて行動をつなげる",
+   "appStoreId": "6801960694",
+   "cats": [
+    "集中力"
+   ]
+  }
+ ]
 }

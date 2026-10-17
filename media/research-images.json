@@ -2880,5 +2880,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lines_family_sketchbook_-_Disc1_063_-_Norton.jpg/500px-Lines_family_sketchbook_-_Disc1_063_-_Norton.jpg",
   "og": "https://research.seadice.win/img/drawing-effect-memory-how-research.jpg",
   "local": true
+ },
+ "screen-eye-strain-focus-break-20-20-20-research": {
+  "file": "File:Brown and beige, Computer desk, Rostov-on-Don, Russia.jpg",
+  "src": "/img/screen-eye-strain-focus-break-20-20-20-research.jpg",
+  "src640": "/img/screen-eye-strain-focus-break-20-20-20-research-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "パソコンを置いた机",
+  "artist": "Vyacheslav Argenberg",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Brown_and_beige,_Computer_desk,_Rostov-on-Don,_Russia.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brown_and_beige%2C_Computer_desk%2C_Rostov-on-Don%2C_Russia.jpg/960px-Brown_and_beige%2C_Computer_desk%2C_Rostov-on-Don%2C_Russia.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brown_and_beige%2C_Computer_desk%2C_Rostov-on-Don%2C_Russia.jpg/500px-Brown_and_beige%2C_Computer_desk%2C_Rostov-on-Don%2C_Russia.jpg",
+  "og": "https://research.seadice.win/img/screen-eye-strain-focus-break-20-20-20-research-og.jpg",
+  "local": true
  }
 }

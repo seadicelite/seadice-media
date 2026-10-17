@@ -4266,5 +4266,73 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "research-screen-eye-strain-focus-break-20-20-20-research-breaks",
+    "category": "集中力",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Galinsky et al., \"Supplementary breaks and stretching exercises for data entry operators: a follow-up field study\" (American Journal of Industrial Medicine, 2007)",
+    "sourceUrl": "https://doi.org/10.1002/ajim.20472",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/screen-eye-strain-focus-break-20-20-20-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "休憩を増やすと仕事が遅れる？",
+        "body": "忙しいときほど、休憩を削って画面に向かい続けがちだよね。休めばその分、仕事が終わらなくなる気がする。本当にそうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5分の休憩を1日4回足してみた",
+        "body": "アメリカのデータ入力の仕事をする51人が、ふだんの休憩（15分を2回）だけの4週間と、5分の休憩を1日4回足した4週間を両方試したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "目の疲れが減って、仕事量は保たれた",
+        "body": "休憩を足した期間は、目の疲れや体の不快感が減ったよ。入力の速さが上がったから、作業時間が20分減っても仕事の量は落ちなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ストレッチの効果は不明",
+        "body": "休憩中のストレッチも試したけれど、実際にやったのは休憩の25〜39%だけ。だからストレッチの効果は確かめられなかった。対象は入力作業の51人だけだよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
+  },
+  {
+    "id": "research-screen-eye-strain-focus-break-20-20-20-research-bluelight",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Singh et al., \"Blue-light filtering spectacle lenses for visual performance, sleep, and macular health in adults\" (Cochrane Database of Systematic Reviews, 2023)",
+    "sourceUrl": "https://doi.org/10.1002/14651858.CD013244.pub2",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/screen-eye-strain-focus-break-20-20-20-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ブルーライトカット眼鏡で目が疲れにくい？",
+        "body": "パソコン作業の目の疲れには、ブルーライトカット眼鏡がいいってよく聞くよね。実際に試験で確かめた研究をまとめたレビューがあるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "17本の試験をまとめた",
+        "body": "コクランのレビューは、ブルーライトカット眼鏡とふつうの眼鏡を比べた17本のランダム化比較試験を集めたよ。1本あたりの参加者は5〜156人だった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "目の疲れは減らない可能性",
+        "body": "パソコン作業での目の疲れは、短い期間で見るかぎり、ブルーライトカット眼鏡で減らない可能性がある、という結論だったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い期間の効果は不明",
+        "body": "試験の多くは小さく、追跡は長くても5週間。根拠の確かさは「低い」とされているよ。長く使ったときのことは、これからの研究しだいなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
