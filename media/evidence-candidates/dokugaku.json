@@ -4378,5 +4378,107 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-why-thirst-dehydration-hurts-focus-thirst-water",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Edmonds, Crombie & Gardner, \"Subjective thirst moderates changes in speed of responding associated with water consumption\" (Frontiers in Human Neuroscience, 2013)",
+    "sourceUrl": "https://doi.org/10.3389/fnhum.2013.00363",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-thirst-dehydration-hurts-focus/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "水を飲むと頭が冴える？",
+        "body": "勉強中はこまめに水を飲むと集中できる、とよく言われるよね。じゃあ、飲めば飲むほど頭の回転は速くなるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大人34人で比べた",
+        "body": "前の晩から飲まず食わずの大人34人が、朝に水を飲んだ日と飲まなかった日で、反応の速さなどの課題を受けた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "速くなったのは渇いた人だけ",
+        "body": "水を飲むと反応は速くなった。でも差が出たのは、のどの渇きが強かった人だけ。渇いていない人は、飲んでも飲まなくても同じ速さだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数が少ない1回の実験",
+        "body": "34人の1回きりの実験。ルールを切りかえる課題では、逆に水を飲まなかった日の方が成績がよかった。勉強の成績への影響は調べていない。"
+      }
+    ],
+    "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-why-thirst-dehydration-hurts-focus-meta-attention",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wittbrodt & Millard-Stafford, \"Dehydration Impairs Cognitive Performance: A Meta-analysis\" (Medicine & Science in Sports & Exercise, 2018)",
+    "sourceUrl": "https://doi.org/10.1249/MSS.0000000000001682",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/why-thirst-dehydration-hurts-focus/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "水分不足で何が落ちる？",
+        "body": "体の水分が減ると頭がぼんやりする気がする。実際に落ちるのは、頭のどんな働きなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "33本の研究をまとめた",
+        "body": "水分不足と頭の働きを調べた33本の研究、合計413人の結果を、まとめて分析した研究がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "いちばん落ちたのは注意",
+        "body": "全体の落ち方は小さめだったけど、注意を保つ力がいちばん落ちた。体重の2%を超えて水分が減ると、落ち方が大きくなったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "机の勉強とは違う条件",
+        "body": "多くは運動や暑さで水分を減らした実験。座って勉強するときの軽い水分不足がどれだけ響くかは、まだよくわかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-self-talk-card-before-exam-nerves-everyday-self-talk",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Schertz et al., \"The frequency, form, and function of self-talk in everyday life\" (Scientific Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-22647-2",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/self-talk-card-before-exam-nerves/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "自分を名前で呼ぶと落ち着く？",
+        "body": "緊張したとき「私」じゃなく自分の名前で話しかけると落ち着く、という実験があるらしい。ふだんの暮らしでも同じなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "208人の2週間を記録",
+        "body": "主に大学生の208人が、2週間スマホの質問に答え続けた。合計12,966回分の記録から、自分への話しかけ方と気分を調べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効いたのは準備の場面だけ",
+        "body": "名前や「あなた」で話しかけるのは「私」より少なかった。気分の改善と結びついたのは、何をするか準備する場面だけ。自分を責める場面では差がなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因かどうかは不明",
+        "body": "実験ではなく記録の研究なので、声かけが気分を変えたのか、気分がいいときに声かけしたのかは区別できない。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
