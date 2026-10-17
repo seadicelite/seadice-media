@@ -1,5 +1,19 @@
 [
  {
+  "date": "2026-10-18",
+  "slug": "ai-grading-accuracy-students",
+  "before": "Li B, Xiao Q, Mao C (2026).",
+  "after": "Li B, Qunhan X, Mao C (2026).",
+  "why": "出典の著者名の表記を、掲載誌の登録情報に合わせたため"
+ },
+ {
+  "date": "2026-10-18",
+  "slug": "ai-artists-output-up-novelty-down",
+  "before": "同じ抽象的な図形を見て思い浮かんだ絵を、絵を学んだ人27人と学んでいない人26人が描き",
+  "after": "同じ12個の抽象的な図形を見て思い浮かんだ絵を、絵を学んだ人27人と学んでいない人26人が描き",
+  "why": "実験で見せた図形は1つではなく12個だったため"
+ },
+ {
   "date": "2026-10-17",
   "slug": "ai-meeting-transcript-recorded-check",
   "before": "同じ文を読んだ部分でも差は同じくらい大きく",
