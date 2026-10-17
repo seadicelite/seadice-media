@@ -2106,5 +2106,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Glasses_and_notebook_on_a_wooden_table_in_a_bright_room.jpg/500px-Glasses_and_notebook_on_a_wooden_table_in_a_bright_room.jpg",
   "og": "https://ai.seadice.win/img/ai-application-essay-before-use-og.jpg",
   "local": true
+ },
+ "ai-voice-data-provide-before": {
+  "file": "File:Table microphone (7002400529).jpg",
+  "src": "/img/ai-voice-data-provide-before.jpg",
+  "src640": "/img/ai-voice-data-provide-before-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上のマイク",
+  "artist": "Daniel Novta from Austria",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Table_microphone_(7002400529).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Table_microphone_%287002400529%29.jpg/960px-Table_microphone_%287002400529%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Table_microphone_%287002400529%29.jpg/500px-Table_microphone_%287002400529%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-voice-data-provide-before.jpg",
+  "local": true
  }
 }

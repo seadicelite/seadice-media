@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-voice-data-provide-before",
+  "category": "創作・著作権",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-18",
+  "title": "自分の声や歌をAIの素材に提供する前に、何を確かめる？研究では、約4分の録音から作ったAIの声を、聞き手は本物の声と区別できなかった",
+  "summary": "数分の録音から作った声のクローンは本物と聞き分けにくい。提供前に用途・範囲・期間・取り下げ方・渡る相手の5点を確かめて記録する。"
+ },
+ {
   "slug": "ai-application-essay-before-use",
   "category": "子ども・学校",
   "type": "guide",
