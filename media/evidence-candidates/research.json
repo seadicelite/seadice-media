@@ -4062,5 +4062,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "research-willpower-limited-belief-procrastination-research-ego-depletion-multisite",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vohs et al., \"A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect\" (Psychological Science, 2021)",
+    "sourceUrl": "https://doi.org/10.1177/0956797621989733",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/willpower-limited-belief-procrastination-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "意志力は使うと減る？",
+        "body": "がまんすると意志力が減って、次のがまんが効かなくなる。「だから疲れた日は先延ばししても仕方ない」って、よく聞くよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "36の研究室で一斉に確かめた",
+        "body": "Vohsら（2021）は、36の研究室・3,531人で、事前に決めた方法で「がまんの後は粘れなくなるか」を調べたんだ。説を支持してきた研究者も参加しているよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果はほぼゼロ",
+        "body": "効果の大きさは d = 0.06 で、統計的にははっきりしなかった。データは「効果あり」より「効果なし」に4倍よく合っていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "疲れを強く感じる人では？",
+        "body": "追加の分析では、疲れを強く感じていた人ほど効果が少し大きい傾向があった。実験室の課題の話で、日常の疲れとどう関係するかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]

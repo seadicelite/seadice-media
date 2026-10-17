@@ -2774,5 +2774,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Colouring_pencils.jpg/500px-Colouring_pencils.jpg",
   "og": "https://research.seadice.win/img/learning-styles-visual-auditory-memory-research-og.jpg",
   "local": true
+ },
+ "willpower-limited-belief-procrastination-research": {
+  "file": "File:Slits in a desk lamp in Tuntorp.jpg",
+  "src": "/img/willpower-limited-belief-procrastination-research.webp",
+  "src640": "/img/willpower-limited-belief-procrastination-research-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "夜の机とランプ",
+  "artist": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Slits_in_a_desk_lamp_in_Tuntorp.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Slits_in_a_desk_lamp_in_Tuntorp.jpg/960px-Slits_in_a_desk_lamp_in_Tuntorp.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Slits_in_a_desk_lamp_in_Tuntorp.jpg/500px-Slits_in_a_desk_lamp_in_Tuntorp.jpg",
+  "og": "https://research.seadice.win/img/willpower-limited-belief-procrastination-research-og.jpg",
+  "local": true
  }
 }
