@@ -4718,5 +4718,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-study-anxiety-self-talk-rephrase-table-own-name",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kross et al., \"Self-talk as a regulatory mechanism: How you do it matters\" (Journal of Personality and Social Psychology, 2014)",
+    "sourceUrl": "https://doi.org/10.1037/a0035173",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/study-anxiety-self-talk-rephrase-table/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "不安なときは自分に言い聞かせる",
+        "body": "「私なら大丈夫」と心の中で自分を励ます人は多いよね。でも、その言い聞かせ方で結果が変わるとしたら？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "「私」か「自分の名前」か",
+        "body": "7つの研究、計585人で、初対面の印象づくりやスピーチの前に、「私は」ではなく自分の名前や「あなた」で自分に問いかけてもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "名前で話しかけた人のほうが落ち着いていた",
+        "body": "名前で問いかけた人のほうが、第三者から見たスピーチなどの出来がよく、苦しさも小さかった。終わった後に失敗をくよくよ考えることも少なかった。人前が苦手な人でも効果は変わらなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回きりの実験室の話",
+        "body": "調べたのは実験室での1回の場面。試験勉強のように何週間も続く不安に、同じ効果が続くかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
