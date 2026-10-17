@@ -2714,5 +2714,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Laptop_on_desk_book_stacks_%28Unsplash%29.jpg/500px-Laptop_on_desk_book_stacks_%28Unsplash%29.jpg",
   "og": "https://research.seadice.win/img/online-meeting-fatigue-why-research.jpg",
   "local": true
+ },
+ "boring-task-cant-focus-boredom-why-research": {
+  "file": "File:NORTHWEST PAPER COMPANY AT CLOQUET, MINNESOTA, ON THE ST LOUIS RIVER. DISCHARGE FROM THE SMOKE STACK RISES 800 TO... - NARA - 551567.jpg",
+  "src": "/img/boring-task-cant-focus-boredom-why-research.jpg",
+  "src640": "/img/boring-task-cant-focus-boredom-why-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "川沿いの製紙工場と煙突",
+  "artist": "Donald Emmerich",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:NORTHWEST_PAPER_COMPANY_AT_CLOQUET,_MINNESOTA,_ON_THE_ST_LOUIS_RIVER._DISCHARGE_FROM_THE_SMOKE_STACK_RISES_800_TO..._-_NARA_-_551567.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/NORTHWEST_PAPER_COMPANY_AT_CLOQUET%2C_MINNESOTA%2C_ON_THE_ST_LOUIS_RIVER._DISCHARGE_FROM_THE_SMOKE_STACK_RISES_800_TO..._-_NARA_-_551567.jpg/960px-NORTHWEST_PAPER_COMPANY_AT_CLOQUET%2C_MINNESOTA%2C_ON_THE_ST_LOUIS_RIVER._DISCHARGE_FROM_THE_SMOKE_STACK_RISES_800_TO..._-_NARA_-_551567.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/NORTHWEST_PAPER_COMPANY_AT_CLOQUET%2C_MINNESOTA%2C_ON_THE_ST_LOUIS_RIVER._DISCHARGE_FROM_THE_SMOKE_STACK_RISES_800_TO..._-_NARA_-_551567.jpg/500px-NORTHWEST_PAPER_COMPANY_AT_CLOQUET%2C_MINNESOTA%2C_ON_THE_ST_LOUIS_RIVER._DISCHARGE_FROM_THE_SMOKE_STACK_RISES_800_TO..._-_NARA_-_551567.jpg",
+  "og": "https://research.seadice.win/img/boring-task-cant-focus-boredom-why-research.jpg",
+  "local": true
  }
 }

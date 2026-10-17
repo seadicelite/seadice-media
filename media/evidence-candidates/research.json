@@ -3926,5 +3926,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "research-boring-task-cant-focus-boredom-why-research-self-shock",
+    "category": "集中力",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wilson et al., \"Just think: The challenges of the disengaged mind\" (Science, 2014)",
+    "sourceUrl": "https://doi.org/10.1126/science.1250830",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/boring-task-cant-focus-boredom-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "何もしない15分、耐えられる？",
+        "body": "スマホも本もなしで、ただ考えごとをして過ごす。それだけの時間って、実はけっこうつらいらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ひとりで6〜15分すわるだけ",
+        "body": "Wilsonら（2014）は、持ち物を預けた人に、6〜15分ひとりで考えごとをしてもらったんだ。15分の実験では、自分で押せる電気ショックのボタンも置いておいた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "男性の67%がボタンを押した",
+        "body": "事前に「お金を払ってでも避けたい」と答えていたのに、男性の67%（18人中12人）、女性の25%（24人中6人）が、自分に1回以上ショックを与えていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数は少なく、反論もある",
+        "body": "ショックの実験は40人ほど。別の研究者は、考えごとの楽しさの平均は真ん中くらいで「いやで仕方ない」とまでは言えないと指摘しているよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
