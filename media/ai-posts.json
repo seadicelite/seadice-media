@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-meeting-transcript-recorded-check",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-17",
+  "title": "AIの議事録や文字起こしに、自分の発言が記録されていた。研究では文字起こしの誤りや抜けが残りやすく、直後は「誰が見るか・正しいか・いつ消すか」を確かめる",
+  "summary": "音声認識の文書には100語あたり7.4語の誤り、AIのまとめは抜けが中心でした。共有範囲・訂正・保存期間を確かめます。"
+ },
+ {
   "slug": "ai-mental-health-app-privacy-before-use",
   "category": "プライバシー・個人情報",
   "type": "guide",

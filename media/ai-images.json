@@ -2021,5 +2021,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg/500px-USVI_IMG_5179_-_Wooden_desk_with_a_notebook_and_pencils_sits_beside_a_white_chair_next_to_a_bed_with_a_chevron-patterned_rug.jpg",
   "og": "https://ai.seadice.win/img/ai-mental-health-app-privacy-before-use-og.jpg",
   "local": true
+ },
+ "ai-meeting-transcript-recorded-check": {
+  "file": "File:Conference room table (Unsplash).jpg",
+  "src": "/img/ai-meeting-transcript-recorded-check.webp",
+  "src640": "/img/ai-meeting-transcript-recorded-check-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "会議室の机と椅子",
+  "artist": "Breather breather",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Conference_room_table_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Conference_room_table_%28Unsplash%29.jpg/960px-Conference_room_table_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Conference_room_table_%28Unsplash%29.jpg/500px-Conference_room_table_%28Unsplash%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-meeting-transcript-recorded-check-og.jpg",
+  "local": true
  }
 }
