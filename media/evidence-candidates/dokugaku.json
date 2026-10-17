@@ -4174,5 +4174,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-why-do-quick-tasks-before-studying-precrastination",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rosenbaum et al., \"Pre-crastination: Hastening subgoal completion at the expense of extra physical effort\" (Psychological Science, 2014)",
+    "sourceUrl": "https://doi.org/10.1177/0956797614532657",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-do-quick-tasks-before-studying/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "勉強の前に、つい用事を片付ける",
+        "body": "勉強しようと思ったのに、先にメールを返して、机を片付けて…。すぐ終わることから手をつけたくなるのはなぜだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2つのバケツ、どっちを運ぶ？",
+        "body": "大学生に、通路の左右にある2つのバケツのどちらかを選んで、通路の終わりまで運んでもらった。楽な方を選ぶよう伝えてあった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "遠回りでも、手前を選んだ",
+        "body": "終わりに近いバケツを選べば楽なのに、多くの人は手前のバケツを取って、長い距離を運んだ。研究者は、頭の中のやることを早く減らしたいからだと考え「プレクラスティネーション」と名づけた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強でも同じことが起きる？",
+        "body": "実験はバケツを運ぶ短い課題。理由の説明は研究者の解釈で、勉強の順番や成績を調べたものではないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
