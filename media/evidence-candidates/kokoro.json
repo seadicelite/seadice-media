@@ -3605,5 +3605,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-ai-thinking-effort-value-recover-effort-reward",
+    "category": "集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Clay G et al., \"Rewarding cognitive effort increases the intrinsic value of mental labor\" (PNAS, 2022)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.2111785119",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-thinking-effort-value-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "頭を使うのは誰でもいや？",
+        "body": "「人は頭を使う努力をできるだけ避ける」ってよく言われるよね。だからAIに任せたくなるのも自然、という話。でも、努力の好き嫌いって変わらないのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "努力した分だけ報酬",
+        "body": "ドイツとオーストリアの研究チームが、1,578人で実験したんだ。12分の練習で、片方の組は頭を使った分だけ報酬が増え、もう片方は報酬の額がでたらめだったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "難しい問題を選ぶように",
+        "body": "そのあと報酬なしの計算問題で、努力が報われた組のほうが少し難しい問題を選んでいたらしい。5つのオンライン実験をまとめた差は0.22で、小さめだけど確かな差だったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く続く？日常でも？",
+        "body": "練習は12分だけで、差がどのくらい続くかは調べられていないよ。オンラインの実験は結果が出た回と出なかった回があったし、AIに頼ってきた人を調べた研究でもないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]

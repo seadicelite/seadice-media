@@ -3786,5 +3786,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fork_in_the_forest_road_-_geograph.org.uk_-_7687024.jpg/500px-Fork_in_the_forest_road_-_geograph.org.uk_-_7687024.jpg",
   "og": "https://mentalai.seadice.win/img/comparison-falling-behind-new-goal.jpg",
   "local": true
+ },
+ "ai-thinking-effort-value-recover": {
+  "file": "File:Pencil on a table.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pencil_on_a_table.jpg/960px-Pencil_on_a_table.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pencil_on_a_table.jpg/500px-Pencil_on_a_table.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "木の机の上に置かれた1本の鉛筆",
+  "artist": "AaronNinetyTwo",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pencil_on_a_table.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
