@@ -2781,7 +2781,7 @@
   "src640": "/img/willpower-limited-belief-procrastination-research-sm.webp",
   "w": 960,
   "h": 640,
-  "alt": "夜の机とランプ",
+  "alt": "デスクランプのすき間からもれる光",
   "artist": "W.carter",
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -2790,6 +2790,23 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Slits_in_a_desk_lamp_in_Tuntorp.jpg/960px-Slits_in_a_desk_lamp_in_Tuntorp.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Slits_in_a_desk_lamp_in_Tuntorp.jpg/500px-Slits_in_a_desk_lamp_in_Tuntorp.jpg",
   "og": "https://research.seadice.win/img/willpower-limited-belief-procrastination-research-og.jpg",
+  "local": true
+ },
+ "gamification-points-badges-habit-research": {
+  "file": "File:Pedometer K+R.jpg",
+  "src": "/img/gamification-points-badges-habit-research.webp",
+  "src640": "/img/gamification-points-badges-habit-research-sm.webp",
+  "w": 960,
+  "h": 953,
+  "alt": "歩数計",
+  "artist": "Sarang",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Pedometer_K%2BR.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Pedometer_K%2BR.jpg/960px-Pedometer_K%2BR.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Pedometer_K%2BR.jpg/500px-Pedometer_K%2BR.jpg",
+  "og": "https://research.seadice.win/img/gamification-points-badges-habit-research-og.jpg",
   "local": true
  }
 }
