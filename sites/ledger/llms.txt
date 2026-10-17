@@ -148,6 +148,7 @@
 ## ツールとアプリ（無料・登録不要）
 
 - 一覧: https://ledger.seadice.win/tools/
+- [リボ払いの返済シミュレーション](https://ledger.seadice.win/ribo-keisan/): Webツール。残高と毎月の返済額から、返し終わるまでの期間と手数料の合計を計算。返済額を増やした場合と並べて比べる
 - [判断のくせを体験する](https://kodokeizai.seadice.win/taiken/): Webツール。損失回避・言い方で変わる選択など10問。答えてから研究の結果と比べられる
 - [サブスク見直しチェック](https://seadice.win/tools/sabusuku-minaoshi/): Webツール。「いまゼロから契約しても入る？」で見直し候補と年間で浮く金額を計算
 - [困りごとから制度を探す](https://shakaihosho.seadice.win/sagasu/): Webツール。生活費・介護・病気など困りごとを選ぶと、確かめたい制度と窓口がわかる

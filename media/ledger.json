@@ -179,6 +179,23 @@
   "toolboxTop": false,
   "toolbox": [
     {
+      "name": "リボ払いの返済シミュレーション",
+      "desc": "残高と毎月の返済額から、返し終わるまでの期間と手数料の合計を計算。返済額を増やした場合と並べて比べる",
+      "href": "/ribo-keisan/",
+      "glyph": "table",
+      "slugs": [
+        "revolving-payment-anchoring-bias",
+        "revolving-balance-savings-calculator",
+        "revolving-debt-recovery-steps",
+        "debt-repayment-small-victories",
+        "debt-interest-underestimation-exponential-growth-bias",
+        "debt-secrecy-self-check",
+        "installment-bnpl-spending",
+        "cashless-spending",
+        "cashless-overspending-self-check"
+      ]
+    },
+    {
       "name": "判断のくせを体験する",
       "desc": "損失回避・言い方で変わる選択など10問。答えてから研究の結果と比べられる",
       "href": "https://kodokeizai.seadice.win/taiken/",

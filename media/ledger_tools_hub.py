@@ -23,26 +23,27 @@ def main():
             if hit(p["slug"]):
                 groups[gid].append(p)
                 break
-    n = 1 + sum(len(v) for v in groups.values())
+    n = 2 + sum(len(v) for v in groups.values())
 
     def card(href, title, desc, badge, cls="tool"):
         return (f'<a class="{cls}" href="{href}"><span class="tb">{badge}</span>'
                 f'<b>{html.escape(title)}</b><span class="td">{html.escape(desc)}</span><span class="go" aria-hidden="true">使う →</span></a>')
 
-    secs = ['<h2 id="wait">記録して使う</h2><p>欲しい物をすぐ買わずに入れておき、時間をおいて「まだ欲しい？」と決める道具です。記録はこの端末のブラウザ内だけに残ります。</p>'
-            + card("/wait-list/", "衝動買いを防ぐ待つリスト", "24時間・3日・1週間たってから決める。買う前チェックと、守れたお金の記録つき。", "道具", "tool hero")]
+    secs = ['<h2 id="wait">入力して使う</h2><p>自分の数字を入れると、その場で結果が出る道具です。入力した内容は送信しません（待つリストの記録はこの端末のブラウザ内だけに残ります）。</p>'
+            + card("/wait-list/", "衝動買いを防ぐ待つリスト", "24時間・3日・1週間たってから決める。買う前チェックと、守れたお金の記録つき。", "道具", "tool hero")
+            + card("/ribo-keisan/", "リボ払いの返済シミュレーション", "残高と毎月の返済額から、返し終わるまでの期間と手数料の合計を計算。返済額を増やした場合と並べて比べる。", "道具", "tool hero")]
     for gid, h, d, _ in GROUPS:
         if groups[gid]:
             secs.append(f'<h2 id="{gid}">{h}</h2><p>{d}</p><div class="tools">'
                         + "".join(card(f"/{p['slug']}/", p["title"], p.get("summary", ""), {"calc": "計算表", "before": "チェック表", "self": "セルフチェック"}[gid]) for p in groups[gid]) + "</div>")
-    toc = "".join(f'<a href="#{i}">{h}<small>{k}</small></a>' for i, h, k in [("wait", "記録して使う", 1)] + [(g[0], g[1], len(groups[g[0]])) for g in GROUPS if groups[g[0]]])
+    toc = "".join(f'<a href="#{i}">{h}<small>{k}</small></a>' for i, h, k in [("wait", "入力して使う", 2)] + [(g[0], g[1], len(groups[g[0]])) for g in GROUPS if groups[g[0]]])
 
     tpl = open(os.path.join(SITE, "glossary", "index.html")).read()
     styles = tpl[tpl.index("<style>"):tpl.index("</head>")]
     styles = styles.replace("footer{", ".toc a small{margin-left:6px;font-size:12px;color:var(--muted)}.tools{display:grid;gap:12px;grid-template-columns:1fr;margin:14px 0}@media(min-width:620px){.tools{grid-template-columns:1fr 1fr}}.tool{position:relative;display:flex;flex-direction:column;background:var(--card);border:1px solid var(--border);padding:16px 18px 40px;text-decoration:none;color:var(--text);transition:border-color .15s}.tool:hover,.tool:focus-visible{border-color:var(--text)}.tool b{display:block;font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:17px;line-height:1.5;margin:8px 0 6px}.tool .td{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;font-size:13px;color:var(--muted);line-height:1.7}.tool .go{position:absolute;right:16px;bottom:12px;font-size:13px;font-weight:700;color:var(--accent)}.tool.hero{margin:14px 0;background:#1F1A16;border-color:#1F1A16;color:#FBF3E9}.tool.hero b{font-size:21px;color:#FBF3E9}.tool.hero .td{color:#D8C6B0}.tool.hero .go{color:#E9C46A}.tool.hero .tb{background:#E9C46A;color:#1F1A16}.tool.hero:hover{background:#2E2721}.tb{align-self:flex-start;display:inline-block;font-size:12px;color:#FBF3E9;background:var(--accent2);padding:1px 8px}footer{", 1)
     foot = tpl[tpl.index("<footer>"):]
     title = f"お金のツール{n}本｜計算表・買う前チェック・くせのチェック | お金と心理"
-    desc = f"衝動買いを防ぐ待つリスト、1年でいくらの計算表、買う前のチェック表、研究の質問で振り返るセルフチェックなど、お金と心理の無料ツール{n}本。登録不要。"
+    desc = f"衝動買いを防ぐ待つリスト、リボ払いの返済シミュレーション、1年でいくらの計算表、買う前のチェック表、研究の質問で振り返るセルフチェックなど、お金と心理の無料ツール{n}本。登録不要。"
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "CollectionPage", "name": "お金のツール", "url": URL + "/tools/", "inLanguage": "ja", "description": desc,
          "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}},
