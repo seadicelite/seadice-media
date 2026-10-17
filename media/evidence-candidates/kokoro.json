@@ -4115,5 +4115,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-ai-use-role-ambiguity-genai-role",
+    "category": "仕事とAIの不安",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zhang et al., \"Dual pathways of generative AI use: role ambiguity and self-efficacy in employee-AI collaboration\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1793095",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-use-role-ambiguity/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIを使うと役割がぼやける？",
+        "body": "AIが下書きも提案も出してくれると、仕事は進むのに「自分は何をする人だっけ」ってなること、あるよね。それを調べた研究があるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "会社員541人に聞いた",
+        "body": "中国・天津のハイテク企業5社で、生成AIを使ったことがある会社員541人に、AIの使い方と、自分の役割の感じ方を聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ぼやけると自信、両方あった",
+        "body": "生成AIをよく使う人ほど「何を期待されているかわからない」感覚が強かった。でも同時に、仕事の幅を広げられる自信も同じくらい高かったよ。AIの得意・不得意をわかっている人では、ぼやける感覚との結びつきが約4分の1と弱かった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIが原因とは限らない",
+        "body": "1回きりのアンケートだから、AIを使ったせいでぼやけたのか、もともとの職場の事情なのかは区別できないんだ。日本の職場で同じかもまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

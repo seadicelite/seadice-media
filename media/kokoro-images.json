@@ -4000,5 +4000,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/My_room%2C_window_with_a_light_curtain.jpg/500px-My_room%2C_window_with_a_light_curtain.jpg",
   "og": "https://mentalai.seadice.win/img/mind-wandering-why.jpg",
   "local": true
+ },
+ "ai-use-role-ambiguity": {
+  "file": "File:GX-257 - Wooden desk drawer reveals organized stationery notebooks cables and small items beneath a green-trimmed tabletop.jpg",
+  "src": "/img/ai-use-role-ambiguity.jpg",
+  "src640": "/img/ai-use-role-ambiguity-sm.jpg",
+  "w": 960,
+  "h": 635,
+  "alt": "木の机の引き出しに並んだ文房具とノート",
+  "artist": "Palm Beach Police Department",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:GX-257_-_Wooden_desk_drawer_reveals_organized_stationery_notebooks_cables_and_small_items_beneath_a_green-trimmed_tabletop.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/GX-257_-_Wooden_desk_drawer_reveals_organized_stationery_notebooks_cables_and_small_items_beneath_a_green-trimmed_tabletop.jpg/960px-GX-257_-_Wooden_desk_drawer_reveals_organized_stationery_notebooks_cables_and_small_items_beneath_a_green-trimmed_tabletop.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/GX-257_-_Wooden_desk_drawer_reveals_organized_stationery_notebooks_cables_and_small_items_beneath_a_green-trimmed_tabletop.jpg/500px-GX-257_-_Wooden_desk_drawer_reveals_organized_stationery_notebooks_cables_and_small_items_beneath_a_green-trimmed_tabletop.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-use-role-ambiguity.jpg",
+  "local": true
  }
 }
