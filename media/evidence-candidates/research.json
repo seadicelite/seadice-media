@@ -4606,5 +4606,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-emotional-contagion-others-mood-why-research-empathic-stress",
+    "category": "気分・ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Engert et al., \"Cortisol increase in empathic stress is modulated by emotional closeness and observation modality\" (Psychoneuroendocrinology, 2014)",
+    "sourceUrl": "https://doi.org/10.1016/j.psyneuen.2014.04.005",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/emotional-contagion-others-mood-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "人のストレスって、うつるの？",
+        "body": "家族がピリピリしていると、こっちまで疲れてくる。気のせいかと思いきや、体の反応まで伝わることがあるらしいんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "見ているだけの人を測った",
+        "body": "1人が面接と暗算というストレスのかかる課題を受け、もう1人はマジックミラー越しかライブ映像で見ているだけ。見ていた211人の唾液のストレスホルモン（コルチゾール）を測ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "4人に1人で上がった",
+        "body": "見ていただけの人の26%で、ストレスホルモンがはっきり上がった。相手がパートナーだと40%、知らない人だと10%。映像越しでも24%で反応が出たんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "気分まで同じかは別の話",
+        "body": "測ったのはホルモンで、見ていた人の気分の変化まで同じように確かめたわけではないよ。実験室での短い場面の話で、ふだんの家庭や職場で同じ割合になるかもわからない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
