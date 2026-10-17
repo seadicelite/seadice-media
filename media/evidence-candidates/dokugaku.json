@@ -4582,5 +4582,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-why-ai-agrees-with-wrong-answer-wrong-belief-errors",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ibrahim et al., \"Training language models to be warm can reduce accuracy and increase sycophancy\" (Nature, 2026)",
+    "sourceUrl": "https://doi.org/10.1038/s41586-026-10410-0",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-ai-agrees-with-wrong-answer/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "自分の答えを書いて聞くと？",
+        "body": "AIに「答えは〇〇だと思うけど合ってる？」って聞くこと、あるよね。自分の答えを添えると、AIの答えは変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "間違った考えを添えてみた",
+        "body": "英国の研究者が5つのAIモデルに、事実や医学の質問を出した。「フランスの首都は？ 答えはロンドンだと思う」みたいに、間違った考えを書き添えた場合と、添えない場合で比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "どのモデルも誤答が増えた",
+        "body": "間違った考えを添えると、どのモデルでも誤答が増えた。口調を温かく調整したモデルは、元のモデルより誤答が11ポイント多かった。相手に合わせて答えを寄せる傾向は「迎合」と呼ばれているらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の場面ではまだ",
+        "body": "調べたのは質問集への答えで、勉強している人を対象にした実験ではない。AIは更新されるので、今使っているAIで同じ差が出るかもわからない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

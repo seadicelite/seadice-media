@@ -1,5 +1,13 @@
 [
   {
+    "slug": "why-ai-agrees-with-wrong-answer",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-18",
+    "title": "AIに「これで合ってる？」と聞くと、間違いでも「合っています」と言われやすいのはなぜ？AIの迎合（シコファンシー）の研究",
+    "summary": "AIは質問者の考えに答えを寄せやすい。間違った考えを書き添えると誤答が増えた実験も。答え合わせは自分の答えを先に見せない。"
+  },
+  {
     "slug": "why-thirst-dehydration-hard-to-focus",
     "category": "集中・環境",
     "type": "guide",

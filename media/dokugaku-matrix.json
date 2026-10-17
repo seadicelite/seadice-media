@@ -404,7 +404,8 @@
     ],
     "why": [
      "why-ai-explanations-feel-understood",
-     "why-ai-confidently-wrong-hallucination"
+     "why-ai-confidently-wrong-hallucination",
+     "why-ai-agrees-with-wrong-answer"
     ],
     "use": [
      "ai-study-checklist",
