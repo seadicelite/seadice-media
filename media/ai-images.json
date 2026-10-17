@@ -1956,5 +1956,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TCM_216080_portable_radio_receiver-1236.jpg/500px-TCM_216080_portable_radio_receiver-1236.jpg",
   "og": "https://ai.seadice.win/img/disaster-ai-fake-images-prepare.jpg",
   "local": true
+ },
+ "called-real-photo-ai-fake-what-to-do": {
+  "file": "File:Tables and director's chairs on les Planches de Deauville 005.jpg",
+  "src": "/img/called-real-photo-ai-fake-what-to-do.jpg",
+  "src640": "/img/called-real-photo-ai-fake-what-to-do-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "海辺の遊歩道に並ぶテーブルといす",
+  "artist": "Guillaume Paumier",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg/960px-Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg/500px-Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg",
+  "og": "https://ai.seadice.win/img/called-real-photo-ai-fake-what-to-do.jpg",
+  "local": true
  }
 }
