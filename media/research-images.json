@@ -3104,5 +3104,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DIY_knitted_weighted_blanket.jpg/500px-DIY_knitted_weighted_blanket.jpg",
   "og": "https://research.seadice.win/img/weighted-blanket-sleep-anxiety-research.jpg",
   "local": true
+ },
+ "low-confidence-task-procrastination-why-research": {
+  "file": "File:Concrete stairs on a steep hiking trail in Shivapuri Nagarjun National Park.jpg",
+  "src": "/img/low-confidence-task-procrastination-why-research.jpg",
+  "src640": "/img/low-confidence-task-procrastination-why-research-sm.jpg",
+  "w": 960,
+  "h": 721,
+  "alt": "急な石の階段",
+  "artist": "Krishna k. sahh",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Concrete_stairs_on_a_steep_hiking_trail_in_Shivapuri_Nagarjun_National_Park.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Concrete_stairs_on_a_steep_hiking_trail_in_Shivapuri_Nagarjun_National_Park.jpg/960px-Concrete_stairs_on_a_steep_hiking_trail_in_Shivapuri_Nagarjun_National_Park.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Concrete_stairs_on_a_steep_hiking_trail_in_Shivapuri_Nagarjun_National_Park.jpg/500px-Concrete_stairs_on_a_steep_hiking_trail_in_Shivapuri_Nagarjun_National_Park.jpg",
+  "og": "https://research.seadice.win/img/low-confidence-task-procrastination-why-research.jpg",
+  "local": true
  }
 }

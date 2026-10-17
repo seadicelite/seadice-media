@@ -4742,5 +4742,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-low-confidence-task-procrastination-why-research-faculty-tracking",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hall NC et al., \"Self-efficacy, procrastination, and burnout in post-secondary faculty: An international longitudinal analysis\" (PLoS ONE, 2019)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0226716",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/low-confidence-task-procrastination-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自信がつけば先延ばしは減る？",
+        "body": "「できる気がしない」作業ほど後回しにしちゃうよね。だったら自信さえつけば先延ばしも減るはず、と考えたくなる。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学の先生3,071人を3回追跡",
+        "body": "研究者が69か国の大学教員3,071人に、5〜6か月おきに3回、自信・先延ばし・心の疲れを答えてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "関係はあるけど、向きは見えなかった",
+        "body": "自信が高い人ほど先延ばしは少なかった。でも「自信が先に変わって先延ばしが減る」という向きは見つからなかった。代わりに、心の疲れが先に来て、あとで自信が下がり先延ばしが増えていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "疲れの影響も小さい",
+        "body": "全部が自己申告で、疲れからの影響も小さいものだった。大学教員以外にも当てはまるのか、実験で確かめた研究ではないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
