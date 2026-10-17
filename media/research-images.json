@@ -2808,5 +2808,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Pedometer_K%2BR.jpg/500px-Pedometer_K%2BR.jpg",
   "og": "https://research.seadice.win/img/gamification-points-badges-habit-research-og.jpg",
   "local": true
+ },
+ "procrastination-shame-avoidance-guilt-recovery-research": {
+  "file": "File:Desk, writing (51360572479).jpg",
+  "src": "/img/procrastination-shame-avoidance-guilt-recovery-research.jpg",
+  "src640": "/img/procrastination-shame-avoidance-guilt-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木製の書き物箱（ライティングボックス）",
+  "artist": "Auckland Museum  Collections from Auckland, Aotearoa New Zealand",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk,_writing_(51360572479).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Desk%2C_writing_%2851360572479%29.jpg/1280px-Desk%2C_writing_%2851360572479%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Desk%2C_writing_%2851360572479%29.jpg/500px-Desk%2C_writing_%2851360572479%29.jpg",
+  "og": "https://research.seadice.win/img/procrastination-shame-avoidance-guilt-recovery-research.jpg",
+  "local": true,
+  "unconverted": true
  }
 }
