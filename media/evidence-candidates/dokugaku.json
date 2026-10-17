@@ -3868,5 +3868,39 @@
       }
     ],
     "addedAt": "2026-10-16"
+  },
+  {
+    "id": "dokugaku-concrete-examples-how-to-study-compare-two-cases",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Loewenstein, Thompson & Gentner, \"Analogical encoding facilitates knowledge transfer in negotiation\" (Psychonomic Bulletin & Review, 1999)",
+    "sourceUrl": "https://doi.org/10.3758/BF03212967",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/concrete-examples-how-to-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く話",
+        "title": "例を読んでも使えない",
+        "body": "教科書の事例を読んで「なるほど」と思ったのに、いざ本番になると使えない。学んだことが別の場面に移らないのは、よくあることなんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2つの事例を比べる",
+        "body": "交渉のやり方を2つの事例から学ぶ実験で、2つを並べて共通点を考える人と、同じ2つを別々に読む人をくらべた研究があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "およそ3倍使えた",
+        "body": "2つを比べた経営学の大学院生は、別々に読んだ人より、学んだ方法をその後の交渉に取り入れる割合がおよそ3倍だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "試験勉強でも同じ？",
+        "body": "調べたのは交渉の技術を学ぶ短い実験。資格試験の用語を何か月も独学する場面で、同じくらいの差が出るかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
