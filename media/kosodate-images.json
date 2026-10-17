@@ -1191,8 +1191,8 @@
  },
  "bullying-long-term-effects-parent-support": {
   "file": "File:Lorain High School hallway.jpg",
-  "src": "/img/bullying-long-term-effects-parent-support.jpg",
-  "src640": "/img/bullying-long-term-effects-parent-support-sm.jpg",
+  "src": "/img/bullying-long-term-effects-parent-support.webp",
+  "src640": "/img/bullying-long-term-effects-parent-support-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "人のいない学校の廊下",
@@ -1201,16 +1201,15 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Lorain_High_School_hallway.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lorain_High_School_hallway.jpg/960px-Lorain_High_School_hallway.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lorain_High_School_hallway.jpg/500px-Lorain_High_School_hallway.jpg",
-  "og": "https://kosodate.seadice.win/img/bullying-long-term-effects-parent-support.jpg",
+  "og": "https://kosodate.seadice.win/img/bullying-long-term-effects-parent-support-og.jpg",
   "local": true
  },
  "sibling-fight-parent-mediation": {
   "file": "File:Toy Blocks (50995087111).jpg",
-  "src": "/img/sibling-fight-parent-mediation.jpg",
-  "src640": "/img/sibling-fight-parent-mediation-sm.jpg",
+  "src": "/img/sibling-fight-parent-mediation.webp",
+  "src640": "/img/sibling-fight-parent-mediation-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "色とりどりの積み木",
@@ -1219,16 +1218,15 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Toy_Blocks_(50995087111).jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Toy_Blocks_%2850995087111%29.jpg/960px-Toy_Blocks_%2850995087111%29.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Toy_Blocks_%2850995087111%29.jpg/500px-Toy_Blocks_%2850995087111%29.jpg",
-  "og": "https://kosodate.seadice.win/img/sibling-fight-parent-mediation.jpg",
+  "og": "https://kosodate.seadice.win/img/sibling-fight-parent-mediation-og.jpg",
   "local": true
  },
  "test-cramming-sleep-memory": {
   "file": "File:Old alarm clock on the bookshelf - 50233824038.jpg",
-  "src": "/img/test-cramming-sleep-memory.jpg",
-  "src640": "/img/test-cramming-sleep-memory-sm.jpg",
+  "src": "/img/test-cramming-sleep-memory.webp",
+  "src640": "/img/test-cramming-sleep-memory-sm.webp",
   "w": 960,
   "h": 641,
   "alt": "本棚に置かれた古い目覚まし時計",
@@ -1239,8 +1237,24 @@
   "source_label": "Wikimedia Commons",
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg/960px-Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg/500px-Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg",
-  "og": "https://kosodate.seadice.win/img/test-cramming-sleep-memory.jpg",
-  "local": true,
-  "unconverted": true
+  "og": "https://kosodate.seadice.win/img/test-cramming-sleep-memory-og.jpg",
+  "local": true
+ },
+ "kanji-memorize-retrieval-practice": {
+  "file": "File:Jinego Elementary School school store.jpg",
+  "src": "/img/kanji-memorize-retrieval-practice.webp",
+  "src640": "/img/kanji-memorize-retrieval-practice-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "小学校の購買に並ぶノートと鉛筆",
+  "artist": "Douglas P. Perkins",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Jinego_Elementary_School_school_store.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Jinego_Elementary_School_school_store.jpg/960px-Jinego_Elementary_School_school_store.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Jinego_Elementary_School_school_store.jpg/500px-Jinego_Elementary_School_school_store.jpg",
+  "og": "https://kosodate.seadice.win/img/kanji-memorize-retrieval-practice-og.jpg",
+  "local": true
  }
 }

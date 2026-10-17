@@ -49,6 +49,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [テンポの速い動画を見ると、子どもの集中力は落ちる？](https://kosodate.seadice.win/fast-paced-video-fantasy-executive-function/): 動画の再生テンポより、現実にありえない内容(ファンタジー)を見た直後の方が、実行機能のテスト成績が下がる関連がありました。
 - [宿題にAIを使わせると考える力は落ちる？研究でわかった使い方の分かれ道](https://kosodate.seadice.win/homework-ai-thinking-skills/): 答えを写す使い方は成績が下がり、ヒントとして使うと下がりにくい。分かれ道は使い方です。
 - [宿題中に動画やスマホを見る「ながら勉強」、学力への影響は？研究で確認](https://kosodate.seadice.win/homework-media-multitasking/): 宿題をしながら動画やスマホを見る「ながら勉強」。学力への影響を研究データから確認し、家庭でできる工夫を紹介します。
+- [小学生が漢字や言葉を覚えられない。見ながら写すより「隠して思い出す」が残りやすい？](https://kosodate.seadice.win/kanji-memorize-retrieval-practice/): 小学生の実験では、見直すより見本を隠して思い出す練習の方が1週間後も多く覚えていた。漢字での比較は少なく、ヒントと答え合わせが鍵。
 - [SNSの時間が増えると、読み書きや記憶力はどう変わる？数年間追跡した調査でわかったこと](https://kosodate.seadice.win/social-media-cognitive-performance-decline/): 9〜10歳の子を2年間追跡した調査で、SNSを使う時間が増えた子ほどテストの点数が低い関連がありました。
 - [中学生が勉強中に音楽を聴いている。歌詞のある曲ほど読む勉強のじゃまになりやすい](https://kosodate.seadice.win/study-music-lyrics-concentration/): 65本の研究をまとめた分析では、音楽は読解をわずかに下げ、歌詞のある曲ほど影響が大きめ。子どもと大人で差はなかった。
 - [発達が気になる子に、タブレットは学びの助けになる？](https://kosodate.seadice.win/tablet-developmental-disability-learning-support/): 言葉の理解などに良い効果が報告される一方、エビデンスはまだ限定的と研究でわかりました。
