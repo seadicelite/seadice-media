@@ -2759,5 +2759,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Paper_Hall_-_geograph.org.uk_-_8057364.jpg/500px-Paper_Hall_-_geograph.org.uk_-_8057364.jpg",
   "og": "https://dokugaku.seadice.win/img/why-do-quick-tasks-before-studying.jpg",
   "local": true
+ },
+ "speaking-practice-log-sheet": {
+  "file": "File:TG12345 Mk.II desk (1970s) and Microphones, Abbey Road Studios.jpg",
+  "src": "/img/speaking-practice-log-sheet.jpg",
+  "src640": "/img/speaking-practice-log-sheet-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "録音スタジオの機材とマイク",
+  "artist": "Josephenus P. Riley",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:TG12345_Mk.II_desk_(1970s)_and_Microphones,_Abbey_Road_Studios.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg/960px-TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg/500px-TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg",
+  "og": "https://dokugaku.seadice.win/img/speaking-practice-log-sheet.jpg",
+  "local": true
  }
 }

@@ -4208,5 +4208,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-speaking-practice-log-sheet-soliloquizing",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Huang & Liu, \"How to Talk to Myself: Optimal Implementation for Developing Fluency in EFL Speaking Through Soliloquizing\" (English Teaching & Learning, 2022)",
+    "sourceUrl": "https://doi.org/10.1007/s42321-022-00110-z",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/speaking-practice-log-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "話す相手がいないと伸びない？",
+        "body": "英語を話せるようになるには、話し相手が必要。ひとりで勉強していると、話す練習はできないって思いがちだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "自分に質問して、英語で答える",
+        "body": "台湾の大学生28人が、自分に質問して英語で答える「ひとり英会話」を4週間、週4回続けた。1回11〜14分で、同じ話題を3回話したらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "話す速さが上がった",
+        "body": "練習に使っていない話題で話してもらうと、話す速さは1分あたり平均約105音節から約121音節に上がった。「えー」を禁止しても差はなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "練習しない組とは比べていない",
+        "body": "比べる組のない小さな研究で、伸びのすべてが練習のおかげとは言い切れない。文の複雑さや正確さが伸びるかも別の話。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]

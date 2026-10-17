@@ -82,7 +82,8 @@
     ],
     "use": [
      "vocab-review-schedule-recall-log",
-     "l-r-listening-practice-log-sheet"
+     "l-r-listening-practice-log-sheet",
+     "speaking-practice-log-sheet"
     ]
    }
   },
