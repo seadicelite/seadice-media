@@ -3673,5 +3673,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-loneliness-acceptance-practice-monitor-accept",
+    "category": "人とのつながり",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lindsay EK et al., \"Mindfulness training reduces loneliness and increases social contact in a randomized controlled trial\" (PNAS, 2019)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.1813588116",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/loneliness-acceptance-practice/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "寂しさは追い払うべき？",
+        "body": "寂しくなったら、気をまぎらわせて早く消したくなるよね。でも、その気持ちをそのまま受け入れたら、どうなるんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3つの組で2週間",
+        "body": "米国の研究チームが、ストレスを抱えた大人153人をスマホの練習3種類に分けたんだ。今の気持ちを観察して受け入れる組、観察だけの組、自由な振り返りや問題解決の組だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "受け入れた組で孤独感が22%減",
+        "body": "観察と受け入れの両方を練習した組だけ、日常の孤独感が22%下がったらしい。人との会話も1日2回、話した相手も1日1人増えていて、観察だけの組とは差があったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "続く？誰にでも？",
+        "body": "結果は練習の直後までで、効果がどのくらい続くかはわからないよ。別の研究のまとめでは、同じ試験でも質問紙で測った孤独感でははっきりした差が出ていなかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]

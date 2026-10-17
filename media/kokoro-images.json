@@ -3807,8 +3807,8 @@
  },
  "memory-worry-confidence-recover": {
   "file": "File:Child sits at desk completing schoolwork near window with globe, books, and pictures.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Child_sits_at_desk_completing_schoolwork_near_window_with_globe%2C_books%2C_and_pictures.jpg/960px-Child_sits_at_desk_completing_schoolwork_near_window_with_globe%2C_books%2C_and_pictures.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Child_sits_at_desk_completing_schoolwork_near_window_with_globe%2C_books%2C_and_pictures.jpg/500px-Child_sits_at_desk_completing_schoolwork_near_window_with_globe%2C_books%2C_and_pictures.jpg",
+  "src": "/img/memory-worry-confidence-recover.jpg",
+  "src640": "/img/memory-worry-confidence-recover-sm.jpg",
   "w": 960,
   "h": 639,
   "alt": "窓辺の机で書きものをする子どもの後ろ姿",
@@ -3816,6 +3816,29 @@
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Child_sits_at_desk_completing_schoolwork_near_window_with_globe,_books,_and_pictures.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Child_sits_at_desk_completing_schoolwork_near_window_with_globe%2C_books%2C_and_pictures.jpg/960px-Child_sits_at_desk_completing_schoolwork_near_window_with_globe%2C_books%2C_and_pictures.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Child_sits_at_desk_completing_schoolwork_near_window_with_globe%2C_books%2C_and_pictures.jpg/500px-Child_sits_at_desk_completing_schoolwork_near_window_with_globe%2C_books%2C_and_pictures.jpg",
+  "og": "https://mentalai.seadice.win/img/memory-worry-confidence-recover.jpg",
+  "local": true
+ },
+ "loneliness-acceptance-practice": {
+  "file": "File:Sunrise in Meadow of Boyun village, Swat.jpg",
+  "src": "/img/loneliness-acceptance-practice.jpg",
+  "src640": "/img/loneliness-acceptance-practice-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "朝日が差す山あいの草地と小川",
+  "artist": "Jawadqada",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunrise_in_Meadow_of_Boyun_village,_Swat.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sunrise_in_Meadow_of_Boyun_village%2C_Swat.jpg/960px-Sunrise_in_Meadow_of_Boyun_village%2C_Swat.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sunrise_in_Meadow_of_Boyun_village%2C_Swat.jpg/500px-Sunrise_in_Meadow_of_Boyun_village%2C_Swat.jpg",
+  "og": "https://mentalai.seadice.win/img/loneliness-acceptance-practice.jpg",
+  "local": true
  }
 }
