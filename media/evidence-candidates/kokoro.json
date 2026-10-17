@@ -3401,5 +3401,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-loneliness-community-groups-recover-nature-groups",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Coll-Planas L et al., \"Effectiveness of a nature-based social prescribing intervention on loneliness and health-related quality of life among vulnerable urban adults (RECETAS-BCN): an observer-blinded randomised controlled trial\" (The Lancet Regional Health – Europe, 2026)",
+    "sourceUrl": "https://doi.org/10.1016/j.lanepe.2026.101821",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/loneliness-community-groups-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "孤独、どこから抜け出す？",
+        "body": "孤独な時期が長引くと、人に会うのもおっくうになるよね。グループに入るのと、自分で活動を探すの、どっちがいいんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "320人をくじで2組に",
+        "body": "スペインの研究チームが、孤独を感じる大人320人をくじで分けたんだ。片方は週1回2時間、9週間グループで公園などに出かけ、もう片方は近くの活動を紹介されたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "どちらも約1割下がった",
+        "body": "3か月で孤独感は全体で10.5%下がって、2つのやり方に差はなかったらしい。ただ、気分や心の元気さが低めの人では、グループのほうが効いていたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何もしない組がない",
+        "body": "何もしないグループはなかったから、時間がたつだけで下がった分は区別できないんだ。参加者は女性と60代前後が多かったよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]

@@ -3678,5 +3678,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Westbury_Lake_Pier_%28Houston%29.jpg/960px-Westbury_Lake_Pier_%28Houston%29.jpg",
   "og": "https://mentalai.seadice.win/img/post-vacation-work-rumination.jpg",
   "local": true
+ },
+ "loneliness-community-groups-recover": {
+  "file": "File:Bench by the Thames Path - geograph.org.uk - 8154070.jpg",
+  "src": "/img/loneliness-community-groups-recover.jpg",
+  "src640": "/img/loneliness-community-groups-recover-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木々に囲まれた小道と木のベンチ",
+  "artist": "Philip Jeffrey",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bench_by_the_Thames_Path_-_geograph.org.uk_-_8154070.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bench_by_the_Thames_Path_-_geograph.org.uk_-_8154070.jpg/960px-Bench_by_the_Thames_Path_-_geograph.org.uk_-_8154070.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bench_by_the_Thames_Path_-_geograph.org.uk_-_8154070.jpg/960px-Bench_by_the_Thames_Path_-_geograph.org.uk_-_8154070.jpg",
+  "og": "https://mentalai.seadice.win/img/loneliness-community-groups-recover.jpg",
+  "local": true
  }
 }
