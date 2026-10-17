@@ -2944,5 +2944,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Late_2010_MacBook_Air.jpg/500px-Late_2010_MacBook_Air.jpg",
   "og": "https://research.seadice.win/img/cant-recall-imagine-study-place-context-reinstatement-research-og.jpg",
   "local": true
+ },
+ "sitting-break-walk-focus-research": {
+  "file": "File:Office Corridor of St Andrew’s Basilica.jpg",
+  "src": "/img/sitting-break-walk-focus-research.jpg",
+  "src640": "/img/sitting-break-walk-focus-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "オフィスの廊下",
+  "artist": "9kb",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Office_Corridor_of_St_Andrew%E2%80%99s_Basilica.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Office_Corridor_of_St_Andrew%E2%80%99s_Basilica.jpg/960px-Office_Corridor_of_St_Andrew%E2%80%99s_Basilica.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Office_Corridor_of_St_Andrew%E2%80%99s_Basilica.jpg/500px-Office_Corridor_of_St_Andrew%E2%80%99s_Basilica.jpg",
+  "og": "https://research.seadice.win/img/sitting-break-walk-focus-research.jpg",
+  "local": true
  }
 }

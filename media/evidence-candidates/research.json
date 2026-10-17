@@ -4470,5 +4470,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "research-sitting-break-walk-focus-research-walk-breaks-fatigue",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wennberg et al., \"Acute effects of breaking up prolonged sitting on fatigue and cognition: a pilot study\" (BMJ Open, 2016)",
+    "sourceUrl": "https://doi.org/10.1136/bmjopen-2015-009630",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/sitting-break-walk-focus-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "座りっぱなしは頭に悪い？",
+        "body": "長く座っていると頭がぼんやりするから、こまめに立って歩こう、ってよく聞くよね。実際に歩く休憩を入れると何が変わるのか、確かめた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ人が2通りの日を体験",
+        "body": "オーストラリアで、45〜75歳の体重が多めの19人が、5時間座り続ける日と、30分ごとに3分ゆっくり歩く日の両方を試したよ。疲れの感じ方と頭の働きのテストを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "疲れは減った、頭のテストは同じ",
+        "body": "歩く休憩を入れた日は、疲れの感じ方が小さかった。でも、頭の働きのテストの成績には差が出なかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数の少ない予備的な実験",
+        "body": "19人だけの予備的な実験で、22件の実験をまとめた別の研究では頭の働きがわずかに良くなる結果も出ている。休憩の速さや間隔でも結果は変わりそうだよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
