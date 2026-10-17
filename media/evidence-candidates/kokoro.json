@@ -3979,5 +3979,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-breakfast-skip-morning-focus-memory-not-attention",
+    "category": "集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Galioto & Spitznagel, \"The Effects of Breakfast and Breakfast Composition on Cognition in Adults\" (Advances in Nutrition, 2016)",
+    "sourceUrl": "https://doi.org/10.3945/an.115.010231",
+    "studyType": "レビュー",
+    "articleUrl": "https://mentalai.seadice.win/breakfast-skip-morning-focus/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "朝ごはんを抜くと集中できない？",
+        "body": "「朝ごはんを食べないと頭が働かない」ってよく聞くよね。大人の場合、本当にそうなのか、8時間以上何も食べていない大人の実験を集めて整理した研究があるらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差が出やすいのは「思い出す力」",
+        "body": "少し前に覚えたことを後で思い出す力を調べた19件のうち、15件で食べたほうが成績がよかった。記憶の働きで朝ごはんが不利になった研究はなかったんだ。"
+      },
+      {
+        "stage": "意外だったこと",
+        "title": "集中を保つ力は、まちまち",
+        "body": "一方、集中を保つ力（注意）を調べた8件では、よい結果は3件だけで、5件は差がなかった。「抜くと何もかもダメ」とまでは言えないみたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何を食べればいいかは未解決",
+        "body": "多くは1回食べた日と食べなかった日の比較で、毎日の習慣の効果はわからない。テストもばらばらで、どんな中身の朝ごはんがいいかも結論は出ていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
