@@ -4446,5 +4446,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-why-reread-same-line-while-reading-regressions-comprehension",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Schotter et al., \"Don't believe what you read (only once): Comprehension is supported by regressions during reading\" (Psychological Science, 2014)",
+    "sourceUrl": "https://doi.org/10.1177/0956797614531148",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-reread-same-line-while-reading/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "読み返さなければ速く読める？",
+        "body": "速読では「戻って読み返すクセをなくせ」とよく言われる。1語ずつ画面に出して、戻れないようにするアプリもある。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "読んだ語を次々に隠した",
+        "body": "読む人の目が通り過ぎた語を、すぐ記号で隠す実験をした。1語を1回しか読めず、戻っても元の語は見えない。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "理解が悪くなった",
+        "body": "戻って読めないと、普通に読んだときより文の理解が悪くなった。紛らわしい文だけでなく、それ以外の文でも同じだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "短い文の実験",
+        "body": "画面で1文ずつ読む実験室の課題で、教科書のような長い文章を読む場面ではない。日本語でも同じかは確かめられていない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

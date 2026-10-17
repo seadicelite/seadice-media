@@ -96,6 +96,7 @@
 - [教科書が難しくて理解できない。読み進められないとき、どう立て直す？「混乱」と読み直しの研究](https://dokugaku.seadice.win/textbook-too-hard-to-understand/): 何度も読み直すより、わからない場所を1文で書き、自分の言葉で説明し、足りない前提をやさしい資料で補う。混乱は解ければ学びになる。
 - [大人になってから外国語の発音が身につきにくいのはなぜ？学び始めの年齢と発音の研究](https://dokugaku.seadice.win/why-adult-pronunciation-accent-stays/): 大人で始めるとなまりは残りやすいが、理由は母語の聞き方と使う量も大きい。なまりの強さと通じやすさは別物で、練習で伸ばせる。
 - [練習ではできたのに本番で解けないのはなぜ？覚えたときと試されるときの「ずれ」の研究](https://dokugaku.seadice.win/why-practice-success-fails-on-exam/): 練習中の出来は学びの当てにならない目安。くり返した問いには強くても、聞き方や考え方が変わると力が出にくい。
+- [同じ行を何度も読み返してしまうのはなぜ？目の動きの研究でわかった「読み戻り」の役割](https://dokugaku.seadice.win/why-reread-same-line-while-reading/): 読書中の目の動きの5〜20%は前に戻る動き。戻れなくすると文の理解が下がった実験も。読み戻りが増える理由と使い方。
 - [人に効いた勉強法が自分には合わないのはなぜ？予備知識しだいで効き方が逆になる「熟達化逆転効果」の研究](https://dokugaku.seadice.win/why-study-method-works-differently/): 同じ勉強法でも、予備知識の量で効き方が逆になる。初心者は例題と解説、慣れたら問題演習へ切り替える。
 - [同じ時間勉強しても、勉強法で身につき方が違うのはなぜ？「聞く・手を動かす・自分で作る・話し合う」の研究（ICAP）](https://dokugaku.seadice.win/why-study-methods-differ-icap/): 聞くだけより、自分で問いや説明を作るほうが身につきやすい。ただ4段階の順番は授業の研究で揺れている。
 - [計算問題の例題と解説はどう使う？研究でわかった例題学習のやり方（資格試験の独学）](https://dokugaku.seadice.win/worked-examples-how-to-study/): 初めての単元は例題を2〜3題読み、手順を隠して埋め、例題なしで解く。慣れた単元は問題から始める。
