@@ -3571,5 +3571,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-comparison-falling-behind-new-goal-reengage",
+    "category": "ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Riddell H et al., \"A meta-analytic review and conceptual model of the antecedents and outcomes of goal adjustment in response to striving difficulties\" (Nature Human Behaviour, 2026)",
+    "sourceUrl": "https://doi.org/10.1038/s41562-025-02312-4",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/comparison-falling-behind-new-goal/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "届かない目標、どうする？",
+        "body": "同級生と比べて「自分だけ遅れてる」って焦ること、あるよね。届きそうにない目標は、手放したほうが楽になるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "235件の研究をまとめた",
+        "body": "オーストラリアなどの研究チームが、目標がうまくいかないときの調整を調べた235件の研究をまとめたんだ。「手放す力」と「新しい目標に向かう力」を分けて見ているよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "大事なのは次の目標かも",
+        "body": "新しい目標に向かえる人ほど落ち込みが少なく、関連の強さは−0.24で「中くらい」。手放す力だけだと−0.14で、小さめだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "因果ははっきりしない",
+        "body": "追跡や実験の研究は約36%で、残りの多くは一時点の調査。研究者自身も証拠の質を「低〜中」としているよ。人と比べる気持ちを直接測った研究でもないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]

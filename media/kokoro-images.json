@@ -3768,5 +3768,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Notebook_with_pen%2C_August%2C_2019.jpg/500px-Notebook_with_pen%2C_August%2C_2019.jpg",
   "og": "https://mentalai.seadice.win/img/gratitude-journal-work-engagement.jpg",
   "local": true
+ },
+ "comparison-falling-behind-new-goal": {
+  "file": "File:Fork in the forest road - geograph.org.uk - 7687024.jpg",
+  "src": "/img/comparison-falling-behind-new-goal.jpg",
+  "src640": "/img/comparison-falling-behind-new-goal-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "森の中で二手に分かれる小道",
+  "artist": "Alec MacKinnon",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fork_in_the_forest_road_-_geograph.org.uk_-_7687024.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fork_in_the_forest_road_-_geograph.org.uk_-_7687024.jpg/960px-Fork_in_the_forest_road_-_geograph.org.uk_-_7687024.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fork_in_the_forest_road_-_geograph.org.uk_-_7687024.jpg/500px-Fork_in_the_forest_road_-_geograph.org.uk_-_7687024.jpg",
+  "og": "https://mentalai.seadice.win/img/comparison-falling-behind-new-goal.jpg",
+  "local": true
  }
 }
