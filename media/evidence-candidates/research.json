@@ -4402,5 +4402,73 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "research-cant-recall-imagine-study-place-context-reinstatement-research-divers",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Murre, \"The Godden and Baddeley (1975) experiment on context-dependent memory on land and underwater: a replication\" (Royal Society Open Science, 2021)",
+    "sourceUrl": "https://doi.org/10.1098/rsos.200724",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/cant-recall-imagine-study-place-context-reinstatement-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "水中で覚えたことは水中で思い出せる？",
+        "body": "心理学の教科書によく載っている話。1975年、ダイバーは水中で覚えた単語を水中で、陸で覚えた単語を陸でよく思い出せた、という実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "16人のダイバーでやり直した",
+        "body": "2021年、オランダの研究者が16人のダイバーで同じ実験をできるだけ同じ方法でやり直したよ。陸と水中で単語を聞いて覚え、4分後に陸か水中で思い出してもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "同じ場所でも成績は上がらなかった",
+        "body": "覚えた場所と思い出す場所が同じでも、思い出せる量は増えなかった。むしろ、陸で覚えたほうがどこで思い出しても成績がよかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "場所の効果がないとは言えない",
+        "body": "単語の難しさや水中スピーカーの聞こえ方が元の実験とちがった可能性もある。たくさんの研究をまとめると、場所の効果は小さめながら確かにあるとされているよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
+  },
+  {
+    "id": "research-cant-recall-imagine-study-place-context-reinstatement-research-vr",
+    "category": "記憶・学習",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Essoe et al., \"Enhancing learning and retention with distinctive virtual reality environments and mental context reinstatement\" (npj Science of Learning, 2022)",
+    "sourceUrl": "https://doi.org/10.1038/s41539-022-00147-6",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/cant-recall-imagine-study-place-context-reinstatement-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "覚えた部屋を思い浮かべると思い出せる？",
+        "body": "テストで出てこないとき、勉強した部屋を思い浮かべるといいって聞くよね。頭の中で「戻る」だけで効果があるのか、確かめた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "仮想空間で80語を覚えた",
+        "body": "アメリカの大学で集めた48人が、画面の中の「月面基地」などを歩きながら、2つの外国語の単語を80語覚えた。テストでは毎回、指定された部屋を目を閉じて思い浮かべてから答えたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "正解は52%と47%",
+        "body": "その単語を覚えた部屋を思い浮かべたときの正解は52%、別の部屋を思い浮かべたときは47%。覚えた場所に頭の中で戻るだけで、少し思い出しやすくなったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふつうの勉強部屋でも同じ？",
+        "body": "実験室で作った仮想空間での結果で、差は5ポイントほど。ふだんの勉強部屋で同じくらいの効果が出るかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]

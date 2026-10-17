@@ -19,35 +19,6 @@
 
 ## 記事一覧
 
-### 睡眠
-
-- [寝酒は眠りを良くするのか。「寝つきは早いが、後半が乱れる」研究](https://research.seadice.win/alcohol-before-bed-sleep/): お酒で寝つきは早くなるが、夜の後半は眠りが乱れ、少量でも睡眠中の体の回復が妨げられていた。寝酒は眠りの助けにならない。
-- [眠れなかった夜のあと、どう立て直す？ 次の夜に「取り返そう」としなくていい理由を研究で調べた](https://research.seadice.win/bad-night-sleep-next-night-recovery-research/): 一時的な不眠の72.4%は自然に回復した。長引くかに関わったのは眠れないことへの心配。翌朝はいつもの時刻に起き、眠くなってから布団へ。
-- [寝る前の入浴は寝つきを良くするのか。研究でわかった効果的なタイミング](https://research.seadice.win/bathing-before-bed-sleep-onset/): 就寝1〜2時間前に10分以上の入浴で入眠が20〜30%早まったとする研究が複数。高齢者の足浴実験では一晩全体の改善は見られなかった。
-- [寝る前の考えごとを止めるには？ 頭の中で場面を描く「イメージそらし」と認知シャッフルの研究](https://research.seadice.win/bedtime-racing-thoughts-imagery-shuffle-how-research/): 考えるなと命じるより、穏やかな場面を細かく描く。不眠の41人の実験で寝つきが早まった。認知シャッフルの根拠はまだ学会発表の段階。
-- [寝る前の読書は寝つきを良くするのか。紙の本と画面で違った研究](https://research.seadice.win/bedtime-reading-paper-book-sleep/): 寝る前に画面で読むと紙の本より寝つきが約10分遅れた。読書そのものより「何で読むか」が眠りを左右していた。
-- [夜スマホをやめられないのは意志の弱さ？研究でわかった原因と3つの一歩](https://research.seadice.win/bedtime-smartphone-sleep/): 日中の疲れと寝る前の画面の光が、眠りを遅らせる。5本の研究から、今夜できる工夫を整理。
-- [寝る前のストレッチは睡眠の質を上げるのか。4つの研究でわかったこと](https://research.seadice.win/bedtime-stretching-sleep-quality-research/): 不眠症の人への4か月のストレッチでISIが8.1点改善。一方、睡眠障害がある人全体を見た16件のレビューでは効果の証拠は乏しいとされた。
-- [寝る前に「明日やること」を書くと眠れる。研究でわかった理由](https://research.seadice.win/bedtime-todo-list-sleep/): 就寝前にやることリストを書いたグループが早く眠りについた実験を紹介。今夜からできる書き方も解説。
-- [カフェインは何時間前までOK？研究でわかった「量」と「時間」の関係](https://research.seadice.win/caffeine-hours-before-bed/): コーヒー1杯なら4時間前でも平気、でも400mgは12時間前でも睡眠に影響。量と時間の関係を解説。
-- [寝室はどれくらい暗くすればいい？ 寝ている間の明かりの研究でわかった、暗くするやり方](https://research.seadice.win/dark-bedroom-light-during-sleep-research/): 寝室は暗くしたほうがいい？ 明かりをつけたまま眠ると深い眠りが減り、本人は気づかない実験と、アイマスクの研究から、暗くするやり方を整理。
-- [昼間に日光を浴びると夜よく眠れるのか。体内時計を変える「光」の研究](https://research.seadice.win/daytime-light-exposure-night-sleep-research/): 日中の光が多く安定している人ほど、寝つきが早く深い睡眠が増える。89人の追跡調査や自然光キャンプの実験からわかったこと。
-- [いつもより早く寝ようとすると眠れないのはなぜ？ 寝る前の「睡眠禁止帯」を研究で調べた](https://research.seadice.win/early-bedtime-cant-sleep-forbidden-zone-why-research/): 早く布団に入っても眠れないのは、就寝の数時間前に体内時計が「起きていろ」の信号を強める「睡眠禁止帯」があるため。
-- [夜に運動すると眠れなくなるのか。寝る何時間前までならいいかを研究で調べた](https://research.seadice.win/evening-exercise-sleep-research/): 夜の運動は全体として眠りを悪くしなかった。ただ寝る直前の激しい運動は寝つきを遅らせることがあり、4時間前までに終えると影響は見られなかった。
-- [旅行先や初めての場所でよく眠れないのはなぜ？「初夜効果」と脳の見張り役を研究で調べた](https://research.seadice.win/first-night-effect-sleep-why-research/): 慣れない場所の1晩目に眠りが浅くなる「初夜効果」は53件のメタ分析でも確認。脳の片側が見張り役として起きているという説と、その後の検証を整理。
-- [暑い夜に眠れないのはなぜ？「体の熱が逃げない」寝苦しさの仕組みを研究で調べた](https://research.seadice.win/hot-night-cant-sleep-why-research/): 眠るときに下がるはずの深部体温が、暑さと湿気で下がりにくくなる。寝始めの暑さほど眠りを乱した実験と76万人の調査から仕組みを整理。
-- [時差ぼけがつらいときは、どう立て直す？ 東向きと西向きで違う「光を浴びる時間」を研究で調べた](https://research.seadice.win/jet-lag-recovery-light-timing-research/): 時差ぼけがつらいときは？ 体内時計は光を浴びる時刻で早まったり遅れたりする。東向きは戻りが遅い理由と、到着後・出発前の光の使い方を研究で整理。
-- [朝どうしても起きられない人へ。体内時計を約2時間動かした実験でわかったこと](https://research.seadice.win/morning-light-wake-up/): 起床時間・朝の光・食事や運動のタイミングを整えると、体内時計が平均約2時間前進した実験を紹介。
-- [昼寝は何分がいい？研究でわかった「10分」の意外な強さ](https://research.seadice.win/nap-best-length/): 5分では足りず、30分だとぼんやりする。24人の実験で最も効いた長さを解説。
-- [夜中に目が覚めて眠れないとき、布団から出るべき？「刺激制御法」の研究でわかったこと](https://research.seadice.win/night-awake-get-out-of-bed-stimulus-control-research/): 15分ほど眠れなければ眠る努力をやめ、眠くなるまで布団の外で過ごす。効果は複数のまとめで示されたが研究の質は低め。布団の中で行っても改善した。
-- [夜勤明けに眠れない、休みの日に戻せないときは？ 仮眠と光の使い方を研究で調べた](https://research.seadice.win/night-shift-sleep-recovery-research/): 夜勤明けは朝の光で体内時計が昼に戻るため眠りにくい。帰り道の光を避けて暗い部屋ですぐ眠り、休みに徹夜で戻さない立て直し方。
-- [夜中に何度も目が覚めるのはなぜ？ 中途覚醒の仕組みを研究で調べた](https://research.seadice.win/night-waking-why-research/): 週3日以上夜中に目が覚める人は約8900人の調査で35.5%。年齢による眠りの変化、ストレスで脳が冴えすぎる状態、時計を見る焦りなど、中途覚醒の仕組みを研究で整理。
-- [昼食の後に眠くなるのはなぜか。食後の眠気の研究でわかった2つの理由](https://research.seadice.win/post-lunch-sleepiness-research/): 午後の眠気は体内時計の波が土台にあり、食事をとらなくても起こる。922kcalの重いランチは305kcalの軽いランチより、運転中の車線はみ出しを有意に増やした。
-- [毎日同じ時刻に寝起きすると、眠りは良くなるのか。「睡眠の規則性」の研究](https://research.seadice.win/sleep-regularity-same-time-research/): 寝起きの時刻がそろっていることは、睡眠時間と同じくらい、気分や健康と関わっていた。まずは起きる時刻をそろえるのが一歩目。
-- [スヌーズで二度寝するのは体に悪いのか。研究でわかった意外な結果](https://research.seadice.win/snooze-alarm-research/): 30分のスヌーズで失う睡眠は約6分で、頭の働きも下がらなかった研究がある一方、寝ぼけが長引いたという研究もあり、結論は分かれている。
-- [眠ろうと頑張るほど眠れないのはなぜ？「眠る努力」が目を覚ます仕組みを研究で調べた](https://research.seadice.win/trying-hard-to-sleep-awake-research/): 眠りは自動で起きる働きで、意識して操ろうとすると妨げられる。頭が忙しい状態で早く眠ろうとすると、寝つきが遅れた実験も。
-- [週末の寝だめで平日の睡眠不足は帳消しにできる？4つの研究でわかったこと](https://research.seadice.win/weekend-catchup-sleep-debt/): 軽い寝だめは体調の良さと関連する一方、睡眠不足が大きいと帳消しにはできないことが4つの研究からわかった。
-
 ### 習慣
 
 - [1回のミスで「もう全部やめたくなる」のはなぜ？「どうにでもなれ効果」の研究](https://research.seadice.win/all-or-nothing-diet-slip-research/): 「低カロリー」と伝えられても食事制限中の人は食べすぎ、失敗を自分のせいと決めつけるほど次の過食が早まった。4つの研究から確認。
@@ -78,6 +49,35 @@
 - [やめようと我慢するほど、やりたくなるのはなぜ？「考えないようにする」と跳ね返る仕組みを研究で調べた](https://research.seadice.win/suppressing-urges-rebound-why-research/): 考えを押さえ込むと、あとで戻りやすい。チョコやたばこの実験と、効果が弱いとするメタ分析から解説。
 - [やめたい衝動は、待てば消えるのか。4つの研究でわかったこと](https://research.seadice.win/urge-surfing-craving-wave-research/): 衝動を波として観察する「衝動サーフィン」。衝動の強さ自体は対照群と差がなかったが、その後7日間の喫煙本数には有意な差が出た。
 - [わかっているのに、なぜ同じ行動をくり返すのか。習慣が「自動」で動く仕組みの研究](https://research.seadice.win/why-habits-run-on-autopilot-research/): くり返した行動は、場所や時間のきっかけで自動的に出やすくなる。ただし人で実験的に作るのは難しく、再現の失敗もある。
+
+### 睡眠
+
+- [寝酒は眠りを良くするのか。「寝つきは早いが、後半が乱れる」研究](https://research.seadice.win/alcohol-before-bed-sleep/): お酒で寝つきは早くなるが、夜の後半は眠りが乱れ、少量でも睡眠中の体の回復が妨げられていた。寝酒は眠りの助けにならない。
+- [眠れなかった夜のあと、どう立て直す？ 次の夜に「取り返そう」としなくていい理由を研究で調べた](https://research.seadice.win/bad-night-sleep-next-night-recovery-research/): 一時的な不眠の72.4%は自然に回復した。長引くかに関わったのは眠れないことへの心配。翌朝はいつもの時刻に起き、眠くなってから布団へ。
+- [寝る前の入浴は寝つきを良くするのか。研究でわかった効果的なタイミング](https://research.seadice.win/bathing-before-bed-sleep-onset/): 就寝1〜2時間前に10分以上の入浴で入眠が20〜30%早まったとする研究が複数。高齢者の足浴実験では一晩全体の改善は見られなかった。
+- [寝る前の考えごとを止めるには？ 頭の中で場面を描く「イメージそらし」と認知シャッフルの研究](https://research.seadice.win/bedtime-racing-thoughts-imagery-shuffle-how-research/): 考えるなと命じるより、穏やかな場面を細かく描く。不眠の41人の実験で寝つきが早まった。認知シャッフルの根拠はまだ学会発表の段階。
+- [寝る前の読書は寝つきを良くするのか。紙の本と画面で違った研究](https://research.seadice.win/bedtime-reading-paper-book-sleep/): 寝る前に画面で読むと紙の本より寝つきが約10分遅れた。読書そのものより「何で読むか」が眠りを左右していた。
+- [夜スマホをやめられないのは意志の弱さ？研究でわかった原因と3つの一歩](https://research.seadice.win/bedtime-smartphone-sleep/): 日中の疲れと寝る前の画面の光が、眠りを遅らせる。5本の研究から、今夜できる工夫を整理。
+- [寝る前のストレッチは睡眠の質を上げるのか。4つの研究でわかったこと](https://research.seadice.win/bedtime-stretching-sleep-quality-research/): 不眠症の人への4か月のストレッチでISIが8.1点改善。一方、睡眠障害がある人全体を見た16件のレビューでは効果の証拠は乏しいとされた。
+- [寝る前に「明日やること」を書くと眠れる。研究でわかった理由](https://research.seadice.win/bedtime-todo-list-sleep/): 就寝前にやることリストを書いたグループが早く眠りについた実験を紹介。今夜からできる書き方も解説。
+- [カフェインは何時間前までOK？研究でわかった「量」と「時間」の関係](https://research.seadice.win/caffeine-hours-before-bed/): コーヒー1杯なら4時間前でも平気、でも400mgは12時間前でも睡眠に影響。量と時間の関係を解説。
+- [寝室はどれくらい暗くすればいい？ 寝ている間の明かりの研究でわかった、暗くするやり方](https://research.seadice.win/dark-bedroom-light-during-sleep-research/): 寝室は暗くしたほうがいい？ 明かりをつけたまま眠ると深い眠りが減り、本人は気づかない実験と、アイマスクの研究から、暗くするやり方を整理。
+- [昼間に日光を浴びると夜よく眠れるのか。体内時計を変える「光」の研究](https://research.seadice.win/daytime-light-exposure-night-sleep-research/): 日中の光が多く安定している人ほど、寝つきが早く深い睡眠が増える。89人の追跡調査や自然光キャンプの実験からわかったこと。
+- [いつもより早く寝ようとすると眠れないのはなぜ？ 寝る前の「睡眠禁止帯」を研究で調べた](https://research.seadice.win/early-bedtime-cant-sleep-forbidden-zone-why-research/): 早く布団に入っても眠れないのは、就寝の数時間前に体内時計が「起きていろ」の信号を強める「睡眠禁止帯」があるため。
+- [夜に運動すると眠れなくなるのか。寝る何時間前までならいいかを研究で調べた](https://research.seadice.win/evening-exercise-sleep-research/): 夜の運動は全体として眠りを悪くしなかった。ただ寝る直前の激しい運動は寝つきを遅らせることがあり、4時間前までに終えると影響は見られなかった。
+- [旅行先や初めての場所でよく眠れないのはなぜ？「初夜効果」と脳の見張り役を研究で調べた](https://research.seadice.win/first-night-effect-sleep-why-research/): 慣れない場所の1晩目に眠りが浅くなる「初夜効果」は53件のメタ分析でも確認。脳の片側が見張り役として起きているという説と、その後の検証を整理。
+- [暑い夜に眠れないのはなぜ？「体の熱が逃げない」寝苦しさの仕組みを研究で調べた](https://research.seadice.win/hot-night-cant-sleep-why-research/): 眠るときに下がるはずの深部体温が、暑さと湿気で下がりにくくなる。寝始めの暑さほど眠りを乱した実験と76万人の調査から仕組みを整理。
+- [時差ぼけがつらいときは、どう立て直す？ 東向きと西向きで違う「光を浴びる時間」を研究で調べた](https://research.seadice.win/jet-lag-recovery-light-timing-research/): 時差ぼけがつらいときは？ 体内時計は光を浴びる時刻で早まったり遅れたりする。東向きは戻りが遅い理由と、到着後・出発前の光の使い方を研究で整理。
+- [朝どうしても起きられない人へ。体内時計を約2時間動かした実験でわかったこと](https://research.seadice.win/morning-light-wake-up/): 起床時間・朝の光・食事や運動のタイミングを整えると、体内時計が平均約2時間前進した実験を紹介。
+- [昼寝は何分がいい？研究でわかった「10分」の意外な強さ](https://research.seadice.win/nap-best-length/): 5分では足りず、30分だとぼんやりする。24人の実験で最も効いた長さを解説。
+- [夜中に目が覚めて眠れないとき、布団から出るべき？「刺激制御法」の研究でわかったこと](https://research.seadice.win/night-awake-get-out-of-bed-stimulus-control-research/): 15分ほど眠れなければ眠る努力をやめ、眠くなるまで布団の外で過ごす。効果は複数のまとめで示されたが研究の質は低め。布団の中で行っても改善した。
+- [夜勤明けに眠れない、休みの日に戻せないときは？ 仮眠と光の使い方を研究で調べた](https://research.seadice.win/night-shift-sleep-recovery-research/): 夜勤明けは朝の光で体内時計が昼に戻るため眠りにくい。帰り道の光を避けて暗い部屋ですぐ眠り、休みに徹夜で戻さない立て直し方。
+- [夜中に何度も目が覚めるのはなぜ？ 中途覚醒の仕組みを研究で調べた](https://research.seadice.win/night-waking-why-research/): 週3日以上夜中に目が覚める人は約8900人の調査で35.5%。年齢による眠りの変化、ストレスで脳が冴えすぎる状態、時計を見る焦りなど、中途覚醒の仕組みを研究で整理。
+- [昼食の後に眠くなるのはなぜか。食後の眠気の研究でわかった2つの理由](https://research.seadice.win/post-lunch-sleepiness-research/): 午後の眠気は体内時計の波が土台にあり、食事をとらなくても起こる。922kcalの重いランチは305kcalの軽いランチより、運転中の車線はみ出しを有意に増やした。
+- [毎日同じ時刻に寝起きすると、眠りは良くなるのか。「睡眠の規則性」の研究](https://research.seadice.win/sleep-regularity-same-time-research/): 寝起きの時刻がそろっていることは、睡眠時間と同じくらい、気分や健康と関わっていた。まずは起きる時刻をそろえるのが一歩目。
+- [スヌーズで二度寝するのは体に悪いのか。研究でわかった意外な結果](https://research.seadice.win/snooze-alarm-research/): 30分のスヌーズで失う睡眠は約6分で、頭の働きも下がらなかった研究がある一方、寝ぼけが長引いたという研究もあり、結論は分かれている。
+- [眠ろうと頑張るほど眠れないのはなぜ？「眠る努力」が目を覚ます仕組みを研究で調べた](https://research.seadice.win/trying-hard-to-sleep-awake-research/): 眠りは自動で起きる働きで、意識して操ろうとすると妨げられる。頭が忙しい状態で早く眠ろうとすると、寝つきが遅れた実験も。
+- [週末の寝だめで平日の睡眠不足は帳消しにできる？4つの研究でわかったこと](https://research.seadice.win/weekend-catchup-sleep-debt/): 軽い寝だめは体調の良さと関連する一方、睡眠不足が大きいと帳消しにはできないことが4つの研究からわかった。
 
 ### 気分・ストレス
 
@@ -157,6 +157,7 @@
 ### 記憶・学習
 
 - [徹夜で覚えたのに思い出せないときは？ 睡眠と「学び直し」の研究でわかった立て直し方](https://research.seadice.win/all-nighter-study-forgot-recovery-research/): 徹夜明けは覚える力が落ちる。まず眠り、起きてから思い出す練習で学び直す。眠りをはさむと学び直しの練習量が半分になった実験がある。
+- [覚えたはずのことが思い出せないときは？ 覚えた場所を頭に思い浮かべる「文脈の再現」の研究でわかった思い出し方](https://research.seadice.win/cant-recall-imagine-study-place-context-reinstatement-research/): 思い出せないときは覚えた部屋や机を目を閉じて思い浮かべる。33件の研究のメタ分析で効果あり。ダイバー実験の再現失敗も整理。
 - [部屋に入ったとたん、何をしに来たか忘れるのはなぜ？「ドアをくぐると忘れる」研究を調べた](https://research.seadice.win/doorway-forgetting-why-research/): 部屋を移ると用事を忘れるのは、脳が場面の変わり目で記憶を区切り直すため。ただし4つの実験で再現できなかった研究もあり、頭がいっぱいのときに起きやすい可能性がある。
 - [覚えたい言葉は絵に描くと覚えやすい？「描画効果」の研究でわかった描き方のコツ](https://research.seadice.win/drawing-effect-memory-how-research/): 覚えたい言葉は書き写すより意味を自分で絵にすると思い出しやすい。落書きや見本の写しは弱く、順番の記憶には不向きな点も整理。
 - [テストで頭が真っ白になったら？ 次の本番で思い出せるようにする方法を研究で調べた](https://research.seadice.win/exam-mind-blank-test-anxiety-recovery-research/): 強い緊張は思い出す力を一時的に弱める。思い出す練習で覚えた人はストレス下でも成績が落ちず、直前の書き出しは効果がはっきりしない。

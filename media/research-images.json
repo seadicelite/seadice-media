@@ -2927,5 +2927,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Pillow_made_of_paper%2C_plaster_and_wire.jpg/500px-Pillow_made_of_paper%2C_plaster_and_wire.jpg",
   "og": "https://research.seadice.win/img/bedtime-racing-thoughts-imagery-shuffle-how-research-og.jpg",
   "local": true
+ },
+ "cant-recall-imagine-study-place-context-reinstatement-research": {
+  "file": "File:Late 2010 MacBook Air.jpg",
+  "src": "/img/cant-recall-imagine-study-place-context-reinstatement-research.webp",
+  "src640": "/img/cant-recall-imagine-study-place-context-reinstatement-research-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上のノートパソコン",
+  "artist": "Alejandro Escamilla",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Late_2010_MacBook_Air.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Late_2010_MacBook_Air.jpg/960px-Late_2010_MacBook_Air.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Late_2010_MacBook_Air.jpg/500px-Late_2010_MacBook_Air.jpg",
+  "og": "https://research.seadice.win/img/cant-recall-imagine-study-place-context-reinstatement-research-og.jpg",
+  "local": true
  }
 }
