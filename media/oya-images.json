@@ -764,5 +764,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sunset_view_from_kitchen_window_-_Tropea.jpg/500px-Sunset_view_from_kitchen_window_-_Tropea.jpg",
   "og": "https://oya.seadice.win/img/parent-evening-restless-sundowning.jpg",
   "local": true
+ },
+ "parent-low-mood-depression-signs": {
+  "file": "File:Light and Shadow-1025740.jpg",
+  "src": "/img/parent-low-mood-depression-signs.webp",
+  "src640": "/img/parent-low-mood-depression-signs-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "窓辺のひじ掛け椅子",
+  "artist": "Maoileann",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Light_and_Shadow-1025740.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Light_and_Shadow-1025740.jpg/960px-Light_and_Shadow-1025740.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Light_and_Shadow-1025740.jpg/500px-Light_and_Shadow-1025740.jpg",
+  "og": "https://oya.seadice.win/img/parent-low-mood-depression-signs-og.jpg",
+  "local": true
  }
 }
