@@ -4548,5 +4548,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-why-thirst-dehydration-hard-to-focus-water-thirst-reaction",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Edmonds et al., \"Subjective thirst moderates changes in speed of responding associated with water consumption\" (Frontiers in Human Neuroscience, 2013)",
+    "sourceUrl": "https://doi.org/10.3389/fnhum.2013.00363",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-thirst-dehydration-hard-to-focus/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "水を飲むと頭が冴える？",
+        "body": "勉強の前に水を飲むと集中できる、ってよく聞くよね。じゃあ、のどが渇いていなくても飲んだほうがいいの？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "水を飲んだ朝と飲まない朝",
+        "body": "英国の大人34人が、前の晩から飲食をやめたあと、朝に水を飲んだ日と飲まなかった日で、合図にすばやく反応する課題などを受けた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "速くなったのは渇いていた人だけ",
+        "body": "水を飲んだ日は反応が速くなった。でも速くなったのは、のどが渇いていた人だけ。渇いていない人は、飲んでも飲まなくても同じ速さだった。ルールを切り替える課題は、水を飲んだ日のほうが成績が低かった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "34人の短い実験",
+        "body": "人数が少ない1回の実験。著者らは「渇きの感覚が注意を使う」と考えているけど、それを直接測ったわけではない。長い勉強の成績で同じかはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

@@ -2903,5 +2903,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/500px-Chess_game_Staunton_No._6_perfil_view_8.jpg",
   "og": "https://dokugaku.seadice.win/img/why-old-habits-block-new-methods-relearning.jpg",
   "local": true
+ },
+ "why-thirst-dehydration-hard-to-focus": {
+  "file": "File:Fasting 4-Fasting-a-glass-of-water-on-an-empty-plate.jpg",
+  "src": "/img/why-thirst-dehydration-hard-to-focus.jpg",
+  "src640": "/img/why-thirst-dehydration-hard-to-focus-sm.jpg",
+  "w": 960,
+  "h": 837,
+  "alt": "水の入ったグラス",
+  "artist": "Dr Jean Fortunet",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fasting_4-Fasting-a-glass-of-water-on-an-empty-plate.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fasting_4-Fasting-a-glass-of-water-on-an-empty-plate.jpg/960px-Fasting_4-Fasting-a-glass-of-water-on-an-empty-plate.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fasting_4-Fasting-a-glass-of-water-on-an-empty-plate.jpg/500px-Fasting_4-Fasting-a-glass-of-water-on-an-empty-plate.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-thirst-dehydration-hard-to-focus.jpg",
+  "local": true
  }
 }
