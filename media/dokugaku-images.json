@@ -2633,5 +2633,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SCP_Foundation_-_Just_doing_my_paperwork.jpg/500px-SCP_Foundation_-_Just_doing_my_paperwork.jpg",
   "og": "https://dokugaku.seadice.win/img/concrete-examples-how-to-study.jpg",
   "local": true
+ },
+ "study-reminders-cues-how-to": {
+  "file": "File:Martin Ultima's Dell.jpg",
+  "src": "/img/study-reminders-cues-how-to.jpg",
+  "src640": "/img/study-reminders-cues-how-to-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "付箋を貼ったパソコンのある机",
+  "artist": "The original uploader was Martinultima at English Wikipedia.",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Martin_Ultima%27s_Dell.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Martin_Ultima%27s_Dell.jpg/960px-Martin_Ultima%27s_Dell.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Martin_Ultima%27s_Dell.jpg/500px-Martin_Ultima%27s_Dell.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-reminders-cues-how-to.jpg",
+  "local": true
  }
 }

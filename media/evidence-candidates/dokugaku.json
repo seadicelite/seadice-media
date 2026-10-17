@@ -3902,5 +3902,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-study-reminders-cues-how-to-distinctive-cue",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rogers & Milkman, \"Reminders through association\" (Psychological Science, 2016)",
+    "sourceUrl": "https://doi.org/10.1177/0956797616643071",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/study-reminders-cues-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "決めたのに忘れるのはなぜ？",
+        "body": "「帰りにあれをやろう」と決めたのに、その場になると忘れている。やる気の問題じゃなく、思い出せなかっただけのこともあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ゾウの置物を目印に",
+        "body": "帰りにカウンターでクリップを1つ取れば寄付される、という実験。一部の人には「ゾウの置物が目印になる」と前もって伝えたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "74%と42%",
+        "body": "目印を結びつけた人は74%が実行し、結びつけなかった人は42%だった。目印は、周りの物にまぎれず目立つほど効いたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "毎日の習慣にも効く？",
+        "body": "調べたのは寄付やクーポンなど1回きりの行動。毎日の勉強のように何度もくり返す行動で、同じ効果が続くかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
