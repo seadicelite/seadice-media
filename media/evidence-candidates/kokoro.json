@@ -3435,5 +3435,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-fitness-app-ranking-comparison-prevent-leaderboard-stress",
+    "category": "SNSと比較",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wang S et al., \"Associations between leaderboard usage in physical activity apps and perceived stress among university students: the roles of social comparison and physical activity\" (Frontiers in Public Health, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpubh.2026.1794299",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/fitness-app-ranking-comparison-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ランキングは心の負担？",
+        "body": "人と比べると落ち込む、ってよく聞くよね。じゃあ運動アプリで友達と歩数のランキングを比べるのも、ストレスのもとになるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生1,019人に聞いた",
+        "body": "中国の研究チームが、運動アプリのランキングを使ったことがある大学生1,019人に、ランキングを見る回数、人と比べる回数、運動の量、ストレスをたずねたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "運動が多く、ストレスは少し低め",
+        "body": "ランキングをよく見る人ほど人と比べることも運動も多くて、運動が多い人ほどストレスは低めだったらしい。ランキングとストレスの直接の結びつきは、ほぼゼロだったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回きりの調査",
+        "body": "1回の調査だから、ランキングが運動を増やしたのか、よく動く人がランキングを見るだけなのかは区別できないんだ。順位が低いままの人の気持ちも測っていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]

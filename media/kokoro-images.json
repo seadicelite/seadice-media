@@ -3696,5 +3696,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bench_by_the_Thames_Path_-_geograph.org.uk_-_8154070.jpg/960px-Bench_by_the_Thames_Path_-_geograph.org.uk_-_8154070.jpg",
   "og": "https://mentalai.seadice.win/img/loneliness-community-groups-recover.jpg",
   "local": true
+ },
+ "fitness-app-ranking-comparison-prevent": {
+  "file": "File:Dülmen, Wildpark -- 2018 -- 1458-62.jpg",
+  "src": "/img/fitness-app-ranking-comparison-prevent.jpg",
+  "src640": "/img/fitness-app-ranking-comparison-prevent-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "朝日が差し込む公園の木々と芝生",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wildpark_--_2018_--_1458-62.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/D%C3%BClmen%2C_Wildpark_--_2018_--_1458-62.jpg/960px-D%C3%BClmen%2C_Wildpark_--_2018_--_1458-62.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/D%C3%BClmen%2C_Wildpark_--_2018_--_1458-62.jpg/500px-D%C3%BClmen%2C_Wildpark_--_2018_--_1458-62.jpg",
+  "og": "https://mentalai.seadice.win/img/fitness-app-ranking-comparison-prevent.jpg",
+  "local": true
  }
 }
