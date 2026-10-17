@@ -4028,5 +4028,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "research-learning-styles-visual-auditory-memory-research-matching-meta",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Clinton-Lisell & Litzinger, \"Is it really a neuromyth? A meta-analysis of the learning styles matching hypothesis\" (Frontiers in Psychology, 2024)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2024.1428732",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/learning-styles-visual-auditory-memory-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自分のタイプに合わせて学ぶと伸びる？",
+        "body": "「視覚型は図で、聴覚型は耳で覚えるといい」って、よく聞くよね。学習スタイルに合わせる、という考え方だよ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "21の研究をまとめて分析",
+        "body": "Clinton-LisellとLitzinger（2024）は、タイプに合わせた教え方と合わせない教え方を比べた21の研究（1,712人）をまとめたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差は小さく、説どおりは26%だけ",
+        "body": "全体では小さな差（g = 0.31）が出た。でも、それぞれのタイプが自分に合う方法で得をする、という説どおりの形は成績の指標の26%だけだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "研究の質が低い",
+        "body": "まとめた研究の質は低く、英語の研究だけが対象。著者たちも、広く取り入れるほどの効果ではないと結論しているよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
