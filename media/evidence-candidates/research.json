@@ -4674,5 +4674,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-snack-cravings-time-place-cue-why-research-chocolate-clock",
+    "category": "習慣",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "van den Akker K et al., \"Appetitive conditioning to specific times of day\" (Appetite, 2017)",
+    "sourceUrl": "https://doi.org/10.1016/j.appet.2017.05.014",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/snack-cravings-time-place-cue-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "3時になると甘いものが欲しくなる",
+        "body": "おなかは空いてないのに、決まった時間になるとお菓子が欲しくなること、あるよね。あれって、時間そのものが合図になっているのかも。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "毎日同じ時刻にチョコを食べる",
+        "body": "研究者が、大人に毎日決まった時刻にチョコレートを食べてもらい、スマホで1日に何度も「食べたい気持ち」を記録してもらったんだ。5日間と15日間の2つの研究だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "15日で「その時刻に食べたい」が育った",
+        "body": "どちらの研究でも、その時刻に「食べられそう」という期待が生まれたらしい。15日間の研究では、チョコと関係ない時刻より「食べたい」気持ちも強くなったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "5日では欲しくならなかった",
+        "body": "5日間の研究では、食べたい気持ちまでは育たなかった。何日で、どんな人に起きやすいのかは、まだはっきりしていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

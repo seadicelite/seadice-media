@@ -3052,5 +3052,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/66a3aDTMFpad.jpg/500px-66a3aDTMFpad.jpg",
   "og": "https://research.seadice.win/img/just-heard-forget-short-term-memory-why-research.jpg",
   "local": true
+ },
+ "snack-cravings-time-place-cue-why-research": {
+  "file": "File:Two cups of tea with star shaped cookies.jpg",
+  "src": "/img/snack-cravings-time-place-cue-why-research.webp",
+  "src640": "/img/snack-cravings-time-place-cue-why-research-sm.webp",
+  "w": 960,
+  "h": 641,
+  "alt": "紅茶と星形のクッキー",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Two_cups_of_tea_with_star_shaped_cookies.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_cups_of_tea_with_star_shaped_cookies.jpg/960px-Two_cups_of_tea_with_star_shaped_cookies.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_cups_of_tea_with_star_shaped_cookies.jpg/500px-Two_cups_of_tea_with_star_shaped_cookies.jpg",
+  "local": true,
+  "og": "https://research.seadice.win/img/snack-cravings-time-place-cue-why-research-og.jpg"
  }
 }
