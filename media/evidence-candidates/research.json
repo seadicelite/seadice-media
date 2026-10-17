@@ -4538,5 +4538,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "research-procrastination-unpleasant-feelings-emotion-skills-research-er-training-rct",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Schuenemann et al., \"“I’ll Worry About It Tomorrow” – Fostering Emotion Regulation Skills to Overcome Procrastination\" (Frontiers in Psychology, 2022)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2022.780675",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/procrastination-unpleasant-feelings-emotion-skills-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "先延ばしは時間管理の問題？",
+        "body": "先延ばしって、計画が下手だから起きると思われがち。でも研究者の間では、作業で湧く不安やうんざり感から逃げる行動だ、という見方が強いんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "気持ちの扱い方を9週間練習",
+        "body": "ドイツの大学生など148人をくじで2つに分けて、片方だけ9週間、嫌な気分を受け止めて、耐えて、変える練習をオンラインでしてもらったよ。もう片方は順番待ち。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "先延ばしの点数が下がった",
+        "body": "先延ばしの点数（1〜4点）は、練習した人で2.81から2.43、順番待ちの人で2.85から2.70に。練習したほうが大きく下がって、気持ちを扱う力が伸びた人ほど減っていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "思い込みの効果は消せていない",
+        "body": "比べた相手は何もしない順番待ちで、先延ばしも本人の自己評価。練習直後しか測っていないから、効果が続くかや、ほかの練習と比べてどうかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
