@@ -100,6 +100,7 @@
 
 - [社会人の学び直しで挫折した。講座や勉強を途中でやめた後、どう立て直す？やめる理由と再開の研究](https://dokugaku.seadice.win/adult-learning-dropout-restart/): やめる理由の多くは時間・支え・役立つ実感など生活の側。理由を見分け、量・目的・支えを作り直して再開する6つの手順。
 - [「いつ・どこでやるか」を決めると勉強は続くのか。実行意図（if-thenプラン）の研究](https://dokugaku.seadice.win/implementation-intentions-if-then-study/): 「もし〇〇したら△△する」と決めると目標達成に中〜大の効果。勉強での研究と効果の限界、今日書ける1文
+- [完璧にやろうとして勉強が続かない。どう立て直す？完璧主義と学びの研究](https://dokugaku.seadice.win/perfectionism-study-cannot-continue/): ミスを恐れる完璧主義は先延ばしや燃え尽きと結びつく。「8割で次へ」の線を決め、ほどほどで終えて確かめる6つの手順。
 - [勉強を何日も休んでしまったら、どう再開する？三日坊主から立て直す研究](https://dokugaku.seadice.win/restart-study-after-break/): 1日抜けても習慣づくりはほぼ崩れない。自分を責めず、前と同じ場面で5分から再開し、記録は連続日数より合計日数で数える
 - [自分で締め切りを決めると、勉強は続く？根拠の有名な実験は撤回。締め切りと「自分を縛る仕掛け」の研究（効く・効かないの判定）](https://dokugaku.seadice.win/self-imposed-deadlines-study/): 自分で決めた締め切りで先延ばしが減るとした有名な実験は再現されず2026年に撤回。自分を縛る仕掛けは条件しだい。
 - [勉強仲間がいると続くのか。一緒に学ぶ効果（協同学習・同席効果）の研究](https://dokugaku.seadice.win/study-buddy-learning-together/): 「一緒にやっている」感覚と進み具合の報告は続ける力を高める。新しい内容を覚えるのは一人の方が向く場合もある

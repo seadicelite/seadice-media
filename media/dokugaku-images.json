@@ -2651,5 +2651,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Martin_Ultima%27s_Dell.jpg/500px-Martin_Ultima%27s_Dell.jpg",
   "og": "https://dokugaku.seadice.win/img/study-reminders-cues-how-to.jpg",
   "local": true
+ },
+ "perfectionism-study-cannot-continue": {
+  "file": "File:Pencil eraser.jpg",
+  "src": "/img/perfectionism-study-cannot-continue.jpg",
+  "src640": "/img/perfectionism-study-cannot-continue-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "鉛筆と消しゴム",
+  "artist": "Alex Morfin",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pencil_eraser.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pencil_eraser.jpg/960px-Pencil_eraser.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pencil_eraser.jpg/500px-Pencil_eraser.jpg",
+  "og": "https://dokugaku.seadice.win/img/perfectionism-study-cannot-continue.jpg",
+  "local": true
  }
 }

@@ -3936,5 +3936,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-perfectionism-study-cannot-continue-aim-a-plus",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gaudreau et al., \"Because excellencism is more than good enough: On the need to distinguish the pursuit of excellence from the pursuit of perfection\" (Journal of Personality and Social Psychology, 2022)",
+    "sourceUrl": "https://doi.org/10.1037/pspp0000411",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/perfectionism-study-cannot-continue/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "完璧を目指すほど成績は上がる？",
+        "body": "どうせなら満点を目指した方が、結果もついてくる。そう思って勉強している人は多いよね。でも本当にそうなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "「完璧」と「優秀」を分けて測った",
+        "body": "5つの研究（計2,157人）で、完璧を目指す傾向と、高い水準を目指すけど完璧にはこだわらない傾向を分けて測った研究がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "A+を狙う人ほど成績は低め",
+        "body": "大学生では、完璧を目指す人ほど満点のA+を目標にしていた。ところが実際の成績は、優秀さを目指す人より悪かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "新しい尺度での最初の検証",
+        "body": "この区別を測る尺度は新しく作られたもので、これが最初の検証。性格を測った研究なので因果は言い切れないし、社会人や他の国でも同じかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
