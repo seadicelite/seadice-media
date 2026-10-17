@@ -3469,5 +3469,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-ai-consult-limits-know-first-boundary-message",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zhang Z et al., \"Privacy assurances and professional-boundary warnings in generative AI mental health chatbots: a randomized vignette experiment on calibrated trust, overreliance risk, and professional help-seeking intentions\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1934264",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-consult-limits-know-first/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIの注意書き、意味ある？",
+        "body": "AIに悩みを話すと「専門家の代わりではありません」って出ることがあるよね。あの一文、読む人の気持ちを何か変えているのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "768人に4通りの説明",
+        "body": "中国の研究チームが大学生768人に、大学の悩み相談AIの場面を想像してもらったんだ。説明文を4通りに分けて、限界を伝える一文があるかないかで比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "頼りすぎの見込みが下がった",
+        "body": "限界の一文を読んだ人は、頼りすぎる見込みが5段階で3.10から2.66に下がって、専門家に相談する気持ちは3.34から3.77に上がったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "想像の場面での答え",
+        "body": "実際にAIと話したわけじゃなくて、想像の場面での回答なんだ。本当に相談の行動が変わるかは、まだ調べられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]

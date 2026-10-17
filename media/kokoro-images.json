@@ -3714,5 +3714,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/D%C3%BClmen%2C_Wildpark_--_2018_--_1458-62.jpg/500px-D%C3%BClmen%2C_Wildpark_--_2018_--_1458-62.jpg",
   "og": "https://mentalai.seadice.win/img/fitness-app-ranking-comparison-prevent.jpg",
   "local": true
+ },
+ "ai-consult-limits-know-first": {
+  "file": "File:Staw Borki, Katowice.jpg",
+  "src": "/img/ai-consult-limits-know-first.jpg",
+  "src640": "/img/ai-consult-limits-know-first-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "朝もやの立つ静かな湖",
+  "artist": "Krzysztof Popławski",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Staw_Borki,_Katowice.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Staw_Borki%2C_Katowice.jpg/960px-Staw_Borki%2C_Katowice.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Staw_Borki%2C_Katowice.jpg/500px-Staw_Borki%2C_Katowice.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-consult-limits-know-first.jpg",
+  "local": true
  }
 }
