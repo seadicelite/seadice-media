@@ -1072,5 +1072,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Harris_County_1910_Courthouse_Restored_Houston_Texas.jpg/500px-Harris_County_1910_Courthouse_Restored_Houston_Texas.jpg",
   "og": "https://hanzai.seadice.win/img/juvenile-transfer-adult-court-recidivism-og.jpg",
   "local": true
+ },
+ "iq-school-achievement-delinquency": {
+  "file": "File:Rows of Desks in Lecture Theatre.jpg",
+  "src": "/img/iq-school-achievement-delinquency.jpg",
+  "src640": "/img/iq-school-achievement-delinquency-sm.jpg",
+  "w": 960,
+  "h": 723,
+  "alt": "誰もいない教室の机と椅子",
+  "artist": "Paul The Writer",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Rows_of_Desks_in_Lecture_Theatre.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rows_of_Desks_in_Lecture_Theatre.jpg/960px-Rows_of_Desks_in_Lecture_Theatre.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rows_of_Desks_in_Lecture_Theatre.jpg/500px-Rows_of_Desks_in_Lecture_Theatre.jpg",
+  "og": "https://hanzai.seadice.win/img/iq-school-achievement-delinquency.jpg",
+  "local": true
  }
 }
