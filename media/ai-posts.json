@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-guess-views-from-face-photo",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-17",
+  "title": "顔写真だけで、AIに考え方や性格を見抜かれる？研究では政治的な考えの推測が偶然より当たったが、当たり方は弱く、写り方の影響だという批判も強い",
+  "summary": "2人の顔からどちらが保守的かを72%当てた研究がある一方、条件をそろえると当たり方は弱く、頭の傾きの影響だという批判もあります。"
+ },
+ {
   "slug": "family-ai-fake-news-argument-repair",
   "category": "偽情報・ディープフェイク",
   "type": "guide",
