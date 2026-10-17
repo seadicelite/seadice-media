@@ -2939,5 +2939,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Laptop_on_desk_book_stacks_%28Unsplash%29.jpg/500px-Laptop_on_desk_book_stacks_%28Unsplash%29.jpg",
   "og": "https://dokugaku.seadice.win/img/why-ai-agrees-with-wrong-answer.jpg",
   "local": true
+ },
+ "why-believe-brain-myths-study-methods": {
+  "file": "File:Anatomical model of human brain, Wellcome L0010009.jpg",
+  "src": "/img/why-believe-brain-myths-study-methods.jpg",
+  "src640": "/img/why-believe-brain-myths-study-methods-sm.jpg",
+  "w": 960,
+  "h": 811,
+  "alt": "脳の模型",
+  "artist": "Unknown",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Anatomical_model_of_human_brain,_Wellcome_L0010009.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Anatomical_model_of_human_brain%2C_Wellcome_L0010009.jpg/960px-Anatomical_model_of_human_brain%2C_Wellcome_L0010009.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Anatomical_model_of_human_brain%2C_Wellcome_L0010009.jpg/500px-Anatomical_model_of_human_brain%2C_Wellcome_L0010009.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-believe-brain-myths-study-methods.jpg",
+  "local": true
  }
 }

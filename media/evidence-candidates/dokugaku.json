@@ -4616,5 +4616,73 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-why-believe-brain-myths-study-methods-neuroscience-allure",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Weisberg et al., \"The seductive allure of neuroscience explanations\" (Journal of Cognitive Neuroscience, 2008)",
+    "sourceUrl": "https://doi.org/10.1162/jocn.2008.20040",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-believe-brain-myths-study-methods/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "「脳の〇〇が」で信じてしまう？",
+        "body": "「この勉強法は前頭葉を使うから効く」。脳の話がつくと、なんだか説得力があるよね。それって本当に中身のせい？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "関係のない脳の話を足してみた",
+        "body": "米国の研究者が、心の現象のよい説明と、言い換えただけの中身のない説明を用意。そこに説明とは関係のない脳の話を足して、一般の81人に評価してもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "中身のない説明ほど上がった",
+        "body": "脳の話を足すと、中身のない説明の評価が−3〜+3の尺度で平均−0.73から0.16に上がった。よい説明の評価はほとんど変わらなかった。専門家48人では、評価は上がらなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "画像の効果は別の話",
+        "body": "短い説明文を読む実験で、勉強法を選ぶ場面ではない。「脳の画像を添えると信じやすい」という別の有名な研究は、約2,000人の再現実験でほぼ効果が見られなかった。"
+      }
+    ],
+    "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-why-believe-brain-myths-study-methods-teachers-knowledge",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Dekker et al., \"Neuromyths in education: Prevalence and predictors of misconceptions among teachers\" (Frontiers in Psychology, 2012)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2012.00429",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/why-believe-brain-myths-study-methods/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "脳に詳しければだまされない？",
+        "body": "「人は脳の10%しか使っていない」みたいな話。脳について詳しい人なら、こういう思い込みにはだまされないよね？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "教師242人に聞いてみた",
+        "body": "英国とオランダの教師242人に、脳と学習についての32の文を見せて正しいか聞いた。そのうち15は、根拠のない「神経神話」だった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "詳しい人ほど信じていた",
+        "body": "教師は神話の文の49%を正しいと答えた。「学習スタイルに合わせると覚えやすい」は英国93%、オランダ96%が信じていた。しかも、脳の一般的な知識が多い教師ほど、神話も信じやすかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "関心の高い教師の調査",
+        "body": "脳の研究に関心のある教師が自分から答えた調査で、教師全体を代表するとは限らない。知識が多いと神話を信じる理由も、この調査からはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
