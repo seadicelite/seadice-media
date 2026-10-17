@@ -3639,5 +3639,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-memory-worry-confidence-recover-memory-satisfaction-mood",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Csábi E et al., \"Predictors of subjective memory functioning in young adults\" (BMC Psychiatry, 2025)",
+    "sourceUrl": "https://doi.org/10.1186/s12888-025-06568-y",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/memory-worry-confidence-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "物忘れが多い＝記憶力が落ちた？",
+        "body": "最近よく忘れる、頭が働かない。そう感じると「記憶力が落ちたんだ」と思いがちだよね。でも、自分の記憶の感じ方って、実際の記憶力をそのまま映しているのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "若い大人125人を検査",
+        "body": "ハンガリーの研究チームが、18〜28歳の125人を調べたんだ。自分の記憶への満足度を質問紙で聞き、記憶や考える力のテストも受けてもらって、落ち込みや不安、眠りの質も測ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "結びついたのは気分のほう",
+        "body": "記憶への満足度は、テストの成績とははっきり結びつかなかったらしい。代わりに、落ち込みの得点との相関が−0.44、不安とは−0.46で、気分が沈んでいる人ほど自分の記憶に不満だったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どちらが先？",
+        "body": "一度に測った研究だから、落ち込むと記憶に自信がなくなるのか、物忘れが続いて落ち込むのかはわからないよ。対象は若い大人125人だけで、別の研究ではテストの成績と結びついた結果もあるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
