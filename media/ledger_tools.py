@@ -88,6 +88,8 @@ BODY = """<script type="application/ld+json">%LD%</script>
 
 <p class="answer">衝動買いは、その場で決めずに時間を置くと防ぎやすくなります。空腹・落ち込み・「本日限り」の焦りは衝動買いと結びついていて、待つあいだにその状態から離れて選び直せます。</p>
 
+<p>返済が苦しい、残高が大きくて返す見通しが立たないときの順番は<a href="/revolving-debt-recovery-steps/">リボ払いを使いすぎたと気づいたら</a>に、貯金とリボ残高を両方持っているときの考え方は<a href="/revolving-balance-savings-calculator/">リボ残高と貯金の計算表</a>にまとめました。</p>
+
 <h2>このツールのしくみと根拠</h2>
 <ul>
 <li><b>待つリスト</b>：その場では決めず、時間を置いてから「まだ欲しい？」に答えます。買い物リストや予算のように「誘惑の前に決めておく」工夫は、29の研究のまとめで、支出を減らし貯金を増やす方向に中くらいの効果がありました（d=0.57）。<a href="/impulse-buying-pre-purchase-checklist/">解説記事</a></li>
@@ -237,6 +239,8 @@ RB_FAQ = [
      "このページは「毎月の残高 × 年率 ÷ 12」で1か月の手数料を出す目安です。実際のカード会社の計算は日割り（残高 × 年率 ÷ 365 × 日数）が多く、締め日・支払日・新しい利用で変わります。正確な額はカードの明細や会員ページで確かめてください。"),
     ("毎月の返済額を増やすと、どれくらい変わりますか？",
      "残高30万円・年15％・手数料こみで毎月1万円なら、返し終わるまで約38か月、手数料の合計は約7万8,000円です。毎月2万円にすると約17か月・約3万4,000円になります（このページの計算）。期間と総額を並べて見ると、違いに気づきやすくなります。"),
+    ("残高スライド方式のカードでも使えますか？",
+     "残高に応じて毎月の返済額が変わる「残高スライド方式」は、このページでは計算できません。いまの明細の毎月の返済額を入れると、その額を払い続けた場合の目安になります。実際は残高が減ると毎月の額も下がるため、返し終わるまでの期間はこれより長くなります。"),
     ("入力した金額は、どこかに送られたり保存されたりしますか？",
      "送られず、保存もされません。計算はこのブラウザの中だけで行い、ページを閉じると消えます。"),
     ("自動リボを解除すれば、残高は一括払いになりますか？",
@@ -249,12 +253,13 @@ RB_SOURCES = [
     ("Keys, B. J., & Wang, J. (2019). Minimum Payments and Debt Paydown in Consumer Credit Cards. Journal of Financial Economics, 131(3), 528–548.", "https://doi.org/10.1016/j.jfineco.2018.09.009"),
     ("Shin, F., Cohen, D., Lawless, R. M., & Preston, J. L. (2020). The Hedonics of Debt. Frontiers in Psychology, 11, 537606.", "https://doi.org/10.3389/fpsyg.2020.537606"),
     ("Schonger, M., & Sele, D. (2021). Intuition and exponential growth: bias and the roles of parameterization and complexity. Mathematische Semesterberichte, 68, 221-235.", "https://doi.org/10.1007/s00591-021-00306-7"),
+    ("消費者庁「消費者ホットライン」", "https://www.caa.go.jp/policies/policy/local_cooperation/local_consumer_administration/hotline/"),
     ("国民生活センター「『自動リボ払い』を解除したはずなのに、リボ払いが終わらない？」", "https://www.kokusen.go.jp/t_box/data/t_box-faq_qa2017_24.html"),
 ]
 rb_ld = {"@context": "https://schema.org", "@graph": [
     {"@type": "WebApplication", "name": "リボ払いの返済シミュレーション", "url": RB_URL, "applicationCategory": "FinanceApplication",
      "operatingSystem": "Any", "isAccessibleForFree": True, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "JPY"},
-     "description": "リボ払いの残高・手数料率・毎月の返済額を入れると、返し終わるまでの月数と手数料の合計を計算し、返済額を増やした場合や一部を繰り上げ返済した場合と並べて比べられる。元利定額・元金定額の両方に対応。無料・登録不要・入力は送信しない。",
+     "description": "リボ払いの残高・手数料率・毎月の返済額を入れると、返し終わるまでの月数と手数料の合計を計算し、返済額を増やした場合や一部を繰り上げ返済した場合と並べて比べられる。毎月の新しい利用も入れられる。元利定額・元金定額の両方に対応。無料・登録不要・入力は送信しない。",
      "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}},
     {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in RB_FAQ]}]}
 
@@ -269,6 +274,9 @@ RB_BODY = """<script type="application/ld+json">%LD%</script>
 <p class="rb-hint">カードの明細や会員ページに書いてあります。わからなければ15％のままで目安になります。</p>
 <label for="rb-pay">毎月の返済額（円）</label>
 <input id="rb-pay" inputmode="numeric" maxlength="9" value="10000" autocomplete="off">
+<label for="rb-use">毎月の新しいリボ利用（任意・円）</label>
+<input id="rb-use" inputmode="numeric" maxlength="9" placeholder="0" autocomplete="off">
+<p class="rb-hint">リボ払いで使い続けると、返しても残高はなかなか減りません。毎月使う額を入れると、その場合の期間と、使うのをやめた場合を並べて出します。</p>
 <fieldset class="rb-mode"><legend>返済の方式</legend>
 <label><input type="radio" name="mode" value="ri" checked><span>手数料こみで毎月同じ額<small>元利定額</small></span></label>
 <label><input type="radio" name="mode" value="gan"><span>毎月の額＋手数料<small>元金定額</small></span></label>
@@ -278,7 +286,7 @@ RB_BODY = """<script type="application/ld+json">%LD%</script>
 <p class="rb-hint">貯金から一部を繰り上げ返済した場合も並べて出します。急な出費に備える分は手元に残してください。</p>
 </form>
 
-<div class="rb-out" id="rb-out" aria-live="polite"></div>
+<div class="rb-out" id="rb-out" aria-live="polite" aria-atomic="true"></div>
 <noscript><p class="note">計算にはJavaScriptを使います。目安は、下の「計算の例」の表で読めます。</p></noscript>
 
 <p class="answer">リボ払いは毎月の額が小さく見えても、返す期間が長くなるほど手数料が積み上がります。残高30万円・年15％・毎月1万円なら、返し終わるまで約38か月、手数料は約7万8,000円です。毎月の額だけでなく、期間と総額を並べて確かめるのが大切です。</p>
@@ -287,7 +295,7 @@ RB_BODY = """<script type="application/ld+json">%LD%</script>
 <ul>
 <li><b>期間と総額を並べて出す</b>：米国の大学生の実験では、5年・10年・15年のローンで「毎月払ってよい」とした額の平均が360・385・351ドルとほぼ同じで、期間の長さが意識から抜けていました。10年と15年を並べて見せると、15年の方に低い月額（334.76ドル対368.78ドル）をつけました。だからこのツールは、いまの返済額と、増やした場合を必ず並べます。<a href="/debt-interest-underestimation-exponential-growth-bias/">解説記事</a></li>
 <li><b>最低額ではなく自分で決める</b>：架空の利用明細を使った実験では、「最低支払額」が示されると、示されない場合より返済すると答えた額が少なくなりました。米国のカード口座の分析では、29％が最低額ちょうどか、それに近い額を定期的に返していました。<a href="/revolving-payment-anchoring-bias/">解説記事</a></li>
-<li><b>倍になる年数で見る</b>：増え方を「増加率」で示すと、実際は約1万3,000になる問題の答えの中央値は5,000でしたが、「何日で倍になるか」で示すと1万5,000と実際に近づきました。このツールは、何も返さないと残高が倍になるおよその年数（72÷年率）も出します。<a href="/debt-interest-underestimation-exponential-growth-bias/">解説記事</a></li>
+<li><b>倍になる年数で見る</b>：増え方を「増加率」で示すと、実際は約1万3,000になる問題の答えの中央値は5,000でしたが、「何日で倍になるか」で示すと1万5,000と実際に近づきました。このツールは参考として、年1回利息にも利息がつく借金なら何年で倍になるか（72÷年率の目安）も出します。<a href="/debt-interest-underestimation-exponential-growth-bias/">解説記事</a></li>
 <li><b>一部を繰り上げ返済した場合</b>：貯金とリボ残高を同時に持つと、手数料率と預金金利の差の分だけ損が出ます。手元に残す額を先に決め、それを超える分を返済に回します。<a href="/revolving-balance-savings-calculator/">解説記事</a></li>
 </ul>
 <p class="note">計算は「毎月の残高 × 年率 ÷ 12」で手数料を出し、新しい利用はないものとした目安です。実際のカード会社の計算（日割り・締め日・支払日）とは少し違います。借入れや返済についての助言ではありません。</p>
@@ -311,35 +319,40 @@ RB_BODY = """<script type="application/ld+json">%LD%</script>
 <script>
 (function(){
 function $(i){return document.getElementById(i)}
-function num(s){s=String(s).replace(/[０-９．]/g,function(c){return String.fromCharCode(c.charCodeAt(0)-65248)}).replace(/[^0-9.]/g,'');return s?parseFloat(s):0}
+function num(s){s=String(s).replace(/[０-９．，]/g,function(c){return String.fromCharCode(c.charCodeAt(0)-65248)}).replace(/[,\s円%％]/g,'');if(!s)return 0;
+ var m=s.match(/^(\d+(?:\.\d+)?)(万(\d+)?)?$/);if(!m)return NaN;var v=parseFloat(m[1]);if(m[2])v=v*10000+(m[3]?parseInt(m[3],10):0);return v}
 function yen(v){return Math.round(v).toLocaleString('ja-JP')+'円'}
 function per(m){var y=Math.floor(m/12),r=m%12;return m+'か月'+(y?'（'+y+'年'+(r?r+'か月':'')+'）':'')}
-function sim(b,a,p,mode){var r=a/1200,m=0,fee=0;if(b<=0)return{m:0,fee:0};
- if(mode==='ri'&&p<=b*r)return null;if(p<=0)return null;
- while(b>0.5&&m<1200){var f=b*r,pr=mode==='ri'?Math.min(p-f,b):Math.min(p,b);fee+=f;b-=pr;m++}
- return m>=1200?null:{m:m,fee:fee}}
-function row(lbl,b,a,p,mode,base,cls){var s=sim(b,a,p,mode);
- if(!s)return'<tr'+(cls?' class="'+cls+'"':'')+'><th>'+lbl+'</th><td colspan="3">この額では手数料を払うだけで残高が減りません</td></tr>';
- var d=base&&base.fee>s.fee?'<small>手数料 '+yen(base.fee-s.fee)+' 少ない</small>':'';
- return'<tr'+(cls?' class="'+cls+'"':'')+'><th>'+lbl+'</th><td>'+per(s.m)+'</td><td>'+yen(s.fee)+d+'</td><td>'+yen(b+s.fee)+'</td></tr>'}
-function calc(){var b=num($('rb-bal').value),a=num($('rb-rate').value),p=num($('rb-pay').value),l=num($('rb-lump').value),
+function sim(b,a,p,mode,u){var r=a/1200,m=0,fee=0,paid=0;if(b<=0.5)return{m:0,fee:0,paid:0};
+ var net=mode==='ri'?p-b*r-u:p-u;if(p<=0||net<=0)return{err:'nodec'};
+ while(m<1200){var f=b*r,pr=mode==='ri'?Math.min(p-f,b):Math.min(p,b);fee+=f;paid+=pr+f;b-=pr;m++;if(b<=0.5)return{m:m,fee:fee,paid:paid};b+=u}
+ return{err:'long'}}
+function why(s,p,u){return s.err==='long'?'100年以上かかります':'毎月'+yen(p)+'では'+(u>0?'新しい利用と手数料の分だけで消え、':'手数料を払うだけで')+'残高が減りません'}
+function row(lbl,b,a,p,mode,u,base,cls,pre){var s=sim(b,a,p,mode,u),c=cls?' class="'+cls+'"':'';
+ if(s.err)return'<tr'+c+'><th scope="row">'+lbl+'</th><td colspan="3">'+why(s,p,u)+'</td></tr>';
+ var d=base&&!base.err&&base.fee>s.fee+0.5?'<small>手数料 '+yen(base.fee-s.fee)+' 少ない</small>':'';
+ return'<tr'+c+'><th scope="row">'+lbl+'</th><td>'+per(s.m)+'</td><td>'+yen(s.fee)+d+'</td><td>'+yen(s.paid+(pre||0))+'</td></tr>'}
+function calc(){var b=num($('rb-bal').value),a=num($('rb-rate').value),p=num($('rb-pay').value),u=num($('rb-use').value),l=num($('rb-lump').value),
  mode=document.querySelector('input[name=mode]:checked').value,o=$('rb-out');
- if(b<=0||p<=0||a<0||a>100){o.innerHTML='<p class="rb-err">残高・手数料率・毎月の返済額を数字で入れてください。</p>';return}
- var s=sim(b,a,p,mode),fee1=b*a/1200;
- if(!s){o.innerHTML='<div class="rb-main rb-bad"><p class="rb-k">このままでは返し終わりません</p><p>1か月目の手数料は約'+yen(fee1)+'で、毎月'+yen(p)+'の返済では残高が減りません。返済額を増やすか、カード会社や消費者ホットライン（188）に相談してください。</p></div>';return}
- var pp=Math.round(b>0?b/(b+s.fee)*100:100),step=p<10000?5000:10000,rows='';
- rows+=row('いま（毎月'+yen(p)+'）',b,a,p,mode,null,'rb-now');
- rows+=row('毎月'+yen(p+step),b,a,p+step,mode,s);
- rows+=row('毎月'+yen(p+step*2),b,a,p+step*2,mode,s);
- if(l>0&&l<b)rows+=row(yen(l)+'を先に返す',b-l,a,p,mode,s);
+ if([b,a,p,u,l].some(isNaN)){o.innerHTML='<p class="rb-err">金額は数字で入れてください（例：300000、30万）。マイナスや記号は使えません。</p>';return}
+ if(b<=0||p<=0||a>100){o.innerHTML='<p class="rb-err">残高・手数料率・毎月の返済額を入れてください（手数料率は100以下）。</p>';return}
+ var s=sim(b,a,p,mode,u),fee1=b*a/1200;
+ if(s.err){o.innerHTML='<div class="rb-main rb-bad"><p class="rb-k">このままでは返し終わりません</p><p>'+(s.err==='long'?'この返し方では、返し終わるまで100年以上かかります。':'1か月目の手数料は約'+yen(fee1)+'で、'+why(s,p,u)+'。')+'返済額を増やす'+(u>0?'か、リボでの新しい利用を止める':'')+'ことを考えてください。返せそうにないときは、カード会社や消費者ホットライン（188）に相談できます。</p></div>';return}
+ var pp=Math.min(100,Math.round(s.paid>0?(s.paid-s.fee)/s.paid*100:100)),step=p<10000?5000:10000,rows='';
+ rows+=row('いま（毎月'+yen(p)+'）',b,a,p,mode,u,null,'rb-now');
+ if(u>0)rows+=row('新しい利用をやめる',b,a,p,mode,0,s);
+ rows+=row('毎月'+yen(p+step),b,a,p+step,mode,u,s);
+ rows+=row('毎月'+yen(p+step*2),b,a,p+step*2,mode,u,s);
+ if(l>0)rows+=l<b?row(yen(l)+'を先に返す',b-l,a,p,mode,u,s,'',l):'<tr><th scope="row">'+yen(l)+'を先に返す</th><td colspan="3">残高を一度に返せます（手数料はこれ以上かかりません）</td></tr>';
  o.innerHTML='<div class="rb-main"><p class="rb-k">返し終わるまで</p><p class="rb-big">'+per(s.m)+'</p>'+
-  '<dl class="rb-dl"><div><dt>手数料の合計</dt><dd>'+yen(s.fee)+'</dd></div><div><dt>支払いの合計</dt><dd>'+yen(b+s.fee)+'</dd></div></dl>'+
-  '<div class="rb-bar" role="img" aria-label="支払いの合計のうち、元の残高が'+pp+'％、手数料が'+(100-pp)+'％"><span style="width:'+pp+'%"></span></div>'+
-  '<p class="rb-leg"><i class="a"></i>元の残高 '+pp+'％　<i class="b"></i>手数料 '+(100-pp)+'％</p>'+
-  '<p class="rb-sub">いまの1か月の手数料は約'+yen(fee1)+'。何も返さないと、残高はおよそ'+(a>0?(72/a).toFixed(1)+'年':'—')+'で倍になります（72÷年率）。</p></div>'+
-  '<h3 class="rb-h">並べて比べる</h3><div class="rb-scroll"><table class="rb-t rb-cmp"><tr><th>返し方</th><th>終わるまで</th><th>手数料の合計</th><th>支払いの合計</th></tr>'+rows+'</table></div>'+
-  '<p class="rb-n">新しい利用はないものとした目安です。'+(mode==='ri'?'手数料こみで毎月同じ額を払う方式（元利定額）で計算しました。':'毎月の額に手数料を足して払う方式（元金定額）で計算しました。')+'</p>'}
-['rb-bal','rb-rate','rb-pay','rb-lump'].forEach(function(id){$(id).addEventListener('input',calc)});
+  '<dl class="rb-dl"><div><dt>手数料の合計</dt><dd>'+yen(s.fee)+'</dd></div><div><dt>支払いの合計</dt><dd>'+yen(s.paid)+'</dd></div></dl>'+
+  '<div class="rb-bar" role="img" aria-label="支払いの合計のうち、使った分が'+pp+'％、手数料が'+(100-pp)+'％"><span style="width:'+pp+'%"></span></div>'+
+  '<p class="rb-leg"><i class="a"></i>使った分 '+pp+'％　<i class="b"></i>手数料 '+(100-pp)+'％</p>'+
+  '<p class="rb-sub">いまの1か月の手数料は約'+yen(fee1)+'。'+(mode==='gan'?'1か月目に払う額は約'+yen(Math.min(p,b)+fee1)+'（返済額＋手数料）です。':'')+(u>0?'毎月'+yen(u)+'の新しい利用を続けた場合の計算です。':'')+'</p>'+
+  (a>0?'<p class="rb-n">参考：年1回、利息にも利息がつく借金なら、何も返さないとおよそ'+(72/a).toFixed(1)+'年で倍になる計算です（72÷年率の目安）。リボ払いは返さないと延滞になり、この増え方とは違います。</p>':'')+'</div>'+
+  '<h3 class="rb-h">並べて比べる</h3><div class="rb-scroll"><table class="rb-t rb-cmp"><tr><th scope="col">返し方</th><th scope="col">終わるまで</th><th scope="col">手数料の合計</th><th scope="col">支払いの合計</th></tr>'+rows+'</table></div>'+
+  '<p class="rb-n">'+(u>0?'':'新しい利用はないものとした目安です。')+(mode==='ri'?'手数料こみで毎月同じ額を払う方式（元利定額）で計算しました。':'毎月の額に手数料を足して払う方式（元金定額）で計算しました。')+'</p>'}
+['rb-bal','rb-rate','rb-pay','rb-use','rb-lump'].forEach(function(id){$(id).addEventListener('input',calc)});
 $('rb-form').addEventListener('change',calc);
 calc();
 })();
@@ -366,7 +379,7 @@ RB_CSS = (".rb-box{background:var(--card);border:1.5px solid var(--text);border-
           ".rb-dl{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:0}.rb-dl dt{font-size:13px;color:var(--muted)}.rb-dl dd{margin:0;font-size:20px;font-weight:800}"
           ".rb-bar{display:flex;height:14px;background:var(--accent);border-radius:4px;overflow:hidden;margin:14px 0 6px}.rb-bar span{display:block;height:100%;background:var(--accent2)}"
           ".xbody .rb-leg{font-size:13px;color:var(--muted);margin:0}.rb-leg i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:4px;vertical-align:middle}.rb-leg .a{background:var(--accent2)}.rb-leg .b{background:var(--accent)}"
-          ".xbody .rb-sub{font-size:14px;margin:10px 0 0;line-height:1.7}"
+          ".xbody .rb-sub{font-size:14px;margin:10px 0 0;line-height:1.7}.xbody .rb-sub:empty{display:none}"
           ".rb-h{font-size:17px;margin:22px 0 8px}.rb-scroll{overflow-x:auto}"
           ".rb-t{width:100%;border-collapse:collapse;margin:12px 0;font-size:14px}.rb-t caption{text-align:left;font-size:13px;color:var(--muted);margin-bottom:6px}"
           ".rb-t th,.rb-t td{border:1px solid var(--border);padding:10px;text-align:left;vertical-align:top}.rb-t th{background:var(--card)}"
@@ -382,7 +395,7 @@ RB_CSS = (".rb-box{background:var(--card);border:1.5px solid var(--text);border-
 PAGES.append({"path": "ribo-keisan", "title": "リボ払いの返済シミュレーション",
               "seo_title": "リボ払いの返済シミュレーション｜手数料の合計と返し終わるまでの期間を計算（無料）",
               "date": "2026-10-17",
-              "desc": "リボ払いの残高・手数料率・毎月の返済額を入れると、返し終わるまでの月数と手数料の合計がわかる計算ツール。返済額を増やした場合・繰り上げ返済した場合と並べて比べられる。元利定額・元金定額に対応。無料・登録不要・入力は送信しない。",
+              "desc": "リボ払いの残高・手数料率・毎月の返済額を入れると、返し終わるまでの月数と手数料の合計がわかる計算ツール。返済額を増やした場合・繰り上げ返済した場合と並べて比べられる。毎月の新しい利用も入れられる。元利定額・元金定額に対応。無料・登録不要・入力は送信しない。",
               "body": RB_BODY, "css": RB_CSS})
 
 if __name__ == "__main__":
