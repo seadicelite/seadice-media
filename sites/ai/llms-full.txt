@@ -5678,7 +5678,7 @@ Andersonら（2025） [2]
 
 Koeneckeら（2020） [3]
 
-大手5社の音声認識システムで、インタビューの音声を文字にしました。単語の誤り率は、黒人の話し手で平均0.35、白人の話し手で平均0.19と、5つすべてで大きな差がありました。同じ文を読んだ部分でも差は同じくらい大きく、話し方や声によって誤りやすさが変わることが示されました。
+大手5社の音声認識システムで、インタビューの音声を文字にしました。単語の誤り率は、黒人の話し手で平均0.35、白人の話し手で平均0.19と、5つすべてで大きな差がありました。黒人と白人が同じ言い回しを話した部分でも差は同じくらい大きく、話し方や声によって誤りやすさが変わることが示されました。
 
 対象: 米国の5都市の黒人73人と白人42人、合わせて19.8時間の音声 ／ 限界: 英語の研究で、日本語の会議で同じような差があるかはわかりません。
 
@@ -5873,7 +5873,7 @@ A. 使うかどうかは本人が決めてよく、研究も禁止を勧めて�
 
 - Zhang Z, Lu X, Zhang Y, Zhang H, Zhang M (2026). Privacy assurances and professional-boundary warnings in generative AI mental health chatbots: a randomized vignette experiment. Frontiers in Psychology, 17, 1934264. https://doi.org/10.3389/fpsyg.2026.1934264
 
-- Ellis JR, Dellavalle NS, Hamer MK, et al. (2025). The Halo Effect: Perceptions of Information Privacy Among Healthcare Chatbot Users. Journal of the American Geriatrics Society. https://doi.org/10.1111/jgs.19393
+- Ellis JR, Dellavalle NS, Hamer MK, et al. (2025). The Halo Effect: Perceptions of Information Privacy Among Healthcare Chatbot Users. Journal of the American Geriatrics Society, 73(5), 1472-1483. https://doi.org/10.1111/jgs.19393
 
 - Sawesi S, Sabbineni H, Shagamreddy RR, Rashrash B (2026). Cybersecurity and Privacy Risks of Generative AI Mental-Health Chatbots: A Systematic Review and Regulatory Framework. Journal of Multidisciplinary Healthcare, 19. https://doi.org/10.2147/JMDH.S581251
 
