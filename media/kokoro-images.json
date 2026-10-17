@@ -3876,5 +3876,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cup_of_black_tea.JPG/500px-Cup_of_black_tea.JPG",
   "og": "https://mentalai.seadice.win/img/stuck-ideas-step-away.jpg",
   "local": true
+ },
+ "coloring-info-fatigue": {
+  "file": "File:Colouring pencils.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Colouring_pencils.jpg/960px-Colouring_pencils.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Colouring_pencils.jpg/500px-Colouring_pencils.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "色鉛筆",
+  "artist": "MichaelMaggs",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Colouring_pencils.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

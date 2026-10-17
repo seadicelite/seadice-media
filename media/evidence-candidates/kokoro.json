@@ -3775,5 +3775,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-coloring-info-fatigue-mandala",
+    "category": "ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Koo et al., \"Coloring Activities for Anxiety Reduction and Mood Improvement in Taiwanese Community-Dwelling Older Adults: A Randomized Controlled Study\" (Evidence-Based Complementary and Alternative Medicine, 2020)",
+    "sourceUrl": "https://doi.org/10.1155/2020/6964737",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/coloring-info-fatigue/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "大人の塗り絵で心が落ち着く？",
+        "body": "「塗り絵はストレス解消になる」ってよく聞くよね。本当に気持ちは落ち着くのか、台湾の研究チームが実験で確かめたらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "4つの過ごし方で20分",
+        "body": "55〜75歳の120人に、まずこわかった出来事を思い出してもらって不安を高めた。そのあと、まんだらの塗り絵、チェック柄の塗り絵、自由に描く、読書のどれかで20分過ごしてもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "読書より低かったのはまんだらだけ",
+        "body": "20分後の不安の点数（20〜80点）は、まんだらの組が28.2点、読書の組が36.0点。チェック柄や自由に描く組は、読書の組とはっきりした差がなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回20分の、直後の話",
+        "body": "見たのは1回の直後の変化だけで、続けたときの効果はわからない。使ったまんだらは1種類だけ。英国の大学生の実験では、まんだらと自由に描くのとで差がなかった。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
