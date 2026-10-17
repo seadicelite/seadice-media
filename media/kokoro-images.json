@@ -3857,5 +3857,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mountains_in_snow%2C_Mountain_lake%2C_Chola_Valley%2C_Nepal%2C_Himalayas.jpg/500px-Mountains_in_snow%2C_Mountain_lake%2C_Chola_Valley%2C_Nepal%2C_Himalayas.jpg",
   "og": "https://mentalai.seadice.win/img/comparison-awe-nature-video-og.jpg",
   "local": true
+ },
+ "ai-choose-for-me-coin-flip": {
+  "file": "File:Fork in the road.jpg",
+  "src": "/img/ai-choose-for-me-coin-flip.jpg",
+  "src640": "/img/ai-choose-for-me-coin-flip-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "二つに分かれる道",
+  "artist": "Wikideas1",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Fork_in_the_road.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fork_in_the_road.jpg/960px-Fork_in_the_road.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fork_in_the_road.jpg/500px-Fork_in_the_road.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-choose-for-me-coin-flip.jpg",
+  "local": true
  }
 }

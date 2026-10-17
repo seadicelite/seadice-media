@@ -3843,5 +3843,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-ai-choose-for-me-coin-flip-catalyst",
+    "category": "AIと心",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Jaffé et al., \"Catalyzing decisions: How a coin flip strengthens affective reactions\" (PLOS ONE, 2019)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0220736",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-choose-for-me-coin-flip/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "迷ったらコイン、って意味ある？",
+        "body": "どっちも決め手がないとき、コインを投げる人っているよね。でも結果に従わないことも多い。じゃあコインって何の役に立ってるんだろう？スイスの研究チームが実験したらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "架空のレストランで料理選び",
+        "body": "78人がネット上で、5品のコース料理を2択ずつ選んだ。選ぶ前に毎回コインを投げて、半分の人は「コインはおすすめを示す道具」、残りは「コインは無視して」と言われていたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "結果を見た瞬間、気持ちが見えた",
+        "body": "コインを手がかりにした組は、直後に「どっちがいいか」の感覚が7点満点で3.85点。無視した組は2.10点だった。しかもコインどおりに選ぶ人が増えたわけじゃなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大事な決断でも同じ？",
+        "body": "調べたのは架空の料理選びという小さな決断で、気持ちも本人の申告。転職みたいな大きな決断や、AIに選んでもらう場面でも同じことが起きるかは、まだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
