@@ -3982,5 +3982,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wooden_table_with_notebook.jpg/500px-Wooden_table_with_notebook.jpg",
   "og": "https://mentalai.seadice.win/img/ai-job-worry-ai-literacy.jpg",
   "local": true
+ },
+ "mind-wandering-why": {
+  "file": "File:My room, window with a light curtain.jpg",
+  "src": "/img/mind-wandering-why.jpg",
+  "src640": "/img/mind-wandering-why-sm.jpg",
+  "w": 960,
+  "h": 489,
+  "alt": "窓から光が差し込む静かな部屋",
+  "artist": "Tarasna0922",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:My_room,_window_with_a_light_curtain.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/My_room%2C_window_with_a_light_curtain.jpg/960px-My_room%2C_window_with_a_light_curtain.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/My_room%2C_window_with_a_light_curtain.jpg/500px-My_room%2C_window_with_a_light_curtain.jpg",
+  "og": "https://mentalai.seadice.win/img/mind-wandering-why.jpg",
+  "local": true
  }
 }

@@ -4081,5 +4081,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-mind-wandering-why-daily-rate",
+    "category": "考える力・集中",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Song & Wang, \"Mind wandering in Chinese daily lives: an experience sampling study\" (PLoS ONE, 2012)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0044423",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/mind-wandering-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "気づくと上の空、自分だけ？",
+        "body": "資料を読んでいたはずが、気づくと週末のことを考えてた…ってあるよね。日常でどのくらい心がさまよっているのか、実際に記録した研究があるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1日6回「今どこにいた？」",
+        "body": "中国の大学生165人に、3日間、1日6回届くメッセージの瞬間に、心がさまよっていたかを記録してもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "約4分の1は上の空",
+        "body": "心がさまよっていたのは平均24.4%。作業に集中しているときや得意な作業では少なかった。88.2%は本人がきっかけを思い当たり、先のことを考えている場面も多かったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "働く人でも同じ？",
+        "body": "大学生だけの、自分で振り返った記録なんだ。働く人の仕事中にどのくらい起きるか、スマホやAIで増えたのかは、この研究からはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
