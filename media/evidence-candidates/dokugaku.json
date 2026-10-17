@@ -4378,5 +4378,73 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-why-focus-fades-over-time-studying-lecture-attention-decline",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Farley et al., \"Everyday attention and lecture retention: the effects of time, fidgeting, and mind wandering\" (Frontiers in Psychology, 2013)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2013.00619",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-focus-fades-over-time-studying/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "後半になると集中が切れる",
+        "body": "勉強を始めたときは集中できていたのに、30分もすると字が頭に入らない。これって自分だけ？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "40分の講義動画で確かめた",
+        "body": "カナダの大学生21人が40分の心理学の講義動画を見て、5分ごとに「集中できていたか」を7点満点でつけた。あとで内容のテストもした。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "6.0点から4.9点へ",
+        "body": "集中の点は最初の5分の6.0から最後の5分の4.9まで下がった。集中していた区間ほど内容を覚えていて、後半の内容は前半より覚えていなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "21人・講義1本の実験",
+        "body": "人数が少なく、講義は1本だけ。笑い話の入った区間はよく覚えられていて、中身の面白さでも結果は変わる。"
+      }
+    ],
+    "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-why-focus-fades-over-time-studying-15-minute-attention-myth",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bradbury, \"Attention span during lectures: 8 seconds, 10 minutes, or more?\" (Advances in Physiology Education, 2016)",
+    "sourceUrl": "https://doi.org/10.1152/advan.00109.2016",
+    "studyType": "レビュー",
+    "articleUrl": "https://dokugaku.seadice.win/why-focus-fades-over-time-studying/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "集中は15分が限界？",
+        "body": "「人の集中は10〜15分しか続かない」という話はよく聞く。これを理由に講義を15分に区切った大学まであるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "元になった研究をたどった",
+        "body": "講義中の学生の集中についての研究を、元の文献までさかのぼって調べ直したレビューがある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "直接のデータは乏しかった",
+        "body": "最もよく引かれる文献は、学生の集中をほとんど扱っていなかった。測った研究も方法に問題が多く、10〜15分の限界は支持されないという結論。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "集中が落ちないわけではない",
+        "body": "「15分」という数字に根拠がないだけで、長く続けると集中が落ちること自体は別の実験で見られている。差を一番生んでいたのは教える人の違いだった。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
