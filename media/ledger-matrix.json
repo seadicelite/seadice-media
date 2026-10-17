@@ -262,7 +262,9 @@
         "after": [
           "debt-repayment-small-victories"
         ],
-        "use": []
+        "use": [
+          "https://ledger.seadice.win/ribo-keisan/"
+        ]
       }
     },
     {
