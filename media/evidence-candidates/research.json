@@ -4640,5 +4640,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-just-heard-forget-short-term-memory-why-research-magic-four",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Cowan, \"The Magical Mystery Four: How is Working Memory Capacity Limited, and Why?\" (Current Directions in Psychological Science, 2010)",
+    "sourceUrl": "https://doi.org/10.1177/0963721409359277",
+    "studyType": "レビュー",
+    "articleUrl": "https://research.seadice.win/just-heard-forget-short-term-memory-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "人が一度に覚えられるのは7個？",
+        "body": "「人が一度に覚えられるのは7個前後」ってよく聞くよね。1956年にMillerという研究者がまとめて有名になった数字なんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "工夫を止めて測り直した",
+        "body": "その後の研究では、頭の中でくり返したり、いくつかを1つにまとめたりする工夫を防いで測り直したよ。たとえば、ずっと「the」と言わせながら覚えてもらう方法。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "本当は3〜5個ほど",
+        "body": "若い大人が一度に頭に置けるのは3〜5個、だいたい4個前後らしい。「the」と言い続けると約3個。7歳の子どもは約1.5個という推定もあるんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "なぜ4個なのかは謎",
+        "body": "何を「1個のまとまり」と数えるかで数字は変わるし、なぜ限界が4個ほどなのかは、まだはっきりしていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
