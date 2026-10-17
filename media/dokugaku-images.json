@@ -2687,5 +2687,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Zempl%C3%ADn_Museum_in_Michalovce_-_History_permanent_exhibition_-_West_corner_tower_of_the_manor_house_-_Study_of_count_Alexander_Szt%C3%A1ray%2C_desk_%28desktop_close-up%29.jpg/500px-thumbnail.jpg",
   "og": "https://dokugaku.seadice.win/img/why-studying-feels-effortful-mental-effort.jpg",
   "local": true
+ },
+ "group-study-not-sticking-fix": {
+  "file": "File:Zemplín Museum in Michalovce - History permanent exhibition - Dining room - Furniture set from the WWI and first Czechoslovak Republic eras, 1910-1930, extendable (draw extension) dining table, six chairs 07.jpg",
+  "src": "/img/group-study-not-sticking-fix.jpg",
+  "src640": "/img/group-study-not-sticking-fix-sm.jpg",
+  "w": 960,
+  "h": 719,
+  "alt": "木のテーブルといす",
+  "artist": "ZemplinTemplar",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Zempl%C3%ADn_Museum_in_Michalovce_-_History_permanent_exhibition_-_Dining_room_-_Furniture_set_from_the_WWI_and_first_Czechoslovak_Republic_eras,_1910-1930,_extendable_(draw_extension)_dining_table,_six_chairs_07.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Zempl%C3%ADn_Museum_in_Michalovce_-_History_permanent_exhibition_-_Dining_room_-_Furniture_set_from_the_WWI_and_first_Czechoslovak_Republic_eras%2C_1910-1930%2C_extendable_%28draw_extension%29_dining_table%2C_six_chairs_07.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Zempl%C3%ADn_Museum_in_Michalovce_-_History_permanent_exhibition_-_Dining_room_-_Furniture_set_from_the_WWI_and_first_Czechoslovak_Republic_eras%2C_1910-1930%2C_extendable_%28draw_extension%29_dining_table%2C_six_chairs_07.jpg/500px-thumbnail.jpg",
+  "og": "https://dokugaku.seadice.win/img/group-study-not-sticking-fix.jpg",
+  "local": true
  }
 }

@@ -4038,5 +4038,73 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-group-study-not-sticking-fix-group-exam-retention",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Leight et al., \"Collaborative testing improves performance but not content retention in a large-enrollment introductory biology class\" (CBE—Life Sciences Education, 2012)",
+    "sourceUrl": "https://doi.org/10.1187/cbe.12-04-0048",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/group-study-not-sticking-fix/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "みんなで解けば身につく？",
+        "body": "一人より仲間と問題を解いた方が、よくわかって身につく気がするよね。グループで試験を受けると記憶に残るのかを、大学の授業で確かめた研究がある。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "グループ試験あり・なしを入れかえ",
+        "body": "アメリカの大学の生物学入門の授業で、学生を2つに分けた。個人で試験を受けたあとグループでも受ける組と、個人だけの組を、試験ごとに入れかえてくらべた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "点は上がったが、残った量は同じ",
+        "body": "グループで受けた試験の点は個人より10ポイント以上高く、93.9%の学生が個人より高い点だった。でも次の試験で同じ内容を問われたときの正答数は、2つの組で差がなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1つの授業の結果",
+        "body": "これは1つの大学の1つの授業での結果。グループ試験で記憶が良くなったという研究もあって、結果は分かれている。社会人の勉強会で同じになるかもわからない。"
+      }
+    ],
+    "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-group-study-not-sticking-fix-collaborative-recall",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Knopps & Wissman, \"Collaborative Retrieval Practice Reduces Mind-Wandering During Learning\" (Experimental Psychology, 2023)",
+    "sourceUrl": "https://doi.org/10.1027/1618-3169/a000589",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/group-study-not-sticking-fix/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "2人で思い出すと得？損？",
+        "body": "覚えた単語を2人で一緒に思い出すと、一人のときより多く出てくる気がする。実は、その場では少なくなりやすいらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "48語を2人組と一人でくらべた",
+        "body": "アメリカの大学生96人が48語の単語リストを覚え、2人1組か一人で思い出す練習をした。最後は全員が一人でテストを受けた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "練習中は少なく、最後は多い",
+        "body": "練習中に思い出せた数は2人組の方が少なかった。でも最後の一人でのテストでは、2人組で練習した人の方が多かった（平均25語と20語）。気がそれることも少なかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "単語リストの実験",
+        "body": "これは単語リストを使った1回の実験。教科書の内容や、長い期間の勉強で同じことが起きるかは、まだ確かめられていない。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
