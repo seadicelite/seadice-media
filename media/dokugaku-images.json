@@ -2813,5 +2813,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Credit-cards.jpg/500px-Credit-cards.jpg",
   "og": "https://dokugaku.seadice.win/img/memorized-check-sheet-delayed-judgment.jpg",
   "local": true
+ },
+ "why-self-handicapping-before-exam": {
+  "file": "File:Cozy study space with an open book, fresh apple, and laptop on a desk in bright natural light.jpg",
+  "src": "/img/why-self-handicapping-before-exam.jpg",
+  "src640": "/img/why-self-handicapping-before-exam-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "開いた本とりんご、ノートパソコンが置かれた机",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cozy_study_space_with_an_open_book,_fresh_apple,_and_laptop_on_a_desk_in_bright_natural_light.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cozy_study_space_with_an_open_book%2C_fresh_apple%2C_and_laptop_on_a_desk_in_bright_natural_light.jpg/960px-Cozy_study_space_with_an_open_book%2C_fresh_apple%2C_and_laptop_on_a_desk_in_bright_natural_light.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cozy_study_space_with_an_open_book%2C_fresh_apple%2C_and_laptop_on_a_desk_in_bright_natural_light.jpg/500px-Cozy_study_space_with_an_open_book%2C_fresh_apple%2C_and_laptop_on_a_desk_in_bright_natural_light.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-self-handicapping-before-exam.jpg",
+  "local": true
  }
 }

@@ -4344,5 +4344,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-why-self-handicapping-before-exam-academic-performance",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gadbois & Sturgeon, \"Academic self-handicapping: Relationships with learning specific and general self-perceptions and academic performance over time\" (British Journal of Educational Psychology, 2011)",
+    "sourceUrl": "https://doi.org/10.1348/000709910X522186",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/why-self-handicapping-before-exam/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "試験前に限って片付けたくなる",
+        "body": "試験が近いのに部屋の掃除や夜更かし。失敗しても「準備してなかっただけ」と思える言い訳を、前もって作っているのかもしれない。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生209人を調べた",
+        "body": "カナダの大学で心理学の授業を受けていた209人に、こうした「言い訳づくり」の傾向を聞き、授業の3回のテストの点と比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "傾向が強いほど点が低い",
+        "body": "傾向が強い学生ほど、テストへの不安が強く、勉強のしかたが表面的で、3回のテストすべてで点が低かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因とまでは言えない",
+        "body": "質問紙と成績の関係を見た研究で、言い訳づくりが点を下げたとは言い切れない。説明できた点の差も小さかった。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
