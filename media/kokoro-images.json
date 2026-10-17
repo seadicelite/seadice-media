@@ -3732,5 +3732,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Staw_Borki%2C_Katowice.jpg/500px-Staw_Borki%2C_Katowice.jpg",
   "og": "https://mentalai.seadice.win/img/ai-consult-limits-know-first.jpg",
   "local": true
+ },
+ "camping-natural-light-body-clock": {
+  "file": "File:Camp Lewis Tents.jpg",
+  "src": "/img/camping-natural-light-body-clock.jpg",
+  "src640": "/img/camping-natural-light-body-clock-sm.jpg",
+  "w": 960,
+  "h": 434,
+  "alt": "森に囲まれた草地のキャンプ場に張られたテント",
+  "artist": "Liquidtash",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Camp_Lewis_Tents.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Camp_Lewis_Tents.jpg/960px-Camp_Lewis_Tents.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Camp_Lewis_Tents.jpg/500px-Camp_Lewis_Tents.jpg",
+  "og": "https://mentalai.seadice.win/img/camping-natural-light-body-clock.jpg",
+  "local": true
  }
 }

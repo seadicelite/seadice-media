@@ -3503,5 +3503,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "kokoro-camping-natural-light-body-clock-camping-week",
+    "category": "休息",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wright KP et al., \"Entrainment of the human circadian clock to the natural light-dark cycle\" (Current Biology, 2013)",
+    "sourceUrl": "https://doi.org/10.1016/j.cub.2013.06.039",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/camping-natural-light-body-clock/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "夜型って、戻せるの？",
+        "body": "夜まで画面と明かりの中にいると、寝る時間がどんどん遅くなるよね。電気の明かりがない生活をしたら、体内時計はどうなるんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "8人で1週間のキャンプ",
+        "body": "米国コロラド大学の研究チームが、大人8人にロッキー山脈で1週間テント生活をしてもらったんだ。使えたのは日光とたき火だけ。懐中電灯もスマホもなし。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "体内時計が約2時間早まった",
+        "body": "昼に浴びる光はふだんの4倍以上に。眠りのホルモンが出始める時刻などの目印は約2時間早まって、日没のころになったらしい。夜型の人ほど大きく早まっていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "たった8人、帰ったあとは？",
+        "body": "参加者は8人だけで、真夏の1か所での結果なんだ。家の明かりの生活に戻ったあと、どのくらい続くかは調べられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]
