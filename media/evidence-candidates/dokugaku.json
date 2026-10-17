@@ -4480,5 +4480,73 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-why-intend-to-study-but-dont-intention-gap-46",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rhodes & de Bruijn, \"How big is the physical activity intention-behaviour gap? A meta-analysis using the action control framework\" (British Journal of Health Psychology, 2013)",
+    "sourceUrl": "https://doi.org/10.1111/bjhp.12032",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/why-intend-to-study-but-dont/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "やる気さえあれば、できる？",
+        "body": "「本気でやろうと思えば、行動はついてくる」とよく言われるよね。できなかったのは、やる気が足りなかったから？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "10本の研究をまとめた",
+        "body": "運動について「やろうと思っているか」と「実際にやったか」を調べた研究10本、合計3,899人分をまとめて分析した。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "やる気のあった人の46%が実行せず",
+        "body": "やろうと思っていた人のうち46%が実行できていなかった。思っていなかったのに実行した人は2%だけ。ずれのほとんどは「やる気はあったのにやらなかった」人だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強でも同じ？",
+        "body": "運動（国の推奨量）についての研究で、勉強で同じ割合になるかはわからない。運動量の多くは本人の申告でもある。"
+      }
+    ],
+    "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-why-old-habits-block-new-methods-relearning-einstellung-chess",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sheridan & Reingold, \"The mechanisms and boundary conditions of the Einstellung effect in chess: Evidence from eye movements\" (PLoS ONE, 2013)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0075796",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-old-habits-block-new-methods-relearning/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "慣れた方法から抜けられないのはなぜ？",
+        "body": "新しいやり方を教わっても、つい昔のやり方で解いてしまう。経験がある人ほど頭が固いってこと？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "チェスで目の動きを測った",
+        "body": "カナダのチェスの熟練者17人と初心者17人に、見慣れた手と、別の場所にあるもっと良い手がある問題を解いてもらい、目の動きを記録した。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "熟練者も初心者も17人中8人",
+        "body": "見慣れた手が「一応うまくいく手」のとき、熟練者も初心者も17人中8人がそれを選んだ。選んだ人の目は、最後まで見慣れた手のまわりを見ていたらしい。はっきりした悪手のときは、熟練者は全員避けられた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の場面ではどうか",
+        "body": "34人でチェスの4問だけを使った実験。資格の勉強や仕事のやり方を学び直す場面で同じことが起きるかは、直接は調べられていない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

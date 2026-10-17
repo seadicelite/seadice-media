@@ -297,5 +297,23 @@
     "slugs": [
       "exam-close-not-enough-time"
     ]
+  },
+  {
+    "id": "intention-behavior-gap",
+    "term": "意図と行動のギャップ",
+    "en": "Intention-behavior gap",
+    "def": "「やろう」と思ったことが、実際の行動にならないずれ。運動の研究では、やろうと思っていた人のおよそ半分が実行できていませんでした。",
+    "slugs": [
+      "why-intend-to-study-but-dont"
+    ]
+  },
+  {
+    "id": "einstellung-effect",
+    "term": "構え効果（アインシュテルング効果）",
+    "en": "Einstellung effect",
+    "def": "慣れた解き方が先に浮かぶと、もっと良い方法が見えにくくなる現象。チェスの熟練者でも、見慣れた手がある問題では成績が大きく下がりました。",
+    "slugs": [
+      "why-old-habits-block-new-methods-relearning"
+    ]
   }
 ]

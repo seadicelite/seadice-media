@@ -2867,5 +2867,41 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_Open_Book%2C_Richmond_-_geograph.org.uk_-_4114036.jpg/500px-The_Open_Book%2C_Richmond_-_geograph.org.uk_-_4114036.jpg",
   "og": "https://dokugaku.seadice.win/img/why-reread-same-line-while-reading.jpg",
   "local": true
+ },
+ "why-intend-to-study-but-dont": {
+  "file": "File:Desk (210244970).jpg",
+  "src": "/img/why-intend-to-study-but-dont.jpg",
+  "src640": "/img/why-intend-to-study-but-dont-sm.jpg",
+  "w": 960,
+  "h": 894,
+  "alt": "木の机と電気スタンド",
+  "artist": "Jeremy Noble from St. Paul, United States",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk_(210244970).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Desk_%28210244970%29.jpg/960px-Desk_%28210244970%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Desk_%28210244970%29.jpg/500px-Desk_%28210244970%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-intend-to-study-but-dont.jpg",
+  "local": true
+ },
+ "why-old-habits-block-new-methods-relearning": {
+  "file": "File:Chess game Staunton No. 6 perfil view 8.jpg",
+  "src": "/img/why-old-habits-block-new-methods-relearning.jpg",
+  "src640": "/img/why-old-habits-block-new-methods-relearning-sm.jpg",
+  "w": 960,
+  "h": 630,
+  "alt": "チェス盤と駒",
+  "artist": "Wilfredor",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Chess_game_Staunton_No._6_perfil_view_8.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/960px-Chess_game_Staunton_No._6_perfil_view_8.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/500px-Chess_game_Staunton_No._6_perfil_view_8.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-old-habits-block-new-methods-relearning.jpg",
+  "local": true
  }
 }
