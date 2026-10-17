@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-generated-web-content-share",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-17",
+  "title": "ネットの記事は、AIが書いたものだらけ？研究では、新しい英語版ウィキペディア記事の約4%、英語の企業の発表文の約24%にAIの文章が見つかった",
+  "summary": "測られた範囲ではAIの文章は「だらけ」ではなく数%〜約4分の1。1本ずつの見分けは難しく、AIと判定された記事は出典が少なめでした。"
+ },
+ {
   "slug": "ai-voice-scam-call-prevented-anxiety",
   "category": "詐欺・なりすまし",
   "type": "guide",

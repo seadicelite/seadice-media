@@ -1920,5 +1920,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/A_hand_presses_the_dial_of_a_vintage_rotary_telephone_on_a_desk_next_to_a_sleek_laptop.jpg/500px-A_hand_presses_the_dial_of_a_vintage_rotary_telephone_on_a_desk_next_to_a_sleek_laptop.jpg",
   "og": "https://ai.seadice.win/img/ai-voice-scam-call-prevented-anxiety.jpg",
   "local": true
+ },
+ "ai-generated-web-content-share": {
+  "file": "File:ASC Leiden - Library - South African newspaper stack of Die Burger - 2012.jpg",
+  "src": "/img/ai-generated-web-content-share.jpg",
+  "src640": "/img/ai-generated-web-content-share-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "積み重ねられた新聞",
+  "artist": "African Studies Centre Leiden",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_Library_-_South_African_newspaper_stack_of_Die_Burger_-_2012.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ASC_Leiden_-_Library_-_South_African_newspaper_stack_of_Die_Burger_-_2012.jpg/960px-ASC_Leiden_-_Library_-_South_African_newspaper_stack_of_Die_Burger_-_2012.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ASC_Leiden_-_Library_-_South_African_newspaper_stack_of_Die_Burger_-_2012.jpg/500px-ASC_Leiden_-_Library_-_South_African_newspaper_stack_of_Die_Burger_-_2012.jpg",
+  "og": "https://ai.seadice.win/img/ai-generated-web-content-share.jpg",
+  "local": true
  }
 }
