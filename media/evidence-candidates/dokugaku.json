@@ -4106,5 +4106,39 @@
       }
     ],
     "addedAt": "2026-10-17"
+  },
+  {
+    "id": "dokugaku-exam-far-away-never-started-reset-surface-before-exam",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Capelle et al., \"Deadlines make you productive, but what do they do to your motivation? Trajectories in quantity and quality of motivation and study activities among university students as exams approach\" (Frontiers in Psychology, 2023)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2023.1224533",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/exam-far-away-never-started-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "試験が近づくと、勉強の中身は？",
+        "body": "試験が近づくと、さすがに勉強時間は増えるよね。でも、増えるのはどんな勉強なんだろう。毎週の記録で追った研究がある。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "8週間、毎週同じ質問",
+        "body": "ドイツの大学生96人に、期末試験までの8週間、毎週「どれくらい・どんなふうに勉強したか」「うまくやれそうか」などを答えてもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "増えたのは浅い勉強",
+        "body": "試験が近づくほど勉強時間は増えた。ただ、覚えるだけの浅い勉強の方が、理解を深める勉強より早く増えた。「失敗したくない」気持ちで勉強する傾向も強まった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "相関の研究",
+        "body": "これは記録を追った相関の研究で、試験の近さが勉強の中身を変えたとまでは言えない。1つの大学の学生で、1つの質問だけで測った項目も多い。"
+      }
+    ],
+    "addedAt": "2026-10-17"
   }
 ]

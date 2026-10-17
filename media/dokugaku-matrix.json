@@ -311,7 +311,8 @@
     ],
     "stuck": [
      "rebuild-broken-study-plan",
-     "exam-close-not-enough-time"
+     "exam-close-not-enough-time",
+     "exam-far-away-never-started-reset"
     ]
    }
   },
