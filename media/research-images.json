@@ -3086,5 +3086,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Water_jug.JPG/500px-Water_jug.JPG",
   "og": "https://research.seadice.win/img/dehydration-thirst-focus-why-research-og.jpg",
   "local": true
+ },
+ "weighted-blanket-sleep-anxiety-research": {
+  "file": "File:DIY knitted weighted blanket.jpg",
+  "src": "/img/weighted-blanket-sleep-anxiety-research.jpg",
+  "src640": "/img/weighted-blanket-sleep-anxiety-research-sm.jpg",
+  "w": 960,
+  "h": 818,
+  "alt": "編み物で作られた加重ブランケット（重い毛布）",
+  "artist": "Timesoup",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DIY_knitted_weighted_blanket.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DIY_knitted_weighted_blanket.jpg/960px-DIY_knitted_weighted_blanket.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DIY_knitted_weighted_blanket.jpg/500px-DIY_knitted_weighted_blanket.jpg",
+  "og": "https://research.seadice.win/img/weighted-blanket-sleep-anxiety-research.jpg",
+  "local": true
  }
 }
