@@ -2056,5 +2056,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Brushes_2.jpg/500px-Brushes_2.jpg",
   "og": "https://ai.seadice.win/img/ai-artists-output-up-novelty-down.jpg",
   "local": true
+ },
+ "ai-grading-accuracy-students": {
+  "file": "File:Blue and red BIC Cristal pen caps.jpg",
+  "src": "/img/ai-grading-accuracy-students.jpg",
+  "src640": "/img/ai-grading-accuracy-students-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "赤と青のペンのキャップ",
+  "artist": "Carlos Delgado",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blue_and_red_BIC_Cristal_pen_caps.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blue_and_red_BIC_Cristal_pen_caps.jpg/960px-Blue_and_red_BIC_Cristal_pen_caps.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blue_and_red_BIC_Cristal_pen_caps.jpg/500px-Blue_and_red_BIC_Cristal_pen_caps.jpg",
+  "og": "https://ai.seadice.win/img/ai-grading-accuracy-students.jpg",
+  "local": true
  }
 }

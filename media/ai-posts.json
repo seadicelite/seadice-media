@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-grading-accuracy-students",
+  "category": "子ども・学校",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-18",
+  "title": "先生がAIで採点しているかもしれない。AIの点数は人と同じ？研究では平均の差は小さいが条件しだいで大きくずれ、内容や考え方の評価ほど一致しにくかった",
+  "summary": "21本の研究のまとめでは人との平均の差は小さい一方、ばらつきが大きく、内容や考え方の評価ほど人とずれていました。"
+ },
+ {
   "slug": "ai-artists-output-up-novelty-down",
   "category": "創作・著作権",
   "type": "guide",
