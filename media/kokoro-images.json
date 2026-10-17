@@ -3946,5 +3946,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Image_8_food.jpg/500px-Image_8_food.jpg",
   "og": "https://mentalai.seadice.win/img/breakfast-skip-morning-focus.jpg",
   "local": true
+ },
+ "talking-about-myself-why": {
+  "file": "File:Seats in Cafe & Laundrette, East Reach, Taunton 2025-07-26.jpg",
+  "src": "/img/talking-about-myself-why.jpg",
+  "src640": "/img/talking-about-myself-why-sm.jpg",
+  "w": 960,
+  "h": 723,
+  "alt": "カフェの空いた席とテーブル",
+  "artist": "Andy Li",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Seats_in_Cafe_%26_Laundrette,_East_Reach,_Taunton_2025-07-26.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg/960px-Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg/500px-Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg",
+  "og": "https://mentalai.seadice.win/img/talking-about-myself-why.jpg",
+  "local": true
  }
 }

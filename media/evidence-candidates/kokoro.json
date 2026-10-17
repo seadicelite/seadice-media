@@ -4013,5 +4013,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-talking-about-myself-why-pay-to-talk-self",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Tamir & Mitchell, \"Disclosing information about the self is intrinsically rewarding\" (PNAS, 2012)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.1202129109",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/talking-about-myself-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "つい自分の話ばかり、なぜ？",
+        "body": "気づいたら自分の話ばかりしていた…ってあるよね。人はなぜ自分のことを話したくなるのか、米国のハーバード大学の研究者たちが実験で確かめたらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "お金と「自分の話」、どっちを選ぶ？",
+        "body": "37人が、自分について答える・ほかの人について考える・クイズに答える、のどれかを1回1〜4セントの報酬つきで195回選んだ。報酬が多いほうを選べば得をする仕組み。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "お金を手放してでも自分の話",
+        "body": "報酬が同じときは69%の割合で、他人より自分についての質問を選んだ。結果、もらえたはずの額の平均17%を手放していた。答えがほかの人に伝わる別の実験では約25%だったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実際の会話でも同じ？",
+        "body": "数セントで選ぶ課題の話で、飲み会や雑談のような本当の会話を調べたわけではない。どのくらい話すと相手にいやがられるのかも、まだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
