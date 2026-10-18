@@ -5126,5 +5126,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-interest-first-study-motivation-passion-grows",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Chen et al., \"Fanning the Flames of Passion: A Develop Mindset Predicts Strategy-Use Intentions to Cultivate Passion\" (Frontiers in Psychology, 2021)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2021.634903",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/interest-first-study-motivation/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "熱意は「見つけるもの」？",
+        "body": "好きなことを見つければ、勉強も仕事も続く。そうよく言われるよね。でも、熱意って最初から決まっているものなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "熱意が増えた理由を聞いた",
+        "body": "Chenらは、アメリカの大学3〜4年生を対象に調査した。専攻への熱意が増えた理由を書いた128人の回答を分類した。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "一番多いのは「慣れたから」",
+        "body": "最も多かった理由は「その分野に慣れて詳しくなった」で35.2%。「もともと好きな部分に集中した」は7.0%だった。熱意は後から育つことが多いらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本人の振り返りの話",
+        "body": "これは学生が自分で答えた理由で、実際に熱意が増えた原因かはわからない。アメリカの大学生だけの調査で、社会人の独学に当てはまるかも確かめられていない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
