@@ -1723,5 +1723,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Leather_coin_purse.jpg/500px-Leather_coin_purse.jpg",
   "og": "https://ledger.seadice.win/img/kids-allowance-amount-checklist-og.jpg",
   "local": true
+ },
+ "investment-panic-selling-recovery-steps": {
+  "file": "File:Frankfurt Stock Exchange (Ank Kumar) 03.jpg",
+  "src": "/img/investment-panic-selling-recovery-steps.jpg",
+  "src640": "/img/investment-panic-selling-recovery-steps-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "証券取引所の取引フロア",
+  "artist": "Ank Kumar",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange_(Ank_Kumar)_03.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frankfurt_Stock_Exchange_%28Ank_Kumar%29_03.jpg/960px-Frankfurt_Stock_Exchange_%28Ank_Kumar%29_03.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frankfurt_Stock_Exchange_%28Ank_Kumar%29_03.jpg/500px-Frankfurt_Stock_Exchange_%28Ank_Kumar%29_03.jpg",
+  "og": "https://ledger.seadice.win/img/investment-panic-selling-recovery-steps.jpg",
+  "local": true
  }
 }
