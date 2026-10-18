@@ -4878,5 +4878,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-nightmare-wake-up-imagery-rehearsal-recovery-research-rewrite-dream",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lancee J, Spoormaker VI & van den Bout J, \"Cognitive-behavioral self-help treatment for nightmares: a randomized controlled trial\" (Psychotherapy and Psychosomatics, 2010)",
+    "sourceUrl": "https://doi.org/10.1159/000320894",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/nightmare-wake-up-imagery-rehearsal-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "悪夢って自分で減らせる？",
+        "body": "怖い夢で目が覚めると、また見そうで寝るのが怖くなるよね。夢なんてどうにもできない、と思いがちだけど、実は研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "399人が6週間、自分で練習",
+        "body": "オランダで悪夢に悩む399人をくじで4組に分けた。夢の結末を書き換えて思い浮かべる組、悪夢の場面にあえて向き合う組、夢を記録するだけの組、待機の組だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "書き換えで悪夢が減った",
+        "body": "書き換えの組は、待機の組より悪夢の回数とつらさが減って、眠りの質もよくなった。夢を記録するだけの組でも、少しよくなったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "効果は小〜中くらい",
+        "body": "結果は本人の記録や回答で測ったもので、効果の大きさは小〜中くらい。専門家と一対一で行うほうが効果が大きいという、別のまとめの研究もあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

@@ -3165,5 +3165,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Personal_organizer_with_metallic_ring_binder.jpg/500px-Personal_organizer_with_metallic_ring_binder.jpg",
   "og": "https://research.seadice.win/img/time-management-procrastination-research-og.jpg",
   "local": true
+ },
+ "nightmare-wake-up-imagery-rehearsal-recovery-research": {
+  "file": "File:A Guiding Star for Gemini South.jpg",
+  "src": "/img/nightmare-wake-up-imagery-rehearsal-recovery-research.webp",
+  "src640": "/img/nightmare-wake-up-imagery-rehearsal-recovery-research-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "夜の天文台のドームと望遠鏡",
+  "artist": "International Gemini Observatory/NOIRLab/NSF/AURA/M. Paredes",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_Guiding_Star_for_Gemini_South.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/A_Guiding_Star_for_Gemini_South.jpg/960px-A_Guiding_Star_for_Gemini_South.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/A_Guiding_Star_for_Gemini_South.jpg/500px-A_Guiding_Star_for_Gemini_South.jpg",
+  "og": "https://research.seadice.win/img/nightmare-wake-up-imagery-rehearsal-recovery-research-og.jpg",
+  "local": true
  }
 }
