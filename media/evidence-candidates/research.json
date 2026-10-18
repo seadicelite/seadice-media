@@ -5320,5 +5320,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-woop-obstacle-plan-procrastination-how-research-mooc-culture",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kizilcec RF, Cohen GL, \"Eight-minute self-regulation intervention raises educational attainment at scale in individualist but not collectivist cultures\" (PNAS, 2017)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.1611898114",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/woop-obstacle-plan-procrastination-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "8分の書き出しで、講座を最後までやれる？",
+        "body": "ネット講座って、申し込んでも途中でやめちゃうことが多いよね。「良い結果・障害・もし〜ならこうする」を書くWOOPで、最後まで続くのか調べた研究がある。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "約1万8千人のオンライン受講者",
+        "body": "80か国以上の17,963人を、8分ほどのWOOPを書くグループと、別の作文をするグループにランダムに分けて、講座を修了したかをくらべたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "国によって結果が分かれた",
+        "body": "アメリカなど個人主義の国では、修了率が5.52%→7.28%、25.7%→29.5%に上がった。でもインドや中国など集団主義の国では効果がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "文化のせいかは、はっきりしない",
+        "body": "全体では統計的な差にならなかった。国の文化は豊かさや英語力とも重なっていて、どれが効いたかは分けきれていない。障害が「時間がない」の人にも効果はなかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

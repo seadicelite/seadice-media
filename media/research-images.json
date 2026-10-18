@@ -3335,5 +3335,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Desk-laptop-notebook-table_%2823697249344%29.jpg/500px-Desk-laptop-notebook-table_%2823697249344%29.jpg",
   "og": "https://research.seadice.win/img/video-lecture-focus-quiz-breaks-how-research-og.jpg",
   "local": true
+ },
+ "woop-obstacle-plan-procrastination-how-research": {
+  "file": "File:Samuel Palmer - Notebook Leaf No. 114 - Google Art Project.jpg",
+  "src": "/img/woop-obstacle-plan-procrastination-how-research.webp",
+  "src640": "/img/woop-obstacle-plan-procrastination-how-research-sm.webp",
+  "w": 960,
+  "h": 650,
+  "alt": "手書きのメモとスケッチが残るノートの1ページ",
+  "artist": "Samuel Palmer",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Samuel_Palmer_-_Notebook_Leaf_No._114_-_Google_Art_Project.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Samuel_Palmer_-_Notebook_Leaf_No._114_-_Google_Art_Project.jpg/960px-Samuel_Palmer_-_Notebook_Leaf_No._114_-_Google_Art_Project.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Samuel_Palmer_-_Notebook_Leaf_No._114_-_Google_Art_Project.jpg/500px-Samuel_Palmer_-_Notebook_Leaf_No._114_-_Google_Art_Project.jpg",
+  "og": "https://research.seadice.win/img/woop-obstacle-plan-procrastination-how-research-og.jpg",
+  "local": true
  }
 }
