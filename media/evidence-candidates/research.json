@@ -5694,5 +5694,73 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-white-noise-sleep-pink-noise-research-rem-earplugs",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Basner M et al., \"Efficacy of pink noise and earplugs for mitigating the effects of intermittent environmental noise exposure on sleep\" (Sleep, 2026)",
+    "sourceUrl": "https://doi.org/10.1093/sleep/zsag001",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/white-noise-sleep-pink-noise-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ザーという音を流すとよく眠れる？",
+        "body": "ホワイトノイズやピンクノイズを流して寝る人は多いよね。外の音が気にならなくなって、ぐっすり眠れると言われている。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "25人が検査室で7晩",
+        "body": "夜に音を使う習慣のない健康な25人が、検査室で7晩眠った。飛行機や車の騒音、ピンクノイズ、耳栓、その組み合わせを夜ごとに変えて、脳波で眠りを測った。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "レム睡眠が18.6分減った",
+        "body": "50デシベルのピンクノイズだけを流した夜は、静かな夜よりレム睡眠が18.6分短かった。騒音で減った深い睡眠は、耳栓をするとほぼ守れたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "毎晩使い続けたら？",
+        "body": "25人・短期間の実験で、ふだんから音を流して寝ている人や子ども、高齢者にも同じかはわからない。長く使ったときの影響もこれからの研究だ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-sleep-learning-listening-vocabulary-research-tmr-meta",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hu X et al., \"Promoting memory consolidation during sleep: A meta-analysis of targeted memory reactivation\" (Psychological Bulletin, 2020)",
+    "sourceUrl": "https://doi.org/10.1037/bul0000223",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/sleep-learning-listening-vocabulary-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "寝ながら聞けば覚えられる？",
+        "body": "寝る前に英単語の音声を流しておけば、寝ている間に覚えられる。そんな「睡眠学習」、本当なら楽だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "91件の実験をまとめた",
+        "body": "寝ている間に、覚えたときと同じ音やにおいを流して記憶を呼び起こす実験91件（2,004人）をまとめて分析した。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効くのは「覚えた後」の深い眠り",
+        "body": "起きている間に覚えた内容を、ノンレム睡眠の間に流すと記憶が少し強まった（効果量0.29）。レム睡眠中や起きている間に流しても効果はなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "家で一晩中流したら？",
+        "body": "研究は眠りの段階を見分けて音を流す検査室の方法。家で流しっぱなしにした場合や、知らない単語を寝ながら覚えることには当てはまらない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
