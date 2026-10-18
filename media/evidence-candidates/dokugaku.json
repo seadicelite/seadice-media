@@ -5602,5 +5602,73 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-self-reference-effect-link-to-yourself-l2-vocab",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pruss, Karni & Prior, \"Self-reference promotes vocabulary learning in a foreign language\" (Psychonomic Bulletin & Review, 2025)",
+    "sourceUrl": "https://doi.org/10.3758/s13423-025-02674-w",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/self-reference-effect-link-to-yourself/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "英単語は「自分の1文」で覚える？",
+        "body": "知らない英単語を覚えるとき、訳をくり返すより、その単語で自分のことを1文言ったほうが残るらしい。イスラエルの研究者たちが確かめた。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "珍しい英単語20語で実験",
+        "body": "ヘブライ語を話す大人42人が、半分の単語は「自分のことを言う英語の1文」を声に出し、残りは訳を声に出して覚えた。テストがあることは知らされていない。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1週間後も自分の文が上",
+        "body": "直後のテストで30.3%対14.3%、1週間後は17.0%対10.2%で、自分の1文で覚えた単語のほうがよく残っていた。意味を説明する文を作る方法と比べた別の実験でも、自分の文が上だった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回きり・声に出す方法だけ",
+        "body": "単語は1回しか見ておらず、くり返し学ぶ実際の勉強とは違う。書いて覚える方法でも同じかは、まだ調べられていない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-self-reference-effect-link-to-yourself-jol-gap",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hou et al., \"The Self-Reference Effect in Metamemory and the Role of Beliefs in This Process\" (Behavioral Sciences, 2024)",
+    "sourceUrl": "https://doi.org/10.3390/bs14090741",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/self-reference-effect-link-to-yourself/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "効く覚え方は「効いた感じ」がする？",
+        "body": "よく覚えられた方法なら、覚えた手応えもあるはずだよね。でも実は、そうとは限らないらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "自分に当てはめるか、意味を考えるか",
+        "body": "中国の大学生と大学院生34人が、性格を表す言葉を「自分に当てはまるか」か「意味」を考えて覚え、後でどれくらい思い出せそうかも答えた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績は差、手応えは同じ",
+        "body": "自分に当てはめた言葉は42%、意味を考えた言葉は27%思い出せた。なのに「思い出せそう」という見込みは54.20と53.03でほぼ同じだった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数が少なく、母語の言葉だけ",
+        "body": "34人の1回の実験で、覚えたのは母語の性格語。外国語や教科書の内容でも手応えがずれるかは、まだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
