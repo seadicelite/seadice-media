@@ -1,5 +1,13 @@
 [
   {
+    "slug": "mock-exam-score-prediction-log",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-18",
+    "title": "模試・過去問の「点数予想」記録表。予想より低い点が続くときの使い方（点数の見積もりの研究から）",
+    "summary": "点数を高く予想しがちなのは成績の低い人ほど。前回の点を見て予想し、ずれた分野から勉強を見直す記録表を研究から作った。"
+  },
+  {
     "slug": "study-anxiety-self-talk-rephrase-table",
     "category": "やる気・心",
     "type": "guide",

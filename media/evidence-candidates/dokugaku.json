@@ -4752,5 +4752,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-mock-exam-score-prediction-log-overpredict",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Karaca et al., \"Low-Performing Students Confidently Overpredict Their Grade Performance throughout the Semester\" (Journal of Intelligence, 2023)",
+    "sourceUrl": "https://doi.org/10.3390/jintelligence11100188",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/mock-exam-score-prediction-log/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "テストを重ねれば、自分の実力がわかってくる",
+        "body": "何回か試験を受ければ、「だいたいこのくらい取れる」と読めるようになる。そう思うよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "4回の試験の前に点数を予想",
+        "body": "アメリカの大学の心理学の授業で、学生110人が4回の試験の直前に、とれそうな成績を予想した。対面の授業の66人でも同じことを調べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績が低い人ほど高く予想し、それが続いた",
+        "body": "1回目、成績の下位4分の1は平均84点と予想して実際は約69点。約15点も高かった。上位4分の1のずれは約2点。下位の人のずれは学期を通してあまり縮まらず、予想への自信も下がらなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1つの大学の1科目の話",
+        "body": "調べたのは1つの大学の授業だけ。なぜ予想を下げないのか（前回の点を思い出していないのか、願望なのか）は、まだはっきりしていない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

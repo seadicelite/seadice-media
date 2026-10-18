@@ -2993,5 +2993,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sticky_Notes_2.jpg/500px-Sticky_Notes_2.jpg",
   "og": "https://dokugaku.seadice.win/img/study-anxiety-self-talk-rephrase-table.jpg",
   "local": true
+ },
+ "mock-exam-score-prediction-log": {
+  "file": "File:Mark-sheet.JPG",
+  "src": "/img/mock-exam-score-prediction-log.jpg",
+  "src640": "/img/mock-exam-score-prediction-log-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "マークシートの解答用紙",
+  "artist": "Genppy",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Mark-sheet.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mark-sheet.JPG/960px-Mark-sheet.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mark-sheet.JPG/500px-Mark-sheet.JPG",
+  "og": "https://dokugaku.seadice.win/img/mock-exam-score-prediction-log.jpg",
+  "local": true
  }
 }
