@@ -1,5 +1,13 @@
 [
   {
+    "slug": "study-time-of-day-menu-table",
+    "category": "時間・計画",
+    "type": "guide",
+    "date": "2026-10-18",
+    "title": "時間帯別の勉強メニュー表。朝・昼・夜・寝る前に何を勉強するか（睡眠・仮眠・カフェイン・体内時計の研究から）",
+    "summary": "新しく覚えるのは寝る前、思い出すのは翌朝、昼の眠気には短い仮眠、コーヒーは寝る約9時間前まで。研究から作った時間帯別の表。"
+  },
+  {
     "slug": "study-method-by-goal-table",
     "category": "勉強法",
     "type": "guide",

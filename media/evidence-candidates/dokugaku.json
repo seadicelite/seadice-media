@@ -4990,5 +4990,73 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-study-time-of-day-menu-table-nap-length",
+    "category": "睡眠",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Brooks & Lack, \"A brief afternoon nap following nocturnal sleep restriction: which nap duration is most recuperative?\" (Sleep, 2006)",
+    "sourceUrl": "https://doi.org/10.1093/sleep/29.6.831",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/study-time-of-day-menu-table/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "昼寝って何分がいいの？",
+        "body": "午後に眠くなったとき、少し寝ると楽になるよね。でも長く寝すぎると、かえってぼんやりする気もする。何分がちょうどいいんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5分・10分・20分・30分を比べた",
+        "body": "BrooksとLackは、前の晩の睡眠を約5時間に減らした24人の若い大人に、午後3時に5分・10分・20分・30分の仮眠をとってもらい、そのあとの眠気や成績を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "10分がすぐ効いた",
+        "body": "5分ではほとんど変わらなかった。10分の仮眠は、眠気も頭の働きもすぐによくなり、一部の効果は最大155分続いた。30分だと、起きた直後にぼんやりする時間があったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "寝不足の日の話",
+        "body": "寝不足にした条件で、ふだん昼寝をしない24人の実験だった。十分に眠れている日や、昼寝に慣れた人でも同じかは、この研究だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-study-time-of-day-menu-table-sleep-between-sessions",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mazza et al., \"Relearn faster and retain longer: Along with practice, sleep makes perfect\" (Psychological Science, 2016)",
+    "sourceUrl": "https://doi.org/10.1177/0956797616659930",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/study-time-of-day-menu-table/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "覚え直しは同じ日のうちに？",
+        "body": "単語を覚えたら、その日のうちに復習した方が忘れにくい気がするよね。でも、あいだに眠りをはさむと何か変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "朝→夜と、夜→翌朝",
+        "body": "Mazzaらは40人に外国語の単語を全部言えるまで練習してもらい、12時間後に覚え直してもらった。半分は朝に覚えて夜に、半分は夜に覚えて眠り、翌朝に覚え直したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "練習が半分ですんだ",
+        "body": "眠りをはさんだ人は、覚え直しに必要な練習が半分ですみ、1週間後と6か月後のテストでもよく覚えていた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "単語以外ではどうか",
+        "body": "参加者は40人と少なく、単語を覚える課題だけだった。問題を解く力や文章の理解に同じことが言えるかは、まだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

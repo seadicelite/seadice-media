@@ -238,7 +238,8 @@
     ],
     "use": [
      "study-place-time-log-sheet",
-     "study-room-air-temperature-checklist"
+     "study-room-air-temperature-checklist",
+     "study-time-of-day-menu-table"
     ]
    }
   },

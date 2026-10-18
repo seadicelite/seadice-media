@@ -3077,5 +3077,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stack_of_Books_in_Nilkhet_Market.jpg/500px-Stack_of_Books_in_Nilkhet_Market.jpg",
   "og": "https://dokugaku.seadice.win/img/study-method-by-goal-table.jpg",
   "local": true
+ },
+ "study-time-of-day-menu-table": {
+  "file": "File:Sunrise Morning.jpg",
+  "src": "/img/study-time-of-day-menu-table.jpg",
+  "src640": "/img/study-time-of-day-menu-table-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "窓から見た夜明けの空",
+  "artist": "gorlapraveen",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunrise_Morning.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sunrise_Morning.jpg/960px-Sunrise_Morning.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sunrise_Morning.jpg/500px-Sunrise_Morning.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-time-of-day-menu-table.jpg",
+  "local": true
  }
 }
