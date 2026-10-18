@@ -39,7 +39,9 @@
     "bath-soak-fatigue-recover",
     "nature-sounds-stress",
     "self-soothing-touch-fatigue",
-    "gardening-screen-fatigue-recover"
+    "gardening-screen-fatigue-recover",
+    "irregular-sleep-schedule-focus",
+    "night-phone-blue-light-sleep"
    ]
   },
   {
@@ -84,7 +86,9 @@
     "perfectionism-ai-standards",
     "tech-stress-age-older-workers",
     "ai-job-worry-workplace-support",
-    "ai-job-worry-lasting-isolation"
+    "ai-job-worry-lasting-isolation",
+    "ai-faster-but-not-easier",
+    "ai-job-worry-adaptability"
    ]
   },
   {
@@ -133,7 +137,8 @@
     "sitting-breaks-focus",
     "short-video-time-perception",
     "stress-thinking-values-writing",
-    "study-break-phone-memory"
+    "study-break-phone-memory",
+    "irregular-sleep-schedule-focus"
    ]
   },
   {
@@ -173,7 +178,9 @@
     "sns-happy-for-others",
     "sns-upward-comparison-why",
     "sns-post-looking-good-tired",
-    "comparison-lost-sense-of-self"
+    "comparison-lost-sense-of-self",
+    "sns-career-comparison-frustration",
+    "everyone-seems-happier"
    ]
   },
   {
@@ -215,7 +222,10 @@
     "friends-drifting-apart-prevent",
     "loneliness-low-mood-reconnect",
     "ai-confide-people-again",
-    "listen-when-someone-confides"
+    "listen-when-someone-confides",
+    "ai-comfort-feels-empty",
+    "sns-friends-few-to-rely-on",
+    "partner-thanks-unsaid"
    ]
   },
   {
@@ -256,7 +266,9 @@
     "ai-human-like-uncanny",
     "symptom-search-ai-anxiety",
     "ai-chat-boredom-prevent",
-    "ai-confide-people-again"
+    "ai-confide-people-again",
+    "ai-comfort-feels-empty",
+    "ai-praise-feels-hollow"
    ]
   }
  ]
