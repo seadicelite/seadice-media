@@ -2276,5 +2276,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Handcraft_Vintage_Wooden_Table_%2846307576835%29.jpg/500px-Handcraft_Vintage_Wooden_Table_%2846307576835%29.jpg",
   "og": "https://ai.seadice.win/img/graphic-violence-video-feed-prepare-og.jpg",
   "local": true
+ },
+ "graphic-video-seen-scene-keeps-coming-back": {
+  "file": "File:The use of Nightstand.jpg",
+  "src": "/img/graphic-video-seen-scene-keeps-coming-back.webp",
+  "src640": "/img/graphic-video-seen-scene-keeps-coming-back-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "夜のナイトテーブルを照らすスタンドの明かりとグラス",
+  "artist": "Brad Coy",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:The_use_of_Nightstand.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_use_of_Nightstand.jpg/960px-The_use_of_Nightstand.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_use_of_Nightstand.jpg/500px-The_use_of_Nightstand.jpg",
+  "og": "https://ai.seadice.win/img/graphic-video-seen-scene-keeps-coming-back-og.jpg",
+  "local": true
  }
 }
