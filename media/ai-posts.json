@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-audio-summary-learning-prepare",
+  "category": "考える力・集中",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-19",
+  "title": "AIが作った音声の要約で勉強しても、身につく？研究では聞いた直後の点は上がったが、まとめて聞いた学校では1か月後に落ちていた。聞く前に決めておく4つのこと",
+  "summary": "AIの音声要約は約4割の回に事実の誤りがあった研究も。数字は原文で確かめ、日を分けて聞き、聞いたら止めて思い出す。"
+ },
+ {
   "slug": "ai-health-advice-tell-doctor-rebuild",
   "category": "AIに頼りすぎ",
   "type": "guide",
