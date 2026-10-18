@@ -4946,5 +4946,73 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-bad-news-anxiety-doomscrolling-recovery-research-relaxation-after-news",
+    "category": "気分・ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Szabo A & Hopkinson KL, \"Negative psychological effects of watching the news in the television: relaxation or another intervention may be needed to buffer them!\" (International Journal of Behavioral Medicine, 2007)",
+    "sourceUrl": "https://doi.org/10.1007/BF03004169",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/bad-news-anxiety-doomscrolling-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ニュースの不安、どう消す？",
+        "body": "暗いニュースを見たあと、なんだかざわざわすること、あるよね。別のことをすれば忘れられる？ それとも何かしたほうがいい？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生179人で実験",
+        "body": "大学生179人に15分のテレビニュースを見せたあと、半分は15分のリラックス法（力を入れて抜く方法）、残りは15分の講義を聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "戻ったのはリラックス組だけ",
+        "body": "どちらもニュースで不安が高まり、前向きな気分が下がった。15分後に元に戻ったのはリラックス法の組だけで、講義の組は下がったままだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ほかの気分転換は？",
+        "body": "比べた相手は講義を聞くことだけ。散歩や人と話すなど、ほかの気分転換ならどうなるかは、この研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-bad-news-anxiety-doomscrolling-recovery-research-doomscrolling-minutes",
+    "category": "気分・ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Buchanan K, Aknin LB, Lotun S & Sandstrom GM, \"Brief exposure to social media during the COVID-19 pandemic: Doom-scrolling has negative emotional consequences, but kindness-scrolling does not\" (PLOS ONE, 2021)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0257728",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/bad-news-anxiety-doomscrolling-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ちょっと見るだけなら平気？",
+        "body": "暗いニュースも、数分ながめるくらいなら気分に影響しない気がするよね。実は、それを確かめた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2〜4分だけ見てもらう",
+        "body": "2つの実験で299人と603人をくじで分けて、コロナのニュースを2分以上のSNS投稿か約4分の動画で見てもらい、何も見ない人と比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "数分で前向きな気分が下がった",
+        "body": "ニュースを見た人は、前向きな気分が下がった。いっぽう、コロナ禍での人の親切を伝える投稿を見た人では、同じ下がり方は見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どのくらい続くかは不明",
+        "body": "測ったのは見た直後の気分だけ。どのくらい続くのかはわからないし、親切の投稿が気分を上げるという予想は支持されなかったよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

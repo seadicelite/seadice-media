@@ -3200,5 +3200,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/NYC_Public_Library_Research_Room_Jan_2006-1-_3.jpg/500px-NYC_Public_Library_Research_Room_Jan_2006-1-_3.jpg",
   "og": "https://research.seadice.win/img/study-feels-not-learning-effort-recovery-research.jpg",
   "local": true
+ },
+ "bad-news-anxiety-doomscrolling-recovery-research": {
+  "file": "File:Vecteezy stack-of-newspaper 1961329.jpg",
+  "src": "/img/bad-news-anxiety-doomscrolling-recovery-research.jpg",
+  "src640": "/img/bad-news-anxiety-doomscrolling-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "積み重ねられた新聞",
+  "artist": "Bernerlover",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Vecteezy_stack-of-newspaper_1961329.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Vecteezy_stack-of-newspaper_1961329.jpg/960px-Vecteezy_stack-of-newspaper_1961329.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Vecteezy_stack-of-newspaper_1961329.jpg/500px-Vecteezy_stack-of-newspaper_1961329.jpg",
+  "og": "https://research.seadice.win/img/bad-news-anxiety-doomscrolling-recovery-research.jpg",
+  "local": true
  }
 }
