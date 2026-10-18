@@ -4693,5 +4693,73 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-screen-fatigue-nature-view-nature-photos",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Brown DK, Barton JL, Gladwell VF, \"Viewing nature scenes positively affects recovery of autonomic function following acute-mental stress\" (Environmental Science & Technology, 2013)",
+    "sourceUrl": "https://doi.org/10.1021/es305019p",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/screen-fatigue-nature-view/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "疲れたら緑を見るといい？",
+        "body": "「疲れたら緑を見て」ってよく聞くよね。英国のエセックス大学の研究チームが、自然の写真で本当に体の反応が変わるのか、実験で確かめてみたらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "写真を10分見てから緊張する課題",
+        "body": "大学の職員が1週間あけて2回参加。木や草地の写真か、家やビルの写真を10分見たあと、数字を覚えて書き出す5分の課題で緊張する場面をつくったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "課題のあとの落ち着き方が違った",
+        "body": "課題中の心拍や血圧の上がり方はどちらの日も同じ。でも課題のあと、体を落ち着かせる神経の働きを示す指標は、自然の写真を見た日のほうが高かったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数は少なめ、順番も逆",
+        "body": "分析できたのは23人。写真を見たのは課題の前で、疲れたあとに見た場合は調べていないよ。いやな気分の変化には、2つの日で差が見られなかった。"
+      }
+    ],
+    "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-screen-fatigue-nature-view-window-meta",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Soga M, Gaston KJ, \"Health benefits of viewing nature through windows: A meta-analysis\" (BioScience, 2025)",
+    "sourceUrl": "https://doi.org/10.1093/biosci/biaf089",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/screen-fatigue-nature-view/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "窓から緑が見えると、何か違う？",
+        "body": "外に出なくても、窓から木が見えるだけで心や体にいいのかな？東京大学などの研究チームが、これまでの28件の研究をまとめてみたらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "見える人ほど状態がよかった",
+        "body": "全体では、窓から自然が見えることと、心身の状態のよさに関連があった。実際に景色を見せて比べた実験は、ふだんの暮らしを調べた調査より関連が2倍以上強かったよ。"
+      },
+      {
+        "stage": "意外なところ",
+        "title": "身近な緑のほうが強め",
+        "body": "庭や街路樹のような人の手が入った緑で、関連が強めだった。心拍などの体の指標で特にはっきりしていて、体の健康の指標ではほとんど関連が見られなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何分見ればいいかは不明",
+        "body": "研究の多くは見える人と見えない人を比べた調査で、因果まではわからない。発表されやすい結果への偏りもあって、補正すると関連は弱まった。眺める時間との関係も分析できていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

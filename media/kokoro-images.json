@@ -4259,5 +4259,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg/500px-Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg",
   "og": "https://mentalai.seadice.win/img/eye-contact-hard-conversation.jpg",
   "local": true
+ },
+ "screen-fatigue-nature-view": {
+  "file": "File:Early Fall Colors in the Blue Ridge Mountains (MODIS 2025-10-17).jpg",
+  "src": "/img/screen-fatigue-nature-view.jpg",
+  "src640": "/img/screen-fatigue-nature-view-sm.jpg",
+  "w": 960,
+  "h": 731,
+  "alt": "衛星から見た、森に覆われた米国ブルーリッジ山脈の緑",
+  "artist": "MODIS Land Rapid Response Team, NASA GSFC",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Early_Fall_Colors_in_the_Blue_Ridge_Mountains_(MODIS_2025-10-17).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Early_Fall_Colors_in_the_Blue_Ridge_Mountains_%28MODIS_2025-10-17%29.jpg/960px-Early_Fall_Colors_in_the_Blue_Ridge_Mountains_%28MODIS_2025-10-17%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Early_Fall_Colors_in_the_Blue_Ridge_Mountains_%28MODIS_2025-10-17%29.jpg/500px-Early_Fall_Colors_in_the_Blue_Ridge_Mountains_%28MODIS_2025-10-17%29.jpg",
+  "og": "https://mentalai.seadice.win/img/screen-fatigue-nature-view.jpg",
+  "local": true
  }
 }
