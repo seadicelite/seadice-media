@@ -2213,5 +2213,22 @@
   "og": "https://ai.seadice.win/img/ai-not-using-at-work-left-behind-og.jpg",
   "local": true,
   "alt": "窓辺の机に置かれたパソコンと電話"
+ },
+ "gig-work-app-algorithm-before-start": {
+  "file": "File:Fork in the road.jpg",
+  "w": 960,
+  "h": 720,
+  "artist": "Wikideas1",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Fork_in_the_road.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fork_in_the_road.jpg/960px-Fork_in_the_road.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fork_in_the_road.jpg/500px-Fork_in_the_road.jpg",
+  "src": "/img/gig-work-app-algorithm-before-start.webp",
+  "src640": "/img/gig-work-app-algorithm-before-start-sm.webp",
+  "og": "https://ai.seadice.win/img/gig-work-app-algorithm-before-start-og.jpg",
+  "local": true,
+  "alt": "畑の中で二つに分かれる道"
  }
 }
