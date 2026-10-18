@@ -4523,5 +4523,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-ai-escape-dependence-root-recover-which-comes-first",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Huang S et al., \"AI Technology panic-is AI Dependence Bad for Mental Health? A Cross-Lagged Panel Model and the Mediating Roles of Motivations for AI Use Among Adolescents\" (Psychology Research and Behavior Management, 2024)",
+    "sourceUrl": "https://doi.org/10.2147/PRBM.S440889",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-escape-dependence-root-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIに頼ると心が弱る？",
+        "body": "AIに頼りすぎると落ち込みやすくなる、って心配になるよね。でも、実はどっちが先なんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "春と秋に2回調べた",
+        "body": "中国の平均13歳の3,843人に、2022年の春と秋、落ち込み・不安とAIへの依存を質問して、どちらが先に来るかを調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "先にあったのは心のつらさ",
+        "body": "春に落ち込みや不安が強かった人ほど秋のAIへの依存が強かった。逆に、春の依存が秋の落ち込みや不安を強める結果は出なかったらしい。間をつないでいたのは「逃げたい」という使う目的。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人や生成AIでは？",
+        "body": "自己申告の調査で、生成AIが広く使われる前の2022年のデータ。大人や今のAIで同じかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

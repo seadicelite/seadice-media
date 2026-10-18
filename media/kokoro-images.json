@@ -4169,5 +4169,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Books_on_a_table_at_State_Central_Library.jpg/500px-Books_on_a_table_at_State_Central_Library.jpg",
   "og": "https://mentalai.seadice.win/img/ai-era-study-purpose-recover.jpg",
   "local": true
+ },
+ "ai-escape-dependence-root-recover": {
+  "file": "File:D e w - Flickr - jonhyblaze.jpg",
+  "src": "/img/ai-escape-dependence-root-recover.jpg",
+  "src640": "/img/ai-escape-dependence-root-recover-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "朝もやの湖と水辺の草",
+  "artist": "afk . from Antarctica",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:D_e_w_-_Flickr_-_jonhyblaze.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/D_e_w_-_Flickr_-_jonhyblaze.jpg/960px-D_e_w_-_Flickr_-_jonhyblaze.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/D_e_w_-_Flickr_-_jonhyblaze.jpg/500px-D_e_w_-_Flickr_-_jonhyblaze.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-escape-dependence-root-recover.jpg",
+  "local": true
  }
 }
