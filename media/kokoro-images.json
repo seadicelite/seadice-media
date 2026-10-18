@@ -2249,7 +2249,7 @@
   "src640": "/img/stress-focus-recover-sm.webp",
   "w": 960,
   "h": 648,
-  "alt": "朝もやのかかった静かな湖",
+  "alt": "もやのかかった湖と入り江を見下ろす景色",
   "artist": "Anne LaBastille",
   "license": "Public domain",
   "licenseUrl": "",
@@ -3031,7 +3031,7 @@
   "src640": "/img/binaural-beats-focus-sm.webp",
   "w": 960,
   "h": 540,
-  "alt": "朝もやのかかった静かな湖",
+  "alt": "もやのかかった湖と入り江を見下ろす景色",
   "artist": "USFWS Mountain Prairie",
   "license": "Public domain",
   "licenseUrl": "",
@@ -4096,6 +4096,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_cups_of_tea_with_star_shaped_cookies.jpg/960px-Two_cups_of_tea_with_star_shaped_cookies.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_cups_of_tea_with_star_shaped_cookies.jpg/500px-Two_cups_of_tea_with_star_shaped_cookies.jpg",
   "og": "https://mentalai.seadice.win/img/couple-comparison-appreciation-prevent.jpg",
+  "local": true
+ },
+ "forgiveness-grudge-reconnect": {
+  "file": "File:Russia, Kamcatka, Petropavlovsk-Kamchatskiy - Kultuchnoe Lake (Petropavlovsk-Kamchatsky) WMID8505127.jpg",
+  "src": "/img/forgiveness-grudge-reconnect.jpg",
+  "src640": "/img/forgiveness-grudge-reconnect-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "もやのかかった湖と入り江を見下ろす景色",
+  "artist": "ojkumena",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Russia,_Kamcatka,_Petropavlovsk-Kamchatskiy_-_Kultuchnoe_Lake_(Petropavlovsk-Kamchatsky)_WMID8505127.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Russia%2C_Kamcatka%2C_Petropavlovsk-Kamchatskiy_-_Kultuchnoe_Lake_%28Petropavlovsk-Kamchatsky%29_WMID8505127.jpg/960px-Russia%2C_Kamcatka%2C_Petropavlovsk-Kamchatskiy_-_Kultuchnoe_Lake_%28Petropavlovsk-Kamchatsky%29_WMID8505127.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Russia%2C_Kamcatka%2C_Petropavlovsk-Kamchatskiy_-_Kultuchnoe_Lake_%28Petropavlovsk-Kamchatsky%29_WMID8505127.jpg/500px-Russia%2C_Kamcatka%2C_Petropavlovsk-Kamchatskiy_-_Kultuchnoe_Lake_%28Petropavlovsk-Kamchatsky%29_WMID8505127.jpg",
+  "og": "https://mentalai.seadice.win/img/forgiveness-grudge-reconnect.jpg",
   "local": true
  }
 }
