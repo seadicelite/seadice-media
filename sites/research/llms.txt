@@ -19,41 +19,9 @@
 
 ## 記事一覧
 
-### 記憶・学習
-
-- [徹夜で覚えたのに思い出せないときは？ 睡眠と「学び直し」の研究でわかった立て直し方](https://research.seadice.win/all-nighter-study-forgot-recovery-research/): 徹夜明けは覚える力が落ちる。まず眠り、起きてから思い出す練習で学び直す。眠りをはさむと学び直しの練習量が半分になった実験がある。
-- [脳トレゲームで記憶力は上がる？ 1万人の実験とメタ分析でわかった「上達するのはそのゲームだけ」](https://research.seadice.win/brain-training-games-memory-research/): 1万1,430人の6週間の実験で、練習したゲームは大きく上達したが、ほかの記憶テストは比較の群とほぼ同じ。高齢者でも効果は小さい。
-- [覚えたはずのことが思い出せないときは？ 覚えた場所を頭に思い浮かべる「文脈の再現」の研究でわかった思い出し方](https://research.seadice.win/cant-recall-imagine-study-place-context-reinstatement-research/): 思い出せないときは覚えた部屋や机を目を閉じて思い浮かべる。33件の研究のメタ分析で効果あり。ダイバー実験の再現失敗も整理。
-- [部屋に入ったとたん、何をしに来たか忘れるのはなぜ？「ドアをくぐると忘れる」研究を調べた](https://research.seadice.win/doorway-forgetting-why-research/): 部屋を移ると用事を忘れるのは、脳が場面の変わり目で記憶を区切り直すため。ただし4つの実験で再現できなかった研究もあり、頭がいっぱいのときに起きやすい可能性がある。
-- [覚えたい言葉は絵に描くと覚えやすい？「描画効果」の研究でわかった描き方のコツ](https://research.seadice.win/drawing-effect-memory-how-research/): 覚えたい言葉は書き写すより意味を自分で絵にすると思い出しやすい。落書きや見本の写しは弱く、順番の記憶には不向きな点も整理。
-- [テストで頭が真っ白になったら？ 次の本番で思い出せるようにする方法を研究で調べた](https://research.seadice.win/exam-mind-blank-test-anxiety-recovery-research/): 強い緊張は思い出す力を一時的に弱める。思い出す練習で覚えた人はストレス下でも成績が落ちず、直前の書き出しは効果がはっきりしない。
-- [勉強したのに模試で点が取れなかったら？ 時間より「勉強のやり方」を見直す研究](https://research.seadice.win/exam-score-low-after-studying-review-strategy-research/): 点が低いときは時間より「どの教材を、なぜ、どう使うか」を試験前に書き出す。試験では成績が3分の1段階上がった。
-- [暗記カードはどう使う？ 覚えたカードを抜かない・日をあけて3回、研究でわかった使い方](https://research.seadice.win/flashcards-how-to-use-research/): 暗記カードはどう使う？ 答えを思い出してから裏返し、正解したカードも抜かずに回し、日をあけて3回学び直す使い方を研究で整理。
-- [覚えたはずの英単語を忘れていたら？ 学び直しが速い「節約効果」の研究でわかった立て直し方](https://research.seadice.win/forgotten-words-relearning-savings-research/): 覚えた英単語を忘れていたら？ 思い出せなくても記憶の跡は残り、学び直しは最初より速い。日をあけた学び直しで立て直す方法を研究で整理。
-- [手書きとタイピング、どちらが記憶に残るのか。研究でわかった本当の差](https://research.seadice.win/handwriting-vs-typing-memory/): 手書きが有利という研究は再現で差が出なかった。脳の働きには違いがあるが、成績を分けるのは「自分の言葉でまとめるか」だった。
-- [問題は種類ごとにまとめて解くより、混ぜて解くほうが身につく？「交互練習」のやり方を研究で調べた](https://research.seadice.win/interleaved-practice-mixed-study-research/): 種類を混ぜて練習した内容は2週間後のテストで72％、まとめた場合は38％。ただし効果は教材しだいで、単語の暗記では逆だった。
-- [聞いたばかりの番号や用事を、すぐ忘れるのはなぜ？「一度に覚えられるのは4つほど」の短期記憶の研究](https://research.seadice.win/just-heard-forget-short-term-memory-why-research/): 聞いたばかりのことを頭に置ける量は若い大人で3〜5個ほど。3文字でも18秒ほかの作業をするとほぼ忘れた。仕組みと覚えておくコツ。
-- [語呂合わせで英単語を覚えるなら、どうやる？ キーワード法の研究でわかった「作ったらすぐ2回テスト」のやり方](https://research.seadice.win/keyword-mnemonic-vocabulary-how-research/): 語呂合わせは作った直後に2回思い出すテストをすると残りやすい。20語中11.4語対6.5語。長期の記憶には弱く、日をあけた復習と組み合わせる。
-- [「自分は視覚型」に合わせて勉強すると覚えやすい？ 学習スタイルの研究で調べた](https://research.seadice.win/learning-styles-visual-auditory-memory-research/): タイプに合わせても成績はほぼ変わらない。21研究のメタ分析で説どおりの結果は指標の26%。好みは「覚えた感じ」と結びつくだけだった。
-- [マインドマップで覚えるなら、どう使う？「本を閉じて描く」「描いた後に見直す」が大事な理由を研究で調べた](https://research.seadice.win/mind-map-memory-how-to-use-research/): 本を見ながら描いて終わりだと1週間後の正答率は59%。描いた後に5分覚え直すと70%で、思い出す練習（73%）と差がなかった。
-- [顔は覚えているのに、人の名前だけ忘れるのはなぜ？ 名前が覚えにくい仕組みを研究で調べた](https://research.seadice.win/names-hard-to-remember-why-research/): 名前はその人の顔や仕事と意味でつながらず、覚えたつもりにもなりやすい。職業より名前が出にくい実験から、仕組みと覚えるヒントを整理。
-- [勉強は「読む前に問題を解く」と覚えやすい？ プレテストの研究でわかった、間違えてもいい予習のやり方](https://research.seadice.win/pretesting-before-study-memory-research/): 読む前に問題を解くと、ほぼ全問まちがえても読むだけより記憶に残った。答えは本文から探し、読後にもう一度解く。
-- [読んだはずの本の内容を覚えていないのはなぜ？「わかったつもり」の仕組みを研究で調べた](https://research.seadice.win/read-but-cant-remember-illusion-why-research/): 読んでいる最中は答えが目の前にあり「覚えた」と感じやすい。説明を書くと理解の自己評価が下がることが、追試でも再現されている。
-- [声に出して覚えると記憶に残りやすいのか。研究でわかった条件](https://research.seadice.win/reading-aloud-memory-production-effect/): プロダクション効果の研究から、全部ではなく一部だけ声に出す方が記憶に残りやすいことを確認した。
-- [自分の言葉で説明しながら覚えると、記憶に残りやすいのはなぜ？「自己説明」と「生成効果」の研究](https://research.seadice.win/self-explanation-own-words-memory-why-research/): 自分で答えを作ると、読むだけより頭を多く使い記憶に残ります。86研究のメタ分析、瞳孔を測った実験、半年後の記憶を調べた研究で仕組みと限界を解説。
-- [似たものをまとめて覚えると、混ざってしまうのはなぜ？ 記憶の「干渉」を研究で調べた](https://research.seadice.win/similar-words-mix-up-interference-why-research/): 似たもの同士は記憶の中でぶつかり、取り違えやすい。102人の実験と51研究のメタ分析から干渉の仕組みを解説。
-- [覚えた直後に眠ると記憶は定着しやすいのか。睡眠と記憶の4つの研究でわかったこと](https://research.seadice.win/sleep-timing-after-learning-memory-research/): 学習と睡眠の間隔を調べた実験から、眠るタイミングが記憶の残り方をどう左右するかを確認する
-- [復習はいつがベスト？1,350人の実験でわかった、記憶が変わるタイミング](https://research.seadice.win/spacing-effect-review-timing/): 1350人以上の実験とメタ分析から、復習の最適な間隔を調べた。早すぎても遅すぎても効果が下がることがわかった。
-- [勉強しているのに身についている気がしないときは？「わかった感じ」と本当の学びのずれを研究で調べた](https://research.seadice.win/study-feels-not-learning-effort-recovery-research/): 頭を使う勉強ほど「学べていない」と感じやすいのに、テストの点は上だった。手応えでなく数日後のテストで確かめる立て直し方。
-- [覚えたことを人に説明すると記憶に残るのか。「教える効果」を調べた研究](https://research.seadice.win/teaching-effect-memory-research/): 教えるつもりで学んだ人は、テストのためだけに学んだ人よりまとまりよく思い出せた。対話形式で教えるほど効果は大きい傾向があった。
-- [読み返すより、自分にテストする方が覚えられるのか。「テスト効果」の研究](https://research.seadice.win/testing-effect-retrieval-practice/): 1週間後の記憶は、くり返し読んだ人が40%、思い出す練習をした人が61%。読み返しより「思い出す」復習の方が残りやすい。
-- [名前や単語が「喉まで出かかって」思い出せないとき、どうする？ ど忘れの研究でわかったこと](https://research.seadice.win/tip-of-the-tongue-recall-research/): 喉まで出かかった言葉は、長く粘るほど次もど忘れしやすい。最初の文字などのヒントで自力で思い出すと、くり返しにくくなる。
-- [覚えたことは、なぜすぐ忘れるのか。忘却曲線の再現実験と脳の研究でわかったこと](https://research.seadice.win/why-we-forget-forgetting-curve-research/): 覚えた直後ほど速く忘れるのは誰にでも起きる性質。固まる前の記憶は上書きされやすく、脳には自ら忘れる仕組みもある。
-- [テストで間違えた後、どう復習すれば覚えられるのか。「間違い」と記憶の研究でわかったこと](https://research.seadice.win/wrong-answer-review-memory-research/): 間違えた直後に正解を確かめると1週間後の記憶が大きく伸びた。自信満々の間違いほど直りやすいが、わざと間違える必要はない。
-
 ### 気分・ストレス
 
-- [イライラや不安に「名前をつける」と落ち着く？ 気持ちを言葉にするやり方を研究で調べた](https://research.seadice.win/affect-labeling-name-your-feelings-research/): 気持ちに一言で名前をつけると、苦痛や体の恐怖反応が弱まった実験がある。言葉を打ち込んで考え込む形では逆効果の報告も。
+- [イライラや不安に「名前をつける」と落ち着く？ 気持ちを言葉にするやり方を研究で調べた](https://research.seadice.win/affect-labeling-name-your-feelings-research/): 気持ちを言葉にすると、苦痛や体の恐怖反応が弱まった実験がある。気持ちの言葉を打ち込むだけでは嫌な気分が強まった報告も。
 - [イライラした瞬間、怒りを落ち着かせるには？「一歩引いて眺める」やり方を研究で調べた](https://research.seadice.win/anger-calm-down-self-distancing-research/): カッとしたら長く息を吐き、場面を離れた場所から眺め、自分を名前で呼んで問いかける。発散は効かなかった154件の分析などで整理。
 - [怒りを紙に書いて捨てると、気持ちは収まるのか。研究でわかった「捨てる」効果](https://research.seadice.win/anger-write-and-discard-paper/): 怒りを書いた紙を捨てると、怒りは侮辱される前の水準まで下がった。叩く・走るなど興奮を高める発散には効果がなかった。
 - [暗いニュースを見続けて不安になったら？ ニュースと気分の研究でわかった立て直し方](https://research.seadice.win/bad-news-anxiety-doomscrolling-recovery-research/): 暗いニュースは数分でも気分を下げ、自分の心配まで大きく見せる。気をそらすより15分のリラックス法で戻った研究と、見る時間の決め方。
@@ -93,6 +61,38 @@
 - [背筋を伸ばすと気分は上向くのか。姿勢とストレスの研究](https://research.seadice.win/upright-posture-mood-research/): 背筋を伸ばすと、ストレスの中でも気分や自尊心が保たれやすかった。一方、パワーポーズでホルモンが変わる効果は再現されなかった。
 - [友人に弱音を吐くとストレスは軽くなるのか。「打ち明けること」を研究で調べた](https://research.seadice.win/venting-to-friends-corumination-research/): 話すこと自体には小さな前向き効果があるが、同じ話をくり返す「共同反芻」はうつ・不安の症状と関連する。27,794人のメタ分析でもうつ症状との関連を確認。
 
+### 記憶・学習
+
+- [徹夜で覚えたのに思い出せないときは？ 睡眠と「学び直し」の研究でわかった立て直し方](https://research.seadice.win/all-nighter-study-forgot-recovery-research/): 徹夜明けは覚える力が落ちる。まず眠り、起きてから思い出す練習で学び直す。眠りをはさむと学び直しの練習量が半分になった実験がある。
+- [脳トレゲームで記憶力は上がる？ 1万人の実験とメタ分析でわかった「上達するのはそのゲームだけ」](https://research.seadice.win/brain-training-games-memory-research/): 1万1,430人の6週間の実験で、練習したゲームは大きく上達したが、ほかの記憶テストは比較の群とほぼ同じ。高齢者でも効果は小さい。
+- [覚えたはずのことが思い出せないときは？ 覚えた場所を頭に思い浮かべる「文脈の再現」の研究でわかった思い出し方](https://research.seadice.win/cant-recall-imagine-study-place-context-reinstatement-research/): 思い出せないときは覚えた部屋や机を目を閉じて思い浮かべる。33件の研究のメタ分析で効果あり。ダイバー実験の再現失敗も整理。
+- [部屋に入ったとたん、何をしに来たか忘れるのはなぜ？「ドアをくぐると忘れる」研究を調べた](https://research.seadice.win/doorway-forgetting-why-research/): 部屋を移ると用事を忘れるのは、脳が場面の変わり目で記憶を区切り直すため。ただし4つの実験で再現できなかった研究もあり、頭がいっぱいのときに起きやすい可能性がある。
+- [覚えたい言葉は絵に描くと覚えやすい？「描画効果」の研究でわかった描き方のコツ](https://research.seadice.win/drawing-effect-memory-how-research/): 覚えたい言葉は書き写すより意味を自分で絵にすると思い出しやすい。落書きや見本の写しは弱く、順番の記憶には不向きな点も整理。
+- [テストで頭が真っ白になったら？ 次の本番で思い出せるようにする方法を研究で調べた](https://research.seadice.win/exam-mind-blank-test-anxiety-recovery-research/): 強い緊張は思い出す力を一時的に弱める。思い出す練習で覚えた人はストレス下でも成績が落ちず、直前の書き出しは効果がはっきりしない。
+- [勉強したのに模試で点が取れなかったら？ 時間より「勉強のやり方」を見直す研究](https://research.seadice.win/exam-score-low-after-studying-review-strategy-research/): 点が低いときは時間より「どの教材を、なぜ、どう使うか」を試験前に書き出す。試験では成績が3分の1段階上がった。
+- [暗記カードはどう使う？ 覚えたカードを抜かない・日をあけて3回、研究でわかった使い方](https://research.seadice.win/flashcards-how-to-use-research/): 暗記カードはどう使う？ 答えを思い出してから裏返し、正解したカードも抜かずに回し、日をあけて3回学び直す使い方を研究で整理。
+- [覚えたはずの英単語を忘れていたら？ 学び直しが速い「節約効果」の研究でわかった立て直し方](https://research.seadice.win/forgotten-words-relearning-savings-research/): 覚えた英単語を忘れていたら？ 思い出せなくても記憶の跡は残り、学び直しは最初より速い。日をあけた学び直しで立て直す方法を研究で整理。
+- [手書きとタイピング、どちらが記憶に残るのか。研究でわかった本当の差](https://research.seadice.win/handwriting-vs-typing-memory/): 手書きが有利という研究は再現で差が出なかった。脳の働きには違いがあるが、成績を分けるのは「自分の言葉でまとめるか」だった。
+- [問題は種類ごとにまとめて解くより、混ぜて解くほうが身につく？「交互練習」のやり方を研究で調べた](https://research.seadice.win/interleaved-practice-mixed-study-research/): 種類を混ぜて練習した内容は2週間後のテストで72％、まとめた場合は38％。ただし効果は教材しだいで、単語の暗記では逆だった。
+- [聞いたばかりの番号や用事を、すぐ忘れるのはなぜ？「一度に覚えられるのは4つほど」の短期記憶の研究](https://research.seadice.win/just-heard-forget-short-term-memory-why-research/): 聞いたばかりのことを頭に置ける量は若い大人で3〜5個ほど。3文字でも18秒ほかの作業をするとほぼ忘れた。仕組みと覚えておくコツ。
+- [語呂合わせで英単語を覚えるなら、どうやる？ キーワード法の研究でわかった「作ったらすぐ2回テスト」のやり方](https://research.seadice.win/keyword-mnemonic-vocabulary-how-research/): 語呂合わせは作った直後に2回思い出すテストをすると残りやすい。20語中11.4語対6.5語。長期の記憶には弱く、日をあけた復習と組み合わせる。
+- [「自分は視覚型」に合わせて勉強すると覚えやすい？ 学習スタイルの研究で調べた](https://research.seadice.win/learning-styles-visual-auditory-memory-research/): タイプに合わせても成績はほぼ変わらない。21研究のメタ分析で説どおりの結果は指標の26%。好みは「覚えた感じ」と結びつくだけだった。
+- [マインドマップで覚えるなら、どう使う？「本を閉じて描く」「描いた後に見直す」が大事な理由を研究で調べた](https://research.seadice.win/mind-map-memory-how-to-use-research/): 本を見ながら描いて終わりだと1週間後の正答率は59%。描いた後に5分覚え直すと70%で、思い出す練習（73%）と差がなかった。
+- [顔は覚えているのに、人の名前だけ忘れるのはなぜ？ 名前が覚えにくい仕組みを研究で調べた](https://research.seadice.win/names-hard-to-remember-why-research/): 名前はその人の顔や仕事と意味でつながらず、覚えたつもりにもなりやすい。職業より名前が出にくい実験から、仕組みと覚えるヒントを整理。
+- [勉強は「読む前に問題を解く」と覚えやすい？ プレテストの研究でわかった、間違えてもいい予習のやり方](https://research.seadice.win/pretesting-before-study-memory-research/): 読む前に問題を解くと、ほぼ全問まちがえても読むだけより記憶に残った。答えは本文から探し、読後にもう一度解く。
+- [読んだはずの本の内容を覚えていないのはなぜ？「わかったつもり」の仕組みを研究で調べた](https://research.seadice.win/read-but-cant-remember-illusion-why-research/): 読んでいる最中は答えが目の前にあり「覚えた」と感じやすい。説明を書くと理解の自己評価が下がることが、追試でも再現されている。
+- [声に出して覚えると記憶に残りやすいのか。研究でわかった条件](https://research.seadice.win/reading-aloud-memory-production-effect/): プロダクション効果の研究から、全部ではなく一部だけ声に出す方が記憶に残りやすいことを確認した。
+- [自分の言葉で説明しながら覚えると、記憶に残りやすいのはなぜ？「自己説明」と「生成効果」の研究](https://research.seadice.win/self-explanation-own-words-memory-why-research/): 自分で答えを作ると、読むだけより頭を多く使い記憶に残ります。86研究のメタ分析、瞳孔を測った実験、半年後の記憶を調べた研究で仕組みと限界を解説。
+- [似たものをまとめて覚えると、混ざってしまうのはなぜ？ 記憶の「干渉」を研究で調べた](https://research.seadice.win/similar-words-mix-up-interference-why-research/): 似たもの同士は記憶の中でぶつかり、取り違えやすい。102人の実験と51研究のメタ分析から干渉の仕組みを解説。
+- [覚えた直後に眠ると記憶は定着しやすいのか。睡眠と記憶の4つの研究でわかったこと](https://research.seadice.win/sleep-timing-after-learning-memory-research/): 学習と睡眠の間隔を調べた実験から、眠るタイミングが記憶の残り方をどう左右するかを確認する
+- [復習はいつがベスト？1,350人の実験でわかった、記憶が変わるタイミング](https://research.seadice.win/spacing-effect-review-timing/): 1350人以上の実験とメタ分析から、復習の最適な間隔を調べた。早すぎても遅すぎても効果が下がることがわかった。
+- [勉強しているのに身についている気がしないときは？「わかった感じ」と本当の学びのずれを研究で調べた](https://research.seadice.win/study-feels-not-learning-effort-recovery-research/): 頭を使う勉強ほど「学べていない」と感じやすいのに、テストの点は上だった。手応えでなく数日後のテストで確かめる立て直し方。
+- [覚えたことを人に説明すると記憶に残るのか。「教える効果」を調べた研究](https://research.seadice.win/teaching-effect-memory-research/): 教えるつもりで学んだ人は、テストのためだけに学んだ人よりまとまりよく思い出せた。対話形式で教えるほど効果は大きい傾向があった。
+- [読み返すより、自分にテストする方が覚えられるのか。「テスト効果」の研究](https://research.seadice.win/testing-effect-retrieval-practice/): 1週間後の記憶は、くり返し読んだ人が40%、思い出す練習をした人が61%。読み返しより「思い出す」復習の方が残りやすい。
+- [名前や単語が「喉まで出かかって」思い出せないとき、どうする？ ど忘れの研究でわかったこと](https://research.seadice.win/tip-of-the-tongue-recall-research/): 喉まで出かかった言葉は、長く粘るほど次もど忘れしやすい。最初の文字などのヒントで自力で思い出すと、くり返しにくくなる。
+- [覚えたことは、なぜすぐ忘れるのか。忘却曲線の再現実験と脳の研究でわかったこと](https://research.seadice.win/why-we-forget-forgetting-curve-research/): 覚えた直後ほど速く忘れるのは誰にでも起きる性質。固まる前の記憶は上書きされやすく、脳には自ら忘れる仕組みもある。
+- [テストで間違えた後、どう復習すれば覚えられるのか。「間違い」と記憶の研究でわかったこと](https://research.seadice.win/wrong-answer-review-memory-research/): 間違えた直後に正解を確かめると1週間後の記憶が大きく伸びた。自信満々の間違いほど直りやすいが、わざと間違える必要はない。
+
 ### 習慣
 
 - [1回のミスで「もう全部やめたくなる」のはなぜ？「どうにでもなれ効果」の研究](https://research.seadice.win/all-or-nothing-diet-slip-research/): 「低カロリー」と伝えられても食事制限中の人は食べすぎ、失敗を自分のせいと決めつけるほど次の過食が早まった。4つの研究から確認。
@@ -129,7 +129,7 @@
 ### 先延ばし
 
 - [退屈で後回しにしている作業は、「誰の役に立つか」を書くと手をつけやすい？ 意味づけの研究でわかったやり方と注意点](https://research.seadice.win/boring-task-purpose-procrastination-research/): 退屈な作業は「誰かの役に立つ理由」を書くと続けやすくなる。429人の実験で36%多く解いたが、効果は条件しだい。
-- [先延ばししている大きな作業は、どう細かく分ければ手をつけられる？ 研究でわかった分け方と注意点](https://research.seadice.win/break-task-small-steps-procrastination-research/): 簡単な最初の一歩と分数、ご褒美を決めると、取りかかる見込みが少し上がった。区切った締め切りの有名な研究は撤回済み。
+- [先延ばししている大きな作業は、どう細かく分ければ手をつけられる？ 研究でわかった分け方と注意点](https://research.seadice.win/break-task-small-steps-procrastination-research/): 避けている理由や良いことを書き、簡単な最初の一歩と分数、ご褒美を決めると、取りかかる見込みが少し上がった。区切った締め切りの有名な研究は撤回済み。
 - [締め切りが先だと、なぜ手をつけられない？「あとでやる方が楽に見える」脳の仕組みを研究で調べた](https://research.seadice.win/far-deadline-procrastination-why-research/): 脳は遠いごほうびを小さく、あとでやる苦労を軽く見積もる。51人の脳と109日間の課題の研究から解説。
 - [「未来の自分」を身近に感じると先延ばしは減る？ 研究でわかった、未来の自分の思い浮かべ方](https://research.seadice.win/future-self-procrastination-how-research/): 未来の自分を身近に感じる人ほど先延ばしは少ない。具体的に想像する練習は先の得を選ぶ判断を後押ししたが、先延ばしが減るとまでは未確認。
 - [誰かと一緒にやれば先延ばしは減る？ グループ作業の実験でわかった「自分が欠かせない」の条件](https://research.seadice.win/group-work-procrastination-research/): 一緒にやるだけでは減らない。自分の分が欠けるとチームが困る形でだけ先延ばしが少なめだったが、効果は小さく不安は増えた。
