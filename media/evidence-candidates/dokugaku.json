@@ -5262,5 +5262,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-study-streak-keep-going-run-streak-ending",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ingalls et al., \"The dark side of streaking: Examining the backfire potential of run streaking in recreational runners who broke a long-term streak\" (PLOS ONE, 2026)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0317254",
+    "studyType": "質的研究（聞き取り）",
+    "articleUrl": "https://dokugaku.seadice.win/study-streak-keep-going/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "連続記録は守るほどいい？",
+        "body": "アプリの「連続◯日」、途切れさせたくないよね。でも長い記録が終わったとき、人はどうなるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "100日以上走り続けた人に聞いた",
+        "body": "Ingallsらは、毎日走る記録を100日以上続けて、それが終わった市民ランナー17人に聞き取りをした。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "悲しさと、ほっとした気持ち",
+        "body": "記録を守るため、けがをしたまま走った人もいた。終わると悲しさや怒りと、ほっとした気持ちの両方があった。それでも走れる体の人は全員が走り続けた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数はたった17人",
+        "body": "少人数の聞き取りで、効果の大きさは測っていない。勉強の連続記録でも同じことが起きるかは、この研究からはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

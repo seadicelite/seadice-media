@@ -3194,5 +3194,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/SONY_MDR-CD900ST.jpg/500px-SONY_MDR-CD900ST.jpg",
   "og": "https://dokugaku.seadice.win/img/binaural-beats-study-focus-og.jpg",
   "local": true
+ },
+ "study-streak-keep-going": {
+  "file": "File:Calendar on wall - DPLA - 56626648908df09881fb4dbdb67ba801.jpg",
+  "src": "/img/study-streak-keep-going.webp",
+  "src640": "/img/study-streak-keep-going-sm.webp",
+  "w": 960,
+  "h": 670,
+  "alt": "壁に掛けたカレンダー",
+  "artist": "Sanromá, John B., 1900-1997",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Calendar_on_wall_-_DPLA_-_56626648908df09881fb4dbdb67ba801.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Calendar_on_wall_-_DPLA_-_56626648908df09881fb4dbdb67ba801.jpg/960px-Calendar_on_wall_-_DPLA_-_56626648908df09881fb4dbdb67ba801.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Calendar_on_wall_-_DPLA_-_56626648908df09881fb4dbdb67ba801.jpg/500px-Calendar_on_wall_-_DPLA_-_56626648908df09881fb4dbdb67ba801.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-streak-keep-going-og.jpg",
+  "local": true
  }
 }
