@@ -4965,5 +4965,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-ai-work-use-resilience-meaning",
+    "category": "仕事とAIの不安",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ji Y, Wu H, \"From threat to strength: how AI usage is paradoxically associated with resilience among accounting and finance employees\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1820550",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-work-use-resilience/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "AIに任せると打たれ弱くなる？",
+        "body": "仕事をAIに任せるほど、困ったときに踏ん張る力がなくなりそう。そんな心配、よく聞くよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "経理・財務の332人を3回調査",
+        "body": "中国で経理や財務の仕事をする332人に、2週間おきに3回、仕事用のAIの使い方、仕事に意味を感じるか、仕事で立ち直る力を聞いたんだ（2025年10〜12月）。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "よく使う人ほど立ち直る力が高かった",
+        "body": "AIをよく使う人ほど、仕事に意味を感じていて、立ち直る力も高い傾向があった。その結びつきの約半分（50.3%）は、仕事の意味を感じる度合いで説明されていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIのおかげかは不明",
+        "body": "本人の回答だけの調査なので、AIを使うと立ち直る力が上がるのかはわからない。もともと前向きな人がAIもよく使っている可能性もあるし、対象は中国の1つの職種だけだよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

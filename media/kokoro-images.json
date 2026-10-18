@@ -4365,5 +4365,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pebbles_Chesil_Beach_Portland.jpg/500px-Pebbles_Chesil_Beach_Portland.jpg",
   "og": "https://mentalai.seadice.win/img/few-friends-life-satisfaction.jpg",
   "local": true
+ },
+ "ai-work-use-resilience": {
+  "file": "File:Pebbles in Rethymno's beach.jpg",
+  "src": "/img/ai-work-use-resilience.jpg",
+  "src640": "/img/ai-work-use-resilience-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "波打ち際に広がる色とりどりの丸い小石",
+  "artist": "Quim Gil",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Pebbles_in_Rethymno%27s_beach.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Pebbles_in_Rethymno%27s_beach.jpg/960px-Pebbles_in_Rethymno%27s_beach.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Pebbles_in_Rethymno%27s_beach.jpg/500px-Pebbles_in_Rethymno%27s_beach.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-work-use-resilience.jpg",
+  "local": true
  }
 }
