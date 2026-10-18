@@ -2293,5 +2293,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_use_of_Nightstand.jpg/500px-The_use_of_Nightstand.jpg",
   "og": "https://ai.seadice.win/img/graphic-video-seen-scene-keeps-coming-back-og.jpg",
   "local": true
+ },
+ "ai-conversation-changed-my-opinion": {
+  "file": "File:Schachfiguren, Bauern -- 2022 -- 0022 (bw).jpg",
+  "src": "/img/ai-conversation-changed-my-opinion.jpg",
+  "src640": "/img/ai-conversation-changed-my-opinion-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のチェスの駒",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Schachfiguren,_Bauern_--_2022_--_0022_(bw).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Schachfiguren%2C_Bauern_--_2022_--_0022_%28bw%29.jpg/960px-Schachfiguren%2C_Bauern_--_2022_--_0022_%28bw%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Schachfiguren%2C_Bauern_--_2022_--_0022_%28bw%29.jpg/500px-Schachfiguren%2C_Bauern_--_2022_--_0022_%28bw%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-conversation-changed-my-opinion.jpg",
+  "local": true
  }
 }

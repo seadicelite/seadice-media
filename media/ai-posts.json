@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-conversation-changed-my-opinion",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-19",
+  "title": "AIと話していたら、考えが変わっていた。AIの説得力は人より強い？研究では、年齢などの情報を渡されたAIは討論で人より説得的だったが、考えの動きは平均では小さめだった",
+  "summary": "米国の900人の討論実験では、年齢などを知ったAIが人より説得的。ただ別の実験では考えの動きは小さく、変わった理由を確かめるのが手がかり。"
+ },
+ {
   "slug": "graphic-video-seen-scene-keeps-coming-back",
   "category": "心の疲れ・比べて落ち込む",
   "type": "guide",
