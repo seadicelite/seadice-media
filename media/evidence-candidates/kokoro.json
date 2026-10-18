@@ -4251,5 +4251,73 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-couple-comparison-appreciation-prevent-better-self",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ecker et al., \"The role of comparison processes in maintenance goals: Evidence from the health and relationship domains\" (Applied Psychology: Health and Well-Being, 2026)",
+    "sourceUrl": "https://doi.org/10.1111/aphw.70133",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/couple-comparison-appreciation-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "よそのカップルと比べると？",
+        "body": "仲のよさそうなカップルを見たあと、自分たちの関係が物足りなく思えること、あるよね。ドイツの研究チームが、比べる相手で気持ちが変わるかを実験で確かめているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "思い浮かべる相手を変えた",
+        "body": "英国の329人に、近所の仲のいいカップルとうまくいっていないカップル、または自分たちの関係のもっと良い形と悪い形を思い浮かべてもらって、今の関係をどれくらいありがたく思うかを聞いたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "比べる先は「自分たち」に",
+        "body": "仲のいいよそのカップルを思い浮かべると、ありがたく思う気持ちは7段階で6.28から5.50に下がった。自分たちのもっと良い形を思い浮かべると、4.70から6.32に上がっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "SNSでも同じかは未確認",
+        "body": "短い文章で場面を思い浮かべる実験で、SNSの投稿を見たときや、何か月も先の関係の満足までは調べていないよ。参加者は英国の大人だった。"
+      }
+    ],
+    "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-worse-off-others-still-sad-recover-visitor-mindset",
+    "category": "ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Roos et al., \"Randomized trial of a single-session digital intervention targeting emotion-related beliefs and emotion regulation\" (Scientific Reports, 2026)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-026-59035-3",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/worse-off-others-still-sad-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "落ち込みは追い払うもの？",
+        "body": "いやな気持ちは早く消さなきゃ、と思いがちだよね。米国の研究チームは、いやな気持ちを「しばらくいて、やがて帰るお客さん」と受け止める練習を試しているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "530人をくじで2組に",
+        "body": "軽い以上の落ち込みや不安がある米国の大人530人が、受け止め方を学ぶネットの講座か、自然の動画を見る組に分かれた。2週間後に気持ちと暮らしの様子を聞いたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "暮らしの支障が少し減った",
+        "body": "落ち込みや不安の点数は、全体でははっきりした差がなかった。でも仕事や家事など日常生活の支障は、練習した組で少し多く減っていた（効果の大きさ0.21）らしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く続くかは不明",
+        "body": "結果は2週間後まで。検定をたくさんしているので偶然の差が混じる可能性もある、と著者たち自身が書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

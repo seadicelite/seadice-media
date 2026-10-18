@@ -4061,5 +4061,41 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2016_Busola.JPG/500px-2016_Busola.JPG",
   "og": "https://mentalai.seadice.win/img/ai-bias-carryover-warning-prevent-og.jpg",
   "local": true
+ },
+ "worse-off-others-still-sad-recover": {
+  "file": "File:Bruce's Stone on Moss Raploch - geograph.org.uk - 6547990.jpg",
+  "src": "/img/worse-off-others-still-sad-recover.jpg",
+  "src640": "/img/worse-off-others-still-sad-recover-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "広い荒れ野に置かれた大きな石",
+  "artist": "Billy McCrorie",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bruce%27s_Stone_on_Moss_Raploch_-_geograph.org.uk_-_6547990.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bruce%27s_Stone_on_Moss_Raploch_-_geograph.org.uk_-_6547990.jpg/960px-Bruce%27s_Stone_on_Moss_Raploch_-_geograph.org.uk_-_6547990.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bruce%27s_Stone_on_Moss_Raploch_-_geograph.org.uk_-_6547990.jpg/500px-Bruce%27s_Stone_on_Moss_Raploch_-_geograph.org.uk_-_6547990.jpg",
+  "og": "https://mentalai.seadice.win/img/worse-off-others-still-sad-recover.jpg",
+  "local": true
+ },
+ "couple-comparison-appreciation-prevent": {
+  "file": "File:Two cups of tea with star shaped cookies.jpg",
+  "src": "/img/couple-comparison-appreciation-prevent.jpg",
+  "src640": "/img/couple-comparison-appreciation-prevent-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "テーブルに並んだ2つのお茶のカップ",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Two_cups_of_tea_with_star_shaped_cookies.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_cups_of_tea_with_star_shaped_cookies.jpg/960px-Two_cups_of_tea_with_star_shaped_cookies.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_cups_of_tea_with_star_shaped_cookies.jpg/500px-Two_cups_of_tea_with_star_shaped_cookies.jpg",
+  "og": "https://mentalai.seadice.win/img/couple-comparison-appreciation-prevent.jpg",
+  "local": true
  }
 }
