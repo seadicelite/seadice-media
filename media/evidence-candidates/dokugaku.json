@@ -4786,5 +4786,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-note-review-hide-and-recall-sheet-group-review",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wei et al., \"Collaborative review enhances note-taking, especially after a longer delay, but does not boost test performance\" (Memory, 2025)",
+    "sourceUrl": "https://doi.org/10.1080/09658211.2025.2573272",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/note-review-hide-and-recall-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ノートはみんなで見せ合うと強くなる",
+        "body": "友だちとノートを見せ合って、抜けている所を埋める。テスト前によくやるし、効きそうだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1人とグループで見直しを比べた",
+        "body": "学生が2本の講義を見てノートを取り、少しあとか、長く時間をおいてから、1人またはグループでノートを見直して書き足した。そのあと講義ごとにテストを受けた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ノートは充実、でも点は同じ",
+        "body": "グループで見直した方がノートに書き足した要点は多く、時間をおいた後ほど差が大きかった。でも、最後のテストの成績は良くならなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何が点につながるのか",
+        "body": "ノートが充実しても点が上がらなかった理由は、まだわかっていない。著者らも、ほかの要因を考える必要があるとしている。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

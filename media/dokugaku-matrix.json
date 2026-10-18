@@ -146,7 +146,8 @@
     ],
     "use": [
      "read-recite-review-sheet",
-     "reading-comprehension-check-sheet"
+     "reading-comprehension-check-sheet",
+     "note-review-hide-and-recall-sheet"
     ]
    }
   },
