@@ -4844,5 +4844,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-time-management-procrastination-research-training-control-not-performance",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Häfner A & Stock A, \"Time management training and perceived control of time at work\" (The Journal of Psychology, 2010)",
+    "sourceUrl": "https://doi.org/10.1080/00223980.2010.496647",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/time-management-procrastination-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "時間管理を学べば仕事がはかどる？",
+        "body": "手帳や優先順位づけを覚えれば、仕事の成果が上がる。時間管理の本や研修でよく聞く話だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "会社員71人をくじで分けた",
+        "body": "ある研究で、会社員71人をくじで2組に分けたんだ。35人が心理学にもとづく時間管理の研修を受けて、36人は順番待ちの組になった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "変わったのは「気持ち」の側",
+        "body": "研修を受けた組は、時間を自分で動かせる感覚が高まって、ストレスが下がった。でも、仕事の成果を表す指標には変化がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数も使い方もばらばら",
+        "body": "71人と小さな研究で、教えた方法を実際に使ったかどうかは人によって大きく違った。長く続けたら成果が変わるのかは、この研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
