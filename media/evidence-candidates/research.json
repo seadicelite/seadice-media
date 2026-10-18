@@ -5150,5 +5150,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-habit-reminder-notification-ignored-recovery-research-heartsteps-fade",
+    "category": "習慣",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Klasnja P et al., \"Efficacy of Contextually Tailored Suggestions for Physical Activity: A Micro-randomized Optimization Trial of HeartSteps\" (Annals of Behavioral Medicine, 2019)",
+    "sourceUrl": "https://doi.org/10.1093/abm/kay067",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/habit-reminder-notification-ignored-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "習慣の通知、だんだん効かなくなる？",
+        "body": "最初は通知が鳴るたびに動けたのに、いつのまにか見ずに消している。そんな経験、けっこうあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "歩く通知を送るか、毎回くじで決めた",
+        "body": "アメリカの研究チームが、座りがちな大人44人のスマホに6週間、「少し歩きませんか」という通知を送るかどうかを毎回ランダムに決めて、直後30分の歩数を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "初日は約2倍、1か月で見えなくなった",
+        "body": "歩く通知は初日、直後の歩数を約2倍（271歩増）にした。でも効果は1日に約3%ずつ弱まって、29日目ごろには見分けられなくなったらしい。参加者は「2〜4週間で退屈になった」と話していたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数が少なく、測ったのは30分だけ",
+        "body": "分析できたのは37人で、測ったのは通知直後30分の歩数だけ。別のアプリの研究では、89日間で効果が弱まる傾向ははっきりしなかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

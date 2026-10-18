@@ -3254,5 +3254,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Letter-writing_at_a_portable_desk_with_quill%2C_inkwell%2C_seal_and_an_open_book_bound_with_clasps_on_a_reading_stand_..._and_a_clock_and_bell_%28Antwerp%2C_19th_c.%29_%288065271671%29.jpg/500px-thumbnail.jpg",
   "og": "https://research.seadice.win/img/reading-not-sinking-in-mind-wandering-recovery-research.jpg",
   "local": true
+ },
+ "habit-reminder-notification-ignored-recovery-research": {
+  "file": "File:Old alarm clock on the bookshelf - 50233824038.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg/960px-Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg/500px-Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "目覚まし時計",
+  "artist": "Nenad Stojkovic",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
