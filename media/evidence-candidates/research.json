@@ -4912,5 +4912,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-study-feels-not-learning-effort-recovery-research-feeling-of-learning",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Deslauriers L, McCarty LS, Miller K, Callaghan K & Kestin G, \"Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom\" (PNAS, 2019)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.1821936116",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/study-feels-not-learning-effort-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "わかった感じ＝身についた？",
+        "body": "授業や勉強のあと「よくわかった！」と感じたら、ちゃんと身についた気がするよね。でも、その手応えって本当に当てになるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "149人で授業を入れ替え",
+        "body": "ハーバード大学の物理の授業で、学生149人をくじで分けた。同じ内容を、聞くだけの講義と、グループで問題に取り組む授業で教えて、入れ替えて比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "感じは低いのに点は上",
+        "body": "頭を使う授業の学生は「学べた感じ」が標準偏差で0.56ぶん低かったのに、テストの点は0.46ぶん高かった。手応えと実際の学びが逆向きだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1つの大学の2回の授業",
+        "body": "調べたのは1つの大学の物理の授業、それも2回分だけ。ほかの科目や、一人での勉強でも同じようにずれるかは、まだはっきりしていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
