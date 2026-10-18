@@ -3236,5 +3236,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/A_dental_chair_in_a_dentist_clinic_in_North_Carolina%2C_United_States.jpg/500px-A_dental_chair_in_a_dentist_clinic_in_North_Carolina%2C_United_States.jpg",
   "og": "https://research.seadice.win/img/health-checkup-appointment-procrastination-recovery-research.jpg",
   "local": true
+ },
+ "reading-not-sinking-in-mind-wandering-recovery-research": {
+  "file": "File:Letter-writing at a portable desk with quill, inkwell, seal and an open book bound with clasps on a reading stand ... and a clock and bell (Antwerp, 19th c.) (8065271671).jpg",
+  "src": "/img/reading-not-sinking-in-mind-wandering-recovery-research.jpg",
+  "src640": "/img/reading-not-sinking-in-mind-wandering-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上に開いた本",
+  "artist": "takomabibelot",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Letter-writing_at_a_portable_desk_with_quill,_inkwell,_seal_and_an_open_book_bound_with_clasps_on_a_reading_stand_..._and_a_clock_and_bell_(Antwerp,_19th_c.)_(8065271671).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Letter-writing_at_a_portable_desk_with_quill%2C_inkwell%2C_seal_and_an_open_book_bound_with_clasps_on_a_reading_stand_..._and_a_clock_and_bell_%28Antwerp%2C_19th_c.%29_%288065271671%29.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Letter-writing_at_a_portable_desk_with_quill%2C_inkwell%2C_seal_and_an_open_book_bound_with_clasps_on_a_reading_stand_..._and_a_clock_and_bell_%28Antwerp%2C_19th_c.%29_%288065271671%29.jpg/500px-thumbnail.jpg",
+  "og": "https://research.seadice.win/img/reading-not-sinking-in-mind-wandering-recovery-research.jpg",
+  "local": true
  }
 }

@@ -5082,5 +5082,73 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-reading-not-sinking-in-mind-wandering-recovery-research-read-aloud",
+    "category": "集中力",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Varao Sousa TL, Carriere JSA & Smilek D, \"The way we encounter reading material influences how frequently we mind wander\" (Frontiers in Psychology, 2013)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2013.00892",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/reading-not-sinking-in-mind-wandering-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "読んでるのに頭に入らない",
+        "body": "気づいたら同じ行を何回も読んでる。目は文字を追ってるのに、心は別のことを考えてるんだよね。読み方で変わるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "音読・黙読・聞くだけを比べた",
+        "body": "カナダの大学生235人が、声に出して読む、黙って読む、人が読むのを聞く、の3通りで文章に触れて、途中で「今、上の空だった？」に答えたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "音読が一番、上の空が少ない",
+        "body": "上の空が一番少なかったのは音読。聞くだけのときは平均50.6%と一番多く、黙読は35.6%。聞くだけのときは記憶テストの成績も一番低かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い勉強でも同じ？",
+        "body": "実験室で短い文章を読んだ結果なんだ。何時間もの勉強や、オーディオブックを毎日聞く場合に同じことが言えるかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-reading-not-sinking-in-mind-wandering-recovery-research-font-null",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Tietz S et al., \"Demotivated, but still attentive: Text disfluency does not affect mind-wandering and reading comprehension, but reduces motivation\" (Psychonomic Bulletin & Review, 2025)",
+    "sourceUrl": "https://doi.org/10.3758/s13423-025-02735-0",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/reading-not-sinking-in-mind-wandering-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "読みにくい字のほうが集中できる？",
+        "body": "2017年に、グレーのComic Sansみたいな読みにくい書体で読むと、上の空が減ったという報告があったんだ。ちょっと意外だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3段階の書体で確かめ直した",
+        "body": "ドイツの研究チームが、学生151人で、読みやすい・やや読みにくい・とても読みにくい書体を比べた。やり方は事前に登録してから実験したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "上の空も理解も変わらなかった",
+        "body": "書体を変えても、上の空の多さも内容の理解も変わらなかった。下がったのは「読みたい」という意欲だけだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "条件しだいの可能性",
+        "body": "学生を対象にした1回の実験なんだ。文章や読む人が違えば結果が変わる可能性は、著者たちも残しているよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

@@ -93,38 +93,6 @@
 - [背筋を伸ばすと気分は上向くのか。姿勢とストレスの研究](https://research.seadice.win/upright-posture-mood-research/): 背筋を伸ばすと、ストレスの中でも気分や自尊心が保たれやすかった。一方、パワーポーズでホルモンが変わる効果は再現されなかった。
 - [友人に弱音を吐くとストレスは軽くなるのか。「打ち明けること」を研究で調べた](https://research.seadice.win/venting-to-friends-corumination-research/): 話すこと自体には小さな前向き効果があるが、同じ話をくり返す「共同反芻」はうつ・不安の症状と関連する。27,794人のメタ分析でもうつ症状との関連を確認。
 
-### 睡眠
-
-- [寝酒は眠りを良くするのか。「寝つきは早いが、後半が乱れる」研究](https://research.seadice.win/alcohol-before-bed-sleep/): お酒で寝つきは早くなるが、夜の後半は眠りが乱れ、少量でも睡眠中の体の回復が妨げられていた。寝酒は眠りの助けにならない。
-- [眠れなかった夜のあと、どう立て直す？ 次の夜に「取り返そう」としなくていい理由を研究で調べた](https://research.seadice.win/bad-night-sleep-next-night-recovery-research/): 一時的な不眠の72.4%は自然に回復した。長引くかに関わったのは眠れないことへの心配。翌朝はいつもの時刻に起き、眠くなってから布団へ。
-- [寝る前の入浴は寝つきを良くするのか。研究でわかった効果的なタイミング](https://research.seadice.win/bathing-before-bed-sleep-onset/): 就寝1〜2時間前に10分以上の入浴で入眠が20〜30%早まったとする研究が複数。高齢者の足浴実験では一晩全体の改善は見られなかった。
-- [寝る前の考えごとを止めるには？ 頭の中で場面を描く「イメージそらし」と認知シャッフルの研究](https://research.seadice.win/bedtime-racing-thoughts-imagery-shuffle-how-research/): 考えるなと命じるより、穏やかな場面を細かく描く。不眠の41人の実験で寝つきが早まった。認知シャッフルの根拠はまだ学会発表の段階。
-- [寝る前の読書は寝つきを良くするのか。紙の本と画面で違った研究](https://research.seadice.win/bedtime-reading-paper-book-sleep/): 寝る前に画面で読むと紙の本より寝つきが約10分遅れた。読書そのものより「何で読むか」が眠りを左右していた。
-- [夜スマホをやめられないのは意志の弱さ？研究でわかった原因と3つの一歩](https://research.seadice.win/bedtime-smartphone-sleep/): 日中の疲れと寝る前の画面の光が、眠りを遅らせる。5本の研究から、今夜できる工夫を整理。
-- [寝る前のストレッチは睡眠の質を上げるのか。4つの研究でわかったこと](https://research.seadice.win/bedtime-stretching-sleep-quality-research/): 不眠症の人への4か月のストレッチでISIが8.1点改善。一方、睡眠障害がある人全体を見た16件のレビューでは効果の証拠は乏しいとされた。
-- [寝る前に「明日やること」を書くと眠れる。研究でわかった理由](https://research.seadice.win/bedtime-todo-list-sleep/): 就寝前にやることリストを書いたグループが早く眠りについた実験を紹介。今夜からできる書き方も解説。
-- [カフェインは何時間前までOK？研究でわかった「量」と「時間」の関係](https://research.seadice.win/caffeine-hours-before-bed/): コーヒー1杯なら4時間前でも平気、でも400mgは12時間前でも睡眠に影響。量と時間の関係を解説。
-- [寝室はどれくらい暗くすればいい？ 寝ている間の明かりの研究でわかった、暗くするやり方](https://research.seadice.win/dark-bedroom-light-during-sleep-research/): 寝室は暗くしたほうがいい？ 明かりをつけたまま眠ると深い眠りが減り、本人は気づかない実験と、アイマスクの研究から、暗くするやり方を整理。
-- [昼間に日光を浴びると夜よく眠れるのか。体内時計を変える「光」の研究](https://research.seadice.win/daytime-light-exposure-night-sleep-research/): 日中の光が多く安定している人ほど、寝つきが早く深い睡眠が増える。89人の追跡調査や自然光キャンプの実験からわかったこと。
-- [いつもより早く寝ようとすると眠れないのはなぜ？ 寝る前の「睡眠禁止帯」を研究で調べた](https://research.seadice.win/early-bedtime-cant-sleep-forbidden-zone-why-research/): 早く布団に入っても眠れないのは、就寝の数時間前に体内時計が「起きていろ」の信号を強める「睡眠禁止帯」があるため。
-- [夜に運動すると眠れなくなるのか。寝る何時間前までならいいかを研究で調べた](https://research.seadice.win/evening-exercise-sleep-research/): 夜の運動は全体として眠りを悪くしなかった。ただ寝る直前の激しい運動は寝つきを遅らせることがあり、4時間前までに終えると影響は見られなかった。
-- [旅行先や初めての場所でよく眠れないのはなぜ？「初夜効果」と脳の見張り役を研究で調べた](https://research.seadice.win/first-night-effect-sleep-why-research/): 慣れない場所の1晩目に眠りが浅くなる「初夜効果」は53件のメタ分析でも確認。脳の片側が見張り役として起きているという説と、その後の検証を整理。
-- [暑い夜に眠れないのはなぜ？「体の熱が逃げない」寝苦しさの仕組みを研究で調べた](https://research.seadice.win/hot-night-cant-sleep-why-research/): 眠るときに下がるはずの深部体温が、暑さと湿気で下がりにくくなる。寝始めの暑さほど眠りを乱した実験と76万人の調査から仕組みを整理。
-- [時差ぼけがつらいときは、どう立て直す？ 東向きと西向きで違う「光を浴びる時間」を研究で調べた](https://research.seadice.win/jet-lag-recovery-light-timing-research/): 時差ぼけがつらいときは？ 体内時計は光を浴びる時刻で早まったり遅れたりする。東向きは戻りが遅い理由と、到着後・出発前の光の使い方を研究で整理。
-- [朝どうしても起きられない人へ。体内時計を約2時間動かした実験でわかったこと](https://research.seadice.win/morning-light-wake-up/): 起床時間・朝の光・食事や運動のタイミングを整えると、体内時計が平均約2時間前進した実験を紹介。
-- [昼寝は何分がいい？研究でわかった「10分」の意外な強さ](https://research.seadice.win/nap-best-length/): 5分では足りず、30分だとぼんやりする。24人の実験で最も効いた長さを解説。
-- [夜中に目が覚めて眠れないとき、布団から出るべき？「刺激制御法」の研究でわかったこと](https://research.seadice.win/night-awake-get-out-of-bed-stimulus-control-research/): 15分ほど眠れなければ眠る努力をやめ、眠くなるまで布団の外で過ごす。効果は複数のまとめで示されたが研究の質は低め。布団の中で行っても改善した。
-- [夜勤明けに眠れない、休みの日に戻せないときは？ 仮眠と光の使い方を研究で調べた](https://research.seadice.win/night-shift-sleep-recovery-research/): 夜勤明けは朝の光で体内時計が昼に戻るため眠りにくい。帰り道の光を避けて暗い部屋ですぐ眠り、休みに徹夜で戻さない立て直し方。
-- [夜中に何度も目が覚めるのはなぜ？ 中途覚醒の仕組みを研究で調べた](https://research.seadice.win/night-waking-why-research/): 週3日以上夜中に目が覚める人は約8900人の調査で35.5%。年齢による眠りの変化、ストレスで脳が冴えすぎる状態、時計を見る焦りなど、中途覚醒の仕組みを研究で整理。
-- [怖い夢で目が覚めたら、どう立て直す？ 悪夢を「書き換える」練習（イメージリハーサル）の研究でわかったこと](https://research.seadice.win/nightmare-wake-up-imagery-rehearsal-recovery-research/): 悪夢で眠れない夜が続くなら、昼間に夢の筋書きを書き換えて毎日10〜20分思い浮かべる練習を。399人の実験で悪夢が減った。
-- [昼食の後に眠くなるのはなぜか。食後の眠気の研究でわかった2つの理由](https://research.seadice.win/post-lunch-sleepiness-research/): 午後の眠気は体内時計の波が土台にあり、食事をとらなくても起こる。922kcalの重いランチは305kcalの軽いランチより、運転中の車線はみ出しを有意に増やした。
-- [毎日同じ時刻に寝起きすると、眠りは良くなるのか。「睡眠の規則性」の研究](https://research.seadice.win/sleep-regularity-same-time-research/): 寝起きの時刻がそろっていることは、睡眠時間と同じくらい、気分や健康と関わっていた。まずは起きる時刻をそろえるのが一歩目。
-- [スヌーズで二度寝するのは体に悪いのか。研究でわかった意外な結果](https://research.seadice.win/snooze-alarm-research/): 30分のスヌーズで失う睡眠は約6分で、頭の働きも下がらなかった研究がある一方、寝ぼけが長引いたという研究もあり、結論は分かれている。
-- [眠ろうと頑張るほど眠れないのはなぜ？「眠る努力」が目を覚ます仕組みを研究で調べた](https://research.seadice.win/trying-hard-to-sleep-awake-research/): 眠りは自動で起きる働きで、意識して操ろうとすると妨げられる。頭が忙しい状態で早く眠ろうとすると、寝つきが遅れた実験も。
-- [週末の寝だめで平日の睡眠不足は帳消しにできる？4つの研究でわかったこと](https://research.seadice.win/weekend-catchup-sleep-debt/): 軽い寝だめは体調の良さと関連する一方、睡眠不足が大きいと帳消しにはできないことが4つの研究からわかった。
-- [週末に寝坊すると、なぜ月曜の朝がつらい？ 体内時計が後ろにずれる「社会的時差ぼけ」の研究](https://research.seadice.win/weekend-sleep-in-monday-social-jetlag-why-research/): 高校生の実験で遅寝遅起きの週末2晩のあと体内時計の目安が約45分遅れ、朝の光や早起きでも防げなかった。月曜がつらい仕組みを解説。
-- [加重ブランケット（重い毛布）は寝つきや不安に効くのか。4つの研究でわかったこと](https://research.seadice.win/weighted-blanket-sleep-anxiety-research/): 426人分の解析で不安への小さな効果を確認。不眠は研究で結果が分かれ、活動量計では今のところ差が出ていない。
-
 ### 習慣
 
 - [1回のミスで「もう全部やめたくなる」のはなぜ？「どうにでもなれ効果」の研究](https://research.seadice.win/all-or-nothing-diet-slip-research/): 「低カロリー」と伝えられても食事制限中の人は食べすぎ、失敗を自分のせいと決めつけるほど次の過食が早まった。4つの研究から確認。
@@ -216,6 +184,7 @@
 - [休憩したのに集中が戻らないのはなぜ？ 休憩中のスマホと回復の研究でわかった立て直し方](https://research.seadice.win/phone-break-focus-not-recovering-research/): スマホでとった休憩は、紙やパソコンの同じ休憩より回復が小さかった。スマホを置き、歩く・力を抜く休憩をとり直すと立て直しやすい。
 - [スマホの通知をオフにすると集中力は戻るのか。3つの研究でわかったこと](https://research.seadice.win/phone-notifications-off-focus/): 通知は触らなくても集中を削り、脳の反応も変化する。ただし通知オフ単独の効果を検証した大規模研究はまだ少ないことを確認した。
 - [「スマホが視界にあるだけで集中力が落ちる」は本当か。22件の研究のメタ分析で調べた](https://research.seadice.win/phone-presence-attention-brain-drain/): 22件の研究のメタ分析では記憶課題に小さな悪影響。ただし追試では再現せず、効果の大きさには議論が残る。
+- [読んでいるのに頭に入らない、同じ行を何度も読んでしまうときは？ 読書中の「上の空」の研究でわかった立て直し方](https://research.seadice.win/reading-not-sinking-in-mind-wandering-recovery-research/): 読書中の上の空は理解の低さと関連（25研究、r = -0.21）。声に出して読むと上の空が最も少なく、聞くだけだと最も多い。書体を読みにくくする工夫は追試で効果なし。
 - [部屋の温度は集中力に影響するのか。4つの研究でわかった「暑すぎても寒すぎても」の境界](https://research.seadice.win/room-temperature-concentration-research/): 室温と集中力の関係を、22〜24℃を目安とする系統的レビューを含む4つの研究から、暑さ・寒さそれぞれの境界を確認する
 - [画面作業で目が疲れて集中が切れたら？ 20-20-20ルールと短い休憩の研究でわかった立て直し方](https://research.seadice.win/screen-eye-strain-focus-break-20-20-20-research/): まず20秒遠くを見て、30分前後ごとに短い休憩を。5分休憩を1日4回足すと目の疲れが減り、仕事量も保たれた。ブルーライト眼鏡の根拠は弱い。
 - [短い瞑想で集中力は戻るのか。研究でわかった「数分」の効果](https://research.seadice.win/short-meditation-focus-recovery/): 5日間20分の瞑想訓練や10分のガイド瞑想で注意力が上がった研究から、短時間の瞑想の効果を確認した。
@@ -227,6 +196,38 @@
 - [アイデアが出ないときは歩く。散歩とひらめきの関係を研究で調べた](https://research.seadice.win/walking-boosts-creativity/): 歩行中は約8割の人で発想力が向上。1000人超のメタ分析でも確認された散歩とひらめきの関係を解説。
 - [ホワイトノイズで集中できるのか。「人によって逆になる」研究](https://research.seadice.win/white-noise-focus-research/): ホワイトノイズは気が散りやすい人には小さな効果があったが、そうでない人には逆効果だった。合うかどうかは人によって違う。
 - [心配ごとがあると集中できないのはなぜ？ 不安が「頭の作業スペース」を使ってしまう仕組みを研究で調べた](https://research.seadice.win/worry-cant-concentrate-why-research/): 心配ごとがあると集中できないのは、心配が頭の作業スペース（ワーキングメモリ）を使うため。メタ分析と実験から仕組みを整理。
+
+### 睡眠
+
+- [寝酒は眠りを良くするのか。「寝つきは早いが、後半が乱れる」研究](https://research.seadice.win/alcohol-before-bed-sleep/): お酒で寝つきは早くなるが、夜の後半は眠りが乱れ、少量でも睡眠中の体の回復が妨げられていた。寝酒は眠りの助けにならない。
+- [眠れなかった夜のあと、どう立て直す？ 次の夜に「取り返そう」としなくていい理由を研究で調べた](https://research.seadice.win/bad-night-sleep-next-night-recovery-research/): 一時的な不眠の72.4%は自然に回復した。長引くかに関わったのは眠れないことへの心配。翌朝はいつもの時刻に起き、眠くなってから布団へ。
+- [寝る前の入浴は寝つきを良くするのか。研究でわかった効果的なタイミング](https://research.seadice.win/bathing-before-bed-sleep-onset/): 就寝1〜2時間前に10分以上の入浴で入眠が20〜30%早まったとする研究が複数。高齢者の足浴実験では一晩全体の改善は見られなかった。
+- [寝る前の考えごとを止めるには？ 頭の中で場面を描く「イメージそらし」と認知シャッフルの研究](https://research.seadice.win/bedtime-racing-thoughts-imagery-shuffle-how-research/): 考えるなと命じるより、穏やかな場面を細かく描く。不眠の41人の実験で寝つきが早まった。認知シャッフルの根拠はまだ学会発表の段階。
+- [寝る前の読書は寝つきを良くするのか。紙の本と画面で違った研究](https://research.seadice.win/bedtime-reading-paper-book-sleep/): 寝る前に画面で読むと紙の本より寝つきが約10分遅れた。読書そのものより「何で読むか」が眠りを左右していた。
+- [夜スマホをやめられないのは意志の弱さ？研究でわかった原因と3つの一歩](https://research.seadice.win/bedtime-smartphone-sleep/): 日中の疲れと寝る前の画面の光が、眠りを遅らせる。5本の研究から、今夜できる工夫を整理。
+- [寝る前のストレッチは睡眠の質を上げるのか。4つの研究でわかったこと](https://research.seadice.win/bedtime-stretching-sleep-quality-research/): 不眠症の人への4か月のストレッチでISIが8.1点改善。一方、睡眠障害がある人全体を見た16件のレビューでは効果の証拠は乏しいとされた。
+- [寝る前に「明日やること」を書くと眠れる。研究でわかった理由](https://research.seadice.win/bedtime-todo-list-sleep/): 就寝前にやることリストを書いたグループが早く眠りについた実験を紹介。今夜からできる書き方も解説。
+- [カフェインは何時間前までOK？研究でわかった「量」と「時間」の関係](https://research.seadice.win/caffeine-hours-before-bed/): コーヒー1杯なら4時間前でも平気、でも400mgは12時間前でも睡眠に影響。量と時間の関係を解説。
+- [寝室はどれくらい暗くすればいい？ 寝ている間の明かりの研究でわかった、暗くするやり方](https://research.seadice.win/dark-bedroom-light-during-sleep-research/): 寝室は暗くしたほうがいい？ 明かりをつけたまま眠ると深い眠りが減り、本人は気づかない実験と、アイマスクの研究から、暗くするやり方を整理。
+- [昼間に日光を浴びると夜よく眠れるのか。体内時計を変える「光」の研究](https://research.seadice.win/daytime-light-exposure-night-sleep-research/): 日中の光が多く安定している人ほど、寝つきが早く深い睡眠が増える。89人の追跡調査や自然光キャンプの実験からわかったこと。
+- [いつもより早く寝ようとすると眠れないのはなぜ？ 寝る前の「睡眠禁止帯」を研究で調べた](https://research.seadice.win/early-bedtime-cant-sleep-forbidden-zone-why-research/): 早く布団に入っても眠れないのは、就寝の数時間前に体内時計が「起きていろ」の信号を強める「睡眠禁止帯」があるため。
+- [夜に運動すると眠れなくなるのか。寝る何時間前までならいいかを研究で調べた](https://research.seadice.win/evening-exercise-sleep-research/): 夜の運動は全体として眠りを悪くしなかった。ただ寝る直前の激しい運動は寝つきを遅らせることがあり、4時間前までに終えると影響は見られなかった。
+- [旅行先や初めての場所でよく眠れないのはなぜ？「初夜効果」と脳の見張り役を研究で調べた](https://research.seadice.win/first-night-effect-sleep-why-research/): 慣れない場所の1晩目に眠りが浅くなる「初夜効果」は53件のメタ分析でも確認。脳の片側が見張り役として起きているという説と、その後の検証を整理。
+- [暑い夜に眠れないのはなぜ？「体の熱が逃げない」寝苦しさの仕組みを研究で調べた](https://research.seadice.win/hot-night-cant-sleep-why-research/): 眠るときに下がるはずの深部体温が、暑さと湿気で下がりにくくなる。寝始めの暑さほど眠りを乱した実験と76万人の調査から仕組みを整理。
+- [時差ぼけがつらいときは、どう立て直す？ 東向きと西向きで違う「光を浴びる時間」を研究で調べた](https://research.seadice.win/jet-lag-recovery-light-timing-research/): 時差ぼけがつらいときは？ 体内時計は光を浴びる時刻で早まったり遅れたりする。東向きは戻りが遅い理由と、到着後・出発前の光の使い方を研究で整理。
+- [朝どうしても起きられない人へ。体内時計を約2時間動かした実験でわかったこと](https://research.seadice.win/morning-light-wake-up/): 起床時間・朝の光・食事や運動のタイミングを整えると、体内時計が平均約2時間前進した実験を紹介。
+- [昼寝は何分がいい？研究でわかった「10分」の意外な強さ](https://research.seadice.win/nap-best-length/): 5分では足りず、30分だとぼんやりする。24人の実験で最も効いた長さを解説。
+- [夜中に目が覚めて眠れないとき、布団から出るべき？「刺激制御法」の研究でわかったこと](https://research.seadice.win/night-awake-get-out-of-bed-stimulus-control-research/): 15分ほど眠れなければ眠る努力をやめ、眠くなるまで布団の外で過ごす。効果は複数のまとめで示されたが研究の質は低め。布団の中で行っても改善した。
+- [夜勤明けに眠れない、休みの日に戻せないときは？ 仮眠と光の使い方を研究で調べた](https://research.seadice.win/night-shift-sleep-recovery-research/): 夜勤明けは朝の光で体内時計が昼に戻るため眠りにくい。帰り道の光を避けて暗い部屋ですぐ眠り、休みに徹夜で戻さない立て直し方。
+- [夜中に何度も目が覚めるのはなぜ？ 中途覚醒の仕組みを研究で調べた](https://research.seadice.win/night-waking-why-research/): 週3日以上夜中に目が覚める人は約8900人の調査で35.5%。年齢による眠りの変化、ストレスで脳が冴えすぎる状態、時計を見る焦りなど、中途覚醒の仕組みを研究で整理。
+- [怖い夢で目が覚めたら、どう立て直す？ 悪夢を「書き換える」練習（イメージリハーサル）の研究でわかったこと](https://research.seadice.win/nightmare-wake-up-imagery-rehearsal-recovery-research/): 悪夢で眠れない夜が続くなら、昼間に夢の筋書きを書き換えて毎日10〜20分思い浮かべる練習を。399人の実験で悪夢が減った。
+- [昼食の後に眠くなるのはなぜか。食後の眠気の研究でわかった2つの理由](https://research.seadice.win/post-lunch-sleepiness-research/): 午後の眠気は体内時計の波が土台にあり、食事をとらなくても起こる。922kcalの重いランチは305kcalの軽いランチより、運転中の車線はみ出しを有意に増やした。
+- [毎日同じ時刻に寝起きすると、眠りは良くなるのか。「睡眠の規則性」の研究](https://research.seadice.win/sleep-regularity-same-time-research/): 寝起きの時刻がそろっていることは、睡眠時間と同じくらい、気分や健康と関わっていた。まずは起きる時刻をそろえるのが一歩目。
+- [スヌーズで二度寝するのは体に悪いのか。研究でわかった意外な結果](https://research.seadice.win/snooze-alarm-research/): 30分のスヌーズで失う睡眠は約6分で、頭の働きも下がらなかった研究がある一方、寝ぼけが長引いたという研究もあり、結論は分かれている。
+- [眠ろうと頑張るほど眠れないのはなぜ？「眠る努力」が目を覚ます仕組みを研究で調べた](https://research.seadice.win/trying-hard-to-sleep-awake-research/): 眠りは自動で起きる働きで、意識して操ろうとすると妨げられる。頭が忙しい状態で早く眠ろうとすると、寝つきが遅れた実験も。
+- [週末の寝だめで平日の睡眠不足は帳消しにできる？4つの研究でわかったこと](https://research.seadice.win/weekend-catchup-sleep-debt/): 軽い寝だめは体調の良さと関連する一方、睡眠不足が大きいと帳消しにはできないことが4つの研究からわかった。
+- [週末に寝坊すると、なぜ月曜の朝がつらい？ 体内時計が後ろにずれる「社会的時差ぼけ」の研究](https://research.seadice.win/weekend-sleep-in-monday-social-jetlag-why-research/): 高校生の実験で遅寝遅起きの週末2晩のあと体内時計の目安が約45分遅れ、朝の光や早起きでも防げなかった。月曜がつらい仕組みを解説。
+- [加重ブランケット（重い毛布）は寝つきや不安に効くのか。4つの研究でわかったこと](https://research.seadice.win/weighted-blanket-sleep-anxiety-research/): 426人分の解析で不安への小さな効果を確認。不眠は研究で結果が分かれ、活動量計では今のところ差が出ていない。
 
 ## ツールとアプリ（無料・登録不要）
 
