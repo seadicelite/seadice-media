@@ -5286,5 +5286,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-video-lecture-focus-quiz-breaks-how-research-interpolated-tests",
+    "category": "集中力",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Szpunar KK, Khan NY, Schacter DL, \"Interpolated memory tests reduce mind wandering and improve learning of online lectures\" (PNAS, 2013)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.1221764110",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/video-lecture-focus-quiz-breaks-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "動画の授業、気づけば上の空",
+        "body": "オンライン授業の動画を見ていると、いつの間にか別のことを考えてるよね。途中で小テストをはさむと、集中は戻るんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "21分の動画を4つに区切った",
+        "body": "ハーバード大学の学生が、21分の統計学の講義動画を約5.5分ずつ見た。区切りごとに問題に答えるグループと、見直すだけのグループ、何もしないグループをくらべたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "上の空が41%→19%に",
+        "body": "何もしないグループは41%、見直しは39%の時間で上の空だった。問題に答えたグループは19%。メモも多く取っていて、テストへの不安も低かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "追試では差が小さかった",
+        "body": "1グループ16人ほどの小さな実験だった。195人で52分の動画を使った追試では、47%と40%の差にとどまり、テストの点にも差は出なかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
