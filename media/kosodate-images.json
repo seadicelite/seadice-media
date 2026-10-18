@@ -1256,5 +1256,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Jinego_Elementary_School_school_store.jpg/500px-Jinego_Elementary_School_school_store.jpg",
   "og": "https://kosodate.seadice.win/img/kanji-memorize-retrieval-practice-og.jpg",
   "local": true
+ },
+ "child-not-talking-about-school": {
+  "file": "File:Markedshallen (Dining table).jpg",
+  "src": "/img/child-not-talking-about-school.jpg",
+  "src640": "/img/child-not-talking-about-school-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "食卓",
+  "artist": "RhinoMind",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Markedshallen_(Dining_table).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Markedshallen_%28Dining_table%29.jpg/960px-Markedshallen_%28Dining_table%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Markedshallen_%28Dining_table%29.jpg/500px-Markedshallen_%28Dining_table%29.jpg",
+  "og": "https://kosodate.seadice.win/img/child-not-talking-about-school.jpg",
+  "local": true
  }
 }
