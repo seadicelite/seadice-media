@@ -5558,5 +5558,73 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-watched-by-others-focus-social-facilitation-why-research-triplett-replication",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "McHugh C, Griffin SM, Kinsella EL, Quayle M, Strunz B, Muldoon OT, \"A replication of Triplett's 'social facilitation experiment'\" (Scientific Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-25608-x",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/watched-by-others-focus-social-facilitation-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "人と一緒だと作業が速くなる？",
+        "body": "1898年、子どもは2人で同時にやると作業が速くなった、という実験があった。「心理学で最初の実験」とも呼ばれる話なんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "125年後に445人でやり直した",
+        "body": "7〜13歳の445人が、ハンドルを回して目印を動かす作業を、ひとりで2回、2人で同時に2回やった。練習の効果が混ざらないよう順番もそろえたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "2人のときのほうが約3秒速かった",
+        "body": "平均はひとりのとき58.4秒、2人のとき55.0秒。元の実験は40人だけで統計的に怪しいとも言われていたけど、結果はちゃんと再現されたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "「見られる」効果か「競争」の効果か",
+        "body": "隣の子と同時にやるので、単に人がいる効果なのか、競争の効果なのかは分けられていない。大人や勉強の作業に当てはまるかも別の話だよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-watched-by-others-focus-social-facilitation-why-research-camera-on",
+    "category": "記憶・学習",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Santacroce LA, Appiah R, Sullivan MD, Spaniol J, \"Brief social presence improves delayed memory for online lecture content\" (PLOS ONE, 2025)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0318149",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/watched-by-others-focus-social-facilitation-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "オンライン授業、カメラはオンがいい？",
+        "body": "顔を出すのは面倒だけど、ほかの人の顔が見えると覚え方は変わるのかな。大学生で確かめた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "講義の前後だけカメラをオン",
+        "body": "大学生をZoomの教室に分けて、約14分の講義を見てもらった。片方は講義の前後だけカメラをオンにして顔を見せ合い、もう片方はずっとオフ。講義中はどちらもオフだよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "翌日のテストで61%対53%",
+        "body": "翌日の抜き打ちテストの正答率は、顔を見せ合った人が61%、ずっとオフの人が53%。授業が楽しかった、仲間の一員だと感じた、という答えも多かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い授業や1週間後も同じ？",
+        "body": "122人の1回の実験で、講義は14分、テストは1日後だけ。ふつうの長い授業や、もっと後のテストでも同じになるかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
