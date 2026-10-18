@@ -4217,5 +4217,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-ai-bias-carryover-warning-prevent-error-framing",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vicente & Matute, \"Warning people about the risk of AI error mitigates human acquisition of AI bias\" (Cognitive Research: Principles and Implications, 2026)",
+    "sourceUrl": "https://doi.org/10.1186/s41235-026-00726-w",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-bias-carryover-warning-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIのくせは自分にうつる？",
+        "body": "偏った答えを出すAIに助言をもらい続けたら、AIを閉じたあとも同じ判断をしちゃうのかな。スペインの研究チームが実験で確かめているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "わざと偏ったAIで実験",
+        "body": "架空の病気の検査画像を見分ける課題で、わざと偏った助言を出すAIを使った。先に「間違えることがある」と知らせる組と、知らせない組を比べた3つの実験で、合計616人が参加したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「20%間違う」と聞くと慎重に",
+        "body": "「助言の20%は間違い」と知らされた組は、何も知らされない組より誤った助言に乗りにくかった。「80%正しい」と知らされた組では、その差がはっきりしなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "効かなかった実験もある",
+        "body": "3つ目の実験では、助言を受けている最中の誤りに注意書きの効果が見られなかった。色を見分ける単純な課題で、毎日のAIとの会話で同じかもまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

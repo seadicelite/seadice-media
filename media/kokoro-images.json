@@ -4044,5 +4044,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/2014-May-8th_Morning_Kapole-Park-_%284%29.JPG/500px-2014-May-8th_Morning_Kapole-Park-_%284%29.JPG",
   "local": true,
   "og": "https://mentalai.seadice.win/img/ai-support-social-anxiety-why-og.jpg"
+ },
+ "ai-bias-carryover-warning-prevent": {
+  "file": "File:2016 Busola.JPG",
+  "src": "/img/ai-bias-carryover-warning-prevent.webp",
+  "src640": "/img/ai-bias-carryover-warning-prevent-sm.webp",
+  "w": 960,
+  "h": 864,
+  "alt": "方位磁針",
+  "artist": "Jacek Halicki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2016_Busola.JPG",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2016_Busola.JPG/960px-2016_Busola.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2016_Busola.JPG/500px-2016_Busola.JPG",
+  "og": "https://mentalai.seadice.win/img/ai-bias-carryover-warning-prevent-og.jpg",
+  "local": true
  }
 }
