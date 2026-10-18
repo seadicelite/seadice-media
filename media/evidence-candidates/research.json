@@ -4776,5 +4776,73 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-brain-training-games-memory-research-owen-11430",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Owen AM et al., \"Putting brain training to the test\" (Nature, 2010)",
+    "sourceUrl": "https://doi.org/10.1038/nature09042",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/brain-training-games-memory-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "脳トレで頭が良くなる？",
+        "body": "毎日脳トレゲームをやれば、記憶力や頭の回転が上がる気がするよね。実際、ゲームのスコアはどんどん上がっていく。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1万1,430人が6週間",
+        "body": "イギリスの研究チームが、科学番組の視聴者に6週間、週3回以上、1回10分以上の脳トレをしてもらったんだ。比べる群は、ネットで調べながら雑学クイズに答えるだけ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "上手くなったのはゲームだけ",
+        "body": "練習したゲームはどれも大きく上達した。でも練習していない記憶や推理のテストの伸びは、雑学クイズの群とほぼ同じだったらしい。練習の回数とも、ほとんど関係がなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "もっと長く続けたら？",
+        "body": "期間は6週間だけで、18〜60歳が対象。登録した人の多くは途中でやめていた。もっと長い期間や、高齢者ではどうかは、この研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-habit-willpower-self-control-research-habits-not-restraint",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Galla BM & Duckworth AL, \"More than resisting temptation: Beneficial habits mediate the relationship between self-control and positive life outcomes\" (Journal of Personality and Social Psychology, 2015)",
+    "sourceUrl": "https://doi.org/10.1037/pspp0000026",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/habit-willpower-self-control-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "続く人は我慢が得意？",
+        "body": "運動や勉強を続けられる人って、誘惑をぐっとこらえる意志の強い人だと思いがちだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "6つの研究で2,274人",
+        "body": "研究者が、おやつ・運動・睡眠・勉強・瞑想について、自制心の高さと習慣、どれだけ頑張って抑えているかを調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "強みは我慢より習慣",
+        "body": "自制心が高い人ほど、良い行動が習慣になっていた。そのぶん行動は自動的で、頑張って抑えたと答えることは少なめだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "習慣が原因かは未確定",
+        "body": "多くは本人の回答で測った研究で、習慣が原因だと実験で確かめたわけではない。ただ、食事や運動の別の研究でも同じ形が出ているよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

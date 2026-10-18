@@ -3122,5 +3122,39 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Concrete_stairs_on_a_steep_hiking_trail_in_Shivapuri_Nagarjun_National_Park.jpg/500px-Concrete_stairs_on_a_steep_hiking_trail_in_Shivapuri_Nagarjun_National_Park.jpg",
   "og": "https://research.seadice.win/img/low-confidence-task-procrastination-why-research.jpg",
   "local": true
+ },
+ "brain-training-games-memory-research": {
+  "file": "File:Red jigsaw puzzle pieces 2.jpg",
+  "src": "/img/brain-training-games-memory-research.webp",
+  "src640": "/img/brain-training-games-memory-research-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "赤いジグソーパズルのピース",
+  "artist": "Profpcde",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Red_jigsaw_puzzle_pieces_2.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Red_jigsaw_puzzle_pieces_2.jpg/960px-Red_jigsaw_puzzle_pieces_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Red_jigsaw_puzzle_pieces_2.jpg/500px-Red_jigsaw_puzzle_pieces_2.jpg",
+  "og": "https://research.seadice.win/img/brain-training-games-memory-research-og.jpg",
+  "local": true
+ },
+ "habit-willpower-self-control-research": {
+  "file": "File:ShoesOnWoodenFloor.JPG",
+  "src": "/img/habit-willpower-self-control-research.webp",
+  "src640": "/img/habit-willpower-self-control-research-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "木の床に置かれた靴",
+  "artist": "User:Piotrus",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:ShoesOnWoodenFloor.JPG",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/ShoesOnWoodenFloor.JPG/960px-ShoesOnWoodenFloor.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/ShoesOnWoodenFloor.JPG/500px-ShoesOnWoodenFloor.JPG",
+  "local": true,
+  "og": "https://research.seadice.win/img/habit-willpower-self-control-research-og.jpg"
  }
 }
