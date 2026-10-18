@@ -5762,5 +5762,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-ai-chatbot-procrastination-research-chatgpt-vs-human",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hennemann S et al., \"Generative AI versus human conversational agent for reducing procrastination: A randomized pilot trial\" (Digital Health, 2026)",
+    "sourceUrl": "https://doi.org/10.1177/20552076261450336",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/ai-chatbot-procrastination-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIに相談すれば動ける？",
+        "body": "作業が進まないとき、ついAIチャットに「やる気が出ない」って打っちゃう。AIに背中を押してもらえば、先延ばしは減るのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ChatGPTと人のコーチ",
+        "body": "ドイツの大学生62人が、先延ばしを減らす3回のチャットを受けた。相手はChatGPT-4か人のコーチで、どちらかは知らされていなかった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "AIの組は小さな変化",
+        "body": "先延ばしの点数は、ChatGPTの組で4.36から4.21、人のコーチの組で4.61から4.10。2つの組の差は統計的にははっきりしなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何もしない組がない",
+        "body": "人数が少ない予備的な試験で、何もしない組との比較もない。終わった時点で43.1%が「効果を感じない」などの望まない影響を報告していた。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

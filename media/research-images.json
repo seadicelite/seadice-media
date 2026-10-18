@@ -3488,5 +3488,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Rip_Hamilton_Beach_fan_1995-2009.jpg/500px-Rip_Hamilton_Beach_fan_1995-2009.jpg",
   "og": "https://research.seadice.win/img/white-noise-sleep-pink-noise-research-og.jpg",
   "local": true
+ },
+ "ai-chatbot-procrastination-research": {
+  "file": "File:Computer mouse laptop and phone on a desk.jpg",
+  "src": "/img/ai-chatbot-procrastination-research.jpg",
+  "src640": "/img/ai-chatbot-procrastination-research-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "机の上のノートパソコン",
+  "artist": "Enoch Leung",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Computer_mouse_laptop_and_phone_on_a_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Computer_mouse_laptop_and_phone_on_a_desk.jpg/960px-Computer_mouse_laptop_and_phone_on_a_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Computer_mouse_laptop_and_phone_on_a_desk.jpg/500px-Computer_mouse_laptop_and_phone_on_a_desk.jpg",
+  "og": "https://research.seadice.win/img/ai-chatbot-procrastination-research.jpg",
+  "local": true
  }
 }
