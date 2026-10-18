@@ -3245,5 +3245,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Multiple_hourglasses.jpg/500px-Multiple_hourglasses.jpg",
   "og": "https://dokugaku.seadice.win/img/work-better-under-pressure-last-minute-og.jpg",
   "local": true
+ },
+ "practice-questions-answer-check-timing": {
+  "file": "File:A laptop and a notebook on the wooden table (Pixabay).jpg",
+  "src": "/img/practice-questions-answer-check-timing.webp",
+  "src640": "/img/practice-questions-answer-check-timing-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "木の机に置かれたノートとペン、ノートパソコン",
+  "artist": "By StartupStockPhotos from Pixabay",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:A_laptop_and_a_notebook_on_the_wooden_table_(Pixabay).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg/960px-A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg/500px-A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/practice-questions-answer-check-timing-og.jpg",
+  "local": true
  }
 }
