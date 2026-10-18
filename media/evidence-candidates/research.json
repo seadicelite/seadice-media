@@ -5252,5 +5252,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-cold-feet-warming-sleep-onset-how-research-bed-socks",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ko Y, Lee JY, \"Effects of feet warming using bed socks on sleep quality and thermoregulatory responses in a cool environment\" (Journal of Physiological Anthropology, 2018)",
+    "sourceUrl": "https://doi.org/10.1186/s40101-018-0172-z",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/cold-feet-warming-sleep-onset-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "靴下をはいて寝ると眠りやすい？",
+        "body": "足が冷えて眠れない夜、靴下をはくといいって聞くよね。逆に「靴下は眠りに悪い」という声もある。実際はどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "23℃の部屋で、はく夜とはかない夜",
+        "body": "韓国の研究で、若い男性6人が少し涼しい部屋で7時間眠った。ゆったりした睡眠用の靴下をはいた夜と、はかない夜をくらべたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "寝つきが16.0分→8.5分に",
+        "body": "靴下をはいた夜は、寝つくまでの時間が平均16.0分から8.5分に縮み、眠った時間も32分長かった。体の中心の温度は変わらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "たった6人の実験",
+        "body": "参加者は6人だけで、本人が感じた眠りの質には差がなかった。女性や高齢者、暖かい部屋でも同じになるかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
