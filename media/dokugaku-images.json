@@ -3007,5 +3007,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Magnfying_glass_book_globe.jpg/500px-Magnfying_glass_book_globe.jpg",
   "og": "https://dokugaku.seadice.win/img/ai-answer-fact-check-table-og.jpg",
   "local": true
+ },
+ "mindfulness-before-study-focus-log": {
+  "file": "File:Zafu-soto-zen1024.JPG",
+  "src": "/img/mindfulness-before-study-focus-log.webp",
+  "src640": "/img/mindfulness-before-study-focus-log-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "床に置かれた瞑想用のクッション",
+  "artist": "Kstigarbha",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Zafu-soto-zen1024.JPG",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Zafu-soto-zen1024.JPG/960px-Zafu-soto-zen1024.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Zafu-soto-zen1024.JPG/500px-Zafu-soto-zen1024.JPG",
+  "og": "https://dokugaku.seadice.win/img/mindfulness-before-study-focus-log-og.jpg",
+  "local": true
  }
 }

@@ -4854,5 +4854,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-mindfulness-before-study-focus-log-acceptance",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rahl et al., \"Brief mindfulness meditation training reduces mind wandering: The critical role of acceptance\" (Emotion, 2017)",
+    "sourceUrl": "https://doi.org/10.1037/emo0000250",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/mindfulness-before-study-focus-log/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "瞑想は「集中するだけ」でいい？",
+        "body": "瞑想って、呼吸にぐっと集中する練習だと思われがち。でも、気がそれたときの扱い方も大事らしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "147人を4つの練習に分けた",
+        "body": "米国の研究で、瞑想の経験がない若い大人を、注意を向ける＋受け入れる練習、注意を向けるだけの練習、リラックス、読書の4組にくじで分け、1日20分を3日続けた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「責めずに戻す」組が最少",
+        "body": "そのあと6分の注意の課題で考えごとを測ると、受け入れる練習を加えた組がいちばん少なく、注意を向けるだけの組や読書の組より少なかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強でも同じ？",
+        "body": "リラックスの組との差ははっきりしなかった。測ったのは6分の単純な課題で、実際の勉強の集中や成績が変わるかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

@@ -207,7 +207,8 @@
     ],
     "use": [
      "distraction-checklist-interruption-log",
-     "study-break-plan-table"
+     "study-break-plan-table",
+     "mindfulness-before-study-focus-log"
     ]
    }
   },
