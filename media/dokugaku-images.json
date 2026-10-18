@@ -3177,5 +3177,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Toetsen_Johannusorgel_Heilig_Hartkerk_Hasselt.jpg/500px-Toetsen_Johannusorgel_Heilig_Hartkerk_Hasselt.jpg",
   "og": "https://dokugaku.seadice.win/img/learning-new-skill-brain-aging-og.jpg",
   "local": true
+ },
+ "binaural-beats-study-focus": {
+  "file": "File:SONY MDR-CD900ST.jpg",
+  "src": "/img/binaural-beats-study-focus.webp",
+  "src640": "/img/binaural-beats-study-focus-sm.webp",
+  "w": 960,
+  "h": 641,
+  "alt": "ヘッドホン",
+  "artist": "Quercus acuta",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:SONY_MDR-CD900ST.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/SONY_MDR-CD900ST.jpg/960px-SONY_MDR-CD900ST.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/SONY_MDR-CD900ST.jpg/500px-SONY_MDR-CD900ST.jpg",
+  "og": "https://dokugaku.seadice.win/img/binaural-beats-study-focus-og.jpg",
+  "local": true
  }
 }

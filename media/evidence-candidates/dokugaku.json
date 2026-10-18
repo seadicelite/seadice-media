@@ -5228,5 +5228,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-binaural-beats-study-focus-sustained-attention",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Melnichuk et al., \"A parametric investigation of binaural beats for brain entrainment and enhancing sustained attention\" (Scientific Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-88517-z",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/binaural-beats-study-focus/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "うなりの音で集中できる？",
+        "body": "左右の耳に少し違う高さの音を流す「バイノーラルビート」。勉強に集中できる音として人気だよね。本当に集中は続くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "33分の注意の課題で確かめた",
+        "body": "Melnichukらは大学生80人（分析は64人）に、うなりの音と普通の音を別の日に聞かせて、33分間注意を続ける課題をしてもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "集中の落ち込みは防げなかった",
+        "body": "時間がたつと成績が落ちていく現象は、うなりの音でも変わらなかった。ただ、40ヘルツのうなりなど一部の条件では、課題全体の成績は上がった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "毎日の勉強ではどうか",
+        "body": "1条件あたりの人数は少なく、実験室での2回だけの課題。何週間も勉強したときの成績まで良くなるかは、この実験からはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
