@@ -2259,5 +2259,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Desk_of_a_Police_sergeant_in_Munich%2C_Germany.jpg/500px-Desk_of_a_Police_sergeant_in_Munich%2C_Germany.jpg",
   "og": "https://ai.seadice.win/img/ai-sick-leave-return-to-work-og.jpg",
   "local": true
+ },
+ "graphic-violence-video-feed-prepare": {
+  "file": "File:Handcraft Vintage Wooden Table (46307576835).jpg",
+  "src": "/img/graphic-violence-video-feed-prepare.webp",
+  "src640": "/img/graphic-violence-video-feed-prepare-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "木のテーブルに置かれた新聞とコーヒー",
+  "artist": "Markus Spiske from Forchheim, Bavaria Upper Franconia",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Handcraft_Vintage_Wooden_Table_(46307576835).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Handcraft_Vintage_Wooden_Table_%2846307576835%29.jpg/960px-Handcraft_Vintage_Wooden_Table_%2846307576835%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Handcraft_Vintage_Wooden_Table_%2846307576835%29.jpg/500px-Handcraft_Vintage_Wooden_Table_%2846307576835%29.jpg",
+  "og": "https://ai.seadice.win/img/graphic-violence-video-feed-prepare-og.jpg",
+  "local": true
  }
 }
