@@ -3160,5 +3160,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Standing_Desk_by_Amrish_Kawa_03.jpg/500px-Standing_Desk_by_Amrish_Kawa_03.jpg",
   "og": "https://dokugaku.seadice.win/img/standing-desk-study-focus-og.jpg",
   "local": true
+ },
+ "learning-new-skill-brain-aging": {
+  "file": "File:Toetsen Johannusorgel Heilig Hartkerk Hasselt.jpg",
+  "src": "/img/learning-new-skill-brain-aging.webp",
+  "src640": "/img/learning-new-skill-brain-aging-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "オルガンの鍵盤",
+  "artist": "LanderBik",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Toetsen_Johannusorgel_Heilig_Hartkerk_Hasselt.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Toetsen_Johannusorgel_Heilig_Hartkerk_Hasselt.jpg/960px-Toetsen_Johannusorgel_Heilig_Hartkerk_Hasselt.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Toetsen_Johannusorgel_Heilig_Hartkerk_Hasselt.jpg/500px-Toetsen_Johannusorgel_Heilig_Hartkerk_Hasselt.jpg",
+  "og": "https://dokugaku.seadice.win/img/learning-new-skill-brain-aging-og.jpg",
+  "local": true
  }
 }

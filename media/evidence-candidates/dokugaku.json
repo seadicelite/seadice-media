@@ -5194,5 +5194,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-learning-new-skill-brain-aging-language-null",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Berggren et al., \"Foreign language learning in older age does not improve memory or intelligence: Evidence from a randomized controlled study\" (Psychology and Aging, 2020)",
+    "sourceUrl": "https://doi.org/10.1037/pag0000439",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/learning-new-skill-brain-aging/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "外国語でボケ防止？",
+        "body": "年をとってから外国語を習うと、頭が若返るって話、よく聞くよね。本当に記憶力まで上がるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "くじで2組に分けた",
+        "body": "Berggrenらは、65〜75歳の健康な160人を、イタリア語を11週間学ぶ組と、リラクセーションの練習をする組に、くじで分けた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "伸びはほぼ同じ",
+        "body": "イタリア語の組は基本的な知識を身につけた。でも記憶や知能のテストの伸びは、2つの組でほとんど変わらなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く学んだらどうか",
+        "body": "学んだのは11週間の初級の内容だけ。何年も続けた場合や、もっと若い大人でどうなるかは、この実験からはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
