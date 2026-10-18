@@ -5524,5 +5524,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-tired-evening-procrastination-why-research-daylong-work",
+    "category": "先延ばし",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Blain B, Hollard G, Pessiglione M, \"Neural mechanisms underlying the impact of daylong cognitive work on economic decisions\" (PNAS, 2016)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.1520527113",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/tired-evening-procrastination-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よくある疑問",
+        "title": "夕方になると「あとでいいや」が増える？",
+        "body": "朝ならできた作業も、夕方には手がつかない。頭が疲れると、選び方そのものが変わるのかを調べた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "6時間あまり、頭を使う作業を続けた",
+        "body": "参加者は記憶や切りかえの作業を30分ずつ11回続けた。合間に「今すぐ少しもらう」か「待って多くもらう」かを何度も選んだんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "難しい作業の人だけ「今すぐ」が増えた",
+        "body": "難しい作業をした27人は、時間とともにすぐもらえる方を選ぶ傾向が強まった。簡単な作業や余暇で過ごした25人では強まらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本人が感じる疲れとは同じ？",
+        "body": "本人がどれだけ疲れたと感じたかは測っていないし、効果の大きさも控えめ。先延ばしそのものを測った研究でもないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
