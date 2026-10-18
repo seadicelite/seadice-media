@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-misconduct-grade-zero-appeal",
+  "category": "子ども・学校",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-18",
+  "title": "AIを使ったとされ、課題が0点や不合格になった。研究では判定の数字だけで同じレポートの点数が下がり、人の目の見分けも当て推量並みで、納得できないときは判断の理由と手続きを先に確かめる",
+  "summary": "AI判定の数字だけで同じレポートの点数は下がり、人の見分けも偶然並みだった。手続きと期限を確かめ、判断の理由を文書で聞き、書いた過程の記録を添えて問い合わせる。"
+ },
+ {
   "slug": "ai-orders-dropped-hobby-creating-not-fun",
   "category": "創作・著作権",
   "type": "guide",

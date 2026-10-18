@@ -2160,5 +2160,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Colored_pencils_chevre.jpg/500px-Colored_pencils_chevre.jpg",
   "og": "https://ai.seadice.win/img/ai-orders-dropped-hobby-creating-not-fun.jpg",
   "local": true
+ },
+ "ai-misconduct-grade-zero-appeal": {
+  "file": "File:Curtis Lecture Halls interior view1 empty class.jpg",
+  "src": "/img/ai-misconduct-grade-zero-appeal.jpg",
+  "src640": "/img/ai-misconduct-grade-zero-appeal-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "誰もいない大学の講義室",
+  "artist": "Theonlysilentbob",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Curtis_Lecture_Halls_interior_view1_empty_class.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Curtis_Lecture_Halls_interior_view1_empty_class.jpg/960px-Curtis_Lecture_Halls_interior_view1_empty_class.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Curtis_Lecture_Halls_interior_view1_empty_class.jpg/500px-Curtis_Lecture_Halls_interior_view1_empty_class.jpg",
+  "og": "https://ai.seadice.win/img/ai-misconduct-grade-zero-appeal.jpg",
+  "local": true
  }
 }
