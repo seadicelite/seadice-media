@@ -2178,5 +2178,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Curtis_Lecture_Halls_interior_view1_empty_class.jpg/500px-Curtis_Lecture_Halls_interior_view1_empty_class.jpg",
   "og": "https://ai.seadice.win/img/ai-misconduct-grade-zero-appeal.jpg",
   "local": true
+ },
+ "ai-cheating-suspicion-relationships-rebuild": {
+  "file": "File:HK TKL 調景嶺 Tiu Keng Leng 明愛 CBCC CIHE school corridor lockers September 2019 SSG 05.jpg",
+  "src": "/img/ai-cheating-suspicion-relationships-rebuild.jpg",
+  "src640": "/img/ai-cheating-suspicion-relationships-rebuild-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "学校の廊下に並ぶロッカー",
+  "artist": "WORSDI HDE9ORN",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:HK_TKL_%E8%AA%BF%E6%99%AF%E5%B6%BA_Tiu_Keng_Leng_%E6%98%8E%E6%84%9B_CBCC_CIHE_school_corridor_lockers_September_2019_SSG_05.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/HK_TKL_%E8%AA%BF%E6%99%AF%E5%B6%BA_Tiu_Keng_Leng_%E6%98%8E%E6%84%9B_CBCC_CIHE_school_corridor_lockers_September_2019_SSG_05.jpg/960px-HK_TKL_%E8%AA%BF%E6%99%AF%E5%B6%BA_Tiu_Keng_Leng_%E6%98%8E%E6%84%9B_CBCC_CIHE_school_corridor_lockers_September_2019_SSG_05.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/HK_TKL_%E8%AA%BF%E6%99%AF%E5%B6%BA_Tiu_Keng_Leng_%E6%98%8E%E6%84%9B_CBCC_CIHE_school_corridor_lockers_September_2019_SSG_05.jpg/500px-HK_TKL_%E8%AA%BF%E6%99%AF%E5%B6%BA_Tiu_Keng_Leng_%E6%98%8E%E6%84%9B_CBCC_CIHE_school_corridor_lockers_September_2019_SSG_05.jpg",
+  "og": "https://ai.seadice.win/img/ai-cheating-suspicion-relationships-rebuild.jpg",
+  "local": true
  }
 }
