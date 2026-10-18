@@ -3218,5 +3218,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Vecteezy_stack-of-newspaper_1961329.jpg/500px-Vecteezy_stack-of-newspaper_1961329.jpg",
   "og": "https://research.seadice.win/img/bad-news-anxiety-doomscrolling-recovery-research.jpg",
   "local": true
+ },
+ "health-checkup-appointment-procrastination-recovery-research": {
+  "file": "File:A dental chair in a dentist clinic in North Carolina, United States.jpg",
+  "src": "/img/health-checkup-appointment-procrastination-recovery-research.jpg",
+  "src640": "/img/health-checkup-appointment-procrastination-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "歯科医院の診察台",
+  "artist": "Harrison Keely",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_dental_chair_in_a_dentist_clinic_in_North_Carolina,_United_States.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/A_dental_chair_in_a_dentist_clinic_in_North_Carolina%2C_United_States.jpg/960px-A_dental_chair_in_a_dentist_clinic_in_North_Carolina%2C_United_States.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/A_dental_chair_in_a_dentist_clinic_in_North_Carolina%2C_United_States.jpg/500px-A_dental_chair_in_a_dentist_clinic_in_North_Carolina%2C_United_States.jpg",
+  "og": "https://research.seadice.win/img/health-checkup-appointment-procrastination-recovery-research.jpg",
+  "local": true
  }
 }
