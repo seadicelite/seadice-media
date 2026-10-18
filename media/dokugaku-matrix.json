@@ -414,7 +414,8 @@
     ],
     "use": [
      "ai-study-checklist",
-     "ai-study-prompt-templates"
+     "ai-study-prompt-templates",
+     "ai-answer-fact-check-table"
     ]
    }
   }

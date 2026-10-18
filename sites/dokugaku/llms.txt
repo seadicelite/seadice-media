@@ -208,6 +208,7 @@
 
 ### AIと独学
 
+- [AIの答えの「裏取り表」。答えの種類ごとに、どこで・どう確かめるか（横読みとAIの誤りの研究から）](https://dokugaku.seadice.win/ai-answer-fact-check-table/): AIの答えは画面の外で確かめる「横読み」が基本。AIに判定させるだけでは見分けがよくならなかった。答えの種類別の裏取り表を作った。
 - [AIに答えを聞くと勉強は身につかないのか。研究でわかった「使い方の分かれ目」](https://dokugaku.seadice.win/ai-answers-and-learning/): 答えを写すAIは自力の成績を下げ、ヒント型なら下がらなかった。高校生約1000人の実験などから使い方を解説
 - [AIに間違えられて、もう信じられない。使うのをやめる前にどう立て直す？間違いを見た後の「信頼」の研究](https://dokugaku.seadice.win/ai-made-mistakes-lost-trust-rebuild/): AIの間違いを見ると人はAIを避けすぎやすい。間違いを種類で分け、確かめられる使い方に絞り、記録で信頼を合わせ直す6つの手順。
 - [AIに頼りすぎて、自分では解けなくなった。どう立て直す？AIなしで解ける力を取り戻す研究と手順](https://dokugaku.seadice.win/ai-overreliance-solve-on-your-own/): AIをやめずに、先に自分で解く・ヒントだけ聞く・すぐ開けない手間をつくる。週1回AIなしで確かめる6つの手順。

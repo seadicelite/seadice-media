@@ -4820,5 +4820,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-ai-answer-fact-check-table-ai-factcheck",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "DeVerna et al., \"Fact-checking information from large language models can decrease headline discernment\" (PNAS, 2024)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.2322823121",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/ai-answer-fact-check-table/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "本当かどうかはAIに聞けばいい",
+        "body": "ニュースや情報が本当か迷ったら、AIに確かめてもらえば安心。そう思って使っている人、多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2,159人にAIの判定を見せた",
+        "body": "米国の研究で、本当と嘘が半分ずつの政治ニュース40本を見せた。ChatGPTの事実確認を見る人、人が書いた事実確認を見る人などに、くじで分けて比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "見分ける力は上がらなかった",
+        "body": "AIは嘘のニュースの90%を見抜いたのに、AIの判定を見た人は本当と嘘の見分けがよくならなかった。AIが本当のニュースを嘘と誤ると、それも信じにくくなった。人の事実確認を見た人は見分けがよくなった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "今のAIや勉強でも同じ？",
+        "body": "使ったのはChatGPT（3.5）と政治ニュースだけ。新しいAIや、勉強の内容を確かめるときに同じ結果になるかは、まだ確かめられていない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

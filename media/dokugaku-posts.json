@@ -1,5 +1,13 @@
 [
   {
+    "slug": "ai-answer-fact-check-table",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-18",
+    "title": "AIの答えの「裏取り表」。答えの種類ごとに、どこで・どう確かめるか（横読みとAIの誤りの研究から）",
+    "summary": "AIの答えは画面の外で確かめる「横読み」が基本。AIに判定させるだけでは見分けがよくならなかった。答えの種類別の裏取り表を作った。"
+  },
+  {
     "slug": "note-review-hide-and-recall-sheet",
     "category": "記憶・覚え方",
     "type": "guide",
