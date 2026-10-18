@@ -1,5 +1,14 @@
 [
   {
+    "slug": "email-checking-batching-prevent",
+    "category": "AI疲れ・情報疲れ",
+    "type": "guide",
+    "stage": "予防する",
+    "date": "2026-10-19",
+    "title": "メールを何度も確かめて、一日が細切れになって疲れる。オランダの金融機関の実験では、1日3回にまとめて見る試みをした組で終了直後の疲れ切った感じが減ったが、2週間後には差がはっきりしなくなっていた",
+    "summary": "メールを1日3回にまとめた職場の実験では疲れが一時的に減り、メールが多い人で効果が大きかった。通知の切り方と続け方。"
+  },
+  {
     "slug": "comparison-low-rank-motivation-drop",
     "category": "比べて落ち込む",
     "type": "guide",
