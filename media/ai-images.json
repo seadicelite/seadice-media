@@ -2196,5 +2196,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/HK_TKL_%E8%AA%BF%E6%99%AF%E5%B6%BA_Tiu_Keng_Leng_%E6%98%8E%E6%84%9B_CBCC_CIHE_school_corridor_lockers_September_2019_SSG_05.jpg/500px-HK_TKL_%E8%AA%BF%E6%99%AF%E5%B6%BA_Tiu_Keng_Leng_%E6%98%8E%E6%84%9B_CBCC_CIHE_school_corridor_lockers_September_2019_SSG_05.jpg",
   "og": "https://ai.seadice.win/img/ai-cheating-suspicion-relationships-rebuild.jpg",
   "local": true
+ },
+ "ai-not-using-at-work-left-behind": {
+  "file": "File:GX-238 - Glass desk with dual monitors printer and black leather chair atop checkered floor near window with tropical plants.jpg",
+  "w": 960,
+  "h": 637,
+  "artist": "Palm Beach Police Department",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:GX-238_-_Glass_desk_with_dual_monitors_printer_and_black_leather_chair_atop_checkered_floor_near_window_with_tropical_plants.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/GX-238_-_Glass_desk_with_dual_monitors_printer_and_black_leather_chair_atop_checkered_floor_near_window_with_tropical_plants.jpg/960px-GX-238_-_Glass_desk_with_dual_monitors_printer_and_black_leather_chair_atop_checkered_floor_near_window_with_tropical_plants.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/GX-238_-_Glass_desk_with_dual_monitors_printer_and_black_leather_chair_atop_checkered_floor_near_window_with_tropical_plants.jpg/500px-GX-238_-_Glass_desk_with_dual_monitors_printer_and_black_leather_chair_atop_checkered_floor_near_window_with_tropical_plants.jpg",
+  "src": "/img/ai-not-using-at-work-left-behind.webp",
+  "src640": "/img/ai-not-using-at-work-left-behind-sm.webp",
+  "og": "https://ai.seadice.win/img/ai-not-using-at-work-left-behind-og.jpg",
+  "local": true,
+  "alt": "窓辺の机に置かれたパソコンと電話"
  }
 }
