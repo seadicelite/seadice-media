@@ -5490,5 +5490,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-early-morning-waking-aging-why-research-awaken-rate",
+    "category": "睡眠",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Klerman EB, Davis JB, Duffy JF, Dijk DJ, Kronauer RE, \"Older people awaken more frequently but fall back asleep at the same rate as younger people\" (Sleep, 2004)",
+    "sourceUrl": "https://doi.org/10.1093/sleep/27.4.793",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/early-morning-waking-aging-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く疑問",
+        "title": "年をとると眠りが浅くなるのはなぜ？",
+        "body": "年をとると、朝早く目が覚めたり、夜中に何度も起きたりするよね。これって「寝つけない」から？ それとも「眠りが続かない」から？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1日28時間の生活で眠りを記録",
+        "body": "健康な高齢者13人と若い人11人の脳波の記録を分析。1日を28時間にして、体内時計のいろいろな時刻に眠ってもらった実験の記録なんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "目覚めやすさは約2.7倍、寝直す速さは同じ",
+        "body": "高齢者が眠りから目覚める割合は若い人の約2.7倍。でも、目覚めた後にまた眠りに戻る割合は同じだった。問題は寝直すことより、眠りを続けることらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふだんの寝室でも同じ？",
+        "body": "参加者は合わせて24人と少なく、実験室の特別な条件での記録。ふだんの生活で同じ差がどれくらい出るかは、別に確かめる必要があるよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
