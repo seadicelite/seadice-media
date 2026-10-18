@@ -5354,5 +5354,73 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-night-worry-feels-bigger-why-research-3am-mood",
+    "category": "気分・ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Emens JS et al., \"Circadian rhythm in negative affect: Implications for mood disorders\" (Psychiatry Research, 2020)",
+    "sourceUrl": "https://doi.org/10.1016/j.psychres.2020.113337",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/night-worry-feels-bigger-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "夜中に悩みが大きく見えるのはなぜ？",
+        "body": "昼は平気なことが、夜中の布団の中だと大問題に思えてくるよね。体内時計そのものが気分を動かしているのか、調べた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "時計のない部屋で5日間",
+        "body": "健康な大人21人が、薄暗い実験室で2時間40分ずつ眠る・起きるをくり返した。こうすると、寝不足の影響と体内時計の影響を分けて見られるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "午前3時ごろが気分の底",
+        "body": "前向きな気分は、体内時計の夜（ふだんの午前3時ごろ）にはっきり底になった。いやな気分は、ちょうど同じころに山になったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数は少なく、差も小さめ",
+        "body": "参加者は平均52歳の21人だけ。いやな気分のリズムは前向きな気分より弱く、以前の研究では見つからなかったこともある。"
+      }
+    ],
+    "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-night-worry-feels-bigger-why-research-untrue-worries",
+    "category": "気分・ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "LaFreniere LS, Newman MG, \"Exposing worry's deceit: Percentage of untrue worries in generalized anxiety disorder treatment\" (Behavior Therapy, 2020)",
+    "sourceUrl": "https://doi.org/10.1016/j.beth.2019.07.003",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/night-worry-feels-bigger-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "心配ごとって、本当に起きる？",
+        "body": "「心配の多くは起きない」ってよく聞くよね。それを実際に記録して確かめた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "浮かんだ心配を記録して追った",
+        "body": "全般性不安症の29人が、10日間、浮かんだ心配を記録した。そして30日間、その心配が本当に起きたかを追いかけたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "91.4%は起きなかった",
+        "body": "心配の91.4%は実際には起きなかった。起きなかった割合が高い人ほど、治療のあとに不安の症状が軽くなっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "不安症の人の記録だけ",
+        "body": "対象は全般性不安症の29人で、比べるグループはなかった。ふだんの人の心配でも同じくらい外れるかは、この研究だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
