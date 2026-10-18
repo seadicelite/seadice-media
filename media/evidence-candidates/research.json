@@ -5796,5 +5796,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-multiple-habits-at-once-research-simultaneous-vs-sequential",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Spring B et al., \"Multicomponent mHealth Intervention for Large, Sustained Change in Multiple Diet and Activity Risk Behaviors: The Make Better Choices 2 Randomized Controlled Trial\" (Journal of Medical Internet Research, 2018)",
+    "sourceUrl": "https://doi.org/10.2196/10528",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/multiple-habits-at-once-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "習慣は1つずつ？",
+        "body": "運動も食事も変えたいけど、「習慣は1つずつ始めないと失敗する」ってよく聞くよね。本当にそうなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同時と順番を比べた",
+        "body": "アメリカの大人212人を、食事と運動を同時に変える組、運動を7週目から足す組、ストレスと睡眠の練習をする組に分けて、9か月追いかけた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "9か月後の差はなかった",
+        "body": "同時の組も順番の組も大きく改善して、9か月後の差はなかった。野菜と果物は1日6.5皿増えて、運動は1日24.7分増えたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "支えなしでも同じ？",
+        "body": "記録アプリや週1回の電話コーチ、最初の12週は週5ドルの報酬もあった。支えなしで一度にいくつ変えられるかは、まだわかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

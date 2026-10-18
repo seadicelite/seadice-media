@@ -3506,5 +3506,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Computer_mouse_laptop_and_phone_on_a_desk.jpg/500px-Computer_mouse_laptop_and_phone_on_a_desk.jpg",
   "og": "https://research.seadice.win/img/ai-chatbot-procrastination-research.jpg",
   "local": true
+ },
+ "multiple-habits-at-once-research": {
+  "file": "File:Brooks Ghost 14 GTX.jpg",
+  "src": "/img/multiple-habits-at-once-research.jpg",
+  "src640": "/img/multiple-habits-at-once-research-sm.jpg",
+  "w": 960,
+  "h": 778,
+  "alt": "ランニングシューズ",
+  "artist": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Brooks_Ghost_14_GTX.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Brooks_Ghost_14_GTX.jpg/960px-Brooks_Ghost_14_GTX.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Brooks_Ghost_14_GTX.jpg/500px-Brooks_Ghost_14_GTX.jpg",
+  "og": "https://research.seadice.win/img/multiple-habits-at-once-research.jpg",
+  "local": true
  }
 }
