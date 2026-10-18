@@ -1,5 +1,23 @@
 [
   {
+    "slug": "reskilling-quit-restart-online-course",
+    "category": "仕事とAIの不安",
+    "type": "guide",
+    "stage": "立て直す",
+    "date": "2026-10-18",
+    "title": "AIに備えて始めた学び直しが続かず、自分が情けない。オンライン講座26万人の実験では、最初に計画を書く工夫の効果は1〜2週間で薄れ、修了する人は増えなかった",
+    "summary": "学び直しが続かないのは珍しくない。最初の計画の効果は1〜2週間で薄れ、記録して人に伝える方法が後押ししていた。"
+  },
+  {
+    "slug": "cold-shower-fatigue-stress-recover",
+    "category": "AI疲れ・情報疲れ",
+    "type": "guide",
+    "stage": "立て直す",
+    "date": "2026-10-18",
+    "title": "疲れとストレスが何週間も抜けない。冷たいシャワーは効く？オランダの3,018人の実験では、仕事を休んだ日が29%少なかったが、体調を崩した日数は変わらなかった",
+    "summary": "冷たいシャワーの実験では病欠が29%少なかったが、体調を崩した日数は同じ。疲れやストレスへの効果はまだ限られる。"
+  },
+  {
     "slug": "forgiveness-grudge-reconnect",
     "category": "人とのつながり",
     "type": "guide",

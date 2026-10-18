@@ -4115,5 +4115,41 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Russia%2C_Kamcatka%2C_Petropavlovsk-Kamchatskiy_-_Kultuchnoe_Lake_%28Petropavlovsk-Kamchatsky%29_WMID8505127.jpg/500px-Russia%2C_Kamcatka%2C_Petropavlovsk-Kamchatskiy_-_Kultuchnoe_Lake_%28Petropavlovsk-Kamchatsky%29_WMID8505127.jpg",
   "og": "https://mentalai.seadice.win/img/forgiveness-grudge-reconnect.jpg",
   "local": true
+ },
+ "cold-shower-fatigue-stress-recover": {
+  "file": "File:Dual-head shower - Flickr - andrechinn.jpg",
+  "src": "/img/cold-shower-fatigue-stress-recover.jpg",
+  "src640": "/img/cold-shower-fatigue-stress-recover-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "浴室のシャワーヘッド",
+  "artist": "andrechinn",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dual-head_shower_-_Flickr_-_andrechinn.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dual-head_shower_-_Flickr_-_andrechinn.jpg/960px-Dual-head_shower_-_Flickr_-_andrechinn.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dual-head_shower_-_Flickr_-_andrechinn.jpg/500px-Dual-head_shower_-_Flickr_-_andrechinn.jpg",
+  "og": "https://mentalai.seadice.win/img/cold-shower-fatigue-stress-recover.jpg",
+  "local": true
+ },
+ "reskilling-quit-restart-online-course": {
+  "file": "File:Pen on a notebook (Unsplash).jpg",
+  "src": "/img/reskilling-quit-restart-online-course.jpg",
+  "src640": "/img/reskilling-quit-restart-online-course-sm.jpg",
+  "w": 960,
+  "h": 567,
+  "alt": "机の上のノートとペン",
+  "artist": "Thomas Martinsen faceline",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Pen_on_a_notebook_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pen_on_a_notebook_%28Unsplash%29.jpg/960px-Pen_on_a_notebook_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pen_on_a_notebook_%28Unsplash%29.jpg/500px-Pen_on_a_notebook_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/reskilling-quit-restart-online-course.jpg",
+  "local": true
  }
 }

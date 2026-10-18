@@ -4387,5 +4387,73 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-cold-shower-fatigue-stress-recover-sick-days",
+    "category": "休息",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Buijze GA et al., \"The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial\" (PLOS ONE, 2016)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0161749",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/cold-shower-fatigue-stress-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "冷たいシャワーで風邪知らず？",
+        "body": "「毎朝冷たいシャワーを浴びると体が強くなる」ってよく聞くよね。本当に体調を崩しにくくなるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "オランダの3,018人で実験",
+        "body": "いつものシャワーの最後を30〜90秒だけ冷たくする人と、普段どおりの人に分けて、90日間の体調と仕事を休んだ日を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "休んだ日は29%少なかった",
+        "body": "冷たいシャワーの人は仕事を休んだ日が29%少なかった。でも、体調を崩した日数そのものは変わらなかったらしい。冷たい時間の長さでも差はなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "思い込みかもしれない",
+        "body": "結果は全部自己申告で、自分がどっちのグループか知っていた。参加者もスポーツをする健康な人が多く、思い込みの効果は否定できないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-reskilling-quit-restart-online-course-plans-fade",
+    "category": "仕事とAIの不安",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kizilcec RF et al., \"Scaling up behavioral science interventions in online education\" (PNAS, 2020)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.1921417117",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/reskilling-quit-restart-online-course/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "計画を立てれば勉強は続く？",
+        "body": "オンライン講座を始めるとき「いつ・何をやるか」計画を書けば、最後まで続けられそうな気がするよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "26万9千人で試した",
+        "body": "ハーバード大・MIT・スタンフォード大の247のオンライン講座で、受講の初めに計画を書いてもらう工夫を、くじ引きで割り当てたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果は1〜2週間で消えた",
+        "body": "計画を書いた人は最初の数週間だけ少し多く受講した。でも効果は1〜2週間で薄れて、最後まで修了する人は増えなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "毎週立て直したら？",
+        "body": "計画は最初に1回書いただけ。毎週立て直したらどうなるか、仕事のために学ぶ大人ではどうかは、まだ調べられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
