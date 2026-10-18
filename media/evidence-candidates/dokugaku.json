@@ -5330,5 +5330,39 @@
         "body": "調べたのは実験室の空間の課題で、勉強した知識を本番で思い出せるかは測っていない。"
       }
     ]
+  },
+  {
+    "themeColor": "#00FFD1",
+    "articleSite": "独学の科学",
+    "addedAt": "2026-10-19",
+    "id": "dokugaku-work-better-under-pressure-last-minute-deadline-effort",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "sourceLabel": "Pisauro et al., \"Neural and computational mechanisms of effort under the pressure of a deadline\" (Nature Communications, 2026)",
+    "sourceUrl": "https://doi.org/10.1038/s41467-026-75987-6",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/work-better-under-pressure-last-minute/",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "締め切り前だと頑張れるのはなぜ？",
+        "body": "ふだんは面倒なのに、締め切りが近いと急に大変な作業もできちゃう。あれ、何が起きてるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "締め切りつきのゲームで実験",
+        "body": "Pisauroらは、決まった回数のうちに目標まで進むと報酬が増えるゲームで、楽な選択と大変な選択（握る力など）を選ばせた。4つの研究で、1つ目は30人がMRIの中で行った。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「残り作業÷残り時間」で変わる",
+        "body": "残りの作業に対して残りの時間が少ない、つまり締め切りの圧力が強いほど、人は大変な選択を選ぶようになった。圧力がないと大変な作業は避けられていた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の成績はわからない",
+        "body": "数分のゲームの実験で、勉強がはかどるか、点数が上がるかは測っていない。先延ばしが多い学生ほど成績が低めという調査もある。"
+      }
+    ]
   }
 ]

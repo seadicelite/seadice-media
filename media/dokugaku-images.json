@@ -3228,5 +3228,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boesendorfer-5075415.jpg/500px-Boesendorfer-5075415.jpg",
   "og": "https://dokugaku.seadice.win/img/mozart-effect-before-exam-og.jpg",
   "local": true
+ },
+ "work-better-under-pressure-last-minute": {
+  "file": "File:Multiple hourglasses.jpg",
+  "src": "/img/work-better-under-pressure-last-minute.webp",
+  "src640": "/img/work-better-under-pressure-last-minute-sm.webp",
+  "w": 960,
+  "h": 637,
+  "alt": "砂時計",
+  "artist": "Sauvagette",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Multiple_hourglasses.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Multiple_hourglasses.jpg/960px-Multiple_hourglasses.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Multiple_hourglasses.jpg/500px-Multiple_hourglasses.jpg",
+  "og": "https://dokugaku.seadice.win/img/work-better-under-pressure-last-minute-og.jpg",
+  "local": true
  }
 }
