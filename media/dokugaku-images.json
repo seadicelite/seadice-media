@@ -3024,5 +3024,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Zafu-soto-zen1024.JPG/500px-Zafu-soto-zen1024.JPG",
   "og": "https://dokugaku.seadice.win/img/mindfulness-before-study-focus-log-og.jpg",
   "local": true
+ },
+ "study-time-estimate-vs-actual-log": {
+  "file": "File:Stopwatch, 1810201155, ako.jpg",
+  "src": "/img/study-time-estimate-vs-actual-log.webp",
+  "src640": "/img/study-time-estimate-vs-actual-log-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "ストップウォッチ",
+  "artist": "Ansgar Koreng",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Stopwatch,_1810201155,_ako.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stopwatch%2C_1810201155%2C_ako.jpg/960px-Stopwatch%2C_1810201155%2C_ako.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stopwatch%2C_1810201155%2C_ako.jpg/500px-Stopwatch%2C_1810201155%2C_ako.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-time-estimate-vs-actual-log-og.jpg",
+  "local": true
  }
 }

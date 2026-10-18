@@ -4888,5 +4888,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-study-time-estimate-vs-actual-log-not-always-under",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Brady et al., \"Self-regulation of time: The importance of time estimation accuracy\" (Frontiers in Psychology, 2022)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2022.925812",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/study-time-estimate-vs-actual-log/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "勉強時間はいつも短く見積もる？",
+        "body": "「1時間で終わる」と思った勉強が2時間かかる。人は作業時間を短く見積もるもの、とよく言われるよね。でも、いつもそうなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生210人が自分の勉強で確かめた",
+        "body": "米国の大学生210人が、翌週に1回で終える勉強（読む・課題・試験勉強）を選んで、かかる時間を見積もり、あとで実際の時間を記録したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "短く見積もった人は半分以下",
+        "body": "短く見積もった人は47.1%、逆に長く見積もった人が31.9%、ぴったりが21%。しかも、見積もる前に過去の似た作業を振り返る質問に答えても、正確さは変わらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本人の申告と、授業の影響",
+        "body": "実際の時間は本人の申告で、参加者は時間管理を習う授業を受けていた学生。慣れた短い作業だったことも、長めに見積もる人が多かった理由かもしれないと著者らは書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

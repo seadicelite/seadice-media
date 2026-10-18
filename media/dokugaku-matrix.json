@@ -316,7 +316,8 @@
     ],
     "use": [
      "https://dokugaku.seadice.win/templates/study-plan/",
-     "spare-time-study-menu-table"
+     "spare-time-study-menu-table",
+     "study-time-estimate-vs-actual-log"
     ],
     "how": [
      "make-study-time-working-adults",
