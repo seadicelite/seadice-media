@@ -4313,5 +4313,22 @@
     "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Postal_Censorship_at_Strand_House%2C_Portugal_Street%2C_London_Art.IWMART4749.jpg/500px-The_Postal_Censorship_at_Strand_House%2C_Portugal_Street%2C_London_Art.IWMART4749.jpg",
     "og": "https://mentalai.seadice.win/img/email-checking-batching-prevent.jpg",
     "local": true
+  },
+  "sleep-loss-thinking-why": {
+    "file": "File:Old alarm clock on the bookshelf - 50233824038.jpg",
+    "src": "/img/sleep-loss-thinking-why.webp",
+    "src640": "/img/sleep-loss-thinking-why-sm.webp",
+    "w": 960,
+    "h": 641,
+    "alt": "本棚に置かれた古い目覚まし時計",
+    "artist": "Nenad Stojkovic",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg",
+    "source_label": "Wikimedia Commons",
+    "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg/960px-Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg",
+    "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg/960px-Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg",
+    "og": "https://mentalai.seadice.win/img/sleep-loss-thinking-why-og.jpg",
+    "local": true
   }
 }

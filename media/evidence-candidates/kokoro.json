@@ -4829,5 +4829,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-sleep-loss-thinking-why-effort-motivation",
+    "category": "考える力・集中",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Jurgelis M, Boardman JM, Coxon JP, Drummond SPA, Chong TTJ, \"Sleep Restriction Reduces Cognitive but Not Physical Motivation\" (Nature and Science of Sleep, 2022)",
+    "sourceUrl": "https://doi.org/10.2147/NSS.S368335",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/sleep-loss-thinking-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "寝不足の日、考えるのがおっくう",
+        "body": "寝不足の日って、頭を使う仕事だけやる気が出ないことあるよね。これって能力が落ちてるの？それとも気持ちの問題？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3時間睡眠を3晩つづけた実験",
+        "body": "オーストラリアの大人24人が、毎晩9時間眠れる条件と、3晩続けて3時間しか眠れない条件の両方を体験。頭を使う課題と握力の課題で、大変だけど報酬が多いほうを選ぶか調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "落ちたのは「頭を使う意欲」だけ",
+        "body": "寝不足のときは、頭を使う課題で大変なほうを選ぶ割合が下がった。握力の課題では変わらなかった。しかも課題そのものは、どちらの条件でも全員こなせていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふだんの寝不足でも同じ？",
+        "body": "参加者は24人だけで、3時間睡眠はふだんの寝不足よりかなり極端。1〜2時間足りないくらいの日でも同じことが起きるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
