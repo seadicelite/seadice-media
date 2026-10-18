@@ -5058,5 +5058,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-relearning-course-selection-checklist-feeling-of-learning",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Deslauriers et al., \"Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom\" (PNAS, 2019)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.1821936116",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/relearning-course-selection-checklist/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "「よくわかった」授業ほど身につく？",
+        "body": "わかりやすい講義を聞くと、たくさん学べた気がするよね。じゃあ、その手ごたえは本当に身についた量と一致しているのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ内容を2つの教え方で",
+        "body": "Deslauriersらは、米ハーバード大学の物理の入門授業で149人を無作為に分け、同じ内容を「評価の高い講師の講義」と「考えて答える活動を入れた授業」で受けてもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "手ごたえと成績が逆だった",
+        "body": "テストの成績は、活動を入れた授業の方が高かった。でも「よく学べた」という感じは、講義の方が高かった。頭を使う大変さを、学べていない印と受け取ったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1つの大学の2回分",
+        "body": "1つの大学の物理の授業、2回分の実験だった。社会人の独学やオンライン講座で同じことが起きるかは、この研究だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

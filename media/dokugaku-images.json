@@ -3095,5 +3095,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sunrise_Morning.jpg/500px-Sunrise_Morning.jpg",
   "og": "https://dokugaku.seadice.win/img/study-time-of-day-menu-table.jpg",
   "local": true
+ },
+ "relearning-course-selection-checklist": {
+  "file": "File:University Library TUHH interior bookshelf.jpg",
+  "src": "/img/relearning-course-selection-checklist.jpg",
+  "src640": "/img/relearning-course-selection-checklist-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "大学図書館の本棚",
+  "artist": "Jonas Muth",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:University_Library_TUHH_interior_bookshelf.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/University_Library_TUHH_interior_bookshelf.jpg/960px-University_Library_TUHH_interior_bookshelf.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/University_Library_TUHH_interior_bookshelf.jpg/500px-University_Library_TUHH_interior_bookshelf.jpg",
+  "og": "https://dokugaku.seadice.win/img/relearning-course-selection-checklist.jpg",
+  "local": true
  }
 }

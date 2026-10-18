@@ -385,7 +385,8 @@
     ],
     "use": [
      "adult-relearning-plan-sheet",
-     "adult-relearning-starting-point-check"
+     "adult-relearning-starting-point-check",
+     "relearning-course-selection-checklist"
     ],
     "judge": [
      "brain-training-games-adult-learning",
