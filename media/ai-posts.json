@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-mushroom-app-ate-wild-food",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-19",
+  "title": "AIのアプリで「食べられる」と出たキノコを食べてしまった。研究では、いちばん正確なアプリでも約15%は正しく答えられず、症状がなくても早めに医療機関へ相談する",
+  "summary": "AIのキノコ判定は最も正確なアプリでも約15%は正解できず、毒は症状が遅れることも。元気でも早めに受診を相談し、残りと画面を持参。"
+ },
+ {
   "slug": "ai-meal-plan-diet-check-prepare",
   "category": "AIに頼りすぎ",
   "type": "guide",
