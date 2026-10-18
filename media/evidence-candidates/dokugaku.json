@@ -5160,5 +5160,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-standing-desk-study-focus-stroop-replication",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Caron et al., \"Does Posture Influence the Stroop Effect?\" (Psychological Science, 2020)",
+    "sourceUrl": "https://doi.org/10.1177/0956797620953842",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/standing-desk-study-focus/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "立つと集中できる？",
+        "body": "立って作業すると集中力が上がる、ってよく聞くよね。2017年には、立つと注意の課題の成績がよくなったという大学生の実験も出ていた。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5回やり直してみた",
+        "body": "Caronらは、その実験を2つの大学で5回やり直した。分析した人数は108人・108人・98人・78人・51人。座る・立つで、色の名前を答える課題の成績を比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "姿勢の差は出なかった",
+        "body": "5回とも、立っても座っても、成績に一貫した違いは見られなかった。著者らは、姿勢の影響は以前言われたほど大きくないとまとめている。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い勉強では未確認",
+        "body": "調べたのは短い課題だけ。何時間も勉強するときや、立つことに慣れた人でどうなるかは、この実験からはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

@@ -3143,5 +3143,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Young_seedling_of_tomato_emerging_from_soil_-_India.jpg/500px-Young_seedling_of_tomato_emerging_from_soil_-_India.jpg",
   "og": "https://dokugaku.seadice.win/img/interest-first-study-motivation-og.jpg",
   "local": true
+ },
+ "standing-desk-study-focus": {
+  "file": "File:Standing Desk by Amrish Kawa 03.jpg",
+  "src": "/img/standing-desk-study-focus.webp",
+  "src640": "/img/standing-desk-study-focus-sm.webp",
+  "w": 960,
+  "h": 540,
+  "alt": "段ボールで作った、立って使う机",
+  "artist": "Ambrishraja",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Standing_Desk_by_Amrish_Kawa_03.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Standing_Desk_by_Amrish_Kawa_03.jpg/960px-Standing_Desk_by_Amrish_Kawa_03.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Standing_Desk_by_Amrish_Kawa_03.jpg/500px-Standing_Desk_by_Amrish_Kawa_03.jpg",
+  "og": "https://dokugaku.seadice.win/img/standing-desk-study-focus-og.jpg",
+  "local": true
  }
 }
