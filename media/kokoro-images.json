@@ -4187,5 +4187,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/D_e_w_-_Flickr_-_jonhyblaze.jpg/500px-D_e_w_-_Flickr_-_jonhyblaze.jpg",
   "og": "https://mentalai.seadice.win/img/ai-escape-dependence-root-recover.jpg",
   "local": true
+ },
+ "layoff-news-write-feelings-first": {
+  "file": "File:Pen 6.jpg",
+  "src": "/img/layoff-news-write-feelings-first.jpg",
+  "src640": "/img/layoff-news-write-feelings-first-sm.jpg",
+  "w": 960,
+  "h": 443,
+  "alt": "開いたノートの上に置かれたペン",
+  "artist": "Jegan12345",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pen_6.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pen_6.jpg/960px-Pen_6.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pen_6.jpg/500px-Pen_6.jpg",
+  "og": "https://mentalai.seadice.win/img/layoff-news-write-feelings-first.jpg",
+  "local": true
  }
 }

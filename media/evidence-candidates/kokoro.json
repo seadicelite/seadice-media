@@ -4557,5 +4557,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-layoff-news-write-feelings-first-feelings-before-plans",
+    "category": "仕事とAIの不安",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Probst TM, Jiang L, \"Mitigating Physiological Responses to Layoff Threat: An Experimental Test of the Efficacy of Two Coping Interventions\" (International Journal of Environmental Research and Public Health, 2016)",
+    "sourceUrl": "https://doi.org/10.3390/ijerph13030338",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/layoff-news-write-feelings-first/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く話",
+        "title": "解雇と聞いたら、すぐ転職準備？",
+        "body": "人員削減の話が出たら、まず次の仕事を探さなきゃって焦るよね。でも先に何をすると、体は落ち着きやすいんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "解雇の知らせを想像して5分書く",
+        "body": "米国の大学生84人が、解雇の知らせを受けた会社員になったつもりで、5分間「気持ち」か「仕事の探し方」のどちらかを書いたんだ。緊張で変わる皮膚の電気反応を測りながら。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "気持ちを書いた組のほうが大きく下がった",
+        "body": "知らせを読むと反応は上がり、書くとどちらの組も下がった。下がり幅は気持ちを書いた組のほうが大きかったらしい（0.42→0.13と0.31→0.12）。心拍には差がなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本当の解雇でも同じ？",
+        "body": "想像の場面で、書かない組もなかった。気持ちを書いた組はもともと反応が高く、書き終えた後の値はほぼ同じ。実際の解雇や、気分が変わるかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
