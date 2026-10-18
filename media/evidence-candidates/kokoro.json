@@ -4455,5 +4455,73 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-ai-era-study-purpose-recover-boring-but-important",
+    "category": "考える力・集中",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yeager DS et al., \"Boring but important: a self-transcendent purpose for learning fosters academic self-regulation\" (Journal of Personality and Social Psychology, 2014)",
+    "sourceUrl": "https://doi.org/10.1037/a0037637",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-era-study-purpose-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "退屈な勉強、何が続ける力になる？",
+        "body": "計算や暗記みたいな退屈な練習、気づくとスマホや動画に手が伸びるよね。続ける力になるのは何なんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "学ぶ理由を書いてから挑戦",
+        "body": "米国の大学生に「世の中をもっとよくするには？」を書いてもらってから、退屈な引き算と動画やゲームを自由に選べる課題を4分ずつ2回やってもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差が出たのは後半",
+        "body": "1回目は差がなかった。でも2回目、比べた組は解いた問題が44%減ったのに、理由を書いた組は26%減にとどまったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人にも効く？",
+        "body": "対象は中高生と大学生。働く大人の学び直しで同じ効果が出るかは、まだ確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-ai-era-study-purpose-recover-utility-value-stem",
+    "category": "考える力・集中",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Asher MW et al., \"Utility-value intervention promotes persistence and diversity in STEM\" (PNAS, 2023)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.2300463120",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/ai-era-study-purpose-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "「何の役に立つの？」は大事？",
+        "body": "勉強中に「これ、何の役に立つの？」って思うこと、あるよね。その答えを自分で書くと、何か変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "化学の授業2,505人",
+        "body": "米国の大学の化学の授業で、習った内容が自分の興味や目標にどう役立つかを学期中に3回書く組と、内容をまとめるだけの組をくじ引きで比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "2年半後に差",
+        "body": "2年半後、理系の専攻を続けていたのは書いた組で74%、比べた組で70%。小さな課題でも、学びを続ける人が少し増えていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1つの大学の話",
+        "body": "1つの大学の1つの授業での結果。課題は1回500語ほどの文章で、短いメモでも同じかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

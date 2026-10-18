@@ -4151,5 +4151,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pen_on_a_notebook_%28Unsplash%29.jpg/500px-Pen_on_a_notebook_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/reskilling-quit-restart-online-course.jpg",
   "local": true
+ },
+ "ai-era-study-purpose-recover": {
+  "file": "File:Books on a table at State Central Library.jpg",
+  "src": "/img/ai-era-study-purpose-recover.jpg",
+  "src640": "/img/ai-era-study-purpose-recover-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "図書館の机に置かれた本",
+  "artist": "Saiphani02",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Books_on_a_table_at_State_Central_Library.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Books_on_a_table_at_State_Central_Library.jpg/960px-Books_on_a_table_at_State_Central_Library.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Books_on_a_table_at_State_Central_Library.jpg/500px-Books_on_a_table_at_State_Central_Library.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-era-study-purpose-recover.jpg",
+  "local": true
  }
 }
