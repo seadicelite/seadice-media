@@ -4956,5 +4956,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-study-method-by-goal-table-interleaving-words",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Brunmair & Richter, \"Similarity matters: A meta-analysis of interleaved learning and its moderators\" (Psychological Bulletin, 2019)",
+    "sourceUrl": "https://doi.org/10.1037/bul0000209",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/study-method-by-goal-table/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "まぜて練習すると何でも覚えやすい？",
+        "body": "違う種類の問題をまぜて練習する「インターリーブ」は、効く勉強法としてよく紹介されるよね。じゃあ、英単語もまぜて覚えた方がいいのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "59件の研究をまとめた分析",
+        "body": "BrunmairとRichterは2019年、まぜて練習する方法の研究59件、238の効果をまとめた。学ぶものの種類ごとに、効き方を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "絵には効いて、単語には逆効果",
+        "body": "全体ではよく効いた（g=0.42）。絵の画風を見分ける練習ではg=0.67、数学ではg=0.34。でも単語の学習ではg=−0.39で、まとめて練習する方がよかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "説明文ではどっちつかず",
+        "body": "説明文の学習でははっきりした差が出ず、著者らは材料によっては慎重に使うべきとしている。何か月もかけた独学で同じ結果になるかは、この分析だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

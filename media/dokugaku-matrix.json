@@ -163,7 +163,8 @@
     ],
     "use": [
      "https://dokugaku.seadice.win/hayami/",
-     "study-method-plan-vs-actual-check-sheet"
+     "study-method-plan-vs-actual-check-sheet",
+     "study-method-by-goal-table"
     ],
     "how": [
      "choose-study-methods-by-goal",

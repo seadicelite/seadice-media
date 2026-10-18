@@ -3059,5 +3059,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cromwell_Field_and_Loker_Stadium_%28USC%29.jpg/500px-Cromwell_Field_and_Loker_Stadium_%28USC%29.jpg",
   "og": "https://dokugaku.seadice.win/img/exercise-study-weekly-plan-sheet.jpg",
   "local": true
+ },
+ "study-method-by-goal-table": {
+  "file": "File:Stack of Books in Nilkhet Market.jpg",
+  "src": "/img/study-method-by-goal-table.jpg",
+  "src640": "/img/study-method-by-goal-table-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "積み重ねた本",
+  "artist": "S.M.M.Musabbir Uddin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Stack_of_Books_in_Nilkhet_Market.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stack_of_Books_in_Nilkhet_Market.jpg/960px-Stack_of_Books_in_Nilkhet_Market.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stack_of_Books_in_Nilkhet_Market.jpg/500px-Stack_of_Books_in_Nilkhet_Market.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-method-by-goal-table.jpg",
+  "local": true
  }
 }
