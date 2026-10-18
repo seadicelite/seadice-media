@@ -3279,5 +3279,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Booklets_of_questions_%28Common_Test_for_University_Admissions_2023%29.jpg/500px-Booklets_of_questions_%28Common_Test_for_University_Admissions_2023%29.jpg",
   "local": true,
   "og": "https://dokugaku.seadice.win/img/memorized-answers-cannot-solve-new-questions-og.jpg"
+ },
+ "why-dont-do-goals-fail": {
+  "file": "File:Calendar on wall - DPLA - 9a4661db5e239ae31e32ffe830ab91e6.jpg",
+  "src": "/img/why-dont-do-goals-fail.jpg",
+  "src640": "/img/why-dont-do-goals-fail-sm.jpg",
+  "w": 960,
+  "h": 670,
+  "alt": "壁にかけたカレンダー",
+  "artist": "Sanromá, John B., 1900-1997",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Calendar_on_wall_-_DPLA_-_9a4661db5e239ae31e32ffe830ab91e6.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Calendar_on_wall_-_DPLA_-_9a4661db5e239ae31e32ffe830ab91e6.jpg/960px-Calendar_on_wall_-_DPLA_-_9a4661db5e239ae31e32ffe830ab91e6.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Calendar_on_wall_-_DPLA_-_9a4661db5e239ae31e32ffe830ab91e6.jpg/500px-Calendar_on_wall_-_DPLA_-_9a4661db5e239ae31e32ffe830ab91e6.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-dont-do-goals-fail.jpg",
+  "local": true
  }
 }

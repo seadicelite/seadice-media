@@ -5500,5 +5500,73 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-why-dont-do-goals-fail-new-year-resolutions",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Oscarsson et al., \"A large-scale experiment on New Year's resolutions: Approach-oriented goals are more successful than avoidance-oriented goals\" (PLOS ONE, 2020)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0234097",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/why-dont-do-goals-fail/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く悩み",
+        "title": "「〜しない」と決めても続かない",
+        "body": "「サボらない」「お菓子を食べない」。そう決めたのに続かないこと、あるよね。目標の立て方で差は出るんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1,066人の新年の抱負を1年追跡",
+        "body": "スウェーデンのOscarssonらは、一般の大人1,066人の新年の抱負を1年間追いかけて、どんな目標が続いたかを調べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「〜する」の方が成功率が高い",
+        "body": "1年後に「続いている」と答えた人は、「〜する」形の目標で58.9%、「〜しない」形で47.1%。差は統計的に意味があった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "差は小さく、本人が選んだ目標",
+        "body": "差の大きさは小さめ。目標の形はくじで決めたものではなく、成功も自己評価。「〜する」形にすれば必ず続くとまでは言えない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-why-dont-do-goals-fail-white-bear-rebound",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Niczyporuk, \"The effectiveness and adaptiveness of suppressing unwanted thoughts\" (Psychonomic Bulletin & Review, 2025)",
+    "sourceUrl": "https://doi.org/10.3758/s13423-025-02763-w",
+    "studyType": "レビュー",
+    "articleUrl": "https://dokugaku.seadice.win/why-dont-do-goals-fail/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "考えないようにすると、逆に考える？",
+        "body": "「白いクマのことを考えないで」と言われると、かえって考えてしまう。だから考えを抑えるのは逆効果、という話はよく聞くよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "白いクマの研究を見直した",
+        "body": "Niczyporukは、考えを抑える実験の研究を見直した。抑えた後に考えが増える「リバウンド」は、3つのメタ分析で小〜中くらいと報告されている。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "いつも逆効果とは言えない",
+        "body": "分析された事例の18〜46%では数字の上で逆向きだった。小さな研究ほど効果が大きく出る偏りを補正すると、リバウンドがはっきりしなくなった分析もある。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "疲れているときは別かも",
+        "body": "頭が疲れているときは、抑えようとすると逆に考えが増えやすいという。どんな人・場面で逆効果になるかは、まだはっきりしていない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
