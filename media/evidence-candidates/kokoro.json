@@ -4625,5 +4625,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-gum-chewing-focus-work-alertness",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Allen AP, Smith AP, \"Chewing Gum: Cognitive Performance, Mood, Well-Being, and Associated Physiology\" (BioMed Research International, 2015)",
+    "sourceUrl": "https://doi.org/10.1155/2015/654806",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/gum-chewing-focus-work/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ガムを噛むと集中できる？",
+        "body": "眠くなる午後、ガムを噛むと頭が冴えるって聞くよね。英国の大学の研究チームが、実験と職場の両方で確かめてみたらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「すっきり感」は上がった",
+        "body": "噛んだ人は、噛まない人より「頭がすっきりした感じ」が高かった。ミント味でも味のないガムの素材でも差はなく、噛む動きが関わっているのかも。"
+      },
+      {
+        "stage": "意外なところ",
+        "title": "注意力テストは一長一短",
+        "body": "56人の実験では、噛んだときに4分目の反応が遅くなる一方、最後の1分の見まちがいは減っていた。すっきり感と成績は、同じではないみたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "仕事の成果は測れていない",
+        "body": "大学職員126人の1日の実験では「うっかりミス」の自己評価が少なかったけど、これは本人の感じ方。噛んでいるのは自分でわかるので、思い込みの影響も残るよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

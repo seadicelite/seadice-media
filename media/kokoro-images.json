@@ -4223,5 +4223,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Wooden_house_%28window_shutters%29%2C_Riga.jpg/500px-Wooden_house_%28window_shutters%29%2C_Riga.jpg",
   "og": "https://mentalai.seadice.win/img/left-out-ai-empathy-chat.jpg",
   "local": true
+ },
+ "gum-chewing-focus-work": {
+  "file": "File:Coffee, notebooks and pen (Unsplash).jpg",
+  "src": "/img/gum-chewing-focus-work.jpg",
+  "src640": "/img/gum-chewing-focus-work-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のテーブルに置かれたノートとペン、コーヒー",
+  "artist": "Freddy Castro readysetfreddy",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Coffee,_notebooks_and_pen_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Coffee%2C_notebooks_and_pen_%28Unsplash%29.jpg/960px-Coffee%2C_notebooks_and_pen_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Coffee%2C_notebooks_and_pen_%28Unsplash%29.jpg/500px-Coffee%2C_notebooks_and_pen_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/gum-chewing-focus-work.jpg",
+  "local": true
  }
 }
