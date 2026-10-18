@@ -5626,5 +5626,73 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-habits-spread-from-people-around-why-research-running-contagion",
+    "category": "習慣",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Aral S, Nicolaides C, \"Exercise contagion in a global social network\" (Nature Communications, 2017)",
+    "sourceUrl": "https://doi.org/10.1038/ncomms14753",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/habits-spread-from-people-around-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "走る友だちがいると、自分も走る？",
+        "body": "運動する友だちができると、なんだか自分も動きたくなる。それが本当に友だちの影響なのかを、すごい人数で調べた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "110万人のランナーと天気",
+        "body": "約110万人が5年間に走った記録を分析。友だちの住む地域だけ天気が良くて、友だちがたくさん走った日を使って、友だちの影響だけを取り出したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "友だちが1km多いと、自分も0.3km",
+        "body": "友だちがいつもより1km多く走ると、本人も同じ日に平均0.3km多く走っていた。あまり走らない人がよく走る人を引っぱる向きはあったけど、逆は見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "記録アプリの人だけの話",
+        "body": "ランニング記録アプリを使う人だけのデータで、実験ではない。食事や睡眠など、ほかの習慣も同じように広がるかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-habits-spread-from-people-around-why-research-acne-height-contagion",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Cohen-Cole E, Fletcher JM, \"Detecting implausible social network effects in acne, height, and headaches: longitudinal analysis\" (BMJ, 2008)",
+    "sourceUrl": "https://doi.org/10.1136/bmj.a2533",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/habits-spread-from-people-around-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "太るのは友だちからうつる？",
+        "body": "友だちが太ると自分も太りやすい、という有名な研究がある。でも、それって本当に「うつった」と言えるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "うつるはずのないものでも試した",
+        "body": "アメリカの10代4300〜5400人のデータで、同じよくある分析方法を、ニキビや頭痛、身長に使ってみた研究があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "身長まで「うつる」ように見えた",
+        "body": "その方法だと、ニキビも頭痛も身長も友だちから「うつる」ように見えた。住んでいる環境などの影響を取りのぞくと、どの結果も小さくなって、はっきりしなくなったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "影響がゼロという意味ではない",
+        "body": "友だちに影響されないという話ではなく、似ているだけでは「うつった」証拠にならないという注意。本当の影響の大きさを測るのは、まだ難しいんだ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
