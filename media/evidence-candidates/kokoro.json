@@ -4761,5 +4761,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-comparison-low-rank-motivation-drop-retry",
+    "category": "SNSと比較",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Meyer T, Zenses AK, Morina N, \"Social comparison threat and coping: affective, cognitive and behavioral outcomes in response to false performance-related feedback\" (BMC Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.1186/s40359-026-05536-9",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/comparison-low-rank-motivation-drop/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よくある話",
+        "title": "人より下だとわかると、やる気がしぼむ",
+        "body": "成績や評価で自分が下のほうだと知った瞬間、「もうどうでもいい」って思っちゃうこと、あるよね。そのまま頑張れなくなる気がして不安になる。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ニセの順位を見せる実験",
+        "body": "ドイツの大学生129人が集中力の課題に挑戦。半分には「上のほう」、半分には「下のほう」と、実際の成績と関係なく順位を見せたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "気持ちは沈む、でも挑戦はやめなかった",
+        "body": "「下のほう」組は「次はうまくなりたい」気持ちが7段階で2.27と、「上のほう」組の4.11より低かった。でも1分の課題にもう一度挑んだ人は76%で、上のほう組の65%と差はなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "軽い課題での話",
+        "body": "オンラインの短い課題で、受験や人事評価みたいに重い場面では違うかもしれない。数日後に意欲が戻るかも調べていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

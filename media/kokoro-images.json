@@ -4277,5 +4277,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Early_Fall_Colors_in_the_Blue_Ridge_Mountains_%28MODIS_2025-10-17%29.jpg/500px-Early_Fall_Colors_in_the_Blue_Ridge_Mountains_%28MODIS_2025-10-17%29.jpg",
   "og": "https://mentalai.seadice.win/img/screen-fatigue-nature-view.jpg",
   "local": true
+ },
+ "comparison-low-rank-motivation-drop": {
+  "file": "File:Stone steps, Dawyck Botanic Garden - geograph.org.uk - 5789793.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Stone_steps%2C_Dawyck_Botanic_Garden_-_geograph.org.uk_-_5789793.jpg/960px-Stone_steps%2C_Dawyck_Botanic_Garden_-_geograph.org.uk_-_5789793.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Stone_steps%2C_Dawyck_Botanic_Garden_-_geograph.org.uk_-_5789793.jpg/500px-Stone_steps%2C_Dawyck_Botanic_Garden_-_geograph.org.uk_-_5789793.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "庭に続く石の階段",
+  "artist": "Jim Barton",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Stone_steps,_Dawyck_Botanic_Garden_-_geograph.org.uk_-_5789793.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
