@@ -5218,5 +5218,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-memory-palace-method-of-loci-how-research-loci-training-40days",
+    "category": "記憶・学習",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wagner IC et al., \"Durable memories and efficient neural coding through mnemonic training using the method of loci\" (Science Advances, 2021)",
+    "sourceUrl": "https://doi.org/10.1126/sciadv.abc7606",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/memory-palace-method-of-loci-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "記憶の宮殿って、ふつうの人にも使える？",
+        "body": "よく知る道に覚えたいものを置いて、頭の中で歩き直す「記憶の宮殿」。記憶の大会の選手が使う技だけど、ふつうの人が練習しても伸びるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "記憶術を知らない人が40日練習した",
+        "body": "ドイツの男子学生を3組に分けた実験。1組は1日30分・計40回、記憶の宮殿を練習。ほかの組は別の脳トレか、何もしなかったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "72語中25語→62語に",
+        "body": "練習した17人は、72語のリストを覚えて思い出せた数が平均25.2語から62.2語に増えた。4か月後のテストでも、練習前より平均22.7語多かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "単語リスト以外にも効くかは別",
+        "body": "試したのは単語の一覧を覚えるテストで、参加者は若い男性だけ。教科書の理解や、毎日のもの忘れにどこまで役立つかは、この研究ではわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]

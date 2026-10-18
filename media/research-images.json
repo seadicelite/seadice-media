@@ -3290,5 +3290,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_cup_of_coffee_on_a_wooden_table_%2847939081677%29.jpg/500px-The_cup_of_coffee_on_a_wooden_table_%2847939081677%29.jpg",
   "og": "https://research.seadice.win/img/small-acts-of-kindness-mood-how-research.jpg",
   "local": true
+ },
+ "memory-palace-method-of-loci-how-research": {
+  "file": "File:Gallery of Polish Painting and European Decorative Arts, National Museum in Kielce, czerwiec 2025, SOULinPIX 092.jpg",
+  "src": "/img/memory-palace-method-of-loci-how-research.webp",
+  "src640": "/img/memory-palace-method-of-loci-how-research-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "絵が並ぶ宮殿の部屋（旧司教宮殿の展示室）",
+  "artist": "Krzysztof Popławski",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gallery_of_Polish_Painting_and_European_Decorative_Arts,_National_Museum_in_Kielce,_czerwiec_2025,_SOULinPIX_092.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gallery_of_Polish_Painting_and_European_Decorative_Arts%2C_National_Museum_in_Kielce%2C_czerwiec_2025%2C_SOULinPIX_092.jpg/960px-Gallery_of_Polish_Painting_and_European_Decorative_Arts%2C_National_Museum_in_Kielce%2C_czerwiec_2025%2C_SOULinPIX_092.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gallery_of_Polish_Painting_and_European_Decorative_Arts%2C_National_Museum_in_Kielce%2C_czerwiec_2025%2C_SOULinPIX_092.jpg/500px-Gallery_of_Polish_Painting_and_European_Decorative_Arts%2C_National_Museum_in_Kielce%2C_czerwiec_2025%2C_SOULinPIX_092.jpg",
+  "og": "https://research.seadice.win/img/memory-palace-method-of-loci-how-research-og.jpg",
+  "local": true
  }
 }
