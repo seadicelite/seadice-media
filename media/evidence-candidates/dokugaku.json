@@ -5670,5 +5670,73 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-math-anxiety-stuck-restart-anticipation-pain",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lyons & Beilock, \"When math hurts: math anxiety predicts pain network activation in anticipation of doing math\" (PLoS ONE, 2012)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0048076",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/math-anxiety-stuck-restart/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "数学がつらいのは、解いている最中？",
+        "body": "計算問題を前にすると気が重くなる人は多いよね。でもつらいのは、解いている時間なのか、それとも解く前なのか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "合図を見た瞬間の脳を測った",
+        "body": "LyonsとBeilockは、数学不安の強い14人と弱い14人の大人に、fMRIの中で計算課題が来る合図と、実際の計算の両方をしてもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "痛むのは「始める前」",
+        "body": "不安が強い人ほど、計算が来ると知った待ち時間に、痛みや体の危険を感じるときに働く部位が強く働いた。計算している最中には、この関係は見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "28人の脳の研究",
+        "body": "人数が少なく、勉強の成果を測った研究ではない。始めるまでの時間を短くすると楽になるかは、この実験では確かめていない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-math-anxiety-stuck-restart-expressive-writing-null",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Scheibe et al., \"How does math anxiety affect math performance? An experimental online two-study investigation into the mechanism driving math anxiety interventions\" (Journal of Experimental Psychology: General, 2025)",
+    "sourceUrl": "https://doi.org/10.1037/xge0001804",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/math-anxiety-stuck-restart/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "不安を書き出せば数学の点が上がる？",
+        "body": "試験の前に不安を紙に書き出すと、頭が空いて点が上がる。そんな方法が数学不安の対策として紹介されることがあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "オンラインで2回試した",
+        "body": "Scheibeらは、168人と505人のオンライン実験で、計算の前に不安を書き出す方法などを試し、対照群と成績を比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "書いた人の成績は上回らなかった",
+        "body": "書き出した人の成績は、対照群を上回らなかった。効いたという以前の実験もあるけれど、効くには条件があるのかもしれない、と著者らは書いている。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本番の試験ではどうか",
+        "body": "オンラインの短い実験で、実際の試験ではない。どんな人・どんな場面なら書き出す方法が効くのかは、まだはっきりしていない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

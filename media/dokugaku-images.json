@@ -3330,5 +3330,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tapping_pencil.jpg/500px-Tapping_pencil.jpg",
   "og": "https://dokugaku.seadice.win/img/self-reference-effect-link-to-yourself-og.jpg",
   "local": true
+ },
+ "math-anxiety-stuck-restart": {
+  "file": "File:Wooden Iranian abacus - made in Nishapur 1.JPG",
+  "src": "/img/math-anxiety-stuck-restart.webp",
+  "src640": "/img/math-anxiety-stuck-restart-sm.webp",
+  "w": 960,
+  "h": 540,
+  "alt": "布の上に置かれた木製の計算具（そろばん）",
+  "artist": "Sonia Sevilla",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Wooden_Iranian_abacus_-_made_in_Nishapur_1.JPG",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wooden_Iranian_abacus_-_made_in_Nishapur_1.JPG/960px-Wooden_Iranian_abacus_-_made_in_Nishapur_1.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wooden_Iranian_abacus_-_made_in_Nishapur_1.JPG/500px-Wooden_Iranian_abacus_-_made_in_Nishapur_1.JPG",
+  "og": "https://dokugaku.seadice.win/img/math-anxiety-stuck-restart-og.jpg",
+  "local": true
  }
 }
