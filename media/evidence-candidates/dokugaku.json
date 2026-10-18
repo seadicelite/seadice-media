@@ -5092,5 +5092,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-gesture-vocabulary-learning-observe-vs-enact",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Oppici et al., \"Benefits of Enacting and Observing Gestures on Foreign Language Vocabulary Learning: A Systematic Review and Meta-Analysis\" (Behavioral Sciences, 2023)",
+    "sourceUrl": "https://doi.org/10.3390/bs13110920",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/gesture-vocabulary-learning/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "単語は自分で手を動かさないとダメ？",
+        "body": "外国語の単語を、意味に合った身ぶりをしながら覚える方法がある。でも、自分で体を動かすのと、人の身ぶりを見るだけでは、どれくらい違うんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "7件の実験・309人をまとめた",
+        "body": "Oppiciらは、自分で身ぶりをする覚え方と、見るだけの覚え方を比べた7件の実験（計309人）をメタ分析した。7件中6件は大学生などの成人だった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "見るだけでも、ほぼ同じだった",
+        "body": "2つの覚え方の差はほとんどなかった（効果量0.05）。人前で体を動かしにくいときは、身ぶりを見るだけでもよさそう、という結果だ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "「身ぶりなし」とは比べていない",
+        "body": "この分析は、身ぶりをしない覚え方とは比べていない。研究ごとの結果のばらつきも大きく、著者らは、もっと長い期間・多い人数での研究が必要だとしている。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
