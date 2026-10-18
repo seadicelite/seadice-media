@@ -1741,5 +1741,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frankfurt_Stock_Exchange_%28Ank_Kumar%29_03.jpg/500px-Frankfurt_Stock_Exchange_%28Ank_Kumar%29_03.jpg",
   "og": "https://ledger.seadice.win/img/investment-panic-selling-recovery-steps.jpg",
   "local": true
+ },
+ "subscription-unused-months-paid-recovery": {
+  "file": "File:December 25 - calendar sheet.jpg",
+  "src": "/img/subscription-unused-months-paid-recovery.jpg",
+  "src640": "/img/subscription-unused-months-paid-recovery-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "日付が書かれたカレンダーの1枚",
+  "artist": "Karen Arnold",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:December_25_-_calendar_sheet.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://commons.wikimedia.org/wiki/Special:FilePath/December_25_-_calendar_sheet.jpg?width=960",
+  "remote640": "https://commons.wikimedia.org/wiki/Special:FilePath/December_25_-_calendar_sheet.jpg?width=500",
+  "og": "https://ledger.seadice.win/img/subscription-unused-months-paid-recovery.jpg",
+  "local": true
  }
 }

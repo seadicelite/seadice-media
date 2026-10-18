@@ -191,7 +191,9 @@
     "fix": [
      "subscription-review-procrastination-status-quo-bias"
     ],
-    "after": [],
+    "after": [
+     "subscription-unused-months-paid-recovery"
+    ],
     "use": [
      "subscription-fixed-cost-review-checklist"
     ]
