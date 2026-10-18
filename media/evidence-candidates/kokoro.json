@@ -5033,5 +5033,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-dim-room-daytime-light-focus-well-rested",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lok R, Woelders T, Gordijn MCM, Hut RA, Beersma DGM, \"White Light During Daytime Does Not Improve Alertness in Well-rested Individuals\" (Journal of Biological Rhythms, 2018)",
+    "sourceUrl": "https://doi.org/10.1177/0748730418796036",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/dim-room-daytime-light-focus/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "昼間も部屋を明るくすれば目がさえる？",
+        "body": "薄暗い部屋だと頭がぼんやりするから、照明を明るくすればシャキッとする。そう思っている人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "よく眠れている50人で試した",
+        "body": "オランダの研究で、睡眠不足のない20〜30歳の50人に、朝7時半から夕方5時半まで、24〜2,000ルクスの光を1時間ずつくり返し浴びてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "明るさで目のさえ方は変わらなかった",
+        "body": "眠気の感じ方や反応の速さ、まぶたの動きを測ったけど、明るいほど目がさえるという関係は、統計の補正後には見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "眠い人なら違うかも",
+        "body": "1段階10人と少人数で、睡眠不足の人は調べていない。研究者は、よく眠れている人は昼間もともと目がさえていて上がりにくい可能性を挙げているよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
