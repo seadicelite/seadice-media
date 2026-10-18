@@ -3211,5 +3211,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Calendar_on_wall_-_DPLA_-_56626648908df09881fb4dbdb67ba801.jpg/500px-Calendar_on_wall_-_DPLA_-_56626648908df09881fb4dbdb67ba801.jpg",
   "og": "https://dokugaku.seadice.win/img/study-streak-keep-going-og.jpg",
   "local": true
+ },
+ "mozart-effect-before-exam": {
+  "file": "File:Boesendorfer-5075415.jpg",
+  "src": "/img/mozart-effect-before-exam.webp",
+  "src640": "/img/mozart-effect-before-exam-sm.webp",
+  "w": 960,
+  "h": 690,
+  "alt": "ピアノの鍵盤",
+  "artist": "ermell",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Boesendorfer-5075415.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boesendorfer-5075415.jpg/960px-Boesendorfer-5075415.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boesendorfer-5075415.jpg/500px-Boesendorfer-5075415.jpg",
+  "og": "https://dokugaku.seadice.win/img/mozart-effect-before-exam-og.jpg",
+  "local": true
  }
 }

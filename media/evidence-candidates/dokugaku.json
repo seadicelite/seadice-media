@@ -5296,5 +5296,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "themeColor": "#00FFD1",
+    "articleSite": "独学の科学",
+    "addedAt": "2026-10-19",
+    "id": "dokugaku-mozart-effect-before-exam-arousal-mood",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "sourceLabel": "Thompson et al., \"Arousal, mood, and the Mozart effect\" (Psychological Science, 2001)",
+    "sourceUrl": "https://doi.org/10.1111/1467-9280.00345",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/mozart-effect-before-exam/",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "モーツァルトで頭が冴える？",
+        "body": "試験の前にモーツァルトを聴くと、頭が良くなるって話、聞いたことあるよね。本当にモーツァルトの力なんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "明るい曲と悲しい曲で比べた",
+        "body": "Thompsonらは、明るく元気なモーツァルトか、ゆっくりした悲しい曲を聴いた人と、無音で座っていた人で、空間の課題の成績を比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差は「気分」で消えた",
+        "body": "成績が上がったのはモーツァルトを聴いた人だけ。でも楽しさ・覚醒・気分の差を統計でそろえると、その差は消えた。曲で気分が上がったことが効いていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "試験の点とは別の話",
+        "body": "調べたのは実験室の空間の課題で、勉強した知識を本番で思い出せるかは測っていない。"
+      }
+    ]
   }
 ]
