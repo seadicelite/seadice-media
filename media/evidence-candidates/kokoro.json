@@ -4183,5 +4183,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-ai-support-social-anxiety-why-two-sides",
+    "category": "AIとの付き合い方",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hu, \"Perceived support from AI chatbots and loneliness among higher vocational college students: a short-term three-wave study of social interaction anxiety and perceived social support\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1928350",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-support-social-anxiety-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "AIに話すと孤独がまぎれる？",
+        "body": "AIはいつでも話を聞いてくれるから、さみしさがまぎれそうだよね。でも人と話すのがおっくうにならないか、気になる人もいるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1,200人を3回追跡",
+        "body": "中国の職業系の学校の学生1,200人に、約8週間おきに3回、AIに支えられている感じ・人づきあいの不安・孤独を答えてもらった研究があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "2つの向きの結びつき",
+        "body": "AIに支えられていると感じる学生ほど、次の回の人づきあいの不安がやや高かった。一方で孤独がやや低い結びつきも見られて、それは家族や友人の支えがある学生ではっきりしていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因かどうかは不明",
+        "body": "関連を見た調査で、緊張しやすい人がAIを頼りやすいだけかもしれない。中国の学生の1学期だけの結果で、働く大人に同じことが言えるかもわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
