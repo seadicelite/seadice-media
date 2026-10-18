@@ -3041,5 +3041,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stopwatch%2C_1810201155%2C_ako.jpg/500px-Stopwatch%2C_1810201155%2C_ako.jpg",
   "og": "https://dokugaku.seadice.win/img/study-time-estimate-vs-actual-log-og.jpg",
   "local": true
+ },
+ "exercise-study-weekly-plan-sheet": {
+  "file": "File:Cromwell Field and Loker Stadium (USC).jpg",
+  "src": "/img/exercise-study-weekly-plan-sheet.jpg",
+  "src640": "/img/exercise-study-weekly-plan-sheet-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "陸上競技場のトラック",
+  "artist": "Spatms",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cromwell_Field_and_Loker_Stadium_(USC).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cromwell_Field_and_Loker_Stadium_%28USC%29.jpg/960px-Cromwell_Field_and_Loker_Stadium_%28USC%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cromwell_Field_and_Loker_Stadium_%28USC%29.jpg/500px-Cromwell_Field_and_Loker_Stadium_%28USC%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/exercise-study-weekly-plan-sheet.jpg",
+  "local": true
  }
 }

@@ -4922,5 +4922,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "dokugaku-exercise-study-weekly-plan-sheet-exercise-timing",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Loprinzi et al., \"The Temporal Effects of Acute Exercise on Episodic Memory Function: Systematic Review with Meta-Analysis\" (Brain Sciences, 2019)",
+    "sourceUrl": "https://doi.org/10.3390/brainsci9040087",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/exercise-study-weekly-plan-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "歩きながら覚えると頭に入る？",
+        "body": "ランニングマシンで歩きながら単語を覚えると、体も頭も一度に鍛えられて効率がいい。そんな話を聞くよね。でも、運動するタイミングで記憶への効き方は変わるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "25本の論文をまとめた分析",
+        "body": "Loprinziらは2019年、1回の運動と記憶の研究25本をまとめた。運動したのが覚える前か、覚えている最中か、覚えた後かで分けて比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "覚えた後の運動の方がよかった",
+        "body": "覚えた直後に運動すると記憶がよくなった（d=0.47）。一方、覚えながら運動すると、わずかに悪くなった（d=−0.12）。歩くなら、覚え終わってからの方がよさそう。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "覚えた後の研究はまだ少ない",
+        "body": "覚えた後に運動した研究は数が少なく、効果が出た研究ほど発表されやすい偏りも見られたと著者ら自身が書いている。実験室で単語などを覚える研究が中心だよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
