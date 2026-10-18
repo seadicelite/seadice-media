@@ -4383,5 +4383,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Pebbles_in_Rethymno%27s_beach.jpg/500px-Pebbles_in_Rethymno%27s_beach.jpg",
   "og": "https://mentalai.seadice.win/img/ai-work-use-resilience.jpg",
   "local": true
+ },
+ "fomo-info-fatigue-why": {
+  "file": "File:Low tide on the river Minho estuary in the evening during sunset, Caminha, Viana do Castelo, Portugal, January 2024 (53449791274).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Low_tide_on_the_river_Minho_estuary_in_the_evening_during_sunset%2C_Caminha%2C_Viana_do_Castelo%2C_Portugal%2C_January_2024_%2853449791274%29.jpg/960px-Low_tide_on_the_river_Minho_estuary_in_the_evening_during_sunset%2C_Caminha%2C_Viana_do_Castelo%2C_Portugal%2C_January_2024_%2853449791274%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Low_tide_on_the_river_Minho_estuary_in_the_evening_during_sunset%2C_Caminha%2C_Viana_do_Castelo%2C_Portugal%2C_January_2024_%2853449791274%29.jpg/500px-Low_tide_on_the_river_Minho_estuary_in_the_evening_during_sunset%2C_Caminha%2C_Viana_do_Castelo%2C_Portugal%2C_January_2024_%2853449791274%29.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "夕暮れの引き潮の河口に広がる砂地と水面",
+  "artist": "Sergei Gussev",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Low_tide_on_the_river_Minho_estuary_in_the_evening_during_sunset,_Caminha,_Viana_do_Castelo,_Portugal,_January_2024_(53449791274).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

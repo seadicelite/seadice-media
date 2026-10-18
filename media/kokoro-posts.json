@@ -1,5 +1,14 @@
 [
   {
+    "slug": "fomo-info-fatigue-why",
+    "category": "AI疲れ・情報疲れ",
+    "type": "guide",
+    "stage": "知る",
+    "date": "2026-10-19",
+    "title": "新しいAIの情報を見逃したくなくて、追うほど疲れるのはなぜ？SNSの研究では、「見逃す不安」が強い人ほど情報が多すぎると感じやすく、それがあとの疲れとつながっていた",
+    "summary": "中国の大学生743人の研究では、見逃す不安が強い人ほど情報が多すぎると感じ、2か月後のSNS疲れも強かった。AIの情報に絞った研究はまだない。"
+  },
+  {
     "slug": "ai-work-use-resilience",
     "category": "仕事とAIの不安",
     "type": "guide",

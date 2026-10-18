@@ -4999,5 +4999,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-fomo-info-fatigue-why-overload",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yao X, Zhao J, Zhang H, Chao W, Wang M, \"The Antecedents and Buffer of Social Media Fatigue: A Moderating Role of Dispositional Mindfulness\" (PsyCh Journal, 2025)",
+    "sourceUrl": "https://doi.org/10.1002/pchj.70062",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/fomo-info-fatigue-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "見逃したくないほど疲れるのはなぜ？",
+        "body": "新しい情報を見逃したくなくて、何度も新着を確かめる。なのに、追うほどぐったりする。どうしてなんだろうね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生743人を1か月おきに3回調査",
+        "body": "中国の4大学の学生743人に、1回目に「見逃す不安」、2回目に「情報が多すぎる」感覚とストレス、3回目にSNS疲れを聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "疲れの通り道は「情報の多さ」",
+        "body": "見逃す不安が強い人ほど、あとで情報が多すぎると感じ、SNS疲れも強い傾向があった。ストレスを通る道より、情報の多さを通る道のほうが大きかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "因果も、AIの情報もまだ",
+        "body": "本人の回答だけの調査で、見逃す不安が疲れを生むとまでは言えない。対象は中国の大学生のSNSで、AIの情報を追う場合はまだ調べられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
