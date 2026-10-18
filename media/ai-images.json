@@ -2242,5 +2242,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/500px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
   "og": "https://ai.seadice.win/img/ai-workload-overtime-increase-og.jpg",
   "local": true
+ },
+ "ai-sick-leave-return-to-work": {
+  "file": "File:Desk of a Police sergeant in Munich, Germany.jpg",
+  "src": "/img/ai-sick-leave-return-to-work.webp",
+  "src640": "/img/ai-sick-leave-return-to-work-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "窓辺の事務机と空いた椅子",
+  "artist": "User:Mattes",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk_of_a_Police_sergeant_in_Munich,_Germany.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Desk_of_a_Police_sergeant_in_Munich%2C_Germany.jpg/960px-Desk_of_a_Police_sergeant_in_Munich%2C_Germany.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Desk_of_a_Police_sergeant_in_Munich%2C_Germany.jpg/500px-Desk_of_a_Police_sergeant_in_Munich%2C_Germany.jpg",
+  "og": "https://ai.seadice.win/img/ai-sick-leave-return-to-work-og.jpg",
+  "local": true
  }
 }
