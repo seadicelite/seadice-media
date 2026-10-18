@@ -969,5 +969,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Orrery_British_Museum.JPG/500px-Orrery_British_Museum.JPG",
   "og": "https://tetsugaku.seadice.win/img/kant-copernican-revolution-og.jpg",
   "local": true
+ },
+ "merleau-ponty-body-subject": {
+  "file": "File:International White Cane Day Queen Street Mall and Queen St Brisbane P1340332.jpg",
+  "src": "/img/merleau-ponty-body-subject.webp",
+  "src640": "/img/merleau-ponty-body-subject-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "白杖を使って点字ブロックの上を歩く人たち",
+  "artist": "John Robert McPherson",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:International_White_Cane_Day_Queen_Street_Mall_and_Queen_St_Brisbane_P1340332.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/International_White_Cane_Day_Queen_Street_Mall_and_Queen_St_Brisbane_P1340332.jpg/960px-International_White_Cane_Day_Queen_Street_Mall_and_Queen_St_Brisbane_P1340332.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/International_White_Cane_Day_Queen_Street_Mall_and_Queen_St_Brisbane_P1340332.jpg/500px-International_White_Cane_Day_Queen_Street_Mall_and_Queen_St_Brisbane_P1340332.jpg",
+  "og": "https://tetsugaku.seadice.win/img/merleau-ponty-body-subject-og.jpg",
+  "local": true
  }
 }

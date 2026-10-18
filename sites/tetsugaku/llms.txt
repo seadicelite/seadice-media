@@ -61,6 +61,7 @@
 - [フッサールの現象学とは？「事象そのものへ」とエポケー（判断停止）](https://tetsugaku.seadice.win/husserl-phenomenology-epoche/): 世界の存在を当然とする態度をいったんカッコに入れ、経験が意識にどう現れるかを記述する。それがフッサールの現象学。
 - [カフカの『変身』は何を描いたのか？ 朝起きたら虫になっていた男と「不条理」](https://tetsugaku.seadice.win/kafka-metamorphosis/): ある朝虫になった営業マンが家族の厄介者になっていく『変身』。カミュはそこに日常と悲劇が重なる「不条理」を見たが、作品全体は「おそらく不条理ではない」と書いた。
 - [キルケゴールの「実存の三段階」とは？ 美的・倫理的・宗教的な生き方](https://tetsugaku.seadice.win/kierkegaard-three-stages/): 生き方には、美的・倫理的・宗教的の三つの領域がある。「不安は自由のめまい」と語った、実存主義の父の思想。
+- [メルロ＝ポンティの「身体」とは？ 私たちは体で世界を知っている](https://tetsugaku.seadice.win/merleau-ponty-body-subject/): 体は心が動かす物ではなく、世界を感じ、わかり、動く主体だ。「私は自分の体である」「盲人の杖」と習慣の考えを、現代の研究とあわせて解説。
 - [ニーチェの「神は死んだ」とは？無神論の宣言ではない、その真意](https://tetsugaku.seadice.win/nietzsche-god-is-dead/): 「神は死んだ」は無神論の勝利宣言ではない。狂人の寓話から、その真意と危機感を解説します。
 - [サルトルの「実存は本質に先立つ」とは？実存主義を生活の言葉で](https://tetsugaku.seadice.win/sartre-existence-precedes-essence/): ペーパーナイフの比喩から、サルトルの実存主義と「自由の刑」の意味を解説します。
 

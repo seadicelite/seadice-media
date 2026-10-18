@@ -200,6 +200,15 @@
   ]
  },
  {
+  "id": "shintai-zushiki",
+  "term": "身体図式",
+  "en": "Body schema",
+  "def": "自分の体がどこにあり、どう動けるかを、意識しなくても体がわかっている、その無意識の地図のような働きです。メルロ＝ポンティは、慣れた道具はこの身体図式に取り込まれて体の一部のように感じられると考えました。",
+  "slugs": [
+   "merleau-ponty-body-subject"
+  ]
+ },
+ {
   "id": "meditations",
   "term": "自省録",
   "en": "Meditations",
