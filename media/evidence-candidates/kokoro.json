@@ -4863,5 +4863,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-gratitude-text-connection-prevent-thank-by-text",
+    "category": "人とのつながり",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Walsh LC, Regan A, Twenge JM, Lyubomirsky S, \"What is the Optimal Way to Give Thanks? Comparing the Effects of Gratitude Expressed Privately, One-to-One via Text, or Publicly on Social Media\" (Affective Science, 2023)",
+    "sourceUrl": "https://doi.org/10.1007/s42761-022-00150-5",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/gratitude-text-connection-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "感謝って、どう伝えるのがいい？",
+        "body": "ありがとうを伝えるなら、手紙に書く？本人にメッセージ？それともSNSでみんなの前で？どれでも同じなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "916人をくじ引きで4組に",
+        "body": "米国の大学生916人を、渡さない手紙を書く組、相手にメッセージを送る組、SNSで伝える組、その日の活動を記録するだけの組に分けて、約1週間ためしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "直接メッセージで、つながりが一番伸びた",
+        "body": "感謝の3つの組はどれも、記録だけの組よりつながりや満足感がよい方向に変わった。中でも相手に1対1でメッセージを送った組で、つながりと支えの実感が一番伸びていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "効果は小さく、1週間だけ",
+        "body": "効果の大きさは小さめで、その後も続くかは調べていない。対象は米国の大学生で、感謝を言葉にしにくい文化でも同じかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

@@ -4330,5 +4330,22 @@
     "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg/960px-Old_alarm_clock_on_the_bookshelf_-_50233824038.jpg",
     "og": "https://mentalai.seadice.win/img/sleep-loss-thinking-why-og.jpg",
     "local": true
+  },
+  "gratitude-text-connection-prevent": {
+    "file": "File:Newone - square fancy tracing paper envelope 02.jpg",
+    "src": "/img/gratitude-text-connection-prevent.webp",
+    "src640": "/img/gratitude-text-connection-prevent-sm.webp",
+    "w": 960,
+    "h": 720,
+    "alt": "半透明の紙でできた四角い封筒",
+    "artist": "Newone",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Newone_-_square_fancy_tracing_paper_envelope_02.jpg",
+    "source_label": "Wikimedia Commons",
+    "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Newone_-_square_fancy_tracing_paper_envelope_02.jpg/960px-Newone_-_square_fancy_tracing_paper_envelope_02.jpg",
+    "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Newone_-_square_fancy_tracing_paper_envelope_02.jpg/500px-Newone_-_square_fancy_tracing_paper_envelope_02.jpg",
+    "og": "https://mentalai.seadice.win/img/gratitude-text-connection-prevent-og.jpg",
+    "local": true
   }
 }
