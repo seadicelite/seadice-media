@@ -4241,5 +4241,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Coffee%2C_notebooks_and_pen_%28Unsplash%29.jpg/500px-Coffee%2C_notebooks_and_pen_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/gum-chewing-focus-work.jpg",
   "local": true
+ },
+ "eye-contact-hard-conversation": {
+  "file": "File:Tables and director's chairs on les Planches de Deauville 005.jpg",
+  "src": "/img/eye-contact-hard-conversation.jpg",
+  "src640": "/img/eye-contact-hard-conversation-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "テラスに並ぶ白いテーブルと、赤と青の椅子",
+  "artist": "Guillaume Paumier",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg/960px-Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg/500px-Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg",
+  "og": "https://mentalai.seadice.win/img/eye-contact-hard-conversation.jpg",
+  "local": true
  }
 }

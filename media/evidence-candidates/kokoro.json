@@ -4659,5 +4659,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "kokoro-eye-contact-hard-conversation-mutual-gaze",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rogers SL, Speelman CP, Guidetti O, Longmuir M, \"Using dual eye tracking to uncover personal gaze patterns during social interaction\" (Scientific Reports, 2018)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-018-22726-7",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/eye-contact-hard-conversation/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "会話中、目ってどのくらい合ってる？",
+        "body": "「目を見て話そう」ってよく言われるけど、実際みんなはどのくらい目を合わせてるんだろう？オーストラリアの研究チームが、眼鏡型の装置で測ってみたらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "同時に目が合うのは約1割",
+        "body": "初対面の4分の会話で、2人の目が同時に合っていたのは平均12%。1回の長さは平均0.36秒だった。顔を見合っている時間は平均63%と、ずっと長かったよ。"
+      },
+      {
+        "stage": "意外なところ",
+        "title": "感じ方はもっと多い",
+        "body": "別の大学1年生171人に聞くと、「目が合っていた」と感じた割合は平均72%。研究者は、顔を見合うことを目が合ったと感じているのでは、と考えているんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "会話の数は少なめ",
+        "body": "記録できた会話は51組で、目が合う割合は組によって0〜46%とばらばら。初対面の4分の会話だけなので、職場や友だちとの会話で同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
