@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-meal-plan-diet-check-prepare",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-19",
+  "title": "AIに献立やダイエットの食事を作ってもらっても大丈夫？研究では、栄養の偏りやカロリーの計算のずれが見つかり、数字は自分で確かめてから使う",
+  "summary": "AIの献立は国の食事の目安を一部しか満たさず、表示カロリーが実際より平均531kcal多いAIも。量はグラムで出させ、主な数字を確かめる。"
+ },
+ {
   "slug": "ai-conversation-changed-my-opinion",
   "category": "AIに頼りすぎ",
   "type": "guide",

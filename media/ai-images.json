@@ -2311,5 +2311,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Schachfiguren%2C_Bauern_--_2022_--_0022_%28bw%29.jpg/500px-Schachfiguren%2C_Bauern_--_2022_--_0022_%28bw%29.jpg",
   "og": "https://ai.seadice.win/img/ai-conversation-changed-my-opinion.jpg",
   "local": true
+ },
+ "ai-meal-plan-diet-check-prepare": {
+  "file": "File:Woman prepares vegetables in kitchen with cutting board and knife during meal preparation.jpg",
+  "src": "/img/ai-meal-plan-diet-check-prepare.jpg",
+  "src640": "/img/ai-meal-plan-diet-check-prepare-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "まな板の上の野菜",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_prepares_vegetables_in_kitchen_with_cutting_board_and_knife_during_meal_preparation.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Woman_prepares_vegetables_in_kitchen_with_cutting_board_and_knife_during_meal_preparation.jpg/960px-Woman_prepares_vegetables_in_kitchen_with_cutting_board_and_knife_during_meal_preparation.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Woman_prepares_vegetables_in_kitchen_with_cutting_board_and_knife_during_meal_preparation.jpg/500px-Woman_prepares_vegetables_in_kitchen_with_cutting_board_and_knife_during_meal_preparation.jpg",
+  "og": "https://ai.seadice.win/img/ai-meal-plan-diet-check-prepare.jpg",
+  "local": true
  }
 }
