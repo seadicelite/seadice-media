@@ -5432,5 +5432,73 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-memorized-answers-cannot-solve-new-questions-interleaved-physics",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Samani & Pan, \"Interleaved practice enhances memory and problem-solving ability in undergraduate physics\" (npj Science of Learning, 2021)",
+    "sourceUrl": "https://doi.org/10.1038/s41539-021-00110-x",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/memorized-answers-cannot-solve-new-questions/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "スラスラ解ける練習ほど身につく？",
+        "body": "同じ単元の問題を続けて解くと、どんどん解けて気持ちいいよね。でも「解けている感じ」と「本当に身についたか」は、別物らしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学の物理の宿題で比べた",
+        "body": "SamaniとPanは、米国の大学の物理の授業（350人）で8週間、宿題を「1単元ずつ」と「単元を混ぜる」の2通りにした。同じ学生が前半と後半で両方を経験した。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "混ぜた方が新しい問題に強かった",
+        "body": "予告なしの新しい問題のテストでは、混ぜた宿題の後の方が成績の中央値が50%と125%高かった。なのに学生は、混ぜた方が難しく、学べていないと感じていた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本番の試験では差がはっきりせず",
+        "body": "3日後の中間試験では、2つのやり方の差ははっきりしなかった。多くの学生が試験前に詰め込んでいたことも関係しているかもしれない。1つの大学の授業での結果。"
+      }
+    ],
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-memorized-answers-cannot-solve-new-questions-transfer-meta",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pan & Rickard, \"Transfer of test-enhanced learning: Meta-analytic review and synthesis\" (Psychological Bulletin, 2018)",
+    "sourceUrl": "https://doi.org/10.1037/bul0000151",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/memorized-answers-cannot-solve-new-questions/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "問題を解いた力は、別の問題でも使える？",
+        "body": "問題を解いて思い出す練習は記憶に残りやすい。でも、練習した問題以外でもその力は使えるんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "122の実験をまとめた",
+        "body": "PanとRickardは、40年以上の研究から122の実験（1万382人）を集めて、思い出す練習の効果が新しい問い方や問題に広がるかをまとめた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "広がるけど、条件しだい",
+        "body": "全体では広がりがあった（効果量 d = 0.40）。広がりやすいのは、問題の形式が変わるとき、理由まで思い出したとき。問いと答えを入れ替えると広がりにくかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "条件がないと、ほぼ広がらないかも",
+        "body": "発表されなかった研究の影響を補正すると、条件がそろわない場合は広がりが見られないことが多かった。大人の独学の長い勉強で同じかもまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

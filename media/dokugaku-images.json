@@ -3262,5 +3262,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg/500px-A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg",
   "og": "https://dokugaku.seadice.win/img/practice-questions-answer-check-timing-og.jpg",
   "local": true
+ },
+ "memorized-answers-cannot-solve-new-questions": {
+  "file": "File:Booklets of questions (Common Test for University Admissions 2023).jpg",
+  "src": "/img/memorized-answers-cannot-solve-new-questions.webp",
+  "src640": "/img/memorized-answers-cannot-solve-new-questions-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "試験の問題冊子",
+  "artist": "Uxptr",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Booklets_of_questions_(Common_Test_for_University_Admissions_2023).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Booklets_of_questions_%28Common_Test_for_University_Admissions_2023%29.jpg/960px-Booklets_of_questions_%28Common_Test_for_University_Admissions_2023%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Booklets_of_questions_%28Common_Test_for_University_Admissions_2023%29.jpg/500px-Booklets_of_questions_%28Common_Test_for_University_Admissions_2023%29.jpg",
+  "local": true,
+  "og": "https://dokugaku.seadice.win/img/memorized-answers-cannot-solve-new-questions-og.jpg"
  }
 }
