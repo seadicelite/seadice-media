@@ -5568,5 +5568,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-why-new-words-not-usable-right-away-sleep-lexicon",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Dumay & Gaskell, \"Sleep-associated changes in the mental representation of spoken words\" (Psychological Science, 2007)",
+    "sourceUrl": "https://doi.org/10.1111/j.1467-9280.2007.01845.x",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-new-words-not-usable-right-away/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "覚えた単語、なぜすぐ使えない？",
+        "body": "単語帳では答えられるのに、英文の中だとすっと入ってこない。覚えたばかりの単語って、頭の中でどうなっているんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "夜に覚える人と朝に覚える人",
+        "body": "DumayとGaskellは、作り物の新しい単語を夜8時に覚える人と朝8時に覚える人に分けて、その単語が知っている単語の聞き取りに影響し始める時期を調べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "一晩眠った後に「辞書入り」",
+        "body": "夜に覚えた人は一晩眠った12時間後に影響が出た。朝に覚えて起きていた人は12時間後には出ず、眠った後の24時間後に初めて出た。新しい単語が頭の辞書に入るのに、睡眠が関わっているらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "外国語でも同じかは研究が少ない",
+        "body": "実験で使ったのは母語に似せた作り物の単語。外国語の学習者を調べた研究はまだ少なく、睡眠なしでも組み込まれたという報告もある。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

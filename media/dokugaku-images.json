@@ -3297,5 +3297,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Calendar_on_wall_-_DPLA_-_9a4661db5e239ae31e32ffe830ab91e6.jpg/500px-Calendar_on_wall_-_DPLA_-_9a4661db5e239ae31e32ffe830ab91e6.jpg",
   "og": "https://dokugaku.seadice.win/img/why-dont-do-goals-fail.jpg",
   "local": true
+ },
+ "why-new-words-not-usable-right-away": {
+  "file": "File:Les Pagodes de Beauval - 346.jpg",
+  "src": "/img/why-new-words-not-usable-right-away.jpg",
+  "src640": "/img/why-new-words-not-usable-right-away-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "ホテルのロビーに置かれた陶器のランプ",
+  "artist": "William Crochot (Medium69)",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Les_Pagodes_de_Beauval_-_346.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Les_Pagodes_de_Beauval_-_346.jpg/960px-Les_Pagodes_de_Beauval_-_346.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Les_Pagodes_de_Beauval_-_346.jpg/500px-Les_Pagodes_de_Beauval_-_346.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-new-words-not-usable-right-away.jpg",
+  "local": true
  }
 }
