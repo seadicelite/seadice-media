@@ -5184,5 +5184,39 @@
       }
     ],
     "addedAt": "2026-10-18"
+  },
+  {
+    "id": "research-small-acts-of-kindness-mood-how-research-prosocial-spending-replication",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Aknin LB et al., \"Does spending money on others promote happiness?: A registered replication report\" (Journal of Personality and Social Psychology, 2020)",
+    "sourceUrl": "https://doi.org/10.1037/pspa0000191",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/small-acts-of-kindness-mood-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "人のためにお金を使うと幸せになる？",
+        "body": "自分より人のためにお金を使うほうが幸せになる、という有名な研究があるよね。ただ、もとの研究は人数が少なかったんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ研究チームが大人数で確かめ直した",
+        "body": "やり方を事前に登録して、3つの実験をやり直した。学生712人が実際に買い物をする実験と、過去の出費を思い出す実験（1,950人と5,199人）だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "実際に買うと効いた、思い出すだけでは弱い",
+        "body": "困っている見知らぬ人のために実際に買った学生は、その場の幸福感が高かった。思い出すだけの実験では、差が出ないか、出ても小さかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どのくらい続く効果かは別の話",
+        "body": "測ったのはその場の幸福感。効果の大きさはやり方しだいで変わったので、毎日の気分がずっと上がるかまでは、この研究ではわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-18"
   }
 ]
