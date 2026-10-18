@@ -4205,5 +4205,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pen_6.jpg/500px-Pen_6.jpg",
   "og": "https://mentalai.seadice.win/img/layoff-news-write-feelings-first.jpg",
   "local": true
+ },
+ "left-out-ai-empathy-chat": {
+  "file": "File:Wooden house (window shutters), Riga.jpg",
+  "src": "/img/left-out-ai-empathy-chat.jpg",
+  "src640": "/img/left-out-ai-empathy-chat-sm.jpg",
+  "w": 960,
+  "h": 847,
+  "alt": "木造の家の、閉じた鎧戸の窓",
+  "artist": "Radomianin",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Wooden_house_(window_shutters),_Riga.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Wooden_house_%28window_shutters%29%2C_Riga.jpg/960px-Wooden_house_%28window_shutters%29%2C_Riga.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Wooden_house_%28window_shutters%29%2C_Riga.jpg/500px-Wooden_house_%28window_shutters%29%2C_Riga.jpg",
+  "og": "https://mentalai.seadice.win/img/left-out-ai-empathy-chat.jpg",
+  "local": true
  }
 }
