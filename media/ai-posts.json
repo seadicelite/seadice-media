@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-health-advice-tell-doctor-rebuild",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-19",
+  "title": "AIの健康アドバイスで自己判断していたことを、医師に言い出しにくい。研究では、黙っていた理由の多くは「責められたくない」で、伝え方しだいで関係はむしろ良くなっていた",
+  "summary": "医師に黙る理由の上位は「責められたくない」。いつ・何を・なぜ変えたかをメモにし、診察の最初に事実として伝える。"
+ },
+ {
   "slug": "ai-mushroom-app-ate-wild-food",
   "category": "AIに頼りすぎ",
   "type": "guide",

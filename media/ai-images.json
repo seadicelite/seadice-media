@@ -2347,5 +2347,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Spring-mushrooms-forest-floor_-_West_Virginia_-_ForestWander.jpg/500px-Spring-mushrooms-forest-floor_-_West_Virginia_-_ForestWander.jpg",
   "og": "https://ai.seadice.win/img/ai-mushroom-app-ate-wild-food.jpg",
   "local": true
+ },
+ "ai-health-advice-tell-doctor-rebuild": {
+  "file": "File:USVI IMG 5202 - Minimalist desk with colorful pencils in a cardboard holder a cup holding pens and scissors and a notebook with botanical patterns all under soft light.jpg",
+  "src": "/img/ai-health-advice-tell-doctor-rebuild.jpg",
+  "src640": "/img/ai-health-advice-tell-doctor-rebuild-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "机に置かれたノートとペン",
+  "artist": "Category:Government of the United States Virgin Islands",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg/500px-thumbnail.jpg",
+  "og": "https://ai.seadice.win/img/ai-health-advice-tell-doctor-rebuild.jpg",
+  "local": true
  }
 }
