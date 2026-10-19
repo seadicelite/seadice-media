@@ -5203,5 +5203,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-career-network-comparison-goals-lower",
+    "category": "比べて落ち込む",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vogt M et al., \"Revising Career Goals on LinkedIn: The Role of Career-Related Social Comparison and Goal Discrepancy\" (Behavioral Sciences, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/bs16081271",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/career-network-comparison-goals/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "人の経歴を見ると目標を下げたくなる？",
+        "body": "仕事用のSNSで同年代のすごい経歴を見ると、「自分の目標、高すぎたかも」って思うことあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ドイツの188人に聞いた",
+        "body": "仕事用のSNSを使うドイツの188人（平均26.5歳、約7割が学生）に、使い方、キャリアを人と比べる傾向、目標との差の感じ方、目標を見直す気持ちをたずねた調査があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "比べる→差を感じる→下げる",
+        "body": "よく使う人ほど比べやすく、比べる人ほど目標との差を感じ、差を感じる人ほど目標を見直す気持ちが強かったらしい。目標を下げる気持ちはこの流れで説明できたけど、上げる気持ちは説明できなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "SNSのせいとは言えない",
+        "body": "1回だけのアンケートで、迷っている人がSNSをよく見るだけかもしれない。平均ではむしろ目標を上げたい人が多く、若い人が中心の結果だよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
