@@ -3710,5 +3710,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Metal_mailboxes_on_a_wall_in_Cortona_Italy.jpg/500px-Metal_mailboxes_on_a_wall_in_Cortona_Italy.jpg",
   "og": "https://research.seadice.win/img/email-chat-batching-focus-how-research.jpg",
   "local": true
+ },
+ "phone-escape-procrastination-disconnect-how-research": {
+  "file": "File:セルフ充電サービス (21274923799).jpg",
+  "src": "/img/phone-escape-procrastination-disconnect-how-research.jpg",
+  "src640": "/img/phone-escape-procrastination-disconnect-how-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "スマートフォンを預ける鍵つきの充電ロッカー",
+  "artist": "Ian Kennedy",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:%E3%82%BB%E3%83%AB%E3%83%95%E5%85%85%E9%9B%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9_(21274923799).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/%E3%82%BB%E3%83%AB%E3%83%95%E5%85%85%E9%9B%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9_%2821274923799%29.jpg/960px-%E3%82%BB%E3%83%AB%E3%83%95%E5%85%85%E9%9B%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9_%2821274923799%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/%E3%82%BB%E3%83%AB%E3%83%95%E5%85%85%E9%9B%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9_%2821274923799%29.jpg/500px-%E3%82%BB%E3%83%AB%E3%83%95%E5%85%85%E9%9B%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9_%2821274923799%29.jpg",
+  "og": "https://research.seadice.win/img/phone-escape-procrastination-disconnect-how-research.jpg",
+  "local": true
  }
 }

@@ -6233,5 +6233,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-phone-escape-procrastination-disconnect-how-research-disconnect-levels",
+    "category": "先延ばし",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Klingelhoefer J, Gilbert A, Meier A, \"Digital disconnection as a self-regulatory strategy against procrastination\" (Scientific Reports, 2026)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-026-46218-1",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/phone-escape-procrastination-disconnect-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "スマホから離れると先延ばしは減る？",
+        "body": "やることがあるのに、ついスマホを開いちゃう。じゃあ意識してスマホから離れた時間は、本当に先延ばしが少ないのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2週間で1万2千回の記録",
+        "body": "ドイツの18〜35歳の237人が、2週間、1日最大5回スマホで質問に答えたんだ。「この2時間、スマホやアプリから意識して離れた？」「やるべきことを後回しにした？」の2つ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "離れ方で差があった",
+        "body": "離れていた時間帯は、先延ばしが少しだけ少なかった。スマホそのもの・アプリ・通知などの機能から離れるのは効いていたけど、特定の相手との連絡を控えるだけでは関係がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因かどうかは未確認",
+        "body": "観察研究で、どちらも自己申告。差は小さく、「よく離れる人ほど先延ばししない」という人どうしの比較では差が出なかった。離れたから先延ばしが減ったのかは、実験で確かめる必要があるよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
