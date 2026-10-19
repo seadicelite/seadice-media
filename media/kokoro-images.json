@@ -4581,5 +4581,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Knitting_needles_and_yarn.jpg/500px-Knitting_needles_and_yarn.jpg",
   "og": "https://mentalai.seadice.win/img/ai-made-for-me-handmade-recover.jpg",
   "local": true
+ },
+ "isolation-meeting-people-scary-recover": {
+  "file": "File:Carved wooden bench furniture and crafts at Heuan Chan heritage house in Luang Prabang Laos.jpg",
+  "src": "/img/isolation-meeting-people-scary-recover.jpg",
+  "src640": "/img/isolation-meeting-people-scary-recover-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "木のベンチ",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Carved_wooden_bench_furniture_and_crafts_at_Heuan_Chan_heritage_house_in_Luang_Prabang_Laos.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Carved_wooden_bench_furniture_and_crafts_at_Heuan_Chan_heritage_house_in_Luang_Prabang_Laos.jpg/960px-Carved_wooden_bench_furniture_and_crafts_at_Heuan_Chan_heritage_house_in_Luang_Prabang_Laos.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Carved_wooden_bench_furniture_and_crafts_at_Heuan_Chan_heritage_house_in_Luang_Prabang_Laos.jpg/500px-Carved_wooden_bench_furniture_and_crafts_at_Heuan_Chan_heritage_house_in_Luang_Prabang_Laos.jpg",
+  "og": "https://mentalai.seadice.win/img/isolation-meeting-people-scary-recover.jpg",
+  "local": true
  }
 }

@@ -5373,5 +5373,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-isolation-meeting-people-scary-recover-lockdown",
+    "category": "人とのつながり",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Arad G et al., \"Social Distancing During A COVID-19 Lockdown Contributes to The Maintenance of Social Anxiety: A Natural Experiment\" (Cognitive Therapy and Research, 2021)",
+    "sourceUrl": "https://doi.org/10.1007/s10608-021-10231-7",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/isolation-meeting-people-scary-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "会わない時期と、人づきあいの不安",
+        "body": "人と会わない生活が続くと、会うのが怖くなる。そんな感覚を、コロナ禍の外出制限を使って調べた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学1年生99人を比べた",
+        "body": "イスラエルの大学で、人づきあいの不安が強い1年生を秋と春に調べたよ。外出制限のあった年度の55人と、それ以前の年度の44人を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ふつうの年は下がった",
+        "body": "それ以前の年は、春までに不安の点数がはっきり下がっていた。でも春学期が外出制限とオンライン授業になった年は、高いままだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "会わなかったせい？",
+        "body": "くじ引きで分けた実験ではなく年度での比較。感染の不安など、コロナ禍のほかのストレスの影響は取り除けていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
