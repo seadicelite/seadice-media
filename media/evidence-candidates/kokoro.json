@@ -5237,5 +5237,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-sauna-fatigue-recover-monica",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Engström Å et al., \"Sauna bathing in northern Sweden: results from the MONICA study 2022\" (International Journal of Circumpolar Health, 2024)",
+    "sourceUrl": "https://doi.org/10.1080/22423982.2024.2419698",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/sauna-fatigue-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "サウナで疲れもストレスも取れる？",
+        "body": "「ととのう」と疲れが抜ける、ストレスが減るってよく聞くよね。本当なのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "スウェーデンの971人を比べた",
+        "body": "スウェーデン北部で無作為に選ばれた25〜74歳のうち、971人のサウナの習慣と健康を比べた調査があるよ。66%が月1回以上入っていたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "元気さは高め、ストレスは同じ",
+        "body": "入る人のほうが元気さ（100点中71対66）や幸福感の点数が高かった。でもストレスの点数は39対39で差がなかったらしい。心の健康と元気さは月1〜4回の人で高く、もっと多く入っても高くならなかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "サウナのおかげ？",
+        "body": "1回のアンケートで、入る人はもともと若く運動する人が多かった。サウナが元気にしたのか、元気な人がサウナに行くのかはわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
