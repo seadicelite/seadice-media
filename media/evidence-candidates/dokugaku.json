@@ -6350,5 +6350,73 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-work-habits-conflict-textbook-answers-refutation-text",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Schroeder & Kucera, \"Refutation Text Facilitates Learning: a Meta-Analysis of Between-Subjects Experiments\" (Educational Psychology Review, 2022)",
+    "sourceUrl": "https://doi.org/10.1007/s10648-021-09656-z",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/work-habits-conflict-textbook-answers/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "思い込みって、どう直せばいい？",
+        "body": "正しい説明を読んでも、前から信じていた答えがつい出てくる。勉強でも仕事でも、よくあることだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "33研究・3,869人をまとめた",
+        "body": "「よくある誤解はこう。でも実際はこうで、理由はこう」と、誤解を名指しして打ち消す文章の効果を、44の比較でまとめたメタ分析があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ふつうの説明より学べた",
+        "body": "誤解を打ち消す文章は、ふつうの説明文などより学びの成績が中くらいの差で上回った（g=0.41）。年齢や分野で差は見られず、1週間ほどあとでも効果は残っていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い教材でも効くかは不明",
+        "body": "ほとんどが1回きりの短い文章での実験で、理科と数学が中心。教科書のような長い教材や、くり返し読む場面で同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-work-habits-conflict-textbook-answers-backfire-effect",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Swire-Thompson et al., \"Searching for the Backfire Effect: Measurement and Design Considerations\" (Journal of Applied Research in Memory and Cognition, 2020)",
+    "sourceUrl": "https://doi.org/10.1016/j.jarmac.2020.06.006",
+    "studyType": "レビュー",
+    "articleUrl": "https://dokugaku.seadice.win/work-habits-conflict-textbook-answers/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "誤りを訂正すると、逆に信じ込む？",
+        "body": "間違いを指摘すると、相手はかえってその間違いを強く信じてしまう。「バックファイア効果」と呼ばれて、よく話題になる説だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "これまでの研究を見直した",
+        "body": "アメリカの研究者たちが、この効果を調べた研究をまとめて見直したんだ。起きやすいはずの条件で試しても、見つからない研究が多かった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "確かな現象とはいえない",
+        "body": "著者らは、バックファイア効果は確かな現象とはいえないと結論した。誤りを書くこと自体は避けなくてよく、必ず訂正と並べて示すのが大事らしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "測り方の問題が残る",
+        "body": "測り方の信頼性が低い研究も多く、特定の人や場面で起きる可能性は残っている。勉強の内容を直接調べた研究でもないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

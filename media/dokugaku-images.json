@@ -3625,5 +3625,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Abacus_actually_in_use_at_kimono_shop_in_Otaru.jpg/500px-Abacus_actually_in_use_at_kimono_shop_in_Otaru.jpg",
   "og": "https://dokugaku.seadice.win/img/study-goals-tasks-not-scores-how-to.jpg",
   "local": true
+ },
+ "work-habits-conflict-textbook-answers": {
+  "file": "File:Pencil on a table.jpg",
+  "src": "/img/work-habits-conflict-textbook-answers.webp",
+  "src640": "/img/work-habits-conflict-textbook-answers-sm.webp",
+  "w": 960,
+  "h": 540,
+  "alt": "木の机の上に置かれた1本の鉛筆",
+  "artist": "AaronNinetyTwo",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pencil_on_a_table.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pencil_on_a_table.jpg/960px-Pencil_on_a_table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pencil_on_a_table.jpg/500px-Pencil_on_a_table.jpg",
+  "og": "https://dokugaku.seadice.win/img/work-habits-conflict-textbook-answers-og.jpg",
+  "local": true
  }
 }
