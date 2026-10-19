@@ -5577,5 +5577,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-crying-stress-relief-mood-time",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gračanin A et al., \"Why crying does and sometimes does not seem to alleviate mood: a quasi-experimental study\" (Motivation and Emotion, 2015)",
+    "sourceUrl": "https://doi.org/10.1007/s11031-015-9507-9",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/crying-stress-relief/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "泣くとすっきりする？",
+        "body": "泣くとすっきりする、ってよく言うよね。でも実験室で泣いてもらうと、直後はかえって気分が悪くなる結果がくり返し出ていたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "泣いたあとを4回測った",
+        "body": "大学生に約45分の悲しい映画を見てもらい、いやな気分の点数を見る前、直後、20分後、90分後の4回測ったよ。涙は録画して確かめたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "沈んでから、軽くなる",
+        "body": "泣いた28人は、直後に気分が沈み、20分後と90分後には点数が下がっていた。90分後は見る前より軽かったらしい。泣かなかった32人は大きく変わらなかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "映画の涙と同じ？",
+        "body": "映画で泣いた場面の実験で、疲れやストレスで泣いた場合と同じとは言えないんだ。泣いた人と泣かなかった人は、もともとの性格が違うかもしれないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

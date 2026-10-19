@@ -4689,5 +4689,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Table_and_chairs_at_Hunan_Cafe.jpg/500px-Table_and_chairs_at_Hunan_Cafe.jpg",
   "og": "https://mentalai.seadice.win/img/conversation-safety-behaviors-awkward.jpg",
   "local": true
+ },
+ "crying-stress-relief": {
+  "file": "File:Mt Rainier reflecting in Bench Lake. Early September 2015. (d69f6e3857a44dfc91cc332c1ea5077a).JPG",
+  "src": "/img/crying-stress-relief.jpg",
+  "src640": "/img/crying-stress-relief-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "湖のほとりの景色",
+  "artist": "Steve Redman (MORA)",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Mt_Rainier_reflecting_in_Bench_Lake._Early_September_2015._(d69f6e3857a44dfc91cc332c1ea5077a).JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mt_Rainier_reflecting_in_Bench_Lake._Early_September_2015._%28d69f6e3857a44dfc91cc332c1ea5077a%29.JPG/960px-Mt_Rainier_reflecting_in_Bench_Lake._Early_September_2015._%28d69f6e3857a44dfc91cc332c1ea5077a%29.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mt_Rainier_reflecting_in_Bench_Lake._Early_September_2015._%28d69f6e3857a44dfc91cc332c1ea5077a%29.JPG/500px-Mt_Rainier_reflecting_in_Bench_Lake._Early_September_2015._%28d69f6e3857a44dfc91cc332c1ea5077a%29.JPG",
+  "og": "https://mentalai.seadice.win/img/crying-stress-relief.jpg",
+  "local": true
  }
 }
