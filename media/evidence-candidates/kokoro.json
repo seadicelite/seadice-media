@@ -5441,5 +5441,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-presentation-nerves-forewarning-inoculation",
+    "category": "仕事とAIの不安",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Jackson B et al., \"Re-Thinking Anxiety: Using Inoculation Messages to Reduce and Reinterpret Public Speaking Fears\" (PLoS ONE, 2017)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0169972",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/presentation-nerves-forewarning/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "緊張は前もって知ると和らぐ？",
+        "body": "人前で話す前の緊張、どうにかならないかな。「緊張するのは自然で、外からは見えにくい」と前もって知っておくだけで、何か変わるんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "発表前に1枚の文章を配った",
+        "body": "オーストラリアの大学で、同級生の前で約8分発表する学生に、緊張についての文章を本番の2週間前と3日前に配ったんだ。配らなかった前の年の学年と比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "直前の不安が少し低かった",
+        "body": "読んだ学年は、話す直前の不安が5点満点で3.36、読まなかった学年は3.74だった。話している間の体のこわばりも少し低かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "学年で分けた実験",
+        "body": "1人ずつくじで分けたのではなく、学年ごとに分けているよ。発表の出来がよくなったかも調べていないし、働く大人でも同じかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

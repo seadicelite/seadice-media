@@ -4617,5 +4617,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Among_the_branches_of_a_potted_jade_plant.jpg/500px-Among_the_branches_of_a_potted_jade_plant.jpg",
   "og": "https://mentalai.seadice.win/img/breathing-practice-focus-recover.jpg",
   "local": true
+ },
+ "presentation-nerves-forewarning": {
+  "file": "File:Gfp-lecture-hall.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Gfp-lecture-hall.jpg/960px-Gfp-lecture-hall.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Gfp-lecture-hall.jpg/500px-Gfp-lecture-hall.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "誰もいない講義室の座席",
+  "artist": "Yinan Chen",
+  "license": "Public Domain",
+  "licenseUrl": "https://web.archive.org/web/20230926203737/https://creativecommons.org/licenses/publicdomain/",
+  "page": "https://commons.wikimedia.org/wiki/File:Gfp-lecture-hall.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
