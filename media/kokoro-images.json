@@ -4724,5 +4724,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Light_and_Shadow-1025740.jpg/500px-Light_and_Shadow-1025740.jpg",
   "og": "https://mentalai.seadice.win/img/lonely-feel-rejected-withdraw-og.jpg",
   "local": true
+ },
+ "meaning-attention-focus-why": {
+  "file": "File:Path through moss into Gullmarsskogen ravine.jpg",
+  "src": "/img/meaning-attention-focus-why.webp",
+  "src640": "/img/meaning-attention-focus-why-sm.webp",
+  "w": 960,
+  "h": 566,
+  "alt": "森の中、苔に覆われた小道",
+  "artist": "W.carter",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Path_through_moss_into_Gullmarsskogen_ravine.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Path_through_moss_into_Gullmarsskogen_ravine.jpg/960px-Path_through_moss_into_Gullmarsskogen_ravine.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Path_through_moss_into_Gullmarsskogen_ravine.jpg/500px-Path_through_moss_into_Gullmarsskogen_ravine.jpg",
+  "og": "https://mentalai.seadice.win/img/meaning-attention-focus-why-og.jpg",
+  "local": true
  }
 }

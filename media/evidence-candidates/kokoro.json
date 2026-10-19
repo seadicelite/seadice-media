@@ -5713,5 +5713,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-meaning-attention-focus-why-intertwined",
+    "category": "考える力・集中",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Tam KYY et al., \"Meaning and Attention Intertwined: Experimental and Experience-Sampling Findings\" (Personality and Social Psychology Bulletin, 2026)",
+    "sourceUrl": "https://doi.org/10.1177/01461672251383966",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/meaning-attention-focus-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "意味がわからない作業だと、集中できない？",
+        "body": "何のためかわからない作業だと、すぐ別のことを考えちゃうよね。意味と集中って、関係あるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ動きの動画を、筋が通る版とでたらめ版で",
+        "body": "米国の大人402人の実験。同じ図形が「三匹の子ぶた」の筋に沿って動く動画と、でたらめに動く動画のどちらかを5分見て、どのくらい集中できたかを答えたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "筋が通る動画のほうが集中できた",
+        "body": "筋の通る動画を見た組は、集中できたと答える度合いが高かった。香港の191人の1週間の記録でも、集中できていた時間ほど、していることに意味を感じていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "仕事の作業でも同じ？",
+        "body": "実験は5分の動画で、集中も意味も本人の答えで測っている。仕事や勉強で意味を感じ直すと集中が続くかは、まだ確かめられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
