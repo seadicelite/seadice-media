@@ -3692,5 +3692,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Design_for_a_Sofa_with_Two_Loose_Cushions_MET_DP807192.jpg/500px-Design_for_a_Sofa_with_Two_Loose_Cushions_MET_DP807192.jpg",
   "og": "https://research.seadice.win/img/evening-nap-cant-sleep-sleep-pressure-why-research-og.jpg",
   "local": true
+ },
+ "email-chat-batching-focus-how-research": {
+  "file": "File:Metal mailboxes on a wall in Cortona Italy.jpg",
+  "src": "/img/email-chat-batching-focus-how-research.jpg",
+  "src640": "/img/email-chat-batching-focus-how-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "壁に並んだ郵便受け",
+  "artist": "Eric Kilby",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Metal_mailboxes_on_a_wall_in_Cortona_Italy.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Metal_mailboxes_on_a_wall_in_Cortona_Italy.jpg/960px-Metal_mailboxes_on_a_wall_in_Cortona_Italy.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Metal_mailboxes_on_a_wall_in_Cortona_Italy.jpg/500px-Metal_mailboxes_on_a_wall_in_Cortona_Italy.jpg",
+  "og": "https://research.seadice.win/img/email-chat-batching-focus-how-research.jpg",
+  "local": true
  }
 }

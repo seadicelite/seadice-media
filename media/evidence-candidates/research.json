@@ -6199,5 +6199,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-email-chat-batching-focus-how-research-notifications-off-one-day",
+    "category": "集中力",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ohly S, Bastin L, \"Effects of task interruptions caused by notifications from communication applications on strain and performance\" (Journal of Occupational Health, 2023)",
+    "sourceUrl": "https://doi.org/10.1002/1348-9585.12408",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/email-chat-batching-focus-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "通知を1日切ったらどうなる？",
+        "body": "メールやチャットの通知って、作業中にけっこう割り込んでくるよね。じゃあ1日だけ全部切ってみたら、仕事ははかどるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "247人を2つに分けた",
+        "body": "ドイツの会社員と学生247人をくじで2つに分けて、片方だけ1日、パソコンやスマホのメール・チャット・SNSの通知をできるだけ切ってもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "割り込みが減った分、はかどった",
+        "body": "通知を切ったグループは割り込まれる回数が減った。割り込みが減った分だけ、その日の目標の達成感が少し高く、イライラも少なかったらしい。自分から確認しに行く回数は増えなかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1日だけ・自己評価の話",
+        "body": "実験は1日だけで、成果は本人の自己評価。通知オフが成果を直接上げたのではなく、割り込みが減ったことを通じた小さな効果だった。長く続けたときの効果はまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
