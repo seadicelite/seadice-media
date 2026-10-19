@@ -6165,5 +6165,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-evening-nap-cant-sleep-sleep-pressure-why-research-nap-by-3pm",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Boukhris O, Suppiah H, Driller M, \"The Influence of 25- and 90-Min Afternoon Nap Opportunities on Subsequent Nighttime Sleep in Student Athletes\" (Journal of Sleep Research, 2026)",
+    "sourceUrl": "https://doi.org/10.1111/jsr.70120",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/evening-nap-cant-sleep-sleep-pressure-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "昼寝すると夜眠れない？",
+        "body": "昼寝をすると夜の寝つきが悪くなる、ってよく言われるよね。でも、昼寝の時間帯や長さによって話は変わるのかもしれない。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "15時に終わる昼寝で比べた",
+        "body": "大学生アスリート14人が、昼寝なし・25分（14:35〜15:00）・90分（13:30〜15:00）の3パターンを順番に試して、その夜の睡眠を手首の機器で測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "夜の睡眠に差は出なかった",
+        "body": "夜の睡眠時間の平均は、昼寝なしで7時間13分、25分で7時間5分、90分で7時間1分。寝る時刻や夜中の目覚めにも、はっきりした差は出なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "14人のアスリートの話",
+        "body": "よく体を動かす14人だけの研究で、夕方の昼寝や、ふだん運動しない人に当てはまるかはわからない。夜に近い仮眠ほど夜の眠りが悪い、という観察研究もあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
