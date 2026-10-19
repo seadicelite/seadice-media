@@ -5305,5 +5305,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-past-self-comparison-recover-temporal",
+    "category": "比べて落ち込む",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Schlechter P et al., \"Comparing comparisons: A transdiagnostic investigation of social and temporal comparisons and their differential effects on mental health outcomes and well-being\" (International Journal of Clinical and Health Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.1016/j.ijchp.2025.100611",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/past-self-comparison-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "人じゃなく昔の自分と比べればいい？",
+        "body": "「人と比べず、過去の自分と比べよう」ってよく聞くよね。でも「前の自分はもっとできた」と比べて落ち込むこともある。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "7つの調査を分析し直した",
+        "body": "1つあたり306〜1,121人の7つの調査を分析し直した研究があるよ。人と比べることと、「昔のほうがよかった」「この先悪くなる」と比べることを並べて調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "どちらも落ち込みと結びつく",
+        "body": "各調査で73〜83%の人が、直近3週間にそういう不利な向きで昔や先の自分と比べていた。そう比べる人ほど落ち込みや不安が強めで、結びつきは人と比べる場合とほぼ同じくらいだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "比べるから落ち込む？",
+        "body": "7つのうち6つは1回きりの調査。比べるから落ち込むのか、落ち込んでいるから昔がよく見えるのかはわからない。参加者も平均25〜32歳の若い大人が中心だよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

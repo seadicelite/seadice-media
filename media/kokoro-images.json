@@ -4545,5 +4545,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Les_Pagodes_de_Beauval_-_346.jpg/500px-Les_Pagodes_de_Beauval_-_346.jpg",
   "og": "https://mentalai.seadice.win/img/blurred-boundaries-insomnia-recover.jpg",
   "local": true
+ },
+ "past-self-comparison-recover": {
+  "file": "File:Pebbles on Gwadn beach - geograph.org.uk - 7300057.jpg",
+  "src": "/img/past-self-comparison-recover.jpg",
+  "src640": "/img/past-self-comparison-recover-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "浜辺に広がる丸い小石",
+  "artist": "Eirian Evans",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pebbles_on_Gwadn_beach_-_geograph.org.uk_-_7300057.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pebbles_on_Gwadn_beach_-_geograph.org.uk_-_7300057.jpg/960px-Pebbles_on_Gwadn_beach_-_geograph.org.uk_-_7300057.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pebbles_on_Gwadn_beach_-_geograph.org.uk_-_7300057.jpg/500px-Pebbles_on_Gwadn_beach_-_geograph.org.uk_-_7300057.jpg",
+  "og": "https://mentalai.seadice.win/img/past-self-comparison-recover.jpg",
+  "local": true
  }
 }
