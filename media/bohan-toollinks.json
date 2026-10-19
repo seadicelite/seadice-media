@@ -1,6 +1,11 @@
 {
  "vacation-empty-home-burglary": [
   [
+   "https://seadice.win/tools/dekakeru-mae-tenken/",
+   "出かける前の30秒点検",
+   "玄関・窓・郵便受け・SNSを外出の長さに合わせてタップ点検。点検した時刻が残り、外で「鍵閉めたっけ？」と思ったら見るだけ"
+  ],
+  [
    "/akisu-me/",
    "空き巣の目で、わが家を点検",
    "空き巣が下見で見る「留守か・近づけるか・時間がかかるか」の順に、わが家の隙を見つける"
@@ -20,12 +25,22 @@
  ],
  "burglary-daylight-darkness-risk": [
   [
+   "https://seadice.win/tools/dekakeru-mae-tenken/",
+   "出かける前の30秒点検",
+   "玄関・窓・郵便受け・SNSを外出の長さに合わせてタップ点検。点検した時刻が残り、外で「鍵閉めたっけ？」と思ったら見るだけ"
+  ],
+  [
    "/akisu-me/",
    "空き巣の目で、わが家を点検",
    "空き巣が下見で見る「留守か・近づけるか・時間がかかるか」の順に、わが家の隙を見つける"
   ]
  ],
  "window-glass-breaking-burglary": [
+  [
+   "https://seadice.win/tools/dekakeru-mae-tenken/",
+   "出かける前の30秒点検",
+   "玄関・窓・郵便受け・SNSを外出の長さに合わせてタップ点検。点検した時刻が残り、外で「鍵閉めたっけ？」と思ったら見るだけ"
+  ],
   [
    "/akisu-me/",
    "空き巣の目で、わが家を点検",
