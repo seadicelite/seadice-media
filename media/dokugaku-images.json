@@ -3642,5 +3642,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pencil_on_a_table.jpg/500px-Pencil_on_a_table.jpg",
   "og": "https://dokugaku.seadice.win/img/work-habits-conflict-textbook-answers-og.jpg",
   "local": true
+ },
+ "phone-grayscale-mode-study-focus": {
+  "file": "File:Glass-smartphone-table-2.jpg",
+  "src": "/img/phone-grayscale-mode-study-focus.webp",
+  "src640": "/img/phone-grayscale-mode-study-focus-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上のグラスとスマートフォン",
+  "artist": "MartinThoma",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Glass-smartphone-table-2.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Glass-smartphone-table-2.jpg/960px-Glass-smartphone-table-2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Glass-smartphone-table-2.jpg/960px-Glass-smartphone-table-2.jpg",
+  "og": "https://dokugaku.seadice.win/img/phone-grayscale-mode-study-focus-og.jpg",
+  "local": true
  }
 }

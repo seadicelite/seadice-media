@@ -6418,5 +6418,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-phone-grayscale-mode-study-focus-grayscale",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zimmermann & Sobolev, \"Digital Strategies for Screen Time Reduction: A Randomized Field Experiment\" (Cyberpsychology, Behavior, and Social Networking, 2023)",
+    "sourceUrl": "https://doi.org/10.1089/cyber.2022.0027",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/phone-grayscale-mode-study-focus/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "スマホを白黒にすると集中できる？",
+        "body": "画面をグレースケールにすると、スマホを触らなくなって勉強もはかどる。そんな話を聞いたことがあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "112人を3つの組に分けた",
+        "body": "事前に計画を登録した実験で、112人を「白黒にする」「使用時間の上限を決める」「記録するだけ」の3組に分けて、数週間くらべたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "使用時間は減った、でも成績は…",
+        "body": "白黒の組はスマホの使用時間がすぐにはっきり減った。ところが、気分や成績がすぐ良くなる効果は見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く続けたらどうなる？",
+        "body": "数週間の実験で、何か月も続けたときの効果はわからない。減った時間を何に使ったかでも、結果は変わるかもしれないね。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
