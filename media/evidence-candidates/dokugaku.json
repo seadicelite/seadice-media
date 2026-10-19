@@ -5874,5 +5874,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-breakfast-before-morning-study-fasting-cognition",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bamberg & Moreau, \"Acute effects of fasting on cognitive performance: A systematic review and meta-analysis\" (Psychological Bulletin, 2025)",
+    "sourceUrl": "https://doi.org/10.1037/bul0000492",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/breakfast-before-morning-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "朝ごはんを抜くと頭が働かない？",
+        "body": "「朝食を食べないと脳のエネルギーが足りなくて、勉強も仕事もはかどらない」ってよく聞くよね。じゃあ、お腹が空いたままだと、頭の働きは本当に落ちるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "空腹と満腹の大人をくらべた研究をまとめた",
+        "body": "健康な大人で、空腹のときと食べたあとの頭の働きを心理テストでくらべた実験をまとめたメタ分析があるんだ。222の効果量、3,484人分。空腹の時間は中央値で12時間。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差はほぼゼロだった",
+        "body": "空腹と満腹の差はほぼなし（g=0.02）。研究ごとのばらつきも小さかった。ただ、空腹の時間が長いほど、また年配の人より若い人ほど、成績が少し下がる傾向はあったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い勉強や試験の点は別の話",
+        "body": "測ったのは短い心理テストの成績。何時間も続く勉強や、試験の点数がどうなるかを直接調べたわけじゃない。大人の別のレビューでは、朝食で記憶に小さな利点があるという結果も出ているよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

@@ -3415,5 +3415,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LongitudinalProfileGotthardtbahnAndTunnelSwitzerland.jpg/500px-LongitudinalProfileGotthardtbahnAndTunnelSwitzerland.jpg",
   "og": "https://dokugaku.seadice.win/img/read-textbook-figures-graphs-how-to-og.jpg",
   "local": true
+ },
+ "breakfast-before-morning-study": {
+  "file": "File:-2019-12-06 Boiled egg with toasted soliders, Trimingham.JPG",
+  "src": "/img/breakfast-before-morning-study.webp",
+  "src640": "/img/breakfast-before-morning-study-sm.webp",
+  "w": 960,
+  "h": 699,
+  "alt": "トーストとゆで卵の朝食の皿",
+  "artist": "Kolforn",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:-2019-12-06_Boiled_egg_with_toasted_soliders,_Trimingham.JPG",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/-2019-12-06_Boiled_egg_with_toasted_soliders%2C_Trimingham.JPG/960px--2019-12-06_Boiled_egg_with_toasted_soliders%2C_Trimingham.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/-2019-12-06_Boiled_egg_with_toasted_soliders%2C_Trimingham.JPG/500px--2019-12-06_Boiled_egg_with_toasted_soliders%2C_Trimingham.JPG",
+  "og": "https://dokugaku.seadice.win/img/breakfast-before-morning-study-og.jpg",
+  "local": true
  }
 }
