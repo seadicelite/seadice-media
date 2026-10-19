@@ -350,7 +350,9 @@
     "fix": [
      "kids-allowance-money-skills-tips"
     ],
-    "after": [],
+    "after": [
+     "kids-game-spending-recovery-steps"
+    ],
     "use": [
      "kids-allowance-amount-checklist"
     ]
