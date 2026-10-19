@@ -5942,5 +5942,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-vocab-words-never-stick-cue-fading-hard-items",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vaughn et al., \"Repeated retrieval practice and item difficulty: Does criterion learning eliminate item difficulty effects?\" (Psychonomic Bulletin & Review, 2013)",
+    "sourceUrl": "https://doi.org/10.3758/s13423-013-0434-z",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/vocab-words-never-stick-cue-fading/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "同じ回数思い出せたら、同じだけ残る？",
+        "body": "覚えにくい単語も、覚えやすい単語と同じ回数だけ正しく思い出せたら、同じくらい記憶に残るんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "思い出す回数をそろえてみた",
+        "body": "リトアニア語と英語の単語の組を、覚えにくい組と覚えやすい組に分け、決めた回数（1〜11回）正しく思い出せるまで練習させた実験が2つある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "それでも覚えにくい単語は忘れやすい",
+        "body": "回数をそろえても、あとのテストでは覚えにくい単語の成績が低かった。差が出たのは「どの単語とどれが組か」の記憶で、単語そのものではむしろ覚えにくい方がよかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実験室の短い単語リストの話",
+        "body": "大学の実験で短いリストを学んだ結果。長く続く語学の独学で、どのくらい余分に練習すれば差が埋まるかはわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

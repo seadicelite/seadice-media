@@ -3449,5 +3449,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Headphone_Microphone_Madrid_%28Unsplash%29.jpg/500px-Headphone_Microphone_Madrid_%28Unsplash%29.jpg",
   "og": "https://dokugaku.seadice.win/img/ai-conversation-speaking-practice-how-to-og.jpg",
   "local": true
+ },
+ "vocab-words-never-stick-cue-fading": {
+  "file": "File:Dixon-Ticonderoga-Assorted-Pencils.jpg",
+  "src": "/img/vocab-words-never-stick-cue-fading.webp",
+  "src640": "/img/vocab-words-never-stick-cue-fading-sm.webp",
+  "w": 960,
+  "h": 712,
+  "alt": "何本も並んだ鉛筆",
+  "artist": "Scaredpoet",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dixon-Ticonderoga-Assorted-Pencils.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Dixon-Ticonderoga-Assorted-Pencils.jpg/960px-Dixon-Ticonderoga-Assorted-Pencils.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Dixon-Ticonderoga-Assorted-Pencils.jpg/500px-Dixon-Ticonderoga-Assorted-Pencils.jpg",
+  "og": "https://dokugaku.seadice.win/img/vocab-words-never-stick-cue-fading-og.jpg",
+  "local": true
  }
 }
