@@ -6044,5 +6044,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-choose-what-to-study-motivation-perceived-choice",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Fridkin & Hurry, \"The effects of manipulating choice on children's enjoyment and performance in a reading task\" (Current Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.1007/s12144-025-07685-3",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/choose-what-to-study-motivation/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "気になる疑問",
+        "title": "自分で選ぶと、読む力まで変わる？",
+        "body": "本や課題を自分で選ぶとやる気が出る、ってよく言うよね。じゃあ、選んだだけで読み取る力まで変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "小学3年生110人の読書実験",
+        "body": "イギリスの小学3年生110人が、物語を渡されて読む回と、2つの物語から選んで読む回の両方を体験したんだ。実は、どちらを選んでも中身は同じ物語だった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "選んだつもりで、読解の点が上がった",
+        "body": "選んだつもりで読んだ回は、読解問題の成績が上がり（効果の大きさd=0.52）、楽しさも少し上がった（d=0.23）。中身が同じでも「選んだ」こと自体が効いていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人や長い期間ではどうか",
+        "body": "8〜9歳の子どもの、1回の読解課題の結果。大学生で効果が出なかった実験もあるし、大人の独学で同じように効くかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
