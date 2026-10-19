@@ -5830,5 +5830,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-sleep-tracker-bad-score-anxiety-recovery-research-sham-feedback",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gavriloff D et al., \"Sham sleep feedback delivered via actigraphy biases daytime symptom reports in people with insomnia: Implications for insomnia disorder and wearable devices\" (Journal of Sleep Research, 2018)",
+    "sourceUrl": "https://doi.org/10.1111/jsr.12726",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/sleep-tracker-bad-score-anxiety-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "点数を見てだるくなる？",
+        "body": "睡眠アプリで低い点数を見た朝って、急に体が重く感じるよね。あれって本当に眠れていないから？それとも数字のせい？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "うその評価を伝えた",
+        "body": "不眠に悩む63人に腕時計型の機器をつけてもらい、翌朝、実際の眠りと関係なく、くじで「よく眠れた」か「眠れなかった」かを伝えたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "感じ方だけが悪化",
+        "body": "悪い評価の組は夕方、頭のさえが低く（d=0.79）、眠気やだるさが強かった（d=0.55）。でも注意力のテストの成績には差がなかった（d=0.12）らしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "健康な人や毎日なら？",
+        "body": "対象は不眠の人で、実験は1日だけ。健康な49人に1回だけ悪い点数を見せた別の研究では、その後の眠りに差は出なかった。毎朝見続けた場合はまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

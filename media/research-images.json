@@ -3491,8 +3491,8 @@
  },
  "ai-chatbot-procrastination-research": {
   "file": "File:Computer mouse laptop and phone on a desk.jpg",
-  "src": "/img/ai-chatbot-procrastination-research.jpg",
-  "src640": "/img/ai-chatbot-procrastination-research-sm.jpg",
+  "src": "/img/ai-chatbot-procrastination-research.webp",
+  "src640": "/img/ai-chatbot-procrastination-research-sm.webp",
   "w": 960,
   "h": 540,
   "alt": "机の上のノートパソコン",
@@ -3501,10 +3501,9 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Computer_mouse_laptop_and_phone_on_a_desk.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Computer_mouse_laptop_and_phone_on_a_desk.jpg/960px-Computer_mouse_laptop_and_phone_on_a_desk.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Computer_mouse_laptop_and_phone_on_a_desk.jpg/500px-Computer_mouse_laptop_and_phone_on_a_desk.jpg",
-  "og": "https://research.seadice.win/img/ai-chatbot-procrastination-research.jpg",
+  "og": "https://research.seadice.win/img/ai-chatbot-procrastination-research-og.jpg",
   "local": true
  },
  "multiple-habits-at-once-research": {
@@ -3523,6 +3522,23 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Brooks_Ghost_14_GTX.jpg/960px-Brooks_Ghost_14_GTX.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Brooks_Ghost_14_GTX.jpg/500px-Brooks_Ghost_14_GTX.jpg",
   "og": "https://research.seadice.win/img/multiple-habits-at-once-research.jpg",
+  "local": true
+ },
+ "sleep-tracker-bad-score-anxiety-recovery-research": {
+  "file": "File:Self-winding wristwatch (transparent backside).jpg",
+  "src": "/img/sleep-tracker-bad-score-anxiety-recovery-research.webp",
+  "src640": "/img/sleep-tracker-bad-score-anxiety-recovery-research-sm.webp",
+  "w": 960,
+  "h": 755,
+  "alt": "腕時計",
+  "artist": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Self-winding_wristwatch_(transparent_backside).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Self-winding_wristwatch_%28transparent_backside%29.jpg/960px-Self-winding_wristwatch_%28transparent_backside%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Self-winding_wristwatch_%28transparent_backside%29.jpg/500px-Self-winding_wristwatch_%28transparent_backside%29.jpg",
+  "og": "https://research.seadice.win/img/sleep-tracker-bad-score-anxiety-recovery-research-og.jpg",
   "local": true
  }
 }
