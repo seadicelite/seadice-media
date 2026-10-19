@@ -2401,5 +2401,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Desk-laptop-working-technology_%2824299511976%29.jpg/500px-Desk-laptop-working-technology_%2824299511976%29.jpg",
   "og": "https://ai.seadice.win/img/ai-generated-code-wont-fix.jpg",
   "local": true
+ },
+ "elderly-parent-ai-companion-prepare": {
+  "file": "File:Holding a black telephone receiver near a vintage rotary phone on a wooden table in a well-lit room.jpg",
+  "src": "/img/elderly-parent-ai-companion-prepare.jpg",
+  "src640": "/img/elderly-parent-ai-companion-prepare-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "木の机の上のダイヤル式電話",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Holding_a_black_telephone_receiver_near_a_vintage_rotary_phone_on_a_wooden_table_in_a_well-lit_room.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Holding_a_black_telephone_receiver_near_a_vintage_rotary_phone_on_a_wooden_table_in_a_well-lit_room.jpg/960px-Holding_a_black_telephone_receiver_near_a_vintage_rotary_phone_on_a_wooden_table_in_a_well-lit_room.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Holding_a_black_telephone_receiver_near_a_vintage_rotary_phone_on_a_wooden_table_in_a_well-lit_room.jpg/500px-Holding_a_black_telephone_receiver_near_a_vintage_rotary_phone_on_a_wooden_table_in_a_well-lit_room.jpg",
+  "og": "https://ai.seadice.win/img/elderly-parent-ai-companion-prepare.jpg",
+  "local": true
  }
 }
