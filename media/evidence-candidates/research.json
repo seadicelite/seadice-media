@@ -6403,5 +6403,73 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-cant-decide-postpone-decision-why-research-time-pressure",
+    "category": "先延ばし",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Berens S & Funke J, \"A vignette study of option refusal and decision deferral as two forms of decision avoidance: Situational and personal predictors\" (PLoS ONE, 2020)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0241182",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/cant-decide-postpone-decision-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "決められないまま、何週間もたつのはなぜ？",
+        "body": "引っ越し先や買い替えのスマホ。決めればすぐ進むのに「もう少し考えてから」と保留しちゃうこと、あるよね。どんなときに保留しやすいんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "312人に8つの場面で選んでもらった",
+        "body": "ドイツの研究で、312人（平均23.8歳、ほとんどが学生）に、授業選びなどの場面を読んでもらい「決める」「保留する」「どちらも選ばない」から選んでもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "締め切りが遠いと、保留が一気に増えた",
+        "body": "締め切りに余裕がある場面では24%が保留したのに、迫っている場面では2%だけ。選びにくいと感じた人や、ふだんから優柔不断な人も保留しやすかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "文章の場面での答えだった",
+        "body": "これは文章で読んだ場面での回答で、実際の決断を観察したものではない。参加者も若い学生がほとんどなので、ほかの年代にそのまま当てはまるかはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-cant-decide-postpone-decision-why-research-regret-meta",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Han Q et al., \"Decision avoidance and post-decision regret: A systematic review and meta-analysis\" (PLoS ONE, 2023)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0292857",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/cant-decide-postpone-decision-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "決めなければ、後悔しなくてすむ？",
+        "body": "「決めて失敗するくらいなら、保留しておこう」。自分で選ばなければ後悔も少ない気がするよね。でも本当にそうなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "13本の論文の59の結果をまとめた",
+        "body": "決断を避けたときと、ちゃんと決めたときで、あとの後悔の強さを比べた研究を集めて、メタ分析したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "後悔がはっきり減ったのは1パターンだけ",
+        "body": "全体では避けた方が後悔が少ない傾向はあったけど、はっきりした差ではなかった。明らかに減ったのは「今のままにする」場合だけ。前に同じ避け方で失敗していると、後悔はかえって強くなったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "保留そのものの効果は不明",
+        "body": "決断を先送りする「保留」だけを調べた研究はまだ少なく、保留で後悔が減るか増えるかははっきりしていない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
