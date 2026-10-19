@@ -5932,5 +5932,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-give-up-habit-goal-disengagement-recovery-research-reengage",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Barlow MA, Wrosch C, McGrath JJ, \"Goal adjustment capacities and quality of life: A meta-analytic review\" (Journal of Personality, 2020)",
+    "sourceUrl": "https://doi.org/10.1111/jopy.12492",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/give-up-habit-goal-disengagement-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "あきらめたら負け？",
+        "body": "「あきらめたらそこで終わり」ってよく言うよね。でも、届かない目標を持ち続けるのは、心にとっていいことなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "31の標本をまとめた",
+        "body": "目標を手放す力と、別の目標に向かい直す力が、生活の質とどう関連するか。31の標本の研究をまとめたメタ分析があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "大事なのは「向かい直す」",
+        "body": "手放す力の関連は r = 0.08とわずか。別の目標に向かい直す力は r = 0.19で、より強く関連していたらしい。やめた後に次を持つのが大事みたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "手放せば楽になる？",
+        "body": "どれも相関なので、手放したから元気になったのかは区別できない。うつのリスクが高い人の標本では、手放す力と落ち込みの関係が逆向きだった。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
