@@ -6709,5 +6709,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-wfh-focus-slump-recovery-research-telework-strategies",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Härtel et al., \"Associations between the implementation of telework strategies and job performance: Moderating influences of boundary management preferences and telework experience\" (Frontiers in Psychology, 2023)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2023.1099138",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/wfh-focus-slump-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "在宅勤務は、専用の部屋と仕事着から？",
+        "body": "家で集中するには、仕事部屋を分けて、仕事着に着替えるのが大事。よく聞くコツだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "85のコツを548人で比べた",
+        "body": "Härtelらは、ドイツ語圏で在宅勤務をする548人に、研究や一般向けの記事から集めた85の工夫をどれくらい実行しているか聞き、自己評価の仕事の出来との関係を調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効いていたのは、部屋より時間と目標",
+        "body": "仕事の出来と結びついていたのは「仕事と私生活の時間をきっちり分ける」「その日の目標を決める」など。専用の部屋や仕事着は、ほとんど関係していなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回きりの調査で、出来も自己評価",
+        "body": "2020年に1回だけ答えてもらった調査で、仕事の出来も自分の評価。工夫したから出来が良いのか、出来る人が工夫しているのかは区別できていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
