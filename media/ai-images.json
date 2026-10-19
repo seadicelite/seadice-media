@@ -2463,5 +2463,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/IPhone_with_Matte_Screen_Protector_vs._Plain_iPod.jpg/500px-IPhone_with_Matte_Screen_Protector_vs._Plain_iPod.jpg",
   "og": "https://ai.seadice.win/img/phishing-sms-link-entered-info-og.jpg",
   "local": true
+ },
+ "ai-fake-nude-threat-fear-rebuild": {
+  "file": "File:Viewing a rainy day through a kitchen window.jpg",
+  "src": "/img/ai-fake-nude-threat-fear-rebuild.webp",
+  "src640": "/img/ai-fake-nude-threat-fear-rebuild-sm.webp",
+  "w": 960,
+  "h": 443,
+  "alt": "薄暗い台所の窓",
+  "artist": "Voxbyrox",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Viewing_a_rainy_day_through_a_kitchen_window.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Viewing_a_rainy_day_through_a_kitchen_window.jpg/960px-Viewing_a_rainy_day_through_a_kitchen_window.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Viewing_a_rainy_day_through_a_kitchen_window.jpg/500px-Viewing_a_rainy_day_through_a_kitchen_window.jpg",
+  "og": "https://ai.seadice.win/img/ai-fake-nude-threat-fear-rebuild-og.jpg",
+  "local": true
  }
 }
