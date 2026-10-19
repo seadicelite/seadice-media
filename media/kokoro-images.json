@@ -4707,5 +4707,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mt_Rainier_reflecting_in_Bench_Lake._Early_September_2015._%28d69f6e3857a44dfc91cc332c1ea5077a%29.JPG/500px-Mt_Rainier_reflecting_in_Bench_Lake._Early_September_2015._%28d69f6e3857a44dfc91cc332c1ea5077a%29.JPG",
   "og": "https://mentalai.seadice.win/img/crying-stress-relief.jpg",
   "local": true
+ },
+ "ai-unavailable-restless": {
+  "file": "File:Red jigsaw puzzle pieces 2.jpg",
+  "src": "/img/ai-unavailable-restless.webp",
+  "src640": "/img/ai-unavailable-restless-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "赤いジグソーパズルのピース",
+  "artist": "Profpcde",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Red_jigsaw_puzzle_pieces_2.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Red_jigsaw_puzzle_pieces_2.jpg/960px-Red_jigsaw_puzzle_pieces_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Red_jigsaw_puzzle_pieces_2.jpg/500px-Red_jigsaw_puzzle_pieces_2.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-unavailable-restless-og.jpg",
+  "local": true
  }
 }

@@ -5611,5 +5611,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-ai-unavailable-restless-sudoku-wait",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Meteier Q et al., \"Effect of task nature during short digital deprivation on time perception and psychophysiological state\" (Scientific Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-94316-3",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-unavailable-restless/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "スマホもAIも使えない待ち時間、どう過ごす？",
+        "body": "AIがつながらない、スマホを預けた。何もできない待ち時間って、やたら長くてそわそわするよね。何かしたほうがいいのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "スマホを預けて7分30秒待つ実験",
+        "body": "スイスの若者90人を3組に分けたんだ。スマホを自由に使う組、スマホを預けて紙の数独をする組、預けて何もせず待つ組。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ただ待った組は退屈が約3倍",
+        "body": "退屈の平均点（0〜1000点）は、ただ待った組が527点、数独の組は169点。数独の組は待つ前より気分がよくなっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIが使えない場面でも同じ？",
+        "body": "7分30秒だけの実験室の話で、参加者は若い女性が中心。AIが何時間も使えない場面で同じになるかは、まだ調べられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
