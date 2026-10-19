@@ -2383,5 +2383,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Headphones_on_desk.jpg/500px-Headphones_on_desk.jpg",
   "og": "https://ai.seadice.win/img/ai-audio-summary-learning-prepare.jpg",
   "local": true
+ },
+ "ai-generated-code-wont-fix": {
+  "file": "File:Desk-laptop-working-technology (24299511976).jpg",
+  "src": "/img/ai-generated-code-wont-fix.jpg",
+  "src640": "/img/ai-generated-code-wont-fix-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上のノートパソコン",
+  "artist": "www.Pixel.la Free Stock Photos",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk-laptop-working-technology_(24299511976).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Desk-laptop-working-technology_%2824299511976%29.jpg/960px-Desk-laptop-working-technology_%2824299511976%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Desk-laptop-working-technology_%2824299511976%29.jpg/500px-Desk-laptop-working-technology_%2824299511976%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-generated-code-wont-fix.jpg",
+  "local": true
  }
 }

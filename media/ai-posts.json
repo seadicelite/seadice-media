@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-generated-code-wont-fix",
+  "category": "考える力・集中",
+  "type": "guide",
+  "date": "2026-10-19",
+  "title": "AIに書かせたプログラムやExcelの式が、何度直させても動かない。研究では、AIの直す力は2〜3回の修正で大きく落ち、会話を新しくしてやり直させると正答が増えていた",
+  "summary": "AIの修正は2〜3回で効き目が60〜80%落ち、会話を新しくすると正答が増えた。動いた版に戻し、エラーの場所をしぼり、少ないデータで確かめる。",
+  "stage": "起きた"
+ },
+ {
   "slug": "ai-audio-summary-learning-prepare",
   "category": "考える力・集中",
   "type": "guide",
