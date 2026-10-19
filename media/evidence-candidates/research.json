@@ -6505,5 +6505,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-chamomile-herbal-tea-sleep-research-chronic-insomnia-trial",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zick et al., \"Preliminary examination of the efficacy and safety of a standardized chamomile extract for chronic primary insomnia: a randomized placebo-controlled pilot study\" (BMC Complementary and Alternative Medicine, 2011)",
+    "sourceUrl": "https://doi.org/10.1186/1472-6882-11-78",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/chamomile-herbal-tea-sleep-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "カモミールで不眠が良くなる？",
+        "body": "眠れない夜にはカモミール、ってよく聞くよね。眠りのために一番よく使われているハーブの1つらしい。じゃあ、ずっと続く不眠にも効くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "慢性の不眠の34人で偽薬と比べた",
+        "body": "Zickらは、6か月以上不眠が続く18〜65歳の34人に、カモミール抽出物（270mgを1日2回）か偽薬を28日間飲んでもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "睡眠日記では差が出なかった",
+        "body": "睡眠時間、寝つき、夜中に起きている時間、眠りの質のどれも、偽薬との差は有意じゃなかった。寝つきなどは中くらいの効果量でカモミール寄り、睡眠時間は偽薬寄りだったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "小さな予備試験だった",
+        "body": "34人の予備的な試験なので、小さな効果は見逃しているかもしれない。カプセルの抽出物の試験で、ティーで飲んだ場合はまた別の話なんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
