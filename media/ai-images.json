@@ -2582,5 +2582,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/GD_%E5%BB%A3%E6%9D%B1_Guangdong_ZS_%E4%B8%AD%E5%B1%B1_Zhongshan_%E5%8F%A4%E9%8E%AE_Guzhen_%E7%87%88%E9%83%BD%E6%99%82%E4%BB%A3%E9%85%92%E5%BA%97_Light_Era_Hotel_room_window_white_curtain_%E6%99%A8%E6%97%A9_morning_November_2024_R12S_01.jpg/500px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_ZS_%E4%B8%AD%E5%B1%B1_Zhongshan_%E5%8F%A4%E9%8E%AE_Guzhen_%E7%87%88%E9%83%BD%E6%99%82%E4%BB%A3%E9%85%92%E5%BA%97_Light_Era_Hotel_room_window_white_curtain_%E6%99%A8%E6%97%A9_morning_November_2024_R12S_01.jpg",
   "og": "https://ai.seadice.win/img/doxxed-after-rebuild-online-og.jpg",
   "local": true
+ },
+ "anonymous-posts-ai-identify-author": {
+  "file": "File:SCP Foundation - Just doing my paperwork.jpg",
+  "src": "/img/anonymous-posts-ai-identify-author.webp",
+  "src640": "/img/anonymous-posts-ai-identify-author-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上のタイプされた書類とノートとペン",
+  "artist": "SCP Foundation - Scientific Department",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:SCP_Foundation_-_Just_doing_my_paperwork.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SCP_Foundation_-_Just_doing_my_paperwork.jpg/960px-SCP_Foundation_-_Just_doing_my_paperwork.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SCP_Foundation_-_Just_doing_my_paperwork.jpg/500px-SCP_Foundation_-_Just_doing_my_paperwork.jpg",
+  "og": "https://ai.seadice.win/img/anonymous-posts-ai-identify-author-og.jpg",
+  "local": true
  }
 }
