@@ -3466,5 +3466,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Dixon-Ticonderoga-Assorted-Pencils.jpg/500px-Dixon-Ticonderoga-Assorted-Pencils.jpg",
   "og": "https://dokugaku.seadice.win/img/vocab-words-never-stick-cue-fading-og.jpg",
   "local": true
+ },
+ "exercise-for-study-quit-restart": {
+  "file": "File:Running track near Japan National Stadium 2.jpg",
+  "w": 960,
+  "h": 723,
+  "artist": "Syced",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Running_track_near_Japan_National_Stadium_2.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Running_track_near_Japan_National_Stadium_2.jpg/960px-Running_track_near_Japan_National_Stadium_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Running_track_near_Japan_National_Stadium_2.jpg/500px-Running_track_near_Japan_National_Stadium_2.jpg",
+  "src": "/img/exercise-for-study-quit-restart.webp",
+  "src640": "/img/exercise-for-study-quit-restart-sm.webp",
+  "og": "https://dokugaku.seadice.win/img/exercise-for-study-quit-restart-og.jpg",
+  "local": true,
+  "alt": "競技場の陸上トラック"
  }
 }

@@ -5976,5 +5976,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-exercise-for-study-quit-restart-habit-weeks",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kaushal & Rhodes, \"Exercise habit formation in new gym members: a longitudinal study\" (Journal of Behavioral Medicine, 2015)",
+    "sourceUrl": "https://doi.org/10.1007/s10865-015-9640-7",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/exercise-for-study-quit-restart/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "運動は気合いで続けるもの？",
+        "body": "運動が続かないのは根性がないから、とよく言われるよね。でも、習慣ができるまでには何が必要なんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ジムの新入会員111人を12週間",
+        "body": "新しくジムに入った111人に、12週間アンケートを続けて、運動の習慣がどう育つかを追った研究がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "週4回を6週間、が目安",
+        "body": "習慣ができるには、少なくとも週4回の運動を6週間続ける必要があった。続けて行うこと、運動が複雑でないこと、行きやすい環境、楽しいと感じることが習慣を後押ししたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "アンケートで追った観察研究",
+        "body": "無作為に分けた実験ではないし、ジムでの運動の話。家での短い運動や、ほかの国・年代の人にも同じ目安が当てはまるかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
