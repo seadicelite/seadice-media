@@ -6471,5 +6471,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-forced-habit-autonomous-motivation-why-research-reasons-for-exercise",
+    "category": "習慣",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Teixeira et al., \"Exercise, physical activity, and self-determination theory: a systematic review\" (International Journal of Behavioral Nutrition and Physical Activity, 2012)",
+    "sourceUrl": "https://doi.org/10.1186/1479-5868-9-78",
+    "studyType": "レビュー",
+    "articleUrl": "https://research.seadice.win/forced-habit-autonomous-motivation-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "言われて始めた運動って、なんで続かないの？",
+        "body": "医者や家族にすすめられて始めた運動、いつの間にか止まってるよね。実は、続くかどうかは「なぜやっているか」の中身と関係があるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "66の研究をまとめて見たレビュー",
+        "body": "Teixeiraらは、運動する理由と運動量の関係を調べた66の研究をまとめたんだ。理由を「言われたから」「罪悪感から」「自分にとって大事」「楽しい」に分けて比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「大事」「楽しい」が強い味方",
+        "body": "「自分にとって大事」は74%、「楽しい」は62%の標本で運動の多さと関連。「言われたから」は57%で関連なし、43%では運動の少なさと関連していたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "多くは一時点の調査",
+        "body": "ほとんどが相関の研究で、運動量も多くは自己申告。標本の97%は欧米の文化圏だった。理由を変えれば運動が増えるとまでは言い切れないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

@@ -3800,5 +3800,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Footpath_signpost_to_Wooden_Hill_-_geograph.org.uk_-_5866171.jpg/500px-Footpath_signpost_to_Wooden_Hill_-_geograph.org.uk_-_5866171.jpg",
   "og": "https://research.seadice.win/img/cant-decide-postpone-decision-why-research.jpg",
   "local": true
+ },
+ "forced-habit-autonomous-motivation-why-research": {
+  "file": "File:Saysh-track-spike-white.jpg",
+  "src": "/img/forced-habit-autonomous-motivation-why-research.jpg",
+  "src640": "/img/forced-habit-autonomous-motivation-why-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "白い陸上用のスパイクシューズ",
+  "artist": "Bifty",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Saysh-track-spike-white.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Saysh-track-spike-white.jpg/960px-Saysh-track-spike-white.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Saysh-track-spike-white.jpg/500px-Saysh-track-spike-white.jpg",
+  "og": "https://research.seadice.win/img/forced-habit-autonomous-motivation-why-research.jpg",
+  "local": true
  }
 }
