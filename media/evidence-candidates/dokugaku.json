@@ -6452,5 +6452,73 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-shift-work-study-schedule-reset-sleep-before-learning",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Newbury et al., \"Sleep deprivation and memory: Meta-analytic reviews of studies on sleep deprivation before and after learning\" (Psychological Bulletin, 2021)",
+    "sourceUrl": "https://doi.org/10.1037/bul0000348",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/shift-work-study-schedule-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "徹夜明けに覚えたことは残る？",
+        "body": "夜勤明けや徹夜の後でも、がんばれば覚えられそうな気がするよね。眠らずに過ごした後の記憶を調べた研究をまとめた論文があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "50年分の実験をまとめた",
+        "body": "1970〜2020年の、一晩以上まったく眠らない実験をまとめた。覚える前に眠らなかった研究は31件・927人、覚えた後に眠らなかった研究は45件・1,616人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "覚える前の寝不足のほうが響く",
+        "body": "眠らずに過ごした後に覚えると、記憶の成績が下がった（効果量g=0.62）。覚えた後に眠らなかった場合（g=0.28）より影響が大きかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本当の大きさはもっと小さいかも",
+        "body": "著者ら自身が、発表されやすい結果への偏りと、人数の少ない研究が多いことを指摘している。短く眠った日の影響もこの分析ではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-shift-work-study-schedule-reset-shift-cognition",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Marquié et al., \"Chronic effects of shift work on cognition: findings from the VISAT longitudinal study\" (Occupational and Environmental Medicine, 2015)",
+    "sourceUrl": "https://doi.org/10.1136/oemed-2013-101993",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/shift-work-study-schedule-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "交代勤務と頭の働きを10年追った",
+        "body": "フランスで、働く人と退職者3,232人を10年間追いかけた研究があるんだ。処理の速さと記憶の検査を、5年ごとにくり返したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "10年超で年齢6.5年分の差",
+        "body": "交代勤務の経験がある人は検査の成績が低かった。10年を超える人では、その差が年齢による低下の6.5年分にあたったらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "戻るまでに5年以上",
+        "body": "交代勤務をやめた後、成績が戻るまでには少なくとも5年かかった。勤務を変えればすぐ元どおり、というわけではなさそうだね。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因かどうかは別の話",
+        "body": "観察研究なので、交代勤務そのものが原因だとは言い切れない。どんな勤務の組み方なら影響が小さいかも、まだわかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
