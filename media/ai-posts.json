@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-scribe-medical-note-error-found",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-20",
+  "title": "AIが下書きした診察の記録に、話していないことや間違いが書かれていた。研究ではAIの下書きの1割強に話していない内容が入り、人の記録でも患者の5人に1人が誤りに気づいている。違う箇所を書き出して医療機関に伝える",
+  "summary": "AIの診察記録に誤りを見つけたら。米国の研究ではAIの下書きの11.5%に話していない内容。治療に関わる誤りから書き出して伝える"
+ },
+ {
   "slug": "ai-scribe-clinic-recording-consent",
   "category": "プライバシー・個人情報",
   "type": "guide",
