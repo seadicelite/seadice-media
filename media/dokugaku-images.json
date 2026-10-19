@@ -3517,5 +3517,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Colored_pencils_chevre.jpg/500px-Colored_pencils_chevre.jpg",
   "og": "https://dokugaku.seadice.win/img/choose-what-to-study-motivation-og.jpg",
   "local": true
+ },
+ "drinking-night-before-study-memory-reset": {
+  "file": "File:Glasses on a Table (36692283265).jpg",
+  "src": "/img/drinking-night-before-study-memory-reset.jpg",
+  "src640": "/img/drinking-night-before-study-memory-reset-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "飲み会の後、テーブルに残された空のグラス",
+  "artist": "oatsy40",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Glasses_on_a_Table_(36692283265).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Glasses_on_a_Table_%2836692283265%29.jpg/960px-Glasses_on_a_Table_%2836692283265%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Glasses_on_a_Table_%2836692283265%29.jpg/500px-Glasses_on_a_Table_%2836692283265%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/drinking-night-before-study-memory-reset.jpg",
+  "local": true
  }
 }

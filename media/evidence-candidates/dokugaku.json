@@ -6078,5 +6078,73 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-drinking-night-before-study-memory-reset-next-day-quiz",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Howland et al., \"The effects of binge drinking on college students' next-day academic test-taking performance and mood state\" (Addiction, 2010)",
+    "sourceUrl": "https://doi.org/10.1111/j.1360-0443.2009.02880.x",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/drinking-night-before-study-memory-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "飲んだら、前の日の勉強は全部飛ぶ？",
+        "body": "飲み会の翌朝、昨日覚えたことが消えた気がする…ってあるよね。お酒を飲むと、前日の勉強は本当に台なしになるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生196人が、お酒と偽のお酒の両方を体験",
+        "body": "アメリカの21歳以上の大学生196人が、ある晩は本物のお酒（呼気のアルコール濃度が平均0.12%）、別の晩は偽のお酒を飲んで、翌朝テストを受けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "テストの点は落ちず、注意と気分が落ちた",
+        "body": "前日に聞いた講義の小テストと入試問題の点は、飲んだ翌朝でも変わらなかった。一方で、注意・反応の速さと気分は悪くなっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "もっと飲んだら？毎週飲んだら？",
+        "body": "研究施設で1晩だけ飲んだ実験の結果。もっと多く飲んだ日や、何日も続けて飲んだ場合、年齢が上の大人でどうなるかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-drinking-night-before-study-memory-reset-retrograde",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Carlyle et al., \"Improved memory for information learnt before alcohol use in social drinkers tested in a naturalistic setting\" (Scientific Reports, 2017)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-017-06305-w",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/drinking-night-before-study-memory-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "お酒は記憶を消すだけ？",
+        "body": "お酒を飲むと記憶があいまいになる、ってよく言うよね。でも、飲む前に覚えたことはどうなるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "自宅で新しい単語を覚えてから飲んだ88人",
+        "body": "イギリスの18〜53歳の88人が自宅で作り物の単語を覚え、半分は好きなだけお酒を飲み（平均82.59g）、半分は飲まなかった。翌朝、単語をどれだけ思い出せるか比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "飲んだ人の方が翌朝よく思い出せた",
+        "body": "覚えた直後の成績は同じだったのに、翌朝は飲んだ人の方がよく思い出せた。飲んだ量が多い人ほど、その差が大きかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "再現実験ではっきりしなかった",
+        "body": "ドイツで条件を厳しくした事前登録の再現実験（93人）では、全体の思い出せた量に差が出なかった。それに、飲酒は眠りを乱すし、勉強のために飲む理由にはならないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
