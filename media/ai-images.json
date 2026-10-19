@@ -2480,5 +2480,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Viewing_a_rainy_day_through_a_kitchen_window.jpg/500px-Viewing_a_rainy_day_through_a_kitchen_window.jpg",
   "og": "https://ai.seadice.win/img/ai-fake-nude-threat-fear-rebuild-og.jpg",
   "local": true
+ },
+ "ai-companion-hurtful-sexual-messages": {
+  "file": "File:Teacup with Tealeaves on Wooden Table.jpg",
+  "src": "/img/ai-companion-hurtful-sexual-messages.webp",
+  "src640": "/img/ai-companion-hurtful-sexual-messages-sm.webp",
+  "w": 960,
+  "h": 942,
+  "alt": "木のテーブルに置かれた紅茶のカップ",
+  "artist": "Apoc2400",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Teacup_with_Tealeaves_on_Wooden_Table.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Teacup_with_Tealeaves_on_Wooden_Table.jpg/960px-Teacup_with_Tealeaves_on_Wooden_Table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Teacup_with_Tealeaves_on_Wooden_Table.jpg/500px-Teacup_with_Tealeaves_on_Wooden_Table.jpg",
+  "og": "https://ai.seadice.win/img/ai-companion-hurtful-sexual-messages-og.jpg",
+  "local": true
  }
 }
