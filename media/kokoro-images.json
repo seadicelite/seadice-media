@@ -4563,5 +4563,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pebbles_on_Gwadn_beach_-_geograph.org.uk_-_7300057.jpg/500px-Pebbles_on_Gwadn_beach_-_geograph.org.uk_-_7300057.jpg",
   "og": "https://mentalai.seadice.win/img/past-self-comparison-recover.jpg",
   "local": true
+ },
+ "ai-made-for-me-handmade-recover": {
+  "file": "File:Knitting needles and yarn.jpg",
+  "src": "/img/ai-made-for-me-handmade-recover.jpg",
+  "src640": "/img/ai-made-for-me-handmade-recover-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "毛糸と編み針",
+  "artist": "Shisma",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Knitting_needles_and_yarn.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Knitting_needles_and_yarn.jpg/960px-Knitting_needles_and_yarn.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Knitting_needles_and_yarn.jpg/500px-Knitting_needles_and_yarn.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-made-for-me-handmade-recover.jpg",
+  "local": true
  }
 }

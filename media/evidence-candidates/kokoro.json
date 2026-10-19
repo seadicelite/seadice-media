@@ -5339,5 +5339,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-ai-made-for-me-handmade-recover-crafting",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Keyes H et al., \"Creating arts and crafting positively predicts subjective wellbeing\" (Frontiers in Public Health, 2024)",
+    "sourceUrl": "https://doi.org/10.3389/fpubh.2024.1417997",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-made-for-me-handmade-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "何かを作る人は、満たされている？",
+        "body": "AIに頼めば何でもすぐできる時代。でも、自分の手で何かを作る時間って、心にとって意味があるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "イングランドの7,182人の調査",
+        "body": "2019〜2020年の調査で、この1年に絵や写真、編み物、木工、陶芸などを1つ以上した人（37.4%）と、しなかった人を比べた研究があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "やりがいの点数が少し高め",
+        "body": "年齢や健康などをそろえても、作った人は「人生にやりがいがある」と感じる度合いや幸福感が高めだった。ただ、不安と孤独には差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "作るから満たされる？",
+        "body": "1回きりの調査なので、作るから気分がよいのか、元気な人が作るのかは区別できない。差もわずかで、AIで作る場合は調べられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
