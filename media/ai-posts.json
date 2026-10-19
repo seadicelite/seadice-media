@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-group-project-ai-rules-before",
+  "category": "創作・著作権",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-20",
+  "title": "共同制作やサークルで、AIを使うかのルールは先に決めたほうがいい？研究では、進め方の食い違いはチームの成果と結びつき、最初の取り決めが土台になっていた",
+  "summary": "116研究の分析では進め方の対立が成果の低さと結びついた。使ってよい作業・表示・名前の載せ方など、始める前に決める5項目を整理。"
+ },
+ {
   "slug": "ai-scribe-medical-note-error-found",
   "category": "プライバシー・個人情報",
   "type": "guide",

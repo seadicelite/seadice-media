@@ -2635,5 +2635,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Wood-clipboard.jpg/500px-Wood-clipboard.jpg",
   "og": "https://ai.seadice.win/img/ai-scribe-medical-note-error-found.jpg",
   "local": true
+ },
+ "ai-group-project-ai-rules-before": {
+  "file": "File:Cups with paint brushes, Kingdom of Dreams, Gurgaon.jpg",
+  "src": "/img/ai-group-project-ai-rules-before.jpg",
+  "src640": "/img/ai-group-project-ai-rules-before-sm.jpg",
+  "w": 960,
+  "h": 679,
+  "alt": "机の上の絵筆と画材",
+  "artist": "Slyronit",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cups_with_paint_brushes,_Kingdom_of_Dreams,_Gurgaon.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cups_with_paint_brushes%2C_Kingdom_of_Dreams%2C_Gurgaon.jpg/960px-Cups_with_paint_brushes%2C_Kingdom_of_Dreams%2C_Gurgaon.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cups_with_paint_brushes%2C_Kingdom_of_Dreams%2C_Gurgaon.jpg/500px-Cups_with_paint_brushes%2C_Kingdom_of_Dreams%2C_Gurgaon.jpg",
+  "og": "https://ai.seadice.win/img/ai-group-project-ai-rules-before.jpg",
+  "local": true
  }
 }
