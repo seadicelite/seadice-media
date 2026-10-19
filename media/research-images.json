@@ -3610,5 +3610,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg/500px-Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg",
   "og": "https://research.seadice.win/img/memory-loss-age-belief-confidence-recovery-research.jpg",
   "local": true
+ },
+ "procrastination-adhd-worry-inattention-recovery-research": {
+  "file": "File:Small black alarm clock on a desk.jpg",
+  "src": "/img/procrastination-adhd-worry-inattention-recovery-research.jpg",
+  "src640": "/img/procrastination-adhd-worry-inattention-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上の目覚まし時計",
+  "artist": "Solise",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Small_black_alarm_clock_on_a_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Small_black_alarm_clock_on_a_desk.jpg/960px-Small_black_alarm_clock_on_a_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Small_black_alarm_clock_on_a_desk.jpg/500px-Small_black_alarm_clock_on_a_desk.jpg",
+  "og": "https://research.seadice.win/img/procrastination-adhd-worry-inattention-recovery-research.jpg",
+  "local": true
  }
 }

@@ -6000,5 +6000,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-procrastination-adhd-worry-inattention-recovery-research-inattention",
+    "category": "先延ばし",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Netzer Turgeman R, Pollak Y, \"What Are You Waiting For?! Roles of Motivation, Goal Orientation, and Emotion Regulation in Explaining the Link Between ADHD and Procrastination\" (Journal of Attention Disorders, 2026)",
+    "sourceUrl": "https://doi.org/10.1177/10870547251408120",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/procrastination-adhd-worry-inattention-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "不注意な人ほど後回しにする？",
+        "body": "うっかりが多い人ほど、やることを後回しにしがち。そんな気がするけど、どうしてなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大人640人に聞いた",
+        "body": "18〜56歳の大人640人に、ADHDの症状と先延ばし、やる気や感情の整え方をたずねた調査があるんだ。研究計画は事前に登録されていた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「待てない」と「価値を感じない」",
+        "body": "不注意の症状が強い人ほど先延ばしが多かった。その間をつないでいたのは、先の報酬を待つのが苦手なことと、作業の価値を低く感じることなどだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因はどっち？",
+        "body": "一時点の自己申告の調査なので、原因と結果の向きはわからない。先延ばしが多いだけでADHDとも言えなくて、判断するのは医師なんだ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
