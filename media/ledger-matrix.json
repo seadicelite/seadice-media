@@ -260,7 +260,9 @@
     "notice": [
      "debt-secrecy-self-check"
     ],
-    "fix": [],
+    "fix": [
+     "debt-repayment-keep-going-tips"
+    ],
     "after": [
      "debt-repayment-small-victories"
     ],
