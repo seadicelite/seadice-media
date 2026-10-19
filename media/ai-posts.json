@@ -1,5 +1,32 @@
 [
  {
+  "slug": "phishing-sms-link-entered-info",
+  "category": "詐欺・なりすまし",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-19",
+  "title": "詐欺SMSのリンクから、IDやカード番号を入力してしまった。止める先は入力した項目で決まり、連絡は早いほどよい",
+  "summary": "偽SMSのサイトに入力したら、カードはカード会社、IDは公式アプリで変更。入れた情報の2割は30分以内に使われていた"
+ },
+ {
+  "slug": "fake-online-shop-bought",
+  "category": "詐欺・なりすまし",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-19",
+  "title": "偽の通販サイトで買ってしまい、商品が届かない・偽物が届いた。まず払った先に連絡し、注文画面とURLを残す",
+  "summary": "偽の通販サイトで払ったら、カードはカード会社、振込は振込先の銀行と警察へすぐ連絡。URLと画面を残し、LINEでの返金話には応じない。"
+ },
+ {
+  "slug": "ai-medicine-advice-mistake-what-now",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-19",
+  "title": "AIの答えを信じて、薬の量や飲み合わせを間違えてしまった。研究ではAIの薬の答えに害になりうる誤りがあり、まず薬の名前・量・時刻をそろえて専門の窓口に聞く",
+  "summary": "AIを信じて薬を飲んでしまったら、AIに聞き直さず人に聞く。命に関わるなら119、多く飲んだなら中毒110番、飲み合わせは薬局へ。"
+ },
+ {
   "slug": "elderly-parent-ai-companion-prepare",
   "category": "人間関係・孤独",
   "type": "guide",
