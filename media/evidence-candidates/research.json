@@ -5864,5 +5864,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-left-out-ignored-ostracism-recovery-research-attribution",
+    "category": "気分・ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yaakobi E, \"Recovery From Ostracism Distress: The Role of Attribution\" (Frontiers in Psychology, 2022)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2022.899564",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/left-out-ignored-ostracism-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "無視の後、どう考える？",
+        "body": "仲間外れにされると「自分の性格のせいかも」って考えがちだよね。理由の受け止め方で、つらさは変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "一言だけ添えてみた",
+        "body": "3つの実験で656人が画面のボール回しで無視されたあと、係の人が「今日は運がなかったね」「性格しだいでよくある」などの理由を一言添えたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「たまたま」で楽に",
+        "body": "一時的な理由や本人の外にある理由を聞いた人はつらさが小さくなり、完全に回復した人もいた。「性格」の理由は、何も聞かない人と同じくらいつらかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本物の仲間外れでは？",
+        "body": "知らない相手との数分のゲームで、気分は本人の回答で測った結果。友だちや職場での長い仲間外れにも同じように効くかは、まだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
