@@ -6316,5 +6316,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-study-goals-tasks-not-scores-how-to-task-vs-grade-goals",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Clark et al., \"Using Goals to Motivate College Students: Theory and Evidence From Field Experiments\" (The Review of Economics and Statistics, 2020)",
+    "sourceUrl": "https://doi.org/10.1162/rest_a_00864",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/study-goals-tasks-not-scores-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "目標は点数で立てるのがいい？",
+        "body": "「次の試験で80点」みたいに、目標は結果の数字で決めるのが王道。そう思っている人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生約4,000人で2つの実験",
+        "body": "アメリカの研究者たちが、授業で2つの実験をしたんだ。片方は成績の目標を、もう片方は「練習テストを何回やるか」の目標を学生に立ててもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効いたのは「やること」の目標",
+        "body": "練習テストの回数を目標にすると、実際にやる回数がはっきり増えて、成績もわずかに上がった。成績の目標は、効果が小さくて統計的にはっきりしなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "成績の差はぎりぎり",
+        "body": "成績の伸びは統計的にぎりぎりの差だった。大学の授業での話で、社会人が何か月も独学する場面で同じになるかは確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
