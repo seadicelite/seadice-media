@@ -445,7 +445,8 @@
     "stuck": [
      "ai-overreliance-solve-on-your-own",
      "ai-wrong-answer-unlearn-correct",
-     "ai-made-mistakes-lost-trust-rebuild"
+     "ai-made-mistakes-lost-trust-rebuild",
+     "ai-explanations-forgotten-relearn"
     ],
     "why": [
      "why-ai-explanations-feel-understood",

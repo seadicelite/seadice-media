@@ -3687,5 +3687,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Minerva_Stopwatch%2C_1810191305%2C_ako.jpg/500px-Minerva_Stopwatch%2C_1810191305%2C_ako.jpg",
   "og": "https://dokugaku.seadice.win/img/daily-study-quota-broken-restart-og.jpg",
   "local": true
+ },
+ "ai-explanations-forgotten-relearn": {
+  "file": "File:Inside a card catalog at the Indiana State Library - ask the librarian.jpg",
+  "src": "/img/ai-explanations-forgotten-relearn.jpg",
+  "src640": "/img/ai-explanations-forgotten-relearn-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "図書館のカード目録の引き出しに並ぶカード",
+  "artist": "TBurmeister (WMF)",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Inside_a_card_catalog_at_the_Indiana_State_Library_-_ask_the_librarian.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Inside_a_card_catalog_at_the_Indiana_State_Library_-_ask_the_librarian.jpg/960px-Inside_a_card_catalog_at_the_Indiana_State_Library_-_ask_the_librarian.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Inside_a_card_catalog_at_the_Indiana_State_Library_-_ask_the_librarian.jpg/500px-Inside_a_card_catalog_at_the_Indiana_State_Library_-_ask_the_librarian.jpg",
+  "og": "https://dokugaku.seadice.win/img/ai-explanations-forgotten-relearn.jpg",
+  "local": true
  }
 }

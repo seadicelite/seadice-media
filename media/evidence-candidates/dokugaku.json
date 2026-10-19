@@ -6588,5 +6588,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-ai-explanations-forgotten-relearn-google-stroop-replication",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hesselmann, \"No conclusive evidence that difficult general knowledge questions cause a 'Google Stroop effect'. A replication study\" (PeerJ, 2020)",
+    "sourceUrl": "https://doi.org/10.7717/peerj.10325",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/ai-explanations-forgotten-relearn/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "難問を見ると、頭に「検索」が浮かぶ？",
+        "body": "2011年にScienceに載った有名な研究で、難しいクイズの後は「Google」みたいなネット関連の言葉に反応が遅れる、と報告されたんだ。わからないと、すぐ調べたくなる心の表れだって。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ実験を、もう一度やってみた",
+        "body": "元の実験は米国の大学生46人。大規模な追試（104人、さらに130人を追加）では効果が出なかった。元の著者が「やり方が違う」と指摘したので、その意見を取り入れてドイツで117人で試し直したらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "それでも、はっきりした効果は出なかった",
+        "body": "117人の追試でも、難問の後にネットの言葉が頭に浮かぶ、という証拠ははっきりしなかった。有名な研究でも、くり返して確かめると消えることがあるんだよね。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "「調べられると覚えない」は別の話",
+        "body": "再現されなかったのは、同じ論文の最初の実験だけ。後で調べられると思うと覚えにくい、という別の実験は、この追試の対象ではなく、まだ十分に確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
