@@ -6282,5 +6282,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-too-many-study-goals-cannot-progress-prioritize-both-equally",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Freund & Tomasik, \"Managing conflicting goals through prioritization? The role of age and relative goal importance\" (PLoS ONE, 2021)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0247047",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/too-many-study-goals-cannot-progress/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "優先順位をつければ迷いは消える？",
+        "body": "やることがぶつかったら、どっちかを優先すればスッキリする。よく言われるアドバイスだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2つの課題を同時に出してみた",
+        "body": "スイスの研究で、18〜87歳の大人185人が、1つの画面に並んだ2つのパズルを短い時間で「どちらも同じくらいよく」解くよう求められたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "優先した人ほど、モヤモヤが強かった",
+        "body": "実は片方を優先した人ほど、ぶつかる感じやいやな気分が強かった。でも別の117人に「同じくらいでなくていい」とゆるく伝えると、優先してもぶつかる感じとは結びつかなくなったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "数分の課題での話",
+        "body": "実験は数分のパズルで、何か月も続く勉強や仕事とは違う。ぶつかる感じが強いから優先した、という逆向きの可能性も著者は挙げているよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

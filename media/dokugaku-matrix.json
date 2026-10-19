@@ -352,7 +352,8 @@
     "stuck": [
      "rebuild-broken-study-plan",
      "exam-close-not-enough-time",
-     "exam-far-away-never-started-reset"
+     "exam-far-away-never-started-reset",
+     "too-many-study-goals-cannot-progress"
     ]
    }
   },

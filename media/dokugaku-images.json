@@ -3589,5 +3589,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Interior_of_a_JR_East_commuter_train_in_Greater_Tokyo_Area.jpg/960px-Interior_of_a_JR_East_commuter_train_in_Greater_Tokyo_Area.jpg",
   "og": "https://dokugaku.seadice.win/img/commute-audio-learning-how-to.jpg",
   "local": true
+ },
+ "too-many-study-goals-cannot-progress": {
+  "file": "File:Shattered light fixture 3.jpg",
+  "src": "/img/too-many-study-goals-cannot-progress.jpg",
+  "src640": "/img/too-many-study-goals-cannot-progress-sm.jpg",
+  "w": 960,
+  "h": 622,
+  "alt": "床に落ちて割れた照明器具と破片",
+  "artist": "W.carter",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Shattered_light_fixture_3.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Shattered_light_fixture_3.jpg/960px-Shattered_light_fixture_3.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Shattered_light_fixture_3.jpg/500px-Shattered_light_fixture_3.jpg",
+  "og": "https://dokugaku.seadice.win/img/too-many-study-goals-cannot-progress.jpg",
+  "local": true
  }
 }
