@@ -6622,5 +6622,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-lunch-break-study-how-to-lunchtime-park-walk",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sianoja et al., \"Enhancing daily well-being at work through lunchtime park walks and relaxation exercises: Recovery experiences as mediators\" (Journal of Occupational Health Psychology, 2018)",
+    "sourceUrl": "https://doi.org/10.1037/ocp0000083",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/lunch-break-study-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "昼休み、何をすれば午後がラク？",
+        "body": "昼休みに仕事の続きや勉強をすると、午後にぐったりすることってあるよね。昼休みの過ごし方で、午後の調子は変わるのかを調べた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "15分の散歩かリラックス法を10日間",
+        "body": "働く人に、昼休みに15分の公園の散歩（51人）か、体の力を抜くリラックス法（46人）を10日続けてもらった。5週間、週2回、午後の集中や疲れを答えてもらったらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "休んだ日は、午後の集中が高かった",
+        "body": "散歩やリラックス法をした日は、午後の集中が高く、疲れが少なかった。散歩は「楽しかった」こと、リラックス法は「仕事から気持ちが離れた」ことを通して効いていたみたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "仕事の成績はまだ測っていない",
+        "body": "集中や疲れは本人の答えで、仕事の成績を測ったわけじゃない。昼休みに勉強した場合どうなるかも、この研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

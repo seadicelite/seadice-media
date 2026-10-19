@@ -3705,5 +3705,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Inside_a_card_catalog_at_the_Indiana_State_Library_-_ask_the_librarian.jpg/500px-Inside_a_card_catalog_at_the_Indiana_State_Library_-_ask_the_librarian.jpg",
   "og": "https://dokugaku.seadice.win/img/ai-explanations-forgotten-relearn.jpg",
   "local": true
+ },
+ "lunch-break-study-how-to": {
+  "file": "File:Bento at Hanabishi, Koyasan.jpg",
+  "src": "/img/lunch-break-study-how-to.jpg",
+  "src640": "/img/lunch-break-study-how-to-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "弁当箱に詰めた昼食",
+  "artist": "Blue Lotus",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bento_at_Hanabishi,_Koyasan.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bento_at_Hanabishi%2C_Koyasan.jpg/960px-Bento_at_Hanabishi%2C_Koyasan.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bento_at_Hanabishi%2C_Koyasan.jpg/500px-Bento_at_Hanabishi%2C_Koyasan.jpg",
+  "og": "https://dokugaku.seadice.win/img/lunch-break-study-how-to.jpg",
+  "local": true
  }
 }
