@@ -6214,5 +6214,73 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-commute-audio-learning-how-to-driving-podcast",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gottlieb et al., \"Maximizing the Morning Commute: A Randomized Trial Assessing the Effect of Driving on Podcast Knowledge Acquisition and Retention\" (Annals of Emergency Medicine, 2021)",
+    "sourceUrl": "https://doi.org/10.1016/j.annemergmed.2021.02.030",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/commute-audio-learning-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "気になる疑問",
+        "title": "運転しながら聞いた講座、頭に入ってる？",
+        "body": "通勤の車で音声講座を聞く人は多いよね。でも運転に気を取られて、実は何も残っていないんじゃないかと気になる。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ人が、運転中と座ってで聞き比べた",
+        "body": "アメリカの救急医学の研修医100人が、医学の音声を「運転しながら」と「部屋で座って」の両方で聞いて、直後と1か月後にテストを受けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績はほぼ同じ。でも1か月で半分に",
+        "body": "直後の正答率は運転中74.2%、座って73.3%。1か月後は52.2%と52.0%で、差はなかった。どちらの聞き方でも、1か月でかなり忘れていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "運転の安全は調べていない",
+        "body": "調べたのは覚えた量だけで、運転への影響は測っていない。医師の卵が専門の話を聞いた実験なので、初めての分野でも同じかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-commute-audio-learning-how-to-listening-mind-wandering",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Varao Sousa et al., \"The way we encounter reading material influences how frequently we mind wander\" (Frontiers in Psychology, 2013)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2013.00892",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/commute-audio-learning-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "本は読んでも聞いても同じ？",
+        "body": "オーディオブックやポッドキャストなら、読むのと同じだけ頭に入るって思いがちだよね。目を使わないぶん楽だし。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "黙読・音読・聞くの3通りで比べた",
+        "body": "カナダの大学生が、約1,800語の文章を黙読・音読・朗読を聞くの3通りで読んだ。途中で何度か「今なにを考えてた？」と聞いて、最後に記憶テストをしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "聞くといちばん気がそれた",
+        "body": "気がそれていた割合は、聞いたときが約51%で、黙読の約36%より高かった。記憶テストも、聞いた文章がいちばん低かったらしい。2つの別のグループで同じ結果が出たよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "自分で止めたり戻したりできたら？",
+        "body": "この実験は、録音を流して聞く形だった。自分で止めたり戻したりしながら聞く場合や、勉強の教材でも同じ差が出るかは、まだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

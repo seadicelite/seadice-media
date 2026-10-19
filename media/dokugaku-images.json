@@ -3571,5 +3571,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/University_of_Buffalo_Natural_Sciences_Complex.jpg/960px-University_of_Buffalo_Natural_Sciences_Complex.jpg",
   "og": "https://dokugaku.seadice.win/img/slide-photos-instead-of-notes-reset.jpg",
   "local": true
+ },
+ "commute-audio-learning-how-to": {
+  "file": "File:Interior of a JR East commuter train in Greater Tokyo Area.jpg",
+  "src": "/img/commute-audio-learning-how-to.jpg",
+  "src640": "/img/commute-audio-learning-how-to-sm.jpg",
+  "w": 960,
+  "h": 632,
+  "alt": "通勤電車の車内",
+  "artist": "George N",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Interior_of_a_JR_East_commuter_train_in_Greater_Tokyo_Area.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Interior_of_a_JR_East_commuter_train_in_Greater_Tokyo_Area.jpg/960px-Interior_of_a_JR_East_commuter_train_in_Greater_Tokyo_Area.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Interior_of_a_JR_East_commuter_train_in_Greater_Tokyo_Area.jpg/960px-Interior_of_a_JR_East_commuter_train_in_Greater_Tokyo_Area.jpg",
+  "og": "https://dokugaku.seadice.win/img/commute-audio-learning-how-to.jpg",
+  "local": true
  }
 }
