@@ -3845,5 +3845,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fitbit_Alta_HR_landscape.jpg/500px-Fitbit_Alta_HR_landscape.jpg",
   "og": "https://research.seadice.win/img/wearable-activity-tracker-habit-research-og.jpg",
   "local": true
+ },
+ "dha-omega3-supplement-memory-research": {
+  "file": "File:Omega 3 Fish oil softgel capsules.jpg",
+  "src": "/img/dha-omega3-supplement-memory-research.webp",
+  "src640": "/img/dha-omega3-supplement-memory-research-sm.webp",
+  "w": 960,
+  "h": 623,
+  "alt": "魚油のカプセル",
+  "artist": "Gpkp",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Omega_3_Fish_oil_softgel_capsules.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Omega_3_Fish_oil_softgel_capsules.jpg/960px-Omega_3_Fish_oil_softgel_capsules.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Omega_3_Fish_oil_softgel_capsules.jpg/500px-Omega_3_Fish_oil_softgel_capsules.jpg",
+  "og": "https://research.seadice.win/img/dha-omega3-supplement-memory-research-og.jpg",
+  "local": true
  }
 }

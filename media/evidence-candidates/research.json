@@ -6573,5 +6573,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-dha-omega3-supplement-memory-research-dha-memory-meta",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yurko-Mauro et al., \"Docosahexaenoic acid and adult memory: a systematic review and meta-analysis\" (PLoS ONE, 2015)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0120391",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/dha-omega3-supplement-memory-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "DHAで記憶力アップ？",
+        "body": "「DHAで記憶力をサポート」って広告、よく見るよね。試験勉強の前に飲めば、暗記がはかどったりするのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "15の試験をまとめた",
+        "body": "Yurko-Mauroらは、DHA（またはDHAとEPA）のサプリと偽薬を比べた15の試験をまとめて、出来事や言葉を覚える記憶への効果を調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "物忘れの自覚がない人では差ゼロ",
+        "body": "物忘れの自覚がない人では効果の大きさはほぼゼロで、45歳以下でも差はなかった。物忘れが気になる人に限ると、小さな改善が見られたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "試験は少なく、資金はサプリ会社",
+        "body": "物忘れが気になる人の試験は5件だけ。しかもこのメタ分析は原料会社の資金で作られ、筆頭著者はその社員なんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
