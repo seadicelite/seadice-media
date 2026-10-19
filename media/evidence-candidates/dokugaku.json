@@ -6520,5 +6520,73 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-daily-study-quota-broken-restart-self-efficacy-lapse",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Roordink et al., \"Predictors of lapse and relapse in physical activity and dietary behaviour: a systematic search and review on prospective studies\" (Psychology & Health, 2023)",
+    "sourceUrl": "https://doi.org/10.1080/08870446.2021.1981900",
+    "studyType": "レビュー",
+    "articleUrl": "https://dokugaku.seadice.win/daily-study-quota-broken-restart/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "三日坊主から戻れる人の違いは？",
+        "body": "運動や食事の習慣、途中で一度やめてしまっても戻れる人と、そのままやめてしまう人がいるよね。何が分かれ目なんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "37件の研究をまとめた",
+        "body": "大人を追いかけて、運動や食事を一時的にやめる・元に戻ってしまう原因を調べた37件の研究をまとめたレビューがあるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "一貫していたのは「できる感覚」だけ",
+        "body": "運動の一時的な中断と逆戻り、食事の逆戻りのすべてを一貫して予測したのは、「自分はできる」という感覚（自己効力感）だけだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ほかの要因はまだ謎",
+        "body": "ほとんどの要因は調べた研究が少なくて、結論が出せなかった。勉強の習慣に同じことが言えるかも、確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-daily-study-quota-broken-restart-self-efficacy-feedback",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ashford et al., \"What is the best way to change self-efficacy to promote lifestyle and recreational physical activity? A systematic review with meta-analysis\" (British Journal of Health Psychology, 2010)",
+    "sourceUrl": "https://doi.org/10.1348/135910709X461752",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/daily-study-quota-broken-restart/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "励ませば自信がつく？",
+        "body": "「きみならできる」と励ましたり、少しずつ難しくしたりすれば、自信はつく。そう思われがちだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "27件・5,501人をまとめた",
+        "body": "健康な大人の運動で、「自分はできる」という感覚を高めようとした27件の研究（5,501人）をまとめたメタ分析があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効いたのは「過去の結果を見せる」",
+        "body": "いちばん高まったのは、自分や他人の過去の結果を見せる工夫だった。説得や、少しずつ難しくする工夫は、むしろ低さと関係していたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "直接くらべた実験ではない",
+        "body": "全体の効果は小さく（d=0.16）、工夫ごとの差は研究どうしを比べたもの。直接くらべた実験ではないし、勉強の話でもないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

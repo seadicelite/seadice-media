@@ -3670,5 +3670,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bangalore_city_at_night_03.jpg/500px-Bangalore_city_at_night_03.jpg",
   "og": "https://dokugaku.seadice.win/img/shift-work-study-schedule-reset-og.jpg",
   "local": true
+ },
+ "daily-study-quota-broken-restart": {
+  "file": "File:Minerva Stopwatch, 1810191305, ako.jpg",
+  "src": "/img/daily-study-quota-broken-restart.webp",
+  "src640": "/img/daily-study-quota-broken-restart-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "黒い背景に置かれた古いストップウォッチ",
+  "artist": "Ansgar Koreng",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Minerva_Stopwatch,_1810191305,_ako.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Minerva_Stopwatch%2C_1810191305%2C_ako.jpg/960px-Minerva_Stopwatch%2C_1810191305%2C_ako.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Minerva_Stopwatch%2C_1810191305%2C_ako.jpg/500px-Minerva_Stopwatch%2C_1810191305%2C_ako.jpg",
+  "og": "https://dokugaku.seadice.win/img/daily-study-quota-broken-restart-og.jpg",
+  "local": true
  }
 }
