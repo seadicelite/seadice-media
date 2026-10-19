@@ -5067,5 +5067,73 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-comparison-motivation-up-down-why-winning-effort",
+    "category": "比べて落ち込む",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Dong J, Rong Y, Ma S, Xu Y, Wei P, \"The neurocomputational mechanisms underlying the impact of social comparison on effort investment\" (Communications Biology, 2026)",
+    "sourceUrl": "https://doi.org/10.1038/s42003-026-10229-5",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/comparison-motivation-up-down-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "人に勝つと気がゆるむ？",
+        "body": "ライバルに勝ったら安心して手を抜いちゃう、負けたほうが燃える。そんなふうに言われることってあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "勝ち負けを知らせて作業してもらった",
+        "body": "中国の研究で、平均22歳ごろの32人が集中のいる作業をくり返し、毎回「相手より良かった・悪かった」と知らされたんだ。ときどき次に勝てそうかも0〜100で答えたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "勝ったあとは「できそう」が上がった",
+        "body": "勝ったと知らされたあとの勝てそう度は平均64.41、負けたあとは57.76。次の回の作業量も、勝ったあとのほうがほんの少し多かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日々の暮らしでは逆の報告も",
+        "body": "勝ち負けの多くは前もって決めた順番で、短い作業の実験。日々の記録の研究では、上の人と比べたあとのほうが「伸びたい」気持ちが強いという報告もあって、結果は分かれているよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-ai-assisted-pay-not-earned-why-earnedness",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zong J, Lyu Z, \"Does AI-assisted labor change how earnings are spent?\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1877013",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/ai-assisted-pay-not-earned-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIで稼いだお金、実感ある？",
+        "body": "AIに手伝ってもらった仕事でお金をもらうと、なんだか自分で稼いだ気がしない。そんな気持ちになることってあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ10元で3つのやり方",
+        "body": "中国の179人が商品の宣伝文句を考えたんだ。自分で書く、AIの案を選んで直す、AIに全部任せる、の3組に分かれて、報酬はどれも同じ10元だったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "実感は大きく下がった",
+        "body": "「自分で稼いだ」と感じる度合いは7段階で、自分で書いた組が6.05、AIに任せた組は2.83。ただ、そのお金を投資に回す額には、はっきりした差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大きなお金ならどう？",
+        "body": "報酬は10元と小さく、小さな差を見分けられる人数でもなかった。給料や副業の収入のような大きなお金で同じことが起きるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
