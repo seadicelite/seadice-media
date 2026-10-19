@@ -4671,5 +4671,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/NYC_Public_Library_Research_Room_Jan_2006-1-_3.jpg/500px-NYC_Public_Library_Research_Room_Jan_2006-1-_3.jpg",
   "og": "https://mentalai.seadice.win/img/white-noise-focus-chatter.jpg",
   "local": true
+ },
+ "conversation-safety-behaviors-awkward": {
+  "file": "File:Table and chairs at Hunan Cafe.jpg",
+  "src": "/img/conversation-safety-behaviors-awkward.jpg",
+  "src640": "/img/conversation-safety-behaviors-awkward-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "カフェのテーブルといす",
+  "artist": "Ser Amantio di Nicolao",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Table_and_chairs_at_Hunan_Cafe.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Table_and_chairs_at_Hunan_Cafe.jpg/960px-Table_and_chairs_at_Hunan_Cafe.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Table_and_chairs_at_Hunan_Cafe.jpg/500px-Table_and_chairs_at_Hunan_Cafe.jpg",
+  "og": "https://mentalai.seadice.win/img/conversation-safety-behaviors-awkward.jpg",
+  "local": true
  }
 }

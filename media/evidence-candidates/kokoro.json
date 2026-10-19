@@ -5543,5 +5543,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-conversation-safety-behaviors-awkward-quiet",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gray E, Beierl ET & Clark DM, \"Sub-types of safety behaviours and their effects on social anxiety disorder\" (PLoS ONE, 2019)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0223165",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/conversation-safety-behaviors-awkward/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "黙っていれば失敗しない？",
+        "body": "人と話すとき、変なことを言わないように口数を減らす。自分の話はしないでおく。そのほうが無難だと思うよね。実はそれを確かめた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5分の会話を2回",
+        "body": "英国の大学生96人が、初対面の2人1組で5分の会話を2回したよ。片方の人は、どちらかの会話でだけ「自分の話を避ける・じっとする・話す量を減らす」ようにこっそり指示されていたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "不安が増えて、好感は下がった",
+        "body": "指示どおりにした会話では、本人の不安が平均20から34に上がり（0〜100）、相手が感じた好感は76から65に下がっていた。相手も「また話したい」と思いにくくなっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふだんの会話でも同じ？",
+        "body": "指示どおりに演じた5分の会話で、組み合わせごとの人数も24人ずつと少なめ。友達や同僚との続いていく会話でも同じになるかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
