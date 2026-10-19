@@ -3432,5 +3432,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/-2019-12-06_Boiled_egg_with_toasted_soliders%2C_Trimingham.JPG/500px--2019-12-06_Boiled_egg_with_toasted_soliders%2C_Trimingham.JPG",
   "og": "https://dokugaku.seadice.win/img/breakfast-before-morning-study-og.jpg",
   "local": true
+ },
+ "ai-conversation-speaking-practice-how-to": {
+  "file": "File:Headphone Microphone Madrid (Unsplash).jpg",
+  "src": "/img/ai-conversation-speaking-practice-how-to.webp",
+  "src640": "/img/ai-conversation-speaking-practice-how-to-sm.webp",
+  "w": 960,
+  "h": 626,
+  "alt": "録音用マイクにかけたヘッドホン",
+  "artist": "WillSpirit SBLN willspirit",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Headphone_Microphone_Madrid_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Headphone_Microphone_Madrid_%28Unsplash%29.jpg/960px-Headphone_Microphone_Madrid_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Headphone_Microphone_Madrid_%28Unsplash%29.jpg/500px-Headphone_Microphone_Madrid_%28Unsplash%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/ai-conversation-speaking-practice-how-to-og.jpg",
+  "local": true
  }
 }

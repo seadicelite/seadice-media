@@ -5908,5 +5908,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-ai-conversation-speaking-practice-how-to-weeks",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Miao & Hu, \"Artificial intelligence-assisted speaking in Spanish as a foreign language: effects on foreign language emotions and willingness to communicate\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1877956",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/ai-conversation-speaking-practice-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIと話す練習、いつ効いてくる？",
+        "body": "相手がいなくても、AIとなら外国語で何度でも話せる。じゃあ、AIとの会話練習って、気持ちの面ではいつごろ変化が出るんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "16週間、AIの組とふつうの組をくらべた",
+        "body": "スペイン語を初めて学ぶ中国の大学生69人が対象。AIの組は毎週の授業で約5分のAI会話を2回、学期全体で約160分。もう片方はふつうの話す練習をしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "10週目は差なし、16週目に変化",
+        "body": "10週目にはどの気持ちにも差がなかった。16週目になって、AIの組で退屈が少なく、話そうとする気持ちが高かった。実は、不安の差ははっきりしなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "話す力が伸びたかは測っていない",
+        "body": "結果はすべて自己申告の気持ち。話す力のテストはしていないし、1つの大学・1学期だけの研究。授業の中での練習で、一人で独学する場合と同じとは限らないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
