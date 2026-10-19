@@ -5966,5 +5966,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-memory-loss-age-belief-confidence-recovery-research-age-stereotype",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lamont RA, Swift HJ, Abrams D, \"A review and meta-analysis of age-based stereotype threat: Negative stereotypes, not facts, do the damage\" (Psychology and Aging, 2015)",
+    "sourceUrl": "https://doi.org/10.1037/a0038586",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/memory-loss-age-belief-confidence-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "年をとると物覚えが悪くなる？",
+        "body": "物忘れのたびに「もう年だから」って言いがちだよね。でも、その思い込み自体が記憶に影響するとしたら？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "82の効果量をまとめた",
+        "body": "年齢についての悪いイメージを意識させると、高齢の人の成績はどうなるか。32の論文・3,882人（平均69.5歳）の実験をまとめたメタ分析があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "意識しただけで成績が下がった",
+        "body": "イメージを意識させられた人は、記憶や頭の働きのテストの成績が下がっていた。効果の大きさは訂正後に d = 0.32 で、小さめから中くらいらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実験室の外でも同じ？",
+        "body": "実験で意図的に刺激した条件の結果で、成績が下がった研究ほど発表されやすい偏りも指摘されている。毎日の暮らしでどれくらい効くかは、まだはっきりしない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

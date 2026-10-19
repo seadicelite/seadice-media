@@ -3592,5 +3592,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Fork_in_the_path_up_.Lad_Law_-_geograph.org.uk_-_8373118.jpg/500px-Fork_in_the_path_up_.Lad_Law_-_geograph.org.uk_-_8373118.jpg",
   "og": "https://research.seadice.win/img/give-up-habit-goal-disengagement-recovery-research.jpg",
   "local": true
+ },
+ "memory-loss-age-belief-confidence-recovery-research": {
+  "file": "File:Pencil shavings on a notebook (Unsplash).jpg",
+  "src": "/img/memory-loss-age-belief-confidence-recovery-research.jpg",
+  "src640": "/img/memory-loss-age-belief-confidence-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "開いたノートと鉛筆、削りかす",
+  "artist": "Angelina Litvin linalitvina",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Pencil_shavings_on_a_notebook_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg/960px-Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg/500px-Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg",
+  "og": "https://research.seadice.win/img/memory-loss-age-belief-confidence-recovery-research.jpg",
+  "local": true
  }
 }
