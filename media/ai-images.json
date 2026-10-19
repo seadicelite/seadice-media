@@ -2548,5 +2548,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Seattle_-_Chinese_Community_Bulletin_Board_03.jpg/500px-Seattle_-_Chinese_Community_Bulletin_Board_03.jpg",
   "og": "https://ai.seadice.win/img/found-ai-fake-spreading-what-to-do-og.jpg",
   "local": true
+ },
+ "left-ai-fake-conspiracy-rebuild": {
+  "file": "File:Wooden bench in G Ross Lord Park 14.jpg",
+  "src": "/img/left-ai-fake-conspiracy-rebuild.webp",
+  "src640": "/img/left-ai-fake-conspiracy-rebuild-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "公園の木のベンチ",
+  "artist": "Fabian Roudra Baroi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Wooden_bench_in_G_Ross_Lord_Park_14.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Wooden_bench_in_G_Ross_Lord_Park_14.jpg/960px-Wooden_bench_in_G_Ross_Lord_Park_14.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Wooden_bench_in_G_Ross_Lord_Park_14.jpg/500px-Wooden_bench_in_G_Ross_Lord_Park_14.jpg",
+  "og": "https://ai.seadice.win/img/left-ai-fake-conspiracy-rebuild-og.jpg",
+  "local": true
  }
 }
