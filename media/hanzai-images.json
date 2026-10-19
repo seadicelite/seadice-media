@@ -1108,5 +1108,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/DZ6_2642_An_intimate_table_for_two_soft_light_fresh_orchids_and_a_menu_waiting_to_be_opened.jpg/330px-DZ6_2642_An_intimate_table_for_two_soft_light_fresh_orchids_and_a_menu_waiting_to_be_opened.jpg",
   "og": "https://hanzai.seadice.win/img/alcohol-and-aggression.jpg",
   "local": true
+ },
+ "revenge-psychology": {
+  "file": "File:Lady Justice (36495562115).jpg",
+  "src": "/img/revenge-psychology.jpg",
+  "src640": "/img/revenge-psychology-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "夕焼けを背にした正義の女神像のシルエット",
+  "artist": "Jason Jacobs from Honolulu, USA",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lady_Justice_(36495562115).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lady_Justice_%2836495562115%29.jpg/960px-Lady_Justice_%2836495562115%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lady_Justice_%2836495562115%29.jpg/500px-Lady_Justice_%2836495562115%29.jpg",
+  "og": "https://hanzai.seadice.win/img/revenge-psychology.jpg",
+  "local": true
  }
 }
