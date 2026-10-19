@@ -6335,5 +6335,73 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-hunger-cant-focus-why-research-fasting-meta",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bamberg C & Moreau D, \"Acute effects of fasting on cognitive performance: A systematic review and meta-analysis\" (Psychological Bulletin, 2025)",
+    "sourceUrl": "https://doi.org/10.1037/bul0000492",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/hunger-cant-focus-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "お腹がすくと頭が回らない？",
+        "body": "「空腹だと集中できない」「朝ごはんを抜くと頭が働かない」ってよく言うよね。脳のエネルギー切れのイメージがあるけど、本当に成績は落ちるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "空腹の実験をまとめて比べた",
+        "body": "空腹の大人と食べた大人に同じテストを解いてもらった実験を集めて、222の結果・合計3484人分をまとめたんだ。空腹時間の中央値は12時間だった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "平均すると、ほぼ差なし",
+        "body": "空腹の人と食べた人の成績に、意味のある差は見られなかった（効果の大きさ g = 0.02）。ただ、空腹が長いほど、また若い人ほど、成績は少し下がる傾向があったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "仕事や勉強の集中とは別かも",
+        "body": "調べたのは決められたテストの成績。実際の仕事や勉強で「集中できない感じ」がどうなるかまでは測っていない。子どもにそのまま当てはまるかもわからない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-hunger-cant-focus-why-research-food-cue-replication",
+    "category": "集中力",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Neal C et al., \"No effect of hunger on attentional capture by food cues: Two replication studies\" (Appetite, 2023)",
+    "sourceUrl": "https://doi.org/10.1016/j.appet.2023.107065",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/hunger-cant-focus-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "空腹だと食べ物に目を奪われる？",
+        "body": "お腹がすいていると、ケーキの写真につい目が行く気がするよね。実際、空腹だと食べ物の写真に注意を奪われるという2010年の実験もあるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ実験をやり直してみた",
+        "body": "イギリスの研究チームが、その実験をオンライン（29人）と対面（28人）でやり直した。同じ人が、前の晩から6時間以上食べない日と、昼食直後の日の2回テストを受けたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "空腹でも差は出なかった",
+        "body": "どちらの追試でも、空腹で食べ物の写真に注意を奪われやすくなる証拠は見つからなかった。著者らは、元の結果は一般化できないかもしれないとしているらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "なぜ結果が違ったのかは不明",
+        "body": "参加者や写真が元の実験と少しずつ違っていて、どの違いが結果を分けたのかはわかっていない。人数も各30人弱と少なめなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
