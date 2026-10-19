@@ -1,160 +1,159 @@
 {
-  "enabled": true,
-  "publish": "auto",
-  "slug": "tetsugaku",
-  "siteType": "article",
-  "name": "哲学",
-  "path": "sites/tetsugaku/",
-  "url": "https://tetsugaku.seadice.win/",
-  "concept": "哲学者・概念・学派を、専門用語を経由せず今の生活の言葉で解説する入門百科。「知ってるつもり」を「他人に説明できる」に変える",
-  "reader": "学校の授業や本で名前だけ聞いたことがある哲学者・概念を、検索して手早く理解したい一般の人（哲学専攻ではない）",
-  "tone": "断定しすぎず、しかし曖昧にも逃げない。専門用語は初出で必ず平易に言い換える。上から目線にならない",
-  "tagline": "Philosophy, in plain words.",
-  "lead": "ソクラテスからAI時代の倫理まで。哲学者・概念・学派を、専門用語ではなく今の生活の言葉で解説します。",
-  "titleSuffix": "哲学者・概念をやさしく解説する入門百科",
-  "description": "ソクラテス、デカルト、実存主義、功利主義。哲学の人物・概念・学派を、専門用語を使わず今の生活の言葉で解説する入門百科。出典（原典・研究）つき。",
-  "about": "記事はAIが哲学者の原典・研究書・信頼できる哲学事典（スタンフォード哲学百科事典 等）を調べ、内容を確認して作成しています。特定の思想の正しさを断定したり、思想信条を誘導するものではありません。",
-  "theme": {
-    "bg": "#F4EFE4",
-    "card": "#FBF8F1",
-    "accent": "#A61E2D",
-    "accent2": "#201C17",
-    "border": "#D9CFBC",
-    "text": "#201C17",
-    "muted": "#6A6154",
-    "link": "#A61E2D"
+ "enabled": true,
+ "publish": "auto",
+ "slug": "tetsugaku",
+ "siteType": "article",
+ "name": "哲学",
+ "path": "sites/tetsugaku/",
+ "url": "https://tetsugaku.seadice.win/",
+ "concept": "哲学者・概念・学派を、専門用語を経由せず今の生活の言葉で解説する入門百科。「知ってるつもり」を「他人に説明できる」に変える",
+ "reader": "学校の授業や本で名前だけ聞いたことがある哲学者・概念を、検索して手早く理解したい一般の人（哲学専攻ではない）",
+ "tone": "断定しすぎず、しかし曖昧にも逃げない。専門用語は初出で必ず平易に言い換える。上から目線にならない",
+ "tagline": "Philosophy, in plain words.",
+ "lead": "ソクラテスからAI時代の倫理まで。哲学者・概念・学派を、専門用語ではなく今の生活の言葉で解説します。",
+ "titleSuffix": "哲学者・概念をやさしく解説する入門百科",
+ "description": "ソクラテス、デカルト、実存主義、功利主義。哲学の人物・概念・学派を、専門用語を使わず今の生活の言葉で解説する入門百科。出典（原典・研究）つき。",
+ "about": "記事はAIが哲学者の原典・研究書・信頼できる哲学事典（スタンフォード哲学百科事典 等）を調べ、内容を確認して作成しています。特定の思想の正しさを断定したり、思想信条を誘導するものではありません。",
+ "theme": {
+  "bg": "#F4EFE4",
+  "card": "#FBF8F1",
+  "accent": "#A61E2D",
+  "accent2": "#201C17",
+  "border": "#D9CFBC",
+  "text": "#201C17",
+  "muted": "#6A6154",
+  "link": "#A61E2D"
+ },
+ "categories": [
+  {
+   "name": "古代・中世哲学",
+   "id": "ancient",
+   "color": "#9A6B00",
+   "icon": "column",
+   "desc": "ソクラテス・プラトン・アリストテレスから中世のスコラ哲学まで"
   },
-  "categories": [
-    {
-      "name": "古代・中世哲学",
-      "id": "ancient",
-      "color": "#9A6B00",
-      "icon": "column",
-      "desc": "ソクラテス・プラトン・アリストテレスから中世のスコラ哲学まで"
-    },
-    {
-      "name": "近代哲学",
-      "id": "modern",
-      "color": "#1B4F8C",
-      "icon": "compass",
-      "desc": "デカルト・カント・ヘーゲルなど、理性と近代を作った思想"
-    },
-    {
-      "name": "実存・現象学",
-      "id": "existential",
-      "color": "#8B2E1F",
-      "icon": "flame",
-      "desc": "サルトル・ニーチェ・ハイデガーら、生きる意味を問う思想"
-    },
-    {
-      "name": "倫理・政治哲学",
-      "id": "ethics",
-      "color": "#2F5233",
-      "icon": "scale",
-      "desc": "功利主義・義務論・正義論など、善悪と社会を考える思想"
-    },
-    {
-      "name": "東洋思想",
-      "id": "eastern",
-      "color": "#5B3A8C",
-      "icon": "leaf",
-      "desc": "老荘思想・仏教・儒教・禅など、東アジアの思想の系譜"
-    },
-    {
-      "name": "現代思想",
-      "id": "contemporary",
-      "color": "#0E7490",
-      "icon": "cpu",
-      "desc": "分析哲学・ポストモダン、AI時代の倫理など現代の哲学"
-    }
+  {
+   "name": "近代哲学",
+   "id": "modern",
+   "color": "#1B4F8C",
+   "icon": "compass",
+   "desc": "デカルト・カント・ヘーゲルなど、理性と近代を作った思想"
+  },
+  {
+   "name": "実存・現象学",
+   "id": "existential",
+   "color": "#8B2E1F",
+   "icon": "flame",
+   "desc": "サルトル・ニーチェ・ハイデガーら、生きる意味を問う思想"
+  },
+  {
+   "name": "倫理・政治哲学",
+   "id": "ethics",
+   "color": "#2F5233",
+   "icon": "scale",
+   "desc": "功利主義・義務論・正義論など、善悪と社会を考える思想"
+  },
+  {
+   "name": "東洋思想",
+   "id": "eastern",
+   "color": "#5B3A8C",
+   "icon": "leaf",
+   "desc": "老荘思想・仏教・儒教・禅など、東アジアの思想の系譜"
+  },
+  {
+   "name": "現代思想",
+   "id": "contemporary",
+   "color": "#0E7490",
+   "icon": "cpu",
+   "desc": "分析哲学・ポストモダン、AI時代の倫理など現代の哲学"
+  }
+ ],
+ "types": [
+  {
+   "id": "guide",
+   "label": "深掘り"
+  }
+ ],
+ "template": ".claude/commands/tetsugaku-template.html",
+ "rulesFrom": ".claude/commands/tetsugaku.md",
+ "relatedApps": "p/released-apps.json から近いジャンル（自己啓発・内省・習慣系）を選ぶ。無ければ記事のアプリ案のみ",
+ "postsPerRun": 1,
+ "topicQueue": [
+  "西田幾多郎の「純粋経験」、主観と客観に分かれる前の経験とは",
+  "和辻哲郎の「間柄」、人間は人と人の間に生きる存在か",
+  "プラグマティズム（パース・ジェイムズ・デューイ）、役に立つものが真理なのか",
+  "トマス・アクィナスの「神の存在証明（五つの道）」とは何か"
+ ],
+ "layout": "magazine",
+ "trust": [
+  [
+   "AIが原典・研究書を確認して作成",
+   "原典・研究書・信頼できる哲学事典（スタンフォード哲学百科事典 等）をAIが調べ、内容を照合しています。"
   ],
-  "types": [
-    {
-      "id": "guide",
-      "label": "深掘り"
-    }
+  [
+   "思想の正しさを断定しません",
+   "特定の思想信条が正しい・誤っているという判定はしません。解釈が分かれる論点は幅を示します。"
   ],
-  "template": ".claude/commands/tetsugaku-template.html",
-  "rulesFrom": ".claude/commands/tetsugaku.md",
-  "relatedApps": "p/released-apps.json から近いジャンル（自己啓発・内省・習慣系）を選ぶ。無ければ記事のアプリ案のみ",
-  "postsPerRun": 1,
-  "topicQueue": [
-    "レヴィナスの「顔」、他者の顔が私に呼びかけるもの",
-    "西田幾多郎の「純粋経験」、主観と客観に分かれる前の経験とは",
-    "和辻哲郎の「間柄」、人間は人と人の間に生きる存在か",
-    "プラグマティズム（パース・ジェイムズ・デューイ）、役に立つものが真理なのか",
-    "トマス・アクィナスの「神の存在証明（五つの道）」とは何か"
-  ],
-  "layout": "magazine",
-  "trust": [
-    [
-      "AIが原典・研究書を確認して作成",
-      "原典・研究書・信頼できる哲学事典（スタンフォード哲学百科事典 等）をAIが調べ、内容を照合しています。"
-    ],
-    [
-      "思想の正しさを断定しません",
-      "特定の思想信条が正しい・誤っているという判定はしません。解釈が分かれる論点は幅を示します。"
-    ],
-    [
-      "専門用語は必ず言い換えます",
-      "実存・弁証法などの専門用語は、初出で必ず生活の言葉に言い換えて説明します。"
-    ]
-  ],
-  "mastheadHtml": "<div class=\"tg-mast\"><p class=\"tg-series\">SEADICE PHILOSOPHY LIBRARY</p><div class=\"tg-rule\" aria-hidden=\"true\"></div><h1>哲学</h1><p class=\"tg-en\">Philosophy, in plain words.</p><blockquote class=\"tg-quote\"><p>吟味されない生は、人間にとって生きるに値しない。</p><cite>プラトン『ソクラテスの弁明』</cite></blockquote><p class=\"tg-lead\">%LEAD%</p><div class=\"tg-rule\" aria-hidden=\"true\"></div><p class=\"tg-col\"><span>収録</span><b>%POSTS%</b><span>項目</span><i aria-hidden=\"true\">／</i><span>分野</span><b>%CATS%</b></p></div><!--mastend-->",
-  "extraCss": "body{background:#F4EFE4;background-image:radial-gradient(ellipse at 20% 0%,rgba(166,30,45,.04),transparent 50%),radial-gradient(ellipse at 100% 100%,rgba(120,90,40,.06),transparent 60%)} nav.top{background:rgba(244,239,228,.9);border-bottom:1px solid #201C17} .nav-logo{font-size:12px;letter-spacing:.24em;background:none;-webkit-text-fill-color:#6A6154;color:#6A6154} nav.top a.r{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-weight:700;font-size:16px;color:#201C17;letter-spacing:.4em} body,.card .d,.lead{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} .tg-mast{text-align:center;padding:26px 0 30px;margin-bottom:34px;border-bottom:3px double #201C17} .tg-series{font-size:12px;letter-spacing:.42em;color:#6A6154} .tg-rule{height:9px;margin:16px auto;max-width:320px;border-top:1px solid #201C17;border-bottom:3px solid #201C17} .tg-mast h1{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:clamp(76px,17vw,148px);font-weight:700;letter-spacing:.32em;text-indent:.32em;line-height:1.15;background:none;-webkit-text-fill-color:#201C17;color:#201C17} .tg-en{font-family:Georgia,\"Times New Roman\",serif;font-style:italic;font-size:17px;color:#6A6154;margin-top:4px} .tg-quote{margin:26px auto 0;max-width:560px}.tg-quote p{font-size:clamp(17px,3vw,21px);color:#201C17;line-height:1.8}.tg-quote p::before{content:\"“\";color:#A61E2D;margin-right:4px}.tg-quote p::after{content:\"”\";color:#A61E2D;margin-left:4px} .tg-quote cite{display:block;font-style:normal;font-size:13px;color:#6A6154;margin-top:6px} .tg-lead{font-size:14.5px;color:#6A6154;max-width:560px;margin:18px auto 0;line-height:1.95} .tg-col{display:flex;justify-content:center;align-items:baseline;gap:8px;color:#6A6154;font-size:14px}.tg-col b{font-size:30px;color:#A61E2D;font-weight:700}.tg-col i{font-style:normal;margin:0 10px} h2.sec{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;text-align:center;letter-spacing:.4em;color:#201C17;font-size:13px} h2.cat,.card .t,.feat h2,.sechead h2,.tile b,.srow .t,.rank a,.side h3{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} .tiles{counter-reset:r}.tile{counter-increment:r;border-radius:0;background:#FBF8F1;border:1px solid #D9CFBC;border-top:3px double var(--c)} .tile svg{display:none}.tile b::before{content:counter(r,upper-roman) \".\";display:block;font-family:Georgia,serif;font-size:22px;color:var(--c);margin-bottom:4px;letter-spacing:.06em} .card,.feat,.mhero,.srow,.about,.faq details,.empty,.trust div{border-radius:0}.card{background:#FBF8F1;border:1px solid #D9CFBC}.card:hover{border-color:#201C17;transform:none;box-shadow:4px 4px 0 #D9CFBC} .card .th img,.feat img{filter:sepia(.25) saturate(.8) contrast(1.02)} .feat .sh{background:linear-gradient(180deg,rgba(20,16,12,0) 25%,rgba(20,16,12,.85))!important}.feat h2,.feat p{color:#FBF8F1!important;-webkit-text-fill-color:#FBF8F1} .tag{border-radius:0;font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif}.ty{border-radius:0} .ticker .lb{background:#201C17;color:#F4EFE4;font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;letter-spacing:.3em} .two:has(.empty){grid-template-columns:1fr}.two section:has(.empty){display:none} .trust div{background:#FBF8F1;border:1px solid #D9CFBC} .gnav{justify-content:center}",
-  "articleCss": ":root{--bg:#F4EFE4;--card:#FBF8F1;--border:#D9CFBC;--text:#201C17;--muted:#6A6154;--accent:#A61E2D;--accent2:#201C17} body{background:#F4EFE4;font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif}nav{background:rgba(244,239,228,.92)!important} nav a.r{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;letter-spacing:.4em} h1{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;letter-spacing:.02em;line-height:1.5} .lead{font-size:17px;line-height:2} .answer,p.t,.step .dsc,details p{color:#3A342C} h2.sec{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;text-align:center;padding-top:22px;border-top:3px double #201C17} h2.sec .n{font-family:Georgia,serif;font-size:13px;letter-spacing:.3em} .summary{border-radius:0;border:1px solid #201C17;background:#FBF8F1;box-shadow:5px 5px 0 #D9CFBC} .summary h2{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;letter-spacing:.3em} .study,.step,.related,details,.note,.stat,.idea{border-radius:0;background:#FBF8F1} .ai-badge{border-radius:0}.tag{border-radius:0;font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} .hero img{border-radius:0;filter:sepia(.2) saturate(.85)}",
-  "extraNav": [
-    {
-      "label": "目的別ガイド",
-      "path": "/guide/"
-    },
-    {
-      "label": "用語集",
-      "path": "/glossary/"
-    },
-    {
-      "label": "哲学者と話せるアプリ",
-      "path": "/apps/tetsujin-friends/"
-    }
-  ],
-  "apps": [
-    {
-      "id": "tetsujin-friends",
-      "name": "哲人フレンド",
-      "appStoreId": "6809145872",
-      "icon": "/img/apps/tetsujin-friends.webp",
-      "catch": "哲学者を友達に追加すると、1日1回ほど向こうから話しかけてくる。返事はしてもしなくてもいい、LINEのような哲学者との会話",
-      "hubLead": "アプリで話せる哲学者たちの考えを、生活の言葉で解説した記事です。話す前に読んでも、話したあとに読み返しても。",
-      "theme": "アプリに登場する哲学者本人(ソクラテス、プラトン、アリストテレス、エピクテトス、セネカ、マルクス・アウレリウス、孔子、デカルト、カント、ニーチェ、ショーペンハウアー、サルトル、バタイユ、カフカ、ボードリヤール)の記事だけに付ける。登場しない哲学者や、概念・思考実験の記事には付けない",
-      "articles": [
-        "socrates-know-nothing",
-        "plato-allegory-of-the-cave",
-        "aristotle-eudaimonia",
-        "epictetus-dichotomy-of-control",
-        "confucius-ren",
-        "descartes-cogito",
-        "descartes-mind-body-dualism",
-        "kant-lying-categorical-imperative",
-        "nietzsche-god-is-dead",
-        "schopenhauer-will-pessimism",
-        "sartre-existence-precedes-essence",
-        "marcus-aurelius-meditations",
-        "seneca-shortness-of-life",
-        "kafka-metamorphosis",
-        "bataille-expenditure",
-        "baudrillard-simulacra",
-        "aristotle-golden-mean",
-        "kant-copernican-revolution"
-      ]
-    }
-  ],
-  "toolbox": [
-    {
-      "id": "tetsujin-friends",
-      "name": "哲人フレンド",
-      "desc": "ソクラテスやニーチェなど、哲学者と会話しながら考えを深める",
-      "appStoreId": "6809145872",
-      "all": true
-    }
+  [
+   "専門用語は必ず言い換えます",
+   "実存・弁証法などの専門用語は、初出で必ず生活の言葉に言い換えて説明します。"
   ]
+ ],
+ "mastheadHtml": "<div class=\"tg-mast\"><p class=\"tg-series\">SEADICE PHILOSOPHY LIBRARY</p><div class=\"tg-rule\" aria-hidden=\"true\"></div><h1>哲学</h1><p class=\"tg-en\">Philosophy, in plain words.</p><blockquote class=\"tg-quote\"><p>吟味されない生は、人間にとって生きるに値しない。</p><cite>プラトン『ソクラテスの弁明』</cite></blockquote><p class=\"tg-lead\">%LEAD%</p><div class=\"tg-rule\" aria-hidden=\"true\"></div><p class=\"tg-col\"><span>収録</span><b>%POSTS%</b><span>項目</span><i aria-hidden=\"true\">／</i><span>分野</span><b>%CATS%</b></p></div><!--mastend-->",
+ "extraCss": "body{background:#F4EFE4;background-image:radial-gradient(ellipse at 20% 0%,rgba(166,30,45,.04),transparent 50%),radial-gradient(ellipse at 100% 100%,rgba(120,90,40,.06),transparent 60%)} nav.top{background:rgba(244,239,228,.9);border-bottom:1px solid #201C17} .nav-logo{font-size:12px;letter-spacing:.24em;background:none;-webkit-text-fill-color:#6A6154;color:#6A6154} nav.top a.r{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-weight:700;font-size:16px;color:#201C17;letter-spacing:.4em} body,.card .d,.lead{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} .tg-mast{text-align:center;padding:26px 0 30px;margin-bottom:34px;border-bottom:3px double #201C17} .tg-series{font-size:12px;letter-spacing:.42em;color:#6A6154} .tg-rule{height:9px;margin:16px auto;max-width:320px;border-top:1px solid #201C17;border-bottom:3px solid #201C17} .tg-mast h1{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;font-size:clamp(76px,17vw,148px);font-weight:700;letter-spacing:.32em;text-indent:.32em;line-height:1.15;background:none;-webkit-text-fill-color:#201C17;color:#201C17} .tg-en{font-family:Georgia,\"Times New Roman\",serif;font-style:italic;font-size:17px;color:#6A6154;margin-top:4px} .tg-quote{margin:26px auto 0;max-width:560px}.tg-quote p{font-size:clamp(17px,3vw,21px);color:#201C17;line-height:1.8}.tg-quote p::before{content:\"“\";color:#A61E2D;margin-right:4px}.tg-quote p::after{content:\"”\";color:#A61E2D;margin-left:4px} .tg-quote cite{display:block;font-style:normal;font-size:13px;color:#6A6154;margin-top:6px} .tg-lead{font-size:14.5px;color:#6A6154;max-width:560px;margin:18px auto 0;line-height:1.95} .tg-col{display:flex;justify-content:center;align-items:baseline;gap:8px;color:#6A6154;font-size:14px}.tg-col b{font-size:30px;color:#A61E2D;font-weight:700}.tg-col i{font-style:normal;margin:0 10px} h2.sec{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;text-align:center;letter-spacing:.4em;color:#201C17;font-size:13px} h2.cat,.card .t,.feat h2,.sechead h2,.tile b,.srow .t,.rank a,.side h3{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} .tiles{counter-reset:r}.tile{counter-increment:r;border-radius:0;background:#FBF8F1;border:1px solid #D9CFBC;border-top:3px double var(--c)} .tile svg{display:none}.tile b::before{content:counter(r,upper-roman) \".\";display:block;font-family:Georgia,serif;font-size:22px;color:var(--c);margin-bottom:4px;letter-spacing:.06em} .card,.feat,.mhero,.srow,.about,.faq details,.empty,.trust div{border-radius:0}.card{background:#FBF8F1;border:1px solid #D9CFBC}.card:hover{border-color:#201C17;transform:none;box-shadow:4px 4px 0 #D9CFBC} .card .th img,.feat img{filter:sepia(.25) saturate(.8) contrast(1.02)} .feat .sh{background:linear-gradient(180deg,rgba(20,16,12,0) 25%,rgba(20,16,12,.85))!important}.feat h2,.feat p{color:#FBF8F1!important;-webkit-text-fill-color:#FBF8F1} .tag{border-radius:0;font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif}.ty{border-radius:0} .ticker .lb{background:#201C17;color:#F4EFE4;font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;letter-spacing:.3em} .two:has(.empty){grid-template-columns:1fr}.two section:has(.empty){display:none} .trust div{background:#FBF8F1;border:1px solid #D9CFBC} .gnav{justify-content:center}",
+ "articleCss": ":root{--bg:#F4EFE4;--card:#FBF8F1;--border:#D9CFBC;--text:#201C17;--muted:#6A6154;--accent:#A61E2D;--accent2:#201C17} body{background:#F4EFE4;font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif}nav{background:rgba(244,239,228,.92)!important} nav a.r{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;letter-spacing:.4em} h1{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;letter-spacing:.02em;line-height:1.5} .lead{font-size:17px;line-height:2} .answer,p.t,.step .dsc,details p{color:#3A342C} h2.sec{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;text-align:center;padding-top:22px;border-top:3px double #201C17} h2.sec .n{font-family:Georgia,serif;font-size:13px;letter-spacing:.3em} .summary{border-radius:0;border:1px solid #201C17;background:#FBF8F1;box-shadow:5px 5px 0 #D9CFBC} .summary h2{font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif;letter-spacing:.3em} .study,.step,.related,details,.note,.stat,.idea{border-radius:0;background:#FBF8F1} .ai-badge{border-radius:0}.tag{border-radius:0;font-family:\"Hiragino Mincho ProN\",\"Yu Mincho\",\"YuMincho\",\"Noto Serif JP\",serif} .hero img{border-radius:0;filter:sepia(.2) saturate(.85)}",
+ "extraNav": [
+  {
+   "label": "目的別ガイド",
+   "path": "/guide/"
+  },
+  {
+   "label": "用語集",
+   "path": "/glossary/"
+  },
+  {
+   "label": "哲学者と話せるアプリ",
+   "path": "/apps/tetsujin-friends/"
+  }
+ ],
+ "apps": [
+  {
+   "id": "tetsujin-friends",
+   "name": "哲人フレンド",
+   "appStoreId": "6809145872",
+   "icon": "/img/apps/tetsujin-friends.webp",
+   "catch": "哲学者を友達に追加すると、1日1回ほど向こうから話しかけてくる。返事はしてもしなくてもいい、LINEのような哲学者との会話",
+   "hubLead": "アプリで話せる哲学者たちの考えを、生活の言葉で解説した記事です。話す前に読んでも、話したあとに読み返しても。",
+   "theme": "アプリに登場する哲学者本人(ソクラテス、プラトン、アリストテレス、エピクテトス、セネカ、マルクス・アウレリウス、孔子、デカルト、カント、ニーチェ、ショーペンハウアー、サルトル、バタイユ、カフカ、ボードリヤール)の記事だけに付ける。登場しない哲学者や、概念・思考実験の記事には付けない",
+   "articles": [
+    "socrates-know-nothing",
+    "plato-allegory-of-the-cave",
+    "aristotle-eudaimonia",
+    "epictetus-dichotomy-of-control",
+    "confucius-ren",
+    "descartes-cogito",
+    "descartes-mind-body-dualism",
+    "kant-lying-categorical-imperative",
+    "nietzsche-god-is-dead",
+    "schopenhauer-will-pessimism",
+    "sartre-existence-precedes-essence",
+    "marcus-aurelius-meditations",
+    "seneca-shortness-of-life",
+    "kafka-metamorphosis",
+    "bataille-expenditure",
+    "baudrillard-simulacra",
+    "aristotle-golden-mean",
+    "kant-copernican-revolution"
+   ]
+  }
+ ],
+ "toolbox": [
+  {
+   "id": "tetsujin-friends",
+   "name": "哲人フレンド",
+   "desc": "ソクラテスやニーチェなど、哲学者と会話しながら考えを深める",
+   "appStoreId": "6809145872",
+   "all": true
+  }
+ ]
 }

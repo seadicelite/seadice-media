@@ -986,5 +986,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/International_White_Cane_Day_Queen_Street_Mall_and_Queen_St_Brisbane_P1340332.jpg/500px-International_White_Cane_Day_Queen_Street_Mall_and_Queen_St_Brisbane_P1340332.jpg",
   "og": "https://tetsugaku.seadice.win/img/merleau-ponty-body-subject-og.jpg",
   "local": true
+ },
+ "levinas-face-of-the-other": {
+  "file": "File:Tromsø Cathedral (domkirke) Norway interior. Pews (kirkebenker), pillars (bæresøyler), doors, sunlight, etc Wooden Gothic Revival style church 1861 Chr. H. Grosch 2019-04-04 DSC02260.jpg",
+  "src": "/img/levinas-face-of-the-other.jpg",
+  "src640": "/img/levinas-face-of-the-other-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "光が差し込む木造の教会内部。長椅子と柱が並ぶ",
+  "artist": "Wolfmann",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Troms%C3%B8_Cathedral_(domkirke)_Norway_interior._Pews_(kirkebenker),_pillars_(b%C3%A6res%C3%B8yler),_doors,_sunlight,_etc_Wooden_Gothic_Revival_style_church_1861_Chr._H._Grosch_2019-04-04_DSC02260.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Troms%C3%B8_Cathedral_%28domkirke%29_Norway_interior._Pews_%28kirkebenker%29%2C_pillars_%28b%C3%A6res%C3%B8yler%29%2C_doors%2C_sunlight%2C_etc_Wooden_Gothic_Revival_style_church_1861_Chr._H._Grosch_2019-04-04_DSC02260.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Troms%C3%B8_Cathedral_%28domkirke%29_Norway_interior._Pews_%28kirkebenker%29%2C_pillars_%28b%C3%A6res%C3%B8yler%29%2C_doors%2C_sunlight%2C_etc_Wooden_Gothic_Revival_style_church_1861_Chr._H._Grosch_2019-04-04_DSC02260.jpg/500px-thumbnail.jpg",
+  "og": "https://tetsugaku.seadice.win/img/levinas-face-of-the-other.jpg",
+  "local": true
  }
 }

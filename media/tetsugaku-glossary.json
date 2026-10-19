@@ -54,6 +54,15 @@
   ]
  },
  {
+  "id": "kao-levinas",
+  "term": "顔（レヴィナス）",
+  "en": "Face (Levinas)",
+  "def": "レヴィナスの「顔」は、目や鼻の形といった見た目の特徴ではなく、他者が私の理解や支配をすり抜けて迫ってくる、倫理的な出来事そのものを指す言葉です。",
+  "slugs": [
+   "levinas-face-of-the-other"
+  ]
+ },
+ {
   "id": "kigai-genri",
   "term": "危害原理",
   "en": "Harm principle",
