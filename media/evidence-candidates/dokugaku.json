@@ -5840,5 +5840,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-read-textbook-figures-graphs-how-to-look-at-figures",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Jian, \"Reading Instructions Influence Cognitive Processes of Illustrated Text Reading Not Subject Perception: An Eye-Tracking Study\" (Frontiers in Psychology, 2018)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2018.02263",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/read-textbook-figures-graphs-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "教科書の図、ちゃんと見てる？",
+        "body": "教科書を読むとき、図やグラフはなんとなく眺めて先へ進んじゃうこと、あるよね。図の読み方って、教わったら変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "読み方を10〜20分だけ教えた",
+        "body": "台湾の小学4年生に「図を指す文を探して見比べる」「ラベルを全部読む」「タイトルと説明文を確かめる」を教えて、目の動きを記録したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "図を見る時間が約2倍に",
+        "body": "教わった子は図を見る時間が46.7秒で、教わらない子の21.7秒の約2倍。図と文をつなぐ問題の正答も72%と50%で差が出たらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人でも、長く続くかは別",
+        "body": "小学生62人、花の文章1つだけの実験で、時間をおいたテストはしていない。大学生の別の研究では、図の読み方の練習が全体としては効かなかったよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

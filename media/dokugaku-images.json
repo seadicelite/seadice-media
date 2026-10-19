@@ -3398,5 +3398,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Spiralbinder%C3%BCcken_--_2022_--_9739_%28bw%29.jpg/500px-Spiralbinder%C3%BCcken_--_2022_--_9739_%28bw%29.jpg",
   "og": "https://dokugaku.seadice.win/img/unknown-words-while-reading-english-og.jpg",
   "local": true
+ },
+ "read-textbook-figures-graphs-how-to": {
+  "file": "File:LongitudinalProfileGotthardtbahnAndTunnelSwitzerland.jpg",
+  "src": "/img/read-textbook-figures-graphs-how-to.webp",
+  "src640": "/img/read-textbook-figures-graphs-how-to-sm.webp",
+  "w": 960,
+  "h": 631,
+  "alt": "凡例と軸のついた、ゴッタルド鉄道の高低を示す古い図",
+  "artist": "Dietler, Hermann (1839-10-01 - 1924-01-24); Röll, Victor Freiherr von (1852-05-2",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:LongitudinalProfileGotthardtbahnAndTunnelSwitzerland.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LongitudinalProfileGotthardtbahnAndTunnelSwitzerland.jpg/960px-LongitudinalProfileGotthardtbahnAndTunnelSwitzerland.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LongitudinalProfileGotthardtbahnAndTunnelSwitzerland.jpg/500px-LongitudinalProfileGotthardtbahnAndTunnelSwitzerland.jpg",
+  "og": "https://dokugaku.seadice.win/img/read-textbook-figures-graphs-how-to-og.jpg",
+  "local": true
  }
 }
