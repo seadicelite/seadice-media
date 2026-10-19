@@ -6539,5 +6539,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-wearable-activity-tracker-habit-research-tracker-dropoff",
+    "category": "習慣",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hermsen et al., \"Determinants for Sustained Use of an Activity Tracker: Observational Study\" (JMIR mHealth and uHealth, 2017)",
+    "sourceUrl": "https://doi.org/10.2196/mhealth.7311",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/wearable-activity-tracker-habit-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "活動量計、いつまで使う？",
+        "body": "買ったときはやる気満々でも、気づけば引き出しの中。活動量計って、みんな実際どれくらい使い続けているんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "711人の記録を320日分",
+        "body": "Hermsenらは、フランスの4つの都市部で活動量計（Fitbit Zip）を受け取った711人の記録を、320日分調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "320日後に使っていたのは16%",
+        "body": "100日後に使っていた人は73.9%、320日後は16.0%。平均すると129日だった。やめた理由で一番多かったのは、電池切れ・故障・紛失だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "続けたから歩いた、とは限らない",
+        "body": "長く使った人ほど歩数も多かったけど、比べる組のない観察研究。よく歩く人が長く使っただけかもしれないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
