@@ -3746,5 +3746,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Morning%2C_Interior_-_Luce.jpeg/500px-Morning%2C_Interior_-_Luce.jpeg",
   "og": "https://research.seadice.win/img/photo-taking-forget-memory-why-research.jpg",
   "local": true
+ },
+ "winter-low-mood-seasonal-why-research": {
+  "file": "File:Dülmen, Hausdülmen, Sonnenaufgang -- 2015 -- 4952.jpg",
+  "src": "/img/winter-low-mood-seasonal-why-research.jpg",
+  "src640": "/img/winter-low-mood-seasonal-why-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "冬の朝の日の出",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Hausd%C3%BClmen,_Sonnenaufgang_--_2015_--_4952.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Sonnenaufgang_--_2015_--_4952.jpg/960px-D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Sonnenaufgang_--_2015_--_4952.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Sonnenaufgang_--_2015_--_4952.jpg/500px-D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Sonnenaufgang_--_2015_--_4952.jpg",
+  "og": "https://research.seadice.win/img/winter-low-mood-seasonal-why-research.jpg",
+  "local": true
  }
 }

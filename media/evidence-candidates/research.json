@@ -6301,5 +6301,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-winter-low-mood-seasonal-why-research-serotonin-sunlight",
+    "category": "気分・ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lambert GW, Reid C, Kaye DM, Jennings GL, Esler MD, \"Effect of sunlight and season on serotonin turnover in the brain\" (The Lancet, 2002)",
+    "sourceUrl": "https://doi.org/10.1016/S0140-6736(02)11737-5",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/winter-low-mood-seasonal-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "冬に気分が重いのは日の短さのせい？",
+        "body": "日が短くなると、なんとなく気分が重い。それって本当に日の光と関係あるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "脳から出る血を調べた",
+        "body": "健康な男性101人の、脳から出てくる血液を調べて、気分に関わるセロトニンが脳でどれだけ使われているかを、季節や天気と比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "冬に一番低かった",
+        "body": "脳のセロトニンの入れ替わりは冬に一番低かった。脳がセロトニンを作る量は、その日の明るい日差しの時間が長いほど多かったらしい（r = 0.294）。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "気分は測っていない",
+        "body": "調べたのは男性だけで、気分そのものは測っていない。セロトニンの変化が冬の落ち込みの原因かどうかは、この研究だけではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
