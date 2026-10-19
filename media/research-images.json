@@ -3556,5 +3556,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Park_bench_John_Taylor_Park%2C_Largo%2C_Florida_01.JPG/500px-Park_bench_John_Taylor_Park%2C_Largo%2C_Florida_01.JPG",
   "og": "https://research.seadice.win/img/left-out-ignored-ostracism-recovery-research-og.jpg",
   "local": true
+ },
+ "mistake-after-mistake-focus-recovery-research": {
+  "file": "File:Pink Pearl eraser.jpg",
+  "src": "/img/mistake-after-mistake-focus-recovery-research.jpg",
+  "src640": "/img/mistake-after-mistake-focus-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ピンク色の消しゴム",
+  "artist": "ZooFari",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Pink_Pearl_eraser.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pink_Pearl_eraser.jpg/960px-Pink_Pearl_eraser.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pink_Pearl_eraser.jpg/500px-Pink_Pearl_eraser.jpg",
+  "og": "https://research.seadice.win/img/mistake-after-mistake-focus-recovery-research.jpg",
+  "local": true
  }
 }

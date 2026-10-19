@@ -5898,5 +5898,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-mistake-after-mistake-focus-recovery-research-pause",
+    "category": "集中力",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Danielmeier C, Ullsperger M, \"Post-error adjustments\" (Frontiers in Psychology, 2011)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2011.00233",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/mistake-after-mistake-focus-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ミスの後、なぜ遅くなる？",
+        "body": "ミスに気づいた直後って、手が一瞬止まるよね。あれは慎重になっているのかな、それとも気を取られているだけ？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "次までの間を変えてみた",
+        "body": "19人が矢印の向きを答える課題をくり返し、答えてから次の問題までの間を0.2秒・0.75秒・1.5秒・3秒にランダムに変えたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "遅くなるのは直後だけ",
+        "body": "間が0.2秒だと、ミスの次は平均59ミリ秒遅くなった。0.75秒以上あくと、遅れは見られなかったらしい。ミスの後で正確さが上がることもなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "仕事のミスでも同じ？",
+        "body": "1秒以下の速い判断をくり返す実験室の課題で、人数も19人。ふだんの仕事や勉強のミスに同じことが起きているかは、まだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
