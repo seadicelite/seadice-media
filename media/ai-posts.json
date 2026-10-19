@@ -1,5 +1,14 @@
 [
  {
+  "slug": "found-ai-fake-spreading-what-to-do",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-19",
+  "title": "SNSでAIの偽画像やデマが広まっているのを見つけた。研究では、早めの補足で拡散が減り、「AIだ」より「どこが違うか」を示す指摘が信頼された",
+  "summary": "広めずに早めに報告し、指摘するなら事実との違いを出典つきで1回。補足が付くとリポストは46%減っていました。"
+ },
+ {
   "slug": "search-to-check-fake-news-prepare",
   "category": "偽情報・ディープフェイク",
   "type": "guide",

@@ -2531,5 +2531,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Wooden_Card_Catalog_Furniture.jpg/500px-Wooden_Card_Catalog_Furniture.jpg",
   "og": "https://ai.seadice.win/img/search-to-check-fake-news-prepare-og.jpg",
   "local": true
+ },
+ "found-ai-fake-spreading-what-to-do": {
+  "file": "File:Seattle - Chinese Community Bulletin Board 03.jpg",
+  "src": "/img/found-ai-fake-spreading-what-to-do.webp",
+  "src640": "/img/found-ai-fake-spreading-what-to-do-sm.webp",
+  "w": 960,
+  "h": 638,
+  "alt": "張り紙が貼られた街角の掲示板",
+  "artist": "Joe Mabel",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Seattle_-_Chinese_Community_Bulletin_Board_03.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Seattle_-_Chinese_Community_Bulletin_Board_03.jpg/960px-Seattle_-_Chinese_Community_Bulletin_Board_03.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Seattle_-_Chinese_Community_Bulletin_Board_03.jpg/500px-Seattle_-_Chinese_Community_Bulletin_Board_03.jpg",
+  "og": "https://ai.seadice.win/img/found-ai-fake-spreading-what-to-do-og.jpg",
+  "local": true
  }
 }
