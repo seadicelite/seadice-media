@@ -5738,5 +5738,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-too-many-study-methods-cannot-choose-donation-set-size",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lindkvist & Luke, \"Set Size and Donation Behavior\" (Frontiers in Psychology, 2022)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2022.800528",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/too-many-study-methods-cannot-choose/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "選択肢が多いと人は選べなくなる？",
+        "body": "ジャムが24種類あると買う人が減った、という有名な実験があるよね。選択肢は少ない方がいい、という話はよく聞く。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "寄付先の数を2〜80に変えた",
+        "body": "LindkvistとLuke（2022）は、計画を事前に登録したオンライン実験で、501人に2〜80の寄付先から寄付するかを選んでもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "数が増えても寄付は減らなかった",
+        "body": "寄付先の数で、寄付する割合に意味のある差はなかった。どこに寄付したいかがはっきりしている人でも、していない人でも同じだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どんな時なら起きるのか",
+        "body": "寄付というひとつの場面の実験で、買い物や勉強の教材選びでも同じとは限らない。選択肢が複雑なときなど、起きやすい条件はまだ調べられている途中なんだ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

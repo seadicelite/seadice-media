@@ -3347,5 +3347,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wooden_Iranian_abacus_-_made_in_Nishapur_1.JPG/500px-Wooden_Iranian_abacus_-_made_in_Nishapur_1.JPG",
   "og": "https://dokugaku.seadice.win/img/math-anxiety-stuck-restart-og.jpg",
   "local": true
+ },
+ "too-many-study-methods-cannot-choose": {
+  "file": "File:Part of a bookshelf containing books by ancient philosophers (1.1).jpg",
+  "src": "/img/too-many-study-methods-cannot-choose.webp",
+  "src640": "/img/too-many-study-methods-cannot-choose-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "本棚に並んだ本",
+  "artist": "Roman Eisele",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Part_of_a_bookshelf_containing_books_by_ancient_philosophers_(1.1).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg/960px-Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg/500px-Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/too-many-study-methods-cannot-choose-og.jpg",
+  "local": true
  }
 }
