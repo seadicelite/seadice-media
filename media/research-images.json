@@ -3628,5 +3628,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Small_black_alarm_clock_on_a_desk.jpg/500px-Small_black_alarm_clock_on_a_desk.jpg",
   "og": "https://research.seadice.win/img/procrastination-adhd-worry-inattention-recovery-research.jpg",
   "local": true
+ },
+ "bedtime-music-sleep-how-research": {
+  "file": "File:Bose QuietComfort 25 Acoustic Noise Cancelling Headphones with Carry Case.jpg",
+  "src": "/img/bedtime-music-sleep-how-research.jpg",
+  "src640": "/img/bedtime-music-sleep-how-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ヘッドホン",
+  "artist": "Florian Fuchs",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones_with_Carry_Case.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones_with_Carry_Case.jpg/960px-Bose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones_with_Carry_Case.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones_with_Carry_Case.jpg/500px-Bose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones_with_Carry_Case.jpg",
+  "og": "https://research.seadice.win/img/bedtime-music-sleep-how-research.jpg",
+  "local": true
  }
 }

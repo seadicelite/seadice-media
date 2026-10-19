@@ -6034,5 +6034,73 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-bedtime-music-sleep-how-research-cochrane",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Jespersen KV et al., \"Listening to music for insomnia in adults\" (Cochrane Database of Systematic Reviews, 2022)",
+    "sourceUrl": "https://doi.org/10.1002/14651858.CD010459.pub3",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/bedtime-music-sleep-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "寝る前の音楽で眠れる？",
+        "body": "眠れない夜は、静かな音楽をかけるといいってよく聞くよね。実際のところ、研究ではどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "13件・1007人をまとめた",
+        "body": "不眠の症状がある18〜83歳の大人を対象にした13件の研究を、コクラン・レビューがまとめたんだ。多くは寝るときに毎日25〜60分、ゆっくりした曲を聴く形だった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「眠れた感じ」はよくなった",
+        "body": "音楽を聴いた人は、眠りの質のアンケートが平均2.79点よくなった。証拠の確かさは「中程度」と評価されているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "機器で測ると差がない",
+        "body": "機器で睡眠を測った3件・136人では、寝つきや睡眠効率の改善は見られなかった。本人が音楽を聴いているとわかるので、思い込みの影響も除けないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-bedtime-music-sleep-how-research-earworm",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Scullin MK, Gao C, Fillmore P, \"Bedtime Music, Involuntary Musical Imagery, and Sleep\" (Psychological Science, 2021)",
+    "sourceUrl": "https://doi.org/10.1177/0956797621989724",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/bedtime-music-sleep-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "寝る前の曲が頭で回る",
+        "body": "寝る前に聴いた曲が、布団に入っても頭の中でずっと流れていることってあるよね。あれは眠りに影響するんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ヒット曲を聴いて眠る実験",
+        "body": "若い大人50人が、ヒット曲3曲の歌あり版か歌なし版を寝る前に聴いて、実験室で眠りを機器で測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "歌なし版で眠りが浅く",
+        "body": "歌なし版を聴いた人のほうが夜中に曲が頭で回りやすく、寝つくまでが長くて、眠りの効率も下がっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "静かな曲でも同じ？",
+        "body": "使ったのは口ずさめるポップ曲で、1晩だけ・50人の実験。眠り向けの静かな曲でも同じことが起きるかはわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
