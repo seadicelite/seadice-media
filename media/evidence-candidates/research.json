@@ -6102,5 +6102,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-worry-time-postponement-how-research-online",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Versluis A, Verkuil B, Brosschot JF, \"Reducing worry and subjective health complaints: A randomized trial of an internet-delivered worry postponement intervention\" (British Journal of Health Psychology, 2016)",
+    "sourceUrl": "https://doi.org/10.1111/bjhp.12170",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/worry-time-postponement-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "心配は「後で考える」",
+        "body": "心配ごとは、決めた時間にまとめて考えると減るって言われるよね。紙で記録した研究では、心配が減ったという報告もあるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ネットで試したら？",
+        "body": "オランダの研究では、一般の大人がウェブで6日間、心配を記録した。半分の人には、心配を夕方の30分に先送りするよう伝えたんだ。最後まで続けたのは361人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "記録だけと差がなかった",
+        "body": "先送りした163人と記録だけの188人で、心配の回数や長さ、体の不調に差はなかった。参加者は「先送りが難しい」と答えていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "伝え方しだい？",
+        "body": "紙や対面の研究では効果が出たこともあって、なぜ違ったのかはまだわからない。著者らは、ネットで指示するだけでは足りないのかもしれないと考えているよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
