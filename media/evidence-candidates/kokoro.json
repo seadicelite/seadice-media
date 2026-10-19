@@ -5475,5 +5475,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-willpower-belief-focus-recover-diary",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bernecker K & Job V, \"Beliefs about willpower moderate the effect of previous day demands on next day's expectations and effective goal striving\" (Frontiers in Psychology, 2015)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2015.01496",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/willpower-belief-focus-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "気力は使えば減る？",
+        "body": "頭を使いすぎると気力が減って、休まないと戻らない。よく聞く話だよね。実は、そう信じているかどうかが関係しているかもしれない、という研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生157人の日記",
+        "body": "スイスの大学生157人に、学期中の2回、月曜から金曜まで毎日、朝と夜に答えてもらったよ。夜は「今日はどのくらい大変だったか」、朝は「いやな作業がどのくらい進みそうか」を聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "大変だった翌日に差が出た",
+        "body": "いつもより大変だった日の翌日、「頭を使うと気力は減る」と考える人は、そう考えない人より作業がはかどっていなかった。そう考えない人は、大変だった翌日のほうがかえってはかどっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "考え方のせい？",
+        "body": "記録から関連を見た研究で、考え方を変えた実験ではないよ。参加者は「気力は減らない」寄りの人が多く、ほかの集団で同じになるかはわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

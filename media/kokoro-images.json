@@ -4630,5 +4630,23 @@
   "licenseUrl": "https://web.archive.org/web/20230926203737/https://creativecommons.org/licenses/publicdomain/",
   "page": "https://commons.wikimedia.org/wiki/File:Gfp-lecture-hall.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "willpower-belief-focus-recover": {
+  "file": "File:Writing desk of Pierre Victor de Besenval.jpg",
+  "src": "/img/willpower-belief-focus-recover.jpg",
+  "src640": "/img/willpower-belief-focus-recover-sm.jpg",
+  "w": 960,
+  "h": 543,
+  "alt": "木の書き物机",
+  "artist": "John Jason Junior",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Writing_desk_of_Pierre_Victor_de_Besenval.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Writing_desk_of_Pierre_Victor_de_Besenval.jpg/960px-Writing_desk_of_Pierre_Victor_de_Besenval.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Writing_desk_of_Pierre_Victor_de_Besenval.jpg/500px-Writing_desk_of_Pierre_Victor_de_Besenval.jpg",
+  "og": "https://mentalai.seadice.win/img/willpower-belief-focus-recover.jpg",
+  "local": true
  }
 }
