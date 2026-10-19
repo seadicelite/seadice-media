@@ -4758,5 +4758,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hiking_trail_on_N%C3%A1mafjall_Mountain%2C_Iceland%2C_20240716_1130_1346.jpg/500px-Hiking_trail_on_N%C3%A1mafjall_Mountain%2C_Iceland%2C_20240716_1130_1346.jpg",
   "og": "https://mentalai.seadice.win/img/couple-routine-new-activities-prevent-og.jpg",
   "local": true
+ },
+ "weekend-work-email-phone-prevent": {
+  "file": "File:Desktop after work (Unsplash).jpg",
+  "src": "/img/weekend-work-email-phone-prevent.webp",
+  "src640": "/img/weekend-work-email-phone-prevent-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "仕事を終えた机の上のノートパソコンと椅子",
+  "artist": "Luca Bravo lucabravo",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Desktop_after_work_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Desktop_after_work_%28Unsplash%29.jpg/960px-Desktop_after_work_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Desktop_after_work_%28Unsplash%29.jpg/500px-Desktop_after_work_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/weekend-work-email-phone-prevent-og.jpg",
+  "local": true
  }
 }

@@ -5781,5 +5781,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-weekend-work-email-phone-prevent-uninstall-weekend",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bartels K et al., \"Reducing Work-Related Screen-Time in Healthcare Workers During Leisure Time (REDUCE SCREEN) – A Randomized Controlled Trial\" (Journal of Medical Systems, 2026)",
+    "sourceUrl": "https://doi.org/10.1007/s10916-026-02338-9",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/weekend-work-email-phone-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "休みの日も仕事のメールを見ちゃう",
+        "body": "スマホに仕事のアプリが入っていると、休みの日でもつい開いちゃうよね。前もって離れる準備をしたら、週末はもっと休まるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "週末の前に3つの工夫を勧めた",
+        "body": "米国の医療職を2組に分けて、片方にだけ「自動返信を設定する・画面時間を減らす・仕事アプリを消す」を勧めた実験。週末明けに答えたのは520人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ストレスの下がり方が約2倍",
+        "body": "週末のあいだのストレス点数（0〜40点）の下がり幅は、中央値で勧めた組が4点、勧めなかった組が2点。1日の画面時間も中央値で1時間減っていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く続くかはまだ不明",
+        "body": "調べたのは週末1回だけで、3人に1人は最後まで答えていない。毎週続けたときの効果や、医療職以外でも同じかは、まだわかっていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
