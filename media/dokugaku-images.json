@@ -3553,5 +3553,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alder_catkins_-_geograph.org.uk_-_7401454.jpg/500px-Alder_catkins_-_geograph.org.uk_-_7401454.jpg",
   "og": "https://dokugaku.seadice.win/img/hay-fever-study-focus-reset.jpg",
   "local": true
+ },
+ "slide-photos-instead-of-notes-reset": {
+  "file": "File:University of Buffalo Natural Sciences Complex.jpg",
+  "src": "/img/slide-photos-instead-of-notes-reset.jpg",
+  "src640": "/img/slide-photos-instead-of-notes-reset-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "冬の大学の校舎",
+  "artist": "Breadchastick",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:University_of_Buffalo_Natural_Sciences_Complex.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/University_of_Buffalo_Natural_Sciences_Complex.jpg/960px-University_of_Buffalo_Natural_Sciences_Complex.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/University_of_Buffalo_Natural_Sciences_Complex.jpg/960px-University_of_Buffalo_Natural_Sciences_Complex.jpg",
+  "og": "https://dokugaku.seadice.win/img/slide-photos-instead-of-notes-reset.jpg",
+  "local": true
  }
 }

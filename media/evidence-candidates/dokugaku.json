@@ -6180,5 +6180,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-slide-photos-instead-of-notes-reset-doodling",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Spencer-Mueller & Fenske, \"Note-taking for the win: Doodling does not reduce boredom or mind-wandering, nor enhance attention or retention of lecture material\" (Quarterly Journal of Experimental Psychology, 2024)",
+    "sourceUrl": "https://doi.org/10.1177/17470218231222402",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/slide-photos-instead-of-notes-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "落書きしながら聞くと、集中できる？",
+        "body": "退屈な話を聞くとき、手を動かして落書きすると眠くならず、内容も頭に入りやすいって聞いたことあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "45分の講義を4通りで聞いてもらった",
+        "body": "カナダの大学生172人を「聞くだけ」「図形を塗る落書き」「自由な落書き」「メモを取る」の4グループに分けて、退屈になりやすい45分の講義を聞いてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "いちばん覚えていたのはメモの人",
+        "body": "28問のテストの平均は、メモが19.09問、聞くだけが16.63問。落書きの2グループは15.69〜15.95問で、聞くだけよりよくならなかった。メモの人は、心がそれるのも少なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "講義1本、大学生だけの結果",
+        "body": "落書きが記憶を助けたという以前の実験とは条件が違う。講義は1本だけで、大人の学び直しや別の分野でも同じかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
