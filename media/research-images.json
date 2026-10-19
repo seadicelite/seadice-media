@@ -3862,5 +3862,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Omega_3_Fish_oil_softgel_capsules.jpg/500px-Omega_3_Fish_oil_softgel_capsules.jpg",
   "og": "https://research.seadice.win/img/dha-omega3-supplement-memory-research-og.jpg",
   "local": true
+ },
+ "mindfulness-meditation-procrastination-research": {
+  "file": "File:The Wall St Zendo doors.jpg",
+  "src": "/img/mindfulness-meditation-procrastination-research.webp",
+  "src640": "/img/mindfulness-meditation-procrastination-research-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "瞑想室の入口と、棚に積まれた座布団",
+  "artist": "Xinxin Ming",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Wall_St_Zendo_doors.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_Wall_St_Zendo_doors.jpg/960px-The_Wall_St_Zendo_doors.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_Wall_St_Zendo_doors.jpg/500px-The_Wall_St_Zendo_doors.jpg",
+  "og": "https://research.seadice.win/img/mindfulness-meditation-procrastination-research-og.jpg",
+  "local": true
  }
 }

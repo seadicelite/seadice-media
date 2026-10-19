@@ -6607,5 +6607,73 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-mindfulness-meditation-procrastination-research-trait-meta",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mao et al., \"Mindfulness matters: Unveiling the relationship between trait mindfulness and procrastination - A three level meta-analysis\" (The Journal of General Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.1080/00221309.2024.2407426",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/mindfulness-meditation-procrastination-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "マインドフルネスで先延ばしが減る？",
+        "body": "「マインドフルネスをすると先延ばしが減る」って聞いたことあるよね。今の気持ちに気づく練習が、やる気の出ない作業にも効くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "19の研究、1万4,094人",
+        "body": "Maoらは、マインドフルネスの高さと先延ばしの関係を調べた19の研究（36のデータ、1万4,094人）をまとめたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "高い人ほど先延ばしが少ない",
+        "body": "マインドフルネスが高い人ほど先延ばしが少ない、というはっきりしたつながりがあった（相関 r = −0.365）。調べた条件の違いで結果が変わる様子もなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "瞑想の効果ではない",
+        "body": "まとめたのは、性格としてのマインドフルネスを質問紙で測った研究。瞑想を習えば先延ばしが減るかは、この分析ではわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-mindfulness-meditation-procrastination-research-single-session",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mousavi et al., \"Acceptance and Commitment Therapy and Cognitive Behavioural Therapy Single-Session Interventions Reduce Procrastination among Students Compared to a Control Group: The CONCRAS Study\" (Psychotherapy and Psychosomatics, 2026)",
+    "sourceUrl": "https://doi.org/10.1159/pps/aemag001",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/mindfulness-meditation-procrastination-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "1回の面談で先延ばしは変わる？",
+        "body": "先延ばしを直すには、何週間もかかりそうな気がするよね。たった1回、話を聞くだけで変わることってあるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "約60分の面談を1回だけ",
+        "body": "Mousaviらは、先延ばし中の課題がある学生151人を3組に分けた。気持ちを受け止めて行動するACTの面談、認知行動療法の面談、何もしない組だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "どちらの面談も先延ばしが減った",
+        "body": "2週間後までの測定で、2つの面談はどちらも何もしない組より先延ばしが大きく減った。2つの方法の差はなく、効果を期待していた人ほどよく改善したらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "2週間より先は不明",
+        "body": "追跡は2週間まで。何か月も効果が続くのか、瞑想アプリだけで同じ効果が出るのかは、まだわかっていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
