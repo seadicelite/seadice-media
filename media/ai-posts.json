@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ask-ai-is-this-news-true",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-19",
+  "title": "ニュースが本当かどうか、AIに聞けば確かめられる？研究では、AIの判定を見せても見分ける力は上がらず、人のファクトチェックでは上がった",
+  "summary": "米国2,159人の実験では、AIの真偽判定を見ても見分ける力は上がらず、AIが誤ると本当のニュースまで疑われた。答えは手がかりとして使う。"
+ },
+ {
   "slug": "ai-companion-hurtful-sexual-messages",
   "category": "人間関係・孤独",
   "type": "guide",
