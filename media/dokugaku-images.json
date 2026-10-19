@@ -3535,5 +3535,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Glasses_on_a_Table_%2836692283265%29.jpg/500px-Glasses_on_a_Table_%2836692283265%29.jpg",
   "og": "https://dokugaku.seadice.win/img/drinking-night-before-study-memory-reset.jpg",
   "local": true
+ },
+ "hay-fever-study-focus-reset": {
+  "file": "File:Alder catkins - geograph.org.uk - 7401454.jpg",
+  "src": "/img/hay-fever-study-focus-reset.jpg",
+  "src640": "/img/hay-fever-study-focus-reset-sm.jpg",
+  "w": 960,
+  "h": 776,
+  "alt": "花粉を飛ばすハンノキの花穂",
+  "artist": "David Lally",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Alder_catkins_-_geograph.org.uk_-_7401454.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alder_catkins_-_geograph.org.uk_-_7401454.jpg/960px-Alder_catkins_-_geograph.org.uk_-_7401454.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alder_catkins_-_geograph.org.uk_-_7401454.jpg/500px-Alder_catkins_-_geograph.org.uk_-_7401454.jpg",
+  "og": "https://dokugaku.seadice.win/img/hay-fever-study-focus-reset.jpg",
+  "local": true
  }
 }

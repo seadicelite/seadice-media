@@ -6146,5 +6146,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-hay-fever-study-focus-reset-exam-grades",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Walker et al., \"Seasonal allergic rhinitis is associated with a detrimental effect on examination performance in United Kingdom teenagers: case-control study\" (Journal of Allergy and Clinical Immunology, 2007)",
+    "sourceUrl": "https://doi.org/10.1016/j.jaci.2007.03.034",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/hay-fever-study-focus-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "気になる疑問",
+        "title": "花粉症って、試験の点にも響く？",
+        "body": "花粉の季節は鼻も目もつらくて、勉強どころじゃない日があるよね。じゃあ、試験の成績にまで差が出るのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "イギリスの15〜17歳1,834人を比べた",
+        "body": "冬の模試から夏の本試験にかけて、成績を1段階以上落とした662人と、落とさなかった1,172人を比べたんだ。試験の日のどれかに症状があった生徒は38〜43%いた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "症状がある人ほど、成績を落としやすかった",
+        "body": "症状があった生徒は成績を落とす側に入りやすかった（オッズ比1.4）。眠くなるタイプの薬を飲んでいた生徒では1.7と、さらに高かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "花粉症が原因とまでは言えない",
+        "body": "結果を見比べた観察研究なので、花粉症が成績を下げたとまでは言い切れない。大人の資格試験でも同じかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
