@@ -3723,5 +3723,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bento_at_Hanabishi%2C_Koyasan.jpg/500px-Bento_at_Hanabishi%2C_Koyasan.jpg",
   "og": "https://dokugaku.seadice.win/img/lunch-break-study-how-to.jpg",
   "local": true
+ },
+ "why-curiosity-helps-memory": {
+  "file": "File:Question mark butterfly (21459).jpg",
+  "src": "/img/why-curiosity-helps-memory.jpg",
+  "src640": "/img/why-curiosity-helps-memory-sm.jpg",
+  "w": 960,
+  "h": 773,
+  "alt": "羽の裏に「？」形の模様があるチョウ（クエスチョンマーク）",
+  "artist": "Rhododendrites",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Question_mark_butterfly_(21459).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Question_mark_butterfly_%2821459%29.jpg/1280px-Question_mark_butterfly_%2821459%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Question_mark_butterfly_%2821459%29.jpg/500px-Question_mark_butterfly_%2821459%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-curiosity-helps-memory.jpg",
+  "local": true
  }
 }
