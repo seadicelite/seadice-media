@@ -6743,5 +6743,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-summary-notes-forgot-recovery-research-notes-vs-testing",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rummer et al., \"Is testing a more effective learning strategy than note-taking?\" (Journal of Experimental Psychology: Applied, 2017)",
+    "sourceUrl": "https://doi.org/10.1037/xap0000134",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/summary-notes-forgot-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "きれいにまとめれば、覚えられる？",
+        "body": "ノートをていねいにまとめれば、テストでも思い出せるはず。そう信じて色ペンを握る人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "読む・ノート・テストを比べた",
+        "body": "Rummerらは、参加者を「くり返し読む」「くり返しノートを取る」「くり返しテストする」に分けて、5分後・1週間後・2週間後に成績を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "直後はノート、2週間後はテスト",
+        "body": "5分後はノートを取った組が一番。でも2週間後は、テストした組がほかを上回った。ノートを取った後も、読み返すよりテストしたほうが2週間後によく覚えていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実験室の文章での話",
+        "body": "実験室で文章を覚える実験で、実際の授業や計算問題でも同じかは別に確かめる必要があるよ。ノートを取ること自体がむだという意味でもないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

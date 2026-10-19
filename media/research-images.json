@@ -3914,5 +3914,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Woman_stretches_at_home_office_desk_while_working_on_laptop.jpg/500px-Woman_stretches_at_home_office_desk_while_working_on_laptop.jpg",
   "og": "https://research.seadice.win/img/wfh-focus-slump-recovery-research.jpg",
   "local": true
+ },
+ "summary-notes-forgot-recovery-research": {
+  "file": "File:Woman studies at a desk with a laptop notebook and drink in a bright room.jpg",
+  "src": "/img/summary-notes-forgot-recovery-research.jpg",
+  "src640": "/img/summary-notes-forgot-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "開いたノートにペンで書き込む手元",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg/960px-Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg/500px-Woman_studies_at_a_desk_with_a_laptop_notebook_and_drink_in_a_bright_room.jpg",
+  "og": "https://research.seadice.win/img/summary-notes-forgot-recovery-research.jpg",
+  "local": true
  }
 }
