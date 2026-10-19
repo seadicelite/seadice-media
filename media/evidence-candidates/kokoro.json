@@ -5509,5 +5509,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-white-noise-focus-chatter-volume",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Awada M et al., \"Cognitive performance, creativity and stress levels of neurotypical young adults under different white noise levels\" (Scientific Reports, 2022)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-022-18862-w",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/white-noise-focus-chatter/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ホワイトノイズで集中できる？",
+        "body": "「ザー」というホワイトノイズを流すと集中できる、ってよく聞くよね。米国で、音量を変えて確かめた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "39人が3つの音で作業",
+        "body": "米国の大学院生39人が、静かな個室で、45デシベルのホワイトノイズ、65デシベルのホワイトノイズ、部屋の音のまま、の3つの条件で同じような課題をしたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "小さめの音は少し上がった",
+        "body": "45デシベルでは、注意を保つ課題の正答率が93.1%から95.2%に上がった。でも65デシベルでは、文章を打ち込む作業の打ち間違いが増えていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "話し声のある職場では？",
+        "body": "実験は静かな個室での1回きりで、人数も少なめ。話し声を覆い隠したときの効果はわからないし、ADHDでない人の研究をまとめると、逆に少し下がっていたという結果もあるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
