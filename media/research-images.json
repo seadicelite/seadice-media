@@ -3728,5 +3728,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/%E3%82%BB%E3%83%AB%E3%83%95%E5%85%85%E9%9B%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9_%2821274923799%29.jpg/500px-%E3%82%BB%E3%83%AB%E3%83%95%E5%85%85%E9%9B%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9_%2821274923799%29.jpg",
   "og": "https://research.seadice.win/img/phone-escape-procrastination-disconnect-how-research.jpg",
   "local": true
+ },
+ "photo-taking-forget-memory-why-research": {
+  "file": "File:Morning, Interior - Luce.jpeg",
+  "src": "/img/photo-taking-forget-memory-why-research.jpg",
+  "src640": "/img/photo-taking-forget-memory-why-research-sm.jpg",
+  "w": 960,
+  "h": 774,
+  "alt": "リュスの絵画「朝、室内」",
+  "artist": "Maximilien Luce",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Morning,_Interior_-_Luce.jpeg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Morning%2C_Interior_-_Luce.jpeg/960px-Morning%2C_Interior_-_Luce.jpeg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Morning%2C_Interior_-_Luce.jpeg/500px-Morning%2C_Interior_-_Luce.jpeg",
+  "og": "https://research.seadice.win/img/photo-taking-forget-memory-why-research.jpg",
+  "local": true
  }
 }

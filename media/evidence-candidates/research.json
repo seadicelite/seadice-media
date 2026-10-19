@@ -6267,5 +6267,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "research-photo-taking-forget-memory-why-research-five-photos",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Soares JS, Storm BC, \"Does taking multiple photos lead to a photo-taking-impairment effect?\" (Psychonomic Bulletin & Review, 2022)",
+    "sourceUrl": "https://doi.org/10.3758/s13423-022-02149-2",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/photo-taking-forget-memory-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "たくさん撮れば思い出も残る？",
+        "body": "大事な場面は何枚も撮っておけば安心、って思うよね。でも写真を撮ると、撮ったものを覚えにくくなる「撮ると忘れる」効果が知られているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "撮らない・1回・5回を比べた",
+        "body": "アメリカの大学生が、絵の画像を見て「撮らない」「1回撮る」「5回撮る」のどれかをして、あとで絵の細かいところを答えた。実験は3つで、60人・96人・243人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "5回撮ると一番忘れた",
+        "body": "3つの実験すべてで、5回撮った絵はただ見た絵より覚えていなかった。まとめると効果の大きさは5回でd = 0.62、1回でd = 0.35。違う写真を5枚撮ってと言われても同じだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本物の旅行でも同じ？",
+        "body": "画面に映した絵を指示どおりに撮る実験室の話。自分で選んで撮ると見た物をよく覚えていた研究や、効果が出なかった研究もあって、普段の撮り方でどうなるかはまだはっきりしないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
