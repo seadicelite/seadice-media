@@ -5747,5 +5747,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-couple-routine-new-activities-prevent-exciting-dates",
+    "category": "人とのつながり",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Harasymchuk C et al., \"Planning date nights that promote closeness: The roles of relationship goals and self-expansion\" (Journal of Social and Personal Relationships, 2021)",
+    "sourceUrl": "https://doi.org/10.1177/02654075211000436",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/couple-routine-new-activities-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "マンネリには「デートの日」がいい？",
+        "body": "長く付き合うと、毎日が同じことの繰り返しになりがち。よく「二人でデートの日をつくろう」と言われるけど、何をしても同じなのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "デートを計画して、実際に出かけてもらった",
+        "body": "米国の恋人や夫婦がいる人に、パートナーとのデートを1つ計画してもらい、約1週間以内に出かけたあとの感想を聞いたんだ。答えたのは150人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "わくわくする内容ほど、近づいた感じが強かった",
+        "body": "計画したデートを「わくわくする」と感じていた人ほど、新しい見方が得られたと感じ、相手と近づいた感じも強かった（相関0.43）らしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "わくわくが原因かはまだわからない",
+        "body": "同じ人の答えどうしの関連で、パートナー側の感じ方は調べていない。外の人が評価したわくわく度と近さの関連は、ほとんどなかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
