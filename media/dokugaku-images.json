@@ -3364,5 +3364,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg/500px-Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg",
   "og": "https://dokugaku.seadice.win/img/too-many-study-methods-cannot-choose-og.jpg",
   "local": true
+ },
+ "gamify-self-study-how-to": {
+  "file": "File:Dice Board Game Lounge, Southsea.jpg",
+  "src": "/img/gamify-self-study-how-to.webp",
+  "src640": "/img/gamify-self-study-how-to-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "ボードゲームのさいころ",
+  "artist": "Tim Sheerman-Chase",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dice_Board_Game_Lounge,_Southsea.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dice_Board_Game_Lounge%2C_Southsea.jpg/960px-Dice_Board_Game_Lounge%2C_Southsea.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dice_Board_Game_Lounge%2C_Southsea.jpg/500px-Dice_Board_Game_Lounge%2C_Southsea.jpg",
+  "og": "https://dokugaku.seadice.win/img/gamify-self-study-how-to-og.jpg",
+  "local": true
  }
 }

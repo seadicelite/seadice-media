@@ -5772,5 +5772,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-gamify-self-study-how-to-cognitive-training-motivation",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vermeir et al., \"The Effects of Gamification on Computerized Cognitive Training: Systematic Review and Meta-Analysis\" (JMIR Serious Games, 2020)",
+    "sourceUrl": "https://doi.org/10.2196/18644",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/gamify-self-study-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ゲームっぽくすれば頭も鍛えられる？",
+        "body": "ポイントやごほうびをつけて楽しくすれば、脳トレも勉強も、もっと効果が出そうな気がするよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "9つの比較試験をまとめた",
+        "body": "Vermeirら（2020）は、パソコンの脳トレにゲームの要素を足した研究を集め、9つのランダム化比較試験をまとめて分析した。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "やる気は上がった、力は同じ",
+        "body": "ゲーム化した課題はやる気やのめり込みが高まった（g＝0.72）。でも、鍛えようとした記憶力などの伸びには差がなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "研究の数がまだ少ない",
+        "body": "まとめられた研究は9つだけ。ごほうびと点数の表示が中心で、競争などの仕組みが力の伸びにどう効くかは、まだよくわかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

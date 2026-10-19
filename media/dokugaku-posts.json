@@ -1,5 +1,13 @@
 [
   {
+    "slug": "gamify-self-study-how-to",
+    "category": "続け方・習慣",
+    "type": "guide",
+    "date": "2026-10-19",
+    "title": "勉強をゲームのようにして続けるには？ポイント・進み具合・1週間チャレンジの使い方（ゲーミフィケーションのメタ分析と、その限界）",
+    "summary": "教育のゲーム化は学ぶ行動に中くらいの効果（d＝0.48）。ただ長く続けると弱まりやすい。点は解けた問題につけ、短いチャレンジを入れ替える。"
+  },
+  {
     "slug": "too-many-study-methods-cannot-choose",
     "category": "勉強法",
     "type": "guide",
