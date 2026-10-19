@@ -4724,5 +4724,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Red_jigsaw_puzzle_pieces_2.jpg/500px-Red_jigsaw_puzzle_pieces_2.jpg",
   "og": "https://mentalai.seadice.win/img/ai-unavailable-restless-og.jpg",
   "local": true
+ },
+ "comparison-effort-self-talk": {
+  "file": "File:New text notebook (Unsplash).jpg",
+  "src": "/img/comparison-effort-self-talk.webp",
+  "src640": "/img/comparison-effort-self-talk-sm.webp",
+  "w": 960,
+  "h": 641,
+  "alt": "ノートとペン",
+  "artist": "Dana Marin amsterdamian",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:New_text_notebook_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/New_text_notebook_%28Unsplash%29.jpg/960px-New_text_notebook_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/New_text_notebook_%28Unsplash%29.jpg/500px-New_text_notebook_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/comparison-effort-self-talk-og.jpg",
+  "local": true
  }
 }

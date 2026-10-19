@@ -5645,5 +5645,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-comparison-effort-self-talk-do-my-best",
+    "category": "比べて落ち込む",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Thomaes S et al., \"Effort Self-Talk Benefits the Mathematics Performance of Children With Negative Competence Beliefs\" (Child Development, 2020)",
+    "sourceUrl": "https://doi.org/10.1111/cdev.13347",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/comparison-effort-self-talk/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "「自分はできる」と唱えると強くなれる？",
+        "body": "自信がないときは「自分は得意だ」と言い聞かせよう、ってよく聞くよね。でも、言葉の中身で結果は変わるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "小学生212人が、テストの途中で唱えた",
+        "body": "オランダの実験。算数のテストの前半のあと、「精一杯やる！」「自分はとても得意だ！」のどちらかを約30秒心の中でくり返すか、何もしないかに、くじで分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効いたのは「精一杯やる」のほう",
+        "body": "何もしない組と「得意だ」の組では、自信のない子ほど後半の成績が下がっていた。「精一杯やる」の組では、この下がり方が見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人の落ち込みにも効く？",
+        "body": "子どもの算数の成績を1回調べた実験で、気分は測っていないんだ。大人が人と比べて落ち込んだときに同じ効果があるかは、まだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
