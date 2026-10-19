@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-scribe-clinic-recording-consent",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-20",
+  "title": "診察で「AIで会話を記録してもいいですか」と聞かれた。同意する前に何を確かめる？研究では使った患者の7割が役立ったと答え、不安は正確さと個人情報に集まっていた。録音の行き先と断れるかを先に聞いておく",
+  "summary": "診察のAI記録に同意する前に。米国の研究では患者の70.1%が役立ったと回答。録音・閲覧者・ほかの使い道・断れるかの4つを聞く"
+ },
+ {
   "slug": "anonymous-posts-ai-identify-author",
   "category": "プライバシー・個人情報",
   "type": "guide",
