@@ -1,0 +1,53 @@
+{
+ "tenpi-drying-why-puff": {
+  "file": "File:Drying Javanese rice crackers (karak) in the sun.jpg",
+  "src": "/img/tenpi-drying-why-puff.webp",
+  "src640": "/img/tenpi-drying-why-puff-sm.webp",
+  "w": 960,
+  "h": 716,
+  "alt": "竹の台に並べて天日で干しているジャワの米菓の生地",
+  "artist": "Meursault2004",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Drying_Javanese_rice_crackers_(karak)_in_the_sun.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Drying_Javanese_rice_crackers_%28karak%29_in_the_sun.jpg/960px-Drying_Javanese_rice_crackers_%28karak%29_in_the_sun.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Drying_Javanese_rice_crackers_%28karak%29_in_the_sun.jpg/500px-Drying_Javanese_rice_crackers_%28karak%29_in_the_sun.jpg",
+  "og": "https://senbei.seadice.win/img/tenpi-drying-why-puff-og.jpg",
+  "local": true
+ },
+ "stale-senbei-dry-again": {
+  "file": "File:Kaki no tane with peanuts - Nov 6 2021.jpeg",
+  "src": "/img/stale-senbei-dry-again.webp",
+  "src640": "/img/stale-senbei-dry-again-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "器に入った柿の種とピーナッツ",
+  "artist": "Nesnad",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kaki_no_tane_with_peanuts_-_Nov_6_2021.jpeg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kaki_no_tane_with_peanuts_-_Nov_6_2021.jpeg/960px-Kaki_no_tane_with_peanuts_-_Nov_6_2021.jpeg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kaki_no_tane_with_peanuts_-_Nov_6_2021.jpeg/500px-Kaki_no_tane_with_peanuts_-_Nov_6_2021.jpeg",
+  "og": "https://senbei.seadice.win/img/stale-senbei-dry-again-og.jpg",
+  "local": true
+ },
+ "puffing-decided-before-baking": {
+  "file": "File:Japanese Senbeis.jpg",
+  "src": "/img/puffing-decided-before-baking.webp",
+  "src640": "/img/puffing-decided-before-baking-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "皿に盛った煎餅と、割って断面の気泡が見える煎餅",
+  "artist": "DryPot",
+  "license": "CC BY 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Japanese_Senbeis.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Japanese_Senbeis.jpg/960px-Japanese_Senbeis.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Japanese_Senbeis.jpg/500px-Japanese_Senbeis.jpg",
+  "og": "https://senbei.seadice.win/img/puffing-decided-before-baking-og.jpg",
+  "local": true
+ }
+}

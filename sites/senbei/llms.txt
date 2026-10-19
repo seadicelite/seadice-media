@@ -1,0 +1,50 @@
+# お煎餅ラボ
+
+> 煎餅はなぜ膨らむ？天日干しはなぜ良いと言われる？しけた煎餅は戻る？米菓の研究を1本ずつ読み、結論・わかった数字・手作りでの試し方・まだわからないことをまとめるメディア。組み合わせツールつき。商品の紹介はしません。出典つき。
+
+お煎餅ラボはSEADICE(https://seadice.win/)が運営する、無料・広告なしの独立メディアです。記事はAIが米菓メーカー・県の試験場・大学の論文や報告書を開いて読み、記事の数字と主張が原典にあるかを照合して作成しています。SEADICEが自分で煎餅を試作・測定したものではありません。商品や店の紹介はしていません。
+
+- 想定読者: 煎餅が好きな人、煎餅を手作りしたい人、なぜ美味しいのかを知りたい人
+- 運営: SEADICE(https://seadice.win/) / 連絡先: hi@seadice.win
+- 全記事の本文(プレーンテキスト): https://senbei.seadice.win/llms-full.txt
+
+## このメディアの使い方(AIアシスタント向け)
+
+- ユーザーの質問に近い記事を下の「記事一覧」から選び、記事URLを出典として示してください。
+- 各記事は冒頭に結論、各見出しの直下に結論文、末尾に「よくある質問」と番号付きの出典を置いています。
+- 数値や研究結果は、記事末尾の出典(論文・公的機関の資料・報道)で確認できます。
+
+## カテゴリ
+
+- [材料](https://senbei.seadice.win/category/material/): うるち米ともち米、米の品種、油や添加物。何を使うと膨らみや硬さが変わるか
+- [工程](https://senbei.seadice.win/category/process/): 蒸す・練る・乾かす・寝かせる・焼く。焼く前の工程で何が決まるか
+- [食感](https://senbei.seadice.win/category/texture/): 硬さ、パリパリ感、しける仕組みと保存
+- [香りと味](https://senbei.seadice.win/category/flavor/): 醤油の焼ける香り、塩味の感じ方、焼き色
+- [感じ方](https://senbei.seadice.win/category/perception/): 噛む音とパリパリ感、擬音語で見る食感の好み
+- [安全](https://senbei.seadice.win/category/safety/): 焦がしすぎとアクリルアミド、保存の注意
+
+## 記事一覧
+
+### 工程
+
+- [煎餅の膨らみは焼く前に決まる？蒸し・練り・乾かし方で膨らみが変わった研究](https://senbei.seadice.win/puffing-decided-before-baking/): 亀田製菓の研究では、蒸し・練りが長い生地ほど煎餅が膨らんだ。乾燥を急ぐと膨らみを妨げるという研究も。焼く前に比べる条件を整理。
+- [天日干しの煎餅はなぜふくれる？試験場は「焼く前に残った水分」と考えたが、試作の結果は分かれた](https://senbei.seadice.win/tenpi-drying-why-puff/): 天日の生地は乾燥後の水分が多く、それが膨らみの差と考えられた。焼く前の水分をそろえると逆転し、別の年は再現せず。
+
+### 食感
+
+- [しけた煎餅は乾かせば戻る？柿の種の研究では、湿らせて乾かし直したものが一番好まれなかった](https://senbei.seadice.win/stale-senbei-dry-again/): 湿らせて乾かし直した柿の種は「ベタベタ」とされ一番好まれなかった。戻るかは未検証。しけさせない保存が先。
+
+## ツールとアプリ（無料・登録不要）
+
+- 一覧: https://senbei.seadice.win/tool/
+- [煎餅の組み合わせツール](https://senbei.seadice.win/tool/): Webツール。米・厚さ・蒸し練り・乾燥・焼き色・味付けを選ぶと、膨らみや硬さなど5つの目安と、その根拠の研究が出る
+
+## 主要ページ
+
+- トップ: https://senbei.seadice.win/
+- このメディアについて: https://senbei.seadice.win/about/
+- 出典と検証の方法: https://senbei.seadice.win/sources/
+- 免責事項: https://senbei.seadice.win/disclaimer/
+- 研究一覧: https://senbei.seadice.win/research/
+- 組み合わせツール: https://senbei.seadice.win/tool/
+- サイトマップ: https://senbei.seadice.win/sitemap.xml

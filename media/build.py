@@ -92,7 +92,9 @@ def build(slug, preview=None):
     name, url = cfg["name"], cfg["url"]
     tagline = cfg.get("tagline", "")
     lead = cfg.get("lead", "")
-    chips = "".join(f'<a class="chip" href="/category/{v["id"]}/" style="--c:{v["color"]}"><svg viewBox="0 0 24 24"><path d="{v["icon"]}"/></svg>{html.escape(n)}</a>' for n, v in cats.items())
+    has = {p["category"] for p in posts}  # 記事がまだ無いカテゴリはハブページが作られないので、トップの見出しへ飛ばす（404を避ける）
+    chref = lambda n, v: f'/category/{v["id"]}/' if n in has else f'/#c-{v["id"]}'
+    chips = "".join(f'<a class="chip" href="{chref(n, v)}" style="--c:{v["color"]}"><svg viewBox="0 0 24 24"><path d="{v["icon"]}"/></svg>{html.escape(n)}</a>' for n, v in cats.items())
     latest = "".join(card(p, cats, images, types) for p in posts[:12]) or '<p class="empty">記事を準備中です。</p>'
     secs = ""
     # catLimit があればトップのカテゴリ欄はその本数までにし、残りはカテゴリページへ送る（スマホで縦に長くなりすぎるのを防ぐ）
@@ -178,7 +180,7 @@ def build(slug, preview=None):
           f'<nav class="top"><a href="https://seadice.win/" class="nav-logo">SEADICE</a><a href="/" class="r">{html.escape(name)}</a></nav>\n'
           f'<main><div class="hero"><h1>ページが見つかりません</h1><p class="lead">お探しのページは移動したか、削除された可能性があります。</p></div>'
           f'<div class="chips" aria-label="カテゴリ"><a class="chip" style="--c:var(--accent)" href="/">{html.escape(name)} のトップへ</a>'
-          + "".join(f'<a class="chip" style="--c:{v["color"]}" href="/category/{v["id"]}/">{html.escape(n)}</a>' for n, v in cats.items()) +
+          + "".join(f'<a class="chip" style="--c:{v["color"]}" href="{chref(n, v)}">{html.escape(n)}</a>' for n, v in cats.items()) +
           '</div></main>\n<footer><p><a href="/about/">このメディアについて</a> | <a href="https://seadice.win/">SEADICE</a> | &copy; SEADICE</p></footer>\n</body>\n</html>\n')
     (outdir / "404.html").write_text(nf)
     if preview:
