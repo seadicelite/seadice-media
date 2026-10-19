@@ -315,7 +315,8 @@
     "use": [
      "study-log-progress-monitoring",
      "https://dokugaku.seadice.win/study-log/",
-     "https://dokugaku.seadice.win/templates/if-then/"
+     "https://dokugaku.seadice.win/templates/if-then/",
+     "study-habit-cue-checklist-sheet"
     ],
     "stuck": [
      "restart-study-after-break",

@@ -6724,5 +6724,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-study-habit-cue-checklist-sheet-floss-after-brushing",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Judah et al., \"Forming a flossing habit: An exploratory study of the psychological determinants of habit formation\" (British Journal of Health Psychology, 2013)",
+    "sourceUrl": "https://doi.org/10.1111/j.2044-8287.2012.02086.x",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/study-habit-cue-checklist-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "新しい習慣は、どこに入れるといい？",
+        "body": "新しいことを毎日続けたいとき、いつやるかで迷うよね。いつもの行動の「前」と「後」、どちらに置くと習慣になりやすいかを比べた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "フロスを歯みがきの前か後に",
+        "body": "50人にデンタルフロスを始めてもらい、半分は歯みがきの前、半分は後にやるよう伝えた。毎日記録をつけ、4週間後と8か月後に、どれくらい自然にできているかを聞いたらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「後」の方が習慣になりやすかった",
+        "body": "歯みがきの後にした人の方が、習慣が強くなる傾向があった。8か月後も習慣が強く、フロスを使う回数も多かったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "50人の探索的な研究",
+        "body": "人数は50人で、著者たちも「探索的な研究」と書いている。フロスの話なので、勉強のような長くて中身の変わる行動で同じになるかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
