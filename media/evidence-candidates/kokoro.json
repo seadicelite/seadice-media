@@ -5407,5 +5407,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-breathing-practice-focus-recover-diaphragmatic",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ma X et al., \"The Effect of Diaphragmatic Breathing on Attention, Negative Affect and Stress in Healthy Adults\" (Frontiers in Psychology, 2017)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2017.00874",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/breathing-practice-focus-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "深い呼吸で集中力が戻る？",
+        "body": "ゆっくり深く呼吸すると頭がすっきりして集中できる、ってよく聞くよね。続けて練習すると、本当に注意の力は変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "IT企業の社員で8週間",
+        "body": "北京のIT企業の社員を2組に分けて、片方だけが8週間で20回、コーチについて腹式呼吸を練習したんだ。前後で注意のテストを受けてもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "伸びは練習した組が大きめ",
+        "body": "注意のテストの点数は、練習した組で平均6.7点、練習しない組で4.2点上がっていた。練習した組では嫌な気分の点数も下がっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "練習しない組も伸びていた",
+        "body": "人数は39人と少なく、組は申し込み順で交互に分けていた。練習しない組も点数が上がっていて、テストへの慣れの影響も切り分けきれていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
