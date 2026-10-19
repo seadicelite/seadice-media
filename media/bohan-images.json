@@ -1103,5 +1103,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/FTTR_RTT56B_Telephone_2.jpg/500px-FTTR_RTT56B_Telephone_2.jpg",
   "og": "https://bohan.seadice.win/img/fraud-awareness-overconfidence-gap-og.jpg",
   "local": true
+ },
+ "name-search-personal-info-risk": {
+  "file": "File:Social Media App Icons On The Screen of A Smartphone.jpg",
+  "src": "/img/name-search-personal-info-risk.jpg",
+  "src640": "/img/name-search-personal-info-risk-sm.jpg",
+  "w": 960,
+  "h": 768,
+  "alt": "スマートフォンに表示されたSNSアプリのアイコン",
+  "artist": "mikemacmarketing",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg/960px-Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg/500px-Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg",
+  "og": "https://bohan.seadice.win/img/name-search-personal-info-risk.jpg",
+  "local": true
  }
 }
