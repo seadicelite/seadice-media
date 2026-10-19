@@ -6010,5 +6010,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-recall-in-head-or-write-it-down-covert-definitions",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Witherby, Northern & Tauber, \"Does Covert Retrieval Benefit Adolescents' Learning in 8th Grade Science Classes?\" (Behavioral Sciences, 2025)",
+    "sourceUrl": "https://doi.org/10.3390/bs15070843",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/recall-in-head-or-write-it-down/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "思い出す練習は頭の中だけでOK？",
+        "body": "何も見ずに思い出すと覚えやすい、ってよく聞くよね。じゃあ、答えを書かずに頭の中で思い浮かべるだけでも同じなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "中学生65人が理科の用語で比べた",
+        "body": "アメリカの中学2年生65人が、理科の用語15個の定義を、書いて思い出す・頭の中で思い出す・読み直す、の3通りで5回の授業にわたって練習したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "定義は書いた方が残った",
+        "body": "2日後の記述テストの正答率は、書いた用語が39%、頭の中が27%、読み直しが29%。頭の中で思い出すだけだと、読み直しと差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "短い答えなら話は別かも",
+        "body": "単語のような短い答えでは、頭の中でも書くのと同じくらい効いた大学生の実験もある。この研究は中学生の授業で、クラスと用語の割り当てもそろいきっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

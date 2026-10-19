@@ -3483,5 +3483,22 @@
   "og": "https://dokugaku.seadice.win/img/exercise-for-study-quit-restart-og.jpg",
   "local": true,
   "alt": "競技場の陸上トラック"
+ },
+ "recall-in-head-or-write-it-down": {
+  "file": "File:Pencil Sketch from John Muir's Alaska Notebooks.jpg",
+  "src": "/img/recall-in-head-or-write-it-down.webp",
+  "src640": "/img/recall-in-head-or-write-it-down-sm.webp",
+  "w": 960,
+  "h": 592,
+  "alt": "鉛筆で書きこまれた古い手帳のページ",
+  "artist": "John Muir",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Pencil_Sketch_from_John_Muir%27s_Alaska_Notebooks.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pencil_Sketch_from_John_Muir%27s_Alaska_Notebooks.jpg/960px-Pencil_Sketch_from_John_Muir%27s_Alaska_Notebooks.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pencil_Sketch_from_John_Muir%27s_Alaska_Notebooks.jpg/500px-Pencil_Sketch_from_John_Muir%27s_Alaska_Notebooks.jpg",
+  "og": "https://dokugaku.seadice.win/img/recall-in-head-or-write-it-down-og.jpg",
+  "local": true
  }
 }
