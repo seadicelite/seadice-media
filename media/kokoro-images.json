@@ -4455,5 +4455,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Venice%2C_Museo_Correr%2C_pile_of_coins.jpg/500px-Venice%2C_Museo_Correr%2C_pile_of_coins.jpg",
   "og": "https://mentalai.seadice.win/img/ai-assisted-pay-not-earned-why.jpg",
   "local": true
+ },
+ "workaholism-leisure-prevent": {
+  "file": "File:2025 Platanus x hispanica . Alameda de Santiago de Compostela 1.jpg",
+  "src": "/img/workaholism-leisure-prevent.jpg",
+  "src640": "/img/workaholism-leisure-prevent-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "緑のベンチに落ちたプラタナスの葉",
+  "artist": "Lmbuga",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2025_Platanus_x_hispanica_._Alameda_de_Santiago_de_Compostela_1.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2025_Platanus_x_hispanica_._Alameda_de_Santiago_de_Compostela_1.jpg/960px-2025_Platanus_x_hispanica_._Alameda_de_Santiago_de_Compostela_1.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2025_Platanus_x_hispanica_._Alameda_de_Santiago_de_Compostela_1.jpg/500px-2025_Platanus_x_hispanica_._Alameda_de_Santiago_de_Compostela_1.jpg",
+  "og": "https://mentalai.seadice.win/img/workaholism-leisure-prevent.jpg",
+  "local": true
  }
 }

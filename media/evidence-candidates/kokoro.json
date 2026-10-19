@@ -5135,5 +5135,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-workaholism-leisure-prevent-leisure-buffer",
+    "category": "仕事とAIの不安",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Aziz S et al., \"Take a break! Leisure participation moderates the workaholism–work stress relationship\" (Career Development Quarterly, 2023)",
+    "sourceUrl": "https://doi.org/10.1002/cdq.12336",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/workaholism-leisure-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "働きすぎでも、休めば平気？",
+        "body": "仕事から離れられない人でも、運動や休みをとればストレスは軽くなる。よく聞く話だけど、データではどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "米国の367人に聞いた",
+        "body": "週40時間以上働く米国の367人に、働きすぎの度合い、仕事のストレス、運動・瞑想・休暇に使った時間をたずねた調査があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "余暇が多いと結びつきが弱い",
+        "body": "働きすぎな人ほどストレスも強かったけど、その結びつきは余暇が少ない人で0.51、多い人で0.31。仕事以外の時間が多い人ほど弱めだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "休めば治るとは言えない",
+        "body": "1回だけの調査で、休暇をとれる人はもともと余裕があるのかもしれない。余暇を増やしたらストレスが減るかは、実験で確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
