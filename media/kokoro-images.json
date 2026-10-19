@@ -4527,5 +4527,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sauna_room_next_to_a_bedroom_in_a_modern_apartment.jpg/500px-Sauna_room_next_to_a_bedroom_in_a_modern_apartment.jpg",
   "og": "https://mentalai.seadice.win/img/sauna-fatigue-recover.jpg",
   "local": true
+ },
+ "blurred-boundaries-insomnia-recover": {
+  "file": "File:Les Pagodes de Beauval - 346.jpg",
+  "src": "/img/blurred-boundaries-insomnia-recover.jpg",
+  "src640": "/img/blurred-boundaries-insomnia-recover-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "ロビーのテーブルに置かれた陶器のランプ",
+  "artist": "Medium69",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Les_Pagodes_de_Beauval_-_346.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Les_Pagodes_de_Beauval_-_346.jpg/960px-Les_Pagodes_de_Beauval_-_346.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Les_Pagodes_de_Beauval_-_346.jpg/500px-Les_Pagodes_de_Beauval_-_346.jpg",
+  "og": "https://mentalai.seadice.win/img/blurred-boundaries-insomnia-recover.jpg",
+  "local": true
  }
 }

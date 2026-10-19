@@ -5271,5 +5271,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-blurred-boundaries-insomnia-recover-online-training",
+    "category": "仕事とAIの不安",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Brückner H et al., \"Effectiveness of an online recovery training for employees exposed to blurred boundaries between work and non-work: Bayesian analysis of a randomised controlled trial\" (BMJ Mental Health, 2024)",
+    "sourceUrl": "https://doi.org/10.1136/bmjment-2024-301016",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/blurred-boundaries-insomnia-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く悩み",
+        "title": "仕事が夜まで追いかけてくる",
+        "body": "スマホでいつでも仕事の連絡が見られると、寝る前まで頭が仕事モードのまま。眠れない日が続く人も多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ドイツの働く人128人で実験",
+        "body": "仕事と私生活の境目があいまいで、不眠がある働く人128人を2組に分けた実験があるよ。片方は、仕事から心を離す工夫と眠りの習慣を学ぶ6回のオンライン講座を受けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "不眠の点数がほぼ半分に",
+        "body": "8週間後、講座を受けた組の不眠の点数（0〜28点）は平均18.5から9.5に。待っていた組は18.2から15.6だった。職場の環境はほとんど変わらなかったのに、だって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どの工夫が効いた？",
+        "body": "比べた相手は「待っていた組」で、眠りの練習と心を離す練習のどちらが効いたかは分けられていない。6か月後は44%が回答していないし、改善後も平均では軽い症状が残っていたらしい。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
