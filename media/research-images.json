@@ -3879,5 +3879,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_Wall_St_Zendo_doors.jpg/500px-The_Wall_St_Zendo_doors.jpg",
   "og": "https://research.seadice.win/img/mindfulness-meditation-procrastination-research-og.jpg",
   "local": true
+ },
+ "habit-travel-trip-disrupted-restart-research": {
+  "file": "File:Suitcase BW 2025-08-17 14-54-11.jpg",
+  "src": "/img/habit-travel-trip-disrupted-restart-research.webp",
+  "src640": "/img/habit-travel-trip-disrupted-restart-research-sm.webp",
+  "w": 960,
+  "h": 960,
+  "alt": "ブラシや小びんが入った旅行用のスーツケース",
+  "artist": "Berthold Werner",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Suitcase_BW_2025-08-17_14-54-11.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Suitcase_BW_2025-08-17_14-54-11.jpg/960px-Suitcase_BW_2025-08-17_14-54-11.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Suitcase_BW_2025-08-17_14-54-11.jpg/500px-Suitcase_BW_2025-08-17_14-54-11.jpg",
+  "og": "https://research.seadice.win/img/habit-travel-trip-disrupted-restart-research-og.jpg",
+  "local": true
  }
 }

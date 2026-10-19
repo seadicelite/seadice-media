@@ -6675,5 +6675,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-habit-travel-trip-disrupted-restart-research-lockdown-habits",
+    "category": "習慣",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Maltagliati et al., \"Evolution of physical activity habits after a context change: The case of COVID-19 lockdown\" (British Journal of Health Psychology, 2021)",
+    "sourceUrl": "https://doi.org/10.1111/bjhp.12524",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/habit-travel-trip-disrupted-restart-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "強い習慣なら、生活が変わっても平気？",
+        "body": "何年も続けてきた運動の習慣なら、生活が大きく変わっても崩れないはず。そう思うよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "外出制限の前・途中・終わり",
+        "body": "Maltagliatiらは、2020年春の外出制限の時期に、フランスとスイスの283人の運動の習慣がどう変わったかを3つの時点について調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "強い習慣ほど大きく下がった",
+        "body": "習慣は制限の途中で弱まり、もともと強い習慣を持っていた人ほど大きく下がった。一方、制限中に新しくできた習慣は、制限の終わりの運動とつながっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "振り返って答えた調査",
+        "body": "習慣の強さは本人が振り返って答えたもの。外出制限という特別な変化の結果で、数日の旅行でも同じかはわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
