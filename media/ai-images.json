@@ -2653,5 +2653,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cups_with_paint_brushes%2C_Kingdom_of_Dreams%2C_Gurgaon.jpg/500px-Cups_with_paint_brushes%2C_Kingdom_of_Dreams%2C_Gurgaon.jpg",
   "og": "https://ai.seadice.win/img/ai-group-project-ai-rules-before.jpg",
   "local": true
+ },
+ "ai-suspected-art-community-distance-recover": {
+  "file": "File:Papierkanten -- 2020 -- 9535.jpg",
+  "src": "/img/ai-suspected-art-community-distance-recover.jpg",
+  "src640": "/img/ai-suspected-art-community-distance-recover-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "重なり合う紙のふち",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Papierkanten_--_2020_--_9535.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Papierkanten_--_2020_--_9535.jpg/960px-Papierkanten_--_2020_--_9535.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Papierkanten_--_2020_--_9535.jpg/500px-Papierkanten_--_2020_--_9535.jpg",
+  "og": "https://ai.seadice.win/img/ai-suspected-art-community-distance-recover.jpg",
+  "local": true
  }
 }
