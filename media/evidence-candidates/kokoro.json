@@ -5169,5 +5169,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "kokoro-ai-overuse-self-regulation-prevent-profiles",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zhang Z et al., \"Problematic generative AI use and mental health risks among Chinese university students: latent profiles, network structure, and health literacy as a modifiable resource\" (Frontiers in Public Health, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpubh.2026.1910408",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-overuse-self-regulation-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIを毎日使うと危ない？",
+        "body": "レポートも調べものも、気づけばAIに聞いている。毎日使っていたら、心まで疲れてしまうのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生1,872人を4つに分けた",
+        "body": "中国の6大学の学生1,872人に、AIのやめにくさ、勉強の不安、睡眠、心の苦しさをたずねた調査があるよ。答え方の似た人どうしで4つの組に分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "回数より「重なり」",
+        "body": "全部が高い組は14.6%、リスクの低い組は39.9%。目標や時間を自分で決め、AIに聞く前に考える習慣がある人ほど、低い組に入る見込みが高かったらしい。著者は使う回数だけが問題ではないと書いているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "習慣を変えれば防げる？",
+        "body": "1回だけの調査で、不安や寝不足が先にあってAIに頼った可能性もある。学び方を変えたら防げるかは、まだ確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]
