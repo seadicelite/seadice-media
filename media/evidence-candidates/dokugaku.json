@@ -5806,5 +5806,39 @@
       }
     ],
     "addedAt": "2026-10-19"
+  },
+  {
+    "id": "dokugaku-unknown-words-while-reading-english-guess-vs-dictionary",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Alahmadi & Foltz, \"Exploring the effect of lexical inferencing and dictionary consultation on undergraduate EFL students' vocabulary acquisition\" (PLoS ONE, 2020)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0236798",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/unknown-words-while-reading-english/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "英単語は辞書を引かずに推測した方が身につく？",
+        "body": "「辞書に頼らず、前後の文から意味を推測しよう」って、英語の授業で言われたことがある人も多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "推測12語・辞書12語でくらべた",
+        "body": "英語を専攻するサウジアラビアの大学生61人が、24語のうち12語は推測、12語は辞書で調べた。2週間後に覚えているかをテストしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差はほとんどなかった",
+        "body": "練習した単語は、練習しなかった単語よりよく覚えていた。でも推測と辞書のあいだの差はほとんどなかった。もともと知っている単語が多い人ほど多く覚えたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "推測はまちがうこともある",
+        "body": "単語を知っているかは本人の申告で測っていて、対象もアラビア語を話す大学生だけ。著者らは、手がかりを読みちがえると推測をまちがえるとも書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-19"
   }
 ]

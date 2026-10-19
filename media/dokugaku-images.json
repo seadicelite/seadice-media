@@ -3381,5 +3381,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dice_Board_Game_Lounge%2C_Southsea.jpg/500px-Dice_Board_Game_Lounge%2C_Southsea.jpg",
   "og": "https://dokugaku.seadice.win/img/gamify-self-study-how-to-og.jpg",
   "local": true
+ },
+ "unknown-words-while-reading-english": {
+  "file": "File:Spiralbinderücken -- 2022 -- 9739 (bw).jpg",
+  "src": "/img/unknown-words-while-reading-english.webp",
+  "src640": "/img/unknown-words-while-reading-english-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "ノートのリングとじ",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Spiralbinder%C3%BCcken_--_2022_--_9739_(bw).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Spiralbinder%C3%BCcken_--_2022_--_9739_%28bw%29.jpg/960px-Spiralbinder%C3%BCcken_--_2022_--_9739_%28bw%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Spiralbinder%C3%BCcken_--_2022_--_9739_%28bw%29.jpg/500px-Spiralbinder%C3%BCcken_--_2022_--_9739_%28bw%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/unknown-words-while-reading-english-og.jpg",
+  "local": true
  }
 }
