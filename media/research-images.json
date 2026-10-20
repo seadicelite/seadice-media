@@ -4086,5 +4086,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Deliciously_crafted_frosted_donuts_ready_for_customers_at_a_bakery_in_the_morning.jpg/500px-Deliciously_crafted_frosted_donuts_ready_for_customers_at_a_bakery_in_the_morning.jpg",
   "og": "https://research.seadice.win/img/sleep-loss-junk-food-cravings-why-research.jpg",
   "local": true
+ },
+ "hot-day-irritability-heat-mood-why-research": {
+  "file": "File:Sunflowers and Wheat Fields Under Summer Sky.jpg",
+  "src": "/img/hot-day-irritability-heat-mood-why-research.jpg",
+  "src640": "/img/hot-day-irritability-heat-mood-why-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "夏の青空とひまわり",
+  "artist": "ExclusiveRelief17",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunflowers_and_Wheat_Fields_Under_Summer_Sky.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sunflowers_and_Wheat_Fields_Under_Summer_Sky.jpg/960px-Sunflowers_and_Wheat_Fields_Under_Summer_Sky.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sunflowers_and_Wheat_Fields_Under_Summer_Sky.jpg/500px-Sunflowers_and_Wheat_Fields_Under_Summer_Sky.jpg",
+  "og": "https://research.seadice.win/img/hot-day-irritability-heat-mood-why-research.jpg",
+  "local": true
  }
 }

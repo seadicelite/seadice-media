@@ -7185,5 +7185,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-hot-day-irritability-heat-mood-why-research-heat-mood-not-behavior",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Cassar et al., \"Gender and culture shape prosociality more than heat stress in a five-country experiment\" (PNAS Nexus, 2026)",
+    "sourceUrl": "https://doi.org/10.1093/pnasnexus/pgag017",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/hot-day-irritability-heat-mood-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "暑いと人に冷たくなる？",
+        "body": "暑い日はイライラして、人にきつく当たりがちって言うよね。暑さは気分だけじゃなく、人への態度まで変えるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5か国で部屋の温度を変えた",
+        "body": "アメリカ、メキシコ、コロンビア、インド、ケニアの大学生1,636人が参加。隠したヒーターで部屋を18℃から34℃に変えて、お金の分け方や競争を選ぶかを調べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "気分は下がる、判断は同じ",
+        "body": "30℃を超える部屋では、いら立ち・疲れ・不満が強まった。でも、人にお金をどう分けるかや競争を選ぶかは、暑さで変わらなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く続く暑さは？",
+        "body": "暑さにさらされたのは約1時間だけ。何日も続く猛暑や、いつ終わるかわからない暑さでも同じかは、まだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
