@@ -3927,5 +3927,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Clickety_Clackety_-_in_Explore_-_Flickr_-_Thad_Zajdowicz.jpg/500px-Clickety_Clackety_-_in_Explore_-_Flickr_-_Thad_Zajdowicz.jpg",
   "og": "https://dokugaku.seadice.win/img/why-ai-help-makes-ideas-similar.jpg",
   "local": true
+ },
+ "why-absorbed-in-studying-some-days-flow": {
+  "file": "File:Closeup of Soda Hall abacus (2).jpg",
+  "src": "/img/why-absorbed-in-studying-some-days-flow.jpg",
+  "src640": "/img/why-absorbed-in-studying-some-days-flow-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "木のそろばんの玉のアップ",
+  "artist": "D Coetzee",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Closeup_of_Soda_Hall_abacus_(2).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Closeup_of_Soda_Hall_abacus_%282%29.jpg/960px-Closeup_of_Soda_Hall_abacus_%282%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Closeup_of_Soda_Hall_abacus_%282%29.jpg/500px-Closeup_of_Soda_Hall_abacus_%282%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-absorbed-in-studying-some-days-flow.jpg",
+  "local": true
  }
 }

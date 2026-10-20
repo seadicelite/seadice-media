@@ -7098,5 +7098,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-why-absorbed-in-studying-some-days-flow-personality",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Xie et al., \"Learning flow in educational contexts: A meta-analysis of its antecedents and outcomes\" (British Journal of Educational Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.1111/bjep.70075",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/why-absorbed-in-studying-some-days-flow/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "没頭できるかは性格しだい？",
+        "body": "時間を忘れて勉強に入りこめる人と、すぐ気が散る人。生まれつきの性格の差だと思われがちだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "108件・約4万3千人の研究をまとめた",
+        "body": "学びの場での「フロー（没頭状態）」を調べた108件の研究、合計4万2,952人分をまとめたメタ分析があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "性格より「難しさの釣り合い」",
+        "body": "性格とフローの相関はr=.16〜.24と小さめ。難しさと力の釣り合いはr=.49、目標を決めることはr=.61と、もっと強い関係だったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "相関で、因果ではない",
+        "body": "ほとんどが一時点の相関の研究で、著者らも原因と結果の向きはわからないと書いている。難しさを変えれば没頭できる、とまでは言い切れないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
