@@ -6826,5 +6826,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-why-interesting-asides-hurt-learning-irrelevance-prompt",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kienitz et al., \"Seductive details hamper learning even when they do not disrupt\" (Instructional Science, 2023)",
+    "sourceUrl": "https://doi.org/10.1007/s11251-023-09632-w",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-interesting-asides-hurt-learning/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く話",
+        "title": "教科書の面白いコラム、覚えているのはそっちだけ？",
+        "body": "雑学や余談は覚えているのに、本題が思い出せない。研究では、面白いけど本題と関係の薄い話を「誘惑的詳細」と呼んで、学びを邪魔することがあると調べられてきたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "雷のでき方の文章で実験",
+        "body": "ドイツで集めた学生など248人が、雷のでき方の文章を読んだよ。余談なし、余談あり、余談ありで「この部分は学習に関係ない」と伝える、などの条件にわけて、本題をどれだけ思い出せるかを9点満点でくらべたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「関係ない」と知るだけで差が縮んだ",
+        "body": "余談なしは平均2.56点、余談ありで説明なしは1.77点。「関係ない」と伝えられた人は2.48点で、余談なしとほぼ同じだったらしい。余談を読む時間の割合も小さくなっていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回の短い文章での話",
+        "body": "オンラインで短い文章を1回読んだ実験で、応用問題の点には差が出なかった。余談の害が出なかった研究も多く、何か月も教科書で独学する場面で同じになるかはまだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
