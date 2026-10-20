@@ -6597,5 +6597,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-ask-ai-not-coworker-why-no-politeness",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Qi L, Zhao L, \"Social friction vs. cognitive efficiency: A comparative analysis of help-seeking behaviors in human communities and generative AI\" (PLOS ONE, 2026)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0348441",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ask-ai-not-coworker-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "人よりAIに聞くほうが楽なのはなぜ？",
+        "body": "同僚に聞けばすぐなのに、ついAIを開いちゃうこと、あるよね。人とAIへの質問文を比べた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3万件の質問文を比べた",
+        "body": "学問や心理学の質問掲示板に人が書いた質問と、AIに実際に送られた質問を、話題と長さをそろえて1万5千組比べたらしい。どちらも英語の文だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "AIには「すみません」がない",
+        "body": "人への質問には「たぶん」みたいなぼかし言葉や「お願いします」が一定量あったけど、AIへの質問の大半ではどちらも0語。「わからない」と打ち明ける言葉もほとんどなく、「説明して」と指示する形が多かった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "気をつかって疲れていたかは別",
+        "body": "文を比べただけで、書いた人の気持ちは聞いていないんだ。掲示板には努力を示すルールがあるし、使う人の顔ぶれも違うと著者たちも書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
