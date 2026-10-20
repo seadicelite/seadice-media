@@ -6359,5 +6359,73 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-ai-better-cooperate-mindset-go-players",
+    "category": "比べて落ち込む",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Shin M, Kim J, van Opheusden B, Griffiths TL, \"Superhuman artificial intelligence can improve human decision-making by increasing novelty\" (PNAS, 2023)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.2214840120",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-better-cooperate-mindset/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く心配",
+        "title": "AIが強すぎると、人は下手になる？",
+        "body": "AIのほうが上手になったら、人は考えなくなって腕が落ちるんじゃないか。そんな心配、聞いたことあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "囲碁のプロ71年分の手をAIで採点",
+        "body": "研究者たちは、1950〜2021年にプロ棋士が打った580万以上の手を、人より強い囲碁AIで評価したんだ。AIが世界王者に勝った2016年の前とあとで比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "AIのあと、人の手の質が上がっていた",
+        "body": "それまでの66年はほとんど伸びていなかったのに、2016年以降は手の質がはっきり上がっていた。過去にない新しい手も増えて、AIと違う手でも質が上がっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIのおかげとは言い切れない",
+        "body": "これは対局の記録を分析した研究で、AIが原因とは言い切れないんだ。棋士の気持ちは測っていないし、勝ち負けがはっきりした囲碁以外の仕事でも同じかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-ai-better-cooperate-mindset-competition",
+    "category": "比べて落ち込む",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Colpaert L, Muller D, Fayant M-P, Butera F, \"A mindset of competition versus cooperation moderates the impact of social comparison on self-evaluation\" (Frontiers in Psychology, 2015)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2015.01337",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-better-cooperate-mindset/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "上手な人と比べると、必ず落ち込む？",
+        "body": "自分より上手な人を見ると、自信がしぼむことってあるよね。でも、相手との関係しだいで変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "競争か協力かで分けた実験",
+        "body": "フランスの大学生143人が注意の作業をしたよ。半分は相手と点数を比べる「競争」、半分は点数を合わせる「協力」と伝えられて、途中で相手のほうがかなり上か下かを知らされたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "下がったのは競争の組だけ",
+        "body": "相手が上だったとき、競争の組では作業の自己評価が下がった。でも協力の組では、相手が上でも下でも自己評価に差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "違いは思ったより小さいかも",
+        "body": "同じ論文の別の198人の実験では、はっきりした差が出なかった。元の研究より効果は小さめで、相手がAIのときに同じことが起きるかもまだ調べられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

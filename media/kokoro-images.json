@@ -5047,5 +5047,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Guy_Bradley_Ballroom_at_the_Visitor_Center_in_Flamingo_%2853413028199%29.jpg/500px-Guy_Bradley_Ballroom_at_the_Visitor_Center_in_Flamingo_%2853413028199%29.jpg",
   "og": "https://mentalai.seadice.win/img/distracted-focus-short-meditation-og.jpg",
   "local": true
+ },
+ "ai-better-cooperate-mindset": {
+  "file": "File:Go (13×13) -- 2021 -- 6741.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Go_%2813%C3%9713%29_--_2021_--_6741.jpg/960px-Go_%2813%C3%9713%29_--_2021_--_6741.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Go_%2813%C3%9713%29_--_2021_--_6741.jpg/500px-Go_%2813%C3%9713%29_--_2021_--_6741.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "囲碁の盤と碁石",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Go_(13%C3%9713)_--_2021_--_6741.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
