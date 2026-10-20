@@ -1123,8 +1123,8 @@
  },
  "night-walking-smartphone-awareness-risk": {
   "file": "File:2016-01-17 03 01 01 Sidewalk and street lights at night along Nichol Avenue at Douglass College in New Brunswick, New Jersey.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2016-01-17_03_01_01_Sidewalk_and_street_lights_at_night_along_Nichol_Avenue_at_Douglass_College_in_New_Brunswick%2C_New_Jersey.jpg/960px-2016-01-17_03_01_01_Sidewalk_and_street_lights_at_night_along_Nichol_Avenue_at_Douglass_College_in_New_Brunswick%2C_New_Jersey.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2016-01-17_03_01_01_Sidewalk_and_street_lights_at_night_along_Nichol_Avenue_at_Douglass_College_in_New_Brunswick%2C_New_Jersey.jpg/500px-2016-01-17_03_01_01_Sidewalk_and_street_lights_at_night_along_Nichol_Avenue_at_Douglass_College_in_New_Brunswick%2C_New_Jersey.jpg",
+  "src": "/img/night-walking-smartphone-awareness-risk.webp",
+  "src640": "/img/night-walking-smartphone-awareness-risk-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "夜の歩道と街灯",
@@ -1132,6 +1132,10 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:2016-01-17_03_01_01_Sidewalk_and_street_lights_at_night_along_Nichol_Avenue_at_Douglass_College_in_New_Brunswick,_New_Jersey.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2016-01-17_03_01_01_Sidewalk_and_street_lights_at_night_along_Nichol_Avenue_at_Douglass_College_in_New_Brunswick%2C_New_Jersey.jpg/960px-2016-01-17_03_01_01_Sidewalk_and_street_lights_at_night_along_Nichol_Avenue_at_Douglass_College_in_New_Brunswick%2C_New_Jersey.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2016-01-17_03_01_01_Sidewalk_and_street_lights_at_night_along_Nichol_Avenue_at_Douglass_College_in_New_Brunswick%2C_New_Jersey.jpg/500px-2016-01-17_03_01_01_Sidewalk_and_street_lights_at_night_along_Nichol_Avenue_at_Douglass_College_in_New_Brunswick%2C_New_Jersey.jpg",
+  "og": "https://bohan.seadice.win/img/night-walking-smartphone-awareness-risk-og.jpg",
+  "local": true
  }
 }

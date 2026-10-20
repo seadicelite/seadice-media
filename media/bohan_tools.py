@@ -1,4 +1,4 @@
-"""防犯メディアの個人向けWebツール（/akisu-me/ /sagi-check/ /ai-tenken/ /aikotoba/）を media/bohan-pages.json に書き出す。
+"""防犯メディアの個人向けWebツール（/akisu-me/ /sagi-check/ /link-check/ /ai-tenken/ /aikotoba/）を media/bohan-pages.json に書き出す。
 
   python3 media/bohan_tools.py && python3 media/build.py bohan
 
@@ -117,6 +117,7 @@ CSS = (".bt-box{background:var(--card);border:1px solid var(--accent);border-rad
 
 TOOLS = [("akisu-me", "空き巣の目で、わが家を点検", "空き巣が下見で見る「留守か・近づけるか・時間がかかるか」の順に、わが家の隙を見つける"),
          ("sagi-check", "この連絡、詐欺かも？チェック", "電話・メール・SNSの連絡で、当てはまるサインを選ぶと、すぐやることがわかる"),
+         ("link-check", "そのリンクちょっと待った", "届いたSMS・メールのリンクを貼ると、詐欺の報告一覧と偽ドメインを点検し、AIが危険度と理由を返す"),
          ("ai-tenken", "AI時代の防犯 セルフ点検", "お金をかけずにできる24の対策を、自分の進み具合で確かめる"),
          ("aikotoba", "家族の合言葉カード", "AI音声のなりすましに備える合言葉の決め方と、印刷して使える手順カード")]
 
@@ -387,6 +388,85 @@ document.getElementById('am').addEventListener('submit',function(){
  o.innerHTML=h;o.hidden=false;o.scrollIntoView({behavior:'smooth',block:'start'});
 });})();</script>""")
 
+# ---- そのリンクちょっと待った（リンクの詐欺チェック） ----
+# 判定は url-check-worker の /web（詐欺リスト・日本でよく見られているサイト・偽ドメインの点検 → AI）。アプリ link_matta と同じ判定
+LC_API = "https://url-check.seadice-home.workers.dev"
+LC_FAQ = [
+    ("届いたSMSのリンクが本物か、どうやって確かめればいいですか？",
+     "リンクは押さずに、この欄に文ごと貼って確かめます。結果が「開いて大丈夫そうです」でも、ログインや支払いは、いつも使う公式アプリかブックマークから入るのが確実です。宅配・カード会社・携帯会社を名乗るSMSは、名乗った会社と行き先のドメインが合っているかが一番の手がかりです。"),
+    ("「開いて大丈夫そうです」と出たら安全ですか？",
+     "安全の保証ではありません。新しく作られたばかりの詐欺サイトは、どの一覧にもまだ載っていないことがあります。IDやカード番号を求められたら、届いたリンクからではなく公式アプリから入り直してください。"),
+    ("貼った文やURLはどこに送られますか？",
+     "確かめるURLと貼った文を、SEADICEの判定サーバー（Cloudflare）に送り、判定のためにAI（AnthropicのClaude）にも渡します。電話番号・メールアドレス・8けた以上の数字は、送る前にこのブラウザの中で伏せます。氏名・住所やURLの中の文字は伏せられないので、貼る前に消してください。判定サーバーは中身を保存せず、ログにも残しません。この画面にも履歴は残りません。「中身を見てくる」を押したときだけ、サーバーがリンク先のページを読みに行き、ドメインの登録日を公開の登録情報（RDAP）に問い合わせます。"),
+    ("リンクを開いてしまった・情報を入れてしまったときは？",
+     "パスワードを入れたなら、すぐ公式サイトや公式アプリからパスワードを変え、同じパスワードを使っているほかのサービスも変えます。カード番号を入れたなら、カード会社に連絡して止めてもらいます。迷ったら警察相談専用電話 #9110 か消費者ホットライン 188 に相談してください。"),
+    ("「中身を見てくる」とは何ですか？",
+     "SEADICEのサーバーが代わりにリンク先のページを文字だけ読み、どんなサイトか、パスワードやカード番号の入力欄があるか、いつ作られたドメインかをAIがまとめます。あなたの端末ではページを開きません。ボタンを押したときだけ読みに行きます（読みに行くと、相手のサーバーには誰かが開いたことが伝わるためです）。"),
+]
+lc_body = (ld("そのリンクちょっと待った（リンクの詐欺チェック）", "link-check",
+              "届いたSMS・LINE・メールのリンクを貼ると、詐欺サイトの報告一覧・会社名を借りた偽ドメイン・短縮URLの行き先を点検し、AIが危険度0〜100と理由を返す無料ツール。登録不要・広告なし。", LC_FAQ)
+ + '<p>SMS・LINE・メールで届いたリンクを、押す前にここに貼ってください。リンクだけでも、届いた文ごとでもかまいません。危険度を0〜100で出し、「開いて大丈夫そうです」「ちょっと待った」「開かないで」のどれかと、その理由を返します。無料・登録不要です。</p>'
+ + '<form class="bt-box" id="lc" onsubmit="return false"><label for="lc-in" style="border:0;padding:0 0 8px;display:block;font-weight:700">届いたリンク、または文ごと</label>'
+ '<textarea id="lc-in" rows="5" maxlength="1500" required placeholder="例）お荷物をお届けにあがりましたが不在の為持ち帰りました。配送物は下記よりご確認ください。https://…" '
+ 'style="width:100%;min-height:120px;padding:12px;border:1px solid var(--border);border-radius:10px;background:var(--bg);color:var(--text);font:inherit;font-size:16px;line-height:1.7"></textarea>'
+ '<button type="submit" class="bt-btn" id="lc-go">このリンクを確かめる</button>'
+ '<p class="bt-sub" style="margin-bottom:10px">確かめるURLと文を、SEADICEの判定サーバーとAI（Claude）に送ります。電話番号・メールアドレス・長い数字は送る前に伏せます。氏名・住所は貼る前に消してください。サーバーには保存しません。</p></form>'
+ + '<div class="bt-res" id="lc-out" aria-live="polite" hidden></div>'
+ + '<p class="answer"><strong>結論：届いたリンクは、押す前に「名乗っている会社」と「行き先のドメイン」が合っているかを見ます。</strong>合っていなければ開かず、公式アプリやブックマークから確かめます。このチェックは、その見比べと詐欺の報告一覧の照合を代わりに行います。</p>'
+ + '<h2>判定のしかた</h2><ol class="bt-note" style="padding-left:2.2em">'
+ '<li><b>詐欺の報告一覧と照らし合わせる</b>：フィッシングに使われたと報告されたサイト約5万件（Phishing.Database、毎日更新）と、日本でよく見られているサイト約7万件（Chrome UX Report の上位10万件から、誰でもページを置ける場所を除いたもの）。</li>'
+ '<li><b>URLの書き方を点検する</b>：amazon・rakuten・sagawa などの会社名を借りた別のドメイン、1文字だけ変えたつづり、日本の会社がまず使わない末尾（.top・.cn など）、「@」入り、番号だけ、暗号化なし（http）。短縮URLは、短縮サービスにだけ問い合わせて最後の行き先までたどります（受け取った人ごとに作られた短縮URLだと、問い合わせたことが送り主に伝わる場合があります）。</li>'
+ '<li><b>AIが文の言い方も読む</b>：「お荷物を持ち帰りました」「未払い」「本日中」のような、急がせる・不安にさせる言い方と行き先を合わせて、危険度とひとことの理由を出します。詐欺の報告一覧に載っていれば、AIが低く言っても危険度90以上にします。</li></ol>'
+ + '<h2>どれくらい当たるか</h2><p>同じ判定を、JPCERT/CCが公開した日本のフィッシングURL（2026年3〜5月の一覧）のうち、4〜5月の200件で試しました。「開いて大丈夫そうです」と出たものは0件、「開かないで」は31件で、残りの169件は「ちょっと待った」でした。日本でよく見られている正規のサイト100件では、97件が「開いて大丈夫そうです」、3件が「ちょっと待った」で、「開かないで」は0件でした。URLだけを渡した測定で、届いた文は使っていません。AIの答えは毎回少し変わるので、もう一度測ると数件ずれることがあります（SEADICE調べ、2026年10月）。</p><p><b>偽サイトの多くは「開かないで」ではなく「ちょっと待った」と出ます。</b>「ちょっと待った」が出たら、開かずに公式アプリやブックマークから確かめてください。</p>'
+ + '<table class="bt-t"><caption class="bt-sub">入力例と結果の例</caption><thead><tr><th>貼ったもの</th><th>結果</th></tr></thead><tbody>'
+ '<tr><td>「お荷物を持ち帰りました」＋ sagawa-exp.top のリンク</td><td>開かないで（社名を借りた別のドメイン・日本の会社がまず使わない末尾・急がせる文）</td></tr>'
+ '<tr><td>詐欺の報告一覧に載っているサイト</td><td>開かないで（危険度90以上）</td></tr>'
+ '<tr><td>bit.ly などの短縮URL</td><td>最後の行き先までたどって、行き先で判断</td></tr>'
+ '<tr><td>https://www.amazon.co.jp/</td><td>開いて大丈夫そうです（公式ドメイン）</td></tr></tbody></table>'
+ + '<h2>このチェックにできないこと</h2><ul class="bt-note" style="padding-left:2.2em">'
+ '<li>「開いて大丈夫そうです」は安全の保証ではありません。作られたばかりの詐欺サイトを見逃すことがあります。</li>'
+ '<li>電話・訪問・SNSのやりとりそのものは判定しません。連絡の内容が不安なら ' + '<a href="/sagi-check/">この連絡、詐欺かも？チェック</a> を使ってください。</li>'
+ '<li>AIに聞ける回数には1日の上限があります。上限を超えたときは、一覧と書き方の点検だけで判断し、そのことを結果に書きます。このとき、日本でよく見られているサイト以外は「開いて大丈夫そうです」と出しません。</li></ul>'
+ + faq_html(LC_FAQ) + other_tools("link-check")
+ + '<div class="sources"><h2>出典</h2><ol>'
+ '<li>JPCERT/CC「フィッシングURL」一覧（2026年3〜5月） <a href="https://github.com/JPCERTCC/phishurl-list" rel="noopener">https://github.com/JPCERTCC/phishurl-list</a></li>'
+ '<li>Phishing.Database（MIT License） <a href="https://github.com/Phishing-Database/Phishing.Database" rel="noopener">https://github.com/Phishing-Database/Phishing.Database</a></li>'
+ '<li>Chrome UX Report（Google、CC BY-SA 4.0）の上位サイト一覧 <a href="https://github.com/zakird/crux-top-lists" rel="noopener">https://github.com/zakird/crux-top-lists</a></li>'
+ '<li>手口の解説と数字の出典は、' + art("phishing-mail-sms-2025") + ' と ' + art("qr-code-phishing-sticker") + ' の末尾にあります。</li></ol></div>'
+ + "<script>(function(){var A=" + json.dumps(LC_API) + ",C=" + json.dumps(CONTACTS)
+ + r""";
+var U=/https?:\/\/[^\s<>"'「」（）()、。]+/gi,f=document.getElementById('lc'),t=document.getElementById('lc-in'),b=document.getElementById('lc-go'),o=document.getElementById('lc-out'),last=null;
+function e(s){return String(s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+function mk(s){return s.replace(/[\w.+-]+@[\w-]+\.[\w.-]+/g,'[メール]').replace(/\d[\d\- ]{6,}\d/g,'[番号]')}
+function mask(s){var r='',l=0,m;U.lastIndex=0;while((m=U.exec(s))){r+=mk(s.slice(l,m.index))+m[0];l=m.index+m[0].length}return r+mk(s.slice(l))}
+var W={safe:['開いて大丈夫そうです','#4FB37A'],wait:['ちょっと待った','#F2B33D'],stop:['開かないで','#E5534B']},L={danger:'危険',caution:'注意',info:'参考'};
+function post(p,d){return fetch(A+p,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(d),signal:AbortSignal.timeout?AbortSignal.timeout(45000):undefined}).then(function(r){return r.json().then(function(j){if(!r.ok)throw j.error||'error';return j})})}
+function err(x){return x==='no_url'?'リンクが見つかりませんでした。「https://」から始まるリンクか、届いた文ごと貼ってください。':(x==='rate_limited'?'続けて確かめすぎたため、少し休んでいます。1分ほど待ってからもう一度押してください。':'判定サーバーにつながりませんでした。入力はそのまま残っています。少し待ってからもう一度押してください。')}
+function show(d){var w=W[d.verdict]||W.wait,h='<div class="bt-card'+(d.verdict==='stop'?' alert':'')+'" style="border-left-color:'+w[1]+'"><p class="bt-score">危険度 <b style="color:'+w[1]+'">'+d.risk+'</b> / 100</p><div class="bt-bar" role="img" aria-label="危険度 '+d.risk+'"><i style="width:'+d.risk+'%;background:'+w[1]+'"></i></div><h3 style="font-size:22px;margin:10px 0 4px">'+w[0]+'</h3>'
+ +(d.headline?'<p><b>'+e(d.headline)+'</b></p>':'')+(d.reason?'<p>'+e(d.reason)+'</p>':'')
+ +(d.ai?'':'<p class="bt-sub">AIに聞けなかったため、詐欺の報告一覧とURLの書き方の点検だけで判断しました。</p>')
+ +'<p class="bt-sub" style="margin-top:8px;word-break:break-all">行き先：'+e(d.finalUri)+'</p></div>';
+ if(d.chain&&d.chain.length>1)h+='<div class="bt-card"><h3>短縮URLの行き先</h3>'+d.chain.map(function(u,i){return '<div class="bt-item" style="word-break:break-all">'+(i?'→ ':'')+e(u)+'</div>'}).join('')+'</div>';
+ if(d.findings.length)h+='<div class="bt-card"><h3>点検で見つかったこと</h3>'+d.findings.map(function(x){return '<div class="bt-item"><b>【'+L[x.level]+'】'+e(x.title)+'</b>'+e(x.detail)+'</div>'}).join('')+'</div>';
+ else h+='<div class="bt-card"><h3>点検で見つかったこと</h3><p>'+(d.known?'日本でよく見られているサイトで、URLの書き方にも気になる点はありませんでした。':'詐欺の報告一覧にはなく、URLの書き方にも気になる点はありませんでした。ただし、日本でよく見られているサイトの一覧にもありません。名乗っている会社やお店と、行き先が合っているか確かめてください。')+'</p></div>';
+ h+='<div class="bt-card" id="lc-in2"><h3>中身を見てくる</h3><p>SEADICEのサーバーが代わりにページを読み、どんなサイトか、パスワードやカード番号の入力欄があるかを確かめます。あなたの端末では開きません。</p><button type="button" class="bt-btn" id="lc-insp">中身を見てくる</button></div>';
+ if(d.verdict!=='safe')h+='<div class="bt-card"><h3>迷ったら相談</h3>'+C+'</div>';
+ o.innerHTML=h;o.hidden=false;o.scrollIntoView({behavior:'smooth',block:'start'});
+ document.getElementById('lc-insp').addEventListener('click',inspect);}
+function inspect(){var x=document.getElementById('lc-in2'),k=document.getElementById('lc-insp');k.disabled=true;k.textContent='ページを読んでいます…';
+ post('/inspect',{uri:last.finalUri,prevRisk:last.risk,local:{level:last.level,known:last.known,findings:last.findings.map(function(f){return f.title})}}).then(function(r){var p=r.page||{},w=W[r.verdict]||W.wait,li=[];
+  li.push(p.reached?'ページを読めました'+(p.title?'（'+e(p.title)+'）':''):'ページを読めませんでした（消えたか、読ませない作りです）');
+  if(p.hasPassword)li.push('パスワードの入力欄があります');if(p.hasCard)li.push('カード番号の入力欄があります');
+  if(p.formElsewhere&&p.formElsewhere.length)li.push('入力した内容を別のサイト（'+e(p.formElsewhere.join('・'))+'）に送る作りです');
+  if(r.age&&r.age.days!=null)li.push('ドメインが作られたのは '+e(r.age.created)+'（'+r.age.days+'日前）');
+  x.innerHTML='<h3>中身を見てきました：'+w[0]+'（危険度 '+r.risk+'）</h3>'+(r.summary?'<p>'+e(r.summary)+'</p>':'')+(r.reason?'<p>'+e(r.reason)+'</p>':'')+li.map(function(s){return '<div class="bt-item">'+s+'</div>'}).join('');
+ }).catch(function(z){k.disabled=false;k.textContent='中身を見てくる';x.insertAdjacentHTML('beforeend','<p class="bt-sub">'+e(z==='daily_limit'?'今日の上限に達したため、中身を見に行けませんでした。':err(z))+'</p>')})}
+f.addEventListener('submit',function(){var v=t.value.trim();if(!v){t.focus();return}
+ b.disabled=true;b.textContent='確かめています…';
+ post('/web',{text:mask(v)}).then(function(d){last=d;show(d)}).catch(function(z){o.innerHTML='<div class="bt-card alert"><p>'+e(err(z))+'</p></div>';o.hidden=false})
+ .then(function(){b.disabled=false;b.textContent='このリンクを確かめる'})});
+})();</script>""")
+
 PAGES = [
     {"path": "akisu-me", "title": "空き巣の目で、わが家を点検",
      "seo_title": "空き巣に狙われやすい家 チェック｜空き巣の下見の目で、わが家の隙を点検（無料・登録不要）",
@@ -398,6 +478,11 @@ PAGES = [
      "date": "2026-10-11",
      "desc": "家族の声の電話、「警察です」の電話、LINEへの誘い、暗号資産の送金。当てはまるサインを選ぶと、すぐやることと解説記事がわかる。警察庁の統計と研究をもとにした無料・登録不要のチェック。",
      "body": sagi_body, "css": CSS + T_CSS},
+    {"path": "link-check", "title": "そのリンクちょっと待った",
+     "seo_title": "URL 詐欺 チェック｜届いたSMS・メールのリンクを開く前に、危険度をAIが判定（無料・登録不要）",
+     "date": "2026-10-20",
+     "desc": "「お荷物を持ち帰りました」のSMSのリンク、押す前に貼るだけ。詐欺の報告一覧5万件・会社名を借りた偽ドメイン・短縮URLの行き先を点検し、AIが危険度0〜100と理由を返します。無料・登録不要。",
+     "body": lc_body, "css": CSS + T_CSS},
     {"path": "ai-tenken", "title": "AI時代の防犯 セルフ点検",
      "seo_title": "AI時代の防犯 セルフ点検｜パスワード・電話・SNS・AIチャット・家族の24項目（無料・登録不要）",
      "date": "2026-10-11",
@@ -424,6 +509,11 @@ LINKS.setdefault("ai-era-scam-checklist", [])
 for p, n, d in TOOLS:
     if not any(x[0] == "/" + p + "/" for x in LINKS["ai-era-scam-checklist"]):
         LINKS["ai-era-scam-checklist"].append(["/" + p + "/", n, d])
+LC_ROW = ["/link-check/"] + [[n, d] for p, n, d in TOOLS if p == "link-check"][0]
+for s in ("phishing-mail-sms-2025", "qr-code-phishing-sticker", "fake-shopping-site-checklist", "ai-written-phishing-email"):
+    LINKS.setdefault(s, [])
+    if not any(x[0] == "/link-check/" for x in LINKS[s]):
+        LINKS[s].insert(0, LC_ROW)
 # 本体（seadice.win）のツール。記事のツール枠の先頭に出す（toollinks.json を手で直すと次の書き出しで消えるため、ここに書く）
 DEKAKE = ["https://seadice.win/tools/dekakeru-mae-tenken/", "出かける前の30秒点検",
           "玄関・窓・郵便受け・SNSを外出の長さに合わせてタップ点検。点検した時刻が残り、外で「鍵閉めたっけ？」と思ったら見るだけ"]

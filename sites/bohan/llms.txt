@@ -120,6 +120,7 @@
 - [空き巣の目で、わが家を点検](https://bohan.seadice.win/akisu-me/): Webツール。空き巣が下見で見る「留守か・近づけるか・時間がかかるか」の順に、わが家の隙と直し方がわかる
 - [出かける前の30秒点検](https://seadice.win/tools/dekakeru-mae-tenken/): Webツール。玄関・窓・郵便受け・SNSを外出の長さに合わせてタップ点検。点検した時刻が残り、外で「鍵閉めたっけ？」と思ったら見るだけ
 - [この連絡、詐欺かも？チェック](https://bohan.seadice.win/sagi-check/): Webツール。電話・メール・SNSで当てはまるサインを選ぶと、すぐやることと相談先がわかる
+- [そのリンクちょっと待った](https://bohan.seadice.win/link-check/): Webツール。届いたSMS・メールのリンクを貼ると、詐欺の報告一覧と偽ドメインを点検し、AIが危険度と理由を返す
 - [AI時代の防犯 セルフ点検](https://bohan.seadice.win/ai-tenken/): Webツール。パスワード・電話・SNS・AIチャット・家族の24項目で、できた対策に印をつける
 - [家族の合言葉カード](https://bohan.seadice.win/aikotoba/): Webツール。AIの偽物の声に備える合言葉の決め方と、印刷できる手順カード
 - [自宅の防犯チェック](https://hanzaigaku.seadice.win/bouhan-check/): Webツール。犯罪学の4原則で、戸締まり・見通し・手入れ・被害後の備えを18項目で見直す
