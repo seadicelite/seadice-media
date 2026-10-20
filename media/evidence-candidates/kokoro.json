@@ -5815,5 +5815,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-desk-plant-focus-prevent-plants-attention",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Han K-T, Ruan L-W, Liao L-S, \"Effects of Indoor Plants on Human Functions: A Systematic Review with Meta-Analyses\" (International Journal of Environmental Research and Public Health, 2022)",
+    "sourceUrl": "https://doi.org/10.3390/ijerph19127454",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/desk-plant-focus-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "机に観葉植物で集中力アップ？",
+        "body": "「デスクに緑を置くと集中できる」ってよく聞くよね。仕事部屋に鉢植えを置いている人も多いはず。研究ではどうなんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "42本の研究を集めて比べた",
+        "body": "屋内の植物と人の関係を調べた研究42本を集めたまとめ。そのうち、植物のある部屋とない部屋で注意のテストを比べた3件（計177人）を合わせて分析したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "注意の成績の差はほぼゼロ",
+        "body": "合わせてみると、植物のある組とない組で注意のテストの差はほぼゼロ。一方、植物の世話をした生徒などの成績を比べた2件では、植物のある組で成績が高かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "研究の数がまだ少ない",
+        "body": "どの比較も2〜3件しか合わせられず、結果のばらつきも大きかった。植物の数や置き場所で変わるかは、まだわかっていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
