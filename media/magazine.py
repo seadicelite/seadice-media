@@ -2,7 +2,7 @@
 import html
 
 E = html.escape
-EXTRA_CSS = """
+TICKER_CSS = """
 .ticker{position:fixed;top:56px;left:0;right:0;z-index:90;height:34px;background:var(--card);border-bottom:1px solid var(--border);display:flex;align-items:center;overflow:hidden}
 .ticker .lb{flex:0 0 auto;font-size:12px;font-weight:800;letter-spacing:.14em;color:var(--bg);background:var(--accent);padding:0 12px;height:100%;display:flex;align-items:center}
 .ticker .tr{flex:1;overflow:hidden;white-space:nowrap;mask-image:linear-gradient(90deg,transparent,#000 24px,#000 calc(100% - 24px),transparent)}
@@ -10,6 +10,8 @@ EXTRA_CSS = """
 .ticker .tr:hover .tk{animation-play-state:paused}
 .ticker a{color:var(--text);font-size:12.5px;text-decoration:none;margin-right:36px}.ticker a b{color:var(--accent);font-weight:700;margin-right:6px}
 @keyframes tk{to{transform:translateX(-100%)}}@media(prefers-reduced-motion:reduce){.ticker .tk{animation:none;padding-left:0}}
+"""
+EXTRA_CSS = TICKER_CSS + """
 main.mag{padding-top:132px}
 .mhero{display:grid;gap:16px;grid-template-columns:1fr;margin-bottom:44px}@media(min-width:860px){.mhero{grid-template-columns:1.6fr 1fr}}
 .feat{position:relative;display:flex;align-items:flex-end;min-height:340px;border-radius:18px;overflow:hidden;text-decoration:none;color:var(--text);border:1px solid var(--border);background:linear-gradient(140deg,color-mix(in srgb,var(--c) 45%,var(--bg)),color-mix(in srgb,var(--c) 8%,var(--bg)))}
@@ -37,6 +39,14 @@ main.mag{padding-top:132px}
 """
 
 
+def ticker(cfg, posts):
+    """横に流れる PICK UP 帯。設定の tickerItems（ツールなど {label,title,href}）を先に、続けて速報（なければ新着）を10本。"""
+    extra = "".join(f'<a href="{E(x["href"], quote=True)}"><b>{E(x.get("label", ""))}</b>{E(x["title"])}</a>' for x in cfg.get("tickerItems") or [])
+    tick_src = [p for p in posts if p.get("type") == "news"] or posts
+    items = extra + "".join(f'<a href="/{p["slug"]}/">{E(p["title"])}</a>' for p in tick_src[:10])
+    return f'<div class="ticker"><span class="lb">PICK UP</span><div class="tr"><div class="tk">{items}</div></div></div>' if items else ""
+
+
 def render(cfg, posts, cats, images, types, img_url, card):
     def cat(p):
         return cats.get(p["category"], {"id": "x", "color": "#64748b", "icon": ""})
@@ -45,10 +55,7 @@ def render(cfg, posts, cats, images, types, img_url, card):
         c = cat(p)
         return f'<span class="tag" style="--c:{c["color"]}">{E(p["category"])}</span>'
 
-    # ティッカー(速報を優先、なければ新着)
-    tick_src = [p for p in posts if p.get("type") == "news"] or posts
-    ticker = "".join(f'<a href="/{p["slug"]}/">{E(p["title"])}</a>' for p in tick_src[:10])
-    ticker_html = f'<div class="ticker"><span class="lb">PICK UP</span><div class="tr"><div class="tk">{ticker}</div></div></div>' if ticker else ""
+    ticker_html = ticker(cfg, posts)
 
     # ヒーロー
     feat = next((p for p in posts if p.get("featured")), posts[0] if posts else None)

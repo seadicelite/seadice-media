@@ -116,6 +116,11 @@ def build(slug, preview=None):
         import hub
         secs = hub.render(cfg, posts, cats, images, types, card)
         extra_css = hub.EXTRA_CSS
+    tick_css = ""
+    if not mag and cfg.get("ticker"):  # 通常のトップにも、マガジン型と同じ横に流れる PICK UP 帯を出す
+        import magazine
+        ticker_html = magazine.ticker(cfg, posts)
+        tick_css = magazine.TICKER_CSS + "main{padding-top:122px}" if ticker_html else ""
     # hub は年齢・悩みの入口と新着を本文側に持つので、カテゴリチップと PICK UP を出さない
     pick = "" if cfg.get("layout") == "hub" else f'<div class="chips" aria-label="カテゴリ">{chips}</div><h2 class="sec">PICK UP</h2><div class="grid">{latest}</div>'
     import toolbox  # ツールとアプリをトップのヒーロー直下に出す（設定に toolbox / apps があるメディアだけ）
@@ -154,7 +159,7 @@ def build(slug, preview=None):
 <meta name="twitter:card" content="summary">
 {favicon_tag(cfg, theme)}
 <script type="application/ld+json">{ld}</script>
-<style>{CSS % theme}{extra_css if mag or cfg.get("layout") == "hub" else ""}{toolbox.CSS if tb_top else ""}{cfg.get("extraCss", "")}</style>
+<style>{CSS % theme}{extra_css if mag or cfg.get("layout") == "hub" else ""}{toolbox.CSS if tb_top else ""}{tick_css}{cfg.get("extraCss", "")}</style>
 </head>
 <body>
 <nav class="top">

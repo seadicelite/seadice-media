@@ -69,6 +69,7 @@
 
 - 一覧: https://senbei.seadice.win/tool/
 - [煎餅の組み合わせツール](https://senbei.seadice.win/tool/): Webツール。米・厚さ・蒸し練り・乾燥・焼き色・味付けを選ぶと、膨らみや硬さなど5つの目安と、その根拠の研究が出る
+- [まだない煎餅の味を探す](https://senbei.seadice.win/flavor/): Webツール。土台の味と足す味を選ぶと、SEADICEが調べた市販の839件の味にあるかと、合いそうかの研究が出る。試したい味は端末に残せる
 
 ## 主要ページ
 
@@ -78,4 +79,5 @@
 - 免責事項: https://senbei.seadice.win/disclaimer/
 - 研究一覧: https://senbei.seadice.win/research/
 - 組み合わせツール: https://senbei.seadice.win/tool/
+- 味を探す: https://senbei.seadice.win/flavor/
 - サイトマップ: https://senbei.seadice.win/sitemap.xml
