@@ -1777,5 +1777,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Xbox-360-Wireless-Controller-White.jpg/500px-Xbox-360-Wireless-Controller-White.jpg",
   "og": "https://ledger.seadice.win/img/kids-game-spending-recovery-steps.jpg",
   "local": true
+ },
+ "investing-readiness-checklist": {
+  "file": "File:3 Hourglasses Wellcome L0011331.jpg",
+  "src": "/img/investing-readiness-checklist.jpg",
+  "src640": "/img/investing-readiness-checklist-sm.jpg",
+  "w": 960,
+  "h": 712,
+  "alt": "砂時計",
+  "artist": "Unknown",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:3_Hourglasses_Wellcome_L0011331.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/3_Hourglasses_Wellcome_L0011331.jpg/960px-3_Hourglasses_Wellcome_L0011331.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/3_Hourglasses_Wellcome_L0011331.jpg/500px-3_Hourglasses_Wellcome_L0011331.jpg",
+  "og": "https://ledger.seadice.win/img/investing-readiness-checklist.jpg",
+  "local": true
  }
 }
