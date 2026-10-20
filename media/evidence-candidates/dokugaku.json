@@ -6996,5 +6996,73 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-woop-study-motivation-obstacle-plan-sheet-mcii-culture",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kizilcec & Cohen, \"Eight-minute self-regulation intervention raises educational attainment at scale in individualist but not collectivist cultures\" (PNAS, 2017)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.1611898114",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/woop-study-motivation-obstacle-plan-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "障害を先に書くとやる気が続く？",
+        "body": "願い・結果・障害・計画の順に書く「WOOP」。目標の達成をやや高めるという研究が多い方法なんだ。じゃあ、大人数でも効くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "オンライン講座で約1万8千人",
+        "body": "2つの講座の受講者（9,619人と8,344人）を、8分以内で終わるWOOPの作業をする組としない組に分けて、修了率を比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "全体では差が出なかった",
+        "body": "全体の修了率に統計的な差はなかった。個人主義が強いとされる国の人だけで見ると5.52%→7.28%に上がり、集団主義が強いとされる国では効果がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "障害の種類でも違う？",
+        "body": "効いたのは障害が「仕事や家族の用事」のときで、「時間がない」の人には効かなかった。ただしこの分析は、あとから見つけた傾向として扱われているんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-english-vocabulary-frequency-priority-table-top-1000-words",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Xodabande, Ebrahimi & Karimpour, \"How much vocabulary is needed for comprehension of video lectures in MOOCs: A corpus-based study\" (Frontiers in Psychology, 2022)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2022.992638",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/english-vocabulary-frequency-priority-table/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "英単語、何語覚えればいい？",
+        "body": "単語帳は何千語もあって、どこまでやればいいか迷うよね。実は、よく使われる単語ほど、英文の中でものすごく大きな割合を占めているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "講義194本・約445万語を数えた",
+        "body": "オンライン講座194本の講義の書き起こしを、よく使われる順の単語リストと照らし合わせて、何語知っていれば何%わかるかを数えたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "上位1,000語で約8割",
+        "body": "上位1,000語のグループで80.48%、3,000語で92.85%をカバーした。でも4,000語から先は、1,000語ふやしても1.5%以下しか増えなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "わかる割合＝理解ではない",
+        "body": "これは単語を数えた分析で、学習者が実際に理解できたかは測っていない。1つの講座サイトだけの講義なので、ほかの英語に当てはまるとも限らないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

@@ -92,7 +92,8 @@
     "use": [
      "vocab-review-schedule-recall-log",
      "l-r-listening-practice-log-sheet",
-     "speaking-practice-log-sheet"
+     "speaking-practice-log-sheet",
+     "english-vocabulary-frequency-priority-table"
     ]
    }
   },
@@ -393,7 +394,8 @@
     "use": [
      "study-burnout-recovery",
      "procrastination-checklist-study-log",
-     "study-anxiety-self-talk-rephrase-table"
+     "study-anxiety-self-talk-rephrase-table",
+     "woop-study-motivation-obstacle-plan-sheet"
     ],
     "why": [
      "why-procrastinate-studying",

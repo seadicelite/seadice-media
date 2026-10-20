@@ -1,5 +1,21 @@
 [
   {
+    "slug": "english-vocabulary-frequency-priority-table",
+    "category": "記憶・覚え方",
+    "type": "guide",
+    "date": "2026-10-20",
+    "title": "英単語は何から覚える？よく使われる順の「わかる割合」表と、覚える順番のチェック表（語彙の量とカバー率の研究から）",
+    "summary": "上位3,000語で講義の言葉の92.85%をカバー。その先は1,000語で1.5%以下しか増えない。目的別の必要語数と、覚える順番の表。"
+  },
+  {
+    "slug": "woop-study-motivation-obstacle-plan-sheet",
+    "category": "やる気・心",
+    "type": "guide",
+    "date": "2026-10-20",
+    "title": "勉強のやる気が続かないときのWOOPシート。願い・結果・障害・計画を書く使い方（障害を先に考える研究と、効かなかった大規模実験）",
+    "summary": "願い・結果・障害・計画を書くWOOPは目標の達成をやや高めた（g=0.336）。効かなかった大規模実験と、障害の種類で次の手を分けるシート。"
+  },
+  {
     "slug": "why-beginners-overconfident-relearning",
     "category": "やる気・心",
     "type": "guide",

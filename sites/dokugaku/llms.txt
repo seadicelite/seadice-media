@@ -32,6 +32,7 @@
 - [絵に描いて覚えるには？書き写すより残る「描いて覚える」やり方（描画効果の研究と限界）](https://dokugaku.seadice.win/draw-to-remember-study/): 用語の定義は書き写すより絵に描くと残る。ただし言い換えでも同程度、図の多い教材では効果なし。図を写さず意味を描く手順。
 - [飲み会の翌日、勉強が頭に入らない。前の日に覚えたことは消えた？どう立て直す？二日酔いと記憶の研究](https://dokugaku.seadice.win/drinking-night-before-study-memory-reset/): 大学生196人の実験では、飲んだ翌朝も前日の講義の小テストの点は落ちず、注意と反応の速さが落ちた。翌朝は思い出して確かめ、復習に回す。
 - [「なぜ？」と問いながら読むと覚えやすいのか。精緻化質問の研究](https://dokugaku.seadice.win/elaborative-interrogation-ask-why/): 事実ごとに「なぜ本当か」を1文で答える精緻化質問は、ただ読むより覚えやすい。効果は中程度で、知識のある分野ほど効く。
+- [英単語は何から覚える？よく使われる順の「わかる割合」表と、覚える順番のチェック表（語彙の量とカバー率の研究から）](https://dokugaku.seadice.win/english-vocabulary-frequency-priority-table/): 上位3,000語で講義の言葉の92.85%をカバー。その先は1,000語で1.5%以下しか増えない。目的別の必要語数と、覚える順番の表。
 - [英単語の効率的な覚え方。研究でわかった「思い出す・間をあける・使う」](https://dokugaku.seadice.win/english-vocabulary-how-to-memorize/): 英単語は眺めるより隠して思い出し、日をあけて復習すると覚えやすい。文で使うコツと語呂合わせの注意点も紹介
 - [暗記カードの効果的な使い方。研究でわかった「分けない・すぐ外さない」](https://dokugaku.seadice.win/flashcards-how-to-use/): 暗記カードは小分けにせず1束で回し、1回正解しただけで外さない方が長く覚えられる
 - [覚えたのに忘れてしまった。最初からやり直し？忘れた後の覚え直し（再学習）の研究](https://dokugaku.seadice.win/forgot-what-i-studied-relearning/): 忘れても覚え直しは最初より速い。白紙に思い出せるだけ書き、忘れた分だけ覚え直し、日をあけて2〜3回くり返す
@@ -253,6 +254,7 @@
 - [勉強を後回しにしてしまうのはなぜ？先延ばしの研究でわかった3つの理由](https://dokugaku.seadice.win/why-procrastinate-studying/): 先延ばしは課題の嫌さ・成果までの遠さ・嫌な気分から逃げたい気持ちと結びつく。理由ごとに試せる対策つき。
 - [試験が近いのに、勉強以外のことをしてしまうのはなぜ？失敗しても傷つかないための「言い訳づくり」（セルフ・ハンディキャッピング）の研究](https://dokugaku.seadice.win/why-self-handicapping-before-exam/): 試験前の片付けや夜更かしは、失敗を能力のせいにしないための言い訳づくりのことも。傾向が強い学生ほど3回のテストすべてで点が低かった。
 - [頭を使う勉強が面倒に感じるのはなぜ？「考えることは不快」という研究と、その反論](https://dokugaku.seadice.win/why-studying-feels-effortful-mental-effort/): 170研究の分析では、頭を使う作業ほど不快感が強かった。反論もあり、努力が報われると難しい課題を選ぶようになる実験もある。
+- [勉強のやる気が続かないときのWOOPシート。願い・結果・障害・計画を書く使い方（障害を先に考える研究と、効かなかった大規模実験）](https://dokugaku.seadice.win/woop-study-motivation-obstacle-plan-sheet/): 願い・結果・障害・計画を書くWOOPは目標の達成をやや高めた（g=0.336）。効かなかった大規模実験と、障害の種類で次の手を分けるシート。
 - [勉強する意味が見えず、やる気が出ない。学んだことと自分の生活のつながりを書く方法（研究とやり方）](https://dokugaku.seadice.win/write-why-study-matters-motivation/): 学んだことが自分にどう役立つかを自分で書くと、興味や続ける力を支えることがある。成績への効果は小さい。章ごとに10分書くのが目安。
 
 ### AIと独学

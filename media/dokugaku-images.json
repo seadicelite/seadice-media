@@ -3873,5 +3873,41 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kunstmann_IV_Compass_rose.jpg/500px-Kunstmann_IV_Compass_rose.jpg",
   "og": "https://dokugaku.seadice.win/img/why-beginners-overconfident-relearning-og.jpg",
   "local": true
+ },
+ "woop-study-motivation-obstacle-plan-sheet": {
+  "file": "File:Pencil Sketch of the Alaska Fiords, from John Muir's Alaska Notebooks.jpg",
+  "src": "/img/woop-study-motivation-obstacle-plan-sheet.jpg",
+  "src640": "/img/woop-study-motivation-obstacle-plan-sheet-sm.jpg",
+  "w": 960,
+  "h": 592,
+  "alt": "手帳に鉛筆で描かれた入り江のスケッチ",
+  "artist": "John Muir",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Pencil_Sketch_of_the_Alaska_Fiords,_from_John_Muir%27s_Alaska_Notebooks.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pencil_Sketch_of_the_Alaska_Fiords%2C_from_John_Muir%27s_Alaska_Notebooks.jpg/960px-Pencil_Sketch_of_the_Alaska_Fiords%2C_from_John_Muir%27s_Alaska_Notebooks.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pencil_Sketch_of_the_Alaska_Fiords%2C_from_John_Muir%27s_Alaska_Notebooks.jpg/500px-Pencil_Sketch_of_the_Alaska_Fiords%2C_from_John_Muir%27s_Alaska_Notebooks.jpg",
+  "og": "https://dokugaku.seadice.win/img/woop-study-motivation-obstacle-plan-sheet.jpg",
+  "local": true
+ },
+ "english-vocabulary-frequency-priority-table": {
+  "file": "File:First and last pages of the Persian dictionary Farhang-e Soruri.jpg",
+  "src": "/img/english-vocabulary-frequency-priority-table.jpg",
+  "src640": "/img/english-vocabulary-frequency-priority-table-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "古い辞書の最初と最後のページ",
+  "artist": "Soruri Kashani",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:First_and_last_pages_of_the_Persian_dictionary_Farhang-e_Soruri.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/First_and_last_pages_of_the_Persian_dictionary_Farhang-e_Soruri.jpg/960px-First_and_last_pages_of_the_Persian_dictionary_Farhang-e_Soruri.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/First_and_last_pages_of_the_Persian_dictionary_Farhang-e_Soruri.jpg/500px-First_and_last_pages_of_the_Persian_dictionary_Farhang-e_Soruri.jpg",
+  "og": "https://dokugaku.seadice.win/img/english-vocabulary-frequency-priority-table.jpg",
+  "local": true
  }
 }
