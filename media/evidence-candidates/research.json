@@ -7491,5 +7491,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-lecture-video-double-speed-memory-research-2x-story",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Massoud & El Khoury-Malhame, \"Normal speed versus time-compressed speech in long-term memory retention: a randomized, within subjects experimental design\" (BMC Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.1186/s40359-026-04398-5",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/lecture-video-double-speed-memory-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "2倍速でも内容は頭に入る？",
+        "body": "講義や動画を2倍速で見る人、多いよね。時間は半分で済むけど、ちゃんと覚えられているのかは気になるところ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ人が2つの速さで聞いた",
+        "body": "レバノンの大学生40人が、短い物語をふつうの速さと2倍速で1回ずつ聞いて、10分後に内容を答えたよ。聞く順番はくじ引きで入れ替えたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ふつうの速さで27%よく思い出せた",
+        "body": "ふつうの速さで聞いたほうが、手がかりつきで思い出す問題の成績が27%高かったらしい。全体で正しく思い出せたのは、およそ半分だった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "講義でも同じかは不明",
+        "body": "使ったのは講義ではなく短い物語で、1つの国の40人だけの実験。何日も後の記憶や、1.5倍くらいの速さで同じかはわかっていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
