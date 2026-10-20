@@ -2831,5 +2831,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Shattered_light_fixture_3.jpg/500px-Shattered_light_fixture_3.jpg",
   "og": "https://ai.seadice.win/img/ai-data-work-disturbing-content-distress.jpg",
   "local": true
+ },
+ "ai-reemployed-lower-job-gap-rebuild": {
+  "file": "File:Rear car of train and platforms at Como Lago Nord station in morning.jpg",
+  "src": "/img/ai-reemployed-lower-job-gap-rebuild.jpg",
+  "src640": "/img/ai-reemployed-lower-job-gap-rebuild-sm.jpg",
+  "w": 960,
+  "h": 631,
+  "alt": "朝の駅のホームと電車",
+  "artist": "Daniel Case",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rear_car_of_train_and_platforms_at_Como_Lago_Nord_station_in_morning.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rear_car_of_train_and_platforms_at_Como_Lago_Nord_station_in_morning.jpg/960px-Rear_car_of_train_and_platforms_at_Como_Lago_Nord_station_in_morning.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rear_car_of_train_and_platforms_at_Como_Lago_Nord_station_in_morning.jpg/500px-Rear_car_of_train_and_platforms_at_Como_Lago_Nord_station_in_morning.jpg",
+  "og": "https://ai.seadice.win/img/ai-reemployed-lower-job-gap-rebuild.jpg",
+  "local": true
  }
 }
