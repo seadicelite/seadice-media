@@ -1,0 +1,1452 @@
+[
+ {
+  "cat": "豆と発酵",
+  "authors": "Schwan・Wheals 2004",
+  "title": "The Microbiology of Cocoa Fermentation and its Role in Chocolate Quality",
+  "journal": "Critical Reviews in Food Science and Nutrition",
+  "url": "https://doi.org/10.1080/10408690490464104",
+  "level": "数字確認",
+  "finding": "カカオの発酵は果肉で酵母・乳酸菌・酢酸菌が順に入れ替わる過程で、最高50℃ほどの熱と、エタノール・乳酸・酢酸が豆を死なせ、香りの前駆体ができる。発酵しすぎるとバチルスやカビが増え、異臭の原因になる（レビュー）。",
+  "article": "fermentation-flavor"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "Ho・Zhao・Fleet 2014",
+  "title": "Yeasts are essential for cocoa bean fermentation",
+  "journal": "International Journal of Food Microbiology",
+  "url": "https://doi.org/10.1016/j.ijfoodmicro.2013.12.014",
+  "level": "要旨で照合",
+  "finding": "薬剤で酵母だけを増やさずに発酵させた豆は、紫色のまま十分に茶色くならず、そのチョコは酸っぱく、チョコらしい香りが欠けていた。酵母が育った豆のチョコのほうが、評価者にはっきり好まれた。",
+  "article": "fermentation-flavor"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "De Vuyst・Weckx 2016",
+  "title": "The cocoa bean fermentation process: from ecosystem analysis to starter culture development",
+  "journal": "Journal of Applied Microbiology",
+  "url": "https://doi.org/10.1111/jam.13045",
+  "level": "数字確認",
+  "finding": "自然発酵は農園で行われるため、品質がばらつく。丁寧に約4日発酵させると、酵母・乳酸菌・酢酸菌が順に働き、よく発酵した茶色い豆になる（レビュー）。",
+  "article": "fermentation-flavor"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "De Vuyst・Leroy 2020",
+  "title": "Functional role of yeasts, lactic acid bacteria and acetic acid bacteria in cocoa fermentation processes",
+  "journal": "FEMS Microbiology Reviews",
+  "url": "https://doi.org/10.1093/femsre/fuaa014",
+  "level": "要旨で照合",
+  "finding": "酵母は果肉の糖をエタノールにし香りの成分を作る。乳酸菌は環境を安定させ、酢酸菌はエタノールを酢酸にする。酢酸が豆にしみこんで発芽を止め、焙煎で香りになる材料（ペプチド・アミノ酸・還元糖）ができる（レビュー）。",
+  "article": ""
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "Rottiers ほか 2019",
+  "title": "Dynamics of volatile compounds and flavor precursors during spontaneous fermentation of fine flavor Trinitario cocoa beans",
+  "journal": "European Food Research and Technology",
+  "url": "https://doi.org/10.1007/s00217-019-03307-y",
+  "level": "数字確認",
+  "finding": "エクアドルのトリニタリオ種を0〜66時間の自然発酵で追うと、41の香り成分（果物様13、花様12）が見つかった。香りには果肉由来・豆由来・発酵中に微生物が作るものがあり、発酵が香りの前駆体と上質な香りを作り、保つのに欠かせなかった。",
+  "article": ""
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "Gopaulchan ほか 2025",
+  "title": "A defined microbial community reproduces attributes of fine flavour chocolate fermentation",
+  "journal": "Nature Microbiology",
+  "url": "https://doi.org/10.1038/s41564-025-02077-6",
+  "level": "要旨で照合",
+  "finding": "コロンビアの農園の発酵で、pH・温度・細菌とカビの顔ぶれが上質なチョコの香りに関わっていた。選んだ微生物の組み合わせで発酵させると、管理した条件でも上質なチョコの香りの特徴を再現できた（訓練された評価者で確認）。",
+  "article": "origin-variety-flavor"
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "Ramli ほか 2006",
+  "title": "Influence of roasting conditions on volatile flavor of roasted Malaysian cocoa beans",
+  "journal": "Journal of Food Processing and Preservation",
+  "url": "https://doi.org/10.1111/j.1745-4549.2006.00065.x",
+  "level": "数字確認",
+  "finding": "マレーシアの豆を120〜170℃・20〜50分で焙煎して比べた。香りの成分は160℃・30分で最も多かったが、チョコにして味わうと150℃・30分が渋み・苦みが最も少なく、酸味・焦げ味も少なかった。",
+  "article": "roasting-temperature"
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "Frauendorfer・Schieberle 2008",
+  "title": "Changes in Key Aroma Compounds of Criollo Cocoa Beans During Roasting",
+  "journal": "Journal of Agricultural and Food Chemistry",
+  "url": "https://doi.org/10.1021/jf802098f",
+  "level": "数字確認",
+  "finding": "クリオロ種の豆で、焙煎の前後とも同じ42の香り成分が見つかり、強さが変わった。生の豆では酸っぱい・すえた香り（酢酸など）が強く、焙煎後は麦芽様の3-メチルブタナールやカラメル様の成分が強くなった。",
+  "article": "roasting-temperature,aroma-key-odorants"
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "Owusu・Petersen・Heimdal 2011",
+  "title": "Effect of fermentation method, roasting and conching conditions on the aroma volatiles of dark chocolate",
+  "journal": "Journal of Food Processing and Preservation",
+  "url": "https://doi.org/10.1111/j.1745-4549.2011.00602.x",
+  "level": "数字確認",
+  "finding": "発酵方法（山積み・トレイ）・焙煎・コンチングを変えたダークチョコで、主な香り成分は高温（150℃）焙煎で多く、80℃のコンチングを6時間から10時間に延ばすと減った。焙煎を高温にしてコンチングを短くすると、発酵方法の違いが香りに出やすかった。",
+  "article": ""
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "Counet ほか 2002",
+  "title": "Use of Gas Chromatography-Olfactometry To Identify Key Odorant Compounds in Dark Chocolate. Comparison of Samples before and after Conching",
+  "journal": "Journal of Agricultural and Food Chemistry",
+  "url": "https://doi.org/10.1021/jf0114177",
+  "level": "数字確認",
+  "finding": "ダークチョコから33の強い香り成分が見つかり、チョコらしい香りは3つのアルデヒドだった。コンチングで新しい主役の香りはできず、一部の香り成分（フラネオールやピラジン類）は増え、多くのアルデヒドは蒸発して減った。",
+  "article": ""
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "Afoakwa ほか 2008",
+  "title": "Flavor Formation and Character in Cocoa and Chocolate: A Critical Review",
+  "journal": "Critical Reviews in Food Science and Nutrition",
+  "url": "https://doi.org/10.1080/10408390701719272",
+  "level": "要旨で照合",
+  "finding": "チョコの香りは豆の中の前駆体から始まり、発酵・乾燥のあと焙煎・コンチング・アルカリ処理の熱で変わる。ただ、品種・環境・収穫後の処理・加工のどれがどれだけ効くかは、はっきりしていないと整理した（レビュー）。",
+  "article": ""
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "Wille・Lutton 1966",
+  "title": "Polymorphism of cocoa butter",
+  "journal": "Journal of the American Oil Chemists' Society",
+  "url": "https://doi.org/10.1007/BF02641273",
+  "level": "要旨で照合",
+  "finding": "カカオバターには溶ける温度の低い順にI〜VI型の6つの結晶の形があることをX線で示した。チョコの中のふつうの形はV型とした。ブルームがVI型そのものだと言うのはまだ早いとした。",
+  "article": "temper-crystal-form-v"
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "Loisel ほか 1998",
+  "title": "Phase transitions and polymorphism of cocoa butter",
+  "journal": "Journal of the American Oil Chemists' Society",
+  "url": "https://doi.org/10.1007/s11746-998-0245-y",
+  "level": "要旨で照合",
+  "finding": "熱の出入りとX線を同時に測る装置で、カカオバターの6つの結晶の形（I〜VI型）がそれぞれできることを確かめ直した。6つの形は、主に不飽和の脂肪酸を1つ持つ油脂分子の結晶のしかたによると考えた。",
+  "article": ""
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "Stobbs ほか 2025",
+  "title": "Chocolate Tempering: A Perspective",
+  "journal": "Crystal Growth & Design",
+  "url": "https://doi.org/10.1021/acs.cgd.5c00269",
+  "level": "数字確認",
+  "finding": "カカオバターの結晶が溶ける温度は、IV型21.0〜33.0℃、V型30.0〜34.5℃、VI型33.5〜38.5℃（文献値の表）。ダークチョコは50℃超（多くは60℃）で溶かし、混ぜながら27〜29℃に冷まし、31〜32℃に戻してIV型を溶かす。溶ける温度は油脂の組成で変わる。",
+  "article": "temper-crystal-form-v,tempering-temperatures,seeding-method,fat-bloom-white,gloss-appearance"
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "Jevcsák ほか 2025",
+  "title": "Boosting Chocolate Nutrition with Sous Vide-Processed White Champignon (Agaricus bisporus) Powder: A Functional and Sustainable Approach",
+  "journal": "Foods",
+  "url": "https://doi.org/10.3390/foods14223808",
+  "level": "数字確認",
+  "finding": "テンパリングの温度を、ホワイト・ミルクは溶かす45℃→冷ます25℃→戻す29℃、ダークは50℃→27℃→30〜32℃と示した（チョコ製造の専門書 Talbot 2008 の引用。この論文の主題はきのこ粉末を加えたチョコ）。",
+  "article": "tempering-temperatures"
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "Hachiya・Koyano・Sato 1989a",
+  "title": "Seeding effects on solidification behavior of cocoa butter and dark chocolate. I. Kinetics of solidification",
+  "journal": "Journal of the American Oil Chemists' Society",
+  "url": "https://doi.org/10.1007/BF02660743",
+  "level": "要旨で照合",
+  "finding": "20〜70μmの油脂の結晶の粉を種として加えると、どれもカカオバターとダークチョコの固まりを速めた。効き方は種の結晶の安定さと、カカオバターの結晶と構造が似ているかで決まった。",
+  "article": ""
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "Hachiya・Koyano・Sato 1989b",
+  "title": "Seeding effects of solidification behavior of cocoa butter and dark chocolate. II. Physical properties of dark chocolate",
+  "journal": "Journal of the American Oil Chemists' Society",
+  "url": "https://doi.org/10.1007/BF02660744",
+  "level": "数字確認",
+  "finding": "カカオバターのVI型などを種にしたダークチョコはV型で固まり、型から抜けやすかった。32℃と20℃を行き来させる試験ではブルームが出なかったが、38℃と20℃では出た。BOBという油脂の結晶を5%加えると、38℃と20℃でもブルームが出なかった。",
+  "article": ""
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "Kinta・Hartel 2010",
+  "title": "Bloom Formation on Poorly-Tempered Chocolate and Effects of Seed Addition",
+  "journal": "Journal of the American Oil Chemists' Society",
+  "url": "https://doi.org/10.1007/s11746-009-1473-5",
+  "level": "数字確認",
+  "finding": "カカオバターの種結晶が少ないと、テンパリングしなかったチョコと同じような白いまだらのブルームが出た。うまくテンパリングするには、脂肪あたり270ppmを超える種が必要だった。種が多いほど安定な結晶が早く、細かくできた。",
+  "article": "seeding-method"
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "Afoakwa ほか 2008a",
+  "title": "Effects of tempering and fat crystallisation behaviour on microstructure, mechanical properties and appearance in dark chocolate systems",
+  "journal": "Journal of Food Engineering",
+  "url": "https://doi.org/10.1016/j.jfoodeng.2008.04.021",
+  "level": "要旨で照合",
+  "finding": "ダークチョコで、テンパリングしすぎると硬くべたつき、つやが減って色が暗くなった。足りないとブルームが出て、表面と内側が白くなり、食感・色・つやが落ちた。ちょうどよい状態が食感と見た目の要だった。",
+  "article": "temper-crystal-form-v,fat-bloom-white"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Lonchampt・Hartel 2004",
+  "title": "Fat bloom in chocolate and compound coatings",
+  "journal": "European Journal of Lipid Science and Technology",
+  "url": "https://doi.org/10.1002/ejlt.200400938",
+  "level": "要旨で照合",
+  "finding": "チョコのファットブルームは何十年も研究されてきたが、詳しい仕組みはまだよくわかっていないと整理し、ブルームを早める条件と遅らせる条件を比べた（レビュー）。",
+  "article": "fat-bloom-white"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Lonchampt・Hartel 2006",
+  "title": "Surface bloom on improperly tempered chocolate",
+  "journal": "European Journal of Lipid Science and Technology",
+  "url": "https://doi.org/10.1002/ejlt.200500260",
+  "level": "数字確認",
+  "finding": "テンパリングしなかったチョコの白い斑点は、脂肪がほとんどなく砂糖とカカオの粒が主で、成分が分かれてできていた。テンパリングしすぎたチョコのくすみは、成分は元のままで、大きな結晶のでこぼこが光を散らしていた。斑点は湿度0〜75%のどれでも出て、湿度が低いほど速く広がった。",
+  "article": ""
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Afoakwa ほか 2009",
+  "title": "Fat bloom development and structure-appearance relationships during storage of under-tempered dark chocolates",
+  "journal": "Journal of Food Engineering",
+  "url": "https://doi.org/10.1016/j.jfoodeng.2008.10.011",
+  "level": "数字確認",
+  "finding": "テンパリング不足のダークチョコを18±2℃・湿度50%で置くと、24時間以内にブルームが始まり、最初の96時間で白さが急に増えてつやが落ちた。72時間以内にIV型からVI型へ変わった。",
+  "article": ""
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Afoakwa ほか 2008b",
+  "title": "Particle size distribution and compositional effects on textural properties and appearance of dark chocolates",
+  "journal": "Journal of Food Engineering",
+  "url": "https://doi.org/10.1016/j.jfoodeng.2007.11.025",
+  "level": "数字確認",
+  "finding": "ダークチョコの粒の大きさ（D90が18・25・35・50μm）・脂肪・レシチンを変えると、粒が細かいほど固まったチョコが硬く、明るい色になった。脂肪とレシチンが多いと、粒の大きさの影響は小さくなった。",
+  "article": "particle-size-smooth"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Breen ほか 2019",
+  "title": "Oral somatosensatory acuity is related to particle size perception in chocolate",
+  "journal": "Scientific Reports",
+  "url": "https://doi.org/10.1038/s41598-019-43944-7",
+  "level": "数字確認",
+  "finding": "溶かしたチョコで、人が見分けられる粒の大きさの差は約5μmだった。粒が19μmと26μmの市販のチョコを見分けられたのは、口の触覚が鋭い人（20人中17人が正解）で、鈍い人は24人中12人と当て推量並みだった。",
+  "article": "particle-size-smooth"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Ghosh・Ziegler・Anantheswaran 2002",
+  "title": "Fat, Moisture, and Ethanol Migration through Chocolates and Confectionary Coatings",
+  "journal": "Critical Reviews in Food Science and Nutrition",
+  "url": "https://doi.org/10.1080/20024091054265",
+  "level": "要旨で照合",
+  "finding": "脂肪・水分・アルコールがチョコの中を移ると、シュガーブルームやファットブルームなどの見た目と味の傷みになる。正しくテンパリングすると移りにくい構造になり、移る速さは液状の油の量で決まると整理した（レビュー）。",
+  "article": ""
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Schnermann・Schieberle 1997",
+  "title": "Evaluation of Key Odorants in Milk Chocolate and Cocoa Mass by Aroma Extract Dilution Analyses",
+  "journal": "Journal of Agricultural and Food Chemistry",
+  "url": "https://doi.org/10.1021/jf960670h",
+  "level": "数字確認",
+  "finding": "ミルクチョコから51の香りのある成分が見つかり、44を特定した。麦芽様の3-メチルブタナール、ポテトチップ様のピラジン、桃のような甘い香りのラクトンなど13成分が特に強く効いていた。",
+  "article": ""
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Frauendorfer・Schieberle 2006",
+  "title": "Identification of the Key Aroma Compounds in Cocoa Powder Based on Molecular Sensory Correlations",
+  "journal": "Journal of Agricultural and Food Chemistry",
+  "url": "https://doi.org/10.1021/jf060728k",
+  "level": "数字確認",
+  "finding": "ココアパウダーから35の香り成分が見つかった。においの強さが閾値を超えた24成分を、香りを抜いたココアに同じ濃さで加えると、元のココアの甘いココアらしい香りが再現できた。",
+  "article": "aroma-key-odorants"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Seyfried・Granvogl 2019",
+  "title": "Characterization of the Key Aroma Compounds in Two Commercial Dark Chocolates with High Cocoa Contents by Means of the Sensomics Approach",
+  "journal": "Journal of Agricultural and Food Chemistry",
+  "url": "https://doi.org/10.1021/acs.jafc.8b06183",
+  "level": "数字確認",
+  "finding": "カカオ分90%と99%のダークチョコで69の香り成分を特定し、においの閾値を超えたのは28成分と30成分だった。酢酸・バニリン・リナロールなどの影響が大きく、同じ濃さで組み立て直した香りは元のチョコによく似ていた。",
+  "article": ""
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Stark・Bareuther・Hofmann 2005",
+  "title": "Sensory-Guided Decomposition of Roasted Cocoa Nibs (Theobroma cacao) and Structure Determination of Taste-Active Polyphenols",
+  "journal": "Journal of Agricultural and Food Chemistry",
+  "url": "https://doi.org/10.1021/jf050457y",
+  "level": "要旨で照合",
+  "finding": "焙煎したカカオニブの苦みと渋みには、テオブロミン・カフェインに加えて、エピカテキン・カテキン・プロシアニジン類などのポリフェノールが主に効いていた。",
+  "article": ""
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Stark・Hofmann 2005",
+  "title": "Structures, Sensory Activity, and Dose/Response Functions of 2,5-Diketopiperazines in Roasted Cocoa Nibs (Theobroma cacao)",
+  "journal": "Journal of Agricultural and Food Chemistry",
+  "url": "https://doi.org/10.1021/jf051313m",
+  "level": "数字確認",
+  "finding": "焙煎したカカオニブの、血のような金属っぽい苦みは、25種のジケトピペラジン（アミノ酸2つが輪になった成分）によるものだった。うち13種はカカオで初めて見つかった。",
+  "article": ""
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Rozin・Levine・Stoess 1991",
+  "title": "Chocolate craving and liking",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1016/0195-6663(91)90022-K",
+  "level": "数字確認",
+  "finding": "米国の大学生249人と親319人の調査で、チョコは女性で最も強く欲しくなる食べ物で、女性の約半数が欲しくなると答えた。好きな理由は主に味・食感・香りで、依存や成分の薬のような作用との関係はほとんど見つからなかった。",
+  "article": "chocolate-craving"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Michener・Rozin 1994",
+  "title": "Pharmacological versus sensory factors in the satiation of chocolate craving",
+  "journal": "Physiology & Behavior",
+  "url": "https://doi.org/10.1016/0031-9384(94)90283-6",
+  "level": "要旨で照合",
+  "finding": "チョコが欲しくなった人に、チョコ・カロリーをそろえたホワイトチョコ・カカオ成分のカプセル・偽薬などを食べてもらった。カプセルは偽薬や何もしないのと同じくほとんど効かず、ホワイトチョコは一部おさめた。欲求を満たすのは成分の薬のような作用ではなく、香りなどの感覚だと考えた。",
+  "article": "chocolate-craving"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Hetherington・MacDiarmid 1993",
+  "title": "\"Chocolate Addiction\": a Preliminary Study of its Description and its Relationship to Problem Eating",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1006/appe.1993.1042",
+  "level": "数字確認",
+  "finding": "自分をチョコ中毒だと思う50人は、週に平均約12枚（60g）食べ、週に約6回欲しくなった。76%が「中毒」をチョコの前で自制できないことと考え、やめられない理由を味・におい・食感だと考えていた。",
+  "article": ""
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Small ほか 2001",
+  "title": "Changes in brain activity related to eating chocolate: From pleasure to aversion",
+  "journal": "Brain",
+  "url": "https://doi.org/10.1093/brain/124.9.1720",
+  "level": "要旨で照合",
+  "finding": "満腹を超えるまでチョコを1かけずつ食べてもらい脳を撮ると、おいしいと感じて食べたいときと、もう要らないのに食べるときで、働く脳の場所が違った。同じチョコでも、食べ続けると快が不快に変わった。",
+  "article": "chocolate-craving,want-another-piece"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Reinoso Carvalho ほか 2017",
+  "title": "\"Smooth operator\": Music modulates the perceived creaminess, sweetness, and bitterness of chocolate",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1016/j.appet.2016.10.026",
+  "level": "要旨で照合",
+  "finding": "同じチョコを、なめらかな曲とざらついた曲で2回食べてもらうと、なめらかな曲のほうがクリーミーで甘いと評価された。ただ、おいしさの評価そのものは変わらなかった。",
+  "article": ""
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Lenfant ほか 2013",
+  "title": "Impact of the shape on sensory properties of individual dark chocolate pieces",
+  "journal": "LWT - Food Science and Technology",
+  "url": "https://doi.org/10.1016/j.lwt.2012.11.001",
+  "level": "数字確認",
+  "finding": "同じ配合のダークチョコを10の形にして、かまずに口で溶かしてもらうと、形によって溶け方となめらかさがはっきり変わり、カカオやカラメルの風味・後味にも小さな差が出た。溶け方の感じと風味の強さは関係しなかった。",
+  "article": "shape-sweetness"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Sesso ほか 2022（COSMOS）",
+  "title": "Effect of cocoa flavanol supplementation for the prevention of cardiovascular disease events: the COcoa Supplement and Multivitamin Outcomes Study (COSMOS) randomized clinical trial",
+  "journal": "The American Journal of Clinical Nutrition",
+  "url": "https://doi.org/10.1093/ajcn/nqac055",
+  "level": "数字確認",
+  "finding": "米国の高齢者21,442人にカカオ抽出物（フラバノール1日500mg）か偽薬を約3.6年。心血管の病気全体は減ったとは言えなかった（HR 0.90、95%CI 0.78〜1.02）。心血管による死亡はHR 0.73で、追加の研究が必要とした。チョコではなくサプリの試験。",
+  "article": "flavanol-health-claims"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Brickman ほか 2023（COSMOS-Web）",
+  "title": "Dietary flavanols restore hippocampal-dependent memory in older adults with lower diet quality and lower habitual flavanol consumption",
+  "journal": "PNAS",
+  "url": "https://doi.org/10.1073/pnas.2216932120",
+  "level": "数字確認",
+  "finding": "高齢者3,562人にカカオ抽出物（フラバノール1日500mg）か偽薬を3年。全員で見た1年後の記憶の改善は、統計的にはっきりしなかった。ふだんの食事の質やフラバノールの摂取が低い人では、記憶が回復した。",
+  "article": ""
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Ried ほか 2017（コクラン）",
+  "title": "Effect of cocoa on blood pressure",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "url": "https://doi.org/10.1002/14651858.CD008893.pub3",
+  "level": "数字確認",
+  "finding": "35試験（主に健康な1,804人、2〜18週）をまとめると、フラバノールの多いカカオ製品で血圧は上下とも平均1.76mmHg下がった。小さいが統計的には有意な差だった。",
+  "article": "flavanol-health-claims"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "EFSA 2012",
+  "title": "Scientific Opinion on the substantiation of a health claim related to cocoa flavanols and maintenance of normal endothelium-dependent vasodilation",
+  "journal": "EFSA Journal",
+  "url": "https://doi.org/10.2903/j.efsa.2012.2809",
+  "level": "数字確認",
+  "finding": "欧州食品安全機関は、カカオフラバノールが血管の正常な広がりを保つのに役立つと認め、そのためには1日200mgが必要とした。高フラバノールのココア2.5gかダークチョコ10gで取れる量とした（ふつうのチョコの量ではない）。",
+  "article": "flavanol-health-claims"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Weingart・Hartmann・Kohn 2021",
+  "title": "Chocolate ingestion in dogs: 156 events (2015-2019)",
+  "journal": "Journal of Small Animal Practice",
+  "url": "https://doi.org/10.1111/jsap.13329",
+  "level": "数字確認",
+  "finding": "チョコを食べて動物病院に来た犬156件のうち、44件に中毒の症状があり、そのうち28件はダーク・ビターチョコだった。症状は興奮・震え・嘔吐・速い脈など。治療で44件中43件が助かった。チョコの種類・量・時間が大事とした。",
+  "article": "dog-chocolate-theobromine"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Noble ほか 2017",
+  "title": "Heightened risk of canine chocolate exposure at Christmas and Easter",
+  "journal": "Veterinary Record",
+  "url": "https://doi.org/10.1136/vr.104762",
+  "level": "数字確認",
+  "finding": "英国の動物病院229か所の記録で、犬がチョコを食べた受診はクリスマスにふだんの約4.7倍、イースターに約2倍多かった。贈り物の箱やイースターエッグ・ケーキなどが多く、4歳未満の犬に多かった。",
+  "article": "dog-chocolate-theobromine"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Abt ほか 2018",
+  "title": "Cadmium and lead in cocoa powder and chocolate products in the US Market",
+  "journal": "Food Additives & Contaminants: Part B",
+  "url": "https://doi.org/10.1080/19393210.2017.1420700",
+  "level": "数字確認",
+  "finding": "米国の店で買ったココア・チョコで、カドミウムは0.004〜3.15mg/kg、鉛は検出限界未満〜0.38mg/kg。どちらもカカオ分が多いほど多い傾向で、カドミウムはアフリカ産より中南米産が多かった（米国FDAの研究者）。",
+  "article": "heavy-metals-dark"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Hands ほか 2024",
+  "title": "A multi-year heavy metal analysis of 72 dark chocolate and cocoa products in the USA",
+  "journal": "Frontiers in Nutrition",
+  "url": "https://doi.org/10.3389/fnut.2024.1366231",
+  "level": "数字確認",
+  "finding": "2014〜2022年に米国で買った72品で、カリフォルニア州の厳しい基準を超えたのは鉛43%・カドミウム35%・ヒ素0%。米国FDAの鉛の目安は97.2%が下回った。1日1食分なら多くは心配ないが、何食分も重ねると超えうるとした。",
+  "article": "heavy-metals-dark"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Rankin ほか 2005",
+  "title": "Lead contamination in cocoa and cocoa products: isotopic evidence of global contamination",
+  "journal": "Environmental Health Perspectives",
+  "url": "https://doi.org/10.1289/ehp.8009",
+  "level": "数字確認",
+  "finding": "ナイジェリアの農園のカカオ豆の鉛は0.5ng/g以下と自然の食べ物で最も低い水準だったが、製品のココアは最大230ng/g、チョコは最大70ng/gだった。鉛は主に豆を収穫したあと、加工や運搬のあいだに混ざると考えた。",
+  "article": ""
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "van Malssen K ら 1999",
+  "title": "Phase behavior and extended phase scheme of static cocoa butter investigated with real-time X-ray powder diffraction",
+  "journal": "Journal of the American Oil Chemists' Society",
+  "url": "https://doi.org/10.1007/s11746-999-0158-4",
+  "level": "要旨で照合",
+  "finding": "時間を追ったX線測定でカカオバターの形の移り変わりを整理。V型だけでなくVI型もβ′から直接できることがあると報告した。",
+  "article": "temper-crystal-form-v"
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "Schenk H, Peschar R 2004",
+  "title": "Understanding the structure of chocolate",
+  "journal": "Radiation Physics and Chemistry",
+  "url": "https://doi.org/10.1016/j.radphyschem.2004.04.105",
+  "level": "要旨で照合",
+  "finding": "V型のカカオバターの結晶構造を推定。油の鎖の端の位置の約43%が穴で、V型が安定しきらずVI型へ変わる理由と説明した（数字はESRFの研究紹介ページで照合）。",
+  "article": "temper-crystal-form-v"
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "Barišić V ら 2019",
+  "title": "The Chemistry behind Chocolate Production",
+  "journal": "Molecules",
+  "url": "https://doi.org/10.3390/molecules24173163",
+  "level": "数字確認",
+  "finding": "総説。カカオバターの6つの形の溶ける温度を17.3・23.3・25.5・27.5・33.8・36.3℃としている（文献によって値に幅がある）。",
+  "article": "temper-crystal-form-v"
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "Nedomová Š ら 2025",
+  "title": "Effect of Loading Rate on Tensile Strength and Fracture Stress of Chocolate",
+  "journal": "Journal of Texture Studies",
+  "url": "https://doi.org/10.1111/jtxs.70021",
+  "level": "数字確認",
+  "finding": "テンパリング機に設定した製造元の指定温度。ダーク45〜50→28〜29→31〜32℃、ミルク40〜45→27〜28→30〜31℃、ホワイト40〜42→25〜26→28〜29℃。",
+  "article": "tempering-temperatures"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Hodge SM, Rousseau D 2002",
+  "title": "Fat bloom formation and characterization in milk chocolate observed by atomic force microscopy",
+  "journal": "Journal of the American Oil Chemists' Society",
+  "url": "https://doi.org/10.1007/s11746-002-0613-4",
+  "level": "要旨で照合",
+  "finding": "ミルクチョコを20℃と32/33/34℃の間で行き来させると、32℃ではブルームはほとんど出ず、33℃で徐々に（VI型が出現）、34℃で広く出た。",
+  "article": "tempering-temperatures,fat-bloom-white"
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "Svanberg L ら 2011",
+  "title": "Effect of sugar, cocoa particles and lecithin on cocoa butter crystallisation in seeded and non-seeded chocolate model systems",
+  "journal": "Journal of Food Engineering",
+  "url": "https://doi.org/10.1016/j.jfoodeng.2010.09.023",
+  "level": "要旨で照合",
+  "finding": "チョコのモデルで、種を入れると多くの場所から結晶ができてすばやく網の目が育った。種がないと大きな丸い結晶ができるなどむらが出た。",
+  "article": "seeding-method"
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "Svanberg L ら 2012",
+  "title": "Impact of pre-crystallization process on structure and product properties in dark chocolate",
+  "journal": "Journal of Food Engineering",
+  "url": "https://doi.org/10.1016/j.jfoodeng.2012.06.016",
+  "level": "要旨で照合",
+  "finding": "ダークチョコで、VI型の種で固めると結晶がむらなく詰まりブルームと油のしみ出しを遅らせた。詰まりすぎるとむらができブルームに弱くなった。",
+  "article": "seeding-method"
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "Böhme B ら 2021",
+  "title": "Pre-Crystallization of Nougat by Seeding with Cocoa Butter Crystals Enhances the Bloom Stability of Nougat Pralines",
+  "journal": "Foods",
+  "url": "https://doi.org/10.3390/foods10051056",
+  "level": "数字確認",
+  "finding": "ナッツのペーストにカカオバターの種を0.5〜2%入れると、23℃保存でペーストの油がチョコへ移りにくくなりブルームに強くなった。",
+  "article": "seeding-method"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Heuler J ら 2020",
+  "title": "Point-of-care detection, characterization, and removal of chocolate bloom using a handheld Raman spectrometer",
+  "journal": "Scientific Reports",
+  "url": "https://doi.org/10.1038/s41598-020-66820-1",
+  "level": "数字確認",
+  "finding": "白くなった市販チョコ3種類で、水1滴2分で溶ければ砂糖、40℃の金属10秒で溶ければ油の白さと判定した。",
+  "article": "fat-bloom-white"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Canadian Food Inspection Agency 2020",
+  "title": "White coating on chocolate (chocolate bloom)",
+  "journal": "カナダ食品検査庁",
+  "url": "https://inspection.canada.ca/en/food-safety-consumers/fact-sheets/specific-products-and-risks/commonly-occurring-issues-food/chocolate-bloom",
+  "level": "数字確認",
+  "finding": "ブルームは味が落ちることはあっても健康への害はなく、食べても焼き菓子に使ってもよい。涼しく乾いた場所での保存で防げる。",
+  "article": "fat-bloom-white"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Kinta Y, Hatta T 2005",
+  "title": "Composition and Structure of Fat Bloom in Untempered Chocolate",
+  "journal": "Journal of Food Science",
+  "url": "https://doi.org/10.1111/j.1365-2621.2005.tb11491.x",
+  "level": "要旨で照合",
+  "finding": "テンパリングしないチョコの白さは、油が表面へ移るのではなく、育つ結晶が周りの油を引き寄せて油の少ない明るい部分ができるためと考えた。",
+  "article": "fat-bloom-white"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Küçükduman et al. 2026",
+  "title": "Spectral Pattern of Chocolate Production: Early Detection of Quality Problems",
+  "journal": "Journal of Food Science",
+  "url": "https://doi.org/10.1111/1750-3841.71269",
+  "level": "数字確認",
+  "finding": "ダークチョコを15・20・28℃で8か月保存すると、28℃では全試料にファットブルームと硬化、15℃でシュガーブルームが出た。20℃が新品に最も近かった",
+  "article": "storage-fridge"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Nightingale et al. 2011",
+  "title": "Impact of storage on dark chocolate: texture and polymorphic changes",
+  "journal": "Journal of Food Science",
+  "url": "https://doi.org/10.1111/j.1750-3841.2010.01970.x",
+  "level": "要旨で照合",
+  "finding": "高温・温度の上下がある保存で結晶がV型からVI型に変わり、硬く、甘さとクリーム感が弱く評価された（評価者10人、8週間）",
+  "article": "storage-fridge"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Nightingale et al. 2012",
+  "title": "Changes in dark chocolate volatiles during storage",
+  "journal": "Journal of Agricultural and Food Chemistry",
+  "url": "https://doi.org/10.1021/jf204718z",
+  "level": "要旨で照合",
+  "finding": "常温・冷凍・高湿度の保存で香りの成分が減ったが、味見では差が出なかった。影響が最も小さいのは一定温度・湿度75%",
+  "article": "storage-fridge"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Afoakwa et al. 2008",
+  "title": "Effects of particle size distribution and composition on rheological properties of dark chocolate",
+  "journal": "European Food Research and Technology",
+  "url": "https://doi.org/10.1007/s00217-007-0652-6",
+  "level": "要旨で照合",
+  "finding": "D90を18〜50µmに変えると、粒が大きいほど溶かしたチョコの粘りが下がった。流れやすさに最も効いたのは脂肪量",
+  "article": "particle-size-smooth"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "Ho et al. 2015",
+  "title": "The effect of lactic acid bacteria on cocoa bean fermentation",
+  "journal": "International Journal of Food Microbiology",
+  "url": "https://doi.org/10.1016/j.ijfoodmicro.2015.03.031",
+  "level": "要旨で照合",
+  "finding": "乳酸菌を抑えても豆は十分に発酵し、チョコの味見の順位に差はなかった",
+  "article": "fermentation-flavor"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "Ho et al. 2018",
+  "title": "Unravelling the contribution of lactic acid bacteria and acetic acid bacteria to cocoa fermentation using inoculated organisms",
+  "journal": "International Journal of Food Microbiology",
+  "url": "https://doi.org/10.1016/j.ijfoodmicro.2018.04.040",
+  "level": "要旨で照合",
+  "finding": "酵母4種に乳酸菌・酢酸菌を足しても足さなくても、チョコの三点識別・嗜好評価で差がなかった",
+  "article": "fermentation-flavor"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "Kongor et al. 2016",
+  "title": "Factors influencing quality variation in cocoa (Theobroma cacao) bean flavour profile — A review",
+  "journal": "Food Research International",
+  "url": "https://doi.org/10.1016/j.foodres.2016.01.012",
+  "level": "要旨で照合",
+  "finding": "香りは品種・発酵と乾燥・焙煎・土や木の年齢で決まる。発酵でできたアミノ酸と糖が焙煎で香りになる",
+  "article": "fermentation-flavor,origin-variety-flavor"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "Wang & Bekker 2026",
+  "title": "Compositional profiling of volatile and non-volatile compounds in Australian cocoa nibs: Insights into origin-dependent variability",
+  "journal": "Food Chemistry: X",
+  "url": "https://doi.org/10.1016/j.fochx.2026.104220",
+  "level": "数字確認",
+  "finding": "オーストラリアの3生産者のニブは、香りの成分が品種でなく発酵した場所ごとにまとまった（切り分けは不完全）",
+  "article": "origin-variety-flavor"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "Akoa et al. 2024",
+  "title": "Discriminating three lab scale dark chocolate bars from fine Cameroon cocoa hybrids using sensorial evaluation and organic acid content",
+  "journal": "Journal of Food Science and Technology",
+  "url": "https://doi.org/10.1007/s13197-024-05998-y",
+  "level": "要旨で照合",
+  "finding": "カメルーンの3交配種のチョコは、12人の評価で香りの特徴が品種ごとに分かれた",
+  "article": "origin-variety-flavor"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "Van de Voorde et al. 2023",
+  "title": "Yeast strains do have an impact on the production of cured cocoa beans, as assessed with Costa Rican Trinitario cocoa fermentation processes and chocolates thereof",
+  "journal": "Frontiers in Microbiology",
+  "url": "https://doi.org/10.3389/fmicb.2023.1232323",
+  "level": "要旨で照合",
+  "finding": "加える酵母でカカオマスの香りの成分は変わったが、最後のチョコでは差が出なかった。加工の影響が大きい",
+  "article": "origin-variety-flavor"
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "Owusu ら 2013",
+  "title": "Relationship of sensory and instrumental aroma measurements of dark chocolate as influenced by fermentation method, roasting and conching conditions",
+  "journal": "Journal of Food Science and Technology",
+  "url": "https://doi.org/10.1007/s13197-011-0420-2",
+  "level": "数字確認",
+  "finding": "ガーナ産の豆、訓練された8人の採点。山積み発酵の豆は焙煎で渋み10.9→5.6。練らないチョコは果物・バナナの風味が高い。焙煎とコンチングの条件が同時に違う。菓子メーカーとDANIDAの資金。",
+  "article": "roasting-temperature,conching-time,aroma-key-odorants"
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "Asefi ら 2023",
+  "title": "Effects of roasting on alkylpyrazin compounds and properties of cocoa powder",
+  "journal": "Journal of Food Science and Technology",
+  "url": "https://doi.org/10.1007/s13197-022-05640-9",
+  "level": "要旨で照合",
+  "finding": "ココアパウダーで、140℃40分の焙煎が焼き色・TMP/TrMP比・官能評価で最も高く、ポリフェノールは最も少なかった。",
+  "article": "roasting-temperature"
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "Guckenbiehl ら 2024",
+  "title": "Conching of dark chocolate – Processing impacts on aroma-active volatiles and viscosity of plastic masses",
+  "journal": "Current Research in Food Science",
+  "url": "https://doi.org/10.1016/j.crfs.2024.100909",
+  "level": "数字確認",
+  "finding": "カカオ分60%の生地200kgを6時間練ると香りの成分6種がおおむね減り、80℃ではリナロールが78.0%減。粘りも下がった。人の評価はなし。",
+  "article": "conching-time"
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "Guckenbiehl ら 2022",
+  "title": "Aroma-active volatiles and rheological characteristics of the plastic mass during conching of dark chocolate",
+  "journal": "Food Research International",
+  "url": "https://doi.org/10.1016/j.foodres.2022.112063",
+  "level": "要旨で照合",
+  "finding": "コンチングで5つの香りの成分がすべて減り、酢酸は約60%、リナロールは最大26%減った。",
+  "article": "conching-time"
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "Augusto・Bolini 2022",
+  "title": "The role of conching in chocolate flavor development: A review",
+  "journal": "Comprehensive Reviews in Food Science and Food Safety",
+  "url": "https://doi.org/10.1111/1541-4337.12975",
+  "level": "要旨で照合",
+  "finding": "総説。コンチングは香りの成分の量と居場所を変え、口の中での香りの出方を変える。時間と温度が主な条件。",
+  "article": "conching-time,aroma-key-odorants"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Frauendorfer・Schieberle 2019",
+  "title": "Key aroma compounds in fermented Forastero cocoa beans and changes induced by roasting",
+  "journal": "European Food Research and Technology",
+  "url": "https://doi.org/10.1007/s00217-019-03292-2",
+  "level": "要旨で照合",
+  "finding": "フォラステロ種でも焙煎前後で香りの成分の顔ぶれはほぼ同じ。閾値を超えた成分は20→24。Strecker アルデヒドとカラメル様のフラノンが大きく増えた。",
+  "article": "aroma-key-odorants"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Harwood ら 2012",
+  "title": "Rejection thresholds in solid chocolate-flavored compound coating",
+  "journal": "Journal of Food Science",
+  "url": "https://doi.org/10.1111/j.1750-3841.2012.02889.x",
+  "level": "数字確認",
+  "finding": "85人。苦み成分を足したチョコ風味の菓子で、拒否の閾値はダーク好きがミルク好きの約2.58倍（p=0.01）。菓子業者団体の資金あり。",
+  "article": "cacao-percent-bitter"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Harwood ら 2012",
+  "title": "Rejection thresholds in chocolate milk: Evidence for segmentation",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/j.foodqual.2012.04.009",
+  "level": "要旨で照合",
+  "finding": "チョコミルクで拒否の閾値はダーク好きが約2.3倍。苦みに気づける量（検出閾値）は両群で同じ。",
+  "article": "cacao-percent-bitter"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Harwood ら 2013",
+  "title": "Tolerance for high flavanol cocoa powder in semisweet chocolate",
+  "journal": "Nutrients",
+  "url": "https://doi.org/10.3390/nu5062258",
+  "level": "数字確認",
+  "finding": "99人。発酵の浅い豆のココアに脂肪以外のカカオ分の80.7%を置き換えた所で拒否の閾値。ミルク好き・ダーク好きで差なし。",
+  "article": "cacao-percent-bitter"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Wagner ら 2023",
+  "title": "Sensory and affective response to chocolate differing in cocoa content: A TDS and facial electromyography approach",
+  "journal": "Physiology & Behavior",
+  "url": "https://doi.org/10.1016/j.physbeh.2023.114308",
+  "level": "要旨で照合",
+  "finding": "市販ダークチョコ36・70・85%。85%で苦み、36%で甘さが目立ち、好まれたのは70%と36%、85%が最も好まれなかった。",
+  "article": "cacao-percent-bitter"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Hormes, Rozin 2009",
+  "title": "Perimenstrual chocolate craving. What happens after menopause?",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1016/j.appet.2009.07.003",
+  "level": "要旨で照合",
+  "finding": "閉経後の渇望の減少は13.4%で、ホルモン説の予測38%より小さかった。",
+  "article": "chocolate-craving"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Osman, Sobal 2006",
+  "title": "Chocolate cravings in American and Spanish individuals: biological and cultural influences",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1016/j.appet.2006.04.008",
+  "level": "要旨で照合",
+  "finding": "渇望がある割合は米国で女性91%・男性59%、スペインで90%・78%。文化の影響が示唆された。",
+  "article": "chocolate-craving"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Rogers, Smit 2000",
+  "title": "Food craving and food \"addiction\": a critical review of the evidence from a biopsychosocial perspective",
+  "journal": "Pharmacology Biochemistry and Behavior",
+  "url": "https://doi.org/10.1016/s0091-3057(00)00197-0",
+  "level": "要旨で照合",
+  "finding": "チョコの渇望の多くは依存行動ではなく、「おいしいが控えるべき」という揺れと帰属で説明できるとした総説。",
+  "article": "chocolate-craving"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Berridge 2009",
+  "title": "'Liking' and 'wanting' food rewards: brain substrates and roles in eating disorders",
+  "journal": "Physiology & Behavior",
+  "url": "https://doi.org/10.1016/j.physbeh.2009.02.044",
+  "level": "要旨で照合",
+  "finding": "食べ物のごほうびの「好き」と「欲しい」は脳の別の仕組みが担うとまとめた総説。",
+  "article": "chocolate-craving"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Hagan, Pawling, McGlone, Walker 2025",
+  "title": "No evidence for goal priming or sensory specific satiety effects following exposure to ambient food odours",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1016/j.appet.2024.107730",
+  "level": "要旨で照合",
+  "finding": "チョコを食べた後、チョコの画像への握る力（欲しさ）は下がり、オレンジへは下がらなかった（食べ飽き、40人）。",
+  "article": "chocolate-craving"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Parker, Parker, Brotchie 2006",
+  "title": "Mood state effects of chocolate",
+  "journal": "Journal of Affective Disorders",
+  "url": "https://doi.org/10.1016/j.jad.2006.02.007",
+  "level": "要旨で照合",
+  "finding": "気分を紛らわすためのチョコは落ち込みを長引かせやすく、気分の良さは一時的とした総説。",
+  "article": "chocolate-craving"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Macht, Dettmer 2006",
+  "title": "Everyday mood and emotions after eating a chocolate bar or an apple",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1016/j.appet.2006.01.014",
+  "level": "要旨で照合",
+  "finding": "女性37人で、チョコもりんごも食後に気分が上がり、チョコの方が強かった。罪悪感を覚えた人もいた。",
+  "article": "chocolate-craving"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Hayes (ASPCA APCC) 2024",
+  "title": "Chocolate Toxicosis in Animals",
+  "journal": "Merck Veterinary Manual",
+  "url": "https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals",
+  "level": "数字確認",
+  "finding": "メチルキサンチンはココア28.5mg/g、ダーク5.3〜5.6、ミルク2.3、ホワイト0.04。20mg/kgで軽い症状、40〜50で心臓、60以上でけいれん。症状は6〜12時間で出る。",
+  "article": "dog-chocolate-theobromine"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "環境省 2009",
+  "title": "飼い主のためのペットフード・ガイドライン（第二版）",
+  "journal": "環境省",
+  "url": "https://www.env.go.jp/nature/dobutsu/aigo/2_data/pamph/petfood_guide/pdf/full.pdf",
+  "level": "数字確認",
+  "finding": "チョコはテオブロミンで嘔吐・下痢・発熱・けいれん。猫でも起きうる。買い置きを放置しない。",
+  "article": "dog-chocolate-theobromine"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Abt, Robin 2020",
+  "title": "Perspective on Cadmium and Lead in Cocoa and Chocolate",
+  "journal": "Journal of Agricultural and Food Chemistry",
+  "url": "https://doi.org/10.1021/acs.jafc.9b08295",
+  "level": "要旨で照合",
+  "finding": "Cd・Pbは自然と人の活動の両方に由来し、中南米の一部では土壌Cdが高いことが要因。",
+  "article": "heavy-metals-dark"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Thornton, Mincin, Adebambo, Kreider, Unice 2026",
+  "title": "Probabilistic biokinetic lead modeling to quantify relative contribution of chocolate bar intake to blood lead levels",
+  "journal": "Food and Chemical Toxicology",
+  "url": "https://doi.org/10.1016/j.fct.2026.115979",
+  "level": "要旨で照合",
+  "finding": "米国の普通の食べ方でチョコは鉛摂取全体の約0.3〜0.8%。子どもの血中鉛には土・ほこりが大きく関わる。",
+  "article": "heavy-metals-dark"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "European Commission 2023",
+  "title": "Commission Regulation (EU) 2023/915 on maximum levels for certain contaminants in food",
+  "journal": "Official Journal of the EU",
+  "url": "https://eur-lex.europa.eu/eli/reg/2023/915/oj",
+  "level": "数字確認",
+  "finding": "Cdの上限: ミルク<30% 0.10、<50% 0.30、≥50% 0.80、ココアパウダー0.60 mg/kg。チョコの鉛の項目はなし。",
+  "article": "heavy-metals-dark"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "U.S. FDA 2025",
+  "title": "Lead in Food and Foodwares",
+  "journal": "FDA",
+  "url": "https://www.fda.gov/food/environmental-contaminants-food/lead-food-and-foodwares",
+  "level": "数字確認",
+  "finding": "鉛の暫定目安は子ども1日2.2µg、出産可能年齢の女性8.8µg。",
+  "article": "heavy-metals-dark"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "厚生労働省",
+  "title": "カドミウム基準値を超えるコメの流通について（Q&A）",
+  "journal": "厚生労働省",
+  "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/daietto/index_00012.html",
+  "level": "数字確認",
+  "finding": "カドミウムの基準値は米0.4ppmと清涼飲料水のみ。耐容週間摂取量は7µg/kg体重/週。",
+  "article": "heavy-metals-dark"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Baker, Manson, Rapp et al. 2023",
+  "title": "Effects of cocoa extract and a multivitamin on cognitive function: A randomized clinical trial",
+  "journal": "Alzheimer's & Dementia",
+  "url": "https://doi.org/10.1002/alz.12767",
+  "level": "要旨で照合",
+  "finding": "COSMOS-Mind 2262人、3年間でカカオ抽出物は認知機能に効果なし。",
+  "article": "flavanol-health-claims"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Vyas, Manson, Sesso et al. 2024",
+  "title": "Effect of cocoa extract supplementation on cognitive function: results from the clinic subcohort of the COSMOS trial",
+  "journal": "American Journal of Clinical Nutrition",
+  "url": "https://doi.org/10.1016/j.ajcnut.2023.10.031",
+  "level": "要旨で照合",
+  "finding": "対面検査の573人で、2年間の全体・記憶・注意に差なし。",
+  "article": "flavanol-health-claims"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "EFSA NDA Panel 2014",
+  "title": "Scientific Opinion on the modification of the authorisation of a health claim related to cocoa flavanols and maintenance of normal endothelium-dependent vasodilation",
+  "journal": "EFSA Journal",
+  "url": "https://doi.org/10.2903/j.efsa.2014.3654",
+  "level": "要旨で照合",
+  "finding": "同じ表示の条件を、高フラバノールのカカオ抽出物のカプセル・錠剤にも広げることを支持。",
+  "article": "flavanol-health-claims"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Hetherington ら 2002",
+  "title": "Stimulus satiation: effects of repeated exposure to foods on pleasantness and intake",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1006/appe.2001.0442",
+  "level": "要旨で照合",
+  "finding": "男性13人が同じチョコ67gを22日間毎日食べると、味のおいしさと食べたい気持ちの評価が下がった。バターつきパンでは下がらず、自由に食べた量は日を追って増えた。",
+  "article": "want-another-piece"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Rolls ら 1982",
+  "title": "How sensory properties of foods affect human feeding behavior",
+  "journal": "Physiology & Behavior",
+  "url": "https://doi.org/10.1016/0031-9384(82)90259-1",
+  "level": "要旨で照合",
+  "finding": "色だけが違うチョコでも、食べた色のおいしさの評価が食べていない色より大きく下がった。色を変えても食べる量は増えなかった。",
+  "article": "want-another-piece,salt-contrast-inclusions"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Sørensen・Astrup 2011",
+  "title": "Eating dark and milk chocolate: a randomized crossover study of effects on appetite and energy intake",
+  "journal": "Nutrition & Diabetes",
+  "url": "https://doi.org/10.1038/nutd.2011.17",
+  "level": "数字確認",
+  "finding": "男性16人で、カカオ分70%のダークチョコ100gのあとはミルクチョコ（30%）より甘いものへの欲求が低く、2時間後の食事が17%少なかった。",
+  "article": "want-another-piece"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Weijzen ら 2008",
+  "title": "Effects of complexity and intensity on sensory specific satiety and food acceptance after repeated consumption",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/j.foodqual.2007.11.003",
+  "level": "要旨で照合",
+  "finding": "スープとスナックで、ほどよい強さ・複雑さの味は繰り返し食べてもおいしさが下がりにくかった。強い味のスナックの食べ飽きは傾向のみ（p=0.09）。チョコかは不明。",
+  "article": "want-another-piece"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Xiao ら 2025",
+  "title": "Effects of multisensory packaging on taste perception, emotional responses, and willingness to pay for chocolate",
+  "journal": "Scientific Reports",
+  "url": "https://doi.org/10.1038/s41598-025-24077-6",
+  "level": "数字確認",
+  "finding": "36人が同じチョコを6種類の箱で評価。開け方で箱の魅力、香りと手ざわりで味の感じ方が変わった。チョコの香りは高級感と購入意向を上げ、好き度と「また食べたい」を下げた。",
+  "article": "gift-chocolate-psychology,packaging-crossmodal"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Ogata ら 2023",
+  "title": "The influence of Bouba- and Kiki-like shape on perceived taste of chocolate pieces",
+  "journal": "Frontiers in Psychology",
+  "url": "https://doi.org/10.3389/fpsyg.2023.1170674",
+  "level": "数字確認",
+  "finding": "日本人24人で、3Dプリンターで形だけ変えた同じチョコは、丸い形のほうがとがった形より甘く感じられた。酸味・苦味は差なし。",
+  "article": "gift-chocolate-psychology,shape-sweetness"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Flynn・Adams 2009",
+  "title": "Money can't buy love: Asymmetric beliefs about gift price and feelings of appreciation",
+  "journal": "Journal of Experimental Social Psychology",
+  "url": "https://doi.org/10.1016/j.jesp.2008.11.003",
+  "level": "書誌のみ",
+  "finding": "（スタンフォード大学の研究紹介で確認）3研究で、贈る側は高い贈り物ほど感謝されると考えたが、受け取る側の感謝は値段とつながらなかった。チョコの研究ではない。",
+  "article": "gift-chocolate-psychology"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Gino・Flynn 2011",
+  "title": "Give them what they want: The benefits of explicitness in gift exchange",
+  "journal": "Journal of Experimental Social Psychology",
+  "url": "https://doi.org/10.1016/j.jesp.2011.03.015",
+  "level": "書誌のみ",
+  "finding": "（スタンフォード大学の研究紹介で確認）5研究で、受け取る側は頼んだ品を頼んでいない品よりありがたく感じたが、贈る側はそう予想しなかった。チョコの研究ではない。",
+  "article": "gift-chocolate-psychology"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Rixom ら 2020",
+  "title": "Presentation matters: The effect of wrapping neatness on gift attitudes",
+  "journal": "Journal of Consumer Psychology",
+  "url": "https://doi.org/10.1002/jcpy.1140",
+  "level": "要旨で照合",
+  "finding": "友人からの贈り物はきれいに包むほど期待が上がり、開けたあとの評価が下がった。知り合い程度の相手からではきれいな包みで評価が上がった。チョコの研究ではない。",
+  "article": "gift-chocolate-psychology"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Galak ら 2016",
+  "title": "Why certain gifts are great to give but not to get",
+  "journal": "Current Directions in Psychological Science",
+  "url": "https://doi.org/10.1177/0963721416656937",
+  "level": "要旨で照合",
+  "finding": "贈る側は渡す瞬間に、受け取る側はもらったあとの価値に注目するため、贈り物の選び方がずれるとまとめた総説。",
+  "article": "gift-chocolate-psychology"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Gunaratne ら 2019",
+  "title": "Effects of packaging design on sensory liking and willingness to purchase: A study using novel chocolate packaging",
+  "journal": "Heliyon",
+  "url": "https://doi.org/10.1016/j.heliyon.2019.e01696",
+  "level": "数字確認",
+  "finding": "75人が同じダークチョコを6種類の包みで評価。購入意向の回帰係数は味の好き度0.73、包みの好き度0.03。包みの期待と中身が違うと好き度が下がった。",
+  "article": "buy-again-liking"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Torres-Moreno ら 2012",
+  "title": "Influence of label information on dark chocolate acceptability",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1016/j.appet.2011.12.005",
+  "level": "要旨で照合",
+  "finding": "109人で、銘柄を伏せるとカカオ分の高いダークチョコが好まれにくかった。店の独自品は食べると高い銘柄と同じくらい好まれた。カカオ分・単一産地の表示は期待を上げなかった。",
+  "article": "buy-again-liking,origin-story-label"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Torres-Moreno ら 2012",
+  "title": "Dark chocolate acceptability: influence of cocoa origin and processing conditions",
+  "journal": "Journal of the Science of Food and Agriculture",
+  "url": "https://doi.org/10.1002/jsfa.4592",
+  "level": "要旨で照合",
+  "finding": "95人で、ダークチョコの好き度の差は主に風味の好き嫌いから生まれた。長い焙煎はガーナ産では好き度を下げ、エクアドル産では変わらなかった。",
+  "article": "buy-again-liking"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Harwood ら 2013",
+  "title": "Explaining tolerance for bitterness in chocolate ice cream using solid chocolate preferences",
+  "journal": "Journal of Dairy Science",
+  "url": "https://doi.org/10.3168/jds.2013-6715",
+  "level": "要旨で照合",
+  "finding": "チョコアイスで、ダークチョコ好きの組はミルクチョコ好きの組のほぼ2倍の苦味成分まで許せた。",
+  "article": "buy-again-liking"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Wang et al. 2017",
+  "title": "Assessing the effect of shape on the evaluation of expected and actual chocolate flavour",
+  "journal": "Flavour",
+  "url": "https://doi.org/10.1186/s13411-017-0052-1",
+  "level": "要旨で照合",
+  "finding": "丸いチョコと角ばったチョコで、食べる前の甘さ・苦さ・クリーミーさの予想は変わったが、食べたあとの評価は変わらなかった。丸いチョコは予想より甘くないと評価された。",
+  "article": "shape-sweetness"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "山﨑ら 2023",
+  "title": "味覚受容体の刺激以外が味に及ぼす影響の検討 ～チョコレートの形の違いが苦味の感じ方に与える影響～",
+  "journal": "中国学園紀要",
+  "url": "https://doi.org/10.24770/0002000004",
+  "level": "数字確認",
+  "finding": "星形とハート形などで苦さの感じ方に有意な差はなかった（37人中17人と20人、p=0.622）。最初に食べた形を苦く感じる傾向があった（大学の紀要）。",
+  "article": "shape-sweetness"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Spinelli S ほか 2021",
+  "title": "Phenol-Rich Food Acceptability: The Influence of Variations in Sweetness Optima and Sensory-Liking Patterns",
+  "journal": "Nutrients",
+  "url": "https://doi.org/10.3390/nu13030866",
+  "level": "数字確認",
+  "finding": "イタリアの1,208人がチョコプリンを砂糖4段階で食べると、甘いほど好き39%・頭打ち41%・甘すぎると下がる21%の3型に分かれた",
+  "article": "sweetness-bliss-point"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Martinez-Levy AC ほか 2021",
+  "title": "Taste Responses to Chocolate Pudding with Different Sucrose Concentrations through Physiological and Explicit Self-Reported Measures",
+  "journal": "Foods",
+  "url": "https://doi.org/10.3390/foods10071527",
+  "level": "数字確認",
+  "finding": "28人のチョコプリン試食で、砂糖が増えるほど苦さの評価が下がり、最も少ない砂糖で好きが低かった",
+  "article": "sweetness-bliss-point"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Thibodeau M ほか 2026",
+  "title": "Influence of sweetness, bitterness and Sweet Liking Status on liking and emotional response to chocolate",
+  "journal": "International Journal of Gastronomy and Food Science",
+  "url": "https://doi.org/10.1016/j.ijgfs.2026.101515",
+  "level": "要旨で照合",
+  "finding": "105人がホワイト・ミルク・ダークを食べると、甘いチョコ好き59%・ダーク好き28%・とても濃いダーク好き13%に分かれた",
+  "article": "sweetness-bliss-point"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Azevedo BM ほか 2016",
+  "title": "The Influence of the Rebaudioside A Content of Stevia on the Determination of Sweetness Equivalence in Bittersweet Chocolates, Using the Time-Intensity Analysis",
+  "journal": "Journal of Food Science",
+  "url": "https://doi.org/10.1111/1750-3841.13546",
+  "level": "要旨で照合",
+  "finding": "ダーク系（ビタースイート）チョコ5種の試食で、ちょうどいい砂糖は47.5%とされた",
+  "article": "sweetness-bliss-point"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "de Melo LLMM ほか 2007",
+  "title": "Equisweet milk chocolates with intense sweeteners using time-intensity method",
+  "journal": "Journal of Food Quality",
+  "url": "https://doi.org/10.1111/j.1745-4557.2007.00177.x",
+  "level": "要旨で照合",
+  "finding": "砂糖40〜52%のミルクチョコ5種で、ちょうどいい甘さは砂糖43%だった",
+  "article": "sweetness-bliss-point"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Iatridi V ほか 2019",
+  "title": "Quantifying Sweet Taste Liker Phenotypes: Time for Some Consistency in the Classification Criteria",
+  "journal": "Nutrients",
+  "url": "https://doi.org/10.3390/nu11010129",
+  "level": "要旨で照合",
+  "finding": "148人が砂糖水8段階を味わうと、甘いほど好き・途中で最大・甘いほど嫌いの3型に分かれた（チョコではなく砂糖水）",
+  "article": "sweetness-bliss-point"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Molard B ほか 2026",
+  "title": "Beyond cocoa butter: How partial substitution with cocoa butter extenders reshapes temporal dominance of sensations and aroma release in chocolate",
+  "journal": "Food Research International",
+  "url": "https://doi.org/10.1016/j.foodres.2026.120345",
+  "level": "数字確認",
+  "finding": "16人が同じダークを噛む・溶かすで食べると、口にある時間は約52秒と約110秒。溶かすとカカオが早く主役になり、苦みが主役の時間が長くなった",
+  "article": "melt-flavor-release, aftertaste-temporal"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Carvalho-da-Silva AM ほか 2011",
+  "title": "Characterisation of chocolate eating behaviour",
+  "journal": "Physiology & Behavior",
+  "url": "https://doi.org/10.1016/j.physbeh.2011.06.001",
+  "level": "要旨で照合",
+  "finding": "チョコの食べ方は「早く噛む人」「よく噛む人」「なめて溶かす人」の3つに分かれ、口にある時間や噛む速さが違った",
+  "article": "melt-flavor-release"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Carvalho-da-Silva AM ほか 2013",
+  "title": "Oral processing of two milk chocolate samples",
+  "journal": "Food & Function",
+  "url": "https://doi.org/10.1039/c2fo30173c",
+  "level": "要旨で照合",
+  "finding": "中身の同じミルクチョコ2種で、20回噛んだ後に溶けていた割合は80%と72%だった",
+  "article": "melt-flavor-release"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Acierno V ほか 2019",
+  "title": "Which cocoa bean traits persist when eating chocolate? Real-time nosespace analysis by PTR-QiToF-MS",
+  "journal": "Talanta",
+  "url": "https://doi.org/10.1016/j.talanta.2018.11.100",
+  "level": "要旨で照合",
+  "finding": "10人が10種のダークを食べる間の鼻の中の香りを測ると、人どうしの差は豆の差より大きかったが、品種の違いは表れた",
+  "article": "melt-flavor-release"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Gunaratne TM ほか 2019",
+  "title": "Physiological Responses to Basic Tastes for Sensory Evaluation of Chocolate Using Biometric Techniques",
+  "journal": "Foods",
+  "url": "https://doi.org/10.3390/foods8070243",
+  "level": "数字確認",
+  "finding": "45人の試食で、塩4%を混ぜたチョコは5種類の中で最も好まれず、砂糖を足したものが最も好まれた",
+  "article": "salt-contrast-inclusions"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Breslin PA, Beauchamp GK 1995",
+  "title": "Suppression of bitterness by sodium: variation among bitter taste stimuli",
+  "journal": "Chemical Senses",
+  "url": "https://doi.org/10.1093/chemse/20.6.609",
+  "level": "要旨で照合",
+  "finding": "水溶液で、多くの苦みが塩（ナトリウム）で抑えられた。抑え方は苦い物質によって違った（チョコではない）",
+  "article": "salt-contrast-inclusions"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Hyde RJ, Witherly SA 1993",
+  "title": "Dynamic contrast: a sensory contribution to palatability",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1006/appe.1993.1032",
+  "level": "要旨で照合",
+  "finding": "口の中で刻々と変わる感覚の差が大きい食べ物ほどおいしい、という説の提案（実験ではない）",
+  "article": "salt-contrast-inclusions"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Havermans RC, Brondel L 2013",
+  "title": "Satiety in face of variety: On sensory-specific satiety and perceived food variety",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/j.foodqual.2012.07.009",
+  "level": "要旨で照合",
+  "finding": "92人の大学生で、別の食べ物を見せるだけでは食べ飽きは防げなかった",
+  "article": "salt-contrast-inclusions"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Oberrauter LM ほか 2018",
+  "title": "Sensory evaluation of dark origin and non-origin chocolates applying Temporal Dominance of Sensations (TDS)",
+  "journal": "Food Research International",
+  "url": "https://doi.org/10.1016/j.foodres.2018.05.007",
+  "level": "要旨で照合",
+  "finding": "産地を限ったダーク5種は飲み込む前の約75%の時間で苦みが主役、飲み込んだ後は渋みが目立った。カカオ分54.5〜60%では甘さが主役",
+  "article": "aftertaste-temporal"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Thomas A ほか 2015",
+  "title": "Temporal Drivers of Liking",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/j.foodqual.2014.03.003",
+  "level": "要旨で照合",
+  "finding": "68人がフレッシュチーズ6種を食べると、好きの気持ちは食べている間に変わり、ふつうの好きの点数は飲み込む前に決まっている可能性があった",
+  "article": "aftertaste-temporal"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Olegario LS ほか 2020",
+  "title": "Impact of 'free-from' and 'healthy choice' labeled versions of chocolate and coffee on temporal profile (multiple-intake TDS) and liking",
+  "journal": "Food Research International",
+  "url": "https://doi.org/10.1016/j.foodres.2020.109342",
+  "level": "要旨で照合",
+  "finding": "23人がチョコを3口続けて評価し、カカオの多いチョコで主役になった味が好きの高さと結びついた",
+  "article": "aftertaste-temporal"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Guinard JX ほか 1986",
+  "title": "The Time-Course of Astringency in Wine upon Repeated Ingestion",
+  "journal": "American Journal of Enology and Viticulture",
+  "url": "https://doi.org/10.5344/ajev.1986.37.3.184",
+  "level": "要旨で照合",
+  "finding": "タンニンを足した白ワインを3口続けて飲むと、渋みの続く時間が長くなった（ワイン）",
+  "article": "aftertaste-temporal"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Visalli M ほか 2020",
+  "title": "Concurrent vs. retrospective temporal data collection: Attack-evolution-finish as a simplification of Temporal Dominance of Sensations?",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/j.foodqual.2020.103956",
+  "level": "要旨で照合",
+  "finding": "ダークチョコで、始め・中・終わりの味を後から選ぶ方法でも、食べながら記録する方法とほぼ同じ結論になった",
+  "article": "aftertaste-temporal"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Visalli M ほか 2023",
+  "title": "A dataset on concurrent and immediate retrospective measures of sensory perception and preferences of dark chocolates",
+  "journal": "Data in Brief",
+  "url": "https://doi.org/10.1016/j.dib.2023.109314",
+  "level": "要旨で照合",
+  "finding": "カカオ分の違うダーク5種を129人が2つの方法で評価したデータ",
+  "article": "aftertaste-temporal"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Di Monaco R ほか 2005",
+  "title": "Effect of price on pleasantness ratings and use intentions for a chocolate bar in the presence and absence of a health claim",
+  "journal": "Journal of Sensory Studies",
+  "url": "https://doi.org/10.1111/j.1745-459x.2005.061704.x",
+  "level": "要旨で照合",
+  "finding": "79人の学生で、値段を知らせてもチョコバーのおいしさの評価は変わらず、値段が高いほど買いたい気持ちが下がった",
+  "article": "price-expectation-taste"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Schmidt L ほか 2017",
+  "title": "How context alters value: The brain's valuation and affective regulation system link price cues to experienced taste pleasantness",
+  "journal": "Scientific Reports",
+  "url": "https://doi.org/10.1038/s41598-017-08080-0",
+  "level": "数字確認",
+  "finding": "同じワインに3・6・18ユーロを表示すると、効き目は主に安い表示で好ましさが下がる（−0.83）ことで生まれた（ワイン、30人）",
+  "article": "price-expectation-taste"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Plassmann H ほか 2008",
+  "title": "Marketing actions can modulate neural representations of experienced pleasantness",
+  "journal": "PNAS",
+  "url": "https://doi.org/10.1073/pnas.0706929105",
+  "level": "要旨で照合",
+  "finding": "同じワインでも高い値段と信じると、おいしさの評価と好ましさにかかわる脳の部位の活動が上がった（ワイン）",
+  "article": "price-expectation-taste"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Fernqvist F, Ekelund L 2014",
+  "title": "Credence and the effect on consumer liking of food – A review",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/j.foodqual.2013.10.005",
+  "level": "要旨で照合",
+  "finding": "健康・有機・産地・ブランドなど7種類の確かめられない情報が期待を作り、感じる品質を変えうると整理したレビュー",
+  "article": "price-expectation-taste"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Kampfer et al. 2017",
+  "title": "Touch-flavor transference: Assessing the effect of packaging weight on gustatory evaluations, desire for food and beverages, and willingness to pay",
+  "journal": "PLoS ONE",
+  "url": "https://doi.org/10.1371/journal.pone.0186121",
+  "level": "数字確認",
+  "finding": "チョコの箱を50g重くすると、学生78人の評価で味の濃さが7段階で4.74から5.46に上がった。おいしさの評価は直接は変わらず、濃さを通じて食べたい気持ちと払ってよい金額が上がった。",
+  "article": "packaging-crossmodal"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "De Kerpel et al. 2020",
+  "title": "Fats are Glossy but Does Glossiness Imply Fatness? The Influence of Packaging Glossiness on Food Perceptions",
+  "journal": "Foods",
+  "url": "https://doi.org/10.3390/foods9010090",
+  "level": "数字確認",
+  "finding": "店頭の178人で、つやのある包装のチョコは脂肪が多そうと思われ、試食後の味の評価も低かった（7段階で5.07対5.92）。",
+  "article": "packaging-crossmodal,gloss-appearance"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "前田ら 2017",
+  "title": "パッケージカラーが商品イメージおよび購買意欲に及ぼす影響 ―チョコレートのパッケージを題材として―",
+  "journal": "京都橘大学研究紀要",
+  "url": "https://tachibana.repo.nii.ac.jp/records/371",
+  "level": "要旨で照合",
+  "finding": "大学生250人に9色のチョコの箱の絵を見せた。茶色はおいしそう、青は高級感、白と赤はなじみ深さを感じさせて購買意欲を高めた（食べていない、大学の紀要）。",
+  "article": "packaging-crossmodal"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Chen et al. 2021",
+  "title": "Tempering of cocoa butter and chocolate using minor lipidic components",
+  "journal": "Nature Communications",
+  "url": "https://doi.org/10.1038/s41467-021-25206-1",
+  "level": "要旨で照合",
+  "finding": "きちんとテンパリングしたチョコは表面がなめらかでつやが高く、ブルームは表面の大きな結晶が光を散らして白く見えると説明。特定のリン脂質を加えるとテンパリングなしでV型に導けた。",
+  "article": "gloss-appearance"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Meert et al. 2014",
+  "title": "Taking a shine to it: How the preference for glossy stems from an innate need for water",
+  "journal": "Journal of Consumer Psychology",
+  "url": "https://doi.org/10.1016/j.jcps.2013.12.005",
+  "level": "要旨で照合",
+  "finding": "6つの研究で、大人も幼い子どももつやのあるものを好んだ。水を求める性質に由来すると考察（食べ物以外）。",
+  "article": "gloss-appearance"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Murakoshi et al. 2013",
+  "title": "Glossiness and Perishable Food Quality: Visual Freshness Judgment of Fish Eyes Based on Luminance Distribution",
+  "journal": "PLoS ONE",
+  "url": "https://doi.org/10.1371/journal.pone.0058994",
+  "level": "数字確認",
+  "finding": "アジの目を3.29時間撮影し11人が新しさを判断。明るさの散らばりと偏りが新しさの判断を説明した（魚の目）。",
+  "article": "gloss-appearance"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Zhang & Epley 2012",
+  "title": "Exaggerated, mispredicted, and misplaced: When \"it's the thought that counts\" in gift exchanges",
+  "journal": "Journal of Experimental Psychology: General",
+  "url": "https://doi.org/10.1037/a0029223",
+  "level": "数字確認",
+  "finding": "博物館の来館者の実験で、贈り手の気持ちが受け手の評価を上げたのは主に親しい人から好みに合わない物をもらったとき（実験1の相関 r=.80 対 -.14）。贈り手はこれを予想できなかった（チョコ以外）。",
+  "article": "handmade-gift"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Fuchs et al. 2015",
+  "title": "The Handmade Effect: What's Love Got to Do with It?",
+  "journal": "Journal of Marketing",
+  "url": "https://doi.org/10.1509/jm.14.0018",
+  "level": "要旨で照合",
+  "finding": "4つの研究で、「手作り」と書かれた品は愛情がこもっていると受け取られて魅力が上がった。親しい人への贈り物では選ばれやすく、距離のある相手では差がなかった（チョコ以外）。",
+  "article": "handmade-gift"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Norton et al. 2012",
+  "title": "The IKEA effect: When labor leads to love",
+  "journal": "Journal of Consumer Psychology",
+  "url": "https://doi.org/10.1016/j.jcps.2011.08.002",
+  "level": "要旨で照合",
+  "finding": "自分で組み立てた家具や折り紙を専門家の作品と同じくらいの価値と見積もり、他人も同じ意見だと考えた。作り終えたときだけ出る効果（チョコ以外）。",
+  "article": "handmade-gift"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Givi & Galak 2017",
+  "title": "Sentimental value and gift giving: Givers' fears of getting it wrong prevents them from getting it right",
+  "journal": "Journal of Consumer Psychology",
+  "url": "https://doi.org/10.1016/j.jcps.2017.06.002",
+  "level": "要旨で照合",
+  "finding": "贈り手は思い出のこもった贈り物より好みに合う贈り物を、受け手が望むより多く選んだ。外すことへの不安が理由（チョコ以外）。",
+  "article": "handmade-gift"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Sörqvist et al. 2013",
+  "title": "Who needs cream and sugar when there is eco-labeling? Taste and willingness to pay for \"eco-friendly\" coffee",
+  "journal": "PLoS ONE",
+  "url": "https://doi.org/10.1371/journal.pone.0080719",
+  "level": "要旨で照合",
+  "finding": "同じコーヒーの片方を「環境にやさしい」と伝えると、その杯が好まれ払ってよい金額も上がった。環境配慮を大事にする人で強かった（コーヒー、実験1は44人）。",
+  "article": "origin-story-label"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Kim et al. 2013",
+  "title": "Influence of packaging information on consumer liking of chocolate milk",
+  "journal": "Journal of Dairy Science",
+  "url": "https://doi.org/10.3168/jds.2012-6399",
+  "level": "要旨で照合",
+  "finding": "108人がチョコレートミルク7種を表示あり・なしで評価。脂肪分の表示とブランドが好みと購入意向に影響し、有機の表示は購入判断に影響しなかった。",
+  "article": "origin-story-label"
+ }
+]

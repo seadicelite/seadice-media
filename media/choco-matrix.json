@@ -1,0 +1,176 @@
+{
+  "cols": [
+    {
+      "id": "why",
+      "label": "仕組み",
+      "q": "なぜそうなる？（体・材料の中で起きていること）"
+    },
+    {
+      "id": "myth",
+      "label": "確かめる",
+      "q": "よく聞く説は本当？（研究で確かめる）"
+    },
+    {
+      "id": "make",
+      "label": "作り方",
+      "q": "何を変えると変わる？（材料・工程・食べ方）"
+    },
+    {
+      "id": "data",
+      "label": "数字",
+      "q": "データで見ると？（測定値・統計・地域）"
+    },
+    {
+      "id": "use",
+      "label": "使う",
+      "q": "自分で試せるツール・実験"
+    }
+  ],
+  "rows": [
+    {
+      "id": "crystal",
+      "label": "結晶とつや",
+      "cells": {
+        "why": [
+          "temper-crystal-form-v"
+        ],
+        "make": [
+          "tempering-temperatures",
+          "seeding-method"
+        ],
+        "use": [
+          "https://choco.seadice.win/tool/"
+        ]
+      }
+    },
+    {
+      "id": "melt",
+      "label": "口どけ",
+      "cells": {
+        "why": [
+          "melt-flavor-release"
+        ],
+        "make": [
+          "particle-size-smooth"
+        ]
+      }
+    },
+    {
+      "id": "bloom",
+      "label": "保存とブルーム",
+      "cells": {
+        "why": [
+          "fat-bloom-white"
+        ],
+        "myth": [
+          "storage-fridge"
+        ]
+      }
+    },
+    {
+      "id": "bean",
+      "label": "豆と発酵",
+      "cells": {
+        "why": [
+          "fermentation-flavor"
+        ],
+        "myth": [
+          "origin-variety-flavor"
+        ]
+      }
+    },
+    {
+      "id": "roast",
+      "label": "焙煎と練り",
+      "cells": {
+        "make": [
+          "roasting-temperature",
+          "conching-time"
+        ]
+      }
+    },
+    {
+      "id": "aroma",
+      "label": "香り",
+      "cells": {
+        "why": [
+          "aroma-key-odorants"
+        ]
+      }
+    },
+    {
+      "id": "taste",
+      "label": "甘さと苦み",
+      "cells": {
+        "data": [
+          "sweetness-bliss-point",
+          "cacao-percent-bitter"
+        ],
+        "why": [
+          "aftertaste-temporal"
+        ],
+        "make": [
+          "salt-contrast-inclusions"
+        ]
+      }
+    },
+    {
+      "id": "again",
+      "label": "もう一度食べたくなる",
+      "cells": {
+        "why": [
+          "want-another-piece"
+        ],
+        "myth": [
+          "chocolate-craving"
+        ]
+      }
+    },
+    {
+      "id": "gift",
+      "label": "誰かにあげたくなる",
+      "cells": {
+        "why": [
+          "gift-chocolate-psychology"
+        ],
+        "myth": [
+          "handmade-gift"
+        ],
+        "make": [
+          "gloss-appearance",
+          "packaging-crossmodal",
+          "shape-sweetness"
+        ]
+      }
+    },
+    {
+      "id": "buy",
+      "label": "もう一度買いたくなる",
+      "cells": {
+        "data": [
+          "buy-again-liking"
+        ],
+        "myth": [
+          "price-expectation-taste",
+          "origin-story-label"
+        ]
+      }
+    },
+    {
+      "id": "safety",
+      "label": "体と安全",
+      "cells": {
+        "myth": [
+          "flavanol-health-claims"
+        ],
+        "data": [
+          "heavy-metals-dark"
+        ],
+        "use": [
+          "dog-chocolate-theobromine"
+        ]
+      }
+    }
+  ],
+  "research": []
+}

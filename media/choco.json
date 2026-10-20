@@ -1,0 +1,280 @@
+{
+ "enabled": false,
+ "publish": "draft",
+ "slug": "choco",
+ "siteType": "article",
+ "name": "チョコの研究",
+ "path": "sites/choco/",
+ "url": "https://choco.seadice.win/",
+ "tagline": "科学で目指す究極のチョコ",
+ "lead": "目指すのは、食べたあとにもう一度食べたくなる、誰かにあげたくなる、もう一度買いたくなるチョコ。豆・焙煎・テンパリング・口どけ・感じ方の研究の原典（論文の要旨や本文）を開いて確かめ、究極の1枚の作り方にまとめていきます。究極の1枚は目標で、まだ作れていません。何も売りません。",
+ "titleSuffix": "チョコのうまさを研究で確かめるメディア",
+ "description": "チョコはなぜパキッと割れて口で溶ける？焙煎やカカオ分でうまさは変わる？白くなったチョコは食べられる？チョコの研究の原典を開いて確かめ、結論・わかった数字・家での試し方・まだわからないことをまとめるメディア。商品の紹介はしません。出典つき。",
+ "theme": {
+  "bg": "#F6F0EA",
+  "card": "#FFFBF6",
+  "accent": "#7A3B1E",
+  "accent2": "#B5803F",
+  "border": "#DCCBBB",
+  "text": "#24150E",
+  "muted": "#5E4637",
+  "link": "#6E3216",
+  "faviconBg": "#2B1A12",
+  "faviconFg": "#D9A65E"
+ },
+ "categories": [
+  {
+   "name": "豆と発酵",
+   "id": "bean",
+   "color": "#5E5A1E",
+   "icon": "dot",
+   "desc": "カカオの品種・産地・発酵・乾燥。豆の段階で香りの元がどう決まるか"
+  },
+  {
+   "name": "焙煎と練り",
+   "id": "roast",
+   "color": "#7A3B1E",
+   "icon": "clock",
+   "desc": "焙煎の温度と時間、すりつぶしとコンチング。香りと口あたりが変わる工程"
+  },
+  {
+   "name": "テンパリング",
+   "id": "temper",
+   "color": "#4A2E22",
+   "icon": "target",
+   "desc": "カカオバターの結晶。つや・パキッと割れる・口どけを決める温度の話"
+  },
+  {
+   "name": "口どけと保存",
+   "id": "texture",
+   "color": "#6A4A34",
+   "icon": "dot",
+   "desc": "溶ける温度、粒の細かさとなめらかさ、白くなるブルームと保存"
+  },
+  {
+   "name": "香りと味",
+   "id": "flavor",
+   "color": "#8E3A22",
+   "icon": "heart",
+   "desc": "香りの成分、苦み・渋み・甘さ、カカオ分と砂糖・乳の配合"
+  },
+  {
+   "name": "感じ方",
+   "id": "perception",
+   "color": "#4D5A2B",
+   "icon": "eye",
+   "desc": "好みの違い、割れる音や色、食べる順番と組み合わせ"
+  },
+  {
+   "name": "体と安全",
+   "id": "safety",
+   "color": "#36535E",
+   "icon": "shield",
+   "desc": "カフェインとテオブロミン、犬とチョコ、重金属など。言えることと言えないこと"
+  }
+ ],
+ "types": [
+  {
+   "id": "study",
+   "label": "研究を読む"
+  }
+ ],
+ "catLimit": 3,
+ "faq": [
+  [
+   "チョコの研究とはどんなメディアですか？",
+   "チョコレートのうまさ（香り・口どけ・つや・パキッとした割れ方）にかかわる研究の原典（論文の要旨や本文）を開いて確かめ、結論・わかった数字・家での試し方・まだわからないことをまとめるメディアです。SEADICEが運営しています。"
+  ],
+  [
+   "「究極のチョコ」とは何ですか？もうできたのですか？",
+   "チョコの研究が目指す究極のチョコは、食べたあとにもう一度食べたくなる、誰かにあげたくなる、もう一度買いたくなるチョコです。これは目標で、まだできていません。今は、そこに近づくために研究でわかっていることとわかっていないことを整理している段階です。"
+  ],
+  [
+   "記事は誰が書いていますか？",
+   "AI（Claude）が論文や公的機関の資料を開いて読み、記事の数字が出典と合っているかを照合して作成しています。SEADICEが自分でチョコを試作・測定したものではありません。"
+  ],
+  [
+   "チョコの健康効果も扱いますか？",
+   "扱いますが、病気の予防や治療に効くとは書きません。研究で示されたことの範囲と、まだわからないことを分けて書きます。"
+  ]
+ ],
+ "trust": [
+  [
+   "出典を開いて確かめる",
+   "論文と公的機関の資料を開き、記事の数字が原典にあるかを1件ずつ照合しています。"
+  ],
+  [
+   "まだわからないことも書く",
+   "研究で示されたのはどこまでか、何が調べられていないかを、毎回分けて書きます。"
+  ],
+  [
+   "何も売りません",
+   "商品・店の紹介、広告、アフィリエイトは一切ありません。"
+  ]
+ ],
+ "concept": "チョコレートのうまさを決める要素（カカオの品種と発酵、焙煎とコンチング、テンパリングと結晶、口どけと粒の細かさ、ブルームと保存、香りと味の成分、カカオ分と配合、感じ方、体と安全）を、1記事＝1つの問い＋主役の研究1本で読み解き、結論・わかった数字・家での試し方・まだわからないことに落とし込む。目標は科学で究極のチョコ（もう一度食べたくなる・誰かにあげたくなる・もう一度買いたくなるチョコ）を目指すことで、実績ではない。商品・店の紹介はしない",
+ "aboutLead": "チョコの研究は、チョコレートのうまさにかかわる研究を1本ずつ読み、結論と数字と試し方にまとめるメディアです。目標は「科学で目指す究極のチョコ」。究極のチョコとは、食べたあとにもう一度食べたくなる、誰かにあげたくなる、もう一度買いたくなるチョコのことです。",
+ "reader": "チョコが好きな人、チョコを手作りしたい人、なぜうまいのかを知りたい人",
+ "tone": "落ち着いて、結論から。研究で示されたことと、まだわからないことを分ける。「科学的に証明」とは書かない。商品・店・ブランドを勧めない。健康効果を盛らない",
+ "about": "記事はAIが大学・研究機関の論文や公的機関の資料を開いて読み、記事の数字と主張が原典にあるかを照合して作成しています。SEADICEが自分でチョコを試作・測定したものではありません。商品や店の紹介はしていません。",
+ "template": ".claude/commands/choco-template.html",
+ "rulesFrom": ".claude/commands/choco.md",
+ "relatedApps": "立ち上げ期はアプリ送客なし",
+ "postsPerRun": 1,
+ "toolboxHub": "/tool/",
+ "extraNav": [
+  {
+   "label": "研究一覧",
+   "path": "/research/"
+  },
+  {
+   "label": "テンパリング温度ガイド",
+   "path": "/tool/"
+  }
+ ],
+ "toolbox": [
+  {
+   "name": "テンパリング温度ガイド",
+   "desc": "ダーク・ミルク・ホワイトと方法を選ぶと、溶かす・冷ます・戻す温度と、その根拠の研究が出る。手元の温度を入れると次にやることがわかる",
+   "href": "/tool/",
+   "glyph": "dial",
+   "all": true,
+   "cats": [
+    "テンパリング",
+    "口どけと保存"
+   ]
+  }
+ ],
+ "pageSections": {
+  "about": [
+   [
+    "運営",
+    [
+     "{name} は、アプリスタジオ SEADICE（シーダイス）が運営するメディアです。",
+     "{concept_short}"
+    ]
+   ],
+   [
+    "目標について",
+    [
+     "チョコの研究が目指す究極のチョコは、次の3つを満たすチョコです。食べたあとに、もう一度食べたくなる。誰かにあげたくなる。もう一度買いたくなる。",
+     "これは目標です。チョコの研究が究極のチョコを作ったわけではありません。研究は多い分野もあれば、ほとんど調べられていない分野もあります。記事ごとに、研究で示されたことと、まだわからないことを分けて書きます。"
+    ]
+   ],
+   [
+    "記事の作り方",
+    [
+     "記事は、AI（Claude）が大学・研究機関の論文や公的機関の資料を開いて読み、内容を確認して整理し、作成しています。SEADICE が自分でチョコを試作・測定したものではありません。",
+     "公開前に、記事に書く数字と主張が原典にあるかを1件ずつ照合し、確認できなかったものは削ります。"
+    ]
+   ],
+   [
+    "1記事＝1つの問い",
+    [
+     "1本の記事は、1つの問い（例: チョコはなぜパキッと割れて口で溶ける？）と、その主役になる研究1本でできています。補う研究は記事の中で紹介します。",
+     "記事の流れは「結論／どんな研究か／わかった数字／チョコ作りへの使い方／まだわからないこと／出典」で、どの記事も同じです。"
+    ]
+   ],
+   [
+    "何も売りません",
+    [
+     "チョコの研究は、商品・店・ブランドの紹介やアフィリエイトを一切行いません。広告も掲載しません。"
+    ]
+   ],
+   [
+    "お問い合わせ",
+    [
+     "記事の誤りのご指摘や、ご意見は <a href=\"mailto:hi@seadice.win\">hi@seadice.win</a> までご連絡ください。"
+    ]
+   ]
+  ],
+  "sources": [
+   [
+    "使う出典",
+    [
+     "査読のある学術論文（食品科学・油脂の結晶・感覚の研究など）、公的な研究機関の報告、農林水産省・食品安全委員会・FDAなど公的機関の資料を使います。メーカーの宣伝やまとめサイトは出典にしません。",
+     "各記事の末尾に、著者、発行年、タイトル、掲載誌、リンクを載せています。"
+    ]
+   ],
+   [
+    "研究の確かさの書き方",
+    [
+     "研究の対象（カカオバターだけか、市販のチョコか、試作の数、食べた人の数）を記事に書きます。チョコ以外の研究を使うときは対象を必ず書きます。",
+     "「科学的に証明された」とは書きません。書くのは「研究で示された」までです。"
+    ]
+   ],
+   [
+    "検証の方法",
+    [
+     "1. 論文や報告書の原典（要旨や本文）を開き、記事に書く数値と主張が原典に書かれていることを1件ずつ照合します。",
+     "2. 原典が開けない場合は、別の信頼できる情報源（論文データベースなど）で確認できた内容だけを使います。",
+     "3. 確認できなかった数値や主張は、記事から削除します。"
+    ]
+   ],
+   [
+    "写真",
+    [
+     "記事の写真は、Wikimedia Commons などの、自由に利用できるライセンス（パブリックドメイン、CC0、CC BY、CC BY-SA）の素材を使い、撮影者とライセンスを各記事に表示しています。"
+    ]
+   ],
+   [
+    "訂正について",
+    [
+     "誤りがあれば、確認のうえ修正し、記事の日付を更新します。ご指摘は hi@seadice.win までお願いします。"
+    ]
+   ]
+  ],
+  "disclaimer": [
+   [
+    "情報の性質",
+    [
+     "{name}の記事とツールは、公開された研究をもとにした一般的な情報です。研究の結果は、その研究の条件（豆・設備・試作の数）での傾向で、家庭での手作りに同じように当てはまるとは限りません。",
+     "テンパリング温度ガイドの温度は研究と一般的な目安で、使うチョコの配合によって変わります。"
+    ]
+   ],
+   [
+    "食べることと安全",
+    [
+     "チョコを溶かすときは、やけどと湯せんの水の入り込みに注意してください。",
+     "犬や猫にチョコを与えないでください。カフェインに敏感な方、妊娠中の方、持病で食事に制限がある方は、医師の指示に従ってください。記事は病気の予防や治療をうたうものではありません。"
+    ]
+   ],
+   [
+    "責任の範囲",
+    [
+     "記事の内容には、正確を期していますが、その完全性や、特定の目的への適合性を保証するものではありません。記事を参考にした行動の結果について、当メディアは責任を負いません。"
+    ]
+   ]
+  ]
+ },
+ "topicQueue": [
+  "一口目と三口目でおいしさは変わる？食べ進めると下がる好き度の数字（もう一度食べたくなる×数字。感覚特異的満腹の時間経過をチョコで測った研究）",
+  "冷やして食べるか常温か？食べる温度で甘さと香りの感じ方は変わる（もう一度食べたくなる×作り方。温度と甘味・香りの放出の研究）",
+  "何個入りがうれしい？贈り物の量と受け取る側の満足の研究（誰かにあげたくなる×数字。チョコ以外の研究は対象を明記）",
+  "また買う人は何を覚えている？食べた記憶と再購入の研究（もう一度買いたくなる×仕組み。記憶に残る食体験の研究）",
+  "カカオ分の表示を見るとおいしく感じる？数字の表示と期待の研究（もう一度買いたくなる×作り方）",
+  "コーヒーやワインと合わせるとチョコはうまくなる？組み合わせの官能評価（甘さと苦み×確かめる）",
+  "焙煎が強いほど香ばしい？焙煎度と人の評価がずれる研究（焙煎と練り×確かめる）",
+  "白くなったチョコは溶かし直せば戻る？ブルームしたチョコの再テンパリング（保存とブルーム×作り方）",
+  "口どけがいいチョコほど「また食べたい」？溶ける速さと好き度の研究（口どけ×数字）",
+  "ダークチョコは何かけまでが目安？カフェインとテオブロミンの量（体と安全×作り方。公的機関のカフェインの目安と、チョコの含有量の測定研究）"
+ ],
+ "mastheadHtml": "<div class=\"sl-mast\"><p class=\"sl-kick\">CHOCOLATE RESEARCH</p><h1>チョコの研究</h1><p class=\"sl-tag\">%TAGLINE%</p><p class=\"sl-lead\">%LEAD%</p><dl class=\"sl-meta\"><div><dt>研究を読んだ記事</dt><dd>%POSTS%</dd></div><div><dt>分野</dt><dd>%CATS%</dd></div><div><dt>広告</dt><dd>0</dd></div></dl></div><!--mastend--><section class=\"sl-tools\" aria-label=\"チョコの研究の道具\"><h2 class=\"sl-th\">道具で試す</h2><div class=\"sl-tg\"><a class=\"sl-tc\" href=\"/tool/\"><span class=\"sl-tb\"><em>Webツール・登録不要・無料</em><b>テンパリング温度ガイド</b><small>ダーク・ミルク・ホワイトと方法を選ぶと、溶かす・冷ます・戻す温度と根拠の研究が出る。手元の温度を入れると次にやることがわかる</small><i>使ってみる</i></span></a><a class=\"sl-tc\" href=\"/research/\"><span class=\"sl-tb\"><em>原典を開いて確かめた一覧</em><b>チョコの研究一覧</b><small>豆・焙煎・結晶・口どけ・香り・感じ方・安全の研究を、1〜2行の結論と確認レベルつきで</small><i>一覧を見る</i></span></a></div></section>",
+ "extraCss": "nav.top{background:#2B1A12;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:3px solid #B5803F}.nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#F6EDE2;color:#F6EDE2}nav.top a.r{color:#F6EDE2;font-weight:700}h1{background:none;-webkit-text-fill-color:#24150E;color:#24150E}.sl-mast{padding:20px 0 28px;margin-bottom:28px;border-bottom:3px double #2B1A12}.sl-kick{display:inline-block;font-size:12px;letter-spacing:.24em;color:#F6EDE2;background:#2B1A12;padding:4px 12px;font-weight:700;border-radius:2px}.sl-mast h1{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;font-size:clamp(36px,9vw,56px);line-height:1.2;font-weight:700;letter-spacing:.08em;margin-top:8px}.sl-tag{font-size:17px;font-weight:700;margin-top:12px;padding-left:12px;border-left:4px solid #B5803F}.sl-lead{font-size:15px;line-height:1.9;margin-top:12px;max-width:640px;color:#3B2A20}.sl-meta{display:grid;grid-template-columns:repeat(3,1fr);max-width:440px;margin-top:18px;border:1px solid #24150E;background:#FFFBF6}.sl-meta div{display:flex;flex-direction:column-reverse;padding:8px 10px;border-left:1px solid #24150E}.sl-meta div:first-child{border-left:0}.sl-meta dt{font-size:12px;color:#5E4637}.sl-meta dd{font-size:22px;font-weight:800;line-height:1.3}.chip{border-radius:6px;min-height:44px}.chip svg{fill:var(--c)}h2.sec{font-size:13px;font-weight:700;color:#24150E;letter-spacing:.12em}h2.cat{border-left:0;padding:12px 0 0;border-top:2px solid #2B1A12;font-family:'Hiragino Mincho ProN','Yu Mincho',serif}.card{border-radius:8px}.card:hover{transform:none;border-color:#7A3B1E}.th{background:#EFE2D4}.tag{border-radius:4px}.ty{color:#FFFBF6;border-radius:4px}.about,.trust div,.faq details,.empty{border-radius:8px}.tbx,.tbgrid .tbi{border-radius:8px}.tbic{border-radius:6px;background:#EFE2D4}.tbgo{border-radius:6px;color:#FFFBF6}a:focus-visible,summary:focus-visible,button:focus-visible{border-radius:2px}main .gnav a{border-radius:6px;min-height:44px;display:inline-flex;align-items:center;font-weight:700;border-color:#24150E;font-size:14px}main .gnav a:first-child{background:#2B1A12;border-color:#2B1A12;color:#F6EDE2}footer{background:#2B1A12;color:#E8D9C8;border-top:3px solid #B5803F}footer a{color:#E8D9C8}.card{border-top:3px solid #2B1A12}.sl-meta{border-color:#2B1A12}.sl-meta div{border-color:#2B1A12}.sl-tag{font-family:'Hiragino Mincho ProN','Yu Mincho',serif}main h1{font-family:'Hiragino Mincho ProN','Yu Mincho',serif}.ticker{top:56px;background:#FFF9F2;border-bottom:1px solid #2B1A12}.ticker .lb{background:#2B1A12;color:#F6EDE2}.ticker a b{color:#7A3B1E}.sl-tools{margin:8px 0 36px}.sl-th{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;font-size:20px;margin:0 0 12px;padding-top:12px;border-top:2px solid #2B1A12}.sl-tg{display:grid;gap:16px;grid-template-columns:1fr}@media(min-width:760px){.sl-tg{grid-template-columns:1fr 1fr}}.sl-tc{display:flex;flex-direction:column;background:#FFF9F2;border:1px solid #2B1A12;border-top:4px solid #2B1A12;border-radius:8px;overflow:hidden;text-decoration:none;color:#24150E}.sl-tc:hover{border-color:#7A3B1E}.sl-tc img{display:block;width:100%;height:auto;aspect-ratio:16/5;object-fit:cover;background:#EFE2D4}.sl-tb{display:flex;flex-direction:column;gap:4px;padding:14px 16px 16px}.sl-tb em{font-style:normal;font-size:12px;color:#7A3B1E}.sl-tb b{font-size:18px;font-family:'Hiragino Mincho ProN','Yu Mincho',serif}.sl-tb small{font-size:14px;line-height:1.7;color:#3B2A20}.sl-tb i{align-self:flex-start;margin-top:8px;font-style:normal;font-weight:800;font-size:14px;color:#FFFBF6;background:#7A3B1E;border-radius:6px;padding:10px 16px;min-height:44px;display:inline-flex;align-items:center}.sl-cr{font-size:12px;color:#5E4637;margin-top:6px}.sl-cr a{color:#5E4637}",
+ "articleCss": ".hero img,.related a,.prevnext a,.tbx,.tbgrid .tbi{border-radius:8px}.tbic,.tbgo{border-radius:6px}.related .rt{border-radius:4px}.tbx{border:1px solid var(--text);border-top:4px solid var(--accent2)}.tbgo{color:#FFFBF6}.related a:hover,.prevnext a:hover{border-color:var(--accent)}body>nav{background:#2B1A12;border-bottom:3px solid #B5803F}body>nav .nav-logo,body>nav a.r{color:#F6EDE2}h2.sec{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;border-top:2px solid #2B1A12}.summary{border-color:#2B1A12;border-top:4px solid #2B1A12}.summary h2{display:inline-block;background:#2B1A12;color:#F6EDE2;padding:2px 10px;border-radius:2px}footer{background:#2B1A12;color:#E8D9C8;border-top:3px solid #B5803F}footer a{color:#E8D9C8}",
+ "ticker": true,
+ "tickerItems": [
+  {
+   "label": "ツール",
+   "title": "テンパリング温度ガイド",
+   "href": "/tool/"
+  },
+  {
+   "label": "研究",
+   "title": "チョコの研究一覧",
+   "href": "/research/"
+  }
+ ],
+ "toolboxArticleIcon": false,
+ "toolboxTop": false
+}
