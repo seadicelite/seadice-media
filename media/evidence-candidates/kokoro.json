@@ -6087,5 +6087,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-fatigue-light-running-recover-students-running",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "de Vries JD, van Hooff MLM, Geurts SAE & Kompier MAJ, \"Exercise as an Intervention to Reduce Study-Related Fatigue among University Students: A Two-Arm Parallel Randomized Controlled Trial\" (PLoS ONE, 2016)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0152137",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/fatigue-light-running-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "疲れているときこそ運動？",
+        "body": "「疲れているなら軽く体を動かすといい」ってよく聞くよね。でも、くたくたのときに走ったら、もっと疲れそうな気もする。実際はどうなんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "疲れた大学生がゆっくり走った",
+        "body": "オランダの大学で、勉強の疲れが強い学生99人をくじで2組に。片方は会話できるくらいの軽いランニングを週3回・6週間、もう片方はその間待ってもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "疲れの点数が下がった",
+        "body": "走った組は疲れの点数（10〜50点）が30.5点から25.4点に、待った組は30.9点から28.3点に。走った組のほうが下がり方が大きく、睡眠の質もよくなっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "続けられる人だけ？",
+        "body": "本人は走っていると知っているから、期待の影響は消せない。同じ形の働く人の実験では、疲れが下がったのは最後まで続けた人を比べた分析だけだったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "slug": "fatigue-light-running-recover",
+    "category": "AI疲れ・情報疲れ",
+    "type": "guide",
+    "stage": "立て直す",
+    "date": "2026-10-20",
+    "title": "疲れが何週間も抜けず、体を動かす気力もない。オランダの大学生99人の実験では、話せるくらいの軽いランニングを週3回・6週間続けた組で、疲れの点数が待っていた組より下がっていた",
+    "summary": "話せるくらいの軽いランニングを6週間続けた実験で、疲れが軽くなっていました。気力がないときの始め方を整理しました。"
+  },
+  {
     "slug": "ai-control-sense-keep-share-prevent",
     "category": "AIとの付き合い方",
     "type": "guide",

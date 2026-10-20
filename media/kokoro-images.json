@@ -4911,5 +4911,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cute_teddy_bear_is_sitting_on_the_wooden_desk_and_looking_out_of_the_window.jpg/500px-Cute_teddy_bear_is_sitting_on_the_wooden_desk_and_looking_out_of_the_window.jpg",
   "og": "https://mentalai.seadice.win/img/ai-control-sense-keep-share-prevent-og.jpg",
   "local": true
+ },
+ "fatigue-light-running-recover": {
+  "file": "File:Riverside footpath, Hadleigh - geograph.org.uk - 4859255.jpg",
+  "src": "/img/fatigue-light-running-recover.webp",
+  "src640": "/img/fatigue-light-running-recover-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "木々の間を通る土の小道",
+  "artist": "Humphrey Bolton",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Riverside_footpath,_Hadleigh_-_geograph.org.uk_-_4859255.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Riverside_footpath%2C_Hadleigh_-_geograph.org.uk_-_4859255.jpg/960px-Riverside_footpath%2C_Hadleigh_-_geograph.org.uk_-_4859255.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Riverside_footpath%2C_Hadleigh_-_geograph.org.uk_-_4859255.jpg/500px-Riverside_footpath%2C_Hadleigh_-_geograph.org.uk_-_4859255.jpg",
+  "og": "https://mentalai.seadice.win/img/fatigue-light-running-recover-og.jpg",
+  "local": true
  }
 }
