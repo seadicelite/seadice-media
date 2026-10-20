@@ -7423,5 +7423,73 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-mouth-taping-sleep-research-instagram-reels",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bizzoca et al., \"The Spread of Non-Evidence-Based Health Claims on Social Media: The Case of #Mouthtape on Instagram, a Cross-Sectional Study\" (Dentistry Journal, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/dj14070418",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/mouth-taping-sleep-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "口にテープで熟睡できる？",
+        "body": "寝る前に口にテープを貼ると、鼻呼吸になってぐっすり眠れる。SNSでよく見かける話だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "#mouthtape の動画390本",
+        "body": "イタリアなどの研究者が、Instagramで「#mouthtape」がついた動画390本を集めて、どんな人が何を言っているかを調べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "94%がおすすめ、半分以上は企業",
+        "body": "94.4%の動画が口テープをすすめていて、55.4%は企業の投稿。医療の専門家の投稿は11.6%だけ。すすめる動画のほうが多くシェアされていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "動画を見た人への影響は？",
+        "body": "調べたのは1つのSNSの、ある時点の動画だけ。見た人が実際に試したか、眠りがどう変わったかまではわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-mouth-taping-sleep-research-mild-osa-20",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lee et al., \"The Impact of Mouth-Taping in Mouth-Breathers with Mild Obstructive Sleep Apnea: A Preliminary Study\" (Healthcare, 2022)",
+    "sourceUrl": "https://doi.org/10.3390/healthcare10091755",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/mouth-taping-sleep-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "口を閉じればいびきは減る？",
+        "body": "口を開けて寝るといびきをかきやすい、とよく言われるよね。じゃあテープで閉じたらどうなるのか、台湾の研究者が調べたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "軽い睡眠時無呼吸の20人",
+        "body": "口で息をしている、軽い睡眠時無呼吸の20人が、シリコンのテープで口を閉じて1週間後に自宅で睡眠検査を受けたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "止まる回数がほぼ半分に",
+        "body": "呼吸が止まる・弱くなる回数は1時間あたり8.3回から4.7回に減って、いびきの回数も47%減ったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "比べる群がない",
+        "body": "テープなしの群と比べていない小さな研究で、中等度以上の人にはすすめられないと著者も書いている。鼻づまりがあると危険という指摘もあるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
