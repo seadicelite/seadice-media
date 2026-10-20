@@ -247,6 +247,7 @@
 - [勉強に燃え尽きたら使うチェック表と2週間の立て直し表。学業の燃え尽き（バーンアウト）の研究から](https://dokugaku.seadice.win/study-burnout-recovery/): 疲れ切る・冷める・できない感のどれが強いかを確かめるチェック表と、休む時間・運動・15分の課題で戻す2週間の表。
 - [勉強の中だるみ。半分まで来てやる気が落ちたら、どう立て直す？「真ん中で止まる」研究と、区切り直しのやり方](https://dokugaku.seadice.win/study-motivation-slump-halfway/): ゴールまでの真ん中で意欲は下がりやすい。1〜2週間の区切りに切り直し、迷い方で見る数字を変え、記録と中間テストで支える6つの手順
 - [テストで頭が真っ白になるのはなぜか。試験不安と「不安を書き出す」研究](https://dokugaku.seadice.win/test-anxiety-expressive-writing/): 頭が真っ白になるのは不安が注意を奪うため。試験前に不安を書き出す方法は追試で再現されなかった
+- [学び直しを始めてすぐ「もうわかった」と思ってしまうのはなぜ？初心者の自信と「ダニング＝クルーガー効果」の研究](https://dokugaku.seadice.win/why-beginners-overconfident-relearning/): 少し学んだ初心者は自信が実力を追い越しやすい。下位の人は12%の位置で62%と見積もった研究と、統計の見かけという反論、確かめ方。
 - [SNSで他人の勉強量を見ると焦って手につかないのはなぜ？他人と比べる心理（社会的比較）の研究](https://dokugaku.seadice.win/why-comparing-study-progress-on-sns-hurts/): 人は上の人と比べやすく、差が大きすぎると頑張る気持ちより「あきらめ」が強まる。比べる相手を選び直す方法つき。
 - [合格しても「たまたま」「実力じゃない」と感じるのはなぜ？インポスター現象（自分はにせものだという感覚）の研究](https://dokugaku.seadice.win/why-feel-like-impostor-despite-studying/): 成果を運のせいにして「いつかばれる」と感じるのがインポスター現象。男女・年齢を問わず見られ、失敗への恐れや比較と結びつく。
 - [勉強を後回しにしてしまうのはなぜ？先延ばしの研究でわかった3つの理由](https://dokugaku.seadice.win/why-procrastinate-studying/): 先延ばしは課題の嫌さ・成果までの遠さ・嫌な気分から逃げたい気持ちと結びつく。理由ごとに試せる対策つき。

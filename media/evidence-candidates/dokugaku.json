@@ -6962,5 +6962,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-why-beginners-overconfident-relearning-beginners-bubble",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sanchez & Dunning, \"Overconfidence among beginners: Is a little learning a dangerous thing?\" (Journal of Personality and Social Psychology, 2018)",
+    "sourceUrl": "https://doi.org/10.1037/pspa0000102",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-beginners-overconfident-relearning/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "初心者ほど自信がない？",
+        "body": "新しいことを始めたばかりの人は、自分はまだまだだと控えめなもの。そう思いがちだよね。でも、少し学んだ後はどうなるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "架空の「ゾンビ病」を診断",
+        "body": "6つの研究で、だれも知らない課題を学んでもらった。症状から架空の「ゾンビ病」を診断するなどして、自信と正答の変化を追ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "数回で自信が実力を追い越す",
+        "body": "最初は自信過剰じゃなかった。でも数回学んだだけで、自信が実力を大きく追い越す「初心者のバブル」が生まれた。元は、少ない経験で急いで作った、まちがいの多い理屈だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本物の勉強でも同じ？",
+        "body": "多くは実験室の架空の課題での結果。資格や語学のように何か月も学ぶ場面で同じことが起きるかは、直接は調べられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

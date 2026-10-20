@@ -3856,5 +3856,22 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Autumn_path%2C_Dumitru_Rascanu_park.jpg/960px-Autumn_path%2C_Dumitru_Rascanu_park.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Autumn_path%2C_Dumitru_Rascanu_park.jpg/500px-Autumn_path%2C_Dumitru_Rascanu_park.jpg",
   "og": "https://dokugaku.seadice.win/img/why-stuck-problem-solved-after-sleep-or-walk-og.jpg"
+ },
+ "why-beginners-overconfident-relearning": {
+  "file": "File:Kunstmann IV Compass rose.jpg",
+  "src": "/img/why-beginners-overconfident-relearning.webp",
+  "src640": "/img/why-beginners-overconfident-relearning-sm.webp",
+  "w": 960,
+  "h": 960,
+  "alt": "古い海図に描かれた方位図",
+  "artist": "Pedro Reinel",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Kunstmann_IV_Compass_rose.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kunstmann_IV_Compass_rose.jpg/960px-Kunstmann_IV_Compass_rose.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kunstmann_IV_Compass_rose.jpg/500px-Kunstmann_IV_Compass_rose.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-beginners-overconfident-relearning-og.jpg",
+  "local": true
  }
 }
