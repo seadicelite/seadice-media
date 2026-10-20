@@ -4032,5 +4032,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cup_of_tea_at_the_Gorreana_tea_factory.jpg/500px-Cup_of_tea_at_the_Gorreana_tea_factory.jpg",
   "og": "https://research.seadice.win/img/savoring-good-moments-mood-how-research-og.jpg",
   "local": true
+ },
+ "screen-reading-focus-paper-how-research": {
+  "file": "File:Book and paper store - panoramio.jpg",
+  "src": "/img/screen-reading-focus-paper-how-research.jpg",
+  "src640": "/img/screen-reading-focus-paper-how-research-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "夜の本と紙の店のショーウインドウ",
+  "artist": "Jens Cederskjold",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Book_and_paper_store_-_panoramio.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Book_and_paper_store_-_panoramio.jpg/960px-Book_and_paper_store_-_panoramio.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Book_and_paper_store_-_panoramio.jpg/500px-Book_and_paper_store_-_panoramio.jpg",
+  "og": "https://research.seadice.win/img/screen-reading-focus-paper-how-research.jpg",
+  "local": true
  }
 }

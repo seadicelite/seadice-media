@@ -7049,5 +7049,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-screen-reading-focus-paper-how-research-time-pressure",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Delgado & Salmerón, \"The inattentive on-screen reading: Reading medium affects attention and reading comprehension under time pressure\" (Learning and Instruction, 2021)",
+    "sourceUrl": "https://doi.org/10.1016/j.learninstruc.2020.101396",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/screen-reading-focus-paper-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "画面だと頭に入らない？",
+        "body": "PDFより紙のほうが頭に入る、ってよく聞くよね。でも、いつでも画面が不利なのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ記事を紙と画面で",
+        "body": "スペインの大学生140人が、約3,000語の科学記事を雑誌かパソコンのPDFで読んだ。半分は自分のペース、半分は16分30秒の時間制限つきだったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差が出たのは急いだときだけ",
+        "body": "時間に追われると、紙の人は上の空が減ったのに、画面の人は減らなかった。理解の点が下がったのは、時間に追われた画面の組だけ。自分のペースなら差はなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "タブレットならどう？",
+        "body": "使ったのは1本の長い説明文と、机のパソコン画面だけ。手に持つタブレットや短い文章でも同じかは、著者たちも確かめる必要があるとしているよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
