@@ -3792,8 +3792,8 @@
  },
  "why-interesting-asides-hurt-learning": {
   "file": "File:Itaú Cultural, Avenida Paulista, Brazil.jpg",
-  "src": "/img/why-interesting-asides-hurt-learning.jpg",
-  "src640": "/img/why-interesting-asides-hurt-learning-sm.jpg",
+  "src": "/img/why-interesting-asides-hurt-learning.webp",
+  "src640": "/img/why-interesting-asides-hurt-learning-sm.webp",
   "w": 960,
   "h": 694,
   "alt": "植物画が壁一面に飾られた、らせん階段のある建物",
@@ -3802,10 +3802,26 @@
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Ita%C3%BA_Cultural,_Avenida_Paulista,_Brazil.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ita%C3%BA_Cultural%2C_Avenida_Paulista%2C_Brazil.jpg/960px-Ita%C3%BA_Cultural%2C_Avenida_Paulista%2C_Brazil.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ita%C3%BA_Cultural%2C_Avenida_Paulista%2C_Brazil.jpg/500px-Ita%C3%BA_Cultural%2C_Avenida_Paulista%2C_Brazil.jpg",
-  "og": "https://dokugaku.seadice.win/img/why-interesting-asides-hurt-learning.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-interesting-asides-hurt-learning-og.jpg",
+  "local": true
+ },
+ "exam-wrapper-reflection-sheet": {
+  "file": "File:Apsco Vacuhold pencil sharpener 13.jpg",
+  "src": "/img/exam-wrapper-reflection-sheet.webp",
+  "src640": "/img/exam-wrapper-reflection-sheet-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "鉛筆削り",
+  "artist": "Coyau",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Apsco_Vacuhold_pencil_sharpener_13.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Apsco_Vacuhold_pencil_sharpener_13.jpg/960px-Apsco_Vacuhold_pencil_sharpener_13.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Apsco_Vacuhold_pencil_sharpener_13.jpg/500px-Apsco_Vacuhold_pencil_sharpener_13.jpg",
+  "og": "https://dokugaku.seadice.win/img/exam-wrapper-reflection-sheet-og.jpg",
   "local": true
  }
 }

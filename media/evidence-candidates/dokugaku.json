@@ -6860,5 +6860,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-exam-wrapper-reflection-sheet-pharmacy-null",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pate et al., \"The use of exam wrappers to promote metacognition\" (Currents in Pharmacy Teaching and Learning, 2019)",
+    "sourceUrl": "https://doi.org/10.1016/j.cptl.2019.02.008",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/exam-wrapper-reflection-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "試験のあとに振り返りを書けば、点が上がる？",
+        "body": "テストのあとに「どう準備した？なぜ間違えた？次は何を変える？」を書く振り返りシート。大学の授業でも使われていて、書けば次の点が上がると思われがちだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "薬学生88人で比べてみた",
+        "body": "アメリカの薬学部の授業で、2〜5回目の試験の前に、前回の試験を見直すシートを使えるようにしたんだ。1回以上使った53人と、一度も使わなかった35人の試験の点をくらべたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "点の伸びは、はっきりしなかった",
+        "body": "使った人の平均点はやや高かったけれど、統計的にははっきりした差とは言えなかった（p = 0.142）らしい。著者らは「可能性はあるが、さらに研究が必要」とまとめているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "使う人を自分で選んでいた",
+        "body": "シートを使うかどうかは学生が自分で決めていたので、もともと熱心な人が使った可能性もある。一人で資格試験を勉強する社会人に同じことが言えるかも、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
