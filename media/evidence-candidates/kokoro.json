@@ -5951,5 +5951,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-subjective-status-low-mood-why-ladder-sleep",
+    "category": "比べて落ち込む",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Euteneuer F & Süssenbach P, \"Longitudinal Reciprocal Relationships Between Subjective Social Status and Short Sleep Duration in a German Population-Based Sample\" (Nature and Science of Sleep, 2021)",
+    "sourceUrl": "https://doi.org/10.2147/NSS.S301293",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/subjective-status-low-mood-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「自分は下のほう」と眠りの関係",
+        "body": "人と比べて「自分は下のほうだな」と感じることってあるよね。その感覚、眠りとも関係があるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "10段のはしごでたずねた",
+        "body": "ドイツ全国から選ばれた2,156人に、2016年と2018年の2回、「国全体の中で」と「身の回りの人の中で」、自分が10段のはしごのどこにいるかをたずねた研究。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "関係したのは「国全体」のほう",
+        "body": "国全体の中での位置の感覚が低い人ほど、2年後に睡眠が6時間未満になりやすかったらしい。収入や学歴を一緒に分析しても残った。身の回りの中での位置では、関係が見られなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どちらが先かは不明",
+        "body": "睡眠が短い人ほど、あとで位置の感覚が低くなる関係も一部の分析で見られた。睡眠は自己申告の時間だけで、原因と結果ははっきりしていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
