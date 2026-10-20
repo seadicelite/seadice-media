@@ -3950,5 +3950,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/A_Beagle_lying_on_the_sofa_next_to_a_colourful_cushion.jpg/500px-A_Beagle_lying_on_the_sofa_next_to_a_colourful_cushion.jpg",
   "og": "https://research.seadice.win/img/nap-ruined-night-sleep-recovery-research.jpg",
   "local": true
+ },
+ "exercise-felt-worse-mood-intensity-recovery-research": {
+  "file": "File:All-weather running track.jpg",
+  "src": "/img/exercise-felt-worse-mood-intensity-recovery-research.jpg",
+  "src640": "/img/exercise-felt-worse-mood-intensity-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "陸上競技場のトラック",
+  "artist": "Mk2010",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:All-weather_running_track.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/All-weather_running_track.jpg/960px-All-weather_running_track.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/All-weather_running_track.jpg/500px-All-weather_running_track.jpg",
+  "og": "https://research.seadice.win/img/exercise-felt-worse-mood-intensity-recovery-research.jpg",
+  "local": true
  }
 }

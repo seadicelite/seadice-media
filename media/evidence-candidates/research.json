@@ -6811,5 +6811,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-exercise-felt-worse-mood-intensity-recovery-research-self-selected",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Oliveira et al., \"Differences in exercise intensity seems to influence the affective responses in self-selected and imposed exercise: a meta-analysis\" (Frontiers in Psychology, 2015)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2015.01105",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/exercise-felt-worse-mood-intensity-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自分のペースで運動すると気分がいい？",
+        "body": "人に決められた運動より、自分で決めたペースのほうが気持ちいい。だから「自分で選べること」が大事、とよく言われるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "10本の研究をまとめた",
+        "body": "Oliveiraらは、自分で強さを選んだ運動と、決められた強さの運動で、運動中の気分（−5〜+5の11段階）を比べた10本の研究をまとめたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差を生んでいたのは「強さ」",
+        "body": "決められた強さが息の上がる境目（換気閾値）を超えると、気分の差は大きかった（標準化平均差−1.30）。でも同じ強さどうしだと差はわずか（−0.10）。自分で選ぶと気分がいいのは、強くしすぎないからみたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "研究どうしのばらつき",
+        "body": "まとめた研究は10本と少なく、結果のばらつきや論文の偏りの可能性も指摘されているよ。運動中の気分の話で、長く続けたときの効果まではわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
