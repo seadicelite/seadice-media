@@ -4850,8 +4850,8 @@
  },
  "subjective-status-low-mood-why": {
   "file": "File:Ladder in Front of a Wall (47145748521).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Ladder_in_Front_of_a_Wall_%2847145748521%29.jpg/960px-Ladder_in_Front_of_a_Wall_%2847145748521%29.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Ladder_in_Front_of_a_Wall_%2847145748521%29.jpg/500px-Ladder_in_Front_of_a_Wall_%2847145748521%29.jpg",
+  "src": "/img/subjective-status-low-mood-why.jpg",
+  "src640": "/img/subjective-status-low-mood-why-sm.jpg",
   "w": 960,
   "h": 653,
   "alt": "壁に立てかけた木のはしご",
@@ -4859,7 +4859,12 @@
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Ladder_in_Front_of_a_Wall_(47145748521).jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Ladder_in_Front_of_a_Wall_%2847145748521%29.jpg/960px-Ladder_in_Front_of_a_Wall_%2847145748521%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Ladder_in_Front_of_a_Wall_%2847145748521%29.jpg/500px-Ladder_in_Front_of_a_Wall_%2847145748521%29.jpg",
+  "og": "https://mentalai.seadice.win/img/subjective-status-low-mood-why.jpg",
+  "local": true
  },
  "ai-job-worry-home-spillover-prevent": {
   "file": "File:Window Front at Night 374889.jpg",
