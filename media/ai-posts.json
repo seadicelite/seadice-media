@@ -1,5 +1,14 @@
 [
  {
+  "slug": "teacher-missed-student-ai-confidence-rebuild",
+  "category": "子ども・学校",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-20",
+  "title": "生徒のAI使用を見抜けず、教員として自信をなくした。研究では、大学の採点者も専門家もAIの文章を見分けきれておらず、立て直しは「一人で見抜く」役割を手放すことから",
+  "summary": "大学の試験ではAIの答案の94%が気づかれず、研究者もAIの要約の32%を本物と判断した。確かめ方を授業の中に移し、同僚と分け合う。"
+ },
+ {
   "slug": "group-project-teammate-ai-own-part",
   "category": "子ども・学校",
   "type": "guide",

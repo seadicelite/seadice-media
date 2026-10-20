@@ -2759,5 +2759,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg/500px-A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg",
   "og": "https://ai.seadice.win/img/group-project-teammate-ai-own-part.jpg",
   "local": true
+ },
+ "teacher-missed-student-ai-confidence-rebuild": {
+  "file": "File:Klassenraum Grundschule.jpg",
+  "src": "/img/teacher-missed-student-ai-confidence-rebuild.jpg",
+  "src640": "/img/teacher-missed-student-ai-confidence-rebuild-sm.jpg",
+  "w": 960,
+  "h": 564,
+  "alt": "誰もいない教室の机",
+  "artist": "Martin Kraft",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Klassenraum_Grundschule.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Klassenraum_Grundschule.jpg/960px-Klassenraum_Grundschule.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Klassenraum_Grundschule.jpg/500px-Klassenraum_Grundschule.jpg",
+  "og": "https://ai.seadice.win/img/teacher-missed-student-ai-confidence-rebuild.jpg",
+  "local": true
  }
 }
