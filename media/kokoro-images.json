@@ -4811,5 +4811,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Home-office-336377.jpg/500px-Home-office-336377.jpg",
   "og": "https://mentalai.seadice.win/img/mental-work-body-tired-why.jpg",
   "local": true
+ },
+ "past-unemployment-job-worry-why": {
+  "file": "File:Wooden bench in G Ross Lord Park 14.jpg",
+  "src": "/img/past-unemployment-job-worry-why.jpg",
+  "src640": "/img/past-unemployment-job-worry-why-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "公園の木のベンチ",
+  "artist": "Fabian Roudra Baroi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Wooden_bench_in_G_Ross_Lord_Park_14.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Wooden_bench_in_G_Ross_Lord_Park_14.jpg/960px-Wooden_bench_in_G_Ross_Lord_Park_14.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Wooden_bench_in_G_Ross_Lord_Park_14.jpg/500px-Wooden_bench_in_G_Ross_Lord_Park_14.jpg",
+  "og": "https://mentalai.seadice.win/img/past-unemployment-job-worry-why.jpg",
+  "local": true
  }
 }

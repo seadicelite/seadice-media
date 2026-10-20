@@ -5883,5 +5883,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-past-unemployment-job-worry-why-sensitize-inoculate",
+    "category": "仕事とAIの不安",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Debus ME et al., \"The Long Reach of Unemployment: Sensitizing or Inoculating Employee Reactions to Job Insecurity?\" (Journal of Business and Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.1007/s10869-025-10052-5",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/past-unemployment-job-worry-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "一度失業すると次に弱くなる？",
+        "body": "前に仕事を失ったことがある人は、また失うかもという不安にもっと弱くなる。よく聞くけど、本当なのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "米国とドイツの4つの調査",
+        "body": "2017〜2021年に集めた米国とドイツの働く人、合わせて1,638人のデータで、失業の経験があるかどうかで不安への反応が違うかを調べた研究。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "強まる面と、和らぐ面があった",
+        "body": "ドイツでは経験がある人ほど不満やいらだちとの結びつきが強めだった。一方、米国では失業の回数が多い人ほど、不安と眠りの乱れの結びつきが弱め（0.44に対し0.20）だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "違いの理由は確かめられていない",
+        "body": "国の社会保障や、コロナ禍の時期の違いが関わるかもしれないと著者らは考えているけど、まだ確かめられていない。日本で同じかもわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
