@@ -66,6 +66,8 @@ def render(cfg, posts, cats, images, types, img_url, card):
     tiles = ""
     for n, v in cats.items():
         cnt = sum(1 for p in posts if p["category"] == n)
+        if not cnt:  # 記事0本のカテゴリはハブが無いのでタイルを出さない（404防止）
+            continue
         desc = next((c.get("desc", "") for c in cfg["categories"] if isinstance(c, dict) and c["name"] == n), "")
         tiles += (f'<a class="tile" href="/category/{v["id"]}/" style="--c:{v["color"]}"><svg viewBox="0 0 24 24"><path d="{v["icon"]}"/></svg>'
                   f'<b>{E(n)}</b><span>{E(desc)}</span><i>{cnt}本</i></a>')
