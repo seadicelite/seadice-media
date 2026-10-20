@@ -6913,5 +6913,73 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-gesture-vocabulary-memory-how-research-enactment",
+    "category": "記憶・学習",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Roberts et al., \"The enactment effect: A systematic review and meta-analysis of behavioral, neuroimaging, and patient studies\" (Psychological Bulletin, 2022)",
+    "sourceUrl": "https://doi.org/10.1037/bul0000360",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/gesture-vocabulary-memory-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "体を動かして覚えると、忘れにくい？",
+        "body": "「手をたたく」みたいな言葉を、読むだけじゃなく実際に手をたたいて覚える。それだけで記憶って変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "145件の実験をまとめた",
+        "body": "この「実演効果」を調べた145件の行動実験に、脳画像の研究7件、患者の研究31件をあわせて分析した研究があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "動作したほうが、はっきり覚えていた",
+        "body": "読むだけ、人の動作を見るだけ、頭で思い描くだけと比べて、実際に動作して覚えた言葉のほうがよく思い出せた。効果の大きさは平均g=1.23と大きめ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "外国語の単語でも同じ？",
+        "body": "調べたのは主に母語の動作の言葉。外国語の単語に身ぶりをつける実験では、訳を答えるテストで差が出なかった例もあるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-gesture-vocabulary-memory-how-research-observe",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Oppici et al., \"Benefits of Enacting and Observing Gestures on Foreign Language Vocabulary Learning: A Systematic Review and Meta-Analysis\" (Behavioral Sciences, 2023)",
+    "sourceUrl": "https://doi.org/10.3390/bs13110920",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/gesture-vocabulary-memory-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "身ぶりは自分でやらないと意味がない？",
+        "body": "単語を身ぶりつきで覚えるなら、見ているだけじゃだめで、自分で体を動かさないと効かない。そう思いがちだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "「やる」と「見る」を比べた7件",
+        "body": "外国語の単語を、自分で身ぶりをして覚える場合と、人の身ぶりを見て覚える場合を比べた7件の研究、309人分をまとめた分析があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績はほぼ同じだった",
+        "body": "思い出すテストでも訳すテストでも、2つの覚え方の差はほとんどなかった（標準化平均差0.05）。見るだけでも効果が出る可能性があるらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "研究が少なく、確かさは「低い」",
+        "body": "まとめられた研究は7件だけで、証拠の確かさは低いと評価されている。長い期間で調べた研究や、抽象的な単語だけを調べた研究が足りないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
