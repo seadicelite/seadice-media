@@ -2905,5 +2905,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Drawing%2C_Library_or_Office_Interior%2C_ca._1915_%28CH_18708223%29.jpg/500px-Drawing%2C_Library_or_Office_Interior%2C_ca._1915_%28CH_18708223%29.jpg",
   "og": "https://ai.seadice.win/img/ai-better-than-me-at-work-comparison-og.jpg",
   "local": true
+ },
+ "older-family-ai-fake-news-susceptible": {
+  "file": "File:Coffee (12492821754).jpg",
+  "src": "/img/older-family-ai-fake-news-susceptible.webp",
+  "src640": "/img/older-family-ai-fake-news-susceptible-sm.webp",
+  "w": 960,
+  "h": 556,
+  "alt": "新聞の上に置かれたコーヒーカップ",
+  "artist": "tsaiproject from Canada",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Coffee_(12492821754).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coffee_%2812492821754%29.jpg/960px-Coffee_%2812492821754%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coffee_%2812492821754%29.jpg/500px-Coffee_%2812492821754%29.jpg",
+  "og": "https://ai.seadice.win/img/older-family-ai-fake-news-susceptible-og.jpg",
+  "local": true
  }
 }
