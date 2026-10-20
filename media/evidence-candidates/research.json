@@ -7287,5 +7287,73 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-hay-fever-cant-focus-why-research-hay-fever-work-productivity",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sekine et al., \"Association between allergic rhinitis and work productivity in a nonclinical setting: a cross-sectional study\" (Journal of Occupational Health, 2026)",
+    "sourceUrl": "https://doi.org/10.1093/joccuh/uiaf071",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/hay-fever-cant-focus-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "花粉症だと仕事がはかどらない？",
+        "body": "花粉の季節は仕事の効率がガクッと落ちる、ってよく聞くよね。花粉症の人はみんな、そんなに損をしているのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "関東の働く人555人に聞いた",
+        "body": "2024年の3〜4月、関東地方で働く大人555人にアンケート。鼻炎があると答えた347人（62.5%）と、そうでない人の仕事の効率を比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差が出たのは症状が重い人",
+        "body": "鼻炎がある人とない人で、全体の効率に差はなかった。でも鼻炎のある人の中では、症状が重い人ほど、出勤していても効率が落ちていたんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因と結果は？",
+        "body": "ある時点のアンケートで、鼻炎かどうかは自己申告。症状が重いから効率が落ちたのか、ほかの理由があるのかは、この調査だけではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-hay-fever-cant-focus-why-research-pollen-season-memory",
+    "category": "集中力",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Trikojat et al., \"Memory and multitasking performance during acute allergic inflammation in seasonal allergic rhinitis\" (Clinical & Experimental Allergy, 2017)",
+    "sourceUrl": "https://doi.org/10.1111/cea.12893",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/hay-fever-cant-focus-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "花粉の季節、頭も鈍くなる？",
+        "body": "花粉症の時期は、鼻だけじゃなく頭もぼんやりする気がする。これって本当に、覚える力や考える速さが落ちているのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ人を2つの季節でテスト",
+        "body": "薬を使っていない花粉症の患者41人と、アレルギーのない42人が、花粉の季節とそれ以外の季節にテストを受けたよ。単語を覚える課題と、2つの作業を同時にする課題だ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "覚える力と処理の速さが低下",
+        "body": "花粉の季節には、患者は単語リストを覚える成績が下がり、2つの作業を同時にする課題で処理が全体に遅くなっていた。作業の切り替えそのものの負担には差がなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "なぜ落ちるのか",
+        "body": "参加者は合わせて83人と少なめ。炎症のせいか、眠りや気分のせいか、仕組みまではこの研究だけではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
