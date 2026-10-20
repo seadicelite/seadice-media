@@ -2849,5 +2849,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rear_car_of_train_and_platforms_at_Como_Lago_Nord_station_in_morning.jpg/500px-Rear_car_of_train_and_platforms_at_Como_Lago_Nord_station_in_morning.jpg",
   "og": "https://ai.seadice.win/img/ai-reemployed-lower-job-gap-rebuild.jpg",
   "local": true
+ },
+ "sns-recommendation-anger-posts-prepare": {
+  "file": "File:Tecnología Inspiracional.jpg",
+  "src": "/img/sns-recommendation-anger-posts-prepare.jpg",
+  "src640": "/img/sns-recommendation-anger-posts-prepare-sm.jpg",
+  "w": 960,
+  "h": 930,
+  "alt": "机の上に置かれたスマートフォン",
+  "artist": "ISilec",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tecnolog%C3%ADa_Inspiracional.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tecnolog%C3%ADa_Inspiracional.jpg/960px-Tecnolog%C3%ADa_Inspiracional.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tecnolog%C3%ADa_Inspiracional.jpg/500px-Tecnolog%C3%ADa_Inspiracional.jpg",
+  "og": "https://ai.seadice.win/img/sns-recommendation-anger-posts-prepare.jpg",
+  "local": true
  }
 }
