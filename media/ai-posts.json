@@ -1,5 +1,14 @@
 [
  {
+  "slug": "group-project-teammate-ai-own-part",
+  "category": "子ども・学校",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-20",
+  "title": "グループ課題で、仲間がAIで書いた部分が問題になった。研究では、大学が各自の担当を記録と面談で確かめる仕組みを使っており、まず自分の下書きと履歴を残して担当を説明できるようにする",
+  "summary": "408人の大学の授業では担当の合意書と30分の面談で貢献を確かめていた。自分の下書きと履歴を残し、担当を1枚にまとめて先生に聞く。"
+ },
+ {
   "slug": "class-ai-rules-check-before-assignment",
   "category": "子ども・学校",
   "type": "guide",

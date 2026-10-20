@@ -2741,5 +2741,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kawauchi_ES_6th_grade_classroom_2.jpg/500px-Kawauchi_ES_6th_grade_classroom_2.jpg",
   "og": "https://ai.seadice.win/img/class-ai-rules-check-before-assignment-og.jpg",
   "local": true
+ },
+ "group-project-teammate-ai-own-part": {
+  "file": "File:A laptop and a notebook on the wooden table (Pixabay).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg/960px-A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg/500px-A_laptop_and_a_notebook_on_the_wooden_table_%28Pixabay%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上に置かれたノート",
+  "artist": "By StartupStockPhotos from Pixabay",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:A_laptop_and_a_notebook_on_the_wooden_table_(Pixabay).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
