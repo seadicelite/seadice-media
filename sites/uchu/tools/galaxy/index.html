@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>銀河と星の一生シミュレーター｜ビッグバンから星と惑星が生まれて消えるまで | 宇宙の研究</title>
+<link rel="canonical" href="https://uchu.seadice.win/tools/galaxy/">
+<meta property="og:url" content="https://uchu.seadice.win/tools/galaxy/">
+<meta name="description" content="ビッグバンから時間を進めて、銀河が生まれ、星と惑星が生まれては亡くなっていく様子を見るシミュレーション。時代ごとに「確か・推定・わからない」を示し、星を選ぶとその惑星の一生も見られる。登録なし・無料。">
+<meta name="theme-color" content="#0A0E16">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 fill=%22%2307080d%22/%3E%3Ccircle cx=%2216%22 cy=%2216%22 r=%229%22 fill=%22%23ffd36b%22/%3E%3C/svg%3E">
+<meta property="og:title" content="銀河と星の一生シミュレーター">
+<meta property="og:description" content="ビッグバンから、銀河・星・惑星が生まれて消えるまで。わからないことは、わからないまま。">
+<meta property="og:type" content="website">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebApplication","name":"銀河と星の一生シミュレーター","url":"https://uchu.seadice.win/tools/galaxy/","applicationCategory":"EducationalApplication","operatingSystem":"Web","inLanguage":"ja","isAccessibleForFree":true,"description":"ビッグバンから、銀河・星・惑星が生まれては亡くなっていく様子を見るシミュレーション。時代ごとに出典と「確か・推定・わからない」を示す。","offers":{"@type":"Offer","price":"0","priceCurrency":"JPY"},"publisher":{"@type":"Organization","@id":"https://seadice.win/#organization","name":"SEADICE","url":"https://seadice.win/"},"dateModified":"2026-10-20"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"HOME","item":"https://seadice.win/"},{"@type":"ListItem","position":2,"name":"宇宙の研究","item":"https://uchu.seadice.win/"},{"@type":"ListItem","position":3,"name":"道具","item":"https://uchu.seadice.win/tools/"},{"@type":"ListItem","position":4,"name":"銀河と星の一生","item":"https://uchu.seadice.win/tools/galaxy/"}]}]}</script>
+<style>
+:root{--bg:#0A0E16;--panel:#121926;--line:#26324A;--text:#E9EDF3;--muted:#A1ACBE;--accent:#E3B341;--g:16px}
+nav.top{border-bottom:1px solid var(--line)}nav.top .in{max-width:1080px;margin:0 auto;padding:0 var(--g);display:flex;justify-content:space-between;align-items:center;min-height:52px}nav.top a{color:var(--text);text-decoration:none;font-weight:700;padding:10px 0}nav.top a.site{color:var(--accent)}.crumb{font-size:13px;color:var(--muted);margin:14px 0 0;padding:0;list-style:none;display:flex;flex-wrap:wrap;gap:4px}.crumb li+li:before{content:"/";margin-right:4px}.crumb a{color:var(--muted)}
+
+@media(min-width:600px){:root{--g:24px}}@media(min-width:960px){:root{--g:32px}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.8 -apple-system,BlinkMacSystemFont,"Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP",sans-serif;-webkit-text-size-adjust:100%}
+main{max-width:1080px;margin:0 auto;padding:0 var(--g) 64px}
+a{color:var(--accent)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+h1{font-size:26px;line-height:1.3;margin:24px 0 4px}
+@media(min-width:600px){h1{font-size:34px}}
+h2{font-size:18px;margin:32px 0 10px;padding-left:10px;border-left:3px solid var(--accent)}
+.lead{color:var(--muted);margin:0 0 12px;font-size:15px}
+.clock{display:flex;flex-wrap:wrap;gap:2px 16px;align-items:baseline;font-size:14px}
+.clock b{font-size:22px;font-variant-numeric:tabular-nums}
+.track{height:6px;background:var(--line);border-radius:3px;margin:6px 0 10px;overflow:hidden}
+.track i{display:block;height:100%;background:var(--accent);width:0}
+.eramini{margin:0 0 10px;font-size:15px;font-weight:700;min-height:1.8em}
+#sky{display:block;width:100%;border:1px solid var(--line);border-radius:8px;background:#05060a;cursor:crosshair;touch-action:manipulation}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:10px 0}
+button,.btn{font:inherit;cursor:pointer;min-height:44px;padding:0 14px;border:1px solid var(--line);border-radius:6px;background:transparent;color:var(--text);display:inline-flex;align-items:center;text-decoration:none}
+button[aria-pressed="true"]{border-color:var(--accent);color:var(--accent)}
+.primary{background:var(--accent);color:#14110a;border-color:var(--accent);font-weight:700}
+select{min-height:44px;font:inherit;color:var(--text);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:0 10px}
+.two{display:grid;gap:16px}
+@media(min-width:960px){.two{grid-template-columns:3fr 2fr;align-items:start}}
+.era{border:1px solid var(--line);border-radius:8px;background:var(--panel);padding:14px 16px}
+.era h2{margin:0 0 6px;border:0;padding:0;font-size:19px}
+.era p{margin:0}
+.src{font-size:12px;color:var(--muted);margin-top:6px!important}
+.tag{display:inline-block;font-size:12px;line-height:1;padding:5px 7px;border-radius:4px;border:1px solid var(--muted);color:var(--text);margin-right:8px;vertical-align:2px}
+.tag-sure{background:#e8ebf2;color:#05060a;border-color:#e8ebf2}
+.tag-unk{border-style:dashed;border-color:var(--accent);color:var(--accent)}
+.tag-mark{border-color:var(--line);color:var(--muted)}
+.stats{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;list-style:none;margin:12px 0 0;padding:0}
+@media(min-width:600px){.stats{grid-template-columns:repeat(5,1fr)}}
+.stats li{border:1px solid var(--line);border-radius:8px;padding:8px 10px;font-size:12px;color:var(--muted)}
+.stats b{display:block;font-size:20px;color:var(--text);font-variant-numeric:tabular-nums}
+.star{border:1px solid var(--accent);border-radius:8px;padding:12px 14px;margin:12px 0 0}
+.star p{margin:0 0 6px}
+.star .muted{font-size:14px;color:var(--muted)}
+.list{list-style:none;margin:8px 0 0;padding:0}
+.list li{border-top:1px solid var(--line);padding:8px 0;font-size:14px}
+.list strong{display:block}
+.list span{display:block;color:var(--muted)}
+.list a{display:inline-flex;min-height:44px;align-items:center}
+.list button{min-height:40px}
+.discover{border:1px solid #7fd1ff;border-radius:8px;padding:10px 12px;margin:0 0 10px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.discover p{margin:0;flex:1 1 240px;font-size:14px}
+.follow{border:1px solid var(--accent);border-radius:8px;padding:12px 14px;margin:16px 0 0}
+.follow h2{margin:0 0 6px;border:0;padding:0}
+.follow h3{font-size:15px;margin:16px 0 6px}
+.follow .muted{font-size:14px;color:var(--muted);margin:0}
+.ideas,.earth{list-style:none;margin:0;padding:0}
+.ideas li,.earth li{border-top:1px solid var(--line);padding:8px 0;font-size:14px}
+.ideas p,.earth p{margin:2px 0 0}
+.earth li{color:var(--muted)}
+.earth li.done{color:var(--text)}
+.earth strong,.ideas strong{margin-left:2px}
+button.mini{min-height:36px;padding:0 10px;margin-left:8px;font-size:13px;border-color:#7fd1ff;color:#7fd1ff}
+.life{border:1px solid var(--line);border-radius:8px;background:var(--panel);padding:14px 16px}
+.life label{display:block;font-size:15px}
+input[type=range]{width:100%;min-height:44px;accent-color:var(--accent)}
+#log{list-style:none;margin:0;padding:0;max-height:420px;overflow:auto}
+#log li{border-top:1px solid var(--line);padding:8px 0;font-size:14px}
+.lt{display:inline-block;min-width:5.5em;color:var(--muted);font-size:13px;font-variant-numeric:tabular-nums}
+.note{font-size:13px;color:var(--muted)}
+footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px;font-size:13px;color:var(--muted)}
+footer p{margin:0 0 6px}
+#sources{padding-left:1.2em}
+details summary{cursor:pointer;min-height:44px;display:flex;align-items:center;color:var(--text)}
+.readmore{list-style:none;margin:0;padding:0}.readmore li{border-top:1px solid var(--line)}.readmore a{display:flex;align-items:center;min-height:48px;padding:8px 0;font-size:15px}
+</style>
+</head>
+<body>
+<nav class="top"><div class="in"><a class="site" href="https://seadice.win/">SEADICE</a><a href="/">宇宙の研究</a></div></nav>
+<main>
+<ol class="crumb"><li><a href="https://seadice.win/">HOME</a></li><li><a href="/">宇宙の研究</a></li><li><a href="/tools/">道具</a></li><li aria-current="page">銀河と星の一生</li></ol>
+
+<noscript><p>このページは JavaScript で動くシミュレーションです。JavaScript をオンにしてください。</p></noscript>
+<h1>銀河と星の一生シミュレーター</h1>
+<p class="lead">ビッグバンから時間を進めて、銀河が生まれ、星と惑星が生まれては消えていく様子を見ます。光る点をタップすると、その星の惑星1つ1つが見られます。下の「生命さがし」で、私たちの銀河の惑星に生命のしるしがあるかを調べられます。</p>
+
+<div class="clock"><span>ビッグバンから <b id="t-age">0秒</b></span><span id="t-rel"></span></div>
+<div class="track"><i id="bar"></i></div>
+<p class="eramini" id="era-mini"></p>
+
+<div class="two">
+  <div>
+    <div class="discover" id="discover" hidden><p id="discover-text"></p><button type="button" class="primary" id="discover-go">追ってみる</button></div>
+    <canvas id="sky" role="img" aria-label="宇宙の様子。色の点は星、暗い灰色の点は燃えかす、青灰色の粒は暗黒物質とガス、輪は星が燃え尽きた瞬間"></canvas>
+    <div class="controls">
+      <button type="button" id="pause">一時停止</button>
+      <button type="button" data-speed="1">1倍</button>
+      <button type="button" data-speed="4">4倍</button>
+      <button type="button" data-speed="16">16倍</button>
+      <label class="note" for="len">長さ</label>
+      <select id="len"><option value="120">約2分</option><option value="300" selected>約5分</option><option value="600">約10分</option></select>
+      <button type="button" id="restart">ビッグバンからやり直す</button>
+    </div>
+    <p class="note" style="margin:12px 0 0">下の数は、この画面の代表の点を数えたもので、本物の宇宙の数ではありません（本物の銀河1つには何千億もの星がある）。惑星は星1個あたり平均1.6個（重い元素が少ない昔は少なめ）と仮に置いています。</p>
+    <ul class="stats">
+      <li><b id="n-gal">0</b>画面に見えている銀河</li>
+      <li><b id="n-star">0</b>光っている星の点</li>
+      <li><b id="n-died">0</b>燃え尽きた星の点</li>
+      <li><b id="n-pl">0</b>ある惑星（燃えかすのそばで冷えていくものも含む）</li>
+      <li><b id="n-pl-lost">0</b>亡くなった惑星</li>
+    </ul>
+    <p class="note">見えている銀河が減るのは、ぶつかって1つにまとまるのと、加速する膨張で遠ざかって画面の外へ出ていくためです。色の点1つは、たくさんの星の代表です。暗い灰色の点は燃え尽きた星の燃えかす（本物の銀河には何千億もの星がある）。銀河の動きは本物の重力計算ではなく、動きのイメージです。時間は「はじめほどゆっくり」流れ、全体の7割のところが「今」です。</p>
+    <div class="star" id="star-panel" hidden>
+      <p><b id="sp-name"></b></p>
+      <p class="muted" id="sp-info"></p>
+      <p class="muted" id="sp-note"></p>
+      <ul class="list" id="sp-planets"></ul>
+    </div>
+    <div class="follow" id="follow" hidden>
+      <h2 id="f-name"></h2>
+      <p class="muted" id="f-facts"></p>
+      <h3>ありうる生き物（条件からの案）</h3>
+      <ul class="ideas" id="f-ideas"></ul>
+      <h3>地球の歩みと比べる</h3>
+      <p id="f-status" style="font-size:14px"></p>
+      <ol class="earth" id="f-earth"></ol>
+      <p class="note">地球は、生命がいるとわかっているただ1つの例です。ほかの惑星が同じ順番・同じ速さで進むかは、わかりません。</p>
+      <a class="btn" id="f-go" href="../planet/">この惑星の一生を、誕生から見る</a>
+    </div>
+    <h2>生命さがし</h2>
+    <div class="life">
+      <label for="lifep">液体の水がありうる惑星に5億年いたとき、生命が生まれる確率: <b id="lifep-v"></b></label>
+      <input type="range" id="lifep" min="-5" max="0" step="0.25" value="-1">
+      <p class="note">本当の確率は誰にもわからないので、自分で置いてください（0.001%〜100%）。動かすと、これから決まる惑星にだけ効きます。生命がいるかどうかは、答え合わせまで隠れています。</p>
+      <div class="controls"><button type="button" class="primary" id="search">私たちの銀河の惑星を望遠鏡で調べる</button><button type="button" id="reveal" hidden>答え合わせ</button></div>
+      <div id="search-result" aria-live="polite"></div>
+      <div id="reveal-result" aria-live="polite"></div>
+    </div>
+  </div>
+  <div>
+    <div class="era" aria-live="polite">
+      <h2><span class="tag" id="era-tag"></span><span id="era-title"></span></h2>
+      <p id="era-text"></p>
+      <p class="src" id="era-src"></p>
+    </div>
+    <h2>できごと</h2>
+    <ol id="log" reversed></ol>
+  </div>
+</div>
+
+<h2>札の意味</h2>
+<p class="note"><span class="tag tag-sure">確か</span>観測で何度も確かめられている　<span class="tag">推定</span>観測と計算からそう考えられている　<span class="tag tag-unk">わからない</span>説が分かれている、または観測がない。札は「もとになる知識の確かさ」で、この画面の宇宙に起きることの保証ではありません。銀河・星の名前は架空です。</p>
+<p><a href="../planet/">惑星と生命の一生だけを見る</a> ／ <a href="/simulator/">宇宙の性質（物質やダークエネルギーの量）を変えて試す: 宇宙をつくるシミュレーター</a></p>
+
+<h2>くわしく読む（宇宙の研究の記事）</h2>
+<ul class="readmore"><li><a href="/big-bang-evidence/">ビッグバンの証拠は何か、宇宙マイクロ波背景放射と元素の割合</a></li><li><a href="/age-of-universe/">宇宙の年齢138億年はどうやって測ったのか</a></li><li><a href="/dark-matter/">ダークマターとは何か、見えない物質があると考えられている理由</a></li><li><a href="/dark-energy/">ダークエネルギーとは何か、宇宙の膨張が加速していると分かった超新星の観測</a></li><li><a href="/future-of-universe/">宇宙はこの先どうなるのか、ビッグフリーズ・ビッグクランチ・ビッグリップ</a></li><li><a href="/exoplanets-count/">太陽系の外の惑星はいくつ見つかっているのか、見つけ方と地球に似た惑星</a></li></ul>
+
+<footer>
+<p><a href="/about/">このメディアについて</a> | <a href="/sources/">出典と検証の方法</a> | <a href="/disclaimer/">免責事項</a> | <a href="https://seadice.win/">SEADICE</a></p>
+  <details><summary>出典（もとにした論文）</summary><ol id="sources"></ol></details>
+  <p>運営: <a href="https://seadice.win/about/">SEADICE</a>。広告なし・登録なし。このページは利用者のデータを集めません。</p>
+  <p>最終更新: 2026-10-20</p>
+</footer>
+</main>
+<script src="uchu.js" defer></script>
+</body>
+</html>
