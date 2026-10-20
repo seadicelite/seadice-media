@@ -2671,5 +2671,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Papierkanten_--_2020_--_9535.jpg/500px-Papierkanten_--_2020_--_9535.jpg",
   "og": "https://ai.seadice.win/img/ai-suspected-art-community-distance-recover.jpg",
   "local": true
+ },
+ "ai-more-creative-than-humans-research": {
+  "file": "File:Big Pencil (9931727354).jpg",
+  "src": "/img/ai-more-creative-than-humans-research.jpg",
+  "src640": "/img/ai-more-creative-than-humans-research-sm.jpg",
+  "w": 960,
+  "h": 717,
+  "alt": "大きな鉛筆とメモ帳",
+  "artist": "Scott Brown",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Big_Pencil_(9931727354).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Big_Pencil_%289931727354%29.jpg/960px-Big_Pencil_%289931727354%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Big_Pencil_%289931727354%29.jpg/500px-Big_Pencil_%289931727354%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-more-creative-than-humans-research.jpg",
+  "local": true
  }
 }
