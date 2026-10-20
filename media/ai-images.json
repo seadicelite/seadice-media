@@ -2689,5 +2689,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Big_Pencil_%289931727354%29.jpg/500px-Big_Pencil_%289931727354%29.jpg",
   "og": "https://ai.seadice.win/img/ai-more-creative-than-humans-research.jpg",
   "local": true
+ },
+ "ai-delivered-work-accused-payment-redo": {
+  "file": "File:Fossilized tooth of Tiger Shark 6214.jpg",
+  "src": "/img/ai-delivered-work-accused-payment-redo.jpg",
+  "src640": "/img/ai-delivered-work-accused-payment-redo-sm.jpg",
+  "w": 960,
+  "h": 768,
+  "alt": "サメの歯の化石",
+  "artist": "dw_ross",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fossilized_tooth_of_Tiger_Shark_6214.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fossilized_tooth_of_Tiger_Shark_6214.jpg/960px-Fossilized_tooth_of_Tiger_Shark_6214.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fossilized_tooth_of_Tiger_Shark_6214.jpg/500px-Fossilized_tooth_of_Tiger_Shark_6214.jpg",
+  "og": "https://ai.seadice.win/img/ai-delivered-work-accused-payment-redo.jpg",
+  "local": true
  }
 }
