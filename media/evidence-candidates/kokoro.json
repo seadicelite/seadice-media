@@ -6291,5 +6291,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-work-pressure-cold-face-cold-mask-stress",
+    "category": "仕事とAIの不安",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Richer R, Zenkner J, Küderle A, Rohleder N, Eskofier BM, \"Vagus activation by Cold Face Test reduces acute psychosocial stress responses\" (Scientific Reports, 2022)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-022-23222-9",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/work-pressure-cold-face/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "焦ったら、顔を冷やすと落ち着く？",
+        "body": "緊張で心臓がバクバクしたら、冷たいもので顔を冷やすといい、って聞くよね。顔が冷えると心拍がゆっくりになる反射があるのは本当らしい。でも、ストレスの場面でも効くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "暗算のプレッシャーの前に2分冷やした",
+        "body": "ドイツの実験では、見張られながら暗算を解く課題を3回くり返したよ。毎回の前に、片方の組は冷たいマスクを顔に2分当て、もう片方は2分休んだんだ。分析したのは25人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "体の戻りは早く、ホルモンも上がりにくかった",
+        "body": "冷やした組は、課題と課題の合間の心拍がほぼ最初の水準に戻っていた。ストレスのホルモンの最大の上がり幅は、冷やさない組の平均71%に対して約1%だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "気分の差は、はっきりしなかった",
+        "body": "本人が答えた気分は、2つの組ではっきりした差がなかった。参加者は若い大学生25人だけで、保冷剤や洗顔で同じことが起きるかも調べられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
