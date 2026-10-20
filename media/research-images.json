@@ -4068,5 +4068,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cross_Section_of_a_Toothbrush_with_Paste%2C_in_a_Cup%2C_on_a_Sink-_Portrait_of_Coosje%27s_Thinking_by_Oldenburg_and_van_Bruggen%2C_Krefeld-1930.jpg/500px-Cross_Section_of_a_Toothbrush_with_Paste%2C_in_a_Cup%2C_on_a_Sink-_Portrait_of_Coosje%27s_Thinking_by_Oldenburg_and_van_Bruggen%2C_Krefeld-1930.jpg",
   "og": "https://research.seadice.win/img/wellbeing-practice-habit-plan-how-research.jpg",
   "local": true
+ },
+ "sleep-loss-junk-food-cravings-why-research": {
+  "file": "File:Deliciously crafted frosted donuts ready for customers at a bakery in the morning.jpg",
+  "src": "/img/sleep-loss-junk-food-cravings-why-research.jpg",
+  "src640": "/img/sleep-loss-junk-food-cravings-why-research-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "店に並んだドーナツ",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Deliciously_crafted_frosted_donuts_ready_for_customers_at_a_bakery_in_the_morning.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Deliciously_crafted_frosted_donuts_ready_for_customers_at_a_bakery_in_the_morning.jpg/960px-Deliciously_crafted_frosted_donuts_ready_for_customers_at_a_bakery_in_the_morning.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Deliciously_crafted_frosted_donuts_ready_for_customers_at_a_bakery_in_the_morning.jpg/500px-Deliciously_crafted_frosted_donuts_ready_for_customers_at_a_bakery_in_the_morning.jpg",
+  "og": "https://research.seadice.win/img/sleep-loss-junk-food-cravings-why-research.jpg",
+  "local": true
  }
 }
