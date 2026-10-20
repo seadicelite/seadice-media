@@ -1126,5 +1126,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lady_Justice_%2836495562115%29.jpg/500px-Lady_Justice_%2836495562115%29.jpg",
   "og": "https://hanzai.seadice.win/img/revenge-psychology.jpg",
   "local": true
+ },
+ "defendant-remorse-perception": {
+  "file": "File:Scott County Museum of History 004.jpg",
+  "src": "/img/defendant-remorse-perception.jpg",
+  "src640": "/img/defendant-remorse-perception-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "窓から光が差し込む、誰もいない古い広間",
+  "artist": "Brandonrush",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Scott_County_Museum_of_History_004.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scott_County_Museum_of_History_004.jpg/1280px-Scott_County_Museum_of_History_004.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scott_County_Museum_of_History_004.jpg/500px-Scott_County_Museum_of_History_004.jpg",
+  "og": "https://hanzai.seadice.win/img/defendant-remorse-perception.jpg",
+  "local": true
  }
 }
