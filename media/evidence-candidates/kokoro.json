@@ -6257,5 +6257,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-comfort-friend-what-to-say-misprediction",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wang R, Li L, He J, \"The Misprediction of Helpers in Comforting Situations and Its Mechanism\" (Psychology Research and Behavior Management, 2024)",
+    "sourceUrl": "https://doi.org/10.2147/PRBM.S442519",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/comfort-friend-what-to-say/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "下手な慰めなら、しないほうがいい？",
+        "body": "落ち込んでいる友達に声をかけたいけど、うまく言えなくて結局送れない。そんなこと、あるよね。慰められた側は、実際どう感じているんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "慰めのメールを送ってもらった",
+        "body": "中国の大学生37人に、友達へ慰めのメールを送ってもらった実験があるよ。送った側の予想と、答えてくれた友達35人の気持ちを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "気まずさは、思ったより小さかった",
+        "body": "送った側は、相手が感じる気まずさを10点満点で平均3.7点と予想。でも受け取った側の答えは1.7点だったらしい。想像の場面の実験では、慰められた側は言葉の上手さより温かさを見ていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数も場面も、まだ限られている",
+        "body": "実際にメールを送った実験は35組と小さく、残りの実験は場面を想像して答えるものだった。深く落ち込んでいる人を慰める場合でも同じかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

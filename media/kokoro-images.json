@@ -4999,5 +4999,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/GD_%E5%BB%A3%E6%9D%B1_Guangdong_ZS_%E4%B8%AD%E5%B1%B1_Zhongshan_%E5%8F%A4%E9%8E%AE_Guzhen_%E7%87%88%E9%83%BD%E6%99%82%E4%BB%A3%E9%85%92%E5%BA%97_Light_Era_Hotel_room_window_white_curtain_%E6%99%A8%E6%97%A9_morning_November_2024_R12S_01.jpg/500px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_ZS_%E4%B8%AD%E5%B1%B1_Zhongshan_%E5%8F%A4%E9%8E%AE_Guzhen_%E7%87%88%E9%83%BD%E6%99%82%E4%BB%A3%E9%85%92%E5%BA%97_Light_Era_Hotel_room_window_white_curtain_%E6%99%A8%E6%97%A9_morning_November_2024_R12S_01.jpg",
   "og": "https://mentalai.seadice.win/img/ai-cutback-relapse-recover.jpg",
   "local": true
+ },
+ "comfort-friend-what-to-say": {
+  "file": "File:Black Japanese teapot and gyokuro.jpg",
+  "w": 960,
+  "h": 640,
+  "artist": "Markus Kniebes",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Black_Japanese_teapot_and_gyokuro.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Black_Japanese_teapot_and_gyokuro.jpg/960px-Black_Japanese_teapot_and_gyokuro.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Black_Japanese_teapot_and_gyokuro.jpg/500px-Black_Japanese_teapot_and_gyokuro.jpg",
+  "src": "/img/comfort-friend-what-to-say.webp",
+  "src640": "/img/comfort-friend-what-to-say-sm.webp",
+  "og": "https://mentalai.seadice.win/img/comfort-friend-what-to-say-og.jpg",
+  "local": true,
+  "alt": "黒い急須と緑茶の入った湯のみ"
  }
 }
