@@ -61,7 +61,9 @@
           "oil-in-dough",
           "mochi-dough-hardening-time"
         ],
-        "data": [],
+        "data": [
+          "senbei-hardness-measured"
+        ],
         "use": [
           "https://senbei.seadice.win/tool/"
         ]
@@ -77,7 +79,9 @@
         "myth": [
           "stale-senbei-dry-again"
         ],
-        "make": [],
+        "make": [
+          "senbei-storage-keep-crisp"
+        ],
         "data": [
           "humidity-crispness-storage"
         ],
@@ -95,7 +99,9 @@
         "make": [
           "soy-sauce-before-or-after-baking"
         ],
-        "data": [],
+        "data": [
+          "soy-sauce-types-salt"
+        ],
         "use": []
       }
     },
@@ -103,12 +109,16 @@
       "id": "salt",
       "label": "塩味・減塩",
       "cells": {
-        "why": [],
+        "why": [
+          "why-salt-tastes-salty"
+        ],
         "myth": [
           "fine-salt-tastes-saltier"
         ],
         "make": [],
-        "data": [],
+        "data": [
+          "senbei-salt-content"
+        ],
         "use": []
       }
     },
@@ -120,7 +130,9 @@
           "umami-synergy-nori-senbei"
         ],
         "myth": [],
-        "make": [],
+        "make": [
+          "add-umami-to-senbei"
+        ],
         "data": [],
         "use": []
       }
@@ -134,7 +146,9 @@
           "crunch-sound-and-taste"
         ],
         "make": [],
-        "data": [],
+        "data": [
+          "senbei-crunch-sound-measured"
+        ],
         "use": []
       }
     },
@@ -159,7 +173,9 @@
       "cells": {
         "why": [],
         "myth": [],
-        "make": [],
+        "make": [
+          "senbei-reduce-burnt-acrylamide"
+        ],
         "data": [
           "senbei-browning-limit"
         ],
