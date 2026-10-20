@@ -1,6 +1,6 @@
 {
- "enabled": false,
- "publish": "draft",
+ "enabled": true,
+ "publish": "auto",
  "slug": "senbei",
  "siteType": "article",
  "name": "お煎餅ラボ",
