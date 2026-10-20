@@ -84,6 +84,7 @@
 - [勉強会やグループで勉強しても、身についた気がしない。どう立て直す？「一緒に思い出す」研究と、先に一人で解く順番](https://dokugaku.seadice.win/group-study-not-sticking-fix/): 140研究の分析では、集団で一緒に思い出すと量が減っていた。先に一人で思い出し、最後に一人で確かめる形に組み直す6つの手順。
 - [ノートは手書きとパソコン、どちらが覚えられるのか。研究でわかったこと](https://dokugaku.seadice.win/handwriting-vs-laptop-notes/): 「手書きが勝つ」実験は再現で差が出ず、まとめると手書きがわずかに有利。大切なのは言い換えと見直し
 - [蛍光ペンで線を引く勉強法は効くのか。研究でわかったこと](https://dokugaku.seadice.win/highlighting-study-method/): 線を引くだけでは理解は深まらない。読み終えてから要点だけに引き、隠して思い出す練習と組み合わせたい
+- [問題を混ぜて解く「交互練習」の問題セット表と記録表。混ぜる教材・混ぜない教材の見分け方と並べ方（インターリービングの研究から）](https://dokugaku.seadice.win/interleaved-practice-set-sheet/): 混ぜて解く効果は中くらいだが、単語の暗記では逆効果。判定表で教材を選び、3単元×3問のセットを作って1週間後に確かめる。
 - [1種類ずつより、混ぜて練習した方が身につくのか。交互練習（インターリービング）の研究](https://dokugaku.seadice.win/interleaving-mixed-practice/): 種類の違う問題を混ぜて練習すると、練習中は間違えても後のテストで伸びる。ただし単語暗記は例外
 - [語学アプリだけで話せるようになるのか。アプリ学習の研究でわかったこと](https://dokugaku.seadice.win/language-learning-apps-speaking/): 語学アプリの効果は主に単語や読解で報告され、話す力はほとんど測られていない。アプリに足すべき練習を研究から整理。
 - [人に教えるつもりで学ぶと覚えやすいのか。「教える効果（プロテジェ効果）」の研究](https://dokugaku.seadice.win/learning-by-teaching-protege-effect/): 教えるつもりで学ぶだけでも効果あり。実際に何も見ずに説明すると、1週間後まで残りやすい

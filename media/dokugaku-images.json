@@ -3975,5 +3975,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Incomplete_gradient_pink_and_blue_jigsaw.jpg/500px-Incomplete_gradient_pink_and_blue_jigsaw.jpg",
   "og": "https://dokugaku.seadice.win/img/why-figuring-out-alone-doesnt-stick-og.jpg",
   "local": true
+ },
+ "interleaved-practice-set-sheet": {
+  "file": "File:Mathematics 20180813.jpg",
+  "src": "/img/interleaved-practice-set-sheet.jpg",
+  "src640": "/img/interleaved-practice-set-sheet-sm.jpg",
+  "w": 960,
+  "h": 654,
+  "alt": "方眼ノートに手書きした計算式",
+  "artist": "Santeri Viinamäki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMathematics_20180813.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mathematics_20180813.jpg/960px-Mathematics_20180813.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mathematics_20180813.jpg/500px-Mathematics_20180813.jpg",
+  "og": "https://dokugaku.seadice.win/img/interleaved-practice-set-sheet.jpg",
+  "local": true
  }
 }

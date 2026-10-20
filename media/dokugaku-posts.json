@@ -1,5 +1,13 @@
 [
   {
+    "slug": "interleaved-practice-set-sheet",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-21",
+    "title": "問題を混ぜて解く「交互練習」の問題セット表と記録表。混ぜる教材・混ぜない教材の見分け方と並べ方（インターリービングの研究から）",
+    "summary": "混ぜて解く効果は中くらいだが、単語の暗記では逆効果。判定表で教材を選び、3単元×3問のセットを作って1週間後に確かめる。"
+  },
+  {
     "slug": "why-figuring-out-alone-doesnt-stick",
     "category": "勉強法",
     "type": "guide",

@@ -7200,5 +7200,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-interleaved-practice-set-sheet-mixing-feels-worse",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kornell & Bjork, \"Learning concepts and categories: Is spacing the 'enemy of induction'?\" (Psychological Science, 2008)",
+    "sourceUrl": "https://doi.org/10.1111/j.1467-9280.2008.02127.x",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/interleaved-practice-set-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "1種類ずつ学ぶ方がわかる",
+        "body": "同じ種類をまとめて学ぶ方が頭に入る、って感じるよね。混ぜるとごちゃごちゃして覚えにくそう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "画家の作風で実験",
+        "body": "いろんな画家の絵を、同じ画家ごとに続けて見る組と、ほかの画家と混ぜて見る組に分けて、初めて見る絵の画家を当ててもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "混ぜた方が当たった",
+        "body": "実は混ぜて見た方が成績がよかった。なのに参加者は、自分のテスト結果を見たあとでも「続けて見る方が効果的」と答えたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何でも混ぜればいい？",
+        "body": "これは絵の作風を見分ける実験。単語の暗記などでは、1種類ずつの方がよかった研究もあって、材料しだいなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
