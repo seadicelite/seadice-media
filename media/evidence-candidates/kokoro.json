@@ -6121,5 +6121,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-loneliness-neighbor-kindness-recover-kind-challenge",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lim MH, Hennessey A, Qualter P, Smith BJ, Thurston L, Eres R & Holt-Lunstad J, \"The KIND Challenge community intervention to reduce loneliness and social isolation, improve mental health, and neighbourhood relationships: an international randomized controlled trial\" (Social Psychiatry and Psychiatric Epidemiology, 2025)",
+    "sourceUrl": "https://doi.org/10.1007/s00127-024-02740-z",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/loneliness-neighbor-kindness-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "孤独って、親切で減る？",
+        "body": "孤独をやわらげるには「誰かに支えてもらう」のが近道に思えるよね。じゃあ逆に、自分が近所の人に小さな親切をしたら、孤独は変わるんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3か国で4,284人が挑戦",
+        "body": "米国・英国・オーストラリアの18〜90歳4,284人をくじで2組に。片方は4週間、週1回以上近所の人に親切をして、もう片方は待ってもらったんだ。2020年の外出制限の時期だった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "米国と英国で少し下がった",
+        "body": "親切をした組では、米国と英国で孤独が待った組より少し下がっていた。オーストラリアでは差がなかったらしい。気分の落ち込みや生活の質には、どの国でも差が出なかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "4週間のその後は？",
+        "body": "調べたのは4週間後まで。途中で答えなくなった人も4〜5割いた。参加者はもともと地域に関心のある人たちで、近所に知り合いがまったくいない人に効くかはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

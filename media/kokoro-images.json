@@ -4928,5 +4928,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Riverside_footpath%2C_Hadleigh_-_geograph.org.uk_-_4859255.jpg/500px-Riverside_footpath%2C_Hadleigh_-_geograph.org.uk_-_4859255.jpg",
   "og": "https://mentalai.seadice.win/img/fatigue-light-running-recover-og.jpg",
   "local": true
+ },
+ "loneliness-neighbor-kindness-recover": {
+  "file": "File:Fergus, Ontario (21651876170).jpg",
+  "src": "/img/loneliness-neighbor-kindness-recover.webp",
+  "src640": "/img/loneliness-neighbor-kindness-recover-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "花が飾られた小さな町の商店街",
+  "artist": "Ken Lund from Reno, Nevada, USA",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fergus,_Ontario_(21651876170).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fergus%2C_Ontario_%2821651876170%29.jpg/960px-Fergus%2C_Ontario_%2821651876170%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fergus%2C_Ontario_%2821651876170%29.jpg/500px-Fergus%2C_Ontario_%2821651876170%29.jpg",
+  "og": "https://mentalai.seadice.win/img/loneliness-neighbor-kindness-recover-og.jpg",
+  "local": true
  }
 }
