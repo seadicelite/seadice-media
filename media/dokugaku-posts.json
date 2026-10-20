@@ -1,5 +1,13 @@
 [
   {
+    "slug": "ai-summary-check-table",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-21",
+    "title": "AIの要約を勉強に使う前の「照合表」。対象や条件が消えて話が広がっていないかを6項目で確かめる（AI要約の誤りの研究から）",
+    "summary": "AIの要約は対象や条件を落として話を広げやすい。元の文章と見比べる6項目の照合表と記録表。"
+  },
+  {
     "slug": "remember-or-write-down-relearning-sheet",
     "category": "勉強法",
     "type": "guide",

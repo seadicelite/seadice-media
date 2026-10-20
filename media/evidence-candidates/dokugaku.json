@@ -7404,5 +7404,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-ai-summary-check-table-accuracy-prompt",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Peters & Chin-Yee, \"Generalization bias in large language model summarization of scientific research\" (Royal Society Open Science, 2025)",
+    "sourceUrl": "https://doi.org/10.1098/rsos.241776",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/ai-summary-check-table/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "「正確に」と頼めばAIの要約は正確？",
+        "body": "AIに論文や資料を要約させるとき、「不正確な点を入れないで」と書き添えれば安心、と思うよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "10種類のAIの要約4900件をチェック",
+        "body": "研究者が10種類のAIに論文の要旨や本文を要約させ、元の文章より話が広がっていないかを1件ずつ調べた。頼み方も3種類くらべたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "かえって話が広がった",
+        "body": "多くのAIが「参加者の75%」のような限定を落として言い切りがちだった。しかも「不正確にしないで」と頼むと、話を広げた要約がかえって約2倍に増えたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "なぜ逆効果なのか",
+        "body": "逆効果になった理由はまだ確かめられていない。試した頼み方は3種類だけで、AIは更新が速いから、今のAIで同じかもわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

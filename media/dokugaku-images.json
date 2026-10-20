@@ -4082,5 +4082,22 @@
   "alt": "色とりどりの付せん",
   "local": true,
   "og": "https://dokugaku.seadice.win/img/remember-or-write-down-relearning-sheet-og.jpg"
+ },
+ "ai-summary-check-table": {
+  "file": "File:Glasses and notebook on a wooden table in a bright room.jpg",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Glasses_and_notebook_on_a_wooden_table_in_a_bright_room.jpg",
+  "source_label": "Wikimedia Commons",
+  "w": 960,
+  "h": 640,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Glasses_and_notebook_on_a_wooden_table_in_a_bright_room.jpg/960px-Glasses_and_notebook_on_a_wooden_table_in_a_bright_room.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Glasses_and_notebook_on_a_wooden_table_in_a_bright_room.jpg/500px-Glasses_and_notebook_on_a_wooden_table_in_a_bright_room.jpg",
+  "src": "/img/ai-summary-check-table.webp",
+  "src640": "/img/ai-summary-check-table-sm.webp",
+  "alt": "木の机に置かれた眼鏡とノート",
+  "local": true,
+  "og": "https://dokugaku.seadice.win/img/ai-summary-check-table-og.jpg"
  }
 }
