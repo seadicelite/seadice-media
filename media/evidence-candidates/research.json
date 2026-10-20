@@ -7355,5 +7355,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-good-habit-then-treat-self-licensing-why-research-moral-licensing-observed",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rotella et al., \"Observation Moderates the Moral Licensing Effect: A Meta-Analytic Test of Interpersonal and Intrapsychic Mechanisms\" (Personality and Social Psychology Bulletin, 2026)",
+    "sourceUrl": "https://doi.org/10.1177/01461672251345512",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/good-habit-then-treat-self-licensing-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "いいことをした後は手を抜く？",
+        "body": "良い行いをすると、そのあと悪いことをしても許される気がする。「モラル・ライセンシング」と呼ばれて、よく紹介される話だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "115件の実験をまとめた",
+        "body": "2026年の分析は、115件の実験・2万1,770人分をまとめて、どんなときにこの現象が出るのかを調べたよ。分析の計画は事前に登録されていたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "人に見られているときだけ",
+        "body": "見られている場面では効果が大きく、出版の偏りを補正しても残った。でも誰にも見られていない場面では、補正後の効果はほぼゼロだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "心の中の理由は不明",
+        "body": "「見られているか」は著者があとから分類したもの。自分のイメージを保つための心の働きで起きるのかどうかは、まだはっきりしないんだって。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
