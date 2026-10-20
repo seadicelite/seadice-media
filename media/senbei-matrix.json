@@ -31,7 +31,9 @@
       "id": "puff",
       "label": "膨らみ",
       "cells": {
-        "why": [],
+        "why": [
+          "why-senbei-puffs-mechanism"
+        ],
         "myth": [
           "tenpi-drying-why-puff"
         ],
@@ -86,7 +88,9 @@
       "id": "soy",
       "label": "醤油と焼き香",
       "cells": {
-        "why": [],
+        "why": [
+          "soy-sauce-grilled-aroma-maillard"
+        ],
         "myth": [],
         "make": [
           "soy-sauce-before-or-after-baking"
@@ -166,10 +170,16 @@
       "id": "pref",
       "label": "好み（日本人）",
       "cells": {
-        "why": [],
-        "myth": [],
+        "why": [
+          "umami-dashi-foreigners"
+        ],
+        "myth": [
+          "japanese-taste-sensitivity-myth"
+        ],
         "make": [],
-        "data": [],
+        "data": [
+          "senbei-popular-flavor-ranking"
+        ],
         "use": []
       }
     },
@@ -177,10 +187,16 @@
       "id": "novel",
       "label": "新しい味",
       "cells": {
-        "why": [],
+        "why": [
+          "limited-flavor-why-we-buy"
+        ],
         "myth": [],
-        "make": [],
-        "data": [],
+        "make": [
+          "new-flavor-how-to-combine"
+        ],
+        "data": [
+          "new-flavor-age-senbei-buyers"
+        ],
         "use": [
           "https://senbei.seadice.win/flavor/"
         ]
