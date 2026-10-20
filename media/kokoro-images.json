@@ -4877,5 +4877,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Window_Front_at_Night_374889.jpg/500px-Window_Front_at_Night_374889.jpg",
   "og": "https://mentalai.seadice.win/img/ai-job-worry-home-spillover-prevent-og.jpg",
   "local": true
+ },
+ "ai-chat-connection-differs-why": {
+  "file": "File:Laptop and coffee on a desk.jpg",
+  "src": "/img/ai-chat-connection-differs-why.webp",
+  "src640": "/img/ai-chat-connection-differs-why-sm.webp",
+  "w": 960,
+  "h": 638,
+  "alt": "木の机の上のノートパソコンとコーヒー、鉛筆、付せん",
+  "artist": "Lauren Mancke",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Laptop_and_coffee_on_a_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://commons.wikimedia.org/wiki/Special:FilePath/Laptop_and_coffee_on_a_desk.jpg?width=960",
+  "remote640": "https://commons.wikimedia.org/wiki/Special:FilePath/Laptop_and_coffee_on_a_desk.jpg?width=500",
+  "og": "https://mentalai.seadice.win/img/ai-chat-connection-differs-why-og.jpg",
+  "local": true
  }
 }

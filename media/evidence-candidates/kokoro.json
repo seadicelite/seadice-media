@@ -6019,5 +6019,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-ai-chat-connection-differs-why-anthropomorphism",
+    "category": "AIとの付き合い方",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Folk D, Heine SJ & Dunn E, \"Individual differences in anthropomorphism help explain social connection to AI companions\" (Scientific Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-19212-2",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-chat-connection-differs-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く話",
+        "title": "AIと話して温かくなる人、ならない人",
+        "body": "AIと少し話しただけで、誰かに聞いてもらえた気がする人もいれば、「しょせん機械」としか思えない人もいるよね。この違いはどこから来るんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "6分のチャットと6分の日記",
+        "body": "米国とカナダの大人1,034人を、この1か月の出来事を温かく返事するAIと6分話す組と、6分日記を書く組にくじで分けて、直後のつながりの感覚を比べた実験。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "AIを人のように感じる人ほど",
+        "body": "AIと話した組のほうがつながりの感覚はわずかに高く、その差はAIに心や意識があるかもと考えやすい人ほど大きかったらしい。そう考えにくい人では日記との差が見られなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "直後の気持ちだけ",
+        "body": "測ったのは話した直後の気持ちを1つの質問でだけ。平均の差は小さく、長く使い続けたときに人とのつながりがどうなるかはわかっていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
