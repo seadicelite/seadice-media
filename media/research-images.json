@@ -4104,5 +4104,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sunflowers_and_Wheat_Fields_Under_Summer_Sky.jpg/500px-Sunflowers_and_Wheat_Fields_Under_Summer_Sky.jpg",
   "og": "https://research.seadice.win/img/hot-day-irritability-heat-mood-why-research.jpg",
   "local": true
+ },
+ "curiosity-easy-to-remember-why-research": {
+  "file": "File:Miniature Book, 'The English Lion', In Leather Case With Magnifying Glass (48708075908).jpg",
+  "src": "/img/curiosity-easy-to-remember-why-research.jpg",
+  "src640": "/img/curiosity-easy-to-remember-why-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "本と虫めがね",
+  "artist": "Auckland Museum  Collections from Auckland, Aotearoa New Zealand",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Miniature_Book,_%27The_English_Lion%27,_In_Leather_Case_With_Magnifying_Glass_(48708075908).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg/960px-Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg/500px-Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg",
+  "og": "https://research.seadice.win/img/curiosity-easy-to-remember-why-research.jpg",
+  "local": true
  }
 }

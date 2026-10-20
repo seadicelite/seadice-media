@@ -7219,5 +7219,73 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-curiosity-easy-to-remember-why-research-curiosity-spillover-backfire",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Keller et al., \"States of epistemic curiosity interfere with memory for incidental scholastic facts\" (npj Science of Learning, 2024)",
+    "sourceUrl": "https://doi.org/10.1038/s41539-024-00234-w",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/curiosity-easy-to-remember-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "面白い話のついでに覚えられる？",
+        "body": "授業の最初に面白い雑学で興味を引けば、そのあとの勉強も頭に入りやすい、ってよく言われるよね。本当かな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "クイズの近くに勉強の事実を出した",
+        "body": "アメリカのオンライン参加者239人が、気になるクイズのすぐ近くで、理科や歴史などの事実を見たよ。あとで抜き打ちテストをして、事実をどれだけ覚えているか調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "逆に覚えにくくなった",
+        "body": "知りたい気持ちが強いクイズの近くに出た事実ほど、テストの成績が下がった。3通りのやり方で試しても同じ。クイズの答えが気になって、事実を覚える余裕がなくなったと考えられているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "教室でも同じ？",
+        "body": "コロナ禍にオンラインで行った実験で、参加者が事実をもともと知っていたかは確かめていないよ。本物の授業でも同じかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-curiosity-easy-to-remember-why-research-curiosity-timing-faces",
+    "category": "記憶・学習",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Murphy et al., \"Temporal proximity to the elicitation of curiosity is key for enhancing memory for incidental information\" (Learning & Memory, 2021)",
+    "sourceUrl": "https://doi.org/10.1101/lm.052241.120",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/curiosity-easy-to-remember-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「知りたい」と記憶のタイミング",
+        "body": "気になるクイズの答えを待っている間に見たものは、ついでに覚えやすくなるらしい。でも、その効果はいつまで続くのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "待ち時間に顔写真を見せた",
+        "body": "クイズの問題を見たあと、答えが出るまでの間に、関係のない顔写真を1枚見せたよ。見せるタイミングを変えて、あとでその顔を覚えているかを調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効くのは「知りたい」の直後",
+        "body": "問題を見て2秒後に出た顔は、知りたい問題のとき39.58%、そうでないとき23.70%覚えられていた。でも答えが出る直前の顔では、ほとんど差がなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "顔以外にも効く？",
+        "body": "参加者は2つの実験で61人と32人。調べたのは顔写真の見覚えだけだよ。文章や勉強の内容でも同じかは別の話で、逆効果だった実験もあるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
