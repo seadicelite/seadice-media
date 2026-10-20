@@ -7083,5 +7083,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-wellbeing-practice-habit-plan-how-research-habit-tools",
+    "category": "習慣",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Susman et al., \"Habit-formation strategies enhance long-term outcomes of a self-compassionate touch micropractice: a randomized controlled trial\" (Scientific Reports, 2026)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-026-63457-4",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/wellbeing-practice-habit-plan-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "心のケア、なぜ続かない？",
+        "body": "深呼吸や瞑想、始めても数日で忘れちゃうよね。やる気の問題なのかな、それとも続け方の問題なのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "20秒の練習に計画を足す",
+        "body": "アメリカの大人497人が、自分をいたわって体に触れる1日20秒の練習を始めた。半分だけ、15分で「きっかけ・時刻・通知・つまずいたときの対処」まで決める計画を足したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "6か月後も回数が多い",
+        "body": "3か月後の練習は、計画ありが週6.5回、なしが週4.8回。6か月後も計画ありのほうが多く、考えずにできる度合いも高かったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どの工夫が効いたかは不明",
+        "body": "差は小〜中くらいで、ストレスの量には差が出なかった。回数は自己申告で、計画のどの部分が効いたのかも切り分けていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
