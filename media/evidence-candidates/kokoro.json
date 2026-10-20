@@ -5985,5 +5985,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-ai-job-worry-home-spillover-prevent-daily-diary",
+    "category": "仕事とAIの不安",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yi X & Kumar S, \"AI awareness and the breakdown of daily recovery: a spillover pathway to work–family strain\" (Frontiers in Public Health, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpubh.2025.1738073",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-job-worry-home-spillover-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIの心配、家まで持ち帰ってない？",
+        "body": "「この仕事、AIに取られるかも」って心配、帰り道も夕食のときも頭に残ることがあるよね。それって家での過ごし方にも響くのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "10日間、毎日2回の記録",
+        "body": "AIを取り入れた中国の5つの高級ホテルで働く119人が、10日間、勤務の終わりにAIの心配の強さを、寝る前に仕事を忘れられたかと家のことに力を注げたかを記録した研究。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "心配が強い日ほど、仕事を忘れにくい",
+        "body": "同じ人の中で比べると、AIの心配が強い日ほど帰宅後に仕事を忘れにくく、家のことに力を向けにくいと感じていたらしい。ふだん立ち直りが早い人ほど、この結びつきは弱かった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "中国の接客業の自己申告",
+        "body": "すべて本人の自己申告で、対象は中国のホテルで客と接する人だけ。家族の側がどう感じたかや、日本の職場でも同じかはわかっていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

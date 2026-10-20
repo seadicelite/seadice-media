@@ -4860,5 +4860,22 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Ladder_in_Front_of_a_Wall_(47145748521).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "ai-job-worry-home-spillover-prevent": {
+  "file": "File:Window Front at Night 374889.jpg",
+  "src": "/img/ai-job-worry-home-spillover-prevent.webp",
+  "src640": "/img/ai-job-worry-home-spillover-prevent-sm.webp",
+  "w": 960,
+  "h": 531,
+  "alt": "夜、明かりのともる集合住宅の窓",
+  "artist": "Matthew Henry",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Window_Front_at_Night_374889.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Window_Front_at_Night_374889.jpg/960px-Window_Front_at_Night_374889.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Window_Front_at_Night_374889.jpg/500px-Window_Front_at_Night_374889.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-job-worry-home-spillover-prevent-og.jpg",
+  "local": true
  }
 }
