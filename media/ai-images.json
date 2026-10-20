@@ -2813,5 +2813,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Gfp-lecture-hall.jpg/500px-Gfp-lecture-hall.jpg",
   "og": "https://ai.seadice.win/img/ai-training-at-work-keep-up-prepare.jpg",
   "local": true
+ },
+ "ai-data-work-disturbing-content-distress": {
+  "file": "File:Shattered light fixture 3.jpg",
+  "src": "/img/ai-data-work-disturbing-content-distress.jpg",
+  "src640": "/img/ai-data-work-disturbing-content-distress-sm.jpg",
+  "w": 960,
+  "h": 622,
+  "alt": "床に散らばった割れた照明の破片",
+  "artist": "W.carter",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Shattered_light_fixture_3.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Shattered_light_fixture_3.jpg/960px-Shattered_light_fixture_3.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Shattered_light_fixture_3.jpg/500px-Shattered_light_fixture_3.jpg",
+  "og": "https://ai.seadice.win/img/ai-data-work-disturbing-content-distress.jpg",
+  "local": true
  }
 }
