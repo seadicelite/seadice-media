@@ -7166,5 +7166,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-why-figuring-out-alone-doesnt-stick-discovery-learning",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Alfieri et al., \"Does discovery-based instruction enhance learning?\" (Journal of Educational Psychology, 2011)",
+    "sourceUrl": "https://doi.org/10.1037/a0021017",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/why-figuring-out-alone-doesnt-stick/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自分で見つけたことは忘れない？",
+        "body": "教わるより、自分の力で解き方を発見した方が身につく。独学ではそう信じて、解説を見ずに粘る人も多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "164本の研究をまとめた",
+        "body": "手引きなしで発見させる教え方と、はっきり説明する教え方などを比べた164本の研究を、2つのメタ分析でまとめた研究があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "手引きなしは不利、手引きつきは有利",
+        "body": "580の比較では、説明を受けた方が成績がよかった（d=−0.38）。でもヒントや答え合わせ、例題を足した発見は、ほかの教え方より成績がよかった（d=0.30）よ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人の独学で同じかは未確認",
+        "body": "まとめた研究は課題も教え方もばらばら。大人が一人で何か月も独学する場面を直接調べたものではないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
