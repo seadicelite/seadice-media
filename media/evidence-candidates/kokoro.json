@@ -6563,5 +6563,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-phone-in-bed-sleep-fatigue-prevent-in-bed-latency",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kheirinejad S, Visuri A, Ferreira D, Hosio S, \"“Leave your smartphone out of bed”: quantitative analysis of smartphone use effect on sleep quality\" (Personal and Ubiquitous Computing, 2023)",
+    "sourceUrl": "https://doi.org/10.1007/s00779-022-01694-w",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/phone-in-bed-sleep-fatigue-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "スマホ、どこで見るかも関係ある？",
+        "body": "寝る前のスマホは時間ばかり気にしがちだよね。フィンランドの75人の記録では、ベッドの中で使うか外で使うかで、睡眠との関わり方が違っていたらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "アプリの記録と指輪型の機器",
+        "body": "スマホのアプリの使用記録と、指輪型の機器で測った睡眠を数か月分組み合わせて調べたんだ。参加者は18〜61歳、平均27歳だった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ベッドの中の5分で、寝つきが約4分遅い",
+        "body": "ベッドの中で使う時間が長い夜ほど寝つくまでが長く、5分ごとに約4分遅れる計算だった。ベッドの外での使用では、睡眠の質の低下は見られなかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どっちが先かはわからない",
+        "body": "ベッドでスマホを使うから眠れないのか、眠れないから使うのかは区別できないと著者たちも書いている。人数も75人と少なめなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

@@ -5119,5 +5119,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Warm_cup_of_coffee_on_a_table_at_a_cafe.jpg/500px-Warm_cup_of_coffee_on_a_table_at_a_cafe.jpg",
   "og": "https://mentalai.seadice.win/img/laughing-together-loneliness.jpg",
   "local": true
+ },
+ "phone-in-bed-sleep-fatigue-prevent": {
+  "file": "File:DCF77-Wecker, analog und digital, 1.jpeg",
+  "src": "/img/phone-in-bed-sleep-fatigue-prevent.jpg",
+  "src640": "/img/phone-in-bed-sleep-fatigue-prevent-sm.jpg",
+  "w": 960,
+  "h": 502,
+  "alt": "毛布の上に並んだアナログとデジタルの目覚まし時計",
+  "artist": "Renardo la vulpo",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:DCF77-Wecker,_analog_und_digital,_1.jpeg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/DCF77-Wecker%2C_analog_und_digital%2C_1.jpeg/960px-DCF77-Wecker%2C_analog_und_digital%2C_1.jpeg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/DCF77-Wecker%2C_analog_und_digital%2C_1.jpeg/500px-DCF77-Wecker%2C_analog_und_digital%2C_1.jpeg",
+  "og": "https://mentalai.seadice.win/img/phone-in-bed-sleep-fatigue-prevent.jpg",
+  "local": true
  }
 }
