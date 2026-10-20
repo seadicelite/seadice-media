@@ -6792,5 +6792,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-why-feel-like-impostor-despite-studying-public-modesty",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Leary et al., \"The impostor phenomenon: self-perceptions, reflected appraisals, and interpersonal strategies\" (Journal of Personality, 2000)",
+    "sourceUrl": "https://doi.org/10.1111/1467-6494.00114",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-feel-like-impostor-despite-studying/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "「自分はにせもの」と思う人は、心の中でもそう思っている？",
+        "body": "成果があっても「たまたま」「実力じゃない」と言う人がいるよね。インポスター現象と呼ばれていて、本気でそう感じていると考えられがちなんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "人前と匿名で、テストの予想を言ってもらった",
+        "body": "研究者たちが3つの研究で確かめた。その1つでは、これから受けるテストの出来の予想を、人前で言う条件と匿名で書く条件に分けたらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "低く言うのは「人前」のときだけ",
+        "body": "インポスターの感じ方が強い人は、人前のときだけ低い予想を口にした。匿名だと差はなかった。失敗したときのダメージを小さくする「見せ方」の面もあると著者らは考えたんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "全部が演技というわけではない",
+        "body": "著者らも、本当にそう感じている面はあるとしている。実験室での短い課題の話で、実際の試験や仕事でどこまで同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
