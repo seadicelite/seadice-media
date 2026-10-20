@@ -6928,5 +6928,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-why-stuck-problem-solved-after-sleep-or-walk-sleep-onset-insight",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lacaux et al., \"Sleep onset is a creative sweet spot\" (Science Advances, 2021)",
+    "sourceUrl": "https://doi.org/10.1126/sciadv.abj5866",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-stuck-problem-solved-after-sleep-or-walk/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く話",
+        "title": "寝入りばなにひらめく？",
+        "body": "発明家のエジソンは、手に球を持って居眠りし、落ちた音で目覚めてアイデアをメモしたという逸話があるよね。それを実験で確かめた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ボトルを持って20分休む",
+        "body": "フランスの健康な成人103人が、隠れた近道のある数字の問題を解いた。途中で20分、目を閉じてボトルを手に持って休み、脳波で眠りの深さを測ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "浅い眠りで83%が気づいた",
+        "body": "寝入りばなの浅い眠りに15秒以上入った人は、24人中20人（83%）が休憩後に近道に気づいた。起きていた人は31%、深く眠った人は14%だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "くじで分けた比較ではない",
+        "body": "どの眠りに入るかは本人しだいで、くじで分けたわけじゃない。寝つきのいい人を選んでいて、別の研究では睡眠でひらめき問題が解けやすくならなかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

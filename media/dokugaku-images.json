@@ -3840,5 +3840,21 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Before_sunrise_from_my_bedroom_window_%2813658114934%29.jpg/500px-Before_sunrise_from_my_bedroom_window_%2813658114934%29.jpg",
   "og": "https://dokugaku.seadice.win/img/why-weekend-sleep-in-monday-study-og.jpg",
   "local": true
+ },
+ "why-stuck-problem-solved-after-sleep-or-walk": {
+  "file": "File:Autumn path, Dumitru Rascanu park.jpg",
+  "src": "/img/why-stuck-problem-solved-after-sleep-or-walk.webp",
+  "src640": "/img/why-stuck-problem-solved-after-sleep-or-walk-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "公園の散歩道",
+  "artist": "Iurie Nistor",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Autumn_path,_Dumitru_Rascanu_park.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Autumn_path%2C_Dumitru_Rascanu_park.jpg/960px-Autumn_path%2C_Dumitru_Rascanu_park.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Autumn_path%2C_Dumitru_Rascanu_park.jpg/500px-Autumn_path%2C_Dumitru_Rascanu_park.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-stuck-problem-solved-after-sleep-or-walk-og.jpg"
  }
 }
