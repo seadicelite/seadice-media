@@ -3993,5 +3993,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mathematics_20180813.jpg/500px-Mathematics_20180813.jpg",
   "og": "https://dokugaku.seadice.win/img/interleaved-practice-set-sheet.jpg",
   "local": true
+ },
+ "method-of-loci-route-sheet": {
+  "file": "File:Hallway, Frederick C. Robie House, Woodlawn Avenue and 58th Street, Hyde Park, Chicago, IL - 54213894999.jpg",
+  "src": "/img/method-of-loci-route-sheet.jpg",
+  "src640": "/img/method-of-loci-route-sheet-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "家の中の廊下と階段の手すり",
+  "artist": "w_lemay",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3AHallway%2C_Frederick_C._Robie_House%2C_Woodlawn_Avenue_and_58th_Street%2C_Hyde_Park%2C_Chicago%2C_IL_-_54213894999.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hallway%2C_Frederick_C._Robie_House%2C_Woodlawn_Avenue_and_58th_Street%2C_Hyde_Park%2C_Chicago%2C_IL_-_54213894999.jpg/960px-Hallway%2C_Frederick_C._Robie_House%2C_Woodlawn_Avenue_and_58th_Street%2C_Hyde_Park%2C_Chicago%2C_IL_-_54213894999.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hallway%2C_Frederick_C._Robie_House%2C_Woodlawn_Avenue_and_58th_Street%2C_Hyde_Park%2C_Chicago%2C_IL_-_54213894999.jpg/500px-Hallway%2C_Frederick_C._Robie_House%2C_Woodlawn_Avenue_and_58th_Street%2C_Hyde_Park%2C_Chicago%2C_IL_-_54213894999.jpg",
+  "og": "https://dokugaku.seadice.win/img/method-of-loci-route-sheet.jpg",
+  "local": true
  }
 }

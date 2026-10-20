@@ -7234,5 +7234,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-method-of-loci-route-sheet-loci-training",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wagner et al., \"Durable memories and efficient neural coding through mnemonic training using the method of loci\" (Science Advances, 2021)",
+    "sourceUrl": "https://doi.org/10.1126/sciadv.abc7606",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/method-of-loci-route-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "記憶力は生まれつき？",
+        "body": "「覚えるのが苦手なのは生まれつき」ってよく言うよね。記憶の大会で勝つ人は、特別な脳の持ち主なのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "6週間、場所法を練習",
+        "body": "記憶術を使ったことのない人が、よく知る道順に物を置いて覚える「場所法」を30分×40回練習。何もしない組などと比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "25語から62語へ",
+        "body": "72語のテストで、その日に思い出せた数が平均25.2語から62.2語に増えた。4か月後も50.3語で、ほかの組より多かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数も題材も小さい",
+        "body": "練習した組は17人だけ。覚えたのは単語の一覧で、教科書の理解や試験の点まで上がるかは、この実験ではわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
