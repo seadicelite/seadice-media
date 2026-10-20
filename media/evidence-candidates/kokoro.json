@@ -5917,5 +5917,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-sns-appearance-self-compassion-daily-reading",
+    "category": "比べて落ち込む",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Chen R et al., \"Understanding and Reducing Appearance Anxiety for Social Media Users: A Study Using Ecological Momentary Assessment and Ecological Momentary Intervention\" (Depression and Anxiety, 2026)",
+    "sourceUrl": "https://doi.org/10.1155/da/7212945",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/sns-appearance-self-compassion-daily/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "SNSを見ると見た目が気になる",
+        "body": "加工された顔や理想的な体が流れてきて、自分の見た目が気になってしまう。毎日の小さな習慣で、この不安って減らせるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "毎日やさしい文章を読む実験",
+        "body": "中国の18〜35歳の女性200人を2組に分けて、105人は自分を思いやる文章を、95人は中立的な文章を、20日間毎日読んでもらった実験。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "不安が下がって、揺れも小さく",
+        "body": "思いやりの文章を読んだ組は、見た目の不安（1〜100点）が対照の組より約2.7点余分に下がって、日ごとの揺れも小さくなっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "続くかはわからない",
+        "body": "実験後の追跡はなくて、効果が続くかはわかっていない。対象は中国の若い女性だけで、男性や他の年代で同じかもまだなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
