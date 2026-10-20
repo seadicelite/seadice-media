@@ -42,7 +42,11 @@
     "gardening-screen-fatigue-recover",
     "irregular-sleep-schedule-focus",
     "night-phone-blue-light-sleep",
-    "sleep-debt-extend-bedtime"
+    "sleep-debt-extend-bedtime",
+    "social-fatigue-after-meeting",
+    "night-owl-morning-focus",
+    "sunday-night-work-dread",
+    "ai-job-worry-sleep-protect"
    ]
   },
   {
@@ -91,7 +95,9 @@
     "ai-faster-but-not-easier",
     "ai-job-worry-adaptability",
     "job-loss-health-recover",
-    "third-person-self-talk-work-panic"
+    "third-person-self-talk-work-panic",
+    "sunday-night-work-dread",
+    "ai-job-worry-sleep-protect"
    ]
   },
   {
@@ -143,7 +149,10 @@
     "study-break-phone-memory",
     "irregular-sleep-schedule-focus",
     "learning-new-skill-focus-recover",
-    "laughter-stress-relief"
+    "laughter-stress-relief",
+    "binaural-beats-focus",
+    "night-owl-morning-focus",
+    "ai-help-overconfidence"
    ]
   },
   {
@@ -187,7 +196,8 @@
     "sns-career-comparison-frustration",
     "everyone-seems-happier",
     "sns-scrolling-comparison-prevent",
-    "appearance-comparison-exercise-body-image"
+    "appearance-comparison-exercise-body-image",
+    "upward-comparison-motivation-backfire"
    ]
   },
   {
@@ -233,7 +243,10 @@
     "ai-comfort-feels-empty",
     "sns-friends-few-to-rely-on",
     "partner-thanks-unsaid",
-    "breakup-cant-move-on"
+    "breakup-cant-move-on",
+    "social-fatigue-after-meeting",
+    "pet-loneliness-prevent",
+    "lonely-even-with-others"
    ]
   },
   {
@@ -279,7 +292,9 @@
     "ai-praise-feels-hollow",
     "ai-reliance-self-efficacy-prevent",
     "learning-new-skill-focus-recover",
-    "ai-dependence-recovery-course"
+    "ai-dependence-recovery-course",
+    "ai-answers-differ-confusion",
+    "ai-help-overconfidence"
    ]
   }
  ]
