@@ -121,7 +121,7 @@ def pick(cfg, p, its):
         score = lambda x: x.get("_tl") or score0(x)  # noqa: E731
     best = []
     for want_app in (False, True):
-        cand = [x for x in its if x["app"] == want_app and score(x)]
+        cand = [x for x in its if x["app"] == want_app and score(x) and x.get("href") != f'/{p["slug"]}/']  # 道具を置いた記事自身へはリンクしない
         if cand:
             best.append(max(cand, key=score))  # 同点なら設定の並び順で先のもの
     return best
