@@ -6189,5 +6189,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-unemployed-volunteering-recover-uk-panel",
+    "category": "仕事とAIの不安",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wang S, Ling W, Lu Z, Wei Y, Li M, Gao L, \"Can Volunteering Buffer the Negative Impacts of Unemployment and Economic Inactivity on Mental Health? Longitudinal Evidence from the United Kingdom\" (International Journal of Environmental Research and Public Health, 2022)",
+    "sourceUrl": "https://doi.org/10.3390/ijerph19116809",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/unemployed-volunteering-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "失業中はボランティアで心が持ち直す？",
+        "body": "仕事を失ったら、せめて誰かの役に立てば気持ちも戻るはず。そう聞くこと、あるよね。本当にそうなのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "英国の10年分の調査を分析",
+        "body": "英国の世帯調査、2010〜2020年の5回分・のべ127,405件の回答を使って、同じ人が働いていた時期と失業した時期の心の健康を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "失業中の人では、和らげる結びつきなし",
+        "body": "失業すると心の健康の点数は下がり、ボランティアをしていても、その下がり方は小さくならなかった。月1回以上でも、男女別でも同じだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因と結果か、ほかの国では？",
+        "body": "研究者自身が、原因と結果としては読めないと書いているよ。福祉の手厚さが違う国では結果が変わるかもしれないし、活動の中身も区別していないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
