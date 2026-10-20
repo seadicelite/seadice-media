@@ -2885,5 +2885,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vintage_lamp_and_books_%28Unsplash%29.jpg/500px-Vintage_lamp_and_books_%28Unsplash%29.jpg",
   "og": "https://ai.seadice.win/img/ai-moral-advice-influence-know.jpg",
   "local": true
+ },
+ "ai-lab-results-interpret-prepare": {
+  "file": "File:Instrumentos medicos de uso en Cardiología.jpg",
+  "src": "/img/ai-lab-results-interpret-prepare.jpg",
+  "src640": "/img/ai-lab-results-interpret-prepare-sm.jpg",
+  "w": 960,
+  "h": 626,
+  "alt": "キーボードの上の聴診器と心電図の記録紙",
+  "artist": "Ivan2010",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Instrumentos_medicos_de_uso_en_Cardiolog%C3%ADa.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Instrumentos_medicos_de_uso_en_Cardiolog%C3%ADa.jpg/960px-Instrumentos_medicos_de_uso_en_Cardiolog%C3%ADa.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Instrumentos_medicos_de_uso_en_Cardiolog%C3%ADa.jpg/500px-Instrumentos_medicos_de_uso_en_Cardiolog%C3%ADa.jpg",
+  "og": "https://ai.seadice.win/img/ai-lab-results-interpret-prepare.jpg",
+  "local": true
  }
 }

@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-lab-results-interpret-prepare",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-21",
+  "title": "健康診断や血液検査の結果、AIに読み解いてもらっても大丈夫？研究では、AIが示す基準値は聞くたびにぶれ、結果用紙の基準範囲を渡して用語の説明役にとどめるのが確かだった",
+  "summary": "AIが示す基準値は同じ質問でも聞くたびにぶれ、医師らの点検では一人ひとりの事情を踏まえない答えも。結果用紙の基準範囲を渡し、判断は医師に聞く使い方。"
+ },
+ {
   "slug": "ai-moral-advice-influence-know",
   "category": "AIに頼りすぎ",
   "type": "guide",
