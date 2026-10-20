@@ -1,5 +1,13 @@
 [
   {
+    "slug": "remember-or-write-down-relearning-sheet",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-21",
+    "title": "学び直しで「覚えること」と「メモに預けること」の仕分け表。予定は通知に、試験に出る知識は「メモなしで思い出す」前提で（記憶の外部化の研究から）",
+    "summary": "予定は通知に預け、試験に出る知識はメモがあっても思い出す前提で覚える。仕分け表と自信の記録表。"
+  },
+  {
     "slug": "self-explanation-prompt-card",
     "category": "勉強法",
     "type": "guide",

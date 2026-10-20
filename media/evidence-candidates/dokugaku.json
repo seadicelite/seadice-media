@@ -7370,5 +7370,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-remember-or-write-down-relearning-sheet-older-overconfident",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Scarampi & Gilbert, \"Age differences in strategic reminder setting and the compensatory role of metacognition\" (Psychology and Aging, 2021)",
+    "sourceUrl": "https://doi.org/10.1037/pag0000590",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/remember-or-write-down-relearning-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "年をとると、記憶に自信がなくなる？",
+        "body": "「年のせいで物覚えが悪くなった」と感じる人は多いよね。だから年配の人ほど慎重になって、メモやリマインダーをたくさん使うはず、と思いがち。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "少しあとでやることを覚える実験",
+        "body": "65〜84歳と18〜30歳の計88人に、パソコンで「少しあとでやること」を覚えてもらった。リマインダーを使える回と使えない回をくらべた、事前登録つきの実験だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "実は自信を持ちすぎていた",
+        "body": "年配の人は自分の記憶に自信を持ちすぎていた。リマインダーを使ってよい回でも、若い人との成績の差は埋まらなかったらしい。自信があっても予定は外に預けた方がよさそう。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日常の予定でも同じ？",
+        "body": "数分のパソコン課題の話で、何か月もかける勉強や日常の予定で同じかはわからない。40〜50代も調べていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

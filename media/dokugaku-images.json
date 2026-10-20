@@ -4065,5 +4065,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Pen-writing-notes-studying.jpg/500px-Pen-writing-notes-studying.jpg",
   "og": "https://dokugaku.seadice.win/img/self-explanation-prompt-card.jpg",
   "local": true
+ },
+ "remember-or-write-down-relearning-sheet": {
+  "file": "File:Sticky Notes in different colors.jpg",
+  "artist": "Ramesh NG",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sticky_Notes_in_different_colors.jpg",
+  "source_label": "Wikimedia Commons",
+  "w": 960,
+  "h": 720,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sticky_Notes_in_different_colors.jpg/960px-Sticky_Notes_in_different_colors.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sticky_Notes_in_different_colors.jpg/500px-Sticky_Notes_in_different_colors.jpg",
+  "src": "/img/remember-or-write-down-relearning-sheet.webp",
+  "src640": "/img/remember-or-write-down-relearning-sheet-sm.webp",
+  "alt": "色とりどりの付せん",
+  "local": true,
+  "og": "https://dokugaku.seadice.win/img/remember-or-write-down-relearning-sheet-og.jpg"
  }
 }
