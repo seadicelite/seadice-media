@@ -6981,5 +6981,73 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-savoring-good-moments-mood-how-research-meta",
+    "category": "気分・ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Chen et al., \"Effectiveness of savoring interventions: A systematic review and meta-analysis of randomized controlled trials\" (Applied Psychology: Health and Well-Being, 2026)",
+    "sourceUrl": "https://doi.org/10.1111/aphw.70134",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/savoring-good-moments-mood-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "良いことを「味わう」と気分は変わる？",
+        "body": "おいしいものや楽しい予定に、意識して注意を向けて長く味わう。心理学では「セイバリング」と呼ぶらしい。本当に気分に効くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "20件の試験、4,805人をまとめた",
+        "body": "セイバリングをはっきり目的にしたランダム化比較試験20件を、2026年の研究がまとめたよ。対象は大学生、高齢者、がんの患者など。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果は「中くらい」",
+        "body": "全体の効果の大きさはg=0.51。落ち込みや不安などの症状は軽くなり（g=0.61）、前向きな気持ちや幸福感も高まった（g=0.50）。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く続く効果はまだ不明",
+        "body": "期間の中央値は14日と短く、約30%の試験は偏りのリスクが高め。多くは自己申告の質問紙で、何もしない組と比べた試験ほど効果が大きく出やすかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-savoring-good-moments-mood-how-research-after-stress",
+    "category": "気分・ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Klibert et al., \"Savoring Interventions Increase Positive Emotions After a Social-Evaluative Hassle\" (Frontiers in Psychology, 2022)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2022.791040",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/savoring-good-moments-mood-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "嫌なことの後、何を味わえばいい？",
+        "body": "落ち込んだときは楽しい思い出を思い返せばいい、ってよく言うよね。でも「いま」を味わうのと比べたらどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "人前スピーチの直後に15分",
+        "body": "アメリカの大学生145人に、カメラの前で「なぜ自分は魅力的か」を話す、ストレスのかかる体験をしてもらった。その直後、15分の課題を割り当てたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「いま」を味わう組が一番前向きに",
+        "body": "前向きな文章をゆっくり読み味わった組は、何もしない組や、楽しい思い出を思い返した組より前向きな気分が高かった。思い出す課題は一貫した差が出なかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "直後の気分だけの話",
+        "body": "測ったのは課題直後の気分だけで、参加者は18〜25歳の学生。思い出すやり方は指示の出し方しだいで効く可能性もあると、著者たちも書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

@@ -4015,5 +4015,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/New_Desk_in_use_%2815550685686%29.jpg/500px-New_Desk_in_use_%2815550685686%29.jpg",
   "og": "https://research.seadice.win/img/gesture-vocabulary-memory-how-research-og.jpg",
   "local": true
+ },
+ "savoring-good-moments-mood-how-research": {
+  "file": "File:Cup of tea at the Gorreana tea factory.jpg",
+  "src": "/img/savoring-good-moments-mood-how-research.webp",
+  "src640": "/img/savoring-good-moments-mood-how-research-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "テーブルに置かれた一杯の紅茶",
+  "artist": "Kritzolina",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cup_of_tea_at_the_Gorreana_tea_factory.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cup_of_tea_at_the_Gorreana_tea_factory.jpg/960px-Cup_of_tea_at_the_Gorreana_tea_factory.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cup_of_tea_at_the_Gorreana_tea_factory.jpg/500px-Cup_of_tea_at_the_Gorreana_tea_factory.jpg",
+  "og": "https://research.seadice.win/img/savoring-good-moments-mood-how-research-og.jpg",
+  "local": true
  }
 }
