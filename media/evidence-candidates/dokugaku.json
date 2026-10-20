@@ -7302,5 +7302,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-split-screen-video-study-focus-sludge",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Schuetze, \"Split-screen distraction: the role of extraneous visual demands in learning from video\" (Cognitive Research: Principles and Implications, 2026)",
+    "sourceUrl": "https://doi.org/10.1186/s41235-026-00720-2",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/split-screen-video-study-focus/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "2画面の動画は頭に入らない？",
+        "body": "解説動画の横にゲーム画面が流れる「スラッジ動画」。刺激が多すぎて頭に入らないって言う人もいれば、飽きずに集中できるって言う人もいるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ人が両方を見て比べた",
+        "body": "アメリカの研究者が2回の実験（75人と100人）で、ふつうの講義動画と、横に音なしの動画が流れる講義動画を見てもらい、直後に理解テストをしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差は3%と1%だけ",
+        "body": "正答率の差は1回目が3%、2回目が1%で、どちらも統計的な差はなかった。頭に入らなくなるわけでも、集中できるようになるわけでもなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "短い動画の話",
+        "body": "動画は7〜15分で、テストは見た直後。横の動画は音なし・顔なしだった。長い勉強や、音のある動画で同じかはまだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

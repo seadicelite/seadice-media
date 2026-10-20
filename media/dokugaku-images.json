@@ -4029,5 +4029,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/DFC_2281_Two_small_potted_cacti_with_rounded_clustered_forms_sit_side_by_side_on_a_windowsill_a_calm_seaside_view_blurred_in_the_background.jpg/500px-DFC_2281_Two_small_potted_cacti_with_rounded_clustered_forms_sit_side_by_side_on_a_windowsill_a_calm_seaside_view_blurred_in_the_background.jpg",
   "og": "https://dokugaku.seadice.win/img/indoor-plants-study-desk-checklist.jpg",
   "local": true
+ },
+ "split-screen-video-study-focus": {
+  "file": "File:Apple computer monitors desk (Unsplash).jpg",
+  "src": "/img/split-screen-video-study-focus.jpg",
+  "src640": "/img/split-screen-video-study-focus-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上に並んだ2台のモニター",
+  "artist": "Tran Mau Tri Tam tranmautritam",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Apple_computer_monitors_desk_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Apple_computer_monitors_desk_%28Unsplash%29.jpg/960px-Apple_computer_monitors_desk_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Apple_computer_monitors_desk_%28Unsplash%29.jpg/500px-Apple_computer_monitors_desk_%28Unsplash%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/split-screen-video-study-focus.jpg",
+  "local": true
  }
 }
