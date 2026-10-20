@@ -6427,5 +6427,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-info-overload-anxiety-quick-exercise-acute",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Connor M, Hargreaves EA, Scanlon OK, Harrison OK, \"The Effect of Acute Exercise on State Anxiety: A Systematic Review\" (Sports, 2023)",
+    "sourceUrl": "https://doi.org/10.3390/sports11080145",
+    "studyType": "レビュー",
+    "articleUrl": "https://mentalai.seadice.win/info-overload-anxiety-quick-exercise/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "不安なときは体を動かせばいい？",
+        "body": "そわそわして落ち着かないときは、ちょっと運動するとすっきりするってよく聞くよね。1回だけでも本当に効くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "健康な大人の9件の試験をまとめた",
+        "body": "2015年以降の、健康な大人を対象にした9件の試験を集めたレビューだよ。自転車こぎや歩行、ダンスのゲームなど、運動の条件は全部で13あったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "下がったのは13のうち7つ",
+        "body": "1回の運動のあとで不安が下がったのは7つの条件。6つでは下がらなかった。自然のドキュメンタリーを見ただけの組でも、30分の自転車こぎと同じように下がった試験もあったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "一番いい運動はまだ不明",
+        "body": "種類・長さ・強さのどれがいいかに、はっきりした傾向はなかったんだ。参加者はもともと不安が低い人が多くて、不安が強い人でどうなるかもまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

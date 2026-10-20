@@ -5050,8 +5050,8 @@
  },
  "ai-better-cooperate-mindset": {
   "file": "File:Go (13×13) -- 2021 -- 6741.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Go_%2813%C3%9713%29_--_2021_--_6741.jpg/960px-Go_%2813%C3%9713%29_--_2021_--_6741.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Go_%2813%C3%9713%29_--_2021_--_6741.jpg/500px-Go_%2813%C3%9713%29_--_2021_--_6741.jpg",
+  "src": "/img/ai-better-cooperate-mindset.jpg",
+  "src640": "/img/ai-better-cooperate-mindset-sm.jpg",
   "w": 960,
   "h": 720,
   "alt": "囲碁の盤と碁石",
@@ -5059,6 +5059,29 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Go_(13%C3%9713)_--_2021_--_6741.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Go_%2813%C3%9713%29_--_2021_--_6741.jpg/960px-Go_%2813%C3%9713%29_--_2021_--_6741.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Go_%2813%C3%9713%29_--_2021_--_6741.jpg/500px-Go_%2813%C3%9713%29_--_2021_--_6741.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-better-cooperate-mindset.jpg",
+  "local": true
+ },
+ "info-overload-anxiety-quick-exercise": {
+  "file": "File:Running track at Otaniemi sports field almost empty of people on an afternoon in April 2025.jpg",
+  "src": "/img/info-overload-anxiety-quick-exercise.jpg",
+  "src640": "/img/info-overload-anxiety-quick-exercise-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "午後の陸上トラック",
+  "artist": "JIP",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Running_track_at_Otaniemi_sports_field_almost_empty_of_people_on_an_afternoon_in_April_2025.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Running_track_at_Otaniemi_sports_field_almost_empty_of_people_on_an_afternoon_in_April_2025.jpg/960px-Running_track_at_Otaniemi_sports_field_almost_empty_of_people_on_an_afternoon_in_April_2025.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Running_track_at_Otaniemi_sports_field_almost_empty_of_people_on_an_afternoon_in_April_2025.jpg/500px-Running_track_at_Otaniemi_sports_field_almost_empty_of_people_on_an_afternoon_in_April_2025.jpg",
+  "og": "https://mentalai.seadice.win/img/info-overload-anxiety-quick-exercise.jpg",
+  "local": true
  }
 }
