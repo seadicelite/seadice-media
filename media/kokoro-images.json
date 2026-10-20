@@ -5083,5 +5083,41 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Running_track_at_Otaniemi_sports_field_almost_empty_of_people_on_an_afternoon_in_April_2025.jpg/500px-Running_track_at_Otaniemi_sports_field_almost_empty_of_people_on_an_afternoon_in_April_2025.jpg",
   "og": "https://mentalai.seadice.win/img/info-overload-anxiety-quick-exercise.jpg",
   "local": true
+ },
+ "ai-recommend-options-regret": {
+  "file": "File:Menu-restaurant-vintage-table (24243347971).jpg",
+  "src": "/img/ai-recommend-options-regret.jpg",
+  "src640": "/img/ai-recommend-options-regret-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "テーブルに置かれたメニュー",
+  "artist": "www.Pixel.la Free Stock Photos",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Menu-restaurant-vintage-table_(24243347971).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Menu-restaurant-vintage-table_%2824243347971%29.jpg/960px-Menu-restaurant-vintage-table_%2824243347971%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Menu-restaurant-vintage-table_%2824243347971%29.jpg/500px-Menu-restaurant-vintage-table_%2824243347971%29.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-recommend-options-regret.jpg",
+  "local": true
+ },
+ "laughing-together-loneliness": {
+  "file": "File:Warm cup of coffee on a table at a cafe.jpg",
+  "src": "/img/laughing-together-loneliness.jpg",
+  "src640": "/img/laughing-together-loneliness-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "カフェのテーブルに置かれたコーヒーカップ",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Warm_cup_of_coffee_on_a_table_at_a_cafe.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Warm_cup_of_coffee_on_a_table_at_a_cafe.jpg/960px-Warm_cup_of_coffee_on_a_table_at_a_cafe.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Warm_cup_of_coffee_on_a_table_at_a_cafe.jpg/500px-Warm_cup_of_coffee_on_a_table_at_a_cafe.jpg",
+  "og": "https://mentalai.seadice.win/img/laughing-together-loneliness.jpg",
+  "local": true
  }
 }

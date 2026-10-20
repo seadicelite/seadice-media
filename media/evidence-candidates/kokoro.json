@@ -6461,5 +6461,107 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-ai-recommend-options-regret-shortlist",
+    "category": "AIとの付き合い方",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Seo S, Lee S, Lee N, Kim S-P, \"Reducing cognitive demand fails to mitigate choice overload: Multimodal neural and gaze evidence for effort conservation\" (iScience, 2026)",
+    "sourceUrl": "https://doi.org/10.1016/j.isci.2026.117616",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-recommend-options-regret/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "候補をしぼれば、迷わず満足できる？",
+        "body": "選択肢が多すぎると選べない。だから「おすすめ」だけにしぼってもらえば楽になる、ってよく言われるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "映画のポスターを選ぶ実験",
+        "body": "韓国の研究チームが、6〜24枚のポスターから見たい1本を選んでもらったんだ。本人が前もって高く評価したものだけを並べる条件と、低く評価したものだけの条件を比べたよ（17人を分析）。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "速くて満足、でも後悔は大きめ",
+        "body": "好みのものだけだと決めるのは平均5.85秒と速く（もう一方は7.38秒）、満足度も高かった。でも後悔は7段階で5.69と、もう一方の2.92より大きかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIのおすすめでも同じ？",
+        "body": "人数が少ない実験室の課題で、AIのおすすめを使ったわけではないんだ。大きな決断でも同じか、後悔が長く続くかもまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-laughing-together-loneliness-conversation",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hajek A, et al., \"Laughing During Conversations, But Not in Response to Digital Media, Is Associated With Less Loneliness, Social Isolation, and Social Withdrawal\" (Health Science Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1002/hsr2.71354",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/laughing-together-loneliness/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "動画で笑っても寂しいのはなぜ？",
+        "body": "夜に動画で声を出して笑ったのに、なんだか寂しい。笑うのは同じなのに、何が違うんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ドイツの5,000人に聞いた",
+        "body": "2023年に、ドイツの18〜74歳5,000人に、どれくらい笑うか、どんな場面で笑うかを聞いて、孤独との関係を調べた調査があるよ。会話で笑う人は83.0%、動画などで笑う人は64.8%だった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "関わっていたのは会話の笑い",
+        "body": "人との会話で笑う人ほど孤独が少ない関連があった。一方で、動画などで笑うことには関連が見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "笑えば孤独が減るとは限らない",
+        "body": "一度きりの調査なので、笑うから孤独が少ないのか、孤独だと笑いにくいのかは区別できないんだ。だれかと一緒に動画を見る場合はまた違うかもしれないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-laughing-together-loneliness-group-laughter",
+    "category": "人とのつながり",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Dunbar RIM, Frangou A, Grainger F, Pearce E, \"Laughter influences social bonding but not prosocial generosity to friends and strangers\" (PLoS ONE, 2021)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0256229",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/laughing-together-loneliness/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "同じ動画でも、みんなで見ると笑う",
+        "body": "英国の大学の実験で、約20分のお笑い動画を1人で見る人と4人で見る人を比べたんだ。笑いは4人で見たときに約4倍起きやすかったらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "笑ったあとは痛みに強くなった",
+        "body": "お笑い動画で笑ったあとは、痛みに耐えられる時間が延びていた。研究者たちは、気分をよくする脳の物質の働きのしるしだと考えているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "仲よくなるかは人による",
+        "body": "初対面の人どうしの実験では、女性はグループへの近さが増したけど、男性では変化が小さかった。参加者は学生だけで人数も少なめなんだ。"
+      },
+      {
+        "stage": "もう一つの結果",
+        "title": "気前のよさは別の話",
+        "body": "笑ったからといって、ほかの人にお金を多く分けるかは、はっきりしなかったらしい。つながりと気前のよさは、別のしくみなのかもしれないね。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
