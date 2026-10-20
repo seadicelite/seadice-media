@@ -4174,5 +4174,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Blank_Pages_In_An_Open_Notebook_%284812269151%29.jpg/500px-Blank_Pages_In_An_Open_Notebook_%284812269151%29.jpg",
   "og": "https://research.seadice.win/img/procrastination-dread-benefit-subtask-reward-how-research-og.jpg",
   "local": true
+ },
+ "night-owl-procrastination-why-research": {
+  "file": "File:Owl sitting on tree at night.jpg",
+  "src": "/img/night-owl-procrastination-why-research.jpg",
+  "src640": "/img/night-owl-procrastination-why-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "夜の木にとまるフクロウ",
+  "artist": "Syedadnanshamsi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Owl_sitting_on_tree_at_night.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Owl_sitting_on_tree_at_night.jpg/960px-Owl_sitting_on_tree_at_night.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Owl_sitting_on_tree_at_night.jpg/500px-Owl_sitting_on_tree_at_night.jpg",
+  "og": "https://research.seadice.win/img/night-owl-procrastination-why-research.jpg",
+  "local": true
  }
 }

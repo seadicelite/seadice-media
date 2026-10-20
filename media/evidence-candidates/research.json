@@ -7389,5 +7389,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-night-owl-procrastination-why-research-dst-sleep",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Maier, Kühnel & Zimmermann, \"How Did You Sleep Tonight? The Relevance of Sleep Quality and Sleep-Wake Rhythm for Procrastination at Work\" (Frontiers in Psychology, 2022)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2021.785154",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/night-owl-procrastination-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "よく眠れた日は後回しが減る？",
+        "body": "寝不足の日ほど、やるべき仕事を後回しにしてしまう気がするよね。ドイツの研究者が、会社員でこれを確かめたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "夏時間の前後の月曜日",
+        "body": "ドイツのフルタイムの会社員101人に、夏時間に切り替わる前と後の月曜日、前の晩の眠りの質とその日の先延ばしを答えてもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "夜型ほど影響を受けた",
+        "body": "よく眠れた翌日ほど先延ばしは少なく、夜型の人ほど先延ばしが多かった。夏時間で早起きになった週明けは、夜型の人ほど「眠りが浅いと先延ばしが増える」関係が強かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "2日だけの調査",
+        "body": "調べたのは2日だけで、夜型の人は少なめ。眠りが自制の力を回復させるという説明も、直接は測っていないんだって。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
