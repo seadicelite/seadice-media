@@ -100,13 +100,14 @@ def _icon(cfg, app_id):
     return f"/img/apps/{app_id}.webp" if dst.exists() else None
 
 
-def _row(it, cfg):
+def _row(it, cfg, icon=True):
     ic = f'<img src="{it["icon"]}" alt="" width="48" height="48" loading="lazy">' if it.get("icon") else glyph(it)
+    ics = f'<span class="tbic">{ic}</span>' if icon else ""
     if it["app"]:
         href, kind, go, ext = store_url(it, cfg), "iPhoneアプリ・無料・広告なし", "App Storeで見る", ' target="_blank" rel="noopener"'
     else:
         href, kind, go, ext = it["href"], "Webツール・登録不要・無料", "使ってみる", ""
-    return (f'<a class="tbi" href="{E(href, quote=True)}"{ext}><span class="tbic">{ic}</span>'
+    return (f'<a class="tbi" href="{E(href, quote=True)}"{ext}>{ics}'
             f'<span class="tbt"><em>{kind}</em><b>{E(it["name"])}</b><small>{E(it["desc"])}</small></span><span class="tbgo">{go}</span></a>')
 
 
@@ -142,7 +143,7 @@ def article_html(cfg, p, its):
     if not got:
         return "<!--toolbox--><!--/toolbox-->"
     return ('<!--toolbox--><aside class="tbx" aria-label="この記事と一緒に使えるツールとアプリ"><p class="tbh">この記事と一緒に使える</p>'
-            + "".join(_row(x, cfg) for x in got)
+            + "".join(_row(x, cfg, cfg.get("toolboxArticleIcon", True)) for x in got)  # "toolboxArticleIcon": false で記事内は文字だけ
             + f'<a class="tball" href="{hub_path(cfg)}">{E(cfg["name"])}のツールとアプリをすべて見る</a></aside><!--/toolbox-->')
 
 
@@ -175,7 +176,7 @@ def patch(cfg, posts, its):
             if j < 0:
                 continue
             s2 = s[:j] + blk + "\n" + s[j:]
-        if ".tbx{" not in s2 and "footer{border-top" in s2:
+        if CSS[:40] not in s2 and "footer{border-top" in s2:  # ".tbx{" だけだとメディアの articleCss に含まれていて誤判定する
             s2 = s2.replace("footer{border-top", CSS + "footer{border-top", 1)
         if s2 != s:
             f.write_text(s2)
