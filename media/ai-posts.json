@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-precarious-jobs-replaced-first",
+  "category": "仕事・キャリア",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-20",
+  "title": "パートや派遣など不安定な仕事ほど、AIで真っ先に奪われる？カナダの統計では、生成AIで時間を減らせる作業はむしろ安定した仕事に多かった",
+  "summary": "カナダの512職業の研究では、生成AIで時間を減らせる作業は安定した職業に多かった。実際の失業は測っておらず、日本では未確認。"
+ },
+ {
   "slug": "teacher-missed-student-ai-confidence-rebuild",
   "category": "子ども・学校",
   "type": "guide",

@@ -2777,5 +2777,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Klassenraum_Grundschule.jpg/500px-Klassenraum_Grundschule.jpg",
   "og": "https://ai.seadice.win/img/teacher-missed-student-ai-confidence-rebuild.jpg",
   "local": true
+ },
+ "ai-precarious-jobs-replaced-first": {
+  "file": "File:Interior view of a Piggly Wiggly self-service grocery store showing check out counter with cash registers LCCN92520726.jpg",
+  "src": "/img/ai-precarious-jobs-replaced-first.jpg",
+  "src640": "/img/ai-precarious-jobs-replaced-first-sm.jpg",
+  "w": 960,
+  "h": 714,
+  "alt": "1918年の食料品店のレジカウンター",
+  "artist": "Poland, Clifford H., photographer",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Interior_view_of_a_Piggly_Wiggly_self-service_grocery_store_showing_check_out_counter_with_cash_registers_LCCN92520726.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Interior_view_of_a_Piggly_Wiggly_self-service_grocery_store_showing_check_out_counter_with_cash_registers_LCCN92520726.jpg/960px-Interior_view_of_a_Piggly_Wiggly_self-service_grocery_store_showing_check_out_counter_with_cash_registers_LCCN92520726.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Interior_view_of_a_Piggly_Wiggly_self-service_grocery_store_showing_check_out_counter_with_cash_registers_LCCN92520726.jpg/500px-Interior_view_of_a_Piggly_Wiggly_self-service_grocery_store_showing_check_out_counter_with_cash_registers_LCCN92520726.jpg",
+  "og": "https://ai.seadice.win/img/ai-precarious-jobs-replaced-first.jpg",
+  "local": true
  }
 }
