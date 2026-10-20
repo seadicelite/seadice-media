@@ -2707,5 +2707,39 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fossilized_tooth_of_Tiger_Shark_6214.jpg/500px-Fossilized_tooth_of_Tiger_Shark_6214.jpg",
   "og": "https://ai.seadice.win/img/ai-delivered-work-accused-payment-redo.jpg",
   "local": true
+ },
+ "teacher-ai-grading-feedback-acceptance": {
+  "file": "File:Textbooks on desk.jpg",
+  "src": "/img/teacher-ai-grading-feedback-acceptance.webp",
+  "src640": "/img/teacher-ai-grading-feedback-acceptance-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上に開いた教科書とペン",
+  "artist": "Dquai",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Textbooks_on_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Textbooks_on_desk.jpg/960px-Textbooks_on_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Textbooks_on_desk.jpg/500px-Textbooks_on_desk.jpg",
+  "og": "https://ai.seadice.win/img/teacher-ai-grading-feedback-acceptance-og.jpg",
+  "local": true
+ },
+ "class-ai-rules-check-before-assignment": {
+  "file": "File:Kawauchi ES 6th grade classroom 2.jpg",
+  "src": "/img/class-ai-rules-check-before-assignment.webp",
+  "src640": "/img/class-ai-rules-check-before-assignment-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "誰もいない教室に並ぶ机と黒板",
+  "artist": "Douglas P Perkins",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kawauchi_ES_6th_grade_classroom_2.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kawauchi_ES_6th_grade_classroom_2.jpg/960px-Kawauchi_ES_6th_grade_classroom_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kawauchi_ES_6th_grade_classroom_2.jpg/500px-Kawauchi_ES_6th_grade_classroom_2.jpg",
+  "og": "https://ai.seadice.win/img/class-ai-rules-check-before-assignment-og.jpg",
+  "local": true
  }
 }

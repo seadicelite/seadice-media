@@ -1,5 +1,23 @@
 [
  {
+  "slug": "class-ai-rules-check-before-assignment",
+  "category": "子ども・学校",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-20",
+  "title": "授業でAIをどこまで使っていいか、先生と考えがずれていないか不安。研究では、先生は学生より翻訳・言い換え・下書きに厳しく、課題の前に「使い方ごと」に確かめておくのが確か",
+  "summary": "学生60人と先生20人の研究で、先生は翻訳・言い換え・下書きを認めにくかった。課題の前に使い方ごとに確かめ、答えと使用の記録を残す。"
+ },
+ {
+  "slug": "teacher-ai-grading-feedback-acceptance",
+  "category": "子ども・学校",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-20",
+  "title": "先生の採点やコメントがAIだったら、納得できない？研究では、同じ点数でも「AIが付けた」と聞いた中学生は公平さを低く感じ、理由の説明があると納得が上がっていた",
+  "summary": "中学1年生250人の実験で、同じ6点でもAIが付けたと聞くと公平さと納得が下がった。理由の説明は先生でもAIでも納得を上げていた。"
+ },
+ {
   "slug": "ai-delivered-work-accused-payment-redo",
   "category": "創作・著作権",
   "type": "guide",
