@@ -7491,5 +7491,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-speed-reading-comprehension-research-skimming",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Strukelj & Niehorster, \"One page of text: Eye movements during regular and thorough reading, skimming, and spell checking\" (Journal of Eye Movement Research, 2018)",
+    "sourceUrl": "https://doi.org/10.16910/jemr.11.1.1",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/speed-reading-comprehension-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ざっと読めば時間の節約になる？",
+        "body": "全部読む時間がないとき、拾い読みで済ませることってあるよね。速く読めて中身もつかめるなら最高だけど、実際はどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ1ページを読み方を変えて",
+        "body": "スウェーデンの研究者が、60人に同じ1ページの文章を「ふつうに」「じっくり」「ざっと」などの指示で読んでもらい、目の動きと理解のテストを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "速くなるぶん、理解は下がる",
+        "body": "ざっと読むと、飛ばす言葉が増えて時間は短くなったけど、理解のテストの点は下がったらしい。じっくり読むと時間は長くなり、読み返しも増えて、点は上がったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本1冊だとどうなる？",
+        "body": "1ページの文章を画面で読んで、5問の選択式で測った実験なんだ。長い本を読むときや、日本語の文章でも同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

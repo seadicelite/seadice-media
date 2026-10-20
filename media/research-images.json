@@ -4195,8 +4195,8 @@
  },
  "mouth-taping-sleep-research": {
   "file": "File:GD 廣東 Guangdong 廣州 Guangzhou Huangpu MUSTEL Hotel Knowledge City bed room double sigle beds June 2025 R12S 01.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_Huangpu_MUSTEL_Hotel_Knowledge_City_bed_room_double_sigle_beds_June_2025_R12S_01.jpg/960px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_Huangpu_MUSTEL_Hotel_Knowledge_City_bed_room_double_sigle_beds_June_2025_R12S_01.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_Huangpu_MUSTEL_Hotel_Knowledge_City_bed_room_double_sigle_beds_June_2025_R12S_01.jpg/500px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_Huangpu_MUSTEL_Hotel_Knowledge_City_bed_room_double_sigle_beds_June_2025_R12S_01.jpg",
+  "src": "/img/mouth-taping-sleep-research.jpg",
+  "src640": "/img/mouth-taping-sleep-research-sm.jpg",
   "w": 960,
   "h": 720,
   "alt": "ホテルの部屋に並ぶベッド",
@@ -4204,6 +4204,29 @@
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_Huangpu_MUSTEL_Hotel_Knowledge_City_bed_room_double_sigle_beds_June_2025_R12S_01.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_Huangpu_MUSTEL_Hotel_Knowledge_City_bed_room_double_sigle_beds_June_2025_R12S_01.jpg/960px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_Huangpu_MUSTEL_Hotel_Knowledge_City_bed_room_double_sigle_beds_June_2025_R12S_01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_Huangpu_MUSTEL_Hotel_Knowledge_City_bed_room_double_sigle_beds_June_2025_R12S_01.jpg/500px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_Huangpu_MUSTEL_Hotel_Knowledge_City_bed_room_double_sigle_beds_June_2025_R12S_01.jpg",
+  "og": "https://research.seadice.win/img/mouth-taping-sleep-research.jpg",
+  "local": true
+ },
+ "speed-reading-comprehension-research": {
+  "file": "File:The Open Book, Wigtown - geograph.org.uk - 7200461.jpg",
+  "src": "/img/speed-reading-comprehension-research.jpg",
+  "src640": "/img/speed-reading-comprehension-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "本屋の店先",
+  "artist": "Billy McCrorie",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Open_Book,_Wigtown_-_geograph.org.uk_-_7200461.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/The_Open_Book%2C_Wigtown_-_geograph.org.uk_-_7200461.jpg/960px-The_Open_Book%2C_Wigtown_-_geograph.org.uk_-_7200461.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/The_Open_Book%2C_Wigtown_-_geograph.org.uk_-_7200461.jpg/500px-The_Open_Book%2C_Wigtown_-_geograph.org.uk_-_7200461.jpg",
+  "og": "https://research.seadice.win/img/speed-reading-comprehension-research.jpg",
+  "local": true
  }
 }
