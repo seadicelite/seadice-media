@@ -7132,5 +7132,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-why-no-time-only-urgent-deadlines-scarcity-tunneling",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "tho Pesch et al., \"Revisiting evidence for an attentional tunneling effect caused by scarcity\" (Nature Communications, 2026)",
+    "sourceUrl": "https://doi.org/10.1038/s41467-026-78074-y",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-no-time-only-urgent-deadlines/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "足りないと視野が狭くなる？",
+        "body": "お金や時間が足りないと、目の前のことしか見えなくなる。「トンネリング」と呼ばれて、本でもよく紹介される説だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "有名なゲーム実験を分析し直した",
+        "body": "根拠になった2012年の的当てゲームのデータ（68人）と、974人分の追試データを、別の研究者たちが分析し直したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差はゲームの決まりで説明できた",
+        "body": "持ち玉の少ない組は1面あたり平均2.51発しかなく、得点の低い後半の玉を撃たずに済んでいた。最初の3発の当たり方には有意な差がなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "説が否定されたわけではない",
+        "body": "調べたのはオンラインで集めた人のゲーム実験。現実の貧しさや忙しさで注意が偏るかどうかは、まだはっきりしていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
