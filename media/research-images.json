@@ -3968,5 +3968,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/All-weather_running_track.jpg/500px-All-weather_running_track.jpg",
   "og": "https://research.seadice.win/img/exercise-felt-worse-mood-intensity-recovery-research.jpg",
   "local": true
+ },
+ "bedtime-procrastination-cant-stop-recovery-research": {
+  "file": "File:A digital alarm clock in Glasgow (cropped).jpg",
+  "src": "/img/bedtime-procrastination-cant-stop-recovery-research.jpg",
+  "src640": "/img/bedtime-procrastination-cant-stop-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 830,
+  "alt": "目覚まし時計",
+  "artist": "Tbatb",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_digital_alarm_clock_in_Glasgow_(cropped).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/A_digital_alarm_clock_in_Glasgow_%28cropped%29.jpg/960px-A_digital_alarm_clock_in_Glasgow_%28cropped%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/A_digital_alarm_clock_in_Glasgow_%28cropped%29.jpg/500px-A_digital_alarm_clock_in_Glasgow_%28cropped%29.jpg",
+  "og": "https://research.seadice.win/img/bedtime-procrastination-cant-stop-recovery-research.jpg",
+  "local": true
  }
 }

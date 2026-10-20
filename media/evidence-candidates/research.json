@@ -6845,5 +6845,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-bedtime-procrastination-cant-stop-recovery-research-sleep-in",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kok et al., \"Going to bed later than intended is associated with shorter sleep and poorer next-day mood and sleepiness in residential college students\" (SLEEP, 2026)",
+    "sourceUrl": "https://doi.org/10.1093/sleep/zsaf414",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/bedtime-procrastination-cant-stop-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "夜ふかしした分は、朝寝坊で取り戻せる？",
+        "body": "「明日は遅くまで寝ればいいや」と、つい夜ふかししちゃうよね。休みの前の日ならなおさら。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生104人の睡眠を2週間はかった",
+        "body": "寮で暮らす大学生の睡眠を、腕につける計測器で2週間記録。予定より遅く寝た夜は、全体の54%もあったらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "起きる時刻は遅くならなかった",
+        "body": "遅く寝た夜も起きる時刻はほぼ同じで、睡眠は授業の日で0.91時間、休みの前日でも0.86時間短くなった。翌朝の気分と眠気も悪かった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因かどうかは、まだ",
+        "body": "観察研究なので、気分の悪化が夜ふかしだけのせいとは言い切れない。対象も寮の大学生に限られているよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
