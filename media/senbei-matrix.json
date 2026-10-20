@@ -161,6 +161,30 @@
         ],
         "use": []
       }
+    },
+    {
+      "id": "pref",
+      "label": "好み（日本人）",
+      "cells": {
+        "why": [],
+        "myth": [],
+        "make": [],
+        "data": [],
+        "use": []
+      }
+    },
+    {
+      "id": "novel",
+      "label": "新しい味",
+      "cells": {
+        "why": [],
+        "myth": [],
+        "make": [],
+        "data": [],
+        "use": [
+          "https://senbei.seadice.win/flavor/"
+        ]
+      }
     }
   ],
   "research": []
