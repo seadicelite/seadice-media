@@ -7389,5 +7389,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-procrastination-dread-benefit-subtask-reward-how-research-seven-questions",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Garg et al., \"Now I feel like I'm going to get to it soon: a brief, scalable intervention for state procrastination\" (BMC Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.1186/s40359-025-03388-3",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/procrastination-dread-benefit-subtask-reward-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "7つの質問で手がつく？",
+        "body": "後回しにしている作業について、避けたい理由・やり終えた得・すぐ終わる小さな一歩・ごほうびを書く。それだけで、手をつけやすくなるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1,035人で比べた",
+        "body": "米国と英国の大人1,035人を、7つの質問に答える人と、作業の名前だけ書く人などにランダムに分けた。そのあと気持ちや見込みを評価してもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "上がったのは「やる価値」",
+        "body": "質問に答えた人は「24時間以内にやる見込み」が高かった（平均5.38対4.88、d=0.2）。やる価値の評価も上がったけど、作業の嫌さは変わらなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本当に作業した？",
+        "body": "測ったのは見込みの自己評価だけで、実際に作業したかは調べていない。効果は小さめで、7つのどの質問が効いたのかも分けられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
