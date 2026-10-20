@@ -24,7 +24,14 @@
   "先延ばし",
   "気分・ストレス",
   "習慣",
-  "記憶・学習"
+  "記憶・学習",
+  {
+   "name": "食べもの",
+   "id": "food",
+   "color": "#f97316",
+   "icon": "dot",
+   "desc": "チョコでニキビ・鼻血・虫歯になる？ 期限切れや溶けたチョコは食べられる？ など、食べものの悩みを研究と公的機関の説明で調べた記事"
+  }
  ],
  "template": ".claude/commands/research-template.html",
  "rulesFrom": ".claude/commands/research.md",

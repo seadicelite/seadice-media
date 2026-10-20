@@ -355,6 +355,25 @@
      "summary-notes-forgot-recovery-research"
     ]
    }
+  },
+  {
+   "id": "food",
+   "label": "食べもの",
+   "cells": {
+    "why": [
+     "chocolate-seizing-water-why-research",
+     "microwave-melting-chocolate-why-research"
+    ],
+    "judge": [
+     "chocolate-acne-research",
+     "chocolate-nosebleed-research",
+     "chocolate-tooth-decay-research",
+     "expired-chocolate-best-before-research",
+     "melted-chocolate-bloom-safe-research"
+    ],
+    "how": [],
+    "stuck": []
+   }
   }
  ],
  "research": []

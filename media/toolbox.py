@@ -115,6 +115,8 @@ def pick(cfg, p, its):
     def score(x):
         return 3 if p["slug"] in x.get("slugs", []) else 2 if p["category"] in x.get("cats", []) else 1 if x.get("all") else 0
     # 記事ごとに指定済みの「ツールで確かめる」(media/{slug}-toollinks.json) があれば、その先頭をツール枠に使う
+    if _toollinks(cfg).get(p["slug"], None) == []:  # toollinks で空を指定した記事には、合う道具がないので何も出さない
+        return []
     tl = (_toollinks(cfg).get(p["slug"]) or [None])[0]
     if tl:
         its = [{"name": tl[1], "desc": tl[2], "href": tl[0], "app": False, "slugs": [p["slug"]], "_tl": 4}] + its
