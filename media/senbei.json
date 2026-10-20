@@ -243,16 +243,10 @@
   ]
  },
  "topicQueue": [
-  "もち米を混ぜると煎餅は軽くなる？（Chantaraponpan 2021 ほか。材料）",
-  "蒸し時間を長くすると煎餅は膨らむ？（Takei 2019。工程）",
-  "醤油は焼く前に塗る？焼いた後に塗る？（Steinhaus 2007、Manabe 2020。香りと味）",
-  "塩は細かいほうがしょっぱく感じる？（Moncada 2015、Ryo 2025。香りと味）",
-  "噛む音が大きいほど煎餅は美味しく感じる？（Vickers 1980、Saita 2021。感じ方）",
-  "煎餅の焦げは体に悪い？焼き色の上限の決め方（農林水産省の調査。安全）",
-  "古いもち米で作ると煎餅は膨らまない？（Noomhorm 1997。材料）",
-  "餅生地はなぜ寝かせる？固まるまでの時間は米で変わる？（Matsue 2002、福井県。工程）",
-  "生地に油を練り込むと煎餅はどうなる？（新潟県・石川県の試験場。材料）",
-  "パリパリ・バリバリ・サクサクはどう違う？擬音語で見る食感（Saita 2021、Hanada 2020。感じ方）"
+  "生地を薄くするとパリパリになる？厚さと食感（候補: 米菓・クラッカー・ポテトチップスの厚さと破断特性の研究。要調査。食感）",
+  "二度焼きすると煎餅は硬くなる？焼き直しと水分・食感（候補: 米菓の焼成二段階・乾燥の試験場報告。要調査。工程）",
+  "ざらめ・砂糖を塗った煎餅はなぜ焼き色が早く付く？糖とメイラード反応・カラメル化（候補: 糖の種類と褐変速度の食品化学の研究。アクリルアミドの記事とは別に色と香りを扱う。要調査。香りと味）",
+  "米粉の細かさで煎餅は変わる？製粉方法と膨らみ・食感（候補: 米粉の粒度と米菓・ライスクラッカーの膨化の研究、県農業試験場の米粉試験。要調査。材料）"
  ],
  "mastheadHtml": "<div class=\"sl-mast\"><p class=\"sl-kick\">SENBEI LAB</p><h1>お煎餅ラボ</h1><p class=\"sl-tag\">%TAGLINE%</p><p class=\"sl-lead\">%LEAD%</p><dl class=\"sl-meta\"><div><dt>研究を読んだ記事</dt><dd>%POSTS%</dd></div><div><dt>分野</dt><dd>%CATS%</dd></div><div><dt>広告</dt><dd>0</dd></div></dl></div><!--mastend-->",
  "extraCss": "nav.top{background:#F6F0E2;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:2px solid #2A1B10}.nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#2A1B10;color:#2A1B10}nav.top a.r{color:#2A1B10;font-weight:700}h1{background:none;-webkit-text-fill-color:#2A1B10;color:#2A1B10}.sl-mast{padding:20px 0 28px;margin-bottom:28px;border-bottom:1px solid #2A1B10}.sl-kick{font-size:12px;letter-spacing:.24em;color:#8A4512;font-weight:700}.sl-mast h1{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;font-size:clamp(36px,9vw,56px);line-height:1.2;font-weight:700;letter-spacing:.08em;margin-top:8px}.sl-tag{font-size:17px;font-weight:700;margin-top:12px;padding-left:12px;border-left:4px solid #C98A2B}.sl-lead{font-size:15px;line-height:1.9;margin-top:12px;max-width:640px;color:#3D2C20}.sl-meta{display:grid;grid-template-columns:repeat(3,1fr);max-width:440px;margin-top:18px;border:1px solid #2A1B10;background:#FFFCF4}.sl-meta div{display:flex;flex-direction:column-reverse;padding:8px 10px;border-left:1px solid #2A1B10}.sl-meta div:first-child{border-left:0}.sl-meta dt{font-size:12px;color:#5C4636}.sl-meta dd{font-size:22px;font-weight:800;line-height:1.3}.chip{border-radius:6px;min-height:44px}.chip svg{fill:var(--c)}h2.sec{font-size:13px;font-weight:700;color:#2A1B10;letter-spacing:.12em}h2.cat{border-left:0;padding:12px 0 0;border-top:2px solid #2A1B10}.card{border-radius:8px}.card:hover{transform:none;border-color:#8A4512}.th{background:#EFE5D0}.tag{border-radius:4px}.ty{color:#FFFCF4;border-radius:4px}.about,.trust div,.faq details,.empty{border-radius:8px}.tbx,.tbgrid .tbi{border-radius:8px}.tbic{border-radius:6px;background:#EFE5D0}.tbgo{border-radius:6px;color:#FFFCF4}a:focus-visible,summary:focus-visible,button:focus-visible{border-radius:2px}main .gnav a{border-radius:6px;min-height:44px;display:inline-flex;align-items:center;font-weight:700;border-color:#2A1B10;font-size:14px}main .gnav a:first-child{background:#8A4512;border-color:#8A4512;color:#FFFCF4}",
