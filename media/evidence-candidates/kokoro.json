@@ -6223,5 +6223,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-ai-cutback-relapse-recover-success-spiral",
+    "category": "AIとの付き合い方",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "van Alebeek H, Jones CM, Reichenberger J, Pannicke B, Schüz B, Blechert J, \"Goal pursuit increases more after dietary success than after dietary failure: examining conflicting theories of self-regulation using ecological momentary assessment\" (International Journal of Behavioral Nutrition and Physical Activity, 2024)",
+    "sourceUrl": "https://doi.org/10.1186/s12966-024-01566-x",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-cutback-relapse-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "失敗した次の日こそ、人は頑張れる？",
+        "body": "「昨日食べすぎたから、今日こそ気をつけよう」。失敗をばねに頑張れる、ってよく言うよね。でも、実際の毎日の記録で見るとどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "174人の14日間の記録",
+        "body": "オーストリアとドイツで、体重を気にする174人が14日間、1日4〜6回スマホで食事について答え、夜には「明日どれだけ気をつけるつもりか」を記録した研究があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "頑張れたのは、うまくいった日のあと",
+        "body": "実は、目標どおりに食べられた日のあとほど「明日も気をつけよう」が上がっていて、うまくいかなかった日のあとは上がりにくかったらしい。失敗をばねにする形は見られなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本当に行動まで変わった？",
+        "body": "測ったのは「気をつけるつもり」の自己申告で、実際に食べる量が変わったかは調べていない。食事の研究なので、ほかの目標でも同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
