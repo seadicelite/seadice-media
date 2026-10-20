@@ -63,7 +63,8 @@
           "vegetable-fat-melt"
         ],
         "data": [
-          "melting-point-mouth"
+          "melting-point-mouth",
+          "melt-speed-liking"
         ]
       }
     },
@@ -170,7 +171,8 @@
           "want-another-piece"
         ],
         "myth": [
-          "chocolate-craving"
+          "chocolate-craving",
+          "repeated-exposure-bitter"
         ],
         "use": [
           "https://choco.seadice.win/notebook/"
@@ -191,7 +193,8 @@
           "gift-chocolate-psychology"
         ],
         "myth": [
-          "handmade-gift"
+          "handmade-gift",
+          "assortment-variety"
         ],
         "make": [
           "gloss-appearance",
@@ -202,7 +205,8 @@
           "https://choco.seadice.win/notebook/"
         ],
         "data": [
-          "japan-valentine-stats"
+          "japan-valentine-stats",
+          "gift-count-size"
         ]
       }
     },
@@ -211,11 +215,13 @@
       "label": "もう一度買いたくなる",
       "cells": {
         "data": [
-          "buy-again-liking"
+          "buy-again-liking",
+          "fairtrade-label-taste"
         ],
         "myth": [
           "price-expectation-taste",
-          "origin-story-label"
+          "origin-story-label",
+          "cacao-percent-label"
         ],
         "use": [
           "https://choco.seadice.win/notebook/"
@@ -245,10 +251,13 @@
           "theobromine-caffeine-body"
         ],
         "make": [
-          "kids-caffeine"
+          "kids-caffeine",
+          "high-cacao-health-label"
         ]
       }
     }
   ],
-  "research": []
+  "research": [
+    "sensory-panel-size"
+  ]
 }

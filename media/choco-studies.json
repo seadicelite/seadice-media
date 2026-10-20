@@ -1047,7 +1047,7 @@
   "url": "https://doi.org/10.1016/j.appet.2011.12.005",
   "level": "要旨で照合",
   "finding": "109人で、銘柄を伏せるとカカオ分の高いダークチョコが好まれにくかった。店の独自品は食べると高い銘柄と同じくらい好まれた。カカオ分・単一産地の表示は期待を上げなかった。",
-  "article": "buy-again-liking,origin-story-label"
+  "article": "buy-again-liking,origin-story-label,cacao-percent-label"
  },
  {
   "cat": "感じ方",
@@ -1847,7 +1847,7 @@
   "url": "https://doi.org/10.1002/fsn3.1047",
   "level": "数字確認",
   "finding": "訓練された7人の評価で、基準の試作ミルクチョコの舌で溶け出すまでの点数は24℃5.9、29℃3.7、38℃1.8、割れる強さは12.7・4.7・1.9。菓子会社の一部支援。",
-  "article": "melting-point-mouth"
+  "article": "melting-point-mouth,melt-speed-liking"
  },
  {
   "cat": "口どけと保存",
@@ -1957,7 +1957,7 @@
   "url": "https://fdc.nal.usda.gov/",
   "level": "数字確認",
   "finding": "100gあたり ダーク70〜85% テオブロミン802mg・カフェイン80mg、ミルク205・20mg、ココアパウダー2057・230mg、ホワイト0・0mg。",
-  "article": "theobromine-caffeine-body, kids-caffeine"
+  "article": "theobromine-caffeine-body,kids-caffeine"
  },
  {
   "cat": "体と安全",
@@ -1967,7 +1967,7 @@
   "url": "https://www.efsa.europa.eu/en/topics/topic/caffeine",
   "level": "数字確認",
   "finding": "大人は1回200mg・1日400mgまで懸念なし、寝る前100mgで眠りに影響の人も。子ども・青少年は1日3mg/kg。3〜10歳の主な取り口は多くの国でチョコ。板チョコ50gで約25mg。",
-  "article": "theobromine-caffeine-body, kids-caffeine"
+  "article": "theobromine-caffeine-body,kids-caffeine"
  },
  {
   "cat": "体と安全",
@@ -2098,5 +2098,325 @@
   "level": "要旨で照合",
   "finding": "バニラの香りを鼻から・口の奥からのどちらで出しても、アスパルテーム液の甘さの評価が上がった。においの感覚で起きると考えられる。",
   "article": "vanilla-spice-aroma"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Sørensen JG, Wæhrens SS, Byrne DV 2015",
+  "title": "Predicting and Understanding Long-Term Consumer Liking of Standard Versus Novel Chocolate: A Repeated Exposure Study",
+  "journal": "Journal of Sensory Studies",
+  "url": "https://doi.org/10.1111/joss.12164",
+  "level": "要旨で照合",
+  "finding": "デンマークの95人が5種類のチョコ（70%を含む）を2週間毎日食べても、どの群も好き度は変わらなかった。",
+  "article": "repeated-exposure-bitter"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Stein LJ, Nagai H, Nakagawa M, Beauchamp GK 2003",
+  "title": "Effects of repeated exposure and health-related information on hedonic evaluation and acceptance of a bitter beverage",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1016/s0195-6663(02)00173-3",
+  "level": "要旨で照合",
+  "finding": "市販のほろ苦い飲み物を1日1回・7日間飲むと、好き度の評価が68%上がった（チョコではない）。",
+  "article": "repeated-exposure-bitter"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Hetherington MM, Bell A, Rolls BJ 2000",
+  "title": "Effects of repeat consumption on pleasantness, preference and intake",
+  "journal": "British Food Journal",
+  "url": "https://doi.org/10.1108/00070700010336517",
+  "level": "要旨で照合",
+  "finding": "21人がチョコかフライドポテトを15日間毎日食べると、チョコだけ味の好ましさが下がった。",
+  "article": "repeated-exposure-bitter"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Næs T, Segtnan A, Granli BS, Menichelli E, Hersleth M 2015",
+  "title": "Stability in consumer responses to familiar and new chocolates during a period of exposure",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/j.foodqual.2014.07.015",
+  "level": "要旨で照合",
+  "finding": "4週間の間に食べ続けると、定番のチョコの好き度はほぼ同じで、新しいチョコ1種類だけがはっきり上がった。",
+  "article": "repeated-exposure-bitter"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Hong JH 2025",
+  "title": "How we learn to like: the role of perceptual learning in development of liking, quality perception, and appreciation",
+  "journal": "Food Science and Biotechnology",
+  "url": "https://doi.org/10.1007/s10068-025-01857-4",
+  "level": "要旨で照合",
+  "finding": "繰り返し食べると細かな違いに気づきやすくなり、なじみのない食べ物を受け入れやすくなると整理した総説（根拠の多くはワイン）。",
+  "article": "repeated-exposure-bitter"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Sasmaz B, Gunes G 2026",
+  "title": "Correlations Between Sensory Evaluations and Instrumental Measurements in Milk Chocolate with Varying Emulsifier Levels and Particle Sizes",
+  "journal": "Foods",
+  "url": "https://doi.org/10.3390/foods15050938",
+  "level": "数字確認",
+  "finding": "乳化剤が多く粒が小さい試作ミルクチョコほど速く溶けると評価され、消費者396人の好き度も高かった（7.94〜6.71点）。",
+  "article": "melt-speed-liking"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Li Q, Zhang L, Zhang X ほか 2025",
+  "title": "Innovative emulsification and freeze-drying techniques for developing heat-resistant chocolates with tunable textures and sensory attributes",
+  "journal": "Food Chemistry",
+  "url": "https://doi.org/10.1016/j.foodchem.2025.145822",
+  "level": "要旨で照合",
+  "finding": "凍結乾燥で70℃でも形を保つチョコを作り、消費者はサクッとしてべたつかない点から好んだ。",
+  "article": "melt-speed-liking"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Soltanahmadi S, Bryant M, Sarkar A 2023",
+  "title": "Insights into the Multiscale Lubrication Mechanism of Edible Phase Change Materials",
+  "journal": "ACS Applied Materials & Interfaces",
+  "url": "https://doi.org/10.1021/acsami.2c13017",
+  "level": "要旨で照合",
+  "finding": "舌に似せた表面でダークチョコを調べると、唾液が混ざると油脂から水のすべりに移り、摩擦係数が少なくとも3倍になった。",
+  "article": "melt-speed-liking"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Iyengar SS, Lepper MR 2000",
+  "title": "When choice is demotivating: Can one desire too much of a good thing?",
+  "journal": "Journal of Personality and Social Psychology",
+  "url": "https://doi.org/10.1037/0022-3514.79.6.995",
+  "level": "数字確認",
+  "finding": "学生134人の実験で、6種類から選んだ人は30種類より食べたチョコに満足し、謝礼にチョコを選んだ人も48%と12%だった。",
+  "article": "assortment-variety"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Scheibehenne B, Greifeneder R, Todd PM 2010",
+  "title": "Can There Ever Be Too Many Options? A Meta-Analytic Review of Choice Overload",
+  "journal": "Journal of Consumer Research",
+  "url": "https://doi.org/10.1086/651235",
+  "level": "要旨で照合",
+  "finding": "50の実験・5,036人のまとめで、種類が多いと困る効果は平均ほぼゼロだが、研究ごとのばらつきが大きかった。",
+  "article": "assortment-variety"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Chernev A, Böckenholt U, Goodman J 2015",
+  "title": "Choice overload: A conceptual review and meta-analysis",
+  "journal": "Journal of Consumer Psychology",
+  "url": "https://doi.org/10.1016/j.jcps.2014.08.002",
+  "level": "要旨で照合",
+  "finding": "99の結果のまとめで、選択肢の複雑さ・課題の難しさ・好みのはっきりしなさ・目的の4つが、種類の多さで困る度合いを左右した。",
+  "article": "assortment-variety"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Kahn BE, Wansink B 2004",
+  "title": "The Influence of Assortment Structure on Perceived Variety and Consumption Quantities",
+  "journal": "Journal of Consumer Research",
+  "url": "https://doi.org/10.1086/380286",
+  "level": "要旨で照合",
+  "finding": "同じ種類の数でも並べ方で多さの感じ方が変わり、その感じ方が食べる量を左右した。",
+  "article": "assortment-variety"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Hsee CK 1998",
+  "title": "Less is better: When low-value options are valued more highly than high-value options",
+  "journal": "Journal of Behavioral Decision Making",
+  "url": "https://doi.org/10.1002/(SICI)1099-0771(199806)11:2<107::AID-BDM292>3.0.CO;2-Y",
+  "level": "書誌のみ",
+  "finding": "45ドルのマフラーが55ドルのコートより気前がいいと評価された（数字は Many Labs 2 の記載で確認）。",
+  "article": "gift-count-size"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Klein RA, Vianello M, Hasselman F ほか 2018",
+  "title": "Many Labs 2: Investigating Variation in Replicability Across Samples and Settings",
+  "journal": "Advances in Methods and Practices in Psychological Science",
+  "url": "https://doi.org/10.1177/2515245918810225",
+  "level": "数字確認",
+  "finding": "7,646人の追試で、マフラーの贈り主は5.50点、コートは4.61点と、安い贈り物のほうが気前よく見えた。",
+  "article": "gift-count-size"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Vonasch AJ, Hung WY, Leung WY ほか 2023",
+  "title": "“Less Is Better” in Separate Evaluations Versus “More Is Better” in Joint Evaluations",
+  "journal": "Collabra: Psychology",
+  "url": "https://doi.org/10.1525/collabra.77859",
+  "level": "要旨で照合",
+  "finding": "事前登録の追試（計403人）で、1つだけ見て評価すると少ないほうがよく見える結果が3研究とも再現された。",
+  "article": "gift-count-size"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Weaver K, Garcia SM, Schwarz N 2012",
+  "title": "The Presenter's Paradox",
+  "journal": "Journal of Consumer Research",
+  "url": "https://doi.org/10.1086/664497",
+  "level": "要旨で照合",
+  "finding": "評価する側は全体を平均して判断するため、よいものに少しだけよいものを足すと評価が下がった（7研究）。",
+  "article": "gift-count-size"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Kupor D, Flynn F, Norton MI 2017",
+  "title": "Half a Gift Is Not Half-Hearted: A Giver–Receiver Asymmetry in the Thoughtfulness of Partial Gifts",
+  "journal": "Personality and Social Psychology Bulletin",
+  "url": "https://doi.org/10.1177/0146167217727003",
+  "level": "要旨で照合",
+  "finding": "欲しいものの一部だけの贈り物を、受け取る側は贈る側が思うより気持ちがこもっていると感じた。",
+  "article": "gift-count-size"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Ebneter et al. 2013",
+  "title": "Is less always more? The effects of low-fat labeling and caloric information on food intake, calorie estimates, taste preference, and health attributions",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1016/j.appet.2013.04.023",
+  "level": "要旨で照合",
+  "finding": "女子大学生175人。同じチョコ菓子に「低脂肪」と表示するとカロリーを少なく見積もり、健康によいと受け取った。食べた量の差ははっきりせず",
+  "article": "high-cacao-health-label"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Schuldt et al. 2012",
+  "title": "The \"fair trade\" effect: Health halos from social ethics claims",
+  "journal": "Social Psychological and Personality Science",
+  "url": "https://doi.org/10.1177/1948550611431643",
+  "level": "要旨で照合",
+  "finding": "チョコをフェアトレードと説明すると、カロリーが少ないと判断された",
+  "article": "high-cacao-health-label"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "消費者庁 2022",
+  "title": "健康食品に関する景品表示法及び健康増進法上の留意事項について（令和4年12月5日一部改定）",
+  "journal": "消費者庁",
+  "url": "https://www.caa.go.jp/policies/policy/representation/extravagant_advertisement/assets/representation_cms213_241001_01.pdf",
+  "level": "数字確認",
+  "finding": "名称・学説の引用による暗示も効果の表示に当たる。論文の摂取量と商品の量が大きく離れた資料は合理的根拠と認められなかった例",
+  "article": "high-cacao-health-label"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "食品表示基準 第9条",
+  "title": "食品表示基準（平成27年内閣府令第10号）",
+  "journal": "e-Gov法令検索",
+  "url": "https://laws.e-gov.go.jp/law/427M60000002010",
+  "level": "数字確認",
+  "finding": "保健機能食品以外の食品の容器包装に、栄養成分の機能・特定の保健の目的が期待できる旨を書くことを禁じる（第1項第10号）",
+  "article": "high-cacao-health-label"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "健康増進法 第65条",
+  "title": "健康増進法（平成14年法律第103号）",
+  "journal": "e-Gov法令検索",
+  "url": "https://laws.e-gov.go.jp/law/414AC0000000103",
+  "level": "数字確認",
+  "finding": "健康の保持増進の効果等について、著しく事実に相違する・著しく誤認させる表示を禁じる",
+  "article": "high-cacao-health-label"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "全国チョコレート業公正取引協議会",
+  "title": "チョコレート類の表示に関する公正競争規約・同施行規則（令和6年10月1日施行の変更を含む版）",
+  "journal": "全国公正取引協議会連合会 掲載",
+  "url": "https://www.jfftc.org/DATA/Kiyaku_pdf/e01_H_choco.pdf",
+  "level": "数字確認",
+  "finding": "カカオ分の定義（第2条第17項）、チョコレート生地はカカオ分35%以上・ココアバター18%以上、特色ある原材料は割合表示（第4条第4項）、「特濃」「濃厚」の根拠なき使用は不当表示（第5条第9号）",
+  "article": "cacao-percent-label"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Brown et al. 2023",
+  "title": "The effect of fat content on sensory perception and consumer acceptability of 70% cacao dark chocolate made from reconstituted cocoa liquor",
+  "journal": "Journal of Sensory Studies",
+  "url": "https://doi.org/10.1111/joss.12864",
+  "level": "要旨で照合",
+  "finding": "カカオ70%のまま脂肪分を30・35・40%に変えると、108人が感じた苦み・カカオ風味・乾く感じは弱まり甘さは強まった。好き度は変わらず",
+  "article": "cacao-percent-label"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Enax et al. 2015",
+  "title": "Effects of social sustainability signaling on neural valuation signals and taste-experience of food products",
+  "journal": "Frontiers in Behavioral Neuroscience",
+  "url": "https://doi.org/10.3389/fnbeh.2015.00247",
+  "level": "数字確認",
+  "finding": "同じミルクチョコでも、フェアトレードと伝えた方がおいしさ（中央値6対5）・味の強さ（5.5対5）が高かった。38人",
+  "article": "fairtrade-label-taste"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Lotz et al. 2013",
+  "title": "What is fair is good: Evidence of consumers' taste for fairness",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/j.foodqual.2013.05.010",
+  "level": "要旨で照合",
+  "finding": "コーヒー1・チョコ2の3研究で、フェアトレード表示のある方が味がよいと評価された。表示で味は変わらないと答えた人でも同じ",
+  "article": "fairtrade-label-taste"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Bratanova et al. 2015",
+  "title": "Savouring morality. Moral satisfaction renders food of ethical origin subjectively tastier",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1016/j.appet.2015.04.006",
+  "level": "要旨で照合",
+  "finding": "倫理的な食品の満足感が味の期待と評価、買いたい気持ちを上げる流れを4研究で示した。価値観を大事にする人で主に見られた",
+  "article": "fairtrade-label-taste"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Sörqvist et al. 2015",
+  "title": "The green halo: Mechanisms and limits of the eco-label effect",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/j.foodqual.2015.02.001",
+  "level": "要旨で照合",
+  "finding": "環境ラベルの効き目は食品と判断の種類で違い、水では味の評価は変わらなかった",
+  "article": "fairtrade-label-taste"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Hough et al. 2006",
+  "title": "Number of consumers necessary for sensory acceptability tests",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/j.foodqual.2005.07.002",
+  "level": "要旨で照合",
+  "finding": "5か国108件の消費者試験の誤差は似ていた。尺度の10%の差を第1種の誤り5%・第2種10%で見分けるには112人",
+  "article": "sensory-panel-size"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Mammasse & Schlich 2014",
+  "title": "Adequate number of consumers in a liking test. Insights from resampling in seven studies",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/j.foodqual.2012.01.009",
+  "level": "要旨で照合",
+  "finding": "150人×7試験を間引くと、十分な人数は20〜150人。主に品どうしの感覚の差の大きさで決まった",
+  "article": "sensory-panel-size"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Lim 2011",
+  "title": "Hedonic scaling: A review of methods and theory",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/j.foodqual.2011.05.008",
+  "level": "要旨で照合",
+  "finding": "好みの尺度の方法と理論を比べた総説。尺度は測りたいものに合わせて選ぶ",
+  "article": "sensory-panel-size"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "ISO 11136:2014",
+  "title": "Sensory analysis — Methodology — General guidance for conducting hedonic tests with consumers in a controlled area",
+  "journal": "ISO",
+  "url": "https://www.iso.org/standard/50125.html",
+  "level": "書誌のみ",
+  "finding": "管理された場所で消費者の好みを測る試験の進め方の規格。人数の記述は確かめていない",
+  "article": "sensory-panel-size"
  }
 ]

@@ -7,9 +7,9 @@
  "path": "sites/choco/",
  "url": "https://choco.seadice.win/",
  "tagline": "科学で目指す究極のチョコ",
- "lead": "目指すのは、食べたあとにもう一度食べたくなる、誰かにあげたくなる、もう一度買いたくなるチョコ。豆・焙煎・テンパリング・口どけ・感じ方の研究の原典（論文の要旨や本文）を開いて確かめ、究極の1枚の作り方にまとめていきます。究極の1枚は目標で、まだ作れていません。何も売りません。",
- "titleSuffix": "チョコのうまさを研究で確かめるメディア",
- "description": "チョコはなぜパキッと割れて口で溶ける？焙煎やカカオ分でうまさは変わる？白くなったチョコは食べられる？チョコの研究の原典を開いて確かめ、結論・わかった数字・家での試し方・まだわからないことをまとめるメディア。商品の紹介はしません。出典つき。",
+ "lead": "チョコ製品を開発する人のためのメディアです。目指すのは、食べたあとにもう一度食べたくなる、誰かにあげたくなる、もう一度買いたくなるチョコ。豆・焙煎・テンパリング・口どけ・感じ方の研究の原典（論文の要旨や本文）を開いて確かめ、配合・工程・評価の決め方にまとめていきます。究極の1枚は目標で、まだ作れていません。何も売りません。",
+ "titleSuffix": "チョコ製品の開発者のための研究メディア",
+ "description": "チョコ製品の開発者向け。焙煎・コンチング・テンパリング・配合・ブルームと保存・官能評価の研究の原典を確かめ、結論・わかった数字・開発への使い方・まだわからないことをまとめるメディア。目指すのは、もう一度食べたくなる・あげたくなる・また買いたくなるチョコ。出典つき、商品の紹介なし。",
  "theme": {
   "bg": "#F6F0EA",
   "card": "#FFFBF6",
@@ -83,7 +83,11 @@
  "faq": [
   [
    "チョコの研究とはどんなメディアですか？",
-   "チョコレートのうまさ（香り・口どけ・つや・パキッとした割れ方）にかかわる研究の原典（論文の要旨や本文）を開いて確かめ、結論・わかった数字・家での試し方・まだわからないことをまとめるメディアです。SEADICEが運営しています。"
+   "チョコ製品を開発する人のためのメディアです。チョコレートのうまさ（香り・口どけ・つや・パキッとした割れ方）や「また食べたい」「また買いたい」にかかわる研究の原典を開いて確かめ、結論・わかった数字・開発への使い方・まだわからないことをまとめています。SEADICEが運営しています。"
+  ],
+  [
+   "誰に向けたメディアですか？",
+   "チョコレートメーカー・ショコラティエ・菓子メーカーで、チョコ製品の商品開発や品質管理をしている人に向けています。記事の「開発への使い方」では、配合・工程・官能評価で何を決めればよいかを、研究で言える範囲で書きます。食べる人のよくある疑問は、姉妹メディアの悩みの科学（research.seadice.win）で扱います。"
   ],
   [
    "「究極のチョコ」とは何ですか？もうできたのですか？",
@@ -112,10 +116,10 @@
    "商品・店の紹介、広告、アフィリエイトは一切ありません。"
   ]
  ],
- "concept": "チョコレートのうまさを決める要素（カカオの品種と発酵、焙煎とコンチング、テンパリングと結晶、口どけと粒の細かさ、ブルームと保存、香りと味の成分、カカオ分と配合、感じ方、体と安全）を、1記事＝1つの問い＋主役の研究1本で読み解き、結論・わかった数字・家での試し方・まだわからないことに落とし込む。目標は科学で究極のチョコ（もう一度食べたくなる・誰かにあげたくなる・もう一度買いたくなるチョコ）を目指すことで、実績ではない。商品・店の紹介はしない",
- "aboutLead": "チョコの研究は、チョコレートのうまさにかかわる研究を1本ずつ読み、結論と数字と試し方にまとめるメディアです。目標は「科学で目指す究極のチョコ」。究極のチョコとは、食べたあとにもう一度食べたくなる、誰かにあげたくなる、もう一度買いたくなるチョコのことです。",
- "reader": "チョコが好きな人、チョコを手作りしたい人、なぜうまいのかを知りたい人",
- "tone": "落ち着いて、結論から。研究で示されたことと、まだわからないことを分ける。「科学的に証明」とは書かない。商品・店・ブランドを勧めない。健康効果を盛らない",
+ "concept": "チョコレートのうまさを決める要素（カカオの品種と発酵、焙煎とコンチング、テンパリングと結晶、口どけと粒の細かさ、ブルームと保存、香りと味の成分、カカオ分と配合、感じ方、体と安全）を、1記事＝1つの問い＋主役の研究1本で読み解き、結論・わかった数字・開発への使い方（配合・工程・官能評価の組み方）・まだわからないことに落とし込む。目標は科学で究極のチョコ（もう一度食べたくなる・誰かにあげたくなる・もう一度買いたくなるチョコ）を目指すことで、実績ではない。商品・店の紹介はしない。読者はチョコ製品の開発者。錯覚で中身以上に見せる手は勧めず、中身をよくする手を書く",
+ "aboutLead": "チョコの研究は、チョコ製品を開発する人のために、チョコレートのうまさにかかわる研究を1本ずつ読み、結論と数字と開発への使い方にまとめるメディアです。目標は「科学で目指す究極のチョコ」。究極のチョコとは、食べたあとにもう一度食べたくなる、誰かにあげたくなる、もう一度買いたくなるチョコのことです。",
+ "reader": "チョコ製品を開発する人（チョコレートメーカー・ショコラティエ・菓子メーカーの商品開発・品質管理の担当者）",
+ "tone": "落ち着いて、結論から。研究で示されたことと、まだわからないことを分ける。「科学的に証明」とは書かない。商品・店・ブランドを勧めない。健康効果を盛らない。中身をよくする方法を書き、錯覚で中身以上に見せる方法は勧めない",
  "about": "記事はAIが大学・研究機関の論文や公的機関の資料を開いて読み、記事の数字と主張が原典にあるかを照合して作成しています。SEADICEが自分でチョコを試作・測定したものではありません。商品や店の紹介はしていません。",
  "template": ".claude/commands/choco-template.html",
  "rulesFrom": ".claude/commands/choco.md",
@@ -176,17 +180,25 @@
     ]
    ],
    [
+    "誰のためのメディアか",
+    [
+     "チョコ製品を開発する人（メーカー・ショコラティエ・菓子メーカーの商品開発と品質管理の担当者）のためのメディアです。",
+     "中身をよくする方法（豆・工程・配合・保存）を書きます。包装や表示で中身以上に見せる方法は、研究として紹介しても、開発の手としては勧めません。"
+    ]
+   ],
+   [
     "記事の作り方",
     [
      "記事は、AI（Claude）が大学・研究機関の論文や公的機関の資料を開いて読み、内容を確認して整理し、作成しています。SEADICE が自分でチョコを試作・測定したものではありません。",
-     "公開前に、記事に書く数字と主張が原典にあるかを1件ずつ照合し、確認できなかったものは削ります。"
+     "公開前に、記事に書く数字と主張が原典にあるかを1件ずつ照合し、確認できなかったものは削ります。",
+     "チョコの研究の役割は、開発の判断に使う研究を原典で確かめて、条件と限界ごと整理することです。実測や試作はしていないので、記事の数字は研究の条件での値として読み、採用するかは自社の試作と評価で確かめてください。"
     ]
    ],
    [
     "1記事＝1つの問い",
     [
      "1本の記事は、1つの問い（例: チョコはなぜパキッと割れて口で溶ける？）と、その主役になる研究1本でできています。補う研究は記事の中で紹介します。",
-     "記事の流れは「結論／どんな研究か／わかった数字／チョコ作りへの使い方／まだわからないこと／出典」で、どの記事も同じです。"
+     "記事の流れは「結論／どんな研究か／わかった数字／開発への使い方／まだわからないこと／出典」で、どの記事も同じです。"
     ]
    ],
    [
@@ -242,8 +254,9 @@
    [
     "情報の性質",
     [
-     "{name}の記事とツールは、公開された研究をもとにした一般的な情報です。研究の結果は、その研究の条件（豆・設備・試作の数）での傾向で、家庭での手作りに同じように当てはまるとは限りません。",
-     "テンパリング温度ガイドの温度は研究と一般的な目安で、使うチョコの配合によって変わります。"
+     "{name}の記事とツールは、公開された研究をもとにした一般的な情報です。研究の結果は、その研究の条件（豆・設備・試作の数・評価した人）での傾向で、別の配合や製造ラインに同じように当てはまるとは限りません。製品への採用は、自社の試作と評価で確かめてください。",
+     "テンパリング温度ガイドの温度は研究と一般的な目安で、使うチョコの配合によって変わります。",
+     "表示（カカオ分・産地・健康に関する表示など）は、食品表示法や業界の公正競争規約に従ってください。記事は法令の解説ではありません。"
     ]
    ],
    [
@@ -261,11 +274,7 @@
    ]
   ]
  },
- "topicQueue": [
-  "何個入りがうれしい？贈り物の量と受け取る側の満足の研究（誰かにあげたくなる×数字。チョコ以外の研究は対象を明記）",
-  "カカオ分の表示を見るとおいしく感じる？数字の表示と期待の研究（もう一度買いたくなる×作り方）",
-  "口どけがいいチョコほど「また食べたい」？溶ける速さと好き度の研究（口どけ×数字）"
- ],
+ "topicQueue": [],
  "mastheadHtml": "<div class=\"sl-mast\"><p class=\"sl-kick\">CHOCOLATE RESEARCH</p><h1>チョコの研究</h1><p class=\"sl-tag\">%TAGLINE%</p><p class=\"sl-lead\">%LEAD%</p><dl class=\"sl-meta\"><div><dt>研究を読んだ記事</dt><dd>%POSTS%</dd></div><div><dt>分野</dt><dd>%CATS%</dd></div><div><dt>広告</dt><dd>0</dd></div></dl></div><!--mastend--><section class=\"sl-tools\" aria-label=\"チョコの研究の道具\"><h2 class=\"sl-th\">道具で試す</h2><div class=\"sl-tg\"><a class=\"sl-tc\" href=\"/tool/\"><span class=\"sl-tb\"><em>Webツール・登録不要・無料</em><b>テンパリング温度ガイド</b><small>ダーク・ミルク・ホワイトと方法を選ぶと、溶かす・冷ます・戻す温度と根拠の研究が出る。手元の温度を入れると次にやることがわかる</small><i>使ってみる</i></span></a><a class=\"sl-tc\" href=\"/notebook/\"><span class=\"sl-tb\"><em>Webツール・登録不要・記録は端末の中だけ</em><b>食べ比べノート</b><small>甘さ・苦み・香り・口どけと、もう一度食べたいか・あげたいか・また買いたいかを1タップで記録。3つとも「はい」が究極のチョコの候補</small><i>記録してみる</i></span></a><a class=\"sl-tc\" href=\"/research/\"><span class=\"sl-tb\"><em>原典を開いて確かめた一覧</em><b>チョコの研究一覧</b><small>豆・焙煎・結晶・口どけ・香り・感じ方・安全の研究を、1〜2行の結論と確認レベルつきで</small><i>一覧を見る</i></span></a></div></section>",
  "extraCss": "nav.top{background:#2B1A12;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:3px solid #B5803F}.nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#F6EDE2;color:#F6EDE2}nav.top a.r{color:#F6EDE2;font-weight:700}h1{background:none;-webkit-text-fill-color:#24150E;color:#24150E}.sl-mast{padding:20px 0 28px;margin-bottom:28px;border-bottom:3px double #2B1A12}.sl-kick{display:inline-block;font-size:12px;letter-spacing:.24em;color:#F6EDE2;background:#2B1A12;padding:4px 12px;font-weight:700;border-radius:2px}.sl-mast h1{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;font-size:clamp(36px,9vw,56px);line-height:1.2;font-weight:700;letter-spacing:.08em;margin-top:8px}.sl-tag{font-size:17px;font-weight:700;margin-top:12px;padding-left:12px;border-left:4px solid #B5803F}.sl-lead{font-size:15px;line-height:1.9;margin-top:12px;max-width:640px;color:#3B2A20}.sl-meta{display:grid;grid-template-columns:repeat(3,1fr);max-width:440px;margin-top:18px;border:1px solid #24150E;background:#FFFBF6}.sl-meta div{display:flex;flex-direction:column-reverse;padding:8px 10px;border-left:1px solid #24150E}.sl-meta div:first-child{border-left:0}.sl-meta dt{font-size:12px;color:#5E4637}.sl-meta dd{font-size:22px;font-weight:800;line-height:1.3}.chip{border-radius:6px;min-height:44px}.chip svg{fill:var(--c)}h2.sec{font-size:13px;font-weight:700;color:#24150E;letter-spacing:.12em}h2.cat{border-left:0;padding:12px 0 0;border-top:2px solid #2B1A12;font-family:'Hiragino Mincho ProN','Yu Mincho',serif}.card{border-radius:8px}.card:hover{transform:none;border-color:#7A3B1E}.th{background:#EFE2D4}.tag{border-radius:4px}.ty{color:#FFFBF6;border-radius:4px}.about,.trust div,.faq details,.empty{border-radius:8px}.tbx,.tbgrid .tbi{border-radius:8px}.tbic{border-radius:6px;background:#EFE2D4}.tbgo{border-radius:6px;color:#FFFBF6}a:focus-visible,summary:focus-visible,button:focus-visible{border-radius:2px}main .gnav a{border-radius:6px;min-height:44px;display:inline-flex;align-items:center;font-weight:700;border-color:#24150E;font-size:14px}main .gnav a:first-child{background:#2B1A12;border-color:#2B1A12;color:#F6EDE2}footer{background:#2B1A12;color:#E8D9C8;border-top:3px solid #B5803F}footer a{color:#E8D9C8}.card{border-top:3px solid #2B1A12}.sl-meta{border-color:#2B1A12}.sl-meta div{border-color:#2B1A12}.sl-tag{font-family:'Hiragino Mincho ProN','Yu Mincho',serif}main h1{font-family:'Hiragino Mincho ProN','Yu Mincho',serif}.ticker{top:56px;background:#FFF9F2;border-bottom:1px solid #2B1A12}.ticker .lb{background:#2B1A12;color:#F6EDE2}.ticker a b{color:#7A3B1E}.sl-tools{margin:8px 0 36px}.sl-th{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;font-size:20px;margin:0 0 12px;padding-top:12px;border-top:2px solid #2B1A12}.sl-tg{display:grid;gap:16px;grid-template-columns:1fr}@media(min-width:760px){.sl-tg{grid-template-columns:1fr 1fr}}.sl-tc{display:flex;flex-direction:column;background:#FFF9F2;border:1px solid #2B1A12;border-top:4px solid #2B1A12;border-radius:8px;overflow:hidden;text-decoration:none;color:#24150E}.sl-tc:hover{border-color:#7A3B1E}.sl-tc img{display:block;width:100%;height:auto;aspect-ratio:16/5;object-fit:cover;background:#EFE2D4}.sl-tb{display:flex;flex-direction:column;gap:4px;padding:14px 16px 16px}.sl-tb em{font-style:normal;font-size:12px;color:#7A3B1E}.sl-tb b{font-size:18px;font-family:'Hiragino Mincho ProN','Yu Mincho',serif}.sl-tb small{font-size:14px;line-height:1.7;color:#3B2A20}.sl-tb i{align-self:flex-start;margin-top:8px;font-style:normal;font-weight:800;font-size:14px;color:#FFFBF6;background:#7A3B1E;border-radius:6px;padding:10px 16px;min-height:44px;display:inline-flex;align-items:center}.sl-cr{font-size:12px;color:#5E4637;margin-top:6px}.sl-cr a{color:#5E4637}.ticker{background:#6A4A34;border-bottom:2px solid #2B1A12}.ticker .lb{background:#B5803F;color:#24150E}.ticker a{color:#F6EDE2}.ticker a b{color:#F0D3A6}.sl-mast{background:#2B1A12;color:#F6EDE2;border:0;border-radius:8px;padding:28px 22px 26px;margin:8px 0 32px}@media(min-width:600px){.sl-mast{padding:40px 40px 36px}}.sl-kick{background:#B5803F;color:#24150E;font-family:Georgia,'Times New Roman',serif;letter-spacing:.2em}.sl-mast h1{color:#F6EDE2;-webkit-text-fill-color:#F6EDE2}.sl-tag{color:#F0D3A6;border-left-color:#B5803F}.sl-lead{color:#E8D9C8}.sl-meta{background:#2B1A12;border:2px solid #1C100B;gap:2px;grid-template-columns:repeat(3,1fr);border-radius:4px;max-width:460px}.sl-meta div{background:#4A2E22;border:0;border-top:2px solid #6A4A34;border-left:2px solid #5A3A2A!important;border-radius:2px;padding:12px 12px 10px}.sl-meta div:first-child{border-left:2px solid #5A3A2A}.sl-meta dt{color:#E8D9C8}.sl-meta dd{color:#F6EDE2}.sl-tc{background:#3B2418;color:#F6EDE2;border:2px solid #2B1A12;border-top:6px solid #B5803F}.sl-tc:hover{border-color:#B5803F}.sl-tb em{color:#F0D3A6}.sl-tb b{color:#F6EDE2}.sl-tb small{color:#E8D9C8}.sl-tb i{background:#B5803F;color:#24150E}.sl-th{border-top-color:#2B1A12}.chip{background:#FFFBF6;border-color:#C9B29C}.chip:hover{border-color:#7A3B1E}.card{border-top:4px solid #4A2E22}.card:hover{border-color:#7A3B1E}h2.cat{border-top:3px solid #2B1A12}body{background:#F6F0EA}@media(min-width:960px){.sl-tg{grid-template-columns:repeat(3,1fr)}}",
  "articleCss": ".hero img,.related a,.prevnext a,.tbx,.tbgrid .tbi{border-radius:8px}.tbic,.tbgo{border-radius:6px}.related .rt{border-radius:4px}.tbx{border:1px solid var(--text);border-top:4px solid var(--accent2)}.tbgo{color:#FFFBF6}.related a:hover,.prevnext a:hover{border-color:var(--accent)}body>nav{background:#2B1A12;border-bottom:3px solid #B5803F}body>nav .nav-logo,body>nav a.r{color:#F6EDE2}h2.sec{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;border-top:2px solid #2B1A12}.summary{border-color:#2B1A12;border-top:4px solid #2B1A12}.summary h2{display:inline-block;background:#2B1A12;color:#F6EDE2;padding:2px 10px;border-radius:2px}footer{background:#2B1A12;color:#E8D9C8;border-top:3px solid #B5803F}footer a{color:#E8D9C8}.summary{border:2px solid #2B1A12;border-top:6px solid #B5803F}.summary h2{background:#2B1A12;color:#F6EDE2}.stat{border-top:4px solid #4A2E22}.stat b{color:#7A3B1E}.evidence .lv{border-color:#2B1A12}.evidence .lv b{color:#B5803F}.tag{border-color:#7A3B1E;color:#7A3B1E}.labnav a{border-color:#2B1A12}.labnav a:first-child{background:#3B2418;color:#F6EDE2;border-top:3px solid #B5803F}.step .num{background:#3B2418;color:#F0D3A6}.answer{border-left-color:#4A2E22}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}.stat b{overflow-wrap:anywhere;font-size:clamp(20px,5.6vw,30px)}",
