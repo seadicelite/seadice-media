@@ -25,7 +25,7 @@ ICONS = {  # カテゴリ用アイコン(24x24 path)
 }
 def favicon_tag(cfg, theme):
     """メディアのピクトグラムのファビコン（media/favicon.py）。sites/{slug}/favicon.svg も書き出す。"""
-    return favicon.tag(cfg["path"], theme["accent"])
+    return favicon.tag(cfg["path"], theme.get("faviconBg", theme["accent"]), theme.get("faviconFg"))
 
 
 DEFAULT_THEME = {"bg": "#05050C", "card": "#0C0C1A", "accent": "#00FFD1", "accent2": "#38BDF8", "border": "#1a1a2e",

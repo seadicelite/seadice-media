@@ -1,0 +1,167 @@
+{
+  "cols": [
+    {
+      "id": "why",
+      "label": "仕組み",
+      "q": "なぜそうなる？（体・材料の中で起きていること）"
+    },
+    {
+      "id": "myth",
+      "label": "確かめる",
+      "q": "よく聞く説は本当？（研究で確かめる）"
+    },
+    {
+      "id": "make",
+      "label": "作り方",
+      "q": "何を変えると変わる？（材料・工程・食べ方）"
+    },
+    {
+      "id": "data",
+      "label": "数字",
+      "q": "データで見ると？（測定値・統計・地域）"
+    },
+    {
+      "id": "use",
+      "label": "使う",
+      "q": "自分で試せるツール・実験"
+    }
+  ],
+  "rows": [
+    {
+      "id": "puff",
+      "label": "膨らみ",
+      "cells": {
+        "why": [],
+        "myth": [
+          "tenpi-drying-why-puff"
+        ],
+        "make": [
+          "puffing-decided-before-baking",
+          "baking-method-puffing",
+          "old-rice-puffing"
+        ],
+        "data": [],
+        "use": [
+          "https://senbei.seadice.win/tool/"
+        ]
+      }
+    },
+    {
+      "id": "texture",
+      "label": "硬さ・パリパリ",
+      "cells": {
+        "why": [
+          "paripari-sakusaku-words"
+        ],
+        "myth": [],
+        "make": [
+          "mochigome-blend-lighter",
+          "oil-in-dough",
+          "mochi-dough-hardening-time"
+        ],
+        "data": [],
+        "use": [
+          "https://senbei.seadice.win/tool/"
+        ]
+      }
+    },
+    {
+      "id": "stale",
+      "label": "しけ・保存",
+      "cells": {
+        "why": [
+          "fried-senbei-rancid"
+        ],
+        "myth": [
+          "stale-senbei-dry-again"
+        ],
+        "make": [],
+        "data": [
+          "humidity-crispness-storage"
+        ],
+        "use": []
+      }
+    },
+    {
+      "id": "soy",
+      "label": "醤油と焼き香",
+      "cells": {
+        "why": [],
+        "myth": [],
+        "make": [
+          "soy-sauce-before-or-after-baking"
+        ],
+        "data": [],
+        "use": []
+      }
+    },
+    {
+      "id": "salt",
+      "label": "塩味・減塩",
+      "cells": {
+        "why": [],
+        "myth": [
+          "fine-salt-tastes-saltier"
+        ],
+        "make": [],
+        "data": [],
+        "use": []
+      }
+    },
+    {
+      "id": "umami",
+      "label": "うま味・味付け",
+      "cells": {
+        "why": [
+          "umami-synergy-nori-senbei"
+        ],
+        "myth": [],
+        "make": [],
+        "data": [],
+        "use": []
+      }
+    },
+    {
+      "id": "sound",
+      "label": "音と感じ方",
+      "cells": {
+        "why": [],
+        "myth": [
+          "crunch-sound-and-taste"
+        ],
+        "make": [],
+        "data": [],
+        "use": []
+      }
+    },
+    {
+      "id": "region",
+      "label": "地域の味",
+      "cells": {
+        "why": [],
+        "myth": [
+          "kyushu-soy-sauce-sweet-why"
+        ],
+        "make": [],
+        "data": [
+          "senbei-spending-city-ranking"
+        ],
+        "use": []
+      }
+    },
+    {
+      "id": "safety",
+      "label": "焦げと安全",
+      "cells": {
+        "why": [],
+        "myth": [],
+        "make": [],
+        "data": [
+          "senbei-browning-limit"
+        ],
+        "use": []
+      }
+    }
+  ],
+  "research": []
+}

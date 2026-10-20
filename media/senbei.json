@@ -18,7 +18,9 @@
   "border": "#D9CBB3",
   "text": "#2A1B10",
   "muted": "#5C4636",
-  "link": "#7A3A0A"
+  "link": "#7A3A0A",
+  "faviconBg": "#1D2620",
+  "faviconFg": "#E3A955"
  },
  "categories": [
   {
@@ -55,6 +57,13 @@
    "color": "#4D5A2B",
    "icon": "eye",
    "desc": "噛む音とパリパリ感、擬音語で見る食感の好み"
+  },
+  {
+   "name": "地域",
+   "id": "region",
+   "color": "#6B4A2E",
+   "icon": "dot",
+   "desc": "せんべいをよく買う街、醤油や味付けの地域差。購入・摂取・出荷・好みを分けて見る"
   },
   {
    "name": "安全",
@@ -137,7 +146,8 @@
     "香りと味",
     "感じ方",
     "安全"
-   ]
+   ],
+   "icon": "/img/tool-senbei-icon.webp"
   }
  ],
  "pageSections": {
@@ -249,6 +259,6 @@
   "米粉の細かさで煎餅は変わる？製粉方法と膨らみ・食感（候補: 米粉の粒度と米菓・ライスクラッカーの膨化の研究、県農業試験場の米粉試験。要調査。材料）"
  ],
  "mastheadHtml": "<div class=\"sl-mast\"><p class=\"sl-kick\">SENBEI LAB</p><h1>お煎餅ラボ</h1><p class=\"sl-tag\">%TAGLINE%</p><p class=\"sl-lead\">%LEAD%</p><dl class=\"sl-meta\"><div><dt>研究を読んだ記事</dt><dd>%POSTS%</dd></div><div><dt>分野</dt><dd>%CATS%</dd></div><div><dt>広告</dt><dd>0</dd></div></dl></div><!--mastend-->",
- "extraCss": "nav.top{background:#F6F0E2;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:2px solid #2A1B10}.nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#2A1B10;color:#2A1B10}nav.top a.r{color:#2A1B10;font-weight:700}h1{background:none;-webkit-text-fill-color:#2A1B10;color:#2A1B10}.sl-mast{padding:20px 0 28px;margin-bottom:28px;border-bottom:1px solid #2A1B10}.sl-kick{font-size:12px;letter-spacing:.24em;color:#8A4512;font-weight:700}.sl-mast h1{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;font-size:clamp(36px,9vw,56px);line-height:1.2;font-weight:700;letter-spacing:.08em;margin-top:8px}.sl-tag{font-size:17px;font-weight:700;margin-top:12px;padding-left:12px;border-left:4px solid #C98A2B}.sl-lead{font-size:15px;line-height:1.9;margin-top:12px;max-width:640px;color:#3D2C20}.sl-meta{display:grid;grid-template-columns:repeat(3,1fr);max-width:440px;margin-top:18px;border:1px solid #2A1B10;background:#FFFCF4}.sl-meta div{display:flex;flex-direction:column-reverse;padding:8px 10px;border-left:1px solid #2A1B10}.sl-meta div:first-child{border-left:0}.sl-meta dt{font-size:12px;color:#5C4636}.sl-meta dd{font-size:22px;font-weight:800;line-height:1.3}.chip{border-radius:6px;min-height:44px}.chip svg{fill:var(--c)}h2.sec{font-size:13px;font-weight:700;color:#2A1B10;letter-spacing:.12em}h2.cat{border-left:0;padding:12px 0 0;border-top:2px solid #2A1B10}.card{border-radius:8px}.card:hover{transform:none;border-color:#8A4512}.th{background:#EFE5D0}.tag{border-radius:4px}.ty{color:#FFFCF4;border-radius:4px}.about,.trust div,.faq details,.empty{border-radius:8px}.tbx,.tbgrid .tbi{border-radius:8px}.tbic{border-radius:6px;background:#EFE5D0}.tbgo{border-radius:6px;color:#FFFCF4}a:focus-visible,summary:focus-visible,button:focus-visible{border-radius:2px}main .gnav a{border-radius:6px;min-height:44px;display:inline-flex;align-items:center;font-weight:700;border-color:#2A1B10;font-size:14px}main .gnav a:first-child{background:#8A4512;border-color:#8A4512;color:#FFFCF4}",
- "articleCss": ".hero img,.related a,.prevnext a,.tbx,.tbgrid .tbi{border-radius:8px}.tbic,.tbgo{border-radius:6px}.related .rt{border-radius:4px}.tbx{border:1px solid var(--text);border-top:4px solid var(--accent2)}.tbgo{color:#FFFCF4}.related a:hover,.prevnext a:hover{border-color:var(--accent)}"
+ "extraCss": "nav.top{background:#1D2620;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:3px solid #C98A2B}.nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#F5EFE1;color:#F5EFE1}nav.top a.r{color:#F5EFE1;font-weight:700}h1{background:none;-webkit-text-fill-color:#2A1B10;color:#2A1B10}.sl-mast{padding:20px 0 28px;margin-bottom:28px;border-bottom:3px double #1D2620}.sl-kick{display:inline-block;font-size:12px;letter-spacing:.24em;color:#F5EFE1;background:#1D2620;padding:4px 12px;font-weight:700;border-radius:2px}.sl-mast h1{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;font-size:clamp(36px,9vw,56px);line-height:1.2;font-weight:700;letter-spacing:.08em;margin-top:8px}.sl-tag{font-size:17px;font-weight:700;margin-top:12px;padding-left:12px;border-left:4px solid #C98A2B}.sl-lead{font-size:15px;line-height:1.9;margin-top:12px;max-width:640px;color:#3D2C20}.sl-meta{display:grid;grid-template-columns:repeat(3,1fr);max-width:440px;margin-top:18px;border:1px solid #2A1B10;background:#FFFCF4}.sl-meta div{display:flex;flex-direction:column-reverse;padding:8px 10px;border-left:1px solid #2A1B10}.sl-meta div:first-child{border-left:0}.sl-meta dt{font-size:12px;color:#5C4636}.sl-meta dd{font-size:22px;font-weight:800;line-height:1.3}.chip{border-radius:6px;min-height:44px}.chip svg{fill:var(--c)}h2.sec{font-size:13px;font-weight:700;color:#2A1B10;letter-spacing:.12em}h2.cat{border-left:0;padding:12px 0 0;border-top:2px solid #1D2620;font-family:'Hiragino Mincho ProN','Yu Mincho',serif}.card{border-radius:8px}.card:hover{transform:none;border-color:#8A4512}.th{background:#EFE5D0}.tag{border-radius:4px}.ty{color:#FFFCF4;border-radius:4px}.about,.trust div,.faq details,.empty{border-radius:8px}.tbx,.tbgrid .tbi{border-radius:8px}.tbic{border-radius:6px;background:#EFE5D0}.tbgo{border-radius:6px;color:#FFFCF4}a:focus-visible,summary:focus-visible,button:focus-visible{border-radius:2px}main .gnav a{border-radius:6px;min-height:44px;display:inline-flex;align-items:center;font-weight:700;border-color:#2A1B10;font-size:14px}main .gnav a:first-child{background:#1D2620;border-color:#1D2620;color:#F5EFE1}footer{background:#1D2620;color:#E6DCC6;border-top:3px solid #C98A2B}footer a{color:#E6DCC6}.card{border-top:3px solid #1D2620}.sl-meta{border-color:#1D2620}.sl-meta div{border-color:#1D2620}.sl-tag{font-family:'Hiragino Mincho ProN','Yu Mincho',serif}main h1{font-family:'Hiragino Mincho ProN','Yu Mincho',serif}",
+ "articleCss": ".hero img,.related a,.prevnext a,.tbx,.tbgrid .tbi{border-radius:8px}.tbic,.tbgo{border-radius:6px}.related .rt{border-radius:4px}.tbx{border:1px solid var(--text);border-top:4px solid var(--accent2)}.tbgo{color:#FFFCF4}.related a:hover,.prevnext a:hover{border-color:var(--accent)}body>nav{background:#1D2620;border-bottom:3px solid #C98A2B}body>nav .nav-logo,body>nav a.r{color:#F5EFE1}h2.sec{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;border-top:2px solid #1D2620}.summary{border-color:#1D2620;border-top:4px solid #1D2620}.summary h2{display:inline-block;background:#1D2620;color:#F5EFE1;padding:2px 10px;border-radius:2px}footer{background:#1D2620;color:#E6DCC6;border-top:3px solid #C98A2B}footer a{color:#E6DCC6}"
 }
