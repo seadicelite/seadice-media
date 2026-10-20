@@ -1,5 +1,13 @@
 [
   {
+    "slug": "self-explanation-prompt-card",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-21",
+    "title": "読んでも頭に入らない人の「自己説明カード」と記録表。1段落ごとに自分に問いかける5つの質問（自己説明の研究から）",
+    "summary": "読みながら自分に説明すると理解は深まりやすい（g = 0.55）が時間がかかる。難しい段落で5つの問いを使い、説明できなかった所を記録する。"
+  },
+  {
     "slug": "split-screen-video-study-focus",
     "category": "集中・環境",
     "type": "guide",

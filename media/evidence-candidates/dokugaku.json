@@ -7336,5 +7336,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-self-explanation-prompt-card-worth-time",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "McEldoon, Durkin & Rittle-Johnson, \"Is self-explanation worth the time? A comparison to additional practice\" (British Journal of Educational Psychology, 2013)",
+    "sourceUrl": "https://doi.org/10.1111/j.2044-8279.2012.02083.x",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/self-explanation-prompt-card/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自分に説明すると身につく？",
+        "body": "「読んだら自分に説明してみよう」はよく聞く勉強法だよね。実際、説明させると理解が深まるという研究は多いんだ。でも、説明には時間がかかる。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ時間で問題を解いた組と比べた",
+        "body": "小学2〜4年生69人を、くじで3組に分けた実験。自分に説明する組、同じ時間で問題を多く解く組、同じ数の問題だけ解く組。算数の等式の問題を使ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差は思ったより小さかった",
+        "body": "同じ数の問題だけ解いた組よりは、説明した組の方が考え方も解き方も伸びた。でも、問題を多く解いた組と比べると、差は小さく一部の項目だけだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人の独学では？",
+        "body": "対象は小学生で、算数の短い練習の話。大人が教科書を読むときに、説明と問題練習のどちらに時間を使うのがよいかは、まだはっきりしていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
