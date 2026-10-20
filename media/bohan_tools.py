@@ -7,7 +7,7 @@
 - 詐欺かもチェック: SIGNS に項目を足す（記事が増えたら、その記事の結論から1〜2文で）
 - セルフ点検: TENKEN に項目を足す（記事の「今日からできること」から）
 - 空き巣の目で点検: AKISU に項目を足す（空き巣の記事の「今日からできること」から。段階は下見の3点）
-- 記事 → ツールのリンク（media/bohan-toollinks.json）は SIGNS / TENKEN の記事slugから自動で作る
+- 記事 → ツールのリンク（media/bohan-toollinks.json）は SIGNS / TENKEN の記事slugから自動で作る。本体のツールは HONTAI に書く（json を手で直すと消える）
 ページの型は docs/quality/tool.md。
 """
 import html
@@ -383,6 +383,7 @@ document.getElementById('am').addEventListener('submit',function(){
  if(ids.length){var s=ids.slice().sort(function(a,b){return D.items[a][4]-D.items[b][4]});
   h+='<div class="bt-card"><h3>先に直す3つ（手間の小さい順）</h3>'+s.slice(0,3).map(it).join('')+'</div>';
   if(s.length>3)h+='<div class="bt-card"><h3>ほかの隙と直し方</h3>'+s.slice(3).map(it).join('')+'</div>'}
+ h+='<div class="bt-card"><h3>毎日の点検はこちら</h3><p>家の隙を直したら、あとは出かけるたびの戸締まりです。外出の長さに合わせて玄関・窓・郵便受け・SNSをタップで確かめ、点検した時刻を残せます。外で「鍵閉めたっけ？」と思ったら、戻る前に記録を見るだけ。 <a href="https://seadice.win/tools/dekakeru-mae-tenken/">出かける前の30秒点検</a></p></div>';
  o.innerHTML=h;o.hidden=false;o.scrollIntoView({behavior:'smooth',block:'start'});
 });})();</script>""")
 
@@ -423,6 +424,17 @@ LINKS.setdefault("ai-era-scam-checklist", [])
 for p, n, d in TOOLS:
     if not any(x[0] == "/" + p + "/" for x in LINKS["ai-era-scam-checklist"]):
         LINKS["ai-era-scam-checklist"].append(["/" + p + "/", n, d])
+# 本体（seadice.win）のツール。記事のツール枠の先頭に出す（toollinks.json を手で直すと次の書き出しで消えるため、ここに書く）
+DEKAKE = ["https://seadice.win/tools/dekakeru-mae-tenken/", "出かける前の30秒点検",
+          "玄関・窓・郵便受け・SNSを外出の長さに合わせてタップ点検。点検した時刻が残り、外で「鍵閉めたっけ？」と思ったら見るだけ"]
+HONTAI = [
+    (s, DEKAKE) for s in ("window-glass-breaking-burglary", "burglary-daylight-darkness-risk", "vacation-empty-home-burglary")
+] + [
+    ("sns-photo-location-home", ["https://seadice.win/tools/shashin-ichijoho-keshi/", "写真の位置情報けし",
+                                 "SNSに上げる前に、写真に残った撮影場所（緯度・経度）を見せてから消す。写真は送らず端末の中だけで処理"]),
+]
+for s, row in HONTAI:
+    LINKS.setdefault(s, []).insert(0, row)
 
 if __name__ == "__main__":
     (ROOT / "media/bohan-pages.json").write_text(json.dumps(PAGES, ensure_ascii=False, indent=2) + "\n")
