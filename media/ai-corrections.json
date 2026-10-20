@@ -1,6 +1,13 @@
 [
  {
   "date": "2026-10-20",
+  "slug": "teacher-ai-grading-feedback-acceptance",
+  "before": "AIのコメントだと聞いた組のほうが文章をよく書き直しており",
+  "after": "AIのコメントだと聞いた組のほうが語句をよく置き換えており",
+  "why": "はっきり差が出たのは語句の置き換えだけで、書き直し全体の差は統計的に示されていなかったため"
+ },
+ {
+  "date": "2026-10-20",
   "slug": "ai-delivered-work-accused-payment-redo",
   "before": "専門家の読み手は人が書いた文章の多くを「AI」と判定し",
   "after": "論文を読んだ専門家5人は、人が書いた30本のうち13本を「AI」と判定しました",

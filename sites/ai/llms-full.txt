@@ -15470,7 +15470,7 @@ A. 自分が考えている使い方を1つ具体的に伝え、「これは範�
 
 - Joshi A, McGoldrick B, Mittal N, et al. (2026). Investigating the use of generative AI policies among ASPPH member schools and programs of public health. Frontiers in Public Health, 14, 1796810. https://doi.org/10.3389/fpubh.2026.1796810
 
-- Wang Y, Mi X, Tang W, Tang Y, Gao H (2026). How Generative AI Use Styles Shape Academic Engagement: The Roles of Academic Impostor Syndrome and AI Policy Clarity. Behavioral Sciences, 16. https://pmc.ncbi.nlm.nih.gov/articles/PMC13295589/
+- Wang Y, Mi X, Tang W, Tang Y, Gao H (2026). How Generative AI Use Styles Shape Academic Engagement: The Roles of Academic Impostor Syndrome and AI Policy Clarity. Behavioral Sciences, 16(6), 862. https://pmc.ncbi.nlm.nih.gov/articles/PMC13295589/
 
 ---
 
@@ -21231,7 +21231,7 @@ Webツール・登録不要・無料先に動く5分タイマーやる気を待�
 
 ## 02 研究とデータでわかっていること「AIが付けた」と聞くと、受け取り方は変わる？
 
-変わる傾向があります。中学生の実験では、AIが付けたと聞いた組で公平さと納得が下がりました。一方、留学生の実験では、AIのコメントだと聞いた組のほうが文章をよく書き直しており、受け取り方と使い方は別でした。
+変わる傾向があります。中学生の実験では、AIが付けたと聞いた組で公平さと納得が下がりました。一方、留学生の実験では、AIのコメントだと聞いた組のほうが語句をよく置き換えており、受け取り方と使い方は別でした。
 
 3.58対2.99同じ採点への公平さの評価。先生が付けたと聞いた組とAIと聞いた組（5段階、中国の中学1年生250人、2026年発表）
 
