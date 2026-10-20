@@ -3909,5 +3909,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/First_and_last_pages_of_the_Persian_dictionary_Farhang-e_Soruri.jpg/500px-First_and_last_pages_of_the_Persian_dictionary_Farhang-e_Soruri.jpg",
   "og": "https://dokugaku.seadice.win/img/english-vocabulary-frequency-priority-table.jpg",
   "local": true
+ },
+ "why-ai-help-makes-ideas-similar": {
+  "file": "File:Clickety Clackety - in Explore - Flickr - Thad Zajdowicz.jpg",
+  "src": "/img/why-ai-help-makes-ideas-similar.jpg",
+  "src640": "/img/why-ai-help-makes-ideas-similar-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "タイプライターの内部に並ぶ活字棒",
+  "artist": "Thad Zajdowicz from Altadena, California, USA",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Clickety_Clackety_-_in_Explore_-_Flickr_-_Thad_Zajdowicz.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Clickety_Clackety_-_in_Explore_-_Flickr_-_Thad_Zajdowicz.jpg/960px-Clickety_Clackety_-_in_Explore_-_Flickr_-_Thad_Zajdowicz.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Clickety_Clackety_-_in_Explore_-_Flickr_-_Thad_Zajdowicz.jpg/500px-Clickety_Clackety_-_in_Explore_-_Flickr_-_Thad_Zajdowicz.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-ai-help-makes-ideas-similar.jpg",
+  "local": true
  }
 }

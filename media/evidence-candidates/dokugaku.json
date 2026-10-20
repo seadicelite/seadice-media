@@ -7064,5 +7064,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-why-ai-help-makes-ideas-similar-story-diversity",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Doshi & Hauser, \"Generative AI enhances individual creativity but reduces the collective diversity of novel content\" (Science Advances, 2024)",
+    "sourceUrl": "https://doi.org/10.1126/sciadv.adn5290",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/why-ai-help-makes-ideas-similar/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIにネタをもらうと上手になる？",
+        "body": "作文のネタに困ったらAIに聞く人、多いよね。それで本当に面白い文章になるのか、実験で確かめた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "293人が8文の物語を書いた",
+        "body": "AIなし・AIのアイデアを1つ見られる・最大5つ見られる、の3グループに分けて、短い物語を書いてもらった。別の600人が読んで評価したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "評価は上がるけど、似てくる",
+        "body": "5つ見られた人の物語は、新しさの評価が8.1%上がった。でもAIを使った物語どうしは似ていて、AIのアイデアにも約5%近かったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く使うとどうなる？",
+        "body": "8文だけの物語で、AIとやりとりもできない設定だった。何か月もAIと書き続けたら個性や考える力がどう変わるかは、まだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
