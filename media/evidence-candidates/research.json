@@ -6777,5 +6777,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "research-nap-ruined-night-sleep-recovery-research-long-late-nap",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Leong et al., \"Bidirectional associations between the duration and timing of nocturnal sleep and daytime naps in adolescents differ from weekdays to weekends\" (Sleep, 2024)",
+    "sourceUrl": "https://doi.org/10.1093/sleep/zsae147",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/nap-ruined-night-sleep-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "昼寝をすると夜眠れなくなる？",
+        "body": "昼寝をしたら夜に目がさえた。だから昼寝は夜の敵、と思っている人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "高校生153人の昼寝と夜の睡眠",
+        "body": "Leongらは、シンガポールの高校生153人の睡眠を日誌と腕時計型の計測器で記録したんだ。昼寝は平均82分、始まりは平均で午後3時ごろだったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1時間長い昼寝で、夜は約29分短く",
+        "body": "学校がある日に、自分のふだんより1時間長く昼寝をすると、その夜の睡眠は約29分短くなっていた。週末は、昼寝から起きる時刻が遅いほど寝る時刻も遅れたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "進学校の高校生での話",
+        "body": "日々の記録から見えた関係で、昼寝が原因とまでは言い切れないよ。学業の負担が大きい学校の生徒が対象で、大人に同じように当てはまるかは別の話なんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
