@@ -6053,5 +6053,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-ai-control-sense-keep-share-prevent-automation-agency",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ueda S, Nakashima R & Kumada T, \"Influence of levels of automation on the sense of agency during continuous action\" (Scientific Reports, 2021)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-021-82036-3",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-control-sense-keep-share-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "機械に任せると「自分でやった感」は消える？",
+        "body": "AIや自動の機能に任せるほど楽になるけど、「これ、自分で決めたっけ？」って感じることがあるよね。どのくらい任せると、その感覚は薄れるんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "こっそり手助けするカーソル",
+        "body": "日本の理化学研究所の実験。動く目標をレバーでカーソルを動かして追いかけてもらい、コンピューターがこっそり手助けする割合を変えて「自分で操作している」感じを7段階で聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "9割までは保たれた",
+        "body": "手助けが80〜90%の条件では、自分だけで操作したときと差がなかったらしい。下がったのは95%と全自動の条件。「うまくできた」感じのほうは、手助けが増えるほど上がり続けたんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIの生活でも同じ？",
+        "body": "30人ずつの短い実験室の課題で、AIを使った実験じゃない。予定や文章をAIに任せる毎日でも同じ境目があるのか、心の状態とどう関係するのかはまだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

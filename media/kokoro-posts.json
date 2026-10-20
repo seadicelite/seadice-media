@@ -1,5 +1,14 @@
 [
   {
+    "slug": "ai-control-sense-keep-share-prevent",
+    "category": "AIとの付き合い方",
+    "type": "guide",
+    "stage": "予防する",
+    "date": "2026-10-20",
+    "title": "AIに任せるほど「自分で決めた」感覚が薄れそうで心配。日本の研究所の30人の実験では、機械の手助けが9割までなら操作している感覚は保たれ、95%以上では下がった",
+    "summary": "すべて任せきりにすると「自分で動かしている」感覚は下がりやすい。案を選ぶ・最後は自分で押す工夫を研究から整理しました。"
+  },
+  {
     "slug": "ai-chat-connection-differs-why",
     "category": "AIとの付き合い方",
     "type": "guide",
