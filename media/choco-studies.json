@@ -137,7 +137,7 @@
   "url": "https://doi.org/10.1021/acs.cgd.5c00269",
   "level": "数字確認",
   "finding": "カカオバターの結晶が溶ける温度は、IV型21.0〜33.0℃、V型30.0〜34.5℃、VI型33.5〜38.5℃（文献値の表）。ダークチョコは50℃超（多くは60℃）で溶かし、混ぜながら27〜29℃に冷まし、31〜32℃に戻してIV型を溶かす。溶ける温度は油脂の組成で変わる。",
-  "article": "temper-crystal-form-v,tempering-temperatures,seeding-method,fat-bloom-white,gloss-appearance"
+  "article": "temper-crystal-form-v,tempering-temperatures,seeding-method,fat-bloom-white,gloss-appearance,no-temper-just-chill,melting-point-mouth"
  },
  {
   "cat": "テンパリング",
@@ -217,7 +217,7 @@
   "url": "https://doi.org/10.1016/j.jfoodeng.2008.10.011",
   "level": "数字確認",
   "finding": "テンパリング不足のダークチョコを18±2℃・湿度50%で置くと、24時間以内にブルームが始まり、最初の96時間で白さが急に増えてつやが落ちた。72時間以内にIV型からVI型へ変わった。",
-  "article": ""
+  "article": "bloom-days"
  },
  {
   "cat": "口どけと保存",
@@ -337,7 +337,7 @@
   "url": "https://doi.org/10.1093/brain/124.9.1720",
   "level": "要旨で照合",
   "finding": "満腹を超えるまでチョコを1かけずつ食べてもらい脳を撮ると、おいしいと感じて食べたいときと、もう要らないのに食べるときで、働く脳の場所が違った。同じチョコでも、食べ続けると快が不快に変わった。",
-  "article": "chocolate-craving,want-another-piece"
+  "article": "chocolate-craving,want-another-piece,first-vs-third-bite"
  },
  {
   "cat": "感じ方",
@@ -537,7 +537,7 @@
   "url": "https://doi.org/10.1038/s41598-020-66820-1",
   "level": "数字確認",
   "finding": "白くなった市販チョコ3種類で、水1滴2分で溶ければ砂糖、40℃の金属10秒で溶ければ油の白さと判定した。",
-  "article": "fat-bloom-white"
+  "article": "fat-bloom-white,rescue-bloomed"
  },
  {
   "cat": "口どけと保存",
@@ -547,7 +547,7 @@
   "url": "https://inspection.canada.ca/en/food-safety-consumers/fact-sheets/specific-products-and-risks/commonly-occurring-issues-food/chocolate-bloom",
   "level": "数字確認",
   "finding": "ブルームは味が落ちることはあっても健康への害はなく、食べても焼き菓子に使ってもよい。涼しく乾いた場所での保存で防げる。",
-  "article": "fat-bloom-white"
+  "article": "fat-bloom-white,rescue-bloomed"
  },
  {
   "cat": "口どけと保存",
@@ -557,7 +557,7 @@
   "url": "https://doi.org/10.1111/j.1365-2621.2005.tb11491.x",
   "level": "要旨で照合",
   "finding": "テンパリングしないチョコの白さは、油が表面へ移るのではなく、育つ結晶が周りの油を引き寄せて油の少ない明るい部分ができるためと考えた。",
-  "article": "fat-bloom-white"
+  "article": "fat-bloom-white,no-temper-just-chill"
  },
  {
   "cat": "口どけと保存",
@@ -1057,7 +1057,7 @@
   "url": "https://doi.org/10.1002/jsfa.4592",
   "level": "要旨で照合",
   "finding": "95人で、ダークチョコの好き度の差は主に風味の好き嫌いから生まれた。長い焙煎はガーナ産では好き度を下げ、エクアドル産では変わらなかった。",
-  "article": "buy-again-liking"
+  "article": "buy-again-liking,dark-roast-better"
  },
  {
   "cat": "感じ方",
@@ -1157,7 +1157,7 @@
   "url": "https://doi.org/10.1016/j.foodres.2026.120345",
   "level": "数字確認",
   "finding": "16人が同じダークを噛む・溶かすで食べると、口にある時間は約52秒と約110秒。溶かすとカカオが早く主役になり、苦みが主役の時間が長くなった",
-  "article": "melt-flavor-release, aftertaste-temporal"
+  "article": "melt-flavor-release,aftertaste-temporal,vegetable-fat-melt"
  },
  {
   "cat": "口どけと保存",
@@ -1367,7 +1367,7 @@
   "url": "https://doi.org/10.1038/s41467-021-25206-1",
   "level": "要旨で照合",
   "finding": "きちんとテンパリングしたチョコは表面がなめらかでつやが高く、ブルームは表面の大きな結晶が光を散らして白く見えると説明。特定のリン脂質を加えるとテンパリングなしでV型に導けた。",
-  "article": "gloss-appearance"
+  "article": "gloss-appearance,no-temper-just-chill"
  },
  {
   "cat": "感じ方",
@@ -1448,5 +1448,655 @@
   "level": "要旨で照合",
   "finding": "108人がチョコレートミルク7種を表示あり・なしで評価。脂肪分の表示とブランドが好みと購入意向に影響し、有機の表示は購入判断に影響しなかった。",
   "article": "origin-story-label"
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "Dusart ら 2026",
+  "title": "Amino-Acid-Derived Toxins and Pyrazines in Chocolates and Cocoa-Free Chocolate Surrogates",
+  "journal": "Molecules",
+  "url": "https://doi.org/10.3390/molecules31071148",
+  "level": "数字確認",
+  "finding": "焙煎カカオのチョコ2種類はピラジンを感じる濃さを超えて含み、アミノ酸の少ないカカオなしの代用品では痕跡程度だった。リナロールはチョコに277〜320µg/kg",
+  "article": "roast-maillard-why"
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "de Brito ら 2002",
+  "title": "Effect of glucose and glycine addition to cocoa mass before roasting on Maillard precursor consumption and pyrazine formation",
+  "journal": "Journal of the Science of Food and Agriculture",
+  "url": "https://doi.org/10.1002/jsfa.1076",
+  "level": "要旨で照合",
+  "finding": "カカオマスの焙煎で遊離アミノ酸が56.2%減った。焙煎前にぶどう糖やグリシンを足してもピラジンの量は変わらなかった",
+  "article": "roast-maillard-why"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "Jinap ら 2008",
+  "title": "Aroma precursors and methylpyrazines in underfermented cocoa beans induced by endogenous carboxypeptidase",
+  "journal": "Journal of Food Science",
+  "url": "https://doi.org/10.1111/j.1750-3841.2008.00858.x",
+  "level": "要旨で照合",
+  "finding": "発酵1日目の豆からメチルピラジンが見つかり、3日間の発酵でテトラメチルピラジンが増えた",
+  "article": "roast-maillard-why"
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "Huang・Barringer 2010",
+  "title": "Alkylpyrazines and other volatiles in cocoa liquors at pH 5 to 8, by SIFT-MS",
+  "journal": "Journal of Food Science",
+  "url": "https://doi.org/10.1111/j.1750-3841.2009.01455.x",
+  "level": "要旨で照合",
+  "finding": "pHが7を超えるカカオマスではピラジン類とストレッカーアルデヒドが多かった",
+  "article": "roast-maillard-why"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Aprotosoaie ら 2016",
+  "title": "Flavor Chemistry of Cocoa and Cocoa Products — An Overview",
+  "journal": "Comprehensive Reviews in Food Science and Food Safety",
+  "url": "https://doi.org/10.1111/1541-4337.12180",
+  "level": "要旨で照合",
+  "finding": "カカオの香りの成分は約600種類が見つかっているが、成分と感じ方・できる仕組みの関係は十分にはわかっていない（総説）",
+  "article": "roast-maillard-why"
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "McClure ら 2022",
+  "title": "Optimizing consumer acceptability of 100% chocolate through roasting treatments and effects on bitterness and other important sensory characteristics",
+  "journal": "Current Research in Food Science",
+  "url": "https://doi.org/10.1016/j.crfs.2022.01.005",
+  "level": "数字確認",
+  "finding": "3産地の豆の砂糖なしチョコ27種を145人が評価。171℃20分などの強めの焙煎が好まれ、生や弱い焙煎は好まれなかった（好き度平均は9段階の3.2〜3.7）",
+  "article": "dark-roast-better"
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "Stanley ら 2018",
+  "title": "Impact of roasting on the flavan-3-ol composition, sensory-related chemistry, and in vitro pancreatic lipase inhibitory activity of cocoa beans",
+  "journal": "Food Chemistry",
+  "url": "https://doi.org/10.1016/j.foodchem.2018.02.036",
+  "level": "数字確認",
+  "finding": "40分の焙煎でポリフェノール全体が9.7〜39.9%減り、190℃でエピカテキンが98.6%減った。焦げ臭い成分は170℃40分と190℃でだけ見つかった",
+  "article": "roast-polyphenol-loss"
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "Misnawi ら 2004",
+  "title": "Sensory properties of cocoa liquor as affected by polyphenol concentration and duration of roasting",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/S0950-3293(03)00097-1",
+  "level": "要旨で照合",
+  "finding": "120℃で焙煎時間を延ばすと、ポリフェノール58〜143g/kgのカカオマスではチョコらしい風味が強まり、170g/kgでは弱まった",
+  "article": "dark-roast-better"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Payne ら 2010",
+  "title": "Impact of fermentation, drying, roasting, and Dutch processing on epicatechin and catechin content of cacao beans and cocoa ingredients",
+  "journal": "Journal of Agricultural and Food Chemistry",
+  "url": "https://doi.org/10.1021/jf102391q",
+  "level": "要旨で照合",
+  "finding": "発酵でカテキン類が80%超減り、乾燥の影響は小さく、豆温70℃超の焙煎でエピカテキンが減った。アルカリ処理でエピカテキン最大98%減（菓子メーカーの研究所）",
+  "article": "roast-polyphenol-loss"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Miller ら 2008",
+  "title": "Impact of alkalization on the antioxidant and flavanol content of commercial cocoa powders",
+  "journal": "Journal of Agricultural and Food Chemistry",
+  "url": "https://doi.org/10.1021/jf801670p",
+  "level": "要旨で照合",
+  "finding": "ココアパウダーのフラバノールは処理なし34.6mg/g、強いアルカリ処理3.9mg/gと、処理が強いほど直線的に減った（菓子メーカーの研究所）",
+  "article": "roast-polyphenol-loss"
+ },
+ {
+  "cat": "焙煎と練り",
+  "authors": "Ioannone ら 2015",
+  "title": "Flavanols, proanthocyanidins and antioxidant activity changes during cocoa (Theobroma cacao L.) roasting as affected by temperature and time of processing",
+  "journal": "Food Chemistry",
+  "url": "https://doi.org/10.1016/j.foodchem.2014.11.019",
+  "level": "要旨で照合",
+  "finding": "125〜145℃の焙煎で、温度が高いほどフラバノールの減る速さが上がったが、水分が同じなら高温短時間のほうがプロアントシアニジンの減りが小さかった",
+  "article": "roast-polyphenol-loss"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Di Mattia ら 2017",
+  "title": "From Cocoa to Chocolate: The Impact of Processing on In Vitro Antioxidant Activity and the Effects of Chocolate on Antioxidant Markers In Vivo",
+  "journal": "Frontiers in Immunology",
+  "url": "https://doi.org/10.3389/fimmu.2017.01207",
+  "level": "数字確認",
+  "finding": "焙煎でフラバノールの単量体は品種と温度により0〜95%減る。コンチングでの変化は約3%で有意でなかった（総説）",
+  "article": "roast-polyphenol-loss"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "Jinap ら 1994",
+  "title": "Effect of drying on acidity and volatile fatty acids content of cocoa beans",
+  "journal": "Journal of the Science of Food and Agriculture",
+  "url": "https://doi.org/10.1002/jsfa.2740650111",
+  "level": "要旨で照合",
+  "finding": "天日と送風で乾かした豆は酸の量に差がなくチョコの評価もよかった。60℃のオーブンで乾かした豆は揮発性の酸が多く、チョコの異臭が強かった",
+  "article": "drying-sour-beans"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "Haruna ら 2025",
+  "title": "Effects of Different Drying Techniques on the Post-Harvest Quality of Fermented Cocoa Beans in Ghana",
+  "journal": "Food Science & Nutrition",
+  "url": "https://doi.org/10.1002/fsn3.70715",
+  "level": "数字確認",
+  "finding": "天日乾燥の豆はpH 5.49、60℃のオーブンは5.06。オーブンは酢酸が少なく乳酸が多かった。味見はしていない",
+  "article": "drying-sour-beans"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "Streule ら 2024",
+  "title": "Effect of Pod Storage and Drying Temperature on Fermentation Dynamics and Final Bean Quality of Cacao Nacional in Ecuador",
+  "journal": "Foods",
+  "url": "https://doi.org/10.3390/foods13101536",
+  "level": "数字確認",
+  "finding": "80℃で乾かした豆は60℃より苦みと渋みが強く評価された（8人）。60℃の豆は発酵が8〜10時間長く、温度だけの効果かは不明",
+  "article": "drying-sour-beans"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "Dzelagha ら 2020",
+  "title": "A Review of Cocoa Drying Technologies and the Effect on Bean Quality Parameters",
+  "journal": "International Journal of Food Science",
+  "url": "https://doi.org/10.1155/2020/8830127",
+  "level": "数字確認",
+  "finding": "アフリカとアジアのカカオの60%超は産地で天日乾燥されている（総説）",
+  "article": "drying-sour-beans"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "FAO 2025",
+  "title": "FAOSTAT: Crops and livestock products (Cocoa beans)",
+  "journal": "FAOSTAT（国連食糧農業機関）",
+  "url": "https://www.fao.org/faostat/en/#data/QCL",
+  "level": "数字確認",
+  "finding": "2024年の世界のカカオ豆生産は523万3,245トン。コートジボワール36.1%、上位5か国で72.7%。2021年から2023年に11%減",
+  "article": "cacao-production-stats"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "ICCO 2026",
+  "title": "August 2026 Quarterly Bulletin of Cocoa Statistics（発表）",
+  "journal": "International Cocoa Organization",
+  "url": "https://www.icco.org/august-2026-quarterly-bulletin-of-cocoa-statistics/",
+  "level": "数字確認",
+  "finding": "2024/25年度の世界の生産は前年度比8.5%増の473.3万トン、すりつぶし量は3.3%減の464.9万トン",
+  "article": "cacao-production-stats"
+ },
+ {
+  "cat": "豆と発酵",
+  "authors": "Wessel・Quist-Wessel 2015",
+  "title": "Cocoa production in West Africa, a review and analysis of recent developments",
+  "journal": "NJAS – Wageningen Journal of Life Sciences",
+  "url": "https://doi.org/10.1016/j.njas.2015.09.001",
+  "level": "要旨で照合",
+  "finding": "西アフリカの生産増は主に畑の拡大によるもので、病気・木の老化・土の養分不足で収量は低い（総説）",
+  "article": "cacao-production-stats"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Bickel Haase ら 2021",
+  "title": "Aroma Properties of Cocoa Fruit Pulp from Different Origins",
+  "journal": "Molecules",
+  "url": "https://doi.org/10.3390/molecules26247618",
+  "level": "数字確認",
+  "finding": "4か国のカカオの果肉からにおう成分65種類を同定。花のようなリナロールが最も強い部類に入った。ファインフレーバーに合意された定義はない",
+  "article": "fruity-floral-cacao"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Chetschik ら 2018",
+  "title": "Investigations on the Aroma of Cocoa Pulp (Theobroma cacao L.) and Its Influence on the Odor of Fermented Cocoa Beans",
+  "journal": "Journal of Agricultural and Food Chemistry",
+  "url": "https://doi.org/10.1021/acs.jafc.6b05008",
+  "level": "要旨で照合",
+  "finding": "CCN51の果肉は香りが弱く、ほかの2品種は花・果物の香りが強かった。発酵中、リナロールは果肉より豆に多かった",
+  "article": "fruity-floral-cacao"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Cevallos-Cevallos ら 2018",
+  "title": "Time-Related Changes in Volatile Compounds during Fermentation of Bulk and Fine-Flavor Cocoa (Theobroma cacao) Beans",
+  "journal": "Journal of Food Quality",
+  "url": "https://doi.org/10.1155/2018/1758381",
+  "level": "要旨で照合",
+  "finding": "同じ産地の3品種の発酵で、クリオロからリナロールなど花・果物の成分、フォラステロからも花や甘い香りの成分が出た",
+  "article": "fruity-floral-cacao"
+ },
+ {
+  "cat": "テンパリング",
+  "authors": "Stobbs JA ほか 2025",
+  "title": "Dimyristoylphosphoethanolamine Addition During Chocolate Manufacture Promotes Proper Tempering under Simple Cooling Conditions without Shear",
+  "journal": "Crystal Growth & Design",
+  "url": "https://doi.org/10.1021/acs.cgd.5c00575",
+  "level": "数字確認",
+  "finding": "約34℃に冷まして型に流し18℃で48時間固めただけのチョコは、内部に割れ目が網のように広がった。リン脂質DMPEを0.1%足したものは2年以上白くならなかった",
+  "article": "no-temper-just-chill"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Zhao H, Young AK, James BJ 2018",
+  "title": "Effects of Fat Polymorphic Transformation and Nonfat Particle Size Distribution on the Surface Changes of Untempered Model Chocolate, Based on Solid Cocoa Mass",
+  "journal": "Journal of Food Science",
+  "url": "https://doi.org/10.1111/1750-3841.14108",
+  "level": "要旨で照合",
+  "finding": "テンパリングしないチョコのモデルを25日保存すると、IV型→V型の変化で表面が変わり、最も大きく変わったのは最初の6日だった",
+  "article": "bloom-days"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Zhao H, James BJ 2019",
+  "title": "Fat bloom formation on model chocolate stored under steady and cycling temperatures",
+  "journal": "Journal of Food Engineering",
+  "url": "https://doi.org/10.1016/j.jfoodeng.2018.12.008",
+  "level": "要旨で照合",
+  "finding": "20℃一定では白くなりにくく、20↔29℃・20↔32℃のくり返しでは油が表面へ移った。32℃まで上げるほうが早く白くなった",
+  "article": "bloom-days"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Hřivna L ほか 2021",
+  "title": "Texture, color, and sensory changes occurring in chocolate bars with filling during storage",
+  "journal": "Food Science & Nutrition",
+  "url": "https://doi.org/10.1002/fsn3.2434",
+  "level": "数字確認",
+  "finding": "詰め物入りのダーク・ミルクチョコは6℃・12℃で26週まで評価がはっきり落ちず、20℃では10週から口どけと味、26週で白くなりやすさが悪化した",
+  "article": "bloom-days"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Zhao Q ほか 2025",
+  "title": "Effect of temperature cycling rate on fat bloom and microstructure of dark chocolate in tropical conditions",
+  "journal": "Food Chemistry",
+  "url": "https://doi.org/10.1016/j.foodchem.2025.144556",
+  "level": "要旨で照合",
+  "finding": "20℃と32℃の間を10回くり返す条件で、冷ます速さが速いほど白くなるのが遅れた",
+  "article": "bloom-days"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Molard B, Maraval I ほか 2026",
+  "title": "Effect of palm oil and shea butter addition on chocolate rheology, aroma release and sensory perception: a mixture design of experiment approach",
+  "journal": "Food Chemistry",
+  "url": "https://doi.org/10.1016/j.foodchem.2026.148561",
+  "level": "要旨で照合",
+  "finding": "カカオバターの一部をパーム油・シアバターに置きかえると、機械で測る香りの出方は変わったが（7.5%で+33〜40%）、人の評価で香りの感じ方に差はなく、食感と流れやすさが主に変わった",
+  "article": "vegetable-fat-melt"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "European Parliament and Council 2000",
+  "title": "Directive 2000/36/EC relating to cocoa and chocolate products intended for human consumption",
+  "journal": "EU指令",
+  "url": "https://www.legislation.gov.uk/eudr/2000/36/annex/II",
+  "level": "数字確認",
+  "finding": "カカオバター以外の植物の油は、カカオバターと性質の近い6種類に限り製品の5%まで。使ったときは目立つ表示が必要",
+  "article": "vegetable-fat-melt"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Joshi BL, Zielbauer BI, Vilgis TA 2020",
+  "title": "Comparative Study on Mixing Behavior of Binary Mixtures of Cocoa Butter/Tristearin (CB/TS) and Cocoa Butter/Coconut Oil (CB/CO)",
+  "journal": "Foods",
+  "url": "https://doi.org/10.3390/foods9030327",
+  "level": "数字確認",
+  "finding": "カカオバターとココナッツ油は、ココナッツ油65%の割合で低い温度でまとまって溶ける共晶になり、それ以外では混ざりきらず分かれた",
+  "article": "vegetable-fat-melt"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Galak J, Kruger J, Loewenstein G 2013",
+  "title": "Slow Down! Insensitivity to Rate of Consumption Leads to Avoidable Satiation",
+  "journal": "Journal of Consumer Research",
+  "url": "https://doi.org/10.1086/666597",
+  "level": "数字確認",
+  "finding": "学生45人が一口サイズのチョコ6個を食べると好き度は1個ごとに下がり、自分で間を決めた組（平均約93秒）は200秒おきの組の約3倍の速さで下がった。",
+  "article": "first-vs-third-bite"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Hetherington M, Rolls BJ, Burley VJ 1989",
+  "title": "The time course of sensory-specific satiety",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1016/0195-6663(89)90068-8",
+  "level": "要旨で照合",
+  "finding": "食べたものの好ましさは食べた2分後に一番下がり、一番好まれた食べ物では1時間で一部戻った（女性、チョコ以外の食べ物）。",
+  "article": "first-vs-third-bite"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Garbinsky EN, Morewedge CK, Shiv B 2014",
+  "title": "Interference of the end: why recency bias in memory determines when a food is consumed again",
+  "journal": "Psychological Science",
+  "url": "https://doi.org/10.1177/0956797614534268",
+  "level": "要旨で照合",
+  "finding": "クラッカーを15枚食べた学生は3枚の学生より最後のおいしさが低く、同じ品を受け取る時期を遅く選んだ。最後の記憶が最初の記憶を妨げる。",
+  "article": "remember-and-rebuy"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Robinson E 2014",
+  "title": "Relationships between expected, online and remembered enjoyment for food products",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1016/j.appet.2013.11.012",
+  "level": "要旨で照合",
+  "finding": "64人で、3つのお菓子のうち2つは翌日に思い出したおいしさが食べていたときより低く、思い出したおいしさが次の期待をよく説明した。",
+  "article": "remember-and-rebuy"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Rode E, Rozin P, Durlach P 2007",
+  "title": "Experienced and remembered pleasure for meals: duration neglect but minimal peak, end (recency) or primacy effects",
+  "journal": "Appetite",
+  "url": "https://doi.org/10.1016/j.appet.2006.09.006",
+  "level": "要旨で照合",
+  "finding": "食事の記憶では、最高の皿・最初・最後の皿の効果は見られず、好きな皿を長く食べても記憶はほとんど変わらなかった。",
+  "article": "remember-and-rebuy"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Robinson E, Blissett J, Higgs S 2012",
+  "title": "Changing memory of food enjoyment to increase food liking, choice and intake",
+  "journal": "British Journal of Nutrition",
+  "url": "https://doi.org/10.1017/s0007114511007021",
+  "level": "要旨で照合",
+  "finding": "食べた直後においしかった点を思い返すと記憶のおいしさが上がり、翌日の昼食でその食べ物を多く選んだ。",
+  "article": "remember-and-rebuy"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Mony P ほか 2013",
+  "title": "Temperature of served water can modulate sensory perception and acceptance of food",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/j.foodqual.2012.12.002",
+  "level": "要旨で照合",
+  "finding": "4℃の水で口をすすいだあとは、20℃・50℃のあとよりダークチョコの甘さ・風味・クリーミーさと好き度が低かった。チーズでは差がなかった（38人）。",
+  "article": "serving-temperature"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "McNeill H ほか 2025",
+  "title": "It tastes sweeter when melted: Exploring the impact of food temperature on tongue temperature and perceived sweetness/vanilla",
+  "journal": "Science Talks",
+  "url": "https://doi.org/10.1016/j.sctalk.2025.100424",
+  "level": "数字確認",
+  "finding": "22人で、温かいカスタードは舌37.3℃・甘さ20.5、凍ったものは舌27.1℃・甘さ13.3。舌の温度と甘さの相関は弱かった（r=0.234）。",
+  "article": "serving-temperature,melting-point-mouth"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Talavera K ほか 2005",
+  "title": "Heat activation of TRPM5 underlies thermal sensitivity of sweet taste",
+  "journal": "Nature",
+  "url": "https://doi.org/10.1038/nature04248",
+  "level": "要旨で照合",
+  "finding": "甘さを伝えるTRPM5は15〜35℃で温かいほど強く働き、マウスでは温度が上がると甘いものへの神経の反応が大きくなった。",
+  "article": "serving-temperature"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Dicolla CB ほか 2019",
+  "title": "Descriptive sensory analysis of heat-resistant milk chocolates",
+  "journal": "Food Science & Nutrition",
+  "url": "https://doi.org/10.1002/fsn3.1047",
+  "level": "数字確認",
+  "finding": "訓練された7人の評価で、基準の試作ミルクチョコの舌で溶け出すまでの点数は24℃5.9、29℃3.7、38℃1.8、割れる強さは12.7・4.7・1.9。菓子会社の一部支援。",
+  "article": "melting-point-mouth"
+ },
+ {
+  "cat": "口どけと保存",
+  "authors": "Ozdemir O ほか 2026",
+  "title": "Influence of Cocoa Liquor Origin on Cocoa Butter Composition and Color, Texture, and Rheological Properties of Milk and Dark Chocolates: A Preliminary Study",
+  "journal": "Food Science & Nutrition",
+  "url": "https://doi.org/10.1002/fsn3.72130",
+  "level": "数字確認",
+  "finding": "3産地のカカオバターは14〜15℃台で溶け始め、35〜36℃ですべて溶けた（DSC、カカオバターのみ）。",
+  "article": "melting-point-mouth"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Markey O, Lovegrove JA, Methven L 2015",
+  "title": "Sensory profiles and consumer acceptability of a range of sugar-reduced products on the UK market",
+  "journal": "Food Research International",
+  "url": "https://doi.org/10.1016/j.foodres.2015.03.012",
+  "level": "数字確認",
+  "finding": "116人の試食で、砂糖を糖アルコールに替えたミルクチョコは味・食感・見た目の好き度が低かったが、全体の好き度と購入意向に有意差はなかった。45%の組は元の品を好んだ。",
+  "article": "less-sugar-rebuy"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Panidi K ほか 2025",
+  "title": "Opposing effects of sugar-free claims on perceived healthiness and sweetness reduce consumers' willingness to pay for sugar-free products",
+  "journal": "Frontiers in Nutrition",
+  "url": "https://doi.org/10.3389/fnut.2025.1644753",
+  "level": "数字確認",
+  "finding": "50人・60品の写真で、「砂糖不使用」の表示は健康そうに見せて付け値を上げ、おいしくなさそうに見せて下げ、合計の差はなかった。",
+  "article": "less-sugar-rebuy"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Wise PM ほか 2016",
+  "title": "Reduced dietary intake of simple sugars alters perceived sweet taste intensity but not perceived pleasantness",
+  "journal": "The American Journal of Clinical Nutrition",
+  "url": "https://doi.org/10.3945/ajcn.115.112300",
+  "level": "要旨で照合",
+  "finding": "砂糖を減らした食事を3か月続けた人はプリンを約40%甘く評価したが、おいしさの評価は変わらなかった。",
+  "article": "less-sugar-rebuy"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "総務省統計局 2007・2012・2017",
+  "title": "家計ミニトピックス（チョコレートへの支出／チョコレートの季節）",
+  "journal": "家計調査通信",
+  "url": "https://www.stat.go.jp/data/kakei/tsushin/pdf/29_2.pdf",
+  "level": "数字確認",
+  "finding": "2016年2月の支出は1世帯1,376円で月平均の2.8倍。2006年2月は14日までに月の85%。支出が一番多い月は1970年の12月から2月に変わった。",
+  "article": "japan-valentine-stats"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "総務省統計局 2026",
+  "title": "家計調査（二人以上の世帯）品目別都道府県庁所在市及び政令指定都市ランキング（2023年〜2025年平均）",
+  "journal": "家計調査",
+  "url": "https://www.stat.go.jp/data/kakei/5.html",
+  "level": "数字確認",
+  "finding": "チョコへの年間支出は全国1世帯7,057円、さいたま市8,393円が最多、青森市5,726円が最少。チョコ菓子は2,577円。",
+  "article": "japan-valentine-stats"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Judelson DA ら 2013",
+  "title": "Effects of theobromine and caffeine on mood and vigilance",
+  "journal": "Journal of Clinical Psychopharmacology",
+  "url": "https://doi.org/10.1097/JCP.0b013e3182905d24",
+  "level": "要旨で照合",
+  "finding": "男性24人で、テオブロミン100〜400mgでは気分・注意力に一貫した変化なし。カフェイン100mgでだるさが減り元気さが上がった。共著者にチョコメーカーの研究者。",
+  "article": "theobromine-caffeine-body"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Mitchell ES ら 2011",
+  "title": "Differential contributions of theobromine and caffeine on mood, psychomotor performance and blood pressure",
+  "journal": "Physiology & Behavior",
+  "url": "https://doi.org/10.1016/j.physbeh.2011.07.027",
+  "level": "要旨で照合",
+  "finding": "女性24人で、カフェイン120mgは覚醒感を上げ、テオブロミン700mgは3時間後の落ち着きを下げ1時間後の血圧を下げた（食品会社の研究所）。",
+  "article": "theobromine-caffeine-body"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Baggott MJ ら 2013",
+  "title": "Psychopharmacology of theobromine in healthy volunteers",
+  "journal": "Psychopharmacology",
+  "url": "https://doi.org/10.1007/s00213-013-3021-0",
+  "level": "要旨で照合",
+  "finding": "80人で、テオブロミン250mgは主観的な効果が小さく、多い量では気分を悪くし、量に応じて心拍が上がった。",
+  "article": "theobromine-caffeine-body"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Smit HJ ら 2004",
+  "title": "Methylxanthines are the psycho-pharmacologically active constituents of chocolate",
+  "journal": "Psychopharmacology",
+  "url": "https://doi.org/10.1007/s00213-004-1898-3",
+  "level": "要旨で照合",
+  "finding": "ダークチョコ50g分のカフェイン19mg＋テオブロミン250mgで、ココアパウダーと同じく元気さの気分と反応課題が偽薬より良くなった（20人・22人）。",
+  "article": "theobromine-caffeine-body"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "U.S. Department of Agriculture",
+  "title": "FoodData Central (SR Legacy) 170273 ほか",
+  "journal": "FoodData Central",
+  "url": "https://fdc.nal.usda.gov/",
+  "level": "数字確認",
+  "finding": "100gあたり ダーク70〜85% テオブロミン802mg・カフェイン80mg、ミルク205・20mg、ココアパウダー2057・230mg、ホワイト0・0mg。",
+  "article": "theobromine-caffeine-body, kids-caffeine"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "EFSA 2015",
+  "title": "Caffeine（科学的意見の解説ページ）",
+  "journal": "European Food Safety Authority",
+  "url": "https://www.efsa.europa.eu/en/topics/topic/caffeine",
+  "level": "数字確認",
+  "finding": "大人は1回200mg・1日400mgまで懸念なし、寝る前100mgで眠りに影響の人も。子ども・青少年は1日3mg/kg。3〜10歳の主な取り口は多くの国でチョコ。板チョコ50gで約25mg。",
+  "article": "theobromine-caffeine-body, kids-caffeine"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Wikoff D ら 2017",
+  "title": "Systematic review of the potential adverse effects of caffeine consumption in healthy adults, pregnant women, adolescents, and children",
+  "journal": "Food and Chemical Toxicology",
+  "url": "https://doi.org/10.1016/j.fct.2017.04.002",
+  "level": "要旨で照合",
+  "finding": "380研究のうち子ども（3〜11歳）は2%。2.5mg/kg以下で調べた項目に大きな悪影響なしだが、子どもの眠り・頭痛・心臓はデータ不足。ILSI北米支部と業界団体の資金（要点は Doepker 2018 の本文で確認）。",
+  "article": "kids-caffeine"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Doepker C ら 2018",
+  "title": "Key findings and implications of a recent systematic review of the potential adverse effects of caffeine consumption in healthy adults, pregnant women, adolescents, and children",
+  "journal": "Nutrients",
+  "url": "https://doi.org/10.3390/nu10101536",
+  "level": "数字確認",
+  "finding": "上の系統的レビューの要点を一般向けにまとめたもの。研究の79%は大人、青少年4%、子ども2%。資金元の記載あり。",
+  "article": "kids-caffeine"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Temple JL ら 2014",
+  "title": "Cardiovascular responses to caffeine by gender and pubertal stage",
+  "journal": "Pediatrics",
+  "url": "https://doi.org/10.1542/peds.2013-3962",
+  "level": "要旨で照合",
+  "finding": "8〜9歳と15〜17歳の101人にカフェイン1・2mg/kg。心拍・血圧の反応は量と性別で変わり、男女差は思春期のあとで見られた。",
+  "article": "kids-caffeine"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "Health Canada",
+  "title": "Caffeine in foods",
+  "journal": "Health Canada",
+  "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/food-additives/caffeine-foods/foods.html",
+  "level": "数字確認",
+  "finding": "18歳までの子ども・青少年は1日2.5mg/kg。ミルクチョコ28gで7mg、ココア1杯5mgなど。",
+  "article": "kids-caffeine"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "厚生労働省",
+  "title": "食品に含まれるカフェインの過剰摂取についてQ&A",
+  "journal": "厚生労働省",
+  "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000170477.html",
+  "level": "数字確認",
+  "finding": "日本も国際的にもカフェインのADIは未設定。カナダ保健省2010年の年齢別（4〜6歳45mg、7〜9歳62.5mg、10〜12歳85mg）を紹介。",
+  "article": "kids-caffeine"
+ },
+ {
+  "cat": "体と安全",
+  "authors": "食品安全委員会",
+  "title": "ファクトシート 食品中のカフェイン",
+  "journal": "食品安全委員会",
+  "url": "https://www.fsc.go.jp/factsheets/index.data/factsheets_caffeine.pdf",
+  "level": "数字確認",
+  "finding": "各国の目安を一覧。寝る前の約1.4mg/kgで子どもや青少年でも睡眠障害が起こり得るとするEFSAの見方を紹介。",
+  "article": "kids-caffeine"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Donadini G・Fumi MD 2014",
+  "title": "An investigation on the appropriateness of chocolate to match tea and coffee",
+  "journal": "Food Research International",
+  "url": "https://doi.org/10.1016/j.foodres.2014.05.038",
+  "level": "要旨で照合",
+  "finding": "80人の試食で、コーヒーはお茶よりチョコに合うと好まれた。カカオ99%は好まれにくく、味が釣り合うと好まれ、チョコの味が勝つと大きく下がった。",
+  "article": "pairing-coffee-wine"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Donadini G ら 2012",
+  "title": "The hedonic response to chocolate and beverage pairing: A preliminary study",
+  "journal": "Food Research International",
+  "url": "https://doi.org/10.1016/j.foodres.2012.06.009",
+  "level": "要旨で照合",
+  "finding": "18種の飲み物×3種のチョコを80人が評価。バルサミコ酢・リキュールワイン・コーヒー・ポートワインが幅広く合った。組み合わせの好みは飲み物の好みに強く左右された。",
+  "article": "pairing-coffee-wine"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Luchian CE ら 2023",
+  "title": "Studies on the enhancement of sparkling wine and chocolate pairing through compositional profile analysis",
+  "journal": "Foods",
+  "url": "https://doi.org/10.3390/foods12183516",
+  "level": "数字確認",
+  "finding": "50人がスパークリングワイン14種×チョコ5種の合い方を0〜10点で評価。カカオ70%と甘口ロゼが8.33点、95%は多くのワインと合いにくかった。ワインは1生産者。",
+  "article": "pairing-coffee-wine"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Januszewska R ら 2020",
+  "title": "Impact of vanilla origins on sensory characteristics of chocolate",
+  "journal": "Food Research International",
+  "url": "https://doi.org/10.1016/j.foodres.2020.109313",
+  "level": "要旨で照合",
+  "finding": "3産地のバニラを白とミルクのチョコで比較。産地差はチョコの中で小さくなり、白いチョコで目立った。主役はグアイアコールとバニリン。消費者の好みに平均で有意差なし。著者はチョコ原料・バニラ原料の会社。",
+  "article": "vanilla-spice-aroma"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Albak F・Tekin AR 2015",
+  "title": "Effect of cinnamon powder addition during conching on the flavor of dark chocolate mass",
+  "journal": "Journal of Food Science and Technology",
+  "url": "https://doi.org/10.1007/s13197-013-1217-2",
+  "level": "数字確認",
+  "finding": "シナモン粉4.2%を練りの最初に入れ7時間練ると、26成分中11が香りとして感じられ、シナモンアルデヒドが練った後にできた。ざらつき・硬さは好まれにくかった。",
+  "article": "vanilla-spice-aroma"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Bertelsen AS ら 2020",
+  "title": "Cross-modal effect of vanilla aroma on sweetness of different sweeteners among Chinese and Danish consumers",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/j.foodqual.2020.104036",
+  "level": "要旨で照合",
+  "finding": "中国159人・デンマーク161人とも、バニラの香りを足した試料を甘いと評価。デンマークのほうが上がり方が大きかった。",
+  "article": "vanilla-spice-aroma"
+ },
+ {
+  "cat": "香りと味",
+  "authors": "Sakai N ら 2001",
+  "title": "Enhancement of sweetness ratings of aspartame by a vanilla odor presented either by orthonasal or retronasal routes",
+  "journal": "Perceptual and Motor Skills",
+  "url": "https://doi.org/10.2466/pms.2001.92.3c.1002",
+  "level": "要旨で照合",
+  "finding": "バニラの香りを鼻から・口の奥からのどちらで出しても、アスパルテーム液の甘さの評価が上がった。においの感覚で起きると考えられる。",
+  "article": "vanilla-spice-aroma"
  }
 ]

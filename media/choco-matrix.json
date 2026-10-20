@@ -40,6 +40,9 @@
         ],
         "use": [
           "https://choco.seadice.win/tool/"
+        ],
+        "myth": [
+          "no-temper-just-chill"
         ]
       }
     },
@@ -52,6 +55,15 @@
         ],
         "make": [
           "particle-size-smooth"
+        ],
+        "use": [
+          "https://choco.seadice.win/notebook/"
+        ],
+        "myth": [
+          "vegetable-fat-melt"
+        ],
+        "data": [
+          "melting-point-mouth"
         ]
       }
     },
@@ -64,6 +76,12 @@
         ],
         "myth": [
           "storage-fridge"
+        ],
+        "make": [
+          "rescue-bloomed"
+        ],
+        "data": [
+          "bloom-days"
         ]
       }
     },
@@ -76,6 +94,12 @@
         ],
         "myth": [
           "origin-variety-flavor"
+        ],
+        "make": [
+          "drying-sour-beans"
+        ],
+        "data": [
+          "cacao-production-stats"
         ]
       }
     },
@@ -86,6 +110,15 @@
         "make": [
           "roasting-temperature",
           "conching-time"
+        ],
+        "why": [
+          "roast-maillard-why"
+        ],
+        "myth": [
+          "dark-roast-better"
+        ],
+        "data": [
+          "roast-polyphenol-loss"
         ]
       }
     },
@@ -95,6 +128,15 @@
       "cells": {
         "why": [
           "aroma-key-odorants"
+        ],
+        "use": [
+          "https://choco.seadice.win/notebook/"
+        ],
+        "myth": [
+          "fruity-floral-cacao"
+        ],
+        "make": [
+          "vanilla-spice-aroma"
         ]
       }
     },
@@ -111,6 +153,12 @@
         ],
         "make": [
           "salt-contrast-inclusions"
+        ],
+        "use": [
+          "https://choco.seadice.win/notebook/"
+        ],
+        "myth": [
+          "pairing-coffee-wine"
         ]
       }
     },
@@ -123,6 +171,15 @@
         ],
         "myth": [
           "chocolate-craving"
+        ],
+        "use": [
+          "https://choco.seadice.win/notebook/"
+        ],
+        "make": [
+          "serving-temperature"
+        ],
+        "data": [
+          "first-vs-third-bite"
         ]
       }
     },
@@ -140,6 +197,12 @@
           "gloss-appearance",
           "packaging-crossmodal",
           "shape-sweetness"
+        ],
+        "use": [
+          "https://choco.seadice.win/notebook/"
+        ],
+        "data": [
+          "japan-valentine-stats"
         ]
       }
     },
@@ -153,6 +216,15 @@
         "myth": [
           "price-expectation-taste",
           "origin-story-label"
+        ],
+        "use": [
+          "https://choco.seadice.win/notebook/"
+        ],
+        "why": [
+          "remember-and-rebuy"
+        ],
+        "make": [
+          "less-sugar-rebuy"
         ]
       }
     },
@@ -168,6 +240,12 @@
         ],
         "use": [
           "dog-chocolate-theobromine"
+        ],
+        "why": [
+          "theobromine-caffeine-body"
+        ],
+        "make": [
+          "kids-caffeine"
         ]
       }
     }
