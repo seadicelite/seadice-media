@@ -6155,5 +6155,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "kokoro-comparison-savoring-recover-meta",
+    "category": "比べて落ち込む",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Chen PH, Tung HH, Wu YC, Sie J, \"Effectiveness of savoring interventions: A systematic review and meta-analysis of randomized controlled trials\" (Applied Psychology: Health and Well-Being, 2026)",
+    "sourceUrl": "https://doi.org/10.1111/aphw.70134",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/comparison-savoring-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "よいことを「味わう」だけで変わる？",
+        "body": "おいしい物をゆっくり食べる、景色に足を止める。そんな「味わう」練習で、心の状態って本当に変わるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "20件の試験・4,805人をまとめた",
+        "body": "くじで組を分けて味わう練習を試した20件の試験をまとめた研究。高齢者や学生、病気の人を介護する家族など、大人が対象だよ。練習期間の中央値は14日。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果の大きさは中くらい",
+        "body": "全体の効果の大きさは0.51で中くらい。前向きな気持ちが増え、落ち込みや不安の症状も軽くなっていたんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "比べると効果は小さめ",
+        "body": "時間や手間をそろえた別の練習と比べた試験では0.30と小さめで、研究によるばらつきも大きかった。偏りを補正する方法の一つでは、ほぼ0になったよ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]

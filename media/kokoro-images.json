@@ -4945,5 +4945,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fergus%2C_Ontario_%2821651876170%29.jpg/500px-Fergus%2C_Ontario_%2821651876170%29.jpg",
   "og": "https://mentalai.seadice.win/img/loneliness-neighbor-kindness-recover-og.jpg",
   "local": true
+ },
+ "comparison-savoring-recover": {
+  "file": "File:Cup of tea at the Gorreana tea factory.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cup_of_tea_at_the_Gorreana_tea_factory.jpg/960px-Cup_of_tea_at_the_Gorreana_tea_factory.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cup_of_tea_at_the_Gorreana_tea_factory.jpg/500px-Cup_of_tea_at_the_Gorreana_tea_factory.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "温かい紅茶の入ったカップ",
+  "artist": "Kritzolina",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cup_of_tea_at_the_Gorreana_tea_factory.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
