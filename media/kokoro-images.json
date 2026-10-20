@@ -5030,5 +5030,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Washbasin%2C_shaving_brush%2C_shaving%2C_towel_Fortepan_100080.jpg/500px-Washbasin%2C_shaving_brush%2C_shaving%2C_towel_Fortepan_100080.jpg",
   "og": "https://mentalai.seadice.win/img/work-pressure-cold-face-og.jpg",
   "local": true
+ },
+ "distracted-focus-short-meditation": {
+  "file": "File:Guy Bradley Ballroom at the Visitor Center in Flamingo (53413028199).jpg",
+  "src": "/img/distracted-focus-short-meditation.webp",
+  "src640": "/img/distracted-focus-short-meditation-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "大きな窓のある静かなホールと丸テーブル",
+  "artist": "evergladesnps",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Guy_Bradley_Ballroom_at_the_Visitor_Center_in_Flamingo_(53413028199).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Guy_Bradley_Ballroom_at_the_Visitor_Center_in_Flamingo_%2853413028199%29.jpg/960px-Guy_Bradley_Ballroom_at_the_Visitor_Center_in_Flamingo_%2853413028199%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Guy_Bradley_Ballroom_at_the_Visitor_Center_in_Flamingo_%2853413028199%29.jpg/500px-Guy_Bradley_Ballroom_at_the_Visitor_Center_in_Flamingo_%2853413028199%29.jpg",
+  "og": "https://mentalai.seadice.win/img/distracted-focus-short-meditation-og.jpg",
+  "local": true
  }
 }

@@ -6325,5 +6325,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-distracted-focus-short-meditation-10min",
+    "category": "考える力・集中",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hughes ZD, Ball LJ, Atanasov P, Judge J, \"Examining the Impact of Brief Mindfulness Practice on Sustained Attention, Attentional Inhibition and Convergent Thinking\" (Journal of Intelligence, 2025)",
+    "sourceUrl": "https://doi.org/10.3390/jintelligence13090119",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/distracted-focus-short-meditation/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "10分の瞑想で、集中は戻る？",
+        "body": "気が散って仕事に戻れないとき、少し瞑想するといいって聞くよね。でも、たった10分で本当に何か変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "瞑想とオーディオブックで比べた",
+        "body": "英国の学生117人の実験では、10分のマインドフルネスの音声に従う組と、10分のオーディオブックを聞く組に分けたよ。そのあと、注意の課題と、ひらめきを使うパズルをしてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "注意の課題は、瞑想の組がよかった",
+        "body": "瞑想の組は、数字に反応し続ける課題で正確さを落とさずに反応が速く、矢印の課題では正確さが高かった。でも、パズルの成績には差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "仕事の集中にも効くかは不明",
+        "body": "組分けは申し込み順の番号で、くじ引きのような無作為ではなかった。課題は実験室のもので、効果がどのくらい続くかや、実際の仕事に効くかはまだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
