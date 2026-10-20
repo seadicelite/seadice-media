@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-moral-advice-influence-know",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-21",
+  "title": "迷ったとき、AIに「どうするのが正しい？」と聞くと答えに流される？研究では、同じ問いでも賛成と反対の答えが出て、読んだ人の判断はその向きに動き、8割は「助言がなくても同じだった」と答えていた",
+  "summary": "米国767人の実験で、AIの道徳の助言は賛否がぶれるのに判断を動かし、8割が影響を自覚していなかった。賛否両方の理由を聞くなど、流されにくい聞き方。"
+ },
+ {
   "slug": "sns-recommendation-anger-posts-prepare",
   "category": "心の疲れ・比べて落ち込む",
   "type": "guide",
