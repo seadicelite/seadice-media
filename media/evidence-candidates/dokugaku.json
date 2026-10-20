@@ -7268,5 +7268,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-indoor-plants-study-desk-checklist-plants-focus",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Han et al., \"Effects of Indoor Plants on Human Functions: A Systematic Review with Meta-Analyses\" (International Journal of Environmental Research and Public Health, 2022)",
+    "sourceUrl": "https://doi.org/10.3390/ijerph19127454",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/indoor-plants-study-desk-checklist/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "観葉植物で集中力アップ？",
+        "body": "「机に緑を置くと集中できる」ってよく聞くよね。勉強部屋に観葉植物を買おうか迷っている人もいるかも。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "植物の研究をまとめて分析",
+        "body": "台湾の研究者が、室内の植物と人の働きを調べた42件の研究を整理して、そのうち16件を統計でまとめたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "集中への効果はほぼゼロ",
+        "body": "注意の課題を調べた3研究・177人をまとめると、効果の大きさはほぼゼロ（−0.005）。植物で集中力が上がるとは言えなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "成績の話は研究が2つだけ",
+        "body": "成績は植物ありの方が高かったけど、たった2研究・119人で、1つは質が低いと評価された研究。著者たちも慎重に読むよう書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

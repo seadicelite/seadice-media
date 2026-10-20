@@ -4011,5 +4011,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hallway%2C_Frederick_C._Robie_House%2C_Woodlawn_Avenue_and_58th_Street%2C_Hyde_Park%2C_Chicago%2C_IL_-_54213894999.jpg/500px-Hallway%2C_Frederick_C._Robie_House%2C_Woodlawn_Avenue_and_58th_Street%2C_Hyde_Park%2C_Chicago%2C_IL_-_54213894999.jpg",
   "og": "https://dokugaku.seadice.win/img/method-of-loci-route-sheet.jpg",
   "local": true
+ },
+ "indoor-plants-study-desk-checklist": {
+  "file": "File:DFC 2281 Two small potted cacti with rounded clustered forms sit side by side on a windowsill a calm seaside view blurred in the background.jpg",
+  "src": "/img/indoor-plants-study-desk-checklist.jpg",
+  "src640": "/img/indoor-plants-study-desk-checklist-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "窓ぎわに並んだ小さな鉢植えのサボテン",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DFC_2281_Two_small_potted_cacti_with_rounded_clustered_forms_sit_side_by_side_on_a_windowsill_a_calm_seaside_view_blurred_in_the_background.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/DFC_2281_Two_small_potted_cacti_with_rounded_clustered_forms_sit_side_by_side_on_a_windowsill_a_calm_seaside_view_blurred_in_the_background.jpg/960px-DFC_2281_Two_small_potted_cacti_with_rounded_clustered_forms_sit_side_by_side_on_a_windowsill_a_calm_seaside_view_blurred_in_the_background.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/DFC_2281_Two_small_potted_cacti_with_rounded_clustered_forms_sit_side_by_side_on_a_windowsill_a_calm_seaside_view_blurred_in_the_background.jpg/500px-DFC_2281_Two_small_potted_cacti_with_rounded_clustered_forms_sit_side_by_side_on_a_windowsill_a_calm_seaside_view_blurred_in_the_background.jpg",
+  "og": "https://dokugaku.seadice.win/img/indoor-plants-study-desk-checklist.jpg",
+  "local": true
  }
 }
