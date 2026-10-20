@@ -3823,5 +3823,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Apsco_Vacuhold_pencil_sharpener_13.jpg/500px-Apsco_Vacuhold_pencil_sharpener_13.jpg",
   "og": "https://dokugaku.seadice.win/img/exam-wrapper-reflection-sheet-og.jpg",
   "local": true
+ },
+ "why-weekend-sleep-in-monday-study": {
+  "file": "File:Before sunrise from my bedroom window (13658114934).jpg",
+  "src": "/img/why-weekend-sleep-in-monday-study.webp",
+  "src640": "/img/why-weekend-sleep-in-monday-study-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "日の出前の空と、明かりのともる町",
+  "artist": "Murray Foubister",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Before_sunrise_from_my_bedroom_window_(13658114934).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Before_sunrise_from_my_bedroom_window_%2813658114934%29.jpg/960px-Before_sunrise_from_my_bedroom_window_%2813658114934%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Before_sunrise_from_my_bedroom_window_%2813658114934%29.jpg/500px-Before_sunrise_from_my_bedroom_window_%2813658114934%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-weekend-sleep-in-monday-study-og.jpg",
+  "local": true
  }
 }

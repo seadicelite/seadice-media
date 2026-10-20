@@ -6894,5 +6894,39 @@
       }
     ],
     "addedAt": "2026-10-20"
+  },
+  {
+    "id": "dokugaku-why-weekend-sleep-in-monday-study-social-jetlag-grades",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Haraszti et al., \"Social jetlag negatively correlates with academic performance in undergraduates\" (Chronobiology International, 2014)",
+    "sourceUrl": "https://doi.org/10.3109/07420528.2013.879164",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/why-weekend-sleep-in-monday-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く話",
+        "title": "週末の寝坊で、月曜がつらい",
+        "body": "休日に遅くまで寝ると、月曜の朝がかえってしんどい。平日と休日の寝る時刻のずれは「社会的時差ぼけ」と呼ばれているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生の小テストの点とくらべた",
+        "body": "ハンガリーの大学で753人が睡眠の質問票に答え、そのうち247人の成績と照らし合わせたよ。毎週の小テストの平均点と、平日と休日のずれの大きさを見たんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "授業期間だけ、ずれと点が関係",
+        "body": "授業が決まった時刻にある期間は、ずれが大きい人ほど小テストの点が低かった。予定のない試験期間には関係が消えたらしい。休日に遅く寝る人は、朝のテストで点が低かったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ずれが原因とは言い切れない",
+        "body": "一時点の観察研究なので、ずれが点を下げたとは言えない。カナダの大学生を3年間追った別の研究では、ずれは学業を予測しなかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-20"
   }
 ]
