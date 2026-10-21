@@ -5241,7 +5241,7 @@
   "src640": "/img/busy-workload-ai-dependence-prevent-sm.webp",
   "w": 960,
   "h": 640,
-  "alt": "机の上に開いたノート",
+  "alt": "砂浜に置かれた開いたノート",
   "artist": "Shixart1985",
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
@@ -5301,6 +5301,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Footpath_through_Syon_Park_-_geograph.org.uk_-_8153991.jpg/960px-Footpath_through_Syon_Park_-_geograph.org.uk_-_8153991.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Footpath_through_Syon_Park_-_geograph.org.uk_-_8153991.jpg/500px-Footpath_through_Syon_Park_-_geograph.org.uk_-_8153991.jpg",
   "og": "https://mentalai.seadice.win/img/work-stress-activity-tracking-prevent-og.jpg",
+  "local": true
+ },
+ "job-hunting-sns-comparison-prevent": {
+  "file": "File:An open notebook on a sandy beach.jpg",
+  "src": "/img/job-hunting-sns-comparison-prevent.jpg",
+  "src640": "/img/job-hunting-sns-comparison-prevent-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "砂浜に置かれた開いたノート",
+  "artist": "rawpixel.com rawpixel",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:An_open_notebook_on_a_sandy_beach.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/An_open_notebook_on_a_sandy_beach.jpg/960px-An_open_notebook_on_a_sandy_beach.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/An_open_notebook_on_a_sandy_beach.jpg/500px-An_open_notebook_on_a_sandy_beach.jpg",
+  "og": "https://mentalai.seadice.win/img/job-hunting-sns-comparison-prevent.jpg",
   "local": true
  }
 }
