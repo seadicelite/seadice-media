@@ -3042,5 +3042,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Champagnole_Avenue_de_la_Republique._Sidewalk_cafe._Spielvogel_2013.JPG/500px-Champagnole_Avenue_de_la_Republique._Sidewalk_cafe._Spielvogel_2013.JPG",
   "og": "https://ai.seadice.win/img/ai-health-disinformation-prepare.jpg",
   "local": true
+ },
+ "deepfake-lingering-impression-rebuild": {
+  "file": "File:Autumn leaves (Unsplash).jpg",
+  "src": "/img/deepfake-lingering-impression-rebuild.jpg",
+  "src640": "/img/deepfake-lingering-impression-rebuild-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "落ち葉が積もった木のベンチ",
+  "artist": "Annie Spratt",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Autumn_leaves_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Autumn_leaves_%28Unsplash%29.jpg/960px-Autumn_leaves_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Autumn_leaves_%28Unsplash%29.jpg/500px-Autumn_leaves_%28Unsplash%29.jpg",
+  "og": "https://ai.seadice.win/img/deepfake-lingering-impression-rebuild.jpg",
+  "local": true
  }
 }

@@ -1,5 +1,14 @@
 [
  {
+  "slug": "deepfake-lingering-impression-rebuild",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-21",
+  "title": "AIの偽動画だとわかったのに、その人への悪い印象が抜けない。研究では、偽物と知らされていても内容に引きずられる人が多く、取り消された疑いは2日後まで評価を下げていた",
+  "summary": "偽物と先に知らされても半数あまりが動画の内容で判断し、取り消された疑いは2日後も評価を下げた。本当だったことを言葉にし、事実で判断する。"
+ },
+ {
   "slug": "ai-health-disinformation-prepare",
   "category": "偽情報・ディープフェイク",
   "type": "guide",
