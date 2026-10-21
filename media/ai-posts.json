@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-health-disinformation-prepare",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-21",
+  "title": "AIで作られた、もっともらしい健康情報にどう備える？研究では、AIが23分で37本の偽のがん情報ブログを書き、偽の文献や体験談まで付けていた",
+  "summary": "AIは偽の健康ブログを量産でき、文献の多くは架空だった。見た目に頼らず、共有前の一呼吸と文献1本の確認、治療を変える前の相談で備える。"
+ },
+ {
   "slug": "romance-scam-ai-partner-feelings-linger",
   "category": "詐欺・なりすまし",
   "type": "guide",

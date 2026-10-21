@@ -3024,5 +3024,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hot_Coffee_on_a_rainy_day_-_Flickr_-_DeaPeaJay.jpg/500px-Hot_Coffee_on_a_rainy_day_-_Flickr_-_DeaPeaJay.jpg",
   "og": "https://ai.seadice.win/img/romance-scam-ai-partner-feelings-linger-og.jpg",
   "local": true
+ },
+ "ai-health-disinformation-prepare": {
+  "file": "File:Champagnole Avenue de la Republique. Sidewalk cafe. Spielvogel 2013.JPG",
+  "src": "/img/ai-health-disinformation-prepare.jpg",
+  "src640": "/img/ai-health-disinformation-prepare-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "カフェのテーブルに置かれたコーヒーカップ",
+  "artist": "Spielvogel",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Champagnole_Avenue_de_la_Republique._Sidewalk_cafe._Spielvogel_2013.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Champagnole_Avenue_de_la_Republique._Sidewalk_cafe._Spielvogel_2013.JPG/960px-Champagnole_Avenue_de_la_Republique._Sidewalk_cafe._Spielvogel_2013.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Champagnole_Avenue_de_la_Republique._Sidewalk_cafe._Spielvogel_2013.JPG/500px-Champagnole_Avenue_de_la_Republique._Sidewalk_cafe._Spielvogel_2013.JPG",
+  "og": "https://ai.seadice.win/img/ai-health-disinformation-prepare.jpg",
+  "local": true
  }
 }
