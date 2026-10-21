@@ -5518,5 +5518,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gym_Dumbbells_For_Working_Out_%28193383405%29.jpeg/500px-Gym_Dumbbells_For_Working_Out_%28193383405%29.jpeg",
   "og": "https://mentalai.seadice.win/img/fitspiration-workout-posts-comparison-why.jpg",
   "local": true
+ },
+ "awe-moments-loneliness-prevent": {
+  "file": "File:Pirogue running on the Mekong at sunset with pink clouds in Don Det Laos.jpg",
+  "src": "/img/awe-moments-loneliness-prevent.jpg",
+  "src640": "/img/awe-moments-loneliness-prevent-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "夕焼けの空と雲",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_sunset_with_pink_clouds_in_Don_Det_Laos.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pirogue_running_on_the_Mekong_at_sunset_with_pink_clouds_in_Don_Det_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_sunset_with_pink_clouds_in_Don_Det_Laos.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pirogue_running_on_the_Mekong_at_sunset_with_pink_clouds_in_Don_Det_Laos.jpg/500px-Pirogue_running_on_the_Mekong_at_sunset_with_pink_clouds_in_Don_Det_Laos.jpg",
+  "og": "https://mentalai.seadice.win/img/awe-moments-loneliness-prevent.jpg",
+  "local": true
  }
 }

@@ -7447,5 +7447,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-awe-moments-loneliness-prevent-diary",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ugurlu Ö, Zerwas F, Monroy M, et al., \"Experiencing awe in daily life is linked to lower loneliness\" (Scientific Reports, 2026)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-34864-w",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/awe-moments-loneliness-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「すごい」と感じた日は寂しくない？",
+        "body": "夕焼けや星空、人の親切に「すごい」と心を動かされた日って、なんとなく寂しさを忘れている気がしない？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "22日間、毎晩つけた日記",
+        "body": "米国の医療職171人と地域の大人306人が、22日間、毎晩その日の気持ちを答えた日記を分析したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "心が動いた日ほど孤独が少なかった",
+        "body": "同じ人の中で比べると、「すごい」という気持ち（畏敬の念）がふだんより強かった日ほど、孤独感が少なかった。感謝の気持ちを差し引いても残ったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "増やせば寂しさは減る？",
+        "body": "これは関連で、くじで組を分けた実験じゃない。動画などで畏敬の念を起こす実験では、以前の結果がほとんど再現されなかった研究もあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
