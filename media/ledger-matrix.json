@@ -216,7 +216,8 @@
      "specific-saving-goal-works",
      "automatic-saving-works",
      "envelope-partition-saving",
-     "savings-goal-visualization-progress-bar-research"
+     "savings-goal-visualization-progress-bar-research",
+     "cashless-roundup-saving-effect"
     ],
     "after": [
      "savings-withdrawal-restart"

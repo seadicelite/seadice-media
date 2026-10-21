@@ -1813,5 +1813,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amiga500_system.jpg/500px-Amiga500_system.jpg",
   "og": "https://ledger.seadice.win/img/dark-patterns-why-we-fall-for-them.jpg",
   "local": true
+ },
+ "cashless-roundup-saving-effect": {
+  "file": "File:Box, money (AM 2006.32.23-2).jpg",
+  "src": "/img/cashless-roundup-saving-effect.jpg",
+  "src640": "/img/cashless-roundup-saving-effect-sm.jpg",
+  "w": 960,
+  "h": 596,
+  "alt": "郵便貯金の貯金箱",
+  "artist": "Post Office Savings Bank",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Box,_money_(AM_2006.32.23-2).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Box%2C_money_%28AM_2006.32.23-2%29.jpg/960px-Box%2C_money_%28AM_2006.32.23-2%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Box%2C_money_%28AM_2006.32.23-2%29.jpg/500px-Box%2C_money_%28AM_2006.32.23-2%29.jpg",
+  "og": "https://ledger.seadice.win/img/cashless-roundup-saving-effect.jpg",
+  "local": true
  }
 }
