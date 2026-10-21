@@ -4217,5 +4217,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/P1090247%284x3%29-Rosmarinus_officinalis_%2841960388224%29.jpg/500px-P1090247%284x3%29-Rosmarinus_officinalis_%2841960388224%29.jpg",
   "og": "https://dokugaku.seadice.win/img/rosemary-scent-memory-before-exam-og.jpg",
   "local": true
+ },
+ "tidy-desk-clutter-focus": {
+  "file": "File:Messy translator desk with mini neko.jpg",
+  "src": "/img/tidy-desk-clutter-focus.webp",
+  "src640": "/img/tidy-desk-clutter-focus-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "散らかった机の上",
+  "artist": "Arria Belli",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Messy_translator_desk_with_mini_neko.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Messy_translator_desk_with_mini_neko.jpg/960px-Messy_translator_desk_with_mini_neko.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Messy_translator_desk_with_mini_neko.jpg/500px-Messy_translator_desk_with_mini_neko.jpg",
+  "og": "https://dokugaku.seadice.win/img/tidy-desk-clutter-focus-og.jpg",
+  "local": true
  }
 }

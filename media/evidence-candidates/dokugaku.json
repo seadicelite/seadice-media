@@ -7705,5 +7705,73 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-tidy-desk-clutter-focus-messy-desk-creativity",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Manzi et al., \"Workspace Disorder Does Not Influence Creativity and Executive Functions\" (Frontiers in Psychology, 2019)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2018.02662",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/tidy-desk-clutter-focus/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "散らかった机は創造的？",
+        "body": "「天才の机は散らかっている」「散らかった机の方がアイデアが出る」って聞くよね。2013年には、散らかった部屋の方が創造的な答えが出たという実験も発表されたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "100人で追試",
+        "body": "アメリカの大学の研究者たちが、100人（平均22.9歳）を片付いた机と散らかった机にくじで分けて、2種類の創造性のテストと、注意や判断の課題をしてもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差は出なかった",
+        "body": "創造性のテストでも、注意や判断の課題でも、片付いた机と散らかった机で差はなかった。著者らは「効果はあったとしても小さく、当てにならない」とまとめている。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "同じ手順ではない",
+        "body": "使った物や採点方法は元の実験と違う、考え方を確かめる追試。短い時間の実験で、何年も同じ机で働く場合のことはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-tidy-desk-clutter-focus-decorated-classroom",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Fisher et al., \"Visual environment, attention allocation, and learning in young children: when too much of a good thing may be bad\" (Psychological Science, 2014)",
+    "sourceUrl": "https://doi.org/10.1177/0956797614533801",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/tidy-desk-clutter-focus/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "にぎやかな教室は学びに良い？",
+        "body": "教室の壁には、ポスターや作品がたくさん貼ってあることが多いよね。楽しそうだけど、授業の集中にはどう影響するんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "幼稚園児24人の6回の授業",
+        "body": "アメリカの研究で、幼稚園児24人が実験用の教室で理科の授業を6回受けた。3回は壁を飾った部屋、3回は飾りを外した部屋だったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "飾りが多いと学ぶ量が減った",
+        "body": "飾りの多い部屋では、周りを見て気が散る時間が長くなり、授業の内容を覚えた量も少なかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "目新しさのせいかも",
+        "body": "別の研究者がデータを見直すと、回を重ねるごとに気が散る時間は減っていた。飾りが珍しかっただけかもしれない。子ども24人の研究で、大人の勉強机に当てはまるかはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
