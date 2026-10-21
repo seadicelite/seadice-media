@@ -7909,5 +7909,73 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-small-print-hard-to-read-adult-study-paper-vs-tablet",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kretzschmar et al., \"Subjective impressions do not mirror online reading effort: Concurrent EEG-eyetracking evidence from the reading of books and digital media\" (PLoS ONE, 2013)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0056178",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/small-print-hard-to-read-adult-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "画面より紙の方が読みやすい？",
+        "body": "本はやっぱり紙が一番、画面は読みにくい。そう感じる人は多いよね。実際この実験でも、参加者の多くが紙を好んだらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "紙・電子書籍端末・タブレットで読み比べ",
+        "body": "ドイツで若い人35人と60〜77歳の21人が、同じ文字の大きさの文章を3つの媒体で読んだ。目の動きと脳波を記録して、読むときの負担を比べたんだって。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "年配の人はタブレットの方が楽そうだった",
+        "body": "60〜77歳の人はタブレットで読むと目の止まる時間が短かった。若い人では差はなし。理解の正しさはどれも同じ。著者らは、光る画面で文字がくっきり見えたからと考えているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "短い文章の実験だった",
+        "body": "読んだのは短い文章だけで、長く読み続けたときはわからない。研究には書籍業界の会社から資金が出ていた（著者らは影響はないとしている）。"
+      }
+    ],
+    "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-small-print-hard-to-read-adult-study-dim-light-age",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Peñaloza et al., \"Age-Related Changes in Mesopic Reading Vision Across Adulthood\" (Investigative Ophthalmology & Visual Science, 2025)",
+    "sourceUrl": "https://doi.org/10.1167/iovs.66.3.40",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/small-print-hard-to-read-adult-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "年をとると、暗い所で字が読みにくい？",
+        "body": "夜の部屋で本を読むと、若いころより読みにくい気がする。それ、気のせいじゃないかもしれない。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "18〜84歳の157人で読み比べ",
+        "body": "米国で、目の病気のない157人が、明るい画面と暗い画面で文を音読した。近くを見るメガネはかけたうえで、読む速さと読める文字の大きさを測ったらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "暗い所ほど、年齢の差が大きい",
+        "body": "20歳から80歳にかけて、最も速く読める速さは1分あたり約30語落ちた。速く読める最小の文字の大きさは、暗い画面の方が大きく広がったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "同じ人を追った研究ではない",
+        "body": "年齢の違う人を一度に比べた研究で、同じ人が年をとってどう変わるかは見ていない。短い文の音読なので、長く読み続けたときの負担もわからない。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

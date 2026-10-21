@@ -4324,5 +4324,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Top_view_of_headphones_hanging_from_a_desk_%28Unsplash%29.jpg/500px-Top_view_of_headphones_hanging_from_a_desk_%28Unsplash%29.jpg",
   "og": "https://dokugaku.seadice.win/img/english-pronunciation-practice-how-to.jpg",
   "local": true
+ },
+ "small-print-hard-to-read-adult-study": {
+  "file": "File:Reading glasses .jpg",
+  "src": "/img/small-print-hard-to-read-adult-study.jpg",
+  "src640": "/img/small-print-hard-to-read-adult-study-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "読書用の眼鏡",
+  "artist": "Mk2010",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Reading_glasses_.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Reading_glasses_.jpg/960px-Reading_glasses_.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Reading_glasses_.jpg/500px-Reading_glasses_.jpg",
+  "og": "https://dokugaku.seadice.win/img/small-print-hard-to-read-adult-study.jpg",
+  "local": true
  }
 }
