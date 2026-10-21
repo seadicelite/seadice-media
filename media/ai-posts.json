@@ -1,5 +1,14 @@
 [
  {
+  "slug": "wearable-health-data-ai-analysis-before",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-22",
+  "title": "スマートウォッチや健康アプリの記録を、AIに分析させても大丈夫？研究では健康アプリの88%に利用者のデータを集めうる仕組みがあり、つなぐ前に渡す項目と行き先を確かめる",
+  "summary": "歩数や睡眠の記録をAIに分析させても大丈夫？健康アプリの多くに外部へ渡しうる仕組みがあった。渡す項目・行き先・消し方を先に確かめる。"
+ },
+ {
   "slug": "anonymized-ai-consult-still-identifiable",
   "category": "プライバシー・個人情報",
   "type": "guide",
