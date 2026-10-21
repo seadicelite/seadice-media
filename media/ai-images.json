@@ -3060,5 +3060,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Autumn_leaves_%28Unsplash%29.jpg/500px-Autumn_leaves_%28Unsplash%29.jpg",
   "og": "https://ai.seadice.win/img/deepfake-lingering-impression-rebuild.jpg",
   "local": true
+ },
+ "fake-recording-of-me-evidence-what-to-do": {
+  "file": "File:TASCAM Ministudio PortaOne - 4 track cassette tape recorder (c.1986).jpg",
+  "src": "/img/fake-recording-of-me-evidence-what-to-do.jpg",
+  "src640": "/img/fake-recording-of-me-evidence-what-to-do-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "カセットテープレコーダー",
+  "artist": "Jose Mesa from island of Tenerife, Canary Islands, Spain",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:TASCAM_Ministudio_PortaOne_-_4_track_cassette_tape_recorder_(c.1986).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TASCAM_Ministudio_PortaOne_-_4_track_cassette_tape_recorder_%28c.1986%29.jpg/960px-TASCAM_Ministudio_PortaOne_-_4_track_cassette_tape_recorder_%28c.1986%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TASCAM_Ministudio_PortaOne_-_4_track_cassette_tape_recorder_%28c.1986%29.jpg/500px-TASCAM_Ministudio_PortaOne_-_4_track_cassette_tape_recorder_%28c.1986%29.jpg",
+  "og": "https://ai.seadice.win/img/fake-recording-of-me-evidence-what-to-do.jpg",
+  "local": true
  }
 }

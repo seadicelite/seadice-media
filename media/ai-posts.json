@@ -1,5 +1,14 @@
 [
  {
+  "slug": "fake-recording-of-me-evidence-what-to-do",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-22",
+  "title": "身に覚えのない発言の録音や動画を突きつけられた。AIの偽物だと思うとき、研究では人の耳も判定ツールも決め手にならず、まず元のファイルと自分の記録をそろえる",
+  "summary": "言っていない発言の録音や動画を見せられたら。人の耳も判定ツールも決め手にならず、元のファイルと入手経路、自分のその日の記録をそろえるのが先。"
+ },
+ {
   "slug": "deepfake-lingering-impression-rebuild",
   "category": "偽情報・ディープフェイク",
   "type": "guide",
