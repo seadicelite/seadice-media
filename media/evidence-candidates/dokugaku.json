@@ -8113,5 +8113,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-evening-exercise-cant-sleep-study-reset-evening-exercise",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Stutz et al., \"Effects of Evening Exercise on Sleep in Healthy Participants: A Systematic Review and Meta-Analysis\" (Sports Medicine, 2019)",
+    "sourceUrl": "https://doi.org/10.1007/s40279-018-1015-0",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/evening-exercise-cant-sleep-study-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "夜に運動すると眠れなくなる？",
+        "body": "「寝る前の運動は目がさえるからダメ」ってよく聞くよね。夜しか運動の時間がない人には気になる話。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "23の研究をまとめた",
+        "body": "健康な大人が夜に1回運動した日と、しなかった日の睡眠を比べた23の研究をまとめた分析があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "眠りはむしろ少し深くなった",
+        "body": "夜の運動で、深い眠りの割合は1.3ポイント増えていたらしい。著者らは「夜の運動が睡眠を悪くするという考えは支持されない」とまとめている。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "寝る直前の激しい運動は別",
+        "body": "寝る1時間前までに終わる激しい運動では、寝つきや睡眠時間が悪くなる可能性があるとされる。調べたのは1回だけの運動で、毎日続けた場合の話ではないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
