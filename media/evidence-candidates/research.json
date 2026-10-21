@@ -7797,5 +7797,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-disliked-food-repeated-tasting-how-research-fava-beans",
+    "category": "食べもの",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Jakobsen et al., \"A Comparison of Mere-Exposure, Flavor-Flavor and Flavor-Nutrient Learning Strategies in Enhancing Legume Preferences in an Adult Sample\" (Foods, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/foods15162884",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/disliked-food-repeated-tasting-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "大人でも苦手な味に慣れる？",
+        "body": "子どもは何度も食べると野菜に慣れるって聞くけど、大人になってからでも好みって変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3週間でそら豆を12回",
+        "body": "そら豆を食べ慣れていないデンマークの大人70人が、家で3週間に12回食べた研究があるんだ。そのまま、スパイス味、油を足す、の3組に分けたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "そのまま食べた組だけ好みが上がった",
+        "body": "そのまま食べた組は、好みが9段階で5.09から6.41に上がった。スパイスや油を足した組では上がらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数が少ない",
+        "body": "1組20人ほどの小さな研究で、小さな差は見逃しているかも。似たバタービーンズの好みは変わらず、慣れは食べた物だけだったよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

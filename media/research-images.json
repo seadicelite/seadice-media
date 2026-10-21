@@ -4441,5 +4441,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Man_turns_drying_chili_peppers%2C_Turkey.jpg/500px-Man_turns_drying_chili_peppers%2C_Turkey.jpg",
   "og": "https://research.seadice.win/img/spicy-food-mouth-burn-milk-recovery-research.jpg",
   "local": true
+ },
+ "disliked-food-repeated-tasting-how-research": {
+  "file": "File:Broad bean pods (3).jpg",
+  "src": "/img/disliked-food-repeated-tasting-how-research.jpg",
+  "src640": "/img/disliked-food-repeated-tasting-how-research-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "さやに入ったそら豆",
+  "artist": "Fumikas Sagisavas",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Broad_bean_pods_(3).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Broad_bean_pods_%283%29.jpg/960px-Broad_bean_pods_%283%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Broad_bean_pods_%283%29.jpg/500px-Broad_bean_pods_%283%29.jpg",
+  "og": "https://research.seadice.win/img/disliked-food-repeated-tasting-how-research.jpg",
+  "local": true
  }
 }
