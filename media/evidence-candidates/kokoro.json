@@ -7277,5 +7277,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-ai-dependence-exercise-recover-six-months-sport",
+    "category": "AIとの付き合い方",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hu G et al., \"Artificial intelligence addiction among university students in China: risk stratification, consequences, and exercise-based intervention\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1779639",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-dependence-exercise-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIに頼りすぎ、運動で変わる？",
+        "body": "気づくとAIを開いてばかり。体を動かす時間を増やしたら、AIとの付き合い方も変わるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "週3回・90分を半年",
+        "body": "中国の大学生241人に調べると、約38%がAIへの頼りすぎの「リスクあり」の範囲だった。そのうち30人が、好きなスポーツを週3回・1回90分、半年続けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "点数は下がっていた",
+        "body": "頼りすぎの点数（16〜80点）は平均48.9点から34.5点に下がって、30人のうち25人が「ふつうの使い方」の範囲に入ったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "比べる組がない",
+        "body": "運動しなかった人と比べていないので、運動のおかげかどうかはわからない。質問も研究者が作ったもので、著者ら自身も「予備的な結果」と書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

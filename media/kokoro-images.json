@@ -5428,5 +5428,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Music_Sheet%2C_Alla_Turca.jpg/500px-Music_Sheet%2C_Alla_Turca.jpg",
   "og": "https://mentalai.seadice.win/img/singing-info-fatigue.jpg",
   "local": true
+ },
+ "ai-dependence-exercise-recover": {
+  "file": "File:Shuttlecock on a badminton court.jpg",
+  "src": "/img/ai-dependence-exercise-recover.jpg",
+  "src640": "/img/ai-dependence-exercise-recover-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "コートに置かれたバドミントンのシャトル",
+  "artist": "Syed Ahmad Fathi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Shuttlecock_on_a_badminton_court.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Shuttlecock_on_a_badminton_court.jpg/960px-Shuttlecock_on_a_badminton_court.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Shuttlecock_on_a_badminton_court.jpg/500px-Shuttlecock_on_a_badminton_court.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-dependence-exercise-recover.jpg",
+  "local": true
  }
 }
