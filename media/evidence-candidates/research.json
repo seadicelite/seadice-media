@@ -7695,5 +7695,73 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-dog-ate-chocolate-what-to-do-research-christmas",
+    "category": "食べもの",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Noble et al., \"Heightened risk of canine chocolate exposure at Christmas and Easter\" (Veterinary Record, 2017)",
+    "sourceUrl": "https://doi.org/10.1136/vr.104762",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/dog-ate-chocolate-what-to-do-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "犬のチョコ事故、多い時期はある？",
+        "body": "犬がチョコを食べちゃう事故って、いつ起きやすいんだろう。家にチョコが増える時期が怪しい気がするよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "229の動物病院の記録",
+        "body": "イギリスの229の動物病院の記録から、2012〜2017年にチョコを食べて来院した犬375匹を探して、時期や年齢を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "クリスマスとイースターに多い",
+        "body": "クリスマスの時期はふだんよりチョコの診察が多く（オッズ比4.74）、イースターも多かった（同1.97）らしい。8歳以上の犬は4歳未満より少なかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日本のバレンタインは？",
+        "body": "イギリスではバレンタインやハロウィンの時期にはっきりした増加はなかったんだ。日本のバレンタインでどうなるかは、まだ調べられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-dog-ate-chocolate-what-to-do-research-156dogs",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Weingart et al., \"Chocolate ingestion in dogs: 156 events (2015-2019)\" (Journal of Small Animal Practice, 2021)",
+    "sourceUrl": "https://doi.org/10.1111/jsap.13329",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/dog-ate-chocolate-what-to-do-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "チョコを食べた犬は助からない？",
+        "body": "「犬にチョコは猛毒」ってよく聞くよね。食べちゃったら、もう手遅れなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "156匹の記録を振り返った",
+        "body": "チョコを食べて動物病院に来た犬156匹の記録を、症状や治療、その後の経過まで調べた研究があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "症状が出た44匹中43匹が回復",
+        "body": "112匹は症状なし。症状が出た44匹のうち28匹はダークやビターのチョコを食べていた。処置を受けて44匹中43匹が回復したらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "病院に来なかった犬は？",
+        "body": "病院に連れて来られた犬だけの記録なんだ。家で様子を見た犬がどうなったかは含まれていないよ。だから食べたら早めに相談が安心。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
