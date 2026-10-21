@@ -5191,5 +5191,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Oxford_University_Museum_of_Natural_History%2C_Oxford%2C_UK_-_Diliff.jpg/500px-Oxford_University_Museum_of_Natural_History%2C_Oxford%2C_UK_-_Diliff.jpg",
   "og": "https://mentalai.seadice.win/img/screenshot-forget-why.jpg",
   "local": true
+ },
+ "friends-phone-glance-prevent": {
+  "file": "File:Coffee cup in hands at a cafe during a morning break with a focus on espresso served on a small plate.jpg",
+  "src": "/img/friends-phone-glance-prevent.jpg",
+  "src640": "/img/friends-phone-glance-prevent-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "カフェで手に持ったエスプレッソのカップ",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Coffee_cup_in_hands_at_a_cafe_during_a_morning_break_with_a_focus_on_espresso_served_on_a_small_plate.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Coffee_cup_in_hands_at_a_cafe_during_a_morning_break_with_a_focus_on_espresso_served_on_a_small_plate.jpg/960px-Coffee_cup_in_hands_at_a_cafe_during_a_morning_break_with_a_focus_on_espresso_served_on_a_small_plate.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Coffee_cup_in_hands_at_a_cafe_during_a_morning_break_with_a_focus_on_espresso_served_on_a_small_plate.jpg/500px-Coffee_cup_in_hands_at_a_cafe_during_a_morning_break_with_a_focus_on_espresso_served_on_a_small_plate.jpg",
+  "og": "https://mentalai.seadice.win/img/friends-phone-glance-prevent.jpg",
+  "local": true
  }
 }

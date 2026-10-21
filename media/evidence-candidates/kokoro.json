@@ -6699,5 +6699,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-friends-phone-glance-prevent-phubbing-count",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Knausenberger J, Giesen-Leuchter A, Echterhoff G, \"Feeling Ostracized by Others' Smartphone Use: The Effect of Phubbing on Fundamental Needs, Mood, and Trust\" (Frontiers in Psychology, 2022)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2022.883901",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/friends-phone-glance-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "話の途中でスマホ、何回までOK？",
+        "body": "人と話しているとき、ついスマホをちらっと見ちゃうこと、あるよね。1回ならセーフ？何回から相手は気になるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "10分の会話でスマホを見てもらった",
+        "body": "ドイツの大学の実験で、165人が初対面の相手と10分話したんだ。相手役は途中で1回か3回、1回あたり約11秒スマホを見たらしい。水を飲むだけの組とも比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "3回だと「聞いてない」に",
+        "body": "「話をよく聞いてくれる」の評価は、3回見た相手で5.56、1回で6.25、見なかった相手で6.24（7段階）。1回なら見ないときと差がなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "親しい友達でも同じ？",
+        "body": "相手は初対面の協力者で、会話は10分だけ。親しい友達や家族との長いつきあいで同じかはわかっていないし、何回までなら平気という線引きも調べていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
