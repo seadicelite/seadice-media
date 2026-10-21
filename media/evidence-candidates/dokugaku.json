@@ -7501,5 +7501,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-sleepiness-check-sheet-study-used-to-short-sleep",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Van Dongen et al., \"The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation\" (Sleep, 2003)",
+    "sourceUrl": "https://doi.org/10.1093/sleep/26.2.117",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/sleepiness-check-sheet-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "睡眠6時間でも、慣れれば平気？",
+        "body": "短い睡眠も続けているうちに体が慣れて、もう眠くない。だから頭もちゃんと働いている。そう感じる人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "4・6・8時間を14日間",
+        "body": "21〜38歳の健康な大人を、寝床にいる時間が毎晩4時間・6時間・8時間の組にくじで分けて、14日間続けてもらった実験があるんだ。3晩の徹夜の実験とも比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "眠気は頭打ち、成績は下がり続けた",
+        "body": "6時間以下の組では、頭の働きのテストが日ごとに落ちて、最大で2晩の徹夜と同じくらいに。なのに眠気の自己評価は最初に上がった後ほとんど増えず、本人は低下にあまり気づいていなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の成果は測っていない",
+        "body": "実験室で管理された条件の研究で、測ったのは反応の速さなどのテスト。資格や語学の勉強の成績がどれだけ下がるかは、この研究だけではわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

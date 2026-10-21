@@ -4128,5 +4128,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Laptop_with_many_charts_on_screen_on_cluttered_desk.jpg/500px-Laptop_with_many_charts_on_screen_on_cluttered_desk.jpg",
   "og": "https://dokugaku.seadice.win/img/pc-study-screen-sorting-sheet-og.jpg",
   "local": true
+ },
+ "sleepiness-check-sheet-study": {
+  "file": "File:Desk Lamp 1 2013-07-12.jpg",
+  "src": "/img/sleepiness-check-sheet-study.jpg",
+  "src640": "/img/sleepiness-check-sheet-study-sm.jpg",
+  "w": 960,
+  "h": 637,
+  "alt": "机の上のデスクライト",
+  "artist": "FASTILY",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk_Lamp_1_2013-07-12.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Desk_Lamp_1_2013-07-12.jpg/960px-Desk_Lamp_1_2013-07-12.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Desk_Lamp_1_2013-07-12.jpg/500px-Desk_Lamp_1_2013-07-12.jpg",
+  "og": "https://dokugaku.seadice.win/img/sleepiness-check-sheet-study.jpg",
+  "local": true
  }
 }
