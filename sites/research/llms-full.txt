@@ -5834,6 +5834,9 @@ URL: https://research.seadice.win/dessert-stomach-full-why-research/
 
 - 「胃が場所を空ける」説は、人で確かめた研究が見つかりませんでした。甘い物を満腹でも食べたくなる脳の回路は、マウスで見つかっています。
 
+この記事と一緒に使える
+Webツール・登録不要・無料先に動く5分タイマーやる気を待たずに5分だけ動き、前後の気分を記録する（行動活性化の研究がもと）使ってみる悩みの科学のツールとアプリをすべて見る
+
 ## 01 悩みの正体満腹なのにデザートが入るのはなぜ？
 
 満腹なのにデザートが入るのは、食べ続けた料理だけがおいしく感じなくなるからです。味も見た目も違う甘い物は、まだおいしく感じるので、もう一度食べたくなります。
@@ -18887,6 +18890,128 @@ A. 613人の調査では、女性の疲れが14.9%高く、画面に映る自分
 - Döring, N., De Moor, K., Fiedler, M., Schoenenberg, K., & Raake, A. (2022). Videoconference fatigue: A conceptual analysis. International Journal of Environmental Research and Public Health, 19(4), 2061. https://doi.org/10.3390/ijerph19042061
 
 - Xu, J., Whelan, E., O'Brien, A., & O'Hora, D. (2024). Does self-view mode generate more videoconferencing fatigue in women than men? An experiment using EEG signals. Cyberpsychology, Behavior, and Social Networking, 27(6), 426-430.（要旨で確認） https://doi.org/10.1089/cyber.2023.0577
+
+---
+
+# 食べすぎてお腹が苦しいときは？ 横になる・歩く、どっちがいいかを研究で調べた
+
+URL: https://research.seadice.win/overeating-full-stomach-walk-or-lie-down-research/
+カテゴリ: 食べもの
+公開日: 2026-10-21
+
+つい食べすぎて、お腹がはち切れそう。横になりたいけれど、歩いたほうがいいとも聞く。研究を調べると、時速4kmのゆっくり歩きで、胃が半分空になるまでの時間が123分から107分に縮みました。横になるなら、体の左側を下にすると胸やけのもとになる逆流が起きにくい結果でした。ただし、苦しさそのものがすぐ消えるわけではありません。
+
+## 3行でわかる
+
+- ゆっくり歩くと、胃の中身が腸へ送られるのが早まりました（10人の実験で約16分短縮）。ただし、お腹の張りや苦しさの感じ方は変わりませんでした。
+
+- 横になるなら左側を下にします。右向きやあお向けより、胃酸が食道へ上がる時間が短い結果でした。
+
+- 食後3時間たたずに寝る人は、胃食道逆流症（胸やけの病気）が多いという日本の研究があります。激しい運動は胃腸の不調を起こしやすいので避けます。
+
+この記事と一緒に使える
+Webツール・登録不要・無料先に動く5分タイマーやる気を待たずに5分だけ動き、前後の気分を記録する（行動活性化の研究がもと）使ってみる悩みの科学のツールとアプリをすべて見る
+
+## 01 悩みの正体食べすぎると、なぜお腹が苦しくなる？
+
+食べすぎて苦しいのは、胃が食べた物でふくらみ、中身の半分が腸へ送られるだけでも2時間ほどかかるからです。そのあいだに横になると、胃の中身や胃酸が食道へ戻りやすくなります。
+
+胃は食べた物をためて、少しずつ腸へ送り出します。健康な男性10人の実験では、576kcalの食事のあと、胃の中身が半分になるまでに約2時間（123分）かかっていました。量が多いほど、胃がふくらんでいる時間は長くなります。
+
+苦しいと横になりたくなります。ところが、胃と食道のあいだは、横になると重力の助けがなくなります。胃酸が食道へ上がる「逆流」が起きやすくなり、胸やけの原因になります。では、歩くのと横になるのでは、どちらがいいのでしょうか。
+
+## 02 科学的にわかっていること食後は歩くのと横になるの、どっちがいい？
+
+食後にゆっくり歩くと、胃の中身が早く腸へ送られ、腸のガスも抜けやすくなりました。横になるなら左側を下にすると逆流が少ない結果です。ただし両方を直接比べた研究は見つかりませんでした。
+
+食後の過ごし方研究でわかったこと
+
+ゆっくり歩く（時速4km）胃が半分空になるまで123分→107分。苦しさの感じ方は変わらず[1]
+食後酒・エスプレッソ水と差なし（119〜126分）[1]
+左を下にして横になる右向き・あお向けより逆流が少ない[4][5]
+右を下にして横になる逆流がいちばん多く、胃酸が流れ去るのも遅い[4][5]
+激しい運動運動中の胃腸の不調が多い（選手の30〜50%）[7]
+
+Franke A, Harder H, Orth AK, Zitzmann S, Singer MV（2008）[1]
+
+576kcalの食事のあと、水を40mL飲んでゆっくり歩く（時速4km）と、胃の中身が半分になるまでの時間が123分から107分に縮みました。ブランデーなどの食後酒やエスプレッソでは、水と差がありませんでした。
+
+対象: 健康な男性10人。胃の動きは超音波で測定。 ／ 限界: 満腹感・お腹の張りの感じ方は、歩いても変わりませんでした。人数が少なく、歩いた時間は抄録に書かれていません。
+
+Villoria A, Serra J, Azpiroz F, Malagelada JR（2006）[2]
+
+お腹の張りに悩む人の腸にガスを2時間流し込む実験で、寝たまま軽くペダルをこぐと、腸にたまったガスが45%から24%に減りました。お腹の不快感の点数も3.6から2.8に下がりました。著者らは、軽い運動が腸のガスを出しやすくし、症状を和らげると結論しています。
+
+対象: お腹の張りに悩む8人（7人が過敏性腸症候群）。 ／ 限界: 食べすぎで生じたガスではなく、管から入れたガスで調べた実験です。運動も歩行ではなくペダルこぎでした。
+
+Schuitenmaker JMら（2022）、Khoury RMら（1999）[4][5]
+
+寝ている姿勢と胃酸の逆流を同時に測った研究です。57人の研究では、胃酸が食道にある時間の中央値は、左向きで0.0%、あお向けで0.6%、右向きで1.2%でした。食道から胃酸が流れ去るまでの時間は、左向き35秒、あお向け76秒、右向き90秒でした。10人の研究でも、右向きがいちばん逆流が多い結果でした。
+
+対象: 逆流の検査を受けた人や、夜に逆流がある胃食道逆流症の人。 ／ 限界: 胸やけのある人の研究で、健康な人が食べすぎたときに同じかは確かめられていません。
+
+Fujiwara Yら（2005）[3]
+
+日本の胃食道逆流症の患者147人と、症状のない294人を比べました。夕食から寝るまでが3時間未満の人は、4時間以上の人に比べ、胃食道逆流症である割合（オッズ比）が7.45倍でした。喫煙・飲酒・体格の影響を除いても同じでした。
+
+限界: 患者と健康な人を比べた調査で、早く寝ることが原因だとは言い切れません。著者らも「寝る3時間前から食べない」という定番の助言には、臨床的な裏づけが乏しかったと書いています。
+
+## 03 今日からできる小さな一歩食べすぎて苦しいとき、まず何をする？
+
+食べすぎて苦しいときは、ベルトをゆるめ、ゆっくり10分ほど歩くか家の中で軽く動きます。横になりたいときは左側を下にし、寝るのは食後3時間を目安にします。
+
+1. お腹をしめつけない: ベルトやきつい服をゆるめて、楽な姿勢をとります。
+所要 10秒
+
+2. ゆっくり歩く: 実験と同じ時速4km、会話できるくらいの速さで歩きます。外に出られなければ、家の片づけや皿洗いでもかまいません。2型糖尿病の人では、毎食後10分の歩きが食後の血糖値の上がり方を抑えた研究もあります[6]。
+所要 10分ほど
+
+3. 横になるなら左を下に: ソファで休むときも、右向きやあお向けより左向きにします。
+所要 0分
+
+4. 寝るのは食後3時間を目安に: 遅い夕食で食べすぎた日は、できるだけ寝る時間までの間をあけます。夕食と睡眠の関係は夕食は寝る何時間前までに食べればいいかの記事にまとめました。
+所要 0分（時間をあけるだけ）
+
+## 04 続けるためのコツ食べすぎたあと、どう立て直す？
+
+食べすぎたあとは、激しい運動で取り返そうとせず、次の食事からふだんどおりに戻します。激しい運動は胃腸の不調を起こしやすく、1回の食べすぎで自分を責める必要もありません。
+
+- すぐに激しい運動をしない: 運動中に胃腸の不調を感じる選手は30〜50%とされ、運動の前や運動中に脂肪・たんぱく質・食物繊維をとると起きやすいと報告されています。食後は軽い運動にとどめます。
+
+- 食後酒に頼らない: 「消化を助ける」と言われる食後酒は、胃の動きにも苦しさにも差がありませんでした。
+
+- 1回の食べすぎで自分を責めない: 「もう台なし」と思うと、かえって食べすぎが続きやすくなります。考え方はダイエット中に食べすぎたあとの研究で紹介しています。
+
+- 次はゆっくり食べる: ゆっくり食べるやり方は早食いを直す研究にまとめました。
+
+強い腹痛が続く、吐き気や嘔吐がある、胸の痛みがあるときは、食べすぎ以外の原因も考えられます。医療機関に相談してください。
+
+## 05 よくある質問
+
+Q. 食べすぎたら横になると消化にいい？
+A. 横になって消化が早まるという研究は見つかりませんでした。研究で示されたのは、ゆっくり歩くと胃の中身が早く腸へ送られることです。横になるなら左側を下にすると、胃酸の逆流が少ない結果でした。
+
+Q. 食後すぐに寝ると太るって本当？
+A. 今回調べた研究は太るかどうかではなく、胸やけ（胃食道逆流症）との関係を調べたものです。日本の研究では、夕食から寝るまで3時間未満の人は、4時間以上の人より胃食道逆流症の割合が高い結果でした。
+
+Q. 食後に歩くなら何分がいい？
+A. 胃の動きを調べた実験は時速4kmのゆっくり歩きでした。2型糖尿病の人41人の研究では、毎食後10分歩くほうが、1日1回30分歩くより食後の血糖値の上がり方が小さい結果でした。息が上がらない速さで10分ほどが目安です。
+
+## 出典
+
+- Franke A, Harder H, Orth AK, Zitzmann S, Singer MV (2008). Postprandial walking but not consumption of alcoholic digestifs or espresso accelerates gastric emptying in healthy volunteers. Journal of Gastrointestinal and Liver Diseases, 17(1), 27-31. https://pubmed.ncbi.nlm.nih.gov/18392240/
+
+- Villoria A, Serra J, Azpiroz F, Malagelada JR (2006). Physical activity and intestinal gas clearance in patients with bloating. The American Journal of Gastroenterology, 101(11), 2552-2557. https://doi.org/10.1111/j.1572-0241.2006.00873.x
+
+- Fujiwara Y, Machida A, Watanabe Y, et al. (2005). Association between dinner-to-bed time and gastro-esophageal reflux disease. The American Journal of Gastroenterology, 100(12), 2633-2636. https://doi.org/10.1111/j.1572-0241.2005.00354.x
+
+- Schuitenmaker JM, van Dijk M, Oude Nijhuis RAB, Smout AJPM, Bredenoord AJ (2022). Associations Between Sleep Position and Nocturnal Gastroesophageal Reflux: A Study Using Concurrent Monitoring of Sleep Position and Esophageal pH and Impedance. The American Journal of Gastroenterology, 117(2), 346-351. https://doi.org/10.14309/ajg.0000000000001588
+
+- Khoury RM, Camacho-Lobato L, Katz PO, Mohiuddin MA, Castell DO (1999). Influence of spontaneous sleep positions on nighttime recumbent reflux in patients with gastroesophageal reflux disease. The American Journal of Gastroenterology, 94(8), 2069-2073. https://doi.org/10.1111/j.1572-0241.1999.01279.x
+
+- Reynolds AN, Mann JI, Williams S, Venn BJ (2016). Advice to walk after meals is more effective for lowering postprandial glycaemia in type 2 diabetes mellitus than advice that does not specify timing: a randomised crossover study. Diabetologia, 59(12), 2572-2578. https://doi.org/10.1007/s00125-016-4085-2
+
+- de Oliveira EP, Burini RC, Jeukendrup A (2014). Gastrointestinal complaints during exercise: prevalence, etiology, and nutritional recommendations. Sports Medicine, 44(Suppl 1), S79-S85. https://doi.org/10.1007/s40279-014-0153-2
 
 ---
 

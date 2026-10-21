@@ -7933,5 +7933,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-overeating-full-stomach-walk-or-lie-down-research-walk",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Franke A et al., \"Postprandial walking but not consumption of alcoholic digestifs or espresso accelerates gastric emptying in healthy volunteers\" (Journal of Gastrointestinal and Liver Diseases, 2008)",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/18392240/",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/overeating-full-stomach-walk-or-lie-down-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "食後酒で消化が進む？",
+        "body": "食べすぎたあとに強いお酒を一杯、という習慣がある国もあるよね。じゃあ、食後酒やエスプレッソで胃は早く空になるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "10人の胃を超音波で見た",
+        "body": "ドイツの研究で、健康な男性10人が576kcalの食事のあと、食後酒・エスプレッソ・水などを40mL飲んだり、時速4kmでゆっくり歩いたりしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効いたのは「歩く」だけ",
+        "body": "胃が半分空になるまでの時間は、水で123分。食後酒やエスプレッソは差がなかったけど、歩くと107分に縮んだよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "苦しさは変わらなかった",
+        "body": "胃は早く空いたけど、満腹感やお腹の張りの感じ方は変わらなかった。10人だけの実験で、女性は調べていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
