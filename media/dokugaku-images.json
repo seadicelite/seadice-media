@@ -4111,5 +4111,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bullet_journal_page.jpg/500px-Bullet_journal_page.jpg",
   "og": "https://dokugaku.seadice.win/img/weekly-study-plan-monday-sheet-og.jpg",
   "local": true
+ },
+ "pc-study-screen-sorting-sheet": {
+  "file": "File:Laptop with many charts on screen on cluttered desk.jpg",
+  "src": "/img/pc-study-screen-sorting-sheet.webp",
+  "src640": "/img/pc-study-screen-sorting-sheet-sm.webp",
+  "w": 960,
+  "h": 641,
+  "alt": "画面にグラフが並ぶノートパソコンと机",
+  "artist": "rawpixel",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Laptop_with_many_charts_on_screen_on_cluttered_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Laptop_with_many_charts_on_screen_on_cluttered_desk.jpg/960px-Laptop_with_many_charts_on_screen_on_cluttered_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Laptop_with_many_charts_on_screen_on_cluttered_desk.jpg/500px-Laptop_with_many_charts_on_screen_on_cluttered_desk.jpg",
+  "og": "https://dokugaku.seadice.win/img/pc-study-screen-sorting-sheet-og.jpg",
+  "local": true
  }
 }

@@ -7467,5 +7467,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-pc-study-screen-sorting-sheet-snake-game-lecture",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Marty-Dugas et al., \"Active vs passive media multitasking and memory for lecture materials\" (Heliyon, 2024)",
+    "sourceUrl": "https://doi.org/10.1016/j.heliyon.2024.e31935",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/pc-study-screen-sorting-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "講義動画の横でゲームをしたら頭に入らない？",
+        "body": "オンライン講義を見ながら別の画面で遊んでいたら、内容なんて残らない。そう思うよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "22分の講義の横に、ヘビのゲーム",
+        "body": "カナダの大学生220人あまりが、22分の講義動画を見た。横にはキーひとつで出し入れできるヘビのゲーム。遊べる組と、見るだけの組に分けたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ゲームを出していても、点数は同じ",
+        "body": "遊べる組は講義の平均63%、見るだけの組は51%の時間ゲームを表示していた。それでも講義後の小テストの点数に差はなく、表示していた時間と点数の関係も見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "SNSや動画なら違うかも",
+        "body": "ヘビのゲームはSNSや動画ほど引きつけないので、影響を小さく見積もった可能性があると著者たちは書いている。1回の短い講義での結果でもあるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
