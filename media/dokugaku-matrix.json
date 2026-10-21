@@ -362,7 +362,8 @@
     "use": [
      "https://dokugaku.seadice.win/templates/study-plan/",
      "spare-time-study-menu-table",
-     "study-time-estimate-vs-actual-log"
+     "study-time-estimate-vs-actual-log",
+     "weekly-study-plan-monday-sheet"
     ],
     "how": [
      "make-study-time-working-adults",

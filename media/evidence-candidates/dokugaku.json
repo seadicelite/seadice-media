@@ -7438,5 +7438,34 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-weekly-study-plan-monday-sheet-weekly-planning",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Uhlig et al., \"A field experiment on the effects of weekly planning behaviour on work engagement, unfinished tasks, rumination, and cognitive flexibility\" (Journal of Occupational and Organizational Psychology, 2023)",
+    "sourceUrl": "https://doi.org/10.1111/joop.12430",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/weekly-study-plan-monday-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "調べたこと",
+        "title": "月曜の朝に、8分だけ週の計画",
+        "body": "働く人208人に、月曜の朝に週の目標・手順・起こりそうな邪魔とその対策を書いてもらった。かかった時間は中央値7.9分。計画なしの2週間と、計画ありの5週間をくらべたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "やり残しが減った",
+        "body": "計画を立てた週は、週末に答えた「やり残した仕事」と「仕事の後に考え込むこと」が少なかった。ただ、仕事への熱中度は変わらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "時間がたっただけかも",
+        "body": "全員が「計画なし」の後に「計画あり」をやった形なので、慣れや期待による変化と区別できない。結果は本人の回答だけで、勉強の計画で同じになるかも確かめていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
