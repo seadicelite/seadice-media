@@ -7569,5 +7569,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-guess-word-meaning-before-answer-finnish",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Butowska et al., \"You won't guess that: On the limited benefits of guessing when learning a foreign language\" (Memory & Cognition, 2022)",
+    "sourceUrl": "https://doi.org/10.3758/s13421-021-01254-2",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/guess-word-meaning-before-answer/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "知らない単語は、まず意味を当ててみる",
+        "body": "答えを見る前に意味を推測すると、外れても記憶に残りやすい。単語の覚え方として、そんな話を聞いたことがあるかも。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "フィンランド語の単語で実験",
+        "body": "ポーランドの学生58人が、フィンランド語の名詞を学んだ。半分は8秒で訳を推測してから正解を5秒見て、残り半分は単語と訳を13秒読んだよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "思い出す成績は「読むだけ」が上",
+        "body": "4択で意味を選ぶテストでは推測が少し上だった。でも訳を自分で思い出すテストでは、読んだ単語が.48、推測した単語が.40で、読むほうが良かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "絵の選択肢なら違うかも",
+        "body": "これは1回の短い実験で、テストも同じ日。単語を見て4枚の絵から意味を選ぶ形の推測では、思い出す成績も上がった別の実験もあって、推測の形しだいで結果は変わりそうなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

@@ -4164,5 +4164,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/500px-A_small_cup_of_coffee.JPG",
   "og": "https://dokugaku.seadice.win/img/coffee-caffeine-study-memory.jpg",
   "local": true
+ },
+ "guess-word-meaning-before-answer": {
+  "file": "File:WABI index card example.jpg",
+  "src": "/img/guess-word-meaning-before-answer.jpg",
+  "src640": "/img/guess-word-meaning-before-answer-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "単語を書くためのカード",
+  "artist": "Sam Wilson  (taken with Samsung Galaxy S21 FE 5G)",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:WABI_index_card_example.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/WABI_index_card_example.jpg/960px-WABI_index_card_example.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/WABI_index_card_example.jpg/500px-WABI_index_card_example.jpg",
+  "og": "https://dokugaku.seadice.win/img/guess-word-meaning-before-answer.jpg",
+  "local": true
  }
 }
