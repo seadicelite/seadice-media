@@ -398,7 +398,9 @@
     "why": [
      "dark-patterns-why-we-fall-for-them"
     ],
-    "notice": [],
+    "notice": [
+     "dark-patterns-self-check"
+    ],
     "fix": [],
     "after": [],
     "use": []
