@@ -2956,5 +2956,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Drawing%2C_Sketchbook_Page_with_Impressio_Librorum_%28Printing_of_Books%29%2C_ca._1590_%28CH_18120397-2%29.jpg/500px-Drawing%2C_Sketchbook_Page_with_Impressio_Librorum_%28Printing_of_Books%29%2C_ca._1590_%28CH_18120397-2%29.jpg",
   "og": "https://ai.seadice.win/img/ai-writing-roles-who-judges-prepare-og.jpg",
   "local": true
+ },
+ "parent-home-ai-camera-consent-prepare": {
+  "file": "File:Kitchen_clock.IMG_20200501_184244.jpg",
+  "src": "/img/parent-home-ai-camera-consent-prepare.jpg",
+  "src640": "/img/parent-home-ai-camera-consent-prepare-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "台所の壁の時計",
+  "artist": "Ave Maria Mõistlik",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kitchen_clock.IMG_20200501_184244.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kitchen_clock.IMG_20200501_184244.jpg/960px-Kitchen_clock.IMG_20200501_184244.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kitchen_clock.IMG_20200501_184244.jpg/500px-Kitchen_clock.IMG_20200501_184244.jpg",
+  "og": "https://ai.seadice.win/img/parent-home-ai-camera-consent-prepare.jpg",
+  "local": true
  }
 }
