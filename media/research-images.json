@@ -4516,8 +4516,8 @@
  },
  "overeating-full-stomach-walk-or-lie-down-research": {
   "file": "File:Walking path in Dimmuborgir, Iceland, 20240716 1342 1499.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Walking_path_in_Dimmuborgir%2C_Iceland%2C_20240716_1342_1499.jpg/960px-Walking_path_in_Dimmuborgir%2C_Iceland%2C_20240716_1342_1499.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Walking_path_in_Dimmuborgir%2C_Iceland%2C_20240716_1342_1499.jpg/500px-Walking_path_in_Dimmuborgir%2C_Iceland%2C_20240716_1342_1499.jpg",
+  "src": "/img/overeating-full-stomach-walk-or-lie-down-research.jpg",
+  "src640": "/img/overeating-full-stomach-walk-or-lie-down-research-sm.jpg",
   "w": 960,
   "h": 641,
   "alt": "アイスランドの溶岩台地を通る散歩道",
@@ -4525,6 +4525,11 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Walking_path_in_Dimmuborgir,_Iceland,_20240716_1342_1499.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Walking_path_in_Dimmuborgir%2C_Iceland%2C_20240716_1342_1499.jpg/960px-Walking_path_in_Dimmuborgir%2C_Iceland%2C_20240716_1342_1499.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Walking_path_in_Dimmuborgir%2C_Iceland%2C_20240716_1342_1499.jpg/500px-Walking_path_in_Dimmuborgir%2C_Iceland%2C_20240716_1342_1499.jpg",
+  "og": "https://research.seadice.win/img/overeating-full-stomach-walk-or-lie-down-research.jpg",
+  "local": true
  }
 }
