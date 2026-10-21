@@ -4306,5 +4306,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Close-up_of_the_two_pencils_between_two_book_pages.jpg/500px-Close-up_of_the_two_pencils_between_two_book_pages.jpg",
   "og": "https://dokugaku.seadice.win/img/ai-grading-vs-self-grading-accuracy.jpg",
   "local": true
+ },
+ "english-pronunciation-practice-how-to": {
+  "file": "File:Top view of headphones hanging from a desk (Unsplash).jpg",
+  "src": "/img/english-pronunciation-practice-how-to.jpg",
+  "src640": "/img/english-pronunciation-practice-how-to-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上のヘッドホン",
+  "artist": "Alex Holyoake stairhopper",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Top_view_of_headphones_hanging_from_a_desk_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Top_view_of_headphones_hanging_from_a_desk_%28Unsplash%29.jpg/960px-Top_view_of_headphones_hanging_from_a_desk_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Top_view_of_headphones_hanging_from_a_desk_%28Unsplash%29.jpg/500px-Top_view_of_headphones_hanging_from_a_desk_%28Unsplash%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/english-pronunciation-practice-how-to.jpg",
+  "local": true
  }
 }

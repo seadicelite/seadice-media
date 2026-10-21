@@ -7875,5 +7875,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-english-pronunciation-practice-how-to-listening-only",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Almalki & Algethami, \"An exploration of the potential benefit of extensive listening along with orthography for improving EFL learners' pronunciation\" (Asian-Pacific Journal of Second and Foreign Language Education, 2022)",
+    "sourceUrl": "https://doi.org/10.1186/s40862-022-00132-x",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/english-pronunciation-practice-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "英語は聞き流せば発音もよくなる？",
+        "body": "たくさん聞いていれば、そのうち発音も自然にネイティブっぽくなる。英語学習でよく聞く話だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "90人を3つに分けて6週間",
+        "body": "サウジアラビアの英語学習者90人を、朗読を聞くだけ・文字を見ながら聞く・何もしない、の3群にランダムに分けたらしい。聞く群は6週間で12回、やさしい本の朗読を聞いたんだって。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "少し良くなったけど、はっきりした差はなし",
+        "body": "ネイティブがなまりの強さを判定すると、聞いた2群は少し良くなったものの、統計的にはっきりした差にはならなかった。聞き流すだけでは、発音は変わりにくいみたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "もっと長く、声に出せば？",
+        "body": "期間は6週間と短く、話す練習も入っていなかった。著者らも、もっと長い期間や、声に出す練習と組み合わせたときの効果は調べる必要があるとしているよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
