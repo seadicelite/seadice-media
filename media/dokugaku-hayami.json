@@ -524,6 +524,14 @@
       "text": "リストと直接くらべた研究は見つかりません。「いつ・どうやるか」の計画は効くことが多い一方、長い講座では効果が1〜2週間で消えた実験も。毎週入れ直して使います。",
       "slug": "calendar-time-blocking-vs-todo-list",
       "evidence": "meta"
+    },
+    {
+      "id": "ai-grading",
+      "name": "AIに答案を採点させる",
+      "belief": "AIの採点は自己採点より正確",
+      "level": "b",
+      "text": "採点基準を渡したAIは人の採点に近づきますが、評価がぴったり合ったのは半分ほどで、日によってぶれ、弱い答案に甘めでした。くい違いを教材で確かめる道具として使います。",
+      "slug": "ai-grading-vs-self-grading-accuracy"
     }
   ]
 }

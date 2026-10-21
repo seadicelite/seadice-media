@@ -466,7 +466,8 @@
         "judge": [
           "ai-answers-and-learning",
           "ai-writing-feedback-revision",
-          "self-explanation-vs-ai-explanation"
+          "self-explanation-vs-ai-explanation",
+          "ai-grading-vs-self-grading-accuracy"
         ],
         "how": [
           "ai-practice-questions-how-to",

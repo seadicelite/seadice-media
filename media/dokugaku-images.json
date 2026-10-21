@@ -4288,5 +4288,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Personal_organizer_with_metallic_ring_binder.jpg/500px-Personal_organizer_with_metallic_ring_binder.jpg",
   "og": "https://dokugaku.seadice.win/img/calendar-time-blocking-vs-todo-list.jpg",
   "local": true
+ },
+ "ai-grading-vs-self-grading-accuracy": {
+  "file": "File:Close-up of the two pencils between two book pages.jpg",
+  "src": "/img/ai-grading-vs-self-grading-accuracy.jpg",
+  "src640": "/img/ai-grading-vs-self-grading-accuracy-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "開いた本にはさんだ2本の鉛筆",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Close-up_of_the_two_pencils_between_two_book_pages.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Close-up_of_the_two_pencils_between_two_book_pages.jpg/960px-Close-up_of_the_two_pencils_between_two_book_pages.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Close-up_of_the_two_pencils_between_two_book_pages.jpg/500px-Close-up_of_the_two_pencils_between_two_book_pages.jpg",
+  "og": "https://dokugaku.seadice.win/img/ai-grading-vs-self-grading-accuracy.jpg",
+  "local": true
  }
 }

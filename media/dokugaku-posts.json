@@ -1,5 +1,13 @@
 [
   {
+    "slug": "ai-grading-vs-self-grading-accuracy",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-21",
+    "title": "「AIに答案を採点させれば、自己採点より正確」は本当？AIによる採点の精度と自己採点の研究（効く・効かないの判定）",
+    "summary": "採点基準を渡したAIは人に近づくが、評価の一致は半分で日によってぶれ、弱い答案に甘い。自己採点の弱点とくい違いの確かめ方。"
+  },
+  {
     "slug": "calendar-time-blocking-vs-todo-list",
     "category": "時間・計画",
     "type": "guide",

@@ -7841,5 +7841,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-ai-grading-vs-self-grading-accuracy-repeat",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Brevik et al., \"Large language models as grading assistants in public health education: a method-comparison study of essay-style exam assessment\" (Frontiers in Education, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/feduc.2026.1904452",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/ai-grading-vs-self-grading-accuracy/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "AIの採点はブレなくて公平？",
+        "body": "人は採点するたびに気分で点が変わるけど、AIなら毎回同じ基準で採点してくれる。そう思って、答案の採点をAIに任せる人も増えているよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学院の記述式試験をAIに採点させた",
+        "body": "ノルウェーの研究チームが、修士課程の5時間の記述式試験の答案を4つのAIにA〜Fで採点させて、試験官の評価とくらべたよ。同じ採点を5日間くり返してもみたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ぴったり一致は半分。日によってぶれた",
+        "body": "いちばん近かったChatGPTでも、評価がぴったり合ったのは50.0%（1段階以内なら90.6%）。5日間くり返すと評価がぶれて、弱い答案には人より甘かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1つの試験だけの結果",
+        "body": "調べたのは1つの大学の1つの試験だけ。AIには人が採点した例を見せていないので、例や基準を工夫するとどこまでよくなるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

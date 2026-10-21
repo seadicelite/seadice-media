@@ -283,6 +283,7 @@
 - [AIに答えを聞くと勉強は身につかないのか。研究でわかった「使い方の分かれ目」](https://dokugaku.seadice.win/ai-answers-and-learning/): 答えを写すAIは自力の成績を下げ、ヒント型なら下がらなかった。高校生約1000人の実験などから使い方を解説
 - [AIで英会話（話す練習）をするには？研究でわかった頼み方と続け方6つの手順（AI会話練習の研究と、話す力の伸びがまだ確かめられていない点）](https://dokugaku.seadice.win/ai-conversation-speaking-practice-how-to/): AIでの語学練習は不安や退屈を減らした（23研究）。16週の実験では10週目は差なし、16週目に話す意欲が上昇。話す力の伸びは未確認。1回5分から。
 - [AIに教わったことを、数日たつと忘れている。どう立て直す？会話を問題に変えて、日をあけて思い出す6つの手順（思い出す練習と「外に預ける記憶」の研究）](https://dokugaku.seadice.win/ai-explanations-forgotten-relearn/): 読んで納得しても思い出す練習がないと残らない。会話を閉じて書き出し、問題に変えて1日後と1週間後に解く立て直しの手順。
+- [「AIに答案を採点させれば、自己採点より正確」は本当？AIによる採点の精度と自己採点の研究（効く・効かないの判定）](https://dokugaku.seadice.win/ai-grading-vs-self-grading-accuracy/): 採点基準を渡したAIは人に近づくが、評価の一致は半分で日によってぶれ、弱い答案に甘い。自己採点の弱点とくい違いの確かめ方。
 - [AIに間違えられて、もう信じられない。使うのをやめる前にどう立て直す？間違いを見た後の「信頼」の研究](https://dokugaku.seadice.win/ai-made-mistakes-lost-trust-rebuild/): AIの間違いを見ると人はAIを避けすぎやすい。間違いを種類で分け、確かめられる使い方に絞り、記録で信頼を合わせ直す6つの手順。
 - [AIに頼りすぎて、自分では解けなくなった。どう立て直す？AIなしで解ける力を取り戻す研究と手順](https://dokugaku.seadice.win/ai-overreliance-solve-on-your-own/): AIをやめずに、先に自分で解く・ヒントだけ聞く・すぐ開けない手間をつくる。週1回AIなしで確かめる6つの手順。
 - [AIに練習問題を作らせて勉強するには？研究でわかった頼み方と確かめ方](https://dokugaku.seadice.win/ai-practice-questions-how-to/): 問題を解いて思い出す練習は効くが、AIの問題には誤りも混ざる。教材を渡して短く答える問題を作らせ、答えは教材で確かめる。
