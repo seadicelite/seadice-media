@@ -7831,5 +7831,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-stomach-bug-recovery-fluids-food-research-applejuice",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Freedman SB et al., \"Effect of Dilute Apple Juice and Preferred Fluids vs Electrolyte Maintenance Solution on Treatment Failure Among Children With Mild Gastroenteritis\" (JAMA, 2016)",
+    "sourceUrl": "https://doi.org/10.1001/jama.2016.5352",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/stomach-bug-recovery-fluids-food-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "お腹を壊したら経口補水液じゃないとダメ？",
+        "body": "子どもが吐いたり下痢したりしたら、専用の経口補水液を飲ませなきゃ、と思うよね。でも軽い場合でも本当に必要なのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "647人の子どもで比べた",
+        "body": "カナダの小児救急で、脱水がほとんどない生後6〜60か月の子647人を、半分に薄めたりんごジュース＋好きな飲み物の群と、経口補水液の群に分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "りんごジュースのほうが失敗が少なかった",
+        "body": "7日以内の「治療の失敗」（点滴・入院・再受診など）は、りんごジュース群が16.7%、経口補水液群が25.0%。点滴を受けた子も2.5%対9.0%で少なかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "脱水が強い子には当てはまらない",
+        "body": "対象は軽い子だけで、脱水が中くらい以上の子は入っていない。入院や下痢・嘔吐の回数には差がなかったし、大人での結果でもないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

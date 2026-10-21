@@ -4459,5 +4459,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Broad_bean_pods_%283%29.jpg/500px-Broad_bean_pods_%283%29.jpg",
   "og": "https://research.seadice.win/img/disliked-food-repeated-tasting-how-research.jpg",
   "local": true
+ },
+ "stomach-bug-recovery-fluids-food-research": {
+  "file": "File:Rice porridge at home.jpg",
+  "src": "/img/stomach-bug-recovery-fluids-food-research.jpg",
+  "src640": "/img/stomach-bug-recovery-fluids-food-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "緑の器に入ったおかゆ",
+  "artist": "JIP",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rice_porridge_at_home.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rice_porridge_at_home.jpg/960px-Rice_porridge_at_home.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rice_porridge_at_home.jpg/500px-Rice_porridge_at_home.jpg",
+  "og": "https://research.seadice.win/img/stomach-bug-recovery-fluids-food-research.jpg",
+  "local": true
  }
 }
