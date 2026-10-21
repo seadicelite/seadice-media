@@ -7763,5 +7763,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-spicy-food-mouth-burn-milk-recovery-research-skim-milk",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Nolden et al., \"Putting out the fire – Efficacy of common beverages in reducing oral burn from capsaicin\" (Physiology & Behavior, 2019)",
+    "sourceUrl": "https://doi.org/10.1016/j.physbeh.2019.05.018",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/spicy-food-mouth-burn-milk-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "辛さには脂肪たっぷりの牛乳？",
+        "body": "辛さのもとカプサイシンは油に溶けやすいから、脂肪の多い牛乳ほど効くってよく言われるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "72人で7種類の飲み物を比べた",
+        "body": "辛いトマトジュースを飲んだ直後に、水・牛乳・低脂肪乳・コーラ・炭酸水などを40mLずつ飲んで、痛みを10秒ごとに2分間つけてもらった実験があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "低脂肪乳でも同じくらい効いた",
+        "body": "水より効いたのは牛乳、低脂肪乳、甘いフルーツ飲料。牛乳は10秒後に痛みを約半分にした。でも普通の牛乳と低脂肪乳に差はなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "なぜ牛乳が効くのか",
+        "body": "著者らは脂肪よりたんぱく質が効いているのかもと考えているけど、まだ確かめられていないんだ。食べ物やお酒入りのビールも調べていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

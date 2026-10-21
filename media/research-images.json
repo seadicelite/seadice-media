@@ -4423,5 +4423,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Portrait_of_a_labrador_retriever.jpg/500px-Portrait_of_a_labrador_retriever.jpg",
   "local": true,
   "og": "https://research.seadice.win/img/dog-ate-chocolate-what-to-do-research-og.jpg"
+ },
+ "spicy-food-mouth-burn-milk-recovery-research": {
+  "file": "File:Man turns drying chili peppers, Turkey.jpg",
+  "src": "/img/spicy-food-mouth-burn-milk-recovery-research.jpg",
+  "src640": "/img/spicy-food-mouth-burn-milk-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 628,
+  "alt": "一面に干された赤い唐辛子",
+  "artist": "Rotadefterim",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Man_turns_drying_chili_peppers,_Turkey.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Man_turns_drying_chili_peppers%2C_Turkey.jpg/960px-Man_turns_drying_chili_peppers%2C_Turkey.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Man_turns_drying_chili_peppers%2C_Turkey.jpg/500px-Man_turns_drying_chili_peppers%2C_Turkey.jpg",
+  "og": "https://research.seadice.win/img/spicy-food-mouth-burn-milk-recovery-research.jpg",
+  "local": true
  }
 }
