@@ -6903,5 +6903,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-caffeine-mental-fatigue-focus-caffeine-exercise-placebo",
+    "category": "考える力・集中",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Shirzad A, Frewen N, Morava A, Elshawish N, Prapavessis H, \"Differential effects of caffeine, acute aerobic exercise, and placebo on mental fatigue\" (PLOS ONE, 2026)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0348279",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/caffeine-mental-fatigue-focus/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "頭が疲れる前のコーヒー、効いてる？",
+        "body": "長い作業の前に、とりあえずコーヒー。頭の疲れを防げている気がするけど、毎日飲んでいる人にも本当に効くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "カフェイン・運動・偽の粉を比べた",
+        "body": "カナダのウェスタン大学の実験。毎日カフェインをとる18〜30歳の26人が、日を変えてカフェイン、20分の自転車こぎ、偽の粉を試し、そのあと30分の集中課題をしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "どれも疲れをはっきり減らさなかった",
+        "body": "課題のあと、頭の疲れの感じは全体として強くなった。でも、カフェインの日も運動の日も、偽の粉の日とはっきりした差はなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "飲まない人や、別の運動なら？",
+        "body": "対象は毎日コーヒーを飲む若い26人だけ。ふだん飲まない人や、運動の時間・強さを変えたらどうなるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

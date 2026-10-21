@@ -5268,5 +5268,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Glasses_on_a_Table_%2836692283265%29.jpg/500px-Glasses_on_a_Table_%2836692283265%29.jpg",
   "og": "https://mentalai.seadice.win/img/hangover-next-day-focus-prevent-og.jpg",
   "local": true
+ },
+ "caffeine-mental-fatigue-focus": {
+  "file": "File:Laptop and a mug (Unsplash).jpg",
+  "src": "/img/caffeine-mental-fatigue-focus.webp",
+  "src640": "/img/caffeine-mental-fatigue-focus-sm.webp",
+  "w": 960,
+  "h": 636,
+  "alt": "木の机に置かれたノートパソコンとマグカップ",
+  "artist": "Ryan Riggins ryan_riggins",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Laptop_and_a_mug_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Laptop_and_a_mug_%28Unsplash%29.jpg/960px-Laptop_and_a_mug_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Laptop_and_a_mug_%28Unsplash%29.jpg/500px-Laptop_and_a_mug_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/caffeine-mental-fatigue-focus-og.jpg",
+  "local": true
  }
 }
