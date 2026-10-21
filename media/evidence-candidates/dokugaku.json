@@ -8215,5 +8215,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-law-revision-relearn-changed-facts-remembering-change",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wahlheim & Jacoby, \"Remembering change: The critical role of recursive remindings in proactive effects of memory\" (Memory & Cognition, 2013)",
+    "sourceUrl": "https://doi.org/10.3758/s13421-012-0246-9",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/law-revision-relearn-changed-facts/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "古い知識は覚え直しの邪魔？",
+        "body": "ルールや数字が変わったとき、前に覚えた答えが先に浮かんで混ざっちゃう。古い知識なんて忘れたほうが、覚え直しやすいって思うよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "答えだけ変わる単語の組",
+        "body": "2つのリストで単語の組を覚える実験。2つめのリストでは、同じ手がかりの答えだけが変わった組がまじっていて、変化に気づいたか、後で思い出せたかも調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "気づけば、古い記憶が助けに",
+        "body": "変化に気づいて、後で「変わった」と思い出せたときは、新しい答えがむしろよく思い出せたらしい。邪魔になったのは、変化に気づかなかったときや思い出せなかったときだったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "資格の勉強でも同じ？",
+        "body": "使ったのは単語の組で、気づいたかどうかは本人の報告で分けている。法律の条文みたいな知識を何か月も覚えておく場面で同じになるかは、まだ確かめられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

@@ -4457,7 +4457,7 @@
   "src640": "/img/exam-results-waiting-anxiety-reset-sm.jpg",
   "w": 960,
   "h": 640,
-  "alt": "壁の時計",
+  "alt": "赤と白の壁と青い飾り",
   "artist": "Dietmar Rabich",
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -4467,6 +4467,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Cape_Town_%28ZA%29%2C_Waterfront%2C_Clock_Tower%2C_Detail_--_2024_--_2911.jpg/960px-Cape_Town_%28ZA%29%2C_Waterfront%2C_Clock_Tower%2C_Detail_--_2024_--_2911.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Cape_Town_%28ZA%29%2C_Waterfront%2C_Clock_Tower%2C_Detail_--_2024_--_2911.jpg/500px-Cape_Town_%28ZA%29%2C_Waterfront%2C_Clock_Tower%2C_Detail_--_2024_--_2911.jpg",
   "og": "https://dokugaku.seadice.win/img/exam-results-waiting-anxiety-reset.jpg",
+  "local": true
+ },
+ "law-revision-relearn-changed-facts": {
+  "file": "File:Books on shelf at the Ghalib Chamber Law Library.jpg",
+  "src": "/img/law-revision-relearn-changed-facts.jpg",
+  "src640": "/img/law-revision-relearn-changed-facts-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "法律書が並ぶ本棚",
+  "artist": "Linason Blessing",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Books_on_shelf_at_the_Ghalib_Chamber_Law_Library.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Books_on_shelf_at_the_Ghalib_Chamber_Law_Library.jpg/960px-Books_on_shelf_at_the_Ghalib_Chamber_Law_Library.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Books_on_shelf_at_the_Ghalib_Chamber_Law_Library.jpg/500px-Books_on_shelf_at_the_Ghalib_Chamber_Law_Library.jpg",
+  "og": "https://dokugaku.seadice.win/img/law-revision-relearn-changed-facts.jpg",
   "local": true
  }
 }
