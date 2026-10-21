@@ -46,7 +46,9 @@
     "social-fatigue-after-meeting",
     "night-owl-morning-focus",
     "sunday-night-work-dread",
-    "ai-job-worry-sleep-protect"
+    "ai-job-worry-sleep-protect",
+    "burnout-memory-focus-recover",
+    "yoga-stress-fatigue-recover"
    ]
   },
   {
@@ -97,7 +99,9 @@
     "job-loss-health-recover",
     "third-person-self-talk-work-panic",
     "sunday-night-work-dread",
-    "ai-job-worry-sleep-protect"
+    "ai-job-worry-sleep-protect",
+    "decision-fatigue-real",
+    "work-chat-coworker-comparison"
    ]
   },
   {
@@ -152,7 +156,9 @@
     "laughter-stress-relief",
     "binaural-beats-focus",
     "night-owl-morning-focus",
-    "ai-help-overconfidence"
+    "ai-help-overconfidence",
+    "decision-fatigue-real",
+    "burnout-memory-focus-recover"
    ]
   },
   {
@@ -197,7 +203,8 @@
     "everyone-seems-happier",
     "sns-scrolling-comparison-prevent",
     "appearance-comparison-exercise-body-image",
-    "upward-comparison-motivation-backfire"
+    "upward-comparison-motivation-backfire",
+    "work-chat-coworker-comparison"
    ]
   },
   {
@@ -246,7 +253,10 @@
     "breakup-cant-move-on",
     "social-fatigue-after-meeting",
     "pet-loneliness-prevent",
-    "lonely-even-with-others"
+    "lonely-even-with-others",
+    "ai-chat-attachment-why",
+    "ai-reliance-resilience-support",
+    "new-group-slow-to-bond"
    ]
   },
   {
@@ -294,7 +304,9 @@
     "learning-new-skill-focus-recover",
     "ai-dependence-recovery-course",
     "ai-answers-differ-confusion",
-    "ai-help-overconfidence"
+    "ai-help-overconfidence",
+    "ai-chat-attachment-why",
+    "ai-reliance-resilience-support"
    ]
   }
  ]
