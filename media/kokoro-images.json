@@ -5446,5 +5446,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Shuttlecock_on_a_badminton_court.jpg/500px-Shuttlecock_on_a_badminton_court.jpg",
   "og": "https://mentalai.seadice.win/img/ai-dependence-exercise-recover.jpg",
   "local": true
+ },
+ "ask-ai-not-people-conversation-value": {
+  "file": "File:Outdoor wooden bench in Singapore Botanic Gardens at golden hour.jpg",
+  "src": "/img/ask-ai-not-people-conversation-value.jpg",
+  "src640": "/img/ask-ai-not-people-conversation-value-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "植物園に置かれた木のベンチ",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Outdoor_wooden_bench_in_Singapore_Botanic_Gardens_at_golden_hour.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Outdoor_wooden_bench_in_Singapore_Botanic_Gardens_at_golden_hour.jpg/960px-Outdoor_wooden_bench_in_Singapore_Botanic_Gardens_at_golden_hour.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Outdoor_wooden_bench_in_Singapore_Botanic_Gardens_at_golden_hour.jpg/500px-Outdoor_wooden_bench_in_Singapore_Botanic_Gardens_at_golden_hour.jpg",
+  "og": "https://mentalai.seadice.win/img/ask-ai-not-people-conversation-value.jpg",
+  "local": true
  }
 }

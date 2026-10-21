@@ -7311,5 +7311,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-ask-ai-not-people-conversation-value-stranger-learning",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Atir S et al., \"Talking with strangers is surprisingly informative\" (PNAS, 2022)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.2206992119",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ask-ai-not-people-conversation-value/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "人と話して、何か得る？",
+        "body": "調べものならAIや検索で十分。知らない人と話しても、大して学べることはない気がするよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "10分話す前と後",
+        "body": "米国の実験で、知らない人と約10分話してもらって、話す前に「どれくらい学べそうか」、話したあとに「どれくらい学べたか」を1〜9点で聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "予想より学べていた",
+        "body": "大学生中心の198人では、予想は平均4.66点、実感は6.12点。一方、10分ネットで調べた組では、予想と実感のずれははっきりしなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本人の答えが中心",
+        "body": "学べた量の多くは本人の答え。数分の短い会話では、はっきりしたずれが見られなかった実験もある。米国以外でも同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

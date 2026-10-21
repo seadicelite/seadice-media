@@ -1,5 +1,14 @@
 [
   {
+    "slug": "ask-ai-not-people-conversation-value",
+    "category": "人とのつながり",
+    "type": "guide",
+    "stage": "対処する",
+    "date": "2026-10-22",
+    "title": "AIに聞けば済むので、人に聞いたり話したりするのが億劫になった。米国の実験では、知らない人との10分の会話から学べることを少なく見積もる人が多く、ネット検索ではそのずれは見られなかった",
+    "summary": "人は知らない人との会話から学べることを少なく見積もりがち。ネット検索ではずれがなかった実験と、その場の対処"
+  },
+  {
     "slug": "ai-dependence-exercise-recover",
     "category": "AIとの付き合い方",
     "type": "guide",
