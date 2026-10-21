@@ -5320,5 +5320,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/An_open_notebook_on_a_sandy_beach.jpg/500px-An_open_notebook_on_a_sandy_beach.jpg",
   "og": "https://mentalai.seadice.win/img/job-hunting-sns-comparison-prevent.jpg",
   "local": true
+ },
+ "reemployment-job-quality-recover": {
+  "file": "File:2023 Filiżanki do herbaty.jpg",
+  "src": "/img/reemployment-job-quality-recover.jpg",
+  "src640": "/img/reemployment-job-quality-recover-sm.jpg",
+  "w": 960,
+  "h": 584,
+  "alt": "ガラスのティーカップ",
+  "artist": "Jacek Halicki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2023_Fili%C5%BCanki_do_herbaty.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2023_Fili%C5%BCanki_do_herbaty.jpg/960px-2023_Fili%C5%BCanki_do_herbaty.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2023_Fili%C5%BCanki_do_herbaty.jpg/500px-2023_Fili%C5%BCanki_do_herbaty.jpg",
+  "og": "https://mentalai.seadice.win/img/reemployment-job-quality-recover.jpg",
+  "local": true
  }
 }

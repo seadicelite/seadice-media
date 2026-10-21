@@ -7039,5 +7039,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-reemployment-job-quality-recover-allostatic-load",
+    "category": "仕事とAIの不安",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Chandola T, Zhang N, \"Re-employment, job quality, health and allostatic load biomarkers: prospective evidence from the UK Household Longitudinal Study\" (International Journal of Epidemiology, 2018)",
+    "sourceUrl": "https://doi.org/10.1093/ije/dyx150",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/reemployment-job-quality-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "仕事があれば、何でもいい？",
+        "body": "失業したら、とにかく早く次の仕事に就くのが心と体にいちばん、ってよく言われるよね。本当にどんな仕事でも同じなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "英国の失業者を1〜2年追った",
+        "body": "英国の全国調査で失業中だった大人を追って、次に就いた仕事の質と、血液や血圧から計算したストレスと関わる体の指標を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "条件の厳しい仕事では指標が高め",
+        "body": "給料・安定・裁量・満足・仕事の不安のうち2つ以上に問題がある仕事に就いた人は、失業が続いた人より指標の合計が推定で1.5倍以上だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数が少なく、因果は不明",
+        "body": "血液を調べたのは244人だけで、仕事に就く前の値は測られていない。自分で答えた心の健康には、はっきりした差は出ていなかったよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
