@@ -8205,5 +8205,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-hangover-next-morning-recovery-research-beer-wine-order",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Köchling J et al., \"Grape or grain but never the twain? A randomized controlled multiarm matched-triplet crossover trial of beer and wine\" (American Journal of Clinical Nutrition, 2019)",
+    "sourceUrl": "https://doi.org/10.1093/ajcn/nqy309",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/hangover-next-morning-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ビールのあとにワインは悪酔いする？",
+        "body": "「ビールのあとにワインを飲むと二日酔いがひどくなる」って言うよね。飲む順番で翌朝が変わるなら、気をつけたいところ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "90人で順番を入れ替えて試した",
+        "body": "ドイツの研究で、19〜40歳の90人がビール→ワイン、ワイン→ビール、ビールだけ、ワインだけのどれかで飲んで、1週間以上あけて組み合わせを入れ替えた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "順番でも種類でも変わらなかった",
+        "body": "翌日の二日酔いのつらさは、順番でも種類でも差がなかった。よく予測したのは「どれだけ酔ったと感じたか」と「吐いたかどうか」だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ほかのお酒や飲み方では？",
+        "body": "試したのはラガービールと白ワインだけで、目隠しもしていない。日本酒や焼酎、もっと長い飲み会で同じかどうかはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
