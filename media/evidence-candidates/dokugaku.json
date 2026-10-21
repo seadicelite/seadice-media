@@ -7977,5 +7977,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-english-listening-cannot-catch-reset-vocab-not-ears",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wallace & Lee, \"Examining Second Language Listening, Vocabulary, and Executive Functioning\" (Frontiers in Psychology, 2020)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2020.01122",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/english-listening-cannot-catch-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "英語が聞き取れないのは、頭の回転のせい？",
+        "body": "リスニングが苦手だと、耳が悪いとか、頭の処理が追いつかないせいだと思いがち。実際はどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "東京の高校生209人でテスト",
+        "body": "高校1・2年生に、英語のリスニングテスト、耳で聞く単語のテスト、記憶を更新する力・注意を切りかえる力のテストを受けてもらったらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績を予測したのは単語の量だけ",
+        "body": "リスニングの成績を予測したのは、耳で聞いてわかる単語の量だけ。頭の働きのテストは、短い問題でも長い問題でも成績を予測しなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "単語を増やせば伸びるかは未確認",
+        "body": "一度に測った相関の研究で、単語を覚えれば聞き取れるようになるかを実験で確かめたわけではない。参加者は基本の単語をまだ十分知らない高校生だった。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

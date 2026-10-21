@@ -4342,5 +4342,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Reading_glasses_.jpg/500px-Reading_glasses_.jpg",
   "og": "https://dokugaku.seadice.win/img/small-print-hard-to-read-adult-study.jpg",
   "local": true
+ },
+ "english-listening-cannot-catch-reset": {
+  "file": "File:Headphones on wood in black and white (Unsplash).jpg",
+  "src": "/img/english-listening-cannot-catch-reset.jpg",
+  "src640": "/img/english-listening-cannot-catch-reset-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "木の上に置かれたヘッドホン",
+  "artist": "Corey Blaz",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Headphones_on_wood_in_black_and_white_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Headphones_on_wood_in_black_and_white_%28Unsplash%29.jpg/1280px-Headphones_on_wood_in_black_and_white_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Headphones_on_wood_in_black_and_white_%28Unsplash%29.jpg/500px-Headphones_on_wood_in_black_and_white_%28Unsplash%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/english-listening-cannot-catch-reset.jpg",
+  "local": true
  }
 }
