@@ -5392,5 +5392,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_game_Staunton_No._6.jpg/500px-Chess_game_Staunton_No._6.jpg",
   "og": "https://mentalai.seadice.win/img/game-focus-recover.jpg",
   "local": true
+ },
+ "appearance-checking-comparison-recover": {
+  "file": "File:Table vanity in dark-brown wood with mirror and one box 4.jpg",
+  "src": "/img/appearance-checking-comparison-recover.jpg",
+  "src640": "/img/appearance-checking-comparison-recover-sm.jpg",
+  "w": 960,
+  "h": 721,
+  "alt": "木の鏡台の引き出し",
+  "artist": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Table_vanity_in_dark-brown_wood_with_mirror_and_one_box_4.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Table_vanity_in_dark-brown_wood_with_mirror_and_one_box_4.jpg/960px-Table_vanity_in_dark-brown_wood_with_mirror_and_one_box_4.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Table_vanity_in_dark-brown_wood_with_mirror_and_one_box_4.jpg/500px-Table_vanity_in_dark-brown_wood_with_mirror_and_one_box_4.jpg",
+  "og": "https://mentalai.seadice.win/img/appearance-checking-comparison-recover.jpg",
+  "local": true
  }
 }

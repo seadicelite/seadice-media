@@ -7209,5 +7209,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-appearance-checking-comparison-recover-fade-checking",
+    "category": "比べて落ち込む",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Patel TA, Cougle JR, \"The Role of Social Comparison in Appearance-Related Psychopathology: Preregistered Analyses from a Randomized Controlled Trial of a Smartphone Intervention\" (Cognitive Therapy and Research, 2026)",
+    "sourceUrl": "https://doi.org/10.1007/s10608-026-10779-2",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/appearance-checking-comparison-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よくある悩み",
+        "title": "見た目を比べるくせ",
+        "body": "すれ違う人やSNSの人と、つい自分の見た目を見比べちゃう。鏡で何度も確かめては落ち込む。このくせ、大人になってからでも減らせるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "毎朝メッセージで1か月",
+        "body": "米国の研究者が、見た目の不安が強めの女性203人を2組に分けたんだ。片方は鏡での確認や人との見比べなど12の行動を、もう片方は昼寝のしすぎなど別の習慣を、1か月減らすよう毎朝メッセージを受けたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "比べる回数と不安が下がった",
+        "body": "見た目の行動を減らした組では、人と比べる回数が、終了1か月後も別の組より少なかった（効果量0.68）。見た目の不安の点数も平均63.7点から48.7点に下がっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "女性だけ・同じ研究グループ",
+        "body": "参加者は米国の女性だけで、研究の多くは同じグループによるもの。別の習慣を減らした組でも症状は下がっていて、男性や日本の人で同じ結果になるかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
