@@ -7773,5 +7773,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-positive-self-statements-i-can-affirmation-lovable",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wood et al., \"Positive self-statements: Power for some, peril for others\" (Psychological Science, 2009)",
+    "sourceUrl": "https://doi.org/10.1111/j.1467-9280.2009.02370.x",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/positive-self-statements-i-can-affirmation/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "「自分はできる」と唱えると自信がつく？",
+        "body": "試験の前や鏡の前で、前向きな言葉をくり返す方法はよくすすめられるよね。実際、多くの人が使っていて、効くと信じていることがアンケートでもわかっているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "「私は愛される人間だ」とくり返す実験",
+        "body": "2009年の研究で、参加者に「私は愛される人間だ」とくり返してもらい、その後の気分や自己評価を、くり返さなかった人とくらべたよ。自信の高い人と低い人で分けて見たんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "自信の低い人は、かえって気分が悪化",
+        "body": "自信の低い人は、くり返すとかえって気分が悪くなった。自信の高い人は気分が上がったけど、その差は小さかったらしい。いちばん必要そうな人に逆効果だった、という結果だね。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "2020年の追試では再現されなかった",
+        "body": "その後、別の研究者が2つの研究で確かめ直したら、唱える・唱えないで気分に差は出ず、自信の低い人での悪化も再現されなかった。逆効果とも、効くとも言えないのが今のところだよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
