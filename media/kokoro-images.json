@@ -5482,5 +5482,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/12-week-old_Choclolate_Labrador_Retriever_Puppy.jpg/500px-12-week-old_Choclolate_Labrador_Retriever_Puppy.jpg",
   "og": "https://mentalai.seadice.win/img/puppy-video-work-stress.jpg",
   "local": true
+ },
+ "ai-speaking-practice-language-anxiety": {
+  "file": "File:Latin dictionary.jpg",
+  "src": "/img/ai-speaking-practice-language-anxiety.jpg",
+  "src640": "/img/ai-speaking-practice-language-anxiety-sm.jpg",
+  "w": 960,
+  "h": 764,
+  "alt": "開いた辞書",
+  "artist": "Dr. Marcus Gossler",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Latin_dictionary.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Latin_dictionary.jpg/960px-Latin_dictionary.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Latin_dictionary.jpg/500px-Latin_dictionary.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-speaking-practice-language-anxiety.jpg",
+  "local": true
  }
 }

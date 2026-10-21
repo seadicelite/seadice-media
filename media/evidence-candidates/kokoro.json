@@ -7379,5 +7379,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-ai-speaking-practice-language-anxiety-spanish",
+    "category": "AIとの付き合い方",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Miao Y, Hu P, \"Artificial intelligence-assisted speaking in Spanish as a foreign language: effects on foreign language emotions and willingness to communicate\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1877956",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-speaking-practice-language-anxiety/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "AI相手なら、話す不安は消える？",
+        "body": "AIなら笑われないし、何度でも話せる。だからAIで練習すれば、外国語で話す怖さもなくなる…って思うよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "16週間、授業でAIと話す練習",
+        "body": "中国の大学の実験。スペイン語を始めたばかりの69人をクラスごとに分けて、片方は毎週の授業で1回約5分、AIと話す練習をしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "上がったのは「話してみたい気持ち」",
+        "body": "16週目には、AIで練習した組のほうが話してみたい気持ちが高く、退屈さが低かった。でも不安の点数の差は、はっきりしなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人との本番でも効く？",
+        "body": "くじではなくクラス単位で分けた1学期だけの実験。AIで練習したあと、人と話す場面で不安が減るかは、まだ確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
