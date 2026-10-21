@@ -8171,5 +8171,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-leftover-curry-cooling-storage-how-research-japan-curry",
+    "category": "食べもの",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ohnishi T, \"Characteristics of Outbreaks Caused by Clostridium Perfringens in Japan\" (Food Safety, 2025)",
+    "sourceUrl": "https://doi.org/10.14252/foodsafetyfscj.D-24-00020",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/leftover-curry-cooling-storage-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "一晩おいたカレー、本当に大丈夫？",
+        "body": "「2日目のカレーはおいしい」ってよく言うよね。でも鍋のまま置いておくと、ある菌が増えやすいらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "23年分の食中毒統計を分析",
+        "body": "国の研究所の研究者が、厚生労働省の食中毒統計（2000〜2022年）から、ウェルシュ菌の食中毒を調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "原因がわかった中ではカレーが最多",
+        "body": "ウェルシュ菌の食中毒は617件。原因の食べものがわかった中では、カレーライスが42件でいちばん多かった。大鍋は冷めにくく、空気も少ないから菌が増えやすいんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "多くは大きな調理施設の話",
+        "body": "原因の食べものがわかったのは37%だけ。しかも多くは施設での集団発生で、家庭の鍋で同じくらい起きるかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
