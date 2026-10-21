@@ -5359,8 +5359,8 @@
  },
  "tai-chi-qigong-stress-recover": {
   "file": "File:Lake Tahoe at morning - 7-2023.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lake_Tahoe_at_morning_-_7-2023.jpg/960px-Lake_Tahoe_at_morning_-_7-2023.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lake_Tahoe_at_morning_-_7-2023.jpg/500px-Lake_Tahoe_at_morning_-_7-2023.jpg",
+  "src": "/img/tai-chi-qigong-stress-recover.jpg",
+  "src640": "/img/tai-chi-qigong-stress-recover-sm.jpg",
   "w": 960,
   "h": 508,
   "alt": "朝の静かな湖",
@@ -5368,6 +5368,29 @@
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Lake_Tahoe_at_morning_-_7-2023.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lake_Tahoe_at_morning_-_7-2023.jpg/960px-Lake_Tahoe_at_morning_-_7-2023.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lake_Tahoe_at_morning_-_7-2023.jpg/500px-Lake_Tahoe_at_morning_-_7-2023.jpg",
+  "og": "https://mentalai.seadice.win/img/tai-chi-qigong-stress-recover.jpg",
+  "local": true
+ },
+ "game-focus-recover": {
+  "file": "File:Chess game Staunton No. 6.jpg",
+  "src": "/img/game-focus-recover.jpg",
+  "src640": "/img/game-focus-recover-sm.jpg",
+  "w": 960,
+  "h": 590,
+  "alt": "木のチェス盤と駒",
+  "artist": "Wilfredor",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Chess_game_Staunton_No._6.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_game_Staunton_No._6.jpg/960px-Chess_game_Staunton_No._6.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_game_Staunton_No._6.jpg/500px-Chess_game_Staunton_No._6.jpg",
+  "og": "https://mentalai.seadice.win/img/game-focus-recover.jpg",
+  "local": true
  }
 }

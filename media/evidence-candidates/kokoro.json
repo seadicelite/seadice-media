@@ -7141,5 +7141,73 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-game-focus-recover-game-time-wellbeing",
+    "category": "考える力・集中",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vuorre M, Johannes N, Magnusson K, Przybylski AK, \"Time spent playing video games is unlikely to impact well-being\" (Royal Society Open Science, 2022)",
+    "sourceUrl": "https://doi.org/10.1098/rsos.220411",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/game-focus-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ゲームの時間が長いと、心に悪い？",
+        "body": "ついゲームを長くやっちゃった日、「これって心によくないのかな」って気になるよね。時間の長さって、どれくらい関係あるんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3万8,935人の遊んだ記録を6週間",
+        "body": "英国などの研究チームが、7つのゲームの会社から実際に遊んだ時間の記録をもらい、大人の3万8,935人の幸福感と6週間にわたって照らし合わせたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "時間より「楽しいから遊ぶか」",
+        "body": "遊んだ時間と幸福感の関係はほぼ見られなかった。1日1時間増やしても、本人が気づけるほどの変化にはならないらしい。楽しいから遊ぶ人ほど幸福感が高く、やらされている感じの人は低めだった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "7つのゲームと大人だけの話",
+        "body": "調べたのは7つのゲームで遊ぶ18歳以上の人だけ。子どもや、ほかの種類のゲーム、やめられなくて困っている人に当てはまるかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-game-focus-recover-videogame-training-meta",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Smith ET, Basak C, \"A game-factors approach to cognitive benefits from video-game training: A meta-analysis\" (PLoS ONE, 2023)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0285925",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/game-focus-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ゲームで頭がよくなる？",
+        "body": "「ゲームで集中力が鍛えられる」って聞いたことあるよね。集中力が落ちた気がするとき、ゲームで取り戻せたらうれしいけど、本当なのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "63件の試験をまとめた",
+        "body": "米国の研究者が、ゲームで練習するランダム化比較試験63件・2,079人分をまとめたんだ。病気や障害のある人の研究は除いて、練習の前後で別のテストの成績が伸びるかを見たよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "注意の成績は少し伸びた",
+        "body": "考える力全体の伸びは効果量0.25で、注意や推論の課題でも少し伸びていた。でも記憶の課題でははっきりした伸びがなかった。ジャンルの違いでは差を説明できなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "効果が大きく見えている可能性",
+        "body": "よい結果ほど論文になりやすい偏りが見つかっていて、効果は確かめられないとする別のまとめもある。仕事や勉強での集中まで変わるかもまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
