@@ -8181,5 +8181,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-exam-results-waiting-anxiety-reset-volatility",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wilson & Sweeny, \"Volatility in Expectations While Awaiting Important News\" (Personality and Social Psychology Bulletin, 2024)",
+    "sourceUrl": "https://doi.org/10.1177/01461672231158883",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/exam-results-waiting-anxiety-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "結果待ち、自己採点し直すと落ち着く？",
+        "body": "試験が終わったのに、解答速報で何度も点数を数え直して「受かったかも」「やっぱりだめかも」を行き来しちゃう。あれ、気持ちは落ち着くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "248人に2週間ごとに聞いた",
+        "body": "米国の司法試験の結果を待つ248人に、2週間ごとに「合格の見込み」を答えてもらった研究があるんだ。見込みがどれくらい変わったかと、心配の大きさを比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "見込みが揺れる人ほど心配",
+        "body": "見込みが変わる回数が多い人ほど、待つ間の心配や嫌な気分が大きかったらしい。選挙の結果待ちの研究では、見込みを一定に保つ方が心配が少ないという因果も示されたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "試験の成績や日本では？",
+        "body": "選挙の研究では一部しか再現されなかったし、測ったのは気分だけ。次の勉強がはかどるかや、日本の資格試験の受験者に当てはまるかは、まだ確かめられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
