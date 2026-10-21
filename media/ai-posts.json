@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-multitask-meeting-missed-point",
+  "category": "考える力・集中",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-21",
+  "title": "会議や授業の最中にAIで調べものをしていたら、大事な話を聞き逃した。研究では、話を聞きながら別の作業をさせた実験で内容を覚えにくく、まずは聞き逃した点を話した本人に確かめる",
+  "summary": "講義中に別の作業をさせた実験では内容を覚えにくい結果が多い。聞き逃した点は当日中に1点に絞って本人に確かめ、次はAIで調べたいことをメモにためる。"
+ },
+ {
   "slug": "parent-home-ai-camera-consent-prepare",
   "category": "人間関係・孤独",
   "type": "guide",
