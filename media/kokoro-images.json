@@ -5338,5 +5338,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2023_Fili%C5%BCanki_do_herbaty.jpg/500px-2023_Fili%C5%BCanki_do_herbaty.jpg",
   "og": "https://mentalai.seadice.win/img/reemployment-job-quality-recover.jpg",
   "local": true
+ },
+ "retirement-loneliness-recover": {
+  "file": "File:Front view of a wooden outdoor bench in Singapore Botanic Gardens with plants in sunshine and blue sky.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Front_view_of_a_wooden_outdoor_bench_in_Singapore_Botanic_Gardens_with_plants_in_sunshine_and_blue_sky.jpg/960px-Front_view_of_a_wooden_outdoor_bench_in_Singapore_Botanic_Gardens_with_plants_in_sunshine_and_blue_sky.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Front_view_of_a_wooden_outdoor_bench_in_Singapore_Botanic_Gardens_with_plants_in_sunshine_and_blue_sky.jpg/500px-Front_view_of_a_wooden_outdoor_bench_in_Singapore_Botanic_Gardens_with_plants_in_sunshine_and_blue_sky.jpg",
+  "w": 960,
+  "h": 589,
+  "alt": "庭に置かれた木のベンチ",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Front_view_of_a_wooden_outdoor_bench_in_Singapore_Botanic_Gardens_with_plants_in_sunshine_and_blue_sky.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

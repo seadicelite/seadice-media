@@ -7073,5 +7073,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-retirement-loneliness-recover-europe-long-term",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Guthmuller S, Heger D, Hollenbach J, Werbeck A, \"The impact of retirement on loneliness in Europe\" (Scientific Reports, 2024)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-024-74692-y",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/retirement-loneliness-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "定年退職すると孤独になる？",
+        "body": "仕事をやめたら同僚と話さなくなって、そのまま孤独になっていく。そんなイメージ、けっこうあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "欧州とイスラエルの約2万人",
+        "body": "欧州13か国とイスラエルの50〜80歳19,699人の調査で、国ごとに違う年金の年齢を手がかりに、退職そのものが孤独を変えるかを調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "直後は変わらず、数年後に減っていた",
+        "body": "退職した直後の孤独にははっきりした変化がなく、4〜6年後には「孤立している」と感じる確率が11.4ポイント下がると推定されたらしい。新しい活動も増えていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "国や人によって違う",
+        "body": "これは年金の年齢をきっかけに退職した人の平均の話。米国では退職者のほうが孤独が多めという別の研究もあって、日本で同じかはわかっていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
