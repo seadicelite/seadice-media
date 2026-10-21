@@ -7243,5 +7243,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-singing-info-fatigue-sing-alone-together",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bowling DL et al., \"Endogenous oxytocin, cortisol, and testosterone in response to group singing\" (Hormones and Behavior, 2022)",
+    "sourceUrl": "https://doi.org/10.1016/j.yhbeh.2021.105105",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/singing-info-fatigue/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "歌うとすっきりする？",
+        "body": "「思いきり歌うとストレス解消になる」ってよく言うよね。ひとりで歌っても気分は変わるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "歌う・読む×みんな・ひとり",
+        "body": "ウィーンの若者の合唱団71人に、「歌う」か「歌詞を読み上げる」かを、みんなでかひとりでかの組み合わせで20分やってもらって、前後の気分を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "一緒に歌うと最も上がった",
+        "body": "気分の点数は、みんなで歌うと平均9.0点、ひとりで歌うと3.8点、ひとりで読み上げると1.2点上がった。みんなで読み上げた組では5.6点下がっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "歌好きの人の結果",
+        "body": "参加者は歌が好きな合唱団員だけ。ストレスホルモンはどの組でも下がったけど、夕方の自然な下がり方と区別できなかった。歌い慣れない人でも同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

@@ -5410,5 +5410,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Table_vanity_in_dark-brown_wood_with_mirror_and_one_box_4.jpg/500px-Table_vanity_in_dark-brown_wood_with_mirror_and_one_box_4.jpg",
   "og": "https://mentalai.seadice.win/img/appearance-checking-comparison-recover.jpg",
   "local": true
+ },
+ "singing-info-fatigue": {
+  "file": "File:Music Sheet, Alla Turca.jpg",
+  "src": "/img/singing-info-fatigue.jpg",
+  "src640": "/img/singing-info-fatigue-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "開いた楽譜のページ",
+  "artist": "Schiller12",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Music_Sheet,_Alla_Turca.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Music_Sheet%2C_Alla_Turca.jpg/960px-Music_Sheet%2C_Alla_Turca.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Music_Sheet%2C_Alla_Turca.jpg/500px-Music_Sheet%2C_Alla_Turca.jpg",
+  "og": "https://mentalai.seadice.win/img/singing-info-fatigue.jpg",
+  "local": true
  }
 }
