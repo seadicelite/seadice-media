@@ -2990,5 +2990,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Conference_Table_at_Scottsdale%2C_Arizona.jpg/500px-Conference_Table_at_Scottsdale%2C_Arizona.jpg",
   "og": "https://ai.seadice.win/img/ai-multitask-meeting-missed-point-og.jpg",
   "local": true
+ },
+ "family-ai-chat-special-beliefs": {
+  "file": "File:Bedside Lamp at Hyatt Hyderabad Gachibowli.jpg",
+  "src": "/img/family-ai-chat-special-beliefs.webp",
+  "src640": "/img/family-ai-chat-special-beliefs-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "ベッドの横の壁に付いた読書灯",
+  "artist": "Wasiul Bahar",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bedside_Lamp_at_Hyatt_Hyderabad_Gachibowli.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bedside_Lamp_at_Hyatt_Hyderabad_Gachibowli.jpg/960px-Bedside_Lamp_at_Hyatt_Hyderabad_Gachibowli.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bedside_Lamp_at_Hyatt_Hyderabad_Gachibowli.jpg/500px-Bedside_Lamp_at_Hyatt_Hyderabad_Gachibowli.jpg",
+  "og": "https://ai.seadice.win/img/family-ai-chat-special-beliefs-og.jpg",
+  "local": true
  }
 }
