@@ -7107,5 +7107,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-tai-chi-qigong-stress-recover-qigong-meta",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wang CW, Chan CHY, Ho RTH, Chan JSM, Ng SM, Chan CLW, \"Managing stress and anxiety through qigong exercise in healthy adults: a systematic review and meta-analysis of randomized controlled trials\" (BMC Complementary and Alternative Medicine, 2014)",
+    "sourceUrl": "https://doi.org/10.1186/1472-6882-14-8",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/tai-chi-qigong-stress-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ゆっくり動く気功で、ストレスは減る？",
+        "body": "公園で見かける、ゆっくりした動きと呼吸の気功。あれで本当にストレスが軽くなるのか、気になるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "健康な大人の試験7件をまとめた",
+        "body": "気功をする組としない組にくじで分けた、健康な大人の試験7件を集めたんだ。オーストラリア、韓国、香港、米国、中国本土、スペインの試験だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1〜3か月でストレスと不安が下がった",
+        "body": "順番待ちの組と比べると、1〜3か月気功を続けた組でストレスと不安が下がっていたらしい。下がり方の大きさは、ストレスで−0.88（標準化平均差）だった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "仲間と集まった効果かも",
+        "body": "試験は7件と少なく、方法にも欠点があった。気功の組だけが仲間と集まっていたから、動きの効果か、人と過ごした効果かは分けられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

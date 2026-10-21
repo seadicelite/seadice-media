@@ -5341,8 +5341,8 @@
  },
  "retirement-loneliness-recover": {
   "file": "File:Front view of a wooden outdoor bench in Singapore Botanic Gardens with plants in sunshine and blue sky.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Front_view_of_a_wooden_outdoor_bench_in_Singapore_Botanic_Gardens_with_plants_in_sunshine_and_blue_sky.jpg/960px-Front_view_of_a_wooden_outdoor_bench_in_Singapore_Botanic_Gardens_with_plants_in_sunshine_and_blue_sky.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Front_view_of_a_wooden_outdoor_bench_in_Singapore_Botanic_Gardens_with_plants_in_sunshine_and_blue_sky.jpg/500px-Front_view_of_a_wooden_outdoor_bench_in_Singapore_Botanic_Gardens_with_plants_in_sunshine_and_blue_sky.jpg",
+  "src": "/img/retirement-loneliness-recover.jpg",
+  "src640": "/img/retirement-loneliness-recover-sm.jpg",
   "w": 960,
   "h": 589,
   "alt": "庭に置かれた木のベンチ",
@@ -5350,6 +5350,24 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Front_view_of_a_wooden_outdoor_bench_in_Singapore_Botanic_Gardens_with_plants_in_sunshine_and_blue_sky.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Front_view_of_a_wooden_outdoor_bench_in_Singapore_Botanic_Gardens_with_plants_in_sunshine_and_blue_sky.jpg/960px-Front_view_of_a_wooden_outdoor_bench_in_Singapore_Botanic_Gardens_with_plants_in_sunshine_and_blue_sky.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Front_view_of_a_wooden_outdoor_bench_in_Singapore_Botanic_Gardens_with_plants_in_sunshine_and_blue_sky.jpg/500px-Front_view_of_a_wooden_outdoor_bench_in_Singapore_Botanic_Gardens_with_plants_in_sunshine_and_blue_sky.jpg",
+  "og": "https://mentalai.seadice.win/img/retirement-loneliness-recover.jpg",
+  "local": true
+ },
+ "tai-chi-qigong-stress-recover": {
+  "file": "File:Lake Tahoe at morning - 7-2023.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lake_Tahoe_at_morning_-_7-2023.jpg/960px-Lake_Tahoe_at_morning_-_7-2023.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lake_Tahoe_at_morning_-_7-2023.jpg/500px-Lake_Tahoe_at_morning_-_7-2023.jpg",
+  "w": 960,
+  "h": 508,
+  "alt": "朝の静かな湖",
+  "artist": "John D.",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lake_Tahoe_at_morning_-_7-2023.jpg",
   "source_label": "Wikimedia Commons"
  }
 }
