@@ -7413,5 +7413,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-fitspiration-workout-posts-comparison-why-china",
+    "category": "比べて落ち込む",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Song S, Du J, Wei H, Ibrahim MS, Adnan HM, \"Rethinking fitspiration in social media: Experimental insights from young Chinese women\" (PLoS One, 2026)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0357611",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/fitspiration-workout-posts-comparison-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "運動の投稿なら、見ても平気？",
+        "body": "ダイエットの投稿は落ち込むけど、筋トレや運動の「やる気が出る」投稿なら健康的だから大丈夫…って思うよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "414人に写真を10枚見せた",
+        "body": "中国の女子大学生414人をくじで3組に分けて、やせた体の写真、引き締まった体で運動する写真、風景の写真を10枚ずつ、1枚30秒以上見てもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "運動の写真でも下がった",
+        "body": "見る前の点数をそろえて比べると、自分の体を大切に思う気持ちは風景の組が39.13点、運動の写真の組が36.99点。やせた体の写真の組（32.56点）ほどではないけど、低かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "毎日見続けたら？",
+        "body": "測ったのは見た直後の変化だけ。毎日見続けたときにどうなるか、動き方や記録が中心の投稿でも同じかは、まだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
