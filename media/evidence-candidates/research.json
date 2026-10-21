@@ -8375,5 +8375,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-coffee-bowel-movement-urge-why-research-decaf-colon",
+    "category": "食べもの",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Brown SR et al., \"Effect of coffee on distal colon function\" (Gut, 1990)",
+    "sourceUrl": "https://doi.org/10.1136/gut.31.4.450",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/coffee-bowel-movement-urge-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "コーヒーでトイレに行きたくなるのはなぜ？",
+        "body": "朝のコーヒーを飲むと、しばらくしてトイレに行きたくなる。あれって、カフェインのせいなのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "99人に聞いて、14人の腸を測った",
+        "body": "イギリスの研究で、17〜27歳の99人に聞いたら、29%が「コーヒーで便意が起きる」と答えた。さらに14人の大腸の動きを、細い管で測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "4分で動き出し、デカフェでも同じ",
+        "body": "便意を感じる8人では、飲んで4分以内に大腸の終わりの動きが強まって、少なくとも30分続いた。カフェインを抜いたコーヒーでも起きて、お湯では起きなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どの成分が効いているの？",
+        "body": "腸を測ったのは14人だけ。カフェイン以外のどの成分が大腸を動かすのかは、今もくわしくはわかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
