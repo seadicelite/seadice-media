@@ -4562,5 +4562,23 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Ice_cream_in_cones.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "garlic-breath-after-eating-recovery-research": {
+  "file": "File:Garlic bulbs and cloves.jpg",
+  "src": "/img/garlic-breath-after-eating-recovery-research.jpg",
+  "src640": "/img/garlic-breath-after-eating-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "皮つきのニンニクの球と房",
+  "artist": "Ivar Leidus",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Garlic_bulbs_and_cloves.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Garlic_bulbs_and_cloves.jpg/960px-Garlic_bulbs_and_cloves.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Garlic_bulbs_and_cloves.jpg/500px-Garlic_bulbs_and_cloves.jpg",
+  "og": "https://research.seadice.win/img/garlic-breath-after-eating-recovery-research.jpg",
+  "local": true
  }
 }

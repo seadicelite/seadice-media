@@ -8035,5 +8035,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-garlic-breath-after-eating-recovery-research-gut-origin",
+    "category": "食べもの",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Suarez F et al., \"Differentiation of mouth versus gut as site of origin of odoriferous breath gases after garlic ingestion\" (American Journal of Physiology, 1999)",
+    "sourceUrl": "https://doi.org/10.1152/ajpgi.1999.276.2.g425",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/garlic-breath-after-eating-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ニンニクのにおい、歯みがきで消えないのはなぜ？",
+        "body": "ニンニク料理のあと、歯をみがいたのにまだ息がにおう。口の中はきれいなはずなのに、不思議だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5人が6gのニンニクを食べて測った",
+        "body": "研究者たちは、口の中の空気、肺の奥の空気、尿に出るにおい成分を比べたよ。どこから出ているかを見分けるためなんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "数時間後のにおいは、お腹から来ていた",
+        "body": "直後のにおいは口の中から。でもAMSという成分だけは肺の奥や尿にも同じように出ていた。3時間後には、これが息のにおいの主役に。体を回って肺から出るので、口を洗っても減らないらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数はたった5人",
+        "body": "調べたのは5人だけ。どれくらいの量で何時間続くかは、人や食べ方で変わるかもしれない。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
