@@ -5209,5 +5209,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Coffee_cup_in_hands_at_a_cafe_during_a_morning_break_with_a_focus_on_espresso_served_on_a_small_plate.jpg/500px-Coffee_cup_in_hands_at_a_cafe_during_a_morning_break_with_a_focus_on_espresso_served_on_a_small_plate.jpg",
   "og": "https://mentalai.seadice.win/img/friends-phone-glance-prevent.jpg",
   "local": true
+ },
+ "ai-use-work-loneliness-distress": {
+  "file": "File:Writing notes while using a laptop at a desk.jpg",
+  "src": "/img/ai-use-work-loneliness-distress.jpg",
+  "src640": "/img/ai-use-work-loneliness-distress-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "ノートパソコンの横で手帳にメモを書く手",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Writing_notes_while_using_a_laptop_at_a_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Writing_notes_while_using_a_laptop_at_a_desk.jpg/960px-Writing_notes_while_using_a_laptop_at_a_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Writing_notes_while_using_a_laptop_at_a_desk.jpg/500px-Writing_notes_while_using_a_laptop_at_a_desk.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-use-work-loneliness-distress.jpg",
+  "local": true
  }
 }

@@ -6733,5 +6733,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-ai-use-work-loneliness-distress-loneliness-path",
+    "category": "仕事とAIの不安",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Liu M, Li Y, Li J, \"The impact of generative AI use on employees' psychological distress: a moderated mediation model\" (Frontiers in Public Health, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpubh.2026.1798423",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-use-work-loneliness-distress/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く話",
+        "title": "AIで仕事が速いのに、気持ちが重い",
+        "body": "生成AIで作業はどんどん片づくのに、なぜかしんどい。そんな声、聞くよね。原因は「仕事を奪われる不安」だけなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "中国の会社員424人に聞いた",
+        "body": "中国・昆明市の20社で働く424人に、AIを使う頻度、仕事を失う不安、職場での孤独、心のつらさを質問票で答えてもらった調査なんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "大きかったのは「孤独」の道すじ",
+        "body": "AIをよく使う人ほど、不安も孤独も強い関連があった。心のつらさとのつながりは、孤独を通る道すじ（0.087）が不安を通る道すじ（0.020）の4倍ほどだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIのせいで孤独になる？",
+        "body": "一度きりの調査だから、AIを使うから孤独になるのか、孤独な人がAIをよく使うのかは区別できないよ。対象も1つの都市の会社員だけなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
