@@ -4360,5 +4360,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Headphones_on_wood_in_black_and_white_%28Unsplash%29.jpg/500px-Headphones_on_wood_in_black_and_white_%28Unsplash%29.jpg",
   "og": "https://dokugaku.seadice.win/img/english-listening-cannot-catch-reset.jpg",
   "local": true
+ },
+ "short-answer-self-scoring-idea-units": {
+  "file": "File:Pelikan Radiergummi.jpg",
+  "src": "/img/short-answer-self-scoring-idea-units.jpg",
+  "src640": "/img/short-answer-self-scoring-idea-units-sm.jpg",
+  "w": 960,
+  "h": 594,
+  "alt": "消しゴム",
+  "artist": "Stefan-Xp",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pelikan_Radiergummi.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Pelikan_Radiergummi.jpg/1280px-Pelikan_Radiergummi.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Pelikan_Radiergummi.jpg/500px-Pelikan_Radiergummi.jpg",
+  "og": "https://dokugaku.seadice.win/img/short-answer-self-scoring-idea-units.jpg",
+  "local": true
  }
 }

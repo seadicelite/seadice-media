@@ -8011,5 +8011,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-short-answer-self-scoring-idea-units-lenient-grading",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lipko et al., \"Using standards to improve middle school students' accuracy at evaluating the quality of their recall\" (Journal of Experimental Psychology: Applied, 2009)",
+    "sourceUrl": "https://doi.org/10.1037/a0017599",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/short-answer-self-scoring-idea-units/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く話",
+        "title": "自己採点って、つい甘くなる？",
+        "body": "記述問題の答え合わせで「だいたい合ってるから丸」。それ、どのくらい当てになるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "中学生が自分の答えを採点",
+        "body": "授業で習う用語の定義を思い出して書き、その出来を「完全に正しい・部分的に正しい・間違い」で自分で採点してもらったらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "間違いの73%に点をつけていた",
+        "body": "何も見ずに採点すると、まったく間違った答えの73%に満点か部分点をつけた。正しい定義を見ながらだと44%に減り、定義を要素に分けて確かめるとさらに減ったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い答案や大人でも同じ？",
+        "body": "短い用語の定義での実験。長い論述の答案や、資格試験を独学する大人で同じかは、この研究ではわからない。採点が正確になって成績が上がるかも別の問題。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
