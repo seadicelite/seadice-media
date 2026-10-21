@@ -8205,5 +8205,73 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-asparagus-urine-smell-why-research-forced-choice",
+    "category": "食べもの",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pelchat ML et al., \"Excretion and perception of a characteristic odor in urine after asparagus ingestion: a psychophysical and genetic study\" (Chemical Senses, 2011)",
+    "sourceUrl": "https://doi.org/10.1093/chemse/bjq081",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/asparagus-urine-smell-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "アスパラでおしっこがにおわない人もいる？",
+        "body": "アスパラを食べるとおしっこが独特のにおいになるよね。でも「そんなの気づいたことない」って人もいるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "尿を嗅ぎ比べる実験",
+        "body": "アメリカの研究所で大人38人が焼いたアスパラ125gを食べて、2時間後の尿を集めたんだ。ほかの参加者が、アスパラのあとの尿とそうでない尿を嗅ぎ比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "作らない人も、嗅げない人もいた",
+        "body": "37人中3人は、においの成分を嗅ぎ取れるほど作っていなかった。31人中2人は、においを嗅ぎ分けられなかった。嗅ぎ分ける力は、におい受容体の遺伝子の近くの違いと関係していたんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数はかなり少ない",
+        "body": "参加者は38人だけ。ふだんアスパラをどれくらい食べるかも調べていないから、慣れが影響するかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-asparagus-urine-smell-why-research-gwas",
+    "category": "食べもの",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Markt SC et al., \"Sniffing out significant 'Pee values': genome wide association study of asparagus anosmia\" (BMJ, 2016)",
+    "sourceUrl": "https://doi.org/10.1136/bmj.i6071",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/asparagus-urine-smell-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "アスパラのにおいは誰でもわかる？",
+        "body": "アスパラを食べたあとのおしっこのにおい、みんな気づいていると思いがち。実は気づかない人がかなり多いらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "6,909人に質問して遺伝子を調べた",
+        "body": "アメリカの看護師と医療職のヨーロッパ系6,909人に「アスパラのあと、尿に強い独特のにおいがする？」と聞いて、遺伝子と照らし合わせたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "6割が「強くは気づかない」",
+        "body": "「強くそう思う」と答えなかった人は60.3%。1番染色体のにおい受容体の遺伝子が集まる場所で、871か所の違いが関係していたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "自己申告だけの調査",
+        "body": "においを作れない人と嗅げない人を区別できていないし、参加者の平均は75歳以上。ヨーロッパ系以外に当てはまるかもわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

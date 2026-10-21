@@ -4639,5 +4639,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Beef_curry_rice_003.jpg/500px-Beef_curry_rice_003.jpg",
   "og": "https://research.seadice.win/img/leftover-curry-cooling-storage-how-research.jpg",
   "local": true
+ },
+ "asparagus-urine-smell-why-research": {
+  "file": "File:DFC 1676 Seared filet mignon atop a rich jus served with green beans herb butter-tossed potatoes and a smear of whipped herb butter - a classic steakhouse plate.jpg",
+  "src": "/img/asparagus-urine-smell-why-research.jpg",
+  "src640": "/img/asparagus-urine-smell-why-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "ステーキとさやいんげんを盛った皿",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DFC_1676_Seared_filet_mignon_atop_a_rich_jus_served_with_green_beans_herb_butter-tossed_potatoes_and_a_smear_of_whipped_herb_butter_-_a_classic_steakhouse_plate.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/DFC_1676_Seared_filet_mignon_atop_a_rich_jus_served_with_green_beans_herb_butter-tossed_potatoes_and_a_smear_of_whipped_herb_butter_-_a_classic_steakhouse_plate.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/DFC_1676_Seared_filet_mignon_atop_a_rich_jus_served_with_green_beans_herb_butter-tossed_potatoes_and_a_smear_of_whipped_herb_butter_-_a_classic_steakhouse_plate.jpg/500px-thumbnail.jpg",
+  "og": "https://research.seadice.win/img/asparagus-urine-smell-why-research.jpg",
+  "local": true
  }
 }
