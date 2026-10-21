@@ -6801,5 +6801,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-busy-workload-ai-dependence-prevent-procrastination",
+    "category": "AIとの付き合い方",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Garg A, Shelat S, Schooler JW, \"Now I feel like I'm going to get to it soon: a brief, scalable intervention for state procrastination\" (BMC Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.1186/s40359-025-03388-3",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/busy-workload-ai-dependence-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よくある悩み",
+        "title": "後回しにしている作業、ない？",
+        "body": "やらなきゃと思うほど手がつかない作業ってあるよね。6分くらいで書ける簡単な練習で、気持ちが少し動くか試した研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "米英の大人1,035人で実験",
+        "body": "後回しの作業を1つ挙げて、いやな気持ちや理由、終えたときのよい点を書き、すぐできる小さな一歩と時間、ごほうびを決める組と、中立な質問に答える組などをくじ引きで比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「24時間以内にやる」見込みが少し上がった",
+        "body": "練習した組は「24時間以内にやる」見込みが平均5.38で、比べる組の4.88より少し高かった（0〜9の目盛り）。作業への気分も少しよくなっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本当にやったかは測っていない",
+        "body": "わかったのは「やるつもり」まで。実際に作業をしたかは確かめていないし、差も小さい。作業へのいやさやストレスには、はっきりした差がなかったよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

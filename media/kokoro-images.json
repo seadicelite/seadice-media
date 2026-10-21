@@ -5234,5 +5234,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ruler_and_laptop_on_a_desk_%28Unsplash%29.jpg/500px-Ruler_and_laptop_on_a_desk_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/screen-eye-strain-blur-why-og.jpg",
   "local": true
+ },
+ "busy-workload-ai-dependence-prevent": {
+  "file": "File:Open book at the hotel reception.jpg",
+  "src": "/img/busy-workload-ai-dependence-prevent.webp",
+  "src640": "/img/busy-workload-ai-dependence-prevent-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上に開いたノート",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Open_book_at_the_hotel_reception.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Open_book_at_the_hotel_reception.jpg/960px-Open_book_at_the_hotel_reception.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Open_book_at_the_hotel_reception.jpg/500px-Open_book_at_the_hotel_reception.jpg",
+  "og": "https://mentalai.seadice.win/img/busy-workload-ai-dependence-prevent-og.jpg",
+  "local": true
  }
 }
