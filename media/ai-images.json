@@ -3078,5 +3078,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TASCAM_Ministudio_PortaOne_-_4_track_cassette_tape_recorder_%28c.1986%29.jpg/500px-TASCAM_Ministudio_PortaOne_-_4_track_cassette_tape_recorder_%28c.1986%29.jpg",
   "og": "https://ai.seadice.win/img/fake-recording-of-me-evidence-what-to-do.jpg",
   "local": true
+ },
+ "anonymized-ai-consult-still-identifiable": {
+  "file": "File:Copyright Card Catalog Files.jpg",
+  "src": "/img/anonymized-ai-consult-still-identifiable.jpg",
+  "src640": "/img/anonymized-ai-consult-still-identifiable-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "図書館のカード目録の引き出し",
+  "artist": "Michael Holley Swtpc6800",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Copyright_Card_Catalog_Files.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Copyright_Card_Catalog_Files.jpg/960px-Copyright_Card_Catalog_Files.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Copyright_Card_Catalog_Files.jpg/500px-Copyright_Card_Catalog_Files.jpg",
+  "og": "https://ai.seadice.win/img/anonymized-ai-consult-still-identifiable.jpg",
+  "local": true
  }
 }

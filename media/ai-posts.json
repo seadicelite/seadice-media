@@ -1,5 +1,14 @@
 [
  {
+  "slug": "anonymized-ai-consult-still-identifiable",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-22",
+  "title": "名前を伏せてAIに相談すれば、誰の話かはわからない？研究では、名前を消しても年齢や病名などの組み合わせで絞り込まれ、医療相談を想定した模擬実験では8割が5人未満まで絞られた",
+  "summary": "名前を伏せてもAIへの相談で誰の話か絞り込まれる？研究では年齢・地域・病名などの組み合わせで少人数まで絞られた。年代や広い地域にぼかして伝える。"
+ },
+ {
   "slug": "fake-recording-of-me-evidence-what-to-do",
   "category": "偽情報・ディープフェイク",
   "type": "guide",
