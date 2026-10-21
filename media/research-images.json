@@ -4729,5 +4729,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cup_saucer_and_coffee_art_%28Unsplash%29.jpg/500px-Cup_saucer_and_coffee_art_%28Unsplash%29.jpg",
   "og": "https://research.seadice.win/img/coffee-bowel-movement-urge-why-research.jpg",
   "local": true
+ },
+ "water-before-meals-eat-less-how-research": {
+  "file": "File:Blue glass with carbonated water.jpg",
+  "src": "/img/water-before-meals-eat-less-how-research.jpg",
+  "src640": "/img/water-before-meals-eat-less-how-research-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "水の入ったグラス",
+  "artist": "W.carter",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Blue_glass_with_carbonated_water.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Blue_glass_with_carbonated_water.jpg/960px-Blue_glass_with_carbonated_water.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Blue_glass_with_carbonated_water.jpg/500px-Blue_glass_with_carbonated_water.jpg",
+  "og": "https://research.seadice.win/img/water-before-meals-eat-less-how-research.jpg",
+  "local": true
  }
 }

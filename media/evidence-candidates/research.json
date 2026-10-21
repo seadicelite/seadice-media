@@ -8409,5 +8409,68 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-water-before-meals-eat-less-how-research-age-difference",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Van Walleghen EL et al., \"Pre-meal water consumption reduces meal energy intake in older but not younger subjects\" (Obesity, 2007)",
+    "sourceUrl": "https://doi.org/10.1038/oby.2007.506",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/water-before-meals-eat-less-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "食事の前に水を飲むと食べすぎない？",
+        "body": "「ご飯の前に水を飲むと、食べる量が減る」ってよく聞くよね。お腹がふくれるから、というのが理由らしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "若い人と高齢の人で比べた",
+        "body": "アメリカの研究で、21〜35歳の29人と60〜80歳の21人に、昼食の30分前に水（女性375mL・男性500mL）を飲んでもらい、水なしの日と食べた量を比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効いたのは高齢の人だけ",
+        "body": "60〜80歳では682kcalが624kcalに減った。でも21〜35歳では892kcalと913kcalで差がなかった。お腹のふくれた感じは、みんな水で強まったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "なぜ若い人には効かない？",
+        "body": "1回の昼食だけの実験で、太っていない人が対象。高齢の人の減り方も主に男性によるもので、若い人で効かなかった理由はまだはっきりしない。"
+      }
+    ],
+    "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-water-before-meals-eat-less-how-research-12week-trial",
+    "category": "食べもの",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Dennis EA et al., \"Water consumption increases weight loss during a hypocaloric diet intervention in middle-aged and older adults\" (Obesity, 2010)",
+    "sourceUrl": "https://doi.org/10.1038/oby.2009.235",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/water-before-meals-eat-less-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "毎食前に水500mLを12週",
+        "body": "アメリカで55〜75歳の48人が、カロリーを控えた食事を12週続けた。半分の人は、毎食前に500mLの水も飲んだんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "体重が約2kg多く減った",
+        "body": "水を飲んだグループは、飲まなかったグループより体重が約2kg多く減って、減るスピードは44%大きかった。始めた頃は、水を飲むと1回の食事も少し減っていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "水だけでやせるわけではない",
+        "body": "カロリーを控えた食事との組み合わせで、人数も少なめ。12週後には食事が減る効果ははっきりしなくなっていて、ほかの年代で同じかもわからない。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
