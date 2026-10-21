@@ -7967,5 +7967,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-food-order-vegetables-first-blood-sugar-how-research-carb-last",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Shukla AP et al., \"Carbohydrate-last meal pattern lowers postprandial glucose and insulin excursions in type 2 diabetes\" (BMJ Open Diabetes Research & Care, 2017)",
+    "sourceUrl": "https://doi.org/10.1136/bmjdrc-2017-000440",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/food-order-vegetables-first-blood-sugar-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "野菜から食べると血糖値が上がりにくい？",
+        "body": "「ベジファースト」ってよく聞くよね。食べる物も量も同じなのに、順番だけで本当に変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ食事を3つの順番で",
+        "body": "アメリカの研究で、2型糖尿病の16人が同じ食事を、パンが先・パンが最後（野菜と鶏肉の10分後）・全部一緒の3通りで食べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "パンを最後にすると53%小さく",
+        "body": "パンを最後にした日は、パンが先の日より食後3時間の血糖値の上がり方が53%小さく、全部一緒の日と比べても44%小さかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く続けた効果ははっきりしない",
+        "body": "1回ずつの食事の実験なんだ。8件の試験をまとめた別のメタ分析では、数か月続けたときのHbA1cの差ははっきりしなかったらしい。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

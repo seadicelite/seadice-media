@@ -4531,5 +4531,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Walking_path_in_Dimmuborgir%2C_Iceland%2C_20240716_1342_1499.jpg/500px-Walking_path_in_Dimmuborgir%2C_Iceland%2C_20240716_1342_1499.jpg",
   "og": "https://research.seadice.win/img/overeating-full-stomach-walk-or-lie-down-research.jpg",
   "local": true
+ },
+ "food-order-vegetables-first-blood-sugar-how-research": {
+  "file": "File:Bowl of vegetable salad 001.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bowl_of_vegetable_salad_001.jpg/960px-Bowl_of_vegetable_salad_001.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bowl_of_vegetable_salad_001.jpg/500px-Bowl_of_vegetable_salad_001.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "ボウルに盛った野菜サラダ",
+  "artist": "Suyash Dwivedi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bowl_of_vegetable_salad_001.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
