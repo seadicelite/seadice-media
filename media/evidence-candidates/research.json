@@ -8273,5 +8273,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-overeating-next-day-weight-gain-recovery-research-weekly-rhythm",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Turicchi J et al., \"Weekly, seasonal and holiday body weight fluctuation patterns among individuals engaged in a European multi-centre behavioural weight loss maintenance intervention\" (PLoS One, 2020)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0232152",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/overeating-next-day-weight-gain-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "月曜に体重が増えた＝太った？",
+        "body": "週末に食べすぎて、月曜の朝に体重計を見てがっかり…。でもその増加、毎週くり返すふつうの波かもしれないらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "スマート体重計の記録を分析",
+        "body": "ヨーロッパ3か国で、減量後の体重維持に取り組む人の記録を分析したんだ。週の分析は1,421人で、1人平均220回も測っていたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "月曜に重く、金曜に軽い",
+        "body": "体重は月曜が最も重く、金曜が最も軽い、0.35%ほどの波をくり返していた。一方でクリスマス前後は平均1.35%増えて、2か月たっても戻りきらなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "体重を気にする人たちのデータ",
+        "body": "参加者は減量後の維持に取り組む人たち。ふだん体重を測らない一般の人でも同じ波になるかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
