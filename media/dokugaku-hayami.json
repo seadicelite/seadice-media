@@ -515,6 +515,15 @@
       "text": "文法のルールを説明する教え方の方が、説明しない教え方より伸びる傾向がメタ分析で出ています。会話中心の授業にも効果があり、組み合わせが確かです。",
       "slug": "adult-language-grammar-or-conversation-first",
       "evidence": "meta"
+    },
+    {
+      "id": "time-blocking",
+      "name": "カレンダーに勉強の時間を入れる（タイムブロッキング）",
+      "belief": "やることリストより、カレンダーに時間で入れるほうが守れる",
+      "level": "b",
+      "text": "リストと直接くらべた研究は見つかりません。「いつ・どうやるか」の計画は効くことが多い一方、長い講座では効果が1〜2週間で消えた実験も。毎週入れ直して使います。",
+      "slug": "calendar-time-blocking-vs-todo-list",
+      "evidence": "meta"
     }
   ]
 }

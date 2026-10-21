@@ -7807,5 +7807,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-calendar-time-blocking-vs-todo-list-time-management",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Aeon et al., \"Does time management work? A meta-analysis\" (PLoS ONE, 2021)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0245066",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/calendar-time-blocking-vs-todo-list/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "時間管理が上手な人は成績がいい？",
+        "body": "予定を立てて時間を管理できる人ほど、勉強の成績もいい。そんなイメージ、あるよね。手帳術やタイムブロッキングの本でもよく言われているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "158件の研究をまとめて分析",
+        "body": "2021年のメタ分析では、時間管理について調べた158件の研究（490の効果量）をまとめて、成績や仕事ぶり、心の健康との関係を見たよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績とは中くらいの関係。でもテストの点とは無関係",
+        "body": "時間管理と学業成績には中くらいの関係があった（r = 0.262）。ただ標準化テストの点数とは関係が見られなかったらしい。心の健康との関係（r = 0.313）の方が強かったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "時間管理したから成績が上がった、とは言えない",
+        "body": "多くは一時点のアンケート調査で、因果ははっきりしないよ。カレンダーとやることリストのどちらがいいかも、この分析では分けて調べていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
