@@ -7627,5 +7627,73 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-chocolate-overeating-stop-how-research-brisk-walk",
+    "category": "食べもの",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Oh & Taylor, \"Brisk walking reduces ad libitum snacking in regular chocolate eaters during a workplace simulation\" (Appetite, 2012)",
+    "sourceUrl": "https://doi.org/10.1016/j.appet.2011.11.006",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/chocolate-overeating-stop-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "チョコが止まらないとき、どうする？",
+        "body": "仕事の合間に、机のチョコをつい次々と食べちゃうこと、あるよね。がまん以外に、食べる量を減らせる方法はあるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "15分歩くか、休むか",
+        "body": "ある研究で、普段からチョコを食べる78人を、15分の早歩きをする組と静かに休む組に分けたんだ。そのあとパソコン作業をしながら、チョコを自由に食べてもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "食べた量が約半分に",
+        "body": "歩いた組が食べたチョコは平均15.6gで、休んだ組の28.8gの約半分だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "毎日続けたらどうなる？",
+        "body": "実験室で1回だけ調べた結果なんだ。毎日歩いたときに体重まで変わるかや、ほかのお菓子でも同じかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-chocolate-overeating-stop-how-research-distance",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Maas et al., \"Do distant foods decrease intake? The effect of food accessibility on consumption\" (Psychology & Health, 2012)",
+    "sourceUrl": "https://doi.org/10.1080/08870446.2011.565341",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/chocolate-overeating-stop-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "お菓子は見えない所に置くといい？",
+        "body": "「お菓子は手の届かない所に」ってよく聞くよね。でも、ほんの少し遠ざけるだけで本当に変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "20cm・70cm・140cm",
+        "body": "研究者が、お菓子の器を座った人から20cm、70cm、140cm先に置いて、食べる人と量を比べたんだ。2つの実験で77人と54人が参加したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "少し離すだけで減った",
+        "body": "70cmや140cm先に置くと、20cm先より食べる人も量も減ったらしい。あとで食べたい気持ちが強くなることもなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "追試では差が出ないことも",
+        "body": "別のチームの追試では、1つ目の実験で差がはっきりしなかったんだ。家で何日も続けたときの効果も、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

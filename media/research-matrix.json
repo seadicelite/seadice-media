@@ -373,7 +373,9 @@
      "expired-chocolate-best-before-research",
      "melted-chocolate-bloom-safe-research"
     ],
-    "how": [],
+    "how": [
+     "chocolate-overeating-stop-how-research"
+    ],
     "stuck": []
    }
   }
