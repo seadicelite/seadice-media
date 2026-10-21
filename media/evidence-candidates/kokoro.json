@@ -6631,5 +6631,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-social-clock-age-deadline-width",
+    "category": "比べて落ち込む",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zang L, Kim H, \"Culture and the Social Clock: Cultural Differences in the Optimal Timing of Life\" (Personality and Social Psychology Bulletin, 2026)",
+    "sourceUrl": "https://doi.org/10.1177/01461672251362514",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/social-clock-age-deadline/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「この年までに」って誰が決めた？",
+        "body": "結婚や就職に「ふさわしい年齢」がある気がして焦ること、あるよね。心理学ではこの感覚を「社会的時計」と呼ぶらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ふさわしい年齢の幅を聞いた",
+        "body": "米国と中国の人に、進学・就職・結婚などに「ふさわしい最も早い年齢と最も遅い年齢」を答えてもらったんだ。3つの研究で計1,039人だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "幅は約10年と約43年",
+        "body": "平均35歳前後の198人では、仕事の節目の幅が中国で約10年、米国で約43年。若い大人640人では、幅を狭く考える人ほど遅れたときのつらさを強く予想していたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "聞いたのは「予想」",
+        "body": "遅れたと想像したときの気持ちを聞いた調査で、実際に遅れた人の気持ちではないんだ。日本の人も調べていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

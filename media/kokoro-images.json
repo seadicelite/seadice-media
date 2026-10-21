@@ -5155,5 +5155,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Moleskine_Evernote_Smart_Notebook_and_pen_%288401944314%29.jpg/500px-Moleskine_Evernote_Smart_Notebook_and_pen_%288401944314%29.jpg",
   "og": "https://mentalai.seadice.win/img/ask-ai-not-coworker-why.jpg",
   "local": true
+ },
+ "social-clock-age-deadline": {
+  "file": "File:Multiple hourglasses.jpg",
+  "src": "/img/social-clock-age-deadline.jpg",
+  "src640": "/img/social-clock-age-deadline-sm.jpg",
+  "w": 960,
+  "h": 637,
+  "alt": "時計",
+  "artist": "Sauvagette",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Multiple_hourglasses.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Multiple_hourglasses.jpg/960px-Multiple_hourglasses.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Multiple_hourglasses.jpg/500px-Multiple_hourglasses.jpg",
+  "og": "https://mentalai.seadice.win/img/social-clock-age-deadline.jpg",
+  "local": true
  }
 }
