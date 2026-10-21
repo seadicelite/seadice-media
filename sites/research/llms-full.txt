@@ -6891,6 +6891,124 @@ A. 早朝に目が覚めて困っていた24人を比べた研究では、夕方
 
 ---
 
+# 早食いを直すには？ 研究で効果が出た「噛む回数を1.5倍」のやり方
+
+URL: https://research.seadice.win/eating-too-fast-slow-down-how-research/
+カテゴリ: 食べもの
+公開日: 2026-10-21
+
+「気づいたら食べ終わっていて、あとでお腹が苦しくなる」。早食いは、意志の弱さではなく食べ方のくせです。研究では、ゆっくり食べると1食の量が少なくなり、ふだんの噛む回数を1.5倍にした実験では9.5%減りました。しかも、あとでお腹がすきやすくなるわけではありませんでした。
+
+## 3行でわかる
+
+- 食べる速さを変えた22件の実験をまとめると、ゆっくり食べたほうが1食の量は少なくなりました。
+
+- 噛む回数をふだんの1.5倍にすると9.5%、2倍で14.8%、食べた量が減りました。
+
+- ゆっくり食べても、食後3.5時間までの空腹感は増えませんでした。ただし太り気味の人では差がはっきりしなかった実験もあります。
+
+## 01 悩みの正体早食いだと、なぜ食べすぎてしまう？
+
+速く食べると、同じ1食でも食べる量が増えることが、22件の実験のまとめでわかっています。一方で、速く食べても食後の空腹感は変わりませんでした。
+
+「気づいたら食べ終わっていた」「お腹いっぱいになるのが、食べ終わってから」。早食いの人には、よくある感覚です。食べる速さを実験で変えた研究をまとめると、ゆっくり食べたときのほうが1回の食事で食べる量が少なくなっていました。
+
+日本人の健診データの研究でも、早食いの人は太りやすい傾向がありました。ただし、こうした調査は「早食いだから太る」と言い切れるものではありません。そこで、実際にゆっくり食べる・よく噛む実験で何が起きたのかを見ていきます。お菓子の食べすぎについてはチョコを食べすぎないには？も参考になります。
+
+## 02 科学的にわかっていることゆっくり食べると、本当に食べる量は減る？
+
+減ります。実験では、ゆっくり食べると1食の量が1〜1.5割ほど少なくなりました。ただし太っている人では差がはっきりしなかった実験もあり、効き方には個人差があります。
+
+やり方（研究）1食で食べた量
+
+ゆっくり食べる（女性30人）646kcal → 579kcal
+噛む回数を1.5倍（45人）9.5%減
+噛む回数を2倍（45人）14.8%減
+一口を15回→40回噛む（男性30人）11.9%減
+
+Robinson Eら（2014、メタ分析）[1]
+
+食べる速さを実験で変えた22件の研究をまとめました。ゆっくり食べた条件のほうが、その食事で食べた量は少なくなりました（標準化平均差0.45）。速さの変え方が違っても、結果は同じ向きでした。食事の終わりから3.5時間後までの空腹感には、速さによる差はありませんでした。
+
+限界: 研究の間で結果のばらつきが大きく、1回の食事を調べた実験が中心です。長く続けたときの体重の変化はわかりません。
+
+Andrade AM, Greene GW, Melanson KJ（2008）[2]、Shah Mら（2014）[3]
+
+健康な女性30人の実験では、速く食べた日は平均645.7kcal、ゆっくり食べた日は579.0kcalでした。ゆっくりの日のほうが、食べ終わったときの満腹感も高くなりました。一方、70人を調べた別の実験では、標準体重の人では量が減りましたが（892.6→804.5kcal）、太り気味の人では差がはっきりしませんでした（724.8→667.3kcal）。
+
+対象: アメリカの大学で行った昼食などの実験。 ／ 限界: 好きなだけ食べる条件での1食の結果です。太り気味の人で効かないと決まったわけではなく、人数が少なかった可能性もあります。
+
+Zhu Y, Hollis JH（2014）[4]、Li Jら（2011）[5]
+
+18〜45歳の45人に、ふだんの噛む回数を数えてから、その1.5倍・2倍でピザを食べてもらいました。食べた量は1.5倍で9.5%、2倍で14.8%少なくなりました。若い男性30人の実験でも、一口を40回噛むと15回より11.9%少なく、食欲を高めるホルモン（グレリン）が下がり、満腹を伝えるホルモンが上がりました。
+
+限界: どちらも実験室での1食の結果です。Zhuらの実験では、食べ終わったときの空腹感は噛む回数で変わりませんでした。
+
+Ohkuma Tら（2015、メタ分析）[6]、Hurst Y, Fukuda H（2018）[7]
+
+23件の調査をまとめると、早食いの人はゆっくりの人よりBMIが平均1.78高く、肥満の割合も約2倍（オッズ比2.15）でした。2型糖尿病の日本人59,717人の健診データでは、早食いの人に比べ、食べるのが遅い人は肥満になりにくい結果でした（オッズ比0.58）。
+
+限界: 食べる速さは自己申告です。観察研究なので、早食いが原因だとは言い切れません。肥満の9〜17歳106人の試験では、食べる速さを知らせる機械で12か月練習した群のほうが、標準の治療だけの群よりBMIの指標が低くなりました[8]。
+
+## 03 今日からできる小さな一歩早食いを直すには、何から始める？
+
+まず、ふだん一口を何回噛んでいるか数えます。次の食事から、その回数を1.5倍にします。実験ではこれだけで、食べる量が約1割減りました。
+
+1. 今の噛む回数を数える: いつもどおりに食べて、最初の数口だけ、飲み込むまでに何回噛んだかを数えます。Zhuらの実験も、ここから始めました。
+所要 1分
+
+2. 噛む回数を1.5倍にする: 10回なら15回にします。慣れたら2倍を目指します。実験では1.5倍で9.5%、2倍で14.8%、食べた量が減りました。
+所要 毎食
+
+3. 回数は最初の数口だけ数える: ずっと数え続けると、食事が楽しくなくなります。最初の数口でリズムをつかみ、あとはそのペースで食べます。
+所要 1分
+
+4. 「足りない」と感じたら少し待つ: メタ分析では、ゆっくり食べて量が減っても、3.5時間後までの空腹感は増えていませんでした。おかわりの前に少し間をおきます。
+所要 数分
+
+## 04 続けるためのコツゆっくり食べるのを続けるには？
+
+ゆっくり食べる効果は、主に1回の食事の実験で確かめられています。続けやすい形にして、毎日の習慣にすることが大切です。
+
+- やり方は一つでいい: メタ分析では、速さの落とし方が違っても同じ向きの結果でした。続けやすい方法を一つ選びます。
+
+- 1回でうまくいかなくても大丈夫: 急いで食べてしまった日があっても、次の食事から戻せば十分です。
+
+- 寝不足の日は特に意識する: 寝不足だと高カロリーな物が欲しくなりやすいことがわかっています（寝不足で甘いものが食べたくなるのはなぜ？）。そんな日こそ、最初の数口をゆっくりにします。
+
+- 体重を減らしたい人は過度に期待しない: 太り気味の人では差がはっきりしなかった実験もあります。減量が必要な場合は、医師や管理栄養士に相談してください。
+
+## 05 よくある質問
+
+Q. 一口30回噛むと、やせられる？
+A. 今回調べた研究に、「30回」と体重の関係を確かめたものはありませんでした。実験では、ふだんの回数の1.5倍で食べる量が9.5%、2倍で14.8%減りました。ただし1回の食事の結果で、長く続けたときの体重の変化はわかっていません。
+
+Q. ゆっくり食べると、あとでお腹がすかない？
+A. 22件の実験のまとめでは、ゆっくり食べて量が減っても、食事の終わりから3.5時間後までの空腹感は速く食べたときと変わりませんでした。女性30人の実験では、ゆっくり食べたほうが食べ終わったときの満腹感が高くなりました。
+
+Q. 早食いだと太りやすいのは本当？
+A. 23件の調査をまとめると、早食いの人はBMIが平均1.78高く、肥満の割合も約2倍でした。日本人約6万人の健診データでも同じ傾向でした。ただし観察研究なので、早食いだけが原因とは言い切れません。
+
+## 出典
+
+- Robinson E, Almiron-Roig E, Rutters F, de Graaf C, Forde CG, Tudur Smith C, Nolan SJ, Jebb SA (2014). A systematic review and meta-analysis examining the effect of eating rate on energy intake and hunger. American Journal of Clinical Nutrition, 100(1), 123-151. https://doi.org/10.3945/ajcn.113.081745
+
+- Andrade AM, Greene GW, Melanson KJ (2008). Eating slowly led to decreases in energy intake within meals in healthy women. Journal of the American Dietetic Association, 108(7), 1186-1191. https://doi.org/10.1016/j.jada.2008.04.026
+
+- Shah M, Copeland J, Dart L, Adams-Huet B, James A, Rhea D (2014). Slower eating speed lowers energy intake in normal-weight but not overweight/obese subjects. Journal of the Academy of Nutrition and Dietetics, 114(3), 393-402. https://doi.org/10.1016/j.jand.2013.11.002
+
+- Zhu Y, Hollis JH (2014). Increasing the number of chews before swallowing reduces meal size in normal-weight, overweight, and obese adults. Journal of the Academy of Nutrition and Dietetics, 114(6), 926-931. https://doi.org/10.1016/j.jand.2013.08.020
+
+- Li J, Zhang N, Hu L, Li Z, Li R, Li C, Wang S (2011). Improvement in chewing activity reduces energy intake in one meal and modulates plasma gut hormone concentrations in obese and lean young Chinese men. American Journal of Clinical Nutrition, 94(3), 709-716. https://doi.org/10.3945/ajcn.111.015164
+
+- Ohkuma T, Hirakawa Y, Nakamura U, Kiyohara Y, Kitazono T, Ninomiya T (2015). Association between eating rate and obesity: a systematic review and meta-analysis. International Journal of Obesity, 39(11), 1589-1596. https://doi.org/10.1038/ijo.2015.96
+
+- Hurst Y, Fukuda H (2018). Effects of changes in eating speed on obesity in patients with diabetes: a secondary analysis of longitudinal health check-up data. BMJ Open, 8(1), e019589. https://pmc.ncbi.nlm.nih.gov/articles/PMC5855475/
+
+- Ford AL, Bergh C, Södersten P, Sabin MA, Hollinghurst S, Hunt LP, Shield JP (2010). Treatment of childhood obesity by retraining eating behaviour: randomised controlled trial. BMJ, 340, b5388. https://doi.org/10.1136/bmj.b5388
+
+---
+
 # メールやチャットが気になって集中できないときは？「1日3回まとめて見る」やり方を研究で調べた
 
 URL: https://research.seadice.win/email-chat-batching-focus-how-research/

@@ -7865,5 +7865,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-eating-too-fast-slow-down-how-research-chews",
+    "category": "食べもの",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zhu Y, Hollis JH, \"Increasing the number of chews before swallowing reduces meal size in normal-weight, overweight, and obese adults\" (Journal of the Academy of Nutrition and Dietetics, 2014)",
+    "sourceUrl": "https://doi.org/10.1016/j.jand.2013.08.020",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/eating-too-fast-slow-down-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "よく噛むと食べすぎない？",
+        "body": "「よく噛んで食べなさい」って子どもの頃に言われたよね。じゃあ実際、噛む回数を増やすと食べる量は変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "いつもの回数の1.5倍・2倍で噛んでみた",
+        "body": "アメリカの研究で、18〜45歳の45人にふだんの噛む回数を数えてもらい、その1倍・1.5倍・2倍でピザを満腹まで食べてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1.5倍で9.5%、2倍で14.8%減った",
+        "body": "いつもどおりの回数と比べて、1.5倍で9.5%、2倍で14.8%、食べた量が少なくなった。食事にかかる時間は長くなったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回の食事の実験",
+        "body": "実験室での1食の結果で、続けたら体重が減るかはわからない。食べ終わったときの空腹感は、噛む回数で変わらなかったんだって。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
