@@ -8317,5 +8317,73 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-why-library-study-room-feels-productive-effort-contagion",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mazza et al., \"Is Mental Effort Exertion Contagious? A Replication Study\" (Journal of Cognition, 2025)",
+    "sourceUrl": "https://doi.org/10.5334/joc.456",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-library-study-room-feels-productive/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "周りが頑張ると、自分も？",
+        "body": "自習室で隣の人が必死に勉強していると、つられて自分も頑張れる。頑張りは人から人へうつる、ってよく言うよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2016年の実験をやり直し",
+        "body": "隣の人が難しい課題で頑張ると、自分も頑張るようになるという2016年の実験（38人）を、大学生176人でそのままやり直した。さらに課題を難しくして120人でも試したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "頑張りはうつらなかった",
+        "body": "どちらの実験でも、隣の人の頑張りが自分にうつる効果は見つからなかった。元の研究のデータも、より頑健な方法で分析し直すと効果が消えたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "見えていなかっただけ？",
+        "body": "使ったのは画面に向かう数分の反応課題。隣の人の様子が見えにくかった可能性も著者たちは挙げている。何時間も一緒に勉強する場面は、まだ調べられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-why-library-study-room-feels-productive-live-teacher-vocab",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Martin, Underwood & Molinaro, \"I'm Doing Better on My Own: Social Inhibition in Vocabulary Learning in Adults\" (Frontiers in Psychology, 2019)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2019.01350",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-library-study-room-feels-productive/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "先生は目の前がいい？",
+        "body": "英単語を覚えるなら、動画より目の前の先生に教わるほうが覚えられそうだよね。小さい子どもでは実際にそうらしい。じゃあ大人は？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ先生、3通りの教え方",
+        "body": "英語を学ぶスペインの大学生36人が、新しい英単語を12語ずつ、顔なしの動画、先生の動画、目の前の先生の3通りで覚えた。別の36人では、作った単語でも試したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "目の前だと覚えにくかった",
+        "body": "いちばん多く覚えたのは先生の動画。目の前に先生がいると、動画より覚えた数が少なかった。著者たちは、人がいると難しい作業がやりにくくなる「社会的抑制」と考えているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数も場面も限られる",
+        "body": "各実験は36人で、覚えたのは12語ずつ。先生が直接話しかける場面で、図書館で知らない人が近くにいる状況とは違う。長く覚えているかもまだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

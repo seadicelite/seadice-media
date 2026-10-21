@@ -4504,5 +4504,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/An_open_notebook_on_a_sandy_beach.jpg/500px-An_open_notebook_on_a_sandy_beach.jpg",
   "og": "https://dokugaku.seadice.win/img/slacking-day-after-big-study-day-reset.jpg",
   "local": true
+ },
+ "why-library-study-room-feels-productive": {
+  "file": "File:George-peabody-library.jpg",
+  "src": "/img/why-library-study-room-feels-productive.jpg",
+  "src640": "/img/why-library-study-room-feels-productive-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "書棚が何層にも並ぶ図書館の閲覧室",
+  "artist": "Matthew Petroff",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:George-peabody-library.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/George-peabody-library.jpg/960px-George-peabody-library.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/George-peabody-library.jpg/500px-George-peabody-library.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-library-study-room-feels-productive.jpg",
+  "local": true
  }
 }
