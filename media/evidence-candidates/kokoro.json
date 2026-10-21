@@ -6835,5 +6835,73 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-hangover-next-day-focus-prevent-next-day-memory",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gunn C, Mackus M, Griffin C, Munafò MR, Adams S, \"A systematic review of the next-day effects of heavy alcohol consumption on cognitive performance\" (Addiction, 2018)",
+    "sourceUrl": "https://doi.org/10.1111/add.14404",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/hangover-next-day-focus-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "お酒が抜ければ、頭も元どおり？",
+        "body": "飲み会の翌朝、酔いは覚めたはずなのに、メールの文が頭に入らない。お酒が抜けたなら頭も戻っているはず、と思いがちだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "19本の研究、計1,163人をまとめた",
+        "body": "英国バース大学などのチーム。お酒を多く飲んだ翌日、血中のアルコールが0.02%未満まで下がった人の頭の働きを調べた研究を集めたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "記憶と、注意を保つ力が落ちていた",
+        "body": "翌日は、短い記憶・長い記憶・注意を保つ力・反応の速さが落ちていたらしい。一方、2つの作業を同時にこなす力には、はっきりした差がなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "少しだけ飲んだ翌日は？",
+        "body": "多くはかなり酔うまで飲んだ翌日の研究で、研究ごとのやり方の違いも大きい。1〜2杯の翌日にどうなるかは、まだはっきりしていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-hangover-next-day-focus-prevent-beer-wine-order",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Köchling J, Geis B, Wirth S, Hensel KO, \"Grape or grain but never the twain? A randomized controlled multiarm matched-triplet crossover trial of beer and wine\" (The American Journal of Clinical Nutrition, 2019)",
+    "sourceUrl": "https://doi.org/10.1093/ajcn/nqy309",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/hangover-next-day-focus-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ビールを先に飲めば二日酔いしにくい？",
+        "body": "「ビールのあとにワインなら大丈夫」みたいな飲む順番の言い伝え、聞いたことあるよね。本当に翌日の具合は変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "90人に順番を変えて飲んでもらった",
+        "body": "ドイツのヴィッテン・ヘァデケ大学の実験。19〜40歳の90人を、ビール→ワイン、ワイン→ビール、どちらか一方だけの組に分けて、翌日の二日酔いの重さを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "種類でも順番でも変わらなかった",
+        "body": "翌日の二日酔いの重さは、お酒の種類でも順番でも差がなかったらしい。重さとよく結びついていたのは、飲んでいる最中の「酔った」感覚と、吐いたかどうかだった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "少しの量なら？",
+        "body": "実験はかなり酔うまで飲む条件で、参加者も若い人が中心。少しだけ飲む場合や、ほかの年代でも同じかは確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
