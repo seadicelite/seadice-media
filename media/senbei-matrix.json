@@ -171,7 +171,9 @@
       "id": "safety",
       "label": "焦げと安全",
       "cells": {
-        "why": [],
+        "why": [
+          "why-acrylamide-forms-senbei"
+        ],
         "myth": [],
         "make": [
           "senbei-reduce-burnt-acrylamide"

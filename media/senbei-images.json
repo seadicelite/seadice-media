@@ -576,5 +576,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Salt_pile_in_Goa_%28traditional_salt_at_Batim%29.jpg/500px-Salt_pile_in_Goa_%28traditional_salt_at_Batim%29.jpg",
   "og": "https://senbei.seadice.win/img/senbei-salt-content-og.jpg",
   "local": true
+ },
+ "why-acrylamide-forms-senbei": {
+  "file": "File:Rice flour.jpg",
+  "src": "/img/why-acrylamide-forms-senbei.jpg",
+  "src640": "/img/why-acrylamide-forms-senbei-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "ボウルに入った米粉の生地",
+  "artist": "Thamizhpparithi Maari",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rice_flour.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rice_flour.jpg/960px-Rice_flour.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rice_flour.jpg/500px-Rice_flour.jpg",
+  "og": "https://senbei.seadice.win/img/why-acrylamide-forms-senbei.jpg",
+  "local": true
  }
 }
