@@ -7345,5 +7345,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-puppy-video-work-stress-pet-video-mood",
+    "category": "ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Johnson EA, Survase S, Gray PB, \"Examining the Impact of Virtual Animal Stimuli on College Students' Affect and Perception of their Academic Advising Experience\" (Animals, 2023)",
+    "sourceUrl": "https://doi.org/10.3390/ani13091522",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/puppy-video-work-stress/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "犬や猫の動画で、気分は変わる？",
+        "body": "疲れたときについ開いちゃう、動物の動画。あれって本当に気分が変わってるのかな？それとも気のせい？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "152人を4つの1分動画に振り分け",
+        "body": "米国の大学の実験。履修相談に来た学生152人をくじで分けて、犬と猫・野生動物・自然の風景・意味のない砂嵐のどれか1分の動画を見てもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "前向きな気分は上がった",
+        "body": "犬と猫の動画の組は、砂嵐の組より前向きな気分の点数が高かった。ただ、いやな気分の下がり方は、どの動画でも砂嵐と差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "仕事中の大人でも同じ？",
+        "body": "気分を測ったのは相談が終わったあとで、動画だけの影響とは言い切れない。対象は大学生で、働く大人や毎日見続けた場合はまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

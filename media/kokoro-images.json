@@ -5464,5 +5464,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Outdoor_wooden_bench_in_Singapore_Botanic_Gardens_at_golden_hour.jpg/500px-Outdoor_wooden_bench_in_Singapore_Botanic_Gardens_at_golden_hour.jpg",
   "og": "https://mentalai.seadice.win/img/ask-ai-not-people-conversation-value.jpg",
   "local": true
+ },
+ "puppy-video-work-stress": {
+  "file": "File:12-week-old Choclolate Labrador Retriever Puppy.jpg",
+  "src": "/img/puppy-video-work-stress.jpg",
+  "src640": "/img/puppy-video-work-stress-sm.jpg",
+  "w": 960,
+  "h": 645,
+  "alt": "毛布の上で眠る子犬",
+  "artist": "Rob Hanson",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:12-week-old_Choclolate_Labrador_Retriever_Puppy.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/12-week-old_Choclolate_Labrador_Retriever_Puppy.jpg/960px-12-week-old_Choclolate_Labrador_Retriever_Puppy.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/12-week-old_Choclolate_Labrador_Retriever_Puppy.jpg/500px-12-week-old_Choclolate_Labrador_Retriever_Puppy.jpg",
+  "og": "https://mentalai.seadice.win/img/puppy-video-work-stress.jpg",
+  "local": true
  }
 }
