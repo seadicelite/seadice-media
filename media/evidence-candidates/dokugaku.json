@@ -8147,5 +8147,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-earworm-song-stuck-while-studying-reset-cognitive-load",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Floridou et al., \"A novel indirect method for capturing involuntary musical imagery under varying cognitive load\" (Quarterly Journal of Experimental Psychology, 2017)",
+    "sourceUrl": "https://doi.org/10.1080/17470218.2016.1227860",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/earworm-song-stuck-while-studying-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "頭の中で曲が止まらないのはなぜ？",
+        "body": "さっき聞いた曲のサビが、頭の中でずっと流れて集中できない。あれ、どうすれば止まるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "200人で試した実験",
+        "body": "音楽だけの映画予告編を見てもらった後、5分間目を閉じる人と、点を数える課題をする人に分けて、頭に音楽が流れたかを聞いた実験があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "頭を使うと半分に",
+        "body": "目を閉じていた人は65%が「流れた」と答えたのに、易しい課題をした人でも32.5%に下がったらしい。頭に余裕があるほど、曲は入り込みやすいみたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の成績への影響は？",
+        "body": "測ったのは5分間の課題と本人の答えだけ。頭の中の曲で勉強の成績が下がるのか、作業を変えれば戻るのかは、まだ確かめられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

@@ -4432,5 +4432,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Brooks_Ghost_14_GTX.jpg/500px-Brooks_Ghost_14_GTX.jpg",
   "og": "https://dokugaku.seadice.win/img/evening-exercise-cant-sleep-study-reset.jpg",
   "local": true
+ },
+ "earworm-song-stuck-while-studying-reset": {
+  "file": "File:Groove and needle in close embrace from beginning to end.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Groove_and_needle_in_close_embrace_from_beginning_to_end.jpg/960px-Groove_and_needle_in_close_embrace_from_beginning_to_end.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Groove_and_needle_in_close_embrace_from_beginning_to_end.jpg/500px-Groove_and_needle_in_close_embrace_from_beginning_to_end.jpg",
+  "w": 960,
+  "h": 384,
+  "alt": "レコードプレーヤー",
+  "artist": "Franz van Duns",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Groove_and_needle_in_close_embrace_from_beginning_to_end.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
