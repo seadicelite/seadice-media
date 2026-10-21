@@ -8045,5 +8045,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-recall-practice-blank-cannot-remember-reset-guess-time",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Butowska-Buczyńska et al., \"Errorful learning of trivia questions and answers: The role of study time\" (Memory & Cognition, 2025)",
+    "sourceUrl": "https://doi.org/10.3758/s13421-024-01608-6",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/recall-practice-blank-cannot-remember-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "間違えてから答えを見ると覚える？",
+        "body": "「先に答えを予想して、外れてから正解を見るほうが覚えられる」。勉強法の本でもよく見る話だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "雑学48問で時間をそろえて比べた",
+        "body": "難しい雑学の問題で「8秒予想してから5秒答えを見る」と「問いと答えを読む」を比べたらしい。読む時間は5秒の組と13秒の組を用意した。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "時間をそろえると差が消えた",
+        "body": "読む時間が5秒だと正答率77%で、予想した組の83%より低かった。でも読む時間を13秒にそろえると、どちらも83%。別の71人の実験でも79%と79%だったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "雑学以外でも同じ？",
+        "body": "オンラインで雑学を覚えた大人の実験。単語の組の実験では予想の利点が出た研究も多く、教科書の内容や長い期間の勉強で同じかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

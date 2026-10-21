@@ -4378,5 +4378,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Pelikan_Radiergummi.jpg/500px-Pelikan_Radiergummi.jpg",
   "og": "https://dokugaku.seadice.win/img/short-answer-self-scoring-idea-units.jpg",
   "local": true
+ },
+ "recall-practice-blank-cannot-remember-reset": {
+  "file": "File:Moleskine Evernote Smart Notebook and pen (8401944314).jpg",
+  "src": "/img/recall-practice-blank-cannot-remember-reset.jpg",
+  "src640": "/img/recall-practice-blank-cannot-remember-reset-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上の開いたノートとペン",
+  "artist": "Guy Sie from Utrecht, Netherlands",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Moleskine_Evernote_Smart_Notebook_and_pen_(8401944314).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Moleskine_Evernote_Smart_Notebook_and_pen_%288401944314%29.jpg/960px-Moleskine_Evernote_Smart_Notebook_and_pen_%288401944314%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Moleskine_Evernote_Smart_Notebook_and_pen_%288401944314%29.jpg/500px-Moleskine_Evernote_Smart_Notebook_and_pen_%288401944314%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/recall-practice-blank-cannot-remember-reset.jpg",
+  "local": true
  }
 }
