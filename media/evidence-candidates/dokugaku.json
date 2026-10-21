@@ -8249,5 +8249,73 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-slacking-day-after-big-study-day-reset-ego-depletion-multisite",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vohs et al., \"A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect\" (Psychological Science, 2021)",
+    "sourceUrl": "https://doi.org/10.1177/0956797621989733",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/slacking-day-after-big-study-day-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "頑張ると意志力が尽きる？",
+        "body": "たくさん勉強した次の日に手がつかないのは、意志の力を使い果たしたから。自制心はガソリンみたいに減っていく、ってよく聞くよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "36の研究室で一斉に実験",
+        "body": "「意志力は使うと減る」という説を確かめるため、36の研究室で3,531人が参加した。先に自制心を使う課題をして、次の課題で成績が落ちるかを、事前に決めた方法で調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果はほぼ見つからず",
+        "body": "あらかじめ決めた分析では、はっきりした効果は出なかった（d = 0.06）。データは「効果なし」の方を約4倍支持していたらしい。疲れを強く感じた人ほど効果が大きい傾向は、探索的な分析で見られたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "一日中の勉強は別の話？",
+        "body": "実験は数分の課題を2つ続けるもの。何時間も勉強した翌日の疲れや、何日も続く勉強の調子までは測っていない。疲れの話は、まだ確かめる余地があるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-slacking-day-after-big-study-day-reset-to-date-to-go",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Koo & Fishbach, \"Dynamics of self-regulation: How (un)accomplished goal actions affect motivation\" (Journal of Personality and Social Psychology, 2008)",
+    "sourceUrl": "https://doi.org/10.1037/0022-3514.94.2.183",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/slacking-day-after-big-study-day-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「ここまで」と「あと少し」",
+        "body": "勉強のやる気を出すなら、「ここまでやった」を見る？それとも「あとこれだけ」を見る？どっちが続くのか、実は条件で変わるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "4つの研究で比べた",
+        "body": "試験勉強や寄付などを扱った4つの研究で、「やったこと」と「残っていること」のどちらに目を向けると、目標どおりに続けやすいかを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "本気度で答えが逆に",
+        "body": "大事でない試験のように本気度がまだ決まっていないときは「ここまで」を見る方が続いた。大事な試験のように本気度が確かなときは「残り」を見る方が続いたんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い独学でも同じ？",
+        "body": "測ったのは実験の中での意欲や行動で、何か月も続く独学の成果ではない。自分の本気度をどう見分けるかも、まだはっきりしていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
