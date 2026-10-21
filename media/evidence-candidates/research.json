@@ -8001,5 +8001,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-ice-cream-headache-brain-freeze-why-research-ice-water",
+    "category": "食べもの",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hensel O et al., \"Increased Blood Flow Velocity in Middle Cerebral Artery and Headache Upon Ingestion of Ice Water\" (Frontiers in Neurology, 2019)",
+    "sourceUrl": "https://doi.org/10.3389/fneur.2019.00677",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/ice-cream-headache-brain-freeze-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "アイスで頭がキーンとなるのはなぜ？",
+        "body": "かき氷を急いで食べると、おでこが痛くなるよね。冷えたのは口なのに、どうして頭が痛くなるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "77人が氷水を一気飲み",
+        "body": "ドイツの研究で、健康な77人がぬるま湯200mLのあと、0℃の氷水200mLをできるだけ速く飲んで、脳の血流を測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "39人がキーン、血流も速く",
+        "body": "ぬるま湯では誰も痛くならなかったけど、氷水では39人に頭痛が起きて、平均12秒ほどで治まった。頭痛が出た人ほど脳の血流が速くなっていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "血流は原因か結果か",
+        "body": "血流の変化が痛みの原因なのか結果なのかは、この実験ではわからないんだ。以前は血流が遅くなったという報告もあって、結果はそろっていないらしい。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
