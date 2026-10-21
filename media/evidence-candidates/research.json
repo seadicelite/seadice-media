@@ -8472,5 +8472,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-msg-umami-seasoning-headache-research-geha-challenge",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Geha RS et al., \"Multicenter, double-blind, placebo-controlled, multiple-challenge evaluation of reported reactions to monosodium glutamate\" (Journal of Allergy and Clinical Immunology, 2000)",
+    "sourceUrl": "https://doi.org/10.1067/mai.2000.110794",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/msg-umami-seasoning-headache-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "うま味調味料で頭痛がする？",
+        "body": "中華料理のあとに具合が悪くなるのは、うま味調味料（グルタミン酸ナトリウム）のせい。そう信じている人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "「敏感」と思う130人で二重盲検",
+        "body": "アメリカの研究で、自分は敏感だと思う130人に、空腹で5gのうま味調味料入り飲料と偽物を、中身を知らせずに別の日に飲んでもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "再テストで反応がそろわなかった",
+        "body": "うま味調味料だけに反応した人は38.5%、偽物だけでも13.1%。ところが反応した37人を試し直すと、同じ反応が出たのは19人だけ。食事と一緒だと反応はさらにそろわなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "空腹で大量だと話は別かも",
+        "body": "使ったのは空腹で5gという、ふつうの料理よりかなり多い量。この条件では偽物より症状が出やすかった。少ない量や、ほかの人で同じかは、この研究だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

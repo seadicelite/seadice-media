@@ -4747,5 +4747,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Blue_glass_with_carbonated_water.jpg/500px-Blue_glass_with_carbonated_water.jpg",
   "og": "https://research.seadice.win/img/water-before-meals-eat-less-how-research.jpg",
   "local": true
+ },
+ "msg-umami-seasoning-headache-research": {
+  "file": "File:Pholiota microspora miso soup 001.jpg",
+  "src": "/img/msg-umami-seasoning-headache-research.jpg",
+  "src640": "/img/msg-umami-seasoning-headache-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "汁もののお椀",
+  "artist": "Ocdp",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Pholiota_microspora_miso_soup_001.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pholiota_microspora_miso_soup_001.jpg/960px-Pholiota_microspora_miso_soup_001.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pholiota_microspora_miso_soup_001.jpg/500px-Pholiota_microspora_miso_soup_001.jpg",
+  "og": "https://research.seadice.win/img/msg-umami-seasoning-headache-research.jpg",
+  "local": true
  }
 }
