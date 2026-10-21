@@ -1144,5 +1144,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scott_County_Museum_of_History_004.jpg/500px-Scott_County_Museum_of_History_004.jpg",
   "og": "https://hanzai.seadice.win/img/defendant-remorse-perception.jpg",
   "local": true
+ },
+ "slippery-slope-small-transgressions": {
+  "file": "File:Spiral staircase in the Vatican Museums from bottom 02.jpg",
+  "src": "/img/slippery-slope-small-transgressions.jpg",
+  "src640": "/img/slippery-slope-small-transgressions-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "下から見上げたらせん階段",
+  "artist": "Wilfredor",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Spiral_staircase_in_the_Vatican_Museums_from_bottom_02.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Spiral_staircase_in_the_Vatican_Museums_from_bottom_02.jpg/960px-Spiral_staircase_in_the_Vatican_Museums_from_bottom_02.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Spiral_staircase_in_the_Vatican_Museums_from_bottom_02.jpg/500px-Spiral_staircase_in_the_Vatican_Museums_from_bottom_02.jpg",
+  "og": "https://hanzai.seadice.win/img/slippery-slope-small-transgressions.jpg",
+  "local": true
  }
 }
