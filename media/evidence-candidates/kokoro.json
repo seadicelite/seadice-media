@@ -6937,5 +6937,73 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-work-stress-activity-tracking-prevent-app-rct",
+    "category": "仕事とAIの不安",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Watanabe K, Inoue A, Sakuraya A, Imamura K, Yoshikawa T, Tsutsumi A, \"An mHealth Intervention Promoting Physical Activity to Reduce Psychological Distress Among Workers: Randomized Controlled Trial\" (Journal of Medical Internet Research, 2026)",
+    "sourceUrl": "https://doi.org/10.2196/96072",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/work-stress-activity-tracking-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "体の動きを記録すると、心も軽くなる？",
+        "body": "歩数や体の動きをスマホで見える化すると、仕事のストレスで心がすり減るのを防げるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "日本の働く人793人をくじ引きで比べた",
+        "body": "一方は体の動きと心の状態を記録するスマホの仕組みを3か月使い、もう一方は仕事のストレスの小冊子を受け取ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "3か月後、心の負担がわずかに軽かった",
+        "body": "記録の組は24点満点の質問票で約0.6点、心の負担の下がり方が大きかった。効果の大きさは小さめで、6か月後には差がなくなっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "体を動かしたから？続けたら？",
+        "body": "効果が体を動かしたことによるのかは確かめられていないよ。仕組みを作った研究者自身の試験で、約2割は「使わなきゃ」というプレッシャーも感じていた。"
+      }
+    ],
+    "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-work-stress-activity-tracking-prevent-steps-depression",
+    "category": "仕事とAIの不安",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bizzozero-Peroni B, Díaz-Goñi V, Jiménez-López E, et al., \"Daily Step Count and Depression in Adults: A Systematic Review and Meta-Analysis\" (JAMA Network Open, 2024)",
+    "sourceUrl": "https://doi.org/10.1001/jamanetworkopen.2024.51208",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/work-stress-activity-tracking-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "1万歩歩かないと意味がない？",
+        "body": "「1日1万歩」ってよく聞くよね。でも、そこまで歩けない日は心の健康には意味がないのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "33件の研究、9万6千人をまとめた",
+        "body": "歩数を機器で測った研究をまとめた分析。18歳以上の96,173人で、歩数と気分の落ち込みの関係を調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "7,000歩以上で、うつの割合が約3割低い",
+        "body": "人を追いかけた研究では、1日7,000歩以上の人はうつになる割合が約3割低く、1日1,000歩多いごとに約1割低い関係があったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "歩いたから、とは限らない",
+        "body": "どれも観察した研究で、気分が沈むと歩かなくなる逆の向きもありうる。1,000歩ごとの結果は2件の研究だけからの数字だよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

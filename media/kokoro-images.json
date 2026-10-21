@@ -5285,5 +5285,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Laptop_and_a_mug_%28Unsplash%29.jpg/500px-Laptop_and_a_mug_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/caffeine-mental-fatigue-focus-og.jpg",
   "local": true
+ },
+ "work-stress-activity-tracking-prevent": {
+  "file": "File:Footpath through Syon Park - geograph.org.uk - 8153991.jpg",
+  "src": "/img/work-stress-activity-tracking-prevent.webp",
+  "src640": "/img/work-stress-activity-tracking-prevent-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "木々のあいだを通る散歩道",
+  "artist": "Philip Jeffrey",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Footpath_through_Syon_Park_-_geograph.org.uk_-_8153991.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Footpath_through_Syon_Park_-_geograph.org.uk_-_8153991.jpg/960px-Footpath_through_Syon_Park_-_geograph.org.uk_-_8153991.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Footpath_through_Syon_Park_-_geograph.org.uk_-_8153991.jpg/500px-Footpath_through_Syon_Park_-_geograph.org.uk_-_8153991.jpg",
+  "og": "https://mentalai.seadice.win/img/work-stress-activity-tracking-prevent-og.jpg",
+  "local": true
  }
 }
