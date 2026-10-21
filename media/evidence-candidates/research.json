@@ -7559,5 +7559,73 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-memorized-but-cant-apply-transfer-recovery-research-different-examples",
+    "category": "記憶・学習",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Butler, Black-Maier, Raley & Marsh, \"Retrieving and applying knowledge to different examples promotes transfer of learning\" (Journal of Experimental Psychology: Applied, 2017)",
+    "sourceUrl": "https://doi.org/10.1037/xap0000142",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/memorized-but-cant-apply-transfer-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "同じ問題を何周もすれば応用力がつく？",
+        "body": "問題集を何周もする勉強法、よく聞くよね。でも同じ問題をくり返すのと、違う問題を解くのでは、応用力のつき方は同じなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ問題3回 vs 違う問題3問",
+        "body": "アメリカの研究者が、地学の講義動画を見たあとに応用問題で練習する実験を4つ行ったんだ。同じ問題を3回解く人と、違う例の問題を3問解く人に分けたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "違う例で練習したほうが上",
+        "body": "2日後に新しい応用問題を解くと、4つの実験すべてで、違う例で練習した人のほうが成績がよかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "もっと長い期間では？",
+        "body": "練習から本番までは2日で、講義動画を使った実験なんだ。何週間も先の試験や、学校の長い単元でも同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-memorized-but-cant-apply-transfer-recovery-research-transfer-meta",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pan & Rickard, \"Transfer of test-enhanced learning: Meta-analytic review and synthesis\" (Psychological Bulletin, 2018)",
+    "sourceUrl": "https://doi.org/10.1037/bul0000151",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/memorized-but-cant-apply-transfer-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "暗記の勉強は応用に効かない？",
+        "body": "自分でテストして覚える勉強は暗記には強いけど、応用問題には役に立たない、なんて言われることもあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "40年以上の研究をまとめた",
+        "body": "67本の論文、122の実験、のべ10,382人分の結果をまとめて、テストする勉強が新しい問題にも効くかを調べた分析があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効くけど、条件しだい",
+        "body": "読み直すだけより新しい問題を解く力は高まった（効果量d=0.40）。とくに応用問題や推論問題で大きく、練習と本番の答え方が近いことなどが効果を左右したらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "条件がないと効果は消える？",
+        "body": "出版の偏りを補正すると、そうした条件がそろわないときは転移がないと推定されることが多かったんだ。どの条件が一番大事かはまだ研究が続いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
