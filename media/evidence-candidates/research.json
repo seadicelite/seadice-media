@@ -7899,5 +7899,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-dessert-stomach-full-why-research-variety",
+    "category": "食べもの",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Embling R et al., \"Effect of food variety on intake of a meal: a systematic review and meta-analysis\" (The American Journal of Clinical Nutrition, 2021)",
+    "sourceUrl": "https://doi.org/10.1093/ajcn/nqaa352",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/dessert-stomach-full-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "品数が多いと、つい食べすぎる？",
+        "body": "お腹いっぱいでもデザートは入るし、食べ放題だと食べすぎる。料理の種類が多いと、本当に食べる量は増えるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "30研究をまとめて計算",
+        "body": "イギリスの研究チームが、品数と食べる量を調べた実験を集めて、30研究・39の比較をまとめて計算したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "品数が多いと食べる量が増えた",
+        "body": "品数が多いと食べる量は「小〜中程度」増えていた（効果量0.405）。違う料理を順番に出すときに差がいちばん大きかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "研究の質にはまだ課題",
+        "body": "研究ごとの結果のばらつきが大きく、理由は説明できなかった。偏りのおそれが高い研究も多いと著者たちは書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]

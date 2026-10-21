@@ -4495,5 +4495,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/A_bowl_of_rice.jpg/500px-A_bowl_of_rice.jpg",
   "og": "https://research.seadice.win/img/eating-too-fast-slow-down-how-research.jpg",
   "local": true
+ },
+ "dessert-stomach-full-why-research": {
+  "file": "File:Chocolate cake and Victoria sponge.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chocolate_cake_and_Victoria_sponge.jpg/960px-Chocolate_cake_and_Victoria_sponge.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chocolate_cake_and_Victoria_sponge.jpg/500px-Chocolate_cake_and_Victoria_sponge.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "皿にのったひと切れのケーキ",
+  "artist": "Acabashi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chocolate_cake_and_Victoria_sponge.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
