@@ -1137,5 +1137,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2016-01-17_03_01_01_Sidewalk_and_street_lights_at_night_along_Nichol_Avenue_at_Douglass_College_in_New_Brunswick%2C_New_Jersey.jpg/500px-2016-01-17_03_01_01_Sidewalk_and_street_lights_at_night_along_Nichol_Avenue_at_Douglass_College_in_New_Brunswick%2C_New_Jersey.jpg",
   "og": "https://bohan.seadice.win/img/night-walking-smartphone-awareness-risk-og.jpg",
   "local": true
+ },
+ "ai-chatbot-romance-scam": {
+  "file": "File:Smartphone with case cover on table.jpg",
+  "src": "/img/ai-chatbot-romance-scam.webp",
+  "src640": "/img/ai-chatbot-romance-scam-sm.webp",
+  "w": 960,
+  "h": 721,
+  "alt": "テーブルに置かれたスマートフォン",
+  "artist": "Santeri Viinamäki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Smartphone_with_case_cover_on_table.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Smartphone_with_case_cover_on_table.jpg/960px-Smartphone_with_case_cover_on_table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Smartphone_with_case_cover_on_table.jpg/500px-Smartphone_with_case_cover_on_table.jpg",
+  "og": "https://bohan.seadice.win/img/ai-chatbot-romance-scam-og.jpg",
+  "local": true
  }
 }
