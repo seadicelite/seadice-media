@@ -506,6 +506,15 @@
       "text": "自信の低い人で気分が悪化した2009年の実験は追試で再現されず、唱えて自信が上がる証拠もありません。次の手順を言葉にする声かけの方が研究に合います。",
       "slug": "positive-self-statements-i-can-affirmation",
       "evidence": "meta"
+    },
+    {
+      "id": "grammar-first",
+      "name": "大人の語学は文法をやらず会話から",
+      "belief": "文法より会話から入る方がいい",
+      "level": "c",
+      "text": "文法のルールを説明する教え方の方が、説明しない教え方より伸びる傾向がメタ分析で出ています。会話中心の授業にも効果があり、組み合わせが確かです。",
+      "slug": "adult-language-grammar-or-conversation-first",
+      "evidence": "meta"
     }
   ]
 }
