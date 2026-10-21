@@ -189,11 +189,8 @@
       "id": "gift",
       "label": "誰かにあげたくなる",
       "cells": {
-        "why": [
-          "gift-chocolate-psychology"
-        ],
+        "why": [],
         "myth": [
-          "handmade-gift",
           "assortment-variety"
         ],
         "make": [
@@ -258,6 +255,7 @@
     }
   ],
   "research": [
-    "sensory-panel-size"
+    "sensory-panel-size",
+    "maker-bias-ikea-effect"
   ]
 }

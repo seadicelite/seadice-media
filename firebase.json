@@ -1305,6 +1305,18 @@
             }
           ]
         }
+      ],
+      "redirects": [
+        {
+          "source": "/gift-chocolate-psychology{,/**}",
+          "destination": "/packaging-crossmodal/",
+          "type": 301
+        },
+        {
+          "source": "/handmade-gift{,/**}",
+          "destination": "/maker-bias-ikea-effect/",
+          "type": 301
+        }
       ]
     }
   ]

@@ -977,7 +977,7 @@
   "url": "https://doi.org/10.1038/s41598-025-24077-6",
   "level": "数字確認",
   "finding": "36人が同じチョコを6種類の箱で評価。開け方で箱の魅力、香りと手ざわりで味の感じ方が変わった。チョコの香りは高級感と購入意向を上げ、好き度と「また食べたい」を下げた。",
-  "article": "gift-chocolate-psychology,packaging-crossmodal"
+  "article": "packaging-crossmodal,gift-chocolate-psychology"
  },
  {
   "cat": "感じ方",
@@ -987,7 +987,7 @@
   "url": "https://doi.org/10.3389/fpsyg.2023.1170674",
   "level": "数字確認",
   "finding": "日本人24人で、3Dプリンターで形だけ変えた同じチョコは、丸い形のほうがとがった形より甘く感じられた。酸味・苦味は差なし。",
-  "article": "gift-chocolate-psychology,shape-sweetness"
+  "article": "shape-sweetness,gift-chocolate-psychology"
  },
  {
   "cat": "感じ方",
@@ -1397,7 +1397,7 @@
   "url": "https://doi.org/10.1037/a0029223",
   "level": "数字確認",
   "finding": "博物館の来館者の実験で、贈り手の気持ちが受け手の評価を上げたのは主に親しい人から好みに合わない物をもらったとき（実験1の相関 r=.80 対 -.14）。贈り手はこれを予想できなかった（チョコ以外）。",
-  "article": "handmade-gift"
+  "article": "maker-bias-ikea-effect"
  },
  {
   "cat": "感じ方",
@@ -1407,7 +1407,7 @@
   "url": "https://doi.org/10.1509/jm.14.0018",
   "level": "要旨で照合",
   "finding": "4つの研究で、「手作り」と書かれた品は愛情がこもっていると受け取られて魅力が上がった。親しい人への贈り物では選ばれやすく、距離のある相手では差がなかった（チョコ以外）。",
-  "article": "handmade-gift"
+  "article": "maker-bias-ikea-effect"
  },
  {
   "cat": "感じ方",
@@ -1417,7 +1417,7 @@
   "url": "https://doi.org/10.1016/j.jcps.2011.08.002",
   "level": "要旨で照合",
   "finding": "自分で組み立てた家具や折り紙を専門家の作品と同じくらいの価値と見積もり、他人も同じ意見だと考えた。作り終えたときだけ出る効果（チョコ以外）。",
-  "article": "handmade-gift"
+  "article": "maker-bias-ikea-effect"
  },
  {
   "cat": "感じ方",
@@ -1427,7 +1427,7 @@
   "url": "https://doi.org/10.1016/j.jcps.2017.06.002",
   "level": "要旨で照合",
   "finding": "贈り手は思い出のこもった贈り物より好みに合う贈り物を、受け手が望むより多く選んだ。外すことへの不安が理由（チョコ以外）。",
-  "article": "handmade-gift"
+  "article": "maker-bias-ikea-effect"
  },
  {
   "cat": "感じ方",
@@ -2418,5 +2418,45 @@
   "level": "書誌のみ",
   "finding": "管理された場所で消費者の好みを測る試験の進め方の規格。人数の記述は確かめていない",
   "article": "sensory-panel-size"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Dohle, Rall & Siegrist 2014",
+  "title": "I cooked it myself: Preparing food increases liking and consumption",
+  "journal": "Food Quality and Preference",
+  "url": "https://doi.org/10.1016/j.foodqual.2013.11.001",
+  "level": "要旨で照合",
+  "finding": "60人で、自分で作った高カロリーのミルクセーキは人が作った物より好かれ、多く飲まれた。量の差は好き度で説明された",
+  "article": "maker-bias-ikea-effect"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Dohle, Rall & Siegrist 2016",
+  "title": "Does self-prepared food taste better? Effects of food preparation on liking",
+  "journal": "Health Psychology",
+  "url": "https://doi.org/10.1037/hea0000315",
+  "level": "要旨で照合",
+  "finding": "女性120人で、自分で作ると好き度が上がったのは健康的な料理だけで、そうでない料理では上がらなかった",
+  "article": "maker-bias-ikea-effect"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Troye & Supphellen 2012",
+  "title": "Consumer Participation in Coproduction: \"I Made it Myself\" Effects on Consumers' Sensory Perceptions and Evaluations of Outcome and Input Product",
+  "journal": "Journal of Marketing",
+  "url": "https://doi.org/10.1509/jm.10.0205",
+  "level": "要旨で照合",
+  "finding": "3実験で、夕食を自分で作った人は料理と調理キットを高く評価し、塩気・辛さの感じ方も良い評価に合う向きにずれた",
+  "article": "maker-bias-ikea-effect"
+ },
+ {
+  "cat": "感じ方",
+  "authors": "Raghoebar, van Kleef & de Vet 2017",
+  "title": "Self-crafting vegetable snacks: testing the IKEA-effect in children",
+  "journal": "British Food Journal",
+  "url": "https://doi.org/10.1108/BFJ-09-2016-0443",
+  "level": "数字確認",
+  "finding": "4〜6歳の86人で、野菜で飾りを作っても、ビーズで作った子と比べて野菜の好き度・食べた量に差はなかった",
+  "article": "maker-bias-ikea-effect"
  }
 ]

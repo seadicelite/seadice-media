@@ -135,23 +135,6 @@
   "og": "https://choco.seadice.win/img/flavanol-health-claims-og.jpg",
   "local": true
  },
- "gift-chocolate-psychology": {
-  "file": "File:White-Box-of-Chocolates.jpg",
-  "src": "/img/gift-chocolate-psychology.webp",
-  "src640": "/img/gift-chocolate-psychology-sm.webp",
-  "w": 960,
-  "h": 433,
-  "alt": "箱に並んだチョコ",
-  "artist": "Evan-Amos",
-  "license": "CC0",
-  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "page": "https://commons.wikimedia.org/wiki/File:White-Box-of-Chocolates.jpg",
-  "source_label": "Wikimedia Commons",
-  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/White-Box-of-Chocolates.jpg/960px-White-Box-of-Chocolates.jpg",
-  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/White-Box-of-Chocolates.jpg/500px-White-Box-of-Chocolates.jpg",
-  "og": "https://choco.seadice.win/img/gift-chocolate-psychology-og.jpg",
-  "local": true
- },
  "conching-time": {
   "file": "File:Granite Roller and Granite Base of a Conche.jpg",
   "src": "/img/conching-time.webp",
@@ -439,23 +422,6 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Dry-roasted_macadamia_nuts_covered_with_dark_chocolate%2C_made_in_Guam.jpg/960px-Dry-roasted_macadamia_nuts_covered_with_dark_chocolate%2C_made_in_Guam.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Dry-roasted_macadamia_nuts_covered_with_dark_chocolate%2C_made_in_Guam.jpg/500px-Dry-roasted_macadamia_nuts_covered_with_dark_chocolate%2C_made_in_Guam.jpg",
   "og": "https://choco.seadice.win/img/salt-contrast-inclusions-og.jpg",
-  "local": true
- },
- "handmade-gift": {
-  "file": "File:Bûche de Noël chocolat framboise maison.jpg",
-  "src": "/img/handmade-gift.webp",
-  "src640": "/img/handmade-gift-sm.webp",
-  "w": 960,
-  "h": 688,
-  "alt": "手作りのチョコのケーキ（ブッシュ・ド・ノエル）",
-  "artist": "Jebulon",
-  "license": "CC0",
-  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "page": "https://commons.wikimedia.org/wiki/File:B%C3%BBche_de_No%C3%ABl_chocolat_framboise_maison.jpg",
-  "source_label": "Wikimedia Commons",
-  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/B%C3%BBche_de_No%C3%ABl_chocolat_framboise_maison.jpg/960px-B%C3%BBche_de_No%C3%ABl_chocolat_framboise_maison.jpg",
-  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/B%C3%BBche_de_No%C3%ABl_chocolat_framboise_maison.jpg/500px-B%C3%BBche_de_No%C3%ABl_chocolat_framboise_maison.jpg",
-  "og": "https://choco.seadice.win/img/handmade-gift-og.jpg",
   "local": true
  },
  "packaging-crossmodal": {
@@ -966,6 +932,23 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/A_Cocoa_fruit.jpg/960px-A_Cocoa_fruit.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/A_Cocoa_fruit.jpg/500px-A_Cocoa_fruit.jpg",
   "og": "https://choco.seadice.win/img/fairtrade-label-taste-og.jpg",
+  "local": true
+ },
+ "maker-bias-ikea-effect": {
+  "file": "File:Chocolate tempering 1.jpg",
+  "src": "/img/maker-bias-ikea-effect.webp",
+  "src640": "/img/maker-bias-ikea-effect-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "作業台の上で固めているチョコ",
+  "artist": "Roozitaa",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chocolate_tempering_1.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Chocolate_tempering_1.jpg/960px-Chocolate_tempering_1.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Chocolate_tempering_1.jpg/500px-Chocolate_tempering_1.jpg",
+  "og": "https://choco.seadice.win/img/maker-bias-ikea-effect-og.jpg",
   "local": true
  }
 }
