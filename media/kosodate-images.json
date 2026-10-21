@@ -1309,5 +1309,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Classroom_-_Basic_Desks_-_Loxton_Historical_Village_%282020-10-22_09.30.20_by_Michael_Coghlan%29.jpg/500px-Classroom_-_Basic_Desks_-_Loxton_Historical_Village_%282020-10-22_09.30.20_by_Michael_Coghlan%29.jpg",
   "og": "https://kosodate.seadice.win/img/school-refusal-long-term-outcomes.jpg",
   "local": true
+ },
+ "sns-trouble-first-steps-parents": {
+  "file": "File:Glass-smartphone-table-2.jpg",
+  "src": "/img/sns-trouble-first-steps-parents.jpg",
+  "src640": "/img/sns-trouble-first-steps-parents-sm.jpg",
+  "w": 1200,
+  "h": 900,
+  "alt": "机の上のコップと充電中のスマートフォン",
+  "artist": "MartinThoma",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Glass-smartphone-table-2.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Glass-smartphone-table-2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Glass-smartphone-table-2.jpg",
+  "og": "https://kosodate.seadice.win/img/sns-trouble-first-steps-parents.jpg",
+  "local": true
  }
 }
