@@ -4146,5 +4146,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Desk_Lamp_1_2013-07-12.jpg/500px-Desk_Lamp_1_2013-07-12.jpg",
   "og": "https://dokugaku.seadice.win/img/sleepiness-check-sheet-study.jpg",
   "local": true
+ },
+ "coffee-caffeine-study-memory": {
+  "file": "File:A small cup of coffee.JPG",
+  "src": "/img/coffee-caffeine-study-memory.jpg",
+  "src640": "/img/coffee-caffeine-study-memory-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "小さなカップに入ったコーヒー",
+  "artist": "Julius Schorzman",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_small_cup_of_coffee.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/960px-A_small_cup_of_coffee.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/500px-A_small_cup_of_coffee.JPG",
+  "og": "https://dokugaku.seadice.win/img/coffee-caffeine-study-memory.jpg",
+  "local": true
  }
 }

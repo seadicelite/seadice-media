@@ -7535,5 +7535,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-coffee-caffeine-study-memory-after-study-faces",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Leon et al., \"Caffeine reduces accuracy in face recognition memory consolidation\" (Scientific Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-11737-w",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/coffee-caffeine-study-memory/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "覚えた後のコーヒーで記憶が定着？",
+        "body": "勉強の後にコーヒーを1杯飲むと、覚えたことが記憶に残りやすくなる。そんな話を聞いたことがあるかも。2014年にそういう実験が報告されたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "顔を覚えた直後にカフェイン200mg",
+        "body": "アルゼンチンの18〜40歳97人が、人の顔を10枚見た直後に、カフェイン200mgか偽の錠剤を飲んだ。翌日、並んだ顔から見た顔を選ぶテストを受けたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "むしろ間違いが増えた",
+        "body": "見た顔が並んでいる条件で、正しく選べたのはカフェインの組が50.7%、偽の錠剤の組が59.1%。見ていない顔を「見た」と選んだのは32.1%と20.0%で、カフェインの組のほうが多かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "睡眠や思い込みの影響は？",
+        "body": "参加者はふだんカフェインを多くとる人たちで、睡眠は測っていない。何を飲んだか本人が気づいた可能性を除く比較の組もなく、著者たちもこれらを限界に挙げているんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
