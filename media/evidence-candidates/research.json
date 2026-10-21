@@ -8103,5 +8103,73 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-onion-tears-why-research-sharp-knife",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wu Z et al., \"Droplet outbursts from onion cutting\" (PNAS, 2025)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.2512779122",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/onion-tears-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "よく切れる包丁なら、玉ねぎで泣かない？",
+        "body": "料理の世界では昔から言われてるよね。実はこれ、高速カメラで確かめた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "機械で玉ねぎを切って撮影",
+        "body": "刃を落として玉ねぎを切る装置を作り、1秒に5000〜2万コマで撮影。刃の鋭さと速さを変えて、飛び出すしぶきを数えたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "切れない刃でしぶきが最大約40倍",
+        "body": "刃先の幅0.91μmの鋭い刃より、13.3μmの刃ではしぶきが最大約40倍。刃を速くすると約4倍に増えた。しぶきは秒速1〜40mで飛び出してたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "涙の量は測っていない",
+        "body": "調べたのはしぶきで、人の涙じゃないんだ。冷やした玉ねぎで涙が減るかも、この研究ではわからなかったよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
+  },
+  {
+    "id": "research-onion-tears-why-research-tearless-onion",
+    "category": "食べもの",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kato M et al., \"Production and characterization of tearless and non-pungent onion\" (Scientific Reports, 2016)",
+    "sourceUrl": "https://doi.org/10.1038/srep23779",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/onion-tears-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "涙の出ない玉ねぎって作れる？",
+        "body": "玉ねぎの涙は、切った瞬間に酵素が働いてできる成分のせい。じゃあ、その酵素が少ない玉ねぎなら？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "種約1500粒から3世代かけて選んだ",
+        "body": "日本の研究チームが、イオンのビームを当てた種から育てた玉ねぎを、3世代かけて選び出したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "20人全員が「涙も辛みもない」",
+        "body": "選んだ玉ねぎを20人が試すと、全員が涙を誘う感じも辛みもないと答えた。涙の成分は普通の約7.5分の1。甘みを感じた人も多かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "涙の量は測っていない",
+        "body": "結果は試した人の感じ方と成分の量で、涙そのものは測っていないよ。食品会社のチームによる研究でもあるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
