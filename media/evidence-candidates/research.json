@@ -8506,5 +8506,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-iron-absorption-tea-timing-how-research-tea-1h",
+    "category": "食べもの",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ahmad Fuzi SF et al., \"A 1-h time interval between a meal containing iron and consumption of tea attenuates the inhibitory effects on iron absorption: a controlled trial in a cohort of healthy UK women using a stable iron isotope\" (The American Journal of Clinical Nutrition, 2017)",
+    "sourceUrl": "https://doi.org/10.3945/ajcn.117.161364",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/iron-absorption-tea-timing-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "食後の紅茶、鉄分に悪い？",
+        "body": "紅茶は食事の鉄の吸収を下げるって聞くよね。じゃあ、飲む時間をずらしたらどうなるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じおかゆを3通りで",
+        "body": "イギリスで女性12人が、鉄の吸収をたどれる目印入りのおかゆを、水と一緒・紅茶と同時・紅茶を食後1時間の3通りで食べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1時間あけると妨げが約半分",
+        "body": "吸収率は水で5.7%、紅茶と同時で3.6%、食後1時間の紅茶で5.7%。紅茶による妨げは37.2%から18.1%に、約半分になったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "12人・おかゆ1種類の話",
+        "body": "対象は貧血のない若い女性12人だけ。ほかの食事や、鉄が足りない人で同じになるかはまだわからない。コーヒーは食後1時間でも吸収が下がった別の研究もある。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
