@@ -2922,5 +2922,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coffee_%2812492821754%29.jpg/500px-Coffee_%2812492821754%29.jpg",
   "og": "https://ai.seadice.win/img/older-family-ai-fake-news-susceptible-og.jpg",
   "local": true
+ },
+ "ai-wrong-answer-insisted-admit-rebuild": {
+  "file": "File:Writing a Letter of Resignation.jpg",
+  "src": "/img/ai-wrong-answer-insisted-admit-rebuild.webp",
+  "src640": "/img/ai-wrong-answer-insisted-admit-rebuild-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上で書きかけの手紙",
+  "artist": "CIPHR Connect",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Writing_a_Letter_of_Resignation.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Writing_a_Letter_of_Resignation.jpg/960px-Writing_a_Letter_of_Resignation.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Writing_a_Letter_of_Resignation.jpg/500px-Writing_a_Letter_of_Resignation.jpg",
+  "og": "https://ai.seadice.win/img/ai-wrong-answer-insisted-admit-rebuild-og.jpg",
+  "local": true
  }
 }

@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-wrong-answer-insisted-admit-rebuild",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-21",
+  "title": "AIの答えを信じて、人前で間違ったことを言い張ってしまった。研究では、自分から「間違っていた」と認めた人のほうが信頼できると見られ、評判の傷は本人が思うより小さかった",
+  "summary": "米国511人の実験では誤りを認めた人の信頼度は7点中5.10、黙った人は3.88。自分の失敗の評判は悪く見積もりがち。認める一言と次の確かめ方。"
+ },
+ {
   "slug": "older-family-ai-fake-news-susceptible",
   "category": "偽情報・ディープフェイク",
   "type": "guide",
