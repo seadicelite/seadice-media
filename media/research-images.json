@@ -4588,15 +4588,20 @@
  },
  "milk-stomach-upset-lactose-how-research": {
   "file": "File:Milk products.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Milk_products.jpg/960px-Milk_products.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Milk_products.jpg/500px-Milk_products.jpg",
+  "src": "/img/milk-stomach-upset-lactose-how-research.jpg",
+  "src640": "/img/milk-stomach-upset-lactose-how-research-sm.jpg",
   "w": 960,
   "h": 720,
-  "alt": "牛乳とヨーグルト、チーズなどの乳製品",
+  "alt": "店の棚に並ぶ紙パックと袋入りの牛乳",
   "artist": "Khane Rokhl Barazani",
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Milk_products.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Milk_products.jpg/960px-Milk_products.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Milk_products.jpg/500px-Milk_products.jpg",
+  "og": "https://research.seadice.win/img/milk-stomach-upset-lactose-how-research.jpg",
+  "local": true
  }
 }
