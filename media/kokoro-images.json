@@ -5173,5 +5173,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Multiple_hourglasses.jpg/500px-Multiple_hourglasses.jpg",
   "og": "https://mentalai.seadice.win/img/social-clock-age-deadline.jpg",
   "local": true
+ },
+ "screenshot-forget-why": {
+  "file": "File:Oxford University Museum of Natural History, Oxford, UK - Diliff.jpg",
+  "src": "/img/screenshot-forget-why.jpg",
+  "src640": "/img/screenshot-forget-why-sm.jpg",
+  "w": 960,
+  "h": 577,
+  "alt": "天窓から光が入る博物館の展示ホール",
+  "artist": "Diliff",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Oxford_University_Museum_of_Natural_History,_Oxford,_UK_-_Diliff.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Oxford_University_Museum_of_Natural_History%2C_Oxford%2C_UK_-_Diliff.jpg/960px-Oxford_University_Museum_of_Natural_History%2C_Oxford%2C_UK_-_Diliff.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Oxford_University_Museum_of_Natural_History%2C_Oxford%2C_UK_-_Diliff.jpg/500px-Oxford_University_Museum_of_Natural_History%2C_Oxford%2C_UK_-_Diliff.jpg",
+  "og": "https://mentalai.seadice.win/img/screenshot-forget-why.jpg",
+  "local": true
  }
 }
