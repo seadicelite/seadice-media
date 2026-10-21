@@ -4182,5 +4182,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/WABI_index_card_example.jpg/500px-WABI_index_card_example.jpg",
   "og": "https://dokugaku.seadice.win/img/guess-word-meaning-before-answer.jpg",
   "local": true
+ },
+ "just-start-five-minutes-motivation": {
+  "file": "File:Masonic Hourglass.jpg",
+  "src": "/img/just-start-five-minutes-motivation.jpg",
+  "src640": "/img/just-start-five-minutes-motivation-sm.jpg",
+  "w": 960,
+  "h": 849,
+  "alt": "翼のついた砂時計の絵",
+  "artist": "Unknown authorUnknown author",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Masonic_Hourglass.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Masonic_Hourglass.jpg/960px-Masonic_Hourglass.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Masonic_Hourglass.jpg/500px-Masonic_Hourglass.jpg",
+  "og": "https://dokugaku.seadice.win/img/just-start-five-minutes-motivation.jpg",
+  "local": true
  }
 }

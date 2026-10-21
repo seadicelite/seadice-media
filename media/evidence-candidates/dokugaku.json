@@ -7603,5 +7603,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-just-start-five-minutes-motivation-aversiveness-delay",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wieland et al., \"Predicting Delay in Goal-Directed Action: An Experience Sampling Approach Uncovering Within-Person Determinants Involved in the Onset of Academic Procrastination Behavior\" (Frontiers in Psychology, 2021)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2021.695927",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/just-start-five-minutes-motivation/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "先延ばしは「性格」のせい？",
+        "body": "「自分は先延ばしするタイプだから」と思っている人は多いよね。でも、実際に予定を先送りするかどうかは、何で決まるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "75人の8日間の勉強日記",
+        "body": "ドイツの大学生75人が8日間、「明日やる勉強」とその作業への感じ方を毎日記録した。予定した501件のうち、先送りされたのは21.2%だったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「嫌だ」が増えると先送り約2倍",
+        "body": "予定した日から当日までに、その作業を嫌だと感じる度合いが1段階上がると、先送りの起こりやすさ（オッズ）は約2.12倍に。逆に、ふだんの先延ばししやすさの点数は、個々の先送りを予測しなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "8日間の自己記録",
+        "body": "対象は時間管理の授業をとった大学生だけで、記録は自分でつけたもの。期間も8日間と短く、社会人の独学や長い期間でも同じかはわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
