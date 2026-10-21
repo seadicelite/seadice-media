@@ -4693,5 +4693,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Choc-Chip-Cookie.jpg/500px-Choc-Chip-Cookie.jpg",
   "og": "https://research.seadice.win/img/dropped-food-five-second-rule-research.jpg",
   "local": true
+ },
+ "hangover-next-morning-recovery-research": {
+  "file": "File:Fasting 4-Fasting-a-glass-of-water-on-an-empty-plate.jpg",
+  "src": "/img/hangover-next-morning-recovery-research.jpg",
+  "src640": "/img/hangover-next-morning-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 837,
+  "alt": "水の入ったコップ",
+  "artist": "Dr Jean Fortunet",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fasting_4-Fasting-a-glass-of-water-on-an-empty-plate.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fasting_4-Fasting-a-glass-of-water-on-an-empty-plate.jpg/960px-Fasting_4-Fasting-a-glass-of-water-on-an-empty-plate.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fasting_4-Fasting-a-glass-of-water-on-an-empty-plate.jpg/500px-Fasting_4-Fasting-a-glass-of-water-on-an-empty-plate.jpg",
+  "og": "https://research.seadice.win/img/hangover-next-morning-recovery-research.jpg",
+  "local": true
  }
 }
