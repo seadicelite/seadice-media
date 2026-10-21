@@ -7637,5 +7637,73 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-rosemary-scent-memory-before-exam-rosemary",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Moss et al., \"Aromas of rosemary and lavender essential oils differentially affect cognition and mood in healthy adults\" (International Journal of Neuroscience, 2003)",
+    "sourceUrl": "https://doi.org/10.1080/00207450390161903",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/rosemary-scent-memory-before-exam/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ローズマリーで記憶力アップ？",
+        "body": "「試験前にローズマリーの香りをかぐと記憶力が上がる」って聞いたことあるよね。この話のもとになった実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "144人を香りの部屋に",
+        "body": "イギリスの研究で、144人をローズマリー・ラベンダー・香りなしの3つの部屋にくじで分けて、記憶と注意の検査をしたよ。本当の目的は最後まで伏せていた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "正確さは上、速さは下",
+        "body": "ローズマリーの部屋の人は、香りなしの人より記憶の正確さの得点が高かった。でも思い出す速さは逆に遅くなっていたんだ。ラベンダーの部屋では作業記憶の成績が下がった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回の検査の話",
+        "body": "実験室での1回の検査で、試験本番の点数は測っていない。同じ結果をほかの研究室で確かめた研究も見つからなかった。香りには思い込みの影響も混ざりやすいらしい。"
+      }
+    ],
+    "addedAt": "2026-10-21"
+  },
+  {
+    "id": "dokugaku-rosemary-scent-memory-before-exam-sleep-odor",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Neumann et al., \"How odor cues help to optimize learning during sleep in a real life-setting\" (Scientific Reports, 2020)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-020-57613-7",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/rosemary-scent-memory-before-exam/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "寝ている間に香りで復習？",
+        "body": "覚えるときと同じ香りを、寝ている間にも置いておく。それだけで記憶に残りやすくなるなんてこと、あるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "6年生54人の英単語",
+        "body": "ドイツの11〜12歳54人が、家で英単語を覚えるときにバラの香りのお香（火はつけない）を机に置いた。半分は1週間、寝るときも枕元に置いたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "枕元に置いた組は誤りが少ない",
+        "body": "寝るときも置いた組は、香りなしの組よりテストの誤りが少なかった（誤りの割合の平均25%と36%）。覚えるときとテストのときだけ置いた組では、はっきりした差はなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "思い込みは除けていない",
+        "body": "比べた組にはお香を配っていないので、思い込みの影響を完全には除けていないと著者ら自身が書いている。人数も少なく、睡眠も測っていない。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
