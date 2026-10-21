@@ -8307,5 +8307,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-dropped-food-five-second-rule-research-under-one-second",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Miranda RC & Schaffner DW, \"Longer Contact Times Increase Cross-Contamination of Enterobacter aerogenes from Surfaces to Food\" (Applied and Environmental Microbiology, 2016)",
+    "sourceUrl": "https://doi.org/10.1128/AEM.01838-16",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/dropped-food-five-second-rule-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "3秒以内ならセーフ？",
+        "body": "床に落としたおやつ、すぐ拾えば菌はまだ付いていない…。「3秒ルール」、英語圏では「5秒ルール」と呼ばれる有名な説だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2,560回、落としてみた",
+        "body": "米ラトガース大学のチームが、床材4種・食べもの4種・時間4通り（1秒未満〜300秒）を組み合わせて、各20回ずつ菌がどれだけ移るかを測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1秒未満でも移っていた",
+        "body": "時間が長いほど多く移るのは本当。でも1秒未満でも菌は移っていた。スイカは最大約97%、グミは最大約62%と、食べものの湿り気の差のほうが大きかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふつうの家の床では？",
+        "body": "実験では、病気を起こさない菌を床材にたっぷり付けて測っている。実際の家の床でどれだけ危ないかは、床にいる菌の種類と量しだいで、この実験だけではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

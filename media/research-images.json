@@ -4675,5 +4675,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Full_English_breakfast_at_the_Chalet_Cafe%2C_Cowfold%2C_West_Sussex%2C_England.jpg/500px-Full_English_breakfast_at_the_Chalet_Cafe%2C_Cowfold%2C_West_Sussex%2C_England.jpg",
   "og": "https://research.seadice.win/img/overeating-next-day-weight-gain-recovery-research.jpg",
   "local": true
+ },
+ "dropped-food-five-second-rule-research": {
+  "file": "File:Choc-Chip-Cookie.jpg",
+  "src": "/img/dropped-food-five-second-rule-research.jpg",
+  "src640": "/img/dropped-food-five-second-rule-research-sm.jpg",
+  "w": 960,
+  "h": 660,
+  "alt": "クッキー",
+  "artist": "Evan-Amos",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Choc-Chip-Cookie.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Choc-Chip-Cookie.jpg/960px-Choc-Chip-Cookie.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Choc-Chip-Cookie.jpg/500px-Choc-Chip-Cookie.jpg",
+  "og": "https://research.seadice.win/img/dropped-food-five-second-rule-research.jpg",
+  "local": true
  }
 }
