@@ -6767,5 +6767,39 @@
       }
     ],
     "addedAt": "2026-10-21"
+  },
+  {
+    "id": "kokoro-screen-eye-strain-blur-why-blink",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Argilés M, Cardona G, Pérez-Cabré E, Rodríguez M, \"Blink Rate and Incomplete Blinks in Six Different Controlled Hard-Copy and Electronic Reading Conditions\" (Investigative Ophthalmology & Visual Science, 2015)",
+    "sourceUrl": "https://doi.org/10.1167/iovs.15-16967",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/screen-eye-strain-blur-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "画面を見ると目が乾くのはなぜ？",
+        "body": "パソコンで長く読んでいると、目がしょぼしょぼしてくるよね。画面のせいなのか、読むこと自体のせいなのか、気にならない？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "50人のまばたきを録画",
+        "body": "18〜74歳の50人の顔を録画して、2m先の風景写真を見るときと、紙・タブレット・パソコンで6分間文章を読むときのまばたきを比べた実験なんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "読むとまばたきが減る、紙でも",
+        "body": "まばたきは風景のとき1分15.5回（中央値）、パソコンで読むと6.5回、紙の本でも5回に減っていた。一方、閉じきらないまばたきが増えたのは画面で読むときだけだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "これが目の疲れの原因？",
+        "body": "6分間の実験室での読書で、目に不調のない人が対象。閉じきらないまばたきが一日の画面作業の疲れにどれだけ関わるかは、まだはっきりしていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-21"
   }
 ]
