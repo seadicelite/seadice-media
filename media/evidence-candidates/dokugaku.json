@@ -8079,5 +8079,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-afraid-of-failing-avoid-practice-tests-restart-avoidance-goals",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Van Yperen et al., \"A meta-analysis of self-reported achievement goals and nonself-report performance across three achievement domains (work, sports, and education)\" (PLoS ONE, 2014)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0093594",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/afraid-of-failing-avoid-practice-tests-restart/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よくある気持ち",
+        "title": "「失敗したくない」で頑張る？",
+        "body": "試験勉強で「悪い点だけは取りたくない」と思うこと、あるよね。その目標、成績とどう関係するんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "98本の論文、33,983人をまとめた",
+        "body": "学業・仕事・スポーツで、本人が答えた目標と、実際の成績や点数の関係をまとめたメタ分析らしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「避けたい」目標ほど成績は低め",
+        "body": "教育の分野では「人より悪くなりたくない」が強い人ほど成績が低い傾向（相関 −0.14）。「できるようになりたい」はプラスの関係（0.13）だったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "目標を変えれば上がる？",
+        "body": "相関の研究で、関係も小さい。もともと成績に自信がない人が「失敗したくない」と思いやすいだけかもしれない。目標を変えて成績が上がるかは別に確かめる必要がある。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
