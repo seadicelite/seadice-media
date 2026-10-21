@@ -2939,5 +2939,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Writing_a_Letter_of_Resignation.jpg/500px-Writing_a_Letter_of_Resignation.jpg",
   "og": "https://ai.seadice.win/img/ai-wrong-answer-insisted-admit-rebuild-og.jpg",
   "local": true
+ },
+ "ai-writing-roles-who-judges-prepare": {
+  "file": "File:Drawing, Sketchbook Page with Impressio Librorum (Printing of Books), ca. 1590 (CH 18120397-2).jpg",
+  "src": "/img/ai-writing-roles-who-judges-prepare.webp",
+  "src640": "/img/ai-writing-roles-who-judges-prepare-sm.webp",
+  "w": 960,
+  "h": 704,
+  "alt": "本の印刷の作業を描いた16世紀の素描",
+  "artist": "Unknown artist",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Drawing,_Sketchbook_Page_with_Impressio_Librorum_(Printing_of_Books),_ca._1590_(CH_18120397-2).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Drawing%2C_Sketchbook_Page_with_Impressio_Librorum_%28Printing_of_Books%29%2C_ca._1590_%28CH_18120397-2%29.jpg/960px-Drawing%2C_Sketchbook_Page_with_Impressio_Librorum_%28Printing_of_Books%29%2C_ca._1590_%28CH_18120397-2%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Drawing%2C_Sketchbook_Page_with_Impressio_Librorum_%28Printing_of_Books%29%2C_ca._1590_%28CH_18120397-2%29.jpg/500px-Drawing%2C_Sketchbook_Page_with_Impressio_Librorum_%28Printing_of_Books%29%2C_ca._1590_%28CH_18120397-2%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-writing-roles-who-judges-prepare-og.jpg",
+  "local": true
  }
 }

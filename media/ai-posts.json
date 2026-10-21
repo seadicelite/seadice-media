@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-writing-roles-who-judges-prepare",
+  "category": "考える力・集中",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-21",
+  "title": "AIと文章や資料を作るとき、どこまで任せると力が残る？744人の実験では、AIに添削させた組はAIなしと同じで、AIの下書きを自分で見極めて直した組が誤りを最も多く見つけた",
+  "summary": "AIに添削させた組はAIを外した試験でAIなしと同じ成績。AIの下書きを自分で見極めた組は誤りの61%に気づいた。判断する役を自分に残す決め方。"
+ },
+ {
   "slug": "ai-wrong-answer-insisted-admit-rebuild",
   "category": "AIに頼りすぎ",
   "type": "guide",
