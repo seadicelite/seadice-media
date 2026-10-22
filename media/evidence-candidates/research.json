@@ -9016,5 +9016,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-honey-cough-children-research-cochrane",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Oduwole O et al., \"Honey for acute cough in children\" (Cochrane Database of Systematic Reviews, 2018)",
+    "sourceUrl": "https://doi.org/10.1002/14651858.CD007094.pub5",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/honey-cough-children-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "咳にははちみつが効く？",
+        "body": "子どもが夜に咳きこんだら、はちみつをなめさせるといい。おばあちゃんの知恵みたいな話だけど、実際どうなんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "6つの試験をまとめた",
+        "body": "コクランという研究チームが、1〜18歳の子ども899人が参加した6つの試験をまとめたよ。はちみつを、何もしない場合や偽物、咳止めの成分と比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "何もしないよりは楽になる",
+        "body": "はちみつは、何もしない場合や偽物より咳の回数を減らす可能性が高いと判定された。咳止めの成分デキストロメトルファンとは、ほとんど差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ほとんど1晩だけの試験",
+        "body": "多くの子は1晩だけ飲んだ結果で、点数は親がつけたもの。3日を超えると偽物との差は消えた。それと、1歳未満の赤ちゃんにははちみつをあげないのが大前提だよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
