@@ -4873,5 +4873,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mixture_of_beans_%28small_red%2C_cannellini%2C_pinto%2C_roman%2C_red_kidney%2C_black%29%2C_peas_%28blackeye%2C_yellow_split%29%2C_and_pardina_lentils_10.jpg/500px-Mixture_of_beans_%28small_red%2C_cannellini%2C_pinto%2C_roman%2C_red_kidney%2C_black%29%2C_peas_%28blackeye%2C_yellow_split%29%2C_and_pardina_lentils_10.jpg",
   "og": "https://research.seadice.win/img/beans-gas-flatulence-why-research.jpg",
   "local": true
+ },
+ "hiccups-after-eating-stop-recovery-research": {
+  "file": "File:Glass of water ouside.jpg",
+  "src": "/img/hiccups-after-eating-stop-recovery-research.jpg",
+  "src640": "/img/hiccups-after-eating-stop-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "氷水の入ったグラス",
+  "artist": "Kurt Kaiser",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Glass_of_water_ouside.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Glass_of_water_ouside.jpg/960px-Glass_of_water_ouside.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Glass_of_water_ouside.jpg/500px-Glass_of_water_ouside.jpg",
+  "og": "https://research.seadice.win/img/hiccups-after-eating-stop-recovery-research.jpg",
+  "local": true
  }
 }

@@ -8778,5 +8778,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-hiccups-after-eating-stop-recovery-research-prolonged-inspiration",
+    "category": "食べもの",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Stacey SK & Bassett MS, \"Hiccup Relief Using Active Prolonged Inspiration\" (Cureus, 2024)",
+    "sourceUrl": "https://doi.org/10.7759/cureus.53045",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/hiccups-after-eating-stop-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "しゃっくりは息を止めれば止まる？",
+        "body": "息を止める、水を飲む、驚かす。しゃっくりの止め方はいろいろあるけど、実はどれもきちんと試験で確かめられてはいないんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "30秒「吸い続ける」方法",
+        "body": "米国の医師が、息を吸いきってから、のどを開けたままさらに30秒吸い続ける方法を21人に教えて、どうなったかを記録したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "21人全員が「すぐ止まった」",
+        "body": "17〜64歳の21人全員が、すぐにしゃっくりが止まったと答えた。4日間続いていた1人も止まったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "比べる相手がいない",
+        "body": "医師が出会った人をまとめた少人数の報告で、ほかの方法と比べてはいない。著者らも、効果を確かめるにはさらに研究が必要と書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
