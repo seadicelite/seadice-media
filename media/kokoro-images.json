@@ -5536,5 +5536,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pirogue_running_on_the_Mekong_at_sunset_with_pink_clouds_in_Don_Det_Laos.jpg/500px-Pirogue_running_on_the_Mekong_at_sunset_with_pink_clouds_in_Don_Det_Laos.jpg",
   "og": "https://mentalai.seadice.win/img/awe-moments-loneliness-prevent.jpg",
   "local": true
+ },
+ "stop-comparing-thought-suppression": {
+  "file": "File:DSC 6671 A tranquil empty beach at dawn with gentle waves lapping the shore under a cloudy sky.jpg",
+  "src": "/img/stop-comparing-thought-suppression.jpg",
+  "src640": "/img/stop-comparing-thought-suppression-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "夜明けの静かな浜辺と打ち寄せる波",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DSC_6671_A_tranquil_empty_beach_at_dawn_with_gentle_waves_lapping_the_shore_under_a_cloudy_sky.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/DSC_6671_A_tranquil_empty_beach_at_dawn_with_gentle_waves_lapping_the_shore_under_a_cloudy_sky.jpg/960px-DSC_6671_A_tranquil_empty_beach_at_dawn_with_gentle_waves_lapping_the_shore_under_a_cloudy_sky.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/DSC_6671_A_tranquil_empty_beach_at_dawn_with_gentle_waves_lapping_the_shore_under_a_cloudy_sky.jpg/500px-DSC_6671_A_tranquil_empty_beach_at_dawn_with_gentle_waves_lapping_the_shore_under_a_cloudy_sky.jpg",
+  "og": "https://mentalai.seadice.win/img/stop-comparing-thought-suppression.jpg",
+  "local": true
  }
 }

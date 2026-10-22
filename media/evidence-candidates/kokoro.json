@@ -7481,5 +7481,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-stop-comparing-thought-suppression-training",
+    "category": "比べて落ち込む",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mamat Z, Anderson MC, \"Improving mental health by training the suppression of unwanted thoughts\" (Science Advances, 2023)",
+    "sourceUrl": "https://doi.org/10.1126/sciadv.adh5292",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/stop-comparing-thought-suppression/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "考えないようにすると逆効果？",
+        "body": "「シロクマのことを考えないで」と言われると、かえって浮かぶ。いやな考えは押さえ込まないほうがいい、ってよく聞くよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3日間、締め出す練習",
+        "body": "ケンブリッジ大学の実験で、16か国の大人120人が、自分の将来の恐れを思い浮かべずに頭から締め出す練習を、オンラインで3日間くり返したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "恐れはかえって強まらなかった",
+        "body": "恐れを締め出した組では、練習後に不安や落ち込みの点数が下がり、落ち込みの改善は3か月後も続いていた。恐れがかえって強まる逆効果は、全体としては見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "いつでも押さえ込めばいい？",
+        "body": "1つの研究チームの実験で、押さえ込んだのは将来の恐れ。人と比べる考えなど、ほかの考えでも同じかはわからない。押さえ込んだあとに考えが戻りやすいという実験のまとめもあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
