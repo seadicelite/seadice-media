@@ -237,6 +237,15 @@
   ]
  },
  {
+  "id": "junsui-keiken",
+  "term": "純粋経験",
+  "en": "Pure experience",
+  "def": "色を見、音を聞くその瞬間、まだ「私」と「もの」に分かれていない経験のこと。西田幾多郎が『善の研究』で示した考えです。",
+  "slugs": [
+   "nishida-pure-experience"
+  ]
+ },
+ {
   "id": "seiakusetsu",
   "term": "性悪説",
   "en": "Human nature is bad",

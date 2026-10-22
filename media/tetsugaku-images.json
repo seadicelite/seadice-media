@@ -1004,5 +1004,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Troms%C3%B8_Cathedral_%28domkirke%29_Norway_interior._Pews_%28kirkebenker%29%2C_pillars_%28b%C3%A6res%C3%B8yler%29%2C_doors%2C_sunlight%2C_etc_Wooden_Gothic_Revival_style_church_1861_Chr._H._Grosch_2019-04-04_DSC02260.jpg/500px-thumbnail.jpg",
   "og": "https://tetsugaku.seadice.win/img/levinas-face-of-the-other.jpg",
   "local": true
+ },
+ "nishida-pure-experience": {
+  "file": "File:Dry-sand Zen garden made of beige stripes a sunny day at Higashiyama Jisho-ji Buddhist temple Ginkaku-ji Kyoto Japan.jpg",
+  "src": "/img/nishida-pure-experience.jpg",
+  "src640": "/img/nishida-pure-experience-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "京都の禅寺の庭",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dry-sand_Zen_garden_made_of_beige_stripes_a_sunny_day_at_Higashiyama_Jisho-ji_Buddhist_temple_Ginkaku-ji_Kyoto_Japan.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dry-sand_Zen_garden_made_of_beige_stripes_a_sunny_day_at_Higashiyama_Jisho-ji_Buddhist_temple_Ginkaku-ji_Kyoto_Japan.jpg/960px-Dry-sand_Zen_garden_made_of_beige_stripes_a_sunny_day_at_Higashiyama_Jisho-ji_Buddhist_temple_Ginkaku-ji_Kyoto_Japan.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dry-sand_Zen_garden_made_of_beige_stripes_a_sunny_day_at_Higashiyama_Jisho-ji_Buddhist_temple_Ginkaku-ji_Kyoto_Japan.jpg/500px-Dry-sand_Zen_garden_made_of_beige_stripes_a_sunny_day_at_Higashiyama_Jisho-ji_Buddhist_temple_Ginkaku-ji_Kyoto_Japan.jpg",
+  "og": "https://tetsugaku.seadice.win/img/nishida-pure-experience.jpg",
+  "local": true
  }
 }
