@@ -5554,5 +5554,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/DSC_6671_A_tranquil_empty_beach_at_dawn_with_gentle_waves_lapping_the_shore_under_a_cloudy_sky.jpg/500px-DSC_6671_A_tranquil_empty_beach_at_dawn_with_gentle_waves_lapping_the_shore_under_a_cloudy_sky.jpg",
   "og": "https://mentalai.seadice.win/img/stop-comparing-thought-suppression.jpg",
   "local": true
+ },
+ "frequent-interruptions-slow-focus-why": {
+  "file": "File:White cup filled with coffee.jpg",
+  "src": "/img/frequent-interruptions-slow-focus-why.jpg",
+  "src640": "/img/frequent-interruptions-slow-focus-why-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "白いカップに入ったコーヒー",
+  "artist": "Douglas P Perkins",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:White_cup_filled_with_coffee.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/White_cup_filled_with_coffee.jpg/960px-White_cup_filled_with_coffee.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/White_cup_filled_with_coffee.jpg/500px-White_cup_filled_with_coffee.jpg",
+  "og": "https://mentalai.seadice.win/img/frequent-interruptions-slow-focus-why.jpg",
+  "local": true
  }
 }
