@@ -1327,5 +1327,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Glass-smartphone-table-2.jpg",
   "og": "https://kosodate.seadice.win/img/sns-trouble-first-steps-parents.jpg",
   "local": true
+ },
+ "handwriting-messy-tablet-vs-pencil": {
+  "file": "File:2000 Notebook, Pages 4-5.jpg",
+  "src": "/img/handwriting-messy-tablet-vs-pencil.jpg",
+  "src640": "/img/handwriting-messy-tablet-vs-pencil-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "手書きの文字と図で埋まったノート",
+  "artist": "Tobin from Rochester, NY, USA",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2000_Notebook,_Pages_4-5.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2000_Notebook%2C_Pages_4-5.jpg/960px-2000_Notebook%2C_Pages_4-5.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2000_Notebook%2C_Pages_4-5.jpg/500px-2000_Notebook%2C_Pages_4-5.jpg",
+  "og": "https://kosodate.seadice.win/img/handwriting-messy-tablet-vs-pencil.jpg",
+  "local": true
  }
 }
