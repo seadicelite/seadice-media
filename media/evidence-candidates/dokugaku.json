@@ -8623,5 +8623,73 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-study-skip-days-emergency-reserve-how-to-missed-day",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lally et al., \"How are habits formed: Modelling habit formation in the real world\" (European Journal of Social Psychology, 2010)",
+    "sourceUrl": "https://doi.org/10.1002/ejsp.674",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/study-skip-days-emergency-reserve-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "1日サボると習慣はリセット？",
+        "body": "新しい習慣は、1日でも休むとまたゼロからやり直し、ってよく言われるよね。それを毎日の記録で確かめた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "96人が12週間、毎日記録",
+        "body": "食べる・飲む・体を動かす行動から1つ選んで、毎日同じ場面でやってもらい、どれだけ自動的にできるようになったかを12週間記録したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1回休んでもほぼ崩れない",
+        "body": "1回やらなかったことは、習慣ができていく過程に大きな影響を与えていなかった。習慣になるまでの日数は中央値66日で、人によって18〜254日と大きく違ったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強でも同じ？",
+        "body": "対象は簡単な健康の行動で、自動的にできるかは本人の回答。勉強のように手間のかかる行動で、休みが何日も続いた場合にどうなるかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-study-skip-days-emergency-reserve-how-to-reserve",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sharif & Shu, \"Nudging persistence after failure through emergency reserves\" (Organizational Behavior and Human Decision Processes, 2021)",
+    "sourceUrl": "https://doi.org/10.1016/j.obhdp.2019.01.004",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/study-skip-days-emergency-reserve-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「休んでいい日」は甘え？",
+        "body": "毎日の目標に、最初から休んでいい分を入れておく。なんだかサボりにつながりそうだけど、実は続けやすくなるという研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "予備つきの目標とくらべた",
+        "body": "大学の学生・職員315人の毎日の歩数の目標と、4つの実験室の実験で、予備（エマージェンシー・リザーブ）つきの目標と、予備のない目標をくらべたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "失敗の後も続いた",
+        "body": "予備つきの人は、毎日の目標を守れなかった後も続けやすく、長い目標の達成もよかった。予備があると「まだ進んでいる」と感じやすいかららしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強でも効く？",
+        "body": "調べたのは歩数などの目標。何か月も続く勉強で同じように効くのか、予備の日数は何日がいいのかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

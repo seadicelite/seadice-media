@@ -4646,5 +4646,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/500px-Code_on_computer_monitor_%28Unsplash%29.jpg",
   "og": "https://dokugaku.seadice.win/img/ai-programming-self-study-how-to.jpg",
   "local": true
+ },
+ "study-skip-days-emergency-reserve-how-to": {
+  "file": "File:Journaling over coffee (Unsplash).jpg",
+  "w": 960,
+  "h": 640,
+  "artist": "Thought Catalog thoughtcatalog",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Journaling_over_coffee_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Journaling_over_coffee_%28Unsplash%29.jpg/960px-Journaling_over_coffee_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Journaling_over_coffee_%28Unsplash%29.jpg/500px-Journaling_over_coffee_%28Unsplash%29.jpg",
+  "src": "/img/study-skip-days-emergency-reserve-how-to.webp",
+  "src640": "/img/study-skip-days-emergency-reserve-how-to-sm.webp",
+  "og": "https://dokugaku.seadice.win/img/study-skip-days-emergency-reserve-how-to-og.jpg",
+  "local": true,
+  "alt": "手帳に予定を書きこむ手元と、コーヒーとノートパソコン"
  }
 }
