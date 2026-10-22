@@ -8812,5 +8812,73 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-late-night-eating-weight-gain-research-late-isocaloric-hunger",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vujović N et al., \"Late isocaloric eating increases hunger, decreases energy expenditure, and modifies metabolic pathways in adults with overweight and obesity\" (Cell Metabolism, 2022)",
+    "sourceUrl": "https://doi.org/10.1016/j.cmet.2022.09.007",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/late-night-eating-weight-gain-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "夜遅く食べると太る？",
+        "body": "「夜遅くに食べると太る」ってよく聞くよね。でも同じ量なら、時間が遅いだけで何か変わるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ食事を4時間ずらした",
+        "body": "米国の研究者が、太りぎみの大人16人に同じ献立・同じカロリーの食事を、早い時間と約4時間（250分）遅い時間の両方で食べてもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "お腹がすく確率が約2倍",
+        "body": "遅く食べると、お腹がすく確率が約10%から約20%に増えた。起きている間に使うエネルギーも1日59kcal（約5%）少なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "体重が増えるかは未確認",
+        "body": "実験室での数日間の試験で、体重が実際に増えるかは調べていない。長く続けたら体が慣れるのかも、まだわかっていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-late-night-eating-weight-gain-research-big-breakfast-same-weight",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ruddick-Collins LC et al., \"Timing of daily calorie loading affects appetite and hunger responses without changes in energy metabolism in healthy subjects with obesity\" (Cell Metabolism, 2022)",
+    "sourceUrl": "https://doi.org/10.1016/j.cmet.2022.08.001",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/late-night-eating-weight-gain-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "朝ごはんを多めにするとやせる？",
+        "body": "「朝はしっかり、夜は軽く」がダイエットにいいって言うよね。同じカロリーでも、配分だけで体重は変わるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "朝型と夜型の配分を4週間ずつ",
+        "body": "英国の研究者が、太りぎみの大人30人に同じカロリーの減量食を、朝に多い配分（45%）と夜に多い配分（45%）で4週間ずつ食べてもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "体重の減り方はほぼ同じ",
+        "body": "体重は朝に多いほうで3.33kg、夜に多いほうで3.38kg減って、ほぼ同じだった。ただ、朝に多く食べた期間のほうが空腹感は少なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "4週間より長いと？",
+        "body": "比べたのは4週間ずつで、もっと長く続けたときの差はわからない。空腹が少ない分、続けやすさに違いが出るかは今後の研究しだいなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
