@@ -7855,5 +7855,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-divorce-separation-writing-recover-expressive-writing",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sbarra et al., \"Expressive Writing Can Impede Emotional Recovery Following Marital Separation\" (Clinical Psychological Science, 2013)",
+    "sourceUrl": "https://doi.org/10.1177/2167702612469801",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/divorce-separation-writing-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "つらい気持ちは、書き出せばスッキリする？",
+        "body": "つらいことがあったら、気持ちをノートに書き出すといい…ってよく聞くよね。じゃあ、別居や離婚の直後でもそうなのか、米国の研究チームが確かめたらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "別居した90人を3つの組に",
+        "body": "別居して平均3.8か月の大人に、1日20分・3日間書いてもらったんだ。深い気持ちを書く組、別れを物語として書く組、1日の過ごし方を淡々と書く組に分けて、その後のつらさを追いかけたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "深く書いた組のほうが下がりにくかった",
+        "body": "全員のつらさは3か月で下がったけど、気持ちを書いた2組は、過ごし方を書いた組より下がり方が小さかった。差が目立ったのは、ふだんから考え込みやすい人だったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "書くこと自体が悪いとは言えない",
+        "body": "何も書かない組がないから、深く書くのが不利なのか、過ごし方を書くのが有利なのかは区別できない。90人の米国の研究で、時間がたってから書く場合は調べられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
