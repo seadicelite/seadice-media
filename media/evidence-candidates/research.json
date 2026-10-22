@@ -8574,5 +8574,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-cold-stuffy-nose-food-tastes-bland-why-research-cold-smell",
+    "category": "食べもの",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Akerlund A et al., \"Olfactory threshold and nasal mucosal changes in experimentally induced common cold\" (Acta Oto-Laryngologica, 1995)",
+    "sourceUrl": "https://doi.org/10.3109/00016489509133353",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/cold-stuffy-nose-food-tastes-bland-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "風邪で味がしないのは、舌のせい？",
+        "body": "風邪をひくと、好きなものを食べても味がぼんやりするよね。実は、食べものの風味の多くは、口から鼻の奥へ抜けるにおいで感じているらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "わざと風邪をひいてもらう実験",
+        "body": "スウェーデンの研究者が、学生ボランティアの鼻に風邪のウイルス（コロナウイルス229E）を入れて、入れる前と後で、においをどれだけ薄くても感じられるかを測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "鼻づまりが強いほど、においが落ちた",
+        "body": "風邪をひいた人はにおいの感度が落ちていた。落ち方は鼻づまりの強さと関係していて、鼻水の量とは関係していなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数もウイルスも限られている",
+        "body": "風邪をひいたのは9人だけで、ウイルスも1種類。ほかの研究では、鼻づまりとは別に、風邪がにおいの神経そのものに影響する可能性も言われているよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
