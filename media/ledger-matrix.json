@@ -396,7 +396,8 @@
    "lead": "最初から入ったチェックや解約の手間は、手間を省いて決める心のくせに合わせた画面の設計です。初期設定1つで支払いが増えた研究から、引っかかる仕組みを読みます。",
    "cells": {
     "why": [
-     "dark-patterns-why-we-fall-for-them"
+     "dark-patterns-why-we-fall-for-them",
+     "ai-recommendation-why-we-buy-more"
     ],
     "notice": [
      "dark-patterns-self-check"
