@@ -4819,5 +4819,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/A_bowl_of_miso_soup.jpg/500px-A_bowl_of_miso_soup.jpg",
   "og": "https://research.seadice.win/img/cold-stuffy-nose-food-tastes-bland-why-research.jpg",
   "local": true
+ },
+ "coffee-dehydration-diuretic-hydration-research": {
+  "file": "File:Warm cup of coffee on a table at a cafe.jpg",
+  "src": "/img/coffee-dehydration-diuretic-hydration-research.jpg",
+  "src640": "/img/coffee-dehydration-diuretic-hydration-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "テーブルに置かれたコーヒーカップ",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Warm_cup_of_coffee_on_a_table_at_a_cafe.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Warm_cup_of_coffee_on_a_table_at_a_cafe.jpg/960px-Warm_cup_of_coffee_on_a_table_at_a_cafe.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Warm_cup_of_coffee_on_a_table_at_a_cafe.jpg/500px-Warm_cup_of_coffee_on_a_table_at_a_cafe.jpg",
+  "og": "https://research.seadice.win/img/coffee-dehydration-diuretic-hydration-research.jpg",
+  "local": true
  }
 }

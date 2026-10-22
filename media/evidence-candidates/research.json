@@ -8608,5 +8608,73 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-coffee-dehydration-diuretic-hydration-research-coffee-vs-water",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Killer SC et al., \"No evidence of dehydration with moderate daily coffee intake: a counterbalanced cross-over study in a free-living population\" (PLoS One, 2014)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0084154",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/coffee-dehydration-diuretic-hydration-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "コーヒーは水分補給にならない？",
+        "body": "コーヒーには利尿作用があるから、飲んだ分より水分が出ていく。だから1杯ごとに水も飲もう、ってよく聞くよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "4杯のコーヒーと水を3日ずつ比べた",
+        "body": "英国の研究で、コーヒーを毎日3〜6杯飲む男性50人が、3日間は200mLのコーヒーを1日4杯、別の3日間は同じ量の水を飲んだんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "体の水分も尿の量も、水と同じ",
+        "body": "体の水分量は51.5kgと51.4kg、24時間の尿は2,409mLと2,428mLで差がなかった。血液や尿のどの指標でも違いは出なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "女性や、飲み慣れていない人は？",
+        "body": "対象はコーヒーに慣れた男性だけ。研究費はコーヒーの研究を支援する団体から出ている。一度に約537mgのカフェインをとった別の試験では、尿が増えたよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-coffee-dehydration-diuretic-hydration-research-beverage-index",
+    "category": "食べもの",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Maughan RJ et al., \"A randomized trial to assess the potential of different beverages to affect hydration status: development of a beverage hydration index\" (American Journal of Clinical Nutrition, 2016)",
+    "sourceUrl": "https://doi.org/10.3945/ajcn.115.114769",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/coffee-dehydration-diuretic-hydration-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "いちばん体に残る飲みものは？",
+        "body": "水分補給といえば水。でも、コーヒーやお茶、牛乳は水と比べてどうなんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "13種類の飲みものを1Lずつ",
+        "body": "英国の研究で、72人の男性に水を含む身近な飲みもの13種類を30分で1L飲んでもらい、その後4時間の尿の量を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "コーヒーもお茶も水と同じ、牛乳は長く残る",
+        "body": "コーヒー、紅茶、アイスティー、コーラなどは尿の量が水と変わらなかった。尿が水より少なく、体に長く残ったのは経口補水液と牛乳だったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "汗をかいたあとは別かも",
+        "body": "体の水分が足りている空腹の男性が、1回飲んだあとの4時間を見た研究。暑さや運動で汗をかいたあとの状態ではないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
