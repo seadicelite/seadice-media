@@ -5017,5 +5017,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Load_Cell_Sensor_Module_from_a_Digital_Weighing_Scale_02.jpg/500px-Load_Cell_Sensor_Module_from_a_Digital_Weighing_Scale_02.jpg",
   "og": "https://research.seadice.win/img/weight-regain-after-diet-recovery-research.jpg",
   "local": true
+ },
+ "breakup-heartbreak-recovery-research": {
+  "file": "File:Münster, Park Sentmaring, Parkbank -- 2021 -- 9129.jpg",
+  "src": "/img/breakup-heartbreak-recovery-research.jpg",
+  "src640": "/img/breakup-heartbreak-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "秋の公園にある、誰も座っていないベンチ",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Park_Sentmaring,_Parkbank_--_2021_--_9129.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg/960px-M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg/500px-M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg",
+  "og": "https://research.seadice.win/img/breakup-heartbreak-recovery-research.jpg",
+  "local": true
  }
 }

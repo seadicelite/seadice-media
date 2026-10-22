@@ -9084,5 +9084,73 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-breakup-heartbreak-recovery-research-writing",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sbarra DA et al., \"Expressive Writing Can Impede Emotional Recovery Following Marital Separation\" (Clinical Psychological Science, 2013)",
+    "sourceUrl": "https://doi.org/10.1177/2167702612469801",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/breakup-heartbreak-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "つらい気持ちは書くと楽になる？",
+        "body": "失恋や別れのつらさは、紙に書き出すとすっきりする。よく聞く方法だけど、だれにでも効くのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "別居した大人を3グループに",
+        "body": "米国の研究者が、夫婦の別居を経験した大人をくじで分けたよ。気持ちを書く2グループと、自分の1日を感情を入れずに書くグループ。どれも1日20分を3日間。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "考え込む人は逆効果",
+        "body": "考え込みやすい人は、気持ちを書いたグループのほうが、最長9か月後の気分が悪かったんだ。考え込みにくい人では差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "恋人との別れでは？",
+        "body": "調べたのは夫婦の別居で、3か月後まで続けたのは90人。恋人との失恋でも同じかはわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-breakup-heartbreak-recovery-research-sns",
+    "category": "気分・ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Marshall TC, \"Facebook surveillance of former romantic partners: associations with postbreakup recovery and personal growth\" (Cyberpsychology, Behavior, and Social Networking, 2012)",
+    "sourceUrl": "https://doi.org/10.1089/cyber.2012.0125",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/breakup-heartbreak-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "元恋人のSNS、つい見ちゃう",
+        "body": "別れたあと、元恋人のSNSをつい見てしまう。これって立ち直りに関係あるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "別れを経験した464人",
+        "body": "別れを経験した464人にオンラインで聞いた調査があるよ。84%が女性で、平均21.36歳。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "よく見る人ほど未練が強い",
+        "body": "元恋人のFacebookをよく見る人ほど、別れのつらさや未練が強く、自分の成長を感じにくかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "見るからつらい？逆？",
+        "body": "一度きりの調査だから、見るからつらいのか、つらいから見るのかは区別できないんだ。著者も、見ない期間をつくる実験が必要だと書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
