@@ -8793,5 +8793,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-ai-writing-feedback-too-many-corrections-reset-feedback-backfire",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wisniewski, Zierer & Hattie, \"The power of feedback revisited: A meta-analysis of educational feedback research\" (Frontiers in Psychology, 2020)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2019.03087",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/ai-writing-feedback-too-many-corrections-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "フィードバックはもらうほど伸びる？",
+        "body": "直してもらえばもらうほど上達する、と思いがちだよね。でも、フィードバックがいつもプラスに働くとは限らないらしいんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "435件の研究をまとめた",
+        "body": "教育でのフィードバックの研究435件、6万1,000人以上をまとめたメタ分析だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "平均はプラス、でも17％はマイナス",
+        "body": "効果は平均d=0.55。でも17％の効果はマイナスだった。ほめる・けなすだけより、直し方まで伝える情報の多いフィードバックほど効果が大きかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIの添削でも同じ？",
+        "body": "研究ごとのばらつきがとても大きく、対照群のない研究で効果が大きく出ていた。生成AIの添削で同じことが言えるかもまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

@@ -502,7 +502,8 @@
           "ai-overreliance-solve-on-your-own",
           "ai-wrong-answer-unlearn-correct",
           "ai-made-mistakes-lost-trust-rebuild",
-          "ai-explanations-forgotten-relearn"
+          "ai-explanations-forgotten-relearn",
+          "ai-writing-feedback-too-many-corrections-reset"
         ],
         "why": [
           "why-ai-explanations-feel-understood",
