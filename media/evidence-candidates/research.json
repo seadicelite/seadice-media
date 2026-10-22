@@ -8914,5 +8914,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-produce-pesticide-washing-how-research-running-water",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yang SJ et al., \"Effectiveness of Different Washing Strategies on Pesticide Residue Removal: The First Comparative Study on Leafy Vegetables\" (Foods, 2022)",
+    "sourceUrl": "https://doi.org/10.3390/foods11182916",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/produce-pesticide-washing-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "重曹や酢で洗うと農薬が落ちる？",
+        "body": "野菜の農薬は、重曹水や酢水、野菜用洗剤で洗うとよく落ちるってよく聞くよね。ただの水より本当に効くのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "葉もの5種類で9つの洗い方",
+        "body": "韓国の研究所が、レタスやほうれん草など葉もの5種類に10種類の農薬をつけて、流水・ため水・重曹水・酢水・洗剤など9つの洗い方を比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "いちばんは流水だった",
+        "body": "流水で5分すすぐと農薬は平均77.0%減って一番。重曹水は52.0%、酢水は51.2%で、ため水（51.4%）とほぼ同じ。野菜用洗剤は43.7%で一番低かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実験用の多めの農薬",
+        "body": "実験のために多めの農薬をつけていて、畑で育った野菜の残り方とは違う。流水は毎秒170mLと強めで、家の蛇口で同じ結果になるかはわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

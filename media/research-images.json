@@ -4927,5 +4927,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/01_Food_in_Gran_Canaria_-_fish_and_seafood_mixed_grill_plate.jpg/500px-01_Food_in_Gran_Canaria_-_fish_and_seafood_mixed_grill_plate.jpg",
   "og": "https://research.seadice.win/img/fish-bone-stuck-throat-recovery-research.jpg",
   "local": true
+ },
+ "produce-pesticide-washing-how-research": {
+  "file": "File:Preparing fresh sweet potatoes by washing them in the kitchen sink with running water.jpg",
+  "src": "/img/produce-pesticide-washing-how-research.jpg",
+  "src640": "/img/produce-pesticide-washing-how-research-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "台所の流しで、流水で洗っている野菜",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Preparing_fresh_sweet_potatoes_by_washing_them_in_the_kitchen_sink_with_running_water.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Preparing_fresh_sweet_potatoes_by_washing_them_in_the_kitchen_sink_with_running_water.jpg/960px-Preparing_fresh_sweet_potatoes_by_washing_them_in_the_kitchen_sink_with_running_water.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Preparing_fresh_sweet_potatoes_by_washing_them_in_the_kitchen_sink_with_running_water.jpg/500px-Preparing_fresh_sweet_potatoes_by_washing_them_in_the_kitchen_sink_with_running_water.jpg",
+  "og": "https://research.seadice.win/img/produce-pesticide-washing-how-research.jpg",
+  "local": true
  }
 }
