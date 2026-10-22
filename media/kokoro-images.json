@@ -1773,7 +1773,7 @@
   "src640": "/img/nature-attention-restore-sm.webp",
   "w": 960,
   "h": 720,
-  "alt": "木々に囲まれた公園の小道",
+  "alt": "朝の光が差し込む公園の木々",
   "artist": "John Phelan",
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -3388,7 +3388,7 @@
   "src640": "/img/work-criticism-rumination-walk-sm.webp",
   "w": 960,
   "h": 640,
-  "alt": "木々に囲まれた公園の小道",
+  "alt": "朝の光が差し込む公園の木々",
   "artist": "Dr Neil Clifton",
   "license": "CC BY-SA 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -5661,6 +5661,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wiki%E8%AA%B2%E7%A8%8B%E7%B7%B4%E7%BF%92%E6%AA%94.jpg/960px-Wiki%E8%AA%B2%E7%A8%8B%E7%B7%B4%E7%BF%92%E6%AA%94.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wiki%E8%AA%B2%E7%A8%8B%E7%B7%B4%E7%BF%92%E6%AA%94.jpg/500px-Wiki%E8%AA%B2%E7%A8%8B%E7%B7%B4%E7%BF%92%E6%AA%94.jpg",
   "og": "https://mentalai.seadice.win/img/sns-browsing-tired-why.jpg",
+  "local": true
+ },
+ "technostress-lifestyle-habits-prevent": {
+  "file": "File:Dülmen, Wildpark -- 2018 -- 1417-21.jpg",
+  "src": "/img/technostress-lifestyle-habits-prevent.jpg",
+  "src640": "/img/technostress-lifestyle-habits-prevent-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "朝の光が差し込む公園の木々",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wildpark_--_2018_--_1417-21.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/D%C3%BClmen%2C_Wildpark_--_2018_--_1417-21.jpg/960px-D%C3%BClmen%2C_Wildpark_--_2018_--_1417-21.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/D%C3%BClmen%2C_Wildpark_--_2018_--_1417-21.jpg/500px-D%C3%BClmen%2C_Wildpark_--_2018_--_1417-21.jpg",
+  "og": "https://mentalai.seadice.win/img/technostress-lifestyle-habits-prevent.jpg",
   "local": true
  }
 }
