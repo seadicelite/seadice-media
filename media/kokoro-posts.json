@@ -1,5 +1,14 @@
 [
   {
+    "slug": "pomodoro-breaks-focus-prevent",
+    "category": "考える力・集中",
+    "type": "guide",
+    "stage": "予防する",
+    "date": "2026-10-22",
+    "title": "25分作業して5分休む「ポモドーロ」で、集中切れを防げる？オランダの大学生の3つの実験では、決まった休憩で気分が保たれた研究と、自分で休んだほうが集中していた研究に分かれていた",
+    "summary": "決まった時間で休むか、自分で休むか。実験の結果は逆に分かれ、理解度の差は出ませんでした。自分に合う区切りの探し方も紹介します。"
+  },
+  {
     "slug": "ai-written-feedback-feels-cold-why",
     "category": "仕事とAIの不安",
     "type": "guide",

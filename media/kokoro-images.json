@@ -5626,5 +5626,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Legal_Contract_%26_Signature_-_Warm_Tones.jpg/500px-Legal_Contract_%26_Signature_-_Warm_Tones.jpg",
   "og": "https://mentalai.seadice.win/img/ai-written-feedback-feels-cold-why.jpg",
   "local": true
+ },
+ "pomodoro-breaks-focus-prevent": {
+  "file": "File:Lux Minute Minder timer.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lux_Minute_Minder_timer.jpg/960px-Lux_Minute_Minder_timer.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lux_Minute_Minder_timer.jpg/500px-Lux_Minute_Minder_timer.jpg",
+  "w": 960,
+  "h": 946,
+  "alt": "キッチンタイマー",
+  "artist": "Retro00064",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Lux_Minute_Minder_timer.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
