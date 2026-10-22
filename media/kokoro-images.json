@@ -5590,5 +5590,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Restaurant_table_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/500px-Restaurant_table_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
   "og": "https://mentalai.seadice.win/img/conversation-ending-timing-why.jpg",
   "local": true
+ },
+ "ai-anxiety-avoid-using-why": {
+  "file": "File:Half-closed laptop (Unsplash).jpg",
+  "src": "/img/ai-anxiety-avoid-using-why.jpg",
+  "src640": "/img/ai-anxiety-avoid-using-why-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木の机に置かれた閉じたノートパソコン",
+  "artist": "Luca Bravo lucabravo",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Half-closed_laptop_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Half-closed_laptop_%28Unsplash%29.jpg/960px-Half-closed_laptop_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Half-closed_laptop_%28Unsplash%29.jpg/500px-Half-closed_laptop_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-anxiety-avoid-using-why.jpg",
+  "local": true
  }
 }

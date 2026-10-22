@@ -7583,5 +7583,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-ai-anxiety-avoid-using-why-experience",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Russo C, Romano L, Clemente D, Iacovone L, Gladwin TE, Panno A, \"Gender differences in artificial intelligence: the role of artificial intelligence anxiety\" (Frontiers in Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2025.1559457",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-anxiety-avoid-using-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIが不安なのは、慣れてないから？",
+        "body": "周りはAIを使っているのに、自分はなんとなく怖くて開けない。それって、使ったことが少ないせいなのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "イタリアの335人に聞いた",
+        "body": "イタリアの研究チームが、18〜79歳の335人にネットで質問した。AIへの不安、AIを使った経験、仕組みを知っていると感じる度合いを答えてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "不安な人ほど、経験も知識も少なめ",
+        "body": "AIへの不安が強い人ほど、使った経験が少なく（相関−0.35）、仕組みを知っていると感じる度合いも低かった（相関−0.38）らしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "使えば不安は減る？",
+        "body": "一度きりの調査なので、不安だから使わないのか、使わないから不安なのかはわからない。別の国の調査では、使っている人のほうが不安がやや高い結果もあった。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
