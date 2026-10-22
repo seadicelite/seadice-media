@@ -3114,5 +3114,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Pedometer_K%2BR.jpg/500px-Pedometer_K%2BR.jpg",
   "og": "https://ai.seadice.win/img/wearable-health-data-ai-analysis-before.jpg",
   "local": true
+ },
+ "ai-made-work-low-rating-motivation-recover": {
+  "file": "File:Keukenstuk, RP-T-1905-165-15(R).jpg",
+  "src": "/img/ai-made-work-low-rating-motivation-recover.jpg",
+  "src640": "/img/ai-made-work-low-rating-motivation-recover-sm.jpg",
+  "w": 960,
+  "h": 648,
+  "alt": "17世紀の画家が描いた、台所の静物のペンの下描き",
+  "artist": "Paul de Vos",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Keukenstuk,_RP-T-1905-165-15(R).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Keukenstuk%2C_RP-T-1905-165-15%28R%29.jpg/960px-Keukenstuk%2C_RP-T-1905-165-15%28R%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Keukenstuk%2C_RP-T-1905-165-15%28R%29.jpg/500px-Keukenstuk%2C_RP-T-1905-165-15%28R%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-made-work-low-rating-motivation-recover.jpg",
+  "local": true
  }
 }
