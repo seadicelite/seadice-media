@@ -7549,5 +7549,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-conversation-ending-timing-why-ending",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mastroianni AM, Gilbert DT, Cooney G, Wilson TD, \"Do conversations end when people want them to?\" (PNAS, 2021)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.2011809118",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/conversation-ending-timing-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "会話のやめどき、みんな迷ってる？",
+        "body": "もう帰りたいのに言い出せない、長電話を終わらせるきっかけがない。そんなこと、よくあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "初対面の2人に話してもらった",
+        "body": "米国のハーバード大学の研究参加者252人（126組）が、1分より長く45分より短い範囲で好きなだけ話した。終わりたかった時点と、相手が終わりたそうだった時点を答えてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "そろって終われたのは1.59%",
+        "body": "2人とも同じときに終わりたくて、実際にそこで終われた会話は1.59%だけ。2人とも実際より早く終わりたかった会話は46.83%あった。相手の望む長さは平均9.38分も読み違えていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日本やチャットでも同じ？",
+        "body": "対象は米国の人だけで、実験室での初対面の会話。日本の会話やチャット・電話で同じかどうか、望んだときに終われたら満足が上がるのかは、まだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
