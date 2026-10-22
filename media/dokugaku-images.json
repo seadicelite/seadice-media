@@ -4742,5 +4742,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Uprint_Calendar_-_December_2017_ESA17276265.jpeg/500px-Uprint_Calendar_-_December_2017_ESA17276265.jpeg",
   "og": "https://dokugaku.seadice.win/img/count-study-days-not-questions-plan.jpg",
   "local": true
+ },
+ "noisy-home-study-reset": {
+  "file": "File:Living room with 1960s objects.jpg",
+  "src": "/img/noisy-home-study-reset.jpg",
+  "src640": "/img/noisy-home-study-reset.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "テレビのある居間",
+  "artist": "Kotivalo",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Living_room_with_1960s_objects.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Living_room_with_1960s_objects.jpg/960px-Living_room_with_1960s_objects.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Living_room_with_1960s_objects.jpg/500px-Living_room_with_1960s_objects.jpg",
+  "og": "https://dokugaku.seadice.win/img/noisy-home-study-reset.jpg",
+  "local": true,
+  "unconverted": true
  }
 }

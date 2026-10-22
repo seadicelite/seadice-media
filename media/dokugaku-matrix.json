@@ -276,7 +276,8 @@
           "study-routine-after-life-change",
           "evening-study-after-work-fatigue",
           "morning-study-failed-early-rising-reset",
-          "shift-work-study-schedule-reset"
+          "shift-work-study-schedule-reset",
+          "noisy-home-study-reset"
         ],
         "why": [
           "why-cafe-noise-feels-focused",

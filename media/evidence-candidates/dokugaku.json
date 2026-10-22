@@ -8929,5 +8929,73 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-noisy-home-study-reset-foreign-speech-illusion",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Komar et al., \"Evidence of a metacognitive illusion in stimulus-specific prospective judgments of distraction by background speech\" (Scientific Reports, 2024)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-024-74719-4",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/noisy-home-study-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "外国語の会話なら気にならない？",
+        "body": "意味がわからない外国語の話し声なら、勉強のじゃまにならない気がするよね。でも実際はどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "母語と外国語の声で比べた",
+        "body": "ドイツの研究で、ドイツ語を話す大人約255人に8つの数字の順番を覚えてもらい、そのあいだにドイツ語か日本語の話し声を流したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "じゃまの大きさは同じだった",
+        "body": "どちらの声も静かなときより成績を下げ、その大きさに差はなかった。なのに参加者は、聞き取りやすい母語の声のほうが「じゃまになりにくい」と予想していたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "数字を覚える課題の話",
+        "body": "数秒の数字を覚えるオンライン実験だよ。文章を読んで理解する勉強だと、意味のわかる話し声のほうがじゃまだという分析もあって、課題によって違うかもしれない。"
+      }
+    ],
+    "addedAt": "2026-10-23"
+  },
+  {
+    "id": "dokugaku-noisy-home-study-reset-verbal-vs-spatial",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Leist et al., \"Irrelevant speech impairs serial recall of verbal but not spatial items in children and adults\" (Memory & Cognition, 2023)",
+    "sourceUrl": "https://doi.org/10.3758/s13421-022-01359-2",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/noisy-home-study-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "話し声は何でもじゃまする？",
+        "body": "家族の会話が聞こえると勉強が進まない。でも、どんな作業でも同じようにじゃまされるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "言葉と位置で比べた",
+        "body": "ドイツの大人80人と小学3年生81人に、単語の絵の順番か、点の位置の順番を覚えてもらい、次々に違う音節が流れる話し声を聞かせたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "じゃまされたのは言葉だけ",
+        "body": "単語の順番は、話し声で静かなときより覚えにくくなった。点の位置の順番では、話し声による低下は見られなかった。子どもは大人より影響が大きかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "数秒の課題の話",
+        "body": "数秒の並びを覚える実験室の課題だよ。何時間もの勉強や、意味のある会話でも同じになるかは調べていない。"
+      }
+    ],
+    "addedAt": "2026-10-23"
   }
 ]
