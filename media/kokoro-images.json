@@ -5680,5 +5680,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/D%C3%BClmen%2C_Wildpark_--_2018_--_1417-21.jpg/500px-D%C3%BClmen%2C_Wildpark_--_2018_--_1417-21.jpg",
   "og": "https://mentalai.seadice.win/img/technostress-lifestyle-habits-prevent.jpg",
   "local": true
+ },
+ "phone-one-hour-less-prevent": {
+  "file": "File:Münster, Park Sentmaring, Parkbank -- 2021 -- 9129.jpg",
+  "src": "/img/phone-one-hour-less-prevent.jpg",
+  "src640": "/img/phone-one-hour-less-prevent-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "落ち葉の季節の公園のベンチ（落書きあり）",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Park_Sentmaring,_Parkbank_--_2021_--_9129.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg/960px-M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg/500px-M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg",
+  "og": "https://mentalai.seadice.win/img/phone-one-hour-less-prevent.jpg",
+  "local": true
  }
 }
