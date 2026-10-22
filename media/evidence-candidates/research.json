@@ -9152,5 +9152,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-quit-smoking-failed-again-retry-research-attempts",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Chaiton M et al., \"Estimating the number of quit attempts it takes to quit smoking successfully in a longitudinal cohort of smokers\" (BMJ Open, 2016)",
+    "sourceUrl": "https://doi.org/10.1136/bmjopen-2016-011045",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/quit-smoking-failed-again-retry-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "禁煙は平均6回で成功？",
+        "body": "禁煙に成功した人は、平均6回くらい挑戦しているってよく言われるよね。本当にそのくらいなのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "カナダの1277人を追跡",
+        "body": "カナダの研究者が、禁煙に挑戦した喫煙者1277人を6か月ごとに最長3年追いかけて、1年以上続く禁煙までの回数を推計したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "平均は約30回かも",
+        "body": "偏りが少ないと考えた方法だと、成功までの挑戦は平均29.6回。著者は「30回以上かかる人も多いかもしれない」と書いているんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "方法で数字が大きく変わる",
+        "body": "推計の方法で6.1回から142回まで幅があるし、集団の平均だから、自分が何回目で成功するかはわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

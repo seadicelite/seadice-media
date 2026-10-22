@@ -5035,5 +5035,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg/500px-M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg",
   "og": "https://research.seadice.win/img/breakup-heartbreak-recovery-research.jpg",
   "local": true
+ },
+ "quit-smoking-failed-again-retry-research": {
+  "file": "File:Malaysia Prohibition-signs-No-smoking-sign-01.jpg",
+  "src": "/img/quit-smoking-failed-again-retry-research.jpg",
+  "src640": "/img/quit-smoking-failed-again-retry-research-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "たばこに斜線が入った禁煙のマーク",
+  "artist": "CEphoto, Uwe Aranas",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Malaysia_Prohibition-signs-No-smoking-sign-01.jpg/960px-Malaysia_Prohibition-signs-No-smoking-sign-01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Malaysia_Prohibition-signs-No-smoking-sign-01.jpg/500px-Malaysia_Prohibition-signs-No-smoking-sign-01.jpg",
+  "og": "https://research.seadice.win/img/quit-smoking-failed-again-retry-research.jpg",
+  "local": true
  }
 }
