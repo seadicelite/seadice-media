@@ -8997,5 +8997,39 @@
       }
     ],
     "addedAt": "2026-10-23"
+  },
+  {
+    "id": "dokugaku-lecture-notes-cant-keep-up-reset-laptop-replication",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Urry et al., \"Don't Ditch the Laptop Just Yet: A Direct Replication of Mueller and Oppenheimer's (2014) Study 1 Plus Mini Meta-Analyses Across Similar Studies\" (Psychological Science, 2021)",
+    "sourceUrl": "https://doi.org/10.1177/0956797620965541",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/lecture-notes-cant-keep-up-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ノートは手書きのほうが覚える？",
+        "body": "パソコンでノートを取ると書き写すだけになって覚えられない、って聞いたことがあるよね。2014年の有名な実験が元になった説なんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ実験をやり直した",
+        "body": "その実験をそのまま追試した研究があるよ。講義を見ながらパソコン（74人）か手書き（68人）でノートを取り、見返さずに小テストを受けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績に差はなかった",
+        "body": "パソコンの人は言葉数も、講師の言葉そのままの部分も多かった。でも小テストの成績は手書きと変わらなかった。似た研究8件をまとめても同じ傾向だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "見返した後はどうか",
+        "body": "見返しなしの、すぐ後のテストの話だよ。1週間後に見返してから測ると手書きのほうがよかった研究もあって、結論はまだ割れている。"
+      }
+    ],
+    "addedAt": "2026-10-23"
   }
 ]
