@@ -8540,5 +8540,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-choking-back-blows-abdominal-thrusts-recovery-research-mochi-registry",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Igarashi Y et al., \"Efficacy of abdominal thrusts and back blows for patients with foreign body airway obstruction: MOCHI registry analysis\" (Resuscitation Plus, 2025)",
+    "sourceUrl": "https://doi.org/10.1016/j.resplu.2025.101016",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/choking-back-blows-abdominal-thrusts-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "のどに詰まったら、素人は手を出さないほうがいい？",
+        "body": "食べものがのどに詰まった人を前にすると、下手に触らず救急車を待ったほうが安全な気がするよね。実際はどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "日本の25病院、407人の記録",
+        "body": "2020〜2023年に救急車で運ばれた窒息の患者（年齢の中央値81歳）を調べた研究。まわりの人が最初に背中をたたいたか、お腹を突き上げたか、何もしなかったかで比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "何もしないより、回復した人が多かった",
+        "body": "30日後に後遺症なく回復した割合は、背中をたたいた場合31%、お腹の突き上げで38%。何もしなかった場合は15〜16%だった。ただ、最初の1つの方法で取れたのは3割ほど。くり返すのが前提みたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "観察研究なので、因果ははっきりしない",
+        "body": "条件のちがいは統計で調整したけど、すべては消せない。対象はほとんどが高齢者で、救急車を呼ばずに済んだ軽い例も入っていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
