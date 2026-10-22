@@ -8521,5 +8521,73 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-nature-sounds-study-room-how-to-forest-vs-industrial",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Longman et al., \"Forest soundscapes improve mood, restoration and cognition, but not physiological stress or immunity, relative to industrial soundscapes\" (Scientific Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-11469-x",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/nature-sounds-study-room-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "森の音を聞くと頭がすっきりする？",
+        "body": "雨や鳥の声の音を流すと集中できる、って言う人は多いよね。英国で、森の音と工場や街の音を聞きくらべた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "30分、ヘッドホンで聞いた",
+        "body": "18〜25歳を対象に、100人を2組に分ける実験と、30人が両方を聞く実験をした。鳥の声や流れる水の音を30分聞いた前後で、気分や注意の課題、心拍やストレスホルモンを測ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "気分は上がり、注意も少し伸びた",
+        "body": "森の音では気分がよくなり、工場や街の音では悪くなった。2つめの実験では注意の課題の伸びも森の音の方が大きかった。でも心拍・血圧・ストレスホルモンには一貫した差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "静かな部屋とくらべると？",
+        "body": "くらべた相手は、ずっと大きく聞こえる工場や街の音だった。静かな部屋より勉強がはかどるか、勉強中に流し続けてもいいかは、この実験ではわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-future-self-imagine-study-motivation-vr-app-rct",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "van Gelder et al., \"Stimulating Future-Oriented Thinking and Goal-Achievement Through the Future Self Using Virtual Reality and a Smartphone App: Randomized Controlled Trial\" (Journal of Medical Internet Research, 2026)",
+    "sourceUrl": "https://doi.org/10.2196/84420",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/future-self-imagine-study-motivation/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "未来の自分を思い描けば成績が上がる？",
+        "body": "合格した自分や10年後の自分を想像すると、やる気が出て勉強がはかどる、ってよく言われるよね。オランダの大学で、それを確かめた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "321人を3つの組に",
+        "body": "大学1年生321人を、スマホのアプリかVRで「10年後の自分」とやりとりする組と、目標を立てるだけの組に分けて、3週間ためしたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "未来の自分は近づいたけど",
+        "body": "未来の自分をはっきり感じる度合いは上がった。でも成績には差がなく、未来への意識の効果も6か月後には薄れて、組の間の差がなくなったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "やり方しだいで変わる？",
+        "body": "VRの組だけ毎週の目標の達成が高かったけど、目標の立て方を実験者が手伝っていた。未来の姿を具体的な行動と結びつけたら結果が変わるのかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
