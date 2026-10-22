@@ -8827,5 +8827,73 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-back-to-rereading-old-study-habit-reset-know-but-dont-use",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Carpenter & Sanchez, \"A closer look at students' knowledge of effective learning strategies, where they learn about them, and why they do not use them\" (Cognitive Research: Principles and Implications, 2025)",
+    "sourceUrl": "https://doi.org/10.1186/s41235-025-00693-8",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/back-to-rereading-old-study-habit-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "効く勉強法は、知れば使う？",
+        "body": "思い出す練習が効くと知れば、みんな使うはず…と思いがちだよね。でも実際は、知っていても読み返しに戻る人が多いらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生185人に聞いた",
+        "body": "米国の大学生185人に、11の勉強法をどれくらい使い、なぜ使わないかを聞いた調査だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "壁は「知らない」より「面倒」",
+        "body": "思い出す練習を「とても効く」と考える88人でも、使わない理由は「準備が大変」38%、「手間がかかる」36%、「時間がかかる」35%だった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "アンケートの答え",
+        "body": "1つの大学の学生の自己申告で、実際の勉強の様子は測っていない。社会人の独学で同じかもまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-back-to-rereading-old-study-habit-reset-hints-self-test",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vaughn & Kornell, \"How to activate students' natural desire to test themselves\" (Cognitive Research: Principles and Implications, 2019)",
+    "sourceUrl": "https://doi.org/10.1186/s41235-019-0187-y",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/back-to-rereading-old-study-habit-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自分でテストするのは苦手？",
+        "body": "思い出す練習が効くと言われても、答えを見て覚える方が楽だよね。実は、ちょっとした工夫で人は自分をテストしたくなるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "答えの文字を少し見せた",
+        "body": "単語の組を覚える実験で、答えの文字を2つか4つ見せるヒントを選べるようにしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ヒントがあると思い出す方を選ぶ",
+        "body": "ヒントがあると多くの回で思い出す方を選んだ。ヒントなしだと答えを見る方が多く、87%が見る方が効くと答えた。ヒントつきでも覚える量はヒントなしと同じくらいだった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "短い実験の話",
+        "body": "単語の組を覚える短い実験で、長い期間の勉強では調べていない。ヒントで答えが推測できると効果は少し下がったよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

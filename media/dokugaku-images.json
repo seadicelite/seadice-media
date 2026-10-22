@@ -4706,5 +4706,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blue_and_red_BIC_Cristal_pen_caps.jpg/500px-Blue_and_red_BIC_Cristal_pen_caps.jpg",
   "og": "https://dokugaku.seadice.win/img/ai-writing-feedback-too-many-corrections-reset-og.jpg",
   "local": true
+ },
+ "back-to-rereading-old-study-habit-reset": {
+  "file": "File:Open book and closed laptop on a table with fallen leaves during a study break.jpg",
+  "src": "/img/back-to-rereading-old-study-habit-reset.jpg",
+  "src640": "/img/back-to-rereading-old-study-habit-reset-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "テーブルの上に開いた本",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Open_book_and_closed_laptop_on_a_table_with_fallen_leaves_during_a_study_break.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Open_book_and_closed_laptop_on_a_table_with_fallen_leaves_during_a_study_break.jpg/960px-Open_book_and_closed_laptop_on_a_table_with_fallen_leaves_during_a_study_break.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Open_book_and_closed_laptop_on_a_table_with_fallen_leaves_during_a_study_break.jpg/500px-Open_book_and_closed_laptop_on_a_table_with_fallen_leaves_during_a_study_break.jpg",
+  "og": "https://dokugaku.seadice.win/img/back-to-rereading-old-study-habit-reset.jpg",
+  "local": true
  }
 }
