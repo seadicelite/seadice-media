@@ -7821,5 +7821,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-ai-dependence-work-engagement-prevent-one-year",
+    "category": "AIとの付き合い方",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wen et al., \"A One-Year Longitudinal Study Examining the Direct and Indirect Effects of AI Dependence on Work Engagement and Gender Differences\" (Behavioral Sciences, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/bs16010044",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-dependence-work-engagement-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "AIを使うほど、仕事のやる気は落ちる？",
+        "body": "AIに仕事を任せていると、だんだんやる気がなくなりそう…って話、よく聞くよね。中国の研究チームが、働く人を1年追いかけて調べたらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1,108人を半年おきに3回",
+        "body": "ネット企業や製薬会社、出版社、高校で働く21〜60歳の1,108人に、AIへの頼りきり度、仕事の自信、仕事への熱意を2024年から1年かけて聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "問題は時間より「頼りきり」",
+        "body": "使えないと不安、減らそうとしても減らせない…という頼りきりの傾向が強い人ほど、1年後の熱意が低めだった。使う時間はそろえたうえでの結果で、その結びつきの約4割は「仕事の自信」の低さを通っていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIのせいとは言い切れない",
+        "body": "アンケートで関連を見た研究だから、もともと熱意が下がっていた人がAIに頼りがちになった可能性もある。頼り方を変えたら熱意が戻るかを確かめた実験はまだないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
