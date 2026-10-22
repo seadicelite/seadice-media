@@ -8725,5 +8725,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-switch-from-work-to-study-unfinished-tasks-note-zeigarnik",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wendsche, Weigelt & Syrek, \"Unfinished work tasks and work-related thoughts during off-job time: meta-analysis of the Zeigarnik effect in a work-recovery context\" (Anxiety, Stress, & Coping, 2026)",
+    "sourceUrl": "https://doi.org/10.1080/10615806.2026.2616302",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/switch-from-work-to-study-unfinished-tasks-note/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "家でも仕事のことを考えてしまうのはなぜ？",
+        "body": "仕事を終えたのに、夜になっても明日の会議やメールのことが頭に浮かぶ。実は「終わっていない仕事」がカギらしいんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "やり残しと、仕事の後の考えごと",
+        "body": "人どうしをくらべた17件（2,473人）と、同じ人の日ごとの変化を見た14件（1万2,129人）の研究をまとめたメタ分析だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "やり残しが多い日ほど浮かぶ",
+        "body": "やり残しが多い人ほど、同じ人でもやり残しが多い日ほど、仕事の後に仕事のことを考えやすかった。くよくよ考え続ける「反すう」との関係がとくに強かった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因なの？どう防ぐ？",
+        "body": "これは相関の研究で、やり残しが原因だとは言い切れない。どうすれば防げるかの研究もまだ足りないと、著者たちは書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

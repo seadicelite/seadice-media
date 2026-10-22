@@ -4655,5 +4655,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Half-closed_laptop_%28Unsplash%29.jpg/500px-Half-closed_laptop_%28Unsplash%29.jpg",
   "og": "https://dokugaku.seadice.win/img/work-experience-after-action-review-how-to-og.jpg",
   "local": true
+ },
+ "switch-from-work-to-study-unfinished-tasks-note": {
+  "file": "File:Larry the cat lying on a desk next to a coffee mug (DSC 0063).jpg",
+  "src": "/img/switch-from-work-to-study-unfinished-tasks-note.webp",
+  "src640": "/img/switch-from-work-to-study-unfinished-tasks-note-sm.webp",
+  "w": 960,
+  "h": 668,
+  "alt": "机の上で寝そべる猫とコーヒーカップ",
+  "artist": "Trougnouf (Benoit Brummer)",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Larry_the_cat_lying_on_a_desk_next_to_a_coffee_mug_(DSC_0063).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Larry_the_cat_lying_on_a_desk_next_to_a_coffee_mug_%28DSC_0063%29.jpg/960px-Larry_the_cat_lying_on_a_desk_next_to_a_coffee_mug_%28DSC_0063%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Larry_the_cat_lying_on_a_desk_next_to_a_coffee_mug_%28DSC_0063%29.jpg/500px-Larry_the_cat_lying_on_a_desk_next_to_a_coffee_mug_%28DSC_0063%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/switch-from-work-to-study-unfinished-tasks-note-og.jpg",
+  "local": true
  }
 }
