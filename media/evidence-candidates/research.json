@@ -9050,5 +9050,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-weight-regain-after-diet-recovery-research-relapse",
+    "category": "食べもの",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Phelan S et al., \"Recovery from relapse among successful weight maintainers\" (The American Journal of Clinical Nutrition, 2003)",
+    "sourceUrl": "https://doi.org/10.1093/ajcn/78.6.1079",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/weight-regain-after-diet-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "リバウンドしても戻せる？",
+        "body": "やせたのに体重が戻ってきた。「またすぐ落とせばいいや」って思いがちだけど、実際はどうなんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "減量に成功した2400人",
+        "body": "米国の研究者が、平均32.1kgやせて保っていた2400人を2年間追いかけたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "増えるほど戻しにくい",
+        "body": "1年で5%以上増えた人のうち、2年目に元の体重まで戻せたのは4.7%だけ。立て直せたのは、増え方が小さかった人だったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "成功した人だけの登録",
+        "body": "参加者は自分で登録した減量の成功者で、体重も本人の申告。一般の人に同じ数字が当てはまるかはわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

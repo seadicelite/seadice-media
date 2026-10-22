@@ -4999,5 +4999,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/European_honey_bee_extracts_nectar.jpg/500px-European_honey_bee_extracts_nectar.jpg",
   "og": "https://research.seadice.win/img/honey-cough-children-research.jpg",
   "local": true
+ },
+ "weight-regain-after-diet-recovery-research": {
+  "file": "File:Load Cell Sensor Module from a Digital Weighing Scale 02.jpg",
+  "src": "/img/weight-regain-after-diet-recovery-research.jpg",
+  "src640": "/img/weight-regain-after-diet-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "デジタル体重計の中にある、重さを測るセンサー部品",
+  "artist": "Gannu03",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Load_Cell_Sensor_Module_from_a_Digital_Weighing_Scale_02.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Load_Cell_Sensor_Module_from_a_Digital_Weighing_Scale_02.jpg/960px-Load_Cell_Sensor_Module_from_a_Digital_Weighing_Scale_02.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Load_Cell_Sensor_Module_from_a_Digital_Weighing_Scale_02.jpg/500px-Load_Cell_Sensor_Module_from_a_Digital_Weighing_Scale_02.jpg",
+  "og": "https://research.seadice.win/img/weight-regain-after-diet-recovery-research.jpg",
+  "local": true
  }
 }
