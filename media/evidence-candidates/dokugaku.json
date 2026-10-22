@@ -8487,5 +8487,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-why-hard-to-focus-after-short-videos-meta-attention",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Nguyen et al., \"Feeds, feelings, and focus: A systematic review and meta-analysis examining the cognitive and mental health correlates of short-form video use\" (Psychological Bulletin, 2025)",
+    "sourceUrl": "https://doi.org/10.1037/bul0000498",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/why-hard-to-focus-after-short-videos/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ショート動画で集中力が落ちる？",
+        "body": "ショート動画ばかり見ていると集中できなくなる、ってよく言われるよね。たくさんの研究をまとめた分析が2025年に出ているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "71の研究・約9万8千人",
+        "body": "ショート動画の使い方と、注意や記憶、心の健康との関係を調べた71の研究、計9万8,299人分のデータをまとめて分析したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "よく使う人ほど注意の成績が低め",
+        "body": "よく使う人ほど、注意（r=−0.38）や衝動を抑える力（r=−0.41）の成績が低い関係があった。若い人でも大人でも、どのアプリでも同じ傾向だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "見たから落ちた、とは限らない",
+        "body": "これは関係の強さの数字で、原因の向きはわからないんだ。もともと集中しにくい人がよく見るのかもしれない。記憶や推論を調べた研究もまだ少ないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
