@@ -393,7 +393,8 @@
           "rebuild-broken-study-plan",
           "exam-close-not-enough-time",
           "exam-far-away-never-started-reset",
-          "too-many-study-goals-cannot-progress"
+          "too-many-study-goals-cannot-progress",
+          "avoid-checking-study-progress-reset"
         ]
       }
     },

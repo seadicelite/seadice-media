@@ -8385,5 +8385,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-avoid-checking-study-progress-reset-ostrich-reasons",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Chang, Webb & Benn, \"Why Do People Act Like the Proverbial Ostrich? Investigating the Reasons That People Provide for Not Monitoring Their Goal Progress\" (Frontiers in Psychology, 2017)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2017.00152",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/avoid-checking-study-progress-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "遅れると計画表を見たくない",
+        "body": "勉強が遅れてくると、計画表や残高みたいな「進み具合」を見たくなくなるよね。研究者はこれを、砂に頭を突っこむダチョウにたとえて「ダチョウ問題」と呼んでいるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "見ない理由を聞いてみた",
+        "body": "英国の288人に、進み具合を確かめなかった場面を思い出してもらい、74の文から理由を選んでもらった。別の634人の減量中の人には、進み具合を調べるツールを使うか選んでもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "本人の理由と、実際は違った",
+        "body": "よく挙がった理由は「見たら行動を変えなきゃいけない」「どうせ悪い」。でも実際にツールを使わなかったのは「見ても役に立たない」「当てにならない」と思う人、そして「自分で何とかできる」と感じる人だった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因かどうかは未確認",
+        "body": "2つ目の調査は相関の研究で、その考えが原因で見なくなるとまでは言えない。対象も減量中の人で、勉強の計画で同じことが起きるかは直接確かめられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

@@ -4522,5 +4522,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/George-peabody-library.jpg/500px-George-peabody-library.jpg",
   "og": "https://dokugaku.seadice.win/img/why-library-study-room-feels-productive.jpg",
   "local": true
+ },
+ "avoid-checking-study-progress-reset": {
+  "file": "File:Wooden table with notebook.jpg",
+  "src": "/img/avoid-checking-study-progress-reset.webp",
+  "src640": "/img/avoid-checking-study-progress-reset-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "木の机に置かれたノート",
+  "artist": "Anntinomy",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Wooden_table_with_notebook.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wooden_table_with_notebook.jpg/960px-Wooden_table_with_notebook.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wooden_table_with_notebook.jpg/500px-Wooden_table_with_notebook.jpg",
+  "og": "https://dokugaku.seadice.win/img/avoid-checking-study-progress-reset-og.jpg",
+  "local": true
  }
 }
