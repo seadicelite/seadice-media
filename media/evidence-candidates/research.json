@@ -8948,5 +8948,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-spicy-food-sweat-runny-nose-why-research-reflex",
+    "category": "食べもの",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Raphael G et al., \"Gustatory rhinitis: a syndrome of food-induced rhinorrhea\" (Journal of Allergy and Clinical Immunology, 1989)",
+    "sourceUrl": "https://doi.org/10.1016/0091-6749(89)90484-3",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/spicy-food-sweat-runny-nose-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "辛いもので鼻水が出るのはなぜ？",
+        "body": "激辛ラーメンを食べると、風邪でもないのに鼻水がたらたら。あれって何が起きているんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "12人に食べ比べてもらった",
+        "body": "米国の研究で、12人に鼻水が出る食べもの（唐辛子など）と出ない食べもの（クラッカーなど）を食べてもらい、10分後の鼻の中の液を調べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "神経の信号を止めると出なかった",
+        "body": "辛いものでは全員に鼻水が出て、鼻の液のたんぱく質は79から258mg/Lに増えた。でも鼻の神経の信号を止める薬を先に使うと、鼻水はほぼ出なかったらしい。アレルギーじゃなくて神経の反射なんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "12人だけの実験",
+        "body": "調べたのは12人だけ。どのくらいの辛さから鼻水が出るのか、人によってなぜ差があるのかは、この研究ではわかっていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
