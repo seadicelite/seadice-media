@@ -7889,5 +7889,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-workplace-bullying-distress-recover-longitudinal",
+    "category": "仕事とAIの不安",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Verkuil et al., \"Workplace Bullying and Mental Health: A Meta-Analysis on Cross-Sectional and Longitudinal Data\" (PLoS ONE, 2015)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0135225",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/workplace-bullying-distress-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "職場のいじめは、終われば忘れられる？",
+        "body": "パワハラや職場のいじめって、その場がつらいのはもちろんだけど、時間がたってもあとを引くのかな。オランダの研究チームが、たくさんの研究をまとめて調べたらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "22の集団、5万4千人あまり",
+        "body": "いじめの経験と心の不調を、時間をおいて2回調べた研究を集めたんだ。2回の間は平均28か月。合わせて54,450人分のデータだよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "あとの心の不調と関連していた",
+        "body": "最初にいじめを受けていた人ほど、あとで心の不調が多い関連があった。特に抑うつとの関連が目立ったよ。逆に、心の不調があった人があとでいじめを受けやすい関連も見つかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因とまでは言い切れない",
+        "body": "どの研究も本人の回答で、子どもの頃の経験などほかの影響を除ききれていないと著者は書いている。研究ごとの結果のばらつきも大きかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

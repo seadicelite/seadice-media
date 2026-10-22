@@ -5752,5 +5752,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Morning_Calm_on_Six_Mile_Lake.jpg/500px-Morning_Calm_on_Six_Mile_Lake.jpg",
   "og": "https://mentalai.seadice.win/img/divorce-separation-writing-recover.jpg",
   "local": true
+ },
+ "workplace-bullying-distress-recover": {
+  "file": "File:Snowy forest path 02 16k – HDR-Panorama (Oliksiy Yakovlyev via Poly Haven).jpg",
+  "src": "/img/workplace-bullying-distress-recover.jpg",
+  "src640": "/img/workplace-bullying-distress-recover-sm.jpg",
+  "w": 960,
+  "h": 480,
+  "alt": "雪の積もった森の小道",
+  "artist": "Oliksiy Yakovlyev",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Snowy_forest_path_02_16k_%E2%80%93_HDR-Panorama_(Oliksiy_Yakovlyev_via_Poly_Haven).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Snowy_forest_path_02_16k_%E2%80%93_HDR-Panorama_%28Oliksiy_Yakovlyev_via_Poly_Haven%29.jpg/960px-Snowy_forest_path_02_16k_%E2%80%93_HDR-Panorama_%28Oliksiy_Yakovlyev_via_Poly_Haven%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Snowy_forest_path_02_16k_%E2%80%93_HDR-Panorama_%28Oliksiy_Yakovlyev_via_Poly_Haven%29.jpg/500px-Snowy_forest_path_02_16k_%E2%80%93_HDR-Panorama_%28Oliksiy_Yakovlyev_via_Poly_Haven%29.jpg",
+  "og": "https://mentalai.seadice.win/img/workplace-bullying-distress-recover.jpg",
+  "local": true
  }
 }
