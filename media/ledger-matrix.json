@@ -402,7 +402,9 @@
     "notice": [
      "dark-patterns-self-check"
     ],
-    "fix": [],
+    "fix": [
+     "free-trial-cancel-reminder-tips"
+    ],
     "after": [],
     "use": []
    }

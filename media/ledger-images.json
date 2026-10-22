@@ -1867,5 +1867,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Volla_Lasaretinsaari_Oulu_20130524.jpg/500px-Volla_Lasaretinsaari_Oulu_20130524.jpg",
   "og": "https://ledger.seadice.win/img/ai-recommendation-why-we-buy-more.jpg",
   "local": true
+ },
+ "free-trial-cancel-reminder-tips": {
+  "file": "File:Tea advent calendar with baubles and tea candle in Tuntorp.jpg",
+  "src": "/img/free-trial-cancel-reminder-tips.jpg",
+  "src640": "/img/free-trial-cancel-reminder-tips-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "日付が並んだアドベントカレンダーと飾り",
+  "artist": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tea_advent_calendar_with_baubles_and_tea_candle_in_Tuntorp.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tea_advent_calendar_with_baubles_and_tea_candle_in_Tuntorp.jpg/960px-Tea_advent_calendar_with_baubles_and_tea_candle_in_Tuntorp.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tea_advent_calendar_with_baubles_and_tea_candle_in_Tuntorp.jpg/500px-Tea_advent_calendar_with_baubles_and_tea_candle_in_Tuntorp.jpg",
+  "og": "https://ledger.seadice.win/img/free-trial-cancel-reminder-tips.jpg",
+  "local": true
  }
 }
