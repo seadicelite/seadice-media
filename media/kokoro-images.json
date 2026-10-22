@@ -5608,5 +5608,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Half-closed_laptop_%28Unsplash%29.jpg/500px-Half-closed_laptop_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/ai-anxiety-avoid-using-why.jpg",
   "local": true
+ },
+ "ai-written-feedback-feels-cold-why": {
+  "file": "File:Legal Contract & Signature - Warm Tones.jpg",
+  "src": "/img/ai-written-feedback-feels-cold-why.jpg",
+  "src640": "/img/ai-written-feedback-feels-cold-why-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "書類の上に置かれた万年筆",
+  "artist": "Blogtrepreneur",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Legal_Contract_%26_Signature_-_Warm_Tones.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Legal_Contract_%26_Signature_-_Warm_Tones.jpg/960px-Legal_Contract_%26_Signature_-_Warm_Tones.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Legal_Contract_%26_Signature_-_Warm_Tones.jpg/500px-Legal_Contract_%26_Signature_-_Warm_Tones.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-written-feedback-feels-cold-why.jpg",
+  "local": true
  }
 }

@@ -7617,5 +7617,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-ai-written-feedback-feels-cold-why-source",
+    "category": "仕事とAIの不安",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Marót JL, Palcsó T, Szabó ZP, \"Source matters, AI anxiety less so: comparing employee reactions to human, AI, and hybrid performance feedback and the limited role of AI anxiety\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1924487",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-written-feedback-feels-cold-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIが書いた評価、気になる？",
+        "body": "上司の評価コメントがAIで書かれていたら、どう感じるだろう。中身が同じなら、気にならないのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ文で、書き方だけ変えた",
+        "body": "ハンガリーの研究チームが、働く人192人に同じ評価コメントを読んでもらった。違うのは「上司が自分で書いた」「全部AI」「上司が書いてAIで整えた」など、伝えた書き方だけ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「全部AI」だと、上司に相談しにくい",
+        "body": "全部AIと伝えた組は、上司に相談したい気持ちが7段階で5.31点から3.43点に下がっていた。上司が書いてAIで整えた評価は、上司が全部書いた評価と差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本物の職場でも同じ？",
+        "body": "想像した場面への反応で、実際の上司の評価で同じことが起きるかはわからない。ハンガリーの192人の結果で、日本で確かめた研究でもない。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
