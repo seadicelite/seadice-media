@@ -8453,5 +8453,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-short-video-study-how-to-fragmented-clips",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wei et al., \"Learning via short videos impairs memory accuracy and reduces brain synchrony\" (Communications Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.1038/s44271-026-00476-x",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/short-video-study-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "短い動画なら手軽に覚えられる？",
+        "body": "1本1分くらいの解説動画なら、すき間時間にどんどん覚えられそうだよね。でも、ばらばらの短い動画を次々見る見方は、実は記憶に残りにくいらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ10分を、1本か5〜7本か",
+        "body": "中国の大学生185人が、10分の旅行紹介を、つながった1本の動画か、30秒〜2.5分の別々の動画5〜7本で見たよ。あとでテストすると伝えてから見せたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "正答率43.5%と65.8%",
+        "body": "直後のテストの正答率は、短い動画のグループが43.5%、つながった動画のグループが65.8%。翌日までに落ちた割合も46%と20%で、短い動画のほうが大きかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の動画でも同じ？",
+        "body": "素材は旅行紹介で、勉強の解説動画ではないんだ。事前登録のない実験で、主な結果は1つの研究グループのもの。内容がつながるように区切った教材動画なら、話は別かもしれない。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

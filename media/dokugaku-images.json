@@ -4556,5 +4556,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Japanese_bathtub.jpg/500px-Japanese_bathtub.jpg",
   "og": "https://dokugaku.seadice.win/img/warm-bath-before-bed-after-night-study-og.jpg",
   "local": true
+ },
+ "short-video-study-how-to": {
+  "file": "File:Tecnología Inspiracional.jpg",
+  "src": "/img/short-video-study-how-to.jpg",
+  "src640": "/img/short-video-study-how-to-sm.jpg",
+  "w": 960,
+  "h": 930,
+  "alt": "机の上のスマートフォンとノート",
+  "artist": "ISilec",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tecnolog%C3%ADa_Inspiracional.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tecnolog%C3%ADa_Inspiracional.jpg/960px-Tecnolog%C3%ADa_Inspiracional.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tecnolog%C3%ADa_Inspiracional.jpg/500px-Tecnolog%C3%ADa_Inspiracional.jpg",
+  "og": "https://dokugaku.seadice.win/img/short-video-study-how-to.jpg",
+  "local": true
  }
 }
