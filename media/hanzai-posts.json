@@ -1,5 +1,13 @@
 [
   {
+    "slug": "memory-reconsolidation",
+    "category": "記憶と目撃証言",
+    "type": "guide",
+    "date": "2026-10-22",
+    "title": "思い出すたびに記憶は書き換わるのか。「再固定化」の発見と、人では結果が割れている実験",
+    "summary": "思い出した記憶は一時的に変わりやすくなるのか。ネズミの実験から、事件映像の記憶が誤情報で損なわれた実験、再現できなかった追試まで。"
+  },
+  {
     "slug": "slippery-slope-small-transgressions",
     "category": "なぜ人は罪を犯すのか",
     "type": "guide",

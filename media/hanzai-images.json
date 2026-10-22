@@ -1162,5 +1162,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Spiral_staircase_in_the_Vatican_Museums_from_bottom_02.jpg/500px-Spiral_staircase_in_the_Vatican_Museums_from_bottom_02.jpg",
   "og": "https://hanzai.seadice.win/img/slippery-slope-small-transgressions.jpg",
   "local": true
+ },
+ "memory-reconsolidation": {
+  "file": "File:Card catalogue drawers.jpg",
+  "src": "/img/memory-reconsolidation.jpg",
+  "src640": "/img/memory-reconsolidation-sm.jpg",
+  "w": 960,
+  "h": 643,
+  "alt": "図書館の目録カードの引き出し",
+  "artist": "Carolina Prysyazhnyuk",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Card_catalogue_drawers.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Card_catalogue_drawers.jpg/960px-Card_catalogue_drawers.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Card_catalogue_drawers.jpg/500px-Card_catalogue_drawers.jpg",
+  "og": "https://hanzai.seadice.win/img/memory-reconsolidation.jpg",
+  "local": true
  }
 }
