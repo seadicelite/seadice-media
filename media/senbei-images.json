@@ -594,5 +594,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rice_flour.jpg/500px-Rice_flour.jpg",
   "og": "https://senbei.seadice.win/img/why-acrylamide-forms-senbei.jpg",
   "local": true
+ },
+ "msg-headache-myth": {
+  "file": "File:Pholiota microspora miso soup 001.jpg",
+  "src": "/img/msg-headache-myth.jpg",
+  "src640": "/img/msg-headache-myth-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "お椀に入ったなめこと豆腐の味噌汁（研究で使われた食事とは別のもの）",
+  "artist": "Ocdp",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Pholiota_microspora_miso_soup_001.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pholiota_microspora_miso_soup_001.jpg/960px-Pholiota_microspora_miso_soup_001.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pholiota_microspora_miso_soup_001.jpg/500px-Pholiota_microspora_miso_soup_001.jpg",
+  "og": "https://senbei.seadice.win/img/msg-headache-myth.jpg",
+  "local": true
  }
 }

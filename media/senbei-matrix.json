@@ -129,7 +129,9 @@
         "why": [
           "umami-synergy-nori-senbei"
         ],
-        "myth": [],
+        "myth": [
+          "msg-headache-myth"
+        ],
         "make": [
           "add-umami-to-senbei"
         ],
