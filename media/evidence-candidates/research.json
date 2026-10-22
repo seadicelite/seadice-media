@@ -8676,5 +8676,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-low-salt-taste-adaptation-how-research-gradual-salt",
+    "category": "食べもの",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bobowski N et al., \"A longitudinal comparison of two salt reduction strategies: Acceptability of a low sodium food depends on the consumer\" (Food Quality and Preference, 2015)",
+    "sourceUrl": "https://doi.org/10.1016/j.foodqual.2014.07.019",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/low-salt-taste-adaptation-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "減塩は一気に？少しずつ？",
+        "body": "薄味にしたいけど、急に減らすとまずくて続かない。じゃあ少しずつ減らせばいいのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "トマトジュースで16週間",
+        "body": "米国の研究で83人が16週間トマトジュースを飲み続けた。片方は4週目に塩分を一気に減らし、もう片方は12%ずつ減らして14週目に同じ低さにしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ゴールは同じ、途中のつらさが違う",
+        "body": "最後のおいしさはどちらも同じ。でも一気に減らした組は途中でおいしさが大きく落ち、少しずつの組は保たれたんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ジュース1品だけの話",
+        "body": "調べたのはトマトジュース1品だけ。塩味を強く好む人は、どちらのやり方でも途中で減塩ジュースを嫌がる時期があったよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

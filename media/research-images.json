@@ -4837,5 +4837,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Warm_cup_of_coffee_on_a_table_at_a_cafe.jpg/500px-Warm_cup_of_coffee_on_a_table_at_a_cafe.jpg",
   "og": "https://research.seadice.win/img/coffee-dehydration-diuretic-hydration-research.jpg",
   "local": true
+ },
+ "low-salt-taste-adaptation-how-research": {
+  "file": "File:Miso soup bowl.jpg",
+  "src": "/img/low-salt-taste-adaptation-how-research.jpg",
+  "src640": "/img/low-salt-taste-adaptation-how-research-sm.jpg",
+  "w": 960,
+  "h": 664,
+  "alt": "鍋の中のみそ汁",
+  "artist": "CNEcija12345",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Miso_soup_bowl.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Miso_soup_bowl.jpg/960px-Miso_soup_bowl.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Miso_soup_bowl.jpg/500px-Miso_soup_bowl.jpg",
+  "og": "https://research.seadice.win/img/low-salt-taste-adaptation-how-research.jpg",
+  "local": true
  }
 }
