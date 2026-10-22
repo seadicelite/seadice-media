@@ -8880,5 +8880,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-fish-bone-stuck-throat-recovery-research-fish-species",
+    "category": "食べもの",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Shishido T et al., \"Characteristics of fish-bone foreign bodies in the upper aero-digestive tract: The importance of identifying the species of fish\" (PLoS One, 2021)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0255947",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/fish-bone-stuck-throat-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "魚の骨はのどのどこに刺さる？",
+        "body": "魚を食べていてのどにチクッ。あの骨って、実際どこに刺さっているんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "東北大学病院の368人",
+        "body": "魚を食べたあとのどの違和感で受診した368人のカルテを調べたよ。骨が見つかったのは270人だった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "いちばん多いのは扁桃",
+        "body": "270人のうち170人は扁桃（のどの奥の両脇）に刺さっていた。医師が取った240人の54.6%は口から器具で取れたけど、45.4%は内視鏡か手術が必要だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1つの病院の記録",
+        "body": "1つの大学病院のカルテを振り返った研究で、重い人が集まりやすい可能性もある。ご飯の丸のみで取れるかは調べていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
