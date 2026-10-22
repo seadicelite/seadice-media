@@ -8759,5 +8759,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-compare-multiple-sources-reading-how-to-discrepancy",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Schoor, Rouet & Britt, \"Effects of context and discrepancy when reading multiple documents\" (Reading and Writing, 2023)",
+    "sourceUrl": "https://doi.org/10.1007/s11145-022-10321-2",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/compare-multiple-sources-reading-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "言い分が食い違う資料は、読み方を変える？",
+        "body": "同じテーマの資料を2つ読むとき、内容が一致している場合と食い違っている場合で、読み方は変わるのかを調べた実験があるよ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ドイツの大学生160人の実験",
+        "body": "短い資料を2つ読んで要点をまとめてもらい、資料を行き来した回数や、まとめに出典を書いたかを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "食い違うと、比べながら読む",
+        "body": "食い違うテーマでは、資料を行き来する回数が増え、まとめに出典を書く確率も高かった（オッズ比3.67）。「しかし」などの逆接も多かった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "理解が深まったかは別の話",
+        "body": "大学生が短い資料を読む実験で、読む時間や情報の照らし合わせには差がなかった。社会人が分厚い本を読むときも同じかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

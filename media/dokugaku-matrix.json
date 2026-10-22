@@ -155,7 +155,8 @@
           "pretesting-before-reading",
           "generate-questions-while-reading",
           "preview-headings-before-reading",
-          "read-textbook-figures-graphs-how-to"
+          "read-textbook-figures-graphs-how-to",
+          "compare-multiple-sources-reading-how-to"
         ],
         "stuck": [
           "mind-wandering-while-reading",

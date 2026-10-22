@@ -4672,5 +4672,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Larry_the_cat_lying_on_a_desk_next_to_a_coffee_mug_%28DSC_0063%29.jpg/500px-Larry_the_cat_lying_on_a_desk_next_to_a_coffee_mug_%28DSC_0063%29.jpg",
   "og": "https://dokugaku.seadice.win/img/switch-from-work-to-study-unfinished-tasks-note-og.jpg",
   "local": true
+ },
+ "compare-multiple-sources-reading-how-to": {
+  "file": "File:Books on a table at State Central Library.jpg",
+  "src": "/img/compare-multiple-sources-reading-how-to.webp",
+  "src640": "/img/compare-multiple-sources-reading-how-to-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "図書館の机に置かれた何冊かの本",
+  "artist": "Saiphani02",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Books_on_a_table_at_State_Central_Library.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Books_on_a_table_at_State_Central_Library.jpg/960px-Books_on_a_table_at_State_Central_Library.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Books_on_a_table_at_State_Central_Library.jpg/500px-Books_on_a_table_at_State_Central_Library.jpg",
+  "og": "https://dokugaku.seadice.win/img/compare-multiple-sources-reading-how-to-og.jpg",
+  "local": true
  }
 }
