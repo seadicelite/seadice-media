@@ -797,5 +797,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Household_Items_Heritage_Museum_Padmanabhapuram_Mar24_A7C_10170.jpg/500px-Household_Items_Heritage_Museum_Padmanabhapuram_Mar24_A7C_10170.jpg",
   "og": "https://oya.seadice.win/img/parent-muscle-weakness-sarcopenia-og.jpg",
   "local": true
+ },
+ "parent-living-together-nearby-or-facility": {
+  "file": "File:Genkan-M9778.jpg",
+  "src": "/img/parent-living-together-nearby-or-facility.jpg",
+  "src640": "/img/parent-living-together-nearby-or-facility-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "玄関に置かれた革靴と、奥へ続く廊下",
+  "artist": "Fg2",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Genkan-M9778.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Genkan-M9778.jpg/960px-Genkan-M9778.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Genkan-M9778.jpg/500px-Genkan-M9778.jpg",
+  "og": "https://oya.seadice.win/img/parent-living-together-nearby-or-facility.jpg",
+  "local": true
  }
 }
