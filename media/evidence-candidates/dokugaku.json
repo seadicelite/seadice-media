@@ -8895,5 +8895,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-count-study-days-not-questions-plan-counting-days",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "YeckehZaare & Resnick, \"Counting days is a spacing incentive that unlocks the potential of low GPA students\" (npj Science of Learning, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41539-025-00322-5",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/count-study-days-not-questions-plan/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "勉強は量をこなせばいい？",
+        "body": "今週は100問、みたいに量で目標を立てがちだよね。でも同じ量でも、何日に分けるかで結果が変わるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "数え方を変えて比べた",
+        "body": "米国の大学のプログラミング入門で143人を分け、解いた問題数で点をつける組と、1日10問正解した日の数で点をつける組を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "練習日が倍以上、点も上がった",
+        "body": "日数で数えた組は練習した日が平均38.5日（問題数の組は17.3日）、期末試験は85.3%（同81.7%）。解いた問題数の差は小さかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1つの授業の話",
+        "body": "1つの大学の1科目、1学期分の実験だよ。ほかの分野や社会人の独学で同じ効果が出るかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

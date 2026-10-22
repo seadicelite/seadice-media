@@ -4724,5 +4724,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Open_book_and_closed_laptop_on_a_table_with_fallen_leaves_during_a_study_break.jpg/500px-Open_book_and_closed_laptop_on_a_table_with_fallen_leaves_during_a_study_break.jpg",
   "og": "https://dokugaku.seadice.win/img/back-to-rereading-old-study-habit-reset.jpg",
   "local": true
+ },
+ "count-study-days-not-questions-plan": {
+  "file": "File:Uprint Calendar - December 2017 ESA17276265.jpeg",
+  "src": "/img/count-study-days-not-questions-plan.jpg",
+  "src640": "/img/count-study-days-not-questions-plan-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "12月のカレンダーのページ",
+  "artist": "European Space Agency",
+  "license": "CC BY-SA 3.0 igo",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Uprint_Calendar_-_December_2017_ESA17276265.jpeg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Uprint_Calendar_-_December_2017_ESA17276265.jpeg/960px-Uprint_Calendar_-_December_2017_ESA17276265.jpeg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Uprint_Calendar_-_December_2017_ESA17276265.jpeg/500px-Uprint_Calendar_-_December_2017_ESA17276265.jpeg",
+  "og": "https://dokugaku.seadice.win/img/count-study-days-not-questions-plan.jpg",
+  "local": true
  }
 }

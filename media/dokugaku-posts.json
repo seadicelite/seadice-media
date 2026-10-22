@@ -1,5 +1,13 @@
 [
   {
+    "slug": "count-study-days-not-questions-plan",
+    "category": "時間・計画",
+    "type": "guide",
+    "date": "2026-10-22",
+    "title": "勉強の計画を「問題数」ではなく「やった日数」で立てるには？週3日・1日10問から始める6つの手順（日数で数える実験と分散学習の研究）",
+    "summary": "量の目標は週末のまとめ勉強になりやすい。「週◯日・1日10問」と日数で数えると練習日が増え、試験の点も上がった実験に基づく手順。"
+  },
+  {
     "slug": "back-to-rereading-old-study-habit-reset",
     "category": "勉強法",
     "type": "guide",
