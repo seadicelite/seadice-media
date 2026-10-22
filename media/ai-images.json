@@ -3167,5 +3167,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Summer_empty_classroom%2C_potted_flowers_on_tables%2C_2023.jpg/500px-Summer_empty_classroom%2C_potted_flowers_on_tables%2C_2023.jpg",
   "og": "https://ai.seadice.win/img/classmates-ai-grades-lost-motivation-rebuild-og.jpg",
   "local": true
+ },
+ "machine-translation-assignment-accused-what-to-do": {
+  "file": "File:Compact Oxford English Dictionary 2.jpg",
+  "artist": "Cullen328",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Compact_Oxford_English_Dictionary_2.jpg",
+  "source_label": "Wikimedia Commons",
+  "w": 960,
+  "h": 657,
+  "src": "/img/machine-translation-assignment-accused-what-to-do.webp",
+  "src640": "/img/machine-translation-assignment-accused-what-to-do-sm.webp",
+  "alt": "開いた英語の辞書",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Compact_Oxford_English_Dictionary_2.jpg/960px-Compact_Oxford_English_Dictionary_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Compact_Oxford_English_Dictionary_2.jpg/500px-Compact_Oxford_English_Dictionary_2.jpg",
+  "og": "https://ai.seadice.win/img/machine-translation-assignment-accused-what-to-do-og.jpg",
+  "local": true
  }
 }
