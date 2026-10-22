@@ -4855,5 +4855,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Miso_soup_bowl.jpg/500px-Miso_soup_bowl.jpg",
   "og": "https://research.seadice.win/img/low-salt-taste-adaptation-how-research.jpg",
   "local": true
+ },
+ "beans-gas-flatulence-why-research": {
+  "file": "File:Mixture of beans (small red, cannellini, pinto, roman, red kidney, black), peas (blackeye, yellow split), and pardina lentils 10.jpg",
+  "src": "/img/beans-gas-flatulence-why-research.jpg",
+  "src640": "/img/beans-gas-flatulence-why-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "さまざまな種類の乾燥豆",
+  "artist": "Bean appreciator",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Mixture_of_beans_(small_red,_cannellini,_pinto,_roman,_red_kidney,_black),_peas_(blackeye,_yellow_split),_and_pardina_lentils_10.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mixture_of_beans_%28small_red%2C_cannellini%2C_pinto%2C_roman%2C_red_kidney%2C_black%29%2C_peas_%28blackeye%2C_yellow_split%29%2C_and_pardina_lentils_10.jpg/960px-Mixture_of_beans_%28small_red%2C_cannellini%2C_pinto%2C_roman%2C_red_kidney%2C_black%29%2C_peas_%28blackeye%2C_yellow_split%29%2C_and_pardina_lentils_10.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mixture_of_beans_%28small_red%2C_cannellini%2C_pinto%2C_roman%2C_red_kidney%2C_black%29%2C_peas_%28blackeye%2C_yellow_split%29%2C_and_pardina_lentils_10.jpg/500px-Mixture_of_beans_%28small_red%2C_cannellini%2C_pinto%2C_roman%2C_red_kidney%2C_black%29%2C_peas_%28blackeye%2C_yellow_split%29%2C_and_pardina_lentils_10.jpg",
+  "og": "https://research.seadice.win/img/beans-gas-flatulence-why-research.jpg",
+  "local": true
  }
 }

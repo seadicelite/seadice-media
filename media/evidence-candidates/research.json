@@ -8710,5 +8710,73 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-beans-gas-flatulence-why-research-adaptation",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Winham DM & Hutchins AM, \"Perceptions of flatulence from bean consumption among adults in 3 feeding studies\" (Nutrition Journal, 2011)",
+    "sourceUrl": "https://doi.org/10.1186/1475-2891-10-128",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/beans-gas-flatulence-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "豆を食べるとおならだらけ？",
+        "body": "豆は体にいいけど、おならが増えるから控えている。そんな人、けっこういるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "毎日半カップの豆を8〜12週",
+        "body": "米国の3つの試験で、毎日半カップの豆を食べた人に、おならが増えたかを毎週聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "2週目には大きく減った",
+        "body": "ピント豆では、1週目に増えたと答えた人が50%、2週目には6%。著者らは、豆でおならが増える心配は大げさかもと結論しているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "感じ方を聞いただけ",
+        "body": "ガスの量は測っていない。豆なしの食事でも3〜11%が増えたと答えていて、12週続けても増えたと感じる人が一部いたよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-beans-gas-flatulence-why-research-daily-volume",
+    "category": "食べもの",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Tomlin J et al., \"Investigation of normal flatus production in healthy volunteers\" (Gut, 1991)",
+    "sourceUrl": "https://doi.org/10.1136/gut.32.6.665",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/beans-gas-flatulence-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "おならって1日どれくらい出る？",
+        "body": "自分だけ多いのかな、と気になる人もいるはず。実際に量った研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "10人の24時間を全部集めた",
+        "body": "英国の研究で、健康な10人がふだんの食事に豆の缶詰200gを足し、24時間のおならを管で集めて量ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "中央値705ml、多い人は約1.5L",
+        "body": "1日の量は476〜1491ml。食物繊維をほぼ抜いた食事にすると中央値214mlに減って、水素はほぼ出なくなったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "たった10人の測定",
+        "body": "人数が少なく、豆を足した食事での量。ふだんの食事だけの日とは比べていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
