@@ -7787,5 +7787,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-sns-body-feed-content-prevent-tiktok-video-types",
+    "category": "SNSと比較",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kilby & Mickelson, \"Combating weight-stigmatization in online spaces: the impacts of body neutral, body positive, and weight-stigmatizing TikTok content on body image and mood\" (Frontiers in Psychiatry, 2025)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyt.2025.1577063",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/sns-body-feed-content-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "5分の動画で、体の見え方は変わる？",
+        "body": "SNSで細い体の動画を見て、なんだか自分の体が気になった経験はないかな。米国の研究チームが、見る動画の種類で気持ちが変わるかを実験したらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "326人に4種類の動画",
+        "body": "TikTokを使う米国の326人を4組に分けて、5分の動画を見てもらったんだ。体を肯定する動画、体の働きに目を向ける動画、やせることをすすめる動画、旅の風景の動画。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "やせる系の組だけ不満が下がらない",
+        "body": "体への不満（1〜100点）は、やせる系の組だけ下がらず58点から61点。ほかの3組では下がっていて、体を肯定する組は54点から46点だった。旅の動画でも下がったのが面白いところ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "見続けたらどうなる？",
+        "body": "測ったのは5分見た直後だけ。おすすめ欄を何週間も変えたときの効果はまだ調べられていない。参加者は女性とジェンダーの多様な人が中心で、男性に当てはまるかもわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

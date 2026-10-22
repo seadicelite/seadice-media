@@ -5698,5 +5698,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg/500px-M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9129.jpg",
   "og": "https://mentalai.seadice.win/img/phone-one-hour-less-prevent.jpg",
   "local": true
+ },
+ "sns-body-feed-content-prevent": {
+  "file": "File:Lavender morning with clouds rolling over the mountains (52276971642).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lavender_morning_with_clouds_rolling_over_the_mountains_%2852276971642%29.jpg/960px-Lavender_morning_with_clouds_rolling_over_the_mountains_%2852276971642%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lavender_morning_with_clouds_rolling_over_the_mountains_%2852276971642%29.jpg/500px-Lavender_morning_with_clouds_rolling_over_the_mountains_%2852276971642%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "朝のラベンダー畑",
+  "artist": "Big Ben in Japan from Kawasaki, Japan",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lavender_morning_with_clouds_rolling_over_the_mountains_(52276971642).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
