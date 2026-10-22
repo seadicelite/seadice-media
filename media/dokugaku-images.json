@@ -4539,5 +4539,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wooden_table_with_notebook.jpg/500px-Wooden_table_with_notebook.jpg",
   "og": "https://dokugaku.seadice.win/img/avoid-checking-study-progress-reset-og.jpg",
   "local": true
+ },
+ "warm-bath-before-bed-after-night-study": {
+  "file": "File:Japanese bathtub.jpg",
+  "src": "/img/warm-bath-before-bed-after-night-study.webp",
+  "src640": "/img/warm-bath-before-bed-after-night-study-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "お湯をはった浴槽",
+  "artist": "BradBeattie",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Japanese_bathtub.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Japanese_bathtub.jpg/960px-Japanese_bathtub.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Japanese_bathtub.jpg/500px-Japanese_bathtub.jpg",
+  "og": "https://dokugaku.seadice.win/img/warm-bath-before-bed-after-night-study-og.jpg",
+  "local": true
  }
 }

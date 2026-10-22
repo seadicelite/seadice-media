@@ -8419,5 +8419,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-warm-bath-before-bed-after-night-study-shower-sleep",
+    "category": "睡眠",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Whitworth-Turner et al., \"A shower before bedtime may improve the sleep onset latency of youth soccer players\" (European Journal of Sport Science, 2017)",
+    "sourceUrl": "https://doi.org/10.1080/17461391.2017.1346147",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/warm-bath-before-bed-after-night-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "寝る前のシャワー、意味ある？",
+        "body": "湯船につかると眠くなる気がするけど、シャワーだけでも寝つきは変わるのかな。寝る前の熱は、手足から逃げていくときに眠気を後押しすると考えられているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "消灯前に10分のシャワー",
+        "body": "ユースのサッカー選手11人が、消灯前に約40℃のシャワーを10分浴びる3日間と、ふだんどおりの3日間を、くじで決めた順番で比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "寝つきが約7分早まった",
+        "body": "シャワーの日は手足の皮膚の温度が上がり、寝つくまでの時間が平均で約7分短く、寝床で眠っている割合も約2%高かった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "11人だけの実験",
+        "body": "参加者はわずか11人の若いスポーツ選手で、睡眠は市販の計測器で測った。勉強する社会人や、ほかの年代で同じ差が出るかはまだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
