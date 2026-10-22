@@ -3150,5 +3150,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Legal_pad_and_pencil.jpg/500px-Legal_pad_and_pencil.jpg",
   "og": "https://ai.seadice.win/img/learning-app-ai-analytics-grades.jpg",
   "local": true
+ },
+ "classmates-ai-grades-lost-motivation-rebuild": {
+  "file": "File:Summer empty classroom, potted flowers on tables, 2023.jpg",
+  "artist": "AKA MBG",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Summer_empty_classroom,_potted_flowers_on_tables,_2023.jpg",
+  "source_label": "Wikimedia Commons",
+  "w": 960,
+  "h": 720,
+  "src": "/img/classmates-ai-grades-lost-motivation-rebuild.webp",
+  "src640": "/img/classmates-ai-grades-lost-motivation-rebuild-sm.webp",
+  "alt": "植物の鉢が並んだ、誰もいない教室",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Summer_empty_classroom%2C_potted_flowers_on_tables%2C_2023.jpg/960px-Summer_empty_classroom%2C_potted_flowers_on_tables%2C_2023.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Summer_empty_classroom%2C_potted_flowers_on_tables%2C_2023.jpg/500px-Summer_empty_classroom%2C_potted_flowers_on_tables%2C_2023.jpg",
+  "og": "https://ai.seadice.win/img/classmates-ai-grades-lost-motivation-rebuild-og.jpg",
+  "local": true
  }
 }
