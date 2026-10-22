@@ -1,5 +1,14 @@
 [
  {
+  "slug": "learning-app-ai-analytics-grades",
+  "category": "子ども・学校",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-22",
+  "title": "学習アプリやAIの分析で、成績や「つまずきそう」と判断されるのが不安。研究では、予測が当たったのは平均7割ほどで、学生は何のデータを何に使うかを知りたがっていた",
+  "summary": "記録からの成績予測の正解率は平均71.6%で、外れる人もいる。学生は使い道と同意を気にしていた。何を集め何に使うかの確かめ方を整理。"
+ },
+ {
   "slug": "ai-made-work-low-rating-motivation-recover",
   "category": "創作・著作権",
   "type": "guide",

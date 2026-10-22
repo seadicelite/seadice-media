@@ -3132,5 +3132,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Keukenstuk%2C_RP-T-1905-165-15%28R%29.jpg/500px-Keukenstuk%2C_RP-T-1905-165-15%28R%29.jpg",
   "og": "https://ai.seadice.win/img/ai-made-work-low-rating-motivation-recover.jpg",
   "local": true
+ },
+ "learning-app-ai-analytics-grades": {
+  "file": "File:Legal pad and pencil.jpg",
+  "src": "/img/learning-app-ai-analytics-grades.jpg",
+  "src640": "/img/learning-app-ai-analytics-grades-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "鉛筆とノート",
+  "artist": "Jonas Petersson (UU)",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Legal_pad_and_pencil.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Legal_pad_and_pencil.jpg/960px-Legal_pad_and_pencil.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Legal_pad_and_pencil.jpg/500px-Legal_pad_and_pencil.jpg",
+  "og": "https://ai.seadice.win/img/learning-app-ai-analytics-grades.jpg",
+  "local": true
  }
 }
