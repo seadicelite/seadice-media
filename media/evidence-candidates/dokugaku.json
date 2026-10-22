@@ -8589,5 +8589,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-ai-programming-self-study-how-to-codex-novices",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kazemitabaar et al., \"Studying the effect of AI Code Generators on Supporting Novice Learners in Introductory Programming\" (CHI, 2023)",
+    "sourceUrl": "https://doi.org/10.1145/3544548.3580919",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/ai-programming-self-study-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "AIでコードを書くと、自分で書けなくなる？",
+        "body": "AIがコードを書いてくれると、プログラミングを学ぶ人は自分で書く力が育たない、ってよく言われるよね。それを確かめた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "初心者69人を2組に",
+        "body": "Pythonを初めて学ぶ10〜17歳の69人に45問の練習をしてもらい、半分だけコードを書くAIを使えるようにしたよ。1週間後には、AIなしでテストを受けてもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "テストの点は下がらなかった",
+        "body": "AIを使えた組は練習の完了率が1.15倍、点が1.8倍。1週間後のAIなしのテストでも、使わなかった組と同じか少し上だった（差ははっきりしない）。基礎の点が高かった人ほど、AIを使ったことがテストにつながっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人が長く学んだら？",
+        "body": "対象は子どもと10代で、使ったのは2022年ごろのAI。社会人が何か月も一人で学ぶときに同じ結果になるかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

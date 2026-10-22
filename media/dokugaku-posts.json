@@ -1,5 +1,13 @@
 [
   {
+    "slug": "ai-programming-self-study-how-to",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-22",
+    "title": "AIを使ってプログラミングを独学するには？自分で書けなくならない6つの手順（AIとプログラミング学習の研究と、その限界）",
+    "summary": "課題を丸ごとAIに渡す使い方ほど、自分で書き換える力が弱かった。先に書き、ヒントだけ聞き、翌日AIなしで書き直す手順。"
+  },
+  {
     "slug": "future-self-imagine-study-motivation",
     "category": "やる気・心",
     "type": "guide",

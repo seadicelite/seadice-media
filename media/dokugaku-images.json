@@ -4628,5 +4628,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Person_writing_in_notebook_while_using_laptop_at_a_modern_workspace.jpg/500px-Person_writing_in_notebook_while_using_laptop_at_a_modern_workspace.jpg",
   "og": "https://dokugaku.seadice.win/img/future-self-imagine-study-motivation.jpg",
   "local": true
+ },
+ "ai-programming-self-study-how-to": {
+  "file": "File:Code on computer monitor (Unsplash).jpg",
+  "src": "/img/ai-programming-self-study-how-to.jpg",
+  "src640": "/img/ai-programming-self-study-how-to-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "パソコンの画面に表示されたプログラムのコード",
+  "artist": "Markus Spiske markusspiske",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Code_on_computer_monitor_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/960px-Code_on_computer_monitor_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/500px-Code_on_computer_monitor_%28Unsplash%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/ai-programming-self-study-how-to.jpg",
+  "local": true
  }
 }
