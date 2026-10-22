@@ -7685,5 +7685,73 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-sns-browsing-tired-why-three-stressors",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Liu Y, Pang H, Zhao Y, \"Unpacking the Social Media Happiness Paradox: How Social Media Stressors Undermine Subjective Well-Being Through Social Media Fatigue\" (Behavioral Sciences, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/bs16091551",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/sns-browsing-tired-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "見てるだけなのに疲れるのはなぜ？",
+        "body": "投稿もしてないし、ただ眺めてただけ。なのに閉じたあと、どっと疲れてることってあるよね。手は動かしてなくても、頭の中では何かが起きてるのかもしれない。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "中国の748人にアンケート",
+        "body": "中国の18〜35歳のSNS利用者748人に、人と比べる癖、見逃す不安、つきあいの多さ（対応しきれないほどのつながりや頼みごと）と、SNS疲れについて答えてもらった調査がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "3つとも疲れと関連していた",
+        "body": "3つとも、強い人ほどSNS疲れが強かった。一番関連が強かったのは人と比べる癖で、次が見逃す不安。1日の利用時間を考えに入れても、関連は残っていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どっちが先かは不明",
+        "body": "1回だけのアンケートなので、比べるから疲れるのか、疲れているから比べやすいのかは区別できない。SNSをよく使う人が集まりやすい集め方だった点も、研究者自身が挙げている。"
+      }
+    ],
+    "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-sns-browsing-tired-why-fomo-cycle",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yao X, Zhao J, Chao W, Gao D, Wang M, Zhao G, \"Relationship Between Fear of Missing Out and Social Media Fatigue: Cross-Lagged Panel Design\" (Journal of Medical Internet Research, 2025)",
+    "sourceUrl": "https://doi.org/10.2196/75701",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/sns-browsing-tired-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "見逃す不安がSNS疲れを生む？",
+        "body": "「見逃したくない」気持ちが強いと、SNSを追いすぎて疲れる、ってよく言われるよね。でも、その向きは本当に一方通行なんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生862人を2か月追った",
+        "body": "中国中部の4大学の学生862人に、2か月あけて2回、見逃す不安とSNS疲れの質問に答えてもらった研究がある。1回目の答えが2回目をどう予測するかを見たんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "お互いに強め合っていた",
+        "body": "実は、見逃す不安が強い人はあとで疲れが少し強く、疲れが強い人はあとで見逃す不安が強めだった。研究者は、2つが悪い循環になりうると考えている。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "2回だけの調査",
+        "body": "調べたのは2時点だけで、間に何が起きたかはわからない。対象は中国の大学生だけなので、働く大人や別の国でも同じかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]

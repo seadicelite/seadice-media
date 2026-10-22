@@ -5629,8 +5629,8 @@
  },
  "pomodoro-breaks-focus-prevent": {
   "file": "File:Lux Minute Minder timer.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lux_Minute_Minder_timer.jpg/960px-Lux_Minute_Minder_timer.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lux_Minute_Minder_timer.jpg/500px-Lux_Minute_Minder_timer.jpg",
+  "src": "/img/pomodoro-breaks-focus-prevent.jpg",
+  "src640": "/img/pomodoro-breaks-focus-prevent-sm.jpg",
   "w": 960,
   "h": 946,
   "alt": "キッチンタイマー",
@@ -5638,6 +5638,29 @@
   "license": "Public domain",
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Lux_Minute_Minder_timer.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lux_Minute_Minder_timer.jpg/960px-Lux_Minute_Minder_timer.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lux_Minute_Minder_timer.jpg/500px-Lux_Minute_Minder_timer.jpg",
+  "og": "https://mentalai.seadice.win/img/pomodoro-breaks-focus-prevent.jpg",
+  "local": true
+ },
+ "sns-browsing-tired-why": {
+  "file": "File:Wiki課程練習檔.jpg",
+  "src": "/img/sns-browsing-tired-why.jpg",
+  "src640": "/img/sns-browsing-tired-why-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "木の机に置かれたコーヒーカップと水筒、スマートフォン",
+  "artist": "Teresachen616",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Wiki%E8%AA%B2%E7%A8%8B%E7%B7%B4%E7%BF%92%E6%AA%94.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wiki%E8%AA%B2%E7%A8%8B%E7%B7%B4%E7%BF%92%E6%AA%94.jpg/960px-Wiki%E8%AA%B2%E7%A8%8B%E7%B7%B4%E7%BF%92%E6%AA%94.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wiki%E8%AA%B2%E7%A8%8B%E7%B7%B4%E7%BF%92%E6%AA%94.jpg/500px-Wiki%E8%AA%B2%E7%A8%8B%E7%B7%B4%E7%BF%92%E6%AA%94.jpg",
+  "og": "https://mentalai.seadice.win/img/sns-browsing-tired-why.jpg",
+  "local": true
  }
 }
