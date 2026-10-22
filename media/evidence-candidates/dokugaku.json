@@ -8691,5 +8691,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "dokugaku-work-experience-after-action-review-how-to-debrief",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Tannenbaum & Cerasoli, \"Do team and individual debriefs enhance performance? A meta-analysis\" (Human Factors, 2013)",
+    "sourceUrl": "https://doi.org/10.1177/0018720812448394",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/work-experience-after-action-review-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "終わったあとの「振り返り」って効く？",
+        "body": "仕事や練習が終わったら、何がよくて何がだめだったかを話し合う。軍や医療の訓練で長く使われてきた「デブリーフィング」というやり方なんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "46のサンプルをまとめた",
+        "body": "チームや個人の振り返りの研究から、46のサンプル（2,136人）をまとめて、振り返りをした組としなかった組の成績をくらべたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績が平均で約25%よかった",
+        "body": "振り返りをした方が、成績が平均で約25%よかった。効果はチームでも個人でも、訓練でも実際の現場でも、同じくらいだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "一人の独学でも同じ？",
+        "body": "多くは軍や医療の訓練の研究。社会人が一人で学び直しをする場面で、同じくらいの効果が出るかは、まだ確かめられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-22"
   }
 ]
