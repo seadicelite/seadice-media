@@ -54,6 +54,12 @@
           "blackhole-interior",
           "first-blackholes",
           "hawking-radiation"
+        ],
+        "num": [
+          "black-hole-size"
+        ],
+        "see": [
+          "blackhole-visible"
         ]
       }
     },
@@ -75,7 +81,11 @@
           "before-big-bang"
         ],
         "see": [
+          "https://uchu.seadice.win/timeline/",
           "https://uchu.seadice.win/simulator/"
+        ],
+        "what": [
+          "what-is-big-bang"
         ]
       }
     },
@@ -100,6 +110,9 @@
         ],
         "see": [
           "https://uchu.seadice.win/simulator/"
+        ],
+        "myth": [
+          "temperature-of-space"
         ]
       }
     },
@@ -124,6 +137,9 @@
         ],
         "see": [
           "https://uchu.seadice.win/tools/galaxy/"
+        ],
+        "how": [
+          "star-distance"
         ]
       }
     },
@@ -139,7 +155,17 @@
           "andromeda-collision"
         ],
         "see": [
-          "https://uchu.seadice.win/tools/galaxy/"
+          "https://uchu.seadice.win/tools/galaxy/",
+          "milky-way-naked-eye"
+        ],
+        "how": [
+          "gravitational-lensing"
+        ],
+        "num": [
+          "how-many-galaxies"
+        ],
+        "unknown": [
+          "spiral-arms"
         ]
       }
     },
@@ -190,6 +216,9 @@
         ],
         "see": [
           "eclipses"
+        ],
+        "unknown": [
+          "corona-heating"
         ]
       }
     },
@@ -270,6 +299,12 @@
         "num": [
           "voyager-now",
           "space-debris"
+        ],
+        "unknown": [
+          "living-on-mars"
+        ],
+        "see": [
+          "satellites-naked-eye"
         ]
       }
     },
@@ -302,6 +337,12 @@
           "planets-naked-eye",
           "meteor-showers",
           "https://uchu.seadice.win/zodiac-shift/"
+        ],
+        "how": [
+          "star-colors"
+        ],
+        "unknown": [
+          "oldest-constellations"
         ]
       }
     }

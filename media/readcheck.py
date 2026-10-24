@@ -125,7 +125,7 @@ def apply(cfg, posts):
     # 道具（手書きのページ。フッターの前に入れる）
     for path, arts in _tools(cfg, posts).items():
         f = base / path.strip("/") / "index.html"
-        if f.exists() and arts:
+        if f.exists() and arts and "data-rc-own" not in f.read_text():  # 自分で読んだ本数を出す道具（年表）は除く
             s = _sub(f.read_text(), _tool_block(key, arts), ["<footer"])
             f.write_text(_put_css(s))
     return n
