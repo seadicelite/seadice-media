@@ -6181,5 +6181,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lothar_Path_-_Black_Forest_National_Park_-_Root_plate_01.jpg/500px-Lothar_Path_-_Black_Forest_National_Park_-_Root_plate_01.jpg",
   "og": "https://mentalai.seadice.win/img/exercise-loneliness-recover.jpg",
   "local": true
+ },
+ "cook-for-someone-fatigue-recover": {
+  "file": "File:Woman prepares vegetables in kitchen with cutting board and knife during meal preparation.jpg",
+  "src": "/img/cook-for-someone-fatigue-recover.jpg",
+  "src640": "/img/cook-for-someone-fatigue-recover-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "まな板の上でパプリカを切る手元",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_prepares_vegetables_in_kitchen_with_cutting_board_and_knife_during_meal_preparation.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Woman_prepares_vegetables_in_kitchen_with_cutting_board_and_knife_during_meal_preparation.jpg/960px-Woman_prepares_vegetables_in_kitchen_with_cutting_board_and_knife_during_meal_preparation.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Woman_prepares_vegetables_in_kitchen_with_cutting_board_and_knife_during_meal_preparation.jpg/500px-Woman_prepares_vegetables_in_kitchen_with_cutting_board_and_knife_during_meal_preparation.jpg",
+  "og": "https://mentalai.seadice.win/img/cook-for-someone-fatigue-recover.jpg",
+  "local": true
  }
 }

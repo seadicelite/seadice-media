@@ -8705,5 +8705,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-cook-for-someone-fatigue-recover-momentary",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hui et al., \"Cooking for others is food for the soul: Consistent momentary, but mixed trait-level well-being benefits for home cooks\" (Applied Psychology: Health and Well-Being, 2026)",
+    "sourceUrl": "https://doi.org/10.1111/aphw.70121",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/cook-for-someone-fatigue-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く話",
+        "title": "人のために作ると元気が出る？",
+        "body": "誰かのためにごはんを作ると、なんだか気持ちが上向く気がするよね。作る本人の心はどう変わっているのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "295人が2週間スマホで記録",
+        "body": "香港の大人295人が、14日間、1日3回、誰かのために料理したかとそのときの気分を記録したんだ。集まった記録は9,707回だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "料理したあと、少し元気に",
+        "body": "その人のふだんと比べて、誰かのために料理した時間のあとは、元気さや気分、自分への満足感が少し高かったらしい。内向的な人ほど上がり方が大きめだったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "その場限りの小さな変化",
+        "body": "観察した研究だから、料理が原因かはわからないんだ。差は小さく、次の記録まで続く様子もなかった。よく料理する人ほど毎日の気分がよい、とも言えなかったよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
