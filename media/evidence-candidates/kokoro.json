@@ -8229,5 +8229,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "kokoro-doorway-forget-why-entered-room-replication",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "McFadyen et al., \"Doorways do not always cause forgetting: a multimodal investigation\" (BMC Psychology, 2021)",
+    "sourceUrl": "https://doi.org/10.1186/s40359-021-00536-3",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/doorway-forget-why-entered-room/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "扉を通ると忘れる？",
+        "body": "隣の部屋に何かを取りに行ったのに、入った瞬間に何しに来たか忘れる。「扉を通ると記憶がリセットされる」という話、聞いたことがあるよね。実際、そんな結果を出した実験もあったんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "4つのやり方で確かめた",
+        "body": "オーストラリアの研究チームが、仮想現実、動画、実際の廊下を歩く形で4つの実験をしたよ。参加したのは18〜45歳の合わせて126人。扉や仕切りを通ったあとの記憶を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "はっきり出たのは1つだけ",
+        "body": "全体としては、扉による物忘れははっきりしなかったらしい。例外は、仮想現実の中で数を逆に数えながら移動した実験。このときだけ、扉のあとで見ていない組み合わせを「見た」と答える誤りが増えていたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どんな条件で起きる？",
+        "body": "1つの実験は26〜45人と少なめで、仮想現実では酔ってやめた人もいた。米国の別の実験では最初に見た物の記憶が落ちていて、どんな条件で起きるのかはまだ調べている途中だよ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
