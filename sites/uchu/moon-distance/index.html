@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>もし月の距離が違ったら｜潮・1日の長さ・日食を計算 | 宇宙の研究</title>
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta name="description" content="バーで月までの距離を変えると、潮の大きさ・1日の長さ・1か月の長さ・日食の起き方・満月から届く光の量が計算で出る道具。地層の記録とも答え合わせ。">
+<link rel="canonical" href="https://uchu.seadice.win/moon-distance/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="宇宙の研究">
+<meta property="og:title" content="もし月の距離が違ったら｜潮・1日の長さ・日食を計算">
+<meta property="og:description" content="月までの距離を変えると、潮・1日の長さ・日食がどう変わるかを計算。地層の記録で答え合わせ。登録なし・無料。">
+<meta property="og:url" content="https://uchu.seadice.win/moon-distance/">
+<meta property="og:image" content="https://seadice.win/icons/seadice_ogp.png">
+<meta name="theme-color" content="#0A0E16">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebApplication", "name": "もし月の距離が違ったら", "url": "https://uchu.seadice.win/moon-distance/", "applicationCategory": "EducationalApplication", "operatingSystem": "Web", "inLanguage": "ja", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "JPY"}, "description": "バーで月までの距離を変えると、潮の大きさ・1日の長さ・1か月の長さ・日食の起き方・満月から届く光の量が計算で出る道具。地層の記録とも答え合わせ。", "publisher": {"@id": "https://seadice.win/#organization"}, "dateModified": "2026-10-24"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "SEADICE", "item": "https://seadice.win/"}, {"@type": "ListItem", "position": 2, "name": "宇宙の研究", "item": "https://uchu.seadice.win/"}, {"@type": "ListItem", "position": 3, "name": "もし月の距離が違ったら", "item": "https://uchu.seadice.win/moon-distance/"}]}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "月が近いと、なぜ1日が短くなるの？", "acceptedAnswer": {"@type": "Answer", "text": "地球の自転と月の公転の「回る勢い（角運動量）」の合計は、ほぼ変わらないためです。月が近い（公転の勢いが小さい）ぶん、地球の自転が速くなります。今は潮の力で地球の自転の勢いが月の公転に移り、1日がのびて月が遠ざかっています。"}}, {"@type": "Question", "name": "この計算は本当に合っているの？", "acceptedAnswer": {"@type": "Answer", "text": "地層の記録（約6億2000万年前に21.9±0.4時間、約14億年前に18.68±0.25時間）と比べると、計算は22.0時間と18.6時間で、誤差の幅に入りました。ただし計算に入れた距離も同じ研究の見積もりなので、独立した確かめではなく「角運動量の考え方と記録が食い違わない」ことの確認です。太陽の潮や地球の形の変化は入れていないので、目安です。"}}, {"@type": "Question", "name": "月がもっと遠くなるとどうなるの？", "acceptedAnswer": {"@type": "Answer", "text": "今のしくみのままなら、月は少しずつ遠ざかり、いつか地球の1日と月の1か月が同じ長さになる所で止まると考えられています。この道具の計算では、約55万4000kmで約47日です。そこまでに何年かかるかは、遠ざかる速さが変わるため、この道具では出していません。"}}]}]}</script>
+<style>
+:root{--bg:#0A0E16;--card:#121926;--border:#26324A;--text:#E9EDF3;--muted:#A1ACBE;--accent:#E3B341;--accent2:#7FB2E5;--known:#8FD1A8;--unknown:#E9A0A0;--est:#A1ACBE;--g:16px}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.8 -apple-system,BlinkMacSystemFont,"Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP","Yu Gothic",Meiryo,sans-serif}
+a{color:var(--accent2)}
+a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{max-width:1080px;margin:0 auto;padding:0 var(--g)}
+nav.top{border-bottom:1px solid var(--border)}
+nav.top .wrap{display:flex;justify-content:space-between;align-items:center;min-height:52px}
+nav.top a{color:var(--text);text-decoration:none;font-weight:700;padding:10px 0}
+nav.top a.site{color:var(--accent)}
+.crumb{font-size:13px;color:var(--muted);margin:14px 0 0;padding:0;list-style:none;display:flex;flex-wrap:wrap;gap:4px}
+.crumb li+li:before{content:"/";margin-right:4px}
+.crumb a{color:var(--muted)}
+h1{font-size:24px;line-height:1.4;margin:12px 0 8px}
+h2{font-size:19px;line-height:1.45;margin:36px 0 12px;padding-left:10px;border-left:3px solid var(--accent)}
+h3{font-size:16px;margin:20px 0 6px}
+p{margin:0 0 12px}
+.lead{color:var(--text);font-size:15px}
+.note{font-size:13px;color:var(--muted)}
+.card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:14px}
+.grid{display:grid;gap:20px;margin-top:16px}
+.stage{position:relative;width:100%;max-width:560px;aspect-ratio:1/1;background:#05070C;border:1px solid var(--border);border-radius:8px;overflow:hidden}
+.stage canvas{display:block;width:100%;height:100%}
+.ov{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:20px;font-size:15px;color:var(--muted)}
+.ov strong{color:var(--text);font-size:17px;display:block;margin-bottom:6px}
+.cap{font-size:13px;color:var(--muted);margin:6px 0 0;min-height:1.6em}
+.readout{display:flex;flex-wrap:wrap;gap:4px 16px;margin:10px 0 4px;font-size:14px}
+.readout b{font-size:20px;color:var(--accent);font-weight:700}
+.btns{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}
+button{font:inherit;font-size:15px;min-height:48px;padding:8px 16px;border-radius:8px;border:1px solid var(--border);background:var(--card);color:var(--text);cursor:pointer}
+button.primary{background:var(--accent);border-color:var(--accent);color:#14110A;font-weight:700}
+button:hover{border-color:var(--accent2)}
+input[type=range]{width:100%;height:48px;margin:4px 0;accent-color:var(--accent);cursor:pointer}
+.verdict{border-left:4px solid var(--accent)}
+.verdict .vt{font-size:18px;font-weight:700;margin:0 0 6px}
+.verdict.v-d{border-left-color:var(--known)}
+.verdict.v-b,.verdict.v-a{border-left-color:var(--unknown)}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{text-align:left;padding:8px 6px;border-bottom:1px solid var(--border);vertical-align:top}
+th{color:var(--muted);font-weight:400;font-size:13px}
+td.v{white-space:nowrap;color:var(--accent)}
+.tl{list-style:none;margin:0;padding:0}
+.tl li{border-bottom:1px solid var(--border)}
+.tl button{display:block;width:100%;text-align:left;background:none;border:0;border-radius:0;padding:12px 4px;min-height:48px}
+.tl button:hover{background:var(--card)}
+.tl li.cur button{background:var(--card);box-shadow:inset 3px 0 0 var(--accent)}
+.tl .tt{color:var(--accent);font-weight:700;font-size:14px}
+.tl .tn{font-weight:700;font-size:16px;margin-left:6px}
+.tl .tx{display:block;font-size:14px;color:var(--muted);margin-top:4px;line-height:1.7}
+.tl li.none .tt{color:var(--muted)}
+.lb{display:inline-block;font-size:12px;line-height:1.5;padding:0 6px;border:1px solid currentColor;border-radius:4px;margin-left:6px;vertical-align:2px;font-weight:400}
+.lb.k{color:var(--known)}.lb.h{color:var(--accent)}.lb.u{color:var(--unknown)}.lb.e{color:var(--est)}
+.rec{font-size:15px}
+.rec ul{margin:8px 0;padding:0;list-style:none;display:flex;flex-wrap:wrap;gap:6px}
+.rec li a{display:inline-block;padding:10px 10px;border:1px solid var(--border);border-radius:6px;font-size:14px;text-decoration:none;min-height:44px}
+.src{font-size:14px;padding-left:20px}
+.src li{margin-bottom:8px}
+.rel{list-style:none;padding:0;margin:0;display:grid;gap:8px}
+.rel a{display:block;padding:12px 14px;border:1px solid var(--border);border-radius:8px;background:var(--card);text-decoration:none;color:var(--text)}
+footer{border-top:1px solid var(--border);margin-top:48px;padding:20px 0 32px;font-size:13px;color:var(--muted)}
+footer a{color:var(--muted);display:inline-block;padding:6px 0}
+dl.faq dt{font-weight:700;margin-top:14px}
+dl.faq dd{margin:4px 0 0;color:var(--text);font-size:15px}
+@media(min-width:600px){:root{--g:24px}h1{font-size:28px}.rel{grid-template-columns:1fr 1fr}}
+@media(min-width:960px){:root{--g:32px}.grid{grid-template-columns:560px 1fr;align-items:start}.side{position:sticky;top:12px;max-height:calc(100vh - 24px);overflow:auto}}
+.stats{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:12px 0}.stats div{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:10px 12px}.stats small{display:block;font-size:12px;color:var(--muted)}.stats b{display:block;font-size:17px;color:var(--accent);line-height:1.4}.stats em{display:block;font-style:normal;font-size:12px;color:var(--muted)}.stats .w{grid-column:1/-1}.sky{display:flex;gap:16px;align-items:center;justify-content:center;background:#05070C;border:1px solid var(--border);border-radius:8px;padding:16px;margin:8px 0}.sky figure{margin:0;text-align:center;font-size:12px;color:var(--muted)}.sky svg{display:block;margin:0 auto 4px}.pre{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}.pre button{font-size:14px;min-height:44px;padding:6px 12px}table.cmp th small{display:block;font-size:12px;color:var(--muted);font-weight:400}.hist{border-left:4px solid var(--accent)}/*rc*/.rc{margin:40px 0 0;padding:18px;background:var(--card,var(--panel,#121926));border:1px solid var(--border,var(--line,#26324A));border-radius:8px;text-align:center}.rc-b{font:inherit;font-size:15px;font-weight:700;min-height:48px;padding:10px 22px;border-radius:8px;cursor:pointer;background:var(--accent);color:var(--bg);border:1px solid var(--accent)}.rc-b[aria-pressed=true]{background:transparent;color:var(--accent)}.rc-n{font-size:13px;color:var(--muted);margin:10px 0 0;line-height:1.6}.rc-prog{font-size:13px;color:var(--muted);margin:0 0 18px}.rc-prog b{color:var(--accent)}.rc-done{position:relative}.rc-done::after{content:"読んだ";position:absolute;top:8px;right:8px;z-index:2;font-size:12px;font-weight:700;letter-spacing:.06em;padding:2px 8px;border-radius:4px;background:var(--bg);color:var(--accent);border:1px solid var(--accent)}a.rc-in::after{content:"読んだ";display:inline-block;margin-left:6px;font-size:12px;font-weight:700;line-height:1.5;padding:0 6px;border-radius:4px;color:var(--accent);border:1px solid var(--accent);vertical-align:1px;text-decoration:none}.rct{margin:32px 0;padding:18px;background:var(--card,var(--panel,#121926));border:1px solid var(--border,var(--line,#26324A));border-radius:8px;text-align:left}.rct h2{font-size:17px;margin:0 0 6px;padding:0;border:0}.rct .rc-n{margin:0 0 10px}.rct .rc-n b{color:var(--accent)}.rct ul{list-style:none;margin:0;padding:0}.rct li{margin:0;padding:0;border-top:1px solid var(--border,var(--line,#26324A))}.rct li a{display:block;padding:12px 0;font-size:15px;line-height:1.5;color:var(--text);text-decoration:none}.rct li a:hover{color:var(--accent)}.rct li small{display:block;font-size:12px;color:var(--muted)}.rct .rc-next{display:none;margin:0 0 12px;font-size:14px}.rct .rc-next a{color:var(--accent);font-weight:700}/*/rc*/</style>
+</head>
+<body>
+<nav class="top"><div class="wrap"><a class="site" href="/">宇宙の研究</a><a href="/tools/">道具</a></div></nav>
+<main class="wrap">
+<ol class="crumb"><li><a href="https://seadice.win/">HOME</a></li><li><a href="/">宇宙の研究</a></li><li aria-current="page">もし月の距離が違ったら</li></ol>
+<h1>もし月の距離が違ったら 潮・1日の長さ・日食の計算機</h1>
+<p class="lead">月は今、地球から平均約38万4400km離れていて、毎年約3.8cmずつ遠ざかっています。バーで距離を変えると、<strong>潮の大きさ・1日の長さ・1か月の長さ・日食の起き方・満月の明るさ</strong>を計算します。昔の月がその距離だったころの地層の記録とも、答え合わせできます。</p>
+
+<div class="grid">
+<div>
+<div class="readout"><span>月までの距離 <b id="dk">-</b></span><span id="dr"></span></div>
+<label for="slider" class="note">月までの距離（2万km〜55万km、目盛りは対数）</label>
+<input type="range" id="slider" min="0" max="1000" step="1" value="0" aria-valuetext="">
+<div class="pre" role="group" aria-label="よく使う距離">
+<button type="button" data-d="384400">今</button><button type="button" data-d="370946">約6億2000万年前</button><button type="button" data-d="340900">約14億年前</button><button type="button" data-d="192200">今の半分</button><button type="button" data-d="499720">今の1.3倍</button>
+</div>
+<div class="sky" aria-hidden="true">
+<figure><svg width="120" height="120" viewBox="-60 -60 120 120"><circle id="sun" r="20" fill="#E3B341"/></svg>太陽（大きさは同じ）</figure>
+<figure><svg width="120" height="120" viewBox="-60 -60 120 120"><circle id="moon" r="20" fill="#C9CED6"/><circle id="sunring" r="20" fill="none" stroke="#E3B341" stroke-width="1" stroke-dasharray="3 3"/></svg>月（点線は太陽の大きさ）</figure>
+</div>
+<div class="stats">
+<div><small>1日の長さ（自転1回＝恒星日）</small><b id="sDay">-</b><em>今は約23.9時間</em></div>
+<div><small>1か月（満月から満月）</small><b id="sMon">-</b><em>今は約29.5日</em></div>
+<div><small>月が起こす潮の大きさ</small><b id="sTide">-</b><em id="sSpring"></em></div>
+<div><small>満月から届く光の量</small><b id="sBr">-</b><em>距離の2乗に反比例（月面そのものの明るさは同じ）</em></div>
+<div class="w"><small>空の月の大きさと日食</small><b id="sEcl">-</b><em id="sAng"></em></div>
+</div>
+<div class="card hist"><p class="note" style="margin:0 0 4px">地球の歴史で、月がこの距離だったころ</p><p id="hist" style="margin:0"></p></div>
+</div>
+<div class="side">
+<h2 style="margin-top:0">よく使う距離の計算結果</h2>
+<div class="card"><table class="cmp"><thead><tr><th>距離</th><th>1日</th><th>1か月</th><th>潮（月の分）</th><th>日食</th></tr></thead><tbody><tr><th>今<small>384,400 km</small></th><td>23.9時間</td><td>29.5日</td><td>今と同じ</td><td>皆既日食も金環日食も起きうる</td></tr><tr><th>約6億2000万年前<small>370,900 km</small></th><td>22.0時間</td><td>27.8日</td><td>今の1.1倍</td><td>皆既日食も金環日食も起きうる</td></tr><tr><th>約14億年前<small>340,900 km</small></th><td>18.6時間</td><td>24.3日</td><td>今の1.4倍</td><td>皆既日食は起きうる</td></tr><tr><th>今の半分<small>192,200 km</small></th><td>9.8時間</td><td>9.9日</td><td>今の8倍</td><td>皆既日食は起きうる</td></tr><tr><th>今の1.3倍<small>499,700 km</small></th><td>76.0時間</td><td>45.5日</td><td>今の0.46倍</td><td>金環日食は起きうる</td></tr></tbody></table>
+<p class="note" style="margin:10px 0 0">地層の記録では、1日は約6億2000万年前に約21.9±0.4時間<a class="ref" href="#src-3">[3]</a>、約14億年前に約18.68±0.25時間<a class="ref" href="#src-4">[4]</a>。この計算（太陽の潮を入れない目安）は、記録の誤差の幅に入ります。ただし距離も同じ研究の見積もりを使っているので、独立した確かめではありません。</p></div>
+<h2>計算のしかたと限界</h2>
+<ul>
+<li><b>1日の長さ</b>: 地球が1回自転する時間（恒星日、今は約23.9時間）です。ふだんの「1日24時間」は太陽が南に来てから次に来るまでで、約4分長くなります。地球の自転と月の公転の「回る勢い（角運動量）」の合計が変わらないとして計算しています。太陽の潮、地球の形や海の変化は入れていないので目安です。</li>
+<li><b>1か月</b>: ケプラーの法則で月が1周する日数を出し、地球が太陽のまわりを回る分を足して、満月から満月までの日数にしています。</li>
+<li><b>潮</b>: 潮を起こす力は距離の3乗に反比例します。太陽の潮の力は今の月の約半分としています<a class="ref" href="#src-5">[5]</a>。実際の潮の高さは、海岸の形でも大きく変わります。</li>
+<li><b>日食</b>: 月の通り道は楕円なので、今と同じゆがみ方のまま距離だけ変えたとして、いちばん近いとき・遠いときの月の大きさを太陽と比べています。太陽の見かけの大きさの変化（約±1.7%）と、日食がどれくらいの頻度で起きるかは入れていません。</li>
+<li><b>2万kmより近く</b>は、地球の潮の力で月が壊れると考えられる距離（流体のロッシュ限界、計算で約1万8000km）に近いので出していません。この計算では、約55万4000kmで地球の1日と月の1か月が約47日でそろい、それより先は計算が使えないので、55万kmまでにしています。そろう手前では、1日の長さが急にのびます。</li>
+<li>「地球の歴史でこの距離だったころ」は、地層の記録がある2つの時点と今を結んだ目安です。記録より前のことは書いていません。</li>
+</ul>
+<h2>よくある質問</h2>
+<dl class="faq"><dt>月が近いと、なぜ1日が短くなるの？</dt><dd>地球の自転と月の公転の「回る勢い（角運動量）」の合計は、ほぼ変わらないためです。月が近い（公転の勢いが小さい）ぶん、地球の自転が速くなります。今は潮の力で地球の自転の勢いが月の公転に移り、1日がのびて月が遠ざかっています。</dd><dt>この計算は本当に合っているの？</dt><dd>地層の記録（約6億2000万年前に21.9±0.4時間、約14億年前に18.68±0.25時間）と比べると、計算は22.0時間と18.6時間で、誤差の幅に入りました。ただし計算に入れた距離も同じ研究の見積もりなので、独立した確かめではなく「角運動量の考え方と記録が食い違わない」ことの確認です。太陽の潮や地球の形の変化は入れていないので、目安です。</dd><dt>月がもっと遠くなるとどうなるの？</dt><dd>今のしくみのままなら、月は少しずつ遠ざかり、いつか地球の1日と月の1か月が同じ長さになる所で止まると考えられています。この道具の計算では、約55万4000kmで約47日です。そこまでに何年かかるかは、遠ざかる速さが変わるため、この道具では出していません。</dd></dl>
+</div>
+</div>
+
+<h2>関連する記事</h2>
+<ul class="rel">
+<li><a href="/moon-moving-away/">月は毎年3.8cm遠ざかっている、レーザーでわかったこと</a></li>
+<li><a href="/if-moon-disappeared/">もし月がなかったら地球はどうなるのか</a></li>
+<li><a href="/moon-origin/">月はどうやってできたのか、ジャイアント・インパクト説の証拠</a></li>
+<li><a href="/eclipses/">日食と月食はなぜ起きるのか、次に日本で見られるのはいつ</a></li>
+</ul>
+
+<h2>出典</h2>
+<ol class="src">
+<li id="src-1">NASA NSSDC. Moon Fact Sheet（距離 38万4400km、近いとき 36万3300km、遠いとき 40万5500km、半径 1737.4km、重さ）. <a href="https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html" target="_blank" rel="noopener">nssdc.gsfc.nasa.gov</a></li>
+<li id="src-2">NASA NSSDC. Earth Fact Sheet / Sun Fact Sheet（地球の重さ・半径・慣性モーメント 0.3308、太陽の半径 69万5700km）. <a href="https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html" target="_blank" rel="noopener">nssdc.gsfc.nasa.gov</a></li>
+<li id="src-3">Williams, G. E. (2000). Geological constraints on the Precambrian history of Earth's rotation and the Moon's orbit. <i>Reviews of Geophysics</i>, 38, 37. <a href="https://doi.org/10.1029/1999RG900016" target="_blank" rel="noopener">doi:10.1029/1999RG900016</a></li>
+<li id="src-4">Meyers, S. R., &amp; Malinverno, A. (2018). Proterozoic Milankovitch cycles and the history of the solar system. <i>PNAS</i>, 115, 6363. <a href="https://doi.org/10.1073/pnas.1717689115" target="_blank" rel="noopener">doi:10.1073/pnas.1717689115</a></li>
+<li id="src-5">NOAA. Tides and Water Levels: What Causes Tides?（太陽の潮を起こす力は月の約半分）. <a href="https://oceanservice.noaa.gov/education/tutorial_tides/tides02_cause.html" target="_blank" rel="noopener">oceanservice.noaa.gov</a></li>
+</ol>
+<p class="note" style="margin-top:16px">最終更新: 2026年10月24日。入力は送らず、この画面の中だけで計算します。</p>
+</main>
+<!--readcheck--><section class="rct" id="rct" aria-labelledby="rct-h"><h2 id="rct-h">この道具とつながる記事（9本）</h2><p class="rc-n" id="rct-n" aria-live="polite">記事の下の「読んだ記事にする」を押すと、ここに読んだ本数が出ます。</p><p class="rc-next" id="rct-next"></p><ul><li><a href="/moon-phases/"><small>太陽と月</small>月はなぜ満ち欠けするのか、いつも同じ面が見える理由</a></li><li><a href="/moon-origin/"><small>太陽と月</small>月はどうやってできたのか、ジャイアント・インパクト説の証拠</a></li><li><a href="/solar-flare-aurora/"><small>太陽と月</small>太陽フレアとは何か、オーロラや停電との関係</a></li><li><a href="/sun-future/"><small>太陽と月</small>太陽はいつか消えるのか、50億年後の太陽と地球</a></li><li><a href="/corona-heating/"><small>太陽と月</small>太陽のコロナはなぜ100万度なのか、表面より熱いなぞ</a></li><li><a href="/eclipses/"><small>太陽と月</small>日食と月食はなぜ起きるのか、次に日本で見られるのはいつ</a></li><li><a href="/moon-moving-away/"><small>太陽と月</small>月は毎年3.8cm遠ざかっている、レーザーでわかったこと</a></li><li><a href="/leap-year-leap-second/"><small>太陽と月</small>うるう年とうるう秒は何のためにあるのか、地球の回り方と時計のずれ</a></li><li><a href="/if-moon-disappeared/"><small>太陽と月</small>もし月がなかったら地球はどうなるのか</a></li></ul></section><script>(function(){var K='uchu-read',R={};try{R=JSON.parse(localStorage.getItem(K)||'{}')||{}}catch(e){}function rcMark(){[].forEach.call(document.querySelectorAll('a[href]'),function(a){var h=a.getAttribute('href')||'',m=h.match(/^\/([a-z0-9-]+)\/$/);a.classList.remove('rc-done','rc-in');if(!m||!R[m[1]]||a.closest('nav.top,footer,.ticker'))return;a.classList.add(a.matches('a.card,a.feat,a.srow,a.dp')?'rc-done':'rc-in')})}rcMark();var L=[].map.call(document.querySelectorAll('#rct li a'),function(a){return a}),k=L.filter(function(a){return R[a.getAttribute('href').slice(1,-1)]}).length,n=document.getElementById('rct-n');if(k)n.innerHTML=L.length+'本のうち <b>'+k+'本</b> 読みました（この端末の記録）。';var x=L.filter(function(a){return !R[a.getAttribute('href').slice(1,-1)]})[0],nx=document.getElementById('rct-next');if(x&&k){nx.innerHTML='次に読むなら: <a href="'+x.getAttribute('href')+'"></a>';nx.lastChild.textContent=x.lastChild.textContent;nx.style.display='block'}else if(!x){n.innerHTML='つながる記事を<b>すべて</b>読みました（この端末の記録）。'}})()</script><!--/readcheck-->
+<footer><div class="wrap"><a href="/about/">このメディアについて</a> | <a href="/sources/">出典と検証の方法</a> | <a href="/disclaimer/">免責事項</a> | <a href="https://seadice.win/">SEADICE</a> | &copy; SEADICE</div></footer>
+<script>
+(function(){
+var C={"G": 6.674e-11, "ME": 5.9722e+24, "MM": 7.346e+22, "I": 8.018904737665017e+37, "D0": 384400000.0, "PERI": 363300000.0, "APO": 405500000.0, "RM": 1737400.0, "RS": 695700000.0, "DS": 149600000000.0, "ST": 0.5, "L": 3.4426554568501423e+34, "M": 6.04566e+24, "MU": 7.256739743882388e+22, "REC": [[1.0, 0], [0.965, 620000000.0], [0.8868366285119667, 1400000000.0]]},DMIN=2e7,DMAX=5.5e8,$=function(i){return document.getElementById(i)},sl=$('slider');
+function dOf(p){return DMIN*Math.pow(DMAX/DMIN,p/1000)}
+function pOf(d){return Math.round(1000*Math.log(d/DMIN)/Math.log(DMAX/DMIN))}
+function f(x,n){return Number(x.toPrecision(n||2)).toLocaleString('ja-JP')}
+function t(x){return Math.abs(x-1)<0.03?'今と同じ':'今の'+f(x,2)+'倍'}
+function calc(d){var w=(C.L-C.MU*Math.sqrt(C.G*C.M*d))/C.I,day=2*Math.PI/w/3600,mon=2*Math.PI*Math.sqrt(d*d*d/(C.G*C.M))/86400,
+ syn=1/(1/mon-1/365.256),k=Math.pow(C.D0/d,3),ang=2*C.RM/d,sun=2*C.RS/C.DS;return{day:day,syn:syn,k:k,r:ang/sun,ang:ang*180/Math.PI,br:Math.pow(C.D0/d,2)}}
+function ecl(r){var big=r*C.D0/C.PERI,small=r*C.D0/C.APO;if(small>=1)return '皆既日食は起きうるが、金環日食は起きない';if(big<1)return '金環日食は起きうるが、皆既日食は起きない';return '皆既日食も金環日食も起きうる（今と同じ）'}
+function hist(d){var x=d/C.D0,k=Math.round(d/1e5)*100;
+ if(Math.abs(x-1)<0.002)return '今の月の距離です。今は毎年約3.8cmずつ遠ざかっています。';
+ if(x>1)return '今より遠い、未来の距離です。今は年約3.8cmずつ遠ざかっていますが、その速さは時代によって変わってきたので、何年後にこの距離になるかは出していません。';
+ var s='地層の記録は2点だけです（約6億2000万年前に今の約0.965倍＝約37万1000km、約14億年前に約34万900km）。';
+ if(x>=0.965)return s+'この距離は、今と約6億2000万年前の記録のあいだです。';
+ if(x>=340900e3/C.D0)return s+'この距離は、約6億2000万年前と約14億年前の記録のあいだです。';
+ return s+'この距離は14億年前の記録より近く、記録はありません。月ができたころ（約45億年前）はもっと近かったと考えられています。'}
+function show(d){var c=calc(d);$('dk').textContent=(Math.round(d/1e5)*100).toLocaleString('ja-JP')+' km';$('dr').textContent=Math.abs(d/C.D0-1)<0.002?'今の距離':'今の'+f(d/C.D0,3)+'倍';
+ $('sDay').textContent=c.day>48?'約'+(c.day/24).toFixed(1)+'日（'+Math.round(c.day)+'時間）':'約'+c.day.toFixed(1)+'時間';$('sMon').textContent=c.syn<2?'約'+(c.syn*24).toFixed(1)+'時間':'約'+c.syn.toFixed(1)+'日';
+ $('sTide').textContent=t(c.k);var sp=(c.k+C.ST)/(1+C.ST);$('sSpring').textContent='大潮（月と太陽が並ぶとき）の目安は'+t(sp).replace('今の','今の約')+(c.k<C.ST?'。太陽の潮のほうが大きい':'');
+ $('sBr').textContent=t(c.br);$('sEcl').textContent=ecl(c.r);$('sAng').textContent='空の月の大きさは平均で約'+c.ang.toFixed(2)+'度（太陽は約0.53度）';
+ var rm=Math.min(56,20*c.r);$('moon').setAttribute('r',rm.toFixed(1));$('hist').textContent=hist(d);
+ sl.setAttribute('aria-valuetext',(Math.round(d/1e5)*100)+'キロメートル、1日 約'+c.day.toFixed(1)+'時間、潮 '+t(c.k)+'、'+ecl(c.r))}
+sl.oninput=function(){show(dOf(+sl.value))};
+[].forEach.call(document.querySelectorAll('.pre button'),function(b){b.onclick=function(){var d=+b.getAttribute('data-d')*1e3;sl.value=pOf(d);show(d)}});
+sl.value=pOf(C.D0);show(C.D0);
+})();
+</script>
+</body>
+</html>

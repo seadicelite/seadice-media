@@ -173,6 +173,7 @@
 
 - 一覧: https://uchu.seadice.win/tools/
 - [宇宙の年表](https://uchu.seadice.win/timeline/): Webツール。バーを動かすと、ビッグバンから10の100乗年後まで、その時の宇宙の温度と広がりぐあい、起きたと考えられていることが確かさの札つきで出る
+- [もし月の距離が違ったら](https://uchu.seadice.win/moon-distance/): Webツール。月までの距離を変えると、潮の大きさ・1日の長さ・1か月・日食の起き方が計算で出る。地層の記録で答え合わせ
 - [誕生日に太陽がいた星座チェッカー](https://uchu.seadice.win/zodiac-shift/): Webツール。誕生日を選ぶと、占いの星座と、その日に太陽が実際にいた星座（へびつかい座を含む13星座）を並べて出す。いわゆる「本当の星座」
 - [系外惑星 全6,451件の一覧](https://uchu.seadice.win/exoplanets/): Webツール。NASAの全件データを、近い順・大きさ・発見年で並べ替えて探せる表。地球くらいの大きさにも絞れる
 - [惑星と生命の一生シミュレーター](https://uchu.seadice.win/tools/planet/): Webツール。惑星が生まれ、生き物が生まれて滅ぶまでを、わかっていることとわからないことを分けて見る
@@ -186,6 +187,7 @@
 - 出典と検証の方法: https://uchu.seadice.win/sources/
 - 免責事項: https://uchu.seadice.win/disclaimer/
 - 宇宙の年表: https://uchu.seadice.win/timeline/
+- もし月の距離が違ったら: https://uchu.seadice.win/moon-distance/
 - 宇宙をつくるシミュレーター: https://uchu.seadice.win/simulator/
 - 系外惑星 全件の一覧: https://uchu.seadice.win/exoplanets/
 - 銀河と星の一生: https://uchu.seadice.win/tools/galaxy/

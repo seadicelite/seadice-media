@@ -93,6 +93,10 @@
       "label": "宇宙の年表"
     },
     {
+      "path": "/moon-distance/",
+      "label": "もし月の距離が違ったら"
+    },
+    {
       "path": "/simulator/",
       "label": "宇宙をつくるシミュレーター"
     },
@@ -153,6 +157,21 @@
       "href": "/timeline/",
       "cats": [
         "宇宙の始まりと終わり"
+      ]
+    },
+    {
+      "name": "もし月の距離が違ったら",
+      "desc": "月までの距離を変えると、潮の大きさ・1日の長さ・1か月・日食の起き方が計算で出る。地層の記録で答え合わせ",
+      "href": "/moon-distance/",
+      "cats": [],
+      "slugs": [
+        "moon-moving-away",
+        "if-moon-disappeared",
+        "moon-origin",
+        "eclipses",
+        "moon-phases",
+        "supermoon",
+        "leap-year-leap-second"
       ]
     },
     {
