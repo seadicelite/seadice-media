@@ -1,0 +1,309 @@
+{
+  "note": "宇宙の研究のマス（分野×問い）。記事を足すときは最も薄いマス（空き→1本）から書く。slug か道具のURL。",
+  "cols": [
+    {
+      "id": "what",
+      "label": "何？",
+      "q": "それは何か、どんな姿をしているのか"
+    },
+    {
+      "id": "how",
+      "label": "どうやってわかった",
+      "q": "観測・実験・探査で、どうやって確かめたのか"
+    },
+    {
+      "id": "myth",
+      "label": "本当？",
+      "q": "よく聞く説・ニュース・映画の話は本当か（研究で確かめる）"
+    },
+    {
+      "id": "num",
+      "label": "数字",
+      "q": "大きさ・距離・時間・数を、身近な例えで"
+    },
+    {
+      "id": "unknown",
+      "label": "まだわからない",
+      "q": "まだ答えがない・説が分かれていること"
+    },
+    {
+      "id": "see",
+      "label": "見る・試す",
+      "q": "自分の目で見る方法、シミュレーターや道具で試す"
+    }
+  ],
+  "rows": [
+    {
+      "id": "blackhole",
+      "label": "ブラックホール",
+      "cells": {
+        "what": [
+          "quasars",
+          "falling-into-blackhole"
+        ],
+        "how": [
+          "blackhole-how-found",
+          "gravitational-waves",
+          "milky-way-center-blackhole",
+          "blackhole-mergers"
+        ],
+        "myth": [
+          "blackhole-image-eht"
+        ],
+        "unknown": [
+          "blackhole-interior",
+          "first-blackholes",
+          "hawking-radiation"
+        ]
+      }
+    },
+    {
+      "id": "origin",
+      "label": "宇宙の始まり",
+      "cells": {
+        "how": [
+          "big-bang-evidence",
+          "age-of-universe"
+        ],
+        "myth": [
+          "inflation"
+        ],
+        "num": [
+          "cosmic-elements"
+        ],
+        "unknown": [
+          "before-big-bang"
+        ],
+        "see": [
+          "https://uchu.seadice.win/simulator/"
+        ]
+      }
+    },
+    {
+      "id": "dark",
+      "label": "見えない宇宙と宇宙の未来",
+      "cells": {
+        "what": [
+          "dark-matter",
+          "time-relativity",
+          "dark-night-sky"
+        ],
+        "how": [
+          "dark-energy"
+        ],
+        "num": [
+          "edge-of-universe"
+        ],
+        "unknown": [
+          "hubble-tension",
+          "future-of-universe"
+        ],
+        "see": [
+          "https://uchu.seadice.win/simulator/"
+        ]
+      }
+    },
+    {
+      "id": "stars",
+      "label": "星の一生",
+      "cells": {
+        "what": [
+          "white-dwarf",
+          "star-formation",
+          "gamma-ray-bursts"
+        ],
+        "myth": [
+          "supernova-elements"
+        ],
+        "num": [
+          "neutron-star"
+        ],
+        "unknown": [
+          "betelgeuse",
+          "first-stars"
+        ],
+        "see": [
+          "https://uchu.seadice.win/tools/galaxy/"
+        ]
+      }
+    },
+    {
+      "id": "galaxy",
+      "label": "銀河と宇宙の大きな構造",
+      "cells": {
+        "what": [
+          "milky-way-shape",
+          "cosmic-web"
+        ],
+        "myth": [
+          "andromeda-collision"
+        ],
+        "see": [
+          "https://uchu.seadice.win/tools/galaxy/"
+        ]
+      }
+    },
+    {
+      "id": "planets",
+      "label": "太陽系の惑星と小天体",
+      "cells": {
+        "what": [
+          "uranus-neptune",
+          "venus-hot"
+        ],
+        "how": [
+          "solar-system-formation",
+          "mars-water",
+          "mercury-iron"
+        ],
+        "myth": [
+          "pluto-planet",
+          "jupiter-red-spot"
+        ],
+        "num": [
+          "asteroid-impact"
+        ],
+        "unknown": [
+          "comets-oort-cloud",
+          "saturn-rings"
+        ],
+        "see": [
+          "https://uchu.seadice.win/tools/planet/"
+        ]
+      }
+    },
+    {
+      "id": "sunmoon",
+      "label": "太陽と月",
+      "cells": {
+        "what": [
+          "moon-phases"
+        ],
+        "how": [
+          "moon-origin"
+        ],
+        "myth": [
+          "solar-flare-aurora"
+        ],
+        "num": [
+          "sun-future"
+        ],
+        "see": [
+          "eclipses"
+        ]
+      }
+    },
+    {
+      "id": "exoplanet",
+      "label": "系外惑星",
+      "cells": {
+        "what": [
+          "hot-jupiter",
+          "super-earths",
+          "exoplanet-names"
+        ],
+        "how": [
+          "transit-method",
+          "exoplanet-atmospheres"
+        ],
+        "myth": [
+          "earth-like-planets"
+        ],
+        "num": [
+          "nearest-exoplanet",
+          "proxima-travel",
+          "exoplanets-count"
+        ],
+        "unknown": [
+          "rogue-planets"
+        ],
+        "see": [
+          "https://uchu.seadice.win/exoplanets/"
+        ]
+      }
+    },
+    {
+      "id": "life",
+      "label": "宇宙の生命",
+      "cells": {
+        "what": [
+          "biosignatures"
+        ],
+        "how": [
+          "earliest-life",
+          "mars-life"
+        ],
+        "myth": [
+          "panspermia",
+          "tardigrades-space",
+          "seti-signals"
+        ],
+        "num": [
+          "drake-equation"
+        ],
+        "unknown": [
+          "origin-of-life",
+          "venus-phosphine",
+          "europa-enceladus-life",
+          "fermi-paradox"
+        ],
+        "see": [
+          "https://uchu.seadice.win/tools/planet/"
+        ]
+      }
+    },
+    {
+      "id": "explore",
+      "label": "宇宙探査と人",
+      "cells": {
+        "what": [
+          "jwst-discoveries",
+          "iss-future"
+        ],
+        "how": [
+          "ryugu-samples",
+          "astronaut-body"
+        ],
+        "myth": [
+          "artemis-moon"
+        ],
+        "num": [
+          "voyager-now",
+          "space-debris"
+        ]
+      }
+    },
+    {
+      "id": "seiza",
+      "label": "星座と星空",
+      "cells": {
+        "what": [
+          "orion-constellation",
+          "88-constellations",
+          "constellation-myths",
+          "star-names-japanese",
+          "summer-triangle",
+          "winter-triangle"
+        ],
+        "myth": [
+          "supermoon",
+          "astrology-research",
+          "zodiac-shift",
+          "big-dipper-distance",
+          "birthday-constellation-invisible"
+        ],
+        "num": [
+          "polaris-changes",
+          "star-magnitude",
+          "constellations-in-100000-years"
+        ],
+        "see": [
+          "iss-visible",
+          "planets-naked-eye",
+          "meteor-showers",
+          "https://uchu.seadice.win/zodiac-shift/"
+        ]
+      }
+    }
+  ]
+}
