@@ -8161,5 +8161,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "kokoro-doodling-meeting-focus-note-taking",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Spencer-Mueller & Fenske, \"Note-taking for the win: Doodling does not reduce boredom or mind-wandering, nor enhance attention or retention of lecture material\" (Quarterly Journal of Experimental Psychology, 2024)",
+    "sourceUrl": "https://doi.org/10.1177/17470218231222402",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/doodling-meeting-focus/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "落書きすると集中できる？",
+        "body": "退屈な会議や講義で、ノートの端に落書きすると話が頭に入る。そんな説を聞いたことがあるよね。昔の小さな実験で、落書きした人のほうが内容をよく覚えていた、という結果があったんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "4つの組で45分の講義",
+        "body": "カナダの大学生172人を「聞くだけ」「図形を塗る落書き」「自由な落書き」「メモを取る」の4組に分けて、45分の退屈な講義を聞いてもらったよ。途中で注意や気の散り方も答えてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "勝ったのはメモだった",
+        "body": "落書きの2組は、退屈さも注意もテストの成績も、聞くだけの組と同じくらい。メモを取った組だけが注意を保てていて、テストは28問中平均19.1問と、聞くだけの組の16.6問より多く正解していたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "自然な落書きなら？",
+        "body": "これは実験室で、落書きのしかたを指示して行った実験。自分から自然に落書きする場合や、働く大人、オンライン会議でも同じになるかは、まだ確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
