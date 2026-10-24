@@ -1180,5 +1180,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Card_catalogue_drawers.jpg/500px-Card_catalogue_drawers.jpg",
   "og": "https://hanzai.seadice.win/img/memory-reconsolidation.jpg",
   "local": true
+ },
+ "prison-visitation-family-ties-reentry": {
+  "file": "File:PenicheFortressVisitingRoom.jpg",
+  "src": "/img/prison-visitation-family-ties-reentry.jpg",
+  "src640": "/img/prison-visitation-family-ties-reentry-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "刑務所の面会室に並ぶ仕切りとガラス窓",
+  "artist": "Roundtheworld",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:PenicheFortressVisitingRoom.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/PenicheFortressVisitingRoom.jpg/960px-PenicheFortressVisitingRoom.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/PenicheFortressVisitingRoom.jpg/500px-PenicheFortressVisitingRoom.jpg",
+  "og": "https://hanzai.seadice.win/img/prison-visitation-family-ties-reentry.jpg",
+  "local": true
  }
 }
