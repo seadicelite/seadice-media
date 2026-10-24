@@ -612,5 +612,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pholiota_microspora_miso_soup_001.jpg/500px-Pholiota_microspora_miso_soup_001.jpg",
   "og": "https://senbei.seadice.win/img/msg-headache-myth.jpg",
   "local": true
+ },
+ "burnt-senbei-cancer-myth": {
+  "file": "File:Mochi 003.jpg",
+  "src": "/img/burnt-senbei-cancer-myth.jpg",
+  "src640": "/img/burnt-senbei-cancer-myth-sm.jpg",
+  "w": 960,
+  "h": 634,
+  "alt": "焼いて表面に焦げ目がついた切り餅（煎餅ではないもの）",
+  "artist": "Kropsoq",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Mochi_003.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mochi_003.jpg/960px-Mochi_003.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mochi_003.jpg/500px-Mochi_003.jpg",
+  "og": "https://senbei.seadice.win/img/burnt-senbei-cancer-myth.jpg",
+  "local": true
  }
 }
