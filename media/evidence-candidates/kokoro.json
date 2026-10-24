@@ -8127,5 +8127,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "kokoro-scent-break-info-fatigue-citrus-rct",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yamaguchi et al., \"Relaxation effects of Shikuwasa (Citrus depressa Hayata) essential oil inhalation: A randomized controlled trial in young adult females\" (Contemporary Clinical Trials Communications, 2026)",
+    "sourceUrl": "https://doi.org/10.1016/j.conctc.2026.101613",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/scent-break-info-fatigue/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "いい香りをかぐと落ち着く？",
+        "body": "疲れたとき、好きな香りをかいでひと息つく人は多いよね。柑橘の香りはリラックスにいい、という話もよく聞く。でも、香りのない空気と比べて確かめた実験は意外と少ないんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "香りなしの組と比べた",
+        "body": "宮崎大学の研究で、18〜39歳の健康な女性40人をくじで2組に分けたよ。片方はシークワーサーの香り、もう片方は香りのない空気を、2分かいでもらって緊張の度合いを答えてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "緊張の点数は同じだった",
+        "body": "緊張の点数の中央値は、どちらの組も13.0点で差はなし。瞳孔の反応や脳の血流にも差は出なかったらしい。2分かいだだけでは、香りなしと変わらなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "好きな香りなら違う？",
+        "body": "参加者はもともとストレスの低い人たちで、かいだのは2分ずつだけ。著者らは、香りの好みが結果に関わった可能性を挙げていて、好みを確かめた長めの実験が必要だと書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

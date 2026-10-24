@@ -5878,5 +5878,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bathtub_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/500px-Bathtub_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
   "og": "https://mentalai.seadice.win/img/loneliness-warm-bath.jpg",
   "local": true
+ },
+ "scent-break-info-fatigue": {
+  "file": "File:Tea seemed especially steamy this morning (23553842543).jpg",
+  "src": "/img/scent-break-info-fatigue.jpg",
+  "src640": "/img/scent-break-info-fatigue-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "湯気の立つお茶のカップ",
+  "artist": "terri_bateman",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tea_seemed_especially_steamy_this_morning_(23553842543).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tea_seemed_especially_steamy_this_morning_%2823553842543%29.jpg/960px-Tea_seemed_especially_steamy_this_morning_%2823553842543%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tea_seemed_especially_steamy_this_morning_%2823553842543%29.jpg/500px-Tea_seemed_especially_steamy_this_morning_%2823553842543%29.jpg",
+  "og": "https://mentalai.seadice.win/img/scent-break-info-fatigue.jpg",
+  "local": true
  }
 }
