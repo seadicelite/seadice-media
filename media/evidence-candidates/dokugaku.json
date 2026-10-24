@@ -9745,5 +9745,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-new-alphabet-handwriting-practice-sheet-arabic-letters",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wiley & Rapp, \"The effects of handwriting experience on literacy learning\" (Psychological Science, 2021)",
+    "sourceUrl": "https://doi.org/10.1177/0956797621993111",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/new-alphabet-handwriting-practice-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "新しい文字、書かなきゃダメ？",
+        "body": "ハングルやアラビア文字を覚えるとき、画面で眺めるだけじゃダメなのかな。打ち込むのと、ノートに書くので違いはある？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "見る・打つ・書くで比べた",
+        "body": "アラビア文字を知らない大人が、20の文字を「見て判断する」「キーボードで打つ」「ペンで書き写す」の3通りで学んだ実験がある。最後まで受けたのは36人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "書いた人は書けて言えた",
+        "body": "文字を見分けるテストは3群とも95%前後で差なし。でも何も見ずに書くテストでは、書いた群91%に対して見た群は約65%。名前を言うテストでも書いた群が上回ったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "単語の意味でも同じ？",
+        "body": "各群12人と少なめ。単語の意味を覚える別の実験では、書いても打っても思い出せた数は同じだった。どの段階まで手書きが効くのかは、まだはっきりしていない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

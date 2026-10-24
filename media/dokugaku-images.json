@@ -5048,5 +5048,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aaron_Burden_2015-09-24_%28Unsplash%29.jpg/500px-Aaron_Burden_2015-09-24_%28Unsplash%29.jpg",
   "og": "https://dokugaku.seadice.win/img/study-session-before-during-after-check-card.jpg",
   "local": true
+ },
+ "new-alphabet-handwriting-practice-sheet": {
+  "file": "File:Canaria keyboard layout.jpg",
+  "src": "/img/new-alphabet-handwriting-practice-sheet.jpg",
+  "src640": "/img/new-alphabet-handwriting-practice-sheet-sm.jpg",
+  "w": 960,
+  "h": 464,
+  "alt": "アルファベットとかなが刻まれたキーボード",
+  "artist": "christoofar",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Canaria_keyboard_layout.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Canaria_keyboard_layout.jpg/960px-Canaria_keyboard_layout.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Canaria_keyboard_layout.jpg/500px-Canaria_keyboard_layout.jpg",
+  "og": "https://dokugaku.seadice.win/img/new-alphabet-handwriting-practice-sheet.jpg",
+  "local": true
  }
 }
