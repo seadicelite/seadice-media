@@ -9254,5 +9254,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "research-worked-examples-math-problem-solving-how-research-fading",
+    "category": "記憶・学習",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Miller-Cotto D & Medrano J, \"Does working memory moderate the effect of fading on math performance?\" (British Journal of Educational Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.1111/bjep.12781",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/worked-examples-math-problem-solving-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "答えを見ながら解くのはずる？",
+        "body": "数学の宿題、解き方を見ながら解くのはずるい気がするよね。でも、例題の見せ方しだいで伸び方が変わるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "図形の宿題を4つのやり方で",
+        "body": "アメリカの研究者が6年生を4つの組に分けて、図形の宿題を3日間やってもらったよ。例題を見る組、例題を少しずつ消していく組、ふだんどおりの組などを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "例題を少しずつ消すと最も伸びた",
+        "body": "例題の後半を少しずつ消して最後は自力で解く「フェーディング」の組が、テストの伸びが最も大きかった（効果量g=1.08）。ふだんどおりの組はg=0.24だったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数が少なく、比べ方も限られる",
+        "body": "最後まで参加したのは73人。フェーディングと他の例題の組の差は統計的に比べていないんだ。もっと大きな研究で確かめる必要があるよ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

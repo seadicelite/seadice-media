@@ -5089,5 +5089,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Old_desk_lamp_in_Tuntorp.jpg/500px-Old_desk_lamp_in_Tuntorp.jpg",
   "og": "https://research.seadice.win/img/procrastination-night-before-all-nighter-recovery-research.jpg",
   "local": true
+ },
+ "worked-examples-math-problem-solving-how-research": {
+  "file": "File:Tutoring Math.jpg",
+  "src": "/img/worked-examples-math-problem-solving-how-research.jpg",
+  "src640": "/img/worked-examples-math-problem-solving-how-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "数学のプリントの式を指さして教える手元",
+  "artist": "Preply.com Images",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tutoring_Math.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tutoring_Math.jpg/960px-Tutoring_Math.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tutoring_Math.jpg/500px-Tutoring_Math.jpg",
+  "og": "https://research.seadice.win/img/worked-examples-math-problem-solving-how-research.jpg",
+  "local": true
  }
 }
