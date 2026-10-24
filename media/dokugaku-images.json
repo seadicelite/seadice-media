@@ -5102,5 +5102,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/A_tissue_box.jpg/500px-A_tissue_box.jpg",
   "og": "https://dokugaku.seadice.win/img/cold-sick-day-study-menu-table.jpg",
   "local": true
+ },
+ "relearning-reasons-motivation-check-sheet": {
+  "file": "File:2016 Busola.JPG",
+  "src": "/img/relearning-reasons-motivation-check-sheet.jpg",
+  "src640": "/img/relearning-reasons-motivation-check-sheet-sm.jpg",
+  "w": 960,
+  "h": 864,
+  "alt": "ふたを開いた方位磁針",
+  "artist": "Jacek Halicki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2016_Busola.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2016_Busola.JPG/960px-2016_Busola.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2016_Busola.JPG/500px-2016_Busola.JPG",
+  "og": "https://dokugaku.seadice.win/img/relearning-reasons-motivation-check-sheet.jpg",
+  "local": true
  }
 }

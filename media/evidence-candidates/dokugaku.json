@@ -9847,5 +9847,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-relearning-reasons-motivation-check-sheet-reward-reasons",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Howard et al., \"Student Motivation and Associated Outcomes: A Meta-Analysis From Self-Determination Theory\" (Perspectives on Psychological Science, 2021)",
+    "sourceUrl": "https://doi.org/10.1177/1745691620966789",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/relearning-reasons-motivation-check-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ごほうびがあれば勉強は続く？",
+        "body": "資格手当がつくから、会社に言われたから。はっきりした「得」や「罰」がある勉強ほど続きそうな気がするよね。実際はどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "22万人分の研究をまとめた",
+        "body": "学生の勉強の理由を調べた344のサンプル（計22万3209人）をまとめたメタ分析がある。理由を「面白い」「自分にとって大事」「やらないと恥ずかしい」「ごほうびや罰のため」に分けて比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "続くのは「自分にとって大事」",
+        "body": "続けることと特に強く結びついていたのは「自分にとって大事だから」という理由。「ごほうびや罰のため」は、成績とも続けることとも関係が見られず、心の健康の低さと関係していたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "関係であって、原因とは限らない",
+        "body": "理由と結果の「関係」を見た研究で、理由を変えれば続くようになるとまでは言えない。対象は学生で、社会人の学び直しで同じかは確かめられていない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
