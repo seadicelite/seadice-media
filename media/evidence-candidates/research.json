@@ -9424,5 +9424,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "research-distraction-if-then-plan-study-focus-how-research-goal-vs-plan",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Walck-Shannon EM et al., \"A Study Planning Exercise Associated with Decreased Distraction Levels among Introductory Biology Students\" (CBE—Life Sciences Education, 2024)",
+    "sourceUrl": "https://doi.org/10.1187/cbe.23-05-0092",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/distraction-if-then-plan-study-focus-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "「今日は気を散らさない」と決めれば集中できる？",
+        "body": "勉強の前に「スマホは見ない」と目標を立てる。よくあるけど、それだけで本当に気が散る時間は減るのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学の授業で計画づくり",
+        "body": "アメリカの大学の生物の授業で、試験の前に12分ほどの勉強計画をオンラインで作ってもらった。目標を決めて、障害を1つ挙げ、「もし〜したら、〜する」を書く流れだよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "目標だけでは変わらなかった",
+        "body": "「気が散るのを減らす」を目標にしただけの学生は変わらなかった。気が散る場面に「もし〜したら」を決めた学生は減っていて、前回半分気が散っていた人では25.3%（決めなかった人は42.1%）だったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "くじで分けた実験ではない",
+        "body": "どの障害を書くかは学生が自分で選んでいて、気が散った時間も本人の申告。効果が後の試験まで続くかもまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
