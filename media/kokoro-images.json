@@ -5914,5 +5914,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Caderno_Sem_Linhas.jpg/500px-Caderno_Sem_Linhas.jpg",
   "og": "https://mentalai.seadice.win/img/doodling-meeting-focus.jpg",
   "local": true
+ },
+ "reply-delay-body-arousal-why": {
+  "file": "File:Snacks and coffee on a table (Unsplash).jpg",
+  "src": "/img/reply-delay-body-arousal-why.jpg",
+  "src640": "/img/reply-delay-body-arousal-why-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "テーブルに並んだサンドイッチとコーヒー",
+  "artist": "Shanice Garcia sagarcia",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Snacks_and_coffee_on_a_table_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Snacks_and_coffee_on_a_table_%28Unsplash%29.jpg/960px-Snacks_and_coffee_on_a_table_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Snacks_and_coffee_on_a_table_%28Unsplash%29.jpg/500px-Snacks_and_coffee_on_a_table_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/reply-delay-body-arousal-why.jpg",
+  "local": true
  }
 }

@@ -8195,5 +8195,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "kokoro-reply-delay-body-arousal-why-waiting-sweat",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Camerini et al., \"Exploring the Emotional Experience During Instant Messaging Among Young Adults: An Experimental Study Incorporating Physiological Correlates of Arousal\" (Frontiers in Psychology, 2022)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2022.840845",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/reply-delay-body-arousal-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "返信待ちって体も反応してる？",
+        "body": "メッセージを送ったあと、返事が来るまでなんだか落ち着かない。「入力中」が出るとドキッとする。これって気のせいなのか、体にも何か起きているのか、気になるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "返事を1分か7分で返す実験",
+        "body": "スイスの18〜34歳65人に、メッセージで架空の同僚へ頼みごとをしてもらったよ。返事は1分後か7分後。手首と手のひらのセンサーで、心拍と汗の反応を測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "7分待つと、汗の反応が高まった",
+        "body": "7分待たされた組では、相手の入力中から返事が届くまでに、手のひらの汗の反応が高まっていたらしい。心拍ははっきり変わらず、本人が感じる心地よさも、早さでは差がなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "不安？それとも期待？",
+        "body": "汗の反応だけでは、緊張なのかわくわくなのかは区別できない。実験室で架空の同僚とやりとりした結果で、80人中15人は測定の不具合で外れた。友達や恋人との場合はまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
