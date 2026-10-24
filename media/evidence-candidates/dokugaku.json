@@ -9507,5 +9507,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-why-retrieval-practice-weak-for-complex-problems-word-problems",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Huang et al., \"Retrieval practice may not benefit mathematical word-problem solving\" (Frontiers in Psychology, 2023)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2023.1093653",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-retrieval-practice-weak-for-complex-problems/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "思い出す練習は何にでも効く？",
+        "body": "読み返すより、自分でテストする方が身につく。よく聞く話だよね。じゃあ数学の文章題の解き方も、例題を読んだらすぐ自力で解くのがいいのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "文章題の解き方で比べた",
+        "body": "中国の大学生に、算数オリンピックの文章題の解き方を例題から学んでもらった実験がある。例題を読み直す群と、例題の後に似た問題を解く群を比べたらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "3つの実験で差が出なかった",
+        "body": "5分後のテストでも1週間後のテストでも、3つの実験すべてで成績に差は出なかった。新しい解き方を学び始めた段階では、すぐ解いても得にならないことがあるみたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "「複雑さ」を測る物差しがない",
+        "body": "教材がどれくらい複雑かは数値で測られていなくて、著者ら自身も結論を控えめにしている。文章から考え方を学ぶ課題では、思い出す練習が勝った実験もあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

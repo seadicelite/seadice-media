@@ -4958,5 +4958,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Direction_Sign_-_Signpost_on_crossroads_near_Langton_-_geograph.org.uk_-_8365601.jpg/500px-Direction_Sign_-_Signpost_on_crossroads_near_Langton_-_geograph.org.uk_-_8365601.jpg",
   "og": "https://dokugaku.seadice.win/img/why-vague-study-goals-hard-to-start.jpg",
   "local": true
+ },
+ "why-retrieval-practice-weak-for-complex-problems": {
+  "file": "File:Brass Protractor.jpg",
+  "src": "/img/why-retrieval-practice-weak-for-complex-problems.jpg",
+  "src640": "/img/why-retrieval-practice-weak-for-complex-problems-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "古い真ちゅう製の分度器とコンパス",
+  "artist": "Compo",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Brass_Protractor.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Brass_Protractor.jpg/960px-Brass_Protractor.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Brass_Protractor.jpg/500px-Brass_Protractor.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-retrieval-practice-weak-for-complex-problems.jpg",
+  "local": true
  }
 }
