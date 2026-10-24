@@ -8637,5 +8637,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-ai-demanding-tone-spillover-prevent-harsh",
+    "category": "AIとの付き合い方",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Tey et al., \"People judge others more harshly after talking to bots\" (PNAS Nexus, 2024)",
+    "sourceUrl": "https://doi.org/10.1093/pnasnexus/pgae397",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-demanding-tone-spillover-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く話",
+        "title": "AIへの態度、人にうつる？",
+        "body": "AIには気をつかわずに「やり直して」と言えるよね。それに慣れると、人への接し方まで変わっちゃうのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じAIを「AI」か「人」と伝えた",
+        "body": "計1,261人が、写真に付ける面白い一言を相手と2.5分考えたよ。相手はどちらも同じAIで、伝え方だけ「AI」か「人の参加者」かに分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "直後の評価が少し厳しく",
+        "body": "AIだと思った組は要求が強めで、そのあと別の人の一言を10点満点で評価すると、少し低い点をつけていたらしい。評価が相手に伝わらない場合も同じだったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どれくらい続くかは不明",
+        "body": "評価はやりとりの直後だけで、時間がたつとどうなるかは調べていないんだ。差も小さめで、毎日AIを使う人に長く続くかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
