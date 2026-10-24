@@ -9439,5 +9439,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-why-study-progress-plateaus-learning-curve-steps",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Donner & Hardy, \"Piecewise power laws in individual learning curves\" (Psychonomic Bulletin & Review, 2015)",
+    "sourceUrl": "https://doi.org/10.3758/s13423-015-0811-x",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/why-study-progress-plateaus/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "続ければ、なめらかに伸びる",
+        "body": "練習を続ければ、成績は少しずつ右肩上がりに伸びていく…と思うよね。だから伸びない時期が来ると「限界かも」と感じやすい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2万5千本の学習曲線を分析",
+        "body": "オンラインの脳トレーニングで4種類のゲームを500回以上続けた人の記録、2万5,280本（2万2,460人）を一本ずつ調べた研究がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "伸びは「段」になりやすい",
+        "body": "平均するとなめらかな曲線でも、一人ひとりは伸びが鈍る段がつながった形の方が合っていた。段の切り替わりでは78%でいったん下がり、50回以内に80%以上が前の段を上回った。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ゲームの話で、勉強ではない",
+        "body": "1回1分ほどのゲームの点数で、資格や語学の勉強を調べたものではない。段の切り替わりを「やり方を変えたから」と見るのは著者らの解釈で、実際のやり方は測っていない。データは運営会社のもの。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
