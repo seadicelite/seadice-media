@@ -815,5 +815,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Genkan-M9778.jpg/500px-Genkan-M9778.jpg",
   "og": "https://oya.seadice.win/img/parent-living-together-nearby-or-facility.jpg",
   "local": true
+ },
+ "parent-emergency-contact-plan-after-homecoming": {
+  "file": "File:Address book 1.jpg",
+  "src": "/img/parent-emergency-contact-plan-after-homecoming.jpg",
+  "src640": "/img/parent-emergency-contact-plan-after-homecoming-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "リング綴じの住所録の、まだ何も書かれていないページ",
+  "artist": "Mx. Granger",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Address_book_1.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Address_book_1.jpg/960px-Address_book_1.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Address_book_1.jpg/500px-Address_book_1.jpg",
+  "og": "https://oya.seadice.win/img/parent-emergency-contact-plan-after-homecoming.jpg",
+  "local": true
  }
 }
