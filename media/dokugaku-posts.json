@@ -1,5 +1,13 @@
 [
   {
+    "slug": "problem-book-rounds-mark-sheet",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-24",
+    "title": "問題集・過去問の「周回表」（○△×）。1回正解した問題を外さない使い方（テストから外すと忘れた実験と、覚え直しの研究から）",
+    "summary": "正解した後もテストを続けると1週間後に約80%、外すと33〜36%。○△×の周回表と「別の日に3回○」で卒業する目安"
+  },
+  {
     "slug": "why-retrieval-practice-weak-for-complex-problems",
     "category": "勉強法",
     "type": "guide",

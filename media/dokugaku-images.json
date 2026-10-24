@@ -4976,5 +4976,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Brass_Protractor.jpg/500px-Brass_Protractor.jpg",
   "og": "https://dokugaku.seadice.win/img/why-retrieval-practice-weak-for-complex-problems.jpg",
   "local": true
+ },
+ "problem-book-rounds-mark-sheet": {
+  "file": "File:Pencil Sharpener on desk.jpg",
+  "src": "/img/problem-book-rounds-mark-sheet.jpg",
+  "src640": "/img/problem-book-rounds-mark-sheet-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上の鉛筆削り",
+  "artist": "Punker1999",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pencil_Sharpener_on_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pencil_Sharpener_on_desk.jpg/960px-Pencil_Sharpener_on_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pencil_Sharpener_on_desk.jpg/500px-Pencil_Sharpener_on_desk.jpg",
+  "og": "https://dokugaku.seadice.win/img/problem-book-rounds-mark-sheet.jpg",
+  "local": true
  }
 }

@@ -119,7 +119,8 @@
           "https://dokugaku.seadice.win/templates/review-calendar/",
           "exam-time-allocation-sheet",
           "mock-exam-score-prediction-log",
-          "exam-wrapper-reflection-sheet"
+          "exam-wrapper-reflection-sheet",
+          "problem-book-rounds-mark-sheet"
         ],
         "stuck": [
           "failed-exam-review-mistakes",

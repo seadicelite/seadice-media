@@ -9541,5 +9541,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-problem-book-rounds-mark-sheet-relearning",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rawson & Dunlosky, \"Optimizing schedules of retrieval practice for durable and efficient learning: How much is enough?\" (Journal of Experimental Psychology: General, 2011)",
+    "sourceUrl": "https://doi.org/10.1037/a0023956",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/problem-book-rounds-mark-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く話",
+        "title": "何回正解したら覚えたことになる？",
+        "body": "問題集や暗記カードで、1回正解したらもう大丈夫って思いがちだよね。じゃあ、何回くらい正解すれば長く覚えていられるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "533人で練習の回数を変えた",
+        "body": "大学生533人が、用語の定義のような短い問題を練習した実験がある。最初の日に1〜4回正解するまで練習して、その後1〜5回、日をあけて覚え直したらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効いたのは「日をあけた覚え直し」",
+        "body": "1〜4か月後の記憶は、覚え直しの回数で大きく伸びた。追加の練習はわずかだった。著者らのおすすめは、最初に3回正解するまで練習し、その後3回、間を広くあけて覚え直すこと。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い問題でも同じ？",
+        "body": "使われたのは定義を書く短い問題。計算問題や長い文章題、社会人の資格の勉強で同じ回数がいいのかは、まだ確かめられていない。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
