@@ -5985,5 +5985,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Open_book_and_closed_laptop_on_a_table_with_fallen_leaves_during_a_study_break.jpg/500px-Open_book_and_closed_laptop_on_a_table_with_fallen_leaves_during_a_study_break.jpg",
   "og": "https://mentalai.seadice.win/img/ai-job-worry-urge-to-study-why.jpg",
   "local": true
+ },
+ "walk-before-ideas-prevent": {
+  "file": "File:Autumn path in Završnica valley in Slovenia.jpg",
+  "src": "/img/walk-before-ideas-prevent.jpg",
+  "src640": "/img/walk-before-ideas-prevent-sm.jpg",
+  "w": 960,
+  "h": 525,
+  "alt": "木々の間に続く小道",
+  "artist": "Dreamy Pixel",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Autumn_path_in_Zavr%C5%A1nica_valley_in_Slovenia.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Autumn_path_in_Zavr%C5%A1nica_valley_in_Slovenia.jpg/960px-Autumn_path_in_Zavr%C5%A1nica_valley_in_Slovenia.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Autumn_path_in_Zavr%C5%A1nica_valley_in_Slovenia.jpg/500px-Autumn_path_in_Zavr%C5%A1nica_valley_in_Slovenia.jpg",
+  "og": "https://mentalai.seadice.win/img/walk-before-ideas-prevent.jpg",
+  "local": true
  }
 }
