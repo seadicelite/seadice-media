@@ -9492,5 +9492,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "research-train-car-sleepy-rocking-vibration-why-research-seat-vibration",
+    "category": "睡眠",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Azizan A et al., \"The influence of vibration on seated human drowsiness\" (Industrial Health, 2016)",
+    "sourceUrl": "https://doi.org/10.2486/indhealth.2015-0095",
+    "studyType": "実験",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "電車や車に乗ると眠くなるのはなぜ？",
+        "body": "乗ってしばらくすると、急にまぶたが重くなるよね。ただ座っているだけなのに、なぜだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "車の座席を20分揺らしてみた",
+        "body": "オーストラリアの研究チームが、振動台に車の座席をのせて、大学生18人に20分座ってもらったんだ。乗り物に近い1〜15Hzの細かい振動をかけた日と、振動なしの日を比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "見落としが0.38回から3.69回に",
+        "body": "振動のあとは眠気の自己評価が上がり、合図にボタンを押すテストで反応が平均13%遅くなった。0.5秒以上遅れる見落としも増えたけど、振動なしで座った日は変化がなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実際の運転でも同じ？",
+        "body": "対象は若い男性18人だけで、実験室で20分測っただけ。女性や年配の人、何時間もの運転で同じになるかは、まだ確かめられていないよ。"
+      }
+    ],
+    "articleUrl": "https://research.seadice.win/train-car-sleepy-rocking-vibration-why-research/",
+    "articleSite": "悩みの科学",
+    "addedAt": "2026-10-24"
   }
 ]

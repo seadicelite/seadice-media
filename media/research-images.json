@@ -5215,5 +5215,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Saysh-track-spike.jpg/500px-Saysh-track-spike.jpg",
   "og": "https://research.seadice.win/img/habit-same-time-flexible-schedule-how-research.jpg",
   "local": true
+ },
+ "train-car-sleepy-rocking-vibration-why-research": {
+  "file": "File:HK MTR Tung Chung Line train interior door n metal seats March 2026 N13P.jpg",
+  "src": "/img/train-car-sleepy-rocking-vibration-why-research.jpg",
+  "src640": "/img/train-car-sleepy-rocking-vibration-why-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "電車の車内の座席",
+  "artist": "Shadlowum HWOWMOOA",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:HK_MTR_Tung_Chung_Line_train_interior_door_n_metal_seats_March_2026_N13P.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/HK_MTR_Tung_Chung_Line_train_interior_door_n_metal_seats_March_2026_N13P.jpg/960px-HK_MTR_Tung_Chung_Line_train_interior_door_n_metal_seats_March_2026_N13P.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/HK_MTR_Tung_Chung_Line_train_interior_door_n_metal_seats_March_2026_N13P.jpg/500px-HK_MTR_Tung_Chung_Line_train_interior_door_n_metal_seats_March_2026_N13P.jpg",
+  "og": "https://research.seadice.win/img/train-car-sleepy-rocking-vibration-why-research.jpg",
+  "local": true
  }
 }
