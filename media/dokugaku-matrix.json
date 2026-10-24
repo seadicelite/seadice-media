@@ -518,7 +518,8 @@
           "why-ai-explanations-feel-understood",
           "why-ai-confidently-wrong-hallucination",
           "why-ai-agrees-with-wrong-answer",
-          "why-ai-help-makes-ideas-similar"
+          "why-ai-help-makes-ideas-similar",
+          "why-trust-wrong-ai-answers-automation-bias"
         ],
         "use": [
           "ai-study-checklist",

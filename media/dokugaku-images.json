@@ -4868,5 +4868,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stone_Steps_at_Upton_House_-_geograph.org.uk_-_2661280.jpg/500px-Stone_Steps_at_Upton_House_-_geograph.org.uk_-_2661280.jpg",
   "og": "https://dokugaku.seadice.win/img/why-low-confidence-no-motivation-self-efficacy.jpg",
   "local": true
+ },
+ "why-trust-wrong-ai-answers-automation-bias": {
+  "file": "File:Lille rose des vents republique.jpg",
+  "src": "/img/why-trust-wrong-ai-answers-automation-bias.jpg",
+  "src640": "/img/why-trust-wrong-ai-answers-automation-bias-sm.jpg",
+  "w": 960,
+  "h": 715,
+  "alt": "広場の床に描かれた方位の図",
+  "artist": "Velvet",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lille_rose_des_vents_republique.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lille_rose_des_vents_republique.jpg/960px-Lille_rose_des_vents_republique.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lille_rose_des_vents_republique.jpg/500px-Lille_rose_des_vents_republique.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-trust-wrong-ai-answers-automation-bias.jpg",
+  "local": true
  }
 }

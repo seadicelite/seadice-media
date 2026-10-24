@@ -9269,5 +9269,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-why-trust-wrong-ai-answers-automation-bias-radiologists",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Dratsch et al., \"Automation Bias in Mammography: The Impact of Artificial Intelligence BI-RADS Suggestions on Reader Performance\" (Radiology, 2023)",
+    "sourceUrl": "https://doi.org/10.1148/radiol.222176",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-trust-wrong-ai-answers-automation-bias/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "詳しい人ならAIの間違いに気づく？",
+        "body": "AIが間違えても、専門家ならすぐ見抜けるはず。そう思いがちだよね。実際に試した実験がある。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "わざと間違えるAIで実験",
+        "body": "放射線科医27人が乳がん検診の画像を「AIの判定つき」で読んだ。後半40枚のうち12枚は、AIがわざと間違った分類を出していた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ベテランでも引きずられた",
+        "body": "AIが間違っていると、経験の浅い医師の正解の割合は79.7%から19.8%に。経験の長い医師でも82.3%から45.5%に下がったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本物のAIではない",
+        "body": "使われたのは実験用に用意した判定で、人数も27人。勉強でAIを使う場面にどこまで当てはまるかは、まだ調べられていない。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

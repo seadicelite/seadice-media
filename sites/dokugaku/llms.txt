@@ -332,6 +332,7 @@
 - [AIはなぜ、もっともらしい間違いを自信ありげに答えるのか？「ハルシネーション」の仕組みと、独学で間違いやすい質問](https://dokugaku.seadice.win/why-ai-confidently-wrong-hallucination/): 一度しか出てこない細かい事実は外れやすく、推測が得をする評価も原因。同じ質問で答えがぶれたら要注意。
 - [AIの説明を読むとわかった気になるのはなぜ？説明のなめらかさと「説明深度の錯覚」の研究](https://dokugaku.seadice.win/why-ai-explanations-feel-understood/): AIの説明でわかった気になる理由を、説明深度の錯覚・なめらかな説明・検索の研究から整理し、確かめる手順をまとめました。
 - [AIにアイデアや文章を手伝ってもらうと、ほかの人と似た答えになるのはなぜ？AIによる「均質化」の研究](https://dokugaku.seadice.win/why-ai-help-makes-ideas-similar/): AIのアイデアで作品の評価は上がるが、作品どうしは似てくる（293人の実験）。自分の考えを残す「先に自分、後でAI」の順番。
+- [AIの答えが間違っていても、そのまま信じてしまうのはなぜ？人が機械の判断に頼りすぎる「自動化バイアス」の研究](https://dokugaku.seadice.win/why-trust-wrong-ai-answers-automation-bias/): AIが間違った分類を示すと医師の正解率は79.7%から19.8%に。専門家でも起きる「自動化バイアス」の仕組みと、手順で防ぐ方法。
 
 ## ツールとアプリ（無料・登録不要）
 

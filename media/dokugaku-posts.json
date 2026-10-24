@@ -1,5 +1,13 @@
 [
   {
+    "slug": "why-trust-wrong-ai-answers-automation-bias",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-24",
+    "title": "AIの答えが間違っていても、そのまま信じてしまうのはなぜ？人が機械の判断に頼りすぎる「自動化バイアス」の研究",
+    "summary": "AIが間違った分類を示すと医師の正解率は79.7%から19.8%に。専門家でも起きる「自動化バイアス」の仕組みと、手順で防ぐ方法。"
+  },
+  {
     "slug": "why-low-confidence-no-motivation-self-efficacy",
     "category": "やる気・心",
     "type": "guide",
