@@ -9186,5 +9186,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "research-drowsy-driving-focus-recovery-research-cold-air-radio",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Reyner LA & Horne JA, \"Evaluation 'in-car' countermeasures to sleepiness: cold air and radio\" (Sleep, 1998)",
+    "sourceUrl": "https://doi.org/10.1093/sleep/21.1.46",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/drowsy-driving-focus-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "眠い運転は窓を開ければOK？",
+        "body": "運転中に眠くなったら、窓を開けて冷たい風に当たるか、音楽を大きくする。よく聞く対策だよね。本当に効くのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "寝不足で2.5時間の運転",
+        "body": "イギリスの研究者が、前の晩を5時間睡眠にした若い大人16人に、運転シミュレーターを2.5時間走ってもらったよ。顔に冷たい風、ラジオ、何もしない、を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "はみ出しは減らなかった",
+        "body": "冷たい風もラジオも、車線のはみ出しをはっきりとは減らさなかったらしい。ラジオは眠気の感じ方を下げたけど、冷たい風の効果は一時的。著者は、止まって休むまでのつなぎ程度と書いているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実際の道路では？",
+        "body": "16人と少人数で、午後のシミュレーターでの結果なんだ。実際の道路や夜の運転で同じになるかは、この研究だけではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

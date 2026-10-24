@@ -5053,5 +5053,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Malaysia_Prohibition-signs-No-smoking-sign-01.jpg/500px-Malaysia_Prohibition-signs-No-smoking-sign-01.jpg",
   "og": "https://research.seadice.win/img/quit-smoking-failed-again-retry-research.jpg",
   "local": true
+ },
+ "drowsy-driving-focus-recovery-research": {
+  "file": "File:Field (BC, Canada), Trans-Canada Highway, Rest Area -- 2022 -- 163551.jpg",
+  "src": "/img/drowsy-driving-focus-recovery-research.jpg",
+  "src640": "/img/drowsy-driving-focus-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "山あいの高速道路と道路わきの看板",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Field_(BC,_Canada),_Trans-Canada_Highway,_Rest_Area_--_2022_--_163551.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Field_%28BC%2C_Canada%29%2C_Trans-Canada_Highway%2C_Rest_Area_--_2022_--_163551.jpg/960px-Field_%28BC%2C_Canada%29%2C_Trans-Canada_Highway%2C_Rest_Area_--_2022_--_163551.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Field_%28BC%2C_Canada%29%2C_Trans-Canada_Highway%2C_Rest_Area_--_2022_--_163551.jpg/500px-Field_%28BC%2C_Canada%29%2C_Trans-Canada_Highway%2C_Rest_Area_--_2022_--_163551.jpg",
+  "og": "https://research.seadice.win/img/drowsy-driving-focus-recovery-research.jpg",
+  "local": true
  }
 }
