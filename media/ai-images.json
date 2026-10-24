@@ -3202,5 +3202,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Pill_box_with_pills.JPG/500px-Pill_box_with_pills.JPG",
   "og": "https://ai.seadice.win/img/health-app-data-shared-found-what-to-do.jpg",
   "local": true
+ },
+ "ai-voice-narration-human-voice-work": {
+  "file": "File:Headphone Microphone Madrid (Unsplash).jpg",
+  "src": "/img/ai-voice-narration-human-voice-work.webp",
+  "src640": "/img/ai-voice-narration-human-voice-work-sm.webp",
+  "w": 960,
+  "h": 626,
+  "alt": "録音用のマイクにかけたヘッドホン",
+  "artist": "WillSpirit SBLN willspirit",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Headphone_Microphone_Madrid_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Headphone_Microphone_Madrid_%28Unsplash%29.jpg/960px-Headphone_Microphone_Madrid_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Headphone_Microphone_Madrid_%28Unsplash%29.jpg/500px-Headphone_Microphone_Madrid_%28Unsplash%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-voice-narration-human-voice-work-og.jpg",
+  "local": true
  }
 }
