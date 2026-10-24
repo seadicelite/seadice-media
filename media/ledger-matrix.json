@@ -406,7 +406,9 @@
      "free-trial-cancel-reminder-tips"
     ],
     "after": [],
-    "use": []
+    "use": [
+     "trial-price-total-cost-checklist"
+    ]
    }
   }
  ],

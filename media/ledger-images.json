@@ -1885,5 +1885,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tea_advent_calendar_with_baubles_and_tea_candle_in_Tuntorp.jpg/500px-Tea_advent_calendar_with_baubles_and_tea_candle_in_Tuntorp.jpg",
   "og": "https://ledger.seadice.win/img/free-trial-cancel-reminder-tips.jpg",
   "local": true
+ },
+ "trial-price-total-cost-checklist": {
+  "file": "File:Top1Toys receipt, Oude Pekela (2020) 05.jpg",
+  "src": "/img/trial-price-total-cost-checklist.jpg",
+  "src640": "/img/trial-price-total-cost-checklist-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "買い物のレシート",
+  "artist": "Donald Trung Quoc Don",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Top1Toys_receipt,_Oude_Pekela_(2020)_05.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Top1Toys_receipt%2C_Oude_Pekela_%282020%29_05.jpg/960px-Top1Toys_receipt%2C_Oude_Pekela_%282020%29_05.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Top1Toys_receipt%2C_Oude_Pekela_%282020%29_05.jpg/500px-Top1Toys_receipt%2C_Oude_Pekela_%282020%29_05.jpg",
+  "og": "https://ledger.seadice.win/img/trial-price-total-cost-checklist.jpg",
+  "local": true
  }
 }
