@@ -8297,5 +8297,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "kokoro-ai-job-worry-urge-to-study-why-nurses",
+    "category": "仕事とAIの不安",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zheng et al., \"AI Substitution Perception and Nurses' Active Learning Behavior: The Mediating Role of Job Insecurity and Moderating Role of Occupational Self-Efficacy\" (Journal of Nursing Management, 2026)",
+    "sourceUrl": "https://doi.org/10.1155/jonm/5684286",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-job-worry-urge-to-study-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIが不安で勉強したくなる",
+        "body": "AIに仕事を取られるかもと思うと、急に「勉強しなきゃ」と焦ること、あるよね。不安って、人を学ぶほうに動かすことがあるのかな。看護師を対象にした調査があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "看護師560人に聞いた",
+        "body": "中国・山東省の10の病院で、2026年3月に看護師560人にアンケートをしたよ。AIに置き換えられると感じる度合い、仕事の先行き不安、自分から学ぶ行動の多さを聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "不安が強いほど学ぶ",
+        "body": "置き換えられる不安が強い人ほど、自分から学ぶ行動が多い傾向があったらしい。その結びつきの約53%は、仕事の先行き不安を通じたものだったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "不安が先とは限らない",
+        "body": "1回だけの調査だから、不安が学ぶ行動を生んだのか、学ぶ人ほど不安に敏感なのかは区別できないよ。1つの省の看護師だけの結果で、焦って学び続けて疲れないかもわかっていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
