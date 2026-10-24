@@ -9779,5 +9779,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-screen-reading-study-checklist-bold-underline",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Shi et al., \"Construction of cognitive maps to improve reading performance by text signaling: Reading text on paper compared to on screen\" (Frontiers in Psychology, 2020)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2020.571957",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/screen-reading-study-checklist/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "画面で読むと頭に入らない？",
+        "body": "PDFやタブレットで読むと、紙の本より頭に入らない気がするよね。画面で読むかぎり、この差は埋まらないのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "紙と画面で説明文を読んだ",
+        "body": "中国の大学1年生75人が、説明文を紙か画面で読んだ実験がある。文章は3種類。手を加えないもの、大事な語を太字にして要点の文に下線を引いたもの、最後に要点の図をつけたもの。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "太字と下線で差が消えた",
+        "body": "手を加えない文章では、理解の点（8点満点）が紙5.18点、画面4.41点で紙が上。でも太字と下線つきでは紙6.61点、画面6.65点で差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "自分で引いた線でも同じ？",
+        "body": "太字と下線は、経験のある講師が選んで付けたもの。読む人が自分で引いた線でも同じになるかは、この実験ではわからない。人数も75人と多くない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

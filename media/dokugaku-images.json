@@ -5066,5 +5066,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Canaria_keyboard_layout.jpg/500px-Canaria_keyboard_layout.jpg",
   "og": "https://dokugaku.seadice.win/img/new-alphabet-handwriting-practice-sheet.jpg",
   "local": true
+ },
+ "screen-reading-study-checklist": {
+  "file": "File:Cybook Opus Bookeen.jpg",
+  "src": "/img/screen-reading-study-checklist.jpg",
+  "src640": "/img/screen-reading-study-checklist-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "電子書籍リーダー",
+  "artist": "Paulpaul",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Cybook_Opus_Bookeen.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cybook_Opus_Bookeen.jpg/960px-Cybook_Opus_Bookeen.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cybook_Opus_Bookeen.jpg/500px-Cybook_Opus_Bookeen.jpg",
+  "og": "https://dokugaku.seadice.win/img/screen-reading-study-checklist.jpg",
+  "local": true
  }
 }
