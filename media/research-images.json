@@ -5107,5 +5107,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tutoring_Math.jpg/500px-Tutoring_Math.jpg",
   "og": "https://research.seadice.win/img/worked-examples-math-problem-solving-how-research.jpg",
   "local": true
+ },
+ "dog-interaction-stress-relief-how-research": {
+  "file": "File:Dog interacting with a person's hand on a concrete surface in an outdoor setting at a friendly invitation.jpg",
+  "src": "/img/dog-interaction-stress-relief-how-research.jpg",
+  "src640": "/img/dog-interaction-stress-relief-how-research-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "差し出された手のにおいをかぐ茶色い巻き毛の犬",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dog_interacting_with_a_person's_hand_on_a_concrete_surface_in_an_outdoor_setting_at_a_friendly_invitation.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dog_interacting_with_a_person%27s_hand_on_a_concrete_surface_in_an_outdoor_setting_at_a_friendly_invitation.jpg/960px-Dog_interacting_with_a_person%27s_hand_on_a_concrete_surface_in_an_outdoor_setting_at_a_friendly_invitation.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dog_interacting_with_a_person%27s_hand_on_a_concrete_surface_in_an_outdoor_setting_at_a_friendly_invitation.jpg/500px-Dog_interacting_with_a_person%27s_hand_on_a_concrete_surface_in_an_outdoor_setting_at_a_friendly_invitation.jpg",
+  "og": "https://research.seadice.win/img/dog-interaction-stress-relief-how-research.jpg",
+  "local": true
  }
 }

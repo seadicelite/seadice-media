@@ -9288,5 +9288,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "research-dog-interaction-stress-relief-how-research-short-sessions",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sim SQ et al., \"Canine-assisted therapy in reducing stress and anxiety levels of university students: systematic review and meta-analysis of randomized controlled trials\" (BMC Complementary Medicine and Therapies, 2025)",
+    "sourceUrl": "https://doi.org/10.1186/s12906-025-04955-2",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/dog-interaction-stress-relief-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "犬をなでると癒やされる？",
+        "body": "しんどい日に犬をなでると、気持ちがほどける気がするよね。これ、研究でも確かめられているらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生の試験15件をまとめた",
+        "body": "セラピー犬とふれあう大学生のランダム化比較試験15件、参加者1,868人分をまとめた分析があるよ。カナダ・アメリカ・イギリスの研究なんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "短い時間でもストレスが下がった",
+        "body": "犬とふれあうと、ストレスと不安が中くらいの大きさで下がった（g=−0.67）。0〜14分の短いふれあいでも効果ははっきりしていて、長い時間との差はなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "偏りの小さい研究がない",
+        "body": "犬がいることは隠せないから、多くの研究で組分けを伏せられなかった。偏りの小さい研究は1件もなく、参加者は女性が多かったよ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
