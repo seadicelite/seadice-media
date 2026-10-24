@@ -8093,5 +8093,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "kokoro-loneliness-warm-bath-coffee-replication",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Chabris et al., \"No evidence that experiencing physical warmth promotes interpersonal warmth: Two failures to replicate Williams and Bargh (2008)\" (Social Psychology, 2019)",
+    "sourceUrl": "https://doi.org/10.1027/1864-9335/a000361",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/loneliness-warm-bath/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "温かいコーヒーで人に優しくなれる？",
+        "body": "温かいコーヒーを持つと、相手を温かい人柄だと感じる。そんな有名な実験があって、聞いたことがある人もいるよね。体の温かさが心の温かさにつながる、という話。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "約3倍の人数で確かめ直した",
+        "body": "元の2つの実験は41人と53人。そこで別の研究者たちが、128人と177人で同じ実験をやり直したんだ。実験する人も参加者も、条件を知らない形で行ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果はほぼゼロだった",
+        "body": "2つとも、温かいものを持っても、相手の印象や贈り物の選び方への効果はほぼゼロ。データは、効果がないという見方のほうをより強く支持していたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "寂しさには効かないの？",
+        "body": "この追試が測ったのは人の印象と贈り物の選び方で、寂しさそのものではないんだ。寂しい夜に温まると寂しさが減るかは、まだほとんど調べられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
