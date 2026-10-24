@@ -113,151 +113,6 @@
 - [加重ブランケット（重い毛布）は寝つきや不安に効くのか。4つの研究でわかったこと](https://research.seadice.win/weighted-blanket-sleep-anxiety-research/): 426人分の解析で不安への小さな効果を確認。不眠は研究で結果が分かれ、活動量計では今のところ差が出ていない。
 - [ホワイトノイズや雨の音を流すと、よく眠れる？ 38件のレビューと睡眠実験でわかったこと](https://research.seadice.win/white-noise-sleep-pink-noise-research/): 38件のレビューでは根拠の質は非常に低い。一晩中流すとレム睡眠が減り、騒音には耳栓が勝った。
 
-### 習慣
-
-- [1回のミスで「もう全部やめたくなる」のはなぜ？「どうにでもなれ効果」の研究](https://research.seadice.win/all-or-nothing-diet-slip-research/): 「低カロリー」と伝えられても食事制限中の人は食べすぎ、失敗を自分のせいと決めつけるほど次の過食が早まった。4つの研究から確認。
-- [お金を賭けると習慣は続く？ 失敗したら没収される「コミットメント契約」の研究でわかったこと](https://research.seadice.win/commitment-contract-money-habit-research/): 自分のお金を預ける「コミットメント契約」で習慣は続く？ 申し込んだ人には効きやすい一方、選ぶ人が少なく、終了後の効果は割れる研究を整理。
-- [1日何歩歩けばいいのか。「1万歩」の根拠を研究で調べた](https://research.seadice.win/daily-steps-how-many-research/): 「1万歩」の根拠は弱く、60歳以上は6,000〜8,000歩、60歳未満は8,000〜1万歩で効果が頭打ちに。7,000歩でも十分な効果があった。
-- [誘惑を遠ざけると、やめやすくなるのか。「ひと手間」の研究](https://research.seadice.win/distance-temptation-self-control-research/): スナック菓子を20cmから70cmの位置に遠ざけると取る人が減り、24件の分析でも近さや選択肢の数を変える工夫で食べる量や選ぶ量が減った。
-- [運動の習慣が途切れてしまったら、どう再開する？ 中断と再開の研究でわかったこと](https://research.seadice.win/exercise-habit-lapse-restart-research/): 運動の中断はよくあること。1回休んでも習慣は崩れにくく、いつ・どこで運動するかの計画と「また戻れる」という自信が、続けられるかと関係していた。
-- [「やらされている」習慣が続かないのはなぜ？ 自分で選んだ理由（自律的な動機）と習慣の研究で調べた](https://research.seadice.win/forced-habit-autonomous-motivation-why-research/): 言われて始めた運動が続かないのはなぜ？ 66の研究のレビューで、自分で大事だと思える・楽しい理由の人ほど運動が続く傾向でした。
-- [新しい習慣はいつ始めると続きやすいのか。「フレッシュスタート効果」の研究](https://research.seadice.win/fresh-start-effect-habit-timing-research/): 老後資金の積立を増やす時期を誕生日や春の始まりなどの「節目」の日付で示す実験では、将来の積立を増やす人が約5割増え、その後8か月の積立も多かった。ただし環境配慮の買い物は新年でも増えず、万能ではないこともわかった。
-- [ポイントやバッジで習慣は続く？ ゲーム化（ゲーミフィケーション）の研究でわかった効き方と、終わった後](https://research.seadice.win/gamification-points-badges-habit-research/): 16試験のメタ分析でゲーム化は運動量を小〜中程度増やした。ただ終了後は弱まり、602人の試験で差が残ったのは競争の形だけだった。
-- [何度やっても続かない習慣は、やめてもいい？「目標を手放して、別の目標に向かう」研究でわかった立て直し方](https://research.seadice.win/give-up-habit-goal-disengagement-recovery-research/): 迷い続ける状態は心身の負担と結びつきます。手放す力より「別の目標に向かい直す力」が生活の質と強く関連。決め方と手放し方を研究で整理。
-- [目標を人に話すと叶いやすいのか。4つの研究でわかった「話し方」次第で結果が変わる理由](https://research.seadice.win/goal-sharing-achievement-research/): 目標を人に話すと達成しやすくなるのか。4つの研究から、告げ方や相手によって効果が正反対になることを確認した。
-- [良い習慣をがんばった日ほど「今日くらいいいか」と崩してしまうのはなぜ？ 自分に許可を出す心理の研究で調べた](https://research.seadice.win/good-habit-then-treat-self-licensing-why-research/): がんばった事実が「ゆるんでいい理由」になる。理由を思い浮かべた人ほど多く食べ、強い決意ほど崩れた。一方、前もって決めたゆるみは間食の少なさと結びついた。
-- [続けてきた習慣に飽きてしまったら？「飽き」と変化の研究でわかった立て直し方](https://research.seadice.win/habit-bored-variety-restart-research/): 飽きはふつうの反応。やめる前に中身を3通りに増やす。変化をつけた運動は6週間続きやすく、過去の変化を思い出すと飽きが和らいだ。
-- [習慣をやめるには何日かかるのか。研究でわかった「待てば消える」の限界](https://research.seadice.win/habit-break-days-research/): やめても「きっかけ→行動」の結びつきは残りうる。意志力が少ない時や強いストレスの後は、習慣的な行動が出やすいと研究は示す。
-- [連休や引っ越しのあと、習慣が崩れるのはなぜ？「きっかけ」が消える仕組みを研究で調べた](https://research.seadice.win/habit-breaks-after-change-why-research/): 習慣は場所や時間などのきっかけで動くため、環境が変わると止まりやすい。ジム会員1,210人の記録では休暇明けに通う回数が約12%落ち、戻らなかった。
-- [習慣をうっかり忘れる日が続いたら？ リマインダーと「きっかけ」の研究でわかった立て直し方](https://research.seadice.win/habit-forgetting-reminder-cue-research/): 忘れるのは意志の弱さだけでなく記憶の性質でも説明できる。通知で補い、いつもの行動か時刻に結びつけてくり返すと、習慣がリマインダーの役目を引き継ぐ（モデル研究）。
-- [「2分ルール」は本当に効くのか。習慣が身につくまでの日数を研究で調べた](https://research.seadice.win/habit-formation-two-minute-rule/): 習慣が身につくまでの日数は中央値で66日（人によって18〜254日）。シンプルな行動ほど早く定着すると研究でわかった。今日からの一歩も紹介。
-- [習慣ができない日が続いたら、目標は下げるべき？ 目標の調整の研究でわかった立て直し方](https://research.seadice.win/habit-goal-lower-after-missed-days-research/): 届かない目標は自信とやる気を下げる。直近9日の実績から目標を上げ下げする方法は、固定の目標より運動の落ち込みを抑えた。
-- [続けているのに効果が見えず、やめたくなったら？ 習慣を支える「満足」と「合格ライン」の研究でわかった立て直し方](https://research.seadice.win/habit-no-results-yet-want-to-quit-research/): 習慣ができるまでの中央値は59〜66日。続く人を支えたのは得たものへの満足で、やめる引き金は夢でなく高すぎる合格ラインだった。
-- [習慣のリマインダー通知を無視するようになったら？ 通知に慣れる研究でわかった立て直し方](https://research.seadice.win/habit-reminder-notification-ignored-recovery-research/): 同じ通知は数週間で効き目が薄れ、数が多いほど反応が下がる。通知を減らして変え、いつもの行動へきっかけを移す立て直し方。
-- [悪い習慣は「別の行動」に置き換えればやめられるのか。4つの研究でわかったこと](https://research.seadice.win/habit-replacement-competing-response-research/): 爪噛みや抜毛には置き換えで中程度の効果が確認された（d=0.54）が、喫煙や間食を別の楽しみに置き換える禁煙プログラムでは禁煙率に差がなかった。
-- [いつも同じ場所で行うと習慣は身につきやすいのか。4つの研究でわかった「場所」の効果](https://research.seadice.win/habit-same-place-context-research/): 118人・16週間の追跡や6週間の実験など4つの研究から、場所を一定にする効果と限界を確認する
-- [毎日同じ時間にできなくても、習慣は身につく？ 時間を固定しない人が続けるやり方を研究で調べた](https://research.seadice.win/habit-same-time-flexible-schedule-how-research/): 決めた時間だけに報酬を出すより、いつでも報酬を出すほうが運動が続いた2,508人の実験と、間を空けない・曜日をそろえる続け方。
-- [「歯みがきの後に」など今ある習慣にくっつけると、新しい習慣は身につく？ ハビットスタッキングを研究で調べた](https://research.seadice.win/habit-stacking-existing-routine-research/): 今ある行動にくっつけても時刻で決めても、習慣の身につき方に差はなかった。決め手は同じきっかけで毎回くり返すこと。
-- [習慣の連続記録が途切れてやる気が消えたら？ 記録が切れた後の研究でわかった立て直し方](https://research.seadice.win/habit-streak-broken-restart-research/): 連続記録が切れたと表示されるだけで意欲は下がるが、習慣は1日で消えない。合計回数で数え直し、24時間以内に小さく1回やる立て直し方。
-- [習慣を記録するだけで続けやすくなるのか。研究でわかった「書くだけ」の効果](https://research.seadice.win/habit-tracking-boosts-continuation/): 138件のメタ分析などから、記録するだけで目標達成率が上がる効果と、効果を強める記録の仕方を確認した。
-- [出張や旅行で習慣が崩れたら？ いつもの場所がない日と、帰ってからの立て直し方を研究で調べた](https://research.seadice.win/habit-travel-trip-disrupted-restart-research/): 旅行で習慣が止まったら？ 強い習慣ほど場所の変化で崩れます。旅先は小さく続け、帰ったら元の合図で毎日繰り返すのが近道です。
-- [習慣が続く人は「意志が強い」から？ 自制心の高い人ほど我慢せず習慣に任せていた研究](https://research.seadice.win/habit-willpower-self-control-research/): 102研究・3万2,648人のまとめでは、自制心は我慢より自動的な行動と強く結びついた。続く人の強みは「考えずに動ける習慣」だった。
-- [家族や友だちの習慣がうつるのはなぜ？ 食べ方や運動が人から人へ広がる仕組みを研究で調べた](https://research.seadice.win/habits-spread-from-people-around-why-research/): 人は周りの行動を無意識にまね、「ふつう」の目安を借りる。69実験の食事のレビュー、110万人のランナーの分析、「肥満がうつる」説への反論で整理。
-- [「もし〇〇したら△△する」と決めると習慣は続くのか。if-thenプランの研究](https://research.seadice.win/if-then-planning-habit-research/): 「いつ・どこで・何をするか」をif-thenで決めると、94件・8,461人分の分析で目標達成を後押しする中〜大の効果があった。
-- [新しい習慣は朝にやると身につきやすい？ 朝と夜を比べた実験と「毎日同じタイミング」の研究](https://research.seadice.win/morning-habit-time-of-day-research/): 朝のほうが早く身についた実験は48人の1本だけ。複数の研究が支えるのは、朝か夜かより毎日同じタイミングでやることでした。
-- [新しい習慣は1つずつ始めるべき？ いくつも同時に始めた人と、順番に始めた人を比べた研究でわかったこと](https://research.seadice.win/multiple-habits-at-once-research/): 同時と順番を直接比べた試験では差は小さく、どちらも何もしないより良い結果。禁煙など難しい行動は分けた方がよい可能性。
-- [新しい習慣が三日坊主で終わるのはなぜ？「やる気」と行動のすき間を研究で調べた](https://research.seadice.win/new-habit-three-day-quit-why-research/): 始めたばかりの行動は意志だけで動いていて、意志は行動に届きにくい。運動の研究では、やるつもりの人の約46%が実行できていなかった。
-- [用もないのに、ついスマホを開いてしまうのはなぜ？「チェック習慣」の仕組みを研究で調べた](https://research.seadice.win/phone-checking-habit-why-research/): すぐ手に入る新しい情報がごほうびになり、きっかけで手が動く習慣に。1日約85回は本人の見積もりの倍以上で、89%は通知なしだった。
-- [やめたはずの習慣が、しばらくしてぶり返すのはなぜ？「消えた」のではなく「抑えられていた」仕組みを研究で調べた](https://research.seadice.win/quit-habit-comes-back-relapse-why-research/): やめた行動は消えずに抑えられているだけ。場面・時間・一度の再開・置きかえの終わりで戻りやすく、人の実験では結果が分かれる例もある。
-- [禁煙に何度も失敗してしまった。また挑戦していい？ 成功までの回数と、次の挑戦を変える方法を研究で調べた](https://research.seadice.win/quit-smoking-failed-again-retry-research/): 禁煙に何度も失敗したら？ 成功までの挑戦は平均約30回という推計があります。失敗は最初の1週間に多く、相談と薬の組み合わせで成功が約1.8倍でした。
-- [小さなご褒美で習慣は続きやすくなる？「すぐ楽しい」の研究でわかった効き方と限界](https://research.seadice.win/small-rewards-habit-research/): 続くかを予測したのは先の結果より最中の楽しさ。ご褒美は期間中は効くが弱まりやすく、やめた後に残るかは研究で分かれる。
-- [やめたい間食ほど、決まった時間や場所で欲しくなるのはなぜ？「きっかけ」と食欲の学習を研究で調べた](https://research.seadice.win/snack-cravings-time-place-cue-why-research/): 食べた時間や場所が合図になり「食べたい」気持ちが学習される。毎日同じ時刻のチョコで15日後に欲しくなった実験など、仕組みと対策。
-- [疲れた日やストレスの日に、いつもの習慣に戻ってしまうのはなぜ？「考える行動」と「自動の行動」の研究で調べた](https://research.seadice.win/stress-tired-old-habits-why-research/): 疲れた日やストレスの日に悪い習慣へ戻るのはなぜ？考えて選ぶ力と自動の習慣の研究、そして結果が分かれた追試から仕組みを整理。
-- [やめようと我慢するほど、やりたくなるのはなぜ？「考えないようにする」と跳ね返る仕組みを研究で調べた](https://research.seadice.win/suppressing-urges-rebound-why-research/): 考えを押さえ込むと、あとで戻りやすい。チョコやたばこの実験と、効果が弱いとするメタ分析から解説。
-- [やめたい衝動は、待てば消えるのか。4つの研究でわかったこと](https://research.seadice.win/urge-surfing-craving-wave-research/): 衝動を波として観察する「衝動サーフィン」。衝動の強さ自体は対照群と差がなかったが、その後7日間の喫煙本数には有意な差が出た。
-- [スマートウォッチや活動量計をつけると、運動習慣は続く？ 増える歩数と、手放す時期を研究で調べた](https://research.seadice.win/wearable-activity-tracker-habit-research/): 活動量計で運動は1日約1800歩増える目安。ただ端末だけでは差が出ない試験もあり、320日後も使う人は16%でした。
-- [深呼吸や瞑想などの「心のケア」を毎日の習慣にするには？ 20秒の練習に「習慣づくりの計画」を足した研究でわかったやり方](https://research.seadice.win/wellbeing-practice-habit-plan-how-research/): 20秒の練習に15分の習慣づくりの計画を足すと、6か月後も実践が多かった。きっかけ・通知・つまずきへの備えの決め方。
-- [わかっているのに、なぜ同じ行動をくり返すのか。習慣が「自動」で動く仕組みの研究](https://research.seadice.win/why-habits-run-on-autopilot-research/): くり返した行動は、場所や時間のきっかけで自動的に出やすくなる。ただし人で実験的に作るのは難しく、再現の失敗もある。
-
-### 先延ばし
-
-- [AIチャットに相談すると先延ばしは減る？ ChatGPTと人のコーチを比べた試験でわかったこと](https://research.seadice.win/ai-chatbot-procrastination-research/): AIが人のコーチより効くという結果は出ていない。相談だけで終わらせず、手順と始める時刻まで決めるのが大事。
-- [早く寝ると決めたのに、また夜ふかし。寝る時間の先延ばしが何度もくり返すときは？ 研究でわかった立て直し方](https://research.seadice.win/bedtime-procrastination-cant-stop-recovery-research/): 寝る時間の先延ばしは理由で3タイプに分かれます。遅く寝た分は寝坊で戻らず、理由のメモと毎晩の就寝計画が立て直しの手がかりです。
-- [退屈で後回しにしている作業は、「誰の役に立つか」を書くと手をつけやすい？ 意味づけの研究でわかったやり方と注意点](https://research.seadice.win/boring-task-purpose-procrastination-research/): 退屈な作業は「誰かの役に立つ理由」を書くと続けやすくなる。429人の実験で36%多く解いたが、効果は条件しだい。
-- [先延ばししている大きな作業は、どう細かく分ければ手をつけられる？ 研究でわかった分け方と注意点](https://research.seadice.win/break-task-small-steps-procrastination-research/): 避けている理由や良いことを書き、簡単な最初の一歩と分数、ご褒美を決めると、取りかかる見込みが少し上がった。区切った締め切りの有名な研究は撤回済み。
-- [決められずに先延ばししてしまうのはなぜ？「選べない」「後悔したくない」決断の保留を研究で調べた](https://research.seadice.win/cant-decide-postpone-decision-why-research/): 締め切りの余裕・選びにくさ・迷いやすさで決断の保留が増える研究と、保留しても後悔が減るとは限らないことを整理。
-- [運動すると先延ばしは減る？ 43研究のまとめと12週間の試験でわかった「運動と先延ばし」の関係](https://research.seadice.win/exercise-procrastination-research/): 43研究のまとめでは、よく運動する人ほど先延ばしが少なかった（r=−0.25）。ただ運動で減ると確かめた試験は1つで、運動しない組との比較はない。
-- [締め切りが先だと、なぜ手をつけられない？「あとでやる方が楽に見える」脳の仕組みを研究で調べた](https://research.seadice.win/far-deadline-procrastination-why-research/): 脳は遠いごほうびを小さく、あとでやる苦労を軽く見積もる。51人の脳と109日間の課題の研究から解説。
-- [「未来の自分」を身近に感じると先延ばしは減る？ 研究でわかった、未来の自分の思い浮かべ方](https://research.seadice.win/future-self-procrastination-how-research/): 未来の自分を身近に感じる人ほど先延ばしは少ない。具体的に想像する練習は先の得を選ぶ判断を後押ししたが、先延ばしが減るとまでは未確認。
-- [誰かと一緒にやれば先延ばしは減る？ グループ作業の実験でわかった「自分が欠かせない」の条件](https://research.seadice.win/group-work-procrastination-research/): 一緒にやるだけでは減らない。自分の分が欠けるとチームが困る形でだけ先延ばしが少なめだったが、効果は小さく作業前のいやな気持ちは増えた。
-- [健診や病院の予約を先延ばしし続けてしまったら？「日時を書く」計画の研究でわかった立て直し方](https://research.seadice.win/health-checkup-appointment-procrastination-recovery-research/): 予約の日時と場所を自分で書いた人は受診率92%、書かない人は69%。ただ用意された計画文を読むだけでは2万人超の検診で効果なし。今日、日時を1つ書くのが立て直しの一歩。
-- [やるつもりはあるのに、なぜ手をつけられない？「予定」と「実行」のすき間を研究で調べた](https://research.seadice.win/intend-but-dont-start-procrastination-why-research/): 先延ばしする人も予定は人並み以上に立てていた（大学生171人）。ずれは先の予定ほど、誘惑が近く気力がないほど大きくなる。
-- [「できる気がしない」作業ほど後回しにするのはなぜ？「自己効力感」と先延ばしの研究で調べた](https://research.seadice.win/low-confidence-task-procrastination-why-research/): 「自分にできる」見込みが低いほど先延ばしは多い。ただし3,071人の追跡では向きは不明で、心の疲れが先に来ていた。
-- [マインドフルネス瞑想は先延ばしに効く？ 1万4,000人のメタ分析と試験でわかった「つながり」と「効果」の差](https://research.seadice.win/mindfulness-meditation-procrastination-research/): 瞑想で先延ばしは減る？ マインドフルネスな人ほど先延ばしが少ないのは確かですが、瞑想を習って減るかは試験で割れています。
-- [締め切りに遅れそう・遅れてしまったら、どう立て直す？「延長のお願い」と謝り方の研究](https://research.seadice.win/missed-deadline-ask-extension-apology-research/): 人は頼みごとを断られる確率を高く見積もりがち。早めに伝え、言い訳より謝り、新しい期限を示す立て直し方を研究で整理。
-- [「やる気が出たらやる」は逆効果なのか。研究でわかった『行動が先』の心理学](https://research.seadice.win/motivation-before-action-research/): やる気を待たず先に行動する治療法が、本格的な心理療法と同等以上の効果を示すことを4つの研究から確認した。
-- [夜型の人ほど先延ばししやすいのはなぜ？ 体内時計・睡眠・自制心の研究で調べた](https://research.seadice.win/night-owl-procrastination-why-research/): 夜型ほど先延ばしが多い関係は各国の調査で見られます。自制心の低さ、寝不足、未来の自分を遠く感じることが関わると考えられています。
-- [完璧主義は先延ばしを悪化させるのか。研究でわかった「危ない完璧主義」の正体](https://research.seadice.win/perfectionism-procrastination-research/): 評価を気にする完璧主義だけが先延ばしと関連し、自分の基準を追う完璧主義は関連しなかったことを複数の研究から確認した。
-- [作業しようとすると、ついスマホを見て先延ばししてしまう。スマホから離れるやり方を研究で調べた](https://research.seadice.win/phone-escape-procrastination-disconnect-how-research/): スマホそのもの・アプリ・通知などの機能から離れた時間ほど先延ばしが少なかった研究から、作業前の離れ方と続け方を整理。
-- [ポモドーロ・テクニックは先延ばしに効く？「25分集中・5分休憩」を比べた実験でわかったこと](https://research.seadice.win/pomodoro-technique-procrastination-research/): ポモドーロ（25分作業＋5分休憩）は先延ばしに効く？ 休み方を比べた3つの実験と先延ばし治療のまとめから、効くことと根拠がないことを整理。
-- [何をしても先延ばしが直らない。ADHDかもと思ったら？ 不注意と先延ばしの研究でわかったこと](https://research.seadice.win/procrastination-adhd-worry-inattention-recovery-research/): 不注意が強い人ほど先延ばしが多い傾向はありますが、先延ばしだけでADHDとは言えません。先延ばしの型の見分け方と相談の目安を研究で整理。
-- [気が重くて後回しにしている作業に、どう手をつける？ 「避けたい理由・やる得・小さな一歩とごほうび」を書く7つの質問の研究](https://research.seadice.win/procrastination-dread-benefit-subtask-reward-how-research/): 避けたい理由・やる得・すぐ終わる一歩・ごほうびを書く7つの質問で、1,035人の「24時間以内にやる見込み」が上がった。嫌さは減らず、上がったのはやる価値。
-- [先延ばしは「意志が弱い」からじゃない。感情の研究でわかったこと](https://research.seadice.win/procrastination-emotion-regulation/): 先延ばしは意志力ではなく感情調整の失敗という研究を紹介。638人の分析などから、今日からできる一歩も解説。
-- [先延ばしぐせは生まれつきなのか。双子研究と改善の研究でわかったこと](https://research.seadice.win/procrastination-genetics-change-research/): 先延ばしのしやすさの約46%は遺伝の影響だったが、8週間の認知行動療法で大きく改善した研究もある。生まれつきでも変えられる。
-- [先延ばしで失敗した後、どう振り返れば次は動ける？「もし〜していたら」の研究でわかった振り返り方](https://research.seadice.win/procrastination-if-only-reflection-research/): 「もっと悪くなったかも」で済ませず、変えられる一手を「もし〜していたら」で1つ書き、同じ言葉で「次は〜する」に言い換える。反実仮想の研究4本から整理。
-- [先延ばしして締め切り前日になってしまったら、徹夜で取り返す？ 寝不足と作業の質の研究でわかった立て直し方](https://research.seadice.win/procrastination-night-before-all-nighter-recovery-research/): 先延ばしして締め切りが明日に。徹夜すべき？ 24時間起きていた学生は成績が下がったのに、自分の出来を高く見積もっていました。出せる範囲と寝る時刻を先に決めます。
-- [先延ばししてしまった後、どう立て直す？ 自分を責めるより「許す」が効く理由を研究で調べた](https://research.seadice.win/procrastination-self-forgiveness-recovery-research/): 先延ばしした自分を許した人ほど次の先延ばしが少なかった。306人の追跡研究などから、自己嫌悪の後の立て直し方を整理。
-- [自分で対策しても先延ばしが直らないときは？ 先延ばしを減らすプログラムの研究でわかったこと](https://research.seadice.win/procrastination-self-help-not-working-research/): 1回のアドバイスでは差が出ず、数週間かけるオンラインのプログラムで先延ばしが減り、6か月後も続いた。続ける仕組みが鍵。
-- [先延ばしで迷惑をかけた後、恥ずかしくてさらに避けてしまうのはなぜ？「恥」と「罪悪感」の研究でわかった立て直し方](https://research.seadice.win/procrastination-shame-avoidance-guilt-recovery-research/): 自分全体を責める「恥」は回避と、行動を悔やむ「罪悪感」は償いと結びつく。失敗を直せるものと捉えれば恥でも前向きに動ける。
-- [嫌な気分で作業に手がつかないときは？ 気持ちを「受け止めて、耐えて、変える」練習で先延ばしが減った研究](https://research.seadice.win/procrastination-unpleasant-feelings-emotion-skills-research/): 大学生148人の実験で、9週間の感情調整の練習を受けたグループは先延ばしの自己評価が待機グループより下がった。限界もあわせて紹介。
-- [大事な作業の前に、すぐ終わる用事から片づけてしまうのはなぜ？「早く終わらせたい」心理（プレクラスティネーション）を研究で調べた](https://research.seadice.win/quick-chores-first-precrastination-why-research/): 大事な作業より、すぐ終わる用事を先に片づけてしまうのはなぜ？頭の「やることリスト」を減らしたい傾向（プレクラスティネーション）の研究で整理。
-- [返信を先延ばしして気まずくなったら？ 久しぶりの連絡が「思ったより喜ばれる」研究と、送り出すコツ](https://research.seadice.win/reply-procrastination-reach-out-awkward-research/): 返信を先延ばしして気まずくなったら？ 相手は予想より喜ぶという研究と、先に気軽な相手へ2〜3通送って手を慣らす方法を整理。
-- [「自分で締め切りを決めれば先延ばしは減る」は本当？ 有名な実験の撤回と追試でわかったこと](https://research.seadice.win/self-imposed-deadline-procrastination-research/): 自分で決めた締め切りが効くと示した2002年の実験は2026年に撤回。追試では締め切りの置き方による差はごくわずかでした。
-- [先延ばしを減らすには、始める時刻まで決める？「いつ・どこで」を決める計画を研究で調べた](https://research.seadice.win/start-time-plan-procrastination-research/): 始める日付と時刻・場所まで決めると実行されやすい。時刻まで書くと4.0ポイント上がり、予定の詰め込みは効かなかった。
-- [ストレスが多い時期に先延ばしが止まらないときは？ ストレスと先延ばしの研究でわかった立て直し方](https://research.seadice.win/stressful-period-procrastination-recovery-research/): 忙しい時期の先延ばしは、ストレスで気持ちに対処する余力が減るため。自分を責めず、小さな一歩と睡眠から立て直す順番を4本の研究で整理。
-- [作業時間はどう見積もればずれにくい？ 予定より遅れる「計画の誤り」を研究で調べた](https://research.seadice.win/task-time-estimate-planning-fallacy-research/): 見積もりが外れる一因は、過去の所要時間を短めに覚える記憶のくせ。実際の時間の記録を見て予測すると、3つの実験で正確さが上がった。
-- [時間管理術は先延ばしに効く？ 予定表や優先順位づけの研究でわかったこと](https://research.seadice.win/time-management-procrastination-research/): 時間管理の研修で先延ばしや心配が減った研究がある一方、成果は変わらず、気持ちのケアと差がない研究も。少し効くが単独では不十分。
-- [疲れた日の夕方ほど、やるべきことを後回しにするのはなぜ？ 頭の疲れと先延ばしの研究で調べた](https://research.seadice.win/tired-evening-procrastination-why-research/): 頭を使い続けると、手間が重く見え、目先の楽を選びやすくなる。約6時間の作業の実験や先延ばしのメタ分析から、夕方に後回しが増える理由を整理。
-- [ToDoリストは先延ばしを減らすのか。研究でわかった「書き方」の違い](https://research.seadice.win/todo-list-reduce-procrastination-research/): 具体的な計画を書くほど目標達成率が上がり、終わらない用事の「頭に残る」感覚も弱まる。ただし先延ばし自体を減らす効果は小〜中程度。
-- [やることがぼんやりしていると、なぜ手がつかない？「抽象的に考えると後回しにする」仕組みを研究で調べた](https://research.seadice.win/vague-task-procrastination-why-research/): 「なぜするか」で考えると作業は「先のこと」に感じやすい。具体的に考えるよう促された人ほど、3週間以内の課題を早く返した（3つの実験）。
-- [サイトやアプリをブロックするツールは先延ばしに効く？ 職場実験とスマホのブロックアプリの研究で確かめた](https://research.seadice.win/website-blocker-app-procrastination-research/): 32人の職場実験ではブロック中の集中・生産性評価が上がり、2週間のスマホブロックでは91%が改善。ただし守れた人は4人に1人ほどでした。
-- [「疲れた日は意志力が残っていないから、先延ばしは仕方ない」は本当？ 意志力の研究で調べた](https://research.seadice.win/willpower-limited-belief-procrastination-research/): 「意志力は使うと減る」は23・36研究室の追試でほぼゼロ。限られていると信じる学生ほど試験前に先延ばしが多かった。短く休んで小さく再開を。
-- [後回しにしている作業に手をつけるには？「願い・結果・障害・計画」の4ステップ（WOOP）を研究で調べた](https://research.seadice.win/woop-obstacle-plan-procrastination-how-research/): WOOPは24件の研究のまとめで小〜中程度の効果（g＝0.336）。効いたのは障害が自分で対処できるとき。毎日くり返すほうが先延ばしが少なかった。
-- [「追い込まれた方がはかどる」は本当？ 先延ばしと成績・ストレスの研究で調べた](https://research.seadice.win/work-better-under-pressure-procrastination-research/): 33件の研究では先延ばしする人ほど成績がやや低かった。初めは楽でも学期末にストレスと体調不良が増えた研究もある。
-
-### 気分・ストレス
-
-- [イライラや不安に「名前をつける」と落ち着く？ 気持ちを言葉にするやり方を研究で調べた](https://research.seadice.win/affect-labeling-name-your-feelings-research/): 気持ちを言葉にすると、苦痛や体の恐怖反応が弱まった実験がある。気持ちの言葉を打ち込むだけでは嫌な気分が強まった報告も。
-- [イライラした瞬間、怒りを落ち着かせるには？「一歩引いて眺める」やり方を研究で調べた](https://research.seadice.win/anger-calm-down-self-distancing-research/): カッとしたら長く息を吐き、場面を離れた場所から眺め、自分を名前で呼んで問いかける。発散は効かなかった154件の分析などで整理。
-- [怒りを紙に書いて捨てると、気持ちは収まるのか。研究でわかった「捨てる」効果](https://research.seadice.win/anger-write-and-discard-paper/): 怒りを書いた紙を捨てると、怒りは侮辱される前の水準まで下がった。叩く・走るなど興奮を高める発散には効果がなかった。
-- [暗いニュースを見続けて不安になったら？ ニュースと気分の研究でわかった立て直し方](https://research.seadice.win/bad-news-anxiety-doomscrolling-recovery-research/): 暗いニュースは数分でも気分を下げ、自分の心配まで大きく見せる。気をそらすより15分のリラックス法で戻った研究と、見る時間の決め方。
-- [落ち込んで何もしたくない日、気分を上げるには？「行動活性化」の研究でわかった、気分より先に動くやり方](https://research.seadice.win/behavioral-activation-low-mood-steps-research/): 気分が戻るのを待たず、小さな活動を先に予定に入れる。行動活性化は軽い落ち込みの人の幸福感も中くらいの大きさで高めた。
-- [「最高の未来の自分」を書くと気分は上がる？ 研究で使われた15分のやり方と効果の大きさ](https://research.seadice.win/best-possible-self-writing-mood-research/): うまくいった数年後の自分を書いて思い浮かべるワークは、29件の分析で前向きな気分と楽観性を高めた。いやな気分を減らす効果ははっきりしない。
-- [失恋から立ち直れないときは？ 元恋人のSNSを見ない・気をそらす・書きすぎない、研究でわかった立て直し方](https://research.seadice.win/breakup-heartbreak-recovery-research/): 失恋から立ち直れないときは？ 元恋人のSNSを見るほどつらさが強く、気をそらすと気分が上がる研究があります。考え込みやすい人は書きすぎに注意です。
-- [冷たいシャワーで気分は上がるのか？研究でわかった本当のところ](https://research.seadice.win/cold-shower-mood-boost/): 3000人超の実験と11件のRCTのメタ分析から、冷たいシャワーが気分に与える効果の大きさと限界を確認した。
-- [泣くと気持ちは軽くなるのか。「泣いた直後」と「90分後」で違った研究](https://research.seadice.win/crying-mood-relief-research/): 泣いた直後は気分が下がるが、90分後には泣く前より良くなっていた。泣いた後に支えがあると、すっきりしやすかった。
-- [ストレスがたまったら、犬とふれあうと落ち着く？ 何分・どうふれあえばいいかを研究で調べた](https://research.seadice.win/dog-interaction-stress-relief-how-research/): 犬とふれあうとストレスと不安が下がることが大学生の試験15件で示された。10分前後でも効果があり、なでる・そばに座るなどふれあい方は自由。
-- [人前で恥ずかしい失敗をした後、どう立て直す？「思ったほど見られていない」研究でわかったこと](https://research.seadice.win/embarrassing-mistake-spotlight-effect-recovery-research/): 人は自分の失敗が気づかれる度合いも、厳しく見られる度合いも実際より大きく見積もる。見積もりを直す立て直し方。
-- [人の機嫌がうつってしまうのはなぜ？ 表情・声・ストレスが伝わる「感情の伝染」を研究で調べた](https://research.seadice.win/emotional-contagion-others-mood-why-research/): 人のストレスを見ていただけの211人のうち26%でストレスホルモンが上昇（相手がパートナーだと40%）。機嫌がうつる仕組みを解説。
-- [運動したのに気分が上がらない、かえってつらかったら？ 運動の強さと気分の研究でわかった立て直し方](https://research.seadice.win/exercise-felt-worse-mood-intensity-recovery-research/): 運動で気分が下がる主な原因は強さ。話せないほどの強さでは多くの人で不快が増えた。次は会話できるペースに落とし、途中の気分を−5〜+5で確かめながら自分で強さを選ぶ。
-- [つらい気持ちを紙に書き出すと、気分は軽くなるのか。「筆記開示」の研究](https://research.seadice.win/expressive-writing-mood-research/): 気持ちを書き出す効果は146件の分析で小さいながら確認された一方、うつ症状への効果ははっきりせず、書き方で結果が変わっていた。
-- [作り笑いでも気分は上がるのか。138件の研究から読み解く笑顔の効果](https://research.seadice.win/fake-smile-mood-facial-feedback/): 138件の研究の分析と再現実験から、作り笑いが気分に与える効果の大きさと、効きやすい笑い方を確認した。
-- [感謝日記で幸福感は上がるのか。24,804人のデータでわかった効果の大きさ](https://research.seadice.win/gratitude-journal-happiness-effect-size/): 145件・24,804人の最新メタ分析などから、感謝を書き出す習慣が幸福感に与える効果の大きさと限界を確認した。
-- [お腹がすくとイライラするのはなぜ？「hangry（空腹で不機嫌）」の研究でわかった仕組み](https://research.seadice.win/hangry-hunger-irritability-why-research/): 空腹でイライラする「hangry」は、64人を21日間追った研究でも確認。血糖値だけでなく、空腹の不快さを周りへの怒りと取り違えることが一因と考えられている。
-- [暑い日にイライラしやすいのはなぜ？ 暑さと気分の研究で調べた](https://research.seadice.win/hot-day-irritability-heat-mood-why-research/): 30℃を超える部屋ではいら立ちや疲れが強まった。5か国1,636人の実験とSNS投稿35億件の分析から、暑さで気分が下がる仕組みを解説。
-- [HSP（繊細さん）は本当にいる？ 敏感さの研究でわかったこと・まだわからないこと](https://research.seadice.win/hsp-highly-sensitive-person-research/): HSPは診断名ではなく、誰にでもある敏感さの程度の差。日本の大学生では敏感さが高い人が26.8%。3つの面と、心の調子がよい人の対処法。
-- [無視された・仲間外れにされて落ち込んだら？「のけ者にされる」つらさからの立て直し方を研究で調べた](https://research.seadice.win/left-out-ignored-ostracism-recovery-research/): 短い無視でも心は大きく傷つきます。理由を「たまたま」と受け止める、今に注意を向ける、別の人とつながる。立ち直りを早めた実験を整理。
-- [好きな音楽を聴くとストレスホルモンは下がるのか。104件の研究でわかったこと](https://research.seadice.win/music-cortisol-stress-research/): 音楽とコルチゾールの関係を、104件のRCTのメタ分析と手術前後・コンサート・日常生活の研究から確認する
-- [自然の中で過ごすとストレスは下がるのか。4つの研究でわかった「20〜30分」の目安](https://research.seadice.win/nature-time-stress-reduction/): 143件の研究をまとめた分析や8週間の実験から、自然の中で過ごすとストレスホルモンが下がる効果と目安の時間を確認した。
-- [嫌な出来事ほど強く記憶に残るのはなぜ？ 脳の「ネガティビティ・バイアス」を研究で調べた](https://research.seadice.win/negative-events-memory-why-research/): 脳は悪い情報を強く処理し、細部まで覚えやすい。ただし10の文化562人の研究では、嫌な記憶のつらさは良い記憶より早く薄れていた。
-- [緊張する本番の前は「落ち着こう」より「わくわくしてきた」？ 不安の言い換えの研究でわかったやり方](https://research.seadice.win/nervous-before-performance-say-excited-research/): ドキドキは静めるより「わくわく」と言い換えると、気持ちと出来が上向いた。5,638人のまとめでは効果は小さく、補正後はさらに下がる。
-- [小さなことでも夜になると不安が大きくなるのはなぜ？ 体内時計と夜の考えごとを研究で調べた](https://research.seadice.win/night-worry-feels-bigger-why-research/): 夜中は体内時計で気分が底になる時間帯（午前3時ごろ）。暗く静かな寝室は心配に注意が向きやすく、心配の91.4%は実際には起きなかった記録も。
-- [オンライン会議のあと、どっと疲れるのはなぜ？「Zoom疲れ」の仕組みを研究で調べた](https://research.seadice.win/online-meeting-fatigue-why-research/): 画面越しの会議は脳が疲れやすく、自分の顔の表示や会議の多さが疲れを足す。ただ最近の調査では差がない結果も。
-- [ポジティブ思考は逆効果になることがあるのか。研究でわかった「空想」の代償](https://research.seadice.win/positive-thinking-backfire-research/): 望む未来を先取りして空想するほど努力やエネルギーが下がるという研究や、幸せを意識しすぎると幸福感が下がる研究を整理した。
-- [前向きに考えようとして、かえって落ち込んだら？「嫌な気持ちを受け入れる」ほうが楽になる理由を研究で調べた](https://research.seadice.win/positive-thinking-felt-worse-acceptance-research/): 前向きに考えようとして落ち込んだら？ 嫌な考えを押し込めると戻りやすく、気持ちを受け入れる人ほど落ち込みにくい研究から立て直し方を整理。
-- [ストレスで体がこわばるときは？ 力を入れて抜く「漸進的筋弛緩法」のやり方と時間を研究で調べた](https://research.seadice.win/progressive-muscle-relaxation-stress-steps-research/): 約5秒力を入れて10秒かけて抜く。大学生60人の実験で20分後にリラックス感が上がり、46件の研究でもストレス軽減の報告が多い。
-- [雨の日や曇りの日に気分が沈むのはなぜ？ 天気と気分の研究でわかった「日の光」と「人による違い」](https://research.seadice.win/rainy-day-low-mood-weather-why-research/): 天気の影響は平均すると小さいものの、日の光が減るとだるくなり、雨の日に特に気分が下がる人もいます。1,233人の日記研究などから仕組みを解説。
-- [深呼吸や瞑想で、かえって不安になったら？ リラックス法が合わないときの立て直し方を研究で調べた](https://research.seadice.win/relaxation-meditation-anxiety-backfire-research/): 瞑想経験者の27.0%が不安を経験。多くは一時的で、無理に続けず、やり方を変える・時間を減らすのが立て直しの基本。
-- [休んだのに疲れやストレスが抜けないのはなぜ？ 休み方の立て直し方を研究で調べた](https://research.seadice.win/rest-not-recovering-stress-research/): 休み中に仕事から頭が離れている人ほど疲れが少ない。休暇の効果は仕事に戻ると薄れやすく、頭を切り離す力は練習で伸ばせる。
-- [楽しい時間を「味わう」と気分は上がる？ 良いことをじっくり味わうセイバリングのやり方を研究で調べた](https://research.seadice.win/savoring-good-moments-mood-how-research/): 良いことに注意を向けて味わうセイバリングは、20件4,805人のまとめで気分が中くらい改善。今を味わうコツと1日5分の手順。
-- [自分に厳しくするほど早く立ち直れる、は本当か。90人の実験でわかったこと](https://research.seadice.win/self-compassion-recovery-speed/): 自分を責めても早く立ち直れるとは限らない。90人の実験や494人の調査から、自分への思いやりと立ち直りの関係を調べた。
-- [音や光がつらい感覚過敏、自分でできる対策は？ 6つの研究でわかったこと](https://research.seadice.win/sensory-overload-self-care-research/): 聴覚過敏は一般の人の0.2〜17.2%。イヤーマフは子どもの困りごとを減らしたが、耳栓で遮り続けると音に敏感になる方向に変わった。
-- [運動は何分から気分が上がる？研究でわかった「短くても効く」根拠](https://research.seadice.win/short-exercise-mood-boost/): 1万3000人超のデータと5分の散歩の実験から、短時間の運動でも気分が上がることを解説。
-- [寝不足だとイライラしやすいのはなぜか。睡眠不足と怒りの研究](https://research.seadice.win/sleep-loss-anger-irritability/): 2日間睡眠を減らすだけで怒りは強まり、睡眠不足は前向きな気分を減らし不安を増やしていた。イライラは性格より睡眠の問題かもしれない。
-- [深呼吸でストレスは本当に下がるのか。「長く吐く呼吸」の研究](https://research.seadice.win/slow-breathing-stress-research/): 呼吸法はストレスを小〜中程度下げ、1日5分の「長く吐く呼吸」は瞑想より気分を改善した。ただし研究の質には限界もある。
-- [気分が沈む日に、小さな親切で気分は上がる？ 親切と幸福感の研究でわかったやり方](https://research.seadice.win/small-acts-of-kindness-mood-how-research/): 683人の7日間の実験で小さな親切は幸福感を上げ、6週間の実験では自分へのごほうびより人への親切が効いた。効果は控えめ（相関0.13）。
-- [SNSを眺めて人と比べ、落ち込んだら？「うらやましさ」からの立て直し方を研究で調べた](https://research.seadice.win/sns-comparison-felt-worse-recovery-research/): SNSを眺めて比べると落ち込むことはあるが研究結果はそろわず人によって違う。うらやましさを望みに変える立て直し方を整理。
-- [SNSをやめると幸福度は上がるのか。「やめる期間」で変わった研究](https://research.seadice.win/social-media-break-wellbeing/): 1週間以上SNSをやめると幸福感が上がり、うつや不安が下がった。1週間未満だとかえって悪化しており、期間が大切だった。
-- [ひとりの時間は心を回復させるのか。研究でわかった条件](https://research.seadice.win/solitude-affective-restoration/): 一人の時間は高ぶった感情を落ち着かせ、自分で選んだ場合はリラックスにもつながる一方、10代前半では一人の時間が少なすぎても多すぎても適応が良くない傾向があることを複数の研究から確認した。
-- [嫌なことが頭から離れないとき、どう立て直す？「反芻」から抜け出す方法を研究で調べた](https://research.seadice.win/stop-ruminating-after-bad-day-research/): 嫌なことを考え続けると気分は悪化しやすい。短い気晴らし、自分を外から眺める振り返り、考える時間を後に決める方法に効果の報告がある。
-- [人と話すと気分は上がるのか。知らない人との短い会話の研究](https://research.seadice.win/stranger-small-talk-mood-research/): 電車やカフェでの一言、オンラインの30分間会話まで。話しかけると気まずくなるという予想は、研究ではくり返し外れている。
-- [日曜の夜になると憂うつになるのはなぜ？「明日のこと」を考える脳の仕組みを研究で調べた](https://research.seadice.win/sunday-night-blues-why-research/): 日曜の夜の憂うつは、月曜を頭の中で先取りする心配から。心配は出来事の前から体のストレス反応を長引かせ、平日の朝はストレスホルモンが週末より高い。
-- [背筋を伸ばすと気分は上向くのか。姿勢とストレスの研究](https://research.seadice.win/upright-posture-mood-research/): 背筋を伸ばすと、ストレスの中でも気分や自尊心が保たれやすかった。一方、パワーポーズでホルモンが変わる効果は再現されなかった。
-- [友人に弱音を吐くとストレスは軽くなるのか。「打ち明けること」を研究で調べた](https://research.seadice.win/venting-to-friends-corumination-research/): 話すこと自体には小さな前向き効果があるが、同じ話をくり返す「共同反芻」はうつ・不安の症状と関連する。27,794人のメタ分析でもうつ症状との関連を確認。
-- [結果を待つ時間がいちばんつらいのはなぜ？「どうなるかわからない」不確かさとストレスの研究で調べた](https://research.seadice.win/waiting-for-results-anxiety-uncertainty-why-research/): 痛みが来る確率が五分五分のときにストレスが最も高かった45人の実験と、痛みを待つより早く済ませたがる人が多かった実験からわかった、結果待ちがつらい仕組み。
-- [冬になると気分が落ち込むのはなぜ？ 日の短さと体内時計、「冬季うつ」の研究で調べた](https://research.seadice.win/winter-low-mood-seasonal-why-research/): 日の光が減る冬に脳のセロトニンや体内時計が変わる研究と、冬季うつは約5%で人により大きく違うことを整理。
-- [心配ごとが頭から離れないときは「心配する時間」を決める？ 心配の先送りの研究でわかったやり方](https://research.seadice.win/worry-time-postponement-how-research/): 毎日30分の「心配タイム」に心配を先送りすると、53人の実験で心配と不安が減少。オンラインで指示だけでは効果がなかった研究も含めて整理。
-
 ### 記憶・学習
 
 - [徹夜で覚えたのに思い出せないときは？ 睡眠と「学び直し」の研究でわかった立て直し方](https://research.seadice.win/all-nighter-study-forgot-recovery-research/): 徹夜明けは覚える力が落ちる。まず眠り、起きてから思い出す練習で学び直す。眠りをはさむと学び直しの練習量が半分になった実験がある。
@@ -354,6 +209,152 @@
 - [在宅勤務で集中できない日が続いたら？ 85の工夫を比べた研究でわかった立て直し方](https://research.seadice.win/wfh-focus-slump-recovery-research/): 在宅勤務の85の工夫を548人で比べた研究では、別室や仕事着より、目標・時間の区切り・人とのつながりが仕事の出来と結びついていた。
 - [ホワイトノイズで集中できるのか。「人によって逆になる」研究](https://research.seadice.win/white-noise-focus-research/): ホワイトノイズは気が散りやすい人には小さな効果があったが、そうでない人には逆効果だった。合うかどうかは人によって違う。
 - [心配ごとがあると集中できないのはなぜ？ 不安が「頭の作業スペース」を使ってしまう仕組みを研究で調べた](https://research.seadice.win/worry-cant-concentrate-why-research/): 心配ごとがあると集中できないのは、心配が頭の作業スペース（ワーキングメモリ）を使うため。メタ分析と実験から仕組みを整理。
+
+### 先延ばし
+
+- [AIチャットに相談すると先延ばしは減る？ ChatGPTと人のコーチを比べた試験でわかったこと](https://research.seadice.win/ai-chatbot-procrastination-research/): AIが人のコーチより効くという結果は出ていない。相談だけで終わらせず、手順と始める時刻まで決めるのが大事。
+- [早く寝ると決めたのに、また夜ふかし。寝る時間の先延ばしが何度もくり返すときは？ 研究でわかった立て直し方](https://research.seadice.win/bedtime-procrastination-cant-stop-recovery-research/): 寝る時間の先延ばしは理由で3タイプに分かれます。遅く寝た分は寝坊で戻らず、理由のメモと毎晩の就寝計画が立て直しの手がかりです。
+- [退屈で後回しにしている作業は、「誰の役に立つか」を書くと手をつけやすい？ 意味づけの研究でわかったやり方と注意点](https://research.seadice.win/boring-task-purpose-procrastination-research/): 退屈な作業は「誰かの役に立つ理由」を書くと続けやすくなる。429人の実験で36%多く解いたが、効果は条件しだい。
+- [先延ばししている大きな作業は、どう細かく分ければ手をつけられる？ 研究でわかった分け方と注意点](https://research.seadice.win/break-task-small-steps-procrastination-research/): 避けている理由や良いことを書き、簡単な最初の一歩と分数、ご褒美を決めると、取りかかる見込みが少し上がった。区切った締め切りの有名な研究は撤回済み。
+- [決められずに先延ばししてしまうのはなぜ？「選べない」「後悔したくない」決断の保留を研究で調べた](https://research.seadice.win/cant-decide-postpone-decision-why-research/): 締め切りの余裕・選びにくさ・迷いやすさで決断の保留が増える研究と、保留しても後悔が減るとは限らないことを整理。
+- [運動すると先延ばしは減る？ 43研究のまとめと12週間の試験でわかった「運動と先延ばし」の関係](https://research.seadice.win/exercise-procrastination-research/): 43研究のまとめでは、よく運動する人ほど先延ばしが少なかった（r=−0.25）。ただ運動で減ると確かめた試験は1つで、運動しない組との比較はない。
+- [締め切りが先だと、なぜ手をつけられない？「あとでやる方が楽に見える」脳の仕組みを研究で調べた](https://research.seadice.win/far-deadline-procrastination-why-research/): 脳は遠いごほうびを小さく、あとでやる苦労を軽く見積もる。51人の脳と109日間の課題の研究から解説。
+- [「未来の自分」を身近に感じると先延ばしは減る？ 研究でわかった、未来の自分の思い浮かべ方](https://research.seadice.win/future-self-procrastination-how-research/): 未来の自分を身近に感じる人ほど先延ばしは少ない。具体的に想像する練習は先の得を選ぶ判断を後押ししたが、先延ばしが減るとまでは未確認。
+- [誰かと一緒にやれば先延ばしは減る？ グループ作業の実験でわかった「自分が欠かせない」の条件](https://research.seadice.win/group-work-procrastination-research/): 一緒にやるだけでは減らない。自分の分が欠けるとチームが困る形でだけ先延ばしが少なめだったが、効果は小さく作業前のいやな気持ちは増えた。
+- [健診や病院の予約を先延ばしし続けてしまったら？「日時を書く」計画の研究でわかった立て直し方](https://research.seadice.win/health-checkup-appointment-procrastination-recovery-research/): 予約の日時と場所を自分で書いた人は受診率92%、書かない人は69%。ただ用意された計画文を読むだけでは2万人超の検診で効果なし。今日、日時を1つ書くのが立て直しの一歩。
+- [やるつもりはあるのに、なぜ手をつけられない？「予定」と「実行」のすき間を研究で調べた](https://research.seadice.win/intend-but-dont-start-procrastination-why-research/): 先延ばしする人も予定は人並み以上に立てていた（大学生171人）。ずれは先の予定ほど、誘惑が近く気力がないほど大きくなる。
+- [「できる気がしない」作業ほど後回しにするのはなぜ？「自己効力感」と先延ばしの研究で調べた](https://research.seadice.win/low-confidence-task-procrastination-why-research/): 「自分にできる」見込みが低いほど先延ばしは多い。ただし3,071人の追跡では向きは不明で、心の疲れが先に来ていた。
+- [マインドフルネス瞑想は先延ばしに効く？ 1万4,000人のメタ分析と試験でわかった「つながり」と「効果」の差](https://research.seadice.win/mindfulness-meditation-procrastination-research/): 瞑想で先延ばしは減る？ マインドフルネスな人ほど先延ばしが少ないのは確かですが、瞑想を習って減るかは試験で割れています。
+- [締め切りに遅れそう・遅れてしまったら、どう立て直す？「延長のお願い」と謝り方の研究](https://research.seadice.win/missed-deadline-ask-extension-apology-research/): 人は頼みごとを断られる確率を高く見積もりがち。早めに伝え、言い訳より謝り、新しい期限を示す立て直し方を研究で整理。
+- [「やる気が出たらやる」は逆効果なのか。研究でわかった『行動が先』の心理学](https://research.seadice.win/motivation-before-action-research/): やる気を待たず先に行動する治療法が、本格的な心理療法と同等以上の効果を示すことを4つの研究から確認した。
+- [夜型の人ほど先延ばししやすいのはなぜ？ 体内時計・睡眠・自制心の研究で調べた](https://research.seadice.win/night-owl-procrastination-why-research/): 夜型ほど先延ばしが多い関係は各国の調査で見られます。自制心の低さ、寝不足、未来の自分を遠く感じることが関わると考えられています。
+- [完璧主義は先延ばしを悪化させるのか。研究でわかった「危ない完璧主義」の正体](https://research.seadice.win/perfectionism-procrastination-research/): 評価を気にする完璧主義だけが先延ばしと関連し、自分の基準を追う完璧主義は関連しなかったことを複数の研究から確認した。
+- [作業しようとすると、ついスマホを見て先延ばししてしまう。スマホから離れるやり方を研究で調べた](https://research.seadice.win/phone-escape-procrastination-disconnect-how-research/): スマホそのもの・アプリ・通知などの機能から離れた時間ほど先延ばしが少なかった研究から、作業前の離れ方と続け方を整理。
+- [ポモドーロ・テクニックは先延ばしに効く？「25分集中・5分休憩」を比べた実験でわかったこと](https://research.seadice.win/pomodoro-technique-procrastination-research/): ポモドーロ（25分作業＋5分休憩）は先延ばしに効く？ 休み方を比べた3つの実験と先延ばし治療のまとめから、効くことと根拠がないことを整理。
+- [何をしても先延ばしが直らない。ADHDかもと思ったら？ 不注意と先延ばしの研究でわかったこと](https://research.seadice.win/procrastination-adhd-worry-inattention-recovery-research/): 不注意が強い人ほど先延ばしが多い傾向はありますが、先延ばしだけでADHDとは言えません。先延ばしの型の見分け方と相談の目安を研究で整理。
+- [気が重くて後回しにしている作業に、どう手をつける？ 「避けたい理由・やる得・小さな一歩とごほうび」を書く7つの質問の研究](https://research.seadice.win/procrastination-dread-benefit-subtask-reward-how-research/): 避けたい理由・やる得・すぐ終わる一歩・ごほうびを書く7つの質問で、1,035人の「24時間以内にやる見込み」が上がった。嫌さは減らず、上がったのはやる価値。
+- [先延ばしは「意志が弱い」からじゃない。感情の研究でわかったこと](https://research.seadice.win/procrastination-emotion-regulation/): 先延ばしは意志力ではなく感情調整の失敗という研究を紹介。638人の分析などから、今日からできる一歩も解説。
+- [先延ばしぐせは生まれつきなのか。双子研究と改善の研究でわかったこと](https://research.seadice.win/procrastination-genetics-change-research/): 先延ばしのしやすさの約46%は遺伝の影響だったが、8週間の認知行動療法で大きく改善した研究もある。生まれつきでも変えられる。
+- [先延ばしで失敗した後、どう振り返れば次は動ける？「もし〜していたら」の研究でわかった振り返り方](https://research.seadice.win/procrastination-if-only-reflection-research/): 「もっと悪くなったかも」で済ませず、変えられる一手を「もし〜していたら」で1つ書き、同じ言葉で「次は〜する」に言い換える。反実仮想の研究4本から整理。
+- [先延ばしして締め切り前日になってしまったら、徹夜で取り返す？ 寝不足と作業の質の研究でわかった立て直し方](https://research.seadice.win/procrastination-night-before-all-nighter-recovery-research/): 先延ばしして締め切りが明日に。徹夜すべき？ 24時間起きていた学生は成績が下がったのに、自分の出来を高く見積もっていました。出せる範囲と寝る時刻を先に決めます。
+- [先延ばししてしまった後、どう立て直す？ 自分を責めるより「許す」が効く理由を研究で調べた](https://research.seadice.win/procrastination-self-forgiveness-recovery-research/): 先延ばしした自分を許した人ほど次の先延ばしが少なかった。306人の追跡研究などから、自己嫌悪の後の立て直し方を整理。
+- [自分で対策しても先延ばしが直らないときは？ 先延ばしを減らすプログラムの研究でわかったこと](https://research.seadice.win/procrastination-self-help-not-working-research/): 1回のアドバイスでは差が出ず、数週間かけるオンラインのプログラムで先延ばしが減り、6か月後も続いた。続ける仕組みが鍵。
+- [先延ばしで迷惑をかけた後、恥ずかしくてさらに避けてしまうのはなぜ？「恥」と「罪悪感」の研究でわかった立て直し方](https://research.seadice.win/procrastination-shame-avoidance-guilt-recovery-research/): 自分全体を責める「恥」は回避と、行動を悔やむ「罪悪感」は償いと結びつく。失敗を直せるものと捉えれば恥でも前向きに動ける。
+- [嫌な気分で作業に手がつかないときは？ 気持ちを「受け止めて、耐えて、変える」練習で先延ばしが減った研究](https://research.seadice.win/procrastination-unpleasant-feelings-emotion-skills-research/): 大学生148人の実験で、9週間の感情調整の練習を受けたグループは先延ばしの自己評価が待機グループより下がった。限界もあわせて紹介。
+- [大事な作業の前に、すぐ終わる用事から片づけてしまうのはなぜ？「早く終わらせたい」心理（プレクラスティネーション）を研究で調べた](https://research.seadice.win/quick-chores-first-precrastination-why-research/): 大事な作業より、すぐ終わる用事を先に片づけてしまうのはなぜ？頭の「やることリスト」を減らしたい傾向（プレクラスティネーション）の研究で整理。
+- [返信を先延ばしして気まずくなったら？ 久しぶりの連絡が「思ったより喜ばれる」研究と、送り出すコツ](https://research.seadice.win/reply-procrastination-reach-out-awkward-research/): 返信を先延ばしして気まずくなったら？ 相手は予想より喜ぶという研究と、先に気軽な相手へ2〜3通送って手を慣らす方法を整理。
+- [「自分で締め切りを決めれば先延ばしは減る」は本当？ 有名な実験の撤回と追試でわかったこと](https://research.seadice.win/self-imposed-deadline-procrastination-research/): 自分で決めた締め切りが効くと示した2002年の実験は2026年に撤回。追試では締め切りの置き方による差はごくわずかでした。
+- [先延ばしを減らすには、始める時刻まで決める？「いつ・どこで」を決める計画を研究で調べた](https://research.seadice.win/start-time-plan-procrastination-research/): 始める日付と時刻・場所まで決めると実行されやすい。時刻まで書くと4.0ポイント上がり、予定の詰め込みは効かなかった。
+- [ストレスが多い時期に先延ばしが止まらないときは？ ストレスと先延ばしの研究でわかった立て直し方](https://research.seadice.win/stressful-period-procrastination-recovery-research/): 忙しい時期の先延ばしは、ストレスで気持ちに対処する余力が減るため。自分を責めず、小さな一歩と睡眠から立て直す順番を4本の研究で整理。
+- [作業時間はどう見積もればずれにくい？ 予定より遅れる「計画の誤り」を研究で調べた](https://research.seadice.win/task-time-estimate-planning-fallacy-research/): 見積もりが外れる一因は、過去の所要時間を短めに覚える記憶のくせ。実際の時間の記録を見て予測すると、3つの実験で正確さが上がった。
+- [時間管理術は先延ばしに効く？ 予定表や優先順位づけの研究でわかったこと](https://research.seadice.win/time-management-procrastination-research/): 時間管理の研修で先延ばしや心配が減った研究がある一方、成果は変わらず、気持ちのケアと差がない研究も。少し効くが単独では不十分。
+- [疲れた日の夕方ほど、やるべきことを後回しにするのはなぜ？ 頭の疲れと先延ばしの研究で調べた](https://research.seadice.win/tired-evening-procrastination-why-research/): 頭を使い続けると、手間が重く見え、目先の楽を選びやすくなる。約6時間の作業の実験や先延ばしのメタ分析から、夕方に後回しが増える理由を整理。
+- [ToDoリストは先延ばしを減らすのか。研究でわかった「書き方」の違い](https://research.seadice.win/todo-list-reduce-procrastination-research/): 具体的な計画を書くほど目標達成率が上がり、終わらない用事の「頭に残る」感覚も弱まる。ただし先延ばし自体を減らす効果は小〜中程度。
+- [やることがぼんやりしていると、なぜ手がつかない？「抽象的に考えると後回しにする」仕組みを研究で調べた](https://research.seadice.win/vague-task-procrastination-why-research/): 「なぜするか」で考えると作業は「先のこと」に感じやすい。具体的に考えるよう促された人ほど、3週間以内の課題を早く返した（3つの実験）。
+- [サイトやアプリをブロックするツールは先延ばしに効く？ 職場実験とスマホのブロックアプリの研究で確かめた](https://research.seadice.win/website-blocker-app-procrastination-research/): 32人の職場実験ではブロック中の集中・生産性評価が上がり、2週間のスマホブロックでは91%が改善。ただし守れた人は4人に1人ほどでした。
+- [「疲れた日は意志力が残っていないから、先延ばしは仕方ない」は本当？ 意志力の研究で調べた](https://research.seadice.win/willpower-limited-belief-procrastination-research/): 「意志力は使うと減る」は23・36研究室の追試でほぼゼロ。限られていると信じる学生ほど試験前に先延ばしが多かった。短く休んで小さく再開を。
+- [後回しにしている作業に手をつけるには？「願い・結果・障害・計画」の4ステップ（WOOP）を研究で調べた](https://research.seadice.win/woop-obstacle-plan-procrastination-how-research/): WOOPは24件の研究のまとめで小〜中程度の効果（g＝0.336）。効いたのは障害が自分で対処できるとき。毎日くり返すほうが先延ばしが少なかった。
+- [「追い込まれた方がはかどる」は本当？ 先延ばしと成績・ストレスの研究で調べた](https://research.seadice.win/work-better-under-pressure-procrastination-research/): 33件の研究では先延ばしする人ほど成績がやや低かった。初めは楽でも学期末にストレスと体調不良が増えた研究もある。
+
+### 習慣
+
+- [1回のミスで「もう全部やめたくなる」のはなぜ？「どうにでもなれ効果」の研究](https://research.seadice.win/all-or-nothing-diet-slip-research/): 「低カロリー」と伝えられても食事制限中の人は食べすぎ、失敗を自分のせいと決めつけるほど次の過食が早まった。4つの研究から確認。
+- [お金を賭けると習慣は続く？ 失敗したら没収される「コミットメント契約」の研究でわかったこと](https://research.seadice.win/commitment-contract-money-habit-research/): 自分のお金を預ける「コミットメント契約」で習慣は続く？ 申し込んだ人には効きやすい一方、選ぶ人が少なく、終了後の効果は割れる研究を整理。
+- [1日何歩歩けばいいのか。「1万歩」の根拠を研究で調べた](https://research.seadice.win/daily-steps-how-many-research/): 「1万歩」の根拠は弱く、60歳以上は6,000〜8,000歩、60歳未満は8,000〜1万歩で効果が頭打ちに。7,000歩でも十分な効果があった。
+- [誘惑を遠ざけると、やめやすくなるのか。「ひと手間」の研究](https://research.seadice.win/distance-temptation-self-control-research/): スナック菓子を20cmから70cmの位置に遠ざけると取る人が減り、24件の分析でも近さや選択肢の数を変える工夫で食べる量や選ぶ量が減った。
+- [運動の習慣が途切れてしまったら、どう再開する？ 中断と再開の研究でわかったこと](https://research.seadice.win/exercise-habit-lapse-restart-research/): 運動の中断はよくあること。1回休んでも習慣は崩れにくく、いつ・どこで運動するかの計画と「また戻れる」という自信が、続けられるかと関係していた。
+- [「やらされている」習慣が続かないのはなぜ？ 自分で選んだ理由（自律的な動機）と習慣の研究で調べた](https://research.seadice.win/forced-habit-autonomous-motivation-why-research/): 言われて始めた運動が続かないのはなぜ？ 66の研究のレビューで、自分で大事だと思える・楽しい理由の人ほど運動が続く傾向でした。
+- [新しい習慣はいつ始めると続きやすいのか。「フレッシュスタート効果」の研究](https://research.seadice.win/fresh-start-effect-habit-timing-research/): 老後資金の積立を増やす時期を誕生日や春の始まりなどの「節目」の日付で示す実験では、将来の積立を増やす人が約5割増え、その後8か月の積立も多かった。ただし環境配慮の買い物は新年でも増えず、万能ではないこともわかった。
+- [ポイントやバッジで習慣は続く？ ゲーム化（ゲーミフィケーション）の研究でわかった効き方と、終わった後](https://research.seadice.win/gamification-points-badges-habit-research/): 16試験のメタ分析でゲーム化は運動量を小〜中程度増やした。ただ終了後は弱まり、602人の試験で差が残ったのは競争の形だけだった。
+- [何度やっても続かない習慣は、やめてもいい？「目標を手放して、別の目標に向かう」研究でわかった立て直し方](https://research.seadice.win/give-up-habit-goal-disengagement-recovery-research/): 迷い続ける状態は心身の負担と結びつきます。手放す力より「別の目標に向かい直す力」が生活の質と強く関連。決め方と手放し方を研究で整理。
+- [目標を人に話すと叶いやすいのか。4つの研究でわかった「話し方」次第で結果が変わる理由](https://research.seadice.win/goal-sharing-achievement-research/): 目標を人に話すと達成しやすくなるのか。4つの研究から、告げ方や相手によって効果が正反対になることを確認した。
+- [良い習慣をがんばった日ほど「今日くらいいいか」と崩してしまうのはなぜ？ 自分に許可を出す心理の研究で調べた](https://research.seadice.win/good-habit-then-treat-self-licensing-why-research/): がんばった事実が「ゆるんでいい理由」になる。理由を思い浮かべた人ほど多く食べ、強い決意ほど崩れた。一方、前もって決めたゆるみは間食の少なさと結びついた。
+- [続けてきた習慣に飽きてしまったら？「飽き」と変化の研究でわかった立て直し方](https://research.seadice.win/habit-bored-variety-restart-research/): 飽きはふつうの反応。やめる前に中身を3通りに増やす。変化をつけた運動は6週間続きやすく、過去の変化を思い出すと飽きが和らいだ。
+- [習慣をやめるには何日かかるのか。研究でわかった「待てば消える」の限界](https://research.seadice.win/habit-break-days-research/): やめても「きっかけ→行動」の結びつきは残りうる。意志力が少ない時や強いストレスの後は、習慣的な行動が出やすいと研究は示す。
+- [連休や引っ越しのあと、習慣が崩れるのはなぜ？「きっかけ」が消える仕組みを研究で調べた](https://research.seadice.win/habit-breaks-after-change-why-research/): 習慣は場所や時間などのきっかけで動くため、環境が変わると止まりやすい。ジム会員1,210人の記録では休暇明けに通う回数が約12%落ち、戻らなかった。
+- [習慣をうっかり忘れる日が続いたら？ リマインダーと「きっかけ」の研究でわかった立て直し方](https://research.seadice.win/habit-forgetting-reminder-cue-research/): 忘れるのは意志の弱さだけでなく記憶の性質でも説明できる。通知で補い、いつもの行動か時刻に結びつけてくり返すと、習慣がリマインダーの役目を引き継ぐ（モデル研究）。
+- [「2分ルール」は本当に効くのか。習慣が身につくまでの日数を研究で調べた](https://research.seadice.win/habit-formation-two-minute-rule/): 習慣が身につくまでの日数は中央値で66日（人によって18〜254日）。シンプルな行動ほど早く定着すると研究でわかった。今日からの一歩も紹介。
+- [習慣ができない日が続いたら、目標は下げるべき？ 目標の調整の研究でわかった立て直し方](https://research.seadice.win/habit-goal-lower-after-missed-days-research/): 届かない目標は自信とやる気を下げる。直近9日の実績から目標を上げ下げする方法は、固定の目標より運動の落ち込みを抑えた。
+- [ご褒美より「意味づけ」が習慣を続けやすくするのか。研究で調べた](https://research.seadice.win/habit-meaning-vs-reward-research/): 297人を2か月追跡した研究で、「自分にとって大事」という理由を持つ人ほど運動が続いた。ご褒美より意味づけが効く可能性を研究で調べた。
+- [続けているのに効果が見えず、やめたくなったら？ 習慣を支える「満足」と「合格ライン」の研究でわかった立て直し方](https://research.seadice.win/habit-no-results-yet-want-to-quit-research/): 習慣ができるまでの中央値は59〜66日。続く人を支えたのは得たものへの満足で、やめる引き金は夢でなく高すぎる合格ラインだった。
+- [習慣のリマインダー通知を無視するようになったら？ 通知に慣れる研究でわかった立て直し方](https://research.seadice.win/habit-reminder-notification-ignored-recovery-research/): 同じ通知は数週間で効き目が薄れ、数が多いほど反応が下がる。通知を減らして変え、いつもの行動へきっかけを移す立て直し方。
+- [悪い習慣は「別の行動」に置き換えればやめられるのか。4つの研究でわかったこと](https://research.seadice.win/habit-replacement-competing-response-research/): 爪噛みや抜毛には置き換えで中程度の効果が確認された（d=0.54）が、喫煙や間食を別の楽しみに置き換える禁煙プログラムでは禁煙率に差がなかった。
+- [いつも同じ場所で行うと習慣は身につきやすいのか。4つの研究でわかった「場所」の効果](https://research.seadice.win/habit-same-place-context-research/): 118人・16週間の追跡や6週間の実験など4つの研究から、場所を一定にする効果と限界を確認する
+- [毎日同じ時間にできなくても、習慣は身につく？ 時間を固定しない人が続けるやり方を研究で調べた](https://research.seadice.win/habit-same-time-flexible-schedule-how-research/): 決めた時間だけに報酬を出すより、いつでも報酬を出すほうが運動が続いた2,508人の実験と、間を空けない・曜日をそろえる続け方。
+- [「歯みがきの後に」など今ある習慣にくっつけると、新しい習慣は身につく？ ハビットスタッキングを研究で調べた](https://research.seadice.win/habit-stacking-existing-routine-research/): 今ある行動にくっつけても時刻で決めても、習慣の身につき方に差はなかった。決め手は同じきっかけで毎回くり返すこと。
+- [習慣の連続記録が途切れてやる気が消えたら？ 記録が切れた後の研究でわかった立て直し方](https://research.seadice.win/habit-streak-broken-restart-research/): 連続記録が切れたと表示されるだけで意欲は下がるが、習慣は1日で消えない。合計回数で数え直し、24時間以内に小さく1回やる立て直し方。
+- [習慣を記録するだけで続けやすくなるのか。研究でわかった「書くだけ」の効果](https://research.seadice.win/habit-tracking-boosts-continuation/): 138件のメタ分析などから、記録するだけで目標達成率が上がる効果と、効果を強める記録の仕方を確認した。
+- [出張や旅行で習慣が崩れたら？ いつもの場所がない日と、帰ってからの立て直し方を研究で調べた](https://research.seadice.win/habit-travel-trip-disrupted-restart-research/): 旅行で習慣が止まったら？ 強い習慣ほど場所の変化で崩れます。旅先は小さく続け、帰ったら元の合図で毎日繰り返すのが近道です。
+- [習慣が続く人は「意志が強い」から？ 自制心の高い人ほど我慢せず習慣に任せていた研究](https://research.seadice.win/habit-willpower-self-control-research/): 102研究・3万2,648人のまとめでは、自制心は我慢より自動的な行動と強く結びついた。続く人の強みは「考えずに動ける習慣」だった。
+- [家族や友だちの習慣がうつるのはなぜ？ 食べ方や運動が人から人へ広がる仕組みを研究で調べた](https://research.seadice.win/habits-spread-from-people-around-why-research/): 人は周りの行動を無意識にまね、「ふつう」の目安を借りる。69実験の食事のレビュー、110万人のランナーの分析、「肥満がうつる」説への反論で整理。
+- [「もし〇〇したら△△する」と決めると習慣は続くのか。if-thenプランの研究](https://research.seadice.win/if-then-planning-habit-research/): 「いつ・どこで・何をするか」をif-thenで決めると、94件・8,461人分の分析で目標達成を後押しする中〜大の効果があった。
+- [新しい習慣は朝にやると身につきやすい？ 朝と夜を比べた実験と「毎日同じタイミング」の研究](https://research.seadice.win/morning-habit-time-of-day-research/): 朝のほうが早く身についた実験は48人の1本だけ。複数の研究が支えるのは、朝か夜かより毎日同じタイミングでやることでした。
+- [新しい習慣は1つずつ始めるべき？ いくつも同時に始めた人と、順番に始めた人を比べた研究でわかったこと](https://research.seadice.win/multiple-habits-at-once-research/): 同時と順番を直接比べた試験では差は小さく、どちらも何もしないより良い結果。禁煙など難しい行動は分けた方がよい可能性。
+- [新しい習慣が三日坊主で終わるのはなぜ？「やる気」と行動のすき間を研究で調べた](https://research.seadice.win/new-habit-three-day-quit-why-research/): 始めたばかりの行動は意志だけで動いていて、意志は行動に届きにくい。運動の研究では、やるつもりの人の約46%が実行できていなかった。
+- [用もないのに、ついスマホを開いてしまうのはなぜ？「チェック習慣」の仕組みを研究で調べた](https://research.seadice.win/phone-checking-habit-why-research/): すぐ手に入る新しい情報がごほうびになり、きっかけで手が動く習慣に。1日約85回は本人の見積もりの倍以上で、89%は通知なしだった。
+- [やめたはずの習慣が、しばらくしてぶり返すのはなぜ？「消えた」のではなく「抑えられていた」仕組みを研究で調べた](https://research.seadice.win/quit-habit-comes-back-relapse-why-research/): やめた行動は消えずに抑えられているだけ。場面・時間・一度の再開・置きかえの終わりで戻りやすく、人の実験では結果が分かれる例もある。
+- [禁煙に何度も失敗してしまった。また挑戦していい？ 成功までの回数と、次の挑戦を変える方法を研究で調べた](https://research.seadice.win/quit-smoking-failed-again-retry-research/): 禁煙に何度も失敗したら？ 成功までの挑戦は平均約30回という推計があります。失敗は最初の1週間に多く、相談と薬の組み合わせで成功が約1.8倍でした。
+- [小さなご褒美で習慣は続きやすくなる？「すぐ楽しい」の研究でわかった効き方と限界](https://research.seadice.win/small-rewards-habit-research/): 続くかを予測したのは先の結果より最中の楽しさ。ご褒美は期間中は効くが弱まりやすく、やめた後に残るかは研究で分かれる。
+- [やめたい間食ほど、決まった時間や場所で欲しくなるのはなぜ？「きっかけ」と食欲の学習を研究で調べた](https://research.seadice.win/snack-cravings-time-place-cue-why-research/): 食べた時間や場所が合図になり「食べたい」気持ちが学習される。毎日同じ時刻のチョコで15日後に欲しくなった実験など、仕組みと対策。
+- [疲れた日やストレスの日に、いつもの習慣に戻ってしまうのはなぜ？「考える行動」と「自動の行動」の研究で調べた](https://research.seadice.win/stress-tired-old-habits-why-research/): 疲れた日やストレスの日に悪い習慣へ戻るのはなぜ？考えて選ぶ力と自動の習慣の研究、そして結果が分かれた追試から仕組みを整理。
+- [やめようと我慢するほど、やりたくなるのはなぜ？「考えないようにする」と跳ね返る仕組みを研究で調べた](https://research.seadice.win/suppressing-urges-rebound-why-research/): 考えを押さえ込むと、あとで戻りやすい。チョコやたばこの実験と、効果が弱いとするメタ分析から解説。
+- [やめたい衝動は、待てば消えるのか。4つの研究でわかったこと](https://research.seadice.win/urge-surfing-craving-wave-research/): 衝動を波として観察する「衝動サーフィン」。衝動の強さ自体は対照群と差がなかったが、その後7日間の喫煙本数には有意な差が出た。
+- [スマートウォッチや活動量計をつけると、運動習慣は続く？ 増える歩数と、手放す時期を研究で調べた](https://research.seadice.win/wearable-activity-tracker-habit-research/): 活動量計で運動は1日約1800歩増える目安。ただ端末だけでは差が出ない試験もあり、320日後も使う人は16%でした。
+- [深呼吸や瞑想などの「心のケア」を毎日の習慣にするには？ 20秒の練習に「習慣づくりの計画」を足した研究でわかったやり方](https://research.seadice.win/wellbeing-practice-habit-plan-how-research/): 20秒の練習に15分の習慣づくりの計画を足すと、6か月後も実践が多かった。きっかけ・通知・つまずきへの備えの決め方。
+- [わかっているのに、なぜ同じ行動をくり返すのか。習慣が「自動」で動く仕組みの研究](https://research.seadice.win/why-habits-run-on-autopilot-research/): くり返した行動は、場所や時間のきっかけで自動的に出やすくなる。ただし人で実験的に作るのは難しく、再現の失敗もある。
+
+### 気分・ストレス
+
+- [イライラや不安に「名前をつける」と落ち着く？ 気持ちを言葉にするやり方を研究で調べた](https://research.seadice.win/affect-labeling-name-your-feelings-research/): 気持ちを言葉にすると、苦痛や体の恐怖反応が弱まった実験がある。気持ちの言葉を打ち込むだけでは嫌な気分が強まった報告も。
+- [イライラした瞬間、怒りを落ち着かせるには？「一歩引いて眺める」やり方を研究で調べた](https://research.seadice.win/anger-calm-down-self-distancing-research/): カッとしたら長く息を吐き、場面を離れた場所から眺め、自分を名前で呼んで問いかける。発散は効かなかった154件の分析などで整理。
+- [怒りを紙に書いて捨てると、気持ちは収まるのか。研究でわかった「捨てる」効果](https://research.seadice.win/anger-write-and-discard-paper/): 怒りを書いた紙を捨てると、怒りは侮辱される前の水準まで下がった。叩く・走るなど興奮を高める発散には効果がなかった。
+- [暗いニュースを見続けて不安になったら？ ニュースと気分の研究でわかった立て直し方](https://research.seadice.win/bad-news-anxiety-doomscrolling-recovery-research/): 暗いニュースは数分でも気分を下げ、自分の心配まで大きく見せる。気をそらすより15分のリラックス法で戻った研究と、見る時間の決め方。
+- [落ち込んで何もしたくない日、気分を上げるには？「行動活性化」の研究でわかった、気分より先に動くやり方](https://research.seadice.win/behavioral-activation-low-mood-steps-research/): 気分が戻るのを待たず、小さな活動を先に予定に入れる。行動活性化は軽い落ち込みの人の幸福感も中くらいの大きさで高めた。
+- [「最高の未来の自分」を書くと気分は上がる？ 研究で使われた15分のやり方と効果の大きさ](https://research.seadice.win/best-possible-self-writing-mood-research/): うまくいった数年後の自分を書いて思い浮かべるワークは、29件の分析で前向きな気分と楽観性を高めた。いやな気分を減らす効果ははっきりしない。
+- [失恋から立ち直れないときは？ 元恋人のSNSを見ない・気をそらす・書きすぎない、研究でわかった立て直し方](https://research.seadice.win/breakup-heartbreak-recovery-research/): 失恋から立ち直れないときは？ 元恋人のSNSを見るほどつらさが強く、気をそらすと気分が上がる研究があります。考え込みやすい人は書きすぎに注意です。
+- [冷たいシャワーで気分は上がるのか？研究でわかった本当のところ](https://research.seadice.win/cold-shower-mood-boost/): 3000人超の実験と11件のRCTのメタ分析から、冷たいシャワーが気分に与える効果の大きさと限界を確認した。
+- [泣くと気持ちは軽くなるのか。「泣いた直後」と「90分後」で違った研究](https://research.seadice.win/crying-mood-relief-research/): 泣いた直後は気分が下がるが、90分後には泣く前より良くなっていた。泣いた後に支えがあると、すっきりしやすかった。
+- [ストレスがたまったら、犬とふれあうと落ち着く？ 何分・どうふれあえばいいかを研究で調べた](https://research.seadice.win/dog-interaction-stress-relief-how-research/): 犬とふれあうとストレスと不安が下がることが大学生の試験15件で示された。10分前後でも効果があり、なでる・そばに座るなどふれあい方は自由。
+- [人前で恥ずかしい失敗をした後、どう立て直す？「思ったほど見られていない」研究でわかったこと](https://research.seadice.win/embarrassing-mistake-spotlight-effect-recovery-research/): 人は自分の失敗が気づかれる度合いも、厳しく見られる度合いも実際より大きく見積もる。見積もりを直す立て直し方。
+- [人の機嫌がうつってしまうのはなぜ？ 表情・声・ストレスが伝わる「感情の伝染」を研究で調べた](https://research.seadice.win/emotional-contagion-others-mood-why-research/): 人のストレスを見ていただけの211人のうち26%でストレスホルモンが上昇（相手がパートナーだと40%）。機嫌がうつる仕組みを解説。
+- [運動したのに気分が上がらない、かえってつらかったら？ 運動の強さと気分の研究でわかった立て直し方](https://research.seadice.win/exercise-felt-worse-mood-intensity-recovery-research/): 運動で気分が下がる主な原因は強さ。話せないほどの強さでは多くの人で不快が増えた。次は会話できるペースに落とし、途中の気分を−5〜+5で確かめながら自分で強さを選ぶ。
+- [つらい気持ちを紙に書き出すと、気分は軽くなるのか。「筆記開示」の研究](https://research.seadice.win/expressive-writing-mood-research/): 気持ちを書き出す効果は146件の分析で小さいながら確認された一方、うつ症状への効果ははっきりせず、書き方で結果が変わっていた。
+- [作り笑いでも気分は上がるのか。138件の研究から読み解く笑顔の効果](https://research.seadice.win/fake-smile-mood-facial-feedback/): 138件の研究の分析と再現実験から、作り笑いが気分に与える効果の大きさと、効きやすい笑い方を確認した。
+- [感謝日記で幸福感は上がるのか。24,804人のデータでわかった効果の大きさ](https://research.seadice.win/gratitude-journal-happiness-effect-size/): 145件・24,804人の最新メタ分析などから、感謝を書き出す習慣が幸福感に与える効果の大きさと限界を確認した。
+- [お腹がすくとイライラするのはなぜ？「hangry（空腹で不機嫌）」の研究でわかった仕組み](https://research.seadice.win/hangry-hunger-irritability-why-research/): 空腹でイライラする「hangry」は、64人を21日間追った研究でも確認。血糖値だけでなく、空腹の不快さを周りへの怒りと取り違えることが一因と考えられている。
+- [暑い日にイライラしやすいのはなぜ？ 暑さと気分の研究で調べた](https://research.seadice.win/hot-day-irritability-heat-mood-why-research/): 30℃を超える部屋ではいら立ちや疲れが強まった。5か国1,636人の実験とSNS投稿35億件の分析から、暑さで気分が下がる仕組みを解説。
+- [HSP（繊細さん）は本当にいる？ 敏感さの研究でわかったこと・まだわからないこと](https://research.seadice.win/hsp-highly-sensitive-person-research/): HSPは診断名ではなく、誰にでもある敏感さの程度の差。日本の大学生では敏感さが高い人が26.8%。3つの面と、心の調子がよい人の対処法。
+- [無視された・仲間外れにされて落ち込んだら？「のけ者にされる」つらさからの立て直し方を研究で調べた](https://research.seadice.win/left-out-ignored-ostracism-recovery-research/): 短い無視でも心は大きく傷つきます。理由を「たまたま」と受け止める、今に注意を向ける、別の人とつながる。立ち直りを早めた実験を整理。
+- [好きな音楽を聴くとストレスホルモンは下がるのか。104件の研究でわかったこと](https://research.seadice.win/music-cortisol-stress-research/): 音楽とコルチゾールの関係を、104件のRCTのメタ分析と手術前後・コンサート・日常生活の研究から確認する
+- [自然の中で過ごすとストレスは下がるのか。4つの研究でわかった「20〜30分」の目安](https://research.seadice.win/nature-time-stress-reduction/): 143件の研究をまとめた分析や8週間の実験から、自然の中で過ごすとストレスホルモンが下がる効果と目安の時間を確認した。
+- [嫌な出来事ほど強く記憶に残るのはなぜ？ 脳の「ネガティビティ・バイアス」を研究で調べた](https://research.seadice.win/negative-events-memory-why-research/): 脳は悪い情報を強く処理し、細部まで覚えやすい。ただし10の文化562人の研究では、嫌な記憶のつらさは良い記憶より早く薄れていた。
+- [緊張する本番の前は「落ち着こう」より「わくわくしてきた」？ 不安の言い換えの研究でわかったやり方](https://research.seadice.win/nervous-before-performance-say-excited-research/): ドキドキは静めるより「わくわく」と言い換えると、気持ちと出来が上向いた。5,638人のまとめでは効果は小さく、補正後はさらに下がる。
+- [小さなことでも夜になると不安が大きくなるのはなぜ？ 体内時計と夜の考えごとを研究で調べた](https://research.seadice.win/night-worry-feels-bigger-why-research/): 夜中は体内時計で気分が底になる時間帯（午前3時ごろ）。暗く静かな寝室は心配に注意が向きやすく、心配の91.4%は実際には起きなかった記録も。
+- [オンライン会議のあと、どっと疲れるのはなぜ？「Zoom疲れ」の仕組みを研究で調べた](https://research.seadice.win/online-meeting-fatigue-why-research/): 画面越しの会議は脳が疲れやすく、自分の顔の表示や会議の多さが疲れを足す。ただ最近の調査では差がない結果も。
+- [ポジティブ思考は逆効果になることがあるのか。研究でわかった「空想」の代償](https://research.seadice.win/positive-thinking-backfire-research/): 望む未来を先取りして空想するほど努力やエネルギーが下がるという研究や、幸せを意識しすぎると幸福感が下がる研究を整理した。
+- [前向きに考えようとして、かえって落ち込んだら？「嫌な気持ちを受け入れる」ほうが楽になる理由を研究で調べた](https://research.seadice.win/positive-thinking-felt-worse-acceptance-research/): 前向きに考えようとして落ち込んだら？ 嫌な考えを押し込めると戻りやすく、気持ちを受け入れる人ほど落ち込みにくい研究から立て直し方を整理。
+- [ストレスで体がこわばるときは？ 力を入れて抜く「漸進的筋弛緩法」のやり方と時間を研究で調べた](https://research.seadice.win/progressive-muscle-relaxation-stress-steps-research/): 約5秒力を入れて10秒かけて抜く。大学生60人の実験で20分後にリラックス感が上がり、46件の研究でもストレス軽減の報告が多い。
+- [雨の日や曇りの日に気分が沈むのはなぜ？ 天気と気分の研究でわかった「日の光」と「人による違い」](https://research.seadice.win/rainy-day-low-mood-weather-why-research/): 天気の影響は平均すると小さいものの、日の光が減るとだるくなり、雨の日に特に気分が下がる人もいます。1,233人の日記研究などから仕組みを解説。
+- [深呼吸や瞑想で、かえって不安になったら？ リラックス法が合わないときの立て直し方を研究で調べた](https://research.seadice.win/relaxation-meditation-anxiety-backfire-research/): 瞑想経験者の27.0%が不安を経験。多くは一時的で、無理に続けず、やり方を変える・時間を減らすのが立て直しの基本。
+- [休んだのに疲れやストレスが抜けないのはなぜ？ 休み方の立て直し方を研究で調べた](https://research.seadice.win/rest-not-recovering-stress-research/): 休み中に仕事から頭が離れている人ほど疲れが少ない。休暇の効果は仕事に戻ると薄れやすく、頭を切り離す力は練習で伸ばせる。
+- [楽しい時間を「味わう」と気分は上がる？ 良いことをじっくり味わうセイバリングのやり方を研究で調べた](https://research.seadice.win/savoring-good-moments-mood-how-research/): 良いことに注意を向けて味わうセイバリングは、20件4,805人のまとめで気分が中くらい改善。今を味わうコツと1日5分の手順。
+- [自分に厳しくするほど早く立ち直れる、は本当か。90人の実験でわかったこと](https://research.seadice.win/self-compassion-recovery-speed/): 自分を責めても早く立ち直れるとは限らない。90人の実験や494人の調査から、自分への思いやりと立ち直りの関係を調べた。
+- [音や光がつらい感覚過敏、自分でできる対策は？ 6つの研究でわかったこと](https://research.seadice.win/sensory-overload-self-care-research/): 聴覚過敏は一般の人の0.2〜17.2%。イヤーマフは子どもの困りごとを減らしたが、耳栓で遮り続けると音に敏感になる方向に変わった。
+- [運動は何分から気分が上がる？研究でわかった「短くても効く」根拠](https://research.seadice.win/short-exercise-mood-boost/): 1万3000人超のデータと5分の散歩の実験から、短時間の運動でも気分が上がることを解説。
+- [寝不足だとイライラしやすいのはなぜか。睡眠不足と怒りの研究](https://research.seadice.win/sleep-loss-anger-irritability/): 2日間睡眠を減らすだけで怒りは強まり、睡眠不足は前向きな気分を減らし不安を増やしていた。イライラは性格より睡眠の問題かもしれない。
+- [深呼吸でストレスは本当に下がるのか。「長く吐く呼吸」の研究](https://research.seadice.win/slow-breathing-stress-research/): 呼吸法はストレスを小〜中程度下げ、1日5分の「長く吐く呼吸」は瞑想より気分を改善した。ただし研究の質には限界もある。
+- [気分が沈む日に、小さな親切で気分は上がる？ 親切と幸福感の研究でわかったやり方](https://research.seadice.win/small-acts-of-kindness-mood-how-research/): 683人の7日間の実験で小さな親切は幸福感を上げ、6週間の実験では自分へのごほうびより人への親切が効いた。効果は控えめ（相関0.13）。
+- [SNSを眺めて人と比べ、落ち込んだら？「うらやましさ」からの立て直し方を研究で調べた](https://research.seadice.win/sns-comparison-felt-worse-recovery-research/): SNSを眺めて比べると落ち込むことはあるが研究結果はそろわず人によって違う。うらやましさを望みに変える立て直し方を整理。
+- [SNSをやめると幸福度は上がるのか。「やめる期間」で変わった研究](https://research.seadice.win/social-media-break-wellbeing/): 1週間以上SNSをやめると幸福感が上がり、うつや不安が下がった。1週間未満だとかえって悪化しており、期間が大切だった。
+- [ひとりの時間は心を回復させるのか。研究でわかった条件](https://research.seadice.win/solitude-affective-restoration/): 一人の時間は高ぶった感情を落ち着かせ、自分で選んだ場合はリラックスにもつながる一方、10代前半では一人の時間が少なすぎても多すぎても適応が良くない傾向があることを複数の研究から確認した。
+- [嫌なことが頭から離れないとき、どう立て直す？「反芻」から抜け出す方法を研究で調べた](https://research.seadice.win/stop-ruminating-after-bad-day-research/): 嫌なことを考え続けると気分は悪化しやすい。短い気晴らし、自分を外から眺める振り返り、考える時間を後に決める方法に効果の報告がある。
+- [人と話すと気分は上がるのか。知らない人との短い会話の研究](https://research.seadice.win/stranger-small-talk-mood-research/): 電車やカフェでの一言、オンラインの30分間会話まで。話しかけると気まずくなるという予想は、研究ではくり返し外れている。
+- [日曜の夜になると憂うつになるのはなぜ？「明日のこと」を考える脳の仕組みを研究で調べた](https://research.seadice.win/sunday-night-blues-why-research/): 日曜の夜の憂うつは、月曜を頭の中で先取りする心配から。心配は出来事の前から体のストレス反応を長引かせ、平日の朝はストレスホルモンが週末より高い。
+- [背筋を伸ばすと気分は上向くのか。姿勢とストレスの研究](https://research.seadice.win/upright-posture-mood-research/): 背筋を伸ばすと、ストレスの中でも気分や自尊心が保たれやすかった。一方、パワーポーズでホルモンが変わる効果は再現されなかった。
+- [友人に弱音を吐くとストレスは軽くなるのか。「打ち明けること」を研究で調べた](https://research.seadice.win/venting-to-friends-corumination-research/): 話すこと自体には小さな前向き効果があるが、同じ話をくり返す「共同反芻」はうつ・不安の症状と関連する。27,794人のメタ分析でもうつ症状との関連を確認。
+- [結果を待つ時間がいちばんつらいのはなぜ？「どうなるかわからない」不確かさとストレスの研究で調べた](https://research.seadice.win/waiting-for-results-anxiety-uncertainty-why-research/): 痛みが来る確率が五分五分のときにストレスが最も高かった45人の実験と、痛みを待つより早く済ませたがる人が多かった実験からわかった、結果待ちがつらい仕組み。
+- [冬になると気分が落ち込むのはなぜ？ 日の短さと体内時計、「冬季うつ」の研究で調べた](https://research.seadice.win/winter-low-mood-seasonal-why-research/): 日の光が減る冬に脳のセロトニンや体内時計が変わる研究と、冬季うつは約5%で人により大きく違うことを整理。
+- [心配ごとが頭から離れないときは「心配する時間」を決める？ 心配の先送りの研究でわかったやり方](https://research.seadice.win/worry-time-postponement-how-research/): 毎日30分の「心配タイム」に心配を先送りすると、53人の実験で心配と不安が減少。オンラインで指示だけでは効果がなかった研究も含めて整理。
 
 ## ツールとアプリ（無料・登録不要）
 

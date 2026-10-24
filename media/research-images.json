@@ -5376,5 +5376,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/DSG7056-1_Yellow_Ginkgo_biloba_leaves_-_vivid_translucent_illumination_by_autumn_sunlight.jpg/500px-DSG7056-1_Yellow_Ginkgo_biloba_leaves_-_vivid_translucent_illumination_by_autumn_sunlight.jpg",
   "og": "https://research.seadice.win/img/ginkgo-biloba-supplement-memory-research.jpg",
   "local": true
+ },
+ "habit-meaning-vs-reward-research": {
+  "file": "File:Nike Running Shoes.jpg",
+  "src": "/img/habit-meaning-vs-reward-research.jpg",
+  "src640": "/img/habit-meaning-vs-reward-research-sm.jpg",
+  "w": 960,
+  "h": 443,
+  "alt": "黒いランニングシューズ",
+  "artist": "GautamSudhanshu",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Nike_Running_Shoes.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nike_Running_Shoes.jpg/960px-Nike_Running_Shoes.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nike_Running_Shoes.jpg/500px-Nike_Running_Shoes.jpg",
+  "og": "https://research.seadice.win/img/habit-meaning-vs-reward-research.jpg",
+  "local": true
  }
 }
