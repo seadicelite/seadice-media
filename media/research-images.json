@@ -5287,5 +5287,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Social_Distanced_Waiting_Room%2C_LSU_Healthcare%2C_New_Orleans%2C_Sept_2022_01.jpg/500px-Social_Distanced_Waiting_Room%2C_LSU_Healthcare%2C_New_Orleans%2C_Sept_2022_01.jpg",
   "og": "https://research.seadice.win/img/waiting-for-results-anxiety-uncertainty-why-research.jpg",
   "local": true
+ },
+ "quit-habit-comes-back-relapse-why-research": {
+  "file": "File:Egger bier worb - Bierglas & Aschenbecher (2019).jpg",
+  "src": "/img/quit-habit-comes-back-relapse-why-research.jpg",
+  "src640": "/img/quit-habit-comes-back-relapse-why-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "テーブルの上のグラスと灰皿",
+  "artist": "JoachimKohler-HB",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Egger_bier_worb_-_Bierglas_%26_Aschenbecher_(2019).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Egger_bier_worb_-_Bierglas_%26_Aschenbecher_%282019%29.jpg/960px-Egger_bier_worb_-_Bierglas_%26_Aschenbecher_%282019%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Egger_bier_worb_-_Bierglas_%26_Aschenbecher_%282019%29.jpg/960px-Egger_bier_worb_-_Bierglas_%26_Aschenbecher_%282019%29.jpg",
+  "og": "https://research.seadice.win/img/quit-habit-comes-back-relapse-why-research.jpg",
+  "local": true
  }
 }

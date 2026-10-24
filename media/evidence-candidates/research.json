@@ -9628,5 +9628,39 @@
     "articleUrl": "https://research.seadice.win/waiting-for-results-anxiety-uncertainty-why-research/",
     "articleSite": "悩みの科学",
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "research-quit-habit-comes-back-relapse-why-research-resurgence",
+    "category": "習慣",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Thrailkill et al., \"Resurgence in humans: Reducing relapse by increasing generalization between treatment and testing\" (Journal of Experimental Psychology: Animal Learning and Cognition, 2019)",
+    "sourceUrl": "https://doi.org/10.1037/xan0000209",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/quit-habit-comes-back-relapse-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よくある悩み",
+        "title": "ガムが切れた日に、またたばこが吸いたくなる",
+        "body": "悪い習慣を別の行動に置きかえてやめられていたのに、その代わりがなくなった日に元に戻る。研究ではこれを「再出現（リサージェンス）」と呼んでいるよ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "お菓子のボタンと、10セントのボタン",
+        "body": "大学生がボタンを押してお菓子をもらう行動を覚えたあと、そのボタンは空振りに。代わりに別のボタンで画面上の10セント硬貨がもらえるようにして、最後に硬貨も止めてみたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「代わりがない時間」を混ぜると戻りにくい",
+        "body": "硬貨が止まると、元のお菓子のボタンを押す行動が戻ってきた。でも置きかえ中に「硬貨が出ない時間」を交互に混ぜていたグループ（15人）では、戻り方がはっきり弱かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実験室の短い課題の話",
+        "body": "分析できたのは30人だけで、申し込んだ57人の多くが条件で除外されている。1回きりのボタン押し課題なので、日常のたばこや夜食にそのまま当てはまるかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
