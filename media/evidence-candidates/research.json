@@ -9356,5 +9356,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "research-sleep-restriction-time-in-bed-insomnia-how-research-habit-trial",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kyle SD et al., \"Nurse-delivered sleep restriction therapy to improve insomnia disorder in primary care: the HABIT RCT\" (Health Technology Assessment, 2024)",
+    "sourceUrl": "https://doi.org/10.3310/RJYT4275",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/sleep-restriction-time-in-bed-insomnia-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "眠れない日は長く横になって休む？",
+        "body": "眠れないなら、せめて布団で長く横になっていたほうがいい。そう思うよね。でも不眠の治療では、逆に布団にいる時間を減らす方法があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "英国の642人をくじで2つに",
+        "body": "かかりつけ医に通う不眠症の大人642人を、看護師から「睡眠制限法」を4回教わる群と、睡眠の説明書をもらうだけの群に分けた。布団にいる時間を実際に眠れている時間に合わせる方法だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "6か月後、不眠の点数が3点低い",
+        "body": "6か月後の不眠の重さ（0〜28点）は、睡眠制限法の群が10.9点、説明書だけの群が13.9点。差は3か月後にも12か月後にも続いていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "始めの数週は眠くなる",
+        "body": "参加者の97%が白人で、どちらの群か本人も知っていた。別の小さな研究では、始めて1〜3週は日中の眠気が増えたので、眠いときの運転は要注意。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
