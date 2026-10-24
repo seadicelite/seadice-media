@@ -9458,5 +9458,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "research-habit-same-time-flexible-schedule-how-research-routine-vs-flexible",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Beshears J et al., \"Creating Exercise Habits Using Incentives: The Tradeoff between Flexibility and Routinization\" (Management Science, 2021)",
+    "sourceUrl": "https://doi.org/10.1287/mnsc.2020.3706",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/habit-same-time-flexible-schedule-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "習慣は毎日同じ時間にやるのがコツ？",
+        "body": "「同じ時間にやると習慣になる」とよく聞くよね。じゃあ、決めた時間にだけやるようにすれば、もっと続くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "Googleの社員2,508人で実験",
+        "body": "全員が運動しやすい2時間の枠を選んだ。4週間、枠の中で運動した日だけ報酬が出る組と、いつ運動しても報酬が出る組、報酬なしの組にくじで分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "いつでもOKのほうが続いた",
+        "body": "いつでも報酬が出る組のほうが運動が週0.19回多かった。報酬が終わった後の4週間も、週1回以上運動した人が6ポイント多かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "枠の決め方しだいかも",
+        "body": "記録したのは社内ジムだけで、期間も4週間。枠を長くしたり曜日で変えたりすれば結果は違ったかもしれない、と著者たちも書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
