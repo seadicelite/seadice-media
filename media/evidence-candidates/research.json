@@ -9798,5 +9798,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-ginkgo-biloba-supplement-memory-research-meta",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Laws et al., \"Is Ginkgo biloba a cognitive enhancer in healthy individuals? A meta-analysis\" (Human Psychopharmacology, 2012)",
+    "sourceUrl": "https://doi.org/10.1002/hup.2259",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/ginkgo-biloba-supplement-memory-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "イチョウ葉で記憶力アップ？",
+        "body": "物忘れ対策のサプリでよく見るイチョウ葉エキス。飲むと記憶力が上がるって聞いたことがあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "健康な人の試験をまとめた",
+        "body": "研究チームが、健康な人にイチョウ葉エキスか偽薬を飲んでもらった試験を集めたよ。記憶は13件・1,132人分のデータ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果はほぼゼロ",
+        "body": "記憶への効果の大きさはd=−0.04で、偽薬とほぼ同じ。注意や判断の力でも差はなかった。年齢や量、飲んだ期間を変えても結果は同じだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1件ずつは小さな試験",
+        "body": "まとめた試験は1件ごとの人数が少なめで、製品や量もそろっていない。物忘れの病気がある人は対象外で、そこは別の研究が必要だよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-ginkgo-biloba-supplement-memory-research-gem",
+    "category": "記憶・学習",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "DeKosky et al., \"Ginkgo biloba for prevention of dementia: a randomized controlled trial\" (JAMA, 2008)",
+    "sourceUrl": "https://doi.org/10.1001/jama.2008.683",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/ginkgo-biloba-supplement-memory-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "飲み続ければ認知症予防？",
+        "body": "イチョウ葉エキスを毎日飲めば、年をとっても頭がしっかりしていられる。そんな期待で飲む人も多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3,069人を約6年追った",
+        "body": "アメリカで75歳以上の3,069人に、イチョウ葉エキス120mgを1日2回か偽薬を飲んでもらい、中央値6.1年追いかけた大きな試験だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "認知症は減らなかった",
+        "body": "認知症になったのはイチョウ葉の組で277人、偽薬の組で246人。減る効果は見られなかった。軽い物忘れがある人でも同じだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "若い人では未確認",
+        "body": "対象は75歳以上だけ。もっと若いうちから飲んだらどうかは、この試験ではわからない。出血による脳卒中が16人と8人だった点も、今後の確認が必要とされているよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

@@ -5358,5 +5358,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Running_track_of_Bedok_Stadium%2C_Singapore_-_20110501.jpg/500px-Running_track_of_Bedok_Stadium%2C_Singapore_-_20110501.jpg",
   "og": "https://research.seadice.win/img/exercise-procrastination-research.jpg",
   "local": true
+ },
+ "ginkgo-biloba-supplement-memory-research": {
+  "file": "File:DSG7056-1 Yellow Ginkgo biloba leaves - vivid translucent illumination by autumn sunlight.jpg",
+  "src": "/img/ginkgo-biloba-supplement-memory-research.jpg",
+  "src640": "/img/ginkgo-biloba-supplement-memory-research-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "イチョウの葉",
+  "artist": "Franz van Duns",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DSG7056-1_Yellow_Ginkgo_biloba_leaves_-_vivid_translucent_illumination_by_autumn_sunlight.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/DSG7056-1_Yellow_Ginkgo_biloba_leaves_-_vivid_translucent_illumination_by_autumn_sunlight.jpg/960px-DSG7056-1_Yellow_Ginkgo_biloba_leaves_-_vivid_translucent_illumination_by_autumn_sunlight.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/DSG7056-1_Yellow_Ginkgo_biloba_leaves_-_vivid_translucent_illumination_by_autumn_sunlight.jpg/500px-DSG7056-1_Yellow_Ginkgo_biloba_leaves_-_vivid_translucent_illumination_by_autumn_sunlight.jpg",
+  "og": "https://research.seadice.win/img/ginkgo-biloba-supplement-memory-research.jpg",
+  "local": true
  }
 }
