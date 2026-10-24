@@ -5251,5 +5251,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Choux_02.jpg/500px-Choux_02.jpg",
   "og": "https://research.seadice.win/img/broccoli-cabbage-bitter-taste-gene-why-research.jpg",
   "local": true
+ },
+ "stuffy-room-cant-focus-ventilation-why-research": {
+  "file": "File:Summer empty classroom, potted flowers on tables, 2023.jpg",
+  "src": "/img/stuffy-room-cant-focus-ventilation-why-research.jpg",
+  "src640": "/img/stuffy-room-cant-focus-ventilation-why-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "植木鉢と机が並ぶ教室",
+  "artist": "AKA MBG",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Summer_empty_classroom,_potted_flowers_on_tables,_2023.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Summer_empty_classroom%2C_potted_flowers_on_tables%2C_2023.jpg/960px-Summer_empty_classroom%2C_potted_flowers_on_tables%2C_2023.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Summer_empty_classroom%2C_potted_flowers_on_tables%2C_2023.jpg/500px-Summer_empty_classroom%2C_potted_flowers_on_tables%2C_2023.jpg",
+  "og": "https://research.seadice.win/img/stuffy-room-cant-focus-ventilation-why-research.jpg",
+  "local": true
  }
 }

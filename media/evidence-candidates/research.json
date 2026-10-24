@@ -9560,5 +9560,39 @@
     "articleUrl": "https://research.seadice.win/broccoli-cabbage-bitter-taste-gene-why-research/",
     "articleSite": "悩みの科学",
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "research-stuffy-room-cant-focus-ventilation-why-research-ventilation-meta",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kuramochi H et al., \"Meta-Analysis of the Effect of Ventilation on Intellectual Productivity\" (International Journal of Environmental Research and Public Health, 2023)",
+    "sourceUrl": "https://doi.org/10.3390/ijerph20085576",
+    "studyType": "メタ分析",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "換気すると頭が働く？",
+        "body": "「閉めきった部屋だと頭がぼんやりするから窓を開けよう」ってよく言うよね。これ、ただの気分の問題じゃないらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "教室の換気を変えた試験を集めた",
+        "body": "日本の研究チームが、換気の量を変えた試験5本、合計3,679人をまとめて分析したよ。多くは10〜12歳の子どもの教室での試験なんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "計算の速さが13.7%アップ",
+        "body": "換気を増やすと課題をこなす速さが上がり、計算の課題では速さが13.7%上がって、間違いも16.1%減った。文章を読む課題でははっきりした差は出なかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人の職場でも同じ？",
+        "body": "5本のうち4本はデンマークの小学生の教室での試験。大人の職場や家の部屋で同じくらい効くかは、まだはっきりしないんだ。"
+      }
+    ],
+    "articleUrl": "https://research.seadice.win/stuffy-room-cant-focus-ventilation-why-research/",
+    "articleSite": "悩みの科学",
+    "addedAt": "2026-10-24"
   }
 ]
