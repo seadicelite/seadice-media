@@ -8025,5 +8025,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "kokoro-ai-reliance-guilt-self-blame-recover-reminder",
+    "category": "AIとの付き合い方",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Silva et al., \"Between Alarms and Scheduling: The Effect of Cognitive Offloading on Prospective and Retrospective Memory\" (Behavioral Sciences, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/bs16060872",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-reliance-guilt-self-blame-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "道具に頼ると、記憶力がだめになる？",
+        "body": "アラームやメモに頼るのは甘え、自分の頭で覚えなきゃ…って思うこと、あるよね。じゃあ実際、道具に任せた人と頭で覚えた人、どっちが用事を忘れないんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2日後の午後7時にメールを送る",
+        "body": "ポルトガルの大学生152人に、2日後の午後7時にメールを送ってと頼んだ実験。くじで、アラームなどを設定する組、予約送信する組、頭で覚えておく組に分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "84%と92%、頭だけは37%",
+        "body": "時間どおりに送れたのは、アラームなどの組で84%、予約送信の組で92%、頭で覚えた組は37%。同じ日に見た動画をどれだけ覚えていたかは、3つの組で差がなかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "用事1つ・大学生だけの話",
+        "body": "調べた用事はメール1通だけで、参加したのは大学生。道具に長く頼り続けたらどうなるかや、AIに任せた場合でも同じかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

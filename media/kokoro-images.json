@@ -5809,8 +5809,8 @@
  },
  "ai-instant-answers-curiosity-recover": {
   "file": "File:Miniature Book, 'The English Lion', In Leather Case With Magnifying Glass (48708075908).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg/960px-Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg/500px-Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg",
+  "src": "/img/ai-instant-answers-curiosity-recover.jpg",
+  "src640": "/img/ai-instant-answers-curiosity-recover-sm.jpg",
   "w": 960,
   "h": 640,
   "alt": "本と虫めがね",
@@ -5818,6 +5818,24 @@
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Miniature_Book,_%27The_English_Lion%27,_In_Leather_Case_With_Magnifying_Glass_(48708075908).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg/960px-Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg/500px-Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-instant-answers-curiosity-recover.jpg",
+  "local": true
+ },
+ "ai-reliance-guilt-self-blame-recover": {
+  "file": "File:Small black alarm clock on a desk.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Small_black_alarm_clock_on_a_desk.jpg/960px-Small_black_alarm_clock_on_a_desk.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Small_black_alarm_clock_on_a_desk.jpg/500px-Small_black_alarm_clock_on_a_desk.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上の目覚まし時計",
+  "artist": "Solise",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Small_black_alarm_clock_on_a_desk.jpg",
   "source_label": "Wikimedia Commons"
  }
 }
