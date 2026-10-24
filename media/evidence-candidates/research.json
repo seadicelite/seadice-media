@@ -9220,5 +9220,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "research-procrastination-night-before-all-nighter-recovery-research-overconfidence",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pilcher JJ & Walters AS, \"How sleep deprivation affects psychological variables related to college students' cognitive performance\" (Journal of American College Health, 1997)",
+    "sourceUrl": "https://doi.org/10.1080/07448489709595597",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/procrastination-night-before-all-nighter-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "徹夜すればなんとかなる？",
+        "body": "締め切り前夜、「徹夜すれば取り返せる」って思うことあるよね。徹夜明けって、意外と頭が冴えている気もするし。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "24時間起きた学生で実験",
+        "body": "アメリカの研究者が大学生44人を、24時間眠らない組と約8時間眠った組に分けて、批判的に考える力をはかる課題を解いてもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "成績は下がり、自信は上がった",
+        "body": "眠らなかった組は成績がはっきり低かった。なのに集中や努力、自分の出来の見積もりは、眠った組より高く答えていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本番の課題でも同じ？",
+        "body": "44人の実験室での1回の課題の結果なんだ。実際のレポートや試験で、どれくらい出来が変わるかまではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

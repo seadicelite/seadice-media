@@ -5071,5 +5071,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Field_%28BC%2C_Canada%29%2C_Trans-Canada_Highway%2C_Rest_Area_--_2022_--_163551.jpg/500px-Field_%28BC%2C_Canada%29%2C_Trans-Canada_Highway%2C_Rest_Area_--_2022_--_163551.jpg",
   "og": "https://research.seadice.win/img/drowsy-driving-focus-recovery-research.jpg",
   "local": true
+ },
+ "procrastination-night-before-all-nighter-recovery-research": {
+  "file": "File:Old desk lamp in Tuntorp.jpg",
+  "src": "/img/procrastination-night-before-all-nighter-recovery-research.jpg",
+  "src640": "/img/procrastination-night-before-all-nighter-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 907,
+  "alt": "点灯したデスクライト",
+  "artist": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Old_desk_lamp_in_Tuntorp.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Old_desk_lamp_in_Tuntorp.jpg/960px-Old_desk_lamp_in_Tuntorp.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Old_desk_lamp_in_Tuntorp.jpg/500px-Old_desk_lamp_in_Tuntorp.jpg",
+  "og": "https://research.seadice.win/img/procrastination-night-before-all-nighter-recovery-research.jpg",
+  "local": true
  }
 }
