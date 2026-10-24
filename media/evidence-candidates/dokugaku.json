@@ -9303,5 +9303,73 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-why-foreign-language-sounds-fast-gabbling",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bosker & Reinisch, \"Foreign Languages Sound Fast: Evidence from Implicit Rate Normalization\" (Frontiers in Psychology, 2017)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2017.01063",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-foreign-language-sounds-fast/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "外国語って早口だよね？",
+        "body": "知らない言葉を聞くと、みんなすごく速くしゃべっているように感じるよね。でも、本当に速いんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ速さにそろえて聞かせた",
+        "body": "オランダ語とドイツ語を話せる1人に同じ内容の文を読んでもらい、速さをそろえて、それぞれの言語の話し手に聞かせた実験がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "外国語のほうが速く感じた",
+        "body": "ドイツ語の話し手は、速さが同じでもオランダ語の文を速いものとして受け取っていた。オランダ語がわかる人ほど、その差は小さかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "逆の結果も出ている",
+        "body": "オランダ語の話し手では予想と逆だったり差がなかったりして、著者も理由を説明できていない。各組20〜27人の実験で、日本語と英語の組み合わせは調べていない。"
+      }
+    ],
+    "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-why-foreign-language-sounds-fast-information-rate",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Coupé et al., \"Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche\" (Science Advances, 2019)",
+    "sourceUrl": "https://doi.org/10.1126/sciadv.aaw2594",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/why-foreign-language-sounds-fast/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "速い言語と遅い言語はある？",
+        "body": "言語によって、早口に聞こえたり、ゆっくりに聞こえたりするよね。言語ごとに伝わる速さは違うんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "17言語・170人の音読を測った",
+        "body": "日本語や英語を含む17言語の話し手170人に、同じ内容の短い文章を15本、ふだんの速さで読んでもらって比べた研究がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "伝わる情報の速さはほぼ同じ",
+        "body": "1秒に話す音節の数は人によって約4.3〜9.1と2倍ほど違った。でも音節が速い言語ほど1音節の情報が少なく、1秒に伝わる情報は平均約39ビットにそろっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふだんの会話は別かも",
+        "body": "測ったのは文章の音読で、くだけた会話ではない。なぜ言語がこうしてそろうのかも、まだ説明の候補の段階だ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

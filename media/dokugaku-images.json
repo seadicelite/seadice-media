@@ -4886,5 +4886,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lille_rose_des_vents_republique.jpg/500px-Lille_rose_des_vents_republique.jpg",
   "og": "https://dokugaku.seadice.win/img/why-trust-wrong-ai-answers-automation-bias.jpg",
   "local": true
+ },
+ "why-foreign-language-sounds-fast": {
+  "file": "File:Koryo Hotel - Old Fashioned Radio Set (11416594196).jpg",
+  "src": "/img/why-foreign-language-sounds-fast.jpg",
+  "src640": "/img/why-foreign-language-sounds-fast-sm.jpg",
+  "w": 960,
+  "h": 538,
+  "alt": "古いラジオ",
+  "artist": "Uri Tours",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Koryo_Hotel_-_Old_Fashioned_Radio_Set_(11416594196).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Koryo_Hotel_-_Old_Fashioned_Radio_Set_%2811416594196%29.jpg/960px-Koryo_Hotel_-_Old_Fashioned_Radio_Set_%2811416594196%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Koryo_Hotel_-_Old_Fashioned_Radio_Set_%2811416594196%29.jpg/500px-Koryo_Hotel_-_Old_Fashioned_Radio_Set_%2811416594196%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-foreign-language-sounds-fast.jpg",
+  "local": true
  }
 }
