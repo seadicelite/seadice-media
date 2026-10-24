@@ -8059,5 +8059,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "kokoro-stress-sweets-mood-sugar-rush",
+    "category": "仕事とAIの不安",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mantantzis et al., \"Sugar rush or sugar crash? A meta-analysis of carbohydrate effects on mood\" (Neuroscience & Biobehavioral Reviews, 2019)",
+    "sourceUrl": "https://doi.org/10.1016/j.neubiorev.2019.03.016",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/stress-sweets-mood/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "疲れたら甘いもので元気が出る？",
+        "body": "仕事で疲れたら、とりあえずチョコ。甘いものを食べると気分が上がって元気が出る、ってよく聞くよね。実際のところ、研究ではどうなんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "31件の研究をまとめて見た",
+        "body": "糖質（砂糖やでんぷん）をとったあとの気分を調べた31件の研究、合わせて1,259人分をまとめた研究があるんだ。糖質を含まない比較用のものと比べているよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "気分は上がらず、むしろ疲れた",
+        "body": "糖質をとっても、気分のどの面もよくなっていなかった。それどころか、とってから1時間以内は、比較用のものより疲れを感じやすく、頭のさえも低かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "仕事中のストレスでも同じ？",
+        "body": "多くは実験室で糖質を一度とる研究。仕事のストレスの最中に食べた場合や、毎日の食べ方の習慣でどうなるかは、まだはっきりしていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

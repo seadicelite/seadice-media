@@ -1,5 +1,14 @@
 [
   {
+    "slug": "stress-sweets-mood",
+    "category": "仕事とAIの不安",
+    "type": "guide",
+    "stage": "対処する",
+    "date": "2026-10-24",
+    "title": "仕事のストレスで、つい甘いものに手が伸びる。31件の研究のまとめでは、糖質をとっても気分はよくならず、とってから1時間以内はかえって疲れを感じやすかった",
+    "summary": "甘いものを食べても気分はよくならず、1時間以内は疲れを感じやすかった。15分歩いた人はチョコを食べる量が少なかった。"
+  },
+  {
     "slug": "ai-reliance-guilt-self-blame-recover",
     "category": "AIとの付き合い方",
     "type": "guide",

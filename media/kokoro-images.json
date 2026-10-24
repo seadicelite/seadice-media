@@ -5842,5 +5842,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Small_black_alarm_clock_on_a_desk.jpg/500px-Small_black_alarm_clock_on_a_desk.jpg",
   "og": "https://mentalai.seadice.win/img/ai-reliance-guilt-self-blame-recover.jpg",
   "local": true
+ },
+ "stress-sweets-mood": {
+  "file": "File:Plate of chocolate chip cookies, ready to munch.jpg",
+  "src": "/img/stress-sweets-mood.jpg",
+  "src640": "/img/stress-sweets-mood-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "皿にのったクッキー",
+  "artist": "The-Wuje",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Plate_of_chocolate_chip_cookies,_ready_to_munch.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Plate_of_chocolate_chip_cookies%2C_ready_to_munch.jpg/960px-Plate_of_chocolate_chip_cookies%2C_ready_to_munch.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Plate_of_chocolate_chip_cookies%2C_ready_to_munch.jpg/500px-Plate_of_chocolate_chip_cookies%2C_ready_to_munch.jpg",
+  "og": "https://mentalai.seadice.win/img/stress-sweets-mood.jpg",
+  "local": true
  }
 }
