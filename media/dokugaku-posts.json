@@ -1,5 +1,13 @@
 [
   {
+    "slug": "self-quiz-three-level-question-sheet",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-24",
+    "title": "自分で作る小テストの「3段の問題表」。用語・理由・応用で問いを作り、試験の形に合わせる（用語のクイズは考える問題に広がりにくかった研究から）",
+    "summary": "用語の小テストは定義の問題を10〜13%上げたが考える問題には広がりにくい。用語・理由・応用で1問ずつ作る表と記録表"
+  },
+  {
     "slug": "problem-book-rounds-mark-sheet",
     "category": "勉強法",
     "type": "guide",

@@ -9575,5 +9575,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-self-quiz-three-level-question-sheet-high-level",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Jensen et al., \"Testing effect on high-level cognitive skills\" (CBE—Life Sciences Education, 2020)",
+    "sourceUrl": "https://doi.org/10.1187/cbe.19-10-0193",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/self-quiz-three-level-question-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "まず用語を固めれば応用もできる？",
+        "body": "用語を覚えれば、応用問題もそのうち解けるようになる。よく聞く話だよね。じゃあ練習のテストは、用語の問題だけで足りるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "生物の授業でくらべた",
+        "body": "アメリカの大学の入門生物学で、単元テストに応用・分析レベルの問題として出た内容と、出なかった内容を、期末試験でくらべた研究がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "応用問題の正答率は61%と45%",
+        "body": "教科書を見ずに単元テストを受けた107人では、期末の応用レベルの問題で、テストに出た内容が61%、出なかった内容が45%だった。事実を思い出す問題では61%と61%で差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "一人の勉強でも同じ？",
+        "body": "成績のつく授業のテストでの話で、自分で作る練習問題や、社会人の独学で同じ差が出るかはまだわからない。生物が専門ではない学生149人の研究だよ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
