@@ -8569,5 +8569,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-work-stress-resilience-moments-prevent-resist",
+    "category": "仕事とAIの不安",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hannibal et al., \"Effectiveness of and Mechanisms of Change in a Self-Help Web- and App-Based Resilience Intervention on Perceived Stress in the General Working Population: Randomized Controlled Trial\" (Journal of Medical Internet Research, 2026)",
+    "sourceUrl": "https://doi.org/10.2196/78335",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/work-stress-resilience-moments-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く話",
+        "title": "すり減る前に備えられる？",
+        "body": "仕事の負担が続くと、倒れる前に何かできないかなって思うよね。自分で進める練習で、ストレスって本当に下がるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ドイツの働く人350人",
+        "body": "働く人をくじ引きで2組に分けて、片方は8週間、乗り越えた場面を毎日書きとめて振り返る自習型の練習をしたよ。もう片方は順番待ち。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "3か月後も差が残った",
+        "body": "練習した組は、ストレスの点数（0〜40点）が8週間後に3.14点、3か月後に2.79点、待った組より低かったんだ。効き目の多くは、先の見通しと自分へのやさしさを通じたものだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIの不安に効くかは別",
+        "body": "AIの不安に絞った試験じゃないし、比べた相手は順番待ちの組だけ。練習した組でも、4.6〜10.9%の人はストレスが悪化していたよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
