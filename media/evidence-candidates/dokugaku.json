@@ -9881,5 +9881,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-study-task-cost-check-sheet-opportunity-cost",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Umarji et al., \"The motivational system of task values and anticipated emotions in daily academic behavior\" (Motivation and Emotion, 2021)",
+    "sourceUrl": "https://doi.org/10.1007/s11031-021-09898-y",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/study-task-cost-check-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "やる気がある課題なら終わる？",
+        "body": "「面白そう」「終えたらすっきりしそう」と思える課題なら、ちゃんと終わる気がするよね。でも、やるつもりだった課題が終わらない日もある。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "毎朝、今日の課題を書いてもらった",
+        "body": "米国の大学のオンライン授業で、学生が毎朝その日の課題を書き、興味や満足の見込み、「どれだけほかをあきらめるか」を答え、翌日に終えたかを報告した研究がある（分析は75人）。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "負担が大きいと、見込みどおりにいかない",
+        "body": "気持ちの見込みも負担も大きい課題は「やれそう」と思われやすかった（オッズ比3.97）のに、実際に終えた割合は中くらいの課題と差がなかった。負担が小さい課題は、終えるオッズが約2.6倍だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "相関で、対象も限られる",
+        "body": "著者ら自身が、相関のデータなので因果は言えないと述べている。5週間の選択科目のオンライン授業の大学生だけで、社会人の独学で同じかはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

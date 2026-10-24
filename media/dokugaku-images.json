@@ -5120,5 +5120,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2016_Busola.JPG/500px-2016_Busola.JPG",
   "og": "https://dokugaku.seadice.win/img/relearning-reasons-motivation-check-sheet.jpg",
   "local": true
+ },
+ "study-task-cost-check-sheet": {
+  "file": "File:Weighing scales and weights - Goritsky monastery, Pereslavl museum.jpg",
+  "src": "/img/study-task-cost-check-sheet.jpg",
+  "src640": "/img/study-task-cost-check-sheet-sm.jpg",
+  "w": 960,
+  "h": 860,
+  "alt": "博物館に並ぶ古いはかりとおもり",
+  "artist": "Лапоть",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Weighing_scales_and_weights_-_Goritsky_monastery,_Pereslavl_museum.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Weighing_scales_and_weights_-_Goritsky_monastery%2C_Pereslavl_museum.jpg/960px-Weighing_scales_and_weights_-_Goritsky_monastery%2C_Pereslavl_museum.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Weighing_scales_and_weights_-_Goritsky_monastery%2C_Pereslavl_museum.jpg/500px-Weighing_scales_and_weights_-_Goritsky_monastery%2C_Pereslavl_museum.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-task-cost-check-sheet.jpg",
+  "local": true
  }
 }
