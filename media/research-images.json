@@ -5340,5 +5340,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Club_Big_Breakfast%2C_The_Coffee_Club_Riverton%2C_2026_%2801%29.jpg/500px-Club_Big_Breakfast%2C_The_Coffee_Club_Riverton%2C_2026_%2801%29.jpg",
   "og": "https://research.seadice.win/img/skipping-breakfast-weight-gain-research.jpg",
   "local": true
+ },
+ "exercise-procrastination-research": {
+  "file": "File:Running track of Bedok Stadium, Singapore - 20110501.jpg",
+  "src": "/img/exercise-procrastination-research.jpg",
+  "src640": "/img/exercise-procrastination-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "陸上競技場のトラック",
+  "artist": "elfgoh.",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Running_track_of_Bedok_Stadium,_Singapore_-_20110501.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Running_track_of_Bedok_Stadium%2C_Singapore_-_20110501.jpg/960px-Running_track_of_Bedok_Stadium%2C_Singapore_-_20110501.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Running_track_of_Bedok_Stadium%2C_Singapore_-_20110501.jpg/500px-Running_track_of_Bedok_Stadium%2C_Singapore_-_20110501.jpg",
+  "og": "https://research.seadice.win/img/exercise-procrastination-research.jpg",
+  "local": true
  }
 }

@@ -9764,5 +9764,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-exercise-procrastination-research-meta",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wang et al., \"A systematic review and meta-analysis of the relationship between physical activity and procrastination behavior\" (Acta Psychologica, 2026)",
+    "sourceUrl": "https://doi.org/10.1016/j.actpsy.2026.107219",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/exercise-procrastination-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "運動する人は先延ばししない？",
+        "body": "「運動習慣のある人は、やるべきことを後回しにしない」って聞くよね。体を動かすと自制心が鍛えられる、なんて説明もされる。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "43の研究をまとめた",
+        "body": "研究チームが、運動量と先延ばしの関係を調べた43の研究をまとめたよ。5つのデータベースから集めて、結果を1つの数字にした。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "よく動く人ほど少なめ",
+        "body": "よく運動する人ほど先延ばしが少ない関係があって、相関はr=−0.25。特に中くらい〜強めの運動をしている人で先延ばしが少なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "運動が原因かは不明",
+        "body": "まとめたのは主に調査の研究。もともと自分を律するのが得意な人が運動もしているだけかもしれない。運動で先延ばしが減るかは、試験での確認が必要だよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
