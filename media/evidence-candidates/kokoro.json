@@ -8433,5 +8433,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "kokoro-close-friend-post-envy-why-tie-strength",
+    "category": "比べて落ち込む",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lin & Utz, \"The emotional responses of browsing Facebook: Happiness, envy, and the role of tie strength\" (Computers in Human Behavior, 2015)",
+    "sourceUrl": "https://doi.org/10.1016/j.chb.2015.04.064",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/close-friend-post-envy-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "親しい友達ほど妬ましい？",
+        "body": "仲のいい友達の旅行の投稿ほど、心がざわつく気がするよね。親しい相手ほど妬ましくなるって本当かな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ドイツの146人の実験",
+        "body": "主に大学生146人が、親しい友達・中くらいの友達・あまり親しくない友達の投稿ということにした、旅行の投稿を読んで気持ちを答えたんだ。2014年の研究だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "強まったのは、うれしさと憧れ",
+        "body": "親しい相手ほどうれしさが強く、「自分も」という憧れに近いうらやましさも強かったらしい。相手を悪く思う妬みは、親しさで差がなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "今のSNSでも同じ？",
+        "body": "2014年のFacebookの研究で、気持ちは本人の申告。悪い気持ちは少なめに答えた可能性もあるし、日本の人や今のSNSで同じかはわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

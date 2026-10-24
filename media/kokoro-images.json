@@ -6028,7 +6028,7 @@
   "src640": "/img/comparison-distraction-rumination-sm.jpg",
   "w": 960,
   "h": 745,
-  "alt": "雨の日の傘",
+  "alt": "通りの上に吊るされた色とりどりの傘",
   "artist": "W.carter",
   "license": "Public domain",
   "licenseUrl": "",
@@ -6038,6 +6038,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Les_Parapluies_de_Viborg.jpg/960px-Les_Parapluies_de_Viborg.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Les_Parapluies_de_Viborg.jpg/500px-Les_Parapluies_de_Viborg.jpg",
   "og": "https://mentalai.seadice.win/img/comparison-distraction-rumination.jpg",
+  "local": true
+ },
+ "close-friend-post-envy-why": {
+  "file": "File:Pineapple Postcards (Unsplash).jpg",
+  "src": "/img/close-friend-post-envy-why.jpg",
+  "src640": "/img/close-friend-post-envy-why-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木の机に並んだ旅先の写真と小さな鉢植え",
+  "artist": "Pineapple Supply Co. pineapple",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Pineapple_Postcards_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pineapple_Postcards_%28Unsplash%29.jpg/960px-Pineapple_Postcards_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pineapple_Postcards_%28Unsplash%29.jpg/500px-Pineapple_Postcards_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/close-friend-post-envy-why.jpg",
   "local": true
  }
 }
