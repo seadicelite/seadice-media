@@ -5827,8 +5827,8 @@
  },
  "ai-reliance-guilt-self-blame-recover": {
   "file": "File:Small black alarm clock on a desk.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Small_black_alarm_clock_on_a_desk.jpg/960px-Small_black_alarm_clock_on_a_desk.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Small_black_alarm_clock_on_a_desk.jpg/500px-Small_black_alarm_clock_on_a_desk.jpg",
+  "src": "/img/ai-reliance-guilt-self-blame-recover.jpg",
+  "src640": "/img/ai-reliance-guilt-self-blame-recover-sm.jpg",
   "w": 960,
   "h": 720,
   "alt": "机の上の目覚まし時計",
@@ -5836,6 +5836,11 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Small_black_alarm_clock_on_a_desk.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Small_black_alarm_clock_on_a_desk.jpg/960px-Small_black_alarm_clock_on_a_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Small_black_alarm_clock_on_a_desk.jpg/500px-Small_black_alarm_clock_on_a_desk.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-reliance-guilt-self-blame-recover.jpg",
+  "local": true
  }
 }
