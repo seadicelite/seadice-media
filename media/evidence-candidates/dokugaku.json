@@ -9371,5 +9371,73 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-why-sleep-deprived-avoid-hard-study-cognitive-motivation",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Jurgelis et al., \"Sleep Restriction Reduces Cognitive but Not Physical Motivation\" (Nature and Science of Sleep, 2022)",
+    "sourceUrl": "https://doi.org/10.2147/NSS.S368335",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-sleep-deprived-avoid-hard-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "寝不足だと頑張る気が出ない？",
+        "body": "寝不足の日は、頭が回らないだけじゃなく、難しいことに挑む気そのものが起きない気がするよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3晩、3時間睡眠にしてみた",
+        "body": "大人24人が、9時間眠る4日間と、1晩目のあと3晩続けて3時間しか眠れない4日間の両方を体験。難しい集中の課題を、ポイントと引きかえに選ぶかを調べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "頭を使う課題だけ避けた",
+        "body": "睡眠を減らすと、ポイントが多くても難しい集中の課題を選ぶことが減った。握力を使う課題では、選び方は変わらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強でも同じ？",
+        "body": "使ったのは画面の文字を見張る課題だけで、24人の小さな実験。勉強のような別の頭の使い方でも同じかは、まだ調べられていない。"
+      }
+    ],
+    "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-why-sleep-deprived-avoid-hard-study-task-difficulty",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Engle-Friedman et al., \"The role of sleep deprivation and fatigue in the perception of task difficulty and use of heuristics\" (Sleep Science, 2018)",
+    "sourceUrl": "https://doi.org/10.5935/1984-0063.20180016",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-sleep-deprived-avoid-hard-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "寝不足でも中身は同じ",
+        "body": "徹夜明けでも、やる課題の量は変わらないんだから、同じように感じるはず…と思うよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "徹夜組と睡眠組でくらべた",
+        "body": "アメリカの大学生39人を、徹夜する20人と家で眠る19人に分けて、同じ文章を読むのに何分かかりそうかを見積もってもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "同じ文章が重く見えた",
+        "body": "徹夜した学生の見積もりは約129分、眠った学生は約77分。課題の説明を読み飛ばした人も、徹夜組90%、睡眠組58%だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "差が出なかった課題も",
+        "body": "パズルの見積もりや、難しい計算問題を選ぶかどうかには、はっきりした差がなかった。人数も少なく、眠った組も平均約5.9時間しか寝ていなかった。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

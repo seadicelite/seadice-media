@@ -4904,5 +4904,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Koryo_Hotel_-_Old_Fashioned_Radio_Set_%2811416594196%29.jpg/500px-Koryo_Hotel_-_Old_Fashioned_Radio_Set_%2811416594196%29.jpg",
   "og": "https://dokugaku.seadice.win/img/why-foreign-language-sounds-fast.jpg",
   "local": true
+ },
+ "why-sleep-deprived-avoid-hard-study": {
+  "file": "File:Sleeping cat on her back.jpg",
+  "src": "/img/why-sleep-deprived-avoid-hard-study.jpg",
+  "src640": "/img/why-sleep-deprived-avoid-hard-study-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "眠っている猫",
+  "artist": "Umberto Salvagnin",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sleeping_cat_on_her_back.jpg/960px-Sleeping_cat_on_her_back.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sleeping_cat_on_her_back.jpg/500px-Sleeping_cat_on_her_back.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-sleep-deprived-avoid-hard-study.jpg",
+  "local": true
  }
 }
