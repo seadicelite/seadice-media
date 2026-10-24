@@ -2572,7 +2572,7 @@
   "src640": "/img/similar-concepts-mixed-up-fix-sm.webp",
   "w": 960,
   "h": 643,
-  "alt": "図書館のカード目録の引き出し",
+  "alt": "開いたカード目録の引き出し",
   "artist": "Carolina Prysyazhnyuk",
   "license": "CC BY-SA 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -3694,7 +3694,7 @@
   "src640": "/img/ai-explanations-forgotten-relearn-sm.webp",
   "w": 960,
   "h": 720,
-  "alt": "図書館のカード目録の引き出しに並ぶカード",
+  "alt": "開いたカード目録の引き出しに並ぶカード",
   "artist": "TBurmeister (WMF)",
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -4813,6 +4813,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Close_up_Samuel_Johnson_Folio_and_Abridged_dictionaries_%E2%80%93_letter_M.JPG/960px-Close_up_Samuel_Johnson_Folio_and_Abridged_dictionaries_%E2%80%93_letter_M.JPG",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Close_up_Samuel_Johnson_Folio_and_Abridged_dictionaries_%E2%80%93_letter_M.JPG/500px-Close_up_Samuel_Johnson_Folio_and_Abridged_dictionaries_%E2%80%93_letter_M.JPG",
   "og": "https://dokugaku.seadice.win/img/why-long-sentences-hard-to-read-working-memory.jpg",
+  "local": true
+ },
+ "why-adults-hard-to-memorize-term-pairs": {
+  "file": "File:Kansallisarkisto Helsinki Rauhankatu 17 luettelohuone kortistokaappi 2026 02 23.jpg",
+  "src": "/img/why-adults-hard-to-memorize-term-pairs.jpg",
+  "src640": "/img/why-adults-hard-to-memorize-term-pairs-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "開いたカード目録の引き出し",
+  "artist": "Fuje23",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kansallisarkisto_Helsinki_Rauhankatu_17_luettelohuone_kortistokaappi_2026_02_23.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kansallisarkisto_Helsinki_Rauhankatu_17_luettelohuone_kortistokaappi_2026_02_23.jpg/960px-Kansallisarkisto_Helsinki_Rauhankatu_17_luettelohuone_kortistokaappi_2026_02_23.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kansallisarkisto_Helsinki_Rauhankatu_17_luettelohuone_kortistokaappi_2026_02_23.jpg/500px-Kansallisarkisto_Helsinki_Rauhankatu_17_luettelohuone_kortistokaappi_2026_02_23.jpg",
+  "og": "https://dokugaku.seadice.win/img/why-adults-hard-to-memorize-term-pairs.jpg",
   "local": true
  }
 }

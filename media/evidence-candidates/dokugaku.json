@@ -9133,5 +9133,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-why-adults-hard-to-memorize-term-pairs-associative-deficit",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Old & Naveh-Benjamin, \"Differential effects of age on item and associative measures of memory: A meta-analysis\" (Psychology and Aging, 2008)",
+    "sourceUrl": "https://doi.org/10.1037/0882-7974.23.1.104",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/why-adults-hard-to-memorize-term-pairs/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "年をとると何でも忘れる？",
+        "body": "大人になって勉強し直すと、用語は見覚えがあるのに意味が出てこない。記憶が全部まとめて衰えているのかな、と思うよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "90の研究、約6,400人",
+        "body": "若い人3,197人と高齢の人3,192人を比べた90の研究をまとめたメタ分析がある。1つ1つの項目の記憶と、「何と何が組だったか」の記憶を分けて調べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "弱まりやすいのは「組み合わせ」",
+        "body": "年齢の差は、項目の記憶より組み合わせの記憶で大きかった。情報の出どころ、順番、場所、単語の組など、いろいろな組み合わせで同じ傾向だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "いつも差が出るわけではない",
+        "body": "差がはっきりしたのは「覚えて」と言われて覚えた場合。覚えるつもりなく見た場合は、組み合わせだけ特に弱いとは言えなかった。30〜50代の独学でどうかも別の話。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
