@@ -9235,5 +9235,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-why-low-confidence-no-motivation-self-efficacy-overconfidence",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vancouver & Kendall, \"When self-efficacy negatively relates to motivation and performance in a learning context\" (Journal of Applied Psychology, 2006)",
+    "sourceUrl": "https://doi.org/10.1037/0021-9010.91.5.1146",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/why-low-confidence-no-motivation-self-efficacy/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自信があるほど点がとれる？",
+        "body": "「できる」と思えている人ほど成績がいい、ってよく言うよね。人どうしを比べると、実際そういう傾向は見つかっている。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ人の中で比べた",
+        "body": "大学生63人に、授業の5回の試験の前ごとに「どのくらいできそうか」と勉強のやる気を答えてもらい、試験の点と照らし合わせた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "自信が高い回ほど点が低い",
+        "body": "人どうしでは自信が高い人ほど点も高かった。でも同じ人の中では、自信が高い回ほどやる気も点も低かったらしい。「もう大丈夫」が準備を減らすのかも。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "反論もある",
+        "body": "1つの授業の63人の結果で、因果ははっきりしない。自信が成績を助けるという多くの研究と食い違うという反論もあり、決着はついていない。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

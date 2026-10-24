@@ -301,6 +301,7 @@
 - [学び直しを始めてすぐ「もうわかった」と思ってしまうのはなぜ？初心者の自信と「ダニング＝クルーガー効果」の研究](https://dokugaku.seadice.win/why-beginners-overconfident-relearning/): 少し学んだ初心者は自信が実力を追い越しやすい。下位の人は12%の位置で62%と見積もった研究と、統計の見かけという反論、確かめ方。
 - [SNSで他人の勉強量を見ると焦って手につかないのはなぜ？他人と比べる心理（社会的比較）の研究](https://dokugaku.seadice.win/why-comparing-study-progress-on-sns-hurts/): 人は上の人と比べやすく、差が大きすぎると頑張る気持ちより「あきらめ」が強まる。比べる相手を選び直す方法つき。
 - [合格しても「たまたま」「実力じゃない」と感じるのはなぜ？インポスター現象（自分はにせものだという感覚）の研究](https://dokugaku.seadice.win/why-feel-like-impostor-despite-studying/): 成果を運のせいにして「いつかばれる」と感じるのがインポスター現象。男女・年齢を問わず見られ、失敗への恐れや比較と結びつく。
+- [勉強に自信がないと、やる気が出ないのはなぜ？「できそう」という感覚（自己効力感）と成績の研究](https://dokugaku.seadice.win/why-low-confidence-no-motivation-self-efficacy/): 「できそう」という見込みは成績と強く結びつくが、成績→自信の向き（0.205）が逆（0.071）より強い。小さな「できた」で育てる。
 - [勉強を後回しにしてしまうのはなぜ？先延ばしの研究でわかった3つの理由](https://dokugaku.seadice.win/why-procrastinate-studying/): 先延ばしは課題の嫌さ・成果までの遠さ・嫌な気分から逃げたい気持ちと結びつく。理由ごとに試せる対策つき。
 - [試験が近いのに、勉強以外のことをしてしまうのはなぜ？失敗しても傷つかないための「言い訳づくり」（セルフ・ハンディキャッピング）の研究](https://dokugaku.seadice.win/why-self-handicapping-before-exam/): 試験前の片付けや夜更かしは、失敗を能力のせいにしないための言い訳づくりのことも。傾向が強い学生ほど3回のテストすべてで点が低かった。
 - [頭を使う勉強が面倒に感じるのはなぜ？「考えることは不快」という研究と、その反論](https://dokugaku.seadice.win/why-studying-feels-effortful-mental-effort/): 170研究の分析では、頭を使う作業ほど不快感が強かった。反論もあり、努力が報われると難しい課題を選ぶようになる実験もある。
