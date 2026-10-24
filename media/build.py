@@ -223,6 +223,8 @@ def build(slug, preview=None):
         print(f"app cards: {an} articles, {len(aurls)} app pages")
     if tn:
         print(f"toolbox: {tn} articles, hub {turls or 'kept'}")
+    import readcheck  # 読んだ記事のチェック(設定 readCheck があるメディアだけ。最後に作り直されたトップ・カテゴリにも入れる)
+    readcheck.apply(cfg, posts)
     site_og(cfg)
     if (bn := title_brand(cfg)):
         print(f"title brand: {bn} pages -> {cfg['titleName']}")

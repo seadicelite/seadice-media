@@ -1,5 +1,6 @@
 {
   "enabled": true,
+  "readCheck": true,
   "publish": "auto",
   "slug": "uchu",
   "siteType": "article",
