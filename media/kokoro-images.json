@@ -6021,5 +6021,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/M%C3%BCnster%2C_Park_Sentmaring_--_2016_--_0786.jpg/500px-M%C3%BCnster%2C_Park_Sentmaring_--_2016_--_0786.jpg",
   "og": "https://mentalai.seadice.win/img/online-time-loneliness-prevent.jpg",
   "local": true
+ },
+ "comparison-distraction-rumination": {
+  "file": "File:Les Parapluies de Viborg.jpg",
+  "src": "/img/comparison-distraction-rumination.jpg",
+  "src640": "/img/comparison-distraction-rumination-sm.jpg",
+  "w": 960,
+  "h": 745,
+  "alt": "雨の日の傘",
+  "artist": "W.carter",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Les_Parapluies_de_Viborg.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Les_Parapluies_de_Viborg.jpg/960px-Les_Parapluies_de_Viborg.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Les_Parapluies_de_Viborg.jpg/500px-Les_Parapluies_de_Viborg.jpg",
+  "og": "https://mentalai.seadice.win/img/comparison-distraction-rumination.jpg",
+  "local": true
  }
 }

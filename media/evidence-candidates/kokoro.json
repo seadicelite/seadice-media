@@ -8399,5 +8399,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "kokoro-comparison-distraction-rumination-distract",
+    "category": "比べて落ち込む",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Layous et al., \"The effects of rumination, distraction, and gratitude on positive and negative affect\" (Journal of Personality and Social Psychology, 2023)",
+    "sourceUrl": "https://doi.org/10.1037/pspp0000440",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/comparison-distraction-rumination/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "気をそらすのは逃げ？",
+        "body": "落ち込んだとき、別のことを考えるのって問題から逃げてるみたいで後ろめたいよね。ちゃんと向き合って考えたほうがいいのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "5つの実験、1,950人",
+        "body": "米国の大学生などを3組に分けて、8分間、自分の性格や気持ちについて考える組、傘の形のような関係ないことを考える組、大切な人を思い浮かべる組で気分を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "いやな気分は少し小さく",
+        "body": "関係ないことを考えた組と感謝の組は、自分について考え続けた組より、いやな気分が少し小さかったらしい。うれしい気持ちが増えたのは感謝の組だけだったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "効果は小さめ",
+        "body": "差は小さくて、効果が1週間続くかを調べたのは1つの実験だけ。人と比べて落ち込んだ場面で確かめたわけでもないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
