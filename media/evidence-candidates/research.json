@@ -9866,5 +9866,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-magnesium-supplement-sleep-research-rct",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Schuster et al., \"Magnesium Bisglycinate Supplementation in Healthy Adults Reporting Poor Sleep: A Randomized, Placebo-Controlled Trial\" (Nature and Science of Sleep, 2025)",
+    "sourceUrl": "https://doi.org/10.2147/NSS.S524348",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/magnesium-supplement-sleep-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "マグネシウムで眠れる？",
+        "body": "「寝る前にマグネシウム」がSNSで話題だよね。神経を落ち着かせて、ぐっすり眠れるようになるって言われてる。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "155人で4週間試した",
+        "body": "ドイツの研究チームが、眠りの質が悪いと感じている18〜65歳の155人に、マグネシウム1日250mgか偽薬を4週間飲んでもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "改善は小さめ",
+        "body": "不眠の点数はマグネシウムの組で3.9点、偽薬の組でも2.3点下がった。差はあったけど、効果の大きさはd=0.2と小さかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本人の感じ方だけで測定",
+        "body": "睡眠は本人の答えだけで測っていて、脳波などでは確かめていない。期間も4週間と短く、長く飲んだらどうなるかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
