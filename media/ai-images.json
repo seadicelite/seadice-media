@@ -3219,5 +3219,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Headphone_Microphone_Madrid_%28Unsplash%29.jpg/500px-Headphone_Microphone_Madrid_%28Unsplash%29.jpg",
   "og": "https://ai.seadice.win/img/ai-voice-narration-human-voice-work-og.jpg",
   "local": true
+ },
+ "privacy-worry-withholding-from-doctor": {
+  "file": "File:Hand holds a test device next to a stethoscope and an open book on a wooden desk during morning light.jpg",
+  "src": "/img/privacy-worry-withholding-from-doctor.jpg",
+  "src640": "/img/privacy-worry-withholding-from-doctor-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "検査キットを持つ手と、机の上の聴診器と本",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hand_holds_a_test_device_next_to_a_stethoscope_and_an_open_book_on_a_wooden_desk_during_morning_light.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hand_holds_a_test_device_next_to_a_stethoscope_and_an_open_book_on_a_wooden_desk_during_morning_light.jpg/960px-Hand_holds_a_test_device_next_to_a_stethoscope_and_an_open_book_on_a_wooden_desk_during_morning_light.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hand_holds_a_test_device_next_to_a_stethoscope_and_an_open_book_on_a_wooden_desk_during_morning_light.jpg/500px-Hand_holds_a_test_device_next_to_a_stethoscope_and_an_open_book_on_a_wooden_desk_during_morning_light.jpg",
+  "og": "https://ai.seadice.win/img/privacy-worry-withholding-from-doctor.jpg",
+  "local": true
  }
 }

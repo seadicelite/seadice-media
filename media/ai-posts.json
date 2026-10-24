@@ -1,5 +1,14 @@
 [
  {
+  "slug": "privacy-worry-withholding-from-doctor",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-10-24",
+  "title": "個人情報が心配で、医師に本当のことを話せなくなった。米国の調査では大人の約8人に1人が記録の安全を心配して話さなかった経験があり、話しやすさは医療者とのやりとりの質と結びついていた",
+  "summary": "記録が心配で医師に話さなかった人は米国の大人の約8人に1人。行き先を聞き、薬や症状など大事なことから伝え直す。"
+ },
+ {
   "slug": "ai-voice-narration-human-voice-work",
   "category": "創作・著作権",
   "type": "guide",
