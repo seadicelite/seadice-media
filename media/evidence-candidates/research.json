@@ -9594,5 +9594,39 @@
     "articleUrl": "https://research.seadice.win/stuffy-room-cant-focus-ventilation-why-research/",
     "articleSite": "悩みの科学",
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "research-waiting-for-results-anxiety-uncertainty-why-research-fifty-fifty",
+    "category": "気分・ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "de Berker AO et al., \"Computations of uncertainty mediate acute stress responses in humans\" (Nature Communications, 2016)",
+    "sourceUrl": "https://doi.org/10.1038/ncomms10996",
+    "studyType": "実験",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "結果待ちがいちばんつらい？",
+        "body": "試験や検査の結果を待つ数日って、結果を聞くよりしんどく感じることがあるよね。実は、脳は「どうなるかわからない」状態にすごく反応するらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "当てたら安全、外れたら電気",
+        "body": "ロンドンの研究チームが、19〜35歳の45人に石の下のヘビを当てるゲームをしてもらったよ。ヘビが出ると手に痛い電気刺激。出る確率は途中で変わるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "五分五分のときがいちばんストレス",
+        "body": "感じるストレスや瞳孔の開き、手の汗は「読めなさ」に合わせて上下した。読めなさは、ヘビが出る確率を50%と感じているときに最も大きくなるよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何日も待つときも同じ？",
+        "body": "実験室での短いゲームの結果で、人数も45人。何日も続く試験や検査の結果待ちで同じことが起きているかは、この研究では調べていないんだ。"
+      }
+    ],
+    "articleUrl": "https://research.seadice.win/waiting-for-results-anxiety-uncertainty-why-research/",
+    "articleSite": "悩みの科学",
+    "addedAt": "2026-10-24"
   }
 ]

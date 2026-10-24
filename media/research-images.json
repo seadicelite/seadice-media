@@ -5269,5 +5269,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Summer_empty_classroom%2C_potted_flowers_on_tables%2C_2023.jpg/500px-Summer_empty_classroom%2C_potted_flowers_on_tables%2C_2023.jpg",
   "og": "https://research.seadice.win/img/stuffy-room-cant-focus-ventilation-why-research.jpg",
   "local": true
+ },
+ "waiting-for-results-anxiety-uncertainty-why-research": {
+  "file": "File:Social Distanced Waiting Room, LSU Healthcare, New Orleans, Sept 2022 01.jpg",
+  "src": "/img/waiting-for-results-anxiety-uncertainty-why-research.jpg",
+  "src640": "/img/waiting-for-results-anxiety-uncertainty-why-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "椅子が並ぶ待合室",
+  "artist": "Infrogmation of New Orleans",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Social_Distanced_Waiting_Room,_LSU_Healthcare,_New_Orleans,_Sept_2022_01.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Social_Distanced_Waiting_Room%2C_LSU_Healthcare%2C_New_Orleans%2C_Sept_2022_01.jpg/960px-Social_Distanced_Waiting_Room%2C_LSU_Healthcare%2C_New_Orleans%2C_Sept_2022_01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Social_Distanced_Waiting_Room%2C_LSU_Healthcare%2C_New_Orleans%2C_Sept_2022_01.jpg/500px-Social_Distanced_Waiting_Room%2C_LSU_Healthcare%2C_New_Orleans%2C_Sept_2022_01.jpg",
+  "og": "https://research.seadice.win/img/waiting-for-results-anxiety-uncertainty-why-research.jpg",
+  "local": true
  }
 }
