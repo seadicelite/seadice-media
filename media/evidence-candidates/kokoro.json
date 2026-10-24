@@ -7923,5 +7923,39 @@
       }
     ],
     "addedAt": "2026-10-22"
+  },
+  {
+    "id": "kokoro-forest-bathing-fatigue-recover-boredom",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Li et al., \"Effects of forest bathing versus indoor gym exercise on exercise-related boredom: a randomized crossover trial with repeated measures\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1827928",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/forest-bathing-fatigue-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "同じ30分歩くなら、場所で何か変わる？",
+        "body": "ジムのランニングマシンで歩くのと、森の小道を歩くの。運動の量が同じなら、気分も同じなのかな。中国の研究チームが確かめたらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生34人が両方を体験",
+        "body": "健康な大学生34人が、森の小道と窓のない屋内のランニングマシンで30分ずつ歩いたんだ。順番はくじで決めて、歩く強さは心拍計で同じにそろえたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "森のほうが退屈しにくかった",
+        "body": "歩いたあとの退屈さは森のほうが低かった。森では歩くうちに退屈が下がって、マシンでは上がっていたんだ。気分のよさや「また続けたい」気持ちも森のほうが強めだったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふだんのジムとは違う設定",
+        "body": "屋内は音楽も映像もない「何もない」ジムで、ふだんより退屈しやすい条件だったと著者は書いている。測ったのはその日の気分だけで、続けたときの効果はわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

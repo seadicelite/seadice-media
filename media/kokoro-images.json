@@ -5770,5 +5770,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Snowy_forest_path_02_16k_%E2%80%93_HDR-Panorama_%28Oliksiy_Yakovlyev_via_Poly_Haven%29.jpg/500px-Snowy_forest_path_02_16k_%E2%80%93_HDR-Panorama_%28Oliksiy_Yakovlyev_via_Poly_Haven%29.jpg",
   "og": "https://mentalai.seadice.win/img/workplace-bullying-distress-recover.jpg",
   "local": true
+ },
+ "forest-bathing-fatigue-recover": {
+  "file": "File:Morning mist - geograph.org.uk - 1750691.jpg",
+  "src": "/img/forest-bathing-fatigue-recover.jpg",
+  "src640": "/img/forest-bathing-fatigue-recover-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "朝もやの森の小道",
+  "artist": "Jonathan Kington",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Morning_mist_-_geograph.org.uk_-_1750691.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Morning_mist_-_geograph.org.uk_-_1750691.jpg/960px-Morning_mist_-_geograph.org.uk_-_1750691.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Morning_mist_-_geograph.org.uk_-_1750691.jpg/500px-Morning_mist_-_geograph.org.uk_-_1750691.jpg",
+  "og": "https://mentalai.seadice.win/img/forest-bathing-fatigue-recover.jpg",
+  "local": true
  }
 }
