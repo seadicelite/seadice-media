@@ -3273,5 +3273,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Typewriter-12_hg.jpg/500px-Typewriter-12_hg.jpg",
   "og": "https://ai.seadice.win/img/ai-summarized-my-blog-readers-dropped.jpg",
   "local": true
+ },
+ "ai-english-writing-app-voice-essay-before": {
+  "file": "File:Latin dictionary.jpg",
+  "src": "/img/ai-english-writing-app-voice-essay-before.jpg",
+  "src640": "/img/ai-english-writing-app-voice-essay-before-sm.jpg",
+  "w": 960,
+  "h": 764,
+  "alt": "机の上に開いた辞書と並んだ辞書",
+  "artist": "Dr. Marcus Gossler",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Latin_dictionary.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Latin_dictionary.jpg/960px-Latin_dictionary.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Latin_dictionary.jpg/500px-Latin_dictionary.jpg",
+  "og": "https://ai.seadice.win/img/ai-english-writing-app-voice-essay-before.jpg",
+  "local": true
  }
 }
