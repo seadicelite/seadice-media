@@ -9031,5 +9031,73 @@
       }
     ],
     "addedAt": "2026-10-23"
+  },
+  {
+    "id": "dokugaku-why-answer-key-feels-solvable-hindsight-watching-skill",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kardas & O'Brien, \"Easier Seen Than Done: Merely Watching Others Perform Can Foster an Illusion of Skill Acquisition\" (Psychological Science, 2018)",
+    "sourceUrl": "https://doi.org/10.1177/0956797617740646",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-answer-key-feels-solvable-hindsight/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "上手な人の動画を見れば上達する？",
+        "body": "お手本の動画をくり返し見れば、自分もできるようになる気がするよね。実際、見るだけでどこまで身につくんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "6つの実験、2,225人",
+        "body": "研究者が、ダーツ投げやムーンウォーク、オンラインゲームの動画を見せて、自信と実際の腕前を比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "自信だけ上がった",
+        "body": "動画を見る回数が多いほど「自分もできる」と思うようになった。でも実際の腕前は、見るだけでは伸びなかったらしい。道具を自分で持ってみるだけでも、思い込みは小さくなった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強にも当てはまる？",
+        "body": "調べたのは体を使う技能で、勉強の解説動画や問題の解説を読む場面そのものではない。別の研究者による追試も、まだ確かめられていない。"
+      }
+    ],
+    "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-why-answer-key-feels-solvable-hindsight-hindsight-meta",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Guilbault et al., \"A Meta-Analysis of Research on Hindsight Bias\" (Basic and Applied Social Psychology, 2004)",
+    "sourceUrl": "https://doi.org/10.1080/01973533.2004.9646399",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/why-answer-key-feels-solvable-hindsight/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "答えを聞くと「知ってた」と思うのはなぜ？",
+        "body": "クイズの答えを聞いた瞬間、「それ、わかってた」と感じることってあるよね。あれは本当にわかっていたのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "95の研究をまとめた",
+        "body": "「後知恵バイアス」を調べた95の研究（公刊83、未公刊12）、252の効果量をまとめたメタ分析がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "気をつけても減らなかった",
+        "body": "結果を知ると「最初から予想できた」と感じる傾向ははっきり確認された。バイアスを減らそうとする工夫をした条件でも、効果の大きさは下がっていなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "場面で強さが違う",
+        "body": "知識クイズを使った研究で効果が大きく、実際の出来事を使った研究では小さめだった。勉強の場面でどれくらい起きるかは、別に調べる必要がある。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
