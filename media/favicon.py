@@ -32,6 +32,10 @@ PICTO = {  # 24x24 の線画（トップページ p/index.html の .picto と同
     "tetsugaku-nyumon": '<path d="M4.5 20.5h15M6 17.5h12M7.5 17.5v-8M12 17.5v-8M16.5 17.5v-8M4.5 9.5h15L12 4z"/>',
     "umbra": '<path d="M2.5 12s3.5-6 9.5-6 9.5 6 9.5 6-3.5 6-9.5 6-9.5-6-9.5-6z"/><circle cx="12" cy="12" r="2.5"/>',
 }
+# 色つきの絵のファビコン（線画1色でなく、絵にしたいメディアだけ。64x64・角丸8以下・16px表示で形が残るもの）
+ART = {
+    "uchu": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="8" fill="#0A0E16"/><circle cx="6.1" cy="28.3" r="0.6" fill="#fff" opacity="0.62"/><circle cx="6.8" cy="16.4" r="1.1" fill="#fff" opacity="0.93"/><g transform="rotate(-20 32 32)"><path d="M6 32a26 8.5 0 0 1 52 0" fill="none" stroke="#7FB2E5" stroke-width="3.2"/></g><circle cx="32" cy="32" r="14" fill="#E3B341"/><path d="M19 28h26M18.5 34h27" stroke="#C9952A" stroke-width="2.4"/><g transform="rotate(-20 32 32)"><path d="M58 32a26 8.5 0 0 1-52 0" fill="none" stroke="#7FB2E5" stroke-width="3.2"/></g></svg>',  # 輪のある惑星（トップのピクトグラムと同じ形）2026-10-24
+}
 
 
 def _ink(accent):
@@ -42,7 +46,9 @@ def _ink(accent):
 
 
 def svg(slug, accent, fg=None):
-    """64x64。角丸8（質実剛健: 8px以下）、線は太め（16px表示でもつぶれない太さ）。"""
+    """64x64。ART にあるメディアは色つきの絵をそのまま使う。それ以外は角丸8（質実剛健: 8px以下）、線は太め（16px表示でもつぶれない太さ）。"""
+    if slug in ART:
+        return ART[slug]
     fg = fg or _ink(accent)
     body = PICTO.get(slug, '<circle cx="12" cy="12" r="6"/>')
     return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="8" fill="{accent}"/>'
