@@ -5322,5 +5322,23 @@
   "og": "https://research.seadice.win/img/intend-but-dont-start-procrastination-why-research-og.jpg",
   "alt": "開いた白紙のノートと鉛筆",
   "local": true
+ },
+ "skipping-breakfast-weight-gain-research": {
+  "file": "File:Club Big Breakfast, The Coffee Club Riverton, 2026 (01).jpg",
+  "src": "/img/skipping-breakfast-weight-gain-research.jpg",
+  "src640": "/img/skipping-breakfast-weight-gain-research-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "カフェの朝食のプレート",
+  "artist": "Bahnfrend",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Club_Big_Breakfast,_The_Coffee_Club_Riverton,_2026_(01).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Club_Big_Breakfast%2C_The_Coffee_Club_Riverton%2C_2026_%2801%29.jpg/960px-Club_Big_Breakfast%2C_The_Coffee_Club_Riverton%2C_2026_%2801%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Club_Big_Breakfast%2C_The_Coffee_Club_Riverton%2C_2026_%2801%29.jpg/500px-Club_Big_Breakfast%2C_The_Coffee_Club_Riverton%2C_2026_%2801%29.jpg",
+  "og": "https://research.seadice.win/img/skipping-breakfast-weight-gain-research.jpg",
+  "local": true
  }
 }

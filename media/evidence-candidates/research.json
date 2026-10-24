@@ -9696,5 +9696,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-skipping-breakfast-weight-gain-research-meta",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sievert et al., \"Effect of breakfast on weight and energy intake: systematic review and meta-analysis of randomised controlled trials\" (BMJ, 2019)",
+    "sourceUrl": "https://doi.org/10.1136/bmj.l42",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/skipping-breakfast-weight-gain-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "朝ごはんを抜くと太る？",
+        "body": "「朝食を抜くと昼にドカ食いして太る」ってよく聞くよね。でもこれ、朝食を抜く人を観察した調査から広まった話なんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "くじで分けた13の試験",
+        "body": "オーストラリアの研究チームが、朝食を「食べる」「抜く」にくじで分けた大人の試験13本をまとめたよ。体重を見た試験は7本、食べた量を見た試験は10本。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "食べた人のほうが少し重かった",
+        "body": "体重は朝食を食べた人のほうが平均0.44kg多く、1日に食べた量も約260kcal多かったんだって。抜いた人が太るという結果は出なかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "期間が短く、質も高くない",
+        "body": "追跡は体重で平均7週間と短く、どの試験にも偏りの心配が残るらしい。何年も続けたらどうなるかや、子どもについてはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-skipping-breakfast-weight-gain-research-metabolism",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Betts et al., \"The causal role of breakfast in energy balance and health: a randomized controlled trial in lean adults\" (American Journal of Clinical Nutrition, 2014)",
+    "sourceUrl": "https://doi.org/10.3945/ajcn.114.083402",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/skipping-breakfast-weight-gain-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "朝ごはんで代謝が上がる？",
+        "body": "「朝食を食べると代謝が上がって太りにくい」って言われるよね。イギリスのバース大学が6週間の試験で確かめたよ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "700kcalの朝食か、正午まで水だけか",
+        "body": "やせ型の大人33人を、11時までに700kcal以上食べる組と、正午まで水だけの組に分けて、代謝や体の動きを測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "代謝は同じ、動く量が違った",
+        "body": "安静時の代謝は1日11kcalの範囲でほぼ同じ。朝食組は食べる量が539kcal多かったけど、体を動かして使う分も442kcal多く、体重に差は出なかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "33人・やせ型だけの結果",
+        "body": "人数が少なく、太りぎみの人や長い期間でも同じかはわからない。朝食を抜いた組は午後の血糖の上下がやや大きかったらしい。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
