@@ -7957,5 +7957,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "kokoro-appearance-comparison-body-functionality-recover-writing",
+    "category": "比べて落ち込む",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Cheng et al., \"Improving body image in female Chinese social media users with eating disorder symptoms: a randomized controlled trial of two online self-guided single-session interventions\" (Journal of Eating Disorders, 2025)",
+    "sourceUrl": "https://doi.org/10.1186/s40337-025-01497-3",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/appearance-comparison-body-functionality-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "見た目より「体ができること」を書く",
+        "body": "SNSで見た目を比べてしまう人に、体が何をできるかを書いてもらったらどうなるか。中国の研究チームが試したらしい。歩ける、味わえる、人と話せる、みたいなことだよ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "SNSをよく使う女性204人",
+        "body": "くじで3組に分けたんだ。体の働きを書く約40分の練習を1回する組、写真の加工のしくみを学ぶ練習を1回する組、待つ組。1週間後と4週間後に調べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "比べる傾向が4週間後も低かった",
+        "body": "書く練習の組も加工を学ぶ組も、待つ組より見た目を人と比べる傾向が低くなっていて、4週間後もその差が残っていた。体を大切に思う気持ちも高まっていたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "対象も期間も限られている",
+        "body": "参加したのは食べ方の悩みの症状が強めの女性で、比べた相手は待つだけの組。測ったのも4週間後までで、男性や長い期間での効果はまだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

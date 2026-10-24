@@ -5788,5 +5788,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Morning_mist_-_geograph.org.uk_-_1750691.jpg/500px-Morning_mist_-_geograph.org.uk_-_1750691.jpg",
   "og": "https://mentalai.seadice.win/img/forest-bathing-fatigue-recover.jpg",
   "local": true
+ },
+ "appearance-comparison-body-functionality-recover": {
+  "file": "File:Writing in a journal (Unsplash).jpg",
+  "src": "/img/appearance-comparison-body-functionality-recover.jpg",
+  "src640": "/img/appearance-comparison-body-functionality-recover-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木の机でノートに書く手元",
+  "artist": "Cathryn Lavery",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Writing_in_a_journal_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Writing_in_a_journal_%28Unsplash%29.jpg/960px-Writing_in_a_journal_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Writing_in_a_journal_%28Unsplash%29.jpg/500px-Writing_in_a_journal_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/appearance-comparison-body-functionality-recover.jpg",
+  "local": true
  }
 }
