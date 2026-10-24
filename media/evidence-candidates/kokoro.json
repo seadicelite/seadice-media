@@ -7991,5 +7991,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "kokoro-ai-instant-answers-curiosity-recover-predict",
+    "category": "考える力・集中",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Brod & Breitwieser, \"Lighting the wick in the candle of learning: generating a prediction stimulates curiosity\" (npj Science of Learning, 2019)",
+    "sourceUrl": "https://doi.org/10.1038/s41539-019-0056-y",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-instant-answers-curiosity-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "好奇心って、自分で高められる？",
+        "body": "すぐ答えが手に入ると、「知りたい！」って気持ちが前より薄い気がするよね。じゃあ好奇心って、ちょっとした工夫で高められるのかな。ドイツの研究チームが確かめたらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "答えを見る前に予想する",
+        "body": "学生29人に「10人のうち何人が〇〇か」という数字の問題を90問。半分は答えを見る前に数字を予想、残り半分は関係する例を思い浮かべてから、好奇心の強さを答えてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "予想すると好奇心が上がった",
+        "body": "予想した問題では、好奇心が高いとされた割合が約56%。例を考えた問題の約46%より多かった。好奇心が高い問題ほど、答えも少しよく覚えていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "学生29人・すぐあとのテスト",
+        "body": "人数は29人で、問題は単純な数字の雑学。記憶のテストは学習の直後で、全体の覚えている量は予想しても変わらなかった。毎日続けたらどうなるかもまだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

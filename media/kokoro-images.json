@@ -5806,5 +5806,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Writing_in_a_journal_%28Unsplash%29.jpg/500px-Writing_in_a_journal_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/appearance-comparison-body-functionality-recover.jpg",
   "local": true
+ },
+ "ai-instant-answers-curiosity-recover": {
+  "file": "File:Miniature Book, 'The English Lion', In Leather Case With Magnifying Glass (48708075908).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg/960px-Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg/500px-Miniature_Book%2C_%27The_English_Lion%27%2C_In_Leather_Case_With_Magnifying_Glass_%2848708075908%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "本と虫めがね",
+  "artist": "Auckland Museum  Collections from Auckland, Aotearoa New Zealand",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Miniature_Book,_%27The_English_Lion%27,_In_Leather_Case_With_Magnifying_Glass_(48708075908).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
