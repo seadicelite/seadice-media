@@ -9167,5 +9167,73 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-why-trying-to-memorize-doesnt-stick-depth-of-processing-forgetting-rate",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Peng, Logie & Della Sala, \"Effect of levels-of-processing on rates of forgetting\" (Memory & Cognition, 2025)",
+    "sourceUrl": "https://doi.org/10.3758/s13421-024-01599-4",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-trying-to-memorize-doesnt-stick-depth-of-processing/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "深く覚えれば忘れにくい？",
+        "body": "意味を考えて覚えた言葉は残りやすい、とよく言われる。じゃあ、深く覚えた言葉は忘れるのもゆっくりなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3つの実験、282人",
+        "body": "英国の研究チームが、単語に「文に当てはまる？」か「韻を踏む？」で答えさせ、直後から最長24時間後まで覚えているかを調べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "出発点は高い、忘れる速さは同じ",
+        "body": "意味を考えた単語は、どの時点でもよく覚えられていた。でも時間とともに忘れていく速さには、はっきりした差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "文章や何週間も後では？",
+        "body": "調べたのは単語の見分けテストで、長くて24時間後まで。教科書の文章や、何週間も先の試験で同じかは別に確かめる必要がある。"
+      }
+    ],
+    "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-why-trying-to-memorize-doesnt-stick-depth-of-processing-intent",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Popov & Dames, \"Intent matters: Resolving the intentional versus incidental learning paradox in episodic long-term memory\" (Journal of Experimental Psychology: General, 2023)",
+    "sourceUrl": "https://doi.org/10.1037/xge0001272",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-trying-to-memorize-doesnt-stick-depth-of-processing/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "「覚えよう」は関係ない？",
+        "body": "心理学の教科書では、覚えようとしてもしなくても、意味を考えれば同じだけ残る、と習うことがある。本当にそうなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "11の実験でやり直し",
+        "body": "全員に単語の意味を判断させたうえで、特定の色の単語だけを覚えるよう指示。同じ人の中で、覚えようとした単語とそうでない単語を比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "覚えようとした方が残った",
+        "body": "覚えようとした単語の方がはっきりよく残っていた。著者らは、意図はいつも効いていて、昔の実験の組み方では見えにくかったと結論づけたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の場面では？",
+        "body": "単語リストの実験で、意味を考えたうえでの比較。意味を考えずに気合いだけで覚えても効く、という話ではない。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
