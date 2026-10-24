@@ -8467,5 +8467,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "kokoro-sns-hard-to-quit-fatigue-why-self-clarity",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Aksu et al., \"Social media addiction, self-concept clarity, and social media fatigue: a two-wave longitudinal study\" (BMC Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.1186/s40359-026-05287-7",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/sns-hard-to-quit-fatigue-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "やめられないのに、疲れるのはなぜ？",
+        "body": "SNSって、楽しくないのに開いちゃって、閉じたらどっと疲れてることあるよね。やめられないことと疲れには、何か関係があるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "トルコの大人344人を3か月追った",
+        "body": "18〜63歳の344人に、3か月あけて2回、SNSのやめにくさ、「自分がどんな人か」のはっきりさ、SNS疲れを答えてもらった研究だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "間に「自分像のぼやけ」があった",
+        "body": "やめにくい使い方の人ほど3か月後に自分像がぼやけやすく、ぼやけている人ほど疲れが強めだったらしい。やめにくさから疲れへの直接の関連ははっきりしなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因とまでは言えない",
+        "body": "アンケートの関連で、分析の当てはまりも十分ではなかったんだ。自分像と疲れは同じ時点の測定で、どちらが先かもわからない。日本の人で同じかも未確認だよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
