@@ -9099,5 +9099,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-why-long-sentences-hard-to-read-working-memory-wm-training",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Melby-Lervåg, Redick & Hulme, \"Working Memory Training Does Not Improve Performance on Measures of Intelligence or Other Measures of 'Far Transfer'\" (Perspectives on Psychological Science, 2016)",
+    "sourceUrl": "https://doi.org/10.1177/1745691616635612",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/why-long-sentences-hard-to-read-working-memory/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "記憶トレーニングで読解力が上がる？",
+        "body": "頭の中に情報を置いておく「作業記憶」を鍛えれば、難しい文章も読めるようになる。そんな話、聞いたことあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "87の論文、145の比較",
+        "body": "作業記憶のトレーニングを調べた研究をまとめたメタ分析がある。読解や計算など、練習とは別の力が伸びるかを確かめた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "練習した課題だけ伸びた",
+        "body": "似た記憶テストの点は直後に上がった。でも読解などの成績は、別の作業をした対照群とくらべて確かな伸びが見られなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どんな練習なら効く？",
+        "body": "調べたのはパソコンでの記憶トレーニングが中心。実際に読む教材で区切り読みを練習するやり方が読解を伸ばすかは、別に確かめる必要がある。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

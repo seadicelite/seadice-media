@@ -4796,5 +4796,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Buntstifte_--_2021_--_9164.jpg/500px-Buntstifte_--_2021_--_9164.jpg",
   "og": "https://dokugaku.seadice.win/img/why-answer-key-feels-solvable-hindsight.jpg",
   "local": true
+ },
+ "why-long-sentences-hard-to-read-working-memory": {
+  "file": "File:Close up Samuel Johnson Folio and Abridged dictionaries – letter M.JPG",
+  "src": "/img/why-long-sentences-hard-to-read-working-memory.jpg",
+  "src640": "/img/why-long-sentences-hard-to-read-working-memory-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "辞書のページの文字",
+  "artist": "Jkarjalainen",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Close_up_Samuel_Johnson_Folio_and_Abridged_dictionaries_%E2%80%93_letter_M.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Close_up_Samuel_Johnson_Folio_and_Abridged_dictionaries_%E2%80%93_letter_M.JPG/960px-Close_up_Samuel_Johnson_Folio_and_Abridged_dictionaries_%E2%80%93_letter_M.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Close_up_Samuel_Johnson_Folio_and_Abridged_dictionaries_%E2%80%93_letter_M.JPG/500px-Close_up_Samuel_Johnson_Folio_and_Abridged_dictionaries_%E2%80%93_letter_M.JPG",
+  "og": "https://dokugaku.seadice.win/img/why-long-sentences-hard-to-read-working-memory.jpg",
+  "local": true
  }
 }
