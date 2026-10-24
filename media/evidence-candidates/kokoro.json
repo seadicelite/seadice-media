@@ -8603,5 +8603,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-other-kids-comparison-parent-prevent-identify",
+    "category": "比べて落ち込む",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wang et al., \"Parental Social Comparisons and Parent-Child Closeness in Families with Preschool Children: The Roles of Mindful Parenting and Parents' Education Anxiety\" (Behavioral Sciences, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/bs16071057",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/other-kids-comparison-parent-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "よその子と比べるのはダメ？",
+        "body": "園やSNSで、よその子の「もうできること」が目に入ると、つい比べちゃうよね。比べること自体が親子の関係に悪いのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "中国の幼児の親317人",
+        "body": "5〜6歳の子の親317人に、できる子を見たときの受け止め方と、子どもとの親しさを聞いたアンケートだよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "分かれ目は受け止め方",
+        "body": "「うちの子はできていない」と脅かされるように感じる親ほど親しさが低く、「うちの子も伸びる」とうれしく思う親ほど高かったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どちらが原因かは不明",
+        "body": "一度きりのアンケートだから、比べ方が関係を変えたのか、その逆かはわからない。対象は中国の都市部の親で、日本で同じかも確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

@@ -6127,5 +6127,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/IBM_Thinkpad_R51.jpg/500px-IBM_Thinkpad_R51.jpg",
   "og": "https://mentalai.seadice.win/img/work-stress-resilience-moments-prevent.jpg",
   "local": true
+ },
+ "other-kids-comparison-parent-prevent": {
+  "file": "File:A pile of alphabet wooden blocks.jpg",
+  "src": "/img/other-kids-comparison-parent-prevent.jpg",
+  "src640": "/img/other-kids-comparison-parent-prevent-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "木のおもちゃの積み木",
+  "artist": "Bobjgalindo",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_pile_of_alphabet_wooden_blocks.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/A_pile_of_alphabet_wooden_blocks.jpg/960px-A_pile_of_alphabet_wooden_blocks.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/A_pile_of_alphabet_wooden_blocks.jpg/500px-A_pile_of_alphabet_wooden_blocks.jpg",
+  "og": "https://mentalai.seadice.win/img/other-kids-comparison-parent-prevent.jpg",
+  "local": true
  }
 }
