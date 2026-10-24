@@ -6003,5 +6003,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Autumn_path_in_Zavr%C5%A1nica_valley_in_Slovenia.jpg/500px-Autumn_path_in_Zavr%C5%A1nica_valley_in_Slovenia.jpg",
   "og": "https://mentalai.seadice.win/img/walk-before-ideas-prevent.jpg",
   "local": true
+ },
+ "online-time-loneliness-prevent": {
+  "file": "File:Münster, Park Sentmaring -- 2016 -- 0786.jpg",
+  "src": "/img/online-time-loneliness-prevent.jpg",
+  "src640": "/img/online-time-loneliness-prevent-sm.jpg",
+  "w": 960,
+  "h": 644,
+  "alt": "公園の誰もいないベンチ",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Park_Sentmaring_--_2016_--_0786.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/M%C3%BCnster%2C_Park_Sentmaring_--_2016_--_0786.jpg/960px-M%C3%BCnster%2C_Park_Sentmaring_--_2016_--_0786.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/M%C3%BCnster%2C_Park_Sentmaring_--_2016_--_0786.jpg/500px-M%C3%BCnster%2C_Park_Sentmaring_--_2016_--_0786.jpg",
+  "og": "https://mentalai.seadice.win/img/online-time-loneliness-prevent.jpg",
+  "local": true
  }
 }

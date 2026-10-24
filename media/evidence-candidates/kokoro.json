@@ -8365,5 +8365,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "kokoro-online-time-loneliness-prevent-sns-time",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Matthews et al., \"Social media use, online experiences, and loneliness among young adults: A cohort study\" (Annals of the New York Academy of Sciences, 2025)",
+    "sourceUrl": "https://doi.org/10.1111/nyas.15370",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/online-time-loneliness-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "SNSの時間で孤独になる？",
+        "body": "「SNSを長く見ていると孤独になる」ってよく言われるよね。でも、時間の長さそのものが問題なのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "英国の26歳前後1,632人",
+        "body": "子どものころから追跡している英国の双子の調査で、26歳前後の1,632人にネットの使い方と孤独をたずねたんだ。2019〜2020年の調査だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "時間より使い方",
+        "body": "SNSに使う時間と孤独には関連がなかったらしい。孤独と結びついていたのは、仕事や友達をおろそかにするほどやめられない使い方と、ネットで悪口や嫌がらせを受けた経験だったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どちらが先かは不明",
+        "body": "1回のアンケートだから、使い方が孤独を生んだのか、孤独な人がそういう使い方になったのかは区別できないよ。米国の大人の調査では、SNSを確認する回数と孤独の関連も見られていて、結果はまだそろっていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
