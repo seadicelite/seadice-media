@@ -8263,5 +8263,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "kokoro-ai-consult-validate-then-question-reply-style",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Liu et al., \"Comparing researcher-curated AI-drafted feedback styles for negative automatic thought believability: an online randomized scenario-based experiment\" (Frontiers in Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2026.1926092",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-consult-validate-then-question/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIにどう返してもらうと楽？",
+        "body": "落ち込んで「自分はダメだ」と思ったとき、AIに相談する人も多いよね。共感してほしい？それとも冷静に問いかけてほしい？どっちが楽になるのか、比べた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "4種類の返事を比べた",
+        "body": "中国語で答えた389人に、発表の失敗などの場面を読んでもらい、AIで下書きした返事を1つ読んでもらったよ。説明だけ、共感だけ、問いかけだけ、受け止めてから問いかける、の4種類。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "受け止めてから問いかける",
+        "body": "「自分はダメだ」を信じる度合い（7段階）は、説明だけで0.29点、受け止めてから問いかける返事で1.00点下がったらしい。問いかけだけの返事は、押しつけがましく感じられやすかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本当の悩みでも同じ？",
+        "body": "架空の場面で、決まった返事を1回読んだだけの実験。自分の悩みでAIと何度も話したときや、数日後まで効果が続くかは、まだ調べられていないよ。参加者は若い大学生が中心だった。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

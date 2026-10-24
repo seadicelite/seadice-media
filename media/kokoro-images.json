@@ -5950,5 +5950,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Huijeongdang_Hall_interior_through_open_doors_at_Changdeokgung_Palace_in_Seoul.jpg/500px-Huijeongdang_Hall_interior_through_open_doors_at_Changdeokgung_Palace_in_Seoul.jpg",
   "og": "https://mentalai.seadice.win/img/doorway-forget-why-entered-room.jpg",
   "local": true
+ },
+ "ai-consult-validate-then-question": {
+  "file": "File:Desk-pencil-eraser-black.jpg",
+  "src": "/img/ai-consult-validate-then-question.webp",
+  "src640": "/img/ai-consult-validate-then-question-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "消しゴムつきの鉛筆を立てたペン立て",
+  "artist": "Karolina Grabowska",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk-pencil-eraser-black.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Desk-pencil-eraser-black.jpg/960px-Desk-pencil-eraser-black.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Desk-pencil-eraser-black.jpg/500px-Desk-pencil-eraser-black.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-consult-validate-then-question-og.jpg",
+  "local": true
  }
 }
