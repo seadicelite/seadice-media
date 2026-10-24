@@ -6091,5 +6091,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Lake_Crescent_calm_1996.jpg/500px-Lake_Crescent_calm_1996.jpg",
   "og": "https://mentalai.seadice.win/img/low-self-esteem-ai-chat-why-og.jpg",
   "local": true
+ },
+ "phone-time-check-watch-prevent": {
+  "file": "File:Damasko DC56 - German analog chronograph wristwatch with mechanical movement type Valjoux 7750.jpg",
+  "src": "/img/phone-time-check-watch-prevent.jpg",
+  "src640": "/img/phone-time-check-watch-prevent-sm.jpg",
+  "w": 960,
+  "h": 906,
+  "alt": "アナログの腕時計",
+  "artist": "Markdjwilliams",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Damasko_DC56_-_German_analog_chronograph_wristwatch_with_mechanical_movement_type_Valjoux_7750.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Damasko_DC56_-_German_analog_chronograph_wristwatch_with_mechanical_movement_type_Valjoux_7750.jpg/960px-Damasko_DC56_-_German_analog_chronograph_wristwatch_with_mechanical_movement_type_Valjoux_7750.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Damasko_DC56_-_German_analog_chronograph_wristwatch_with_mechanical_movement_type_Valjoux_7750.jpg/500px-Damasko_DC56_-_German_analog_chronograph_wristwatch_with_mechanical_movement_type_Valjoux_7750.jpg",
+  "og": "https://mentalai.seadice.win/img/phone-time-check-watch-prevent.jpg",
+  "local": true
  }
 }
