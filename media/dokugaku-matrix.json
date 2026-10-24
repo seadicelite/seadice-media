@@ -368,7 +368,8 @@
           "study-log-progress-monitoring",
           "https://dokugaku.seadice.win/study-log/",
           "https://dokugaku.seadice.win/templates/if-then/",
-          "study-habit-cue-checklist-sheet"
+          "study-habit-cue-checklist-sheet",
+          "study-not-continuing-com-b-check-sheet"
         ],
         "stuck": [
           "restart-study-after-break",

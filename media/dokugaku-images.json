@@ -5156,5 +5156,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TW_%E5%8F%B0%E6%B9%BE_Taipei_%E5%8F%B0%E5%8C%97_Hotel_Metropolitan_Premier_Taipei_%E9%85%92%E5%BA%97%E6%88%BF%E9%96%93_hotel_room_%E6%9E%95%E9%A0%AD_white_pillows_n_%E5%B7%A8%E5%BA%8A_big_big_bed_March_2024_R12S_02.jpg/500px-TW_%E5%8F%B0%E6%B9%BE_Taipei_%E5%8F%B0%E5%8C%97_Hotel_Metropolitan_Premier_Taipei_%E9%85%92%E5%BA%97%E6%88%BF%E9%96%93_hotel_room_%E6%9E%95%E9%A0%AD_white_pillows_n_%E5%B7%A8%E5%BA%8A_big_big_bed_March_2024_R12S_02.jpg",
   "og": "https://dokugaku.seadice.win/img/bed-desk-study-place-sorting-table.jpg",
   "local": true
+ },
+ "study-not-continuing-com-b-check-sheet": {
+  "file": "File:Magnetic compass deck - panoramio.jpg",
+  "src": "/img/study-not-continuing-com-b-check-sheet.jpg",
+  "src640": "/img/study-not-continuing-com-b-check-sheet-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "船の甲板に置かれた羅針儀（方位磁石）と海",
+  "artist": "---=XEON=---",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Magnetic_compass_deck_-_panoramio.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Magnetic_compass_deck_-_panoramio.jpg/960px-Magnetic_compass_deck_-_panoramio.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Magnetic_compass_deck_-_panoramio.jpg/500px-Magnetic_compass_deck_-_panoramio.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-not-continuing-com-b-check-sheet.jpg",
+  "local": true
  }
 }

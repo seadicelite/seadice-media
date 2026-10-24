@@ -9949,5 +9949,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-study-not-continuing-com-b-check-sheet-self-monitoring",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Michie et al., \"Effective techniques in healthy eating and physical activity interventions: a meta-regression\" (Health Psychology, 2009)",
+    "sourceUrl": "https://doi.org/10.1037/a0016136",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/study-not-continuing-com-b-check-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "続ける工夫、どれが効く？",
+        "body": "運動や食事を変えるプログラムには、目標づくり、ごほうび、記録など、いろいろな工夫が入っているよね。どの工夫が効き目の差を生んでいるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "122の評価、4万人以上をまとめた",
+        "body": "大人の運動や食事を変える介入の122の評価（合計4万4747人）をまとめ、26種類の工夫ごとに効果の違いを調べたメタ回帰分析がある。全体の効果の大きさは0.31だった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "いちばん差を説明したのは「記録」",
+        "body": "研究ごとの効果の違いをいちばんよく説明したのは、自分の行動を記録する工夫だった。記録にもう1つ自己管理の工夫を組み合わせた介入は、効果が0.42で、そうでない介入の0.26より大きかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強でも同じかは未確認",
+        "body": "対象は大人の運動と食事の介入で、勉強の研究ではない。研究どうしの効果のばらつきも大きかった。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
