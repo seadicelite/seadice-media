@@ -9526,5 +9526,39 @@
     "articleUrl": "https://research.seadice.win/train-car-sleepy-rocking-vibration-why-research/",
     "articleSite": "悩みの科学",
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "research-broccoli-cabbage-bitter-taste-gene-why-research-masking",
+    "category": "食べもの",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sharafi M et al., \"Masking Vegetable Bitterness to Improve Palatability Depends on Vegetable Type and Taste Phenotype\" (Chemosensory Perception, 2013)",
+    "sourceUrl": "https://doi.org/10.1007/s12078-012-9137-5",
+    "studyType": "実験",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "芽キャベツが苦いのは自分だけ？",
+        "body": "同じ野菜を食べても「全然苦くない」という人と「苦くて無理」という人がいるよね。実は、感じている苦さそのものが違うらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "37人に苦い野菜を味見してもらった",
+        "body": "アメリカの研究チームが、大人37人にアスパラガス・芽キャベツ・ケールを味見してもらったよ。苦味物質PROPの感じ方で3グループに分け、塩や甘味料を足すと苦さがどう変わるかを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "甘味料がいちばん苦味を抑えた",
+        "body": "PROPを苦く感じにくい人は、野菜の苦さもいちばん弱く感じていた。足すものでは甘味料（アスパルテーム）がどの野菜でも苦味を最も抑えた。ただ、PROPをとても苦く感じる人には甘すぎたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふだんの食事でも食べる量は増える？",
+        "body": "実験室で少しずつ味見した結果で、人数も37人と少なめ。家の食事で野菜を食べる量まで増えるかは、この研究では調べていないよ。"
+      }
+    ],
+    "articleUrl": "https://research.seadice.win/broccoli-cabbage-bitter-taste-gene-why-research/",
+    "articleSite": "悩みの科学",
+    "addedAt": "2026-10-24"
   }
 ]
