@@ -9473,5 +9473,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-why-vague-study-goals-hard-to-start-concrete-construal",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "McCrea et al., \"Construal level and procrastination\" (Psychological Science, 2008)",
+    "sourceUrl": "https://doi.org/10.1111/j.1467-9280.2008.02240.x",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-vague-study-goals-hard-to-start/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "大きく決めたのに始まらない",
+        "body": "「今年こそ英語をやる」と決めたのに、何週間も手をつけていない。目標はあるのに、なぜ始められないんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3週間以内に返す課題で実験",
+        "body": "参加者に「3週間以内にメールで返して」と質問紙を送った研究がある。中身を変えて、物事を大まかに考える組と、具体的に考える組をつくった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "具体的に考えた人ほど早く返した",
+        "body": "具体的に考えるように促された人ほど、先延ばしせずに早く返したらしい。課題を面白い・大切・難しいと感じたかとは関係がなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い勉強でも同じかは不明",
+        "body": "課題は短い質問紙で、何か月も続く勉強を調べたものではない。同じ方法での追試があるかも確かめられていない。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]
