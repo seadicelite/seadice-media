@@ -9609,5 +9609,73 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "dokugaku-confidence-rated-answer-check-sheet-hypercorrection",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Butterfield & Metcalfe, \"Errors committed with high confidence are hypercorrected\" (Journal of Experimental Psychology: Learning, Memory, and Cognition, 2001)",
+    "sourceUrl": "https://doi.org/10.1037/0278-7393.27.6.1491",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/confidence-rated-answer-check-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "思い込んだ間違いほど直らない？",
+        "body": "「絶対これだ」と自信満々で覚えた間違いは、頭にこびりついて直しにくい。そんなイメージ、あるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "自信をつけてから答え合わせ",
+        "body": "一般常識の問題に答えて、1問ごとに自信を評価。そのあと正しい答えを見て、もう一度テストを受ける実験がある。研究者自身は「自信のある間違いほど直りにくい」と予想していたらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "結果は逆だった",
+        "body": "実は、自信の高かった間違いほど、再テストで正しく直っていた。「過剰修正効果」と呼ばれていて、大学の授業の問題でも見られたという研究もあるよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ずっと直ったまま？",
+        "body": "別の研究では、1週間たつと直った分が減って、正しい答えを忘れたときは自信のあった間違いに戻りやすかった。雑学の問題での実験が中心で、長い期間の勉強でどうなるかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-confidence-rated-answer-check-sheet-lucky-guess",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Butler et al., \"Correcting a metacognitive error: Feedback increases retention of low-confidence correct responses\" (Journal of Experimental Psychology: Learning, Memory, and Cognition, 2008)",
+    "sourceUrl": "https://doi.org/10.1037/0278-7393.34.4.918",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/confidence-rated-answer-check-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "勘で当たった問題、解説読む？",
+        "body": "選択問題で、なんとなく選んだら当たった。正解だし、解説は飛ばしていいよね…と思いがち。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "正解のあとに答えを見せる",
+        "body": "一般常識の選択式テストで、1問ごとに自信を評価。半分の問題だけ正しい答えを見せて、あとで答えを書くテストをした実験がある。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "自信のない正解は約2倍残った",
+        "body": "答えを見ると、間違いが直るだけじゃなかった。自信がないまま当たった正解も、答えを見なかった場合の約2倍覚えていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どんな問題でも同じ？",
+        "body": "単語を書いて答える別の実験では、正解のあとに答えを見せてもほとんど差がなかった。選択式かどうかで違うのかもしれないけど、はっきりしたことはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

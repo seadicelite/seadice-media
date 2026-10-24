@@ -1,5 +1,13 @@
 [
   {
+    "slug": "confidence-rated-answer-check-sheet",
+    "category": "記憶・覚え方",
+    "type": "guide",
+    "date": "2026-10-25",
+    "title": "答え合わせの前に「自信」をつける表。自信があったのに間違えた問題と、勘で当たった問題を分けて復習する（過剰修正効果とフィードバックの研究から）",
+    "summary": "自信のある誤りほど答えを見ると直りやすいが、1週間後に戻ることも。◎○△をつけて4つに分ける答え合わせ表"
+  },
+  {
     "slug": "self-quiz-three-level-question-sheet",
     "category": "勉強法",
     "type": "guide",

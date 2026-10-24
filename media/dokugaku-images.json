@@ -5012,5 +5012,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Creative-desk-pens-school-2_%2824300233966%29.jpg/500px-Creative-desk-pens-school-2_%2824300233966%29.jpg",
   "og": "https://dokugaku.seadice.win/img/self-quiz-three-level-question-sheet.jpg",
   "local": true
+ },
+ "confidence-rated-answer-check-sheet": {
+  "file": "File:Red Pen, Yellow Pen.... (9258399677).jpg",
+  "src": "/img/confidence-rated-answer-check-sheet.jpg",
+  "src640": "/img/confidence-rated-answer-check-sheet-sm.jpg",
+  "w": 960,
+  "h": 613,
+  "alt": "赤いペンと黄色いペン",
+  "artist": "Digital-Designs",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Red_Pen,_Yellow_Pen...._(9258399677).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Red_Pen%2C_Yellow_Pen...._%289258399677%29.jpg/960px-Red_Pen%2C_Yellow_Pen...._%289258399677%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Red_Pen%2C_Yellow_Pen...._%289258399677%29.jpg/500px-Red_Pen%2C_Yellow_Pen...._%289258399677%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/confidence-rated-answer-check-sheet.jpg",
+  "local": true
  }
 }
