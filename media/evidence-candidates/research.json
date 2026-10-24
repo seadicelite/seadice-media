@@ -9900,5 +9900,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-identity-based-habit-become-the-person-research-voter-replication",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gerber et al., \"A field experiment shows that subtle linguistic cues might not affect voter behavior\" (PNAS, 2016)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.1513727113",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/identity-based-habit-become-the-person-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "「〇〇する人」と呼ぶと行動が増える？",
+        "body": "「投票する」より「投票者になる」と聞かれた人のほうが、投票率が11〜14ポイント高かった。そんな2011年の実験が話題になったよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "約4,500人でやり直した",
+        "body": "別の研究チームが、2014年に3つの州の予備選挙で同じ聞き方を試したよ。名詞で聞いた組が2,236人、動詞で聞いた組が2,232人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "投票率に差はなかった",
+        "body": "投票率は名詞の組で30.1%、動詞の組で31.1%。差は見られなかった。短い「投票に行きましょう」の呼びかけのほうが効いたと見積もられたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "選挙の注目度の違い",
+        "body": "元の実験は大統領選など注目度の高い選挙だった。元の研究者は「状況が違う」と反論していて、条件しだいで効くのかはまだ決着していないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-identity-based-habit-become-the-person-research-do-science",
+    "category": "習慣",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rhodes et al., \"Subtle Linguistic Cues Increase Girls' Engagement in Science\" (Psychological Science, 2019)",
+    "sourceUrl": "https://doi.org/10.1177/0956797618823670",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/identity-based-habit-become-the-person-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「〇〇になろう」は励みになる？",
+        "body": "「科学者になろう！」と「科学をしよう！」。言い方はちょっとの違いだけど、子どもの粘り強さは変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "4〜9歳の501人で実験",
+        "body": "アメリカの研究チームが、4つの実験で子ども501人にどちらかの言葉をかけて、わざと失敗が混ざるゲームをしてもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "女の子は「しよう」で粘った",
+        "body": "女の子は「科学をしよう」と言われたほうが、失敗の後もゲームを続けた。男の子では、名詞のほうが粘る場合もあったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人の習慣でも同じ？",
+        "body": "調べたのは幼い子どもと短いゲームだけ。大人が運動や勉強の習慣をつくるときに同じことが起きるかは、まだ確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

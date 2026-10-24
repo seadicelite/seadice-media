@@ -5430,5 +5430,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Moleskine_Evernote_Smart_Notebook_and_pen_%288401944314%29.jpg/500px-Moleskine_Evernote_Smart_Notebook_and_pen_%288401944314%29.jpg",
   "og": "https://research.seadice.win/img/procrastination-one-task-single-session-how-research.jpg",
   "local": true
+ },
+ "identity-based-habit-become-the-person-research": {
+  "file": "File:OutDoor 2018, Friedrichshafen (1X7A0305).jpg",
+  "src": "/img/identity-based-habit-become-the-person-research.jpg",
+  "src640": "/img/identity-based-habit-become-the-person-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "ランニングシューズ",
+  "artist": "Matti Blume",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:OutDoor_2018,_Friedrichshafen_(1X7A0305).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/OutDoor_2018%2C_Friedrichshafen_%281X7A0305%29.jpg/960px-OutDoor_2018%2C_Friedrichshafen_%281X7A0305%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/OutDoor_2018%2C_Friedrichshafen_%281X7A0305%29.jpg/500px-OutDoor_2018%2C_Friedrichshafen_%281X7A0305%29.jpg",
+  "og": "https://research.seadice.win/img/identity-based-habit-become-the-person-research.jpg",
+  "local": true
  }
 }
