@@ -223,6 +223,8 @@ def build(slug, preview=None):
         print(f"app cards: {an} articles, {len(aurls)} app pages")
     if tn:
         print(f"toolbox: {tn} articles, hub {turls or 'kept'}")
+    import dailypick  # トップの日替わり1本(設定 dailyPick があるメディアだけ。readcheck より前に入れる)
+    dailypick.apply(cfg, posts)
     import readcheck  # 読んだ記事のチェック(設定 readCheck があるメディアだけ。最後に作り直されたトップ・カテゴリにも入れる)
     readcheck.apply(cfg, posts)
     site_og(cfg)

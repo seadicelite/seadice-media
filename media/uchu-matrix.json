@@ -1,5 +1,5 @@
 {
-  "note": "宇宙の研究のマス（分野×問い）。記事を足すときは最も薄いマス（空き→1本）から書く。slug か道具のURL。",
+  "note": "宇宙の研究のマス（分野×問い）。記事を足すときは最も薄いマス（空き→1本）から書く。slug か道具のURL。 同じ天体・テーマを別の問い（列）から書くのはよい（記事どうしをリンクでつなぐ）。同じ問いの記事は増やさない。",
   "cols": [
     {
       "id": "what",
@@ -30,6 +30,26 @@
       "id": "see",
       "label": "見る・試す",
       "q": "自分の目で見る方法、シミュレーターや道具で試す"
+    },
+    {
+      "id": "odd",
+      "label": "意外な話",
+      "q": "へえ、と思う事実は？（確かさを分けて）"
+    },
+    {
+      "id": "history",
+      "label": "発見の物語",
+      "q": "誰が、どうやって最初に気づいたのか"
+    },
+    {
+      "id": "life",
+      "label": "暮らしとつながる",
+      "q": "カレンダー・時計・地球に届くものなど、毎日の暮らしとのつながり"
+    },
+    {
+      "id": "whatif",
+      "label": "もしも",
+      "q": "もし〜だったら？を、物理と観測で考える"
     }
   ],
   "rows": [
@@ -60,6 +80,9 @@
         ],
         "see": [
           "blackhole-visible"
+        ],
+        "whatif": [
+          "if-sun-blackhole"
         ]
       }
     },
@@ -86,6 +109,9 @@
         ],
         "what": [
           "what-is-big-bang"
+        ],
+        "history": [
+          "cmb-discovery"
         ]
       }
     },
@@ -140,6 +166,12 @@
         ],
         "how": [
           "star-distance"
+        ],
+        "odd": [
+          "sunlight-journey"
+        ],
+        "history": [
+          "pulsar-discovery"
         ]
       }
     },
@@ -166,6 +198,9 @@
         ],
         "unknown": [
           "spiral-arms"
+        ],
+        "odd": [
+          "interstellar-molecules"
         ]
       }
     },
@@ -191,10 +226,23 @@
         ],
         "unknown": [
           "comets-oort-cloud",
-          "saturn-rings"
+          "saturn-rings",
+          "oumuamua"
         ],
         "see": [
           "https://uchu.seadice.win/tools/planet/"
+        ],
+        "odd": [
+          "venus-day-longer-than-year"
+        ],
+        "history": [
+          "neptune-discovery"
+        ],
+        "life": [
+          "meteorites-falling"
+        ],
+        "whatif": [
+          "if-jupiter-not-exist"
         ]
       }
     },
@@ -219,6 +267,15 @@
         ],
         "unknown": [
           "corona-heating"
+        ],
+        "odd": [
+          "moon-moving-away"
+        ],
+        "whatif": [
+          "if-moon-disappeared"
+        ],
+        "life": [
+          "leap-year-leap-second"
         ]
       }
     },
@@ -248,6 +305,9 @@
         ],
         "see": [
           "https://uchu.seadice.win/exoplanets/"
+        ],
+        "odd": [
+          "diamond-planet"
         ]
       }
     },
@@ -305,6 +365,12 @@
         ],
         "see": [
           "satellites-naked-eye"
+        ],
+        "odd": [
+          "space-smell"
+        ],
+        "whatif": [
+          "space-without-suit"
         ]
       }
     },

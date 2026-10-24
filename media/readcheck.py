@@ -33,7 +33,7 @@ _LOAD = "var K='%s-read',R={};try{R=JSON.parse(localStorage.getItem(K)||'{}')||{
 # 本文中の読んだ記事へのリンクに印を付ける（カード型は右上の札、文中のリンクは小さな札）。上部ナビとフッターは除く
 _MARK = ("function rcMark(){[].forEach.call(document.querySelectorAll('a[href]'),function(a){var h=a.getAttribute('href')||'',m=h.match(/^\\/([a-z0-9-]+)\\/$/);"
          "a.classList.remove('rc-done','rc-in');if(!m||!R[m[1]]||a.closest('nav.top,footer,.ticker'))return;"
-         "a.classList.add(a.matches('a.card,a.feat,a.srow')?'rc-done':'rc-in')})}rcMark();")
+         "a.classList.add(a.matches('a.card,a.feat,a.srow,a.dp')?'rc-done':'rc-in')})}rcMark();")
 
 
 def _article_block(key, slug, total):
