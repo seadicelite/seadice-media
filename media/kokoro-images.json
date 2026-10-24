@@ -6074,5 +6074,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bench_and_trees_%281245397989%29.jpg/500px-Bench_and_trees_%281245397989%29.jpg",
   "og": "https://mentalai.seadice.win/img/sns-hard-to-quit-fatigue-why-og.jpg",
   "local": true
+ },
+ "low-self-esteem-ai-chat-why": {
+  "file": "File:Lake Crescent calm 1996.jpg",
+  "src": "/img/low-self-esteem-ai-chat-why.webp",
+  "src640": "/img/low-self-esteem-ai-chat-why-sm.webp",
+  "w": 960,
+  "h": 397,
+  "alt": "静かな湖の水面",
+  "artist": "Ron Clausen",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lake_Crescent_calm_1996.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Lake_Crescent_calm_1996.jpg/960px-Lake_Crescent_calm_1996.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Lake_Crescent_calm_1996.jpg/500px-Lake_Crescent_calm_1996.jpg",
+  "og": "https://mentalai.seadice.win/img/low-self-esteem-ai-chat-why-og.jpg",
+  "local": true
  }
 }

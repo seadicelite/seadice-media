@@ -8501,5 +8501,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-low-self-esteem-ai-chat-why-escapism",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yao et al., \"Connecting self-esteem to problematic AI chatbot use: the multiple mediating roles of positive and negative psychological states\" (Frontiers in Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2025.1453072",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/low-self-esteem-ai-chat-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "自信がないとAIにはまる？",
+        "body": "落ち込んでいる時期ほど、AIとのチャットを閉じられなくなる気がしない？自分への評価と、AIのやめにくさって関係あるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "AIチャット利用者563人の調査",
+        "body": "AIチャットを使ったことがある18歳以上の563人が、中国語の質問票で、自分への評価や、やめようとしてもやめられないかなどに答えた研究だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "間に不安と「忘れたい」気持ち",
+        "body": "自分への評価が低い人ほどやめにくい傾向が強めで、その間には人と話す不安、つらさを忘れたい気持ち、時間を忘れて没頭する感覚が挟まっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どちらが先かは不明",
+        "body": "1回だけのアンケートで、自信のなさが原因なのか、はまるうちに自信が下がるのかはわからないんだ。日本の人や10代で同じかも未確認だよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
