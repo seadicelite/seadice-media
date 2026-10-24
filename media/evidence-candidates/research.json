@@ -9390,5 +9390,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "research-earworm-song-stuck-in-head-why-research-repeated-exposure",
+    "category": "記憶・学習",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Killingly C et al., \"The song that never ends: The effect of repeated exposure on the development of an earworm\" (Quarterly Journal of Experimental Psychology, 2023)",
+    "sourceUrl": "https://doi.org/10.1177/17470218231152368",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/earworm-song-stuck-in-head-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "なぜ同じ曲が頭から離れない？",
+        "body": "朝に聴いた曲のサビが、昼まで頭の中でくり返す。「イヤーワーム」と呼ばれる現象だよ。何度も聴いた曲ほど起きやすいのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "知らない曲を1〜4回聴いた",
+        "body": "オーストラリアの研究で、44人が聴いたことのない4曲のサビを、曲ごとに1〜4回聴いた。翌日、数字の並びを覚える課題の途中と直後に、その曲を流したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "4回聴いた曲は、終わっても邪魔した",
+        "body": "前日に4回聴いた曲では、曲が終わったあとも覚える成績が下がった。「合わせて歌いたい」気持ちも2日目に強くなっていた。頭の中で歌うことが、記憶の作業をふさぐと考えられているらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "曲によってちがった",
+        "body": "効果はすべての曲で同じではなく、曲ごとにばらつきがあった。参加者も44人と少なめなので、どんな曲が残りやすいかはまだはっきりしないよ。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

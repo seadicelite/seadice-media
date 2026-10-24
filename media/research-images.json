@@ -5161,5 +5161,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TCM_237387_alarm_clock_with_MP3_player-7459.jpg/500px-TCM_237387_alarm_clock_with_MP3_player-7459.jpg",
   "og": "https://research.seadice.win/img/sleep-restriction-time-in-bed-insomnia-how-research.jpg",
   "local": true
+ },
+ "earworm-song-stuck-in-head-why-research": {
+  "file": "File:Passenger Experience Week 2024, headphones (P1180629).jpg",
+  "src": "/img/earworm-song-stuck-in-head-why-research.jpg",
+  "src640": "/img/earworm-song-stuck-in-head-why-research-sm.jpg",
+  "w": 960,
+  "h": 943,
+  "alt": "棚に並んだヘッドホン",
+  "artist": "User:Celestinesucess",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Passenger_Experience_Week_2024,_headphones_(P1180629).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Passenger_Experience_Week_2024%2C_headphones_%28P1180629%29.jpg/960px-Passenger_Experience_Week_2024%2C_headphones_%28P1180629%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Passenger_Experience_Week_2024%2C_headphones_%28P1180629%29.jpg/500px-Passenger_Experience_Week_2024%2C_headphones_%28P1180629%29.jpg",
+  "og": "https://research.seadice.win/img/earworm-song-stuck-in-head-why-research.jpg",
+  "local": true
  }
 }
