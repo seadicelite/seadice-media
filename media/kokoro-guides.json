@@ -50,7 +50,10 @@
     "burnout-memory-focus-recover",
     "yoga-stress-fatigue-recover",
     "work-criticism-rumination-walk",
-    "asmr-relax-fatigue"
+    "asmr-relax-fatigue",
+    "hot-room-focus",
+    "post-vacation-work-rumination",
+    "camping-natural-light-body-clock"
    ]
   },
   {
@@ -105,7 +108,9 @@
     "decision-fatigue-real",
     "work-chat-coworker-comparison",
     "job-rejection-self-compassion",
-    "ai-fear-hesitant-to-use"
+    "ai-fear-hesitant-to-use",
+    "ai-workplace-readiness-autonomy",
+    "post-vacation-work-rumination"
    ]
   },
   {
@@ -165,7 +170,9 @@
     "burnout-memory-focus-recover",
     "ai-dependency-impulsivity-prevent",
     "cute-animal-photos-focus",
-    "online-vigilance-always-on"
+    "online-vigilance-always-on",
+    "handwriting-vs-typing-memory",
+    "hot-room-focus"
    ]
   },
   {
@@ -215,7 +222,10 @@
     "edited-selfie-real-face",
     "job-rejection-self-compassion",
     "comparison-meaning-in-life",
-    "comparison-happy-memories"
+    "comparison-happy-memories",
+    "ai-use-life-satisfaction",
+    "income-rank-comparison-low-mood",
+    "fitness-app-ranking-comparison-prevent"
    ]
   },
   {
@@ -270,7 +280,8 @@
     "new-group-slow-to-bond",
     "friend-venting-listener-drained",
     "conversation-silence-awkward",
-    "volunteering-loneliness-prevent"
+    "volunteering-loneliness-prevent",
+    "loneliness-community-groups-recover"
    ]
   },
   {
@@ -323,7 +334,10 @@
     "ai-reliance-resilience-support",
     "ai-dependency-impulsivity-prevent",
     "edited-selfie-real-face",
-    "ai-fear-hesitant-to-use"
+    "ai-fear-hesitant-to-use",
+    "handwriting-vs-typing-memory",
+    "ai-use-life-satisfaction",
+    "ai-consult-limits-know-first"
    ]
   }
  ]
