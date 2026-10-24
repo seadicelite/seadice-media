@@ -8671,5 +8671,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-exercise-loneliness-recover-isolated",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Blindheim et al., \"Physical exercise and loneliness in higher education: a national study of Norwegian students\" (BMC Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.1186/s40359-026-04183-4",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/exercise-loneliness-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "運動する人は孤独が少ない？",
+        "body": "体を動かすと気分が晴れるってよく聞くよね。じゃあ「孤独」とも関係があるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ノルウェーの学生5万9,544人",
+        "body": "2022年に、18〜35歳の学生に運動の回数・強さ・時間と、孤独の感じ方を聞いたんだ。「孤立している」とよく感じる人は19.1%だったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "運動する人ほど孤立感が少なめ",
+        "body": "生活習慣などを考慮しても、週4〜5回運動する女性は、運動しない女性より「孤立している」と感じる見込み（オッズ）が0.43倍。週1回でも少なめだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "運動が原因かは不明",
+        "body": "1回だけの調査だから、運動で孤独が減るのか、孤独じゃない人が運動しやすいのかは区別できないんだ。米国の追跡では、運動を増やしても孤独は変わらなかったよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
