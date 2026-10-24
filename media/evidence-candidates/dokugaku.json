@@ -9677,5 +9677,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-study-session-before-during-after-check-card-planning-myth",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sitzmann & Ely, \"A meta-analysis of self-regulated learning in work-related training and educational attainment: What we know and where we need to go\" (Psychological Bulletin, 2011)",
+    "sourceUrl": "https://doi.org/10.1037/a0022777",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/study-session-before-during-after-check-card/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "計画上手ほど、よく学べる？",
+        "body": "勉強ができる人は、きっちり計画を立てて進み具合を見張っている。だから計画さえ立てれば伸びる…って思いがちだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "430本の研究をまとめた",
+        "body": "仕事の研修と学校での学びについて、430本・のべ9万380人の研究をまとめたメタ分析がある。学び方のどの要素が成果と関係するかを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "強かったのは目標と努力",
+        "body": "成果と強く関係していたのは、目標の高さ・粘り強さ・努力・「できそう」という感覚の4つ。実は、計画や見張りそのものは、成果とはっきりした関係がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "計画は無駄ってこと？",
+        "body": "多くは関係を見た研究で、因果はわからない。計画は、時間どおりに取り組めたときに役立つという実験もあって、書くだけでいいのかはまだはっきりしていない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-study-session-before-during-after-check-card-diary-feedback",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bellhäuser, Dignath & Theobald, \"Daily automated feedback enhances self-regulated learning: a longitudinal randomized field experiment\" (Frontiers in Psychology, 2023)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2023.1125873",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/study-session-before-during-after-check-card/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "どんな研究？",
+        "title": "36日間の勉強日記",
+        "body": "ドイツの大学生194人が、36日間、朝に今日の目標と計画を、夜に満足度や予定どおりにできたかを日記に書いた。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "毎晩ひとことの助言",
+        "body": "半分の人には、夜の答えに合わせた短い助言が毎日自動で届いた。もう半分は日記だけ。2つのグループをくらべたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "計画と予定どおり度が上がった",
+        "body": "助言を受けた人は、計画の立て方や予定どおりに進んだ度合い、満足度が高かった。でも、先延ばしや努力の量は変わらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "成績は上がった？",
+        "body": "成績は測っていないし、答えはすべて本人の自己評価。両方のグループが日記を書いていたので、日記そのものの効果もまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

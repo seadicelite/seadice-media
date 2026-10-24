@@ -5030,5 +5030,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Red_Pen%2C_Yellow_Pen...._%289258399677%29.jpg/500px-Red_Pen%2C_Yellow_Pen...._%289258399677%29.jpg",
   "og": "https://dokugaku.seadice.win/img/confidence-rated-answer-check-sheet.jpg",
   "local": true
+ },
+ "study-session-before-during-after-check-card": {
+  "file": "File:Aaron Burden 2015-09-24 (Unsplash).jpg",
+  "src": "/img/study-session-before-during-after-check-card.jpg",
+  "src640": "/img/study-session-before-during-after-check-card-sm.jpg",
+  "w": 960,
+  "h": 721,
+  "alt": "机の上に開いたノートとペン",
+  "artist": "Aaron Burden aaronburden",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Aaron_Burden_2015-09-24_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aaron_Burden_2015-09-24_%28Unsplash%29.jpg/960px-Aaron_Burden_2015-09-24_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aaron_Burden_2015-09-24_%28Unsplash%29.jpg/500px-Aaron_Burden_2015-09-24_%28Unsplash%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/study-session-before-during-after-check-card.jpg",
+  "local": true
  }
 }
