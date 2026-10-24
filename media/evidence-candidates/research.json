@@ -9322,5 +9322,39 @@
       }
     ],
     "addedAt": "2026-10-24"
+  },
+  {
+    "id": "research-vegetable-cooking-nutrients-boil-steam-microwave-how-research-broccoli-steam",
+    "category": "食べもの",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yuan GF et al., \"Effects of different cooking methods on health-promoting compounds of broccoli\" (Journal of Zhejiang University Science B, 2009)",
+    "sourceUrl": "https://doi.org/10.1631/jzus.B0920051",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/vegetable-cooking-nutrients-boil-steam-microwave-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ブロッコリー、ゆでる？蒸す？",
+        "body": "野菜はゆでると栄養が逃げるってよく聞くよね。じゃあ蒸したり、レンジにかけたりしたらどうなるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "200gを5通りで5分加熱",
+        "body": "中国の研究チームが、ブロッコリー200gを、ゆでる・蒸す・電子レンジ・炒める・炒めてから煮る、の5通りで加熱。ビタミンCなどの量を生と比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ゆでると33%減、蒸すとほぼそのまま",
+        "body": "400mLの湯で5分ゆでるとビタミンCは33%減。蒸すとほとんど減らなかった。電子レンジはビタミンCの減りが16%だったけど、別の成分（グルコシノレートの一種）は60%減ったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "体に入る量までは測っていない",
+        "body": "1品種のブロッコリーを実験室で測った結果で、食べた人の体にどれだけ吸収されるかは調べていないよ。ほかの野菜や加熱時間で結果が変わる可能性もある。"
+      }
+    ],
+    "addedAt": "2026-10-24"
   }
 ]

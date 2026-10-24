@@ -5125,5 +5125,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dog_interacting_with_a_person%27s_hand_on_a_concrete_surface_in_an_outdoor_setting_at_a_friendly_invitation.jpg/500px-Dog_interacting_with_a_person%27s_hand_on_a_concrete_surface_in_an_outdoor_setting_at_a_friendly_invitation.jpg",
   "og": "https://research.seadice.win/img/dog-interaction-stress-relief-how-research.jpg",
   "local": true
+ },
+ "vegetable-cooking-nutrients-boil-steam-microwave-how-research": {
+  "file": "File:Steamed broccoli with tahini dressing (3851217686).jpg",
+  "src": "/img/vegetable-cooking-nutrients-boil-steam-microwave-how-research.jpg",
+  "src640": "/img/vegetable-cooking-nutrients-boil-steam-microwave-how-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "蒸したブロッコリー",
+  "artist": "Vegan Feast Catering",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Steamed_broccoli_with_tahini_dressing_(3851217686).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Steamed_broccoli_with_tahini_dressing_%283851217686%29.jpg/960px-Steamed_broccoli_with_tahini_dressing_%283851217686%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Steamed_broccoli_with_tahini_dressing_%283851217686%29.jpg/500px-Steamed_broccoli_with_tahini_dressing_%283851217686%29.jpg",
+  "og": "https://research.seadice.win/img/vegetable-cooking-nutrients-boil-steam-microwave-how-research.jpg",
+  "local": true
  }
 }

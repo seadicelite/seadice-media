@@ -61,6 +61,7 @@
 - [辛いものを食べて口が痛いときは？ 水・牛乳・炭酸、どれが効くかを研究で調べた](https://research.seadice.win/spicy-food-mouth-burn-milk-recovery-research/): 72人の実験で最も効いたのは牛乳。低脂肪乳でも同じで、甘い飲み物も効く。冷たいほど効き、炭酸は効きにくい。
 - [辛いものを食べると汗や鼻水が出るのはなぜ？ 体が「熱い」と受け取る仕組みを研究で調べた](https://research.seadice.win/spicy-food-sweat-runny-nose-why-research/): 唐辛子の成分が熱のセンサーを動かし、反射で汗と鼻水が出ます。571人中69%が食べもので鼻水が出ると答え、最多は唐辛子でした。
 - [お腹を壊して吐いた・下痢したあとは？ いつから食べて何を飲むかを研究で調べた](https://research.seadice.win/stomach-bug-recovery-fluids-food-research/): 早めに食べ始めても悪化は増えないと12件の試験で判明。軽ければ飲み物は飲みやすいものから。受診の目安も。
+- [野菜の栄養を逃さない加熱のしかたは？ ゆでる・蒸す・電子レンジを研究で比べた](https://research.seadice.win/vegetable-cooking-nutrients-boil-steam-microwave-how-research/): 野菜のビタミンCは、たっぷりの湯でゆでると減りやすく、蒸すか短めの電子レンジで残しやすい。ブロッコリーは5分ゆでて33%減。油と食べるこつも。
 - [食べすぎを防ぐには、食事の前に水を飲むといい？ 量とタイミングのやり方を研究で調べた](https://research.seadice.win/water-before-meals-eat-less-how-research/): 食事の30分前に水500mLで、中高年の食事は約13%減り、12週で体重が1〜2kg多く減りました。若い人は直前に飲む研究も。
 - [ダイエットでやせたのに体重が戻ってきた。リバウンドしたら？ 立て直せた人の研究で調べた](https://research.seadice.win/weight-regain-after-diet-recovery-research/): やせた体重が戻ってきたら？ 5%以上戻ると元に戻せた人は4.7%。小さく増えた段階で気づき、計量と食事・運動を立て直すのが研究の示すコツです。
 
@@ -252,50 +253,6 @@
 - [後回しにしている作業に手をつけるには？「願い・結果・障害・計画」の4ステップ（WOOP）を研究で調べた](https://research.seadice.win/woop-obstacle-plan-procrastination-how-research/): WOOPは24件の研究のまとめで小〜中程度の効果（g＝0.336）。効いたのは障害が自分で対処できるとき。毎日くり返すほうが先延ばしが少なかった。
 - [「追い込まれた方がはかどる」は本当？ 先延ばしと成績・ストレスの研究で調べた](https://research.seadice.win/work-better-under-pressure-procrastination-research/): 33件の研究では先延ばしする人ほど成績がやや低かった。初めは楽でも学期末にストレスと体調不良が増えた研究もある。
 
-### 習慣
-
-- [1回のミスで「もう全部やめたくなる」のはなぜ？「どうにでもなれ効果」の研究](https://research.seadice.win/all-or-nothing-diet-slip-research/): 「低カロリー」と伝えられても食事制限中の人は食べすぎ、失敗を自分のせいと決めつけるほど次の過食が早まった。4つの研究から確認。
-- [お金を賭けると習慣は続く？ 失敗したら没収される「コミットメント契約」の研究でわかったこと](https://research.seadice.win/commitment-contract-money-habit-research/): 自分のお金を預ける「コミットメント契約」で習慣は続く？ 申し込んだ人には効きやすい一方、選ぶ人が少なく、終了後の効果は割れる研究を整理。
-- [1日何歩歩けばいいのか。「1万歩」の根拠を研究で調べた](https://research.seadice.win/daily-steps-how-many-research/): 「1万歩」の根拠は弱く、60歳以上は6,000〜8,000歩、60歳未満は8,000〜1万歩で効果が頭打ちに。7,000歩でも十分な効果があった。
-- [誘惑を遠ざけると、やめやすくなるのか。「ひと手間」の研究](https://research.seadice.win/distance-temptation-self-control-research/): スナック菓子を20cmから70cmの位置に遠ざけると取る人が減り、24件の分析でも近さや選択肢の数を変える工夫で食べる量や選ぶ量が減った。
-- [運動の習慣が途切れてしまったら、どう再開する？ 中断と再開の研究でわかったこと](https://research.seadice.win/exercise-habit-lapse-restart-research/): 運動の中断はよくあること。1回休んでも習慣は崩れにくく、いつ・どこで運動するかの計画と「また戻れる」という自信が、続けられるかと関係していた。
-- [「やらされている」習慣が続かないのはなぜ？ 自分で選んだ理由（自律的な動機）と習慣の研究で調べた](https://research.seadice.win/forced-habit-autonomous-motivation-why-research/): 言われて始めた運動が続かないのはなぜ？ 66の研究のレビューで、自分で大事だと思える・楽しい理由の人ほど運動が続く傾向でした。
-- [新しい習慣はいつ始めると続きやすいのか。「フレッシュスタート効果」の研究](https://research.seadice.win/fresh-start-effect-habit-timing-research/): 老後資金の積立を増やす時期を誕生日や春の始まりなどの「節目」の日付で示す実験では、将来の積立を増やす人が約5割増え、その後8か月の積立も多かった。ただし環境配慮の買い物は新年でも増えず、万能ではないこともわかった。
-- [ポイントやバッジで習慣は続く？ ゲーム化（ゲーミフィケーション）の研究でわかった効き方と、終わった後](https://research.seadice.win/gamification-points-badges-habit-research/): 16試験のメタ分析でゲーム化は運動量を小〜中程度増やした。ただ終了後は弱まり、602人の試験で差が残ったのは競争の形だけだった。
-- [何度やっても続かない習慣は、やめてもいい？「目標を手放して、別の目標に向かう」研究でわかった立て直し方](https://research.seadice.win/give-up-habit-goal-disengagement-recovery-research/): 迷い続ける状態は心身の負担と結びつきます。手放す力より「別の目標に向かい直す力」が生活の質と強く関連。決め方と手放し方を研究で整理。
-- [目標を人に話すと叶いやすいのか。4つの研究でわかった「話し方」次第で結果が変わる理由](https://research.seadice.win/goal-sharing-achievement-research/): 目標を人に話すと達成しやすくなるのか。4つの研究から、告げ方や相手によって効果が正反対になることを確認した。
-- [良い習慣をがんばった日ほど「今日くらいいいか」と崩してしまうのはなぜ？ 自分に許可を出す心理の研究で調べた](https://research.seadice.win/good-habit-then-treat-self-licensing-why-research/): がんばった事実が「ゆるんでいい理由」になる。理由を思い浮かべた人ほど多く食べ、強い決意ほど崩れた。一方、前もって決めたゆるみは間食の少なさと結びついた。
-- [続けてきた習慣に飽きてしまったら？「飽き」と変化の研究でわかった立て直し方](https://research.seadice.win/habit-bored-variety-restart-research/): 飽きはふつうの反応。やめる前に中身を3通りに増やす。変化をつけた運動は6週間続きやすく、過去の変化を思い出すと飽きが和らいだ。
-- [習慣をやめるには何日かかるのか。研究でわかった「待てば消える」の限界](https://research.seadice.win/habit-break-days-research/): やめても「きっかけ→行動」の結びつきは残りうる。意志力が少ない時や強いストレスの後は、習慣的な行動が出やすいと研究は示す。
-- [連休や引っ越しのあと、習慣が崩れるのはなぜ？「きっかけ」が消える仕組みを研究で調べた](https://research.seadice.win/habit-breaks-after-change-why-research/): 習慣は場所や時間などのきっかけで動くため、環境が変わると止まりやすい。ジム会員1,210人の記録では休暇明けに通う回数が約12%落ち、戻らなかった。
-- [習慣をうっかり忘れる日が続いたら？ リマインダーと「きっかけ」の研究でわかった立て直し方](https://research.seadice.win/habit-forgetting-reminder-cue-research/): 忘れるのは意志の弱さだけでなく記憶の性質でも説明できる。通知で補い、いつもの行動か時刻に結びつけてくり返すと、習慣がリマインダーの役目を引き継ぐ（モデル研究）。
-- [「2分ルール」は本当に効くのか。習慣が身につくまでの日数を研究で調べた](https://research.seadice.win/habit-formation-two-minute-rule/): 習慣が身につくまでの日数は中央値で66日（人によって18〜254日）。シンプルな行動ほど早く定着すると研究でわかった。今日からの一歩も紹介。
-- [習慣ができない日が続いたら、目標は下げるべき？ 目標の調整の研究でわかった立て直し方](https://research.seadice.win/habit-goal-lower-after-missed-days-research/): 届かない目標は自信とやる気を下げる。直近9日の実績から目標を上げ下げする方法は、固定の目標より運動の落ち込みを抑えた。
-- [続けているのに効果が見えず、やめたくなったら？ 習慣を支える「満足」と「合格ライン」の研究でわかった立て直し方](https://research.seadice.win/habit-no-results-yet-want-to-quit-research/): 習慣ができるまでの中央値は59〜66日。続く人を支えたのは得たものへの満足で、やめる引き金は夢でなく高すぎる合格ラインだった。
-- [習慣のリマインダー通知を無視するようになったら？ 通知に慣れる研究でわかった立て直し方](https://research.seadice.win/habit-reminder-notification-ignored-recovery-research/): 同じ通知は数週間で効き目が薄れ、数が多いほど反応が下がる。通知を減らして変え、いつもの行動へきっかけを移す立て直し方。
-- [悪い習慣は「別の行動」に置き換えればやめられるのか。4つの研究でわかったこと](https://research.seadice.win/habit-replacement-competing-response-research/): 爪噛みや抜毛には置き換えで中程度の効果が確認された（d=0.54）が、喫煙や間食を別の楽しみに置き換える禁煙プログラムでは禁煙率に差がなかった。
-- [いつも同じ場所で行うと習慣は身につきやすいのか。4つの研究でわかった「場所」の効果](https://research.seadice.win/habit-same-place-context-research/): 118人・16週間の追跡や6週間の実験など4つの研究から、場所を一定にする効果と限界を確認する
-- [「歯みがきの後に」など今ある習慣にくっつけると、新しい習慣は身につく？ ハビットスタッキングを研究で調べた](https://research.seadice.win/habit-stacking-existing-routine-research/): 今ある行動にくっつけても時刻で決めても、習慣の身につき方に差はなかった。決め手は同じきっかけで毎回くり返すこと。
-- [習慣の連続記録が途切れてやる気が消えたら？ 記録が切れた後の研究でわかった立て直し方](https://research.seadice.win/habit-streak-broken-restart-research/): 連続記録が切れたと表示されるだけで意欲は下がるが、習慣は1日で消えない。合計回数で数え直し、24時間以内に小さく1回やる立て直し方。
-- [習慣を記録するだけで続けやすくなるのか。研究でわかった「書くだけ」の効果](https://research.seadice.win/habit-tracking-boosts-continuation/): 138件のメタ分析などから、記録するだけで目標達成率が上がる効果と、効果を強める記録の仕方を確認した。
-- [出張や旅行で習慣が崩れたら？ いつもの場所がない日と、帰ってからの立て直し方を研究で調べた](https://research.seadice.win/habit-travel-trip-disrupted-restart-research/): 旅行で習慣が止まったら？ 強い習慣ほど場所の変化で崩れます。旅先は小さく続け、帰ったら元の合図で毎日繰り返すのが近道です。
-- [習慣が続く人は「意志が強い」から？ 自制心の高い人ほど我慢せず習慣に任せていた研究](https://research.seadice.win/habit-willpower-self-control-research/): 102研究・3万2,648人のまとめでは、自制心は我慢より自動的な行動と強く結びついた。続く人の強みは「考えずに動ける習慣」だった。
-- [家族や友だちの習慣がうつるのはなぜ？ 食べ方や運動が人から人へ広がる仕組みを研究で調べた](https://research.seadice.win/habits-spread-from-people-around-why-research/): 人は周りの行動を無意識にまね、「ふつう」の目安を借りる。69実験の食事のレビュー、110万人のランナーの分析、「肥満がうつる」説への反論で整理。
-- [「もし〇〇したら△△する」と決めると習慣は続くのか。if-thenプランの研究](https://research.seadice.win/if-then-planning-habit-research/): 「いつ・どこで・何をするか」をif-thenで決めると、94件・8,461人分の分析で目標達成を後押しする中〜大の効果があった。
-- [新しい習慣は朝にやると身につきやすい？ 朝と夜を比べた実験と「毎日同じタイミング」の研究](https://research.seadice.win/morning-habit-time-of-day-research/): 朝のほうが早く身についた実験は48人の1本だけ。複数の研究が支えるのは、朝か夜かより毎日同じタイミングでやることでした。
-- [新しい習慣は1つずつ始めるべき？ いくつも同時に始めた人と、順番に始めた人を比べた研究でわかったこと](https://research.seadice.win/multiple-habits-at-once-research/): 同時と順番を直接比べた試験では差は小さく、どちらも何もしないより良い結果。禁煙など難しい行動は分けた方がよい可能性。
-- [新しい習慣が三日坊主で終わるのはなぜ？「やる気」と行動のすき間を研究で調べた](https://research.seadice.win/new-habit-three-day-quit-why-research/): 始めたばかりの行動は意志だけで動いていて、意志は行動に届きにくい。運動の研究では、やるつもりの人の約46%が実行できていなかった。
-- [用もないのに、ついスマホを開いてしまうのはなぜ？「チェック習慣」の仕組みを研究で調べた](https://research.seadice.win/phone-checking-habit-why-research/): すぐ手に入る新しい情報がごほうびになり、きっかけで手が動く習慣に。1日約85回は本人の見積もりの倍以上で、89%は通知なしだった。
-- [禁煙に何度も失敗してしまった。また挑戦していい？ 成功までの回数と、次の挑戦を変える方法を研究で調べた](https://research.seadice.win/quit-smoking-failed-again-retry-research/): 禁煙に何度も失敗したら？ 成功までの挑戦は平均約30回という推計があります。失敗は最初の1週間に多く、相談と薬の組み合わせで成功が約1.8倍でした。
-- [小さなご褒美で習慣は続きやすくなる？「すぐ楽しい」の研究でわかった効き方と限界](https://research.seadice.win/small-rewards-habit-research/): 続くかを予測したのは先の結果より最中の楽しさ。ご褒美は期間中は効くが弱まりやすく、やめた後に残るかは研究で分かれる。
-- [やめたい間食ほど、決まった時間や場所で欲しくなるのはなぜ？「きっかけ」と食欲の学習を研究で調べた](https://research.seadice.win/snack-cravings-time-place-cue-why-research/): 食べた時間や場所が合図になり「食べたい」気持ちが学習される。毎日同じ時刻のチョコで15日後に欲しくなった実験など、仕組みと対策。
-- [疲れた日やストレスの日に、いつもの習慣に戻ってしまうのはなぜ？「考える行動」と「自動の行動」の研究で調べた](https://research.seadice.win/stress-tired-old-habits-why-research/): 疲れた日やストレスの日に悪い習慣へ戻るのはなぜ？考えて選ぶ力と自動の習慣の研究、そして結果が分かれた追試から仕組みを整理。
-- [やめようと我慢するほど、やりたくなるのはなぜ？「考えないようにする」と跳ね返る仕組みを研究で調べた](https://research.seadice.win/suppressing-urges-rebound-why-research/): 考えを押さえ込むと、あとで戻りやすい。チョコやたばこの実験と、効果が弱いとするメタ分析から解説。
-- [やめたい衝動は、待てば消えるのか。4つの研究でわかったこと](https://research.seadice.win/urge-surfing-craving-wave-research/): 衝動を波として観察する「衝動サーフィン」。衝動の強さ自体は対照群と差がなかったが、その後7日間の喫煙本数には有意な差が出た。
-- [スマートウォッチや活動量計をつけると、運動習慣は続く？ 増える歩数と、手放す時期を研究で調べた](https://research.seadice.win/wearable-activity-tracker-habit-research/): 活動量計で運動は1日約1800歩増える目安。ただ端末だけでは差が出ない試験もあり、320日後も使う人は16%でした。
-- [深呼吸や瞑想などの「心のケア」を毎日の習慣にするには？ 20秒の練習に「習慣づくりの計画」を足した研究でわかったやり方](https://research.seadice.win/wellbeing-practice-habit-plan-how-research/): 20秒の練習に15分の習慣づくりの計画を足すと、6か月後も実践が多かった。きっかけ・通知・つまずきへの備えの決め方。
-- [わかっているのに、なぜ同じ行動をくり返すのか。習慣が「自動」で動く仕組みの研究](https://research.seadice.win/why-habits-run-on-autopilot-research/): くり返した行動は、場所や時間のきっかけで自動的に出やすくなる。ただし人で実験的に作るのは難しく、再現の失敗もある。
-
 ### 記憶・学習
 
 - [徹夜で覚えたのに思い出せないときは？ 睡眠と「学び直し」の研究でわかった立て直し方](https://research.seadice.win/all-nighter-study-forgot-recovery-research/): 徹夜明けは覚える力が落ちる。まず眠り、起きてから思い出す練習で学び直す。眠りをはさむと学び直しの練習量が半分になった実験がある。
@@ -340,6 +297,50 @@
 - [覚えたことは、なぜすぐ忘れるのか。忘却曲線の再現実験と脳の研究でわかったこと](https://research.seadice.win/why-we-forget-forgetting-curve-research/): 覚えた直後ほど速く忘れるのは誰にでも起きる性質。固まる前の記憶は上書きされやすく、脳には自ら忘れる仕組みもある。
 - [数学の問題が解けないときは、先に例題の解き方を読む？「例題→類題」で学ぶやり方を研究で調べた](https://research.seadice.win/worked-examples-math-problem-solving-how-research/): 初めての単元は、解き方つきの例題を読んでから似た問題を解くと身につきやすい。55件の研究のまとめと、慣れたら手助けを減らすやり方。
 - [テストで間違えた後、どう復習すれば覚えられるのか。「間違い」と記憶の研究でわかったこと](https://research.seadice.win/wrong-answer-review-memory-research/): 間違えた直後に正解を確かめると1週間後の記憶が大きく伸びた。自信満々の間違いほど直りやすいが、わざと間違える必要はない。
+
+### 習慣
+
+- [1回のミスで「もう全部やめたくなる」のはなぜ？「どうにでもなれ効果」の研究](https://research.seadice.win/all-or-nothing-diet-slip-research/): 「低カロリー」と伝えられても食事制限中の人は食べすぎ、失敗を自分のせいと決めつけるほど次の過食が早まった。4つの研究から確認。
+- [お金を賭けると習慣は続く？ 失敗したら没収される「コミットメント契約」の研究でわかったこと](https://research.seadice.win/commitment-contract-money-habit-research/): 自分のお金を預ける「コミットメント契約」で習慣は続く？ 申し込んだ人には効きやすい一方、選ぶ人が少なく、終了後の効果は割れる研究を整理。
+- [1日何歩歩けばいいのか。「1万歩」の根拠を研究で調べた](https://research.seadice.win/daily-steps-how-many-research/): 「1万歩」の根拠は弱く、60歳以上は6,000〜8,000歩、60歳未満は8,000〜1万歩で効果が頭打ちに。7,000歩でも十分な効果があった。
+- [誘惑を遠ざけると、やめやすくなるのか。「ひと手間」の研究](https://research.seadice.win/distance-temptation-self-control-research/): スナック菓子を20cmから70cmの位置に遠ざけると取る人が減り、24件の分析でも近さや選択肢の数を変える工夫で食べる量や選ぶ量が減った。
+- [運動の習慣が途切れてしまったら、どう再開する？ 中断と再開の研究でわかったこと](https://research.seadice.win/exercise-habit-lapse-restart-research/): 運動の中断はよくあること。1回休んでも習慣は崩れにくく、いつ・どこで運動するかの計画と「また戻れる」という自信が、続けられるかと関係していた。
+- [「やらされている」習慣が続かないのはなぜ？ 自分で選んだ理由（自律的な動機）と習慣の研究で調べた](https://research.seadice.win/forced-habit-autonomous-motivation-why-research/): 言われて始めた運動が続かないのはなぜ？ 66の研究のレビューで、自分で大事だと思える・楽しい理由の人ほど運動が続く傾向でした。
+- [新しい習慣はいつ始めると続きやすいのか。「フレッシュスタート効果」の研究](https://research.seadice.win/fresh-start-effect-habit-timing-research/): 老後資金の積立を増やす時期を誕生日や春の始まりなどの「節目」の日付で示す実験では、将来の積立を増やす人が約5割増え、その後8か月の積立も多かった。ただし環境配慮の買い物は新年でも増えず、万能ではないこともわかった。
+- [ポイントやバッジで習慣は続く？ ゲーム化（ゲーミフィケーション）の研究でわかった効き方と、終わった後](https://research.seadice.win/gamification-points-badges-habit-research/): 16試験のメタ分析でゲーム化は運動量を小〜中程度増やした。ただ終了後は弱まり、602人の試験で差が残ったのは競争の形だけだった。
+- [何度やっても続かない習慣は、やめてもいい？「目標を手放して、別の目標に向かう」研究でわかった立て直し方](https://research.seadice.win/give-up-habit-goal-disengagement-recovery-research/): 迷い続ける状態は心身の負担と結びつきます。手放す力より「別の目標に向かい直す力」が生活の質と強く関連。決め方と手放し方を研究で整理。
+- [目標を人に話すと叶いやすいのか。4つの研究でわかった「話し方」次第で結果が変わる理由](https://research.seadice.win/goal-sharing-achievement-research/): 目標を人に話すと達成しやすくなるのか。4つの研究から、告げ方や相手によって効果が正反対になることを確認した。
+- [良い習慣をがんばった日ほど「今日くらいいいか」と崩してしまうのはなぜ？ 自分に許可を出す心理の研究で調べた](https://research.seadice.win/good-habit-then-treat-self-licensing-why-research/): がんばった事実が「ゆるんでいい理由」になる。理由を思い浮かべた人ほど多く食べ、強い決意ほど崩れた。一方、前もって決めたゆるみは間食の少なさと結びついた。
+- [続けてきた習慣に飽きてしまったら？「飽き」と変化の研究でわかった立て直し方](https://research.seadice.win/habit-bored-variety-restart-research/): 飽きはふつうの反応。やめる前に中身を3通りに増やす。変化をつけた運動は6週間続きやすく、過去の変化を思い出すと飽きが和らいだ。
+- [習慣をやめるには何日かかるのか。研究でわかった「待てば消える」の限界](https://research.seadice.win/habit-break-days-research/): やめても「きっかけ→行動」の結びつきは残りうる。意志力が少ない時や強いストレスの後は、習慣的な行動が出やすいと研究は示す。
+- [連休や引っ越しのあと、習慣が崩れるのはなぜ？「きっかけ」が消える仕組みを研究で調べた](https://research.seadice.win/habit-breaks-after-change-why-research/): 習慣は場所や時間などのきっかけで動くため、環境が変わると止まりやすい。ジム会員1,210人の記録では休暇明けに通う回数が約12%落ち、戻らなかった。
+- [習慣をうっかり忘れる日が続いたら？ リマインダーと「きっかけ」の研究でわかった立て直し方](https://research.seadice.win/habit-forgetting-reminder-cue-research/): 忘れるのは意志の弱さだけでなく記憶の性質でも説明できる。通知で補い、いつもの行動か時刻に結びつけてくり返すと、習慣がリマインダーの役目を引き継ぐ（モデル研究）。
+- [「2分ルール」は本当に効くのか。習慣が身につくまでの日数を研究で調べた](https://research.seadice.win/habit-formation-two-minute-rule/): 習慣が身につくまでの日数は中央値で66日（人によって18〜254日）。シンプルな行動ほど早く定着すると研究でわかった。今日からの一歩も紹介。
+- [習慣ができない日が続いたら、目標は下げるべき？ 目標の調整の研究でわかった立て直し方](https://research.seadice.win/habit-goal-lower-after-missed-days-research/): 届かない目標は自信とやる気を下げる。直近9日の実績から目標を上げ下げする方法は、固定の目標より運動の落ち込みを抑えた。
+- [続けているのに効果が見えず、やめたくなったら？ 習慣を支える「満足」と「合格ライン」の研究でわかった立て直し方](https://research.seadice.win/habit-no-results-yet-want-to-quit-research/): 習慣ができるまでの中央値は59〜66日。続く人を支えたのは得たものへの満足で、やめる引き金は夢でなく高すぎる合格ラインだった。
+- [習慣のリマインダー通知を無視するようになったら？ 通知に慣れる研究でわかった立て直し方](https://research.seadice.win/habit-reminder-notification-ignored-recovery-research/): 同じ通知は数週間で効き目が薄れ、数が多いほど反応が下がる。通知を減らして変え、いつもの行動へきっかけを移す立て直し方。
+- [悪い習慣は「別の行動」に置き換えればやめられるのか。4つの研究でわかったこと](https://research.seadice.win/habit-replacement-competing-response-research/): 爪噛みや抜毛には置き換えで中程度の効果が確認された（d=0.54）が、喫煙や間食を別の楽しみに置き換える禁煙プログラムでは禁煙率に差がなかった。
+- [いつも同じ場所で行うと習慣は身につきやすいのか。4つの研究でわかった「場所」の効果](https://research.seadice.win/habit-same-place-context-research/): 118人・16週間の追跡や6週間の実験など4つの研究から、場所を一定にする効果と限界を確認する
+- [「歯みがきの後に」など今ある習慣にくっつけると、新しい習慣は身につく？ ハビットスタッキングを研究で調べた](https://research.seadice.win/habit-stacking-existing-routine-research/): 今ある行動にくっつけても時刻で決めても、習慣の身につき方に差はなかった。決め手は同じきっかけで毎回くり返すこと。
+- [習慣の連続記録が途切れてやる気が消えたら？ 記録が切れた後の研究でわかった立て直し方](https://research.seadice.win/habit-streak-broken-restart-research/): 連続記録が切れたと表示されるだけで意欲は下がるが、習慣は1日で消えない。合計回数で数え直し、24時間以内に小さく1回やる立て直し方。
+- [習慣を記録するだけで続けやすくなるのか。研究でわかった「書くだけ」の効果](https://research.seadice.win/habit-tracking-boosts-continuation/): 138件のメタ分析などから、記録するだけで目標達成率が上がる効果と、効果を強める記録の仕方を確認した。
+- [出張や旅行で習慣が崩れたら？ いつもの場所がない日と、帰ってからの立て直し方を研究で調べた](https://research.seadice.win/habit-travel-trip-disrupted-restart-research/): 旅行で習慣が止まったら？ 強い習慣ほど場所の変化で崩れます。旅先は小さく続け、帰ったら元の合図で毎日繰り返すのが近道です。
+- [習慣が続く人は「意志が強い」から？ 自制心の高い人ほど我慢せず習慣に任せていた研究](https://research.seadice.win/habit-willpower-self-control-research/): 102研究・3万2,648人のまとめでは、自制心は我慢より自動的な行動と強く結びついた。続く人の強みは「考えずに動ける習慣」だった。
+- [家族や友だちの習慣がうつるのはなぜ？ 食べ方や運動が人から人へ広がる仕組みを研究で調べた](https://research.seadice.win/habits-spread-from-people-around-why-research/): 人は周りの行動を無意識にまね、「ふつう」の目安を借りる。69実験の食事のレビュー、110万人のランナーの分析、「肥満がうつる」説への反論で整理。
+- [「もし〇〇したら△△する」と決めると習慣は続くのか。if-thenプランの研究](https://research.seadice.win/if-then-planning-habit-research/): 「いつ・どこで・何をするか」をif-thenで決めると、94件・8,461人分の分析で目標達成を後押しする中〜大の効果があった。
+- [新しい習慣は朝にやると身につきやすい？ 朝と夜を比べた実験と「毎日同じタイミング」の研究](https://research.seadice.win/morning-habit-time-of-day-research/): 朝のほうが早く身についた実験は48人の1本だけ。複数の研究が支えるのは、朝か夜かより毎日同じタイミングでやることでした。
+- [新しい習慣は1つずつ始めるべき？ いくつも同時に始めた人と、順番に始めた人を比べた研究でわかったこと](https://research.seadice.win/multiple-habits-at-once-research/): 同時と順番を直接比べた試験では差は小さく、どちらも何もしないより良い結果。禁煙など難しい行動は分けた方がよい可能性。
+- [新しい習慣が三日坊主で終わるのはなぜ？「やる気」と行動のすき間を研究で調べた](https://research.seadice.win/new-habit-three-day-quit-why-research/): 始めたばかりの行動は意志だけで動いていて、意志は行動に届きにくい。運動の研究では、やるつもりの人の約46%が実行できていなかった。
+- [用もないのに、ついスマホを開いてしまうのはなぜ？「チェック習慣」の仕組みを研究で調べた](https://research.seadice.win/phone-checking-habit-why-research/): すぐ手に入る新しい情報がごほうびになり、きっかけで手が動く習慣に。1日約85回は本人の見積もりの倍以上で、89%は通知なしだった。
+- [禁煙に何度も失敗してしまった。また挑戦していい？ 成功までの回数と、次の挑戦を変える方法を研究で調べた](https://research.seadice.win/quit-smoking-failed-again-retry-research/): 禁煙に何度も失敗したら？ 成功までの挑戦は平均約30回という推計があります。失敗は最初の1週間に多く、相談と薬の組み合わせで成功が約1.8倍でした。
+- [小さなご褒美で習慣は続きやすくなる？「すぐ楽しい」の研究でわかった効き方と限界](https://research.seadice.win/small-rewards-habit-research/): 続くかを予測したのは先の結果より最中の楽しさ。ご褒美は期間中は効くが弱まりやすく、やめた後に残るかは研究で分かれる。
+- [やめたい間食ほど、決まった時間や場所で欲しくなるのはなぜ？「きっかけ」と食欲の学習を研究で調べた](https://research.seadice.win/snack-cravings-time-place-cue-why-research/): 食べた時間や場所が合図になり「食べたい」気持ちが学習される。毎日同じ時刻のチョコで15日後に欲しくなった実験など、仕組みと対策。
+- [疲れた日やストレスの日に、いつもの習慣に戻ってしまうのはなぜ？「考える行動」と「自動の行動」の研究で調べた](https://research.seadice.win/stress-tired-old-habits-why-research/): 疲れた日やストレスの日に悪い習慣へ戻るのはなぜ？考えて選ぶ力と自動の習慣の研究、そして結果が分かれた追試から仕組みを整理。
+- [やめようと我慢するほど、やりたくなるのはなぜ？「考えないようにする」と跳ね返る仕組みを研究で調べた](https://research.seadice.win/suppressing-urges-rebound-why-research/): 考えを押さえ込むと、あとで戻りやすい。チョコやたばこの実験と、効果が弱いとするメタ分析から解説。
+- [やめたい衝動は、待てば消えるのか。4つの研究でわかったこと](https://research.seadice.win/urge-surfing-craving-wave-research/): 衝動を波として観察する「衝動サーフィン」。衝動の強さ自体は対照群と差がなかったが、その後7日間の喫煙本数には有意な差が出た。
+- [スマートウォッチや活動量計をつけると、運動習慣は続く？ 増える歩数と、手放す時期を研究で調べた](https://research.seadice.win/wearable-activity-tracker-habit-research/): 活動量計で運動は1日約1800歩増える目安。ただ端末だけでは差が出ない試験もあり、320日後も使う人は16%でした。
+- [深呼吸や瞑想などの「心のケア」を毎日の習慣にするには？ 20秒の練習に「習慣づくりの計画」を足した研究でわかったやり方](https://research.seadice.win/wellbeing-practice-habit-plan-how-research/): 20秒の練習に15分の習慣づくりの計画を足すと、6か月後も実践が多かった。きっかけ・通知・つまずきへの備えの決め方。
+- [わかっているのに、なぜ同じ行動をくり返すのか。習慣が「自動」で動く仕組みの研究](https://research.seadice.win/why-habits-run-on-autopilot-research/): くり返した行動は、場所や時間のきっかけで自動的に出やすくなる。ただし人で実験的に作るのは難しく、再現の失敗もある。
 
 ## ツールとアプリ（無料・登録不要）
 
