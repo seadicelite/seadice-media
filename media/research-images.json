@@ -5305,5 +5305,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Egger_bier_worb_-_Bierglas_%26_Aschenbecher_%282019%29.jpg/960px-Egger_bier_worb_-_Bierglas_%26_Aschenbecher_%282019%29.jpg",
   "og": "https://research.seadice.win/img/quit-habit-comes-back-relapse-why-research.jpg",
   "local": true
+ },
+ "intend-but-dont-start-procrastination-why-research": {
+  "file": "File:A notebook.jpg",
+  "w": 960,
+  "h": 640,
+  "artist": "Jan Kahánek",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:A_notebook.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/960px-A_notebook.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/500px-A_notebook.jpg",
+  "src": "/img/intend-but-dont-start-procrastination-why-research.webp",
+  "src640": "/img/intend-but-dont-start-procrastination-why-research-sm.webp",
+  "og": "https://research.seadice.win/img/intend-but-dont-start-procrastination-why-research-og.jpg",
+  "alt": "開いた白紙のノートと鉛筆",
+  "local": true
  }
 }

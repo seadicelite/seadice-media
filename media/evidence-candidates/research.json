@@ -9662,5 +9662,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-intend-but-dont-start-procrastination-why-research-intention-gap",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Steel et al., \"Examining Procrastination Across Multiple Goal Stages: A Longitudinal Study of Temporal Motivation Theory\" (Frontiers in Psychology, 2018)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2018.00327",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/intend-but-dont-start-procrastination-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "先延ばしする人は、やる気がない？",
+        "body": "いつも後回しにする人は、そもそもやる気がないから。そう思われがちだけど、研究で確かめてみると、ちょっと違う姿が見えてきたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "15週間、77回の記録",
+        "body": "大学生171人の授業で、課題をいつ進めたかを77回にわたって記録。毎週「来週と再来週にどれだけ勉強するか」の予定も聞いたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "予定は人並み以上、ずれるのは実行",
+        "body": "先延ばししがちな人も、予定は同じかやや多く立てていた（相関0.09〜0.23）。でも実際の勉強量は予定より少なく、そのずれは再来週の予定でより大きかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1つの授業での相関",
+        "body": "対象は1つの授業の学生で、予定の質問に答えたのは90人。相関の研究なので、何が原因でずれるのかまでは決められていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
