@@ -9813,5 +9813,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-cold-sick-day-study-menu-table-common-cold-speed",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Smith, \"Effects of the common cold on mood, psychomotor performance, the encoding of new information, speed of working memory and semantic processing\" (Brain, Behavior, and Immunity, 2012)",
+    "sourceUrl": "https://doi.org/10.1016/j.bbi.2012.06.012",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/cold-sick-day-study-menu-table/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "風邪だと頭が回らないのはなぜ？",
+        "body": "風邪をひくと、勉強も仕事もいつもより進まない気がするよね。鼻がつまってつらいせい？それとも頭の働きそのものが落ちてるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "健康なときと風邪のときを比べた",
+        "body": "18〜30歳の人が健康なときにテストを受けて、風邪をひいたらもう一度受けた研究がある。最後まで参加した189人のうち、風邪をひいたのは48人。健康なままの141人と比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "遅くなるのは「速さ」",
+        "body": "風邪の人は反応が遅く、新しい情報を取り込むのも、文の正誤を判断するのも遅かった。しかもこの遅れは、症状の重さや睡眠時間とは関係していなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強の成果も落ちる？",
+        "body": "測ったのは反応の速さなどの短い課題。風邪の日に勉強した内容がどれだけ身につくかは、この研究ではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
