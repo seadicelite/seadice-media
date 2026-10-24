@@ -3237,5 +3237,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hand_holds_a_test_device_next_to_a_stethoscope_and_an_open_book_on_a_wooden_desk_during_morning_light.jpg/500px-Hand_holds_a_test_device_next_to_a_stethoscope_and_an_open_book_on_a_wooden_desk_during_morning_light.jpg",
   "og": "https://ai.seadice.win/img/privacy-worry-withholding-from-doctor.jpg",
   "local": true
+ },
+ "ai-art-sell-online-before": {
+  "file": "File:Craft fair and folk festival Bangladesh 2024 at Sonargaon museum 93.jpg",
+  "src": "/img/ai-art-sell-online-before.jpg",
+  "src640": "/img/ai-art-sell-online-before-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "クラフトフェアの会場に置かれた飾りつきの箱",
+  "artist": "Wasiul Bahar",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Craft_fair_and_folk_festival_Bangladesh_2024_at_Sonargaon_museum_93.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Craft_fair_and_folk_festival_Bangladesh_2024_at_Sonargaon_museum_93.jpg/960px-Craft_fair_and_folk_festival_Bangladesh_2024_at_Sonargaon_museum_93.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Craft_fair_and_folk_festival_Bangladesh_2024_at_Sonargaon_museum_93.jpg/500px-Craft_fair_and_folk_festival_Bangladesh_2024_at_Sonargaon_museum_93.jpg",
+  "og": "https://ai.seadice.win/img/ai-art-sell-online-before.jpg",
+  "local": true
  }
 }
