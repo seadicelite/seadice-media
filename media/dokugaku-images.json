@@ -5408,5 +5408,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Stylish_black_eyeglasses_resting_on_a_wooden_desk_in_a_cozy_interior_during_daylight_hours.jpg/500px-Stylish_black_eyeglasses_resting_on_a_wooden_desk_in_a_cozy_interior_during_daylight_hours.jpg",
   "og": "https://dokugaku.seadice.win/img/hardest-task-first-morning-study.jpg",
   "local": true
+ },
+ "grit-perseverance-study-continue": {
+  "file": "File:Stairs (117964139).jpeg",
+  "src": "/img/grit-perseverance-study-continue.jpg",
+  "src640": "/img/grit-perseverance-study-continue-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "山道に続く石段",
+  "artist": "Ronny Baumann",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Stairs_(117964139).jpeg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Stairs_%28117964139%29.jpeg/960px-Stairs_%28117964139%29.jpeg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Stairs_%28117964139%29.jpeg/500px-Stairs_%28117964139%29.jpeg",
+  "og": "https://dokugaku.seadice.win/img/grit-perseverance-study-continue.jpg",
+  "local": true
  }
 }

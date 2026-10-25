@@ -10629,5 +10629,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-grit-perseverance-study-continue-twins-gcse",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rimfeld et al., \"True grit and genetics: Predicting academic achievement from personality\" (Journal of Personality and Social Psychology, 2016)",
+    "sourceUrl": "https://doi.org/10.1037/pspp0000089",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/grit-perseverance-study-continue/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "成績はやり抜く力で決まる？",
+        "body": "「才能よりやり抜く力（グリット）が大事」って、本でもよく紹介されているよね。続かないのはグリット不足、と言われることもある。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "16歳4,642人の試験成績",
+        "body": "イギリスの双子の調査に参加した16歳4,642人で、全国試験の成績を性格の5つの特徴とグリットで予測できるか調べた研究があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "足せたのは0.5%だけ",
+        "body": "性格の5つの特徴で成績のばらつきの5.6%を説明できたけど、グリットを加えても0.5%しか増えなかったらしい。グリットの「努力を続ける」は、まじめさと相関0.53で重なっていた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1つの国の1つの試験",
+        "body": "イギリスの16歳の全国試験だけの話。大人の独学でも同じかはわからないし、著者らは「遺伝の影響があっても変えられないわけではない」とも書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-grit-perseverance-study-continue-meta",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Credé et al., \"Much ado about grit: A meta-analytic synthesis of the grit literature\" (Journal of Personality and Social Psychology, 2017)",
+    "sourceUrl": "https://doi.org/10.1037/pspp0000102",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/grit-perseverance-study-continue/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "グリットを鍛えれば成功する？",
+        "body": "「やり抜く力（グリット）」は成功を強く予測する、と広まったよね。じゃあ実際どれくらい関係しているんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "66,807人分をまとめた",
+        "body": "グリットの研究88集団・66,807人分、584の効果量をまとめたメタ分析が行われたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "関係は中くらい、まじめさとほぼ同じ",
+        "body": "グリットと成績・続けることの関係は中くらいで、まじめさ（誠実性）とはとても強く重なっていた。成績と関係が強いのは「努力を続ける」の方だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "鍛えた効果は未確認",
+        "body": "まとめたのは関係を見た研究。著者らは、グリットを高める取り組みは効果が弱い可能性があると書いていて、鍛えると続くかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
