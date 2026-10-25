@@ -6519,5 +6519,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Interlocked_pebbles_on_a_river_bed_D35_2285_01.jpg/500px-Interlocked_pebbles_on_a_river_bed_D35_2285_01.jpg",
   "og": "https://mentalai.seadice.win/img/ai-one-mistake-trust-drop-why.jpg",
   "local": true
+ },
+ "gps-navigation-sense-of-direction-prevent": {
+  "file": "File:Les 32 vents de Provence.jpg",
+  "src": "/img/gps-navigation-sense-of-direction-prevent.jpg",
+  "src640": "/img/gps-navigation-sense-of-direction-prevent-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "方角を刻んだ石の円盤",
+  "artist": "Compo",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Les_32_vents_de_Provence.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Les_32_vents_de_Provence.jpg/960px-Les_32_vents_de_Provence.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Les_32_vents_de_Provence.jpg/500px-Les_32_vents_de_Provence.jpg",
+  "og": "https://mentalai.seadice.win/img/gps-navigation-sense-of-direction-prevent.jpg",
+  "local": true
  }
 }

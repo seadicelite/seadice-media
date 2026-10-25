@@ -9419,5 +9419,73 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-gps-navigation-sense-of-direction-prevent-landmark-instructions",
+    "category": "考える力・集中",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gramann K et al., \"Modified Navigation Instructions for Spatial Navigation Assistance Systems Lead to Incidental Spatial Learning\" (Frontiers in Psychology, 2017)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2017.00193",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/gps-navigation-sense-of-direction-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "ナビの言い方ひとつで、道の覚え方が変わる？",
+        "body": "ナビの「次の交差点を右」に従っていると、帰り道が思い出せないこと、あるよね。ドイツで、案内の言い方を変える実験があったんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "運転シミュレーターで46人が走った",
+        "body": "22〜38歳の46人が、知らない街をナビの音声に従って運転。ふつうの案内の組と、「コンサートホールで右へ」のように目印を添えた案内の組に分けて、あとでナビなしで同じ道を走ってもらったらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "道の間違いが半分以下に",
+        "body": "ナビなしで走り直したときの間違いは、ふつうの案内の組が平均4.94回、目印つきの組は2.25回。好きな本や映画の話を添えた組は1.54回だったんだって。運転のしかたに差はなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "その日のうちの、画面の中の運転",
+        "body": "本物の道路ではなくシミュレーターで、測ったのはその日のうちの成績。何日もたっても覚えているか、方向感覚そのものが保たれるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-gps-navigation-sense-of-direction-prevent-gps-habit",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Dahmani L & Bohbot VD, \"Habitual use of GPS negatively impacts spatial memory during self-guided navigation\" (Scientific Reports, 2020)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-020-62877-0",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/gps-navigation-sense-of-direction-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ナビに頼ると方向音痴になる？",
+        "body": "地図アプリやカーナビばかり使っていると、方向感覚が落ちるってよく聞くよね。カナダの研究者が調べてみたらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ふだん運転する50人を調べた",
+        "body": "モントリオールでふだん運転する19〜35歳の50人に、これまでのナビの利用時間を聞いて、画面の中の迷路でナビなしで場所を覚える課題をしてもらった。13人は約3年後にもう一度調べたんだって。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "よく使う人ほど目印を覚えにくい傾向",
+        "body": "ナビの利用歴が長い人ほど、目印から場所を覚えるやり方をあまり使わず、気づいた目印も少なめ。約3年の間にナビを多く使った人ほど、地図を描く成績が大きく下がっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "追跡は13人だけ",
+        "body": "関連は弱めで、3年後に調べられたのは13人だけ。画面の中の迷路の成績で、実際の街で迷いやすくなるかや、歩くときの地図アプリで同じかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
