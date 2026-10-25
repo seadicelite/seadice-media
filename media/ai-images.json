@@ -3291,5 +3291,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Latin_dictionary.jpg/500px-Latin_dictionary.jpg",
   "og": "https://ai.seadice.win/img/ai-english-writing-app-voice-essay-before.jpg",
   "local": true
+ },
+ "ai-salary-advice-negotiation-numbers": {
+  "file": "File:USVI IMG 5443 - Large organic wooden table and chairs sit in a rustic stone-walled room with terracotta tiles.jpg",
+  "src": "/img/ai-salary-advice-negotiation-numbers.jpg",
+  "src640": "/img/ai-salary-advice-negotiation-numbers-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "石の壁の部屋にある、木でできた大きなテーブルと椅子",
+  "artist": "Government of the United States Virgin Islands",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:USVI_IMG_5443_-_Large_organic_wooden_table_and_chairs_sit_in_a_rustic_stone-walled_room_with_terracotta_tiles.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/USVI_IMG_5443_-_Large_organic_wooden_table_and_chairs_sit_in_a_rustic_stone-walled_room_with_terracotta_tiles.jpg/960px-USVI_IMG_5443_-_Large_organic_wooden_table_and_chairs_sit_in_a_rustic_stone-walled_room_with_terracotta_tiles.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/USVI_IMG_5443_-_Large_organic_wooden_table_and_chairs_sit_in_a_rustic_stone-walled_room_with_terracotta_tiles.jpg/500px-USVI_IMG_5443_-_Large_organic_wooden_table_and_chairs_sit_in_a_rustic_stone-walled_room_with_terracotta_tiles.jpg",
+  "og": "https://ai.seadice.win/img/ai-salary-advice-negotiation-numbers.jpg",
+  "local": true
  }
 }
