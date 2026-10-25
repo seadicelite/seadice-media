@@ -10833,5 +10833,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-certification-knowledge-fading-unused-reset-monthly-6min",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Oermann et al., \"Effects of monthly practice on nursing students' CPR psychomotor skill performance\" (Resuscitation, 2011)",
+    "sourceUrl": "https://doi.org/10.1016/j.resuscitation.2010.11.022",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/certification-knowledge-fading-unused-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "使わない技は、どう保つ？",
+        "body": "講習で身につけた技も、使わないと落ちていくよね。じゃあ、どのくらい練習すれば保てるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "看護学生606人で実験",
+        "body": "心肺蘇生の講習を受けた看護学生606人を、くじで2つに分けた研究があるよ。片方は月1回6分だけ練習用の人形で練習、もう片方は練習なし。3か月ごとに技能を確かめたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "月6分で1年保てた",
+        "body": "練習なしの群は、人工呼吸の量が1年を通して推奨の最低値に届かず、9〜12か月の間に胸を押す深さも落ちた。月6分練習した群は、1年間技能を保つか、伸ばしたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "筆記の知識でも同じ？",
+        "body": "これは体で覚える技能の実験で、声で助言してくれる人形を使っている。資格の筆記の知識を月1回の練習で保てるかは、この研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

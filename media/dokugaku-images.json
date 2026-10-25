@@ -5498,5 +5498,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Brown_bread_made_with_dinkel_wheat_and_millet_01.jpg/500px-Brown_bread_made_with_dinkel_wheat_and_millet_01.jpg",
   "og": "https://dokugaku.seadice.win/img/why-hungry-after-studying-mental-work.jpg",
   "local": true
+ },
+ "certification-knowledge-fading-unused-reset": {
+  "file": "File:Note on desk.jpg",
+  "src": "/img/certification-knowledge-fading-unused-reset.jpg",
+  "src640": "/img/certification-knowledge-fading-unused-reset-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上に置かれたノート",
+  "artist": "தீப்தி செந்தில்",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Note_on_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Note_on_desk.jpg/960px-Note_on_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Note_on_desk.jpg/500px-Note_on_desk.jpg",
+  "og": "https://dokugaku.seadice.win/img/certification-knowledge-fading-unused-reset.jpg",
+  "local": true
  }
 }
