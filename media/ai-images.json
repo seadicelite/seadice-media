@@ -3309,5 +3309,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/USVI_IMG_5443_-_Large_organic_wooden_table_and_chairs_sit_in_a_rustic_stone-walled_room_with_terracotta_tiles.jpg/500px-USVI_IMG_5443_-_Large_organic_wooden_table_and_chairs_sit_in_a_rustic_stone-walled_room_with_terracotta_tiles.jpg",
   "og": "https://ai.seadice.win/img/ai-salary-advice-negotiation-numbers.jpg",
   "local": true
+ },
+ "ai-resume-screening-before-apply": {
+  "file": "File:Fountain pen writing (literacy).jpg",
+  "src": "/img/ai-resume-screening-before-apply.jpg",
+  "src640": "/img/ai-resume-screening-before-apply-sm.jpg",
+  "w": 960,
+  "h": 704,
+  "alt": "手書きの文字の上に置かれた万年筆",
+  "artist": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fountain_pen_writing_(literacy).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fountain_pen_writing_%28literacy%29.jpg/960px-Fountain_pen_writing_%28literacy%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fountain_pen_writing_%28literacy%29.jpg/500px-Fountain_pen_writing_%28literacy%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-resume-screening-before-apply.jpg",
+  "local": true
  }
 }
