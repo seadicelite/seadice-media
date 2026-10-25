@@ -8807,5 +8807,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-ai-burnout-reliance-cycle-recover-solo-after-ai",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wu et al., \"Human-generative AI collaboration enhances task performance but undermines human's intrinsic motivation\" (Scientific Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-98385-2",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-burnout-reliance-cycle-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIのあと、一人の作業がつまらない？",
+        "body": "AIと一緒に文章を書いたあと、自分だけで作業すると、なんだか退屈に感じる。そんなこと、ないかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "英国の大人3,562人で実験",
+        "body": "4つのネットの実験で、1つ目の作業をAIと一緒に、2つ目を一人でする組と、2つとも一人でする組などに、くじで分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「自分でやってる」感は戻るけど",
+        "body": "AIから一人の作業に移った人は、自分で作業を動かしている感覚は高まった一方、作業の面白さは下がって、退屈が増えていたらしい。AIと書いた文章は少し評価が高かったけど、その後の一人の作業はよくならなかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "短い実験の話",
+        "body": "どれも短いネットの実験で、何か月もAIと働いたあとに一人に戻ったらどうなるかはわからない。退屈を測る質問のまとまりが弱いことも、著者ら自身が認めているよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
