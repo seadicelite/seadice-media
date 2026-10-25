@@ -10036,5 +10036,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-bad-test-score-not-smart-growth-mindset-recovery-research-meta",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Macnamara & Burgoyne, \"Do growth mindset interventions impact students' academic achievement? A systematic review and meta-analysis with recommendations for best practices\" (Psychological Bulletin, 2023)",
+    "sourceUrl": "https://doi.org/10.1037/bul0000352",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/bad-test-score-not-smart-growth-mindset-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "「能力は伸びる」と思えば成績が上がる？",
+        "body": "頭の良さは努力で伸びる、と考える「成長マインドセット」。これを教えると成績が上がる、って学校や本でよく聞くよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "63研究・約9万8千人をまとめた",
+        "body": "2023年のメタ分析が、成長マインドセットを教える介入の研究63本（9万7672人）をまとめて、成績への効果を調べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効果はごく小さかった",
+        "body": "効果の大きさはd=0.05とごく小さく、発表の偏りを補正すると差がなくなった。質の高い6研究だけで見ても差はなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "効く人もいる？",
+        "body": "同じ年の別のメタ分析は、効果が出やすい人に絞ればd=0.14の効果があるとしていて、研究者の間でも評価が分かれているよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-bad-test-score-not-smart-growth-mindset-recovery-research-praise-replication",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Li & Bates, \"You can't change your basic ability, but you work at things, and that's how we get hard things done: Testing the role of growth mindset on response to setbacks, educational attainment, and cognitive ability\" (Journal of Experimental Psychology: General, 2019)",
+    "sourceUrl": "https://doi.org/10.1037/xge0000669",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/bad-test-score-not-smart-growth-mindset-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "「頭がいいね」とほめると失敗に弱くなる？",
+        "body": "1998年の有名な実験では、頭の良さをほめられた子は、努力をほめられた子より失敗の後に粘らなかった。だから努力をほめよう、ってよく言われるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "中国の子ども624人で追試",
+        "body": "9〜13歳の子ども624人で、同じ実験とその改良版をくり返し、学期中の成績との関係も調べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ほとんど差が出なかった",
+        "body": "1つ目の研究で失敗後のテストにわずかな差（p=.049）が出ただけで、やる気など8つの指標には差なし。続く2つの研究でも予想どおりの差は出なかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "国や年齢が違えば？",
+        "body": "調べたのは中国の子どもだけ。ほかの国や年齢で、ほめ方がどこまで影響するかは、まだはっきりしていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
