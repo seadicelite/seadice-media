@@ -10459,5 +10459,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-weekend-batch-vs-daily-study-adults-interval",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Tang et al., \"No difference between using short and long intervals for distributed proficiency-based laparoscopy simulator training: a randomized trial\" (Surgical Endoscopy, 2024)",
+    "sourceUrl": "https://doi.org/10.1007/s00464-023-10522-y",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/weekend-batch-vs-daily-study-adults/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "練習は毎日しないと意味がない？",
+        "body": "「勉強や練習は毎日少しずつが一番」ってよく言われるよね。週末しか時間がない人は、効率が悪いのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1〜2日おきと6〜8日おき",
+        "body": "デンマークの医学生39人が、手術のシミュレーター練習を決められた水準に届くまで続けた。練習のあいだを1〜2日あける組と、6〜8日あける組にランダムに分けたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "どちらも同じだった",
+        "body": "水準に届くまでの時間は平均291分と299分。3〜5週間後にもう一度練習したときも94分と96分で、差はなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "知識の勉強でも同じ？",
+        "body": "調べたのは手の技術の練習で、人数も39人と少ない。単語や用語を覚える勉強で同じになるかは、この研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-weekend-batch-vs-daily-study-adults-breaks",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yan et al., \"Enhancing cosmetic suturing skill acquisition in surgical residents through spaced learning training: a randomized controlled trial\" (Annals of Medicine, 2024)",
+    "sourceUrl": "https://doi.org/10.1080/07853890.2024.2363940",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/weekend-batch-vs-daily-study-adults/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "3時間ぶっ通しは損？",
+        "body": "時間がとれた日は、休まず一気にやりたくなるよね。でも、続けて練習するのと休みを入れるのでは、身につき方は変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "40分＋休憩20分と、3時間連続",
+        "body": "中国の研修医23人が、傷を目立たなく縫う技術を1対1で学んだ。「40分練習して20分休む」組と「3時間続けて練習する」組を比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "休んだ組が直後も3か月後も上",
+        "body": "採点は練習直後で74.06点と63.43点、3か月後で75.60点と60.68点。休みを入れた組のほうが高かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "少人数・1つの病院",
+        "body": "1つの病院の23人だけの試験で、手の技術の練習。教科の勉強や、もっと大人数でも同じ結果になるかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

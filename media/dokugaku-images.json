@@ -5336,5 +5336,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Open_book_at_the_hotel_reception.jpg/330px-Open_book_at_the_hotel_reception.jpg",
   "og": "https://dokugaku.seadice.win/img/input-output-ratio-3-7-study.jpg",
   "local": true
+ },
+ "weekend-batch-vs-daily-study-adults": {
+  "file": "File:Study Desk, Eavan Boland Library.jpg",
+  "src": "/img/weekend-batch-vs-daily-study-adults.jpg",
+  "src640": "/img/weekend-batch-vs-daily-study-adults-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "図書館の勉強机",
+  "artist": "Orf3us",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Study_Desk,_Eavan_Boland_Library.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Study_Desk%2C_Eavan_Boland_Library.jpg/960px-Study_Desk%2C_Eavan_Boland_Library.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Study_Desk%2C_Eavan_Boland_Library.jpg/500px-Study_Desk%2C_Eavan_Boland_Library.jpg",
+  "og": "https://dokugaku.seadice.win/img/weekend-batch-vs-daily-study-adults.jpg",
+  "local": true
  }
 }
