@@ -3363,5 +3363,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/I_finally_got_the_pieces_of_my_office_desk_up_here%2C_and_with_some_cussing%2C_drilling%2C_glue_managed_to_re-assemble_it_%28a_few_of_those_cam-post_things_got_mangled_in_my_hast_of_packing_up%29._%282373867187%29.jpg/500px-thumbnail.jpg",
   "og": "https://ai.seadice.win/img/ai-reemployed-fear-replaced-again.jpg",
   "local": true
+ },
+ "sleep-score-bad-anxious-tired": {
+  "file": "File:Bedroom window view of Seto Inland Sea at dawn, Onomichi, Ikuchi Island, Japan.jpg",
+  "src": "/img/sleep-score-bad-anxious-tired.jpg",
+  "src640": "/img/sleep-score-bad-anxious-tired-sm.jpg",
+  "w": 960,
+  "h": 491,
+  "alt": "夜明けの海が見える寝室の窓",
+  "artist": "OKJaguar",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bedroom_window_view_of_Seto_Inland_Sea_at_dawn,_Onomichi,_Ikuchi_Island,_Japan.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bedroom_window_view_of_Seto_Inland_Sea_at_dawn%2C_Onomichi%2C_Ikuchi_Island%2C_Japan.jpg/960px-Bedroom_window_view_of_Seto_Inland_Sea_at_dawn%2C_Onomichi%2C_Ikuchi_Island%2C_Japan.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bedroom_window_view_of_Seto_Inland_Sea_at_dawn%2C_Onomichi%2C_Ikuchi_Island%2C_Japan.jpg/500px-Bedroom_window_view_of_Seto_Inland_Sea_at_dawn%2C_Onomichi%2C_Ikuchi_Island%2C_Japan.jpg",
+  "og": "https://ai.seadice.win/img/sleep-score-bad-anxious-tired.jpg",
+  "local": true
  }
 }
