@@ -9589,5 +9589,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-sns-travel-posts-envy-prevent-experience-vs-things",
+    "category": "比べて落ち込む",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lin R, van de Ven N, Utz S, \"What triggers envy on Social Network Sites? A comparison between shared experiential and material purchases\" (Computers in Human Behavior, 2018)",
+    "sourceUrl": "https://doi.org/10.1016/j.chb.2018.03.049",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/sns-travel-posts-envy-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "うらやましいのは高い買い物？",
+        "body": "SNSで人がうらやましくなるのは、新しいスマホやブランド品みたいな「物」の投稿だと思いがちだよね。でも旅行やライブの投稿のほうがざわつく、という人も多いはず。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ55ドルで比べた実験",
+        "body": "241人に、知り合いが55ドルのコンサートのチケットか、同じ55ドルの音楽プレーヤーを買ったという投稿を見せて、どのくらいうらやましいかを聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "体験のほうがうらやましい",
+        "body": "うらやましさの平均は、コンサートの組が2.08、音楽プレーヤーの組が0.86（0〜6）。体験は「自分にとっても大事なこと」と感じやすく、それが差の一部を説明していたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本物の投稿でも同じ？",
+        "body": "この実験は想像した投稿への反応。自分のタイムラインの実際の投稿で比べた研究では、差ははっきりしない程度だった。今の写真中心のSNSでも同じかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
