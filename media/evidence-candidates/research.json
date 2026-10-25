@@ -10410,5 +10410,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-period-premenstrual-sleep-why-research-perceived-sleep",
+    "category": "睡眠",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Baker et al., \"Perceived poor sleep quality in the absence of polysomnographic sleep disturbance in women with severe premenstrual syndrome\" (Journal of Sleep Research, 2012)",
+    "sourceUrl": "https://doi.org/10.1111/j.1365-2869.2012.01007.x",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/period-premenstrual-sleep-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "生理前は本当に眠れてない？",
+        "body": "生理前になると眠りが浅い気がする、という人は多いよね。実際に脳波で眠りを測って確かめた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "36人の眠りを記録",
+        "body": "重いPMSの女性18人と、症状が少ない女性18人の眠りを、生理前と生理後の時期に1晩ずつ脳波で記録したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "感じ方だけが悪くなった",
+        "body": "重いPMSの人は生理前に「よく眠れなかった」と答えたけど、脳波で測った眠りの質は変わっていなかった。眠りを悪く感じる人ほど不安が強かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1晩ずつの記録",
+        "body": "それぞれの時期で1晩しか測っていないし、人数も36人と少なめ。不安を和らげると眠りの感じ方がよくなるかは、まだ確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
