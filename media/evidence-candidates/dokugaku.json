@@ -10697,5 +10697,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-ai-made-flashcards-vs-self-made-premade",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pan et al., \"User-generated digital flashcards yield better learning than premade flashcards\" (Journal of Applied Research in Memory and Cognition, 2023)",
+    "sourceUrl": "https://doi.org/10.1037/mac0000083",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/ai-made-flashcards-vs-self-made/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "カードはAIに作らせれば十分？",
+        "body": "暗記カードは作るのが面倒だから、出来合いやAIに任せて、めくる時間に回した方が得だよね、とよく言われるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "自作と出来合いを6回くらべた",
+        "body": "説明文の用語を、自分で作ったカードか出来合いのカードで覚えて、48時間後にテストする実験が6つ行われたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "自作の方がよく覚えていた",
+        "body": "6つの実験を通して、自分で作ったカードの方が用語をよく覚えていた（公開前の版の要旨で効果量 d = 0.45）。覚えたことを当てはめる問題でも、多くの実験で上回ったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIのカードとは直接くらべていない",
+        "body": "くらべたのは出来合いのカードで、AIが作ったカードではないよ。2日後のテストまでの実験で、何か月も続く独学で同じ差が出るかもまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

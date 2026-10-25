@@ -5426,5 +5426,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Stairs_%28117964139%29.jpeg/500px-Stairs_%28117964139%29.jpeg",
   "og": "https://dokugaku.seadice.win/img/grit-perseverance-study-continue.jpg",
   "local": true
+ },
+ "ai-made-flashcards-vs-self-made": {
+  "file": "File:Tarjetas para aprender vocabulario.jpg",
+  "src": "/img/ai-made-flashcards-vs-self-made.jpg",
+  "src640": "/img/ai-made-flashcards-vs-self-made-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机に並べた手書きの単語カード",
+  "artist": "Amoline2000",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tarjetas_para_aprender_vocabulario.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Tarjetas_para_aprender_vocabulario.jpg/960px-Tarjetas_para_aprender_vocabulario.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Tarjetas_para_aprender_vocabulario.jpg/500px-Tarjetas_para_aprender_vocabulario.jpg",
+  "og": "https://dokugaku.seadice.win/img/ai-made-flashcards-vs-self-made.jpg",
+  "local": true
  }
 }
