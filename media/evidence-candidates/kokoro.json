@@ -8773,5 +8773,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-aerobic-exercise-thinking-recover-executive",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Stern et al., \"Effect of aerobic exercise on cognition in younger adults: A randomized clinical trial\" (Neurology, 2019)",
+    "sourceUrl": "https://doi.org/10.1212/WNL.0000000000007003",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/aerobic-exercise-thinking-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "運動すると頭がよくなる？",
+        "body": "体を動かすと頭もさえる、ってよく聞くよね。でも、運動を続けると本当に頭の働きは変わるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "132人がくじで2組に",
+        "body": "運動の習慣がない米国の20〜67歳の132人が、有酸素運動か、ストレッチと体幹の運動のどちらかを、週4回、半年続けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "切り替えや計画の力が上がった",
+        "body": "有酸素運動の組で、作業の切り替えや段取りの力の成績が上がったらしい。伸びは40歳で0.23、60歳で0.60と、年齢が高いほど大きかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "記憶は変わらなかった",
+        "body": "記憶や処理の速さ、注意の成績は、ストレッチの組と差がなかったんだ。人数も少なく、運動をやめたあとも効果が続くかは調べていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

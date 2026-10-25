@@ -6217,5 +6217,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Coffee_machine_sits_on_a_wooden_table_with_a_blue_coffee_capsule_near_a_clear_glass_cup.jpg/500px-Coffee_machine_sits_on_a_wooden_table_with_a_blue_coffee_capsule_near_a_clear_glass_cup.jpg",
   "og": "https://mentalai.seadice.win/img/job-loss-daily-routine-recover.jpg",
   "local": true
+ },
+ "aerobic-exercise-thinking-recover": {
+  "file": "File:Autumn Oak - Broadhall Way - Stevenage.jpg",
+  "src": "/img/aerobic-exercise-thinking-recover.jpg",
+  "src640": "/img/aerobic-exercise-thinking-recover-sm.jpg",
+  "w": 960,
+  "h": 621,
+  "alt": "紅葉した大きな木と、遠くで犬の散歩をする人が見える芝生の道",
+  "artist": "Colin",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Autumn_Oak_-_Broadhall_Way_-_Stevenage.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Autumn_Oak_-_Broadhall_Way_-_Stevenage.jpg/960px-Autumn_Oak_-_Broadhall_Way_-_Stevenage.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Autumn_Oak_-_Broadhall_Way_-_Stevenage.jpg/500px-Autumn_Oak_-_Broadhall_Way_-_Stevenage.jpg",
+  "og": "https://mentalai.seadice.win/img/aerobic-exercise-thinking-recover.jpg",
+  "local": true
  }
 }
