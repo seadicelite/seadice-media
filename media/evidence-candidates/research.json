@@ -10580,5 +10580,73 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-stress-eating-sweets-why-research-meta54",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hill D et al., \"Stress and eating behaviours in healthy adults: a systematic review and meta-analysis\" (Health Psychology Review, 2022)",
+    "sourceUrl": "https://doi.org/10.1080/17437199.2021.1923406",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/stress-eating-sweets-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ストレスで食べすぎる？",
+        "body": "疲れた日やイライラした日に、お菓子が止まらなくなる。「ストレス食い」ってよく聞くけど、研究で見ても本当なのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "54本・約12万人の研究をまとめた",
+        "body": "健康な大人を対象に、ストレスと食べ方の関係を調べた54本の研究（合計11万9,820人）を、1つにまとめて分析したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "量より「中身」が変わる",
+        "body": "ストレスで食べる量全体はわずかに増えただけ（g=0.114）。でも、体に悪い食べものは増えて（g=0.116）、体によい食べものは減っていた（g=-0.111）らしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "影響は小さく、ばらつきも大きい",
+        "body": "効果の大きさは「小さい」程度で、研究ごとの差がかなり大きい。その差がどこから来るのかは、まだ説明できていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-stress-eating-sweets-why-research-emotional-eaters",
+    "category": "食べもの",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Oliver G et al., \"Stress and food choice: a laboratory study\" (Psychosomatic Medicine, 2000)",
+    "sourceUrl": "https://doi.org/10.1097/00006842-200011000-00016",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/stress-eating-sweets-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ストレスで食べる人、食べない人",
+        "body": "ストレスでお菓子に手がのびる人もいれば、食欲がなくなる人もいるよね。この違いはどこから来るんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "「スピーチ前」の昼ごはん",
+        "body": "健康な男女68人の半分に「食後に4分間のスピーチを撮影して評価する」と伝えて準備させ、そのあと昼食を自由に食べてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "気分で食べる人だけが変わった",
+        "body": "ストレスで食べる量全体は変わらなかった。でも、ふだんから気分で食べやすい人は、ストレスがかかると甘くて脂っこい食べものを多く食べていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回の食事だけの話",
+        "body": "実際にはスピーチをしていないし、見たのは1回の昼食だけ。ふだんの生活で同じことが起きるかは、この実験だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

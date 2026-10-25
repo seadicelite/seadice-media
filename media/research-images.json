@@ -5718,5 +5718,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Coffee_Cup_and_Saucer_MET_DP258771.jpg/500px-Coffee_Cup_and_Saucer_MET_DP258771.jpg",
   "og": "https://research.seadice.win/img/no-coffee-cant-focus-caffeine-withdrawal-why-research.jpg",
   "local": true
+ },
+ "stress-eating-sweets-why-research": {
+  "file": "File:Ten Pieces of Cadbury Chocolate Bars Group Up Together.jpg",
+  "src": "/img/stress-eating-sweets-why-research.jpg",
+  "src640": "/img/stress-eating-sweets-why-research-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "割ったチョコレートのかけら",
+  "artist": "Brassluff",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Ten_Pieces_of_Cadbury_Chocolate_Bars_Group_Up_Together.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ten_Pieces_of_Cadbury_Chocolate_Bars_Group_Up_Together.jpg/960px-Ten_Pieces_of_Cadbury_Chocolate_Bars_Group_Up_Together.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ten_Pieces_of_Cadbury_Chocolate_Bars_Group_Up_Together.jpg/500px-Ten_Pieces_of_Cadbury_Chocolate_Bars_Group_Up_Together.jpg",
+  "og": "https://research.seadice.win/img/stress-eating-sweets-why-research.jpg",
+  "local": true
  }
 }
