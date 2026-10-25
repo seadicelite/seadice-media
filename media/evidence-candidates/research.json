@@ -9968,5 +9968,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-muscle-soreness-new-exercise-habit-recovery-research-stretching",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Herbert et al., \"Stretching to prevent or reduce muscle soreness after exercise\" (Cochrane Database of Systematic Reviews, 2011)",
+    "sourceUrl": "https://doi.org/10.1002/14651858.CD004577.pub3",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/muscle-soreness-new-exercise-habit-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ストレッチで筋肉痛は防げる？",
+        "body": "運動の後はしっかりストレッチ。そうすれば翌日の筋肉痛が軽くなる、ってよく聞くよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "12の研究をまとめた",
+        "body": "コクラン・レビューが、運動の前や後にストレッチした12の研究をまとめたよ。2377人が参加した大きな試験も入っている。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "減ったのは100点中1点ほど",
+        "body": "運動後のストレッチで翌日の痛みが減ったのは、100点満点で平均約1点。大きな試験でも約4点で、著者らは意味のある差ではないと結論したんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "研究の質はまだ低め",
+        "body": "どの研究も偏りのおそれが中〜高く、証拠の質は低〜中程度。ストレッチで体が柔らかくなる効果を否定する話ではないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-muscle-soreness-new-exercise-habit-recovery-research-repeated-bout",
+    "category": "習慣",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Nosaka et al., \"The repeated bout effect of reduced-load eccentric exercise on elbow flexor muscle damage\" (European Journal of Applied Physiology, 2001)",
+    "sourceUrl": "https://doi.org/10.1007/s004210100430",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/muscle-soreness-new-exercise-habit-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "2回目の筋肉痛は軽い？",
+        "body": "運動を始めた最初の週がいちばん筋肉痛がつらい気がする。実は2回目からは本当に軽くなるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "男子学生34人で実験",
+        "body": "腕を伸ばされながら力を出す運動を、1回目に2回・6回・24回のどれかだけ行い、2週間後に全員が24回やったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "6回だけでも守られた",
+        "body": "1回目に6回だけの人も、24回やった人と同じくらい、2回目のダメージが小さく済んだ。2回だけでも、いきなり24回より変化は小さかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふだんの運動でも同じ？",
+        "body": "調べたのは腕の筋肉を限界まで使う実験室の運動だけ。ジョギングや筋トレで同じくらい守られるかは、この研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

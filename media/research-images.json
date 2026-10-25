@@ -5448,5 +5448,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/OutDoor_2018%2C_Friedrichshafen_%281X7A0305%29.jpg/500px-OutDoor_2018%2C_Friedrichshafen_%281X7A0305%29.jpg",
   "og": "https://research.seadice.win/img/identity-based-habit-become-the-person-research.jpg",
   "local": true
+ },
+ "muscle-soreness-new-exercise-habit-recovery-research": {
+  "file": "File:Woman standing in front of a dumbbell rack doing bicep curls.jpg",
+  "src": "/img/muscle-soreness-new-exercise-habit-recovery-research.jpg",
+  "src640": "/img/muscle-soreness-new-exercise-habit-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "ダンベルを持つ人と、棚に並んだダンベル",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_standing_in_front_of_a_dumbbell_rack_doing_bicep_curls.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Woman_standing_in_front_of_a_dumbbell_rack_doing_bicep_curls.jpg/960px-Woman_standing_in_front_of_a_dumbbell_rack_doing_bicep_curls.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Woman_standing_in_front_of_a_dumbbell_rack_doing_bicep_curls.jpg/500px-Woman_standing_in_front_of_a_dumbbell_rack_doing_bicep_curls.jpg",
+  "og": "https://research.seadice.win/img/muscle-soreness-new-exercise-habit-recovery-research.jpg",
+  "local": true
  }
 }
