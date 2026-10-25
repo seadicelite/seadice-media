@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-fake-image-spotting-training-prepare",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-10-26",
+  "title": "AIの偽画像を見抜く練習やコツは、効く？研究では、具体的なコツで偽画像を信じる人は減ったが、本物の記事まで疑われやすくなり、声の聞き分けは練習してもほとんど上がらなかった",
+  "summary": "具体的なコツは効くが本物まで疑いやすくなる。コツを3つ知り、見た目だけで決めず、声は別の方法で確かめる"
+ },
+ {
   "slug": "ai-companion-start-own-rules-prepare",
   "category": "人間関係・孤独",
   "type": "guide",

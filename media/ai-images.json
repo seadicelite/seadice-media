@@ -3534,5 +3534,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Window_lamp%2C_lounge%2C_Railway_Inn%2C_Spofforth%2C_North_Yorkshire_%282nd_June_2018%29.jpg/500px-Window_lamp%2C_lounge%2C_Railway_Inn%2C_Spofforth%2C_North_Yorkshire_%282nd_June_2018%29.jpg",
   "og": "https://ai.seadice.win/img/ai-companion-start-own-rules-prepare-og.jpg",
   "local": true
+ },
+ "ai-fake-image-spotting-training-prepare": {
+  "file": "File:Elementary My Dear Watson - Flickr - muffinn.jpg",
+  "src": "/img/ai-fake-image-spotting-training-prepare.webp",
+  "src640": "/img/ai-fake-image-spotting-training-prepare-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "虫めがねで本のページを拡大して見ているところ",
+  "artist": "Mike Finn from Worcester, United Kingdom",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Elementary_My_Dear_Watson_-_Flickr_-_muffinn.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Elementary_My_Dear_Watson_-_Flickr_-_muffinn.jpg/960px-Elementary_My_Dear_Watson_-_Flickr_-_muffinn.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Elementary_My_Dear_Watson_-_Flickr_-_muffinn.jpg/500px-Elementary_My_Dear_Watson_-_Flickr_-_muffinn.jpg",
+  "og": "https://ai.seadice.win/img/ai-fake-image-spotting-training-prepare-og.jpg",
+  "local": true
  }
 }
