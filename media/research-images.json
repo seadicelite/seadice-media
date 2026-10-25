@@ -5556,5 +5556,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Grey_rotary_dial_telephone.jpg/500px-Grey_rotary_dial_telephone.jpg",
   "og": "https://research.seadice.win/img/lonely-even-with-people-recovery-research.jpg",
   "local": true
+ },
+ "unfinished-task-cant-switch-off-procrastination-recovery-research": {
+  "file": "File:Drawing of a Post-It Note on Post-It Note.jpg",
+  "src": "/img/unfinished-task-cant-switch-off-procrastination-recovery-research.jpg",
+  "src640": "/img/unfinished-task-cant-switch-off-procrastination-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "付せんに描かれた付せんの絵",
+  "artist": "Bladner32",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Drawing_of_a_Post-It_Note_on_Post-It_Note.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drawing_of_a_Post-It_Note_on_Post-It_Note.jpg/960px-Drawing_of_a_Post-It_Note_on_Post-It_Note.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drawing_of_a_Post-It_Note_on_Post-It_Note.jpg/500px-Drawing_of_a_Post-It_Note_on_Post-It_Note.jpg",
+  "og": "https://research.seadice.win/img/unfinished-task-cant-switch-off-procrastination-recovery-research.jpg",
+  "local": true
  }
 }

@@ -10240,5 +10240,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-unfinished-task-cant-switch-off-procrastination-recovery-research-progress-weekend",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Weigelt & Syrek, \"Ovsiankina's Great Relief: How Supplemental Work during the Weekend May Contribute to Recovery in the Face of Unfinished Tasks\" (International Journal of Environmental Research and Public Health, 2017)",
+    "sourceUrl": "https://doi.org/10.3390/ijerph14121606",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/unfinished-task-cant-switch-off-procrastination-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "やり残しは週末も頭から離れない？",
+        "body": "金曜に終わらなかった作業って、休みの日もずっと気になるよね。それを14週間、記録で追った研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "83人の金曜と月曜",
+        "body": "働きながら学ぶ83人に、金曜にやり残しの量を、月曜に週末の過ごし方と休めたかを答えてもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "少し進むだけで効く",
+        "body": "週末に作業すること自体は、仕事から心を離すことと逆の向きに結びついていた。でも、やり残しが少しでも進んだ週は、やり残しで休めなくなる影響が弱まっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本人の回答だけ",
+        "body": "本人の回答による相関の研究で、因果まではわからない。学歴の高い人に偏っていて、進み具合も1問だけで測っているよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
