@@ -3345,5 +3345,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/1976_Campaign_binder.JPG/500px-1976_Campaign_binder.JPG",
   "og": "https://ai.seadice.win/img/teach-ai-my-job-procedures-anxiety.jpg",
   "local": true
+ },
+ "ai-reemployed-fear-replaced-again": {
+  "file": "File:I finally got the pieces of my office desk up here, and with some cussing, drilling, glue managed to re-assemble it (a few of those cam-post things got mangled in my hast of packing up). (2373867187).jpg",
+  "src": "/img/ai-reemployed-fear-replaced-again.jpg",
+  "src640": "/img/ai-reemployed-fear-replaced-again-sm.jpg",
+  "w": 960,
+  "h": 307,
+  "alt": "本や書類が置かれた事務机",
+  "artist": "cogdogblog",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:I_finally_got_the_pieces_of_my_office_desk_up_here,_and_with_some_cussing,_drilling,_glue_managed_to_re-assemble_it_(a_few_of_those_cam-post_things_got_mangled_in_my_hast_of_packing_up)._(2373867187).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/I_finally_got_the_pieces_of_my_office_desk_up_here%2C_and_with_some_cussing%2C_drilling%2C_glue_managed_to_re-assemble_it_%28a_few_of_those_cam-post_things_got_mangled_in_my_hast_of_packing_up%29._%282373867187%29.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/I_finally_got_the_pieces_of_my_office_desk_up_here%2C_and_with_some_cussing%2C_drilling%2C_glue_managed_to_re-assemble_it_%28a_few_of_those_cam-post_things_got_mangled_in_my_hast_of_packing_up%29._%282373867187%29.jpg/500px-thumbnail.jpg",
+  "og": "https://ai.seadice.win/img/ai-reemployed-fear-replaced-again.jpg",
+  "local": true
  }
 }
