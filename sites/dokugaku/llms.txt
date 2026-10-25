@@ -339,6 +339,7 @@
 - [AIで調べて学ぶとき、要約を読むだけで終わらせないには？自分でまとめて身につける調べ方（AIと検索をくらべた実験）](https://dokugaku.seadice.win/ai-research-learn-deeper-how-to/): AIのまとめだけで学ぶと知識が浅くなりやすいという実験をもとに、元の情報を開き自分でまとめる調べ方を紹介します。
 - [AIで勉強するときのチェック表（使う前・使っている間・使った後）。答えを写さずに力をつける9項目と記録表](https://dokugaku.seadice.win/ai-study-checklist/): AIの家庭教師の実験と思い出す練習の研究から作った、AIで勉強するときの9項目のチェック表と記録表。
 - [AIに勉強を手伝ってもらう依頼文テンプレート表。答えを言わせない・教材の解答を渡す・1問ずつ進める（AI家庭教師の実験から）](https://dokugaku.seadice.win/ai-study-prompt-templates/): 答えを写すと成績が下がり、ヒント型のAIでは下がらなかった実験から作った、コピーして使える依頼文6つと言いかえ表。
+- [AIに「任せていい作業・任せない作業」の仕分け表。答えと下書きは自分で、ヒント・質問・弱点の指摘は頼む（AIなしの成績を測った研究から）](https://dokugaku.seadice.win/ai-study-task-delegation-sorting-table/): 答えと下書きは自分で、ヒントや弱点の指摘はAIに。AIを外した後の成績を測った実験から作った仕分け表と記録表。
 - [AIの要約を勉強に使う前の「照合表」。対象や条件が消えて話が広がっていないかを6項目で確かめる（AI要約の誤りの研究から）](https://dokugaku.seadice.win/ai-summary-check-table/): AIの要約は対象や条件を落として話を広げやすい。元の文章と見比べる6項目の照合表と記録表。
 - [AIに作文を添削させると上達するのか。AIの添削（自動フィードバック）と学習の研究](https://dokugaku.seadice.win/ai-writing-feedback-revision/): AIの添削は作文に中くらいの効果。ただ点数が伸びても力がつくとは限らず、指摘をもとに自分で書き直すのがおすすめ
 - [AIに作文を添削してもらったら直しが多すぎて、書く気がなくなった。どう立て直す？「重要な3つ」に絞って頼み直す6つの手順（フィードバックと自動添削の研究）](https://dokugaku.seadice.win/ai-writing-feedback-too-many-corrections-reset/): 直しの多さでやる気を失ったら、重要な3つまで理由つきで頼み直し、自分で書き直し、3回以上続けてから判断する手順。

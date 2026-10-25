@@ -542,7 +542,8 @@
           "ai-study-checklist",
           "ai-study-prompt-templates",
           "ai-answer-fact-check-table",
-          "ai-summary-check-table"
+          "ai-summary-check-table",
+          "ai-study-task-delegation-sorting-table"
         ]
       }
     }

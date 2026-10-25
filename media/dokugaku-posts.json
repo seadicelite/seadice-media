@@ -1,5 +1,13 @@
 [
   {
+    "slug": "ai-study-task-delegation-sorting-table",
+    "category": "AIと独学",
+    "type": "guide",
+    "date": "2026-10-25",
+    "title": "AIに「任せていい作業・任せない作業」の仕分け表。答えと下書きは自分で、ヒント・質問・弱点の指摘は頼む（AIなしの成績を測った研究から）",
+    "summary": "答えと下書きは自分で、ヒントや弱点の指摘はAIに。AIを外した後の成績を測った実験から作った仕分け表と記録表。"
+  },
+  {
     "slug": "phone-notification-sorting-sheet-study",
     "category": "集中・環境",
     "type": "guide",
