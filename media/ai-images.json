@@ -3381,5 +3381,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bedroom_window_view_of_Seto_Inland_Sea_at_dawn%2C_Onomichi%2C_Ikuchi_Island%2C_Japan.jpg/500px-Bedroom_window_view_of_Seto_Inland_Sea_at_dawn%2C_Onomichi%2C_Ikuchi_Island%2C_Japan.jpg",
   "og": "https://ai.seadice.win/img/sleep-score-bad-anxious-tired.jpg",
   "local": true
+ },
+ "ai-confident-answer-trust-know": {
+  "file": "File:A magnifying glass.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_magnifying_glass.jpg/960px-A_magnifying_glass.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_magnifying_glass.jpg/500px-A_magnifying_glass.jpg",
+  "w": 960,
+  "h": 476,
+  "alt": "角の持ち手がついた虫めがね",
+  "artist": "PLBechly",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_magnifying_glass.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

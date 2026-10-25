@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-confident-answer-trust-know",
+  "category": "AIに頼りすぎ",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-25",
+  "title": "AIが自信ありげに答えると、正しいと思ってしまう。研究では、AIが自分で言う「自信」と正しさの結びつきは弱く、間違った助言を正しいと受け取った人が多い場面で約36%いた",
+  "summary": "AIの「自信があります」は当てになる？AIが言う自信と正しさの結びつきの弱さと、人が口調に関係なく信じやすい研究から、確かめ方を整理。"
+ },
+ {
   "slug": "sleep-score-bad-anxious-tired",
   "category": "心の疲れ・比べて落ち込む",
   "type": "guide",
