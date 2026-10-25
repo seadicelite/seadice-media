@@ -10935,5 +10935,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-deliberate-errors-study-how-to-derring",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wong, \"Deliberate Erring Improves Far Transfer of Learning More Than Errorless Elaboration and Spotting and Correcting Others' Errors\" (Educational Psychology Review, 2023)",
+    "sourceUrl": "https://doi.org/10.1007/s10648-023-09739-z",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/deliberate-errors-study-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "勉強中の間違いは避けるべき？",
+        "body": "間違えて覚えたら困るから、勉強中はなるべく間違えない方がいい。そう思っている人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "わざと間違えて、すぐ直す",
+        "body": "シンガポールの大学生が、科学の文章を1文ずつ「ありそうな間違い」に書き換え、線で消して正しく直した。比べたのは、正しい言い換えを書くやり方。どちらも25分ずつだよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "思い出せる量が増えた",
+        "body": "わざと間違えて直した方が、思い出せた内容が平均11.6個で、言い換えの9.1個より多かった。別の分野に当てはめる問題でもよかったのに、本人たちはそれほど効いたと思っていなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "別の研究室では差なし",
+        "body": "効果を報告したのは主に同じ研究者のグループ。別の研究室が事前登録して行った2つの追試では、写して線を引くやり方と差が出なかった。テストも勉強した日のうちだったよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

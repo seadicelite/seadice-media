@@ -5552,5 +5552,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TCM_237387_alarm_clock_with_MP3_player-7461.jpg/500px-TCM_237387_alarm_clock_with_MP3_player-7461.jpg",
   "og": "https://dokugaku.seadice.win/img/groggy-after-nap-sleep-inertia-reset.jpg",
   "local": true
+ },
+ "deliberate-errors-study-how-to": {
+  "file": "File:Eraser (2809542009).jpg",
+  "src": "/img/deliberate-errors-study-how-to.jpg",
+  "src640": "/img/deliberate-errors-study-how-to-sm.jpg",
+  "w": 960,
+  "h": 643,
+  "alt": "消しゴム",
+  "artist": "Liji Jinaraj from San Francisco, USA",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Eraser_(2809542009).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eraser_%282809542009%29.jpg/960px-Eraser_%282809542009%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eraser_%282809542009%29.jpg/500px-Eraser_%282809542009%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/deliberate-errors-study-how-to.jpg",
+  "local": true
  }
 }
