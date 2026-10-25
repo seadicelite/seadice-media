@@ -1198,5 +1198,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/PenicheFortressVisitingRoom.jpg/500px-PenicheFortressVisitingRoom.jpg",
   "og": "https://hanzai.seadice.win/img/prison-visitation-family-ties-reentry.jpg",
   "local": true
+ },
+ "optimism-bias-getting-caught": {
+  "file": "File:Esztergom by night 01 - Simor János utca.jpg",
+  "src": "/img/optimism-bias-getting-caught.jpg",
+  "src640": "/img/optimism-bias-getting-caught-sm.jpg",
+  "w": 960,
+  "h": 650,
+  "alt": "夜の道を照らす街灯",
+  "artist": "Pudelek",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg/960px-Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg/500px-Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg",
+  "og": "https://hanzai.seadice.win/img/optimism-bias-getting-caught.jpg",
+  "local": true
  }
 }
