@@ -6449,5 +6449,22 @@
   "alt": "木々の間を通る森の小道",
   "og": "https://mentalai.seadice.win/img/phone-wallpaper-nature-stress-prevent-og.jpg",
   "local": true
+ },
+ "screen-reading-paper-understanding-why": {
+  "file": "File:EBook between paper books.jpg",
+  "w": 960,
+  "h": 640,
+  "artist": "Maximilian Schönherr",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:EBook_between_paper_books.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EBook_between_paper_books.jpg/960px-EBook_between_paper_books.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EBook_between_paper_books.jpg/500px-EBook_between_paper_books.jpg",
+  "src": "/img/screen-reading-paper-understanding-why.webp",
+  "src640": "/img/screen-reading-paper-understanding-why-sm.webp",
+  "og": "https://mentalai.seadice.win/img/screen-reading-paper-understanding-why-og.jpg",
+  "local": true,
+  "alt": "紙の本のあいだに置かれた電子書籍端末"
  }
 }

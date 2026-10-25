@@ -9283,5 +9283,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-screen-reading-paper-understanding-why-trick-questions",
+    "category": "考える力・集中",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wang X et al., \"The screen inferiority depends on test format in reasoning and meta-reasoning tasks\" (Frontiers in Psychology, 2023)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2023.1067577",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/screen-reading-paper-understanding-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "画面だと頭に入らないのはなぜ？",
+        "body": "同じ文章でも、紙で読んだときより画面で読んだときのほうが、なんだか頭に入っていない気がすること、あるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ人が画面と紙で解いた",
+        "body": "中国の大学生34人が、32問の短い文章題を半分は画面、半分は紙で解いたらしい。まず7秒で直感の答え、そのあと時間をかけて最終の答えを出す方法だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "画面だと直感を見直さない",
+        "body": "最初に浮かぶ答えが誤りになるひっかけ問題で、最終的に正解した割合は画面53%、紙73%。画面では直感の答えに自信を持ちやすく、答えを考え直した割合も画面29%、紙43%と低かったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い資料でも同じ？",
+        "body": "1つの大学の少人数の実験で、使ったのは短い文章題。仕事で長い資料を画面で読むときに同じ差が出るかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
