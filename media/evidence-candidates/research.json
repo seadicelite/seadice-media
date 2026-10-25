@@ -10308,5 +10308,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-toddler-bedtime-routine-sleep-how-research-two-weeks",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mindell et al., \"A nightly bedtime routine: impact on sleep in young children and maternal mood\" (Sleep, 2009)",
+    "sourceUrl": "https://doi.org/10.1093/sleep/32.5.599",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/toddler-bedtime-routine-sleep-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "寝る前の流れで夜泣きは減る？",
+        "body": "子どもが夜中に何度も起きると、親もへとへとだよね。寝る前の過ごし方を毎晩そろえるだけで変わるのか、試した研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "405組を2つに分けた",
+        "body": "生後7か月〜3歳の子と母親405組を分けたよ。片方は2週間、お風呂→保湿→抱っこや子守歌の流れを毎晩続けて、お風呂の後30分以内に電気を消した。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "夜中に起きる回数が減った",
+        "body": "1歳半までの子では、夜中に起きる回数が1晩1.6回から1.0回に、起きている時間が21.8分から12.6分に減ったよ。いつも通りの組は変わらなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "親の記録と企業の支援",
+        "body": "眠りは母親の記録で測っていて、機器では確かめていない。お風呂用品の会社の支援を受けた研究で、効果を見たのも2週間だけなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
