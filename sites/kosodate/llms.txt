@@ -46,6 +46,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [子どもがAIの答えを鵜呑みにしないか心配。疑う力は育てられる？授業研究と「間違い探し」の根拠](https://kosodate.seadice.win/child-ai-critical-thinking-fact-check/): 確かめ方を1時間×6回教えた高校の授業で判断力が伸びた。一方、AIにわざと間違えさせる遊びを直接試した研究はまだない。研究8本で整理。
 - [子どもが本を読まない。読書量と読解力は「お互いに伸ばし合う」関係だった](https://kosodate.seadice.win/children-not-reading-books-vocabulary/): 読書量と読解力・言葉の力には中〜強い関連。ただ低学年では読む力の弱さが読書離れの入り口に。研究5本から、無理に読ませる前に家庭でできることを整理。
 - [プログラミング教育は将来の役に立つ？](https://kosodate.seadice.win/coding-education-future-benefit/): プログラミング自体の力や一部の思考力は伸びますが、学校の成績や将来役立つかの直接的な証拠はまだ限られています。
+- [小学生の宿題は1日何分が目安？「長くやるほど伸びる」とは限らない理由](https://kosodate.seadice.win/elementary-homework-time-how-long/): 宿題をする子は成績が高めでも、最適な時間は未確定。長すぎる宿題と成績・心の不調の関連、親の支え方を論文4本で整理。
 - [テンポの速い動画を見ると、子どもの集中力は落ちる？](https://kosodate.seadice.win/fast-paced-video-fantasy-executive-function/): 動画の再生テンポより、現実にありえない内容(ファンタジー)を見た直後の方が、実行機能のテスト成績が下がる関連がありました。
 - [子どもの字が汚い。タブレットで書く練習でも大丈夫？文字を覚える時期は紙と鉛筆に分があった](https://kosodate.seadice.win/handwriting-messy-tablet-vs-pencil/): 年長児の実験では、紙と鉛筆で練習した子の方が画面のキーボードより文字を見分ける力が伸びた。字の読みやすさや速さも練習で伸ばせる。
 - [宿題にAIを使わせると考える力は落ちる？研究でわかった使い方の分かれ道](https://kosodate.seadice.win/homework-ai-thinking-skills/): 答えを写す使い方は成績が下がり、ヒントとして使うと下がりにくい。分かれ道は使い方です。

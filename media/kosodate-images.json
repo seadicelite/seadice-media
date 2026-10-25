@@ -1363,5 +1363,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Smartphone_with_case_cover_on_table.jpg/500px-Smartphone_with_case_cover_on_table.jpg",
   "og": "https://kosodate.seadice.win/img/secret-sns-account-junior-high.jpg",
   "local": true
+ },
+ "elementary-homework-time-how-long": {
+  "file": "File:一二三四五 (5394727914).jpg",
+  "src": "/img/elementary-homework-time-how-long.jpg",
+  "src640": "/img/elementary-homework-time-how-long-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "机に置かれた漢字の宿題のノートと鉛筆",
+  "artist": "Shuichi Kodama",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E4%BA%94_(5394727914).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E4%BA%94_%285394727914%29.jpg/960px-%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E4%BA%94_%285394727914%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E4%BA%94_%285394727914%29.jpg/500px-%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E4%BA%94_%285394727914%29.jpg",
+  "og": "https://kosodate.seadice.win/img/elementary-homework-time-how-long.jpg",
+  "local": true
  }
 }
