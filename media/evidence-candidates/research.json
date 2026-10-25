@@ -10172,5 +10172,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-fiber-not-working-constipation-kiwi-prunes-recovery-research-kiwi",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gearry et al., \"Consumption of 2 Green Kiwifruits Daily Improves Constipation and Abdominal Comfort—Results of an International Multicenter Randomized Controlled Trial\" (American Journal of Gastroenterology, 2023)",
+    "sourceUrl": "https://doi.org/10.14309/ajg.0000000000002124",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/fiber-not-working-constipation-kiwi-prunes-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "便秘にはキウイがいい？",
+        "body": "便秘のときはキウイがいい、ってよく聞くよね。本当に効くのか、試験で確かめた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3か国の184人で試した",
+        "body": "日本・ニュージーランド・イタリアの184人が、緑のキウイ1日2個と、食物繊維のサプリ（サイリウム7.5g）を、4週間ずつ入れ替えて試したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "自然な排便が週1.5回増えた",
+        "body": "便秘の人では、キウイを食べた4週間で、自然にすっきり出る排便が週に1.53回増えたんだ。お腹の不快感も減って、大きな副作用はなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "資金はキウイの会社から",
+        "body": "この試験はキウイの販売会社が主な資金を出して、設計にも関わっているよ。4週間より長く続けたときの効果も、この研究ではわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
