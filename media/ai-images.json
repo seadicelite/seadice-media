@@ -3327,5 +3327,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fountain_pen_writing_%28literacy%29.jpg/500px-Fountain_pen_writing_%28literacy%29.jpg",
   "og": "https://ai.seadice.win/img/ai-resume-screening-before-apply.jpg",
   "local": true
+ },
+ "teach-ai-my-job-procedures-anxiety": {
+  "file": "File:1976 Campaign binder.JPG",
+  "src": "/img/teach-ai-my-job-procedures-anxiety.jpg",
+  "src640": "/img/teach-ai-my-job-procedures-anxiety-sm.jpg",
+  "w": 960,
+  "h": 731,
+  "alt": "見出しのタブが付いた青いバインダーにとじた書類",
+  "artist": "Unknown author",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:1976_Campaign_binder.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/1976_Campaign_binder.JPG/960px-1976_Campaign_binder.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/1976_Campaign_binder.JPG/500px-1976_Campaign_binder.JPG",
+  "og": "https://ai.seadice.win/img/teach-ai-my-job-procedures-anxiety.jpg",
+  "local": true
  }
 }
