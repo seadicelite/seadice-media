@@ -8841,5 +8841,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-comparison-self-acceptance-recover-group-vs-lecture",
+    "category": "比べて落ち込む",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Qian et al., \"Comparison of Two Approaches to Enhance Self-Esteem and Self-Acceptance in Chinese College Students: Psychoeducational Lecture vs. Group Intervention\" (Frontiers in Psychology, 2022)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2022.877737",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/comparison-self-acceptance-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自分を受け入れる力は、話を聞けば育つ？",
+        "body": "「ありのままの自分を認めよう」って、講義で教わればできるようになるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学1年生149人で比べた",
+        "body": "中国の職業系の大学で、クラスごとに、講義型の授業か、仲間から長所を伝えてもらうなどの体験型の授業を、週1回・全6回受けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "体験型でだけ上がった",
+        "body": "自尊心はどちらでも上がったけど、自分を受け入れる気持ちは体験型で平均20.95点から23.16点に上がり、講義型でははっきり変わらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "続くかは不明",
+        "body": "組はクラス単位で分けていて、参加者の約9割が男性。授業の直後だけの測定なので、効果が続くか、落ち込みが減るかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

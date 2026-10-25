@@ -6253,5 +6253,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Enjoying_a_fresh_cup_of_coffee_alongside_warm_chocolate_chip_muffins_on_a_wooden_table_in_a_cozy_kitchen_setting.jpg/500px-Enjoying_a_fresh_cup_of_coffee_alongside_warm_chocolate_chip_muffins_on_a_wooden_table_in_a_cozy_kitchen_setting.jpg",
   "og": "https://mentalai.seadice.win/img/ai-burnout-reliance-cycle-recover.jpg",
   "local": true
+ },
+ "comparison-self-acceptance-recover": {
+  "file": "File:Rocky Shoreline at Dusk.jpg",
+  "src": "/img/comparison-self-acceptance-recover.jpg",
+  "src640": "/img/comparison-self-acceptance-recover-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "夕暮れの静かな海と石の多い岸辺",
+  "artist": "Derk29",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rocky_Shoreline_at_Dusk.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rocky_Shoreline_at_Dusk.jpg/960px-Rocky_Shoreline_at_Dusk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rocky_Shoreline_at_Dusk.jpg/500px-Rocky_Shoreline_at_Dusk.jpg",
+  "og": "https://mentalai.seadice.win/img/comparison-self-acceptance-recover.jpg",
+  "local": true
  }
 }
