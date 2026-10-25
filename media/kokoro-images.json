@@ -6310,8 +6310,8 @@
  },
  "mental-fatigue-slow-breathing": {
   "file": "File:Lake mapourika NZ.jpeg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lake_mapourika_NZ.jpeg/960px-Lake_mapourika_NZ.jpeg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lake_mapourika_NZ.jpeg/500px-Lake_mapourika_NZ.jpeg",
+  "src": "/img/mental-fatigue-slow-breathing.jpg",
+  "src640": "/img/mental-fatigue-slow-breathing-sm.jpg",
   "w": 960,
   "h": 720,
   "alt": "朝もやのかかった静かな湖",
@@ -6319,6 +6319,24 @@
   "license": "CC BY-SA 3.0",
   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
   "page": "https://commons.wikimedia.org/wiki/File:Lake_mapourika_NZ.jpeg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lake_mapourika_NZ.jpeg/960px-Lake_mapourika_NZ.jpeg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lake_mapourika_NZ.jpeg/500px-Lake_mapourika_NZ.jpeg",
+  "og": "https://mentalai.seadice.win/img/mental-fatigue-slow-breathing.jpg",
+  "local": true
+ },
+ "work-anxiety-values-if-then": {
+  "file": "File:DSC 6662 A calm inlet mirrors the cloudy sky as it leads out to a quiet beach framed by trees and a low stone wall.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DSC_6662_A_calm_inlet_mirrors_the_cloudy_sky_as_it_leads_out_to_a_quiet_beach_framed_by_trees_and_a_low_stone_wall.jpg/960px-DSC_6662_A_calm_inlet_mirrors_the_cloudy_sky_as_it_leads_out_to_a_quiet_beach_framed_by_trees_and_a_low_stone_wall.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DSC_6662_A_calm_inlet_mirrors_the_cloudy_sky_as_it_leads_out_to_a_quiet_beach_framed_by_trees_and_a_low_stone_wall.jpg/500px-DSC_6662_A_calm_inlet_mirrors_the_cloudy_sky_as_it_leads_out_to_a_quiet_beach_framed_by_trees_and_a_low_stone_wall.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "曇り空を映す静かな入り江と浜辺",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DSC_6662_A_calm_inlet_mirrors_the_cloudy_sky_as_it_leads_out_to_a_quiet_beach_framed_by_trees_and_a_low_stone_wall.jpg",
   "source_label": "Wikimedia Commons"
  }
 }

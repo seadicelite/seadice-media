@@ -9011,5 +9011,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-work-anxiety-values-if-then-teachers",
+    "category": "仕事とAIの不安",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Morgan & Atkin, \"Expelling Stress for Primary School Teachers: Self-Affirmation Increases Positive Emotions in Teaching and Emotion Reappraisal\" (International Journal of Environmental Research and Public Health, 2016)",
+    "sourceUrl": "https://doi.org/10.3390/ijerph13050500",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/work-anxiety-values-if-then/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "不安になったときの合図を決める？",
+        "body": "仕事で不安がこみあげたとき、考えることを先に決めておくと楽になるのかな。そんな実験が先生たちで行われたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1文を書き写すだけ",
+        "body": "英国の小学校の先生42人が「不安になったら、自分について大事にしていることを考える」のような1文を書いた。比べる組は、よく通る道の店を思い浮かべる、など関係ない文を書いたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "書いた直後の不安が低かった",
+        "body": "書いた直後の不安の点数は、大事なことを思い出す組が1.65、比べる組が2.22（1〜4点）。2週間後は仕事への前向きな気持ちも高かったらしい。でも、いやな気持ちの点数は変わらなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "小さな実験で2週間だけ",
+        "body": "42人の予備的な研究で、追ったのは2週間だけ。同じ形の計画を試した別の試験では差が出なかったこともあって、誰にでも効くとはまだ言えないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
