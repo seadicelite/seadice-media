@@ -10595,5 +10595,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-hardest-task-first-morning-study-night-owl-8am",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Facer-Childs et al., \"The effects of time of day and chronotype on cognitive and physical performance in healthy volunteers\" (Sports Medicine - Open, 2018)",
+    "sourceUrl": "https://doi.org/10.1186/s40798-018-0162-z",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/hardest-task-first-morning-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "朝がいちばん頭が冴える？",
+        "body": "「難しいことは朝いちばんにやろう」ってよく聞くよね。朝は頭がすっきりしている、という前提の話なんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "朝型と夜型を3回テスト",
+        "body": "朝型25人と夜型31人に、14時・20時・翌朝8時の3回、反応の速さや判断の課題をしてもらった実験があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "夜型は朝8時に不利",
+        "body": "朝8時には、夜型の人の成績が朝型の人より、反応の速さで8.4%、判断の課題で5.9%低かったらしい。朝が冴えるかは人によって違うみたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数が少なく、勉強ではない",
+        "body": "参加者は56人で、8割以上が運動をしている若い人。短い課題で測ったので、勉強の成績まで同じ差が出るかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

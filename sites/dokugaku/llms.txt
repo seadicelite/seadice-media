@@ -274,6 +274,7 @@
 - [試験はまだ先だと思っていたら、手をつけないまま計画が崩れた。どう立て直す？締め切りを「近く」に引き寄せる研究](https://dokugaku.seadice.win/exam-far-away-never-started-reset/): 締め切りの遠さは先延ばしの強い予測因子だった。残りを日数で数え、今月中の締め切りと週の目標を置いて再開する6つの手順。
 - [試験本番の時間配分表と、模試の時間記録表。見積もりのずれと見直しの研究から作った使い方](https://dokugaku.seadice.win/exam-time-allocation-sheet/): 時間の見積もりがずれる研究と見直しの研究から、模試で時間を測って本番の配分を決める表と使い方をまとめました。
 - [勉強の目標は高く掲げるべきか、小さく刻むべきか。目標設定の研究](https://dokugaku.seadice.win/goal-setting-high-or-small-steps/): 答えは両方。具体的で高いゴールを、毎回届く小さな区切りに分けて記録すると達成に近づく
+- [「いちばん気が重い勉強を朝いちばんに片づけると進む」は本当？取りかかる順番と先延ばしの研究（効く・効かないの判定）](https://dokugaku.seadice.win/hardest-task-first-morning-study/): 判定は「条件しだい」。「朝は意志の力が満タン」は追試で支持されず、朝に頭が働くかは人による。嫌な課題は勉強の最初の15分に置く。
 - [社会人が勉強時間をつくるには？時間管理の研究でわかった「組む・守る・見直す」のやり方](https://dokugaku.seadice.win/make-study-time-working-adults/): 勉強の時間を先に予定に入れ、割り込みから守り、週1回見直す。研修で時間を扱える感覚は上がったが成績への効果は不明
 - [スキマ時間の勉強は効果があるのか。短い学習をくり返す研究](https://dokugaku.seadice.win/micro-learning-spare-time-study/): 1日の練習は短く分けた方が効率的だった。待ち時間の単語練習で2週間57語。スキマに向く内容と限界を研究で確かめる
 - [勉強の計画が毎回倒れるのはなぜか。計画錯誤の研究でわかったこと](https://dokugaku.seadice.win/planning-fallacy-study-plans/): 人は作業時間を短く見積もりがち。過去の実績を基準にし、作業を細かく書き出すと計画は現実に近づく

@@ -5390,5 +5390,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CSIRO_ScienceImage_1853_Fabric_Swatches.jpg/500px-CSIRO_ScienceImage_1853_Fabric_Swatches.jpg",
   "og": "https://dokugaku.seadice.win/img/blue-color-focus-red-test-myth.jpg",
   "local": true
+ },
+ "hardest-task-first-morning-study": {
+  "file": "File:Stylish black eyeglasses resting on a wooden desk in a cozy interior during daylight hours.jpg",
+  "src": "/img/hardest-task-first-morning-study.jpg",
+  "src640": "/img/hardest-task-first-morning-study-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "日の光が入る机に置かれた眼鏡",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Stylish_black_eyeglasses_resting_on_a_wooden_desk_in_a_cozy_interior_during_daylight_hours.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Stylish_black_eyeglasses_resting_on_a_wooden_desk_in_a_cozy_interior_during_daylight_hours.jpg/960px-Stylish_black_eyeglasses_resting_on_a_wooden_desk_in_a_cozy_interior_during_daylight_hours.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Stylish_black_eyeglasses_resting_on_a_wooden_desk_in_a_cozy_interior_during_daylight_hours.jpg/500px-Stylish_black_eyeglasses_resting_on_a_wooden_desk_in_a_cozy_interior_during_daylight_hours.jpg",
+  "og": "https://dokugaku.seadice.win/img/hardest-task-first-morning-study.jpg",
+  "local": true
  }
 }
