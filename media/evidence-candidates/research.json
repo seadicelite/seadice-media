@@ -10750,5 +10750,73 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-chewing-sounds-irritation-misophonia-why-research-uk-prevalence",
+    "category": "気分・ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vitoratou S, et al., \"Misophonia in the UK: Prevalence and norms from the S-Five in a UK representative sample\" (PLOS ONE, 2023)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0282777",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/chewing-sounds-irritation-misophonia-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "人の咀嚼音が許せないのは自分だけ？",
+        "body": "隣の人のクチャクチャ音やガムをかむ音に、怒りがこみあげる。こんなに気になるのは自分だけなのかな、と思う人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "英国の大人772人に聞いた",
+        "body": "年齢・性別・民族の割合を英国の人口に合わせて集めた772人が、音への反応の質問票に回答。専門家の聞き取りで「生活に大きな負担がある」基準も決めたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "負担を感じる人は約18%",
+        "body": "音への反応で生活に大きな負担がある人は18.4%と推定された。でも「ミソフォニア」という言葉を知っていた人は13.6%だけ。反応が強かった音の上位は、大きな音で食べる音やいびき、ガムをかむ音だったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ほかの国でも同じ？",
+        "body": "英国だけの調査で、聞き取りの方法も開発中のもの。日本など、ほかの国や文化で同じ割合になるかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-chewing-sounds-irritation-misophonia-why-research-brain-insula",
+    "category": "気分・ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kumar S, et al., \"The Brain Basis for Misophonia\" (Current Biology, 2017)",
+    "sourceUrl": "https://doi.org/10.1016/j.cub.2016.12.048",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/chewing-sounds-irritation-misophonia-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "音にイライラするのは気のせい？",
+        "body": "食べる音や呼吸の音がつらいと言うと「気にしすぎ」と言われがち。でも、脳の中では実際に何かが起きているらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "MRIの中で3種類の音を聞いた",
+        "body": "ミソフォニアの人20人と、そうでない22人が、食べる音などの引き金の音、赤ちゃんの泣き声のような不快な音、雨音のような中立の音を聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "感情と体の感覚の部分が強く反応",
+        "body": "ミソフォニアの人では、引き金の音のときだけ、体の感覚や感情に関わる「前部島皮質」が大きく反応。心拍と汗の反応も高まっていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数が少ない",
+        "body": "参加者は合わせて42人と少なめ。ミソフォニアの人すべてに同じ反応が出るかは、もっと大きな研究で確かめる必要がある。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
