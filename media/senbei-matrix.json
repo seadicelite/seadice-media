@@ -212,7 +212,9 @@
         "why": [
           "limited-flavor-why-we-buy"
         ],
-        "myth": [],
+        "myth": [
+          "new-flavor-repeated-exposure-myth"
+        ],
         "make": [
           "new-flavor-how-to-combine"
         ],

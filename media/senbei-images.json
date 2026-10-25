@@ -630,5 +630,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mochi_003.jpg/500px-Mochi_003.jpg",
   "og": "https://senbei.seadice.win/img/burnt-senbei-cancer-myth.jpg",
   "local": true
+ },
+ "new-flavor-repeated-exposure-myth": {
+  "file": "File:PeanutArare.jpg",
+  "src": "/img/new-flavor-repeated-exposure-myth.jpg",
+  "src640": "/img/new-flavor-repeated-exposure-myth-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "白い皿に盛った、色とりどりの衣の豆菓子と米菓・小魚のミックス",
+  "artist": "Sjschen",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:PeanutArare.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/PeanutArare.jpg/960px-PeanutArare.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/PeanutArare.jpg/500px-PeanutArare.jpg",
+  "og": "https://senbei.seadice.win/img/new-flavor-repeated-exposure-myth.jpg",
+  "local": true
  }
 }
