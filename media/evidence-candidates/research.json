@@ -10648,5 +10648,73 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-no-memories-early-childhood-infantile-amnesia-why-research-age7",
+    "category": "記憶・学習",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bauer PJ & Larkina M, \"The onset of childhood amnesia in childhood: a prospective investigation of the course and determinants of forgetting of early-life events\" (Memory, 2014)",
+    "sourceUrl": "https://doi.org/10.1080/09658211.2013.854806",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/no-memories-early-childhood-infantile-amnesia-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "小さいころの記憶、いつ消える？",
+        "body": "3歳のころのことって、大人になるとほとんど覚えていないよね。でも子どものころは覚えていたのかな。いつ消えていくんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3歳の出来事を何年かあとに聞いた",
+        "body": "3歳の子ども83人が、母親と最近の出来事について話した。その後、5〜9歳のどこかの時点で、同じ出来事を覚えているかを聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "7歳と8歳のあいだで大きく変わる",
+        "body": "5〜7歳の子は出来事の6割以上を覚えていたのに、8〜9歳では4割未満。1つも思い出せなかった子は、8歳で37%もいたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数は少なめ",
+        "body": "1つの年齢あたり16〜19人と少なく、家庭の背景にも偏りがある。思い出す出来事も母親が選んだもので、本人にとって大事な出来事とは限らないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-no-memories-early-childhood-infantile-amnesia-why-research-fictional",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Akhtar S et al., \"Fictional first memories\" (Psychological Science, 2018)",
+    "sourceUrl": "https://doi.org/10.1177/0956797618778831",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/no-memories-early-childhood-infantile-amnesia-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "赤ちゃんのころを覚えている？",
+        "body": "「1歳のときのことを覚えてる」という人、ときどきいるよね。その記憶、本当にそのときのものなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "6,641人に最初の記憶を聞いた",
+        "body": "大規模な調査で、6,641人に人生でいちばん古い記憶と、そのとき何歳だったかを答えてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "約4割が「2歳以下」と答えた",
+        "body": "平均は3.2歳。でも2,487人（約4割）が2歳以下、893人が1歳以下の記憶をあげた。著者らは、その多くは写真や家族の話からあとでつくられた記憶だろうと考えている。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どれが本物かは確かめられない",
+        "body": "本人の答えを集めた調査なので、一つひとつの記憶が本物かどうかは確かめられない。「作られた記憶」というのは、著者らの解釈なんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
