@@ -10342,5 +10342,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-kids-cooking-together-vegetables-how-research-salad",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "van der Horst et al., \"Involving children in meal preparation. Effects on food intake\" (Appetite, 2014)",
+    "sourceUrl": "https://doi.org/10.1016/j.appet.2014.03.030",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/kids-cooking-together-vegetables-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自分で作ると野菜を食べる？",
+        "body": "子どもに料理を手伝ってもらうと、野菜を食べるようになるってよく聞くよね。実際に比べた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "47人の子で比べた",
+        "body": "6〜10歳の子47人を2組に分けたよ。片方は親と一緒に昼食（パスタ、鶏肉、カリフラワー、サラダ）を作って、もう片方は親だけが作った。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "サラダが76%増えた",
+        "body": "自分で作った組は、サラダを41.7g（76%）多く食べたよ。ただ、食べたカロリーも全体で24%多くなっていた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回きりの実験",
+        "body": "47人で1回だけ試した結果で、その後も野菜を食べ続けたかはわからない。料理教室の研究をまとめると、効果は小さめなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

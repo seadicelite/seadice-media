@@ -5610,5 +5610,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_children%27s_library_at_the_Broomfield_Library.jpg/500px-The_children%27s_library_at_the_Broomfield_Library.jpg",
   "og": "https://research.seadice.win/img/toddler-bedtime-routine-sleep-how-research.jpg",
   "local": true
+ },
+ "kids-cooking-together-vegetables-how-research": {
+  "file": "File:Chopped Veggies on Cutting Board.jpg",
+  "src": "/img/kids-cooking-together-vegetables-how-research.jpg",
+  "src640": "/img/kids-cooking-together-vegetables-how-research-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "まな板の上の刻んだ野菜",
+  "artist": "Robert Loescher",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chopped_Veggies_on_Cutting_Board.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chopped_Veggies_on_Cutting_Board.jpg/960px-Chopped_Veggies_on_Cutting_Board.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chopped_Veggies_on_Cutting_Board.jpg/500px-Chopped_Veggies_on_Cutting_Board.jpg",
+  "og": "https://research.seadice.win/img/kids-cooking-together-vegetables-how-research.jpg",
+  "local": true
  }
 }
