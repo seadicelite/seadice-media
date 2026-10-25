@@ -9351,5 +9351,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-ai-job-worry-mind-work-effects-why-tech-job-insecurity",
+    "category": "仕事とAIの不安",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Liang J & Wong C-H, \"Navigating the Digital Storm: A Systematic Review and Meta-Analysis of Technology-Induced Job Insecurity, Its Outcomes and Moderators\" (Behavioral Sciences, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/bs16091474",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/ai-job-worry-mind-work-effects-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIに仕事を取られる不安、心にどう響く？",
+        "body": "AIやロボットに仕事を奪われるかも、と思うと気持ちが重くなるよね。この不安、実際に何と関係しているんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "96本・のべ約4万3千人の研究",
+        "body": "技術に仕事を奪われる不安と、働く人の気持ちや行動の関係を調べた96本の研究を、北京大学のチームがまとめたらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ストレスや仕事の意味と関係が強かった",
+        "body": "不安が強い人ほど仕事のストレスが強く、仕事の意味ややりがいを感じにくい関係があった。でも、自分から工夫や改善をする行動とは、はっきりした関係はなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "不安が原因かはわからない",
+        "body": "研究の多くは1回きりの調査。不安がストレスを生むのか、もともとつらい人が不安を感じやすいのかは、まだわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
