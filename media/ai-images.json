@@ -1,4 +1,21 @@
 {
+ "voice-ai-driving-near-miss": {
+  "file": "File:Windshield Rain on Freret St.jpg",
+  "src": "/img/voice-ai-driving-near-miss.webp",
+  "src640": "/img/voice-ai-driving-near-miss-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "雨粒がついた車のフロントガラス越しの通り",
+  "artist": "Derek Bridges",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Windshield_Rain_on_Freret_St.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Windshield_Rain_on_Freret_St.jpg/960px-Windshield_Rain_on_Freret_St.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Windshield_Rain_on_Freret_St.jpg/500px-Windshield_Rain_on_Freret_St.jpg",
+  "og": "https://ai.seadice.win/img/voice-ai-driving-near-miss-og.jpg",
+  "local": true
+ },
  "ai-sided-with-me-blamed-other-rebuild": {
   "file": "File:Newone - square fancy tracing paper envelope 02.jpg",
   "src": "/img/ai-sided-with-me-blamed-other-rebuild.webp",

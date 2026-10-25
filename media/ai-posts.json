@@ -1,5 +1,14 @@
 [
  {
+  "slug": "voice-ai-driving-near-miss",
+  "category": "考える力・集中",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-26",
+  "title": "運転中にAIと音声で話していて、ヒヤリとした。研究では、車の音声操作でも頭の負担は5段階で平均3.34と中程度以上で、話し終えても最大27秒は注意が戻りきらなかった",
+  "summary": "声だけの操作でも頭の負担は中程度以上で、終えたあと最大27秒は注意が戻りきらない。会話をやめて止まり、質問は出発前か停車中に。"
+ },
+ {
   "slug": "ai-sided-with-me-blamed-other-rebuild",
   "category": "AIに頼りすぎ",
   "type": "guide",
