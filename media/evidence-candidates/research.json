@@ -10104,5 +10104,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-partner-snoring-cant-sleep-recovery-research-sleep-alone",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Blumen et al., \"Effect of sleeping alone on sleep quality in female bed partners of snorers\" (European Respiratory Journal, 2009)",
+    "sourceUrl": "https://doi.org/10.1183/09031936.00012209",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/partner-snoring-cant-sleep-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "いびきがうるさいなら別の部屋で寝れば解決？",
+        "body": "パートナーのいびきで眠れないなら、寝室を分ければぐっすり眠れるはず。そう考える人は多いよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "一緒の夜と一人の夜を測った",
+        "body": "男性パートナーのいびきに悩む女性たちが、一緒に寝た夜と一人で寝た夜の2回、脳波などで眠りを測ったよ。条件に合ったのは16人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "大きな差はなかった",
+        "body": "一人の夜は目覚める回数と浅い眠りが少し減ったけど、睡眠時間や睡眠効率、深い眠りには大きな差がなかったんだ。しかも参加した23人のうち6人は、自分もいびきをかいていた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何週間も分けたら？",
+        "body": "一人で寝たのは1晩だけ。寝室を分ける生活を続けたときに眠りがどう変わるかは、この研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
