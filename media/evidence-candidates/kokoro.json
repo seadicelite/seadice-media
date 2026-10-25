@@ -8977,5 +8977,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-mental-fatigue-slow-breathing-rest-vs-breath",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Uemori et al., \"Effects of Brief Breathwork Under a State of Cognitive Fatigue on Subjective Well-Being and Diaphragm Function: A Randomized Crossover Design\" (Stress and Health, 2026)",
+    "sourceUrl": "https://doi.org/10.1002/smi.70234",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/mental-fatigue-slow-breathing/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "頭が疲れたら深呼吸？",
+        "body": "頭を使いすぎてぐったりしたら深呼吸、ってよく聞くよね。ただ休むのと比べて、本当に違いはあるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "20人が同じ課題のあとに2通り",
+        "body": "日本の大学生20人が30分の頭を使う課題のあと、吐く息を長くする呼吸を20分した日と、20分横になって休んだ日を比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "疲れ感は同じ、気分に差",
+        "body": "「疲れた」の感じ方はどちらでも同じくらい大きく下がった。違ったのは前向きな気分で、休んだあとの点数は呼吸法の日が31.0点、ただ休んだ日が27.1点だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "短い呼吸でも同じ？",
+        "body": "参加者は健康な大学生20人だけ。呼吸は20分で半分は横になっていたから、職場で座って数分だけ試したときの効果はまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

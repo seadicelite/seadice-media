@@ -6307,5 +6307,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Agriculture_Research_Service_%28ARS%29_%288412891362%29.jpg/500px-Agriculture_Research_Service_%28ARS%29_%288412891362%29.jpg",
   "og": "https://mentalai.seadice.win/img/fire-video-screen-fatigue.jpg",
   "local": true
+ },
+ "mental-fatigue-slow-breathing": {
+  "file": "File:Lake mapourika NZ.jpeg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lake_mapourika_NZ.jpeg/960px-Lake_mapourika_NZ.jpeg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lake_mapourika_NZ.jpeg/500px-Lake_mapourika_NZ.jpeg",
+  "w": 960,
+  "h": 720,
+  "alt": "朝もやのかかった静かな湖",
+  "artist": "Richard Palmer",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Lake_mapourika_NZ.jpeg",
+  "source_label": "Wikimedia Commons"
  }
 }
