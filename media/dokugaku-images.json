@@ -5228,5 +5228,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kulturen_-_Buchkultur_3_Setzkasten.jpg/500px-Kulturen_-_Buchkultur_3_Setzkasten.jpg",
   "og": "https://dokugaku.seadice.win/img/disfluent-font-hard-to-read-memory.jpg",
   "local": true
+ },
+ "power-pose-before-exam-confidence": {
+  "file": "File:Caliber 7700 running a 401.204 HEUER stopwatch.jpg",
+  "src": "/img/power-pose-before-exam-confidence.jpg",
+  "src640": "/img/power-pose-before-exam-confidence-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "ストップウォッチ",
+  "artist": "Ikonicstopwatch",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Caliber_7700_running_a_401.204_HEUER_stopwatch.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Caliber_7700_running_a_401.204_HEUER_stopwatch.jpg/960px-Caliber_7700_running_a_401.204_HEUER_stopwatch.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Caliber_7700_running_a_401.204_HEUER_stopwatch.jpg/500px-Caliber_7700_running_a_401.204_HEUER_stopwatch.jpg",
+  "og": "https://dokugaku.seadice.win/img/power-pose-before-exam-confidence.jpg",
+  "local": true
  }
 }

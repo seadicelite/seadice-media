@@ -10119,5 +10119,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-power-pose-before-exam-confidence-mock-exam",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Chen et al., \"No Miracles in Two Minutes: A Randomized Controlled Study on the Impact of Preparatory Expansive Posing on Anesthesiology Residents' Performance in Mock Structured Oral Examinations\" (The Journal of Education in Perioperative Medicine, 2023)",
+    "sourceUrl": "https://doi.org/10.46374/volxxv_issue2_chen",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/power-pose-before-exam-confidence/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "試験前のパワーポーズで本番に強くなる？",
+        "body": "試験や面接の前に、胸を張ったポーズを2分とると自信がわいて本番に強くなる、って話を聞いたことあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "模擬の口頭試験で比べた",
+        "body": "麻酔科の研修医38人を、くじで2組に分けた実験がある。片方は試験前に2分間、両手を頭の上に上げて立った。もう片方は2分間、いすに座って待った。そのあと同じ模擬の口頭試験を受けた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "点数も不安も同じだった",
+        "body": "試験官がつけた点数に差はなかった。自分での出来の評価も、試験中の不安の強さも変わらなかった。論文の題名は「2分間の奇跡はない」。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "38人・1回きりの試験",
+        "body": "人数が少なく、1つの施設で1回の模擬試験を調べただけ。本番の資格試験で確かめた研究はまだ見つかっていない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-power-pose-before-exam-confidence-contractive",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Elkjær et al., \"Expansive and Contractive Postures and Movement: A Systematic Review and Meta-Analysis of the Effect of Motor Displays on Affective and Behavioral Responses\" (Perspectives on Psychological Science, 2022)",
+    "sourceUrl": "https://doi.org/10.1177/1745691620919358",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/power-pose-before-exam-confidence/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "姿勢で気分は変わる？",
+        "body": "胸を張ると強気になれる、背中を丸めると弱気になる。姿勢と気持ちって本当に関係あるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "73の研究をまとめた",
+        "body": "5819件の文献から選んだ73の研究をまとめた分析がある。胸を張る姿勢、縮こまる姿勢、ふつうの姿勢で、気分や行動がどう違うかを比べた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効いていたのは「縮こまらないこと」",
+        "body": "胸を張る姿勢とふつうの姿勢の差は、効果量0.06でほぼゼロ。一方、縮こまる姿勢はふつうより悪い方向に0.45の差があった。胸を張るより、縮こまらないことが大事らしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふつうの姿勢と比べた研究は少ない",
+        "body": "ふつうの姿勢と比べた研究はまだ少ない。試験の点数のような成績まで変わるかは、この分析ではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
