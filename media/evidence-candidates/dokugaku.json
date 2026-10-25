@@ -10085,5 +10085,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-disfluent-font-hard-to-read-memory-sans-forgetica",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Huff et al., \"Distinctive Sans Forgetica font does not benefit memory accuracy in the DRM paradigm\" (Cognitive Research: Principles and Implications, 2022)",
+    "sourceUrl": "https://doi.org/10.1186/s41235-022-00448-9",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/disfluent-font-hard-to-read-memory/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "読みにくい字のほうが覚えられる？",
+        "body": "わざと読みにくいフォントで読むと、頭が働いて記憶に残るって聞いたことあるよね。記憶のために作られた、線が欠けたフォントまであるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "300人近くで試した",
+        "body": "アメリカの大学生が、関連する単語のリストを、その記憶用フォントか、ふつうのフォント（Arial）で覚えた。実験は4つで、合わせて300人近く。思い出して書くテストと、見たかどうかを答えるテストをした。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "覚えた量は同じだった",
+        "body": "正しく思い出せた割合も、見ていない単語を「見た」と思い込む誤りも、フォントによる差はなかった。ほかの研究グループの追試でも、効果なしや逆効果の結果が出ているんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "単語リストの1回きりの実験",
+        "body": "覚えたのは単語のリストで、教科書の長い文章ではない。何週間も続ける勉強で確かめた研究はまだない。テストがあると知らない条件でだけ効果が出た実験もある。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

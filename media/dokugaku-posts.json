@@ -1,5 +1,13 @@
 [
   {
+    "slug": "disfluent-font-hard-to-read-memory",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-25",
+    "title": "「読みにくい字体で読むと記憶に残る」は本当？わざと読みにくくしたフォントの研究（効く・効かないの判定）",
+    "summary": "判定は「当てにならない」。記憶用フォントは追試で効果がなく、25本の論文の分析でも差はほぼゼロでした。"
+  },
+  {
     "slug": "ai-study-task-delegation-sorting-table",
     "category": "AIと独学",
     "type": "guide",
