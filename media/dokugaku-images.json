@@ -5516,5 +5516,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Note_on_desk.jpg/500px-Note_on_desk.jpg",
   "og": "https://dokugaku.seadice.win/img/certification-knowledge-fading-unused-reset.jpg",
   "local": true
+ },
+ "incorrect-worked-examples-find-fix-how-to": {
+  "file": "File:Long division.JPG",
+  "src": "/img/incorrect-worked-examples-find-fix-how-to.jpg",
+  "src640": "/img/incorrect-worked-examples-find-fix-how-to-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "手書きの割り算の筆算",
+  "artist": "Martin of Sheffield",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Long_division.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Long_division.JPG/960px-Long_division.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Long_division.JPG/500px-Long_division.JPG",
+  "og": "https://dokugaku.seadice.win/img/incorrect-worked-examples-find-fix-how-to.jpg",
+  "local": true
  }
 }

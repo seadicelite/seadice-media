@@ -10867,5 +10867,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-incorrect-worked-examples-find-fix-how-to-elaboration-training",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wang et al., \"Learning from errors? The impact of erroneous example elaboration on learning outcomes of medical statistics in Chinese medical students\" (BMC Medical Education, 2022)",
+    "sourceUrl": "https://doi.org/10.1186/s12909-022-03460-1",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/incorrect-worked-examples-find-fix-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "間違った解答で学べる？",
+        "body": "途中に誤りがある解答を見て、どこが違うかを探す勉強法があるよ。間違いを見るだけで、本当に力がつくのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "医学生91人の10週間",
+        "body": "中国の医学部3年生91人が、統計の授業で週1回、誤った解答例に取り組んだ。くじで分けた47人だけ、先生が誤りの考え方をやって見せる訓練を受けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "説明の訓練で成績アップ",
+        "body": "訓練を受けた群は、中間試験も期末試験も成績が高かった。誤りを見るだけでなく、なぜ間違いかを考える手助けが大事らしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "正しい例題とくらべると？",
+        "body": "両方の群が誤答例を使っていて、正しい例題とはくらべていない。人数も少なめで、正しい例題の方が伸びたというメタ分析もあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

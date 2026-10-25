@@ -1,5 +1,13 @@
 [
   {
+    "slug": "incorrect-worked-examples-find-fix-how-to",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-26",
+    "title": "計算問題の「間違った解答例」で学ぶには？正しい例題のあとに、誤りを探して理由を書き、直して比べる6つの手順（誤答例の研究と、効果がそろわない点）",
+    "summary": "誤答例は理由の説明と答え合わせがあると成績が上がった例がある一方、正しい例題が勝ったメタ分析も。正しい例題のあとに使う。"
+  },
+  {
     "slug": "certification-knowledge-fading-unused-reset",
     "category": "記憶・覚え方",
     "type": "guide",
