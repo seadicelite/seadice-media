@@ -9623,5 +9623,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-ai-use-purpose-creativity-prevent-motives",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hou J, Huang Y, Wang Q, Yao X, Zhang P, Zhao F, \"AI Dependence and Self-Reported Creativity Among Chinese College Students: The Roles of Motivation for AI Use and Perceived AI Literacy\" (Behavioral Sciences, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/bs16091712",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-use-purpose-creativity-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIを使うと発想力が落ちる？",
+        "body": "何でもまずAIに聞いていると、自分で思いつく力がなくなりそうで不安になるよね。じゃあ、AIの使い方と発想力って、実際どう関係しているんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生5,764人に聞いた",
+        "body": "中国の37大学の学生に、AIへの頼り方と、AIを使う目的、発想力の自己評価を答えてもらった調査。目的は「逃げる」「寂しさを埋める」「道具」「楽しみ」の4つに分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "目的で向きが逆だった",
+        "body": "つらさから逃げる目的で使う人ほど発想力の自己評価が低く（相関−0.18）、調べ物など道具として使う人ほど高めだった（+0.12）。頼るかどうかより、何のために使うかが関係していたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "原因なのかは不明",
+        "body": "一度きりの調査だから、どちらが原因かはわからない。発想力も自分で答えた点数で、実際のアイデアを測ったわけじゃないし、関連もかなり弱めなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
