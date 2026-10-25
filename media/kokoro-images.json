@@ -6199,5 +6199,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Woman_prepares_vegetables_in_kitchen_with_cutting_board_and_knife_during_meal_preparation.jpg/500px-Woman_prepares_vegetables_in_kitchen_with_cutting_board_and_knife_during_meal_preparation.jpg",
   "og": "https://mentalai.seadice.win/img/cook-for-someone-fatigue-recover.jpg",
   "local": true
+ },
+ "job-loss-daily-routine-recover": {
+  "file": "File:Coffee machine sits on a wooden table with a blue coffee capsule near a clear glass cup.jpg",
+  "src": "/img/job-loss-daily-routine-recover.jpg",
+  "src640": "/img/job-loss-daily-routine-recover-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "木のテーブルに置かれたコーヒーメーカーとガラスのカップ",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Coffee_machine_sits_on_a_wooden_table_with_a_blue_coffee_capsule_near_a_clear_glass_cup.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Coffee_machine_sits_on_a_wooden_table_with_a_blue_coffee_capsule_near_a_clear_glass_cup.jpg/960px-Coffee_machine_sits_on_a_wooden_table_with_a_blue_coffee_capsule_near_a_clear_glass_cup.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Coffee_machine_sits_on_a_wooden_table_with_a_blue_coffee_capsule_near_a_clear_glass_cup.jpg/500px-Coffee_machine_sits_on_a_wooden_table_with_a_blue_coffee_capsule_near_a_clear_glass_cup.jpg",
+  "og": "https://mentalai.seadice.win/img/job-loss-daily-routine-recover.jpg",
+  "local": true
  }
 }

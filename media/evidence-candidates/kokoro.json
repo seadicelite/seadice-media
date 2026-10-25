@@ -8739,5 +8739,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-job-loss-daily-routine-recover-time-structure",
+    "category": "仕事とAIの不安",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Goodman et al., \"Leisure activities are linked to mental health benefits by providing time structure: comparing employed, unemployed and homemakers\" (Journal of Epidemiology and Community Health, 2017)",
+    "sourceUrl": "https://doi.org/10.1136/jech-2016-207260",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/job-loss-daily-routine-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "仕事がないと、なぜ毎日が重い？",
+        "body": "仕事を失うと、お金の心配だけじゃなく、一日がだらだら過ぎていく感じがつらいって声をよく聞くよね。何が起きているんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "米国の406人を比べた",
+        "body": "米国の研究チームが2012年に、失業中の155人、フルタイムで働く140人、専業主婦111人に、時間を目的をもって使えている感覚と、気分の落ち込みを答えてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "まとまりの感覚が低めだった",
+        "body": "失業中の人は、時間のまとまりの平均点が97.9点で、働く人の111.3点より低く、落ち込みの点数は高めだったらしい。余暇と落ち込みの少なさの関連も、この感覚を通して表れていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日課を作れば楽になる？",
+        "body": "一度だけの調査だから、日課があるから落ち込みにくいのか、元気だから日課を保てるのかはわからないんだ。参加者はネットで集めた人で、落ち込みの点数も全体に高めだったよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
