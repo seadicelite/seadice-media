@@ -9215,5 +9215,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-sns-posting-loneliness-prevent-status-updates",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Deters FG & Mehl MR, \"Does Posting Facebook Status Updates Increase or Decrease Loneliness? An Online Social Networking Experiment\" (Social Psychological and Personality Science, 2013)",
+    "sourceUrl": "https://doi.org/10.1177/1948550612469233",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/sns-posting-loneliness-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "SNSに投稿すると、かえって寂しくなる？",
+        "body": "SNSは人を孤独にする、ってよく聞くよね。投稿しても反応がなかったら、余計に寂しくなりそうな気もする。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1週間だけ「いつもより多く投稿して」",
+        "body": "米国の大学生をくじで2組に分けて、片方だけに1週間いつもより多く近況を投稿してもらったらしい。分析したのは86人で、頼まれた組は平均8.71件多く投稿したんだって。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "投稿した組で孤独感が少し下がった",
+        "body": "頼まれた組は1週間後に孤独感が少し下がり、もう一方の組は変わらなかった。しかも、コメントや「いいね」がついた割合とは関係がなかったんだ。友達とつながっている感覚が毎日強まっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1週間より長く続けたら？",
+        "body": "対象は大学生で、期間は1週間だけ。10代を2年追った別の研究では、投稿が多くても孤独は減っていなかった。長い目で見て効くかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

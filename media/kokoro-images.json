@@ -6415,5 +6415,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Holding_a_black_telephone_receiver_near_a_vintage_rotary_phone_on_a_wooden_table_in_a_well-lit_room.jpg/500px-Holding_a_black_telephone_receiver_near_a_vintage_rotary_phone_on_a_wooden_table_in_a_well-lit_room.jpg",
   "og": "https://mentalai.seadice.win/img/disagreement-text-vs-voice-why.jpg",
   "local": true
+ },
+ "sns-posting-loneliness-prevent": {
+  "file": "File:Smartphone with case cover on table.jpg",
+  "artist": "Santeri Viinamäki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Smartphone_with_case_cover_on_table.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Smartphone_with_case_cover_on_table.jpg/960px-Smartphone_with_case_cover_on_table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Smartphone_with_case_cover_on_table.jpg/500px-Smartphone_with_case_cover_on_table.jpg",
+  "src": "/img/sns-posting-loneliness-prevent.webp",
+  "src640": "/img/sns-posting-loneliness-prevent-sm.webp",
+  "w": 960,
+  "h": 721,
+  "alt": "木のテーブルに置かれたスマートフォン",
+  "og": "https://mentalai.seadice.win/img/sns-posting-loneliness-prevent-og.jpg",
+  "local": true
  }
 }
