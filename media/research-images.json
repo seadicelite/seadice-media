@@ -5671,7 +5671,7 @@
   "src640": "/img/lecture-video-playback-speed-memory-how-research-sm.jpg",
   "w": 960,
   "h": 638,
-  "alt": "机の上のノートパソコン",
+  "alt": "机の上のパソコンと水仙の鉢植え",
   "artist": "William Iven firmbee",
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -5681,6 +5681,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Daffodils_on_a_computer_desk_%28Unsplash%29.jpg/960px-Daffodils_on_a_computer_desk_%28Unsplash%29.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Daffodils_on_a_computer_desk_%28Unsplash%29.jpg/500px-Daffodils_on_a_computer_desk_%28Unsplash%29.jpg",
   "og": "https://research.seadice.win/img/lecture-video-playback-speed-memory-how-research.jpg",
+  "local": true
+ },
+ "procrastination-daily-prompt-reminder-how-research": {
+  "file": "File:Morning setting with a banana, vintage clock, and smartphone on a table during bright daylight.jpg",
+  "src": "/img/procrastination-daily-prompt-reminder-how-research.jpg",
+  "src640": "/img/procrastination-daily-prompt-reminder-how-research-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "朝のテーブルに置かれた時計とスマートフォン",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Morning_setting_with_a_banana,_vintage_clock,_and_smartphone_on_a_table_during_bright_daylight.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Morning_setting_with_a_banana%2C_vintage_clock%2C_and_smartphone_on_a_table_during_bright_daylight.jpg/960px-Morning_setting_with_a_banana%2C_vintage_clock%2C_and_smartphone_on_a_table_during_bright_daylight.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Morning_setting_with_a_banana%2C_vintage_clock%2C_and_smartphone_on_a_table_during_bright_daylight.jpg/500px-Morning_setting_with_a_banana%2C_vintage_clock%2C_and_smartphone_on_a_table_during_bright_daylight.jpg",
+  "og": "https://research.seadice.win/img/procrastination-daily-prompt-reminder-how-research.jpg",
   "local": true
  }
 }

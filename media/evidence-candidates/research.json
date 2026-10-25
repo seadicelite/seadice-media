@@ -10478,5 +10478,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-procrastination-daily-prompt-reminder-how-research-sms",
+    "category": "先延ばし",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Eckert M et al., \"Does SMS-Support Make a Difference? Effectiveness of a Two-Week Online-Training to Overcome Procrastination. A Randomized Controlled Trial\" (Frontiers in Psychology, 2018)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2018.01103",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/procrastination-daily-prompt-reminder-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く疑問",
+        "title": "先延ばし対策って、なぜ続かない？",
+        "body": "対策を学んでも、気づけば元どおり。先延ばししやすい人ほど、対策の練習そのものも後回しにしがちなんだよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "練習に1日2回のメッセージを足してみた",
+        "body": "ドイツの大学生161人を3つに分けた試験。2週間のオンライン練習だけ、練習＋1日2回・30秒で終わる問いかけのメッセージ、何もしない待機、で比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "8週間後、減ったのはメッセージありだけ",
+        "body": "8週間後、待機の人よりはっきり先延ばしが減ったのは、メッセージを受け取ったグループだけ（d = 0.57）。練習だけのグループは差がはっきりしなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "自分で設定した通知でも効く？",
+        "body": "先延ばしは本人の回答で測っていて、8週間後には多くの人が回答しなかった。研究チームから届くメッセージだったので、自分で設定した通知でも同じかはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
