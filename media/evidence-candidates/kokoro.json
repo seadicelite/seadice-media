@@ -9317,5 +9317,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-high-achieving-group-confidence-drop-why-big-fish",
+    "category": "比べて落ち込む",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Fang J et al., \"The Big-Fish-Little-Pond Effect on Academic Self-Concept: A Meta-Analysis\" (Frontiers in Psychology, 2018)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2018.01569",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/high-achieving-group-confidence-drop-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "優秀な集団で自信をなくすのはなぜ？",
+        "body": "がんばって入った学校やクラスで、周りがすごく見えて、急に自分ができない人に思えてくること、あるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "33本・のべ約128万人の研究",
+        "body": "小学生から大学生までを調べた33本の研究をまとめて、クラスや学校の平均の成績と、自分の勉強の力をどう感じるかの関係を見たらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "周りの平均が高いほど自己評価が下がる",
+        "body": "周りの平均が高い集団にいる人ほど、自分の力を低く感じていた。「小さな池の大きな魚効果」と呼ばれていて、高校生でいちばん強く、地域ではアジアで強く、北米で弱かったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "大人の職場でも起きる？",
+        "body": "ほとんどが学校の研究で、大学生の結果は2件だけ。転職や異動で優秀な人の多い職場に移った大人に同じことが起きるかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

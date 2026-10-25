@@ -6466,5 +6466,22 @@
   "og": "https://mentalai.seadice.win/img/screen-reading-paper-understanding-why-og.jpg",
   "local": true,
   "alt": "紙の本のあいだに置かれた電子書籍端末"
+ },
+ "high-achieving-group-confidence-drop-why": {
+  "file": "File:Sacred Lotus in a Pond 2.jpg",
+  "w": 960,
+  "h": 640,
+  "artist": "Daftation",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sacred_Lotus_in_a_Pond_2.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sacred_Lotus_in_a_Pond_2.jpg/960px-Sacred_Lotus_in_a_Pond_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sacred_Lotus_in_a_Pond_2.jpg/500px-Sacred_Lotus_in_a_Pond_2.jpg",
+  "src": "/img/high-achieving-group-confidence-drop-why.webp",
+  "src640": "/img/high-achieving-group-confidence-drop-why-sm.webp",
+  "og": "https://mentalai.seadice.win/img/high-achieving-group-confidence-drop-why-og.jpg",
+  "local": true,
+  "alt": "池に咲くハスの花"
  }
 }
