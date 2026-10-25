@@ -1172,5 +1172,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Meiji_Park_Underground_Bicycle_Parking_the_interior_from_S_to_N_Hakata-ku_Fukuoka_20240430.jpg/500px-Meiji_Park_Underground_Bicycle_Parking_the_interior_from_S_to_N_Hakata-ku_Fukuoka_20240430.jpg",
   "og": "https://bohan.seadice.win/img/bicycle-car-theft-recovery-steps.jpg",
   "local": true
+ },
+ "yami-baito-exit-police-consultation": {
+  "file": "File:Old police call box (32154534703).jpg",
+  "src": "/img/yami-baito-exit-police-consultation.jpg",
+  "src640": "/img/yami-baito-exit-police-consultation-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "夜の警察の電話ボックス",
+  "artist": "James Petts from London, England",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Old_police_call_box_(32154534703).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Old_police_call_box_%2832154534703%29.jpg/960px-Old_police_call_box_%2832154534703%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Old_police_call_box_%2832154534703%29.jpg/500px-Old_police_call_box_%2832154534703%29.jpg",
+  "og": "https://bohan.seadice.win/img/yami-baito-exit-police-consultation.jpg",
+  "local": true
  }
 }
