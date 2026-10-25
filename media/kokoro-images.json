@@ -6271,5 +6271,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rocky_Shoreline_at_Dusk.jpg/500px-Rocky_Shoreline_at_Dusk.jpg",
   "og": "https://mentalai.seadice.win/img/comparison-self-acceptance-recover.jpg",
   "local": true
+ },
+ "stress-day-small-kindness": {
+  "file": "File:Lonely Bench (233033561).jpeg",
+  "src": "/img/stress-day-small-kindness.jpg",
+  "src640": "/img/stress-day-small-kindness-sm.jpg",
+  "w": 960,
+  "h": 566,
+  "alt": "朝の公園の若木の前に置かれたベンチ",
+  "artist": "Wolfgang Weber",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lonely_Bench_(233033561).jpeg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Lonely_Bench_%28233033561%29.jpeg/960px-Lonely_Bench_%28233033561%29.jpeg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Lonely_Bench_%28233033561%29.jpeg/500px-Lonely_Bench_%28233033561%29.jpeg",
+  "og": "https://mentalai.seadice.win/img/stress-day-small-kindness.jpg",
+  "local": true
  }
 }

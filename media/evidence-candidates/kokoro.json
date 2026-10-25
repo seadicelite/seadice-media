@@ -8875,5 +8875,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-stress-day-small-kindness-prosocial-buffer",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Raposa et al., \"Prosocial Behavior Mitigates the Negative Effects of Stress in Everyday Life\" (Clinical Psychological Science, 2016)",
+    "sourceUrl": "https://doi.org/10.1177/2167702615611073",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/stress-day-small-kindness/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "人に親切にすると、ストレスに強くなる？",
+        "body": "疲れた日こそ人に優しくすると楽になる、ってよく聞くよね。ほんとうに関係あるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "77人が2週間、毎晩記録した",
+        "body": "米国の18〜44歳の77人が、その日のストレスの出来事の数と、ドアを押さえるような小さな親切の数、心の調子（0〜100）を毎晩スマホで記録したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "親切が多い日は、落ち込みが小さかった",
+        "body": "親切がふだんよりかなり少ない日は、ストレスの出来事が1つ増えるごとに心の調子が約4.8点下がっていた。かなり多い日は、はっきりした差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "親切が原因かは不明",
+        "body": "1日1回の記録なので、親切とストレスのどちらが先だったかはわからない。参加者は飲酒の研究で集めた人で、白人が7割。実験で確かめた結果ではないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
