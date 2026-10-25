@@ -10323,5 +10323,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-repeated-copying-to-memorize-naka",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Naka & Naoi, \"The effect of repeated writing on memory\" (Memory & Cognition, 1995)",
+    "sourceUrl": "https://doi.org/10.3758/BF03197222",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/repeated-copying-to-memorize/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "何度も書けば覚えられる？",
+        "body": "漢字は10回、英単語はノート1行分。「書いて覚える」って、子どもの頃からよく言われるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "くり返し書く方法を4つの実験で",
+        "body": "日本の研究者が、くり返し書いて覚える方法が効くかを4つの実験で調べたよ。日本人だけでなくアメリカ人の参加者でも試している。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "図形には効いて、漢字や単語には効かなかった",
+        "body": "くり返し書くと図形の記憶は良くなったけど、漢字・単語・音節では良くならなかったらしい。効いたのも、書いて思い出すテストのときだけだった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い独学でどうなるか",
+        "body": "短い時間で覚える実験室の課題の話。何週間もかけて学ぶ独学で、書き写しがどれだけ役に立つかはこの研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-repeated-copying-to-memorize-spelling",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pan, Rubin & Rickard, \"Does testing with feedback improve adult spelling skills relative to copying and reading?\" (Journal of Experimental Psychology: Applied, 2015)",
+    "sourceUrl": "https://doi.org/10.1037/xap0000062",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/repeated-copying-to-memorize/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "つづりは写すのとテスト、どっちが覚える？",
+        "body": "英単語のつづりを覚えるとき、見ながら書き写すのと、テストして答えを見るのでは、どっちがいいんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大人で同じ時間ずつくらべた",
+        "body": "大人を対象に、「テストして正解を見る」方法を、同じ時間の「書き写す」（3つの実験）や「読むだけ」（1つの実験）とくらべた研究があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "つづりは同じ、思い出す力はテスト",
+        "body": "つづりの伸びは、テストも書き写しも同じくらいだった。でも覚えた単語を何も見ずに書き出す力は、テストのほうがはっきり上。読むだけは、どちらにも負けたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "子どもや長い学習では？",
+        "body": "子どもではテストのほうが良かった先行研究があって、大人とは違う結果。何か月も続ける学習でも同じかは、この研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
