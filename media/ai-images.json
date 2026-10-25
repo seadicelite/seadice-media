@@ -3453,5 +3453,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Colorful_dumbbells_of_various_sizes.jpg/500px-Colorful_dumbbells_of_various_sizes.jpg",
   "og": "https://ai.seadice.win/img/ai-workout-plan-check-prepare.jpg",
   "local": true
+ },
+ "ai-skin-check-high-risk-what-now": {
+  "file": "File:Parasols, Evening, Beach, Rincon de la Victoria, Andalusia, Spain.jpg",
+  "src": "/img/ai-skin-check-high-risk-what-now.jpg",
+  "src640": "/img/ai-skin-check-high-risk-what-now-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "砂浜のビーチパラソル",
+  "artist": "Jebulon",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Parasols,_Evening,_Beach,_Rincon_de_la_Victoria,_Andalusia,_Spain.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Parasols%2C_Evening%2C_Beach%2C_Rincon_de_la_Victoria%2C_Andalusia%2C_Spain.jpg/960px-Parasols%2C_Evening%2C_Beach%2C_Rincon_de_la_Victoria%2C_Andalusia%2C_Spain.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Parasols%2C_Evening%2C_Beach%2C_Rincon_de_la_Victoria%2C_Andalusia%2C_Spain.jpg/500px-Parasols%2C_Evening%2C_Beach%2C_Rincon_de_la_Victoria%2C_Andalusia%2C_Spain.jpg",
+  "og": "https://ai.seadice.win/img/ai-skin-check-high-risk-what-now.jpg",
+  "local": true,
+  "unconverted": true
  }
 }
