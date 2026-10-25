@@ -10274,5 +10274,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-yoga-low-mood-how-often-how-research-twice-vs-three",
+    "category": "気分・ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Streeter et al., \"Treatment of Major Depressive Disorder with Iyengar Yoga and Coherent Breathing: A Randomized Controlled Dosing Study\" (Journal of Alternative and Complementary Medicine, 2017)",
+    "sourceUrl": "https://doi.org/10.1089/acm.2016.0140",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/yoga-low-mood-how-often-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ヨガは週何回やればいい？",
+        "body": "落ち込みにヨガがいいと聞いても、何回やればいいのかは気になるよね。回数を変えて比べた試験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "週3回と週2回を12週間",
+        "body": "うつ病の大人を2組に分けたよ。90分の教室を週3回＋家で30分を週4回の組と、教室週2回＋家で週3回の組。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "どちらも大きく改善",
+        "body": "どちらの組も落ち込みの点数が大きく下がったよ。症状が半分以下になった人は87%と73%で、はっきりした差はなし。かなり軽い状態まで下がった人は、週3回の組で多かった（93%と53%）。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "30人だけの試験",
+        "body": "完了したのは30人だけで、ヨガをしない組とは比べていない。教室での人とのつながりが効いた可能性もあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

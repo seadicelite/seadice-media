@@ -5574,5 +5574,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drawing_of_a_Post-It_Note_on_Post-It_Note.jpg/500px-Drawing_of_a_Post-It_Note_on_Post-It_Note.jpg",
   "og": "https://research.seadice.win/img/unfinished-task-cant-switch-off-procrastination-recovery-research.jpg",
   "local": true
+ },
+ "yoga-low-mood-how-often-how-research": {
+  "file": "File:Yoga Mat Made of Carpet Underlay.jpg",
+  "src": "/img/yoga-low-mood-how-often-how-research.jpg",
+  "src640": "/img/yoga-low-mood-how-often-how-research-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "ヨガマット",
+  "artist": "Ian Alexander",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Yoga_Mat_Made_of_Carpet_Underlay.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Yoga_Mat_Made_of_Carpet_Underlay.jpg/960px-Yoga_Mat_Made_of_Carpet_Underlay.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Yoga_Mat_Made_of_Carpet_Underlay.jpg/500px-Yoga_Mat_Made_of_Carpet_Underlay.jpg",
+  "og": "https://research.seadice.win/img/yoga-low-mood-how-often-how-research.jpg",
+  "local": true
  }
 }
