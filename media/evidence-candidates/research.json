@@ -10716,5 +10716,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-nail-biting-skin-picking-habit-why-research-boredom",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Williams TI, Rose R, Chisholm S, \"What is the function of nail biting: an analog assessment study\" (Behaviour Research and Therapy, 2007)",
+    "sourceUrl": "https://doi.org/10.1016/j.brat.2006.07.013",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/nail-biting-skin-picking-habit-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "爪を噛むのはストレスのせい？",
+        "body": "爪噛みといえば「ストレスがたまっているサイン」と言われがち。でも、本当にストレスのときに一番増えるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "40人を4つの場面に置いてみた",
+        "body": "爪を噛むくせのあるイギリスの大学生40人が対象。ひとりで放っておかれる、算数の問題を解く、噛むたびに注意される、ずっと会話する、の4場面で噛んだ回数を数えたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "多いのは「退屈」と「イライラ」",
+        "body": "爪噛みが一番多かったのは、退屈な場面と、難しい問題でイライラする場面。会話中と注意されたときは一番少なかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふだんの生活でも同じ？",
+        "body": "実験室での短い観察で、人数も40人。家や職場でのふだんのくせが同じ引き金で起きているかは、この研究だけではわからない。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
