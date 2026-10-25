@@ -10852,5 +10852,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-milk-phlegm-mucus-cold-research-soy-placebo",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pinnock CB, Arney WK, \"The milk-mucus belief: sensory analysis comparing cow's milk and a soy placebo\" (Appetite, 1993)",
+    "sourceUrl": "https://doi.org/10.1006/appe.1993.1006",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/milk-phlegm-mucus-cold-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "牛乳を飲むと痰が増える？",
+        "body": "風邪のときは牛乳を控える、という人は多いよね。飲むとのどに何かがまとわりつく感じがするから、痰が増えている気がするらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "牛乳とそっくりな豆乳で比べた",
+        "body": "オーストラリアの研究者が、味をつけた牛乳と、見分けがつかない豆乳を300ml飲んでもらった。どちらを飲んだか本人にも研究者にもわからない二重盲検の試験だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "のどの膜の感じは豆乳でも同じ",
+        "body": "飲んだ後に「のどが膜でおおわれる感じ」は39%、「つばが濃くなる」は42%増えた。でもこの増え方は牛乳でも豆乳でも同じ。牛乳だけの作用ではなかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "痰の量そのものは測っていない",
+        "body": "調べたのは本人が感じる感覚で、痰の量ではない。牛乳アレルギーの人は別の話なので、飲むたびに症状が出るなら医師に相談してね。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

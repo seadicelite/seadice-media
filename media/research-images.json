@@ -5824,5 +5824,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Desk_with_notebook_pens_and_glasses.jpg/500px-Desk_with_notebook_pens_and_glasses.jpg",
   "og": "https://research.seadice.win/img/spacing-effect-review-timing-og.jpg",
   "local": true
+ },
+ "milk-phlegm-mucus-cold-research": {
+  "file": "File:2025.04.10 Milk Glass Sugar Bowl and Antique Glass Creamer.jpg",
+  "src": "/img/milk-phlegm-mucus-cold-research.jpg",
+  "src640": "/img/milk-phlegm-mucus-cold-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "乳白色のガラスのクリーマー（ミルク入れ）と砂糖入れ",
+  "artist": "Illarion Kalashnikov",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2025.04.10_Milk_Glass_Sugar_Bowl_and_Antique_Glass_Creamer.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/2025.04.10_Milk_Glass_Sugar_Bowl_and_Antique_Glass_Creamer.jpg/960px-2025.04.10_Milk_Glass_Sugar_Bowl_and_Antique_Glass_Creamer.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/2025.04.10_Milk_Glass_Sugar_Bowl_and_Antique_Glass_Creamer.jpg/500px-2025.04.10_Milk_Glass_Sugar_Bowl_and_Antique_Glass_Creamer.jpg",
+  "og": "https://research.seadice.win/img/milk-phlegm-mucus-cold-research.jpg",
+  "local": true
  }
 }
