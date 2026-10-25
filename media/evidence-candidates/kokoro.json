@@ -9249,5 +9249,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-phone-wallpaper-nature-stress-prevent-lockscreen",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Majeed NM et al., \"Examining the Effects of Viewing Nature and Animal Smartphone Wallpapers on Affect, Behaviour, and Cognition: A Randomised Cross-Over Trial\" (Behavioral Sciences, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/bs16050623",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/phone-wallpaper-nature-stress-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "待ち受けを自然の写真にすると癒される？",
+        "body": "スマホの待ち受けを森や海の写真にしておけば、開くたびに少し癒されてストレスがたまりにくそうな気がするよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3種類の待ち受けを1週間ずつ",
+        "body": "シンガポールの大学生60人が、自然の写真・動物の写真・無地の模様を、1種類5日間ずつ順番に待ち受けにしたらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ストレスも気分も変わらなかった",
+        "body": "ストレス、気分、生活の満足度、作業のはかどり方、先延ばしの6項目で、どの待ち受けでも差はなかった。動物の写真はかえって気が散ると感じられ、自然の写真はいちばん好ましいと感じられていたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "自分で撮った写真なら？",
+        "body": "1種類5日間の短い実験で、選べたのは研究者が用意した写真だけ。何か月も使ったときや、自分で撮った思い出の写真で違いが出るかは、まだわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

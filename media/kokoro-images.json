@@ -6432,5 +6432,22 @@
   "alt": "木のテーブルに置かれたスマートフォン",
   "og": "https://mentalai.seadice.win/img/sns-posting-loneliness-prevent-og.jpg",
   "local": true
+ },
+ "phone-wallpaper-nature-stress-prevent": {
+  "file": "File:Forest path through a deciduous forest in spring, Finland.jpg",
+  "artist": "Sanzzu",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Forest_path_through_a_deciduous_forest_in_spring,_Finland.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Forest_path_through_a_deciduous_forest_in_spring%2C_Finland.jpg/960px-Forest_path_through_a_deciduous_forest_in_spring%2C_Finland.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Forest_path_through_a_deciduous_forest_in_spring%2C_Finland.jpg/500px-Forest_path_through_a_deciduous_forest_in_spring%2C_Finland.jpg",
+  "src": "/img/phone-wallpaper-nature-stress-prevent.webp",
+  "src640": "/img/phone-wallpaper-nature-stress-prevent-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "木々の間を通る森の小道",
+  "og": "https://mentalai.seadice.win/img/phone-wallpaper-nature-stress-prevent-og.jpg",
+  "local": true
  }
 }
