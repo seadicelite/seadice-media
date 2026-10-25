@@ -10527,5 +10527,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-multiple-choice-longest-answer-guessing-myth-answer-position",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rush et al., \"The impact of item-writing flaws and item complexity on examination item difficulty and discrimination value\" (BMC Medical Education, 2016)",
+    "sourceUrl": "https://doi.org/10.1186/s12909-016-0773-3",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/multiple-choice-longest-answer-guessing-myth/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "迷ったら真ん中、迷ったら長いの",
+        "body": "四択でわからないときは、真ん中の選択肢か、いちばん長い選択肢を選べってよく聞くよね。本当に当たりやすいのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "教員が作った1,925問を点検",
+        "body": "アメリカの獣医学部で、教員50人が作った試験問題1,925問を1問ずつ調べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "正解の位置に偏りはなし",
+        "body": "四択の正解はア25.1%、イ25.8%、ウ23.9%、エ25.1%で、真ん中に多いわけじゃなかった。ただ「いちばん長い選択肢が正解」の問題は20.6%あったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "資格試験の本番は別",
+        "body": "調べたのは1つの大学の授業の試験。きちんと編集された資格試験の本番問題で同じかどうかは、この研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

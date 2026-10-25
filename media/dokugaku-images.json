@@ -5354,5 +5354,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Study_Desk%2C_Eavan_Boland_Library.jpg/500px-Study_Desk%2C_Eavan_Boland_Library.jpg",
   "og": "https://dokugaku.seadice.win/img/weekend-batch-vs-daily-study-adults.jpg",
   "local": true
+ },
+ "multiple-choice-longest-answer-guessing-myth": {
+  "file": "File:Sharpened Loti Pencil, Minneapolis 2026.jpg",
+  "src": "/img/multiple-choice-longest-answer-guessing-myth.jpg",
+  "src640": "/img/multiple-choice-longest-answer-guessing-myth-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "削った鉛筆",
+  "artist": "Chad Davis",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sharpened_Loti_Pencil,_Minneapolis_2026.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sharpened_Loti_Pencil%2C_Minneapolis_2026.jpg/960px-Sharpened_Loti_Pencil%2C_Minneapolis_2026.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sharpened_Loti_Pencil%2C_Minneapolis_2026.jpg/500px-Sharpened_Loti_Pencil%2C_Minneapolis_2026.jpg",
+  "og": "https://dokugaku.seadice.win/img/multiple-choice-longest-answer-guessing-myth.jpg",
+  "local": true
  }
 }
