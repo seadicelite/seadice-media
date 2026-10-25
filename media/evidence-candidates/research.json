@@ -10512,5 +10512,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-premenstrual-irritability-low-mood-why-research-hormone-sensitivity",
+    "category": "気分・ストレス",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Schmidt PJ et al., \"Differential behavioral effects of gonadal steroids in women with and in those without premenstrual syndrome\" (The New England Journal of Medicine, 1998)",
+    "sourceUrl": "https://doi.org/10.1056/NEJM199801223380401",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/premenstrual-irritability-low-mood-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "生理前のイライラは、ホルモンが多すぎるせい？",
+        "body": "生理前に気分が乱れるのは、ホルモンのバランスがおかしいから。そう思われがちだけど、実は症状のある人のホルモンの量に異常は見つかっていないんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ホルモンの変動を止めて、あとから足してみた",
+        "body": "PMSのある女性に、薬で排卵とホルモンの変動を止める治療をした実験。症状が軽くなった10人に、エストロゲンかプロゲステロンを4週間ずつ足して、気分を毎日記録したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "同じホルモンでも、反応したのは症状のある人だけ",
+        "body": "ホルモンを足すと、PMSのある女性では気分の不調が戻った。同じことをした症状のない女性15人では、気分は変わらなかったらしい。量より「反応のしかた」が違うみたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "なぜ反応が違うのかは研究中",
+        "body": "人数は少なく、薬で症状が軽くなった人だけが次の段階に進んだ実験。敏感さの理由は、脳を落ち着かせる物質への反応や遺伝などが調べられている途中だよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-forget-dreams-dream-recall-why-research-recall-factors",
+    "category": "記憶・学習",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Elce V et al., \"The individual determinants of morning dream recall\" (Communications Psychology, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s44271-025-00191-z",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/forget-dreams-dream-recall-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "夢を覚えている人と忘れる人、何が違う？",
+        "body": "毎朝夢を覚えている人もいれば、ほとんど覚えていない人もいるよね。実は、ほとんどの人は眠っているあいだに夢を見ていると考えられているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "204人が15日間、起きてすぐ夢を録音",
+        "body": "イタリアの18〜70歳の204人に、毎朝起きてすぐ最後に見た夢を録音してもらった研究。性格や記憶力のテスト、眠りの記録とあわせて、何が関係するかを調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "夢への関心と、浅い眠りが長い夜",
+        "body": "夢を思い出しやすかったのは、夢に関心がある人、ぼんやり考えごとをしやすい人、浅い眠りが長く続いた夜。冬は春より思い出しにくく、年齢が上がると中身を忘れやすかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "関心が先か、思い出すのが先か",
+        "body": "関係を調べた研究なので、夢に関心があるから思い出せるのか、思い出せるから関心が高いのかは区別できないよ。対象もイタリアの健康な大人だけなんだ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
