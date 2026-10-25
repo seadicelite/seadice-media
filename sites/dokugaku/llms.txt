@@ -35,6 +35,7 @@
 - [「なぜ？」と問いながら読むと覚えやすいのか。精緻化質問の研究](https://dokugaku.seadice.win/elaborative-interrogation-ask-why/): 事実ごとに「なぜ本当か」を1文で答える精緻化質問は、ただ読むより覚えやすい。効果は中程度で、知識のある分野ほど効く。
 - [英単語は何から覚える？よく使われる順の「わかる割合」表と、覚える順番のチェック表（語彙の量とカバー率の研究から）](https://dokugaku.seadice.win/english-vocabulary-frequency-priority-table/): 上位3,000語で講義の言葉の92.85%をカバー。その先は1,000語で1.5%以下しか増えない。目的別の必要語数と、覚える順番の表。
 - [英単語の効率的な覚え方。研究でわかった「思い出す・間をあける・使う」](https://dokugaku.seadice.win/english-vocabulary-how-to-memorize/): 英単語は眺めるより隠して思い出し、日をあけて復習すると覚えやすい。文で使うコツと語呂合わせの注意点も紹介
+- [英単語を語源（接頭辞・語根・接尾辞）で覚えるには？部品に分けて意味を予想し、辞書で確かめる6つの手順（単語の部品の研究とその限界）](https://dokugaku.seadice.win/english-word-parts-prefix-root-how-to/): 単語を部品に分けると意味を推測する力は伸びたが、書く・話す力は別。部品で予想し、辞書で確かめ、使う練習を足す6つの手順。
 - [暗記カードの効果的な使い方。研究でわかった「分けない・すぐ外さない」](https://dokugaku.seadice.win/flashcards-how-to-use/): 暗記カードは小分けにせず1束で回し、1回正解しただけで外さない方が長く覚えられる
 - [覚えたのに忘れてしまった。最初からやり直し？忘れた後の覚え直し（再学習）の研究](https://dokugaku.seadice.win/forgot-what-i-studied-relearning/): 忘れても覚え直しは最初より速い。白紙に思い出せるだけ書き、忘れた分だけ覚え直し、日をあけて2〜3回くり返す
 - [昔勉強した英語をほとんど忘れた。ゼロからやり直し？語学の忘れ方と覚え直しの研究](https://dokugaku.seadice.win/forgotten-language-relearning/): 使わなくなった語学は数年で減った後、長く残る。わかる単語と言える単語を分けて棚卸しし、間をあけて覚え直す。

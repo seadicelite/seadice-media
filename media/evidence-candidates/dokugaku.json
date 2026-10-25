@@ -10731,5 +10731,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-english-word-parts-prefix-root-how-to-morph-vs-context",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yuan & Tang, \"Relative Effectiveness of Morphological Analysis Training and Context Clue Training on Multidimensional Vocabulary Knowledge\" (The Journal of Genetic Psychology, 2024)",
+    "sourceUrl": "https://doi.org/10.1080/00221325.2023.2267104",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/english-word-parts-prefix-root-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "語源と文脈、どっちで覚える？",
+        "body": "英単語は語源（接頭辞や語根）で覚えるといい、とも、文の中で覚えるといい、とも聞くよね。どっちが効くんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生90人を3つに分けた",
+        "body": "英語を学ぶ大学生90人を、単語を部品に分ける練習・文脈から推測する練習・どちらもしない、の3グループにランダムに分けた実験があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "伸びる力がちがった",
+        "body": "どちらの練習も、しないグループより伸びた。部品の練習は意味を推測する問題で、文脈の練習は文法や単語の組み合わせの問題で、成績がよかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く覚えているかは不明",
+        "body": "1回の実験で、どれくらい長く覚えていたかは要旨からはわからない。一人で何か月も独学する大人に同じ差が出るかもまだ確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
