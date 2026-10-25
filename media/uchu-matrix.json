@@ -176,7 +176,8 @@
           "supernova-elements"
         ],
         "num": [
-          "neutron-star"
+          "neutron-star",
+          "biggest-star"
         ],
         "unknown": [
           "betelgeuse",
@@ -218,7 +219,8 @@
           "gravitational-lensing"
         ],
         "num": [
-          "how-many-galaxies"
+          "how-many-galaxies",
+          "biggest-things-universe"
         ],
         "unknown": [
           "spiral-arms"
@@ -383,6 +385,9 @@
         ],
         "history": [
           "mars-canals-history"
+        ],
+        "life": [
+          "earth-radio-reach"
         ]
       }
     },
@@ -416,6 +421,10 @@
         ],
         "whatif": [
           "space-without-suit"
+        ],
+        "life": [
+          "sleep-in-space",
+          "space-food-toilet"
         ]
       }
     },
@@ -460,6 +469,37 @@
         ],
         "history": [
           "constellation-lines-history"
+        ],
+        "life": [
+          "light-year-scale"
+        ]
+      }
+    },
+    {
+      "id": "time",
+      "label": "時間とタイムトラベル",
+      "cells": {
+        "what": [
+          "time-travel-possible"
+        ],
+        "unknown": [
+          "wormholes"
+        ],
+        "how": [
+          "twin-paradox"
+        ]
+      }
+    },
+    {
+      "id": "movie",
+      "label": "映画・アニメを科学で確かめる",
+      "cells": {
+        "myth": [
+          "interstellar-time-dilation",
+          "sound-in-space"
+        ],
+        "num": [
+          "asteroid-belt-crowded"
         ]
       }
     }
