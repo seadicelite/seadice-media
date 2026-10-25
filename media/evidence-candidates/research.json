@@ -10818,5 +10818,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-hard-thinking-task-procrastination-mental-effort-why-research-unpleasant-thinking",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "David L, Vassena E, Bijleveld E, \"The unpleasantness of thinking: A meta-analytic review of the association between mental effort and negative affect\" (Psychological Bulletin, 2024)",
+    "sourceUrl": "https://doi.org/10.1037/bul0000443",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/hard-thinking-task-procrastination-mental-effort-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "考えるのがしんどいのは怠け？",
+        "body": "企画書や難しい課題ほど後回し。「考えるのが面倒なのは怠けてるだけ」と思いがちだけど、実は多くの人に共通する傾向らしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "29か国・4,670人のデータを集めた",
+        "body": "2019〜2020年の125本の論文から、170の研究・358の作業をまとめた分析。どれも同じ質問票で「頭をどれだけ使ったか」と「イライラ・ストレス」を答えていたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "頭を使うほど、いやな気分も強い",
+        "body": "頭を使う負担が大きい作業ほど、いやな気分も強いという強い関係があった。15の条件を調べても、関係が変わったのはアジアの研究でやや弱かった1つだけ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "考えること自体がいやなの？",
+        "body": "同じ質問票の2項目の関係を見たもので、因果まではわからない。別の研究者は、質問が「考える量」より「作業の難しさ」を測っていたと指摘しているよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
