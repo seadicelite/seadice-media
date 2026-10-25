@@ -400,7 +400,8 @@
      "ai-recommendation-why-we-buy-more"
     ],
     "notice": [
-     "dark-patterns-self-check"
+     "dark-patterns-self-check",
+     "sns-ad-recognition-self-check"
     ],
     "fix": [
      "free-trial-cancel-reminder-tips"
