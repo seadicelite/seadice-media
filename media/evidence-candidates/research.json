@@ -10376,5 +10376,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-kids-movement-break-homework-focus-how-research-thinking-game",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Schmidt et al., \"Classroom-Based Physical Activity Breaks and Children's Attention: Cognitive Engagement Works!\" (Frontiers in Psychology, 2016)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2016.01474",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/kids-movement-break-homework-focus-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "体を動かせば集中できる？",
+        "body": "授業の合間に子どもを走らせると、そのあと集中できるってよく聞くよね。体を動かすことが大事なのか、確かめた実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "92人を4つの休憩に",
+        "body": "11〜12歳の92人を、くじで4組に分けて10分休憩したよ。頭も使う運動ゲーム、座ってする頭のゲーム、ただの運動、座ったままの軽い作業の4つ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効いたのは「頭を使う」こと",
+        "body": "実は、体を動かしたかどうかは注意力に影響しなかった。注意力が上がったのは、頭を使う要素があった休憩。楽しい気分が高まったことが関係していたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回きりの小さな実験",
+        "body": "92人で、休憩の直後に1回テストしただけ。毎日続けたらどうなるか、家の宿題でも同じかはわかっていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
