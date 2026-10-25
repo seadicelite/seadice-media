@@ -97,6 +97,10 @@
       "label": "もし月の距離が違ったら"
     },
     {
+      "path": "/sun-brightness/",
+      "label": "もし太陽の明るさが違ったら"
+    },
+    {
       "path": "/simulator/",
       "label": "宇宙をつくるシミュレーター"
     },
@@ -172,6 +176,20 @@
         "moon-phases",
         "supermoon",
         "leap-year-leap-second"
+      ]
+    },
+    {
+      "name": "もし太陽の明るさが違ったら",
+      "desc": "太陽の明るさを変えると、地球の温度の目安と生き物が住める範囲（ハビタブルゾーン）がどう動くかを計算。金星・地球・火星の位置と並べて見る",
+      "href": "/sun-brightness/",
+      "cats": [],
+      "slugs": [
+        "sun-future",
+        "earth-like-planets",
+        "venus-hot",
+        "mars-water",
+        "sunlight-journey",
+        "if-sun-blackhole"
       ]
     },
     {

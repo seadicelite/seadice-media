@@ -48,13 +48,18 @@ def ecl(r):
 PRESETS = [("今", D0), ("約6億2000万年前", 0.965 * D0), ("約14億年前", 340900e3), ("今の半分", D0 / 2), ("今の1.3倍", 1.3 * D0)]
 
 
+def short(r):
+    big, small = r * D0 / PERI, r * D0 / APO
+    return "皆既だけ" if small >= 1 else "金環だけ" if big < 1 else "皆既も金環も"
+
+
 def table():
     rows = []
     for name, d in PRESETS:
         c = calc(d)
         tide = "今と同じ" if abs(c["tide"] - 1) < 0.03 else f"今の{c['tide']:.2g}倍"
         rows.append(f"<tr><th>{name}<small>{round(d / 1e5) * 100:,} km</small></th><td>{c['day']:.1f}時間</td><td>{c['syn']:.1f}日</td>"
-                    f"<td>{tide}</td><td>{ecl(c['r']).split('（')[0]}</td></tr>")
+                    f"<td>{tide}</td><td>{short(c['r'])}</td></tr>")
     return "".join(rows)
 
 
@@ -100,7 +105,8 @@ def ld():
         {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in FAQ]}]}
 
 
-EXTRA_CSS = (".stats{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:12px 0}.stats div{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:10px 12px}"
+EXTRA_CSS = (".grid>*{min-width:0}.tw{overflow-x:auto;-webkit-overflow-scrolling:touch}.tw table{min-width:440px}.tw th,.tw td{white-space:nowrap}.readout em{font-style:normal;font-size:14px;color:var(--muted)}"
+             ".stats{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:12px 0}.stats div{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:10px 12px}"
              ".stats small{display:block;font-size:12px;color:var(--muted)}.stats b{display:block;font-size:17px;color:var(--accent);line-height:1.4}.stats em{display:block;font-style:normal;font-size:12px;color:var(--muted)}"
              ".stats .w{grid-column:1/-1}.sky{display:flex;gap:16px;align-items:center;justify-content:center;background:#05070C;border:1px solid var(--border);border-radius:8px;padding:16px;margin:8px 0}"
              ".sky figure{margin:0;text-align:center;font-size:12px;color:var(--muted)}.sky svg{display:block;margin:0 auto 4px}"
@@ -136,16 +142,9 @@ TEMPLATE = r'''<!doctype html>
 
 <div class="grid">
 <div>
-<div class="readout"><span>月までの距離 <b id="dk">-</b></span><span id="dr"></span></div>
+<div class="readout"><span>月までの距離 <b id="dk">-</b> <em id="dr"></em></span></div>
 <label for="slider" class="note">月までの距離（2万km〜55万km、目盛りは対数）</label>
 <input type="range" id="slider" min="0" max="1000" step="1" value="0" aria-valuetext="">
-<div class="pre" role="group" aria-label="よく使う距離">
-<button type="button" data-d="384400">今</button><button type="button" data-d="370946">約6億2000万年前</button><button type="button" data-d="340900">約14億年前</button><button type="button" data-d="192200">今の半分</button><button type="button" data-d="499720">今の1.3倍</button>
-</div>
-<div class="sky" aria-hidden="true">
-<figure><svg width="120" height="120" viewBox="-60 -60 120 120"><circle id="sun" r="20" fill="#E3B341"/></svg>太陽（大きさは同じ）</figure>
-<figure><svg width="120" height="120" viewBox="-60 -60 120 120"><circle id="moon" r="20" fill="#C9CED6"/><circle id="sunring" r="20" fill="none" stroke="#E3B341" stroke-width="1" stroke-dasharray="3 3"/></svg>月（点線は太陽の大きさ）</figure>
-</div>
 <div class="stats">
 <div><small>1日の長さ（自転1回＝恒星日）</small><b id="sDay">-</b><em>今は約%%DAY0%%時間</em></div>
 <div><small>1か月（満月から満月）</small><b id="sMon">-</b><em>今は約29.5日</em></div>
@@ -153,11 +152,18 @@ TEMPLATE = r'''<!doctype html>
 <div><small>満月から届く光の量</small><b id="sBr">-</b><em>距離の2乗に反比例（月面そのものの明るさは同じ）</em></div>
 <div class="w"><small>空の月の大きさと日食</small><b id="sEcl">-</b><em id="sAng"></em></div>
 </div>
+<div class="pre" role="group" aria-label="よく使う距離">
+<button type="button" data-d="384400">今</button><button type="button" data-d="370946">約6億2000万年前</button><button type="button" data-d="340900">約14億年前</button><button type="button" data-d="192200">今の半分</button><button type="button" data-d="499720">今の1.3倍</button>
+</div>
+<div class="sky" aria-hidden="true">
+<figure><svg width="120" height="120" viewBox="-60 -60 120 120"><circle id="sun" r="20" fill="#E3B341"/></svg>太陽（大きさは同じ）</figure>
+<figure><svg width="120" height="120" viewBox="-60 -60 120 120"><circle id="moon" r="20" fill="#C9CED6"/><circle id="sunring" r="20" fill="none" stroke="#E3B341" stroke-width="1" stroke-dasharray="3 3"/></svg>月（点線は太陽の大きさ）</figure>
+</div>
 <div class="card hist"><p class="note" style="margin:0 0 4px">地球の歴史で、月がこの距離だったころ</p><p id="hist" style="margin:0"></p></div>
 </div>
 <div class="side">
 <h2 style="margin-top:0">よく使う距離の計算結果</h2>
-<div class="card"><table class="cmp"><thead><tr><th>距離</th><th>1日</th><th>1か月</th><th>潮（月の分）</th><th>日食</th></tr></thead><tbody>%%TABLE%%</tbody></table>
+<div class="card tw"><table class="cmp"><thead><tr><th>距離</th><th>1日</th><th>1か月</th><th>潮（月の分）</th><th>起きうる日食</th></tr></thead><tbody>%%TABLE%%</tbody></table>
 <p class="note" style="margin:10px 0 0">地層の記録では、1日は約6億2000万年前に約21.9±0.4時間<a class="ref" href="#src-3">[3]</a>、約14億年前に約18.68±0.25時間<a class="ref" href="#src-4">[4]</a>。この計算（太陽の潮を入れない目安）は、記録の誤差の幅に入ります。ただし距離も同じ研究の見積もりを使っているので、独立した確かめではありません。</p></div>
 <h2>計算のしかたと限界</h2>
 <ul>
@@ -209,7 +215,7 @@ function hist(d){var x=d/C.D0,k=Math.round(d/1e5)*100;
  if(x>=0.965)return s+'この距離は、今と約6億2000万年前の記録のあいだです。';
  if(x>=340900e3/C.D0)return s+'この距離は、約6億2000万年前と約14億年前の記録のあいだです。';
  return s+'この距離は14億年前の記録より近く、記録はありません。月ができたころ（約45億年前）はもっと近かったと考えられています。'}
-function show(d){var c=calc(d);$('dk').textContent=(Math.round(d/1e5)*100).toLocaleString('ja-JP')+' km';$('dr').textContent=Math.abs(d/C.D0-1)<0.002?'今の距離':'今の'+f(d/C.D0,3)+'倍';
+function show(d){var c=calc(d);$('dk').textContent=(Math.round(d/1e5)*100).toLocaleString('ja-JP')+' km';$('dr').textContent=Math.abs(d/C.D0-1)<0.002?'（今の距離）':'（今の'+f(d/C.D0,3)+'倍）';
  $('sDay').textContent=c.day>48?'約'+(c.day/24).toFixed(1)+'日（'+Math.round(c.day)+'時間）':'約'+c.day.toFixed(1)+'時間';$('sMon').textContent=c.syn<2?'約'+(c.syn*24).toFixed(1)+'時間':'約'+c.syn.toFixed(1)+'日';
  $('sTide').textContent=t(c.k);var sp=(c.k+C.ST)/(1+C.ST);$('sSpring').textContent='大潮（月と太陽が並ぶとき）の目安は'+t(sp).replace('今の','今の約')+(c.k<C.ST?'。太陽の潮のほうが大きい':'');
  $('sBr').textContent=t(c.br);$('sEcl').textContent=ecl(c.r);$('sAng').textContent='空の月の大きさは平均で約'+c.ang.toFixed(2)+'度（太陽は約0.53度）';

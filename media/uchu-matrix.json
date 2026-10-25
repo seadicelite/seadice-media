@@ -83,6 +83,12 @@
         ],
         "whatif": [
           "if-sun-blackhole"
+        ],
+        "odd": [
+          "blackhole-sound"
+        ],
+        "history": [
+          "dark-star-history"
         ]
       }
     },
@@ -112,6 +118,12 @@
         ],
         "history": [
           "cmb-discovery"
+        ],
+        "odd": [
+          "universe-density"
+        ],
+        "whatif": [
+          "if-expansion-different"
         ]
       }
     },
@@ -139,6 +151,15 @@
         ],
         "myth": [
           "temperature-of-space"
+        ],
+        "odd": [
+          "dark-matter-through-you"
+        ],
+        "history": [
+          "dark-matter-history"
+        ],
+        "whatif": [
+          "if-no-dark-energy"
         ]
       }
     },
@@ -172,6 +193,9 @@
         ],
         "history": [
           "pulsar-discovery"
+        ],
+        "whatif": [
+          "if-sun-vanished"
         ]
       }
     },
@@ -201,6 +225,12 @@
         ],
         "odd": [
           "interstellar-molecules"
+        ],
+        "history": [
+          "great-debate"
+        ],
+        "whatif": [
+          "if-andromeda-bright"
         ]
       }
     },
@@ -263,6 +293,7 @@
           "sun-future"
         ],
         "see": [
+          "https://uchu.seadice.win/sun-brightness/",
           "https://uchu.seadice.win/moon-distance/",
           "eclipses"
         ],
@@ -305,10 +336,17 @@
           "rogue-planets"
         ],
         "see": [
+          "https://uchu.seadice.win/sun-brightness/",
           "https://uchu.seadice.win/exoplanets/"
         ],
         "odd": [
           "diamond-planet"
+        ],
+        "history": [
+          "first-exoplanets"
+        ],
+        "whatif": [
+          "if-red-dwarf-earth"
         ]
       }
     },
@@ -339,6 +377,12 @@
         ],
         "see": [
           "https://uchu.seadice.win/tools/planet/"
+        ],
+        "odd": [
+          "tardigrades-on-moon"
+        ],
+        "history": [
+          "mars-canals-history"
         ]
       }
     },
@@ -410,6 +454,12 @@
         ],
         "unknown": [
           "oldest-constellations"
+        ],
+        "odd": [
+          "dead-stars-in-sky"
+        ],
+        "history": [
+          "constellation-lines-history"
         ]
       }
     }
