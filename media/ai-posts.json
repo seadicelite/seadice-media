@@ -1,5 +1,14 @@
 [
  {
+  "slug": "chat-ai-summary-misquoted-me",
+  "category": "人間関係・孤独",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-10-26",
+  "title": "チャットのAI要約で、自分の発言が違う意味にまとめられて誤解された。研究ではGPT-4による会話の要約の約23%に元の会話と合わない部分があり、まず元の発言を示して直接話す",
+  "summary": "AIの会話の要約は推測を足したり発言者を取り違えたりしやすい。元の発言を示し、変わった点を一文で伝え、相手と直接話す。"
+ },
+ {
   "slug": "voice-ai-driving-near-miss",
   "category": "考える力・集中",
   "type": "guide",
