@@ -6397,5 +6397,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Long_shot_of_the_bench_%28OpenBenches_4668-1%29.jpg/500px-Long_shot_of_the_bench_%28OpenBenches_4668-1%29.jpg",
   "og": "https://mentalai.seadice.win/img/doing-nothing-restless-why.jpg",
   "local": true
+ },
+ "disagreement-text-vs-voice-why": {
+  "file": "File:Holding a black telephone receiver near a vintage rotary phone on a wooden table in a well-lit room.jpg",
+  "src": "/img/disagreement-text-vs-voice-why.jpg",
+  "src640": "/img/disagreement-text-vs-voice-why-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "木の机の上の黒いダイヤル式電話と、手に取った受話器",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Holding_a_black_telephone_receiver_near_a_vintage_rotary_phone_on_a_wooden_table_in_a_well-lit_room.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Holding_a_black_telephone_receiver_near_a_vintage_rotary_phone_on_a_wooden_table_in_a_well-lit_room.jpg/960px-Holding_a_black_telephone_receiver_near_a_vintage_rotary_phone_on_a_wooden_table_in_a_well-lit_room.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Holding_a_black_telephone_receiver_near_a_vintage_rotary_phone_on_a_wooden_table_in_a_well-lit_room.jpg/500px-Holding_a_black_telephone_receiver_near_a_vintage_rotary_phone_on_a_wooden_table_in_a_well-lit_room.jpg",
+  "og": "https://mentalai.seadice.win/img/disagreement-text-vs-voice-why.jpg",
+  "local": true
  }
 }

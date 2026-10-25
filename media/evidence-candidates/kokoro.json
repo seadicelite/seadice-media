@@ -9181,5 +9181,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-disagreement-text-vs-voice-why-spoken",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Bevis B et al., \"Spoken disagreement is more constructive than written disagreement\" (Nature Communications, 2026)",
+    "sourceUrl": "https://doi.org/10.1038/s41467-026-71669-5",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/disagreement-text-vs-voice-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "もめそうな話は、文字のほうが冷静？",
+        "body": "意見が合わない相手とは、電話より文字のほうが落ち着いて言葉を選べる気がするよね。米国の調査でも83.9%が「文字で話したい」と答えたんだって。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "対立する2人を、声か文字かにくじ分け",
+        "body": "米国の研究で、社会問題について意見が強く分かれる2人を組にして、ビデオ通話・声だけ・文字のどれかで10分話してもらったらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "声で話した組のほうがわかり合えた",
+        "body": "「わかり合えた」感覚（0〜6点）は声だけの組が4.95点で、文字の組の4.30点より高かった。「ぶつかった」感覚は1.51点と1.93点で、声の組が低かったんだ。ビデオでも声だけでも、ほぼ同じだったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "親しい相手とのケンカは？",
+        "body": "参加者の多くは初対面の大学生で、ぶつかりも小さめだった。家族や恋人との激しい言い合いでも同じかは、まだ調べられていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
