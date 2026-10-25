@@ -5538,5 +5538,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg/500px-Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg",
   "og": "https://research.seadice.win/img/fiber-not-working-constipation-kiwi-prunes-recovery-research.jpg",
   "local": true
+ },
+ "lonely-even-with-people-recovery-research": {
+  "file": "File:Grey rotary dial telephone.jpg",
+  "src": "/img/lonely-even-with-people-recovery-research.jpg",
+  "src640": "/img/lonely-even-with-people-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 686,
+  "alt": "ダイヤル式の電話機",
+  "artist": "Wilfredor",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Grey_rotary_dial_telephone.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Grey_rotary_dial_telephone.jpg/960px-Grey_rotary_dial_telephone.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Grey_rotary_dial_telephone.jpg/500px-Grey_rotary_dial_telephone.jpg",
+  "og": "https://research.seadice.win/img/lonely-even-with-people-recovery-research.jpg",
+  "local": true
  }
 }

@@ -10206,5 +10206,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-lonely-even-with-people-recovery-research-empathy-calls",
+    "category": "気分・ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kahlon et al., \"Effect of Layperson-Delivered, Empathy-Focused Program of Telephone Calls on Loneliness, Depression, and Anxiety Among Adults During the COVID-19 Pandemic\" (JAMA Psychiatry, 2021)",
+    "sourceUrl": "https://doi.org/10.1001/jamapsychiatry.2021.0113",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/lonely-even-with-people-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "短い電話で寂しさは減る？",
+        "body": "寂しいとき、誰かと少し話すだけで楽になることってあるよね。それを試験で確かめた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "10分未満の電話を4週間",
+        "body": "アメリカで、研修を受けた17〜23歳の16人が、240人の大人に電話をかけたよ。最初の5日は毎日、その後は週2回以上。聞き役に回って、話題は相手に選んでもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "寂しさも不安も軽くなった",
+        "body": "電話を受けた組は、受けなかった組より寂しさが減ったよ（効果の大きさ0.48）。気分の落ち込みや不安も軽くなったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "4週間の後は？",
+        "body": "効果が4週間より後も続くかは、まだわからない。「電話をもらったこと」と「話を聞いてもらえたこと」のどちらが効いたのかも区別できていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
