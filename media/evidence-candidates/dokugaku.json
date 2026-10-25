@@ -10187,5 +10187,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-same-time-every-day-study-habit-consistent-context",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ebert & Lin, \"Confirming the Causal Role of Consistent Contexts in Developing a Walking Habit: A Randomized Comparison With Varied Contexts\" (Annals of Behavioral Medicine, 2024)",
+    "sourceUrl": "https://doi.org/10.1093/abm/kaae045",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/same-time-every-day-study-habit/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "習慣は「同じ状況でくり返す」と身につく？",
+        "body": "毎日同じ時間・同じ場面でやると習慣になる、ってよく言うよね。逆に、毎回バラバラな状況でやったらどうなるんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "127人で歩く習慣を作る実験",
+        "body": "運動が足りない働く中年の大人127人を、「毎回同じ状況で歩く」計画、「毎回ちがう状況で歩く」計画、計画なし、の3つに分けて4週間試したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "考えずに歩けるようになったのは片方だけ",
+        "body": "計画した2つのグループはどちらも歩く量が増えた。でも、考えずに歩く習慣ができて、その後4週間も保たれたのは「毎回同じ状況」のグループだけだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "歩く量まで続いたわけじゃない",
+        "body": "「同じ状況」のグループでも、歩く量そのものは追跡期間に保たれなかった。対象は歩く習慣で、勉強の習慣で確かめた実験ではないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

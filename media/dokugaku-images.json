@@ -5246,5 +5246,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Caliber_7700_running_a_401.204_HEUER_stopwatch.jpg/500px-Caliber_7700_running_a_401.204_HEUER_stopwatch.jpg",
   "og": "https://dokugaku.seadice.win/img/power-pose-before-exam-confidence.jpg",
   "local": true
+ },
+ "same-time-every-day-study-habit": {
+  "file": "File:London Big Ben Inner Clock Face 1070925-PSD.jpg",
+  "src": "/img/same-time-every-day-study-habit.jpg",
+  "src640": "/img/same-time-every-day-study-habit-sm.jpg",
+  "w": 960,
+  "h": 929,
+  "alt": "時計塔の文字盤（内側から見たところ）",
+  "artist": "Ermell",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg/960px-London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg/500px-London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg",
+  "og": "https://dokugaku.seadice.win/img/same-time-every-day-study-habit.jpg",
+  "local": true
  }
 }
