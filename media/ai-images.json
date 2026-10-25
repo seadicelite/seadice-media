@@ -3384,8 +3384,8 @@
  },
  "ai-confident-answer-trust-know": {
   "file": "File:A magnifying glass.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_magnifying_glass.jpg/960px-A_magnifying_glass.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_magnifying_glass.jpg/500px-A_magnifying_glass.jpg",
+  "src": "/img/ai-confident-answer-trust-know.jpg",
+  "src640": "/img/ai-confident-answer-trust-know-sm.jpg",
   "w": 960,
   "h": 476,
   "alt": "角の持ち手がついた虫めがね",
@@ -3393,6 +3393,29 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:A_magnifying_glass.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_magnifying_glass.jpg/960px-A_magnifying_glass.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_magnifying_glass.jpg/500px-A_magnifying_glass.jpg",
+  "og": "https://ai.seadice.win/img/ai-confident-answer-trust-know.jpg",
+  "local": true
+ },
+ "ai-translation-language-learning-prepare": {
+  "file": "File:Photo pronunciation dictionary Moscow 1960.jpg",
+  "src": "/img/ai-translation-language-learning-prepare.jpg",
+  "src640": "/img/ai-translation-language-learning-prepare-sm.jpg",
+  "w": 960,
+  "h": 539,
+  "alt": "外国語の辞書と眼鏡",
+  "artist": "Vecheslaff Lavrinoff",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Photo_pronunciation_dictionary_Moscow_1960.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Photo_pronunciation_dictionary_Moscow_1960.jpg/960px-Photo_pronunciation_dictionary_Moscow_1960.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Photo_pronunciation_dictionary_Moscow_1960.jpg/500px-Photo_pronunciation_dictionary_Moscow_1960.jpg",
+  "og": "https://ai.seadice.win/img/ai-translation-language-learning-prepare.jpg",
+  "local": true
  }
 }
