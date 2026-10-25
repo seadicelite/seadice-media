@@ -9385,5 +9385,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-ai-one-mistake-trust-drop-why-single-error",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Han J & Ko D, \"Trust Formation, Error Impact, and Repair in Human-AI Financial Advisory: A Dynamic Behavioral Analysis\" (Behavioral Sciences, 2025)",
+    "sourceUrl": "https://doi.org/10.3390/bs15101370",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-one-mistake-trust-drop-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIが1回間違えたら、もう信じられない？",
+        "body": "頼りにしていたAIがはっきり間違えると、急に全部が疑わしく思えてくること、あるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "韓国の294人で投資の助言の実験",
+        "body": "投資経験のある韓国の20〜50歳294人が、3回続けて助言を受けた。2回目の助言だけ外れるグループと、外れないグループを比べたらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "信頼は下がるけど、人の助言でも同じくらい",
+        "body": "1回外れただけで信頼ははっきり下がった。でも下がり方は、AIの助言でも人の専門家の助言でも同じくらい。外れた理由と限界の説明を受けた人は、次の回に信頼を取り戻していたんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "架空の場面での短い実験",
+        "body": "本物のお金はかかっていない架空の投資で、やりとりも3回だけ。毎日使う生成AIと長く付き合ったときに同じになるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

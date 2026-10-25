@@ -6501,5 +6501,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Misty_Minnewanka_Lake.jpg/500px-Misty_Minnewanka_Lake.jpg",
   "og": "https://mentalai.seadice.win/img/ai-job-worry-mind-work-effects-why.jpg",
   "local": true
+ },
+ "ai-one-mistake-trust-drop-why": {
+  "file": "File:Interlocked pebbles on a river bed D35 2285 01.jpg",
+  "src": "/img/ai-one-mistake-trust-drop-why.jpg",
+  "src640": "/img/ai-one-mistake-trust-drop-why-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "川辺の小石",
+  "artist": "ADARSHluck",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Interlocked_pebbles_on_a_river_bed_D35_2285_01.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Interlocked_pebbles_on_a_river_bed_D35_2285_01.jpg/960px-Interlocked_pebbles_on_a_river_bed_D35_2285_01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Interlocked_pebbles_on_a_river_bed_D35_2285_01.jpg/500px-Interlocked_pebbles_on_a_river_bed_D35_2285_01.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-one-mistake-trust-drop-why.jpg",
+  "local": true
  }
 }
