@@ -6537,5 +6537,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Les_32_vents_de_Provence.jpg/500px-Les_32_vents_de_Provence.jpg",
   "og": "https://mentalai.seadice.win/img/gps-navigation-sense-of-direction-prevent.jpg",
   "local": true
+ },
+ "ai-age-stereotype-tech-worry-prevent": {
+  "file": "File:GX-226 - Wooden desk with computer lamp and statuettes overlooking lush tropical garden through large windows.jpg",
+  "src": "/img/ai-age-stereotype-tech-worry-prevent.jpg",
+  "src640": "/img/ai-age-stereotype-tech-worry-prevent-sm.jpg",
+  "w": 960,
+  "h": 631,
+  "alt": "窓辺の机とスタンド",
+  "artist": "Palm Beach Police Department",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:GX-226_-_Wooden_desk_with_computer_lamp_and_statuettes_overlooking_lush_tropical_garden_through_large_windows.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/GX-226_-_Wooden_desk_with_computer_lamp_and_statuettes_overlooking_lush_tropical_garden_through_large_windows.jpg/960px-GX-226_-_Wooden_desk_with_computer_lamp_and_statuettes_overlooking_lush_tropical_garden_through_large_windows.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/GX-226_-_Wooden_desk_with_computer_lamp_and_statuettes_overlooking_lush_tropical_garden_through_large_windows.jpg/500px-GX-226_-_Wooden_desk_with_computer_lamp_and_statuettes_overlooking_lush_tropical_garden_through_large_windows.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-age-stereotype-tech-worry-prevent.jpg",
+  "local": true
  }
 }

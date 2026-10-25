@@ -9487,5 +9487,73 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-ai-age-stereotype-tech-worry-prevent-stereotype-threat",
+    "category": "仕事とAIの不安",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lamont RA et al., \"A Review and Meta-Analysis of Age-Based Stereotype Threat: Negative Stereotypes, Not Facts, Do the Damage\" (Psychology and Aging, 2015)",
+    "sourceUrl": "https://doi.org/10.1037/a0038586",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/ai-age-stereotype-tech-worry-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "年をとると頭の働きは落ちる？",
+        "body": "「もう年だから覚えられない」ってよく言うよね。でも、そう言われること自体が成績に影響するかもしれない、という研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "32本の研究、3,882人分をまとめた",
+        "body": "英国の研究チームが、主に60歳以上（平均69.5歳）を対象に、年齢への悪いイメージを示してから記憶や頭を使う課題をしてもらった研究を集めて分析したらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「よく言われる話」の形で影響が大きい",
+        "body": "悪いイメージを示された組は成績が低めで、効果は小さめから中くらい（0.28）。「年をとると衰えると広く考えられている」という形だと0.52と大きく、年齢差のデータの形だとはっきりした差はなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実験室の課題での話",
+        "body": "測ったのは実験室の課題の成績で、職場の仕事ぶりやAIを学ぶ場面は調べていない。未発表の研究を入れると効果が小さくなっていて、40代・50代に当てはまるかもまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-ai-age-stereotype-tech-worry-prevent-computer-use",
+    "category": "仕事とAIの不安",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Mariano J et al., \"Too Old for Computers? The Longitudinal Relationship Between Stereotype Threat and Computer Use by Older Adults\" (Frontiers in Psychology, 2020)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2020.568972",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-age-stereotype-tech-worry-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「年だから無理」と思うと、使わなくなる？",
+        "body": "新しい機械を前に「もう年だから」と手が止まること、あるよね。その心配が、あとの行動にまで影響するのか調べた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "リスボンの86人を1年半追った",
+        "body": "ポルトガルの高齢者センターに通う62〜95歳の86人に、「年齢のせいでパソコンを使えないのでは」という心配と、パソコンを使う量を聞いて、1年半後にもう一度調べたらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "心配が強い人ほど、あとで使わなくなっていた",
+        "body": "最初に心配が強かった人ほど、1年半後にパソコンを使う量が少なかった。逆に、最初によく使っていたかどうかは、あとの心配の強さとは関係がなかったんだって。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "86人の、自分で答えた調査",
+        "body": "人数が少なく、使う量は本人の答え。働く世代や、生成AIのような新しい道具で同じことが起きるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
