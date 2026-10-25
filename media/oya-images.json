@@ -833,5 +833,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Address_book_1.jpg/500px-Address_book_1.jpg",
   "og": "https://oya.seadice.win/img/parent-emergency-contact-plan-after-homecoming.jpg",
   "local": true
+ },
+ "parent-smartphone-help-calls": {
+  "file": "File:Woman holding mobile phone with laptop and colorful pencils on table.jpg",
+  "src": "/img/parent-smartphone-help-calls.jpg",
+  "src640": "/img/parent-smartphone-help-calls-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "スマートフォンを持つ手と、机の上のノートとお茶",
+  "artist": "Chris Adamus",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_holding_mobile_phone_with_laptop_and_colorful_pencils_on_table.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Woman_holding_mobile_phone_with_laptop_and_colorful_pencils_on_table.jpg/960px-Woman_holding_mobile_phone_with_laptop_and_colorful_pencils_on_table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Woman_holding_mobile_phone_with_laptop_and_colorful_pencils_on_table.jpg/500px-Woman_holding_mobile_phone_with_laptop_and_colorful_pencils_on_table.jpg",
+  "og": "https://oya.seadice.win/img/parent-smartphone-help-calls.jpg",
+  "local": true
  }
 }
