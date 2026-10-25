@@ -10138,5 +10138,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-cold-brain-fog-focus-recovery-research-caffeine",
+    "category": "集中力",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Smith et al., \"Caffeine and the common cold\" (Journal of Psychopharmacology, 1997)",
+    "sourceUrl": "https://doi.org/10.1177/026988119701100406",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/cold-brain-fog-focus-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "風邪のときのコーヒーで頭は冴える？",
+        "body": "風邪をひくと頭がぼんやりして、作業がのろくなるよね。コーヒーを飲んだら、少しはましになるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "風邪の46人で飲み比べ",
+        "body": "健康なときに検査を受けた100人のうち、風邪をひいた46人が、カフェイン入りコーヒー・カフェイン抜きコーヒー・ジュースのどれかを飲んで、もう一度検査を受けたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "健康な人と同じくらいまで戻った",
+        "body": "体重1kgあたり1.5mgのカフェイン入りコーヒーで、眠気と作業の遅れが健康な人と同じ程度まで戻ったんだ。カフェイン抜きのコーヒーでも、ある程度よくなったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1日中もつの？",
+        "body": "調べたのは飲んでから約1時間後だけ。効果がどれくらい続くかや、風邪そのものが治るかどうかは、この研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

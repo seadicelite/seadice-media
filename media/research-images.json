@@ -5502,5 +5502,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/3M_EARPLUGS_YELLOW.jpg/500px-3M_EARPLUGS_YELLOW.jpg",
   "og": "https://research.seadice.win/img/partner-snoring-cant-sleep-recovery-research.jpg",
   "local": true
+ },
+ "cold-brain-fog-focus-recovery-research": {
+  "file": "File:Mug Wikipedia Malayalam.jpg",
+  "src": "/img/cold-brain-fog-focus-recovery-research.jpg",
+  "src640": "/img/cold-brain-fog-focus-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 836,
+  "alt": "木の机に置かれた白いマグカップ",
+  "artist": "Ranjithsiji",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Mug_Wikipedia_Malayalam.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mug_Wikipedia_Malayalam.jpg/960px-Mug_Wikipedia_Malayalam.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mug_Wikipedia_Malayalam.jpg/500px-Mug_Wikipedia_Malayalam.jpg",
+  "og": "https://research.seadice.win/img/cold-brain-fog-focus-recovery-research.jpg",
+  "local": true
  }
 }
