@@ -10886,5 +10886,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-cocoa-chocolate-flavanol-memory-research-cosmos-web",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Brickman AM, et al., \"Dietary flavanols restore hippocampal-dependent memory in older adults with lower diet quality and lower habitual flavanol consumption\" (PNAS, 2023)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.2216932120",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/cocoa-chocolate-flavanol-memory-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ココアで記憶力が上がる？",
+        "body": "「カカオのポリフェノールで脳が若返る」なんて話、聞いたことあるよね。37人の小さな試験で良い結果が出て、一気に広まったらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3,562人を3年間追いかけた",
+        "body": "米国の平均71歳の3,562人が、カカオフラバノール500mgのカプセルか、偽のカプセルを毎日飲んだ。オンラインの単語を覚えるテストで、記憶の変化を調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "全体の差は0.08語だけ",
+        "body": "1年後に覚えられた単語の数の差は0.08語で、統計的な差はなかった。ふだんの食事の質が低い人たちでは、3年間の平均で0.28語だけ成績が上がっていたよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふつうのチョコでも同じ？",
+        "body": "使われたのは成分をそろえたカプセルで、チョコではない。対象も高齢者だけ。カプセルはメーカーが提供していて、効果も小さいと著者自身が認めているんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

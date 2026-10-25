@@ -5842,5 +5842,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/2025.04.10_Milk_Glass_Sugar_Bowl_and_Antique_Glass_Creamer.jpg/500px-2025.04.10_Milk_Glass_Sugar_Bowl_and_Antique_Glass_Creamer.jpg",
   "og": "https://research.seadice.win/img/milk-phlegm-mucus-cold-research.jpg",
   "local": true
+ },
+ "cocoa-chocolate-flavanol-memory-research": {
+  "file": "File:Theobroma cacao flower 01.JPG",
+  "src": "/img/cocoa-chocolate-flavanol-memory-research.jpg",
+  "src640": "/img/cocoa-chocolate-flavanol-memory-research-sm.jpg",
+  "w": 960,
+  "h": 677,
+  "alt": "カカオの木の花",
+  "artist": "H. Zell",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Theobroma_cacao_flower_01.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Theobroma_cacao_flower_01.JPG/960px-Theobroma_cacao_flower_01.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Theobroma_cacao_flower_01.JPG/500px-Theobroma_cacao_flower_01.JPG",
+  "og": "https://research.seadice.win/img/cocoa-chocolate-flavanol-memory-research.jpg",
+  "local": true
  }
 }
