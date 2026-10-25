@@ -5174,5 +5174,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Magnetic_compass_deck_-_panoramio.jpg/500px-Magnetic_compass_deck_-_panoramio.jpg",
   "og": "https://dokugaku.seadice.win/img/study-not-continuing-com-b-check-sheet.jpg",
   "local": true
+ },
+ "phone-notification-sorting-sheet-study": {
+  "file": "File:Computer mouse laptop and phone on a desk.jpg",
+  "src": "/img/phone-notification-sorting-sheet-study.jpg",
+  "src640": "/img/phone-notification-sorting-sheet-study-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "机の上のノートパソコンとマウスとスマートフォン",
+  "artist": "Enoch Leung",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Computer_mouse_laptop_and_phone_on_a_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Computer_mouse_laptop_and_phone_on_a_desk.jpg/960px-Computer_mouse_laptop_and_phone_on_a_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Computer_mouse_laptop_and_phone_on_a_desk.jpg/500px-Computer_mouse_laptop_and_phone_on_a_desk.jpg",
+  "og": "https://dokugaku.seadice.win/img/phone-notification-sorting-sheet-study.jpg",
+  "local": true,
+  "unconverted": true
  }
 }

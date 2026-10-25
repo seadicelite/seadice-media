@@ -9983,5 +9983,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-phone-notification-sorting-sheet-study-vibration-3ms",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Upshaw et al., \"The hidden cost of a smartphone: The effects of smartphone notifications on cognitive control from a behavioral and electrophysiological perspective\" (PLOS ONE, 2022)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0277220",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/phone-notification-sorting-sheet-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "スマホの振動音で集中が崩れる？",
+        "body": "勉強中にスマホがブルッと震えるだけで、集中がガタ落ちする。そんな話、よく聞くよね。実際、通知だけで課題の成績が下がった実験もあるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "振動音と電子音をくらべた",
+        "body": "米国の大学生を対象に、文字を見分ける課題の直前に、スマホの振動音か、長さと大きさをそろえた電子音を聞かせた実験がある。行動の分析は69人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "遅れたのは約3ミリ秒",
+        "body": "振動音のときの反応は平均433ミリ秒で、電子音の430ミリ秒より約3ミリ秒遅かった。差はあったけれど、効果量はd=0.04ととても小さかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "自分のスマホなら違うかも",
+        "body": "使ったのは録音した音で、自分のスマホに本物の連絡が届く場面とは違う。著者らも、効果は小さく慎重に解釈すべきだと書いている。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-phone-notification-sorting-sheet-study-one-day-off",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ohly & Bastin, \"Effects of task interruptions caused by notifications from communication applications on strain and performance\" (Journal of Occupational Health, 2023)",
+    "sourceUrl": "https://doi.org/10.1002/1348-9585.12408",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/phone-notification-sorting-sheet-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "通知を1日切ったらどうなる？",
+        "body": "メールやメッセージ、SNSの通知を1日だけ切ってみたら、仕事や勉強ははかどるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ドイツの247人をくじで2組に",
+        "body": "会社員と学生247人を2組に分け、片方の124人には1日、通知をできるだけ切ってもらった実験がある。大事な通知は残してよいことにした。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "中断は減ったけど…",
+        "body": "通知を切った組は中断が減り、中断が少ないほど、はかどりを高く評価し、いらだちも少なかった。ただ、自分からスマホを確かめに行く回数は増えていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1日だけ・自己申告",
+        "body": "実験は1日だけで、はかどりも中断の回数も本人の申告。長く続けたときや、実際の成績がどうなるかはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
