@@ -6328,8 +6328,8 @@
  },
  "work-anxiety-values-if-then": {
   "file": "File:DSC 6662 A calm inlet mirrors the cloudy sky as it leads out to a quiet beach framed by trees and a low stone wall.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DSC_6662_A_calm_inlet_mirrors_the_cloudy_sky_as_it_leads_out_to_a_quiet_beach_framed_by_trees_and_a_low_stone_wall.jpg/960px-DSC_6662_A_calm_inlet_mirrors_the_cloudy_sky_as_it_leads_out_to_a_quiet_beach_framed_by_trees_and_a_low_stone_wall.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DSC_6662_A_calm_inlet_mirrors_the_cloudy_sky_as_it_leads_out_to_a_quiet_beach_framed_by_trees_and_a_low_stone_wall.jpg/500px-DSC_6662_A_calm_inlet_mirrors_the_cloudy_sky_as_it_leads_out_to_a_quiet_beach_framed_by_trees_and_a_low_stone_wall.jpg",
+  "src": "/img/work-anxiety-values-if-then.jpg",
+  "src640": "/img/work-anxiety-values-if-then-sm.jpg",
   "w": 960,
   "h": 639,
   "alt": "曇り空を映す静かな入り江と浜辺",
@@ -6337,7 +6337,12 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:DSC_6662_A_calm_inlet_mirrors_the_cloudy_sky_as_it_leads_out_to_a_quiet_beach_framed_by_trees_and_a_low_stone_wall.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DSC_6662_A_calm_inlet_mirrors_the_cloudy_sky_as_it_leads_out_to_a_quiet_beach_framed_by_trees_and_a_low_stone_wall.jpg/960px-DSC_6662_A_calm_inlet_mirrors_the_cloudy_sky_as_it_leads_out_to_a_quiet_beach_framed_by_trees_and_a_low_stone_wall.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DSC_6662_A_calm_inlet_mirrors_the_cloudy_sky_as_it_leads_out_to_a_quiet_beach_framed_by_trees_and_a_low_stone_wall.jpg/500px-DSC_6662_A_calm_inlet_mirrors_the_cloudy_sky_as_it_leads_out_to_a_quiet_beach_framed_by_trees_and_a_low_stone_wall.jpg",
+  "og": "https://mentalai.seadice.win/img/work-anxiety-values-if-then.jpg",
+  "local": true
  },
  "partner-fight-ai-consult": {
   "file": "File:Münster, Park Sentmaring, Parkbank -- 2021 -- 9124.jpg",
@@ -6355,6 +6360,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9124.jpg/960px-M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9124.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9124.jpg/500px-M%C3%BCnster%2C_Park_Sentmaring%2C_Parkbank_--_2021_--_9124.jpg",
   "og": "https://mentalai.seadice.win/img/partner-fight-ai-consult.jpg",
+  "local": true
+ },
+ "comparison-talk-friend-corumination": {
+  "file": "File:Samovar Tea House (7792873366).jpg",
+  "src": "/img/comparison-talk-friend-corumination.jpg",
+  "src640": "/img/comparison-talk-friend-corumination-sm.jpg",
+  "w": 960,
+  "h": 830,
+  "alt": "木のテーブルに置かれた急須と湯のみ、開いた本",
+  "artist": "Christopher Michel",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Samovar_Tea_House_(7792873366).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Samovar_Tea_House_%287792873366%29.jpg/960px-Samovar_Tea_House_%287792873366%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Samovar_Tea_House_%287792873366%29.jpg/500px-Samovar_Tea_House_%287792873366%29.jpg",
+  "og": "https://mentalai.seadice.win/img/comparison-talk-friend-corumination.jpg",
   "local": true
  }
 }
