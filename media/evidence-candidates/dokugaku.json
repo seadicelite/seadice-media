@@ -10799,5 +10799,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-why-hungry-after-studying-mental-work-distracted-eating",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gough et al., \"Eating while distracted: a systematic review and meta-analysis of the effect of distraction on concurrent and later energy intake in adults\" (The American Journal of Clinical Nutrition, 2026)",
+    "sourceUrl": "https://doi.org/10.1016/j.ajcnut.2026.101315",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/why-hungry-after-studying-mental-work/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ながら食べは食べすぎる？",
+        "body": "テレビやスマホを見ながら食べると、つい食べすぎる。よく聞く話だけど、本当なのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "50の実験をまとめた",
+        "body": "何かをしながら食べると量が変わるかを調べた、大人の50の実験をまとめた分析があるよ。食べている最中の量と、その後の食事の量を分けて調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "後の食事で増えていた",
+        "body": "食べている最中の量は、全体でははっきり増えなかった。テレビのような受け身のものは少し増えたけど、頭を使う課題では差がはっきりしなかった。一方、気が散った食事の後は、次の食事で食べる量が増えていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "毎日の食事でも同じ？",
+        "body": "多くは研究室での1回の実験で、後の食事を調べた研究は10件だけ。効果のあった研究ばかりが発表されている偏りの兆候もあり、新しい研究ほど効果は小さかったよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
