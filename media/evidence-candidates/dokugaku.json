@@ -10391,5 +10391,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-input-output-ratio-3-7-study-prior-study",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gupta, Pan & Rickard, \"Prior episodic learning and the efficacy of retrieval practice\" (Memory & Cognition, 2022)",
+    "sourceUrl": "https://doi.org/10.3758/s13421-021-01236-4",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/input-output-ratio-3-7-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "読む時間は減らして、解く時間を増やせ？",
+        "body": "「インプットよりアウトプットを多くするほうが身につく」ってよく聞くよね。じゃあ、読む回数は少ないほうがいいのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "読む回数を1〜8回に変えた",
+        "body": "アメリカの大学生が英単語のペアを、最初に1回・4回・8回と読む回数を変えて学んだ。そのあと半分は読み直し、半分は思い出す練習をして、2日後にテストした実験があるよ（3つの実験）。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "思い出す練習の上乗せは同じ",
+        "body": "どの回数でも、思い出す練習のほうが成績は上。しかも上乗せ分の大きさは、読んだ回数で変わらなかった。読む回数を増やすと、両方の成績が上がったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "文章や計算問題では？",
+        "body": "使ったのは単語のペアを覚える課題。文章を理解する勉強や、解き方を身につける勉強で同じになるかは、この研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-input-output-ratio-3-7-study-spoken-words",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Krishnan, Watkins & Bishop, \"The effect of recall, reproduction, and restudy on word learning: a pre-registered study\" (BMC Psychology, 2017)",
+    "sourceUrl": "https://doi.org/10.1186/s40359-017-0198-8",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/input-output-ratio-3-7-study/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "思い出す練習は、いつでも勝つ？",
+        "body": "読み直すより思い出すほうが覚えられる、という研究は多いよね。でも、耳で聞いて覚える単語でも同じなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "架空の単語を耳で覚えた",
+        "body": "イギリスの大人36人が、耳で聞いた架空の単語27個を絵と結びつけて覚えた。思い出す練習・まねして言う練習・聞き直しの3つを比べ、予想を事前に登録してから調べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1週間後は差がなかった",
+        "body": "直後は思い出す練習が聞き直しより良かった。でも「1週間後に思い出す練習が有利になる」という予想は外れて、3つの方法の差はなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数と課題の違い",
+        "body": "参加者は36人と少なく、耳で聞いて発音する課題だった。文字で読む教材なら結果が違う可能性もあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
