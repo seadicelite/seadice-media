@@ -9045,5 +9045,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-partner-fight-ai-consult-chatbot-vs-writing",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vowels LM et al., \"The efficacy, feasibility, and technical outcomes of a GPT-4o-based chatbot Amanda for relationship support: A randomized controlled trial\" (PLOS Mental Health, 2025)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pmen.0000411",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/partner-fight-ai-consult/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "恋人とのケンカ、AIに相談するのはあり？",
+        "body": "ケンカのあと、夜中にAIに長文で打ち明けちゃうこと、あるよね。それって気持ちの整理になってるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "AIと話す組と、書き出す組を比べた",
+        "body": "英国を中心に258人を2組に分けた試験。片方は関係の相談用に作り込んだAIと20〜30分話し、もう片方は「中立な第三者ならどう見る？」とケンカを書き直したんだって。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "どっちでも、つらさは下がった",
+        "body": "どちらの組でも問題へのつらさが下がり、2週間後まで続いていた。14項目のほとんどで組の差はなし。AIでなくても、紙に書く方法で同じくらい整理できたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "何もしない組はなかった",
+        "body": "何もしない組がないので、時間がたって落ち着いただけの可能性もある。AIは研究者が指示を作り込んだもので、深刻そうな発言に応じたのは3回中1回だった。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
