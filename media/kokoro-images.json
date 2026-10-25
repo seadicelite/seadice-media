@@ -6555,5 +6555,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/GX-226_-_Wooden_desk_with_computer_lamp_and_statuettes_overlooking_lush_tropical_garden_through_large_windows.jpg/500px-GX-226_-_Wooden_desk_with_computer_lamp_and_statuettes_overlooking_lush_tropical_garden_through_large_windows.jpg",
   "og": "https://mentalai.seadice.win/img/ai-age-stereotype-tech-worry-prevent.jpg",
   "local": true
+ },
+ "ai-change-growth-mindset-prevent": {
+  "file": "File:Young seedling of tomato emerging from soil - India.jpg",
+  "src": "/img/ai-change-growth-mindset-prevent.jpg",
+  "src640": "/img/ai-change-growth-mindset-prevent-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "土から伸びる小さな芽",
+  "artist": "Ksheera Piraati",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Young_seedling_of_tomato_emerging_from_soil_-_India.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Young_seedling_of_tomato_emerging_from_soil_-_India.jpg/960px-Young_seedling_of_tomato_emerging_from_soil_-_India.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Young_seedling_of_tomato_emerging_from_soil_-_India.jpg/500px-Young_seedling_of_tomato_emerging_from_soil_-_India.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-change-growth-mindset-prevent.jpg",
+  "local": true
  }
 }

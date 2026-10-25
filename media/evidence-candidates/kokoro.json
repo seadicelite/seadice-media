@@ -9555,5 +9555,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-ai-change-growth-mindset-prevent-workers-training",
+    "category": "仕事とAIの不安",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Siu O-L, Yang Y, Li A, Wang H, Ng TK, \"Leveraging a Dual-Focused Growth Mindset to Boost Employee Resilience and Work Well-Being: Evidence From a Two-Wave Survey and an Intervention Study\" (Stress and Health, 2025)",
+    "sourceUrl": "https://doi.org/10.1002/smi.70093",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-change-growth-mindset-prevent/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "「力は伸ばせる」と思えば心が強くなる？",
+        "body": "AIで仕事が変わっていく時代、「能力は伸ばせる」と考える人は不安に強い、ってよく聞くよね。じゃあ、その考え方を練習したらどうなるんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "働く人151人が1週間の練習",
+        "body": "香港と中国本土の研究。練習の組は1.5時間の研修のあと5日間、朝に「今日変えたいこと」を決めて、夕方に10点満点で振り返ったんだ。比べる組は練習なし。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "考え方は変わった。でも…",
+        "body": "練習の組では「自分の力は変えられる」の点数が2.74から3.44に上がった（6段階）。ところが立ち直る力や心の元気の平均は、比べる組とはっきりした差が出なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIの不安そのものには？",
+        "body": "調べたのは終わって1週間後まで。AIで仕事を失う不安そのものは測っていないし、組の分け方の詳細もはっきりしない。長く続けたらどうなるかも、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
