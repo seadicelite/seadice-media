@@ -53,7 +53,8 @@
     "asmr-relax-fatigue",
     "hot-room-focus",
     "post-vacation-work-rumination",
-    "camping-natural-light-body-clock"
+    "camping-natural-light-body-clock",
+    "coloring-info-fatigue"
    ]
   },
   {
@@ -110,7 +111,8 @@
     "job-rejection-self-compassion",
     "ai-fear-hesitant-to-use",
     "ai-workplace-readiness-autonomy",
-    "post-vacation-work-rumination"
+    "post-vacation-work-rumination",
+    "gratitude-journal-work-engagement"
    ]
   },
   {
@@ -172,7 +174,9 @@
     "cute-animal-photos-focus",
     "online-vigilance-always-on",
     "handwriting-vs-typing-memory",
-    "hot-room-focus"
+    "hot-room-focus",
+    "stuck-ideas-step-away",
+    "memory-worry-confidence-recover"
    ]
   },
   {
@@ -225,7 +229,8 @@
     "comparison-happy-memories",
     "ai-use-life-satisfaction",
     "income-rank-comparison-low-mood",
-    "fitness-app-ranking-comparison-prevent"
+    "fitness-app-ranking-comparison-prevent",
+    "comparison-falling-behind-new-goal"
    ]
   },
   {
@@ -337,7 +342,8 @@
     "ai-fear-hesitant-to-use",
     "handwriting-vs-typing-memory",
     "ai-use-life-satisfaction",
-    "ai-consult-limits-know-first"
+    "ai-consult-limits-know-first",
+    "ai-thinking-effort-value-recover"
    ]
   }
  ]
