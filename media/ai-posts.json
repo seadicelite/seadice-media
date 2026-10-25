@@ -1,5 +1,14 @@
 [
  {
+  "slug": "ai-fake-research-papers-how-common",
+  "category": "偽情報・ディープフェイク",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-10-26",
+  "title": "AIで作られた偽の論文は、どのくらい出回っている？研究では専門家もAIの偽の要旨の32%を本物と判断し、偽論文を量産する業者の論文は1.5年ごとに倍に増えていた",
+  "summary": "AI製の偽論文の数はまだ数えられていないが、専門家も偽の要旨の32%を本物と判断した。元の論文・撤回の表示・ほかの研究を確かめる。"
+ },
+ {
   "slug": "chat-ai-summary-misquoted-me",
   "category": "人間関係・孤独",
   "type": "guide",

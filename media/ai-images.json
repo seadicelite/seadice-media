@@ -3523,5 +3523,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/HP_Elite_X3.jpg/500px-HP_Elite_X3.jpg",
   "og": "https://ai.seadice.win/img/chat-ai-summary-misquoted-me.jpg",
   "local": true
+ },
+ "ai-fake-research-papers-how-common": {
+  "file": "File:Books on shelves (121).jpg",
+  "src": "/img/ai-fake-research-papers-how-common.jpg",
+  "src640": "/img/ai-fake-research-papers-how-common-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "図書館の本棚に並ぶ本",
+  "artist": "Glossyqueen",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Books_on_shelves_(121).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Books_on_shelves_%28121%29.jpg/960px-Books_on_shelves_%28121%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Books_on_shelves_%28121%29.jpg/500px-Books_on_shelves_%28121%29.jpg",
+  "og": "https://ai.seadice.win/img/ai-fake-research-papers-how-common.jpg",
+  "local": true,
+  "unconverted": true
  }
 }
