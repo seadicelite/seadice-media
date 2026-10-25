@@ -5664,5 +5664,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hotel_room_bedroom_in_building_on_Chapel_Street%2C_Salford%2C_Greater_Manchester%2C_England%2C_on_5_October_2025.jpg/500px-Hotel_room_bedroom_in_building_on_Chapel_Street%2C_Salford%2C_Greater_Manchester%2C_England%2C_on_5_October_2025.jpg",
   "og": "https://research.seadice.win/img/period-premenstrual-sleep-why-research.jpg",
   "local": true
+ },
+ "lecture-video-playback-speed-memory-how-research": {
+  "file": "File:Daffodils on a computer desk (Unsplash).jpg",
+  "src": "/img/lecture-video-playback-speed-memory-how-research.jpg",
+  "src640": "/img/lecture-video-playback-speed-memory-how-research-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "机の上のノートパソコン",
+  "artist": "William Iven firmbee",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Daffodils_on_a_computer_desk_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Daffodils_on_a_computer_desk_%28Unsplash%29.jpg/960px-Daffodils_on_a_computer_desk_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Daffodils_on_a_computer_desk_%28Unsplash%29.jpg/500px-Daffodils_on_a_computer_desk_%28Unsplash%29.jpg",
+  "og": "https://research.seadice.win/img/lecture-video-playback-speed-memory-how-research.jpg",
+  "local": true
  }
 }

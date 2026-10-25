@@ -10444,5 +10444,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-lecture-video-playback-speed-memory-how-research-age",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Murphy DH et al., \"The effect of video playback speed on learning and mind-wandering in younger and older adults\" (Memory, 2023)",
+    "sourceUrl": "https://doi.org/10.1080/09658211.2023.2198326",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/lecture-video-playback-speed-memory-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "授業動画は2倍速で見ても大丈夫？",
+        "body": "倍速で見る人は多いけど、ちゃんと覚えられているのか気になるよね。若い人と年配の人で違いはあるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "13分の講義を0.75倍・1倍・2倍で",
+        "body": "米国の研究チームが、18〜25歳の148人と64〜94歳の178人に13分の講義動画を3つの速さで見せて、直後にテストしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "若い人は差なし、年配の人は下がった",
+        "body": "若い人の成績は速さで変わらなかった。でも年配の人は、速くするほど成績が下がった。別の動画（ローマ帝国の歴史）でも同じ傾向が出たらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長い動画や数日後の記憶は？",
+        "body": "使ったのは15分前後の動画で、見た直後のテストだけ。一時停止もメモも禁止だった。長い授業や、数日後にどれだけ残るかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
