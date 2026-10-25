@@ -10512,5 +10512,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "research-no-coffee-cant-focus-caffeine-withdrawal-why-research-withdrawal",
+    "category": "集中力",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Juliano LM, Griffiths RR, \"A critical review of caffeine withdrawal: empirical validation of symptoms and signs, incidence, severity, and associated features\" (Psychopharmacology, 2004)",
+    "sourceUrl": "https://doi.org/10.1007/s00213-004-2000-x",
+    "studyType": "レビュー",
+    "articleUrl": "https://research.seadice.win/no-coffee-cant-focus-caffeine-withdrawal-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "コーヒーを飲まない日、頭がぼんやりする？",
+        "body": "休日にコーヒーを飲まなかったら、昼ごろから集中できない。気のせいかと思いきや、実はちゃんと研究されている現象らしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "66本の研究をまとめたレビュー",
+        "body": "カフェインを抜いたときの症状を調べた実験57本と調査9本をまとめたレビュー。49種類の症状から、確かなものを選び出したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "抜いて12〜24時間で「集中しにくい」",
+        "body": "確かな症状は頭痛、眠気、集中しにくい、イライラなど10種類。抜いて12〜24時間で出はじめ、20〜51時間ごろが一番強く、2〜9日続く。1日100mgをやめただけでも起きていた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "出る人と出ない人の差は？",
+        "body": "実験で頭痛が出たのは50%、生活に差しつかえるほどつらかったのは13%。同じ量をやめても症状が出ない人もいて、個人差の理由はまだはっきりしていない。"
+      }
+    ],
+    "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-no-coffee-cant-focus-caffeine-withdrawal-why-research-netbenefit",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Rogers PJ et al., \"Association of the anxiogenic and alerting effects of caffeine with ADORA2A and ADORA1 polymorphisms and habitual level of caffeine consumption\" (Neuropsychopharmacology, 2010)",
+    "sourceUrl": "https://doi.org/10.1038/npp.2010.71",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/no-coffee-cant-focus-caffeine-withdrawal-why-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "コーヒーで頭がさえる？",
+        "body": "朝のコーヒーで目が覚めて頭がさえる。毎日飲んでいる人ほど、そう感じるよね。でも、それは本当に「上乗せ」なのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "379人に16時間カフェインを抜いてもらった",
+        "body": "カフェインをほとんどとらない162人と、よくとる217人が対象。16時間抜いたあと、カフェインか偽の飲みものを、どちらかわからない形で飲んでもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「元に戻しているだけ」らしい",
+        "body": "よくとる人は偽の飲みもので注意のさえが下がり、頭痛が増えた。ほとんどとらない人はカフェインを飲んでもさえが上がらなかった。著者らは、毎日飲む人は下がった分を戻しているだけと結論づけた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "反対の結果もある",
+        "body": "測ったのは本人がつけた評価。別の研究（48人）では、ほぼ飲まない人でもカフェインで反応が速くなっていて、研究者の間でも意見が分かれている。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
