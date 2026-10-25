@@ -5808,5 +5808,21 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/500px-Chess_game_Staunton_No._6_perfil_view_8.jpg",
   "og": "https://research.seadice.win/img/hard-thinking-task-procrastination-mental-effort-why-research.jpg",
   "local": true
+ },
+ "blue-light-glasses-sleep-research": {
+  "file": "File:Desk with notebook pens and glasses.jpg",
+  "src": "/img/spacing-effect-review-timing.webp",
+  "src640": "/img/spacing-effect-review-timing-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "メガネとノート、ペンが置かれた夜の勉強机",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Desk_with_notebook_pens_and_glasses.jpg",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Desk_with_notebook_pens_and_glasses.jpg/960px-Desk_with_notebook_pens_and_glasses.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Desk_with_notebook_pens_and_glasses.jpg/500px-Desk_with_notebook_pens_and_glasses.jpg",
+  "og": "https://research.seadice.win/img/spacing-effect-review-timing-og.jpg",
+  "local": true
  }
 }
