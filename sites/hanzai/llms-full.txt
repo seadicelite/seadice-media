@@ -5312,7 +5312,7 @@ Webツール・登録不要・無料自宅の防犯チェック犯罪学の4原�
 
 ## 02 研究でわかっていること楽観バイアスと「捕まらない」の研究で何がわかった？
 
-楽観の傾向は多くの研究で見つかっていますが、測り方への批判もあります。犯罪の研究では、捕まる危険を強く意識しているほど犯罪が少なく、その見積もりは捕まった経験で変わることがわかっています。
+楽観の傾向は多くの研究で見つかっていますが、測り方への批判もあります。犯罪の研究では、捕まる危険を強く意識しているほど犯罪が少ない傾向があり、その見積もりは捕まった経験で変わるという結果が出ています。
 
 56%心臓発作のリスクを実際より低く見積もった人の割合。正確だった人は19%（2013年のレビューで紹介された研究）
 
@@ -5342,7 +5342,7 @@ Shahらは、シミュレーションと5つの実験から、「良い知らせ
 
 FaganとPiquero（2007）[5]
 
-重い罪で裁判にかけられた若者を、2年間追跡した。捕まる危険や罰を強く意識しているほど、本人が答えた犯罪は少ない傾向があった。犯罪から得られる「得」を高く感じるほど、犯罪は多かった。危険の見積もりがどれだけ行動に効くかは、心の不調や心理的な成熟の度合いで変わっていた。
+重い罪で有罪と判断された若者を、2年間追跡した。捕まる危険や罰を強く意識しているほど、本人が答えた犯罪は少ない傾向があった。犯罪から得られる「得」を高く感じるほど、犯罪は多かった。危険の見積もりがどれだけ行動に効くかは、心の不調や心理的な成熟の度合いで変わっていた。
 
 対象: 米国フェニックスとフィラデルフィアの14〜18歳1,355人（男性1,171人・女性184人）。半年ごとに面接 ／ 限界: 犯罪は本人の申告で、見積もりと行動の関係は相関の分析。重い罪を犯した若者に限った結果である。
 
@@ -5363,7 +5363,7 @@ MYTH / 思い込み罪を犯す人は、捕まる危険をまったく気にし�
 FACT / 研究では重い罪を犯した若者でも、捕まる危険を強く意識しているほど犯罪が少ない傾向がありました[5]。危険の見積もりは、逮捕などの経験で見直されていました[6]。
 
 MYTH / 思い込み一度捕まれば、誰でも同じように「次は捕まる」と考えるようになる。
-FACT / 研究では逮捕のあとの見直し方には個人差があり、知能指数や幼いころの問題行動によって違っていました[6]。同じ経験でも、受け止め方は人によって異なります。
+FACT / 研究では逮捕のあとの見直し方には個人差があり、言葉の知能指数や幼いころの問題行動によって違っていました[6]。同じ経験でも、受け止め方は人によって異なります。
 
 ## 04 日常で生かせる視点「捕まらないと思った」という言葉をどう読む？
 
@@ -5396,7 +5396,7 @@ A. 重い罪を犯した若者の追跡研究では、逮捕のあとに捕ま�
 
 - Garrett, N., & Sharot, T. (2017). Optimistic update bias holds firm: Three tests of robustness following Shah et al. Consciousness and Cognition, 50, 12-22. https://doi.org/10.1016/j.concog.2016.10.013
 
-- Fagan, J., & Piquero, A. R. (2007). Rational choice and developmental influences on recidivism among adolescent felony offenders. Journal of Empirical Legal Studies, 4(4), 715. https://doi.org/10.1111/j.1740-1461.2007.00105.x
+- Fagan, J., & Piquero, A. R. (2007). Rational choice and developmental influences on recidivism among adolescent felony offenders. Journal of Empirical Legal Studies, 4(4), 715-748. https://doi.org/10.1111/j.1740-1461.2007.00105.x
 
 - Thomas, K. J., Loughran, T. A., & Piquero, A. R. (2013). Do individual characteristics explain variation in sanction risk updating among serious juvenile offenders? Advancing the logic of differential deterrence. Law and Human Behavior, 37(1), 10-21. https://doi.org/10.1037/h0093990
 
