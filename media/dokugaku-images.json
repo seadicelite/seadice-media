@@ -5372,5 +5372,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sharpened_Loti_Pencil%2C_Minneapolis_2026.jpg/500px-Sharpened_Loti_Pencil%2C_Minneapolis_2026.jpg",
   "og": "https://dokugaku.seadice.win/img/multiple-choice-longest-answer-guessing-myth.jpg",
   "local": true
+ },
+ "blue-color-focus-red-test-myth": {
+  "file": "File:CSIRO ScienceImage 1853 Fabric Swatches.jpg",
+  "src": "/img/blue-color-focus-red-test-myth.jpg",
+  "src640": "/img/blue-color-focus-red-test-myth-sm.jpg",
+  "w": 960,
+  "h": 625,
+  "alt": "色とりどりの布の見本",
+  "artist": "Textile and Fibre Technology, CSIRO",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_1853_Fabric_Swatches.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CSIRO_ScienceImage_1853_Fabric_Swatches.jpg/960px-CSIRO_ScienceImage_1853_Fabric_Swatches.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CSIRO_ScienceImage_1853_Fabric_Swatches.jpg/500px-CSIRO_ScienceImage_1853_Fabric_Swatches.jpg",
+  "og": "https://dokugaku.seadice.win/img/blue-color-focus-red-test-myth.jpg",
+  "local": true
  }
 }

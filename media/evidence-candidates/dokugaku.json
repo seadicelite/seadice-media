@@ -10561,5 +10561,39 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "dokugaku-blue-color-focus-red-test-myth-red-meta",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Gnambs, \"Limited evidence for the effect of red color on cognitive performance: A meta-analysis\" (Psychonomic Bulletin & Review, 2020)",
+    "sourceUrl": "https://doi.org/10.3758/s13423-020-01772-1",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/blue-color-focus-red-test-myth/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "赤を見ると試験の点が下がる？",
+        "body": "試験の前に赤を見ると、失敗を意識して点が下がるっていう話があるよね。2007年の実験では、かなり大きな差が出たんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "67の結果をまとめて計算",
+        "body": "赤とほかの色を見た後のテストの成績を比べた、38のグループ・67の結果をまとめたメタ分析が行われたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "大きな差は最初の研究だけ",
+        "body": "知識のテストでは差がほぼなかった（d = -0.04）。大きな効果は初期の研究に集中していて、発表されにくい結果を補正すると、裏付けは残らなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "推理のテストは少し差",
+        "body": "推理のテストだけは赤のほうが低かった（d = -0.34）。まとめた研究の約4割は査読論文じゃないし、長い勉強で色が影響するかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
