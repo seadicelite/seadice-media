@@ -10765,5 +10765,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-why-studied-content-appears-in-dreams-maze-dream",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wamsley & Stickgold, \"Dreaming of a learning task is associated with enhanced memory consolidation: Replication in an overnight sleep study\" (Journal of Sleep Research, 2019)",
+    "sourceUrl": "https://doi.org/10.1111/jsr.12749",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/why-studied-content-appears-in-dreams/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "勉強が夢に出るのは意味がある？",
+        "body": "テスト前の夜、問題を解いている夢を見たことない？あれって、覚えている証拠なのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "迷路を覚えて一晩眠った",
+        "body": "大学生がコンピューターの迷路を覚えてから一晩眠り、夜中に何度か起こされて夢の中身を話した実験があるよ。翌朝、同じ迷路をもう一度解いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "夢に出た人は伸びが大きかった",
+        "body": "夢に迷路が出てきた8人は、出てこなかった9人より、翌朝に迷路を抜ける時間が大きく縮んでいた（172秒と2秒）。昼寝で調べた前の研究と同じ結果だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "夢が原因かは不明",
+        "body": "人数はとても少なく、夢を見た人はもともと迷路が苦手な人たちだった。夢が記憶をよくしたのか、別の理由で両方が起きたのかはわからない。教科書の暗記で同じかも未確認だよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
