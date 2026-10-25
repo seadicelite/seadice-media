@@ -6289,5 +6289,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Lonely_Bench_%28233033561%29.jpeg/500px-Lonely_Bench_%28233033561%29.jpeg",
   "og": "https://mentalai.seadice.win/img/stress-day-small-kindness.jpg",
   "local": true
+ },
+ "fire-video-screen-fatigue": {
+  "file": "File:Agriculture Research Service (ARS) (8412891362).jpg",
+  "src": "/img/fire-video-screen-fatigue.jpg",
+  "src640": "/img/fire-video-screen-fatigue-sm.jpg",
+  "w": 960,
+  "h": 710,
+  "alt": "暖炉の中で燃える薪の炎",
+  "artist": "USDAgov",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Agriculture_Research_Service_(ARS)_(8412891362).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Agriculture_Research_Service_%28ARS%29_%288412891362%29.jpg/960px-Agriculture_Research_Service_%28ARS%29_%288412891362%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Agriculture_Research_Service_%28ARS%29_%288412891362%29.jpg/500px-Agriculture_Research_Service_%28ARS%29_%288412891362%29.jpg",
+  "og": "https://mentalai.seadice.win/img/fire-video-screen-fatigue.jpg",
+  "local": true
  }
 }

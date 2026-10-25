@@ -8909,5 +8909,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-fire-video-screen-fatigue-fire-sound",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lynn, \"Hearth and Campfire Influences on Arterial Blood Pressure: Defraying the Costs of the Social Brain through Fireside Relaxation\" (Evolutionary Psychology, 2014)",
+    "sourceUrl": "https://doi.org/10.1177/147470491401200509",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/fire-video-screen-fatigue/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "焚き火の炎を見ると落ち着く？",
+        "body": "炎のゆらぎで癒される、ってよく言うよね。焚き火の動画を流す人も多い。ほんとうに体は落ち着くのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "音つき・音なし・静止画で比べた",
+        "body": "米国の大学で60人が、音つきの炎、音を消した炎、焚き火の静止画を逆さにした画像を、順番を入れ替えて15分ずつ見て、前後の血圧を測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "下がったのは音つきだけ",
+        "body": "音つきの炎では上の血圧が平均5.9下がった。音を消した炎と逆さの画像では、逆に約3上がっていたらしい。炎の動きだけでは足りないみたい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "見る前の血圧に差があった",
+        "body": "音つきの回は、見る前の血圧がもともと高めだった。測ったのは血圧だけで、気分や疲れは測っていない。参加者も米国の大学生が中心だよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-fire-video-screen-fatigue-nature-video-feels",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Steininger et al., \"Brief virtual nature exposure and acute stress: inconclusive evidence regarding stress reactivity, recovery, and emotion regulation\" (Journal of Environmental Psychology, 2026)",
+    "sourceUrl": "https://doi.org/10.1016/j.jenvp.2026.103181",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/fire-video-screen-fatigue/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "自然の動画でストレスは下がる？",
+        "body": "疲れたら森や湖の動画を見るといい、ってよく聞くよね。画面で見る自然でも、体のストレスは下がるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "164人がストレス課題の前後に見た",
+        "body": "オーストリアの18〜38歳の164人が、暗算で失敗を指摘され続ける課題の前か後に、湖のほとりの映像か室内の映像を10分見た。ホルモンや心拍も測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「役立った」と感じたのに差はなし",
+        "body": "自然の映像のほうが「回復できた」と評価された。でも、ストレスの感じ方、ホルモン、心拍の変化は、室内の映像とはっきりした差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "小さな効果はあるかも",
+        "body": "小さい〜中くらいの効果がある可能性は否定できないと著者らは書いている。実験室で1回見ただけの結果で、毎日見たらどうなるかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]
