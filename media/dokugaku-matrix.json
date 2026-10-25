@@ -340,7 +340,8 @@
           "caffeine-sleep-study-reset",
           "cant-sleep-worrying-about-study-exam",
           "exercise-for-study-quit-restart",
-          "evening-exercise-cant-sleep-study-reset"
+          "evening-exercise-cant-sleep-study-reset",
+          "groggy-after-nap-sleep-inertia-reset"
         ],
         "use": [
           "sleep-log-checklist-for-learners",

@@ -10901,5 +10901,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-groggy-after-nap-sleep-inertia-reset-felt-better",
+    "category": "睡眠",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hilditch et al., \"A 30-Minute, but Not a 10-Minute Nighttime Nap is Associated with Sleep Inertia\" (Sleep, 2016)",
+    "sourceUrl": "https://doi.org/10.5665/sleep.5550",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/groggy-after-nap-sleep-inertia-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "仮眠のあと、すっきりした？",
+        "body": "少し寝ると「回復した」って感じるよね。でも寝起きの頭は、本当に元どおりに動いているのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "夜勤をまねた実験",
+        "body": "21〜35歳の31人が、明け方4時に終わる10分か30分の仮眠をとった。起きた後、画面の合図にすばやく反応する注意の検査をくり返したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "30分だと、むしろ落ちた",
+        "body": "30分の仮眠では起きた直後の成績が仮眠前より落ちて、47分後もまだ戻らなかった。10分では落ちなかった。なのに、どの条件でも本人は「仮眠前より調子がいい」と答えていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "昼寝でも同じ？",
+        "body": "夜通し起きていた夜中の実験で、人数も31人と少なめ。昼の仮眠や、勉強の覚えやすさでも同じことが起きるかは、この研究だけではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

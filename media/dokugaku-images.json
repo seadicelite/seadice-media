@@ -5534,5 +5534,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Long_division.JPG/500px-Long_division.JPG",
   "og": "https://dokugaku.seadice.win/img/incorrect-worked-examples-find-fix-how-to.jpg",
   "local": true
+ },
+ "groggy-after-nap-sleep-inertia-reset": {
+  "file": "File:TCM 237387 alarm clock with MP3 player-7461.jpg",
+  "src": "/img/groggy-after-nap-sleep-inertia-reset.jpg",
+  "src640": "/img/groggy-after-nap-sleep-inertia-reset-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "目覚まし時計",
+  "artist": "Raimond Spekking",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:TCM_237387_alarm_clock_with_MP3_player-7461.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TCM_237387_alarm_clock_with_MP3_player-7461.jpg/960px-TCM_237387_alarm_clock_with_MP3_player-7461.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TCM_237387_alarm_clock_with_MP3_player-7461.jpg/500px-TCM_237387_alarm_clock_with_MP3_player-7461.jpg",
+  "og": "https://dokugaku.seadice.win/img/groggy-after-nap-sleep-inertia-reset.jpg",
+  "local": true
  }
 }
