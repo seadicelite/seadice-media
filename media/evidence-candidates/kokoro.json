@@ -9113,5 +9113,73 @@
       }
     ],
     "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-doing-nothing-restless-why-shock-curiosity",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Eder AB et al., \"Motivations underlying self-infliction of pain during thinking for pleasure\" (Scientific Reports, 2022)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-022-14775-w",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/doing-nothing-restless-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "人は考えるくらいなら電気ショックを選ぶ？",
+        "body": "「ひとりで考えるだけの時間に耐えられず、自分に電気ショックを流す人が多かった」という有名な実験があるよね。考えるのって、そんなに苦痛なのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ドイツで4回やり直してみた",
+        "body": "ドイツの研究チームが、15分ひとりで考える時間に、自分でショックを押せる実験を4回くり返したんだって。参加者は計254人。弱いショックや、ショックの出ないボタンも選べるようにしたらしい。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "押した人は多いけど、理由は好奇心っぽい",
+        "body": "押した人は63〜89%と元の研究より多かった。でも、弱いボタンがあっても強いショックを押す人が多かった。著者らは「考えるのがいやで逃げた」より「どんな感じか確かめたい」好奇心が大きいと考えているよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実験室の特別な場面の話",
+        "body": "参加者は主に学生で、実験室で15分だけの特殊な状況。ふだんの待ち時間や、もっと長い何もしない時間に当てはまるかはわからない。押した理由は研究者の間でも意見が分かれているんだ。"
+      }
+    ],
+    "addedAt": "2026-10-25"
+  },
+  {
+    "id": "kokoro-doing-nothing-restless-why-just-think",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wilson TD et al., \"Just think: The challenges of the disengaged mind\" (Science, 2014)",
+    "sourceUrl": "https://doi.org/10.1126/science.1250830",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/doing-nothing-restless-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "何もしない時間、なぜ落ち着かない？",
+        "body": "待ち時間にスマホを出さずにいると、なんだかそわそわするよね。ただぼーっと考えるだけって、実は難しいことなのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "スマホを預けて6〜15分",
+        "body": "米国の研究で、スマホや筆記用具を預けて、何もない部屋で6〜15分「考えて楽しく過ごして」と頼む実験を11回やったんだって。参加者は主に大学生。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "約9割が「心がさまよった」",
+        "body": "実験室の146人では89.0%が心がさまよったと答え、57.5%が集中しにくかったと答えた。自宅で試すと32%が途中でスマホや音楽に手を出していたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "つらいとまでは言えない",
+        "body": "同じデータを見直した別の研究者は、多くの人は「まあまあ楽しく、まあまあ退屈」だったと反論している。短い実験で、毎日の何もしない時間が心にどう効くかはわからない。"
+      }
+    ],
+    "addedAt": "2026-10-25"
   }
 ]

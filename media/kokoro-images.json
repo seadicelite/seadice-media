@@ -6379,5 +6379,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Samovar_Tea_House_%287792873366%29.jpg/500px-Samovar_Tea_House_%287792873366%29.jpg",
   "og": "https://mentalai.seadice.win/img/comparison-talk-friend-corumination.jpg",
   "local": true
+ },
+ "doing-nothing-restless-why": {
+  "file": "File:Long shot of the bench (OpenBenches 4668-1).jpg",
+  "src": "/img/doing-nothing-restless-why.jpg",
+  "src640": "/img/doing-nothing-restless-why-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "林の小道の脇に置かれた木のベンチ",
+  "artist": "sjorford",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Long_shot_of_the_bench_(OpenBenches_4668-1).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Long_shot_of_the_bench_%28OpenBenches_4668-1%29.jpg/960px-Long_shot_of_the_bench_%28OpenBenches_4668-1%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Long_shot_of_the_bench_%28OpenBenches_4668-1%29.jpg/500px-Long_shot_of_the_bench_%28OpenBenches_4668-1%29.jpg",
+  "og": "https://mentalai.seadice.win/img/doing-nothing-restless-why.jpg",
+  "local": true
  }
 }
