@@ -9657,5 +9657,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-pilates-desk-fatigue-recover-mind",
+    "category": "AI疲れ・情報疲れ",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Tsartsapakis I, Zafeiroudi A, Kouthouris C, \"Effects of Pilates-Based Exercise on Mental Health, Psychological Well-Being, and Quality of Life: A Systematic Review and Meta-Analysis\" (Sports, 2026)",
+    "sourceUrl": "https://doi.org/10.3390/sports14050171",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/pilates-desk-fatigue-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ピラティスで心も整う？",
+        "body": "呼吸に合わせて体の中心をゆっくり使うピラティス。体だけじゃなく、ストレスや気分にも効くってよく聞くよね。研究ではどうなんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "32件の試験をまとめた",
+        "body": "10代から高齢者まで、病気のある人もない人も含む32件の試験、計1,264人分の結果をまとめた分析。生活の質、自己肯定感、落ち込みなどを比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "よくなったのは一部だけ",
+        "body": "全体をそのまま合わせると、有利な傾向はあったけど統計的にははっきりしなかった。生活の質と自己肯定感はよくなっていた一方、落ち込みなどにははっきりした差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "結果のばらつきが大きい",
+        "body": "試験ごとの結果のばらつきがとても大きく、回数や期間もそろっていない。どんな人に、どのくらいやれば効くのかは、まだわかっていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
