@@ -11105,5 +11105,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-practiced-items-only-related-forgotten-reset-older-adults-rif",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Liu et al., \"Effects of Selective Retrieval Practice on Older Adults: Lesser Benefits, Greater Losses\" (Behavioral Sciences, 2025)",
+    "sourceUrl": "https://doi.org/10.3390/bs15030308",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/practiced-items-only-related-forgotten-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "練習しなかった所が抜ける？",
+        "body": "一問一答で練習した所は完璧なのに、すぐ隣の項目が出てこない。実は、思い出す練習で関連の記憶が弱まる現象が知られているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "一部だけ練習して1週間後",
+        "body": "中国の18〜25歳と60〜74歳の大人が単語を覚え、3・5・7日目に一部だけ練習して、8日目にテストした。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "年齢の高い組だけ忘れが残った",
+        "body": "若い組では練習しなかった項目は弱まっていなかった。60〜74歳の組では、練習しなかった仲間の項目が26％しか思い出せず、比べる項目の38％より低かった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "実際の勉強でも同じ？",
+        "body": "実験は1件で、単語や短い文章を使ったもの。何か月もかけて大量に覚える勉強で同じことが起きるかは、まだ確かめられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

@@ -5624,5 +5624,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ribbon_bookmark_and_a_paper_bookmark_%2859430%29.jpg/500px-Ribbon_bookmark_and_a_paper_bookmark_%2859430%29.jpg",
   "og": "https://dokugaku.seadice.win/img/spaced-rereading-when-to-reread-how-to.jpg",
   "local": true
+ },
+ "practiced-items-only-related-forgotten-reset": {
+  "file": "File:Shaped notebooks! Loved Tokyu Hands 2008 単語帳 (2993993486).jpg",
+  "src": "/img/practiced-items-only-related-forgotten-reset.jpg",
+  "src640": "/img/practiced-items-only-related-forgotten-reset-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "いろいろな形の単語帳",
+  "artist": "Eliazar Parra Cardenas",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Shaped_notebooks!_Loved_Tokyu_Hands_2008_%E5%8D%98%E8%AA%9E%E5%B8%B3_(2993993486).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Shaped_notebooks%21_Loved_Tokyu_Hands_2008_%E5%8D%98%E8%AA%9E%E5%B8%B3_%282993993486%29.jpg/960px-Shaped_notebooks%21_Loved_Tokyu_Hands_2008_%E5%8D%98%E8%AA%9E%E5%B8%B3_%282993993486%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Shaped_notebooks%21_Loved_Tokyu_Hands_2008_%E5%8D%98%E8%AA%9E%E5%B8%B3_%282993993486%29.jpg/500px-Shaped_notebooks%21_Loved_Tokyu_Hands_2008_%E5%8D%98%E8%AA%9E%E5%B8%B3_%282993993486%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/practiced-items-only-related-forgotten-reset.jpg",
+  "local": true
  }
 }
