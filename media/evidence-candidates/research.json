@@ -11158,5 +11158,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-lock-door-checking-memory-distrust-recovery-research-checking",
+    "category": "記憶・学習",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Abbasi Jondani J et al., \"Memory confidence and memory accuracy deterioration following repeated checking: A systematic review and meta-analysis\" (Journal of Behavior Therapy and Experimental Psychiatry, 2023)",
+    "sourceUrl": "https://doi.org/10.1016/j.jbtep.2023.101855",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/lock-door-checking-memory-distrust-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "何度も確認すれば安心できる？",
+        "body": "鍵を閉めたか不安で、戻って確かめる。何回も見れば、そのうち「確かに閉めた」と自信が持てそうだよね。でも実験の結果は、だいぶ違ったらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "29件の研究をまとめて調べた",
+        "body": "コンロなどを同じ手順でくり返し確認してもらう実験を集めたメタ分析。29件の研究、67の実験、のべ2,180人分で、確認の後の「記憶の自信」と「記憶の正しさ」を比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "下がるのは記憶より「自信」",
+        "body": "くり返し確認すると、記憶への自信は大きく下がった（効果量g=0.870）。一方、記憶の正しさの低下は小さめ（g=0.213）。確認の回数が多いほど、自信は下がりやすかったんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日常や強迫症にも当てはまる？",
+        "body": "実験の多くは健康な学生が対象で、発表されやすい結果にかたよる形跡もあった。強迫症の人の毎日の確認に、どこまで同じことが言えるかはまだはっきりしていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
