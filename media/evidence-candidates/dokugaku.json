@@ -11207,5 +11207,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-exam-anxiety-music-listening-how-to-music-stress-test",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Thoma et al., \"The effect of music on the human stress response\" (PLoS ONE, 2013)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0070156",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/exam-anxiety-music-listening-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "本番前の音楽で落ち着く？",
+        "body": "緊張する場面の前に、落ち着く曲を聞いておけばストレスが減る。よく聞く話だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "人前で話す前に曲を聞いた",
+        "body": "スイスの20〜30歳の女性60人が、人前で話して暗算するストレス課題の前に、落ち着く合唱曲・水の流れる音・静かに休む、のどれかをした。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "感じ方に差はなかった",
+        "body": "ストレスの感じ方や不安、心拍は3つで差がなかった。ストレスホルモンは音楽の群で最も高かったらしい。ただ、別の体の指標は音楽の群で早く元に戻った。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "試験でも同じ？",
+        "body": "実験は60人の女性だけで、曲も研究者が選んだ1曲。試験の前や、自分で選んだ曲でも同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

@@ -1950,7 +1950,7 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Headphones_used_for_simultaneous_interpretation_in_the_European_Parliament.jpg/500px-Headphones_used_for_simultaneous_interpretation_in_the_European_Parliament.jpg",
   "src": "/img/l-r-listening-practice-log-sheet.webp",
   "src640": "/img/l-r-listening-practice-log-sheet-sm.webp",
-  "alt": "机の上に置かれたヘッドホン",
+  "alt": "机の上の書類トレーと、かけてあるヘッドホン",
   "local": true,
   "og": "https://dokugaku.seadice.win/img/l-r-listening-practice-log-sheet-og.jpg"
  },
@@ -5659,6 +5659,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Yamaha_electric_piano_88_keys_20160708.jpg/960px-Yamaha_electric_piano_88_keys_20160708.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Yamaha_electric_piano_88_keys_20160708.jpg/500px-Yamaha_electric_piano_88_keys_20160708.jpg",
   "og": "https://dokugaku.seadice.win/img/adult-motor-skill-mixed-practice-how-to.jpg",
+  "local": true
+ },
+ "exam-anxiety-music-listening-how-to": {
+  "file": "File:Inbox trays.jpg",
+  "src": "/img/exam-anxiety-music-listening-how-to.jpg",
+  "src640": "/img/exam-anxiety-music-listening-how-to-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上の書類トレーと、かけてあるヘッドホン",
+  "artist": "Khairil Yusof",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Inbox_trays.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Inbox_trays.jpg/960px-Inbox_trays.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Inbox_trays.jpg/500px-Inbox_trays.jpg",
+  "og": "https://dokugaku.seadice.win/img/exam-anxiety-music-listening-how-to.jpg",
   "local": true
  }
 }
