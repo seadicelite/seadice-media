@@ -5878,5 +5878,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2000_Notebook%2C_Pages_4-5.jpg/500px-2000_Notebook%2C_Pages_4-5.jpg",
   "og": "https://research.seadice.win/img/strengths-based-training-procrastination-research.jpg",
   "local": true
+ },
+ "exercise-with-others-walking-group-habit-research": {
+  "file": "File:Weiser State Forest Walking Path.jpg",
+  "src": "/img/exercise-with-others-walking-group-habit-research.jpg",
+  "src640": "/img/exercise-with-others-walking-group-habit-research-sm.jpg",
+  "w": 960,
+  "h": 958,
+  "alt": "森の中の散歩道",
+  "artist": "Nicholas A. Tonelli",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Weiser_State_Forest_Walking_Path.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Weiser_State_Forest_Walking_Path.jpg/960px-Weiser_State_Forest_Walking_Path.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Weiser_State_Forest_Walking_Path.jpg/500px-Weiser_State_Forest_Walking_Path.jpg",
+  "og": "https://research.seadice.win/img/exercise-with-others-walking-group-habit-research.jpg",
+  "local": true
  }
 }

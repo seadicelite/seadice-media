@@ -10954,5 +10954,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-exercise-with-others-walking-group-habit-research-walking-groups",
+    "category": "習慣",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kassavou A, et al., \"Do interventions to promote walking in groups increase physical activity? A meta-analysis\" (International Journal of Behavioral Nutrition and Physical Activity, 2013)",
+    "sourceUrl": "https://doi.org/10.1186/1479-5868-10-18",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/exercise-with-others-walking-group-habit-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "仲間がいると運動は続く？",
+        "body": "「ひとりだとサボるけど、約束があると行ける」ってよく聞くよね。グループで歩く取り組みで、本当に運動が増えるのかをまとめた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "19研究・4,572人をまとめた",
+        "body": "大人がグループで歩く取り組みを調べた19の研究を集めて分析した。参加者の平均は59.8歳。運動量がどれくらい増えたかを比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "運動量は中くらいの大きさで増えた",
+        "body": "効果の大きさはd=0.52で、中くらいとされた。専門家が率いても、一般のボランティアが率いても、効果に大きな違いはなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "質の高い研究では少し小さめ",
+        "body": "運動量の多くは本人の答えで、比べる組のない研究も入っている。質の低い研究ほど効果が大きく出ていて、本当の効果はもう少し小さいかもしれない。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
