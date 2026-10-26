@@ -5748,5 +5748,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Track_running_towards_Waterwell_Lane_-_geograph.org.uk_-_7591339.jpg/500px-Track_running_towards_Waterwell_Lane_-_geograph.org.uk_-_7591339.jpg",
   "og": "https://dokugaku.seadice.win/img/friend-passed-first-envy-motivation-reset.jpg",
   "local": true
+ },
+ "practical-exam-mental-rehearsal-sheet": {
+  "file": "File:Electronics workbench.jpg",
+  "src": "/img/practical-exam-mental-rehearsal-sheet.jpg",
+  "src640": "/img/practical-exam-mental-rehearsal-sheet-sm.jpg",
+  "w": 960,
+  "h": 727,
+  "alt": "作業台に並ぶ工具",
+  "artist": "James Bastow",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Electronics_workbench.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Electronics_workbench.jpg/960px-Electronics_workbench.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Electronics_workbench.jpg/500px-Electronics_workbench.jpg",
+  "og": "https://dokugaku.seadice.win/img/practical-exam-mental-rehearsal-sheet.jpg",
+  "local": true
  }
 }

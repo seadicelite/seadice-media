@@ -129,7 +129,8 @@
           "exam-time-allocation-sheet",
           "mock-exam-score-prediction-log",
           "exam-wrapper-reflection-sheet",
-          "problem-book-rounds-mark-sheet"
+          "problem-book-rounds-mark-sheet",
+          "practical-exam-mental-rehearsal-sheet"
         ],
         "stuck": [
           "failed-exam-review-mistakes",

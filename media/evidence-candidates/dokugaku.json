@@ -11513,5 +11513,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-practical-exam-mental-rehearsal-sheet-imagery-2min",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Boulet et al., \"Mental Imagery to Enhance Procedural Skills in Peripheral Venous Catheterization: A Randomized Simulation Study in Medical Students\" (Perspectives on Medical Education, 2026)",
+    "sourceUrl": "https://doi.org/10.5334/pme.2069",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/practical-exam-mental-rehearsal-sheet/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "イメトレって本当に効く？",
+        "body": "スポーツ選手がよくやる「イメージトレーニング」。頭の中で思い浮かべるだけで、本当に手先の技術までうまくなるのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "医学生64人で2分だけ",
+        "body": "フランスの医学部5年生64人を2組に分けて、人形の腕に点滴の針を入れてもらった。片方の組だけ、直前に2分間、目を閉じて読み上げられる手順を聞きながら、自分が手を動かす感覚で思い浮かべたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1回目の成功率が76%対52%",
+        "body": "1回目で問題なく成功したのは、思い浮かべた組が76%、しなかった組が52%。しなかった組のほうが、もともと経験は多めだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回きり・1大学の実験",
+        "body": "1つの大学で1回だけ行った実験で、参加者もどちらの組か知っていた。時間がたっても上手なままかは調べていないし、医学生の技能の研究をまとめると、差が出なかった実験もあるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
