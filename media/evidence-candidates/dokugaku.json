@@ -11241,5 +11241,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-period-days-study-plan-how-to-cycle-cognition",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Jang et al., \"Menstrual cycle effects on cognitive performance: A meta-analysis\" (PLOS ONE, 2025)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0318576",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/period-days-study-plan-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "生理中は頭が働かない？",
+        "body": "「生理の時期は判断力や記憶力が落ちる」。昔からよく言われるし、そう感じる人もいるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "102本の論文をまとめた",
+        "body": "周期のどの時期かで、注意・記憶・言葉・空間などの課題の成績が変わるかを調べた102本の論文、3,943人分をまとめて分析したんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "確かな差は見つからず",
+        "body": "周期による成績の差は、どの領域でも確かなものは見つからなかった。空間の能力で出た2つの差も、ホルモンで時期を確かめた研究では支持されなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "差がないとは言い切れない",
+        "body": "1つ1つの研究は人数が少なく、周期が不規則な人は除かれていた。痛みやだるさで集中しにくい人が多いのも事実で、それは別の問題だよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
