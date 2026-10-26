@@ -11479,5 +11479,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-friend-passed-first-envy-motivation-reset-deserved-envy",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "van de Ven et al., \"Appraisal patterns of envy and related emotions\" (Motivation and Emotion, 2012)",
+    "sourceUrl": "https://doi.org/10.1007/s11031-011-9235-8",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/friend-passed-first-envy-motivation-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "うらやましい、はやる気になる？",
+        "body": "同期が先に受かると、うらやましくて手が止まることってあるよね。でも、うらやましさが「よし、追いつこう」に変わる日もある。その違いはどこから来るんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同僚だけ昇給した場面で実験",
+        "body": "オランダの研究で、平均20歳の124人に「同僚だけが昇給した」場面を読んでもらった。昇給が妥当か不当か、次の評価が3か月後か1年後かを入れ替えて、気持ちを聞いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "「妥当で、次が近い」と前向きに",
+        "body": "うらやましさの強さはどの組もほぼ同じ。でも不当な場面ほど「相手が失敗すればいい」寄りになり、「妥当で、次のチャンスが近い」場面で「自分も頑張ろう」寄りの気持ちがいちばん強かったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "想像の場面での答え",
+        "body": "これは想像の場面に答えてもらう実験で、実際に頑張る行動が増えたかは測っていない。不当だと感じると「自分では変えられない」感覚も下がるので、2つの影響は分けきれないと著者たちも書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
