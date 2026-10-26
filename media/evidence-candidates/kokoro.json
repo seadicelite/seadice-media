@@ -10065,5 +10065,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-sleep-loss-exercise-nap-focus-exercise-vs-nap",
+    "category": "考える力・集中",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lotlikar MS et al., \"Protecting episodic memory after sleep loss: Similar benefits of exercise and naps via distinct neural contributions\" (PNAS, 2026)",
+    "sourceUrl": "https://doi.org/10.1073/pnas.2528246123",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/sleep-loss-exercise-nap-focus/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "徹夜明け、運動か昼寝か",
+        "body": "眠れなかった翌日、頭がぜんぜん働かない。体を動かすのと昼寝するの、どっちがいいんだろう？カナダのマギル大学で、それを比べた実験があるよ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "30時間起きたあとで比べた",
+        "body": "18〜35歳の53人が実験室で30時間起き続けて、くじで3組に分かれた。20分の自転車こぎ、90分の昼寝、自転車に座るだけ。そのあと写真を見て、3日後に覚えているか確かめたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "記憶はどちらも守られた",
+        "body": "見た写真を正しく「見た」と答えた割合は、座るだけの組が46%、運動の組が56%、昼寝の組が57%。でも疲れの感じが軽くなったのは昼寝の組だけだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ふだんの寝不足には？",
+        "body": "実験室での1回の徹夜で、若く健康な人だけの話。毎日少しずつ寝不足な人や、もっと短い昼寝・軽い運動で同じになるかは、まだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
