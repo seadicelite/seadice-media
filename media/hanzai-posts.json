@@ -1,5 +1,13 @@
 [
   {
+    "slug": "jury-minority-influence",
+    "category": "集団と同調",
+    "type": "guide",
+    "date": "2026-10-26",
+    "title": "話し合いで少数意見はどう扱われるのか。陪審の評議の研究と、少数派が多数派を動かす条件",
+    "summary": "少数派の影響は人前の賛成より内心に出やすく、ぶれない主張ほど強い。模擬陪審では無罪側の少数派が有利で、言う人の性別でも届き方が変わった。"
+  },
+  {
     "slug": "optimism-bias-getting-caught",
     "category": "なぜ人は罪を犯すのか",
     "type": "guide",
