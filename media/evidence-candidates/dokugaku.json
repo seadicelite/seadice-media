@@ -11275,5 +11275,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-neck-shoulder-pain-studying-reset-walking-neck",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Sitthipornvorakul et al., \"The effects of walking intervention on preventing neck pain in office workers: A randomized controlled trial\" (Journal of Occupational Health, 2020)",
+    "sourceUrl": "https://doi.org/10.1002/1348-9585.12106",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/neck-shoulder-pain-studying-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "歩くと首が楽になる？",
+        "body": "首の痛みって、首や肩をどうにかするものだと思うよね。でも、毎日よく歩くだけで防げるとしたら？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "会社員91人で6か月",
+        "body": "タイで、首の痛みが出やすい会社員91人を職場ごとに2つに分けた。片方は1日の歩数の目標（平均7,735歩）を決めて、6か月歩いたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "痛みが出た人が少なかった",
+        "body": "6か月で首の痛みが出た人は、歩いた側が22%、何もしない側が34%。条件をそろえて分析しても、歩いた側で少なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "今ある痛みには？",
+        "body": "すでにある痛みの強さや生活への支障は、2つの側で差がなかった。人数も少なく、学生や在宅で勉強する人でも同じかはわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
