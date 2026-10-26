@@ -9827,5 +9827,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-impostor-feelings-comparison-recover-group-coaching",
+    "category": "比べて落ち込む",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Fainstad T, Mann A, Suresh K, et al., \"Effect of a Novel Online Group-Coaching Program to Reduce Burnout in Female Resident Physicians: A Randomized Clinical Trial\" (JAMA Network Open, 2022)",
+    "sourceUrl": "https://doi.org/10.1001/jamanetworkopen.2022.10752",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/impostor-feelings-comparison-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く悩み",
+        "title": "自分だけ実力がない気がする",
+        "body": "周りがみんな優秀に見えて、うまくいっても「たまたま」と思ってしまう。いつかばれる気がする、この感覚はインポスター症候群と呼ばれているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "女性研修医101人をくじで2組に",
+        "body": "米国コロラド大学の女性研修医101人を、6か月のオンラインのグループコーチングを受ける組と、受けない組にくじで分けた試験なんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "インポスターの点数が下がった",
+        "body": "0〜8点の尺度で、受けた組は平均1.16点下がり、受けなかった組は0.11点上がっていた。自分への思いやりの点数も上がっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "一人でやっても効く？",
+        "body": "対象は1つの大学の女性研修医だけで、終了後に答えた人は受けた組で68%。動画や集団セッションのどれが効いたのか、一人で練習しても同じかはわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
