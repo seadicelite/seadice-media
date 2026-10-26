@@ -5917,8 +5917,8 @@
  },
  "study-scent-sleep-memory-odor-cue-how-research": {
   "file": "File:Dried rose petals.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dried_rose_petals.jpg/960px-Dried_rose_petals.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dried_rose_petals.jpg/500px-Dried_rose_petals.jpg",
+  "src": "/img/study-scent-sleep-memory-odor-cue-how-research.jpg",
+  "src640": "/img/study-scent-sleep-memory-odor-cue-how-research-sm.jpg",
   "w": 960,
   "h": 960,
   "alt": "乾燥させたバラの花びら",
@@ -5926,6 +5926,11 @@
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Dried_rose_petals.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dried_rose_petals.jpg/960px-Dried_rose_petals.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dried_rose_petals.jpg/500px-Dried_rose_petals.jpg",
+  "og": "https://research.seadice.win/img/study-scent-sleep-memory-odor-cue-how-research.jpg",
+  "local": true
  }
 }
