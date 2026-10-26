@@ -1,5 +1,21 @@
 [
   {
+    "slug": "parenting-study-time-plan-how-to",
+    "category": "時間・計画",
+    "type": "guide",
+    "date": "2026-10-26",
+    "title": "子育てしながら勉強する時間がとれない。どう計画する？睡眠を削らず、短い枠を週に分けて置く6つの手順（親の睡眠・分散学習・中断の研究）",
+    "summary": "出産後に親の睡眠は大きく減り、寝不足は覚える力を下げる。寝る時刻を先に決め、15〜20分の枠を日に分け、中断に備える6手順。"
+  },
+  {
+    "slug": "jargon-heavy-textbook-terms-first-reset",
+    "category": "勉強法",
+    "type": "guide",
+    "date": "2026-10-26",
+    "title": "専門用語だらけで、教材が読み進められない。どう立て直す？用語を先に10個だけ覚え、ふだんの言葉で読み直す6つの手順（事前トレーニングと専門用語の研究）",
+    "summary": "読む前に用語10個を10分小テストすると用語の問題は伸びたが、考え方の問題は伸びなかった研究から、用語と中身を分けて読み直す6手順。"
+  },
+  {
     "slug": "ai-reflection-questions-metacognitive-feedback-how-to",
     "category": "AIと独学",
     "type": "guide",

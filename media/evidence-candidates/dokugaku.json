@@ -11377,5 +11377,107 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-jargon-heavy-textbook-terms-first-reset-false-familiarity",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zukswert et al., \"Identifying Troublesome Jargon in Biology: Discrepancies between Student Performance and Perceived Understanding\" (CBE—Life Sciences Education, 2019)",
+    "sourceUrl": "https://doi.org/10.1187/cbe.17-07-0118",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/jargon-heavy-textbook-terms-first-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "何度も見た用語なら、わかってる？",
+        "body": "授業や教科書で何度も目にした言葉なら、もう意味はわかっている。そう思っちゃうよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "72の用語で「わかる？」と聞いた",
+        "body": "米国の大学の生物の授業で、学期末に72の専門用語について「わかるか」を聞き、定義も書いてもらった。回答は全部で1,276件。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "8割が「わかる」、正解は4割",
+        "body": "学生は平均81%の用語を「わかる」と答えたのに、定義が完全に正しかったのは約4割だった。ふだんも使う言葉や、前から見慣れた言葉ほど、思い込みとのずれが大きかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1つの大学の調査",
+        "body": "1つの大学・1学期の2つの授業での調査。ほかの分野や、大人の独学でも同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-jargon-heavy-textbook-terms-first-reset-concepts-first",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "McDonnell et al., \"Concepts first, jargon second improves student articulation of understanding\" (Biochemistry and Molecular Biology Education, 2016)",
+    "sourceUrl": "https://doi.org/10.1002/bmb.20922",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/jargon-heavy-textbook-terms-first-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "用語は先？後？",
+        "body": "専門の勉強って、まず用語を覚えてから中身に入るのがふつう。でも、用語なしで中身を先に読んだらどうなるんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "授業前の読み物を2通りに",
+        "body": "大学の生物の授業で、1つのクラスには新しい用語を使わず考え方だけを書いた読み物を、もう1つには用語と考え方を一緒に書いた読み物を、授業の前に読んでもらった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "説明が1.5〜2.5倍書けた",
+        "body": "選択式の問題の成績は同じ。でも「考え方が先、用語が後」のクラスは、2つの記述問題で正しい説明を1.5倍と2.5倍多く書けたらしい。用語の使い方はほぼ同じだった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "くじ引きではない",
+        "body": "クラスごとの比較で、学生をくじ引きで分けてはいない。1つの授業の結果なので、ほかの科目でも同じかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-parenting-study-time-plan-how-to-parent-sleep",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Richter et al., \"Long-term effects of pregnancy and childbirth on sleep satisfaction and duration of first-time and experienced mothers and fathers\" (Sleep, 2019)",
+    "sourceUrl": "https://doi.org/10.1093/sleep/zsz015",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/parenting-study-time-plan-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "親の寝不足、いつまで続く？",
+        "body": "赤ちゃんが生まれると寝不足になるのは有名だよね。じゃあ、それって何年くらい続くんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ドイツの親4,659人を追った",
+        "body": "ドイツの大規模な世帯調査で、2008〜2015年に子どもが生まれた女性2,541人と男性2,118人の睡眠を、毎年の聞き取りで追いかけた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "6年たっても戻りきらない",
+        "body": "出産後3か月がいちばん短く、妊娠前より母親は平均62分、父親は13分短かった。第1子の場合、6年たっても睡眠の長さと満足度は元の水準まで戻りきらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本人の申告の睡眠",
+        "body": "睡眠は本人が答えたもので、機械で測ってはいない。ほかの国でも同じ減り方かは、この調査だけではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

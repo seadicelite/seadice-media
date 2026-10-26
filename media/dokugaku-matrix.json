@@ -180,7 +180,8 @@
           "textbook-too-hard-to-understand",
           "reading-too-slow-cannot-finish",
           "slide-photos-instead-of-notes-reset",
-          "lecture-notes-cant-keep-up-reset"
+          "lecture-notes-cant-keep-up-reset",
+          "jargon-heavy-textbook-terms-first-reset"
         ],
         "why": [
           "why-screen-reading-harder-to-understand",
@@ -438,7 +439,8 @@
           "backward-study-plan-from-exam-date",
           "study-reminders-cues-how-to",
           "study-goals-tasks-not-scores-how-to",
-          "count-study-days-not-questions-plan"
+          "count-study-days-not-questions-plan",
+          "parenting-study-time-plan-how-to"
         ],
         "stuck": [
           "rebuild-broken-study-plan",
