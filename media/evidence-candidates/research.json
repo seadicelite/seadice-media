@@ -10988,5 +10988,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-pet-loss-grief-recovery-research-prolonged-grief-rate",
+    "category": "気分・ストレス",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Hyland P, \"No pets allowed: Evidence that prolonged grief disorder can occur following the death of a pet\" (PLOS ONE, 2026)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0339213",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/pet-loss-grief-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ペットの死は人の死より軽い？",
+        "body": "「たかがペットで」と言われて、悲しみを口にしづらい人は多いよね。じゃあ実際、ペットを亡くした悲しみは人を亡くしたときと比べてどうなのか。英国の調査が調べたんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "英国の大人975人に聞いた",
+        "body": "年齢や性別を人口に合わせて集めた975人に、これまでの死別と、長引く悲嘆の症状を聞いた。32.6%が大切なペットを亡くした経験があったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "長引く悲嘆は7.5%で、友人の死と近い",
+        "body": "ペットの死の後に長引く悲嘆の基準に当てはまったのは7.5%。親しい友人を亡くした場合の7.8%やパートナーの9.1%と近かった。症状の表れ方も、人を亡くしたときと同じだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回のアンケートで、英国だけの話",
+        "body": "医師の診断ではなく、オンラインのアンケート1回の結果。ほかの国や文化でも同じかはわかっていないし、年齢や亡くし方の違いもそろえて分析してはいないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

@@ -5896,5 +5896,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Weiser_State_Forest_Walking_Path.jpg/500px-Weiser_State_Forest_Walking_Path.jpg",
   "og": "https://research.seadice.win/img/exercise-with-others-walking-group-habit-research.jpg",
   "local": true
+ },
+ "pet-loss-grief-recovery-research": {
+  "file": "File:2014 Westminster Kennel Club Dog Show (12451664855).jpg",
+  "src": "/img/pet-loss-grief-recovery-research.jpg",
+  "src640": "/img/pet-loss-grief-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 643,
+  "alt": "首輪とリードをつけた犬",
+  "artist": "Pets Adviser from Brooklyn, USA",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2014_Westminster_Kennel_Club_Dog_Show_(12451664855).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/2014_Westminster_Kennel_Club_Dog_Show_%2812451664855%29.jpg/960px-2014_Westminster_Kennel_Club_Dog_Show_%2812451664855%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/2014_Westminster_Kennel_Club_Dog_Show_%2812451664855%29.jpg/500px-2014_Westminster_Kennel_Club_Dog_Show_%2812451664855%29.jpg",
+  "og": "https://research.seadice.win/img/pet-loss-grief-recovery-research.jpg",
+  "local": true
  }
 }
