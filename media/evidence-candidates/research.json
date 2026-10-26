@@ -10920,5 +10920,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-strengths-based-training-procrastination-research-stop",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Visser L, et al., \"A Field Experimental Design of a Strengths-Based Training to Overcome Academic Procrastination: Short- and Long-Term Effect\" (Frontiers in Psychology, 2017)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2017.01949",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/strengths-based-training-procrastination-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "強みを生かせば先延ばしは減る？",
+        "body": "「弱点より強みを伸ばそう」ってよく言うよね。先延ばしにも、自分の良さに目を向けるやり方が効くのか、オランダで試した研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "先延ばしが多い学生54人",
+        "body": "教員を目指す大学1年生54人のうち31人が、自分の強みに気づいて使う講座（3時間×4回）を受けた。残り23人は講座を待つ組で、先延ばしの点数を半年近く追ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "直後は約7点減、半年後は差なし",
+        "body": "講座の1週間後、受けた組の先延ばしの点数は受けなかった組より約7点低かった。でも11週後と24週後には、受けなかった組も同じくらいまで下がっていたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "効き目を長持ちさせるには？",
+        "body": "点数は本人の答えで、測ったのは試験の週だけ。人数も少なく、女性が多い1つの大学の話。追加の回で効果が続くかは、まだ調べられていないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

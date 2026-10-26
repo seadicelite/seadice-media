@@ -5860,5 +5860,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Theobroma_cacao_flower_01.JPG/500px-Theobroma_cacao_flower_01.JPG",
   "og": "https://research.seadice.win/img/cocoa-chocolate-flavanol-memory-research.jpg",
   "local": true
+ },
+ "strengths-based-training-procrastination-research": {
+  "file": "File:2000 Notebook, Pages 4-5.jpg",
+  "src": "/img/strengths-based-training-procrastination-research.jpg",
+  "src640": "/img/strengths-based-training-procrastination-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "書き込みのある勉強ノート",
+  "artist": "Tobin from Rochester, NY, USA",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2000_Notebook,_Pages_4-5.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2000_Notebook%2C_Pages_4-5.jpg/960px-2000_Notebook%2C_Pages_4-5.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2000_Notebook%2C_Pages_4-5.jpg/500px-2000_Notebook%2C_Pages_4-5.jpg",
+  "og": "https://research.seadice.win/img/strengths-based-training-procrastination-research.jpg",
+  "local": true
  }
 }
