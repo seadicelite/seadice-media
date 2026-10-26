@@ -851,5 +851,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Woman_holding_mobile_phone_with_laptop_and_colorful_pencils_on_table.jpg/500px-Woman_holding_mobile_phone_with_laptop_and_colorful_pencils_on_table.jpg",
   "og": "https://oya.seadice.win/img/parent-smartphone-help-calls.jpg",
   "local": true
+ },
+ "parent-long-distance-caregiving": {
+  "file": "File:Messy Suitcase Packing for a Holiday.jpg",
+  "src": "/img/parent-long-distance-caregiving.jpg",
+  "src640": "/img/parent-long-distance-caregiving-sm.jpg",
+  "w": 960,
+  "h": 622,
+  "alt": "スーツケースに荷物を詰める2人のイラスト",
+  "artist": "Familydestinationsguide.com Images",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Messy_Suitcase_Packing_for_a_Holiday.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Messy_Suitcase_Packing_for_a_Holiday.jpg/960px-Messy_Suitcase_Packing_for_a_Holiday.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Messy_Suitcase_Packing_for_a_Holiday.jpg/500px-Messy_Suitcase_Packing_for_a_Holiday.jpg",
+  "og": "https://oya.seadice.win/img/parent-long-distance-caregiving.jpg",
+  "local": true
  }
 }
