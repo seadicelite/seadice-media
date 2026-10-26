@@ -10167,5 +10167,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-ai-frequent-use-depression-why-emulated-trial",
+    "category": "AIとの付き合い方",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Perlis RH et al., \"Emulated trial of artificial intelligence use and subsequent depressive outcomes in a survey of US adults\" (BMJ Mental Health, 2026)",
+    "sourceUrl": "https://doi.org/10.1136/bmjment-2026-302609",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/ai-frequent-use-depression-why/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "AIを使いすぎると気分が沈む？",
+        "body": "「AIばかり使っていると心に悪い」ってよく聞くよね。実際、1回の調査だと、よく使う人ほど落ち込みの点数がやや高いという結果も出ているんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ人を時間を追って比べた",
+        "body": "米国の研究チームは、2024年夏に答えた大人のうち、秋〜冬にも答えた3,109人を分析。もともとの落ち込みの違いなどをそろえて、数か月後の変化を比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差は見られなかった",
+        "body": "週に何回もAIを使う人と使わない人の差は、0〜27点の質問票で−0.18点。研究チームが意味のある差とした3点にはほど遠く、偶然の範囲だったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "一部の人への影響は別",
+        "body": "最初に答えた人の8割以上が2回目に答えていないし、追跡は数か月だけ。心の調子をくずしやすい人への影響は、まだ否定できないとされているよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
