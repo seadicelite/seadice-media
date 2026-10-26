@@ -6648,8 +6648,8 @@
  },
  "phone-reduction-attention-recover": {
   "file": "File:SCP Foundation - Just doing my paperwork.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SCP_Foundation_-_Just_doing_my_paperwork.jpg/960px-SCP_Foundation_-_Just_doing_my_paperwork.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SCP_Foundation_-_Just_doing_my_paperwork.jpg/500px-SCP_Foundation_-_Just_doing_my_paperwork.jpg",
+  "src": "/img/phone-reduction-attention-recover.jpg",
+  "src640": "/img/phone-reduction-attention-recover-sm.jpg",
   "w": 960,
   "h": 720,
   "alt": "机の上のノートとペン",
@@ -6657,6 +6657,29 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:SCP_Foundation_-_Just_doing_my_paperwork.jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SCP_Foundation_-_Just_doing_my_paperwork.jpg/960px-SCP_Foundation_-_Just_doing_my_paperwork.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SCP_Foundation_-_Just_doing_my_paperwork.jpg/500px-SCP_Foundation_-_Just_doing_my_paperwork.jpg",
+  "og": "https://mentalai.seadice.win/img/phone-reduction-attention-recover.jpg",
+  "local": true
+ },
+ "job-loss-low-mood-recovery-course": {
+  "file": "File:Lake Sylvester during the sunrise, Kahurangi, New Zealand.jpg",
+  "src": "/img/job-loss-low-mood-recovery-course.jpg",
+  "src640": "/img/job-loss-low-mood-recovery-course-sm.jpg",
+  "w": 960,
+  "h": 445,
+  "alt": "静かな湖の朝",
+  "artist": "Michal Klajban",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lake_Sylvester_during_the_sunrise,_Kahurangi,_New_Zealand.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lake_Sylvester_during_the_sunrise%2C_Kahurangi%2C_New_Zealand.jpg/960px-Lake_Sylvester_during_the_sunrise%2C_Kahurangi%2C_New_Zealand.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lake_Sylvester_during_the_sunrise%2C_Kahurangi%2C_New_Zealand.jpg/500px-Lake_Sylvester_during_the_sunrise%2C_Kahurangi%2C_New_Zealand.jpg",
+  "og": "https://mentalai.seadice.win/img/job-loss-low-mood-recovery-course.jpg",
+  "local": true
  }
 }

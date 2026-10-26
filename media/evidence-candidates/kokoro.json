@@ -9793,5 +9793,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-job-loss-low-mood-recovery-course-australia",
+    "category": "仕事とAIの不安",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Arena AF, Collins D, Mackinnon A, Mobbs S, Lavender I, Harvey SB, Deady M, \"Job Loss Due to COVID-19: A Longitudinal Study of Mental Health, Protective and Risk Factors\" (Psychological Reports, 2026)",
+    "sourceUrl": "https://doi.org/10.1177/00332941241248601",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/job-loss-low-mood-recovery-course/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "失業の落ち込みは続くもの？",
+        "body": "仕事を失うと、気持ちが沈んだまま戻らない気がするよね。時間がたつと、その落ち込みはどうなっていくんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "職を失った374人を半年追った",
+        "body": "コロナ禍に職を失ったオーストラリアの374人（平均39歳）に、落ち込みと不安の点数を最初と半年後に答えてもらった研究なんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "半年で点数は下がっていた",
+        "body": "落ち込みの点数は半年で平均3.37点（0〜27点の尺度）下がり、不安も下がっていた。最初につらかった人ほど大きく下がり、再就職したかどうかは回復の大きさと関係なかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "答えたのは約4割",
+        "body": "半年後に答えたのは145人で約4割。職を失わなかった人との比較もなく、当時の手厚い給付が回復を支えた可能性もある。AIでの失業に同じことが言えるかもわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
