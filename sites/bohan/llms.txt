@@ -120,6 +120,7 @@
 ## ツールとアプリ（無料・登録不要）
 
 - 一覧: https://bohan.seadice.win/tools/
+- [一人暮らしの防犯チェック](https://bohan.seadice.win/hitorigurashi/): Webツール。住まい・帰り道・部屋にいるとき・SNSで当てはまる隙を選ぶと、今週やること3つがわかる
 - [空き巣の目で、わが家を点検](https://bohan.seadice.win/akisu-me/): Webツール。空き巣が下見で見る「留守か・近づけるか・時間がかかるか」の順に、わが家の隙と直し方がわかる
 - [出かける前の30秒点検](https://seadice.win/tools/dekakeru-mae-tenken/): Webツール。玄関・窓・郵便受け・SNSを外出の長さに合わせてタップ点検。点検した時刻が残り、外で「鍵閉めたっけ？」と思ったら見るだけ
 - [この連絡、詐欺かも？チェック](https://bohan.seadice.win/sagi-check/): Webツール。電話・メール・SNSで当てはまるサインを選ぶと、すぐやることと相談先がわかる

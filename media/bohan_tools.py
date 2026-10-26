@@ -1,4 +1,4 @@
-"""防犯メディアの個人向けWebツール（/akisu-me/ /sagi-check/ /link-check/ /ai-tenken/ /aikotoba/）を media/bohan-pages.json に書き出す。
+"""防犯メディアの個人向けWebツール（/akisu-me/ /hitorigurashi/ /sagi-check/ /link-check/ /ai-tenken/ /aikotoba/）を media/bohan-pages.json に書き出す。
 
   python3 media/bohan_tools.py && python3 media/build.py bohan
 
@@ -7,6 +7,7 @@
 - 詐欺かもチェック: SIGNS に項目を足す（記事が増えたら、その記事の結論から1〜2文で）
 - セルフ点検: TENKEN に項目を足す（記事の「今日からできること」から）
 - 空き巣の目で点検: AKISU に項目を足す（空き巣の記事の「今日からできること」から。段階は下見の3点）
+- 一人暮らしの防犯チェック: HITORI に項目を足す（一人暮らし・夜道・SNSの記事の「今日からできること」から。優先は統計で多い手口に当たるかで決める）
 - 記事 → ツールのリンク（media/bohan-toollinks.json）は SIGNS / TENKEN の記事slugから自動で作る。本体のツールは HONTAI に書く（json を手で直すと消える）
 ページの型は docs/quality/tool.md。
 """
@@ -116,6 +117,7 @@ CSS = (".bt-box{background:var(--card);border:1px solid var(--accent);border-rad
        ".sources{margin-top:40px;padding-top:20px;border-top:1px solid var(--border)}.sources h2{font-size:14px;color:var(--muted)}.sources li{font-size:12px;color:var(--muted);margin:8px 0 8px 18px;word-break:break-all}.sources a{color:var(--link)}")
 
 TOOLS = [("akisu-me", "空き巣の目で、わが家を点検", "空き巣が下見で見る「留守か・近づけるか・時間がかかるか」の順に、わが家の隙を見つける"),
+         ("hitorigurashi", "一人暮らしの防犯チェック", "住まい・帰り道・部屋にいるとき・SNSで当てはまる隙を選ぶと、今週やること3つがわかる"),
          ("sagi-check", "この連絡、詐欺かも？チェック", "電話・メール・SNSの連絡で、当てはまるサインを選ぶと、すぐやることがわかる"),
          ("link-check", "そのリンクちょっと待った", "届いたSMS・メールのリンクを貼ると、詐欺の報告一覧と偽ドメインを点検し、AIが危険度と理由を返す"),
          ("ai-tenken", "AI時代の防犯 セルフ点検", "お金をかけずにできる24の対策を、自分の進み具合で確かめる"),
@@ -388,6 +390,145 @@ document.getElementById('am').addEventListener('submit',function(){
  o.innerHTML=h;o.hidden=false;o.scrollIntoView({behavior:'smooth',block:'start'});
 });})();</script>""")
 
+# ---- 一人暮らしの防犯チェック ----
+# 一人暮らしの記事（住まい・帰り道・在宅中・SNS）の「今日からできること」から、当てはまる隙を選ぶ。
+# 並べ方: 警察庁・警視庁の統計で多い手口（鍵のかけ忘れ・玄関・窓・合かぎ・後ろから押し入る）に当たるものを先に、同じなら手間の小さい順。順番はSEADICEが決めた。
+# (id, 場面, 当てはまる隙, 直し方, 所要, 優先(1が先), 並べ替え用の秒数, 記事slug)
+HITORI = [
+    ("e1", "sumai", "今の部屋に入居したとき、鍵を交換したかを確かめていない",
+     "管理会社や大家さんに、入居前に鍵を交換したかを聞きます。交換していなければ相談します。", "10分", 2, 600, "moving-new-home-security"),
+    ("e2", "sumai", "入居してから、すべての窓とベランダの鍵がきちんとかかるかを確かめていない",
+     "すべての窓とドアの鍵がきちんとかかるかを、一度ずつ確かめます。", "10分", 3, 600, "moving-new-home-security"),
+    ("e3", "sumai", "合鍵を、郵便受け・メーターボックス・植木鉢の下など、部屋の外に置いている",
+     "合鍵は外に置かず、本数を最小限にして持ち歩きます。侵入者はこうした隠し場所をよく見ています。", "1分", 2, 60, "auto-lock-apartment-burglary"),
+    ("k1", "kaeri", "玄関の鍵を開ける前に、周りを見回していない",
+     "鍵を開ける前に振り返り、誰かがいたら一度通り過ぎます。後ろから押し入られるのを防ぐために、警視庁が勧めている方法です。", "5秒", 1, 5, "living-alone-women-home-safety"),
+    ("k2", "kaeri", "オートロックの入口を、知らない人と一緒に通ることがある",
+     "知らない人が後ろから続いて入ろうとしたら、先に通してから入るか、その場を離れます。", "数秒", 2, 5, "auto-lock-apartment-burglary"),
+    ("k3", "kaeri", "暗い道や人通りの少ない道でも、スマホを見ながら歩く",
+     "暗い道や街灯の少ない道に入る手前で、スマホをポケットやバッグにしまいます。画面に集中していると、周りの景色や音に気づきにくくなります。", "0分", 3, 0, "night-walking-smartphone-awareness-risk"),
+    ("k4", "kaeri", "帰り道は、両耳のイヤホンで音楽や動画を聞いている",
+     "片耳だけにするか音量を下げて、近づく足音や声が聞こえるようにします。", "10秒", 3, 10, "night-walking-smartphone-awareness-risk"),
+    ("k5", "kaeri", "近道なら、暗い道でも通る",
+     "暗い近道より、街灯と人通りのある大通りを選びます。イギリスの研究では、同じ時間帯でも暗くなると対人強盗が約1.87倍でした。", "0分", 3, 0, "night-darkness-robbery-risk"),
+    ("k6", "kaeri", "毎日ほぼ同じ時間に、同じ道で帰っている",
+     "帰る道や時間を時々変えます。決まった時間と道を避けると、待ち伏せを避けやすくなります。", "0分", 3, 0, "stalking-acquaintance-consultation"),
+    ("h1", "heya", "部屋にいるときは、玄関の鍵やドアガードをかけていない",
+     "帰ったらすぐに鍵とドアガードをかけます。警視庁は、オートロックや高い階でも玄関と窓を必ず施錠するよう呼びかけています。", "5秒", 1, 5, "living-alone-women-home-safety"),
+    ("h2", "heya", "「高い階だから」と、ベランダの窓を開けたまま寝たり出かけたりする",
+     "外出するときと寝る前は、高い階でもベランダの窓に鍵をかけます。共同住宅の侵入口の2位は窓です。", "10秒", 1, 10, "auto-lock-apartment-burglary"),
+    ("h3", "heya", "知らない訪問者にも、ドアを開けて対応する",
+     "インターホン越しに名前と用件を聞き、開けるときもドアガードをかけたままにします。業者や役所を名乗られても、すぐには開けません。", "1分", 2, 60, "home-invasion-robbery-at-home"),
+    ("n1", "dekake", "ゴミ出しや近所への買い物くらいなら、鍵をかけずに出かける",
+     "数分の外出でも、玄関と窓の鍵をかけます。鍵のかけ忘れは、共同住宅で1番多い侵入手口です。", "10秒", 1, 10, "burglar-target-selection-5-minutes"),
+    ("n2", "dekake", "外出先の写真を、出かけている間にSNSに載せる",
+     "写真は帰ってから載せます。「いま家を空けている」ことを知らせずに済みます。", "0分", 3, 0, "sns-photo-location-home"),
+    ("n3", "dekake", "窓からの景色・玄関・近所の店が写った写真を、SNSに載せている",
+     "家の周りが写った写真は載せないか、写らないように撮ります。AIは景色だけで撮影場所を推定できるようになっています。", "毎回", 3, 30, "sns-photo-location-home"),
+    ("n4", "dekake", "スマホのカメラの位置情報を、オフにしたか確かめていない",
+     "カメラの設定で、写真に位置情報を付けないようにします。", "3分", 3, 180, "sns-photo-location-home"),
+    ("n5", "dekake", "警察相談専用電話 #9110 を、スマホに登録していない",
+     "緊急ではない段階でも相談できる番号です。登録しておけば「大げさかも」と迷ったときにすぐかけられます。身の危険を感じたら110番です。", "1分", 3, 60, "stalking-acquaintance-consultation"),
+]
+HITORI_SCENES = [
+    ("sumai", "1. 住まいと鍵", "入居したときの鍵と合鍵です。4階建以上の共同住宅では、合かぎが2番目に多い侵入手口でした。"),
+    ("kaeri", "2. 帰り道と玄関", "後をつけて、玄関を開けた瞬間に押し入る手口があります。帰り道と、鍵を開けるまでの数秒を見ます。"),
+    ("heya", "3. 部屋にいるとき", "「家にいれば大丈夫」とは限りません。在宅中に押し入る侵入強盗は、令和7年に前の年より13.2%増えました。"),
+    ("dekake", "4. 出かけるとき・SNS", "短い外出の鍵と、SNSから留守や住まいが伝わらないかを見ます。"),
+]
+# 住まいの種類ごとの侵入手口（警察庁、令和7年のデータ）。選ぶと結果の冒頭に出し、4階建以上は合鍵の項目を先にする
+HITORI_HOUSE = [
+    ("apt", "アパート（3階建まで）", "3階建以下の共同住宅では、侵入手口の1位は鍵のかけ忘れ（47.4%）で、ガラス破り、合かぎ（12.9%）が続きます。侵入口の1位は玄関です。", []),
+    ("mansion", "マンション（4階建以上）", "4階建以上の共同住宅でも、侵入手口の1位は鍵のかけ忘れ（39.5%）、2位は合かぎ（24.6%）です。オートロックがあっても、侵入口の1位は玄関です。", ["e1", "e3"]),
+    ("house", "一戸建て", "一戸建てでは、ガラス破り（42.2%）と鍵のかけ忘れ（41.5%）が2大手口です。窓と、短い外出の鍵を先に見直します。", []),
+]
+HG_FAQ = [
+    ("一人暮らしの防犯で、いちばん大事なことは何ですか？",
+     "部屋にいるときも、数分の外出でも、玄関と窓の鍵をかけることです。共同住宅では、鍵のかけ忘れが1番多い侵入手口で、侵入口の1位は玄関でした（警察庁、令和7年）。オートロックや高い階でも、警視庁は玄関と窓を必ず施錠するよう呼びかけています。"),
+    ("オートロックのマンションなら安全ですか？",
+     "オートロックだけでは防げません。4階建以上の共同住宅でも、侵入手口の1位は鍵のかけ忘れ、2位は合かぎでした。オートロックは建物の鍵、部屋の鍵は別と考えて、毎回かけます。"),
+    ("一人暮らしの部屋選びで、防犯のために見るところは？",
+     "建物の入口の見通し、共用部の明るさ、窓の外に足場がないか、カメラ付きドアホンがあるかです。入居したら、鍵を交換したかを管理会社や大家さんに確かめます。"),
+    ("選んだ内容はどこかに送られますか？",
+     "送られません。結果はすべてブラウザの中で出します。前回と比べるために、選んだ項目と日付だけをこのブラウザに保存します。「記録を消す」で消せます。"),
+]
+HG_CSS = (".hg-chips{display:flex;flex-wrap:wrap;gap:8px;padding:4px 0 12px}"
+          ".bt-box .hg-chips label{position:relative;display:inline-flex;align-items:center;gap:0;border:1px solid var(--border);border-radius:8px;padding:0 14px;min-height:44px;font-size:15px;background:var(--bg)}"
+          ".hg-chips input{position:absolute;opacity:0;width:1px;height:1px}"
+          ".bt-box .hg-chips label:has(input:checked){border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent);font-weight:700}"
+          ".hg-chips label:has(input:focus-visible){outline:2px solid var(--accent);outline-offset:2px}"
+          ".hg-prev{font-size:14px;margin:0 0 4px}.hg-acts{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}"
+          ".hg-acts button{min-height:44px;padding:0 14px;border:1px solid var(--border);border-radius:8px;background:var(--bg);color:var(--text);font:inherit;font-size:14px;cursor:pointer}")
+
+
+def _hg_row(i, t):
+    return f'<label><input type="checkbox" value="{i}"><span>{E(t)}</span></label>'
+
+
+hg_rows = ('<h2>どこに住んでいますか</h2><div class="hg-chips" role="radiogroup" aria-label="住まいの種類">'
+           + "".join(f'<label><input type="radio" name="hg-house" value="{k}">{E(l)}</label>' for k, l, _, _ in HITORI_HOUSE)
+           + "</div>")
+hg_rows += "".join(
+    f'<h2>{E(sl)}</h2><p class="bt-sub" style="padding:0 4px 6px">{E(sd)}</p>'
+    + "".join(_hg_row(i, t) for i, g, t, *_ in HITORI if g == sk)
+    for sk, sl, sd in HITORI_SCENES)
+hg_data = json.dumps({"items": {i: [g, t, f, m, p, sec, s, TITLES.get(s, s)] for i, g, t, f, m, p, sec, s in HITORI},
+                      "scenes": [[k, l.split(". ")[1]] for k, l, _ in HITORI_SCENES],
+                      "house": {k: [l, d, up] for k, l, d, up in HITORI_HOUSE}}, ensure_ascii=False)
+hg_body = (ld("一人暮らしの防犯チェック", "hitorigurashi",
+              "一人暮らしの住まい・帰り道・部屋にいるとき・出かけるときとSNSの17項目から当てはまる隙を選ぶと、いちばん気をつけたい場面と、統計をもとに優先した今週やること3つがわかる無料チェック。警察庁・警視庁の統計と研究にもとづく。登録不要・広告なし。", HG_FAQ)
+ + '<p>一人暮らしの防犯は、何から始めればいいのでしょうか。住まい・帰り道・部屋にいるとき・出かけるときの4つの場面で、<strong>当てはまるものを選んでください</strong>。警察の統計で多い手口に当たる隙から順に、<strong>今週やること3つ</strong>を出します。無料・登録不要で、選んだ内容はどこにも送られません。</p>'
+ + f'<form class="bt-box" id="hg" onsubmit="return false"><p class="hg-prev" id="hg-prev" hidden></p>{hg_rows}<button type="submit" class="bt-btn">今週やること3つを見る</button><noscript><p class="bt-sub">結果を出すにはJavaScriptが必要です。下の「やることの並べ方」と例の表は、そのまま読めます。</p></noscript></form>'
+ + '<div class="bt-res" id="hg-out" aria-live="polite" hidden></div>'
+ + '<p class="answer"><strong>結論：一人暮らしの防犯は、まず「部屋にいるときも、短い外出でも鍵をかける」と「玄関を開ける前に振り返る」です。</strong>共同住宅の侵入手口の1位は鍵のかけ忘れで、オートロックや高い階でも変わりません。どれもお金はかかりません。</p>'
+ + '<h2>やることの並べ方</h2><p>選んだ隙は、次の順に並べます。警察庁と警視庁の統計で多い手口（鍵のかけ忘れ・玄関・窓・後ろから押し入る）に当たるものを先にし、合鍵やオートロック、訪問者への対応が続きます。同じ段階の中では、手間の小さい順です。この順番は、統計をもとにSEADICEが決めたもので、あなたの部屋の危なさを測ったものではありません。</p>'
+ + '<table class="bt-t"><caption class="bt-sub">住まいの種類と、多い侵入手口（警察庁、令和7年のデータ）</caption><thead><tr><th>住まい</th><th>多い侵入手口</th></tr></thead><tbody>'
+ '<tr><td>共同住宅（3階建以下）</td><td>1位 鍵のかけ忘れ（47.4%）、ガラス破り、合かぎ（12.9%）。侵入口の1位は玄関</td></tr>'
+ '<tr><td>共同住宅（4階建以上）</td><td>1位 鍵のかけ忘れ（39.5%）、2位 合かぎ（24.6%）。侵入口の1位は玄関</td></tr>'
+ '<tr><td>一戸建て</td><td>ガラス破り（42.2%）と鍵のかけ忘れ（41.5%）</td></tr></tbody></table>'
+ + '<h2>使い方の例</h2><table class="bt-t"><thead><tr><th>選んだもの</th><th>今週やること3つ</th></tr></thead><tbody>'
+ '<tr><td>マンション（4階建以上）／合鍵をメーターボックスに置いている／玄関の前で振り返らない／ベランダの窓を開けて寝る</td>'
+ '<td>1. 玄関の鍵を開ける前に振り返る（5秒）<br>2. 寝る前にベランダの窓に鍵をかける（10秒）<br>3. 合鍵を外に置かず持ち歩く（1分）</td></tr></tbody></table>'
+ + '<div class="bt-note">家の外から見える隙（郵便受け・死角・足場）は<a href="/akisu-me/">空き巣の目で、わが家を点検</a>で、出かけるたびの戸締まりは<a href="https://seadice.win/tools/dekakeru-mae-tenken/">出かける前の30秒点検</a>で確かめられます。</div>'
+ + faq_html(HG_FAQ) + other_tools("hitorigurashi")
+ + '<div class="sources"><h2>出典</h2><ol>'
+ '<li>警察庁「住まいる防犯110番 手口で見る侵入犯罪の脅威」（令和7年のデータ） <a href="https://www.npa.go.jp/safetylife/seianki26/theme_a/a_d_1.html" rel="noopener">https://www.npa.go.jp/safetylife/seianki26/theme_a/a_d_1.html</a></li>'
+ '<li>警察庁「住まいる防犯110番」侵入窃盗の発生状況・手口 <a href="https://www.npa.go.jp/safetylife/seianki26/theme_a/a_d_1_main.html" rel="noopener">https://www.npa.go.jp/safetylife/seianki26/theme_a/a_d_1_main.html</a></li>'
+ '<li>警察庁「住まいる防犯110番 共同住宅の防犯関係基準」 <a href="https://www.npa.go.jp/safetylife/seianki26/theme_c/c_b_1.html" rel="noopener">https://www.npa.go.jp/safetylife/seianki26/theme_c/c_b_1.html</a></li>'
+ '<li>警視庁「令和7年版 東京の犯罪」 <a href="https://www.keishicho.metro.tokyo.lg.jp/about_mpd/jokyo_tokei/jokyo/hanzai.files/tokyo.pdf" rel="noopener">https://www.keishicho.metro.tokyo.lg.jp/about_mpd/jokyo_tokei/jokyo/hanzai.files/tokyo.pdf</a></li>'
+ '<li>個々の研究と数字の出典は、各解説記事の末尾にあります。</li></ol></div>'
+ + "<script>(function(){var D=" + hg_data.replace("</", "<\\/") + r""",K='bohan-hitorigurashi',f=document.getElementById('hg'),o=document.getElementById('hg-out'),prev=null;
+function e(s){return String(s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+function ld(){try{return JSON.parse(localStorage.getItem(K))}catch(x){return null}}
+function sv(v){try{v?localStorage.setItem(K,JSON.stringify(v)):localStorage.removeItem(K)}catch(x){}}
+function md(t){var d=new Date(t);return (d.getMonth()+1)+'月'+d.getDate()+'日'}
+function it(i){var d=D.items[i];return '<div class="bt-item"><b>'+e(d[1])+'</b>'+e(d[2])+'<span class="bt-sub" style="display:block">所要 '+e(d[3])+' ・ <a href="/'+d[6]+'/">'+e(d[7])+'</a></span></div>'}
+prev=ld();
+if(prev&&prev.ids){if(prev.h){var r0=f.querySelector('input[name=hg-house][value="'+prev.h+'"]');if(r0)r0.checked=true}prev.ids.forEach(function(i){var c=f.querySelector('input[value="'+i+'"]');if(c)c.checked=true});
+ var p=document.getElementById('hg-prev');p.textContent='前回（'+md(prev.t)+'）の答えを入れてあります。直したものは外してから、もう一度見てください。';p.hidden=false}
+f.addEventListener('submit',function(){
+ var hc=f.querySelector('input[name=hg-house]:checked'),h=hc&&D.house[hc.value],up=h?h[2]:[];
+ var ids=[].map.call(f.querySelectorAll('input[type=checkbox]:checked'),function(i){return i.value}).filter(function(i){return D.items[i]});
+ function pr(i){return up.indexOf(i)>=0?1:D.items[i][4]}
+ var s=ids.slice().sort(function(a,b){return pr(a)-pr(b)||D.items[a][5]-D.items[b][5]}),r='';
+ if(h)r+='<div class="bt-card"><h3>'+e(h[0])+'で多い手口</h3><p>'+e(h[1])+'</p></div>';
+ var w=D.scenes.map(function(c){var n=ids.filter(function(i){return D.items[i][0]===c[0]});return [c[1],n.length,n.reduce(function(a,i){return a+4-pr(i)},0)]}),top=w.slice().sort(function(a,b){return b[2]-a[2]})[0];
+ r+='<div class="bt-card'+(ids.length?' alert':'')+'"><h3>'+(ids.length?'いちばん気をつけたい場面：'+e(top[0]):'当てはまるものは選ばれませんでした')+'</h3>'
+  +w.map(function(c){return '<div class="bt-item"><b>'+e(c[0])+'：'+(c[1]?'隙 '+c[1]+' か所':'隙なし')+'</b></div>'}).join('')
+  +(prev&&prev.ids?'<p style="margin-top:10px">前回（'+md(prev.t)+'）は隙 '+prev.ids.length+' か所、今回は '+ids.length+' か所です。'+(prev.ids.length>ids.length?(prev.ids.length-ids.length)+' か所減りました。':'')+'</p>':'')
+  +(ids.length?'':'<p style="margin-top:10px">当てはまるものがなければ、このチェックの範囲では隙は見つかりませんでした。ただし、このチェックにない隙もあります。部屋にいるときも鍵をかける習慣を続けてください。</p>')+'</div>';
+ if(s.length){r+='<div class="bt-card"><h3>今週やること3つ</h3>'+s.slice(0,3).map(it).join('')+'</div>';
+  if(s.length>3)r+='<details><summary>ほかの隙と直し方（'+(s.length-3)+'）</summary>'+s.slice(3).map(it).join('')+'</details>'}
+ r+='<div class="bt-card"><h3>困ったときの連絡先</h3><ul class="bt-contact"><li>いま身の危険がある：<a href="tel:110">110番</a></li><li>つきまといや不審な人のことを相談したい：<a href="tel:%239110">#9110</a></li></ul>'
+  +'<div class="hg-acts"><button type="button" id="hg-copy">やることをコピー</button><button type="button" id="hg-del">記録を消す</button></div></div>';
+ o.innerHTML=r;o.hidden=false;
+ var now={t:Date.now(),ids:ids,h:hc?hc.value:''};sv(now);prev=now;
+ document.getElementById('hg-copy').onclick=function(){var t='一人暮らしの防犯チェック（'+md(now.t)+'）\n'+s.map(function(i,n){return (n+1)+'. '+D.items[i][2]}).join('\n');
+  var bt=this;try{navigator.clipboard.writeText(t).then(function(){bt.textContent='コピーしました'},function(){bt.textContent='コピーできませんでした'})}catch(x){bt.textContent='コピーできませんでした'}};
+ document.getElementById('hg-del').onclick=function(){sv(null);prev=null;this.textContent='消しました';document.getElementById('hg-prev').hidden=true};
+ o.scrollIntoView({behavior:'smooth',block:'start'});
+});})();</script>""")
+
 # ---- そのリンクちょっと待った（リンクの詐欺チェック） ----
 # 判定は url-check-worker の /web（詐欺リスト・日本でよく見られているサイト・偽ドメインの点検 → AI）。アプリ link_matta と同じ判定
 LC_API = "https://url-check.seadice-home.workers.dev"
@@ -473,6 +614,11 @@ PAGES = [
      "date": "2026-10-13",
      "desc": "空き巣は下見で「留守か・見られずに近づけるか・入るのに時間がかかるか」を見ます。その順にわが家の隙を選ぶと、空き巣から見た下見メモと、手間の小さい順の直し方がわかる。警察庁の資料と研究にもとづく無料ツール。",
      "body": am_body, "css": CSS + T_CSS},
+    {"path": "hitorigurashi", "title": "一人暮らしの防犯チェック",
+     "seo_title": "一人暮らし 防犯 チェック｜部屋選び・帰り道・在宅中の隙と、今週やること3つ",
+     "date": "2026-10-26",
+     "desc": "一人暮らしの防犯は何から？ 住まい・帰り道・部屋にいるとき・SNSの17項目から当てはまる隙を選ぶと、警察の統計をもとに優先した、今週やること3つがわかる。オートロックのマンションにも対応。無料・登録不要。",
+     "body": hg_body, "css": CSS + T_CSS + HG_CSS},
     {"path": "sagi-check", "title": "この連絡、詐欺かも？チェック",
      "seo_title": "詐欺かも チェック｜電話・メール・SNSの連絡に当てはまるサインと、すぐやること（AI時代の手口に対応）",
      "date": "2026-10-11",
@@ -497,7 +643,7 @@ PAGES = [
 
 # 記事 → ツール（extras.tool_links が記事の関連記事の直前に出す）。各ツールが根拠に使っている記事に付ける
 LINKS = {}
-for path, items, idx in (("/akisu-me/", AKISU + [AKISU_NEAR + ("", "", 0, AKISU_NEAR[2])], 6), ("/sagi-check/", SIGNS, 3), ("/ai-tenken/", TENKEN, 4)):
+for path, items, idx in (("/akisu-me/", AKISU + [AKISU_NEAR + ("", "", 0, AKISU_NEAR[2])], 6), ("/hitorigurashi/", HITORI, 7), ("/sagi-check/", SIGNS, 3), ("/ai-tenken/", TENKEN, 4)):
     name, what = {p: (n, d) for p, n, d in TOOLS}[path.strip("/")]
     for it in items:
         LINKS.setdefault(it[idx], [])
