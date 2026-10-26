@@ -364,6 +364,7 @@
 - [AIに頼りすぎて、自分では解けなくなった。どう立て直す？AIなしで解ける力を取り戻す研究と手順](https://dokugaku.seadice.win/ai-overreliance-solve-on-your-own/): AIをやめずに、先に自分で解く・ヒントだけ聞く・すぐ開けない手間をつくる。週1回AIなしで確かめる6つの手順。
 - [AIに練習問題を作らせて勉強するには？研究でわかった頼み方と確かめ方](https://dokugaku.seadice.win/ai-practice-questions-how-to/): 問題を解いて思い出す練習は効くが、AIの問題には誤りも混ざる。教材を渡して短く答える問題を作らせ、答えは教材で確かめる。
 - [AIを使ってプログラミングを独学するには？自分で書けなくならない6つの手順（AIとプログラミング学習の研究と、その限界）](https://dokugaku.seadice.win/ai-programming-self-study-how-to/): 課題を丸ごとAIに渡す使い方ほど、自分で書き換える力が弱かった。先に書き、ヒントだけ聞き、翌日AIなしで書き直す手順。
+- [AIに「正解・不正解」だけでなく、ふり返りの質問をしてもらうには？自信・説明・次の作戦を聞いてもらう6つの手順（メタ認知フィードバックの研究）](https://dokugaku.seadice.win/ai-reflection-questions-metacognitive-feedback-how-to/): 正誤だけでなく「自信は？人に説明できる？」と問うチャットボットで応用問題の点が上がった実験から、AIへの頼み方を6手順で。
 - [AIで調べて学ぶとき、要約を読むだけで終わらせないには？自分でまとめて身につける調べ方（AIと検索をくらべた実験）](https://dokugaku.seadice.win/ai-research-learn-deeper-how-to/): AIのまとめだけで学ぶと知識が浅くなりやすいという実験をもとに、元の情報を開き自分でまとめる調べ方を紹介します。
 - [AIと一緒だと勉強が進むのに、一人だとやる気が出ない。どう立て直す？AIなしの時間をまとめて取り、ヒント役に替える6つの手順（AIとの共同作業とやる気の研究）](https://dokugaku.seadice.win/ai-solo-study-feels-boring-motivation-reset/): AIの後の一人作業でやる気が下がり退屈が増えた実験も。AIなしの時間をまとめ、AIをヒント役に替え、解けた数を記録する6手順。
 - [AIで勉強するときのチェック表（使う前・使っている間・使った後）。答えを写さずに力をつける9項目と記録表](https://dokugaku.seadice.win/ai-study-checklist/): AIの家庭教師の実験と思い出す練習の研究から作った、AIで勉強するときの9項目のチェック表と記録表。

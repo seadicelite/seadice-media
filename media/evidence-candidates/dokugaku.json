@@ -11343,5 +11343,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-ai-reflection-questions-metacognitive-feedback-how-to-praise-vs-questions",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Yin et al., \"Effects of different AI-driven Chatbot feedback on learning outcomes and brain activity\" (npj Science of Learning, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41539-025-00311-8",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/ai-reflection-questions-metacognitive-feedback-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "ほめるAIと、問いかけるAI",
+        "body": "勉強中のチャットボットが「すごいね！」とほめてくれるのと、「人に説明できる？」と聞いてくるの、どっちが身につくと思う？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生87人で比べた",
+        "body": "中国の大学生87人が、心臓と血液の15項目をチャットボットで学んだ。1項目ごとに、ふり返りの質問・ほめ言葉・休憩を促すだけ、のどれかを受け取ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "応用問題は「問いかけ」が上",
+        "body": "応用問題（15点満点）は、ふり返りの質問の群が平均9.38点で、休憩だけの群の6.72点より高かった。ほめ言葉の群は覚えた量は多かったけど、応用は休憩だけの群と差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "1回だけの短い学習",
+        "body": "学習は1回きりで、テストも直後。チャットボットは決まった文を返すもので生成AIじゃない。何週間も使ったらどうなるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
