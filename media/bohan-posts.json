@@ -1,5 +1,37 @@
 [
  {
+  "slug": "living-alone-floor-level-safety",
+  "category": "一人暮らしの防犯",
+  "type": "guide",
+  "date": "2026-10-26",
+  "title": "一人暮らしは何階が安全？ 1階は本当に危ないのか。階数別の侵入統計",
+  "summary": "3階以下の部屋の空き巣被害率は4階以上の4倍以上。1階は窓、2階以上は玄関と鍵のかけ忘れが中心で、性被害は高い建物でも起きる。"
+ },
+ {
+  "slug": "living-alone-crime-methods",
+  "category": "一人暮らしの防犯",
+  "type": "guide",
+  "date": "2026-10-26",
+  "title": "一人暮らしを狙う犯罪の手口5つ。警察の統計と事例でわかる、知っておくと防げること",
+  "summary": "訪問者を装う、玄関で押し入る、無施錠の窓、のぞき、郵便物。警察の統計と資料から、5つの手口と防ぎ方を1つずつ。"
+ },
+ {
+  "slug": "mens-laundry-fake-occupancy-myth",
+  "category": "一人暮らしの防犯",
+  "type": "guide",
+  "date": "2026-10-26",
+  "title": "「男物の洗濯物を干すと防犯になる」は本当か。研究でわかること、わからないこと",
+  "summary": "男物の洗濯物の効果を直接確かめた研究はなし。空き巣はインターホン等で留守を確かめ、下着盗には見せない干し方が効く。"
+ },
+ {
+  "slug": "being-followed-walking-home",
+  "category": "夜道・つきまとい",
+  "type": "guide",
+  "date": "2026-10-26",
+  "title": "帰り道に後をつけられている気がしたら。家に直行せず、人のいる場所へ行く理由",
+  "summary": "後をつけられていると感じたら、家が近くても帰らず、近くの店や交番へ。警察4か所の呼びかけと2025年の統計、駆け込み先と相談先を整理。"
+ },
+ {
   "slug": "yami-baito-exit-police-consultation",
   "category": "AI時代の防犯",
   "type": "guide",
