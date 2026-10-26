@@ -9929,5 +9929,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-lonely-night-streamer-comfort-double-edged",
+    "category": "人とのつながり",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Li Y, Liu Z, Liu F, \"Parasocial Engagement With Social Media Influencers and Mental Health Outcomes: Systematic Review and Meta-Analysis\" (JMIR Mental Health, 2026)",
+    "sourceUrl": "https://doi.org/10.2196/96331",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/lonely-night-streamer-comfort/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "推しの配信は心の支え？",
+        "body": "寂しい夜、推しの配信や好きな配信者の動画を見るとほっとする。相手は自分を知らないのに感じる親しみ、実は心にどう関わっているんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "17件の研究をまとめた",
+        "body": "SNSの配信者やインフルエンサーへの親しみと、心の状態との関係を調べた17件の研究（52の結果）をまとめた2026年の論文があるよ。10代や大学生、若い大人が中心。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "支えにも、やめにくさにも",
+        "body": "親しみが強い人ほど幸福感が高かった（相関0.42）。でも同時に、SNSをやめにくい傾向も強かった（0.33）。著者らは「両刃の剣」と呼んでいるんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "見ると寂しさは減る？",
+        "body": "17件中14件は1回きりの調査で、配信を見たから元気になったのか、元気な人が配信を楽しんでいるだけなのかは区別できていない。実験の研究は1件だけだった。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

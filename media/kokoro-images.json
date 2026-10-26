@@ -6645,5 +6645,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Colored_pencils_chevre.jpg/500px-Colored_pencils_chevre.jpg",
   "og": "https://mentalai.seadice.win/img/ai-writing-confidence-not-ability-recover-og.jpg",
   "local": true
+ },
+ "lonely-night-streamer-comfort": {
+  "file": "File:Three lamps on a veranda in Brastad 2.jpg",
+  "src": "/img/lonely-night-streamer-comfort.webp",
+  "src640": "/img/lonely-night-streamer-comfort-sm.webp",
+  "w": 960,
+  "h": 540,
+  "alt": "ベランダに灯る3つのランプ",
+  "artist": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Three_lamps_on_a_veranda_in_Brastad_2.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Three_lamps_on_a_veranda_in_Brastad_2.jpg/960px-Three_lamps_on_a_veranda_in_Brastad_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Three_lamps_on_a_veranda_in_Brastad_2.jpg/500px-Three_lamps_on_a_veranda_in_Brastad_2.jpg",
+  "og": "https://mentalai.seadice.win/img/lonely-night-streamer-comfort-og.jpg",
+  "local": true
  }
 }
