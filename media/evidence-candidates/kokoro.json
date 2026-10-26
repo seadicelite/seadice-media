@@ -10099,5 +10099,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-work-tension-posture-head-up-neck-angle",
+    "category": "仕事とAIの不安",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wainio-Theberge S, Spiousas I, Armony JL, \"Physical Mechanisms of Emotions Evoked by Postural Feedback\" (Psychophysiology, 2025)",
+    "sourceUrl": "https://doi.org/10.1111/psyp.70095",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/work-tension-posture-head-up/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "胸を張ると気持ちも上向く？",
+        "body": "背筋を伸ばして胸を張ると自信がわく、ってよく聞くよね。でも研究では結果がそろわず、論争にもなってきた。カナダのマギル大学のチームが、その理由を探ったよ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "3分間、姿勢を変えてもらった",
+        "body": "18〜35歳の101人が、座ったまま3分、顔を上げて胸を開く姿勢か、うつむいて背中を丸める姿勢をとった。前後で気分を答えて、ビデオで首の角度も測ったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "カギは首の角度だった",
+        "body": "うつむいた組では誇らしさなどの気持ちが下がり、顔を上げた組では前向きな気分が少し上がった。この差の大部分は、首をどれだけ前に倒していたかで説明できたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "本番で効くかは別の話",
+        "body": "測ったのは数分の姿勢のあとの気分だけ。参加者は女性が多い若い大人で、面接や発表のような本番で緊張が減るかは、まだ確かめられていない。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
