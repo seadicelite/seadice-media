@@ -11289,5 +11289,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-period-pain-focus-recovery-research-cycle-cognition-myth",
+    "category": "集中力",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Jang D, Zhang J, Elfenbein HA, \"Menstrual cycle effects on cognitive performance: A meta-analysis\" (PLoS One, 2025)",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0318576",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/period-pain-focus-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "生理の前後は頭が回らない？",
+        "body": "「生理の時期は集中力や判断力が落ちる」って、昔からよく言われるよね。実際のところ、研究ではどうなっているんだろう。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "102本の論文をまとめて比べた",
+        "body": "2025年のメタ分析は、月経周期と頭の働きを調べた102本の論文、3,943人、730の比較をまとめた。注意力、記憶、判断、空間の力、言葉の力などを周期の時期ごとに比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "周期で変わる確かな証拠はなかった",
+        "body": "どの力にも、周期による確かな差は見られなかった。著者らは「周期で能力が変わる」という神話は支持されないと結論づけている。一方、生理痛が強い日に注意力が落ちた小さな研究はあるよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "時期の決め方がばらばら",
+        "body": "周期の時期の決め方が研究ごとに違っていて、ホルモンで時期を確かめた大きな研究はまだ少ない。著者らも、より大きく正確な研究が必要としているよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
