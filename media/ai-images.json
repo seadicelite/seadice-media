@@ -3551,5 +3551,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Elementary_My_Dear_Watson_-_Flickr_-_muffinn.jpg/500px-Elementary_My_Dear_Watson_-_Flickr_-_muffinn.jpg",
   "og": "https://ai.seadice.win/img/ai-fake-image-spotting-training-prepare-og.jpg",
   "local": true
+ },
+ "ai-scam-targeted-again-fear-rebuild": {
+  "file": "File:Stack of Envelopes by Martin Vorel.jpeg",
+  "src": "/img/ai-scam-targeted-again-fear-rebuild.jpg",
+  "src640": "/img/ai-scam-targeted-again-fear-rebuild-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机に重ねて置かれた封筒",
+  "artist": "Martin Vorel",
+  "license": "Public Domain",
+  "licenseUrl": "https://web.archive.org/web/20230926203737/https://creativecommons.org/licenses/publicdomain/",
+  "page": "https://commons.wikimedia.org/wiki/File:Stack_of_Envelopes_by_Martin_Vorel.jpeg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Stack_of_Envelopes_by_Martin_Vorel.jpeg/960px-Stack_of_Envelopes_by_Martin_Vorel.jpeg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Stack_of_Envelopes_by_Martin_Vorel.jpeg/500px-Stack_of_Envelopes_by_Martin_Vorel.jpeg",
+  "og": "https://ai.seadice.win/img/ai-scam-targeted-again-fear-rebuild.jpg",
+  "local": true
  }
 }
