@@ -6696,5 +6696,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Enryaku-ji_Extending_Passage.jpg/500px-Enryaku-ji_Extending_Passage.jpg",
   "og": "https://mentalai.seadice.win/img/screen-fatigue-walk-or-rest-break-og.jpg",
   "local": true
+ },
+ "sns-negative-comments-anxiety-why": {
+  "file": "File:Iphone, macbook and smartphone on a table (Unsplash).jpg",
+  "src": "/img/sns-negative-comments-anxiety-why.webp",
+  "src640": "/img/sns-negative-comments-anxiety-why-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "木の机に置かれたノートパソコンとスマートフォンとコーヒー",
+  "artist": "Alejandro Escamilla alejandroescamilla",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Iphone,_macbook_and_smartphone_on_a_table_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iphone%2C_macbook_and_smartphone_on_a_table_%28Unsplash%29.jpg/960px-Iphone%2C_macbook_and_smartphone_on_a_table_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iphone%2C_macbook_and_smartphone_on_a_table_%28Unsplash%29.jpg/500px-Iphone%2C_macbook_and_smartphone_on_a_table_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/sns-negative-comments-anxiety-why-og.jpg",
+  "local": true
  }
 }
