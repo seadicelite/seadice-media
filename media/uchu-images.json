@@ -2548,5 +2548,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/The_bright_spots_on_Ceres_imaged_by_the_dawn_spacecraft_%28eso1609b%29.jpg/500px-The_bright_spots_on_Ceres_imaged_by_the_dawn_spacecraft_%28eso1609b%29.jpg",
   "og": "https://uchu.seadice.win/img/asteroid-belt-crowded-og.jpg",
   "local": true
+ },
+ "cosmic-calendar": {
+  "file": "File:Webb finds most distant known galaxy (JADES-GS-z14-0 environment NIRCam image) (jades5).jpg",
+  "src": "/img/cosmic-calendar.jpg",
+  "src640": "/img/cosmic-calendar-sm.jpg",
+  "w": 960,
+  "h": 938,
+  "alt": "ジェイムズ・ウェッブ宇宙望遠鏡が撮った、無数の遠い銀河が写る空の一角（JADES-GS-z14-0のまわり）",
+  "artist": "NASA, ESA, CSA, J. Olmsted (STScI), S. Carniani (Scuola Normale Superiore), JADES Collaboration",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Webb_finds_most_distant_known_galaxy_(JADES-GS-z14-0_environment_NIRCam_image)_(jades5).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Webb_finds_most_distant_known_galaxy_%28JADES-GS-z14-0_environment_NIRCam_image%29_%28jades5%29.jpg/960px-Webb_finds_most_distant_known_galaxy_%28JADES-GS-z14-0_environment_NIRCam_image%29_%28jades5%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Webb_finds_most_distant_known_galaxy_%28JADES-GS-z14-0_environment_NIRCam_image%29_%28jades5%29.jpg/500px-Webb_finds_most_distant_known_galaxy_%28JADES-GS-z14-0_environment_NIRCam_image%29_%28jades5%29.jpg",
+  "og": "https://uchu.seadice.win/img/cosmic-calendar.jpg",
+  "local": true
  }
 }
