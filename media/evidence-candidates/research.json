@@ -11124,5 +11124,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-dry-month-alcohol-challenge-slip-recovery-research-dryjanuary",
+    "category": "習慣",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "de Visser RO et al., \"Voluntary temporary abstinence from alcohol during 'Dry January' and subsequent alcohol use\" (Health Psychology, 2016)",
+    "sourceUrl": "https://doi.org/10.1037/hea0000297",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/dry-month-alcohol-challenge-slip-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "禁酒月間、1日飲んだらもう意味ない？",
+        "body": "1か月お酒をやめる「Dry January」。途中で1杯飲んでしまったら、全部台無しなのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "857人を半年追いかけた",
+        "body": "英国で2014年のDry Januaryに参加した大人857人に、始める前・1か月後・6か月後に答えてもらったんだ。1か月を達成できたのは64.1%だった。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "達成できなくても、飲む日は減った",
+        "body": "6か月後、飲む量が減って、誘いを断れる自信も高まっていた。これは達成できなかった人でも見られた。ただ、変化は達成した人のほうが出やすかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "答え続けた人だけの結果",
+        "body": "3回とも答えた人だけを調べた観察研究で、飲む量は自己申告。半年後に酔う回数が増えたと答えた人も11%いて、達成できなかった人に多めだった。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
