@@ -5658,5 +5658,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/GX-226_-_Wooden_desk_with_computer_lamp_and_statuettes_overlooking_lush_tropical_garden_through_large_windows.jpg/500px-GX-226_-_Wooden_desk_with_computer_lamp_and_statuettes_overlooking_lush_tropical_garden_through_large_windows.jpg",
   "og": "https://dokugaku.seadice.win/img/neck-shoulder-pain-studying-reset-og.jpg",
   "local": true
+ },
+ "ai-solo-study-feels-boring-motivation-reset": {
+  "file": "File:Pencil Sketch of Dease Lake, from John Muir's Alaska Notebooks.jpg",
+  "src": "/img/ai-solo-study-feels-boring-motivation-reset.jpg",
+  "src640": "/img/ai-solo-study-feels-boring-motivation-reset-sm.jpg",
+  "w": 960,
+  "h": 592,
+  "alt": "鉛筆で描かれたノートのスケッチ",
+  "artist": "John Muir",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Pencil_Sketch_of_Dease_Lake,_from_John_Muir%27s_Alaska_Notebooks.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pencil_Sketch_of_Dease_Lake%2C_from_John_Muir%27s_Alaska_Notebooks.jpg/960px-Pencil_Sketch_of_Dease_Lake%2C_from_John_Muir%27s_Alaska_Notebooks.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pencil_Sketch_of_Dease_Lake%2C_from_John_Muir%27s_Alaska_Notebooks.jpg/500px-Pencil_Sketch_of_Dease_Lake%2C_from_John_Muir%27s_Alaska_Notebooks.jpg",
+  "og": "https://dokugaku.seadice.win/img/ai-solo-study-feels-boring-motivation-reset.jpg",
+  "local": true
  }
 }

@@ -557,7 +557,8 @@
           "ai-wrong-answer-unlearn-correct",
           "ai-made-mistakes-lost-trust-rebuild",
           "ai-explanations-forgotten-relearn",
-          "ai-writing-feedback-too-many-corrections-reset"
+          "ai-writing-feedback-too-many-corrections-reset",
+          "ai-solo-study-feels-boring-motivation-reset"
         ],
         "why": [
           "why-ai-explanations-feel-understood",

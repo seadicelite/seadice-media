@@ -11309,5 +11309,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-ai-solo-study-feels-boring-motivation-reset-ai-then-solo",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wu et al., \"Human-generative AI collaboration enhances task performance but undermines human's intrinsic motivation\" (Scientific Reports, 2025)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-98385-2",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/ai-solo-study-feels-boring-motivation-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "AIの後の一人作業、つまらない？",
+        "body": "AIと一緒だとサクサク進むのに、一人に戻ると急に面倒。そんな感覚、実験で確かめた人たちがいるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "4つの実験、3,562人",
+        "body": "オンラインで集めた大人に、ChatGPTと一緒に文章を作ってもらい、その後で一人で別の作業をしてもらった。ずっと一人で作業した人とくらべたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "やる気が下がり、退屈が増えた",
+        "body": "最初の実験では、AIの後に一人で作業した人のやる気（7段階）が5.08から4.39に下がり、退屈は3.43から3.91に上がった。ずっと一人の人も少し下がっていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "勉強でも同じ？",
+        "body": "作業は仕事の文章作りとアイデア出しの2つだけで、差も小さめ。勉強で何か月もAIを使った場合にどうなるかは、まだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
