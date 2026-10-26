@@ -163,7 +163,8 @@
      "gacha-loot-box-spending"
     ],
     "notice": [
-     "gambling-gacha-self-check"
+     "gambling-gacha-self-check",
+     "gambling-gacha-thinking-traps-self-check"
     ],
     "fix": [
      "gambling-gacha-limit-setting-tips"
