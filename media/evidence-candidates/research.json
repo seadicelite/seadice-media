@@ -11260,5 +11260,34 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-gardening-stress-mood-how-often-how-research-community-garden",
+    "category": "気分・ストレス",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Litt JS et al., \"Effects of a community gardening intervention on diet, physical activity, and anthropometry outcomes in the USA (CAPS): an observer-blind, randomised controlled trial\" (The Lancet Planetary Health, 2023)",
+    "sourceUrl": "https://doi.org/10.1016/S2542-5196(22)00303-5",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/gardening-stress-mood-how-often-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "畑をくじで配ってみた",
+        "body": "アメリカ・デンバーで、2年以上園芸をしていない大人291人を、くじで「貸し農園の区画と入門講座がもらえる人」と「順番待ちの人」に分けた試験があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "秋にはストレスと不安が下がった",
+        "body": "収穫期の秋の時点で、区画をもらった人は順番待ちの人より、ストレスと不安の得点が大きく下がった。区画は平均10m²、種や苗ももらえる形だった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "冬には差が消えていた",
+        "body": "冬の時点では、ストレスと不安の差は見られなくなっていた。得点は自己評価で、ストレスは主な目的の項目ではなかった。参加者の82%が女性という偏りもあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
