@@ -115,7 +115,9 @@
         "myth": [
           "fine-salt-tastes-saltier"
         ],
-        "make": [],
+        "make": [
+          "less-salt-senbei-keep-salty"
+        ],
         "data": [
           "senbei-salt-content"
         ],

@@ -648,5 +648,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/PeanutArare.jpg/500px-PeanutArare.jpg",
   "og": "https://senbei.seadice.win/img/new-flavor-repeated-exposure-myth.jpg",
   "local": true
+ },
+ "less-salt-senbei-keep-salty": {
+  "file": "File:Table salt with salt shaker V1.jpg",
+  "src": "/img/less-salt-senbei-keep-salty.jpg",
+  "src640": "/img/less-salt-senbei-keep-salty-sm.jpg",
+  "w": 960,
+  "h": 796,
+  "alt": "黒い台に盛った食卓塩と塩入れ",
+  "artist": "Poyraz 72",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Table_salt_with_salt_shaker_V1.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Table_salt_with_salt_shaker_V1.jpg/960px-Table_salt_with_salt_shaker_V1.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Table_salt_with_salt_shaker_V1.jpg/500px-Table_salt_with_salt_shaker_V1.jpg",
+  "og": "https://senbei.seadice.win/img/less-salt-senbei-keep-salty.jpg",
+  "local": true
  }
 }
