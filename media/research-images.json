@@ -6094,5 +6094,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brooks_Adrenaline_GTS_18.jpg/500px-Brooks_Adrenaline_GTS_18.jpg",
   "og": "https://research.seadice.win/img/exercise-habit-preparation-start-cue-how-research.jpg",
   "local": true
+ },
+ "evening-room-light-dim-before-bed-sleep-how-research": {
+  "file": "File:Wellington City Night.jpg",
+  "src": "/img/evening-room-light-dim-before-bed-sleep-how-research.jpg",
+  "src640": "/img/evening-room-light-dim-before-bed-sleep-how-research-sm.jpg",
+  "w": 960,
+  "h": 123,
+  "alt": "夜の街に広がる照明の明かり",
+  "artist": "Donovan Govan.",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Wellington_City_Night.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wellington_City_Night.jpg/960px-Wellington_City_Night.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wellington_City_Night.jpg/500px-Wellington_City_Night.jpg",
+  "og": "https://research.seadice.win/img/evening-room-light-dim-before-bed-sleep-how-research.jpg",
+  "local": true
  }
 }

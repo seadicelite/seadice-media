@@ -1,479 +1,480 @@
 {
- "cols": [
-  {
-   "id": "why",
-   "label": "なぜ",
-   "q": "なぜそうなる？（体・脳・心の仕組み）"
-  },
-  {
-   "id": "judge",
-   "label": "効く？",
-   "q": "よく言われる方法・通説は効く？（研究で判定）"
-  },
-  {
-   "id": "how",
-   "label": "やり方",
-   "q": "研究で効果が示された、今日からできるやり方・タイミングは？"
-  },
-  {
-   "id": "stuck",
-   "label": "つまずいたら",
-   "q": "うまくいかない・続かない・失敗した後、どう立て直す？"
-  }
- ],
- "rows": [
-  {
-   "id": "sleep",
-   "label": "睡眠",
-   "cells": {
-    "why": [
-     "post-lunch-sleepiness-research",
-     "trying-hard-to-sleep-awake-research",
-     "night-waking-why-research",
-     "first-night-effect-sleep-why-research",
-     "early-bedtime-cant-sleep-forbidden-zone-why-research",
-     "hot-night-cant-sleep-why-research",
-     "weekend-sleep-in-monday-social-jetlag-why-research",
-     "early-morning-waking-aging-why-research",
-     "evening-nap-cant-sleep-sleep-pressure-why-research",
-     "sleep-loss-junk-food-cravings-why-research",
-     "train-car-sleepy-rocking-vibration-why-research",
-     "period-premenstrual-sleep-why-research"
-    ],
-    "judge": [
-     "bedtime-stretching-sleep-quality-research",
-     "daytime-light-exposure-night-sleep-research",
-     "alcohol-before-bed-sleep",
-     "snooze-alarm-research",
-     "sleep-regularity-same-time-research",
-     "bedtime-reading-paper-book-sleep",
-     "weighted-blanket-sleep-anxiety-research",
-     "white-noise-sleep-pink-noise-research",
-     "chamomile-herbal-tea-sleep-research",
-     "mouth-taping-sleep-research",
-     "magnesium-supplement-sleep-research",
-     "blue-light-glasses-sleep-research"
-    ],
-    "how": [
-     "bathing-before-bed-sleep-onset",
-     "evening-exercise-sleep-research",
-     "bedtime-todo-list-sleep",
-     "caffeine-hours-before-bed",
-     "nap-best-length",
-     "dark-bedroom-light-during-sleep-research",
-     "bedtime-racing-thoughts-imagery-shuffle-how-research",
-     "cold-feet-warming-sleep-onset-how-research",
-     "bedtime-music-sleep-how-research",
-     "dinner-timing-before-bed-sleep-how-research",
-     "sleep-restriction-time-in-bed-insomnia-how-research",
-     "toddler-bedtime-routine-sleep-how-research"
-    ],
-    "stuck": [
-     "weekend-catchup-sleep-debt",
-     "morning-light-wake-up",
-     "bedtime-smartphone-sleep",
-     "night-awake-get-out-of-bed-stimulus-control-research",
-     "bad-night-sleep-next-night-recovery-research",
-     "jet-lag-recovery-light-timing-research",
-     "night-shift-sleep-recovery-research",
-     "nightmare-wake-up-imagery-rehearsal-recovery-research",
-     "sleep-tracker-bad-score-anxiety-recovery-research",
-     "nap-ruined-night-sleep-recovery-research",
-     "sleep-paralysis-kanashibari-recovery-research",
-     "partner-snoring-cant-sleep-recovery-research",
-     "night-leg-cramp-wake-up-recovery-research"
-    ]
-   }
-  },
-  {
-   "id": "focus",
-   "label": "集中力",
-   "cells": {
-    "why": [
-     "deadline-time-pressure-focus-research",
-     "mind-wandering-why-research",
-     "focus-fades-over-time-why-research",
-     "background-talk-distraction-why-research",
-     "worry-cant-concentrate-why-research",
-     "boring-task-cant-focus-boredom-why-research",
-     "dehydration-thirst-focus-why-research",
-     "watched-by-others-focus-social-facilitation-why-research",
-     "hunger-cant-focus-why-research",
-     "hay-fever-cant-focus-why-research",
-     "stuffy-room-cant-focus-ventilation-why-research",
-     "no-coffee-cant-focus-caffeine-withdrawal-why-research"
-    ],
-    "judge": [
-     "room-temperature-concentration-research",
-     "noise-cancelling-focus-research",
-     "indoor-plants-focus-concentration-research",
-     "skipping-breakfast-focus-research",
-     "white-noise-focus-research",
-     "chewing-gum-focus-research",
-     "sugar-focus-willpower-research",
-     "desk-clutter-focus-research",
-     "aroma-rosemary-focus-research",
-     "multitasking-focus-cost-research",
-     "short-meditation-focus-recovery",
-     "phone-notifications-off-focus",
-     "background-music-studying-focus",
-     "phone-presence-attention-brain-drain"
-    ],
-    "how": [
-     "walking-boosts-creativity",
-     "focus-microbreaks-pomodoro",
-     "exercise-before-study-focus-research",
-     "hard-work-time-of-day-chronotype-research",
-     "coffee-caffeine-focus-amount-timing-research",
-     "bright-light-daytime-focus-sleepiness-research",
-     "sitting-break-walk-focus-research",
-     "video-lecture-focus-quiz-breaks-how-research",
-     "email-chat-batching-focus-how-research",
-     "screen-reading-focus-paper-how-research",
-     "distraction-if-then-plan-study-focus-how-research",
-     "kids-movement-break-homework-focus-how-research"
-    ],
-    "stuck": [
-     "interrupted-work-refocus-research",
-     "sleep-deprived-next-day-focus-research",
-     "phone-break-focus-not-recovering-research",
-     "nature-break-focus-recovery-research",
-     "morning-grogginess-sleep-inertia-focus-recovery-research",
-     "sns-wasted-day-next-day-focus-research",
-     "screen-eye-strain-focus-break-20-20-20-research",
-     "reading-not-sinking-in-mind-wandering-recovery-research",
-     "mistake-after-mistake-focus-recovery-research",
-     "wfh-focus-slump-recovery-research",
-     "drowsy-driving-focus-recovery-research",
-     "cold-brain-fog-focus-recovery-research",
-     "period-pain-focus-recovery-research"
-    ]
-   }
-  },
-  {
-   "id": "procrastination",
-   "label": "先延ばし",
-   "cells": {
-    "why": [
-     "procrastination-genetics-change-research",
-     "motivation-before-action-research",
-     "procrastination-emotion-regulation",
-     "far-deadline-procrastination-why-research",
-     "quick-chores-first-precrastination-why-research",
-     "vague-task-procrastination-why-research",
-     "low-confidence-task-procrastination-why-research",
-     "tired-evening-procrastination-why-research",
-     "cant-decide-postpone-decision-why-research",
-     "night-owl-procrastination-why-research",
-     "intend-but-dont-start-procrastination-why-research",
-     "hard-thinking-task-procrastination-mental-effort-why-research"
-    ],
-    "judge": [
-     "perfectionism-procrastination-research",
-     "group-work-procrastination-research",
-     "work-better-under-pressure-procrastination-research",
-     "self-imposed-deadline-procrastination-research",
-     "pomodoro-technique-procrastination-research",
-     "willpower-limited-belief-procrastination-research",
-     "time-management-procrastination-research",
-     "ai-chatbot-procrastination-research",
-     "mindfulness-meditation-procrastination-research",
-     "website-blocker-app-procrastination-research",
-     "exercise-procrastination-research",
-     "strengths-based-training-procrastination-research"
-    ],
-    "how": [
-     "todo-list-reduce-procrastination-research",
-     "break-task-small-steps-procrastination-research",
-     "task-time-estimate-planning-fallacy-research",
-     "start-time-plan-procrastination-research",
-     "future-self-procrastination-how-research",
-     "boring-task-purpose-procrastination-research",
-     "procrastination-unpleasant-feelings-emotion-skills-research",
-     "woop-obstacle-plan-procrastination-how-research",
-     "phone-escape-procrastination-disconnect-how-research",
-     "procrastination-dread-benefit-subtask-reward-how-research",
-     "procrastination-one-task-single-session-how-research",
-     "procrastination-daily-prompt-reminder-how-research"
-    ],
-    "stuck": [
-     "procrastination-self-forgiveness-recovery-research",
-     "procrastination-self-help-not-working-research",
-     "procrastination-if-only-reflection-research",
-     "stressful-period-procrastination-recovery-research",
-     "missed-deadline-ask-extension-apology-research",
-     "reply-procrastination-reach-out-awkward-research",
-     "procrastination-shame-avoidance-guilt-recovery-research",
-     "health-checkup-appointment-procrastination-recovery-research",
-     "procrastination-adhd-worry-inattention-recovery-research",
-     "bedtime-procrastination-cant-stop-recovery-research",
-     "procrastination-night-before-all-nighter-recovery-research",
-     "unfinished-task-cant-switch-off-procrastination-recovery-research",
-     "kids-homework-procrastination-parent-nagging-recovery-research"
-    ]
-   }
-  },
-  {
-   "id": "mood",
-   "label": "気分・ストレス",
-   "cells": {
-    "why": [
-     "sleep-loss-anger-irritability",
-     "negative-events-memory-why-research",
-     "sunday-night-blues-why-research",
-     "hangry-hunger-irritability-why-research",
-     "rainy-day-low-mood-weather-why-research",
-     "online-meeting-fatigue-why-research",
-     "emotional-contagion-others-mood-why-research",
-     "night-worry-feels-bigger-why-research",
-     "winter-low-mood-seasonal-why-research",
-     "hot-day-irritability-heat-mood-why-research",
-     "waiting-for-results-anxiety-uncertainty-why-research",
-     "chewing-sounds-irritation-misophonia-why-research"
-    ],
-    "judge": [
-     "music-cortisol-stress-research",
-     "sensory-overload-self-care-research",
-     "solitude-affective-restoration",
-     "positive-thinking-backfire-research",
-     "stranger-small-talk-mood-research",
-     "social-media-break-wellbeing",
-     "upright-posture-mood-research",
-     "crying-mood-relief-research",
-     "slow-breathing-stress-research",
-     "anger-write-and-discard-paper",
-     "expressive-writing-mood-research",
-     "fake-smile-mood-facial-feedback",
-     "nature-time-stress-reduction",
-     "gratitude-journal-happiness-effect-size",
-     "cold-shower-mood-boost",
-     "venting-to-friends-corumination-research",
-     "hsp-highly-sensitive-person-research"
-    ],
-    "how": [
-     "short-exercise-mood-boost",
-     "affect-labeling-name-your-feelings-research",
-     "behavioral-activation-low-mood-steps-research",
-     "nervous-before-performance-say-excited-research",
-     "best-possible-self-writing-mood-research",
-     "anger-calm-down-self-distancing-research",
-     "progressive-muscle-relaxation-stress-steps-research",
-     "small-acts-of-kindness-mood-how-research",
-     "worry-time-postponement-how-research",
-     "savoring-good-moments-mood-how-research",
-     "dog-interaction-stress-relief-how-research",
-     "yoga-low-mood-how-often-how-research",
-     "gardening-stress-mood-how-often-how-research"
-    ],
-    "stuck": [
-     "self-compassion-recovery-speed",
-     "stop-ruminating-after-bad-day-research",
-     "rest-not-recovering-stress-research",
-     "relaxation-meditation-anxiety-backfire-research",
-     "embarrassing-mistake-spotlight-effect-recovery-research",
-     "positive-thinking-felt-worse-acceptance-research",
-     "sns-comparison-felt-worse-recovery-research",
-     "bad-news-anxiety-doomscrolling-recovery-research",
-     "left-out-ignored-ostracism-recovery-research",
-     "exercise-felt-worse-mood-intensity-recovery-research",
-     "breakup-heartbreak-recovery-research",
-     "lonely-even-with-people-recovery-research",
-     "pet-loss-grief-recovery-research"
-    ]
-   }
-  },
-  {
-   "id": "habit",
-   "label": "習慣",
-   "cells": {
-    "why": [
-     "why-habits-run-on-autopilot-research",
-     "new-habit-three-day-quit-why-research",
-     "habit-breaks-after-change-why-research",
-     "suppressing-urges-rebound-why-research",
-     "stress-tired-old-habits-why-research",
-     "phone-checking-habit-why-research",
-     "snack-cravings-time-place-cue-why-research",
-     "habits-spread-from-people-around-why-research",
-     "forced-habit-autonomous-motivation-why-research",
-     "good-habit-then-treat-self-licensing-why-research",
-     "quit-habit-comes-back-relapse-why-research",
-     "nail-biting-skin-picking-habit-why-research"
-    ],
-    "judge": [
-     "habit-tracking-boosts-continuation",
-     "habit-same-place-context-research",
-     "small-rewards-habit-research",
-     "morning-habit-time-of-day-research",
-     "commitment-contract-money-habit-research",
-     "gamification-points-badges-habit-research",
-     "habit-willpower-self-control-research",
-     "multiple-habits-at-once-research",
-     "wearable-activity-tracker-habit-research",
-     "habit-stacking-existing-routine-research",
-     "identity-based-habit-become-the-person-research",
-     "exercise-with-others-walking-group-habit-research"
-    ],
-    "how": [
-     "habit-meaning-vs-reward-research",
-     "habit-break-days-research",
-     "distance-temptation-self-control-research",
-     "habit-replacement-competing-response-research",
-     "urge-surfing-craving-wave-research",
-     "fresh-start-effect-habit-timing-research",
-     "daily-steps-how-many-research",
-     "if-then-planning-habit-research",
-     "goal-sharing-achievement-research",
-     "habit-formation-two-minute-rule",
-     "wellbeing-practice-habit-plan-how-research",
-     "habit-same-time-flexible-schedule-how-research",
-     "exercise-habit-preparation-start-cue-how-research"
-    ],
-    "stuck": [
-     "all-or-nothing-diet-slip-research",
-     "exercise-habit-lapse-restart-research",
-     "habit-forgetting-reminder-cue-research",
-     "habit-goal-lower-after-missed-days-research",
-     "habit-no-results-yet-want-to-quit-research",
-     "habit-streak-broken-restart-research",
-     "habit-bored-variety-restart-research",
-     "habit-reminder-notification-ignored-recovery-research",
-     "give-up-habit-goal-disengagement-recovery-research",
-     "habit-travel-trip-disrupted-restart-research",
-     "quit-smoking-failed-again-retry-research",
-     "muscle-soreness-new-exercise-habit-recovery-research",
-     "dry-month-alcohol-challenge-slip-recovery-research"
-    ]
-   }
-  },
-  {
-   "id": "memory",
-   "label": "記憶・学習",
-   "cells": {
-    "why": [
-     "why-we-forget-forgetting-curve-research",
-     "read-but-cant-remember-illusion-why-research",
-     "doorway-forgetting-why-research",
-     "similar-words-mix-up-interference-why-research",
-     "self-explanation-own-words-memory-why-research",
-     "names-hard-to-remember-why-research",
-     "just-heard-forget-short-term-memory-why-research",
-     "cramming-forget-fast-why-research",
-     "photo-taking-forget-memory-why-research",
-     "curiosity-easy-to-remember-why-research",
-     "earworm-song-stuck-in-head-why-research",
-     "no-memories-early-childhood-infantile-amnesia-why-research"
-    ],
-    "judge": [
-     "handwriting-vs-typing-memory",
-     "testing-effect-retrieval-practice",
-     "reading-aloud-memory-production-effect",
-     "sleep-timing-after-learning-memory-research",
-     "teaching-effect-memory-research",
-     "learning-styles-visual-auditory-memory-research",
-     "brain-training-games-memory-research",
-     "sleep-learning-listening-vocabulary-research",
-     "dha-omega3-supplement-memory-research",
-     "speed-reading-comprehension-research",
-     "ginkgo-biloba-supplement-memory-research",
-     "cocoa-chocolate-flavanol-memory-research"
-    ],
-    "how": [
-     "spacing-effect-review-timing",
-     "interleaved-practice-mixed-study-research",
-     "pretesting-before-study-memory-research",
-     "keyword-mnemonic-vocabulary-how-research",
-     "mind-map-memory-how-to-use-research",
-     "flashcards-how-to-use-research",
-     "drawing-effect-memory-how-research",
-     "memory-palace-method-of-loci-how-research",
-     "exercise-after-studying-memory-timing-how-research",
-     "gesture-vocabulary-memory-how-research",
-     "worked-examples-math-problem-solving-how-research",
-     "lecture-video-playback-speed-memory-how-research",
-     "study-scent-sleep-memory-odor-cue-how-research"
-    ],
-    "stuck": [
-     "wrong-answer-review-memory-research",
-     "tip-of-the-tongue-recall-research",
-     "exam-mind-blank-test-anxiety-recovery-research",
-     "exam-score-low-after-studying-review-strategy-research",
-     "all-nighter-study-forgot-recovery-research",
-     "forgotten-words-relearning-savings-research",
-     "cant-recall-imagine-study-place-context-reinstatement-research",
-     "study-feels-not-learning-effort-recovery-research",
-     "memory-loss-age-belief-confidence-recovery-research",
-     "summary-notes-forgot-recovery-research",
-     "memorized-but-cant-apply-transfer-recovery-research",
-     "bad-test-score-not-smart-growth-mindset-recovery-research",
-     "lock-door-checking-memory-distrust-recovery-research"
-    ]
-   }
-  },
-  {
-   "id": "food",
-   "label": "食べもの",
-   "cells": {
-    "why": [
-     "chocolate-seizing-water-why-research",
-     "microwave-melting-chocolate-why-research",
-     "dessert-stomach-full-why-research",
-     "ice-cream-headache-brain-freeze-why-research",
-     "onion-tears-why-research",
-     "asparagus-urine-smell-why-research",
-     "coffee-bowel-movement-urge-why-research",
-     "cold-stuffy-nose-food-tastes-bland-why-research",
-     "beans-gas-flatulence-why-research",
-     "spicy-food-sweat-runny-nose-why-research",
-     "broccoli-cabbage-bitter-taste-gene-why-research",
-     "stress-eating-sweets-why-research"
-    ],
-    "judge": [
-     "chocolate-acne-research",
-     "chocolate-nosebleed-research",
-     "chocolate-tooth-decay-research",
-     "expired-chocolate-best-before-research",
-     "melted-chocolate-bloom-safe-research",
-     "dropped-food-five-second-rule-research",
-     "msg-umami-seasoning-headache-research",
-     "coffee-dehydration-diuretic-hydration-research",
-     "late-night-eating-weight-gain-research",
-     "honey-cough-children-research",
-     "skipping-breakfast-weight-gain-research",
-     "milk-phlegm-mucus-cold-research"
-    ],
-    "how": [
-     "chocolate-overeating-stop-how-research",
-     "disliked-food-repeated-tasting-how-research",
-     "eating-too-fast-slow-down-how-research",
-     "food-order-vegetables-first-blood-sugar-how-research",
-     "milk-stomach-upset-lactose-how-research",
-     "leftover-curry-cooling-storage-how-research",
-     "water-before-meals-eat-less-how-research",
-     "iron-absorption-tea-timing-how-research",
-     "low-salt-taste-adaptation-how-research",
-     "produce-pesticide-washing-how-research",
-     "vegetable-cooking-nutrients-boil-steam-microwave-how-research",
-     "kids-cooking-together-vegetables-how-research",
-     "fried-potato-acrylamide-soaking-golden-how-research"
-    ],
-    "stuck": [
-     "dog-ate-chocolate-what-to-do-research",
-     "spicy-food-mouth-burn-milk-recovery-research",
-     "stomach-bug-recovery-fluids-food-research",
-     "overeating-full-stomach-walk-or-lie-down-research",
-     "garlic-breath-after-eating-recovery-research",
-     "overeating-next-day-weight-gain-recovery-research",
-     "hangover-next-morning-recovery-research",
-     "choking-back-blows-abdominal-thrusts-recovery-research",
-     "hiccups-after-eating-stop-recovery-research",
-     "fish-bone-stuck-throat-recovery-research",
-     "weight-regain-after-diet-recovery-research",
-     "fiber-not-working-constipation-kiwi-prunes-recovery-research",
-     "sugar-free-sweets-sugar-alcohol-diarrhea-recovery-research"
-    ]
-   }
-  }
- ],
- "research": []
+  "cols": [
+    {
+      "id": "why",
+      "label": "なぜ",
+      "q": "なぜそうなる？（体・脳・心の仕組み）"
+    },
+    {
+      "id": "judge",
+      "label": "効く？",
+      "q": "よく言われる方法・通説は効く？（研究で判定）"
+    },
+    {
+      "id": "how",
+      "label": "やり方",
+      "q": "研究で効果が示された、今日からできるやり方・タイミングは？"
+    },
+    {
+      "id": "stuck",
+      "label": "つまずいたら",
+      "q": "うまくいかない・続かない・失敗した後、どう立て直す？"
+    }
+  ],
+  "rows": [
+    {
+      "id": "sleep",
+      "label": "睡眠",
+      "cells": {
+        "why": [
+          "post-lunch-sleepiness-research",
+          "trying-hard-to-sleep-awake-research",
+          "night-waking-why-research",
+          "first-night-effect-sleep-why-research",
+          "early-bedtime-cant-sleep-forbidden-zone-why-research",
+          "hot-night-cant-sleep-why-research",
+          "weekend-sleep-in-monday-social-jetlag-why-research",
+          "early-morning-waking-aging-why-research",
+          "evening-nap-cant-sleep-sleep-pressure-why-research",
+          "sleep-loss-junk-food-cravings-why-research",
+          "train-car-sleepy-rocking-vibration-why-research",
+          "period-premenstrual-sleep-why-research"
+        ],
+        "judge": [
+          "bedtime-stretching-sleep-quality-research",
+          "daytime-light-exposure-night-sleep-research",
+          "alcohol-before-bed-sleep",
+          "snooze-alarm-research",
+          "sleep-regularity-same-time-research",
+          "bedtime-reading-paper-book-sleep",
+          "weighted-blanket-sleep-anxiety-research",
+          "white-noise-sleep-pink-noise-research",
+          "chamomile-herbal-tea-sleep-research",
+          "mouth-taping-sleep-research",
+          "magnesium-supplement-sleep-research",
+          "blue-light-glasses-sleep-research"
+        ],
+        "how": [
+          "bathing-before-bed-sleep-onset",
+          "evening-exercise-sleep-research",
+          "bedtime-todo-list-sleep",
+          "caffeine-hours-before-bed",
+          "nap-best-length",
+          "dark-bedroom-light-during-sleep-research",
+          "bedtime-racing-thoughts-imagery-shuffle-how-research",
+          "cold-feet-warming-sleep-onset-how-research",
+          "bedtime-music-sleep-how-research",
+          "dinner-timing-before-bed-sleep-how-research",
+          "sleep-restriction-time-in-bed-insomnia-how-research",
+          "toddler-bedtime-routine-sleep-how-research",
+          "evening-room-light-dim-before-bed-sleep-how-research"
+        ],
+        "stuck": [
+          "weekend-catchup-sleep-debt",
+          "morning-light-wake-up",
+          "bedtime-smartphone-sleep",
+          "night-awake-get-out-of-bed-stimulus-control-research",
+          "bad-night-sleep-next-night-recovery-research",
+          "jet-lag-recovery-light-timing-research",
+          "night-shift-sleep-recovery-research",
+          "nightmare-wake-up-imagery-rehearsal-recovery-research",
+          "sleep-tracker-bad-score-anxiety-recovery-research",
+          "nap-ruined-night-sleep-recovery-research",
+          "sleep-paralysis-kanashibari-recovery-research",
+          "partner-snoring-cant-sleep-recovery-research",
+          "night-leg-cramp-wake-up-recovery-research"
+        ]
+      }
+    },
+    {
+      "id": "focus",
+      "label": "集中力",
+      "cells": {
+        "why": [
+          "deadline-time-pressure-focus-research",
+          "mind-wandering-why-research",
+          "focus-fades-over-time-why-research",
+          "background-talk-distraction-why-research",
+          "worry-cant-concentrate-why-research",
+          "boring-task-cant-focus-boredom-why-research",
+          "dehydration-thirst-focus-why-research",
+          "watched-by-others-focus-social-facilitation-why-research",
+          "hunger-cant-focus-why-research",
+          "hay-fever-cant-focus-why-research",
+          "stuffy-room-cant-focus-ventilation-why-research",
+          "no-coffee-cant-focus-caffeine-withdrawal-why-research"
+        ],
+        "judge": [
+          "room-temperature-concentration-research",
+          "noise-cancelling-focus-research",
+          "indoor-plants-focus-concentration-research",
+          "skipping-breakfast-focus-research",
+          "white-noise-focus-research",
+          "chewing-gum-focus-research",
+          "sugar-focus-willpower-research",
+          "desk-clutter-focus-research",
+          "aroma-rosemary-focus-research",
+          "multitasking-focus-cost-research",
+          "short-meditation-focus-recovery",
+          "phone-notifications-off-focus",
+          "background-music-studying-focus",
+          "phone-presence-attention-brain-drain"
+        ],
+        "how": [
+          "walking-boosts-creativity",
+          "focus-microbreaks-pomodoro",
+          "exercise-before-study-focus-research",
+          "hard-work-time-of-day-chronotype-research",
+          "coffee-caffeine-focus-amount-timing-research",
+          "bright-light-daytime-focus-sleepiness-research",
+          "sitting-break-walk-focus-research",
+          "video-lecture-focus-quiz-breaks-how-research",
+          "email-chat-batching-focus-how-research",
+          "screen-reading-focus-paper-how-research",
+          "distraction-if-then-plan-study-focus-how-research",
+          "kids-movement-break-homework-focus-how-research"
+        ],
+        "stuck": [
+          "interrupted-work-refocus-research",
+          "sleep-deprived-next-day-focus-research",
+          "phone-break-focus-not-recovering-research",
+          "nature-break-focus-recovery-research",
+          "morning-grogginess-sleep-inertia-focus-recovery-research",
+          "sns-wasted-day-next-day-focus-research",
+          "screen-eye-strain-focus-break-20-20-20-research",
+          "reading-not-sinking-in-mind-wandering-recovery-research",
+          "mistake-after-mistake-focus-recovery-research",
+          "wfh-focus-slump-recovery-research",
+          "drowsy-driving-focus-recovery-research",
+          "cold-brain-fog-focus-recovery-research",
+          "period-pain-focus-recovery-research"
+        ]
+      }
+    },
+    {
+      "id": "procrastination",
+      "label": "先延ばし",
+      "cells": {
+        "why": [
+          "procrastination-genetics-change-research",
+          "motivation-before-action-research",
+          "procrastination-emotion-regulation",
+          "far-deadline-procrastination-why-research",
+          "quick-chores-first-precrastination-why-research",
+          "vague-task-procrastination-why-research",
+          "low-confidence-task-procrastination-why-research",
+          "tired-evening-procrastination-why-research",
+          "cant-decide-postpone-decision-why-research",
+          "night-owl-procrastination-why-research",
+          "intend-but-dont-start-procrastination-why-research",
+          "hard-thinking-task-procrastination-mental-effort-why-research"
+        ],
+        "judge": [
+          "perfectionism-procrastination-research",
+          "group-work-procrastination-research",
+          "work-better-under-pressure-procrastination-research",
+          "self-imposed-deadline-procrastination-research",
+          "pomodoro-technique-procrastination-research",
+          "willpower-limited-belief-procrastination-research",
+          "time-management-procrastination-research",
+          "ai-chatbot-procrastination-research",
+          "mindfulness-meditation-procrastination-research",
+          "website-blocker-app-procrastination-research",
+          "exercise-procrastination-research",
+          "strengths-based-training-procrastination-research"
+        ],
+        "how": [
+          "todo-list-reduce-procrastination-research",
+          "break-task-small-steps-procrastination-research",
+          "task-time-estimate-planning-fallacy-research",
+          "start-time-plan-procrastination-research",
+          "future-self-procrastination-how-research",
+          "boring-task-purpose-procrastination-research",
+          "procrastination-unpleasant-feelings-emotion-skills-research",
+          "woop-obstacle-plan-procrastination-how-research",
+          "phone-escape-procrastination-disconnect-how-research",
+          "procrastination-dread-benefit-subtask-reward-how-research",
+          "procrastination-one-task-single-session-how-research",
+          "procrastination-daily-prompt-reminder-how-research"
+        ],
+        "stuck": [
+          "procrastination-self-forgiveness-recovery-research",
+          "procrastination-self-help-not-working-research",
+          "procrastination-if-only-reflection-research",
+          "stressful-period-procrastination-recovery-research",
+          "missed-deadline-ask-extension-apology-research",
+          "reply-procrastination-reach-out-awkward-research",
+          "procrastination-shame-avoidance-guilt-recovery-research",
+          "health-checkup-appointment-procrastination-recovery-research",
+          "procrastination-adhd-worry-inattention-recovery-research",
+          "bedtime-procrastination-cant-stop-recovery-research",
+          "procrastination-night-before-all-nighter-recovery-research",
+          "unfinished-task-cant-switch-off-procrastination-recovery-research",
+          "kids-homework-procrastination-parent-nagging-recovery-research"
+        ]
+      }
+    },
+    {
+      "id": "mood",
+      "label": "気分・ストレス",
+      "cells": {
+        "why": [
+          "sleep-loss-anger-irritability",
+          "negative-events-memory-why-research",
+          "sunday-night-blues-why-research",
+          "hangry-hunger-irritability-why-research",
+          "rainy-day-low-mood-weather-why-research",
+          "online-meeting-fatigue-why-research",
+          "emotional-contagion-others-mood-why-research",
+          "night-worry-feels-bigger-why-research",
+          "winter-low-mood-seasonal-why-research",
+          "hot-day-irritability-heat-mood-why-research",
+          "waiting-for-results-anxiety-uncertainty-why-research",
+          "chewing-sounds-irritation-misophonia-why-research"
+        ],
+        "judge": [
+          "music-cortisol-stress-research",
+          "sensory-overload-self-care-research",
+          "solitude-affective-restoration",
+          "positive-thinking-backfire-research",
+          "stranger-small-talk-mood-research",
+          "social-media-break-wellbeing",
+          "upright-posture-mood-research",
+          "crying-mood-relief-research",
+          "slow-breathing-stress-research",
+          "anger-write-and-discard-paper",
+          "expressive-writing-mood-research",
+          "fake-smile-mood-facial-feedback",
+          "nature-time-stress-reduction",
+          "gratitude-journal-happiness-effect-size",
+          "cold-shower-mood-boost",
+          "venting-to-friends-corumination-research",
+          "hsp-highly-sensitive-person-research"
+        ],
+        "how": [
+          "short-exercise-mood-boost",
+          "affect-labeling-name-your-feelings-research",
+          "behavioral-activation-low-mood-steps-research",
+          "nervous-before-performance-say-excited-research",
+          "best-possible-self-writing-mood-research",
+          "anger-calm-down-self-distancing-research",
+          "progressive-muscle-relaxation-stress-steps-research",
+          "small-acts-of-kindness-mood-how-research",
+          "worry-time-postponement-how-research",
+          "savoring-good-moments-mood-how-research",
+          "dog-interaction-stress-relief-how-research",
+          "yoga-low-mood-how-often-how-research",
+          "gardening-stress-mood-how-often-how-research"
+        ],
+        "stuck": [
+          "self-compassion-recovery-speed",
+          "stop-ruminating-after-bad-day-research",
+          "rest-not-recovering-stress-research",
+          "relaxation-meditation-anxiety-backfire-research",
+          "embarrassing-mistake-spotlight-effect-recovery-research",
+          "positive-thinking-felt-worse-acceptance-research",
+          "sns-comparison-felt-worse-recovery-research",
+          "bad-news-anxiety-doomscrolling-recovery-research",
+          "left-out-ignored-ostracism-recovery-research",
+          "exercise-felt-worse-mood-intensity-recovery-research",
+          "breakup-heartbreak-recovery-research",
+          "lonely-even-with-people-recovery-research",
+          "pet-loss-grief-recovery-research"
+        ]
+      }
+    },
+    {
+      "id": "habit",
+      "label": "習慣",
+      "cells": {
+        "why": [
+          "why-habits-run-on-autopilot-research",
+          "new-habit-three-day-quit-why-research",
+          "habit-breaks-after-change-why-research",
+          "suppressing-urges-rebound-why-research",
+          "stress-tired-old-habits-why-research",
+          "phone-checking-habit-why-research",
+          "snack-cravings-time-place-cue-why-research",
+          "habits-spread-from-people-around-why-research",
+          "forced-habit-autonomous-motivation-why-research",
+          "good-habit-then-treat-self-licensing-why-research",
+          "quit-habit-comes-back-relapse-why-research",
+          "nail-biting-skin-picking-habit-why-research"
+        ],
+        "judge": [
+          "habit-tracking-boosts-continuation",
+          "habit-same-place-context-research",
+          "small-rewards-habit-research",
+          "morning-habit-time-of-day-research",
+          "commitment-contract-money-habit-research",
+          "gamification-points-badges-habit-research",
+          "habit-willpower-self-control-research",
+          "multiple-habits-at-once-research",
+          "wearable-activity-tracker-habit-research",
+          "habit-stacking-existing-routine-research",
+          "identity-based-habit-become-the-person-research",
+          "exercise-with-others-walking-group-habit-research"
+        ],
+        "how": [
+          "habit-meaning-vs-reward-research",
+          "habit-break-days-research",
+          "distance-temptation-self-control-research",
+          "habit-replacement-competing-response-research",
+          "urge-surfing-craving-wave-research",
+          "fresh-start-effect-habit-timing-research",
+          "daily-steps-how-many-research",
+          "if-then-planning-habit-research",
+          "goal-sharing-achievement-research",
+          "habit-formation-two-minute-rule",
+          "wellbeing-practice-habit-plan-how-research",
+          "habit-same-time-flexible-schedule-how-research",
+          "exercise-habit-preparation-start-cue-how-research"
+        ],
+        "stuck": [
+          "all-or-nothing-diet-slip-research",
+          "exercise-habit-lapse-restart-research",
+          "habit-forgetting-reminder-cue-research",
+          "habit-goal-lower-after-missed-days-research",
+          "habit-no-results-yet-want-to-quit-research",
+          "habit-streak-broken-restart-research",
+          "habit-bored-variety-restart-research",
+          "habit-reminder-notification-ignored-recovery-research",
+          "give-up-habit-goal-disengagement-recovery-research",
+          "habit-travel-trip-disrupted-restart-research",
+          "quit-smoking-failed-again-retry-research",
+          "muscle-soreness-new-exercise-habit-recovery-research",
+          "dry-month-alcohol-challenge-slip-recovery-research"
+        ]
+      }
+    },
+    {
+      "id": "memory",
+      "label": "記憶・学習",
+      "cells": {
+        "why": [
+          "why-we-forget-forgetting-curve-research",
+          "read-but-cant-remember-illusion-why-research",
+          "doorway-forgetting-why-research",
+          "similar-words-mix-up-interference-why-research",
+          "self-explanation-own-words-memory-why-research",
+          "names-hard-to-remember-why-research",
+          "just-heard-forget-short-term-memory-why-research",
+          "cramming-forget-fast-why-research",
+          "photo-taking-forget-memory-why-research",
+          "curiosity-easy-to-remember-why-research",
+          "earworm-song-stuck-in-head-why-research",
+          "no-memories-early-childhood-infantile-amnesia-why-research"
+        ],
+        "judge": [
+          "handwriting-vs-typing-memory",
+          "testing-effect-retrieval-practice",
+          "reading-aloud-memory-production-effect",
+          "sleep-timing-after-learning-memory-research",
+          "teaching-effect-memory-research",
+          "learning-styles-visual-auditory-memory-research",
+          "brain-training-games-memory-research",
+          "sleep-learning-listening-vocabulary-research",
+          "dha-omega3-supplement-memory-research",
+          "speed-reading-comprehension-research",
+          "ginkgo-biloba-supplement-memory-research",
+          "cocoa-chocolate-flavanol-memory-research"
+        ],
+        "how": [
+          "spacing-effect-review-timing",
+          "interleaved-practice-mixed-study-research",
+          "pretesting-before-study-memory-research",
+          "keyword-mnemonic-vocabulary-how-research",
+          "mind-map-memory-how-to-use-research",
+          "flashcards-how-to-use-research",
+          "drawing-effect-memory-how-research",
+          "memory-palace-method-of-loci-how-research",
+          "exercise-after-studying-memory-timing-how-research",
+          "gesture-vocabulary-memory-how-research",
+          "worked-examples-math-problem-solving-how-research",
+          "lecture-video-playback-speed-memory-how-research",
+          "study-scent-sleep-memory-odor-cue-how-research"
+        ],
+        "stuck": [
+          "wrong-answer-review-memory-research",
+          "tip-of-the-tongue-recall-research",
+          "exam-mind-blank-test-anxiety-recovery-research",
+          "exam-score-low-after-studying-review-strategy-research",
+          "all-nighter-study-forgot-recovery-research",
+          "forgotten-words-relearning-savings-research",
+          "cant-recall-imagine-study-place-context-reinstatement-research",
+          "study-feels-not-learning-effort-recovery-research",
+          "memory-loss-age-belief-confidence-recovery-research",
+          "summary-notes-forgot-recovery-research",
+          "memorized-but-cant-apply-transfer-recovery-research",
+          "bad-test-score-not-smart-growth-mindset-recovery-research",
+          "lock-door-checking-memory-distrust-recovery-research"
+        ]
+      }
+    },
+    {
+      "id": "food",
+      "label": "食べもの",
+      "cells": {
+        "why": [
+          "chocolate-seizing-water-why-research",
+          "microwave-melting-chocolate-why-research",
+          "dessert-stomach-full-why-research",
+          "ice-cream-headache-brain-freeze-why-research",
+          "onion-tears-why-research",
+          "asparagus-urine-smell-why-research",
+          "coffee-bowel-movement-urge-why-research",
+          "cold-stuffy-nose-food-tastes-bland-why-research",
+          "beans-gas-flatulence-why-research",
+          "spicy-food-sweat-runny-nose-why-research",
+          "broccoli-cabbage-bitter-taste-gene-why-research",
+          "stress-eating-sweets-why-research"
+        ],
+        "judge": [
+          "chocolate-acne-research",
+          "chocolate-nosebleed-research",
+          "chocolate-tooth-decay-research",
+          "expired-chocolate-best-before-research",
+          "melted-chocolate-bloom-safe-research",
+          "dropped-food-five-second-rule-research",
+          "msg-umami-seasoning-headache-research",
+          "coffee-dehydration-diuretic-hydration-research",
+          "late-night-eating-weight-gain-research",
+          "honey-cough-children-research",
+          "skipping-breakfast-weight-gain-research",
+          "milk-phlegm-mucus-cold-research"
+        ],
+        "how": [
+          "chocolate-overeating-stop-how-research",
+          "disliked-food-repeated-tasting-how-research",
+          "eating-too-fast-slow-down-how-research",
+          "food-order-vegetables-first-blood-sugar-how-research",
+          "milk-stomach-upset-lactose-how-research",
+          "leftover-curry-cooling-storage-how-research",
+          "water-before-meals-eat-less-how-research",
+          "iron-absorption-tea-timing-how-research",
+          "low-salt-taste-adaptation-how-research",
+          "produce-pesticide-washing-how-research",
+          "vegetable-cooking-nutrients-boil-steam-microwave-how-research",
+          "kids-cooking-together-vegetables-how-research",
+          "fried-potato-acrylamide-soaking-golden-how-research"
+        ],
+        "stuck": [
+          "dog-ate-chocolate-what-to-do-research",
+          "spicy-food-mouth-burn-milk-recovery-research",
+          "stomach-bug-recovery-fluids-food-research",
+          "overeating-full-stomach-walk-or-lie-down-research",
+          "garlic-breath-after-eating-recovery-research",
+          "overeating-next-day-weight-gain-recovery-research",
+          "hangover-next-morning-recovery-research",
+          "choking-back-blows-abdominal-thrusts-recovery-research",
+          "hiccups-after-eating-stop-recovery-research",
+          "fish-bone-stuck-throat-recovery-research",
+          "weight-regain-after-diet-recovery-research",
+          "fiber-not-working-constipation-kiwi-prunes-recovery-research",
+          "sugar-free-sweets-sugar-alcohol-diarrhea-recovery-research"
+        ]
+      }
+    }
+  ],
+  "research": []
 }
