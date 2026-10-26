@@ -6628,5 +6628,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stepping_Stones%2C_Chedworth_Stream_-_geograph.org.uk_-_3083125.jpg/500px-Stepping_Stones%2C_Chedworth_Stream_-_geograph.org.uk_-_3083125.jpg",
   "og": "https://mentalai.seadice.win/img/impostor-feelings-comparison-recover-og.jpg",
   "local": true
+ },
+ "ai-writing-confidence-not-ability-recover": {
+  "file": "File:Colored pencils chevre.jpg",
+  "src": "/img/ai-writing-confidence-not-ability-recover.webp",
+  "src640": "/img/ai-writing-confidence-not-ability-recover-sm.webp",
+  "w": 960,
+  "h": 718,
+  "alt": "並んだ色鉛筆",
+  "artist": "Chevre",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Colored_pencils_chevre.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Colored_pencils_chevre.jpg/960px-Colored_pencils_chevre.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Colored_pencils_chevre.jpg/500px-Colored_pencils_chevre.jpg",
+  "og": "https://mentalai.seadice.win/img/ai-writing-confidence-not-ability-recover-og.jpg",
+  "local": true
  }
 }

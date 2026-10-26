@@ -9861,5 +9861,73 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-ai-writing-confidence-not-ability-recover-confidence-offloading",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Boldt A, Gilbert SJ, \"Confidence guides spontaneous cognitive offloading\" (Cognitive Research: Principles and Implications, 2019)",
+    "sourceUrl": "https://doi.org/10.1186/s41235-019-0195-y",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-writing-confidence-not-ability-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "道具に頼るのは、力がないから？",
+        "body": "メモやAIについ頼ってしまうのは、自分の力が足りないからだと思いがちだよね。実際は何で頼る量が決まっているんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "363人の記憶の実験",
+        "body": "画面上の丸を順に動かしながら、特別な丸の行き先を覚えておく課題。丸を先に近くへ動かしておく「メモ代わり」の工夫ができ、使うと成績が上がったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "決め手は「自信のなさ」",
+        "body": "自分の記憶に自信がない人ほど、この工夫を多く使っていた。しかもその結びつきは、実際の成績を考えに入れても残っていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "文章やAIでも同じ？",
+        "body": "画面上の記憶の課題で、文章を書くことやAIの利用は調べていない。自信と頼り方の結びつきで、どちらが原因かまでは言えないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-ai-writing-confidence-not-ability-recover-predict-feedback",
+    "category": "AIとの付き合い方",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Ngai C, Gilbert SJ, \"Metacognitive training facilitates optimal cognitive offloading\" (Cognitive Research: Principles and Implications, 2026)",
+    "sourceUrl": "https://doi.org/10.1186/s41235-026-00714-0",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-writing-confidence-not-ability-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く悩み",
+        "title": "頼りすぎ・頼らなさすぎ",
+        "body": "道具に任せすぎる人もいれば、任せなさすぎる人もいる。自分の力の見積もりが、実際とずれていることが原因のひとつらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "予想して、答え合わせを5回",
+        "body": "英国の大学がオンラインで集めた成人164人と416人の実験。練習で5回だけ「どのくらい覚えていられそうか」を予想し、そのたびに実際の結果と照らし合わせたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "自信が実際の力に近づいた",
+        "body": "この練習をした組では、自信が実際の力に近づき、道具を使うかどうかの選び方もちょうどよい方向に変わった。予想するだけで答え合わせをしない組では、変化ははっきりしなかったよ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どのくらい続く？",
+        "body": "記憶の課題での結果で、文章やAIの場面にあてはまるかはわからない。効果が何日続くかも調べられていないし、過去の似た研究では行動が変わらなかったものもあるんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
