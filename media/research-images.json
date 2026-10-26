@@ -5914,5 +5914,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/2014_Westminster_Kennel_Club_Dog_Show_%2812451664855%29.jpg/500px-2014_Westminster_Kennel_Club_Dog_Show_%2812451664855%29.jpg",
   "og": "https://research.seadice.win/img/pet-loss-grief-recovery-research.jpg",
   "local": true
+ },
+ "study-scent-sleep-memory-odor-cue-how-research": {
+  "file": "File:Dried rose petals.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dried_rose_petals.jpg/960px-Dried_rose_petals.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dried_rose_petals.jpg/500px-Dried_rose_petals.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "乾燥させたバラの花びら",
+  "artist": "Fumikas Sagisavas",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Dried_rose_petals.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

@@ -11022,5 +11022,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-study-scent-sleep-memory-odor-cue-how-research-history-lesson",
+    "category": "記憶・学習",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Vidal V, et al., \"Odor cueing during sleep improves consolidation of a history lesson in a school setting\" (Scientific Reports, 2022)",
+    "sourceUrl": "https://doi.org/10.1038/s41598-022-14588-x",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/study-scent-sleep-memory-odor-cue-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "研究紹介",
+        "title": "授業の香りを、寝ている間にもう一度",
+        "body": "覚えたときと同じ香りを寝ている間にかぐと、記憶が残りやすいという研究がある。それを実際の高校の授業で試した実験があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ココナツの香りで歴史の授業",
+        "body": "17〜18歳の高校生が、ココナツの香りの中で20分の歴史の授業を受けた。その夜、くじで半分は同じココナツ、半分は別のスミレの香りを、寝始めから1.5時間流したよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "1週間後の落ち方に大きな差",
+        "body": "1週間後のテストで、1日目と比べた正答率の下がり方は、同じ香りの組で6.2%、別の香りの組で33.7%。一晩だけの香りでも差が出たらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "人数が少なく、香りも入れ替えていない",
+        "body": "最後まで参加したのは45人と少ない。2つの香りを入れ替えて確かめていないから、香りの種類そのものの影響も残る。大人の研究では、条件によって効果が出ないこともあったよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
