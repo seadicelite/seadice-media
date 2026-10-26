@@ -9725,5 +9725,73 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-phone-reduction-attention-recover-sns-week",
+    "category": "考える力・集中",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "van Wezel MMC, Abrahamse EL, Vanden Abeele MMP, \"Does a 7-day restriction on the use of social media improve cognitive functioning and emotional well-being? Results from a randomized controlled trial\" (Addictive Behaviors Reports, 2021)",
+    "sourceUrl": "https://doi.org/10.1016/j.abrep.2021.100365",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/phone-reduction-attention-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "SNSを減らせば集中できる？",
+        "body": "SNSを見る時間を減らせば、落ちた集中力はすぐ戻る。そんなイメージ、あるよね。実際に1週間減らしてみたら、どうなるんだろう？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "大学生76人で1週間",
+        "body": "オランダの大学生76人が、4つのSNS・動画アプリの時間を1週間減らした実験。一方は50%、もう一方は10%減らす設定にして、前後で注意のテストを受けてもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "テストの成績は変わらず",
+        "body": "注意のテストの成績は、どちらの組も1週間後に変わっていなかった。でも「うっかりミスをした」「注意がそれた」という自己評価は、組に関係なく減っていたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "比較がうまくいかなかった",
+        "body": "10%の組も実際は平均38%減らしてしまい、2組の比べ方が崩れた。人数も少なく、もっと長く、もっと大きく減らしたらどうなるかは、この実験ではわからないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-phone-reduction-attention-recover-mobile-internet-block",
+    "category": "考える力・集中",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Castelo N, Kushlev K, Ward AF, Esterman M, Reiner PB, \"Blocking mobile internet on smartphones improves sustained attention, mental health, and subjective well-being\" (PNAS Nexus, 2025)",
+    "sourceUrl": "https://doi.org/10.1093/pnasnexus/pgaf017",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://mentalai.seadice.win/phone-reduction-attention-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "調べたこと",
+        "title": "スマホのネットを2週間オフ",
+        "body": "米国とカナダのiPhone利用者467人が、スマホのWi-Fiとモバイル通信を2週間止めた実験。電話とSMS、パソコンのネットは使えるままにしたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "注意を保つ力が少し上がった",
+        "body": "止めた組では、単調な課題に注意を保つテストの正確さが少し上がった。上がった人は58.5%。1日のスマホ時間は平均314分から161分に減っていたらしい。"
+      },
+      {
+        "stage": "意外だったこと",
+        "title": "続けられた人は4人に1人",
+        "body": "2週間のうち10日以上止め続けられた人は25.5%だけ。それでも、続かなかった人も含めた分析で、注意の改善は見られたんだ。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "期待の影響もありうる",
+        "body": "参加者は実験の目的を知っていて、スマホを減らしたい人が多かった。止めるのをやめたあとも注意の力が保たれるかは、はっきり示されていないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

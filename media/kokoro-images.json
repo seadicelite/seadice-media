@@ -6630,8 +6630,8 @@
  },
  "empty-nest-loneliness-recover": {
   "file": "File:Empty nest, Torre - geograph.org.uk - 5474242.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Empty_nest%2C_Torre_-_geograph.org.uk_-_5474242.jpg/960px-Empty_nest%2C_Torre_-_geograph.org.uk_-_5474242.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Empty_nest%2C_Torre_-_geograph.org.uk_-_5474242.jpg/500px-Empty_nest%2C_Torre_-_geograph.org.uk_-_5474242.jpg",
+  "src": "/img/empty-nest-loneliness-recover.jpg",
+  "src640": "/img/empty-nest-loneliness-recover-sm.jpg",
   "w": 960,
   "h": 831,
   "alt": "木の枝にある空の鳥の巣",
@@ -6639,6 +6639,24 @@
   "license": "CC BY-SA 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Empty_nest,_Torre_-_geograph.org.uk_-_5474242.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Empty_nest%2C_Torre_-_geograph.org.uk_-_5474242.jpg/960px-Empty_nest%2C_Torre_-_geograph.org.uk_-_5474242.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Empty_nest%2C_Torre_-_geograph.org.uk_-_5474242.jpg/500px-Empty_nest%2C_Torre_-_geograph.org.uk_-_5474242.jpg",
+  "og": "https://mentalai.seadice.win/img/empty-nest-loneliness-recover.jpg",
+  "local": true
+ },
+ "phone-reduction-attention-recover": {
+  "file": "File:SCP Foundation - Just doing my paperwork.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SCP_Foundation_-_Just_doing_my_paperwork.jpg/960px-SCP_Foundation_-_Just_doing_my_paperwork.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SCP_Foundation_-_Just_doing_my_paperwork.jpg/500px-SCP_Foundation_-_Just_doing_my_paperwork.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "机の上のノートとペン",
+  "artist": "SCP Foundation - Scientific Department",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:SCP_Foundation_-_Just_doing_my_paperwork.jpg",
   "source_label": "Wikimedia Commons"
  }
 }
