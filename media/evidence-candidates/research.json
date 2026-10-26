@@ -11056,5 +11056,73 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-night-leg-cramp-wake-up-recovery-research-stockings",
+    "category": "睡眠",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kuusipalo A et al., \"Secondary prevention of leg cramps using compression stockings or magnesium supplements: a three-arm randomized clinical trial\" (Trials, 2026)",
+    "sourceUrl": "https://doi.org/10.1186/s13063-025-09370-z",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/night-leg-cramp-wake-up-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "夜中に足がつるの、防げないの？",
+        "body": "寝ている間にふくらはぎがつって飛び起きる。マグネシウムやストレッチがよく勧められるけど、ほかに手はないのか気になるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "121人を3つの組に分けた試験",
+        "body": "フィンランドで、足がよくつる50〜85歳の121人を、ひざ下の着圧ストッキング・マグネシウム・偽薬の3組に分けて、4週間試したんだ。ストッキングは朝から寝るまではく。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "ストッキング組は週4回→2回",
+        "body": "ストッキング組は、足がつる回数が中央値で週4回から2回に減って、偽薬組より週1.43回少なかった。夜中に目が覚める回数も減った。マグネシウム組は偽薬と差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "思い込みの影響は消せていない",
+        "body": "ストッキングははいているのが自分でわかるので、思い込みの影響は消せていない。試験はまだこれ1つだけで、42人中4人は湿疹やかゆみでやめていた。"
+      }
+    ],
+    "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-night-leg-cramp-wake-up-recovery-research-magnesium",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Garrison SR et al., \"Magnesium for skeletal muscle cramps\" (Cochrane Database of Systematic Reviews, 2020)",
+    "sourceUrl": "https://doi.org/10.1002/14651858.CD009402.pub3",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/night-leg-cramp-wake-up-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "足がつるならマグネシウム？",
+        "body": "「こむら返りにはマグネシウム」とよく聞くよね。サプリを飲んでいる人も多いけど、本当に回数は減るのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "11の試験・735人をまとめた",
+        "body": "コクランというレビューで、マグネシウムを試した11の試験、合わせて735人分の結果をまとめて調べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "差は週0.18回だけ",
+        "body": "原因のわからないこむら返りがある主に60代の人では、偽薬と比べた差は1週間あたり0.18回で、意味のある差ではなかった。著者は高齢者の予防には効きそうにないとまとめている。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "妊娠中のこむら返りは別",
+        "body": "妊娠中のこむら返りを調べた試験は結果が分かれていて、まだ結論が出ていない。運動中につる場合の試験も見つからなかったらしい。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

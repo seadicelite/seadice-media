@@ -5932,5 +5932,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dried_rose_petals.jpg/500px-Dried_rose_petals.jpg",
   "og": "https://research.seadice.win/img/study-scent-sleep-memory-odor-cue-how-research.jpg",
   "local": true
+ },
+ "night-leg-cramp-wake-up-recovery-research": {
+  "file": "File:Bed in Seattle hotel.jpg",
+  "src": "/img/night-leg-cramp-wake-up-recovery-research.jpg",
+  "src640": "/img/night-leg-cramp-wake-up-recovery-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "枕と毛布のあるベッド",
+  "artist": "Liz Lawley",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bed_in_Seattle_hotel.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bed_in_Seattle_hotel.jpg/960px-Bed_in_Seattle_hotel.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bed_in_Seattle_hotel.jpg/500px-Bed_in_Seattle_hotel.jpg",
+  "og": "https://research.seadice.win/img/night-leg-cramp-wake-up-recovery-research.jpg",
+  "local": true
  }
 }
