@@ -5570,5 +5570,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eraser_%282809542009%29.jpg/500px-Eraser_%282809542009%29.jpg",
   "og": "https://dokugaku.seadice.win/img/deliberate-errors-study-how-to.jpg",
   "local": true
+ },
+ "chunking-long-sequences-how-to": {
+  "file": "File:Abacus of State Department Store.jpg",
+  "src": "/img/chunking-long-sequences-how-to.jpg",
+  "src640": "/img/chunking-long-sequences-how-to-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "そろばん",
+  "artist": "K.F.",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Abacus_of_State_Department_Store.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Abacus_of_State_Department_Store.jpg/960px-Abacus_of_State_Department_Store.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Abacus_of_State_Department_Store.jpg/500px-Abacus_of_State_Department_Store.jpg",
+  "og": "https://dokugaku.seadice.win/img/chunking-long-sequences-how-to.jpg",
+  "local": true
  }
 }

@@ -10969,5 +10969,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-chunking-long-sequences-how-to-memory-training-transfer",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Norris et al., \"Can short-term memory be trained?\" (Memory & Cognition, 2019)",
+    "sourceUrl": "https://doi.org/10.3758/s13421-019-00901-z",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://dokugaku.seadice.win/chunking-long-sequences-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "記憶力は鍛えれば上がる？",
+        "body": "数字を覚える練習を続ければ、頭に一度に置ける量そのものが増えて、何でも覚えやすくなる…と思いたくなるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "80人で練習の効果を確かめた",
+        "body": "18〜35歳の80人をグループに分けて、約20回、数字の並びを覚える練習などをしてもらい、練習していない記憶テストにも効くかを調べた研究があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "伸びたのは練習した材料だけ",
+        "body": "数字の記憶は伸びたけど、耳で聞く数字やアルファベットには広がらなかった。昔、数字を79個まで言えるようになった学生も、アルファベットは7個のままだったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "長く練習したら？",
+        "body": "練習は2週間ほどで、数字と文字の並びだけで調べた結果。もっと長い練習や、勉強の内容そのものの覚えやすさにどう効くかは、この研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
