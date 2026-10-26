@@ -9997,5 +9997,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-screen-fatigue-walk-or-rest-break-walk-vs-eyes-closed",
+    "category": "疲れ・休み方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Tu N, et al., \"Effects of meditation or walking as a microbreak on fatigue recovery during simulated air traffic control tasks\" (Industrial Health, 2026)",
+    "sourceUrl": "https://doi.org/10.2486/indhealth.2025-0041",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/screen-fatigue-walk-or-rest-break/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "10分休むなら、座る？歩く？",
+        "body": "画面の作業で頭が疲れたとき、目を閉じて座るのと、席を立って歩くの、どっちがいいんだろう？これを比べた実験が筑波大学のチームから出ているよ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "30分の作業＋10分休憩＋30分",
+        "body": "管制の経験がない20〜35歳の44人が、航空管制をまねた画面の作業をした。間の10分を、目を閉じて呼吸に集中する組、廊下を歩く組、休まない組にくじで分けたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "歩いた組はミスが増えなかった",
+        "body": "後半に重大なミスが前半より増えた人は、歩いた組で13人中0人、目を閉じた組で14人中8人、休まなかった組で14人中10人。でも「疲れた感じ」は休み方で差がなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ほかの作業でも同じ？",
+        "body": "1つの組は15人前後で、作業も管制をまねた単純なもの。文章を書くなど、ふだんの仕事でも同じになるかはまだわからない。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "slug": "screen-fatigue-walk-or-rest-break",
+    "category": "AI疲れ・情報疲れ",
+    "type": "guide",
+    "stage": "対処する",
+    "date": "2026-10-26",
+    "title": "画面の作業で頭が疲れたら、10分の休憩は目を閉じる？歩く？筑波大学のチームの44人の実験では、歩いた組だけ後半に重大なミスが増えた人がいなかったが、疲れの感じ方は休み方で差がなかった",
+    "summary": "10分歩いた組は後半の重大なミスが増えにくかったが、疲れの感じ方は目を閉じた組と同じ。短い休憩の研究と、画面から離れる休み方を整理"
+  },
+  {
     "slug": "comparison-low-night-sleep-reset",
     "category": "比べて落ち込む",
     "type": "guide",

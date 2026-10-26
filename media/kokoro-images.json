@@ -6679,5 +6679,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Messy_bed_and_closed_blinds_%28Unsplash%29.jpg/500px-Messy_bed_and_closed_blinds_%28Unsplash%29.jpg",
   "og": "https://mentalai.seadice.win/img/comparison-low-night-sleep-reset-og.jpg",
   "local": true
+ },
+ "screen-fatigue-walk-or-rest-break": {
+  "file": "File:Enryaku-ji Extending Passage.jpg",
+  "src": "/img/screen-fatigue-walk-or-rest-break.webp",
+  "src640": "/img/screen-fatigue-walk-or-rest-break-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "木々に囲まれた寺の渡り廊下とベンチ",
+  "artist": "Oilstreet at Japanese Wikipedia",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Enryaku-ji_Extending_Passage.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Enryaku-ji_Extending_Passage.jpg/960px-Enryaku-ji_Extending_Passage.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Enryaku-ji_Extending_Passage.jpg/500px-Enryaku-ji_Extending_Passage.jpg",
+  "og": "https://mentalai.seadice.win/img/screen-fatigue-walk-or-rest-break-og.jpg",
+  "local": true
  }
 }
