@@ -11391,5 +11391,73 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-exercise-habit-preparation-start-cue-how-research-instigation-habit",
+    "category": "習慣",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Phillips LA, Gardner B, \"Habitual exercise instigation (vs. execution) predicts healthy adults' exercise frequency\" (Health Psychology, 2016)",
+    "sourceUrl": "https://doi.org/10.1037/hea0000249",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/exercise-habit-preparation-start-cue-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "運動の「何」を習慣にすればいい？",
+        "body": "運動を習慣にしたいとき、メニューを体に覚えさせればいいのかな。それとも別の部分が大事なのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "「始める」と「こなす」を分けて調べた",
+        "body": "健康な大人123人に、運動を始める部分の習慣と、始めた後の動きが自動的に進む習慣の強さを答えてもらい、1か月間の運動を毎日記録してもらった研究があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "回数を予測したのは「始める習慣」だけ",
+        "body": "運動の回数を独自に予測したのは、始める習慣の強さだけだった。毎回同じメニューをこなすことや、動きの自動化は回数を予測しなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "調査で、実験ではない",
+        "body": "アンケートと日記の調査で、123人という小さめの研究。始める習慣を育てれば運動が増えるかは、別の試験で確かめる必要があるよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-exercise-habit-preparation-start-cue-how-research-preparation-habit-trial",
+    "category": "習慣",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Phillips LA, More KR, Lamoureux NR, et al., \"A full-factorial test of motivational and volitional intervention strategies for promoting exercise habit formation and exercise maintenance among new users of an online exercise class platform\" (Applied Psychology: Health and Well-Being, 2025)",
+    "sourceUrl": "https://doi.org/10.1111/aphw.12597",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/exercise-habit-preparation-start-cue-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "運動はやる気しだい？",
+        "body": "運動を続けるには、まずやる気を高めることが大事だと思いがちだよね。でも1年間追った試験では、少し意外な結果が出たらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "751人に3つの練習を組み合わせた",
+        "body": "オンライン運動クラスの新しい利用者751人を、「やる気を高める」「準備を習慣にする」「始めることを習慣にする」練習の組み合わせに割り振り、1年間追ったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "効いたのは「準備の習慣」だけ",
+        "body": "運動への参加に効果が見られたのは、バッグを詰めるような準備の計画を立てて頭の中で練習した人だけで、クラスの参加回数が多めだった。やる気を高める練習には効果が見られなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "効果はとても小さい",
+        "body": "効果の大きさはどれもとても小さく、途中で回答しなくなった人も多かった。参加者は91%が女性で、学歴の高い人が中心。ほかの人にも当てはまるかはまだわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
