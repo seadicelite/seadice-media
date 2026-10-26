@@ -11323,5 +11323,73 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-kids-homework-procrastination-parent-nagging-recovery-research-homework-help-meta",
+    "category": "先延ばし",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Jiang Q, Shi L, Zheng D, Mao W, \"Parental homework involvement and students' mathematics achievement: a meta-analysis\" (Frontiers in Psychology, 2023)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2023.1218534",
+    "studyType": "メタ分析",
+    "articleUrl": "https://research.seadice.win/kids-homework-procrastination-parent-nagging-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "宿題は親が見てあげるほどいい？",
+        "body": "子どもの宿題、親がしっかり見てあげたほうが成績は上がりそうな気がするよね。でも研究を集めてみると、関わり方によって話が変わるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "20の研究・1万6千人をまとめた",
+        "body": "2023年のメタ分析は、親の宿題への関わり方と数学の成績を調べた20の研究、41の結果、1万6,338人をまとめた。支える関わり方と、命令や監視のような入り込みすぎる関わり方に分けて比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "支え方はプラス、入り込みすぎはマイナス",
+        "body": "支える関わり方は成績とわずかにプラス（r=0.076）、入り込みすぎはマイナス（r=−0.153）の関係だった。支え方の中で一番プラスだったのは、子どもの考えを尊重する支え方（r=0.133）。中身を教えることには、はっきりした関係が見られなかった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "関係であって、原因とは限らない",
+        "body": "まとめたのは関係を見た研究で、効果の大きさも小さめ。成績が低い子ほど親が口を出しやすい、という逆向きの可能性もある。関わり方を変えると成績が上がるかは、実験で確かめる必要があるよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-kids-homework-procrastination-parent-nagging-recovery-research-helicopter-parenting",
+    "category": "先延ばし",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zhang R, Zhang H, Guo X, Wang J, Zhao Z, Feng L, \"Relationship between Helicopter Parenting and Chinese Elementary School Child Procrastination: A Mediated Moderation Model\" (International Journal of Environmental Research and Public Health, 2022)",
+    "sourceUrl": "https://doi.org/10.3390/ijerph192214892",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/kids-homework-procrastination-parent-nagging-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "言うほど、子どもは動かなくなる？",
+        "body": "「宿題やったの？」と何度言っても、子どもは「あとで」。親が世話を焼くほど、むしろ先延ばしが増えるなんてことはあるのかな。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "小学生562人に聞いた",
+        "body": "中国の小学1〜6年生562人とその親を調べた研究がある。子どもに、親が自分のことに入り込みすぎると感じるか、自分をコントロールする力、先延ばしの多さを答えてもらったよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "入り込みすぎると感じる子ほど先延ばしが多い",
+        "body": "親が入り込みすぎると感じる子ほど先延ばしが多い傾向だった（r=0.409）。そうした子は自分をコントロールする力が弱く（r=−0.331）、その力の弱さが関係の一部を説明していたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どちらが先かはわからない",
+        "body": "一時点の調査で、回答はどれも子ども本人のもの。先延ばしする子だから親が口を出す、という逆向きも考えられる。1つの地域の小学生の結果でもあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
