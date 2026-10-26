@@ -6662,5 +6662,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Three_lamps_on_a_veranda_in_Brastad_2.jpg/500px-Three_lamps_on_a_veranda_in_Brastad_2.jpg",
   "og": "https://mentalai.seadice.win/img/lonely-night-streamer-comfort-og.jpg",
   "local": true
+ },
+ "comparison-low-night-sleep-reset": {
+  "file": "File:Messy bed and closed blinds (Unsplash).jpg",
+  "src": "/img/comparison-low-night-sleep-reset.webp",
+  "src640": "/img/comparison-low-night-sleep-reset-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "ブラインドを閉じた部屋のベッド",
+  "artist": "Quin Stevenson qstevenson",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Messy_bed_and_closed_blinds_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Messy_bed_and_closed_blinds_%28Unsplash%29.jpg/960px-Messy_bed_and_closed_blinds_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Messy_bed_and_closed_blinds_%28Unsplash%29.jpg/500px-Messy_bed_and_closed_blinds_%28Unsplash%29.jpg",
+  "og": "https://mentalai.seadice.win/img/comparison-low-night-sleep-reset-og.jpg",
+  "local": true
  }
 }

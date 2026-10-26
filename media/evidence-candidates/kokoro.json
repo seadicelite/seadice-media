@@ -9963,5 +9963,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-comparison-low-night-sleep-reset-sleep-on-it",
+    "category": "比べて落ち込む",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Lipinska G, et al., \"Preferential consolidation of emotional reactivity during sleep: A systematic review and meta-analysis\" (Frontiers in Behavioral Neuroscience, 2022)",
+    "sourceUrl": "https://doi.org/10.3389/fnbeh.2022.976047",
+    "studyType": "メタ分析",
+    "articleUrl": "https://mentalai.seadice.win/comparison-low-night-sleep-reset/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "いやなことは寝れば忘れる？",
+        "body": "落ち込んだ日は「寝ればリセット」ってよく言うよね。眠っている間に、いやな気持ちが整理されるという考えもあるらしい。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "24件の実験をまとめた",
+        "body": "眠った人と起きていた人で、いやな画像への反応がどう変わるかを比べた24件の実験を、2022年にまとめた研究があるよ。対象は健康な人。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "軽くなったのは17件中3件",
+        "body": "いやな画像の受け止めを調べた17件のうち、眠ったあとに軽くなっていたのは3件だけ。ひと晩眠ったあとは、むしろ「ざわつく」度合いの自己評価が上がっていた。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "自分の出来事でも同じ？",
+        "body": "ほとんどが画像を見せる実験で、自分に起きた落ち込みで確かめた研究は少ない。研究ごとに方法もばらばらで、著者らも方法をそろえた研究が必要だとしている。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
