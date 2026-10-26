@@ -11071,5 +11071,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-spaced-rereading-when-to-reread-how-to-reread-schedule",
+    "category": "勉強・学び",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Greving & Richter, \"Distributed Learning in the Classroom: Effects of Rereading Schedules Depend on Time of Test\" (Frontiers in Psychology, 2018)",
+    "sourceUrl": "https://doi.org/10.3389/fpsyg.2018.02517",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/spaced-rereading-when-to-reread-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "続けて2回読めば覚える？",
+        "body": "教科書は読み終えたらすぐもう1回読む。手応えがあるから、これで覚えた気がするよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "すぐ読むか、1週間あけるか",
+        "body": "ドイツの中学1年生191人が、細菌の細胞の文章を続けて2回か、1週間あけて2回読んだ。テストは数分後か1週間後。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "すぐ読んだ組は1週間で半分に",
+        "body": "数分後のテストは続けて読んだ組が上。でも1週間で思い出せる量が約50％減った。あけた組の減り方は約10％だった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "あけた方が上とまでは言えない",
+        "body": "1週間後の成績は2つの組で同じだった。大学生の実験ではあけた方が上回ったけど、中学生の教室では差が出なかったんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
