@@ -1,5 +1,14 @@
 [
  {
+  "id": "aidagara",
+  "term": "間柄",
+  "en": "Aidagara (betweenness)",
+  "def": "人と人が向き合うときに生まれる関係そのものを指す、和辻哲郎の言葉です。和辻は、個人であることと社会的であることの両方を併せ持つ人間のあり方を、この間柄から説明しました。",
+  "slugs": [
+   "watsuji-aidagara-betweenness"
+  ]
+ },
+ {
   "id": "aku-no-chinpusa",
   "term": "悪の陳腐さ",
   "en": "Banality of evil",
