@@ -11192,5 +11192,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-sugar-free-sweets-sugar-alcohol-diarrhea-recovery-research-xylitol-erythritol",
+    "category": "食べもの",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Storey D et al., \"Gastrointestinal tolerance of erythritol and xylitol ingested in a liquid\" (European Journal of Clinical Nutrition, 2007)",
+    "sourceUrl": "https://doi.org/10.1038/sj.ejcn.1602532",
+    "studyType": "ランダム化比較試験",
+    "articleUrl": "https://research.seadice.win/sugar-free-sweets-sugar-alcohol-diarrhea-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "シュガーレスでお腹がゆるくなるのはなぜ？",
+        "body": "糖質オフのお菓子を食べすぎてお腹がゴロゴロ。原因は甘みの「糖アルコール」らしい。でも種類によって、お腹への出やすさは同じなのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "2種類を量を変えて飲み比べ",
+        "body": "英国の18〜24歳の64人が、キシリトールかエリスリトールを20g・35g・50g、または砂糖45gを水に溶かして1回で飲んだ。1週間ずつあけ、中身は本人も研究者も知らない形だよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "キシリトールのほうが出やすかった",
+        "body": "キシリトールは35gで水っぽい便の回数が増え、50gでは吐き気やお腹の張りも増えた。エリスリトールは20gと35gでは症状が増えず、50gで吐き気とゴロゴロが増えただけだった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "お菓子で食べたらどうなる？",
+        "body": "水に溶かして一度に飲んだ実験で、対象は若い大人だけ。お菓子として少しずつ食べた場合や、子ども・お腹の弱い人で同じ結果になるかは、この研究だけではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
