@@ -10133,5 +10133,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-ai-anxious-self-compassion-writing-ai-feedback",
+    "category": "AIとの付き合い方",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Kishimoto T, Hao X, Chang T, Luo Z, \"Single online self-compassion writing intervention reduces anxiety: With the feedback of ChatGPT\" (Internet Interventions, 2025)",
+    "sourceUrl": "https://doi.org/10.1016/j.invent.2025.100810",
+    "studyType": "実験",
+    "articleUrl": "https://mentalai.seadice.win/ai-anxious-self-compassion-writing/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "不安なとき、AIはどう使う？",
+        "body": "モヤモヤした夜、AIに「どうしたらいい？」と聞きたくなるよね。中国の研究チームは、先に自分で書いて、AIには感想をもらう使い方を試したよ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "自分にやさしい文章を10分",
+        "body": "98人が嫌な出来事を書いたあと、友だちにかけるような言葉を自分に向けて10分書いた。一部の人は、その文章にAIから共感の感想をもらったんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "AIの返事あり組で不安が下がった",
+        "body": "AIの感想をもらった組は、不安の点数が平均37.5点から32.2点に下がった。書くだけの組は37.8点から37.0点で、はっきりした変化はなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "AIの返事のおかげかは未確定",
+        "body": "書くだけの組との差は統計的にはっきりせず、組もくじ引きで分けていない。参加者は返事がAIからだと知らなかったし、測ったのは1回の直後だけ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
