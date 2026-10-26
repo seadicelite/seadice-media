@@ -6627,5 +6627,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Yoga_Mat_Made_of_Carpet_Underlay.jpg/500px-Yoga_Mat_Made_of_Carpet_Underlay.jpg",
   "og": "https://mentalai.seadice.win/img/pilates-desk-fatigue-recover.jpg",
   "local": true
+ },
+ "empty-nest-loneliness-recover": {
+  "file": "File:Empty nest, Torre - geograph.org.uk - 5474242.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Empty_nest%2C_Torre_-_geograph.org.uk_-_5474242.jpg/960px-Empty_nest%2C_Torre_-_geograph.org.uk_-_5474242.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Empty_nest%2C_Torre_-_geograph.org.uk_-_5474242.jpg/500px-Empty_nest%2C_Torre_-_geograph.org.uk_-_5474242.jpg",
+  "w": 960,
+  "h": 831,
+  "alt": "木の枝にある空の鳥の巣",
+  "artist": "Derek Harper",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Empty_nest,_Torre_-_geograph.org.uk_-_5474242.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

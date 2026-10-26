@@ -9691,5 +9691,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "kokoro-empty-nest-loneliness-recover-thailand",
+    "category": "人とのつながり",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pengpid S, Peltzer K, Satitvipawee P, Kaewchankha W, Suanrueang P, Hajek A, \"The Onset of Empty Nest Increases Subjective Well-Being Amongst Middle-Aged and Older Adults: Longitudinal National Evidence From Thailand, 2015–2022\" (Psychogeriatrics, 2026)",
+    "sourceUrl": "https://doi.org/10.1111/psyg.70147",
+    "studyType": "観察研究",
+    "articleUrl": "https://mentalai.seadice.win/empty-nest-loneliness-recover/",
+    "articleSite": "AI時代のメンタルヘルス",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "子が巣立つと親は沈む？",
+        "body": "子どもが家を出ると、親は寂しくて元気がなくなる。「空の巣」ってそういうイメージがあるよね。でも本当に、みんな気分が沈むのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "同じ人を何年も追った",
+        "body": "タイの45歳以上の人を2015〜2022年に4回調べた全国調査。その間に子どもが家を出た1,029人について、同居していた頃と家を出たあとの気分を、同じ人の中で比べたんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "前向きな気分は少し上がった",
+        "body": "子どもが家を出たあと、前向きな気分の点数（0〜6点）は男性で0.32点、女性で0.17点上がっていた。いやな気分は男女とも増えていなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "日本でも同じ？",
+        "body": "家族のあり方が違うタイの結果で、子どもとの連絡の頻度も分析に入っていない。調査で関連を見たもので、巣立ちが気分を上げたと言い切れるわけでもないんだ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
