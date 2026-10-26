@@ -6004,5 +6004,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Candy_corn_in_a_jar.jpg/500px-Candy_corn_in_a_jar.jpg",
   "og": "https://research.seadice.win/img/sugar-free-sweets-sugar-alcohol-diarrhea-recovery-research.jpg",
   "local": true
+ },
+ "fried-potato-acrylamide-soaking-golden-how-research": {
+  "file": "File:Cajun fries from Popeyes Louisiana Kitchen, Stratford, Ontario, 2025-08-04.jpg",
+  "src": "/img/fried-potato-acrylamide-soaking-golden-how-research.jpg",
+  "src640": "/img/fried-potato-acrylamide-soaking-golden-how-research-sm.jpg",
+  "w": 960,
+  "h": 742,
+  "alt": "揚げたてのフライドポテト",
+  "artist": "Chris Woodrich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cajun_fries_from_Popeyes_Louisiana_Kitchen,_Stratford,_Ontario,_2025-08-04.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Cajun_fries_from_Popeyes_Louisiana_Kitchen%2C_Stratford%2C_Ontario%2C_2025-08-04.jpg/960px-Cajun_fries_from_Popeyes_Louisiana_Kitchen%2C_Stratford%2C_Ontario%2C_2025-08-04.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Cajun_fries_from_Popeyes_Louisiana_Kitchen%2C_Stratford%2C_Ontario%2C_2025-08-04.jpg/500px-Cajun_fries_from_Popeyes_Louisiana_Kitchen%2C_Stratford%2C_Ontario%2C_2025-08-04.jpg",
+  "og": "https://research.seadice.win/img/fried-potato-acrylamide-soaking-golden-how-research.jpg",
+  "local": true
  }
 }

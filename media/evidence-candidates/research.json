@@ -11226,5 +11226,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-fried-potato-acrylamide-soaking-golden-how-research-soaking",
+    "category": "食べもの",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Negoiță M et al., \"Influence of Water, NaCl and Citric Acid Soaking Pre-Treatments on Acrylamide Content in French Fries Prepared in Domestic Conditions\" (Foods, 2022)",
+    "sourceUrl": "https://doi.org/10.3390/foods11091204",
+    "studyType": "実験",
+    "articleUrl": "https://research.seadice.win/fried-potato-acrylamide-soaking-golden-how-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "ポテトは揚げる前に水にさらすといい？",
+        "body": "揚げたじゃがいもには、焼き色の反応で「アクリルアミド」ができる。切ってから水にさらすと減るって聞くけど、本当にそんなに違うのかな？"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "家庭の作り方をまねて測った",
+        "body": "ルーマニアの研究チームが、細切りのじゃがいもを冷水に15分・60分・120分さらしてからフライパンで揚げ、さらさないポテトとアクリルアミドの量を比べたよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "15分で約4割、60分で約8割減",
+        "body": "さらさないポテトにくらべて、冷水15分で約42%、60分で約81%、120分で約89%減った。190℃の揚げもの器では、同じ処理で25〜47%の減り方だった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どのじゃがいもでも同じ？",
+        "body": "使ったじゃがいもは1品種だけで、各条件2回ずつの実験。品種や切り方、油の温度が違えば減り方も変わりそう。食べる量が健康にどう響くかも、この研究ではわからないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
