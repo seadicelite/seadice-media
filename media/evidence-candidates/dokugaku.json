@@ -11139,5 +11139,73 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-adult-motor-skill-mixed-practice-how-to-sleep-motor",
+    "category": "睡眠",
+    "kind": "よくある説",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pan & Rickard, \"Sleep and motor learning: Is there room for consolidation?\" (Psychological Bulletin, 2015)",
+    "sourceUrl": "https://doi.org/10.1037/bul0000009",
+    "studyType": "メタ分析",
+    "articleUrl": "https://dokugaku.seadice.win/adult-motor-skill-mixed-practice-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "寝ると技能が上達する？",
+        "body": "ピアノやタイピングの練習をして寝ると、起きたら上手くなっている。そんな話、聞いたことあるよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "1,296人分の研究をまとめた",
+        "body": "指で決まった順番を打つ課題などの研究を、34本・88グループ・1,296人分まとめて分析した研究があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "上達の証拠は見つからず",
+        "body": "寝た後に成績が大きく上がって見えるのは確かだった。でも成績の計算のしかたや練習の疲れ、テストの時刻の影響を除くと、睡眠が技能を上達させる証拠はなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "安定させる役目はある？",
+        "body": "睡眠が記憶を安定させる可能性は残っているけど、研究の作り方で結果がそろわなかった。楽器やスポーツの長い練習を調べた分析でもないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-adult-motor-skill-mixed-practice-how-to-older-adults-ci",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Pauwels et al., \"Challenge to promote change: both young and older adults benefit from contextual interference\" (Frontiers in Aging Neuroscience, 2015)",
+    "sourceUrl": "https://doi.org/10.3389/fnagi.2015.00157",
+    "studyType": "実験",
+    "articleUrl": "https://dokugaku.seadice.win/adult-motor-skill-mixed-practice-how-to/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "練習は同じ動きのくり返し？",
+        "body": "新しい動きを覚えるなら、同じ動きを何回も続けるのが近道に思えるよね。実は、似た動きを混ぜる練習の方が後に残る、という研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "若い人と60〜80歳で実験",
+        "body": "ベルギーで18〜27歳の48人と60〜80歳の48人が、両手でつまみを回して画面の線をなぞる課題を1週間に3日練習した。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "練習中は下手、1週間後は上",
+        "body": "混ぜて練習した人は練習中の出来が低かったのに、やさしい方の課題では1週間後の成績がよかった。その傾向は年齢で変わらなかったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "難しい動きや現場では？",
+        "body": "難しい方の課題では1週間後の成績に差がなかった。実験室の課題なので、楽器やスポーツでも同じかはまだはっきりしないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
