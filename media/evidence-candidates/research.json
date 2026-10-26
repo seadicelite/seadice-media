@@ -11323,5 +11323,39 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "research-kids-homework-procrastination-parent-recovery-research-autonomy-support",
+    "category": "先延ばし",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Zhao W et al., \"“Time is My Own Treasure”: Parental Autonomy Support and Academic Procrastination Among Chinese Adolescents\" (Psychology Research and Behavior Management, 2022)",
+    "sourceUrl": "https://doi.org/10.2147/PRBM.S373033",
+    "studyType": "観察研究",
+    "articleUrl": "https://research.seadice.win/kids-homework-procrastination-parent-recovery-research/",
+    "articleSite": "悩みの科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "「早く宿題しなさい」は効く？",
+        "body": "毎日声をかけても、子どもの宿題の先延ばしが直らない。親の関わり方と先延ばしには、何か関係があるんだろうか。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "中学生662人に聞いた",
+        "body": "中国の中学生662人に、「親ができるだけ自分で選ばせてくれるか」と、勉強の先延ばしの程度を尋ねた調査があるよ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "選ばせてもらえる子ほど先延ばしが少ない",
+        "body": "自分で選ばせてもらえると感じている子ほど先延ばしが少なく、相関はマイナス0.43だった。こうした子は勉強する理由を自分で持ちやすく、時間の使い方も上手な傾向があったらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "どっちが先かは不明",
+        "body": "1回だけの調査なので、選ばせると先延ばしが減るのか、先延ばししない子だから任されるのかはわからない。子ども本人の感じ方を聞いた結果でもあるよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]
