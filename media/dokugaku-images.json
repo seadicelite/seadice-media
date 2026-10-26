@@ -5588,5 +5588,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Abacus_of_State_Department_Store.jpg/500px-Abacus_of_State_Department_Store.jpg",
   "og": "https://dokugaku.seadice.win/img/chunking-long-sequences-how-to.jpg",
   "local": true
+ },
+ "near-miss-exam-few-points-short-reset": {
+  "file": "File:Seoul 88 olympic medals (no background).jpg",
+  "src": "/img/near-miss-exam-few-points-short-reset.jpg",
+  "src640": "/img/near-miss-exam-few-points-short-reset-sm.jpg",
+  "w": 960,
+  "h": 376,
+  "alt": "金・銀・銅のオリンピックメダル",
+  "artist": "Arne Müseler",
+  "license": "CC BY-SA 3.0 de",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Seoul_88_olympic_medals_(no_background).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Seoul_88_olympic_medals_%28no_background%29.jpg/960px-Seoul_88_olympic_medals_%28no_background%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Seoul_88_olympic_medals_%28no_background%29.jpg/500px-Seoul_88_olympic_medals_%28no_background%29.jpg",
+  "og": "https://dokugaku.seadice.win/img/near-miss-exam-few-points-short-reset.jpg",
+  "local": true
  }
 }

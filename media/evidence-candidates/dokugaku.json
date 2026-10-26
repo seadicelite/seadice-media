@@ -11003,5 +11003,73 @@
       }
     ],
     "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-near-miss-exam-few-points-short-reset-silver-bronze",
+    "category": "勉強・学び",
+    "kind": "素朴な疑問",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Medvec et al., \"When less is more: Counterfactual thinking and satisfaction among Olympic medalists\" (Journal of Personality and Social Psychology, 1995)",
+    "sourceUrl": "https://doi.org/10.1037/0022-3514.69.4.603",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/near-miss-exam-few-points-short-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "素朴な疑問",
+        "title": "あと少しで落ちると、なぜこんなに悔しい？",
+        "body": "大差で落ちるより、あと数点で落ちた方が悔しさが抜けない。結果としてはどちらも不合格なのに、不思議だよね。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "メダリストの表情を比べた",
+        "body": "1992年のオリンピックで、銀メダリストと銅メダリストの競技直後や表彰台での表情を調べた研究があるんだ。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "銀より銅の方が嬉しそう",
+        "body": "銅メダリストの方が嬉しそうに見えた。銀は「もう少しで金」と上と比べ、銅は「メダルなしだったかも」と下と比べるから、と研究者は考えた。2000〜2016年の大会の写真を使った追試でも支持されたらしい。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "気持ちの理由は1つ？",
+        "body": "追試では「期待していた順位との差」という別の説明も支持された。表情から気持ちを読んでいるので、本人がどう感じていたかを直接聞いたわけではないよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
+  },
+  {
+    "id": "dokugaku-near-miss-exam-few-points-short-reset-near-miss-scientists",
+    "category": "勉強・学び",
+    "kind": "研究紹介",
+    "themeColor": "#00FFD1",
+    "sourceLabel": "Wang et al., \"Early-career setback and future career impact\" (Nature Communications, 2019)",
+    "sourceUrl": "https://doi.org/10.1038/s41467-019-12189-3",
+    "studyType": "観察研究",
+    "articleUrl": "https://dokugaku.seadice.win/near-miss-exam-few-points-short-reset/",
+    "articleSite": "独学の科学",
+    "cards": [
+      {
+        "stage": "よく聞く説",
+        "title": "失敗は人を強くする？",
+        "body": "「あと少しの失敗が、人を強くする」ってよく言うけど、データで確かめた研究があるんだ。"
+      },
+      {
+        "stage": "調べたこと",
+        "title": "ぎりぎりで落ちた人と通った人",
+        "body": "アメリカの研究費の審査で、合格ラインのわずかに下で落ちた若手研究者623人と、わずかに上で通った561人を、その後10年追いかけた。"
+      },
+      {
+        "stage": "わかったこと",
+        "title": "やめる人も増え、続けた人は伸びた",
+        "body": "ぎりぎりで落ちた人は、その申請から完全に離れる確率が12.6%高かった。一方で続けた人は、最初の5年の論文のうち特によく引用された論文が16.1%で、通った人の13.3%より多かった。"
+      },
+      {
+        "stage": "まだわからないこと",
+        "title": "ほかの場面でも同じ？",
+        "body": "研究者という限られた人の、研究費の審査の話。試験やスポーツでも同じことが起きるかは、著者自身もわからないと書いているよ。"
+      }
+    ],
+    "addedAt": "2026-10-26"
   }
 ]

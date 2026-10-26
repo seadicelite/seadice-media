@@ -135,7 +135,8 @@
           "exam-nerves-choked-next-time",
           "failed-exam-again-retake-or-quit",
           "memorized-answers-cannot-solve-new-questions",
-          "exam-results-waiting-anxiety-reset"
+          "exam-results-waiting-anxiety-reset",
+          "near-miss-exam-few-points-short-reset"
         ],
         "how": [
           "worked-examples-how-to-study",
