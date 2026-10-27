@@ -79,7 +79,9 @@ def write_feed(cfg, posts, outdir):
             "category": p["category"], "date": p["date"], "url": f'{url}{p["slug"]}/',
             "image": f'{url}img/{p["slug"]}-sm.webp' if img.exists() else "",
         })
-    body = json.dumps({"name": cfg["name"], "url": url, "categories": [c["name"] for c in cfg.get("categories", [])],
+    # カテゴリは {"name": ...} の形と、名前だけの文字の形のメディアがある
+    names = [c["name"] if isinstance(c, dict) else str(c) for c in cfg.get("categories", [])]
+    body = json.dumps({"name": cfg["name"], "url": url, "categories": names,
                        "items": items}, ensure_ascii=False, separators=(",", ":"))
     f = outdir / "feed.json"
     if not f.exists() or f.read_text() != body:
