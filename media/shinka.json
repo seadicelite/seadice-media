@@ -1,0 +1,138 @@
+{
+  "enabled": false,
+  "readCheck": true,
+  "publish": "auto",
+  "slug": "shinka",
+  "siteType": "article",
+  "name": "進化の研究",
+  "path": "sites/shinka/",
+  "url": "https://shinka.seadice.win/",
+  "concept": "生き物はどう進化してきたのか、ヒトはどこから来たのかを、化石・DNA・観察の論文で「わかっていること」と「まだわかっていないこと」に分けて、専門知識のない人にわかる言葉で書くメディア。2つの生き物が何年前に分かれたかを調べる道具を入口に置く",
+  "reader": "進化・人類の起源・恐竜・生き物の不思議が気になるが、専門知識はない人。「ヒトはサルから進化したの？」「鳥は恐竜なの？」のような疑問を、どこまでわかっているのか知りたくて検索してくる",
+  "tone": "やさしい解説。中学生でもわかる言葉と身近な例えで、数字は出典つき。わかっていることは言い切り、仮説は仮説、まだわからないことは「わかっていない」と書く。進化を進歩や目的のように書かない",
+  "tagline": "わかっていることと、まだわからないこと。",
+  "lead": "生き物はどう進化してきたのか。ヒトはどこから来たのか。化石とDNAと観察で確かめられたことを、むずかしい言葉を使わずに書きます。まだわかっていないことも、分けて書きます。",
+  "titleSuffix": "化石とDNAでわかった進化と起源をやさしく",
+  "description": "ヒトはサルから進化したのか、鳥は恐竜なのか。化石とDNAの研究でわかったことと、まだわからないことを分けて、やさしい言葉で書く進化と起源のメディア。出典つき・広告なし。",
+  "about": "記事はAIが論文（査読つきの学術誌）と博物館・大学・研究機関の資料を調べ、出典の内容を確認して作成しています。SEADICEが独自に発掘・研究したものではありません。各記事の末尾に出典を掲載しています。",
+  "theme": {
+    "bg": "#13110E",
+    "card": "#1C1914",
+    "accent": "#C9A66B",
+    "accent2": "#8DB59A",
+    "border": "#332D24",
+    "text": "#EEE9E0",
+    "muted": "#B3AA9B",
+    "link": "#D8BF8E"
+  },
+  "categories": [
+    {
+      "name": "生命の始まり",
+      "id": "origin",
+      "color": "#C9A66B",
+      "icon": "repeat",
+      "desc": "すべての生き物の共通祖先・細胞の中のもと細菌・体が大きくなるまで"
+    },
+    {
+      "name": "進化のしくみ",
+      "id": "mechanism",
+      "color": "#8DB59A",
+      "icon": "link",
+      "desc": "自然選択・遺伝子・種はどう分かれるか。よく聞く説を研究で確かめる"
+    },
+    {
+      "name": "体の起源",
+      "id": "body",
+      "color": "#7FB2E5",
+      "icon": "eye",
+      "desc": "目・羽・手足・脳。体のしくみはどうできたのか"
+    },
+    {
+      "name": "人類の起源",
+      "id": "human",
+      "color": "#E07A5F",
+      "icon": "target",
+      "desc": "ヒトの祖先・ネアンデルタール人・日本人はどこから来たのか"
+    },
+    {
+      "name": "心と行動の起源",
+      "id": "mind",
+      "color": "#D9A6C8",
+      "icon": "book",
+      "desc": "言葉・協力・人と犬の関係はいつ、どう生まれたのか"
+    },
+    {
+      "name": "絶滅",
+      "id": "extinction",
+      "color": "#9AA6B8",
+      "icon": "shield",
+      "desc": "5回の大量絶滅と、恐竜がいなくなった理由。いまは6回目なのか"
+    },
+    {
+      "name": "いま起きている進化",
+      "id": "now",
+      "color": "#B39DDB",
+      "icon": "eye",
+      "desc": "都会の生き物・薬が効かない菌・ヒトはまだ進化しているか"
+    }
+  ],
+  "types": [
+    {
+      "id": "guide",
+      "label": "解説"
+    }
+  ],
+  "template": ".claude/commands/shinka-template.html",
+  "rulesFrom": ".claude/commands/shinka.md",
+  "relatedApps": "p/released-apps.json から学び系を選ぶ。合うものが無ければ載せない",
+  "postsPerRun": 1,
+  "layout": "magazine",
+  "extraNav": [
+    {
+      "path": "/split/",
+      "label": "何年前に分かれた？"
+    }
+  ],
+  "faq": [
+    [
+      "進化の研究（shinka.seadice.win）はどんなサイトですか？",
+      "SEADICEが運営する、進化と生き物・人類の起源について、化石とDNAの研究でわかっていることを専門知識のない人向けにやさしく書くメディアです。わかっていることと、まだわかっていないことを分けて書き、全記事に出典を載せています。広告・登録はありません。"
+    ],
+    [
+      "記事の内容はどうやって確かめていますか？",
+      "査読つきの論文と、博物館・大学・研究機関の資料を開いて、記事の数字や主張が出典に書かれていることを照合しています。確かめられなかった数字は書きません。"
+    ]
+  ],
+  "trust": [
+    [
+      "化石とDNAの研究にもとづく",
+      "査読つきの論文と研究機関の資料を開いて、数字と主張を照合しています。"
+    ],
+    [
+      "まだわからないことも書く",
+      "わかっていること・有力な仮説・まだわかっていないことを分けて書きます。"
+    ],
+    [
+      "広告・登録なし",
+      "無料で読めます。広告も、会員登録も、データの収集もありません。"
+    ]
+  ],
+  "extraCss": "body{background:var(--bg)} nav.top,nav{backdrop-filter:none;-webkit-backdrop-filter:none;background:var(--bg)} .nav-logo{background:none;-webkit-text-fill-color:var(--muted);color:var(--muted);font-size:12px;letter-spacing:.2em} h1{background:none;-webkit-text-fill-color:currentColor;color:var(--text)} .card,.about,.trust div,.faq details,.empty{border-radius:8px} .card:hover{transform:none;border-color:var(--accent)} .th{background:var(--card)} .trust div{border-top:2px solid var(--accent)} body .feat,body .points,body .tbx,body .tile{border-radius:8px} body .feat,body .tile{background:var(--card)} body .chip,body .gnav a{border-radius:6px;min-height:44px} body .ticker{display:none}",
+  "topicQueue": [],
+  "toolbox": [
+    {
+      "name": "あなたと〇〇は何年前に分かれた？",
+      "desc": "2つの生き物を選ぶと、共通の祖先から分かれたのが何年前かを、論文の推定を集めたデータ（TimeTree）で出す。ヒトとバナナも",
+      "href": "/split/",
+      "cats": [
+        "生命の始まり",
+        "進化のしくみ",
+        "人類の起源"
+      ]
+    }
+  ],
+  "dailyPick": {
+    "col": "odd",
+    "title": "今日の進化の意外な話"
+  }
+}

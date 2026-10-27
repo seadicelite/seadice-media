@@ -25,6 +25,7 @@ PICTO = {  # 24x24 の線画（トップページ p/index.html の .picto と同
     "research": '<circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5.5 5.5"/>',
     "choco": '<rect x="5" y="4" width="14" height="16" rx="1.5"/><path d="M5 9.3h14M5 14.6h14M12 4v16"/>',
     "senbei": '<circle cx="12" cy="12" r="8.5"/><path d="M8.5 9.5h.01M14.5 8h.01M15.5 13.5h.01M10 15h.01M12 11.5h.01"/>',
+    "shinka": '<path d="M12 20.5v-7M12 13.5l-5-4.5M12 13.5l5-4.5M7 9V4.5M7 9l-3 -2.5M17 9V4.5M17 9l3-2.5"/>',
     "shakaihosho": '<path d="M3.5 12a8.5 8.5 0 0 1 17 0z"/><path d="M12 12v6.5a2 2 0 0 1-4 0M12 3.5v-1"/>',
     "shinri": '<path d="M14.5 20.5v-3h2a2 2 0 0 0 2-2V13l1.5-.5-1.5-3A7 7 0 1 0 7.5 15v5.5"/>',
     "tantei": '<rect x="3.5" y="4.5" width="17" height="12" rx="1.5"/><path d="M8.5 20.5h7"/><circle cx="11" cy="10" r="2.5"/><path d="M12.8 11.8l2.7 2.7"/>',

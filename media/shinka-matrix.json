@@ -1,0 +1,185 @@
+{
+  "note": "進化の研究のマス（分野×問い）。記事を足すときは最も薄いマス（空き→1本）から書く。slug か道具のURL。同じテーマを別の問い（列）から書くのはよい。同じ問いの記事は増やさない。",
+  "cols": [
+    {
+      "id": "what",
+      "label": "何？",
+      "q": "それは何か、どんな姿か"
+    },
+    {
+      "id": "how",
+      "label": "どうやってわかった",
+      "q": "化石・DNA・観察で、どうやって確かめたのか"
+    },
+    {
+      "id": "myth",
+      "label": "本当？",
+      "q": "よく聞く説は本当か（研究で確かめる）"
+    },
+    {
+      "id": "num",
+      "label": "数字",
+      "q": "年代・数・大きさを、身近な例えで"
+    },
+    {
+      "id": "unknown",
+      "label": "まだわからない",
+      "q": "まだ答えがない・説が分かれていること"
+    },
+    {
+      "id": "see",
+      "label": "試す・見る",
+      "q": "博物館・身近な観察・サイト内の道具で"
+    },
+    {
+      "id": "odd",
+      "label": "意外な話",
+      "q": "へえ、と思う事実は？（確かさを分けて）"
+    },
+    {
+      "id": "history",
+      "label": "発見の物語",
+      "q": "誰が、どうやって最初に気づいたのか"
+    }
+  ],
+  "rows": [
+    {
+      "id": "origin",
+      "label": "生命の始まり",
+      "cells": {
+        "what": [
+          "luca"
+        ],
+        "how": [
+          "mitochondria-origin"
+        ],
+        "myth": [],
+        "num": [],
+        "unknown": [
+          "cambrian-explosion"
+        ],
+        "see": [],
+        "odd": [],
+        "history": []
+      }
+    },
+    {
+      "id": "mechanism",
+      "label": "進化のしくみ",
+      "cells": {
+        "what": [],
+        "how": [
+          "natural-selection-finches"
+        ],
+        "myth": [
+          "giraffe-neck"
+        ],
+        "num": [],
+        "unknown": [],
+        "see": [
+          "/split/"
+        ],
+        "odd": [],
+        "history": []
+      }
+    },
+    {
+      "id": "body",
+      "label": "体の起源",
+      "cells": {
+        "what": [],
+        "how": [
+          "eye-evolution"
+        ],
+        "myth": [
+          "birds-are-dinosaurs"
+        ],
+        "num": [],
+        "unknown": [],
+        "see": [],
+        "odd": [],
+        "history": [
+          "fish-to-land"
+        ]
+      }
+    },
+    {
+      "id": "human",
+      "label": "人類の起源",
+      "cells": {
+        "what": [
+          "japanese-origin"
+        ],
+        "how": [
+          "out-of-africa"
+        ],
+        "myth": [
+          "human-from-monkey"
+        ],
+        "num": [
+          "neanderthal-dna"
+        ],
+        "unknown": [],
+        "see": [],
+        "odd": [],
+        "history": []
+      }
+    },
+    {
+      "id": "mind",
+      "label": "心と行動の起源",
+      "cells": {
+        "what": [],
+        "how": [],
+        "myth": [],
+        "num": [],
+        "unknown": [
+          "language-origin"
+        ],
+        "see": [],
+        "odd": [],
+        "history": [
+          "dog-domestication"
+        ]
+      }
+    },
+    {
+      "id": "extinction",
+      "label": "絶滅",
+      "cells": {
+        "what": [],
+        "how": [
+          "dinosaur-extinction"
+        ],
+        "myth": [],
+        "num": [
+          "mass-extinctions"
+        ],
+        "unknown": [],
+        "see": [],
+        "odd": [],
+        "history": []
+      }
+    },
+    {
+      "id": "now",
+      "label": "いま起きている進化",
+      "cells": {
+        "what": [],
+        "how": [],
+        "myth": [
+          "human-still-evolving"
+        ],
+        "num": [
+          "antibiotic-resistance"
+        ],
+        "unknown": [],
+        "see": [
+          "urban-evolution"
+        ],
+        "odd": [],
+        "history": []
+      }
+    }
+  ]
+}
