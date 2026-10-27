@@ -469,12 +469,12 @@ HG_FAQ = [
      "送られません。結果はすべてブラウザの中で出します。前回と比べるために、選んだ項目と日付だけをこのブラウザに保存します。「記録を消す」で消せます。"),
 ]
 HG_CSS = (".hg-chips{display:flex;flex-wrap:wrap;gap:8px;padding:4px 0 12px}"
-          ".bt-box .hg-chips label{position:relative;display:inline-flex;align-items:center;gap:0;border:1px solid var(--border);border-radius:8px;padding:0 14px;min-height:44px;font-size:15px;background:var(--bg)}"
+          ".bt-box .hg-chips label{position:relative;display:inline-flex;align-items:center;gap:0;border:1px solid var(--border);border-radius:8px;padding:0 14px;min-height:48px;font-size:15px;background:var(--bg)}"
           ".hg-chips input{position:absolute;opacity:0;width:1px;height:1px}"
           ".bt-box .hg-chips label:has(input:checked){border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent);font-weight:700}"
           ".hg-chips label:has(input:focus-visible){outline:2px solid var(--accent);outline-offset:2px}"
-          ".hg-prev{font-size:14px;margin:0 0 4px}.hg-acts{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}"
-          ".hg-acts button{min-height:44px;padding:0 14px;border:1px solid var(--border);border-radius:8px;background:var(--bg);color:var(--text);font:inherit;font-size:14px;cursor:pointer}")
+          ".hg-prev{font-size:14px;margin:0 0 4px}.hg-acts{display:flex;flex-wrap:wrap;gap:12px;margin-top:12px}.hg-acts #hg-del{margin-left:auto}"
+          ".hg-acts button{min-height:48px;padding:0 14px;border:1px solid var(--border);border-radius:8px;background:var(--bg);color:var(--text);font:inherit;font-size:14px;cursor:pointer}")
 
 
 def _hg_row(i, t):
@@ -529,17 +529,17 @@ f.addEventListener('submit',function(){
  var s=ids.slice().sort(function(a,b){return pr(a)-pr(b)||D.items[a][5]-D.items[b][5]}),r='';
  if(h)r+='<div class="bt-card"><h3>'+e(h[0])+'で多い手口</h3><p>'+e(h[1])+'</p></div>';
  var w=D.scenes.map(function(c){var n=ids.filter(function(i){return D.items[i][0]===c[0]});return [c[1],n.length,n.reduce(function(a,i){return a+4-pr(i)},0)]}),top=w.slice().sort(function(a,b){return b[2]-a[2]})[0];
- r+='<div class="bt-card'+(ids.length?' alert':'')+'"><h3>'+(ids.length?'いちばん気をつけたい場面：'+e(top[0]):'当てはまるものは選ばれませんでした')+'</h3>'
-  +w.map(function(c){return '<div class="bt-item"><b>'+e(c[0])+'：'+(c[1]?'隙 '+c[1]+' か所':'隙なし')+'</b></div>'}).join('')
-  +(prev&&prev.ids?'<p style="margin-top:10px">前回（'+md(prev.t)+'）は隙 '+prev.ids.length+' か所、今回は '+ids.length+' か所です。'+(prev.ids.length>ids.length?(prev.ids.length-ids.length)+' か所減りました。':'')+'</p>':'')
-  +(ids.length?'':'<p style="margin-top:10px">当てはまるものがなければ、このチェックの範囲では隙は見つかりませんでした。ただし、このチェックにない隙もあります。部屋にいるときも鍵をかける習慣を続けてください。</p>')+'</div>';
+ r+='<div class="bt-card"><h3>'+(ids.length?'いちばん気をつけたい場面：'+e(top[0]):'当てはまるものは選ばれませんでした')+'</h3>'
+  +w.map(function(c){return '<div class="bt-item"><b>'+e(c[0])+'：'+(c[1]?'見直す所 '+c[1]+' つ':'当てはまるものなし')+'</b></div>'}).join('')
+  +(prev&&prev.ids?'<p style="margin-top:10px">前回（'+md(prev.t)+'）は見直す所 '+prev.ids.length+' つ、今回は '+ids.length+' つです。'+(prev.ids.length>ids.length?(prev.ids.length-ids.length)+' つ減りました。':'')+'</p>':'')
+  +'<p style="margin-top:10px">'+(ids.length?'':'このチェックの範囲では、見直す所は見つかりませんでした。')+'このチェックにない隙もあります。部屋にいるときも鍵をかける習慣を続けてください。</p>'+'</div>';
  if(s.length){r+='<div class="bt-card"><h3>今週やること3つ</h3>'+s.slice(0,3).map(it).join('')+'</div>';
   if(s.length>3)r+='<details><summary>ほかの隙と直し方（'+(s.length-3)+'）</summary>'+s.slice(3).map(it).join('')+'</details>'}
  r+='<div class="bt-card"><h3>困ったときの連絡先</h3><ul class="bt-contact"><li>いま身の危険がある：<a href="tel:110">110番</a></li><li>つきまといや不審な人のことを相談したい：<a href="tel:%239110">#9110</a></li></ul>'
   +'<div class="hg-acts"><button type="button" id="hg-copy">やることをコピー</button><button type="button" id="hg-del">記録を消す</button></div></div>';
  o.innerHTML=r;o.hidden=false;
  var now={t:Date.now(),ids:ids,h:hc?hc.value:''};sv(now);prev=now;
- document.getElementById('hg-copy').onclick=function(){var t='一人暮らしの防犯チェック（'+md(now.t)+'）\n'+s.map(function(i,n){return (n+1)+'. '+D.items[i][2]}).join('\n');
+ document.getElementById('hg-copy').onclick=function(){var t='一人暮らしの防犯チェック（'+md(now.t)+'）\n'+s.map(function(i,n){return (n+1)+'. '+D.items[i][1]+'\n   '+D.items[i][2]+'（'+D.items[i][3]+'）'}).join('\n');
   var bt=this;try{navigator.clipboard.writeText(t).then(function(){bt.textContent='コピーしました'},function(){bt.textContent='コピーできませんでした'})}catch(x){bt.textContent='コピーできませんでした'}};
  document.getElementById('hg-del').onclick=function(){sv(null);prev=null;this.textContent='消しました';document.getElementById('hg-prev').hidden=true};
  o.scrollIntoView({behavior:'smooth',block:'start'});
