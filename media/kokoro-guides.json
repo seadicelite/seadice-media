@@ -54,7 +54,8 @@
     "hot-room-focus",
     "post-vacation-work-rumination",
     "camping-natural-light-body-clock",
-    "coloring-info-fatigue"
+    "coloring-info-fatigue",
+    "cold-shower-fatigue-stress-recover"
    ]
   },
   {
@@ -116,7 +117,9 @@
     "work-anger-calm-down",
     "ai-faster-but-more-tired",
     "ai-use-role-ambiguity",
-    "ai-job-worry-ai-literacy"
+    "ai-job-worry-ai-literacy",
+    "reskilling-quit-restart-online-course",
+    "layoff-news-write-feelings-first"
    ]
   },
   {
@@ -239,7 +242,9 @@
     "fitness-app-ranking-comparison-prevent",
     "comparison-falling-behind-new-goal",
     "comparison-awe-nature-video",
-    "others-failure-relief-why"
+    "others-failure-relief-why",
+    "couple-comparison-appreciation-prevent",
+    "worse-off-others-still-sad-recover"
    ]
   },
   {
@@ -299,7 +304,9 @@
     "loneliness-acceptance-practice",
     "life-change-loneliness-prevent",
     "ai-support-social-anxiety-why",
-    "talking-about-myself-why"
+    "talking-about-myself-why",
+    "left-out-ai-empathy-chat",
+    "forgiveness-grudge-reconnect"
    ]
   },
   {
@@ -358,7 +365,9 @@
     "ai-consult-limits-know-first",
     "ai-thinking-effort-value-recover",
     "ai-choose-for-me-coin-flip",
-    "ai-support-social-anxiety-why"
+    "ai-support-social-anxiety-why",
+    "ai-bias-carryover-warning-prevent",
+    "left-out-ai-empathy-chat"
    ]
   }
  ]
