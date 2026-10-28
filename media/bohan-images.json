@@ -1307,5 +1307,21 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Some_old_moving_boxes_from_Sweden.jpg/500px-Some_old_moving_boxes_from_Sweden.jpg",
   "og": "https://bohan.seadice.win/img/moving-hide-new-address-og.jpg",
   "local": true
+ },
+ "bystander-effect-crime-witness": {
+  "file": "File:DSC 8420 Evening stroll along a palmlined beachfront promenade with people walking street vendors and city buildings in the distance.jpg",
+  "src": "/img/bystander-effect-crime-witness.webp",
+  "src640": "/img/bystander-effect-crime-witness-sm.webp",
+  "w": 960,
+  "h": 639,
+  "alt": "Crowded promenade with many pedestrians walking",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg",
+  "source_label": "Wikimedia Commons",
+  "og": "https://bohan.seadice.win/img/bystander-effect-crime-witness-og.jpg",
+  "local": true,
+  "reused_from": "fear-of-crime-vs-statistics"
  }
 }
