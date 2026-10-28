@@ -87,7 +87,9 @@
       "id": "body",
       "label": "体の起源",
       "cells": {
-        "what": [],
+        "what": [
+          "vestigial-organs"
+        ],
         "how": [
           "eye-evolution"
         ],
@@ -119,7 +121,9 @@
         "num": [
           "neanderthal-dna"
         ],
-        "unknown": [],
+        "unknown": [
+          "homo-floresiensis"
+        ],
         "see": [],
         "odd": [],
         "history": []
@@ -157,7 +161,9 @@
         ],
         "unknown": [],
         "see": [],
-        "odd": [],
+        "odd": [
+          "mammoth-extinction"
+        ],
         "history": []
       }
     },
