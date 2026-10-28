@@ -1939,5 +1939,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Delhaize_crunchy_muesli_price_and_Nutri-Score.jpg/500px-Delhaize_crunchy_muesli_price_and_Nutri-Score.jpg",
   "og": "https://ledger.seadice.win/img/inflation-savings-fatigue-money-illusion.jpg",
   "local": true
+ },
+ "app-notification-off-impulse-tips": {
+  "file": "File:Blackview A60 Smartphone Android mobile phone and folio case.jpg",
+  "src": "/img/payment-reminders-attention.webp",
+  "src640": "/img/payment-reminders-attention-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "買い物アプリの通知が届くスマートフォン",
+  "artist": "Acabashi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg/960px-Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg/500px-Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg",
+  "og": "https://ledger.seadice.win/img/payment-reminders-attention-og.jpg",
+  "local": true
  }
 }
