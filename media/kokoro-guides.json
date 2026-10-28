@@ -113,7 +113,9 @@
     "ai-workplace-readiness-autonomy",
     "post-vacation-work-rumination",
     "gratitude-journal-work-engagement",
-    "work-anger-calm-down"
+    "work-anger-calm-down",
+    "ai-faster-but-more-tired",
+    "ai-use-role-ambiguity"
    ]
   },
   {
@@ -177,7 +179,9 @@
     "handwriting-vs-typing-memory",
     "hot-room-focus",
     "stuck-ideas-step-away",
-    "memory-worry-confidence-recover"
+    "memory-worry-confidence-recover",
+    "phone-grayscale-screen-time",
+    "mind-wandering-why"
    ]
   },
   {
@@ -289,7 +293,9 @@
     "conversation-silence-awkward",
     "volunteering-loneliness-prevent",
     "loneliness-community-groups-recover",
-    "loneliness-acceptance-practice"
+    "loneliness-acceptance-practice",
+    "life-change-loneliness-prevent",
+    "ai-support-social-anxiety-why"
    ]
   },
   {
@@ -347,7 +353,8 @@
     "ai-use-life-satisfaction",
     "ai-consult-limits-know-first",
     "ai-thinking-effort-value-recover",
-    "ai-choose-for-me-coin-flip"
+    "ai-choose-for-me-coin-flip",
+    "ai-support-social-anxiety-why"
    ]
   }
  ]
