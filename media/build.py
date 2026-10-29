@@ -248,6 +248,9 @@ def build(slug, preview=None):
     dailypick.apply(cfg, posts)
     import readcheck  # 読んだ記事のチェック(設定 readCheck があるメディアだけ。最後に作り直されたトップ・カテゴリにも入れる)
     readcheck.apply(cfg, posts)
+    import sidenav  # 左の記事一覧(設定 sideIndex があるメディアだけ。全ページの最後に入れる)
+    if (sn := sidenav.apply(cfg, posts, cats)):
+        print(f"side index: {sn} pages")
     site_og(cfg)
     if (bn := title_brand(cfg)):
         print(f"title brand: {bn} pages -> {cfg['titleName']}")
