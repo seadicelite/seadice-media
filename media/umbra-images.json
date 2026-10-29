@@ -2239,5 +2239,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Extending_the_olive_branch_%2823002869995%29.jpg/500px-Extending_the_olive_branch_%2823002869995%29.jpg",
   "og": "https://umbra.seadice.win/img/how-to-apologize-after-fight-research.jpg",
   "local": true
+ },
+ "sigh-dissatisfaction-sign-research": {
+  "file": "File:Trinity United Methodist Church, Madison Street and Hurlbet Street, Gibsonburg, OH - 52278739657.jpg",
+  "src": "/img/sigh-dissatisfaction-sign-research.jpg",
+  "src640": "/img/sigh-dissatisfaction-sign-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "教会の建物の外観",
+  "artist": "w_lemay",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Trinity_United_Methodist_Church,_Madison_Street_and_Hurlbet_Street,_Gibsonburg,_OH_-_52278739657.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Trinity_United_Methodist_Church%2C_Madison_Street_and_Hurlbet_Street%2C_Gibsonburg%2C_OH_-_52278739657.jpg/960px-Trinity_United_Methodist_Church%2C_Madison_Street_and_Hurlbet_Street%2C_Gibsonburg%2C_OH_-_52278739657.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Trinity_United_Methodist_Church%2C_Madison_Street_and_Hurlbet_Street%2C_Gibsonburg%2C_OH_-_52278739657.jpg/500px-Trinity_United_Methodist_Church%2C_Madison_Street_and_Hurlbet_Street%2C_Gibsonburg%2C_OH_-_52278739657.jpg",
+  "og": "https://umbra.seadice.win/img/sigh-dissatisfaction-sign-research.jpg",
+  "local": true
  }
 }
