@@ -869,5 +869,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Messy_Suitcase_Packing_for_a_Holiday.jpg/500px-Messy_Suitcase_Packing_for_a_Holiday.jpg",
   "og": "https://oya.seadice.win/img/parent-long-distance-caregiving.jpg",
   "local": true
+ },
+ "parent-stopped-dentist-teeth": {
+  "file": "File:Mouth mirror handle (European Norm).JPG",
+  "src": "/img/parent-stopped-dentist-teeth.jpg",
+  "src640": "/img/parent-stopped-dentist-teeth-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "歯科用ミラーの柄の部品",
+  "artist": "Daniela Tocan",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Mouth_mirror_handle_(European_Norm).JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mouth_mirror_handle_%28European_Norm%29.JPG/960px-Mouth_mirror_handle_%28European_Norm%29.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mouth_mirror_handle_%28European_Norm%29.JPG/500px-Mouth_mirror_handle_%28European_Norm%29.JPG",
+  "og": "https://oya.seadice.win/img/parent-stopped-dentist-teeth.jpg",
+  "local": true
  }
 }
