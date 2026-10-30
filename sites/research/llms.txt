@@ -73,171 +73,6 @@
 - [食べすぎを防ぐには、食事の前に水を飲むといい？ 量とタイミングのやり方を研究で調べた](https://research.seadice.win/water-before-meals-eat-less-how-research/): 食事の30分前に水500mLで、中高年の食事は約13%減り、12週で体重が1〜2kg多く減りました。若い人は直前に飲む研究も。
 - [ダイエットでやせたのに体重が戻ってきた。リバウンドしたら？ 立て直せた人の研究で調べた](https://research.seadice.win/weight-regain-after-diet-recovery-research/): やせた体重が戻ってきたら？ 5%以上戻ると元に戻せた人は4.7%。小さく増えた段階で気づき、計量と食事・運動を立て直すのが研究の示すコツです。
 
-### 睡眠
-
-- [寝酒は眠りを良くするのか。「寝つきは早いが、後半が乱れる」研究](https://research.seadice.win/alcohol-before-bed-sleep/): お酒で寝つきは早くなるが、夜の後半は眠りが乱れ、少量でも睡眠中の体の回復が妨げられていた。寝酒は眠りの助けにならない。
-- [眠れなかった夜のあと、どう立て直す？ 次の夜に「取り返そう」としなくていい理由を研究で調べた](https://research.seadice.win/bad-night-sleep-next-night-recovery-research/): 一時的な不眠の72.4%は自然に回復した。長引くかに関わったのは眠れないことへの心配。翌朝はいつもの時刻に起き、眠くなってから布団へ。
-- [寝る前の入浴は寝つきを良くするのか。研究でわかった効果的なタイミング](https://research.seadice.win/bathing-before-bed-sleep-onset/): 就寝1〜2時間前に10分以上の入浴で入眠が20〜30%早まったとする研究が複数。高齢者の足浴実験では一晩全体の改善は見られなかった。
-- [寝る前に音楽を聴くと眠れる？ どんな曲を何分聴けばいいか、研究でわかったやり方](https://research.seadice.win/bedtime-music-sleep-how-research/): ゆっくりした曲を寝るときに毎日25〜60分。13件のまとめで眠りの質の評価が改善。機器で測った睡眠は変わらず、耳に残る曲は逆効果の実験も。
-- [寝る前の考えごとを止めるには？ 頭の中で場面を描く「イメージそらし」と認知シャッフルの研究](https://research.seadice.win/bedtime-racing-thoughts-imagery-shuffle-how-research/): 考えるなと命じるより、穏やかな場面を細かく描く。不眠の41人の実験で寝つきが早まった。認知シャッフルの根拠はまだ学会発表の段階。
-- [寝る前の読書は寝つきを良くするのか。紙の本と画面で違った研究](https://research.seadice.win/bedtime-reading-paper-book-sleep/): 寝る前に画面で読むと紙の本より寝つきが約10分遅れた。読書そのものより「何で読むか」が眠りを左右していた。
-- [夜スマホをやめられないのは意志の弱さ？研究でわかった原因と3つの一歩](https://research.seadice.win/bedtime-smartphone-sleep/): 日中の疲れと寝る前の画面の光が、眠りを遅らせる。5本の研究から、今夜できる工夫を整理。
-- [寝る前のストレッチは睡眠の質を上げるのか。4つの研究でわかったこと](https://research.seadice.win/bedtime-stretching-sleep-quality-research/): 不眠症の人への4か月のストレッチでISIが8.1点改善。一方、睡眠障害がある人全体を見た16件のレビューでは効果の証拠は乏しいとされた。
-- [寝る前に「明日やること」を書くと眠れる。研究でわかった理由](https://research.seadice.win/bedtime-todo-list-sleep/): 就寝前にやることリストを書いたグループが早く眠りについた実験を紹介。今夜からできる書き方も解説。
-- [ブルーライトカットメガネで、夜の睡眠は良くなる？ メタ分析と比較試験で確かめた](https://research.seadice.win/blue-light-glasses-sleep-research/): コクラン・レビューなど3つのメタ分析を調べると、ブルーライトカットメガネが睡眠を良くする効果は、まだはっきり確認されていませんでした。
-- [カフェインは何時間前までOK？研究でわかった「量」と「時間」の関係](https://research.seadice.win/caffeine-hours-before-bed/): コーヒー1杯なら4時間前でも平気、でも400mgは12時間前でも睡眠に影響。量と時間の関係を解説。
-- [寝る前のハーブティー（カモミールなど）で眠りは良くなる？ 10の試験のメタ分析と不眠の試験で確かめた](https://research.seadice.win/chamomile-herbal-tea-sleep-research/): カモミールティーは眠りに効く？ 10の試験のメタ分析で睡眠の質がやや改善した一方、慢性の不眠の試験では偽薬と差が出ませんでした。
-- [足が冷えて眠れない夜は、どう温める？ 足湯と靴下の研究でわかったやり方とタイミング](https://research.seadice.win/cold-feet-warming-sleep-onset-how-research/): 23℃の部屋で靴下をはくと寝つきが16.0分→8.5分（6人）。足湯は眠りの満足感を上げたが、機器で測った寝つきは変わらなかった。
-- [寝室はどれくらい暗くすればいい？ 寝ている間の明かりの研究でわかった、暗くするやり方](https://research.seadice.win/dark-bedroom-light-during-sleep-research/): 寝室は暗くしたほうがいい？ 明かりをつけたまま眠ると深い眠りが減り、本人は気づかない実験と、アイマスクの研究から、暗くするやり方を整理。
-- [昼間に日光を浴びると夜よく眠れるのか。体内時計を変える「光」の研究](https://research.seadice.win/daytime-light-exposure-night-sleep-research/): 日中の光が多く安定している人ほど、寝つきが早く深い睡眠が増える。89人の追跡調査や自然光キャンプの実験からわかったこと。
-- [夕食は寝る何時間前までに食べればいい？ 遅い夕食と睡眠の研究でわかった目安と、例外](https://research.seadice.win/dinner-timing-before-bed-sleep-how-research/): 寝る1時間前の夕食が4日続くと睡眠が短く途切れやすくなった。3時間以内の食事は夜中の目覚めと関連。害が出ない試験もあり、目安は3時間前まで。
-- [いつもより早く寝ようとすると眠れないのはなぜ？ 寝る前の「睡眠禁止帯」を研究で調べた](https://research.seadice.win/early-bedtime-cant-sleep-forbidden-zone-why-research/): 早く布団に入っても眠れないのは、就寝の数時間前に体内時計が「起きていろ」の信号を強める「睡眠禁止帯」があるため。
-- [年をとると朝早く目が覚めてしまうのはなぜ？ 体内時計と眠りの変化を研究で調べた](https://research.seadice.win/early-morning-waking-aging-why-research/): 体内時計が前にずれ、明け方に眠りを支える力も弱まる。目覚めやすさ約2.7倍の実験や、夕方の光で体内時計が約2時間ずれた研究から整理。
-- [夜に運動すると眠れなくなるのか。寝る何時間前までならいいかを研究で調べた](https://research.seadice.win/evening-exercise-sleep-research/): 夜の運動は全体として眠りを悪くしなかった。ただ寝る直前の激しい運動は寝つきを遅らせることがあり、4時間前までに終えると影響は見られなかった。
-- [夕方にうたた寝すると、夜に眠れなくなるのはなぜ？「眠気のたまり方（睡眠圧）」の研究で調べた](https://research.seadice.win/evening-nap-cant-sleep-sleep-pressure-why-research/): 起きている間にたまる睡眠圧を、うたた寝で先に使ってしまうため。夕方の仮眠で寝つきが遅れた実験や、夜の7時間以内の仮眠の研究から整理。
-- [寝る前の部屋の明かりは、いつから・どれくらい暗くする？ 夜の照明と体内時計の研究でわかったやり方](https://research.seadice.win/evening-room-light-dim-before-bed-sleep-how-research/): 普通の部屋の明るさでも、眠りのホルモンの出始めは99.0%の人で遅れました。寝る2時間前から暖色の低い明かりにするやり方を研究で調べました。
-- [旅行先や初めての場所でよく眠れないのはなぜ？「初夜効果」と脳の見張り役を研究で調べた](https://research.seadice.win/first-night-effect-sleep-why-research/): 慣れない場所の1晩目に眠りが浅くなる「初夜効果」は53件のメタ分析でも確認。脳の片側が浅く眠って見張り役をしているという説と、その後の検証を整理。
-- [暑い夜に眠れないのはなぜ？「体の熱が逃げない」寝苦しさの仕組みを研究で調べた](https://research.seadice.win/hot-night-cant-sleep-why-research/): 眠るときに下がるはずの深部体温が、暑さと湿気で下がりにくくなる。寝始めの暑さほど眠りを乱した実験と76万人の調査から仕組みを整理。
-- [時差ぼけがつらいときは、どう立て直す？ 東向きと西向きで違う「光を浴びる時間」を研究で調べた](https://research.seadice.win/jet-lag-recovery-light-timing-research/): 時差ぼけがつらいときは？ 体内時計は光を浴びる時刻で早まったり遅れたりする。東向きは戻りが遅い理由と、到着後・出発前の光の使い方を研究で整理。
-- [マグネシウムのサプリで眠れるようになる？ 12の試験のレビューと、155人の4週間の試験でわかったこと](https://research.seadice.win/magnesium-supplement-sleep-research/): 12の試験のレビューは、マグネシウムの睡眠への効果は一貫せず根拠は弱いと結論。155人の試験でも不眠の点数の改善は小さかった（d=0.2）。
-- [朝どうしても起きられない人へ。体内時計を約2時間動かした実験でわかったこと](https://research.seadice.win/morning-light-wake-up/): 起床時間・朝の光・食事や運動のタイミングを整えると、体内時計が平均約2時間前進した実験を紹介。
-- [口テープは睡眠に効く？ いびき・口呼吸の対策として、研究でわかったことと注意点](https://research.seadice.win/mouth-taping-sleep-research/): 10本の研究のレビューでは効果ははっきりせず、改善は鼻が通る軽い睡眠時無呼吸の人の小さな研究が中心。鼻づまりがあると危険も指摘されています。
-- [昼寝は何分がいい？研究でわかった「10分」の意外な強さ](https://research.seadice.win/nap-best-length/): 5分では足りず、30分だとぼんやりする。24人の実験で最も効いた長さを解説。
-- [昼寝をしたら夜に眠れなくなったら？ 昼寝と夜の睡眠を記録した研究でわかった立て直し方](https://research.seadice.win/nap-ruined-night-sleep-recovery-research/): 短い昼寝が夜に響くことは少なく、響きやすいのは長い・遅い・毎日の昼寝。今夜は眠くなるまで待ち、明朝はいつもの時刻に起き、次の昼寝は寝る7時間以上前に短く。
-- [夜中に目が覚めて眠れないとき、布団から出るべき？「刺激制御法」の研究でわかったこと](https://research.seadice.win/night-awake-get-out-of-bed-stimulus-control-research/): 15分ほど眠れなければ眠る努力をやめ、眠くなるまで布団の外で過ごす。効果は複数のまとめで示されたが研究の質は低め。布団の中で行っても改善した。
-- [夜中に足がつって目が覚めたら？ こむら返りの治し方と、次の夜を防ぐ方法を研究で調べた](https://research.seadice.win/night-leg-cramp-wake-up-recovery-research/): 夜中のこむら返りは筋肉をゆっくり伸ばすのが基本。マグネシウムは11試験で差がなく、昼間の着圧ストッキングで週4回が2回に減った試験がありました。
-- [夜勤明けに眠れない、休みの日に戻せないときは？ 仮眠と光の使い方を研究で調べた](https://research.seadice.win/night-shift-sleep-recovery-research/): 夜勤明けは朝の光で体内時計が昼に戻るため眠りにくい。帰り道の光を避けて暗い部屋ですぐ眠り、休みに徹夜で戻さない立て直し方。
-- [夜中に何度も目が覚めるのはなぜ？ 中途覚醒の仕組みを研究で調べた](https://research.seadice.win/night-waking-why-research/): 週3日以上夜中に目が覚める人は約8900人の調査で35.5%。年齢による眠りの変化、ストレスで脳が冴えすぎる状態、時計を見る焦りなど、中途覚醒の仕組みを研究で整理。
-- [怖い夢で目が覚めたら、どう立て直す？ 悪夢を「書き換える」練習（イメージリハーサル）の研究でわかったこと](https://research.seadice.win/nightmare-wake-up-imagery-rehearsal-recovery-research/): 悪夢で眠れない夜が続くなら、昼間に夢の筋書きを書き換えて毎日10〜20分思い浮かべる練習を。399人の実験で悪夢が減った。
-- [家族のいびきで眠れないときは？ 耳栓・別の部屋・受診のすすめを研究で調べた](https://research.seadice.win/partner-snoring-cant-sleep-recovery-research/): 耳栓とアイマスクで夜中の目覚めが減り、いびきの原因の治療で隣の人の睡眠効率は74%から87%に。一晩別室で寝るだけでは大差なし。
-- [生理前や生理中に眠りが浅いのはなぜ？ 体温とホルモン、月経周期と睡眠の研究で調べた](https://research.seadice.win/period-premenstrual-sleep-why-research/): 生理前の黄体期は体温が約0.3〜0.4℃上がり、レム睡眠も減ります。ただ健康な人では眠りの量はあまり変わらず、PMSでは不安が眠れない感じと関係していました。
-- [昼食の後に眠くなるのはなぜか。食後の眠気の研究でわかった2つの理由](https://research.seadice.win/post-lunch-sleepiness-research/): 午後の眠気は体内時計の波が土台にあり、食事をとらなくても起こる。922kcalの重いランチは305kcalの軽いランチより、運転中の車線はみ出しを有意に増やした。
-- [寝不足の日に、甘いものや脂っこいものが食べたくなるのはなぜ？ 睡眠不足と食欲の研究で調べた](https://research.seadice.win/sleep-loss-junk-food-cravings-why-research/): 寝不足の脳は高カロリーな物に強く反応する。23人の脳の実験と、1日385kcal多く食べたメタ分析から仕組みを解説。
-- [金縛りにあって怖かった。また起きたらどうする？ 対処と予防を研究で調べた](https://research.seadice.win/sleep-paralysis-kanashibari-recovery-research/): 金縛りは学生の28%が経験し、平均6分ほどで終わります。起きたら「よくある・害はない」と考え直し、仰向けを避けて予防します。
-- [毎日同じ時刻に寝起きすると、眠りは良くなるのか。「睡眠の規則性」の研究](https://research.seadice.win/sleep-regularity-same-time-research/): 寝起きの時刻がそろっていることは、睡眠時間と同じくらい、気分や健康と関わっていた。まずは起きる時刻をそろえるのが一歩目。
-- [眠れないなら、布団にいる時間を減らす？「睡眠制限法」のやり方と注意点を研究で調べた](https://research.seadice.win/sleep-restriction-time-in-bed-insomnia-how-research/): 布団にいる時間を実際の睡眠時間に合わせる睡眠制限法は、642人の試験で不眠を改善し効果は1年続いた。手順と、始めの数週の眠気への注意。
-- [睡眠アプリのスコアが悪くて不安になったら？ 数字と体調の関係を調べた研究でわかった立て直し方](https://research.seadice.win/sleep-tracker-bad-score-anxiety-recovery-research/): 悪い睡眠スコアを見ると、だるさを強く感じやすくなります。測った注意力には差がなかった実験と、機器の精度の研究から立て直し方を整理。
-- [スヌーズで二度寝するのは体に悪いのか。研究でわかった意外な結果](https://research.seadice.win/snooze-alarm-research/): 30分のスヌーズで失う睡眠は約6分で、頭の働きも下がらなかった研究がある一方、寝ぼけが長引いたという研究もあり、結論は分かれている。
-- [子どもがなかなか寝ない・夜中に起きるときは？ 毎晩同じ「寝る前の流れ」の作り方を研究で調べた](https://research.seadice.win/toddler-bedtime-routine-sleep-how-research/): お風呂・保湿・静かな触れ合いを毎晩同じ順に続けた試験で、2週間で夜中に起きる回数と時間が減りました。変化は最初の3晩で大きく出ました。
-- [電車や車に乗ると眠くなるのはなぜ？ 揺れと振動が眠気を強める仕組みを研究で調べた](https://research.seadice.win/train-car-sleepy-rocking-vibration-why-research/): 座席を20分振動させると反応の見落としが0.38回から3.69回に増えた実験と、揺れるベッドの研究でわかった、乗り物で眠くなる仕組み。
-- [眠ろうと頑張るほど眠れないのはなぜ？「眠る努力」が目を覚ます仕組みを研究で調べた](https://research.seadice.win/trying-hard-to-sleep-awake-research/): 眠りは自動で起きる働きで、意識して操ろうとすると妨げられる。頭が忙しい状態で早く眠ろうとすると、寝つきが遅れた実験も。
-- [週末の寝だめで平日の睡眠不足は帳消しにできる？4つの研究でわかったこと](https://research.seadice.win/weekend-catchup-sleep-debt/): 軽い寝だめは体調の良さと関連する一方、睡眠不足が大きいと帳消しにはできないことが4つの研究からわかった。
-- [週末に寝坊すると、なぜ月曜の朝がつらい？ 体内時計が後ろにずれる「社会的時差ぼけ」の研究](https://research.seadice.win/weekend-sleep-in-monday-social-jetlag-why-research/): 高校生の実験で遅寝遅起きの週末2晩のあと体内時計の目安が約45分遅れ、朝の光や早起きでも防げなかった。月曜がつらい仕組みを解説。
-- [加重ブランケット（重い毛布）は寝つきや不安に効くのか。4つの研究でわかったこと](https://research.seadice.win/weighted-blanket-sleep-anxiety-research/): 426人分の解析で不安への小さな効果を確認。不眠は研究で結果が分かれ、活動量計では今のところ差が出ていない。
-- [ホワイトノイズや雨の音を流すと、よく眠れる？ 38件のレビューと睡眠実験でわかったこと](https://research.seadice.win/white-noise-sleep-pink-noise-research/): 38件のレビューでは根拠の質は非常に低い。一晩中流すとレム睡眠が減り、騒音には耳栓が勝った。
-
-### 気分・ストレス
-
-- [イライラや不安に「名前をつける」と落ち着く？ 気持ちを言葉にするやり方を研究で調べた](https://research.seadice.win/affect-labeling-name-your-feelings-research/): 気持ちを言葉にすると、苦痛や体の恐怖反応が弱まった実験がある。気持ちの言葉を打ち込むだけでは嫌な気分が強まった報告も。
-- [イライラした瞬間、怒りを落ち着かせるには？「一歩引いて眺める」やり方を研究で調べた](https://research.seadice.win/anger-calm-down-self-distancing-research/): カッとしたら長く息を吐き、場面を離れた場所から眺め、自分を名前で呼んで問いかける。発散は効かなかった154件の分析などで整理。
-- [怒りを紙に書いて捨てると、気持ちは収まるのか。研究でわかった「捨てる」効果](https://research.seadice.win/anger-write-and-discard-paper/): 怒りを書いた紙を捨てると、怒りは侮辱される前の水準まで下がった。叩く・走るなど興奮を高める発散には効果がなかった。
-- [暗いニュースを見続けて不安になったら？ ニュースと気分の研究でわかった立て直し方](https://research.seadice.win/bad-news-anxiety-doomscrolling-recovery-research/): 暗いニュースは数分でも気分を下げ、自分の心配まで大きく見せる。気をそらすより15分のリラックス法で戻った研究と、見る時間の決め方。
-- [落ち込んで何もしたくない日、気分を上げるには？「行動活性化」の研究でわかった、気分より先に動くやり方](https://research.seadice.win/behavioral-activation-low-mood-steps-research/): 気分が戻るのを待たず、小さな活動を先に予定に入れる。行動活性化は軽い落ち込みの人の幸福感も中くらいの大きさで高めた。
-- [「最高の未来の自分」を書くと気分は上がる？ 研究で使われた15分のやり方と効果の大きさ](https://research.seadice.win/best-possible-self-writing-mood-research/): うまくいった数年後の自分を書いて思い浮かべるワークは、29件の分析で前向きな気分と楽観性を高めた。いやな気分を減らす効果ははっきりしない。
-- [失恋から立ち直れないときは？ 元恋人のSNSを見ない・気をそらす・書きすぎない、研究でわかった立て直し方](https://research.seadice.win/breakup-heartbreak-recovery-research/): 失恋から立ち直れないときは？ 元恋人のSNSを見るほどつらさが強く、気をそらすと気分が上がる研究があります。考え込みやすい人は書きすぎに注意です。
-- [人の咀嚼音や鼻をすする音に、強くイライラするのはなぜ？「ミソフォニア」の研究で調べた](https://research.seadice.win/chewing-sounds-irritation-misophonia-why-research/): 人の食べる音や呼吸の音に強い怒りがわくのは「ミソフォニア」の特徴です。脳の反応の研究と、英国で約18%が負担を感じていた調査を整理。
-- [冷たいシャワーで気分は上がるのか？研究でわかった本当のところ](https://research.seadice.win/cold-shower-mood-boost/): 3000人超の実験と11件のRCTのメタ分析から、冷たいシャワーが気分に与える効果の大きさと限界を確認した。
-- [泣くと気持ちは軽くなるのか。「泣いた直後」と「90分後」で違った研究](https://research.seadice.win/crying-mood-relief-research/): 泣いた直後は気分が下がるが、90分後には泣く前より良くなっていた。泣いた後に支えがあると、すっきりしやすかった。
-- [ストレスがたまったら、犬とふれあうと落ち着く？ 何分・どうふれあえばいいかを研究で調べた](https://research.seadice.win/dog-interaction-stress-relief-how-research/): 犬とふれあうとストレスと不安が下がることが大学生の試験15件で示された。10分前後でも効果があり、なでる・そばに座るなどふれあい方は自由。
-- [人前で恥ずかしい失敗をした後、どう立て直す？「思ったほど見られていない」研究でわかったこと](https://research.seadice.win/embarrassing-mistake-spotlight-effect-recovery-research/): 人は自分の失敗が気づかれる度合いも、厳しく見られる度合いも実際より大きく見積もる。見積もりを直す立て直し方。
-- [人の機嫌がうつってしまうのはなぜ？ 表情・声・ストレスが伝わる「感情の伝染」を研究で調べた](https://research.seadice.win/emotional-contagion-others-mood-why-research/): 人のストレスを見ていただけの211人のうち26%でストレスホルモンが上昇（相手がパートナーだと40%）。機嫌がうつる仕組みを解説。
-- [運動したのに気分が上がらない、かえってつらかったら？ 運動の強さと気分の研究でわかった立て直し方](https://research.seadice.win/exercise-felt-worse-mood-intensity-recovery-research/): 運動で気分が下がる主な原因は強さ。話せないほどの強さでは多くの人で不快が増えた。次は会話できるペースに落とし、途中の気分を−5〜+5で確かめながら自分で強さを選ぶ。
-- [つらい気持ちを紙に書き出すと、気分は軽くなるのか。「筆記開示」の研究](https://research.seadice.win/expressive-writing-mood-research/): 気持ちを書き出す効果は146件の分析で小さいながら確認された一方、うつ症状への効果ははっきりせず、書き方で結果が変わっていた。
-- [作り笑いでも気分は上がるのか。138件の研究から読み解く笑顔の効果](https://research.seadice.win/fake-smile-mood-facial-feedback/): 138件の研究の分析と再現実験から、作り笑いが気分に与える効果の大きさと、効きやすい笑い方を確認した。
-- [ストレスや気分の落ち込みに、家庭菜園や土いじりはどのくらいやればいい？ 園芸の研究でわかった頻度と時間](https://research.seadice.win/gardening-stress-mood-how-often-how-research/): 園芸はストレスの自己評価を下げ、気分の落ち込みには週3回未満・1回60分超・5〜8週間で効果が大きめとメタ分析。ベランダや室内の鉢でも始められます。
-- [感謝日記で幸福感は上がるのか。24,804人のデータでわかった効果の大きさ](https://research.seadice.win/gratitude-journal-happiness-effect-size/): 145件・24,804人の最新メタ分析などから、感謝を書き出す習慣が幸福感に与える効果の大きさと限界を確認した。
-- [お腹がすくとイライラするのはなぜ？「hangry（空腹で不機嫌）」の研究でわかった仕組み](https://research.seadice.win/hangry-hunger-irritability-why-research/): 空腹でイライラする「hangry」は、64人を21日間追った研究でも確認。血糖値だけでなく、空腹の不快さを周りへの怒りと取り違えることが一因と考えられている。
-- [暑い日にイライラしやすいのはなぜ？ 暑さと気分の研究で調べた](https://research.seadice.win/hot-day-irritability-heat-mood-why-research/): 30℃を超える部屋ではいら立ちや疲れが強まった。5か国1,636人の実験とSNS投稿35億件の分析から、暑さで気分が下がる仕組みを解説。
-- [HSP（繊細さん）は本当にいる？ 敏感さの研究でわかったこと・まだわからないこと](https://research.seadice.win/hsp-highly-sensitive-person-research/): HSPは診断名ではなく、誰にでもある敏感さの程度の差。日本の大学生では敏感さが高い人が26.8%。3つの面と、心の調子がよい人の対処法。
-- [無視された・仲間外れにされて落ち込んだら？「のけ者にされる」つらさからの立て直し方を研究で調べた](https://research.seadice.win/left-out-ignored-ostracism-recovery-research/): 短い無視でも心は大きく傷つきます。理由を「たまたま」と受け止める、今に注意を向ける、別の人とつながる。立ち直りを早めた実験を整理。
-- [人と会っても寂しさが消えないときは？ 50の研究のまとめでわかった、孤独感からの立て直し方](https://research.seadice.win/lonely-even-with-people-recovery-research/): 寂しさは人の数でなく「つながれていない」感覚。会う機会を増やすより、拒まれると予想する考え方の癖に働きかける方法が効いていました。
-- [好きな音楽を聴くとストレスホルモンは下がるのか。104件の研究でわかったこと](https://research.seadice.win/music-cortisol-stress-research/): 音楽とコルチゾールの関係を、104件のRCTのメタ分析と手術前後・コンサート・日常生活の研究から確認する
-- [自然の中で過ごすとストレスは下がるのか。4つの研究でわかった「20〜30分」の目安](https://research.seadice.win/nature-time-stress-reduction/): 143件の研究をまとめた分析や8週間の実験から、自然の中で過ごすとストレスホルモンが下がる効果と目安の時間を確認した。
-- [嫌な出来事ほど強く記憶に残るのはなぜ？ 脳の「ネガティビティ・バイアス」を研究で調べた](https://research.seadice.win/negative-events-memory-why-research/): 脳は悪い情報を強く処理し、細部まで覚えやすい。ただし10の文化562人の研究では、嫌な記憶のつらさは良い記憶より早く薄れていた。
-- [緊張する本番の前は「落ち着こう」より「わくわくしてきた」？ 不安の言い換えの研究でわかったやり方](https://research.seadice.win/nervous-before-performance-say-excited-research/): ドキドキは静めるより「わくわく」と言い換えると、気持ちと出来が上向いた。5,638人のまとめでは効果は小さく、補正後はさらに下がる。
-- [小さなことでも夜になると不安が大きくなるのはなぜ？ 体内時計と夜の考えごとを研究で調べた](https://research.seadice.win/night-worry-feels-bigger-why-research/): 夜中は体内時計で気分が底になる時間帯（午前3時ごろ）。暗く静かな寝室は心配に注意が向きやすく、心配の91.4%は実際には起きなかった記録も。
-- [オンライン会議のあと、どっと疲れるのはなぜ？「Zoom疲れ」の仕組みを研究で調べた](https://research.seadice.win/online-meeting-fatigue-why-research/): 画面越しの会議は脳が疲れやすく、自分の顔の表示や会議の多さが疲れを足す。ただ最近の調査では差がない結果も。
-- [ペットを亡くした悲しみから立ち直れないときは？ ペットロスの研究でわかった、悲しみの続き方と立て直し方](https://research.seadice.win/pet-loss-grief-recovery-research/): ペットロスはおかしくない？ 英国975人の調査で長引く悲嘆は7.5%と友人を亡くした場合並み。思い出を残す・話す・責めないが鍵でした。
-- [ポジティブ思考は逆効果になることがあるのか。研究でわかった「空想」の代償](https://research.seadice.win/positive-thinking-backfire-research/): 望む未来を先取りして空想するほど努力やエネルギーが下がるという研究や、幸せを意識しすぎると幸福感が下がる研究を整理した。
-- [前向きに考えようとして、かえって落ち込んだら？「嫌な気持ちを受け入れる」ほうが楽になる理由を研究で調べた](https://research.seadice.win/positive-thinking-felt-worse-acceptance-research/): 前向きに考えようとして落ち込んだら？ 嫌な考えを押し込めると戻りやすく、気持ちを受け入れる人ほど落ち込みにくい研究から立て直し方を整理。
-- [ストレスで体がこわばるときは？ 力を入れて抜く「漸進的筋弛緩法」のやり方と時間を研究で調べた](https://research.seadice.win/progressive-muscle-relaxation-stress-steps-research/): 約5秒力を入れて10秒かけて抜く。大学生60人の実験で20分後にリラックス感が上がり、46件の研究でもストレス軽減の報告が多い。
-- [雨の日や曇りの日に気分が沈むのはなぜ？ 天気と気分の研究でわかった「日の光」と「人による違い」](https://research.seadice.win/rainy-day-low-mood-weather-why-research/): 天気の影響は平均すると小さいものの、日の光が減るとだるくなり、雨の日に特に気分が下がる人もいます。1,233人の日記研究などから仕組みを解説。
-- [深呼吸や瞑想で、かえって不安になったら？ リラックス法が合わないときの立て直し方を研究で調べた](https://research.seadice.win/relaxation-meditation-anxiety-backfire-research/): 瞑想経験者の27.0%が不安を経験。多くは一時的で、無理に続けず、やり方を変える・時間を減らすのが立て直しの基本。
-- [休んだのに疲れやストレスが抜けないのはなぜ？ 休み方の立て直し方を研究で調べた](https://research.seadice.win/rest-not-recovering-stress-research/): 休み中に仕事から頭が離れている人ほど疲れが少ない。休暇の効果は仕事に戻ると薄れやすく、頭を切り離す力は練習で伸ばせる。
-- [楽しい時間を「味わう」と気分は上がる？ 良いことをじっくり味わうセイバリングのやり方を研究で調べた](https://research.seadice.win/savoring-good-moments-mood-how-research/): 良いことに注意を向けて味わうセイバリングは、20件4,805人のまとめで気分が中くらい改善。今を味わうコツと1日5分の手順。
-- [自分に厳しくするほど早く立ち直れる、は本当か。90人の実験でわかったこと](https://research.seadice.win/self-compassion-recovery-speed/): 自分を責めても早く立ち直れるとは限らない。90人の実験や494人の調査から、自分への思いやりと立ち直りの関係を調べた。
-- [音や光がつらい感覚過敏、自分でできる対策は？ 6つの研究でわかったこと](https://research.seadice.win/sensory-overload-self-care-research/): 聴覚過敏は一般の人の0.2〜17.2%。イヤーマフは子どもの困りごとを減らしたが、耳栓で遮り続けると音に敏感になる方向に変わった。
-- [運動は何分から気分が上がる？研究でわかった「短くても効く」根拠](https://research.seadice.win/short-exercise-mood-boost/): 1万3000人超のデータと5分の散歩の実験から、短時間の運動でも気分が上がることを解説。
-- [寝不足だとイライラしやすいのはなぜか。睡眠不足と怒りの研究](https://research.seadice.win/sleep-loss-anger-irritability/): 2日間睡眠を減らすだけで怒りは強まり、睡眠不足は前向きな気分を減らし不安を増やしていた。イライラは性格より睡眠の問題かもしれない。
-- [深呼吸でストレスは本当に下がるのか。「長く吐く呼吸」の研究](https://research.seadice.win/slow-breathing-stress-research/): 呼吸法はストレスを小〜中程度下げ、1日5分の「長く吐く呼吸」は瞑想より気分を改善した。ただし研究の質には限界もある。
-- [気分が沈む日に、小さな親切で気分は上がる？ 親切と幸福感の研究でわかったやり方](https://research.seadice.win/small-acts-of-kindness-mood-how-research/): 683人の7日間の実験で小さな親切は幸福感を上げ、6週間の実験では自分へのごほうびより人への親切が効いた。効果は控えめ（相関0.13）。
-- [SNSを眺めて人と比べ、落ち込んだら？「うらやましさ」からの立て直し方を研究で調べた](https://research.seadice.win/sns-comparison-felt-worse-recovery-research/): SNSを眺めて比べると落ち込むことはあるが研究結果はそろわず人によって違う。うらやましさを望みに変える立て直し方を整理。
-- [SNSをやめると幸福度は上がるのか。「やめる期間」で変わった研究](https://research.seadice.win/social-media-break-wellbeing/): 1週間以上SNSをやめると幸福感が上がり、うつや不安が下がった。1週間未満だとかえって悪化しており、期間が大切だった。
-- [ひとりの時間は心を回復させるのか。研究でわかった条件](https://research.seadice.win/solitude-affective-restoration/): 一人の時間は高ぶった感情を落ち着かせ、自分で選んだ場合はリラックスにもつながる一方、10代前半では一人の時間が少なすぎても多すぎても適応が良くない傾向があることを複数の研究から確認した。
-- [嫌なことが頭から離れないとき、どう立て直す？「反芻」から抜け出す方法を研究で調べた](https://research.seadice.win/stop-ruminating-after-bad-day-research/): 嫌なことを考え続けると気分は悪化しやすい。短い気晴らし、自分を外から眺める振り返り、考える時間を後に決める方法に効果の報告がある。
-- [人と話すと気分は上がるのか。知らない人との短い会話の研究](https://research.seadice.win/stranger-small-talk-mood-research/): 電車やカフェでの一言、オンラインの30分間会話まで。話しかけると気まずくなるという予想は、研究ではくり返し外れている。
-- [日曜の夜になると憂うつになるのはなぜ？「明日のこと」を考える脳の仕組みを研究で調べた](https://research.seadice.win/sunday-night-blues-why-research/): 日曜の夜の憂うつは、月曜を頭の中で先取りする心配から。心配は出来事の前から体のストレス反応を長引かせ、平日の朝はストレスホルモンが週末より高い。
-- [背筋を伸ばすと気分は上向くのか。姿勢とストレスの研究](https://research.seadice.win/upright-posture-mood-research/): 背筋を伸ばすと、ストレスの中でも気分や自尊心が保たれやすかった。一方、パワーポーズでホルモンが変わる効果は再現されなかった。
-- [友人に弱音を吐くとストレスは軽くなるのか。「打ち明けること」を研究で調べた](https://research.seadice.win/venting-to-friends-corumination-research/): 話すこと自体には小さな前向き効果があるが、同じ話をくり返す「共同反芻」はうつ・不安の症状と関連する。27,794人のメタ分析でもうつ症状との関連を確認。
-- [結果を待つ時間がいちばんつらいのはなぜ？「どうなるかわからない」不確かさとストレスの研究で調べた](https://research.seadice.win/waiting-for-results-anxiety-uncertainty-why-research/): 痛みが来る確率が五分五分のときにストレスが最も高かった45人の実験と、痛みを待つより早く済ませたがる人が多かった実験からわかった、結果待ちがつらい仕組み。
-- [冬になると気分が落ち込むのはなぜ？ 日の短さと体内時計、「冬季うつ」の研究で調べた](https://research.seadice.win/winter-low-mood-seasonal-why-research/): 日の光が減る冬に脳のセロトニンや体内時計が変わる研究と、冬季うつは約5%で人により大きく違うことを整理。
-- [心配ごとが頭から離れないときは「心配する時間」を決める？ 心配の先送りの研究でわかったやり方](https://research.seadice.win/worry-time-postponement-how-research/): 毎日30分の「心配タイム」に心配を先送りすると、53人の実験で心配と不安が減少。オンラインで指示だけでは効果がなかった研究も含めて整理。
-- [気分が落ち込む日が続くとき、ヨガは週何回やればいい？ 研究でわかった回数・期間と続け方](https://research.seadice.win/yoga-low-mood-how-often-how-research/): ヨガで落ち込みは軽くなり、週の回数が多いほど効果が大きく出ました。週2回以上を12週間が、試験の条件に近い目安です。
-
-### 集中力
-
-- [香りで集中力は上がるのか。ローズマリーとペパーミントの研究でわかったこと](https://research.seadice.win/aroma-rosemary-focus-research/): ローズマリーやペパーミントで記憶の成績が上がった実験がある一方、ラベンダーは成績を下げた。効果は香りごとにまちまちだった。
-- [音楽を聴きながら勉強していいのか。歌詞の有無で結果が変わることが研究でわかった](https://research.seadice.win/background-music-studying-focus/): 歌詞のある音楽は読解・記憶の成績を下げやすいが、歌詞なしや聴き慣れた曲では悪影響がはっきりしないことを実験から確認。
-- [人の話し声が気になって集中できないのはなぜ？ 聞くつもりがなくても言葉を拾う脳の仕組みを研究で調べた](https://research.seadice.win/background-talk-distraction-why-research/): 聞き取れる話し声ほど読む作業を遅らせる。脳は聞くつもりのない声からも意味や自分の名前を拾っている。
-- [つまらない作業に集中できないのはなぜ？「退屈」が注意をはがす仕組みを研究で調べた](https://research.seadice.win/boring-task-cant-focus-boredom-why-research/): 退屈は、作業が簡単すぎ・難しすぎて注意がかみ合わないときと、意味を感じないときに生まれる。402人の実験やfMRIの研究で整理。
-- [眠くて集中できない昼間、明るい光はどう使う？ 照明の明るさと使いどころを研究で調べた](https://research.seadice.win/bright-light-daytime-focus-sleepiness-research/): 寝不足で眠い日は、窓際や明るい照明の下で目に光を入れて1時間ほど作業する。よく眠れた日は効果がはっきりしない研究も含めて整理。
-- [ガムを噛むと集中できるのか。「噛むタイミング」で変わった研究](https://research.seadice.win/chewing-gum-focus-research/): 作業前に5分噛むと最初の15〜20分は成績が上がったが、作業中ずっと噛むと効果はなかった。眠気覚ましには役立つ可能性がある。
-- [集中したいときのコーヒーは何杯・いつ飲む？ カフェインの量とタイミングの研究](https://research.seadice.win/coffee-caffeine-focus-amount-timing-research/): カフェインは注意力を小さく高めるが、正確さは多すぎると下がる。毎日飲む人は切れた不調の回復の面も。1〜2杯、寝る8.8時間前までが目安。
-- [風邪で頭がぼーっとして集中できないときは？ 風邪と頭の働きの研究でわかった立て直し方](https://research.seadice.win/cold-brain-fog-focus-recovery-research/): 風邪では反応と覚える速さが落ち、記憶の正確さは残りやすい。コーヒーで眠気と遅れが戻った実験も。運転と長い作業は控えめに。
-- [締め切り直前に急に集中できるのはなぜか。「時間の圧力」の研究でわかったこと](https://research.seadice.win/deadline-time-pressure-focus-research/): 締め切りの圧力（残りの作業÷残りの時間）が高いほど、人は努力を避けるより求めるようになり、脳ではこの圧力を追うような活動が見られることが研究でわかった。
-- [水を飲まずにいると集中できなくなるのはなぜ？ 軽い脱水と「のどの渇き」が注意をうばう仕組みを研究で調べた](https://research.seadice.win/dehydration-thirst-focus-why-research/): 体重の2%を超える脱水で注意や段取りの力が落ちやすく、1〜2%前後でも疲れや「集中しにくい」感じが強まる。渇きが注意を使う仕組み。
-- [机を片付けると集中できるのか。散らかった部屋と脳の研究](https://research.seadice.win/desk-clutter-focus-research/): 視界の物は脳の中で注意を奪い合う。整った部屋は落ち着いた選択を、散らかった部屋は創造性を後押ししていた。
-- [勉強中に気が散るのを減らすには？「もし〜したら、〜する」と先に決める研究でわかったやり方](https://research.seadice.win/distraction-if-then-plan-study-focus-how-research/): 「気を散らさない」と目標を立てるだけでは変わらず、気が散る場面に「もし〜したら、〜する」を決めた学生は気が散る時間が減っていた研究と、12分でできる決め方。
-- [運転中に眠くなって集中できないときは？ 窓を開ける・音楽より効いた立て直し方を研究で調べた](https://research.seadice.win/drowsy-driving-focus-recovery-research/): 運転中に眠くて集中できないときは？ 冷たい風やラジオは効いても短時間。止まって休み、カフェインと15分以内の仮眠を組み合わせると、車線のはみ出しが何もしない日の9%まで減りました。
-- [メールやチャットが気になって集中できないときは？「1日3回まとめて見る」やり方を研究で調べた](https://research.seadice.win/email-chat-batching-focus-how-research/): 見る時刻を1日3回ほどに決めて通知を切ると、割り込みとストレスが減った研究から、まとめ見のやり方と効きにくい条件を整理。
-- [勉強や仕事の前に運動すると集中できる？ 何分・いつやるかを研究で調べた](https://research.seadice.win/exercise-before-study-focus-research/): 1回の運動のあと、頭の働きは小さく上がる。20分以内でも足りる可能性があり、作業は運動の最中より終えてから始めるほうが確実。
-- [長く作業すると集中力が切れるのはなぜ？「エネルギー切れ」説が揺らいだ理由を研究で調べた](https://research.seadice.win/focus-fades-over-time-why-research/): 集中は時間とともに落ちるが、「エネルギー切れ」説は2,141人の再現実験で支持されなかった。目標を保つ難しさや続ける価値の見積もりが関わると考えられている。
-- [集中が続かないのは意志の弱さじゃない。休憩の取り方を研究で調べた](https://research.seadice.win/focus-microbreaks-pomodoro/): 10分ごと90秒の小休憩や2秒の気晴らしが集中の落ち込みを防いだ研究を紹介。休憩の取り方を解説。
-- [難しい作業は何時にやると集中できる？ 朝型・夜型と時間帯の研究でわかった選び方](https://research.seadice.win/hard-work-time-of-day-chronotype-research/): 集中しやすい時間は朝型か夜型かで違う。朝8時、朝型は夜型より注意力が8.4%高かった。65件のレビューと休憩の研究から時間の選び方を整理。
-- [花粉症の時期に集中できないのはなぜ？ 鼻の症状と頭の働きの研究で調べた](https://research.seadice.win/hay-fever-cant-focus-why-research/): 花粉の季節は覚える力や処理の速さが落ちた。炎症・浅い眠り・薬の眠気・気分が重なる。日本の働く人555人では症状が重い人ほど効率が低下。
-- [お腹がすくと集中できないのはなぜ？ 空腹と頭の働き、食べ物に向く注意の研究で調べた](https://research.seadice.win/hunger-cant-focus-why-research/): 半日ほどの空腹では大人の頭の働きはほぼ変わらないという研究と、食べ物に注意が向く説の追試結果を整理。
-- [緑の植物を置くと集中力は上がるのか。4つの研究でわかったこと](https://research.seadice.win/indoor-plants-focus-concentration-research/): 42件の分析では注意力への効果は不明瞭だが学業成績には有意な効果。ストレスを下げる効果は複数の実験で確認された。
-- [作業を中断された後、集中を取り戻すには？ 中断と再開の5つの研究でわかったこと](https://research.seadice.win/interrupted-work-refocus-research/): 数秒の中断でも手順の誤りは2倍に。中断前に手がかりを覚えると戻りが速く、戻ってすぐ再開せず10秒待つとミスが減った。
-- [子どもが宿題や授業に集中できないときは？ 体を動かす休憩の入れ方を研究で調べた](https://research.seadice.win/kids-movement-break-homework-focus-how-research/): 小学生のメタ分析では運動休憩で課題に向かう行動が増えました。いちばん増えたのは10分の休憩後。走るだけより、頭も使う運動遊びが効いていました。
-- [気づくと別のことを考えてしまうのはなぜ？ 心がさまよう仕組みを研究で調べた](https://research.seadice.win/mind-wandering-why-research/): 慣れた単純作業ほど脳の「内側に向かう回路」が働き、心がさまよう。単調な作業の実験では43%、その半分近く（45%）は本人も気づかないうちだった。
-- [ミスした直後に、またミスが続くときは？ ミスの後に注意が乱れる研究でわかった立て直し方](https://research.seadice.win/mistake-after-mistake-focus-recovery-research/): ミスの直後は注意が乱れ、0.5秒以内の判断で正確さが落ちました。一呼吸おく、振り返りは後に回す、自分を責めない。実験から立て直し方を整理。
-- [起きてすぐ頭が働かないとき、どう立て直す？ 寝起きのぼんやり（睡眠慣性）が抜けるまでの時間と対策を研究で調べた](https://research.seadice.win/morning-grogginess-sleep-inertia-focus-recovery-research/): 寝起きのぼんやりは多くの研究で30分以内に戻るが、寝不足が続くと長引く。洗顔や光は目覚め感を上げても成績は戻さない結果が多い。
-- [「ながら作業」は集中力を本当に下げるのか。研究でわかった切り替えのコスト](https://research.seadice.win/multitasking-focus-cost-research/): 考えることを2つ同時にすると成績は落ちる。一方、聞き流すだけの「ながら」は影響が小さく、ながら癖と集中力の関係ははっきりしない。
-- [集中が切れてしまったら、どこで休む？ 緑の中を歩く休憩と注意力の回復を研究で調べた](https://research.seadice.win/nature-break-focus-recovery-research/): 集中が切れたら、緑の多い場所を歩く休憩で注意力が戻りやすい。12の実験・528人で0.75点対0.29点。差は小さく、出ない実験もある。
-- [コーヒーを飲まないと集中できないのはなぜ？「カフェイン離脱」の研究で調べた](https://research.seadice.win/no-coffee-cant-focus-caffeine-withdrawal-why-research/): 毎日のカフェインを抜くと12〜24時間後から集中しにくさや頭痛が出ます。66本の研究のレビューと、効き目は離脱を戻すだけかという論争を整理。
-- [耳栓やノイズキャンセリングイヤホンは集中力を上げるのか。4つの研究でわかったこと](https://research.seadice.win/noise-cancelling-focus-research/): ANCヘッドホンは記憶課題の成績を上げないが、集中している感覚は改善。耳栓は単純作業の注意力を上げる一方、不安を強め複雑な作業の成績を下げることもあった。
-- [生理痛の日に集中できないときは？ 月経周期と頭の働き、生理痛の研究でわかった立て直し方](https://research.seadice.win/period-pain-focus-recovery-research/): 月経周期で頭の働きが変わる確かな証拠はなく、注意力が落ちたのは生理痛が強い日。痛み止め・温める・ふだんの運動と、作業の組み替えで立て直します。
-- [休憩したのに集中が戻らないのはなぜ？ 休憩中のスマホと回復の研究でわかった立て直し方](https://research.seadice.win/phone-break-focus-not-recovering-research/): スマホでとった休憩は、紙やパソコンの同じ休憩より回復が小さかった。スマホを置き、歩く・力を抜く休憩をとり直すと立て直しやすい。
-- [スマホの通知をオフにすると集中力は戻るのか。3つの研究でわかったこと](https://research.seadice.win/phone-notifications-off-focus/): 通知は触らなくても集中を削り、脳の反応も変化する。ただし通知オフ単独の効果を検証した大規模研究はまだ少ないことを確認した。
-- [「スマホが視界にあるだけで集中力が落ちる」は本当か。22件の研究のメタ分析で調べた](https://research.seadice.win/phone-presence-attention-brain-drain/): 22件の研究のメタ分析では記憶課題に小さな悪影響。ただし追試では再現せず、効果の大きさには議論が残る。
-- [読んでいるのに頭に入らない、同じ行を何度も読んでしまうときは？ 読書中の「上の空」の研究でわかった立て直し方](https://research.seadice.win/reading-not-sinking-in-mind-wandering-recovery-research/): 読書中の上の空は理解の低さと関連（25研究、r = -0.21）。声に出して読むと上の空が最も少なく、聞くだけだと最も多い。書体を読みにくくする工夫は追試で効果なし。
-- [部屋の温度は集中力に影響するのか。4つの研究でわかった「暑すぎても寒すぎても」の境界](https://research.seadice.win/room-temperature-concentration-research/): 室温と集中力の関係を、22〜24℃を目安とする系統的レビューを含む4つの研究から、暑さ・寒さそれぞれの境界を確認する
-- [画面作業で目が疲れて集中が切れたら？ 20-20-20ルールと短い休憩の研究でわかった立て直し方](https://research.seadice.win/screen-eye-strain-focus-break-20-20-20-research/): まず20秒遠くを見て、30分前後ごとに短い休憩を。5分休憩を1日4回足すと目の疲れが減り、仕事量も保たれた。ブルーライト眼鏡の根拠は弱い。
-- [画面だと長い文章が頭に入らないときは？ 紙と画面の読み比べ研究でわかった、集中して読むやり方](https://research.seadice.win/screen-reading-focus-paper-how-research/): 説明文を時間に追われて読むと画面は紙より理解が下がりやすく、余裕があれば差はほぼない。紙に印刷する場面と、画面で集中して読むやり方。
-- [短い瞑想で集中力は戻るのか。研究でわかった「数分」の効果](https://research.seadice.win/short-meditation-focus-recovery/): 5日間20分の瞑想訓練や10分のガイド瞑想で注意力が上がった研究から、短時間の瞑想の効果を確認した。
-- [座りっぱなしで頭がぼんやりしてきたら？ 何分おきに立って歩くと集中が戻るかを研究で調べた](https://research.seadice.win/sitting-break-walk-focus-research/): 30〜60分に1回、3〜5分歩く。22件の実験のまとめで頭の働きがわずかに改善（g＝0.13）。差が出なかった実験も整理。
-- [朝食を抜くと集中力は落ちるのか。大人と子どもで違った研究](https://research.seadice.win/skipping-breakfast-focus-research/): 大人では朝食で記憶に小さな効果があり、注意への効果ははっきりしない。子どもでは注意・記憶ともに上がりやすかった。
-- [寝不足の翌日、集中力をどう立て直す？ 睡眠不足と眠気対策の研究でわかったこと](https://research.seadice.win/sleep-deprived-next-day-focus-research/): 寝不足で最も落ちるのは単純な注意。眠気の自覚は当てにならず、カフェインの後の15〜20分の仮眠が眠気をよく抑えた。
-- [SNSを見すぎて1日が終わったら？ 翌日の集中を取り戻す方法を研究で調べた](https://research.seadice.win/sns-wasted-day-next-day-focus-research/): 責めずに区切り、今夜のうちに明日の最初の作業を具体的に決め、作業中はスマホのネットを切る。ネットを2週間止めた実験などで整理。
-- [閉めきった部屋で集中できないのはなぜ？ 換気と二酸化炭素の研究で調べた](https://research.seadice.win/stuffy-room-cant-focus-ventilation-why-research/): 換気を増やすと計算の速さが13.7%上がった教室のメタ分析と、二酸化炭素だけを増やした実験の食い違いからわかった、閉めきった部屋で集中が落ちる仕組み。
-- [疲れたときの甘いもので、集中力は戻るのか。「シュガーラッシュ」の研究](https://research.seadice.win/sugar-focus-willpower-research/): 糖分で気分は良くならず、食べて1時間以内はかえって疲れを感じやすかった。「意志力はブドウ糖で回復する」説も裏付けが弱かった。
-- [動画の授業や研修に集中できないときは？ 途中で「小テスト」をはさむやり方を研究で調べた](https://research.seadice.win/video-lecture-focus-quiz-breaks-how-research/): 21分の講義動画を約5.5分ごとに止めて問題に答えると、上の空が41%→19%に。ただ195人の追試では47%→40%と差は小さかった。
-- [アイデアが出ないときは歩く。散歩とひらめきの関係を研究で調べた](https://research.seadice.win/walking-boosts-creativity/): 歩行中は約8割の人で発想力が向上。1000人超のメタ分析でも確認された散歩とひらめきの関係を解説。
-- [人に見られていると、はかどる日と失敗する日があるのはなぜ？「社会的促進」の研究で調べた](https://research.seadice.win/watched-by-others-focus-social-facilitation-why-research/): 人がいると張りつめ、慣れた作業は速く、不慣れな作業は崩れやすい。241研究のメタ分析、445人の再現実験、再現できなかったゴキブリの実験で整理。
-- [在宅勤務で集中できない日が続いたら？ 85の工夫を比べた研究でわかった立て直し方](https://research.seadice.win/wfh-focus-slump-recovery-research/): 在宅勤務の85の工夫を548人で比べた研究では、別室や仕事着より、目標・時間の区切り・人とのつながりが仕事の出来と結びついていた。
-- [ホワイトノイズで集中できるのか。「人によって逆になる」研究](https://research.seadice.win/white-noise-focus-research/): ホワイトノイズは気が散りやすい人には小さな効果があったが、そうでない人には逆効果だった。合うかどうかは人によって違う。
-- [心配ごとがあると集中できないのはなぜ？ 不安が「頭の作業スペース」を使ってしまう仕組みを研究で調べた](https://research.seadice.win/worry-cant-concentrate-why-research/): 心配ごとがあると集中できないのは、心配が頭の作業スペース（ワーキングメモリ）を使うため。メタ分析と実験から仕組みを整理。
-
 ### 習慣
 
 - [1回のミスで「もう全部やめたくなる」のはなぜ？「どうにでもなれ効果」の研究](https://research.seadice.win/all-or-nothing-diet-slip-research/): 「低カロリー」と伝えられても食事制限中の人は食べすぎ、失敗を自分のせいと決めつけるほど次の過食が早まった。4つの研究から確認。
@@ -344,6 +179,64 @@
 - [数学の問題が解けないときは、先に例題の解き方を読む？「例題→類題」で学ぶやり方を研究で調べた](https://research.seadice.win/worked-examples-math-problem-solving-how-research/): 初めての単元は、解き方つきの例題を読んでから似た問題を解くと身につきやすい。55件の研究のまとめと、慣れたら手助けを減らすやり方。
 - [テストで間違えた後、どう復習すれば覚えられるのか。「間違い」と記憶の研究でわかったこと](https://research.seadice.win/wrong-answer-review-memory-research/): 間違えた直後に正解を確かめると1週間後の記憶が大きく伸びた。自信満々の間違いほど直りやすいが、わざと間違える必要はない。
 
+### 気分・ストレス
+
+- [イライラや不安に「名前をつける」と落ち着く？ 気持ちを言葉にするやり方を研究で調べた](https://research.seadice.win/affect-labeling-name-your-feelings-research/): 気持ちを言葉にすると、苦痛や体の恐怖反応が弱まった実験がある。気持ちの言葉を打ち込むだけでは嫌な気分が強まった報告も。
+- [イライラした瞬間、怒りを落ち着かせるには？「一歩引いて眺める」やり方を研究で調べた](https://research.seadice.win/anger-calm-down-self-distancing-research/): カッとしたら長く息を吐き、場面を離れた場所から眺め、自分を名前で呼んで問いかける。発散は効かなかった154件の分析などで整理。
+- [怒りを紙に書いて捨てると、気持ちは収まるのか。研究でわかった「捨てる」効果](https://research.seadice.win/anger-write-and-discard-paper/): 怒りを書いた紙を捨てると、怒りは侮辱される前の水準まで下がった。叩く・走るなど興奮を高める発散には効果がなかった。
+- [暗いニュースを見続けて不安になったら？ ニュースと気分の研究でわかった立て直し方](https://research.seadice.win/bad-news-anxiety-doomscrolling-recovery-research/): 暗いニュースは数分でも気分を下げ、自分の心配まで大きく見せる。気をそらすより15分のリラックス法で戻った研究と、見る時間の決め方。
+- [落ち込んで何もしたくない日、気分を上げるには？「行動活性化」の研究でわかった、気分より先に動くやり方](https://research.seadice.win/behavioral-activation-low-mood-steps-research/): 気分が戻るのを待たず、小さな活動を先に予定に入れる。行動活性化は軽い落ち込みの人の幸福感も中くらいの大きさで高めた。
+- [「最高の未来の自分」を書くと気分は上がる？ 研究で使われた15分のやり方と効果の大きさ](https://research.seadice.win/best-possible-self-writing-mood-research/): うまくいった数年後の自分を書いて思い浮かべるワークは、29件の分析で前向きな気分と楽観性を高めた。いやな気分を減らす効果ははっきりしない。
+- [失恋から立ち直れないときは？ 元恋人のSNSを見ない・気をそらす・書きすぎない、研究でわかった立て直し方](https://research.seadice.win/breakup-heartbreak-recovery-research/): 失恋から立ち直れないときは？ 元恋人のSNSを見るほどつらさが強く、気をそらすと気分が上がる研究があります。考え込みやすい人は書きすぎに注意です。
+- [人の咀嚼音や鼻をすする音に、強くイライラするのはなぜ？「ミソフォニア」の研究で調べた](https://research.seadice.win/chewing-sounds-irritation-misophonia-why-research/): 人の食べる音や呼吸の音に強い怒りがわくのは「ミソフォニア」の特徴です。脳の反応の研究と、英国で約18%が負担を感じていた調査を整理。
+- [冷たいシャワーで気分は上がるのか？研究でわかった本当のところ](https://research.seadice.win/cold-shower-mood-boost/): 3000人超の実験と11件のRCTのメタ分析から、冷たいシャワーが気分に与える効果の大きさと限界を確認した。
+- [泣くと気持ちは軽くなるのか。「泣いた直後」と「90分後」で違った研究](https://research.seadice.win/crying-mood-relief-research/): 泣いた直後は気分が下がるが、90分後には泣く前より良くなっていた。泣いた後に支えがあると、すっきりしやすかった。
+- [ストレスがたまったら、犬とふれあうと落ち着く？ 何分・どうふれあえばいいかを研究で調べた](https://research.seadice.win/dog-interaction-stress-relief-how-research/): 犬とふれあうとストレスと不安が下がることが大学生の試験15件で示された。10分前後でも効果があり、なでる・そばに座るなどふれあい方は自由。
+- [人前で恥ずかしい失敗をした後、どう立て直す？「思ったほど見られていない」研究でわかったこと](https://research.seadice.win/embarrassing-mistake-spotlight-effect-recovery-research/): 人は自分の失敗が気づかれる度合いも、厳しく見られる度合いも実際より大きく見積もる。見積もりを直す立て直し方。
+- [人の機嫌がうつってしまうのはなぜ？ 表情・声・ストレスが伝わる「感情の伝染」を研究で調べた](https://research.seadice.win/emotional-contagion-others-mood-why-research/): 人のストレスを見ていただけの211人のうち26%でストレスホルモンが上昇（相手がパートナーだと40%）。機嫌がうつる仕組みを解説。
+- [運動したのに気分が上がらない、かえってつらかったら？ 運動の強さと気分の研究でわかった立て直し方](https://research.seadice.win/exercise-felt-worse-mood-intensity-recovery-research/): 運動で気分が下がる主な原因は強さ。話せないほどの強さでは多くの人で不快が増えた。次は会話できるペースに落とし、途中の気分を−5〜+5で確かめながら自分で強さを選ぶ。
+- [つらい気持ちを紙に書き出すと、気分は軽くなるのか。「筆記開示」の研究](https://research.seadice.win/expressive-writing-mood-research/): 気持ちを書き出す効果は146件の分析で小さいながら確認された一方、うつ症状への効果ははっきりせず、書き方で結果が変わっていた。
+- [作り笑いでも気分は上がるのか。138件の研究から読み解く笑顔の効果](https://research.seadice.win/fake-smile-mood-facial-feedback/): 138件の研究の分析と再現実験から、作り笑いが気分に与える効果の大きさと、効きやすい笑い方を確認した。
+- [ストレスや気分の落ち込みに、家庭菜園や土いじりはどのくらいやればいい？ 園芸の研究でわかった頻度と時間](https://research.seadice.win/gardening-stress-mood-how-often-how-research/): 園芸はストレスの自己評価を下げ、気分の落ち込みには週3回未満・1回60分超・5〜8週間で効果が大きめとメタ分析。ベランダや室内の鉢でも始められます。
+- [感謝日記で幸福感は上がるのか。24,804人のデータでわかった効果の大きさ](https://research.seadice.win/gratitude-journal-happiness-effect-size/): 145件・24,804人の最新メタ分析などから、感謝を書き出す習慣が幸福感に与える効果の大きさと限界を確認した。
+- [お腹がすくとイライラするのはなぜ？「hangry（空腹で不機嫌）」の研究でわかった仕組み](https://research.seadice.win/hangry-hunger-irritability-why-research/): 空腹でイライラする「hangry」は、64人を21日間追った研究でも確認。血糖値だけでなく、空腹の不快さを周りへの怒りと取り違えることが一因と考えられている。
+- [暑い日にイライラしやすいのはなぜ？ 暑さと気分の研究で調べた](https://research.seadice.win/hot-day-irritability-heat-mood-why-research/): 30℃を超える部屋ではいら立ちや疲れが強まった。5か国1,636人の実験とSNS投稿35億件の分析から、暑さで気分が下がる仕組みを解説。
+- [HSP（繊細さん）は本当にいる？ 敏感さの研究でわかったこと・まだわからないこと](https://research.seadice.win/hsp-highly-sensitive-person-research/): HSPは診断名ではなく、誰にでもある敏感さの程度の差。日本の大学生では敏感さが高い人が26.8%。3つの面と、心の調子がよい人の対処法。
+- [無視された・仲間外れにされて落ち込んだら？「のけ者にされる」つらさからの立て直し方を研究で調べた](https://research.seadice.win/left-out-ignored-ostracism-recovery-research/): 短い無視でも心は大きく傷つきます。理由を「たまたま」と受け止める、今に注意を向ける、別の人とつながる。立ち直りを早めた実験を整理。
+- [人と会っても寂しさが消えないときは？ 50の研究のまとめでわかった、孤独感からの立て直し方](https://research.seadice.win/lonely-even-with-people-recovery-research/): 寂しさは人の数でなく「つながれていない」感覚。会う機会を増やすより、拒まれると予想する考え方の癖に働きかける方法が効いていました。
+- [好きな音楽を聴くとストレスホルモンは下がるのか。104件の研究でわかったこと](https://research.seadice.win/music-cortisol-stress-research/): 音楽とコルチゾールの関係を、104件のRCTのメタ分析と手術前後・コンサート・日常生活の研究から確認する
+- [自然の中で過ごすとストレスは下がるのか。4つの研究でわかった「20〜30分」の目安](https://research.seadice.win/nature-time-stress-reduction/): 143件の研究をまとめた分析や8週間の実験から、自然の中で過ごすとストレスホルモンが下がる効果と目安の時間を確認した。
+- [嫌な出来事ほど強く記憶に残るのはなぜ？ 脳の「ネガティビティ・バイアス」を研究で調べた](https://research.seadice.win/negative-events-memory-why-research/): 脳は悪い情報を強く処理し、細部まで覚えやすい。ただし10の文化562人の研究では、嫌な記憶のつらさは良い記憶より早く薄れていた。
+- [緊張する本番の前は「落ち着こう」より「わくわくしてきた」？ 不安の言い換えの研究でわかったやり方](https://research.seadice.win/nervous-before-performance-say-excited-research/): ドキドキは静めるより「わくわく」と言い換えると、気持ちと出来が上向いた。5,638人のまとめでは効果は小さく、補正後はさらに下がる。
+- [小さなことでも夜になると不安が大きくなるのはなぜ？ 体内時計と夜の考えごとを研究で調べた](https://research.seadice.win/night-worry-feels-bigger-why-research/): 夜中は体内時計で気分が底になる時間帯（午前3時ごろ）。暗く静かな寝室は心配に注意が向きやすく、心配の91.4%は実際には起きなかった記録も。
+- [オンライン会議のあと、どっと疲れるのはなぜ？「Zoom疲れ」の仕組みを研究で調べた](https://research.seadice.win/online-meeting-fatigue-why-research/): 画面越しの会議は脳が疲れやすく、自分の顔の表示や会議の多さが疲れを足す。ただ最近の調査では差がない結果も。
+- [ペットを亡くした悲しみから立ち直れないときは？ ペットロスの研究でわかった、悲しみの続き方と立て直し方](https://research.seadice.win/pet-loss-grief-recovery-research/): ペットロスはおかしくない？ 英国975人の調査で長引く悲嘆は7.5%と友人を亡くした場合並み。思い出を残す・話す・責めないが鍵でした。
+- [ポジティブ思考は逆効果になることがあるのか。研究でわかった「空想」の代償](https://research.seadice.win/positive-thinking-backfire-research/): 望む未来を先取りして空想するほど努力やエネルギーが下がるという研究や、幸せを意識しすぎると幸福感が下がる研究を整理した。
+- [前向きに考えようとして、かえって落ち込んだら？「嫌な気持ちを受け入れる」ほうが楽になる理由を研究で調べた](https://research.seadice.win/positive-thinking-felt-worse-acceptance-research/): 前向きに考えようとして落ち込んだら？ 嫌な考えを押し込めると戻りやすく、気持ちを受け入れる人ほど落ち込みにくい研究から立て直し方を整理。
+- [ストレスで体がこわばるときは？ 力を入れて抜く「漸進的筋弛緩法」のやり方と時間を研究で調べた](https://research.seadice.win/progressive-muscle-relaxation-stress-steps-research/): 約5秒力を入れて10秒かけて抜く。大学生60人の実験で20分後にリラックス感が上がり、46件の研究でもストレス軽減の報告が多い。
+- [雨の日や曇りの日に気分が沈むのはなぜ？ 天気と気分の研究でわかった「日の光」と「人による違い」](https://research.seadice.win/rainy-day-low-mood-weather-why-research/): 天気の影響は平均すると小さいものの、日の光が減るとだるくなり、雨の日に特に気分が下がる人もいます。1,233人の日記研究などから仕組みを解説。
+- [深呼吸や瞑想で、かえって不安になったら？ リラックス法が合わないときの立て直し方を研究で調べた](https://research.seadice.win/relaxation-meditation-anxiety-backfire-research/): 瞑想経験者の27.0%が不安を経験。多くは一時的で、無理に続けず、やり方を変える・時間を減らすのが立て直しの基本。
+- [休んだのに疲れやストレスが抜けないのはなぜ？ 休み方の立て直し方を研究で調べた](https://research.seadice.win/rest-not-recovering-stress-research/): 休み中に仕事から頭が離れている人ほど疲れが少ない。休暇の効果は仕事に戻ると薄れやすく、頭を切り離す力は練習で伸ばせる。
+- [楽しい時間を「味わう」と気分は上がる？ 良いことをじっくり味わうセイバリングのやり方を研究で調べた](https://research.seadice.win/savoring-good-moments-mood-how-research/): 良いことに注意を向けて味わうセイバリングは、20件4,805人のまとめで気分が中くらい改善。今を味わうコツと1日5分の手順。
+- [自分に厳しくするほど早く立ち直れる、は本当か。90人の実験でわかったこと](https://research.seadice.win/self-compassion-recovery-speed/): 自分を責めても早く立ち直れるとは限らない。90人の実験や494人の調査から、自分への思いやりと立ち直りの関係を調べた。
+- [音や光がつらい感覚過敏、自分でできる対策は？ 6つの研究でわかったこと](https://research.seadice.win/sensory-overload-self-care-research/): 聴覚過敏は一般の人の0.2〜17.2%。イヤーマフは子どもの困りごとを減らしたが、耳栓で遮り続けると音に敏感になる方向に変わった。
+- [運動は何分から気分が上がる？研究でわかった「短くても効く」根拠](https://research.seadice.win/short-exercise-mood-boost/): 1万3000人超のデータと5分の散歩の実験から、短時間の運動でも気分が上がることを解説。
+- [寝不足だとイライラしやすいのはなぜか。睡眠不足と怒りの研究](https://research.seadice.win/sleep-loss-anger-irritability/): 2日間睡眠を減らすだけで怒りは強まり、睡眠不足は前向きな気分を減らし不安を増やしていた。イライラは性格より睡眠の問題かもしれない。
+- [深呼吸でストレスは本当に下がるのか。「長く吐く呼吸」の研究](https://research.seadice.win/slow-breathing-stress-research/): 呼吸法はストレスを小〜中程度下げ、1日5分の「長く吐く呼吸」は瞑想より気分を改善した。ただし研究の質には限界もある。
+- [気分が沈む日に、小さな親切で気分は上がる？ 親切と幸福感の研究でわかったやり方](https://research.seadice.win/small-acts-of-kindness-mood-how-research/): 683人の7日間の実験で小さな親切は幸福感を上げ、6週間の実験では自分へのごほうびより人への親切が効いた。効果は控えめ（相関0.13）。
+- [SNSを眺めて人と比べ、落ち込んだら？「うらやましさ」からの立て直し方を研究で調べた](https://research.seadice.win/sns-comparison-felt-worse-recovery-research/): SNSを眺めて比べると落ち込むことはあるが研究結果はそろわず人によって違う。うらやましさを望みに変える立て直し方を整理。
+- [SNSをやめると幸福度は上がるのか。「やめる期間」で変わった研究](https://research.seadice.win/social-media-break-wellbeing/): 1週間以上SNSをやめると幸福感が上がり、うつや不安が下がった。1週間未満だとかえって悪化しており、期間が大切だった。
+- [ひとりの時間は心を回復させるのか。研究でわかった条件](https://research.seadice.win/solitude-affective-restoration/): 一人の時間は高ぶった感情を落ち着かせ、自分で選んだ場合はリラックスにもつながる一方、10代前半では一人の時間が少なすぎても多すぎても適応が良くない傾向があることを複数の研究から確認した。
+- [嫌なことが頭から離れないとき、どう立て直す？「反芻」から抜け出す方法を研究で調べた](https://research.seadice.win/stop-ruminating-after-bad-day-research/): 嫌なことを考え続けると気分は悪化しやすい。短い気晴らし、自分を外から眺める振り返り、考える時間を後に決める方法に効果の報告がある。
+- [人と話すと気分は上がるのか。知らない人との短い会話の研究](https://research.seadice.win/stranger-small-talk-mood-research/): 電車やカフェでの一言、オンラインの30分間会話まで。話しかけると気まずくなるという予想は、研究ではくり返し外れている。
+- [日曜の夜になると憂うつになるのはなぜ？「明日のこと」を考える脳の仕組みを研究で調べた](https://research.seadice.win/sunday-night-blues-why-research/): 日曜の夜の憂うつは、月曜を頭の中で先取りする心配から。心配は出来事の前から体のストレス反応を長引かせ、平日の朝はストレスホルモンが週末より高い。
+- [背筋を伸ばすと気分は上向くのか。姿勢とストレスの研究](https://research.seadice.win/upright-posture-mood-research/): 背筋を伸ばすと、ストレスの中でも気分や自尊心が保たれやすかった。一方、パワーポーズでホルモンが変わる効果は再現されなかった。
+- [友人に弱音を吐くとストレスは軽くなるのか。「打ち明けること」を研究で調べた](https://research.seadice.win/venting-to-friends-corumination-research/): 話すこと自体には小さな前向き効果があるが、同じ話をくり返す「共同反芻」はうつ・不安の症状と関連する。27,794人のメタ分析でもうつ症状との関連を確認。
+- [結果を待つ時間がいちばんつらいのはなぜ？「どうなるかわからない」不確かさとストレスの研究で調べた](https://research.seadice.win/waiting-for-results-anxiety-uncertainty-why-research/): 痛みが来る確率が五分五分のときにストレスが最も高かった45人の実験と、痛みを待つより早く済ませたがる人が多かった実験からわかった、結果待ちがつらい仕組み。
+- [冬になると気分が落ち込むのはなぜ？ 日の短さと体内時計、「冬季うつ」の研究で調べた](https://research.seadice.win/winter-low-mood-seasonal-why-research/): 日の光が減る冬に脳のセロトニンや体内時計が変わる研究と、冬季うつは約5%で人により大きく違うことを整理。
+- [心配ごとが頭から離れないときは「心配する時間」を決める？ 心配の先送りの研究でわかったやり方](https://research.seadice.win/worry-time-postponement-how-research/): 毎日30分の「心配タイム」に心配を先送りすると、53人の実験で心配と不安が減少。オンラインで指示だけでは効果がなかった研究も含めて整理。
+- [気分が落ち込む日が続くとき、ヨガは週何回やればいい？ 研究でわかった回数・期間と続け方](https://research.seadice.win/yoga-low-mood-how-often-how-research/): ヨガで落ち込みは軽くなり、週の回数が多いほど効果が大きく出ました。週2回以上を12週間が、試験の条件に近い目安です。
+
 ### 先延ばし
 
 - [AIチャットに相談すると先延ばしは減る？ ChatGPTと人のコーチを比べた試験でわかったこと](https://research.seadice.win/ai-chatbot-procrastination-research/): AIが人のコーチより効くという結果は出ていない。相談だけで終わらせず、手順と始める時刻まで決めるのが大事。
@@ -384,7 +277,7 @@
 - [「自分で締め切りを決めれば先延ばしは減る」は本当？ 有名な実験の撤回と追試でわかったこと](https://research.seadice.win/self-imposed-deadline-procrastination-research/): 自分で決めた締め切りが効くと示した2002年の実験は2026年に撤回。追試では締め切りの置き方による差はごくわずかでした。
 - [先延ばしを減らすには、始める時刻まで決める？「いつ・どこで」を決める計画を研究で調べた](https://research.seadice.win/start-time-plan-procrastination-research/): 始める日付と時刻・場所まで決めると実行されやすい。時刻まで書くと4.0ポイント上がり、予定の詰め込みは効かなかった。
 - [自分の強みを生かせば、先延ばしは減る？ 強みに目を向ける講座の試験と、半年後にわかったこと](https://research.seadice.win/strengths-based-training-procrastination-research/): 強みに目を向ける講座で先延ばしは減る？ 54人の試験では直後に約7点減りましたが、11週後と24週後には受けなかった組との差が消えました。
-- [ストレスが多い時期に先延ばしが止まらないときは？ ストレスと先延ばしの研究でわかった立て直し方](https://research.seadice.win/stressful-period-procrastination-recovery-research/): 忙しい時期の先延ばしは、ストレスで気持ちに対処する余力が減るため。自分を責めず、小さな一歩と睡眠から立て直す順番を4本の研究で整理。
+- [ストレスが多い時期に先延ばしが止まらないときは？ ストレスと先延ばしの研究でわかった立て直し方](https://research.seadice.win/stressful-period-procrastination-recovery-research/): 忙しい時期の先延ばしは、ストレスで気持ちに対処する余力が減るためと考えられている。自分を責めず、小さな一歩と睡眠から立て直す順番を4本の研究で整理。
 - [作業時間はどう見積もればずれにくい？ 予定より遅れる「計画の誤り」を研究で調べた](https://research.seadice.win/task-time-estimate-planning-fallacy-research/): 見積もりが外れる一因は、過去の所要時間を短めに覚える記憶のくせ。実際の時間の記録を見て予測すると、3つの実験で正確さが上がった。
 - [時間管理術は先延ばしに効く？ 予定表や優先順位づけの研究でわかったこと](https://research.seadice.win/time-management-procrastination-research/): 時間管理の研修で先延ばしや心配が減った研究がある一方、成果は変わらず、気持ちのケアと差がない研究も。少し効くが単独では不十分。
 - [疲れた日の夕方ほど、やるべきことを後回しにするのはなぜ？ 頭の疲れと先延ばしの研究で調べた](https://research.seadice.win/tired-evening-procrastination-why-research/): 頭を使い続けると、手間が重く見え、目先の楽を選びやすくなる。約6時間の作業の実験や先延ばしのメタ分析から、夕方に後回しが増える理由を整理。
@@ -395,6 +288,113 @@
 - [「疲れた日は意志力が残っていないから、先延ばしは仕方ない」は本当？ 意志力の研究で調べた](https://research.seadice.win/willpower-limited-belief-procrastination-research/): 「意志力は使うと減る」は23・36研究室の追試でほぼゼロ。限られていると信じる学生ほど試験前に先延ばしが多かった。短く休んで小さく再開を。
 - [後回しにしている作業に手をつけるには？「願い・結果・障害・計画」の4ステップ（WOOP）を研究で調べた](https://research.seadice.win/woop-obstacle-plan-procrastination-how-research/): WOOPは24件の研究のまとめで小〜中程度の効果（g＝0.336）。効いたのは障害が自分で対処できるとき。毎日くり返すほうが先延ばしが少なかった。
 - [「追い込まれた方がはかどる」は本当？ 先延ばしと成績・ストレスの研究で調べた](https://research.seadice.win/work-better-under-pressure-procrastination-research/): 33件の研究では先延ばしする人ほど成績がやや低かった。初めは楽でも学期末にストレスと体調不良が増えた研究もある。
+
+### 睡眠
+
+- [寝酒は眠りを良くするのか。「寝つきは早いが、後半が乱れる」研究](https://research.seadice.win/alcohol-before-bed-sleep/): お酒で寝つきは早くなるが、夜の後半は眠りが乱れ、少量でも睡眠中の体の回復が妨げられていた。寝酒は眠りの助けにならない。
+- [眠れなかった夜のあと、どう立て直す？ 次の夜に「取り返そう」としなくていい理由を研究で調べた](https://research.seadice.win/bad-night-sleep-next-night-recovery-research/): 一時的な不眠の72.4%は自然に回復した。長引くかに関わったのは眠れないことへの心配。翌朝はいつもの時刻に起き、眠くなってから布団へ。
+- [寝る前の入浴は寝つきを良くするのか。研究でわかった効果的なタイミング](https://research.seadice.win/bathing-before-bed-sleep-onset/): 就寝1〜2時間前に10分以上の入浴で入眠が20〜30%早まったとする研究が複数。高齢者の足浴実験では一晩全体の改善は見られなかった。
+- [寝る前に音楽を聴くと眠れる？ どんな曲を何分聴けばいいか、研究でわかったやり方](https://research.seadice.win/bedtime-music-sleep-how-research/): ゆっくりした曲を寝るときに毎日25〜60分。13件のまとめで眠りの質の評価が改善。機器で測った睡眠は変わらず、耳に残る曲は逆効果の実験も。
+- [寝る前の考えごとを止めるには？ 頭の中で場面を描く「イメージそらし」と認知シャッフルの研究](https://research.seadice.win/bedtime-racing-thoughts-imagery-shuffle-how-research/): 考えるなと命じるより、穏やかな場面を細かく描く。不眠の41人の実験で寝つきが早まった。認知シャッフルの根拠はまだ学会発表の段階。
+- [寝る前の読書は寝つきを良くするのか。紙の本と画面で違った研究](https://research.seadice.win/bedtime-reading-paper-book-sleep/): 寝る前に画面で読むと紙の本より寝つきが約10分遅れた。読書そのものより「何で読むか」が眠りを左右していた。
+- [夜スマホをやめられないのは意志の弱さ？研究でわかった原因と3つの一歩](https://research.seadice.win/bedtime-smartphone-sleep/): 日中の疲れと寝る前の画面の光が、眠りを遅らせる。5本の研究から、今夜できる工夫を整理。
+- [寝る前のストレッチは睡眠の質を上げるのか。4つの研究でわかったこと](https://research.seadice.win/bedtime-stretching-sleep-quality-research/): 不眠症の人への4か月のストレッチでISIが8.1点改善。一方、睡眠障害がある人全体を見た16件のレビューでは効果の証拠は乏しいとされた。
+- [寝る前に「明日やること」を書くと眠れる。研究でわかった理由](https://research.seadice.win/bedtime-todo-list-sleep/): 就寝前にやることリストを書いたグループが早く眠りについた実験を紹介。今夜からできる書き方も解説。
+- [ブルーライトカットメガネで、夜の睡眠は良くなる？ メタ分析と比較試験で確かめた](https://research.seadice.win/blue-light-glasses-sleep-research/): コクラン・レビューなど3つのメタ分析を調べると、ブルーライトカットメガネが睡眠を良くする効果は、まだはっきり確認されていませんでした。
+- [カフェインは何時間前までOK？研究でわかった「量」と「時間」の関係](https://research.seadice.win/caffeine-hours-before-bed/): コーヒー1杯なら4時間前でも平気、でも400mgは12時間前でも睡眠に影響。量と時間の関係を解説。
+- [寝る前のハーブティー（カモミールなど）で眠りは良くなる？ 10の試験のメタ分析と不眠の試験で確かめた](https://research.seadice.win/chamomile-herbal-tea-sleep-research/): カモミールティーは眠りに効く？ 10の試験のメタ分析で睡眠の質がやや改善した一方、慢性の不眠の試験では偽薬と差が出ませんでした。
+- [足が冷えて眠れない夜は、どう温める？ 足湯と靴下の研究でわかったやり方とタイミング](https://research.seadice.win/cold-feet-warming-sleep-onset-how-research/): 23℃の部屋で靴下をはくと寝つきが16.0分→8.5分（6人）。足湯は眠りの満足感を上げたが、機器で測った寝つきは変わらなかった。
+- [寝室はどれくらい暗くすればいい？ 寝ている間の明かりの研究でわかった、暗くするやり方](https://research.seadice.win/dark-bedroom-light-during-sleep-research/): 寝室は暗くしたほうがいい？ 明かりをつけたまま眠ると深い眠りが減り、本人は気づかない実験と、アイマスクの研究から、暗くするやり方を整理。
+- [昼間に日光を浴びると夜よく眠れるのか。体内時計を変える「光」の研究](https://research.seadice.win/daytime-light-exposure-night-sleep-research/): 日中の光が多く安定している人ほど、寝つきが早く深い睡眠が増える。89人の追跡調査や自然光キャンプの実験からわかったこと。
+- [夕食は寝る何時間前までに食べればいい？ 遅い夕食と睡眠の研究でわかった目安と、例外](https://research.seadice.win/dinner-timing-before-bed-sleep-how-research/): 寝る1時間前の夕食が4日続くと睡眠が短く途切れやすくなった。3時間以内の食事は夜中の目覚めと関連。害が出ない試験もあり、目安は3時間前まで。
+- [いつもより早く寝ようとすると眠れないのはなぜ？ 寝る前の「睡眠禁止帯」を研究で調べた](https://research.seadice.win/early-bedtime-cant-sleep-forbidden-zone-why-research/): 早く布団に入っても眠れないのは、就寝の数時間前に体内時計が「起きていろ」の信号を強める「睡眠禁止帯」があるため。
+- [年をとると朝早く目が覚めてしまうのはなぜ？ 体内時計と眠りの変化を研究で調べた](https://research.seadice.win/early-morning-waking-aging-why-research/): 体内時計が前にずれ、明け方に眠りを支える力も弱まる。目覚めやすさ約2.7倍の実験や、夕方の光で体内時計が約2時間ずれた研究から整理。
+- [夜に運動すると眠れなくなるのか。寝る何時間前までならいいかを研究で調べた](https://research.seadice.win/evening-exercise-sleep-research/): 夜の運動は全体として眠りを悪くしなかった。ただ寝る直前の激しい運動は寝つきを遅らせることがあり、4時間前までに終えると影響は見られなかった。
+- [夕方にうたた寝すると、夜に眠れなくなるのはなぜ？「眠気のたまり方（睡眠圧）」の研究で調べた](https://research.seadice.win/evening-nap-cant-sleep-sleep-pressure-why-research/): 起きている間にたまる睡眠圧を、うたた寝で先に使ってしまうため。夕方の仮眠で寝つきが遅れた実験や、夜の7時間以内の仮眠の研究から整理。
+- [寝る前の部屋の明かりは、いつから・どれくらい暗くする？ 夜の照明と体内時計の研究でわかったやり方](https://research.seadice.win/evening-room-light-dim-before-bed-sleep-how-research/): 普通の部屋の明るさでも、眠りのホルモンの出始めは99.0%の人で遅れました。寝る2時間前から暖色の低い明かりにするやり方を研究で調べました。
+- [旅行先や初めての場所でよく眠れないのはなぜ？「初夜効果」と脳の見張り役を研究で調べた](https://research.seadice.win/first-night-effect-sleep-why-research/): 慣れない場所の1晩目に眠りが浅くなる「初夜効果」は53件のメタ分析でも確認。脳の片側が浅く眠って見張り役をしているという説と、その後の検証を整理。
+- [暑い夜に眠れないのはなぜ？「体の熱が逃げない」寝苦しさの仕組みを研究で調べた](https://research.seadice.win/hot-night-cant-sleep-why-research/): 眠るときに下がるはずの深部体温が、暑さと湿気で下がりにくくなる。寝始めの暑さほど眠りを乱した実験と76万人の調査から仕組みを整理。
+- [時差ぼけがつらいときは、どう立て直す？ 東向きと西向きで違う「光を浴びる時間」を研究で調べた](https://research.seadice.win/jet-lag-recovery-light-timing-research/): 時差ぼけがつらいときは？ 体内時計は光を浴びる時刻で早まったり遅れたりする。東向きは戻りが遅い理由と、到着後・出発前の光の使い方を研究で整理。
+- [マグネシウムのサプリで眠れるようになる？ 12の試験のレビューと、155人の4週間の試験でわかったこと](https://research.seadice.win/magnesium-supplement-sleep-research/): 12の試験のレビューは、マグネシウムの睡眠への効果は一貫せず根拠は弱いと結論。155人の試験でも不眠の点数の改善は小さかった（d=0.2）。
+- [朝どうしても起きられない人へ。体内時計を約2時間動かした実験でわかったこと](https://research.seadice.win/morning-light-wake-up/): 起床時間・朝の光・食事や運動のタイミングを整えると、体内時計が平均約2時間前進した実験を紹介。
+- [口テープは睡眠に効く？ いびき・口呼吸の対策として、研究でわかったことと注意点](https://research.seadice.win/mouth-taping-sleep-research/): 10本の研究のレビューでは効果ははっきりせず、改善は鼻が通る軽い睡眠時無呼吸の人の小さな研究が中心。鼻づまりがあると危険も指摘されています。
+- [昼寝は何分がいい？研究でわかった「10分」の意外な強さ](https://research.seadice.win/nap-best-length/): 5分では足りず、30分だとぼんやりする。24人の実験で最も効いた長さを解説。
+- [昼寝をしたら夜に眠れなくなったら？ 昼寝と夜の睡眠を記録した研究でわかった立て直し方](https://research.seadice.win/nap-ruined-night-sleep-recovery-research/): 短い昼寝が夜に響くことは少なく、響きやすいのは長い・遅い・毎日の昼寝。今夜は眠くなるまで待ち、明朝はいつもの時刻に起き、次の昼寝は寝る7時間以上前に短く。
+- [夜中に目が覚めて眠れないとき、布団から出るべき？「刺激制御法」の研究でわかったこと](https://research.seadice.win/night-awake-get-out-of-bed-stimulus-control-research/): 15分ほど眠れなければ眠る努力をやめ、眠くなるまで布団の外で過ごす。効果は複数のまとめで示されたが研究の質は低め。布団の中で行っても改善した。
+- [夜中に足がつって目が覚めたら？ こむら返りの治し方と、次の夜を防ぐ方法を研究で調べた](https://research.seadice.win/night-leg-cramp-wake-up-recovery-research/): 夜中のこむら返りは筋肉をゆっくり伸ばすのが基本。マグネシウムは11試験で差がなく、昼間の着圧ストッキングで週4回が2回に減った試験がありました。
+- [夜勤明けに眠れない、休みの日に戻せないときは？ 仮眠と光の使い方を研究で調べた](https://research.seadice.win/night-shift-sleep-recovery-research/): 夜勤明けは朝の光で体内時計が昼に戻るため眠りにくい。帰り道の光を避けて暗い部屋ですぐ眠り、休みに徹夜で戻さない立て直し方。
+- [夜中に何度も目が覚めるのはなぜ？ 中途覚醒の仕組みを研究で調べた](https://research.seadice.win/night-waking-why-research/): 週3日以上夜中に目が覚める人は約8900人の調査で35.5%。年齢による眠りの変化、ストレスで脳が冴えすぎる状態、時計を見る焦りなど、中途覚醒の仕組みを研究で整理。
+- [怖い夢で目が覚めたら、どう立て直す？ 悪夢を「書き換える」練習（イメージリハーサル）の研究でわかったこと](https://research.seadice.win/nightmare-wake-up-imagery-rehearsal-recovery-research/): 悪夢で眠れない夜が続くなら、昼間に夢の筋書きを書き換えて毎日10〜20分思い浮かべる練習を。399人の実験で悪夢が減った。
+- [家族のいびきで眠れないときは？ 耳栓・別の部屋・受診のすすめを研究で調べた](https://research.seadice.win/partner-snoring-cant-sleep-recovery-research/): 耳栓とアイマスクで夜中の目覚めが減り、いびきの原因の治療で隣の人の睡眠効率は74%から87%に。一晩別室で寝るだけでは大差なし。
+- [生理前や生理中に眠りが浅いのはなぜ？ 体温とホルモン、月経周期と睡眠の研究で調べた](https://research.seadice.win/period-premenstrual-sleep-why-research/): 生理前の黄体期は体温が約0.3〜0.4℃上がり、レム睡眠も減ります。ただ健康な人では眠りの量はあまり変わらず、PMSでは不安が眠れない感じと関係していました。
+- [昼食の後に眠くなるのはなぜか。食後の眠気の研究でわかった2つの理由](https://research.seadice.win/post-lunch-sleepiness-research/): 午後の眠気は体内時計の波が土台にあり、食事をとらなくても起こる。922kcalの重いランチは305kcalの軽いランチより、運転中の車線はみ出しを有意に増やした。
+- [寝不足の日に、甘いものや脂っこいものが食べたくなるのはなぜ？ 睡眠不足と食欲の研究で調べた](https://research.seadice.win/sleep-loss-junk-food-cravings-why-research/): 寝不足の脳は高カロリーな物に強く反応する。23人の脳の実験と、1日385kcal多く食べたメタ分析から仕組みを解説。
+- [金縛りにあって怖かった。また起きたらどうする？ 対処と予防を研究で調べた](https://research.seadice.win/sleep-paralysis-kanashibari-recovery-research/): 金縛りは学生の28%が経験し、平均6分ほどで終わります。起きたら「よくある・害はない」と考え直し、仰向けを避けて予防します。
+- [毎日同じ時刻に寝起きすると、眠りは良くなるのか。「睡眠の規則性」の研究](https://research.seadice.win/sleep-regularity-same-time-research/): 寝起きの時刻がそろっていることは、睡眠時間と同じくらい、気分や健康と関わっていた。まずは起きる時刻をそろえるのが一歩目。
+- [眠れないなら、布団にいる時間を減らす？「睡眠制限法」のやり方と注意点を研究で調べた](https://research.seadice.win/sleep-restriction-time-in-bed-insomnia-how-research/): 布団にいる時間を実際の睡眠時間に合わせる睡眠制限法は、642人の試験で不眠を改善し効果は1年続いた。手順と、始めの数週の眠気への注意。
+- [睡眠アプリのスコアが悪くて不安になったら？ 数字と体調の関係を調べた研究でわかった立て直し方](https://research.seadice.win/sleep-tracker-bad-score-anxiety-recovery-research/): 悪い睡眠スコアを見ると、だるさを強く感じやすくなります。測った注意力には差がなかった実験と、機器の精度の研究から立て直し方を整理。
+- [スヌーズで二度寝するのは体に悪いのか。研究でわかった意外な結果](https://research.seadice.win/snooze-alarm-research/): 30分のスヌーズで失う睡眠は約6分で、頭の働きも下がらなかった研究がある一方、寝ぼけが長引いたという研究もあり、結論は分かれている。
+- [子どもがなかなか寝ない・夜中に起きるときは？ 毎晩同じ「寝る前の流れ」の作り方を研究で調べた](https://research.seadice.win/toddler-bedtime-routine-sleep-how-research/): お風呂・保湿・静かな触れ合いを毎晩同じ順に続けた試験で、2週間で夜中に起きる回数と時間が減りました。変化は最初の3晩で大きく出ました。
+- [電車や車に乗ると眠くなるのはなぜ？ 揺れと振動が眠気を強める仕組みを研究で調べた](https://research.seadice.win/train-car-sleepy-rocking-vibration-why-research/): 座席を20分振動させると反応の見落としが0.38回から3.69回に増えた実験と、揺れるベッドの研究でわかった、乗り物で眠くなる仕組み。
+- [眠ろうと頑張るほど眠れないのはなぜ？「眠る努力」が目を覚ます仕組みを研究で調べた](https://research.seadice.win/trying-hard-to-sleep-awake-research/): 眠りは自動で起きる働きで、意識して操ろうとすると妨げられる。頭が忙しい状態で早く眠ろうとすると、寝つきが遅れた実験も。
+- [週末の寝だめで平日の睡眠不足は帳消しにできる？4つの研究でわかったこと](https://research.seadice.win/weekend-catchup-sleep-debt/): 軽い寝だめは体調の良さと関連する一方、睡眠不足が大きいと帳消しにはできないことが4つの研究からわかった。
+- [週末に寝坊すると、なぜ月曜の朝がつらい？ 体内時計が後ろにずれる「社会的時差ぼけ」の研究](https://research.seadice.win/weekend-sleep-in-monday-social-jetlag-why-research/): 高校生の実験で遅寝遅起きの週末2晩のあと体内時計の目安が約45分遅れ、朝の光や早起きでも防げなかった。月曜がつらい仕組みを解説。
+- [加重ブランケット（重い毛布）は寝つきや不安に効くのか。4つの研究でわかったこと](https://research.seadice.win/weighted-blanket-sleep-anxiety-research/): 426人分の解析で不安への小さな効果を確認。不眠は研究で結果が分かれ、活動量計では今のところ差が出ていない。
+- [ホワイトノイズや雨の音を流すと、よく眠れる？ 38件のレビューと睡眠実験でわかったこと](https://research.seadice.win/white-noise-sleep-pink-noise-research/): 38件のレビューでは根拠の質は非常に低い。一晩中流すとレム睡眠が減り、騒音には耳栓が勝った。
+
+### 集中力
+
+- [香りで集中力は上がるのか。ローズマリーとペパーミントの研究でわかったこと](https://research.seadice.win/aroma-rosemary-focus-research/): ローズマリーやペパーミントで記憶の成績が上がった実験がある一方、ラベンダーは成績を下げた。効果は香りごとにまちまちだった。
+- [音楽を聴きながら勉強していいのか。歌詞の有無で結果が変わることが研究でわかった](https://research.seadice.win/background-music-studying-focus/): 歌詞のある音楽は読解・記憶の成績を下げやすいが、歌詞なしや聴き慣れた曲では悪影響がはっきりしないことを実験から確認。
+- [人の話し声が気になって集中できないのはなぜ？ 聞くつもりがなくても言葉を拾う脳の仕組みを研究で調べた](https://research.seadice.win/background-talk-distraction-why-research/): 聞き取れる話し声ほど読む作業を遅らせる。脳は聞くつもりのない声からも意味や自分の名前を拾っている。
+- [つまらない作業に集中できないのはなぜ？「退屈」が注意をはがす仕組みを研究で調べた](https://research.seadice.win/boring-task-cant-focus-boredom-why-research/): 退屈は、作業が簡単すぎ・難しすぎて注意がかみ合わないときと、意味を感じないときに生まれる。402人の実験やfMRIの研究で整理。
+- [眠くて集中できない昼間、明るい光はどう使う？ 照明の明るさと使いどころを研究で調べた](https://research.seadice.win/bright-light-daytime-focus-sleepiness-research/): 寝不足で眠い日は、窓際や明るい照明の下で目に光を入れて1時間ほど作業する。よく眠れた日は効果がはっきりしない研究も含めて整理。
+- [ガムを噛むと集中できるのか。「噛むタイミング」で変わった研究](https://research.seadice.win/chewing-gum-focus-research/): 作業前に5分噛むと最初の15〜20分は成績が上がったが、作業中ずっと噛むと効果はなかった。眠気覚ましには役立つ可能性がある。
+- [集中したいときのコーヒーは何杯・いつ飲む？ カフェインの量とタイミングの研究](https://research.seadice.win/coffee-caffeine-focus-amount-timing-research/): カフェインは注意力を小さく高めるが、正確さは多すぎると下がる。毎日飲む人は切れた不調の回復の面も。1〜2杯、寝る8.8時間前までが目安。
+- [風邪で頭がぼーっとして集中できないときは？ 風邪と頭の働きの研究でわかった立て直し方](https://research.seadice.win/cold-brain-fog-focus-recovery-research/): 風邪では反応と覚える速さが落ち、記憶の正確さは残りやすい。コーヒーで眠気と遅れが戻った実験も。運転と長い作業は控えめに。
+- [締め切り直前に急に集中できるのはなぜか。「時間の圧力」の研究でわかったこと](https://research.seadice.win/deadline-time-pressure-focus-research/): 締め切りの圧力（残りの作業÷残りの時間）が高いほど、人は努力を避けるより求めるようになり、脳ではこの圧力を追うような活動が見られることが研究でわかった。
+- [水を飲まずにいると集中できなくなるのはなぜ？ 軽い脱水と「のどの渇き」が注意をうばう仕組みを研究で調べた](https://research.seadice.win/dehydration-thirst-focus-why-research/): 体重の2%を超える脱水で注意や段取りの力が落ちやすく、1〜2%前後でも疲れや「集中しにくい」感じが強まる。渇きが注意を使う仕組み。
+- [机を片付けると集中できるのか。散らかった部屋と脳の研究](https://research.seadice.win/desk-clutter-focus-research/): 視界の物は脳の中で注意を奪い合う。整った部屋は落ち着いた選択を、散らかった部屋は創造性を後押ししていた。
+- [勉強中に気が散るのを減らすには？「もし〜したら、〜する」と先に決める研究でわかったやり方](https://research.seadice.win/distraction-if-then-plan-study-focus-how-research/): 「気を散らさない」と目標を立てるだけでは変わらず、気が散る場面に「もし〜したら、〜する」を決めた学生は気が散る時間が減っていた研究と、12分でできる決め方。
+- [運転中に眠くなって集中できないときは？ 窓を開ける・音楽より効いた立て直し方を研究で調べた](https://research.seadice.win/drowsy-driving-focus-recovery-research/): 運転中に眠くて集中できないときは？ 冷たい風やラジオは効いても短時間。止まって休み、カフェインと15分以内の仮眠を組み合わせると、車線のはみ出しが何もしない日の9%まで減りました。
+- [メールやチャットが気になって集中できないときは？「1日3回まとめて見る」やり方を研究で調べた](https://research.seadice.win/email-chat-batching-focus-how-research/): 見る時刻を1日3回ほどに決めて通知を切ると、割り込みとストレスが減った研究から、まとめ見のやり方と効きにくい条件を整理。
+- [勉強や仕事の前に運動すると集中できる？ 何分・いつやるかを研究で調べた](https://research.seadice.win/exercise-before-study-focus-research/): 1回の運動のあと、頭の働きは小さく上がる。20分以内でも足りる可能性があり、作業は運動の最中より終えてから始めるほうが確実。
+- [長く作業すると集中力が切れるのはなぜ？「エネルギー切れ」説が揺らいだ理由を研究で調べた](https://research.seadice.win/focus-fades-over-time-why-research/): 集中は時間とともに落ちるが、「エネルギー切れ」説は2,141人の再現実験で支持されなかった。目標を保つ難しさや続ける価値の見積もりが関わると考えられている。
+- [集中が続かないのは意志の弱さじゃない。休憩の取り方を研究で調べた](https://research.seadice.win/focus-microbreaks-pomodoro/): 10分ごと90秒の小休憩や2秒の気晴らしが集中の落ち込みを防いだ研究を紹介。休憩の取り方を解説。
+- [難しい作業は何時にやると集中できる？ 朝型・夜型と時間帯の研究でわかった選び方](https://research.seadice.win/hard-work-time-of-day-chronotype-research/): 集中しやすい時間は朝型か夜型かで違う。朝8時、朝型は夜型より注意力が8.4%高かった。65件のレビューと休憩の研究から時間の選び方を整理。
+- [花粉症の時期に集中できないのはなぜ？ 鼻の症状と頭の働きの研究で調べた](https://research.seadice.win/hay-fever-cant-focus-why-research/): 花粉の季節は覚える力や処理の速さが落ちた。炎症・浅い眠り・薬の眠気・気分が重なる。日本の働く人555人では症状が重い人ほど効率が低下。
+- [お腹がすくと集中できないのはなぜ？ 空腹と頭の働き、食べ物に向く注意の研究で調べた](https://research.seadice.win/hunger-cant-focus-why-research/): 半日ほどの空腹では大人の頭の働きはほぼ変わらないという研究と、食べ物に注意が向く説の追試結果を整理。
+- [緑の植物を置くと集中力は上がるのか。4つの研究でわかったこと](https://research.seadice.win/indoor-plants-focus-concentration-research/): 42件の分析では注意力への効果は不明瞭だが学業成績には有意な効果。ストレスを下げる効果は複数の実験で確認された。
+- [作業を中断された後、集中を取り戻すには？ 中断と再開の5つの研究でわかったこと](https://research.seadice.win/interrupted-work-refocus-research/): 数秒の中断でも手順の誤りは2倍に。中断前に手がかりを覚えると戻りが速く、戻ってすぐ再開せず10秒待つとミスが減った。
+- [子どもが宿題や授業に集中できないときは？ 体を動かす休憩の入れ方を研究で調べた](https://research.seadice.win/kids-movement-break-homework-focus-how-research/): 小学生のメタ分析では運動休憩で課題に向かう行動が増えました。いちばん増えたのは10分の休憩後。走るだけより、頭も使う運動遊びが効いていました。
+- [気づくと別のことを考えてしまうのはなぜ？ 心がさまよう仕組みを研究で調べた](https://research.seadice.win/mind-wandering-why-research/): 慣れた単純作業ほど脳の「内側に向かう回路」が働き、心がさまよう。単調な作業の実験では43%、その半分近く（45%）は本人も気づかないうちだった。
+- [ミスした直後に、またミスが続くときは？ ミスの後に注意が乱れる研究でわかった立て直し方](https://research.seadice.win/mistake-after-mistake-focus-recovery-research/): ミスの直後は注意が乱れ、0.5秒以内の判断で正確さが落ちました。一呼吸おく、振り返りは後に回す、自分を責めない。実験から立て直し方を整理。
+- [起きてすぐ頭が働かないとき、どう立て直す？ 寝起きのぼんやり（睡眠慣性）が抜けるまでの時間と対策を研究で調べた](https://research.seadice.win/morning-grogginess-sleep-inertia-focus-recovery-research/): 寝起きのぼんやりは多くの研究で30分以内に戻るが、寝不足が続くと長引く。洗顔や光は目覚め感を上げても成績は戻さない結果が多い。
+- [「ながら作業」は集中力を本当に下げるのか。研究でわかった切り替えのコスト](https://research.seadice.win/multitasking-focus-cost-research/): 考えることを2つ同時にすると成績は落ちる。一方、聞き流すだけの「ながら」は影響が小さく、ながら癖と集中力の関係ははっきりしない。
+- [集中が切れてしまったら、どこで休む？ 緑の中を歩く休憩と注意力の回復を研究で調べた](https://research.seadice.win/nature-break-focus-recovery-research/): 集中が切れたら、緑の多い場所を歩く休憩で注意力が戻りやすい。12の実験・528人で0.75点対0.29点。差は小さく、出ない実験もある。
+- [コーヒーを飲まないと集中できないのはなぜ？「カフェイン離脱」の研究で調べた](https://research.seadice.win/no-coffee-cant-focus-caffeine-withdrawal-why-research/): 毎日のカフェインを抜くと12〜24時間後から集中しにくさや頭痛が出ます。66本の研究のレビューと、効き目は離脱を戻すだけかという論争を整理。
+- [耳栓やノイズキャンセリングイヤホンは集中力を上げるのか。4つの研究でわかったこと](https://research.seadice.win/noise-cancelling-focus-research/): ANCヘッドホンは記憶課題の成績を上げないが、集中している感覚は改善。耳栓は単純作業の注意力を上げる一方、不安を強め複雑な作業の成績を下げることもあった。
+- [生理痛の日に集中できないときは？ 月経周期と頭の働き、生理痛の研究でわかった立て直し方](https://research.seadice.win/period-pain-focus-recovery-research/): 月経周期で頭の働きが変わる確かな証拠はなく、注意力が落ちたのは生理痛が強い日。痛み止め・温める・ふだんの運動と、作業の組み替えで立て直します。
+- [休憩したのに集中が戻らないのはなぜ？ 休憩中のスマホと回復の研究でわかった立て直し方](https://research.seadice.win/phone-break-focus-not-recovering-research/): スマホでとった休憩は、紙やパソコンの同じ休憩より回復が小さかった。スマホを置き、歩く・力を抜く休憩をとり直すと立て直しやすい。
+- [スマホの通知をオフにすると集中力は戻るのか。3つの研究でわかったこと](https://research.seadice.win/phone-notifications-off-focus/): 通知は触らなくても集中を削り、脳の反応も変化する。ただし通知オフ単独の効果を検証した大規模研究はまだ少ないことを確認した。
+- [「スマホが視界にあるだけで集中力が落ちる」は本当か。22件の研究のメタ分析で調べた](https://research.seadice.win/phone-presence-attention-brain-drain/): 22件の研究のメタ分析では記憶課題に小さな悪影響。ただし追試では再現せず、効果の大きさには議論が残る。
+- [読んでいるのに頭に入らない、同じ行を何度も読んでしまうときは？ 読書中の「上の空」の研究でわかった立て直し方](https://research.seadice.win/reading-not-sinking-in-mind-wandering-recovery-research/): 読書中の上の空は理解の低さと関連（25研究、r = -0.21）。声に出して読むと上の空が最も少なく、聞くだけだと最も多い。書体を読みにくくする工夫は追試で効果なし。
+- [部屋の温度は集中力に影響するのか。4つの研究でわかった「暑すぎても寒すぎても」の境界](https://research.seadice.win/room-temperature-concentration-research/): 室温と集中力の関係を、22〜24℃を目安とする系統的レビューを含む4つの研究から、暑さ・寒さそれぞれの境界を確認する
+- [画面作業で目が疲れて集中が切れたら？ 20-20-20ルールと短い休憩の研究でわかった立て直し方](https://research.seadice.win/screen-eye-strain-focus-break-20-20-20-research/): まず20秒遠くを見て、30分前後ごとに短い休憩を。5分休憩を1日4回足すと目の疲れが減り、仕事量も保たれた。ブルーライト眼鏡の根拠は弱い。
+- [画面だと長い文章が頭に入らないときは？ 紙と画面の読み比べ研究でわかった、集中して読むやり方](https://research.seadice.win/screen-reading-focus-paper-how-research/): 説明文を時間に追われて読むと画面は紙より理解が下がりやすく、余裕があれば差はほぼない。紙に印刷する場面と、画面で集中して読むやり方。
+- [短い瞑想で集中力は戻るのか。研究でわかった「数分」の効果](https://research.seadice.win/short-meditation-focus-recovery/): 5日間20分の瞑想訓練や10分のガイド瞑想で注意力が上がった研究から、短時間の瞑想の効果を確認した。
+- [座りっぱなしで頭がぼんやりしてきたら？ 何分おきに立って歩くと集中が戻るかを研究で調べた](https://research.seadice.win/sitting-break-walk-focus-research/): 30〜60分に1回、3〜5分歩く。22件の実験のまとめで頭の働きがわずかに改善（g＝0.13）。差が出なかった実験も整理。
+- [朝食を抜くと集中力は落ちるのか。大人と子どもで違った研究](https://research.seadice.win/skipping-breakfast-focus-research/): 大人では朝食で記憶に小さな効果があり、注意への効果ははっきりしない。子どもでは注意・記憶ともに上がりやすかった。
+- [寝不足の翌日、集中力をどう立て直す？ 睡眠不足と眠気対策の研究でわかったこと](https://research.seadice.win/sleep-deprived-next-day-focus-research/): 寝不足で最も落ちるのは単純な注意。眠気の自覚は当てにならず、カフェインの後の15〜20分の仮眠が眠気をよく抑えた。
+- [SNSを見すぎて1日が終わったら？ 翌日の集中を取り戻す方法を研究で調べた](https://research.seadice.win/sns-wasted-day-next-day-focus-research/): 責めずに区切り、今夜のうちに明日の最初の作業を具体的に決め、作業中はスマホのネットを切る。ネットを2週間止めた実験などで整理。
+- [閉めきった部屋で集中できないのはなぜ？ 換気と二酸化炭素の研究で調べた](https://research.seadice.win/stuffy-room-cant-focus-ventilation-why-research/): 換気を増やすと計算の速さが13.7%上がった教室のメタ分析と、二酸化炭素だけを増やした実験の食い違いからわかった、閉めきった部屋で集中が落ちる仕組み。
+- [疲れたときの甘いもので、集中力は戻るのか。「シュガーラッシュ」の研究](https://research.seadice.win/sugar-focus-willpower-research/): 糖分で気分は良くならず、食べて1時間以内はかえって疲れを感じやすかった。「意志力はブドウ糖で回復する」説も裏付けが弱かった。
+- [動画の授業や研修に集中できないときは？ 途中で「小テスト」をはさむやり方を研究で調べた](https://research.seadice.win/video-lecture-focus-quiz-breaks-how-research/): 21分の講義動画を約5.5分ごとに止めて問題に答えると、上の空が41%→19%に。ただ195人の追試では47%→40%と差は小さかった。
+- [アイデアが出ないときは歩く。散歩とひらめきの関係を研究で調べた](https://research.seadice.win/walking-boosts-creativity/): 歩行中は約8割の人で発想力が向上。1000人超のメタ分析でも確認された散歩とひらめきの関係を解説。
+- [人に見られていると、はかどる日と失敗する日があるのはなぜ？「社会的促進」の研究で調べた](https://research.seadice.win/watched-by-others-focus-social-facilitation-why-research/): 人がいると張りつめ、慣れた作業は速く、不慣れな作業は崩れやすい。241研究のメタ分析、445人の再現実験、再現できなかったゴキブリの実験で整理。
+- [在宅勤務で集中できない日が続いたら？ 85の工夫を比べた研究でわかった立て直し方](https://research.seadice.win/wfh-focus-slump-recovery-research/): 在宅勤務の85の工夫を548人で比べた研究では、別室や仕事着より、目標・時間の区切り・人とのつながりが仕事の出来と結びついていた。
+- [ホワイトノイズで集中できるのか。「人によって逆になる」研究](https://research.seadice.win/white-noise-focus-research/): ホワイトノイズは気が散りやすい人には小さな効果があったが、そうでない人には逆効果だった。合うかどうかは人によって違う。
+- [心配ごとがあると集中できないのはなぜ？ 不安が「頭の作業スペース」を使ってしまう仕組みを研究で調べた](https://research.seadice.win/worry-cant-concentrate-why-research/): 心配ごとがあると集中できないのは、心配が頭の作業スペース（ワーキングメモリ）を使うため。メタ分析と実験から仕組みを整理。
 
 ## ツールとアプリ（無料・登録不要）
 
