@@ -2275,5 +2275,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cappuccino-cup_20230110_104449.jpg/500px-Cappuccino-cup_20230110_104449.jpg",
   "og": "https://umbra.seadice.win/img/first-date-nerves-reappraisal-safety-behaviors-research.jpg",
   "local": true
+ },
+ "location-sharing-couple-love-or-control-research": {
+  "file": "File:Olkhon Island, GPS navigation, Smartphone, Lake Baikal, Russia.jpg",
+  "src": "/img/location-sharing-couple-love-or-control-research.jpg",
+  "src640": "/img/location-sharing-couple-love-or-control-research-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "地図アプリを表示したスマートフォン",
+  "artist": "Vyacheslav Argenberg",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Olkhon_Island,_GPS_navigation,_Smartphone,_Lake_Baikal,_Russia.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Olkhon_Island%2C_GPS_navigation%2C_Smartphone%2C_Lake_Baikal%2C_Russia.jpg/960px-Olkhon_Island%2C_GPS_navigation%2C_Smartphone%2C_Lake_Baikal%2C_Russia.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Olkhon_Island%2C_GPS_navigation%2C_Smartphone%2C_Lake_Baikal%2C_Russia.jpg/500px-Olkhon_Island%2C_GPS_navigation%2C_Smartphone%2C_Lake_Baikal%2C_Russia.jpg",
+  "og": "https://umbra.seadice.win/img/location-sharing-couple-love-or-control-research.jpg",
+  "local": true
  }
 }
