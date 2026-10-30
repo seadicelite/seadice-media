@@ -100,6 +100,7 @@ ILL = {
     "torso-away": fig(16, 14) + '<circle cx="46" cy="14" r="5"/><circle cx="48.5" cy="13" r="1" fill="currentColor"/><line x1="46" y1="19" x2="46" y2="40"/><polyline points="43,56 46,40 49,56"/><line x1="46" y1="26" x2="53" y2="35"/>' + arrow(52, 60, 62, 60) + '<path d="M36 7 Q46 0 56 7"/><polyline points="52,3 56,7 51,10"/>',
     "eye-block": FACE + '<rect x="12" y="20" width="40" height="12" rx="6" fill="var(--bg)"/><line x1="18" y1="32" x2="16" y2="40"/><line x1="46" y1="32" x2="48" y2="40"/><line x1="27" y1="44" x2="37" y2="44"/>',
     "freeze": fig(24, 10, '<line x1="24" y1="18" x2="16" y2="34"/><line x1="24" y1="18" x2="32" y2="34"/>') + '<rect x="44" y="14" width="5" height="18" rx="1"/><rect x="54" y="14" width="5" height="18" rx="1"/>',
+    "date-nerves": fig(18, 22) + fig(46, 22) + '<path d="M8 18 q-3 4 0 8"/><path d="M28 18 q3 4 0 8"/><rect x="34" y="2" width="22" height="11" rx="4"/><circle cx="40" cy="7.5" r="1" fill="currentColor"/><circle cx="45" cy="7.5" r="1" fill="currentColor"/><circle cx="50" cy="7.5" r="1" fill="currentColor"/>',
     "nose-touch": FACE + '<circle cx="24" cy="26" r="2" fill="currentColor"/><circle cx="40" cy="26" r="2" fill="currentColor"/><line x1="25" y1="44" x2="33" y2="44"/><circle cx="34" cy="34" r="3"/><line x1="36" y1="37" x2="46" y2="60" stroke-width="4"/>',
 }
 

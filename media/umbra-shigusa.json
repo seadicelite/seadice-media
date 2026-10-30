@@ -892,6 +892,23 @@
     "conflict"
    ],
    "evidence": "few"
+  },
+  {
+   "part": "体の動き",
+   "gesture": "デートで口数が少なく、そわそわしている",
+   "belief": "自分に興味がない",
+   "level": "b",
+   "text": "デートでは誰でも緊張を隠す行動（口数を減らすなど）が増えやすいと日記の研究で報告されています。そわそわした様子も緊張と関係するため、興味がない証拠にはなりません。",
+   "slug": "first-date-nerves-reappraisal-safety-behaviors-research",
+   "id": "date-nerves",
+   "tags": [
+    "nerve",
+    "like"
+   ],
+   "scenes": [
+    "date",
+    "first"
+   ]
   }
  ],
  "quiz": [
@@ -1356,6 +1373,17 @@
    ],
    "e": "他人のため息は悲しみのサインとして受け取られやすい一方、本人は何かをあきらめた意味で使うことが多く、受け取り方にズレがあります。",
    "slug": "sigh-dissatisfaction-sign-research"
+  },
+  {
+   "q": "108人が21日間つけた日記の研究で、デートのときにほかの会話より多かったと報告されているのは何ですか？",
+   "c": [
+    "緊張を隠すための行動",
+    "相手に触れる回数",
+    "笑顔の回数",
+    "相手を見つめる時間"
+   ],
+   "e": "デートでは、話すことを練習しすぎる・口数を減らすなど、緊張を隠す行動（安全行動）が増え、その行動が多いほど嫌な気持ちも強かったと報告されています。",
+   "slug": "first-date-nerves-reappraisal-safety-behaviors-research"
   }
  ],
  "purposes": [

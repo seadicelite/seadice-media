@@ -354,5 +354,14 @@
   "slugs": [
    "contempt-expression-relationship-research"
   ]
+ },
+ {
+  "id": "safety-behaviors",
+  "term": "安全行動",
+  "en": "Safety behaviors",
+  "def": "不安を和らげるためにとる、緊張を隠す・目立たないようにする行動。話すことを練習しすぎる、口数を減らすなど。その場は安心できても、不安を長引かせうると考えられています。",
+  "slugs": [
+   "first-date-nerves-reappraisal-safety-behaviors-research"
+  ]
  }
 ]
