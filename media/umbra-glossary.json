@@ -354,5 +354,23 @@
   "slugs": [
    "contempt-expression-relationship-research"
   ]
+ },
+ {
+  "id": "phubbing",
+  "term": "フェイビング（phubbing）",
+  "en": "Phubbing",
+  "def": "一緒にいる相手を無視して、スマホに注意を向けてしまうこと。phone(電話)とsnubbing(無視すること)を組み合わせた言葉。パートナーからの経験が多い人ほど孤独感が強まりやすいと報告されている。",
+  "slugs": [
+   "phone-checking-boredom-signal-research"
+  ]
+ },
+ {
+  "id": "fomo",
+  "term": "FOMO（見逃すことへの不安）",
+  "en": "Fear of missing out",
+  "def": "自分がいない間に、ほかの人が楽しい体験や大事な情報を得てしまうかもしれないという不安。この不安が強い人ほど、退屈な場面でスマホを見たくなる気持ちが強まりやすいと報告されている。",
+  "slugs": [
+   "phone-checking-boredom-signal-research"
+  ]
  }
 ]

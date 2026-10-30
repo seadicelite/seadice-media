@@ -2257,5 +2257,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Trinity_United_Methodist_Church%2C_Madison_Street_and_Hurlbet_Street%2C_Gibsonburg%2C_OH_-_52278739657.jpg/500px-Trinity_United_Methodist_Church%2C_Madison_Street_and_Hurlbet_Street%2C_Gibsonburg%2C_OH_-_52278739657.jpg",
   "og": "https://umbra.seadice.win/img/sigh-dissatisfaction-sign-research.jpg",
   "local": true
+ },
+ "phone-checking-boredom-signal-research": {
+  "file": "File:Woman sitting in cafe enjoying coffee and using smartphone while laptop rests on table.jpg",
+  "src": "/img/phone-checking-boredom-signal-research.jpg",
+  "src640": "/img/phone-checking-boredom-signal-research-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "テーブルの上に置かれたスマートフォン",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_sitting_in_cafe_enjoying_coffee_and_using_smartphone_while_laptop_rests_on_table.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Woman_sitting_in_cafe_enjoying_coffee_and_using_smartphone_while_laptop_rests_on_table.jpg/960px-Woman_sitting_in_cafe_enjoying_coffee_and_using_smartphone_while_laptop_rests_on_table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Woman_sitting_in_cafe_enjoying_coffee_and_using_smartphone_while_laptop_rests_on_table.jpg/500px-Woman_sitting_in_cafe_enjoying_coffee_and_using_smartphone_while_laptop_rests_on_table.jpg",
+  "og": "https://umbra.seadice.win/img/phone-checking-boredom-signal-research.jpg",
+  "local": true
  }
 }
