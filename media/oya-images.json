@@ -887,5 +887,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mouth_mirror_handle_%28European_Norm%29.JPG/500px-Mouth_mirror_handle_%28European_Norm%29.JPG",
   "og": "https://oya.seadice.win/img/parent-stopped-dentist-teeth.jpg",
   "local": true
+ },
+ "parent-homebound-rarely-going-out": {
+  "file": "File:Etowah River Park walking path, Canton GA.jpg",
+  "src": "/img/parent-homebound-rarely-going-out.webp",
+  "src640": "/img/parent-homebound-rarely-going-out-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "公園の散歩道と屋根つきのベンチ",
+  "artist": "John Phelan",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Etowah_River_Park_walking_path,_Canton_GA.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Etowah_River_Park_walking_path%2C_Canton_GA.jpg/960px-Etowah_River_Park_walking_path%2C_Canton_GA.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Etowah_River_Park_walking_path%2C_Canton_GA.jpg/500px-Etowah_River_Park_walking_path%2C_Canton_GA.jpg",
+  "og": "https://oya.seadice.win/img/parent-homebound-rarely-going-out-og.jpg",
+  "local": true
  }
 }
