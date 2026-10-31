@@ -2293,5 +2293,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Olkhon_Island%2C_GPS_navigation%2C_Smartphone%2C_Lake_Baikal%2C_Russia.jpg/500px-Olkhon_Island%2C_GPS_navigation%2C_Smartphone%2C_Lake_Baikal%2C_Russia.jpg",
   "og": "https://umbra.seadice.win/img/location-sharing-couple-love-or-control-research.jpg",
   "local": true
+ },
+ "low-self-esteem-love-what-to-do-research": {
+  "file": "File:A notebook.jpg",
+  "src": "/img/low-self-esteem-love-what-to-do-research.jpg",
+  "src640": "/img/low-self-esteem-love-what-to-do-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のテーブルに置かれたノートと鉛筆",
+  "artist": "Jan Kahánek",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:A_notebook.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/960px-A_notebook.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/500px-A_notebook.jpg",
+  "og": "https://umbra.seadice.win/img/low-self-esteem-love-what-to-do-research.jpg",
+  "local": true
  }
 }
