@@ -1,5 +1,13 @@
 [
   {
+    "slug": "polygraph-concealed-information-test",
+    "category": "取り調べと冤罪",
+    "type": "guide",
+    "date": "2026-10-31",
+    "title": "ポリグラフ（うそ発見器）はどこまで当たるのか。全米研究評議会の評価と、日本の隠匿情報検査",
+    "summary": "主流の対照質問法は「偶然よりは当たるが誤りの率は不明」と評価された。日本の警察は「事件を知っているか」を調べる検査を年約5,000件行う。"
+  },
+  {
     "slug": "uniform-authority-obedience",
     "category": "集団と同調",
     "type": "guide",

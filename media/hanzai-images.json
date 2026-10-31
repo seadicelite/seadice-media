@@ -1252,5 +1252,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Curtis_Lecture_Halls_interior_view1_empty_class.jpg/500px-Curtis_Lecture_Halls_interior_view1_empty_class.jpg",
   "og": "https://hanzai.seadice.win/img/uniform-authority-obedience.jpg",
   "local": true
+ },
+ "polygraph-concealed-information-test": {
+  "file": "File:November 2016- Polygraph Machine - Jack Ruby.jpg",
+  "src": "/img/polygraph-concealed-information-test.jpg",
+  "src640": "/img/polygraph-concealed-information-test-sm.jpg",
+  "w": 960,
+  "h": 878,
+  "alt": "ポリグラフの装置",
+  "artist": "Federal Bureau of Investigation (FBI)",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:November_2016-_Polygraph_Machine_-_Jack_Ruby.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/November_2016-_Polygraph_Machine_-_Jack_Ruby.jpg/960px-November_2016-_Polygraph_Machine_-_Jack_Ruby.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/November_2016-_Polygraph_Machine_-_Jack_Ruby.jpg/500px-November_2016-_Polygraph_Machine_-_Jack_Ruby.jpg",
+  "og": "https://hanzai.seadice.win/img/polygraph-concealed-information-test.jpg",
+  "local": true
  }
 }
