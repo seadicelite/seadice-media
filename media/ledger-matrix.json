@@ -409,7 +409,9 @@
      "free-trial-cancel-reminder-tips",
      "app-notification-off-impulse-tips"
     ],
-    "after": [],
+    "after": [
+     "subscription-trap-recovery-steps"
+    ],
     "use": [
      "trial-price-total-cost-checklist"
     ]

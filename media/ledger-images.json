@@ -1956,5 +1956,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg/500px-Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg",
   "og": "https://ledger.seadice.win/img/payment-reminders-attention-og.jpg",
   "local": true
+ },
+ "subscription-trap-recovery-steps": {
+  "file": "File:Credit card receipt - old style.jpg",
+  "src": "/img/subscription-trap-recovery-steps.jpg",
+  "src640": "/img/subscription-trap-recovery-steps-sm.jpg",
+  "w": 960,
+  "h": 425,
+  "alt": "クレジットカードの利用明細",
+  "artist": "Bubba73",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Credit_card_receipt_-_old_style.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Credit_card_receipt_-_old_style.jpg/960px-Credit_card_receipt_-_old_style.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Credit_card_receipt_-_old_style.jpg/500px-Credit_card_receipt_-_old_style.jpg",
+  "og": "https://ledger.seadice.win/img/subscription-trap-recovery-steps.jpg",
+  "local": true
  }
 }
