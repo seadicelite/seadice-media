@@ -363,5 +363,14 @@
   "slugs": [
    "first-date-nerves-reappraisal-safety-behaviors-research"
   ]
+ },
+ {
+  "id": "unwanted-pursuit-behavior",
+  "term": "望まれない関わり行動（しつこい接触）",
+  "en": "Unwanted pursuit behavior",
+  "def": "別れた相手への一方的な連絡や接触など、相手が望んでいない関わりを続ける行動。恋愛関係の研究で使われる用語で、ストーカー行為に近いものから軽いものまで幅がある。",
+  "slugs": [
+   "post-breakup-unwanted-pursuit-research"
+  ]
  }
 ]
