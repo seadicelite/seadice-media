@@ -919,6 +919,23 @@
    "slug": "frequent-hand-gestures-speaking-research",
    "id": "hand-gesture",
    "tags": []
+  },
+  {
+   "part": "手・触れる",
+   "gesture": "話しながらポケットに手を入れる",
+   "belief": "何か隠している・信頼できない",
+   "level": "c",
+   "text": "「ポケットの手」を信頼感の手がかりとして直接調べた研究は見当たらない。嘘に関するしぐさ全般も、多くは嘘をついているかどうかとほとんど関係がないと報告されている。",
+   "slug": "hands-in-pockets-trust-impression-research",
+   "id": "hands-in-pockets",
+   "tags": [
+    "lie"
+   ],
+   "scenes": [
+    "work",
+    "first"
+   ],
+   "evidence": "few"
   }
  ],
  "quiz": [
@@ -1405,6 +1422,17 @@
    ],
    "e": "ジェスチャーの有無や種類は印象に影響せず、話が滑らかかどうかだけが『知識がある』という判断に影響しました。",
    "slug": "frequent-hand-gestures-speaking-research"
+  },
+  {
+   "q": "「話しながらポケットに手を入れる」ことについて、研究で確認されていることは何ですか？",
+   "c": [
+    "その動作だけを信頼感の手がかりとして調べた研究は見当たらない",
+    "手を隠す人は必ず嘘をついていると確認されている",
+    "ポケットに手を入れると声が小さくなると確認されている",
+    "ポケットに手を入れると会話が長引くと確認されている"
+   ],
+   "e": "「ポケットの手」を信頼感の手がかりとして直接調べた研究は見当たりません。しぐさ全般から嘘を見抜く手がかりの多くも、研究では弱いか無関係とされています。",
+   "slug": "hands-in-pockets-trust-impression-research"
   }
  ],
  "purposes": [
