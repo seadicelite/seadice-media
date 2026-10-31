@@ -82,6 +82,7 @@
 
 #### 嘘や本音は見抜けるか
 
+- [笑うときに口元を手で隠すのはなぜか。笑いを抑えるしぐさの研究](https://umbra.seadice.win/mouth-cover-laughing-why-research/): 口を隠す動き自体を調べた研究はないが、人は笑いを実際に抑えており、まわりが笑うと抑えにくくなることが実験でわかっている。
 - [しぐさで嘘は見抜ける？206本の研究文献が示した正解率は、約54%](https://umbra.seadice.win/body-language-lie-detection-accuracy/): 視線やしぐさで嘘はわかるのか。メタ分析が示した限界と、代わりにできること。
 - [一瞬の表情「微表情」で本音は読めるのか。マイクロエクスプレッションの研究](https://umbra.seadice.win/microexpression-true-feelings-research/): 微表情は全表情の2%しか出ず、訓練しても嘘を見抜く精度は上がらなかった。読める範囲と限界を研究から検証
 - [作り笑いと本物の笑顔は見分けられるか。研究でわかった正解率と、見抜くコツ](https://umbra.seadice.win/fake-smile-duchenne-detection-research/): 73人の実験では見た目だけの判定は五分五分に近い正答率。目じりのシワより口の動きに注目する方が有効という結果も。
