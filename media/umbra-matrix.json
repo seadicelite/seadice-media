@@ -519,6 +519,7 @@
    "label": "元恋人との距離",
    "cells": {
     "why": [
+     "post-breakup-unwanted-pursuit-research",
      "ex-partner-social-media-checking-research",
      "staying-friends-with-ex-research"
     ],
@@ -529,7 +530,8 @@
      "ex-partner-social-media-checking-research"
     ],
     "read": [
-     "ex-contact-backburner-intentions-research"
+     "ex-contact-backburner-intentions-research",
+     "post-breakup-unwanted-pursuit-research"
     ]
    }
   }
