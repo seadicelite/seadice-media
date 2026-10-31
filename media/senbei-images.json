@@ -684,5 +684,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/A_pair_of_orange_foam_earplugs.jpg/500px-A_pair_of_orange_foam_earplugs.jpg",
   "og": "https://senbei.seadice.win/img/crunch-sound-ear-or-bone.jpg",
   "local": true
+ },
+ "moisture-crunch-sound-liking": {
+  "file": "File:Isobe Senbei 01.JPG",
+  "src": "/img/moisture-crunch-sound-liking.jpg",
+  "src640": "/img/moisture-crunch-sound-liking-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "薄く焼いた磯部煎餅1枚",
+  "artist": "Abasaa",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Isobe_Senbei_01.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Isobe_Senbei_01.JPG/960px-Isobe_Senbei_01.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Isobe_Senbei_01.JPG/500px-Isobe_Senbei_01.JPG",
+  "og": "https://senbei.seadice.win/img/moisture-crunch-sound-liking.jpg",
+  "local": true
  }
 }
