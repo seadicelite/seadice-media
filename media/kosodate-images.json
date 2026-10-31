@@ -1417,5 +1417,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/A_pile_of_alphabet_wooden_blocks.jpg/500px-A_pile_of_alphabet_wooden_blocks.jpg",
   "og": "https://kosodate.seadice.win/img/older-sibling-hitting-sibling-bullying.jpg",
   "local": true
+ },
+ "child-few-friends-alone": {
+  "file": "File:Wooden bench swing and wicker hammocks on a bamboo footbridge in paddy fields a sunny day during the monsoon, Vang Vieng, Laos.jpg",
+  "src": "/img/child-few-friends-alone.jpg",
+  "src640": "/img/child-few-friends-alone-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のブランコとハンモック",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Wooden_bench_swing_and_wicker_hammocks_on_a_bamboo_footbridge_in_paddy_fields_a_sunny_day_during_the_monsoon,_Vang_Vieng,_Laos.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wooden_bench_swing_and_wicker_hammocks_on_a_bamboo_footbridge_in_paddy_fields_a_sunny_day_during_the_monsoon%2C_Vang_Vieng%2C_Laos.jpg/960px-Wooden_bench_swing_and_wicker_hammocks_on_a_bamboo_footbridge_in_paddy_fields_a_sunny_day_during_the_monsoon%2C_Vang_Vieng%2C_Laos.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wooden_bench_swing_and_wicker_hammocks_on_a_bamboo_footbridge_in_paddy_fields_a_sunny_day_during_the_monsoon%2C_Vang_Vieng%2C_Laos.jpg/500px-Wooden_bench_swing_and_wicker_hammocks_on_a_bamboo_footbridge_in_paddy_fields_a_sunny_day_during_the_monsoon%2C_Vang_Vieng%2C_Laos.jpg",
+  "og": "https://kosodate.seadice.win/img/child-few-friends-alone.jpg",
+  "local": true
  }
 }
