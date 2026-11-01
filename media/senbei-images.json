@@ -702,5 +702,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Isobe_Senbei_01.JPG/500px-Isobe_Senbei_01.JPG",
   "og": "https://senbei.seadice.win/img/moisture-crunch-sound-liking.jpg",
   "local": true
+ },
+ "hard-food-eat-less-myth": {
+  "file": "File:Shio Senbei Okinawa.JPG",
+  "src": "/img/hard-food-eat-less-myth.jpg",
+  "src640": "/img/hard-food-eat-less-myth-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "皿にのせた、厚みのある丸い塩せんべい2枚",
+  "artist": "Nissy-KITAQ",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Shio_Senbei_Okinawa.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Shio_Senbei_Okinawa.JPG/960px-Shio_Senbei_Okinawa.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Shio_Senbei_Okinawa.JPG/500px-Shio_Senbei_Okinawa.JPG",
+  "og": "https://senbei.seadice.win/img/hard-food-eat-less-myth.jpg",
+  "local": true
  }
 }
