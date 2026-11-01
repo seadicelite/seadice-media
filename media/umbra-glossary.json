@@ -1,5 +1,14 @@
 [
   {
+    "id": "mate-poaching",
+    "term": "メイトポーチング（相手の略奪）",
+    "en": "Mate poaching",
+    "def": "すでに恋人・配偶者がいる人に新たに言い寄り、関係を結ぼうとすること。進化心理学の研究で使われる用語で、日本語の「略奪愛」に近い。",
+    "slugs": [
+      "attracted-to-taken-people-mate-poaching-research"
+    ]
+  },
+  {
     "id": "reciprocity-of-liking",
     "term": "好意の返報性",
     "en": "Reciprocity of liking",
