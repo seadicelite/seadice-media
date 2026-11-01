@@ -916,5 +916,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Les_Pagodes_de_Beauval_-_346.jpg/500px-Les_Pagodes_de_Beauval_-_346.jpg",
   "og": "https://oya.seadice.win/img/parent-night-waking-family-sleep-og.jpg",
   "local": true
+ },
+ "parent-buying-same-things-repeatedly": {
+  "file": "File:Vorratskammer.jpg",
+  "src": "/img/parent-buying-same-things-repeatedly.webp",
+  "src640": "/img/parent-buying-same-things-repeatedly-sm.webp",
+  "w": 960,
+  "h": 718,
+  "alt": "棚に並んだ保存びん",
+  "artist": "ChristianSW",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Vorratskammer.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Vorratskammer.jpg/960px-Vorratskammer.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Vorratskammer.jpg/500px-Vorratskammer.jpg",
+  "og": "https://oya.seadice.win/img/parent-buying-same-things-repeatedly-og.jpg",
+  "local": true
  }
 }
