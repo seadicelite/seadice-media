@@ -1435,5 +1435,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wooden_bench_swing_and_wicker_hammocks_on_a_bamboo_footbridge_in_paddy_fields_a_sunny_day_during_the_monsoon%2C_Vang_Vieng%2C_Laos.jpg/500px-Wooden_bench_swing_and_wicker_hammocks_on_a_bamboo_footbridge_in_paddy_fields_a_sunny_day_during_the_monsoon%2C_Vang_Vieng%2C_Laos.jpg",
   "og": "https://kosodate.seadice.win/img/child-few-friends-alone.jpg",
   "local": true
+ },
+ "text-to-speech-struggling-reader": {
+  "file": "File:France in XXI Century. School.jpg",
+  "src": "/img/text-to-speech-struggling-reader.jpg",
+  "src640": "/img/text-to-speech-struggling-reader-sm.jpg",
+  "w": 960,
+  "h": 599,
+  "alt": "本の内容をヘッドホンで聞く子どもたちを描いた、1900年ごろの未来想像図",
+  "artist": "Jean Marc Côté / Villemard",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:France_in_XXI_Century._School.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/France_in_XXI_Century._School.jpg/960px-France_in_XXI_Century._School.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/France_in_XXI_Century._School.jpg/500px-France_in_XXI_Century._School.jpg",
+  "og": "https://kosodate.seadice.win/img/text-to-speech-struggling-reader.jpg",
+  "local": true
  }
 }

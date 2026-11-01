@@ -57,6 +57,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [発達が気になる子に、タブレットは学びの助けになる？](https://kosodate.seadice.win/tablet-developmental-disability-learning-support/): 言葉の理解などに良い効果が報告される一方、エビデンスはまだ限定的と研究でわかりました。
 - [タブレットとテレビ、自分を抑える力への影響は同じ？受け身の視聴との違い](https://kosodate.seadice.win/tablet-vs-tv-self-control/): 画面の種類より、受け身か自分で操作するかの違いが関係している可能性があると研究でわかりました。
 - [テスト前の一夜漬け、睡眠を削った勉強は身につく？高校生の実験では「数日に分けて覚える」が守りになった](https://kosodate.seadice.win/test-cramming-sleep-memory/): 睡眠5時間の週にまとめて覚えた単語ほど忘れやすく、4日に分けて覚えた単語は差が出なかった。中高生の睡眠の目安と声かけ。
+- [読むのが苦手な子に、音声読み上げを使わせていい？内容の理解は助けるが、読む練習は別に要る](https://kosodate.seadice.win/text-to-speech-struggling-reader/): 22本の研究のまとめでは、読み上げで読解の点はプラスに。ただ読む力を伸ばすのは文字と音を学ぶ練習。家での使い分けを整理。
 - [幼児のタブレット学習アプリに効果はある？](https://kosodate.seadice.win/toddler-tablet-learning-app-effect/): 2〜3歳は「見るだけ」の方がテストの成績が良く、5〜6歳は10分の練習でテストの点が上がった研究があります。
 
 ### スマホ・スクリーンタイム
