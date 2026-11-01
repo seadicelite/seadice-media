@@ -1,5 +1,4 @@
 [
- "sns-ad-fake-shop-recovery-steps",
  {
   "slug": "subscription-trap-recovery-steps",
   "date": "2026-10-31"
@@ -471,5 +470,9 @@
  {
   "slug": "gambling-gacha-thinking-traps-self-check",
   "date": "2026-10-26"
+ },
+ {
+  "slug": "sns-ad-fake-shop-recovery-steps",
+  "date": "2026-11-01"
  }
 ]
