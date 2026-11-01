@@ -1323,5 +1323,23 @@
   "og": "https://bohan.seadice.win/img/bystander-effect-crime-witness-og.jpg",
   "local": true,
   "reused_from": "fear-of-crime-vs-statistics"
+ },
+ "bicycle-theft-season-night-location": {
+  "file": "File:Bicycles along Han River at night 20240430191634.jpg",
+  "src": "/img/bicycle-theft-season-night-location.jpg",
+  "src640": "/img/bicycle-theft-season-night-location-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "夜の街に停められた自転車",
+  "artist": "TurnOnTheNight",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bicycles_along_Han_River_at_night_20240430191634.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bicycles_along_Han_River_at_night_20240430191634.jpg/960px-Bicycles_along_Han_River_at_night_20240430191634.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bicycles_along_Han_River_at_night_20240430191634.jpg/500px-Bicycles_along_Han_River_at_night_20240430191634.jpg",
+  "og": "https://bohan.seadice.win/img/bicycle-theft-season-night-location.jpg",
+  "local": true
  }
 }

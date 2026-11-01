@@ -100,13 +100,15 @@
    "label": "自転車の盗難",
    "cells": {
     "data": [
-     "bicycle-theft-unlocked-statistics"
+     "bicycle-theft-unlocked-statistics",
+     "bicycle-theft-season-night-location"
     ],
     "why": [
      "watching-eyes-sign-crime"
     ],
     "prevent": [
-     "bicycle-theft-unlocked-statistics"
+     "bicycle-theft-unlocked-statistics",
+     "bicycle-theft-season-night-location"
     ],
     "notice": [],
     "after": [
