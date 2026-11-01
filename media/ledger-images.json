@@ -1974,5 +1974,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Credit_card_receipt_-_old_style.jpg/500px-Credit_card_receipt_-_old_style.jpg",
   "og": "https://ledger.seadice.win/img/subscription-trap-recovery-steps.jpg",
   "local": true
+ },
+ "sns-ad-fake-shop-recovery-steps": {
+  "file": "File:Damaged FedEx Box - Corner Smashed In Cardboard Shipping Container (53371562280).jpg",
+  "src": "/img/sns-ad-fake-shop-recovery-steps.jpg",
+  "src640": "/img/sns-ad-fake-shop-recovery-steps-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "配送用の段ボール箱",
+  "artist": "Tony Webster",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Damaged_FedEx_Box_-_Corner_Smashed_In_Cardboard_Shipping_Container_(53371562280).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Damaged_FedEx_Box_-_Corner_Smashed_In_Cardboard_Shipping_Container_%2853371562280%29.jpg/960px-Damaged_FedEx_Box_-_Corner_Smashed_In_Cardboard_Shipping_Container_%2853371562280%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Damaged_FedEx_Box_-_Corner_Smashed_In_Cardboard_Shipping_Container_%2853371562280%29.jpg/500px-Damaged_FedEx_Box_-_Corner_Smashed_In_Cardboard_Shipping_Container_%2853371562280%29.jpg",
+  "og": "https://ledger.seadice.win/img/sns-ad-fake-shop-recovery-steps.jpg",
+  "local": true
  }
 }

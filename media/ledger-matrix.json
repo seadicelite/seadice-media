@@ -410,7 +410,8 @@
      "app-notification-off-impulse-tips"
     ],
     "after": [
-     "subscription-trap-recovery-steps"
+     "subscription-trap-recovery-steps",
+     "sns-ad-fake-shop-recovery-steps"
     ],
     "use": [
      "trial-price-total-cost-checklist"
