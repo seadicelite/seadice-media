@@ -1341,5 +1341,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bicycles_along_Han_River_at_night_20240430191634.jpg/500px-Bicycles_along_Han_River_at_night_20240430191634.jpg",
   "og": "https://bohan.seadice.win/img/bicycle-theft-season-night-location.jpg",
   "local": true
+ },
+ "child-online-game-stranger-risk": {
+  "file": "File:Xbox-360-Wireless-Controller-White.jpg",
+  "src": "/img/child-online-game-stranger-risk.jpg",
+  "src640": "/img/child-online-game-stranger-risk-sm.jpg",
+  "w": 960,
+  "h": 875,
+  "alt": "ゲームコントローラー",
+  "artist": "Evan-Amos",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Xbox-360-Wireless-Controller-White.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Xbox-360-Wireless-Controller-White.jpg/960px-Xbox-360-Wireless-Controller-White.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Xbox-360-Wireless-Controller-White.jpg/500px-Xbox-360-Wireless-Controller-White.jpg",
+  "og": "https://bohan.seadice.win/img/child-online-game-stranger-risk.jpg",
+  "local": true
  }
 }
