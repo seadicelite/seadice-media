@@ -2401,5 +2401,20 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg/500px-Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg",
   "og": "https://umbra.seadice.win/img/partner-not-posting-relationship-sns-research.jpg",
   "local": true
+ },
+ "palm-up-gesture-honesty-trust-research": {
+  "file": "File:Open Palm of the Left Hand, Fingers.jpg",
+  "src": "/img/palm-up-gesture-honesty-trust-research.jpg",
+  "src640": "/img/palm-up-gesture-honesty-trust-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "手のひらを開いて見せるしぐさ",
+  "artist": "Eyefive45",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Open_Palm_of_the_Left_Hand,_Fingers.jpg",
+  "source_label": "Wikimedia Commons",
+  "og": "https://umbra.seadice.win/img/palm-up-gesture-honesty-trust-research.jpg",
+  "local": true
  }
 }
