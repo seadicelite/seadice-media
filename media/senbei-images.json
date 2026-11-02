@@ -720,5 +720,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Shio_Senbei_Okinawa.JPG/500px-Shio_Senbei_Okinawa.JPG",
   "og": "https://senbei.seadice.win/img/hard-food-eat-less-myth.jpg",
   "local": true
+ },
+ "dark-soy-sauce-saltier-myth": {
+  "file": "File:Dashi shoyu sauce in small plate CNE 02.jpg",
+  "src": "/img/dark-soy-sauce-saltier-myth.jpg",
+  "src640": "/img/dark-soy-sauce-saltier-myth-sm.jpg",
+  "w": 960,
+  "h": 877,
+  "alt": "白い小皿に注いだ、色の濃いだし醤油",
+  "artist": "CNEcija12345",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dashi_shoyu_sauce_in_small_plate_CNE_02.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dashi_shoyu_sauce_in_small_plate_CNE_02.jpg/960px-Dashi_shoyu_sauce_in_small_plate_CNE_02.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dashi_shoyu_sauce_in_small_plate_CNE_02.jpg/500px-Dashi_shoyu_sauce_in_small_plate_CNE_02.jpg",
+  "og": "https://senbei.seadice.win/img/dark-soy-sauce-saltier-myth.jpg",
+  "local": true
  }
 }
