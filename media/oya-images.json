@@ -933,5 +933,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Vorratskammer.jpg/500px-Vorratskammer.jpg",
   "og": "https://oya.seadice.win/img/parent-buying-same-things-repeatedly-og.jpg",
   "local": true
+ },
+ "parent-stopped-cooking": {
+  "file": "File:Kitchen, cooking pot Fortepan 878.jpg",
+  "src": "/img/parent-stopped-cooking.webp",
+  "src640": "/img/parent-stopped-cooking-sm.webp",
+  "w": 960,
+  "h": 686,
+  "alt": "昔の台所に並ぶコンロと鍋（白黒写真）",
+  "artist": "FOTO:Fortepan — ID 878: Adományozó/Donor: UVATERV.",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kitchen,_cooking_pot_Fortepan_878.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kitchen%2C_cooking_pot_Fortepan_878.jpg/960px-Kitchen%2C_cooking_pot_Fortepan_878.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kitchen%2C_cooking_pot_Fortepan_878.jpg/500px-Kitchen%2C_cooking_pot_Fortepan_878.jpg",
+  "og": "https://oya.seadice.win/img/parent-stopped-cooking-og.jpg",
+  "local": true
  }
 }
