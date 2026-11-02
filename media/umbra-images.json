@@ -2383,5 +2383,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Piggy-bank-968302.jpg/500px-Piggy-bank-968302.jpg",
   "og": "https://umbra.seadice.win/img/money-talk-before-marriage-cohabitation-research.jpg",
   "local": true
+ },
+ "partner-not-posting-relationship-sns-research": {
+  "file": "File:Social Media App Icons On The Screen of A Smartphone.jpg",
+  "src": "/img/partner-not-posting-relationship-sns-research.jpg",
+  "src640": "/img/partner-not-posting-relationship-sns-research-sm.jpg",
+  "w": 960,
+  "h": 768,
+  "alt": "SNSのアプリが並ぶスマートフォンの画面",
+  "artist": "mikemacmarketing",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg/960px-Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg/500px-Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg",
+  "og": "https://umbra.seadice.win/img/partner-not-posting-relationship-sns-research.jpg",
+  "local": true
  }
 }
