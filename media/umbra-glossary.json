@@ -375,5 +375,14 @@
     "slugs": [
       "first-date-nerves-reappraisal-safety-behaviors-research"
     ]
+  },
+  {
+    "id": "cocktail-party-effect",
+    "term": "カクテルパーティー効果",
+    "en": "Cocktail party effect",
+    "def": "周りが騒がしくても、自分の名前や関心のある話は自然と耳に入ってくる現象。聞き流すよう指示された場面でも、自分の名前には約3割の人が気づくという実験がある。",
+    "slugs": [
+      "using-name-liking-signal-research"
+    ]
   }
 ]
