@@ -65,7 +65,9 @@
     "weekend-work-email-phone-prevent",
     "dim-room-daytime-light-focus",
     "mental-work-body-tired-why",
-    "past-unemployment-job-worry-why"
+    "past-unemployment-job-worry-why",
+    "ai-job-worry-home-spillover-prevent",
+    "fatigue-light-running-recover"
    ]
   },
   {
@@ -140,7 +142,9 @@
     "weekend-work-email-phone-prevent",
     "mental-work-body-tired-why",
     "past-unemployment-job-worry-why",
-    "desk-plant-focus-prevent"
+    "desk-plant-focus-prevent",
+    "unemployed-volunteering-recover",
+    "ai-job-worry-home-spillover-prevent"
    ]
   },
   {
@@ -352,7 +356,10 @@
     "conversation-safety-behaviors-awkward",
     "isolation-meeting-people-scary-recover",
     "lonely-feel-rejected-withdraw",
-    "couple-routine-new-activities-prevent"
+    "couple-routine-new-activities-prevent",
+    "comfort-friend-what-to-say",
+    "ai-chat-connection-differs-why",
+    "loneliness-neighbor-kindness-recover"
    ]
   },
   {
@@ -420,7 +427,9 @@
     "ai-made-for-me-handmade-recover",
     "ai-overuse-self-regulation-prevent",
     "ai-unavailable-restless",
-    "ai-assisted-pay-not-earned-why"
+    "ai-assisted-pay-not-earned-why",
+    "ai-control-sense-keep-share-prevent",
+    "ai-chat-connection-differs-why"
    ]
   }
  ]
