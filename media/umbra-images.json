@@ -2416,5 +2416,23 @@
   "source_label": "Wikimedia Commons",
   "og": "https://umbra.seadice.win/img/palm-up-gesture-honesty-trust-research.jpg",
   "local": true
+ },
+ "deep-conversation-small-talk-crush-research": {
+  "file": "File:The cup of coffee on a wooden table (47939081677).jpg",
+  "src": "/img/deep-conversation-small-talk-crush-research.jpg",
+  "src640": "/img/deep-conversation-small-talk-crush-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のテーブルに置かれた、受け皿とスプーンつきのラテのグラス",
+  "artist": "Artem Beliaikin from Moscow, Russia",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:The_cup_of_coffee_on_a_wooden_table_(47939081677).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_cup_of_coffee_on_a_wooden_table_%2847939081677%29.jpg/960px-The_cup_of_coffee_on_a_wooden_table_%2847939081677%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_cup_of_coffee_on_a_wooden_table_%2847939081677%29.jpg/500px-The_cup_of_coffee_on_a_wooden_table_%2847939081677%29.jpg",
+  "og": "https://umbra.seadice.win/img/deep-conversation-small-talk-crush-research.jpg",
+  "local": true
  }
 }
