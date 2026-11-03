@@ -1359,5 +1359,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Xbox-360-Wireless-Controller-White.jpg/500px-Xbox-360-Wireless-Controller-White.jpg",
   "og": "https://bohan.seadice.win/img/child-online-game-stranger-risk.jpg",
   "local": true
+ },
+ "summer-window-unlocked-burglary": {
+  "file": "File:Copped Hall garden summer house, Epping, Essex, England 11.jpg",
+  "src": "/img/summer-window-unlocked-burglary.jpg",
+  "src640": "/img/summer-window-unlocked-burglary-sm.jpg",
+  "w": 960,
+  "h": 653,
+  "alt": "英国の庭園に残るサマーハウス（あずまや）の廃墟",
+  "artist": "Acabashi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Copped_Hall_garden_summer_house,_Epping,_Essex,_England_11.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Copped_Hall_garden_summer_house%2C_Epping%2C_Essex%2C_England_11.jpg/960px-Copped_Hall_garden_summer_house%2C_Epping%2C_Essex%2C_England_11.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Copped_Hall_garden_summer_house%2C_Epping%2C_Essex%2C_England_11.jpg/500px-Copped_Hall_garden_summer_house%2C_Epping%2C_Essex%2C_England_11.jpg",
+  "og": "https://bohan.seadice.win/img/summer-window-unlocked-burglary.jpg",
+  "local": true
  }
 }

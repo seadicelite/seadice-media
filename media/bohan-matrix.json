@@ -48,7 +48,8 @@
     "prevent": [
      "window-glass-breaking-burglary",
      "vacation-empty-home-burglary",
-     "moving-new-home-security"
+     "moving-new-home-security",
+     "summer-window-unlocked-burglary"
     ],
     "notice": [],
     "after": [
