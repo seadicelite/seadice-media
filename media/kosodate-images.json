@@ -1453,5 +1453,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/France_in_XXI_Century._School.jpg/500px-France_in_XXI_Century._School.jpg",
   "og": "https://kosodate.seadice.win/img/text-to-speech-struggling-reader.jpg",
   "local": true
+ },
+ "daycare-age-0-1-child-development": {
+  "file": "File:Howells School, Nursery building, Llandaff.jpg",
+  "src": "/img/daycare-age-0-1-child-development.jpg",
+  "src640": "/img/daycare-age-0-1-child-development-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "保育棟のある赤れんがの建物",
+  "artist": "Sionk",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Howells_School,_Nursery_building,_Llandaff.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Howells_School%2C_Nursery_building%2C_Llandaff.jpg/960px-Howells_School%2C_Nursery_building%2C_Llandaff.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Howells_School%2C_Nursery_building%2C_Llandaff.jpg/500px-Howells_School%2C_Nursery_building%2C_Llandaff.jpg",
+  "og": "https://kosodate.seadice.win/img/daycare-age-0-1-child-development.jpg",
+  "local": true,
+  "unconverted": true
  }
 }
