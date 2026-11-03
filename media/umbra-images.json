@@ -2470,5 +2470,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Dark_clouds_over_Towers_of_Channelside%2C_Tampa%2C_FL.jpg/500px-Dark_clouds_over_Towers_of_Channelside%2C_Tampa%2C_FL.jpg",
   "og": "https://umbra.seadice.win/img/punching-wall-object-violence-danger-research.jpg",
   "local": true
+ },
+ "partner-phubbing-sns-conflict-repair-research": {
+  "file": "File:Middle-aged woman working on laptop while holding smartphone at a wooden table.jpg",
+  "src": "/img/partner-phubbing-sns-conflict-repair-research.jpg",
+  "src640": "/img/partner-phubbing-sns-conflict-repair-research-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "ノートパソコンを打ちながらスマートフォンを持つ手",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Middle-aged_woman_working_on_laptop_while_holding_smartphone_at_a_wooden_table.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Middle-aged_woman_working_on_laptop_while_holding_smartphone_at_a_wooden_table.jpg/960px-Middle-aged_woman_working_on_laptop_while_holding_smartphone_at_a_wooden_table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Middle-aged_woman_working_on_laptop_while_holding_smartphone_at_a_wooden_table.jpg/500px-Middle-aged_woman_working_on_laptop_while_holding_smartphone_at_a_wooden_table.jpg",
+  "og": "https://umbra.seadice.win/img/partner-phubbing-sns-conflict-repair-research.jpg",
+  "local": true
  }
 }
