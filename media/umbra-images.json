@@ -2452,5 +2452,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg/500px-Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg",
   "og": "https://umbra.seadice.win/img/friend-controlling-partner-how-to-help-research.jpg",
   "local": true
+ },
+ "punching-wall-object-violence-danger-research": {
+  "file": "File:Dark clouds over Towers of Channelside, Tampa, FL.jpg",
+  "src": "/img/punching-wall-object-violence-danger-research.jpg",
+  "src640": "/img/punching-wall-object-violence-danger-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "暗く垂れ込める雨雲",
+  "artist": "MrSwagger21",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dark_clouds_over_Towers_of_Channelside,_Tampa,_FL.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Dark_clouds_over_Towers_of_Channelside%2C_Tampa%2C_FL.jpg/960px-Dark_clouds_over_Towers_of_Channelside%2C_Tampa%2C_FL.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Dark_clouds_over_Towers_of_Channelside%2C_Tampa%2C_FL.jpg/500px-Dark_clouds_over_Towers_of_Channelside%2C_Tampa%2C_FL.jpg",
+  "og": "https://umbra.seadice.win/img/punching-wall-object-violence-danger-research.jpg",
+  "local": true
  }
 }
