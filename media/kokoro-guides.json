@@ -68,7 +68,8 @@
         "past-unemployment-job-worry-why",
         "ai-job-worry-home-spillover-prevent",
         "fatigue-light-running-recover",
-        "phone-in-bed-sleep-fatigue-prevent"
+        "phone-in-bed-sleep-fatigue-prevent",
+        "info-overload-anxiety-quick-exercise"
       ]
     },
     {
@@ -147,7 +148,8 @@
         "unemployed-volunteering-recover",
         "ai-job-worry-home-spillover-prevent",
         "work-pressure-cold-face",
-        "ask-ai-not-coworker-why"
+        "ask-ai-not-coworker-why",
+        "ai-better-cooperate-mindset"
       ]
     },
     {
@@ -226,7 +228,8 @@
         "dim-room-daytime-light-focus",
         "meaning-attention-focus-why",
         "desk-plant-focus-prevent",
-        "screenshot-forget-why"
+        "screenshot-forget-why",
+        "distracted-focus-short-meditation"
       ]
     },
     {
@@ -293,7 +296,8 @@
         "sns-appearance-self-compassion-daily",
         "comparison-motivation-up-down-why",
         "comparison-savoring-recover",
-        "social-clock-age-deadline"
+        "social-clock-age-deadline",
+        "ai-better-cooperate-mindset"
       ]
     },
     {
@@ -366,7 +370,8 @@
         "comfort-friend-what-to-say",
         "ai-chat-connection-differs-why",
         "loneliness-neighbor-kindness-recover",
-        "friends-phone-glance-prevent"
+        "friends-phone-glance-prevent",
+        "laughing-together-loneliness"
       ]
     },
     {
@@ -438,7 +443,9 @@
         "ai-control-sense-keep-share-prevent",
         "ai-chat-connection-differs-why",
         "ai-cutback-relapse-recover",
-        "ask-ai-not-coworker-why"
+        "ask-ai-not-coworker-why",
+        "info-overload-anxiety-quick-exercise",
+        "ai-recommend-options-regret"
       ]
     }
   ]
