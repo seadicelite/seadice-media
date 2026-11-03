@@ -2434,5 +2434,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_cup_of_coffee_on_a_wooden_table_%2847939081677%29.jpg/500px-The_cup_of_coffee_on_a_wooden_table_%2847939081677%29.jpg",
   "og": "https://umbra.seadice.win/img/deep-conversation-small-talk-crush-research.jpg",
   "local": true
+ },
+ "friend-controlling-partner-how-to-help-research": {
+  "file": "File:Tables and director's chairs on les Planches de Deauville 005.jpg",
+  "src": "/img/friend-controlling-partner-how-to-help-research.jpg",
+  "src640": "/img/friend-controlling-partner-how-to-help-research-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "木の床の屋外テラスに並ぶ白いテーブルと、赤や青の折りたたみ椅子（人のいないカフェ席）",
+  "artist": "Guillaume Paumier",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg/960px-Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg/500px-Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg",
+  "og": "https://umbra.seadice.win/img/friend-controlling-partner-how-to-help-research.jpg",
+  "local": true
  }
 }
