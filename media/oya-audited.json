@@ -166,5 +166,9 @@
   {
     "slug": "parent-stopped-cooking",
     "date": "2026-11-02"
+  },
+  {
+    "slug": "parent-refuses-day-service",
+    "date": "2026-11-03"
   }
 ]
