@@ -950,5 +950,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kitchen%2C_cooking_pot_Fortepan_878.jpg/500px-Kitchen%2C_cooking_pot_Fortepan_878.jpg",
   "og": "https://oya.seadice.win/img/parent-stopped-cooking-og.jpg",
   "local": true
+ },
+ "parent-refuses-day-service": {
+  "file": "File:Corn silk tea cup teapot 01.jpg",
+  "src": "/img/parent-refuses-day-service.jpg",
+  "src640": "/img/parent-refuses-day-service-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ガラスのティーポットとお茶の入ったカップ",
+  "artist": "KQuhen",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Corn_silk_tea_cup_teapot_01.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Corn_silk_tea_cup_teapot_01.jpg/960px-Corn_silk_tea_cup_teapot_01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Corn_silk_tea_cup_teapot_01.jpg/500px-Corn_silk_tea_cup_teapot_01.jpg",
+  "og": "https://oya.seadice.win/img/parent-refuses-day-service.jpg",
+  "local": true
  }
 }
