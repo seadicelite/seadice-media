@@ -141,7 +141,9 @@
         "make": [
           "add-umami-to-senbei"
         ],
-        "data": [],
+        "data": [
+          "umami-sensitivity-varies"
+        ],
         "use": []
       }
     },

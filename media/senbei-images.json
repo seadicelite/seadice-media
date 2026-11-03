@@ -738,5 +738,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dashi_shoyu_sauce_in_small_plate_CNE_02.jpg/500px-Dashi_shoyu_sauce_in_small_plate_CNE_02.jpg",
   "og": "https://senbei.seadice.win/img/dark-soy-sauce-saltier-myth.jpg",
   "local": true
+ },
+ "umami-sensitivity-varies": {
+  "file": "File:Monosodium glutamate crystals.jpg",
+  "src": "/img/umami-sensitivity-varies.jpg",
+  "src640": "/img/umami-sensitivity-varies-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "グルタミン酸ナトリウムの結晶",
+  "artist": "Ragesoss",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Monosodium_glutamate_crystals.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Monosodium_glutamate_crystals.jpg/960px-Monosodium_glutamate_crystals.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Monosodium_glutamate_crystals.jpg/500px-Monosodium_glutamate_crystals.jpg",
+  "og": "https://senbei.seadice.win/img/umami-sensitivity-varies.jpg",
+  "local": true
  }
 }
