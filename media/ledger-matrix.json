@@ -249,7 +249,8 @@
      "budget-deficit-month-recovery"
     ],
     "use": [
-     "irregular-expenses-monthly-setaside-calculator"
+     "irregular-expenses-monthly-setaside-calculator",
+     "inflation-spending-increase-calculator"
     ]
    }
   },

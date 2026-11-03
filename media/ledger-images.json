@@ -1,4 +1,21 @@
 {
+ "inflation-spending-increase-calculator": {
+  "file": "File:Texas Instruments Longines Symphonette Calculator 1st version.jpg",
+  "src": "/img/budget-deficit-month-recovery.webp",
+  "src640": "/img/budget-deficit-month-recovery-sm.webp",
+  "w": 960,
+  "h": 917,
+  "alt": "計算をする電卓",
+  "artist": "Mister rf",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg/960px-Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg/500px-Texas_Instruments_Longines_Symphonette_Calculator_1st_version.jpg",
+  "og": "https://ledger.seadice.win/img/budget-deficit-month-recovery-og.jpg",
+  "local": true
+ },
  "cashless-spending": {
   "file": "File:Mobile payment 03.JPG",
   "src": "/img/cashless-spending.webp",
