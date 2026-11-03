@@ -1,5 +1,32 @@
 [
  {
+  "slug": "ai-overview-site-traffic-drop",
+  "category": "Web・検索の変化",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-11-03",
+  "title": "ブログやお店のサイトのアクセスが減ったのは、検索のAI要約のせい？調査では、要約が出た検索でリンクが押されたのは8%で、出ないときの15%より少なかった。ただ理由はほかにもあり、まず期間を比べて切り分ける",
+  "summary": "AI要約が出るとリンクは押されにくくなる。ただ季節や順位でも減るので、Search Consoleで前年と比べて理由を切り分ける"
+ },
+ {
+  "slug": "web-article-human-or-ai-how-to-trust",
+  "category": "Web・検索の変化",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-11-03",
+  "title": "ネットの記事が人の文章かAIか見分けられない。どのサイトを信じればいい？研究では文章からの判定は当てずっぽうに近く、プロは記事を離れて運営元を調べていた",
+  "summary": "文章から人かAIかを当てる実験の正しさはほぼ5割。ファクトチェッカーのように別のタブで運営元・出典・日付を確かめる横読みが頼りになります。"
+ },
+ {
+  "slug": "search-results-ai-written-articles",
+  "category": "Web・検索の変化",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-11-03",
+  "title": "検索しても同じような記事ばかりなのは、AIが書いた記事のせい？研究では、上位の商品レビューは紹介料目当てのページに偏り、AIとの関係はまだ確かめられていない",
+  "summary": "似た記事ばかりなのはAIのせい？英語の研究では、検索上位は紹介料目当てのページに偏っていたが、AIとの関係は未確認。検索の絞り方も"
+ },
+ {
   "slug": "ai-scam-targeted-again-fear-rebuild",
   "category": "詐欺・なりすまし",
   "type": "guide",
@@ -865,7 +892,7 @@
  },
  {
   "slug": "ai-generated-web-content-share",
-  "category": "偽情報・ディープフェイク",
+  "category": "Web・検索の変化",
   "type": "guide",
   "stage": "知る",
   "date": "2026-10-17",
@@ -1504,7 +1531,7 @@
  },
  {
   "slug": "ai-search-summary-accuracy",
-  "category": "AIに頼りすぎ",
+  "category": "Web・検索の変化",
   "type": "guide",
   "stage": "知る",
   "date": "2026-10-10",
