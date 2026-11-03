@@ -2434,5 +2434,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_cup_of_coffee_on_a_wooden_table_%2847939081677%29.jpg/500px-The_cup_of_coffee_on_a_wooden_table_%2847939081677%29.jpg",
   "og": "https://umbra.seadice.win/img/deep-conversation-small-talk-crush-research.jpg",
   "local": true
+ },
+ "relationship-effort-decline-duration-research": {
+  "file": "File:The Goldfish Bowl by Henri Matisse in the Metropolitan Museum of Art.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Goldfish_Bowl_by_Henri_Matisse_in_the_Metropolitan_Museum_of_Art.jpg/960px-The_Goldfish_Bowl_by_Henri_Matisse_in_the_Metropolitan_Museum_of_Art.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Goldfish_Bowl_by_Henri_Matisse_in_the_Metropolitan_Museum_of_Art.jpg/500px-The_Goldfish_Bowl_by_Henri_Matisse_in_the_Metropolitan_Museum_of_Art.jpg",
+  "w": 960,
+  "h": 772,
+  "alt": "金魚鉢の中の金魚",
+  "artist": "Yair-haklai",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Goldfish_Bowl_by_Henri_Matisse_in_the_Metropolitan_Museum_of_Art.jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
