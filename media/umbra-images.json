@@ -2506,5 +2506,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Coffee_with_cream_and_sugar_%28Unsplash%29.jpg/500px-Coffee_with_cream_and_sugar_%28Unsplash%29.jpg",
   "og": "https://umbra.seadice.win/img/social-disapproval-relationship-what-to-do-research.jpg",
   "local": true
+ },
+ "relationship-effort-decline-duration-research": {
+  "file": "File:Woman with watering can, Dent de Man.jpg",
+  "src": "/img/relationship-effort-decline-duration-research.jpg",
+  "src640": "/img/relationship-effort-decline-duration-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "緑のじょうろを頭に乗せて運ぶ人と、遠くに見える山",
+  "artist": "FBilula",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_with_watering_can,_Dent_de_Man.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Woman_with_watering_can%2C_Dent_de_Man.jpg/960px-Woman_with_watering_can%2C_Dent_de_Man.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Woman_with_watering_can%2C_Dent_de_Man.jpg/500px-Woman_with_watering_can%2C_Dent_de_Man.jpg",
+  "og": "https://umbra.seadice.win/img/relationship-effort-decline-duration-research.jpg",
+  "local": true
  }
 }
