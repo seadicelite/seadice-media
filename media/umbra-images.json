@@ -2488,5 +2488,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Middle-aged_woman_working_on_laptop_while_holding_smartphone_at_a_wooden_table.jpg/500px-Middle-aged_woman_working_on_laptop_while_holding_smartphone_at_a_wooden_table.jpg",
   "og": "https://umbra.seadice.win/img/partner-phubbing-sns-conflict-repair-research.jpg",
   "local": true
+ },
+ "marital-satisfaction-decline-effort-myth-research": {
+  "file": "File:Placing a wedding ring.jpg",
+  "src": "/img/marital-satisfaction-decline-effort-myth-research.jpg",
+  "src640": "/img/marital-satisfaction-decline-effort-myth-research-sm.jpg",
+  "w": 960,
+  "h": 808,
+  "alt": "結婚指輪",
+  "artist": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Placing_a_wedding_ring.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Placing_a_wedding_ring.jpg/960px-Placing_a_wedding_ring.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Placing_a_wedding_ring.jpg/500px-Placing_a_wedding_ring.jpg",
+  "og": "https://umbra.seadice.win/img/marital-satisfaction-decline-effort-myth-research.jpg",
+  "local": true
  }
 }
