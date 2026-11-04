@@ -42,7 +42,9 @@
           "baking-method-puffing",
           "old-rice-puffing"
         ],
-        "data": [],
+        "data": [
+          "senbei-puff-thickness-ratio"
+        ],
         "use": [
           "https://senbei.seadice.win/tool/"
         ]

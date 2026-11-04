@@ -756,5 +756,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Monosodium_glutamate_crystals.jpg/500px-Monosodium_glutamate_crystals.jpg",
   "og": "https://senbei.seadice.win/img/umami-sensitivity-varies.jpg",
   "local": true
+ },
+ "senbei-puff-thickness-ratio": {
+  "file": "File:Senbei-japanse-mix.jpg",
+  "src": "/img/senbei-puff-thickness-ratio.webp",
+  "src640": "/img/senbei-puff-thickness-ratio-sm.webp",
+  "w": 960,
+  "h": 831,
+  "alt": "器に盛ったあられと豆菓子",
+  "artist": "Edoderoo",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Senbei-japanse-mix.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Senbei-japanse-mix.jpg/960px-Senbei-japanse-mix.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Senbei-japanse-mix.jpg/500px-Senbei-japanse-mix.jpg",
+  "og": "https://senbei.seadice.win/img/senbei-puff-thickness-ratio-og.jpg",
+  "local": true
  }
 }
