@@ -3,7 +3,7 @@
  "seo_title": "恋愛としぐさの心理学 マインドマップ（全記事を問いごとに整理）",
  "desc": "しぐさと本音の全記事を、6つの分野と問いごとに枝分かれさせたマインドマップです。気になる問いをたどって、研究で確かめた記事にすぐ飛べます。",
  "lead": "好意のサイン、しぐさ、駆け引き、相性と結婚、危険な相手、別れと復縁。しぐさと本音の全記事を、問いごとに枝分かれさせました。問いをタップすると記事の枝が開き、記事から本文に飛べます。",
- "date": "2026-10-08",
+ "date": "2026-11-04",
  "branches": {
   "脈あり・好意のサイン": [
    {
@@ -205,6 +205,7 @@
    {
     "label": "長続きする関係",
     "slugs": [
+     "marital-satisfaction-decline-effort-myth-research",
      "partner-responsiveness-research",
      "gratitude-relationship-maintenance-research",
      "long-distance-relationship-satisfaction-research",
