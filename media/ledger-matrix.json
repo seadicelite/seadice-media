@@ -243,7 +243,8 @@
      "inflation-fatigue-self-check"
     ],
     "fix": [
-     "payment-reminders-attention"
+     "payment-reminders-attention",
+     "shrinkflation-unit-price-shopping-tips"
     ],
     "after": [
      "budget-deficit-month-recovery"
