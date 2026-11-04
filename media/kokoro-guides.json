@@ -153,7 +153,8 @@
         "ask-ai-not-coworker-why",
         "ai-better-cooperate-mindset",
         "ai-use-work-loneliness-distress",
-        "reemployment-job-quality-recover"
+        "reemployment-job-quality-recover",
+        "work-stress-activity-tracking-prevent"
       ]
     },
     {
@@ -234,7 +235,10 @@
         "desk-plant-focus-prevent",
         "screenshot-forget-why",
         "distracted-focus-short-meditation",
-        "screen-eye-strain-blur-why"
+        "screen-eye-strain-blur-why",
+        "busy-workload-ai-dependence-prevent",
+        "hangover-next-day-focus-prevent",
+        "caffeine-mental-fatigue-focus"
       ]
     },
     {
@@ -453,7 +457,8 @@
         "ai-cutback-relapse-recover",
         "ask-ai-not-coworker-why",
         "info-overload-anxiety-quick-exercise",
-        "ai-recommend-options-regret"
+        "ai-recommend-options-regret",
+        "busy-workload-ai-dependence-prevent"
       ]
     }
   ]
