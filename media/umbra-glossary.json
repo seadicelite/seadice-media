@@ -375,5 +375,14 @@
     "slugs": [
       "first-date-nerves-reappraisal-safety-behaviors-research"
     ]
+  },
+  {
+    "id": "rejection-sensitivity",
+    "term": "拒絶への敏感さ",
+    "en": "Rejection sensitivity",
+    "def": "拒絶されるのではと不安に予期し、相手のあいまいな行動から拒絶を読み取りやすく、強く反応する傾向。質問紙で測る傾向の強さで、診断名ではない。",
+    "slugs": [
+      "cold-reaction-felt-rejected-recovery-research"
+    ]
   }
 ]
