@@ -2542,5 +2542,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2009-365-238_Me_and_My_Kid_Brother_%283861192062%29.jpg/500px-2009-365-238_Me_and_My_Kid_Brother_%283861192062%29.jpg",
   "og": "https://umbra.seadice.win/img/shoulder-shrug-confidence-signal-research.jpg",
   "local": true
+ },
+ "premarital-doubts-cold-feet-research": {
+  "file": "File:Engagement rings photo by Ygor Oliveira.jpg",
+  "src": "/img/premarital-doubts-cold-feet-research.jpg",
+  "src640": "/img/premarital-doubts-cold-feet-research-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "木のテーブルに置かれた2つの金の指輪",
+  "artist": "Ygor Oliveira",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Engagement_rings_photo_by_Ygor_Oliveira.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Engagement_rings_photo_by_Ygor_Oliveira.jpg/960px-Engagement_rings_photo_by_Ygor_Oliveira.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Engagement_rings_photo_by_Ygor_Oliveira.jpg/500px-Engagement_rings_photo_by_Ygor_Oliveira.jpg",
+  "og": "https://umbra.seadice.win/img/premarital-doubts-cold-feet-research.jpg",
+  "local": true
  }
 }
