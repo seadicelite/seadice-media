@@ -492,4 +492,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://tetsugaku.seadice.win/pragmatism-what-works-is-true/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

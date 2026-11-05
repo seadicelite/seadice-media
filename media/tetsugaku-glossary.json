@@ -395,6 +395,15 @@
   ]
  },
  {
+  "id": "pragmatism-maxim",
+  "term": "プラグマティズムの格言",
+  "en": "Pragmatic maxim",
+  "def": "概念の意味は、それを信じて行動したときに現実に起こる効果の総体である、という考え方です。パースが1878年の論文で示し、プラグマティズムという哲学の出発点になりました。",
+  "slugs": [
+   "pragmatism-what-works-is-true"
+  ]
+ },
+ {
   "id": "dialectic",
   "term": "弁証法（ヘーゲル）",
   "en": "Dialectic",
