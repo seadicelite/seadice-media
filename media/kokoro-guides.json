@@ -156,7 +156,9 @@
         "reemployment-job-quality-recover",
         "work-stress-activity-tracking-prevent",
         "workplace-bullying-distress-recover",
-        "technostress-lifestyle-habits-prevent"
+        "technostress-lifestyle-habits-prevent",
+        "ai-dependence-work-engagement-prevent",
+        "ai-written-feedback-feels-cold-why"
       ]
     },
     {
@@ -242,7 +244,8 @@
         "hangover-next-day-focus-prevent",
         "caffeine-mental-fatigue-focus",
         "phone-one-hour-less-prevent",
-        "game-focus-recover"
+        "game-focus-recover",
+        "pomodoro-breaks-focus-prevent"
       ]
     },
     {
@@ -390,7 +393,8 @@
         "laughing-together-loneliness",
         "ai-use-work-loneliness-distress",
         "retirement-loneliness-recover",
-        "workplace-bullying-distress-recover"
+        "workplace-bullying-distress-recover",
+        "divorce-separation-writing-recover"
       ]
     },
     {
@@ -465,7 +469,9 @@
         "ask-ai-not-coworker-why",
         "info-overload-anxiety-quick-exercise",
         "ai-recommend-options-regret",
-        "busy-workload-ai-dependence-prevent"
+        "busy-workload-ai-dependence-prevent",
+        "ai-dependence-work-engagement-prevent",
+        "ai-written-feedback-feels-cold-why"
       ]
     }
   ]
