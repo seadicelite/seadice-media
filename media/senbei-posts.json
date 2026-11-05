@@ -1,5 +1,13 @@
 [
  {
+  "slug": "regional-salt-taste-birthplace",
+  "category": "地域",
+  "type": "study",
+  "date": "2026-11-05",
+  "title": "生まれた地域で塩味の感じ方は違う？日本人561人の食塩水の検査では、塩の少ない地域の生まれの人がやや強く感じたが、はっきり差が出たのは6種類中1つ（煎餅では未確認）",
+  "summary": "生まれた地域の平均食塩摂取量で分けた561人の検査。少ない群は塩味をやや強く感じたが、差がはっきりしたのは1種類だけ"
+ },
+ {
   "slug": "senbei-puff-thickness-ratio",
   "category": "工程",
   "type": "study",

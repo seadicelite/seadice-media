@@ -172,7 +172,9 @@
       "id": "region",
       "label": "地域の味",
       "cells": {
-        "why": [],
+        "why": [
+          "regional-salt-taste-birthplace"
+        ],
         "myth": [
           "kyushu-soy-sauce-sweet-why"
         ],

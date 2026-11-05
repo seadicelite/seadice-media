@@ -773,5 +773,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Senbei-japanse-mix.jpg/500px-Senbei-japanse-mix.jpg",
   "og": "https://senbei.seadice.win/img/senbei-puff-thickness-ratio-og.jpg",
   "local": true
+ },
+ "regional-salt-taste-birthplace": {
+  "file": "File:Tsukemono.jpg",
+  "src": "/img/regional-salt-taste-birthplace.jpg",
+  "src640": "/img/regional-salt-taste-birthplace-sm.jpg",
+  "w": 960,
+  "h": 832,
+  "alt": "皿に盛った日本の漬物",
+  "artist": "Sue Le",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tsukemono.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tsukemono.jpg/960px-Tsukemono.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tsukemono.jpg/500px-Tsukemono.jpg",
+  "og": "https://senbei.seadice.win/img/regional-salt-taste-birthplace.jpg",
+  "local": true
  }
 }
