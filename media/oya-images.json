@@ -986,5 +986,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg/500px-Part_of_a_bookshelf_containing_books_by_ancient_philosophers_%281.1%29.jpg",
   "og": "https://oya.seadice.win/img/parent-stopped-reading-newspaper-books.jpg",
   "local": true
+ },
+ "parent-fear-of-falling-after-fall": {
+  "file": "File:Handrail of stairs in a house in Jerusalem.jpg",
+  "src": "/img/parent-fear-of-falling-after-fall.jpg",
+  "src640": "/img/parent-fear-of-falling-after-fall-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "木の手すりと鉄の飾りがついた階段",
+  "artist": "Korenn",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Handrail_of_stairs_in_a_house_in_Jerusalem.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Handrail_of_stairs_in_a_house_in_Jerusalem.jpg/960px-Handrail_of_stairs_in_a_house_in_Jerusalem.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Handrail_of_stairs_in_a_house_in_Jerusalem.jpg/500px-Handrail_of_stairs_in_a_house_in_Jerusalem.jpg",
+  "og": "https://oya.seadice.win/img/parent-fear-of-falling-after-fall.jpg",
+  "local": true
  }
 }
