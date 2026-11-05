@@ -1471,5 +1471,22 @@
   "og": "https://kosodate.seadice.win/img/daycare-age-0-1-child-development.jpg",
   "local": true,
   "unconverted": true
+ },
+ "new-baby-older-sibling-regression": {
+  "file": "File:Box of crayons IMG 0009.jpg",
+  "src": "/img/new-baby-older-sibling-regression.webp",
+  "src640": "/img/new-baby-older-sibling-regression-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "箱に入ったクレヨン",
+  "artist": "Collin Anderson",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Box_of_crayons_IMG_0009.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Box_of_crayons_IMG_0009.jpg/960px-Box_of_crayons_IMG_0009.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Box_of_crayons_IMG_0009.jpg/500px-Box_of_crayons_IMG_0009.jpg",
+  "og": "https://kosodate.seadice.win/img/new-baby-older-sibling-regression-og.jpg",
+  "local": true
  }
 }
