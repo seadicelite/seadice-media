@@ -2524,5 +2524,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Woman_with_watering_can%2C_Dent_de_Man.jpg/500px-Woman_with_watering_can%2C_Dent_de_Man.jpg",
   "og": "https://umbra.seadice.win/img/relationship-effort-decline-duration-research.jpg",
   "local": true
+ },
+ "love-at-first-sight-research": {
+  "file": "File:Lightning bolt, 74 Sunbury St Geebung IMGP7383.jpg",
+  "src": "/img/love-at-first-sight-research.jpg",
+  "src640": "/img/love-at-first-sight-research-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "夜空に走る一筋の雷",
+  "artist": "John Robert McPherson",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lightning_bolt,_74_Sunbury_St_Geebung_IMGP7383.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Lightning_bolt%2C_74_Sunbury_St_Geebung_IMGP7383.jpg/960px-Lightning_bolt%2C_74_Sunbury_St_Geebung_IMGP7383.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Lightning_bolt%2C_74_Sunbury_St_Geebung_IMGP7383.jpg/500px-Lightning_bolt%2C_74_Sunbury_St_Geebung_IMGP7383.jpg",
+  "og": "https://umbra.seadice.win/img/love-at-first-sight-research.jpg",
+  "local": true
  }
 }
