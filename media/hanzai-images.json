@@ -1306,5 +1306,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Wurzburg_Residence_-_Mirror_Cabinet_-_Flickr_-_Eric_Kilby.jpg/500px-Wurzburg_Residence_-_Mirror_Cabinet_-_Flickr_-_Eric_Kilby.jpg",
   "og": "https://hanzai.seadice.win/img/narcissism-threatened-egotism-aggression.jpg",
   "local": true
+ },
+ "unconscious-transference-eyewitness": {
+  "file": "File:Bharatpur Junction railway station platform at night 03.jpg",
+  "src": "/img/unconscious-transference-eyewitness.jpg",
+  "src640": "/img/unconscious-transference-eyewitness-sm.jpg",
+  "w": 960,
+  "h": 432,
+  "alt": "夜の駅のホームと線路",
+  "artist": "Pinakpani",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bharatpur_Junction_railway_station_platform_at_night_03.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bharatpur_Junction_railway_station_platform_at_night_03.jpg/960px-Bharatpur_Junction_railway_station_platform_at_night_03.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bharatpur_Junction_railway_station_platform_at_night_03.jpg/500px-Bharatpur_Junction_railway_station_platform_at_night_03.jpg",
+  "og": "https://hanzai.seadice.win/img/unconscious-transference-eyewitness.jpg",
+  "local": true
  }
 }
