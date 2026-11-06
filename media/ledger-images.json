@@ -2045,5 +2045,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Empty_bread_shelf_at_supermarket.jpg/500px-Empty_bread_shelf_at_supermarket.jpg",
   "og": "https://ledger.seadice.win/img/shrinkflation-unit-price-shopping-tips.jpg",
   "local": true
+ },
+ "kids-wishlist-wait-checklist": {
+  "file": "File:Computer lab tool kit phase 3 IMG 2136 (1) (26093095008).jpg",
+  "src": "/img/kids-wishlist-wait-checklist.jpg",
+  "src640": "/img/kids-wishlist-wait-checklist-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ノートとペン",
+  "artist": "Bill Abbott",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Computer_lab_tool_kit_phase_3_IMG_2136_(1)_(26093095008).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Computer_lab_tool_kit_phase_3_IMG_2136_%281%29_%2826093095008%29.jpg/960px-Computer_lab_tool_kit_phase_3_IMG_2136_%281%29_%2826093095008%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Computer_lab_tool_kit_phase_3_IMG_2136_%281%29_%2826093095008%29.jpg/500px-Computer_lab_tool_kit_phase_3_IMG_2136_%281%29_%2826093095008%29.jpg",
+  "og": "https://ledger.seadice.win/img/kids-wishlist-wait-checklist.jpg",
+  "local": true
  }
 }
