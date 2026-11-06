@@ -136,6 +136,7 @@
 
 #### 相性の見極め
 
+- [匂いの好みで相性がわかる？ MHC遺伝子と体臭の好みの研究でわかったこと](https://umbra.seadice.win/body-odor-preference-mhc-gene-research/): 匂いの好みと免疫遺伝子MHCの関連は研究間で食い違い、2020年のメタ分析では全体として明確な関連は見つかっていない。
 - [価値観が同じ相手ほどうまくいくのか。類似性と恋愛の相性に関する心理学研究](https://umbra.seadice.win/similarity-attraction-compatibility-research/): 313件のメタ分析やスピードデートの実験から、「気が合う」と感じる正体と、実際の相性との関係を検証した。
 - [笑いのツボが合う相手ほど長続きするのか。ユーモアと相性の心理学研究](https://umbra.seadice.win/humor-style-compatibility-research/): 二人で共有する笑いほど満足度と強く関連する。39本の論文をまとめたメタ分析で、ユーモアと相性の関係を整理
 - [会話のテンポが合う相手ほど相性がいいのか。同期の心理学研究でわかったこと](https://umbra.seadice.win/conversation-synchrony-compatibility-research/): 話すテンポや身体の動きが自然と重なる「同期」の度合いが高いほど、好意や関係の継続率が高い傾向が複数の研究で示されている。
