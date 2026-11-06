@@ -397,7 +397,8 @@
         "ai-use-work-loneliness-distress",
         "retirement-loneliness-recover",
         "workplace-bullying-distress-recover",
-        "divorce-separation-writing-recover"
+        "divorce-separation-writing-recover",
+        "ask-ai-not-people-conversation-value"
       ]
     },
     {
@@ -475,7 +476,8 @@
         "busy-workload-ai-dependence-prevent",
         "ai-dependence-work-engagement-prevent",
         "ai-written-feedback-feels-cold-why",
-        "ai-speaking-practice-language-anxiety"
+        "ai-speaking-practice-language-anxiety",
+        "ai-dependence-exercise-recover"
       ]
     }
   ]
