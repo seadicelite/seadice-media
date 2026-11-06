@@ -1377,5 +1377,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Copped_Hall_garden_summer_house%2C_Epping%2C_Essex%2C_England_11.jpg/500px-Copped_Hall_garden_summer_house%2C_Epping%2C_Essex%2C_England_11.jpg",
   "og": "https://bohan.seadice.win/img/summer-window-unlocked-burglary.jpg",
   "local": true
+ },
+ "sns-hobby-posts-disclosure-risk": {
+  "file": "File:Smartphone Use.jpg",
+  "src": "/img/sns-hobby-posts-disclosure-risk.jpg",
+  "src640": "/img/sns-hobby-posts-disclosure-risk-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "スマートフォンの画面を操作する手",
+  "artist": "Océanos y dados",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Smartphone_Use.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Smartphone_Use.jpg/960px-Smartphone_Use.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Smartphone_Use.jpg/500px-Smartphone_Use.jpg",
+  "og": "https://bohan.seadice.win/img/sns-hobby-posts-disclosure-risk.jpg",
+  "local": true
  }
 }

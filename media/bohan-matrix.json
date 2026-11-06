@@ -352,12 +352,14 @@
      "name-search-personal-info-risk"
     ],
     "why": [
-     "sns-photo-location-home"
+     "sns-photo-location-home",
+     "sns-hobby-posts-disclosure-risk"
     ],
     "prevent": [
      "sns-photo-location-home",
      "ai-chat-input-personal-info",
-     "name-search-personal-info-risk"
+     "name-search-personal-info-risk",
+     "sns-hobby-posts-disclosure-risk"
     ],
     "notice": [],
     "after": [],
