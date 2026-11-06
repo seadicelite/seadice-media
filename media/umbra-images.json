@@ -2578,5 +2578,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Crowd_crossing_the_street%2C_Hungary_2011.jpg/500px-Crowd_crossing_the_street%2C_Hungary_2011.jpg",
   "og": "https://umbra.seadice.win/img/love-at-first-sight-brain-research.jpg",
   "local": true
+ },
+ "line-fight-repair-voice-research": {
+  "file": "File:Smartphone with case cover on table.jpg",
+  "src": "/img/line-fight-repair-voice-research.jpg",
+  "src640": "/img/line-fight-repair-voice-research-sm.jpg",
+  "w": 960,
+  "h": 721,
+  "alt": "テーブルに置かれたスマートフォン",
+  "artist": "Santeri Viinamäki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Smartphone_with_case_cover_on_table.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Smartphone_with_case_cover_on_table.jpg/960px-Smartphone_with_case_cover_on_table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Smartphone_with_case_cover_on_table.jpg/500px-Smartphone_with_case_cover_on_table.jpg",
+  "og": "https://umbra.seadice.win/img/line-fight-repair-voice-research.jpg",
+  "unconverted": true,
+  "local": true
  }
 }
