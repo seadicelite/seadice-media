@@ -2578,5 +2578,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Crowd_crossing_the_street%2C_Hungary_2011.jpg/500px-Crowd_crossing_the_street%2C_Hungary_2011.jpg",
   "og": "https://umbra.seadice.win/img/love-at-first-sight-brain-research.jpg",
   "local": true
+ },
+ "chin-resting-hand-boredom-thinking-signal-research": {
+  "file": "File:Graz University-Library reading-room.jpg",
+  "src": "/img/chin-resting-hand-boredom-thinking-signal-research.jpg",
+  "src640": "/img/chin-resting-hand-boredom-thinking-signal-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "誰もいない図書館の閲覧室",
+  "artist": "Dr. Marcus Gossler",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Graz_University-Library_reading-room.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Graz_University-Library_reading-room.jpg/960px-Graz_University-Library_reading-room.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Graz_University-Library_reading-room.jpg/500px-Graz_University-Library_reading-room.jpg",
+  "og": "https://umbra.seadice.win/img/chin-resting-hand-boredom-thinking-signal-research.jpg",
+  "local": true
  }
 }
