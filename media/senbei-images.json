@@ -791,5 +791,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tsukemono.jpg/500px-Tsukemono.jpg",
   "og": "https://senbei.seadice.win/img/regional-salt-taste-birthplace.jpg",
   "local": true
+ },
+ "senbei-ingredients-japanese-avoid": {
+  "file": "File:大豆の天日干し.jpg",
+  "src": "/img/senbei-ingredients-japanese-avoid.jpg",
+  "src640": "/img/senbei-ingredients-japanese-avoid-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "畑で天日干しにしている大豆の株",
+  "artist": "Asset utilitist",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E8%B1%86%E3%81%AE%E5%A4%A9%E6%97%A5%E5%B9%B2%E3%81%97.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/%E5%A4%A7%E8%B1%86%E3%81%AE%E5%A4%A9%E6%97%A5%E5%B9%B2%E3%81%97.jpg/960px-%E5%A4%A7%E8%B1%86%E3%81%AE%E5%A4%A9%E6%97%A5%E5%B9%B2%E3%81%97.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/%E5%A4%A7%E8%B1%86%E3%81%AE%E5%A4%A9%E6%97%A5%E5%B9%B2%E3%81%97.jpg/500px-%E5%A4%A7%E8%B1%86%E3%81%AE%E5%A4%A9%E6%97%A5%E5%B9%B2%E3%81%97.jpg",
+  "og": "https://senbei.seadice.win/img/senbei-ingredients-japanese-avoid.jpg",
+  "local": true
  }
 }

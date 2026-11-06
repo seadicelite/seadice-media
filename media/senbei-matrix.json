@@ -214,7 +214,9 @@
         "myth": [
           "japanese-taste-sensitivity-myth"
         ],
-        "make": [],
+        "make": [
+          "senbei-ingredients-japanese-avoid"
+        ],
         "data": [
           "senbei-popular-flavor-ranking"
         ],
