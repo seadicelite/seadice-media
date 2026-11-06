@@ -47,6 +47,7 @@
 
 - [絵文字やスタンプが多いのは好意のサインか。絵文字と好印象の研究](https://umbra.seadice.win/emoji-sticker-liking-signal-research/): 絵文字つきのメッセージは「わかってくれている」と感じやすくなる。ただしネガティブな絵文字では、送り手と受け手で感じ方が26%ずれることがあるとの報告もある。
 - [連絡頻度が減るのは冷めたサインか。データと心理学研究で読み解く](https://umbra.seadice.win/contact-frequency-decline-cooling-signal-research/): 通話記録の研究では、間隔が空いた相手ほど次の通話が長くなる傾向が見られた。Twitterの研究では、破局前に相手への投稿の割合が下がっていた。
+- [長い返信は好きの大きさか。メッセージの長さと好意を研究で確かめる](https://umbra.seadice.win/message-length-liking-signal-research/): 好意が強い相手には長いメッセージを書く傾向はあるが、長さが返信率を上げたのは4都市のうち1都市だけだった。
 
 #### 人を好きになる仕組み
 

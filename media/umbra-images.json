@@ -2596,5 +2596,23 @@
   "og": "https://umbra.seadice.win/img/line-fight-repair-voice-research.jpg",
   "unconverted": true,
   "local": true
+ },
+ "message-length-liking-signal-research": {
+  "file": "File:LG V10.jpg",
+  "src": "/img/message-length-liking-signal-research.jpg",
+  "src640": "/img/message-length-liking-signal-research-sm.jpg",
+  "w": 960,
+  "h": 514,
+  "alt": "スマートフォンの画面",
+  "artist": "LG Electronics",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:LG_V10.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/LG_V10.jpg/960px-LG_V10.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/LG_V10.jpg/500px-LG_V10.jpg",
+  "og": "https://umbra.seadice.win/img/message-length-liking-signal-research.jpg",
+  "local": true
  }
 }
