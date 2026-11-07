@@ -42,7 +42,9 @@
      "generative-ai-family-involvement",
      "parent-ai-monitoring-how-much"
     ],
-    "trouble": [],
+    "trouble": [
+     "ai-overreliance-child-stop-thinking"
+    ],
     "use": [
      "https://kosodate.seadice.win/rules/",
      "https://kosodate.seadice.win/check/"
@@ -213,7 +215,9 @@
    "id": "study",
    "label": "集中・読書・学び方",
    "cells": {
-    "data": [],
+    "data": [
+     "child-stopped-reading-books-school-level"
+    ],
     "effect": [
      "homework-media-multitasking",
      "children-not-reading-books-vocabulary",
@@ -225,7 +229,9 @@
      "smartphone-on-desk-homework-focus",
      "study-music-lyrics-concentration"
     ],
-    "trouble": [],
+    "trouble": [
+     "homework-procrastination-elementary"
+    ],
     "use": [
      "https://kosodate.seadice.win/shukudai-check/"
     ]
@@ -281,11 +287,13 @@
     ],
     "effect": [],
     "how": [
-     "school-refusal-first-signs-parents"
+     "school-refusal-first-signs-parents",
+     "child-friend-trouble-parent-intervene"
     ],
     "trouble": [
      "nursery-separation-anxiety-how-long",
-     "school-refusal-first-signs-parents"
+     "school-refusal-first-signs-parents",
+     "school-refusal-games-smartphone-taking-away"
     ],
     "use": [
      "https://kosodate.seadice.win/asa-kiroku/"

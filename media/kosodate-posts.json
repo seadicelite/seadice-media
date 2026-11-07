@@ -1,5 +1,45 @@
 [
   {
+    "slug": "ai-overreliance-child-stop-thinking",
+    "category": "AIの使わせ方",
+    "type": "guide",
+    "date": "2026-11-07",
+    "title": "子どもがAIに頼りすぎて、自分で考えなくなった？取り上げる前に「答えをもらう使い方」をヒント型に変える",
+    "summary": "答えをもらえるAIで練習した高校生は、外すと成績が17%低下。ヒント型ではほぼ下がらず。取り上げる前に使い方を変えるのが先。"
+  },
+  {
+    "slug": "child-stopped-reading-books-school-level",
+    "category": "考える力・学び",
+    "type": "guide",
+    "date": "2026-11-07",
+    "title": "子どもが本を読まなくなった。1か月に0冊の子は高校生で約半数、学校段階が上がるほど増える",
+    "summary": "1か月に1冊も読まない子は小学生13.4%、中学生24.0%、高校生49.7%（2026年）。興味を引く工夫が読む気持ちを高めていた。"
+  },
+  {
+    "slug": "school-refusal-games-smartphone-taking-away",
+    "category": "スマホ・スクリーンタイム",
+    "type": "guide",
+    "date": "2026-11-07",
+    "title": "不登校の子のスマホ・ゲームは取り上げるべき？ゲームがきっかけの子は2割弱。決めるなら子どもと一緒に",
+    "summary": "休んでいる間にゲームや動画をする子は8割以上、きっかけに挙げた子は2割弱。押しつけるルールより一緒に決める方が望ましい傾向。"
+  },
+  {
+    "slug": "homework-procrastination-elementary",
+    "category": "考える力・学び",
+    "type": "guide",
+    "date": "2026-11-07",
+    "title": "小学生が宿題を後回しにする。先延ばしは性格だけで決まらない。見張るより「いつ・どこで」を一緒に決める",
+    "summary": "先延ばしは課題の嫌さや自信と強く関連。親の手伝いは回数より質で、押しつけは逆効果の傾向。「いつ・どこで」の計画が助けに。"
+  },
+  {
+    "slug": "child-friend-trouble-parent-intervene",
+    "category": "心と親子関係",
+    "type": "guide",
+    "date": "2026-11-07",
+    "title": "子どもが友だちとうまくいかない。親はどこまで口を出す？相手を悪く言うより、話を聞いて一緒に考える",
+    "summary": "友だち同士のけんかは仲直りしやすく、親の助言や遊ぶ機会は1年後の友だち関係と関連。友だちを否定すると友情が終わりやすい傾向。"
+  },
+  {
     "slug": "yelled-at-child-apology-repair",
     "category": "心と親子関係",
     "type": "guide",

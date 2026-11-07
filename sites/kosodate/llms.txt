@@ -32,6 +32,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [高校生の受験勉強、AIをどこまで使っていい？答えを聞くかヒントにするかの差](https://kosodate.seadice.win/ai-exam-prep-high-school/): 約1,000人の高校生実験で、AIの使い方次第で学力への影響が真逆になることがわかりました。
 - [小学生がAIで宿題の答えを写していた。気づいたとき、叱る前にする声かけと次のルール](https://kosodate.seadice.win/ai-homework-copying-what-to-say/): 写しの主な理由は時間に追われること。写すほど試験の成績が下がる関連も。責めずに理由を聞き、1問を一緒に解き直してから、AIに聞いてよいことを決め直す。
 - [AIを使える子と使えない子で、学力の差は広がる？分かれ目は「使い方」と周りの関わり](https://kosodate.seadice.win/ai-literacy-gap-academic-achievement/): 差を分けたのはAIを使えるかより使い方。答えを聞くだけではAIなしの成績が下がり、AIを使う力は親や学校の関わりと関連していた。
+- [子どもがAIに頼りすぎて、自分で考えなくなった？取り上げる前に「答えをもらう使い方」をヒント型に変える](https://kosodate.seadice.win/ai-overreliance-child-stop-thinking/): 答えをもらえるAIで練習した高校生は、外すと成績が17%低下。ヒント型ではほぼ下がらず。取り上げる前に使い方を変えるのが先。
 - [AI時代に学校の授業はどう変わる？各国の動きと、教室でAIを使った研究からわかること](https://kosodate.seadice.win/ai-school-classroom-change/): 中国は2025年から授業にAIを導入。答えを出すAIは自力のテストの点を下げ、ヒント型なら低下はほぼなし。分かれ目は使い方。
 - [AIの個別学習・AIチューターで本当に成績は上がる？](https://kosodate.seadice.win/ai-tutor-adaptive-learning-effect/): K-12の28研究のメタ分析では効果はおおむね前向きでしたが、AIの種類によって効果の大きさは異なっていました。
 - [幼い子がAIスピーカーに話しかけている。子どもはAIをどう理解している？](https://kosodate.seadice.win/ai-voice-assistant-child-trust/): 子どもはAIが生きていないと理解する一方、先生や友達よりAIを信じやすい傾向もあると研究でわかりました。
@@ -44,6 +45,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [AI翻訳があれば英語学習はもう不要？](https://kosodate.seadice.win/ai-translation-english-learning/): AI翻訳と語学学習の関係はまだ研究が少なく、バイリンガルの思考力への効果も意見が分かれています。
 - [絵本の読み聞かせ、AIの声でも人と同じ効果がある？](https://kosodate.seadice.win/ai-voice-reading-vs-human/): 問いかけ機能のあるAI・電子絵本の読み聞かせは、理解や言葉の学びで人の読み聞かせに近い効果を示す研究があります。
 - [子どもがAIの答えを鵜呑みにしないか心配。疑う力は育てられる？授業研究と「間違い探し」の根拠](https://kosodate.seadice.win/child-ai-critical-thinking-fact-check/): 確かめ方を1時間×6回教えた高校の授業で判断力が伸びた。一方、AIにわざと間違えさせる遊びを直接試した研究はまだない。研究8本で整理。
+- [子どもが本を読まなくなった。1か月に0冊の子は高校生で約半数、学校段階が上がるほど増える](https://kosodate.seadice.win/child-stopped-reading-books-school-level/): 1か月に1冊も読まない子は小学生13.4%、中学生24.0%、高校生49.7%（2026年）。興味を引く工夫が読む気持ちを高めていた。
 - [子どもが本を読まない。読書量と読解力は「お互いに伸ばし合う」関係だった](https://kosodate.seadice.win/children-not-reading-books-vocabulary/): 読書量と読解力・言葉の力には中〜強い関連。ただ低学年では読む力の弱さが読書離れの入り口に。研究5本から、無理に読ませる前に家庭でできることを整理。
 - [プログラミング教育は将来の役に立つ？](https://kosodate.seadice.win/coding-education-future-benefit/): プログラミング自体の力や一部の思考力は伸びますが、学校の成績や将来役立つかの直接的な証拠はまだ限られています。
 - [小学生の宿題は1日何分が目安？「長くやるほど伸びる」とは限らない理由](https://kosodate.seadice.win/elementary-homework-time-how-long/): 宿題をする子は成績が高めでも、最適な時間は未確定。長すぎる宿題と成績・心の不調の関連、親の支え方を論文4本で整理。
@@ -51,6 +53,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [子どもの字が汚い。タブレットで書く練習でも大丈夫？文字を覚える時期は紙と鉛筆に分があった](https://kosodate.seadice.win/handwriting-messy-tablet-vs-pencil/): 年長児の実験では、紙と鉛筆で練習した子の方が画面のキーボードより文字を見分ける力が伸びた。字の読みやすさや速さも練習で伸ばせる。
 - [宿題にAIを使わせると考える力は落ちる？研究でわかった使い方の分かれ道](https://kosodate.seadice.win/homework-ai-thinking-skills/): 答えを写す使い方は成績が下がり、ヒントとして使うと下がりにくい。分かれ道は使い方です。
 - [宿題中に動画やスマホを見る「ながら勉強」、学力への影響は？研究で確認](https://kosodate.seadice.win/homework-media-multitasking/): 宿題をしながら動画やスマホを見る「ながら勉強」。学力への影響を研究データから確認し、家庭でできる工夫を紹介します。
+- [小学生が宿題を後回しにする。先延ばしは性格だけで決まらない。見張るより「いつ・どこで」を一緒に決める](https://kosodate.seadice.win/homework-procrastination-elementary/): 先延ばしは課題の嫌さや自信と強く関連。親の手伝いは回数より質で、押しつけは逆効果の傾向。「いつ・どこで」の計画が助けに。
 - [小学生が漢字や言葉を覚えられない。見ながら写すより「隠して思い出す」が残りやすい？](https://kosodate.seadice.win/kanji-memorize-retrieval-practice/): 小学生の実験では、見直すより見本を隠して思い出す練習の方が1週間後も多く覚えていた。漢字での比較は少なく、ヒントと答え合わせが鍵。
 - [SNSの時間が増えると、読み書きや記憶力はどう変わる？数年間追跡した調査でわかったこと](https://kosodate.seadice.win/social-media-cognitive-performance-decline/): 9〜10歳の子を2年間追跡した調査で、SNSを使う時間が増えた子ほどテストの点数が低い関連がありました。
 - [中学生が勉強中に音楽を聴いている。歌詞のある曲ほど読む勉強のじゃまになりやすい](https://kosodate.seadice.win/study-music-lyrics-concentration/): 65本の研究をまとめた分析では、音楽は読解をわずかに下げ、歌詞のある曲ほど影響が大きめ。子どもと大人で差はなかった。
@@ -69,6 +72,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [子どものゲームがやめられない。「ゲーム障害」とはどんな状態？](https://kosodate.seadice.win/gaming-disorder-children-research/): 障害と呼べるのはごく一部で、プレイ時間の長さではなく生活への支障が12か月続くかが目安です。
 - [中学生の反抗期、スマホ制限にどう向き合う？一方的なルールが逆効果になりやすい理由](https://kosodate.seadice.win/junior-high-smartphone-rules-rebellion/): 年齢が上がるほど一方的な制限が逆効果になりやすいと、複数の研究でわかってきました。
 - [子どものスマホ・動画は何時間まで？年齢別の目安をWHOと研究で整理](https://kosodate.seadice.win/kids-screen-time-hours/): 2〜4歳は1日1時間まで、1歳以下はなし（WHO）。小学生以上は寝る前に使わないことが大切です。
+- [不登校の子のスマホ・ゲームは取り上げるべき？ゲームがきっかけの子は2割弱。決めるなら子どもと一緒に](https://kosodate.seadice.win/school-refusal-games-smartphone-taking-away/): 休んでいる間にゲームや動画をする子は8割以上、きっかけに挙げた子は2割弱。押しつけるルールより一緒に決める方が望ましい傾向。
 - [長時間のスクリーンタイムはADHD症状と関係ある？](https://kosodate.seadice.win/screen-time-adhd-symptoms-risk/): 台湾24,200組・中国41,494人の大規模調査で関連がみられ、原因と結果の向きはまだわかっていません。
 - [乳幼児のスマホ・動画の時間、言葉の発達に影響する？](https://kosodate.seadice.win/screen-time-language-development-toddler/): スクリーン時間全体は言語スキルの低さと関連していましたが、教育的な内容や親子で一緒に見ることは逆の関連を示しました。
 - [子どものスマホ・動画の時間と近視の関係。目を守るためにできること](https://kosodate.seadice.win/screen-time-myopia-eyesight/): 近くで見る時間が長い子は近視のオッズが高く、1日1〜2時間以上の屋外活動が近視を防ぐ方向に働くと研究でわかっています。
@@ -84,6 +88,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [子どもがAIを友達みたいに話し相手にしている。依存や孤独は心配ない？](https://kosodate.seadice.win/ai-companion-loneliness/): 子ども対象の研究はまだ少なく、孤独が和らぐ報告も深まる懸念も両方あるのが実情です。
 - [いじめられた経験は大人になっても影響する？長く追った研究と、親が家でできる支え](https://kosodate.seadice.win/bullying-long-term-effects-parent-support/): 子どものころのいじめは18歳や20代の不安・うつと関連。一方で薄れる影響もある。話せる家にするための関わり方を研究で整理
 - [子どもに友だちが少ない。ひとりでいるのが好きな子は心配？数より「親しい関係」を見る理由](https://kosodate.seadice.win/child-few-friends-alone/): 233研究のメタ分析では友だちの数と気分の関連は小さめ。10年追った研究では人気より親しい友だちとの関係の深さが大人の心の健康と関連。
+- [子どもが友だちとうまくいかない。親はどこまで口を出す？相手を悪く言うより、話を聞いて一緒に考える](https://kosodate.seadice.win/child-friend-trouble-parent-intervene/): 友だち同士のけんかは仲直りしやすく、親の助言や遊ぶ機会は1年後の友だち関係と関連。友だちを否定すると友情が終わりやすい傾向。
 - [子どもが学校のことを話さない。聞き方と、話した後の親の反応を研究で見る](https://kosodate.seadice.win/child-not-talking-about-school/): 親が知る子どもの様子の多くは、子どもが自分から話した内容。話した後に責めると隠しごとが増える関連も。小学生は責めずに聞くのが鍵。
 - [子どもが嘘をつくようになった。何歳からどんな嘘をつく？](https://kosodate.seadice.win/children-lying-development-age/): 子どもが嘘をつき始めると、発達に問題があるのではと心配になる親もいます。研究データで紹介します。
 - [0歳・1歳から保育園はかわいそう？約4万人の日本の追跡では、3歳時点の発達に遅れは見られなかった](https://kosodate.seadice.win/daycare-age-0-1-child-development/): 1歳までに通い始めた子は3歳で言葉などのめやすを下回る割合が低めでした。長時間保育の影響は小さく、行動の小さな差も。保育の質と家での関わりを整理。
