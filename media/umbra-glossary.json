@@ -393,5 +393,14 @@
   "slugs": [
    "cold-reaction-felt-rejected-recovery-research"
   ]
+ },
+ {
+  "id": "commensality",
+  "term": "共食（コメンサリティ）",
+  "en": "Commensality",
+  "def": "誰かと一緒に食事をすること。一緒に食べる行為そのものを、人は親密さのサインとして感じ取りやすいと報告する研究がある。",
+  "slugs": [
+   "ex-partner-meal-jealousy-research"
+  ]
  }
 ]
