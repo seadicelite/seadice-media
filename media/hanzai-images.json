@@ -1324,5 +1324,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bharatpur_Junction_railway_station_platform_at_night_03.jpg/500px-Bharatpur_Junction_railway_station_platform_at_night_03.jpg",
   "og": "https://hanzai.seadice.win/img/unconscious-transference-eyewitness.jpg",
   "local": true
+ },
+ "punishment-just-deserts-vs-deterrence": {
+  "file": "File:Interior view of the court room at the Old Courthouse.jpg",
+  "src": "/img/punishment-just-deserts-vs-deterrence.jpg",
+  "src640": "/img/punishment-just-deserts-vs-deterrence-sm.jpg",
+  "w": 960,
+  "h": 769,
+  "alt": "誰もいない古い法廷",
+  "artist": "Unknown author",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Interior_view_of_the_court_room_at_the_Old_Courthouse.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Interior_view_of_the_court_room_at_the_Old_Courthouse.jpg/960px-Interior_view_of_the_court_room_at_the_Old_Courthouse.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Interior_view_of_the_court_room_at_the_Old_Courthouse.jpg/500px-Interior_view_of_the_court_room_at_the_Old_Courthouse.jpg",
+  "og": "https://hanzai.seadice.win/img/punishment-just-deserts-vs-deterrence.jpg",
+  "local": true
  }
 }
