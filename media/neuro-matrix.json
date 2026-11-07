@@ -1,0 +1,88 @@
+{
+ "note": "脳科学マーケティングの研究のマス（作るもの×問い）。いちばん薄いマスから書く。同じ問いの記事は増やさない。",
+ "cols": [
+  {
+   "id": "use",
+   "label": "使える原則",
+   "q": "作るときに使える、確かめられた原則は？"
+  },
+  {
+   "id": "how",
+   "label": "どう当てる",
+   "q": "画面・文・値段のどこに、どう当てるか"
+  },
+  {
+   "id": "myth",
+   "label": "本当？",
+   "q": "よく聞く説は本当か（研究で答え合わせ）"
+  },
+  {
+   "id": "num",
+   "label": "数字",
+   "q": "効果の大きさ・人数・日数を出典つきで"
+  },
+  {
+   "id": "dark",
+   "label": "操る仕掛けとの境目",
+   "q": "効いても使わない仕掛けと、その理由"
+  },
+  {
+   "id": "unknown",
+   "label": "まだわからない",
+   "q": "研究で割れている・確かめられていないこと"
+  },
+  {
+   "id": "case",
+   "label": "実例",
+   "q": "SEADICEで試したこと・やめたこと"
+  }
+ ],
+ "rows": [
+  {
+   "id": "app",
+   "label": "アプリ",
+   "cells": {
+    "use": [
+     "neuro-marketing-app"
+    ]
+   }
+  },
+  {
+   "id": "web",
+   "label": "ウェブサイト",
+   "cells": {
+    "use": [
+     "neuro-marketing-web"
+    ]
+   }
+  },
+  {
+   "id": "article",
+   "label": "記事",
+   "cells": {
+    "use": [
+     "neuro-marketing-article"
+    ]
+   }
+  },
+  {
+   "id": "price",
+   "label": "値段と課金",
+   "cells": {}
+  },
+  {
+   "id": "habit",
+   "label": "続ける",
+   "cells": {}
+  },
+  {
+   "id": "myth",
+   "label": "よく聞く説",
+   "cells": {
+    "myth": [
+     "neuro-marketing-myths"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,471 @@
+# 脳科学マーケティングの研究 全記事本文
+
+> アプリ・ウェブサイト・記事に使える脳科学マーケティングを、論文まで確かめて確かさA・Bつきで。集中は8秒・21日・右脳左脳などよく聞く説の答え合わせも。出典つき・広告なし。
+
+出典: https://neuro.seadice.win/ (SEADICE運営)。引用の際は各記事のURLを示してください。
+
+---
+
+# アプリ開発に使える脳科学マーケティング13の原則 — 確かさつき・使わない説も
+
+URL: https://neuro.seadice.win/neuro-marketing-app/
+カテゴリ: アプリ
+公開日: 2026-11-07
+
+アプリで使える脳科学マーケティングの多くは、脳の画像研究ではなく、認知心理学と行動経済学です。迷わせない・続けてもらう・納得して払ってもらう、の3つに効く研究を、論文まで確かめて13個に絞りました。
+
+## 3行でわかる
+
+- 最初の画面は選択肢を少なく、押す所を大きく。初期設定は使う人に得な方に
+
+- 続けてもらうには「いつ・どこで使うか」を決めてもらい、思い出す練習と間隔を空けた復習を入れる
+
+- 習慣になるまでは中央値66日。課金の案内は価値を感じた後に1回だけ
+
+確かさ: A 確か＝メタ分析・大規模な再現・長く再現されてきた法則があり、効果があること自体が確か／B 条件しだい＝場面で結果が変わる・争いがある（基準）。
+
+## 01 使える原則アプリ作りに使える原則は？
+
+メタ分析で確かなもの（A）は、ボタンの大きさ・初期設定・実行意図・思い出す練習の4つ。ほかは条件しだい（B）。
+
+原則わかっていること確かさ最初の画面の選択肢は少なく一度に頭に置けるのは4つ前後。並べる数が増えるほど、選ぶ時間は長くなるB 条件しだい選択肢が多すぎると決めにくい平均すると効果はほぼゼロ。違いがわかりにくい・決め方がないときに強く出るB 条件しだい押す所は大きく近く大きく、指から近いボタンほど速く正確に押せるA 確か初期設定はそのまま選ばれる初期設定は選ぶ結果を大きく動かす。ただし場面でばらつきが大きいA 確か「いつ・どこで」を決める「朝ごはんの後に開く」のように決めると、実行が増えるA 確か思い出す練習と間隔読み返すより思い出すほうが、詰めるより間隔を空けるほうが残るA 確かゴールが近いと頑張れる進み具合が見え、ゴールが近づくほど続けやすいB 条件しだい最初から少し進んでいる最初からいくつか埋まったスタンプカードのほうが、最後まで達成されやすかったB 条件しだい区切りの日に始めやすい週の初め・月の初め・誕生日のあとは、新しいことを始めやすいB 条件しだい習慣になるには時間がかかる習慣になるまでの中央値は66日。人や行動で18〜254日と大きく違うB 条件しだいごほうびで釣りすぎない条件つきのごほうびは、自分からやる気を下げることがあるB 条件しだい終わりの印象が残る体験は、いちばん強い所と終わりで思い出されやすいB 条件しだい通知は見なくても集中を切る通知が来ただけで、見なくても作業のミスが増えたB 条件しだい
+
+## 02 どうやってわかったのか確かと言える根拠は？
+
+たくさんの実験をまとめて効果の大きさを出す「メタ分析」で、くり返し確かめられている。
+
+A 確かJachimowicz ほか（2019、Behavioural Public Policy）[4]
+58件の研究をまとめると、初期設定は選ぶ結果をはっきり動かした。ただし研究ごとのばらつきが大きい。
+どうやって: 臓器提供・年金・環境などの初期設定の研究を集め、効果の大きさを平均した。
+
+A 確かGollwitzer & Sheeran（2006、Advances in Experimental Social Psychology）[5]
+「いつ・どこで・何をする」と決めた人は、目標だけ決めた人より実行が多かった。効果は中くらいから大きい。
+どうやって: 約8,000人を含む94件の実験をまとめた。
+
+B 条件しだいLally ほか（2010、European Journal of Social Psychology）[12]
+習慣の強さが頭打ちの95%に届くまでの中央値は66日。人によって18〜254日だった。
+どうやって: 96人に12週間、新しい行動を毎日記録してもらい、82人を分析した。人数が少なく、日数は記録から伸ばした推定。
+
+B 条件しだいStothart ほか（2015、J. Experimental Psychology: Human Perception and Performance）[18]
+通知の音や振動が来ただけで、見なくても注意の課題のミスが増えた。
+どうやって: 課題中に、本人に知らせずスマホに通知を送った。
+
+## 03 作るときの当て方アプリのどこに当てればいい？
+
+起動直後・続けてもらう所・課金の案内の3か所。焦らせる・失う怖さで縛る仕掛けは使わない。
+
+1. 最初の画面の入口は1つ: 並べる選択肢は3〜5まで。説明の画面を先に並べず、起動して1回使えば価値がわかる形にする。
+
+2. 初期設定は使う人に得な方に: 通知は少なめ、データは端末内。オンにしたい機能は、本人に選んでもらう。
+
+3. 「いつ・どこで使うか」を1つ選んでもらう: 通知はその時刻に1日1回まで。区切りの日（月曜・月初）に始める案内も効く。
+
+4. 進み具合を見せ、途切れても責めない: 連続記録が切れて失うものを作らない。2か月くらいかかる前提で、最初の数週間を支える。
+
+5. 学ぶアプリは思い出すクイズと間隔: 日を空けた復習にする。1回の終わりは、できたことを1行で返して気持ちよく終える。
+
+6. 課金の案内は価値を感じた後に1回だけ: 何が増えるか・いつでもやめられるかを値段の横に書く。おとりのプラン・偽の割引・カウントダウンは使わない。
+
+## 04 使わない説よく聞くけれど使わないのは？
+
+根拠が見つからない説と、効いても使う人をだます仕掛けは使わない。
+
+よく聞く説判定研究では21日で習慣になる根拠なし研究では中央値66日、人によって18〜254日おとりの中間プランで高い方を選ばせる言い過ぎ効く場面が限られ、再現しにくい。効いても操る仕掛けなので使わない
+よく聞く説（集中は8秒・自我消耗・色で○%など）の答え合わせは、よく聞く説10個の答え合わせにまとめた。
+
+## 05 まだわかっていないことまだわからないのは？
+
+アプリそのもので確かめた研究は少ない。多くは実験室や買い物の場面の研究。
+
+- 無料から有料に移るときの心理「無料」には特別な引きがある（Shampanier ほか 2007）が、無料で使った後に有料へ移る場面を確かめた研究は少ない。
+
+- スマホアプリでの効果の大きさ実験室の結果が、毎日少しずつ使うアプリで同じ大きさで出るかは、わかっていない。
+
+## 06 よくある質問
+
+Q. 脳科学マーケティングはアプリ開発に使えますか？
+A. 使えます。ただし中身の多くは脳の画像研究でなく、認知心理学と行動経済学です。選択肢を減らす・ボタンを大きくする・いつ使うかを決めてもらう・間隔を空けて思い出させる、などは研究の積み重ねがあります。
+
+Q. アプリの習慣化には何日かかりますか？
+A. 毎日の行動が自動になるまでの中央値は66日で、人によって18〜254日と大きく違います（Lally ほか 2010）。「21日」を支える研究は見つかりません。
+
+Q. 連続記録（ストリーク）は使うべきですか？
+A. 進み具合を見せることは続ける助けになります（Kivetz ほか 2006）。ただ、途切れたときに失う怖さで縛ると、自分から使う気持ちを下げるおそれがあります。途切れても責めずに戻れる形がおすすめです。
+
+## 出典
+
+- Cowan, N. (2001). The magical number 4 in short-term memory. Behavioral and Brain Sciences, 24(1), 87–114. doi:10.1017/S0140525X01003922
+
+- Hick, W. E. (1952). On the rate of gain of information. Quarterly Journal of Experimental Psychology, 4(1), 11–26. doi:10.1080/17470215208416600
+
+- Scheibehenne, B., Greifeneder, R., & Todd, P. M. (2010). Can there ever be too many options? A meta-analytic review of choice overload. Journal of Consumer Research, 37(3), 409–425. doi:10.1086/651235
+
+- Jachimowicz, J. M., Duncan, S., Weber, E. U., & Johnson, E. J. (2019). When and why defaults influence decisions: A meta-analysis of default effects. Behavioural Public Policy, 3(2), 159–186. doi:10.1017/bpp.2018.43
+
+- Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69–119. doi:10.1016/S0065-2601(06)38002-1
+
+- Adesope, O. O., Trevisan, D. A., & Sundararajan, N. (2017). Rethinking the use of tests: A meta-analysis of practice testing. Review of Educational Research, 87(3), 659–701. doi:10.3102/0034654316689306
+
+- Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. Psychological Bulletin, 132(3), 354–380. doi:10.1037/0033-2909.132.3.354
+
+- Kivetz, R., Urminsky, O., & Zheng, Y. (2006). The goal-gradient hypothesis resurrected. Journal of Marketing Research, 43(1), 39–58. doi:10.1509/jmkr.43.1.39
+
+- Nunes, J. C., & Drèze, X. (2006). The endowed progress effect: How artificial advancement increases effort. Journal of Consumer Research, 32(4), 504–512. doi:10.1086/500480
+
+- Dai, H., Milkman, K. L., & Riis, J. (2014). The fresh start effect: Temporal landmarks motivate aspirational behavior. Management Science, 60(10), 2563–2582. doi:10.1287/mnsc.2014.1901
+
+- Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. Psychological Bulletin, 125(6), 627–668. doi:10.1037/0033-2909.125.6.627
+
+- Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009. doi:10.1002/ejsp.674
+
+- Alaybek, B., Dalal, R. S., Fyffe, S., et al. (2022). All's well that ends (and peaks) well? A meta-analysis of the peak-end rule and duration neglect. Organizational Behavior and Human Decision Processes, 170, 104149. doi:10.1016/j.obhdp.2022.104149（2024年に訂正あり）
+
+- Chernev, A., Böckenholt, U., & Goodman, J. (2015). Choice overload: A conceptual review and meta-analysis. Journal of Consumer Psychology, 25(2), 333–358. doi:10.1016/j.jcps.2014.08.002
+
+- Fitts, P. M. (1954). The information capacity of the human motor system in controlling the amplitude of movement. Journal of Experimental Psychology, 47(6), 381–391. doi:10.1037/h0055392
+
+- Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A. (1993). When more pain is preferred to less: Adding a better end. Psychological Science, 4(6), 401–405. doi:10.1111/j.1467-9280.1993.tb00589.x
+
+- Shampanier, K., Mazar, N., & Ariely, D. (2007). Zero as a special price: The true value of free products. Marketing Science, 26(6), 742–757. doi:10.1287/mksc.1060.0254
+
+- Stothart, C., Mitchum, A., & Yehnert, C. (2015). The attentional cost of receiving a cell phone notification. Journal of Experimental Psychology: Human Perception and Performance, 41(4), 893–897. doi:10.1037/xhp0000100
+
+- Hagger, M. S., Chatzisarantis, N. L. D., et al. (2016). A multilab preregistered replication of the ego-depletion effect. Perspectives on Psychological Science, 11(4), 546–573. doi:10.1177/1745691616652873
+
+- Frederick, S., Lee, L., & Baskin, E. (2014). The limits of attraction. Journal of Marketing Research, 51(4), 487–507. doi:10.1509/jmr.12.0061
+
+---
+
+# 記事に使える脳科学マーケティング9の原則 — 飾りの画像は逆効果
+
+URL: https://neuro.seadice.win/neuro-marketing-article/
+カテゴリ: 記事
+公開日: 2026-11-07
+
+中身と関係のない飾りの画像や小話は、読んだ人の理解を下げる。これは学習の場面の実験をまとめたメタ分析の結論です。わかる・覚えている・信じられる・動ける、の4つに効く研究を、論文まで確かめて9個に絞りました。
+
+## 3行でわかる
+
+- 結論を先に、要点は3〜5個まで。図は中身を説明するものだけ
+
+- 数字の幅として不確かさを書いても、信頼はほとんど下がらない
+
+- 最後はクイズで思い出させ、次の一歩を「いつ・どこで・何を」で書く
+
+確かさ: A 確か＝メタ分析・大規模な再現・長く再現されてきた法則があり、効果があること自体が確か／B 条件しだい＝場面で結果が変わる・争いがある（基準）。
+
+## 01 使える原則記事に使える原則は？
+
+確かなもの（A）は、飾りを入れない・図と文の対応を示す・思い出させる・実行意図の4つと、画面では浅く読みやすいこと。
+
+原則わかっていること確かさ言葉と図をいっしょに言葉だけより、言葉と図をいっしょに見せるほうが理解と記憶が上がるB 条件しだい飾りは逆効果面白いが中身と関係のない絵や話は、学びを下げるA 確か図と文の対応を示す見出し・色・矢印で「文のここが図のここ」と示すと、理解が上がるA 確か一度に置く要点は少なく一度に頭に置けるのは4つ前後B 条件しだい画面では紙より浅く読みやすい説明文は、紙より画面で読んだほうが理解が低かった。時間に追われると差が広がったA 確か読みやすさは信頼になる読みやすい文は、好まれ、正しいと感じられやすいB 条件しだいわからないと書いても信頼は下がりにくい数字に幅（不確かさ）を添えても、信頼はほとんど下がらなかった。言葉で「かもしれない」と書くと小さく下がったB 条件しだい思い出させる読み返すより、クイズなどで思い出すほうが記憶に残るA 確か最後は「いつ・どこで・何を」行動を「いつ・どこで・何をする」の形で決めると、実行が増えるA 確か
+
+## 02 どうやってわかったのか飾りが逆効果とどうしてわかった？
+
+飾りのある版とない版を読ませてテストする実験が多くあり、それをまとめたメタ分析がある。
+
+A 確かRey（2012、Educational Research Review）[2]
+中身と関係のない面白い絵や話を足すと、覚えた量も応用する力も下がった。
+どうやって: 飾りあり・なしで学習させ、テストで比べた実験をまとめた。
+
+A 確かDelgado ほか（2018、Educational Research Review）[5]
+説明文は、紙より画面で読んだほうが理解が低かった。物語では差がほぼなかった。
+どうやって: 紙と画面で同じ文を読ませた、2000〜2017年の研究をまとめた。
+
+B 条件しだいvan der Bles ほか（2020、PNAS）[7]
+数字に「〜から〜の間」と幅を添えても、信頼はほとんど下がらなかった。言葉で「かもしれない」と書くと、小さく下がった。
+どうやって: 数字の書き方を変えた実験を5回行った（4回はイギリスでのオンライン、1回は BBC News のサイトでの実地。合計5,780人）。
+
+## 03 作るときの当て方記事のどこに当てればいい？
+
+冒頭・本文・終わりの3か所。画面では浅く読まれやすいので、構造で助ける。
+
+1. 結論を最初の1〜2文に: 見出しのすぐ下にも、その節の結論を書く。
+
+2. 要点は3〜5個まで: アイコンや表にして文字を減らす。比べる数字は表か棒グラフにする。
+
+3. 図は中身を説明するものだけ: 雰囲気のための写真・イラストを足さない。図を使うときは、文のどこと対応するかを見出しや色で示す。
+
+4. 確かさをそのまま書く: わかっている・割れている・わからないを分けて書く。
+
+5. 最後に思い出させる: 短いクイズかよくある質問を置く。
+
+6. 次の一歩は1つだけ: 「いつ・どこで・何をする」の形で書く。
+
+## 04 使わない説よく聞くけれど使わないのは？
+
+話題になったが、大きな追試や検証で支えられなかった説は使わない。
+
+よく聞く説判定研究では読みにくいフォントのほうが深く考え、問題が解ける言い過ぎ話題になった研究があったが、元の研究と16本の追試をまとめると効果は出なかった学び方のタイプ（目で見る派・耳で聞く派）に合わせる根拠なしタイプに合わせて教えると成績が上がる、という証拠は見つかっていない
+よく聞く説（集中は8秒・自我消耗・色で○%など）の答え合わせは、よく聞く説10個の答え合わせにまとめた。
+
+## 05 まだわかっていないことまだわからないのは？
+
+研究の多くは教科書や学習の場面のもの。ウェブ記事を一度読む場面での効果は確かめた研究が少ない。
+
+- ウェブ記事での効果の大きさ学習の研究の結果が、検索から来て一度だけ読む記事で同じように出るかは、わかっていない。
+
+- スマホの短い記事での画面と紙の差画面と紙の差は、短い文や物語では小さかった。スマホの短い記事で差があるかはわからない。
+
+## 06 よくある質問
+
+Q. 脳科学マーケティングを記事にどう使えますか？
+A. 結論を先に書く、要点は3〜5個まで、中身を説明する図だけを使う、最後に読んだことを思い出させる、「いつ・どこで・何を」の形で次の一歩を書く、の5つが研究で支えられています。
+
+Q. 記事に画像は多いほうがいいですか？
+A. 中身を説明する図は理解を上げますが、中身と関係のない飾りの画像は学びを下げます（Rey 2012 のメタ分析）。数より、何を説明する図かが大事です。
+
+Q. わからないことを書くと信頼が下がりますか？
+A. 数字に幅を添えても、信頼はほとんど下がらなかったという研究があります（van der Bles ほか 2020）。ただし言葉で「かもしれない」と書くと、小さく下がりました。
+
+## 出典
+
+- Mayer, R. E. (2009). Multimedia Learning (2nd ed.). Cambridge University Press. doi:10.1017/CBO9780511811678
+
+- Rey, G. D. (2012). A review of research and a meta-analysis of the seductive detail effect. Educational Research Review, 7(3), 216–237. doi:10.1016/j.edurev.2012.05.003
+
+- Richter, J., Scheiter, K., & Eitel, A. (2016). Signaling text-picture relations in multimedia learning: A comprehensive meta-analysis. Educational Research Review, 17, 19–36. doi:10.1016/j.edurev.2015.12.003
+
+- Cowan, N. (2001). The magical number 4 in short-term memory. Behavioral and Brain Sciences, 24(1), 87–114. doi:10.1017/S0140525X01003922
+
+- Delgado, P., Vargas, C., Ackerman, R., & Salmerón, L. (2018). Don't throw away your printed books: A meta-analysis on the effects of reading media on reading comprehension. Educational Research Review, 25, 23–38. doi:10.1016/j.edurev.2018.09.003
+
+- Alter, A. L., & Oppenheimer, D. M. (2009). Uniting the tribes of fluency to form a metacognitive nation. Personality and Social Psychology Review, 13(3), 219–235. doi:10.1177/1088868309341564
+
+- van der Bles, A. M., van der Linden, S., Freeman, A. L. J., & Spiegelhalter, D. J. (2020). The effects of communicating uncertainty on public trust in facts and numbers. PNAS, 117(14), 7672–7683. doi:10.1073/pnas.1913678117
+
+- Adesope, O. O., Trevisan, D. A., & Sundararajan, N. (2017). Rethinking the use of tests: A meta-analysis of practice testing. Review of Educational Research, 87(3), 659–701. doi:10.3102/0034654316689306
+
+- Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69–119. doi:10.1016/S0065-2601(06)38002-1
+
+- Meyer, A., Frederick, S., Burnham, T. C., et al. (2015). Disfluent fonts don't help people solve math problems. Journal of Experimental Psychology: General, 144(2), e16–e30. doi:10.1037/xge0000049
+
+- Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. Psychological Science in the Public Interest, 9(3), 105–119. doi:10.1111/j.1539-6053.2009.01038.x
+
+- Hagger, M. S., Chatzisarantis, N. L. D., et al. (2016). A multilab preregistered replication of the ego-depletion effect. Perspectives on Psychological Science, 11(4), 546–573. doi:10.1177/1745691616652873
+
+---
+
+# 脳科学マーケティングのよく聞く説10個を研究で確かめた — 8秒・7±2・21日・右脳左脳
+
+URL: https://neuro.seadice.win/neuro-marketing-myths/
+カテゴリ: よく聞く説
+公開日: 2026-11-07
+
+脳科学マーケティングの本やセミナーでよく出る数字には、もとの研究が見つからないものや、追試で消えたものが混ざっています。よく聞く説10個を、論文まで当たって判定しました。
+
+## 3行でわかる
+
+- 「集中は8秒」「色で90%」は、もとの測定が見つからない
+
+- 「7±2」「21日」「ジャムの法則」は言い過ぎ。今の研究では4つ前後・66日・効果は条件しだい
+
+- 「右脳左脳」「学び方のタイプ」「自我消耗」は、大きな検証で支えられなかった
+
+確かさ: A 確か＝メタ分析・大規模な再現・長く再現されてきた法則があり、効果があること自体が確か／B 条件しだい＝場面で結果が変わる・争いがある（基準）。
+
+## 01 判定の一覧よく聞く説は本当？
+
+10個のうち、そのまま使えるものはなかった。言い過ぎの説には、代わりに使える研究がある。
+
+よく聞く説判定今の研究では人の集中は8秒（金魚より短い）根拠なしもとになった測定が見つからないこの色にすると購買率が○%上がる・人は色で90%を判断する根拠なし決まった数字を支える研究が見つからない人が覚えられるのは7±2個言い過ぎもとの論文は記憶の数の目安を示したもの。今は、まとまりにして一度に置けるのは4つ前後とする見方が強い21日で習慣になる言い過ぎ中央値66日、人によって18〜254日選択肢は少ないほど売れる（ジャムの法則）言い過ぎ有名な実験はあるが、まとめると平均の効果はほぼゼロ。条件しだい疲れると決められなくなる（自我消耗）言い過ぎ23の研究室の事前登録の再現で、効果はほぼゼロおとりの中間プランで高い方が売れる言い過ぎ効く場面が限られ、再現しにくい右脳型・左脳型の人がいる根拠なし1,000人以上の脳の画像で、どちらかの側が強い人という違いは見つからなかった学び方のタイプに合わせると覚える根拠なし合わせると成績が上がる、という証拠は見つかっていない読みにくいフォントのほうが深く考え、問題が解ける言い過ぎ元の研究と16本の追試をまとめると、効果は出なかった
+
+## 02 どうやってわかったのか本当かどうかはどうやって確かめた？
+
+もとの論文を探し、その後の大規模な再現やメタ分析と比べた。もとが見つからない数字は「根拠なし」とした。
+
+言い過ぎIyengar & Lepper（2000）→ Scheibehenne ほか（2010）[4]
+ジャムを24種類並べると6種類より買う人が少なかった、という有名な実験。50件の実験をまとめると、平均の効果はほぼゼロだった。
+どうやって: もとはスーパーの試食売り場での実験。後のメタ分析で、ほかの研究とまとめて効果の大きさを出した。
+
+言い過ぎHagger ほか（2016、Perspectives on Psychological Science）[5]
+「意志の力を使うと疲れて次に頑張れない」という効果は、23の研究室で同じ手順でやり直すと、ほぼゼロだった。
+どうやって: 事前に手順を登録して、2,000人以上で一斉に再現した。
+
+根拠なしNielsen ほか（2013、PLoS ONE）[6]
+脳の左右どちらかが全体として強い「右脳型・左脳型」の人は見つからなかった。
+どうやって: 7〜29歳の1,011人の、休んでいるときの脳の画像を調べた。
+
+根拠なしPashler ほか（2008、Psychological Science in the Public Interest）[7]
+学び方のタイプに合わせて教えると成績が上がる、と言えるだけの実験の証拠はなかった。
+どうやって: タイプに合わせる効果を正しく確かめた実験があるかを、それまでの研究から探した。
+
+## 03 代わりに使える研究言い過ぎの説の代わりに何を使う？
+
+数字を言い切らず、確かめられた研究の形で使う。
+
+1. 「7±2」の代わりに: 「一度に頭に置けるのは4つ前後（数には議論がある）」と書き、要点は3〜5個にまとめる（Cowan 2001）。
+
+2. 「21日」の代わりに: 「中央値66日、人によって大きく違う」と書き、最初の数週間を支える作りにする（Lally ほか 2010）。
+
+3. 「ジャムの法則」の代わりに: 選択肢を減らすのは、違いがわかりにくいとき・決め方がないときに効く、と条件つきで使う（Chernev ほか 2015）。
+
+4. 「集中は8秒」の代わりに: 「結論を先に書き、見出しの直下で答える」。画面では浅く読まれやすい（Delgado ほか 2018）。
+
+## 04 判定の決め方「根拠なし」と「言い過ぎ」の違いは？
+
+もとの研究が見つからなければ根拠なし。研究はあるが、数字や効き方を大きく言いすぎていれば言い過ぎ。
+
+「根拠なし」は、もとの研究が見つからない、または大きな検証で支えられなかった説です。「言い過ぎ」は、もとになった研究はあるものの、その後の研究で数字が違ったり、条件つきでしか出なかったりした説です。新しい研究が出たら、判定は変わることがあります。
+
+調べ方: 作り手向けの本や記事でよく見かける説から10個を選び（どこで何回見たかは数えていない）、もとの論文を探して、その後のメタ分析・大規模な再現と比べました。論文は2026年11月7日に、DOI の記録と1件ずつ照らし合わせています。
+
+## 05 まだわかっていないことまだ決着していないのは？
+
+自我消耗とおとり効果は、今も研究者の間で議論が続いている。
+
+- 自我消耗は本当に無いのか大規模な再現ではほぼゼロだったが、手順が悪かったという反論もあり、議論は続いている。
+
+- おとり効果がいつ効くのか効いた研究と効かなかった研究があり、どんな条件で出るかははっきりしていない。
+
+## 06 よくある質問
+
+Q. 「人の集中は8秒」は本当ですか？
+A. もとになった測定が見つからず、使える根拠はありません。2015年の Microsoft Canada の報告書が広めた数字です。
+
+Q. 「マジカルナンバー7」は間違いですか？
+A. Miller（1956）の論文は実在しますが、今は、まとまりにして一度に頭に置けるのは4つ前後とする見方が強く、数には議論があります（Cowan 2001）。
+
+Q. 右脳型・左脳型はありますか？
+A. 1,011人の脳の画像を調べた研究で、脳の左右どちらかが全体として強い人という違いは見つかりませんでした（Nielsen ほか 2013）。
+
+## 出典
+
+- Miller, G. A. (1956). The magical number seven, plus or minus two. Psychological Review, 63(2), 81–97. doi:10.1037/h0043158
+
+- Cowan, N. (2001). The magical number 4 in short-term memory. Behavioral and Brain Sciences, 24(1), 87–114. doi:10.1017/S0140525X01003922
+
+- Iyengar, S. S., & Lepper, M. R. (2000). When choice is demotivating: Can one desire too much of a good thing? Journal of Personality and Social Psychology, 79(6), 995–1006. doi:10.1037/0022-3514.79.6.995
+
+- Scheibehenne, B., Greifeneder, R., & Todd, P. M. (2010). Can there ever be too many options? A meta-analytic review of choice overload. Journal of Consumer Research, 37(3), 409–425. doi:10.1086/651235
+
+- Hagger, M. S., Chatzisarantis, N. L. D., et al. (2016). A multilab preregistered replication of the ego-depletion effect. Perspectives on Psychological Science, 11(4), 546–573. doi:10.1177/1745691616652873
+
+- Nielsen, J. A., Zielinski, B. A., Ferguson, M. A., Lainhart, J. E., & Anderson, J. S. (2013). An evaluation of the left-brain vs. right-brain hypothesis with resting state functional connectivity MRI. PLoS ONE, 8(8), e71275. doi:10.1371/journal.pone.0071275
+
+- Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. Psychological Science in the Public Interest, 9(3), 105–119. doi:10.1111/j.1539-6053.2009.01038.x
+
+- Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009. doi:10.1002/ejsp.674
+
+- Chernev, A., Böckenholt, U., & Goodman, J. (2015). Choice overload: A conceptual review and meta-analysis. Journal of Consumer Psychology, 25(2), 333–358. doi:10.1016/j.jcps.2014.08.002
+
+- Frederick, S., Lee, L., & Baskin, E. (2014). The limits of attraction. Journal of Marketing Research, 51(4), 487–507. doi:10.1509/jmr.12.0061
+
+- Meyer, A., Frederick, S., Burnham, T. C., et al. (2015). Disfluent fonts don't help people solve math problems. Journal of Experimental Psychology: General, 144(2), e16–e30. doi:10.1037/xge0000049
+
+- Delgado, P., Vargas, C., Ackerman, R., & Salmerón, L. (2018). Don't throw away your printed books: A meta-analysis on the effects of reading media on reading comprehension. Educational Research Review, 25, 23–38. doi:10.1016/j.edurev.2018.09.003
+
+---
+
+# ウェブサイトに使える脳科学マーケティング10の原則 — 第一印象は50ミリ秒
+
+URL: https://neuro.seadice.win/neuro-marketing-web/
+カテゴリ: ウェブサイト
+公開日: 2026-11-07
+
+サイトの見た目の好き嫌いは、50ミリ秒（0.05秒）見ただけでも、0.5秒見たときとよく一致したという研究があります（パソコンの画面で測定）。第一印象・迷わなさ・信頼の3つに効く研究を、論文まで確かめて10個に絞りました。
+
+## 3行でわかる
+
+- 見た目の好き嫌いは50ミリ秒で判断される。単純で見慣れた形のサイトほど、印象がよかった
+
+- 入口は1つ、選択肢は少なく、押す所は大きく。待たせるときは進み具合を見せる
+
+- 読みやすさは信頼になる。運営者と出典を見える所に置く
+
+確かさ: A 確か＝メタ分析・大規模な再現・長く再現されてきた法則があり、効果があること自体が確か／B 条件しだい＝場面で結果が変わる・争いがある（基準）。
+
+## 01 使える原則サイト作りに使える原則は？
+
+確かなもの（A）はボタンの大きさと初期設定。第一印象・単純さ・読みやすさは、くり返し出ているが条件しだい（B）。
+
+原則わかっていること確かさ第一印象は一瞬で決まる50ミリ秒だけ見た見た目の評価は、0.5秒見たときの評価とよく一致したB 条件しだい単純で見慣れた形見た目が単純で、よくある形のサイトほど、第一印象がよかったB 条件しだい読みやすさは信頼になる読みやすい・見慣れたものは、好まれ、正しいと感じられやすいB 条件しだい見た目がよいと使いやすく感じる見た目の評価が高い画面ほど、使った後も使いやすいと感じられたB 条件しだい一度に置く情報は少なく一度に頭に置けるのは4つ前後。並べる数が増えるほど、選ぶ時間は長くなるB 条件しだい選択肢が多すぎると決めにくい平均すると効果はほぼゼロだが、違いがわかりにくいときに強く出るB 条件しだい押す所は大きく近く大きく、近いボタンほど速く正確に押せるA 確か待たせない何も出ないまま待たせると、約2秒で我慢の限界に近づいた。進み具合を見せると長く待てたB 条件しだい初期設定はそのまま選ばれるチェックの初期状態は、選ぶ結果を大きく動かすA 確か終わりの印象が残る体験は、いちばん強い所と終わりで思い出されやすいB 条件しだい
+
+## 02 どうやってわかったのか50ミリ秒はどうやって測った？
+
+画面を一瞬だけ見せて評価してもらい、長く見たときの評価と比べた。
+
+B 条件しだいLindgaard ほか（2006、Behaviour & Information Technology）[1]
+サイトの画面を50ミリ秒だけ見せても、見た目の好き嫌いの評価は、0.5秒見せたときとよく一致した。
+どうやって: サイトの画面を一瞬だけ見せ、見た目の好みを点数にしてもらった。
+
+B 条件しだいTuch ほか（2012、International Journal of Human-Computer Studies）[2]
+見た目の複雑さが低く、よくある形（典型的な配置）のサイトほど、第一印象の評価が高かった。
+どうやって: サイトの画面を短い時間だけ見せ、複雑さと典型性を変えて比べた。
+
+A 確かFitts（1954、Journal of Experimental Psychology）[7]
+的が大きく近いほど、速く正確に指せる。この関係は「フィッツの法則」として長く再現されてきた。
+どうやって: 幅と距離を変えた的を交互に叩く実験。メタ分析ではないが、法則として長く確かめられている。
+
+## 03 作るときの当て方サイトのどこに当てればいい？
+
+最初の画面・操作・信頼の3か所。飾りを足すより、減らすほうが効く。
+
+1. 1ページ1つの用事、入口は1つ: 並べる選択肢は3〜5まで。説明は1文にして、伝わる所は図やアイコンにする。
+
+2. よくある並びを崩さない: ロゴは左上、メニューは上。色は少なく、飾りの画像・光・影を足さない。
+
+3. ボタンは大きく、言葉は具体的に: 高さ48px以上。「送る」でなく「要望を送る」のように書く。
+
+4. 速くする、待たせるなら進み具合を: 外部の読み込みを減らす。待つ所には進み具合を出す。
+
+5. チェックの初期状態は使う人に得な方に: メールの購読などを最初からオンにしない。
+
+6. 運営者・更新日・出典を見える所に: 結果を返したら、何がわかったかを最後に1文で書く。
+
+## 04 使わない説よく聞くけれど使わないのは？
+
+企業の調査だけの数字と、根拠が見つからない数字は使わない。
+
+よく聞く説判定研究では人はF字に読むので、左上に全部置けばよい言い過ぎ企業の視線調査が広めた話。読み方はページの作りと目的で変わる表示が1秒遅れると売上が○%下がる言い過ぎ速いほうがよいことは確かだが、企業が出した数字が多く、条件が書かれていない
+よく聞く説（集中は8秒・自我消耗・色で○%など）の答え合わせは、よく聞く説10個の答え合わせにまとめた。
+
+## 05 まだわかっていないことまだわからないのは？
+
+第一印象の研究の多くはパソコンの画面で測っていて、スマホでの結果は少ない。
+
+- スマホでも一瞬で決まるか第一印象の研究は、デスクトップの画面で測ったものが多い。小さな画面で同じように出るかは、確かめた研究が少ない。
+
+- 見た目と使いやすさの関係の強さ「見た目がよいと使いやすく感じる」は、追試で弱く出たものもあり、どの程度効くかは条件しだい。
+
+## 06 よくある質問
+
+Q. 脳科学マーケティングはウェブデザインにどう使えますか？
+A. 入口を1つにして選択肢を減らす、単純で見慣れた形にする、ボタンを大きくする、待たせない、の4つが研究で支えられています。
+
+Q. サイトの第一印象は何秒で決まりますか？
+A. 見た目の好き嫌いは50ミリ秒（0.05秒）で判断され、0.5秒見たときの評価とよく一致したという研究があります（Lindgaard ほか 2006）。ただし測ったのはパソコンの画面です。
+
+Q. ボタンの色で成約率は上がりますか？
+A. 「この色で○%上がる」という決まった数字を支える研究は見つかりません。色より、ボタンの大きさ・位置・言葉のわかりやすさのほうが研究の裏付けがあります。
+
+## 出典
+
+- Lindgaard, G., Fernandes, G., Dudek, C., & Brown, J. (2006). Attention web designers: You have 50 milliseconds to make a good first impression! Behaviour & Information Technology, 25(2), 115–126. doi:10.1080/01449290500330448
+
+- Tuch, A. N., Presslaber, E. E., Stöcklin, M., Opwis, K., & Bargas-Avila, J. A. (2012). The role of visual complexity and prototypicality regarding first impression of websites. International Journal of Human-Computer Studies, 70(11), 794–811. doi:10.1016/j.ijhcs.2012.06.003
+
+- Alter, A. L., & Oppenheimer, D. M. (2009). Uniting the tribes of fluency to form a metacognitive nation. Personality and Social Psychology Review, 13(3), 219–235. doi:10.1177/1088868309341564
+
+- Tractinsky, N., Katz, A. S., & Ikar, D. (2000). What is beautiful is usable. Interacting with Computers, 13(2), 127–145. doi:10.1016/S0953-5438(00)00031-X
+
+- Cowan, N. (2001). The magical number 4 in short-term memory. Behavioral and Brain Sciences, 24(1), 87–114. doi:10.1017/S0140525X01003922
+
+- Scheibehenne, B., Greifeneder, R., & Todd, P. M. (2010). Can there ever be too many options? A meta-analytic review of choice overload. Journal of Consumer Research, 37(3), 409–425. doi:10.1086/651235
+
+- Fitts, P. M. (1954). The information capacity of the human motor system in controlling the amplitude of movement. Journal of Experimental Psychology, 47(6), 381–391. doi:10.1037/h0055392
+
+- Nah, F. F.-H. (2004). A study on tolerable waiting time: How long are Web users willing to wait? Behaviour & Information Technology, 23(3), 153–163. doi:10.1080/01449290410001669914
+
+- Jachimowicz, J. M., Duncan, S., Weber, E. U., & Johnson, E. J. (2019). When and why defaults influence decisions: A meta-analysis of default effects. Behavioural Public Policy, 3(2), 159–186. doi:10.1017/bpp.2018.43
+
+- Alaybek, B., Dalal, R. S., Fyffe, S., et al. (2022). All's well that ends (and peaks) well? A meta-analysis of the peak-end rule and duration neglect. Organizational Behavior and Human Decision Processes, 170, 104149. doi:10.1016/j.obhdp.2022.104149（2024年に訂正あり）
+
+- Hick, W. E. (1952). On the rate of gain of information. Quarterly Journal of Experimental Psychology, 4(1), 11–26. doi:10.1080/17470215208416600
+
+- Chernev, A., Böckenholt, U., & Goodman, J. (2015). Choice overload: A conceptual review and meta-analysis. Journal of Consumer Psychology, 25(2), 333–358. doi:10.1016/j.jcps.2014.08.002
+
+- Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A. (1993). When more pain is preferred to less: Adding a better end. Psychological Science, 4(6), 401–405. doi:10.1111/j.1467-9280.1993.tb00589.x
+
+- Hagger, M. S., Chatzisarantis, N. L. D., et al. (2016). A multilab preregistered replication of the ego-depletion effect. Perspectives on Psychological Science, 11(4), 546–573. doi:10.1177/1745691616652873
+
