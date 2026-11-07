@@ -135,6 +135,9 @@ def patch_article(cfg, p, posts, images, favicon=""):
     s = re.sub(r'<style id="theme">.*?</style>\n?', "", s, flags=re.S)
     if cfg.get("articleCss"):
         s = s.replace("</head>", f'<style id="theme">{cfg["articleCss"]}</style>\n</head>', 1)
+    # --- アイコン付きの要点(.pts)・数字の棒グラフ(.bars)。<i data-ic> をSVGにし、使う記事にだけCSSを足す
+    import icons
+    s = icons.apply(s)
     # --- 構造化データ(Article を強化)
     def fix_ld(m):
         try:
