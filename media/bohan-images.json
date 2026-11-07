@@ -1395,5 +1395,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Smartphone_Use.jpg/500px-Smartphone_Use.jpg",
   "og": "https://bohan.seadice.win/img/sns-hobby-posts-disclosure-risk.jpg",
   "local": true
+ },
+ "scam-victim-payment-recovery-steps": {
+  "file": "File:Audioline TEL 38 SMS - Handset inner view-92316.jpg",
+  "src": "/img/scam-victim-payment-recovery-steps.jpg",
+  "src640": "/img/scam-victim-payment-recovery-steps-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "電話の子機を開けた内部基板",
+  "artist": "Raimond Spekking",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Audioline_TEL_38_SMS_-_Handset_inner_view-92316.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Audioline_TEL_38_SMS_-_Handset_inner_view-92316.jpg/960px-Audioline_TEL_38_SMS_-_Handset_inner_view-92316.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Audioline_TEL_38_SMS_-_Handset_inner_view-92316.jpg/500px-Audioline_TEL_38_SMS_-_Handset_inner_view-92316.jpg",
+  "og": "https://bohan.seadice.win/img/scam-victim-payment-recovery-steps.jpg",
+  "local": true
  }
 }

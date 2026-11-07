@@ -250,7 +250,9 @@
     "notice": [
      "fake-police-call-scam"
     ],
-    "after": [],
+    "after": [
+     "scam-victim-payment-recovery-steps"
+    ],
     "use": []
    }
   },
@@ -268,7 +270,9 @@
     "notice": [
      "door-to-door-inspection-scam"
     ],
-    "after": [],
+    "after": [
+     "scam-victim-payment-recovery-steps"
+    ],
     "use": []
    }
   },
@@ -294,7 +298,9 @@
      "qr-code-phishing-sticker",
      "crypto-transfer-scam-signs"
     ],
-    "after": [],
+    "after": [
+     "scam-victim-payment-recovery-steps"
+    ],
     "use": [
      "ai-era-scam-checklist",
      "fake-shopping-site-checklist"
