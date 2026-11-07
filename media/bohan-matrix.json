@@ -245,10 +245,12 @@
      "fraud-awareness-overconfidence-gap"
     ],
     "prevent": [
-     "international-call-block-scam"
+     "international-call-block-scam",
+     "landline-answering-machine-scam"
     ],
     "notice": [
-     "fake-police-call-scam"
+     "fake-police-call-scam",
+     "refund-scam-atm-phone"
     ],
     "after": [
      "scam-victim-payment-recovery-steps"
@@ -299,7 +301,8 @@
      "crypto-transfer-scam-signs"
     ],
     "after": [
-     "scam-victim-payment-recovery-steps"
+     "scam-victim-payment-recovery-steps",
+     "fraud-recovery-scam-second-victim"
     ],
     "use": [
      "ai-era-scam-checklist",
@@ -332,7 +335,9 @@
    "id": "ai-fake",
    "label": "AIのなりすまし・ディープフェイク",
    "cells": {
-    "data": [],
+    "data": [
+     "ai-scam-statistics-what-we-know"
+    ],
     "why": [
      "deepfake-video-celebrity-ad"
     ],
@@ -344,7 +349,9 @@
      "deepfake-video-celebrity-ad",
      "ai-era-scam-checklist"
     ],
-    "after": [],
+    "after": [
+     "impersonation-account-deepfake-found"
+    ],
     "use": [
      "ai-era-scam-checklist"
     ]

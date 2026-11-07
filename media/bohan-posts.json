@@ -1,5 +1,45 @@
 [
  {
+  "slug": "refund-scam-atm-phone",
+  "category": "AI時代の防犯",
+  "type": "guide",
+  "date": "2026-11-07",
+  "title": "「ATMでお金が戻ります」は必ず詐欺。還付金詐欺の電話の流れと、親を守るために家族ができること",
+  "summary": "ATMでお金が戻ることはない。還付金詐欺の被害者の8割は65歳以上。電話の流れと、親を守るために家族ができる備え"
+ },
+ {
+  "slug": "fraud-recovery-scam-second-victim",
+  "category": "AI時代の防犯",
+  "type": "guide",
+  "date": "2026-11-07",
+  "title": "「詐欺の被害金を取り戻します」は二次被害の入り口。一度だまされた人がまた狙われる理由",
+  "summary": "「取り戻せます」の連絡は二次被害の入り口。被害者名簿で再び狙われる仕組みと、先払いを断る見分け方を研究と公的機関の資料で紹介"
+ },
+ {
+  "slug": "impersonation-account-deepfake-found",
+  "category": "AI時代の防犯",
+  "type": "guide",
+  "date": "2026-11-07",
+  "title": "SNSで自分のなりすましや偽画像を見つけたら。証拠の残し方と、削除を頼む窓口",
+  "summary": "自分のなりすましやAIの偽画像を見つけたら。画面とURLを残し、運営会社に本人として申し出て、無料の窓口に相談する順番"
+ },
+ {
+  "slug": "landline-answering-machine-scam",
+  "category": "AI時代の防犯",
+  "type": "guide",
+  "date": "2026-11-07",
+  "title": "親の家の固定電話、留守番電話にしておくと詐欺は防げる？犯人が録音を嫌う理由と、帰省時にできる設定",
+  "summary": "特殊詐欺の最初の接触は8割近くが電話。犯人が録音を嫌う理由と、親の家の固定電話で帰省時にできる無料の設定を紹介"
+ },
+ {
+  "slug": "ai-scam-statistics-what-we-know",
+  "category": "AI時代の防犯",
+  "type": "guide",
+  "date": "2026-11-07",
+  "title": "AIを使った詐欺は本当に増えているのか。統計でわかること、まだわからないこと",
+  "summary": "AI詐欺の件数は警察統計に区分がなく不明。わかっている被害の数字と、AIかどうかより見るべき「お金・急ぎ・秘密」のサイン"
+ },
+ {
   "slug": "scam-victim-payment-recovery-steps",
   "category": "防犯の心理学",
   "type": "guide",
