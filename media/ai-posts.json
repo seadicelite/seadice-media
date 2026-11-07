@@ -1,5 +1,50 @@
 [
  {
+  "slug": "ai-camera-glasses-filmed-worry-prepare",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-11-07",
+  "title": "カメラ付きのAIメガネで、知らないうちに撮られないか不安。研究では居合わせた人の多くが「撮る前に聞いてほしい」と答え、撮影中に光るランプが見分ける手がかりになる",
+  "summary": "31人中17人が撮る前に聞いてほしいと答えた。撮影中に光るランプを知り、性的な撮影は警察へ"
+ },
+ {
+  "slug": "ai-search-wrong-shop-info-owner",
+  "category": "Web・検索の変化",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-11-07",
+  "title": "AIの検索やチャットが、自分のお店の営業時間や情報を間違えて答えていた。研究ではAIの答えの2割に古い情報などの大きな誤りがあり、まず公式の情報を直してから報告する",
+  "summary": "AIの答えの2割に古い情報などの大きな誤り。まず自分のサイトとプロフィールを直し、AI要約に報告する"
+ },
+ {
+  "slug": "ai-overview-traffic-down-site-rebuild",
+  "category": "Web・検索の変化",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-11-07",
+  "title": "AI要約でアクセスが減ったあと、サイトをどう立て直す？実験では、引用や数字、出典を足した文章がAIの答えに使われやすく、キーワードの詰め込みは逆効果だった",
+  "summary": "量を増やすより、引用・数字・出典を足す。実験ではAIの答えに使われやすく、詰め込みは逆効果だった"
+ },
+ {
+  "slug": "my-article-ai-rewritten-copied-site",
+  "category": "Web・検索の変化",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-11-07",
+  "title": "自分の記事がAIで言い換えられ、別のサイトに載っていた。どうする？文化庁の考え方ではAIを使っても侵害の判断は同じで、まず証拠を残して削除を求める",
+  "summary": "AIで言い換えた転載も、似ているかともとにしたかで判断される。証拠を残し、運営者と検索に削除を求める"
+ },
+ {
+  "slug": "ai-crawler-block-robots-txt-search-effect",
+  "category": "Web・検索の変化",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-11-07",
+  "title": "サイトの記事を、AIの学習に使われたくない。robots.txtで断ると検索に出なくなる？学習用と検索用のクローラーは分けて断れるが、従わないクローラーもある",
+  "summary": "学習用のクローラーは検索用と分けて断れ、検索順位に影響しない。研究では従わないAIのクローラーもあった"
+ },
+ {
   "slug": "ai-overview-site-traffic-drop",
   "category": "Web・検索の変化",
   "type": "guide",
