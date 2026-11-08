@@ -41,7 +41,7 @@ description: 脳科学マーケティングの研究（アプリ・サイト・�
 
 ## 投稿データ（media.md 手順5）
 
-`media/neuro-posts.json` の先頭に `{"slug","category"(設定のcategoriesのname),"type":"guide","date","title","summary"}` を追加する。写真は使わない（中身を説明する図だけ。飾りの画像は理解を下げる、Rey 2012）。
+`media/neuro-posts.json` の先頭に `{"slug","category"(設定のcategoriesのname),"type":"guide","date","title","summary"}` を追加する。写真は記事の冒頭に1枚だけ（`python3 media/photo.py neuro {記事slug} "<英語の物の名前>" --alt=日本語`、2026-11-08 にユーザーの希望で入れた。一覧のカード・OGP・検索のサムネイルのため）。本文の途中に飾りの写真は入れない（中身と関係のない絵は理解を下げる、Rey 2012）。検索語は物に寄せ、人物・軍・宗教施設が出たら --replace で入れ直す。本文の図は、中身を説明するものだけを足す。
 
 ## 引用で間違えやすいこと（2026-11-07 の出典確認で見つかったもの）
 
