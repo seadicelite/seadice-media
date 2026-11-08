@@ -16,55 +16,57 @@
   "description": "アプリ・ウェブサイト・記事に使える脳科学マーケティングを、論文まで確かめて確かさA・Bつきで。集中は8秒・21日・右脳左脳などよく聞く説の答え合わせも。出典つき・広告なし。",
   "about": "記事はAIが論文（査読つきの学術誌、メタ分析を優先）を調べ、出典の内容を確認して作成しています。SEADICEが独自に実験・研究したものではありません。各記事の末尾に出典を掲載しています。「脳科学マーケティング」と呼ばれる話の多くは、脳の画像研究ではなく、認知心理学・行動経済学・人間工学の研究です。このサイトもその研究を中心に扱います。確かさの基準: A 確か＝メタ分析・大規模な事前登録の再現・長く再現されてきた法則があり、効果があること自体は確か（効果の大きさは場面で変わることがある）。B 条件しだい＝研究は複数あるが、メタ分析がない・場面で結果が変わる・研究者の間で争いがある。1本だけの研究は、ほかの研究と食い違わないものだけBに入れます。企業の調査だけの説は原則に入れず、根拠なし（もとの研究が見つからない・大きな検証で支えられなかった）か、言い過ぎ（研究はあるが数字や効き方を大きく言いすぎている）として書きます。確かさはAIが基準に当てはめて付け、出典確認の役が論文と照らし合わせています。",
   "theme": {
-    "bg": "#0F1115",
-    "card": "#171A21",
-    "accent": "#7FB2E5",
-    "accent2": "#E0A96D",
-    "border": "#2A2F3A",
-    "text": "#E8EAF0",
-    "muted": "#A4ACBA",
-    "link": "#9CC4EC"
+    "bg": "#F6F6F3",
+    "card": "#FFFFFF",
+    "accent": "#C2410C",
+    "accent2": "#1D5FA8",
+    "border": "#D5D9E0",
+    "text": "#172033",
+    "muted": "#4F5B6E",
+    "link": "#1D5FA8",
+    "faviconBg": "#172033",
+    "faviconFg": "#F28C38"
   },
   "categories": [
     {
       "name": "アプリ",
       "id": "app",
-      "color": "#7FB2E5",
+      "color": "#1D5FA8",
       "icon": "target",
       "desc": "迷わせない・続けてもらう・納得して払ってもらう"
     },
     {
       "name": "ウェブサイト",
       "id": "web",
-      "color": "#8DB59A",
+      "color": "#1F7A4D",
       "icon": "eye",
       "desc": "第一印象・迷わなさ・信頼"
     },
     {
       "name": "記事",
       "id": "article",
-      "color": "#E0A96D",
+      "color": "#0E7490",
       "icon": "book",
       "desc": "わかる・覚えている・信じられる・動ける"
     },
     {
       "name": "値段と課金",
       "id": "price",
-      "color": "#D9A6C8",
+      "color": "#8E3B8A",
       "icon": "link",
       "desc": "無料・値段の見せ方・サブスク。操る仕掛けとの境目も"
     },
     {
       "name": "続ける",
       "id": "habit",
-      "color": "#B39DDB",
+      "color": "#A16207",
       "icon": "repeat",
       "desc": "習慣・通知・連続記録・ごほうび"
     },
     {
       "name": "よく聞く説",
       "id": "myth",
-      "color": "#E07A5F",
+      "color": "#B42318",
       "icon": "shield",
       "desc": "8秒・7±2・21日・右脳左脳。研究で答え合わせ"
     }
@@ -105,7 +107,7 @@
       "焦らせる・だます仕掛けは、効いても勧めません。広告・登録もありません。"
     ]
   ],
-  "extraCss": "body{background:var(--bg)} nav.top,nav{backdrop-filter:none;-webkit-backdrop-filter:none;background:var(--bg)} .nav-logo{background:none;-webkit-text-fill-color:var(--muted);color:var(--muted);font-size:12px;letter-spacing:.2em} h1{background:none;-webkit-text-fill-color:currentColor;color:var(--text)} .card,.about,.trust div,.faq details,.empty{border-radius:8px} .card:hover{transform:none;border-color:var(--accent)} .th{background:var(--card)} .trust div{border-top:2px solid var(--accent)} body .feat,body .points,body .tbx,body .tile{border-radius:8px} body .feat,body .tile{background:var(--card)} body .chip,body .gnav a{border-radius:6px;min-height:44px} body .ticker{display:none} body .tbx,body .tbi,body .tbic,body .tbgo,body .srow,body .tbgrid,body .feat,body .tile,body .th,body .hero img,body .points{border-radius:8px} body .feat .sh{background:rgba(0,0,0,.62)} nav a{display:inline-block;padding:14px 0}.breadcrumb a{display:inline-block;padding:8px 0}footer a{display:inline-block;padding:12px 4px} main>p:first-child a{display:inline-block;padding:14px 0} body .tbgrid .tbi{border-radius:8px} body .tball{display:inline-block;min-height:44px;padding:12px 0}",
+  "extraCss": "body{background:var(--bg)} nav.top,nav{backdrop-filter:none;-webkit-backdrop-filter:none;background:var(--bg)} .nav-logo{background:none;-webkit-text-fill-color:#F6F6F3;color:#F6F6F3;font-size:12px;letter-spacing:.2em} h1{background:none;-webkit-text-fill-color:currentColor;color:var(--text)} .card,.about,.trust div,.faq details,.empty{border-radius:8px} .card:hover{transform:none;border-color:var(--accent)} .th{background:var(--card)} .trust div{border-top:2px solid var(--accent)} body .feat,body .points,body .tbx,body .tile{border-radius:8px} body .feat,body .tile{background:var(--card)} body .chip,body .gnav a{border-radius:6px;min-height:44px} body .ticker{display:none} body .tbx,body .tbi,body .tbic,body .tbgo,body .srow,body .tbgrid,body .feat,body .tile,body .th,body .hero img,body .points{border-radius:8px} body .feat .sh{background:rgba(0,0,0,.62)} nav a{display:inline-block;padding:14px 0}.breadcrumb a{display:inline-block;padding:8px 0}footer a{display:inline-block;padding:12px 4px} main>p:first-child a{display:inline-block;padding:14px 0} body .tbgrid .tbi{border-radius:8px} body .tball{display:inline-block;min-height:44px;padding:12px 0} nav.top{background:#172033;border-bottom:3px solid #C2410C} nav.top a.r{color:#F6F6F3} .maghead{padding-right:132px;background:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 60'%3E%3Cg fill='none' stroke='%231D5FA8' stroke-width='1.5'%3E%3Cpath d='M10 30L40 15L70 35L100 20M40 15L45 50L70 35M70 35L95 50'/%3E%3C/g%3E%3Cg fill='%23C2410C'%3E%3Ccircle cx='10' cy='30' r='4'/%3E%3Ccircle cx='40' cy='15' r='4'/%3E%3Ccircle cx='70' cy='35' r='5'/%3E%3Ccircle cx='100' cy='20' r='4'/%3E%3Ccircle cx='45' cy='50' r='3'/%3E%3Ccircle cx='95' cy='50' r='3'/%3E%3C/g%3E%3C/svg%3E\") no-repeat right center/120px 60px} .maghead .tagline{color:#4F5B6E} h2.sec,.sec-h{font-family:ui-monospace,SFMono-Regular,Menlo,monospace} body .feat .in h2,body .feat .in p{color:#FFFFFF;-webkit-text-fill-color:#FFFFFF}",
   "topicQueue": [],
   "toolbox": [],
   "dailyPick": {
