@@ -2650,5 +2650,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Perfume_set_from_Sovjetunio_cca_1965.jpg/500px-Perfume_set_from_Sovjetunio_cca_1965.jpg",
   "og": "https://umbra.seadice.win/img/body-odor-preference-mhc-gene-research.jpg",
   "local": true
+ },
+ "engagement-ring-commitment-signal-research": {
+  "file": "File:Pair of wedding rings.JPG",
+  "src": "/img/engagement-ring-commitment-signal-research.jpg",
+  "src640": "/img/engagement-ring-commitment-signal-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "指輪",
+  "artist": "Mauro Cateb",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pair_of_wedding_rings.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Pair_of_wedding_rings.JPG/960px-Pair_of_wedding_rings.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Pair_of_wedding_rings.JPG/500px-Pair_of_wedding_rings.JPG",
+  "og": "https://umbra.seadice.win/img/engagement-ring-commitment-signal-research.jpg",
+  "local": true
  }
 }
