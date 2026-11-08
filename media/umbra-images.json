@@ -2668,5 +2668,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Pair_of_wedding_rings.JPG/500px-Pair_of_wedding_rings.JPG",
   "og": "https://umbra.seadice.win/img/engagement-ring-commitment-signal-research.jpg",
   "local": true
+ },
+ "honest-confession-lie-to-partner-research": {
+  "file": "File:Cake and coffee.jpg",
+  "src": "/img/honest-confession-lie-to-partner-research.jpg",
+  "src640": "/img/honest-confession-lie-to-partner-research-sm.jpg",
+  "w": 960,
+  "h": 708,
+  "alt": "テーブルに並んだ2杯のカフェラテとケーキ",
+  "artist": "TGar21",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cake_and_coffee.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cake_and_coffee.jpg/960px-Cake_and_coffee.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cake_and_coffee.jpg/500px-Cake_and_coffee.jpg",
+  "og": "https://umbra.seadice.win/img/honest-confession-lie-to-partner-research.jpg",
+  "local": true
  }
 }
