@@ -809,5 +809,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/%E5%A4%A7%E8%B1%86%E3%81%AE%E5%A4%A9%E6%97%A5%E5%B9%B2%E3%81%97.jpg/500px-%E5%A4%A7%E8%B1%86%E3%81%AE%E5%A4%A9%E6%97%A5%E5%B9%B2%E3%81%97.jpg",
   "og": "https://senbei.seadice.win/img/senbei-ingredients-japanese-avoid.jpg",
   "local": true
+ },
+ "sweet-soy-sauce-saltiness": {
+  "file": "File:Bowl of white sugar.jpg",
+  "src": "/img/sweet-soy-sauce-saltiness.jpg",
+  "src640": "/img/sweet-soy-sauce-saltiness-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "器に入れた白い砂糖",
+  "artist": "Douglas P Perkins",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bowl_of_white_sugar.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bowl_of_white_sugar.jpg/960px-Bowl_of_white_sugar.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bowl_of_white_sugar.jpg/500px-Bowl_of_white_sugar.jpg",
+  "og": "https://senbei.seadice.win/img/sweet-soy-sauce-saltiness.jpg",
+  "local": true
  }
 }

@@ -178,7 +178,9 @@
         "myth": [
           "kyushu-soy-sauce-sweet-why"
         ],
-        "make": [],
+        "make": [
+          "sweet-soy-sauce-saltiness"
+        ],
         "data": [
           "senbei-spending-city-ranking"
         ],
