@@ -1040,5 +1040,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Carved_ivory_upper_and_lower_denture_Wellcome_L0003910.jpg/500px-Carved_ivory_upper_and_lower_denture_Wellcome_L0003910.jpg",
   "og": "https://oya.seadice.win/img/parent-not-wearing-dentures.jpg",
   "local": true
+ },
+ "parent-talks-about-the-past": {
+  "file": "File:Vinyl collection at a record store (Unsplash).jpg",
+  "src": "/img/parent-talks-about-the-past.jpg",
+  "src640": "/img/parent-talks-about-the-past-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "箱に並んだたくさんのレコード",
+  "artist": "Mr Cup / Fabien Barral iammrcup",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Vinyl_collection_at_a_record_store_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Vinyl_collection_at_a_record_store_%28Unsplash%29.jpg/960px-Vinyl_collection_at_a_record_store_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Vinyl_collection_at_a_record_store_%28Unsplash%29.jpg/500px-Vinyl_collection_at_a_record_store_%28Unsplash%29.jpg",
+  "og": "https://oya.seadice.win/img/parent-talks-about-the-past.jpg",
+  "local": true
  }
 }
