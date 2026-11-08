@@ -89,7 +89,8 @@
    "label": "記事",
    "cells": {
     "use": [
-     "neuro-marketing-article"
+     "neuro-marketing-article",
+     "rhyme-as-reason"
     ],
     "how": [
      "make-it-memorable"
@@ -146,7 +147,9 @@
      "male-brain-female-brain",
      "golden-ratio-design",
      "ad-baby-gaze-model",
-     "social-proof-norms"
+     "social-proof-norms",
+     "talk-to-right-ear",
+     "mirror-watching-eyes"
     ],
     "unknown": [
      "nudge-really-works"
