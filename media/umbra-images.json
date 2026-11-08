@@ -2704,5 +2704,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cups_Of_Coffee_On_Wooden_Table_In_Front_Of_Beach_%2831385679547%29.jpg/500px-Cups_Of_Coffee_On_Wooden_Table_In_Front_Of_Beach_%2831385679547%29.jpg",
   "og": "https://umbra.seadice.win/img/eye-contact-how-long-to-look-research.jpg",
   "local": true
+ },
+ "social-anxiety-dating-initiation-research": {
+  "file": "File:Coffee machine sits on a wooden table with a blue coffee capsule near a clear glass cup.jpg",
+  "src": "/img/social-anxiety-dating-initiation-research.jpg",
+  "src640": "/img/social-anxiety-dating-initiation-research-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "窓際のテーブルに置かれたコーヒーカップ",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Coffee_machine_sits_on_a_wooden_table_with_a_blue_coffee_capsule_near_a_clear_glass_cup.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Coffee_machine_sits_on_a_wooden_table_with_a_blue_coffee_capsule_near_a_clear_glass_cup.jpg/960px-Coffee_machine_sits_on_a_wooden_table_with_a_blue_coffee_capsule_near_a_clear_glass_cup.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Coffee_machine_sits_on_a_wooden_table_with_a_blue_coffee_capsule_near_a_clear_glass_cup.jpg/500px-Coffee_machine_sits_on_a_wooden_table_with_a_blue_coffee_capsule_near_a_clear_glass_cup.jpg",
+  "og": "https://umbra.seadice.win/img/social-anxiety-dating-initiation-research.jpg",
+  "local": true
  }
 }
