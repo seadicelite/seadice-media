@@ -44,16 +44,21 @@
    "cells": {
     "use": [
      "neuro-marketing-app",
-     "app-store-reviews"
+     "app-store-reviews",
+     "session-ending"
     ],
     "how": [
-     "app-notifications"
+     "app-notifications",
+     "app-customization"
     ],
     "myth": [
      "gamification-works"
     ],
     "num": [
      "loading-wait-screen"
+    ],
+    "dark": [
+     "account-required"
     ]
    }
   },
@@ -97,6 +102,9 @@
     ],
     "dark": [
      "dark-patterns-line"
+    ],
+    "how": [
+     "free-trial-card"
     ]
    }
   },
