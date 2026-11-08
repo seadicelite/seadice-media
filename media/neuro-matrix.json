@@ -53,13 +53,19 @@
    "cells": {
     "use": [
      "neuro-marketing-web",
-     "website-beauty"
+     "website-beauty",
+     "web-navigation"
     ],
     "how": [
-     "website-trust"
+     "website-trust",
+     "web-form-usability"
     ],
     "num": [
-     "website-readability"
+     "website-readability",
+     "banner-blindness-motion"
+    ],
+    "myth": [
+     "dark-mode-readability"
     ]
    }
   },
