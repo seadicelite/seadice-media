@@ -2669,22 +2669,22 @@
   "og": "https://umbra.seadice.win/img/engagement-ring-commitment-signal-research.jpg",
   "local": true
  },
- "honest-confession-lie-to-partner-research": {
-  "file": "File:Cake and coffee.jpg",
-  "src": "/img/honest-confession-lie-to-partner-research.jpg",
-  "src640": "/img/honest-confession-lie-to-partner-research-sm.jpg",
+ "shared-laughter-romantic-partner-friend-research": {
+  "file": "File:Japanese senior high school student.jpg",
+  "src": "/img/shared-laughter-romantic-partner-friend-research.jpg",
+  "src640": "/img/shared-laughter-romantic-partner-friend-research-sm.jpg",
   "w": 960,
-  "h": 708,
-  "alt": "テーブルに並んだ2杯のカフェラテとケーキ",
-  "artist": "TGar21",
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "page": "https://commons.wikimedia.org/wiki/File:Cake_and_coffee.jpg",
+  "h": 640,
+  "alt": "いっしょに笑う友人たち",
+  "artist": "MIKI Yoshihito from Sapporo City, Hokkaido, Japan",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Japanese_senior_high_school_student.jpg",
   "source_label": "Wikimedia Commons",
   "unconverted": true,
-  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cake_and_coffee.jpg/960px-Cake_and_coffee.jpg",
-  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cake_and_coffee.jpg/500px-Cake_and_coffee.jpg",
-  "og": "https://umbra.seadice.win/img/honest-confession-lie-to-partner-research.jpg",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Japanese_senior_high_school_student.jpg/960px-Japanese_senior_high_school_student.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Japanese_senior_high_school_student.jpg/500px-Japanese_senior_high_school_student.jpg",
+  "og": "https://umbra.seadice.win/img/shared-laughter-romantic-partner-friend-research.jpg",
   "local": true
  }
 }
