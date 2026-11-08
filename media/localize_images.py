@@ -35,7 +35,7 @@ def save_webp(im, path, max_w):
     im = im.copy()
     if im.width > max_w:
         im = im.resize((max_w, round(im.height * max_w / im.width)), Image.LANCZOS)
-    im.save(path, "WEBP", quality=80, method=6)
+    im.save(path, "WEBP", quality=68, method=6)  # 80→68: 見た目はほぼ同じで約2割軽い（2026-11-08、サーバー代と読み込みのため）
     return im.width, im.height
 
 
@@ -44,7 +44,7 @@ def save_jpeg_og(im, path):
     im = im.copy()
     if im.width > 1200:
         im = im.resize((1200, round(im.height * 1200 / im.width)), Image.LANCZOS)
-    im.save(path, "JPEG", quality=82, optimize=True, progressive=True)
+    im.save(path, "JPEG", quality=75, optimize=True, progressive=True)
 
 
 def main(media):
