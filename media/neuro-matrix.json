@@ -43,7 +43,17 @@
    "label": "アプリ",
    "cells": {
     "use": [
-     "neuro-marketing-app"
+     "neuro-marketing-app",
+     "app-store-reviews"
+    ],
+    "how": [
+     "app-notifications"
+    ],
+    "myth": [
+     "gamification-works"
+    ],
+    "num": [
+     "loading-wait-screen"
     ]
    }
   },
