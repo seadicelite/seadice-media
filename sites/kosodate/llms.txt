@@ -53,7 +53,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [子どもの字が汚い。タブレットで書く練習でも大丈夫？文字を覚える時期は紙と鉛筆に分があった](https://kosodate.seadice.win/handwriting-messy-tablet-vs-pencil/): 年長児の実験では、紙と鉛筆で練習した子の方が画面のキーボードより文字を見分ける力が伸びた。字の読みやすさや速さも練習で伸ばせる。
 - [宿題にAIを使わせると考える力は落ちる？研究でわかった使い方の分かれ道](https://kosodate.seadice.win/homework-ai-thinking-skills/): 答えを写す使い方は成績が下がり、ヒントとして使うと下がりにくい。分かれ道は使い方です。
 - [宿題中に動画やスマホを見る「ながら勉強」、学力への影響は？研究で確認](https://kosodate.seadice.win/homework-media-multitasking/): 宿題をしながら動画やスマホを見る「ながら勉強」。学力への影響を研究データから確認し、家庭でできる工夫を紹介します。
-- [小学生が宿題を後回しにする。先延ばしは性格だけで決まらない。見張るより「いつ・どこで」を一緒に決める](https://kosodate.seadice.win/homework-procrastination-elementary/): 先延ばしは課題の嫌さや自信と強く関連。親の手伝いは回数より質で、押しつけは逆効果の傾向。「いつ・どこで」の計画が助けに。
+- [小学生が宿題を後回しにする。先延ばしは性格だけで決まらない。見張るより「いつ・どこで」を一緒に決める](https://kosodate.seadice.win/homework-procrastination-elementary/): 先延ばしは課題の嫌さや自信と強く関連（大人の研究）。親の手伝いは回数より質で、押しつけはマイナスと関連。「もし〜なら」と決める計画が助けに。
 - [小学生が漢字や言葉を覚えられない。見ながら写すより「隠して思い出す」が残りやすい？](https://kosodate.seadice.win/kanji-memorize-retrieval-practice/): 小学生の実験では、見直すより見本を隠して思い出す練習の方が1週間後も多く覚えていた。漢字での比較は少なく、ヒントと答え合わせが鍵。
 - [SNSの時間が増えると、読み書きや記憶力はどう変わる？数年間追跡した調査でわかったこと](https://kosodate.seadice.win/social-media-cognitive-performance-decline/): 9〜10歳の子を2年間追跡した調査で、SNSを使う時間が増えた子ほどテストの点数が低い関連がありました。
 - [中学生が勉強中に音楽を聴いている。歌詞のある曲ほど読む勉強のじゃまになりやすい](https://kosodate.seadice.win/study-music-lyrics-concentration/): 65本の研究をまとめた分析では、音楽は読解をわずかに下げ、歌詞のある曲ほど影響が大きめ。子どもと大人で差はなかった。
@@ -72,7 +72,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [子どものゲームがやめられない。「ゲーム障害」とはどんな状態？](https://kosodate.seadice.win/gaming-disorder-children-research/): 障害と呼べるのはごく一部で、プレイ時間の長さではなく生活への支障が12か月続くかが目安です。
 - [中学生の反抗期、スマホ制限にどう向き合う？一方的なルールが逆効果になりやすい理由](https://kosodate.seadice.win/junior-high-smartphone-rules-rebellion/): 年齢が上がるほど一方的な制限が逆効果になりやすいと、複数の研究でわかってきました。
 - [子どものスマホ・動画は何時間まで？年齢別の目安をWHOと研究で整理](https://kosodate.seadice.win/kids-screen-time-hours/): 2〜4歳は1日1時間まで、1歳以下はなし（WHO）。小学生以上は寝る前に使わないことが大切です。
-- [不登校の子のスマホ・ゲームは取り上げるべき？ゲームがきっかけの子は2割弱。決めるなら子どもと一緒に](https://kosodate.seadice.win/school-refusal-games-smartphone-taking-away/): 休んでいる間にゲームや動画をする子は8割以上、きっかけに挙げた子は2割弱。押しつけるルールより一緒に決める方が望ましい傾向。
+- [不登校の子のスマホ・ゲームは取り上げるべき？ゲームがきっかけの子は2割弱。決めるなら子どもと一緒に](https://kosodate.seadice.win/school-refusal-games-smartphone-taking-away/): 休んでいる間にゲームや動画をする子は8割以上、きっかけに挙げた子は2割弱。押しつけるルールは反抗やゲームの問題の多さと関連する傾向。
 - [長時間のスクリーンタイムはADHD症状と関係ある？](https://kosodate.seadice.win/screen-time-adhd-symptoms-risk/): 台湾24,200組・中国41,494人の大規模調査で関連がみられ、原因と結果の向きはまだわかっていません。
 - [乳幼児のスマホ・動画の時間、言葉の発達に影響する？](https://kosodate.seadice.win/screen-time-language-development-toddler/): スクリーン時間全体は言語スキルの低さと関連していましたが、教育的な内容や親子で一緒に見ることは逆の関連を示しました。
 - [子どものスマホ・動画の時間と近視の関係。目を守るためにできること](https://kosodate.seadice.win/screen-time-myopia-eyesight/): 近くで見る時間が長い子は近視のオッズが高く、1日1〜2時間以上の屋外活動が近視を防ぐ方向に働くと研究でわかっています。
