@@ -90,6 +90,12 @@
    "cells": {
     "use": [
      "neuro-marketing-article"
+    ],
+    "how": [
+     "make-it-memorable"
+    ],
+    "myth": [
+     "percent-or-people"
     ]
    }
   },
@@ -117,6 +123,9 @@
     ],
     "myth": [
      "streak-really-works"
+    ],
+    "how": [
+     "endowed-progress-start"
     ]
    }
   },
@@ -130,6 +139,9 @@
      "male-brain-female-brain",
      "golden-ratio-design",
      "ad-baby-gaze-model"
+    ],
+    "unknown": [
+     "nudge-really-works"
     ]
    }
   }
