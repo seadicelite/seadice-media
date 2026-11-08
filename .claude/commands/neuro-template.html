@@ -28,7 +28,8 @@
   <div class="body">
     <!-- 導入: 作り手が「へえ」と思う研究の結果か、よく聞く説から。2〜3文 -->
     <p class="lead">{{導入}}</p>
-    <div class="summary"><h2>3行でわかる</h2><ol><li>{{結論1}}</li><li>{{結論2}}</li><li>{{結論3}}</li></ol></div>
+    <!-- 要点はアイコン付き（.pts）。1項目＝アイコン＋太字15字以内＋補足40字以内。アイコン名は media/icons.py の ICONS。同じ意味には同じアイコン -->
+    <div class="summary"><h2>3行でわかる</h2><ul class="pts"><li><i data-ic="{{アイコン}}"></i><div><b>{{結論1の見出し}}</b><span>{{補足}}</span></div></li></ul></div>
     <p class="note">AIが論文（メタ分析を優先）を調べ、出典と照らし合わせました。確かさ: <strong>A 確か</strong>／<strong>B 条件しだい</strong>（<a href="/about/">基準</a>）</p>
 
     <h2 class="sec"><span class="n">01 使える原則</span>{{この節が答える質問（30字以内）}}</h2>
