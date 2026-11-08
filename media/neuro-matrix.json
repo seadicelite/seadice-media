@@ -68,12 +68,26 @@
   {
    "id": "price",
    "label": "値段と課金",
-   "cells": {}
+   "cells": {
+    "use": [
+     "neuro-pricing-principles"
+    ],
+    "dark": [
+     "dark-patterns-line"
+    ]
+   }
   },
   {
    "id": "habit",
    "label": "続ける",
-   "cells": {}
+   "cells": {
+    "use": [
+     "neuro-habit-principles"
+    ],
+    "myth": [
+     "streak-really-works"
+    ]
+   }
   },
   {
    "id": "myth",
