@@ -88,7 +88,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [子どもがAIを友達みたいに話し相手にしている。依存や孤独は心配ない？](https://kosodate.seadice.win/ai-companion-loneliness/): 子ども対象の研究はまだ少なく、孤独が和らぐ報告も深まる懸念も両方あるのが実情です。
 - [いじめられた経験は大人になっても影響する？長く追った研究と、親が家でできる支え](https://kosodate.seadice.win/bullying-long-term-effects-parent-support/): 子どものころのいじめは18歳や20代の不安・うつと関連。一方で薄れる影響もある。話せる家にするための関わり方を研究で整理
 - [子どもに友だちが少ない。ひとりでいるのが好きな子は心配？数より「親しい関係」を見る理由](https://kosodate.seadice.win/child-few-friends-alone/): 233研究のメタ分析では友だちの数と気分の関連は小さめ。10年追った研究では人気より親しい友だちとの関係の深さが大人の心の健康と関連。
-- [子どもが友だちとうまくいかない。親はどこまで口を出す？相手を悪く言うより、話を聞いて一緒に考える](https://kosodate.seadice.win/child-friend-trouble-parent-intervene/): 友だち同士のけんかは仲直りしやすく、親の助言や遊ぶ機会は1年後の友だち関係と関連。友だちを否定すると友情が終わりやすい傾向。
+- [子どもが友だちとうまくいかない。親はどこまで口を出す？相手を悪く言うより、話を聞いて一緒に考える](https://kosodate.seadice.win/child-friend-trouble-parent-intervene/): 友だち同士のけんかは穏やかで、後も遊び続けやすい。親の助言や遊ぶ機会は1年後の友だち関係と関連。母親が友だちを良く思わないと子どもが感じると友情が終わりやすい傾向。
 - [子どもが学校のことを話さない。聞き方と、話した後の親の反応を研究で見る](https://kosodate.seadice.win/child-not-talking-about-school/): 親が知る子どもの様子の多くは、子どもが自分から話した内容。話した後に責めると隠しごとが増える関連も。小学生は責めずに聞くのが鍵。
 - [子どもが嘘をつくようになった。何歳からどんな嘘をつく？](https://kosodate.seadice.win/children-lying-development-age/): 子どもが嘘をつき始めると、発達に問題があるのではと心配になる親もいます。研究データで紹介します。
 - [0歳・1歳から保育園はかわいそう？約4万人の日本の追跡では、3歳時点の発達に遅れは見られなかった](https://kosodate.seadice.win/daycare-age-0-1-child-development/): 1歳までに通い始めた子は3歳で言葉などのめやすを下回る割合が低めでした。長時間保育の影響は小さく、行動の小さな差も。保育の質と家での関わりを整理。
