@@ -52,7 +52,14 @@
    "label": "ウェブサイト",
    "cells": {
     "use": [
-     "neuro-marketing-web"
+     "neuro-marketing-web",
+     "website-beauty"
+    ],
+    "how": [
+     "website-trust"
+    ],
+    "num": [
+     "website-readability"
     ]
    }
   },
