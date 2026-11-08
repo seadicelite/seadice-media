@@ -2686,5 +2686,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Japanese_senior_high_school_student.jpg/500px-Japanese_senior_high_school_student.jpg",
   "og": "https://umbra.seadice.win/img/shared-laughter-romantic-partner-friend-research.jpg",
   "local": true
+ },
+ "eye-contact-how-long-to-look-research": {
+  "file": "File:Cups Of Coffee On Wooden Table In Front Of Beach (31385679547).jpg",
+  "src": "/img/eye-contact-how-long-to-look-research.jpg",
+  "src640": "/img/eye-contact-how-long-to-look-research-sm.jpg",
+  "w": 960,
+  "h": 710,
+  "alt": "港を望むテーブルに置かれた2つのコーヒーカップ",
+  "artist": "Jernej Furman from Slovenia",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cups_Of_Coffee_On_Wooden_Table_In_Front_Of_Beach_(31385679547).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cups_Of_Coffee_On_Wooden_Table_In_Front_Of_Beach_%2831385679547%29.jpg/960px-Cups_Of_Coffee_On_Wooden_Table_In_Front_Of_Beach_%2831385679547%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cups_Of_Coffee_On_Wooden_Table_In_Front_Of_Beach_%2831385679547%29.jpg/500px-Cups_Of_Coffee_On_Wooden_Table_In_Front_Of_Beach_%2831385679547%29.jpg",
+  "og": "https://umbra.seadice.win/img/eye-contact-how-long-to-look-research.jpg",
+  "local": true
  }
 }
