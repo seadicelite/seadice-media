@@ -1,4 +1,6 @@
 {
+ "readCheck": true,
+ "sideIndex": true,
  "enabled": true,
  "publish": "auto",
  "slug": "bohan",

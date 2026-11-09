@@ -1,5 +1,6 @@
 """読んだ記事のチェック（設定 "readCheck": true のメディアだけ）。build.py の最後に毎回呼ばれ、冪等に次を入れる。
- - 記事: 関連記事の上に「読んだ記事にする」ボタン（押し直すと取り消し）と「全N本のうちM本読んだ」
+ - 記事: 関連記事の上に「読んだ記事にする」「もう一度読みたい」ボタン（押し直すと取り消し）と「全N本のうちM本読んだ」。
+   もう一度読みたいはキー {slug}-again。左の記事一覧（sidenav.py）で絞り込める
  - トップ・カテゴリ: 読んだ記事のカードに「読んだ」の札、見出しの下に読んだ本数
  - 道具: media/{slug}-matrix.json で道具のURLが入っている行の記事を「この道具とつながる記事」として並べ、読んだ本数と次に読む記事を出す
  - どのページでも、本文中の読んだ記事へのリンクに小さく「読んだ」を付ける
@@ -15,7 +16,8 @@ CARD, LINE = "var(--card,var(--panel,#121926))", "var(--border,var(--line,#26324
 CSS = (f".rc{{margin:40px 0 0;padding:18px;background:{CARD};border:1px solid {LINE};border-radius:8px;text-align:center}}"
        ".rc-b{font:inherit;font-size:15px;font-weight:700;min-height:48px;padding:10px 22px;border-radius:8px;cursor:pointer;"
        "background:var(--accent);color:var(--bg);border:1px solid var(--accent)}"
-       ".rc-b[aria-pressed=true]{background:transparent;color:var(--accent)}"
+       ".rc-b{background:transparent;color:var(--accent)}.rc-b[aria-pressed=true]{background:var(--accent);color:var(--bg)}"
+       ".rc-bs{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}"
        ".rc-n{font-size:13px;color:var(--muted);margin:10px 0 0;line-height:1.6}"
        ".rc-prog{font-size:13px;color:var(--muted);margin:0 0 18px}.rc-prog b{color:var(--accent)}"
        ".rc-done{position:relative}.rc-done::after{content:\"読んだ\";position:absolute;top:8px;right:8px;z-index:2;font-size:12px;font-weight:700;"
@@ -36,14 +38,19 @@ _MARK = ("function rcMark(){[].forEach.call(document.querySelectorAll('a[href]')
          "a.classList.add(a.matches('a.card,a.feat,a.srow,a.dp')?'rc-done':'rc-in')})}rcMark();")
 
 
-def _article_block(key, slug, total):
-    js = (_LOAD % key + _MARK + f"var S='{slug}',T={total},b=document.getElementById('rc-b'),n=document.getElementById('rc-n');"
-          "function c(){return Object.keys(R).length}"
-          "function show(){var on=!!R[S];b.setAttribute('aria-pressed',on);b.textContent=on?'読んだ（押すと取り消し）':'読んだ記事にする';"
-          "n.textContent=c()?'全'+T+'本のうち '+c()+'本 読みました。記録はこの端末のブラウザにだけ残ります。':'押すと、トップの一覧や道具のページに「読んだ」と出ます。記録はこの端末のブラウザにだけ残ります。'}"
-          "b.onclick=function(){if(R[S])delete R[S];else R[S]=new Date().toISOString().slice(0,10);"
-          "try{localStorage.setItem(K,JSON.stringify(R))}catch(e){n.textContent='このブラウザでは保存できません（プライベートブラウズなど）。';return}show()};show()")
-    return (f'<!--readcheck--><div class="rc"><button type="button" class="rc-b" id="rc-b" aria-pressed="false">読んだ記事にする</button>'
+def _article_block(key, slug, total, side):
+    where = "左下の「記事一覧」に" if side else "トップの一覧に"
+    js = (_LOAD % key + _MARK + f"var S='{slug}',T={total},b=document.getElementById('rc-b'),a=document.getElementById('rc-a'),n=document.getElementById('rc-n'),A={{}};"
+          "try{A=JSON.parse(localStorage.getItem(K.replace(/-read$/,'-again'))||'{}')||{}}catch(e){}"
+          "function c(){return Math.min(Object.keys(R).length,T)}"
+          "function show(){var on=!!R[S],ag=!!A[S];b.setAttribute('aria-pressed',on);b.textContent=on?'読んだ（押すと取り消し）':'読んだ記事にする';"
+          "a.setAttribute('aria-pressed',ag);a.textContent=ag?'もう一度読みたい（押すと取り消し）':'もう一度読みたい';"
+          f"n.textContent=(c()?'全'+T+'本のうち '+c()+'本 読みました。':'押すと、{where}印が付きます。')+'記録はこの端末のブラウザにだけ残ります。'}}"
+          "function tg(O,k){var F;try{F=JSON.parse(localStorage.getItem(k)||'{}')||{}}catch(e){F={}}for(var x in O)delete O[x];for(x in F)O[x]=F[x];if(O[S])delete O[S];else O[S]=new Date().toISOString().slice(0,10);"
+          "try{localStorage.setItem(k,JSON.stringify(O))}catch(e){n.textContent='このブラウザでは保存できません（プライベートブラウズなど）。';return}show()}"
+          "b.onclick=function(){tg(R,K)};a.onclick=function(){tg(A,K.replace(/-read$/,'-again'))};show()")
+    return (f'<!--readcheck--><div class="rc"><div class="rc-bs"><button type="button" class="rc-b" id="rc-b" aria-pressed="false">読んだ記事にする</button>'
+            f'<button type="button" class="rc-b rc-a" id="rc-a" aria-pressed="false">もう一度読みたい</button></div>'
             f'<p class="rc-n" id="rc-n" aria-live="polite"></p></div><script>(function(){{{js}}})()</script><!--/readcheck-->')
 
 
@@ -112,7 +119,7 @@ def apply(cfg, posts):
         f = base / p["slug"] / "index.html"
         if not f.exists():
             continue
-        s = _sub(f.read_text(), _article_block(key, p["slug"], total), ["<!--related-->", '<div class="sources">'])
+        s = _sub(f.read_text(), _article_block(key, p["slug"], total, cfg.get("sideIndex")), ["<!--related-->", '<div class="sources">'])
         f.write_text(_put_css(s))
         n += 1
     # トップとカテゴリは毎回作り直されるので、そのつど差し込む

@@ -10,6 +10,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -60,6 +69,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -112,6 +130,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -163,6 +190,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -213,6 +249,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -277,6 +322,15 @@
       ],
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -327,6 +381,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -379,6 +442,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -430,6 +502,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -480,6 +561,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -577,6 +667,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -627,6 +726,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -685,6 +793,15 @@
       ],
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -704,6 +821,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -756,6 +882,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -806,6 +941,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -858,6 +1002,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -908,6 +1061,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -960,6 +1122,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -1010,6 +1181,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -1062,6 +1242,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -1112,6 +1301,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -1164,6 +1362,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -1215,6 +1422,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -1265,6 +1481,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -1329,6 +1554,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -1379,6 +1613,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [

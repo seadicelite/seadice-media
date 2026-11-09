@@ -1,5 +1,6 @@
 {
-  "enabled": true,
+  "sideIndex": true,
+ "enabled": true,
   "readCheck": true,
   "publish": "auto",
   "slug": "uchu",

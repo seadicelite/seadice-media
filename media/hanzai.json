@@ -1,5 +1,7 @@
 {
-  "enabled": true,
+  "readCheck": true,
+ "sideIndex": true,
+ "enabled": true,
   "publish": "auto",
   "slug": "hanzai",
   "siteType": "article",

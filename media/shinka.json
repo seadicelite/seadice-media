@@ -1,5 +1,6 @@
 {
-  "enabled": false,
+  "sideIndex": true,
+ "enabled": false,
   "readCheck": true,
   "publish": "auto",
   "slug": "shinka",
