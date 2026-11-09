@@ -1058,5 +1058,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Vinyl_collection_at_a_record_store_%28Unsplash%29.jpg/500px-Vinyl_collection_at_a_record_store_%28Unsplash%29.jpg",
   "og": "https://oya.seadice.win/img/parent-talks-about-the-past.jpg",
   "local": true
+ },
+ "parent-care-short-stay-respite": {
+  "file": "File:DSC 7517 Crisp white towels neatly rolled on a freshly made bed with patterned cushions and a colorful tiled headboard in the background.jpg",
+  "src": "/img/parent-care-short-stay-respite.jpg",
+  "src640": "/img/parent-care-short-stay-respite-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "整えられたベッドの上に丸めた白いタオル",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DSC_7517_Crisp_white_towels_neatly_rolled_on_a_freshly_made_bed_with_patterned_cushions_and_a_colorful_tiled_headboard_in_the_background.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/DSC_7517_Crisp_white_towels_neatly_rolled_on_a_freshly_made_bed_with_patterned_cushions_and_a_colorful_tiled_headboard_in_the_background.jpg/960px-DSC_7517_Crisp_white_towels_neatly_rolled_on_a_freshly_made_bed_with_patterned_cushions_and_a_colorful_tiled_headboard_in_the_background.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/DSC_7517_Crisp_white_towels_neatly_rolled_on_a_freshly_made_bed_with_patterned_cushions_and_a_colorful_tiled_headboard_in_the_background.jpg/500px-DSC_7517_Crisp_white_towels_neatly_rolled_on_a_freshly_made_bed_with_patterned_cushions_and_a_colorful_tiled_headboard_in_the_background.jpg",
+  "og": "https://oya.seadice.win/img/parent-care-short-stay-respite.jpg",
+  "local": true
  }
 }
