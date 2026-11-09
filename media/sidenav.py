@@ -13,7 +13,7 @@ E = html.escape
 CSS = (".sn-b{position:fixed;z-index:900;left:12px;bottom:calc(12px + env(safe-area-inset-bottom));display:flex;align-items:center;gap:6px;"
        "min-height:48px;padding:0 16px;font:inherit;font-size:14px;font-weight:700;color:var(--text,#E6EAF2);background:var(--card,var(--panel,#121926));"
        "border:1px solid var(--border,var(--line,#26324A));border-radius:8px;cursor:pointer}"
-       "@media(max-width:959px){body::after{content:"";display:block;height:76px}}"
+       "@media(max-width:959px){.sn-b{padding:0 14px}.sn-bl,.sn-b small{display:none}body::after{content:"";display:block;height:76px}}"
        ".sn-b[hidden]{display:none}.sn-b:hover,.sn-b[aria-expanded=true]{border-color:var(--accent,#7FB2FF)}.sn-b small{font-size:12px;font-weight:400;color:var(--muted,#9AA4B5)}"
        ".sn-b svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round}"
        ".sn-p{position:fixed;z-index:1000;left:0;top:0;bottom:0;width:min(360px,88vw);display:flex;flex-direction:column;"
@@ -25,7 +25,7 @@ CSS = (".sn-b{position:fixed;z-index:900;left:12px;bottom:calc(12px + env(safe-a
        "border:1px solid var(--border,var(--line,#26324A));border-radius:8px}.sn-q::placeholder{color:var(--muted,#9AA4B5);opacity:1}.sn-q:focus{outline:2px solid var(--accent,#7FB2FF);outline-offset:1px}"
        ".sn-l{flex:1;overflow-y:auto;overscroll-behavior:contain;padding:0 16px 16px}"
        "/* 記事ページの FAQ（details・summary）の見た目を一覧の中では打ち消す */"
-       ".sn-l details{margin:0;padding:0;background:none;border:0;border-top:1px solid var(--border,var(--line,#26324A));border-radius:0!important}"
+       ".sn-l details{margin:0 0 4px;padding:0;background:none;border:0;border-radius:0!important}"
        ".sn-l summary::before{content:none}.sn-l summary{display:flex;align-items:center;gap:8px;min-height:48px;padding:0;"
        "font-size:15px;font-weight:700;color:var(--text,#E6EAF2);cursor:pointer;list-style:none}.sn-l summary::-webkit-details-marker{display:none}"
        ".sn-l summary i{width:10px;height:10px;border-radius:50%;flex:0 0 10px}.sn-l summary small{margin-left:auto;font-size:12px;font-weight:400;color:var(--muted,#9AA4B5)}"
@@ -75,7 +75,7 @@ JS = ("var K=document.getElementById('sn-p').getAttribute('data-k'),b=document.g
       "function here(){var a=l.querySelector('[aria-current]');if(a&&!p.hidden&&a.offsetParent)l.scrollTop=a.offsetTop-l.offsetTop-l.clientHeight/2}"
       "function load(){if(ld)return;ld=1;fetch('/nav.json').then(function(r){return r.json()}).then(function(j){D=j;draw()})"
       ".catch(function(){ld=0;l.innerHTML='<p class=\"sn-m\">一覧を読み込めませんでした。通信を確かめて、もう一度開いてください。</p>'})}"
-      "function open(f){clearTimeout(t);load();p.hidden=false;b.setAttribute('aria-expanded','true');if(!hv.matches){o.hidden=false;document.documentElement.style.overflow='hidden'}if(D)draw();if(f)q.focus({preventScroll:true})}"
+      "function open(f){clearTimeout(t);load();p.hidden=false;b.setAttribute('aria-expanded','true');if(!hv.matches){o.hidden=false;document.documentElement.style.overflow='hidden'}if(D)draw();if(f&&hv.matches)q.focus({preventScroll:true})}"
       "function close(){clearTimeout(t);pin=0;p.hidden=true;o.hidden=true;b.setAttribute('aria-expanded','false');document.documentElement.style.overflow=''}"
       "b.onclick=function(){if(!p.hidden&&pin){close();b.focus()}else{pin=1;open(1)}};"
       ""
@@ -103,8 +103,8 @@ def _block(has_map, key, hint, css, js):
     # 下の欄はマインドマップがあるメディアだけ（スマホで記事名の場所を狭めないため。保存の説明は免責事項と記事末尾にある）
     foot = '<p class="sn-f"><a href="/map/">問いからたどる（マインドマップ）</a></p>' if has_map else ''
     return (f'<!--sidenav--><link rel="stylesheet" href="/{css}">'
-            f'<button type="button" class="sn-b" id="sn-b" aria-expanded="false" aria-controls="sn-p" hidden>'
-            f'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg>記事一覧<small id="sn-c"></small></button>'
+            f'<button type="button" class="sn-b" id="sn-b" aria-expanded="false" aria-controls="sn-p" aria-label="記事一覧" hidden>'
+            f'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg><span class="sn-bl">記事</span>一覧<small id="sn-c"></small></button>'
             f'<div class="sn-o" id="sn-o" hidden></div>'
             f'<div class="sn-p" id="sn-p" data-k="{key}" role="navigation" aria-label="記事一覧" hidden><div class="sn-h"><b>記事一覧<small id="sn-tt"></small></b>'
             f'<button type="button" class="sn-x" id="sn-x">閉じる</button></div>'
