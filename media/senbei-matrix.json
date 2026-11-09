@@ -127,7 +127,9 @@
         "data": [
           "senbei-salt-content"
         ],
-        "use": []
+        "use": [
+          "senbei-salt-reduction-blind-test"
+        ]
       }
     },
     {

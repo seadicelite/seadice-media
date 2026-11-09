@@ -827,5 +827,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bowl_of_white_sugar.jpg/500px-Bowl_of_white_sugar.jpg",
   "og": "https://senbei.seadice.win/img/sweet-soy-sauce-saltiness.jpg",
   "local": true
+ },
+ "senbei-salt-reduction-blind-test": {
+  "file": "File:Tin Loaf - one slash in the crust.jpg",
+  "src": "/img/senbei-salt-reduction-blind-test.jpg",
+  "src640": "/img/senbei-salt-reduction-blind-test-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "半分を切り分けた型焼きの食パン",
+  "artist": "Mike Finn",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tin_Loaf_-_one_slash_in_the_crust.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tin_Loaf_-_one_slash_in_the_crust.jpg/960px-Tin_Loaf_-_one_slash_in_the_crust.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tin_Loaf_-_one_slash_in_the_crust.jpg/500px-Tin_Loaf_-_one_slash_in_the_crust.jpg",
+  "og": "https://senbei.seadice.win/img/senbei-salt-reduction-blind-test.jpg",
+  "local": true
  }
 }
