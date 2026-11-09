@@ -273,7 +273,8 @@
      "debt-repayment-small-victories"
     ],
     "use": [
-     "https://ledger.seadice.win/ribo-keisan/"
+     "https://ledger.seadice.win/ribo-keisan/",
+     "debt-repayment-balance-rate-comparison-table"
     ]
    }
   },
