@@ -300,7 +300,8 @@
      "fake-shopping-site-checklist",
      "ai-written-phishing-email",
      "qr-code-phishing-sticker",
-     "crypto-transfer-scam-signs"
+     "crypto-transfer-scam-signs",
+     "fake-ai-chatbot-app"
     ],
     "after": [
      "scam-victim-payment-recovery-steps",

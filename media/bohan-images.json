@@ -1511,5 +1511,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Empty_Keflavik_Airport_%28221071677%29.jpeg/500px-Empty_Keflavik_Airport_%28221071677%29.jpeg",
   "og": "https://bohan.seadice.win/img/sexual-assault-victim-support-center.jpg",
   "local": true
+ },
+ "fake-ai-chatbot-app": {
+  "file": "File:Smartphone Apps Banner for WikiVoyage.jpg",
+  "src": "/img/fake-ai-chatbot-app.jpg",
+  "src640": "/img/fake-ai-chatbot-app-sm.jpg",
+  "w": 960,
+  "h": 137,
+  "alt": "スマートフォンのアプリの画面",
+  "artist": "Zcarstvnz Note the uploaders/authors listed above.",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Smartphone_Apps_Banner_for_WikiVoyage.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Smartphone_Apps_Banner_for_WikiVoyage.jpg/960px-Smartphone_Apps_Banner_for_WikiVoyage.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Smartphone_Apps_Banner_for_WikiVoyage.jpg/500px-Smartphone_Apps_Banner_for_WikiVoyage.jpg",
+  "og": "https://bohan.seadice.win/img/fake-ai-chatbot-app.jpg",
+  "local": true
  }
 }
