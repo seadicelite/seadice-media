@@ -52,11 +52,13 @@
      "app-notifications",
      "app-customization",
      "app-store-downloads",
-     "app-icon-design"
+     "app-icon-design",
+     "grow-without-competing"
     ],
     "myth": [
      "gamification-works",
-     "ios-or-android"
+     "ios-or-android",
+     "beat-competitors-first-mover"
     ],
     "num": [
      "loading-wait-screen"

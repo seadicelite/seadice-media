@@ -831,5 +831,39 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Fork_in_the_path%2C_St_Clements_Road%2C_Keynsham_-_geograph.org.uk_-_5706821.jpg/500px-Fork_in_the_path%2C_St_Clements_Road%2C_Keynsham_-_geograph.org.uk_-_5706821.jpg",
   "og": "https://neuro.seadice.win/img/ios-or-android-og.jpg",
   "local": true
+ },
+ "grow-without-competing": {
+  "file": "File:Horizon of a calm Sulu Sea (wide angle) - Kalmadong dagat ng Sulu.jpg",
+  "src": "/img/grow-without-competing.webp",
+  "src640": "/img/grow-without-competing-sm.webp",
+  "w": 960,
+  "h": 541,
+  "alt": "静かな海と水平線",
+  "artist": "Paul Christian B. Yang-ed",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Horizon_of_a_calm_Sulu_Sea_(wide_angle)_-_Kalmadong_dagat_ng_Sulu.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horizon_of_a_calm_Sulu_Sea_%28wide_angle%29_-_Kalmadong_dagat_ng_Sulu.jpg/960px-Horizon_of_a_calm_Sulu_Sea_%28wide_angle%29_-_Kalmadong_dagat_ng_Sulu.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horizon_of_a_calm_Sulu_Sea_%28wide_angle%29_-_Kalmadong_dagat_ng_Sulu.jpg/500px-Horizon_of_a_calm_Sulu_Sea_%28wide_angle%29_-_Kalmadong_dagat_ng_Sulu.jpg",
+  "og": "https://neuro.seadice.win/img/grow-without-competing-og.jpg",
+  "local": true
+ },
+ "beat-competitors-first-mover": {
+  "file": "https://live.staticflickr.com/65535/51778273806_0ba152a631_b.jpg",
+  "src": "/img/beat-competitors-first-mover.webp",
+  "src640": "/img/beat-competitors-first-mover-sm.webp",
+  "w": 960,
+  "h": 713,
+  "alt": "リボンのついた金メダル",
+  "artist": "conall..",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "page": "https://www.flickr.com/photos/16176711@N02/51778273806",
+  "source_label": "Flickr",
+  "remote": "https://live.staticflickr.com/65535/51778273806_0ba152a631_b.jpg",
+  "remote640": "https://live.staticflickr.com/65535/51778273806_0ba152a631_b.jpg",
+  "og": "https://neuro.seadice.win/img/beat-competitors-first-mover-og.jpg",
+  "local": true
  }
 }
