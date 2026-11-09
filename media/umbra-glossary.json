@@ -1,5 +1,14 @@
 [
  {
+  "id": "couple-identity",
+  "term": "カップル・アイデンティティ（同一化・we-ness）",
+  "en": "Couple identity / we-ness",
+  "def": "恋人同士が「私たちは一つ」と感じる度合いを指す心理学の言葉。一緒に過ごす時間や一体感を測るもので、持ち物や見た目をそろえることとは別の概念。",
+  "slugs": [
+   "couple-identity-matching-items-research"
+  ]
+ },
+ {
   "id": "mhc",
   "term": "MHC（主要組織適合遺伝子複合体）",
   "en": "Major histocompatibility complex",

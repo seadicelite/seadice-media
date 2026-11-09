@@ -2722,5 +2722,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Coffee_machine_sits_on_a_wooden_table_with_a_blue_coffee_capsule_near_a_clear_glass_cup.jpg/500px-Coffee_machine_sits_on_a_wooden_table_with_a_blue_coffee_capsule_near_a_clear_glass_cup.jpg",
   "og": "https://umbra.seadice.win/img/social-anxiety-dating-initiation-research.jpg",
   "local": true
+ },
+ "couple-identity-matching-items-research": {
+  "file": "File:Wyatt Fisher 321.jpg",
+  "src": "/img/couple-identity-matching-items-research.jpg",
+  "src640": "/img/couple-identity-matching-items-research-sm.jpg",
+  "w": 960,
+  "h": 636,
+  "alt": "お揃いの指輪",
+  "artist": "Wyatt Fisher",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Wyatt_Fisher_321.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wyatt_Fisher_321.jpg/960px-Wyatt_Fisher_321.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wyatt_Fisher_321.jpg/500px-Wyatt_Fisher_321.jpg",
+  "og": "https://umbra.seadice.win/img/couple-identity-matching-items-research.jpg",
+  "local": true
  }
 }
