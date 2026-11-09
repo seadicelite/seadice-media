@@ -1342,5 +1342,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Interior_view_of_the_court_room_at_the_Old_Courthouse.jpg/500px-Interior_view_of_the_court_room_at_the_Old_Courthouse.jpg",
   "og": "https://hanzai.seadice.win/img/punishment-just-deserts-vs-deterrence.jpg",
   "local": true
+ },
+ "mentoring-reentry-recidivism": {
+  "file": "File:Park bench John Taylor Park, Largo, Florida 01.JPG",
+  "src": "/img/mentoring-reentry-recidivism.jpg",
+  "src640": "/img/mentoring-reentry-recidivism-sm.jpg",
+  "w": 960,
+  "h": 397,
+  "alt": "公園の誰もいないベンチ",
+  "artist": "Philipp Michel Reichold",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Park_bench_John_Taylor_Park,_Largo,_Florida_01.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Park_bench_John_Taylor_Park%2C_Largo%2C_Florida_01.JPG/960px-Park_bench_John_Taylor_Park%2C_Largo%2C_Florida_01.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Park_bench_John_Taylor_Park%2C_Largo%2C_Florida_01.JPG/500px-Park_bench_John_Taylor_Park%2C_Largo%2C_Florida_01.JPG",
+  "og": "https://hanzai.seadice.win/img/mentoring-reentry-recidivism.jpg",
+  "local": true
  }
 }

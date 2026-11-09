@@ -1,5 +1,13 @@
 [
   {
+    "slug": "mentoring-reentry-recidivism",
+    "category": "刑罰と更生",
+    "type": "guide",
+    "date": "2026-11-09",
+    "title": "寄り添う大人がいると、非行や再犯は減るのか。メンタリング46研究と、善意の支援が裏目に出た実験",
+    "summary": "寄り添う大人の支援は非行を小さいが確かに減らす。効くのは気持ちの支えや代弁で、仲間を集める支援は裏目に出た例もある。"
+  },
+  {
     "slug": "punishment-just-deserts-vs-deterrence",
     "category": "取り調べと冤罪",
     "type": "guide",
