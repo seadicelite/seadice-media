@@ -163,7 +163,8 @@
         "ai-written-feedback-feels-cold-why",
         "ai-job-worry-urge-to-study-why",
         "ai-anxiety-avoid-using-why",
-        "stress-sweets-mood"
+        "stress-sweets-mood",
+        "work-stress-resilience-moments-prevent"
       ]
     },
     {
@@ -258,7 +259,8 @@
         "scent-break-info-fatigue",
         "doodling-meeting-focus",
         "doorway-forget-why-entered-room",
-        "sns-hard-to-quit-fatigue-why"
+        "sns-hard-to-quit-fatigue-why",
+        "phone-time-check-watch-prevent"
       ]
     },
     {
@@ -336,7 +338,8 @@
         "close-friend-post-envy-why",
         "comparison-distraction-rumination",
         "appearance-comparison-body-functionality-recover",
-        "sns-hard-to-quit-fatigue-why"
+        "sns-hard-to-quit-fatigue-why",
+        "other-kids-comparison-parent-prevent"
       ]
     },
     {
@@ -420,7 +423,8 @@
         "online-time-loneliness-prevent",
         "conversation-ending-timing-why",
         "loneliness-warm-bath",
-        "reply-delay-body-arousal-why"
+        "reply-delay-body-arousal-why",
+        "exercise-loneliness-recover"
       ]
     },
     {
@@ -503,7 +507,9 @@
         "ai-consult-validate-then-question",
         "ai-anxiety-avoid-using-why",
         "ai-instant-answers-curiosity-recover",
-        "ai-reliance-guilt-self-blame-recover"
+        "ai-reliance-guilt-self-blame-recover",
+        "low-self-esteem-ai-chat-why",
+        "ai-demanding-tone-spillover-prevent"
       ]
     }
   ]
