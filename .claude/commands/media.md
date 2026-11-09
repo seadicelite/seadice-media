@@ -44,4 +44,4 @@ SEADICEは「読むメディア」から「使えるツールメディア」へ�
 
 ## 新しいメディアを増やすとき
 
-`media/{新slug}.json` を `research.json` と同じ形で作るだけ（`siteType` を必ず書く）。`template` `rulesFrom` は共有してよい（見た目やルールを変えたいときだけ別ファイルにする）。新しいテンプレート(`{新slug}-template.html`)を作る場合は、`docs/quality/base.md` と該当する種類のファイルを土台にする（ジャンルが変わっても読みやすさの基準は共通）。
+`media/{新slug}.json` を `research.json` と同じ形で作るだけ（`siteType` を必ず書く）。左の記事一覧（読んだ・もう一度読みたい・未読の絞り込み）と記事末尾の「読んだ」ボタンは書かなくても入る（止めるときだけ `"sideIndex": false` `"readCheck": false`）。トップの PICK UP もどのレイアウトにも入る。**`.github/workflows/deploy.yml` のビルドの並びに slug を足す**（足さないと一覧と PICK UP が毎日作り直されない）。`template` `rulesFrom` は共有してよい（見た目やルールを変えたいときだけ別ファイルにする）。新しいテンプレート(`{新slug}-template.html`)を作る場合は、`docs/quality/base.md` と該当する種類のファイルを土台にする（ジャンルが変わっても読みやすさの基準は共通）。

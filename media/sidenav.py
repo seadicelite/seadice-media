@@ -1,4 +1,4 @@
-"""左の記事一覧（設定 "sideIndex": true のメディアだけ）。build.py の最後に毎回呼ばれ、冪等に次を入れる。
+"""左の記事一覧（全メディア。設定 "sideIndex": false で止める）。build.py の最後に毎回呼ばれ、冪等に次を入れる。
  - /nav.json: カテゴリごとの記事一覧（新しい順）。一覧を開くときに1回だけ読む（全ページに埋め込むと重くなるため）
  - /sn-{ハッシュ}.css・.js: 一覧の見た目と動き。全ページから同じファイルを読む（firebase.json で長くキャッシュ）
  - サイト内の全 index.html: PCは左端の縦タブ（クリックで開く。ホバーで勝手に開くと読んでいる途中に気が散るため）、スマホは左下のボタン（タップで開く）と、一覧のパネル
@@ -127,7 +127,7 @@ def _asset(base, ext, body):
 
 
 def apply(cfg, posts, cats):
-    if not cfg.get("sideIndex"):
+    if not cfg.get("sideIndex", True):  # 新しいメディアにも最初から入れる。止めるときだけ設定に false
         return 0
     base = ROOT / cfg["path"]
     groups = []

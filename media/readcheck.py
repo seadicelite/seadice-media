@@ -1,4 +1,4 @@
-"""読んだ記事のチェック（設定 "readCheck": true のメディアだけ）。build.py の最後に毎回呼ばれ、冪等に次を入れる。
+"""読んだ記事のチェック（全メディア。設定 "readCheck": false で止める）。build.py の最後に毎回呼ばれ、冪等に次を入れる。
  - 記事: 関連記事の上に「読んだ記事にする」「もう一度読みたい」ボタン（押し直すと取り消し）と「全N本のうちM本読んだ」。
    もう一度読みたいはキー {slug}-again。左の記事一覧（sidenav.py）で絞り込める
  - トップ・カテゴリ: 読んだ記事のカードに「読んだ」の札、見出しの下に読んだ本数
@@ -112,14 +112,14 @@ def _tools(cfg, posts):
 
 
 def apply(cfg, posts):
-    if not cfg.get("readCheck"):
+    if not cfg.get("readCheck", True):  # 新しいメディアにも最初から入れる。止めるときだけ設定に false
         return 0
     base, key, total, n = ROOT / cfg["path"], cfg["slug"], len(posts), 0
     for p in posts:
         f = base / p["slug"] / "index.html"
         if not f.exists():
             continue
-        s = _sub(f.read_text(), _article_block(key, p["slug"], total, cfg.get("sideIndex")), ["<!--related-->", '<div class="sources">'])
+        s = _sub(f.read_text(), _article_block(key, p["slug"], total, cfg.get("sideIndex", True)), ["<!--related-->", '<div class="sources">'])
         f.write_text(_put_css(s))
         n += 1
     # トップとカテゴリは毎回作り直されるので、そのつど差し込む
