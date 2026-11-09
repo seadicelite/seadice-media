@@ -45,11 +45,14 @@
     "use": [
      "neuro-marketing-app",
      "app-store-reviews",
-     "session-ending"
+     "session-ending",
+     "app-growth-strategy"
     ],
     "how": [
      "app-notifications",
-     "app-customization"
+     "app-customization",
+     "app-store-downloads",
+     "app-icon-design"
     ],
     "myth": [
      "gamification-works"
@@ -128,7 +131,8 @@
    "cells": {
     "use": [
      "neuro-habit-principles",
-     "goal-setting"
+     "goal-setting",
+     "app-retention-guide"
     ],
     "myth": [
      "streak-really-works"
