@@ -1579,5 +1579,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Playground_swing_01.jpg/500px-Playground_swing_01.jpg",
   "og": "https://kosodate.seadice.win/img/child-friend-trouble-parent-intervene-og.jpg",
   "local": true
+ },
+ "parents-argument-in-front-of-child": {
+  "file": "File:Cozy living room with a gray sofa.jpg",
+  "src": "/img/parents-argument-in-front-of-child.jpg",
+  "src640": "/img/parents-argument-in-front-of-child-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "リビングのソファ",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cozy_living_room_with_a_gray_sofa.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cozy_living_room_with_a_gray_sofa.jpg/960px-Cozy_living_room_with_a_gray_sofa.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cozy_living_room_with_a_gray_sofa.jpg/500px-Cozy_living_room_with_a_gray_sofa.jpg",
+  "og": "https://kosodate.seadice.win/img/parents-argument-in-front-of-child.jpg",
+  "local": true
  }
 }
