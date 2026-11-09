@@ -2776,5 +2776,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Park_bench_John_Taylor_Park%2C_Largo%2C_Florida_01.JPG/500px-Park_bench_John_Taylor_Park%2C_Largo%2C_Florida_01.JPG",
   "og": "https://umbra.seadice.win/img/fear-of-being-single-settling-research.jpg",
   "local": true
+ },
+ "phone-checking-conversation-boredom-signal-research": {
+  "file": "File:Close-up of a woman using her smartphone while having coffee.jpg",
+  "src": "/img/phone-checking-conversation-boredom-signal-research.jpg",
+  "src640": "/img/phone-checking-conversation-boredom-signal-research-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "手に持ったスマートフォン",
+  "artist": "Nenad Stojkovic",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Close-up_of_a_woman_using_her_smartphone_while_having_coffee.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Close-up_of_a_woman_using_her_smartphone_while_having_coffee.jpg/960px-Close-up_of_a_woman_using_her_smartphone_while_having_coffee.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Close-up_of_a_woman_using_her_smartphone_while_having_coffee.jpg/500px-Close-up_of_a_woman_using_her_smartphone_while_having_coffee.jpg",
+  "og": "https://umbra.seadice.win/img/phone-checking-conversation-boredom-signal-research.jpg",
+  "local": true
  }
 }

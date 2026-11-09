@@ -133,6 +133,30 @@
     "compliments-flattery-liking-signal-research",
     "lip-licking-throat-clearing-nervousness-research"
    ]
+  },
+  {
+   "id": "contact",
+   "label": "連絡・行動",
+   "title": "連絡・行動から本音は読めるのか",
+   "lead": "返信の速さ、連絡の頻度、スマホを見る回数。LINEやスマホに関わる行動について、研究でわかっていることをまとめました。",
+   "points": [
+    "返信の速さや既読のタイミングだけで好意の大きさを判定した決定的な研究は見当たりません。",
+    "連絡の頻度が減っても冷めたとは限らず、間隔が空くほど次のやり取りが長くなる「埋め合わせ」も報告されています。",
+    "恋人にスマホを見られる頻度が高いカップルほど満足度は低く衝突は多い傾向がありますが、1回の行動からは読み取れません。"
+   ],
+   "slugs": [
+    "line-reply-speed-research",
+    "contact-frequency-decline-cooling-signal-research",
+    "story-view-avoidance-interest-concealment-research",
+    "silence-during-dates-liking-research",
+    "stonewalling-conflict-withdrawal-warning-sign",
+    "hard-to-get-scarcity-attraction-research",
+    "jealousy-possessiveness-control-research",
+    "love-bombing-warning-signs-research",
+    "non-apology-psychology-barriers-research",
+    "language-style-matching-line-keigo-research",
+    "phone-checking-conversation-boredom-signal-research"
+   ]
   }
  ],
  "cta": {

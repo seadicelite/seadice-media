@@ -1,5 +1,12 @@
 [
  {
+  "id": "phubbing",
+  "term": "ファビング（phubbing）",
+  "en": "Phubbing",
+  "def": "一緒にいる相手を差し置いてスマホに気を取られる行動。phone(電話)とsnubbing(冷たくあしらうこと)を合わせた造語で、恋人への「パートナー・ファビング」が研究でよく扱われる。",
+  "slugs": ["phone-checking-conversation-boredom-signal-research", "partner-phubbing-sns-conflict-repair-research"]
+ },
+ {
   "id": "love-language",
   "term": "愛の言語（ラブ・ランゲージ）",
   "en": "Love language",
