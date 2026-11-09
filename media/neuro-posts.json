@@ -1,5 +1,29 @@
 [
   {
+    "slug": "sns-which-combination",
+    "category": "よく聞く説",
+    "type": "guide",
+    "date": "2026-11-09",
+    "title": "SNSはどれを組み合わせる？ 全部やるべき？ 研究でわかること",
+    "summary": "口コミの量と評価は売上と関係（メタ分析）。SNSの話題も効く。ただし正解の組み合わせを確かめた研究はない。1つに絞って確かめる。"
+  },
+  {
+    "slug": "focus-one-app",
+    "category": "アプリ",
+    "type": "guide",
+    "date": "2026-11-09",
+    "title": "アプリは1本に絞るべき？ たくさん出すべき？ ダウンロードの偏りから考える",
+    "summary": "iPhoneの有料アプリのダウンロードは上位に大きく偏り、よく更新されるアプリは上位に残りやすい。決まった答えはないが、手入れできる本数に絞る理由はある。"
+  },
+  {
+    "slug": "ios-or-android",
+    "category": "アプリ",
+    "type": "guide",
+    "date": "2026-11-09",
+    "title": "アプリはiOSとAndroidどちらから作る？ 研究でわかること・わからないこと",
+    "summary": "iPhoneとAndroidの利用者の性格の違いはごく小さい。どちらが有利かの研究はない。読者の国・課金の形・手間で決める。"
+  },
+  {
     "slug": "app-growth-strategy",
     "category": "アプリ",
     "type": "guide",

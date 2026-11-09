@@ -55,7 +55,8 @@
      "app-icon-design"
     ],
     "myth": [
-     "gamification-works"
+     "gamification-works",
+     "ios-or-android"
     ],
     "num": [
      "loading-wait-screen"
@@ -64,7 +65,8 @@
      "account-required"
     ],
     "unknown": [
-     "procrastination-app"
+     "procrastination-app",
+     "focus-one-app"
     ]
    }
   },
@@ -161,7 +163,8 @@
      "mirror-watching-eyes"
     ],
     "unknown": [
-     "nudge-really-works"
+     "nudge-really-works",
+     "sns-which-combination"
     ],
     "num": [
      "app-retention-myth"
