@@ -1,5 +1,23 @@
 {
  "_comment": "カテゴリ単位の画像プール。記事ごとにWikimedia検索はしない。ここに無いカテゴリはカードにアイコンのみ表示する。画像本体は sites/umbra/img/ にローカル保存済み。",
+ "love-language-match-satisfaction-research": {
+  "file": "File:Ribbon Box, ca. 1915 (CH 420577177).jpg",
+  "src": "/img/love-language-match-satisfaction-research.jpg",
+  "src640": "/img/love-language-match-satisfaction-research-sm.jpg",
+  "w": 960,
+  "h": 728,
+  "alt": "リボンをかけたプレゼントの箱",
+  "artist": "Unknown artist",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Ribbon_Box,_ca._1915_(CH_420577177).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ribbon_Box%2C_ca._1915_%28CH_420577177%29.jpg/960px-Ribbon_Box%2C_ca._1915_%28CH_420577177%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ribbon_Box%2C_ca._1915_%28CH_420577177%29.jpg/500px-Ribbon_Box%2C_ca._1915_%28CH_420577177%29.jpg",
+  "og": "https://umbra.seadice.win/img/love-language-match-satisfaction-research.jpg",
+  "local": true
+ },
  "c-signs": {
   "src": "/img/signs.jpg",
   "w": 500,

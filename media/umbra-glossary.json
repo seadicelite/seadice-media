@@ -1,5 +1,14 @@
 [
  {
+  "id": "love-language",
+  "term": "愛の言語（ラブ・ランゲージ）",
+  "en": "Love language",
+  "def": "愛情を伝える・感じ取る方法を、言葉・時間・プレゼント・世話・ふれあいの5つに分けた、牧師ゲイリー・チャップマンによる自己啓発の考え方。",
+  "slugs": [
+   "love-language-match-satisfaction-research"
+  ]
+ },
+ {
   "id": "couple-identity",
   "term": "カップル・アイデンティティ（同一化・we-ness）",
   "en": "Couple identity / we-ness",
