@@ -59,6 +59,9 @@
     ],
     "dark": [
      "account-required"
+    ],
+    "unknown": [
+     "procrastination-app"
     ]
    }
   },
@@ -124,13 +127,15 @@
    "label": "続ける",
    "cells": {
     "use": [
-     "neuro-habit-principles"
+     "neuro-habit-principles",
+     "goal-setting"
     ],
     "myth": [
      "streak-really-works"
     ],
     "how": [
-     "endowed-progress-start"
+     "endowed-progress-start",
+     "doing-it-together"
     ],
     "unknown": [
      "rewards-motivation-debate"
@@ -153,6 +158,9 @@
     ],
     "unknown": [
      "nudge-really-works"
+    ],
+    "num": [
+     "app-retention-myth"
     ]
    }
   }
