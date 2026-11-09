@@ -411,5 +411,14 @@
   "slugs": [
    "ex-partner-meal-jealousy-research"
   ]
+ },
+ {
+  "id": "sexual-desire-discrepancy",
+  "term": "性欲のずれ（性的欲求の不一致）",
+  "en": "Sexual desire discrepancy",
+  "def": "恋人や夫婦の一方が、もう一方より多く、または少なくしたいと感じる状態。長い関係ではよくあることとされ、差そのものより、どう話し合い、どう断るかが満足度と結びついていた。",
+  "slugs": [
+   "sexual-desire-mismatch-couples-research"
+  ]
  }
 ]
