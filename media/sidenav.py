@@ -13,7 +13,7 @@ E = html.escape
 CSS = (".sn-b{position:fixed;z-index:900;left:12px;bottom:calc(12px + env(safe-area-inset-bottom));display:flex;align-items:center;gap:6px;"
        "min-height:48px;padding:0 16px;font:inherit;font-size:14px;font-weight:700;color:var(--text,#E6EAF2);background:var(--card,var(--panel,#121926));"
        "border:1px solid var(--border,var(--line,#26324A));border-radius:8px;cursor:pointer}"
-       "@media(max-width:959px){body::after{content:"";display:block;height:76px}.sn-b{transition:transform .2s}.sn-b.sn-away{transform:translateY(90px)}}"
+       "@media(max-width:959px){body::after{content:"";display:block;height:76px}}"
        ".sn-b[hidden]{display:none}.sn-b:hover,.sn-b[aria-expanded=true]{border-color:var(--accent,#7FB2FF)}.sn-b small{font-size:12px;font-weight:400;color:var(--muted,#9AA4B5)}"
        ".sn-b svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round}"
        ".sn-p{position:fixed;z-index:1000;left:0;top:0;bottom:0;width:min(360px,88vw);display:flex;flex-direction:column;"
@@ -31,7 +31,7 @@ CSS = (".sn-b{position:fixed;z-index:900;left:12px;bottom:calc(12px + env(safe-a
        ".sn-l summary i{width:10px;height:10px;border-radius:50%;flex:0 0 10px}.sn-l summary small{margin-left:auto;font-size:12px;font-weight:400;color:var(--muted,#9AA4B5)}"
        ".sn-l summary::after{content:\"+\";font-size:18px;color:var(--muted,#9AA4B5);width:16px;text-align:center}.sn-l details[open] summary::after{content:\"-\"}"
        ".sn-l ul{list-style:none;margin:0 0 10px;padding:0}.sn-l li a{display:block;padding:10px 0 10px 18px;font-size:14px;line-height:1.55;"
-       "color:var(--text,#E6EAF2);text-decoration:none}.sn-l li a:hover{color:var(--accent,#7FB2FF)}"
+       "color:var(--text,#E6EAF2);text-decoration:none}@media(hover:hover){.sn-l li a:hover{color:var(--accent,#7FB2FF)}}"
        ".sn-x:focus-visible,.sn-l summary:focus-visible,.sn-l li a:focus-visible,.sn-f a:focus-visible{outline:2px solid var(--accent,#7FB2FF);outline-offset:2px}"
        ".sn-l li a[aria-current]{color:var(--accent,#7FB2FF);font-weight:700}.sn-l li a[aria-current]::before{content:\"いま読んでいる記事\";display:block;font-size:12px;font-weight:400;color:var(--muted,#9AA4B5)}"
        ".sn-f small{display:block;margin-top:6px;font-size:12px;line-height:1.6;color:var(--muted,#9AA4B5)}.sn-m{font-size:14px;color:var(--muted,#9AA4B5);padding:12px 0}.sn-f{margin:0;padding:12px 16px calc(12px + env(safe-area-inset-bottom));"
@@ -82,7 +82,7 @@ JS = ("var K=document.getElementById('sn-p').getAttribute('data-k'),b=document.g
       "[b,p].forEach(function(e){e.addEventListener('mouseleave',function(){if(!hv.matches||pin)return;clearTimeout(t);t=setTimeout(close,300)});"
       "e.addEventListener('mouseenter',function(){if(e==p)clearTimeout(t)})});"
       "b.addEventListener('touchstart',load,{passive:true});"
-      "o.onclick=close;document.addEventListener('click',function(e){if(!p.hidden&&!p.contains(e.target)&&!b.contains(e.target))close()});var y=scrollY;addEventListener('scroll',function(){var n=scrollY;if(!hv.matches)b.classList.toggle('sn-away',n>y&&n>200&&innerHeight+n<document.documentElement.scrollHeight-400);y=n},{passive:true});document.getElementById('sn-x').onclick=function(){close();b.focus()};"
+      "o.onclick=close;document.addEventListener('click',function(e){if(!p.hidden&&!p.contains(e.target)&&!b.contains(e.target))close()});document.getElementById('sn-x').onclick=function(){close();b.focus()};"
       "document.addEventListener('keydown',function(e){if(e.key=='Escape'&&!p.hidden){close();b.focus()}});"
       # 押すと印を付け外しする。押した行は、絞り込み中でもすぐには消さない（押し間違いを戻せるように）
       "l.addEventListener('click',function(e){var x=e.target.closest('.sn-a');if(!x)return;var i=x.parentNode,k=i.getAttribute('data-s');A=get(K+'-again');if(A[k]){delete A[k];i.removeAttribute('data-a')}else{A[k]=new Date().toISOString().slice(0,10);i.setAttribute('data-a','')}"
@@ -100,7 +100,8 @@ JS = ("var K=document.getElementById('sn-p').getAttribute('data-k'),b=document.g
 def _block(has_map, key, hint, css, js):
     tabs = "".join(f'<button type="button" data-f="{f}" aria-pressed="false">{t}<small></small></button>' for f, t in (("all", "すべて"), ("un", "未読"), ("again", "もう一度"), ("read", "読んだ")))
     ph = f"記事を探す（例: {E(hint)}）" if hint else "記事を探す"
-    foot = '<a href="/map/">問いからたどる（マインドマップ）</a>' if has_map else '<a href="/">トップに戻る</a>'
+    # 下の欄はマインドマップがあるメディアだけ（スマホで記事名の場所を狭めないため。保存の説明は免責事項と記事末尾にある）
+    foot = '<p class="sn-f"><a href="/map/">問いからたどる（マインドマップ）</a></p>' if has_map else ''
     return (f'<!--sidenav--><link rel="stylesheet" href="/{css}">'
             f'<button type="button" class="sn-b" id="sn-b" aria-expanded="false" aria-controls="sn-p" hidden>'
             f'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg>記事一覧<small id="sn-c"></small></button>'
@@ -109,8 +110,7 @@ def _block(has_map, key, hint, css, js):
             f'<button type="button" class="sn-x" id="sn-x">閉じる</button></div>'
             f'<input type="search" class="sn-q" id="sn-q" placeholder="{ph}" aria-label="記事を探す">'
             f'<div class="sn-t" id="sn-tb" role="group" aria-label="しぼりこみ">{tabs}</div>'
-            f'<div class="sn-l" id="sn-l"><p class="sn-m">読み込み中です。</p></div><p class="sn-f">{foot}'
-            f'<small>読んだ印は、この端末のブラウザにだけ保存します（送信しません。ブラウザのデータを消すと消えます）。</small></p></div>'
+            f'<div class="sn-l" id="sn-l"><p class="sn-m">読み込み中です。</p></div>{foot}</div>'
             f'<script src="/{js}" defer></script><!--/sidenav-->')
 
 
