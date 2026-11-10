@@ -4,7 +4,10 @@
   "term": "ファビング（phubbing）",
   "en": "Phubbing",
   "def": "一緒にいる相手を差し置いてスマホに気を取られる行動。phone(電話)とsnubbing(冷たくあしらうこと)を合わせた造語で、恋人への「パートナー・ファビング」が研究でよく扱われる。",
-  "slugs": ["phone-checking-conversation-boredom-signal-research", "partner-phubbing-sns-conflict-repair-research"]
+  "slugs": [
+   "phone-checking-conversation-boredom-signal-research",
+   "partner-phubbing-sns-conflict-repair-research"
+  ]
  },
  {
   "id": "love-language",
@@ -435,6 +438,15 @@
   "def": "恋人や夫婦の一方が、もう一方より多く、または少なくしたいと感じる状態。長い関係ではよくあることとされ、差そのものより、どう話し合い、どう断るかが満足度と結びついていた。",
   "slugs": [
    "sexual-desire-mismatch-couples-research"
+  ]
+ },
+ {
+  "id": "dyadic-coping",
+  "term": "二人で行うストレス対処（ダイアディック・コーピング）",
+  "en": "Dyadic coping",
+  "def": "どちらかが抱えたストレスに、恋人や夫婦が二人で向き合うこと。気持ちを伝える、相手の大変さを聞いて支えるなど。10年の追跡では、この力の低下が満足度の大きな低下と結びついていた。",
+  "slugs": [
+   "satisfaction-decline-incompatibility-research"
   ]
  }
 ]

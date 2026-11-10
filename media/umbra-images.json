@@ -2794,5 +2794,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Close-up_of_a_woman_using_her_smartphone_while_having_coffee.jpg/500px-Close-up_of_a_woman_using_her_smartphone_while_having_coffee.jpg",
   "og": "https://umbra.seadice.win/img/phone-checking-conversation-boredom-signal-research.jpg",
   "local": true
+ },
+ "satisfaction-decline-incompatibility-research": {
+  "file": "File:Santorin (GR), Pirgos Kallistis -- 2017 -- 2911.jpg",
+  "src": "/img/satisfaction-decline-incompatibility-research.jpg",
+  "src640": "/img/satisfaction-decline-incompatibility-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "テラスに置かれた青いテーブルと2脚の椅子",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Santorin_(GR),_Pirgos_Kallistis_--_2017_--_2911.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Santorin_%28GR%29%2C_Pirgos_Kallistis_--_2017_--_2911.jpg/960px-Santorin_%28GR%29%2C_Pirgos_Kallistis_--_2017_--_2911.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Santorin_%28GR%29%2C_Pirgos_Kallistis_--_2017_--_2911.jpg/500px-Santorin_%28GR%29%2C_Pirgos_Kallistis_--_2017_--_2911.jpg",
+  "og": "https://umbra.seadice.win/img/satisfaction-decline-incompatibility-research.jpg",
+  "local": true
  }
 }
