@@ -1529,5 +1529,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Smartphone_Apps_Banner_for_WikiVoyage.jpg/500px-Smartphone_Apps_Banner_for_WikiVoyage.jpg",
   "og": "https://bohan.seadice.win/img/fake-ai-chatbot-app.jpg",
   "local": true
+ },
+ "facial-recognition-camera-effect-bias": {
+  "file": "File:CCTV camera on Round Church Street, Cambridge.jpg",
+  "src": "/img/facial-recognition-camera-effect-bias.jpg",
+  "src640": "/img/facial-recognition-camera-effect-bias-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "街角に設置された監視カメラ",
+  "artist": "Hans Wolff",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:CCTV_camera_on_Round_Church_Street,_Cambridge.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CCTV_camera_on_Round_Church_Street%2C_Cambridge.jpg/960px-CCTV_camera_on_Round_Church_Street%2C_Cambridge.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CCTV_camera_on_Round_Church_Street%2C_Cambridge.jpg/500px-CCTV_camera_on_Round_Church_Street%2C_Cambridge.jpg",
+  "og": "https://bohan.seadice.win/img/facial-recognition-camera-effect-bias.jpg",
+  "local": true
  }
 }
