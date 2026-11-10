@@ -48,7 +48,9 @@
      "session-ending",
      "app-growth-strategy",
      "haptic-feedback",
-     "thumb-reach"
+     "thumb-reach",
+     "app-features-guide",
+     "app-design-guide"
     ],
     "how": [
      "app-notifications",
@@ -156,7 +158,8 @@
      "dark-patterns-line"
     ],
     "how": [
-     "free-trial-card"
+     "free-trial-card",
+     "donation-feature"
     ],
     "myth": [
      "charm-pricing-980"
