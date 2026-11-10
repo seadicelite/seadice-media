@@ -53,7 +53,8 @@
      "app-customization",
      "app-store-downloads",
      "app-icon-design",
-     "grow-without-competing"
+     "grow-without-competing",
+     "icon-button-size"
     ],
     "myth": [
      "gamification-works",
@@ -84,11 +85,13 @@
     "use": [
      "neuro-marketing-web",
      "website-beauty",
-     "web-navigation"
+     "web-navigation",
+     "icon-with-label"
     ],
     "how": [
      "website-trust",
-     "web-form-usability"
+     "web-form-usability",
+     "icon-color-only"
     ],
     "num": [
      "website-readability",
