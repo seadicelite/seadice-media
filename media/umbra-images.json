@@ -2812,5 +2812,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Santorin_%28GR%29%2C_Pirgos_Kallistis_--_2017_--_2911.jpg/500px-Santorin_%28GR%29%2C_Pirgos_Kallistis_--_2017_--_2911.jpg",
   "og": "https://umbra.seadice.win/img/satisfaction-decline-incompatibility-research.jpg",
   "local": true
+ },
+ "hands-behind-back-posture-confidence-research": {
+  "file": "File:Guard at Windsor Castle.JPG",
+  "src": "/img/hands-behind-back-posture-confidence-research.jpg",
+  "src640": "/img/hands-behind-back-posture-confidence-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "儀仗兵が立つ様子",
+  "artist": "Gripweed",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Guard_at_Windsor_Castle.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Guard_at_Windsor_Castle.JPG/960px-Guard_at_Windsor_Castle.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Guard_at_Windsor_Castle.JPG/500px-Guard_at_Windsor_Castle.JPG",
+  "og": "https://umbra.seadice.win/img/hands-behind-back-posture-confidence-research.jpg",
+  "local": true
  }
 }
