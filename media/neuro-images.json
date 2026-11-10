@@ -1120,5 +1120,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Traffic_Light%2C_Vienna.jpg/500px-Traffic_Light%2C_Vienna.jpg",
   "og": "https://neuro.seadice.win/img/icon-color-only-og.jpg",
   "local": true
+ },
+ "who-to-build-for": {
+  "file": "File:Lille rose des vents republique.jpg",
+  "src": "/img/who-to-build-for.webp",
+  "src640": "/img/who-to-build-for-sm.webp",
+  "w": 960,
+  "h": 715,
+  "alt": "地図の上の方位磁針",
+  "artist": "Velvet",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lille_rose_des_vents_republique.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lille_rose_des_vents_republique.jpg/960px-Lille_rose_des_vents_republique.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lille_rose_des_vents_republique.jpg/500px-Lille_rose_des_vents_republique.jpg",
+  "og": "https://neuro.seadice.win/img/who-to-build-for-og.jpg",
+  "local": true
  }
 }
