@@ -2099,5 +2099,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TI_SR-10_Calculator.jpg/500px-TI_SR-10_Calculator.jpg",
   "og": "https://ledger.seadice.win/img/debt-repayment-balance-rate-comparison-table.jpg",
   "local": true
+ },
+ "cashless-children-money-sense": {
+  "file": "File:Juliana 1 cent piggy bank, Winschoten (2019) 02.jpg",
+  "src": "/img/cashless-children-money-sense.jpg",
+  "src640": "/img/cashless-children-money-sense-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "コインと貯金箱",
+  "artist": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 Intern",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Juliana_1_cent_piggy_bank,_Winschoten_(2019)_02.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Juliana_1_cent_piggy_bank%2C_Winschoten_%282019%29_02.jpg/960px-Juliana_1_cent_piggy_bank%2C_Winschoten_%282019%29_02.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Juliana_1_cent_piggy_bank%2C_Winschoten_%282019%29_02.jpg/500px-Juliana_1_cent_piggy_bank%2C_Winschoten_%282019%29_02.jpg",
+  "og": "https://ledger.seadice.win/img/cashless-children-money-sense.jpg",
+  "local": true
  }
 }
