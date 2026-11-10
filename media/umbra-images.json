@@ -2794,5 +2794,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Close-up_of_a_woman_using_her_smartphone_while_having_coffee.jpg/500px-Close-up_of_a_woman_using_her_smartphone_while_having_coffee.jpg",
   "og": "https://umbra.seadice.win/img/phone-checking-conversation-boredom-signal-research.jpg",
   "local": true
+ },
+ "gift-price-thoughtfulness-relationship-research": {
+  "file": "File:American Red Cross - In the Service of Interior - Christmas Boxes - A Soldier's Christmas Box. When the box has been properly weighed it is wrapped, sealed and stamped at the Red Cross station - NARA - 20801906.jpg",
+  "src": "/img/gift-price-thoughtfulness-relationship-research.jpg",
+  "src640": "/img/gift-price-thoughtfulness-relationship-research-sm.jpg",
+  "w": 960,
+  "h": 631,
+  "alt": "リボンで包まれたプレゼントの箱",
+  "artist": "Unknown authorUnknown author or not provided",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:American_Red_Cross_-_In_the_Service_of_Interior_-_Christmas_Boxes_-_A_Soldier%27s_Christmas_Box._When_the_box_has_been_properly_weighed_it_is_wrapped,_sealed_and_stamped_at_the_Red_Cross_station_-_NARA_-_20801906.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/American_Red_Cross_-_In_the_Service_of_Interior_-_Christmas_Boxes_-_A_Soldier%27s_Christmas_Box._When_the_box_has_been_properly_weighed_it_is_wrapped%2C_sealed_and_stamped_at_the_Red_Cross_station_-_NARA_-_20801906.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/American_Red_Cross_-_In_the_Service_of_Interior_-_Christmas_Boxes_-_A_Soldier%27s_Christmas_Box._When_the_box_has_been_properly_weighed_it_is_wrapped%2C_sealed_and_stamped_at_the_Red_Cross_station_-_NARA_-_20801906.jpg/500px-thumbnail.jpg",
+  "og": "https://umbra.seadice.win/img/gift-price-thoughtfulness-relationship-research.jpg",
+  "local": true
  }
 }
