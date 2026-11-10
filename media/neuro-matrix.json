@@ -46,7 +46,9 @@
      "neuro-marketing-app",
      "app-store-reviews",
      "session-ending",
-     "app-growth-strategy"
+     "app-growth-strategy",
+     "haptic-feedback",
+     "thumb-reach"
     ],
     "how": [
      "app-notifications",
@@ -56,12 +58,15 @@
      "grow-without-competing",
      "icon-button-size",
      "who-to-build-for",
-     "global-apps"
+     "global-apps",
+     "app-permission-request",
+     "app-name-fluency"
     ],
     "myth": [
      "gamification-works",
      "ios-or-android",
-     "beat-competitors-first-mover"
+     "beat-competitors-first-mover",
+     "privacy-policy-reading"
     ],
     "num": [
      "loading-wait-screen",
@@ -73,7 +78,8 @@
     ],
     "unknown": [
      "procrastination-app",
-     "focus-one-app"
+     "focus-one-app",
+     "ai-feature-trust"
     ],
     "case": [
      "duolingo-experiments"
