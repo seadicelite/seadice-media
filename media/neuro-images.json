@@ -1137,5 +1137,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lille_rose_des_vents_republique.jpg/500px-Lille_rose_des_vents_republique.jpg",
   "og": "https://neuro.seadice.win/img/who-to-build-for-og.jpg",
   "local": true
+ },
+ "global-apps": {
+  "file": "File:North America from low orbiting satellite Suomi NPP.jpg",
+  "src": "/img/global-apps.webp",
+  "src640": "/img/global-apps-sm.webp",
+  "w": 960,
+  "h": 960,
+  "alt": "宇宙から見た地球",
+  "artist": "NASA/NOAA/GSFC/Suomi NPP/VIIRS/Norman Kuring",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:North_America_from_low_orbiting_satellite_Suomi_NPP.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/North_America_from_low_orbiting_satellite_Suomi_NPP.jpg/960px-North_America_from_low_orbiting_satellite_Suomi_NPP.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/North_America_from_low_orbiting_satellite_Suomi_NPP.jpg/500px-North_America_from_low_orbiting_satellite_Suomi_NPP.jpg",
+  "og": "https://neuro.seadice.win/img/global-apps-og.jpg",
+  "local": true
  }
 }
