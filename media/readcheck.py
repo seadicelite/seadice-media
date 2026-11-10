@@ -14,7 +14,7 @@ E = html.escape
 # 道具のページは手書きで変数名が違う（--card/--panel、--border/--line）ので両方を受ける
 CARD, LINE = "var(--card,var(--panel,#121926))", "var(--border,var(--line,#26324A))"
 CSS = (f".rc{{margin:40px 0 0;padding:18px;background:{CARD};border:1px solid {LINE};border-radius:8px;text-align:center}}"
-       ".rc-b{font:inherit;font-size:15px;font-weight:700;min-height:48px;padding:10px 22px;border-radius:8px;cursor:pointer;"
+       ".rc-b{font:inherit;font-size:15px;font-weight:700;min-height:56px;padding:10px 22px;border-radius:8px;cursor:pointer;"
        "background:var(--accent);color:var(--bg);border:1px solid var(--accent)}"
        ".rc-b{background:transparent;color:var(--accent)}.rc-b[aria-pressed=true]{background:var(--accent);color:var(--bg)}"
        ".rc-bs{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}"
