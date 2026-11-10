@@ -122,6 +122,15 @@
     "myth": [
      "percent-or-people",
      "difficult-words"
+    ],
+    "dark": [
+     "clickbait-headlines"
+    ],
+    "num": [
+     "how-much-people-read"
+    ],
+    "unknown": [
+     "ai-written-label"
     ]
    }
   },
@@ -140,6 +149,15 @@
     ],
     "myth": [
      "charm-pricing-980"
+    ],
+    "num": [
+     "free-trial-length"
+    ],
+    "unknown": [
+     "price-anchoring"
+    ],
+    "case": [
+     "pay-what-you-want"
     ]
    }
   },
