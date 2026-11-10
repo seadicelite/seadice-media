@@ -2,6 +2,7 @@
  - /nav.json: カテゴリごとの記事一覧（新しい順）。一覧を開くときに1回だけ読む（全ページに埋め込むと重くなるため）
  - /sn-{ハッシュ}.css・.js: 一覧の見た目と動き。全ページから同じファイルを読む（firebase.json で長くキャッシュ）
  - サイト内の全 index.html: PCは左端の縦タブ（クリックで開く。ホバーで勝手に開くと読んでいる途中に気が散るため）、スマホは左下のボタン（タップで開く）と、一覧のパネル
+ - 続きから読む（{slug}-pos、記事を開き直した時に1回だけ知らせる）・しおりから7日たった記事に「そろそろ読み直し」・記録を文字列で別の端末へ移す
  - 読んだ印（readcheck.py と同じキー {slug}-read）と「もう一度読みたい」（{slug}-again）を一覧に出し、すべて・未読・もう一度・読んだで絞り込む。
    カテゴリごとに読んだ本数を細い棒で出す。記録はこの端末のブラウザ（localStorage）だけ。サーバーへは何も送らない。"""
 import hashlib, html, json, re
@@ -52,7 +53,36 @@ CSS = (".sn-b{position:fixed;z-index:900;left:12px;bottom:calc(12px + env(safe-a
        ".sn-a{flex:0 0 52px;height:52px;display:flex;align-items:center;justify-content:center;background:transparent;border:0;border-radius:8px;cursor:pointer;color:var(--muted,#9AA4B5)}"
        ".sn-a svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2;stroke-linejoin:round}.sn-a[aria-pressed=true]{color:var(--accent,#7FB2FF)}.sn-a[aria-pressed=true] svg{fill:currentColor}"
        ".sn-a:focus-visible,.sn-t button:focus-visible{outline:2px solid var(--accent,#7FB2FF);outline-offset:2px}"
-       "@media print{.sn-b,.sn-p,.sn-o{display:none!important}}")
+       "@media print{.sn-b,.sn-p,.sn-o{display:none!important}}"
+       '.sn-rv{display:block;margin:2px 0 0;font-size:12px;font-weight:700;color:var(--accent,#7FB2FF)}.sn-mv{margin:16px 0 8px;padding-top:12px;border-top:1px solid var(--border,var(--line,#26324A))}.sn-mb,.sn-mr button{font:inherit;font-size:14px;min-height:52px;padding:0 14px;color:var(--text,#E6EAF2);background:transparent;border:1px solid var(--border,var(--line,#26324A));border-radius:8px;cursor:pointer}.sn-mb{width:100%}.sn-mv p{font-size:13px;line-height:1.6;color:var(--muted,#9AA4B5);margin:10px 0}.sn-mv textarea{width:100%;box-sizing:border-box;font:12px/1.5 monospace;padding:8px;color:var(--text,#E6EAF2);background:var(--card,var(--panel,#121926));border:1px solid var(--border,var(--line,#26324A));border-radius:8px}.sn-mr{display:flex;gap:8px;margin-top:8px}.sn-mr button{flex:1}.sn-cn{position:fixed;z-index:899;right:12px;bottom:calc(12px + env(safe-area-inset-bottom));min-height:56px;padding:0 16px;font:inherit;font-size:14px;font-weight:700;color:var(--bg,#0B0F17);background:var(--accent,#7FB2FF);border:1px solid var(--accent,#7FB2FF);border-radius:8px;cursor:pointer}@media print{.sn-cn{display:none!important}}')
+
+# 読み直しの目安・記録を移す・続きから読む（どれも端末の中だけ。サーバーへは送らない）
+JS2 = (";function old(d){return (Date.now()-Date.parse(d))/864e5>=7}"
+       "var MV='<div class=\"sn-mv\"><button type=\"button\" class=\"sn-mb\" id=\"sn-mb\" aria-expanded=\"false\">記録を別の端末へ移す</button><div id=\"sn-mp\" hidden>"
+       "<p>1. 今の端末で「コピー」を押す 2. 別の端末で、この欄に貼り付けて「読み込む」。記録はこの端末の中だけにあり、どこにも送りません。</p>"
+       "<textarea id=\"sn-mt\" rows=\"3\" aria-label=\"記録の文字列\"></textarea><div class=\"sn-mr\"><button type=\"button\" id=\"sn-mc\">コピー</button><button type=\"button\" id=\"sn-mi\">読み込む</button></div>"
+       "<p id=\"sn-mm\" aria-live=\"polite\"></p></div></div>';"
+       "l.addEventListener('click',function(e){var t=e.target,m=document.getElementById('sn-mm'),x=document.getElementById('sn-mt');"
+       "if(t.id=='sn-mb'){var p2=document.getElementById('sn-mp'),o2=p2.hidden;p2.hidden=!o2;t.setAttribute('aria-expanded',o2);"
+       "if(o2)x.value=btoa(JSON.stringify({v:1,r:get(K+'-read'),a:get(K+'-again')}));m.textContent=''}"
+       "else if(t.id=='sn-mc'){x.value=btoa(JSON.stringify({v:1,r:get(K+'-read'),a:get(K+'-again')}));x.select();"
+       "(navigator.clipboard?navigator.clipboard.writeText(x.value):Promise.reject()).then(function(){m.textContent='コピーしました。別の端末で貼り付けてください。'},function(){m.textContent='選んだ文字列を、長押しなどでコピーしてください。'})}"
+       "else if(t.id=='sn-mi'){try{var j=JSON.parse(atob(x.value.trim()));if(!j||j.v!=1)throw 0;"
+       "var r=get(K+'-read'),a=get(K+'-again'),n=0,f=function(o,d){for(var k in d)if(/^[a-z0-9-]+$/.test(k)&&/^\\d{4}-\\d{2}-\\d{2}$/.test(d[k])&&!o[k]){o[k]=d[k];n++}};"
+       "f(r,j.r||{});f(a,j.a||{});localStorage.setItem(K+'-read',JSON.stringify(r));localStorage.setItem(K+'-again',JSON.stringify(a));"
+       "draw();var p3=document.getElementById('sn-mp');if(p3){p3.hidden=false;document.getElementById('sn-mb').setAttribute('aria-expanded','true')}"
+       "document.getElementById('sn-mm').textContent=n+'件の記録を足しました。'}catch(err){m.textContent='読み込めませんでした。コピーした文字列をそのまま貼り付けてください。'}}});"
+       # 続きから読む: 記事のページだけ（記事末尾のボタンがあるページ）。読んだ位置を割合で残し、次に開いた時に1回だけ知らせる
+       "(function(){if(!document.getElementById('rc-b'))return;var m=location.pathname.match(/^\\/([a-z0-9-]+)\\/$/);if(!m)return;var S=m[1],P=get(K+'-pos'),T=0;"
+       "function h(){return document.documentElement.scrollHeight-innerHeight}"
+       "function save(){var y=scrollY/Math.max(1,h());P=get(K+'-pos');if(y>.9)delete P[S];else if(y>.08)P[S]=Math.round(y*1000)/1000;else return;"
+       "var ks=Object.keys(P);if(ks.length>200)delete P[ks[0]];try{localStorage.setItem(K+'-pos',JSON.stringify(P))}catch(e){}}"
+       "addEventListener('scroll',function(){clearTimeout(T);T=setTimeout(save,600)},{passive:true});"
+       "var y=P[S];if(!y||location.hash||scrollY>50)return;"
+       "var c=document.createElement('button');c.type='button';c.className='sn-cn';c.textContent='前回の続きから読む';document.body.appendChild(c);"
+       "function bye(){c.remove();removeEventListener('scroll',w)}var t0=scrollY;function w(){if(Math.abs(scrollY-t0)>300)bye()}addEventListener('scroll',w,{passive:true});"
+       "c.onclick=function(){scrollTo(0,y*h());bye()};setTimeout(bye,12000)})()")
+
 
 # 開く: スマホはタップ、PC（ホバーできる・幅960px以上）はホバーでも開く。クリックで開いたら、離れても閉じない
 JS = ("var K=document.getElementById('sn-p').getAttribute('data-k'),b=document.getElementById('sn-b'),p=document.getElementById('sn-p'),o=document.getElementById('sn-o'),"
@@ -63,10 +93,10 @@ JS = ("var K=document.getElementById('sn-p').getAttribute('data-k'),b=document.g
       "var BM='<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M6 3h12v18l-6-4.5L6 21z\"/></svg>';"
       # 読んだ・もう一度は開くたびに読み直す（記事の下のボタンで変わるため）
       "function draw(){R=get(K+'-read');A=get(K+'-again');var h=location.pathname,s='';D.forEach(function(g){var cur=0,r=0,li=g[2].map(function(a){var k=a[0],u='/'+k+'/',c=u==h;if(c)cur=1;if(R[k])r++;"
-      "return '<li data-k=\"'+esc((a[1]+' '+(a[2]||'')).toLowerCase())+'\" data-s=\"'+k+'\"'+(R[k]?' data-r':'')+(A[k]?' data-a':'')+'><a href=\"'+u+'\"'+(c?' aria-current=\"page\"':'')+'><i class=\"sn-s\" aria-hidden=\"true\"></i>'+(R[k]?'<span class=\"sn-v\">読んだ </span>':'')+esc(a[1])+'</a>'"
+      "return '<li data-k=\"'+esc((a[1]+' '+(a[2]||'')).toLowerCase())+'\" data-s=\"'+k+'\"'+(R[k]?' data-r':'')+(A[k]?' data-a':'')+'><a href=\"'+u+'\"'+(c?' aria-current=\"page\"':'')+'><i class=\"sn-s\" aria-hidden=\"true\"></i>'+(R[k]?'<span class=\"sn-v\">読んだ </span>':'')+esc(a[1])+(A[k]&&old(A[k])?'<small class=\"sn-rv\">そろそろ読み直し</small>':'')+'</a>'"
       "+'<button type=\"button\" class=\"sn-a\" aria-pressed=\"'+!!A[k]+'\" aria-label=\"もう一度読みたい: '+esc(a[1])+'\">'+BM+'</button></li>'}).join('');"
       "s+='<details data-n=\"'+esc(g[0].toLowerCase())+'\"'+(cur?' open data-c':'')+'><summary><i style=\"background:'+g[1]+'\"></i>'+esc(g[0])+'<small>'+r+' / '+g[2].length+'</small><span class=\"sn-g\"><span style=\"width:'+Math.round(r*100/g[2].length)+'%;background:'+g[1]+'\"></span></span></summary><ul>'+li+'</ul></details>'});"
-      "l.innerHTML=s;cnt();flt();here()}"
+      "l.innerHTML=s+MV;cnt();flt();here()}"
       "function cnt(){var n=0,r=0,a=0;D.forEach(function(g){g[2].forEach(function(x){n++;if(R[x[0]])r++;if(A[x[0]])a++})});"
       "var c={all:n,un:n-r,again:a,read:r};[].forEach.call(tb.children,function(e){var f=e.getAttribute('data-f');e.lastChild.textContent=c[f];e.setAttribute('aria-pressed',f==F)});"
       "document.getElementById('sn-c').textContent=n+'本';document.getElementById('sn-tt').textContent='（'+r+' / '+n+'本 読んだ）'}"
@@ -82,7 +112,7 @@ JS = ("var K=document.getElementById('sn-p').getAttribute('data-k'),b=document.g
       "[b,p].forEach(function(e){e.addEventListener('mouseleave',function(){if(!hv.matches||pin)return;clearTimeout(t);t=setTimeout(close,300)});"
       "e.addEventListener('mouseenter',function(){if(e==p)clearTimeout(t)})});"
       "b.addEventListener('touchstart',load,{passive:true});"
-      "o.onclick=close;document.addEventListener('click',function(e){if(!p.hidden&&!p.contains(e.target)&&!b.contains(e.target))close()});document.getElementById('sn-x').onclick=function(){close();b.focus()};"
+      "o.onclick=close;document.addEventListener('click',function(e){if(!p.hidden&&e.target.isConnected&&!p.contains(e.target)&&!b.contains(e.target))close()});document.getElementById('sn-x').onclick=function(){close();b.focus()};"
       "document.addEventListener('keydown',function(e){if(e.key=='Escape'&&!p.hidden){close();b.focus()}});"
       # 押すと印を付け外しする。押した行は、絞り込み中でもすぐには消さない（押し間違いを戻せるように）
       "l.addEventListener('click',function(e){var x=e.target.closest('.sn-a');if(!x)return;var i=x.parentNode,k=i.getAttribute('data-s');A=get(K+'-again');if(A[k]){delete A[k];i.removeAttribute('data-a')}else{A[k]=new Date().toISOString().slice(0,10);i.setAttribute('data-a','')}"
@@ -94,7 +124,8 @@ JS = ("var K=document.getElementById('sn-p').getAttribute('data-k'),b=document.g
       "[].forEach.call(d.querySelectorAll('li'),function(i){var m=okF(i)&&(!v||g||i.getAttribute('data-k').indexOf(v)>=0);i.hidden=!m;if(m)k++});"
       "d.hidden=!k;n+=k;d.open=(v||F!='all')?!!k:d.hasAttribute('data-c')});[].forEach.call(l.querySelectorAll('.sn-m'),function(m){m.remove()});"
       "if(!n)l.insertAdjacentHTML('beforeend','<p class=\"sn-m\">'+(w?'「'+esc(q.value)+'」を含む記事は見つかりませんでした。短い言葉で探してみてください。':F=='again'?'「もう一度読みたい」記事はまだありません。一覧の右の印か、記事の下のボタンで付けられます。':F=='read'?'読んだ記事はまだありません。記事の下の「読んだ記事にする」を押すと、ここに入ります。':'すべて読みました。')+'</p>');"
-      "else if(v!=w)l.insertAdjacentHTML('afterbegin','<p class=\"sn-m\">「'+esc(q.value)+'」を含む記事はないので、「'+esc(v)+'」で探しました。</p>')}q.oninput=flt")
+      "else if(v!=w)l.insertAdjacentHTML('afterbegin','<p class=\"sn-m\">「'+esc(q.value)+'」を含む記事はないので、「'+esc(v)+'」で探しました。</p>')}q.oninput=flt" + JS2)
+
 
 
 def _block(has_map, key, hint, css, js):
