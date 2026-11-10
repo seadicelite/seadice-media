@@ -845,5 +845,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tin_Loaf_-_one_slash_in_the_crust.jpg/500px-Tin_Loaf_-_one_slash_in_the_crust.jpg",
   "og": "https://senbei.seadice.win/img/senbei-salt-reduction-blind-test.jpg",
   "local": true
+ },
+ "senbei-browning-photo-check": {
+  "file": "File:Toast-2.jpg",
+  "src": "/img/senbei-browning-photo-check.jpg",
+  "src640": "/img/senbei-browning-photo-check-sm.jpg",
+  "w": 960,
+  "h": 879,
+  "alt": "焼き色の付いたトースト",
+  "artist": "Rainer Z ...",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Toast-2.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Toast-2.jpg/960px-Toast-2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Toast-2.jpg/500px-Toast-2.jpg",
+  "og": "https://senbei.seadice.win/img/senbei-browning-photo-check.jpg",
+  "local": true
  }
 }
