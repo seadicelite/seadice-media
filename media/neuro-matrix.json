@@ -61,14 +61,19 @@
      "beat-competitors-first-mover"
     ],
     "num": [
-     "loading-wait-screen"
+     "loading-wait-screen",
+     "short-app-sessions"
     ],
     "dark": [
-     "account-required"
+     "account-required",
+     "infinite-scroll-autoplay"
     ],
     "unknown": [
      "procrastination-app",
      "focus-one-app"
+    ],
+    "case": [
+     "duolingo-experiments"
     ]
    }
   },
@@ -91,6 +96,15 @@
     ],
     "myth": [
      "dark-mode-readability"
+    ],
+    "dark": [
+     "cookie-consent-banner"
+    ],
+    "case": [
+     "web-online-experiments"
+    ],
+    "unknown": [
+     "page-speed-seconds"
     ]
    }
   },
