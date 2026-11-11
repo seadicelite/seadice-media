@@ -1360,5 +1360,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Park_bench_John_Taylor_Park%2C_Largo%2C_Florida_01.JPG/500px-Park_bench_John_Taylor_Park%2C_Largo%2C_Florida_01.JPG",
   "og": "https://hanzai.seadice.win/img/mentoring-reentry-recidivism.jpg",
   "local": true
+ },
+ "free-will-belief-punishment": {
+  "file": "File:Wooden gavel 20170417.jpg",
+  "src": "/img/free-will-belief-punishment.jpg",
+  "src640": "/img/free-will-belief-punishment-sm.jpg",
+  "w": 960,
+  "h": 721,
+  "alt": "木製の小槌",
+  "artist": "Santeri Viinamäki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Wooden_gavel_20170417.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wooden_gavel_20170417.jpg/960px-Wooden_gavel_20170417.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wooden_gavel_20170417.jpg/500px-Wooden_gavel_20170417.jpg",
+  "og": "https://hanzai.seadice.win/img/free-will-belief-punishment.jpg",
+  "local": true
  }
 }

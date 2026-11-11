@@ -92,6 +92,8 @@ A. 実験をまとめた分析では、話を聞く方法は真実の自白を�
 Q. 実際の事件でも同じ結果になりますか
 A. まだはっきりしません。分析の多くは大学生を対象にした模擬実験で、研究者は実地での研究がさらに必要だとしています。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Meissner, C. A., Redlich, A. D., Michael, S. W., Evans, J. R., Camilletti, C. R., Bhatt, S., & Brandon, S. (2014). Accusatorial and information-gathering interrogation methods and their effects on true and false confessions: a meta-analytic review. Journal of Experimental Criminology, 10(4), 459-486. https://doi.org/10.1007/s11292-014-9207-6
@@ -212,6 +214,8 @@ A. 大まかな傾向としては支持するデータがありますが、単�
 Q. 18〜21歳の若者も、10代と同じように考えられますか？
 A. 一部の場面ではそうです。13〜25歳の110人を調べた研究では、落ち着いた状態の18〜21歳は少し年上の人と同じくらい自制の課題ができました。しかし嫌な気分が高まった状態では、22歳以上の大人より成績が下がりました。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Icenogle, G., Steinberg, L., Duell, N., Chein, J., Chang, L., Chaudhary, N., et al. (2019). Adolescents' cognitive capacity reaches adult levels prior to their psychosocial maturity: Evidence for a "maturity gap" in a multinational, cross-sectional sample. Law and Human Behavior, 43(1), 69-85. https://doi.org/10.1037/lhb0000315
@@ -317,6 +321,8 @@ A. いいえ。研究が示すのはリスクが高まるという確率の話�
 Q. わかっていないことは何ですか
 A. 多くの研究は米国の少年が対象で、追跡も成人初期までです。日本での状況や、どんな支えがリスクを下げるのかは、まだ十分にわかっていません。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Fox, B. H., Perez, N., Cass, E., Baglivio, M. T., & Epps, N. (2015). Trauma changes everything: Examining the relationship between adverse childhood experiences and serious, violent and chronic juvenile offenders. Child Abuse & Neglect, 46, 163-173. https://doi.org/10.1016/j.chiabu.2015.01.011
@@ -415,6 +421,8 @@ A. Moffittの理論で、思春期だけに反社会的な行動が見られ、�
 
 Q. この理論は今も正しいとされていますか
 A. 大筋は支持されていますが、2013年のレビューでは、2つのタイプの違いは程度の差であり、理論の見直しが必要だと指摘されています。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -538,6 +546,8 @@ A. そう考える説（期待の説）はありますが、研究の支持は�
 Q. 実験室の結果は、実際のけんかや暴力に当てはまりますか？
 A. そのまま当てはまるとは言えません。実験の攻撃は、相手に与える電気ショックの強さなどで測るためです。ただ、118組のカップルが56日間つけた日記の研究でも、飲酒から4時間以内は言い争いや身体的な攻撃が起きやすくなっていました。実験と日常の両方で、同じ向きの結果が出ています。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Bushman, B. J., & Cooper, H. M. (1990). Effects of alcohol on human aggression: An integrative research review. Psychological Bulletin, 107(3), 341-354. https://doi.org/10.1037/0033-2909.107.3.341
@@ -642,6 +652,8 @@ A. 実験では、経験のある法律家でも、サイコロで決めた求�
 Q. 影響を減らす方法はありますか
 A. まだはっきりした方法はわかっていません。メタ分析の著者らも、法律の場面で効果を打ち消す方法の研究が今後必要だとしています。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Englich, B., Mussweiler, T., & Strack, F. (2006). Playing Dice With Criminal Sentences: The Influence of Irrelevant Anchors on Experts’ Judicial Decision Making. Personality and Social Psychology Bulletin, 32(2), 188-200. https://doi.org/10.1177/0146167205282152
@@ -741,6 +753,8 @@ A. 2002年の実験では、相手のことを考えながら叩いた人は、�
 Q. 怒りを静めるのに効果がある方法は何ですか
 A. 154の研究のまとめでは、深呼吸、マインドフルネス、瞑想など、体の興奮を静める方法が怒りと攻撃を減らしていました。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Bushman, B. J. (2002). Does Venting Anger Feed or Extinguish the Flame? Catharsis, Rumination, Distraction, Anger, and Aggressive Responding. Personality and Social Psychology Bulletin, 28(6), 724-731. https://doi.org/10.1177/0146167202289002
@@ -839,6 +853,8 @@ A. 133研究のメタ分析では、集団のつながりを重んじる文化�
 
 Q. お金がかかれば周りに流されませんか
 A. 2023年の再現では、正解にお金を払うと誤答は33％から25％に下がりましたが、なくなりはしませんでした。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -956,6 +972,8 @@ A. 米国で使われる再犯予測ツールCOMPASの正答率は65.2%でした
 Q. 人はいつもAIを信じすぎるのですか
 A. いつもではありません。予測のアルゴリズムが間違えるところを見た人は、それが人間より正確でも避けるようになる「アルゴリズム嫌悪」も報告されています。信じすぎと避けすぎの両方が起こりえます。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Goddard, K., Roudsari, A., & Wyatt, J. C. (2012). Automation bias: a systematic review of frequency, effect mediators, and mitigators. Journal of the American Medical Informatics Association, 19(1), 121-127. https://doi.org/10.1136/amiajnl-2011-000089
@@ -1061,6 +1079,8 @@ A. 校庭の観察研究では、周りの子が割って入った場面の57%�
 Q. いじめ防止の取り組みに効果はありますか
 A. 評価100件をまとめたメタ分析では、いじめる行動が約19〜20%、被害が約15〜16%減っていました。ただし効果には大きなばらつきがあります。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Hawkins, D. L., Pepler, D. J., & Craig, W. M. (2001). Naturalistic Observations of Peer Interventions in Bullying. Social Development, 10(4), 512-527. https://doi.org/10.1111/1467-9507.00178
@@ -1159,6 +1179,8 @@ A. 2007年の研究で当時の記録を調べ直したところ、38人がい�
 
 Q. 実際の場面では、人は助けてくれますか
 A. 3か国の防犯カメラ映像219件の研究では、10件中9件の争いで少なくとも1人が助けに入っていました。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -1259,6 +1281,8 @@ A. 子どもへの司法面接のための構造化された手順です。開�
 Q. 開かれた質問とは何ですか
 A. 「何があったか全部話して」のように、答えの内容を決めずに自由に話してもらう質問です。「はい・いいえ」で答える質問と対になります。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Ceci, S. J., & Bruck, M. (1993). Suggestibility of the child witness: A historical review and synthesis. Psychological Bulletin, 113(3), 403-439. https://doi.org/10.1037/0033-2909.113.3.403
@@ -1358,6 +1382,8 @@ A. 58研究のメタ分析では、1年以内の再犯率が平均40%から30%�
 Q. 効果がないという研究もありますか
 A. 刑務所内の29のランダム化比較試験をまとめた2021年の研究では、小さな試験を除くと再犯の差は統計的にはっきりしませんでした。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Landenberger, N. A., & Lipsey, M. W. (2005). The positive effects of cognitive–behavioral programs for offenders: A meta-analysis of factors associated with effective treatment. Journal of Experimental Criminology, 1(4), 451-476. https://doi.org/10.1007/s11292-005-3541-7
@@ -1454,6 +1480,8 @@ A. 被災した人どうしが助け合い、協力することが多いとさ�
 
 Q. パニックは全く起きないのですか
 A. まれだとされていますが、全く起きないとは言い切れません。研究者自身も、例外がありうると認めています。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -1553,6 +1581,8 @@ A. 245サンプル・4万3,907人のメタ分析では、3つの特性すべて�
 
 Q. ダークトライアドの研究に弱点はありますか
 A. あります。多くが一時点の自己報告に頼っていること、3つを別々に扱えるほど区別できるか疑問があることが、2017年の総説で指摘されています。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -1682,6 +1712,8 @@ A. 大きな理由は、執行の数が少なすぎることです。米国の�
 
 Q. 抑止効果がないと知ったら、死刑への賛成は減りますか？
 A. 減るとは限りません。日本の死刑支持者を対象にした2023年の実験では、抑止効果を否定する文章を読んでも、死刑への賛成の強さは変わりませんでした。一方で、冤罪の体験談を読むと賛成が弱まりました。人は自分の立場に合う情報を高く評価しやすく、情報の種類によって効き方が違うと考えられています。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -1833,6 +1865,8 @@ A. 2021年の実験では正答率57.6%で、偶然の50%をわずかに上回�
 Q. 偽の記憶は、警告されれば消えますか
 A. 完全には消えません。2019年の国民投票の研究では、誤情報の可能性を警告すると偽の記憶はわずかに減りましたが、なくなりはしませんでした。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Wade, K. A., Garry, M., Read, J. D., & Lindsay, D. S. (2002). A picture is worth a thousand lies: Using false photographs to create false childhood memories. Psychonomic Bulletin & Review, 9(3), 597-603. https://doi.org/10.3758/BF03196318
@@ -1966,6 +2000,8 @@ A. わかるとは言えません。本物の反省と装った反省では表�
 Q. 反省していない人は再犯しやすいの？
 A. 反省がないことと再犯の結びつきには、弱い根拠しかないとするレビューがあります[6]。一方、行いを悪いと感じやすい罪悪感の傾向は、出所後1年の再犯の少なさと結びついていました[5]。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Corwin, E. P., Cramer, R. J., Griffin, D. A., & Brodsky, S. L. (2012). Defendant remorse, need for affect, and juror sentencing decisions. Journal of the American Academy of Psychiatry and the Law, 40(1), 41-49. https://pubmed.ncbi.nlm.nih.gov/22396340/
@@ -2066,6 +2102,8 @@ A. 匿名の集団の中では「集団の一員としての自分」が強ま�
 Q. ネット上の匿名の書き込みにも当てはまりますか
 A. パソコン上の話し合いの実験では、匿名のグループほど、集団の中の行動の型にそろっていきました。ただし実験室の結果で、現実のネットにそのまま当てはまるとは限りません。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Postmes, T., & Spears, R. (1998). Deindividuation and antinormative behavior: A meta-analysis. Psychological Bulletin, 123(3), 238-259. https://doi.org/10.1037/0033-2909.123.3.238
@@ -2165,6 +2203,8 @@ A. 多くの研究で結婚後に犯罪が減る関連が見られます。た�
 Q. 本人の気持ちは関係ありますか
 A. 130人の財産犯の追跡研究では、出所前の本人の気持ちや考え方が、出所後の再犯に直接影響していました。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Laub, J. H., & Sampson, R. J. (2001). Understanding Desistance from Crime. Crime and Justice, 28, 1-69. https://doi.org/10.1086/652208
@@ -2261,6 +2301,8 @@ A. 研究のレビューでは、刑の重さに犯罪が反応する証拠は�
 
 Q. では、刑を重くする意味はないのですか
 A. 抑止の効果が小さいというだけで、刑罰には責任に見合った罰を与えるなど別の目的もあります。重さの効果がゼロと証明されたわけでもありません。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -2361,6 +2403,8 @@ A. 米国の研究では、誤った目撃証言、法科学の証拠、情報�
 Q. 日本でも同じことが言えますか
 A. 今回の研究は米国のものです。日本の冤罪の原因を同じ方法で数えた研究は、ここでは確認できていません。制度が違うため、そのまま当てはめることはできません。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Garrett, B. L. (2008). Judging Innocence. Columbia Law Review, 108, 55-142. https://scholarship.law.duke.edu/faculty_scholarship/3863
@@ -2459,6 +2503,8 @@ A. 関係はありますが弱いものです。成人の106の効果量をま�
 
 Q. 共感と犯罪の関係はなぜ弱いのですか
 A. 犯罪には、環境や衝動の強さなど多くの要因が関わるためと考えられます。また、共感の測り方が質問紙にかたよっているという課題も指摘されています。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -2559,6 +2605,8 @@ A. 8つのランダム化比較試験をまとめたレビューでは、就労�
 Q. 年齢によって違いはありますか
 A. 米国の就労実験の分析では、27歳以上で仕事の効果が見られ、若い人ではほとんど見られませんでした。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Uggen, C. (2000). Work as a Turning Point in the Life Course of Criminals: A Duration Model of Age, Employment, and Recidivism. American Sociological Review, 65(4), 529-546. https://doi.org/10.1177/000312240006500403
@@ -2655,6 +2703,8 @@ A. 識別の後に「容疑者を選びましたね」などと伝えられる�
 
 Q. 誤った目撃識別は、えん罪にどのくらい関わっていますか
 A. 米国でDNA鑑定により無実が判明した300件を超える事例のうち、7割以上で自信のある誤った識別が関わっていました。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -2755,6 +2805,8 @@ A. 刑事裁判73件の観察では、魅力的な被告ほど刑が軽い傾向
 Q. 童顔だと有利になりますか
 A. 少額訴訟506件の研究では、童顔の被告は故意の事件で勝ちやすい一方、過失の事件では不利になる傾向でした。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Wilson, J. P., & Rule, N. O. (2015). Facial Trustworthiness Predicts Extreme Criminal-Sentencing Outcomes. Psychological Science, 26(8), 1325-1331. https://doi.org/10.1177/0956797615590992
@@ -2854,6 +2906,8 @@ A. 正確な発生率はわかっていません。ただ米国でDNA鑑定に�
 Q. 防ぐ方法はありますか
 A. 2010年の白書は、取り調べ全体を録画することを強く勧めています。偽の証拠の提示や、罪を軽く見せる言葉の使用にも注意を促しています。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Kassin, S. M., Drizin, S. A., Grisso, T., Gudjonsson, G. H., Leo, R. A., & Redlich, A. D. (2010). Police-induced confessions: Risk factors and recommendations. Law and Human Behavior, 34(1), 3-38. https://doi.org/10.1007/s10979-009-9188-6
@@ -2952,6 +3006,8 @@ A. 2023年に123人で再現され、35%が迷子になった偽りの記憶を�
 
 Q. 偽りの記憶はどのくらいの人に起きますか
 A. 8研究を再分析した2017年の研究では30.4%でした。ただし、本人も完全な記憶と評価しそうなのは15%ほどという見直しもあります。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -3067,6 +3123,8 @@ A. 嘘ではありません。本人は変わった後の記憶を本当だと�
 Q. 裁判の証言にも関係がありますか？
 A. 直接の目撃とは条件が違うため、そのまま当てはめることはできません。ただし、強い感情を伴う記憶でも確信の高さだけで正確さを判断できない、という点は目撃証言の研究とも共通しています。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Talarico, J. M., & Rubin, D. C. (2003). Confidence, not consistency, characterizes flashbulb memories. Psychological Science, 14(5), 455-461. https://doi.org/10.1111/1467-9280.02453
@@ -3168,6 +3226,8 @@ A. 複数の人のDNAが混ざった資料では、人の解釈が必要です�
 Q. どうすれば鑑定の偏りを減らせますか
 A. 研究者は、検査機関での偏りを減らす方法を提案しています。ただ、どの方法がどれだけ効くかは、ここで紹介した研究ではまだ確かめられていません。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Dror, I. E., Charlton, D., & Péron, A. E. (2006). Contextual information renders experts vulnerable to making erroneous identifications. Forensic Science International, 156(1), 74-78. https://doi.org/10.1016/j.forsciint.2005.10.017
@@ -3175,6 +3235,145 @@ A. 研究者は、検査機関での偏りを減らす方法を提案してい�
 - Dror, I. E., & Hampikian, G. (2011). Subjectivity and bias in forensic DNA mixture interpretation. Science & Justice, 51(4), 204-208. https://doi.org/10.1016/j.scijus.2011.08.004
 
 - Kassin, S. M., Dror, I. E., & Kukucka, J. (2013). The forensic confirmation bias: Problems, perspectives, and proposed solutions. Journal of Applied Research in Memory and Cognition, 2(1), 42-52. https://doi.org/10.1016/j.jarmac.2013.01.001
+
+---
+
+# 自由意志を信じる人ほど罰に厳しいのか。44か国の調査と、「脳のせい」と聞いたときの判断の変化
+
+URL: https://hanzai.seadice.win/free-will-belief-punishment/
+カテゴリ: 取り調べと冤罪
+公開日: 2026-11-11
+
+「本人が自分で選んだのだから、責任を取るべきだ」。罰を考えるとき、私たちはこう感じがちです。研究では、人は自由に選べると強く信じる人ほど、罰に厳しい傾向が44か国で見られました。行動を脳の働きとして学んだ人は、「報いとしての罰」を弱めました。ただし、この考えを実験で揺さぶる効果は不安定で、追試で再現しなかった有名な実験もあります。
+
+## SUMMARY
+
+- 44か国・8,917人の調査では、自由意志を強く信じる人ほど、身近な小さな不正にも「罰を受けるべきだ」と答えた。関係は小さいが、どの国でも見られた。
+
+- 行動を脳の仕組みとして学ぶと、「当然の報いとしての罰」への支持は下がった。一方、犯罪を防ぐための罰への支持は変わらなかった。
+
+- 自由意志への信念を実験で弱める方法は効き目が不安定で、「信じないとズルが増える」という有名な実験は追試で再現されなかった。裁判官87人の実験では、量刑は変わらなかった。
+
+この記事と一緒に使える
+Webツール・登録不要・無料判断のくせを体験する損失回避・言い方で変わる選択など10問。答えてから研究の結果と比べられる使ってみるiPhoneアプリ・無料・広告なし認知バイアス確証バイアス・同調など80種類の認知バイアスを、例・対策・もとになった研究つきで解説App Storeで見る犯罪と心理のツールとアプリをすべて見る
+
+## 01 どんな心の仕組みが働いているのか自由意志を信じると、なぜ罰が厳しくなるのか？
+
+「別の選び方もできたのに、あえて悪いほうを選んだ」と考えるほど、その人の責任は重く見えます。責任が重く見えるほど、「苦しみを受けて当然だ」という報いの考えが強まります。
+
+- 原因を本人に見る行動の理由を、状況より本人の性格や意思に求める。
+
+- 責任が重く見える「ほかの選び方もできた」と思うほど非難が強まる。
+
+- 報いを求める役に立つかより「当然の報い」として罰を求める。
+
+Genschowら（2017）は6つの研究で、自由意志を強く信じる人ほど、他人の行動を本人の内面のせいにしすぎる傾向（対応バイアス）が強いことを示しました[4]。最後の研究では、自由意志への信念が罰の重さを予測し、その一部はこの傾向を通じていました。罰の重さを決める2つの考え方は、「当然の報い」と「抑止」を比べた記事で紹介しています。
+
+## 02 研究でわかっていること自由意志を信じる人は、本当に罰に厳しいのか？
+
+複数の国際調査で、自由意志を強く信じる人ほど罰に厳しい関係が見られました。ただし関係の大きさは小さく、年齢や宗教の大切さなど、ほかの要因と同じくらいか、それより弱い程度です。
+
+44か国自由意志と身近な不正への罰を調べた調査の国の数（8,917人。2026年発表）
+
+65,111人世界価値観調査（2005〜2009年）の46か国の成人。日本も含む
+
+87人自由意志を否定する文章を読ませた実験に参加した、職業裁判官の数
+
+5回「自由意志を疑うとズルが増える」実験の再現を試みた研究の数（4回は事前登録）
+
+身近な不正への「罰を受けるべき」度を押し上げる要因（1〜7点の尺度。各要因が1標準偏差高いときの差）
+
+宗教が大切だと思う0.18点
+
+自由意志を強く信じる（同じ国の中で）0.11点
+
+年齢が高い0.07点
+
+社会的に保守的0.05点
+
+経済的に保守的0.00点
+
+出典: Walton, Kirkland & Bastian（2026）Table 2。平均は4.33点。どれも同時に分析した値
+
+Walton, Kirkland & Bastian（2026）[1]
+
+44か国の8,917人に、自由意志への信念と、10の身近な不正（多すぎたおつりを返さない、駐車場で車をこすって立ち去る等）への「罰を受けるべき」度を聞いた。年齢・性別・宗教・政治的な考えを考えに入れても、自由意志を強く信じる人ほど罰に厳しかった。国の平均で見ても同じ向きだった。一方、国ごとの自由意志の平均と、国ごとの死刑への賛成の度合いには、統計的な関係が見られなかった。
+
+対象: 調査会社のオンライン調査に答えた18歳以上の成人 ／ 限界: 一度きりの調査で、因果はわからない。死刑の分析は38か国分しかデータがなく、著者らも慎重に読むよう求めている。
+
+Martin, Rigoni & Vohs（2017）[2]
+
+世界価値観調査の46か国・65,111人を分析した。人生は自分で決められる、自分には選ぶ自由があると感じる人ほど、「犯罪者が厳しく罰せられること」を民主主義に欠かせないと答えた。この関係は、役所の汚職の少なさなど国の制度の違いにかかわらず見られた。
+
+対象: 2005〜2009年の調査に答えた46か国の成人（日本は2005年） ／ 限界: 自由意志への信念は2問だけで測った。罰の質問は「民主主義の特徴」としての問い方だった。
+
+Shariff, Greene, Karremans ほか（2014）[3]
+
+4つの研究を行った。自由意志への信念が弱い人は、報いとしての罰を支持しにくかったが、犯罪を防ぐための罰への支持は変わらなかった。行動を脳の仕組みとして学んだ人は、実験室で読んだ場合も、大学の神経科学の授業を受けた場合も、報いとしての罰への支持が下がった。
+
+対象: 4つの研究の参加者。うち1つは大学の神経科学の授業の受講者 ／ 限界: 学んだ内容がどれだけ長く残るかは、この研究ではわからない。
+
+Solum, Stephenson, Wilson & Jack（2026）[9]
+
+英国115人・ノルウェー98人・スウェーデン115人に、殺人事件の筋書きで刑の重さを聞いた。自由意志を強く信じる人ほど重い刑を選び、「更生プログラムが完全に効いた」と伝えたあとでも、厳しい傾向は残った。英国の人はノルウェーの人より、自由意志を信じる度合いも罰の厳しさも高かった。ノルウェーの人は犯罪の理由を理解することや治療をより重んじた。
+
+対象: オンラインで集めた328人 ／ 限界: 一度きりの調査で、筋書きは重い暴力事件1つだけ。因果は言えない。
+
+## 03 よくある思い込みと、研究が示す実際「自由意志を疑うと、人は悪くなる」は本当か？
+
+はっきりした証拠はありません。自由意志を疑わせるとズルが増えたという2008年の実験は、5回の追試でほぼ再現されませんでした。信念を実験で変える方法の効き目も、やり方によってばらつきます。
+
+MYTH / 思い込み「人の行動は決まっている」と教えると、モラルが下がりズルが増える。
+FACT / 研究ではVohs & Schooler（2008）は、決定論の文章を読んだ人がズルを多くしたと報告した[5]。しかし同じ手続きを使った5つの追試（162〜982人）は、おおむね再現に失敗した[6]。追試の著者らは、自由意志への信念を確実に変えること自体が、思われていたより難しいと述べている。
+
+MYTH / 思い込み文章を一度読ませれば、自由意志への信念は変えられる。
+FACT / 研究では3,182人の4つの実験では、文章と短い主張を組み合わせたり、自分の体験に結びつけて書かせたりすると、読んだ直後の信念はより弱まり、罰の判断もより大きく変わった。しかし実験の最後に測った信念では、方法による違いは見られなかった[7]。
+
+MYTH / 思い込み「脳のせい」と知れば、裁判官も刑を軽くする。
+FACT / 研究では職業裁判官87人の実験では、自由意志を否定する文章で信念は弱まったが、勧める刑の重さは変わらなかった[8]。この研究はプレプリント（査読前の原稿）で確認した。一般の人の結果が、専門家にそのまま当てはまるとは限らない。
+
+## 04 日常で生かせる視点罰の重さを考えるとき、何に気をつければいい？
+
+自分が「本人が選んだのだから」と感じたとき、それが報いを求める気持ちか、再発を防ぐための考えかを分けてみると、判断の根拠がはっきりします。
+
+- 「報い」と「防ぐ」を分ける: 自由意志への信念が強く結びつくのは、報いとしての罰だった。裁判員として刑を考えるときも、どちらの理由かを言葉にしてみる。
+
+- 状況の力を一度考える: 人は他人の行動を本人のせいにしすぎる傾向がある。環境や状況の影響は、10代の責任と脳の成熟の記事でも扱っている。
+
+- 「脳科学で証明」に飛びつかない: 有名な実験でも追試で消えることがある。似た例は追試で消えた「十戒の効果」の記事にもある。
+
+## 05 よくある質問
+
+Q. 自由意志を信じる人ほど、死刑に賛成するのですか？
+A. 個人単位では、自由意志への信念が死刑や厳しい罰への支持と結びつくという研究が複数あります。ただし44か国の調査で国の平均どうしを比べたときは、自由意志の平均と死刑への賛成の度合いに統計的な関係は見られませんでした。分析できた国が38か国と少なく、著者らは慎重に読むよう求めています。死刑の効果そのものは死刑の抑止効果の記事で扱っています。
+
+Q. 自由意志を信じないと、責任を問えなくなりませんか？
+A. 実験では、自由意志への信念が弱まっても、犯罪を防ぐための罰への支持は下がりませんでした。下がったのは「苦しみを受けて当然」という報いとしての罰です。罰をなくすのではなく、罰の理由が変わる可能性が示されています。
+
+Q. この研究で、自由意志があるかどうかはわかるのですか？
+A. わかりません。これらの研究が調べたのは、人が自由意志を「どれくらい信じているか」と、その信念が判断にどう関わるかです。自由意志が本当にあるかどうかは、哲学でも決着していない問いです。
+
+読んだ記事にするもう一度読みたい
+
+## SOURCES
+
+- Walton, A., Kirkland, K., & Bastian, B. (2026). Free will belief predicts everyday punitiveness across 44 countries. British Journal of Social Psychology, 65(3), e70110. https://doi.org/10.1111/bjso.70110
+
+- Martin, N. D., Rigoni, D., & Vohs, K. D. (2017). Free will beliefs predict attitudes toward unethical behavior and criminal punishment. PNAS, 114(28), 7325-7330. https://doi.org/10.1073/pnas.1702119114
+
+- Shariff, A. F., Greene, J. D., Karremans, J. C., et al. (2014). Free will and punishment: A mechanistic view of human nature reduces retribution. Psychological Science, 25(8), 1563-1570. https://doi.org/10.1177/0956797614534693
+
+- Genschow, O., Rigoni, D., & Brass, M. (2017). Belief in free will affects causal attributions when judging others' behavior. PNAS, 114(38), 10071-10076. https://doi.org/10.1073/pnas.1701916114
+
+- Vohs, K. D., & Schooler, J. W. (2008). The value of believing in free will: Encouraging a belief in determinism increases cheating. Psychological Science, 19(1), 49-54. https://doi.org/10.1111/j.1467-9280.2008.02045.x
+
+- Nadelhoffer, T., Shepard, J., Crone, D. L., Everett, J. A. C., Earp, B. D., & Levy, N. (2020). Does encouraging a belief in determinism increase cheating? Reconsidering the value of believing in free will. Cognition, 203, 104342. https://doi.org/10.1016/j.cognition.2020.104342
+
+- St Quinton, T., & Genschow, O. (2026). The effectiveness of manipulation characteristics on modifying belief in free will and punishment. Consciousness and Cognition, 104097. https://doi.org/10.1016/j.concog.2026.104097
+
+- Genschow, O., Rigoni, D., Hawickhorst, H., Aschermann, E., & Brass, M. (2020). Professional judges' disbelief in free will and punishment. PsyArXiv（プレプリント）. https://doi.org/10.31234/osf.io/4ucd3
+
+- Solum, H., Stephenson, Z., Wilson, S., & Jack, A. (2026). Exploring free will beliefs and attitudes towards punishment in Norway, Sweden and the United Kingdom. Behavioral Sciences, 16(6), 868. https://doi.org/10.3390/bs16060868
 
 ---
 
@@ -3266,6 +3465,8 @@ A. 窃盗が約7割を占めます。女性の窃盗のうち75.7%が万引き�
 
 Q. なぜ犯罪は男性に多いのですか
 A. 差がどこでも見られる点では研究者の意見が一致していますが、理由については、さまざまな理論があり、今も議論が続いています。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -3365,6 +3566,8 @@ A. 多数派の方向の論拠を多く聞くことと、周りの意見を知�
 
 Q. 裁判の評議でも起きますか
 A. 模擬陪審の実験では、話し合った事件だけ判断が極端になりました。ただし実際の裁判員裁判で同じ大きさで起きるかは、はっきりしていません。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -3481,6 +3684,8 @@ A. 大人を対象にした研究もあります。ただ、この記事で確�
 Q. 悪意に読む癖は、訓練で変えられますか？
 A. あいまいな顔を「怒り」ではなく「喜び」と読むよう練習すると、読み方そのものは変わりやすいことがわかっています。一方で、攻撃やいらだちが減るかは研究で結果が割れており、29の比較試験をまとめた研究でも効果は小さめでした。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Orobio de Castro, B., Veerman, J. W., Koops, W., Bosch, J. D., & Monshouwer, H. J. (2002). Hostile attribution of intent and aggressive behavior: A meta-analysis. Child Development, 73(3), 916–934. https://doi.org/10.1111/1467-8624.00447
@@ -3586,6 +3791,8 @@ A. あります。弁護人のいない受刑者が後半に回されやすい�
 Q. 結局、裁判官は空腹で判断を変えるのですか
 A. わかっていません。休憩前後で許可率が変わるデータはありますが、空腹や疲れが原因だとは確かめられていません。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Danziger, S., Levav, J., & Avnaim-Pesso, L. (2011). Extraneous factors in judicial decisions. Proceedings of the National Academy of Sciences, 108(17), 6889-6892. https://doi.org/10.1073/pnas.1018033108
@@ -3686,6 +3893,8 @@ A. 39か国のデータで、他の要因を考えに入れても格差から犯
 
 Q. わかっていないことは何ですか
 A. 研究の多くは地域や国単位の分析です。なぜ格差が暴力につながるのか、その心の仕組みを個人のレベルで確かめた研究はまだ多くありません。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -3805,6 +4014,8 @@ A. なくなるとは言えません。録画を知った警察官は一部の�
 
 Q. カメラの向きで、なぜ判断が変わるのですか？
 A. 画面で目立つ人物を出来事の原因と見なしやすいためだと考えられています。この偏りが「見え方」から来るのか、見る人に与えられる判断の「枠組み」から来るのかは、研究者の間で解釈が分かれています。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -3933,6 +4144,8 @@ A. 原因かどうかは、まだ確かめられていません。17研究をま
 Q. 学校を途中でやめると、犯罪が増えるのですか？
 A. ブラジルの出生コホート研究では、予定の年齢までに学校を終えた若者は、暴力の犯罪のオッズが約半分でした。留年が多かった若者でも、学校を終えることの守る働きは変わりませんでした。ただし本人の申告による調査で、1つの国の結果です。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Frisell, T., Pawitan, Y., & Långström, N. (2012). Is the association between general cognitive ability and violent crime caused by family-level confounders? PLoS ONE, 7(7), e41783. https://doi.org/10.1371/journal.pone.0041783
@@ -4035,6 +4248,8 @@ A. 再犯者の数は2006年のピークから減っています。ただし2023
 
 Q. 出所した人はどのくらい刑務所に戻りますか
 A. 2023年出所者の2年以内再入率は13.8%、2020年出所者の5年以内再入率は34.0%でした。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -4155,6 +4370,8 @@ A. 模擬陪審の研究では、同じ人数なら無罪側のほうが影響�
 
 Q. 怒って反対すると、意見は通りやすくなるの？
 A. 一概には言えません。210人の実験では、怒った男性の反対者は周りの確信を下げましたが、同じ言葉で怒った女性の反対者は、周りの確信をかえって強めました。聞く側の思い込みが、届き方を変えていました。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -4279,6 +4496,8 @@ A. いいえ。初期の実験の参加者は、ごく普通の大学生でし�
 Q. ニュースの映像を見ると、被害者を責めやすくなりますか？
 A. 可能性はあります。2020年の研究では、同じ事件を文章で読んだ人より、防犯カメラの映像で見た人のほうが、罪のない被害者の人柄を相対的に低く評価しました。心が強く動く場面ほど、信念を守る反応が起きやすいと考えられています。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Lerner, M. J., & Simmons, C. H. (1966). Observer's reaction to the "innocent victim": Compassion or rejection? Journal of Personality and Social Psychology, 4(2), 203-210. https://doi.org/10.1037/h0023562
@@ -4396,6 +4615,8 @@ A. はっきりした答えはまだありません。研究者は、成人の�
 Q. 日本にも、少年を大人と同じ裁判にかける仕組みはありますか？
 A. あります。家庭裁判所が事件を検察官に送り、大人と同じ刑事裁判にかける仕組みで、一般に「逆送」と呼ばれます。ただし、この記事で紹介した研究はすべて米国のものです。制度も刑務所の環境も違うため、結果をそのまま日本に当てはめることはできません。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - McGowan, A., Hahn, R., Liberman, A., et al. (2007). Effects on violence of laws and policies facilitating the transfer of juveniles from the juvenile justice system to the adult justice system: A systematic review. American Journal of Preventive Medicine, 32(4 Suppl), S7-S28. https://doi.org/10.1016/j.amepre.2006.12.003
@@ -4499,6 +4720,8 @@ A. 24件の研究をまとめた2022年のメタ分析では、増やす方向�
 Q. 犯罪の減少は鉛で説明できますか
 A. 同じメタ分析では、米国の殺人の減少のうち鉛で説明できるのは7〜28%と推定され、大部分はほかの要因によると考えられています。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Higney, A., Hanley, N., & Moro, M. (2022). The lead-crime hypothesis: A meta-analysis. Regional Science and Urban Economics, 97, 103826. https://doi.org/10.1016/j.regsciurbeco.2022.103826
@@ -4597,6 +4820,8 @@ A. 2019年の総説によると、これまで見つかった嘘のしぐさの�
 
 Q. 訓練すれば嘘を見抜けるようになりますか
 A. 30の研究をまとめた分析では、訓練の効果は小〜中程度でした。話の内容に注目する訓練のほうが効果が大きい傾向でした。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -4715,6 +4940,8 @@ A. 研究の結果は分かれています。カナダや米国で家主やセ�
 Q. 冤罪の体験から立ち直る人もいるのか？
 A. います。無罪になった58人の自由記述の回答で、人生の変化を尋ねた質問に答えた56人では、42.8%が良い方向の変化を語りました。助けてくれる人がいると知った、物事の見方を自分で選べるようになった、などです。ただし悪い方向の変化を語った人は78.5%とさらに多く、両方を語った人も30.3%いました。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Brooks, S. K., & Greenberg, N. (2021). Psychological impact of being wrongfully accused of criminal offences: A systematic literature review. Medicine, Science and the Law, 61(1), 44–54. https://doi.org/10.1177/0025802420949069
@@ -4819,6 +5046,8 @@ A. 一人ずつ見せると誤りは減りますが、正しい選択も減り�
 
 Q. 二重盲検とは何ですか
 A. 面割りを行う人も、誰が容疑者か知らない状態で実施することです。実施者の言葉や態度が、目撃者の選択に影響するのを防ぎます。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -4946,6 +5175,8 @@ A. 同じではありません。誤情報効果は、あとから聞いた誤�
 Q. つらい記憶を再固定化で消す治療はありますか？
 A. 研究は進んでいますが、確立したとは言えません。動物では記憶の表れが消えた実験がある一方、人では追試で効果が見られなかった方法もあります。2018年のレビューも、人の再固定化は有力だが議論の続く説明だとしています。つらい記憶に悩むときは、医療機関などの専門家に相談してください。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Nader, K., Schafe, G. E., & LeDoux, J. E. (2000). Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval. Nature, 406(6797), 722-726. https://doi.org/10.1038/35021052
@@ -5050,6 +5281,8 @@ A. まれな事件ほど大きく報じられ、印象に残りやすいから�
 
 Q. 精神疾患のある人は犯罪の被害にもあいやすいのですか
 A. 米国の4,480人の調査では、6か月で暴力の被害にあった人は30.9%で、暴力をふるった人の23.9%より多くなっていました。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -5188,6 +5421,8 @@ A. 保護司の関わりだけを取り出して再犯への効果を確かめ�
 Q. 支援が逆効果になることはあるのですか？
 A. あります。1939年に始まったケンブリッジ・サマービル研究では、カウンセラーが平均5.5年寄り添ったグループのほうが、30年後に2回以上の犯罪などの悪い結果が多く見られました。後の分析では、支援を受けた少年どうしが問題行動を学び合う「仲間の影響」が、一因として支持されています。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Tolan, P. H., Henry, D. B., Schoeny, M. S., Lovegrove, P., & Nichols, E. (2014). Mentoring programs to affect delinquency and associated outcomes of youth at-risk: A comprehensive meta-analytic review. Journal of Experimental Criminology, 10(2), 179-206. https://doi.org/10.1007/s11292-013-9181-4
@@ -5295,6 +5530,8 @@ A. 2009年の部分的な再現では、70％が150ボルトを超えて続け�
 Q. なぜ人は従ってしまうのですか
 A. 近年の研究では、命令への服従より、実験の目的に共感して協力したためと考えられています。命令に近い言葉ほど、かえって効きにくいことがわかっています。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Milgram, S. (1963). Behavioral Study of obedience. The Journal of Abnormal and Social Psychology, 67(4), 371-378. https://doi.org/10.1037/h0040525
@@ -5393,6 +5630,8 @@ A. 1974年の実験では、「激突した」と聞かれた人の32%が、映�
 
 Q. ゆがんだ記憶を防ぐ方法はありますか
 A. 後から「誤った情報が混じっていた」と警告すると、影響は平均して半分以下に減ります。まず誘導しない質問をすることが基本です。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -5521,6 +5760,8 @@ A. そうとは限りません。職場の研究をまとめた2022年のメタ�
 Q. 道徳的離脱は変えられますか？
 A. 重い罪を犯した少年1,169人を追った研究では、道徳的離脱が下がった少年ほど、自分で答えた反社会的な行動も早く減っていました。正当化の傾向は固定された性格ではなく、年齢や経験とともに変わりうるものだと考えられています。ただしこれは観察研究で、介入の効果を確かめたものではありません。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Bandura, A. (1999). Moral disengagement in the perpetration of inhumanities. Personality and Social Psychology Review, 3(3), 193-209. https://doi.org/10.1207/s15327957pspr0303_3
@@ -5647,6 +5888,8 @@ A. 悪いとは言えません。1998年の実験では、自己評価の高さ�
 
 Q. 「傷つきやすい自己愛」の人も攻撃的になるのですか？
 A. 2021年のメタ分析では、自信過剰に見える「誇大型」だけでなく、他人の評価に過敏な「過敏型（傷つきやすい自己愛）」や、特別扱いを当然と考える「特権意識」も、攻撃と関連していました。ふつうの性格の範囲の自己愛と、病的な水準の自己愛のどちらにも関連が見られました。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -5784,6 +6027,8 @@ A. 研究の中では、ある程度できます。犯行の特徴から同じ�
 Q. 「秩序型・無秩序型」の分け方は今も正しいとされているのですか
 A. 今も後の分類に影響を残していますが、方法と妥当性には強い批判があります。もとになったのは性的な殺人をした男性36人への面接と事例でした。2002〜2024年には、性的な殺人だけでも19通りの分類が提案され、型の数も研究ごとに違います。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Fox, B., & Farrington, D. P. (2018). What have we learned from offender profiling? A systematic review and meta-analysis of 40 years of research. Psychological Bulletin, 144(12), 1247-1274. https://doi.org/10.1037/bul0000170
@@ -5909,6 +6154,8 @@ A. 2011年の実験では、19人中15人が、悪い知らせより良い知ら
 Q. 捕まった経験があると、人は捕まる危険を高く見るようになる？
 A. 重い罪を犯した若者の追跡研究では、逮捕のあとに捕まる危険の見積もりを見直していました。その度合いには個人差がありました[6]。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Shepperd, J. A., Klein, W. M. P., Waters, E. A., & Weinstein, N. D. (2013). Taking stock of unrealistic optimism. Perspectives on Psychological Science, 8(4), 395-411. https://doi.org/10.1177/1745691613485247
@@ -6016,6 +6263,8 @@ A. ふだん見る顔から違いの見つけ方を学んでいるためです�
 Q. この傾向は変えられますか
 A. 子ども時代に育つ環境が変わると入れ替わった研究があります。大人になってからどこまで変わるかは、まだよくわかっていません。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Meissner, C. A., & Brigham, J. C. (2001). Thirty years of investigating the own-race bias in memory for faces: A meta-analytic review. Psychology, Public Policy, and Law, 7(1), 3-35. https://doi.org/10.1037/1076-8971.7.1.3
@@ -6114,6 +6363,8 @@ A. 2011年の研究では、仲間に見られている10代で、ごほうび�
 
 Q. 実際の犯罪でも、若者は集団でやることが多いのですか
 A. 英国の分析では、複数人による犯罪は全体では少数派でしたが、年齢が若いほど多い傾向がありました。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -6237,6 +6488,8 @@ A. 日本では1960年代から、検査結果が裁判で証拠として認め�
 Q. ポリグラフで「嘘の反応」が出るのはなぜですか
 A. 嘘だけに現れる体の反応は見つかっていません。本当のことを話す人も、疑われる質問では緊張して強く反応することがあります。そのため反応の強さだけで嘘と決めることはできません。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Iacono, W. G., & Ben-Shakhar, G. (2019). Current status of forensic lie detection with the comparison question technique: An update of the 2003 National Academy of Sciences report on polygraph testing. Law and Human Behavior, 43(1), 86-98. https://doi.org/10.1037/lhb0000307
@@ -6340,6 +6593,8 @@ A. あります。有利な報道は有罪判断を減らしていました（r=
 Q. 裁判官が「報道は無視して」と伝えれば防げますか
 A. 十分とは言えません。触れないよう指示された後も、不利な報道を読んだ模擬陪審のグループはすべて評議で報道に言及していました。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Hoetger, L. A., Devine, D. J., Brank, E. M., Drew, R. M., & Rees, R. (2022). The impact of pretrial publicity on mock juror and jury verdicts: A meta-analysis. Law and Human Behavior, 46(2), 121-139. https://doi.org/10.1037/lhb0000473
@@ -6438,6 +6693,8 @@ A. 法務省によると、2023年に刑務所を出た人の2年以内再入率
 
 Q. なぜ刑務所が再犯を増やすことがあるのですか
 A. 服役で仕事や家族とのつながりが切れたり、前科の烙印を負ったりして、出所後の生活が難しくなるためと考えられています。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -6567,6 +6824,8 @@ A. 関係していました。米国テキサス州で出所した男性517人�
 Q. 面会を受けない受刑者は、家族に見捨てられた人なのですか？
 A. そうとは限りません。18の質的研究をまとめたレビューでは、実際的な問題に加えて、本人や家族が刑務所で会わないことを選ぶ場合もありました。面会がない状態は、孤独感や気分の落ち込みと結びついて語られていました。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - De Claire, K., & Dixon, L. (2017). The effects of prison visits from family members on prisoners' well-being, prison rule breaking, and recidivism: A review of research since 1991. Trauma, Violence, & Abuse, 18(2), 185-199. https://doi.org/10.1177/1524838015603209
@@ -6672,6 +6931,8 @@ A. 一般の大人を対象にしたメタ分析では全体で4.5%でしたが�
 Q. なぜ調査によって数字が違うのですか
 A. 測り方と対象が違うためです。自己報告の質問紙では高めに、専門家の評価では低めに出やすく、男性や組織で働く人のサンプルで高い傾向がありました。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Sanz-García, A., Gesteira, C., Sanz, J., & García-Vera, M. P. (2021). Prevalence of Psychopathy in the General Adult Population: A Systematic Review and Meta-Analysis. Frontiers in Psychology, 12, 661044. https://doi.org/10.3389/fpsyg.2021.661044
@@ -6768,6 +7029,8 @@ A. 治療できないという確かな証拠は乏しく、研究自体がま�
 
 Q. 子どものうちに支援すると変わりますか
 A. 16の研究を整理したレビューでは、親に関わり方を学んでもらう支援で、子どもの冷淡な特性が長く改善した例がありました。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -6896,6 +7159,8 @@ A. 日本の裁判官50人と一般の人200人に同じ架空の事件で刑を
 Q. 罰の目的を聞かれたとき、人は本音を答えているのですか？
 A. 必ずしも一致しません。Carlsmithらの研究では、参加者は抑止を重視すると強く述べたのに、個別の刑の判断は当然の報いの考え方で動いていました。経済ゲームの実験でも、報いを求める気持ちの自己申告は、実際の報いとしての罰と関係していませんでした。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Carlsmith, K. M., Darley, J. M., & Robinson, P. H. (2002). Why do we punish? Deterrence and just deserts as motives for punishment. Journal of Personality and Social Psychology, 83(2), 284-299. https://doi.org/10.1037/0022-3514.83.2.284
@@ -6998,6 +7263,8 @@ A. 10のランダム化比較試験では、2年間の再犯が控えめに減�
 
 Q. 被害者にはどんな効果がありますか
 A. 事件の扱いへの満足度が高く、謝罪を受けやすく、仕返しを望む気持ちが少ない傾向が報告されています。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -7123,6 +7390,8 @@ A. 証明されたとまでは言えません。罰を決めるとき、脳の�
 Q. 謝られると、仕返ししたい気持ちは減りますか？
 A. 減る方向の結果が出ています。36人の実験では、謝りのメモを受け取った相手には、強い罰を選ぶ割合が下がりました。337人を3週間追った研究でも、謝罪などの歩み寄りは「この関係は大事だ」「また傷つけられる心配は小さい」という見方を通して、許しにつながっていました。ただし、36人の実験での差は大きくありません。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Carlsmith, K. M., Wilson, T. D., & Gilbert, D. T. (2008). The paradoxical consequences of revenge. Journal of Personality and Social Psychology, 95(6), 1316-1324. https://doi.org/10.1037/a0012165
@@ -7236,6 +7505,8 @@ A. いいえ。この理論は動機より、犯罪が起きる状況や機会�
 Q. わかっていないことは何ですか
 A. 3つの条件をどう測るかは研究ごとに違い、理論の支持は「中程度」とまとめられています。コロナ禍の研究も、警察に届け出られない犯罪を数えられないという限界があります。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Cohen, L. E., & Felson, M. (1979). Social Change and Crime Rate Trends: A Routine Activity Approach. American Sociological Review, 44(4), 588-608. https://doi.org/10.2307/2094589
@@ -7335,6 +7606,8 @@ A. 9つのランダム化実験をまとめたレビューでは、効果はな�
 Q. なぜ逆効果になるのですか
 A. 理由ははっきりわかっていません。研究者は、思い込みで広めるのではなく、厳密に評価することが大切だと指摘しています。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Petrosino, A., Turpin-Petrosino, C., & Buehler, J. (2003). Scared Straight and Other Juvenile Awareness Programs for Preventing Juvenile Delinquency: A Systematic Review of the Randomized Experimental Evidence. The ANNALS of the American Academy of Political and Social Science, 589(1), 41-62. https://doi.org/10.1177/0002716203254693
@@ -7433,6 +7706,8 @@ A. 2017年のメタ分析では相関がr=0.35〜0.42でした。社会科学で
 
 Q. 子どものころの自制心は、大人になってからにも関係しますか
 A. 約1,000人を32歳まで追った研究では、子ども期の自制心が低いほど大人になってからの犯罪が多く、知能や家庭の状況を考慮しても関係が残りました。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -7548,6 +7823,8 @@ A. そうとは限りません。4つの実験では、いきなり重い賄賂�
 
 Q. フット・イン・ザ・ドアとは何？今も効果はあるの？
 A. 小さな頼みを受けた人が、あとの大きな頼みも受けやすくなる現象です[1]。メタ分析では効果は小さく[7]、2013年にポーランドとウクライナで行われた追試では、効果ははっきりしませんでした[7]。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -7679,6 +7956,8 @@ A. はっきりした裏付けは少ないとされています。レビュー�
 Q. 独居拘禁が害を生むことは証明されたのですか？
 A. 強い結びつきは示されていますが、因果関係の証明までは至っていません。受刑者をくじ引きで独居拘禁に割り当てる実験は倫理的にできないため、研究はすべて観察研究です。レビューの著者らも、因果関係を確かめる研究がさらに必要だと述べています。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Luigi, M., Dellazizzo, L., Giguère, C.-É., Goulet, M.-H., & Dumais, A. (2020). Shedding light on "the hole": A systematic review and meta-analysis on adverse psychological effects and mortality following solitary confinement in correctional settings. Frontiers in Psychiatry, 11, 840. https://doi.org/10.3389/fpsyt.2020.00840
@@ -7782,6 +8061,8 @@ A. 他人の違反の跡が「ここではルールを守らなくてよい」�
 Q. わかっていないことは何ですか
 A. 野外実験は軽い違反が中心で、重い犯罪にどこまで当てはまるかはわかっていません。198研究の分析でも、乱れが危険な行動を増やす一貫した証拠はありませんでした。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Keizer, K., Lindenberg, S., & Steg, L. (2008). The Spreading of Disorder. Science, 322(5908), 1681-1685. https://doi.org/10.1126/science.1161405
@@ -7880,6 +8161,8 @@ A. 2019年の再検証で、看守役が細かな指示を受けていたこと�
 
 Q. 同じような研究はほかにありますか
 A. 英国BBCの協力で行われた監獄研究があります。8日間の観察で、看守役は役割に一体感を持てず、囚人役に立場を覆されました。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -7980,6 +8263,8 @@ A. 影響の大きさ（効果量）は、犯人の識別でも出来事の記�
 Q. なぜ研究によって結論が違うのですか
 A. ストレスの与え方、ストレスの確かめ方、記憶を調べるまでの間隔など、研究方法の違いが結果を分けていると指摘されています。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Deffenbacher, K. A., Bornstein, B. H., Penrod, S. D., & McGorty, E. K. (2004). A meta-analytic review of the effects of high stress on eyewitness memory. Law and Human Behavior, 28(6), 687-706. https://doi.org/10.1007/s10979-004-0565-x
@@ -8078,6 +8363,8 @@ A. 92サンプルのメタ分析では、リーダーに選ばれやすさとの
 
 Q. サイコパス傾向の強いリーダーは成果を上げますか
 A. 同じメタ分析では、リーダーとしての成果とは弱い負の関係でした。部下を励まし育てるタイプのリーダーシップとは、中程度の負の関係でした。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -8212,6 +8499,8 @@ A. 起こりえますが、いつも起きるわけではありません。19の
 Q. 目撃者がSNSで犯人を探すと、記憶に影響しますか？
 A. 285人の実験では、SNS風のページで犯人の「そっくりさん」を見た人は、1週間後の面割りで犯人を正しく選べた割合が約11%で、ほかの条件の約45%より大きく下がりました。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Deffenbacher, K. A., Bornstein, B. H., & Penrod, S. D. (2006). Mugshot exposure effects: Retroactive interference, mugshot commitment, source confusion, and unconscious transference. Law and Human Behavior, 30, 287-307. https://doi.org/10.1007/s10979-006-9008-1
@@ -8335,6 +8624,8 @@ A. 街の事務所では40人中19人（47.5%）で、イェール大学の同�
 Q. 白衣を着ると、人は医師や研究者の言うことを聞きやすくなるの？
 A. はっきりした証拠はありません。レソトの外来診療所で682人に声をかけた2026年の比較試験では、臨床試験への参加の同意は白衣で71%、普段着で68%で、差は見られませんでした。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Haslam, N., Loughnan, S., & Perry, G. (2014). Meta-Milgram: An empirical synthesis of the obedience experiments. PLoS ONE, 9(4), e93927. https://doi.org/10.1371/journal.pone.0093927
@@ -8440,6 +8731,8 @@ A. 何を攻撃性として測るか、目立つ結果ほど発表されやす�
 Q. ゲームと犯罪の関係はわかっていますか
 A. ここで紹介した研究はいずれも攻撃性を測ったもので、犯罪を直接測ってはいません。ゲームが犯罪を増やすという証拠は示されていません。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Anderson, C. A., Shibuya, A., Ihori, N., et al. (2010). Violent video game effects on aggression, empathy, and prosocial behavior in Eastern and Western countries: A meta-analytic review. Psychological Bulletin, 136(2), 151-173. https://doi.org/10.1037/a0018251
@@ -8541,6 +8834,8 @@ A. 1992年のメタ分析では、面通しの精度への影響は効果量0.13
 Q. なぜ凶器に目が向くのですか
 A. 恐怖で注意の範囲が狭まるという説明と、その場にない珍しい物だから目を引くという説明があり、まだ決着していません。
 
+読んだ記事にするもう一度読みたい
+
 ## SOURCES
 
 - Steblay, N. M. (1992). A meta-analytic review of the weapon focus effect. Law and Human Behavior, 16(4), 413-424. https://doi.org/10.1007/BF02352267
@@ -8639,6 +8934,8 @@ A. 十戒を思い出すとズルが減るという結果は、2018年の大規�
 
 Q. わかっていないことは何ですか
 A. 研究の多くは実験室での小さなズルです。実験室は実地よりズルが多く出る傾向があり、現実の不正や犯罪にどこまで当てはまるかは、まだわかっていません。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
