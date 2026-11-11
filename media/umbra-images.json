@@ -2884,5 +2884,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Close-up_of_espresso_machine_with_two_brown_coffee_cups.jpg/500px-Close-up_of_espresso_machine_with_two_brown_coffee_cups.jpg",
   "og": "https://umbra.seadice.win/img/same-type-repeating-relationship-pattern-research.jpg",
   "local": true
+ },
+ "sliding-vs-deciding-commitment-research": {
+  "file": "File:Fork in the path, St Clements Road, Keynsham - geograph.org.uk - 5706821.jpg",
+  "src": "/img/sliding-vs-deciding-commitment-research.jpg",
+  "src640": "/img/sliding-vs-deciding-commitment-research-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "二手に分かれる道",
+  "artist": "Derek Harper",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fork_in_the_path,_St_Clements_Road,_Keynsham_-_geograph.org.uk_-_5706821.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Fork_in_the_path%2C_St_Clements_Road%2C_Keynsham_-_geograph.org.uk_-_5706821.jpg/960px-Fork_in_the_path%2C_St_Clements_Road%2C_Keynsham_-_geograph.org.uk_-_5706821.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Fork_in_the_path%2C_St_Clements_Road%2C_Keynsham_-_geograph.org.uk_-_5706821.jpg/500px-Fork_in_the_path%2C_St_Clements_Road%2C_Keynsham_-_geograph.org.uk_-_5706821.jpg",
+  "og": "https://umbra.seadice.win/img/sliding-vs-deciding-commitment-research.jpg",
+  "local": true
  }
 }
