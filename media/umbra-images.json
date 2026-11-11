@@ -2866,5 +2866,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tami_and_Timi_learn_about_giving.jpg/500px-Tami_and_Timi_learn_about_giving.jpg",
   "og": "https://umbra.seadice.win/img/gift-choosing-skill-love-depth-research.jpg",
   "local": true
+ },
+ "same-type-repeating-relationship-pattern-research": {
+  "file": "File:Close-up of espresso machine with two brown coffee cups.jpg",
+  "src": "/img/same-type-repeating-relationship-pattern-research.jpg",
+  "src640": "/img/same-type-repeating-relationship-pattern-research-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "エスプレッソマシンから、同じ形の茶色いカップ2つにコーヒーが注がれている様子",
+  "artist": "Chevanon Photography",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Close-up_of_espresso_machine_with_two_brown_coffee_cups.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Close-up_of_espresso_machine_with_two_brown_coffee_cups.jpg/960px-Close-up_of_espresso_machine_with_two_brown_coffee_cups.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Close-up_of_espresso_machine_with_two_brown_coffee_cups.jpg/500px-Close-up_of_espresso_machine_with_two_brown_coffee_cups.jpg",
+  "og": "https://umbra.seadice.win/img/same-type-repeating-relationship-pattern-research.jpg",
+  "local": true
  }
 }
