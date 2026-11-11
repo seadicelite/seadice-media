@@ -1086,5 +1086,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Japan_National_Road_R293.JPG/500px-Japan_National_Road_R293.JPG",
   "og": "https://oya.seadice.win/img/parent-wants-to-keep-driving-training-og.jpg",
   "local": true
+ },
+ "parent-stopped-community-gatherings": {
+  "file": "File:Samovar Tea House (7792874154).jpg",
+  "src": "/img/parent-stopped-community-gatherings.webp",
+  "src640": "/img/parent-stopped-community-gatherings-sm.webp",
+  "w": 960,
+  "h": 674,
+  "alt": "誰もいない丸テーブルに置かれた急須と湯のみ",
+  "artist": "Christopher Michel",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Samovar_Tea_House_(7792874154).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Samovar_Tea_House_%287792874154%29.jpg/960px-Samovar_Tea_House_%287792874154%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Samovar_Tea_House_%287792874154%29.jpg/500px-Samovar_Tea_House_%287792874154%29.jpg",
+  "og": "https://oya.seadice.win/img/parent-stopped-community-gatherings-og.jpg",
+  "local": true
  }
 }
