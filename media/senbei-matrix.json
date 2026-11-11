@@ -148,7 +148,9 @@
         "data": [
           "umami-sensitivity-varies"
         ],
-        "use": []
+        "use": [
+          "umami-synergy-dashi-taste-test"
+        ]
       }
     },
     {
