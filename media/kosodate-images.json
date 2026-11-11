@@ -1382,7 +1382,7 @@
   "src640": "/img/smartphone-overuse-rules-reset-sm.webp",
   "w": 960,
   "h": 640,
-  "alt": "テーブルに置かれたスマートフォンとノートパソコン",
+  "alt": "テーブルの上のスマートフォンと目覚まし時計とノートパソコン",
   "artist": "Alejandro Escamilla alejandroescamilla",
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -1596,6 +1596,23 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cozy_living_room_with_a_gray_sofa.jpg/960px-Cozy_living_room_with_a_gray_sofa.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cozy_living_room_with_a_gray_sofa.jpg/500px-Cozy_living_room_with_a_gray_sofa.jpg",
   "og": "https://kosodate.seadice.win/img/parents-argument-in-front-of-child.jpg",
+  "local": true
+ },
+ "child-disabled-smartphone-filtering": {
+  "file": "File:Clock and banana on a table with a smartphone and a plant.jpg",
+  "src": "/img/child-disabled-smartphone-filtering.webp",
+  "src640": "/img/child-disabled-smartphone-filtering-sm.webp",
+  "w": 960,
+  "h": 641,
+  "alt": "テーブルの上のスマートフォンと目覚まし時計",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Clock_and_banana_on_a_table_with_a_smartphone_and_a_plant.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Clock_and_banana_on_a_table_with_a_smartphone_and_a_plant.jpg/960px-Clock_and_banana_on_a_table_with_a_smartphone_and_a_plant.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Clock_and_banana_on_a_table_with_a_smartphone_and_a_plant.jpg/500px-Clock_and_banana_on_a_table_with_a_smartphone_and_a_plant.jpg",
+  "og": "https://kosodate.seadice.win/img/child-disabled-smartphone-filtering-og.jpg",
   "local": true
  }
 }
