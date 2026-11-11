@@ -2866,5 +2866,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tami_and_Timi_learn_about_giving.jpg/500px-Tami_and_Timi_learn_about_giving.jpg",
   "og": "https://umbra.seadice.win/img/gift-choosing-skill-love-depth-research.jpg",
   "local": true
+ },
+ "conflict-recovery-speed-relationship-research": {
+  "file": "File:Air Olive 1.JPG",
+  "src": "/img/conflict-recovery-speed-relationship-research.jpg",
+  "src640": "/img/conflict-recovery-speed-relationship-research-sm.jpg",
+  "w": 960,
+  "h": 671,
+  "alt": "オリーブの枝",
+  "artist": "Ввласенко",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Air_Olive_1.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Air_Olive_1.JPG/960px-Air_Olive_1.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Air_Olive_1.JPG/500px-Air_Olive_1.JPG",
+  "og": "https://umbra.seadice.win/img/conflict-recovery-speed-relationship-research.jpg",
+  "local": true
  }
 }
