@@ -1582,8 +1582,8 @@
  },
  "parents-argument-in-front-of-child": {
   "file": "File:Cozy living room with a gray sofa.jpg",
-  "src": "/img/parents-argument-in-front-of-child.jpg",
-  "src640": "/img/parents-argument-in-front-of-child-sm.jpg",
+  "src": "/img/parents-argument-in-front-of-child.webp",
+  "src640": "/img/parents-argument-in-front-of-child-sm.webp",
   "w": 960,
   "h": 639,
   "alt": "リビングのソファ",
@@ -1592,10 +1592,9 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Cozy_living_room_with_a_gray_sofa.jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cozy_living_room_with_a_gray_sofa.jpg/960px-Cozy_living_room_with_a_gray_sofa.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cozy_living_room_with_a_gray_sofa.jpg/500px-Cozy_living_room_with_a_gray_sofa.jpg",
-  "og": "https://kosodate.seadice.win/img/parents-argument-in-front-of-child.jpg",
+  "og": "https://kosodate.seadice.win/img/parents-argument-in-front-of-child-og.jpg",
   "local": true
  },
  "child-disabled-smartphone-filtering": {
