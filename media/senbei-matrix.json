@@ -108,7 +108,9 @@
         "data": [
           "soy-sauce-types-salt"
         ],
-        "use": []
+        "use": [
+          "soy-sauce-aroma-nose-pinch-test"
+        ]
       }
     },
     {

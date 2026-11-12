@@ -881,5 +881,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Japan%2C_Hokkaido%2C_drying_kelp_1.jpg/500px-Japan%2C_Hokkaido%2C_drying_kelp_1.jpg",
   "og": "https://senbei.seadice.win/img/umami-synergy-dashi-taste-test.jpg",
   "local": true
+ },
+ "soy-sauce-aroma-nose-pinch-test": {
+  "file": "File:Crackers japonais dans un bol.jpg",
+  "src": "/img/soy-sauce-aroma-nose-pinch-test.jpg",
+  "src640": "/img/soy-sauce-aroma-nose-pinch-test-sm.jpg",
+  "w": 960,
+  "h": 645,
+  "alt": "器に入った小さな米菓のミックス",
+  "artist": "Clément Bucco-Lechat",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Crackers_japonais_dans_un_bol.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crackers_japonais_dans_un_bol.jpg/960px-Crackers_japonais_dans_un_bol.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crackers_japonais_dans_un_bol.jpg/500px-Crackers_japonais_dans_un_bol.jpg",
+  "og": "https://senbei.seadice.win/img/soy-sauce-aroma-nose-pinch-test.jpg",
+  "local": true
  }
 }
