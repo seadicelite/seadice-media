@@ -3704,5 +3704,39 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mariembourg_dog_in_window_of_caf%C3%A9.JPG/500px-Mariembourg_dog_in_window_of_caf%C3%A9.JPG",
   "og": "https://ai.seadice.win/img/ai-camera-glasses-filmed-worry-prepare-og.jpg",
   "local": true
+ },
+ "gemini-share-link-delete-search": {
+  "file": "File:Writing notes while using a laptop at a desk.jpg",
+  "src": "/img/gemini-share-link-delete-search.webp",
+  "src640": "/img/gemini-share-link-delete-search-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "ノートパソコンの前で手帳に書きこむ手元",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Writing_notes_while_using_a_laptop_at_a_desk.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Writing_notes_while_using_a_laptop_at_a_desk.jpg/960px-Writing_notes_while_using_a_laptop_at_a_desk.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Writing_notes_while_using_a_laptop_at_a_desk.jpg/500px-Writing_notes_while_using_a_laptop_at_a_desk.jpg",
+  "og": "https://ai.seadice.win/img/gemini-share-link-delete-search-og.jpg",
+  "local": true
+ },
+ "chatgpt-fake-app-how-to-tell": {
+  "file": "File:Smartphone with case cover on table.jpg",
+  "src": "/img/chatgpt-fake-app-how-to-tell.webp",
+  "src640": "/img/chatgpt-fake-app-how-to-tell-sm.webp",
+  "w": 960,
+  "h": 721,
+  "alt": "テーブルに置かれたスマートフォン",
+  "artist": "Santeri Viinamäki",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Smartphone_with_case_cover_on_table.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Smartphone_with_case_cover_on_table.jpg/960px-Smartphone_with_case_cover_on_table.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Smartphone_with_case_cover_on_table.jpg/500px-Smartphone_with_case_cover_on_table.jpg",
+  "og": "https://ai.seadice.win/img/chatgpt-fake-app-how-to-tell-og.jpg",
+  "local": true
  }
 }

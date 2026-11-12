@@ -1,5 +1,23 @@
 [
  {
+  "slug": "chatgpt-fake-app-how-to-tell",
+  "category": "詐欺・なりすまし",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-11-12",
+  "title": "ChatGPTの偽アプリを入れてしまったかも。見分け方は？ストアの「販売元」を見て、違えば課金を止めてから消す",
+  "summary": "公式は販売元がOpenAI。Gemini・Claudeも確かめた表と、消す前に解約・返金する順番"
+ },
+ {
+  "slug": "gemini-share-link-delete-search",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-11-12",
+  "title": "Geminiの共有リンクを削除したい。検索に出ることもある？公開リンクの画面で消せて、検索に残った分はGoogleに更新を頼める",
+  "summary": "設定の公開リンクから消せる。共有会話の8%に個人情報、検索に残ればGoogleに更新を頼む"
+ },
+ {
   "slug": "ai-camera-glasses-filmed-worry-prepare",
   "category": "プライバシー・個人情報",
   "type": "guide",
