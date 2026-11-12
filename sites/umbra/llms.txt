@@ -48,7 +48,7 @@
 
 - [絵文字やスタンプが多いのは好意のサインか。絵文字と好印象の研究](https://umbra.seadice.win/emoji-sticker-liking-signal-research/): 絵文字つきのメッセージは「わかってくれている」と感じやすくなる。ただしネガティブな絵文字では、送り手と受け手で感じ方が26%ずれることがあるとの報告もある。
 - [連絡頻度が減るのは冷めたサインか。データと心理学研究で読み解く](https://umbra.seadice.win/contact-frequency-decline-cooling-signal-research/): 通話記録の研究では、間隔が空いた相手ほど次の通話が長くなる傾向が見られた。Twitterの研究では、破局前に相手への投稿の割合が下がっていた。
-- [長い返信は好きの大きさか。メッセージの長さと好意を研究で確かめる](https://umbra.seadice.win/message-length-liking-signal-research/): 好意が強い相手には長いメッセージを書く傾向はあるが、長さが返信率を上げたのは4都市のうち1都市だけだった。
+- [長い返信は好きの大きさか。メッセージの長さと好意を研究で確かめる](https://umbra.seadice.win/message-length-liking-signal-research/): 人気の高い相手には長いメッセージを書く傾向はあるが、長さが返信率を上げたのは4都市のうち1都市だけだった。
 
 #### 人を好きになる仕組み
 
@@ -253,7 +253,7 @@
 - [自分の嫉妬は普通の範囲か、行き過ぎか。3つの嫉妬の型で見分ける研究](https://umbra.seadice.win/own-jealousy-normal-or-excessive-research/): 相手の行動に反応する嫉妬は自然な範囲。根拠のない心配が続く、相手を確かめ制限したくなるのが行き過ぎのサインと研究で整理。
 - [恋人に嫉妬したとき、どう伝えればいい？黙る・探るより「見たことと気持ち」を直接話す研究](https://umbra.seadice.win/how-to-tell-partner-jealousy-research/): 嫉妬を抑えて隠す・SNSで確かめるは関係の助けになりにくい。見たことと気持ちを責めずに直接伝える方法を研究で整理
 - [位置情報の共有を求めるのは、愛情なのか束縛なのか](https://umbra.seadice.win/location-sharing-couple-love-or-control-research/): 位置共有そのものに正解はない。136組・322人・434人の研究から、監視する側の嫉妬や共有される側の侵入感と満足度の結びつきを整理
-- [元恋人との「ただのランチ」が気になるのはなぜ？食事に嫉妬する心理の研究](https://umbra.seadice.win/ex-partner-meal-jealousy-research/): パートナーが元恋人と食事をしたと聞くと嫉妬が強まる理由を、実験と調査データから整理した記事。
+- [元恋人との「ただのランチ」が気になるのはなぜ？食事に嫉妬する心理の研究](https://umbra.seadice.win/ex-partner-meal-jealousy-research/): 元恋人との食事の場面はメールやコーヒーより嫉妬の点数が高かった大学生の実験と、食事と親しさの調査を整理した記事。
 
 #### 恋人がいる人への惹かれ
 
