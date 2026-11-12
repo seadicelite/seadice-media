@@ -372,5 +372,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gibbon_2026.jpg/500px-Gibbon_2026.jpg",
   "og": "https://shinka.seadice.win/img/vestigial-organs-og.jpg",
   "local": true
+ },
+ "universe-25": {
+  "file": "File:Lab mouse mg 3263.jpg",
+  "src": "/img/universe-25.webp",
+  "src640": "/img/universe-25-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "実験用のマウス（ハツカネズミ）",
+  "artist": "Rama",
+  "license": "CC BY-SA 2.0 fr",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Lab_mouse_mg_3263.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lab_mouse_mg_3263.jpg/960px-Lab_mouse_mg_3263.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lab_mouse_mg_3263.jpg/500px-Lab_mouse_mg_3263.jpg",
+  "og": "https://shinka.seadice.win/img/universe-25-og.jpg",
+  "local": true
  }
 }

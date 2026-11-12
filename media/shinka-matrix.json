@@ -135,12 +135,16 @@
       "cells": {
         "what": [],
         "how": [],
-        "myth": [],
+        "myth": [
+          "universe-25"
+        ],
         "num": [],
         "unknown": [
           "language-origin"
         ],
-        "see": [],
+        "see": [
+          "/universe-25-sim/"
+        ],
         "odd": [],
         "history": [
           "dog-domestication"
