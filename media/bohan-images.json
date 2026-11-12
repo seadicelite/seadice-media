@@ -1547,5 +1547,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CCTV_camera_on_Round_Church_Street%2C_Cambridge.jpg/500px-CCTV_camera_on_Round_Church_Street%2C_Cambridge.jpg",
   "og": "https://bohan.seadice.win/img/facial-recognition-camera-effect-bias.jpg",
   "local": true
+ },
+ "child-disclosure-parent-response": {
+  "file": "File:Brief encounter - Flickr - susanjanegolding.jpg",
+  "src": "/img/child-disclosure-parent-response.jpg",
+  "src640": "/img/child-disclosure-parent-response-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "通学路を歩く子どものランドセル",
+  "artist": "Susan Jane Golding from New York City, United States",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Brief_encounter_-_Flickr_-_susanjanegolding.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Brief_encounter_-_Flickr_-_susanjanegolding.jpg/960px-Brief_encounter_-_Flickr_-_susanjanegolding.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Brief_encounter_-_Flickr_-_susanjanegolding.jpg/500px-Brief_encounter_-_Flickr_-_susanjanegolding.jpg",
+  "og": "https://bohan.seadice.win/img/child-disclosure-parent-response.jpg",
+  "local": true
  }
 }

@@ -212,7 +212,9 @@
      "child-stranger-approach-after-school"
     ],
     "notice": [],
-    "after": [],
+    "after": [
+     "child-disclosure-parent-response"
+    ],
     "use": []
    }
   },
