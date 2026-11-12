@@ -1103,5 +1103,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Samovar_Tea_House_%287792874154%29.jpg/500px-Samovar_Tea_House_%287792874154%29.jpg",
   "og": "https://oya.seadice.win/img/parent-stopped-community-gatherings-og.jpg",
   "local": true
+ },
+ "parent-eating-alone": {
+  "file": "File:Hayashi rice and miso soup 01.jpg",
+  "src": "/img/parent-eating-alone.webp",
+  "src640": "/img/parent-eating-alone-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "お盆にのったハヤシライスとみそ汁",
+  "artist": "ノボホショコロトソ",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hayashi_rice_and_miso_soup_01.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hayashi_rice_and_miso_soup_01.jpg/960px-Hayashi_rice_and_miso_soup_01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hayashi_rice_and_miso_soup_01.jpg/500px-Hayashi_rice_and_miso_soup_01.jpg",
+  "og": "https://oya.seadice.win/img/parent-eating-alone-og.jpg",
+  "local": true
  }
 }
