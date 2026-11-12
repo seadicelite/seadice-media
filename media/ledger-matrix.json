@@ -365,7 +365,8 @@
      "kids-allowance-money-skills-tips"
     ],
     "after": [
-     "kids-game-spending-recovery-steps"
+     "kids-game-spending-recovery-steps",
+     "kids-allowance-shortfall-recovery-steps"
     ],
     "use": [
      "kids-allowance-amount-checklist",
