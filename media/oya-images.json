@@ -1120,5 +1120,39 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hayashi_rice_and_miso_soup_01.jpg/500px-Hayashi_rice_and_miso_soup_01.jpg",
   "og": "https://oya.seadice.win/img/parent-eating-alone-og.jpg",
   "local": true
+ },
+ "parent-hospital-admission-guarantor": {
+  "file": "File:Bed in Three Persons Room, Internal Medicine Ward, NTUH East Campus 20101204b.JPG",
+  "src": "/img/parent-hospital-admission-guarantor.webp",
+  "src640": "/img/parent-hospital-admission-guarantor-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "病室のベッド",
+  "artist": "玄史生",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Bed_in_Three_Persons_Room,_Internal_Medicine_Ward,_NTUH_East_Campus_20101204b.JPG",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bed_in_Three_Persons_Room%2C_Internal_Medicine_Ward%2C_NTUH_East_Campus_20101204b.JPG/960px-Bed_in_Three_Persons_Room%2C_Internal_Medicine_Ward%2C_NTUH_East_Campus_20101204b.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bed_in_Three_Persons_Room%2C_Internal_Medicine_Ward%2C_NTUH_East_Campus_20101204b.JPG/500px-Bed_in_Three_Persons_Room%2C_Internal_Medicine_Ward%2C_NTUH_East_Campus_20101204b.JPG",
+  "og": "https://oya.seadice.win/img/parent-hospital-admission-guarantor-og.jpg",
+  "local": true
+ },
+ "parent-care-disability-deduction": {
+  "file": "File:Aurora electronic calculator DT210 08.jpg",
+  "src": "/img/parent-care-disability-deduction.webp",
+  "src640": "/img/parent-care-disability-deduction-sm.webp",
+  "w": 960,
+  "h": 480,
+  "alt": "電卓の表示画面",
+  "artist": "Coyau",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Aurora_electronic_calculator_DT210_08.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aurora_electronic_calculator_DT210_08.jpg/960px-Aurora_electronic_calculator_DT210_08.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aurora_electronic_calculator_DT210_08.jpg/500px-Aurora_electronic_calculator_DT210_08.jpg",
+  "og": "https://oya.seadice.win/img/parent-care-disability-deduction-og.jpg",
+  "local": true
  }
 }
