@@ -448,5 +448,14 @@
   "slugs": [
    "satisfaction-decline-incompatibility-research"
   ]
+ },
+ {
+  "id": "romance-scam",
+  "term": "ロマンス詐欺",
+  "en": "Online romance scam",
+  "def": "ネット上で恋愛関係を装い、気持ちを動かしたうえでお金をだまし取る手口。アプリの外への誘導、周りに秘密にさせる働きかけ、小さな頼みごとから始まる送金の求めが、よく見られる流れとして報告されている。",
+  "slugs": [
+   "romance-scam-money-request-before-meeting-research"
+  ]
  }
 ]

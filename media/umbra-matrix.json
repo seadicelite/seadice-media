@@ -466,7 +466,8 @@
      "https://umbra.seadice.win/redflag-check/"
     ],
     "act": [
-     "early-relationship-red-flag-slow-down-research"
+     "early-relationship-red-flag-slow-down-research",
+     "romance-scam-money-request-before-meeting-research"
     ],
     "after": [
      "self-blame-after-harmful-relationship-research"
