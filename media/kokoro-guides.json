@@ -75,7 +75,8 @@
         "puppy-video-work-stress",
         "forest-bathing-fatigue-recover",
         "cook-for-someone-fatigue-recover",
-        "fire-video-screen-fatigue"
+        "fire-video-screen-fatigue",
+        "pilates-desk-fatigue-recover"
       ]
     },
     {
@@ -171,7 +172,10 @@
         "work-anxiety-values-if-then",
         "ai-burnout-reliance-cycle-recover",
         "ai-age-stereotype-tech-worry-prevent",
-        "ai-job-worry-mind-work-effects-why"
+        "ai-job-worry-mind-work-effects-why",
+        "impostor-feelings-comparison-recover",
+        "job-loss-low-mood-recovery-course",
+        "ai-change-growth-mindset-prevent"
       ]
     },
     {
@@ -274,7 +278,8 @@
         "doing-nothing-restless-why",
         "screen-reading-paper-understanding-why",
         "gps-navigation-sense-of-direction-prevent",
-        "phone-wallpaper-nature-stress-prevent"
+        "phone-wallpaper-nature-stress-prevent",
+        "phone-reduction-attention-recover"
       ]
     },
     {
@@ -356,7 +361,10 @@
         "other-kids-comparison-parent-prevent",
         "comparison-talk-friend-corumination",
         "comparison-self-acceptance-recover",
-        "high-achieving-group-confidence-drop-why"
+        "high-achieving-group-confidence-drop-why",
+        "ai-writing-confidence-not-ability-recover",
+        "impostor-feelings-comparison-recover",
+        "sns-travel-posts-envy-prevent"
       ]
     },
     {
@@ -445,7 +453,9 @@
         "comparison-talk-friend-corumination",
         "stress-day-small-kindness",
         "disagreement-text-vs-voice-why",
-        "sns-posting-loneliness-prevent"
+        "sns-posting-loneliness-prevent",
+        "lonely-night-streamer-comfort",
+        "empty-nest-loneliness-recover"
       ]
     },
     {
@@ -534,7 +544,9 @@
         "partner-fight-ai-consult",
         "ai-burnout-reliance-cycle-recover",
         "gps-navigation-sense-of-direction-prevent",
-        "ai-one-mistake-trust-drop-why"
+        "ai-one-mistake-trust-drop-why",
+        "ai-writing-confidence-not-ability-recover",
+        "ai-use-purpose-creativity-prevent"
       ]
     }
   ]
