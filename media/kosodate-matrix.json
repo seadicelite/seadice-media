@@ -132,7 +132,8 @@
    "label": "自分のスマホ・SNSデビュー",
    "cells": {
     "data": [
-     "smartphone-first-age-ownership-risk"
+     "smartphone-first-age-ownership-risk",
+     "sns-age-limit-by-service"
     ],
     "effect": [
      "social-media-cognitive-performance-decline"
@@ -140,7 +141,9 @@
     "how": [
      "junior-high-smartphone-rules-rebellion"
     ],
-    "trouble": [],
+    "trouble": [
+     "sns-age-limit-by-service"
+    ],
     "use": [
      "https://kosodate.seadice.win/sns-practice/"
     ]
@@ -151,10 +154,12 @@
    "label": "ゲーム",
    "cells": {
     "data": [
-     "game-time-average-elementary-junior-high"
+     "game-time-average-elementary-junior-high",
+     "game-cero-age-rating-follow"
     ],
     "effect": [
-     "gaming-disorder-children-research"
+     "gaming-disorder-children-research",
+     "game-cero-age-rating-follow"
     ],
     "how": [
      "game-cant-stop-time-limit-taking-away"

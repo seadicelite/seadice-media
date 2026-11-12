@@ -1613,5 +1613,39 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Clock_and_banana_on_a_table_with_a_smartphone_and_a_plant.jpg/500px-Clock_and_banana_on_a_table_with_a_smartphone_and_a_plant.jpg",
   "og": "https://kosodate.seadice.win/img/child-disabled-smartphone-filtering-og.jpg",
   "local": true
+ },
+ "game-cero-age-rating-follow": {
+  "file": "File:Xbox-360-Controller-Black.jpg",
+  "src": "/img/game-cero-age-rating-follow.webp",
+  "src640": "/img/game-cero-age-rating-follow-sm.webp",
+  "w": 960,
+  "h": 726,
+  "alt": "ゲーム機のコントローラー",
+  "artist": "Evan-Amos",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Xbox-360-Controller-Black.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Xbox-360-Controller-Black.jpg/960px-Xbox-360-Controller-Black.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Xbox-360-Controller-Black.jpg/500px-Xbox-360-Controller-Black.jpg",
+  "og": "https://kosodate.seadice.win/img/game-cero-age-rating-follow-og.jpg",
+  "local": true
+ },
+ "sns-age-limit-by-service": {
+  "file": "File:Social Media App Icons On The Screen of A Smartphone.jpg",
+  "src": "/img/sns-age-limit-by-service.webp",
+  "src640": "/img/sns-age-limit-by-service-sm.webp",
+  "w": 960,
+  "h": 768,
+  "alt": "アプリのアイコンが並んだスマートフォンの画面",
+  "artist": "mikemacmarketing",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg/960px-Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg/500px-Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg",
+  "og": "https://kosodate.seadice.win/img/sns-age-limit-by-service-og.jpg",
+  "local": true
  }
 }

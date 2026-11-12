@@ -69,6 +69,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [子どもがスマホのフィルタリングを勝手に外していた。取り上げる前に、年齢に合わせて約束を決め直す](https://kosodate.seadice.win/child-disabled-smartphone-filtering/): フィルタの有無で説明できた差は0.5%未満。制限の効き目は13〜15歳で弱まる。取り上げずに理由を聞き、年齢に合わせて約束を決め直す。
 - [子どものスマホルールの作り方。研究でわかっている効果的な決め方](https://kosodate.seadice.win/family-screen-time-rules-research/): 具体的なルールを決めて守らせる関わりが多い家庭は、1年後に推奨時間（1日1時間以内）を守れる見込み（オッズ）が約4倍高くなっていました。
 - [子どもがゲームをやめられない・やめさせると怒る。取り上げる前に決めたい時間と終わり方](https://kosodate.seadice.win/game-cant-stop-time-limit-taking-away/): 取り上げだけで減るという結果はそろっていない。研究では押しつける伝え方の家庭で問題が多い関連。時間は子どもと決め、終わりは1試合などの区切りで約束する。
+- [ゲームの対象年齢（CERO）は守るべき？販売の決まりがあるのはZだけ。区分の意味と暴力表現の研究](https://kosodate.seadice.win/game-cero-age-rating-follow/): CEROは5区分。18歳未満に売らない自主規制はZだけで、チャットは審査の外。暴力表現と攻撃性の関連は小さく、評価は分かれる。
 - [子どものゲームは1日何時間が普通？小6・中3の約半数が平日2時間以上。全国データと目安の考え方](https://kosodate.seadice.win/game-time-average-elementary-junior-high/): 2024年度の全国調査で平日2時間以上ゲームをする子は小6で48.8%、中3で48.5%。4時間以上も6人に1人ほど。全国一律の目安はなく、睡眠を先に守って家庭で決める。
 - [子どものゲームがやめられない。「ゲーム障害」とはどんな状態？](https://kosodate.seadice.win/gaming-disorder-children-research/): 障害と呼べるのはごく一部で、プレイ時間の長さではなく生活への支障が12か月続くかが目安です。
 - [中学生の反抗期、スマホ制限にどう向き合う？一方的なルールが逆効果になりやすい理由](https://kosodate.seadice.win/junior-high-smartphone-rules-rebellion/): 年齢が上がるほど一方的な制限が逆効果になりやすいと、複数の研究でわかってきました。
@@ -80,6 +81,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [子どものスマホ、自分の1台は何歳から？研究でわかったリスク](https://kosodate.seadice.win/smartphone-first-age-ownership-risk/): 12歳でスマホを持っていた子は、抑うつ・肥満・睡眠不足・過食症状などとの関連が複数の大規模研究で示されています。
 - [宿題中、スマホを机に置くだけで集中力は下がる？実験の結果が分かれる理由と置き場所の決め方](https://kosodate.seadice.win/smartphone-on-desk-homework-focus/): 22本の研究のまとめでは記憶の課題で小さな低下。一方で再現できない実験もあり、子どもの研究はわずか。置き場所は親子で試して決めるのが現実的。
 - [スマホを持たせたら使いすぎるようになった。ルールを決め直すなら「親子で話して、守れる形に」](https://kosodate.seadice.win/smartphone-overuse-rules-reset/): ルールが途中で消えた家庭や親だけで決めた家庭では、ネットへののめり込みが多め。日本の小中学生約8,500人の調査から、決め直し方を整理。
+- [SNSは何歳から？規約は13歳以上が多い。LINE・Instagram・TikTok・YouTubeの年齢を一覧で確かめた](https://kosodate.seadice.win/sns-age-limit-by-service/): Instagram・TikTok・YouTubeは13歳以上、LINEは下限なしで保護者の同意が前提。各社の規約と日本・海外の決まり、研究を整理。
 - [3歳の子が動画を見ないと泣く。自分で止める力はいつ育つ？](https://kosodate.seadice.win/toddler-screen-stop-crying-self-regulation/): 動画で気持ちを落ち着かせる頻度が多い家庭ほど、やめさせたときに感情が激しくなりやすい関連があります。
 - [子どもの「YouTubeをもっと見たい」を上手に断るには？研究でわかった声かけ](https://kosodate.seadice.win/youtube-more-please-how-to-say-no/): 気持ちを一度認めてから終わりを伝える声かけのほうが、対立を減らしやすいと研究でわかっています。
 
