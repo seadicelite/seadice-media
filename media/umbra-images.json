@@ -2992,5 +2992,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Breadcrumb.jpg/500px-Breadcrumb.jpg",
   "og": "https://umbra.seadice.win/img/breadcrumbing-mixed-signals-tired-research.jpg",
   "local": true
+ },
+ "housework-division-fairness-cohabitation-research": {
+  "file": "File:Woman washing dishes in kitchen.jpg",
+  "src": "/img/housework-division-fairness-cohabitation-research.jpg",
+  "src640": "/img/housework-division-fairness-cohabitation-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "キッチンで皿を洗う様子",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_washing_dishes_in_kitchen.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Woman_washing_dishes_in_kitchen.jpg/960px-Woman_washing_dishes_in_kitchen.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Woman_washing_dishes_in_kitchen.jpg/500px-Woman_washing_dishes_in_kitchen.jpg",
+  "og": "https://umbra.seadice.win/img/housework-division-fairness-cohabitation-research.jpg",
+  "local": true
  }
 }
