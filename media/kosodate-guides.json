@@ -23,7 +23,8 @@
     "bedtime-screen-sleep",
     "father-involvement-child-development",
     "daycare-age-0-1-child-development",
-    "new-baby-older-sibling-regression"
+    "new-baby-older-sibling-regression",
+    "parent-burnout-taking-it-out-on-child"
    ]
   },
   {
@@ -53,7 +54,8 @@
     "handwriting-messy-tablet-vs-pencil",
     "daycare-age-0-1-child-development",
     "new-baby-older-sibling-regression",
-    "parents-argument-in-front-of-child"
+    "parents-argument-in-front-of-child",
+    "parent-burnout-taking-it-out-on-child"
    ]
   },
   {
@@ -115,7 +117,10 @@
     "text-to-speech-struggling-reader",
     "yelled-at-child-apology-repair",
     "parents-argument-in-front-of-child",
-    "child-disabled-smartphone-filtering"
+    "child-disabled-smartphone-filtering",
+    "game-cero-age-rating-follow",
+    "sns-age-limit-by-service",
+    "parent-burnout-taking-it-out-on-child"
    ]
   },
   {
@@ -169,7 +174,9 @@
     "older-sibling-hitting-sibling-bullying",
     "child-few-friends-alone",
     "yelled-at-child-apology-repair",
-    "child-disabled-smartphone-filtering"
+    "child-disabled-smartphone-filtering",
+    "game-cero-age-rating-follow",
+    "sns-age-limit-by-service"
    ]
   }
  ]
