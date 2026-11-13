@@ -2135,5 +2135,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deposit_Into_Piggy_Bank_Savings_Account_%286093700157%29.jpg/500px-Deposit_Into_Piggy_Bank_Savings_Account_%286093700157%29.jpg",
   "og": "https://ledger.seadice.win/img/kids-allowance-shortfall-recovery-steps.jpg",
   "local": true
+ },
+ "friend-money-repayment-ask-tips": {
+  "file": "File:Chinese cash coins a.jpg",
+  "src": "/img/friend-money-repayment-ask-tips.jpg",
+  "src640": "/img/friend-money-repayment-ask-tips-sm.jpg",
+  "w": 960,
+  "h": 684,
+  "alt": "ひもに通した古い硬貨",
+  "artist": "5snake5",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Chinese_cash_coins_a.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Chinese_cash_coins_a.jpg/960px-Chinese_cash_coins_a.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Chinese_cash_coins_a.jpg/500px-Chinese_cash_coins_a.jpg",
+  "og": "https://ledger.seadice.win/img/friend-money-repayment-ask-tips.jpg",
+  "local": true
  }
 }
