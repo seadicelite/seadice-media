@@ -3028,5 +3028,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Blackview_A60_Smartphone_Android_mobile_phone_back_face.jpg/500px-Blackview_A60_Smartphone_Android_mobile_phone_back_face.jpg",
   "og": "https://umbra.seadice.win/img/jealous-of-partners-friends-research.jpg",
   "local": true
+ },
+ "household-chores-fairness-conflict-research": {
+  "file": "File:Woman washing dishes in kitchen.jpg",
+  "src": "/img/household-chores-fairness-conflict-research.jpg",
+  "src640": "/img/household-chores-fairness-conflict-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "水を流す台所のシンクと食器",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_washing_dishes_in_kitchen.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Woman_washing_dishes_in_kitchen.jpg/960px-Woman_washing_dishes_in_kitchen.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Woman_washing_dishes_in_kitchen.jpg/500px-Woman_washing_dishes_in_kitchen.jpg",
+  "og": "https://umbra.seadice.win/img/household-chores-fairness-conflict-research.jpg",
+  "local": true
  }
 }
