@@ -171,7 +171,9 @@
         "data": [
           "senbei-crunch-sound-measured"
         ],
-        "use": []
+        "use": [
+          "pseudo-crunch-sound-soft-senbei-test"
+        ]
       }
     },
     {
