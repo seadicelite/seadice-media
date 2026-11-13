@@ -2992,5 +2992,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Breadcrumb.jpg/500px-Breadcrumb.jpg",
   "og": "https://umbra.seadice.win/img/breadcrumbing-mixed-signals-tired-research.jpg",
   "local": true
+ },
+ "rejection-self-worth-fixed-personality-belief-research": {
+  "file": "File:Rain drops on an aeroplane's window glass pane.jpg",
+  "src": "/img/rejection-self-worth-fixed-personality-belief-research.jpg",
+  "src640": "/img/rejection-self-worth-fixed-personality-belief-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "雨粒がついた飛行機の窓ガラスと、くもり空の駐機場",
+  "artist": "Chinmayee Mishra",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rain_drops_on_an_aeroplane%27s_window_glass_pane.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rain_drops_on_an_aeroplane%27s_window_glass_pane.jpg/960px-Rain_drops_on_an_aeroplane%27s_window_glass_pane.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rain_drops_on_an_aeroplane%27s_window_glass_pane.jpg/500px-Rain_drops_on_an_aeroplane%27s_window_glass_pane.jpg",
+  "og": "https://umbra.seadice.win/img/rejection-self-worth-fixed-personality-belief-research.jpg",
+  "local": true
  }
 }
