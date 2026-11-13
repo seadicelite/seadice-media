@@ -51,7 +51,9 @@
      "moving-new-home-security",
      "summer-window-unlocked-burglary"
     ],
-    "notice": [],
+    "notice": [
+     "noise-at-home-burglar-robbery-response"
+    ],
     "after": [
      "burglary-victim-immediate-actions"
     ],
@@ -91,7 +93,9 @@
     "prevent": [
      "home-invasion-robbery-at-home"
     ],
-    "notice": [],
+    "notice": [
+     "noise-at-home-burglar-robbery-response"
+    ],
     "after": [],
     "use": []
    }
