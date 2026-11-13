@@ -76,7 +76,10 @@
         "forest-bathing-fatigue-recover",
         "cook-for-someone-fatigue-recover",
         "fire-video-screen-fatigue",
-        "pilates-desk-fatigue-recover"
+        "pilates-desk-fatigue-recover",
+        "sleep-loss-exercise-nap-focus",
+        "screen-fatigue-walk-or-rest-break",
+        "comparison-low-night-sleep-reset"
       ]
     },
     {
@@ -175,7 +178,8 @@
         "ai-job-worry-mind-work-effects-why",
         "impostor-feelings-comparison-recover",
         "job-loss-low-mood-recovery-course",
-        "ai-change-growth-mindset-prevent"
+        "ai-change-growth-mindset-prevent",
+        "work-tension-posture-head-up"
       ]
     },
     {
@@ -279,7 +283,9 @@
         "screen-reading-paper-understanding-why",
         "gps-navigation-sense-of-direction-prevent",
         "phone-wallpaper-nature-stress-prevent",
-        "phone-reduction-attention-recover"
+        "phone-reduction-attention-recover",
+        "sleep-loss-exercise-nap-focus",
+        "screen-fatigue-walk-or-rest-break"
       ]
     },
     {
@@ -364,7 +370,9 @@
         "high-achieving-group-confidence-drop-why",
         "ai-writing-confidence-not-ability-recover",
         "impostor-feelings-comparison-recover",
-        "sns-travel-posts-envy-prevent"
+        "sns-travel-posts-envy-prevent",
+        "sns-negative-comments-anxiety-why",
+        "comparison-low-night-sleep-reset"
       ]
     },
     {
@@ -546,7 +554,9 @@
         "gps-navigation-sense-of-direction-prevent",
         "ai-one-mistake-trust-drop-why",
         "ai-writing-confidence-not-ability-recover",
-        "ai-use-purpose-creativity-prevent"
+        "ai-use-purpose-creativity-prevent",
+        "ai-frequent-use-depression-why",
+        "ai-anxious-self-compassion-writing"
       ]
     }
   ]
