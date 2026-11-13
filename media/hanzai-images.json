@@ -1378,5 +1378,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wooden_gavel_20170417.jpg/500px-Wooden_gavel_20170417.jpg",
   "og": "https://hanzai.seadice.win/img/free-will-belief-punishment.jpg",
   "local": true
+ },
+ "genetic-explanation-sentencing": {
+  "file": "File:20251019 Replica DNA double helix model Berlin 01.jpg",
+  "src": "/img/genetic-explanation-sentencing.jpg",
+  "src640": "/img/genetic-explanation-sentencing-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "DNAの二重らせんの模型",
+  "artist": "Flocci Nivis",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:20251019_Replica_DNA_double_helix_model_Berlin_01.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/20251019_Replica_DNA_double_helix_model_Berlin_01.jpg/960px-20251019_Replica_DNA_double_helix_model_Berlin_01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/20251019_Replica_DNA_double_helix_model_Berlin_01.jpg/500px-20251019_Replica_DNA_double_helix_model_Berlin_01.jpg",
+  "og": "https://hanzai.seadice.win/img/genetic-explanation-sentencing.jpg",
+  "local": true
  }
 }
