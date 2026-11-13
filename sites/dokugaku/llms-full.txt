@@ -16812,7 +16812,7 @@ Szpunarら（2013）[3]
 
 21分の統計学の講義動画を4つに区切り、区切りごとに6問のテストに答える群、同じ問題と答えを読み直す群、何もしない群を比べた。ぼんやりしていた割合は、テストの群で19%、読み直しの群で39%、何もしない群で41%だった。テストの群はノートを多くとり、最後のテストもよくできていた。
 
-対象: 各群16人の参加者 ／ 限界: 人数が少ない実験室の研究。数値は、この研究を紹介したWelhafら（2022）[4]の記述と論文の要旨で確認した。
+対象: 各群16人の参加者 ／ 限界: 人数が少ない実験室の研究。数値は論文の本文（2つ目の実験、全48人）で確認した。
 
 Welhafら（2022）[4]
 
@@ -19528,7 +19528,7 @@ A. 今回の研究で測ったのは、数字を覚えて逆から言うよう�
 
 - Ohly, H., White, M. P., Wheeler, B. W., Bethel, A., Ukoumunne, O. C., Nikolaou, V., & Garside, R. (2016). Attention Restoration Theory: A systematic review of the attention restoration potential of exposure to natural environments. Journal of Toxicology and Environmental Health, Part B, 19(7), 305–343. https://doi.org/10.1080/10937404.2016.1196155
 
-- Stevenson, M. P., Schilhab, T., & Bentsen, P. (2018). Attention Restoration Theory II: A systematic review to clarify attention processes affected by exposure to natural environments. Journal of Toxicology and Environmental Health, Part B, 21, 227–268. https://doi.org/10.1080/10937404.2018.1505571
+- Stevenson, M. P., Schilhab, T., & Bentsen, P. (2018). Attention Restoration Theory II: A systematic review to clarify attention processes affected by exposure to natural environments. Journal of Toxicology and Environmental Health, Part B, 21(4), 227–268. https://doi.org/10.1080/10937404.2018.1505571
 
 - Stenfors, C. U. D., Van Hedger, S. C., Schertz, K. E., Meyer, F. A. C., Smith, K. E. L., Norman, G. J., Bourrier, S. C., Enns, J. T., Kardan, O., Jonides, J., & Berman, M. G. (2019). Positive effects of nature on cognitive performance across multiple experiments: Test order but not affect modulates the cognitive effects. Frontiers in Psychology, 10, 1413. https://doi.org/10.3389/fpsyg.2019.01413
 
@@ -25498,7 +25498,7 @@ URL: https://dokugaku.seadice.win/review-backlog-catch-up/
 カテゴリ: 記憶・覚え方
 公開日: 2026-10-14
 
-忙しい週が続いて、暗記カードや単語の復習が何百枚もたまってしまった。予定日を過ぎた分を見るだけで気が重く、手をつけられずにいる。そんなときも、最初からやり直す必要はありません。研究では、復習が遅れたときの損はゆるやかで、新しい項目を止め、数日に分けて、読み返さずに思い出す形で片づければ立て直せます。
+忙しい週が続いて、暗記カードや単語の復習が何百枚もたまってしまった。予定日を過ぎた分を見るだけで気が重く、手をつけられずにいる。そんなときも、最初からやり直す必要はありません。研究では、復習までの間隔が最もよい長さを超えたときの成績の下がり方はゆるやかでした。新しい項目を止め、数日に分けて、読み返さずに思い出す形で片づけるのが、研究に沿った立て直し方です。
 
 ## 3行でわかる
 
@@ -25597,7 +25597,7 @@ Q. 復習の予定日を過ぎたら、最初から覚え直しですか？
 A. 最初からやり直す必要はありません。Cepedaら（2008）では、復習までの間隔が最もよい長さを超えると成績は下がりましたが、下がり方はゆるやかでした。遅れた項目も、まず思い出せるか試し、思い出せなかったものだけ覚え直します。
 
 Q. たまった復習は、1日で全部片づけた方がいいですか？
-A. 1日で片づける必要はありません。数日に分けても、遅れが少し延びるだけで、成績の下がり方はゆるやかです。1日に詰め込むより、続けられる量に分けて、思い出す形で取り組みます。
+A. 1日で片づける必要はありません。Cepedaら（2008）では、間隔が最もよい長さを超えたときの成績の下がり方はゆるやかでした。数日に分けて遅れが少し延びても、損は大きくないと考えられます。1日に詰め込むより、続けられる量に分けて、思い出す形で取り組みます。
 
 Q. もう覚えている項目は、復習からはずしてもいいですか？
 A. 読み直しははずしてかまいませんが、思い出すテストからははずさない方が残ります。Karpickeら（2008）では、一度思い出せた項目でも、テストを続けたときだけ後の記憶に大きな差が出ました。
