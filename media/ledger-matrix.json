@@ -346,7 +346,8 @@
      "friend-money-repayment-ask-tips"
     ],
     "use": [
-     "couples-household-cost-sharing-checklist"
+     "couples-household-cost-sharing-checklist",
+     "group-bill-splitting-calculator"
     ]
    }
   },
