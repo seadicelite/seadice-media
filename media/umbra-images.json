@@ -3046,5 +3046,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Woman_washing_dishes_in_kitchen.jpg/500px-Woman_washing_dishes_in_kitchen.jpg",
   "og": "https://umbra.seadice.win/img/household-chores-fairness-conflict-research.jpg",
   "local": true
+ },
+ "conflict-rehashing-relationship-satisfaction-research": {
+  "file": "File:Sky Clouds Sea.jpg",
+  "src": "/img/conflict-rehashing-relationship-satisfaction-research.jpg",
+  "src640": "/img/conflict-rehashing-relationship-satisfaction-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "暗い雲が広がる空",
+  "artist": "Unknown author",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Sky_Clouds_Sea.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sky_Clouds_Sea.jpg/960px-Sky_Clouds_Sea.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sky_Clouds_Sea.jpg/500px-Sky_Clouds_Sea.jpg",
+  "og": "https://umbra.seadice.win/img/conflict-rehashing-relationship-satisfaction-research.jpg",
+  "local": true
  }
 }

@@ -1,5 +1,23 @@
 [
  {
+  "id": "we-talk",
+  "term": "ウィー・トーク（we-talk）",
+  "en": "We-talk",
+  "def": "「私たちは」のように、二人をまとめて指す言い方を話し合いの中でどれだけ使うか。満足度が高い相手同士では、ウィー・トークが多いほど対立後に考え続ける度合いが低いと報告されています。",
+  "slugs": [
+   "conflict-rehashing-relationship-satisfaction-research"
+  ]
+ },
+ {
+  "id": "rumination-conflict",
+  "term": "反復思考（ルミネーション）",
+  "en": "Rumination",
+  "def": "終わったはずの出来事について、繰り返し考え続けてしまうこと。喧嘩の後に「あの話し合い」を考え続ける度合いは、満足度や愛着スタイルと関わっていると報告されています。",
+  "slugs": [
+   "conflict-rehashing-relationship-satisfaction-research"
+  ]
+ },
+ {
   "id": "phubbing",
   "term": "ファビング（phubbing）",
   "en": "Phubbing",
@@ -209,7 +227,8 @@
   "def": "人との近さや距離のとり方の土台になる傾向。「追いかけると逃げられる」といった恋愛の繰り返しのパターンは、二人の愛着スタイルの組み合わせが関わっていると報告されています。",
   "slugs": [
    "attachment-style-relationship-compatibility",
-   "pulling-away-liking-ambivalence-research"
+   "pulling-away-liking-ambivalence-research",
+   "conflict-rehashing-relationship-satisfaction-research"
   ]
  },
  {
