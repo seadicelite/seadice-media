@@ -3082,5 +3082,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Calendar%2C_spine_%284845346%29.jpg/500px-Calendar%2C_spine_%284845346%29.jpg",
   "og": "https://umbra.seadice.win/img/schedule-sharing-love-or-anxiety-research.jpg",
   "local": true
+ },
+ "first-date-disappointment-second-date-research": {
+  "file": "File:Terras in Halle 2023.jpg",
+  "src": "/img/first-date-disappointment-second-date-research.jpg",
+  "src640": "/img/first-date-disappointment-second-date-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "歩道に並ぶカフェのテーブルと椅子",
+  "artist": "Smiley.toerist",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Terras_in_Halle_2023.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Terras_in_Halle_2023.jpg/960px-Terras_in_Halle_2023.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Terras_in_Halle_2023.jpg/500px-Terras_in_Halle_2023.jpg",
+  "og": "https://umbra.seadice.win/img/first-date-disappointment-second-date-research.jpg",
+  "local": true
  }
 }
