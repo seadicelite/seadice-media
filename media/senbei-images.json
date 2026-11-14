@@ -917,5 +917,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Earphones_BW_2011-12-10_15-49-08.JPG/500px-Earphones_BW_2011-12-10_15-49-08.JPG",
   "og": "https://senbei.seadice.win/img/pseudo-crunch-sound-soft-senbei-test.jpg",
   "local": true
+ },
+ "senbei-preference-word-check": {
+  "file": "File:Cheddar cheese and Japanese rice crackers with black sesame and soy sauce - Massachusetts.jpg",
+  "src": "/img/senbei-preference-word-check.jpg",
+  "src640": "/img/senbei-preference-word-check-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "青い皿にのせた黒ごま入りの米菓とチーズ",
+  "artist": "Daderot",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Cheddar_cheese_and_Japanese_rice_crackers_with_black_sesame_and_soy_sauce_-_Massachusetts.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Cheddar_cheese_and_Japanese_rice_crackers_with_black_sesame_and_soy_sauce_-_Massachusetts.jpg/960px-Cheddar_cheese_and_Japanese_rice_crackers_with_black_sesame_and_soy_sauce_-_Massachusetts.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Cheddar_cheese_and_Japanese_rice_crackers_with_black_sesame_and_soy_sauce_-_Massachusetts.jpg/500px-Cheddar_cheese_and_Japanese_rice_crackers_with_black_sesame_and_soy_sauce_-_Massachusetts.jpg",
+  "og": "https://senbei.seadice.win/img/senbei-preference-word-check.jpg",
+  "local": true
  }
 }

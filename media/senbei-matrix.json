@@ -232,7 +232,9 @@
         "data": [
           "senbei-popular-flavor-ranking"
         ],
-        "use": []
+        "use": [
+          "senbei-preference-word-check"
+        ]
       }
     },
     {
