@@ -209,7 +209,8 @@
   "def": "人との近さや距離のとり方の土台になる傾向。「追いかけると逃げられる」といった恋愛の繰り返しのパターンは、二人の愛着スタイルの組み合わせが関わっていると報告されています。",
   "slugs": [
    "attachment-style-relationship-compatibility",
-   "pulling-away-liking-ambivalence-research"
+   "pulling-away-liking-ambivalence-research",
+   "schedule-sharing-love-or-anxiety-research"
   ]
  },
  {
@@ -457,6 +458,16 @@
   "def": "ネット上で恋愛関係を装い、気持ちを動かしたうえでお金をだまし取る手口。アプリの外への誘導、周りに秘密にさせる働きかけ、小さな頼みごとから始まる送金の求めが、よく見られる流れとして報告されている。",
   "slugs": [
    "romance-scam-money-request-before-meeting-research"
+  ]
+ },
+ {
+  "id": "reassurance-seeking",
+  "term": "過剰な安心確認（リアシュアランス・シーキング）",
+  "en": "Excessive reassurance seeking (ERS)",
+  "def": "相手から「大丈夫」という安心を、過剰かつ持続的に求め続ける心理的な傾向。愛着に不安を感じやすい人に多いとされる。",
+  "slugs": [
+   "schedule-sharing-love-or-anxiety-research",
+   "partner-texting-less-what-to-do-research"
   ]
  }
 ]
