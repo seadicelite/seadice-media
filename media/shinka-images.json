@@ -389,5 +389,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lab_mouse_mg_3263.jpg/500px-Lab_mouse_mg_3263.jpg",
   "og": "https://shinka.seadice.win/img/universe-25-og.jpg",
   "local": true
+ },
+ "neanderthal-extinction": {
+  "file": "File:Skull, right profile. Wellcome M0001146.jpg",
+  "src": "/img/neanderthal-extinction.jpg",
+  "src640": "/img/neanderthal-extinction-sm.jpg",
+  "w": 960,
+  "h": 851,
+  "alt": "ネアンデルタール人の頭骨（フランスのラ・シャペル・オ・サンで見つかった1号）を横から写した古い写真",
+  "artist": "Unknown",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Skull,_right_profile._Wellcome_M0001146.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Skull%2C_right_profile._Wellcome_M0001146.jpg/960px-Skull%2C_right_profile._Wellcome_M0001146.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Skull%2C_right_profile._Wellcome_M0001146.jpg/500px-Skull%2C_right_profile._Wellcome_M0001146.jpg",
+  "og": "https://shinka.seadice.win/img/neanderthal-extinction.jpg",
+  "local": true
  }
 }

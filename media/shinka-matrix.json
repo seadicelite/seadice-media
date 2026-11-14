@@ -159,7 +159,9 @@
         "how": [
           "dinosaur-extinction"
         ],
-        "myth": [],
+        "myth": [
+          "neanderthal-extinction"
+        ],
         "num": [
           "mass-extinctions"
         ],
