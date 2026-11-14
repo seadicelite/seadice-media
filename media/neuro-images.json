@@ -1307,5 +1307,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Toolbox-vintage-werkzeugkiste-alt-01.jpg/500px-Toolbox-vintage-werkzeugkiste-alt-01.jpg",
   "og": "https://neuro.seadice.win/img/app-features-guide-og.jpg",
   "local": true
+ },
+ "habit-formation-days": {
+  "file": "File:WallCalendar.jpg",
+  "src": "/img/habit-formation-days.jpg",
+  "src640": "/img/habit-formation-days-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "壁のカレンダー",
+  "artist": "Claudio Elias",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:WallCalendar.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WallCalendar.jpg/960px-WallCalendar.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WallCalendar.jpg/500px-WallCalendar.jpg",
+  "og": "https://neuro.seadice.win/img/habit-formation-days.jpg",
+  "local": true
  }
 }
