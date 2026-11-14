@@ -2143,7 +2143,7 @@
   "src640": "/img/rebuilding-trust-after-lie-research-sm.webp",
   "w": 960,
   "h": 960,
-  "alt": "金継ぎで直された器",
+  "alt": "割れ目を継ぎ合わせて修復された古墳時代のガラスの碗",
   "artist": "martinjhoward2",
   "license": "CC BY-SA 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -3045,6 +3045,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Woman_washing_dishes_in_kitchen.jpg/960px-Woman_washing_dishes_in_kitchen.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Woman_washing_dishes_in_kitchen.jpg/500px-Woman_washing_dishes_in_kitchen.jpg",
   "og": "https://umbra.seadice.win/img/household-chores-fairness-conflict-research.jpg",
+  "local": true
+ },
+ "suspicion-after-betrayal-cant-stop-research": {
+  "file": "File:Glass Bowl, Kofun period, 6th century, perhaps from the tomb of Emperor Ankan, Habikino-shi, Osaka - Tokyo National Museum - DSC06402.JPG",
+  "src": "/img/suspicion-after-betrayal-cant-stop-research.jpg",
+  "src640": "/img/suspicion-after-betrayal-cant-stop-research-sm.jpg",
+  "w": 960,
+  "h": 736,
+  "alt": "割れ目を継ぎ合わせて修復された古墳時代のガラスの碗",
+  "artist": "Daderot",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Glass_Bowl,_Kofun_period,_6th_century,_perhaps_from_the_tomb_of_Emperor_Ankan,_Habikino-shi,_Osaka_-_Tokyo_National_Museum_-_DSC06402.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Glass_Bowl%2C_Kofun_period%2C_6th_century%2C_perhaps_from_the_tomb_of_Emperor_Ankan%2C_Habikino-shi%2C_Osaka_-_Tokyo_National_Museum_-_DSC06402.JPG/960px-Glass_Bowl%2C_Kofun_period%2C_6th_century%2C_perhaps_from_the_tomb_of_Emperor_Ankan%2C_Habikino-shi%2C_Osaka_-_Tokyo_National_Museum_-_DSC06402.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Glass_Bowl%2C_Kofun_period%2C_6th_century%2C_perhaps_from_the_tomb_of_Emperor_Ankan%2C_Habikino-shi%2C_Osaka_-_Tokyo_National_Museum_-_DSC06402.JPG/500px-Glass_Bowl%2C_Kofun_period%2C_6th_century%2C_perhaps_from_the_tomb_of_Emperor_Ankan%2C_Habikino-shi%2C_Osaka_-_Tokyo_National_Museum_-_DSC06402.JPG",
+  "og": "https://umbra.seadice.win/img/suspicion-after-betrayal-cant-stop-research.jpg",
   "local": true
  }
 }
