@@ -1190,5 +1190,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Glengarriff%2C_Road_Junction_with_signpost_-_geograph.org.uk_-_5241532.jpg/500px-Glengarriff%2C_Road_Junction_with_signpost_-_geograph.org.uk_-_5241532.jpg",
   "og": "https://oya.seadice.win/img/parent-getting-lost-while-driving.jpg",
   "local": true
+ },
+ "parent-not-bathing-changing-clothes": {
+  "file": "File:DSC 8560 A charming bathroom with intricate blue-and-white patterned tiles a decorative round mirror vessel sink with gold fixtures and neatly folded towels on the marble countertop.jpg",
+  "src": "/img/parent-not-bathing-changing-clothes.jpg",
+  "src640": "/img/parent-not-bathing-changing-clothes-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "青い模様のタイルの洗面所と、たたんだタオル",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DSC_8560_A_charming_bathroom_with_intricate_blue-and-white_patterned_tiles_a_decorative_round_mirror_vessel_sink_with_gold_fixtures_and_neatly_folded_towels_on_the_marble_countertop.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DSC_8560_A_charming_bathroom_with_intricate_blue-and-white_patterned_tiles_a_decorative_round_mirror_vessel_sink_with_gold_fixtures_and_neatly_folded_towels_on_the_marble_countertop.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DSC_8560_A_charming_bathroom_with_intricate_blue-and-white_patterned_tiles_a_decorative_round_mirror_vessel_sink_with_gold_fixtures_and_neatly_folded_towels_on_the_marble_countertop.jpg/500px-thumbnail.jpg",
+  "og": "https://oya.seadice.win/img/parent-not-bathing-changing-clothes.jpg",
+  "local": true
  }
 }
