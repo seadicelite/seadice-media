@@ -1414,5 +1414,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Osgoode_Hall_Level_2_Courtroom_Interior_2023.jpg/500px-Osgoode_Hall_Level_2_Courtroom_Interior_2023.jpg",
   "og": "https://hanzai.seadice.win/img/victim-impact-statement-sentencing.jpg",
   "local": true
+ },
+ "csi-effect-jurors": {
+  "file": "File:Equipment and glassware.jpg",
+  "src": "/img/csi-effect-jurors.jpg",
+  "src640": "/img/csi-effect-jurors-sm.jpg",
+  "w": 960,
+  "h": 566,
+  "alt": "実験室に並んだガラス器具",
+  "artist": "Belikov Maxim",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Equipment_and_glassware.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Equipment_and_glassware.jpg/960px-Equipment_and_glassware.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Equipment_and_glassware.jpg/500px-Equipment_and_glassware.jpg",
+  "og": "https://hanzai.seadice.win/img/csi-effect-jurors.jpg",
+  "local": true
  }
 }
