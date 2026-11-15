@@ -1664,5 +1664,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Couch-furniture-living-room-sofa_%2824300293356%29.jpg/500px-Couch-furniture-living-room-sofa_%2824300293356%29.jpg",
   "og": "https://kosodate.seadice.win/img/parent-burnout-taking-it-out-on-child-og.jpg",
   "local": true
+ },
+ "child-says-uzai-teen-rebellion-how-long": {
+  "file": "File:Vihorlat Museum in Humenné - History and art history permanent exhibition - Kitchen and dining hall furniture exhibit room - Dining table, chairs, candlesticks on the wall, cupboard and painting (September 2026).jpg",
+  "src": "/img/child-says-uzai-teen-rebellion-how-long.jpg",
+  "src640": "/img/child-says-uzai-teen-rebellion-how-long-sm.jpg",
+  "w": 960,
+  "h": 719,
+  "alt": "ダイニングのテーブルといす",
+  "artist": "ZemplinTemplar",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Kitchen_and_dining_hall_furniture_exhibit_room_-_Dining_table,_chairs,_candlesticks_on_the_wall,_cupboard_and_painting_(September_2026).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Kitchen_and_dining_hall_furniture_exhibit_room_-_Dining_table%2C_chairs%2C_candlesticks_on_the_wall%2C_cupboard_and_painting_%28September_2026%29.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Kitchen_and_dining_hall_furniture_exhibit_room_-_Dining_table%2C_chairs%2C_candlesticks_on_the_wall%2C_cupboard_and_painting_%28September_2026%29.jpg/500px-thumbnail.jpg",
+  "og": "https://kosodate.seadice.win/img/child-says-uzai-teen-rebellion-how-long.jpg",
+  "local": true
  }
 }
