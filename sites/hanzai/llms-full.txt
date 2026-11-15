@@ -5631,7 +5631,7 @@ Welsh, Zane, Zimmerman & Yohros（2019）[2]
 
 Welsh（2025）／ Dishion, McCord & Poulin（1999）[3][4]
 
-ケンブリッジ・サマービル研究の裏目に出た結果について、後の分析は、非行リスクの高い少年どうしが集まることで問題行動を学び合う「仲間の影響」を一因として支持した。Dishionらは、非行のある若者を集団で集める支援が、問題行動をかえって増やすことがあると、2つの比較実験の結果から示唆した。リスクの高い若者ほど、この影響を受けやすかった。
+ケンブリッジ・サマービル研究の裏目に出た結果について、後の分析は、非行リスクの高い少年どうしが集まることで問題行動を学び合う「仲間の影響」を一因として支持した。Dishionらは、問題行動のリスクがある若者を集団で集める支援が、問題行動をかえって増やすことがあると、2つの比較実験の結果から示唆した。リスクの高い若者ほど、この影響を受けやすかった。
 
 限界: 集団で集める支援がいつも害になるわけではない。著者らも「状況によっては」と条件をつけている。
 
@@ -5639,7 +5639,7 @@ Wong, Lee & Beck（2024）[5]
 
 少年院などを出る若者の立ち直り支援（出所前後の生活・就学・家族などの支援）を調べた15研究をまとめた。逮捕と再収容には統計的な効果がなかった。有罪判決にだけ小さな効果（オッズ比1.209）が見られたが、どの研究を含めるかで結果が変わり、頑健ではなかった。プログラムの43%がメンタリングを含んでいたが、含むかどうかで効果に有意な差はなかった。
 
-対象: 欧米などの21か所、4,718人 ／ 限界: 評価の多くで偏りの危険が大きいと判定された。著者らは、さらに厳密な研究が強く必要だと述べている。
+対象: 北米と欧州の21か所、4,718人 ／ 限界: 評価の約半数で偏りの危険が大きいと判定され、査読論文は少数だった。著者らは、さらに厳密な研究が強く必要だと述べている。
 
 Kennealy, Skeem, Manchak & Eno Louden（2012）[6]
 
@@ -5661,7 +5661,7 @@ MYTH / 思い込み温かい大人が長く関われば、それだけで非行�
 FACT / 研究では平均5.5年、家庭訪問や勉強の手助けを続けた実験でも、30年後には支援を受けた側に悪い結果が多かった[2]。長さや熱意だけでなく、誰と一緒に過ごさせるかが結果を左右しうる[3][4]。
 
 MYTH / 思い込み寄り添う支援は、効果がないか、あっても気休めだ。
-FACT / 研究では46研究のまとめでは、非行は小さいながら確かに改善していた。気持ちを支える支援や、本人の代わりに声を上げる支援では、それがない支援に比べて効果がおよそ3倍の大きさだった[1]。
+FACT / 研究では46研究のまとめでは、非行は小さいながら確かに改善していた。気持ちを支える支援や、本人の代わりに声を上げる支援では、それがない支援に比べて効果（非行・学業などを合わせたもの）がおよそ3倍の大きさだった[1]。
 
 MYTH / 思い込み監督する担当官は厳しくするほど再犯を防げる。
 FACT / 研究では再逮捕を防ぐ方向に働いていたのは、厳しさだけでも優しさだけでもない「毅然として、公平で、思いやりのある」関係だった[6]。
@@ -5695,7 +5695,7 @@ A. あります。1939年に始まったケンブリッジ・サマービル研�
 
 - Welsh, B. C., Zane, S. N., Zimmerman, G. M., & Yohros, A. (2019). Association of a crime prevention program for boys with mortality 72 years after the intervention: Follow-up of a randomized clinical trial. JAMA Network Open, 2(3), e190782. https://doi.org/10.1001/jamanetworkopen.2019.0782
 
-- Welsh, B. C. (2025). The longitudinal-experimental design and the development and prevention of criminal offending over the life-course: Advances in science and policy from the Cambridge-Somerville Youth Study. Criminal Behaviour and Mental Health. https://doi.org/10.1002/cbm.2369
+- Welsh, B. C. (2025). The longitudinal-experimental design and the development and prevention of criminal offending over the life-course: Advances in science and policy from the Cambridge-Somerville Youth Study. Criminal Behaviour and Mental Health, 35(2), 89-94. https://doi.org/10.1002/cbm.2369
 
 - Dishion, T. J., McCord, J., & Poulin, F. (1999). When interventions harm: Peer groups and problem behavior. American Psychologist, 54(9), 755-764. https://doi.org/10.1037/0003-066X.54.9.755
 
