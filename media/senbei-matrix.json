@@ -89,7 +89,9 @@
         "data": [
           "humidity-crispness-storage"
         ],
-        "use": []
+        "use": [
+          "stale-senbei-break-sound-test"
+        ]
       }
     },
     {

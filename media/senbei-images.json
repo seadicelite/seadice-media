@@ -935,5 +935,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Cheddar_cheese_and_Japanese_rice_crackers_with_black_sesame_and_soy_sauce_-_Massachusetts.jpg/500px-Cheddar_cheese_and_Japanese_rice_crackers_with_black_sesame_and_soy_sauce_-_Massachusetts.jpg",
   "og": "https://senbei.seadice.win/img/senbei-preference-word-check.jpg",
   "local": true
+ },
+ "stale-senbei-break-sound-test": {
+  "file": "File:Broken-cracker.jpg",
+  "src": "/img/stale-senbei-break-sound-test.jpg",
+  "src640": "/img/stale-senbei-break-sound-test-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "割れたクラッカー",
+  "artist": "Nada Stankova",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Broken-cracker.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Broken-cracker.jpg/960px-Broken-cracker.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Broken-cracker.jpg/500px-Broken-cracker.jpg",
+  "og": "https://senbei.seadice.win/img/stale-senbei-break-sound-test.jpg",
+  "local": true
  }
 }
