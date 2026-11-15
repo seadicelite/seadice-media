@@ -469,5 +469,14 @@
    "schedule-sharing-love-or-anxiety-research",
    "partner-texting-less-what-to-do-research"
   ]
+ },
+ {
+  "id": "rumination",
+  "term": "反芻思考（ルーミネーション）",
+  "en": "Rumination",
+  "def": "過去の出来事やつらかったことを、繰り返し思い出して考え続けること。喧嘩のあとに昔の揉めごとを思い出しやすい人ほど、その出来事を許せていない傾向が報告されています。",
+  "slugs": [
+   "past-grievances-in-arguments-research"
+  ]
  }
 ]

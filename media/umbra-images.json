@@ -3100,5 +3100,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Terras_in_Halle_2023.jpg/500px-Terras_in_Halle_2023.jpg",
   "og": "https://umbra.seadice.win/img/first-date-disappointment-second-date-research.jpg",
   "local": true
+ },
+ "past-grievances-in-arguments-research": {
+  "file": "File:Antique pocket watch (28001665870).jpg",
+  "src": "/img/past-grievances-in-arguments-research.jpg",
+  "src640": "/img/past-grievances-in-arguments-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "アンティークの懐中時計",
+  "artist": "Thomas Quine",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Antique_pocket_watch_(28001665870).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Antique_pocket_watch_%2828001665870%29.jpg/960px-Antique_pocket_watch_%2828001665870%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Antique_pocket_watch_%2828001665870%29.jpg/500px-Antique_pocket_watch_%2828001665870%29.jpg",
+  "og": "https://umbra.seadice.win/img/past-grievances-in-arguments-research.jpg",
+  "local": true
  }
 }
