@@ -407,5 +407,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Skull%2C_right_profile._Wellcome_M0001146.jpg/500px-Skull%2C_right_profile._Wellcome_M0001146.jpg",
   "og": "https://shinka.seadice.win/img/neanderthal-extinction.jpg",
   "local": true
+ },
+ "dodo": {
+  "file": "File:Paris dodo skeleton.jpg",
+  "src": "/img/dodo.jpg",
+  "src640": "/img/dodo-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "パリの古生物学館に展示されたドードーの骨格標本（右は白い全身模型）",
+  "artist": "DCHNwam",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Paris_dodo_skeleton.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Paris_dodo_skeleton.jpg/960px-Paris_dodo_skeleton.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Paris_dodo_skeleton.jpg/500px-Paris_dodo_skeleton.jpg",
+  "og": "https://shinka.seadice.win/img/dodo.jpg",
+  "local": true
  }
 }

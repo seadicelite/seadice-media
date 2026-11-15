@@ -1,5 +1,13 @@
 [
  {
+  "slug": "dodo",
+  "category": "絶滅",
+  "type": "guide",
+  "date": "2026-11-15",
+  "title": "ドードーとはどんな鳥？ いつ、なぜ絶滅したのか",
+  "summary": "モーリシャス島にいた飛べない大きなハトの仲間。1598年に記録され、最後の目撃は1662年。正確な絶滅年や体つきはまだ分かれている。"
+ },
+ {
   "slug": "neanderthal-extinction",
   "category": "絶滅",
   "type": "guide",

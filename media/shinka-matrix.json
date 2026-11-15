@@ -155,7 +155,9 @@
       "id": "extinction",
       "label": "絶滅",
       "cells": {
-        "what": [],
+        "what": [
+          "dodo"
+        ],
         "how": [
           "dinosaur-extinction"
         ],
