@@ -1,5 +1,14 @@
 [
  {
+  "id": "kitchen-thinking",
+  "term": "キッチンシンキング（kitchen thinking）",
+  "en": "Kitchen thinking",
+  "def": "今は無関係な場面で、過去の嫌な出来事をふと思い出してしまうこと。喧嘩のたびに昔のことを持ち出す「キッチンシンキング」研究で使われた言葉で、口に出さなくても関係への影響が見られた。",
+  "slugs": [
+   "bringing-up-past-during-fights-research"
+  ]
+ },
+ {
   "id": "phubbing",
   "term": "ファビング（phubbing）",
   "en": "Phubbing",
