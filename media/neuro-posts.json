@@ -1,5 +1,13 @@
 [
   {
+    "slug": "hook-model-variable-reward",
+    "category": "続ける",
+    "type": "guide",
+    "date": "2026-11-15",
+    "title": "アプリをハマらせる変動報酬は使ってよい？ 続けてもらう設計と依存させる設計の境目",
+    "summary": "いいねは報酬として投稿の仕方を変え、お金で引くくじはギャンブルの問題と結びついた。ごほうびは予告どおりに出し、本人の目的に戻す形だけを使う。"
+  },
+  {
     "slug": "habit-formation-days",
     "category": "続ける",
     "type": "guide",
