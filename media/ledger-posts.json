@@ -1,5 +1,13 @@
 [
  {
+  "slug": "family-subscription-payer-awareness-check",
+  "category": "サブスク・固定費",
+  "type": "guide",
+  "date": "2026-11-15",
+  "title": "家族でシェアしているサブスク、払っているのが誰か分からなくなっていませんか？気づくための8つの質問",
+  "summary": "まとめて契約したサブスクは、誰がいくら払っているかが曖昧になりやすい。お金の話し合いを調べた研究と、払い方のズレに気づく8つの質問を整理した。"
+ },
+ {
   "slug": "group-bill-splitting-calculator",
   "category": "家計管理",
   "type": "guide",

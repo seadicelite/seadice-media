@@ -187,7 +187,8 @@
      "sunk-cost-mottainai"
     ],
     "notice": [
-     "subscription-signup-overestimate-self-check"
+     "subscription-signup-overestimate-self-check",
+     "family-subscription-payer-awareness-check"
     ],
     "fix": [
      "subscription-review-procrastination-status-quo-bias"

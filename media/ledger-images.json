@@ -2153,5 +2153,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Chinese_cash_coins_a.jpg/500px-Chinese_cash_coins_a.jpg",
   "og": "https://ledger.seadice.win/img/friend-money-repayment-ask-tips.jpg",
   "local": true
+ },
+ "family-subscription-payer-awareness-check": {
+  "file": "File:Münster, Domplatz, Sparschwein -- 2022 -- 0863.jpg",
+  "src": "/img/family-subscription-payer-awareness-check.jpg",
+  "src640": "/img/family-subscription-payer-awareness-check-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "青い陶器の貯金箱",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Domplatz,_Sparschwein_--_2022_--_0863.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/M%C3%BCnster%2C_Domplatz%2C_Sparschwein_--_2022_--_0863.jpg/960px-M%C3%BCnster%2C_Domplatz%2C_Sparschwein_--_2022_--_0863.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/M%C3%BCnster%2C_Domplatz%2C_Sparschwein_--_2022_--_0863.jpg/500px-M%C3%BCnster%2C_Domplatz%2C_Sparschwein_--_2022_--_0863.jpg",
+  "og": "https://ledger.seadice.win/img/family-subscription-payer-awareness-check.jpg",
+  "local": true
  }
 }
