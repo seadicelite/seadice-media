@@ -80,7 +80,9 @@
           "/split/"
         ],
         "odd": [],
-        "history": []
+        "history": [
+          "darwin-wallace"
+        ]
       }
     },
     {
@@ -169,7 +171,9 @@
         "num": [
           "mass-extinctions"
         ],
-        "unknown": [],
+        "unknown": [
+          "dinosaur-decline"
+        ],
         "see": [],
         "odd": [
           "mammoth-extinction"
@@ -193,7 +197,9 @@
         "see": [
           "urban-evolution"
         ],
-        "odd": [],
+        "odd": [
+          "island-lizard-gut"
+        ],
         "history": []
       }
     }
