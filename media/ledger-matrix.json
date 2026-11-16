@@ -191,7 +191,8 @@
      "family-subscription-payer-awareness-check"
     ],
     "fix": [
-     "subscription-review-procrastination-status-quo-bias"
+     "subscription-review-procrastination-status-quo-bias",
+     "subscription-price-hike-downgrade-tips"
     ],
     "after": [
      "subscription-unused-months-paid-recovery"

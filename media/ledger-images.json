@@ -2171,5 +2171,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/M%C3%BCnster%2C_Domplatz%2C_Sparschwein_--_2022_--_0863.jpg/500px-M%C3%BCnster%2C_Domplatz%2C_Sparschwein_--_2022_--_0863.jpg",
   "og": "https://ledger.seadice.win/img/family-subscription-payer-awareness-check.jpg",
   "local": true
+ },
+ "subscription-price-hike-downgrade-tips": {
+  "file": "File:Television remote control - unbranded-4028.jpg",
+  "src": "/img/subscription-price-hike-downgrade-tips.jpg",
+  "src640": "/img/subscription-price-hike-downgrade-tips-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "テレビのリモコン",
+  "artist": "Raimond Spekking",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Television_remote_control_-_unbranded-4028.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Television_remote_control_-_unbranded-4028.jpg/960px-Television_remote_control_-_unbranded-4028.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Television_remote_control_-_unbranded-4028.jpg/500px-Television_remote_control_-_unbranded-4028.jpg",
+  "og": "https://ledger.seadice.win/img/subscription-price-hike-downgrade-tips.jpg",
+  "local": true
  }
 }
