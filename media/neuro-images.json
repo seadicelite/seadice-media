@@ -1343,5 +1343,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/LG_V10.jpg/500px-LG_V10.jpg",
   "og": "https://neuro.seadice.win/img/hook-model-variable-reward.jpg",
   "local": true
+ },
+ "subliminal-advertising": {
+  "file": "File:Cinema popcorn bucket.jpg",
+  "src": "/img/subliminal-advertising.jpg",
+  "src640": "/img/subliminal-advertising-sm.jpg",
+  "w": 960,
+  "h": 919,
+  "alt": "映画館のポップコーン",
+  "artist": "مانفی",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cinema_popcorn_bucket.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cinema_popcorn_bucket.jpg/960px-Cinema_popcorn_bucket.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cinema_popcorn_bucket.jpg/500px-Cinema_popcorn_bucket.jpg",
+  "og": "https://neuro.seadice.win/img/subliminal-advertising.jpg",
+  "local": true
  }
 }
