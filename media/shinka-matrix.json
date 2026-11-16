@@ -99,7 +99,9 @@
         "num": [],
         "unknown": [],
         "see": [],
-        "odd": [],
+        "odd": [
+          "virus-dna"
+        ],
         "history": [
           "fish-to-land"
         ]
