@@ -889,5 +889,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hakone_Yosegi_Zaiku_display_-_Hakone_Checkpoint_Exhibition_Hall_-_Hakone_no_Seki_%28barrier_station%29_-_Hakone%2C_Japan_-_DSC06051.jpg/500px-Hakone_Yosegi_Zaiku_display_-_Hakone_Checkpoint_Exhibition_Hall_-_Hakone_no_Seki_%28barrier_station%29_-_Hakone%2C_Japan_-_DSC06051.jpg",
   "og": "https://kogei.seadice.win/img/hakone-yosegi-zaiku-og.jpg",
   "local": true
+ },
+ "tsugarunuri-togidashi-karanuri": {
+  "file": "File:Tsugaru lacquerware (Tsugarunuri).jpg",
+  "src": "/img/tsugarunuri-togidashi-karanuri.jpg",
+  "src640": "/img/tsugarunuri-togidashi-karanuri-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "津軽塗の漆器",
+  "artist": "Kaburamata",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tsugaru_lacquerware_(Tsugarunuri).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tsugaru_lacquerware_%28Tsugarunuri%29.jpg/960px-Tsugaru_lacquerware_%28Tsugarunuri%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tsugaru_lacquerware_%28Tsugarunuri%29.jpg/500px-Tsugaru_lacquerware_%28Tsugarunuri%29.jpg",
+  "og": "https://kogei.seadice.win/img/tsugarunuri-togidashi-karanuri.jpg",
+  "local": true
  }
 }
