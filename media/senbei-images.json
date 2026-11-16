@@ -953,5 +953,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Broken-cracker.jpg/500px-Broken-cracker.jpg",
   "og": "https://senbei.seadice.win/img/stale-senbei-break-sound-test.jpg",
   "local": true
+ },
+ "regional-salt-preference-blind-test": {
+  "file": "File:Seasalt.jpg",
+  "src": "/img/regional-salt-preference-blind-test.jpg",
+  "src640": "/img/regional-salt-preference-blind-test-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木の器に入った塩と木のさじ",
+  "artist": "Relativity",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Seasalt.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Seasalt.jpg/960px-Seasalt.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Seasalt.jpg/500px-Seasalt.jpg",
+  "og": "https://senbei.seadice.win/img/regional-salt-preference-blind-test.jpg",
+  "local": true
  }
 }

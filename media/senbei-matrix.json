@@ -194,7 +194,9 @@
         "data": [
           "senbei-spending-city-ranking"
         ],
-        "use": []
+        "use": [
+          "regional-salt-preference-blind-test"
+        ]
       }
     },
     {
