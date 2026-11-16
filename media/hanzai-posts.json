@@ -1,5 +1,13 @@
 [
   {
+    "slug": "memory-conformity-co-witness",
+    "category": "記憶と目撃証言",
+    "type": "guide",
+    "date": "2026-11-16",
+    "title": "目撃者どうしが話し合うと記憶はどうなるのか。相手の話が自分の記憶に入り込む「記憶の同調」の実験",
+    "summary": "話し合った目撃者の71%が見ていない事柄を証言。誤った答えに合わせた記憶の約4割は、誤りと知らされても残った。"
+  },
+  {
     "slug": "csi-effect-jurors",
     "category": "取り調べと冤罪",
     "type": "guide",

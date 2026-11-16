@@ -1432,5 +1432,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Equipment_and_glassware.jpg/500px-Equipment_and_glassware.jpg",
   "og": "https://hanzai.seadice.win/img/csi-effect-jurors.jpg",
   "local": true
+ },
+ "memory-conformity-co-witness": {
+  "file": "File:Street lamp in a rainy night with a firefighting vehicle passing below, Alameda Dom Afonso Henriques, Lisbon, Portugal julesvernex2.jpg",
+  "src": "/img/memory-conformity-co-witness.jpg",
+  "w": 960,
+  "h": 661,
+  "alt": "雨の夜の街灯と、通りを走る車",
+  "artist": "Jules Verne Times Two",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Street_lamp_in_a_rainy_night_with_a_firefighting_vehicle_passing_below,_Alameda_Dom_Afonso_Henriques,_Lisbon,_Portugal_julesvernex2.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://commons.wikimedia.org/wiki/Special:FilePath/Street_lamp_in_a_rainy_night_with_a_firefighting_vehicle_passing_below,_Alameda_Dom_Afonso_Henriques,_Lisbon,_Portugal_julesvernex2.jpg?width=1280",
+  "remote640": null,
+  "src640": "/img/memory-conformity-co-witness-sm.jpg",
+  "og": "https://hanzai.seadice.win/img/memory-conformity-co-witness.jpg",
+  "local": true
  }
 }
