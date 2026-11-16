@@ -1,5 +1,29 @@
 [
   {
+    "slug": "ai-answer-fact-check",
+    "category": "AIの落とし穴",
+    "type": "guide",
+    "date": "2026-11-16",
+    "title": "AIの答えはどこまで信じていい？間違いを見抜く4つの確かめ方",
+    "summary": "AIが示した文献の一部は実在せず、ニュースの回答の45%に重大な問題。出典を開く・題名で検索するなど4つの確かめ方。"
+  },
+  {
+    "slug": "self-name-search-check",
+    "category": "個人情報の流出",
+    "type": "guide",
+    "date": "2026-11-16",
+    "title": "自分の名前で検索すると何が出る？ネット上の自分の情報を点検して消す方法",
+    "summary": "名前を引用符で検索し、住所や電話番号が出ていれば Google の「あなたに関する検索結果」から削除をリクエストする手順。"
+  },
+  {
+    "slug": "reverse-image-search-check",
+    "category": "なりすまし・ディープフェイク",
+    "type": "guide",
+    "date": "2026-11-16",
+    "title": "その画像は本物？画像検索で出どころと最初に出た時期を調べる方法",
+    "summary": "加工写真やAIの顔は見た目では見抜きにくい。Google レンズと「この画像について」で出どころと初出の時期を調べる。"
+  },
+  {
     "slug": "delivery-sms-smishing-check",
     "category": "詐欺メッセージ",
     "type": "guide",
