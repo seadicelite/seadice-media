@@ -1054,5 +1054,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Harvard_Yard_im_Sommer.jpg/500px-Harvard_Yard_im_Sommer.jpg",
   "og": "https://tetsugaku.seadice.win/img/pragmatism-what-works-is-true-og.jpg",
   "local": true
+ },
+ "adam-smith-sympathy": {
+  "file": "File:Adam Smith - geograph.org.uk - 3725853.jpg",
+  "src": "/img/adam-smith-sympathy.jpg",
+  "src640": "/img/adam-smith-sympathy-sm.jpg",
+  "w": 960,
+  "h": 643,
+  "alt": "エディンバラにあるアダム・スミスの像",
+  "artist": "Bill Boaden",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Adam_Smith_-_geograph.org.uk_-_3725853.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Adam_Smith_-_geograph.org.uk_-_3725853.jpg/960px-Adam_Smith_-_geograph.org.uk_-_3725853.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Adam_Smith_-_geograph.org.uk_-_3725853.jpg/500px-Adam_Smith_-_geograph.org.uk_-_3725853.jpg",
+  "og": "https://tetsugaku.seadice.win/img/adam-smith-sympathy.jpg",
+  "local": true
  }
 }

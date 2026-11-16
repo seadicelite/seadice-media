@@ -100,6 +100,15 @@
   ]
  },
  {
+  "id": "kyoukan-smith",
+  "term": "共感（スミス）",
+  "en": "Sympathy",
+  "def": "他者が置かれた状況を想像することで生まれる、感情を分かち合う働きのこと。アダム・スミスは『道徳感情論』で、利己的に見える人間にも他者を思う性質があるとし、これを道徳の土台に置きました。",
+  "slugs": [
+   "adam-smith-sympathy"
+  ]
+ },
+ {
   "id": "gyges-no-yubiwa",
   "term": "ギュゲスの指輪",
   "en": "Ring of Gyges",
