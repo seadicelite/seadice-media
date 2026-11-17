@@ -1450,5 +1450,22 @@
   "src640": "/img/memory-conformity-co-witness-sm.jpg",
   "og": "https://hanzai.seadice.win/img/memory-conformity-co-witness.jpg",
   "local": true
+ },
+ "super-recognizers-face-recognition": {
+  "file": "File:James Wyatt - Cobham Hall, Kent, Section of a Hallway with Four Doors - B1977.14.829 - Yale Center for British Art.jpg",
+  "src": "/img/super-recognizers-face-recognition.webp",
+  "src640": "/img/super-recognizers-face-recognition-sm.webp",
+  "w": 960,
+  "h": 731,
+  "alt": "扉が並ぶ館の廊下を描いた建築図面",
+  "artist": "James Wyatt",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:James_Wyatt_-_Cobham_Hall,_Kent,_Section_of_a_Hallway_with_Four_Doors_-_B1977.14.829_-_Yale_Center_for_British_Art.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/James_Wyatt_-_Cobham_Hall%2C_Kent%2C_Section_of_a_Hallway_with_Four_Doors_-_B1977.14.829_-_Yale_Center_for_British_Art.jpg/960px-James_Wyatt_-_Cobham_Hall%2C_Kent%2C_Section_of_a_Hallway_with_Four_Doors_-_B1977.14.829_-_Yale_Center_for_British_Art.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/James_Wyatt_-_Cobham_Hall%2C_Kent%2C_Section_of_a_Hallway_with_Four_Doors_-_B1977.14.829_-_Yale_Center_for_British_Art.jpg/500px-James_Wyatt_-_Cobham_Hall%2C_Kent%2C_Section_of_a_Hallway_with_Four_Doors_-_B1977.14.829_-_Yale_Center_for_British_Art.jpg",
+  "og": "https://hanzai.seadice.win/img/super-recognizers-face-recognition-og.jpg",
+  "local": true
  }
 }
