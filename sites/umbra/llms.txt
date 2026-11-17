@@ -92,6 +92,7 @@
 - [好意のつもりはないのに「脈あり」と勘違いされたら。笑顔や親切の読み違いの研究と、関係を壊さない伝え方](https://umbra.seadice.win/misread-as-interested-how-to-clarify-research/): 笑顔や親切が好意と読み違えられるのは多くの人が経験すること。態度を変えるより、言葉で一度はっきり伝え行動をそろえる方法を研究から示す。
 - [好きな人と目を合わせるのが苦手。どのくらい見ればいい？視線の長さの研究](https://umbra.seadice.win/eye-contact-how-long-to-look-research/): 心地よく見つめられる長さは平均3.3秒。会話で目が合うのは1回0.36秒ほどだが、別の学生への調査では会話の約7割で目が合ったと感じていた。
 - [恋人のスキンシップが減ったら、冷めたサイン？触れ合いと愛情の研究と、責めずに伝える方法](https://umbra.seadice.win/partner-less-touch-affection-decline-research/): 触れ合いと愛情は関連するが、量は年齢や好みでも変わる。減っただけで判断せず、責めずに希望を伝える
+- [キスのとき、顔はどちらに傾ける？多くの人が右に傾けるという研究と、向きで気持ちはわかるのか](https://umbra.seadice.win/kissing-head-turn-right-research/): カップル124組の観察では64.5%が右に傾けた。親子のキスでは逆に左が多い。向きで気持ちを読める研究は見当たらない。
 
 #### 嘘や本音は見抜けるか
 
@@ -175,6 +176,8 @@
 - [恋人・夫婦で「したい気持ち」の差がつらいとき。性欲のずれと関係の研究](https://umbra.seadice.win/sexual-desire-mismatch-couples-research/): 性欲のずれは長い関係でよくあること。93研究のメタ分析では、話す回数より話し合いの質が満足度と強く結びついていた。
 - [プレゼント選びの上手さは、気持ちの大きさを表すのか。贈り物と関係の研究](https://umbra.seadice.win/gift-choosing-skill-love-depth-research/): 選ぶ力の男女差は人への関心の高さで一部説明され、体験の贈り物は「自分らしくいられる」感覚を通じて感謝と結びついていた。気持ちの深さそのものは測られていない。
 - [友人への惚気話が多いかどうかで、関係の深さはわかるのか。自己開示と満足度の研究](https://umbra.seadice.win/partner-bragging-to-friends-relationship-depth-research/): 惚気話の量より、嬉しい話にどれだけ積極的に応えてもらえたかのほうが満足度と関わっていた。
+- [恋人と手をつなぐと、痛みは和らぐのか。写真を見るだけでも痛みが軽くなった研究](https://umbra.seadice.win/holding-hands-partner-pain-relief-research/): 恋人の手を握ると痛みや不安の反応が下がり、写真でも痛みが軽く感じられた。ただそばにいるだけでは効果は見られなかった。
+- [恋人の服の匂いで落ち着くのは気のせい？匂いでストレスと睡眠が変わった研究](https://umbra.seadice.win/partner-scent-stress-sleep-research/): 恋人の匂いでストレスを感じにくくなり、睡眠効率は平均2%以上上がった。知らない人の匂いではストレスホルモンが高かった。
 
 #### 喧嘩と浮気
 
