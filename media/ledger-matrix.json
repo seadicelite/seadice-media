@@ -198,7 +198,8 @@
      "subscription-unused-months-paid-recovery"
     ],
     "use": [
-     "subscription-fixed-cost-review-checklist"
+     "subscription-fixed-cost-review-checklist",
+     "subscription-paygo-monthly-limit-calculator"
     ]
    }
   },

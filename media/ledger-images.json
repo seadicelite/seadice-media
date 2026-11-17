@@ -2189,5 +2189,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Television_remote_control_-_unbranded-4028.jpg/500px-Television_remote_control_-_unbranded-4028.jpg",
   "og": "https://ledger.seadice.win/img/subscription-price-hike-downgrade-tips.jpg",
   "local": true
+ },
+ "subscription-paygo-monthly-limit-calculator": {
+  "file": "File:Catalogue number 56 from Malmesbury Hoard (FindID 521848).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Catalogue_number_56_from_Malmesbury_Hoard_%28FindID_521848%29.jpg/960px-Catalogue_number_56_from_Malmesbury_Hoard_%28FindID_521848%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Catalogue_number_56_from_Malmesbury_Hoard_%28FindID_521848%29.jpg/500px-Catalogue_number_56_from_Malmesbury_Hoard_%28FindID_521848%29.jpg",
+  "w": 960,
+  "h": 485,
+  "alt": "出土した古代のコイン",
+  "artist": "The British Museum, Ian Richardson, 2014-07-04 16:42:52",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Catalogue_number_56_from_Malmesbury_Hoard_(FindID_521848).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
