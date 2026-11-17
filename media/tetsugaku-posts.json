@@ -1,5 +1,13 @@
 [
  {
+  "slug": "occams-razor",
+  "category": "古代・中世哲学",
+  "type": "guide",
+  "date": "2026-11-17",
+  "title": "オッカムの剃刀とは？ 必要以上に仮定しないという原則の意味",
+  "summary": "「必要以上に物事を増やすな」はオッカム本人の言葉ではないという研究がある。医療診断からAIのモデル選びまでの使われ方と限界。"
+ },
+ {
   "slug": "adam-smith-sympathy",
   "category": "倫理・政治哲学",
   "type": "guide",

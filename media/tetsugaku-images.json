@@ -1072,5 +1072,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Adam_Smith_-_geograph.org.uk_-_3725853.jpg/500px-Adam_Smith_-_geograph.org.uk_-_3725853.jpg",
   "og": "https://tetsugaku.seadice.win/img/adam-smith-sympathy.jpg",
   "local": true
+ },
+ "occams-razor": {
+  "file": "File:Loading blades straight razor closeup (38324702215).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Loading_blades_straight_razor_closeup_%2838324702215%29.jpg/960px-Loading_blades_straight_razor_closeup_%2838324702215%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Loading_blades_straight_razor_closeup_%2838324702215%29.jpg/500px-Loading_blades_straight_razor_closeup_%2838324702215%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "柄のついた直剃刀",
+  "artist": "Your Best Digs",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Loading_blades_straight_razor_closeup_(38324702215).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }
