@@ -3239,5 +3239,23 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Polar_OH1_armband.jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "date-yes-interest-signal-research": {
+  "file": "File:Person serving coffee into two cups at a wooden table indoors.jpg",
+  "src": "/img/date-yes-interest-signal-research.jpg",
+  "src640": "/img/date-yes-interest-signal-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のテーブルに並んだ2つのホーローのカップと、コーヒーポットを持つ人の手元",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Person_serving_coffee_into_two_cups_at_a_wooden_table_indoors.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Person_serving_coffee_into_two_cups_at_a_wooden_table_indoors.jpg/960px-Person_serving_coffee_into_two_cups_at_a_wooden_table_indoors.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Person_serving_coffee_into_two_cups_at_a_wooden_table_indoors.jpg/500px-Person_serving_coffee_into_two_cups_at_a_wooden_table_indoors.jpg",
+  "og": "https://umbra.seadice.win/img/date-yes-interest-signal-research.jpg",
+  "local": true
  }
 }
