@@ -1226,5 +1226,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Audioline_TEL_38_SMS_-_Handset_inner_view-92316.jpg/500px-Audioline_TEL_38_SMS_-_Handset_inner_view-92316.jpg",
   "og": "https://oya.seadice.win/img/parent-mishearing-conversation-tips.jpg",
   "local": true
+ },
+ "parent-napping-daytime": {
+  "file": "File:Cozy living room with a gray sofa.jpg",
+  "src": "/img/parent-napping-daytime.webp",
+  "src640": "/img/parent-napping-daytime-sm.webp",
+  "w": 960,
+  "h": 639,
+  "alt": "窓から光が入るリビングのソファとテーブル",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cozy_living_room_with_a_gray_sofa.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cozy_living_room_with_a_gray_sofa.jpg/960px-Cozy_living_room_with_a_gray_sofa.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cozy_living_room_with_a_gray_sofa.jpg/500px-Cozy_living_room_with_a_gray_sofa.jpg",
+  "og": "https://oya.seadice.win/img/parent-napping-daytime-og.jpg",
+  "local": true
  }
 }
