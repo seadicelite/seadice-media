@@ -1361,5 +1361,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cinema_popcorn_bucket.jpg/500px-Cinema_popcorn_bucket.jpg",
   "og": "https://neuro.seadice.win/img/subliminal-advertising.jpg",
   "local": true
+ },
+ "neuroscience-allure": {
+  "file": "File:Job Listings.jpg",
+  "src": "/img/neuroscience-allure.webp",
+  "src640": "/img/neuroscience-allure-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "新聞の上に置かれた虫めがね",
+  "artist": "Flazingo Photos",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Job_Listings.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Job_Listings.jpg/960px-Job_Listings.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Job_Listings.jpg/500px-Job_Listings.jpg",
+  "og": "https://neuro.seadice.win/img/neuroscience-allure-og.jpg",
+  "local": true
  }
 }
