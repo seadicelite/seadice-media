@@ -108,7 +108,8 @@
      "banner-blindness-motion"
     ],
     "myth": [
-     "dark-mode-readability"
+     "dark-mode-readability",
+     "sign-first-honesty"
     ],
     "dark": [
      "cookie-consent-banner"
@@ -215,7 +216,9 @@
      "ad-baby-gaze-model",
      "social-proof-norms",
      "talk-to-right-ear",
-     "mirror-watching-eyes"
+     "mirror-watching-eyes",
+     "money-priming",
+     "red-color-effect"
     ],
     "unknown": [
      "nudge-really-works",
