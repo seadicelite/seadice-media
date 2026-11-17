@@ -138,7 +138,9 @@
       "label": "心と行動の起源",
       "cells": {
         "what": [],
-        "how": [],
+        "how": [
+          "mirror-test"
+        ],
         "myth": [
           "universe-25"
         ],
