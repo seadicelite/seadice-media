@@ -3208,5 +3208,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wedding_couple_holding_hands_closeup.jpg/500px-Wedding_couple_holding_hands_closeup.jpg",
   "og": "https://umbra.seadice.win/img/partner-less-touch-affection-decline-research.jpg",
   "local": true
+ },
+ "rebound-relationship-after-breakup-research": {
+  "file": "File:Bench in Lugano 04.jpg",
+  "src": "/img/rebound-relationship-after-breakup-research.jpg",
+  "src640": "/img/rebound-relationship-after-breakup-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "湖畔の柵の前に置かれた、誰も座っていない赤いベンチ",
+  "artist": "John Samuel",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bench_in_Lugano_04.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bench_in_Lugano_04.jpg/960px-Bench_in_Lugano_04.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bench_in_Lugano_04.jpg/500px-Bench_in_Lugano_04.jpg",
+  "og": "https://umbra.seadice.win/img/rebound-relationship-after-breakup-research.jpg",
+  "local": true,
+  "unconverted": true
  }
 }
