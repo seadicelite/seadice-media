@@ -115,7 +115,9 @@
      "bicycle-theft-unlocked-statistics",
      "bicycle-theft-season-night-location"
     ],
-    "notice": [],
+    "notice": [
+     "bicycle-lock-damaged-attempted-theft"
+    ],
     "after": [
      "bicycle-car-theft-recovery-steps"
     ],
