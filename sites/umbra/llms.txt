@@ -172,7 +172,7 @@
 - [自分に自信がないと、恋愛はうまくいかないのか。自己評価と恋愛の研究と、自信がないときの動き方](https://umbra.seadice.win/low-self-esteem-love-what-to-do-research/): 自己評価が人間関係を左右する力は小さめで、恋人との関係ではさらに弱い。6本の研究から、相手の気持ちを低く見積もるずれと、その確かめ方を整理
 - [付き合いが長くなると、努力は減るのか。「釣った魚に餌をやらない」を研究で確かめる](https://umbra.seadice.win/relationship-effort-decline-duration-research/): 交際の長さ自体が気づかいを減らすと示した研究は見当たらず、理想化や嫉妬、相手の魅力や浮気の心配など別の要因が関わっていた。
 - [恋人・夫婦で「したい気持ち」の差がつらいとき。性欲のずれと関係の研究](https://umbra.seadice.win/sexual-desire-mismatch-couples-research/): 性欲のずれは長い関係でよくあること。93研究のメタ分析では、話す回数より話し合いの質が満足度と強く結びついていた。
-- [プレゼント選びの上手さは、気持ちの大きさを表すのか。贈り物と関係の研究](https://umbra.seadice.win/gift-choosing-skill-love-depth-research/): 選ぶ力は相手全般への関心の高さと結びつき、贈り物の種類より好みを尊重した選び方が感謝と関連していた。
+- [プレゼント選びの上手さは、気持ちの大きさを表すのか。贈り物と関係の研究](https://umbra.seadice.win/gift-choosing-skill-love-depth-research/): 選ぶ力の男女差は人への関心の高さで一部説明され、体験の贈り物は「自分らしくいられる」感覚を通じて感謝と結びついていた。気持ちの深さそのものは測られていない。
 - [友人への惚気話が多いかどうかで、関係の深さはわかるのか。自己開示と満足度の研究](https://umbra.seadice.win/partner-bragging-to-friends-relationship-depth-research/): 惚気話の量より、嬉しい話にどれだけ積極的に応えてもらえたかのほうが満足度と関わっていた。
 
 #### 喧嘩と浮気
@@ -243,7 +243,7 @@
 - [好きな人へのLINE、自分からどう送ればいい？質問・自己開示・返信の間隔の研究](https://umbra.seadice.win/texting-crush-responsiveness-research/): 好きな人へのLINEは、返信の速さや駆け引きより、相手の話を受けた質問と少しずつの自己開示が好感と結びついていました。
 - [恋人がSNSに載せてくれないのは本気じゃないから？「載せる・載せない」の研究と話し合い方](https://umbra.seadice.win/partner-not-posting-relationship-sns-research/): 関係を公開する人ほど気持ちが強い傾向はあるが差は小さい。載せない理由には愛着の傾向もあり、意味のすり合わせが先。
 - [恋人とスマホ・SNSのことで喧嘩が増えたら？「ながらスマホ」のすれ違いを立て直す研究](https://umbra.seadice.win/partner-phubbing-sns-conflict-repair-research/): ながらスマホは満足度の低さや衝突と関係する。やり返さず、寂しさを一文で伝え、置く時間を二人で決めるのが出発点。
-- [恋人とのLINE、毎日したほうがいい？頻度が合わないときの研究](https://umbra.seadice.win/couple-texting-frequency-mismatch-research/): 647人の調査で、近くに住むカップルではLINEの回数は満足度と有意に結びつかず、電話の回数のほうが関連していた。
+- [恋人とのLINE、毎日したほうがいい？頻度が合わないときの研究](https://umbra.seadice.win/couple-texting-frequency-mismatch-research/): カナダの大学生647人の調査で、近くに住むカップルでは文字のやりとりの回数は満足度と有意に結びつかず、電話の回数のほうが関連していた。
 
 #### 好意の裏返し・駆け引き
 
