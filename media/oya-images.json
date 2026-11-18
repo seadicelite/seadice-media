@@ -1243,5 +1243,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cozy_living_room_with_a_gray_sofa.jpg/500px-Cozy_living_room_with_a_gray_sofa.jpg",
   "og": "https://oya.seadice.win/img/parent-napping-daytime-og.jpg",
   "local": true
+ },
+ "parent-driving-with-passenger": {
+  "file": "File:ZAZ-1103 Slavuta front seats and dashboard interior view.jpg",
+  "src": "/img/parent-driving-with-passenger.webp",
+  "src640": "/img/parent-driving-with-passenger-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "開いたドアから見た車の助手席と運転席",
+  "artist": "Natalka Ukraine",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:ZAZ-1103_Slavuta_front_seats_and_dashboard_interior_view.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZAZ-1103_Slavuta_front_seats_and_dashboard_interior_view.jpg/960px-ZAZ-1103_Slavuta_front_seats_and_dashboard_interior_view.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZAZ-1103_Slavuta_front_seats_and_dashboard_interior_view.jpg/500px-ZAZ-1103_Slavuta_front_seats_and_dashboard_interior_view.jpg",
+  "og": "https://oya.seadice.win/img/parent-driving-with-passenger-og.jpg",
+  "local": true
  }
 }
