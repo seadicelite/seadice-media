@@ -1075,8 +1075,8 @@
  },
  "occams-razor": {
   "file": "File:Loading blades straight razor closeup (38324702215).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Loading_blades_straight_razor_closeup_%2838324702215%29.jpg/960px-Loading_blades_straight_razor_closeup_%2838324702215%29.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Loading_blades_straight_razor_closeup_%2838324702215%29.jpg/500px-Loading_blades_straight_razor_closeup_%2838324702215%29.jpg",
+  "src": "/img/occams-razor.jpg",
+  "src640": "/img/occams-razor-sm.jpg",
   "w": 960,
   "h": 640,
   "alt": "柄のついた直剃刀",
@@ -1084,6 +1084,29 @@
   "license": "CC BY 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Loading_blades_straight_razor_closeup_(38324702215).jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Loading_blades_straight_razor_closeup_%2838324702215%29.jpg/960px-Loading_blades_straight_razor_closeup_%2838324702215%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Loading_blades_straight_razor_closeup_%2838324702215%29.jpg/500px-Loading_blades_straight_razor_closeup_%2838324702215%29.jpg",
+  "og": "https://tetsugaku.seadice.win/img/occams-razor.jpg",
+  "local": true
+ },
+ "berkeley-esse-est-percipi": {
+  "file": "File:John Smibert - The Bermuda Group (Dean Berkeley and His Entourage) - 1808.1 - Yale University Art Gallery.jpg",
+  "src": "/img/berkeley-esse-est-percipi.jpg",
+  "src640": "/img/berkeley-esse-est-percipi-sm.jpg",
+  "w": 960,
+  "h": 716,
+  "alt": "スミバート画「バミューダ・グループ」（バークリーと同行者たちの集団肖像画）",
+  "artist": "John Smibert",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:John_Smibert_-_The_Bermuda_Group_(Dean_Berkeley_and_His_Entourage)_-_1808.1_-_Yale_University_Art_Gallery.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/John_Smibert_-_The_Bermuda_Group_%28Dean_Berkeley_and_His_Entourage%29_-_1808.1_-_Yale_University_Art_Gallery.jpg/960px-John_Smibert_-_The_Bermuda_Group_%28Dean_Berkeley_and_His_Entourage%29_-_1808.1_-_Yale_University_Art_Gallery.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/John_Smibert_-_The_Bermuda_Group_%28Dean_Berkeley_and_His_Entourage%29_-_1808.1_-_Yale_University_Art_Gallery.jpg/500px-John_Smibert_-_The_Bermuda_Group_%28Dean_Berkeley_and_His_Entourage%29_-_1808.1_-_Yale_University_Art_Gallery.jpg",
+  "og": "https://tetsugaku.seadice.win/img/berkeley-esse-est-percipi.jpg",
+  "local": true
  }
 }
