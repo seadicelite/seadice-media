@@ -81,6 +81,15 @@
   ]
  },
  {
+  "id": "kannenron",
+  "term": "観念論",
+  "en": "Idealism",
+  "def": "現実はすべて心的なものだとする立場です。バークリーは、机やリンゴのような物は知覚される観念の集まりであり、心の外に独立した物質があるわけではないと主張しました。",
+  "slugs": [
+   "berkeley-esse-est-percipi"
+  ]
+ },
+ {
   "id": "kigai-genri",
   "term": "危害原理",
   "en": "Harm principle",
