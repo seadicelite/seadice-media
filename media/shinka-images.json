@@ -491,5 +491,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Italian_wall_lizard_%28Podarcis_siculus_siculus%29.jpg/500px-Italian_wall_lizard_%28Podarcis_siculus_siculus%29.jpg",
   "og": "https://shinka.seadice.win/img/island-lizard-gut-og.jpg",
   "local": true
+ },
+ "laughter-origin": {
+  "file": "File:Bonobo (Pan paniscus) at Lola Ya Bonobo - 3.JPG",
+  "src": "/img/laughter-origin.jpg",
+  "src640": "/img/laughter-origin-sm.jpg",
+  "w": 960,
+  "h": 742,
+  "alt": "おとなのボノボと、その手にふれる子どものボノボ（ボノボの保護施設ローラ・ヤ・ボノボで撮影）",
+  "artist": "Christina Bergey",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bonobo_(Pan_paniscus)_at_Lola_Ya_Bonobo_-_3.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bonobo_%28Pan_paniscus%29_at_Lola_Ya_Bonobo_-_3.JPG/960px-Bonobo_%28Pan_paniscus%29_at_Lola_Ya_Bonobo_-_3.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bonobo_%28Pan_paniscus%29_at_Lola_Ya_Bonobo_-_3.JPG/960px-Bonobo_%28Pan_paniscus%29_at_Lola_Ya_Bonobo_-_3.JPG",
+  "og": "https://shinka.seadice.win/img/laughter-origin.jpg",
+  "local": true
  }
 }
