@@ -138,7 +138,9 @@
       "label": "心と行動の起源",
       "cells": {
         "what": [],
-        "how": [],
+        "how": [
+          "laughter-origin"
+        ],
         "myth": [
           "universe-25"
         ],
