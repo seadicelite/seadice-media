@@ -3254,5 +3254,18 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Door_open%3B_empty_bed_with_pillow_and_side_pillow_03.jpg/500px-Door_open%3B_empty_bed_with_pillow_and_side_pillow_03.jpg",
   "og": "https://umbra.seadice.win/img/partner-scent-stress-sleep-research-og.jpg",
   "local": true
+ },
+ "stonewalling-silent-treatment-warning-signs-research": {
+  "file": "File:Stone wall texture .JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stone_wall_texture_.JPG/960px-Stone_wall_texture_.JPG",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stone_wall_texture_.JPG/500px-Stone_wall_texture_.JPG",
+  "w": 960,
+  "h": 720,
+  "alt": "Stone wall textures",
+  "artist": "Eugenio Hansen, OFS",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Stone_wall_texture_.JPG",
+  "source_label": "Wikimedia Commons"
  }
 }
