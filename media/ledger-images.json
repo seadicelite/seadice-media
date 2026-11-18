@@ -2202,5 +2202,22 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Catalogue_number_56_from_Malmesbury_Hoard_(FindID_521848).jpg",
   "source_label": "Wikimedia Commons"
+ },
+ "purchase-letdown-reflection-steps": {
+  "file": "File:Augustus Leopold Egg - The Travelling Companions - Google Art Project.jpg",
+  "src": "/img/happy-spending-pre-purchase-checklist.webp",
+  "src640": "/img/happy-spending-pre-purchase-checklist-sm.webp",
+  "w": 960,
+  "h": 797,
+  "alt": "列車の客室で旅をする2人を描いた19世紀の絵画",
+  "artist": "Augustus Egg",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Augustus_Leopold_Egg_-_The_Travelling_Companions_-_Google_Art_Project.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augustus_Leopold_Egg_-_The_Travelling_Companions_-_Google_Art_Project.jpg/960px-Augustus_Leopold_Egg_-_The_Travelling_Companions_-_Google_Art_Project.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augustus_Leopold_Egg_-_The_Travelling_Companions_-_Google_Art_Project.jpg/500px-Augustus_Leopold_Egg_-_The_Travelling_Companions_-_Google_Art_Project.jpg",
+  "og": "https://ledger.seadice.win/img/happy-spending-pre-purchase-checklist-og.jpg",
+  "local": true
  }
 }
