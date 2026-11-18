@@ -242,6 +242,7 @@
 
 #### LINE・SNSの心理
 
+- [返信を待つ間、体はストレス反応を起こしている？ 既読無視・ゴースティングを調べた研究](https://umbra.seadice.win/waiting-reply-ghosting-stress-response-research/): 返信を7分待たせると発汗が上がる実験と、2時間限定のゴースティングは睡眠に差がなかったRCT。無視の種類ごとの心理的な影響も確認。
 - [既読からの返信スピードは好意のサインか、研究でわかっていること](https://umbra.seadice.win/line-reply-speed-research/): 返信の速さと好意の関係を検証。じらしの効果と、既読を確かめたくなる心理を研究で整理。
 - [既読・未読への不安はどこから来るのか。恋愛と嫉妬の心理の研究](https://umbra.seadice.win/reply-anxiety-attachment-jealousy-research/): 愛着スタイルとオンライン嫉妬に関する調査から、返信への不安の理由と、わざと返信を遅らせる駆け引きの実態を確認した。
 - [敬語がタメ口に、LINEの文体が似てくるのは脈ありサインか。言葉づかいの一致の研究](https://umbra.seadice.win/language-style-matching-line-keigo-research/): 言葉づかいの一致は好意と関係するが、ケンカ中にも高まり効果はごく小さい
