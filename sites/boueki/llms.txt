@@ -1,0 +1,97 @@
+# ゼロから学ぶ貿易実務
+
+> ゼロから学ぶ貿易実務は、貿易の仕事を無料で学べる学習サイトです。貿易実務検定C級の範囲をカバーする全14章の無料講座、貿易用語辞典、確認問題と模擬試験を掲載。登録不要。
+
+ゼロから学ぶ貿易実務はSEADICE(https://seadice.win/)が運営する、貿易実務を無料で学べる学習サイトです。登録不要・無料。
+貿易実務検定C級の範囲をカバーする無料講座「ゼロから学ぶ貿易実務入門」（全14章）と、貿易用語辞典（112語）を掲載しています。
+本文は税関・ジェトロ・ICCなどの一次情報をもとに日本語で独自に書いており、各ページに出典があります。
+
+## 主要ページ
+
+- トップ: https://boueki.seadice.win/
+- 無料講座「ゼロから学ぶ貿易実務入門」: https://boueki.seadice.win/course/
+- 貿易用語辞典: https://boueki.seadice.win/glossary/
+- このサイトについて: https://boueki.seadice.win/about/
+- 出典と検証の方法: https://boueki.seadice.win/sources/
+
+## 講座の目次
+
+- 第1章 貿易とは何か: 貿易の全体像と登場人物、輸出入の流れ。
+  - 1-1 貿易とは何か。国内取引と何が違うのか: https://boueki.seadice.win/course/what-is-trade/
+  - 1-2 貿易の登場人物。誰が何をするのか: https://boueki.seadice.win/course/trade-parties/
+  - 1-3 輸出はどんな順番で進むのか。契約から代金回収まで: https://boueki.seadice.win/course/export-flow-overview/
+  - 1-4 輸入の流れを全体で見る。発注から国内引き取りまで: https://boueki.seadice.win/course/import-flow-overview/
+  - 1-5 数字で見る日本の貿易。主な輸出入品と相手国: https://boueki.seadice.win/course/japan-trade-in-numbers/
+- 第2章 貿易のルールと法律: 外為法・輸出入規制・国際ルール。
+  - 2-1 外為法とは。輸出入を規制するしくみ: https://boueki.seadice.win/course/foreign-exchange-and-trade-act/
+  - 2-2 安全保障貿易管理。リスト規制とキャッチオール規制: https://boueki.seadice.win/course/security-export-control/
+  - 2-3 WTOとEPA・FTA。関税が下がるしくみ: https://boueki.seadice.win/course/wto-epa-fta/
+  - 2-4 ウィーン売買条約。国際売買契約の共通ルール: https://boueki.seadice.win/course/vienna-sales-convention-cisg/
+- 第3章 取引先探しと売買契約: 引合いから契約成立までと契約書の中身。
+  - 3-1 取引先の探し方と信用調査。契約の前に相手を確かめる: https://boueki.seadice.win/course/finding-partners-and-credit-check/
+  - 3-2 引合い・オファー・カウンターオファー。契約が成立するまで: https://boueki.seadice.win/course/inquiry-offer-counter-offer/
+  - 3-3 売買契約書に書くこと。品質・数量・価格・納期・決済: https://boueki.seadice.win/course/sales-contract-basic-terms/
+  - 3-4 一般取引条件（裏面約款）と不可抗力条項: https://boueki.seadice.win/course/general-terms-and-force-majeure/
+- 第4章 インコタームズ2020: 費用と危険の分かれ目を決める11の取引条件。
+  - 4-1 インコタームズとは。費用と危険の移転点: https://boueki.seadice.win/course/what-are-incoterms/
+  - 4-2 FOB・CFR・CIF。船を使う取引条件: https://boueki.seadice.win/course/fob-cfr-cif-sea-rules/
+  - 4-3 EXW・FCA・CPT・CIP。あらゆる輸送手段に使える条件: https://boueki.seadice.win/course/exw-fca-cpt-cip/
+  - 4-4 DAP・DPU・DDP。仕向地で引き渡す条件: https://boueki.seadice.win/course/dap-dpu-ddp-delivered-rules/
+  - 4-5 取引条件の選び方とよくある誤解: https://boueki.seadice.win/course/choosing-incoterms-and-common-mistakes/
+- 第5章 代金決済と貿易金融: 送金・取立・信用状の違いと流れ。
+  - 5-1 決済方法の比較。送金・荷為替手形・信用状: https://boueki.seadice.win/course/comparing-payment-methods/
+  - 5-2 信用状（L/C）のしくみと当事者: https://boueki.seadice.win/course/letter-of-credit-parties/
+  - 5-3 信用状取引の流れとディスクレパンシー: https://boueki.seadice.win/course/lc-flow-and-discrepancies/
+  - 5-4 D/P・D/A。信用状なしの荷為替手形決済: https://boueki.seadice.win/course/documentary-collection-dp-da/
+  - 5-5 貿易金融。輸出前貸し・手形買取・輸入ユーザンス: https://boueki.seadice.win/course/trade-finance-export-advance-import-usance/
+- 第6章 外国為替: 為替相場の読み方と為替リスク対策。
+  - 6-1 外国為替相場の読み方。TTS・TTB・仲値: https://boueki.seadice.win/course/reading-exchange-rates-tts-ttb/
+  - 6-2 為替リスクとは。円高・円安が貿易に与える影響: https://boueki.seadice.win/course/exchange-rate-risk-strong-weak-yen/
+  - 6-3 為替予約で為替リスクを避ける。先物相場と使い方: https://boueki.seadice.win/course/forward-exchange-contract/
+- 第7章 海上輸送: コンテナ輸送と船荷証券。
+  - 7-1 定期船と不定期船、コンテナ船のしくみ: https://boueki.seadice.win/course/liner-tramp-and-container-ships/
+  - 7-2 FCLとLCL。コンテナ貨物の流れ（CY・CFS）: https://boueki.seadice.win/course/fcl-lcl-cy-cfs-container-flow/
+  - 7-3 船荷証券（B/L）とは。有価証券としての性質: https://boueki.seadice.win/course/bill-of-lading-negotiable-document/
+  - 7-4 海上運賃とサーチャージ。基本運賃と割増料金のしくみ: https://boueki.seadice.win/course/ocean-freight-and-surcharges/
+- 第8章 航空輸送と複合輸送: 航空貨物とフォワーダーの役割。
+  - 8-1 航空貨物の流れと航空運賃。混載と容積重量のしくみ: https://boueki.seadice.win/course/air-cargo-flow-and-air-freight/
+  - 8-2 航空運送状（Air Waybill）とは。B/Lとの違い: https://boueki.seadice.win/course/air-waybill-vs-bill-of-lading/
+  - 8-3 国際複合輸送とフォワーダー。船・鉄道・航空を1つの契約で: https://boueki.seadice.win/course/multimodal-transport-and-forwarders/
+- 第9章 貨物保険と貿易保険: 貨物の損害と取引リスクへの備え。
+  - 9-1 貨物海上保険の基礎。誰がいつ掛けるのか: https://boueki.seadice.win/course/marine-cargo-insurance-basics/
+  - 9-2 協会貨物約款（ICC）A・B・Cの違い: https://boueki.seadice.win/course/institute-cargo-clauses-a-b-c/
+  - 9-3 保険金額と保険の申込み。予定保険と確定保険: https://boueki.seadice.win/course/insured-amount-and-insurance-application/
+  - 9-4 貿易保険（NEXI）とは。代金回収不能リスクへの備え: https://boueki.seadice.win/course/trade-insurance-nexi/
+  - 9-5 PL保険。輸出製品の事故への備え: https://boueki.seadice.win/course/product-liability-insurance-for-exports/
+- 第10章 通関と関税: 輸出入申告の流れと関税のしくみ。
+  - 10-1 輸出通関の流れ。申告から審査、許可、船積みまで: https://boueki.seadice.win/course/export-customs-clearance-flow/
+  - 10-2 輸入通関の流れと関税・消費税の計算: https://boueki.seadice.win/course/import-customs-duty-and-consumption-tax/
+  - 10-3 HSコードと関税率表の読み方。品目番号から税率を調べる: https://boueki.seadice.win/course/hs-code-and-tariff-schedule/
+  - 10-4 原産地規則と原産地証明書。原産品の基準と証明方法: https://boueki.seadice.win/course/rules-of-origin-and-certificates/
+  - 10-5 保税地域とAEO制度。外国貨物を置く場所と通関の優遇: https://boueki.seadice.win/course/bonded-areas-and-aeo/
+- 第11章 貿易書類: 船積書類の種類と役割。
+  - 11-1 インボイスとパッキングリスト。役割と記載事項: https://boueki.seadice.win/course/commercial-invoice-and-packing-list/
+  - 11-2 船積書類一式。銀行に出す書類と確認ポイント: https://boueki.seadice.win/course/shipping-documents-for-banks/
+  - 11-3 貿易手続きの電子化。NACCSとe-B/L: https://boueki.seadice.win/course/naccs-and-electronic-bill-of-lading/
+- 第12章 クレームとトラブル対応: クレームの種類と紛争の解決方法。
+  - 12-1 貿易クレーム・運送クレーム・保険クレームの違い: https://boueki.seadice.win/course/trade-transport-insurance-claims/
+  - 12-2 紛争の解決方法。和解・調停・仲裁: https://boueki.seadice.win/course/dispute-resolution-settlement-mediation-arbitration/
+- 第13章 貿易実務英語: 商業英単語と英文の読み方。
+  - 13-1 必ず出る商業英単語・略語。L/C・B/L・ETAを読む: https://boueki.seadice.win/course/trade-english-key-words-and-abbreviations/
+  - 13-2 英文の売買契約書を読む。構成とshall・mayの意味: https://boueki.seadice.win/course/reading-english-sales-contracts/
+  - 13-3 英文の信用状を読む。MT700の項目と定番フレーズ: https://boueki.seadice.win/course/reading-english-letter-of-credit/
+  - 13-4 取引のやりとり（コレスポンデンス）の定型表現: https://boueki.seadice.win/course/trade-correspondence-phrases/
+- 第14章 総まとめと模擬試験: 全範囲の復習と、間違えやすいポイントの整理。最後に模擬試験に挑戦します。
+  - 14-1 貿易の流れを書類と一緒にもう一度たどる: https://boueki.seadice.win/course/review-export-flow-with-documents/
+  - 14-2 間違えやすいポイントまとめ。似た用語と数字を整理する: https://boueki.seadice.win/course/commonly-confused-points-review/
+
+## SEADICE STUDYの他の講座
+
+- ゼロから学ぶ心理学: https://shinri.seadice.win/
+- ゼロから学ぶ犯罪学: https://hanzaigaku.seadice.win/
+- ゼロから学ぶ保育士: https://hoikushi.seadice.win/
+- ゼロから学ぶ介護福祉士: https://kaigofukushi.seadice.win/
+
+## 運営
+
+- SEADICE: https://seadice.win/

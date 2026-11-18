@@ -1,0 +1,16 @@
+{
+  "name": "勉強の記録シート｜独学の科学",
+  "short_name": "勉強の記録",
+  "description": "1日1行で勉強の記録をつける。記録はこの端末の中だけに保存されます。",
+  "lang": "ja",
+  "start_url": "/study-log/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0B1020",
+  "theme_color": "#0B1020",
+  "icons": [
+    {"src": "/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

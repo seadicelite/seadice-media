@@ -1,0 +1,319 @@
+[
+  {
+    "id": "testing-effect",
+    "term": "テスト効果",
+    "en": "Testing effect",
+    "def": "本を閉じて思い出す練習をすると、読み返すよりも長く覚えていられる現象。答え合わせをすると効果はさらに大きくなります。",
+    "slugs": [
+      "retrieval-practice-vs-rereading",
+      "flashcards-how-to-use"
+    ]
+  },
+  {
+    "id": "spacing",
+    "term": "分散学習",
+    "en": "Spaced practice",
+    "def": "同じ時間をかけるなら、一度にまとめるより日をあけて復習した方が忘れにくいという現象。ちょうどよい間隔は、使う日までの長さで変わります。",
+    "slugs": [
+      "spaced-review-why-it-works"
+    ]
+  },
+  {
+    "id": "interleaving",
+    "term": "交互練習（インターリービング）",
+    "en": "Interleaving",
+    "def": "種類の違う問題を混ぜて練習すること。数学の問題や絵の見分けでは効果がありましたが、単語の暗記ではまとめて練習した方がよい結果でした。",
+    "slugs": [
+      "interleaving-mixed-practice"
+    ]
+  },
+  {
+    "id": "fluency-illusion",
+    "term": "流暢性の錯覚（わかったつもり）",
+    "en": "Illusion of fluency",
+    "def": "すらすら読める手ごたえを「覚えた」と取り違える錯覚。読み返しを好む学生が多い理由の1つと考えられています。",
+    "slugs": [
+      "illusion-of-knowing-fluency"
+    ]
+  },
+  {
+    "id": "self-explanation",
+    "term": "自己説明",
+    "en": "Self-explanation",
+    "def": "学んだ内容を自分の言葉で説明すること。上手な説明を読むより学びが大きいことが、メタ分析で示されています。",
+    "slugs": [
+      "self-explanation-vs-ai-explanation"
+    ]
+  },
+  {
+    "id": "generation-effect",
+    "term": "生成効果",
+    "en": "Generation effect",
+    "def": "答えを読むより、自分で答えを作り出した方が覚えやすいという現象。多くの研究をまとめた分析でも確認されています。",
+    "slugs": [
+      "self-explanation-vs-ai-explanation"
+    ]
+  },
+  {
+    "id": "protege-effect",
+    "term": "教える効果（プロテジェ効果）",
+    "en": "Learning by teaching",
+    "def": "人に教えるつもりで学んだり、実際に教えたりすると理解や記憶が深まる現象。何も見ずに説明すると効果が残りやすくなります。",
+    "slugs": [
+      "learning-by-teaching-protege-effect"
+    ]
+  },
+  {
+    "id": "implementation-intention",
+    "term": "実行意図（if-thenプラン）",
+    "en": "Implementation intention",
+    "def": "「もし〇〇したら△△する」と、行動のきっかけと中身を前もって決めておくこと。目標の達成に中〜大の効果が報告されています。",
+    "slugs": [
+      "implementation-intentions-if-then-study"
+    ]
+  },
+  {
+    "id": "planning-fallacy",
+    "term": "計画錯誤",
+    "en": "Planning fallacy",
+    "def": "作業にかかる時間を、過去の経験よりも短く見積もってしまう傾向。過去の実績を基準にすると見積もりが現実に近づきます。",
+    "slugs": [
+      "planning-fallacy-study-plans"
+    ]
+  },
+  {
+    "id": "learning-styles",
+    "term": "学習スタイル説",
+    "en": "Learning styles",
+    "def": "人には視覚型・聴覚型などの「型」があり、型に合わせて学ぶと成績が上がるという説。合わせることで成績が上がる証拠はほぼありません。",
+    "slugs": [
+      "learning-styles-visual-learner-myth"
+    ]
+  },
+  {
+    "id": "undermining",
+    "term": "アンダーマイニング効果",
+    "en": "Undermining effect",
+    "def": "もともと好きで取り組んでいたことに、約束した物のご褒美を与えると、かえって興味が下がりやすくなる現象。ほめ言葉では逆に興味が高まります。",
+    "slugs": [
+      "rewards-undermining-study-motivation"
+    ]
+  },
+  {
+    "id": "growth-mindset",
+    "term": "成長マインドセット",
+    "en": "Growth mindset",
+    "def": "能力は努力や工夫で伸ばせるという考え方。考え方を変える介入の効果は、平均するとごく小さいことがわかっています。",
+    "slugs": [
+      "growth-mindset-praise-effort"
+    ]
+  },
+  {
+    "id": "ego-depletion",
+    "term": "自我消耗",
+    "en": "Ego depletion",
+    "def": "意志の力は使うと減るという説。大規模な追試では効果がほぼゼロで、再現されませんでした。",
+    "slugs": [
+      "willpower-self-control-study-environment"
+    ]
+  },
+  {
+    "id": "test-anxiety",
+    "term": "試験不安",
+    "en": "Test anxiety",
+    "def": "試験への強い不安。不安が注意を奪い、頭が真っ白になる一因になると考えられています。試験の成績とは小〜中程度の関連があります。",
+    "slugs": [
+      "test-anxiety-expressive-writing"
+    ]
+  },
+  {
+    "id": "context-dependent-memory",
+    "term": "文脈依存記憶",
+    "en": "Context-dependent memory",
+    "def": "覚えたときと同じ場所や状況で思い出すと、思い出しやすくなる現象。効果は実在しますが小さめで、その場所を思い浮かべるだけでも差は縮みます。",
+    "slugs": [
+      "study-location-context-dependent-memory"
+    ]
+  },
+  {
+    "id": "chronotype",
+    "term": "クロノタイプ（朝型・夜型）",
+    "en": "Chronotype",
+    "def": "人それぞれの体内時計の型。得意な時間帯に成績が上がった研究がある一方、大人数で調べた研究ではその効果はほとんど見られませんでした。",
+    "slugs": [
+      "chronotype-best-time-to-study"
+    ]
+  },
+  {
+    "id": "goal-setting-theory",
+    "term": "目標設定理論",
+    "en": "Goal-setting theory",
+    "def": "具体的で難しい目標を持つと、努力と成果が高まるという考え方。新しく複雑な課題では、成果の目標より「学ぶ目標」の方が向くとされます。",
+    "slugs": [
+      "goal-setting-high-or-small-steps"
+    ]
+  },
+  {
+    "id": "social-inhibition",
+    "term": "社会的抑制",
+    "en": "Social inhibition",
+    "def": "人の目があると、慣れない難しい課題の出来がかえって下がる現象。一方で、「一緒にやっている」感覚は粘り強さを高めることもあります。",
+    "slugs": [
+      "study-buddy-learning-together"
+    ]
+  },
+  {
+    "id": "production-effect",
+    "term": "音読効果（プロダクション効果）",
+    "en": "Production effect",
+    "def": "声に出して読んだ言葉が、黙読した言葉より覚えやすくなる現象。一部だけを声に出したときに効果がはっきり出て、全部を音読すると差は小さくなります。",
+    "slugs": [
+      "reading-aloud-production-effect"
+    ]
+  },
+  {
+    "id": "concept-map",
+    "term": "コンセプトマップ",
+    "en": "Concept map",
+    "def": "大事な概念を枝分かれの図でつなぎ、線の上に「〜を含む」などの言葉で関係を書く図。中心から放射状に広げ、線に名前をつけないマインドマップとは別のものです。",
+    "slugs": [
+      "mind-map-concept-map-study"
+    ]
+  },
+  {
+    "id": "effect-size",
+    "term": "効果量",
+    "en": "Effect size",
+    "def": "2つのやり方の差がどのくらい大きいかを表す目安。gやdで表し、0.2で小さい、0.5で中程度、0.8で大きいとされます。",
+    "slugs": [
+      "language-learning-apps-speaking",
+      "productive-failure-struggle-first"
+    ]
+  },
+  {
+    "id": "hypercorrection",
+    "term": "過剰修正効果",
+    "en": "Hypercorrection effect",
+    "def": "自信を持って答えたのに間違えた問題ほど、正しい答えを見たあとに直りやすい現象。ただし1週間ほどたつと、同じ間違いに戻ることもあります。",
+    "slugs": [
+      "failed-exam-review-mistakes"
+    ]
+  },
+  {
+    "id": "fresh-start",
+    "term": "フレッシュスタート効果",
+    "en": "Fresh start effect",
+    "def": "新しい週・月・年の始まりなどの区切りの後に、目標に取りかかる人が増える現象。始める気持ちは高まりますが、行動が続くかは別の問題です。",
+    "slugs": [
+      "restart-study-after-break"
+    ]
+  },
+  {
+    "id": "sleep-inertia",
+    "term": "睡眠慣性",
+    "en": "Sleep inertia",
+    "def": "目覚めた直後に、頭がぼんやりして反応や判断が鈍る状態。長く深く眠った後ほど起きやすく、30分ほどで戻ったという実験があります。",
+    "slugs": [
+      "nap-for-study-memory"
+    ]
+  },
+  {
+    "id": "savings",
+    "term": "節約効果（セービング）",
+    "en": "Savings",
+    "def": "一度覚えたことを忘れた後に覚え直すと、最初に覚えたときより少ない回数や時間で済む現象。思い出せなくても、記憶が一部残っていることを示します。",
+    "slugs": [
+      "forgot-what-i-studied-relearning"
+    ]
+  },
+  {
+    "id": "worked-example-effect",
+    "term": "例題効果",
+    "en": "Worked example effect",
+    "def": "解き方の手本（例題）を読んで学ぶ方が、初めての問題をいきなり解くより身につきやすい現象。初めて学ぶ人で大きく、慣れた人では薄れると考えられています。",
+    "slugs": [
+      "worked-examples-how-to-study"
+    ]
+  },
+  {
+    "id": "fading",
+    "term": "フェーディング",
+    "en": "Fading",
+    "def": "例題の手順を少しずつ隠し、自分で埋める部分を増やしていく学び方。例題から自力で解く段階へ、なめらかに移るための方法です。",
+    "slugs": [
+      "worked-examples-how-to-study"
+    ]
+  },
+  {
+    "id": "resumption-lag",
+    "term": "再開の遅れ（レジャンプション・ラグ）",
+    "en": "Resumption lag",
+    "def": "中断された作業に戻ったとき、元の流れを取り戻すまでにかかる時間。中断が長く、頭を使うものほど長くなりました。",
+    "slugs": [
+      "refocus-after-phone-distraction"
+    ]
+  },
+  {
+    "id": "mind-wandering",
+    "term": "マインドワンダリング",
+    "en": "Mind wandering",
+    "def": "目の前の作業から注意がそれ、関係のないことを考えている状態。読書中に起きると、字は追っていても内容が頭に入りにくくなります。気づかないまま続く状態はゾーンアウトと呼ばれます。",
+    "slugs": [
+      "mind-wandering-while-reading"
+    ]
+  },
+  {
+    "id": "attention-restoration",
+    "term": "注意回復理論",
+    "en": "Attention Restoration Theory",
+    "def": "自分の意思で向ける注意は使うと疲れ、木や水のようにほどよく目を引く自然の中で回復するという考え方。実験では効果が小さく、再現しないこともあります。",
+    "slugs": [
+      "nature-break-restore-focus"
+    ]
+  },
+  {
+    "id": "drawing-effect",
+    "term": "描画効果",
+    "en": "Drawing effect",
+    "def": "覚えたい単語や用語の意味を絵に描くと、書き写すより後でよく思い出せる現象。自分で言い換えた場合とは同じくらいで、意味を考えて形を変えることが効いていると考えられています。",
+    "slugs": [
+      "draw-to-remember-study"
+    ]
+  },
+  {
+    "id": "productive-vocabulary",
+    "term": "使える語彙（産出語彙）",
+    "en": "Productive vocabulary",
+    "def": "自分で話したり書いたりするときに取り出せる単語の知識。見たり聞いたりして意味がわかる単語（受容語彙）より少なく、育つのも遅いとされます。",
+    "slugs": [
+      "vocab-recognize-but-cannot-produce"
+    ]
+  },
+  {
+    "id": "region-of-proximal-learning",
+    "term": "近接学習領域",
+    "en": "Region of proximal learning",
+    "def": "まだ覚えていないが、もう少しでわかる範囲のこと。時間が限られるとき、この範囲に勉強時間を使う方が成績につながったという研究があります。",
+    "slugs": [
+      "exam-close-not-enough-time"
+    ]
+  },
+  {
+    "id": "intention-behavior-gap",
+    "term": "意図と行動のギャップ",
+    "en": "Intention-behavior gap",
+    "def": "「やろう」と思ったことが、実際の行動にならないずれ。運動の研究では、やろうと思っていた人のおよそ半分が実行できていませんでした。",
+    "slugs": [
+      "why-intend-to-study-but-dont"
+    ]
+  },
+  {
+    "id": "einstellung-effect",
+    "term": "構え効果（アインシュテルング効果）",
+    "en": "Einstellung effect",
+    "def": "慣れた解き方が先に浮かぶと、もっと良い方法が見えにくくなる現象。チェスの熟練者でも、見慣れた手がある問題では成績が大きく下がりました。",
+    "slugs": [
+      "why-old-habits-block-new-methods-relearning"
+    ]
+  }
+]

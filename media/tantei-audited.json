@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "email-password-leak-check",
+    "date": "2026-10-04"
+  },
+  {
+    "slug": "ai-voice-family-call-check",
+    "date": "2026-10-04"
+  },
+  {
+    "slug": "fake-online-shop-check",
+    "date": "2026-10-04"
+  },
+  {
+    "slug": "celebrity-investment-ad-scam-check",
+    "date": "2026-10-04"
+  },
+  {
+    "slug": "delivery-sms-smishing-check",
+    "date": "2026-10-04"
+  },
+  {
+    "slug": "photo-location-data-check",
+    "date": "2026-10-04"
+  },
+  {
+    "slug": "deepfake-video-human-detection",
+    "date": "2026-10-04"
+  },
+  {
+    "slug": "ai-answer-fact-check",
+    "date": "2026-11-16"
+  },
+  {
+    "slug": "self-name-search-check",
+    "date": "2026-11-16"
+  },
+  {
+    "slug": "reverse-image-search-check",
+    "date": "2026-11-16"
+  }
+]

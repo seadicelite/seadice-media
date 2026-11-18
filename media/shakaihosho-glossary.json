@@ -1,0 +1,2234 @@
+[
+ {
+  "id": "social-security",
+  "term": "社会保障",
+  "en": "Social security",
+  "field": "基本",
+  "def": "社会保障とは、病気やけが、失業、老い、障害、生活の困窮など暮らしを脅かすできごとに備え、社会保険・社会福祉・公的扶助・保健医療・公衆衛生のしくみで、人々の生活を生涯にわたって支える制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「社会保障制度とは」（資料）",
+    "url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "social-insurance",
+  "term": "社会保険",
+  "en": "Social insurance",
+  "field": "基本",
+  "def": "社会保険とは、病気、けが、出産、死亡、老齢、障害、失業などのできごとに遭ったときに一定の給付を行い、生活の安定を図ることを目的とした強制加入の保険制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「社会保障制度とは」（資料）",
+    "url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "social-welfare",
+  "term": "社会福祉",
+  "en": "Social welfare",
+  "field": "基本",
+  "def": "社会福祉とは、障害のある人やひとり親家庭など、社会生活を送るうえでさまざまなハンディキャップを負っている人が安心して暮らせるよう、公的な支援を行う制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「社会保障制度とは」（資料）",
+    "url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "public-assistance",
+  "term": "公的扶助",
+  "en": "Public assistance",
+  "field": "基本",
+  "def": "公的扶助とは、生活保護制度に代表される、生活に困窮する人に最低限度の生活を保障し、自立を助けようとする制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「社会保障制度とは」（資料）",
+    "url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "public-health",
+  "term": "保健医療・公衆衛生",
+  "en": "Health care and public health",
+  "field": "基本",
+  "def": "保健医療・公衆衛生とは、医療サービスの提供、病気の予防や健康づくり、母子保健、食品や医薬品の安全の確保、感染症への対応など、人々が健康に暮らせるようにするための制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「社会保障制度とは」（資料）",
+    "url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "application-principle",
+  "term": "申請主義",
+  "en": "Application-based principle",
+  "field": "基本",
+  "def": "申請主義とは、社会保障の多くの給付やサービスが、本人や家族などが自分から申請することによって始まるしくみのことです。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「生活保護法」",
+    "url": "https://laws.e-gov.go.jp/law/325AC0000000144"
+   },
+   {
+    "text": "厚生労働省 社会保障教育の推進に関する検討会 第1回 資料7",
+    "url": "https://www.mhlw.go.jp/content/001274582.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "seikatsu-hogo",
+  "term": "生活保護",
+  "en": "Public assistance (Seikatsu Hogo)",
+  "field": "お金と生活",
+  "def": "生活保護とは、資産や能力などすべてを活用してもなお生活に困窮する人に、困窮の程度に応じて必要な保護を行い、健康で文化的な最低限度の生活を保障するとともに、自立を助ける制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「生活保護制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+   },
+   {
+    "text": "e-Gov法令検索「生活保護法」",
+    "url": "https://laws.e-gov.go.jp/law/325AC0000000144"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shinsei-hogo",
+  "term": "申請保護の原則",
+  "en": "Principle of protection upon application",
+  "field": "お金と生活",
+  "def": "申請保護の原則とは、生活保護は本人や扶養義務者、同居の親族の申請にもとづいて始まり、急迫した状況にあるときは申請がなくても必要な保護を行えるという、生活保護法の原則のことです。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「生活保護法」",
+    "url": "https://laws.e-gov.go.jp/law/325AC0000000144"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "hosokusei",
+  "term": "保護の補足性",
+  "en": "Supplementary principle",
+  "field": "お金と生活",
+  "def": "保護の補足性とは、生活保護は、預貯金などの資産、働く能力、年金や手当など他の制度を活用し、それでも最低限度の生活を維持できない場合に行われるという原則のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「生活保護制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+   },
+   {
+    "text": "e-Gov法令検索「生活保護法」",
+    "url": "https://laws.e-gov.go.jp/law/325AC0000000144"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "saitei-seikatsuhi",
+  "term": "最低生活費",
+  "en": "Minimum cost of living",
+  "field": "お金と生活",
+  "def": "最低生活費とは、厚生労働大臣の定める基準で計算される、その世帯が最低限度の生活を送るために必要な費用のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「生活保護制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "seikatsu-fujo",
+  "term": "生活扶助",
+  "en": "Livelihood assistance",
+  "field": "お金と生活",
+  "def": "生活扶助とは、生活保護の8種類の扶助のうち、食費・被服費・光熱水費など日常生活に必要な費用に対応するもののことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「生活保護制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jutaku-fujo",
+  "term": "住宅扶助",
+  "en": "Housing assistance",
+  "field": "お金と生活",
+  "def": "住宅扶助とは、生活保護の扶助のうち、アパートなどの家賃に対応し、定められた範囲内で実費を支給するもののことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「生活保護制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "iryo-fujo",
+  "term": "医療扶助",
+  "en": "Medical assistance",
+  "field": "お金と生活",
+  "def": "医療扶助とは、生活保護の扶助のうち、医療サービスの費用に対応するもので、費用は医療機関へ直接支払われ、本人の負担がないもののことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「生活保護制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "fukushi-jimusho",
+  "term": "福祉事務所",
+  "en": "Welfare office",
+  "field": "お金と生活",
+  "def": "福祉事務所とは、生活保護の相談や申請の窓口となる、市（区）や都道府県などが条例で設置する福祉に関する事務所のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「生活保護制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+   },
+   {
+    "text": "e-Gov法令検索「社会福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/326AC0000000045"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "konkyusha-shien",
+  "term": "生活困窮者自立支援制度",
+  "en": "Self-reliance support system for needy persons",
+  "field": "お金と生活",
+  "def": "生活困窮者自立支援制度とは、生活に困っている人の相談を受け、仕事の支援、家賃相当額の支給などの住まいの支援、家計の立て直しの支援などを、一人ひとりの状況に合わせて提供する制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「生活困窮者自立支援制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+   },
+   {
+    "text": "e-Gov法令検索「生活困窮者自立支援法」",
+    "url": "https://laws.e-gov.go.jp/law/425AC0000000105"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jiritsu-soudan",
+  "term": "自立相談支援機関",
+  "en": "Independence consultation support agency",
+  "field": "お金と生活",
+  "def": "自立相談支援機関とは、生活困窮者自立支援制度の相談窓口で、支援員が相談を受けて必要な支援を一緒に考え、具体的な支援プランを作って自立に向けた支援を行う機関のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「生活困窮者自立支援制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+   },
+   {
+    "text": "厚生労働省委託事業「自立相談支援機関 相談窓口一覧」",
+    "url": "https://minna-tunagaru.jp/ichiran/"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "seikatsu-fukushi-shikin",
+  "term": "生活福祉資金貸付制度",
+  "en": "Livelihood welfare fund loan system",
+  "field": "お金と生活",
+  "def": "生活福祉資金貸付制度とは、低所得者世帯・障害者世帯・高齢者世帯を対象に、都道府県社会福祉協議会が生活費などの資金を貸し付ける制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「生活福祉資金貸付制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/index.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kinkyu-koguchi",
+  "term": "緊急小口資金",
+  "en": "Emergency small-amount fund",
+  "field": "お金と生活",
+  "def": "緊急小口資金とは、生活福祉資金貸付制度の一つで、緊急かつ一時的に生計の維持が難しくなったときに、少額の費用を無利子で貸し付けるもののことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「生活福祉資金貸付条件等一覧」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/kashitsukejoken.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jukyo-kakuho",
+  "term": "住居確保給付金",
+  "en": "Housing security benefit",
+  "field": "住まい",
+  "def": "住居確保給付金とは、離職などにより住居を失った人や失うおそれの高い人に、就職に向けた活動をするなどを条件に、一定期間、家賃相当額を支給する制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「生活困窮者自立支援制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+   },
+   {
+    "text": "e-Gov法令検索「生活困窮者自立支援法」",
+    "url": "https://laws.e-gov.go.jp/law/425AC0000000105"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "koei-jutaku",
+  "term": "公営住宅",
+  "en": "Public housing",
+  "field": "住まい",
+  "def": "公営住宅とは、国と地方公共団体が協力して整備し、住宅に困っている低額所得者に低い家賃で貸す住宅のことです。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「公営住宅法」",
+    "url": "https://laws.e-gov.go.jp/law/326AC1000000193"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "koyo-hoken",
+  "term": "雇用保険",
+  "en": "Employment insurance",
+  "field": "仕事",
+  "def": "雇用保険とは、労働者が失業したときや雇用の継続が難しくなったときなどに給付を行い、生活と雇用の安定や再就職の促進を図る、政府が管掌する強制保険制度のことです。",
+  "sources": [
+   {
+    "text": "ハローワークインターネットサービス「雇用保険制度の概要」",
+    "url": "https://www.hellowork.mhlw.go.jp/insurance/insurance_summary.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kihon-teate",
+  "term": "基本手当",
+  "en": "Basic allowance",
+  "field": "仕事",
+  "def": "基本手当とは、雇用保険の被保険者だった人が離職したとき、失業中の生活を心配せずに新しい仕事を探し、早く再就職できるように支給されるお金のことです。",
+  "sources": [
+   {
+    "text": "ハローワークインターネットサービス「基本手当について」",
+    "url": "https://www.hellowork.mhlw.go.jp/insurance/insurance_basicbenefit.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "hellowork",
+  "term": "ハローワーク（公共職業安定所）",
+  "en": "Public Employment Security Office",
+  "field": "仕事",
+  "def": "ハローワーク（公共職業安定所）とは、仕事を探す人や求人をする事業主にさまざまなサービスを無料で提供する、国（厚生労働省）が運営する総合的な雇用サービス機関のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「ハローワーク」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/hellowork.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kyushokusha-shien",
+  "term": "求職者支援制度",
+  "en": "Job seeker support system",
+  "field": "仕事",
+  "def": "求職者支援制度とは、雇用保険を受けられない離職者などが、要件を満たせば生活支援の給付金を受けながら無料の職業訓練を受講でき、ハローワークが就職活動を支える制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「求職者支援制度のご案内」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyushokusha_shien/index.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "hello-training",
+  "term": "ハロートレーニング",
+  "en": "Public vocational training",
+  "field": "仕事",
+  "def": "ハロートレーニングとは、公共職業訓練と求職者支援訓練からなる公的職業訓練の愛称で、希望する仕事に就くために必要な職業スキルや知識を身につけられる公的制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「ハロートレーニング」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/hellotraining_top.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kaihoken",
+  "term": "国民皆保険",
+  "en": "Universal health insurance",
+  "field": "医療",
+  "def": "国民皆保険とは、国民全員を公的医療保険で保障するしくみのことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「我が国の医療保険について」（資料）",
+    "url": "https://www.mhlw.go.jp/content/12400000/001416337.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kokuho",
+  "term": "国民健康保険",
+  "en": "National Health Insurance",
+  "field": "医療",
+  "def": "国民健康保険とは、会社などの被用者保険や後期高齢者医療制度に加入していない、すべての住民を対象とする医療保険制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「国民健康保険制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/koukikourei/index_00002.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kogaku-ryoyohi",
+  "term": "高額療養費制度",
+  "en": "High-cost medical expense benefit",
+  "field": "医療",
+  "def": "高額療養費制度とは、医療機関や薬局の窓口で支払う医療費が月ごとの上限額を超えたときに、超えた額を支給する制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「高額療養費制度を利用される皆さまへ」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/juuyou/kougakuiryou/index.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "gendogaku",
+  "term": "限度額適用認定証",
+  "en": "Certificate of ceiling-amount application",
+  "field": "医療",
+  "def": "限度額適用認定証とは、事前に交付を受けて医療機関に提示することで、窓口での支払いを高額療養費制度の月ごとの上限額までにとどめられる証明書のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「高額療養費制度を利用される皆さまへ」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/juuyou/kougakuiryou/index.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shobyo-teate",
+  "term": "傷病手当金",
+  "en": "Sickness and injury allowance",
+  "field": "医療",
+  "def": "傷病手当金とは、健康保険の被保険者が仕事以外の病気やけがのために会社を休み、会社から十分な報酬を受けられないときに、本人と家族の生活を保障するために支給されるお金のことです。",
+  "sources": [
+   {
+    "text": "全国健康保険協会（協会けんぽ）「傷病手当金」",
+    "url": "https://www.kyoukaikenpo.or.jp/benefit/injury_and_sickness_allowance/"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "rosai-hoken",
+  "term": "労災保険",
+  "en": "Workers' accident compensation insurance",
+  "field": "労災",
+  "def": "労災保険とは、仕事や通勤が原因で起きた労働者のけがや病気などに対して必要な保険給付を行う、原則として事業主が負担する保険料でまかなわれる制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「労災補償」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/index.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jido-teate",
+  "term": "児童手当",
+  "en": "Child allowance",
+  "field": "子育て",
+  "def": "児童手当とは、家庭の生活の安定と子どもの健やかな成長のために、国内に住む18歳に達する日以後の最初の3月31日までの子どもを養育している人に支給される手当のことです。",
+  "sources": [
+   {
+    "text": "こども家庭庁「児童手当制度のご案内」",
+    "url": "https://www.cfa.go.jp/policies/kokoseido/jidouteate"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jido-fuyo-teate",
+  "term": "児童扶養手当",
+  "en": "Child rearing allowance",
+  "field": "子育て",
+  "def": "児童扶養手当とは、父母の離婚や死亡などで父または母と生計を同じくしていない子どもを育てる、ひとり親家庭などの生活の安定と自立のために支給される手当のことです。",
+  "sources": [
+   {
+    "text": "こども家庭庁「児童扶養手当」（事業概要資料）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/71de338f-5ed2-4c95-9848-3fd387d0b4d7/a4e6f323/20260408_policies_hitori-oya_fuyou-teate_19.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shogai-nenkin",
+  "term": "障害年金",
+  "en": "Disability pension",
+  "field": "障害",
+  "def": "障害年金とは、病気やけがによって生活や仕事などが制限されるようになったときに、現役世代も含めて受け取ることができる、障害基礎年金や障害厚生年金などの公的年金のことです。",
+  "sources": [
+   {
+    "text": "日本年金機構「障害年金」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-01.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shoshinbi",
+  "term": "初診日",
+  "en": "Date of first medical examination",
+  "field": "障害",
+  "def": "初診日とは、障害の原因となった病気やけがについて、初めて医師の診療を受けた日のことです。",
+  "sources": [
+   {
+    "text": "日本年金機構「障害年金」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-01.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shogai-fukushi",
+  "term": "障害福祉サービス",
+  "en": "Disability welfare services",
+  "field": "障害",
+  "def": "障害福祉サービスとは、障害の程度や社会活動・介護者・住まいなどの状況をふまえて個別に支給決定が行われる、介護給付や訓練等給付などのサービスのことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「障害福祉サービスについて」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/naiyou.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "koteki-nenkin",
+  "term": "公的年金",
+  "en": "Public pension",
+  "field": "年金",
+  "def": "公的年金とは、20歳以上60歳未満のすべての人が加入する国民年金と、会社員・公務員が加入する厚生年金保険の2階建てで、老齢・障害・死亡などによる収入の減少に備える制度のことです。",
+  "sources": [
+   {
+    "text": "日本年金機構「公的年金制度の種類と加入する制度」",
+    "url": "https://www.nenkin.go.jp/service/seidozenpan/20140710.html"
+   },
+   {
+    "text": "厚生労働省「社会保障制度とは」（資料）",
+    "url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kokumin-nenkin",
+  "term": "国民年金",
+  "en": "National Pension",
+  "field": "年金",
+  "def": "国民年金とは、20歳以上60歳未満のすべての人が加入する、公的年金の1階部分にあたる年金制度のことです。",
+  "sources": [
+   {
+    "text": "日本年金機構「公的年金制度の種類と加入する制度」",
+    "url": "https://www.nenkin.go.jp/service/seidozenpan/20140710.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kosei-nenkin",
+  "term": "厚生年金保険",
+  "en": "Employees' Pension Insurance",
+  "field": "年金",
+  "def": "厚生年金保険とは、会社員や公務員などが国民年金に上乗せして加入する、公的年金の2階部分にあたる年金制度のことです。",
+  "sources": [
+   {
+    "text": "日本年金機構「公的年金制度の種類と加入する制度」",
+    "url": "https://www.nenkin.go.jp/service/seidozenpan/20140710.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "hokenryo-menjo",
+  "term": "保険料免除制度",
+  "en": "Premium exemption system",
+  "field": "年金",
+  "def": "保険料免除制度とは、所得が一定額以下の場合や失業した場合など、国民年金保険料を納めることが経済的に難しいときに、本人が申請して承認されると保険料の全額または一部が免除される制度のことです。",
+  "sources": [
+   {
+    "text": "日本年金機構「国民年金保険料の免除制度・納付猶予制度」",
+    "url": "https://www.nenkin.go.jp/service/kokunen/menjo/20150428.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "nofu-yuyo",
+  "term": "納付猶予制度",
+  "en": "Payment deferral system",
+  "field": "年金",
+  "def": "納付猶予制度とは、20歳以上50歳未満で本人と配偶者の前年所得が一定額以下の人が、申請して承認されると国民年金保険料の納付が猶予される制度のことです。",
+  "sources": [
+   {
+    "text": "日本年金機構「国民年金保険料の免除制度・納付猶予制度」",
+    "url": "https://www.nenkin.go.jp/service/kokunen/menjo/20150428.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kaigo-hoken",
+  "term": "介護保険",
+  "en": "Long-term care insurance",
+  "field": "介護",
+  "def": "介護保険とは、介護を社会全体で支えることを目的に、40歳以上の人が加入して保険料を負担し、介護が必要になったときにサービスを受けられる制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「介護保険制度について」（リーフレット）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001238058.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "yokaigo-nintei",
+  "term": "要介護認定",
+  "en": "Certification of long-term care need",
+  "field": "介護",
+  "def": "要介護認定とは、介護保険のサービスを使うために市区町村に申請し、認定調査と主治医の意見書をもとに、どのくらいの介護が必要かを判定するしくみのことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「介護保険制度について」（リーフレット）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001238058.pdf"
+   },
+   {
+    "text": "厚生労働省「要介護認定はどのように行われるか」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/nintei/gaiyo2.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "houkatsu",
+  "term": "地域包括支援センター",
+  "en": "Community general support center",
+  "field": "介護",
+  "def": "地域包括支援センターとは、高齢者の総合相談、権利擁護、介護予防に必要な援助などを行う、市町村が設置する地域の中核的な機関のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「地域包括ケアシステム」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/chiiki-houkatsu/index.html"
+   },
+   {
+    "text": "厚生労働省「介護保険制度について」（リーフレット）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001238058.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shinsa-seikyu",
+  "term": "審査請求",
+  "en": "Request for administrative review",
+  "field": "手続き",
+  "def": "審査請求とは、行政庁の処分に不服がある人が、行政不服審査法などにもとづいて、処分を見直すよう求める不服申立てのことです。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「行政不服審査法」",
+    "url": "https://laws.e-gov.go.jp/law/426AC0000000068"
+   },
+   {
+    "text": "e-Gov法令検索「生活保護法」",
+    "url": "https://laws.e-gov.go.jp/law/325AC0000000144"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "seizonken",
+  "term": "生存権",
+  "en": "Right to life (Article 25)",
+  "field": "基本",
+  "def": "生存権とは、日本国憲法第25条第1項が定める、すべての国民が健康で文化的な最低限度の生活を営む権利のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「日本国憲法」第25条",
+    "url": "https://laws.e-gov.go.jp/law/321CONSTITUTION"
+   }
+  ]
+ },
+ {
+  "id": "shakaihosho-shingikai",
+  "term": "社会保障制度審議会",
+  "en": "Advisory Council on Social Security",
+  "field": "基本",
+  "def": "社会保障制度審議会とは、社会保障制度審議会設置法にもとづいて置かれ、1950年に「社会保障制度に関する勧告」を政府に出した審議会のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "社会保障制度審議会「社会保障制度に関する勧告」（1950年、国立社会保障・人口問題研究所 掲載資料）",
+    "url": "https://www.ipss.go.jp/publication/j/shiryou/no.13/data/shiryou/syakaifukushi/1.pdf"
+   }
+  ]
+ },
+ {
+  "id": "shakai-hoken-hoshiki",
+  "term": "社会保険方式",
+  "en": "Social insurance system",
+  "field": "基本",
+  "def": "社会保険方式とは、加入者や事業主があらかじめ保険料を出し合い、病気やけが、失業などのできごとに遭った人にお金やサービスを支給する社会保障のしくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「平成24年版 厚生労働白書」第1部第3章「日本の社会保障の仕組み」",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf"
+   }
+  ]
+ },
+ {
+  "id": "zei-hoshiki",
+  "term": "税方式",
+  "en": "Tax-financed system",
+  "field": "基本",
+  "def": "税方式とは、保険料ではなくおもに税を財源にして、国や地方公共団体が現金やサービスを提供する社会保障のしくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「平成24年版 厚生労働白書」第1部第3章「日本の社会保障の仕組み」",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf"
+   }
+  ]
+ },
+ {
+  "id": "shiryoku-chosa",
+  "term": "資力調査（ミーンズテスト）",
+  "en": "Means test",
+  "field": "基本",
+  "def": "資力調査とは、給付を行う前に、預貯金や不動産などの資産や収入の状況を確かめる調査のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「平成24年版 厚生労働白書」第1部第3章「日本の社会保障の仕組み」",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/12/dl/1-03.pdf"
+   }
+  ]
+ },
+ {
+  "id": "saitei",
+  "term": "裁定",
+  "en": "Adjudication of pension rights",
+  "field": "年金",
+  "def": "裁定とは、年金の給付を受ける権利を持つ人の請求にもとづいて、その権利を確認し決定する手続きのことで、国民年金では厚生労働大臣、厚生年金保険では実施機関が行います。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「国民年金法」第16条",
+    "url": "https://laws.e-gov.go.jp/law/334AC0000000141"
+   },
+   {
+    "text": "e-Gov法令検索「厚生年金保険法」第33条",
+    "url": "https://laws.e-gov.go.jp/law/329AC0000000115"
+   }
+  ]
+ },
+ {
+  "id": "kihon-genri",
+  "term": "生活保護の基本原理",
+  "en": "Basic principles of public assistance",
+  "field": "お金と生活",
+  "def": "生活保護の基本原理とは、生活保護法の第1条から第4条に定められた、国が最低限度の生活を保障する責任（第1条）・無差別平等（第2条）・最低生活（第3条）・保護の補足性（第4条）の4つの原理で、法律の解釈と運用はすべてこれにもとづいて行われる（第5条）もののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「生活保護法」",
+    "url": "https://laws.e-gov.go.jp/law/325AC0000000144"
+   }
+  ]
+ },
+ {
+  "id": "seigyo-fujo",
+  "term": "生業扶助",
+  "en": "Occupational assistance",
+  "field": "お金と生活",
+  "def": "生業扶助とは、生活保護の8種類の扶助のうち、仕事に必要な資金・器具や技能の修得、就労のために必要なものの費用（高等学校等に就学するための費用を含む）に対応するもののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「生活保護制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+   },
+   {
+    "text": "e-Gov法令検索「生活保護法」",
+    "url": "https://laws.e-gov.go.jp/law/325AC0000000144"
+   }
+  ]
+ },
+ {
+  "id": "kyoiku-fujo",
+  "term": "教育扶助",
+  "en": "Educational assistance",
+  "field": "お金と生活",
+  "def": "教育扶助とは、生活保護の8種類の扶助のうち、義務教育を受けるために必要な学用品費などに対応するもののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「生活保護制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+   },
+   {
+    "text": "e-Gov法令検索「生活保護法」",
+    "url": "https://laws.e-gov.go.jp/law/325AC0000000144"
+   }
+  ]
+ },
+ {
+  "id": "fuyo-shokai",
+  "term": "扶養照会",
+  "en": "Inquiry to family members about support",
+  "field": "お金と生活",
+  "def": "扶養照会とは、生活保護の申請を受けた福祉事務所が、親族などの扶養義務者に仕送りなどの援助ができるかどうかを直接問い合わせることで、扶養義務の履行が期待できないと判断された人には基本的に行わないとされているもののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省社会・援護局保護課 事務連絡「扶養義務履行が期待できない者の判断基準の留意点等について」（2021年2月26日）",
+    "url": "https://www.mhlw.go.jp/content/000746078.pdf"
+   },
+   {
+    "text": "厚生労働省「生活保護を申請したい方へ」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsuhogopage.html"
+   }
+  ]
+ },
+ {
+  "id": "kakei-kaizen",
+  "term": "家計改善支援事業",
+  "en": "Household finance improvement support",
+  "field": "お金と生活",
+  "def": "家計改善支援事業とは、生活困窮者自立支援制度の事業の一つで、家計の状況を一緒に見える化し、相談者が自分で家計を管理できるように立て直しを支援する事業のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「生活困窮者自立支援制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+   },
+   {
+    "text": "e-Gov法令検索「生活困窮者自立支援法」",
+    "url": "https://laws.e-gov.go.jp/law/425AC0000000105"
+   }
+  ]
+ },
+ {
+  "id": "shuro-junbi",
+  "term": "就労準備支援事業",
+  "en": "Employment preparation support",
+  "field": "仕事",
+  "def": "就労準備支援事業とは、生活困窮者自立支援制度の事業の一つで、すぐに働くことが難しい人に、原則1年の間、プログラムにそって一般就労に向けた基礎的な力を養う支援を行う事業のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「生活困窮者自立支援制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+   },
+   {
+    "text": "e-Gov法令検索「生活困窮者自立支援法」",
+    "url": "https://laws.e-gov.go.jp/law/425AC0000000105"
+   }
+  ]
+ },
+ {
+  "id": "kyoju-shien",
+  "term": "居住支援事業",
+  "en": "Housing support program",
+  "field": "住まい",
+  "def": "居住支援事業とは、生活困窮者自立支援制度の事業の一つで、住まいのない人などに一定期間、宿泊場所や衣食を提供し、退所後の生活に向けた支援や、住まいを失うおそれのある人への訪問による見守りなども行う事業のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「生活困窮者自立支援制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+   },
+   {
+    "text": "厚生労働省「制度の沿革」（生活困窮者自立支援制度）",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000073432.html"
+   },
+   {
+    "text": "e-Gov法令検索「生活困窮者自立支援法」",
+    "url": "https://laws.e-gov.go.jp/law/425AC0000000105"
+   }
+  ]
+ },
+ {
+  "id": "sogo-shien-shikin",
+  "term": "総合支援資金",
+  "en": "Comprehensive support fund",
+  "field": "お金と生活",
+  "def": "総合支援資金とは、生活福祉資金貸付制度の資金の一つで、生活を立て直すまでの生活費や、住まいの賃貸契約に必要な費用などを貸し付けるもののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「生活福祉資金貸付条件等一覧」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/kashitsukejoken.html"
+   },
+   {
+    "text": "厚生労働省「生活福祉資金貸付制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/index.html"
+   }
+  ]
+ },
+ {
+  "id": "shakyo",
+  "term": "社会福祉協議会",
+  "en": "Council of social welfare",
+  "field": "お金と生活",
+  "def": "社会福祉協議会とは、地域福祉の推進を目的として社会福祉法に定められた団体で、都道府県や市区町村の区域で活動し、生活福祉資金貸付制度の窓口にもなっている団体のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会福祉法」（第109条・第110条）",
+    "url": "https://laws.e-gov.go.jp/law/326AC0000000045"
+   },
+   {
+    "text": "厚生労働省「生活福祉資金貸付制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/index.html"
+   }
+  ]
+ },
+ {
+  "id": "kijungaku",
+  "term": "基準額",
+  "en": "Standard amount",
+  "field": "住まい",
+  "def": "基準額とは、住居確保給付金などの収入や資産の条件に使う額で、市町村民税の均等割が課されない人の収入額を12で割った額をもとにした、自治体ごとに異なる額のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「生活困窮者自立支援法施行規則」",
+    "url": "https://laws.e-gov.go.jp/law/427M60000100016"
+   },
+   {
+    "text": "厚生労働省「住居確保給付金のご案内」（PDF）",
+    "url": "https://www.mhlw.go.jp/content/12600000/001436774.pdf"
+   }
+  ]
+ },
+ {
+  "id": "tenkyo-hiyo-hojo",
+  "term": "転居費用の補助（住居確保給付金）",
+  "en": "Relocation cost support",
+  "field": "住まい",
+  "def": "転居費用の補助とは、収入が大きく減った人が家計を立て直すために家賃の安い住宅へ移るとき、住居確保給付金として転居に要する費用を上限の範囲で支給するしくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「厚生労働省関係の主な制度変更（令和７年４月）について」",
+    "url": "https://www.mhlw.go.jp/stf/newpage_51380.html"
+   },
+   {
+    "text": "厚生労働省「住居確保給付金のご案内」（PDF）",
+    "url": "https://www.mhlw.go.jp/content/12600000/001436774.pdf"
+   }
+  ]
+ },
+ {
+  "id": "yusen-nyukyo",
+  "term": "優先入居",
+  "en": "Priority admission",
+  "field": "住まい",
+  "def": "優先入居とは、公営住宅の入居者の募集・選考で、高齢者世帯や障害者世帯、子育て世帯など特に住まいに困っている世帯を、地方公共団体の判断で優先的に扱うしくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "国土交通省「公営住宅の優先入居について」",
+    "url": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000096.html"
+   }
+  ]
+ },
+ {
+  "id": "ur-chintai",
+  "term": "UR賃貸住宅",
+  "en": "UR rental housing",
+  "field": "住まい",
+  "def": "UR賃貸住宅とは、独立行政法人都市再生機構（UR都市機構）が貸す賃貸住宅で、原則として申込者の平均月収が基準の額以上あることなどを条件とし、公営住宅とは別のしくみの住宅のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "UR賃貸住宅「お申込み資格」",
+    "url": "https://www.ur-net.go.jp/chintai/rent/requirements/"
+   },
+   {
+    "text": "UR都市機構「企業情報」",
+    "url": "https://www.ur-net.go.jp/aboutus/"
+   }
+  ]
+ },
+ {
+  "id": "kyoju-shien-hojin",
+  "term": "居住支援法人",
+  "en": "Designated housing support corporation",
+  "field": "住まい",
+  "def": "居住支援法人とは、住宅セーフティネット法にもとづき都道府県知事が指定する、住宅確保要配慮者への賃貸住宅への入居に関する情報提供・相談や、入居後の見守りなどの生活支援を行うNPO法人などの法人のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "国土交通省「住宅セーフティネット制度」",
+    "url": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000055.html"
+   },
+   {
+    "text": "e-Gov法令検索「住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/419AC1000000112"
+   }
+  ]
+ },
+ {
+  "id": "kyoju-shien-kyogikai",
+  "term": "居住支援協議会",
+  "en": "Housing support council",
+  "field": "住まい",
+  "def": "居住支援協議会とは、住宅確保要配慮者の民間賃貸住宅への円滑な入居を進めるため、地方公共団体、居住支援法人、不動産業者、社会福祉協議会などが連携して、住宅情報の提供や相談体制の整備などを協議する組織のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "国土交通省「住宅セーフティネット制度」",
+    "url": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000055.html"
+   },
+   {
+    "text": "e-Gov法令検索「住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/419AC1000000112"
+   }
+  ]
+ },
+ {
+  "id": "jutaku-kakuho-yohairyosha",
+  "term": "住宅確保要配慮者",
+  "en": "Persons requiring special consideration in securing housing",
+  "field": "住まい",
+  "def": "住宅確保要配慮者とは、住宅セーフティネット法で、低額所得者、被災者、高齢者、障害者、子どもを養育している人など、住宅の確保に特に配慮を要すると定められた人のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "国土交通省「住宅セーフティネット制度」",
+    "url": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000055.html"
+   },
+   {
+    "text": "e-Gov法令検索「住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/419AC1000000112"
+   }
+  ]
+ },
+ {
+  "id": "hihokensha-kikan",
+  "term": "被保険者期間",
+  "en": "Insured period",
+  "field": "仕事",
+  "def": "被保険者期間とは、雇用保険に入っていた期間を離職日から1か月ごとに区切り、賃金の支払いの基礎となった日数が11日以上（日数で数えて必要な月数に届かないときは、時間数が80時間以上）ある期間を1か月として数えた期間のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "ハローワークインターネットサービス「基本手当について」",
+    "url": "https://www.hellowork.mhlw.go.jp/insurance/insurance_basicbenefit.html"
+   },
+   {
+    "text": "e-Gov法令検索「雇用保険法」第14条第1項・第3項",
+    "url": "https://laws.e-gov.go.jp/law/349AC0000000116"
+   }
+  ]
+ },
+ {
+  "id": "taiki",
+  "term": "待期（雇用保険）",
+  "en": "Waiting period",
+  "field": "仕事",
+  "def": "待期（雇用保険）とは、離職後最初に求職の申込みをした日以後、失業している日（病気やけがで働けない日を含む）が通算して7日に満たない間、基本手当が支給されない期間のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「雇用保険法」第21条",
+    "url": "https://laws.e-gov.go.jp/law/349AC0000000116"
+   },
+   {
+    "text": "ハローワークインターネットサービス「雇用保険の具体的な手続き」",
+    "url": "https://www.hellowork.mhlw.go.jp/insurance/insurance_procedure.html"
+   }
+  ]
+ },
+ {
+  "id": "shitsugyo-no-nintei",
+  "term": "失業の認定",
+  "en": "Certification of unemployment",
+  "field": "仕事",
+  "def": "失業の認定とは、求職の申込みを受けたハローワークが、原則として4週間に1回、直前の28日の各日について失業していたかどうかを確認し、基本手当を支給する日を決める手続きのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「雇用保険法」第15条",
+    "url": "https://laws.e-gov.go.jp/law/349AC0000000116"
+   },
+   {
+    "text": "ハローワークインターネットサービス「雇用保険の具体的な手続き」",
+    "url": "https://www.hellowork.mhlw.go.jp/insurance/insurance_procedure.html"
+   }
+  ]
+ },
+ {
+  "id": "tokutei-jukyu-shikakusha",
+  "term": "特定受給資格者",
+  "en": "Eligible person due to dismissal or bankruptcy",
+  "field": "仕事",
+  "def": "特定受給資格者とは、倒産や解雇など、再就職の準備をする時間的余裕がなく離職を余儀なくされた雇用保険の受給資格者のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "ハローワークインターネットサービス「特定受給資格者及び特定理由離職者の範囲の概要」",
+    "url": "https://www.hellowork.mhlw.go.jp/insurance/insurance_range.html"
+   },
+   {
+    "text": "厚生労働省「離職された方へ ―離職票-2の離職理由欄等の記載方法について―」",
+    "url": "https://www.mhlw.go.jp/bunya/koyou/dl/koyouhoken02.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「雇用保険法」第23条第2項",
+    "url": "https://laws.e-gov.go.jp/law/349AC0000000116"
+   }
+  ]
+ },
+ {
+  "id": "tokutei-riyu-rishokusha",
+  "term": "特定理由離職者",
+  "en": "Person who left a job for unavoidable reasons",
+  "field": "仕事",
+  "def": "特定理由離職者とは、更新を希望したのに期間の定めのある労働契約が更新されなかったことその他のやむを得ない理由により離職した人（特定受給資格者に当たる人を除く）のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "ハローワークインターネットサービス「特定受給資格者及び特定理由離職者の範囲の概要」",
+    "url": "https://www.hellowork.mhlw.go.jp/insurance/insurance_range.html"
+   },
+   {
+    "text": "厚生労働省「離職された方へ ―離職票-2の離職理由欄等の記載方法について―」",
+    "url": "https://www.mhlw.go.jp/bunya/koyou/dl/koyouhoken02.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「雇用保険法」第13条第3項",
+    "url": "https://laws.e-gov.go.jp/law/349AC0000000116"
+   }
+  ]
+ },
+ {
+  "id": "kyufu-seigen",
+  "term": "給付制限",
+  "en": "Benefit restriction period",
+  "field": "仕事",
+  "def": "給付制限とは、正当な理由がなく自己の都合で退職した場合などに、7日間の待期期間の満了後、一定の期間、雇用保険の基本手当を支給しないしくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「雇用保険法」第33条",
+    "url": "https://laws.e-gov.go.jp/law/349AC0000000116"
+   },
+   {
+    "text": "厚生労働省・都道府県労働局・ハローワーク「雇用保険の基本手当（失業給付）を受給される皆さまへ」",
+    "url": "https://www.mhlw.go.jp/content/001441564.pdf"
+   }
+  ]
+ },
+ {
+  "id": "tokutei-kyushokusha",
+  "term": "特定求職者",
+  "en": "Specified job seeker",
+  "field": "仕事",
+  "def": "特定求職者とは、ハローワークに求職の申込みをしている人のうち、雇用保険の被保険者や受給資格者でなく、労働の意思と能力があり、職業訓練などの支援が必要だとハローワークが認めた人のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「職業訓練の実施等による特定求職者の就職の支援に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/423AC0000000047"
+   },
+   {
+    "text": "厚生労働省「求職者支援制度のご案内」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyushokusha_shien/index.html"
+   }
+  ]
+ },
+ {
+  "id": "kyushokusha-shien-kunren",
+  "term": "求職者支援訓練",
+  "en": "Job seeker support training",
+  "field": "仕事",
+  "def": "求職者支援訓練とは、雇用保険を受給できない求職者などを対象に、民間訓練機関などが厚生労働大臣の認定を受けて行う、受講料が原則無料で期間2か月から6か月の職業訓練のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省・都道府県労働局・ハローワーク「求職者支援制度があります！」（リーフレット、PDF）",
+    "url": "https://www.mhlw.go.jp/content/001087198.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「職業訓練の実施等による特定求職者の就職の支援に関する法律」第4条",
+    "url": "https://laws.e-gov.go.jp/law/423AC0000000047"
+   }
+  ]
+ },
+ {
+  "id": "shokugyo-kunren-jukou-kyufukin",
+  "term": "職業訓練受講給付金",
+  "en": "Vocational training benefit",
+  "field": "仕事",
+  "def": "職業訓練受講給付金とは、特定求職者が職業訓練を受けやすくするために国が支給する給付金で、収入などの要件を満たす人に職業訓練受講手当（月10万円）、通所手当、寄宿手当を支給するもののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「求職者支援制度のご案内」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyushokusha_shien/index.html"
+   },
+   {
+    "text": "e-Gov法令検索「職業訓練の実施等による特定求職者の就職の支援に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/423AC0000000047"
+   }
+  ]
+ },
+ {
+  "id": "hiyosha-hoken",
+  "term": "被用者保険",
+  "en": "Employee health insurance",
+  "field": "医療",
+  "def": "被用者保険とは、協会けんぽ・健康保険組合・共済組合など、会社や役所などに雇われて働く人とその被扶養者が加入する医療保険のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「我が国の医療保険について」（資料）",
+    "url": "https://www.mhlw.go.jp/content/12400000/001416337.pdf"
+   }
+  ]
+ },
+ {
+  "id": "koki-koreisha-iryo",
+  "term": "後期高齢者医療制度",
+  "en": "Medical care system for the elderly aged 75 and over",
+  "field": "医療",
+  "def": "後期高齢者医療制度とは、75歳以上の人と、65〜74歳で一定の障害があると認定された人が加入し、都道府県ごとの後期高齢者医療広域連合が運営する医療保険制度のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「高齢者の医療の確保に関する法律」（50条）",
+    "url": "https://laws.e-gov.go.jp/law/357AC0000000080"
+   },
+   {
+    "text": "厚生労働省「我が国の医療保険について」（資料）",
+    "url": "https://www.mhlw.go.jp/content/12400000/001416337.pdf"
+   }
+  ]
+ },
+ {
+  "id": "ichibu-futankin",
+  "term": "一部負担金",
+  "en": "Patient co-payment",
+  "field": "医療",
+  "def": "一部負担金とは、公的医療保険で療養の給付を受ける人が、医療費のうち年齢や所得に応じた割合を、保険医療機関や保険薬局の窓口で支払うお金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「健康保険法」（74条）",
+    "url": "https://laws.e-gov.go.jp/law/211AC0000000070"
+   },
+   {
+    "text": "e-Gov法令検索「高齢者の医療の確保に関する法律」（67条）",
+    "url": "https://laws.e-gov.go.jp/law/357AC0000000080"
+   }
+  ]
+ },
+ {
+  "id": "tasukai-gaito",
+  "term": "多数回該当",
+  "en": "Multiple-case reduction (high-cost medical expense benefit)",
+  "field": "医療",
+  "def": "多数回該当とは、高額療養費制度で、直近12か月に高額療養費を受けた月が3か月以上あるとき、4か月目から自己負担の上限額がさらに下がるしくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "全国健康保険協会（協会けんぽ）「高額療養費」",
+    "url": "https://www.kyoukaikenpo.or.jp/benefit/high_cost_medical_expenses/002/"
+   },
+   {
+    "text": "厚生労働省「高額療養費制度を利用される皆さまへ」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/juuyou/kougakuiryou/index.html"
+   }
+  ]
+ },
+ {
+  "id": "kogaku-nenkan-jogen",
+  "term": "年間上限（高額療養費）",
+  "en": "Annual cap on high-cost medical expenses",
+  "field": "医療",
+  "def": "年間上限（高額療養費）とは、高額療養費制度で2026年8月から設けられた、8月から翌年7月までの1年間の自己負担の上限額のことで、所得の区分ごとに決められています。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「高額療養費制度を利用される皆さまへ」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/juuyou/kougakuiryou/index.html"
+   },
+   {
+    "text": "厚生労働省「高額療養費制度の見直しについて（令和8年8月診療分から）」",
+    "url": "https://www.mhlw.go.jp/content/001726232.pdf"
+   }
+  ]
+ },
+ {
+  "id": "hyojun-hoshu-getsugaku",
+  "term": "標準報酬月額",
+  "en": "Standard monthly remuneration",
+  "field": "医療",
+  "def": "標準報酬月額とは、税引き前の給与（基本給のほか残業手当や通勤手当などを含む）を、一定の幅で区分した報酬月額に当てはめて決めた額のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「標準報酬月額・標準賞与額とは？」",
+    "url": "https://www.nenkin.go.jp/service/kounen/hokenryo/hoshu/20150515-01.html"
+   }
+  ]
+ },
+ {
+  "id": "taiki-shobyo",
+  "term": "待期（傷病手当金）",
+  "en": "Waiting period",
+  "field": "医療",
+  "def": "待期（傷病手当金）とは、仕事に就けなくなった日から連続する3日間で、傷病手当金が支給されない期間のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "全国健康保険協会（協会けんぽ）「病気やケガで会社を休んだとき（傷病手当金）」",
+    "url": "https://www.kyoukaikenpo.or.jp/benefit/injury_and_sickness_allowance/"
+   }
+  ]
+ },
+ {
+  "id": "gyomu-saigai",
+  "term": "業務災害",
+  "en": "Occupational injury",
+  "field": "労災",
+  "def": "業務災害とは、労働者が仕事を原因として受けたけが、病気、障害または死亡のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「労災保険給付の概要」",
+    "url": "https://www.mhlw.go.jp/content/11200000/001743837.pdf"
+   }
+  ]
+ },
+ {
+  "id": "tsukin-saigai",
+  "term": "通勤災害",
+  "en": "Commuting injury",
+  "field": "労災",
+  "def": "通勤災害とは、労働者が就業に関し、住居と就業の場所との間などを合理的な経路と方法で移動する間に受けたけが、病気、障害または死亡のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「労働者災害補償保険法」第7条",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000050"
+   }
+  ]
+ },
+ {
+  "id": "kyufu-kiso-nichigaku",
+  "term": "給付基礎日額",
+  "en": "Daily benefit base",
+  "field": "労災",
+  "def": "給付基礎日額とは、労災保険の給付額を計算するもとになる1日あたりの額で、原則として労働基準法の平均賃金に相当する額のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「労災保険給付の概要」",
+    "url": "https://www.mhlw.go.jp/content/11200000/001743837.pdf"
+   }
+  ]
+ },
+ {
+  "id": "roudou-kijun-kantokusho",
+  "term": "労働基準監督署",
+  "en": "Labour Standards Inspection Office",
+  "field": "労災",
+  "def": "労働基準監督署とは、都道府県労働局の仕事の一部を分けて受け持つために各地に置かれた役所で、労災保険の請求書を受け付けて給付を決める窓口のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「厚生労働省設置法」（第22条）",
+    "url": "https://laws.e-gov.go.jp/law/411AC0000000097"
+   },
+   {
+    "text": "厚生労働省「労働災害が発生したとき」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/rousai/index.html"
+   }
+  ]
+ },
+ {
+  "id": "rosai-shitei-iryokikan",
+  "term": "労災保険指定医療機関",
+  "en": "Designated medical institution for workers' accident insurance",
+  "field": "労災",
+  "def": "労災保険指定医療機関とは、都道府県労働局長が指定した病院や診療所などで、労災の請求書を出せば窓口で治療費を払わずに治療を受けられる医療機関のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「労働者災害補償保険法施行規則」（第11条）",
+    "url": "https://laws.e-gov.go.jp/law/330M50002000022"
+   },
+   {
+    "text": "厚生労働省「労働災害が発生したとき」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/rousai/index.html"
+   }
+  ]
+ },
+ {
+  "id": "rosai-shinsakan",
+  "term": "労働者災害補償保険審査官",
+  "en": "Workers' Accident Compensation Insurance Examiner",
+  "field": "労災",
+  "def": "労働者災害補償保険審査官とは、都道府県労働局に置かれ、労災保険の給付に関する決定に不服がある人からの審査請求を受け付けて判断する担当者のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「労働者災害補償保険法」（第38条）",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000050"
+   },
+   {
+    "text": "厚生労働省「労災保険審査請求制度」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000127192.html"
+   }
+  ]
+ },
+ {
+  "id": "tashi-kasan",
+  "term": "多子加算（児童手当）",
+  "en": "Additional amount for third and later children",
+  "field": "子育て",
+  "def": "多子加算（児童手当）とは、児童手当で3人目以降の子どもの月額を3万円とするしくみで、22歳になった後の最初の3月31日までの上の子も、親などが生活費を負担していれば数に含めるもののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "こども家庭庁「「第3子以降」のカウント方法について」（PDF）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/c9d07fdc-1873-4b62-ba35-b38a62a471a6/9f5267a3/20250213_policies_kokoseido_jidouteate_annai_05.pdf"
+   },
+   {
+    "text": "こども家庭庁「児童手当制度のご案内」",
+    "url": "https://www.cfa.go.jp/policies/kokoseido/jidouteate/annai"
+   },
+   {
+    "text": "こども家庭庁「児童手当制度の概要」（PDF）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/1c6d2629-ef70-43fd-971d-27231e0d9e1f/2fea19c2/20241007_policies_kokoseido_jidouteate_gaiyou_06.pdf"
+   }
+  ]
+ },
+ {
+  "id": "nintei-seikyu",
+  "term": "認定請求（児童手当）",
+  "en": "Application for certification (child allowance)",
+  "field": "子育て",
+  "def": "認定請求（児童手当）とは、児童手当を受け取るために、住所地の市区町村長（公務員は勤務先）に受給資格と手当の額の認定を求める手続きのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童手当法」第7条・第8条・第17条",
+    "url": "https://laws.e-gov.go.jp/law/346AC0000000073"
+   },
+   {
+    "text": "こども家庭庁「児童手当制度のご案内」",
+    "url": "https://www.cfa.go.jp/policies/kokoseido/jidouteate/annai"
+   }
+  ]
+ },
+ {
+  "id": "zenbu-ichibu-shikyu",
+  "term": "全部支給・一部支給（児童扶養手当）",
+  "en": "Full / partial payment",
+  "field": "子育て",
+  "def": "全部支給・一部支給（児童扶養手当）とは、受給する人の前の年の所得に応じて、児童扶養手当を満額で支給するか、所得に応じて減額して支給するかの区分のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "こども家庭庁「児童扶養手当制度の概要」",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/71de338f-5ed2-4c95-9848-3fd387d0b4d7/a4e6f323/20260408_policies_hitori-oya_fuyou-teate_19.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「児童扶養手当法」第9条",
+    "url": "https://laws.e-gov.go.jp/law/336AC0000000238"
+   }
+  ]
+ },
+ {
+  "id": "nintei-seikyu-fuyo",
+  "term": "認定請求（児童扶養手当）",
+  "en": "Claim for certification",
+  "field": "子育て",
+  "def": "認定請求（児童扶養手当）とは、児童扶養手当を受けるために、受給資格と手当の額について都道府県知事や市長などの認定を求める手続きのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童扶養手当法」第6条・第7条",
+    "url": "https://laws.e-gov.go.jp/law/336AC0000000238"
+   }
+  ]
+ },
+ {
+  "id": "bukka-slide",
+  "term": "物価スライド",
+  "en": "Price indexation",
+  "field": "子育て",
+  "def": "物価スライドとは、全国消費者物価指数の上がり下がりに合わせて、手当などの額を毎年度自動的に改定するしくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童扶養手当法」第5条の2",
+    "url": "https://laws.e-gov.go.jp/law/336AC0000000238"
+   }
+  ]
+ },
+ {
+  "id": "boshi-fushi-jiritsu-shienin",
+  "term": "母子・父子自立支援員",
+  "en": "Single parent self-reliance support counselor",
+  "field": "子育て",
+  "def": "母子・父子自立支援員とは、ひとり親家庭の親や寡婦の、暮らし・仕事・お金の貸付けなどの相談にのる相談員のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "こども家庭庁「ひとり親家庭の支援について 1. 子育て・生活支援」（令和8年4月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/0a870592-1814-4b21-bf56-16f06080c594/49ffc01c/20260423_policies_hitori-oya_105.pdf"
+   }
+  ]
+ },
+ {
+  "id": "kotoshokugyo-kunren-sokushin-kyufukin",
+  "term": "高等職業訓練促進給付金",
+  "en": "Advanced vocational training promotion benefit",
+  "field": "子育て",
+  "def": "高等職業訓練促進給付金とは、ひとり親が看護師などの資格を取るため養成機関で6か月以上学ぶ間に、生活費の負担を軽くするために支給されるお金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "こども家庭庁「高等職業訓練促進給付金のご案内」",
+    "url": "https://www.cfa.go.jp/policies/hitori-oya/syokugyou-kunren"
+   }
+  ]
+ },
+ {
+  "id": "boshi-fushi-kafu-fukushi-shikin",
+  "term": "母子父子寡婦福祉資金",
+  "en": "Welfare loans for single parents and widows",
+  "field": "子育て",
+  "def": "母子父子寡婦福祉資金とは、ひとり親家庭の親や寡婦に、子の修学資金など12種類の資金を無利子または年1.0%で貸し付ける制度のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "こども家庭庁「令和8年度予算の概要（こどもの貧困対策・ひとり親家庭支援）」（2026年4月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/0a870592-1814-4b21-bf56-16f06080c594/5a47bc4e/20260424_policies_hitori-oya_113.pdf"
+   }
+  ]
+ },
+ {
+  "id": "shogai-kiso-nenkin",
+  "term": "障害基礎年金",
+  "en": "Disability Basic Pension",
+  "field": "障害",
+  "def": "障害基礎年金とは、初診日に国民年金に加入していた人や、20歳前・60歳以上65歳未満で年金制度に加入していない期間に初診日がある人などが、障害等級1級または2級の状態にあるときに支給される年金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「障害基礎年金の受給要件・請求時期・年金額」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html"
+   }
+  ]
+ },
+ {
+  "id": "shogai-kosei-nenkin",
+  "term": "障害厚生年金",
+  "en": "Disability Employees' Pension",
+  "field": "障害",
+  "def": "障害厚生年金とは、厚生年金保険に加入している間に初診日がある病気やけがで、障害等級1級から3級の状態にあるときに支給される年金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「障害厚生年金の受給要件・請求時期・年金額」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-02.html"
+   }
+  ]
+ },
+ {
+  "id": "shogai-teatekin",
+  "term": "障害手当金",
+  "en": "Disability allowance (lump sum)",
+  "field": "障害",
+  "def": "障害手当金とは、厚生年金保険に加入している間に初診日がある病気やけがが初診日から5年以内に治り、障害厚生年金を受けるよりも軽い障害が残ったときに支給される一時金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「障害年金」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150401-01.html"
+   },
+   {
+    "text": "e-Gov法令検索「厚生年金保険法」（第55条）",
+    "url": "https://laws.e-gov.go.jp/law/329AC0000000115"
+   }
+  ]
+ },
+ {
+  "id": "shogai-nintei-bi",
+  "term": "障害認定日",
+  "en": "Date of disability certification",
+  "field": "障害",
+  "def": "障害認定日とは、障害年金で障害の状態を判断する日で、原則として初診日から1年6か月を過ぎた日、それより前に病気やけがが治った（症状が固定した）場合はその日のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構 年金用語集「障害認定日」",
+    "url": "https://www.nenkin.go.jp/service/yougo/sagyo/ninteibi.html"
+   },
+   {
+    "text": "e-Gov法令検索「国民年金法」第30条",
+    "url": "https://laws.e-gov.go.jp/law/334AC0000000141"
+   }
+  ]
+ },
+ {
+  "id": "hokenryo-nofu-yoken",
+  "term": "保険料納付要件",
+  "en": "Contribution requirement",
+  "field": "障害",
+  "def": "保険料納付要件とは、障害年金を受けるために、初診日の前日において、初診日のある月の前々月までの加入期間の3分の2以上が保険料の納付済期間か免除期間であることを求める要件のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「障害基礎年金の受給要件・請求時期・年金額」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html"
+   }
+  ]
+ },
+ {
+  "id": "jigo-jusho",
+  "term": "事後重症",
+  "en": "Later aggravation of disability",
+  "field": "障害",
+  "def": "事後重症とは、障害認定日には障害等級に当たる状態でなかった人が、その後65歳に達する日の前日までに症状が重くなって障害等級に当たる状態になったときに、その期間内に行う障害年金の請求のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「障害基礎年金の受給要件・請求時期・年金額」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/shougainenkin/jukyu-yoken/20150514.html"
+   },
+   {
+    "text": "e-Gov法令検索「国民年金法」第30条の2",
+    "url": "https://laws.e-gov.go.jp/law/334AC0000000141"
+   }
+  ]
+ },
+ {
+  "id": "shogai-sogo-shienho",
+  "term": "障害者総合支援法",
+  "en": "Act on Comprehensive Support for Persons with Disabilities",
+  "field": "障害",
+  "def": "障害者総合支援法とは、障害のある人が尊厳にふさわしい日常生活や社会生活を営めるよう、障害福祉サービスに係る給付や地域生活支援事業などを総合的に行うことを定めた法律のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「障害者の日常生活及び社会生活を総合的に支援するための法律」",
+    "url": "https://laws.e-gov.go.jp/law/417AC0000000123"
+   }
+  ]
+ },
+ {
+  "id": "shogai-shien-kubun",
+  "term": "障害支援区分",
+  "en": "Disability support classification",
+  "field": "障害",
+  "def": "障害支援区分とは、障害の多様な特性その他の心身の状態に応じて必要とされる標準的な支援の度合いを総合的に示す、非該当と区分1〜6からなる区分のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「障害者総合支援法における『障害支援区分』の概要」",
+    "url": "https://www.mhlw.go.jp/content/001736044.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「障害者の日常生活及び社会生活を総合的に支援するための法律」",
+    "url": "https://laws.e-gov.go.jp/law/417AC0000000123"
+   }
+  ]
+ },
+ {
+  "id": "shuro-keizoku-shien",
+  "term": "就労継続支援",
+  "en": "Continuous employment support",
+  "field": "障害",
+  "def": "就労継続支援とは、一般の会社などに雇用されることが難しい障害のある人に、働く機会や生産活動の場を提供し、知識や能力を高める訓練などを行う訓練等給付のサービスで、雇用契約を結ぶA型と結ばないB型があるもののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「障害福祉サービスについて」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/naiyou.html"
+   },
+   {
+    "text": "e-Gov法令検索「障害者の日常生活及び社会生活を総合的に支援するための法律」",
+    "url": "https://laws.e-gov.go.jp/law/417AC0000000123"
+   }
+  ]
+ },
+ {
+  "id": "dai1go-hihokensha",
+  "term": "第1号被保険者",
+  "en": "Category I insured person",
+  "field": "年金",
+  "def": "第1号被保険者とは、日本に住む20歳以上60歳未満の人のうち、自営業者・学生・無職の人など、第2号被保険者にも第3号被保険者にも当たらず、国民年金の保険料を自分で納める人のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「公的年金制度の種類と加入する制度」",
+    "url": "https://www.nenkin.go.jp/service/seidozenpan/20140710.html"
+   },
+   {
+    "text": "厚生労働省「年金制度の仕組みと考え方 第2 公的年金制度の体系（被保険者、保険料）」",
+    "url": "https://www.mhlw.go.jp/stf/nenkin_shikumi_002.html"
+   }
+  ]
+ },
+ {
+  "id": "dai3go-hihokensha",
+  "term": "第3号被保険者",
+  "en": "Category III insured person",
+  "field": "年金",
+  "def": "第3号被保険者とは、厚生年金保険に入っている会社員・公務員など（第2号被保険者）に扶養されている、原則として日本に住む20歳以上60歳未満の配偶者で、国民年金の保険料の自己負担がない人のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「公的年金制度の種類と加入する制度」",
+    "url": "https://www.nenkin.go.jp/service/seidozenpan/20140710.html"
+   },
+   {
+    "text": "厚生労働省「年金制度の仕組みと考え方 第2 公的年金制度の体系（被保険者、保険料）」",
+    "url": "https://www.mhlw.go.jp/stf/nenkin_shikumi_002.html"
+   }
+  ]
+ },
+ {
+  "id": "jukyu-shikaku-kikan",
+  "term": "受給資格期間",
+  "en": "Qualifying period",
+  "field": "年金",
+  "def": "受給資格期間とは、老齢基礎年金を受け取るために必要な、保険料を納めた期間と免除された期間などを合わせた期間で、2017年8月1日から10年以上あればよいとされている期間のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「老齢基礎年金の受給要件・支給開始時期・年金額」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/roureinenkin/jukyu-yoken/20150401-02.html"
+   }
+  ]
+ },
+ {
+  "id": "gakusei-nofu-tokurei",
+  "term": "学生納付特例制度",
+  "en": "Special payment system for students",
+  "field": "年金",
+  "def": "学生納付特例制度とは、大学・短大・高校・専門学校などに在学する学生が申請し、家族の所得を問わず本人の前年所得が一定額以下の場合に、在学中の国民年金保険料の納付が猶予される制度のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「国民年金保険料の学生納付特例制度」",
+    "url": "https://www.nenkin.go.jp/service/kokunen/menjo/20150514.html"
+   },
+   {
+    "text": "e-Gov法令検索「国民年金法」第90条の3",
+    "url": "https://laws.e-gov.go.jp/law/334AC0000000141"
+   }
+  ]
+ },
+ {
+  "id": "tsuino",
+  "term": "追納",
+  "en": "Retroactive payment",
+  "field": "年金",
+  "def": "追納とは、国民年金保険料の免除・納付猶予・学生納付特例の承認を受けた期間の保険料を、追納の承認を受けた月の前10年以内の分に限って後から納め、老齢基礎年金の額を満額に近づける制度のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「国民年金保険料の追納制度」",
+    "url": "https://www.nenkin.go.jp/service/kokunen/menjo/20150331.html"
+   },
+   {
+    "text": "e-Gov法令検索「国民年金法」第94条",
+    "url": "https://laws.e-gov.go.jp/law/334AC0000000141"
+   }
+  ]
+ },
+ {
+  "id": "shitsugyo-tokurei-menjo",
+  "term": "失業等による特例免除",
+  "en": "Special exemption due to unemployment",
+  "field": "年金",
+  "def": "失業等による特例免除とは、失業・倒産・事業の廃止などの事実が書類で確認できるときに、失業等をした本人の前年所得にかかわらず、国民年金保険料の免除や納付猶予の審査を受けられる特例のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「国民年金保険料の免除制度・納付猶予制度」",
+    "url": "https://www.nenkin.go.jp/service/kokunen/menjo/20150428.html"
+   }
+  ]
+ },
+ {
+  "id": "izoku-kiso-nenkin",
+  "term": "遺族基礎年金",
+  "en": "Survivors' Basic Pension",
+  "field": "年金",
+  "def": "遺族基礎年金とは、国民年金に入っていた人などが亡くなったとき、その人に生計を維持されていた子のある配偶者か子（18歳になった年度の3月31日まで、障害等級1級・2級なら20歳未満）が受け取る年金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「遺族基礎年金（受給要件・対象者・年金額）」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/izokunenkin/jukyu-yoken/20150401-04.html"
+   }
+  ]
+ },
+ {
+  "id": "izoku-kosei-nenkin",
+  "term": "遺族厚生年金",
+  "en": "Survivors' Employees' Pension",
+  "field": "年金",
+  "def": "遺族厚生年金とは、厚生年金に入っていた人などが亡くなったとき、生計を維持されていた遺族のうち順位のいちばん高い人が受け取る、亡くなった人の老齢厚生年金の報酬比例部分の4分の3を額とする年金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「遺族厚生年金（受給要件・対象者・年金額）」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/izokunenkin/jukyu-yoken/20150424.html"
+   }
+  ]
+ },
+ {
+  "id": "kafu-nenkin",
+  "term": "寡婦年金",
+  "en": "Widow's pension",
+  "field": "年金",
+  "def": "寡婦年金とは、国民年金の第1号被保険者として保険料を納めた期間と免除期間が10年以上ある夫が亡くなったとき、10年以上婚姻関係（事実上の婚姻関係を含む）が続き生計を維持されていた妻に、60歳から65歳になるまで支給される年金のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「寡婦年金」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/sonota-kyufu/1go-dokuji/20140422-02.html"
+   }
+  ]
+ },
+ {
+  "id": "dai2go-hihokensha",
+  "term": "第2号被保険者（介護保険）",
+  "en": "Category 2 insured person (long-term care insurance)",
+  "field": "介護",
+  "def": "第2号被保険者とは、介護保険の被保険者のうち、市区町村に住所がある40歳以上65歳未満の医療保険加入者のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（9条）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   }
+  ]
+ },
+ {
+  "id": "tokutei-shippei",
+  "term": "特定疾病（介護保険）",
+  "en": "Specified diseases (long-term care insurance)",
+  "field": "介護",
+  "def": "特定疾病とは、40〜64歳の第2号被保険者が介護保険のサービスを受けられる原因として政令で定められた、加齢に伴って生じる心身の変化に起因する16の病気のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（7条3項）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   },
+   {
+    "text": "厚生労働省「介護保険制度について」（リーフレット）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001238058.pdf"
+   }
+  ]
+ },
+ {
+  "id": "kogaku-kaigo-service-hi",
+  "term": "高額介護サービス費",
+  "en": "High-cost long-term care service benefit",
+  "field": "介護",
+  "def": "高額介護サービス費とは、ひと月に支払った介護サービスの自己負担の合計が所得に応じた上限額を超えたとき、市区町村への申請により超えた分が介護保険から支給されるしくみのことです。要支援の人には、同じしくみの高額介護予防サービス費があります。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（51条・61条）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   },
+   {
+    "text": "厚生労働省 介護サービス情報公表システム「サービスにかかる利用料」",
+    "url": "https://www.kaigokensaku.mhlw.go.jp/commentary/fee.html"
+   }
+  ]
+ },
+ {
+  "id": "shujii-ikensho",
+  "term": "主治医意見書",
+  "en": "Attending physician's opinion",
+  "field": "介護",
+  "def": "主治医意見書とは、要介護認定のために、市区町村の依頼を受けた主治医（かかりつけ医）が、本人の病気やけがの状況などについて医学的な立場から書く意見書のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「介護保険制度について」（リーフレット）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001238058.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「介護保険法」第27条",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   }
+  ]
+ },
+ {
+  "id": "kaigo-nintei-shinsakai",
+  "term": "介護認定審査会",
+  "en": "Long-term care certification committee",
+  "field": "介護",
+  "def": "介護認定審査会とは、市区町村に置かれ、保健・医療・福祉の学識経験者が、認定調査の結果と主治医意見書をもとに、介護がどのくらい必要かを審査・判定する機関のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」第14条・第27条",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   },
+   {
+    "text": "厚生労働省「介護保険制度について」（リーフレット）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001238058.pdf"
+   }
+  ]
+ },
+ {
+  "id": "care-plan",
+  "term": "ケアプラン",
+  "en": "Care plan",
+  "field": "介護",
+  "def": "ケアプランとは、要介護・要支援の人が、どの介護サービスをどう使うかをまとめた計画（介護サービス計画・介護予防サービス計画）のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「介護保険制度について」（リーフレット）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001238058.pdf"
+   }
+  ]
+ },
+ {
+  "id": "shunin-kaigo-shien-senmonin",
+  "term": "主任介護支援専門員",
+  "en": "Chief care manager",
+  "field": "介護",
+  "def": "主任介護支援専門員とは、介護支援専門員（ケアマネジャー）のうち主任介護支援専門員研修を修了した人で、地域包括支援センターに置かれる専門職の1つのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法施行規則」（第140条の66）",
+    "url": "https://laws.e-gov.go.jp/law/411M50000100036"
+   },
+   {
+    "text": "厚生労働省「地域包括支援センターの概要」",
+    "url": "https://www.mhlw.go.jp/content/12300000/001671185.pdf"
+   }
+  ]
+ },
+ {
+  "id": "kenri-yogo",
+  "term": "権利擁護",
+  "en": "Advocacy",
+  "field": "介護",
+  "def": "権利擁護とは、高齢者が尊厳ある生活を送れるよう、成年後見制度の活用促進や高齢者虐待への対応などを行う、地域包括支援センターの仕事のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（第115条の45第2項第2号）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   },
+   {
+    "text": "厚生労働省「地域包括支援センターの概要」",
+    "url": "https://www.mhlw.go.jp/content/12300000/001671185.pdf"
+   }
+  ]
+ },
+ {
+  "id": "sogo-sodan-shien",
+  "term": "総合相談支援",
+  "en": "Comprehensive consultation support",
+  "field": "介護",
+  "def": "総合相談支援とは、地域の高齢者や家族介護者の相談に初期段階から継続的・専門的に応じ、地域のさまざまなサービスなどにつなげる、地域包括支援センターの仕事のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（第115条の45第2項第1号）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   },
+   {
+    "text": "厚生労働省「地域包括支援センターの概要」",
+    "url": "https://www.mhlw.go.jp/content/12300000/001671185.pdf"
+   }
+  ]
+ },
+ {
+  "id": "nenkin-jimusho",
+  "term": "年金事務所",
+  "en": "Pension office",
+  "field": "年金",
+  "def": "年金事務所とは、日本年金機構の窓口で、年金の受け取りや国民年金の加入・納付に関する相談と手続きを受け付ける事務所のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "日本年金機構「全国の相談・手続き窓口」",
+    "url": "https://www.nenkin.go.jp/section/soudan/index.html"
+   }
+  ]
+ },
+ {
+  "id": "sogo-rodo-sodan-corner",
+  "term": "総合労働相談コーナー",
+  "en": "Comprehensive labor consultation corner",
+  "field": "仕事",
+  "def": "総合労働相談コーナーとは、解雇や賃金の引き下げ、いじめ・嫌がらせなど職場のトラブルを、予約なし・無料で相談できる、都道府県労働局や労働基準監督署の中などに置かれた窓口のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「総合労働相談コーナーのご案内」",
+    "url": "https://www.mhlw.go.jp/general/seido/chihou/kaiketu/soudan.html"
+   }
+  ]
+ },
+ {
+  "id": "gyosei-tetsuzuki-ho",
+  "term": "行政手続法",
+  "en": "Administrative Procedure Act",
+  "field": "手続き",
+  "def": "行政手続法とは、処分・行政指導・届出などの手続きについて共通のルールを定めた法律で、申請が役所の事務所に届いたら遅滞なく審査を始めることなどを定めたもののことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「行政手続法」",
+    "url": "https://laws.e-gov.go.jp/law/405AC0000000088"
+   }
+  ]
+ },
+ {
+  "id": "doko-shien",
+  "term": "同行支援",
+  "en": "Accompanying support",
+  "field": "手続き",
+  "def": "同行支援とは、自立相談支援機関の支援員などが、相談の「たらい回し」にならないよう、必要に応じて本人と一緒にほかの窓口や機関へ出向いて支える支援のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "厚生労働省「自立相談支援事業の手引き」",
+    "url": "https://www.mhlw.go.jp/content/001472177.pdf"
+   }
+  ]
+ },
+ {
+  "id": "kyoji",
+  "term": "教示",
+  "en": "Notice of appeal rights",
+  "field": "手続き",
+  "def": "教示とは、行政庁が不服申立てのできる処分をするときに、不服申立てができることと、その出し先や期間を書面で相手に知らせることのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「行政不服審査法」（第82条）",
+    "url": "https://laws.e-gov.go.jp/law/426AC0000000068"
+   },
+   {
+    "text": "総務省「行政不服審査法パンフレット（詳細版）」",
+    "url": "https://www.soumu.go.jp/main_content/000835680.pdf"
+   }
+  ]
+ },
+ {
+  "id": "gyosei-fufuku-shinsaho",
+  "term": "行政不服審査法",
+  "en": "Administrative Complaint Review Act",
+  "field": "手続き",
+  "def": "行政不服審査法とは、行政庁の処分などに不服がある人が、簡易迅速かつ公正な手続きで審査請求などの不服申立てをするしくみを定めた法律のことです。全面的に見直された今の法律は2016年4月1日に施行されました。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「行政不服審査法」（第1条）",
+    "url": "https://laws.e-gov.go.jp/law/426AC0000000068"
+   },
+   {
+    "text": "総務省「行政不服審査法の見直しの経緯など」",
+    "url": "https://www.soumu.go.jp/main_sosiki/gyoukan/kanri/fufuku/fufukukeii.html"
+   }
+  ]
+ },
+ {
+  "id": "shakai-hoken-shinsakan",
+  "term": "社会保険審査官",
+  "en": "Social Insurance Examiner",
+  "field": "手続き",
+  "def": "社会保険審査官とは、各地方厚生局に置かれ、健康保険や国民年金・厚生年金保険の処分に不服がある人からの審査請求を扱う担当者のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会保険審査官及び社会保険審査会法」（第1条）",
+    "url": "https://laws.e-gov.go.jp/law/328AC0000000206"
+   },
+   {
+    "text": "日本年金機構「審査請求・再審査請求（不服申立て）」",
+    "url": "https://www.nenkin.go.jp/service/jukyu/seido/kyotsu/fufuku/20140709.html"
+   }
+  ]
+ },
+ {
+  "id": "houterasu",
+  "term": "法テラス（日本司法支援センター）",
+  "en": "Japan Legal Support Center",
+  "field": "手続き",
+  "def": "法テラス（日本司法支援センター）とは、総合法律支援法にもとづき、法的なトラブルの解決に必要な情報やサービスを届けるために国が設立した法人のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "法テラス「法テラス（日本司法支援センター）とは」",
+    "url": "https://www.houterasu.or.jp/site/about-houterasu/houterasutoha.html"
+   },
+   {
+    "text": "e-Gov法令検索「総合法律支援法」",
+    "url": "https://laws.e-gov.go.jp/law/416AC0000000074"
+   }
+  ]
+ },
+ {
+  "id": "minji-horitsu-fujo",
+  "term": "民事法律扶助",
+  "en": "Civil legal aid",
+  "field": "手続き",
+  "def": "民事法律扶助とは、経済的に余裕のない人が法的なトラブルにあったときに、法テラスが無料の法律相談や弁護士・司法書士の費用の立替えを行うしくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "法テラス「民事法律扶助業務」",
+    "url": "https://www.houterasu.or.jp/site/about-houterasu/minjihouritsufujo.html"
+   },
+   {
+    "text": "e-Gov法令検索「総合法律支援法」（第30条第1項第2号）",
+    "url": "https://laws.e-gov.go.jp/law/416AC0000000074"
+   }
+  ]
+ },
+ {
+  "id": "sharoushi",
+  "term": "社会保険労務士",
+  "en": "Labor and social security attorney",
+  "field": "仕事",
+  "def": "社会保険労務士とは、社会保険労務士法にもとづき、労働や社会保険・年金に関する法令の書類作成や手続き、相談を仕事として行う専門家のことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会保険労務士法」（第2条）",
+    "url": "https://laws.e-gov.go.jp/law/343AC1000000089"
+   },
+   {
+    "text": "全国社会保険労務士会連合会「社労士に相談する」",
+    "url": "https://www.shakaihokenroumushi.jp/consultation/"
+   },
+   {
+    "text": "全国社会保険労務士会連合会「年金の相談をしたい」",
+    "url": "https://www.shakaihokenroumushi.jp/consultation/annuity/"
+   }
+  ]
+ },
+ {
+  "id": "keizoku-kyufu",
+  "term": "資格喪失後の継続給付",
+  "en": "Continued benefit after loss of insured status",
+  "field": "医療",
+  "def": "資格喪失後の継続給付とは、退職日まで続けて1年以上健康保険に加入し（任意継続の期間などを除く）、退職日に傷病手当金を受けているか受けられる状態の人が、退職後も引き続き傷病手当金を受け取れることです。いったん働ける状態になると、その後また働けなくなっても支給されません。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "全国健康保険協会（協会けんぽ）「病気やケガで会社を休んだとき（傷病手当金）」",
+    "url": "https://www.kyoukaikenpo.or.jp/benefit/injury_and_sickness_allowance/"
+   },
+   {
+    "text": "e-Gov法令検索「健康保険法」（第104条）",
+    "url": "https://laws.e-gov.go.jp/law/211AC0000000070"
+   }
+  ]
+ },
+ {
+  "id": "jukyu-kikan-encho",
+  "term": "受給期間の延長（雇用保険）",
+  "en": "Extension of the benefit period",
+  "field": "雇用",
+  "def": "受給期間の延長（雇用保険）とは、原則として離職の翌日から1年間の基本手当の受給期間中に、病気・けが・妊娠・出産・育児などで30日以上続けて働けなくなったとき、働けない日数だけ受給期間を延ばせる（延長は最長3年）しくみのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "ハローワークインターネットサービス「基本手当について」",
+    "url": "https://www.hellowork.mhlw.go.jp/insurance/insurance_basicbenefit.html"
+   },
+   {
+    "text": "e-Gov法令検索「雇用保険法」（第20条）",
+    "url": "https://laws.e-gov.go.jp/law/349AC0000000116"
+   }
+  ]
+ },
+ {
+  "id": "kofu",
+  "term": "公布",
+  "en": "Promulgation",
+  "field": "手続き",
+  "def": "公布とは、成立した法律や政令などを官報に載せて、広く世の中に知らせる手続きのことです。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「官報の発行に関する法律」（第3条）",
+    "url": "https://laws.e-gov.go.jp/law/505AC0000000085"
+   },
+   {
+    "text": "e-Gov法令検索「法の適用に関する通則法」（第2条）",
+    "url": "https://laws.e-gov.go.jp/law/418AC0000000078"
+   }
+  ]
+ },
+ {
+  "id": "shikobi",
+  "term": "施行日",
+  "en": "Effective date",
+  "field": "手続き",
+  "def": "施行日とは、法律などが実際に効き目を持ち、使われ始める日のことです。法律は原則として公布の日から起算して20日を経過した日に施行されますが、法律で別の施行期日を定めることもできます。",
+  "date": "2026-10-05",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「法の適用に関する通則法」（第2条）",
+    "url": "https://laws.e-gov.go.jp/law/418AC0000000078"
+   }
+  ]
+ }
+]

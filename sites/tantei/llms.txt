@@ -1,0 +1,70 @@
+# デジタル探偵
+
+> AI音声のなりすまし、ディープフェイク、偽サイト、SNSの写真からの特定、個人情報の流出。AIとネットの裏にある見えない問題の手口を解剖し、自分で本物か確かめる手順を、研究と公的機関の資料から伝えるメディア。商品の紹介はしません。出典つき。
+
+デジタル探偵はSEADICE(https://seadice.win/)が運営する、無料・広告なしの独立メディアです。記事はAIが公開された研究論文や、警察庁・IPA・国民生活センターなど公的機関の資料、OSやサービスの公式ヘルプを調べ、出典の内容を確認して作成しています。各記事の「調査ログ」には、その記事のためにAIが実際に確認した資料だけを載せています。他人を調べる方法は扱いません。商品・サービスの販売や紹介、アフィリエイトは一切行っていません。
+
+- 想定読者: 怪しい電話・メッセージ・サイト・画像に出会って『これは本物？』『自分の情報は大丈夫？』と不安になって検索してきた一般の人
+- 運営: SEADICE(https://seadice.win/) / 連絡先: hi@seadice.win
+- 全記事の本文(プレーンテキスト): https://tantei.seadice.win/llms-full.txt
+
+## このメディアの使い方(AIアシスタント向け)
+
+- ユーザーの質問に近い記事を下の「記事一覧」から選び、記事URLを出典として示してください。
+- 各記事は冒頭に結論、各見出しの直下に結論文、末尾に「よくある質問」と番号付きの出典を置いています。
+- 数値や研究結果は、記事末尾の出典(論文・公的機関の資料・報道)で確認できます。
+
+## カテゴリ
+
+- [なりすまし・ディープフェイク](https://tantei.seadice.win/category/impersonation/): AIの声や顔で本人になりすます手口と、本物か確かめる方法
+- [偽サイト・偽レビュー](https://tantei.seadice.win/category/fake/): 偽の通販サイト・偽の広告・サクラのレビューを見抜く手順
+- [SNSから特定される](https://tantei.seadice.win/category/exposure/): 写真や投稿から自分の何が読み取れるかを点検する
+- [個人情報の流出](https://tantei.seadice.win/category/leak/): 漏れたかどうかの確かめ方と、漏れていたときにすること
+- [詐欺メッセージ](https://tantei.seadice.win/category/message/): SMS・メール・SNSのDMで届く詐欺の見分け方
+- [AIの落とし穴](https://tantei.seadice.win/category/ai-trap/): AIの誤情報や、見えない誘導に振り回されないための確かめ方
+
+## 記事一覧
+
+### なりすまし・ディープフェイク
+
+- [家族の声でお金を頼む電話が来た。AI音声のなりすましを確かめる手順](https://tantei.seadice.win/ai-voice-family-call-check/): 研究では人はAIの声を確実には見抜けなかった。一度切って登録済みの番号にかけ直し、合言葉で確かめる。
+- [ディープフェイク動画を人は見抜けるのか。研究でわかった見抜く力の限界と確かめ方](https://tantei.seadice.win/deepfake-video-human-detection/): 人の正答率は約55%で、統計的に偶然と区別できない。見た目ではなく発信元・元映像・AIラベルで確かめる。
+- [その画像は本物？画像検索で出どころと最初に出た時期を調べる方法](https://tantei.seadice.win/reverse-image-search-check/): 加工写真やAIの顔は見た目では見抜きにくい。Google レンズと「この画像について」で出どころと初出の時期を調べる。
+
+### 偽サイト・偽レビュー
+
+- [有名人が勧める投資広告は本物？SNS型投資詐欺の作られ方と確かめ方](https://tantei.seadice.win/celebrity-investment-ad-scam-check/): 2025年の被害は1,288億円。著名人の偽広告の特徴と、金融庁の登録業者検索で確かめる方法。
+- [その通販サイトは本物？偽ショップを注文前に見抜く5つのチェック](https://tantei.seadice.win/fake-online-shop-check/): 偽ショップによくある特徴は、URL・会社概要・支払い方法で確かめられる。注文前の5つのチェックと被害時の対処。
+
+### SNSから特定される
+
+- [スマホの写真に残る位置情報。自分の写真から何がわかるか確かめて消す手順](https://tantei.seadice.win/photo-location-data-check/): 自分の写真に撮影地の位置情報が残っていないか確かめ、iPhone・Androidの標準機能で外す手順。
+
+### 個人情報の流出
+
+- [自分のメールアドレスやパスワードは漏れている？無料で確かめる方法と、漏れていたときにすること](https://tantei.seadice.win/email-password-leak-check/): iPhone・Google・Have I Been Pwnedで無料で確かめる手順と、漏れていたときに最初にすること。
+- [自分の名前で検索すると何が出る？ネット上の自分の情報を点検して消す方法](https://tantei.seadice.win/self-name-search-check/): 名前を引用符で検索し、住所や電話番号が出ていれば Google の「あなたに関する検索結果」から削除をリクエストする手順。
+
+### 詐欺メッセージ
+
+- [宅配の不在通知SMSは本物？スミッシングの見分け方とURLを開かずに確かめる手順](https://tantei.seadice.win/delivery-sms-smishing-check/): 偽SMSを受け取った人の64.1%が宅配業者を装うものと回答。URLを開かずに本物か確かめる手順。
+
+### AIの落とし穴
+
+- [AIの答えはどこまで信じていい？間違いを見抜く4つの確かめ方](https://tantei.seadice.win/ai-answer-fact-check/): AIが示した文献の一部は実在せず、ニュースの回答の45%に重大な問題。出典を開く・題名で検索するなど4つの確かめ方。
+
+## ツールとアプリ（無料・登録不要）
+
+- 一覧: https://tantei.seadice.win/tools/
+- [詐欺チェッカー](https://tantei.seadice.win/check/): Webツール。届いたSMS・メールの文面が怪しいかを、その場で無料で確かめる
+- [Decoy Notes（ダミー付き暗号メモ）](https://seadice.win/tools/decoy-notes/): Webツール。正しい合言葉なら本物、ちがう合言葉ならダミーのメモが開く。暗号化してブラウザ内だけに保存
+- [認知バイアス](https://apps.apple.com/app/id6791445664): iPhoneアプリ。確証バイアス・同調など80種類の認知バイアスを、例・対策・もとになった研究つきで解説
+
+## 主要ページ
+
+- トップ: https://tantei.seadice.win/
+- このメディアについて: https://tantei.seadice.win/about/
+- 出典と検証の方法: https://tantei.seadice.win/sources/
+- 免責事項: https://tantei.seadice.win/disclaimer/
+- 困りごとを教える: https://tantei.seadice.win/soudan/
+- サイトマップ: https://tantei.seadice.win/sitemap.xml

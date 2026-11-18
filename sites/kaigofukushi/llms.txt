@@ -1,0 +1,94 @@
+# ゼロから学ぶ介護福祉士
+
+> ゼロから学ぶ介護福祉士は、介護福祉士の仕事と国家試験の11科目群を無料で独学できる学習サイトです。尊厳と自立、介護保険、生活支援技術、認知症、障害、医療的ケア、介護過程までを全12章の講座と用語辞典で学べます。登録不要。
+
+ゼロから学ぶ介護福祉士はSEADICE(https://seadice.win/)が運営する、介護福祉士の仕事と介護福祉士国家試験を無料で独学できる学習サイトです。登録不要・無料。
+受験資格のルートと試験のしくみ・尊厳と自立・介護保険などの社会の理解・コミュニケーション・生活支援技術・こころとからだのしくみ・発達と老化・認知症・障害・医療的ケア・介護過程・介護の現場の課題を学ぶ無料講座「ゼロから学ぶ介護福祉士入門」（全12章）と、介護用語辞典（160語）を掲載しています。
+本文は社会福祉士及び介護福祉士法・介護保険法などの法令、厚生労働省などの一次情報をもとに日本語で独自に書いており、各ページに出典があります。確認問題はオリジナルで、過去問は使っていません。試験を実施する団体とは関係ありません。
+
+## 主要ページ
+
+- トップ: https://kaigofukushi.seadice.win/
+- 無料講座「ゼロから学ぶ介護福祉士入門」: https://kaigofukushi.seadice.win/course/
+- 介護用語辞典: https://kaigofukushi.seadice.win/glossary/
+- このサイトについて: https://kaigofukushi.seadice.win/about/
+- 出典と検証の方法: https://kaigofukushi.seadice.win/sources/
+
+## 講座の目次
+
+- 第1章 介護福祉士とは・試験のしくみ: 介護福祉士は何をする国家資格か。誠実義務・秘密保持などの決まり、受験資格のルートと実務者研修、11科目群とパート合格のしくみ。
+  - 1-1 介護福祉士とは？法律が定める仕事と「名称独占」の意味: https://kaigofukushi.seadice.win/course/what-is-kaigofukushishi/
+  - 1-2 介護福祉士の義務は？誠実義務・秘密保持・連携・資質向上: https://kaigofukushi.seadice.win/course/kaigofukushishi-duties/
+  - 1-3 受験資格のルートは？実務経験3年と実務者研修: https://kaigofukushi.seadice.win/course/eligibility-routes/
+  - 1-4 介護福祉士国家試験のしくみは？11科目群とパート合格: https://kaigofukushi.seadice.win/course/kaigo-exam-system/
+  - 1-5 働きながら合格するには？科目の順番と学習計画: https://kaigofukushi.seadice.win/course/study-plan-while-working/
+- 第2章 人間の尊厳と自立、介護の基本: 介護の土台になる考え方。尊厳の保持と自立支援、生活をとらえる視点、介護福祉士の倫理、身体拘束をしない介護と事故の防止。
+  - 2-1 尊厳の保持と自立支援とは？介護は何のためにあるのか: https://kaigofukushi.seadice.win/course/dignity-and-independence/
+  - 2-2 ICF（国際生活機能分類）とは？生活をまるごととらえる見方: https://kaigofukushi.seadice.win/course/icf-whole-life-view/
+  - 2-3 介護福祉士の倫理とは？倫理綱領と多職種のチームケア: https://kaigofukushi.seadice.win/course/care-ethics-and-teamwork/
+  - 2-4 身体拘束をしない介護とは？緊急やむを得ない場合の3要件: https://kaigofukushi.seadice.win/course/restraint-free-care/
+  - 2-5 介護の事故と感染をどう防ぐ？リスクマネジメントの基本: https://kaigofukushi.seadice.win/course/accident-and-infection-prevention/
+- 第3章 社会の理解: 介護保険のしくみ、要介護認定とサービス、地域包括ケアと地域包括支援センター、障害者総合支援法、高齢者虐待防止と権利擁護。
+  - 3-1 介護保険とは？誰が入り、誰がサービスを使えるのか: https://kaigofukushi.seadice.win/course/kaigo-insurance-basics/
+  - 3-2 要介護認定とケアプランとは？ケアマネジャーの役割: https://kaigofukushi.seadice.win/course/care-certification-and-plan/
+  - 3-3 地域包括支援センターとは？地域で支えるしくみ: https://kaigofukushi.seadice.win/course/community-care-and-support-center/
+  - 3-4 障害者総合支援法とは？障害福祉サービスと障害支援区分: https://kaigofukushi.seadice.win/course/disability-support-services/
+  - 3-5 高齢者虐待とは？5つの種類と通報義務、権利擁護: https://kaigofukushi.seadice.win/course/elder-abuse-and-rights/
+- 第4章 人間関係とコミュニケーション: 利用者・家族との信頼関係、傾聴と言葉以外のコミュニケーション、障害に応じた伝え方、チームでの報告・連絡・相談と記録。
+  - 4-1 信頼関係はどうつくる？受容・共感・傾聴の基本: https://kaigofukushi.seadice.win/course/trust-and-active-listening/
+  - 4-2 言葉以外で何が伝わる？表情・距離・ふれ方: https://kaigofukushi.seadice.win/course/nonverbal-communication/
+  - 4-3 障害に応じた伝え方は？視覚・聴覚・失語症・認知症: https://kaigofukushi.seadice.win/course/communication-by-disability/
+  - 4-4 チームでどう伝える？報告・連絡・相談と介護記録: https://kaigofukushi.seadice.win/course/team-reporting-and-records/
+- 第5章 生活支援技術: 移動・移乗、食事、入浴・清潔、排泄、着替え、睡眠、人生の最終段階の介護。本人の力を生かし、安全で負担の少ない介助の考え方。
+  - 5-1 移動と移乗の介助とは？抱え上げずに双方の負担を減らす: https://kaigofukushi.seadice.win/course/transfer-and-body-mechanics/
+  - 5-2 食事の介助とは？誤嚥を防ぐ姿勢と食べやすい形: https://kaigofukushi.seadice.win/course/eating-assistance-and-aspiration/
+  - 5-3 入浴と清潔の介助とは？安全と気持ちよさを両立する: https://kaigofukushi.seadice.win/course/bathing-and-hygiene-assistance/
+  - 5-4 排泄の介助とは？自尊心を守り、トイレでの自立を支える: https://kaigofukushi.seadice.win/course/toileting-assistance-and-dignity/
+  - 5-5 着替えと身じたくの介助とは？できることを生かす支え方: https://kaigofukushi.seadice.win/course/dressing-and-grooming-assistance/
+  - 5-6 人生の最終段階の介護とは？人生会議（ACP）と家族への支援: https://kaigofukushi.seadice.win/course/end-of-life-care-and-acp/
+- 第6章 こころとからだのしくみ: 介護に必要な人体のしくみ。食べる・出す・眠る・動くのしくみと、こころの働き、死を迎える過程。
+  - 6-1 こころのしくみとは？欲求・感情と、不安から心を守るはたらき: https://kaigofukushi.seadice.win/course/needs-emotions-and-defense-mechanisms/
+  - 6-2 食べて飲み込むしくみとは？摂食嚥下の5期と、気道を守るはたらき: https://kaigofukushi.seadice.win/course/eating-and-swallowing-mechanism/
+  - 6-3 出すしくみとは？尿と便をためて、出すまでのからだの働き: https://kaigofukushi.seadice.win/course/urination-and-defecation-mechanism/
+  - 6-4 眠るしくみとは？レム睡眠・ノンレム睡眠と、年齢による変化: https://kaigofukushi.seadice.win/course/sleep-mechanism-and-aging/
+  - 6-5 死を迎えるときのからだとこころとは？5段階モデルと最期の変化: https://kaigofukushi.seadice.win/course/dying-process-body-and-mind/
+- 第7章 発達と老化の理解: 人の一生の発達と、老化によるからだとこころの変化、高齢者に多い病気、フレイルと介護予防。
+  - 7-1 人の一生の発達とは？老年期に向き合う課題: https://kaigofukushi.seadice.win/course/lifespan-development-and-old-age/
+  - 7-2 老化でからだとこころはどう変わる？衰える力と保たれる力: https://kaigofukushi.seadice.win/course/aging-changes-body-and-mind/
+  - 7-3 高齢者に多い病気とは？介護職が気づきたいサイン: https://kaigofukushi.seadice.win/course/common-diseases-and-warning-signs/
+  - 7-4 フレイルとは？健康と要介護の間で、元に戻れる段階: https://kaigofukushi.seadice.win/course/frailty-and-care-prevention/
+- 第8章 認知症の理解: 認知症とは何か、原因となる病気、記憶障害などの症状と行動・心理症状、本人の視点に立ったケアと家族への支援、認知症基本法。
+  - 8-1 認知症とは？加齢によるもの忘れとの違いと認知症基本法: https://kaigofukushi.seadice.win/course/what-is-dementia/
+  - 8-2 認知症の原因となる病気とは？アルツハイマー型など4つのタイプ: https://kaigofukushi.seadice.win/course/dementia-causes-and-types/
+  - 8-3 認知症の中核症状とBPSDとは？記憶障害と行動・心理症状: https://kaigofukushi.seadice.win/course/core-symptoms-and-bpsd/
+  - 8-4 パーソン・センタード・ケアとは？本人の視点に立つ認知症ケア: https://kaigofukushi.seadice.win/course/person-centered-dementia-care/
+  - 8-5 認知症の人の家族を支えるには？認知症カフェと支援のしくみ: https://kaigofukushi.seadice.win/course/supporting-dementia-families/
+- 第9章 障害の理解: 障害のとらえ方（社会的障壁と社会モデル）、身体・知的・精神・発達障害などの特性と支援、障害の受容と家族への支援。
+  - 9-1 障害とは何か？社会的障壁と「社会モデル」の考え方: https://kaigofukushi.seadice.win/course/disability-and-social-model/
+  - 9-2 身体障害とは？障害の種類と身体障害者手帳、支援のポイント: https://kaigofukushi.seadice.win/course/physical-disability-and-support/
+  - 9-3 知的障害・精神障害・発達障害とは？定義と手帳、支援のポイント: https://kaigofukushi.seadice.win/course/intellectual-mental-developmental-disabilities/
+  - 9-4 障害の受容とは？心の揺れに寄り添う支援と、家族への支援: https://kaigofukushi.seadice.win/course/disability-acceptance-and-family-support/
+- 第10章 医療的ケア: 介護福祉士が医師の指示のもとで行う喀痰吸引と経管栄養。法律上の位置づけ、安全な実施と感染予防、緊急時の対応。
+  - 10-1 医療的ケアとは？介護福祉士が行える喀痰吸引等: https://kaigofukushi.seadice.win/course/what-is-medical-care/
+  - 10-2 喀痰吸引の基礎とは？たんがたまる理由と安全のポイント: https://kaigofukushi.seadice.win/course/suctioning-basics-and-safety/
+  - 10-3 経管栄養の基礎とは？逆流と誤嚥を防ぐ安全のポイント: https://kaigofukushi.seadice.win/course/tube-feeding-basics-and-safety/
+- 第11章 介護過程: 情報を集めて課題をとらえ、計画を立て、実施して評価する介護過程。アセスメントの方法と、チームで計画を共有するしかた。
+  - 11-1 介護過程とは？なぜ計画的に介護するのか: https://kaigofukushi.seadice.win/course/what-is-care-process/
+  - 11-2 アセスメントとは？情報を集め、生活課題をとらえる: https://kaigofukushi.seadice.win/course/care-assessment/
+  - 11-3 介護計画の立案・実施・評価とは？目標を立てて振り返る: https://kaigofukushi.seadice.win/course/care-plan-implementation-evaluation/
+  - 11-4 事例で考える介護過程。食堂に来なくなったFさん: https://kaigofukushi.seadice.win/course/care-process-case-study/
+- 第12章 介護の現場の課題: 介護人材の不足と働き方、介護離職と家族介護者の支援、施設での虐待を防ぐしくみ。介護福祉士が働き続けられる職場とは。
+  - 12-1 介護人材の不足はなぜ起きるのか？必要数と処遇改善: https://kaigofukushi.seadice.win/course/care-workforce-shortage/
+  - 12-2 家族介護者を支えるには？介護休業・介護休暇と相談先: https://kaigofukushi.seadice.win/course/family-caregivers-and-work/
+  - 12-3 施設での虐待を防ぐには？通報義務と職場の取り組み: https://kaigofukushi.seadice.win/course/preventing-facility-abuse/
+
+## SEADICE STUDYの他の講座
+
+- ゼロから学ぶ心理学: https://shinri.seadice.win/
+- ゼロから学ぶ貿易実務: https://boueki.seadice.win/
+- ゼロから学ぶ犯罪学: https://hanzaigaku.seadice.win/
+- ゼロから学ぶ保育士: https://hoikushi.seadice.win/
+
+## 運営
+
+- SEADICE: https://seadice.win/

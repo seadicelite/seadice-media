@@ -1,0 +1,106 @@
+{
+  "child-home-alone-safety-rules": [
+    [
+      "kosodate",
+      "smartphone-first-age-ownership-risk"
+    ],
+    [
+      "kosodate",
+      "location-tracking-app-trust"
+    ]
+  ],
+  "child-stranger-approach-after-school": [
+    [
+      "kosodate",
+      "online-gaming-strangers-chat-risk"
+    ],
+    [
+      "kosodate",
+      "sharenting-sns-photo-risk"
+    ]
+  ],
+  "safe-school-route-environment": [
+    [
+      "kosodate",
+      "location-tracking-app-trust"
+    ]
+  ],
+  "older-adults-fraud-psychology": [
+    [
+      "oya",
+      "parent-phone-scam-risk"
+    ]
+  ],
+  "door-to-door-inspection-scam": [
+    [
+      "oya",
+      "parent-door-to-door-sales-cooling-off"
+    ]
+  ],
+  "tech-support-scam-popup": [
+    [
+      "oya",
+      "parent-online-shopping-scam-trouble"
+    ]
+  ],
+  "fake-police-call-scam": [
+    [
+      "oya",
+      "parent-phone-scam-risk"
+    ]
+  ],
+  "burglar-target-selection-5-minutes": [
+    [
+      "hanzaigaku",
+      "bouhan-check/"
+    ]
+  ],
+  "window-glass-breaking-burglary": [
+    [
+      "hanzaigaku",
+      "bouhan-check/"
+    ]
+  ],
+  "vacation-empty-home-burglary": [
+    [
+      "hanzaigaku",
+      "bouhan-check/"
+    ]
+  ],
+  "home-invasion-robbery-at-home": [
+    [
+      "hanzaigaku",
+      "bouhan-check/"
+    ]
+  ],
+  "repeat-burglary-victimization": [
+    [
+      "hanzaigaku",
+      "bouhan-check/"
+    ]
+  ],
+  "why-burglary-declined-security": [
+    [
+      "hanzaigaku",
+      "bouhan-check/"
+    ]
+  ],
+  "burglary-daylight-darkness-risk": [
+    [
+      "hanzaigaku",
+      "bouhan-check/"
+    ]
+  ],
+  "burglary-seasonal-year-end-myth": [
+    [
+      "hanzaigaku",
+      "bouhan-check/"
+    ]
+  ],
+  "auto-lock-apartment-burglary": [
+    [
+      "hanzaigaku",
+      "bouhan-check/"
+    ]
+  ]
+}

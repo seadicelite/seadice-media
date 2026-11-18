@@ -1,0 +1,243 @@
+{
+  "sideIndex": true,
+ "enabled": true,
+  "readCheck": true,
+  "publish": "auto",
+  "slug": "uchu",
+  "siteType": "article",
+  "name": "宇宙の研究",
+  "path": "sites/uchu/",
+  "url": "https://uchu.seadice.win/",
+  "concept": "ブラックホール・ビッグバン・星と銀河・太陽系・系外惑星・宇宙探査について、論文と観測で「わかっていること」と「まだわかっていないこと」を、専門知識のない人にわかる言葉で分けて書くメディア。ビッグバンから宇宙をつくり直すシミュレーターを入口に置く",
+  "reader": "宇宙が好き・気になるが、専門知識はない人。ニュースで見た「ブラックホール」「ダークマター」が本当は何なのか、どこまでわかっているのかを知りたくて検索してくる",
+  "tone": "やさしい解説。中学生でもわかる言葉と身近な例えで、数字は出典つき。わかっていることは言い切り、仮説は仮説、まだわからないことは「わかっていない」と書く。誇張しない",
+  "tagline": "宇宙にはみちがある。",
+  "lead": "ブラックホール、ビッグバン、星と銀河、太陽系、系外惑星。論文と観測で確かめられたことを、むずかしい言葉を使わずに書きます。まだわかっていないことも、分けて書きます。",
+  "titleSuffix": "論文と観測でわかった宇宙をやさしく",
+  "description": "ブラックホールやビッグバンは、どこまでわかっているのか。論文と観測でわかったことと、まだわからないことを分けて、やさしい言葉で書く宇宙のメディア。出典つき・広告なし。",
+  "about": "記事はAIが論文（査読つきの学術誌）とNASA・ESA・JAXA・国立天文台など公的機関の資料を調べ、出典の内容を確認して作成しています。SEADICEが独自に観測・研究したものではありません。各記事の末尾に出典を掲載しています。",
+  "theme": {
+    "bg": "#0A0E16",
+    "card": "#121926",
+    "accent": "#E3B341",
+    "accent2": "#7FB2E5",
+    "border": "#26324A",
+    "text": "#E9EDF3",
+    "muted": "#A1ACBE",
+    "link": "#A9CBF0"
+  },
+  "categories": [
+    {
+      "name": "ブラックホール",
+      "id": "blackhole",
+      "color": "#E3B341",
+      "icon": "target",
+      "desc": "見えないのにどう見つけたのか。重力波・影の撮影・まだ解けない謎"
+    },
+    {
+      "name": "宇宙の始まりと終わり",
+      "id": "cosmology",
+      "color": "#E07A5F",
+      "icon": "repeat",
+      "desc": "ビッグバン・ダークマター・ダークエネルギー・宇宙の未来"
+    },
+    {
+      "name": "星と銀河",
+      "id": "stars",
+      "color": "#7FB2E5",
+      "icon": "eye",
+      "desc": "星はどう生まれて死ぬのか。天の川銀河とほかの銀河"
+    },
+    {
+      "name": "太陽系",
+      "id": "solar",
+      "color": "#81B29A",
+      "icon": "link",
+      "desc": "太陽・月・惑星・小惑星。いちばん身近な宇宙"
+    },
+    {
+      "name": "系外惑星と生命",
+      "id": "exoplanet",
+      "color": "#B39DDB",
+      "icon": "book",
+      "desc": "太陽系の外の惑星と、地球の外に生命はいるのかという問い"
+    },
+    {
+      "name": "宇宙探査",
+      "id": "exploration",
+      "color": "#9AA6B8",
+      "icon": "shield",
+      "desc": "望遠鏡・探査機・人が宇宙へ行くことでわかったこと"
+    },
+    {
+      "name": "星座と星空",
+      "id": "seiza",
+      "color": "#D9A6C8",
+      "icon": "eye",
+      "desc": "星座の由来・星座占いの研究・季節の星空。楽しく読めて、出典つき"
+    }
+  ],
+  "types": [
+    {
+      "id": "guide",
+      "label": "解説"
+    }
+  ],
+  "template": ".claude/commands/uchu-template.html",
+  "rulesFrom": ".claude/commands/uchu.md",
+  "relatedApps": "p/released-apps.json から学び系を選ぶ。合うものが無ければ載せない",
+  "postsPerRun": 1,
+  "layout": "magazine",
+  "extraNav": [
+    {
+      "path": "/timeline/",
+      "label": "宇宙の年表"
+    },
+    {
+      "path": "/moon-distance/",
+      "label": "もし月の距離が違ったら"
+    },
+    {
+      "path": "/sun-brightness/",
+      "label": "もし太陽の明るさが違ったら"
+    },
+    {
+      "path": "/simulator/",
+      "label": "宇宙をつくるシミュレーター"
+    },
+    {
+      "path": "/exoplanets/",
+      "label": "系外惑星 全件の一覧"
+    },
+    {
+      "path": "/tools/galaxy/",
+      "label": "銀河と星の一生"
+    },
+    {
+      "path": "/tools/planet/",
+      "label": "惑星と生命の一生"
+    }
+  ],
+  "faq": [
+    [
+      "宇宙の研究（uchu.seadice.win）はどんなサイトですか？",
+      "SEADICEが運営する、宇宙について論文と観測でわかっていることを、専門知識のない人向けにやさしく書くメディアです。わかっていることと、まだわかっていないことを分けて書き、全記事に出典を載せています。広告・登録はありません。"
+    ],
+    [
+      "記事の内容はどうやって確かめていますか？",
+      "査読つきの論文と、NASA・ESA・JAXA・国立天文台などの公的機関の資料を開いて、記事の数字や主張が出典に書かれていることを照合しています。確かめられなかった数字は書きません。"
+    ]
+  ],
+  "trust": [
+    [
+      "論文と観測にもとづく",
+      "査読つきの論文と公的機関の資料を開いて、数字と主張を照合しています。"
+    ],
+    [
+      "まだわからないことも書く",
+      "わかっていること・有力な仮説・まだわかっていないことを分けて書きます。"
+    ],
+    [
+      "広告・登録なし",
+      "無料で読めます。広告も、会員登録も、データの収集もありません。"
+    ]
+  ],
+  "extraCss": "body{background:var(--bg)} nav.top,nav{backdrop-filter:none;-webkit-backdrop-filter:none;background:var(--bg)} .nav-logo{background:none;-webkit-text-fill-color:var(--muted);color:var(--muted);font-size:12px;letter-spacing:.2em} h1{background:none;-webkit-text-fill-color:currentColor;color:var(--text)} .card,.about,.trust div,.faq details,.empty{border-radius:8px} .card:hover{transform:none;border-color:var(--accent)} .th{background:var(--card)} .trust div{border-top:2px solid var(--accent)}",
+  "topicQueue": [
+    "火星はなぜ赤いのか",
+    "太陽の黒点とは何か、11年周期",
+    "宇宙で一番大きい星は何か",
+    "ブラックホールの最新の写真、いて座A*の磁場",
+    "系外惑星の名前はどうつけるのか",
+    "月に水はあるのか",
+    "宇宙エレベーターは作れるのか",
+    "ダークマターの探索実験はどこまで進んだか",
+    "タイタンに湖があるのはなぜか",
+    "宇宙から地球はどう見えるのか、夜の光の観測"
+  ],
+  "toolbox": [
+    {
+      "name": "宇宙の年表",
+      "desc": "バーを動かすと、ビッグバンから10の100乗年後まで、その時の宇宙の温度と広がりぐあい、起きたと考えられていることが確かさの札つきで出る",
+      "href": "/timeline/",
+      "cats": [
+        "宇宙の始まりと終わり"
+      ]
+    },
+    {
+      "name": "もし月の距離が違ったら",
+      "desc": "月までの距離を変えると、潮の大きさ・1日の長さ・1か月・日食の起き方が計算で出る。地層の記録で答え合わせ",
+      "href": "/moon-distance/",
+      "cats": [],
+      "slugs": [
+        "moon-moving-away",
+        "if-moon-disappeared",
+        "moon-origin",
+        "eclipses",
+        "moon-phases",
+        "supermoon",
+        "leap-year-leap-second"
+      ]
+    },
+    {
+      "name": "もし太陽の明るさが違ったら",
+      "desc": "太陽の明るさを変えると、地球の温度の目安と生き物が住める範囲（ハビタブルゾーン）がどう動くかを計算。金星・地球・火星の位置と並べて見る",
+      "href": "/sun-brightness/",
+      "cats": [],
+      "slugs": [
+        "sun-future",
+        "earth-like-planets",
+        "venus-hot",
+        "mars-water",
+        "sunlight-journey",
+        "if-sun-blackhole"
+      ]
+    },
+    {
+      "name": "誕生日に太陽がいた星座チェッカー",
+      "desc": "誕生日を選ぶと、占いの星座と、その日に太陽が実際にいた星座（へびつかい座を含む13星座）を並べて出す。いわゆる「本当の星座」",
+      "href": "/zodiac-shift/",
+      "cats": [
+        "星座と星空"
+      ]
+    },
+    {
+      "name": "系外惑星 全6,451件の一覧",
+      "desc": "NASAの全件データを、近い順・大きさ・発見年で並べ替えて探せる表。地球くらいの大きさにも絞れる",
+      "href": "/exoplanets/",
+      "cats": [
+        "系外惑星と生命"
+      ]
+    },
+    {
+      "name": "惑星と生命の一生シミュレーター",
+      "desc": "惑星が生まれ、生き物が生まれて滅ぶまでを、わかっていることとわからないことを分けて見る",
+      "href": "/tools/planet/",
+      "cats": [
+        "系外惑星と生命",
+        "太陽系"
+      ]
+    },
+    {
+      "name": "銀河と星の一生シミュレーター",
+      "desc": "ビッグバンから星と惑星が生まれて消えるまでを、時計を進めながら見る",
+      "href": "/tools/galaxy/",
+      "cats": [
+        "星と銀河"
+      ]
+    },
+    {
+      "name": "宇宙をつくるシミュレーター",
+      "desc": "サイコロを振ると宇宙の性質が変わり、ビッグバンから星ができるか・宇宙が終わるまでを計算する",
+      "href": "/simulator/",
+      "cats": [
+        "宇宙の始まりと終わり",
+        "ブラックホール"
+      ]
+    }
+  ],
+  "dailyPick": {
+    "col": "odd",
+    "title": "今日の宇宙の意外な話"
+  }
+}

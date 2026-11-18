@@ -1,0 +1,80 @@
+# ゼロから学ぶ社会保障
+
+> ゼロから学ぶ社会保障は、困ったときに使える制度（社会保障）を無料で学べるサイトです。生活保護、雇用保険、高額療養費、児童扶養手当、障害年金、介護保険、窓口と申請のしかたまでを全12章の講座と用語辞典で学べます。登録不要。
+
+ゼロから学ぶ社会保障はSEADICE(https://seadice.win/)が運営する、困ったときに使える制度（社会保障）を無料で学べるサイトです。登録不要・無料。
+社会保障の全体像と申請主義・生活保護・生活困窮者自立支援制度・住居確保給付金・雇用保険・医療保険と高額療養費・労災保険・児童手当と児童扶養手当・障害年金・公的年金・介護保険・窓口と審査請求を学ぶ無料講座「ゼロから学ぶ社会保障入門」（全12章）と、社会保障用語辞典（138語）を掲載しています。
+本文は厚生労働省・日本年金機構・こども家庭庁・法令などの一次情報をもとに日本語で独自に書いており、各ページに出典があります。個別の受給の可否は判断しません。
+
+## 主要ページ
+
+- トップ: https://shakaihosho.seadice.win/
+- 無料講座「ゼロから学ぶ社会保障入門」: https://shakaihosho.seadice.win/course/
+- 社会保障用語辞典: https://shakaihosho.seadice.win/glossary/
+- 困りごとから制度を探す: https://shakaihosho.seadice.win/sagasu/（生活費、家賃、失業、病気、労災、子育て、障害、保険料、家族の死亡、介護など、困りごとを選ぶと、確かめたい制度と主な窓口、学べるレッスンがわかります。登録不要・無料。）
+- このサイトについて: https://shakaihosho.seadice.win/about/
+- 出典と検証の方法: https://shakaihosho.seadice.win/sources/
+
+## 講座の目次
+
+- 第1章 社会保障とは何か: 困ったときに使える制度の全体の地図。社会保険・公的扶助・社会福祉・保健医療の4つの柱と、自分で申請しないと始まらない「申請主義」。
+  - 1-1 社会保障とは何か。困ったときに使える制度の全体の地図: https://shakaihosho.seadice.win/course/what-is-social-security/
+  - 1-2 4つの柱は何が違う？社会保険・公的扶助・社会福祉・保健医療: https://shakaihosho.seadice.win/course/four-pillars/
+  - 1-3 申請主義とは？なぜ自分から申請しないと支援が始まらないのか: https://shakaihosho.seadice.win/course/application-principle/
+- 第2章 お金に困ったとき: 生活保護、生活困窮者自立支援制度、緊急小口資金などの貸付。生活費が足りないときに使える制度と相談先。
+  - 2-1 生活保護とは何か。誰が、どんなときに使えるのか: https://shakaihosho.seadice.win/course/what-is-seikatsu-hogo/
+  - 2-2 生活保護はどう申請するのか。福祉事務所と申請の権利: https://shakaihosho.seadice.win/course/seikatsu-hogo-application/
+  - 2-3 生活困窮者自立支援制度とは。生活保護の手前で相談できる窓口: https://shakaihosho.seadice.win/course/jiritsu-shien/
+  - 2-4 緊急小口資金などの貸付。すぐにお金が必要なとき: https://shakaihosho.seadice.win/course/emergency-loans/
+- 第3章 住まいに困ったとき: 家賃が払えない、住まいを失いそう、というときの住居確保給付金・公営住宅・生活保護の住宅扶助。
+  - 3-1 住居確保給付金とは。家賃を払えなくなりそうなときの支え: https://shakaihosho.seadice.win/course/jukyo-kakuho-kyufukin/
+  - 3-2 公営住宅とは。収入が少ない人のための住まい: https://shakaihosho.seadice.win/course/public-housing/
+  - 3-3 住まいを失ったとき。最初に相談する場所と使える制度: https://shakaihosho.seadice.win/course/losing-housing/
+- 第4章 仕事を失ったとき: 雇用保険の基本手当と、雇用保険を受けられない人のための求職者支援制度・職業訓練。
+  - 4-1 雇用保険の基本手当とは。失業したときに受け取れるお金: https://shakaihosho.seadice.win/course/koyo-hoken-kihon-teate/
+  - 4-2 離職理由で何が変わるのか。自己都合と会社都合: https://shakaihosho.seadice.win/course/rishoku-riyu/
+  - 4-3 求職者支援制度とは。雇用保険を受けられない人の職業訓練: https://shakaihosho.seadice.win/course/kyushokusha-shien/
+- 第5章 病気・けがのとき: 公的医療保険のしくみ、医療費が高額になったときの高額療養費、働けない間の傷病手当金。
+  - 5-1 公的医療保険とは。国民皆保険と加入する保険の種類: https://shakaihosho.seadice.win/course/kouteki-iryo-hoken/
+  - 5-2 高額療養費制度とは。医療費が高額になったときの上限: https://shakaihosho.seadice.win/course/kogaku-ryoyohi/
+  - 5-3 傷病手当金とは。病気で働けない間の生活を支えるお金: https://shakaihosho.seadice.win/course/shobyo-teatekin/
+- 第6章 働く人の安全網（労災保険）: 仕事中・通勤中のけがや病気を補償する労災保険。パートやアルバイトも対象になることと、請求の流れ。
+  - 6-1 労災保険とは。仕事中・通勤中のけがや病気への補償: https://shakaihosho.seadice.win/course/rosai-hoken/
+  - 6-2 労災はどう請求するのか。会社が協力しないときの相談先: https://shakaihosho.seadice.win/course/rosai-seikyu/
+- 第7章 子育て・ひとり親: 子どもを育てる家庭に届く児童手当、ひとり親家庭の児童扶養手当、手当以外の支援。
+  - 7-1 児童手当とは。子どもを育てる家庭に届く手当: https://shakaihosho.seadice.win/course/jido-teate/
+  - 7-2 児童扶養手当とは。ひとり親家庭を支える手当: https://shakaihosho.seadice.win/course/jido-fuyo-teate/
+  - 7-3 ひとり親家庭が使える支援。手当のほかに知っておきたい制度: https://shakaihosho.seadice.win/course/hitorioya-shien/
+- 第8章 障害があるとき: 若くても受け取れる障害年金と、その受給要件。暮らしと仕事を支える障害福祉サービス。
+  - 8-1 障害年金とは。現役世代も受け取れる年金: https://shakaihosho.seadice.win/course/shogai-nenkin/
+  - 8-2 障害年金の受給要件。初診日と保険料の納付要件: https://shakaihosho.seadice.win/course/shogai-nenkin-yoken/
+  - 8-3 障害福祉サービスとは。暮らしと仕事を支えるサービス: https://shakaihosho.seadice.win/course/shogai-fukushi-service/
+- 第9章 老後と年金: 国民年金と厚生年金の2階建てのしくみ、保険料が払えないときの免除と納付猶予、遺族年金。
+  - 9-1 公的年金のしくみ。国民年金と厚生年金の2階建て: https://shakaihosho.seadice.win/course/koteki-nenkin/
+  - 9-2 国民年金保険料が払えないとき。免除と納付猶予: https://shakaihosho.seadice.win/course/nenkin-menjo/
+  - 9-3 遺族年金とは。家族が亡くなったときの年金: https://shakaihosho.seadice.win/course/izoku-nenkin/
+- 第10章 介護が必要になったとき: 40歳から加入する介護保険、サービスを使うための要介護認定、最初の相談先の地域包括支援センター。
+  - 10-1 介護保険とは。40歳から加入する保険のしくみ: https://shakaihosho.seadice.win/course/kaigo-hoken/
+  - 10-2 要介護認定とは。介護サービスを使うまでの流れ: https://shakaihosho.seadice.win/course/yokaigo-nintei/
+  - 10-3 地域包括支援センターとは。介護の困りごとの最初の相談先: https://shakaihosho.seadice.win/course/chiiki-hokatsu/
+- 第11章 制度にたどり着く方法: どこの窓口に行けばいいか、申請で困らないための準備、決定に納得できないときの審査請求、無料の相談先。
+  - 11-1 窓口はどこか。役所・福祉事務所・ハローワーク・年金事務所: https://shakaihosho.seadice.win/course/madoguchi/
+  - 11-2 申請で困らないために。書類・記録・付き添い: https://shakaihosho.seadice.win/course/shinsei-no-kotsu/
+  - 11-3 審査請求とは。決定に納得できないときの不服申立て: https://shakaihosho.seadice.win/course/shinsa-seikyu/
+  - 11-4 無料で相談できる場所。法テラスと身近な相談窓口: https://shakaihosho.seadice.win/course/muryo-sodan/
+- 第12章 総まとめ: 困りごと別の早見表、制度の組み合わせ方、制度が変わったときの最新情報の確かめ方。
+  - 12-1 困りごと別の早見表。まず確かめる制度と窓口: https://shakaihosho.seadice.win/course/hayamihyo/
+  - 12-2 制度は組み合わせて使う。1つの困りごとに使える制度は1つとは限らない: https://shakaihosho.seadice.win/course/kumiawase/
+  - 12-3 制度は毎年変わる。最新の条件と金額の確かめ方: https://shakaihosho.seadice.win/course/saishin-no-kakunin/
+
+## SEADICE STUDYの他の講座
+
+- ゼロから学ぶ心理学: https://shinri.seadice.win/
+- ゼロから学ぶ貿易実務: https://boueki.seadice.win/
+- ゼロから学ぶ犯罪学: https://hanzaigaku.seadice.win/
+- ゼロから学ぶ保育士: https://hoikushi.seadice.win/
+- ゼロから学ぶ介護福祉士: https://kaigofukushi.seadice.win/
+
+## 運営
+
+- SEADICE: https://seadice.win/

@@ -1,0 +1,2172 @@
+[
+ {
+  "id": "hoikushi",
+  "term": "保育士",
+  "en": "Nursery teacher (hoikushi)",
+  "field": "基本",
+  "def": "保育士とは、保育士登録を受け、保育士の名称を用いて、専門的知識と技術をもって、子どもの保育と、保護者への保育に関する指導を行うことを仕事とする人のことです（児童福祉法第18条の4）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "hoikushi-shiken",
+  "term": "保育士試験",
+  "en": "Nursery teacher examination",
+  "field": "基本",
+  "def": "保育士試験とは、保育士になるための国家試験で、9科目の筆記試験と、筆記試験に全科目合格した人が受ける実技試験からなり、年2回（前期・後期）行われる試験のことです。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会「保育士試験」",
+    "url": "https://www.hoyokyo.or.jp/exam/"
+   },
+   {
+    "text": "全国保育士養成協議会「筆記試験概要」",
+    "url": "https://www.hoyokyo.or.jp/exam/guidance/writtenexam1.html"
+   },
+   {
+    "text": "全国保育士養成協議会「実技試験概要」",
+    "url": "https://www.hoyokyo.or.jp/exam/guidance/practicalexam1.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "hoikushi-toroku",
+  "term": "保育士登録",
+  "en": "Nursery teacher registration",
+  "field": "基本",
+  "def": "保育士登録とは、保育士となる資格を得た人が、都道府県に備えられた保育士登録簿に氏名や生年月日などの登録を受けることで、登録を受けると保育士登録証が交付され、保育士と名乗れるようになります（児童福祉法第18条の18）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "hikki-kamoku",
+  "term": "筆記試験の9科目",
+  "en": "Nine written subjects",
+  "field": "基本",
+  "def": "筆記試験の9科目とは、保育の心理学、保育原理、子ども家庭福祉、社会福祉、教育原理、社会的養護、子どもの保健、子どもの食と栄養、保育実習理論のことで、各科目とも満点の6割以上で合格です。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会「筆記試験概要」",
+    "url": "https://www.hoyokyo.or.jp/exam/guidance/writtenexam1.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kyoiku-yogo-pair",
+  "term": "教育原理と社会的養護",
+  "en": "Paired subjects",
+  "field": "基本",
+  "def": "教育原理と社会的養護とは、保育士試験の筆記試験で各50点・30分の2科目のことで、両方とも満点の6割以上を取らないと、どちらも合格にならないしくみの科目です。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会「筆記試験概要」",
+    "url": "https://www.hoyokyo.or.jp/exam/guidance/writtenexam1.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kamoku-gokaku",
+  "term": "科目合格",
+  "en": "Partial subject pass",
+  "field": "基本",
+  "def": "科目合格とは、筆記試験で合格した科目が、合格した年を含めて3年間は免除されるしくみのことで、保育の仕事に一定期間従事すると最大5年まで延長できます。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会「筆記試験合格科目における合格科目免除期間延長制度について」",
+    "url": "https://www.hoyokyo.or.jp/exam/exemption/exemption-period.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jitsugi-shiken",
+  "term": "実技試験",
+  "en": "Practical examination",
+  "field": "基本",
+  "def": "実技試験とは、音楽・造形・言語の3分野から2分野を選んで受ける保育士試験の試験のことで、筆記試験に全科目合格した人が受け、選んだ2分野とも満点の6割以上で合格です。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会「実技試験概要」",
+    "url": "https://www.hoyokyo.or.jp/exam/guidance/practicalexam1.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "meisho-dokusen",
+  "term": "名称独占",
+  "en": "Title protection",
+  "field": "基本",
+  "def": "名称独占とは、資格を持たない人がその資格の名称を使うことを法律で禁じるしくみのことで、保育士でない人は保育士やまぎらわしい名称を使ってはいけません（児童福祉法第18条の23）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "himitsu-hoji",
+  "term": "秘密保持義務",
+  "en": "Duty of confidentiality",
+  "field": "基本",
+  "def": "秘密保持義務とは、保育士が正当な理由なく仕事で知った人の秘密を漏らしてはならず、保育士でなくなった後も同じであるという義務のことです（児童福祉法第18条の22）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shinyo-shitsui",
+  "term": "信用失墜行為の禁止",
+  "en": "Prohibition of discrediting conduct",
+  "field": "基本",
+  "def": "信用失墜行為の禁止とは、保育士は保育士の信用を傷つけるような行為をしてはならないという決まりのことで、違反すると登録の取消しなどの対象になります（児童福祉法第18条の21）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "hoikusho",
+  "term": "保育所",
+  "en": "Nursery school (hoikusho)",
+  "field": "保育原理",
+  "def": "保育所とは、保育を必要とする乳児・幼児を、毎日保護者のもとから通わせて保育を行うことを目的とする児童福祉施設のことです（児童福祉法第39条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "hoiku-shishin",
+  "term": "保育所保育指針",
+  "en": "Nursery Care Guidelines",
+  "field": "保育原理",
+  "def": "保育所保育指針とは、保育所の保育の内容と、これに関連する運営について国が定めたもので、現在のものは2017年（平成29年）に厚生労働省の告示として示されたもののことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "yogo",
+  "term": "養護",
+  "en": "Care (yogo)",
+  "field": "保育原理",
+  "def": "養護とは、保育所保育指針で、子どもの生命の保持と情緒の安定を図るために保育士等が行う援助や関わりのことで、保育所の保育は養護と教育を一体的に行うことを特性とします。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "seimei-hoji",
+  "term": "生命の保持",
+  "en": "Maintaining life and health",
+  "field": "保育原理",
+  "def": "生命の保持とは、保育所保育指針の養護のねらいの1つで、一人一人の子どもが快適に、健康で安全に過ごし、生理的な欲求が十分に満たされるようにすることです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jocho-antei",
+  "term": "情緒の安定",
+  "en": "Emotional stability",
+  "field": "保育原理",
+  "def": "情緒の安定とは、保育所保育指針の養護のねらいの1つで、一人一人の子どもが安定感をもって過ごし、自分の気持ちを安心して表すことができるようにすることです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "go-ryoiki",
+  "term": "5領域",
+  "en": "Five areas of development",
+  "field": "保育原理",
+  "def": "5領域とは、保育所保育指針で1歳以上の保育のねらいと内容をまとめた「健康」「人間関係」「環境」「言葉」「表現」の5つの領域のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "mittsu-shiten",
+  "term": "乳児保育の3つの視点",
+  "en": "Three perspectives of infant care",
+  "field": "保育原理",
+  "def": "乳児保育の3つの視点とは、保育所保育指針で乳児保育のねらいと内容をまとめた「健やかに伸び伸びと育つ」「身近な人と気持ちが通じ合う」「身近なものと関わり感性が育つ」の3つのことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shishitsu-noryoku",
+  "term": "育みたい資質・能力",
+  "en": "Qualities and abilities to foster",
+  "field": "保育原理",
+  "def": "育みたい資質・能力とは、保育所保育指針が示す「知識及び技能の基礎」「思考力、判断力、表現力等の基礎」「学びに向かう力、人間性等」の3つで、生涯にわたる生きる力の基礎として一体的に育むもののことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jyu-no-sugata",
+  "term": "幼児期の終わりまでに育ってほしい姿",
+  "en": "Ten desired outcomes by the end of early childhood",
+  "field": "保育原理",
+  "def": "幼児期の終わりまでに育ってほしい姿とは、保育所保育指針が示す「健康な心と体」「自立心」「協同性」など10の姿のことで、資質・能力が育まれている子どもの小学校就学時の具体的な姿として、保育士等が指導を行う際に考慮するものです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "zentaiteki-keikaku",
+  "term": "全体的な計画",
+  "en": "Overall plan",
+  "field": "保育原理",
+  "def": "全体的な計画とは、保育の目標を達成するために、各保育所が子どもの発達過程を踏まえて作る、保育所保育の全体像を示す計画のことで、指導計画や保健計画、食育計画などのもとになります。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "haichi-kijun",
+  "term": "職員配置基準",
+  "en": "Staff-to-child ratio standards",
+  "field": "保育原理",
+  "def": "職員配置基準とは、保育所の保育士の数を定めた国の基準のことで、乳児おおむね3人、1・2歳児おおむね6人、3歳児おおむね15人、4歳以上児おおむね25人につき保育士1人以上と定めています。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉施設の設備及び運営に関する基準」",
+    "url": "https://laws.e-gov.go.jp/law/323M40000100063"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "yochien",
+  "term": "幼稚園",
+  "en": "Kindergarten",
+  "field": "教育原理",
+  "def": "幼稚園とは、義務教育とその後の教育の基礎を培うものとして、幼児を保育し、適当な環境を与えて心身の発達を助けることを目的とする、学校教育法に定められた学校のことです（第22条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「学校教育法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000026"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "nintei-kodomoen",
+  "term": "認定こども園",
+  "en": "Certified center for early childhood education and care",
+  "field": "保育原理",
+  "def": "認定こども園とは、就学前の子どもに教育と保育を一体的に提供する施設として、都道府県などの認定を受けた施設や幼保連携型認定こども園のことです（認定こども園法第2条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/418AC0000000077"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kyoiku-kihonho",
+  "term": "教育基本法",
+  "en": "Basic Act on Education",
+  "field": "教育原理",
+  "def": "教育基本法とは、日本の教育の目的や理念を定めた法律のことで、教育は人格の完成を目指して行われなければならないと定めています（第1条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「教育基本法」",
+    "url": "https://laws.e-gov.go.jp/law/418AC0000000120"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "yojiki-kyoiku",
+  "term": "幼児期の教育",
+  "en": "Early childhood education",
+  "field": "教育原理",
+  "def": "幼児期の教育とは、教育基本法第11条で、生涯にわたる人格形成の基礎を培う重要なものとされ、国と地方公共団体が良い環境の整備などによって振興に努めるとされている教育のことです。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「教育基本法」",
+    "url": "https://laws.e-gov.go.jp/law/418AC0000000120"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "katei-kyoiku",
+  "term": "家庭教育",
+  "en": "Home education",
+  "field": "教育原理",
+  "def": "家庭教育とは、教育基本法第10条で、父母その他の保護者が子の教育について第一義的責任を持ち、生活習慣や自立心を育てるよう努めるとされている、家庭での教育のことです。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「教育基本法」",
+    "url": "https://laws.e-gov.go.jp/law/418AC0000000120"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jido-fukushiho",
+  "term": "児童福祉法",
+  "en": "Child Welfare Act",
+  "field": "子ども家庭福祉",
+  "def": "児童福祉法とは、1947年（昭和22年）に制定された、子どもの福祉の基本となる法律のことで、すべての子どもが適切に養育され、健やかに成長・発達する権利を持つことを定めています（第1条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jido",
+  "term": "児童",
+  "en": "Child (jido)",
+  "field": "子ども家庭福祉",
+  "def": "児童とは、児童福祉法で満18歳に満たない人のことで、満1歳未満を乳児、満1歳から小学校に入るまでを幼児、小学校入学から満18歳までを少年と分けています（第4条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kenri-joyaku",
+  "term": "子どもの権利条約",
+  "en": "Convention on the Rights of the Child",
+  "field": "子ども家庭福祉",
+  "def": "子どもの権利条約とは、18歳未満の子どもの権利を定めた国際条約（正式名は児童の権利に関する条約）のことで、1989年に国連総会で採択され、日本は1994年に批准しました。",
+  "sources": [
+   {
+    "text": "外務省「児童の権利に関する条約」",
+    "url": "https://www.mofa.go.jp/mofaj/gaiko/jido/index.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "yon-gensoku",
+  "term": "子どもの権利条約の4つの原則",
+  "en": "Four general principles of the CRC",
+  "field": "子ども家庭福祉",
+  "def": "子どもの権利条約の4つの原則とは、差別の禁止、生命・生存及び発達に対する権利、子どもの意見の尊重、子どもの最善の利益の4つのことで、子どもに関するすべての施策の基本になります。",
+  "sources": [
+   {
+    "text": "外務省「児童の権利に関する条約」",
+    "url": "https://www.mofa.go.jp/mofaj/gaiko/jido/index.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kodomo-kihonho",
+  "term": "こども基本法",
+  "en": "Basic Act on Children's Policy",
+  "field": "子ども家庭福祉",
+  "def": "こども基本法とは、子どもの権利条約の精神にのっとり、すべての子どもが権利を守られ、健やかに成長できる社会を目指して、こども施策の基本理念を定めた法律のことで、2023年4月1日に施行されました。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「こども基本法」",
+    "url": "https://laws.e-gov.go.jp/law/504AC1000000077"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jido-gyakutai",
+  "term": "児童虐待",
+  "en": "Child abuse",
+  "field": "子ども家庭福祉",
+  "def": "児童虐待とは、保護者がその監護する18歳未満の子どもに行う、身体的虐待、性的虐待、ネグレクト（養育の放棄・怠慢）、心理的虐待の4つの行為のことです（児童虐待防止法第2条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童虐待の防止等に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/412AC1000000082"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "tsukoku-gimu",
+  "term": "虐待の通告義務",
+  "en": "Duty to report child abuse",
+  "field": "子ども家庭福祉",
+  "def": "虐待の通告義務とは、児童虐待を受けたと思われる子どもを見つけた人は、速やかに市町村や児童相談所などに知らせなければならないという義務のことで、守秘義務より優先されます（児童虐待防止法第6条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童虐待の防止等に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/412AC1000000082"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "soki-hakken",
+  "term": "早期発見の努力義務",
+  "en": "Duty of early detection",
+  "field": "子ども家庭福祉",
+  "def": "早期発見の努力義務とは、児童福祉施設の職員など子どもに仕事で関わる人は、虐待を発見しやすい立場にあることを自覚し、早期発見に努めなければならないという義務のことです（児童虐待防止法第5条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童虐待の防止等に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/412AC1000000082"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jidosodanjo",
+  "term": "児童相談所",
+  "en": "Child guidance center",
+  "field": "子ども家庭福祉",
+  "def": "児童相談所とは、子どもの福祉に関する専門的な相談や一時保護、施設への入所などの措置を行う機関のことで、都道府県に設置が義務づけられています（児童福祉法第12条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "yotaikyo",
+  "term": "要保護児童対策地域協議会",
+  "en": "Regional council for children requiring aid",
+  "field": "子ども家庭福祉",
+  "def": "要保護児童対策地域協議会とは、虐待を受けている子どもなどへの支援のために、地方公共団体が関係機関を集めて置く協議会のことで、情報を交換し、支援の内容を話し合います（児童福祉法第25条の2）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "hoiku-nintei",
+  "term": "保育の必要性の認定",
+  "en": "Certification of need for childcare",
+  "field": "子ども家庭福祉",
+  "def": "保育の必要性の認定とは、子ども・子育て支援法にもとづき、保護者の就労や病気などで家庭での保育が難しい子どもを、満3歳以上は2号、満3歳未満は3号として認定するしくみのことです（第19条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「子ども・子育て支援法」",
+    "url": "https://laws.e-gov.go.jp/law/424AC0000000065"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shafuku-ho",
+  "term": "社会福祉法",
+  "en": "Social Welfare Act",
+  "field": "社会福祉",
+  "def": "社会福祉法とは、社会福祉の共通の基本事項を定めた法律のことで、福祉サービスは個人の尊厳の保持を旨とし、利用者の自立を支える良質で適切なものでなければならないと定めています（第3条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/326AC0000000045"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kujo-kaiketsu",
+  "term": "苦情解決",
+  "en": "Complaint resolution",
+  "field": "社会福祉",
+  "def": "苦情解決とは、社会福祉事業の経営者が、提供する福祉サービスについて利用者などからの苦情の適切な解決に努めるしくみのことで、社会福祉法第82条に定められています。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/326AC0000000045"
+   },
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shakaiteki-yogo",
+  "term": "社会的養護",
+  "en": "Alternative care",
+  "field": "社会的養護",
+  "def": "社会的養護とは、保護者のない子どもや、保護者に育てさせることが適当でない子どもを、公的責任で社会的に養育・保護するとともに、養育に大きな困難を抱える家庭を支援することです。",
+  "sources": [
+   {
+    "text": "こども家庭庁「社会的養護」",
+    "url": "https://www.cfa.go.jp/policies/shakaiteki-yougo"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "satooya",
+  "term": "里親",
+  "en": "Foster parent",
+  "field": "社会的養護",
+  "def": "里親とは、要保護児童を自分の家庭で養育することを希望し、都道府県の名簿への登録などを受けた人のことで、養育里親・養子縁組里親・親族里親などの種類があります（児童福祉法第6条の4）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "nyujiin",
+  "term": "乳児院",
+  "en": "Infant home",
+  "field": "社会的養護",
+  "def": "乳児院とは、乳児（特に必要な場合は幼児も含む）を入院させて養育し、退院した人への相談などの援助も行う児童福祉施設のことです（児童福祉法第37条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jido-yogo-shisetsu",
+  "term": "児童養護施設",
+  "en": "Children's home",
+  "field": "社会的養護",
+  "def": "児童養護施設とは、保護者のない子どもや虐待されている子どもなど、環境上養護が必要な子どもを入所させて養護し、退所後の自立のための援助も行う児童福祉施設のことです（児童福祉法第41条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "boshi-seikatsu",
+  "term": "母子生活支援施設",
+  "en": "Maternal and child living support facility",
+  "field": "社会的養護",
+  "def": "母子生活支援施設とは、配偶者のない女性などとその子どもを入所させて保護し、自立の促進のために生活を支援する児童福祉施設のことです（児童福祉法第38条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jido-shinri-chiryo",
+  "term": "児童心理治療施設",
+  "en": "Facility for children's psychological treatment",
+  "field": "社会的養護",
+  "def": "児童心理治療施設とは、家庭や学校の人間関係などの理由で社会生活への適応が難しくなった子どもに、心理的な治療と生活指導を主に行う児童福祉施設のことです（児童福祉法第43条の2）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jido-jiritsu-shien",
+  "term": "児童自立支援施設",
+  "en": "Children's self-reliance support facility",
+  "field": "社会的養護",
+  "def": "児童自立支援施設とは、不良行為をした、またはするおそれのある子どもや、生活指導などが必要な子どもを入所または通所させ、必要な指導を行って自立を支援する児童福祉施設のことです（児童福祉法第44条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "hisochi-gyakutai",
+  "term": "被措置児童等虐待",
+  "en": "Abuse of children in care",
+  "field": "社会的養護",
+  "def": "被措置児童等虐待とは、児童養護施設や里親、保育所などの職員等が、そこで生活したり通ったりしている子どもに行う虐待のことで、見つけた人には都道府県や市町村への通告義務があります（児童福祉法第33条の10・第33条の12）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "sids",
+  "term": "乳幼児突然死症候群（SIDS）",
+  "en": "Sudden infant death syndrome",
+  "field": "子どもの保健",
+  "def": "乳幼児突然死症候群（SIDS）とは、それまで元気だった赤ちゃんが、事故や窒息ではなく、主に睡眠中に原因がわからないまま突然亡くなる病気のことで、あおむけに寝かせると発症率が低くなることがわかっています。",
+  "sources": [
+   {
+    "text": "こども家庭庁「赤ちゃんが安全に眠れるように」",
+    "url": "https://www.cfa.go.jp/policies/boshihoken/kenkou/sids"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kansensho-guideline",
+  "term": "保育所における感染症対策ガイドライン",
+  "en": "Infection control guidelines for nursery schools",
+  "field": "子どもの保健",
+  "def": "保育所における感染症対策ガイドラインとは、保育所で感染症を予防し、広がりを抑えるための基本的な考え方と具体的な対応を国がまとめた手引きのことです。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所における感染症対策ガイドライン」改訂のポイント",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/3e0e40cb/20231016_policies_hoiku_44.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "allergy-guideline",
+  "term": "保育所におけるアレルギー対応ガイドライン",
+  "en": "Allergy guidelines for nursery schools",
+  "field": "子どもの食と栄養",
+  "def": "保育所におけるアレルギー対応ガイドラインとは、食物アレルギーなどのアレルギー疾患がある子どもへの保育所での対応の基本を、2019年4月に厚生労働省がまとめた手引きのことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所におけるアレルギー対応ガイドライン（2019年改訂版）」",
+    "url": "https://sukoyaka21.cfa.go.jp/media/tools/s04_nyu_gail029.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "junyu-rinyu-guide",
+  "term": "授乳・離乳の支援ガイド",
+  "en": "Guide for breastfeeding and weaning support",
+  "field": "子どもの食と栄養",
+  "def": "授乳・離乳の支援ガイドとは、授乳と離乳を支援する保健医療の従事者などに向けて、支援の基本的な考え方と進め方をまとめた国の手引きのことで、現在のものは2019年3月に改定されました。",
+  "sources": [
+   {
+    "text": "こども家庭庁「授乳・離乳の支援ガイド」（2019年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/ff38becb-bbd1-41f3-a95e-3a22ddac09d8/8ad42093/20230401_policies_boshihoken_123.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shokuji-sesshu-kijun",
+  "term": "日本人の食事摂取基準",
+  "en": "Dietary Reference Intakes for Japanese",
+  "field": "子どもの食と栄養",
+  "def": "日本人の食事摂取基準とは、健康の維持・増進や生活習慣病の予防のために、エネルギーと栄養素をどれだけとるとよいかを厚生労働省が年齢などの区分ごとに示した基準のことで、5年ごとに改定されます。",
+  "sources": [
+   {
+    "text": "厚生労働省「日本人の食事摂取基準」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/syokuji_kijyun.html"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shokuiku",
+  "term": "食育",
+  "en": "Food and nutrition education (shokuiku)",
+  "field": "子どもの食と栄養",
+  "def": "食育とは、食に関する適切な判断力を養い、生涯にわたって健全な食生活を実現することで、心身の健康の増進と豊かな人間形成につなげる取り組みのことです（食育基本法第2条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「食育基本法」",
+    "url": "https://laws.e-gov.go.jp/law/417AC1000000063"
+   },
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "setsubi-unei-kijun",
+  "term": "児童福祉施設の設備及び運営に関する基準",
+  "en": "Standards for Facilities and Operation of Child Welfare Institutions",
+  "field": "保育原理",
+  "def": "児童福祉施設の設備及び運営に関する基準とは、児童福祉法に基づき、保育所などの児童福祉施設の設備や職員、運営について国が定めた基準のことで、第35条で保育所の保育は養護及び教育を一体的に行うことを特性とし、その内容は国が定める指針に従うとしています。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉施設の設備及び運営に関する基準」",
+    "url": "https://laws.e-gov.go.jp/law/323M40000100063"
+   },
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "nyuji",
+  "term": "乳児",
+  "en": "Infant",
+  "field": "保育原理",
+  "def": "乳児とは、児童福祉法第4条で、満1歳に満たない者のことで、保育所保育指針は乳児の保育のねらいと内容を3つの視点で示しています。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   },
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shido-keikaku",
+  "term": "指導計画",
+  "en": "Teaching plan",
+  "field": "保育原理",
+  "def": "指導計画とは、保育所が全体的な計画に基づいて作る具体的な保育の計画で、年・期・月などの長期的な指導計画と、週・日などの短期的な指導計画を組み合わせ、3歳未満児には個別的な計画も作るもののことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   },
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（序章・第1章）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/f4758db1/20231013-policies-hoiku-shishin-h30-bunkatsu-1_24.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "hoiku-jiko-hyoka",
+  "term": "保育の自己評価",
+  "en": "Self-evaluation of childcare",
+  "field": "保育原理",
+  "def": "保育の自己評価とは、保育所保育指針が定める、保育士等が計画や記録を通して自らの保育を振り返る「保育士等の自己評価」と、保育所が保育の内容等を評価し結果の公表に努める「保育所の自己評価」のことで、結果は次の計画と改善に生かします。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   },
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（序章・第1章）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/f4758db1/20231013-policies-hoiku-shishin-h30-bunkatsu-1_24.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "youho-renkeigata",
+  "term": "幼保連携型認定こども園",
+  "en": "Integrated center for early childhood education and care",
+  "field": "教育原理",
+  "def": "幼保連携型認定こども園とは、満3歳以上の子どもへの教育と、保育を必要とする子どもへの保育を一体的に行い、保護者への子育て支援も行う施設のことで、学校と児童福祉施設の両方の性格を持ちます（認定こども園法第2条第7項・第9条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/418AC0000000077"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "yochien-kyoiku-yoryo",
+  "term": "幼稚園教育要領",
+  "en": "Course of Study for Kindergarten",
+  "field": "教育原理",
+  "def": "幼稚園教育要領とは、幼稚園の教育課程など保育の内容の基準として文部科学大臣が定めるもののことで、いまのものは2017年（平成29年）3月31日に告示され、2018年（平成30年）4月1日から施行されています。",
+  "sources": [
+   {
+    "text": "文部科学省「幼稚園教育要領」（平成29年文部科学省告示第62号）",
+    "url": "https://www.mext.go.jp/content/1384661_3_2.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「学校教育法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000026"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "hoiku-kyoyu",
+  "term": "保育教諭",
+  "en": "Nursery-kindergarten teacher",
+  "field": "教育原理",
+  "def": "保育教諭とは、幼保連携型認定こども園に置かなければならない職員のことで、原則として幼稚園教諭の普通免許状と保育士の登録の両方が必要です（認定こども園法第14条・第15条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/418AC0000000077"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kankyo-wo-toshite",
+  "term": "環境を通して行う教育",
+  "en": "Education through the environment",
+  "field": "教育原理",
+  "def": "環境を通して行う教育とは、子どもが身近な環境に自分から関わる中で育つよう、環境を整えて行う幼児期の教育・保育の基本の考え方のことで、幼稚園教育要領・保育所保育指針・幼保連携型認定こども園教育・保育要領のいずれにも書かれています。",
+  "sources": [
+   {
+    "text": "文部科学省「幼稚園教育要領」（平成29年文部科学省告示第62号）",
+    "url": "https://www.mext.go.jp/content/1384661_3_2.pdf"
+   },
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   },
+   {
+    "text": "こども家庭庁「幼保連携型認定こども園教育・保育要領」告示文",
+    "url": "https://www.cfa.go.jp/policies/kokoseido/kodomoen/kokuji/"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shokyoku-kyoiku",
+  "term": "消極教育",
+  "en": "Negative education",
+  "field": "教育原理",
+  "def": "消極教育とは、ルソーが1762年の『エミール』で示した、大人が教え込むのではなく、子どもの自然な発達に合わせて自分で発見させる教育の考え方のことです。",
+  "sources": [
+   {
+    "text": "Stanford Encyclopedia of Philosophy \"Jean Jacques Rousseau\"",
+    "url": "https://plato.stanford.edu/entries/rousseau/"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "onbutsu",
+  "term": "恩物",
+  "en": "Froebel's gifts",
+  "field": "教育原理",
+  "def": "恩物とは、フレーベルが1840年代に幼稚園の子どものために考えた、球・立方体・円柱などの遊具のセットのことです。",
+  "sources": [
+   {
+    "text": "Froebel Trust \"Froebel's Gifts\"",
+    "url": "https://www.froebel.org.uk/training-and-resources/froebels-gifts"
+   },
+   {
+    "text": "University of Roehampton Library \"Froebel Archive for Childhood Studies\"",
+    "url": "https://library.roehampton.ac.uk/archives/froebel"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kodomo-no-ie",
+  "term": "子どもの家",
+  "en": "Casa dei Bambini (Children's House)",
+  "field": "教育原理",
+  "def": "子どもの家とは、モンテッソーリが1907年1月6日にローマのサン・ロレンツォ地区で開いた、幼い子どものための施設のことで、子どもに合った家具と自由に選べる教具を整えた環境が特徴です。",
+  "sources": [
+   {
+    "text": "Montessori Australia \"The First Casa dei Bambini\"",
+    "url": "https://montessori.org.au/node/4614"
+   },
+   {
+    "text": "Association Montessori Internationale \"Montessori Environments\"",
+    "url": "https://montessori-ami.org/node/2169"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "daiichigiteki-sekinin",
+  "term": "第一義的責任",
+  "en": "Primary responsibility",
+  "field": "子ども家庭福祉",
+  "def": "第一義的責任とは、子どもを心身ともに健やかに育てることについて、まず保護者が負う責任のことで、国と地方公共団体も保護者とともに育成の責任を負います（児童福祉法第2条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "kenri-no-shutai",
+  "term": "権利の主体",
+  "en": "Rights holder",
+  "field": "子ども家庭福祉",
+  "def": "権利の主体とは、権利を持つ存在のことで、子どもの権利条約は子どもを、守られるだけでなく一人の人間として権利を持つ主体ととらえています。",
+  "sources": [
+   {
+    "text": "日本ユニセフ協会「子どもの権利条約の考え方」",
+    "url": "https://www.unicef.or.jp/crc/principles/"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "neglect",
+  "term": "ネグレクト",
+  "en": "Neglect",
+  "field": "子ども家庭福祉",
+  "def": "ネグレクトとは、著しい減食や長時間の放置など、保護者としての監護を著しく怠ることで、児童虐待の4つの種類の1つです（児童虐待防止法第2条第3号）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童虐待の防止等に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/412AC1000000082"
+   },
+   {
+    "text": "こども家庭庁「児童虐待防止推進特設サイト」",
+    "url": "https://kodomoshien.cfa.go.jp/no-gyakutai/"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shinriteki-gyakutai",
+  "term": "心理的虐待",
+  "en": "Psychological abuse",
+  "field": "子ども家庭福祉",
+  "def": "心理的虐待とは、子どもへの著しい暴言や著しく拒絶的な対応、子どもが同居する家庭での配偶者への暴力など、子どもに著しい心理的外傷を与える言動のことです（児童虐待防止法第2条第4号）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童虐待の防止等に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/412AC1000000082"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "mezen-dv",
+  "term": "面前DV",
+  "en": "Domestic violence witnessed by a child",
+  "field": "子ども家庭福祉",
+  "def": "面前DVとは、子どもの目の前で家族に暴力をふるうことで、心理的虐待に当たります。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童虐待の防止等に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/412AC1000000082"
+   },
+   {
+    "text": "こども家庭庁「児童虐待防止推進特設サイト」",
+    "url": "https://kodomoshien.cfa.go.jp/no-gyakutai/"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "anzen-kakunin",
+  "term": "安全確認",
+  "en": "Safety confirmation",
+  "field": "子ども家庭福祉",
+  "def": "安全確認とは、虐待の通告を受けた市町村や児童相談所が、子どもとの面会などで子どもの安全を確かめるための措置のことです（児童虐待防止法第8条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童虐待の防止等に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/412AC1000000082"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "ichiji-hogo",
+  "term": "一時保護",
+  "en": "Temporary protective custody",
+  "field": "子ども家庭福祉",
+  "def": "一時保護とは、児童相談所長が、児童虐待のおそれがあるときなどに、子どもの安全を迅速に確保し適切に保護するためなどに、子どもを一時的に保護することです（児童福祉法第33条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "ichiji-hogojo",
+  "term": "一時保護状",
+  "en": "Temporary custody warrant",
+  "field": "子ども家庭福祉",
+  "def": "一時保護状とは、一時保護を行うとき、親権を行う者などの同意がある場合などを除き、児童相談所長などが開始から7日以内に裁判官に請求する令状のことです（児童福祉法第33条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "hoiku-hitsuyoryo",
+  "term": "保育必要量",
+  "en": "Required amount of childcare",
+  "field": "子ども家庭福祉",
+  "def": "保育必要量とは、2号・3号の子どもについて、月を単位とする期間に給付の対象となる保育の量のことで、市町村が認定します（子ども・子育て支援法第20条第3項）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「子ども・子育て支援法」",
+    "url": "https://laws.e-gov.go.jp/law/424AC0000000065"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "shakai-hosho",
+  "term": "社会保障",
+  "en": "Social security",
+  "field": "社会福祉",
+  "def": "社会保障とは、社会保険、社会福祉、公的扶助、保健医療・公衆衛生の4つの柱からなり、国民の安心や生活の安定を生涯にわたって支えるしくみのことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「社会保障制度とは」（資料）",
+    "url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "koteki-fujo",
+  "term": "公的扶助",
+  "en": "Public assistance",
+  "field": "社会福祉",
+  "def": "公的扶助とは、生活に困窮する人に最低限度の生活を保障し、自立を助ける制度のことで、社会保障の4つの柱の一つです。",
+  "sources": [
+   {
+    "text": "厚生労働省「社会保障制度とは」（資料）",
+    "url": "https://www.mhlw.go.jp/content/12600000/001741337.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "chiiki-fukushi",
+  "term": "地域福祉",
+  "en": "Community welfare",
+  "field": "社会福祉",
+  "def": "地域福祉とは、地域における社会福祉のことで、地域住民が互いに人格と個性を尊重し合いながら参加し、共生する地域社会の実現を目指して進められます（社会福祉法第1条・第4条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/326AC0000000045"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "social-work",
+  "term": "ソーシャルワーク",
+  "en": "Social work",
+  "field": "社会福祉",
+  "def": "ソーシャルワークとは、人々が生活課題に取り組みウェルビーイングを高められるよう、人々やさまざまな構造に働きかける専門職であり学問のことで、2014年に国際的なグローバル定義が採択されました。",
+  "sources": [
+   {
+    "text": "日本ソーシャルワーカー連盟「ソーシャルワーク専門職のグローバル定義」",
+    "url": "https://www.jfsw.org/definition/global_definition/"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "juyo",
+  "term": "受容",
+  "en": "Acceptance",
+  "field": "社会福祉",
+  "def": "受容とは、保護者のありのままを受け止め、援助を目的として敬意をもってより深く理解する姿勢のことで、不適切と思われる行動を無条件に肯定することではありません。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（第3章〜第5章）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/e442d00a/20231013-policies-hoiku-shishin-h30-0000202212.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jiko-kettei",
+  "term": "自己決定の尊重",
+  "en": "Respect for self-determination",
+  "field": "社会福祉",
+  "def": "自己決定の尊重とは、保護者自らが選択し決定していくことを支え、その決定を尊重する支援の基本姿勢のことで、保育所保育指針第4章に示されています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   },
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（第3章〜第5章）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/e442d00a/20231013-policies-hoiku-shishin-h30-0000202212.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "daisansha-iin",
+  "term": "第三者委員",
+  "en": "Third-party committee member",
+  "field": "社会福祉",
+  "def": "第三者委員とは、苦情解決に社会性や客観性を確保し、利用者の立場や特性に配慮した適切な対応を進めるために、社会福祉事業の経営者が置く委員のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「社会福祉事業の経営者による福祉サービスに関する苦情解決の仕組みの指針について」",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00ta8363&dataType=1&pageNo=1"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "unei-tekiseika",
+  "term": "運営適正化委員会",
+  "en": "Committee for appropriate operation",
+  "field": "社会福祉",
+  "def": "運営適正化委員会とは、都道府県社会福祉協議会に置かれ、福祉サービスに関する苦情について相談・助言・調査を行い、同意を得て解決のあっせんも行う委員会のことです（社会福祉法第83条・第85条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/326AC0000000045"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "daisansha-hyoka",
+  "term": "福祉サービス第三者評価",
+  "en": "Third-party evaluation of welfare services",
+  "field": "社会福祉",
+  "def": "福祉サービス第三者評価とは、事業者と利用者以外の公正・中立な第三者機関が、専門的かつ客観的な立場から福祉サービスの質を評価するしくみのことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「福祉サービス第三者評価事業について」（資料）",
+    "url": "https://www.mhlw.go.jp/stf/shingi/2r98520000026rqp-att/2r98520000026s05.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「社会福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/326AC0000000045"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "katei-doyo-yoiku-kankyo",
+  "term": "家庭と同様の養育環境",
+  "en": "Family-like care environment",
+  "field": "社会的養護",
+  "def": "家庭と同様の養育環境とは、児童福祉法第3条の2で、家庭での養育が難しい子どもがまず継続的に養育されるべきとされる環境のことで、こども家庭庁の資料は養子縁組・里親・ファミリーホームを挙げています。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   },
+   {
+    "text": "こども家庭庁 資料集「社会的養育の推進に向けて（令和8年3月）」",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/8aba23f3-abb8-4f95-8202-f0fd487fbe16/7d8f0cc9/20260316_policies_shakaiteki-yougo_156.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "satooya-itakuritsu",
+  "term": "里親等委託率",
+  "en": "Foster care placement rate",
+  "field": "社会的養護",
+  "def": "里親等委託率とは、乳児院・児童養護施設・里親・ファミリーホームで暮らす子どものうち、里親とファミリーホームに委託されている子どもの割合のことで、こども家庭庁の資料では令和7年3月末で26.3%です。",
+  "sources": [
+   {
+    "text": "こども家庭庁 資料集「社会的養育の推進に向けて（令和8年3月）」",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/8aba23f3-abb8-4f95-8202-f0fd487fbe16/7d8f0cc9/20260316_policies_shakaiteki-yougo_156.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "yoiku-satooya",
+  "term": "養育里親",
+  "en": "Foster parent",
+  "field": "社会的養護",
+  "def": "養育里親とは、要保護児童を養育することを希望し、都道府県知事が行う研修の修了などの要件を満たして、養育里親名簿に登録された人のことです（児童福祉法第6条の4第1号）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "yoshiengumi-satooya",
+  "term": "養子縁組里親",
+  "en": "Foster parent seeking adoption",
+  "field": "社会的養護",
+  "def": "養子縁組里親とは、要保護児童の養育と、養子縁組によって養親となることを希望し、研修を修了して養子縁組里親名簿に登録された人のことです（児童福祉法第6条の4第2号）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "family-home",
+  "term": "ファミリーホーム",
+  "en": "Family home",
+  "field": "社会的養護",
+  "def": "ファミリーホームとは、小規模住居型児童養育事業のことで、要保護児童の養育に経験のある人などの住居で子どもを育てる、定員5〜6人の家庭養護です（児童福祉法第6条の3第8項）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   },
+   {
+    "text": "こども家庭庁 資料集「社会的養育の推進に向けて（令和8年3月）」",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/8aba23f3-abb8-4f95-8202-f0fd487fbe16/7d8f0cc9/20260316_policies_shakaiteki-yougo_156.pdf"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "jido-jiritsu-seikatsu-enjo",
+  "term": "児童自立生活援助事業",
+  "en": "Independent living assistance program",
+  "field": "社会的養護",
+  "def": "児童自立生活援助事業とは、措置を解除された人などが共同生活を送りながら、相談や生活指導、就業の支援を受けられる事業のことで、その住居は自立援助ホームと呼ばれます（児童福祉法第6条の3第1項）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   },
+   {
+    "text": "こども家庭庁「社会的養護の施設等について」",
+    "url": "https://www.cfa.go.jp/policies/shakaiteki-yougo/shisetsu-gaiyou"
+   }
+  ],
+  "date": "2026-10-05"
+ },
+ {
+  "id": "nyuyoji-hatsuiku-chosa",
+  "term": "乳幼児身体発育調査",
+  "en": "National growth survey on preschool children",
+  "field": "子どもの保健",
+  "def": "乳幼児身体発育調査とは、全国の乳幼児の体重・身長・頭囲などを測り、身体発育値と発育曲線を定める国の調査のことで、昭和25年から10年ごとに行われ、最新は令和5年の調査です。",
+  "sources": [
+   {
+    "text": "こども家庭庁「令和5年乳幼児身体発育調査」",
+    "url": "https://www.cfa.go.jp/policies/boshihoken/r5-nyuuyoujityousa/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "percentile",
+  "term": "パーセンタイル値",
+  "en": "Percentile value",
+  "field": "子どもの保健",
+  "def": "パーセンタイル値とは、計測値を小さいほうから並べたとき何%目にあたるかを示す値のことで、50パーセンタイル値は中央値とも呼ばれます。",
+  "sources": [
+   {
+    "text": "こども家庭庁「令和5年乳幼児身体発育調査」",
+    "url": "https://www.cfa.go.jp/policies/boshihoken/r5-nyuuyoujityousa/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "himatsu-kansen",
+  "term": "飛沫感染",
+  "en": "Droplet transmission",
+  "field": "子どもの保健",
+  "def": "飛沫感染とは、咳やくしゃみ、会話で飛ぶ病原体を含む小さな水滴を近くの人が吸い込んでうつる感染経路のことで、飛沫が飛び散る範囲は1〜2mとされています。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所における感染症対策ガイドライン（2018年改訂版）」全体版",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/cd6e454e/20231010_policies_hoiku_25.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "toen-no-meyasu",
+  "term": "登園のめやす",
+  "en": "Guide for returning to nursery",
+  "field": "子どもの保健",
+  "def": "登園のめやすとは、感染症にかかった子どもが再び登園してよいかを判断するために、保育所における感染症対策ガイドラインが感染症ごとに示している状態や日数のことです。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所における感染症対策ガイドライン（2018年改訂版）」全体版",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/cd6e454e/20231010_policies_hoiku_25.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "toen-todoke",
+  "term": "登園届",
+  "en": "Parent's notice of return",
+  "field": "子どもの保健",
+  "def": "登園届とは、医師の診断を受けたあとに保護者が記入して保育所に出す書類のことで、溶連菌感染症や手足口病などで考えられる取り扱いですが、一律に必要なものではありません。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所における感染症対策ガイドライン（2018年改訂版）」全体版",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/cd6e454e/20231010_policies_hoiku_25.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "chissoku-risk-jokyo",
+  "term": "窒息リスクの除去",
+  "en": "Removing suffocation risks",
+  "field": "子どもの保健",
+  "def": "窒息リスクの除去とは、事故防止ガイドラインが乳児の睡眠前と睡眠中に行うよう求める取り組みのことで、顔が見えるあおむけ寝、やわらかい寝具やヒモ状のものを置かないこと、口の中の確認などを含みます。",
+  "sources": [
+   {
+    "text": "「教育・保育施設等における事故防止及び事故発生時の対応のためのガイドライン【事故防止のための取組み】～施設・事業者向け～」（平成28年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/03f45df9-97e1-4016-b0c3-8496712699a3/39b6fd36/20230607_policies_child-safety_effort_guideline_02.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "jiko-boshi-guideline",
+  "term": "事故防止ガイドライン",
+  "en": "Guidelines for accident prevention in childcare facilities",
+  "field": "子どもの保健",
+  "def": "事故防止ガイドラインとは、平成28年3月に国が示した「教育・保育施設等における事故防止及び事故発生時の対応のためのガイドライン」のことで、重大事故の防止と、事故が起きたときの対応をまとめた手引きです。",
+  "sources": [
+   {
+    "text": "こども家庭庁「教育・保育施設等における事故防止及び事故発生時の対応のためのガイドライン」",
+    "url": "https://www.cfa.go.jp/policies/child-safety/effort/guideline/"
+   },
+   {
+    "text": "「教育・保育施設等における事故防止及び事故発生時の対応のためのガイドライン【事故防止のための取組み】～施設・事業者向け～」（平成28年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/03f45df9-97e1-4016-b0c3-8496712699a3/39b6fd36/20230607_policies_child-safety_effort_guideline_02.pdf"
+   },
+   {
+    "text": "「教育・保育施設等における事故防止及び事故発生時の対応のためのガイドライン【事故発生時の対応】」（平成28年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/03f45df9-97e1-4016-b0c3-8496712699a3/7199d189/20230607_policies_child-safety_effort_guideline_04.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "judai-jiko",
+  "term": "重大事故",
+  "en": "Serious accident",
+  "field": "子どもの保健",
+  "def": "重大事故とは、教育・保育施設等で国への報告の対象となる、死亡事故や治療に要する期間が30日以上の負傷や疾病を伴う重篤な事故などのことで、意識不明の事故も含みます。",
+  "sources": [
+   {
+    "text": "「教育・保育施設等における事故防止及び事故発生時の対応のためのガイドライン【事故発生時の対応】」（平成28年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/03f45df9-97e1-4016-b0c3-8496712699a3/7199d189/20230607_policies_child-safety_effort_guideline_04.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kodomo-iryo-denwa-sodan",
+  "term": "子ども医療電話相談（#8000）",
+  "en": "Pediatric medical telephone consultation (#8000)",
+  "field": "子どもの保健",
+  "def": "子ども医療電話相談（#8000）とは、休日・夜間の子どもの症状などに関する保護者などの不安の解消を目的とした電話相談の事業のことで、平成22年度から全都道府県で実施されています。",
+  "sources": [
+   {
+    "text": "厚生労働省「子ども医療電話相談事業（#8000事業）の推進について」（平成30年4月18日）",
+    "url": "https://www.mhlw.go.jp/topics/2006/10/dl/tp1010-3.pdf"
+   },
+   {
+    "text": "厚生労働省「子ども医療電話相談事業（#8000）について」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/newpage_55223.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hattatsu-katei",
+  "term": "発達過程",
+  "en": "Developmental process",
+  "field": "保育の心理学",
+  "def": "発達過程とは、子どもの発達を、ある時点の「できる・できない」ではなく、環境との相互作用を通して資質・能力が育まれていく過程としてとらえる、保育所保育指針の考え方のことです。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（序章・第1章）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/f4758db1/20231013-policies-hoiku-shishin-h30-bunkatsu-1_24.pdf"
+   },
+   {
+    "text": "厚生労働省「保育所保育指針」",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "tansaku-katsudo",
+  "term": "探索活動",
+  "en": "Exploratory activity",
+  "field": "保育の心理学",
+  "def": "探索活動とは、子どもが身近なものを見る、触れる、動かすなどして、自分から周りの環境を探る活動のことです。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（第2章1・2）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/dc73559a/20231013-policies-hoiku-shishin-h30-2_19.pdf"
+   },
+   {
+    "text": "厚生労働省「保育所保育指針」",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "jiga",
+  "term": "自我",
+  "en": "Sense of self (ego)",
+  "field": "保育の心理学",
+  "def": "自我とは、自分の思いや欲求をもつ「自分」という意識のことで、保育所保育指針は1歳以上3歳未満を自我が形成される重要な時期としています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   },
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（第2章1・2）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/dc73559a/20231013-policies-hoiku-shishin-h30-2_19.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "aichaku",
+  "term": "愛着（アタッチメント）",
+  "en": "Attachment",
+  "field": "保育の心理学",
+  "def": "愛着（アタッチメント）とは、子どもが特定の人との間に結ぶ情緒的な絆のことで、ボウルビィが理論の土台をつくりました。",
+  "sources": [
+   {
+    "text": "Bretherton, I. (1992). The origins of attachment theory. Developmental Psychology, 28(5)",
+    "url": "http://www.psychology.sunysb.edu/attachment/online/inge_origins.pdf"
+   },
+   {
+    "text": "OpenStax『Psychology 2e』9.3 Stages of Development",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development"
+   },
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（第2章1・2）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/dc73559a/20231013-policies-hoiku-shishin-h30-2_19.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "anzen-kichi",
+  "term": "安全基地",
+  "en": "Secure base",
+  "field": "保育の心理学",
+  "def": "安全基地とは、子どもが周りを探索するときの拠りどころとなる愛着の対象の存在のことで、エインズワースが示した考え方です。",
+  "sources": [
+   {
+    "text": "Bretherton, I. (1992). The origins of attachment theory. Developmental Psychology, 28(5)",
+    "url": "http://www.psychology.sunysb.edu/attachment/online/inge_origins.pdf"
+   },
+   {
+    "text": "OpenStax『Psychology 2e』9.3 Stages of Development",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "strange-situation",
+  "term": "ストレンジ・シチュエーション法",
+  "en": "Strange Situation procedure",
+  "field": "保育の心理学",
+  "def": "ストレンジ・シチュエーション法とは、エインズワースが用いた、1歳児と母親の分離と再会を含む約20分・8場面の観察手続きのことです。",
+  "sources": [
+   {
+    "text": "Bretherton, I. (1992). The origins of attachment theory. Developmental Psychology, 28(5)",
+    "url": "http://www.psychology.sunysb.edu/attachment/online/inge_origins.pdf"
+   },
+   {
+    "text": "OpenStax『Psychology 2e』9.3 Stages of Development",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "taisho-eizokusei",
+  "term": "対象の永続性",
+  "en": "Object permanence",
+  "field": "保育の心理学",
+  "def": "対象の永続性とは、見えなくなったものも存在し続けていると分かることで、ピアジェの感覚運動期に育つとされます。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』9.2 Lifespan Theories",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hozon",
+  "term": "保存",
+  "en": "Conservation",
+  "field": "保育の心理学",
+  "def": "保存とは、見た目や形が変わっても、何も足したり取ったりしなければ量や数は変わらないと分かることで、ピアジェの具体的操作期に獲得されるとされます。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』9.2 Lifespan Theories",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "jiko-chushinsei",
+  "term": "自己中心性",
+  "en": "Egocentrism",
+  "field": "保育の心理学",
+  "def": "自己中心性とは、ピアジェが前操作期の特徴とした、自分以外の人の視点に立って考えることが難しい状態のことです。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』9.2 Lifespan Theories",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "nango",
+  "term": "喃語",
+  "en": "Babbling",
+  "field": "保育の心理学",
+  "def": "喃語とは、「ばばば」「まんまん」のように、赤ちゃんが同じ音をくり返して出す声のことで、意味のある言葉が出る前に現れます。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』9.3 Stages of Development",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development"
+   },
+   {
+    "text": "厚生労働省「保育所保育指針」",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ichigobun",
+  "term": "一語文",
+  "en": "One-word sentence (holophrase)",
+  "field": "保育の心理学",
+  "def": "一語文とは、「マンマ」のように、1つの言葉で呼びかけや欲求など様々な思いを表す、言葉が出始めた頃の話し方のことです。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（第2章1・2）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/dc73559a/20231013-policies-hoiku-shishin-h30-2_19.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "nigobun",
+  "term": "二語文",
+  "en": "Two-word sentence",
+  "field": "保育の心理学",
+  "def": "二語文とは、「マンマ欲しい」のように2つの言葉をつなげて表す話し方のことで、一語文の後に現れます。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所保育指針解説」（第2章1・2）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/eb316dce-fa78-48b4-90cc-da85228387c2/dc73559a/20231013-policies-hoiku-shishin-h30-2_19.pdf"
+   },
+   {
+    "text": "厚生労働省「保育所保育指針」",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "heiko-asobi",
+  "term": "平行遊び",
+  "en": "Parallel play",
+  "field": "保育の心理学",
+  "def": "平行遊びとは、同じようなおもちゃを使って隣どうしで遊ぶが、直接は関わらない遊びのことで、パーテンの6分類の1つです。",
+  "sources": [
+   {
+    "text": "Lifespan Development「Play」（SUNY / Lumen Learning）",
+    "url": "https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/play/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hattatsu-shogai",
+  "term": "発達障害",
+  "en": "Developmental disability",
+  "field": "保育の心理学",
+  "def": "発達障害とは、発達障害者支援法第2条で、自閉症、学習障害、注意欠陥多動性障害などの脳機能の障害で、症状が通常低年齢で現れるものとして政令で定めるもののことです。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「発達障害者支援法」",
+    "url": "https://laws.e-gov.go.jp/law/416AC1000000167"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shakaiteki-shoheki",
+  "term": "社会的障壁",
+  "en": "Social barrier",
+  "field": "保育の心理学",
+  "def": "社会的障壁とは、障害がある人にとって日常生活や社会生活の妨げとなる、社会の中の事物、制度、慣行、観念などのことです（発達障害者支援法第2条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「発達障害者支援法」",
+    "url": "https://laws.e-gov.go.jp/law/416AC1000000167"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "onbu-kigo",
+  "term": "音部記号",
+  "en": "Clef",
+  "field": "保育実習理論",
+  "def": "音部記号とは、五線の左端に書き、線と間がどの高さの音にあたるかの基準を示す記号のことで、ト音記号（高音部記号）・ヘ音記号（低音部記号）・ハ音記号があります。",
+  "sources": [
+   {
+    "text": "浅田まり子「教員のための音楽」『学び舎：教職課程研究』第8号、愛知淑徳大学教育学会、2013年",
+    "url": "https://aska-r.repo.nii.ac.jp/record/6280/files/0027008201303024036.pdf"
+   },
+   {
+    "text": "Open Music Theory「Basic notation」",
+    "url": "https://openmusictheory.github.io/basicNotation.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hyoshi-kigo",
+  "term": "拍子記号",
+  "en": "Time signature",
+  "field": "保育実習理論",
+  "def": "拍子記号とは、何の音符を1拍とし、1小節に何拍入るかを示す記号のことで、たとえば4分の4拍子は4分音符を1拍として1小節に4拍入ります。",
+  "sources": [
+   {
+    "text": "浅田まり子「教員のための音楽」『学び舎：教職課程研究』第8号、愛知淑徳大学教育学会、2013年",
+    "url": "https://aska-r.repo.nii.ac.jp/record/6280/files/0027008201303024036.pdf"
+   },
+   {
+    "text": "Open Music Theory「Meter」",
+    "url": "https://openmusictheory.github.io/meter.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "chord-name",
+  "term": "コードネーム",
+  "en": "Chord symbol",
+  "field": "保育実習理論",
+  "def": "コードネームとは、和音を根音の英語の音名と和音の種類を表す記号で示す書き方のことで、ハ長調のⅠ・Ⅳ・Ⅴの和音はC・F・G、Ⅴの七の和音はG7と書きます。",
+  "sources": [
+   {
+    "text": "Open Music Theory「Triads and seventh chords」",
+    "url": "https://openmusictheory.github.io/triads.html"
+   },
+   {
+    "text": "浅田まり子「教員のための音楽」『学び舎：教職課程研究』第8号、愛知淑徳大学教育学会、2013年",
+    "url": "https://aska-r.repo.nii.ac.jp/record/6280/files/0027008201303024036.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "iro-no-sanzokusei",
+  "term": "色の三属性",
+  "en": "Three attributes of color",
+  "field": "保育実習理論",
+  "def": "色の三属性とは、色を表す3つの性質である、色味の系統の色相、明るさの度合いの明度、鮮やかさの度合いの彩度のことです。",
+  "sources": [
+   {
+    "text": "河野瑠子「色彩調和の基本」『学習院女子短期大学紀要』第27号、1989年",
+    "url": "https://glim-re.repo.nii.ac.jp/record/2922/files/tankidaigaku_27_149_173.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hoshoku",
+  "term": "補色",
+  "en": "Complementary colors",
+  "field": "保育実習理論",
+  "def": "補色とは、色相環で向かい合う位置にある2色のことで、並べると強い対比が生まれ、混ぜると灰色のような無彩色になります。",
+  "sources": [
+   {
+    "text": "河野瑠子「色彩調和の基本」『学習院女子短期大学紀要』第27号、1989年",
+    "url": "https://glim-re.repo.nii.ac.jp/record/2922/files/tankidaigaku_27_149_173.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "genpo-konshoku",
+  "term": "減法混色",
+  "en": "Subtractive color mixing",
+  "field": "保育実習理論",
+  "def": "減法混色とは、絵の具やインクなど光を吸収するものを重ねる混色のことで、シアン・マゼンタ・イエローを三原色とし、混ぜるほど暗くなります。",
+  "sources": [
+   {
+    "text": "日本大百科全書（ニッポニカ）「三原色」（コトバンク）",
+    "url": "https://kotobank.jp/word/%E4%B8%89%E5%8E%9F%E8%89%B2-3779"
+   },
+   {
+    "text": "キヤノン「色の三原色（CMY）について」",
+    "url": "https://global.canon/ja/technology/kids/mystery/m_04_04.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "jisshu-nisshi",
+  "term": "実習日誌",
+  "en": "Practicum diary",
+  "field": "保育実習理論",
+  "def": "実習日誌とは、保育実習の内容を一日ごとに記録して実習施設に提出する記録のことで、子どもの活動、保育士の援助・配慮、実習生の動き、考察などを書きます。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会 東北ブロック研究委員会「保育実習指導のガイドライン Ver.Ⅴ」（令和4年4月）",
+    "url": "https://sec0b209ea3496056.jimcontent.com/download/version/1669716289/module/14211483592/name/%E4%BF%9D%E8%82%B2%E5%AE%9F%E7%BF%92%E6%8C%87%E5%B0%8E%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%EF%BC%88ver5%EF%BC%89%E5%85%A8%E6%96%87.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "bubun-jisshu",
+  "term": "部分実習",
+  "en": "Partial practicum",
+  "field": "保育実習理論",
+  "def": "部分実習とは、絵本の読み聞かせや手遊び、昼食の時間など、保育の一部の活動や時間を実習生が担当して行う実習のことです。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会 東北ブロック研究委員会「保育実習指導のガイドライン Ver.Ⅴ」（令和4年4月）",
+    "url": "https://sec0b209ea3496056.jimcontent.com/download/version/1669716289/module/14211483592/name/%E4%BF%9D%E8%82%B2%E5%AE%9F%E7%BF%92%E6%8C%87%E5%B0%8E%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%EF%BC%88ver5%EF%BC%89%E5%85%A8%E6%96%87.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kankyo-kosei",
+  "term": "環境構成",
+  "en": "Environmental arrangement",
+  "field": "保育実習理論",
+  "def": "環境構成とは、子どもが主体的に活動できるよう、遊具や素材、場の配置などの環境を計画的に整えることです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」第1章3(2)ウ",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   },
+   {
+    "text": "全国保育士養成協議会「保育実習指導者研修テキスト」（2024年3月）",
+    "url": "https://www.hoyokyo.or.jp/nursing_hyk/23trainingtextP1-45.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "suishoryo",
+  "term": "推奨量",
+  "en": "Recommended dietary allowance (RDA)",
+  "field": "子どもの食と栄養",
+  "def": "推奨量とは、日本人の食事摂取基準の指標の1つで、ある集団のほとんどの人（97〜98％）が必要量を充足している量のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「日本人の食事摂取基準（2025年版）」策定検討会報告書 総論",
+    "url": "https://www.mhlw.go.jp/content/10904750/001316460.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "taiyo-jogenryo",
+  "term": "耐容上限量",
+  "en": "Tolerable upper intake level (UL)",
+  "field": "子どもの食と栄養",
+  "def": "耐容上限量とは、日本人の食事摂取基準の指標の1つで、健康障害をもたらすリスクがないとみなされる習慣的な摂取量の上限のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「日本人の食事摂取基準（2025年版）」策定検討会報告書 総論",
+    "url": "https://www.mhlw.go.jp/content/10904750/001316460.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "suitei-energy-hitsuyoryo",
+  "term": "推定エネルギー必要量",
+  "en": "Estimated energy requirement (EER)",
+  "field": "子どもの食と栄養",
+  "def": "推定エネルギー必要量とは、日本人の食事摂取基準で、性・年齢区分・身体活動レベル別に示される1日に必要なエネルギーの推定値のことで、小児では成長に必要な分を加えて求めます。",
+  "sources": [
+   {
+    "text": "厚生労働省「日本人の食事摂取基準（2025年版）」策定検討会報告書 エネルギー",
+    "url": "https://www.mhlw.go.jp/content/10904750/001316461.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "rinyu-no-kanryo",
+  "term": "離乳の完了",
+  "en": "Completion of weaning",
+  "field": "子どもの食と栄養",
+  "def": "離乳の完了とは、形のある食物をかみつぶすことができるようになり、エネルギーや栄養素の大部分を母乳や育児用ミルク以外の食物からとれるようになった状態のことで、生後12〜18か月頃が目安です。",
+  "sources": [
+   {
+    "text": "「授乳・離乳の支援ガイド」（2019年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/ff38becb-bbd1-41f3-a95e-3a22ddac09d8/8ad42093/20230401_policies_boshihoken_123.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "tezukami-tabe",
+  "term": "手づかみ食べ",
+  "en": "Self-feeding with hands",
+  "field": "子どもの食と栄養",
+  "def": "手づかみ食べとは、子どもが食べ物を手でつかんで自分で食べることで、生後9か月頃から始まり、授乳・離乳の支援ガイドでは発育・発達のために積極的にさせたい行動とされています。",
+  "sources": [
+   {
+    "text": "「授乳・離乳の支援ガイド」（2019年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/ff38becb-bbd1-41f3-a95e-3a22ddac09d8/8ad42093/20230401_policies_boshihoken_123.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "nyuji-botulinus",
+  "term": "乳児ボツリヌス症",
+  "en": "Infant botulism",
+  "field": "子どもの食と栄養",
+  "def": "乳児ボツリヌス症とは、1歳未満の乳児が芽胞の状態のボツリヌス菌を摂取し、その芽胞が消化管内で発芽・増殖して出す毒素によって発症する病気のことです。",
+  "sources": [
+   {
+    "text": "「授乳・離乳の支援ガイド」（2019年3月）参考資料8",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/ff38becb-bbd1-41f3-a95e-3a22ddac09d8/8ad42093/20230401_policies_boshihoken_123.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shoku-wo-itonamu-chikara",
+  "term": "食を営む力",
+  "en": "Ability to manage one's own diet",
+  "field": "子どもの食と栄養",
+  "def": "食を営む力とは、生涯にわたって健康で質の高い生活を送る基本となる、食に関わる力のことで、保育所保育指針は、保育所の食育の目標をこの力の育成に向けてその基礎を培うこととしています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   },
+   {
+    "text": "厚生労働省「楽しく食べる子どもに〜食からはじまる健やかガイド〜」（2004年）",
+    "url": "https://www.mhlw.go.jp/shingi/2004/02/s0219-3.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shokuiku-keikaku",
+  "term": "食育計画",
+  "en": "Food education plan",
+  "field": "子どもの食と栄養",
+  "def": "食育計画とは、保育所で食事の提供を含む食育を進めるために、全体的な計画に基づいて作る計画のことで、評価と改善に努めることが求められています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "seikatsu-kanri-shidohyo",
+  "term": "生活管理指導表",
+  "en": "Allergy management guidance form",
+  "field": "子どもの食と栄養",
+  "def": "生活管理指導表とは、保育所でのアレルギー対応に関する、子どもを中心に据えた医師と保護者、保育所のコミュニケーションツールとなる様式のことで、これに基づく対応が必須とされています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所におけるアレルギー対応ガイドライン（2019年改訂版）」",
+    "url": "https://sukoyaka21.cfa.go.jp/media/tools/s04_nyu_gail029.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kanzen-jokyo",
+  "term": "完全除去",
+  "en": "Complete elimination",
+  "field": "子どもの食と栄養",
+  "def": "完全除去とは、食物アレルギーの原因となる食物を、提供するかしないかの2択で扱う対応のことで、保育所では「完全除去」か「解除」の両極で対応することが基本とされています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所におけるアレルギー対応ガイドライン（2019年改訂版）」",
+    "url": "https://sukoyaka21.cfa.go.jp/media/tools/s04_nyu_gail029.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "anaphylaxis",
+  "term": "アナフィラキシー",
+  "en": "Anaphylaxis",
+  "field": "子どもの食と栄養",
+  "def": "アナフィラキシーとは、アレルギー反応により、じん麻疹などの皮膚症状、腹痛や嘔吐などの消化器症状、息苦しさなどの呼吸器症状が複数同時にかつ急激に出現した状態のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所におけるアレルギー対応ガイドライン（2019年改訂版）」",
+    "url": "https://sukoyaka21.cfa.go.jp/media/tools/s04_nyu_gail029.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hikiutai",
+  "term": "弾き歌い",
+  "en": "Singing while playing",
+  "field": "基本",
+  "def": "弾き歌いとは、ピアノやギターで伴奏を弾きながら歌うことで、保育士試験の音楽の実技では、幼児に歌って聴かせることを想定して課題曲2曲を弾き歌いします。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会「実技試験（前期）概要」",
+    "url": "https://www.hoyokyo.or.jp/exam/guidance/practicalexam1.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "yochien-menkyo-menjo",
+  "term": "幼稚園教諭免許状所有者の免除",
+  "en": "Exemption for kindergarten teacher license holders",
+  "field": "基本",
+  "def": "幼稚園教諭免許状所有者の免除とは、幼稚園教諭免許状（臨時免許を除く）をもつ人が免除申請をすると、保育士試験の保育の心理学・教育原理・実技試験が免除になるしくみのことです。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会「幼稚園教諭免許状所有者の免除について」",
+    "url": "https://www.hoyokyo.or.jp/exam/exemption/Howto-qualify_kinder.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ryoiki-hyogen",
+  "term": "領域「表現」",
+  "en": "Area of expression",
+  "field": "保育原理",
+  "def": "領域「表現」とは、保育所保育指針の5領域の1つで、感じたことや考えたことを自分なりに表現することを通して、豊かな感性や表現する力を養い、創造性を豊かにする領域のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ryoiki-kotoba",
+  "term": "領域「言葉」",
+  "en": "Area of language",
+  "field": "保育原理",
+  "def": "領域「言葉」とは、保育所保育指針の5領域の1つで、経験したことや考えたことを自分なりの言葉で表現し、相手の話す言葉を聞こうとする意欲や態度、言葉で表現する力を養う領域のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "yuko-kyujin-bairitsu",
+  "term": "有効求人倍率",
+  "en": "Ratio of job offers to applicants",
+  "field": "保育の現場の課題",
+  "def": "有効求人倍率とは、仕事を探す人1人あたりに求人がいくつあるかを示す数字のことで、保育士は令和7年10月に3.10倍と、全職種平均の1.20倍を上回っています。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育政策関係資料集」（令和8年4月）（保育人材の確保、保育士の登録者数と従事者数の推移、処遇改善）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/f924be75/20260416_policies_hoiku_228.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "senzai-hoikushi",
+  "term": "潜在保育士",
+  "en": "Inactive qualified nursery teachers",
+  "field": "保育の現場の課題",
+  "def": "潜在保育士とは、保育士の資格を持ちながら保育の現場で働いていない人のことで、国は再就職や職場復帰の支援を進めています。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育政策関係資料集」（令和8年4月）（保育人材の確保、保育士の登録者数と従事者数の推移、処遇改善）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/f924be75/20260416_policies_hoiku_228.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hoikusho-gyakutai",
+  "term": "保育所等における虐待",
+  "en": "Abuse by staff at childcare facilities",
+  "field": "保育の現場の課題",
+  "def": "保育所等における虐待とは、保育所等の職員が通う子どもに行う身体的虐待・性的虐待・ネグレクト・心理的虐待のことで、令和7年10月1日から見つけた人に通報義務があります（児童福祉法第33条の10・第33条の12）。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所等の職員による虐待に関する通報義務等について」（対象施設・事業、施行日、ガイドラインの概要）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/9bfb8838/20250908_policies_hoiku_154.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「児童福祉法」（第33条の10〜第33条の12・第33条の16）",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "gyakutai-boshi-guideline",
+  "term": "虐待防止ガイドライン（保育所等）",
+  "en": "Guidelines on preventing abuse at childcare facilities",
+  "field": "保育の現場の課題",
+  "def": "虐待防止ガイドライン（保育所等）とは、「保育所や幼稚園等における虐待の防止及び発生時の対応等に関するガイドライン」のことで、令和5年5月に策定され、令和7年8月に改訂されました。",
+  "sources": [
+   {
+    "text": "こども家庭庁・文部科学省「保育所や幼稚園等における虐待の防止及び発生時の対応等に関するガイドライン」（令和7年8月改訂）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/c3c02bee/20250908_policies_hoiku_153.pdf"
+   },
+   {
+    "text": "こども家庭庁「保育所等の職員による虐待に関する通報義務等について」（対象施設・事業、施行日、ガイドラインの概要）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/9bfb8838/20250908_policies_hoiku_154.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "anzen-keikaku",
+  "term": "安全計画",
+  "en": "Safety plan",
+  "field": "保育の現場の課題",
+  "def": "安全計画とは、児童福祉施設が設備の安全点検、施設外の活動を含む安全指導、職員の研修や訓練などについて定める計画のことで、保育所は令和5年4月から策定が義務になりました（基準第6条の3）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉施設の設備及び運営に関する基準」（第6条の3・第6条の4・附則）",
+    "url": "https://laws.e-gov.go.jp/law/323M40000100063"
+   },
+   {
+    "text": "厚生労働省子ども家庭局保育課 事務連絡「保育所等における安全計画の策定に関する留意事項等について」（令和4年12月15日）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/d7e254d2/20230401_policies_hoiku_10.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hiyari-hatto-hokoku",
+  "term": "ヒヤリハット報告",
+  "en": "Near-miss report",
+  "field": "保育の現場の課題",
+  "def": "ヒヤリハット報告とは、重大事故が起きるおそれがあった場面に関わった職員が作成して施設に出す報告のことで、施設は要因を分析して事故防止対策に生かします。",
+  "sources": [
+   {
+    "text": "「教育・保育施設等における事故防止及び事故発生時の対応のためのガイドライン【事故防止のための取組み】～施設・事業者向け～」（平成28年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/03f45df9-97e1-4016-b0c3-8496712699a3/39b6fd36/20230607_policies_child-safety_effort_guideline_02.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "okizari-boshi-sochi",
+  "term": "置き去り防止の安全装置",
+  "en": "Safety device to prevent children being left in vehicles",
+  "field": "保育の現場の課題",
+  "def": "置き去り防止の安全装置とは、送迎を目的とした車に備える、車内の子どもの見落としを防ぐブザーなどの装置のことで、日常的に送迎する保育所は降車時の所在確認に使います（基準第6条の4第2項）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉施設の設備及び運営に関する基準」（第6条の3・第6条の4・附則）",
+    "url": "https://laws.e-gov.go.jp/law/323M40000100063"
+   },
+   {
+    "text": "こども家庭庁「送迎用バスの安全対策」",
+    "url": "https://www.cfa.go.jp/policies/child-safety/effort/anzen_kanri/"
+   }
+  ],
+  "date": "2026-10-06"
+ }
+]

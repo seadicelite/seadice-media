@@ -1,0 +1,538 @@
+{
+  "readCheck": true,
+  "sideIndex": true,
+  "enabled": true,
+  "publish": "auto",
+  "slug": "kosodate",
+  "siteType": "article",
+  "name": "AI時代の子育て",
+  "titleName": "AI時代の子育て（SEADICE）",
+  "path": "sites/kosodate/",
+  "url": "https://kosodate.seadice.win/",
+  "concept": "子どもとAI・スマホ・学び・心の育ちなど、AI時代の親の疑問に、公開された研究と公的機関のデータ・指針から結論を先に答える。わかっていることと、まだわかっていないことを分けて示し、家庭で今日からできることに落とし込む。商品・教材・サービスの紹介はしない",
+  "reader": "AIやスマホが当たり前になった時代に、子どもとの付き合わせ方や育て方に迷い、根拠のある答えを検索してきた0〜18歳の子どもを持つ親",
+  "tone": "やさしく話しかける。親を責めない・不安を煽らない。断定より『研究ではこうだった』。わかっていないことは正直に書く",
+  "tagline": "Parenting in the AI age, by the data. AI時代の子育てを、研究データで考える。",
+  "lead": "子どもにAIは何歳から？宿題に使わせていい？スマホは何時間まで？AI時代の親の疑問に、研究と公的なデータから答えます。わかっていないことも正直に書きます。",
+  "titleSuffix": "子どもとAI・スマホ・学びを研究データで考えるメディア",
+  "description": "子どもにAIは何歳から？宿題に使わせていい？スマホは何時間まで？AI時代の子育ての疑問に、研究論文と公的機関のデータ・指針から結論を先に答えるメディア。商品の紹介はしません。出典つき。",
+  "about": "記事はAIが公開された研究論文や、WHO・米国小児科学会・文部科学省など公的機関のデータと指針を調べ、出典の内容を確認して作成しています。SEADICEが独自に実験や調査をしたものではありません。商品・教材・サービスの紹介はしていません。",
+  "theme": {
+    "bg": "#FFF8EE",
+    "card": "#FFFFFF",
+    "accent": "#BF4A33",
+    "accent2": "#2E7D60",
+    "border": "#F1E4D2",
+    "text": "#3B2F2A",
+    "muted": "#6E5F57",
+    "link": "#B0432E"
+  },
+  "categories": [
+    {
+      "name": "AIの使わせ方",
+      "id": "ai-use",
+      "color": "#BF4A33",
+      "icon": "link",
+      "desc": "何歳から、何に、どのルールで。子どもとAIの付き合わせ方を研究と公的指針から考える"
+    },
+    {
+      "name": "考える力・学び",
+      "id": "learning",
+      "color": "#2E7D60",
+      "icon": "book",
+      "desc": "AIに頼ると考える力は落ちるのか。学び方と思考力の研究"
+    },
+    {
+      "name": "スマホ・スクリーンタイム",
+      "id": "screen",
+      "color": "#2A6FA8",
+      "icon": "clock",
+      "desc": "スマホ・動画・ゲームの時間と、睡眠・発達・学力の関係をデータで見る"
+    },
+    {
+      "name": "心と親子関係",
+      "id": "heart",
+      "color": "#A84A72",
+      "icon": "heart",
+      "desc": "AIの話し相手、自己肯定感、親子の会話。心の育ちに関する研究"
+    },
+    {
+      "name": "AI時代の進路・将来",
+      "id": "future",
+      "color": "#9A6510",
+      "icon": "target",
+      "desc": "なくならない仕事、伸ばしたい力、習い事。将来に向けた選択を根拠から考える"
+    },
+    {
+      "name": "安全・プライバシー",
+      "id": "safety",
+      "color": "#5A5EA6",
+      "icon": "shield",
+      "desc": "子どもの写真・個人情報・ディープフェイク。ネットとAIの危険から守る工夫"
+    }
+  ],
+  "types": [
+    {
+      "id": "guide",
+      "label": "深掘り"
+    }
+  ],
+  "template": ".claude/commands/kosodate-template.html",
+  "rulesFrom": ".claude/commands/kosodate.md",
+  "relatedApps": "立ち上げ期はアプリ送客なし（メディアが育ってから作る方針）。関連アプリ欄は入れない",
+  "postsPerRun": 1,
+  "topicQueue": [
+    "子どもの自己肯定感を下げない叱り方。研究でわかっていること",
+    "中学生がAIで書いた作文を提出していた。気づいたときの親の対応は？",
+    "AIに任せていい勉強、任せてはいけない勉強。研究と文科省の指針で線を引く",
+    "子どもにスマートウォッチを持たせる影響は？研究でわかっていること",
+    "ディープフェイク・AI画像から子どもを守るには？家庭でできる対策",
+    "共働き家庭でスクリーンタイムが増えがち。影響はある？研究でわかっていること",
+    "AIに絵を描かせる・AIイラストで自由研究はどこまでいい？",
+    "何歳からAIの使い方を自分で判断できる？子どもの発達研究でわかっていること",
+    "子どものオンライン学習・リモート授業は、対面授業と比べて学力に影響する？研究でわかっていること",
+    "きょうだいが多いとスクリーンタイムが長くなる？研究でわかっていること",
+    "小学生の英語、早く始めるほど有利？学校で習う開始年齢の研究",
+    "中学生が夜中までスマホで勉強に集中できない。睡眠不足と成績の関係は？",
+    "小学生が音読の宿題を嫌がる。音読は読解力の役に立つ？",
+    "中学生が勉強中に通知が気になる。スマホの通知を切ると集中は変わる？",
+    "きょうだいでゲームの順番をめぐってけんかする。もめにくい決め方は？",
+    "年の差きょうだいの遊び方。上の子に我慢させすぎていないか心配",
+    "中学生がテスト勉強で教科書を読み返すだけ。効率のいい復習のしかたは？",
+    "子どもが友だちのLINEグループで仲間外れにされた。親が最初にすること",
+    "小学生が九九を覚えられない。くり返し唱える以外に効く練習は？",
+    "子どもが計算ミスを繰り返す。見直しの習慣は身につけられる？",
+    "中学生が英単語を覚えられない。単語帳の使い方で差は出る？",
+    "小学生が宿題を始めるまでに時間がかかる。声かけで変わる？",
+    "小学生が忘れ物ばかりする。叱るより効く工夫は？",
+    "子どもが負けると泣く・怒る。負けず嫌いとの付き合い方は？",
+    "小学生の朝の支度が遅い。何度も言わずに済む工夫は？",
+    "小学生が友だちの家でゲームばかりしている。よその家のルールにどう向き合う？",
+    "子どもが『どうせ自分なんて』と言う。口ぐせの裏にあるものと声かけ",
+    "子どもがフリースクールに通いたいと言う。学校以外の学びの場で心配なことは？",
+    "発達の特性がある子の不登校。休み方と相談先の選び方",
+    "子どもがSNSで知らない人にフォローされた。返事をしていなければ大丈夫？",
+    "子どもが友だちの写真を勝手にSNSに載せてしまった。謝り方と消し方",
+    "小学生の読書感想文、本を選べない子にどう声をかける？",
+    "小学生が鉛筆を正しく持てない。持ち方は今から直した方がいい？",
+    "子どもが友だちとのグループ通話で夜更かしする。時間の決め方は？",
+    "中学生が推し活にお金を使いたがる。お小遣いの使い方をどう話す？",
+    "子どもが自分の顔写真をAIで加工して投稿している。何に気をつける？",
+    "小学生が友だちに「死ね」と言った。言葉づかいの叱り方は？",
+    "小学生がスマホを夜中に隠れて使っていた。見つけたときの声かけと寝室のルール",
+    "中学生の子と、スマホの利用時間でけんかが絶えない。話し合いのきっかけの作り方",
+    "下の子が生まれてから上の子が赤ちゃん返り。いつまで続く？親の関わり方は",
+    "きょうだいの片方だけが勉強やスポーツができる。親の褒め方で気をつけることは？",
+    "小学生の子が「学校でいじめられている」と打ち明けた。最初の一言と、その日にすること",
+    "子どもが友だちに合わせすぎて疲れている。断れない子への声かけは？",
+    "小学生が仲良しの友だちと離れてクラス替えを嫌がる。新しいクラスになじむまでの目安は？",
+    "小学生が文章題の問題文を読まない。読み飛ばしを減らす声かけは？",
+    "中学生が教科書を読んでも頭に入らない。読みながら要約する練習は効く？",
+    "子どもが漫画しか読まない。漫画でも読む力は育つ？",
+    "小学生がゲームやスマホの時間をごまかす。嘘を責めるより先に見直したいルールの決め方",
+    "小学生がお年玉を全部使いたがる。お金の管理は何歳から任せる？",
+    "中学生が部活で疲れて宿題ができない。部活の時間と睡眠・成績の関係は？",
+    "小学生が夜なかなか寝つけない。寝る前の過ごし方で変わる？"
+  ],
+  "layout": "hub",
+  "faq": [
+    [
+      "AI時代の子育てとはどんなメディアですか？",
+      "AI・スマホ・学び・心の育ちなど、AI時代の子育ての疑問に、公開された研究と公的機関のデータから結論を先に答えるメディアです。SEADICEが運営しています。"
+    ],
+    [
+      "記事は誰が書いていますか？",
+      "AI（Claude）が研究論文や公的機関の資料を調べ、出典の内容を照合して作成しています。SEADICEが独自に実験や調査をしたものではありません。"
+    ],
+    [
+      "商品や教材の紹介はありますか？",
+      "ありません。商品・教材・サービスの紹介、アフィリエイト、広告は掲載していません。"
+    ]
+  ],
+  "trust": [
+    [
+      "研究と公的データが根拠",
+      "研究論文と、WHO・米国小児科学会・文部科学省などの公的なデータと指針を、AIが原典と照合して書いています。"
+    ],
+    [
+      "わかっていないことも書きます",
+      "子どもとAIの研究はまだ新しい分野です。わかっていることと、まだわかっていないことを分けて示します。"
+    ],
+    [
+      "何も売りません",
+      "商品・教材・サービスの紹介、アフィリエイト、広告は一切ありません。"
+    ]
+  ],
+  "pageSections": {
+    "about": [
+      [
+        "運営",
+        [
+          "{name} は、アプリスタジオ SEADICE（シーダイス）が運営するメディアです。",
+          "{concept_short}"
+        ]
+      ],
+      [
+        "記事の作り方",
+        [
+          "記事は、AI（Claude）が公開されている研究論文や、公的機関のデータ・指針を調べ、内容を確認して整理し、作成しています。SEADICE が独自に実験や調査をしたものではありません。",
+          "AI が作成した記事は、公開前に、出典の照合など決められた検査を通ったものだけを掲載します。検査を通らなかった記事は公開しません。"
+        ]
+      ],
+      [
+        "編集方針",
+        [
+          "記事の軸は「親の疑問に、研究データから結論を先に答える」ことと「家庭で今日からできること」です。",
+          "確認できた出典だけを書きます。研究の対象や限界、まだわかっていないことを、できるだけ添えて紹介します。親を責めたり、不安を煽ったりする書き方はしません。"
+        ]
+      ],
+      [
+        "何も売りません",
+        [
+          "AI時代の子育ては、商品・教材・サービスの紹介やアフィリエイトを一切行いません。広告も掲載しません。"
+        ]
+      ],
+      [
+        "お問い合わせ",
+        [
+          "記事の誤りのご指摘や、ご意見は <a href=\"mailto:hi@seadice.win\">hi@seadice.win</a> までご連絡ください。"
+        ]
+      ]
+    ],
+    "sources": [
+      [
+        "使う出典",
+        [
+          "査読のある学術論文（発達心理学・教育学・小児医学など）、メタ分析・システマティックレビュー、WHO・米国小児科学会・OECD・ユネスコ・文部科学省・こども家庭庁などの公的機関のデータと指針を使います。教材・アプリ・通信教育などの事業者による調査は出典にしません。",
+          "各記事の末尾に、著者、発行年、タイトル、掲載誌、リンクを載せています。"
+        ]
+      ],
+      [
+        "検証の方法",
+        [
+          "1. 論文の原典（要旨や本文）や公的資料を開き、記事に書く数値と主張が、原典に書かれていることを1件ずつ照合します。",
+          "2. 原典が開けない場合は、別の信頼できる情報源で確認できた内容だけを使います。",
+          "3. 確認できなかった数値や主張は、記事から削除します。"
+        ]
+      ],
+      [
+        "わかっている度",
+        [
+          "各記事には、研究の量と質から判断した「わかっている度」（★3段階）を表示します。★★★は複数の研究やメタ分析で結果がそろっているもの、★☆☆は研究が少ない・結果が分かれているものです。"
+        ]
+      ],
+      [
+        "写真",
+        [
+          "記事の写真は、Wikimedia Commons の、自由に利用できるライセンス（パブリックドメイン、CC0、CC BY、CC BY-SA）の素材を使い、撮影者とライセンスを各記事に表示しています。子どもの顔がはっきり写った写真は使いません。"
+        ]
+      ],
+      [
+        "訂正について",
+        [
+          "誤りがあれば、確認のうえ修正し、記事の日付を更新します。ご指摘は hi@seadice.win までお願いします。"
+        ]
+      ]
+    ],
+    "disclaimer": [
+      [
+        "情報の性質",
+        [
+          "{name}の記事は、公開された研究とデータをもとにした一般的な子育ての情報であり、医師・専門家による個別の助言や診断の代わりになるものではありません。",
+          "研究の結果は、対象となった集団についての傾向であり、すべての子どもや家庭に当てはまるとは限りません。"
+        ]
+      ],
+      [
+        "心配なとき",
+        [
+          "お子さんの発達・睡眠・心の様子で気になることがあるときは、かかりつけの小児科や、お住まいの自治体の子育て相談窓口に相談できます。"
+        ]
+      ],
+      [
+        "責任の範囲",
+        [
+          "記事の内容には、正確を期していますが、その完全性や、特定の目的への適合性を保証するものではありません。記事を参考にした行動の結果について、当メディアは責任を負いません。"
+        ]
+      ]
+    ]
+  },
+  "extraNav": [
+    {
+      "label": "悩みチェック",
+      "path": "/check/"
+    },
+    {
+      "label": "研究早見表",
+      "path": "/hayami/"
+    },
+    {
+      "label": "スクリーンタイム判定",
+      "path": "/screen-time-check/"
+    },
+    {
+      "label": "AIで練習するSNS",
+      "path": "/sns-practice/"
+    },
+    {
+      "label": "れんしゅうAI",
+      "path": "/ai-practice/"
+    },
+    {
+      "label": "年齢別ガイド",
+      "path": "/guide/"
+    },
+    {
+      "label": "AI時代の子育てで大事なこと",
+      "path": "/ai-era-parenting/"
+    },
+    {
+      "label": "子どもとAI 10の問い",
+      "path": "/ai/"
+    },
+    {
+      "label": "親がやるといいこと",
+      "path": "/dos/"
+    },
+    {
+      "label": "させない方がいいこと",
+      "path": "/avoid/"
+    },
+    {
+      "label": "ルールづくり（印刷用）",
+      "path": "/rules/"
+    },
+    {
+      "label": "用語集",
+      "path": "/glossary/"
+    }
+  ],
+  "mastheadHtml": "<div class=\"ks-mast\"><div class=\"ks-blocks\" aria-hidden=\"true\"><i></i><i></i><i></i><i></i><i></i></div><p class=\"ks-en\">SEADICE</p><h1>AI時代の<span class=\"ks-hl\">子育て</span></h1><p class=\"ks-tag\">AI時代の子育てを、研究データで考える。</p><p class=\"ks-lead\">%LEAD%</p><p class=\"ks-count\">いま <b>%POSTS%</b> 本の記事・<b>%CATS%</b> つのテーマ</p></div><!--mastend-->",
+  "extraCss": "body{background-color:#FFF8EE;background-image:linear-gradient(rgba(62,124,177,.07) 1px,transparent 1px),linear-gradient(90deg,rgba(62,124,177,.07) 1px,transparent 1px);background-size:22px 22px} .nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#6E5F57;color:#6E5F57} nav.top{background:rgba(255,248,238,.92)}nav.top a.r{font-weight:900;color:#3B2F2A;letter-spacing:.06em} .ks-mast{position:relative;background:#fff;border:2px solid #3B2F2A;border-radius:22px;padding:30px 28px 26px;margin-bottom:22px;box-shadow:6px 6px 0 #3B2F2A} .ks-blocks{position:absolute;right:26px;top:26px;display:grid;grid-template-columns:repeat(3,28px);gap:4px} .ks-blocks i{height:28px;border-radius:6px;border:2px solid #3B2F2A} .ks-blocks i:nth-child(1){background:#BF4A33;grid-column:3}.ks-blocks i:nth-child(2){background:#E8B23A;grid-column:2/4}.ks-blocks i:nth-child(3){background:#2E7D60}.ks-blocks i:nth-child(4){background:#3E7CB1}.ks-blocks i:nth-child(5){background:#E8B23A} .ks-en{font-size:13px;font-weight:700;letter-spacing:.08em;color:#2E7D60} .ks-mast h1{font-size:clamp(46px,10vw,86px);font-weight:900;line-height:1.15;letter-spacing:.04em;margin-top:8px;background:none;-webkit-text-fill-color:#3B2F2A;color:#3B2F2A} .ks-hl{background:linear-gradient(transparent 58%,rgba(232,178,58,.65) 58%,rgba(232,178,58,.65) 92%,transparent 92%)} .ks-tag{font-size:18px;font-weight:800;color:#3B2F2A;margin-top:12px} .ks-lead{font-size:14.5px;color:#6E5F57;margin-top:8px;max-width:560px;line-height:1.85} .ks-count{margin-top:16px;font-size:14px;color:#6E5F57}.ks-count b{font-size:26px;color:#BF4A33;font-weight:900;margin:0 2px} @media(max-width:640px){.ks-blocks{display:none}.ks-mast{padding:24px 18px}} .gnav{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 34px!important}.gnav a{border-radius:4px 4px 12px 4px;background:#FFF3C4;border:1.5px solid #3B2F2A;color:#3B2F2A;font-weight:700;padding:7px 14px;text-decoration:none;transform:rotate(-1deg);box-shadow:2px 2px 0 #3B2F2A;font-size:14px}.gnav a:nth-child(2n){background:#E3F1EA;transform:rotate(1deg)}.gnav a:nth-child(3n){background:#FBE3DC}.gnav a:hover{transform:none}h2.sec{font-weight:900;color:#3B2F2A;letter-spacing:.2em} .card,.feat,.srow,.tile,.about,.faq details,.empty,.trust div{border-radius:18px} .card{border:1.5px solid #3B2F2A;box-shadow:4px 4px 0 rgba(59,47,42,.85)}.card:hover{transform:translate(-2px,-2px);box-shadow:6px 6px 0 #3B2F2A} .tile{border:1.5px solid #3B2F2A;box-shadow:3px 3px 0 rgba(59,47,42,.85)}.srow{border:1.5px solid rgba(59,47,42,.25);background:#fff} .feat{border:1.5px solid #3B2F2A}.feat .sh{background:linear-gradient(180deg,rgba(0,0,0,0) 25%,rgba(30,22,18,.85))!important}.feat h2,.feat p{color:#FFF8EE!important;-webkit-text-fill-color:#FFF8EE} .tag,.ty{border-radius:999px;font-weight:700} .ticker .lb{background:#BF4A33;border-radius:0 12px 12px 0;font-weight:900} .two:has(.empty){grid-template-columns:1fr}.two section:has(.empty){display:none} .sechead h2{font-weight:900}",
+  "articleCss": "body{background-color:#FFF8EE;background-image:linear-gradient(rgba(62,124,177,.07) 1px,transparent 1px),linear-gradient(90deg,rgba(62,124,177,.07) 1px,transparent 1px);background-size:22px 22px}nav{background:rgba(255,248,238,.92)!important} h1{font-weight:900} .summary{border:2px solid #3B2F2A!important;border-radius:18px!important;background:#fff!important;box-shadow:5px 5px 0 #3B2F2A} .summary h2{display:inline-block;background:#E8B23A;color:#3B2F2A!important;padding:2px 12px;border-radius:999px;font-weight:900} h2.sec .n{display:inline-block;background:#BF4A33;color:#fff!important;border-radius:8px;padding:2px 10px;font-weight:900;margin-bottom:8px} .answer{background:linear-gradient(transparent 70%,rgba(232,178,58,.35) 70%);border-left:none!important;padding-left:0!important;font-weight:700} .stat{border:1.5px solid #3B2F2A!important;border-radius:14px!important;box-shadow:3px 3px 0 #3B2F2A} .study,.step,.related a,details,.note,.idea,.prevnext a{border-radius:14px!important} .hero img{border-radius:16px;border:1.5px solid #3B2F2A}",
+  "hub": {
+    "ages": [
+      {
+        "label": "0〜2歳",
+        "sub": "動画を見せる時間、言葉の発達",
+        "href": "/guide/age-0-2/"
+      },
+      {
+        "label": "3〜5歳",
+        "sub": "「もっと見たい」、AIスピーカー",
+        "href": "/guide/age-3-5/"
+      },
+      {
+        "label": "小学生",
+        "sub": "宿題とAI、はじめてのスマホ",
+        "href": "/guide/elementary/"
+      },
+      {
+        "label": "中高生",
+        "sub": "SNS、受験とAI、反抗期",
+        "href": "/guide/teens/"
+      }
+    ],
+    "questions": [
+      {
+        "q": "スマホ・動画は1日何時間まで？",
+        "slug": "kids-screen-time-hours"
+      },
+      {
+        "q": "AIは何歳から使わせていい？",
+        "slug": "ai-age-for-kids"
+      },
+      {
+        "q": "宿題にAIを使うと、考える力は落ちる？",
+        "slug": "homework-ai-thinking-skills"
+      },
+      {
+        "q": "自分のスマホは何歳から持たせる？",
+        "slug": "smartphone-first-age-ownership-risk"
+      },
+      {
+        "q": "「YouTubeもっと見たい」をどう断る？",
+        "slug": "youtube-more-please-how-to-say-no"
+      },
+      {
+        "q": "AIを友達のように話し相手にしている。大丈夫？",
+        "slug": "ai-companion-loneliness"
+      },
+      {
+        "q": "子どもがAIに悩みを相談している。人と何が違う？",
+        "slug": "ai-chatbot-worry-consultation-safety"
+      },
+      {
+        "q": "家のスマホのルールは、どう決めるとうまくいく？",
+        "slug": "family-screen-time-rules-research"
+      }
+    ],
+    "actionsLead": "夫婦や子どもとルールを決めるときに、そのまま見せたり印刷したりできるページです。",
+    "actions": [
+      {
+        "label": "AI時代の子育てで大事なこと（7つの説を判定）",
+        "desc": "よく聞く説を、研究と公的な指針で1つずつ確かめました。根拠がそろうのは3つでした。",
+        "href": "/ai-era-parenting/"
+      },
+      {
+        "label": "わが家のルールづくり（印刷できる）",
+        "desc": "年齢を選んで、時間・寝る前・AIの使い方のルールを選ぶと、印刷できるルール表ができます。",
+        "href": "/rules/"
+      },
+      {
+        "label": "親がやるといいこと19選",
+        "desc": "研究で効果が見られた関わり方を、記事の結論から集めました。",
+        "href": "/dos/"
+      },
+      {
+        "label": "させない方がいいこと",
+        "desc": "避けたいことと、心配しすぎなくていいことを分けて載せています。",
+        "href": "/avoid/"
+      }
+    ],
+    "latest": 4,
+    "tools": [
+      {
+        "kicker": "新しいツール",
+        "label": "スクリーンタイム判定：スクショを選ぶだけ",
+        "desc": "年齢と、スマホのスクリーンタイムの画面を入れると、WHOの目安と研究に照らして今日からできることを表示します。",
+        "href": "/screen-time-check/"
+      },
+      {
+        "kicker": "新しいツール",
+        "label": "AIで練習するSNS（子ども向け）",
+        "desc": "知らない人のDM、悪口、写真の投稿、詐欺リンク。本物のSNSを使う前に、AIコーチつきで安全に練習できます。",
+        "href": "/sns-practice/"
+      },
+      {
+        "kicker": "新しいツール",
+        "label": "れんしゅうAI（子ども向け）",
+        "desc": "宿題の丸写し、AIのまちがい、家族の声をまねる電話、にせ動画。AIを使い始めるころに、12の場面で安全に練習できます。",
+        "href": "/ai-practice/"
+      }
+    ]
+  },
+  "apps": [
+    {
+      "id": "renshu-sns",
+      "name": "れんしゅうSNS",
+      "appStoreId": "6820029513",
+      "icon": "/img/apps/renshu-sns.webp",
+      "catch": "本物のSNSを始める前に、知らない人からのDMや悪口の書き込みへの返し方を、アプリの中だけで練習できる。投稿は外に出ず、保護者確認つき",
+      "hubLead": "アプリの練習場面の元になった記事です。SNSやネットのトラブルが研究でどこまでわかっているか、親子で読んでから練習するとより身につきます。",
+      "theme": "子ども自身のSNS・チャット・ネット上の人間関係のトラブル(知らない人との接触、ネットいじめ、初めてのスマホ・SNS)の記事だけに付ける。親の投稿(シェアレンティング)、スクリーンタイムの時間、AIチャットボットの記事には付けない",
+      "articles": [
+        "online-gaming-strangers-chat-risk",
+        "cyberbullying-children-parent-awareness",
+        "smartphone-first-age-ownership-risk",
+        "family-screen-time-rules-research"
+      ]
+    },
+    {
+      "id": "active-recall",
+      "name": "おもいだしトレーニング",
+      "appStoreId": "6801937769",
+      "icon": "/img/apps/active-recall.webp",
+      "catch": "覚えたい範囲を入れるか教科書を撮ると、AIが一問一答を作る。何も見ずに答えを書いて、忘れかけた頃に復習日が回ってくる",
+      "hubLead": "AIに答えを聞く時代に、子どもが自分の頭で覚える力を育てるための記憶の研究です。",
+      "theme": "子どもの記憶・学習で、自分で思い出す練習が役立つ話題。スクリーンタイムの記事には付けない",
+      "articles": [
+        "ai-answers-memory-retention"
+      ]
+    }
+  ],
+  "toolbox": [
+    {
+      "name": "子どものAI・スマホの悩みチェック",
+      "desc": "悩みを選ぶと、親が今日やることがわかる",
+      "href": "/check/",
+      "all": true
+    },
+    {
+      "name": "スクリーンタイム判定",
+      "desc": "スクショから、年齢別の目安（WHOなど）と比べる",
+      "href": "/screen-time-check/",
+      "cats": [
+        "スマホ・スクリーンタイム"
+      ]
+    },
+    {
+      "name": "朝の様子の記録（登校しぶり）",
+      "desc": "行けた・休んだと朝の訴えを1タップで記録し、曜日の傾向と学校に見せるまとめを作る",
+      "href": "/asa-kiroku/",
+      "slugs": [
+        "school-refusal-first-signs-parents",
+        "nursery-separation-anxiety-how-long"
+      ]
+    },
+    {
+      "name": "宿題の環境チェック",
+      "desc": "スマホの置き場所・音楽・AIの使い方から、今日変える1つがわかる",
+      "href": "/shukudai-check/",
+      "cats": [
+        "考える力・学び"
+      ],
+      "slugs": [
+        "homework-ai-thinking-skills",
+        "ai-homework-copying-what-to-say",
+        "ai-book-report-homework-help",
+        "ai-exam-prep-high-school"
+      ]
+    },
+    {
+      "name": "ゲーム・SNSの見守りノート",
+      "desc": "取り上げる前に、終わる場面と声かけを1タップで記録して見直す",
+      "href": "/game-mimamori/",
+      "slugs": [
+        "game-cant-stop-time-limit-taking-away",
+        "gaming-disorder-children-research"
+      ]
+    },
+    {
+      "name": "声かけの言いかえ帳",
+      "desc": "褒め方・叱り方・きょうだい・ゲームの12場面を、研究にもとづく言い方に",
+      "href": "/iikae/",
+      "cats": [
+        "心と親子関係"
+      ],
+      "slugs": [
+        "youtube-more-please-how-to-say-no",
+        "game-cant-stop-time-limit-taking-away",
+        "children-quitting-activities-research"
+      ]
+    },
+    {
+      "name": "AIに話す？人に話す？ 親子で考える10問",
+      "desc": "相談ごとをAIと人に分けて考え、話せる大人を書いた約束カードを作る",
+      "href": "/ai-soudan/",
+      "slugs": [
+        "ai-chatbot-worry-consultation-safety",
+        "ai-companion-loneliness",
+        "ai-chatbot-conversations-children-risk",
+        "ai-sexual-violent-content-filter-age-limit",
+        "child-told-ai-name-school-privacy"
+      ]
+    },
+    {
+      "name": "AIで練習するSNS",
+      "desc": "知らない人のDM・悪口・写真投稿などを、子どもと一緒に練習する",
+      "href": "/sns-practice/",
+      "cats": [
+        "安全・プライバシー"
+      ]
+    },
+    {
+      "name": "スマホ・AIルールづくり（印刷用）",
+      "desc": "年齢別に選んで、家族のルール表を印刷できる",
+      "href": "/rules/",
+      "cats": [
+        "AIの使わせ方",
+        "スマホ・スクリーンタイム"
+      ]
+    },
+    {
+      "name": "研究早見表",
+      "desc": "悩み別に、研究の答えと今日できることを一覧で見る",
+      "href": "/hayami/"
+    }
+  ]
+}

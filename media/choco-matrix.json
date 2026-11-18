@@ -1,0 +1,261 @@
+{
+  "cols": [
+    {
+      "id": "why",
+      "label": "仕組み",
+      "q": "なぜそうなる？（体・材料の中で起きていること）"
+    },
+    {
+      "id": "myth",
+      "label": "確かめる",
+      "q": "よく聞く説は本当？（研究で確かめる）"
+    },
+    {
+      "id": "make",
+      "label": "作り方",
+      "q": "何を変えると変わる？（材料・工程・食べ方）"
+    },
+    {
+      "id": "data",
+      "label": "数字",
+      "q": "データで見ると？（測定値・統計・地域）"
+    },
+    {
+      "id": "use",
+      "label": "使う",
+      "q": "自分で試せるツール・実験"
+    }
+  ],
+  "rows": [
+    {
+      "id": "crystal",
+      "label": "結晶とつや",
+      "cells": {
+        "why": [
+          "temper-crystal-form-v"
+        ],
+        "make": [
+          "tempering-temperatures",
+          "seeding-method"
+        ],
+        "use": [
+          "https://choco.seadice.win/tool/"
+        ],
+        "myth": [
+          "no-temper-just-chill"
+        ]
+      }
+    },
+    {
+      "id": "melt",
+      "label": "口どけ",
+      "cells": {
+        "why": [
+          "melt-flavor-release"
+        ],
+        "make": [
+          "particle-size-smooth"
+        ],
+        "use": [
+          "https://choco.seadice.win/notebook/"
+        ],
+        "myth": [
+          "vegetable-fat-melt"
+        ],
+        "data": [
+          "melting-point-mouth",
+          "melt-speed-liking"
+        ]
+      }
+    },
+    {
+      "id": "bloom",
+      "label": "保存とブルーム",
+      "cells": {
+        "why": [
+          "fat-bloom-white"
+        ],
+        "myth": [
+          "storage-fridge"
+        ],
+        "make": [
+          "rescue-bloomed"
+        ],
+        "data": [
+          "bloom-days"
+        ]
+      }
+    },
+    {
+      "id": "bean",
+      "label": "豆と発酵",
+      "cells": {
+        "why": [
+          "fermentation-flavor"
+        ],
+        "myth": [
+          "origin-variety-flavor"
+        ],
+        "make": [
+          "drying-sour-beans"
+        ],
+        "data": [
+          "cacao-production-stats"
+        ]
+      }
+    },
+    {
+      "id": "roast",
+      "label": "焙煎と練り",
+      "cells": {
+        "make": [
+          "roasting-temperature",
+          "conching-time"
+        ],
+        "why": [
+          "roast-maillard-why"
+        ],
+        "myth": [
+          "dark-roast-better"
+        ],
+        "data": [
+          "roast-polyphenol-loss"
+        ]
+      }
+    },
+    {
+      "id": "aroma",
+      "label": "香り",
+      "cells": {
+        "why": [
+          "aroma-key-odorants"
+        ],
+        "use": [
+          "https://choco.seadice.win/notebook/"
+        ],
+        "myth": [
+          "fruity-floral-cacao"
+        ],
+        "make": [
+          "vanilla-spice-aroma"
+        ]
+      }
+    },
+    {
+      "id": "taste",
+      "label": "甘さと苦み",
+      "cells": {
+        "data": [
+          "sweetness-bliss-point",
+          "cacao-percent-bitter"
+        ],
+        "why": [
+          "aftertaste-temporal"
+        ],
+        "make": [
+          "salt-contrast-inclusions"
+        ],
+        "use": [
+          "https://choco.seadice.win/notebook/"
+        ],
+        "myth": [
+          "pairing-coffee-wine"
+        ]
+      }
+    },
+    {
+      "id": "again",
+      "label": "もう一度食べたくなる",
+      "cells": {
+        "why": [
+          "want-another-piece"
+        ],
+        "myth": [
+          "chocolate-craving",
+          "repeated-exposure-bitter"
+        ],
+        "use": [
+          "https://choco.seadice.win/notebook/"
+        ],
+        "make": [
+          "serving-temperature"
+        ],
+        "data": [
+          "first-vs-third-bite"
+        ]
+      }
+    },
+    {
+      "id": "gift",
+      "label": "誰かにあげたくなる",
+      "cells": {
+        "why": [],
+        "myth": [
+          "assortment-variety"
+        ],
+        "make": [
+          "gloss-appearance",
+          "packaging-crossmodal",
+          "shape-sweetness"
+        ],
+        "use": [
+          "https://choco.seadice.win/notebook/"
+        ],
+        "data": [
+          "japan-valentine-stats",
+          "gift-count-size"
+        ]
+      }
+    },
+    {
+      "id": "buy",
+      "label": "もう一度買いたくなる",
+      "cells": {
+        "data": [
+          "buy-again-liking",
+          "fairtrade-label-taste"
+        ],
+        "myth": [
+          "price-expectation-taste",
+          "origin-story-label",
+          "cacao-percent-label"
+        ],
+        "use": [
+          "https://choco.seadice.win/notebook/"
+        ],
+        "why": [
+          "remember-and-rebuy"
+        ],
+        "make": [
+          "less-sugar-rebuy"
+        ]
+      }
+    },
+    {
+      "id": "safety",
+      "label": "体と安全",
+      "cells": {
+        "myth": [
+          "flavanol-health-claims"
+        ],
+        "data": [
+          "heavy-metals-dark"
+        ],
+        "use": [
+          "dog-chocolate-theobromine"
+        ],
+        "why": [
+          "theobromine-caffeine-body"
+        ],
+        "make": [
+          "kids-caffeine",
+          "high-cacao-health-label"
+        ]
+      }
+    }
+  ],
+  "research": [
+    "sensory-panel-size",
+    "maker-bias-ikea-effect"
+  ]
+}

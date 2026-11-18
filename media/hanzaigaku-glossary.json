@@ -1,0 +1,1242 @@
+[
+ {
+  "id": "criminology",
+  "term": "犯罪学",
+  "en": "Criminology",
+  "field": "基本",
+  "def": "犯罪学とは、犯罪を社会の現象としてとらえ、法がつくられること・法が破られること・それに社会が反応することを、データと方法にもとづいて調べる学問のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "crime",
+  "term": "犯罪",
+  "en": "Crime",
+  "field": "基本",
+  "def": "犯罪とは、法律が刑罰を定めている行為のことです。何が犯罪になるかは法律で決まり、法律の改正によって時代とともに変わります。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "criminal-psychology",
+  "term": "犯罪心理学",
+  "en": "Criminal psychology",
+  "field": "基本",
+  "def": "犯罪心理学とは、犯罪や非行を、個人の心の働きや発達から説明しようとする心理学の分野のことです。犯罪学の一部を担っています。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "recorded-crime",
+  "term": "認知件数",
+  "en": "Recorded crime",
+  "field": "統計",
+  "def": "認知件数とは、警察が発生を認知した事件の数のことです。犯罪白書や警察の統計で、犯罪の量を表す基本の数字として使われます。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "crime-rate",
+  "term": "発生率",
+  "en": "Crime rate",
+  "field": "統計",
+  "def": "発生率とは、人口10万人あたりの認知件数のことです。人口の違う年や地域どうしを比べるときに使います。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "cleared-cases",
+  "term": "検挙件数",
+  "en": "Cleared cases",
+  "field": "統計",
+  "def": "検挙件数とは、警察などが検挙した事件の数のことです。検察官に送った件数のほか、微罪処分にした件数なども含みます。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "clearance-rate",
+  "term": "検挙率",
+  "en": "Clearance rate",
+  "field": "統計",
+  "def": "検挙率とは、検挙件数を認知件数で割り、100を掛けた割合のことです。前の年に認知した事件の検挙も含むため、100％を超えることがあります。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "white-paper-on-crime",
+  "term": "犯罪白書",
+  "en": "White Paper on Crime",
+  "field": "統計",
+  "def": "犯罪白書とは、法務省の法務総合研究所が毎年まとめる、犯罪の情勢と罪を犯した人の処遇の実情を報告する白書のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "dark-figure",
+  "term": "暗数",
+  "en": "Dark figure of crime",
+  "field": "統計",
+  "def": "暗数とは、実際に起きたのに警察などに知られず、統計の認知件数に入らない犯罪のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "victimization-survey",
+  "term": "犯罪被害実態（暗数）調査",
+  "en": "Crime victimization survey",
+  "field": "統計",
+  "def": "犯罪被害実態（暗数）調査とは、住民に犯罪の被害に遭った経験と、警察に届けたかどうかを直接たずね、暗数を含めた被害の実態を調べる調査のことです。日本では法務総合研究所が2000年から行っています。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "reporting-rate",
+  "term": "被害申告率",
+  "en": "Reporting rate",
+  "field": "統計",
+  "def": "被害申告率とは、犯罪の被害に遭った人のうち、警察などの捜査機関に被害を届けた人の割合のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "self-report-survey",
+  "term": "自己申告調査",
+  "en": "Self-report survey",
+  "field": "研究法",
+  "def": "自己申告調査とは、人々に自分が過去にした違反や非行を匿名でたずね、統計に表れない犯罪や非行を調べる方法のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "longitudinal-study",
+  "term": "縦断研究",
+  "en": "Longitudinal study",
+  "field": "研究法",
+  "def": "縦断研究とは、同じ人たちを長い年月追いかけて、何度も調べる研究方法のことです。犯罪の始まり・続き方・終わり方を調べるのに使われます。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "randomized-controlled-trial",
+  "term": "ランダム化比較試験",
+  "en": "Randomized controlled trial",
+  "field": "研究法",
+  "def": "ランダム化比較試験とは、対象をくじ引きのように無作為に2つ以上のグループに分け、取り組みを行うグループと行わないグループを比べて効果を確かめる方法のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "hot-spots",
+  "term": "ホットスポット",
+  "en": "Crime hot spot",
+  "field": "環境犯罪学",
+  "def": "ホットスポットとは、犯罪が集中して起きている、交差点や街区などの小さな場所のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "classical-school",
+  "term": "古典学派",
+  "en": "Classical school",
+  "field": "理論",
+  "def": "古典学派とは、人は得と損を考えて行動するという前提に立ち、明確でつり合った刑罰によって犯罪を防ごうとした、18世紀の犯罪と刑罰の考え方のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "positivist-school",
+  "term": "実証主義（実証学派）",
+  "en": "Positivist school",
+  "field": "理論",
+  "def": "実証主義とは、犯罪の原因を、観察や測定などの科学的な方法で明らかにしようとする、19世紀後半に広まった立場のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "deterrence",
+  "term": "抑止",
+  "en": "Deterrence",
+  "field": "理論",
+  "def": "抑止とは、刑罰を受けるおそれによって、人が犯罪をするのを思いとどまらせる働きのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "strain-theory",
+  "term": "緊張理論",
+  "en": "Strain theory",
+  "field": "理論",
+  "def": "緊張理論とは、社会が大切にする目標と、それを手に入れる正当な手段とのずれが、人を犯罪へ向かわせる圧力になると考える理論のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "differential-association",
+  "term": "分化的接触理論",
+  "en": "Differential association theory",
+  "field": "理論",
+  "def": "分化的接触理論とは、犯罪のやり方や犯罪を正当化する考え方は、身近な人との交流の中で学習されると考える、サザーランドの理論のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "social-bond-theory",
+  "term": "社会的絆理論",
+  "en": "Social bond theory",
+  "field": "理論",
+  "def": "社会的絆理論とは、人が犯罪をしないのは家族・学校・地域などとの絆があるからであり、その絆が弱まると犯罪が起きやすくなると考える、ハーシの理論のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "labeling-theory",
+  "term": "ラベリング理論",
+  "en": "Labeling theory",
+  "field": "理論",
+  "def": "ラベリング理論とは、周りから「犯罪者」「非行少年」というレッテルを貼られることが、その人をさらに逸脱へ向かわせることがあると考える理論のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "routine-activity-theory",
+  "term": "日常活動理論",
+  "en": "Routine activity theory",
+  "field": "環境犯罪学",
+  "def": "日常活動理論とは、犯罪をしようとする人、ふさわしい標的、見守る人の不在の3つが、同じ時と場所にそろったときに犯罪が起きると考える理論のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "situational-crime-prevention",
+  "term": "状況的犯罪予防",
+  "en": "Situational crime prevention",
+  "field": "環境犯罪学",
+  "def": "状況的犯罪予防とは、犯罪が起きる場面の条件を変えて、犯罪を難しく、割に合わないものにすることで防ぐ方法のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "cpted",
+  "term": "防犯環境設計",
+  "en": "Crime prevention through environmental design (CPTED)",
+  "field": "環境犯罪学",
+  "def": "防犯環境設計とは、建物・道路・公園などの設計を工夫して、見通しをよくしたり侵入しにくくしたりすることで、犯罪を起こりにくくする考え方のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "broken-windows",
+  "term": "割れ窓理論",
+  "en": "Broken windows theory",
+  "field": "環境犯罪学",
+  "def": "割れ窓理論とは、割れた窓のような小さな秩序の乱れを放っておくと、地域の見守りが弱まり、より深刻な犯罪を招くと考える理論のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "life-course-criminology",
+  "term": "ライフコース犯罪学",
+  "en": "Life-course criminology",
+  "field": "発達",
+  "def": "ライフコース犯罪学とは、子どもから大人までの人生の流れの中で、犯罪がいつ始まり、どう続き、どうやんでいくのかを調べる分野のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "age-crime-curve",
+  "term": "年齢犯罪曲線",
+  "en": "Age-crime curve",
+  "field": "発達",
+  "def": "年齢犯罪曲線とは、年齢ごとの犯罪の多さを表したグラフのことです。多くの社会で、10代後半から20代前半に高くなり、その後は下がっていく形になります。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "desistance",
+  "term": "デジスタンス（犯罪からの離脱）",
+  "en": "Desistance",
+  "field": "発達",
+  "def": "デジスタンスとは、犯罪を繰り返していた人が、犯罪をしない生活へ移っていく過程のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "victimology",
+  "term": "被害者学",
+  "en": "Victimology",
+  "field": "被害者",
+  "def": "被害者学とは、犯罪の被害に遭う人の特徴や被害の影響、被害者への支援などを研究する分野のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "repeat-victimization",
+  "term": "反復被害",
+  "en": "Repeat victimization",
+  "field": "被害者",
+  "def": "反復被害とは、一度犯罪の被害に遭った人や場所が、短い期間のうちに再び被害に遭うことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "juvenile-delinquency",
+  "term": "少年非行",
+  "en": "Juvenile delinquency",
+  "field": "少年",
+  "def": "少年非行とは、20歳未満の少年による犯罪や、法に触れる行為などのことです。日本では少年法にもとづいて扱われます。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "prosecution",
+  "term": "起訴",
+  "en": "Prosecution",
+  "field": "刑事司法",
+  "def": "起訴とは、検察官が裁判所に対して、被疑者を裁判にかけるよう求めることです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "lay-judge-system",
+  "term": "裁判員制度",
+  "en": "Lay judge system",
+  "field": "刑事司法",
+  "def": "裁判員制度とは、国民の中から選ばれた裁判員が、裁判官と一緒に重大な刑事事件の裁判に参加する制度のことです。2009年に始まりました。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "probation",
+  "term": "保護観察",
+  "en": "Probation and parole supervision",
+  "field": "更生",
+  "def": "保護観察とは、罪を犯した人や非行のある少年が社会の中で立ち直れるよう、保護観察官と保護司が指導や支援を行うことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "parole",
+  "term": "仮釈放",
+  "en": "Parole",
+  "field": "更生",
+  "def": "仮釈放とは、刑務所に入っている人を、刑期が終わる前に条件付きで社会に戻し、保護観察を受けながら生活させる制度のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "recidivism",
+  "term": "再犯",
+  "en": "Recidivism",
+  "field": "更生",
+  "def": "再犯とは、罪を犯した人が、ふたたび罪を犯すことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "special-fraud",
+  "term": "特殊詐欺",
+  "en": "Special fraud",
+  "field": "犯罪の種類",
+  "def": "特殊詐欺とは、電話をかけるなどして対面せずに相手を信頼させ、指定した口座への振込みなどの方法で、不特定多数の人から現金などをだまし取る犯罪のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "cybercrime",
+  "term": "サイバー犯罪",
+  "en": "Cybercrime",
+  "field": "犯罪の種類",
+  "def": "サイバー犯罪とは、コンピュータやインターネットを使った犯罪、またはコンピュータそのものを狙う犯罪のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "general-prevention",
+  "term": "一般予防",
+  "en": "General prevention",
+  "field": "理論",
+  "def": "一般予防とは、罪を犯した人を罰することで、社会のほかの人々が罪を犯さないようにする、刑罰の働きのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "special-prevention",
+  "term": "特別予防",
+  "en": "Special prevention",
+  "field": "理論",
+  "def": "特別予防とは、罪を犯した本人が、ふたたび罪を犯さないようにする、刑罰の働きのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "born-criminal",
+  "term": "生来性犯罪者",
+  "en": "Born criminal",
+  "field": "理論",
+  "def": "生来性犯罪者とは、生まれつき犯罪をする性質を持ち、体の特徴で見分けられるとされた人のことです。ロンブローゾが唱えた説で、ゴーリングの検証などにより現在は否定されています。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "atavism",
+  "term": "先祖返り（アタビズム）",
+  "en": "Atavism",
+  "field": "理論",
+  "def": "先祖返り（アタビズム）とは、人類の遠い祖先や動物の特徴がその人に再び現れることです。ロンブローゾは犯罪の原因をこれで説明しようとしましたが、科学的な根拠はありません。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "control-group",
+  "term": "対照群",
+  "en": "Control group",
+  "field": "研究法",
+  "def": "対照群とは、調べたい集団と比べるために用意する、条件の近い別の集団のことです。違いが本当にあるかを確かめるために欠かせません。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "general-deterrence",
+  "term": "一般抑止",
+  "en": "General deterrence",
+  "field": "理論",
+  "def": "一般抑止とは、罰の脅しによって、社会の人々全体に犯罪を思いとどまらせる効果のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "specific-deterrence",
+  "term": "特別抑止",
+  "en": "Specific deterrence",
+  "field": "理論",
+  "def": "特別抑止とは、実際に罰を受けた本人が、その経験によって犯罪をくり返さなくなる効果のことです。研究では、刑務所の経験にこの効果はほとんど見られていません。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "twin-study",
+  "term": "双生児研究",
+  "en": "Twin study",
+  "field": "研究法",
+  "def": "双生児研究とは、遺伝子がほぼ同じ一卵性の双子と、平均して半分ほどを共有する二卵性の双子の似かたを比べ、遺伝と環境の影響の大きさを調べる研究方法のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "heritability",
+  "term": "遺伝率",
+  "en": "Heritability",
+  "field": "研究法",
+  "def": "遺伝率とは、ある集団の中の個人差のうち、遺伝の違いで説明される割合のことです。一人ひとりの行動の何割が遺伝で決まるかを示すものではありません。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "gene-environment-interaction",
+  "term": "遺伝と環境の相互作用",
+  "en": "Gene-environment interaction",
+  "field": "理論",
+  "def": "遺伝と環境の相互作用とは、同じ環境や経験でも、遺伝子の型によって影響の受け方が変わることです。子どものころの虐待とMAOA遺伝子の研究が代表例ですが、この種の研究は追試で確かめられないことも多くあります。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "self-control",
+  "term": "自己統制",
+  "en": "Self-control",
+  "field": "理論",
+  "def": "自己統制とは、目先の欲求や衝動をおさえ、長い目で見た目標に向けて行動や感情をととのえる力のことです。セルフコントロールとも呼ばれ、その低さを犯罪の中心的な原因とみる理論もあります。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "impulsivity",
+  "term": "衝動性",
+  "en": "Impulsivity",
+  "field": "理論",
+  "def": "衝動性とは、よく考える前に、思いついたまま行動してしまう傾向のことです。自己統制の反対の性質として扱われます。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "dunedin-study",
+  "term": "ダニーデン研究",
+  "en": "Dunedin Study",
+  "field": "研究法",
+  "def": "ダニーデン研究とは、ニュージーランドのダニーデンで1972〜73年に生まれた1037人を、誕生から追い続けている縦断研究のことです。子どものころの自己統制と大人になってからの犯罪や健康との関係を示しました。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "persons-with-mental-disorders",
+  "term": "精神障害者等",
+  "en": "Persons with (suspected) mental disorders",
+  "field": "統計",
+  "def": "精神障害者等とは、犯罪白書などの統計で使われる言葉で、精神障害のある人と、精神障害の疑いのある人を合わせた呼び方のことです。2023年に刑法犯で検挙された人のうち、精神障害者等は0.7％でした。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "substance-abuse",
+  "term": "物質乱用",
+  "en": "Substance abuse",
+  "field": "生物・心理",
+  "def": "物質乱用とは、薬物やアルコールを、健康や生活に害が出るほど使うことです。精神病と暴力の研究では、リスクの高まりの多くが物質乱用の重なりで説明されるとされています。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "stigma",
+  "term": "スティグマ",
+  "en": "Stigma",
+  "field": "生物・心理",
+  "def": "スティグマとは、病気や障害などをもとにした偏見や決めつけのことです。精神障害を「危ない」と結びつける見方は、その代表的な例です。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "concentric-zone-theory",
+  "term": "同心円地帯理論",
+  "en": "Concentric zone theory",
+  "field": "理論",
+  "def": "同心円地帯理論とは、バージェスが1925年に示した、都市は中心の商業地区から外へ輪のような5つの地帯に分かれて広がるという考え方のことです。ショウとマッケイは、これを使ってシカゴの非行の分布を調べました。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "social-disorganization",
+  "term": "社会解体",
+  "en": "Social disorganization",
+  "field": "理論",
+  "def": "社会解体とは、地域が共通の価値を実現できず、住民どうしで行動を見守り正す力が弱まった状態のことです。ショウとマッケイは、貧しさ・住民の出入りの多さ・さまざまな出身の人が混じることを、その手がかりとしました。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "collective-efficacy",
+  "term": "集合的効力",
+  "en": "Collective efficacy",
+  "field": "理論",
+  "def": "集合的効力とは、近所の人どうしの信頼と、地域のために行動しようとする意思を合わせたもののことです。サンプソンらは1997年、シカゴの343の地域で、集合的効力が高いほど暴力が少ないことを示しました。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "anomie",
+  "term": "アノミー",
+  "en": "Anomie",
+  "field": "理論",
+  "def": "アノミーとは、成功という目標ばかりが強調されて手段のルールが軽んじられ、社会のルールが人の行動をまとめる力を失った状態のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "modes-of-adaptation",
+  "term": "適応様式（マートン）",
+  "en": "Modes of adaptation",
+  "field": "理論",
+  "def": "適応様式とは、マートンが、社会の目標と正当な手段をそれぞれ受け入れるかどうかで人の対応を分けた、同調・革新・儀礼主義・逃避主義・反抗の5つの型のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "general-strain-theory",
+  "term": "一般緊張理論",
+  "en": "General strain theory",
+  "field": "理論",
+  "def": "一般緊張理論とは、目標に届かないことに加え、大切なものを失うことやいやな扱いを受けることも緊張とし、それが生む怒りなどの感情が犯罪につながると考える、アグニューの理論のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "social-learning-theory",
+  "term": "社会的学習理論",
+  "en": "Social learning theory",
+  "field": "理論",
+  "def": "社会的学習理論とは、サザーランドの分化的接触理論をもとに、バージェスとエイカーズが、ほめられる・罰される・まねるといった学ぶしくみを加えて発展させた理論のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "differential-reinforcement",
+  "term": "分化強化",
+  "en": "Differential reinforcement",
+  "field": "理論",
+  "def": "分化強化とは、ある行動でほめられるか罰されるかの差し引きによって、その行動がくり返されたり、やめられたりするしくみのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "attachment",
+  "term": "愛着",
+  "en": "Attachment",
+  "field": "理論",
+  "def": "愛着とは、社会的絆理論の4つの絆の1つで、親・先生・友だちなど身近な人との心のつながりと、その人たちにどう思われるかを気にかける気持ちのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "commitment",
+  "term": "投資（コミットメント）",
+  "en": "Commitment",
+  "field": "理論",
+  "def": "投資（コミットメント）とは、社会的絆理論の4つの絆の1つで、勉強や仕事で積み上げてきたものや将来の目標があり、それを失う危険をおかしたくないと思う気持ちのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "involvement",
+  "term": "巻き込み",
+  "en": "Involvement",
+  "field": "理論",
+  "def": "巻き込みとは、社会的絆理論の4つの絆の1つで、勉強・部活・仕事などふつうの活動に時間がふさがり、非行をする暇がない状態のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "general-theory-of-crime",
+  "term": "犯罪の一般理論",
+  "en": "A General Theory of Crime",
+  "field": "理論",
+  "def": "犯罪の一般理論とは、ゴットフレッドソンとハーシが1990年に示した、自己統制の低さを犯罪の中心的な原因とし、自己統制は子どものころのしつけで育つと考える理論のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "parental-monitoring",
+  "term": "親の見守り",
+  "en": "Parental monitoring",
+  "field": "発達",
+  "def": "親の見守りとは、子どもがどこで誰と何をしているかに親が目を配り、把握しようとすることのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "child-disclosure",
+  "term": "子どもの自己開示",
+  "en": "Child disclosure",
+  "field": "発達",
+  "def": "子どもの自己開示とは、子どもが自分のしたことや気持ちを、たずねられなくても自分から親に話すことのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "primary-deviance",
+  "term": "一次的逸脱",
+  "en": "Primary deviance",
+  "field": "理論",
+  "def": "一次的逸脱とは、周りからレッテルを貼られる前に起きる、最初の小さな規則やぶりのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "secondary-deviance",
+  "term": "二次的逸脱",
+  "en": "Secondary deviance",
+  "field": "理論",
+  "def": "二次的逸脱とは、「非行少年」などのレッテルを貼られた後、周りの反応を受けて続いていく逸脱のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "diversion",
+  "term": "ダイバージョン",
+  "en": "Diversion",
+  "field": "刑事司法",
+  "def": "ダイバージョンとは、罪を犯した少年などを正式な手続きに乗せず、注意や支援プログラムなどの別の対応に回すことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "suitable-target",
+  "term": "ふさわしい標的",
+  "en": "Suitable target",
+  "field": "環境犯罪学",
+  "def": "ふさわしい標的とは、日常活動理論で、犯罪をしようとする人から見て狙いやすい人や物のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "capable-guardian",
+  "term": "有能な監視者",
+  "en": "Capable guardian",
+  "field": "環境犯罪学",
+  "def": "有能な監視者とは、日常活動理論で、警察官に限らず、家族や隣人、通行人など、その場にいて犯罪を止められる人のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "motivated-offender",
+  "term": "動機のある人",
+  "en": "Motivated offender",
+  "field": "環境犯罪学",
+  "def": "動機のある人とは、日常活動理論で、犯罪をする気持ちと、それを実行する力をもつ人のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "rational-choice-perspective",
+  "term": "合理的選択の視点",
+  "en": "Rational choice perspective",
+  "field": "環境犯罪学",
+  "def": "合理的選択の視点とは、犯罪をする人も、限られた時間と情報の中で得と損を見比べて行動を選んでいる、と考える見方のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "crime-displacement",
+  "term": "犯罪の転移",
+  "en": "Crime displacement",
+  "field": "環境犯罪学",
+  "def": "犯罪の転移とは、防犯の対策によって、犯罪が別の場所・時間・標的・手口・種類へ移ってしまう現象のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "diffusion-of-benefits",
+  "term": "利益の拡散",
+  "en": "Diffusion of benefits",
+  "field": "環境犯罪学",
+  "def": "利益の拡散とは、防犯の対策の効果が、対象にしていない場所や物、時間にまで広がる現象のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "defensible-space",
+  "term": "守りやすい空間",
+  "en": "Defensible space",
+  "field": "環境犯罪学",
+  "def": "守りやすい空間とは、建築家ニューマンが1972年に唱えた、住民が家のまわりの通りや廊下などを見守り、管理できるように造られた空間のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "natural-surveillance",
+  "term": "自然監視",
+  "en": "Natural surveillance",
+  "field": "環境犯罪学",
+  "def": "自然監視とは、窓の配置や照明、見通しのよい植栽などによって、周りの人の目が自然に届くようにする工夫のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "territoriality",
+  "term": "領域性",
+  "en": "Territoriality",
+  "field": "環境犯罪学",
+  "def": "領域性とは、舗装や植栽、柵などで境目をはっきりさせ、住む人が「自分たちの場所」だと感じられるようにする工夫のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "zero-tolerance-policing",
+  "term": "ゼロ・トレランス",
+  "en": "Zero tolerance policing",
+  "field": "刑事司法",
+  "def": "ゼロ・トレランスとは、軽い違反も見逃さず、厳しい取り締まりで地域の秩序を保とうとする警察の方針のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "meta-analysis",
+  "term": "メタ分析",
+  "en": "Meta-analysis",
+  "field": "研究法",
+  "def": "メタ分析とは、同じ問いを調べた多くの研究の結果を集め、まとめて計算して全体の傾向を確かめる方法のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "law-of-crime-concentration",
+  "term": "犯罪の集中の法則",
+  "en": "Law of crime concentration",
+  "field": "環境犯罪学",
+  "def": "犯罪の集中の法則とは、都市や年が違っても、犯罪の一定の割合（例えば半分）が集まる場所の割合が狭い幅に収まるという、ワイスバードが2015年に示した考え方のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "criminology-of-place",
+  "term": "場所の犯罪学",
+  "en": "Criminology of place",
+  "field": "環境犯罪学",
+  "def": "場所の犯罪学とは、人ではなく、通りの一区画や住所などの小さな場所に注目して犯罪を調べる研究分野のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "population-rate",
+  "term": "人口比",
+  "en": "Rate per 100,000 population",
+  "field": "統計",
+  "def": "人口比とは、その年齢層などの人口10万人あたりの検挙人員のことです。人口の多い少ないの差をならして比べるために、犯罪白書などで使われます。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "invariance-thesis",
+  "term": "不変説",
+  "en": "Invariance thesis",
+  "field": "発達",
+  "def": "不変説とは、年齢犯罪曲線の形は時代や場所、集団を問わず同じだとする、ハーシとゴットフレッドソンが1983年に示した主張のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "life-course-persistent",
+  "term": "生涯持続型",
+  "en": "Life-course-persistent antisocial behavior",
+  "field": "発達",
+  "def": "生涯持続型とは、幼いころから問題行動が始まり、10代を過ぎても長く続く少数の人の道すじのことです。モフィットが1993年に示した2つの類型の1つです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "adolescence-limited",
+  "term": "青年期限定型",
+  "en": "Adolescence-limited antisocial behavior",
+  "field": "発達",
+  "def": "青年期限定型とは、10代になってから非行が始まり、大人になるにつれて減っていく多数の人の道すじのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "maturity-gap",
+  "term": "成熟のギャップ",
+  "en": "Maturity gap",
+  "field": "発達",
+  "def": "成熟のギャップとは、体は大人に近づいているのに、社会では大人の役割や自由が与えられない時期のずれのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "age-graded-theory",
+  "term": "年齢段階的インフォーマル社会統制理論",
+  "en": "Age-graded theory of informal social control",
+  "field": "発達",
+  "def": "年齢段階的インフォーマル社会統制理論とは、子どものころは家族や学校、大人になってからは結婚や仕事など、年齢に応じた人との絆が犯罪を抑えると考える、サンプソンとラウブの理論のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "turning-point",
+  "term": "転機",
+  "en": "Turning point",
+  "field": "発達",
+  "def": "転機とは、結婚・就職・兵役など、それまでの人生の道すじを変えるきっかけになる出来事のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "redemption-script",
+  "term": "贖罪の物語",
+  "en": "Redemption script",
+  "field": "発達",
+  "def": "贖罪の物語とは、犯罪をやめていく人に見られる、本当の自分は善い人間であり、経験を生かして社会にお返しをしたいと語る自己物語のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "victim-precipitation",
+  "term": "被害者による誘発",
+  "en": "Victim precipitation",
+  "field": "被害者",
+  "def": "被害者による誘発とは、被害者の行動が犯罪のきっかけになったとみる考え方で、被害者を責める見方につながると批判されてきたもののことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "victim-blaming",
+  "term": "被害者非難",
+  "en": "Victim blaming",
+  "field": "被害者",
+  "def": "被害者非難とは、犯罪の責任の一部または全部を、加害者ではなく被害者に負わせる見方のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "flag-account",
+  "term": "目印（フラッグ）の説明",
+  "en": "Flag account",
+  "field": "被害者",
+  "def": "目印（フラッグ）の説明とは、もともと狙われやすい条件をもつ人や場所が、別々の犯人に繰り返し選ばれることで反復被害が起きるという考え方のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "boost-account",
+  "term": "後押し（ブースト）の説明",
+  "en": "Boost account",
+  "field": "被害者",
+  "def": "後押し（ブースト）の説明とは、最初の犯行で犯人が得た知識や成功が、同じ犯人などによる次の犯行を呼ぶことで反復被害が起きるという考え方のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "basic-act-on-crime-victims",
+  "term": "犯罪被害者等基本法",
+  "en": "Basic Act on Crime Victims",
+  "field": "被害者",
+  "def": "犯罪被害者等基本法とは、犯罪の被害者とその家族・遺族のための施策を、国や地方公共団体が総合的かつ計画的に進めるよう定めた、2004年成立の法律のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "crime-victims-benefit",
+  "term": "犯罪被害給付制度",
+  "en": "Crime Victims Benefit System",
+  "field": "被害者",
+  "def": "犯罪被害給付制度とは、故意の犯罪行為で亡くなった人の遺族や、重傷病・障害を負った人に、国が一時金として給付金を支給する制度のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "victim-participation",
+  "term": "被害者参加制度",
+  "en": "Victim participation system",
+  "field": "被害者",
+  "def": "被害者参加制度とは、一定の事件の被害者や遺族が、裁判所の許可を得て刑事裁判に参加し、被告人に質問したり意見を述べたりできる、2008年12月に始まった制度のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "child-violating-penal-law",
+  "term": "触法少年",
+  "en": "Child who has violated criminal laws (under 14)",
+  "field": "少年",
+  "def": "触法少年とは、14歳になる前に刑罰法令に触れる行為をした少年のことです。刑法は14歳未満の行為を罰しないため、罪を犯したことにはなりません。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "pre-delinquent-juvenile",
+  "term": "ぐ犯少年",
+  "en": "Pre-delinquent juvenile",
+  "field": "少年",
+  "def": "ぐ犯少年とは、18歳未満で、親の正当な監督に従わないなどの事情があり、性格や環境から将来罪を犯すおそれがある少年のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "specified-juvenile",
+  "term": "特定少年",
+  "en": "Specified juvenile (aged 18-19)",
+  "field": "少年",
+  "def": "特定少年とは、2022年4月施行の改正少年法で定められた18歳と19歳の少年のことです。少年法の対象のまま、ぐ犯の対象外となり、重い罪は原則として刑事裁判に回されます。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "protective-custody-observation",
+  "term": "観護措置",
+  "en": "Protective custody for observation",
+  "field": "少年",
+  "def": "観護措置とは、家庭裁判所が審判のために必要と認めたとき、少年を少年鑑別所に収容するなどして、面接や心理検査を行えるようにする措置のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "protective-measures",
+  "term": "保護処分",
+  "en": "Protective measures",
+  "field": "少年",
+  "def": "保護処分とは、家庭裁判所が非行のある少年の立ち直りのために行う少年法上の処分で、保護観察・少年院送致・児童自立支援施設等送致の3種類のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "transfer-to-prosecutor",
+  "term": "検察官送致（逆送）",
+  "en": "Transfer to the public prosecutor",
+  "field": "少年",
+  "def": "検察官送致（逆送）とは、刑事処分がふさわしいと判断した少年の事件を、家庭裁判所が検察官に送り、刑事手続きに乗せる決定のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "persons-cleared",
+  "term": "検挙人員",
+  "en": "Number of persons cleared (arrested)",
+  "field": "統計",
+  "def": "検挙人員とは、警察などが罪を犯したとして検挙した人の数で、少年の統計では14歳未満の触法少年の補導人員も含めた数のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "juvenile-population-ratio",
+  "term": "少年人口比",
+  "en": "Juvenile arrest rate per 100,000",
+  "field": "統計",
+  "def": "少年人口比とは、少年の数の増減の影響を除いて比べるために使う、10歳以上の少年10万人あたりの検挙人員のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "referral-to-prosecutor",
+  "term": "送致",
+  "en": "Referral of a case to the public prosecutor",
+  "field": "刑事司法",
+  "def": "送致とは、警察などが捜査した事件を、書類や証拠とともに検察官に送ることです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "pre-indictment-detention",
+  "term": "勾留",
+  "en": "Pre-indictment detention",
+  "field": "刑事司法",
+  "def": "勾留とは、逮捕に続けて、裁判官が認めて被疑者の身体の拘束を続けることです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "minor-offense-disposition",
+  "term": "微罪処分",
+  "en": "Disposition of minor offenses",
+  "field": "刑事司法",
+  "def": "微罪処分とは、検察官があらかじめ指定した特に軽い事件について、警察が検察官に送らずに手続きを終えることです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "discretionary-prosecution",
+  "term": "起訴便宜主義",
+  "en": "Discretionary prosecution",
+  "field": "刑事司法",
+  "def": "起訴便宜主義とは、起訴するかどうかを、犯人の境遇や罪の重さなどの事情に応じて検察官の判断に任せる、刑事訴訟法248条に定められた考え方のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "suspension-of-prosecution",
+  "term": "起訴猶予",
+  "en": "Suspension of prosecution",
+  "field": "刑事司法",
+  "def": "起訴猶予とは、罪を犯した疑いは十分にあるものの、犯人の性格・年齢・境遇、罪の重さや情状、犯罪後の様子から、検察官が起訴しない処分のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "prosecution-review-commission",
+  "term": "検察審査会",
+  "en": "Prosecution Review Commission",
+  "field": "刑事司法",
+  "def": "検察審査会とは、くじで選ばれた11人の市民が、検察官の不起訴処分がよかったかどうかを審査する機関のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "presumption-of-innocence",
+  "term": "無罪推定",
+  "en": "Presumption of innocence",
+  "field": "刑事司法",
+  "def": "無罪推定とは、有罪と確かめられるまでは、被疑者や被告人を罪を犯していない人として扱うという刑事裁判の原則のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "burden-of-proof",
+  "term": "立証責任",
+  "en": "Burden of proof",
+  "field": "刑事司法",
+  "def": "立証責任とは、刑事裁判で、被告人が罪を犯したことを証明しなければならない検察官の責任のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "closing-argument",
+  "term": "論告",
+  "en": "Prosecutor's closing argument",
+  "field": "刑事司法",
+  "def": "論告とは、刑事裁判の証拠調べが終わったあとに、検察官が事実や法律、科すべき刑について述べる意見のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "kokin-kei",
+  "term": "拘禁刑",
+  "en": "Imprisonment (Kokin-kei)",
+  "field": "刑事司法",
+  "def": "拘禁刑とは、2025年6月1日に懲役と禁錮を一本化して創設された、刑事施設に入れて改善更生のための作業や指導を行える刑のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "suspended-sentence",
+  "term": "執行猶予",
+  "en": "Suspension of execution of sentence",
+  "field": "刑事司法",
+  "def": "執行猶予とは、刑を言い渡したうえで一定の期間その執行を見合わせ、取り消されずに期間を過ごせば刑の言い渡しが効力を失う制度のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "principal-punishment",
+  "term": "主刑",
+  "en": "Principal punishment",
+  "field": "刑事司法",
+  "def": "主刑とは、それだけで言い渡せる刑で、刑法では死刑・拘禁刑・罰金・拘留・科料の5つのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "correctional-treatment",
+  "term": "矯正処遇",
+  "en": "Correctional treatment",
+  "field": "更生",
+  "def": "矯正処遇とは、刑務所で受刑者の立ち直りと社会復帰のために行う、作業・改善指導・教科指導のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "specific-guidance-for-reform",
+  "term": "特別改善指導",
+  "en": "Specific guidance for reform",
+  "field": "更生",
+  "def": "特別改善指導とは、薬物依存や性犯罪など、立ち直りの妨げとなる特定の問題を持つ受刑者に対し、その問題の改善を図る指導のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "correctional-treatment-course",
+  "term": "矯正処遇課程",
+  "en": "Correctional treatment course",
+  "field": "更生",
+  "def": "矯正処遇課程とは、2025年の拘禁刑の導入で設けられた、受刑者の特性の類型ごとに重点的な処遇内容を定めた24の課程のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "volunteer-probation-officer",
+  "term": "保護司",
+  "en": "Volunteer probation officer",
+  "field": "更生",
+  "def": "保護司とは、法務大臣から委嘱され、保護観察官と協力して犯罪や非行をした人の立ち直りを地域で支える、給与のない民間のボランティアのことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "conditions-of-supervision",
+  "term": "遵守事項",
+  "en": "Conditions of probation/parole",
+  "field": "更生",
+  "def": "遵守事項とは、保護観察中の人が守らなければならない約束で、全員共通の一般遵守事項と、一人ひとりに合わせて決める特別遵守事項のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "rehabilitation-facility",
+  "term": "更生保護施設",
+  "en": "Offender rehabilitation facility",
+  "field": "更生",
+  "def": "更生保護施設とは、刑務所を出た人や保護観察中の人で帰る家がない人などに、住まいと食事を提供し、自立を支える民間の施設のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "repeat-offender-proportion",
+  "term": "再犯者率",
+  "en": "Proportion of repeat offenders among those arrested",
+  "field": "統計",
+  "def": "再犯者率とは、刑法犯で検挙された人のうち、前にも検挙されたことがある人（再犯者）が占める割合のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "two-year-reimprisonment-rate",
+  "term": "2年以内再入率",
+  "en": "Two-year reimprisonment rate",
+  "field": "統計",
+  "def": "2年以内再入率とは、ある年に刑務所を出た人のうち、出た年の翌年末までに再び刑務所に入った人の割合のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "cognitive-behavioral-therapy",
+  "term": "認知行動療法",
+  "en": "Cognitive behavioral therapy (CBT)",
+  "field": "更生",
+  "def": "認知行動療法とは、考え方のくせに気づいて見直し、新しい行動を練習することで行動を変えていく方法のことです。",
+  "date": "2026-10-04"
+ },
+ {
+  "id": "theft",
+  "term": "窃盗",
+  "en": "Theft",
+  "field": "犯罪の種類",
+  "def": "窃盗とは、他人の物を盗む犯罪で、刑法235条が10年以下の拘禁刑か50万円以下の罰金を定めている罪のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "burglary",
+  "term": "侵入窃盗",
+  "en": "Burglary",
+  "field": "犯罪の種類",
+  "def": "侵入窃盗とは、住宅や、事務所・店舗など住宅以外の建物に侵入して金品を盗む窃盗のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "security-hypothesis",
+  "term": "セキュリティ仮説",
+  "en": "Security hypothesis",
+  "field": "理論",
+  "def": "セキュリティ仮説とは、防犯の量と質が高まったことが、1990年代以降に各国で犯罪が大きく減った主な理由だとする考えのことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "bodily-injury",
+  "term": "傷害",
+  "en": "Bodily injury",
+  "field": "犯罪の種類",
+  "def": "傷害とは、人の体を傷つけ、けがをさせる罪（刑法204条）のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "assault",
+  "term": "暴行",
+  "en": "Assault",
+  "field": "犯罪の種類",
+  "def": "暴行とは、人に暴力をふるったものの、けがをさせるに至らなかった場合の罪（刑法208条）のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "spousal-violence-act",
+  "term": "配偶者暴力防止法",
+  "en": "Act on the Prevention of Spousal Violence",
+  "field": "被害者",
+  "def": "配偶者暴力防止法とは、配偶者などからの暴力を防ぎ、被害者を保護するために2001年に成立した法律のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "non-consensual-intercourse",
+  "term": "不同意性交等罪",
+  "en": "Non-consensual sexual intercourse",
+  "field": "犯罪の種類",
+  "def": "不同意性交等罪とは、暴行・脅迫や酔い、立場による影響などで、同意しない意思を持つ・示す・貫くことが難しい状態で行われた性交等を罰する、2023年の刑法改正でできた罪のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "non-complaint-offense",
+  "term": "非親告罪",
+  "en": "Offense prosecutable without complaint",
+  "field": "刑事司法",
+  "def": "非親告罪とは、被害者の告訴がなくても検察官が起訴できる犯罪のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "statute-of-limitations",
+  "term": "公訴時効",
+  "en": "Statute of limitations for prosecution",
+  "field": "刑事司法",
+  "def": "公訴時効とは、犯罪が終わってから法律で決めた期間がたつと、起訴できなくなる制度のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "mild-cognitive-impairment",
+  "term": "軽度認知障害",
+  "en": "Mild cognitive impairment (MCI)",
+  "field": "生物・心理",
+  "def": "軽度認知障害とは、記憶などの認知機能が年齢相応より低下しているものの、日常生活はおおむね自立して送れており、認知症ではない状態のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "unauthorized-access-act",
+  "term": "不正アクセス禁止法",
+  "en": "Act on Prohibition of Unauthorized Computer Access",
+  "field": "犯罪の種類",
+  "def": "不正アクセス禁止法とは、他人のIDやパスワードを無断で使ってコンピュータを利用する不正アクセス行為などを禁じる、1999年制定の「不正アクセス行為の禁止等に関する法律」のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "computer-crimes",
+  "term": "コンピュータ・電磁的記録対象犯罪",
+  "en": "Crimes targeting computers and electromagnetic records",
+  "field": "犯罪の種類",
+  "def": "コンピュータ・電磁的記録対象犯罪とは、電子計算機使用詐欺や電子計算機損壊等業務妨害など、コンピュータやデータそのものを狙う刑法の罪のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "ransomware",
+  "term": "ランサムウェア",
+  "en": "Ransomware",
+  "field": "犯罪の種類",
+  "def": "ランサムウェアとは、端末などのデータを暗号化して使えなくし、元に戻す対価として金銭などを求める不正なプログラムのことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "evidence-based-policy",
+  "term": "エビデンスにもとづく政策",
+  "en": "Evidence-based policy",
+  "field": "研究法",
+  "def": "エビデンスにもとづく政策とは、評判や思いつきではなく、比べて確かめた研究の証拠をもとに対策を選ぶ考え方のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "maryland-scientific-methods-scale",
+  "term": "科学的方法の尺度（メリーランド尺度）",
+  "en": "Maryland Scientific Methods Scale",
+  "field": "研究法",
+  "def": "科学的方法の尺度とは、1997年のメリーランド報告で使われた、評価研究の確かさを1から5の段階で示す物差しのことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "scared-straight",
+  "term": "スケアード・ストレート",
+  "en": "Scared Straight",
+  "field": "少年",
+  "def": "スケアード・ストレートとは、少年に刑務所を訪ねさせ、受刑者とのやりとりの怖さで非行を思いとどまらせようとする取り組みのことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "crime-prevention-volunteer-group",
+  "term": "防犯ボランティア団体",
+  "en": "Crime prevention volunteer group",
+  "field": "統計",
+  "def": "防犯ボランティア団体とは、地域の住民などが自主的に防犯パトロールや子どもの見守りを行う団体のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "neighbourhood-watch",
+  "term": "近隣監視（ネイバーフッド・ウォッチ）",
+  "en": "Neighbourhood watch",
+  "field": "環境犯罪学",
+  "def": "近隣監視とは、住民が近所の家や通りに目を配り、気になることを警察に知らせる取り組みのことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "nagara-mimamori",
+  "term": "ながら見守り",
+  "en": "Watching over children during daily activities",
+  "field": "環境犯罪学",
+  "def": "ながら見守りとは、散歩や買い物、仕事などの日常の活動をしながら、防犯の視点で子どもを見守る取り組みのことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "intentional-homicide",
+  "term": "意図的殺人",
+  "en": "Intentional homicide",
+  "field": "統計",
+  "def": "意図的殺人とは、死なせるか重いけがをさせるつもりで、人を違法に死なせることを指す、国連が国際比較のためにそろえた統計上の定義のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "unodc",
+  "term": "国連薬物・犯罪事務所（UNODC）",
+  "en": "United Nations Office on Drugs and Crime",
+  "field": "基本",
+  "def": "国連薬物・犯罪事務所（UNODC）とは、薬物と犯罪の問題を扱う国連の機関で、各国から犯罪と刑事司法の統計を集めて公表している組織のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "icvs",
+  "term": "国際犯罪被害調査（ICVS）",
+  "en": "International Crime Victims Survey",
+  "field": "研究法",
+  "def": "国際犯罪被害調査（ICVS）とは、各国の住民に同じ質問票で犯罪の被害経験をたずね、警察統計の違いに左右されずに国どうしを比べるため、1989年に始まった調査のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "primary-source",
+  "term": "一次情報",
+  "en": "Primary source",
+  "field": "研究法",
+  "def": "一次情報とは、調査や統計を行った機関や研究者自身が公表した、元の資料のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "systematic-review",
+  "term": "系統的レビュー",
+  "en": "Systematic review",
+  "field": "研究法",
+  "def": "系統的レビューとは、ある問いについての研究を決まった手順で漏れなく集め、まとめて評価する研究方法のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "judicial-statistics",
+  "term": "司法統計",
+  "en": "Judicial statistics",
+  "field": "統計",
+  "def": "司法統計とは、裁判所が扱った刑事・少年・家事・民事などの事件の数をまとめた統計のことです。",
+  "date": "2026-10-05"
+ },
+ {
+  "id": "research-department-report",
+  "term": "研究部報告",
+  "en": "Research Department Report",
+  "field": "統計",
+  "def": "研究部報告とは、法務総合研究所が犯罪や処遇の特定のテーマを調べてまとめ、全文を公開している報告書のことです。",
+  "date": "2026-10-05"
+ }
+]

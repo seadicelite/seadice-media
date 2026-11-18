@@ -1,0 +1,153 @@
+[
+ {
+  "id": "screen-time",
+  "term": "スクリーンタイム",
+  "en": "Screen time",
+  "def": "テレビ・スマホ・タブレット・ゲーム機などの画面を見ている時間のこと。研究では、見ている内容や、誰と一緒に見ているかによって影響が変わるかも調べられています。",
+  "slugs": [
+   "kids-screen-time-hours",
+   "screen-time-language-development-toddler",
+   "screen-time-myopia-eyesight",
+   "screen-time-adhd-symptoms-risk"
+  ]
+ },
+ {
+  "id": "co-viewing",
+  "term": "共同視聴",
+  "en": "Co-viewing",
+  "def": "子どもが動画やテレビを見るときに、大人が一緒に見て話しかけたり、内容について会話したりすること。米国小児科学会も、親子で一緒に見ることを勧めています。",
+  "slugs": [
+   "kids-screen-time-hours",
+   "toddler-tablet-learning-app-effect"
+  ]
+ },
+ {
+  "id": "executive-function",
+  "term": "実行機能",
+  "en": "Executive function",
+  "def": "目標に向けて自分の行動や気持ちを調整する力のこと。がまんする力、切り替える力、覚えておきながら考える力などを含みます。幼児期から少しずつ育ちます。",
+  "slugs": [
+   "tablet-vs-tv-self-control",
+   "fast-paced-video-fantasy-executive-function",
+   "toddler-screen-stop-crying-self-regulation"
+  ]
+ },
+ {
+  "id": "self-regulation",
+  "term": "自己調整（自分を抑える力）",
+  "en": "Self-regulation",
+  "def": "気持ちや行動を、場面に合わせて自分でコントロールする力のこと。動画をやめる、順番を待つといった場面で必要になります。",
+  "slugs": [
+   "toddler-screen-stop-crying-self-regulation",
+   "youtube-more-please-how-to-say-no",
+   "tantrum-coping-children-research"
+  ]
+ },
+ {
+  "id": "non-cognitive",
+  "term": "非認知能力",
+  "en": "Non-cognitive skills",
+  "def": "テストの点数では測りにくい力の総称。粘り強さ、自分を抑える力、人と協力する力などを指します。研究者によって範囲の決め方が少しずつ違います。",
+  "slugs": [
+   "non-cognitive-skills-kids",
+   "creativity-training-ai-era"
+  ]
+ },
+ {
+  "id": "dialogic-reading",
+  "term": "対話型の読み聞かせ",
+  "en": "Dialogic reading",
+  "def": "絵本を読みながら、大人が子どもに質問したり、子どもの答えを広げたりして、会話しながら読む方法。言葉の発達を助ける読み方として研究されています。",
+  "slugs": [
+   "ai-voice-reading-vs-human",
+   "ai-age-for-kids"
+  ]
+ },
+ {
+  "id": "technoference",
+  "term": "テクノフェアレンス",
+  "en": "Technoference",
+  "def": "スマホなどの機器が、人と人とのやりとりをじゃますること。親がスマホを見ていて子どもとの会話が途切れる場面などを指します。",
+  "slugs": [
+   "parent-smartphone-technoference-children"
+  ]
+ },
+ {
+  "id": "sharenting",
+  "term": "シェアレンティング",
+  "en": "Sharenting",
+  "def": "親が子どもの写真や情報をSNSなどで公開すること。「シェア」と「ペアレンティング（子育て）」を合わせた言葉です。",
+  "slugs": [
+   "sharenting-sns-photo-risk"
+  ]
+ },
+ {
+  "id": "gaming-disorder",
+  "term": "ゲーム障害",
+  "en": "Gaming disorder",
+  "def": "ゲームをする時間や頻度を自分でコントロールできず、生活に大きな支障が出ても続けてしまう状態。WHOの国際疾病分類に含まれている診断名で、ゲームをよくするだけでは当てはまりません。",
+  "slugs": [
+   "gaming-disorder-children-research"
+  ]
+ },
+ {
+  "id": "separation-anxiety",
+  "term": "分離不安",
+  "en": "Separation anxiety",
+  "def": "親など身近な大人と離れるときに強い不安を感じること。乳幼児期には多くの子に見られる、発達の一部です。",
+  "slugs": [
+   "nursery-separation-anxiety-how-long"
+  ]
+ },
+ {
+  "id": "hsc",
+  "term": "HSC（人一倍敏感な子）",
+  "en": "Highly sensitive child",
+  "def": "音や光、人の気持ちなどに敏感に反応しやすい気質を持つ子どものこと。病気や障害の名前ではなく、生まれ持った気質の一つとして研究されています。",
+  "slugs": [
+   "highly-sensitive-child-parenting-research"
+  ]
+ },
+ {
+  "id": "bflpe",
+  "term": "井の中の大魚効果",
+  "en": "Big-fish-little-pond effect",
+  "def": "同じ実力でも、周りのレベルが高い集団にいると自分の能力への自信が下がりやすく、周りが自分と同じくらいの集団にいると自信を持ちやすいという現象。",
+  "slugs": [
+   "big-fish-little-pond-effect-class-rank"
+  ]
+ },
+ {
+  "id": "cognitive-offloading",
+  "term": "認知的オフロード",
+  "en": "Cognitive offloading",
+  "def": "覚えることや考えることを、メモやスマホ、AIなどの外の道具に任せること。便利な一方で、自分で覚えたり考えたりする機会が減ることもあります。",
+  "slugs": [
+   "ai-answers-memory-retention",
+   "homework-ai-thinking-skills"
+  ]
+ },
+ {
+  "id": "meta-analysis",
+  "term": "メタ分析",
+  "en": "Meta-analysis",
+  "def": "同じテーマを調べた複数の研究の結果を、統計の方法でまとめて分析すること。1つの研究より、全体としての傾向をつかみやすくなります。",
+  "slugs": []
+ },
+ {
+  "id": "correlation",
+  "term": "相関と因果",
+  "en": "Correlation and causation",
+  "def": "「Aが多い人ほどBも多い」という関係（相関）があっても、AがBの原因（因果）とは限らないこと。ほかの理由が両方に関わっている場合もあります。このメディアでは、相関しか示されていないものは「関連があった」と書いています。",
+  "slugs": []
+ },
+ {
+  "id": "odds-ratio",
+  "term": "オッズ比",
+  "en": "Odds ratio",
+  "def": "ある出来事の起こりやすさを、2つのグループで比べる数字。1より大きければ起こりやすく、1より小さければ起こりにくいことを表します。「確率が何倍」とは意味が少し違います。",
+  "slugs": [
+   "family-screen-time-rules-research"
+  ]
+ }
+]

@@ -1,0 +1,103 @@
+# ゼロから学ぶ行動経済学
+
+> ゼロから学ぶ行動経済学は、人のお金や選択のくせを研究する行動経済学を無料で独学できる学習サイトです。限定合理性、バイアス、プロスペクト理論、ナッジまでを全{chapters}章の講座と用語辞典で学べます。登録不要。
+
+ゼロから学ぶ行動経済学はSEADICE(https://seadice.win/)が運営する、行動経済学を無料で独学できる学習サイトです。登録不要・無料。
+行動経済学とは何か・限定合理性・ヒューリスティクスとバイアス・プロスペクト理論と損失回避・時間割引・ナッジ・公共政策への応用を学ぶ無料講座「ゼロから学ぶ行動経済学入門」（全14章）と、行動経済学用語辞典（154語）を掲載しています。
+本文はノーベル賞の公式解説・環境省などの公的機関・OECD・原典の論文などの一次情報をもとに日本語で独自に書いており、各ページに出典があります。追試で揺らいでいる研究は断定していません。
+
+## 主要ページ
+
+- トップ: https://kodokeizai.seadice.win/
+- 無料講座「ゼロから学ぶ行動経済学入門」: https://kodokeizai.seadice.win/course/
+- 行動経済学用語辞典: https://kodokeizai.seadice.win/glossary/
+- 判断のくせを体験する: https://kodokeizai.seadice.win/taiken/（バットとボール、リンダ問題、損失回避の賭け、言い方で変わる選択など10問。自分で答えてから、研究の結果と比べられます。登録不要・無料・答えは送信されません。）
+- このサイトについて: https://kodokeizai.seadice.win/about/
+- 出典と検証の方法: https://kodokeizai.seadice.win/sources/
+
+## 講座の目次
+
+- 第1章 行動経済学とは: 行動経済学が何を調べる学問か、伝統的な経済学の「合理的な人」という前提とどこが違うのかを学びます。
+  - 1-1 行動経済学とは？心理学で人の選び方を見直す学問: https://kodokeizai.seadice.win/course/what-is-behavioral-economics/
+  - 1-2 合理的経済人とは？経済学が置いた3つの前提: https://kodokeizai.seadice.win/course/homo-economicus/
+  - 1-3 行動経済学は何に役立つ？家計・買い物・政策: https://kodokeizai.seadice.win/course/uses-of-behavioral-economics/
+- 第2章 限定合理性と二重過程: 人はすべてを考えきれないこと、そして速い直感と遅い熟考という2つの考え方を使い分けていることを学びます。
+  - 2-1 限定合理性とは？人は「最善」より「十分よい」を選ぶ: https://kodokeizai.seadice.win/course/bounded-rationality/
+  - 2-2 速い思考と遅い思考。二重過程理論とは: https://kodokeizai.seadice.win/course/dual-process/
+  - 2-3 直感はいつ頼れて、いつ外れるのか: https://kodokeizai.seadice.win/course/when-intuition-works/
+  - 2-4 選択肢が多すぎると選べない？選択過多の研究: https://kodokeizai.seadice.win/course/choice-overload/
+- 第3章 ヒューリスティクスとバイアス: 人が判断の近道として使う経験則と、それが生む決まった向きのずれ（バイアス）を学びます。
+  - 3-1 ヒューリスティクスとは。判断の近道とその代償: https://kodokeizai.seadice.win/course/heuristics/
+  - 3-2 代表性ヒューリスティックとは？「らしさ」で確率を見誤る: https://kodokeizai.seadice.win/course/representativeness/
+  - 3-3 利用可能性ヒューリスティックとは？思い出しやすさで多さを判断する: https://kodokeizai.seadice.win/course/availability/
+  - 3-4 アンカリングとは？最初に見た数字に引きずられる理由: https://kodokeizai.seadice.win/course/anchoring/
+  - 3-5 少数の法則とは？少ないデータを信じすぎる心のくせ: https://kodokeizai.seadice.win/course/law-of-small-numbers/
+- 第4章 プロスペクト理論と損失回避: 損と得の感じ方を説明するプロスペクト理論と、その中心にある損失回避を学びます。
+  - 4-1 期待効用理論とは？伝統的な「リスクのある選択」の考え方: https://kodokeizai.seadice.win/course/expected-utility/
+  - 4-2 プロスペクト理論とは？損と得は「基準」から測る: https://kodokeizai.seadice.win/course/prospect-theory/
+  - 4-3 損失回避とは？失う痛みは得る喜びより大きい: https://kodokeizai.seadice.win/course/loss-aversion/
+  - 4-4 確率の重みづけとは？小さな確率を大きく感じる理由: https://kodokeizai.seadice.win/course/probability-weighting/
+  - 4-5 フレーミング効果とは？同じ中身でも言い方で選択が変わる: https://kodokeizai.seadice.win/course/framing/
+- 第5章 参照点と保有効果: 何を基準に損得を感じるかという参照点と、持っている物を高く評価する保有効果を学びます。
+  - 5-1 参照点とは。損か得かを決める「ものさし」: https://kodokeizai.seadice.win/course/reference-point/
+  - 5-2 保有効果とは。自分の物を高く感じるのはなぜか: https://kodokeizai.seadice.win/course/endowment-effect/
+  - 5-3 現状維持バイアスとは？変えないほうを選びやすいのはなぜか: https://kodokeizai.seadice.win/course/status-quo-bias/
+  - 5-4 セールと参照価格。「元値」が判断を変える: https://kodokeizai.seadice.win/course/reference-price/
+- 第6章 メンタル・アカウンティング（心の会計）: お金を心の中で目的別に分けて管理するくせと、それが生む得と損を学びます。
+  - 6-1 心の会計とは？お金に心の中で名札を付ける: https://kodokeizai.seadice.win/course/mental-accounting/
+  - 6-2 同じ1000円の値引きでも、感じ方が変わるのはなぜか: https://kodokeizai.seadice.win/course/relative-thinking/
+  - 6-3 ハウスマネー効果とは？もうけたお金は使いやすい: https://kodokeizai.seadice.win/course/house-money/
+  - 6-4 サンクコストとは？取り戻せない費用にこだわってしまう理由: https://kodokeizai.seadice.win/course/sunk-cost/
+- 第7章 時間割引と現在バイアス: 将来より今を重く見るくせと、計画が続かない理由、そして自分を助ける工夫を学びます。
+  - 7-1 時間割引とは？なぜ将来のお金は小さく感じるのか: https://kodokeizai.seadice.win/course/time-discounting/
+  - 7-2 現在バイアスとは？「明日からやる」が続く理由: https://kodokeizai.seadice.win/course/present-bias/
+  - 7-3 計画する自分と実行する自分。プランナー・ドーアー・モデル: https://kodokeizai.seadice.win/course/planner-doer/
+  - 7-4 コミットメントとは？先に自分の手を縛る工夫: https://kodokeizai.seadice.win/course/commitment/
+- 第8章 社会的選好: 人が自分の得だけでなく、公平さや他人のことも考えて選ぶことを、実験とともに学びます。
+  - 8-1 社会的選好とは？人は自分の得だけで動くのか: https://kodokeizai.seadice.win/course/social-preferences/
+  - 8-2 最後通牒ゲームと独裁者ゲーム。公平さを測る実験: https://kodokeizai.seadice.win/course/ultimatum-dictator/
+  - 8-3 公平さと値上げ。雨の日の傘はなぜ値上げしにくいのか: https://kodokeizai.seadice.win/course/fairness-pricing/
+  - 8-4 お返し（互恵性）とは？親切には親切で返したくなる: https://kodokeizai.seadice.win/course/reciprocity/
+- 第9章 社会的ジレンマ: 一人ひとりには得な選び方が、みんなで選ぶと全員の損になる。囚人のジレンマ、共有地の悲劇、公共財ゲームとフリーライダー、そして共有の資源を守る仕組みを学びます。
+  - 9-1 社会的ジレンマとは？一人の得が全員の損になる仕組み: https://kodokeizai.seadice.win/course/social-dilemma/
+  - 9-2 囚人のジレンマ。協力すれば得なのに裏切ってしまう: https://kodokeizai.seadice.win/course/prisoners-dilemma/
+  - 9-3 共有地の悲劇とは？みんなの資源はなぜ使い尽くされるのか: https://kodokeizai.seadice.win/course/tragedy-of-the-commons/
+  - 9-4 公共財ゲームとは？協力はなぜ崩れ、罰で持ち直すのか: https://kodokeizai.seadice.win/course/public-goods-game/
+  - 9-5 共有地は守れる。オストロムの8つの設計原則: https://kodokeizai.seadice.win/course/ostrom-design-principles/
+- 第10章 ナッジと選択アーキテクチャ: 選ぶ自由を残して行動を後押しするナッジと、選ぶときの環境（選択アーキテクチャ）の設計を学びます。
+  - 10-1 ナッジとは？禁止もせず、損得も変えない後押し: https://kodokeizai.seadice.win/course/what-is-nudge/
+  - 10-2 選択アーキテクチャとは？選ぶ環境のデザイン: https://kodokeizai.seadice.win/course/choice-architecture/
+  - 10-3 デフォルトの力。初期設定はなぜそのまま選ばれるのか: https://kodokeizai.seadice.win/course/defaults/
+  - 10-4 「みんなやっています」はなぜ効く？社会規範メッセージ: https://kodokeizai.seadice.win/course/social-norms/
+  - 10-5 ナッジの倫理とブースト。良い後押しと悪い後押しの違い: https://kodokeizai.seadice.win/course/nudge-ethics-boost/
+- 第11章 行動ファイナンス: お金の市場や投資の判断に、心のくせがどう現れるかを学びます。個別の投資助言は扱いません。
+  - 11-1 行動ファイナンスとは。市場にも心のくせが現れる: https://kodokeizai.seadice.win/course/behavioral-finance/
+  - 11-2 気質効果とは？利益はすぐ確定し、損は持ち続ける: https://kodokeizai.seadice.win/course/disposition-effect/
+  - 11-3 自信過剰と売り買いのしすぎ。回数が多い人ほど成績が低かった: https://kodokeizai.seadice.win/course/overconfidence-trading/
+  - 11-4 近視眼的損失回避とは？確かめる回数でリスクの感じ方が変わる: https://kodokeizai.seadice.win/course/myopic-loss-aversion/
+- 第12章 公共政策への応用: 行動経済学が世界と日本の行政でどう使われているかを、公的機関の事例で学びます。
+  - 12-1 ナッジ・ユニットとは？行動経済学を行政に生かすチーム: https://kodokeizai.seadice.win/course/nudge-units/
+  - 12-2 日本版ナッジ・ユニット（BEST）とは？発足と広がり: https://kodokeizai.seadice.win/course/best-japan/
+  - 12-3 省エネ・健診・税で見るナッジ。案内の一文で行動は変わるか: https://kodokeizai.seadice.win/course/policy-cases/
+  - 12-4 EBPMとは？効果を確かめてから広げる政策づくり: https://kodokeizai.seadice.win/course/ebpm/
+- 第13章 実験の方法と再現性・批判: 行動経済学の研究がどう行われるか、結果の確かさをどう見るか、どんな批判があるかを学びます。
+  - 13-1 実験経済学とは？実験室で経済を確かめる: https://kodokeizai.seadice.win/course/experimental-economics/
+  - 13-2 ランダム化比較試験とは？効果を公平に比べる方法: https://kodokeizai.seadice.win/course/rct/
+  - 13-3 再現性の問題とは？有名な研究が追試で揺らぐとき: https://kodokeizai.seadice.win/course/replication/
+  - 13-4 行動経済学への批判。押しつけにならないか: https://kodokeizai.seadice.win/course/criticisms/
+- 第14章 まとめ: 講座全体を振り返り、学んだ知識を日常で使う方法と、無料で学び続けるための資料を紹介します。
+  - 14-1 講座の振り返り。判断のくせの地図: https://kodokeizai.seadice.win/course/course-review/
+  - 14-2 学んだことを日常で使う。自分の選択を見直す手順: https://kodokeizai.seadice.win/course/using-it/
+  - 14-3 無料で学び続けるための公的な資料: https://kodokeizai.seadice.win/course/keep-learning/
+
+## SEADICE STUDYの他の講座
+
+- ゼロから学ぶ心理学: https://shinri.seadice.win/
+- ゼロから学ぶ貿易実務: https://boueki.seadice.win/
+- ゼロから学ぶ犯罪学: https://hanzaigaku.seadice.win/
+- ゼロから学ぶ保育士: https://hoikushi.seadice.win/
+- ゼロから学ぶ介護福祉士: https://kaigofukushi.seadice.win/
+
+## 運営
+
+- SEADICE: https://seadice.win/

@@ -1,0 +1,268 @@
+{
+  "cols": [
+    {
+      "id": "why",
+      "label": "仕組み",
+      "q": "なぜそうなる？（体・材料の中で起きていること）"
+    },
+    {
+      "id": "myth",
+      "label": "確かめる",
+      "q": "よく聞く説は本当？（研究で確かめる）"
+    },
+    {
+      "id": "make",
+      "label": "作り方",
+      "q": "何を変えると変わる？（材料・工程・食べ方）"
+    },
+    {
+      "id": "data",
+      "label": "数字",
+      "q": "データで見ると？（測定値・統計・地域）"
+    },
+    {
+      "id": "use",
+      "label": "使う",
+      "q": "自分で試せるツール・実験"
+    }
+  ],
+  "rows": [
+    {
+      "id": "puff",
+      "label": "膨らみ",
+      "cells": {
+        "why": [
+          "why-senbei-puffs-mechanism"
+        ],
+        "myth": [
+          "tenpi-drying-why-puff"
+        ],
+        "make": [
+          "puffing-decided-before-baking",
+          "baking-method-puffing",
+          "old-rice-puffing"
+        ],
+        "data": [
+          "senbei-puff-thickness-ratio"
+        ],
+        "use": [
+          "https://senbei.seadice.win/tool/"
+        ]
+      }
+    },
+    {
+      "id": "texture",
+      "label": "硬さ・パリパリ",
+      "cells": {
+        "why": [
+          "paripari-sakusaku-words"
+        ],
+        "myth": [
+          "hard-food-eat-less-myth"
+        ],
+        "make": [
+          "mochigome-blend-lighter",
+          "oil-in-dough",
+          "mochi-dough-hardening-time"
+        ],
+        "data": [
+          "senbei-hardness-measured"
+        ],
+        "use": [
+          "https://senbei.seadice.win/tool/"
+        ]
+      }
+    },
+    {
+      "id": "stale",
+      "label": "しけ・保存",
+      "cells": {
+        "why": [
+          "fried-senbei-rancid"
+        ],
+        "myth": [
+          "stale-senbei-dry-again"
+        ],
+        "make": [
+          "senbei-storage-keep-crisp"
+        ],
+        "data": [
+          "humidity-crispness-storage"
+        ],
+        "use": [
+          "stale-senbei-break-sound-test"
+        ]
+      }
+    },
+    {
+      "id": "soy",
+      "label": "醤油と焼き香",
+      "cells": {
+        "why": [
+          "soy-sauce-grilled-aroma-maillard"
+        ],
+        "myth": [
+          "dark-soy-sauce-saltier-myth"
+        ],
+        "make": [
+          "soy-sauce-before-or-after-baking",
+          "sugar-type-senbei-browning"
+        ],
+        "data": [
+          "soy-sauce-types-salt"
+        ],
+        "use": [
+          "soy-sauce-aroma-nose-pinch-test"
+        ]
+      }
+    },
+    {
+      "id": "salt",
+      "label": "塩味・減塩",
+      "cells": {
+        "why": [
+          "why-salt-tastes-salty"
+        ],
+        "myth": [
+          "fine-salt-tastes-saltier"
+        ],
+        "make": [
+          "less-salt-senbei-keep-salty"
+        ],
+        "data": [
+          "senbei-salt-content"
+        ],
+        "use": [
+          "senbei-salt-reduction-blind-test"
+        ]
+      }
+    },
+    {
+      "id": "umami",
+      "label": "うま味・味付け",
+      "cells": {
+        "why": [
+          "umami-synergy-nori-senbei"
+        ],
+        "myth": [
+          "msg-headache-myth"
+        ],
+        "make": [
+          "add-umami-to-senbei"
+        ],
+        "data": [
+          "umami-sensitivity-varies"
+        ],
+        "use": [
+          "umami-synergy-dashi-taste-test"
+        ]
+      }
+    },
+    {
+      "id": "sound",
+      "label": "音と感じ方",
+      "cells": {
+        "why": [
+          "crunch-sound-ear-or-bone"
+        ],
+        "myth": [
+          "crunch-sound-and-taste"
+        ],
+        "make": [
+          "moisture-crunch-sound-liking"
+        ],
+        "data": [
+          "senbei-crunch-sound-measured"
+        ],
+        "use": [
+          "pseudo-crunch-sound-soft-senbei-test"
+        ]
+      }
+    },
+    {
+      "id": "region",
+      "label": "地域の味",
+      "cells": {
+        "why": [
+          "regional-salt-taste-birthplace"
+        ],
+        "myth": [
+          "kyushu-soy-sauce-sweet-why"
+        ],
+        "make": [
+          "sweet-soy-sauce-saltiness"
+        ],
+        "data": [
+          "senbei-spending-city-ranking"
+        ],
+        "use": [
+          "regional-salt-preference-blind-test"
+        ]
+      }
+    },
+    {
+      "id": "safety",
+      "label": "焦げと安全",
+      "cells": {
+        "why": [
+          "why-acrylamide-forms-senbei"
+        ],
+        "myth": [
+          "burnt-senbei-cancer-myth"
+        ],
+        "make": [
+          "senbei-reduce-burnt-acrylamide"
+        ],
+        "data": [
+          "senbei-browning-limit"
+        ],
+        "use": [
+          "senbei-browning-photo-check"
+        ]
+      }
+    },
+    {
+      "id": "pref",
+      "label": "好み（日本人）",
+      "cells": {
+        "why": [
+          "umami-dashi-foreigners"
+        ],
+        "myth": [
+          "japanese-taste-sensitivity-myth"
+        ],
+        "make": [
+          "senbei-ingredients-japanese-avoid"
+        ],
+        "data": [
+          "senbei-popular-flavor-ranking"
+        ],
+        "use": [
+          "senbei-preference-word-check"
+        ]
+      }
+    },
+    {
+      "id": "novel",
+      "label": "新しい味",
+      "cells": {
+        "why": [
+          "limited-flavor-why-we-buy"
+        ],
+        "myth": [
+          "new-flavor-repeated-exposure-myth"
+        ],
+        "make": [
+          "new-flavor-how-to-combine"
+        ],
+        "data": [
+          "new-flavor-age-senbei-buyers"
+        ],
+        "use": [
+          "https://senbei.seadice.win/flavor/"
+        ]
+      }
+    }
+  ],
+  "research": []
+}

@@ -2,9 +2,11 @@
 """media/{slug}-posts.json から一覧ページ(sites/{slug}/index.html)とsitemapを再生成する。
 使い方: python3 media/build.py <slug>   （設定は media/{slug}.json の theme / categories / types）
 記事を追加するときは posts.json の先頭に1件足してから実行する。JS不使用。"""
-import base64, html, json, random, sys
+import html, json, random, re, sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+
+import favicon
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -21,14 +23,9 @@ ICONS = {  # カテゴリ用アイコン(24x24 path)
     "link": "M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1 1.4 1.4 1-1a2 2 0 1 1 2.8 2.8l-3 3a2 2 0 0 1-2.8 0zm4-4a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1-1.4-1.4-1 1a2 2 0 1 1-2.8-2.8l3-3a2 2 0 0 1 2.8 0z",
     "dot": "M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20z",
 }
-def favicon_tag(name, theme):
-    """外部リクエスト無しのSVGファビコン(丸背景+頭文字)をdata URIで返す。"""
-    letter = html.escape(name.replace("SEADICE ", "").strip()[:1] or "S")
-    svg = (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">'
-           f'<circle cx="32" cy="32" r="32" fill="{theme["accent"]}"/>'
-           f'<text x="32" y="44" font-size="34" font-family="-apple-system,Arial,sans-serif" font-weight="800" text-anchor="middle" fill="{theme["bg"]}">{letter}</text></svg>')
-    b64 = base64.b64encode(svg.encode()).decode()
-    return f'<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,{b64}">'
+def favicon_tag(cfg, theme):
+    """メディアのピクトグラムのファビコン（media/favicon.py）。sites/{slug}/favicon.svg も書き出す。"""
+    return favicon.tag(cfg["path"], theme.get("faviconBg", theme["accent"]), theme.get("faviconFg"))
 
 
 DEFAULT_THEME = {"bg": "#05050C", "card": "#0C0C1A", "accent": "#00FFD1", "accent2": "#38BDF8", "border": "#1a1a2e",
@@ -68,13 +65,40 @@ def card(p, cats, images, types):
             f'<p class="t">{html.escape(p["title"])}</p><p class="d">{html.escape(p["summary"])}</p></div></a>')
 
 
-CSS = """*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}:root{--bg:%(bg)s;--card:%(card)s;--accent:%(accent)s;--accent2:%(accent2)s;--border:%(border)s;--text:%(text)s;--muted:%(muted)s;--link:%(link)s}html{scroll-behavior:smooth}body{background:var(--bg);color:var(--text);font-family:-apple-system,'Helvetica Neue',sans-serif;line-height:1.7;-webkit-text-size-adjust:100%%}nav.top{position:fixed;top:0;left:0;right:0;z-index:100;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);background:color-mix(in srgb,var(--bg) 82%%,transparent);border-bottom:1px solid var(--border);padding:0 20px;height:56px;display:flex;align-items:center;justify-content:space-between}.nav-logo{font-size:15px;font-weight:800;letter-spacing:.15em;background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;text-decoration:none}nav.top a.r{font-size:13px;color:var(--muted);text-decoration:none;letter-spacing:.08em}main{max-width:960px;margin:0 auto;padding:88px 20px 64px}.hero{padding:24px 0 28px}h1{font-size:clamp(28px,7vw,46px);font-weight:800;letter-spacing:.06em;line-height:1.15;background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}.tagline{font-size:15px;color:var(--muted);margin-top:8px;letter-spacing:.04em}.lead{font-size:15px;color:var(--text);opacity:.85;margin-top:14px;max-width:620px}.chips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 40px}.chip{display:inline-flex;align-items:center;gap:6px;font-size:13px;color:var(--text);text-decoration:none;border:1px solid var(--border);background:var(--card);border-radius:999px;padding:7px 14px}.chip svg{width:15px;height:15px;fill:var(--c)}.chip:hover{border-color:var(--c)}h2.sec{font-size:14px;letter-spacing:.14em;color:var(--muted);margin:0 0 14px}h2.cat{display:flex;align-items:center;gap:8px;font-size:18px;margin:44px 0 14px;padding-left:12px;border-left:4px solid var(--c)}h2.cat svg{width:20px;height:20px;fill:var(--c)}.grid{display:grid;gap:16px;grid-template-columns:1fr}@media(min-width:620px){.grid{grid-template-columns:1fr 1fr}}@media(min-width:900px){.grid{grid-template-columns:1fr 1fr 1fr}}.card{display:flex;flex-direction:column;background:var(--card);border:1px solid var(--border);border-radius:14px;overflow:hidden;text-decoration:none;color:var(--text);transition:border-color .15s,transform .15s}.card:hover{border-color:var(--accent);transform:translateY(-2px)}.th{position:relative;overflow:hidden;aspect-ratio:16/8;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,color-mix(in srgb,var(--c) 38%%,var(--bg)),color-mix(in srgb,var(--c) 10%%,var(--bg)))}.th img{position:absolute;inset:0;width:100%%;height:100%%;object-fit:cover}.th svg{width:44px;height:44px;fill:var(--c);opacity:.95}.cb{padding:14px 16px 16px}.tag{display:inline-block;font-size:11px;letter-spacing:.06em;color:var(--c);border:1px solid var(--c);border-radius:4px;padding:1px 8px}.ty{display:inline-block;font-size:11px;letter-spacing:.06em;color:var(--bg);background:var(--accent);border-radius:4px;padding:1px 8px;margin-left:6px}.card .t{font-size:16px;font-weight:700;line-height:1.5;margin:8px 0 6px}.card .d{font-size:13px;color:var(--muted);line-height:1.65}.card time{display:block;font-size:11px;color:var(--muted);margin-top:10px}.empty{grid-column:1/-1;background:var(--card);border:1px dashed var(--border);border-radius:12px;padding:20px;font-size:14px;color:var(--muted)}.adslot{margin:40px 0;min-height:250px;background:var(--card);border:1px dashed var(--border);border-radius:12px;display:none}.about{margin-top:56px;padding:22px;background:var(--card);border:1px solid var(--border);border-radius:16px;font-size:14px;color:var(--text);opacity:.92}.about strong{color:var(--accent)}.about a{color:var(--link)}.trust{display:grid;gap:10px;grid-template-columns:1fr;margin:40px 0 0}@media(min-width:760px){.trust{grid-template-columns:repeat(3,1fr)}}.trust div{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 16px;font-size:12.5px;color:var(--muted);line-height:1.7}.trust b{display:block;color:var(--accent);font-size:13px;margin-bottom:2px}footer{border-top:1px solid var(--border);padding:24px;text-align:center;font-size:12px;color:var(--muted)}footer a{color:var(--muted);margin:0 6px}"""
+CSS = """*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}:root{--bg:%(bg)s;--card:%(card)s;--accent:%(accent)s;--accent2:%(accent2)s;--border:%(border)s;--text:%(text)s;--muted:%(muted)s;--link:%(link)s}html{scroll-behavior:smooth}body{background:var(--bg);color:var(--text);font-family:-apple-system,'Helvetica Neue',sans-serif;line-height:1.7;-webkit-text-size-adjust:100%%}nav.top{position:fixed;top:0;left:0;right:0;z-index:100;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);background:color-mix(in srgb,var(--bg) 82%%,transparent);border-bottom:1px solid var(--border);padding:0 20px;height:56px;display:flex;align-items:center;justify-content:space-between}.nav-logo{font-size:15px;font-weight:800;letter-spacing:.15em;background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;text-decoration:none}nav.top a.r{font-size:13px;color:var(--muted);text-decoration:none;letter-spacing:.08em}main{max-width:960px;margin:0 auto;padding:88px 20px 64px}.hero{padding:24px 0 28px}h1{font-size:clamp(28px,7vw,46px);font-weight:800;letter-spacing:.06em;line-height:1.15;background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}.tagline{font-size:15px;color:var(--muted);margin-top:8px;letter-spacing:.04em}.lead{font-size:15px;color:var(--text);opacity:.85;margin-top:14px;max-width:620px}.chips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 40px}.chip{display:inline-flex;align-items:center;gap:6px;font-size:13px;color:var(--text);text-decoration:none;border:1px solid var(--border);background:var(--card);border-radius:999px;padding:7px 14px}.chip svg{width:15px;height:15px;fill:var(--c)}.chip:hover{border-color:var(--c)}h2.sec{font-size:14px;letter-spacing:.14em;color:var(--muted);margin:0 0 14px}h2.cat{display:flex;align-items:center;gap:8px;font-size:18px;margin:44px 0 14px;padding-left:12px;border-left:4px solid var(--c)}h2.cat svg{width:20px;height:20px;fill:var(--c)}.grid{display:grid;gap:16px;grid-template-columns:1fr}@media(min-width:620px){.grid{grid-template-columns:1fr 1fr}}@media(min-width:900px){.grid{grid-template-columns:1fr 1fr 1fr}}.card{display:flex;flex-direction:column;background:var(--card);border:1px solid var(--border);border-radius:14px;overflow:hidden;text-decoration:none;color:var(--text);transition:border-color .15s,transform .15s}.card:hover{border-color:var(--accent);transform:translateY(-2px)}.th{position:relative;overflow:hidden;aspect-ratio:16/8;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,color-mix(in srgb,var(--c) 38%%,var(--bg)),color-mix(in srgb,var(--c) 10%%,var(--bg)))}.th img{position:absolute;inset:0;width:100%%;height:100%%;object-fit:cover}.th svg{width:44px;height:44px;fill:var(--c);opacity:.95}.cb{padding:14px 16px 16px}.tag{display:inline-block;font-size:12px;letter-spacing:.06em;color:var(--c);border:1px solid var(--c);border-radius:4px;padding:1px 8px}.ty{display:inline-block;font-size:12px;letter-spacing:.06em;color:var(--bg);background:var(--accent);border-radius:4px;padding:1px 8px;margin-left:6px}.card .t{font-size:16px;font-weight:700;line-height:1.5;margin:8px 0 6px}.card .d{font-size:13px;color:var(--muted);line-height:1.65}.card time{display:block;font-size:12px;color:var(--muted);margin-top:10px}.empty{grid-column:1/-1;background:var(--card);border:1px dashed var(--border);border-radius:12px;padding:20px;font-size:14px;color:var(--muted)}.adslot{margin:40px 0;min-height:250px;background:var(--card);border:1px dashed var(--border);border-radius:12px;display:none}.about{margin-top:56px;padding:22px;background:var(--card);border:1px solid var(--border);border-radius:16px;font-size:14px;color:var(--text);opacity:.92}.about strong{color:var(--accent)}.about a{color:var(--link)}.trust{display:grid;gap:10px;grid-template-columns:1fr;margin:40px 0 0}@media(min-width:760px){.trust{grid-template-columns:repeat(3,1fr)}}.trust div{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 16px;font-size:12.5px;color:var(--muted);line-height:1.7}.trust b{display:block;color:var(--accent);font-size:13px;margin-bottom:2px}footer{border-top:1px solid var(--border);padding:24px;text-align:center;font-size:12px;color:var(--muted)}footer a{color:var(--muted);margin:0 6px}.maghead{padding:4px 0 22px}.maghead h1{font-size:clamp(24px,6vw,34px)}.faq{margin-top:56px}.faq details{background:var(--card);border:1px solid var(--border);border-radius:12px;margin:10px 0}.faq summary{cursor:pointer;padding:14px 18px;font-weight:700;font-size:15px}.faq details p{padding:0 18px 16px;font-size:14px;color:var(--text);opacity:.88;line-height:1.8}a:focus-visible,summary:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}"""
+
+
+def write_feed(cfg, posts, outdir):
+    """アプリが読む記事一覧 feed.json を書き出す（新しい順。中身が変わったときだけ書き換える）"""
+    url = cfg["url"]
+    items = []
+    for p in sorted(posts, key=lambda p: (p["date"], p["slug"]), reverse=True):
+        img = outdir / "img" / f'{p["slug"]}-sm.webp'
+        items.append({
+            "slug": p["slug"], "title": p["title"], "summary": p.get("summary", ""),
+            "category": p["category"], "date": p["date"], "url": f'{url}{p["slug"]}/',
+            "image": f'{url}img/{p["slug"]}-sm.webp' if img.exists() else "",
+        })
+    # カテゴリは {"name": ...} の形と、名前だけの文字の形のメディアがある
+    names = [c["name"] if isinstance(c, dict) else str(c) for c in cfg.get("categories", [])]
+    body = json.dumps({"name": cfg["name"], "url": url, "categories": names,
+                       "items": items}, ensure_ascii=False, separators=(",", ":"))
+    f = outdir / "feed.json"
+    if not f.exists() or f.read_text() != body:
+        f.write_text(body)
 
 
 def build(slug, preview=None):
     cfg = json.loads((ROOT / f"media/{slug}.json").read_text())
     pf = ROOT / (f"media/{slug}-posts.sample.json" if preview else f"media/{slug}-posts.json")
     posts = json.loads(pf.read_text())
+    if not preview and cfg.get("localizeImages", True):
+        # 外部画像の直リンクをやめ、写真を自サイト配信に切り替える(新しく付いた写真だけ処理。失敗しても公開は止めない)
+        try:
+            import localize_images
+            localize_images.main(slug)
+        except Exception as e:  # noqa: BLE001
+            print("localize_images skipped:", e)
     ip = ROOT / f"media/{slug}-images.json"
     images = json.loads(ip.read_text()) if ip.exists() else {}
     theme = {**DEFAULT_THEME, **cfg.get("theme", {})}
@@ -88,13 +112,19 @@ def build(slug, preview=None):
     name, url = cfg["name"], cfg["url"]
     tagline = cfg.get("tagline", "")
     lead = cfg.get("lead", "")
-    chips = "".join(f'<a class="chip" href="/category/{v["id"]}/" style="--c:{v["color"]}"><svg viewBox="0 0 24 24"><path d="{v["icon"]}"/></svg>{html.escape(n)}</a>' for n, v in cats.items())
+    has = {p["category"] for p in posts}  # 記事がまだ無いカテゴリはハブページが作られないので、トップの見出しへ飛ばす（404を避ける）
+    chref = lambda n, v: f'/category/{v["id"]}/' if n in has else f'/#c-{v["id"]}'
+    chips = "".join(f'<a class="chip" href="{chref(n, v)}" style="--c:{v["color"]}"><svg viewBox="0 0 24 24"><path d="{v["icon"]}"/></svg>{html.escape(n)}</a>' for n, v in cats.items())
     latest = "".join(card(p, cats, images, types) for p in posts[:12]) or '<p class="empty">記事を準備中です。</p>'
     secs = ""
+    # catLimit があればトップのカテゴリ欄はその本数までにし、残りはカテゴリページへ送る（スマホで縦に長くなりすぎるのを防ぐ）
+    cat_limit = cfg.get("catLimit")
     for n, v in cats.items():
         items = [p for p in posts if p["category"] == n]
-        body = "".join(card(p, cats, images, types) for p in items) or '<p class="empty">記事を準備中です。</p>'
-        secs += f'<section id="c-{v["id"]}"><h2 class="cat" style="--c:{v["color"]}"><svg viewBox="0 0 24 24"><path d="{v["icon"]}"/></svg>{html.escape(n)}</h2><div class="grid">{body}</div></section>'
+        body = "".join(card(p, cats, images, types) for p in items[:cat_limit]) or '<p class="empty">記事を準備中です。</p>'
+        more = (f'<a href="/category/{v["id"]}/" style="display:inline-block;margin-top:14px;padding:10px 0;font-size:14px;font-weight:700;color:var(--link)">{html.escape(n)}の記事をすべて見る（{len(items)}本）</a>'
+                if cat_limit and len(items) > cat_limit else "")
+        secs += f'<section id="c-{v["id"]}"><h2 class="cat" style="--c:{v["color"]}"><svg viewBox="0 0 24 24"><path d="{v["icon"]}"/></svg>{html.escape(n)}</h2><div class="grid">{body}</div>{more}</section>'
     mag = cfg.get("layout") == "magazine"
     ticker_html = ""
     if mag:
@@ -102,11 +132,28 @@ def build(slug, preview=None):
         ticker_html, body_html = magazine.render(cfg, posts, cats, images, types, img_url, card)
         extra_css = magazine.EXTRA_CSS
         secs_html = secs.replace('<section id="c-', '<section style="margin-top:8px" id="c-')
+    elif cfg.get("layout") == "hub":
+        import hub
+        secs = hub.render(cfg, posts, cats, images, types, card)
+        extra_css = hub.EXTRA_CSS
+    tick_css = ""
+    if not mag and cfg.get("ticker", True):  # 通常・hub のトップにも、マガジン型と同じ横に流れる PICK UP 帯を出す（新しいメディアも最初から。止めるときだけ "ticker": false）
+        import magazine
+        ticker_html = magazine.ticker(cfg, posts)
+        tick_css = magazine.TICKER_CSS + "main{padding-top:122px}" if ticker_html else ""
+    # hub は年齢・悩みの入口と新着を本文側に持つので、カテゴリチップと PICK UP を出さない
+    pick = "" if cfg.get("layout") == "hub" else f'<div class="chips" aria-label="カテゴリ">{chips}</div><h2 class="sec">PICK UP</h2><div class="grid">{latest}</div>'
+    import toolbox  # ツールとアプリをトップのヒーロー直下に出す（設定に toolbox / apps があるメディアだけ）
+    tb_top = toolbox.top_html(cfg)
     ttl = f"{name} | {cfg.get('titleSuffix', '')}".rstrip(" |")
     desc = html.escape(cfg.get("description", ""), quote=True)
     ld = json.dumps({"@context": "https://schema.org", "@graph": [
-        {"@type": "CollectionPage", "name": name, "url": url, "publisher": {"@type": "Organization", "name": "SEADICE", "url": "https://seadice.win"}},
-        {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": name, "item": url}]}]}, ensure_ascii=False)
+        {"@type": "WebSite", "@id": url + "#website", "name": name, "url": url, "description": cfg.get("description", ""), "inLanguage": "ja", "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}},
+        {"@type": "CollectionPage", "name": name, "url": url, "description": cfg.get("description", ""), "isPartOf": {"@id": url + "#website"}, "dateModified": max((p["date"] for p in posts), default=None), "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}},
+        {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": name, "item": url}]}]
+        + ([{"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in cfg["faq"]]}] if cfg.get("faq") else [])}, ensure_ascii=False)
+    # 設定にfaqがあればトップにQ&Aを表示する（AI検索が引用しやすい「質問→言い切りの答え」）
+    faq_html = ("<section class=\"faq\"><h2 class=\"sec\">よくある質問</h2>" + "".join(f"<details open><summary>{html.escape(q)}</summary><p>{html.escape(a)}</p></details>" for q, a in cfg["faq"]) + "</section>") if cfg.get("faq") else ""
     about = cfg.get("about", "記事はAIが公開された研究論文や公的機関の資料を調べ、出典の内容を確認して作成しています。SEADICEが独自に実験したものではありません。各記事の末尾に出典を掲載しています。")
     default_trust = [
         ("AIが出典を確認して作成", "公開されている研究論文・公的機関の資料をAIが調べ、内容を照合しています。"),
@@ -130,9 +177,9 @@ def build(slug, preview=None):
 <meta property="og:url" content="{url}">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
-{favicon_tag(name, theme)}
+{favicon_tag(cfg, theme)}
 <script type="application/ld+json">{ld}</script>
-<style>{CSS % theme}{extra_css if mag else ""}</style>
+<style>{CSS % theme}{extra_css if mag or cfg.get("layout") == "hub" else ""}{toolbox.CSS if tb_top else ""}{tick_css}{cfg.get("extraCss", "")}</style>
 </head>
 <body>
 <nav class="top">
@@ -140,18 +187,27 @@ def build(slug, preview=None):
   <a href="/" class="r">{html.escape(name)}</a>
 </nav>
 {ticker_html}<main{' class="mag"' if mag else ''}>
-  {'' if mag else f'<div class="hero"><h1>{html.escape(name)}</h1><p class="tagline">{html.escape(tagline)}</p><p class="lead">{html.escape(lead)}</p></div><div class="chips" aria-label="カテゴリ">{chips}</div><h2 class="sec">PICK UP</h2><div class="grid">{latest}</div>'}
+  {(cfg.get("mastheadHtml") or f'<div class="maghead"><h1>{html.escape(name)}</h1><p class="tagline">{html.escape(tagline)}</p></div>').replace("%NAME%", html.escape(name)).replace("%TAGLINE%", html.escape(tagline)).replace("%LEAD%", html.escape(cfg.get("lead", ""))).replace("%POSTS%", str(len(posts))).replace("%CATS%", str(len(cats))).replace("%UPDATED%", max((p["date"] for p in posts), default="")) + tb_top if mag else ''}{'' if mag else (cfg.get("mastheadHtml") or f'<div class="hero"><h1>{html.escape(name)}</h1><p class="tagline">{html.escape(tagline)}</p><p class="lead">{html.escape(lead)}</p></div>').replace("%NAME%", html.escape(name)).replace("%TAGLINE%", html.escape(tagline)).replace("%LEAD%", html.escape(lead)).replace("%POSTS%", str(len(posts))).replace("%CATS%", str(len(cats))).replace("%UPDATED%", max((p["date"] for p in posts), default="")) + tb_top + pick}
   {body_html + secs_html if mag else secs}
+  {faq_html}
   {trust_html}
   <div class="about"><strong>このメディアについて</strong><br>{about} 写真は <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a> の自由ライセンス素材で、各記事に撮影者とライセンスを表示しています。</div>
 </main>
-<footer><p><a href="/about/">このメディアについて</a> | <a href="/sources/">出典と検証の方法</a> | <a href="/disclaimer/">免責事項</a>{"".join(f' | <a href="{n["path"]}">{html.escape(n["label"])}</a>' for n in cfg.get("extraNav", []))} | <a href="https://seadice.win/">SEADICE</a> | &copy; SEADICE</p></footer>
+<footer><p><a href="/about/">このメディアについて</a> | <a href="/sources/">出典と検証の方法</a> | <a href="/disclaimer/">免責事項</a>{"".join(f' | <a href="{n["path"]}">{html.escape(n["label"])}</a>' for n in cfg.get("footerNav", cfg.get("extraNav", [])))} | <a href="https://seadice.win/">SEADICE</a> | &copy; SEADICE</p></footer>
 </body>
 </html>
 '''
     outdir = Path(preview) if preview else ROOT / cfg["path"]
     outdir.mkdir(parents=True, exist_ok=True)
     (outdir / "index.html").write_text(out)
+    nf = (f'<!DOCTYPE html>\n<html lang="ja">\n<head>\n<meta charset="UTF-8">\n<meta name="viewport" content="width=device-width,initial-scale=1">\n'
+          f'<title>ページが見つかりません | {html.escape(name)}</title>\n<meta name="robots" content="noindex">\n{favicon_tag(cfg, theme)}\n<style>{CSS % theme}{cfg.get("extraCss", "")}</style>\n</head>\n<body>\n'
+          f'<nav class="top"><a href="https://seadice.win/" class="nav-logo">SEADICE</a><a href="/" class="r">{html.escape(name)}</a></nav>\n'
+          f'<main><div class="hero"><h1>ページが見つかりません</h1><p class="lead">お探しのページは移動したか、削除された可能性があります。</p></div>'
+          f'<div class="chips" aria-label="カテゴリ"><a class="chip" style="--c:var(--accent)" href="/">{html.escape(name)} のトップへ</a>'
+          + "".join(f'<a class="chip" style="--c:{v["color"]}" href="{chref(n, v)}">{html.escape(n)}</a>' for n, v in cats.items()) +
+          '</div></main>\n<footer><p><a href="/about/">このメディアについて</a> | <a href="https://seadice.win/">SEADICE</a> | &copy; SEADICE</p></footer>\n</body>\n</html>\n')
+    (outdir / "404.html").write_text(nf)
     if preview:
         return print("preview:", outdir / "index.html")
     sm = ROOT / cfg["path"] / "sitemap.xml"
@@ -159,15 +215,90 @@ def build(slug, preview=None):
     urls = ([url] + [f"{url}{p['slug']}/" for p in posts] + [f"{url}{x}/" for x in ("about", "sources", "disclaimer")]
              + [url.rstrip("/") + n["path"] for n in cfg.get("extraNav", []) if not n["path"].startswith("http")])
     add = "".join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{latest_date}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.7</priority>\n  </url>\n' for u in urls if f"<loc>{u}</loc>" not in s)
-    sm.write_text(s.replace("</urlset>", add + "</urlset>") if add else s)
+    s = s.replace("</urlset>", add + "</urlset>") if add else s
+    # 空のlastmod（記事0本の時期に作られた行）は無効なので、最新の記事日付（なければ今日）で埋める
+    s = s.replace("<lastmod></lastmod>", f"<lastmod>{latest_date or seed}</lastmod>")
+    sm.write_text(s)
+    write_feed(cfg, posts, outdir)
     cat_urls = build_category_pages(cfg, posts, cats, images, types, theme, name, url)
     add2 = "".join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{latest_date}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.6</priority>\n  </url>\n' for u in cat_urls if f"<loc>{u}</loc>" not in s)
     if add2:
         cur = sm.read_text()
         sm.write_text(cur.replace("</urlset>", add2 + "</urlset>"))
     import seo
-    n, pages = seo.apply(cfg, posts, images, favicon_tag(name, theme))
-    print(f"built {cfg['path']}index.html ({len(posts)} posts), seo-patched {n} articles, {len(pages)} trust pages, {len(cat_urls)} category hubs")
+    n, pages = seo.apply(cfg, posts, images, favicon_tag(cfg, theme))
+    import extras  # まとめページ・用語集・固定ページ・照合済み表示(設定ファイルがあるメディアだけ)
+    xn, xb = extras.apply(cfg, posts, cats, images, types, theme, favicon_tag(cfg, theme), CSS % theme, card)
+    import apps  # 公開済みアプリへの送客カードと、アプリから飛んでくる先の /apps/{id}/ (設定に apps があるメディアだけ)
+    an, aurls = apps.apply(cfg, posts, cats, images, types, theme, favicon_tag(cfg, theme), CSS % theme, card)
+    add3 = "".join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{latest_date}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.6</priority>\n  </url>\n'
+                   for u in aurls if f"<loc>{u}</loc>" not in sm.read_text())
+    if add3:
+        sm.write_text(sm.read_text().replace("</urlset>", add3 + "</urlset>"))
+    tn, turls = toolbox.apply(cfg, posts, theme, favicon_tag(cfg, theme), CSS % theme)  # 記事冒頭の「この記事と一緒に使える」と /tools/
+    add4 = "".join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{latest_date}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.7</priority>\n  </url>\n'
+                   for u in turls if f"<loc>{u}</loc>" not in sm.read_text())
+    if add4:
+        sm.write_text(sm.read_text().replace("</urlset>", add4 + "</urlset>"))
+    if an:
+        print(f"app cards: {an} articles, {len(aurls)} app pages")
+    if tn:
+        print(f"toolbox: {tn} articles, hub {turls or 'kept'}")
+    import dailypick  # トップの日替わり1本(設定 dailyPick があるメディアだけ。readcheck より前に入れる)
+    dailypick.apply(cfg, posts)
+    import readcheck  # 読んだ記事のチェック(設定 readCheck があるメディアだけ。最後に作り直されたトップ・カテゴリにも入れる)
+    readcheck.apply(cfg, posts)
+    import sidenav  # 左の記事一覧(設定 sideIndex があるメディアだけ。全ページの最後に入れる)
+    if (sn := sidenav.apply(cfg, posts, cats)):
+        print(f"side index: {sn} pages")
+    site_og(cfg)
+    if (bn := title_brand(cfg)):
+        print(f"title brand: {bn} pages -> {cfg['titleName']}")
+    print(f"built {cfg['path']}index.html ({len(posts)} posts), seo-patched {n} articles, {len(pages)} trust pages, {len(cat_urls)} category hubs"
+          + (f", {xn} extra pages, {xb} verified badges" if xn or xb else ""))
+
+
+def title_brand(cfg):
+    """設定に titleName があるメディアは、<title> と og/twitter:title の「| メディア名」を titleName に差し替える。
+    名前がよくある言葉で、検索やAIの要約で他と見分けにくいメディア用(例: 「AI時代の子育て（SEADICE）」)。何度実行しても同じ結果になる。"""
+    tn, name = cfg.get("titleName"), cfg["name"]
+    if not tn:
+        return 0
+    en, et = html.escape(name, quote=True), html.escape(tn, quote=True)
+    def fix(t):
+        if t.endswith(f"| {en}"):
+            return t[: -len(en)] + et
+        if t.endswith(f"|{en}"):
+            return t[: -len(en)] + et
+        if t.startswith(f"{en} |"):
+            return et + t[len(en):]
+        return t if et in t or not t else f"{t} | {et}"
+    n = 0
+    for f in (ROOT / cfg["path"]).rglob("*.html"):
+        s = f.read_text()
+        s2 = re.sub(r"(<title>)(.*?)(</title>)", lambda m: m[1] + fix(m[2]) + m[3], s, count=1)
+        s2 = re.sub(r'(<meta (?:property="og:title"|name="twitter:title") content=")([^"]*)(")', lambda m: m[1] + fix(m[2]) + m[3], s2)
+        if s2 != s:
+            f.write_text(s2)
+            n += 1
+    return n
+
+
+def site_og(cfg):
+    """記事以外のページ(トップ・カテゴリ・用語集など)に、設定 ogImage のSNS共有画像を付ける。記事は写真を使う(seo.py)。"""
+    og = cfg.get("ogImage")
+    if not og:
+        return
+    src = og if og.startswith("http") else cfg["url"].rstrip("/") + og
+    tag = f'<meta property="og:image" content="{src}">\n<meta name="twitter:image" content="{src}">\n'
+    for f in (ROOT / cfg["path"]).rglob("index.html"):
+        t = f.read_text()
+        if 'property="og:image"' in t or 'property="og:type"' not in t:
+            continue
+        card = '<meta name="twitter:card" content="summary_large_image">\n'
+        t = re.sub(r'<meta name="twitter:card" content="[^"]*">\n?', "", t, count=1)
+        t = re.sub(r'(<meta property="og:type"[^>]*>\n?)', lambda m: m.group(1).rstrip("\n") + "\n" + card + tag, t, count=1)
+        f.write_text(t)
 
 
 def build_category_pages(cfg, posts, cats, images, types, theme, name, url):
@@ -184,7 +315,7 @@ def build_category_pages(cfg, posts, cats, images, types, theme, name, url):
         curl = f"{url}category/{v['id']}/"
         ld = json.dumps({"@context": "https://schema.org", "@graph": [
             {"@type": "CollectionPage", "name": ttl, "url": curl, "description": cdesc,
-             "publisher": {"@type": "Organization", "name": "SEADICE", "url": "https://seadice.win"}},
+             "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}},
             {"@type": "BreadcrumbList", "itemListElement": [
                 {"@type": "ListItem", "position": 1, "name": "HOME", "item": "https://seadice.win/"},
                 {"@type": "ListItem", "position": 2, "name": name, "item": url},
@@ -202,9 +333,9 @@ def build_category_pages(cfg, posts, cats, images, types, theme, name, url):
 <meta property="og:url" content="{curl}">
 <meta property="og:type" content="website">
 <meta name="robots" content="index,follow">
-{favicon_tag(name, theme)}
+{favicon_tag(cfg, theme)}
 <script type="application/ld+json">{ld}</script>
-<style>{CSS % theme}</style>
+<style>{CSS % theme}{cfg.get("extraCss", "")}</style>
 </head>
 <body>
 <nav class="top">

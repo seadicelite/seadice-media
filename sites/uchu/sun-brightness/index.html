@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>もし太陽の明るさが違ったら｜地球の温度と住める範囲を計算 | 宇宙の研究</title>
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta name="description" content="バーで太陽の明るさを変えると、地球に届く光・地球の温度の目安・生き物が住める範囲（ハビタブルゾーン）がどう動くかを計算する道具。金星・地球・火星が範囲に入るかを図で見る。">
+<link rel="canonical" href="https://uchu.seadice.win/sun-brightness/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="宇宙の研究">
+<meta property="og:title" content="もし太陽の明るさが違ったら｜地球の温度と住める範囲を計算">
+<meta property="og:description" content="太陽の明るさを変えると、地球の温度の目安と生き物が住める範囲がどう動くかを計算。登録なし・無料。">
+<meta property="og:url" content="https://uchu.seadice.win/sun-brightness/">
+<meta property="og:image" content="https://seadice.win/icons/seadice_ogp.png">
+<meta name="theme-color" content="#0A0E16">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebApplication", "name": "もし太陽の明るさが違ったら", "url": "https://uchu.seadice.win/sun-brightness/", "applicationCategory": "EducationalApplication", "operatingSystem": "Web", "inLanguage": "ja", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "JPY"}, "description": "バーで太陽の明るさを変えると、地球に届く光・地球の温度の目安・生き物が住める範囲（ハビタブルゾーン）がどう動くかを計算する道具。金星・地球・火星が範囲に入るかを図で見る。", "publisher": {"@id": "https://seadice.win/#organization"}, "dateModified": "2026-10-25"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "SEADICE", "item": "https://seadice.win/"}, {"@type": "ListItem", "position": 2, "name": "宇宙の研究", "item": "https://uchu.seadice.win/"}, {"@type": "ListItem", "position": 3, "name": "もし太陽の明るさが違ったら", "item": "https://uchu.seadice.win/sun-brightness/"}]}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "太陽が明るくなると、地球はいつ住めなくなるの？", "acceptedAnswer": {"@type": "Answer", "text": "太陽は少しずつ明るくなっていて、約10億年後には地球が生き物の住めない暑さになると見積もられています。この道具の範囲（Kopparapu 2013）では、今の地球は住める範囲の内側の端の近くにあり、太陽が今より約2%明るくなると、水を失い始める限界を越える計算です。ただしこれは雲を入れない控えめな計算の境目で、実際にいつ住めなくなるかの見積もり（約10億年後）とは別のものです。雲の効果などで、実際の限界はもっと外にある可能性があります。"}}, {"@type": "Question", "name": "温度の目安はどうやって出しているの？", "acceptedAnswer": {"@type": "Answer", "text": "地球が太陽の光を受けて温まり、宇宙へ熱を出してつり合う温度（黒体温度、今は約−19℃）を、届く光の4乗根に比例させて出しています。地面の目安は、今の温室効果の上乗せ（約34度）を変えないとした、とても粗い値です。本当は水蒸気・雲・氷の量が変わるので、大きくずれます。"}}, {"@type": "Question", "name": "暗い太陽のパラドックスとは？", "acceptedAnswer": {"@type": "Answer", "text": "生まれたころの太陽は今より暗く、地球に届く光は約25%少なかったと考えられています。ほかの条件が今と同じなら地球は凍っていたはずですが、38億〜25億年前に液体の水や生き物がいた証拠があります。温室効果ガスが多かったなどの説がありますが、決着していません。"}}]}]}</script>
+<style>
+:root{--bg:#0A0E16;--card:#121926;--border:#26324A;--text:#E9EDF3;--muted:#A1ACBE;--accent:#E3B341;--accent2:#7FB2E5;--known:#8FD1A8;--unknown:#E9A0A0;--est:#A1ACBE;--g:16px}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.8 -apple-system,BlinkMacSystemFont,"Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP","Yu Gothic",Meiryo,sans-serif}
+a{color:var(--accent2)}
+a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{max-width:1080px;margin:0 auto;padding:0 var(--g)}
+nav.top{border-bottom:1px solid var(--border)}
+nav.top .wrap{display:flex;justify-content:space-between;align-items:center;min-height:52px}
+nav.top a{color:var(--text);text-decoration:none;font-weight:700;padding:10px 0}
+nav.top a.site{color:var(--accent)}
+.crumb{font-size:13px;color:var(--muted);margin:14px 0 0;padding:0;list-style:none;display:flex;flex-wrap:wrap;gap:4px}
+.crumb li+li:before{content:"/";margin-right:4px}
+.crumb a{color:var(--muted)}
+h1{font-size:24px;line-height:1.4;margin:12px 0 8px}
+h2{font-size:19px;line-height:1.45;margin:36px 0 12px;padding-left:10px;border-left:3px solid var(--accent)}
+h3{font-size:16px;margin:20px 0 6px}
+p{margin:0 0 12px}
+.lead{color:var(--text);font-size:15px}
+.note{font-size:13px;color:var(--muted)}
+.card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:14px}
+.grid{display:grid;gap:20px;margin-top:16px}
+.stage{position:relative;width:100%;max-width:560px;aspect-ratio:1/1;background:#05070C;border:1px solid var(--border);border-radius:8px;overflow:hidden}
+.stage canvas{display:block;width:100%;height:100%}
+.ov{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:20px;font-size:15px;color:var(--muted)}
+.ov strong{color:var(--text);font-size:17px;display:block;margin-bottom:6px}
+.cap{font-size:13px;color:var(--muted);margin:6px 0 0;min-height:1.6em}
+.readout{display:flex;flex-wrap:wrap;gap:4px 16px;margin:10px 0 4px;font-size:14px}
+.readout b{font-size:20px;color:var(--accent);font-weight:700}
+.btns{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}
+button{font:inherit;font-size:15px;min-height:48px;padding:8px 16px;border-radius:8px;border:1px solid var(--border);background:var(--card);color:var(--text);cursor:pointer}
+button.primary{background:var(--accent);border-color:var(--accent);color:#14110A;font-weight:700}
+button:hover{border-color:var(--accent2)}
+input[type=range]{width:100%;height:48px;margin:4px 0;accent-color:var(--accent);cursor:pointer}
+.verdict{border-left:4px solid var(--accent)}
+.verdict .vt{font-size:18px;font-weight:700;margin:0 0 6px}
+.verdict.v-d{border-left-color:var(--known)}
+.verdict.v-b,.verdict.v-a{border-left-color:var(--unknown)}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{text-align:left;padding:8px 6px;border-bottom:1px solid var(--border);vertical-align:top}
+th{color:var(--muted);font-weight:400;font-size:13px}
+td.v{white-space:nowrap;color:var(--accent)}
+.tl{list-style:none;margin:0;padding:0}
+.tl li{border-bottom:1px solid var(--border)}
+.tl button{display:block;width:100%;text-align:left;background:none;border:0;border-radius:0;padding:12px 4px;min-height:48px}
+.tl button:hover{background:var(--card)}
+.tl li.cur button{background:var(--card);box-shadow:inset 3px 0 0 var(--accent)}
+.tl .tt{color:var(--accent);font-weight:700;font-size:14px}
+.tl .tn{font-weight:700;font-size:16px;margin-left:6px}
+.tl .tx{display:block;font-size:14px;color:var(--muted);margin-top:4px;line-height:1.7}
+.tl li.none .tt{color:var(--muted)}
+.lb{display:inline-block;font-size:12px;line-height:1.5;padding:0 6px;border:1px solid currentColor;border-radius:4px;margin-left:6px;vertical-align:2px;font-weight:400}
+.lb.k{color:var(--known)}.lb.h{color:var(--accent)}.lb.u{color:var(--unknown)}.lb.e{color:var(--est)}
+.rec{font-size:15px}
+.rec ul{margin:8px 0;padding:0;list-style:none;display:flex;flex-wrap:wrap;gap:6px}
+.rec li a{display:inline-block;padding:10px 10px;border:1px solid var(--border);border-radius:6px;font-size:14px;text-decoration:none;min-height:44px}
+.src{font-size:14px;padding-left:20px}
+.src li{margin-bottom:8px}
+.rel{list-style:none;padding:0;margin:0;display:grid;gap:8px}
+.rel a{display:block;padding:12px 14px;border:1px solid var(--border);border-radius:8px;background:var(--card);text-decoration:none;color:var(--text)}
+footer{border-top:1px solid var(--border);margin-top:48px;padding:20px 0 32px;font-size:13px;color:var(--muted)}
+footer a{color:var(--muted);display:inline-block;padding:6px 0}
+dl.faq dt{font-weight:700;margin-top:14px}
+dl.faq dd{margin:4px 0 0;color:var(--text);font-size:15px}
+@media(min-width:600px){:root{--g:24px}h1{font-size:28px}.rel{grid-template-columns:1fr 1fr}}
+@media(min-width:960px){:root{--g:32px}.grid{grid-template-columns:560px 1fr;align-items:start}.side{position:sticky;top:12px;max-height:calc(100vh - 24px);overflow:auto}}
+.grid>*{min-width:0}.tw{overflow-x:auto;-webkit-overflow-scrolling:touch}.tw table{min-width:440px}.tw th,.tw td{white-space:nowrap}.readout em{font-style:normal;font-size:14px;color:var(--muted)}.stats{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:12px 0}.stats div{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:10px 12px}.stats small{display:block;font-size:12px;color:var(--muted)}.stats b{display:block;font-size:17px;color:var(--accent);line-height:1.4}.stats em{display:block;font-style:normal;font-size:12px;color:var(--muted)}.stats .w{grid-column:1/-1}.map{background:#05070C;border:1px solid var(--border);border-radius:8px;padding:12px;margin:8px 0}.map svg{display:block;width:100%;height:auto}.pre{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}.pre button{font-size:14px;min-height:44px;padding:6px 12px}.note2{border-left:4px solid var(--accent)}/*rc*/.rc{margin:40px 0 0;padding:18px;background:var(--card,var(--panel,#121926));border:1px solid var(--border,var(--line,#26324A));border-radius:8px;text-align:center}.rc-b{font:inherit;font-size:15px;font-weight:700;min-height:48px;padding:10px 22px;border-radius:8px;cursor:pointer;background:var(--accent);color:var(--bg);border:1px solid var(--accent)}.rc-b[aria-pressed=true]{background:transparent;color:var(--accent)}.rc-n{font-size:13px;color:var(--muted);margin:10px 0 0;line-height:1.6}.rc-prog{font-size:13px;color:var(--muted);margin:0 0 18px}.rc-prog b{color:var(--accent)}.rc-done{position:relative}.rc-done::after{content:"読んだ";position:absolute;top:8px;right:8px;z-index:2;font-size:12px;font-weight:700;letter-spacing:.06em;padding:2px 8px;border-radius:4px;background:var(--bg);color:var(--accent);border:1px solid var(--accent)}a.rc-in::after{content:"読んだ";display:inline-block;margin-left:6px;font-size:12px;font-weight:700;line-height:1.5;padding:0 6px;border-radius:4px;color:var(--accent);border:1px solid var(--accent);vertical-align:1px;text-decoration:none}.rct{margin:32px 0;padding:18px;background:var(--card,var(--panel,#121926));border:1px solid var(--border,var(--line,#26324A));border-radius:8px;text-align:left}.rct h2{font-size:17px;margin:0 0 6px;padding:0;border:0}.rct .rc-n{margin:0 0 10px}.rct .rc-n b{color:var(--accent)}.rct ul{list-style:none;margin:0;padding:0}.rct li{margin:0;padding:0;border-top:1px solid var(--border,var(--line,#26324A))}.rct li a{display:block;padding:12px 0;font-size:15px;line-height:1.5;color:var(--text);text-decoration:none}.rct li a:hover{color:var(--accent)}.rct li small{display:block;font-size:12px;color:var(--muted)}.rct .rc-next{display:none;margin:0 0 12px;font-size:14px}.rct .rc-next a{color:var(--accent);font-weight:700}/*/rc*/</style>
+</head>
+<body>
+<nav class="top"><div class="wrap"><a class="site" href="/">宇宙の研究</a><a href="/tools/">道具</a></div></nav>
+<main class="wrap">
+<ol class="crumb"><li><a href="https://seadice.win/">HOME</a></li><li><a href="/">宇宙の研究</a></li><li aria-current="page">もし太陽の明るさが違ったら</li></ol>
+<h1>もし太陽の明るさが違ったら 地球の温度と住める範囲の計算機</h1>
+<p class="lead">太陽は生まれてから少しずつ明るくなっていて、これからも明るくなります。バーで太陽の明るさを変えると、<strong>地球に届く光・地球の温度の目安・生き物が住める範囲（ハビタブルゾーン）</strong>がどう動くかを計算し、金星・地球・火星がその範囲に入るかを図で見せます。今の地球は、住める範囲の内側の端の近くにいます。</p>
+
+<div class="grid">
+<div>
+<div class="readout"><span>太陽の明るさ <b id="lv">-</b> <em id="lr"></em></span></div>
+<label for="slider" class="note">太陽の明るさ（今の0.3倍〜2倍、目盛りは対数）</label>
+<input type="range" id="slider" min="0" max="1000" step="1" value="0" aria-valuetext="">
+<div class="stats">
+<div><small>地球に届く太陽の光</small><b id="sF">-</b><em>明るさに比例</em></div>
+<div><small>地球の黒体温度</small><b id="sT">-</b><em>今は約−19℃</em></div>
+<div class="w"><small>地面の温度のごく粗い目安（温室効果を今のままとした場合）</small><b id="sG">-</b><em>今の平均は約15℃。水蒸気・雲・氷が変わるので大きくずれます</em></div>
+<div class="w"><small>生き物が住める範囲（太陽からの距離）</small><b id="sH">-</b><em id="sP"></em></div>
+</div>
+<div class="map"><svg id="map" viewBox="0 0 360 110" role="img" aria-label="太陽からの距離と、生き物が住める範囲"></svg><p class="note" style="margin:6px 0 0">緑の帯が生き物が住める範囲（計算の目安）。目盛りは太陽からの距離（天文単位、1＝今の地球と太陽の距離）。</p></div>
+<div class="pre" role="group" aria-label="よく使う明るさ"><button type="button" data-l="0.75">生まれたころ（約75%）</button><button type="button" data-l="1.0">今</button><button type="button" data-l="1.1">約10億年後（約1.1倍）</button><button type="button" data-l="0.5">今の0.5倍</button><button type="button" data-l="2.0">今の2倍</button></div>
+<div class="card note2"><p id="msg" style="margin:0"></p></div>
+</div>
+<div class="side">
+<h2 style="margin-top:0">よく使う明るさの計算結果</h2>
+<div class="card tw"><table><thead><tr><th>太陽の明るさ</th><th>黒体温度</th><th>住める範囲（天文単位）</th><th>地球の位置</th></tr></thead><tbody><tr><th>生まれたころ（約75%）</th><td>-37℃</td><td>0.86〜1.47</td><td>範囲の中</td></tr><tr><th>今</th><td>-19℃</td><td>0.99〜1.70</td><td>範囲の中</td></tr><tr><th>約10億年後（約1.1倍）</th><td>-13℃</td><td>1.04〜1.78</td><td>近すぎる側に外れる</td></tr><tr><th>今の0.5倍</th><td>-60℃</td><td>0.70〜1.20</td><td>範囲の中</td></tr><tr><th>今の2倍</th><td>29℃</td><td>1.40〜2.40</td><td>近すぎる側に外れる</td></tr></tbody></table><p class="note" style="margin:10px 0 0">住める範囲は「温室効果が必要なだけ強まる」とした計算で、黒体温度は温室効果を入れない値です。そのため、暗い太陽では「範囲の中なのに寒い」という食い違いが出ます。生まれたころの太陽でのこの食い違いが、まだ解けていない「暗い太陽のパラドックス」です<a class="ref" href="#src-3">[3]</a>。範囲の境目は雲を入れない控えめな計算なので、「外れる」は「住めなくなる時期」を表すものではありません。</p></div>
+<h2>計算のしかたと限界</h2>
+<ul>
+<li><b>住める範囲</b>: Kopparapu ほか（2013）の太陽系での値（内側は水を失い始める0.99天文単位、外側は二酸化炭素の温室効果で温められる限界の1.70天文単位）を、太陽の明るさの平方根に比例させて動かしています<a class="ref" href="#src-1">[1]</a>。この範囲は「二酸化炭素などの温室効果が、海が凍らないよう必要なだけ強まる」とした計算なので、温室効果を今のままとした「地面の目安」とは食い違うことがあります。この計算は雲を入れていないので、実際の範囲は両側にもう少し広がる可能性があると論文自身が書いています。太陽の色（表面温度）は今と同じとしています。</li>
+<li><b>黒体温度</b>: 地球が受けた光と宇宙へ出す熱がつり合う温度です。今は約254K（約−19℃）で<a class="ref" href="#src-2">[2]</a>、届く光の4乗根に比例させています。地球の白さ（反射率）は今と同じとしています。</li>
+<li><b>地面の目安</b>: 今の平均気温（約288K、15℃）と黒体温度の差（約34度）を温室効果の上乗せとして足しただけの、とても粗い値です。</li>
+<li>惑星の距離は今の平均の値です<a class="ref" href="#src-2">[2]</a>。</li>
+</ul>
+<h2>よくある質問</h2>
+<dl class="faq"><dt>太陽が明るくなると、地球はいつ住めなくなるの？</dt><dd>太陽は少しずつ明るくなっていて、約10億年後には地球が生き物の住めない暑さになると見積もられています。この道具の範囲（Kopparapu 2013）では、今の地球は住める範囲の内側の端の近くにあり、太陽が今より約2%明るくなると、水を失い始める限界を越える計算です。ただしこれは雲を入れない控えめな計算の境目で、実際にいつ住めなくなるかの見積もり（約10億年後）とは別のものです。雲の効果などで、実際の限界はもっと外にある可能性があります。</dd><dt>温度の目安はどうやって出しているの？</dt><dd>地球が太陽の光を受けて温まり、宇宙へ熱を出してつり合う温度（黒体温度、今は約−19℃）を、届く光の4乗根に比例させて出しています。地面の目安は、今の温室効果の上乗せ（約34度）を変えないとした、とても粗い値です。本当は水蒸気・雲・氷の量が変わるので、大きくずれます。</dd><dt>暗い太陽のパラドックスとは？</dt><dd>生まれたころの太陽は今より暗く、地球に届く光は約25%少なかったと考えられています。ほかの条件が今と同じなら地球は凍っていたはずですが、38億〜25億年前に液体の水や生き物がいた証拠があります。温室効果ガスが多かったなどの説がありますが、決着していません。</dd></dl>
+</div>
+</div>
+
+<h2>関連する記事</h2>
+<ul class="rel">
+<li><a href="/sun-future/">太陽はいつか消えるのか、50億年後の太陽と地球</a></li>
+<li><a href="/earth-like-planets/">地球に似た惑星は見つかっているのか、ハビタブルゾーンとは</a></li>
+<li><a href="/venus-hot/">金星はなぜ地球より熱いのか、温室効果が暴走した星</a></li>
+<li><a href="/mars-water/">火星に水はあったのか、探査機が見つけた証拠</a></li>
+</ul>
+
+<h2>出典</h2>
+<ol class="src">
+<li id="src-1">Kopparapu, R. K., et al. (2013). Habitable Zones around Main-sequence Stars: New Estimates. <i>The Astrophysical Journal</i>, 765, 131. <a href="https://doi.org/10.1088/0004-637X/765/2/131" target="_blank" rel="noopener">doi:10.1088/0004-637X/765/2/131</a></li>
+<li id="src-2">NASA NSSDC. Earth Fact Sheet / Planetary Fact Sheet（地球の黒体温度 254K・平均気温 288K、惑星の距離）. <a href="https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html" target="_blank" rel="noopener">nssdc.gsfc.nasa.gov</a></li>
+<li id="src-3">Feulner, G. (2012). The faint young Sun problem. <i>Reviews of Geophysics</i>, 50, RG2006. <a href="https://doi.org/10.1029/2011RG000375" target="_blank" rel="noopener">doi:10.1029/2011RG000375</a></li>
+<li id="src-4">Schröder, K.-P., &amp; Smith, R. C. (2008). Distant future of the Sun and Earth revisited. <i>Monthly Notices of the Royal Astronomical Society</i>, 386, 155. <a href="https://doi.org/10.1111/j.1365-2966.2008.13022.x" target="_blank" rel="noopener">doi:10.1111/j.1365-2966.2008.13022.x</a></li>
+</ol>
+<p class="note" style="margin-top:16px">最終更新: 2026年10月25日。入力は送らず、この画面の中だけで計算します。</p>
+</main>
+<!--readcheck--><section class="rct" id="rct" aria-labelledby="rct-h"><h2 id="rct-h">この道具とつながる記事（22本）</h2><p class="rc-n" id="rct-n" aria-live="polite">記事の下の「読んだ記事にする」を押すと、ここに読んだ本数が出ます。</p><p class="rc-next" id="rct-next"></p><ul><li><a href="/moon-phases/"><small>太陽と月</small>月はなぜ満ち欠けするのか、いつも同じ面が見える理由</a></li><li><a href="/moon-origin/"><small>太陽と月</small>月はどうやってできたのか、ジャイアント・インパクト説の証拠</a></li><li><a href="/solar-flare-aurora/"><small>太陽と月</small>太陽フレアとは何か、オーロラや停電との関係</a></li><li><a href="/sun-future/"><small>太陽と月</small>太陽はいつか消えるのか、50億年後の太陽と地球</a></li><li><a href="/corona-heating/"><small>太陽と月</small>太陽のコロナはなぜ100万度なのか、表面より熱いなぞ</a></li><li><a href="/eclipses/"><small>太陽と月</small>日食と月食はなぜ起きるのか、次に日本で見られるのはいつ</a></li><li><a href="/moon-moving-away/"><small>太陽と月</small>月は毎年3.8cm遠ざかっている、レーザーでわかったこと</a></li><li><a href="/leap-year-leap-second/"><small>太陽と月</small>うるう年とうるう秒は何のためにあるのか、地球の回り方と時計のずれ</a></li><li><a href="/if-moon-disappeared/"><small>太陽と月</small>もし月がなかったら地球はどうなるのか</a></li><li><a href="/hot-jupiter/"><small>系外惑星</small>ホットジュピターとは何か、星のすぐそばを回る巨大な惑星</a></li><li><a href="/super-earths/"><small>系外惑星</small>スーパーアースとは何か、地球より大きな岩の惑星</a></li><li><a href="/exoplanet-names/"><small>系外惑星</small>系外惑星の名前はどう付けるのか、日本が名付けた星も</a></li><li><a href="/transit-method/"><small>系外惑星</small>トランジット法とは何か、惑星が星の前を横切ると暗くなる</a></li><li><a href="/exoplanet-atmospheres/"><small>系外惑星</small>系外惑星の大気から何がわかるのか、光の色で成分を読む</a></li><li><a href="/earth-like-planets/"><small>系外惑星</small>地球に似た惑星は見つかっているのか、ハビタブルゾーンとは</a></li><li><a href="/nearest-exoplanet/"><small>系外惑星</small>いちばん近い系外惑星はどこか、プロキシマ・ケンタウリb</a></li><li><a href="/proxima-travel/"><small>系外惑星</small>プロキシマbまで何年かかるのか、ボイジャーや光の帆の場合</a></li><li><a href="/exoplanets-count/"><small>系外惑星</small>太陽系の外の惑星はいくつ見つかっているのか、見つけ方と地球に似た惑星</a></li><li><a href="/rogue-planets/"><small>系外惑星</small>星を持たない浮遊惑星とは何か、どれくらいあるのか</a></li><li><a href="/diamond-planet/"><small>系外惑星</small>ダイヤモンドの惑星はあるのか、かに座55番星eの説が揺れた理由</a></li><li><a href="/first-exoplanets/"><small>系外惑星</small>最初の系外惑星はどう見つかったのか、パルサーのまわりと51ペガスス座b</a></li><li><a href="/if-red-dwarf-earth/"><small>系外惑星</small>もし地球が赤い小さな星のまわりにあったら、どんな世界になるのか</a></li></ul></section><script>(function(){var K='uchu-read',R={};try{R=JSON.parse(localStorage.getItem(K)||'{}')||{}}catch(e){}function rcMark(){[].forEach.call(document.querySelectorAll('a[href]'),function(a){var h=a.getAttribute('href')||'',m=h.match(/^\/([a-z0-9-]+)\/$/);a.classList.remove('rc-done','rc-in');if(!m||!R[m[1]]||a.closest('nav.top,footer,.ticker'))return;a.classList.add(a.matches('a.card,a.feat,a.srow,a.dp')?'rc-done':'rc-in')})}rcMark();var L=[].map.call(document.querySelectorAll('#rct li a'),function(a){return a}),k=L.filter(function(a){return R[a.getAttribute('href').slice(1,-1)]}).length,n=document.getElementById('rct-n');if(k)n.innerHTML=L.length+'本のうち <b>'+k+'本</b> 読みました（この端末の記録）。';var x=L.filter(function(a){return !R[a.getAttribute('href').slice(1,-1)]})[0],nx=document.getElementById('rct-next');if(x&&k){nx.innerHTML='次に読むなら: <a href="'+x.getAttribute('href')+'"></a>';nx.lastChild.textContent=x.lastChild.textContent;nx.style.display='block'}else if(!x){n.innerHTML='つながる記事を<b>すべて</b>読みました（この端末の記録）。'}})()</script><!--/readcheck-->
+<footer><div class="wrap"><a href="/about/">このメディアについて</a> | <a href="/sources/">出典と検証の方法</a> | <a href="/disclaimer/">免責事項</a> | <a href="https://seadice.win/">SEADICE</a> | &copy; SEADICE</div></footer>
+<script>
+(function(){
+var C={"TBB": 254.0, "TAVG": 288.0, "HI": 0.99, "HO": 1.7, "P": [["金星", 0.723], ["地球", 1.0], ["火星", 1.524]]},LMIN=0.3,LMAX=2,$=function(i){return document.getElementById(i)},sl=$('slider');
+function lOf(p){return LMIN*Math.pow(LMAX/LMIN,p/1000)}
+function pOf(l){return Math.round(1000*Math.log(l/LMIN)/Math.log(LMAX/LMIN))}
+function c2(k){var c=k-273.15;return (c<0?'−':'')+Math.abs(c).toFixed(0)+'℃'}
+function where(d,i,o){return d<i?'内側（近すぎる）':d>o?'外側（遠すぎる）':'範囲の中'}
+var X=function(au){return 16+au/3*328};
+function draw(i,o){var s='<line x1="16" y1="70" x2="344" y2="70" stroke="#26324A"/>';
+ for(var a=0;a<=3;a+=1)s+='<line x1="'+X(a)+'" y1="66" x2="'+X(a)+'" y2="74" stroke="#26324A"/><text x="'+X(a)+'" y="92" fill="#A1ACBE" font-size="15" text-anchor="middle">'+a+'</text>';
+ var x1=X(Math.min(i,3)),x2=X(Math.min(o,3));if(i<3)s+='<rect x="'+x1+'" y="54" width="'+Math.max(2,x2-x1)+'" height="32" fill="#8FD1A8" opacity=".35"/>';
+ s+='<circle cx="'+X(0)+'" cy="70" r="9" fill="#E3B341"/>';
+ C.P.forEach(function(p,k){var cx=X(p[1]);s+='<circle cx="'+cx+'" cy="70" r="5" fill="'+(k==1?'#7FB2E5':'#E9EDF3')+'"/><text x="'+cx+'" y="'+(k==1?30:48)+'" fill="#E9EDF3" font-size="16" text-anchor="middle">'+p[0]+'</text>'});
+ $('map').innerHTML=s}
+function show(l){var tbb=C.TBB*Math.pow(l,0.25),tg=C.TAVG+(tbb-C.TBB),i=C.HI*Math.sqrt(l),o=C.HO*Math.sqrt(l);
+ $('lv').textContent='今の'+(Math.abs(l-1)<0.005?'1':l.toFixed(2))+'倍';$('lr').textContent=Math.abs(l-1)<0.005?'（今の太陽）':'';
+ $('sF').textContent=Math.abs(l-1)<0.005?'今と同じ':'今の'+l.toFixed(2)+'倍';$('sT').textContent='約'+c2(tbb);$('sG').textContent='約'+c2(tg);
+ $('sH').textContent=i.toFixed(2)+'〜'+o.toFixed(2)+' 天文単位';
+ $('sP').textContent=C.P.map(function(p){return p[0]+': '+where(p[1],i,o)}).join(' ／ ');draw(i,o);
+ var m;if(l>=0.65&&l<0.85)m='このくらい暗い太陽は、生まれたころの太陽に近い明るさです（地球に届く光は約25%少なかったと考えられています）。ほかの条件が今と同じなら地球は凍っていたはずですが、38億〜25億年前にも液体の水や生き物がいた証拠があります。温室効果ガスが多かったなどの説があり、まだ決着していません（暗い太陽のパラドックス）<a class="ref" href="#src-3">[3]</a>。';
+ else if(1<i)m='この明るさでは、地球は住める範囲から、太陽に近すぎる側に外れます。雲を入れない控えめな計算では、海の水が空へ逃げ始める条件です。太陽は今も少しずつ明るくなっていて、約10億年後には地球が生き物の住めない暑さになると見積もられています<a class="ref" href="#src-4">[4]</a>。雲の効果などで、実際の限界はずれる可能性があります。';
+ else if(o<1)m='この明るさでは、地球は住める範囲の外側に出ます。二酸化炭素の温室効果をいちばん強くしても、海が凍らずにいられない計算です。';
+ else m=Math.abs(l-1)<0.005?'地球は住める範囲の中です。今の地球（1天文単位）は、内側の端（0.99天文単位）のすぐそばにいます。':'地球は住める範囲の中です。ただしこの範囲は、二酸化炭素などの温室効果が必要なだけ強まるとした計算です。温室効果が今のままなら、上の「地面の目安」のように'+(l<1?'寒く':'暑く')+'なります。';
+ $('msg').innerHTML=m;sl.setAttribute('aria-valuetext','今の'+l.toFixed(2)+'倍の明るさ、地球は'+where(1,i,o))}
+sl.oninput=function(){show(lOf(+sl.value))};
+[].forEach.call(document.querySelectorAll('.pre button'),function(b){b.onclick=function(){var l=+b.getAttribute('data-l');sl.value=pOf(l);show(l)}});
+sl.value=pOf(1);show(1);
+})();
+</script>
+</body>
+</html>

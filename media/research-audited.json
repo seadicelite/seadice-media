@@ -1,0 +1,426 @@
+[
+  {
+    "slug": "noise-cancelling-focus-research",
+    "date": "2026-10-08"
+  },
+  {
+    "slug": "positive-thinking-backfire-research",
+    "date": "2026-10-05"
+  },
+  {
+    "slug": "solitude-affective-restoration",
+    "date": "2026-10-06"
+  },
+  {
+    "slug": "deadline-time-pressure-focus-research",
+    "date": "2026-10-06"
+  },
+  {
+    "slug": "fresh-start-effect-habit-timing-research",
+    "date": "2026-10-07"
+  },
+  {
+    "slug": "post-lunch-sleepiness-research",
+    "date": "2026-10-07"
+  },
+  {
+    "slug": "bedtime-stretching-sleep-quality-research",
+    "date": "2026-10-08"
+  },
+  {
+    "slug": "all-or-nothing-diet-slip-research",
+    "date": "2026-10-10"
+  },
+  {
+    "slug": "sensory-overload-self-care-research",
+    "date": "2026-10-10"
+  },
+  {
+    "slug": "urge-surfing-craving-wave-research",
+    "date": "2026-10-10"
+  },
+  {
+    "slug": "habit-replacement-competing-response-research",
+    "date": "2026-10-11"
+  },
+  {
+    "slug": "distance-temptation-self-control-research",
+    "date": "2026-10-11"
+  },
+  {
+    "slug": "habit-break-days-research",
+    "date": "2026-10-12"
+  },
+  {
+    "slug": "why-we-forget-forgetting-curve-research",
+    "date": "2026-10-14"
+  },
+  {
+    "slug": "procrastination-self-forgiveness-recovery-research",
+    "date": "2026-10-14"
+  },
+  {
+    "slug": "interrupted-work-refocus-research",
+    "date": "2026-10-14"
+  },
+  {
+    "slug": "wrong-answer-review-memory-research",
+    "date": "2026-10-15"
+  },
+  {
+    "slug": "sleep-timing-after-learning-memory-research",
+    "date": "2026-10-15"
+  },
+  {
+    "slug": "habit-same-place-context-research",
+    "date": "2026-10-15"
+  },
+  {
+    "slug": "music-cortisol-stress-research",
+    "date": "2026-10-17"
+  },
+  {
+    "slug": "room-temperature-concentration-research",
+    "date": "2026-10-17"
+  },
+  {
+    "slug": "venting-to-friends-corumination-research",
+    "date": "2026-10-17"
+  },
+  {
+    "slug": "affect-labeling-name-your-feelings-research",
+    "date": "2026-10-18"
+  },
+  {
+    "slug": "behavioral-activation-low-mood-steps-research",
+    "date": "2026-10-18"
+  },
+  {
+    "slug": "break-task-small-steps-procrastination-research",
+    "date": "2026-10-18"
+  },
+  {
+    "slug": "phone-break-focus-not-recovering-research",
+    "date": "2026-10-19"
+  },
+  {
+    "slug": "rest-not-recovering-stress-research",
+    "date": "2026-10-19"
+  },
+  {
+    "slug": "exercise-before-study-focus-research",
+    "date": "2026-10-19"
+  },
+  {
+    "slug": "exam-mind-blank-test-anxiety-recovery-research",
+    "date": "2026-10-20"
+  },
+  {
+    "slug": "exercise-habit-lapse-restart-research",
+    "date": "2026-10-20"
+  },
+  {
+    "slug": "group-work-procrastination-research",
+    "date": "2026-10-20"
+  },
+  {
+    "slug": "task-time-estimate-planning-fallacy-research",
+    "date": "2026-10-21"
+  },
+  {
+    "slug": "pretesting-before-study-memory-research",
+    "date": "2026-10-21"
+  },
+  {
+    "slug": "habit-forgetting-reminder-cue-research",
+    "date": "2026-10-21"
+  },
+  {
+    "slug": "read-but-cant-remember-illusion-why-research",
+    "date": "2026-10-22"
+  },
+  {
+    "slug": "new-habit-three-day-quit-why-research",
+    "date": "2026-10-22"
+  },
+  {
+    "slug": "negative-events-memory-why-research",
+    "date": "2026-10-22"
+  },
+  {
+    "slug": "mind-wandering-why-research",
+    "date": "2026-10-24"
+  },
+  {
+    "slug": "trying-hard-to-sleep-awake-research",
+    "date": "2026-10-24"
+  },
+  {
+    "slug": "interleaved-practice-mixed-study-research",
+    "date": "2026-10-24"
+  },
+  {
+    "slug": "procrastination-self-help-not-working-research",
+    "date": "2026-10-25"
+  },
+  {
+    "slug": "sleep-deprived-next-day-focus-research",
+    "date": "2026-10-25"
+  },
+  {
+    "slug": "tip-of-the-tongue-recall-research",
+    "date": "2026-10-25"
+  },
+  {
+    "slug": "stop-ruminating-after-bad-day-research",
+    "date": "2026-10-26"
+  },
+  {
+    "slug": "why-habits-run-on-autopilot-research",
+    "date": "2026-10-26"
+  },
+  {
+    "slug": "teaching-effect-memory-research",
+    "date": "2026-10-26"
+  },
+  {
+    "slug": "background-talk-distraction-why-research",
+    "date": "2026-10-28"
+  },
+  {
+    "slug": "doorway-forgetting-why-research",
+    "date": "2026-10-28"
+  },
+  {
+    "slug": "exam-score-low-after-studying-review-strategy-research",
+    "date": "2026-10-28"
+  },
+  {
+    "slug": "far-deadline-procrastination-why-research",
+    "date": "2026-10-29"
+  },
+  {
+    "slug": "first-night-effect-sleep-why-research",
+    "date": "2026-10-29"
+  },
+  {
+    "slug": "focus-fades-over-time-why-research",
+    "date": "2026-10-29"
+  },
+  {
+    "slug": "hangry-hunger-irritability-why-research",
+    "date": "2026-10-30"
+  },
+  {
+    "slug": "hard-work-time-of-day-chronotype-research",
+    "date": "2026-10-30"
+  },
+  {
+    "slug": "stressful-period-procrastination-recovery-research",
+    "date": "2026-10-30"
+  },
+  {
+    "slug": "hsp-highly-sensitive-person-research",
+    "date": "2026-10-31"
+  },
+  {
+    "slug": "nature-break-focus-recovery-research",
+    "date": "2026-10-31"
+  },
+  {
+    "slug": "keyword-mnemonic-vocabulary-how-research",
+    "date": "2026-10-31"
+  },
+  {
+    "slug": "relaxation-meditation-anxiety-backfire-research",
+    "date": "2026-11-01"
+  },
+  {
+    "slug": "start-time-plan-procrastination-research",
+    "date": "2026-11-01"
+  },
+  {
+    "slug": "habit-goal-lower-after-missed-days-research",
+    "date": "2026-11-01"
+  },
+  {
+    "slug": "nervous-before-performance-say-excited-research",
+    "date": "2026-11-02"
+  },
+  {
+    "slug": "night-awake-get-out-of-bed-stimulus-control-research",
+    "date": "2026-11-02"
+  },
+  {
+    "slug": "small-rewards-habit-research",
+    "date": "2026-11-02"
+  },
+  {
+    "slug": "habit-breaks-after-change-why-research",
+    "date": "2026-11-03"
+  },
+  {
+    "slug": "night-waking-why-research",
+    "date": "2026-11-03"
+  },
+  {
+    "slug": "procrastination-if-only-reflection-research",
+    "date": "2026-11-03"
+  },
+  {
+    "slug": "work-better-under-pressure-procrastination-research",
+    "date": "2026-11-04"
+  },
+  {
+    "slug": "sunday-night-blues-why-research",
+    "date": "2026-11-04"
+  },
+  {
+    "slug": "commitment-contract-money-habit-research",
+    "date": "2026-11-04"
+  },
+  {
+    "slug": "pomodoro-technique-procrastination-research",
+    "date": "2026-11-05"
+  },
+  {
+    "slug": "quick-chores-first-precrastination-why-research",
+    "date": "2026-11-05"
+  },
+  {
+    "slug": "stress-tired-old-habits-why-research",
+    "date": "2026-11-05"
+  },
+  {
+    "slug": "worry-cant-concentrate-why-research",
+    "date": "2026-11-06"
+  },
+  {
+    "slug": "early-bedtime-cant-sleep-forbidden-zone-why-research",
+    "date": "2026-11-06"
+  },
+  {
+    "slug": "rainy-day-low-mood-weather-why-research",
+    "date": "2026-11-06"
+  },
+  {
+    "slug": "self-explanation-own-words-memory-why-research",
+    "date": "2026-11-08"
+  },
+  {
+    "slug": "coffee-caffeine-focus-amount-timing-research",
+    "date": "2026-11-08"
+  },
+  {
+    "slug": "best-possible-self-writing-mood-research",
+    "date": "2026-11-08"
+  },
+  {
+    "slug": "all-nighter-study-forgot-recovery-research",
+    "date": "2026-11-09"
+  },
+  {
+    "slug": "bad-night-sleep-next-night-recovery-research",
+    "date": "2026-11-09"
+  },
+  {
+    "slug": "embarrassing-mistake-spotlight-effect-recovery-research",
+    "date": "2026-11-09"
+  },
+  {
+    "slug": "mind-map-memory-how-to-use-research",
+    "date": "2026-11-10"
+  },
+  {
+    "slug": "habit-no-results-yet-want-to-quit-research",
+    "date": "2026-11-10"
+  },
+  {
+    "slug": "morning-grogginess-sleep-inertia-focus-recovery-research",
+    "date": "2026-11-10"
+  },
+  {
+    "slug": "missed-deadline-ask-extension-apology-research",
+    "date": "2026-11-11"
+  },
+  {
+    "slug": "future-self-procrastination-how-research",
+    "date": "2026-11-11"
+  },
+  {
+    "slug": "morning-habit-time-of-day-research",
+    "date": "2026-11-11"
+  },
+  {
+    "slug": "self-imposed-deadline-procrastination-research",
+    "date": "2026-11-12"
+  },
+  {
+    "slug": "similar-words-mix-up-interference-why-research",
+    "date": "2026-11-12"
+  },
+  {
+    "slug": "suppressing-urges-rebound-why-research",
+    "date": "2026-11-12"
+  },
+  {
+    "slug": "anger-calm-down-self-distancing-research",
+    "date": "2026-11-13"
+  },
+  {
+    "slug": "boring-task-purpose-procrastination-research",
+    "date": "2026-11-13"
+  },
+  {
+    "slug": "bright-light-daytime-focus-sleepiness-research",
+    "date": "2026-11-13"
+  },
+  {
+    "slug": "dark-bedroom-light-during-sleep-research",
+    "date": "2026-11-14"
+  },
+  {
+    "slug": "flashcards-how-to-use-research",
+    "date": "2026-11-14"
+  },
+  {
+    "slug": "forgotten-words-relearning-savings-research",
+    "date": "2026-11-14"
+  },
+  {
+    "slug": "online-meeting-fatigue-why-research",
+    "date": "2026-11-15"
+  },
+  {
+    "slug": "hot-night-cant-sleep-why-research",
+    "date": "2026-11-15"
+  },
+  {
+    "slug": "names-hard-to-remember-why-research",
+    "date": "2026-11-15"
+  },
+  {
+    "slug": "habit-streak-broken-restart-research",
+    "date": "2026-11-16"
+  },
+  {
+    "slug": "jet-lag-recovery-light-timing-research",
+    "date": "2026-11-16"
+  },
+  {
+    "slug": "positive-thinking-felt-worse-acceptance-research",
+    "date": "2026-11-16"
+  },
+  {
+    "slug": "reply-procrastination-reach-out-awkward-research",
+    "date": "2026-11-17"
+  },
+  {
+    "slug": "sns-wasted-day-next-day-focus-research",
+    "date": "2026-11-17"
+  },
+  {
+    "slug": "bedtime-racing-thoughts-imagery-shuffle-how-research",
+    "date": "2026-11-17"
+  }
+]

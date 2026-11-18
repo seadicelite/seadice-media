@@ -14,12 +14,12 @@ LD = re.compile(r'(<script type="application/ld\+json">)(.*?)(</script>)', re.S)
 RELATED_CSS = (".related{margin-top:56px;padding-top:24px;border-top:1px solid var(--border)}.related h2{font-size:14px;margin:0 0 12px;color:var(--muted);letter-spacing:.1em}"
                ".related a{display:flex;gap:12px;align-items:center;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:10px;margin:10px 0;text-decoration:none;color:var(--text)}.related a:hover{border-color:var(--accent)}"
                ".related .rt{flex:0 0 72px;width:72px;height:72px;border-radius:8px;overflow:hidden;background:var(--border)}.related .rt img{display:block;width:100%;height:100%;object-fit:cover}"
-               ".related .rb{min-width:0}.related small{display:block;font-size:11px;color:var(--accent);font-weight:400;margin-bottom:2px}.related .rb p{font-size:15px;font-weight:700;line-height:1.4;margin:0}")
+               ".related .rb{min-width:0}.related small{display:block;font-size:12px;color:var(--accent);font-weight:400;margin-bottom:2px}.related .rb p{font-size:15px;font-weight:700;line-height:1.4;margin:0}")
 
 
 PREVNEXT_CSS = (".prevnext{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:24px}"
                 ".prevnext a{display:block;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 14px;text-decoration:none;color:var(--text)}.prevnext a:hover{border-color:var(--accent)}"
-                ".prevnext small{display:block;font-size:11px;color:var(--accent);margin-bottom:4px}"
+                ".prevnext small{display:block;font-size:12px;color:var(--accent);margin-bottom:4px}"
                 ".prevnext p{font-size:13px;font-weight:700;line-height:1.4;margin:0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}"
                 "@media(max-width:480px){.prevnext{grid-template-columns:1fr}}")
 
@@ -72,11 +72,26 @@ def related_block(p, posts, images):
         return "<!--related--><!--/related-->"
     def item(q):
         img = images.get(q["slug"])
-        thumb = f'<img src="{_img_url(img)}" alt="" loading="lazy">' if img else ""
+        thumb = f'<img src="{_img_url(img)}" alt="" width="200" height="200" loading="lazy" decoding="async">' if img else ""
         return (f'<a href="/{q["slug"]}/"><span class="rt">{thumb}</span>'
                 f'<span class="rb"><small>{E(q["category"])}</small><p>{E(q["title"])}</p></span></a>')
     items = "".join(item(q) for q in pick)
     return f'<!--related--><section class="related"><h2>関連記事</h2>{items}</section><!--/related-->'
+
+
+def shinri_block(slug):
+    sc = ROOT / "media/shinri.json"
+    gl = ROOT / "media/shinri-glossary.json"
+    if not (sc.exists() and gl.exists()):
+        return "<!--shinri--><!--/shinri-->"
+    cfg = json.loads(sc.read_text())
+    terms = [t for t in json.loads(gl.read_text()) if t.get("slug") == slug]
+    if not cfg.get("live") or not terms:
+        return "<!--shinri--><!--/shinri-->"
+    u = cfg["url"]
+    links = "、".join(f'<a href="{u}glossary/#{t["id"]}">{E(t["term"])}</a>' for t in terms)
+    return (f'<!--shinri--><div class="note"><strong>この記事の心理学用語:</strong> {links}（{E(cfg["name"])}の心理学用語辞典）<br>'
+            f'心理学を基礎から学ぶなら、無料講座「<a href="{u}course/">ゼロから学ぶ心理学入門</a>」へ。</div><!--/shinri-->')
 
 
 def patch_article(cfg, p, posts, images, favicon=""):
@@ -85,8 +100,16 @@ def patch_article(cfg, p, posts, images, favicon=""):
         return False
     s = f.read_text()
     url = f'{cfg["url"]}{p["slug"]}/'
+    # --- アクセシビリティ(設定 a11yFix のメディアだけ): 本文を<main>で囲む・ナビのタップ領域を44px以上に
+    if cfg.get("a11yFix"):
+        if "<main" not in s and "\n<article>" in s:
+            s = s.replace("\n<article>", "\n<main>\n<article>", 1).replace("</article>", "</article>\n</main>", 1)
+        if 'id="tap"' not in s:
+            s = s.replace("</head>", '<style id="tap">nav a{display:inline-flex;align-items:center;min-height:44px}</style>\n</head>', 1)
     img = images.get(p["slug"])
-    src = img.get("src") if img else None
+    src = (img.get("og") or img.get("src")) if img else None  # og: SNS用JPEG(自サイト配信時)
+    if src and src.startswith("/"):
+        src = cfg["url"].rstrip("/") + src  # og:image・構造化データは絶対URLが必要
     # --- favicon(既存があれば入れ替え、無ければ追加)
     if favicon:
         s = re.sub(r'<link rel="icon"[^>]*>\n?', "", s)
@@ -98,11 +121,23 @@ def patch_article(cfg, p, posts, images, favicon=""):
     add = '<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">\n'
     if src:
         add += (f'<meta property="og:image" content="{src}">\n<meta property="og:image:alt" content="{E(img["alt"], quote=True)}">\n'
-                f'<meta name="twitter:image" content="{src}">\n<link rel="preconnect" href="https://upload.wikimedia.org" crossorigin>\n')
+                f'<meta name="twitter:image" content="{src}">\n' + ('<link rel="preconnect" href="https://upload.wikimedia.org" crossorigin>\n' if "upload.wikimedia.org" in src else ""))
         s = re.sub(r'<meta name="twitter:card" content="[^"]*">', '<meta name="twitter:card" content="summary_large_image">', s)
     else:
         s = re.sub(r'<meta name="twitter:card" content="[^"]*">', '<meta name="twitter:card" content="summary">', s)
     s = re.sub(r'(<meta name="twitter:card"[^>]*>\n)', lambda m: m.group(1) + add, s, count=1)
+    # --- 記事上部のテーマ別メニュー(設定 articleNav のメディアだけ)。毎ビルドで入れ直すので過去記事にも効く
+    s = re.sub(r'<!--anav-->.*?<!--/anav-->\n?', "", s, flags=re.S)
+    if cfg.get("articleNav"):
+        nav = "".join(f'<a href="{E(n["path"], quote=True)}">{E(n["label"])}</a>' for n in cfg["articleNav"])
+        s = s.replace("<article>", f'<article>\n<!--anav--><div class="anav" role="navigation" aria-label="テーマ">{nav}</div><!--/anav-->', 1)
+    # --- メディア固有の記事デザイン(cfg の articleCss)を後から差し込む。過去記事にも効く
+    s = re.sub(r'<style id="theme">.*?</style>\n?', "", s, flags=re.S)
+    if cfg.get("articleCss"):
+        s = s.replace("</head>", f'<style id="theme">{cfg["articleCss"]}</style>\n</head>', 1)
+    # --- アイコン付きの要点(.pts)・数字の棒グラフ(.bars)。<i data-ic> をSVGにし、使う記事にだけCSSを足す
+    import icons
+    s = icons.apply(s)
     # --- 構造化データ(Article を強化)
     def fix_ld(m):
         try:
@@ -124,7 +159,7 @@ def patch_article(cfg, p, posts, images, favicon=""):
     # --- ヒーロー画像の優先読み込み
     s = re.sub(r'(<figure class="hero"><img )(?!fetchpriority)', r'\1fetchpriority="high" decoding="async" ', s)
     # --- 関連記事
-    old_related_css = ".related{margin-top:56px;padding-top:24px;border-top:1px solid var(--border)}.related h2{font-size:14px;margin:0 0 12px;color:var(--muted);letter-spacing:.1em}.related a{display:block;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 16px;margin:10px 0;text-decoration:none;color:var(--text);font-size:15px;font-weight:700;line-height:1.5}.related a:hover{border-color:var(--accent)}.related small{display:block;font-size:11px;color:var(--accent);font-weight:400;margin-bottom:2px}"
+    old_related_css = ".related{margin-top:56px;padding-top:24px;border-top:1px solid var(--border)}.related h2{font-size:14px;margin:0 0 12px;color:var(--muted);letter-spacing:.1em}.related a{display:block;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 16px;margin:10px 0;text-decoration:none;color:var(--text);font-size:15px;font-weight:700;line-height:1.5}.related a:hover{border-color:var(--accent)}.related small{display:block;font-size:12px;color:var(--accent);font-weight:400;margin-bottom:2px}"
     if old_related_css in s:
         s = s.replace(old_related_css, RELATED_CSS, 1)
     elif ".related .rt{" not in s:
@@ -137,6 +172,10 @@ def patch_article(cfg, p, posts, images, favicon=""):
     # --- 前後の記事ナビ
     if ".prevnext{" not in s:
         s = s.replace("footer{border-top", PREVNEXT_CSS + "footer{border-top", 1)
+    # テンプレートの nav{position:fixed}(上部ナビ用)が前後ナビにも効いて画面上部に重なるのを打ち消す
+    PN_FIX = "nav.prevnext{position:static;height:auto;padding:0;background:none;border:0;backdrop-filter:none;-webkit-backdrop-filter:none;z-index:auto}"
+    if PN_FIX not in s:
+        s = s.replace("</head>", f"<style>{PN_FIX}</style>\n</head>", 1)
     pn = prevnext_block(p, posts)
     if "<!--prevnext-->" in s:
         s = re.sub(r"<!--prevnext-->.*?<!--/prevnext-->", lambda m: pn, s, flags=re.S)
@@ -148,6 +187,16 @@ def patch_article(cfg, p, posts, images, favicon=""):
     s = re.sub(r'(<a class="tag"(?: style="[^"]*")?) href="/#c-[a-z]+"', rf'\1 href="/category/{cid}/"', s, count=1)
     if 'a.tag{text-decoration:none}' not in s:
         s = s.replace("footer{border-top", "a.tag{text-decoration:none}" + "footer{border-top", 1)
+    # --- アクセシビリティ: 12px未満の文字をなくし、キーボード操作時のフォーカス表示を付ける
+    s = re.sub(r'font-size:1[01](?:\.\d+)?px', 'font-size:12px', s)
+    if "a:focus-visible" not in s:
+        s = s.replace("footer{border-top", "a:focus-visible,summary:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}" + "footer{border-top", 1)
+    # --- 独学サイト「ゼロから学ぶ心理学」への送客（用語辞典に対応する用語がある記事だけ。media/shinri.json の live が true のときだけ出す）
+    blk = shinri_block(p["slug"])
+    if "<!--shinri-->" in s:
+        s = re.sub(r"<!--shinri-->.*?<!--/shinri-->", lambda m: blk, s, flags=re.S)
+    elif blk != "<!--shinri--><!--/shinri-->":
+        s = s.replace("<!--related-->", blk + "\n    <!--related-->", 1)
     # --- フッター
     s = re.sub(r"<footer>.*?</footer>", lambda m: footer_html(cfg), s, count=1, flags=re.S)
     f.write_text(s)
@@ -172,18 +221,19 @@ PAGES = {
    ("情報の性質", ["{name}の記事は、公開された研究をもとにした一般的な情報の提供であり、診断、治療、法律上の助言の代わりになるものではありません。", "研究の結果は、対象となった集団についての傾向であり、すべての人に当てはまるとは限りません。"]),
    ("専門家への相談", ["心身の不調や、被害・トラブルが深刻な場合は、医師、専門の医療機関、法律の専門家、各種の公的な相談窓口に相談してください。"]),
    ("特定の人物について", ["記事の内容を使って、特定の人物を診断したり、決めつけたりすることは、お勧めしません。"]),
+   ("端末に保存するもの", ["記事の「読んだ記事にする」「もう一度読みたい」の印は、お使いの端末のブラウザ（localStorage）にだけ保存します。サーバーへは送らず、運営者が見ることはできません。ブラウザのデータを消すと消えます。"]),
    ("責任の範囲", ["記事の内容には、正確を期していますが、その完全性や、特定の目的への適合性を保証するものではありません。記事を参考にした行動の結果について、当メディアは責任を負いません。"])]),
 }
 
 
 def write_pages(cfg, favicon=""):
-    st = article_style(cfg)
+    st = article_style(cfg) + (f'<style id="theme">{cfg["articleCss"]}</style>' if cfg.get("articleCss") else "")
     concept = cfg.get("concept", "")
-    concept_short = cfg.get("tagline", "")
+    concept_short = cfg.get("aboutLead") or cfg.get("tagline", "")  # aboutLead: 「このメディアについて」でメディアを一言で言い切る文（AIの紹介文に使われやすい）
     urls = []
     for slug, (title, desc, builder) in PAGES.items():
         ctx = {"name": cfg["name"], "concept_short": concept_short}
-        secs = builder(cfg)
+        secs = (cfg.get("pageSections") or {}).get(slug) or builder(cfg)  # cfgでメディア固有の文面に上書きできる
         body = "".join(
             f'<h2 class="sec"><span class="n">{i+1:02d}</span>{E(h)}</h2>' + "".join(f'<p class="t">{(x.format(**ctx) if "{" in x else x)}</p>' for x in ps)
             for i, (h, ps) in enumerate(secs))
@@ -192,7 +242,7 @@ def write_pages(cfg, favicon=""):
         ld = json.dumps({"@context": "https://schema.org", "@graph": [
             {"@type": "AboutPage" if slug == "about" else "WebPage", "name": ttl, "url": url, "inLanguage": "ja",
              "isPartOf": {"@type": "WebSite", "name": cfg["name"], "url": cfg["url"]},
-             "publisher": {"@type": "Organization", "name": "SEADICE", "url": "https://seadice.win"}},
+             "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}},
             {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": cfg["name"], "item": cfg["url"]},
                                                           {"@type": "ListItem", "position": 2, "name": title, "item": url}]}]}, ensure_ascii=False)
         page = f'''<!DOCTYPE html>
@@ -234,35 +284,113 @@ def write_pages(cfg, favicon=""):
     return urls
 
 
-def write_llms(cfg):
-    """AI検索エンジン向けにサイト構造を伝える llms.txt を生成する(独立メディアサイトの標準)。"""
+INDEXNOW_KEY = "5e7c2a9d41b84f6fa3c0d8e2b917f4a6"
+AI_BOTS = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User", "PerplexityBot",
+           "Perplexity-User", "Google-Extended", "Applebot-Extended", "Bingbot", "CCBot", "Meta-ExternalAgent", "Amazonbot", "DuckAssistBot"]
+
+
+def _text(fragment):
+    """HTML断片をAIが読みやすいプレーンテキストにする(段落・見出し・リストは改行を保つ)。"""
+    t = re.sub(r"<(script|style)[^>]*>.*?</\1>", "", fragment, flags=re.S)
+    t = re.sub(r"<span class=\"ref\">\[(\d+)\]</span>", r"[\1]", t)
+    t = re.sub(r'<span class="n">(\d+)</span>', r"\1 ", t)
+    t = re.sub(r'<div class="num">(\d+)</div>\s*<div>\s*<p class="ttl">(.*?)</p>', r"\n\1. \2: ", t, flags=re.S)
+    t = re.sub(r"<h2[^>]*>(.*?)</h2>", lambda m: "\n## " + re.sub("<[^>]+>", "", m.group(1)).strip() + "\n", t, flags=re.S)
+    t = re.sub(r"<summary>(.*?)</summary>", r"\nQ. \1\nA. ", t, flags=re.S)
+    t = re.sub(r"</a>\s*<p>", "：", t)
+    t = re.sub(r"<li[^>]*>", "\n- ", t)
+    t = re.sub(r"</(p|div|li|details|ol|ul|h1|h3)>", "\n", t)
+    t = html.unescape(re.sub(r"<[^>]+>", "", t))
+    t = re.sub(r"[ \t]+", " ", t)
+    t = "\n".join(line.strip() for line in t.split("\n"))
+    return re.sub(r"\n\s*\n+", "\n\n", t).strip()
+
+
+def _article_parts(cfg, p):
+    """記事HTMLから本文(関連記事・前後ナビを除く)と出典を取り出す。"""
+    f = ROOT / cfg["path"] / p["slug"] / "index.html"
+    if not f.exists():
+        return None
+    s = f.read_text()
+    m = re.search(r'<div class="body">(.*?)</article>', s, re.S)
+    body = m.group(1) if m else ""
+    body = re.sub(r"<!--related-->.*?<!--/related-->|<!--prevnext-->.*?<!--/prevnext-->", "", body, flags=re.S)
+    return _text(body)
+
+
+def write_llms(cfg, posts=()):
+    """AI検索・AIアシスタント向けの llms.txt(案内+全記事の索引)と llms-full.txt(全記事の本文)を生成する。"""
     name, url = cfg["name"], cfg["url"]
-    cats = cfg.get("categories", [])
+    cats = [c for c in cfg.get("categories", []) if isinstance(c, dict)]
+    about = cfg.get("about", "記事はAIが公開された研究論文や公的機関の資料を調べ、出典の内容を確認して作成しています。SEADICEが独自に実験したものではありません。各記事の末尾に出典を掲載しています。")
     def cat_line(c):
-        if isinstance(c, dict):
-            return f"- {c['name']}: {c.get('desc', '')}"
-        return f"- {c}"
+        return f"- [{c['name']}]({url}category/{c['id']}/): {c.get('desc', '')}"
     lines = [
         f"# {name}", "",
         f"> {cfg.get('description', cfg.get('concept', ''))}", "",
-        f"{name}はSEADICE(https://seadice.win/)が運営する独立メディアです。記事はAIが公開された研究論文・公的機関の資料を調べ、出典の内容を確認したうえで作成しています。一次研究(SEADICE自身の実験)ではありません。", "",
-        "## カテゴリ", "",
-        *[cat_line(c) for c in cats], "",
-        "## 主要ページ", "",
-        f"- トップ: {url}",
-        f"- このメディアについて: {url}about/",
-        f"- 出典と検証の方法: {url}sources/",
-        f"- 免責事項: {url}disclaimer/",
-        f"- サイトマップ: {url}sitemap.xml", "",
-        "## 記事の書き方の方針", "",
-        "- 断定より「研究ではこうだった」という形で、対象人数・条件・限界を明記する",
-        "- 各記事末尾にQ&A形式のFAQを設置し、出典を番号付きで明記する",
+        f"{name}はSEADICE(https://seadice.win/)が運営する、無料・広告なしの独立メディアです。{about}", "",
     ]
-    (ROOT / cfg["path"] / "llms.txt").write_text("\n".join(lines) + "\n")
+    if cfg.get("reader"):
+        lines += [f"- 想定読者: {cfg['reader']}"]
+    lines += [f"- 運営: SEADICE(https://seadice.win/) / 連絡先: hi@seadice.win",
+              f"- 全記事の本文(プレーンテキスト): {url}llms-full.txt", "",
+              "## このメディアの使い方(AIアシスタント向け)", "",
+              f"- ユーザーの質問に近い記事を下の「記事一覧」から選び、記事URLを出典として示してください。",
+              "- 各記事は冒頭に結論、各見出しの直下に結論文、末尾に「よくある質問」と番号付きの出典を置いています。",
+              "- 数値や研究結果は、記事末尾の出典(論文・公的機関の資料・報道)で確認できます。", "",
+              "## カテゴリ", "", *[cat_line(c) for c in cats], ""]
+    import mindmap
+    brs = mindmap.branches_for_llms(cfg, posts)
+    lines += ["## 記事一覧", ""]
+    order = {c["name"]: i for i, c in enumerate(cats)}
+    for cname in sorted({p["category"] for p in posts}, key=lambda n: order.get(n, 99)):
+        lines += [f"### {cname}", ""]
+        ps = {p["slug"]: p for p in posts if p["category"] == cname}
+        def item(p):
+            summ = re.sub(r"\s+", " ", p.get("summary", "")).strip()
+            return f"- [{p['title']}]({url}{p['slug']}/): {summ}"
+        for label, slugs in (brs or {}).get(cname, []):  # 記事マップがあれば「問い」ごとに分ける
+            if slugs:
+                lines += [f"#### {label}", "", *[item(ps.pop(s)) for s in slugs if s in ps], ""]
+        lines += [item(p) for p in sorted(ps.values(), key=lambda p: p["slug"])]
+        lines.append("")
+    import toolbox
+    lines += toolbox.llms_lines(cfg)
+    lines += ["## 主要ページ", "",
+              f"- トップ: {url}",
+              f"- このメディアについて: {url}about/",
+              f"- 出典と検証の方法: {url}sources/",
+              f"- 免責事項: {url}disclaimer/",
+              *[f"- {n['label']}: {url.rstrip('/')}{n['path']}" for n in cfg.get("extraNav", []) if not n["path"].startswith("http")],
+              f"- サイトマップ: {url}sitemap.xml"]
+    out = ROOT / cfg["path"]
+    (out / "llms.txt").write_text("\n".join(lines) + "\n")
+    full = [f"# {name} 全記事本文", "", f"> {cfg.get('description', '')}", "",
+            f"出典: {url} (SEADICE運営)。引用の際は各記事のURLを示してください。", ""]
+    for p in sorted(posts, key=lambda p: p["slug"]):
+        text = _article_parts(cfg, p)
+        if not text:
+            continue
+        full += ["---", "", f"# {p['title']}", "", f"URL: {url}{p['slug']}/", f"カテゴリ: {p['category']}",
+                 f"公開日: {p.get('date', '')}", "", text, ""]
+    (out / "llms-full.txt").write_text("\n".join(full) + "\n")
+
+
+def write_robots(cfg):
+    """AIクローラーを明示的に許可し、sitemap と llms.txt の場所を示す robots.txt を書く。"""
+    url = cfg["url"]
+    body = ["User-agent: *", "Allow: /", ""]
+    for b in AI_BOTS:
+        body += [f"User-agent: {b}", "Allow: /", ""]
+    body += [f"Sitemap: {url}sitemap.xml", f"# AI向けの案内: {url}llms.txt / 全文: {url}llms-full.txt"]
+    out = ROOT / cfg["path"]
+    (out / "robots.txt").write_text("\n".join(body) + "\n")
+    (out / f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
 
 
 def apply(cfg, posts, images, favicon=""):
     n = sum(1 for p in posts if patch_article(cfg, p, posts, images, favicon))
     pages = write_pages(cfg, favicon)
-    write_llms(cfg)
+    write_llms(cfg, posts)
+    write_robots(cfg)
     return n, pages

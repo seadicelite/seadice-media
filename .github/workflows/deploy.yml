@@ -11,11 +11,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Rebuild index pages (daily rotation)
-        run: for s in research umbra ledger kogei tetsugaku; do python3 media/build.py "$s"; done
+        run: python3 media/hayami_tools.py kokoro kosodate oya; python3 media/ledger_tools_hub.py; python3 media/ledger_calcs.py; for s in research umbra ledger kogei tetsugaku bohan kosodate kokoro tantei hanzai dokugaku oya ai senbei uchu choco shinka neuro; do python3 media/build.py "$s"; done; python3 media/shinri_pages.py; python3 media/study.py --all
+      # push では変更があったサイトだけを出す。全サイトに毎回版が増えると Hosting の容量上限（429）に当たる（2026-10-09に3回停止）
+      - name: Decide which sites to deploy
+        id: sites
+        run: python3 media/deploy_targets.py "${{ github.event_name }}" "${{ github.event.before }}" "${{ github.sha }}" >> "$GITHUB_OUTPUT"
       - uses: FirebaseExtended/action-hosting-deploy@v0
+        if: ${{ steps.sites.outputs.skip != 'true' }}
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_SEADICEWEB }}
           channelId: live
           projectId: seadiceweb
+          target: ${{ steps.sites.outputs.target }}
+      # 保持数を5にしても古い版はすぐには消えないので、デプロイのたびに消す（失敗した回も、次が通るように消す）
+      - name: Prune old Hosting versions
+        if: always()
+        continue-on-error: true
+        env:
+          SA_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_SEADICEWEB }}
+        run: |
+          printf '%s' "$SA_JSON" > "$RUNNER_TEMP/sa.json"
+          pip install -q google-auth requests
+          GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/sa.json" python3 media/prune_hosting.py
+      - name: Notify IndexNow (Bing etc.) of updated articles
+        if: github.event_name == 'push'
+        run: python3 media/indexnow.py $(git diff --name-only HEAD~1 HEAD) || true

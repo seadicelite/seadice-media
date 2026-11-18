@@ -1,0 +1,120 @@
+{
+ "bedtime-screen-sleep": [
+  [
+   "kokoro",
+   "bedtime-phone-sleep"
+  ],
+  [
+   "kokoro",
+   "revenge-bedtime-procrastination"
+  ]
+ ],
+ "kids-screen-time-hours": [
+  [
+   "kokoro",
+   "digital-detox-effect"
+  ]
+ ],
+ "parent-smartphone-technoference-children": [
+  [
+   "kokoro",
+   "partner-phone-phubbing"
+  ],
+  [
+   "kokoro",
+   "notifications-focus"
+  ]
+ ],
+ "homework-ai-thinking-skills": [
+  [
+   "kokoro",
+   "chatgpt-thinking-ability"
+  ]
+ ],
+ "ai-exam-prep-high-school": [
+  [
+   "kokoro",
+   "chatgpt-thinking-ability"
+  ]
+ ],
+ "ai-answers-memory-retention": [
+  [
+   "kokoro",
+   "phone-memory-forgetful"
+  ]
+ ],
+ "ai-companion-loneliness": [
+  [
+   "kokoro",
+   "ai-chat-loneliness"
+  ]
+ ],
+ "ai-chatbot-conversations-children-risk": [
+  [
+   "kokoro",
+   "ai-chatbot-worries"
+  ],
+  [
+   "kokoro",
+   "ai-always-agrees"
+  ]
+ ],
+ "homework-media-multitasking": [
+  [
+   "kokoro",
+   "multitasking-focus"
+  ]
+ ],
+ "social-media-cognitive-performance-decline": [
+  [
+   "kokoro",
+   "short-video-cant-stop"
+  ]
+ ],
+ "sibling-comparison-self-esteem": [
+  [
+   "kokoro",
+   "comparison-self-criticism"
+  ]
+ ],
+ "inflated-praise-self-esteem": [
+  [
+   "kokoro",
+   "comparison-self-criticism"
+  ]
+ ],
+ "ai-voice-assistant-child-trust": [
+  [
+   "kokoro",
+   "ai-feels-human"
+  ]
+ ],
+ "online-gaming-strangers-chat-risk": [
+  [
+   "bohan",
+   "child-stranger-approach-after-school"
+  ]
+ ],
+ "location-tracking-app-trust": [
+  [
+   "bohan",
+   "safe-school-route-environment"
+  ],
+  [
+   "bohan",
+   "child-home-alone-safety-rules"
+  ]
+ ],
+ "smartphone-first-age-ownership-risk": [
+  [
+   "bohan",
+   "child-home-alone-safety-rules"
+  ]
+ ],
+ "sharenting-sns-photo-risk": [
+  [
+   "bohan",
+   "child-stranger-approach-after-school"
+  ]
+ ]
+}

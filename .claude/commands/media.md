@@ -10,19 +10,19 @@ argument-hint: <slug 例: research> [--draft] [トピック]
 ## 手順
 
 1. `media/{slug}.json` を読む。無ければ中止して報告。
-2. 設定の `rulesFrom` を読み、その「読者」「鉄則（信頼性）」「手順1〜6」を、設定の `name` `path` `url` `categories` `template` に置き換えて **そのまま適用** する（ルールはここに複製しない。修正は rulesFrom 側で一元管理）。あわせて `.claude/commands/quality.md`（全メディア共通の読みやすさ・見た目の基準。ジャンルを問わず適用）も読む。
-3. トピックが未指定なら `topicQueue` の先頭から、`path` 配下の既存記事と被らないものを選ぶ。使ったトピックは `topicQueue` から削除して json を保存する。キューが3件以下になったら、既存記事と設定の `concept` から新トピックを10件補充する。
+2. 設定の `rulesFrom` を読み、その「読者」「鉄則（信頼性）」「手順1〜6」を、設定の `name` `path` `url` `categories` `template` に置き換えて **そのまま適用** する（ルールはここに複製しない。修正は rulesFrom 側で一元管理）。あわせて品質基準 `docs/quality/base.md` と、設定の `siteType` に対応する `docs/quality/{siteType}.md`（無ければ `article.md`）を読む。
+3. トピックが未指定なら `topicQueue` の先頭から、`path` 配下の既存記事と被らないものを選ぶ。使ったトピックは `topicQueue` から削除して json を保存する。キューが3件以下になったら、既存記事と設定の `concept` から新トピックを10件補充する。`media/{slug}-matrix.json`（テーマの表）があるメディアは、補充するトピックを `python3 media/matrix.py {slug}` の「空いているマス」から選ぶ（特に「遭ったら」「見分ける」「使う」の列。同じ行の記事が多い所は後回し）。
 4. 記事を `postsPerRun` 本作る（確認不要）。出典を確認できないトピックは捨てて次へ。
 5. 配線と写真（スクリプトで行う。一覧やsitemapを手で編集しない）:
    - `media/{slug}-posts.json` の先頭に `{"slug","category"(設定のcategoriesから),"date","title","summary"(60字前後)}` を1件追加する。
-   - **写真は必須（キー不要）。写真なしで公開しない。** 手順・リトライの基準は `quality.md`「画像は必須」を参照。`python3 media/photo.py {slug} {記事slug} "<英語の検索語 2〜4語>"`（検索語は「物・場所・道具」に寄せる。"person" 等の人物語は避ける）。
-   - `python3 media/build.py {slug}` で一覧ページとsitemapを再生成する。
+   - **写真は必須（キー不要）。写真なしで公開しない。** 手順・リトライの基準は `docs/quality/article.md`「画像は必須」を参照。`python3 media/photo.py {slug} {記事slug} "<英語の検索語 2〜4語>" --alt="<写っている物を記事の言語で短く>"`（検索語は「物・場所・道具」に寄せる。"person" 等の人物語は避ける）。
+   - `python3 media/build.py {slug}` で一覧ページとsitemapを再生成する。写真は build.py が自動で自サイト配信に切り替える（`media/localize_images.py`。外部画像の直リンクはしない。作者・ライセンス表示はそのまま）。
 6. **公開前の自己検査（人の目が無い前提。1つでも落ちたらその記事は公開せず破棄して次のトピックへ）**:
    - 記事内の全出典URLを WebFetch し直し、記事の数値・主張が出典本文に書かれていることを1件ずつ照合した。
    - 「私たちの研究で」等の一次研究表現、断定・医療行為の助言、絵文字、開発側事情（課金・価格）が無い。
    - 出典が3件未満、または査読論文・メタ分析・レビュー・公的機関のいずれも含まない場合は不合格。
    - 本文800字未満、h2直下の結論欠落、プレースホルダ（`{{`）残りが無い。
-   - `quality.md`の基準（余白・カードの構造・1文の長さ・FAQの初期表示）を満たしているか、テンプレートから外れていないか確認する。
+   - `docs/quality/` の基準（余白・カードの構造・1文の長さ・FAQの初期表示・公開前チェック）を満たしているか、テンプレートから外れていないか確認する。
    - 既存記事と題材・結論が実質同じでない。
    - 出典の一次ページが開けない（403等）場合は、Europe PMC API（`https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:{doi}&resultType=core&format=json`）や大学・機関の公式発表など、第二の情報源で確認できた数値だけを使う。確認できなかった数値・主張は記事から削る（検索結果のスニペットだけを根拠にしない）。
 7. 公開:
@@ -30,8 +30,18 @@ argument-hint: <slug 例: research> [--draft] [トピック]
    - `publish: "auto"`（既定）: `git pull --rebase origin main` → `sites/{slug}/` `media/` の変更だけを `git add` → commit → `git push origin main`。デプロイは GitHub Actions が自動実行する。`firebase deploy` は使わない。
    - `--draft` 指定時、または `publish: "draft"`: ブランチ `media/{slug}-{YYYYMMDD}` にpushしてPRを作る（公開しない）。
    - 1回の実行で公開する本数は `postsPerRun` を超えない。連続して検査に落ちた場合は3トピックで打ち切る。
+7.5. テーマの表があるメディアは、書いた記事のslugを `{slug}-matrix.json` の当てはまるマス（行×列。複数可、どこにも入らない研究の記事は `research`）に足し、`python3 media/matrix.py {slug} --check` が通ることを確かめる。
 8. 報告: 記事URL(またはPR URL)、採用出典、キュー残数。
+
+## ツールとアプリを目立たせる（全メディア共通、2026-10-11〜）
+
+SEADICEは「読むメディア」から「使えるツールメディア」へ育てる。各メディアの設定 `toolbox` 配列に、そのメディアで使えるWebツール・公開済みアプリを登録しておくと、`build.py` が次の3か所に自動で出す（`media/toolbox.py`）。
+- 記事: 冒頭の要約の直後に「この記事と一緒に使える」（ツール1つ＋アプリ1つ）。ツールは `{slug}-toollinks.json` の指定 > `slugs` > `cats` > `all` の順に選ぶ
+- トップ: ヒーロー直下の「使えるツールとアプリ」（トップに手書きのツール枠があるメディアは `"toolboxTop": false`）
+- 一覧: `/tools/`（手書きの一覧ページが既にあれば上書きしない）
+
+新しいWebツールを作ったら、同じ作業の中で `toolbox` に1件（`name` `desc` `href` `cats`）足す。アプリは App Store 公開後に `appStoreId` と `id` 付きで足す（アイコンは SEADICE の `p/icons/apps/{id}.webp` から自動でコピー）。未公開アプリは載せない。関連の薄いものを無理に `all` にしない。
 
 ## 新しいメディアを増やすとき
 
-`media/{新slug}.json` を `research.json` と同じ形で作るだけ。`template` `rulesFrom` は共有してよい（見た目やルールを変えたいときだけ別ファイルにする）。新しいテンプレート(`{新slug}-template.html`)を作る場合は、`quality.md`の余白・カード構造・画像必須のルールを土台にする（ジャンルが変わっても読みやすさの基準は共通）。
+`media/{新slug}.json` を `research.json` と同じ形で作るだけ（`siteType` を必ず書く）。左の記事一覧（読んだ・もう一度読みたい・未読の絞り込み）と記事末尾の「読んだ」ボタンは書かなくても入る（止めるときだけ `"sideIndex": false` `"readCheck": false`）。トップの PICK UP もどのレイアウトにも入る。**`.github/workflows/deploy.yml` のビルドの並びに slug を足す**（足さないと一覧と PICK UP が毎日作り直されない）。`template` `rulesFrom` は共有してよい（見た目やルールを変えたいときだけ別ファイルにする）。新しいテンプレート(`{新slug}-template.html`)を作る場合は、`docs/quality/base.md` と該当する種類のファイルを土台にする（ジャンルが変わっても読みやすさの基準は共通）。

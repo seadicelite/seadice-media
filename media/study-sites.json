@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "shinri",
+    "name": "ゼロから学ぶ心理学",
+    "url": "https://shinri.seadice.win/",
+    "live": true,
+    "engine": "shinri_pages"
+  },
+  {
+    "slug": "boueki",
+    "name": "ゼロから学ぶ貿易実務",
+    "url": "https://boueki.seadice.win/",
+    "live": true
+  },
+  {
+    "slug": "counselor",
+    "name": "ゼロから学ぶ心理カウンセリング",
+    "url": "https://counselor.seadice.win/",
+    "live": false
+  },
+  {
+    "slug": "kodokeizai",
+    "name": "ゼロから学ぶ行動経済学",
+    "url": "https://kodokeizai.seadice.win/",
+    "live": false
+  },
+  {
+    "slug": "hanzaigaku",
+    "name": "ゼロから学ぶ犯罪学",
+    "url": "https://hanzaigaku.seadice.win/",
+    "live": true
+  },
+  {
+    "slug": "shakaihosho",
+    "name": "ゼロから学ぶ社会保障",
+    "url": "https://shakaihosho.seadice.win/",
+    "live": false
+  },
+  {
+    "slug": "hoikushi",
+    "name": "ゼロから学ぶ保育士",
+    "url": "https://hoikushi.seadice.win/",
+    "live": true
+  },
+  {
+    "slug": "kaigofukushi",
+    "name": "ゼロから学ぶ介護福祉士",
+    "url": "https://kaigofukushi.seadice.win/",
+    "live": true
+  },
+  {
+    "slug": "tetsugaku-nyumon",
+    "name": "ゼロから学ぶ哲学",
+    "url": "https://tetsugaku-nyumon.seadice.win/",
+    "live": false
+  }
+]
