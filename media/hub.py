@@ -71,7 +71,8 @@ def render(cfg, posts, cats, images, types, card):
                 + "".join(f'<a href="{E(a["href"], quote=True)}"><b>{E(a["label"])}</b><span>{E(a.get("desc", ""))}</span></a>' for a in acts)
                 + "</div></section>")
 
-    out += f'<section class="kh"><h2>新しい記事</h2><div class="grid">{"".join(card(p, cats, images, types) for p in posts[:h.get("latest", 4)])}</div></section>'
+    # posts は日付シードで毎日並べ替え済みなので「新しい記事」ではなく、ほかのメディアと同じ PICK UP（毎日入れ替わる）
+    out += f'<section class="kh"><h2>PICK UP</h2><p class="kl">毎日入れ替わります。</p><div class="grid">{"".join(card(p, cats, images, types) for p in posts[:h.get("latest", 4)])}</div></section>'
 
     blocks = ""
     for n, v in cats.items():

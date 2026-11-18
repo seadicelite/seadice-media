@@ -80,7 +80,9 @@
           "/split/"
         ],
         "odd": [],
-        "history": []
+        "history": [
+          "darwin-wallace"
+        ]
       }
     },
     {
@@ -99,7 +101,9 @@
         "num": [],
         "unknown": [],
         "see": [],
-        "odd": [],
+        "odd": [
+          "virus-dna"
+        ],
         "history": [
           "fish-to-land"
         ]
@@ -135,12 +139,16 @@
       "cells": {
         "what": [],
         "how": [],
-        "myth": [],
+        "myth": [
+          "universe-25"
+        ],
         "num": [],
         "unknown": [
           "language-origin"
         ],
-        "see": [],
+        "see": [
+          "/universe-25-sim/"
+        ],
         "odd": [],
         "history": [
           "dog-domestication"
@@ -151,15 +159,21 @@
       "id": "extinction",
       "label": "絶滅",
       "cells": {
-        "what": [],
+        "what": [
+          "dodo"
+        ],
         "how": [
           "dinosaur-extinction"
         ],
-        "myth": [],
+        "myth": [
+          "neanderthal-extinction"
+        ],
         "num": [
           "mass-extinctions"
         ],
-        "unknown": [],
+        "unknown": [
+          "dinosaur-decline"
+        ],
         "see": [],
         "odd": [
           "mammoth-extinction"
@@ -183,7 +197,9 @@
         "see": [
           "urban-evolution"
         ],
-        "odd": [],
+        "odd": [
+          "island-lizard-gut"
+        ],
         "history": []
       }
     }

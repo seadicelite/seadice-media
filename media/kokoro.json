@@ -1,5 +1,7 @@
 {
-  "enabled": false,
+  "readCheck": true,
+ "sideIndex": true,
+ "enabled": false,
   "publish": "auto",
   "slug": "kokoro",
   "siteType": "article",

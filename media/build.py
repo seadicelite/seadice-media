@@ -137,7 +137,7 @@ def build(slug, preview=None):
         secs = hub.render(cfg, posts, cats, images, types, card)
         extra_css = hub.EXTRA_CSS
     tick_css = ""
-    if not mag and cfg.get("ticker"):  # 通常のトップにも、マガジン型と同じ横に流れる PICK UP 帯を出す
+    if not mag and cfg.get("ticker", True):  # 通常・hub のトップにも、マガジン型と同じ横に流れる PICK UP 帯を出す（新しいメディアも最初から。止めるときだけ "ticker": false）
         import magazine
         ticker_html = magazine.ticker(cfg, posts)
         tick_css = magazine.TICKER_CSS + "main{padding-top:122px}" if ticker_html else ""

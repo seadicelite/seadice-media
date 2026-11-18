@@ -1,4 +1,6 @@
 {
+ "readCheck": true,
+ "sideIndex": true,
  "enabled": false,
  "publish": "draft",
  "slug": "choco",

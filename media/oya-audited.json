@@ -162,5 +162,73 @@
   {
     "slug": "parent-buying-same-things-repeatedly",
     "date": "2026-11-01"
+  },
+  {
+    "slug": "parent-stopped-cooking",
+    "date": "2026-11-02"
+  },
+  {
+    "slug": "parent-refuses-day-service",
+    "date": "2026-11-03"
+  },
+  {
+    "slug": "parent-stopped-reading-newspaper-books",
+    "date": "2026-11-04"
+  },
+  {
+    "slug": "parent-fear-of-falling-after-fall",
+    "date": "2026-11-05"
+  },
+  {
+    "slug": "parent-gave-up-hobbies",
+    "date": "2026-11-06"
+  },
+  {
+    "slug": "parent-not-wearing-dentures",
+    "date": "2026-11-07"
+  },
+  {
+    "slug": "parent-talks-about-the-past",
+    "date": "2026-11-08"
+  },
+  {
+    "slug": "parent-care-short-stay-respite",
+    "date": "2026-11-09"
+  },
+  {
+    "slug": "parent-wants-to-keep-driving-training",
+    "date": "2026-11-10"
+  },
+  {
+    "slug": "parent-stopped-community-gatherings",
+    "date": "2026-11-11"
+  },
+  {
+    "slug": "parent-eating-alone",
+    "date": "2026-11-12"
+  },
+  {
+    "slug": "parent-older-driver-sign-sticker",
+    "date": "2026-11-13"
+  },
+  {
+    "slug": "parent-getting-lost-while-driving",
+    "date": "2026-11-14"
+  },
+  {
+    "slug": "parent-not-bathing-changing-clothes",
+    "date": "2026-11-15"
+  },
+  {
+    "slug": "parent-mishearing-conversation-tips",
+    "date": "2026-11-16"
+  },
+  {
+    "slug": "parent-napping-daytime",
+    "date": "2026-11-17"
+  },
+  {
+    "slug": "parent-driving-with-passenger",
+    "date": "2026-11-18"
   }
 ]

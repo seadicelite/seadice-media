@@ -42,7 +42,9 @@
           "baking-method-puffing",
           "old-rice-puffing"
         ],
-        "data": [],
+        "data": [
+          "senbei-puff-thickness-ratio"
+        ],
         "use": [
           "https://senbei.seadice.win/tool/"
         ]
@@ -87,7 +89,9 @@
         "data": [
           "humidity-crispness-storage"
         ],
-        "use": []
+        "use": [
+          "stale-senbei-break-sound-test"
+        ]
       }
     },
     {
@@ -97,14 +101,19 @@
         "why": [
           "soy-sauce-grilled-aroma-maillard"
         ],
-        "myth": [],
+        "myth": [
+          "dark-soy-sauce-saltier-myth"
+        ],
         "make": [
-          "soy-sauce-before-or-after-baking"
+          "soy-sauce-before-or-after-baking",
+          "sugar-type-senbei-browning"
         ],
         "data": [
           "soy-sauce-types-salt"
         ],
-        "use": []
+        "use": [
+          "soy-sauce-aroma-nose-pinch-test"
+        ]
       }
     },
     {
@@ -123,7 +132,9 @@
         "data": [
           "senbei-salt-content"
         ],
-        "use": []
+        "use": [
+          "senbei-salt-reduction-blind-test"
+        ]
       }
     },
     {
@@ -139,8 +150,12 @@
         "make": [
           "add-umami-to-senbei"
         ],
-        "data": [],
-        "use": []
+        "data": [
+          "umami-sensitivity-varies"
+        ],
+        "use": [
+          "umami-synergy-dashi-taste-test"
+        ]
       }
     },
     {
@@ -159,22 +174,30 @@
         "data": [
           "senbei-crunch-sound-measured"
         ],
-        "use": []
+        "use": [
+          "pseudo-crunch-sound-soft-senbei-test"
+        ]
       }
     },
     {
       "id": "region",
       "label": "地域の味",
       "cells": {
-        "why": [],
+        "why": [
+          "regional-salt-taste-birthplace"
+        ],
         "myth": [
           "kyushu-soy-sauce-sweet-why"
         ],
-        "make": [],
+        "make": [
+          "sweet-soy-sauce-saltiness"
+        ],
         "data": [
           "senbei-spending-city-ranking"
         ],
-        "use": []
+        "use": [
+          "regional-salt-preference-blind-test"
+        ]
       }
     },
     {
@@ -193,7 +216,9 @@
         "data": [
           "senbei-browning-limit"
         ],
-        "use": []
+        "use": [
+          "senbei-browning-photo-check"
+        ]
       }
     },
     {
@@ -206,11 +231,15 @@
         "myth": [
           "japanese-taste-sensitivity-myth"
         ],
-        "make": [],
+        "make": [
+          "senbei-ingredients-japanese-avoid"
+        ],
         "data": [
           "senbei-popular-flavor-ranking"
         ],
-        "use": []
+        "use": [
+          "senbei-preference-word-check"
+        ]
       }
     },
     {

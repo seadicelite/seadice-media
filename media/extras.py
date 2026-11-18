@@ -395,8 +395,8 @@ def matrix_guides(cfg, posts, cats, images, types, theme, favicon, css, card):
                 t = re.sub(r"<!--gstep-->.*?<!--/gstep-->", "", f.read_text(), flags=re.S)
                 block = ('<!--gstep--><div role="navigation" aria-label="この悩みを順に読む" style="background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 18px;margin:32px 0;font-size:14px;line-height:1.9">'
                          f'<b>「{E(r["label"])}」を順に読む</b><br>'
-                         + " → ".join(f'<b>{E(x["label"])}（この記事）</b>' if x is c else f'<a href="/guide/{r["id"]}/#{x["id"]}" style="color:var(--link)">{E(x["label"])}</a>' for x in have)
-                         + f'<br><a href="/guide/{r["id"]}/" style="color:var(--link);font-weight:700">この悩みのガイドを見る</a></div><!--/gstep-->')
+                         + " → ".join(f'<b>{E(x["label"])}（この記事）</b>' if x is c else f'<a href="/guide/{r["id"]}/#{x["id"]}" style="color:var(--link);display:inline-block">{E(x["label"])}</a>' for x in have)
+                         + f'<br><a href="/guide/{r["id"]}/" style="color:var(--link);font-weight:700;display:inline-block">この悩みのガイドを見る</a></div><!--/gstep-->')
                 if "<!--related-->" in t:
                     t = t.replace("<!--related-->", block + "<!--related-->", 1)
                 f.write_text(t)

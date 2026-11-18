@@ -1,0 +1,236 @@
+{
+ "note": "脳科学マーケティングの研究のマス（作るもの×問い）。いちばん薄いマスから書く。同じ問いの記事は増やさない。",
+ "cols": [
+  {
+   "id": "use",
+   "label": "使える原則",
+   "q": "作るときに使える、確かめられた原則は？"
+  },
+  {
+   "id": "how",
+   "label": "どう当てる",
+   "q": "画面・文・値段のどこに、どう当てるか"
+  },
+  {
+   "id": "myth",
+   "label": "本当？",
+   "q": "よく聞く説は本当か（研究で答え合わせ）"
+  },
+  {
+   "id": "num",
+   "label": "数字",
+   "q": "効果の大きさ・人数・日数を出典つきで"
+  },
+  {
+   "id": "dark",
+   "label": "操る仕掛けとの境目",
+   "q": "効いても使わない仕掛けと、その理由"
+  },
+  {
+   "id": "unknown",
+   "label": "まだわからない",
+   "q": "研究で割れている・確かめられていないこと"
+  },
+  {
+   "id": "case",
+   "label": "実例",
+   "q": "SEADICEで試したこと・やめたこと"
+  }
+ ],
+ "rows": [
+  {
+   "id": "app",
+   "label": "アプリ",
+   "cells": {
+    "use": [
+     "neuro-marketing-app",
+     "app-store-reviews",
+     "session-ending",
+     "app-growth-strategy",
+     "haptic-feedback",
+     "thumb-reach",
+     "app-features-guide",
+     "app-design-guide"
+    ],
+    "how": [
+     "app-notifications",
+     "app-customization",
+     "app-store-downloads",
+     "app-icon-design",
+     "grow-without-competing",
+     "icon-button-size",
+     "who-to-build-for",
+     "global-apps",
+     "app-permission-request",
+     "app-name-fluency"
+    ],
+    "myth": [
+     "gamification-works",
+     "ios-or-android",
+     "beat-competitors-first-mover",
+     "privacy-policy-reading"
+    ],
+    "num": [
+     "loading-wait-screen",
+     "short-app-sessions"
+    ],
+    "dark": [
+     "account-required",
+     "infinite-scroll-autoplay"
+    ],
+    "unknown": [
+     "procrastination-app",
+     "focus-one-app",
+     "ai-feature-trust"
+    ],
+    "case": [
+     "duolingo-experiments"
+    ]
+   }
+  },
+  {
+   "id": "web",
+   "label": "ウェブサイト",
+   "cells": {
+    "use": [
+     "neuro-marketing-web",
+     "website-beauty",
+     "web-navigation",
+     "icon-with-label"
+    ],
+    "how": [
+     "website-trust",
+     "web-form-usability",
+     "icon-color-only"
+    ],
+    "num": [
+     "website-readability",
+     "banner-blindness-motion"
+    ],
+    "myth": [
+     "dark-mode-readability",
+     "sign-first-honesty"
+    ],
+    "dark": [
+     "cookie-consent-banner"
+    ],
+    "case": [
+     "web-online-experiments"
+    ],
+    "unknown": [
+     "page-speed-seconds"
+    ]
+   }
+  },
+  {
+   "id": "article",
+   "label": "記事",
+   "cells": {
+    "use": [
+     "neuro-marketing-article",
+     "rhyme-as-reason"
+    ],
+    "how": [
+     "make-it-memorable"
+    ],
+    "myth": [
+     "percent-or-people",
+     "difficult-words"
+    ],
+    "dark": [
+     "clickbait-headlines",
+     "neuroscience-allure"
+    ],
+    "num": [
+     "how-much-people-read"
+    ],
+    "unknown": [
+     "ai-written-label"
+    ]
+   }
+  },
+  {
+   "id": "price",
+   "label": "値段と課金",
+   "cells": {
+    "use": [
+     "neuro-pricing-principles"
+    ],
+    "dark": [
+     "dark-patterns-line"
+    ],
+    "how": [
+     "free-trial-card",
+     "donation-feature"
+    ],
+    "myth": [
+     "charm-pricing-980"
+    ],
+    "num": [
+     "free-trial-length"
+    ],
+    "unknown": [
+     "price-anchoring"
+    ],
+    "case": [
+     "pay-what-you-want"
+    ]
+   }
+  },
+  {
+   "id": "habit",
+   "label": "続ける",
+   "cells": {
+    "use": [
+     "neuro-habit-principles",
+     "goal-setting",
+     "app-retention-guide"
+    ],
+    "myth": [
+     "streak-really-works"
+    ],
+    "how": [
+     "endowed-progress-start",
+     "doing-it-together"
+    ],
+    "unknown": [
+     "rewards-motivation-debate"
+    ],
+    "num": [
+     "habit-formation-days"
+    ],
+    "dark": [
+     "hook-model-variable-reward"
+    ]
+   }
+  },
+  {
+   "id": "myth",
+   "label": "よく聞く説",
+   "cells": {
+    "myth": [
+     "neuro-marketing-myths",
+     "warm-coffee-soft-chair",
+     "male-brain-female-brain",
+     "golden-ratio-design",
+     "ad-baby-gaze-model",
+     "social-proof-norms",
+     "talk-to-right-ear",
+     "mirror-watching-eyes",
+     "money-priming",
+     "red-color-effect"
+    ],
+    "unknown": [
+     "nudge-really-works",
+     "sns-which-combination"
+    ],
+    "num": [
+     "app-retention-myth"
+    ],
+    "dark": [
+     "subliminal-advertising"
+    ]
+   }
+  }
+ ]
+}

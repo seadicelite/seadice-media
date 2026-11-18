@@ -1,5 +1,95 @@
 [
  {
+  "slug": "chatgpt-fake-app-how-to-tell",
+  "category": "詐欺・なりすまし",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-11-12",
+  "title": "ChatGPTの偽アプリを入れてしまったかも。見分け方は？ストアの「販売元」を見て、違えば課金を止めてから消す",
+  "summary": "公式は販売元がOpenAI。Gemini・Claudeも確かめた表と、消す前に解約・返金する順番"
+ },
+ {
+  "slug": "gemini-share-link-delete-search",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-11-12",
+  "title": "Geminiの共有リンクを削除したい。検索に出ることもある？公開リンクの画面で消せて、検索に残った分はGoogleに更新を頼める",
+  "summary": "設定の公開リンクから消せる。共有会話の8%に個人情報、検索に残ればGoogleに更新を頼む"
+ },
+ {
+  "slug": "ai-camera-glasses-filmed-worry-prepare",
+  "category": "プライバシー・個人情報",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-11-07",
+  "title": "カメラ付きのAIメガネで、知らないうちに撮られないか不安。研究では居合わせた人の多くが「撮る前に聞いてほしい」と答え、撮影中に光るランプが見分ける手がかりになる",
+  "summary": "31人中17人が撮る前に聞いてほしいと答えた。撮影中に光るランプを知り、性的な撮影は警察へ"
+ },
+ {
+  "slug": "ai-search-wrong-shop-info-owner",
+  "category": "Web・検索の変化",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-11-07",
+  "title": "AIの検索やチャットが、自分のお店の営業時間や情報を間違えて答えていた。研究ではAIの答えの2割に古い情報などの大きな誤りがあり、まず公式の情報を直してから報告する",
+  "summary": "ニュースの質問ではAIの答えの2割に古い情報などの大きな誤り。まず自分のサイトとプロフィールを直し、AI要約に報告する"
+ },
+ {
+  "slug": "ai-overview-traffic-down-site-rebuild",
+  "category": "Web・検索の変化",
+  "type": "guide",
+  "stage": "立て直す",
+  "date": "2026-11-07",
+  "title": "AI要約でアクセスが減ったあと、サイトをどう立て直す？実験では、引用や数字、出典を足した文章がAIの答えに使われやすく、キーワードの詰め込みは逆効果だった",
+  "summary": "量を増やすより、引用・数字・出典を足す。実験ではAIの答えに使われやすく、詰め込みは逆効果だった"
+ },
+ {
+  "slug": "my-article-ai-rewritten-copied-site",
+  "category": "Web・検索の変化",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-11-07",
+  "title": "自分の記事がAIで言い換えられ、別のサイトに載っていた。どうする？文化庁の考え方ではAIを使っても侵害の判断は同じで、まず証拠を残して削除を求める",
+  "summary": "文化庁の考え方では、AIで言い換えた転載も、似ているかともとにしたかで判断される。証拠を残し、運営者と検索に削除を求める"
+ },
+ {
+  "slug": "ai-crawler-block-robots-txt-search-effect",
+  "category": "Web・検索の変化",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-11-07",
+  "title": "サイトの記事を、AIの学習に使われたくない。robots.txtで断ると検索に出なくなる？学習用と検索用のクローラーは分けて断れるが、従わないクローラーもある",
+  "summary": "学習用のクローラーは検索用と分けて断れ、検索順位に影響しない。研究では従わないAIのクローラーもあった"
+ },
+ {
+  "slug": "ai-overview-site-traffic-drop",
+  "category": "Web・検索の変化",
+  "type": "guide",
+  "stage": "起きた",
+  "date": "2026-11-03",
+  "title": "ブログやお店のサイトのアクセスが減ったのは、検索のAI要約のせい？要約が出た検索でリンクが押されたのは8%と少ないが、理由はほかにもあり、まず期間を比べて切り分ける",
+  "summary": "AI要約が出るとリンクは押されにくくなる。ただ季節や順位でも減るので、Search Consoleで前年と比べて理由を切り分ける"
+ },
+ {
+  "slug": "web-article-human-or-ai-how-to-trust",
+  "category": "Web・検索の変化",
+  "type": "guide",
+  "stage": "備える",
+  "date": "2026-11-03",
+  "title": "ネットの記事が人の文章かAIか見分けられない。どのサイトを信じればいい？研究では文章からの判定は当てずっぽうに近く、プロは記事を離れて運営元を調べていた",
+  "summary": "文章から人かAIかを当てる実験の正しさはほぼ5割。ファクトチェッカーのように別のタブで運営元・出典・日付を確かめる横読みが頼りになります。"
+ },
+ {
+  "slug": "search-results-ai-written-articles",
+  "category": "Web・検索の変化",
+  "type": "guide",
+  "stage": "知る",
+  "date": "2026-11-03",
+  "title": "検索しても同じような記事ばかりなのは、AIが書いた記事のせい？研究では、上位の商品レビューは紹介料目当てのページに偏り、AIとの関係はまだ確かめられていない",
+  "summary": "似た記事ばかりなのはAIのせい？英語の研究では、検索上位は紹介料目当てのページに偏っていたが、AIとの関係は未確認。検索の絞り方も"
+ },
+ {
   "slug": "ai-scam-targeted-again-fear-rebuild",
   "category": "詐欺・なりすまし",
   "type": "guide",
@@ -865,7 +955,7 @@
  },
  {
   "slug": "ai-generated-web-content-share",
-  "category": "偽情報・ディープフェイク",
+  "category": "Web・検索の変化",
   "type": "guide",
   "stage": "知る",
   "date": "2026-10-17",
@@ -1504,7 +1594,7 @@
  },
  {
   "slug": "ai-search-summary-accuracy",
-  "category": "AIに頼りすぎ",
+  "category": "Web・検索の変化",
   "type": "guide",
   "stage": "知る",
   "date": "2026-10-10",
