@@ -10,6 +10,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -60,6 +69,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -112,6 +130,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -162,6 +189,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -214,6 +250,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -263,7 +308,28 @@
         "**/.*"
       ],
       "trailingSlash": true,
+      "redirects": [
+        {
+          "source": "/apps/qr-guard{,/**}",
+          "destination": "/link-check/",
+          "type": 301
+        },
+        {
+          "source": "/apps/link-matta{,/**}",
+          "destination": "/link-check/",
+          "type": 301
+        }
+      ],
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -316,6 +382,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -366,6 +441,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -418,6 +502,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -468,6 +561,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -565,6 +667,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -615,6 +726,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -673,6 +793,15 @@
       ],
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -692,6 +821,15 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [
@@ -744,6 +882,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -795,6 +942,15 @@
       "trailingSlash": true,
       "headers": [
         {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
           "source": "/img/**",
           "headers": [
             {
@@ -845,6 +1001,627 @@
       ],
       "trailingSlash": true,
       "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
+          "source": "**/*.html",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "/sitemap.xml",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "**",
+          "headers": [
+            {
+              "key": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "key": "Referrer-Policy",
+              "value": "strict-origin-when-cross-origin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "site": "seadice-kodokeizai",
+      "public": "sites/kodokeizai",
+      "ignore": [
+        "firebase.json",
+        "**/.*"
+      ],
+      "trailingSlash": true,
+      "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
+          "source": "**/*.html",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "/sitemap.xml",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "**",
+          "headers": [
+            {
+              "key": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "key": "Referrer-Policy",
+              "value": "strict-origin-when-cross-origin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "site": "seadice-kaigofukushi",
+      "public": "sites/kaigofukushi",
+      "ignore": [
+        "firebase.json",
+        "**/.*"
+      ],
+      "trailingSlash": true,
+      "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
+          "source": "**/*.html",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "/sitemap.xml",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "**",
+          "headers": [
+            {
+              "key": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "key": "Referrer-Policy",
+              "value": "strict-origin-when-cross-origin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "site": "seadice-oya",
+      "public": "sites/oya",
+      "ignore": [
+        "firebase.json",
+        "**/.*"
+      ],
+      "trailingSlash": true,
+      "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
+          "source": "**/*.html",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "/sitemap.xml",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "**",
+          "headers": [
+            {
+              "key": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "key": "Referrer-Policy",
+              "value": "strict-origin-when-cross-origin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "site": "seadice-ai",
+      "public": "sites/ai",
+      "ignore": [
+        "firebase.json",
+        "**/.*"
+      ],
+      "trailingSlash": true,
+      "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
+          "source": "**/*.html",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "/sitemap.xml",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "**",
+          "headers": [
+            {
+              "key": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "key": "Referrer-Policy",
+              "value": "strict-origin-when-cross-origin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "site": "seadice-tetsugaku-nyumon",
+      "public": "sites/tetsugaku-nyumon",
+      "ignore": [
+        "firebase.json",
+        "**/.*"
+      ],
+      "trailingSlash": true,
+      "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
+          "source": "**/*.html",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "/sitemap.xml",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "**",
+          "headers": [
+            {
+              "key": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "key": "Referrer-Policy",
+              "value": "strict-origin-when-cross-origin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "site": "seadice-senbei",
+      "public": "sites/senbei",
+      "ignore": [
+        "firebase.json",
+        "**/.*"
+      ],
+      "trailingSlash": true,
+      "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
+          "source": "**/*.html",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "/sitemap.xml",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "**",
+          "headers": [
+            {
+              "key": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "key": "Referrer-Policy",
+              "value": "strict-origin-when-cross-origin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "site": "seadice-uchu",
+      "public": "sites/uchu",
+      "ignore": [
+        "firebase.json",
+        "**/.*"
+      ],
+      "trailingSlash": true,
+      "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
+          "source": "**/*.html",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "/sitemap.xml",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "**",
+          "headers": [
+            {
+              "key": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "key": "Referrer-Policy",
+              "value": "strict-origin-when-cross-origin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "site": "seadice-choco",
+      "public": "sites/choco",
+      "ignore": [
+        "firebase.json",
+        "**/.*"
+      ],
+      "trailingSlash": true,
+      "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
+          "source": "**/*.html",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "/sitemap.xml",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "**",
+          "headers": [
+            {
+              "key": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "key": "Referrer-Policy",
+              "value": "strict-origin-when-cross-origin"
+            }
+          ]
+        }
+      ],
+      "redirects": [
+        {
+          "source": "/gift-chocolate-psychology{,/**}",
+          "destination": "/packaging-crossmodal/",
+          "type": 301
+        },
+        {
+          "source": "/handmade-gift{,/**}",
+          "destination": "/maker-bias-ikea-effect/",
+          "type": 301
+        }
+      ]
+    },
+    {
+      "site": "seadice-shinka",
+      "public": "sites/shinka",
+      "ignore": [
+        "firebase.json",
+        "**/.*"
+      ],
+      "trailingSlash": true,
+      "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
+        {
+          "source": "/img/**",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=2592000"
+            }
+          ]
+        },
+        {
+          "source": "**/*.html",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "/sitemap.xml",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        {
+          "source": "**",
+          "headers": [
+            {
+              "key": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "key": "Referrer-Policy",
+              "value": "strict-origin-when-cross-origin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "site": "seadice-neuro",
+      "public": "sites/neuro",
+      "ignore": [
+        "firebase.json",
+        "**/.*"
+      ],
+      "trailingSlash": true,
+      "headers": [
+        {
+          "source": "/sn-*.@(js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000, immutable"
+            }
+          ]
+        },
         {
           "source": "/img/**",
           "headers": [

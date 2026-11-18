@@ -19,7 +19,9 @@
     "blink-rate-nervousness-lying-research",
     "gaze-avoidance-social-anxiety-research",
     "eye-blocking-covering-eyes-research",
-    "eye-direction-up-right-lying-nlp-research"
+    "eye-direction-up-right-lying-nlp-research",
+    "deliberate-eye-contact-lying-research",
+    "eye-contact-how-long-to-look-research"
    ]
   },
   {
@@ -33,6 +35,7 @@
     "数秒の映像で当たりやすい性格特性がある一方、顔から感じる信頼感は実際の信頼性とずれることがあります。"
    ],
    "slugs": [
+    "mouth-cover-laughing-why-research",
     "fake-smile-duchenne-detection-research",
     "microexpression-true-feelings-research",
     "appearance-first-impression-accuracy-research",
@@ -40,7 +43,8 @@
     "lip-compression-disappearing-lips-stress-research",
     "blushing-face-red-liking-research",
     "laughing-at-jokes-interest-signal-research",
-    "illusion-of-transparency-nervousness-visible-research"
+    "illusion-of-transparency-nervousness-visible-research",
+    "cold-reaction-felt-rejected-recovery-research"
    ]
   },
   {
@@ -54,12 +58,16 @@
     "腕組みは「拒絶」とは限らず、課題への粘り強さが増したという研究もあります。"
    ],
    "slugs": [
+    "palm-up-gesture-honesty-trust-research",
     "self-touch-face-hair-nervousness-research",
     "touch-affection-signal-research",
+    "partner-less-touch-affection-decline-research",
     "arm-crossing-posture-psychology-research",
     "neck-touch-pacifying-behavior-research",
     "nose-touching-lying-pinocchio-research",
-    "steepling-hands-confidence-research"
+    "steepling-hands-confidence-research",
+    "frequent-hand-gestures-speaking-research",
+    "hands-in-pockets-trust-impression-research"
    ]
   },
   {
@@ -76,10 +84,12 @@
     "body-orientation-feet-direction-interest-research",
     "personal-space-distance-intimacy-research",
     "chameleon-effect-mimicry-liking-research",
+    "hands-behind-back-posture-confidence-research",
     "power-pose-confidence-replication-research",
     "forward-lean-posture-approach-avoidance-research",
     "leg-crossing-direction-personality-research",
-    "torso-turn-away-ventral-denial-research"
+    "torso-turn-away-ventral-denial-research",
+    "backing-away-leaning-back-rejection-signal-research"
    ]
   },
   {
@@ -95,7 +105,11 @@
     "leg-jiggling-fidgeting-anxiety-research",
     "head-tilt-impression-research",
     "freeze-flight-fight-threat-response-research",
-    "feet-most-honest-leakage-research"
+    "feet-most-honest-leakage-research",
+    "sigh-dissatisfaction-sign-research",
+    "first-date-nerves-reappraisal-safety-behaviors-research",
+    "shoulder-shrug-confidence-signal-research",
+    "kissing-head-turn-right-research"
    ]
   },
   {
@@ -119,7 +133,32 @@
     "too-much-detail-lying-research",
     "self-disclosure-confiding-liking-research",
     "teasing-affection-or-hostility-research",
-    "compliments-flattery-liking-signal-research"
+    "compliments-flattery-liking-signal-research",
+    "lip-licking-throat-clearing-nervousness-research"
+   ]
+  },
+  {
+   "id": "contact",
+   "label": "連絡・行動",
+   "title": "連絡・行動から本音は読めるのか",
+   "lead": "返信の速さ、連絡の頻度、スマホを見る回数。LINEやスマホに関わる行動について、研究でわかっていることをまとめました。",
+   "points": [
+    "返信の速さや既読のタイミングだけで好意の大きさを判定した決定的な研究は見当たりません。",
+    "連絡の頻度が減っても冷めたとは限らず、間隔が空くほど次のやり取りが長くなる「埋め合わせ」も報告されています。",
+    "恋人にスマホを見られる頻度が高いと感じている人ほど満足度は低く衝突は多い傾向がありますが、1回の行動からは読み取れません。"
+   ],
+   "slugs": [
+    "line-reply-speed-research",
+    "contact-frequency-decline-cooling-signal-research",
+    "story-view-avoidance-interest-concealment-research",
+    "silence-during-dates-liking-research",
+    "stonewalling-conflict-withdrawal-warning-sign",
+    "hard-to-get-scarcity-attraction-research",
+    "jealousy-possessiveness-control-research",
+    "love-bombing-warning-signs-research",
+    "non-apology-psychology-barriers-research",
+    "language-style-matching-line-keigo-research",
+    "phone-checking-conversation-boredom-signal-research"
    ]
   }
  ],

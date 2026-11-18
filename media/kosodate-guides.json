@@ -21,7 +21,10 @@
     "nursery-separation-anxiety-how-long",
     "tantrum-coping-children-research",
     "bedtime-screen-sleep",
-    "father-involvement-child-development"
+    "father-involvement-child-development",
+    "daycare-age-0-1-child-development",
+    "new-baby-older-sibling-regression",
+    "parent-burnout-taking-it-out-on-child"
    ]
   },
   {
@@ -35,6 +38,7 @@
     "幼い子ほどAIを人のように感じやすいため、AIスピーカーやAIのおもちゃは大人と一緒に使うのが安心です。"
    ],
    "slugs": [
+    "child-friend-trouble-parent-intervene",
     "toddler-screen-stop-crying-self-regulation",
     "youtube-more-please-how-to-say-no",
     "tablet-vs-tv-self-control",
@@ -44,7 +48,14 @@
     "ai-age-for-kids",
     "children-lying-development-age",
     "inflated-praise-self-esteem",
-    "tantrum-coping-children-research"
+    "tantrum-coping-children-research",
+    "music-lessons-intelligence-academic",
+    "sibling-fight-parent-mediation",
+    "handwriting-messy-tablet-vs-pencil",
+    "daycare-age-0-1-child-development",
+    "new-baby-older-sibling-regression",
+    "parents-argument-in-front-of-child",
+    "parent-burnout-taking-it-out-on-child"
    ]
   },
   {
@@ -58,11 +69,17 @@
     "将来の夢や習い事は、この時期に変わるのが普通です。決まっていなくても心配しすぎる必要はありません。"
    ],
    "slugs": [
+    "child-stopped-reading-books-school-level",
+    "school-refusal-games-smartphone-taking-away",
+    "homework-procrastination-elementary",
+    "ai-overreliance-child-stop-thinking",
+    "child-friend-trouble-parent-intervene",
     "homework-ai-thinking-skills",
     "ai-book-report-homework-help",
     "homework-media-multitasking",
     "smartphone-first-age-ownership-risk",
     "family-screen-time-rules-research",
+    "smartphone-overuse-rules-reset",
     "gaming-disorder-children-research",
     "online-gaming-strangers-chat-risk",
     "screen-time-myopia-eyesight",
@@ -72,7 +89,38 @@
     "no-career-dream-elementary-school",
     "sibling-comparison-self-esteem",
     "school-tablet-app-child-data-privacy",
-    "ai-literacy-gap-academic-achievement"
+    "ai-literacy-gap-academic-achievement",
+    "ai-sexual-violent-content-filter-age-limit",
+    "parent-ai-monitoring-how-much",
+    "ai-school-classroom-change",
+    "music-lessons-intelligence-academic",
+    "children-not-reading-books-vocabulary",
+    "study-music-lyrics-concentration",
+    "smartphone-on-desk-homework-focus",
+    "school-refusal-first-signs-parents",
+    "game-cant-stop-time-limit-taking-away",
+    "child-told-ai-name-school-privacy",
+    "ai-homework-copying-what-to-say",
+    "game-time-average-elementary-junior-high",
+    "japan-children-self-esteem-international-comparison",
+    "bullying-long-term-effects-parent-support",
+    "child-ai-critical-thinking-fact-check",
+    "sibling-fight-parent-mediation",
+    "kanji-memorize-retrieval-practice",
+    "child-not-talking-about-school",
+    "school-refusal-long-term-outcomes",
+    "sns-trouble-first-steps-parents",
+    "handwriting-messy-tablet-vs-pencil",
+    "elementary-homework-time-how-long",
+    "older-sibling-hitting-sibling-bullying",
+    "child-few-friends-alone",
+    "text-to-speech-struggling-reader",
+    "yelled-at-child-apology-repair",
+    "parents-argument-in-front-of-child",
+    "child-disabled-smartphone-filtering",
+    "game-cero-age-rating-follow",
+    "sns-age-limit-by-service",
+    "parent-burnout-taking-it-out-on-child"
    ]
   },
   {
@@ -86,7 +134,12 @@
     "受験勉強でのAIは、答えを任せきりにせず、自分で考えたあとの確認に使うのが基本です。"
    ],
    "slugs": [
+    "child-stopped-reading-books-school-level",
+    "school-refusal-games-smartphone-taking-away",
+    "ai-overreliance-child-stop-thinking",
+    "child-friend-trouble-parent-intervene",
     "junior-high-smartphone-rules-rebellion",
+    "smartphone-overuse-rules-reset",
     "adolescent-parent-conversation-decline",
     "ai-exam-prep-high-school",
     "social-media-cognitive-performance-decline",
@@ -98,7 +151,34 @@
     "parental-expectations-pressure-children-motivation",
     "ai-translation-english-learning",
     "ai-literacy-gap-academic-achievement",
-    "ai-chatbot-worry-consultation-safety"
+    "ai-chatbot-worry-consultation-safety",
+    "ai-sexual-violent-content-filter-age-limit",
+    "parent-ai-monitoring-how-much",
+    "ai-school-classroom-change",
+    "children-not-reading-books-vocabulary",
+    "study-music-lyrics-concentration",
+    "smartphone-on-desk-homework-focus",
+    "school-refusal-first-signs-parents",
+    "game-cant-stop-time-limit-taking-away",
+    "game-time-average-elementary-junior-high",
+    "cyberbullying-statistics-mental-health-effects",
+    "japan-children-self-esteem-international-comparison",
+    "bullying-long-term-effects-parent-support",
+    "child-ai-critical-thinking-fact-check",
+    "test-cramming-sleep-memory",
+    "child-not-talking-about-school",
+    "junior-high-morning-wake-body-clock",
+    "school-refusal-long-term-outcomes",
+    "sns-trouble-first-steps-parents",
+    "secret-sns-account-junior-high",
+    "older-sibling-hitting-sibling-bullying",
+    "child-few-friends-alone",
+    "yelled-at-child-apology-repair",
+    "child-disabled-smartphone-filtering",
+    "game-cero-age-rating-follow",
+    "sns-age-limit-by-service",
+    "child-says-uzai-teen-rebellion-how-long",
+    "weekend-sleep-in-catch-up-teen"
    ]
   }
  ]

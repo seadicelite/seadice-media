@@ -1,4 +1,6 @@
 {
+ "readCheck": true,
+ "sideIndex": true,
  "enabled": true,
  "publish": "auto",
  "slug": "tantei", "siteType": "article",
@@ -76,11 +78,9 @@
  "template": ".claude/commands/tantei-template.html",
  "rulesFrom": ".claude/commands/tantei.md",
  "relatedApps": "立ち上げ期はアプリ送客なし。関連アプリ欄は入れない",
- "postsPerRun": 1,
+ "extraNav": [{"label": "困りごとを教える", "path": "/soudan/"}],
+  "postsPerRun": 1,
  "topicQueue": [
-  "その画像は本物？画像の逆検索で出どころを確かめる手順",
-  "自分の名前で検索すると何が出る？ネット上の自分の情報を点検する手順",
-  "AIの答えが間違っていることがある。AIの回答を自分で確かめる手順",
   "通販のレビューはどこまで信じていい？偽レビューの研究と見分け方",
   "写真の背景や窓の外から住所がわかる仕組みと、投稿前の点検",
   "自分のなりすましアカウントを見つけたときにすること",
@@ -197,5 +197,10 @@
     ]
    ]
   ]
- }
+ },
+  "toolbox": [
+    {"name": "詐欺チェッカー", "desc": "届いたSMS・メールの文面が怪しいかを、その場で無料で確かめる", "href": "https://tantei.seadice.win/check/", "all": true},
+    {"name": "Decoy Notes（ダミー付き暗号メモ）", "desc": "正しい合言葉なら本物、ちがう合言葉ならダミーのメモが開く。暗号化してブラウザ内だけに保存", "href": "https://seadice.win/tools/decoy-notes/", "cats": ["個人情報の流出", "SNSから特定される"]},
+    {"id": "cognitive-bias-guide", "name": "認知バイアス", "desc": "確証バイアス・同調など80種類の認知バイアスを、例・対策・もとになった研究つきで解説", "appStoreId": "6791445664", "cats": ["偽サイト・偽レビュー", "なりすまし・ディープフェイク"], "all": true}
+  ]
 }

@@ -44,7 +44,8 @@ def check(cfg):
     sm = os.path.join(base, "sitemap.xml")
     if os.path.exists(sm):
         locs = {re.sub(r"^https?://[^/]+", "", u) or "/" for u in re.findall(r"<loc>([^<]+)</loc>", open(sm).read())}
-        missing = sorted(p for p in pages if p not in locs and not p.startswith("/check/"))
+        missing = sorted(p for p, h in pages.items() if p not in locs and not p.startswith("/check/")
+                         and not re.search(r'<meta name="robots" content="[^"]*noindex', h))  # noindex は載せないのが正しい
         dead = sorted(p for p in locs if p not in pages)
         if missing:
             issues.append(f"sitemap 未掲載 {len(missing)}件: {', '.join(missing[:8])}")

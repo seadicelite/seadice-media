@@ -1,0 +1,410 @@
+{
+ "readCheck": true,
+ "sideIndex": true,
+ "enabled": true,
+ "publish": "auto",
+ "slug": "ai",
+ "siteType": "article",
+ "name": "AI時代の困りごと",
+ "path": "sites/ai/",
+ "url": "https://ai.seadice.win/",
+ "tagline": "AIで困ったときに、研究で答える。",
+ "lead": "AIに仕事を奪われる不安、AIに頼りすぎる心配、家族の声で来る詐欺電話、子どもの宿題とAI。AIで起きる困りごとをジャンル別に整理し、研究と公的機関の資料から、結論を先に答えます。何も売りません。",
+ "titleSuffix": "AIで起きる悩みと問題に、研究で答えるメディア",
+ "description": "AIへの不安、AI疲れ、AIへの依存、AI音声の詐欺、ディープフェイク、個人情報、著作権、子どもとAI。AIで起きる困りごとをジャンル別に整理し、研究と公的機関の資料から答えるメディア。商品の紹介はしません。出典つき。",
+ "theme": {
+  "bg": "#FFFFFF",
+  "card": "#FFFFFF",
+  "accent": "#1A44C2",
+  "accent2": "#1A44C2",
+  "border": "#C9CDD3",
+  "text": "#111418",
+  "muted": "#4A5260",
+  "link": "#1A44C2"
+ },
+ "categories": [
+  {
+   "name": "仕事・キャリア",
+   "id": "work",
+   "color": "#7FA7FF",
+   "icon": "target",
+   "desc": "AIに仕事を奪われる不安、職場のAI導入、ついていけない焦り"
+  },
+  {
+   "name": "心の疲れ・比べて落ち込む",
+   "id": "mind",
+   "color": "#E07AA0",
+   "icon": "heart",
+   "desc": "AI疲れ、情報疲れ、AIやSNSと比べて落ち込む気持ち"
+  },
+  {
+   "name": "AIに頼りすぎ",
+   "id": "rely",
+   "color": "#4FD1C5",
+   "icon": "repeat",
+   "desc": "AIの答えを信じすぎる、肯定されすぎる、自分で決められなくなる"
+  },
+  {
+   "name": "考える力・集中",
+   "id": "think",
+   "color": "#9B8CFF",
+   "icon": "book",
+   "desc": "AIの要約で済ませる、考える力が落ちる、集中できない"
+  },
+  {
+   "name": "人間関係・孤独",
+   "id": "relation",
+   "color": "#F2B33D",
+   "icon": "dot",
+   "desc": "AIと話す孤独、在宅で人と話さない、スマホとパートナー"
+  },
+  {
+   "name": "詐欺・なりすまし",
+   "id": "scam",
+   "color": "#E0764F",
+   "icon": "shield",
+   "desc": "AI音声の電話、偽の投資広告、偽ショップ、詐欺メッセージ"
+  },
+  {
+   "name": "偽情報・ディープフェイク",
+   "id": "fake",
+   "color": "#D96BA0",
+   "icon": "eye",
+   "desc": "AIが作った動画や画像、偽ニュースの確かめ方"
+  },
+  {
+   "name": "プライバシー・個人情報",
+   "id": "privacy",
+   "color": "#4CAF82",
+   "icon": "link",
+   "desc": "AIに入力した情報の行き先、写真の位置情報、情報の流出"
+  },
+  {
+   "name": "創作・著作権",
+   "id": "creative",
+   "color": "#C9A86A",
+   "icon": "mask",
+   "desc": "AIの絵と比べて自信をなくす、AIで書いた文章は自分の言葉か"
+  },
+  {
+   "name": "子ども・学校",
+   "id": "kids",
+   "color": "#5DB8F5",
+   "icon": "clock",
+   "desc": "子どもにAIは何歳から、宿題とAI、子どもとAIチャット"
+  },
+  {
+   "name": "Web・検索の変化",
+   "id": "web",
+   "color": "#8FA3B8",
+   "icon": "link",
+   "desc": "AIが書いた記事が増える、検索してもサイトに人が来ない、ネットの情報をどう信じるか"
+  }
+ ],
+ "types": [
+  {
+   "id": "guide",
+   "label": "解説"
+  }
+ ],
+ "catLimit": 3,
+ "faq": [
+  [
+   "AI時代の困りごととはどんなメディアですか？",
+   "AIへの不安、AIに頼りすぎる心配、AIを使った詐欺、ディープフェイク、子どもとAIなど、AIで起きる困りごとをジャンル別に整理し、研究と公的機関の資料から結論を先に答えるメディアです。SEADICEが運営しています。"
+  ],
+  [
+   "記事は誰が書いていますか？",
+   "AI（Claude）が研究論文や公的機関の資料を調べ、出典の内容を照合して作成しています。SEADICEが独自に実験や調査をしたものではありません。"
+  ],
+  [
+   "詐欺の被害にあったかもしれないときは？",
+   "記事は一般的な情報です。お金を払ってしまった、個人情報を伝えてしまったときは、警察相談専用電話（#9110）や消費者ホットライン（188）に相談できます。"
+  ]
+ ],
+ "trust": [
+  [
+   "AIが出典を確認して作成",
+   "公開された研究論文・公的機関の資料をAIが調べ、内容を照合しています。"
+  ],
+  [
+   "怖がらせません",
+   "「研究ではここまでわかっている」と限界も添えて、次にできることを書きます。"
+  ],
+  [
+   "何も売りません",
+   "商品・サービスの紹介やアフィリエイトは一切ありません。"
+  ]
+ ],
+ "concept": "AIが仕事や暮らしに入り込んだ時代に、AIが原因で起きる・AIが関わる困りごと（仕事を奪われる不安、AI疲れ、AIへの頼りすぎ、考える力の低下、AIを使った詐欺やなりすまし、ディープフェイク、AIに入力した個人情報、AIと著作権、子どもと学校のAI、AIで変わるWebと検索）をジャンル別に整理し、公開された研究と公的機関の資料から結論を先に答え、今日からできることと相談先に落とし込む。AIを使って何かを解決する方法は扱わない。診断・法的判断はしない。商品・サービスの紹介はしない",
+ "reader": "AIのことで不安・困りごと・トラブルを抱えて検索してきた働く大人・学生・家族",
+ "tone": "落ち着いて、結論から。不安を煽らない・AIを敵視も礼賛もしない。断定より『研究・資料ではこうだった』。わかっていないことは正直に書く",
+ "about": "記事はAIが公開された研究論文や、総務省・文化庁・個人情報保護委員会・警察庁など公的機関の資料、OSやサービスの公式ヘルプを調べ、出典の内容を確認して作成しています。SEADICEが独自に実験や調査をしたものではありません。診断や法的判断、商品・サービスの紹介はしていません。",
+ "template": ".claude/commands/ai-template.html",
+ "rulesFrom": ".claude/commands/ai.md",
+ "relatedApps": "立ち上げ期はアプリ送客なし。関連アプリ欄は入れない",
+ "postsPerRun": 1,
+ "pageSections": {
+  "about": [
+   [
+    "運営",
+    [
+     "{name} は、アプリスタジオ SEADICE（シーダイス）が運営するメディアです。",
+     "{concept_short}"
+    ]
+   ],
+   [
+    "記事の作り方",
+    [
+     "記事は、AI（Claude）が公開されている研究論文や、公的機関のデータ・指針を調べ、内容を確認して整理し、作成しています。SEADICE が独自に実験や調査をしたものではありません。",
+     "AI が作成した記事は、公開前に出典の照合など決められた検査を通ったものだけを掲載し、公開後も別の工程で数字と出典を照合しています。"
+    ]
+   ],
+   [
+    "編集方針",
+    [
+     "記事の軸は「AIで起きる困りごとに、研究と公的機関の資料から結論を先に答える」ことと「今日からできること」です。",
+     "確認できた出典だけを書きます。研究の対象や限界、まだわかっていないことを、できるだけ添えて紹介します。不安を煽ったり、AIを敵視・礼賛したりする書き方はしません。"
+    ]
+   ],
+   [
+    "何も売りません",
+    [
+     "AI時代の困りごとは、商品・サービスの紹介やアフィリエイトを一切行いません。広告も掲載しません。"
+    ]
+   ],
+   [
+    "お問い合わせ",
+    [
+     "記事の誤りのご指摘や、ご意見は <a href=\"mailto:hi@seadice.win\">hi@seadice.win</a> までご連絡ください。"
+    ]
+   ]
+  ],
+  "sources": [
+   [
+    "使う出典",
+    [
+     "査読のある学術論文（心理学・情報科学・法学・教育学・産業保健など）、メタ分析・システマティックレビュー、総務省・文化庁・個人情報保護委員会・警察庁・国民生活センター・文部科学省・OECDなどの公的機関の資料と指針、OSやサービスの公式ヘルプを使います。AI事業者やセキュリティ製品会社による調査は出典にしません。",
+     "各記事の末尾に、著者、発行年、タイトル、掲載誌、リンクを載せています。"
+    ]
+   ],
+   [
+    "検証の方法",
+    [
+     "1. 論文の原典（要旨や本文）や公的資料を開き、記事に書く数値と主張が、原典に書かれていることを1件ずつ照合します。",
+     "2. 原典が開けない場合は、別の信頼できる情報源で確認できた内容だけを使います。",
+     "3. 確認できなかった数値や主張は、記事から削除します。"
+    ]
+   ],
+   [
+    "わかっている度",
+    [
+     "各記事には、研究の量と質から判断した「わかっている度」（★3段階）を表示します。★★★は複数の研究やメタ分析で結果がそろっているもの、★☆☆は研究が少ない・結果が分かれているものです。"
+    ]
+   ],
+   [
+    "写真",
+    [
+     "記事の写真は、Wikimedia Commons の、自由に利用できるライセンス（パブリックドメイン、CC0、CC BY、CC BY-SA）の素材を使い、撮影者とライセンスを各記事に表示しています。人の顔がはっきり写った写真は使いません。"
+    ]
+   ],
+   [
+    "訂正について",
+    [
+     "誤りがあれば、確認のうえ修正し、記事の日付を更新します。ご指摘は hi@seadice.win までお願いします。"
+    ]
+   ]
+  ],
+  "disclaimer": [
+   [
+    "情報の性質",
+    [
+     "{name}の記事は、公開された研究とデータをもとにした一般的な情報であり、医師・専門家による診断や治療、個別の助言の代わりになるものではありません。",
+     "研究の結果は、対象となった集団についての傾向であり、すべての人に当てはまるとは限りません。"
+    ]
+   ],
+   [
+    "つらいときの相談先",
+    [
+     "気分の落ち込みや不安、眠れない状態が続くときは、医療機関（精神科・心療内科）や、お住まいの地域の保健所・精神保健福祉センターに相談できます。",
+     "こころの健康相談統一ダイヤル（0570-064-556）、いのちの電話などの電話相談、厚生労働省の「まもろうよ こころ」で紹介されているSNS相談も利用できます。",
+     "命に危険が迫っているときは、迷わず119番に連絡してください。"
+    ]
+   ],
+   [
+    "責任の範囲",
+    [
+     "記事の内容には、正確を期していますが、その完全性や、特定の目的への適合性を保証するものではありません。記事を参考にした行動の結果について、当メディアは責任を負いません。"
+    ]
+   ]
+  ]
+ },
+ "topicQueue": [
+  "見張られている気がして、ネットやAIで調べものをするのが怖くなった（プライバシー・個人情報×立て直す）",
+  "授業でAIを使う課題が成績に入り、自分だけAIがうまく使えず点が伸びない（子ども・学校×起きた）",
+  "AIの作品と比べられて、美術や作文の授業がつらくなった（子ども・学校×立て直す）",
+  "AIに勧められたお店や旅行の情報が、実際と違っていた・存在しなかった（AIに頼りすぎ×起きた）",
+  "検索で出てきたAIチャットの偽サポート窓口に、アカウント情報を伝えてしまった（詐欺・なりすまし×起きた）",
+  "AIが書いた本が電子書籍にあふれている？自分の本に似た題名の本が出ていた（創作・著作権×知る）"
+ ],
+ "gridGuide": {
+  "title": "悩み別ガイド",
+  "lead": "仕事の不安、詐欺、偽情報、個人情報、子どもとAI。AIで起きる困りごとを10のジャンルに分け、知っておきたいこと、前もってできる備え、起きたときにすぐすること、その後の立て直し方を、順番に読めるようにまとめました。",
+  "rowTitle": "{label}：知る・備える・起きたとき・立て直す",
+  "rowLead": "「{label}」について、研究や公的な資料でわかっていること、前もってできる備え、起きたときにすぐすることと相談先、その後の立て直し方を、順番に読めます。",
+  "stages": [
+   {
+    "id": "know",
+    "stage": "知る",
+    "label": "知る",
+    "q": "研究や公的な資料でわかっていること"
+   },
+   {
+    "id": "prepare",
+    "stage": "備える",
+    "label": "備える",
+    "q": "起きる前にできる設定・ルール・確かめ方"
+   },
+   {
+    "id": "happened",
+    "stage": "起きた",
+    "label": "起きたとき",
+    "q": "起きた直後にすること・相談先"
+   },
+   {
+    "id": "recover",
+    "stage": "立て直す",
+    "label": "立て直す",
+    "q": "対処したあとの気持ちや生活の立て直し"
+   }
+  ]
+ },
+ "extraNav": [
+  {
+   "label": "症状と対処の一覧",
+   "path": "/symptoms/"
+  },
+  {
+   "label": "悩み別ガイド",
+   "path": "/guide/"
+  },
+  {
+   "label": "訂正の記録",
+   "path": "/corrections/"
+  }
+ ],
+ "apps": [
+  {
+   "id": "active-recall",
+   "name": "おもいだしトレーニング",
+   "appStoreId": "6801937769",
+   "icon": "/img/apps/active-recall.webp",
+   "catch": "覚えたい範囲を入れるか教科書を撮ると、AIが一問一答を作る。何も見ずに答えを書いて、忘れかけた頃に復習日が回ってくる",
+   "hubLead": "AIに頼らず自分の頭で思い出せるようにするための、記憶と練習の研究です。",
+   "theme": "AIなしで思い出す・書く練習、試験対策。AIの使い方そのものの記事には付けない",
+   "articles": [
+    "no-ai-exam-interview-freeze"
+   ]
+  }
+ ],
+ "toolbox": [
+  {
+   "name": "詐欺チェッカー",
+   "desc": "届いたSMS・メールの文面が怪しいかを、その場で無料で確かめる",
+   "href": "https://tantei.seadice.win/check/",
+   "cats": [
+    "詐欺・なりすまし",
+    "偽情報・ディープフェイク"
+   ]
+  },
+  {
+   "name": "Decoy Notes（ダミー付き暗号メモ）",
+   "desc": "正しい合言葉なら本物、ちがう合言葉ならダミーのメモが開く。暗号化してブラウザ内だけに保存",
+   "href": "https://seadice.win/tools/decoy-notes/",
+   "cats": [
+    "プライバシー・個人情報"
+   ]
+  },
+  {
+   "name": "こまめ休憩タイマー",
+   "desc": "10分作業→90秒休憩を自動でくり返す、集中を保つためのタイマー",
+   "href": "https://seadice.win/tools/kyukei-timer/",
+   "cats": [
+    "考える力・集中",
+    "AIに頼りすぎ"
+   ]
+  },
+  {
+   "name": "先に動く5分タイマー",
+   "desc": "やる気を待たずに5分だけ動き、前後の気分を記録する（行動活性化の研究がもと）",
+   "href": "https://seadice.win/tools/saki-ni-ugoku/",
+   "cats": [
+    "仕事・キャリア",
+    "心の疲れ・比べて落ち込む"
+   ],
+   "all": true
+  },
+  {
+   "id": "active-recall",
+   "name": "思い出しトレーニング",
+   "desc": "覚えたい範囲から一問一答をつくり、間隔をあけた復習を自動で管理する",
+   "appStoreId": "6801937769",
+   "cats": [
+    "AIに頼りすぎ",
+    "考える力・集中",
+    "子ども・学校"
+   ]
+  },
+  {
+   "id": "hikaku-tomeru",
+   "name": "SNS比較疲れ対策",
+   "desc": "SNSを見た後のモヤモヤをその場で話して、気持ちを整理する",
+   "appStoreId": "6802040116",
+   "cats": [
+    "心の疲れ・比べて落ち込む"
+   ]
+  },
+  {
+   "id": "hitori-time",
+   "name": "ひとりじかんノート",
+   "desc": "孤独を治すのではなく、ひとり時間の質を上げる過ごし方を提案・記録する",
+   "appStoreId": "6797715532",
+   "cats": [
+    "人間関係・孤独"
+   ]
+  },
+  {
+   "id": "renshu-sns",
+   "name": "れんしゅうSNS",
+   "desc": "知らない人のDM・悪口・詐欺リンクなど20の場面を、本物のSNSの前に安全に練習（子ども向け）",
+   "appStoreId": "6820029513",
+   "cats": [
+    "子ども・学校"
+   ]
+  },
+  {
+   "id": "cognitive-bias-guide",
+   "name": "認知バイアス",
+   "desc": "確証バイアス・同調など80種類の認知バイアスを、例・対策・もとになった研究つきで解説",
+   "appStoreId": "6791445664",
+   "cats": [
+    "偽情報・ディープフェイク",
+    "仕事・キャリア",
+    "創作・著作権"
+   ],
+   "all": true
+  }
+ ],
+ "mastheadHtml": "<div class=\"tr-mast\"><p class=\"tr-kick\">TROUBLESHOOTING</p><h1>AI時代の<br>困りごと</h1><p class=\"tr-tag\">%TAGLINE%</p><p class=\"tr-lead\">%LEAD%</p><dl class=\"tr-meta\"><div><dt>症状</dt><dd>%POSTS%</dd></div><div><dt>分類</dt><dd>%CATS%</dd></div><div><dt>広告</dt><dd>0</dd></div></dl></div><!--mastend-->",
+ "extraCss": "nav.top{background:#FFFFFF;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:2px solid #111418}.nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#111418;color:#111418}nav.top a.r{color:#111418;font-weight:700;letter-spacing:.04em}h1{background:none;-webkit-text-fill-color:#111418;color:#111418}.tr-mast{padding:20px 0 28px;margin-bottom:28px;border-bottom:1px solid #111418}.tr-kick{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;font-size:12px;letter-spacing:.2em;color:#1A44C2;font-weight:700}.tr-mast h1{font-size:clamp(34px,8vw,52px);line-height:1.2;font-weight:800;letter-spacing:.02em;margin-top:8px}.tr-tag{font-size:17px;font-weight:700;margin-top:12px}.tr-lead{font-size:15px;line-height:1.85;margin-top:8px;max-width:640px;color:#2A3038}.tr-meta{display:grid;grid-template-columns:repeat(3,1fr);max-width:420px;margin-top:18px;border:1px solid #111418}.tr-meta div{display:flex;flex-direction:column-reverse;padding:8px 10px;border-left:1px solid #111418}.tr-meta div:first-child{border-left:0}.tr-meta dt{font-size:12px;color:#4A5260}.tr-meta dd{font-size:22px;font-weight:800;line-height:1.3}.chips{display:grid;grid-template-columns:1fr 1fr;gap:0;border-top:1px solid #111418;counter-reset:sym}@media(min-width:620px){.chips{grid-template-columns:repeat(3,1fr)}}@media(min-width:900px){.chips{grid-template-columns:repeat(5,1fr)}}.chip{display:flex;align-items:center;gap:8px;min-height:48px;border:0;border-bottom:1px solid #C9CDD3;border-radius:0;background:#FFFFFF;padding:10px 8px;font-size:14px;line-height:1.4}.chip::before{counter-increment:sym;content:counter(sym,decimal-leading-zero);font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;font-weight:700;color:#1A44C2}.chip svg{display:none}.chip:hover{color:#1A44C2;background:#F3F5F8}h2.sec{font-size:13px;font-weight:700;color:#111418;letter-spacing:.1em}h2.cat{border-left:0;padding:12px 0 0;border-top:2px solid #111418}h2.cat svg{fill:#1A44C2}.card{border:1px solid #111418;border-radius:0}.card:hover{transform:none;border-color:#1A44C2}.th{background:#F3F5F8}.th svg{fill:#1A44C2}.tag{color:#111418;border-color:#111418;border-radius:0}.ty{color:#FFFFFF;border-radius:0}.about,.trust div,.faq details,.empty{border-radius:0;border-color:#111418}.tbtop .tbh{color:#111418}.tbgrid .tbi{border:1px solid #111418;border-radius:0}.tbgrid .tbi:hover{border-color:#1A44C2}.tbic{border-radius:0;background:#F3F5F8}.tbgo{border-radius:0;color:#FFFFFF}a:focus-visible,summary:focus-visible,button:focus-visible{border-radius:0}",
+ "articleCss": ":root{--bg:#FFFFFF;--card:#FFFFFF;--accent:#1A44C2;--accent2:#1A44C2;--border:#C9CDD3;--text:#111418;--muted:#4A5260;--body:#2A3038;--link:#1A44C2;--soft:#F3F5F8;--soft2:#F3F5F8}nav{background:#FFFFFF!important;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:2px solid #111418}.nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#111418;color:#111418}nav a.r{color:#111418;font-weight:700}.tag{background:none;border:1px solid #111418;color:#111418;border-radius:0}.ai-badge,.answer,.study,.step,.note,details,.idea,.stat,.related a,.prevnext a,.tbx,.tbgrid .tbi,.tbic,.tbgo,.unknown,.evidence .lv,.hero img,.related .rt{border-radius:0}.summary{background:#FFFFFF;border:1px solid #111418;border-radius:0}.summary h2{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;letter-spacing:.16em}h2.sec{border-top:2px solid #111418;padding-top:14px}h2.sec .n{font-family:ui-monospace,\"SFMono-Regular\",Menlo,monospace;font-weight:700;letter-spacing:.14em}.answer{background:#F3F5F8;border:1px solid #111418;font-weight:700}.study,.step,details,.stat,.related a,.prevnext a{border-color:#111418}.step .num{border-radius:0;color:#FFFFFF}.idea{background:#F3F5F8}.unknown{border-color:#111418}.tbx{border-color:#111418}.tbgo{color:#FFFFFF}a:focus-visible,summary:focus-visible,button:focus-visible{border-radius:0}",
+ "symptomTable": {
+  "path": "symptoms",
+  "title": "症状と対処の一覧",
+  "lead": "AIで起きた困りごとを、症状から引けるように{n}件を1枚の表にしました。番号は「分類-その分類の何件目か」です。各行の下は、研究や公的機関の資料からわかった、まずやることです。くわしい根拠と出典は、症状をタップした先の記事にあります。",
+  "desc": "AIで起きた困りごと{n}件を、症状とまずやることの表にまとめました。仕事・心の疲れ・AIへの依存・詐欺・偽情報・個人情報・著作権・子どもとAIの10分類。出典は各記事に。",
+  "top": 6,
+  "topStage": "起きた",
+  "topTitle": "よくある症状と対処"
+ }
+}

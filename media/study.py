@@ -24,6 +24,8 @@
     name, path, url, tagline, description, lead, titleSuffix, faq[[q,a]]
   見た目:
     theme        {accent, accentDark, soft, softDark, ink?(既定#FFFFFF), inkDark}  CSS変数 --accent / --soft / --accent-ink を作る
+    extraCss     講座ごとのテーマのCSS（共通CSSの後ろに足す）。書体はOS標準のもの（例: 明朝体）だけ。外部フォント・画像は使わない
+    symbol       トップの線画シンボル（viewBox 0 0 64 64 の中身。既定は study.py の SYMBOLS）
     icon         ファビコンの1文字（例: 貿）
     logoSub      ロゴ横の小見出し（例: 貿易実務を無料で学ぶ）
     extraNav     [{href, label, footer}] ヘッダーとフッターに足す分野固有のリンク（例: 模擬試験 /c/）
@@ -51,6 +53,8 @@
     llmsIntro    [行] llms.txt の冒頭の説明文
   任意:
     practice     [[名前, URL, 説明]] 講座の外の演習ツール
+    apps         公開済みアプリとの相互送客（media/apps.py と同じ形）。[{id, name, appStoreId, icon, catch, hubLead, lessons[レッスンid]}]
+                 lessons のレッスンの出典の直前にアプリカードを出し、アプリ用ページ /apps/{id}/ を生成する（アプリからはこのURLだけにリンクする）
     exam         本番形式の模擬試験コーナー（/{path}）。{path, kicker, h1, meta, lead, start, overview[li], note, crumb, title, desc, appName, faq[[q,a]]}
     forbidWords  [語] 他分野の文言の混入検査。生成した全ページにこれらの語があればエラー
     tool         分野の看板ツール（study.md 8章）。{path(例 sagasu/), title, h1, kicker, navLabel(ヘッダー・フッターのリンク名), desc(meta。120字以内),
@@ -58,6 +62,11 @@
                  data は {date, items[{id, label, lead?, systems[{name, who?, desc, window, lessons[レッスンid]}]}]}。
                  JSなしでも全項目を本文として表示し、tool.js（外部リクエストなし）は選んだ項目だけに絞り込む（URLの #id で戻るボタンも効く）。
                  --check で lessons のidが講座に実在すること、金額（円・%）を書いていないことを検査する
+                 kind: "experiments" のときは体験型（判断のくせを体験して研究の結果と比べる）。data は {date, items[{id, title, q, choices?[2〜4], result, explain, lessons[レッスンid], source}]}。
+                 答えは details で開くのでJS不要・送信なし。--check で必須キーとレッスンidを検査する（研究の数値は書いてよい）
+                 kind: "checklist" のときはチェックリスト型（学んだことを日常で使う）。data は {date, items[{id, title, principle, lead, lessons[レッスンid],
+                 checks[{id, text, why}]}], sources[{text, url}]}。JSなしでも印刷できるチェック表として読め、tool.js はできている数・グループごとの数・
+                 まだの項目を出し、「記録する」でこのブラウザ（localStorage）に日付つきで残して前回と比べる。送信なし。
 
 レッスンの形式（study.md 5章）:
   新形式 question / review / sections / figure / apply / keep / terms / quiz[apply] / sources を、study.md 4章の並びで表示する。
@@ -70,8 +79,10 @@
   設定 quizName（例: 犯罪学クイズ）、quizRanks（成績の称号4段階）。間違えた記録は study.js と共通（同じ問題id）。
   進み具合（読み終えたボタン・確認問題を解き終えたら既読、講座ページとトップに既読と「続きから読む」）、
   確認問題の正誤と解説・間違えた問題の記録、/review/（間違えた問題だけを解き直す）、/cards/（用語の暗記カード、ライトナー方式）。
-  JSが無効でも本文は読め、確認問題は <details> で答えを見られる。"""
-import base64, html, json, re, shutil, sys, tempfile
+  JSが無効でも本文は読め、確認問題は <details> で答えを見られる。
+わたしの学習（/me/、me.js）: 進み具合・連続日数・間違えた問題・覚えた用語・章ごとの進み具合とテストのベストを1ページで見せる。
+  記録（localStorage の study:{slug} と check:{slug}:*）をJSONファイルに書き出し・読み込み（置き換え）・消去できる。登録なし・送信なし。"""
+import html, json, re, shutil, sys, tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -150,7 +161,7 @@ h1{font-size:clamp(26px,6vw,36px);line-height:1.35;font-weight:800;letter-spacin
 .lead{font-size:18px;color:var(--sub);margin:0 0 28px}
 h2{font-size:23px;line-height:1.45;font-weight:800;margin:56px 0 12px;padding-top:6px}h2 .n{display:block;font-size:13px;color:var(--accent);letter-spacing:.12em;margin-bottom:2px}
 h3{font-size:18px;font-weight:800;margin:28px 0 8px}
-p{margin:14px 0}.answer{font-weight:700;color:var(--text);border-left:4px solid var(--accent);padding:2px 0 2px 14px;margin:10px 0 18px}strong{font-weight:800;background:linear-gradient(transparent 62%%,var(--soft) 62%%)}
+p{margin:14px 0}.answer{font-weight:600;color:var(--text);border-left:3px solid var(--accent);padding:0 0 0 14px;margin:10px 0 18px}strong{font-weight:800;background:linear-gradient(transparent 62%%,var(--soft) 62%%)}
 .box{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:20px 22px;margin:20px 0}.box h2,.box .bt{font-size:15px;font-weight:800;color:var(--accent);letter-spacing:.06em;margin:0 0 8px;padding:0}
 .box ul,.box ol{padding-left:22px}.box li{margin:6px 0}
 .box.key{background:var(--soft);border-color:transparent}.box.note{background:var(--note);border-color:transparent;font-size:15px}
@@ -163,9 +174,10 @@ p{margin:14px 0}.answer{font-weight:700;color:var(--text);border-left:4px solid 
 ol.lessons{list-style:none;margin:10px 0 0}ol.lessons li{margin:0;border-top:1px solid var(--line)}ol.lessons a{display:flex;gap:10px;padding:10px 2px;text-decoration:none;color:var(--text);font-size:15px;line-height:1.6}ol.lessons a:hover{color:var(--accent)}ol.lessons .no{flex:0 0 42px;color:var(--muted);font-variant-numeric:tabular-nums}
 ol.lessons a[aria-current]{color:var(--accent);font-weight:700}ol.lessons .ck{margin-left:auto;flex:0 0 auto;font-size:12px;font-weight:700;color:var(--ok);border:1px solid currentColor;border-radius:999px;padding:0 8px;align-self:center}
 .card ol.lessons span.no,.card ol.lessons span.ck{display:inline;margin-top:0}
+.card p>a>span.ck{display:inline;margin:0 0 0 8px;font-size:12px;font-weight:700;color:var(--ok);border:1px solid currentColor;border-radius:999px;padding:0 8px}.score .best{margin:10px 0 0;font-weight:700}.resume .streak{font-weight:700}
 .chips{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}.chips a{font-size:14px;color:var(--text);text-decoration:none;background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:8px 14px}.chips a:hover{border-color:var(--accent);color:var(--accent)}
 table{width:100%%;border-collapse:collapse;margin:16px 0;font-size:15px;background:var(--paper)}th,td{border:1px solid var(--line);padding:10px 12px;text-align:left;vertical-align:top;line-height:1.7}th{background:var(--soft);font-weight:700}
-@media(max-width:640px){table,tbody,tr,td{display:block;width:100%%}thead{display:none}tr{border:1px solid var(--line);border-radius:12px;margin:12px 0;padding:6px 0;background:var(--paper)}td{border:0;padding:5px 14px}td::before{content:attr(data-l);display:block;font-size:12px;color:var(--muted)}}
+.tw{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:16px 0}.tw table{margin:0}.tw th,.tw td{min-width:6.5em}@media(max-width:640px){.tw table{font-size:14px}.tw th,.tw td{padding:8px 10px}}
 figure.fig{margin:24px 0}figure.fig figcaption{font-size:14px;color:var(--muted);margin-top:6px}figure.fig svg{display:block;width:100%%;height:auto;max-width:640px;margin:0 auto}
 ul.sw{list-style:none;display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:10px}ul.sw li{font-size:14px;line-height:1.5}ul.sw span{display:block;height:56px;border-radius:10px;border:1px solid var(--line);margin-bottom:4px}ul.sw code{display:block;font-size:12px;color:var(--muted)}
 .term{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:12px 0}.term .tt{font-size:17px;font-weight:800;line-height:1.5}.term .en{font-size:13px;color:var(--muted);font-weight:600;margin-left:6px}.term p{margin:6px 0 0;font-size:15px;color:var(--sub)}.term .more{display:inline-block;margin-top:8px;font-size:14px}
@@ -175,7 +187,7 @@ details{background:var(--paper);border:1px solid var(--line);border-radius:14px;
 .qz button:disabled{cursor:default}.qz button.ok{border:2px solid var(--ok);background:color-mix(in srgb,var(--ok) 12%%,var(--paper))}.qz button.ng{border:2px solid var(--ng);background:color-mix(in srgb,var(--ng) 10%%,var(--paper))}
 .qz .res{font-weight:800;margin:10px 0 0}.qz .res:empty{display:none}.qz .res.ok{color:var(--ok)}.qz .res.ng{color:var(--ng)}.qz details{margin:10px 0 0;border-style:dashed}.qz details summary{font-size:14px;color:var(--accent);padding:10px 14px}.qz details p{padding:0 14px 12px;margin:0;font-size:15px;color:var(--sub)}.qz .ans{color:var(--ok);font-weight:700}
 .score{font-size:17px;font-weight:800;margin:16px 0 0}.score:empty{display:none}.score ul{font-size:15px;font-weight:400;margin:8px 0 0 20px}
-.review{background:var(--soft);border-radius:16px;padding:18px 20px;margin:20px 0}.review .bt{font-size:15px;font-weight:800;color:var(--accent);letter-spacing:.06em;margin:0 0 4px}.review>p{font-size:14px;color:var(--sub);margin:0 0 6px}
+.review{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:16px 18px;margin:20px 0}.review .qz{background:var(--bg);margin-bottom:0}.review .bt{font-size:15px;font-weight:800;color:var(--accent);letter-spacing:.06em;margin:0 0 4px}.review>p{font-size:14px;color:var(--sub);margin:0 0 6px}
 .pn{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:40px 0 0}.pn a{display:block;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:12px 16px;text-decoration:none;color:var(--text);font-size:14px;line-height:1.5}.pn a:hover{border-color:var(--accent)}.pn small{display:block;font-size:12px;color:var(--accent);font-weight:700}.pn .nx{text-align:right;grid-column:2}
 @media(max-width:520px){.pn{grid-template-columns:1fr}.pn .nx{grid-column:1}}
 .final{margin:48px 0 0;background:var(--paper);border:2px solid var(--accent);border-radius:20px;padding:22px 20px 10px}.final h2{margin:0 0 10px;padding:0}.final .fk{font-size:13px;font-weight:800;color:var(--accent);letter-spacing:.12em;margin:0 0 4px}.final details{background:var(--bg)}
@@ -186,7 +198,7 @@ details.srcs{margin-top:40px}details.srcs summary{font-size:15px;color:var(--mut
 .ex li{margin:6px 0}.ex small{color:var(--muted)}
 .resume{background:var(--paper);border:2px solid var(--accent);border-radius:16px;padding:16px 20px;margin:0 0 28px}.resume p{margin:0 0 8px;font-size:15px;color:var(--sub)}.resume .btns{margin:0}
 .fc{background:var(--paper);border:2px solid var(--accent);border-radius:20px;padding:28px 22px;text-align:center;margin:20px 0}.fc .fw{font-size:26px;font-weight:800;line-height:1.4}.fc .fe{font-size:14px;color:var(--muted);margin:4px 0 0}.fc .fd{font-size:16px;color:var(--sub);text-align:left;margin:18px 0 0}.fc .btns{justify-content:center;margin:20px 0 0}.fc .fn{font-size:13px;color:var(--muted);margin:16px 0 0}
-footer.site{border-top:1px solid var(--line);padding:28px 16px;text-align:center;font-size:13px;color:var(--muted);line-height:2.2}footer.site a{color:var(--muted);margin:0 8px;text-decoration:none}footer.site a:hover{text-decoration:underline}footer.site .other{margin-top:10px}footer.site .other b{display:block;font-weight:700}
+footer.site{border-top:1px solid var(--line);padding:28px 16px;text-align:center;font-size:13px;color:var(--muted);line-height:2.2}footer.site a{color:var(--muted);display:inline-block;padding:4px 6px;margin:2px 2px;text-decoration:none}footer.site a:hover{text-decoration:underline}footer.site .other{margin-top:10px}footer.site .other b{display:block;font-weight:700}
 .hero{padding:20px 0 4px}.hero h1{font-size:clamp(32px,8vw,48px)}.hero .tag{font-size:16px;font-weight:700;color:var(--accent);margin-bottom:6px}
 .stats{display:flex;flex-wrap:wrap;gap:8px 18px;font-size:14px;color:var(--muted);margin:-12px 0 28px}.stats b{color:var(--text);font-size:16px}
 .g-modes{display:grid;gap:12px;grid-template-columns:1fr;margin:8px 0 10px}@media(min-width:680px){.g-modes{grid-template-columns:1fr 1fr 1fr}}
@@ -211,54 +223,77 @@ footer.site{border-top:1px solid var(--line);padding:28px 16px;text-align:center
 .g-miss{list-style:none;display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:10px 0 0}.g-miss a{display:inline-block;font-size:14px;border:1px solid var(--line);border-radius:999px;padding:6px 12px;text-decoration:none}.g-res .btns{justify-content:center;margin:20px 0 0}.g-res .g-share{margin:10px 0 0}
 @keyframes g-pop{0%%{transform:scale(.7);opacity:0}70%%{transform:scale(1.08)}100%%{transform:scale(1);opacity:1}}@keyframes g-shake{25%%{transform:translateX(-5px)}75%%{transform:translateX(5px)}}
 @media(prefers-reduced-motion:reduce){.g-ok,.g-pop,.g-rank,.g-ch.ng{animation:none}.g-mode,.g-chb{transition:none}}
+.me-st{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:0 0 24px}@media(min-width:680px){.me-st{grid-template-columns:repeat(4,1fr)}}
+.me-st div{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:12px 14px}.me-st small{display:block;font-size:12px;font-weight:700;color:var(--muted)}.me-st b{display:block;font-size:24px;font-weight:800;line-height:1.3;font-variant-numeric:tabular-nums}.me-st em{display:block;font-style:normal;font-size:12px;color:var(--muted)}
+.me-row .me-bar{display:block;height:8px;border-radius:4px;background:var(--line);margin:10px 0 2px;overflow:hidden}.me-row .me-bar i{display:block;height:100%%;width:0;background:var(--ok)}.me-row .me-n{font-size:13px;color:var(--muted);margin:0}
+.me-row details{margin:8px 0 0;background:var(--bg)}.me-row summary{font-size:14px;padding:8px 14px}.me-row details ol.lessons{padding:0 12px 6px}.me-row p{margin:8px 0 0;font-size:14px;font-weight:700}.me-row .me-q{font-size:13px;font-weight:700;color:var(--ok);margin:4px 0 0}.me-row .me-q:empty{display:none}
+.me-file{position:absolute;width:1px;height:1px;opacity:0}.me-msg{font-weight:700;color:var(--ok)}.me-msg:empty{display:none}
+.hero{display:flex;align-items:center;gap:20px;justify-content:space-between}.hero .sym{flex:0 0 auto;width:72px;height:72px;color:var(--accent);background:var(--soft);border-radius:22px;padding:12px}@media(min-width:680px){.hero .sym{width:104px;height:104px;border-radius:30px;padding:18px}}
+.sym svg{display:block;width:100%%;height:100%%;fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}.sym text{fill:currentColor;stroke:none}
+.tiles{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:4px 0 8px}@media(min-width:680px){.tiles{grid-template-columns:repeat(4,1fr)}.tiles.c3{grid-template-columns:repeat(3,1fr)}}
+.tiles a{display:block;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:12px 14px;text-decoration:none;color:var(--text)}.tiles a:hover{border-color:var(--accent)}.tiles b{display:block;font-size:15px;line-height:1.5}.tiles span{display:block;font-size:12px;color:var(--muted);line-height:1.6;margin-top:2px}
+ol.map{list-style:none;margin:12px 0 0;border-top:1px solid var(--line)}ol.map li{border-bottom:1px solid var(--line)}ol.map a,ol.map .row{display:flex;align-items:center;gap:14px;padding:12px 2px;text-decoration:none;color:var(--text)}ol.map a:hover b{color:var(--accent)}
+.mn{flex:0 0 34px;height:34px;border-radius:50%%;border:2px solid var(--accent);color:var(--accent);font-weight:800;font-size:14px;display:flex;align-items:center;justify-content:center;font-variant-numeric:tabular-nums}
+ol.map li.done .mn{background:var(--accent);color:var(--accent-ink)}ol.map b{display:block;font-size:16px;line-height:1.5}ol.map small{display:block;font-size:12px;color:var(--muted)}.mp-n{margin-left:auto;flex:0 0 auto;font-size:12px;font-weight:700;color:var(--ok)}
+.map-soon{margin:12px 0 0}.map-soon .mn{border-color:var(--line);color:var(--muted)}.map-soon ol.map{border-top:0;padding:0 16px 6px}.map-soon ol.map li:last-child{border-bottom:0}
 [hidden]{display:none!important}"""
 
 
 def css():
     th = {"accent": "#0B6380", "accentDark": "#6CCBE3", "soft": "#E3F1F5", "softDark": "#1C2E36", "ink": "#FFFFFF", "inkDark": "#0E1A20"}
     th.update(CFG.get("theme", {}))
-    return BASE_CSS % th
+    return BASE_CSS % th + CFG.get("extraCss", "")  # extraCss: 講座ごとのテーマ（メディアの extraCss と同じ考え方）。% はそのまま書いてよい
 
 
 def favicon():
-    color = CFG.get("theme", {}).get("accent", "#0B6380")
-    svg = (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="{color}"/>'
-           f'<text x="32" y="44" font-size="34" font-family="-apple-system,sans-serif" font-weight="800" text-anchor="middle" fill="#fff">{E(CFG.get("icon", NAME[-1]))}</text></svg>')
-    return f'<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,{base64.b64encode(svg.encode()).decode()}">'
+    import favicon as fav  # メディアと同じピクトグラムのファビコン（media/favicon.py）
+    return fav.tag(OUT, CFG.get("theme", {}).get("accent", "#0B6380"))
 
 
 # ---------------- 学習機能のJS（全サイト共通・外部リクエストなし） ----------------
 STUDY_JS = r"""(function(){'use strict';
 var KEY='study:'+(document.documentElement.getAttribute('data-site')||'x'),S=null,OK=true;
-function load(){if(S)return S;try{S=JSON.parse(localStorage.getItem(KEY)||'{}')||{}}catch(e){S={};OK=false}S.read=S.read||{};S.miss=S.miss||{};S.cards=S.cards||{};return S}
+function load(){if(S)return S;try{S=JSON.parse(localStorage.getItem(KEY)||'{}')||{}}catch(e){S={};OK=false}S.read=S.read||{};S.miss=S.miss||{};S.cards=S.cards||{};S.best=S.best||{};return S}
 function save(){try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){OK=false}}
 function $(s,r){return(r||document).querySelectorAll(s)}
 function esc(t){var d=document.createElement('i');d.textContent=t;return d.innerHTML}
 function today(){return Math.floor((Date.now()-new Date().getTimezoneOffset()*6e4)/864e5)}
 load();
+/* 学んだ日（レッスンを読み終えた・問題を解いた日）と連続日数 */
+function studied(){var t=today(),st=S.st||{d:0,n:0};if(st.d!==t){st.n=st.d===t-1?st.n+1:1;st.d=t}S.st=st}
+/* 章末テスト・模擬試験のベストスコア（ページ単位。PARTが分かれていても合算） */
+var TP=$('.quiz[data-mode="test"] .qz'),TN=TP.length,TA=0,TO=0;
 /* 確認問題 */
 function setupQuiz(z,onAnswer){var qs=$('.qz',z),n=0,ok=0,miss={};
 qs.forEach(function(q){var bs=$('button',q),a=+q.dataset.a;bs.forEach(function(b,i){b.addEventListener('click',function(){if(q.dataset.done)return;q.dataset.done=1;n++;
 var r=q.querySelector('.res'),id=q.dataset.q;if(i===a){ok++;r.textContent='正解です';r.className='res ok';if(id&&S.miss[id]){delete S.miss[id]}}
 else{miss[q.dataset.h]=q.dataset.t;r.textContent='惜しい。正解は '+(a+1)+' です。解説を読んでみましょう';r.className='res ng';if(id)S.miss[id]={l:q.dataset.h,t:Date.now()}}
 save();bs.forEach(function(x,j){x.disabled=true;if(j===a)x.classList.add('ok');else if(j===i)x.classList.add('ng')});var d=q.querySelector('details');d.open=true;d.querySelector('summary').textContent='解説';
-if(onAnswer)onAnswer(q,i===a);
+studied();save();if(onAnswer)onAnswer(q,i===a);
 if(n===qs.length){var s=z.querySelector('.score');if(s){var k=Object.keys(miss),h=qs.length+'問中'+ok+'問正解。';
 if(!k.length)h+='全問正解です。';else if(z.dataset.mode==='test')h+='次のレッスンを読み直すと、迷ったところがはっきりします。<ul>'+k.map(function(u){return '<li><a href="'+u+'">'+miss[u]+'</a></li>'}).join('')+'</ul>';
 else if(z.dataset.mode!=='review'&&z.dataset.mode!=='redo')h+='迷った問題は<a href="/review/">復習ページ</a>に自動で入りました。';s.innerHTML=h}
-if(z.dataset.l)markRead(z.dataset.l,true)}})})})}
+if(z.dataset.l)markRead(z.dataset.l,true)}
+if(z.dataset.mode==='test'&&TN){TA++;if(i===a)TO++;if(TA===TN){var kp=location.pathname,b=S.best[kp],nb=!b||TO>b.ok;if(nb){S.best[kp]={ok:TO,n:TN,d:today()};save()}
+var s2=z.querySelector('.score');if(s2){var p=document.createElement('p');p.className='best';p.textContent=nb?(b?'ベストスコアを更新しました（前回のベスト '+b.ok+'/'+b.n+'問）':'このテストの記録を残しました。次はこの点数を超えるのが目標です'):'これまでのベスト: '+b.ok+'/'+b.n+'問';s2.appendChild(p)}}}})})})}
 /* 進み具合 */
-function markRead(id,on){if(on){S.read[id]=today();S.last=id}else delete S.read[id];save();$('.mark').forEach(function(b){if(b.dataset.l===id)paint(b)})}
+function markRead(id,on){if(on){S.read[id]=today();S.last=id;studied()}else delete S.read[id];save();$('.mark').forEach(function(b){if(b.dataset.l===id)paint(b)})}
 function paint(b){var on=!!S.read[b.dataset.l];b.setAttribute('aria-pressed',on?'true':'false');b.textContent=on?'読み終えました（もう一度押すとチェックを外せます）':'このレッスンを読み終えた'}
 $('.mark').forEach(function(b){b.hidden=false;paint(b);b.addEventListener('click',function(){markRead(b.dataset.l,!S.read[b.dataset.l])})});
 $('.quiz').forEach(function(z){if(z.dataset.mode!=='redo')setupQuiz(z)});
 var items=$('li[data-l]'),seen={},order=[];items.forEach(function(li){var id=li.dataset.l;if(S.read[id]&&!li.querySelector('.ck')){var c=document.createElement('span');c.className='ck';c.textContent='読了';li.firstChild.appendChild(c)}
 if(!seen[id]){seen[id]=1;order.push(li)}});
+$('a[href]').forEach(function(a){var b=S.best[a.getAttribute('href')];if(b&&!a.querySelector('.ck')){var c=document.createElement('span');c.className='ck';c.textContent='ベスト '+b.ok+'/'+b.n;a.appendChild(c)}});
 var rs=$('.resume');if(rs.length&&order.length){var done=order.filter(function(li){return S.read[li.dataset.l]}).length,mk=Object.keys(S.miss).length,at=0;
 order.forEach(function(li,i){if(li.dataset.l===S.last)at=i+1});var nx=null;for(var i=0;i<order.length&&!nx;i++){var li=order[(at+i)%order.length];if(!S.read[li.dataset.l])nx=li}
-if(done||mk)rs.forEach(function(r){var h='<p>'+order.length+'レッスン中 '+done+'レッスンを読みました。</p><div class="btns">';
+if(done||mk||S.st)rs.forEach(function(r){var h='<p>'+order.length+'レッスン中 '+done+'レッスンを読みました。</p>';
+if(S.st){var g=today()-S.st.d,dt=new Date(S.st.d*864e5),ds=(dt.getUTCMonth()+1)+'月'+dt.getUTCDate()+'日';
+h+='<p class="streak">'+(g===0?'今日も学びました。連続 '+S.st.n+'日です。':g===1?'最後に学んだ日: '+ds+'（連続 '+S.st.n+'日）。今日も1レッスン進めると '+(S.st.n+1)+'日連続です。':'最後に学んだ日: '+ds+'（'+g+'日前）。今日の1レッスンから、また始めましょう。')+'</p>'}
+h+='<div class="btns">';
 if(nx)h+='<a class="btn" href="'+nx.querySelector('a').getAttribute('href')+'">続きから読む: '+esc(nx.dataset.s)+'</a>';
-if(mk)h+='<a class="btn sub" href="/review/">間違えた問題を解き直す（'+mk+'問）</a>';r.innerHTML=h+'</div>';r.hidden=false})}
+if(mk)h+='<a class="btn sub" href="/review/">間違えた問題を解き直す（'+mk+'問）</a>';if(location.pathname!=='/me/')h+='<a class="btn sub" href="/me/">わたしの学習を見る</a>';r.innerHTML=h+'</div>';r.hidden=false})}
+/* トップの章の地図 */
+$('ol.map li[data-ls]').forEach(function(r){var ls=r.dataset.ls.split(' '),n=ls.filter(function(id){return S.read[id]}).length;if(n){r.querySelector('.mp-n').textContent=n+'/'+ls.length;if(n===ls.length)r.classList.add('done')}});
 /* 復習ページ */
 var rv=document.getElementById('redo');if(rv){var qs=$('.qz',rv),c=0;qs.forEach(function(q){if(S.miss[q.dataset.q]){q.hidden=false;c++}});
 var m=document.getElementById('redo-msg');m.textContent=!OK?'このブラウザでは記録を保存できないため、復習リストを使えません。各章の章末テストで解き直せます。':(c?'解き直す問題は '+c+' 問です。正解した問題はリストから外れます。':'今は解き直す問題はありません。レッスンの確認問題で迷った問題が、ここに自動で集まります。');
@@ -332,7 +367,7 @@ def footer():
     other = ('<p class="other"><b>SEADICE STUDYの他の講座</b>' + "".join(f'<a href="{E(s["url"], quote=True)}">{E(s["name"])}</a>' for s in others) + '</p>') if others else ""
     quiz = f'<a href="/quiz/">{E(quiz_name())}</a>' if has_quiz() else ''
     tool = f'<a href="/{CFG["tool"]["path"]}">{E(CFG["tool"]["navLabel"])}</a>' if CFG.get("tool") else ''
-    return (f'<footer class="site"><p><a href="/course/">{E(COURSE["title"])}</a>{tool}{extra}<a href="/glossary/">{T("glossaryName")}</a>{quiz}<a href="/review/">間違えた問題の復習</a><a href="/cards/">暗記カード</a><br>'
+    return (f'<footer class="site"><p><a href="/course/">{E(COURSE["title"])}</a>{tool}{extra}<a href="/glossary/">{T("glossaryName")}</a>{quiz}<a href="/me/">わたしの学習</a><a href="/review/">間違えた問題の復習</a><a href="/cards/">暗記カード</a><br>'
             '<a href="/about/">このサイトについて</a><a href="/sources/">出典と検証の方法</a><a href="/disclaimer/">免責事項</a><a href="mailto:hi@seadice.win">お問い合わせ</a><br>'
             f'<a href="https://seadice.win/">運営: SEADICE</a></p>{other}</footer>')
 
@@ -564,6 +599,8 @@ def check_output(out):
     if js.exists() and js.stat().st_size > 10 * 1024: errs.append(f"study.js が {js.stat().st_size} バイト（10KB以内）")
     js = out / "tool.js"
     if js.exists() and js.stat().st_size > 10 * 1024: errs.append(f"tool.js が {js.stat().st_size} バイト（10KB以内）")
+    js = out / "me.js"
+    if js.exists() and js.stat().st_size > 6 * 1024: errs.append(f"me.js が {js.stat().st_size} バイト（6KB以内）")
     js = out / "quiz.js"
     if js.exists() and js.stat().st_size > 12 * 1024: errs.append(f"quiz.js が {js.stat().st_size} バイト（12KB以内）")
     return sorted(set(errs)), len(files)
@@ -612,7 +649,7 @@ def features_first():
 def course_index():
     first = LESSONS[0][1] if LESSONS else None
     feats = [E(features_first())] + [E(fmt(x)) for x in CFG.get("courseFeatures", [])] + [
-        "読み終えたレッスンと、間違えた問題はこのブラウザに自動で記録されます（登録不要）。間違えた問題は「<a href=\"/review/\">復習</a>」で解き直せ、用語は「<a href=\"/cards/\">暗記カード</a>」で覚えられます。"]
+        "読み終えたレッスン、章末テストのベストスコア、連続で学んだ日数、間違えた問題は、このブラウザだけに自動で記録されます（登録不要・外部には送りません）。記録は「<a href=\"/me/\">わたしの学習</a>」でまとめて見られ、ファイルに書き出して別の端末に移せます。間違えた問題は「<a href=\"/review/\">復習</a>」で解き直せ、用語は「<a href=\"/cards/\">暗記カード</a>」で覚えられます。"]
     body = f'''<span class="kicker">{T("courseKicker")}</span>
 <h1>{E(COURSE["title"])}</h1>
 <p class="updated">全{N_CH}章 ・ 公開中 {N_LESSONS}レッスン ・ 更新日 {UPDATED}</p>
@@ -637,7 +674,7 @@ def figure_html(f):
     if f["kind"] == "table":
         head = "".join(f"<th>{E(h)}</th>" for h in f["head"])
         rows = "".join("<tr>" + "".join(f'<td data-l="{E(f["head"][j], quote=True)}">{E(c)}</td>' for j, c in enumerate(r)) + "</tr>" for r in f["rows"])
-        return f'<figure class="fig"><table><thead><tr>{head}</tr></thead><tbody>{rows}</tbody></table>{cap}</figure>'
+        return f'<figure class="fig"><div class="tw"><table><thead><tr>{head}</tr></thead><tbody>{rows}</tbody></table></div>{cap}</figure>'
     if f["kind"] == "svg":
         sv = f["svg"].strip()
         if "role=" not in sv[:200]:
@@ -674,7 +711,7 @@ def lesson_new(ch, li, l, idx, no, prev_l, next_l):
 {review}
 {CFG.get("careHtml", "") if ch.get("care") else ""}
 {secs}
-<div class="box apply"><p class="bt">あなたの場合は？</p><p>{E(l["apply"])}</p><p class="hint">答えを書く必要はありません。少し思い浮かべるだけで、記憶に残りやすくなります。</p></div>
+<div class="box apply"><p class="bt">あなたの場合は？</p><p>{E(l["apply"])}</p><p class="hint">答えを書く必要はありません。少し思い浮かべるだけで、記憶に残りやすくなります。</p></div>{tool_from_lesson(l)}
 <div class="box key"><p class="bt">覚えるのはこの3つ</p><ol>{"".join(f"<li>{rich_text(k)}</li>" for k in l["keep"])}</ol></div>
 {f'<h2><span class="n">TERMS</span>このレッスンの用語</h2>{terms}' if terms else ''}
 <section class="final" aria-labelledby="quiz-h">
@@ -744,6 +781,9 @@ def lesson(ci, li):
     next_l = LESSONS[idx + 1][1] if idx < len(LESSONS) - 1 else None
     no = f'{ch["no"]}-{li+1}'
     body = (lesson_new if is_new(l) else lesson_old)(ch, li, l, idx, no, prev_l, next_l)
+    app = next((a for a in CFG.get("apps", []) if l["id"] in a["lessons"]), None)
+    if app:
+        body = body.replace('<details class="srcs">', app_card(app) + '\n<details class="srcs">', 1)
     url = lurl(l)
     terms = l.get("terms", [])
     graph = [
@@ -760,6 +800,53 @@ def lesson(ci, li):
             {"@type": "DefinedTerm", "name": t["ja"], "alternateName": t["en"], "description": t["def"]} for t in terms]})
     return write(f'course/{l["id"]}/', f'{l["title"]}｜{fmt(CFG["lessonTag"])} {no} | {NAME}', l["description"], body, graph,
                  trail=[("講座", CURL), (f'第{ch["no"]}章 {ch["title"]}', CURL), (l["short"], url)], current="/course/")
+
+
+APP_CSS = (".appcard{display:flex;gap:14px;align-items:center;margin:28px 0;background:var(--paper);border:1.5px solid var(--accent);border-radius:14px;padding:16px}"
+           ".appcard img{flex:0 0 64px;width:64px;height:64px;border-radius:14px}.appcard .ab{min-width:0}"
+           ".appcard small{display:block;font-size:12px;color:var(--accent);margin-bottom:2px}.appcard b{display:block;font-size:16px;line-height:1.4}"
+           ".appcard p{font-size:14px;color:var(--muted);margin:4px 0 10px;line-height:1.6}"
+           ".appcard a.ast{display:inline-block;background:var(--accent);color:var(--bg);font-weight:700;font-size:14px;text-decoration:none;padding:10px 18px;border-radius:10px}"
+           ".appcard a.amore{display:inline-block;font-size:13px;color:var(--accent);margin-left:12px;padding:10px 0}")
+
+
+def app_store(app):
+    return f'https://apps.apple.com/app/id{app["appStoreId"]}?ct={CFG["slug"]}'
+
+
+def app_card(app, more=True):
+    """レッスン末尾のアプリカード（media/apps.py の card_html と同じ見た目）。CSS（APP_CSS）は apps があるサイトだけ build() で足す"""
+    return (f'<aside class="appcard" aria-label="関連アプリ"><img src="{app["icon"]}" alt="" width="64" height="64" loading="lazy">'
+            f'<div class="ab"><small>{"このレッスンの続きをスマホで" if more else "iPhoneアプリ"}</small><b>{E(app["name"])}</b><p>{E(app["catch"])}（無料・広告なし・iPhone）</p>'
+            f'<a class="ast" href="{app_store(app)}" target="_blank" rel="noopener">App Storeで見る</a>'
+            + (f'<a class="amore" href="/apps/{app["id"]}/">あわせて学ぶレッスン</a>' if more else '') + '</div></aside>')
+
+
+def app_pages():
+    """アプリ用ページ /apps/{id}/。アプリから入った人に、対応するレッスンと用語の学び方をまとめて見せる"""
+    urls = []
+    for app in CFG.get("apps", []):
+        ls = [(ch, x) for ch in COURSE["chapters"] for x in ch["lessons"] if x["id"] in app["lessons"]]
+        items = "".join(f'<a class="card" href="/course/{x["id"]}/"><small>第{ch["no"]}章 {E(ch["title"])}</small><b>{E(x["title"])}</b><span>{E(x["description"])}</span></a>' for ch, x in ls)
+        rel = f'apps/{app["id"]}/'
+        title = f'{app["name"]}を使っている人へ'
+        desc = f'{app["name"]}と一緒に学べる、{NAME}の無料レッスンをまとめました。{app["hubLead"]}'
+        body = f'''<span class="kicker">APP</span>
+<h1>{E(title)}</h1>
+<p class="lead">{E(app["hubLead"])}</p>
+{app_card(app, more=False)}
+<h2><span class="n">01</span>あわせて学ぶレッスン（{len(ls)}本）</h2>
+<p class="answer">アプリで覚えた単語が、実際の書類や契約でどう使われるかを学べます。いずれも無料・登録不要です。</p>
+<div class="grid">{items}</div>
+<h2><span class="n">02</span>用語をもっと覚える</h2>
+<p class="answer">用語の意味は{T("glossaryName")}で調べられ、暗記カードで繰り返し覚えられます。記録はこのブラウザだけに残ります。</p>
+<div class="btns"><a class="btn" href="/glossary/">{T("glossaryName")}を見る</a><a class="btn sub" href="/cards/">暗記カードで覚える</a><a class="btn sub" href="/course/">講座の目次へ</a></div>'''
+        graph = [{"@type": "CollectionPage", "name": title, "url": URL + rel, "description": desc, "inLanguage": "ja",
+                  "about": {"@type": "SoftwareApplication", "name": app["name"], "operatingSystem": "iOS", "applicationCategory": "EducationalApplication",
+                            "offers": {"@type": "Offer", "price": "0", "priceCurrency": "JPY"}, "url": f'https://apps.apple.com/app/id{app["appStoreId"]}'},
+                  "publisher": PUBLISHER}]
+        urls.append(write(rel, f"{title} | {NAME}", desc, body, graph, trail=[(title, URL + rel)]))
+    return urls
 
 
 def practice_html(h="もっと演習する"):
@@ -803,7 +890,19 @@ TOOL_CSS = """
 .tl-item{margin:28px 0 0;scroll-margin-top:72px}.tl-item h3{font-size:20px;margin:0 0 6px;outline:none}.tl-item>p{margin:6px 0 12px;color:var(--sub);font-size:15px}
 .tl-sys{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin:10px 0}.tl-sys .tl-n{font-size:17px;font-weight:800;line-height:1.5;margin:0}.tl-sys .tl-who{display:inline-block;font-size:12px;font-weight:700;color:var(--accent);background:var(--soft);border-radius:999px;padding:1px 10px;margin:4px 0 0}
 .tl-sys p{font-size:15px;margin:6px 0 0;line-height:1.75}.tl-sys .tl-w{color:var(--sub)}.tl-sys .tl-w b{font-size:12px;color:var(--muted);margin-right:6px}.tl-sys .tl-l a{display:inline-block;padding:4px 0;margin-right:12px}
-.tl-end{font-size:14px;color:var(--sub);background:var(--note);border-radius:12px;padding:10px 14px;margin:12px 0 0}.tl-end a{font-weight:700}"""
+.tl-end{font-size:14px;color:var(--sub);background:var(--note);border-radius:12px;padding:10px 14px;margin:12px 0 0}.tl-end a{font-weight:700}
+.ex-item{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:16px 18px;margin:16px 0;scroll-margin-top:72px}.ex-item h3{font-size:19px;margin:0 0 8px}.ex-q{font-size:16px;line-height:1.8;margin:0 0 10px}
+.ex-c{list-style:none;padding:0;margin:0 0 12px}.ex-c li{border:2px solid var(--line);border-radius:12px;padding:10px 14px;margin:6px 0;font-size:15px;line-height:1.6}
+.ex-item details{border-top:1px dashed var(--line);padding-top:10px}.ex-item summary{cursor:pointer;font-weight:800;color:var(--accent);min-height:44px;display:flex;align-items:center}
+.ex-r{background:var(--soft);border-radius:12px;padding:12px 14px;margin:8px 0;font-size:15px;line-height:1.8}.ex-item details p{font-size:15px;line-height:1.8;margin:8px 0 0}.ex-l a{display:inline-block;padding:4px 0;margin-right:12px;font-weight:700}.ex-s{font-size:13px;color:var(--muted)}
+.ck-g{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:16px 18px;margin:16px 0;scroll-margin-top:72px}.ck-g h3{font-size:19px;margin:0 0 6px;display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px}
+.ck-p{font-size:12px;font-weight:700;color:var(--accent);background:var(--soft);border-radius:999px;padding:1px 10px}.ck-n{margin-left:auto;font-size:14px;font-weight:800;color:var(--sub)}.ck-g>p{font-size:15px;color:var(--sub);margin:4px 0 8px;line-height:1.75}
+.ck-l{list-style:none;padding:0;margin:0}.ck-l li{border-top:1px solid var(--line);scroll-margin-top:72px}.ck-i{display:flex;gap:12px;align-items:flex-start;padding:12px 2px;cursor:pointer}
+.ck-i input{flex:0 0 auto;width:22px;height:22px;margin:3px 0 0;accent-color:var(--accent)}.ck-i b{display:block;font-size:16px;line-height:1.6}.ck-i small{display:block;font-size:13px;color:var(--sub);line-height:1.7;margin-top:4px}
+.ck-ls{font-size:14px!important}.ck-ls a{display:inline-block;padding:4px 0;margin-right:12px;font-weight:700}
+.ck-sum{background:var(--soft);border:2px solid var(--accent);border-radius:16px;padding:16px 18px;margin:20px 0 0}.ck-sum .big{font-size:22px;font-weight:800;margin:0}.ck-sum p{margin:6px 0 0;font-size:15px;line-height:1.75}.ck-sum ol{margin:8px 0 0;padding-left:1.4em}.ck-sum li{margin:4px 0;font-size:15px}
+#ck-hist{margin:12px 0 0}#ck-hist p{font-size:14px;color:var(--sub);margin:4px 0}#ck-hist ul{list-style:none;padding:0;margin:6px 0 0}#ck-hist li{font-size:14px;padding:6px 0;border-top:1px solid var(--line)}
+@media print{header,footer,nav,.crumbs,.ck-btns,#ck-hist,.ck-ls,.box.note{display:none!important}.ck-g{break-inside:avoid;border:1px solid #999}body{background:#fff;color:#000}}"""
 
 TOOL_JS = r"""(function(){'use strict';
 var L=[].slice.call(document.querySelectorAll('.tl-item')),P=[].slice.call(document.querySelectorAll('.tl-pick a'));if(!L.length)return;
@@ -813,6 +912,32 @@ P.forEach(function(a){if(hit&&a.getAttribute('href')==='#'+h)a.setAttribute('ari
 var all=document.getElementById('tl-all');if(all)all.hidden=!hit;
 if(hit){var t=hit.querySelector('h3');hit.scrollIntoView();if(t){t.setAttribute('tabindex','-1');try{t.focus({preventScroll:true})}catch(e){}}}}
 window.addEventListener('hashchange',apply);apply()})();"""
+
+CHECK_JS = r"""(function(){'use strict';
+var F=document.getElementById('ck');if(!F)return;
+var KEY='check:'+(document.documentElement.getAttribute('data-site')||'x')+':'+location.pathname,H=[],OK=true;
+try{H=JSON.parse(localStorage.getItem(KEY)||'[]')||[]}catch(e){OK=false;H=[]}
+var B=[].slice.call(F.querySelectorAll('input[type=checkbox]')),G=[].slice.call(F.querySelectorAll('.ck-g')),sum=document.getElementById('ck-sum'),hist=document.getElementById('ck-hist');
+function today(){return Math.floor((Date.now()-new Date().getTimezoneOffset()*6e4)/864e5)}
+function ds(d){var t=new Date(d*864e5);return(t.getUTCMonth()+1)+'月'+t.getUTCDate()+'日'}
+function on(){return B.filter(function(b){return b.checked}).map(function(b){return b.name})}
+function esc(t){var d=document.createElement('i');d.textContent=t;return d.innerHTML}
+function upd(){var c=on();G.forEach(function(g){var bs=g.querySelectorAll('input'),k=0;for(var i=0;i<bs.length;i++)if(bs[i].checked)k++;g.querySelector('.ck-n').textContent=k+' / '+bs.length});
+var todo=B.filter(function(b){return!b.checked}).slice(0,3),h='<p class="big">'+B.length+'項目中 '+c.length+'項目できています</p>';
+if(todo.length)h+='<p>まだチェックが付いていない項目（上から3つ）:</p><ol>'+todo.map(function(b){return '<li><a href="#c-'+b.name+'">'+esc(b.parentNode.querySelector('b').textContent)+'</a></li>'}).join('')+'</ol>';
+else h+='<p>すべてできています。季節の変わり目や引っ越しのときに、もう一度確かめましょう。</p>';sum.innerHTML=h}
+function show(msg){if(!H.length&&!msg){hist.hidden=true;return}var h=msg?'<p><b>'+esc(msg)+'</b></p>':'';
+if(H.length)h+='<p>これまでの記録（このブラウザだけに保存）</p><ul>'+H.slice(-5).reverse().map(function(r){return '<li>'+ds(r.d)+' ・ '+B.length+'項目中 '+r.c.length+'項目</li>'}).join('')+'</ul>';
+hist.innerHTML=h;hist.hidden=false}
+if(H.length){var last=H[H.length-1];B.forEach(function(b){b.checked=last.c.indexOf(b.name)>=0})}
+B.forEach(function(b){b.addEventListener('change',upd)});
+document.getElementById('ck-save').addEventListener('click',function(){var t=today(),c=on(),prev=null;
+for(var i=H.length-1;i>=0;i--)if(H[i].d!==t){prev=H[i];break}
+if(H.length&&H[H.length-1].d===t)H[H.length-1]={d:t,c:c};else H.push({d:t,c:c});H=H.slice(-30);
+try{localStorage.setItem(KEY,JSON.stringify(H))}catch(e){OK=false}
+var m=!OK?'このブラウザでは記録を保存できませんでした。印刷して紙で残すこともできます。':prev?('記録しました。前回（'+ds(prev.d)+'）は'+prev.c.length+'項目、今日は'+c.length+'項目です。'+(c.length>prev.c.length?(c.length-prev.c.length)+'項目増えました。':c.length<prev.c.length?'前回より少なくなりました。できなくなったものを見直しましょう。':'')):'記録しました。次に見直したとき、今日と比べられます。';show(m)});
+document.getElementById('ck-print').addEventListener('click',function(){window.print()});
+sum.hidden=false;document.getElementById('ck-btns').hidden=false;upd();show(H.length?'前回（'+ds(H[H.length-1].d)+'）の記録を読み込みました。':'')})();"""
 
 
 def tool_lessons():
@@ -825,6 +950,34 @@ def check_tool(errs):
     for k in ("path", "title", "h1", "kicker", "navLabel", "desc", "lead", "note", "data"):
         if not CFG["tool"].get(k): errs.append(f"設定 tool.{k} が無い")
     if not TOOL.get("items"): errs.append("ツールのデータに items が無い")
+    if CFG["tool"].get("kind") == "experiments":
+        for it in TOOL.get("items", []):
+            tag = f'ツール {it.get("id")}'
+            if it.get("id") in ids: errs.append(f"{tag} id重複")
+            ids.add(it.get("id"))
+            if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", it.get("id", "")): errs.append(f"{tag} id は英小文字・数字・ハイフン")
+            for k in ("title", "q", "result", "explain", "lessons", "source"):
+                if not it.get(k): errs.append(f"{tag} の {k} が空")
+            if it.get("choices") is not None and not 2 <= len(it["choices"]) <= 4: errs.append(f"{tag} choices は2〜4個")
+            for lid in it.get("lessons", []):
+                if lid not in lids: errs.append(f"{tag} のレッスンidが講座に存在しない: {lid}")
+        return
+    if CFG["tool"].get("kind") == "checklist":
+        for it in TOOL.get("items", []):
+            tag = f'チェック {it.get("id")}'
+            for k in ("id", "title", "principle", "lead", "lessons", "checks"):
+                if not it.get(k): errs.append(f"{tag} の {k} が空")
+            for lid in it.get("lessons", []):
+                if lid not in lids: errs.append(f"{tag} のレッスンidが講座に存在しない: {lid}")
+            for c in [it] + it.get("checks", []):
+                if c.get("id") in ids: errs.append(f'{tag} id重複: {c.get("id")}')
+                ids.add(c.get("id"))
+                if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", c.get("id", "")): errs.append(f'{tag} id は英小文字・数字・ハイフン: {c.get("id")}')
+            for c in it.get("checks", []):
+                if not c.get("text") or not c.get("why"): errs.append(f'{tag} {c.get("id")} の text・why が空')
+        for x in TOOL.get("sources", []) or [None]:
+            if not x or not x.get("text") or not str(x.get("url", "")).startswith("https://"): errs.append("チェックの sources は {text, url(https)} を1つ以上")
+        return
     for it in TOOL.get("items", []):
         tag = f'ツール {it.get("id")}'
         if it.get("id") in ids: errs.append(f"{tag} id重複")
@@ -841,6 +994,16 @@ def check_tool(errs):
         if re.search(r"[0-9０-９][0-9０-９,，.万千]*\s*(円|%|％)", txt): errs.append(f"{tag} 金額・割合（円・%）を書いている。毎年変わるためレッスンに任せる")
 
 
+def tool_from_lesson(l):
+    """チェックリスト型のツールで使うレッスンに、「あなたの場合は？」の続きとしてツールへの案内を出す"""
+    x = CFG.get("tool")
+    if not x or x.get("kind") != "checklist" or not any(l["id"] in it["lessons"] for it in TOOL["items"]):
+        return ""
+    n = sum(len(it["checks"]) for it in TOOL["items"])
+    return (f'\n<a class="card" href="/{x["path"]}" style="border:2px solid var(--accent);margin:12px 0 0"><small>{E(x["kicker"])}</small>'
+            f'<b>{E(x["title"])}（{n}項目）</b><span>このレッスンの考え方を、自分の暮らしにあてはめて確かめられます。結果はこのブラウザに記録され、前回と比べられます。</span></a>')
+
+
 def tool_home():
     """トップに置く看板ツールの案内（設定の tool が無ければ何も出さない）"""
     x = CFG.get("tool")
@@ -850,9 +1013,99 @@ def tool_home():
             f'<b>{E(x["title"])}</b><span>{E(x["desc"])}</span></a>')
 
 
+def experiments_page():
+    """体験型の看板ツール（tool.kind == "experiments"）。問題を読んで自分の答えを決め、details を開くと研究の結果と比べられる。JS不要。"""
+    x = CFG["tool"]
+    url = f'{URL}{x["path"]}'
+    lmap = tool_lessons()
+    toc = "".join(f'<li><a href="#{it["id"]}">{E(it["title"])}</a></li>' for it in TOOL["items"])
+    items = ""
+    for n, it in enumerate(TOOL["items"], 1):
+        cs = "".join(f"<li>{E(c)}</li>" for c in it.get("choices", []))
+        ls = " ".join(f'<a href="{lurl(lmap[i]).replace(URL, "/")}">レッスン{lesson_no(lmap[i])} {E(lmap[i]["short"])}</a>' for i in it["lessons"])
+        items += (f'<section class="ex-item" id="{it["id"]}"><h3>{n}. {E(it["title"])}</h3><p class="ex-q">{E(it["q"])}</p>'
+                  + (f'<ul class="ex-c">{cs}</ul>' if cs else "")
+                  + f'<details><summary>自分の答えを決めたら、研究の結果を見る</summary><div class="ex-r">{E(it["result"])}</div>'
+                  f'<p>{E(it["explain"])}</p><p class="ex-l">{ls}</p><p class="ex-s">出典: {E(it["source"])}</p></details></section>')
+    body = f'''<span class="kicker">{E(x["kicker"])}</span>
+<h1>{E(x["h1"])}</h1>
+<p class="updated">{len(TOOL["items"])}問 ・ 登録不要 ・ 答えは送信されません ・ 更新日 {TOOL.get("date", UPDATED)}</p>
+<p class="lead">{E(x["lead"])}</p>
+<div class="box note"><p style="margin:0">{E(x["note"])}</p></div>
+<h2><span class="n">01</span>体験する問題</h2>
+<p class="answer">1問ずつ、まず自分の答えを決めてから「研究の結果を見る」を開いてください。どの問題から始めてもかまいません。</p>
+<ol>{toc}</ol>
+{items}
+<h2><span class="n">02</span>このページについて</h2>
+<p class="answer">問題と研究の結果は、この講座のレッスン（執筆と監査を分けて確かめたもの）に書いてあることだけから作っています。くわしい出典は各レッスンの末尾にあります。</p>
+<p>研究の結果は、その実験に参加した人たちの平均や割合です。あなたの答えが違っても、それは間違いでも異常でもありません。判断のくせは、多くの人に同じ向きで起きやすいというだけで、一人ひとりの答えを決めるものではありません。</p>'''
+    graph = [{"@type": "WebApplication", "name": x["title"], "url": url, "description": x["desc"], "applicationCategory": "EducationalApplication",
+              "operatingSystem": "Web", "inLanguage": "ja", "offers": {"@type": "Offer", "price": 0, "priceCurrency": "JPY"},
+              "isPartOf": {"@type": "WebSite", "name": NAME, "url": URL}, "publisher": PUBLISHER, "dateModified": TOOL.get("date", UPDATED)}]
+    global CSS
+    base = CSS
+    CSS = base + TOOL_CSS
+    try:
+        return write(x["path"], f'{x["title"]} | {NAME}', x["desc"], body, graph, trail=[(x["title"], url)], current="/" + x["path"])
+    finally:
+        CSS = base
+
+
+def checklist_page():
+    """チェックリスト型の看板ツール（tool.kind == "checklist"）。学んだことを自分の暮らしに当てはめる。
+    JSなしでも印刷できるチェック表。tool.js が数を数え、記録をこのブラウザだけに残して前回と比べる。"""
+    x = CFG["tool"]
+    url = f'{URL}{x["path"]}'
+    lmap = tool_lessons()
+    n_all = sum(len(it["checks"]) for it in TOOL["items"])
+    groups = ""
+    for gi, it in enumerate(TOOL["items"], 1):
+        ls = " ".join(f'<a href="{lurl(lmap[i]).replace(URL, "/")}">レッスン{lesson_no(lmap[i])} {E(lmap[i]["short"])}</a>' for i in it["lessons"])
+        cs = "".join(f'<li id="c-{c["id"]}"><label class="ck-i"><input type="checkbox" name="{c["id"]}"><span><b>{E(c["text"])}</b>'
+                     f'<small>{E(c["why"])}</small></span></label></li>' for c in it["checks"])
+        groups += (f'<section class="ck-g" id="{it["id"]}"><h3>{gi}. {E(it["title"])}<span class="ck-p">{E(it["principle"])}</span>'
+                   f'<span class="ck-n" aria-live="polite"></span></h3><p>{E(it["lead"])}</p><ul class="ck-l">{cs}</ul><p class="ck-ls">学べるレッスン: {ls}</p></section>')
+    srcs = "".join(f'<li><a href="{E(s["url"], quote=True)}" rel="noopener">{E(s["text"])}</a></li>' for s in TOOL.get("sources", []))
+    body = f'''<span class="kicker">{E(x["kicker"])}</span>
+<h1>{E(x["h1"])}</h1>
+<p class="updated">{n_all}項目 ・ 登録不要 ・ 記録はこのブラウザだけ ・ 更新日 {TOOL.get("date", UPDATED)}</p>
+<p class="lead">{E(x["lead"])}</p>
+<div class="box note"><p style="margin:0">{E(x["note"])}</p></div>
+<h2><span class="n">01</span>チェックする</h2>
+<p class="answer">できているものにチェックを付けてください。全部で{n_all}項目、3分ほどで終わります。印刷して紙で使うこともできます。</p>
+<form class="ck-form" id="ck">
+{groups}
+</form>
+<div class="ck-sum" id="ck-sum" hidden aria-live="polite"></div>
+<div class="btns ck-btns" id="ck-btns" hidden><button type="button" class="btn" id="ck-save">今日の結果を記録する</button><button type="button" class="btn sub" id="ck-print">印刷する</button></div>
+<div id="ck-hist" hidden></div>
+<h2><span class="n">02</span>なぜこの{n_all}項目なのか</h2>
+<p class="answer">項目は、犯罪学の防犯環境設計と状況的犯罪予防の考え方を、警察庁の統計と対策にあてはめて選びました。</p>
+<p>国土交通省の「防犯に配慮した共同住宅の設計指針」（2001年）は、監視性の確保・領域性の強化・接近の制御・被害対象の強化と回避の4つを基本原則にしています。このチェックは、その原則を一戸建てやアパートの暮らしに置きかえ、一度被害に遭った家がその直後に狙われやすい「反復被害」の備えを加えたものです。考え方そのものは、各グループの「学べるレッスン」でくわしく学べます。</p>
+<ul>{srcs}</ul>
+<h2><span class="n">03</span>このページについて</h2>
+<p class="answer">このチェックは、できていることを確かめて次の一歩を決めるためのものです。全部できていれば被害に遭わない、という保証ではありません。</p>
+<p>チェックの内容と記録は、このブラウザの中だけに保存され、どこにも送られません。別の端末やブラウザでは記録は見えません。犯罪の手口そのものは、このページでは説明しません。</p>
+<script src="/tool.js" defer></script>'''
+    graph = [{"@type": "WebApplication", "name": x["title"], "url": url, "description": x["desc"], "applicationCategory": "LifestyleApplication",
+              "operatingSystem": "Web", "inLanguage": "ja", "offers": {"@type": "Offer", "price": 0, "priceCurrency": "JPY"},
+              "isPartOf": {"@type": "WebSite", "name": NAME, "url": URL}, "publisher": PUBLISHER, "dateModified": TOOL.get("date", UPDATED)}]
+    global CSS
+    base = CSS
+    CSS = base + TOOL_CSS
+    try:
+        return write(x["path"], f'{x["title"]} | {NAME}', x["desc"], body, graph, trail=[(x["title"], url)], current="/" + x["path"])
+    finally:
+        CSS = base
+
+
 def tool_page():
     """看板ツール（設定の tool）。JSなしでも全項目を本文として読め、tool.js は選んだ項目だけに絞り込む。"""
     x = CFG["tool"]
+    if x.get("kind") == "experiments":
+        return experiments_page()
+    if x.get("kind") == "checklist":
+        return checklist_page()
     url = f'{URL}{x["path"]}'
     lmap = tool_lessons()
     pick = "".join(f'<a href="#{it["id"]}">{E(it["label"])}</a>' for it in TOOL["items"])
@@ -997,6 +1250,88 @@ def cards_page():
 <div class="btns" style="margin-top:28px"><a class="btn sub" href="/glossary/">{T("glossaryName")}の一覧</a><a class="btn sub" href="/review/">間違えた問題の復習</a></div>'''
     return write("cards/", f'{fmt(CFG["glossaryName"])}の暗記カード | {NAME}', f'{fmt(CFG["glossaryName"])}の{len(TERMS)}語を、暗記カードで覚えられるページです。あやしい語ほど早く出ます。登録不要。', body, [],
                  trail=[(f'{fmt(CFG["glossaryName"])}の暗記カード', f"{URL}cards/")], noindex=True)
+
+# ---------------- わたしの学習（/me/、me.js） ----------------
+ME_JS = r"""(function(){'use strict';
+var me=document.getElementById('me');if(!me)return;
+var site=document.documentElement.getAttribute('data-site')||'x',KEY='study:'+site,S={},OK=true,msg=document.getElementById('me-msg');
+try{S=JSON.parse(localStorage.getItem(KEY)||'{}')||{}}catch(e){OK=false;S={}}
+function today(){return Math.floor((Date.now()-new Date().getTimezoneOffset()*6e4)/864e5)}
+function $(s){return me.querySelectorAll(s)}
+function set(k,v){var e=me.querySelector('[data-v='+k+']');if(e)e.textContent=v}
+var t0=today(),read=S.read||{},miss=Object.keys(S.miss||{}).length,cards=S.cards||{},best=S.best||{},ch=(S.qz&&S.qz.ch)||{},all=0,rd=0,nt=null;
+document.getElementById('me-nojs').hidden=true;me.hidden=false;
+[].forEach.call($('.me-row'),function(r){var ls=r.dataset.ls?r.dataset.ls.split(' '):[],n=0;ls.forEach(function(id){if(read[id])n++});all+=ls.length;rd+=n;
+if(ls.length){r.querySelector('.me-bar i').style.width=Math.round(n/ls.length*100)+'%';r.querySelector('.me-n').textContent=ls.length+'レッスン中 '+n+'レッスンを読みました'}
+var c=ch[r.dataset.ci];if(c&&c.n)r.querySelector('.me-q').textContent='クイズの正答率 '+Math.round(c.ok/c.n*100)+'%（'+c.n+'問）';
+var t=r.dataset.t;if(t&&!best[t]&&ls.length&&n===ls.length&&!nt)nt={h:t,s:r.querySelector('small').textContent}});
+var nc=me.dataset.terms|0,ok=0,due=0;Object.keys(cards).forEach(function(k){if(cards[k].b>=3)ok++;if(cards[k].d<=t0)due++});
+set('read',rd+' / '+all);set('miss',miss+'問');set('terms',ok+' / '+nc);
+var st=S.st,g=st?t0-st.d:9;set('streak',st&&g<=1?st.n+'日':'0日');
+if(st){var d=new Date(st.d*864e5);set('last','最後に学んだ日 '+(d.getUTCMonth()+1)+'月'+d.getUTCDate()+'日')}
+var h='';if(due)h+='<a class="btn sub" href="/cards/">暗記カード（復習の時期の語 '+due+'語）</a>';else if(!Object.keys(cards).length&&nc)h+='<a class="btn sub" href="/cards/">暗記カードで用語を覚える</a>';
+if(nt)h+='<a class="btn sub" href="'+nt.h+'">'+nt.s+'の章末テストに挑戦</a>';
+var nx=document.getElementById('me-next');if(h){nx.querySelector('.btns').innerHTML=h;nx.hidden=false}
+if(!rd&&!miss&&!st)document.getElementById('me-empty').hidden=false;
+function keys(){var out=[];try{for(var i=0;i<localStorage.length;i++){var k=localStorage.key(i);if(k===KEY||k.indexOf('check:'+site+':')===0)out.push(k)}}catch(e){}return out}
+if(!OK){msg.textContent='このブラウザでは記録を保存できません（プライベートブラウズなど）。通常のウィンドウで開くと、記録が残ります。';[].forEach.call($('.me-io button,.me-io label'),function(b){b.hidden=true})}
+document.getElementById('me-out').onclick=function(){var data={};keys().forEach(function(k){data[k]=localStorage.getItem(k)});
+if(!Object.keys(data).length){msg.textContent='まだ書き出す記録がありません。';return}
+var dt=new Date(),ds=dt.getFullYear()+'-'+('0'+(dt.getMonth()+1)).slice(-2)+'-'+('0'+dt.getDate()).slice(-2),
+b=new Blob([JSON.stringify({app:'seadice-study',site:site,v:1,date:ds,data:data})],{type:'application/json'}),a=document.createElement('a');
+a.href=URL.createObjectURL(b);a.download=site+'-kiroku-'+ds+'.json';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(a.href)},1e3);
+msg.textContent='記録をファイルに書き出しました（'+a.download+'）。移った先の端末で、このページの「記録を読み込む」から選んでください。'};
+document.getElementById('me-in').onchange=function(){var f=this.files[0];this.value='';if(!f)return;var fr=new FileReader();
+fr.onload=function(){var j;try{j=JSON.parse(fr.result)}catch(e){j=null}
+if(!j||j.app!=='seadice-study'||typeof j.data!=='object'){msg.textContent='読み込めませんでした。このページで書き出したファイルを選んでください。';return}
+if(j.site!==site){msg.textContent='別の講座の記録です。その講座の「わたしの学習」で読み込んでください。';return}
+if(!confirm('今のこの端末の記録を、'+(j.date||'')+' に書き出した記録で置き換えます。よろしいですか？'))return;
+try{keys().forEach(function(k){localStorage.removeItem(k)});Object.keys(j.data).forEach(function(k){if(k===KEY||k.indexOf('check:'+site+':')===0)localStorage.setItem(k,String(j.data[k]))});location.reload()}
+catch(e){msg.textContent='このブラウザでは記録を保存できませんでした。'}};fr.readAsText(f)};
+document.getElementById('me-del').onclick=function(){if(!confirm('この端末の学習の記録をすべて消します。元に戻せません。よろしいですか？'))return;
+try{keys().forEach(function(k){localStorage.removeItem(k)})}catch(e){}location.reload()};
+})();"""
+
+
+def me_page():
+    """わたしの学習。記録の一覧と、書き出し・読み込み・消去。中身はすべて me.js がこのブラウザの記録から作る。"""
+    rows = ""
+    for ci, c in enumerate(COURSE["chapters"]):
+        if not c["lessons"]:
+            continue
+        lis = "".join(lesson_li(c, i, l) for i, l in enumerate(c["lessons"]))
+        t = f'/{test_path(c)}' if complete(c) else ""
+        rows += (f'<div class="card me-row" data-ci="{ci}" data-ls="{" ".join(l["id"] for l in c["lessons"])}" data-t="{t}"><small>第{c["no"]}章</small><b>{E(c["title"])}</b>'
+                 f'<span class="me-bar"><i></i></span><span class="me-n"></span><span class="me-q"></span>'
+                 f'<details><summary>レッスンの一覧</summary><ol class="lessons">{lis}</ol></details>'
+                 + (f'<p><a href="{t}">第{c["no"]}章の章末テスト（{test_n(c)}問）</a></p>' if t else '') + '</div>')
+    if COURSE.get("mock"):
+        rows += f'<div class="card me-row" data-t="/course/mock-exam/"><small>総まとめ</small><b>{E(mock_label())}</b><span class="me-q"></span><p><a href="/course/mock-exam/">{E(mock_label())}に挑戦（{mock_n()}問）</a></p></div>'
+    first = LESSONS[0][1] if LESSONS else None
+    body = f'''<span class="kicker">登録不要</span>
+<h1>わたしの学習</h1>
+<p class="lead">このサイトで学んだ記録を、1ページで見られます。記録はこのブラウザの中だけに保存され、どこにも送信されません。</p>
+<div id="me" data-terms="{len(TERMS)}" hidden>
+<div class="me-st"><div><small>読んだレッスン</small><b data-v="read">-</b></div><div><small>連続で学んだ日</small><b data-v="streak">-</b><em data-v="last"></em></div>
+<div><small>間違えた問題</small><b data-v="miss">-</b><em>正解すると減ります</em></div><div><small>覚えた用語</small><b data-v="terms">-</b><em>暗記カードで2回続けて正解</em></div></div>
+<div id="me-empty" class="box key" hidden><p class="bt">まだ記録はありません</p><p>レッスンを読み終えたり、確認問題を解いたりすると、ここに自動で記録されます。</p>{f'<div class="btns" style="margin:0"><a class="btn" href="/course/{first["id"]}/">第1章から始める</a></div>' if first else ''}</div>
+{RESUME}
+<div id="me-next" class="box" hidden><p class="bt">ほかにおすすめ</p><div class="btns" style="margin:0"></div></div>
+<h2><span class="n">CHAPTER</span>章ごとの進み具合</h2>
+<p class="answer">読んだレッスンの数、章末テストのベスト、クイズの正答率を章ごとに見られます。</p>
+<div class="grid">{rows}</div>
+<h2><span class="n">KEEP</span>記録を別の端末に移す</h2>
+<p class="answer">機種変更や別のブラウザに移るときは、記録をファイルに書き出し、移った先のこのページで読み込みます。</p>
+<div class="btns me-io"><button type="button" class="btn" id="me-out">記録を書き出す</button><label class="btn sub" for="me-in">記録を読み込む</label><input type="file" id="me-in" class="me-file" accept="application/json,.json"></div>
+<p id="me-msg" class="me-msg" aria-live="polite"></p>
+<div class="box note"><p style="margin:0">ブラウザの履歴やサイトのデータを消すと、記録も消えます。大切な記録は、ときどき書き出しておくと安心です。書き出したファイルには学習の記録だけが入り、名前やメールアドレスなどは入りません。</p></div>
+<details><summary>この端末の記録を消す</summary><p>共有のパソコンで学んだときなどに使います。消した記録は元に戻せません。</p><div class="btns" style="margin:0 18px 16px"><button type="button" class="btn sub me-io" id="me-del">記録をすべて消す</button></div></details>
+</div>
+<div id="me-nojs"><p class="answer">学習の記録を見るには、ブラウザのJavaScriptを有効にしてください。レッスンや問題は、JavaScriptなしでも読めます。</p></div>
+<script src="/me.js" defer></script>'''
+    return write("me/", f"わたしの学習 | {NAME}", f"{NAME}で読んだレッスン、テストのベスト、間違えた問題、覚えた用語を1ページで見られます。登録不要で、記録はブラウザの中だけに保存されます。", body, [],
+                 trail=[("わたしの学習", f"{URL}me/")], noindex=True)
+
 
 # ---------------- クイズ（ゲーム形式。/quiz/、quiz.js、/quiz/data.json） ----------------
 QUIZ_JS = r"""(function(){'use strict';
@@ -1208,19 +1543,67 @@ def term_page(t):
 
 
 # ---------------- トップ ----------------
+SYMBOLS = {  # 講座の顔（線画。viewBox 0 0 64 64、stroke は currentColor）。設定 symbol で上書きできる
+    "tetsugaku-nyumon": '<path d="M12 12h40a6 6 0 0 1 6 6v20a6 6 0 0 1-6 6H30l-10 8v-8h-8a6 6 0 0 1-6-6V18a6 6 0 0 1 6-6z"/><path d="M26.5 23.5a5.5 5.5 0 1 1 7.7 5c-1.5.7-2.2 1.8-2.2 3.3v1"/><path d="M32 37.5v.1"/>',
+    "hanzaigaku": '<circle cx="27" cy="27" r="17"/><path d="M39.5 39.5 54 54"/><path d="M19 31c0-5.5 3.6-9.5 8-9.5s8 4 8 9.5"/><path d="M23 33c0-4.5 1.8-7 4-7s4 2.5 4 7"/><path d="M27 31v5"/>',
+    "boueki": '<path d="M8 38h48l-7 12H15z"/><path d="M16 38V26h13v12"/><path d="M29 30h12v8"/><path d="M22 26v-8"/><path d="M8 57c4 0 4-2 8-2s4 2 8 2 4-2 8-2 4 2 8 2 4-2 8-2 4 2 8 2"/>',
+    "kodokeizai": '<path d="M32 10v42"/><path d="M20 54h24"/><path d="M12 18h40"/><path d="M12 18 5 34h14z"/><path d="M52 18l-7 16h14z"/><circle cx="32" cy="10" r="2"/>',
+    "shakaihosho": '<path d="M7 32a25 25 0 0 1 50 0z"/><path d="M32 32v17a5 5 0 0 1-10 0"/><path d="M32 7v.1"/>',
+    "hoikushi": '<rect x="9" y="35" width="19" height="19" rx="3"/><rect x="36" y="35" width="19" height="19" rx="3"/><rect x="22.5" y="13" width="19" height="19" rx="3"/>',
+    "kaigofukushi": '<path d="M32 29c-4-6-14-4-12 4 1 4 12 12 12 12s11-8 12-12c2-8-8-10-12-4z"/><path d="M6 42c7 0 11 4 15 9h22c4-5 8-9 15-9"/>',
+    "counselor": '<path d="M8 10h30v20H20l-8 6v-6H8z"/><path d="M26 36h30v16h-4v6l-8-6H26z"/>',
+}
+
+
+def symbol():
+    inner = CFG.get("symbol") or SYMBOLS.get(SLUG) or f'<circle cx="32" cy="32" r="24"/><text x="32" y="42" font-size="26" font-weight="800" text-anchor="middle">{E(CFG.get("icon", NAME[-1]))}</text>'
+    return f'<span class="sym" aria-hidden="true"><svg viewBox="0 0 64 64">{inner}</svg></span>'
+
+
+def chapter_map():
+    """トップの章の地図。1章1行。読んだ数は study.js が入れる。準備中の章は折りたたむ。"""
+    def row(c):
+        n = len(c["lessons"])
+        sub = f"{n}レッスン" + (" ・ 章末テスト" if complete(c) else " ・ 執筆中")
+        return (f'<li data-ls="{" ".join(l["id"] for l in c["lessons"])}"><a href="/course/#ch{c["no"]}"><span class="mn">{c["no"]}</span>'
+                f'<span><b>{E(c["title"])}</b><small>{sub}</small></span><span class="mp-n"></span></a></li>')
+    ready = [c for c in COURSE["chapters"] if c["lessons"]]
+    soon = [c for c in COURSE["chapters"] if not c["lessons"]]
+    out = f'<ol class="map">{"".join(row(c) for c in ready)}</ol>'
+    if soon:
+        lis = "".join(f'<li><span class="row"><span class="mn">{c["no"]}</span><span><b>{E(c["title"])}</b><small>{E(c["desc"])}</small></span></span></li>' for c in soon)
+        out += f'<details class="map-soon"><summary>準備中の章（{len(soon)}章）</summary><ol class="map">{lis}</ol></details>'
+    return out
+
+
+def home_tiles():
+    """「使って学ぶ」入口。クイズ・看板ツール・わたしの学習・暗記カード・用語辞典。"""
+    t = []
+    if has_quiz():
+        t.append(("/quiz/", quiz_name(), f"ゲーム形式で{len(quiz_items())}問"))
+    if CFG.get("tool"):
+        x = CFG["tool"]
+        t.append(("/" + x["path"], x["navLabel"], x["kicker"]))
+    t += [("/me/", "わたしの学習", "進み具合と記録"), ("/cards/", "暗記カード", f"{len(TERMS)}語を覚える"), ("/review/", "間違えた問題", "解き直して定着")]
+    if len(t) % 2:
+        t.append(("/glossary/", T("glossaryName"), "一文の定義で引ける"))
+    return f'<div class="tiles{" c3" if len(t) % 4 else ""}">' + "".join(f'<a href="{h}"><b>{E(b)}</b><span>{E(d)}</span></a>' for h, b, d in t) + '</div>'
+
+
 def home():
     tmap = {t["id"]: t for t in TERMS}
     chips = "".join(f'<a href="/glossary/#{i}">{E(tmap[i]["term"])}</a>' for i in CFG.get("homeTerms", []) if i in tmap)
     first = LESSONS[0][1] if LESSONS else None
     gname = T("glossaryName")
-    body = f'''<div class="hero"><p class="tag">{E(CFG["tagline"])}</p><h1>{E(NAME)}</h1></div>
+    body = f'''<div class="hero"><div><p class="tag">{E(CFG["tagline"])}</p><h1>{E(NAME)}</h1></div>{symbol()}</div>
 <p class="lead">{E(CFG["lead"])}</p>
 <p class="stats"><span><b>{N_CH}</b>章の無料講座</span><span><b>{N_LESSONS}</b>レッスン公開中</span><span><b>{len(TERMS)}</b>語の用語辞典</span><span>登録不要</span></p>
 {RESUME}
-<div class="btns">{f'<a class="btn" href="/course/{first["id"]}/">講座を第1章から始める</a>' if first else ''}{f'<a class="btn" href="/quiz/">{E(quiz_name())}で遊ぶ（{len(quiz_items())}問）</a>' if has_quiz() else ''}<a class="btn sub" href="/glossary/">{gname}を見る</a></div>{tool_home()}
+<div class="btns">{f'<a class="btn" href="/course/{first["id"]}/">講座を第1章から始める</a>' if first else ''}<a class="btn sub" href="/course/">講座の目次</a></div>
+{home_tiles()}
 <h2><span class="n">01</span>無料講座「{E(COURSE["title"])}」</h2>
 <p class="answer">{T("homeCourseAnswer")}</p>
-<div class="grid">{chapter_list()}</div>
+{chapter_map()}
 <p style="margin-top:14px"><a href="/course/">講座の目次をすべて見る</a></p>
 <h2><span class="n">02</span>{gname}</h2>
 <p class="answer">{T("homeGlossaryAnswer")}</p>
@@ -1273,7 +1656,7 @@ def extras(urls):
     (OUT / f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
     (OUT / "study.js").write_text(STUDY_JS)
     if CFG.get("tool"):
-        (OUT / "tool.js").write_text(TOOL_JS)
+        (OUT / "tool.js").write_text(CHECK_JS if CFG["tool"].get("kind") == "checklist" else TOOL_JS)
     sm = "".join(f"  <url>\n    <loc>{u}</loc>\n    <lastmod>{UPDATED}</lastmod>\n  </url>\n" for u in urls)
     (OUT / "sitemap.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{sm}</urlset>\n')
     lines = [f"# {NAME}", "", f"> {CFG['description']}", ""] + [fmt(x) for x in CFG["llmsIntro"]] + ["",
@@ -1300,6 +1683,8 @@ def extras(urls):
 def build():
     global CSS, FAV
     CSS, FAV = css(), favicon()
+    if CFG.get("apps"):
+        CSS += APP_CSS
     OUT.mkdir(parents=True, exist_ok=True)
     urls = [home(), course_index()]
     for ci, ch in enumerate(COURSE["chapters"]):
@@ -1315,10 +1700,12 @@ def build():
         urls.append(tool_page())
     urls += [glossary()] + [term_page(t) for t in TERMS if rich(t)]
     urls += trust_pages()
+    urls += app_pages()
     if has_quiz():
         urls.append(quiz_page())
         (OUT / "quiz.js").write_text(QUIZ_JS)
-    review_page(); cards_page()  # noindex。sitemap には入れない
+    review_page(); cards_page(); me_page()  # noindex。sitemap には入れない
+    (OUT / "me.js").write_text(ME_JS)
     extras(urls)
     return urls
 

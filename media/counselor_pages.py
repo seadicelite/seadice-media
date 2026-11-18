@@ -6,7 +6,7 @@
  - AI検索に引用されやすいよう、各ページの冒頭で「〇〇とは、△△のことです。」と言い切り、
    WebSite / Course / LearningResource / DefinedTermSet / FAQPage / ItemList の JSON-LD と llms.txt を付ける。JS不使用。
  - デザインは教科書型（明るい背景、端末がダークモードなら暗い配色）。メディア用テンプレートは使わない。"""
-import base64, html, json
+import html, json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -80,9 +80,8 @@ footer.site{border-top:1px solid var(--line);padding:28px 16px;text-align:center
 
 
 def favicon():
-    svg = ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#2F6F5E"/>'
-           '<text x="32" y="44" font-size="34" font-family="-apple-system,sans-serif" font-weight="800" text-anchor="middle" fill="#fff">聴</text></svg>')
-    return f'<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,{base64.b64encode(svg.encode()).decode()}">'
+    import favicon as fav  # メディアと同じピクトグラムのファビコン（media/favicon.py）
+    return fav.tag(OUT, "#2F6F5E")
 
 
 FAV = favicon()

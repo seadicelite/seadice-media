@@ -1,0 +1,589 @@
+{
+  "cols": [
+    {
+      "id": "why",
+      "label": "なぜ",
+      "q": "なぜそうなる？（記憶・脳・心の仕組み）"
+    },
+    {
+      "id": "judge",
+      "label": "効く？",
+      "q": "よく言われる勉強法・通説は効く？（研究で判定）"
+    },
+    {
+      "id": "how",
+      "label": "やり方",
+      "q": "研究で効果が示された、今日からできるやり方は？"
+    },
+    {
+      "id": "stuck",
+      "label": "つまずいたら",
+      "q": "うまくいかない・挫折した・失敗した後、どう立て直す？"
+    },
+    {
+      "id": "use",
+      "label": "使う",
+      "q": "自分で使える計画表・記録表・チェック表・ツール（記事内の表も可）"
+    }
+  ],
+  "rows": [
+    {
+      "id": "memory",
+      "label": "覚えられない・すぐ忘れる",
+      "cells": {
+        "why": [
+          "spaced-review-why-it-works",
+          "tip-of-the-tongue-forgetting",
+          "illusion-of-knowing-fluency",
+          "why-curiosity-helps-memory",
+          "why-trying-to-memorize-doesnt-stick-depth-of-processing",
+          "why-studied-content-appears-in-dreams"
+        ],
+        "judge": [
+          "retrieval-practice-vs-rereading",
+          "reading-aloud-production-effect",
+          "mnemonics-keyword-method-imagery",
+          "elaborative-interrogation-ask-why",
+          "repeated-copying-to-memorize"
+        ],
+        "how": [
+          "flashcards-how-to-use",
+          "draw-to-remember-study",
+          "rest-or-repeat-right-after-studying",
+          "self-reference-effect-link-to-yourself",
+          "law-revision-relearn-changed-facts",
+          "chunking-long-sequences-how-to"
+        ],
+        "use": [
+          "https://dokugaku.seadice.win/review-timing/",
+          "https://dokugaku.seadice.win/templates/recall-note/",
+          "memorized-check-sheet-delayed-judgment",
+          "method-of-loci-route-sheet",
+          "confidence-rated-answer-check-sheet"
+        ],
+        "stuck": [
+          "forgot-what-i-studied-relearning",
+          "review-backlog-catch-up",
+          "similar-concepts-mixed-up-fix",
+          "drinking-night-before-study-memory-reset",
+          "recall-practice-blank-cannot-remember-reset",
+          "practiced-items-only-related-forgotten-reset"
+        ]
+      }
+    },
+    {
+      "id": "vocab",
+      "label": "英単語・語学の暗記",
+      "cells": {
+        "how": [
+          "english-vocabulary-how-to-memorize",
+          "extensive-reading-graded-readers",
+          "english-video-subtitles-how-to",
+          "unknown-words-while-reading-english",
+          "english-pronunciation-practice-how-to",
+          "english-word-parts-prefix-root-how-to"
+        ],
+        "judge": [
+          "language-learning-apps-speaking",
+          "sleep-learning-vocabulary-audio",
+          "gesture-vocabulary-learning",
+          "guess-word-meaning-before-answer",
+          "sing-to-memorize-english-phrases",
+          "english-2200-hours-fsi-myth"
+        ],
+        "stuck": [
+          "forgotten-language-relearning",
+          "vocab-recognize-but-cannot-produce",
+          "froze-speaking-foreign-language-anxiety",
+          "vocab-words-never-stick-cue-fading",
+          "english-listening-cannot-catch-reset"
+        ],
+        "why": [
+          "why-similar-words-get-mixed-up",
+          "why-japanese-hard-to-hear-l-and-r",
+          "why-english-listening-known-words-hard",
+          "why-new-words-not-usable-right-away",
+          "why-foreign-language-sounds-fast"
+        ],
+        "use": [
+          "vocab-review-schedule-recall-log",
+          "l-r-listening-practice-log-sheet",
+          "speaking-practice-log-sheet",
+          "english-vocabulary-frequency-priority-table",
+          "new-alphabet-handwriting-practice-sheet"
+        ]
+      }
+    },
+    {
+      "id": "exam",
+      "label": "資格試験・テスト対策",
+      "cells": {
+        "judge": [
+          "cramming-overnight-study",
+          "past-exam-questions-certification",
+          "mozart-effect-before-exam",
+          "rosemary-scent-memory-before-exam",
+          "multiple-choice-longest-answer-guessing-myth"
+        ],
+        "use": [
+          "https://dokugaku.seadice.win/templates/review-calendar/",
+          "exam-time-allocation-sheet",
+          "mock-exam-score-prediction-log",
+          "exam-wrapper-reflection-sheet",
+          "problem-book-rounds-mark-sheet",
+          "practical-exam-mental-rehearsal-sheet"
+        ],
+        "stuck": [
+          "failed-exam-review-mistakes",
+          "exam-nerves-choked-next-time",
+          "failed-exam-again-retake-or-quit",
+          "memorized-answers-cannot-solve-new-questions",
+          "exam-results-waiting-anxiety-reset",
+          "near-miss-exam-few-points-short-reset"
+        ],
+        "how": [
+          "worked-examples-how-to-study",
+          "changing-answers-exam-review",
+          "multiple-choice-practice-questions-how-to",
+          "practice-questions-answer-check-timing",
+          "short-answer-self-scoring-idea-units",
+          "incorrect-worked-examples-find-fix-how-to"
+        ],
+        "why": [
+          "why-practice-success-fails-on-exam",
+          "why-exam-stress-blocks-recall",
+          "why-self-handicapping-before-exam",
+          "why-miss-own-mistakes-misreading-exam",
+          "why-answer-key-feels-solvable-hindsight"
+        ]
+      }
+    },
+    {
+      "id": "reading",
+      "label": "読んでも頭に入らない・ノート",
+      "cells": {
+        "judge": [
+          "summarizing-while-reading",
+          "highlighting-study-method",
+          "handwriting-vs-laptop-notes",
+          "mind-map-concept-map-study",
+          "disfluent-font-hard-to-read-memory"
+        ],
+        "how": [
+          "pretesting-before-reading",
+          "generate-questions-while-reading",
+          "preview-headings-before-reading",
+          "read-textbook-figures-graphs-how-to",
+          "compare-multiple-sources-reading-how-to",
+          "spaced-rereading-when-to-reread-how-to"
+        ],
+        "stuck": [
+          "mind-wandering-while-reading",
+          "textbook-too-hard-to-understand",
+          "reading-too-slow-cannot-finish",
+          "slide-photos-instead-of-notes-reset",
+          "lecture-notes-cant-keep-up-reset",
+          "jargon-heavy-textbook-terms-first-reset"
+        ],
+        "why": [
+          "why-screen-reading-harder-to-understand",
+          "why-difficult-books-make-you-sleepy",
+          "why-reread-same-line-while-reading",
+          "why-interesting-asides-hurt-learning",
+          "why-long-sentences-hard-to-read-working-memory"
+        ],
+        "use": [
+          "read-recite-review-sheet",
+          "reading-comprehension-check-sheet",
+          "note-review-hide-and-recall-sheet",
+          "self-explanation-prompt-card",
+          "screen-reading-study-checklist"
+        ]
+      }
+    },
+    {
+      "id": "method",
+      "label": "勉強法の選び方",
+      "cells": {
+        "judge": [
+          "learning-styles-visual-learner-myth",
+          "interleaving-mixed-practice",
+          "learning-by-teaching-protege-effect",
+          "productive-failure-struggle-first",
+          "input-output-ratio-3-7-study"
+        ],
+        "use": [
+          "https://dokugaku.seadice.win/hayami/",
+          "study-method-plan-vs-actual-check-sheet",
+          "study-method-by-goal-table",
+          "interleaved-practice-set-sheet",
+          "self-quiz-three-level-question-sheet"
+        ],
+        "how": [
+          "choose-study-methods-by-goal",
+          "exam-study-strategy-three-questions",
+          "concrete-examples-how-to-study",
+          "recall-in-head-or-write-it-down",
+          "short-video-study-how-to",
+          "deliberate-errors-study-how-to"
+        ],
+        "stuck": [
+          "new-study-method-feels-not-working",
+          "study-hours-not-improving-scores",
+          "group-study-not-sticking-fix",
+          "too-many-study-methods-cannot-choose",
+          "back-to-rereading-old-study-habit-reset"
+        ],
+        "why": [
+          "why-study-method-works-differently",
+          "why-study-methods-differ-icap",
+          "why-believe-brain-myths-study-methods",
+          "why-figuring-out-alone-doesnt-stick",
+          "why-retrieval-practice-weak-for-complex-problems"
+        ]
+      }
+    },
+    {
+      "id": "focus",
+      "label": "集中できない・スマホ",
+      "cells": {
+        "judge": [
+          "music-while-studying-lyrics",
+          "pomodoro-technique-breaks",
+          "binaural-beats-study-focus",
+          "split-screen-video-study-focus",
+          "blue-color-focus-red-test-myth"
+        ],
+        "how": [
+          "smartphone-away-while-studying",
+          "nature-break-restore-focus",
+          "phone-offline-study-blocks",
+          "phone-grayscale-mode-study-focus",
+          "switch-from-work-to-study-unfinished-tasks-note"
+        ],
+        "stuck": [
+          "refocus-after-phone-distraction",
+          "todo-thoughts-while-studying-refocus",
+          "screen-eye-strain-study-recovery",
+          "hay-fever-study-focus-reset",
+          "earworm-song-stuck-while-studying-reset",
+          "neck-shoulder-pain-studying-reset"
+        ],
+        "why": [
+          "why-multitasking-hurts-studying",
+          "why-urge-to-check-phone-while-studying",
+          "why-focus-fades-over-time-studying",
+          "why-absorbed-in-studying-some-days-flow",
+          "why-hard-to-focus-after-short-videos"
+        ],
+        "use": [
+          "distraction-checklist-interruption-log",
+          "study-break-plan-table",
+          "mindfulness-before-study-focus-log",
+          "pc-study-screen-sorting-sheet",
+          "phone-notification-sorting-sheet-study"
+        ]
+      }
+    },
+    {
+      "id": "place",
+      "label": "勉強する場所・時間帯",
+      "cells": {
+        "judge": [
+          "study-location-context-dependent-memory",
+          "chronotype-best-time-to-study",
+          "standing-desk-study-focus",
+          "tidy-desk-clutter-focus",
+          "same-time-every-day-study-habit"
+        ],
+        "how": [
+          "home-study-space-setup",
+          "stale-air-study-room-ventilation",
+          "study-room-lighting-how-to",
+          "lunch-break-study-how-to",
+          "nature-sounds-study-room-how-to"
+        ],
+        "stuck": [
+          "study-routine-after-life-change",
+          "evening-study-after-work-fatigue",
+          "morning-study-failed-early-rising-reset",
+          "shift-work-study-schedule-reset",
+          "noisy-home-study-reset"
+        ],
+        "why": [
+          "why-cafe-noise-feels-focused",
+          "why-hot-room-hard-to-study",
+          "why-ideas-come-at-off-peak-time",
+          "why-weekend-sleep-in-monday-study",
+          "why-library-study-room-feels-productive"
+        ],
+        "use": [
+          "study-place-time-log-sheet",
+          "study-room-air-temperature-checklist",
+          "study-time-of-day-menu-table",
+          "indoor-plants-study-desk-checklist",
+          "bed-desk-study-place-sorting-table"
+        ]
+      }
+    },
+    {
+      "id": "body",
+      "label": "睡眠・運動と勉強",
+      "cells": {
+        "judge": [
+          "sleep-before-study-memory",
+          "exercise-and-memory-learning",
+          "gum-sugar-before-study-focus",
+          "coffee-caffeine-study-memory",
+          "coffee-nap-caffeine-before-nap"
+        ],
+        "how": [
+          "nap-for-study-memory",
+          "movement-breaks-long-study-sessions",
+          "phone-away-before-bed-sleep-study",
+          "breakfast-before-morning-study",
+          "warm-bath-before-bed-after-night-study",
+          "period-days-study-plan-how-to"
+        ],
+        "stuck": [
+          "study-after-sleep-loss-recovery",
+          "caffeine-sleep-study-reset",
+          "cant-sleep-worrying-about-study-exam",
+          "exercise-for-study-quit-restart",
+          "evening-exercise-cant-sleep-study-reset",
+          "groggy-after-nap-sleep-inertia-reset"
+        ],
+        "use": [
+          "sleep-log-checklist-for-learners",
+          "exam-eve-morning-checklist",
+          "exercise-study-weekly-plan-sheet",
+          "sleepiness-check-sheet-study",
+          "cold-sick-day-study-menu-table"
+        ],
+        "why": [
+          "why-sleep-organizes-memory",
+          "why-sleepy-after-lunch-studying",
+          "why-thirst-dehydration-hard-to-focus",
+          "why-stuck-problem-solved-after-sleep-or-walk",
+          "why-sleep-deprived-avoid-hard-study",
+          "why-hungry-after-studying-mental-work"
+        ]
+      }
+    },
+    {
+      "id": "habit",
+      "label": "続かない・三日坊主",
+      "cells": {
+        "why": [
+          "willpower-self-control-study-environment",
+          "why-study-habit-takes-time-to-form",
+          "why-intend-to-study-but-dont",
+          "why-dont-do-goals-fail",
+          "why-study-progress-plateaus"
+        ],
+        "how": [
+          "implementation-intentions-if-then-study",
+          "study-buddy-learning-together",
+          "temptation-bundling-study",
+          "gamify-self-study-how-to",
+          "study-skip-days-emergency-reserve-how-to"
+        ],
+        "use": [
+          "study-log-progress-monitoring",
+          "https://dokugaku.seadice.win/study-log/",
+          "https://dokugaku.seadice.win/templates/if-then/",
+          "study-habit-cue-checklist-sheet",
+          "study-not-continuing-com-b-check-sheet"
+        ],
+        "stuck": [
+          "restart-study-after-break",
+          "study-habit-after-course-ends",
+          "perfectionism-study-cannot-continue",
+          "daily-study-quota-broken-restart",
+          "slacking-day-after-big-study-day-reset"
+        ],
+        "judge": [
+          "tell-goals-to-others-or-keep-secret",
+          "self-imposed-deadlines-study",
+          "study-streak-keep-going",
+          "just-start-five-minutes-motivation",
+          "grit-perseverance-study-continue"
+        ]
+      }
+    },
+    {
+      "id": "plan",
+      "label": "計画倒れ・時間がない",
+      "cells": {
+        "why": [
+          "planning-fallacy-study-plans",
+          "why-overcommit-future-study-time",
+          "why-do-quick-tasks-before-studying",
+          "why-no-time-only-urgent-deadlines",
+          "why-vague-study-goals-hard-to-start"
+        ],
+        "judge": [
+          "micro-learning-spare-time-study",
+          "goal-setting-high-or-small-steps",
+          "work-better-under-pressure-last-minute",
+          "calendar-time-blocking-vs-todo-list",
+          "hardest-task-first-morning-study",
+          "working-adults-study-time-average-statistics"
+        ],
+        "use": [
+          "https://dokugaku.seadice.win/templates/study-plan/",
+          "spare-time-study-menu-table",
+          "study-time-estimate-vs-actual-log",
+          "weekly-study-plan-monday-sheet",
+          "study-session-before-during-after-check-card"
+        ],
+        "how": [
+          "make-study-time-working-adults",
+          "backward-study-plan-from-exam-date",
+          "study-reminders-cues-how-to",
+          "study-goals-tasks-not-scores-how-to",
+          "count-study-days-not-questions-plan",
+          "parenting-study-time-plan-how-to"
+        ],
+        "stuck": [
+          "rebuild-broken-study-plan",
+          "exam-close-not-enough-time",
+          "exam-far-away-never-started-reset",
+          "too-many-study-goals-cannot-progress",
+          "avoid-checking-study-progress-reset"
+        ]
+      }
+    },
+    {
+      "id": "mind",
+      "label": "やる気が出ない・不安",
+      "cells": {
+        "judge": [
+          "rewards-undermining-study-motivation",
+          "growth-mindset-praise-effort",
+          "interest-first-study-motivation",
+          "positive-self-statements-i-can-affirmation",
+          "power-pose-before-exam-confidence"
+        ],
+        "how": [
+          "test-anxiety-expressive-writing",
+          "write-why-study-matters-motivation",
+          "slow-breathing-before-study-anxiety",
+          "choose-what-to-study-motivation",
+          "future-self-imagine-study-motivation",
+          "exam-anxiety-music-listening-how-to"
+        ],
+        "stuck": [
+          "self-compassion-after-study-setback",
+          "study-boredom-restart",
+          "study-motivation-slump-halfway",
+          "math-anxiety-stuck-restart",
+          "afraid-of-failing-avoid-practice-tests-restart",
+          "friend-passed-first-envy-motivation-reset"
+        ],
+        "use": [
+          "study-burnout-recovery",
+          "procrastination-checklist-study-log",
+          "study-anxiety-self-talk-rephrase-table",
+          "woop-study-motivation-obstacle-plan-sheet",
+          "study-task-cost-check-sheet"
+        ],
+        "why": [
+          "why-procrastinate-studying",
+          "why-comparing-study-progress-on-sns-hurts",
+          "why-studying-feels-effortful-mental-effort",
+          "why-feel-like-impostor-despite-studying",
+          "why-low-confidence-no-motivation-self-efficacy"
+        ]
+      }
+    },
+    {
+      "id": "adult",
+      "label": "大人の学び直し",
+      "cells": {
+        "why": [
+          "adult-relearning-age-and-learning",
+          "why-adult-pronunciation-accent-stays",
+          "why-old-habits-block-new-methods-relearning",
+          "why-beginners-overconfident-relearning",
+          "why-adults-hard-to-memorize-term-pairs"
+        ],
+        "how": [
+          "adult-relearning-how-to-study",
+          "lecture-video-how-to-watch",
+          "apply-relearning-at-work-transfer",
+          "commute-audio-learning-how-to",
+          "work-experience-after-action-review-how-to",
+          "adult-motor-skill-mixed-practice-how-to"
+        ],
+        "stuck": [
+          "adult-learning-dropout-restart",
+          "adult-memory-confidence-age-belief",
+          "adult-learner-afraid-to-ask-questions",
+          "work-habits-conflict-textbook-answers",
+          "small-print-hard-to-read-adult-study",
+          "certification-knowledge-fading-unused-reset"
+        ],
+        "use": [
+          "adult-relearning-plan-sheet",
+          "adult-relearning-starting-point-check",
+          "relearning-course-selection-checklist",
+          "remember-or-write-down-relearning-sheet",
+          "relearning-reasons-motivation-check-sheet"
+        ],
+        "judge": [
+          "brain-training-games-adult-learning",
+          "online-vs-classroom-adult-learning",
+          "learning-new-skill-brain-aging",
+          "adult-language-grammar-or-conversation-first",
+          "weekend-batch-vs-daily-study-adults",
+          "english-2200-hours-fsi-myth"
+        ]
+      }
+    },
+    {
+      "id": "ai",
+      "label": "AIと独学",
+      "cells": {
+        "judge": [
+          "ai-answers-and-learning",
+          "ai-writing-feedback-revision",
+          "self-explanation-vs-ai-explanation",
+          "ai-grading-vs-self-grading-accuracy",
+          "ai-made-flashcards-vs-self-made"
+        ],
+        "how": [
+          "ai-practice-questions-how-to",
+          "ai-research-learn-deeper-how-to",
+          "explain-to-ai-find-gaps",
+          "ai-conversation-speaking-practice-how-to",
+          "ai-programming-self-study-how-to",
+          "ai-reflection-questions-metacognitive-feedback-how-to"
+        ],
+        "stuck": [
+          "ai-overreliance-solve-on-your-own",
+          "ai-wrong-answer-unlearn-correct",
+          "ai-made-mistakes-lost-trust-rebuild",
+          "ai-explanations-forgotten-relearn",
+          "ai-writing-feedback-too-many-corrections-reset",
+          "ai-solo-study-feels-boring-motivation-reset"
+        ],
+        "why": [
+          "why-ai-explanations-feel-understood",
+          "why-ai-confidently-wrong-hallucination",
+          "why-ai-agrees-with-wrong-answer",
+          "why-ai-help-makes-ideas-similar",
+          "why-trust-wrong-ai-answers-automation-bias"
+        ],
+        "use": [
+          "ai-study-checklist",
+          "ai-study-prompt-templates",
+          "ai-answer-fact-check-table",
+          "ai-summary-check-table",
+          "ai-study-task-delegation-sorting-table"
+        ]
+      }
+    }
+  ],
+  "research": []
+}

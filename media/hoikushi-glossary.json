@@ -719,8 +719,8 @@
   "def": "授乳・離乳の支援ガイドとは、授乳と離乳を支援する保健医療の従事者などに向けて、支援の基本的な考え方と進め方をまとめた国の手引きのことで、現在のものは2019年3月に改定されました。",
   "sources": [
    {
-    "text": "厚生労働省「授乳・離乳の支援ガイド」（2019年3月）",
-    "url": "https://www.mhlw.go.jp/content/11908000/000496257.pdf"
+    "text": "こども家庭庁「授乳・離乳の支援ガイド」（2019年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/ff38becb-bbd1-41f3-a95e-3a22ddac09d8/8ad42093/20230401_policies_boshihoken_123.pdf"
    }
   ],
   "date": "2026-10-05"
@@ -1691,6 +1691,480 @@
    {
     "text": "e-Gov法令検索「発達障害者支援法」",
     "url": "https://laws.e-gov.go.jp/law/416AC1000000167"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "onbu-kigo",
+  "term": "音部記号",
+  "en": "Clef",
+  "field": "保育実習理論",
+  "def": "音部記号とは、五線の左端に書き、線と間がどの高さの音にあたるかの基準を示す記号のことで、ト音記号（高音部記号）・ヘ音記号（低音部記号）・ハ音記号があります。",
+  "sources": [
+   {
+    "text": "浅田まり子「教員のための音楽」『学び舎：教職課程研究』第8号、愛知淑徳大学教育学会、2013年",
+    "url": "https://aska-r.repo.nii.ac.jp/record/6280/files/0027008201303024036.pdf"
+   },
+   {
+    "text": "Open Music Theory「Basic notation」",
+    "url": "https://openmusictheory.github.io/basicNotation.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hyoshi-kigo",
+  "term": "拍子記号",
+  "en": "Time signature",
+  "field": "保育実習理論",
+  "def": "拍子記号とは、何の音符を1拍とし、1小節に何拍入るかを示す記号のことで、たとえば4分の4拍子は4分音符を1拍として1小節に4拍入ります。",
+  "sources": [
+   {
+    "text": "浅田まり子「教員のための音楽」『学び舎：教職課程研究』第8号、愛知淑徳大学教育学会、2013年",
+    "url": "https://aska-r.repo.nii.ac.jp/record/6280/files/0027008201303024036.pdf"
+   },
+   {
+    "text": "Open Music Theory「Meter」",
+    "url": "https://openmusictheory.github.io/meter.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "chord-name",
+  "term": "コードネーム",
+  "en": "Chord symbol",
+  "field": "保育実習理論",
+  "def": "コードネームとは、和音を根音の英語の音名と和音の種類を表す記号で示す書き方のことで、ハ長調のⅠ・Ⅳ・Ⅴの和音はC・F・G、Ⅴの七の和音はG7と書きます。",
+  "sources": [
+   {
+    "text": "Open Music Theory「Triads and seventh chords」",
+    "url": "https://openmusictheory.github.io/triads.html"
+   },
+   {
+    "text": "浅田まり子「教員のための音楽」『学び舎：教職課程研究』第8号、愛知淑徳大学教育学会、2013年",
+    "url": "https://aska-r.repo.nii.ac.jp/record/6280/files/0027008201303024036.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "iro-no-sanzokusei",
+  "term": "色の三属性",
+  "en": "Three attributes of color",
+  "field": "保育実習理論",
+  "def": "色の三属性とは、色を表す3つの性質である、色味の系統の色相、明るさの度合いの明度、鮮やかさの度合いの彩度のことです。",
+  "sources": [
+   {
+    "text": "河野瑠子「色彩調和の基本」『学習院女子短期大学紀要』第27号、1989年",
+    "url": "https://glim-re.repo.nii.ac.jp/record/2922/files/tankidaigaku_27_149_173.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hoshoku",
+  "term": "補色",
+  "en": "Complementary colors",
+  "field": "保育実習理論",
+  "def": "補色とは、色相環で向かい合う位置にある2色のことで、並べると強い対比が生まれ、混ぜると灰色のような無彩色になります。",
+  "sources": [
+   {
+    "text": "河野瑠子「色彩調和の基本」『学習院女子短期大学紀要』第27号、1989年",
+    "url": "https://glim-re.repo.nii.ac.jp/record/2922/files/tankidaigaku_27_149_173.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "genpo-konshoku",
+  "term": "減法混色",
+  "en": "Subtractive color mixing",
+  "field": "保育実習理論",
+  "def": "減法混色とは、絵の具やインクなど光を吸収するものを重ねる混色のことで、シアン・マゼンタ・イエローを三原色とし、混ぜるほど暗くなります。",
+  "sources": [
+   {
+    "text": "日本大百科全書（ニッポニカ）「三原色」（コトバンク）",
+    "url": "https://kotobank.jp/word/%E4%B8%89%E5%8E%9F%E8%89%B2-3779"
+   },
+   {
+    "text": "キヤノン「色の三原色（CMY）について」",
+    "url": "https://global.canon/ja/technology/kids/mystery/m_04_04.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "jisshu-nisshi",
+  "term": "実習日誌",
+  "en": "Practicum diary",
+  "field": "保育実習理論",
+  "def": "実習日誌とは、保育実習の内容を一日ごとに記録して実習施設に提出する記録のことで、子どもの活動、保育士の援助・配慮、実習生の動き、考察などを書きます。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会 東北ブロック研究委員会「保育実習指導のガイドライン Ver.Ⅴ」（令和4年4月）",
+    "url": "https://sec0b209ea3496056.jimcontent.com/download/version/1669716289/module/14211483592/name/%E4%BF%9D%E8%82%B2%E5%AE%9F%E7%BF%92%E6%8C%87%E5%B0%8E%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%EF%BC%88ver5%EF%BC%89%E5%85%A8%E6%96%87.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "bubun-jisshu",
+  "term": "部分実習",
+  "en": "Partial practicum",
+  "field": "保育実習理論",
+  "def": "部分実習とは、絵本の読み聞かせや手遊び、昼食の時間など、保育の一部の活動や時間を実習生が担当して行う実習のことです。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会 東北ブロック研究委員会「保育実習指導のガイドライン Ver.Ⅴ」（令和4年4月）",
+    "url": "https://sec0b209ea3496056.jimcontent.com/download/version/1669716289/module/14211483592/name/%E4%BF%9D%E8%82%B2%E5%AE%9F%E7%BF%92%E6%8C%87%E5%B0%8E%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%EF%BC%88ver5%EF%BC%89%E5%85%A8%E6%96%87.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kankyo-kosei",
+  "term": "環境構成",
+  "en": "Environmental arrangement",
+  "field": "保育実習理論",
+  "def": "環境構成とは、子どもが主体的に活動できるよう、遊具や素材、場の配置などの環境を計画的に整えることです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」第1章3(2)ウ",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   },
+   {
+    "text": "全国保育士養成協議会「保育実習指導者研修テキスト」（2024年3月）",
+    "url": "https://www.hoyokyo.or.jp/nursing_hyk/23trainingtextP1-45.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "suishoryo",
+  "term": "推奨量",
+  "en": "Recommended dietary allowance (RDA)",
+  "field": "子どもの食と栄養",
+  "def": "推奨量とは、日本人の食事摂取基準の指標の1つで、ある集団のほとんどの人（97〜98％）が必要量を充足している量のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「日本人の食事摂取基準（2025年版）」策定検討会報告書 総論",
+    "url": "https://www.mhlw.go.jp/content/10904750/001316460.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "taiyo-jogenryo",
+  "term": "耐容上限量",
+  "en": "Tolerable upper intake level (UL)",
+  "field": "子どもの食と栄養",
+  "def": "耐容上限量とは、日本人の食事摂取基準の指標の1つで、健康障害をもたらすリスクがないとみなされる習慣的な摂取量の上限のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「日本人の食事摂取基準（2025年版）」策定検討会報告書 総論",
+    "url": "https://www.mhlw.go.jp/content/10904750/001316460.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "suitei-energy-hitsuyoryo",
+  "term": "推定エネルギー必要量",
+  "en": "Estimated energy requirement (EER)",
+  "field": "子どもの食と栄養",
+  "def": "推定エネルギー必要量とは、日本人の食事摂取基準で、性・年齢区分・身体活動レベル別に示される1日に必要なエネルギーの推定値のことで、小児では成長に必要な分を加えて求めます。",
+  "sources": [
+   {
+    "text": "厚生労働省「日本人の食事摂取基準（2025年版）」策定検討会報告書 エネルギー",
+    "url": "https://www.mhlw.go.jp/content/10904750/001316461.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "rinyu-no-kanryo",
+  "term": "離乳の完了",
+  "en": "Completion of weaning",
+  "field": "子どもの食と栄養",
+  "def": "離乳の完了とは、形のある食物をかみつぶすことができるようになり、エネルギーや栄養素の大部分を母乳や育児用ミルク以外の食物からとれるようになった状態のことで、生後12〜18か月頃が目安です。",
+  "sources": [
+   {
+    "text": "「授乳・離乳の支援ガイド」（2019年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/ff38becb-bbd1-41f3-a95e-3a22ddac09d8/8ad42093/20230401_policies_boshihoken_123.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "tezukami-tabe",
+  "term": "手づかみ食べ",
+  "en": "Self-feeding with hands",
+  "field": "子どもの食と栄養",
+  "def": "手づかみ食べとは、子どもが食べ物を手でつかんで自分で食べることで、生後9か月頃から始まり、授乳・離乳の支援ガイドでは発育・発達のために積極的にさせたい行動とされています。",
+  "sources": [
+   {
+    "text": "「授乳・離乳の支援ガイド」（2019年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/ff38becb-bbd1-41f3-a95e-3a22ddac09d8/8ad42093/20230401_policies_boshihoken_123.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "nyuji-botulinus",
+  "term": "乳児ボツリヌス症",
+  "en": "Infant botulism",
+  "field": "子どもの食と栄養",
+  "def": "乳児ボツリヌス症とは、1歳未満の乳児が芽胞の状態のボツリヌス菌を摂取し、その芽胞が消化管内で発芽・増殖して出す毒素によって発症する病気のことです。",
+  "sources": [
+   {
+    "text": "「授乳・離乳の支援ガイド」（2019年3月）参考資料8",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/ff38becb-bbd1-41f3-a95e-3a22ddac09d8/8ad42093/20230401_policies_boshihoken_123.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shoku-wo-itonamu-chikara",
+  "term": "食を営む力",
+  "en": "Ability to manage one's own diet",
+  "field": "子どもの食と栄養",
+  "def": "食を営む力とは、生涯にわたって健康で質の高い生活を送る基本となる、食に関わる力のことで、保育所保育指針は、保育所の食育の目標をこの力の育成に向けてその基礎を培うこととしています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   },
+   {
+    "text": "厚生労働省「楽しく食べる子どもに〜食からはじまる健やかガイド〜」（2004年）",
+    "url": "https://www.mhlw.go.jp/shingi/2004/02/s0219-3.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shokuiku-keikaku",
+  "term": "食育計画",
+  "en": "Food education plan",
+  "field": "子どもの食と栄養",
+  "def": "食育計画とは、保育所で食事の提供を含む食育を進めるために、全体的な計画に基づいて作る計画のことで、評価と改善に努めることが求められています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "seikatsu-kanri-shidohyo",
+  "term": "生活管理指導表",
+  "en": "Allergy management guidance form",
+  "field": "子どもの食と栄養",
+  "def": "生活管理指導表とは、保育所でのアレルギー対応に関する、子どもを中心に据えた医師と保護者、保育所のコミュニケーションツールとなる様式のことで、これに基づく対応が必須とされています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所におけるアレルギー対応ガイドライン（2019年改訂版）」",
+    "url": "https://sukoyaka21.cfa.go.jp/media/tools/s04_nyu_gail029.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kanzen-jokyo",
+  "term": "完全除去",
+  "en": "Complete elimination",
+  "field": "子どもの食と栄養",
+  "def": "完全除去とは、食物アレルギーの原因となる食物を、提供するかしないかの2択で扱う対応のことで、保育所では「完全除去」か「解除」の両極で対応することが基本とされています。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所におけるアレルギー対応ガイドライン（2019年改訂版）」",
+    "url": "https://sukoyaka21.cfa.go.jp/media/tools/s04_nyu_gail029.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "anaphylaxis",
+  "term": "アナフィラキシー",
+  "en": "Anaphylaxis",
+  "field": "子どもの食と栄養",
+  "def": "アナフィラキシーとは、アレルギー反応により、じん麻疹などの皮膚症状、腹痛や嘔吐などの消化器症状、息苦しさなどの呼吸器症状が複数同時にかつ急激に出現した状態のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所におけるアレルギー対応ガイドライン（2019年改訂版）」",
+    "url": "https://sukoyaka21.cfa.go.jp/media/tools/s04_nyu_gail029.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hikiutai",
+  "term": "弾き歌い",
+  "en": "Singing while playing",
+  "field": "基本",
+  "def": "弾き歌いとは、ピアノやギターで伴奏を弾きながら歌うことで、保育士試験の音楽の実技では、幼児に歌って聴かせることを想定して課題曲2曲を弾き歌いします。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会「実技試験（前期）概要」",
+    "url": "https://www.hoyokyo.or.jp/exam/guidance/practicalexam1.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "yochien-menkyo-menjo",
+  "term": "幼稚園教諭免許状所有者の免除",
+  "en": "Exemption for kindergarten teacher license holders",
+  "field": "基本",
+  "def": "幼稚園教諭免許状所有者の免除とは、幼稚園教諭免許状（臨時免許を除く）をもつ人が免除申請をすると、保育士試験の保育の心理学・教育原理・実技試験が免除になるしくみのことです。",
+  "sources": [
+   {
+    "text": "全国保育士養成協議会「幼稚園教諭免許状所有者の免除について」",
+    "url": "https://www.hoyokyo.or.jp/exam/exemption/Howto-qualify_kinder.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ryoiki-hyogen",
+  "term": "領域「表現」",
+  "en": "Area of expression",
+  "field": "保育原理",
+  "def": "領域「表現」とは、保育所保育指針の5領域の1つで、感じたことや考えたことを自分なりに表現することを通して、豊かな感性や表現する力を養い、創造性を豊かにする領域のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ryoiki-kotoba",
+  "term": "領域「言葉」",
+  "en": "Area of language",
+  "field": "保育原理",
+  "def": "領域「言葉」とは、保育所保育指針の5領域の1つで、経験したことや考えたことを自分なりの言葉で表現し、相手の話す言葉を聞こうとする意欲や態度、言葉で表現する力を養う領域のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「保育所保育指針」（平成29年厚生労働省告示第117号）",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00010450&dataType=0&pageNo=1"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "yuko-kyujin-bairitsu",
+  "term": "有効求人倍率",
+  "en": "Ratio of job offers to applicants",
+  "field": "保育の現場の課題",
+  "def": "有効求人倍率とは、仕事を探す人1人あたりに求人がいくつあるかを示す数字のことで、保育士は令和7年10月に3.10倍と、全職種平均の1.20倍を上回っています。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育政策関係資料集」（令和8年4月）（保育人材の確保、保育士の登録者数と従事者数の推移、処遇改善）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/f924be75/20260416_policies_hoiku_228.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "senzai-hoikushi",
+  "term": "潜在保育士",
+  "en": "Inactive qualified nursery teachers",
+  "field": "保育の現場の課題",
+  "def": "潜在保育士とは、保育士の資格を持ちながら保育の現場で働いていない人のことで、国は再就職や職場復帰の支援を進めています。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育政策関係資料集」（令和8年4月）（保育人材の確保、保育士の登録者数と従事者数の推移、処遇改善）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/f924be75/20260416_policies_hoiku_228.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hoikusho-gyakutai",
+  "term": "保育所等における虐待",
+  "en": "Abuse by staff at childcare facilities",
+  "field": "保育の現場の課題",
+  "def": "保育所等における虐待とは、保育所等の職員が通う子どもに行う身体的虐待・性的虐待・ネグレクト・心理的虐待のことで、令和7年10月1日から見つけた人に通報義務があります（児童福祉法第33条の10・第33条の12）。",
+  "sources": [
+   {
+    "text": "こども家庭庁「保育所等の職員による虐待に関する通報義務等について」（対象施設・事業、施行日、ガイドラインの概要）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/9bfb8838/20250908_policies_hoiku_154.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「児童福祉法」（第33条の10〜第33条の12・第33条の16）",
+    "url": "https://laws.e-gov.go.jp/law/322AC0000000164"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "gyakutai-boshi-guideline",
+  "term": "虐待防止ガイドライン（保育所等）",
+  "en": "Guidelines on preventing abuse at childcare facilities",
+  "field": "保育の現場の課題",
+  "def": "虐待防止ガイドライン（保育所等）とは、「保育所や幼稚園等における虐待の防止及び発生時の対応等に関するガイドライン」のことで、令和5年5月に策定され、令和7年8月に改訂されました。",
+  "sources": [
+   {
+    "text": "こども家庭庁・文部科学省「保育所や幼稚園等における虐待の防止及び発生時の対応等に関するガイドライン」（令和7年8月改訂）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/c3c02bee/20250908_policies_hoiku_153.pdf"
+   },
+   {
+    "text": "こども家庭庁「保育所等の職員による虐待に関する通報義務等について」（対象施設・事業、施行日、ガイドラインの概要）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/9bfb8838/20250908_policies_hoiku_154.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "anzen-keikaku",
+  "term": "安全計画",
+  "en": "Safety plan",
+  "field": "保育の現場の課題",
+  "def": "安全計画とは、児童福祉施設が設備の安全点検、施設外の活動を含む安全指導、職員の研修や訓練などについて定める計画のことで、保育所は令和5年4月から策定が義務になりました（基準第6条の3）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉施設の設備及び運営に関する基準」（第6条の3・第6条の4・附則）",
+    "url": "https://laws.e-gov.go.jp/law/323M40000100063"
+   },
+   {
+    "text": "厚生労働省子ども家庭局保育課 事務連絡「保育所等における安全計画の策定に関する留意事項等について」（令和4年12月15日）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/d7e254d2/20230401_policies_hoiku_10.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hiyari-hatto-hokoku",
+  "term": "ヒヤリハット報告",
+  "en": "Near-miss report",
+  "field": "保育の現場の課題",
+  "def": "ヒヤリハット報告とは、重大事故が起きるおそれがあった場面に関わった職員が作成して施設に出す報告のことで、施設は要因を分析して事故防止対策に生かします。",
+  "sources": [
+   {
+    "text": "「教育・保育施設等における事故防止及び事故発生時の対応のためのガイドライン【事故防止のための取組み】～施設・事業者向け～」（平成28年3月）",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/03f45df9-97e1-4016-b0c3-8496712699a3/39b6fd36/20230607_policies_child-safety_effort_guideline_02.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "okizari-boshi-sochi",
+  "term": "置き去り防止の安全装置",
+  "en": "Safety device to prevent children being left in vehicles",
+  "field": "保育の現場の課題",
+  "def": "置き去り防止の安全装置とは、送迎を目的とした車に備える、車内の子どもの見落としを防ぐブザーなどの装置のことで、日常的に送迎する保育所は降車時の所在確認に使います（基準第6条の4第2項）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「児童福祉施設の設備及び運営に関する基準」（第6条の3・第6条の4・附則）",
+    "url": "https://laws.e-gov.go.jp/law/323M40000100063"
+   },
+   {
+    "text": "こども家庭庁「送迎用バスの安全対策」",
+    "url": "https://www.cfa.go.jp/policies/child-safety/effort/anzen_kanri/"
    }
   ],
   "date": "2026-10-06"

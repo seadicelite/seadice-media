@@ -50,14 +50,18 @@
   "term": "パート合格",
   "en": "Partial pass by part",
   "field": "基本",
-  "def": "パート合格とは、介護福祉士国家試験の筆記試験をパートA・B・Cに分け、全体で不合格でも基準を満たしたパートを合格とするしくみのことで、第39回（令和8年度）試験から適用され、合格したパートは翌々年の試験まで有効です。",
+  "def": "パート合格とは、介護福祉士国家試験の筆記試験をパートA・B・Cに分け、全体で不合格でも合格基準を満たしたパートを合格とするしくみのことで、合格したパートは翌々年の試験まで受験が免除されます。",
   "sources": [
    {
     "text": "社会福祉振興・試験センター「合格基準」",
     "url": "https://www.sssc.or.jp/kaigo/kijun/kijun_02.html"
+   },
+   {
+    "text": "社会福祉振興・試験センター「令和8年度第39回介護福祉士国家試験」",
+    "url": "https://www.sssc.or.jp/kaigo/tetsuzuki.html"
    }
   ],
-  "date": "2026-10-05"
+  "date": "2026-10-06"
  },
  {
   "id": "jitsumu-route",
@@ -532,5 +536,1851 @@
    }
   ],
   "date": "2026-10-05"
+ },
+ {
+  "id": "kaigofukushishi-touroku",
+  "term": "介護福祉士登録",
+  "en": "Certified care worker registration",
+  "field": "基本",
+  "def": "介護福祉士登録とは、介護福祉士となる資格を持つ人が介護福祉士登録簿に氏名や生年月日などの登録を受けることで、登録を受けてはじめて介護福祉士になります（社会福祉士及び介護福祉士法第42条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会福祉士及び介護福祉士法」",
+    "url": "https://laws.e-gov.go.jp/law/362AC0000000030"
+   },
+   {
+    "text": "社会福祉振興・試験センター「介護福祉士国家試験 資格制度の概要」",
+    "url": "https://www.sssc.or.jp/kaigo/shikaku/index.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "gyomu-dokusen",
+  "term": "業務独占",
+  "en": "Exclusive right to practice",
+  "field": "基本",
+  "def": "業務独占とは、資格を持たない人がその仕事をすること自体を法律で禁じるしくみのことで、医師の医業が代表例であり、介護福祉士は業務独占ではなく名称独占の資格です（医師法第17条、社会福祉士及び介護福祉士法第48条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「医師法」",
+    "url": "https://laws.e-gov.go.jp/law/323AC0000000201"
+   },
+   {
+    "text": "e-Gov法令検索「社会福祉士及び介護福祉士法」",
+    "url": "https://laws.e-gov.go.jp/law/362AC0000000030"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "juji-nissu",
+  "term": "従事日数",
+  "en": "Days engaged in care work",
+  "field": "基本",
+  "def": "従事日数とは、実務経験ルートの受験資格で数える、雇用契約にもとづき実際に介護等の業務に従事した日数のことで、休暇や欠勤などの日は除き、540日以上が必要です。",
+  "sources": [
+   {
+    "text": "社会福祉振興・試験センター「実務経験＋実務者研修」",
+    "url": "https://www.sssc.or.jp/kaigo/shikaku/k_08.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "goukaku-kijunten",
+  "term": "合格基準点",
+  "en": "Passing score",
+  "field": "基本",
+  "def": "合格基準点とは、介護福祉士国家試験で、問題の総得点の60％程度を基準として問題の難易度で補正した点数のことです。",
+  "sources": [
+   {
+    "text": "社会福祉振興・試験センター「介護福祉士国家試験 合格基準」",
+    "url": "https://www.sssc.or.jp/kaigo/kijun/kijun_02.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "renshu-test",
+  "term": "練習テスト（想起練習）",
+  "en": "Practice testing",
+  "field": "基本",
+  "def": "練習テスト（想起練習）とは、本文を見ずに問題に答えて覚えたことを思い出す学習法のことで、2013年のダンロスキーらの研究整理で効果の高い方法と評価されました。",
+  "sources": [
+   {
+    "text": "Dunlosky, J. et al. (2013). Psychological Science in the Public Interest, 14(1), 4-58.",
+    "url": "https://doi.org/10.1177/1529100612453266"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "bunsan-gakushu",
+  "term": "分散学習",
+  "en": "Distributed practice",
+  "field": "基本",
+  "def": "分散学習とは、同じ内容を一度にまとめて学ばず、日をあけて何度か学ぶ方法のことで、2013年のダンロスキーらの研究整理で効果の高い方法と評価されました。",
+  "sources": [
+   {
+    "text": "Dunlosky, J. et al. (2013). Psychological Science in the Public Interest, 14(1), 4-58.",
+    "url": "https://doi.org/10.1177/1529100612453266"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "icf",
+  "term": "ICF（国際生活機能分類）",
+  "en": "International Classification of Functioning, Disability and Health",
+  "field": "人間の尊厳と自立",
+  "def": "ICF（国際生活機能分類）とは、2001年5月の世界保健機関（WHO）総会で採択された人の生活機能と障害の分類で、心身機能・身体構造、活動、参加と、環境因子・個人因子の背景因子が影響し合うととらえます。",
+  "sources": [
+   {
+    "text": "厚生労働省「「国際生活機能分類−国際障害分類改訂版−」（日本語版）の厚生労働省ホームページ掲載について」",
+    "url": "https://www.mhlw.go.jp/houdou/2002/08/h0805-1.html"
+   },
+   {
+    "text": "World Health Organization「International Classification of Functioning, Disability and Health (ICF)」",
+    "url": "https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "rinri-koryo",
+  "term": "日本介護福祉士会倫理綱領",
+  "en": "Code of ethics of the Japan Association of Certified Care Workers",
+  "field": "人間の尊厳と自立",
+  "def": "日本介護福祉士会倫理綱領とは、1995年11月17日に宣言された介護福祉の専門職としての約束で、利用者本位・自立支援、プライバシーの保護、積極的な連携・協力、利用者ニーズの代弁など7つの項目を掲げています。",
+  "sources": [
+   {
+    "text": "日本介護福祉士会「倫理綱領」",
+    "url": "https://www.jaccw.or.jp/about/rinri/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kinkyu-yamuwoenai",
+  "term": "緊急やむを得ない場合",
+  "en": "Cases of unavoidable emergency",
+  "field": "人間の尊厳と自立",
+  "def": "緊急やむを得ない場合とは、身体拘束が例外的に認められうる場合のことで、厚生労働省の手引きは、切迫性・非代替性・一時性の3つの要件をすべて満たし、組織で慎重に確認する場合に限るとしています。",
+  "sources": [
+   {
+    "text": "厚生労働省「介護施設・事業所等で働く方々への身体拘束廃止・防止の手引き」（令和6年3月）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001248430.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「指定介護老人福祉施設の人員、設備及び運営に関する基準」",
+    "url": "https://laws.e-gov.go.jp/law/411M50000100039"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hiyari-hatto",
+  "term": "ヒヤリ・ハット",
+  "en": "Near miss",
+  "field": "人間の尊厳と自立",
+  "def": "ヒヤリ・ハットとは、事故には至らなかったものの、ヒヤリとしたりハッとしたりしたできごとのことで、国のガイドラインは、報告して施設全体で振り返り、事故の未然防止に生かすことを求めています。",
+  "sources": [
+   {
+    "text": "厚生労働省老健局「介護保険施設等における事故予防及び事故発生時の対応に関するガイドライン」（令和7年11月）",
+    "url": "https://www.mhlw.go.jp/content/001569590.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hyojun-yobosaku",
+  "term": "標準予防策",
+  "en": "Standard precautions",
+  "field": "人間の尊厳と自立",
+  "def": "標準予防策とは、感染症の有無に関わらず、すべての人の血液、体液、汗を除く分泌物、排泄物、損傷した皮膚、粘膜などを感染の可能性があるとみなして対応する方法で、スタンダード・プリコーションともいいます。",
+  "sources": [
+   {
+    "text": "厚生労働省老健局「介護現場における感染対策の手引き 第3版」（令和5年9月）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001149870.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "tokutei-shippei",
+  "term": "特定疾病",
+  "en": "Specified diseases",
+  "field": "社会の理解",
+  "def": "特定疾病とは、加齢に伴って生ずる心身の変化に起因する疾病として政令で定められた16の疾病のことで、第2号被保険者は要介護・要支援の原因がこれに当たるときにサービスを使えます（介護保険法第7条第3項第2号、介護保険法施行令第2条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（第1条・第3条・第7条・第9条）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   },
+   {
+    "text": "e-Gov法令検索「介護保険法施行令」",
+    "url": "https://laws.e-gov.go.jp/law/410CO0000000412"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "riyosha-futan",
+  "term": "利用者負担",
+  "en": "User co-payment",
+  "field": "社会の理解",
+  "def": "利用者負担とは、介護保険のサービスを使ったときに利用者が払う費用のことで、原則は費用の1割、一定以上の所得がある人は2割または3割です。",
+  "sources": [
+   {
+    "text": "厚生労働省 介護サービス情報公表システム「サービスにかかる利用料」",
+    "url": "https://www.kaigokensaku.mhlw.go.jp/commentary/fee.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hokensha",
+  "term": "保険者",
+  "en": "Insurer",
+  "field": "社会の理解",
+  "def": "保険者とは、保険を運営する側のことで、介護保険では市町村と特別区が保険者です（介護保険法第3条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（第1条・第3条・第7条・第9条）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "nintei-shinsakai",
+  "term": "認定審査会",
+  "en": "Certification committee",
+  "field": "社会の理解",
+  "def": "認定審査会とは、市町村から通知された調査の結果や主治医の意見をもとに、被保険者が要介護状態に当たるかどうかとその区分を審査・判定し、結果を市町村に通知する機関のことです（介護保険法第27条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（第7条第5項・第8条第24項・第19条・第27条・第69条の2）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kyotaku-service-keikaku",
+  "term": "居宅サービス計画（ケアプラン）",
+  "en": "Care plan",
+  "field": "社会の理解",
+  "def": "居宅サービス計画（ケアプラン）とは、居宅要介護者の心身の状況や家族の希望などを考えて、利用するサービスの種類と内容、担当者などを定めた計画のことです（介護保険法第8条第24項）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（第7条第5項・第8条第24項・第19条・第27条・第69条の2）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   },
+   {
+    "text": "厚生労働省 介護サービス情報公表システム「サービス利用までの流れ」（一次判定・二次判定、7段階と非該当、ケアプランの依頼先）",
+    "url": "https://www.kaigokensaku.mhlw.go.jp/commentary/flow.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shikyu-gendogaku",
+  "term": "支給限度額",
+  "en": "Benefit limit",
+  "field": "社会の理解",
+  "def": "支給限度額とは、居宅サービスを使うときに介護保険で使えるサービスの量の上限のことで、要介護度別に定められ、超えた分は全額自己負担になります。",
+  "sources": [
+   {
+    "text": "厚生労働省 介護サービス情報公表システム「サービスにかかる利用料」（要介護度別の支給限度額）",
+    "url": "https://www.kaigokensaku.mhlw.go.jp/commentary/fee.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "chiiki-hokatsu-care-system",
+  "term": "地域包括ケアシステム",
+  "en": "Community-based integrated care system",
+  "field": "社会の理解",
+  "def": "地域包括ケアシステムとは、地域の実情に応じて、高齢者が可能な限り住み慣れた地域で能力に応じ自立した日常生活を営めるよう、医療、介護、介護予防、住まい、自立した日常生活の支援が包括的に確保される体制のことです（地域における医療及び介護の総合的な確保の促進に関する法律第2条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「地域における医療及び介護の総合的な確保の促進に関する法律」（第2条 地域包括ケアシステムの定義）",
+    "url": "https://laws.e-gov.go.jp/law/401AC0000000064"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hokatsuteki-shien-jigyo",
+  "term": "包括的支援事業",
+  "en": "Comprehensive support services",
+  "field": "社会の理解",
+  "def": "包括的支援事業とは、地域包括支援センターが行う事業のことで、住民の実情の把握や関係機関との連絡調整などの総合的な支援、虐待の防止など権利擁護のための援助、ケアプランの検証などを通じた包括的・継続的な支援などがあります（介護保険法第115条の45第2項、第115条の46）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（第115条の45第2項・第115条の46）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shunin-care-manager",
+  "term": "主任介護支援専門員",
+  "en": "Chief care manager",
+  "field": "社会の理解",
+  "def": "主任介護支援専門員とは、介護支援専門員のうち主任介護支援専門員研修を修了した人のことで、地域包括支援センターには原則として保健師・社会福祉士とともに置かれます（介護保険法施行規則第140条の66）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法施行規則」（第140条の66 地域包括支援センターの職員の基準）",
+    "url": "https://laws.e-gov.go.jp/law/411M50000100036"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "seinen-koken",
+  "term": "成年後見制度",
+  "en": "Adult guardianship system",
+  "field": "社会の理解",
+  "def": "成年後見制度とは、精神上の障害により判断する能力が不十分な人について、家庭裁判所の審判で後見人・保佐人・補助人がつき、本人の意思を尊重しながら財産管理や契約などを支える制度のことです（民法第7条・第11条・第15条・第858条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「民法」（第7条・第11条・第15条・第858条）",
+    "url": "https://laws.e-gov.go.jp/law/129AC0000000089"
+   },
+   {
+    "text": "厚生労働省「成年後見はやわかり」成年後見制度の種類（法定後見と任意後見）",
+    "url": "https://guardianship.mhlw.go.jp/personal/type/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "nini-koken",
+  "term": "任意後見制度",
+  "en": "Voluntary guardianship system",
+  "field": "社会の理解",
+  "def": "任意後見制度とは、本人があらかじめ自分で選んだ任意後見人に、ひとりで決めることが心配になったときに代わりにしてもらいたいことを、契約（任意後見契約）で決めておく制度のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「成年後見はやわかり」成年後見制度の種類（法定後見と任意後見）",
+    "url": "https://guardianship.mhlw.go.jp/personal/type/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "keizaiteki-gyakutai",
+  "term": "経済的虐待",
+  "en": "Financial abuse",
+  "field": "社会の理解",
+  "def": "経済的虐待とは、高齢者の財産を不当に処分することその他、高齢者から不当に財産上の利益を得ることで、高齢者虐待防止法が定める虐待の一つです（第2条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「高齢者虐待の防止、高齢者の養護者に対する支援等に関する法律」（第2条・第7条・第21条）",
+    "url": "https://laws.e-gov.go.jp/law/417AC1000000124"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shogai-fukushi-service",
+  "term": "障害福祉サービス",
+  "en": "Disability welfare services",
+  "field": "社会の理解",
+  "def": "障害福祉サービスとは、障害者総合支援法第5条が定めるサービスのことで、居宅介護、重度訪問介護、同行援護、行動援護、療養介護、生活介護、短期入所、施設入所支援、自立訓練、就労移行支援、就労継続支援、共同生活援助などがあります。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「障害者の日常生活及び社会生活を総合的に支援するための法律」（第1条・第1条の2・第4条・第5条）",
+    "url": "https://laws.e-gov.go.jp/law/417AC0000000123"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shogai-shien-kubun",
+  "term": "障害支援区分",
+  "en": "Disability support level",
+  "field": "社会の理解",
+  "def": "障害支援区分とは、障害者等の障害の多様な特性その他の心身の状態に応じて必要とされる標準的な支援の度合を総合的に示す区分のことで、非該当と区分1〜6があり、区分6が支援の度合がもっとも高い区分です（障害者総合支援法第4条第4項）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「障害者の日常生活及び社会生活を総合的に支援するための法律」（第1条・第1条の2・第4条・第5条）",
+    "url": "https://laws.e-gov.go.jp/law/417AC0000000123"
+   },
+   {
+    "text": "e-Gov法令検索「障害支援区分に係る市町村審査会による審査及び判定の基準等に関する命令」（第1条 非該当と区分1〜6）",
+    "url": "https://laws.e-gov.go.jp/law/426M60000100005"
+   },
+   {
+    "text": "厚生労働省「障害者総合支援法における『障害支援区分』の概要」（区分6が支援の度合が高い）",
+    "url": "https://www.mhlw.go.jp/content/001736044.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "doko-engo",
+  "term": "同行援護",
+  "en": "Accompanied outing support",
+  "field": "社会の理解",
+  "def": "同行援護とは、視覚障害により移動に著しい困難がある障害者等の外出に同行し、移動に必要な情報を提供するとともに、移動の援護などを行うサービスのことです（障害者総合支援法第5条第4項）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「障害者の日常生活及び社会生活を総合的に支援するための法律」（第1条・第1条の2・第4条・第5条）",
+    "url": "https://laws.e-gov.go.jp/law/417AC0000000123"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "keicho",
+  "term": "傾聴",
+  "en": "Active listening",
+  "field": "人間関係とコミュニケーション",
+  "def": "傾聴とは、相手が何を語り表現しようとしているのかを、注意深く集中して聴くことで、相手に積極的にかかわる行為であることから積極的傾聴とも呼ばれます。",
+  "sources": [
+   {
+    "text": "厚生労働省「こころの耳」部下の話を聴けていますか－傾聴のすすめ－「1 傾聴の基本的態度」",
+    "url": "https://kokoro.mhlw.go.jp/linecare_listen/ls001/"
+   },
+   {
+    "text": "厚生労働省「こころの耳」話を「聴く」〜積極的傾聴とは〜",
+    "url": "https://kokoro.mhlw.go.jp/listen/listen001/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kyokanteki-rikai",
+  "term": "共感的理解",
+  "en": "Empathic understanding",
+  "field": "人間関係とコミュニケーション",
+  "def": "共感的理解とは、相手の話を相手の立場に立ち、相手の気持ちに共感しながら理解しようとすることで、ロジャーズが示した聴き手の3つの態度の一つです。",
+  "sources": [
+   {
+    "text": "厚生労働省「こころの耳」話を「聴く」〜積極的傾聴とは〜",
+    "url": "https://kokoro.mhlw.go.jp/listen/listen001/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "mujoken-kotei",
+  "term": "無条件の肯定的関心",
+  "en": "Unconditional positive regard",
+  "field": "人間関係とコミュニケーション",
+  "def": "無条件の肯定的関心とは、相手の話を善悪や好き嫌いの評価を入れずに聴き、なぜそう考えるようになったのか、その背景に肯定的な関心を持つことで、ロジャーズが示した聴き手の態度の一つです。",
+  "sources": [
+   {
+    "text": "厚生労働省「こころの耳」話を「聴く」〜積極的傾聴とは〜",
+    "url": "https://kokoro.mhlw.go.jp/listen/listen001/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "jiko-icchi",
+  "term": "自己一致",
+  "en": "Congruence",
+  "field": "人間関係とコミュニケーション",
+  "def": "自己一致とは、聴き手が相手にも自分にも真摯な態度でいることで、話がわかりにくいときはそのままにせず聴き直して確かめることも含まれ、ロジャーズが示した聴き手の態度の一つです。",
+  "sources": [
+   {
+    "text": "厚生労働省「こころの耳」話を「聴く」〜積極的傾聴とは〜",
+    "url": "https://kokoro.mhlw.go.jp/listen/listen001/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "higengo",
+  "term": "非言語コミュニケーション",
+  "en": "Nonverbal communication",
+  "field": "人間関係とコミュニケーション",
+  "def": "非言語コミュニケーションとは、表情・視線・姿勢・動作・声の調子や、人との距離、触れることなど、言葉以外の手段で行うコミュニケーションのことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「こころの耳」部下の話を聴けていますか－傾聴のすすめ－「3 傾聴のポイント」",
+    "url": "https://kokoro.mhlw.go.jp/linecare_listen/ls003/"
+   },
+   {
+    "text": "Kobayashi M, et al. BMJ Open, 2023（PMC9990644）",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9990644/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "personal-space",
+  "term": "パーソナルスペース",
+  "en": "Personal space",
+  "field": "人間関係とコミュニケーション",
+  "def": "パーソナルスペースとは、人が他人との間に保とうとする空間のことで、保つ距離によって決まり、その感じ方は文化によって大きく異なります。",
+  "sources": [
+   {
+    "text": "Gonçalves FGA, et al. Nursing team proxemic mapping in the hemotherapy space. Rev Esc Enferm USP, 2025（PMC11773683）",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11773683/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shitsugosho",
+  "term": "失語症",
+  "en": "Aphasia",
+  "field": "人間関係とコミュニケーション",
+  "def": "失語症とは、脳の病気によって起こる言葉の障害で、話す・聞く・読む・書くといった言葉を使ったコミュニケーションが難しくなるものです。",
+  "sources": [
+   {
+    "text": "札幌市（作成：一般社団法人北海道言語聴覚士会）「失語症の人とのコミュニケーション支援ガイドブック」",
+    "url": "https://www.city.sapporo.jp/shogaifukushi/communication/documents/communicationguide.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "chuto-shicchosha",
+  "term": "中途失聴者",
+  "en": "Person with acquired hearing loss",
+  "field": "人間関係とコミュニケーション",
+  "def": "中途失聴者とは、人生の途中で聞こえなくなった人のことで、多くは手話ができず、聞こえなくても話せる人が多いため誤解されやすいとされています。",
+  "sources": [
+   {
+    "text": "内閣府「障害のある当事者からのメッセージ（知ってほしいこと）」の集計結果「3．聴覚・言語障害」",
+    "url": "https://www8.cao.go.jp/shougai/kou-kei/toujisha/siryo03.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shisetsu-service-keikaku",
+  "term": "施設サービス計画",
+  "en": "Facility service plan",
+  "field": "人間関係とコミュニケーション",
+  "def": "施設サービス計画とは、介護老人福祉施設で介護支援専門員が入所者ごとに作る計画で、総合的な援助の方針、生活全般の解決すべき課題、サービスの目標と達成時期、サービスの内容などを記載し、完結の日から2年間保存されるものです（指定介護老人福祉施設の人員、設備及び運営に関する基準第12条・第37条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「指定介護老人福祉施設の人員、設備及び運営に関する基準」",
+    "url": "https://laws.e-gov.go.jp/law/411M50000100039"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "body-mechanics",
+  "term": "ボディメカニクス",
+  "en": "Body mechanics",
+  "field": "生活支援技術",
+  "def": "ボディメカニクスとは、重心・支持基底面・てこ・モーメント・摩擦・慣性などの力学の原理を、人の体の構造に取り入れて応用する技術のことです。",
+  "sources": [
+   {
+    "text": "永田紀美子・青柳佳子「『ボディメカニクス』の習得状況からみた腰痛予防教育の現状と課題」目白大学短期大学部研究紀要 第50号（2014年）",
+    "url": "https://mejiro.repo.nii.ac.jp/records/670"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "lumbago-prevention-guideline",
+  "term": "職場における腰痛予防対策指針",
+  "en": "Guidelines for prevention of low back pain in the workplace",
+  "field": "生活支援技術",
+  "def": "職場における腰痛予防対策指針とは、厚生労働省が示す腰痛予防対策の指針で、平成25年6月の改訂により福祉・医療分野などの介護・看護作業全般が対象となり、介護作業では原則として人力による人の抱上げを行わせないとしています。",
+  "sources": [
+   {
+    "text": "厚生労働省「職場における腰痛予防対策指針」（平成25年6月18日改訂、別添）",
+    "url": "https://www.mhlw.go.jp/stf/houdou/2r98520000034et4-att/2r98520000034pjn_1.pdf"
+   },
+   {
+    "text": "厚生労働省 三重労働局「『職場における腰痛予防対策指針』の改訂について」",
+    "url": "https://jsite.mhlw.go.jp/mie-roudoukyoku/hourei_seido_tetsuzuki/anzen_eisei/hourei_seido/_118516.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "aspiration",
+  "term": "誤嚥",
+  "en": "Aspiration",
+  "field": "生活支援技術",
+  "def": "誤嚥とは、飲み込む力やせきをする力が弱くなったときなどに、食べ物や飲み物、口の中の汚れや細菌、胃から逆流した液などが誤って気管に入ることです。",
+  "sources": [
+   {
+    "text": "兵庫県「誤嚥性肺炎予防のための要介護者への口腔ケア定着推進事業」（2025年9月9日更新）",
+    "url": "https://web.pref.hyogo.lg.jp/kf17/haienyobou.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "aspiration-pneumonia",
+  "term": "誤嚥性肺炎",
+  "en": "Aspiration pneumonia",
+  "field": "生活支援技術",
+  "def": "誤嚥性肺炎とは、口の中の汚れや細菌、胃から逆流した液などが誤って気管に入り、肺に細菌が入り込んで炎症を起こして発症する肺炎のことです。",
+  "sources": [
+   {
+    "text": "兵庫県「誤嚥性肺炎予防のための要介護者への口腔ケア定着推進事業」（2025年9月9日更新）",
+    "url": "https://web.pref.hyogo.lg.jp/kf17/haienyobou.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "jdd2021",
+  "term": "嚥下調整食分類2021",
+  "en": "Japanese Dysphagia Diet 2021",
+  "field": "生活支援技術",
+  "def": "嚥下調整食分類2021とは、日本摂食嚥下リハビリテーション学会が示す、飲み込みにくい人向けの食事ととろみの段階分類で、食事はコード0j・0t・1j・2-1・2-2・3・4に分かれ、2013年の初版を2021年に改訂したものです。",
+  "sources": [
+   {
+    "text": "日本摂食嚥下リハビリテーション学会「日本摂食嚥下リハビリテーション学会嚥下調整食分類2021」",
+    "url": "https://www.jsdr.or.jp/doc/classification2021.html"
+   },
+   {
+    "text": "京都府「嚥下調整食学会分類2021 早見表」",
+    "url": "https://www.pref.kyoto.jp/yamashiro/ho-minami/documents/gakkaibunnrui.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "seishiki",
+  "term": "清拭",
+  "en": "Bed bath",
+  "field": "生活支援技術",
+  "def": "清拭とは、体をふいて清潔にすることで、介護老人福祉施設の運営基準は、1週間に2回以上の入浴または清拭を求め、やむを得ない場合には清拭をもって入浴の機会の提供に代えられるとしています。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「指定介護老人福祉施設の人員、設備及び運営に関する基準」（第13条・第43条）",
+    "url": "https://laws.e-gov.go.jp/law/411M50000100039"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shower-carrier",
+  "term": "シャワーキャリー",
+  "en": "Shower carrier",
+  "field": "生活支援技術",
+  "def": "シャワーキャリーとは、入浴の場面で使う車輪の付いた入浴用のいすのことで、座面が回転するものやリクライニングできるものがあり、すべりやすく狭い浴室で使うため操作手順を守ることが大切です。",
+  "sources": [
+   {
+    "text": "公益財団法人テクノエイド協会「福祉用具ヒヤリハット 研修教材」Case93",
+    "url": "https://www.techno-aids.or.jp/hiyari/teaching_inst_print.php?id=93"
+   },
+   {
+    "text": "公益財団法人テクノエイド協会「福祉用具ヒヤリハット 研修教材」Case99",
+    "url": "https://www.techno-aids.or.jp/hiyari/teaching_inst_print.php?id=99"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "psychological-abuse",
+  "term": "心理的虐待",
+  "en": "Psychological abuse",
+  "field": "生活支援技術",
+  "def": "心理的虐待とは、脅しや侮辱などの言語や威圧的な態度、無視、嫌がらせ等によって精神的苦痛を与えることで、排泄の失敗などを嘲笑して恥をかかせることや、介助の都合でトイレに行けるのにおむつをあてることが例に挙げられています。",
+  "sources": [
+   {
+    "text": "警察庁「高齢者虐待事案への対応に係る留意事項について（通達）」別添（厚生労働省老健局「市町村・都道府県における高齢者虐待への対応と養護者支援について」令和7年3月からの抜粋）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001601197.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "portable-toilet",
+  "term": "ポータブルトイレ",
+  "en": "Portable toilet",
+  "field": "生活支援技術",
+  "def": "ポータブルトイレとは、ベッドのそばなどに置いて使う移動できる腰掛け式のトイレのことで、ひじ掛けの有無など形や機能が異なるため、本人の起居動作や移乗能力に合ったものを選ぶことが大切です。",
+  "sources": [
+   {
+    "text": "公益財団法人テクノエイド協会「福祉用具ヒヤリハット 研修教材」Case343",
+    "url": "https://www.techno-aids.or.jp/hiyari/teaching_inst_print.php?id=343"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "seiyo",
+  "term": "整容",
+  "en": "Grooming",
+  "field": "生活支援技術",
+  "def": "整容とは、身なりを整えることで、介護老人福祉施設の運営基準は、離床や着替えとあわせて整容等の介護を適切に行うこと（ユニット型では入居者が行う整容等の行為を支援すること）を求めています。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「指定介護老人福祉施設の人員、設備及び運営に関する基準」（第13条・第43条）",
+    "url": "https://laws.e-gov.go.jp/law/411M50000100039"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "acp-jinsei-kaigi",
+  "term": "人生会議（ACP）",
+  "en": "Advance care planning",
+  "field": "生活支援技術",
+  "def": "人生会議（ACP）とは、もしものときのために、望む医療やケアについて前もって考え、家族等や医療・ケアチームと繰り返し話し合い、共有する取組のことで、厚生労働省がACP（アドバンス・ケア・プランニング）の愛称として定めたものです。",
+  "sources": [
+   {
+    "text": "厚生労働省「『人生会議』してみませんか」",
+    "url": "https://www.mhlw.go.jp/stf/newpage_02783.html"
+   },
+   {
+    "text": "人生の最終段階における医療の普及・啓発の在り方に関する検討会「人生の最終段階における医療・ケアの決定プロセスに関するガイドライン 解説編」（平成30年3月改訂）",
+    "url": "https://www.mhlw.go.jp/file/04-Houdouhappyou-10802000-Iseikyoku-Shidouka/0000197702.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "medical-care-team",
+  "term": "医療・ケアチーム",
+  "en": "Medical and care team",
+  "field": "生活支援技術",
+  "def": "医療・ケアチームとは、人生の最終段階にある本人の医療・ケアに関わる多専門職種の医療・介護従事者で構成されるチームのことで、在宅や施設では介護支援専門員や介護福祉士等の介護従事者が加わることも想定されています。",
+  "sources": [
+   {
+    "text": "厚生労働省「人生の最終段階における医療・ケアの決定プロセスに関するガイドライン」（平成30年3月改訂）",
+    "url": "https://www.mhlw.go.jp/file/04-Houdouhappyou-10802000-Iseikyoku-Shidouka/0000197701.pdf"
+   },
+   {
+    "text": "同 解説編（平成30年3月改訂）",
+    "url": "https://www.mhlw.go.jp/file/04-Houdouhappyou-10802000-Iseikyoku-Shidouka/0000197702.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "psychosocial-development-theory",
+  "term": "心理社会的発達理論",
+  "en": "Psychosocial theory of development",
+  "field": "発達と老化の理解",
+  "def": "心理社会的発達理論とは、エリクソンが唱えた、人の発達は他者との関わりの中で一生を通じて続き、乳児期から老年期までの8つの段階それぞれに乗り越えたい課題があるとする理論のことです。",
+  "sources": [
+   {
+    "text": "OpenStax「Psychology 2e」9.2 Lifespan Theories",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "integrity-versus-despair",
+  "term": "統合 対 絶望",
+  "en": "Integrity versus despair",
+  "field": "発達と老化の理解",
+  "def": "統合 対 絶望とは、エリクソンの心理社会的発達理論で65歳からの老年期に置かれた課題で、人生を振り返って満足と誇りを感じられるか、失敗と後悔を感じるかの葛藤のことです。",
+  "sources": [
+   {
+    "text": "OpenStax「Psychology 2e」9.2 Lifespan Theories",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "aging-rate",
+  "term": "高齢化率",
+  "en": "Aging rate",
+  "field": "発達と老化の理解",
+  "def": "高齢化率とは、総人口に占める65歳以上人口の割合のことで、令和8年版高齢社会白書によると令和7年10月1日現在で29.4％です。",
+  "sources": [
+   {
+    "text": "内閣府「令和8年版高齢社会白書（全体版）」第1章第1節1",
+    "url": "https://www8.cao.go.jp/kourei/whitepaper/w-2026/html/zenbun/s1_1_1.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "physiological-aging",
+  "term": "生理的老化",
+  "en": "Physiological aging",
+  "field": "発達と老化の理解",
+  "def": "生理的老化とは、加齢に伴い、からだの各器官を構成する細胞の数が減り、細胞そのものの働きも低下することで進む老化のことで、臓器の働きや予備力・回復力の低下などが起こります。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「高齢者の身体的特徴」",
+    "url": "https://www.tyojyu.or.jp/net/kenkou-tyoju/kenkou-undou/shintaiteki-tokucho.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "crystallized-intelligence",
+  "term": "結晶性知能",
+  "en": "Crystallized intelligence",
+  "field": "発達と老化の理解",
+  "def": "結晶性知能とは、長年にわたる経験や教育・学習から身につけていく知能のことで、言語能力・理解力・洞察力などを含み、高齢になっても保たれやすいとされます。",
+  "sources": [
+   {
+    "text": "西田裕紀子「高齢期における知能の加齢変化」健康長寿ネット",
+    "url": "https://www.tyojyu.or.jp/net/topics/tokushu/koureisha-shinri/shinri-chinouhenka.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "fluid-intelligence",
+  "term": "流動性知能",
+  "en": "Fluid intelligence",
+  "field": "発達と老化の理解",
+  "def": "流動性知能とは、新しい環境に適応するために新しい情報を獲得し、処理・操作していく知能のことで、処理のスピードや法則を発見する力などを含み、加齢とともに低下しやすいとされます。",
+  "sources": [
+   {
+    "text": "西田裕紀子「高齢期における知能の加齢変化」健康長寿ネット",
+    "url": "https://www.tyojyu.or.jp/net/topics/tokushu/koureisha-shinri/shinri-chinouhenka.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "cerebrovascular-disease",
+  "term": "脳血管疾患（脳卒中）",
+  "en": "Cerebrovascular disease (stroke)",
+  "field": "発達と老化の理解",
+  "def": "脳血管疾患（脳卒中）とは、脳の血管が詰まる脳梗塞と、血管が破れる脳出血・くも膜下出血を含む病気のことで、半身の麻痺や言葉の障害、意識の障害などが起こります。",
+  "sources": [
+   {
+    "text": "国立循環器病研究センター病院「脳卒中」",
+    "url": "https://www.ncvc.go.jp/hospital/pub/knowledge/disease/stroke-2/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "dehydration",
+  "term": "脱水症",
+  "en": "Dehydration",
+  "field": "発達と老化の理解",
+  "def": "脱水症とは、体内の水分が足りない状態のことで、高齢者はのどの渇きを感じにくく、軽度では症状が明らかになりにくいのが特徴です。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「脱水症」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/rounensei/dassui.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "fast-stroke",
+  "term": "FAST",
+  "en": "Face, Arm, Speech, Time",
+  "field": "発達と老化の理解",
+  "def": "FASTとは、顔がゆがむ・腕が上がらない・話ができないの3つの症状を確かめ、1つでも当てはまれば脳卒中の可能性があるとしてすぐに救急車を呼ぶよう促す、脳卒中の早期発見のための合言葉のことです。",
+  "sources": [
+   {
+    "text": "国立循環器病研究センター病院「脳卒中」",
+    "url": "https://www.ncvc.go.jp/hospital/pub/knowledge/disease/stroke-2/"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "frailty",
+  "term": "フレイル",
+  "en": "Frailty",
+  "field": "発達と老化の理解",
+  "def": "フレイルとは、高齢期に生理的予備能が低下することでストレスに対する脆弱性が高まり、生活機能障害や要介護状態などに陥りやすい状態のことで、身体的・精神心理的・社会的な問題を含み、適切な介入で健常な状態に戻る可逆性があるとされます。",
+  "sources": [
+   {
+    "text": "日本老年医学会「フレイルに関する日本老年医学会からのステートメント」（平成26年5月）",
+    "url": "https://www.jpn-geriat-soc.or.jp/info/topics/pdf/20140513_01_01.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "sarcopenia",
+  "term": "サルコペニア",
+  "en": "Sarcopenia",
+  "field": "発達と老化の理解",
+  "def": "サルコペニアとは、加齢による筋肉量の減少および筋力の低下のことで、歩く・立ち上がるなどの日常生活の基本的な動作に影響し、転倒しやすくなります。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「サルコペニアとは」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/frailty/sarcopenia-about.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "sogo-jigyo",
+  "term": "介護予防・日常生活支援総合事業",
+  "en": "Comprehensive project for long-term care prevention and daily life support",
+  "field": "発達と老化の理解",
+  "def": "介護予防・日常生活支援総合事業とは、要介護状態等となることの予防や軽減・悪化の防止と、地域における自立した日常生活の支援のため、市町村が地域支援事業として行う事業のことです（介護保険法第115条の45）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「介護保険法」（第115条の45）",
+    "url": "https://laws.e-gov.go.jp/law/409AC0000000123"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hierarchy-of-needs",
+  "term": "欲求階層説",
+  "en": "Maslow's hierarchy of needs",
+  "field": "こころとからだのしくみ",
+  "def": "欲求階層説とは、心理学者マズローが1943年に示した、人の欲求を生理的欲求・安全・愛情と所属・自尊・自己実現の階層に並べた理論で、主観的で現実を説明しきれないという批判もあります。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』10.1 Motivation",
+    "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "self-actualization",
+  "term": "自己実現",
+  "en": "Self-actualization",
+  "field": "こころとからだのしくみ",
+  "def": "自己実現とは、マズローの欲求階層説で頂上に置かれる、自分の持つ可能性を十分に発揮しようとする欲求のことです。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』10.1 Motivation",
+    "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "defense-mechanisms",
+  "term": "防衛機制",
+  "en": "Defense mechanisms",
+  "field": "こころとからだのしくみ",
+  "def": "防衛機制とは、フロイトが唱えた、不安を減らして心を守るために無意識のうちに働くしくみのことで、抑圧・反動形成・退行・投影などがあります。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』11.2 Freud and the Psychodynamic Perspective",
+    "url": "https://openstax.org/books/psychology-2e/pages/11-2-freud-and-the-psychodynamic-perspective"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "five-stages-of-swallowing",
+  "term": "摂食嚥下の5期",
+  "en": "Five stages of eating and swallowing",
+  "field": "こころとからだのしくみ",
+  "def": "摂食嚥下の5期とは、食べ物を認識してから口を経由して胃に送り込むまでの一連の動作を、先行期・準備期・口腔期・咽頭期・食道期の5段階に分けたものです。",
+  "sources": [
+   {
+    "text": "公益財団法人長寿科学振興財団 健康長寿ネット「摂食・嚥下障害とは」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/sesshokushougai/about.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "bolus",
+  "term": "食塊",
+  "en": "Bolus",
+  "field": "こころとからだのしくみ",
+  "def": "食塊とは、準備期にかみ砕いた食べ物を唾液と混ぜてつくる、まとまりがあって柔らかく、咽頭を通過しやすいひとかたまりの食物のことです。",
+  "sources": [
+   {
+    "text": "公益財団法人長寿科学振興財団 健康長寿ネット「摂食・嚥下障害とは」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/sesshokushougai/about.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "swallowing-reflex",
+  "term": "嚥下反射",
+  "en": "Swallowing reflex",
+  "field": "こころとからだのしくみ",
+  "def": "嚥下反射とは、咽頭期に食塊を咽頭から食道の入り口へ送り込む反射のことで、このとき声門が閉じて気道を守り、誤嚥を防ぎます。",
+  "sources": [
+   {
+    "text": "公益財団法人長寿科学振興財団 健康長寿ネット「摂食・嚥下障害とは」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/sesshokushougai/about.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "urethral-sphincter",
+  "term": "尿道括約筋",
+  "en": "Urethral sphincter",
+  "field": "こころとからだのしくみ",
+  "def": "尿道括約筋とは、膀胱の出口を囲む筋肉のことで、ふだんは収縮して尿道を閉じて尿をため、排尿のときにゆるみます。",
+  "sources": [
+   {
+    "text": "MSDマニュアル家庭版「排尿のコントロール」",
+    "url": "https://www.msdmanuals.com/ja-jp/home/05-腎臓と尿路の病気/排尿の障害/排尿のコントロール"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "anal-sphincter",
+  "term": "肛門括約筋",
+  "en": "Anal sphincter",
+  "field": "こころとからだのしくみ",
+  "def": "肛門括約筋とは、肛門を囲む輪状の筋肉のことで、排便のときまで肛門を閉じています。",
+  "sources": [
+   {
+    "text": "MSDマニュアル家庭版「直腸と肛門」",
+    "url": "https://www.msdmanuals.com/ja-jp/home/03-消化器系の病気/消化器系の生物学/直腸と肛門"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "constipation",
+  "term": "便秘",
+  "en": "Constipation",
+  "field": "こころとからだのしくみ",
+  "def": "便秘とは、排便しにくい、排便回数が少ない、便が硬い、または排便後も直腸が空になっていない感覚（残便感）がある状態のことです。",
+  "sources": [
+   {
+    "text": "MSDマニュアル家庭版「成人の便秘」",
+    "url": "https://www.msdmanuals.com/ja-jp/home/03-消化器系の病気/消化器系の病気の症状/成人の便秘"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "rem-sleep",
+  "term": "レム睡眠",
+  "en": "REM sleep",
+  "field": "こころとからだのしくみ",
+  "def": "レム睡眠とは、眠っている間に眼球が素早く動く（Rapid Eye Movement）睡眠のことで、全身の筋肉がゆるみ、夢をよく見ます。",
+  "sources": [
+   {
+    "text": "厚生労働省 e-ヘルスネット「眠りのメカニズム」",
+    "url": "https://kennet.mhlw.go.jp/information/information/heart/k-01-002.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "non-rem-sleep",
+  "term": "ノンレム睡眠",
+  "en": "Non-REM sleep",
+  "field": "こころとからだのしくみ",
+  "def": "ノンレム睡眠とは、大脳を休める睡眠のことで、脳波活動が低下し、睡眠の深さによって段階に分けられます。",
+  "sources": [
+   {
+    "text": "厚生労働省 e-ヘルスネット「眠りのメカニズム」",
+    "url": "https://kennet.mhlw.go.jp/information/information/heart/k-01-002.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "time-in-bed",
+  "term": "床上時間",
+  "en": "Time in bed",
+  "field": "こころとからだのしくみ",
+  "def": "床上時間とは、実際に眠っているかどうかに関係なく寝床に入っている時間のことで、厚生労働省の睡眠ガイド2023は高齢者に8時間以上にならないことを目安にするよう勧めています。",
+  "sources": [
+   {
+    "text": "厚生労働省「健康づくりのための睡眠ガイド2023」",
+    "url": "https://www.mhlw.go.jp/content/001305530.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kubler-ross-five-stages",
+  "term": "キューブラー・ロスの5段階",
+  "en": "Kübler-Ross five stages of grief",
+  "field": "こころとからだのしくみ",
+  "def": "キューブラー・ロスの5段階とは、キューブラー・ロスが1969年に示した、人が自分の死を受け入れていく過程を否認・怒り・取引・抑うつ・受容の5段階で表したモデルで、順番は人によって異なり、すべての段階を経験しない人もいます。",
+  "sources": [
+   {
+    "text": "OpenStax『Psychology 2e』9.4 Death and Dying",
+    "url": "https://openstax.org/books/psychology-2e/pages/9-4-death-and-dying"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "death-rattle",
+  "term": "死前喘鳴",
+  "en": "Death rattle",
+  "field": "こころとからだのしくみ",
+  "def": "死前喘鳴とは、死が近づいたときに、気管の分泌物やのどの筋肉の弛緩によって呼吸の音が大きくなることです。",
+  "sources": [
+   {
+    "text": "MSDマニュアル家庭版「死が近づいたとき」",
+    "url": "https://www.msdmanuals.com/ja-jp/home/01-知っておきたい基礎知識/死と死期/死が近づいたとき"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "mci",
+  "term": "軽度認知障害（MCI）",
+  "en": "Mild cognitive impairment",
+  "field": "認知症の理解",
+  "def": "軽度認知障害（MCI）とは、もの忘れなどの軽い認知機能の障害はあるものの、日常生活は自立しているため、認知症とは診断されない状態のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「認知症および軽度認知障害（MCI）の高齢者数と有病率の将来推計」",
+    "url": "https://www.mhlw.go.jp/content/001279920.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "seiriteki-monowasure",
+  "term": "生理的なもの忘れ",
+  "en": "Age-related forgetfulness",
+  "field": "認知症の理解",
+  "def": "生理的なもの忘れとは、年齢相応に起こるもの忘れのことで、人の名前が出てこないなど体験の一部を忘れるものの、忘れた自覚があり、日常生活に支障はありません。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「もの忘れ」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/ninchishou/monowasure.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "alzheimer-gata-ninchisho",
+  "term": "アルツハイマー型認知症",
+  "en": "Alzheimer's disease dementia",
+  "field": "認知症の理解",
+  "def": "アルツハイマー型認知症とは、脳に異常なたんぱく質がたまり、記憶に関わる海馬から萎縮が始まる認知症のことで、認知症の原因として最も多く、半数以上を占めます。",
+  "sources": [
+   {
+    "text": "国立長寿医療研究センター「認知症の原因」",
+    "url": "https://www.ncgg.go.jp/dementia/cause/"
+   },
+   {
+    "text": "健康長寿ネット「アルツハイマー病」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/ninchishou/alzheimer.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "lewy-shotai-gata-ninchisho",
+  "term": "レビー小体型認知症",
+  "en": "Dementia with Lewy bodies",
+  "field": "認知症の理解",
+  "def": "レビー小体型認知症とは、レビー小体という異常なたんぱく質が脳に現れる認知症のことで、実際にはないものが見える幻視、パーキンソン症状、症状の波が特徴です。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「レビー小体型認知症」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/ninchishou/lewy.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "jakunensei-ninchisho",
+  "term": "若年性認知症",
+  "en": "Early-onset dementia",
+  "field": "認知症の理解",
+  "def": "若年性認知症とは、65歳未満で発症した認知症のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省 中国四国厚生局「若年性認知症支援コーディネーター」",
+    "url": "https://kouseikyoku.mhlw.go.jp/chugokushikoku/chiiki/jyakunenn.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "chukaku-shojo",
+  "term": "中核症状",
+  "en": "Core symptoms of dementia",
+  "field": "認知症の理解",
+  "def": "中核症状とは、認知症で脳の細胞が死ぬなど脳の働きが低下することによって直接起こる、記憶障害、見当識障害、理解・判断力の低下、実行機能障害、失語、失行・失認などの認知機能の障害のことです。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「認知症の中核症状」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/ninchishou/chukaku.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "bpsd",
+  "term": "行動・心理症状（BPSD）",
+  "en": "Behavioral and psychological symptoms of dementia",
+  "field": "認知症の理解",
+  "def": "行動・心理症状（BPSD）とは、認知症の中核症状に本人の性格や環境、体調などが影響して現れる、妄想・抑うつ・興奮・不眠・幻覚などの症状のことで、対応は環境調整やケアの変更などの非薬物的な対応が第一選択です。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「認知症の中核症状」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/ninchishou/chukaku.html"
+   },
+   {
+    "text": "厚生労働省「かかりつけ医・認知症サポート医のためのBPSDに対応する向精神薬使用ガイドライン（第3版）」",
+    "url": "https://www.mhlw.go.jp/content/001518446.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kentoshiki-shogai",
+  "term": "見当識障害",
+  "en": "Disorientation",
+  "field": "認知症の理解",
+  "def": "見当識障害とは、今がいつで、ここがどこか、自分と周りの人との関係はどうかといった、自分が置かれている状況がわからなくなる障害のことで、認知症の中核症状の1つです。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「認知症の中核症状」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/ninchishou/chukaku.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "person-centred-care",
+  "term": "パーソン・センタード・ケア",
+  "en": "Person-centred care",
+  "field": "認知症の理解",
+  "def": "パーソン・センタード・ケアとは、認知症の人を一人の「人」として尊重し、その人の立場に立って考え、ケアを行おうとする考え方のことで、1980年代末の英国でトム・キットウッドが提唱しました。",
+  "sources": [
+   {
+    "text": "健康長寿ネット「パーソン・センタード・ケア」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/ninchishou/person-care.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ishi-kettei-shien",
+  "term": "意思決定支援",
+  "en": "Supported decision-making",
+  "field": "認知症の理解",
+  "def": "意思決定支援とは、認知症になっても、その有する能力を最大限生かして、日常生活や社会生活に関して自らの意思に基づいた生活を送れるようにするために行う支援のことで、本人の視点に立って行われます。",
+  "sources": [
+   {
+    "text": "厚生労働省「認知症の人の日常生活・社会生活における意思決定支援ガイドライン（第2版）」",
+    "url": "https://www.mhlw.go.jp/content/001670852.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ninchisho-cafe",
+  "term": "認知症カフェ",
+  "en": "Dementia cafe",
+  "field": "認知症の理解",
+  "def": "認知症カフェとは、認知症の人やその家族が、地域の人や専門家と相互に情報を共有し、お互いを理解し合う場のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「主な認知症施策について」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000076236_00006.html"
+   },
+   {
+    "text": "厚生労働省「認知症カフェ実施（概要）」",
+    "url": "https://www.mhlw.go.jp/content/001253589.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ninchisho-shoki-shuchu-shien-team",
+  "term": "認知症初期集中支援チーム",
+  "en": "Initial-phase intensive support team for dementia",
+  "field": "認知症の理解",
+  "def": "認知症初期集中支援チームとは、医療と介護の専門職が、家族の相談などにより認知症が疑われる人や認知症の人とその家族を訪問し、初期の支援を包括的・集中的（おおむね6か月）に行い、自立生活をサポートするチームのことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「主な認知症施策について」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000076236_00006.html"
+   },
+   {
+    "text": "厚生労働省「認知症初期集中支援チーム（概要）」",
+    "url": "https://www.mhlw.go.jp/content/001061147.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ninchisho-chiiki-shien-suishinin",
+  "term": "認知症地域支援推進員",
+  "en": "Community dementia support coordinator",
+  "field": "認知症の理解",
+  "def": "認知症地域支援推進員とは、地域包括支援センターや市町村の本庁などに置かれ、医療・介護等の支援ネットワークの構築、認知症対応力向上のための支援、本人や家族への相談支援などを行う人のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「主な認知症施策について」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000076236_00006.html"
+   },
+   {
+    "text": "厚生労働省「認知症地域支援推進員（概要）」",
+    "url": "https://www.mhlw.go.jp/content/001056763.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shakai-model",
+  "term": "社会モデル",
+  "en": "Social model of disability",
+  "field": "障害の理解",
+  "def": "社会モデルとは、障害のある人が受ける生活の制限は、心身の障害だけが原因ではなく、社会の側にある様々な障壁によって生じるという考え方のことです（障害者権利条約の基本理念）。",
+  "sources": [
+   {
+    "text": "内閣府リーフレット「令和6年4月1日から合理的配慮の提供が義務化されました」",
+    "url": "https://www8.cao.go.jp/shougai/suishin/pdf/gouriteki_hairyo2/print.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "igaku-model",
+  "term": "医学モデル",
+  "en": "Medical model of disability",
+  "field": "障害の理解",
+  "def": "医学モデルとは、障害は個人の心身のはたらきの障害によるものだという考え方のことで、社会モデルと対比されます。",
+  "sources": [
+   {
+    "text": "内閣府リーフレット「令和6年4月1日から合理的配慮の提供が義務化されました」",
+    "url": "https://www8.cao.go.jp/shougai/suishin/pdf/gouriteki_hairyo2/print.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "gouriteki-hairyo",
+  "term": "合理的配慮",
+  "en": "Reasonable accommodation",
+  "field": "障害の理解",
+  "def": "合理的配慮とは、障害のある人から社会的障壁を取り除いてほしいという意思の表明があり、負担が過重でないときに行う、必要かつ合理的な配慮のことで、2024年4月1日から事業者にも義務となりました（障害者差別解消法第7条・第8条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「障害を理由とする差別の解消の推進に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/425AC0000000065"
+   },
+   {
+    "text": "内閣府リーフレット「令和6年4月1日から合理的配慮の提供が義務化されました」",
+    "url": "https://www8.cao.go.jp/shougai/suishin/pdf/gouriteki_hairyo2/print.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shintai-shogaisha-techo",
+  "term": "身体障害者手帳",
+  "en": "Physical disability certificate",
+  "field": "障害の理解",
+  "def": "身体障害者手帳とは、身体障害者福祉法第15条に基づき、別表に掲げる障害があると認められた人に都道府県知事などが交付する手帳のことで、等級は重い側から1級〜6級です。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「身体障害者福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/324AC1000000283"
+   },
+   {
+    "text": "厚生労働省「身体障害者手帳制度の概要」",
+    "url": "https://www.mhlw.go.jp/content/001679529.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "naibu-shogai",
+  "term": "内部障害",
+  "en": "Internal disability",
+  "field": "障害の理解",
+  "def": "内部障害とは、心臓、じん臓、呼吸器、ぼうこう・直腸、小腸、ヒト免疫不全ウイルスによる免疫、肝臓の機能の障害など、体の内側の機能の障害のことで、外見では分かりにくい障害です。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「身体障害者福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/324AC1000000283"
+   },
+   {
+    "text": "e-Gov法令検索「身体障害者福祉法施行令」（第36条）",
+    "url": "https://laws.e-gov.go.jp/law/325CO0000000078"
+   },
+   {
+    "text": "厚生労働省「障害者の範囲（参考資料）」2008年",
+    "url": "https://www.mhlw.go.jp/shingi/2008/10/dl/s1031-10e_0001.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shitai-fujiyu",
+  "term": "肢体不自由",
+  "en": "Physical impairment of the limbs and trunk",
+  "field": "障害の理解",
+  "def": "肢体不自由とは、身体障害者福祉法の別表に掲げる障害の1つで、上肢・下肢・体幹の機能の著しい障害などのうち永続するもののことです。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「身体障害者福祉法」",
+    "url": "https://laws.e-gov.go.jp/law/324AC1000000283"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "ryoiku-techo",
+  "term": "療育手帳",
+  "en": "Certificate for intellectual disability",
+  "field": "障害の理解",
+  "def": "療育手帳とは、児童相談所または知的障害者更生相談所で知的障害と判定された人に交付される手帳のことで、1973年の厚生事務次官通知に基づき、程度は重度（A）とそれ以外（B）に分かれます。",
+  "sources": [
+   {
+    "text": "厚生労働省「療育手帳制度の概要」",
+    "url": "https://www.mhlw.go.jp/content/12200000/001679542.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "seishin-techo",
+  "term": "精神障害者保健福祉手帳",
+  "en": "Mental disability certificate",
+  "field": "障害の理解",
+  "def": "精神障害者保健福祉手帳とは、一定程度の精神障害の状態にあることを認定する手帳のことで、等級は1級〜3級、2年ごとに認定を受けます（精神保健福祉法第45条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「精神保健及び精神障害者福祉に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/325AC0100000123"
+   },
+   {
+    "text": "厚生労働省「障害者手帳」",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/techou.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "hattatsu-shogai",
+  "term": "発達障害",
+  "en": "Developmental disorder",
+  "field": "障害の理解",
+  "def": "発達障害とは、自閉症、アスペルガー症候群その他の広汎性発達障害、学習障害、注意欠陥多動性障害などの脳機能の障害で、症状が通常低年齢で現れるもののことです（発達障害者支援法第2条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「発達障害者支援法」",
+    "url": "https://laws.e-gov.go.jp/law/416AC1000000167"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shogai-no-juyo",
+  "term": "障害の受容",
+  "en": "Acceptance of disability",
+  "field": "障害の理解",
+  "def": "障害の受容とは、障害の存在を認め、障害を積極的に受け入れて、あるがままの自分を容認する段階に至ることです。",
+  "sources": [
+   {
+    "text": "公益財団法人長寿科学振興財団 健康長寿ネット「障害の受容過程」",
+    "url": "https://www.tyojyu.or.jp/net/byouki/rehabilitation/shougai-juyou.html"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "respite",
+  "term": "レスパイト",
+  "en": "Respite",
+  "field": "障害の理解",
+  "def": "レスパイトとは、介護する人が介護から一時的に離れて休息や息抜きをすることで、短期入所の利用理由の1つです。",
+  "sources": [
+   {
+    "text": "厚生労働省「医療型短期入所事業所 開設のためのガイドブック」",
+    "url": "https://www.mhlw.go.jp/content/12200000/000654272.pdf"
+   },
+   {
+    "text": "厚生労働省 障害福祉サービス等報酬改定検討チーム 第12回 資料2",
+    "url": "https://www.mhlw.go.jp/file/05-Shingikai-12201000-Shakaiengokyokushougaihokenfukushibu-Kikakuka/0000181051.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "tanki-nyusho",
+  "term": "短期入所",
+  "en": "Short-term stay",
+  "field": "障害の理解",
+  "def": "短期入所とは、居宅で介護する人の病気などにより、障害者支援施設などに短期間入所させ、入浴・排せつ・食事の介護などを行う障害福祉サービスのことです（障害者総合支援法第5条第8項）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「障害者の日常生活及び社会生活を総合的に支援するための法律」",
+    "url": "https://laws.e-gov.go.jp/law/417AC0000000123"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "nintei-tokutei-koi",
+  "term": "認定特定行為業務従事者",
+  "en": "Certified care worker for specified medical acts",
+  "field": "医療的ケア",
+  "def": "認定特定行為業務従事者とは、介護福祉士以外の介護職員で、喀痰吸引等研修を修了して都道府県知事から認定証の交付を受け、医師の指示の下で特定行為を行うことを業とすることができる人のことです（社会福祉士及び介護福祉士法附則第10条・第11条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会福祉士及び介護福祉士法」",
+    "url": "https://laws.e-gov.go.jp/law/362AC0000000030"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "toroku-kakutan-jigyosha",
+  "term": "登録喀痰吸引等事業者",
+  "en": "Registered suctioning service provider",
+  "field": "医療的ケア",
+  "def": "登録喀痰吸引等事業者とは、介護福祉士による喀痰吸引等の業務を行うため、事業所ごとに所在地の都道府県知事の登録を受けた事業者のことです（社会福祉士及び介護福祉士法第48条の3・第48条の6）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会福祉士及び介護福祉士法」",
+    "url": "https://laws.e-gov.go.jp/law/362AC0000000030"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kakutan-kyuin-kenshu",
+  "term": "喀痰吸引等研修",
+  "en": "Suctioning and tube feeding training",
+  "field": "医療的ケア",
+  "def": "喀痰吸引等研修とは、介護職員が認定特定行為業務従事者になるのに必要な知識と技能を身につけるため、都道府県知事またはその登録を受けた登録研修機関が行う研修のことです（社会福祉士及び介護福祉士法附則第11条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「社会福祉士及び介護福祉士法」",
+    "url": "https://laws.e-gov.go.jp/law/362AC0000000030"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "senmo-undo",
+  "term": "繊毛運動",
+  "en": "Ciliary movement",
+  "field": "医療的ケア",
+  "def": "繊毛運動とは、気管の表面をおおう細かい毛が奥からのどの方へ動き、異物をとらえた粘液を外へ押し出そうとする働きのことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「喀痰吸引等研修テキスト 第三号研修（特定の者対象）」第Ⅱ章",
+    "url": "https://www.mhlw.go.jp/content/12200000/000521904.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "oto-hansha",
+  "term": "嘔吐反射",
+  "en": "Gag reflex",
+  "field": "医療的ケア",
+  "def": "嘔吐反射とは、口の奥にある咽頭の壁などが強く刺激されたときに起こる、吐きそうになる反射のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「喀痰吸引等研修テキスト 第三号研修（特定の者対象）」第Ⅱ章",
+    "url": "https://www.mhlw.go.jp/content/12200000/000521904.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kikan-kanyure",
+  "term": "気管カニューレ",
+  "en": "Tracheostomy tube",
+  "field": "医療的ケア",
+  "def": "気管カニューレとは、のどに開けられた気管切開部から気管の中に挿入されている管のことで、その内部の喀痰吸引は介護福祉士が医師の指示の下で行える行為の一つです（社会福祉士及び介護福祉士法施行規則第1条）。",
+  "sources": [
+   {
+    "text": "厚生労働省「喀痰吸引等研修テキスト 第三号研修（特定の者対象）」第Ⅱ章",
+    "url": "https://www.mhlw.go.jp/content/12200000/000521904.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「社会福祉士及び介護福祉士法施行規則」",
+    "url": "https://laws.e-gov.go.jp/law/362M50000100049"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "irou",
+  "term": "胃ろう",
+  "en": "Gastrostomy",
+  "field": "医療的ケア",
+  "def": "胃ろうとは、腹部の外側から胃の内部に栄養を入れるための管を通す小さな穴を作り、その管から栄養剤を入れる方法のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「喀痰吸引等研修テキスト 第三号研修（特定の者対象）」第Ⅱ章",
+    "url": "https://www.mhlw.go.jp/content/12200000/000521904.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "keibi-keikan-eiyo",
+  "term": "経鼻経管栄養",
+  "en": "Nasogastric tube feeding",
+  "field": "医療的ケア",
+  "def": "経鼻経管栄養とは、鼻から胃まで細い管を入れて栄養剤を入れる方法のことで、管の先が胃の中に入っていることの確認は医師または看護職員が行います（社会福祉士及び介護福祉士法施行規則第1条）。",
+  "sources": [
+   {
+    "text": "厚生労働省「喀痰吸引等研修テキスト 第三号研修（特定の者対象）」第Ⅱ章",
+    "url": "https://www.mhlw.go.jp/content/12200000/000521904.pdf"
+   },
+   {
+    "text": "e-Gov法令検索「社会福祉士及び介護福祉士法施行規則」",
+    "url": "https://laws.e-gov.go.jp/law/362M50000100049"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "dumping",
+  "term": "ダンピング症候群",
+  "en": "Dumping syndrome",
+  "field": "医療的ケア",
+  "def": "ダンピング症候群とは、栄養剤が急速に胃腸に送り込まれた場合に起こる、頻脈や低血圧などの症状のことです。",
+  "sources": [
+   {
+    "text": "厚生労働省「喀痰吸引等研修テキスト 第三号研修（特定の者対象）」第Ⅱ章",
+    "url": "https://www.mhlw.go.jp/content/12200000/000521904.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kaigo-katei",
+  "term": "介護過程",
+  "en": "Care process",
+  "field": "介護過程",
+  "def": "介護過程とは、利用者が望む生活を実現するために取り組む、科学的思考と実践のプロセスのことで、アセスメント・介護計画の立案・実施・評価で構成されます。",
+  "sources": [
+   {
+    "text": "公益社団法人日本介護福祉士養成施設協会「介護福祉士養成課程の教員の教育力向上に向けたモデル研修」科目7・8 介護過程の展開方法A・B",
+    "url": "https://www.mhlw.go.jp/content/12200000/000791444.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "seikatsu-kadai",
+  "term": "生活課題",
+  "en": "Life challenges",
+  "field": "介護過程",
+  "def": "生活課題とは、生活上の困難や支障、本人の望む生活が実現できていない状態など、介護過程で解決を目指す課題のことです。",
+  "sources": [
+   {
+    "text": "公益社団法人日本介護福祉士養成施設協会「介護福祉士養成課程の教員の教育力向上に向けたモデル研修」科目7・8 介護過程の展開方法A・B",
+    "url": "https://www.mhlw.go.jp/content/12200000/000791444.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kobetsu-kaigo-keikaku",
+  "term": "個別介護計画",
+  "en": "Individual care plan",
+  "field": "介護過程",
+  "def": "個別介護計画とは、介護過程の中で介護福祉職が作る、利用者一人ひとりの介護目標と支援内容・方法をまとめた計画のことです。",
+  "sources": [
+   {
+    "text": "公益社団法人日本介護福祉士養成施設協会「介護福祉士養成課程の教員の教育力向上に向けたモデル研修」科目7・8 介護過程の展開方法A・B",
+    "url": "https://www.mhlw.go.jp/content/12200000/000791444.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "assessment",
+  "term": "アセスメント",
+  "en": "Assessment",
+  "field": "介護過程",
+  "def": "アセスメントとは、介護過程の最初の段階で、情報収集、情報の分析・解釈・統合、生活課題の抽出を通じて、利用者の生活課題を様々な視点から把握することです。",
+  "sources": [
+   {
+    "text": "公益社団法人日本介護福祉士養成施設協会「介護福祉士養成課程の教員の教育力向上に向けたモデル研修」科目7・8 介護過程の展開方法A・B",
+    "url": "https://www.mhlw.go.jp/content/12200000/000791444.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shukanteki-joho",
+  "term": "主観的情報",
+  "en": "Subjective information",
+  "field": "介護過程",
+  "def": "主観的情報とは、アセスメントで集める情報のうち、利用者の思いや考えのことです。",
+  "sources": [
+   {
+    "text": "公益社団法人日本介護福祉士養成施設協会「介護福祉士養成課程の教員の教育力向上に向けたモデル研修」科目7・8 介護過程の展開方法A・B",
+    "url": "https://www.mhlw.go.jp/content/12200000/000791444.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kyakkanteki-joho",
+  "term": "客観的情報",
+  "en": "Objective information",
+  "field": "介護過程",
+  "def": "客観的情報とは、アセスメントで集める情報のうち、観察や記録などから得られる事実としての情報のことです。",
+  "sources": [
+   {
+    "text": "公益社団法人日本介護福祉士養成施設協会「介護福祉士養成課程の教員の教育力向上に向けたモデル研修」科目7・8 介護過程の展開方法A・B",
+    "url": "https://www.mhlw.go.jp/content/12200000/000791444.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "choki-mokuhyo",
+  "term": "長期目標",
+  "en": "Long-term goal",
+  "field": "介護過程",
+  "def": "長期目標とは、生活課題を解決して最終的に目指す生活状態像を示す介護目標のことで、評価日は6か月から1年程度で設定します。",
+  "sources": [
+   {
+    "text": "公益社団法人日本介護福祉士養成施設協会「介護福祉士養成課程の教員の教育力向上に向けたモデル研修」科目7・8 介護過程の展開方法A・B",
+    "url": "https://www.mhlw.go.jp/content/12200000/000791444.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "tanki-mokuhyo",
+  "term": "短期目標",
+  "en": "Short-term goal",
+  "field": "介護過程",
+  "def": "短期目標とは、長期目標の達成に至るまでの段階的な介護目標のことです。",
+  "sources": [
+   {
+    "text": "公益社団法人日本介護福祉士養成施設協会「介護福祉士養成課程の教員の教育力向上に向けたモデル研修」科目7・8 介護過程の展開方法A・B",
+    "url": "https://www.mhlw.go.jp/content/12200000/000791444.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "sai-assessment",
+  "term": "再アセスメント",
+  "en": "Reassessment",
+  "field": "介護過程",
+  "def": "再アセスメントとは、評価の結果、生活課題が解決された場合などに、新たな生活課題について改めてアセスメントを行うことです。",
+  "sources": [
+   {
+    "text": "公益社団法人日本介護福祉士養成施設協会「介護福祉士養成課程の教員の教育力向上に向けたモデル研修」科目7・8 介護過程の展開方法A・B",
+    "url": "https://www.mhlw.go.jp/content/12200000/000791444.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "yuko-kyujin-bairitsu",
+  "term": "有効求人倍率",
+  "en": "Ratio of job offers to applicants",
+  "field": "社会の理解",
+  "def": "有効求人倍率とは、現在有効な求人数（月間有効求人数）を求職者数（月間有効求職者数）で割った数字のことで、2025年6月の介護関係職種は3.87倍、職業計は1.05倍でした。",
+  "sources": [
+   {
+    "text": "厚生労働省 新潟労働局 ハローワーク新発田「各種統計情報」",
+    "url": "https://jsite.mhlw.go.jp/niigata-hellowork/list/shibata/data.html"
+   },
+   {
+    "text": "厚生労働省老健局「介護人材確保に向けた処遇改善等の課題」（社会保障審議会介護給付費分科会 第247回 資料2）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001738934.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "shogu-kaizen-kasan",
+  "term": "介護職員等処遇改善加算",
+  "en": "Additional payment for improving care workers' treatment",
+  "field": "社会の理解",
+  "def": "介護職員等処遇改善加算とは、介護職員の処遇改善のための介護報酬の加算で、2024年6月にそれまでの3種類の加算を4段階に一本化したもののことです。",
+  "sources": [
+   {
+    "text": "厚生労働省老健局「介護人材確保に向けた処遇改善等の課題」（社会保障審議会介護給付費分科会 第247回 資料2）",
+    "url": "https://www.mhlw.go.jp/content/12300000/001738934.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kaigo-kyugyo",
+  "term": "介護休業",
+  "en": "Family care leave",
+  "field": "社会の理解",
+  "def": "介護休業とは、労働者が要介護状態にある対象家族を介護するためにする休業のことで、対象家族1人につき3回まで、通算93日まで取れます（育児・介護休業法第2条・第11条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/403AC0000000076"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "kaigo-kyuka",
+  "term": "介護休暇",
+  "en": "Family care days off",
+  "field": "社会の理解",
+  "def": "介護休暇とは、要介護状態にある対象家族の世話をするための休暇のことで、1年度に5労働日まで、対象家族が2人以上なら10労働日まで取れます（育児・介護休業法第16条の5）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律」",
+    "url": "https://laws.e-gov.go.jp/law/403AC0000000076"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "young-carer",
+  "term": "ヤングケアラー",
+  "en": "Young carer",
+  "field": "社会の理解",
+  "def": "ヤングケアラーとは、家族の介護その他の日常生活上の世話を過度に行っていると認められる子ども・若者のことで、子ども・若者育成支援推進法で国や地方公共団体などが支援に努めるべき対象とされています（同法第2条）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「子ども・若者育成支援推進法」",
+    "url": "https://laws.e-gov.go.jp/law/421AC0000000071"
+   },
+   {
+    "text": "こども家庭庁「ヤングケアラーについて」",
+    "url": "https://www.cfa.go.jp/policies/young-carer"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "yokaigo-shisetsu-jujisha",
+  "term": "養介護施設従事者等",
+  "en": "Care facility staff",
+  "field": "社会の理解",
+  "def": "養介護施設従事者等とは、介護老人福祉施設や居宅サービス事業など、高齢者の介護に関わる施設・事業の業務に従事する人のことで、職場で虐待を受けたと思われる高齢者を見つけたときは市町村への通報義務があります（高齢者虐待防止法第21条）。",
+  "sources": [
+   {
+    "text": "厚生労働省「令和6年度 高齢者虐待防止法に基づく対応状況等に関する調査結果」",
+    "url": "https://www.mhlw.go.jp/content/12300000/001621506.pdf"
+   }
+  ],
+  "date": "2026-10-06"
+ },
+ {
+  "id": "gyakutai-boshi-sochi",
+  "term": "虐待の防止のための措置",
+  "en": "Abuse prevention measures",
+  "field": "社会の理解",
+  "def": "虐待の防止のための措置とは、介護老人福祉施設が虐待の発生や再発を防ぐために講じる、委員会の定期的な開催、指針の整備、研修の定期的な実施、担当者の設置の4つの措置のことです（指定介護老人福祉施設の人員、設備及び運営に関する基準第35条の2）。",
+  "sources": [
+   {
+    "text": "e-Gov法令検索「指定介護老人福祉施設の人員、設備及び運営に関する基準」",
+    "url": "https://laws.e-gov.go.jp/law/411M50000100039"
+   }
+  ],
+  "date": "2026-10-06"
  }
 ]

@@ -126,10 +126,18 @@ def patch_article(cfg, p, posts, images, favicon=""):
     else:
         s = re.sub(r'<meta name="twitter:card" content="[^"]*">', '<meta name="twitter:card" content="summary">', s)
     s = re.sub(r'(<meta name="twitter:card"[^>]*>\n)', lambda m: m.group(1) + add, s, count=1)
+    # --- 記事上部のテーマ別メニュー(設定 articleNav のメディアだけ)。毎ビルドで入れ直すので過去記事にも効く
+    s = re.sub(r'<!--anav-->.*?<!--/anav-->\n?', "", s, flags=re.S)
+    if cfg.get("articleNav"):
+        nav = "".join(f'<a href="{E(n["path"], quote=True)}">{E(n["label"])}</a>' for n in cfg["articleNav"])
+        s = s.replace("<article>", f'<article>\n<!--anav--><div class="anav" role="navigation" aria-label="テーマ">{nav}</div><!--/anav-->', 1)
     # --- メディア固有の記事デザイン(cfg の articleCss)を後から差し込む。過去記事にも効く
     s = re.sub(r'<style id="theme">.*?</style>\n?', "", s, flags=re.S)
     if cfg.get("articleCss"):
         s = s.replace("</head>", f'<style id="theme">{cfg["articleCss"]}</style>\n</head>', 1)
+    # --- アイコン付きの要点(.pts)・数字の棒グラフ(.bars)。<i data-ic> をSVGにし、使う記事にだけCSSを足す
+    import icons
+    s = icons.apply(s)
     # --- 構造化データ(Article を強化)
     def fix_ld(m):
         try:
@@ -213,6 +221,7 @@ PAGES = {
    ("情報の性質", ["{name}の記事は、公開された研究をもとにした一般的な情報の提供であり、診断、治療、法律上の助言の代わりになるものではありません。", "研究の結果は、対象となった集団についての傾向であり、すべての人に当てはまるとは限りません。"]),
    ("専門家への相談", ["心身の不調や、被害・トラブルが深刻な場合は、医師、専門の医療機関、法律の専門家、各種の公的な相談窓口に相談してください。"]),
    ("特定の人物について", ["記事の内容を使って、特定の人物を診断したり、決めつけたりすることは、お勧めしません。"]),
+   ("端末に保存するもの", ["記事の「読んだ記事にする」「もう一度読みたい」の印は、お使いの端末のブラウザ（localStorage）にだけ保存します。サーバーへは送らず、運営者が見ることはできません。ブラウザのデータを消すと消えます。"]),
    ("責任の範囲", ["記事の内容には、正確を期していますが、その完全性や、特定の目的への適合性を保証するものではありません。記事を参考にした行動の結果について、当メディアは責任を負いません。"])]),
 }
 
@@ -220,7 +229,7 @@ PAGES = {
 def write_pages(cfg, favicon=""):
     st = article_style(cfg) + (f'<style id="theme">{cfg["articleCss"]}</style>' if cfg.get("articleCss") else "")
     concept = cfg.get("concept", "")
-    concept_short = cfg.get("tagline", "")
+    concept_short = cfg.get("aboutLead") or cfg.get("tagline", "")  # aboutLead: 「このメディアについて」でメディアを一言で言い切る文（AIの紹介文に使われやすい）
     urls = []
     for slug, (title, desc, builder) in PAGES.items():
         ctx = {"name": cfg["name"], "concept_short": concept_short}
@@ -330,14 +339,23 @@ def write_llms(cfg, posts=()):
               "- 各記事は冒頭に結論、各見出しの直下に結論文、末尾に「よくある質問」と番号付きの出典を置いています。",
               "- 数値や研究結果は、記事末尾の出典(論文・公的機関の資料・報道)で確認できます。", "",
               "## カテゴリ", "", *[cat_line(c) for c in cats], ""]
+    import mindmap
+    brs = mindmap.branches_for_llms(cfg, posts)
     lines += ["## 記事一覧", ""]
     order = {c["name"]: i for i, c in enumerate(cats)}
     for cname in sorted({p["category"] for p in posts}, key=lambda n: order.get(n, 99)):
         lines += [f"### {cname}", ""]
-        for p in sorted((p for p in posts if p["category"] == cname), key=lambda p: p["slug"]):
+        ps = {p["slug"]: p for p in posts if p["category"] == cname}
+        def item(p):
             summ = re.sub(r"\s+", " ", p.get("summary", "")).strip()
-            lines.append(f"- [{p['title']}]({url}{p['slug']}/): {summ}")
+            return f"- [{p['title']}]({url}{p['slug']}/): {summ}"
+        for label, slugs in (brs or {}).get(cname, []):  # 記事マップがあれば「問い」ごとに分ける
+            if slugs:
+                lines += [f"#### {label}", "", *[item(ps.pop(s)) for s in slugs if s in ps], ""]
+        lines += [item(p) for p in sorted(ps.values(), key=lambda p: p["slug"])]
         lines.append("")
+    import toolbox
+    lines += toolbox.llms_lines(cfg)
     lines += ["## 主要ページ", "",
               f"- トップ: {url}",
               f"- このメディアについて: {url}about/",

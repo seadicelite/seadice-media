@@ -1,0 +1,310 @@
+{
+ "readCheck": true,
+ "sideIndex": true,
+ "enabled": true,
+ "publish": "auto",
+ "slug": "senbei",
+ "siteType": "article",
+ "name": "お煎餅ラボ",
+ "path": "sites/senbei/",
+ "url": "https://senbei.seadice.win/",
+ "tagline": "研究で、世界一美味しい煎餅を目指す。",
+ "lead": "煎餅の膨らみ、パリパリ感、香ばしさ、しけ方。米菓メーカーや県の試験場、大学の研究を1本ずつ読み、結論と数字と、手作りでの試し方にまとめます。世界一美味しい煎餅は目標で、まだ作れていません。何も売りません。",
+ "titleSuffix": "煎餅の美味しさを研究で確かめるメディア",
+ "description": "煎餅はなぜ膨らむ？天日干しはなぜ良いと言われる？しけた煎餅は戻る？米菓の研究を1本ずつ読み、結論・わかった数字・手作りでの試し方・まだわからないことをまとめるメディア。組み合わせツールつき。商品の紹介はしません。出典つき。",
+ "theme": {
+  "bg": "#F6F0E2",
+  "card": "#FFFCF4",
+  "accent": "#8A4512",
+  "accent2": "#C98A2B",
+  "border": "#D9CBB3",
+  "text": "#2A1B10",
+  "muted": "#5C4636",
+  "link": "#7A3A0A",
+  "faviconBg": "#1D2620",
+  "faviconFg": "#E3A955"
+ },
+ "categories": [
+  {
+   "name": "材料",
+   "id": "material",
+   "color": "#6A5A1A",
+   "icon": "dot",
+   "desc": "うるち米ともち米、米の品種、油や添加物。何を使うと膨らみや硬さが変わるか"
+  },
+  {
+   "name": "工程",
+   "id": "process",
+   "color": "#8A4512",
+   "icon": "clock",
+   "desc": "蒸す・練る・乾かす・寝かせる・焼く。焼く前の工程で何が決まるか"
+  },
+  {
+   "name": "食感",
+   "id": "texture",
+   "color": "#5A4030",
+   "icon": "target",
+   "desc": "硬さ、パリパリ感、しける仕組みと保存"
+  },
+  {
+   "name": "香りと味",
+   "id": "flavor",
+   "color": "#953619",
+   "icon": "heart",
+   "desc": "醤油の焼ける香り、塩味の感じ方、焼き色"
+  },
+  {
+   "name": "感じ方",
+   "id": "perception",
+   "color": "#4D5A2B",
+   "icon": "eye",
+   "desc": "噛む音とパリパリ感、擬音語で見る食感の好み"
+  },
+  {
+   "name": "地域",
+   "id": "region",
+   "color": "#6B4A2E",
+   "icon": "dot",
+   "desc": "せんべいをよく買う街、醤油や味付けの地域差。購入・摂取・出荷・好みを分けて見る"
+  },
+  {
+   "name": "安全",
+   "id": "safety",
+   "color": "#36535E",
+   "icon": "shield",
+   "desc": "焦がしすぎとアクリルアミド、保存の注意"
+  }
+ ],
+ "types": [
+  {
+   "id": "study",
+   "label": "研究を読む"
+  }
+ ],
+ "catLimit": 3,
+ "faq": [
+  [
+   "お煎餅ラボとはどんなメディアですか？",
+   "煎餅（米菓）の膨らみ・食感・香り・しけ方について、米菓メーカー・県の試験場・大学の研究を1本ずつ読み、結論・わかった数字・手作りでの試し方・まだわからないことをまとめるメディアです。SEADICEが運営しています。"
+  ],
+  [
+   "「世界一美味しい煎餅」はもうできたのですか？",
+   "いいえ。「研究で、世界一美味しい煎餅を目指す」は目標です。今は、研究でわかっていることとわかっていないことを整理している段階です。"
+  ],
+  [
+   "記事は誰が書いていますか？",
+   "AI（Claude）が論文や公的な試験場の報告書を開いて読み、記事の数字が出典と合っているかを照合して作成しています。SEADICEが自分で煎餅を試作・測定したものではありません。"
+  ],
+  [
+   "煎餅の研究は多いのですか？",
+   "多くありません。煎餅そのものを調べた査読論文は少なく、日本の米菓の知見の多くは県の試験場の報告（試作の数が少ない）です。各記事に、研究の量と確かさを書いています。"
+  ]
+ ],
+ "trust": [
+  [
+   "出典を開いて確かめる",
+   "論文と試験場の報告書を開き、記事の数字が原典にあるかを1件ずつ照合しています。"
+  ],
+  [
+   "まだわからないことも書く",
+   "研究で示されたのはどこまでか、何が調べられていないかを、毎回分けて書きます。"
+  ],
+  [
+   "何も売りません",
+   "商品・店の紹介、広告、アフィリエイトは一切ありません。"
+  ]
+ ],
+ "concept": "煎餅（米菓）を美味しくする要素（米の種類、蒸し・練り、乾燥と寝かせ、焼き方、醤油や塩、食感としける仕組み、音と感じ方、焦げと安全）を、1記事＝1つの問い＋主役の研究1本で読み解き、結論・わかった数字・手作りでの試し方・まだわからないことに落とし込む。目標は研究で世界一美味しい煎餅を目指すことで、実績ではない。商品・店の紹介はしない",
+ "aboutLead": "お煎餅ラボは、煎餅の美味しさにかかわる研究を1本ずつ読み、結論と数字と試し方にまとめるメディアです。目標は「研究で、世界一美味しい煎餅を目指す」ことです。",
+ "reader": "煎餅が好きな人、煎餅を手作りしたい人、なぜ美味しいのかを知りたい人",
+ "tone": "落ち着いて、結論から。研究で示されたことと、まだわからないことを分ける。「科学的に証明」とは書かない。商品・店を勧めない",
+ "about": "記事はAIが米菓メーカー・県の試験場・大学の論文や報告書を開いて読み、記事の数字と主張が原典にあるかを照合して作成しています。SEADICEが自分で煎餅を試作・測定したものではありません。商品や店の紹介はしていません。",
+ "template": ".claude/commands/senbei-template.html",
+ "rulesFrom": ".claude/commands/senbei.md",
+ "relatedApps": "立ち上げ期はアプリ送客なし",
+ "postsPerRun": 1,
+ "toolboxHub": "/tool/",
+ "extraNav": [
+  {
+   "label": "研究一覧",
+   "path": "/research/"
+  },
+  {
+   "label": "組み合わせツール",
+   "path": "/tool/"
+  },
+  {
+   "label": "味を探す",
+   "path": "/flavor/"
+  }
+ ],
+ "toolbox": [
+  {
+   "name": "煎餅の組み合わせツール",
+   "desc": "米・厚さ・蒸し練り・乾燥・焼き色・味付けを選ぶと、膨らみや硬さなど5つの目安と、その根拠の研究が出る",
+   "href": "/tool/",
+   "glyph": "dial",
+   "all": true,
+   "cats": [
+    "材料",
+    "工程",
+    "食感",
+    "香りと味",
+    "感じ方",
+    "安全"
+   ],
+   "icon": "/img/tool-senbei-icon.webp"
+  },
+  {
+   "name": "まだない煎餅の味を探す",
+   "desc": "土台の味と足す味を選ぶと、SEADICEが調べた市販の839件の味にあるかと、合いそうかの研究が出る。試したい味は端末に残せる",
+   "href": "/flavor/",
+   "glyph": "search",
+   "slugs": [
+    "umami-synergy-nori-senbei",
+    "kyushu-soy-sauce-sweet-why"
+   ],
+   "cats": [
+    "地域"
+   ],
+   "icon": "/img/flavor-icon.webp"
+  }
+ ],
+ "pageSections": {
+  "about": [
+   [
+    "運営",
+    [
+     "{name} は、アプリスタジオ SEADICE（シーダイス）が運営するメディアです。",
+     "{concept_short}"
+    ]
+   ],
+   [
+    "目標について",
+    [
+     "「研究で、世界一美味しい煎餅を目指す」は目標です。お煎餅ラボが世界一の煎餅を作ったわけではありません。",
+     "煎餅の研究はまだ少なく、わかっていないことが多くあります。記事ごとに、研究で示されたことと、まだわからないことを分けて書きます。"
+    ]
+   ],
+   [
+    "記事の作り方",
+    [
+     "記事は、AI（Claude）が米菓メーカー・県の試験場・大学の論文や報告書を開いて読み、内容を確認して整理し、作成しています。SEADICE が自分で煎餅を試作・測定したものではありません。",
+     "公開前に、記事に書く数字と主張が原典にあるかを1件ずつ照合し、確認できなかったものは削ります。"
+    ]
+   ],
+   [
+    "1記事＝1つの問い",
+    [
+     "1本の記事は、1つの問い（例: 天日干しの煎餅はなぜふくれる？）と、その主役になる研究1本でできています。補う研究は記事の中で紹介します。",
+     "記事の流れは「結論／どんな研究か／わかった数字／煎餅作りへの使い方／まだわからないこと／出典」で、どの記事も同じです。"
+    ]
+   ],
+   [
+    "何も売りません",
+    [
+     "お煎餅ラボは、商品・店の紹介やアフィリエイトを一切行いません。広告も掲載しません。"
+    ]
+   ],
+   [
+    "お問い合わせ",
+    [
+     "記事の誤りのご指摘や、ご意見は <a href=\"mailto:hi@seadice.win\">hi@seadice.win</a> までご連絡ください。"
+    ]
+   ]
+  ],
+  "sources": [
+   [
+    "使う出典",
+    [
+     "査読のある学術論文（食品科学・農学・感覚の研究など）、県の工業技術センター・農業試験場など公的な試験研究機関の報告書、農林水産省など公的機関の資料を使います。商品の宣伝やまとめサイトは出典にしません。",
+     "各記事の末尾に、著者、発行年、タイトル、掲載誌、リンクを載せています。"
+    ]
+   ],
+   [
+    "研究の確かさの書き方",
+    [
+     "試験場の報告書は査読がなく、試作の数も少ないものが多くあります。記事では「どこの・何枚の・どんな条件の試作か」を書き、煎餅以外（パン・スナック・タイの米菓など）の研究を使うときは対象を必ず書きます。",
+     "「科学的に証明された」とは書きません。書くのは「研究で示された」までです。"
+    ]
+   ],
+   [
+    "検証の方法",
+    [
+     "1. 論文や報告書の原典（要旨や本文）を開き、記事に書く数値と主張が原典に書かれていることを1件ずつ照合します。",
+     "2. 原典が開けない場合は、別の信頼できる情報源（論文データベースなど）で確認できた内容だけを使います。",
+     "3. 確認できなかった数値や主張は、記事から削除します。"
+    ]
+   ],
+   [
+    "写真",
+    [
+     "記事の写真は、Wikimedia Commons などの、自由に利用できるライセンス（パブリックドメイン、CC0、CC BY、CC BY-SA）の素材を使い、撮影者とライセンスを各記事に表示しています。"
+    ]
+   ],
+   [
+    "訂正について",
+    [
+     "誤りがあれば、確認のうえ修正し、記事の日付を更新します。ご指摘は hi@seadice.win までお願いします。"
+    ]
+   ]
+  ],
+  "disclaimer": [
+   [
+    "情報の性質",
+    [
+     "{name}の記事とツールは、公開された研究をもとにした一般的な情報です。研究の結果は、その研究の条件（米・設備・試作の数）での傾向で、家庭での手作りに同じように当てはまるとは限りません。",
+     "組み合わせツールの結果は研究からの目安で、味を保証するものではありません。"
+    ]
+   ],
+   [
+    "調理と安全",
+    [
+     "煎餅を焼くときは、やけどと火の扱いに注意してください。焦げるほど強く焼かないことは、農林水産省がアクリルアミドを減らすために勧めている方法の一つです。",
+     "食物アレルギーや持病で食事に制限がある方は、医師の指示に従ってください。"
+    ]
+   ],
+   [
+    "責任の範囲",
+    [
+     "記事の内容には、正確を期していますが、その完全性や、特定の目的への適合性を保証するものではありません。記事を参考にした行動の結果について、当メディアは責任を負いません。"
+    ]
+   ]
+  ]
+ },
+ "topicQueue": [
+  "生地を薄くするとパリパリになる？厚さと食感（候補: 米菓・クラッカー・ポテトチップスの厚さと破断特性の研究。要調査。食感）",
+  "二度焼きすると煎餅は硬くなる？焼き直しと水分・食感（候補: 米菓の焼成二段階・乾燥の試験場報告。要調査。工程）",
+  "米粉の細かさで煎餅は変わる？製粉方法と膨らみ・食感（候補: 米粉の粒度と米菓・ライスクラッカーの膨化の研究、県農業試験場の米粉試験。要調査。材料）",
+  "煎餅をトースターとフライパンで焼くと、色と膨らみは変わる？（候補: 家庭用加熱器具と米菓・クッキーの焼成の研究。要調査。工程）",
+  "醤油を何度も塗り重ねると、塩味は濃くなる？塗る回数と表面の塩分（候補: 米菓の調味付着量の試験場報告。要調査。香りと味）",
+  "海苔を巻いた煎餅はなぜしけやすい？海苔の吸湿と食感（候補: 海苔の水分吸着等温線の研究。要調査。食感）",
+  "揚げ煎餅と焼き煎餅、油の量でパリパリ感はどう違う？（候補: 揚げと焼きの米菓・スナックの食感比較研究。要調査。食感）",
+  "うるち米の品種で煎餅の硬さは変わる？アミロースと食感（候補: 米のアミロース含量とライスクラッカー硬さの研究。要調査。材料）",
+  "煎餅の割れ目（ひび）はなぜできる？乾燥むらと亀裂（候補: 米菓・餅の乾燥割れの研究。要調査。工程）",
+  "七味やごまを足すと煎餅の香りの感じ方は変わる？（候補: 香辛料と塩味・香りの相互作用の官能研究。要調査。香りと味）"
+ ],
+ "mastheadHtml": "<div class=\"sl-mast\"><p class=\"sl-kick\">SENBEI LAB</p><h1>お煎餅ラボ</h1><p class=\"sl-tag\">%TAGLINE%</p><p class=\"sl-lead\">%LEAD%</p><dl class=\"sl-meta\"><div><dt>研究を読んだ記事</dt><dd>%POSTS%</dd></div><div><dt>分野</dt><dd>%CATS%</dd></div><div><dt>広告</dt><dd>0</dd></div></dl></div><!--mastend--><section class=\"sl-tools\" aria-label=\"お煎餅ラボの道具\"><h2 class=\"sl-th\">道具で試す</h2><div class=\"sl-tg\"><a class=\"sl-tc\" href=\"/flavor/\"><img src=\"/img/page-flavor.webp\" width=\"960\" height=\"300\" alt=\"ナッツやチョコをのせた変わり種の煎餅\"><span class=\"sl-tb\"><em>Webツール・登録不要・無料</em><b>まだない煎餅の味を探す</b><small>土台と足す味を選ぶと、SEADICEが調べた市販839件の味にあるかと、合いそうかの研究が出る</small><i>使ってみる</i></span></a><a class=\"sl-tc\" href=\"/tool/\"><img src=\"/img/page-tool.webp\" width=\"960\" height=\"300\" alt=\"青のり・山椒の葉・黒ごまをのせて焼いた煎餅\"><span class=\"sl-tb\"><em>Webツール・登録不要・無料</em><b>煎餅の組み合わせツール</b><small>米・厚さ・蒸し練り・乾燥・焼き色・味付けを選ぶと、膨らみや硬さなど5つの目安と根拠の研究が出る</small><i>使ってみる</i></span></a></div><p class=\"sl-cr\">Photo: 島児鹿 / <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> / <a href=\"https://commons.wikimedia.org/wiki/File:Yunomoto_Senbei.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a></p></section>",
+ "extraCss": "nav.top{background:#1D2620;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:3px solid #C98A2B}.nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#F5EFE1;color:#F5EFE1}nav.top a.r{color:#F5EFE1;font-weight:700}h1{background:none;-webkit-text-fill-color:#2A1B10;color:#2A1B10}.sl-mast{padding:20px 0 28px;margin-bottom:28px;border-bottom:3px double #1D2620}.sl-kick{display:inline-block;font-size:12px;letter-spacing:.24em;color:#F5EFE1;background:#1D2620;padding:4px 12px;font-weight:700;border-radius:2px}.sl-mast h1{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;font-size:clamp(36px,9vw,56px);line-height:1.2;font-weight:700;letter-spacing:.08em;margin-top:8px}.sl-tag{font-size:17px;font-weight:700;margin-top:12px;padding-left:12px;border-left:4px solid #C98A2B}.sl-lead{font-size:15px;line-height:1.9;margin-top:12px;max-width:640px;color:#3D2C20}.sl-meta{display:grid;grid-template-columns:repeat(3,1fr);max-width:440px;margin-top:18px;border:1px solid #2A1B10;background:#FFFCF4}.sl-meta div{display:flex;flex-direction:column-reverse;padding:8px 10px;border-left:1px solid #2A1B10}.sl-meta div:first-child{border-left:0}.sl-meta dt{font-size:12px;color:#5C4636}.sl-meta dd{font-size:22px;font-weight:800;line-height:1.3}.chip{border-radius:6px;min-height:44px}.chip svg{fill:var(--c)}h2.sec{font-size:13px;font-weight:700;color:#2A1B10;letter-spacing:.12em}h2.cat{border-left:0;padding:12px 0 0;border-top:2px solid #1D2620;font-family:'Hiragino Mincho ProN','Yu Mincho',serif}.card{border-radius:8px}.card:hover{transform:none;border-color:#8A4512}.th{background:#EFE5D0}.tag{border-radius:4px}.ty{color:#FFFCF4;border-radius:4px}.about,.trust div,.faq details,.empty{border-radius:8px}.tbx,.tbgrid .tbi{border-radius:8px}.tbic{border-radius:6px;background:#EFE5D0}.tbgo{border-radius:6px;color:#FFFCF4}a:focus-visible,summary:focus-visible,button:focus-visible{border-radius:2px}main .gnav a{border-radius:6px;min-height:44px;display:inline-flex;align-items:center;font-weight:700;border-color:#2A1B10;font-size:14px}main .gnav a:first-child{background:#1D2620;border-color:#1D2620;color:#F5EFE1}footer{background:#1D2620;color:#E6DCC6;border-top:3px solid #C98A2B}footer a{color:#E6DCC6}.card{border-top:3px solid #1D2620}.sl-meta{border-color:#1D2620}.sl-meta div{border-color:#1D2620}.sl-tag{font-family:'Hiragino Mincho ProN','Yu Mincho',serif}main h1{font-family:'Hiragino Mincho ProN','Yu Mincho',serif}.ticker{top:56px;background:#FFFBF1;border-bottom:1px solid #1D2620}.ticker .lb{background:#1D2620;color:#F5EFE1}.ticker a b{color:#8A4512}.sl-tools{margin:8px 0 36px}.sl-th{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;font-size:20px;margin:0 0 12px;padding-top:12px;border-top:2px solid #1D2620}.sl-tg{display:grid;gap:16px;grid-template-columns:1fr}@media(min-width:760px){.sl-tg{grid-template-columns:1fr 1fr}}.sl-tc{display:flex;flex-direction:column;background:#FFFBF1;border:1px solid #1D2620;border-top:4px solid #1D2620;border-radius:8px;overflow:hidden;text-decoration:none;color:#2A1B10}.sl-tc:hover{border-color:#8A4512}.sl-tc img{display:block;width:100%;height:auto;aspect-ratio:16/5;object-fit:cover;background:#EFE5D0}.sl-tb{display:flex;flex-direction:column;gap:4px;padding:14px 16px 16px}.sl-tb em{font-style:normal;font-size:12px;color:#8A4512}.sl-tb b{font-size:18px;font-family:'Hiragino Mincho ProN','Yu Mincho',serif}.sl-tb small{font-size:14px;line-height:1.7;color:#3D2C20}.sl-tb i{align-self:flex-start;margin-top:8px;font-style:normal;font-weight:800;font-size:14px;color:#FFFCF4;background:#8A4512;border-radius:6px;padding:10px 16px;min-height:44px;display:inline-flex;align-items:center}.sl-cr{font-size:12px;color:#5C4636;margin-top:6px}.sl-cr a{color:#5C4636}",
+ "articleCss": ".hero img,.related a,.prevnext a,.tbx,.tbgrid .tbi{border-radius:8px}.tbic,.tbgo{border-radius:6px}.related .rt{border-radius:4px}.tbx{border:1px solid var(--text);border-top:4px solid var(--accent2)}.tbgo{color:#FFFCF4}.related a:hover,.prevnext a:hover{border-color:var(--accent)}body>nav{background:#1D2620;border-bottom:3px solid #C98A2B}body>nav .nav-logo,body>nav a.r{color:#F5EFE1}h2.sec{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;border-top:2px solid #1D2620}.summary{border-color:#1D2620;border-top:4px solid #1D2620}.summary h2{display:inline-block;background:#1D2620;color:#F5EFE1;padding:2px 10px;border-radius:2px}footer{background:#1D2620;color:#E6DCC6;border-top:3px solid #C98A2B}footer a{color:#E6DCC6}",
+ "ticker": true,
+ "tickerItems": [
+  {
+   "label": "ツール",
+   "title": "まだない煎餅の味を探す",
+   "href": "/flavor/"
+  },
+  {
+   "label": "ツール",
+   "title": "煎餅の組み合わせツール",
+   "href": "/tool/"
+  },
+  {
+   "label": "研究",
+   "title": "煎餅の研究一覧",
+   "href": "/research/"
+  }
+ ],
+ "toolboxArticleIcon": false,
+ "toolboxTop": false
+}

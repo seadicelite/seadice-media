@@ -1,5 +1,7 @@
 {
-  "enabled": true,
+  "readCheck": true,
+ "sideIndex": true,
+ "enabled": false,
   "publish": "auto",
   "slug": "dokugaku",
   "siteType": "article",
@@ -11,9 +13,9 @@
   "tone": "やさしく、責めない。根性論ではなく、研究でわかっている「効くやり方」を小さな一歩にして示す",
   "tagline": "Learn how to learn. 独学のしかたを、研究で確かめる。",
   "lead": "覚え方、勉強法、続け方、集中、計画、やる気。独学のしかたを、公開された研究から確かめます。よく言われる勉強法のうち、効くものと当てにならないものを切り分け、今日から試せる形にします。",
-  "titleSuffix": "独学のしかたを研究で確かめる、勉強法・記憶・習慣のAIリサーチメディア",
-  "description": "覚えられない、続かない、集中できない。独学の悩みを、記憶・学習科学・習慣の研究から検証するAIリサーチメディア。効く勉強法と当てにならない通説を切り分けて紹介。出典つき。",
-  "about": "記事はAIが公開された研究論文や公的機関の資料を調べ、出典の内容を確認して作成しています。特定の教材やサービスを勧めるものではありません。",
+  "titleSuffix": "科学的な勉強法を無料で学べる独学サイト",
+  "description": "独学の科学は、効果が研究で確かめられた勉強法を無料で学べるサイトです。思い出す練習・分散学習・過去問・語呂合わせなど代表的な勉強法を「効く／条件しだい／当てにならない」で判定し、覚え方・続け方・集中の悩みに出典つきで答えます。広告なし。",
+  "about": "独学の科学は、研究で効果がはっきりしている勉強法を、無料・広告なしで、今日から使える形（計算機・早見表・記事）で届けます。記事はAIが公開された研究論文や公的機関の資料を調べ、出典の内容を確認して作成しています。特定の教材やサービスを勧めるものではありません。",
   "theme": {
     "bg": "#0B1020",
     "card": "#121A30",
@@ -97,28 +99,33 @@
   "rulesFrom": ".claude/commands/dokugaku.md",
   "postsPerRun": 1,
   "topicQueue": [
-    "語学アプリだけで話せるようになるのか。アプリ学習の研究",
-    "思い出すときの「ど忘れ」はなぜ起きるのか",
-    "資格試験は過去問から解くべきか。問題を先に解く学習の研究",
-    "一夜漬けは本当に効かないのか。詰め込み学習の研究",
-    "音読と黙読、どちらが覚えられるのか。音読効果（プロダクション効果）の研究",
-    "要約しながら読むと理解は深まるのか。要約と学習の研究",
-    "マインドマップは勉強に効くのか。図にまとめる学習の研究",
-    "予習と復習、どちらが大事か。事前テスト（プレテスト効果）の研究",
-    "わからない問題で悩む時間はムダか。生産的失敗の研究",
-    "勉強の記録をつけると続くのか。進み具合を見える化する研究",
-    "社会人が勉強時間をつくるコツ。時間の使い方と習慣の研究",
-    "英語の独学は何から始めるべきか。第二言語習得の研究でわかったこと"
+    "AI時代に学ぶ価値があるスキルは何か。仕事の変化の研究でわかったこと",
+    "【英単語・語学の暗記×効く？】シャドーイングは英語の聞き取りに効く？研究でわかったこと",
+    "【英単語・語学の暗記×効く？】「2つの外国語を同時に学ぶと混ざって覚えにくい」は本当？言語どうしの干渉の研究",
+    "【資格試験・テスト対策×効く？】「試験は簡単な問題から解くと点が取れる」は本当？問題の並び順と解く順番の研究",
+    "【大人の学び直し×効く？】「大人の語学も、子どものように浴びるほど聞けば身につく」は本当？大人と子どもの外国語の学び方の研究"
   ],
-  "relatedApps": "p/released-apps.json から学び・習慣に近いものを選ぶ。無ければ省略",
+  "relatedApps": "送客するアプリは apps 配列に登録済みのものだけ。新しい記事がアプリのテーマ(apps[].theme)に合うときは、posts.json の記事に \"app\": \"{id}\" を付け、「今日からできること」など行動の段落の直後に1行だけアプリへの一文リンク(https://apps.apple.com/app/id{appStoreId}?ct=dokugaku)を入れる。末尾のアプリカードは build.py が自動で入れるので本文に書かない。1記事1アプリまで。テーマに合わない記事には付けない。計画・スケジュール・習慣化の記事は独学スケジュールメーカー(appPromos)の担当なので \"app\" は付けない",
   "layout": "magazine",
-  "extraCss": "body{background-color:#0B1020;background-image:linear-gradient(rgba(140,200,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(140,200,255,.045) 1px,transparent 1px);background-size:24px 24px} .nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#93A3BE;color:#93A3BE} nav.top a.r{color:#F5C542;font-weight:800;letter-spacing:.08em} .dk-mast{position:relative;padding:30px 26px 26px 40px;margin-bottom:32px;border-radius:20px;background:#121A30;border:1px solid #22304F;overflow:hidden} .dk-mast::before{content:\"\";position:absolute;left:22px;top:0;bottom:0;width:2px;background:rgba(240,112,138,.55)} .dk-en{font-size:12px;letter-spacing:.22em;color:#93A3BE;text-transform:uppercase;font-weight:700} .dk-mast h1{background:none!important;-webkit-text-fill-color:#EAF0FA!important;font-size:clamp(42px,11vw,76px);font-weight:900;line-height:1.15;margin-top:10px;color:#EAF0FA;letter-spacing:.02em} .dk-mark{background:linear-gradient(transparent 60%,rgba(245,197,66,.6) 60%,rgba(245,197,66,.6) 92%,transparent 92%);padding:0 .06em} .dk-tag{font-size:17px;font-weight:700;margin-top:14px;color:#EAF0FA} .dk-lead{font-size:14.5px;color:#93A3BE;margin-top:10px;line-height:1.85;max-width:560px} .dk-rules{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:22px} .dk-rule{display:block;background:#0B1020;border:1px solid #22304F;border-radius:14px;padding:12px 14px;text-decoration:none;color:#EAF0FA;transition:border-color .15s} .dk-rule:hover{border-color:#F5C542} .dk-rule b{display:block;font-size:11px;color:#F5C542;letter-spacing:.14em;margin-bottom:4px} .dk-rule span{font-size:14px;font-weight:700;line-height:1.5} .dk-pills{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px} .dk-pill{display:inline-flex;align-items:baseline;gap:4px;padding:8px 16px;border-radius:999px;font-size:13.5px;color:#EAF0FA;background:rgba(255,255,255,.05);border:1px solid #22304F;text-decoration:none} .dk-pill b{font-size:18px;color:#F5C542} @media(max-width:520px){.dk-rules{grid-template-columns:1fr}.dk-mast{padding:26px 20px 22px 34px}.dk-mast::before{left:18px}} .card{border-radius:16px} .card:hover{border-color:rgba(245,197,66,.6)} .sechead h2{border-left:none!important;padding-left:0!important}.sechead h2::before{content:\"\";display:inline-block;width:14px;height:8px;background:rgba(245,197,66,.7);margin-right:10px;vertical-align:middle;border-radius:2px}",
+  "extraCss": "body{background-color:#0B1020;background-image:linear-gradient(rgba(140,200,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(140,200,255,.045) 1px,transparent 1px);background-size:24px 24px} .nav-logo{font-size:12px;letter-spacing:.2em;background:none;-webkit-text-fill-color:#93A3BE;color:#93A3BE} nav.top a.r{color:#F5C542;font-weight:800;letter-spacing:.08em} .dk-mast{position:relative;padding:30px 26px 26px 40px;margin-bottom:32px;border-radius:20px;background:#121A30;border:1px solid #22304F;overflow:hidden} .dk-mast::before{content:\"\";position:absolute;left:22px;top:0;bottom:0;width:2px;background:rgba(240,112,138,.55)} .dk-en{font-size:12px;letter-spacing:.22em;color:#93A3BE;text-transform:uppercase;font-weight:700} .dk-mast h1{background:none!important;-webkit-text-fill-color:#EAF0FA!important;font-size:clamp(42px,11vw,76px);font-weight:900;line-height:1.15;margin-top:10px;color:#EAF0FA;letter-spacing:.02em} .dk-mark{background:linear-gradient(transparent 60%,rgba(245,197,66,.6) 60%,rgba(245,197,66,.6) 92%,transparent 92%);padding:0 .06em} .dk-tag{font-size:17px;font-weight:700;margin-top:14px;color:#EAF0FA} .dk-lead{font-size:14.5px;color:#93A3BE;margin-top:10px;line-height:1.85;max-width:560px} .dk-rules{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:22px} .dk-rule{display:block;background:#0B1020;border:1px solid #22304F;border-radius:14px;padding:12px 14px;text-decoration:none;color:#EAF0FA;transition:border-color .15s} .dk-rule:hover{border-color:#F5C542} .dk-rule b{display:block;font-size:11px;color:#F5C542;letter-spacing:.14em;margin-bottom:4px} .dk-rule span{font-size:14px;font-weight:700;line-height:1.5} .dk-pills{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px} .dk-pill{display:inline-flex;align-items:baseline;gap:4px;padding:8px 16px;border-radius:999px;font-size:13.5px;color:#EAF0FA;background:rgba(255,255,255,.05);border:1px solid #22304F;text-decoration:none} .dk-pill b{font-size:18px;color:#F5C542} @media(max-width:520px){.dk-rules{grid-template-columns:1fr}.dk-mast{padding:26px 20px 22px 34px}.dk-mast::before{left:18px}} .card{border-radius:16px} .card:hover{border-color:rgba(245,197,66,.6)} .sechead h2{border-left:none!important;padding-left:0!important}.sechead h2::before{content:\"\";display:inline-block;width:14px;height:8px;background:rgba(245,197,66,.7);margin-right:10px;vertical-align:middle;border-radius:2px} .dk-why{list-style:none;display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:18px} .dk-why li{font-size:13px;color:#93A3BE;line-height:1.6;background:#0B1020;border:1px solid #22304F;border-radius:12px;padding:10px 12px} .dk-why b{display:block;font-size:14px;color:#EAF0FA} @media(max-width:520px){.dk-why{grid-template-columns:1fr 1fr}}",
   "articleCss": "body{background-color:#0B1020;background-image:linear-gradient(rgba(140,200,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(140,200,255,.045) 1px,transparent 1px);background-size:24px 24px} nav a.r{color:#F5C542;font-weight:800} .summary{position:relative;border-radius:14px!important;background:#151F38!important;border:1px solid #22304F!important;border-top:4px solid #F5C542!important} h1{text-wrap:balance} .study{border-left:3px solid rgba(90,176,255,.7)!important} .step{border-left:3px solid rgba(245,197,66,.7)!important}",
-  "mastheadHtml": "<div class=\"dk-mast\"><p class=\"dk-en\">Learn how to learn</p><h1>独学の<span class=\"dk-mark\">科学</span></h1><p class=\"dk-tag\">独学のしかたを、研究で確かめる。</p><p class=\"dk-lead\">%LEAD%</p><div class=\"dk-rules\"><a class=\"dk-rule\" href=\"/retrieval-practice-vs-rereading/\"><b>RULE 1</b><span>読み返すより、思い出す</span></a><a class=\"dk-rule\" href=\"/spaced-review-why-it-works/\"><b>RULE 2</b><span>まとめてより、間をあける</span></a><a class=\"dk-rule\" href=\"/highlighting-study-method/\"><b>RULE 3</b><span>線を引くより、要点を選ぶ</span></a></div><div class=\"dk-pills\"><span class=\"dk-pill\"><b>%POSTS%</b>本の記事</span><a class=\"dk-pill\" href=\"/hayami/\">勉強法の効く・効かない早見表</a><a class=\"dk-pill\" href=\"/faq/\">よくある質問</a><a class=\"dk-pill\" href=\"/guide/\">悩み別ガイド</a><a class=\"dk-pill\" href=\"/glossary/\">用語集</a></div></div>",
+  "mastheadHtml": "<div class=\"dk-mast\"><p class=\"dk-en\">Learn how to learn</p><h1>独学の<span class=\"dk-mark\">科学</span></h1><p class=\"dk-tag\">独学のしかたを、研究で確かめる。</p><p class=\"dk-lead\">%LEAD%</p><div class=\"dk-rules\"><a class=\"dk-rule\" href=\"/retrieval-practice-vs-rereading/\"><b>RULE 1</b><span>読み返すより、思い出す</span></a><a class=\"dk-rule\" href=\"/spaced-review-why-it-works/\"><b>RULE 2</b><span>まとめてより、間をあける</span></a><a class=\"dk-rule\" href=\"/highlighting-study-method/\"><b>RULE 3</b><span>線を引くより、要点を選ぶ</span></a></div><ul class=\"dk-why\" aria-label=\"独学の科学が選ばれる理由\"><li><b>研究ではっきり</b>効く・効かないを出典つきで判定</li><li><b>すぐ使える</b>計算機や早見表で今日から試せる</li><li><b>役に立つ</b>悩みから答えにすぐ届く</li><li><b>広告なし</b>無料・登録不要・売り込みなし</li></ul><div class=\"dk-pills\"><span class=\"dk-pill\"><b>%POSTS%</b>本の記事</span><a class=\"dk-pill\" href=\"/review-timing/\">復習日の計算機</a><a class=\"dk-pill\" href=\"/study-log/\">勉強の記録シート</a><a class=\"dk-pill\" href=\"/hayami/\">勉強法の効く・効かない早見表</a><a class=\"dk-pill\" href=\"/faq/\">よくある質問</a><a class=\"dk-pill\" href=\"/guide/\">悩み別ガイド</a><a class=\"dk-pill\" href=\"/glossary/\">用語集</a></div></div>",
   "extraNav": [
     {
       "label": "勉強法の早見表",
       "path": "/hayami/"
+    },
+    {
+      "label": "復習日の計算機",
+      "path": "/review-timing/"
+    },
+    {
+      "label": "勉強の記録シート",
+      "path": "/study-log/"
+    },
+    {
+      "label": "勉強のテンプレート",
+      "path": "/templates/"
     },
     {
       "label": "よくある質問",
@@ -129,9 +136,186 @@
       "path": "/guide/"
     },
     {
+      "label": "英語の独学ガイド",
+      "path": "/english/"
+    },
+    {
       "label": "用語集",
       "path": "/glossary/"
     }
   ],
-  "a11yFix": true
+  "a11yFix": true,
+  "appPromos": [
+    {
+      "name": "独学スケジュールメーカー",
+      "platform": "iPhone・iPad",
+      "url": "https://apps.apple.com/jp/app/id6813728815",
+      "desc": "参考書の目次を撮ると、AIが章立てを読み取り、開始日と期限から無理のない学習スケジュールを組みます。無料・広告なし。",
+      "slugs": [
+        "review-timing",
+        "study-log",
+        "templates/study-plan"
+      ]
+    }
+  ],
+  "toolPromos": [
+    {
+      "path": "/review-timing/",
+      "name": "復習日の計算機",
+      "desc": "試験日を入れると、1回目の復習に向く日を計算します（分散学習の研究をもとに）。",
+      "slugs": [
+        "spaced-review-why-it-works",
+        "cramming-overnight-study",
+        "past-exam-questions-certification"
+      ]
+    },
+    {
+      "path": "/study-log/",
+      "name": "勉強の記録シート",
+      "desc": "今日やった勉強を1行で記録し、続けた日数と合計時間を見える化します。記録は端末の中だけに保存。",
+      "slugs": [
+        "study-log-progress-monitoring",
+        "goal-setting-high-or-small-steps",
+        "willpower-self-control-study-environment",
+        "implementation-intentions-if-then-study"
+      ]
+    },
+    {
+      "path": "/templates/recall-note/",
+      "name": "暗記ノート（印刷用テンプレート）",
+      "desc": "答えを折って隠す一問一答型と、白紙に書き出す型。無料で印刷・PDF保存できます。",
+      "slugs": [
+        "retrieval-practice-vs-rereading",
+        "flashcards-how-to-use",
+        "english-vocabulary-how-to-memorize"
+      ]
+    },
+    {
+      "path": "/templates/review-calendar/",
+      "name": "復習カレンダー（印刷用テンプレート）",
+      "desc": "試験日と勉強する日から、1回目の復習日を書き込んだカレンダーを作って印刷できます。",
+      "slugs": [
+        "spaced-review-why-it-works",
+        "cramming-overnight-study"
+      ]
+    },
+    {
+      "path": "/templates/if-then/",
+      "name": "if-thenプランシート（印刷用テンプレート）",
+      "desc": "勉強を始める場面を1文で決めるシート。机に貼れるカードつき。",
+      "slugs": [
+        "implementation-intentions-if-then-study",
+        "willpower-self-control-study-environment"
+      ]
+    },
+    {
+      "path": "/templates/study-plan/",
+      "name": "勉強計画表（印刷用テンプレート）",
+      "desc": "やることを書き出し、過去の実績の倍率で見積もりを調整。期限に間に合うかも計算します。",
+      "slugs": [
+        "planning-fallacy-study-plans",
+        "goal-setting-high-or-small-steps"
+      ]
+    },
+    {
+      "path": "/templates/study-log/",
+      "name": "勉強の記録表（印刷用テンプレート）",
+      "desc": "1か月分を印刷して、1日1行手書きで記録する表。",
+      "slugs": [
+        "study-log-progress-monitoring"
+      ]
+    }
+  ],
+  "apps": [
+    {
+      "id": "active-recall",
+      "name": "おもいだしトレーニング",
+      "appStoreId": "6801937769",
+      "icon": "/img/apps/active-recall.webp",
+      "catch": "覚えたい範囲を入れるか教科書を撮ると、AIが一問一答を作る。何も見ずに答えを書いて、忘れかけた頃に復習日が回ってくる",
+      "hubLead": "アプリの仕組み（思い出す練習と、間をあけた復習）の元になった研究の記事です。なぜ読み返すより思い出す方が残るのかを知ってから使うと、自己評価のつけ方もぶれにくくなります。",
+      "theme": "思い出す練習(テスト効果)・間隔をあけた復習・暗記カード・わかったつもり・ど忘れなど、記憶の定着と想起の記事だけに付ける。計画・スケジュール・習慣化の記事(独学スケジュールメーカーの担当)には付けない",
+      "articles": [
+        "retrieval-practice-vs-rereading",
+        "spaced-review-why-it-works",
+        "illusion-of-knowing-fluency",
+        "flashcards-how-to-use",
+        "english-vocabulary-how-to-memorize",
+        "self-explanation-vs-ai-explanation",
+        "tip-of-the-tongue-forgetting",
+        "pretesting-before-reading",
+        "ai-answers-and-learning"
+      ]
+    },
+    {
+      "id": "dokugaku-schedule",
+      "name": "独学スケジュールメーカー",
+      "appStoreId": "6813728815",
+      "icon": "/img/apps/dokugaku-schedule.webp",
+      "catch": "参考書の目次を撮ると、AIが章立てを読み取り、開始日と期限から無理のない学習スケジュールを組む",
+      "hubLead": "アプリの仕組み（期限から逆算した無理のない計画と、毎日の小さな区切り）の元になった研究の記事です。計画がなぜ倒れやすいのかを知ってから使うと、余裕の持たせ方や記録のつけ方がぶれにくくなります。",
+      "theme": "勉強の計画・目標設定・if-thenプラン・一夜漬け・記録など、計画と継続の記事だけに付ける。記憶・想起の記事（おもいだしトレーニングの担当）には付けない",
+      "articles": [
+        "planning-fallacy-study-plans",
+        "goal-setting-high-or-small-steps",
+        "implementation-intentions-if-then-study",
+        "cramming-overnight-study",
+        "study-log-progress-monitoring"
+      ]
+    }
+  ],
+  "toolbox": [
+    {
+      "name": "復習日の計算機",
+      "desc": "試験日を入れると、1回目の復習に向く日を計算",
+      "href": "/review-timing/",
+      "cats": [
+        "記憶・覚え方",
+        "時間・計画"
+      ]
+    },
+    {
+      "name": "勉強の記録シート",
+      "desc": "今日やった勉強を1行で記録し、続けた日数と時間を見える化",
+      "href": "/study-log/",
+      "cats": [
+        "続け方・習慣",
+        "やる気・心"
+      ]
+    },
+    {
+      "name": "勉強法の早見表",
+      "desc": "39の勉強法を、効く・効かないで研究から判定",
+      "href": "/hayami/",
+      "cats": [
+        "勉強法",
+        "AIと独学"
+      ],
+      "all": true
+    },
+    {
+      "name": "勉強のテンプレート",
+      "desc": "暗記ノート・計画表など、無料で印刷・PDF保存",
+      "href": "/templates/",
+      "cats": [
+        "時間・計画"
+      ]
+    },
+    {
+      "name": "こまめ休憩タイマー",
+      "desc": "10分作業→90秒休憩を自動でくり返す、集中を保つためのタイマー",
+      "href": "https://seadice.win/tools/kyukei-timer/",
+      "cats": [
+        "集中・環境"
+      ]
+    },
+    {
+      "name": "先に動く5分タイマー",
+      "desc": "やる気を待たずに5分だけ動き、前後の気分を記録する（行動活性化の研究がもと）",
+      "href": "https://seadice.win/tools/saki-ni-ugoku/",
+      "cats": [
+        "やる気・心"
+      ]
+    }
+  ]
 }

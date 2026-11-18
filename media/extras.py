@@ -3,8 +3,12 @@
 - media/{slug}-guides.json   : 悩み別・年齢別のまとめページ → /guide/ と /guide/{id}/
 - media/{slug}-glossary.json : 用語集 → /glossary/
 - media/{slug}-pages.json    : 手書き本文の固定ページ(例: 印刷用ルール表) → /{path}/
+- media/{slug}-map.json      : 記事マップ(マインドマップ) → /map/ (media/mindmap.py)
 - media/{slug}-audited.json  : 点検済み記事 → 記事の「わかっている度」の横に「出典照合済み」を表示
                                要素は "slug" または {"slug": ..., "date": "YYYY-MM-DD"}
+- 設定 symptomTable            : 症状と対処の表 → /{path}/ とトップの「よくある症状と対処」
+- media/{slug}-corrections.json : 出典照合で直した箇所 → /corrections/（訂正の記録）
+                               要素は {"date", "slug", "before", "after", "why"}。点検役が修正のたびに追記する
 """
 import html
 import json
@@ -19,13 +23,14 @@ def _load(slug, name):
     return json.loads(f.read_text()) if f.exists() else None
 
 
-def _page(cfg, theme, favicon, css, rel, title, desc, body, graph, trail, extra_css=""):
+def _page(cfg, theme, favicon, css, rel, title, desc, body, graph, trail, extra_css="", head=""):
     url = cfg["url"]
     purl = url + rel
     crumbs = [("HOME", "https://seadice.win/"), (cfg["name"], url)] + trail
     ld = {"@context": "https://schema.org", "@graph": graph + [{"@type": "BreadcrumbList", "itemListElement": [
         {"@type": "ListItem", "position": i + 1, "name": n, "item": u} for i, (n, u) in enumerate(crumbs)]}]}
     bc = " / ".join(f'<a href="{u}" style="color:var(--muted)">{E(n)}</a>' for n, u in crumbs[:-1]) + " / " + E(crumbs[-1][0])
+    robots = "" if 'name="robots"' in head else '<meta name="robots" content="index,follow">\n'  # head で noindex を渡したら重ねない
     out = f'''<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -38,8 +43,7 @@ def _page(cfg, theme, favicon, css, rel, title, desc, body, graph, trail, extra_
 <meta property="og:description" content="{E(desc, quote=True)}">
 <meta property="og:url" content="{purl}">
 <meta property="og:type" content="website">
-<meta name="robots" content="index,follow">
-{favicon}
+{robots}{favicon}{head}
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 <style>{css}{EXTRA_CSS}{extra_css}{cfg.get("extraCss", "")}</style>
 </head>
@@ -52,7 +56,7 @@ def _page(cfg, theme, favicon, css, rel, title, desc, body, graph, trail, extra_
   <p style="font-size:12px;color:var(--muted);margin:0 0 16px">{bc}</p>
 {body}
 </main>
-<footer><p><a href="/about/">このメディアについて</a> | <a href="/sources/">出典と検証の方法</a> | <a href="/disclaimer/">免責事項</a>{"".join(f' | <a href="{n["path"]}">{E(n["label"])}</a>' for n in cfg.get("extraNav", []))} | <a href="https://seadice.win/">SEADICE</a> | &copy; SEADICE</p></footer>
+<footer><p><a href="/about/">このメディアについて</a> | <a href="/sources/">出典と検証の方法</a> | <a href="/disclaimer/">免責事項</a>{"".join(f' | <a href="{n["path"]}">{E(n["label"])}</a>' for n in cfg.get("footerNav", cfg.get("extraNav", [])))} | <a href="https://seadice.win/">SEADICE</a> | &copy; SEADICE</p></footer>
 </body>
 </html>
 '''
@@ -103,13 +107,23 @@ def guides(cfg, posts, cats, images, types, theme, favicon, css, card):
                 + (f'  <div class="points"><h2>まず知っておきたいこと</h2><ul>{pts}</ul></div>\n' if pts else "")
                 + f'  <div class="grid">{_cards(x["slugs"], posts, cats, images, types, card)}</div>'
                 + (f'\n  <p class="xlead" style="margin-top:28px"><a href="{g["cta"]["href"]}" style="color:var(--link);font-weight:700">{E(g["cta"]["label"])}</a></p>' if g.get("cta") else ""))
+        # ガイドの "app"（設定の apps[].id）があれば、記事末尾と同じアプリカードを最後に置く。"appLabel" で見出しの一言を変えられる
+        app = next((a for a in cfg.get("apps") or [] if a["id"] == x.get("app")), None)
+        app_css = ""
+        if app:
+            import apps
+            c = apps.card_html(app, cfg)
+            if x.get("appLabel"):
+                c = c.replace("この記事の内容を続けるなら", E(x["appLabel"]), 1)
+            body += "\n  " + c
+            app_css = apps.CSS
         by = {p["slug"]: p for p in posts}
         graph = [{"@type": "CollectionPage", "name": x["title"], "url": cfg["url"] + rel, "description": x["lead"],
                   "mainEntity": {"@type": "ItemList", "itemListElement": [
                       {"@type": "ListItem", "position": i + 1, "url": f'{cfg["url"]}{s}/', "name": by[s]["title"]}
                       for i, s in enumerate([s for s in x["slugs"] if s in by])]}}]
         urls.append(_page(cfg, theme, favicon, css, rel, f'{x["title"]} | {cfg["name"]}', x["lead"][:120], body, graph,
-                          [(g["title"], cfg["url"] + "guide/"), (x["label"], cfg["url"] + rel)]))
+                          [(g["title"], cfg["url"] + "guide/"), (x["label"], cfg["url"] + rel)], app_css))
     items = "".join(f'<a class="card" href="/guide/{x["id"]}/"><div class="cb"><p class="t">{E(x["title"])}</p><p class="d">{E(x["lead"][:80])}…</p></div></a>' for x in g["items"])
     body = f'  <div class="hero"><h1>{E(g["title"])}</h1></div>\n  <p class="xlead">{E(g["lead"])}</p>\n  <div class="grid">{items}</div>'
     if g.get("cta"):
@@ -151,7 +165,7 @@ def pages(cfg, theme, favicon, css):
                   "dateModified": p.get("date"), "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}}]
         trail = ([(p["parent"]["label"], cfg["url"] + p["parent"]["path"].strip("/") + "/")] if p.get("parent") else []) + [(p["title"], cfg["url"] + rel)]
         urls.append(_page(cfg, theme, favicon, css, rel, f'{p.get("seo_title") or p["title"]} | {cfg["name"]}', p["desc"], body, graph,
-                          trail, p.get("css", "")))
+                          trail, p.get("css", ""), p.get("head", "")))
     return urls
 
 
@@ -167,14 +181,20 @@ def badges(cfg):
             continue
         t = f.read_text()
         import re
-        t = re.sub(r'<span class="checked"[^>]*>.*?</span>', "", t)
+        # 直前の半角スペースも一緒に消す(残すとビルドのたびにスペースが1つずつ増える)
+        t = re.sub(r' *<span class="checked"[^>]*>.*?</span>', "", t)
         tag = (f'<span class="checked" style="font-size:12px;color:var(--accent);border:1px solid var(--accent);border-radius:999px;padding:3px 10px">'
                f'出典照合済み{"（" + date + "）" if date else ""}</span>')
         i = t.find('<div class="evidence">')
-        if i < 0:
-            continue
-        j = t.find("</div>", i)
-        t = t[:j] + tag + t[j:]
+        if i >= 0:
+            j = t.find("</div>", i)
+            t = t[:j] + tag + t[j:]
+        else:  # 「わかっている度」が無いメディアは、読了時間の行に並べる
+            i = t.find('<p class="meta">')
+            if i < 0:
+                continue
+            j = t.find("</p>", i)
+            t = t[:j] + " " + tag + t[j:]
         f.write_text(t)
         n += 1
     return n
@@ -183,7 +203,7 @@ def badges(cfg):
 def top_links(cfg):
     """トップページの見出し直下に、まとめページ・用語集などへの入口を置く。"""
     links = [(n["label"], n["path"]) for n in cfg.get("extraNav", [])]
-    if not links:
+    if not links or cfg.get("layout") == "hub":  # hub はトップ本文に同じ入口を持つ
         return
     f = ROOT / cfg["path"] / "index.html"
     t = f.read_text()
@@ -209,7 +229,9 @@ def top_links(cfg):
 
 
 def crosslinks(cfg):
-    """media/{slug}-crosslinks.json: {記事slug: [[他メディアslug, 記事slug], ...]} を記事末の「ほかのメディアの関連記事」に出す。"""
+    """media/{slug}-crosslinks.json: {記事slug: [[他メディアslug, 記事slug], ...]} を記事末の「ほかのメディアの関連記事」に出す。
+    行き先が STUDY（siteType: course）なら記事slugの代わりにレッスンidを書き、「無料講座で体系的に学ぶ」に出す。
+    STUDY の看板ツールの path（例 bouhan-check/）を書くと、記事末の先頭「読んだあとに使う」に出す（base.md「読んだあとの一歩」）。"""
     m = _load(cfg["slug"], "crosslinks")
     if not m:
         return 0
@@ -219,16 +241,28 @@ def crosslinks(cfg):
         f = ROOT / cfg["path"] / slug / "index.html"
         if not f.exists():
             continue
-        items = ""
+        items = study = tool = ""
         for ms, s in refs:
             oc = json.loads((ROOT / f"media/{ms}.json").read_text())
+            if oc.get("siteType") == "course" and oc.get("tool") and s == oc["tool"]["path"]:
+                x = oc["tool"]
+                tool += (f'<a href="{oc["url"]}{s}" target="_blank" rel="noopener"><span class="rb"><small>{E(oc["name"])}（無料ツール・登録不要）</small>'
+                         f'<p>{E(x["title"])}</p><small>{E(x["desc"])}</small></span></a>')
+                continue
+            if oc.get("siteType") == "course":
+                # STUDY（無料講座）のレッスンへのリンク。s はレッスンid
+                ls = {l["id"]: l for c in json.loads((ROOT / f"media/{ms}-course.json").read_text())["chapters"] for l in c["lessons"]}
+                if s in ls:
+                    study += f'<a href="{oc["url"]}course/{s}/" target="_blank" rel="noopener"><span class="rb"><small>{E(oc["name"])}（無料講座）</small><p>{E(ls[s]["title"])}</p></span></a>'
+                continue
             op = {p["slug"]: p for p in json.loads((ROOT / f"media/{ms}-posts.json").read_text())}
             if s not in op:
                 continue
             items += f'<a href="{oc["url"]}{s}/" target="_blank" rel="noopener"><span class="rb"><small>{E(oc["name"])}</small><p>{E(op[s]["title"])}</p></span></a>'
         t = re.sub(r"<!--xlinks-->.*?<!--/xlinks-->", "", f.read_text(), flags=re.S)
-        if items:
-            block = f'<!--xlinks--><section class="related"><h2>ほかのメディアの関連記事</h2>{items}</section><!--/xlinks-->'
+        if items or study or tool:
+            block = ('<!--xlinks-->' + (f'<section class="related"><h2>読んだあとに使う</h2>{tool}</section>' if tool else '') + (f'<section class="related"><h2>ほかのメディアの関連記事</h2>{items}</section>' if items else '')
+                     + (f'<section class="related"><h2>無料講座で体系的に学ぶ</h2>{study}</section>' if study else '') + '<!--/xlinks-->')
             k = "<!--/related-->"
             t = t.replace(k, k + block, 1) if k in t else t.replace("</article>", block + "</article>", 1)
             n += 1
@@ -236,12 +270,373 @@ def crosslinks(cfg):
     return n
 
 
+def term_links(cfg, posts, limit=4, write=True):
+    """記事本文で用語集の言葉が最初に出てきた1か所を /glossary/#id へのリンクにする（1記事 limit 個まで）。
+    対象は本文の <p>・<li>（パンくず・読了時間・研究カードの出典名・出典欄は除く）。見出し・既存リンク・JSON-LD・FAQの質問には付けない。
+    表記は用語の括弧の前（「エポケー（判断停止）」→「エポケー」）。1文字の語は誤爆するので、用語に "match" で表記を指定したときだけ使う。
+    その用語の主記事（slugs の先頭）では、記事自体が説明しているのでリンクしない。何度ビルドしても同じ結果になる。"""
+    import re
+    terms = _load(cfg["slug"], "glossary")
+    if not terms:
+        return 0
+    forms = []
+    for x in terms:
+        ms = x.get("match") or [re.split(r"[（(]", x["term"])[0].strip()]
+        for m in ms:
+            if len(m) >= 2:
+                forms.append((m, x["id"], (x.get("slugs") or [None])[0]))
+    forms.sort(key=lambda f: -len(f[0]))  # 長い表記を優先（「無知のヴェール」を「無知」より先に）
+    old = re.compile(r'<a class="gl" href="/glossary/#[^"]*">(.*?)</a>')
+    # 本文の段落と箇条書きだけ。研究カードの出典名・条件欄（who/cond）や見出し的な行（ttl）には付けない
+    para = re.compile(r'(?s)<(p|li)(?![^>]*class="(?:breadcrumb|meta|who|cond|ttl)")(\s[^>]*)?>.*?</\1>')
+    n = 0
+    for post in posts:
+        f = ROOT / cfg["path"] / post["slug"] / "index.html"
+        if not f.exists():
+            continue
+        src = f.read_text()
+        t = old.sub(r"\1", src)
+        a, b = t.find("<article"), t.find("</article>")
+        stop = [i for i in (t.find("<h2>出典", a), t.find("<!--related-->", a), t.find('class="related"', a)) if a < i < b]
+        b = min(stop) if stop else b
+        if a < 0 or b < 0:
+            continue
+        body, used, count = t[a:b], set(), 0
+
+        def link_p(m):
+            nonlocal count
+            s = m.group(0)
+            for form, tid, main in forms:
+                if count >= limit:
+                    break
+                if tid in used or main == post["slug"]:
+                    continue
+                parts, depth = re.split(r"(<[^>]+>)", s), 0
+                for k, seg in enumerate(parts):
+                    if seg.startswith("<"):
+                        depth += 1 if re.match(r"<a\b", seg) else -1 if seg.startswith("</a") else 0
+                        continue
+                    i = seg.find(form) if depth == 0 else -1
+                    if i >= 0:
+                        parts[k] = seg[:i] + f'<a class="gl" href="/glossary/#{tid}">{form}</a>' + seg[i + len(form):]
+                        s = "".join(parts)
+                        used.add(tid)
+                        count += 1
+                        break
+            return s
+        body = para.sub(link_p, body)
+        t = t[:a] + body + t[b:]
+        if 'class="gl"' in t and ".gl{" not in t:
+            t = t.replace("</style>", "a.gl{color:inherit;text-decoration:underline dotted;text-underline-offset:3px}</style>", 1)
+        if t != src:
+            n += 1
+            if write:
+                f.write_text(t)
+    return n
+
+
+MATRIX_CSS = (".mrow{display:grid;gap:12px;grid-template-columns:1fr}@media(min-width:760px){.mrow{grid-template-columns:1fr 1fr}}"
+              ".mrow a{display:block;background:var(--card);border:1px solid var(--border);border-radius:16px;padding:16px 18px;text-decoration:none;color:var(--text)}"
+              ".mrow a:hover,.mrow a:focus-visible{border-color:var(--accent)}"
+              ".mrow b{display:block;font-size:17px;line-height:1.5}.mrow span{display:block;font-size:13px;color:var(--muted);line-height:1.7;margin-top:6px}"
+              ".mstage{margin:0 0 40px;scroll-margin-top:72px}.mstage>h2{font-size:19px;line-height:1.5;margin:0 0 14px}"
+              ".mstage>h2 small{display:block;font-size:12px;letter-spacing:.08em;color:var(--accent);margin-bottom:2px}")
+
+
+def matrix_guides(cfg, posts, cats, images, types, theme, favicon, css, card):
+    """media/{slug}-matrix.json に "guide" があれば、表の行ごとのガイド /guide/{行id}/ と一覧 /guide/ を作る。
+    行のページは列（段階）の順に記事を並べ、記事が無い段階は出さない。記事側には関連記事の直前に「この悩みを順に読む」を入れる。
+    -guides.json（手書きのガイド）があるメディアでは使わない（/guide/ が衝突するため）。
+    表ファイルが無く、記事の "stage" でマスを数えるメディア（ai など）は、設定の "gridGuide"
+    （guide の中身＋ stages: [{id, stage, label, q}]）から、行＝カテゴリ・列＝段階の表をその場で組み立てる。"""
+    m = _load(cfg["slug"], "matrix")
+    if not m and cfg.get("gridGuide"):
+        gg = cfg["gridGuide"]
+        m = {"guide": gg, "cols": gg["stages"], "rows": [
+            {"id": c["id"], "label": c["name"], "lead": c.get("guideLead", ""), "cells": {
+                s["id"]: [p["slug"] for p in posts if p.get("category") == c["name"] and p.get("stage") == s["stage"]] for s in gg["stages"]}}
+            for c in cfg["categories"] if isinstance(c, dict)]}
+    if not m or not m.get("guide") or _load(cfg["slug"], "guides"):
+        return []
+    import re
+    g, cols, by = m["guide"], m["cols"], {p["slug"]: p for p in posts}
+    have_of = {r["id"]: [c for c in cols if any(s in by or s.startswith("https://") for s in r["cells"].get(c["id"], []))] for r in m["rows"]}
+    rows = [r for r in m["rows"] if have_of[r["id"]]]
+    urls = []
+    nav = "".join(f'<a href="/guide/{r["id"]}/">{E(r["label"])}</a>' for r in rows)
+    for r in rows:
+        rel, have = f'guide/{r["id"]}/', have_of[r["id"]]
+        here = f'href="/guide/{r["id"]}/"'
+        secs, items = "", []
+        for c in have:
+            ss = r["cells"].get(c["id"], [])
+            arts = [s for s in ss if s in by]
+            items += arts
+            ext = "".join(f'<p class="xlead"><a href="{E(u)}" style="color:var(--link);font-weight:700">{E(g.get("toolLabel", "チェック表・ツールを使う"))}</a></p>' for u in ss if u.startswith("https://"))
+            secs += (f'  <section class="mstage" id="{c["id"]}"><h2><small>{cols.index(c) + 1:02d} {E(c["label"])}</small>{E(c["q"].split("（")[0])}</h2>'
+                     f'<div class="grid">{_cards(arts, posts, cats, images, types, card)}</div>{ext}</section>\n')
+        title = g["rowTitle"].replace("{label}", r["label"])
+        lead = r.get("lead") or g["rowLead"].replace("{label}", r["label"])
+        steps = " → ".join(f'<a href="#{c["id"]}" style="color:var(--link)">{E(c["label"])}</a>' for c in have)
+        cur = here + ' aria-current="page"'
+        body = (f'  <div class="hero"><h1>{E(title)}</h1></div>\n  <p class="xlead">{E(lead)}</p>\n'
+                f'  <p class="xlead" style="font-size:14px">この順に読めます: {steps}</p>\n'
+                f'{secs}  <h2 style="font-size:17px;margin:8px 0 12px">ほかのお悩み</h2>\n  <nav class="gnav" aria-label="{E(g["title"])}">{nav.replace(here, cur)}</nav>\n')
+        graph = [{"@type": "CollectionPage", "name": title, "url": cfg["url"] + rel, "description": lead,
+                  "mainEntity": {"@type": "ItemList", "itemListElement": [
+                      {"@type": "ListItem", "position": i + 1, "url": f'{cfg["url"]}{s}/', "name": by[s]["title"]} for i, s in enumerate(items)]}}]
+        urls.append(_page(cfg, theme, favicon, css, rel, f'{title} | {cfg["name"]}', lead[:120], body, graph,
+                          [(g["title"], cfg["url"] + "guide/"), (r["label"], cfg["url"] + rel)], MATRIX_CSS))
+        for c in have:
+            for s in r["cells"].get(c["id"], []):
+                f = ROOT / cfg["path"] / s / "index.html"
+                if s not in by or not f.exists():
+                    continue
+                t = re.sub(r"<!--gstep-->.*?<!--/gstep-->", "", f.read_text(), flags=re.S)
+                block = ('<!--gstep--><div role="navigation" aria-label="この悩みを順に読む" style="background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 18px;margin:32px 0;font-size:14px;line-height:1.9">'
+                         f'<b>「{E(r["label"])}」を順に読む</b><br>'
+                         + " → ".join(f'<b>{E(x["label"])}（この記事）</b>' if x is c else f'<a href="/guide/{r["id"]}/#{x["id"]}" style="color:var(--link);display:inline-block">{E(x["label"])}</a>' for x in have)
+                         + f'<br><a href="/guide/{r["id"]}/" style="color:var(--link);font-weight:700;display:inline-block">この悩みのガイドを見る</a></div><!--/gstep-->')
+                if "<!--related-->" in t:
+                    t = t.replace("<!--related-->", block + "<!--related-->", 1)
+                f.write_text(t)
+    cards = "".join(f'<a href="/guide/{r["id"]}/"><b>{E(r["label"])}</b><span>{E("・".join(c["label"] for c in have_of[r["id"]]))}</span></a>' for r in rows)
+    body = f'  <div class="hero"><h1>{E(g["title"])}</h1></div>\n  <p class="xlead">{E(g["lead"])}</p>\n  <div class="mrow">{cards}</div>'
+    urls.append(_page(cfg, theme, favicon, css, "guide/", f'{g["title"]} | {cfg["name"]}', g["lead"][:120], body,
+                      [{"@type": "CollectionPage", "name": g["title"], "url": cfg["url"] + "guide/", "description": g["lead"],
+                        "hasPart": [{"@type": "CollectionPage", "name": r["label"], "url": f'{cfg["url"]}guide/{r["id"]}/'} for r in rows]}],
+                      [(g["title"], cfg["url"] + "guide/")], MATRIX_CSS))
+    return urls
+
+
+CORR_CSS = (".cstats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:20px 0 32px}"
+            ".cstats div{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 12px;text-align:center}"
+            ".cstats b{display:block;font-size:24px;color:var(--accent);line-height:1.2}.cstats span{font-size:12px;color:var(--muted)}"
+            ".cday{margin:36px 0 0}.cday>h2{font-size:15px;color:var(--muted);letter-spacing:.06em;margin:0 0 10px}"
+            ".citem{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:16px 18px;margin:12px 0}"
+            ".citem .ct{font-size:15px;font-weight:700;line-height:1.6;margin-bottom:10px}.citem .ct a{color:var(--text)}"
+            ".citem dl{display:grid;grid-template-columns:auto 1fr;gap:6px 12px;font-size:14px;line-height:1.7;margin:0}"
+            ".citem dt{color:var(--muted);white-space:nowrap}.citem dd{margin:0;color:var(--text)}"
+            ".citem dd.b{text-decoration:line-through;text-decoration-color:var(--muted);opacity:.75}")
+
+
+def corrections(cfg, posts, theme, favicon, css):
+    """出典照合で直した箇所を日付つきで公開する /corrections/。AIが書くメディアが「確かめて直している」ことを見せる。"""
+    cs = _load(cfg["slug"], "corrections")
+    if cs is None:
+        return []
+    audited = _load(cfg["slug"], "audited") or []
+    titles = {p["slug"]: p["title"] for p in posts}
+    cs = sorted((c for c in cs if c.get("slug") in titles), key=lambda c: c["date"], reverse=True)
+    days = {}
+    for c in cs:
+        days.setdefault(c["date"], []).append(c)
+    rows = ""
+    for d, items in days.items():
+        rows += f'<section class="cday"><h2>{E(d)}</h2>'
+        for c in items:
+            rows += (f'<div class="citem"><p class="ct"><a href="/{E(c["slug"])}/">{E(titles[c["slug"]])}</a></p><dl>'
+                     f'<dt>直す前</dt><dd class="b">{E(c["before"])}</dd><dt>直した後</dt><dd>{E(c["after"])}</dd>'
+                     f'<dt>理由</dt><dd>{E(c["why"])}</dd></dl></div>')
+        rows += "</section>"
+    n_art = len({c["slug"] for c in cs})
+    lead = (f'{cfg["name"]}の記事は、公開したあとに別の点検役が出典を1件ずつ開き直し、数字・対象・言い回しが出典と合っているかを確かめています。'
+            "このページは、その点検で直した箇所の記録です。直す前と直した後をそのまま残しています。")
+    body = (f'  <div class="hero"><h1>訂正の記録</h1></div>\n  <div class="xbody"><p>{E(lead)}</p>'
+            f'<div class="cstats"><div><b>{len(audited)}</b><span>照合済みの記事</span></div>'
+            f'<div><b>{len(cs)}</b><span>直した箇所</span></div><div><b>{n_art}</b><span>直した記事</span></div></div>'
+            f'<p>点検の基準は<a href="/about/">記事の作り方</a>、使っている出典は<a href="/sources/">出典一覧</a>にあります。</p>'
+            f'{rows or "<p>まだ訂正はありません。</p>"}</div>')
+    rel = "corrections/"
+    desc = f'{cfg["name"]}が出典照合で直した箇所の記録。直す前・直した後・理由を日付つきで公開しています（{len(cs)}件）。'
+    graph = [{"@type": "WebPage", "name": "訂正の記録", "url": cfg["url"] + rel, "description": desc,
+              "dateModified": cs[0]["date"] if cs else None,
+              "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE", "url": "https://seadice.win/"}}]
+    return [_page(cfg, theme, favicon, css, rel, f'訂正の記録 | {cfg["name"]}', desc, body, graph,
+                  [("訂正の記録", cfg["url"] + rel)], CORR_CSS)]
+
+
+def tool_links(cfg):
+    """media/{slug}-toollinks.json: {記事slug: [[ツールのパス, ツール名, 何ができるか], ...]} を、記事の関連記事の直前に「ツールで確かめる」として出す。
+    ビルドのたびに入れ直す（<!--tools-->〜<!--/tools--> を消してから足す）。"""
+    m = _load(cfg["slug"], "toollinks")
+    if not m:
+        return 0
+    import re
+    n = 0
+    for slug, tools in m.items():
+        f = ROOT / cfg["path"] / slug / "index.html"
+        if not f.exists():
+            continue
+        t = re.sub(r"<!--tools-->.*?<!--/tools-->\n?", "", f.read_text(), flags=re.S)
+        k = t.find("<!--related-->")
+        if k < 0:
+            continue
+        items = "".join(f'<a href="{p}" style="display:block;padding:12px 0;border-top:1px solid var(--border);color:var(--text);text-decoration:none">'
+                        f'<b style="color:var(--link)">{E(name)} <span aria-hidden="true">›</span></b><br><span style="font-size:13px;color:var(--muted)">{E(what)}</span></a>'
+                        for p, name, what in tools)
+        blk = (f'<!--tools--><section style="margin:32px 0;padding:16px 20px 6px;border:1px solid var(--accent);border-radius:14px;background:var(--card)">'
+               f'<h2 style="font-size:16px;margin:0 0 6px">ツールで確かめる</h2><p style="font-size:13px;color:var(--muted);margin:0 0 6px">無料・登録不要。入力した内容は送信しません。</p>{items}</section><!--/tools-->\n')
+        f.write_text(t[:k] + blk + t[k:])
+        n += 1
+    return n
+
+
+ACT_CSS = (".astage{margin:0 0 44px;scroll-margin-top:72px}.astage>h2{font-size:21px;line-height:1.5;margin:0 0 10px}"
+           ".astage>h2 small{display:block;font-size:12px;letter-spacing:.08em;color:var(--accent);margin-bottom:2px}"
+           ".astage .ans{font-size:16px;line-height:1.85;font-weight:700;margin:0 0 14px}"
+           ".astage h3{font-size:15px;margin:20px 0 6px}.astage ol,.astage ul{margin:6px 0 6px 22px}"
+           ".astage li{font-size:15px;line-height:1.8;margin:6px 0}"
+           ".asrc{font-size:14px;line-height:1.9;margin:14px 0 0;padding:12px 16px;background:var(--card);border:1px solid var(--border);border-radius:8px}"
+           ".asrc a,.afaq a{color:var(--link)}.afaq dt{font-size:16px;font-weight:700;margin:22px 0 6px}.afaq dd{font-size:15px;line-height:1.85;margin:0}")
+
+
+def activities(cfg, posts, theme, favicon, css):
+    """media/{slug}-activities.json: 活動ごとのガイド /{id}/ を1枚で作る（始める・続ける・上達する・形にするを見出しで並べる）。
+    段階の "slugs" は根拠にした研究記事。記事側には関連記事の直前に「この研究を使っている活動ガイド」を入れ、双方向にリンクする。
+    本文の研究・数字は根拠記事の「3行でわかる」からだけ書く（記事にない研究を足さない）。"""
+    import re
+    a = _load(cfg["slug"], "activities")
+    if not a:
+        return []
+    by, urls, back = {p["slug"]: p for p in posts}, [], {}
+    li = lambda xs: "".join(f"<li>{E(v)}</li>" for v in xs)
+    for x in a["items"]:
+        rel, name = f'{x["id"]}/', x["title"].split("：")[0]
+        toc = " → ".join(f'<a href="#{s["id"]}" style="color:var(--link)">{E(s["label"])}</a>' for s in x["stages"])
+        secs = ""
+        for i, s in enumerate(x["stages"]):
+            src = [k for k in s["slugs"] if k in by]
+            for k in src:
+                back.setdefault(k, []).append((x, s))
+            arts = "<br>".join(f'<a href="/{k}/">{E(by[k]["title"])}</a>' for k in src)
+            secs += (f'  <section class="astage" id="{s["id"]}"><h2><small>{i + 1:02d} {E(s["label"])}</small>{E(s["q"])}</h2>'
+                     f'<p class="ans">{E(s["answer"])}</p><h3>研究でわかっていること</h3><ul>{li(s["points"])}</ul>'
+                     f'<h3>今日やること</h3><ol>{li(s["steps"])}</ol>'
+                     f'<p class="asrc"><b>もとになった記事</b><br>{arts}</p></section>\n')
+        faq = "".join(f'<dt>{E(q["q"])}</dt><dd>{E(q["a"])}</dd>' for q in x.get("faq", []))
+        body = (f'  <div class="hero"><h1>{E(x["title"])}</h1></div>\n  <p class="xlead">{E(x["lead"])}</p>\n'
+                f'  <p class="xlead" style="font-size:14px">段階ごとに読めます: {toc}<br><span style="color:var(--muted)">{E(x.get("note", ""))}</span></p>\n'
+                + secs + (f'  <section class="afaq"><h2 style="font-size:21px">よくある質問</h2><dl>{faq}</dl></section>\n' if faq else ""))
+        app = next((p for p in cfg.get("apps") or [] if p["id"] == x.get("app")), None)
+        app_css = ""
+        if app:
+            import apps
+            body += "\n  " + apps.card_html(app, cfg).replace("この記事の内容を続けるなら", f'{E(x["label"])}の復習を続けるなら', 1)
+            app_css = apps.CSS
+        graph = [{"@type": "Article", "headline": x["title"], "url": cfg["url"] + rel, "description": x["lead"],
+                  "dateModified": a.get("updated", ""), "author": {"@type": "Organization", "name": f'{cfg["name"]}編集部'},
+                  "publisher": {"@type": "Organization", "@id": "https://seadice.win/#organization", "name": "SEADICE"},
+                  "citation": [f'{cfg["url"]}{k}/' for s in x["stages"] for k in s["slugs"] if k in by]}]
+        if x.get("faq"):
+            graph.append({"@type": "FAQPage", "mainEntity": [
+                {"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["a"]}} for q in x["faq"]]})
+        urls.append(_page(cfg, theme, favicon, css, rel, f'{x["title"]} | {cfg["name"]}', x["lead"][:120], body, graph,
+                          [(name, cfg["url"] + rel)], ACT_CSS + app_css))
+    for p in posts:
+        f = ROOT / cfg["path"] / p["slug"] / "index.html"
+        if not f.exists():
+            continue
+        src = f.read_text()
+        t = re.sub(r"<!--act-->.*?<!--/act-->", "", src, flags=re.S)
+        if p["slug"] in back and "<!--related-->" in t:
+            links = "<br>".join(f'<a href="/{x["id"]}/#{s["id"]}" style="color:var(--link)">{E(x["title"].split("：")[0])}（{E(s["label"])}）</a>'
+                                for x, s in back[p["slug"]])
+            t = t.replace("<!--related-->", '<!--act--><div role="navigation" aria-label="この研究を使っている活動ガイド" style="background:var(--card);'
+                          'border:1px solid var(--border);border-radius:8px;padding:14px 18px;margin:32px 0;font-size:14px;line-height:1.9">'
+                          f'<b>この研究を使っている活動ガイド</b><br>{links}</div><!--/act--><!--related-->', 1)
+        if t != src:
+            f.write_text(t)
+    return urls
+
+
+SYM_CSS = (".sym{border:1px solid var(--text);margin:0 0 28px}"
+           ".sym .sh,.sym .sr{display:grid;grid-template-columns:64px minmax(0,1fr)}"
+           ".sym .sh{background:var(--text);color:var(--bg);font-size:12px;letter-spacing:.1em}.sym .sh div{padding:6px 8px}"
+           ".sym .sr{border-top:1px solid var(--border)}.sym .sr:first-of-type{border-top:0}"
+           ".sym .no{padding:12px 8px;font-family:ui-monospace,'SFMono-Regular',Menlo,monospace;font-size:13px;font-weight:700;color:var(--accent)}"
+           ".sym .tx{padding:12px 8px;font-size:14px;line-height:1.75}.sym .tx a{font-weight:700;font-size:15px;color:var(--text)}"
+           ".sym .tx a:hover{color:var(--accent)}.sym .tx small{display:inline-block;font-size:12px;color:var(--muted);border:1px solid var(--border);padding:0 6px;margin-left:6px;vertical-align:1px}"
+           ".sym .tx p{margin-top:4px;color:var(--text)}.symh{font-size:13px;font-weight:700;letter-spacing:.1em;margin:0 0 10px}"
+           ".symall{display:inline-block;font-size:14px;font-weight:700;color:var(--link);margin:-16px 0 36px;padding:8px 0}"
+           "h2.symc{font-size:18px;margin:36px 0 10px;padding-top:12px;border-top:2px solid var(--text)}h2.symc span{font-family:ui-monospace,'SFMono-Regular',Menlo,monospace;color:var(--accent);margin-right:8px}")
+
+
+def _symptom(title):
+    import re
+    m = re.match(r"(.+?[。？])", title)
+    return (m.group(1) if m else title).rstrip("。")
+
+
+def symptoms(cfg, posts, cats, theme, favicon, css):
+    """設定 "symptomTable" のメディアだけ: 記事を「症状（題名の最初の文）→まずやること（記事の summary）」の表にする。
+    番号は 分類の順番-分類内の古い順（記事が増えても既存の番号は変わらない）。全件の /{path}/ と、トップの「よくある症状と対処」を作る。"""
+    st = cfg.get("symptomTable")
+    if not st:
+        return []
+    rel = st.get("path", "symptoms") + "/"
+    stages = {g["stage"]: g["label"] for g in (cfg.get("gridGuide") or {}).get("stages", [])}
+    rows = {}  # category -> [(no, post)]
+    for ci, (cname, c) in enumerate(cats.items(), 1):
+        ps = sorted((p for p in posts if p["category"] == cname), key=lambda p: (p["date"], p["slug"]))
+        rows[cname] = [(f"{ci:02d}-{i:02d}", p) for i, p in enumerate(ps, 1)]
+
+    def row(no, p):
+        lab = stages.get(p.get("stage", ""), p.get("stage", ""))
+        return (f'<div class="sr"><div class="no">{no}</div><div class="tx"><a href="/{p["slug"]}/">{E(_symptom(p["title"]))}</a>'
+                + (f'<small>{E(lab)}</small>' if lab else "") + f'<p>{E(p.get("summary", ""))}</p></div></div>')
+    head = '<div class="sh"><div>番号</div><div>症状とまずやること</div></div>'
+    n = sum(len(v) for v in rows.values())
+    title = st.get("title", "症状と対処の一覧")
+    body = [f'<h1>{E(title)}</h1>', f'<p class="xlead">{E(st.get("lead", "").replace("{n}", str(n)))}</p>']
+    body.append('<nav class="chips" aria-label="分類">' + "".join(f'<a class="chip" href="#{cats[c]["id"]}">{E(c)}</a>' for c, rs in rows.items() if rs) + "</nav>")
+    items = []
+    for ci, (cname, rs) in enumerate(rows.items(), 1):
+        if not rs:
+            continue
+        body.append(f'<h2 class="symc" id="{cats[cname]["id"]}"><span>{ci:02d}</span>{E(cname)}</h2><div class="sym">{head}'
+                    + "".join(row(no, p) for no, p in rs) + "</div>")
+        items += [(no, p) for no, p in rs]
+    url = cfg["url"]
+    graph = [{"@type": "CollectionPage", "name": title, "url": url + rel, "inLanguage": "ja",
+              "publisher": {"@id": "https://seadice.win/#organization"},
+              "mainEntity": {"@type": "ItemList", "numberOfItems": len(items), "itemListElement": [
+                  {"@type": "ListItem", "position": i + 1, "name": f"{no} {_symptom(p['title'])}", "url": f"{url}{p['slug']}/"}
+                  for i, (no, p) in enumerate(items)]}}]
+    purl = _page(cfg, theme, favicon, css, rel, f'{title} | {cfg["name"]}', st.get("desc", "").replace("{n}", str(n)),
+                 "\n".join(body), graph, [(title, url + rel)], SYM_CSS)
+    # トップ: 「起きた」段階の新しい順に top 件（無ければ全記事の新しい順）
+    k = st.get("top", 6)
+    allr = [r for rs in rows.values() for r in rs]
+    pick = sorted([r for r in allr if r[1].get("stage") == st.get("topStage", "起きた")] or allr,
+                  key=lambda r: (r[1]["date"], r[1]["slug"]), reverse=True)[:k]
+    f = ROOT / cfg["path"] / "index.html"
+    t = f.read_text()
+    block = (f'<h2 class="symh">{E(st.get("topTitle", "よくある症状と対処"))}</h2><div class="sym">{head}'
+             + "".join(row(no, p) for no, p in pick) + f'</div><a class="symall" href="/{rel}">症状と対処をすべて見る（{n}件）</a>')
+    i = t.find('<h2 class="sec">')
+    if i >= 0 and pick:
+        t = t[:i] + block + t[i:]
+        t = t.replace("</style>", SYM_CSS + "</style>", 1)
+        f.write_text(t)
+    return [purl]
+
+
 def apply(cfg, posts, cats, images, types, theme, favicon, css, card):
     urls = guides(cfg, posts, cats, images, types, theme, favicon, css, card)
+    urls += corrections(cfg, posts, theme, favicon, css)
+    urls += matrix_guides(cfg, posts, cats, images, types, theme, favicon, css, card)
+    urls += activities(cfg, posts, theme, favicon, css)
     urls += glossary(cfg, posts, theme, favicon, css)
     urls += pages(cfg, theme, favicon, css)
+    urls += symptoms(cfg, posts, cats, theme, favicon, css)
+    import mindmap  # 記事マップ /map/ (media/{slug}-map.json があるメディアだけ)
+    urls += mindmap.build(cfg, posts, cats, lambda rel, title, desc, body, graph, trail, extra_css="":
+                          _page(cfg, theme, favicon, css, rel, title, desc, body, graph, trail, extra_css))
     n = badges(cfg)
+    term_links(cfg, posts)
     crosslinks(cfg)
+    tool_links(cfg)
     top_links(cfg)
     if urls:
         sm = ROOT / cfg["path"] / "sitemap.xml"
