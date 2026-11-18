@@ -9,6 +9,15 @@
   ]
  },
  {
+  "id": "darvo",
+  "term": "DARVO（否定・攻撃・被害者と加害者の逆転）",
+  "en": "DARVO (Deny, Attack, Reverse Victim and Offender)",
+  "def": "重大なことを指摘された人が、まず事実を否定し、次に指摘した人を攻撃し、最後に自分こそ被害者であるかのように振る舞う反応パターン。研究では、多くの人が指摘を受けたときにこの反応のどれかを使ったと答えている。",
+  "slugs": [
+   "darvo-deny-attack-reverse-victim-research"
+  ]
+ },
+ {
   "id": "laterality",
   "term": "側性（ラテラリティ）",
   "en": "Laterality",
