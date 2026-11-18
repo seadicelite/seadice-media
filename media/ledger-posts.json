@@ -1,5 +1,13 @@
 [
  {
+  "slug": "subscription-paygo-monthly-limit-calculator",
+  "category": "サブスク・固定費",
+  "type": "guide",
+  "date": "2026-11-17",
+  "title": "都度課金・サブスクの「気づいたら使っていた」を防ぐ、今月の上限を決める計算表",
+  "summary": "支払いが使った瞬間から切り離される仕組みと、予算を決める工夫の効果を示した研究から、今月の上限を決める計算表を作った。"
+ },
+ {
   "slug": "subscription-price-hike-downgrade-tips",
   "category": "サブスク・固定費",
   "type": "guide",

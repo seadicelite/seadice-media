@@ -1,5 +1,41 @@
 [
  {
+  "id": "capitalization",
+  "term": "キャピタライゼーション（capitalization）",
+  "en": "Capitalization",
+  "def": "うれしい出来事を誰かに話し、喜びを分かち合う行動。相手が熱心に反応してくれるほど、話した本人の満足感や、2人の関係の満足度が高まることが研究で示されている。",
+  "slugs": [
+   "shared-excitement-partner-reaction-compatibility-research"
+  ]
+ },
+ {
+  "id": "laterality",
+  "term": "側性（ラテラリティ）",
+  "en": "Laterality",
+  "def": "体の左右どちらかを使いやすい、または向きやすい偏りのこと。利き手が代表例。キスで顔を右に傾ける人が多いという研究も、この偏りの一つとして調べられてきた。",
+  "slugs": [
+   "kissing-head-turn-right-research"
+  ]
+ },
+ {
+  "id": "hyperscanning",
+  "term": "ハイパースキャニング",
+  "en": "Hyperscanning",
+  "def": "2人以上の脳の活動を同時に測る方法。恋人と手をつなぐと2人の脳波のそろい方が強まり、そろうほど痛みが軽くなったという研究で使われた。",
+  "slugs": [
+   "holding-hands-partner-pain-relief-research"
+  ]
+ },
+ {
+  "id": "cortisol",
+  "term": "コルチゾール",
+  "en": "Cortisol",
+  "def": "ストレスを受けると増えるホルモンで、だ液で測れる。知らない人の服の匂いをかいだ女性は、ストレステストの間このホルモンが高かったという研究がある。",
+  "slugs": [
+   "partner-scent-stress-sleep-research"
+  ]
+ },
+ {
   "id": "kitchen-thinking",
   "term": "キッチンシンキング（kitchen thinking）",
   "en": "Kitchen thinking",
@@ -144,7 +180,8 @@
   "en": "Interpersonal synchrony",
   "def": "話すテンポや身振り、発汗などの体の反応まで、会話する二人のタイミングが自然にそろっていく現象。同期が高いペアほど、その場の好意が高い傾向が報告されています。",
   "slugs": [
-   "conversation-synchrony-compatibility-research"
+   "conversation-synchrony-compatibility-research",
+   "heart-rate-synchrony-attraction-research"
   ]
  },
  {
@@ -446,7 +483,7 @@
   "id": "sexual-desire-discrepancy",
   "term": "性欲のずれ（性的欲求の不一致）",
   "en": "Sexual desire discrepancy",
-  "def": "恋人や夫婦の一方が、もう一方より多く、または少なくしたいと感じる状態。長い関係ではよくあることとされ、差そのものより、どう話し合い、どう断るかが満足度と結びついていた。",
+  "def": "恋人や夫婦の一方が、もう一方より多く、または少なくしたいと感じる状態。長い関係ではよくあることとされ、望む頻度との差が大きいことに加えて、どう話し合い、どう断るかも満足度と結びついていた。",
   "slugs": [
    "sexual-desire-mismatch-couples-research"
   ]

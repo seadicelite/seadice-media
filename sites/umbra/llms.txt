@@ -61,6 +61,7 @@
 - [好きな人に好かれたとたん冷めるのはなぜ？「蛙化現象」の本来の意味と、研究でわかっていること](https://umbra.seadice.win/kaeruka-losing-interest-when-liked-research/): 蛙化現象の本来の意味と今の使い方の違い、約3割が経験する実態、自己肯定感だけでは説明できない理由と向き合い方
 - [好きなのか、寂しいだけなのか。「ひとりになる不安」と相手選びの研究](https://umbra.seadice.win/fear-of-being-single-settling-research/): ひとりになる不安が強い人ほど、関心の薄い相手にも惹かれやすく、満たされない関係を終わらせにくいという研究がある。
 - [同じタイプを好きになり、同じ失敗をくり返すのはなぜ？恋愛パターンの研究と立て直し方](https://umbra.seadice.win/same-type-repeating-relationship-pattern-research/): 元恋人と今の恋人の性格は似やすい一方、554人の調査では次の関係で相手への尊敬が上がり、結末は同じとは限らなかった。
+- [息が合う人とは、心拍まで同じになるのか。心拍・汗の「生理的シンクロ」を研究で確かめる](https://umbra.seadice.win/heart-rate-synchrony-attraction-research/): 初対面のデートでは心拍と汗の同期が惹かれやすさに関連。だが同期は仲の良さに比例せず、初対面の他人同士でも起きていた
 
 #### 告白・デートの悩み
 
@@ -69,6 +70,7 @@
 - [デート中の沈黙が気まずいのは自分だけ？沈黙と好意の関係を心理学研究で読み解く](https://umbra.seadice.win/silence-during-dates-liking-research/): 会話の沈黙に気まずさを感じるのは特別なことではない。好意のギャップや会話の流れに関する研究から、沈黙の意味と受け止め方を読み解く。
 - [告白して振られた・断ったあとの気まずさ。友達や職場の関係はどう保つか、片思いの「両側」の研究](https://umbra.seadice.win/after-confession-rejection-awkwardness-research/): 告白のあとの気まずさは振った側にも起きる。はっきり一度断り、両側とも避けずに以前の接し方へ戻るのが関係を保つ手がかり
 - [初デートで「思っていたのと違う」とがっかりしたら。2回目に会うか迷うときの、第一印象と相性の研究](https://umbra.seadice.win/first-date-disappointment-second-date-research/): 初デートの惹かれ方は約半分が2人の組み合わせで決まる。がっかりの中身を分けて2回目を決める研究
+- [デートの誘いにOKされたら脈あり？「断れなかっただけ」の可能性と、返事の読み方の研究](https://umbra.seadice.win/date-yes-interest-signal-research/): 人は乗り気でない誘いにもOKしやすい。返事だけで好意は読めないが、断りやすく誘うと本心を確かめやすくなる
 
 
 ### しぐさ・ボディランゲージ
@@ -90,6 +92,7 @@
 - [好意のつもりはないのに「脈あり」と勘違いされたら。笑顔や親切の読み違いの研究と、関係を壊さない伝え方](https://umbra.seadice.win/misread-as-interested-how-to-clarify-research/): 笑顔や親切が好意と読み違えられるのは多くの人が経験すること。態度を変えるより、言葉で一度はっきり伝え行動をそろえる方法を研究から示す。
 - [好きな人と目を合わせるのが苦手。どのくらい見ればいい？視線の長さの研究](https://umbra.seadice.win/eye-contact-how-long-to-look-research/): 心地よく見つめられる長さは平均3.3秒。会話で目が合うのは1回0.36秒ほどだが、別の学生への調査では会話の約7割で目が合ったと感じていた。
 - [恋人のスキンシップが減ったら、冷めたサイン？触れ合いと愛情の研究と、責めずに伝える方法](https://umbra.seadice.win/partner-less-touch-affection-decline-research/): 触れ合いと愛情は関連するが、量は年齢や好みでも変わる。減っただけで判断せず、責めずに希望を伝える
+- [キスのとき、顔はどちらに傾ける？多くの人が右に傾けるという研究と、向きで気持ちはわかるのか](https://umbra.seadice.win/kissing-head-turn-right-research/): カップル124組の観察では64.5%が右に傾けた。親子のキスでは逆に左が多い。向きで気持ちを読める研究は見当たらない。
 
 #### 嘘や本音は見抜けるか
 
@@ -172,8 +175,10 @@
 - [自分に自信がないと、恋愛はうまくいかないのか。自己評価と恋愛の研究と、自信がないときの動き方](https://umbra.seadice.win/low-self-esteem-love-what-to-do-research/): 自己評価が人間関係を左右する力は小さめで、恋人との関係ではさらに弱い。6本の研究から、相手の気持ちを低く見積もるずれと、その確かめ方を整理
 - [付き合いが長くなると、努力は減るのか。「釣った魚に餌をやらない」を研究で確かめる](https://umbra.seadice.win/relationship-effort-decline-duration-research/): 交際の長さ自体が気づかいを減らすと示した研究は見当たらず、理想化や嫉妬、相手の魅力や浮気の心配など別の要因が関わっていた。
 - [恋人・夫婦で「したい気持ち」の差がつらいとき。性欲のずれと関係の研究](https://umbra.seadice.win/sexual-desire-mismatch-couples-research/): 性欲のずれは長い関係でよくあること。93研究のメタ分析では、話す回数より話し合いの質が満足度と強く結びついていた。
-- [プレゼント選びの上手さは、気持ちの大きさを表すのか。贈り物と関係の研究](https://umbra.seadice.win/gift-choosing-skill-love-depth-research/): 選ぶ力は相手全般への関心の高さと結びつき、贈り物の種類より好みを尊重した選び方が感謝と関連していた。
+- [プレゼント選びの上手さは、気持ちの大きさを表すのか。贈り物と関係の研究](https://umbra.seadice.win/gift-choosing-skill-love-depth-research/): 選ぶ力の男女差は人への関心の高さで一部説明され、体験の贈り物は「自分らしくいられる」感覚を通じて感謝と結びついていた。気持ちの深さそのものは測られていない。
 - [友人への惚気話が多いかどうかで、関係の深さはわかるのか。自己開示と満足度の研究](https://umbra.seadice.win/partner-bragging-to-friends-relationship-depth-research/): 惚気話の量より、嬉しい話にどれだけ積極的に応えてもらえたかのほうが満足度と関わっていた。
+- [恋人と手をつなぐと、痛みは和らぐのか。写真を見るだけでも痛みが軽くなった研究](https://umbra.seadice.win/holding-hands-partner-pain-relief-research/): 恋人の手を握ると痛みや不安の反応が下がり、写真でも痛みが軽く感じられた。ただそばにいるだけでは効果は見られなかった。
+- [恋人の服の匂いで落ち着くのは気のせい？匂いでストレスと睡眠が変わった研究](https://umbra.seadice.win/partner-scent-stress-sleep-research/): 恋人の匂いでストレスを感じにくくなり、睡眠効率は平均2%以上上がった。知らない人の匂いではストレスホルモンが高かった。
 
 #### 喧嘩と浮気
 
@@ -243,7 +248,7 @@
 - [好きな人へのLINE、自分からどう送ればいい？質問・自己開示・返信の間隔の研究](https://umbra.seadice.win/texting-crush-responsiveness-research/): 好きな人へのLINEは、返信の速さや駆け引きより、相手の話を受けた質問と少しずつの自己開示が好感と結びついていました。
 - [恋人がSNSに載せてくれないのは本気じゃないから？「載せる・載せない」の研究と話し合い方](https://umbra.seadice.win/partner-not-posting-relationship-sns-research/): 関係を公開する人ほど気持ちが強い傾向はあるが差は小さい。載せない理由には愛着の傾向もあり、意味のすり合わせが先。
 - [恋人とスマホ・SNSのことで喧嘩が増えたら？「ながらスマホ」のすれ違いを立て直す研究](https://umbra.seadice.win/partner-phubbing-sns-conflict-repair-research/): ながらスマホは満足度の低さや衝突と関係する。やり返さず、寂しさを一文で伝え、置く時間を二人で決めるのが出発点。
-- [恋人とのLINE、毎日したほうがいい？頻度が合わないときの研究](https://umbra.seadice.win/couple-texting-frequency-mismatch-research/): 647人の調査で、近くに住むカップルではLINEの回数は満足度と有意に結びつかず、電話の回数のほうが関連していた。
+- [恋人とのLINE、毎日したほうがいい？頻度が合わないときの研究](https://umbra.seadice.win/couple-texting-frequency-mismatch-research/): カナダの大学生647人の調査で、近くに住むカップルでは文字のやりとりの回数は満足度と有意に結びつかず、電話の回数のほうが関連していた。
 
 #### 好意の裏返し・駆け引き
 
@@ -291,6 +296,7 @@
 - [失恋から立ち直れないのは普通？落ち込みが長引くときと、相談したほうがいいサインを研究で見分ける](https://umbra.seadice.win/breakup-distress-when-to-seek-help-research/): 別れて半年以内の約4人に1人が軽度以上のうつ症状の水準。ほぼ毎日の落ち込みが2週間以上続き生活が回らないなら相談のサイン
 - [別れを切り出すとき、どう伝えれば相手を傷つけにくいのか。別れ方の研究でわかったこと](https://umbra.seadice.win/how-to-break-up-less-hurt-research/): 傷つけない別れ方を保証する研究はない。8本の研究から、連絡を絶つ・はっきり断る・理由を言うの違いを整理
 - [振られて「自分に何か問題がある」と思ったら。拒絶と自己評価、「性格は変わらない」という考えの研究](https://umbra.seadice.win/rejection-self-worth-fixed-personality-belief-research/): 拒まれても自己評価は平均で下がらなかった。つらさを長引かせたのは、拒絶を「自分の性格」に結びつける考え方だった。
+- [別れてすぐ恋人ができるのは、まだ立ち直っていないサイン？リバウンド恋愛の研究](https://umbra.seadice.win/rebound-relationship-after-breakup-research/): 別れてすぐの新しい恋は未練の証拠とは言えない。研究が注目するのは早さより、紛らわす・見返すといった動機
 
 #### 復縁はうまくいくか
 

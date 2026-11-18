@@ -95,7 +95,8 @@
      "liking-reciprocity-research",
      "mere-exposure-effect-romantic-attraction",
      "love-is-blind-idealization-research",
-     "attracted-to-taken-people-mate-poaching-research"
+     "attracted-to-taken-people-mate-poaching-research",
+     "heart-rate-synchrony-attraction-research"
     ],
     "act": [
      "liking-reciprocity-research",
@@ -119,7 +120,8 @@
    "label": "告白・デートの悩み",
    "cells": {
     "read": [
-     "silence-during-dates-liking-research"
+     "silence-during-dates-liking-research",
+     "date-yes-interest-signal-research"
     ],
     "why": [
      "confession-hesitation-regret-research",
@@ -153,7 +155,8 @@
      "touch-affection-signal-research",
      "chameleon-effect-mimicry-liking-research",
      "head-tilt-impression-research",
-     "nodding-backchannel-listening-likeability-research"
+     "nodding-backchannel-listening-likeability-research",
+     "kissing-head-turn-right-research"
     ],
     "why": [
      "chameleon-effect-mimicry-liking-research",
@@ -385,7 +388,9 @@
      "long-distance-relationship-satisfaction-research",
      "relationship-effort-decline-duration-research",
      "partner-bragging-to-friends-relationship-depth-research",
-     "schedule-sharing-love-or-anxiety-research"
+     "schedule-sharing-love-or-anxiety-research",
+     "holding-hands-partner-pain-relief-research",
+     "partner-scent-stress-sleep-research"
     ],
     "act": [
      "gratitude-relationship-maintenance-research",
@@ -564,7 +569,8 @@
      "how-to-break-up-less-hurt-research"
     ],
     "read": [
-     "breakup-distress-when-to-seek-help-research"
+     "breakup-distress-when-to-seek-help-research",
+     "rebound-relationship-after-breakup-research"
     ]
    }
   },

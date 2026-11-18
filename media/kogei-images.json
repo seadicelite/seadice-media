@@ -856,23 +856,6 @@
   "og": "https://kogei.seadice.win/img/kumano-fude-makeup-brush-og.jpg",
   "local": true
  },
- "mashikoyaki-mingei-tokiichi": {
-  "file": "File:Mashiko 2008-11-28 (3267842157).jpg",
-  "src": "/img/mashikoyaki-mingei-tokiichi.webp",
-  "src640": "/img/mashikoyaki-mingei-tokiichi-sm.webp",
-  "w": 960,
-  "h": 640,
-  "alt": "益子の店先に並ぶ焼き物の狸",
-  "artist": "KimonBerlin",
-  "license": "CC BY-SA 2.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-  "page": "https://commons.wikimedia.org/wiki/File:Mashiko_2008-11-28_(3267842157).jpg",
-  "source_label": "Wikimedia Commons",
-  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mashiko_2008-11-28_%283267842157%29.jpg/960px-Mashiko_2008-11-28_%283267842157%29.jpg",
-  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mashiko_2008-11-28_%283267842157%29.jpg/500px-Mashiko_2008-11-28_%283267842157%29.jpg",
-  "og": "https://kogei.seadice.win/img/mashikoyaki-mingei-tokiichi-og.jpg",
-  "local": true
- },
  "hakone-yosegi-zaiku": {
   "file": "File:Hakone Yosegi Zaiku display - Hakone Checkpoint Exhibition Hall - Hakone no Seki (barrier station) - Hakone, Japan - DSC06051.jpg",
   "src": "/img/hakone-yosegi-zaiku.webp",
@@ -892,8 +875,8 @@
  },
  "tsugarunuri-togidashi-karanuri": {
   "file": "File:Tsugaru lacquerware (Tsugarunuri).jpg",
-  "src": "/img/tsugarunuri-togidashi-karanuri.jpg",
-  "src640": "/img/tsugarunuri-togidashi-karanuri-sm.jpg",
+  "src": "/img/tsugarunuri-togidashi-karanuri.webp",
+  "src640": "/img/tsugarunuri-togidashi-karanuri-sm.webp",
   "w": 960,
   "h": 720,
   "alt": "津軽塗の漆器",
@@ -902,10 +885,26 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Tsugaru_lacquerware_(Tsugarunuri).jpg",
   "source_label": "Wikimedia Commons",
-  "unconverted": true,
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tsugaru_lacquerware_%28Tsugarunuri%29.jpg/960px-Tsugaru_lacquerware_%28Tsugarunuri%29.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tsugaru_lacquerware_%28Tsugarunuri%29.jpg/500px-Tsugaru_lacquerware_%28Tsugarunuri%29.jpg",
-  "og": "https://kogei.seadice.win/img/tsugarunuri-togidashi-karanuri.jpg",
+  "og": "https://kogei.seadice.win/img/tsugarunuri-togidashi-karanuri-og.jpg",
+  "local": true
+ },
+ "mashikoyaki-mingei-tokiichi": {
+  "file": "File:Teller - Mashiko-yaki.jpg",
+  "src": "/img/mashikoyaki-mingei-tokiichi.webp",
+  "src640": "/img/mashikoyaki-mingei-tokiichi-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "益子で作られた鉄釉の皿",
+  "artist": "Fraxinus2",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Teller_-_Mashiko-yaki.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Teller_-_Mashiko-yaki.jpg/960px-Teller_-_Mashiko-yaki.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Teller_-_Mashiko-yaki.jpg/500px-Teller_-_Mashiko-yaki.jpg",
+  "og": "https://kogei.seadice.win/img/mashikoyaki-mingei-tokiichi-og.jpg",
   "local": true
  }
 }

@@ -971,5 +971,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Seasalt.jpg/500px-Seasalt.jpg",
   "og": "https://senbei.seadice.win/img/regional-salt-preference-blind-test.jpg",
   "local": true
+ },
+ "sugar-type-senbei-browning": {
+  "file": "File:Honey dipper.jpg",
+  "src": "/img/sugar-type-senbei-browning.jpg",
+  "src640": "/img/sugar-type-senbei-browning-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "木のハニーディッパー（はちみつをすくう道具）",
+  "artist": "Matankic",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Honey_dipper.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Honey_dipper.jpg/960px-Honey_dipper.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Honey_dipper.jpg/960px-Honey_dipper.jpg",
+  "og": "https://senbei.seadice.win/img/sugar-type-senbei-browning.jpg",
+  "local": true
  }
 }
