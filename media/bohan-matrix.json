@@ -51,7 +51,9 @@
      "moving-new-home-security",
      "summer-window-unlocked-burglary"
     ],
-    "notice": [],
+    "notice": [
+     "noise-at-home-burglar-robbery-response"
+    ],
     "after": [
      "burglary-victim-immediate-actions"
     ],
@@ -91,7 +93,9 @@
     "prevent": [
      "home-invasion-robbery-at-home"
     ],
-    "notice": [],
+    "notice": [
+     "noise-at-home-burglar-robbery-response"
+    ],
     "after": [],
     "use": []
    }
@@ -111,7 +115,9 @@
      "bicycle-theft-unlocked-statistics",
      "bicycle-theft-season-night-location"
     ],
-    "notice": [],
+    "notice": [
+     "bicycle-lock-damaged-attempted-theft"
+    ],
     "after": [
      "bicycle-car-theft-recovery-steps"
     ],
@@ -156,7 +162,9 @@
      "night-walking-smartphone-awareness-risk"
     ],
     "notice": [],
-    "after": [],
+    "after": [
+     "snatch-theft-victim-immediate-actions"
+    ],
     "use": []
    }
   },
@@ -191,8 +199,12 @@
     "prevent": [
      "living-alone-women-home-safety"
     ],
-    "notice": [],
-    "after": [],
+    "notice": [
+     "hidden-camera-voyeurism-signs"
+    ],
+    "after": [
+     "sexual-assault-victim-support-center"
+    ],
     "use": []
    }
   },
@@ -210,7 +222,9 @@
      "child-stranger-approach-after-school"
     ],
     "notice": [],
-    "after": [],
+    "after": [
+     "child-disclosure-parent-response"
+    ],
     "use": []
    }
   },
@@ -245,12 +259,16 @@
      "fraud-awareness-overconfidence-gap"
     ],
     "prevent": [
-     "international-call-block-scam"
+     "international-call-block-scam",
+     "landline-answering-machine-scam"
     ],
     "notice": [
-     "fake-police-call-scam"
+     "fake-police-call-scam",
+     "refund-scam-atm-phone"
     ],
-    "after": [],
+    "after": [
+     "scam-victim-payment-recovery-steps"
+    ],
     "use": []
    }
   },
@@ -268,7 +286,9 @@
     "notice": [
      "door-to-door-inspection-scam"
     ],
-    "after": [],
+    "after": [
+     "scam-victim-payment-recovery-steps"
+    ],
     "use": []
    }
   },
@@ -292,9 +312,13 @@
      "fake-shopping-site-checklist",
      "ai-written-phishing-email",
      "qr-code-phishing-sticker",
-     "crypto-transfer-scam-signs"
+     "crypto-transfer-scam-signs",
+     "fake-ai-chatbot-app"
     ],
-    "after": [],
+    "after": [
+     "scam-victim-payment-recovery-steps",
+     "fraud-recovery-scam-second-victim"
+    ],
     "use": [
      "ai-era-scam-checklist",
      "fake-shopping-site-checklist"
@@ -326,7 +350,9 @@
    "id": "ai-fake",
    "label": "AIのなりすまし・ディープフェイク",
    "cells": {
-    "data": [],
+    "data": [
+     "ai-scam-statistics-what-we-know"
+    ],
     "why": [
      "deepfake-video-celebrity-ad"
     ],
@@ -338,7 +364,9 @@
      "deepfake-video-celebrity-ad",
      "ai-era-scam-checklist"
     ],
-    "after": [],
+    "after": [
+     "impersonation-account-deepfake-found"
+    ],
     "use": [
      "ai-era-scam-checklist"
     ]
@@ -352,12 +380,14 @@
      "name-search-personal-info-risk"
     ],
     "why": [
-     "sns-photo-location-home"
+     "sns-photo-location-home",
+     "sns-hobby-posts-disclosure-risk"
     ],
     "prevent": [
      "sns-photo-location-home",
      "ai-chat-input-personal-info",
-     "name-search-personal-info-risk"
+     "name-search-personal-info-risk",
+     "sns-hobby-posts-disclosure-risk"
     ],
     "notice": [],
     "after": [],
@@ -397,6 +427,7 @@
   "street-lighting-crime-research",
   "watching-eyes-sign-crime",
   "fraud-awareness-overconfidence-gap",
-  "bystander-effect-crime-witness"
+  "bystander-effect-crime-witness",
+  "facial-recognition-camera-effect-bias"
  ]
 }

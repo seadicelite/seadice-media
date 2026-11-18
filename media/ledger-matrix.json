@@ -187,16 +187,19 @@
      "sunk-cost-mottainai"
     ],
     "notice": [
-     "subscription-signup-overestimate-self-check"
+     "subscription-signup-overestimate-self-check",
+     "family-subscription-payer-awareness-check"
     ],
     "fix": [
-     "subscription-review-procrastination-status-quo-bias"
+     "subscription-review-procrastination-status-quo-bias",
+     "subscription-price-hike-downgrade-tips"
     ],
     "after": [
      "subscription-unused-months-paid-recovery"
     ],
     "use": [
-     "subscription-fixed-cost-review-checklist"
+     "subscription-fixed-cost-review-checklist",
+     "subscription-paygo-monthly-limit-calculator"
     ]
    }
   },
@@ -273,7 +276,8 @@
      "debt-repayment-small-victories"
     ],
     "use": [
-     "https://ledger.seadice.win/ribo-keisan/"
+     "https://ledger.seadice.win/ribo-keisan/",
+     "debt-repayment-balance-rate-comparison-table"
     ]
    }
   },
@@ -286,10 +290,12 @@
      "small-amount-investing-hesitation"
     ],
     "notice": [
-     "investing-overconfidence-self-check"
+     "investing-overconfidence-self-check",
+     "retirement-anxiety-self-check"
     ],
     "fix": [
-     "retirement-anxiety-outlook"
+     "retirement-anxiety-outlook",
+     "small-amount-investing-hurdle-tips"
     ],
     "after": [
      "investment-panic-selling-recovery-steps"
@@ -339,10 +345,12 @@
      "couples-money-talk-tips"
     ],
     "after": [
-     "couples-money-fight-after-repair"
+     "couples-money-fight-after-repair",
+     "friend-money-repayment-ask-tips"
     ],
     "use": [
-     "couples-household-cost-sharing-checklist"
+     "couples-household-cost-sharing-checklist",
+     "group-bill-splitting-calculator"
     ]
    }
   },
@@ -352,7 +360,8 @@
    "lead": "親が貯金していると子どもも貯金しやすいことがわかっています。見本・会話・実際に扱う経験という、家庭でのお金の学びの3つの柱を研究から読めます。",
    "cells": {
     "why": [
-     "parents-money-habits-children"
+     "parents-money-habits-children",
+     "cashless-children-money-sense"
     ],
     "notice": [
      "kids-money-habits-parent-reflection"
@@ -361,10 +370,12 @@
      "kids-allowance-money-skills-tips"
     ],
     "after": [
-     "kids-game-spending-recovery-steps"
+     "kids-game-spending-recovery-steps",
+     "kids-allowance-shortfall-recovery-steps"
     ],
     "use": [
-     "kids-allowance-amount-checklist"
+     "kids-allowance-amount-checklist",
+     "kids-wishlist-wait-checklist"
     ]
    }
   },

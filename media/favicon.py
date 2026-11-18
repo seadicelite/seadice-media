@@ -21,6 +21,7 @@ PICTO = {  # 24x24 の線画（トップページ p/index.html の .picto と同
     "kokoro": '<path d="M2.5 12.5h4l2-5 3.5 10 2.5-7 1.5 2h5.5"/>',
     "kosodate": '<circle cx="8.5" cy="6" r="2.5"/><path d="M4.5 20.5v-5a4 4 0 0 1 8 0v5"/><circle cx="17" cy="10.5" r="2"/><path d="M14 20.5v-3a3 3 0 0 1 6 0v3"/>',
     "ledger": '<circle cx="12" cy="12" r="8.5"/><path d="M9 8l3 4 3-4M12 12v5M9.5 13.5h5"/>',
+    "neuro": '<path d="M10 4.5a3 3 0 0 0-3 3 3 3 0 0 0-2 5 3 3 0 0 0 2.5 5 2.5 2.5 0 0 0 4.5 1.5V6a2 2 0 0 0-2-1.5zM14 4.5a3 3 0 0 1 3 3 3 3 0 0 1 2 5 3 3 0 0 1-2.5 5 2.5 2.5 0 0 1-4.5 1.5"/>',
     "oya": '<circle cx="10" cy="5" r="2.5"/><path d="M6.5 20.5v-6a3.5 3.5 0 0 1 7 0v6"/><path d="M13.5 13.5l3 1.5v5.5"/>',
     "research": '<circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5.5 5.5"/>',
     "choco": '<rect x="5" y="4" width="14" height="16" rx="1.5"/><path d="M5 9.3h14M5 14.6h14M12 4v16"/>',

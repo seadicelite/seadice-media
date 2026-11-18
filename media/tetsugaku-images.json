@@ -1054,5 +1054,36 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Harvard_Yard_im_Sommer.jpg/500px-Harvard_Yard_im_Sommer.jpg",
   "og": "https://tetsugaku.seadice.win/img/pragmatism-what-works-is-true-og.jpg",
   "local": true
+ },
+ "adam-smith-sympathy": {
+  "file": "File:Adam Smith - geograph.org.uk - 3725853.jpg",
+  "src": "/img/adam-smith-sympathy.jpg",
+  "src640": "/img/adam-smith-sympathy-sm.jpg",
+  "w": 960,
+  "h": 643,
+  "alt": "エディンバラにあるアダム・スミスの像",
+  "artist": "Bill Boaden",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Adam_Smith_-_geograph.org.uk_-_3725853.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Adam_Smith_-_geograph.org.uk_-_3725853.jpg/960px-Adam_Smith_-_geograph.org.uk_-_3725853.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Adam_Smith_-_geograph.org.uk_-_3725853.jpg/500px-Adam_Smith_-_geograph.org.uk_-_3725853.jpg",
+  "og": "https://tetsugaku.seadice.win/img/adam-smith-sympathy.jpg",
+  "local": true
+ },
+ "occams-razor": {
+  "file": "File:Loading blades straight razor closeup (38324702215).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Loading_blades_straight_razor_closeup_%2838324702215%29.jpg/960px-Loading_blades_straight_razor_closeup_%2838324702215%29.jpg",
+  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Loading_blades_straight_razor_closeup_%2838324702215%29.jpg/500px-Loading_blades_straight_razor_closeup_%2838324702215%29.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "柄のついた直剃刀",
+  "artist": "Your Best Digs",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Loading_blades_straight_razor_closeup_(38324702215).jpg",
+  "source_label": "Wikimedia Commons"
  }
 }

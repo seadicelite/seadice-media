@@ -40,13 +40,16 @@
      "self-disclosure-confiding-liking-research",
      "compliments-flattery-liking-signal-research",
      "voice-pitch-attraction-research",
-     "downward-glance-head-tilt-attraction-signal"
+     "downward-glance-head-tilt-attraction-signal",
+     "shared-laughter-romantic-partner-friend-research",
+     "phone-checking-conversation-boredom-signal-research"
     ],
     "use": [
      "https://umbra.seadice.win/myakuari-check/"
     ],
     "after": [
-     "unrequited-love-rejection-recovery-research"
+     "unrequited-love-rejection-recovery-research",
+     "partner-compliments-hard-to-believe-research"
     ],
     "why": [
      "calling-by-name-liking-signal-research",
@@ -64,10 +67,12 @@
    "cells": {
     "read": [
      "emoji-sticker-liking-signal-research",
-     "contact-frequency-decline-cooling-signal-research"
+     "contact-frequency-decline-cooling-signal-research",
+     "message-length-liking-signal-research"
     ],
     "after": [
-     "contact-frequency-decline-cooling-signal-research"
+     "contact-frequency-decline-cooling-signal-research",
+     "line-fight-repair-voice-research"
     ],
     "use": [
      "https://umbra.seadice.win/sameta-check/"
@@ -76,7 +81,8 @@
      "text-tone-misunderstanding-research"
     ],
     "act": [
-     "partner-texting-less-what-to-do-research"
+     "partner-texting-less-what-to-do-research",
+     "couple-texting-frequency-mismatch-research"
     ]
    }
   },
@@ -89,17 +95,20 @@
      "liking-reciprocity-research",
      "mere-exposure-effect-romantic-attraction",
      "love-is-blind-idealization-research",
-     "attracted-to-taken-people-mate-poaching-research"
+     "attracted-to-taken-people-mate-poaching-research",
+     "heart-rate-synchrony-attraction-research"
     ],
     "act": [
      "liking-reciprocity-research",
      "mere-exposure-effect-romantic-attraction"
     ],
     "read": [
-     "love-vs-infatuation-limerence-research"
+     "love-vs-infatuation-limerence-research",
+     "fear-of-being-single-settling-research"
     ],
     "after": [
-     "kaeruka-losing-interest-when-liked-research"
+     "kaeruka-losing-interest-when-liked-research",
+     "same-type-repeating-relationship-pattern-research"
     ],
     "use": [
      "https://umbra.seadice.win/quiz/"
@@ -111,19 +120,23 @@
    "label": "告白・デートの悩み",
    "cells": {
     "read": [
-     "silence-during-dates-liking-research"
+     "silence-during-dates-liking-research",
+     "date-yes-interest-signal-research"
     ],
     "why": [
      "confession-hesitation-regret-research",
-     "dating-invitation-rejection-anxiety-research"
+     "dating-invitation-rejection-anxiety-research",
+     "social-anxiety-dating-initiation-research"
     ],
     "act": [
      "confession-hesitation-regret-research",
      "dating-invitation-rejection-anxiety-research",
-     "silence-during-dates-liking-research"
+     "silence-during-dates-liking-research",
+     "social-anxiety-dating-initiation-research"
     ],
     "after": [
-     "after-confession-rejection-awkwardness-research"
+     "after-confession-rejection-awkwardness-research",
+     "first-date-disappointment-second-date-research"
     ]
    }
   },
@@ -142,7 +155,8 @@
      "touch-affection-signal-research",
      "chameleon-effect-mimicry-liking-research",
      "head-tilt-impression-research",
-     "nodding-backchannel-listening-likeability-research"
+     "nodding-backchannel-listening-likeability-research",
+     "kissing-head-turn-right-research"
     ],
     "why": [
      "chameleon-effect-mimicry-liking-research",
@@ -152,10 +166,12 @@
      "https://umbra.seadice.win/shigusa/"
     ],
     "act": [
-     "showing-interest-nonverbal-immediacy-research"
+     "showing-interest-nonverbal-immediacy-research",
+     "eye-contact-how-long-to-look-research"
     ],
     "after": [
-     "misread-as-interested-how-to-clarify-research"
+     "misread-as-interested-how-to-clarify-research",
+     "partner-less-touch-affection-decline-research"
     ]
    }
   },
@@ -188,10 +204,12 @@
      "https://umbra.seadice.win/quiz/"
     ],
     "act": [
-     "suspecting-partner-lie-how-to-ask-research"
+     "suspecting-partner-lie-how-to-ask-research",
+     "honest-confession-lie-to-partner-research"
     ],
     "after": [
-     "rebuilding-trust-after-lie-research"
+     "rebuilding-trust-after-lie-research",
+     "suspicion-after-betrayal-cant-stop-research"
     ]
    }
   },
@@ -240,7 +258,8 @@
      "steepling-hands-confidence-research",
      "leg-crossing-direction-personality-research",
      "frequent-hand-gestures-speaking-research",
-     "shoulder-shrug-confidence-signal-research"
+     "shoulder-shrug-confidence-signal-research",
+     "hands-behind-back-posture-confidence-research"
     ],
     "why": [
      "appearance-first-impression-accuracy-research"
@@ -250,7 +269,8 @@
      "low-self-esteem-love-what-to-do-research"
     ],
     "after": [
-     "bad-first-impression-recovery-research"
+     "bad-first-impression-recovery-research",
+     "rejection-self-worth-fixed-personality-belief-research"
     ]
    }
   },
@@ -293,10 +313,12 @@
      "hard-to-get-scarcity-attraction-research"
     ],
     "act": [
-     "hard-to-get-scarcity-attraction-research"
+     "hard-to-get-scarcity-attraction-research",
+     "jealousy-induction-testing-love-research"
     ],
     "after": [
-     "game-playing-backfired-repair-research"
+     "game-playing-backfired-repair-research",
+     "breadcrumbing-mixed-signals-tired-research"
     ]
    }
   },
@@ -308,11 +330,14 @@
      "infidelity-jealousy-gender-difference-research",
      "partner-phone-checking-surveillance-research",
      "mind-reading-expectation-mismatch-research",
-     "non-apology-psychology-barriers-research"
+     "non-apology-psychology-barriers-research",
+     "ex-partner-meal-jealousy-research",
+     "jealous-of-partners-friends-research"
     ],
     "act": [
      "mind-reading-expectation-mismatch-research",
-     "how-to-tell-partner-jealousy-research"
+     "how-to-tell-partner-jealousy-research",
+     "ex-partner-meal-jealousy-research"
     ],
     "after": [
      "non-apology-psychology-barriers-research",
@@ -334,14 +359,19 @@
      "similarity-attraction-compatibility-research",
      "humor-style-compatibility-research",
      "conversation-synchrony-compatibility-research",
-     "attachment-style-relationship-compatibility"
+     "attachment-style-relationship-compatibility",
+     "body-odor-preference-mhc-gene-research",
+     "love-language-match-satisfaction-research",
+     "dating-bill-payment-seriousness-signal-research"
     ],
     "why": [
      "attachment-style-relationship-compatibility",
-     "destiny-belief-relationship-satisfaction-research"
+     "destiny-belief-relationship-satisfaction-research",
+     "couple-identity-matching-items-research"
     ],
     "after": [
-     "incompatibility-perpetual-problems-research"
+     "incompatibility-perpetual-problems-research",
+     "satisfaction-decline-incompatibility-research"
     ],
     "act": [
      "predicting-relationship-success-before-dating-research",
@@ -356,18 +386,26 @@
     "why": [
      "partner-responsiveness-research",
      "long-distance-relationship-satisfaction-research",
-     "relationship-effort-decline-duration-research"
+     "relationship-effort-decline-duration-research",
+     "partner-bragging-to-friends-relationship-depth-research",
+     "schedule-sharing-love-or-anxiety-research",
+     "holding-hands-partner-pain-relief-research",
+     "partner-scent-stress-sleep-research"
     ],
     "act": [
      "gratitude-relationship-maintenance-research",
      "partner-responsiveness-research",
-     "relationship-effort-decline-duration-research"
+     "relationship-effort-decline-duration-research",
+     "schedule-sharing-love-or-anxiety-research"
     ],
     "after": [
-     "relationship-boredom-novel-activities-research"
+     "relationship-boredom-novel-activities-research",
+     "sexual-desire-mismatch-couples-research"
     ],
     "read": [
-     "turning-toward-bids-lasting-couple-signs-research"
+     "turning-toward-bids-lasting-couple-signs-research",
+     "gift-choosing-skill-love-depth-research",
+     "partner-bragging-to-friends-relationship-depth-research"
     ],
     "use": [
      "https://umbra.seadice.win/nikki/"
@@ -386,14 +424,18 @@
     ],
     "act": [
      "fight-style-relationship-research",
-     "how-to-apologize-after-fight-research"
+     "how-to-apologize-after-fight-research",
+     "quick-reconciliation-after-fight-attachment-research",
+     "bringing-up-past-during-fights-research"
     ],
     "after": [
      "fight-style-relationship-research",
      "stonewalling-conflict-withdrawal-warning-sign"
     ],
     "why": [
-     "demand-withdraw-repeating-fights-research"
+     "demand-withdraw-repeating-fights-research",
+     "quick-reconciliation-after-fight-attachment-research",
+     "bringing-up-past-during-fights-research"
     ],
     "use": [
      "https://umbra.seadice.win/nikki/"
@@ -405,18 +447,23 @@
    "label": "結婚・同棲を考えたら",
    "cells": {
     "read": [
+     "engagement-ring-commitment-signal-research",
      "marriage-compatibility-research",
-     "premarital-doubts-cold-feet-research"
+     "premarital-doubts-cold-feet-research",
+     "partners-family-cohesion-marriage-satisfaction-research"
     ],
     "why": [
      "mate-preference-gender-difference-research",
      "age-gap-marriage-satisfaction-research",
      "premarital-cohabitation-divorce-risk-research",
-     "marriage-satisfaction-u-curve-myth-research"
+     "marriage-satisfaction-u-curve-myth-research",
+     "household-chores-fairness-conflict-research"
     ],
     "act": [
+     "sliding-vs-deciding-commitment-research",
      "marriage-compatibility-research",
-     "money-talk-before-marriage-cohabitation-research"
+     "money-talk-before-marriage-cohabitation-research",
+     "household-chores-fairness-conflict-research"
     ],
     "after": [
      "couple-therapy-relationship-education-effectiveness-research",
@@ -442,10 +489,12 @@
      "https://umbra.seadice.win/redflag-check/"
     ],
     "act": [
-     "early-relationship-red-flag-slow-down-research"
+     "early-relationship-red-flag-slow-down-research",
+     "romance-scam-money-request-before-meeting-research"
     ],
     "after": [
-     "self-blame-after-harmful-relationship-research"
+     "self-blame-after-harmful-relationship-research",
+     "romance-scam-aftermath-shame-recovery-research"
     ]
    }
   },
@@ -518,7 +567,8 @@
      "how-to-break-up-less-hurt-research"
     ],
     "read": [
-     "breakup-distress-when-to-seek-help-research"
+     "breakup-distress-when-to-seek-help-research",
+     "rebound-relationship-after-breakup-research"
     ]
    }
   },
@@ -530,13 +580,15 @@
      "on-again-off-again-reconciliation-research"
     ],
     "act": [
-     "reconciliation-success-rate-research"
+     "reconciliation-success-rate-research",
+     "reconciliation-contact-pursuit-limits-research"
     ],
     "read": [
      "reconcile-or-not-signs-research"
     ],
     "after": [
-     "letting-go-after-failed-reconciliation-research"
+     "letting-go-after-failed-reconciliation-research",
+     "reconciliation-anxiety-reassurance-seeking-research"
     ]
    }
   },

@@ -23,7 +23,8 @@
     "bedtime-screen-sleep",
     "father-involvement-child-development",
     "daycare-age-0-1-child-development",
-    "new-baby-older-sibling-regression"
+    "new-baby-older-sibling-regression",
+    "parent-burnout-taking-it-out-on-child"
    ]
   },
   {
@@ -37,6 +38,7 @@
     "幼い子ほどAIを人のように感じやすいため、AIスピーカーやAIのおもちゃは大人と一緒に使うのが安心です。"
    ],
    "slugs": [
+    "child-friend-trouble-parent-intervene",
     "toddler-screen-stop-crying-self-regulation",
     "youtube-more-please-how-to-say-no",
     "tablet-vs-tv-self-control",
@@ -51,7 +53,9 @@
     "sibling-fight-parent-mediation",
     "handwriting-messy-tablet-vs-pencil",
     "daycare-age-0-1-child-development",
-    "new-baby-older-sibling-regression"
+    "new-baby-older-sibling-regression",
+    "parents-argument-in-front-of-child",
+    "parent-burnout-taking-it-out-on-child"
    ]
   },
   {
@@ -65,6 +69,11 @@
     "将来の夢や習い事は、この時期に変わるのが普通です。決まっていなくても心配しすぎる必要はありません。"
    ],
    "slugs": [
+    "child-stopped-reading-books-school-level",
+    "school-refusal-games-smartphone-taking-away",
+    "homework-procrastination-elementary",
+    "ai-overreliance-child-stop-thinking",
+    "child-friend-trouble-parent-intervene",
     "homework-ai-thinking-skills",
     "ai-book-report-homework-help",
     "homework-media-multitasking",
@@ -105,7 +114,13 @@
     "elementary-homework-time-how-long",
     "older-sibling-hitting-sibling-bullying",
     "child-few-friends-alone",
-    "text-to-speech-struggling-reader"
+    "text-to-speech-struggling-reader",
+    "yelled-at-child-apology-repair",
+    "parents-argument-in-front-of-child",
+    "child-disabled-smartphone-filtering",
+    "game-cero-age-rating-follow",
+    "sns-age-limit-by-service",
+    "parent-burnout-taking-it-out-on-child"
    ]
   },
   {
@@ -119,6 +134,10 @@
     "受験勉強でのAIは、答えを任せきりにせず、自分で考えたあとの確認に使うのが基本です。"
    ],
    "slugs": [
+    "child-stopped-reading-books-school-level",
+    "school-refusal-games-smartphone-taking-away",
+    "ai-overreliance-child-stop-thinking",
+    "child-friend-trouble-parent-intervene",
     "junior-high-smartphone-rules-rebellion",
     "smartphone-overuse-rules-reset",
     "adolescent-parent-conversation-decline",
@@ -153,7 +172,13 @@
     "sns-trouble-first-steps-parents",
     "secret-sns-account-junior-high",
     "older-sibling-hitting-sibling-bullying",
-    "child-few-friends-alone"
+    "child-few-friends-alone",
+    "yelled-at-child-apology-repair",
+    "child-disabled-smartphone-filtering",
+    "game-cero-age-rating-follow",
+    "sns-age-limit-by-service",
+    "child-says-uzai-teen-rebellion-how-long",
+    "weekend-sleep-in-catch-up-teen"
    ]
   }
  ]

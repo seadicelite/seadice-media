@@ -26,5 +26,17 @@
   {
     "slug": "deepfake-video-human-detection",
     "date": "2026-10-04"
+  },
+  {
+    "slug": "ai-answer-fact-check",
+    "date": "2026-11-16"
+  },
+  {
+    "slug": "self-name-search-check",
+    "date": "2026-11-16"
+  },
+  {
+    "slug": "reverse-image-search-check",
+    "date": "2026-11-16"
   }
 ]
