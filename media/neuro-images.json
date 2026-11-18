@@ -1426,5 +1426,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gfp-red-fabric-texture.jpg/500px-Gfp-red-fabric-texture.jpg",
   "og": "https://neuro.seadice.win/img/red-color-effect-og.jpg",
   "local": true
+ },
+ "tell-your-goals": {
+  "file": "File:Pencil shavings on a notebook (Unsplash).jpg",
+  "src": "/img/tell-your-goals.webp",
+  "src640": "/img/tell-your-goals-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "開いたノートと鉛筆",
+  "artist": "Angelina Litvin linalitvina",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Pencil_shavings_on_a_notebook_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg/960px-Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg/500px-Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg",
+  "og": "https://neuro.seadice.win/img/tell-your-goals-og.jpg",
+  "local": true
  }
 }
