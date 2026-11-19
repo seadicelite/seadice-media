@@ -989,5 +989,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Honey_dipper.jpg/960px-Honey_dipper.jpg",
   "og": "https://senbei.seadice.win/img/sugar-type-senbei-browning.jpg",
   "local": true
+ },
+ "low-salt-taste-adapt-myth": {
+  "file": "File:Salt and peppers mix in wooden spoons (Unsplash).jpg",
+  "src": "/img/low-salt-taste-adapt-myth.jpg",
+  "src640": "/img/low-salt-taste-adapt-myth-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のスプーンにのせた塩とこしょう",
+  "artist": "Mira Bozhko miroslava",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Salt_and_peppers_mix_in_wooden_spoons_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Salt_and_peppers_mix_in_wooden_spoons_%28Unsplash%29.jpg/960px-Salt_and_peppers_mix_in_wooden_spoons_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Salt_and_peppers_mix_in_wooden_spoons_%28Unsplash%29.jpg/500px-Salt_and_peppers_mix_in_wooden_spoons_%28Unsplash%29.jpg",
+  "og": "https://senbei.seadice.win/img/low-salt-taste-adapt-myth.jpg",
+  "local": true
  }
 }
