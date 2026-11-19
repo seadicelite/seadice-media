@@ -1512,5 +1512,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Opening_chess_position_from_black_side.jpg/500px-Opening_chess_position_from_black_side.jpg",
   "og": "https://hanzai.seadice.win/img/machiavellianism-manipulation-skill.jpg",
   "local": true
+ },
+ "guilt-vs-shame-recidivism": {
+  "file": "File:Cell Door Peephole at Stasi Prison.jpg",
+  "src": "/img/guilt-vs-shame-recidivism.jpg",
+  "src640": "/img/guilt-vs-shame-recidivism-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "刑務所の独房の扉",
+  "artist": "Sue Gardner",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cell_Door_Peephole_at_Stasi_Prison.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cell_Door_Peephole_at_Stasi_Prison.jpg/960px-Cell_Door_Peephole_at_Stasi_Prison.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cell_Door_Peephole_at_Stasi_Prison.jpg/500px-Cell_Door_Peephole_at_Stasi_Prison.jpg",
+  "og": "https://hanzai.seadice.win/img/guilt-vs-shame-recidivism.jpg",
+  "unconverted": true,
+  "local": true
  }
 }
