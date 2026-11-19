@@ -60,7 +60,7 @@
 - [これは恋なのか、執着なのか。情熱的な恋と「のめり込み（リメランス）」を見分ける研究](https://umbra.seadice.win/love-vs-infatuation-limerence-research/): 頭から離れないだけでは執着と決まらない。気持ちの中身・相手の反応・生活への支障で恋とのめり込みを見分ける研究。
 - [好きな人に好かれたとたん冷めるのはなぜ？「蛙化現象」の本来の意味と、研究でわかっていること](https://umbra.seadice.win/kaeruka-losing-interest-when-liked-research/): 蛙化現象の本来の意味と今の使い方の違い、約3割が経験する実態、自己肯定感だけでは説明できない理由と向き合い方
 - [好きなのか、寂しいだけなのか。「ひとりになる不安」と相手選びの研究](https://umbra.seadice.win/fear-of-being-single-settling-research/): ひとりになる不安が強い人ほど、関心の薄い相手にも惹かれやすく、満たされない関係を終わらせにくいという研究がある。
-- [同じタイプを好きになり、同じ失敗をくり返すのはなぜ？恋愛パターンの研究と立て直し方](https://umbra.seadice.win/same-type-repeating-relationship-pattern-research/): 元恋人と今の恋人の性格は似やすい一方、554人の調査では次の関係で相手への尊敬が上がり、結末は同じとは限らなかった。
+- [同じタイプを好きになり、同じ失敗をくり返すのはなぜ？恋愛パターンの研究と立て直し方](https://umbra.seadice.win/same-type-repeating-relationship-pattern-research/): 元恋人と今の恋人の性格は似やすい一方、554人の調査では次の関係で相手への尊敬などが上がっていた。
 - [息が合う人とは、心拍まで同じになるのか。心拍・汗の「生理的シンクロ」を研究で確かめる](https://umbra.seadice.win/heart-rate-synchrony-attraction-research/): 初対面のデートでは心拍と汗の同期が惹かれやすさに関連。だが同期は仲の良さに比例せず、初対面の他人同士でも起きていた
 
 #### 告白・デートの悩み
@@ -195,7 +195,7 @@
 
 - [同棲後に家事の分担でもめやすいのはなぜか。家事の公平感と関係満足度の研究](https://umbra.seadice.win/household-chores-fairness-conflict-research/): 家事の揉め事は時間の差でなく公平感の差から。10,236人の調査などから、もめやすい理由と対処法を読み解く。
 - [相手の家族仲が良いと、結婚相手として安心できるのか。育った家庭と後の関係の研究](https://umbra.seadice.win/partners-family-cohesion-marriage-satisfaction-research/): 421人の調査では、親の関係の良さと本人の関係満足度に弱い相関(r=.21)があったが、言い切れる根拠はまだ乏しい。
-- [付き合う前の「様子見」は、長いほうが後悔しないのか。「決める」と「流される」の研究](https://umbra.seadice.win/sliding-vs-deciding-commitment-research/): 期間の長さと満足度の関連は弱く、婚約前になんとなく同居した人ほど離婚を本気で考えた割合が高かった。
+- [付き合う前の「様子見」は、長いほうが後悔しないのか。「決める」と「流される」の研究](https://umbra.seadice.win/sliding-vs-deciding-commitment-research/): 期間の長さと満足度の関連は弱く、婚約前に同居を始めた人は、結婚まで同居しなかった人より離婚を持ち出した割合が高かった。
 - [婚約指輪や結婚指輪は、本気度のサインになるのか。指輪と結婚への意思表示の研究](https://umbra.seadice.win/engagement-ring-commitment-signal-research/): 指輪の値段は収入や年齢と関係し、婚約を示すサインがあっても女性からの評価は変わらなかった。指輪より婚約の区切りに注目した研究を整理。
 - [結婚前に確認したいこと：長続きする関係を予測する研究](https://umbra.seadice.win/marriage-compatibility-research/): 43の追跡研究が示した、関係の質を予測する要素と、話し合っておきたい3つのこと。
 - [結婚相手に求める条件は男女で違うのか。配偶者選びの国際調査でわかったこと](https://umbra.seadice.win/mate-preference-gender-difference-research/): 45カ国の大規模調査では男女差が確認されたが、周りの環境で変わり、実際のスピードデートでは差がほとんど見られなかった。
