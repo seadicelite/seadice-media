@@ -509,5 +509,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bonobo_%28Pan_paniscus%29_at_Lola_Ya_Bonobo_-_3.JPG/960px-Bonobo_%28Pan_paniscus%29_at_Lola_Ya_Bonobo_-_3.JPG",
   "og": "https://shinka.seadice.win/img/laughter-origin.jpg",
   "local": true
+ },
+ "human-chimp-dna": {
+  "file": "File:013 Alpha male chimpanzee at Kibale forest National Park Photo by Giles Laurent.jpg",
+  "src": "/img/human-chimp-dna.jpg",
+  "src640": "/img/human-chimp-dna-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "森の中で座る野生のおすのチンパンジー（ウガンダのキバレ森林国立公園で撮影）",
+  "artist": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:013_Alpha_male_chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/013_Alpha_male_chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/960px-013_Alpha_male_chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/013_Alpha_male_chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/500px-013_Alpha_male_chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "og": "https://shinka.seadice.win/img/human-chimp-dna.jpg",
+  "local": true
  }
 }
