@@ -1,4 +1,22 @@
 {
+ "security-camera-neighborhood-ties-effect": {
+  "file": "File:CCTV is watching you - geograph.org.uk - 4394886.jpg",
+  "src": "/img/cctv-crime-prevention-research.webp",
+  "src640": "/img/cctv-crime-prevention-research-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "住宅街に設置された防犯カメラ",
+  "artist": "James Allan",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg/960px-CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg/500px-CCTV_is_watching_you_-_geograph.org.uk_-_4394886.jpg",
+  "og": "https://bohan.seadice.win/img/cctv-crime-prevention-research-og.jpg",
+  "local": true,
+  "reused_from": "cctv-crime-prevention-research"
+ },
  "burglar-target-selection-5-minutes": {
   "file": "File:Door lock.jpg",
   "src": "/img/burglar-target-selection-5-minutes.webp",
