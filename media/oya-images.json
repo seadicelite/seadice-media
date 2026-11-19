@@ -1260,5 +1260,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZAZ-1103_Slavuta_front_seats_and_dashboard_interior_view.jpg/500px-ZAZ-1103_Slavuta_front_seats_and_dashboard_interior_view.jpg",
   "og": "https://oya.seadice.win/img/parent-driving-with-passenger-og.jpg",
   "local": true
+ },
+ "parent-saying-too-old": {
+  "file": "File:Black Japanese teapot and gyokuro.jpg",
+  "w": 960,
+  "h": 640,
+  "artist": "Markus Kniebes",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Black_Japanese_teapot_and_gyokuro.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Black_Japanese_teapot_and_gyokuro.jpg/960px-Black_Japanese_teapot_and_gyokuro.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Black_Japanese_teapot_and_gyokuro.jpg/500px-Black_Japanese_teapot_and_gyokuro.jpg",
+  "src": "/img/parent-saying-too-old.webp",
+  "src640": "/img/parent-saying-too-old-sm.webp",
+  "og": "https://oya.seadice.win/img/parent-saying-too-old-og.jpg",
+  "local": true,
+  "alt": "茶葉の入った黒い急須と、緑茶の入った白い湯のみ"
  }
 }
