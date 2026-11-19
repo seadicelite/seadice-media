@@ -2192,8 +2192,8 @@
  },
  "subscription-paygo-monthly-limit-calculator": {
   "file": "File:Catalogue number 56 from Malmesbury Hoard (FindID 521848).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Catalogue_number_56_from_Malmesbury_Hoard_%28FindID_521848%29.jpg/960px-Catalogue_number_56_from_Malmesbury_Hoard_%28FindID_521848%29.jpg",
-  "src640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Catalogue_number_56_from_Malmesbury_Hoard_%28FindID_521848%29.jpg/500px-Catalogue_number_56_from_Malmesbury_Hoard_%28FindID_521848%29.jpg",
+  "src": "/img/subscription-paygo-monthly-limit-calculator.jpg",
+  "src640": "/img/subscription-paygo-monthly-limit-calculator-sm.jpg",
   "w": 960,
   "h": 485,
   "alt": "出土した古代のコイン",
@@ -2201,7 +2201,12 @@
   "license": "CC BY-SA 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Catalogue_number_56_from_Malmesbury_Hoard_(FindID_521848).jpg",
-  "source_label": "Wikimedia Commons"
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Catalogue_number_56_from_Malmesbury_Hoard_%28FindID_521848%29.jpg/960px-Catalogue_number_56_from_Malmesbury_Hoard_%28FindID_521848%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Catalogue_number_56_from_Malmesbury_Hoard_%28FindID_521848%29.jpg/500px-Catalogue_number_56_from_Malmesbury_Hoard_%28FindID_521848%29.jpg",
+  "og": "https://ledger.seadice.win/img/subscription-paygo-monthly-limit-calculator.jpg",
+  "local": true
  },
  "purchase-letdown-reflection-steps": {
   "file": "File:Augustus Leopold Egg - The Travelling Companions - Google Art Project.jpg",
@@ -2218,6 +2223,24 @@
   "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augustus_Leopold_Egg_-_The_Travelling_Companions_-_Google_Art_Project.jpg/960px-Augustus_Leopold_Egg_-_The_Travelling_Companions_-_Google_Art_Project.jpg",
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augustus_Leopold_Egg_-_The_Travelling_Companions_-_Google_Art_Project.jpg/500px-Augustus_Leopold_Egg_-_The_Travelling_Companions_-_Google_Art_Project.jpg",
   "og": "https://ledger.seadice.win/img/happy-spending-pre-purchase-checklist-og.jpg",
+  "local": true
+ },
+ "money-worry-excessive-self-check": {
+  "file": "File:Yen 2.jpg",
+  "src": "/img/money-worry-excessive-self-check.jpg",
+  "src640": "/img/money-worry-excessive-self-check-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "テーブルに置かれた日本の硬貨",
+  "artist": "Astelus",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Yen_2.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yen_2.jpg/960px-Yen_2.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yen_2.jpg/500px-Yen_2.jpg",
+  "og": "https://ledger.seadice.win/img/money-worry-excessive-self-check-og.jpg",
   "local": true
  }
 }
