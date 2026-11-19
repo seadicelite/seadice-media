@@ -1443,5 +1443,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg/500px-Pencil_shavings_on_a_notebook_%28Unsplash%29.jpg",
   "og": "https://neuro.seadice.win/img/tell-your-goals-og.jpg",
   "local": true
+ },
+ "reading-speed": {
+  "file": "File:Purple reading glasses are placed on an open book showcasing detailed definitions and text.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "開いた本の上に置かれた読書用の眼鏡",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg/960px-Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg/500px-Purple_reading_glasses_are_placed_on_an_open_book_showcasing_detailed_definitions_and_text.jpg",
+  "src": "/img/reading-speed.webp",
+  "src640": "/img/reading-speed-sm.webp",
+  "og": "https://neuro.seadice.win/img/reading-speed-og.jpg",
+  "local": true
  }
 }
