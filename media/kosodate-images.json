@@ -1700,5 +1700,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Classic_alarm_clock_20180513.jpg/500px-Classic_alarm_clock_20180513.jpg",
   "og": "https://kosodate.seadice.win/img/weekend-sleep-in-catch-up-teen.jpg",
   "local": true
+ },
+ "job-transfer-school-change-child-impact": {
+  "file": "File:Lorain High School hallway.jpg",
+  "src": "/img/bullying-long-term-effects-parent-support.webp",
+  "src640": "/img/bullying-long-term-effects-parent-support-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "人のいない学校の廊下",
+  "artist": "Matt Dempsey",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lorain_High_School_hallway.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lorain_High_School_hallway.jpg/960px-Lorain_High_School_hallway.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lorain_High_School_hallway.jpg/500px-Lorain_High_School_hallway.jpg",
+  "og": "https://kosodate.seadice.win/img/bullying-long-term-effects-parent-support-og.jpg",
+  "local": true
  }
 }
