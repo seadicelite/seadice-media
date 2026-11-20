@@ -78,6 +78,7 @@
 - [ノージックの「経験機械」とは？ 幸せな体験だけで人生は満たされるか](https://tetsugaku.seadice.win/nozick-experience-machine/): 望む体験を何でも味わえる機械に一生つながれたいか。多くの人がためらうなら、快い体験だけが幸福の中身ではないことになる。
 - [ロールズの「無知のヴェール」とは？ 公正な社会を選ぶための思考実験](https://tetsugaku.seadice.win/rawls-veil-of-ignorance/): 自分の立場を知らないまま社会のルールを選ぶ思考実験。ロールズは、最も不遇な人に配慮する原理が選ばれると考えた。
 - [ルソーの「一般意志」とは？「人間は自由に生まれた」から始まる社会契約論](https://tetsugaku.seadice.win/rousseau-general-will/): 一般意志は、個人の利益の合計（全体意志）ではなく、共通の利益だけをめざす意志。ルソーは主権を人々自身に置いた。
+- [チャールズ・テイラーの「本来性（オーセンティシティ）」とは？ 自分らしく生きるとは何か](https://tetsugaku.seadice.win/taylor-ethics-of-authenticity/): 「自分らしく生きる」は自分勝手ではない。テイラーが守ろうとした近代の理想と、対話と「意味の地平」が要る理由。
 - [トロッコ問題とは？何を明らかにするための思考実験なのか](https://tetsugaku.seadice.win/trolley-problem-thought-experiment/): レバーはOK、突き落とすのはNG。判断が割れるトロッコ問題の正体を解説します。
 - [功利主義とは？「最大多数の最大幸福」の意味と落とし穴](https://tetsugaku.seadice.win/utilitarianism-greatest-happiness/): 「最大多数の最大幸福」は少数者を犠牲にしかねない。ベンサムとミルの功利主義を解説します。
 

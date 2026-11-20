@@ -1460,5 +1460,23 @@
   "src640": "/img/reading-speed-sm.webp",
   "og": "https://neuro.seadice.win/img/reading-speed-og.jpg",
   "local": true
+ },
+ "reminder-effect-numbers": {
+  "file": "File:Morning setting with a banana, vintage clock, and smartphone on a table during bright daylight.jpg",
+  "src": "/img/reminder-effect-numbers.jpg",
+  "src640": "/img/reminder-effect-numbers-sm.jpg",
+  "w": 960,
+  "h": 641,
+  "alt": "テーブルに置かれた時計とスマートフォン",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Morning_setting_with_a_banana,_vintage_clock,_and_smartphone_on_a_table_during_bright_daylight.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Morning_setting_with_a_banana%2C_vintage_clock%2C_and_smartphone_on_a_table_during_bright_daylight.jpg/960px-Morning_setting_with_a_banana%2C_vintage_clock%2C_and_smartphone_on_a_table_during_bright_daylight.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Morning_setting_with_a_banana%2C_vintage_clock%2C_and_smartphone_on_a_table_during_bright_daylight.jpg/500px-Morning_setting_with_a_banana%2C_vintage_clock%2C_and_smartphone_on_a_table_during_bright_daylight.jpg",
+  "og": "https://neuro.seadice.win/img/reminder-effect-numbers.jpg",
+  "local": true
  }
 }
