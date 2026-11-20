@@ -2242,5 +2242,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yen_2.jpg/500px-Yen_2.jpg",
   "og": "https://ledger.seadice.win/img/money-worry-excessive-self-check-og.jpg",
   "local": true
+ },
+ "money-worry-night-writing-tips": {
+  "file": "File:Slits in a desk lamp in Tuntorp.jpg",
+  "src": "/img/money-worry-night-writing-tips.jpg",
+  "src640": "/img/money-worry-night-writing-tips-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "夜の机の照明",
+  "artist": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Slits_in_a_desk_lamp_in_Tuntorp.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Slits_in_a_desk_lamp_in_Tuntorp.jpg/960px-Slits_in_a_desk_lamp_in_Tuntorp.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Slits_in_a_desk_lamp_in_Tuntorp.jpg/500px-Slits_in_a_desk_lamp_in_Tuntorp.jpg",
+  "og": "https://ledger.seadice.win/img/money-worry-night-writing-tips.jpg",
+  "local": true
  }
 }
