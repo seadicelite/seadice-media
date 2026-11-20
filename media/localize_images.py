@@ -11,8 +11,10 @@ images.json の src / src640 を自サイトのURLに置き換え、元のURLは
 import io
 import json
 import re
+import subprocess
 import sys
 import time
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -26,9 +28,17 @@ UA = "SEADICE-media/1.0 (https://seadice.win/; hi@seadice.win)"
 
 
 def fetch(url):
+    """urllib がダメなら curl にフォールバックする(共有の egress proxy 経由だと、同じURL・同じUAでも
+    urllib(HTTP/1.1)だけ 429 を返し、curl(HTTP/2)は通ることがあるため。2026-11-20〜)。"""
     req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return r.read()
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return r.read()
+    except urllib.error.HTTPError as e:
+        if e.code != 429:
+            raise
+        out = subprocess.run(["curl", "-fsS", "-A", UA, "--max-time", "30", url], capture_output=True, check=True)
+        return out.stdout
 
 
 def save_webp(im, path, max_w):

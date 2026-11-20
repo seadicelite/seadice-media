@@ -219,7 +219,8 @@
     "prevent": [
      "safe-school-route-environment",
      "child-home-alone-safety-rules",
-     "child-stranger-approach-after-school"
+     "child-stranger-approach-after-school",
+     "kodomo-110-safe-house-effectiveness"
     ],
     "notice": [],
     "after": [
