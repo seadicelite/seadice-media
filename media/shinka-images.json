@@ -527,5 +527,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/013_Alpha_male_chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/500px-013_Alpha_male_chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
   "og": "https://shinka.seadice.win/img/human-chimp-dna.jpg",
   "local": true
+ },
+ "convergent-evolution": {
+  "file": "File:Paralithodes camtschaticus, 1.jpg",
+  "src": "/img/convergent-evolution.jpg",
+  "src640": "/img/convergent-evolution-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "海底の岩の上を歩く生きたタラバガニ（まわりにウニが見える）",
+  "artist": "Sasha Isachenko",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Paralithodes_camtschaticus,_1.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Paralithodes_camtschaticus%2C_1.jpg/960px-Paralithodes_camtschaticus%2C_1.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Paralithodes_camtschaticus%2C_1.jpg/500px-Paralithodes_camtschaticus%2C_1.jpg",
+  "og": "https://shinka.seadice.win/img/convergent-evolution.jpg",
+  "local": true
  }
 }
