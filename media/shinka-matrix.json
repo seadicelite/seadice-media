@@ -67,7 +67,9 @@
       "id": "mechanism",
       "label": "進化のしくみ",
       "cells": {
-        "what": [],
+        "what": [
+          "convergent-evolution"
+        ],
         "how": [
           "natural-selection-finches"
         ],
