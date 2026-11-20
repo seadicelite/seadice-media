@@ -1655,5 +1655,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/The_bike_is_secured_with_a_U_lock._Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg/500px-The_bike_is_secured_with_a_U_lock._Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg",
   "og": "https://bohan.seadice.win/img/bicycle-lock-damaged-attempted-theft.jpg",
   "local": true
+ },
+ "kodomo-110-safe-house-effectiveness": {
+  "file": "File:Kiyama Keyakidai residential area.jpg",
+  "src": "/img/kodomo-110-safe-house-effectiveness.jpg",
+  "src640": "/img/kodomo-110-safe-house-effectiveness-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "住宅が並ぶ住宅街の通り",
+  "artist": "Peka",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kiyama_Keyakidai_residential_area.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kiyama_Keyakidai_residential_area.jpg/960px-Kiyama_Keyakidai_residential_area.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kiyama_Keyakidai_residential_area.jpg/500px-Kiyama_Keyakidai_residential_area.jpg",
+  "og": "https://bohan.seadice.win/img/kodomo-110-safe-house-effectiveness.jpg",
+  "local": true
  }
 }
