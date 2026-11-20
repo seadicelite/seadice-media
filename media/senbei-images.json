@@ -1007,5 +1007,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Salt_and_peppers_mix_in_wooden_spoons_%28Unsplash%29.jpg/500px-Salt_and_peppers_mix_in_wooden_spoons_%28Unsplash%29.jpg",
   "og": "https://senbei.seadice.win/img/low-salt-taste-adapt-myth.jpg",
   "local": true
+ },
+ "fried-senbei-oil-crispness-myth": {
+  "file": "File:DFC 4207 Golden-fried savory fritters sizzling in a large pan freshly scooped with a wire skimmer.jpg",
+  "src": "/img/fried-senbei-oil-crispness-myth.jpg",
+  "src640": "/img/fried-senbei-oil-crispness-myth-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "大きな鍋の油で揚がる揚げ物",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DFC_4207_Golden-fried_savory_fritters_sizzling_in_a_large_pan_freshly_scooped_with_a_wire_skimmer.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DFC_4207_Golden-fried_savory_fritters_sizzling_in_a_large_pan_freshly_scooped_with_a_wire_skimmer.jpg/960px-DFC_4207_Golden-fried_savory_fritters_sizzling_in_a_large_pan_freshly_scooped_with_a_wire_skimmer.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DFC_4207_Golden-fried_savory_fritters_sizzling_in_a_large_pan_freshly_scooped_with_a_wire_skimmer.jpg/500px-DFC_4207_Golden-fried_savory_fritters_sizzling_in_a_large_pan_freshly_scooped_with_a_wire_skimmer.jpg",
+  "og": "https://senbei.seadice.win/img/fried-senbei-oil-crispness-myth.jpg",
+  "local": true
  }
 }
