@@ -3326,5 +3326,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hiker_at_the_summit_of_Ryan_Mountain_%2838295653594%29.jpg/500px-Hiker_at_the_summit_of_Ryan_Mountain_%2838295653594%29.jpg",
   "og": "https://umbra.seadice.win/img/confident-people-attraction-why-research.jpg",
   "local": true
+ },
+ "couple-talking-time-vs-activities-research": {
+  "file": "File:Young couple sitting apart on park bench.jpg",
+  "src": "/img/couple-talking-time-vs-activities-research.jpg",
+  "src640": "/img/couple-talking-time-vs-activities-research-sm.jpg",
+  "w": 960,
+  "h": 624,
+  "alt": "公園のベンチで話す様子",
+  "artist": "Elizabeth Ashley Jerman",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Young_couple_sitting_apart_on_park_bench.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Young_couple_sitting_apart_on_park_bench.jpg/960px-Young_couple_sitting_apart_on_park_bench.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Young_couple_sitting_apart_on_park_bench.jpg/500px-Young_couple_sitting_apart_on_park_bench.jpg",
+  "og": "https://umbra.seadice.win/img/couple-talking-time-vs-activities-research.jpg",
+  "local": true
  }
 }
