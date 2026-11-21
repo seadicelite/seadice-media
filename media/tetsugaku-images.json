@@ -1139,5 +1139,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Zagedan_Lakes%2C_Mountain_cirque%2C_Caucasus_Mountains.jpg/500px-Zagedan_Lakes%2C_Mountain_cirque%2C_Caucasus_Mountains.jpg",
   "og": "https://tetsugaku.seadice.win/img/taylor-ethics-of-authenticity-og.jpg",
   "local": true
+ },
+ "berlin-two-concepts-of-liberty": {
+  "file": "File:Sunrise over sea horizon.jpg",
+  "src": "/img/berlin-two-concepts-of-liberty.webp",
+  "src640": "/img/berlin-two-concepts-of-liberty-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "海の水平線から昇る朝日",
+  "artist": "Anton Vakulenko",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunrise_over_sea_horizon.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sunrise_over_sea_horizon.jpg/960px-Sunrise_over_sea_horizon.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sunrise_over_sea_horizon.jpg/500px-Sunrise_over_sea_horizon.jpg",
+  "og": "https://tetsugaku.seadice.win/img/berlin-two-concepts-of-liberty-og.jpg",
+  "local": true
  }
 }
