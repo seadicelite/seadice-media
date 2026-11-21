@@ -3380,5 +3380,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Old_Victorian_Gas_Lamp%2C_Barking_-_geograph.org.uk_-_3265642.jpg/500px-Old_Victorian_Gas_Lamp%2C_Barking_-_geograph.org.uk_-_3265642.jpg",
   "og": "https://umbra.seadice.win/img/gaslighting-why-doubt-own-memory-research.jpg",
   "local": true
+ },
+ "jealousy-satisfaction-through-trust-research": {
+  "file": "File:Padlock and chain 0675.jpg",
+  "src": "/img/jealousy-satisfaction-through-trust-research.jpg",
+  "src640": "/img/jealousy-satisfaction-through-trust-research-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "鍵のかかった鎖",
+  "artist": "Dori",
+  "license": "CC BY 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Padlock_and_chain_0675.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Padlock_and_chain_0675.jpg/960px-Padlock_and_chain_0675.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Padlock_and_chain_0675.jpg/500px-Padlock_and_chain_0675.jpg",
+  "og": "https://umbra.seadice.win/img/jealousy-satisfaction-through-trust-research.jpg",
+  "local": true
  }
 }
