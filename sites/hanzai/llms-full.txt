@@ -3649,6 +3649,9 @@ URL: https://hanzai.seadice.win/full-moon-crime-myth/
 
 - それでも、質問票を送った325人のうち43%が「月は人の行動を変える」と信じていた。目立つ夜だけを覚える心の癖が、俗説を支えていると考えられている。
 
+この記事と一緒に使える
+Webツール・登録不要・無料自宅の防犯チェック犯罪学の4原則で、戸締まり・見通し・手入れ・被害後の備えを18項目で見直す使ってみるiPhoneアプリ・無料・広告なし認知バイアス確証バイアス・同調など80種類の認知バイアスを、例・対策・もとになった研究つきで解説App Storeで見る犯罪と心理のツールとアプリをすべて見る
+
 ## 01 どんな心の仕組みが働いているのかなぜ「満月の夜は荒れる」と信じられてきた？
 
 月の引力が体の水分を動かすという説や、月明かりの説が唱えられてきました。ただし俗説が続く大きな理由は、目立つ出来事だけを覚える心の癖だと考えられています。
@@ -3764,6 +3767,8 @@ A. いくつかあります。オーストラリアの救急外来の研究で�
 
 Q. なぜ「満月の夜は荒れる」と感じる人が多いのですか？
 A. 目立つ出来事だけを覚えやすい心の癖が関係していると考えられています。満月の夜に忙しかった日は「やっぱり満月だ」と記憶に残り、満月なのに静かだった日や、満月でないのに忙しかった日は忘れられやすいためです。
+
+読んだ記事にするもう一度読みたい
 
 ## SOURCES
 
@@ -10141,7 +10146,7 @@ URL: https://hanzai.seadice.win/victim-impact-statement-sentencing/
 
 - 模擬実験では、陳述そのものの有無より「被害をどれだけ深刻に語るか」で被告への見方が変わりやすかった。
 
-- カナダの実際の判決1,332件では、事件の重さをそろえると陳述の有無と刑の関係は消えた。口頭で読み上げた場合と、陳述が複数あった場合は刑が長かった。
+- カナダの実際の判決1,332件では、罪の種類をそろえると陳述の有無と刑の関係は消えた。口頭で読み上げた場合と、陳述が複数あった場合は刑が長かった。
 
 この記事と一緒に使える
 Webツール・登録不要・無料判断のくせを体験する損失回避・言い方で変わる選択など10問。答えてから研究の結果と比べられる使ってみるiPhoneアプリ・無料・広告なし認知バイアス確証バイアス・同調など80種類の認知バイアスを、例・対策・もとになった研究つきで解説App Storeで見る犯罪と心理のツールとアプリをすべて見る
@@ -10166,7 +10171,7 @@ Wevodau ら（2014）は性犯罪の模擬裁判で、この仕組みを確か�
 
 36件意見陳述の効果を調べた研究のまとめ（実験31件・判決記録の研究5件。2021年発表）
 
-1,332件カナダの実際の判決（2016〜2018年）を分析した数。事件の重さをそろえると、陳述の有無と刑は無関係だった
+1,332件カナダの実際の判決（2016〜2018年）を分析した数。罪の種類をそろえると、陳述の有無と刑は無関係だった
 
 881人陳述の「被害の深さ」を変えた、米国の研究チームによる4つの実験の参加者の合計（2024年発表）
 
@@ -10190,7 +10195,7 @@ Kunst, de Groot, Meester & van Doorn（2021）[1]
 
 Skorinko ら（2024）[2]
 
-4つの実験で、遺族の陳述が「被害が深い」か「浅い」かを変えた。被害を深く語る陳述を読んだ人は、被告をより責めるべきだと見る傾向があり、実験3と4では死刑を選ぶ人が増えた。ただし実験1では、刑の選択に差は出なかった。陪審員に「被告の立場で考えて」と促す効果は、ほとんど見られなかった。
+4つの実験で、遺族の陳述が「被害が深い」か「浅い」かを変えた。実験1と2では、被害を深く語る陳述を読んだ人ほど、被告をより責めるべきだと見た。実験3と4では、死刑を選ぶ人が増えた。ただし実験1では、刑の選択に差は出なかった。陪審員に「被告の立場で考えて」と促す効果は、ほとんど見られなかった。
 
 対象: 主に米国のオンライン参加者と大学生、計881人 ／ 限界: 文章を読むだけの実験で、陪審での話し合いはない。比べたのは陳述の深さで、陳述の有無ではない。
 
@@ -10205,7 +10210,7 @@ Dufour, Ternes & Stinson（2023）[7]
 単純ではありません。刑の重さを最も強く決めたのは事件そのものの重さで、語られた被害の深さは刑に表れなかった実験もあります。誰が語るかで結果が変わった実験もあります。
 
 MYTH / 思い込み被害の深刻さを強く語るほど、聞いた人は刑を重くする。
-FACT / 研究ではオランダの大学生214人の実験では、刑の重さを決めたのは事件の重さだけで、陳述で語られた被害の深さは刑の判断を変えなかった[6]。ただし被害を深く語った被害者は、全体の印象が低めに評価された。
+FACT / 研究ではオランダの研究チームによる大学生214人の実験では、刑の重さを決めたのは事件の重さだけで、陳述で語られた被害の深さは刑の判断を変えなかった[6]。ただし被害を深く語った被害者は、全体の印象が低めに評価された。
 
 MYTH / 思い込み被害者に最も近い家族の言葉が、いちばん刑を重くする。
 FACT / 研究では陪審員の資格がある120人の実験では、刑が重くなったのは同僚の陳述だけだった[4]。参加者は妻の苦しみを最も深いと評価したが、それは刑の重さに結びつかなかった。
@@ -10228,7 +10233,7 @@ FACT / 研究では死刑事件の模擬実験で、被害者が中流層だと�
 ## 05 よくある質問
 
 Q. 被害者の意見陳述で、刑は重くなるのですか？
-A. 条件しだいです。36研究のまとめでは、刑期を決める模擬実験の7件中5件で刑が重くなりましたが、死刑かどうかを決める実験では24件中7件でしか差が出ませんでした。実際の判決記録を調べた研究では、事件の重さをそろえると陳述の有無と刑の関係は見られませんでした。
+A. 条件しだいです。36研究のまとめでは、刑期を決める模擬実験の7件中5件で刑が重くなりましたが、死刑かどうかを決める実験では24件中7件でしか差が出ませんでした。実際の判決記録を調べた研究では、罪の種類をそろえると陳述の有無と刑の関係は見られませんでした。
 
 Q. 意見陳述の内容によって、影響は変わりますか？
 A. 変わることがあります。被害の深刻さを強く語る陳述ほど、模擬陪審員が被告を重く責め、死刑を選ぶ人が増えた実験があります。一方、陳述した人が誰か、被害者の社会的な地位がどうかで判断が変わった実験もあり、裁判所が心配してきた点として議論されています。
@@ -10244,15 +10249,15 @@ A. この記事で原典を確認できた研究は、米国・カナダ・オ�
 
 - Skorinko, J. L. M., Laurent, S., Bendremer, E., et al. (2024). Victim impact statements limit the effects of perspective taking on juror decisions. Frontiers in Cognition, 3, 1430999. https://doi.org/10.3389/fcogn.2024.1430999
 
-- Wevodau, A. L., Cramer, R. J., Kehn, A., & Clark, J. W. (2014). Why the impact? Negative affective change as a mediator of the effects of victim impact statements. Journal of Interpersonal Violence, 29, 2884-2903. https://doi.org/10.1177/0886260514527170
+- Wevodau, A. L., Cramer, R. J., Kehn, A., & Clark, J. W. (2014). Why the impact? Negative affective change as a mediator of the effects of victim impact statements. Journal of Interpersonal Violence, 29(16), 2884-2903. https://doi.org/10.1177/0886260514527170
 
 - McGowan, M. G., & Myers, B. (2004). Who is the victim anyway? The effects of bystander victim impact statements on mock juror sentencing decisions. Violence and Victims, 19(3), 357-374. https://doi.org/10.1891/vivi.19.3.357.65763
 
-- Schweitzer, K., & Nuñez, N. (2017). Victim impact statements: How victim social class affects juror decision making. Violence and Victims, 32, 521-532. https://doi.org/10.1891/0886-6708.vv-d-15-00187
+- Schweitzer, K., & Nuñez, N. (2017). Victim impact statements: How victim social class affects juror decision making. Violence and Victims, 32(3), 521-532. https://doi.org/10.1891/0886-6708.vv-d-15-00187
 
-- Lens, K. M. E., van Doorn, J., Pemberton, A., Lahlah, E., & Bogaerts, S. (2017). One rule for the goose, one for the gander? Wrongfulness and harmfulness in determining reactions to offenders and victims of crime. European Journal of Criminology, 14, 183. https://doi.org/10.1177/1477370816649623
+- Lens, K. M. E., van Doorn, J., Pemberton, A., Lahlah, E., & Bogaerts, S. (2017). One rule for the goose, one for the gander? Wrongfulness and harmfulness in determining reactions to offenders and victims of crime. European Journal of Criminology, 14(2), 183-199. https://doi.org/10.1177/1477370816649623
 
-- Dufour, G. K., Ternes, M., & Stinson, V. (2023). The relationship between victim impact statements and judicial decision making: An archival analysis of sentencing outcomes. Law and Human Behavior, 47, 484-498. https://doi.org/10.1037/lhb0000535
+- Dufour, G. K., Ternes, M., & Stinson, V. (2023). The relationship between victim impact statements and judicial decision making: An archival analysis of sentencing outcomes. Law and Human Behavior, 47(4), 484-498. https://doi.org/10.1037/lhb0000535
 
 ---
 
