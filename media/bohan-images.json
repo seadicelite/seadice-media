@@ -1673,5 +1673,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kiyama_Keyakidai_residential_area.jpg/500px-Kiyama_Keyakidai_residential_area.jpg",
   "og": "https://bohan.seadice.win/img/kodomo-110-safe-house-effectiveness.jpg",
   "local": true
+ },
+ "apartment-burglary-victim-contact-order": {
+  "file": "File:Dr.-von-Daller-Straße 24 (Freising) Nebengebäude.jpg",
+  "src": "/img/apartment-burglary-victim-contact-order.jpg",
+  "src640": "/img/apartment-burglary-victim-contact-order-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "マンションの共用エントランス",
+  "artist": "ZoraSilv",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Dr.-von-Daller-Stra%C3%9Fe_24_(Freising)_Nebengeb%C3%A4ude.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29_Nebengeb%C3%A4ude.jpg/960px-Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29_Nebengeb%C3%A4ude.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29_Nebengeb%C3%A4ude.jpg/500px-Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29_Nebengeb%C3%A4ude.jpg",
+  "og": "https://bohan.seadice.win/img/apartment-burglary-victim-contact-order.jpg",
+  "local": true
  }
 }

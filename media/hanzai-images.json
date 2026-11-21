@@ -1548,5 +1548,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sunset_view_over_to_London_in_heat-wave_from_Raleigh_Court%2C_Norwood_1983_-_geograph.org.uk_-_4625870.jpg/500px-Sunset_view_over_to_London_in_heat-wave_from_Raleigh_Court%2C_Norwood_1983_-_geograph.org.uk_-_4625870.jpg",
   "og": "https://hanzai.seadice.win/img/heat-and-aggression.jpg",
   "local": true
+ },
+ "full-moon-crime-myth": {
+  "file": "File:FullMoon2010.jpg",
+  "src": "/img/full-moon-crime-myth.jpg",
+  "src640": "/img/full-moon-crime-myth-sm.jpg",
+  "w": 960,
+  "h": 912,
+  "alt": "夜空に浮かぶ満月",
+  "artist": "Gregory H. Revera",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/960px-FullMoon2010.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/500px-FullMoon2010.jpg",
+  "og": "https://hanzai.seadice.win/img/full-moon-crime-myth.jpg",
+  "local": true
  }
 }
