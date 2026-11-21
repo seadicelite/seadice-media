@@ -48,6 +48,7 @@ AI時代の子育てはSEADICE(https://seadice.win/)が運営する、無料・�
 - [子どもが本を読まなくなった。1か月に0冊の子は高校生で約半数、学校段階が上がるほど増える](https://kosodate.seadice.win/child-stopped-reading-books-school-level/): 1か月に1冊も読まない子は小学生13.4%、中学生24.0%、高校生49.7%（2026年）。興味を引く工夫が読む気持ちを高めていた。
 - [子どもが本を読まない。読書量と読解力は「お互いに伸ばし合う」関係だった](https://kosodate.seadice.win/children-not-reading-books-vocabulary/): 読書量と読解力・言葉の力には中〜強い関連。ただ低学年では読む力の弱さが読書離れの入り口に。研究5本から、無理に読ませる前に家庭でできることを整理。
 - [プログラミング教育は将来の役に立つ？](https://kosodate.seadice.win/coding-education-future-benefit/): プログラミング自体の力や一部の思考力は伸びますが、学校の成績や将来役立つかの直接的な証拠はまだ限られています。
+- [早生まれは不利？学力の差は小学校低学年で大きく、その後は縮まるが残る教科もある](https://kosodate.seadice.win/early-born-relative-age-school-gap/): 早生まれの学力の差は小学2年ごろが大きく、その後は縮まる研究も残る研究も。ADHD診断の見られ方と家庭での見方を整理。
 - [小学生の宿題は1日何分が目安？「長くやるほど伸びる」とは限らない理由](https://kosodate.seadice.win/elementary-homework-time-how-long/): 宿題をする子は成績が高めでも、最適な時間は未確定。長すぎる宿題と成績・心の不調の関連、親の支え方を論文4本で整理。
 - [テンポの速い動画を見ると、子どもの集中力は落ちる？](https://kosodate.seadice.win/fast-paced-video-fantasy-executive-function/): 動画の再生テンポより、現実にありえない内容(ファンタジー)を見た直後の方が、実行機能のテスト成績が下がる関連がありました。
 - [子どもの字が汚い。タブレットで書く練習でも大丈夫？文字を覚える時期は紙と鉛筆に分があった](https://kosodate.seadice.win/handwriting-messy-tablet-vs-pencil/): 年長児の実験では、紙と鉛筆で練習した子の方が画面のキーボードより文字を見分ける力が伸びた。字の読みやすさや速さも練習で伸ばせる。
