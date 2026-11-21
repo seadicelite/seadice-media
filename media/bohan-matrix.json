@@ -76,7 +76,9 @@
      "moving-new-home-security"
     ],
     "notice": [],
-    "after": [],
+    "after": [
+     "apartment-burglary-victim-contact-order"
+    ],
     "use": [
      "https://hanzaigaku.seadice.win/bouhan-check/"
     ]
