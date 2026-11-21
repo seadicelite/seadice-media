@@ -291,6 +291,15 @@
   ]
  },
  {
+  "id": "negative-positive-liberty",
+  "term": "消極的自由・積極的自由",
+  "en": "Negative and positive liberty",
+  "def": "消極的自由は「他人にどこまで干渉されずにいられるか」、積極的自由は「自分の人生を動かしているのが自分自身か」という自由です。バーリンは、後者が「本当の自分ならこう望むはず」という理屈で他人への強制を正当化しうると警戒しました。",
+  "slugs": [
+   "berlin-two-concepts-of-liberty"
+  ]
+ },
+ {
   "id": "seiakusetsu",
   "term": "性悪説",
   "en": "Human nature is bad",
