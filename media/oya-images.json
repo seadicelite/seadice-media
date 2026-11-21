@@ -1290,5 +1290,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Stack_of_Envelopes_by_Martin_Vorel.jpeg/500px-Stack_of_Envelopes_by_Martin_Vorel.jpeg",
   "og": "https://oya.seadice.win/img/parent-stopped-writing-new-year-cards-og.jpg",
   "local": true
+ },
+ "parent-skipping-meals": {
+  "file": "File:朝食 2014 (15003666635).jpg",
+  "src": "/img/parent-skipping-meals.jpg",
+  "src640": "/img/parent-skipping-meals-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "お盆にのったご飯、みそ汁、生卵と箸",
+  "artist": "zenjiro",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:%E6%9C%9D%E9%A3%9F_2014_(15003666635).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/%E6%9C%9D%E9%A3%9F_2014_%2815003666635%29.jpg/960px-%E6%9C%9D%E9%A3%9F_2014_%2815003666635%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/%E6%9C%9D%E9%A3%9F_2014_%2815003666635%29.jpg/500px-%E6%9C%9D%E9%A3%9F_2014_%2815003666635%29.jpg",
+  "og": "https://oya.seadice.win/img/parent-skipping-meals.jpg",
+  "local": true
  }
 }
