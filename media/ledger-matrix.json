@@ -167,7 +167,8 @@
      "gambling-gacha-thinking-traps-self-check"
     ],
     "fix": [
-     "gambling-gacha-limit-setting-tips"
+     "gambling-gacha-limit-setting-tips",
+     "gacha-near-miss-urge-coping-tips"
     ],
     "after": [
      "gambling-loss-chasing-recovery-steps"

@@ -2260,5 +2260,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Slits_in_a_desk_lamp_in_Tuntorp.jpg/500px-Slits_in_a_desk_lamp_in_Tuntorp.jpg",
   "og": "https://ledger.seadice.win/img/money-worry-night-writing-tips.jpg",
   "local": true
+ },
+ "gacha-near-miss-urge-coping-tips": {
+  "file": "File:Gachapon.jpg",
+  "src": "/img/gacha-near-miss-urge-coping-tips.jpg",
+  "src640": "/img/gacha-near-miss-urge-coping-tips-sm.jpg",
+  "w": 960,
+  "h": 643,
+  "alt": "ガシャポンのカプセル自動販売機",
+  "artist": "Charles Nguyen",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gachapon.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gachapon.jpg/960px-Gachapon.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gachapon.jpg/500px-Gachapon.jpg",
+  "og": "https://ledger.seadice.win/img/gacha-near-miss-urge-coping-tips.jpg",
+  "local": true
  }
 }
