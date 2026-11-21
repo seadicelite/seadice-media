@@ -1717,5 +1717,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lorain_High_School_hallway.jpg/500px-Lorain_High_School_hallway.jpg",
   "og": "https://kosodate.seadice.win/img/bullying-long-term-effects-parent-support-og.jpg",
   "local": true
+ },
+ "early-born-relative-age-school-gap": {
+  "file": "File:Classroom - Basic Desks - Loxton Historical Village (2020-10-22 09.30.20 by Michael Coghlan).jpg",
+  "src": "/img/school-refusal-long-term-outcomes.webp",
+  "src640": "/img/school-refusal-long-term-outcomes-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "教室の机といす",
+  "artist": "Michael Coghlan from Adelaide, Australia",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Classroom_-_Basic_Desks_-_Loxton_Historical_Village_(2020-10-22_09.30.20_by_Michael_Coghlan).jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Classroom_-_Basic_Desks_-_Loxton_Historical_Village_%282020-10-22_09.30.20_by_Michael_Coghlan%29.jpg/960px-Classroom_-_Basic_Desks_-_Loxton_Historical_Village_%282020-10-22_09.30.20_by_Michael_Coghlan%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Classroom_-_Basic_Desks_-_Loxton_Historical_Village_%282020-10-22_09.30.20_by_Michael_Coghlan%29.jpg/500px-Classroom_-_Basic_Desks_-_Loxton_Historical_Village_%282020-10-22_09.30.20_by_Michael_Coghlan%29.jpg",
+  "og": "https://kosodate.seadice.win/img/school-refusal-long-term-outcomes-og.jpg",
+  "local": true
  }
 }
