@@ -1478,5 +1478,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Morning_setting_with_a_banana%2C_vintage_clock%2C_and_smartphone_on_a_table_during_bright_daylight.jpg/500px-Morning_setting_with_a_banana%2C_vintage_clock%2C_and_smartphone_on_a_table_during_bright_daylight.jpg",
   "og": "https://neuro.seadice.win/img/reminder-effect-numbers.jpg",
   "local": true
+ },
+ "habit-after-app-ends": {
+  "file": "File:Reebok Royal Glide Ripple Clip shoe.jpg",
+  "src": "/img/habit-after-app-ends.jpg",
+  "src640": "/img/habit-after-app-ends-sm.jpg",
+  "w": 960,
+  "h": 698,
+  "alt": "白いスニーカー",
+  "artist": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Reebok_Royal_Glide_Ripple_Clip_shoe.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Reebok_Royal_Glide_Ripple_Clip_shoe.jpg/960px-Reebok_Royal_Glide_Ripple_Clip_shoe.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Reebok_Royal_Glide_Ripple_Clip_shoe.jpg/500px-Reebok_Royal_Glide_Ripple_Clip_shoe.jpg",
+  "og": "https://neuro.seadice.win/img/habit-after-app-ends.jpg",
+  "local": true
  }
 }
