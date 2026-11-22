@@ -545,5 +545,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Paralithodes_camtschaticus%2C_1.jpg/500px-Paralithodes_camtschaticus%2C_1.jpg",
   "og": "https://shinka.seadice.win/img/convergent-evolution.jpg",
   "local": true
+ },
+ "e-coli-long-term-evolution": {
+  "file": "File:Colonies of Escherichia coli on agar plate.jpg",
+  "src": "/img/e-coli-long-term-evolution.jpg",
+  "src640": "/img/e-coli-long-term-evolution-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ペトリ皿の寒天培地の上で育った大腸菌のコロニー（白い小さな点が細胞の集まり）",
+  "artist": "Gaurav",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Colonies_of_Escherichia_coli_on_agar_plate.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Colonies_of_Escherichia_coli_on_agar_plate.jpg/960px-Colonies_of_Escherichia_coli_on_agar_plate.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Colonies_of_Escherichia_coli_on_agar_plate.jpg/500px-Colonies_of_Escherichia_coli_on_agar_plate.jpg",
+  "og": "https://shinka.seadice.win/img/e-coli-long-term-evolution.jpg",
+  "local": true
  }
 }
