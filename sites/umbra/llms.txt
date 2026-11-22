@@ -62,6 +62,7 @@
 - [好きなのか、寂しいだけなのか。「ひとりになる不安」と相手選びの研究](https://umbra.seadice.win/fear-of-being-single-settling-research/): ひとりになる不安が強い人ほど、関心の薄い相手にも惹かれやすく、満たされない関係を終わらせにくいという研究がある。
 - [同じタイプを好きになり、同じ失敗をくり返すのはなぜ？恋愛パターンの研究と立て直し方](https://umbra.seadice.win/same-type-repeating-relationship-pattern-research/): 元恋人と今の恋人の性格は似やすい一方、554人の調査では次の関係で相手への尊敬などが上がっていた。
 - [息が合う人とは、心拍まで同じになるのか。心拍・汗の「生理的シンクロ」を研究で確かめる](https://umbra.seadice.win/heart-rate-synchrony-attraction-research/): 初対面のデートでは心拍と汗の同期が惹かれやすさに関連。だが同期は仲の良さに比例せず、初対面の他人同士でも起きていた
+- [赤い服を着るとモテる？ 有名な「赤の効果」を追試とメタ分析で確かめたら、思ったより小さかった](https://umbra.seadice.win/red-clothing-attraction-replication-research/): 赤で魅力が上がる効果は、まとめると小さく、事前登録の研究ではほぼ消えた。初デートでは赤や黒の服が増えていた。
 
 #### 告白・デートの悩み
 
@@ -93,6 +94,7 @@
 - [好きな人と目を合わせるのが苦手。どのくらい見ればいい？視線の長さの研究](https://umbra.seadice.win/eye-contact-how-long-to-look-research/): 心地よく見つめられる長さは平均3.3秒。会話で目が合うのは1回0.36秒ほどだが、別の学生への調査では会話の約7割で目が合ったと感じていた。
 - [恋人のスキンシップが減ったら、冷めたサイン？触れ合いと愛情の研究と、責めずに伝える方法](https://umbra.seadice.win/partner-less-touch-affection-decline-research/): 触れ合いと愛情は関連するが、量は年齢や好みでも変わる。減っただけで判断せず、責めずに希望を伝える
 - [キスのとき、顔はどちらに傾ける？多くの人が右に傾けるという研究と、向きで気持ちはわかるのか](https://umbra.seadice.win/kissing-head-turn-right-research/): カップル124組の観察では64.5%が右に傾けた。親子のキスでは逆に左が多い。向きで気持ちを読める研究は見当たらない。
+- [あくびがうつるのは、親しい証拠？ 共感の高さとは関係しなかった研究と、親しさの研究](https://umbra.seadice.win/contagious-yawning-closeness-research/): 大人の観察では家族や恋人のあくびが最もうつった。一方328人の実験では、共感の高さとうつりやすさは関係しなかった。
 
 #### 嘘や本音は見抜けるか
 
@@ -166,6 +168,7 @@
 - [付き合いたての頃より満足度が下がったのは、相性が悪いから？満足度の変化の研究](https://umbra.seadice.win/satisfaction-decline-incompatibility-research/): 平均では最初の数年に下がる傾向がある一方、多くのカップルは比較的安定。大きく下がる関係はストレスや話し方と結びついていた。
 - [デート代を誰が払うかで、本気度や相性はわかるのか。デート代の分担と満足度の研究](https://umbra.seadice.win/dating-bill-payment-seriousness-signal-research/): デート代の払い方と本気度を直接結びつけた研究はない。公平感と満足度の関連を研究で確かめる
 - [恋人と趣味や推しの話で盛り上がるのは相性のサイン？カップルの時間の使い方の研究](https://umbra.seadice.win/couple-talking-time-vs-activities-research/): 一緒にいる時間のうち、活動より「話す」時間が多い日ほど夫婦の仲の良さが高い傾向。話す時間と話し方を調べた3つの研究で確認。
+- [フェロモン香水で、異性を惹きつけられる？「人のフェロモン」は研究でまだ見つかっていなかった](https://umbra.seadice.win/human-pheromone-perfume-evidence-research/): 人のフェロモンとされた物質は、二重盲検の実験で魅力の評価を変えなかった。研究者のまとめでは人のフェロモンは未発見。
 
 #### 長続きする関係
 

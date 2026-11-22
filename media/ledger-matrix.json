@@ -67,7 +67,8 @@
      "points-reward-overspending"
     ],
     "notice": [
-     "sale-buying-self-check"
+     "sale-buying-self-check",
+     "points-coupon-self-check"
     ],
     "fix": [
      "sale-overbuying-opportunity-cost"

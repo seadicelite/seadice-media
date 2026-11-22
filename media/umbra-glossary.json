@@ -1,5 +1,32 @@
 [
  {
+  "id": "preregistration",
+  "term": "事前登録",
+  "en": "Preregistration",
+  "def": "実験の前に、仮説や分析の手順を公開しておくこと。結果を見てから都合よく分析を変えるのを防ぐ。赤い服の研究では、事前登録した研究ほど効果が小さかった。",
+  "slugs": [
+   "red-clothing-attraction-replication-research"
+  ]
+ },
+ {
+  "id": "pheromone",
+  "term": "フェロモン",
+  "en": "Pheromone",
+  "def": "同じ種の仲間に決まった反応を起こさせる化学物質。虫の性フェロモンが有名。人では、フェロモンだと確かめられた物質はまだ見つかっていないとされる。",
+  "slugs": [
+   "human-pheromone-perfume-evidence-research"
+  ]
+ },
+ {
+  "id": "contagious-yawning",
+  "term": "あくびの伝染",
+  "en": "Contagious yawning",
+  "def": "人のあくびを見たり聞いたりして、つられてあくびをすること。親しい相手ほどうつりやすいという観察がある一方、共感の高さとは関係しなかった実験もある。",
+  "slugs": [
+   "contagious-yawning-closeness-research"
+  ]
+ },
+ {
   "id": "darvo",
   "term": "DARVO（否定・攻撃・被害者と加害者の逆転）",
   "en": "DARVO (Deny, Attack, Reverse Victim and Offender)",
