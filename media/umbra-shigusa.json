@@ -1152,6 +1152,22 @@
     "first",
     "sns"
    ]
+  },
+  {
+   "part": "表情",
+   "gesture": "相手のあくびがうつる",
+   "belief": "あくびがうつるのは親しさや好意のサイン",
+   "level": "c",
+   "text": "大人の観察では家族や恋人のあくびが最もうつったが、328人の実験では共感の高さと関係しなかった。うつるかで気持ちを読めるかを調べた研究は見当たらない。",
+   "slug": "contagious-yawning-closeness-research",
+   "id": "yawn-contagion",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "date"
+   ],
+   "evidence": "few"
   }
  ],
  "quiz": [
@@ -1792,6 +1808,17 @@
    ],
    "e": "102人の写真の研究で、他人が選んだ写真のほうが「信頼できそう」「有能そう」の印象が上がりました。「魅力的」では有意な差はありませんでした。",
    "slug": "profile-photo-self-selection-first-impression-research"
+  },
+  {
+   "q": "328人にあくびの動画を3分見せた研究で、1回以上あくびをした人の割合は？",
+   "c": [
+    "約68%",
+    "約10%",
+    "約35%",
+    "約95%"
+   ],
+   "e": "328人のうち222人（67.7%）があくびをしました。共感の高さは、年齢を考えに入れるとうつりやすさと関係しませんでした。",
+   "slug": "contagious-yawning-closeness-research"
   }
  ],
  "purposes": [
