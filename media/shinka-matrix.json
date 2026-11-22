@@ -192,7 +192,9 @@
       "label": "いま起きている進化",
       "cells": {
         "what": [],
-        "how": [],
+        "how": [
+          "e-coli-long-term-evolution"
+        ],
         "myth": [
           "human-still-evolving"
         ],
