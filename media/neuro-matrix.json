@@ -109,7 +109,8 @@
     ],
     "myth": [
      "dark-mode-readability",
-     "sign-first-honesty"
+     "sign-first-honesty",
+     "unconscious-thought-choice"
     ],
     "dark": [
      "cookie-consent-banner"
@@ -226,10 +227,12 @@
     ],
     "unknown": [
      "nudge-really-works",
-     "sns-which-combination"
+     "sns-which-combination",
+     "smile-facial-feedback"
     ],
     "num": [
-     "app-retention-myth"
+     "app-retention-myth",
+     "power-pose"
     ],
     "dark": [
      "subliminal-advertising"
