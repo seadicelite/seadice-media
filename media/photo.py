@@ -128,13 +128,20 @@ def main(media, slug, query, flag="", alt=""):
     if not _is_real_image(i["src"]):
         return print("skip: 画像URLが実体を返さない（壊れたリンク）", i["src"])
     i["alt"] = alt or i["alt"][:140]
-    images[slug] = i
-    ip.write_text(json.dumps(images, ensure_ascii=False, indent=1))
     lic_html = f'<a href="{html.escape(i["licenseUrl"], quote=True)}" target="_blank" rel="noopener">{html.escape(i["license"])}</a>' if i["licenseUrl"] else html.escape(i["license"])
     fig = (f'<figure class="hero"><img src="{i["src"]}" width="{i["w"]}" height="{i["h"]}" alt="{html.escape(i["alt"], quote=True)}">'
            f'<figcaption>Photo: {html.escape(i["artist"])} / {lic_html} / '
            f'<a href="{i["page"]}" target="_blank" rel="noopener">{html.escape(i["source_label"])}</a></figcaption></figure>\n\n  ')
-    text = text.replace('  <div class="ai-badge">', "  " + fig + '<div class="ai-badge">', 1)
+    if '  <div class="ai-badge">' in text:
+        text = text.replace('  <div class="ai-badge">', "  " + fig + '<div class="ai-badge">', 1)
+    else:
+        # ai-badge の無いテンプレート(neuro など)は更新日の行の直後に置く(2026-11-22。以前は --replace で写真が消えていた)
+        new_text = re.sub(r'(<p class="meta">.*?</p>\n)', lambda m: m.group(1) + "  " + fig.rstrip() + "\n", text, count=1)
+        if new_text == text:
+            return print("skip: 写真を差し込む場所(ai-badge / p.meta)が見つからない。記事は変えていない")
+        text = new_text
+    images[slug] = i
+    ip.write_text(json.dumps(images, ensure_ascii=False, indent=1))
     if ".hero{" not in text:
         text = text.replace("footer{border-top", CSS + "footer{border-top", 1)
     art.write_text(text)

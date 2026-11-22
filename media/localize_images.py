@@ -162,7 +162,54 @@ def main(media):
         ip.write_text(json.dumps(images, ensure_ascii=False, indent=1))
         n += 1
         print("local(article)", slug)
+    n += heal(images, out)
     print("done", n)
+
+
+def heal(images, out):
+    """images.json が自サイト配信(local)を指しているのにファイルが無いものを作り直す(2026-11-22)。
+    原因は2つあった: build後の /img/ を git add し忘れる(CIは local のものを取り直さない)、
+    PILの無い環境で jpg のまま保存されたのに src640 だけ .webp になっている。どちらも本番で404になる。
+    手元の同名の webp/jpg、無ければ remote から作る。"""
+    if not Image:
+        return 0
+    fixed = 0
+    for slug, i in images.items():
+        if not (isinstance(i, dict) and i.get("local")):
+            continue
+        want = {}
+        for key, max_w in (("src", 960), ("src640", 500)):
+            v = str(i.get(key) or "")
+            if v.startswith("/img/") and v.endswith(".webp") and not (out / v[5:]).exists():
+                want[out / v[5:]] = max_w
+        og = str(i.get("og") or "")
+        if og.endswith(".jpg") and "/img/" in og and not (out / og.rsplit("/", 1)[1]).exists():
+            want[out / og.rsplit("/", 1)[1]] = 0
+        if not want:
+            continue
+        im = None
+        for name in (f"{slug}.webp", f"{slug}.jpg", f"{slug}.png", f"{slug}-sm.webp", f"{slug}-sm.jpg"):
+            p = out / name
+            if p.exists() and p not in want:
+                im = Image.open(p).convert("RGB")
+                break
+        if im is None and i.get("remote"):
+            try:
+                im = Image.open(io.BytesIO(fetch(i["remote"]))).convert("RGB")
+            except Exception as e:  # noqa: BLE001
+                print("heal skip", slug, e)
+                continue
+        if im is None:
+            print("heal skip", slug, "no source")
+            continue
+        for path, max_w in want.items():
+            if max_w:
+                save_webp(im, path, max_w)
+            else:
+                save_jpeg_og(im, path)
+        fixed += 1
+        print("healed", slug, ", ".join(p.name for p in want))
+    return fixed
 
 
 if __name__ == "__main__":
