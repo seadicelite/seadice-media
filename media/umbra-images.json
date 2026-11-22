@@ -3458,5 +3458,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Red_textile_fabric.jpg/500px-Red_textile_fabric.jpg",
   "og": "https://umbra.seadice.win/img/red-clothing-attraction-replication-research-og.jpg",
   "local": true
+ },
+ "couple-faces-grow-alike-over-time-research": {
+  "file": "File:Vintage bus for a wedding party, Upper Street, Islington.jpg",
+  "src": "/img/couple-faces-grow-alike-over-time-research.jpg",
+  "src640": "/img/couple-faces-grow-alike-over-time-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "古い結婚式の写真",
+  "artist": "Philafrenzy",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Vintage_bus_for_a_wedding_party,_Upper_Street,_Islington.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Vintage_bus_for_a_wedding_party%2C_Upper_Street%2C_Islington.jpg/960px-Vintage_bus_for_a_wedding_party%2C_Upper_Street%2C_Islington.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Vintage_bus_for_a_wedding_party%2C_Upper_Street%2C_Islington.jpg/500px-Vintage_bus_for_a_wedding_party%2C_Upper_Street%2C_Islington.jpg",
+  "og": "https://umbra.seadice.win/img/couple-faces-grow-alike-over-time-research.jpg",
+  "local": true
  }
 }
