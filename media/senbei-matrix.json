@@ -129,7 +129,8 @@
           "low-salt-taste-adapt-myth"
         ],
         "make": [
-          "less-salt-senbei-keep-salty"
+          "less-salt-senbei-keep-salty",
+          "wasabi-pungency-saltiness"
         ],
         "data": [
           "senbei-salt-content"
