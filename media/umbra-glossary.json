@@ -552,5 +552,14 @@
    "schedule-sharing-love-or-anxiety-research",
    "partner-texting-less-what-to-do-research"
   ]
+ },
+ {
+  "id": "coercive-control",
+  "term": "コアーシブ・コントロール",
+  "en": "Coercive control",
+  "def": "行動の監視、社会的孤立、経済的虐待、脅しなどを特徴とする、相手を支配する虐待の一種。殴る・怒鳴るより気づかれにくいとされる。",
+  "slugs": [
+   "subtle-coercive-control-overlooked-research"
+  ]
  }
 ]
