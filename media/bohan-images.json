@@ -1691,5 +1691,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29_Nebengeb%C3%A4ude.jpg/500px-Dr.-von-Daller-Stra%C3%9Fe_24_%28Freising%29_Nebengeb%C3%A4ude.jpg",
   "og": "https://bohan.seadice.win/img/apartment-burglary-victim-contact-order.jpg",
   "local": true
+ },
+ "apartment-hallway-stranger-casing-signs": {
+  "file": "File:04 Mailboxes in lobby of apartment building in Spain, common area in apartment building.jpg",
+  "src": "/img/apartment-hallway-stranger-casing-signs.jpg",
+  "src640": "/img/apartment-hallway-stranger-casing-signs-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "マンションの共用部にあるメールボックスの並んだロビー",
+  "artist": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:04_Mailboxes_in_lobby_of_apartment_building_in_Spain,_common_area_in_apartment_building.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/04_Mailboxes_in_lobby_of_apartment_building_in_Spain%2C_common_area_in_apartment_building.jpg/960px-04_Mailboxes_in_lobby_of_apartment_building_in_Spain%2C_common_area_in_apartment_building.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/04_Mailboxes_in_lobby_of_apartment_building_in_Spain%2C_common_area_in_apartment_building.jpg/500px-04_Mailboxes_in_lobby_of_apartment_building_in_Spain%2C_common_area_in_apartment_building.jpg",
+  "og": "https://bohan.seadice.win/img/apartment-hallway-stranger-casing-signs.jpg",
+  "local": true
  }
 }
