@@ -1156,5 +1156,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sunrise_over_sea_horizon.jpg/500px-Sunrise_over_sea_horizon.jpg",
   "og": "https://tetsugaku.seadice.win/img/berlin-two-concepts-of-liberty-og.jpg",
   "local": true
+ },
+ "arendt-vita-activa": {
+  "file": "File:Hannah-arendt4 hg.jpg",
+  "src": "/img/arendt-vita-activa.jpg",
+  "src640": "/img/arendt-vita-activa-sm.jpg",
+  "w": 960,
+  "h": 710,
+  "alt": "ハンナ・アーレントの肖像写真",
+  "artist": "Hannes Grobe",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hannah-arendt4_hg.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hannah-arendt4_hg.jpg/960px-Hannah-arendt4_hg.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hannah-arendt4_hg.jpg/500px-Hannah-arendt4_hg.jpg",
+  "og": "https://tetsugaku.seadice.win/img/arendt-vita-activa.jpg",
+  "local": true
  }
 }
