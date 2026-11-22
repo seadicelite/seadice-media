@@ -1,5 +1,13 @@
 [
  {
+  "slug": "e-coli-long-term-evolution",
+  "category": "いま起きている進化",
+  "type": "guide",
+  "date": "2026-11-22",
+  "title": "進化は実験で確かめられる？ 大腸菌の長期進化実験で5万世代を追ってわかったこと",
+  "summary": "1988年に始まった大腸菌の実験では、12集団で増えやすい菌が広まり、5万世代で平均約70%上昇。クエン酸を食べる力は1集団だけに現れた。"
+ },
+ {
   "slug": "convergent-evolution",
   "category": "進化のしくみ",
   "type": "guide",
