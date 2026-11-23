@@ -590,5 +590,14 @@
   "slugs": [
    "reaching-out-first-message-hesitation-research"
   ]
+ },
+ {
+  "id": "assortative-mating",
+  "term": "同類婚（同類交配）",
+  "en": "Assortative mating",
+  "def": "身長などの特徴が似た相手どうしが結びつく傾向。身長では、背の高い人ほど背の高い相手を好み、154組の相関を集めたメタ分析でも弱〜中程度の正の関連（r=0.23）が確認されている。",
+  "slugs": [
+   "ideal-partner-height-preference-research"
+  ]
  }
 ]
