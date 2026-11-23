@@ -1,5 +1,14 @@
 [
  {
+  "id": "ovulatory-shift-hypothesis",
+  "term": "排卵シフト仮説",
+  "en": "Ovulatory shift hypothesis",
+  "def": "妊娠しやすい時期の女性は、祖先の時代に強い免疫系の目印とされた男性的な特徴を強く好むようになる、という進化心理学の仮説。584人を追った研究では確認されず、別のメタ分析では支持されており、結論はまだ割れている。",
+  "slugs": [
+   "ovulatory-cycle-face-preference-myth-research"
+  ]
+ },
+ {
   "id": "preregistration",
   "term": "事前登録",
   "en": "Preregistration",
