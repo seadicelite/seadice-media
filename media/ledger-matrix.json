@@ -175,7 +175,8 @@
      "gambling-loss-chasing-recovery-steps"
     ],
     "use": [
-     "gambling-spending-limit-calculator"
+     "gambling-spending-limit-calculator",
+     "gacha-monthly-spending-log-table"
     ]
    }
   },

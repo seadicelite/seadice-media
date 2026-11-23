@@ -1,5 +1,13 @@
 [
   {
+    "slug": "ai-delegation-dishonesty",
+    "category": "なぜ人は罪を犯すのか",
+    "type": "guide",
+    "date": "2026-11-23",
+    "title": "AIに任せると、人はズルをしやすくなるのか。正直な人が95%から約15%に減った「目標だけ伝える」実験と、指示に従いすぎるAI",
+    "summary": "サイコロの目を自分で報告すると95%が正直。AIに目標だけ伝えると約15%に減り、AIは不正な指示に79〜98%従った。"
+  },
+  {
     "slug": "pink-cell-aggression-myth",
     "category": "刑罰と更生",
     "type": "guide",
