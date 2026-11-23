@@ -1,5 +1,13 @@
 [
  {
+  "slug": "nori-senbei-humidity-texture",
+  "category": "食感",
+  "type": "study",
+  "date": "2026-11-23",
+  "title": "海苔を巻いた煎餅は、海苔からしける？乾海苔を湿度10〜90%に置いた機械の測定では、湿度58〜75%までは切れる力が上がって伸びず、75%を超えると急に弱く伸びやすくなった（煎餅では未確認）",
+  "summary": "海苔を巻いた煎餅は海苔からしける？乾海苔の機械の測定では湿度75%を超えると急に伸びやすくなった（煎餅では未確認）"
+ },
+ {
   "slug": "fried-senbei-oil-crispness-myth",
   "category": "食感",
   "type": "study",
