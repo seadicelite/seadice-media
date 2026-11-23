@@ -282,7 +282,8 @@
   "def": "会話のあと、相手が自分をどれくらい好きかを実際より低く見積もってしまう傾向。初対面の会話から数か月の追跡まで、状況が違っても一貫して見られています。",
   "slugs": [
    "silence-during-dates-liking-research",
-   "liking-reciprocity-research"
+   "liking-reciprocity-research",
+   "reaching-out-first-message-hesitation-research"
   ]
  },
  {
@@ -570,6 +571,15 @@
   "def": "話し手に注意・理解・好意が伝わる聞き方。目を合わせて黙って聞くだけでなく、うなずき、開かれた質問、言い返しての確認を含む。実験では、話した人の寂しさを小さくした。",
   "slugs": [
    "partner-not-listening-feeling-heard-research"
+  ]
+ },
+ {
+  "id": "signal-amplification-bias",
+  "term": "シグナル増幅バイアス",
+  "en": "Signal amplification bias",
+  "def": "断られる不安が強い人ほど、自分の誘いや態度が、実際より強く好意を伝えていると思い込みやすい傾向。気持ちは伝わっているはずと待つうちに、相手には届いていないことがある。",
+  "slugs": [
+   "reaching-out-first-message-hesitation-research"
   ]
  }
 ]
