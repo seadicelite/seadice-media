@@ -467,6 +467,15 @@
   ]
  },
  {
+  "id": "hou-jutsu-sei",
+  "term": "法・術・勢",
+  "en": "Fa, shu, shi (law, methods, authority)",
+  "def": "韓非ら法家が国を治める柱とした三つの考えです。法は人によって変えないルール、術は君主が部下を見張り動かす方法、勢は君主の権威のことです。研究では英語で laws + methods + authority と訳されています。",
+  "slugs": [
+   "han-feizi-legalism"
+  ]
+ },
+ {
   "id": "authenticity",
   "term": "本来性（オーセンティシティ）",
   "en": "Authenticity",
