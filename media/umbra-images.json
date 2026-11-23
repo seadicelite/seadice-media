@@ -3547,5 +3547,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Yet_another_locked_gate_in_a_deer_fence_-_geograph.org.uk_-_3683264.jpg/500px-Yet_another_locked_gate_in_a_deer_fence_-_geograph.org.uk_-_3683264.jpg",
   "og": "https://umbra.seadice.win/img/subtle-coercive-control-overlooked-research.jpg",
   "local": true
+ },
+ "partner-not-listening-feeling-heard-research": {
+  "file": "File:Two Lovely Cups.jpg",
+  "src": "/img/partner-not-listening-feeling-heard-research.jpg",
+  "src640": "/img/partner-not-listening-feeling-heard-research-sm.jpg",
+  "w": 960,
+  "h": 615,
+  "alt": "木の棚に並んだ、緑とオレンジの2つのマグカップ",
+  "artist": "dejankrsmanovic",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Two_Lovely_Cups.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Two_Lovely_Cups.jpg/960px-Two_Lovely_Cups.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Two_Lovely_Cups.jpg/500px-Two_Lovely_Cups.jpg",
+  "og": "https://umbra.seadice.win/img/partner-not-listening-feeling-heard-research.jpg",
+  "local": true
  }
 }

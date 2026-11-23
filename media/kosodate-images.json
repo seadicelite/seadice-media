@@ -1734,5 +1734,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Classroom_-_Basic_Desks_-_Loxton_Historical_Village_%282020-10-22_09.30.20_by_Michael_Coghlan%29.jpg/500px-Classroom_-_Basic_Desks_-_Loxton_Historical_Village_%282020-10-22_09.30.20_by_Michael_Coghlan%29.jpg",
   "og": "https://kosodate.seadice.win/img/school-refusal-long-term-outcomes-og.jpg",
   "local": true
+ },
+ "teacher-mismatch-child-school": {
+  "file": "File:Rows of Desks in Lecture Theatre.jpg",
+  "src": "/img/ai-school-classroom-change.webp",
+  "src640": "/img/ai-school-classroom-change-sm.webp",
+  "w": 960,
+  "h": 723,
+  "alt": "誰もいない教室に並ぶ机",
+  "artist": "Paul The Writer",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Rows_of_Desks_in_Lecture_Theatre.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rows_of_Desks_in_Lecture_Theatre.jpg/960px-Rows_of_Desks_in_Lecture_Theatre.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rows_of_Desks_in_Lecture_Theatre.jpg/500px-Rows_of_Desks_in_Lecture_Theatre.jpg",
+  "og": "https://kosodate.seadice.win/img/ai-school-classroom-change-og.jpg",
+  "local": true
  }
 }
