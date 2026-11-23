@@ -1545,5 +1545,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Test_tubes_in_rack.jpg/500px-Test_tubes_in_rack.jpg",
   "og": "https://neuro.seadice.win/img/power-pose-og.jpg",
   "local": true
+ },
+ "fear-appeal-ads": {
+  "file": "File:Caution sign on Slip Street.jpg",
+  "src": "/img/fear-appeal-ads.webp",
+  "src640": "/img/fear-appeal-ads-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "「CAUTION」と書かれた黄色い注意の看板",
+  "artist": "Sam Wilson  (taken with LG G6)",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Caution_sign_on_Slip_Street.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Caution_sign_on_Slip_Street.jpg/960px-Caution_sign_on_Slip_Street.jpg",
+  "remote640": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Caution_sign_on_Slip_Street.jpg/500px-Caution_sign_on_Slip_Street.jpg",
+  "og": "https://neuro.seadice.win/img/fear-appeal-ads-og.jpg",
+  "local": true
  }
 }
