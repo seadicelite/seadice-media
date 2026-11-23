@@ -1174,5 +1174,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hannah-arendt4_hg.jpg/500px-Hannah-arendt4_hg.jpg",
   "og": "https://tetsugaku.seadice.win/img/arendt-vita-activa.jpg",
   "local": true
+ },
+ "han-feizi-legalism": {
+  "file": "File:Bamboo Slips of Warring States, Qin, & Han (10111756746).jpg",
+  "src": "/img/han-feizi-legalism.jpg",
+  "src640": "/img/han-feizi-legalism-sm.jpg",
+  "w": 960,
+  "h": 1440,
+  "alt": "博物館に展示された、文字が墨で書かれた戦国・秦・漢の時代の竹簡",
+  "artist": "Gary Todd",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Bamboo_Slips_of_Warring_States,_Qin,_%26_Han_(10111756746).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bamboo_Slips_of_Warring_States%2C_Qin%2C_%26_Han_%2810111756746%29.jpg/960px-Bamboo_Slips_of_Warring_States%2C_Qin%2C_%26_Han_%2810111756746%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bamboo_Slips_of_Warring_States%2C_Qin%2C_%26_Han_%2810111756746%29.jpg/500px-Bamboo_Slips_of_Warring_States%2C_Qin%2C_%26_Han_%2810111756746%29.jpg",
+  "og": "https://tetsugaku.seadice.win/img/han-feizi-legalism.jpg",
+  "local": true
  }
 }
