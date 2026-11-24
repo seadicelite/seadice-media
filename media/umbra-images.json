@@ -3565,5 +3565,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Medieval_Calendar_fragment_%28FindID_741918%29.jpg/500px-Medieval_Calendar_fragment_%28FindID_741918%29.jpg",
   "og": "https://umbra.seadice.win/img/ovulatory-cycle-face-preference-myth-research.jpg",
   "local": true
+ },
+ "beer-goggles-alcohol-attractiveness-research": {
+  "file": "File:Bar counter with beer taps, Vieux-Québec.jpg",
+  "src": "/img/beer-goggles-alcohol-attractiveness-research.jpg",
+  "src640": "/img/beer-goggles-alcohol-attractiveness-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "バーのカウンターに並んだビールのグラス",
+  "artist": "Wilfredor",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bar_counter_with_beer_taps,_Vieux-Qu%C3%A9bec.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bar_counter_with_beer_taps%2C_Vieux-Qu%C3%A9bec.jpg/960px-Bar_counter_with_beer_taps%2C_Vieux-Qu%C3%A9bec.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bar_counter_with_beer_taps%2C_Vieux-Qu%C3%A9bec.jpg/500px-Bar_counter_with_beer_taps%2C_Vieux-Qu%C3%A9bec.jpg",
+  "og": "https://umbra.seadice.win/img/beer-goggles-alcohol-attractiveness-research.jpg",
+  "local": true
  }
 }
