@@ -3637,5 +3637,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/500px-A_small_cup_of_coffee.JPG",
   "og": "https://umbra.seadice.win/img/thirty-six-questions-fall-in-love-research.jpg",
   "local": true
+ },
+ "couple-touch-mood-stress-research": {
+  "file": "File:YoungCoupleEmbracing-20070508.jpg",
+  "src": "/img/couple-touch-mood-stress-research.jpg",
+  "src640": "/img/couple-touch-mood-stress-research-sm.jpg",
+  "w": 960,
+  "h": 638,
+  "alt": "屋外でハグをする2人",
+  "artist": "Kelley Boone",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:YoungCoupleEmbracing-20070508.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/YoungCoupleEmbracing-20070508.jpg/960px-YoungCoupleEmbracing-20070508.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/YoungCoupleEmbracing-20070508.jpg/500px-YoungCoupleEmbracing-20070508.jpg",
+  "og": "https://umbra.seadice.win/img/couple-touch-mood-stress-research.jpg",
+  "local": true
  }
 }
