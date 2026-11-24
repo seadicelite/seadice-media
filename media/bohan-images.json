@@ -1727,5 +1727,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kumagaya_Station_platform_2017-07-05.jpg/500px-Kumagaya_Station_platform_2017-07-05.jpg",
   "og": "https://bohan.seadice.win/img/crowded-train-groping-voyeurism-timing.jpg",
   "local": true
+ },
+ "sns-identified-victim-first-actions": {
+  "file": "File:Electronics workbench.jpg",
+  "src": "/img/sns-identified-victim-first-actions.jpg",
+  "src640": "/img/sns-identified-victim-first-actions-sm.jpg",
+  "w": 960,
+  "h": 727,
+  "alt": "コンピューターの画面と虫眼鏡",
+  "artist": "James Bastow",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Electronics_workbench.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Electronics_workbench.jpg/960px-Electronics_workbench.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Electronics_workbench.jpg/500px-Electronics_workbench.jpg",
+  "og": "https://bohan.seadice.win/img/sns-identified-victim-first-actions.jpg",
+  "local": true
  }
 }
