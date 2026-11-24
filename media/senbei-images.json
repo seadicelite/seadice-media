@@ -1043,5 +1043,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dried_laver_seaweed.jpg/500px-Dried_laver_seaweed.jpg",
   "og": "https://senbei.seadice.win/img/nori-senbei-humidity-texture.jpg",
   "local": true
+ },
+ "pepper-low-salt-senbei-saltiness": {
+  "file": "File:Bumbu dan Rempah - rempah.jpg",
+  "src": "/img/pepper-low-salt-senbei-saltiness.jpg",
+  "src640": "/img/pepper-low-salt-senbei-saltiness-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "唐辛子・にんにく・しょうが・香辛料の粒",
+  "artist": "Galeri ega",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bumbu_dan_Rempah_-_rempah.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bumbu_dan_Rempah_-_rempah.jpg/960px-Bumbu_dan_Rempah_-_rempah.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bumbu_dan_Rempah_-_rempah.jpg/500px-Bumbu_dan_Rempah_-_rempah.jpg",
+  "og": "https://senbei.seadice.win/img/pepper-low-salt-senbei-saltiness.jpg",
+  "local": true
  }
 }
