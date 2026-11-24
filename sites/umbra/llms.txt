@@ -119,6 +119,7 @@
 - [手をポケットに入れて話す人は信頼できないのか。手の見え方の研究](https://umbra.seadice.win/hands-in-pockets-trust-impression-research/): 「手を隠す人は何か隠している」という通説を直接調べた研究はない。嘘のしぐさ全般の弱さと、胸に手を当てる実験から確かめた
 - [咳払いや唇をなめるのは緊張や嘘のサインか。口元の小さな動作の研究](https://umbra.seadice.win/lip-licking-throat-clearing-nervousness-research/): この2つの動き自体を調べた研究は見当たらない。緊張のメタ分析では嘘との関係は弱く、実際の取り調べ映像では動きはむしろ減っていた
 - [恋人についた嘘、打ち明けるべきか。正直に話したときの反応と、秘密を抱えるつらさの研究](https://umbra.seadice.win/honest-confession-lie-to-partner-research/): 正直に話したときの相手の反応は予想より悪くなく、言えない秘密を何度も思い出すことは幸福感の低さと関係していた。
+- [嘘じゃないのに恋人に疑われる。本当のことが伝わらないのはなぜ？疑われる側の研究](https://umbra.seadice.win/falsely-suspected-of-lying-partner-research/): 206本の研究のメタ分析で、本当の話が「本当」と判定されたのは61%。焦りは嘘の証拠にならず、確かめられる事実で伝える方法を整理。
 
 #### 緊張・不安・拒否のしぐさ
 
