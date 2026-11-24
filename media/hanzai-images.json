@@ -1631,5 +1631,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lots_of_dice_01.jpg/500px-Lots_of_dice_01.jpg",
   "og": "https://hanzai.seadice.win/img/ai-delegation-dishonesty.jpg",
   "local": true
+ },
+ "watching-eyes-effect": {
+  "file": "File:Honesty box, Upper Duffryn farm - geograph.org.uk - 7681614.jpg",
+  "src": "/img/watching-eyes-effect.jpg",
+  "src640": "/img/watching-eyes-effect-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "農場の道ばたに置かれた、代金を入れる無人の箱",
+  "artist": "Eirian Evans",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Honesty_box,_Upper_Duffryn_farm_-_geograph.org.uk_-_7681614.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Honesty_box%2C_Upper_Duffryn_farm_-_geograph.org.uk_-_7681614.jpg/960px-Honesty_box%2C_Upper_Duffryn_farm_-_geograph.org.uk_-_7681614.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Honesty_box%2C_Upper_Duffryn_farm_-_geograph.org.uk_-_7681614.jpg/500px-Honesty_box%2C_Upper_Duffryn_farm_-_geograph.org.uk_-_7681614.jpg",
+  "og": "https://hanzai.seadice.win/img/watching-eyes-effect.jpg",
+  "local": true
  }
 }
