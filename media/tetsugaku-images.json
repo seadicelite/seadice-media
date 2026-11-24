@@ -1192,5 +1192,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bamboo_Slips_of_Warring_States%2C_Qin%2C_%26_Han_%2810111756746%29.jpg/500px-Bamboo_Slips_of_Warring_States%2C_Qin%2C_%26_Han_%2810111756746%29.jpg",
   "og": "https://tetsugaku.seadice.win/img/han-feizi-legalism.jpg",
   "local": true
+ },
+ "butler-gender-performativity": {
+  "file": "File:Vojtěch Hynais, Curtain of the National Theatre, Prague.jpg",
+  "src": "/img/butler-gender-performativity.jpg",
+  "src640": "/img/butler-gender-performativity-sm.jpg",
+  "w": 960,
+  "h": 648,
+  "alt": "劇場の幕に描かれた絵（プラハ国民劇場の緞帳）",
+  "artist": "Vojtěch Hynais",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Vojt%C4%9Bch_Hynais,_Curtain_of_the_National_Theatre,_Prague.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vojt%C4%9Bch_Hynais%2C_Curtain_of_the_National_Theatre%2C_Prague.jpg/960px-Vojt%C4%9Bch_Hynais%2C_Curtain_of_the_National_Theatre%2C_Prague.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vojt%C4%9Bch_Hynais%2C_Curtain_of_the_National_Theatre%2C_Prague.jpg/500px-Vojt%C4%9Bch_Hynais%2C_Curtain_of_the_National_Theatre%2C_Prague.jpg",
+  "og": "https://tetsugaku.seadice.win/img/butler-gender-performativity.jpg",
+  "local": true
  }
 }
