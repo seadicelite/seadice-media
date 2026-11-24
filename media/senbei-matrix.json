@@ -130,7 +130,8 @@
           "low-salt-taste-adapt-myth"
         ],
         "make": [
-          "less-salt-senbei-keep-salty"
+          "less-salt-senbei-keep-salty",
+          "pepper-low-salt-senbei-saltiness"
         ],
         "data": [
           "senbei-salt-content"

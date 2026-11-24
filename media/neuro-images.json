@@ -1562,5 +1562,22 @@
   "remote640": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Caution_sign_on_Slip_Street.jpg/500px-Caution_sign_on_Slip_Street.jpg",
   "og": "https://neuro.seadice.win/img/fear-appeal-ads-og.jpg",
   "local": true
+ },
+ "penalty-deposit-habit": {
+  "file": "File:A jar of world coins.jpg",
+  "src": "/img/penalty-deposit-habit.webp",
+  "src640": "/img/penalty-deposit-habit-sm.webp",
+  "w": 960,
+  "h": 900,
+  "alt": "硬貨の入ったガラスのびん",
+  "artist": "Billjones94",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_jar_of_world_coins.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/A_jar_of_world_coins.jpg/960px-A_jar_of_world_coins.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/A_jar_of_world_coins.jpg/500px-A_jar_of_world_coins.jpg",
+  "og": "https://neuro.seadice.win/img/penalty-deposit-habit-og.jpg",
+  "local": true
  }
 }

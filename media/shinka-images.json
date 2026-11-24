@@ -563,5 +563,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Colonies_of_Escherichia_coli_on_agar_plate.jpg/500px-Colonies_of_Escherichia_coli_on_agar_plate.jpg",
   "og": "https://shinka.seadice.win/img/e-coli-long-term-evolution.jpg",
   "local": true
+ },
+ "human-body-hair": {
+  "file": "File:Heterocephalus glaber - Museo Civico di Storia Naturale Giacomo Doria - Genoa, Italy - DSC02834.JPG",
+  "src": "/img/human-body-hair.jpg",
+  "src640": "/img/human-body-hair-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "博物館のハダカデバネズミの標本（イタリア・ジェノヴァ市立自然史博物館）。人間と同じく、毛の少ない体が別々に進化した哺乳類",
+  "artist": "Daderot",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Heterocephalus_glaber_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa,_Italy_-_DSC02834.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Heterocephalus_glaber_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02834.JPG/960px-Heterocephalus_glaber_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02834.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Heterocephalus_glaber_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02834.JPG/500px-Heterocephalus_glaber_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02834.JPG",
+  "og": "https://shinka.seadice.win/img/human-body-hair.jpg",
+  "local": true
  }
 }
