@@ -431,6 +431,15 @@
   ]
  },
  {
+  "id": "performativity",
+  "term": "パフォーマティヴィティ（行為遂行性）",
+  "en": "Performativity",
+  "def": "男らしさ・女らしさは、生まれつきの中身が表に出たものではなく、社会の決まりに沿った振る舞いのくり返しで作られ、自然なものに見えている、というバトラーの考えです。1990年の『ジェンダー・トラブル』で示されました。",
+  "slugs": [
+   "butler-gender-performativity"
+  ]
+ },
+ {
   "id": "paradigm-shift",
   "term": "パラダイムシフト",
   "en": "Paradigm shift",
