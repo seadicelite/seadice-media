@@ -1344,5 +1344,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/A_pile_of_alphabet_wooden_blocks.jpg/500px-A_pile_of_alphabet_wooden_blocks.jpg",
   "og": "https://oya.seadice.win/img/parent-grandchild-care-burden.jpg",
   "local": true
+ },
+ "parent-wants-to-get-a-dog": {
+  "file": "File:Dog food in a bowl.jpg",
+  "src": "/img/parent-wants-to-get-a-dog.jpg",
+  "src640": "/img/parent-wants-to-get-a-dog-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "白い器に入ったドッグフード",
+  "artist": "James Redekop",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dog_food_in_a_bowl.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Dog_food_in_a_bowl.jpg/960px-Dog_food_in_a_bowl.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Dog_food_in_a_bowl.jpg/500px-Dog_food_in_a_bowl.jpg",
+  "og": "https://oya.seadice.win/img/parent-wants-to-get-a-dog.jpg",
+  "local": true
  }
 }
