@@ -270,7 +270,8 @@
      "debt-interest-underestimation-exponential-growth-bias"
     ],
     "notice": [
-     "debt-secrecy-self-check"
+     "debt-secrecy-self-check",
+     "debt-total-count-self-check"
     ],
     "fix": [
      "debt-repayment-keep-going-tips"
