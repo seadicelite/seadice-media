@@ -3637,5 +3637,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/YoungCoupleEmbracing-20070508.jpg/500px-YoungCoupleEmbracing-20070508.jpg",
   "og": "https://umbra.seadice.win/img/couple-touch-mood-stress-research.jpg",
   "local": true
+ },
+ "forgiving-infidelity-staying-together-research": {
+  "file": "File:Two small tasting cups of Laoshan green tea.jpg",
+  "src": "/img/forgiving-infidelity-staying-together-research.jpg",
+  "src640": "/img/forgiving-infidelity-staying-together-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のテーブルに置かれた、緑茶の入った2つの小さな湯のみ",
+  "artist": "Difference engine",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Two_small_tasting_cups_of_Laoshan_green_tea.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Two_small_tasting_cups_of_Laoshan_green_tea.jpg/960px-Two_small_tasting_cups_of_Laoshan_green_tea.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Two_small_tasting_cups_of_Laoshan_green_tea.jpg/500px-Two_small_tasting_cups_of_Laoshan_green_tea.jpg",
+  "og": "https://umbra.seadice.win/img/forgiving-infidelity-staying-together-research.jpg",
+  "local": true
  }
 }
