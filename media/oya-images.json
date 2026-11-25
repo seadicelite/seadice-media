@@ -1362,5 +1362,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Dog_food_in_a_bowl.jpg/500px-Dog_food_in_a_bowl.jpg",
   "og": "https://oya.seadice.win/img/parent-wants-to-get-a-dog.jpg",
   "local": true
+ },
+ "parent-glaucoma-visual-field-driving": {
+  "file": "File:Car side mirror sunset.jpg",
+  "src": "/img/parent-glaucoma-visual-field-driving.webp",
+  "src640": "/img/parent-glaucoma-visual-field-driving-sm.webp",
+  "w": 960,
+  "h": 718,
+  "alt": "夕方の道路が映る車のサイドミラー",
+  "artist": "J RAWLS",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Car_side_mirror_sunset.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Car_side_mirror_sunset.jpg/960px-Car_side_mirror_sunset.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Car_side_mirror_sunset.jpg/500px-Car_side_mirror_sunset.jpg",
+  "og": "https://oya.seadice.win/img/parent-glaucoma-visual-field-driving-og.jpg",
+  "local": true
  }
 }
