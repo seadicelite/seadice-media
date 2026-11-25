@@ -9,6 +9,15 @@
   ]
  },
  {
+  "id": "chemosignal",
+  "term": "化学シグナル",
+  "en": "Chemosignal",
+  "def": "匂いとして意識できないほど微量でも、鼻から吸うと脳や行動に働きかける化学物質。女性の涙を吸った男性で仕返し行動が減った実験や、無臭の体の匂いで男女の攻撃行動が逆方向に動いた実験で確認されている。",
+  "slugs": [
+   "tears-chemosignal-aggression-research"
+  ]
+ },
+ {
   "id": "ovulatory-shift-hypothesis",
   "term": "排卵シフト仮説",
   "en": "Ovulatory shift hypothesis",
