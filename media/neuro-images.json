@@ -1579,5 +1579,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/A_jar_of_world_coins.jpg/500px-A_jar_of_world_coins.jpg",
   "og": "https://neuro.seadice.win/img/penalty-deposit-habit-og.jpg",
   "local": true
+ },
+ "story-or-numbers": {
+  "file": "File:Three puppies sitting on an open book on a table. Etching by Wellcome V0021891.jpg",
+  "src": "/img/story-or-numbers.jpg",
+  "src640": "/img/story-or-numbers-sm.jpg",
+  "w": 960,
+  "h": 792,
+  "alt": "開いた本の上に座る3匹の子犬の銅版画",
+  "artist": "William Henry Hamilton Trood",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Three_puppies_sitting_on_an_open_book_on_a_table._Etching_by_Wellcome_V0021891.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Three_puppies_sitting_on_an_open_book_on_a_table._Etching_by_Wellcome_V0021891.jpg/960px-Three_puppies_sitting_on_an_open_book_on_a_table._Etching_by_Wellcome_V0021891.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Three_puppies_sitting_on_an_open_book_on_a_table._Etching_by_Wellcome_V0021891.jpg/500px-Three_puppies_sitting_on_an_open_book_on_a_table._Etching_by_Wellcome_V0021891.jpg",
+  "og": "https://neuro.seadice.win/img/story-or-numbers.jpg",
+  "local": true
  }
 }
