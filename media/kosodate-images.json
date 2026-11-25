@@ -1751,5 +1751,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rows_of_Desks_in_Lecture_Theatre.jpg/500px-Rows_of_Desks_in_Lecture_Theatre.jpg",
   "og": "https://kosodate.seadice.win/img/ai-school-classroom-change-og.jpg",
   "local": true
+ },
+ "grandparents-spoiling-child-rules": {
+  "file": "File:A Golden teapot and iron plate with table wares in Lung Dim Sum.jpg",
+  "src": "/img/grandparents-spoiling-child-rules.jpg",
+  "src640": "/img/grandparents-spoiling-child-rules-sm.jpg",
+  "w": 960,
+  "h": 721,
+  "alt": "テーブルの上のティーポットとカップ",
+  "artist": "Peachyeung316",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_Golden_teapot_and_iron_plate_with_table_wares_in_Lung_Dim_Sum.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/A_Golden_teapot_and_iron_plate_with_table_wares_in_Lung_Dim_Sum.jpg/960px-A_Golden_teapot_and_iron_plate_with_table_wares_in_Lung_Dim_Sum.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/A_Golden_teapot_and_iron_plate_with_table_wares_in_Lung_Dim_Sum.jpg/500px-A_Golden_teapot_and_iron_plate_with_table_wares_in_Lung_Dim_Sum.jpg",
+  "og": "https://kosodate.seadice.win/img/grandparents-spoiling-child-rules.jpg",
+  "local": true
  }
 }

@@ -1210,5 +1210,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vojt%C4%9Bch_Hynais%2C_Curtain_of_the_National_Theatre%2C_Prague.jpg/500px-Vojt%C4%9Bch_Hynais%2C_Curtain_of_the_National_Theatre%2C_Prague.jpg",
   "og": "https://tetsugaku.seadice.win/img/butler-gender-performativity.jpg",
   "local": true
+ },
+ "singer-animal-liberation": {
+  "file": "File:Saitama Domestic Pigs In Pasture 1.jpg",
+  "src": "/img/singer-animal-liberation.jpg",
+  "src640": "/img/singer-animal-liberation-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "牧草地で過ごす豚",
+  "artist": "京浜にけ at Japanese Wikipedia",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Saitama_Domestic_Pigs_In_Pasture_1.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Saitama_Domestic_Pigs_In_Pasture_1.jpg/960px-Saitama_Domestic_Pigs_In_Pasture_1.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Saitama_Domestic_Pigs_In_Pasture_1.jpg/500px-Saitama_Domestic_Pigs_In_Pasture_1.jpg",
+  "og": "https://tetsugaku.seadice.win/img/singer-animal-liberation.jpg",
+  "local": true
  }
 }
