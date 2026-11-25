@@ -600,5 +600,14 @@
   "slugs": [
    "ideal-partner-height-preference-research"
   ]
+ },
+ {
+  "id": "beer-goggles-effect",
+  "term": "ビールゴーグル効果",
+  "en": "Beer goggles effect",
+  "def": "お酒に酔うと、素面のときより相手が魅力的に見えるとされる通説。実験室の研究では小さな関連が示されたが、実際のバーの客を調べた研究では確認されていない。",
+  "slugs": [
+   "beer-goggles-alcohol-attractiveness-research"
+  ]
  }
 ]
