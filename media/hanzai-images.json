@@ -1631,5 +1631,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lots_of_dice_01.jpg/500px-Lots_of_dice_01.jpg",
   "og": "https://hanzai.seadice.win/img/ai-delegation-dishonesty.jpg",
   "local": true
+ },
+ "watching-eyes-effect-replication": {
+  "file": "File:A small cup of coffee.JPG",
+  "src": "/img/watching-eyes-effect-replication.jpg",
+  "src640": "/img/watching-eyes-effect-replication-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "ソーサーにのったコーヒーカップ",
+  "artist": "Julius Schorzman",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_small_cup_of_coffee.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/960px-A_small_cup_of_coffee.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/500px-A_small_cup_of_coffee.JPG",
+  "og": "https://hanzai.seadice.win/img/watching-eyes-effect-replication.jpg",
+  "local": true
  }
 }
