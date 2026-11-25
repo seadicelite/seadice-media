@@ -1061,5 +1061,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bumbu_dan_Rempah_-_rempah.jpg/500px-Bumbu_dan_Rempah_-_rempah.jpg",
   "og": "https://senbei.seadice.win/img/pepper-low-salt-senbei-saltiness.jpg",
   "local": true
+ },
+ "senbei-crack-why-moisture": {
+  "file": "File:Abkuehlgitter.jpg",
+  "src": "/img/senbei-crack-why-moisture.jpg",
+  "src640": "/img/senbei-crack-why-moisture-sm.jpg",
+  "w": 960,
+  "h": 643,
+  "alt": "網の上で冷ましている焼いたケーキ",
+  "artist": "Dial（Commons上の推定）",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Abkuehlgitter.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Abkuehlgitter.jpg/960px-Abkuehlgitter.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Abkuehlgitter.jpg/500px-Abkuehlgitter.jpg",
+  "og": "https://senbei.seadice.win/img/senbei-crack-why-moisture.jpg",
+  "local": true
  }
 }
