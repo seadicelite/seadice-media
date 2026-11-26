@@ -1597,5 +1597,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Three_puppies_sitting_on_an_open_book_on_a_table._Etching_by_Wellcome_V0021891.jpg/500px-Three_puppies_sitting_on_an_open_book_on_a_table._Etching_by_Wellcome_V0021891.jpg",
   "og": "https://neuro.seadice.win/img/story-or-numbers.jpg",
   "local": true
+ },
+ "price-elasticity": {
+  "file": "File:28 Borlotti bean variety - food prices at grocery market in Italy.jpg",
+  "src": "/img/price-elasticity.jpg",
+  "src640": "/img/price-elasticity-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "値札のついた市場の豆",
+  "artist": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:28_Borlotti_bean_variety_-_food_prices_at_grocery_market_in_Italy.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/28_Borlotti_bean_variety_-_food_prices_at_grocery_market_in_Italy.jpg/960px-28_Borlotti_bean_variety_-_food_prices_at_grocery_market_in_Italy.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/28_Borlotti_bean_variety_-_food_prices_at_grocery_market_in_Italy.jpg/500px-28_Borlotti_bean_variety_-_food_prices_at_grocery_market_in_Italy.jpg",
+  "og": "https://neuro.seadice.win/img/price-elasticity.jpg",
+  "local": true
  }
 }
