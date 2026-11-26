@@ -1184,6 +1184,22 @@
    "evidence": "meta",
    "slug": "falsely-suspected-of-lying-partner-research",
    "id": "nervous-when-suspected"
+  },
+  {
+   "part": "表情",
+   "gesture": "好きな人の前でよく笑う",
+   "belief": "笑顔でいればモテる",
+   "level": "b",
+   "text": "写真の研究では女性の笑顔は魅力的と評価されたが、男性の笑顔は性的な魅力では低め、結婚相手としては高めと、評価の場面で結果が分かれました。会話では2人の笑顔がそろうことが好意と結びつきました。",
+   "slug": "smiling-attractiveness-gender-context-research",
+   "id": "smile-attract",
+   "tags": [
+    "like"
+   ],
+   "scenes": [
+    "date",
+    "first"
+   ]
   }
  ],
  "quiz": [
@@ -1846,6 +1862,17 @@
    ],
    "e": "本当の話を「本当」と判定できたのは61%、嘘を「嘘」と見抜けたのは47%でした。本当のことでも、態度だけでは伝わりきらないことがあります。",
    "slug": "falsely-suspected-of-lying-partner-research"
+  },
+  {
+   "q": "4分間のビデオお見合いで画面上の笑顔を加工した実験では、「また会いたい」が最も高かったのはどの回でしたか？",
+   "c": [
+    "2人とも笑顔を強めた回",
+    "片方だけ笑顔を強めた回",
+    "2人とも笑顔を弱めた回",
+    "笑顔の加工による差はなかった"
+   ],
+   "e": "恋人のいない31人の実験で、2人とも笑顔を強めた回は、片方を強めてもう片方を弱めた回より「また会いたい」が高くなりました。人数が少ない実験室の研究なので、結論は控えめに受け取る必要があります。",
+   "slug": "smiling-attractiveness-gender-context-research"
   }
  ],
  "purposes": [
