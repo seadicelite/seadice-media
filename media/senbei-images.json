@@ -1079,5 +1079,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Abkuehlgitter.jpg/500px-Abkuehlgitter.jpg",
   "og": "https://senbei.seadice.win/img/senbei-crack-why-moisture.jpg",
   "local": true
+ },
+ "spicy-senbei-who-likes-why": {
+  "file": "File:Chilli flakes.jpg",
+  "src": "/img/spicy-senbei-who-likes-why.jpg",
+  "src640": "/img/spicy-senbei-who-likes-why-sm.jpg",
+  "w": 960,
+  "h": 721,
+  "alt": "粗く砕いた赤唐辛子（唐辛子のフレーク）",
+  "artist": "Takeaway",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chilli_flakes.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chilli_flakes.jpg/960px-Chilli_flakes.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chilli_flakes.jpg/500px-Chilli_flakes.jpg",
+  "og": "https://senbei.seadice.win/img/spicy-senbei-who-likes-why.jpg",
+  "local": true
  }
 }

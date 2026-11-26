@@ -170,7 +170,8 @@
      "charm-pricing-980"
     ],
     "num": [
-     "free-trial-length"
+     "free-trial-length",
+     "price-elasticity"
     ],
     "unknown": [
      "price-anchoring"
