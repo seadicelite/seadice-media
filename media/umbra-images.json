@@ -3763,5 +3763,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Senior-3336451_1920.jpg/500px-Senior-3336451_1920.jpg",
   "og": "https://umbra.seadice.win/img/marital-history-happiness-health-research.jpg",
   "local": true
+ },
+ "ex-thoughts-suppression-rebound-research": {
+  "file": "File:Rainy Lights.jpg",
+  "src": "/img/ex-thoughts-suppression-rebound-research.jpg",
+  "src640": "/img/ex-thoughts-suppression-rebound-research-sm.jpg",
+  "w": 960,
+  "h": 636,
+  "alt": "雨粒のついた窓ガラス越しに、ぼやけて見える明かり",
+  "artist": "Defi22",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rainy_Lights.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rainy_Lights.jpg/960px-Rainy_Lights.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rainy_Lights.jpg/500px-Rainy_Lights.jpg",
+  "og": "https://umbra.seadice.win/img/ex-thoughts-suppression-rebound-research.jpg",
+  "local": true
  }
 }

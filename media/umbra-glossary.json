@@ -609,5 +609,14 @@
   "slugs": [
    "alcohol-beer-goggles-attractiveness-research"
   ]
+ },
+ {
+  "id": "thought-suppression",
+  "term": "思考抑制",
+  "en": "Thought suppression",
+  "def": "浮かんだ考えを頭から追い出そうとすること。押さえ込みをやめたあとに、その考えがかえって戻りやすい「リバウンド」が多くの実験で確認されている。効果の大きさは小〜中程度とされる。",
+  "slugs": [
+   "ex-thoughts-suppression-rebound-research"
+  ]
  }
 ]
