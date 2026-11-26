@@ -2349,5 +2349,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Olympia_CD200.jpg/500px-Olympia_CD200.jpg",
   "og": "https://ledger.seadice.win/img/debt-payoff-date-calculator.jpg",
   "local": true
+ },
+ "investing-herding-bandwagon-effect": {
+  "file": "File:Cologne Germany Flock-of-sheep-01.jpg",
+  "src": "/img/investing-herding-bandwagon-effect.jpg",
+  "src640": "/img/investing-herding-bandwagon-effect-sm.jpg",
+  "w": 960,
+  "h": 454,
+  "alt": "牧草地で同じ方向を向いて集まる羊の群れ",
+  "artist": "CEphoto, Uwe Aranas",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cologne_Germany_Flock-of-sheep-01.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cologne_Germany_Flock-of-sheep-01.jpg/960px-Cologne_Germany_Flock-of-sheep-01.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cologne_Germany_Flock-of-sheep-01.jpg/500px-Cologne_Germany_Flock-of-sheep-01.jpg",
+  "og": "https://ledger.seadice.win/img/investing-herding-bandwagon-effect.jpg",
+  "local": true
  }
 }
