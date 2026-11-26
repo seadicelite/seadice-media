@@ -1762,5 +1762,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Electronics_workbench.jpg/500px-Electronics_workbench.jpg",
   "og": "https://bohan.seadice.win/img/sns-identified-victim-first-actions.jpg",
   "local": true
+ },
+ "car-door-handle-scratch-theft-attempt": {
+  "file": "File:Custom door lock knob.jpg",
+  "src": "/img/car-door-handle-scratch-theft-attempt.jpg",
+  "src640": "/img/car-door-handle-scratch-theft-attempt-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "車のドアロック",
+  "artist": "Trekphiler",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Custom_door_lock_knob.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Custom_door_lock_knob.jpg/960px-Custom_door_lock_knob.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Custom_door_lock_knob.jpg/500px-Custom_door_lock_knob.jpg",
+  "og": "https://bohan.seadice.win/img/car-door-handle-scratch-theft-attempt.jpg",
+  "local": true
  }
 }

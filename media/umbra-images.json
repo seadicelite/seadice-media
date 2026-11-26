@@ -3727,5 +3727,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bar_counter_with_beer_taps%2C_Vieux-Qu%C3%A9bec.jpg/500px-Bar_counter_with_beer_taps%2C_Vieux-Qu%C3%A9bec.jpg",
   "og": "https://umbra.seadice.win/img/alcohol-beer-goggles-attractiveness-research.jpg",
   "local": true
+ },
+ "smiling-attractiveness-gender-context-research": {
+  "file": "File:Two Hands Cafe latte art (Unsplash).jpg",
+  "src": "/img/smiling-attractiveness-gender-context-research.jpg",
+  "src640": "/img/smiling-attractiveness-gender-context-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木のテーブルに置かれた、ハートのラテアートのコーヒー",
+  "artist": "Drew Coffman drewcoffman",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Two_Hands_Cafe_latte_art_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Two_Hands_Cafe_latte_art_%28Unsplash%29.jpg/960px-Two_Hands_Cafe_latte_art_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Two_Hands_Cafe_latte_art_%28Unsplash%29.jpg/500px-Two_Hands_Cafe_latte_art_%28Unsplash%29.jpg",
+  "og": "https://umbra.seadice.win/img/smiling-attractiveness-gender-context-research.jpg",
+  "local": true
  }
 }
