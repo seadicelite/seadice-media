@@ -1,5 +1,14 @@
 [
  {
+  "id": "pair-bonding",
+  "term": "ペアボンディング",
+  "en": "Pair bonding",
+  "def": "特定の相手との一対一の結びつきを作り、長く維持すること。プレーリーボールという動物での研究が中心で、オキシトシンの受容体がその形成に関わるとされる。",
+  "slugs": [
+   "oxytocin-love-hormone-myth-research"
+  ]
+ },
+ {
   "id": "chemosignal",
   "term": "化学シグナル",
   "en": "Chemosignal",
