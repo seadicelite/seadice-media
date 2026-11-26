@@ -600,5 +600,14 @@
   "slugs": [
    "ideal-partner-height-preference-research"
   ]
+ },
+ {
+  "id": "beer-goggles-effect",
+  "term": "ビールゴーグル効果",
+  "en": "Beer goggles effect",
+  "def": "お酒を飲むと相手が魅力的に見えてくる、という通説。メタ分析では異性への評価に小さな効果があったが、実際のバー調査では確認されず、結論は割れている。",
+  "slugs": [
+   "alcohol-beer-goggles-attractiveness-research"
+  ]
  }
 ]
