@@ -142,7 +142,9 @@
     "prevent": [
      "vehicle-motorcycle-theft-immobilizer"
     ],
-    "notice": [],
+    "notice": [
+     "car-door-handle-scratch-theft-attempt"
+    ],
     "after": [
      "bicycle-car-theft-recovery-steps"
     ],
