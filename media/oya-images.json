@@ -1379,5 +1379,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Car_side_mirror_sunset.jpg/500px-Car_side_mirror_sunset.jpg",
   "og": "https://oya.seadice.win/img/parent-glaucoma-visual-field-driving-og.jpg",
   "local": true
+ },
+ "parent-drives-only-short-distance": {
+  "file": "File:Japan National Road R293.JPG",
+  "src": "/img/parent-drives-only-short-distance.webp",
+  "src640": "/img/parent-drives-only-short-distance-sm.webp",
+  "w": 960,
+  "h": 720,
+  "alt": "国道の青い案内標識と、交差点に向かうトラック",
+  "artist": "ほぶ",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Japan_National_Road_R293.JPG",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Japan_National_Road_R293.JPG/960px-Japan_National_Road_R293.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Japan_National_Road_R293.JPG/500px-Japan_National_Road_R293.JPG",
+  "og": "https://oya.seadice.win/img/parent-drives-only-short-distance-og.jpg",
+  "local": true
  }
 }
