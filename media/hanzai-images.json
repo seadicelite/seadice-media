@@ -1649,5 +1649,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/500px-A_small_cup_of_coffee.JPG",
   "og": "https://hanzai.seadice.win/img/watching-eyes-effect-replication.jpg",
   "local": true
+ },
+ "true-crime-fascination": {
+  "file": "File:Typewriter (Unsplash).jpg",
+  "src": "/img/true-crime-fascination.jpg",
+  "src640": "/img/true-crime-fascination-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上のタイプライター",
+  "artist": "Alexa Mazzarello alexamazzarello",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Typewriter_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Typewriter_%28Unsplash%29.jpg/960px-Typewriter_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Typewriter_%28Unsplash%29.jpg/500px-Typewriter_%28Unsplash%29.jpg",
+  "og": "https://hanzai.seadice.win/img/true-crime-fascination.jpg",
+  "local": true
  }
 }
