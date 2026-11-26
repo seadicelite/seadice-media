@@ -3709,5 +3709,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/WS-meeting_Berlin_20070816.jpg/500px-WS-meeting_Berlin_20070816.jpg",
   "og": "https://umbra.seadice.win/img/knowing-partner-overconfidence-research.jpg",
   "local": true
+ },
+ "alcohol-beer-goggles-attractiveness-research": {
+  "file": "File:Bar counter with beer taps, Vieux-Québec.jpg",
+  "src": "/img/alcohol-beer-goggles-attractiveness-research.jpg",
+  "src640": "/img/alcohol-beer-goggles-attractiveness-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "木製のバーカウンターに並んだビールのグラス",
+  "artist": "Wilfredor",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bar_counter_with_beer_taps,_Vieux-Qu%C3%A9bec.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bar_counter_with_beer_taps%2C_Vieux-Qu%C3%A9bec.jpg/960px-Bar_counter_with_beer_taps%2C_Vieux-Qu%C3%A9bec.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bar_counter_with_beer_taps%2C_Vieux-Qu%C3%A9bec.jpg/500px-Bar_counter_with_beer_taps%2C_Vieux-Qu%C3%A9bec.jpg",
+  "og": "https://umbra.seadice.win/img/alcohol-beer-goggles-attractiveness-research.jpg",
+  "local": true
  }
 }
