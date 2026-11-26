@@ -581,5 +581,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Heterocephalus_glaber_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02834.JPG/500px-Heterocephalus_glaber_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02834.JPG",
   "og": "https://shinka.seadice.win/img/human-body-hair.jpg",
   "local": true
+ },
+ "peppered-moth": {
+  "file": "File:(1931) Peppered Moth (Biston betularia) ab.carbonaria (7416106952).jpg",
+  "src": "/img/peppered-moth.jpg",
+  "src640": "/img/peppered-moth-sm.jpg",
+  "w": 960,
+  "h": 596,
+  "alt": "オオシモフリエダシャクの黒い型（carbonaria）の成虫",
+  "artist": "Ben Sale from UK",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:(1931)_Peppered_Moth_(Biston_betularia)_ab.carbonaria_(7416106952).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/%281931%29_Peppered_Moth_%28Biston_betularia%29_ab.carbonaria_%287416106952%29.jpg/960px-%281931%29_Peppered_Moth_%28Biston_betularia%29_ab.carbonaria_%287416106952%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/%281931%29_Peppered_Moth_%28Biston_betularia%29_ab.carbonaria_%287416106952%29.jpg/500px-%281931%29_Peppered_Moth_%28Biston_betularia%29_ab.carbonaria_%287416106952%29.jpg",
+  "og": "https://shinka.seadice.win/img/peppered-moth.jpg",
+  "local": true
  }
 }
