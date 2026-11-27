@@ -1228,5 +1228,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Saitama_Domestic_Pigs_In_Pasture_1.jpg/500px-Saitama_Domestic_Pigs_In_Pasture_1.jpg",
   "og": "https://tetsugaku.seadice.win/img/singer-animal-liberation.jpg",
   "local": true
+ },
+ "heidegger-ready-to-hand": {
+  "file": "File:Claw hammer-1.jpg",
+  "src": "/img/heidegger-ready-to-hand.jpg",
+  "src640": "/img/heidegger-ready-to-hand-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "大工道具とハンマー",
+  "artist": "Shakespeare at en.wikipedia",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Claw_hammer-1.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Claw_hammer-1.jpg/960px-Claw_hammer-1.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Claw_hammer-1.jpg/500px-Claw_hammer-1.jpg",
+  "og": "https://tetsugaku.seadice.win/img/heidegger-ready-to-hand.jpg",
+  "local": true
  }
 }
