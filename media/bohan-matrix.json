@@ -352,7 +352,9 @@
      "two-factor-passkey-account",
      "password-reuse-risk"
     ],
-    "notice": [],
+    "notice": [
+     "account-takeover-warning-signs"
+    ],
     "after": [
      "account-takeover-recovery-steps"
     ],
