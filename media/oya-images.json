@@ -1396,5 +1396,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Japan_National_Road_R293.JPG/500px-Japan_National_Road_R293.JPG",
   "og": "https://oya.seadice.win/img/parent-drives-only-short-distance-og.jpg",
   "local": true
+ },
+ "parent-care-telling-workplace": {
+  "file": "File:USVI IMG 5202 - Minimalist desk with colorful pencils in a cardboard holder a cup holding pens and scissors and a notebook with botanical patterns all under soft light.jpg",
+  "src": "/img/parent-care-telling-workplace.jpg",
+  "src640": "/img/parent-care-telling-workplace-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "机の上の色鉛筆とペン立てとノート",
+  "artist": "Government of the United States Virgin Islands",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg/960px-thumbnail.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg/500px-thumbnail.jpg",
+  "og": "https://oya.seadice.win/img/parent-care-telling-workplace.jpg",
+  "local": true
  }
 }
