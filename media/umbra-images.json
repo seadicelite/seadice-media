@@ -3763,5 +3763,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rainy_Lights.jpg/500px-Rainy_Lights.jpg",
   "og": "https://umbra.seadice.win/img/ex-thoughts-suppression-rebound-research.jpg",
   "local": true
+ },
+ "women-more-talkative-word-count-research": {
+  "file": "File:Assmann 640 Universa dictation machine (2323675750).jpg",
+  "src": "/img/women-more-talkative-word-count-research.jpg",
+  "src640": "/img/women-more-talkative-word-count-research-sm.jpg",
+  "w": 960,
+  "h": 639,
+  "alt": "小さな音声レコーダー",
+  "artist": "Marcin Wichary from San Francisco, Calif.",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Assmann_640_Universa_dictation_machine_(2323675750).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Assmann_640_Universa_dictation_machine_%282323675750%29.jpg/960px-Assmann_640_Universa_dictation_machine_%282323675750%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Assmann_640_Universa_dictation_machine_%282323675750%29.jpg/500px-Assmann_640_Universa_dictation_machine_%282323675750%29.jpg",
+  "og": "https://umbra.seadice.win/img/women-more-talkative-word-count-research.jpg",
+  "local": true
  }
 }
