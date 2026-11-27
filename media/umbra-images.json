@@ -3799,5 +3799,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Close-up_of_the_rain_drops_on_a_car_window._Car_in_a_blurry_background.jpg/500px-Close-up_of_the_rain_drops_on_a_car_window._Car_in_a_blurry_background.jpg",
   "og": "https://umbra.seadice.win/img/holding-back-feelings-partner-suppression-research.jpg",
   "local": true
+ },
+ "dyadic-coping-relationship-satisfaction-research": {
+  "file": "File:Couple holding hands by a wall (Unsplash).jpg",
+  "src": "/img/dyadic-coping-relationship-satisfaction-research.jpg",
+  "src640": "/img/dyadic-coping-relationship-satisfaction-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "手を取り合う2人の後ろ姿",
+  "artist": "Tanja Heffner tanjaheffner",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Couple_holding_hands_by_a_wall_(Unsplash).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Couple_holding_hands_by_a_wall_%28Unsplash%29.jpg/960px-Couple_holding_hands_by_a_wall_%28Unsplash%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Couple_holding_hands_by_a_wall_%28Unsplash%29.jpg/500px-Couple_holding_hands_by_a_wall_%28Unsplash%29.jpg",
+  "og": "https://umbra.seadice.win/img/dyadic-coping-relationship-satisfaction-research.jpg",
+  "local": true
  }
 }
