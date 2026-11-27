@@ -358,7 +358,8 @@
     ],
     "use": [
      "couples-household-cost-sharing-checklist",
-     "group-bill-splitting-calculator"
+     "group-bill-splitting-calculator",
+     "money-lending-record-table"
     ]
    }
   },

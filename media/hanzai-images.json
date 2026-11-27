@@ -1667,5 +1667,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Typewriter_%28Unsplash%29.jpg/500px-Typewriter_%28Unsplash%29.jpg",
   "og": "https://hanzai.seadice.win/img/true-crime-fascination.jpg",
   "local": true
+ },
+ "incentivized-informant-testimony": {
+  "file": "File:Jury box in 3rd floor courtroom of the Conway County Courthouse in Morrilton, AR.jpg",
+  "src": "/img/incentivized-informant-testimony.webp",
+  "src640": "/img/incentivized-informant-testimony-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "人のいない法廷の陪審員席",
+  "artist": "Brandonrush",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Jury_box_in_3rd_floor_courtroom_of_the_Conway_County_Courthouse_in_Morrilton,_AR.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jury_box_in_3rd_floor_courtroom_of_the_Conway_County_Courthouse_in_Morrilton%2C_AR.jpg/960px-Jury_box_in_3rd_floor_courtroom_of_the_Conway_County_Courthouse_in_Morrilton%2C_AR.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jury_box_in_3rd_floor_courtroom_of_the_Conway_County_Courthouse_in_Morrilton%2C_AR.jpg/500px-Jury_box_in_3rd_floor_courtroom_of_the_Conway_County_Courthouse_in_Morrilton%2C_AR.jpg",
+  "og": "https://hanzai.seadice.win/img/incentivized-informant-testimony-og.jpg",
+  "local": true
  }
 }
