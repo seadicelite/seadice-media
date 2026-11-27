@@ -338,6 +338,15 @@
   ]
  },
  {
+  "id": "sekai-nai-sonzai",
+  "term": "世界内存在",
+  "en": "Being-in-the-world",
+  "def": "人は最初から道具を使い、他者と関わる具体的な状況の中で自分を理解している、というハイデガーが示した存在のあり方です。観察者として世界の外に立っているのではないという点がポイントです。",
+  "slugs": [
+   "heidegger-ready-to-hand"
+  ]
+ },
+ {
   "id": "sogai",
   "term": "疎外",
   "en": "Alienation",
