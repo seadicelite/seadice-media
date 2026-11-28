@@ -1684,5 +1684,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jury_box_in_3rd_floor_courtroom_of_the_Conway_County_Courthouse_in_Morrilton%2C_AR.jpg/500px-Jury_box_in_3rd_floor_courtroom_of_the_Conway_County_Courthouse_in_Morrilton%2C_AR.jpg",
   "og": "https://hanzai.seadice.win/img/incentivized-informant-testimony-og.jpg",
   "local": true
+ },
+ "ideal-victim-emotional-demeanor": {
+  "file": "File:Courtroom European Court of Human Rights 02.JPG",
+  "src": "/img/ideal-victim-emotional-demeanor.jpg",
+  "src640": "/img/ideal-victim-emotional-demeanor-sm.jpg",
+  "w": 960,
+  "h": 636,
+  "alt": "人のいない法廷",
+  "artist": "Adrian Grycuk",
+  "license": "CC BY-SA 3.0 pl",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Courtroom_European_Court_of_Human_Rights_02.JPG",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Courtroom_European_Court_of_Human_Rights_02.JPG/960px-Courtroom_European_Court_of_Human_Rights_02.JPG",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Courtroom_European_Court_of_Human_Rights_02.JPG/500px-Courtroom_European_Court_of_Human_Rights_02.JPG",
+  "og": "https://hanzai.seadice.win/img/ideal-victim-emotional-demeanor.jpg",
+  "local": true
  }
 }

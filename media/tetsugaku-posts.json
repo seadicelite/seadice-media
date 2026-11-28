@@ -1,5 +1,13 @@
 [
  {
+  "slug": "hume-is-ought-problem",
+  "category": "近代哲学",
+  "type": "guide",
+  "date": "2026-11-28",
+  "title": "ヒュームの「is-ought問題」とは？「である」から「べきだ」は導けるか",
+  "summary": "事実の記述だけから道徳的な結論は導けない、というヒュームの指摘。自然主義的誤謬との違いや、現代の議論への関わりを解説します。"
+ },
+ {
   "slug": "heidegger-ready-to-hand",
   "category": "実存・現象学",
   "type": "guide",
