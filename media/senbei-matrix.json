@@ -136,7 +136,8 @@
           "pepper-low-salt-senbei-saltiness"
         ],
         "data": [
-          "senbei-salt-content"
+          "senbei-salt-content",
+          "senbei-eating-frequency-salt-intake"
         ],
         "use": [
           "senbei-salt-reduction-blind-test"
