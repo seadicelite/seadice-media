@@ -628,5 +628,14 @@
   "slugs": [
    "ex-thoughts-suppression-rebound-research"
   ]
+ },
+ {
+  "id": "relationship-burnout",
+  "term": "関係バーンアウト",
+  "en": "Relationship burnout",
+  "def": "恋愛や結婚の関係で感じる疲弊状態。気持ちが満たされない「枯渇型」と、外からのストレスによる「過負荷型」に分けて測る新しい尺度の研究がある。",
+  "slugs": [
+   "relationship-burnout-two-factors-research"
+  ]
  }
 ]
