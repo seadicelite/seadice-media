@@ -1,5 +1,14 @@
 [
  {
+  "id": "capitalization",
+  "term": "キャピタライゼーション（capitalization）",
+  "en": "Capitalization",
+  "def": "うれしい出来事を誰かに話し、喜びを分かち合う行動。相手が熱心に反応してくれるほど、話した本人の満足感や、2人の関係の満足度が高まることが研究で示されている。",
+  "slugs": [
+   "shared-excitement-partner-reaction-compatibility-research"
+  ]
+ },
+ {
   "id": "pair-bonding",
   "term": "ペアボンディング",
   "en": "Pair bonding",
