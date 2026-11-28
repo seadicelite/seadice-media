@@ -6,7 +6,7 @@ Wikimedia Commons で候補が無ければ Openverse（Flickr Commons・美術�
 --openverse は Commons を飛ばして最初から Openverse だけを検索する（Commonsの結果が弱い時の再検索用）。
 自由に使えるライセンス（パブリックドメイン/CC0/CC BY/CC BY-SA）の写真だけを採用し、撮影者・ライセンス・元ページを必ず表示する。
 候補なし・API失敗のときは何もせず正常終了（記事は写真なしでも成立する）。"""
-import html, json, re, sys, urllib.parse, urllib.request
+import html, json, re, subprocess, sys, urllib.error, urllib.parse, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -40,8 +40,18 @@ def search(query):
     params = {"action": "query", "format": "json", "generator": "search", "gsrsearch": f"{query} filetype:bitmap",
               "gsrnamespace": 6, "gsrlimit": 30, "prop": "imageinfo", "iiprop": "url|size|mime|extmetadata",
               "iiurlwidth": 960, "iiextmetadatafilter": "LicenseShortName|LicenseUrl|Artist|ImageDescription"}
-    r = urllib.request.Request("https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode(params), headers={"User-Agent": UA})
-    pages = json.load(urllib.request.urlopen(r, timeout=20)).get("query", {}).get("pages", {})
+    url = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode(params)
+    r = urllib.request.Request(url, headers={"User-Agent": UA})
+    try:
+        data = json.load(urllib.request.urlopen(r, timeout=20))
+    except urllib.error.HTTPError as e:
+        # 共有の egress proxy 経由だと、同じURL・同じUAでも urllib(HTTP/1.1)だけ429を返し、
+        # curl(HTTP/2)は通ることがある(media/localize_images.py の fetch() と同じ対処。2026-11-20〜)。
+        if e.code != 429:
+            raise
+        out = subprocess.run(["curl", "-fsS", "-A", UA, "--max-time", "20", url], capture_output=True, check=True)
+        data = json.loads(out.stdout)
+    pages = data.get("query", {}).get("pages", {})
     return sorted(pages.values(), key=lambda p: p.get("index", 999))
 
 
