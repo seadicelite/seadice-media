@@ -3835,5 +3835,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lionsecured.jpg_-_Flickr_-_ericmcgregor.jpg/500px-Lionsecured.jpg_-_Flickr_-_ericmcgregor.jpg",
   "og": "https://umbra.seadice.win/img/mate-retention-devotion-or-control-research.jpg",
   "local": true
+ },
+ "refusal-cues-consent-body-language-research": {
+  "file": "File:Montreal Double Red Traffic Light Left Arrow.jpg",
+  "src": "/img/refusal-cues-consent-body-language-research.jpg",
+  "src640": "/img/refusal-cues-consent-body-language-research-sm.jpg",
+  "w": 960,
+  "h": 475,
+  "alt": "赤いランプが2つ点灯した信号機",
+  "artist": "Emma0mb",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Montreal_Double_Red_Traffic_Light_Left_Arrow.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Montreal_Double_Red_Traffic_Light_Left_Arrow.jpg/960px-Montreal_Double_Red_Traffic_Light_Left_Arrow.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Montreal_Double_Red_Traffic_Light_Left_Arrow.jpg/960px-Montreal_Double_Red_Traffic_Light_Left_Arrow.jpg",
+  "og": "https://umbra.seadice.win/img/refusal-cues-consent-body-language-research.jpg",
+  "local": true
  }
 }
