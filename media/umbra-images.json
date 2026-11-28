@@ -3853,5 +3853,21 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Montreal_Double_Red_Traffic_Light_Left_Arrow.jpg/960px-Montreal_Double_Red_Traffic_Light_Left_Arrow.jpg",
   "og": "https://umbra.seadice.win/img/refusal-cues-consent-body-language-research.jpg",
   "local": true
+ },
+ "relationship-burnout-two-factors-research": {
+  "file": "File:A couple silhouette at Ras jebel beach during a golden sunset.jpg",
+  "src": "/img/relationship-burnout-two-factors-research.jpg",
+  "src640": "/img/relationship-burnout-two-factors-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "夕暮れに距離を置いて立つ2人の影",
+  "artist": "Marwenwafi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_couple_silhouette_at_Ras_jebel_beach_during_a_golden_sunset.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "og": "https://umbra.seadice.win/img/relationship-burnout-two-factors-research.jpg",
+  "local": true
  }
 }
