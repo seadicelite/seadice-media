@@ -1097,5 +1097,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chilli_flakes.jpg/500px-Chilli_flakes.jpg",
   "og": "https://senbei.seadice.win/img/spicy-senbei-who-likes-why.jpg",
   "local": true
+ },
+ "soy-sauce-aroma-compounds-count": {
+  "file": "File:Pouring soy sauce into batchoy.jpg",
+  "src": "/img/soy-sauce-aroma-compounds-count.jpg",
+  "src640": "/img/soy-sauce-aroma-compounds-count-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "麺料理のスープに瓶から注がれる醤油",
+  "artist": "Curpharar",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pouring_soy_sauce_into_batchoy.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pouring_soy_sauce_into_batchoy.jpg/960px-Pouring_soy_sauce_into_batchoy.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pouring_soy_sauce_into_batchoy.jpg/500px-Pouring_soy_sauce_into_batchoy.jpg",
+  "og": "https://senbei.seadice.win/img/soy-sauce-aroma-compounds-count.jpg",
+  "local": true
  }
 }
