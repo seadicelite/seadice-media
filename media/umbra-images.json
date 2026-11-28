@@ -3835,5 +3835,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Handcraft_Vintage_Wooden_Table_%2846307576835%29.jpg/500px-Handcraft_Vintage_Wooden_Table_%2846307576835%29.jpg",
   "og": "https://umbra.seadice.win/img/breakup-talking-to-friends-corumination-research.jpg",
   "local": true
+ },
+ "mate-retention-devotion-or-control-research": {
+  "file": "File:Lionsecured.jpg - Flickr - ericmcgregor.jpg",
+  "src": "/img/mate-retention-devotion-or-control-research.jpg",
+  "src640": "/img/mate-retention-devotion-or-control-research-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "鎖につながれた南京錠",
+  "artist": "Eric McGregor from Brooklyn, United States",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lionsecured.jpg_-_Flickr_-_ericmcgregor.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lionsecured.jpg_-_Flickr_-_ericmcgregor.jpg/960px-Lionsecured.jpg_-_Flickr_-_ericmcgregor.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lionsecured.jpg_-_Flickr_-_ericmcgregor.jpg/500px-Lionsecured.jpg_-_Flickr_-_ericmcgregor.jpg",
+  "og": "https://umbra.seadice.win/img/mate-retention-devotion-or-control-research.jpg",
+  "local": true
  }
 }
