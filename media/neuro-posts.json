@@ -1,5 +1,13 @@
 [
   {
+    "slug": "price-changes-taste",
+    "category": "値段と課金",
+    "type": "guide",
+    "date": "2026-11-27",
+    "title": "高い値段だと、おいしく感じる？ ワインのfMRI実験と追試でわかったこと",
+    "summary": "同じワインでも高い値段を見せると「おいしい」が上がった。追試でも同じ向きだが人数は20〜30人。値段を上げれば満足が増えるとは言えない。"
+  },
+  {
     "slug": "price-elasticity",
     "category": "値段と課金",
     "type": "guide",

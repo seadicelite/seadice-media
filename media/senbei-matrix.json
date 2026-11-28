@@ -112,7 +112,8 @@
           "sugar-type-senbei-browning"
         ],
         "data": [
-          "soy-sauce-types-salt"
+          "soy-sauce-types-salt",
+          "soy-sauce-aroma-compounds-count"
         ],
         "use": [
           "soy-sauce-aroma-nose-pinch-test"

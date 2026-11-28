@@ -1615,5 +1615,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/28_Borlotti_bean_variety_-_food_prices_at_grocery_market_in_Italy.jpg/500px-28_Borlotti_bean_variety_-_food_prices_at_grocery_market_in_Italy.jpg",
   "og": "https://neuro.seadice.win/img/price-elasticity.jpg",
   "local": true
+ },
+ "price-changes-taste": {
+  "file": "File:Six wine glasses in red, orange, purple, green, yellow, and light green.jpg",
+  "src": "/img/price-changes-taste.jpg",
+  "src640": "/img/price-changes-taste-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "色ちがいの6つのワイングラス",
+  "artist": "Pittigrilli",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Six_wine_glasses_in_red,_orange,_purple,_green,_yellow,_and_light_green.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Six_wine_glasses_in_red%2C_orange%2C_purple%2C_green%2C_yellow%2C_and_light_green.jpg/960px-Six_wine_glasses_in_red%2C_orange%2C_purple%2C_green%2C_yellow%2C_and_light_green.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Six_wine_glasses_in_red%2C_orange%2C_purple%2C_green%2C_yellow%2C_and_light_green.jpg/500px-Six_wine_glasses_in_red%2C_orange%2C_purple%2C_green%2C_yellow%2C_and_light_green.jpg",
+  "og": "https://neuro.seadice.win/img/price-changes-taste.jpg",
+  "local": true
  }
 }

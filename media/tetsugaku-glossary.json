@@ -36,6 +36,15 @@
   ]
  },
  {
+  "id": "is-ought-mondai",
+  "term": "イズ・オート問題",
+  "en": "Is-ought problem",
+  "def": "事実の記述（〜である）だけから、価値判断（〜べきだ）を論理的に導くことはできない、というヒュームの指摘です。「ヒュームの法則」とも呼ばれます。",
+  "slugs": [
+   "hume-is-ought-problem"
+  ]
+ },
+ {
   "id": "eudaimonia",
   "term": "エウダイモニア（幸福）",
   "en": "Eudaimonia",

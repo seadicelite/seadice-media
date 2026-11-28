@@ -2385,5 +2385,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/A_journal_writing_book.jpg/500px-A_journal_writing_book.jpg",
   "og": "https://ledger.seadice.win/img/money-lending-record-table.jpg",
   "local": true
+ },
+ "kids-allowance-raise-request-tips": {
+  "file": "File:Money box in Marksburg castle.jpg",
+  "src": "/img/kids-allowance-raise-request-tips.jpg",
+  "src640": "/img/kids-allowance-raise-request-tips-sm.jpg",
+  "w": 960,
+  "h": 692,
+  "alt": "貯金箱と硬貨",
+  "artist": "Викидим",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Money_box_in_Marksburg_castle.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Money_box_in_Marksburg_castle.jpg/960px-Money_box_in_Marksburg_castle.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Money_box_in_Marksburg_castle.jpg/500px-Money_box_in_Marksburg_castle.jpg",
+  "og": "https://ledger.seadice.win/img/kids-allowance-raise-request-tips.jpg",
+  "local": true
  }
 }
