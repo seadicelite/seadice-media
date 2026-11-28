@@ -1414,5 +1414,22 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg/500px-thumbnail.jpg",
   "og": "https://oya.seadice.win/img/parent-care-telling-workplace.jpg",
   "local": true
+ },
+ "parent-nursing-home-guilt-visits": {
+  "file": "File:DSC 7517 Crisp white towels neatly rolled on a freshly made bed with patterned cushions and a colorful tiled headboard in the background.jpg",
+  "src": "/img/parent-care-short-stay-respite.webp",
+  "src640": "/img/parent-care-short-stay-respite-sm.webp",
+  "w": 960,
+  "h": 640,
+  "alt": "整えられたベッドの上に丸めた白いタオル",
+  "artist": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DSC_7517_Crisp_white_towels_neatly_rolled_on_a_freshly_made_bed_with_patterned_cushions_and_a_colorful_tiled_headboard_in_the_background.jpg",
+  "source_label": "Wikimedia Commons",
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/DSC_7517_Crisp_white_towels_neatly_rolled_on_a_freshly_made_bed_with_patterned_cushions_and_a_colorful_tiled_headboard_in_the_background.jpg/960px-DSC_7517_Crisp_white_towels_neatly_rolled_on_a_freshly_made_bed_with_patterned_cushions_and_a_colorful_tiled_headboard_in_the_background.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/DSC_7517_Crisp_white_towels_neatly_rolled_on_a_freshly_made_bed_with_patterned_cushions_and_a_colorful_tiled_headboard_in_the_background.jpg/500px-DSC_7517_Crisp_white_towels_neatly_rolled_on_a_freshly_made_bed_with_patterned_cushions_and_a_colorful_tiled_headboard_in_the_background.jpg",
+  "og": "https://oya.seadice.win/img/parent-care-short-stay-respite-og.jpg",
+  "local": true
  }
 }
