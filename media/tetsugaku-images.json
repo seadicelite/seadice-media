@@ -1246,5 +1246,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Claw_hammer-1.jpg/500px-Claw_hammer-1.jpg",
   "og": "https://tetsugaku.seadice.win/img/heidegger-ready-to-hand.jpg",
   "local": true
+ },
+ "hume-is-ought-problem": {
+  "file": "File:Pens, quill (51360558449).jpg",
+  "src": "/img/hume-is-ought-problem.jpg",
+  "src640": "/img/hume-is-ought-problem-sm.jpg",
+  "w": 960,
+  "h": 640,
+  "alt": "羽ペンとインク壺",
+  "artist": "Auckland Museum  Collections from Auckland, Aotearoa New Zealand",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pens,_quill_(51360558449).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Pens%2C_quill_%2851360558449%29.jpg/960px-Pens%2C_quill_%2851360558449%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Pens%2C_quill_%2851360558449%29.jpg/500px-Pens%2C_quill_%2851360558449%29.jpg",
+  "og": "https://tetsugaku.seadice.win/img/hume-is-ought-problem.jpg",
+  "local": true
  }
 }
