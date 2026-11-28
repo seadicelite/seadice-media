@@ -1115,5 +1115,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pouring_soy_sauce_into_batchoy.jpg/500px-Pouring_soy_sauce_into_batchoy.jpg",
   "og": "https://senbei.seadice.win/img/soy-sauce-aroma-compounds-count.jpg",
   "local": true
+ },
+ "senbei-eating-frequency-salt-intake": {
+  "file": "File:Borsch 04.jpg",
+  "src": "/img/senbei-eating-frequency-salt-intake.jpg",
+  "src640": "/img/senbei-eating-frequency-salt-intake-sm.jpg",
+  "w": 960,
+  "h": 960,
+  "alt": "木の器のスープと、小さな器に入った塩",
+  "artist": "Yurii-mr",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Borsch_04.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Borsch_04.jpg/960px-Borsch_04.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Borsch_04.jpg/500px-Borsch_04.jpg",
+  "og": "https://senbei.seadice.win/img/senbei-eating-frequency-salt-intake.jpg",
+  "local": true
  }
 }
