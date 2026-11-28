@@ -3853,5 +3853,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Montreal_Double_Red_Traffic_Light_Left_Arrow.jpg/960px-Montreal_Double_Red_Traffic_Light_Left_Arrow.jpg",
   "og": "https://umbra.seadice.win/img/refusal-cues-consent-body-language-research.jpg",
   "local": true
+ },
+ "chin-resting-hand-boredom-thinking-signal-research": {
+  "file": "File:Graz University-Library reading-room.jpg",
+  "src": "/img/chin-resting-hand-boredom-thinking-signal-research.jpg",
+  "src640": "/img/chin-resting-hand-boredom-thinking-signal-research-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "誰もいない図書館の閲覧室",
+  "artist": "Dr. Marcus Gossler",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Graz_University-Library_reading-room.jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Graz_University-Library_reading-room.jpg/960px-Graz_University-Library_reading-room.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Graz_University-Library_reading-room.jpg/500px-Graz_University-Library_reading-room.jpg",
+  "og": "https://umbra.seadice.win/img/chin-resting-hand-boredom-thinking-signal-research.jpg",
+  "local": true
  }
 }
