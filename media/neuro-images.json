@@ -1633,5 +1633,23 @@
   "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Six_wine_glasses_in_red%2C_orange%2C_purple%2C_green%2C_yellow%2C_and_light_green.jpg/500px-Six_wine_glasses_in_red%2C_orange%2C_purple%2C_green%2C_yellow%2C_and_light_green.jpg",
   "og": "https://neuro.seadice.win/img/price-changes-taste.jpg",
   "local": true
+ },
+ "correcting-misinformation": {
+  "file": "File:First Proof (37953048).jpg",
+  "src": "/img/correcting-misinformation.jpg",
+  "src640": "/img/correcting-misinformation-sm.jpg",
+  "w": 960,
+  "h": 720,
+  "alt": "直しを書き込んだ校正刷り",
+  "artist": "Ferrous Büller from Portland, Oregon, United States",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:First_Proof_(37953048).jpg",
+  "source_label": "Wikimedia Commons",
+  "unconverted": true,
+  "remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/First_Proof_%2837953048%29.jpg/960px-First_Proof_%2837953048%29.jpg",
+  "remote640": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/First_Proof_%2837953048%29.jpg/500px-First_Proof_%2837953048%29.jpg",
+  "og": "https://neuro.seadice.win/img/correcting-misinformation.jpg",
+  "local": true
  }
 }
